@@ -9,24 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:35 PM CT, Apr. 01 </p> 
+ <p class="updated_time"> 07:21 PM CT, Apr. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60963054?at_medium=RSS&at_campaign=KARANGA">Will Smith resigns from Oscars Academy over slap</a> BBC: The actor, who slapped comic Chris Rock, called his own actions "shocking, painful, and inexcusable". 
+ <p class="updated_time"> 07:18 PM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/world/nj-schools-mask-mandates-covid-outbreak.html">Two New Jersey High Schools Reinstate Mask Mandates After Covid Outbreak</a> NYT: New coronavirus cases have led to the resumption, if temporarily, of some mitigation strategies. 
+ <p class="updated_time"> 07:18 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/04/01/world/ukraine-russia-war">Ukraine Live Updates: 3,000 Civilians Escape Mariupol</a> NYT: But a Red Cross evacuation convoy couldn’t reach the city, and many people remain trapped there. The U.S. will provide Ukraine with equipment to protect against a potential chemical or biological attack. 
+ <p class="updated_time"> 07:07 PM CT, Apr. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60944677?at_medium=RSS&at_campaign=KARANGA">Amazon workers win battle to form first US union</a> BBC: The Amazon Labor Union won a contest to establish the first unionised Amazon warehouse in the US. 
+ <p class="updated_time"> 06:57 PM CT, Apr. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-60708123?at_medium=RSS&at_campaign=KARANGA">What we now know about long Covid</a> BBC: Why are so many people still living with long Covid after two years and are there any hopes for treatment? 
+ <p class="updated_time"> 06:54 PM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/world/europe/zelensky-russian-military-speech-video.html">Zelensky Calls for Popular Disobedience, in Both Ukraine and Russia</a> NYT: President Volodymyr Zelensky of Ukraine threatened retribution for people who collaborate with occupying forces and accused retreating Russians of planting mines and even booby-trapping corpses. 
+ <p class="updated_time"> 06:48 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 06:24 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/pope-apology-indigenous-people-canada.html">Pope Apologizes to Indigenous People of Canada</a> NYT: Pope Francis also promised to visit Canada as part of a process of healing and reconciliation over the church’s involvement in an abusive system of residential schools. 
- <p class="updated_time"> 06:23 PM CT, Apr. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60963054?at_medium=RSS&at_campaign=KARANGA">Will Smith resigns from Oscars Academy over slap</a> BBC: The actor, who slapped comic Chris Rock, called his own actions "shocking, painful, and inexcusable". 
+ <p class="updated_time"> 06:03 PM CT, Apr. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/health-60929956?at_medium=RSS&at_campaign=KARANGA">Lateral flow tests: Should I recycle the plastic?</a> BBC: Scientists say more could have been done to make lateral flow tests widely recyclable. 
  <p class="updated_time"> 06:01 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60956241?at_medium=RSS&at_campaign=KARANGA">Ukraine: Why the cartoon Masyanya was banned in Russia</a> BBC: Masyanya is a YouTube cartoon star in Russia, but her episode on the Ukraine war has been banned. 
- <p class="updated_time"> 05:53 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
+ <p class="updated_time"> 05:48 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 05:19 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60962777?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell bid for retrial denied</a> BBC: A US judge upholds Ghislaine Maxwell's sex trafficking conviction, denying her bid for a new trial. 
- <p class="updated_time"> 04:53 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 04:53 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/russia-putin-support-ukraine.html">Shaken at First, Many Russians Now Rally Behind Putin’s Invasion</a> NYT: Polls and interviews show many Russians now accept the Kremlin’s assertion that their country is under siege from the West. Opponents are leaving the country or keeping quiet. 
  <p class="updated_time"> 04:53 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/middleeast/israel-terrorism-bennett-palestinians.html">Spike in Violence Poses Test for Israel’s Fragile Government</a> NYT: A rash of terrorist attacks has spawned criticism of the government from the left and right, and for opposite reasons. But the coalition’s diversity has constrained its options. 
+ <p class="updated_time"> 04:48 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
  <p class="updated_time"> 04:41 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/charles-g-boyd-dead.html">Charles G. Boyd, Air Force General and Former P.O.W., Dies at 83</a> NYT: He began his 36-year career in the military as a fighter pilot and was the only prisoner of war in the Vietnam conflict to become a four-star general. 
  <p class="updated_time"> 04:34 PM CT, Apr. 01 </p> 
@@ -38,33 +50,29 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:05 PM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090355134/hungarian-opposition-parties-aim-to-oust-longtime-prime-minister-in-major-electi">Hungarian opposition parties aim to oust longtime prime minister in major election</a> NPR: Hungarians head to the polls on Sunday in what experts are calling the most important election in a generation. Three-term Prime Minister Viktor Orban is facing a conservative candidate. 
  <p class="updated_time"> 03:53 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
- <p class="updated_time"> 03:53 PM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090355120/tokyo-loosens-strict-public-school-uniform-rules">Tokyo loosens strict public school uniform rules</a> NPR: NPR's Kelsey Snell talks with Japan-based reporter for Vice World News, Hanako Montgomery, about the lifting of decades-old school uniform rules in the Tokyo metropolitan area. 
+ <p class="updated_time"> 03:48 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
  <p class="updated_time"> 03:45 PM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090355099/a-radio-station-in-ukraine-balances-music-laughs-and-war-news-in-their-broadcast">A radio station in Ukraine balances music, laughs and war news in their broadcasts</a> NPR: The Wave of Lviv is a radio station known for pop music and banter. Since the war began in Ukraine, though, they've been working to balance their irreverent tone with news from the front lines. 
  <p class="updated_time"> 03:27 PM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090355053/deputy-national-security-adviser-talks-about-the-risk-of-russia-waging-cyberwar">Deputy national security adviser talks about the risk of Russia waging cyberwar</a> NPR: NPR's Ailsa Chang speaks with Deputy National Security Adviser Anne Neuberger, about the risk of a cyberwar and how the U.S. might respond to attacks on the country's infrastructure. 
- <p class="updated_time"> 02:53 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
+ <p class="updated_time"> 02:48 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Yemen Parties Agree to Two-Month Truce 
  <p class="updated_time"> 02:44 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60952125?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia accuses Ukraine of attacking oil depot</a> BBC: Russia claims a Ukrainian helicopter raid set fuel tanks ablaze in Belgorod, a Russian city. 
  <p class="updated_time"> 02:24 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/mariupol-evacuation-failed.html">Evacuation of Mariupol Falters as Red Cross Team Is Turned Back</a> NYT: At least one group of private vehicles left the battered city, but a larger effort failed when unsafe conditions prevented a Red Cross team from reaching the city to escort an evacuation convoy. 
  <p class="updated_time"> 01:53 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/economic-crisis-is-prize-for-winner-of-pakistan-power-struggle-11648819275">Economic Crisis Is Prize for Winner of Pakistan Power Struggle</a> WSJ: Economic Crisis Is Prize for Winner of Pakistan Power Struggle 
- <p class="updated_time"> 01:53 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/russia-uranium-nuclear-power.html">Russia’s Aggression Prompts Calls to Rethink U.S. Uranium Imports</a> NYT: The war in Ukraine has highlighted the risks of U.S. dependence on Russia for the fuel needed for nuclear energy, creating new challenges for the industry. 
- <p class="updated_time"> 01:38 PM CT, Apr. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-60944677?at_medium=RSS&at_campaign=KARANGA">Amazon workers win battle to form first US union</a> BBC: The Amazon Labor Union won a contest to establish the first unionised Amazon warehouse in the US. 
+ <p class="updated_time"> 01:42 PM CT, Apr. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60947937?at_medium=RSS&at_campaign=KARANGA">One mother's mission to ban 'vulgar' books</a> BBC: Challenges to books about sexual and racial identity have been common in US schools in the past. But the politicisation around them is new. 
  <p class="updated_time"> 01:30 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/middleeast/yemen-truce.html">U.N. Says Yemen’s Warring Parties Have Agreed to 2-Month Truce</a> NYT: The agreement comes after a significant escalation in recent weeks that saw Yemen’s Iran-backed Houthi rebels claim several attacks. 
  <p class="updated_time"> 01:23 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/americas/costa-rica-election-sexual-harassment.html">Costa Rica’s Close Election Tests Women’s Rights </a> NYT: In Costa Rica’s runoff on Sunday, voters will decide between a candidate found to have sexually harassed junior employees at the World Bank and a former president once accused of corruption. 
  <p class="updated_time"> 01:04 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/eu-europe-china-summit-ukraine-russia-trade.html">Europe Asks China Not to Aid Russia’s War in Ukraine</a> NYT: A first E.U.-China summit in two years was overshadowed by Ukraine and China’s alliance with Moscow and produced few results. 
- <p class="updated_time"> 01:03 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Halt in fighting between Saudia Arabia and Iran-backed Houthis would be the first since 2016; the conflict has claimed 377,000 lives. 
  <p class="updated_time"> 01:00 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/climate/wildfire-extreme-rain-mudslides.html">Fires, Then Floods: Risk of Deadly Climate Combination Rises</a> NYT: A new study found that the dangerous pairing of disasters may become more common in the American West as rains trigger runaway surges of mud and debris in areas damaged by wildfire. 
  <p class="updated_time"> 12:55 PM CT, Apr. 01 </p> 
@@ -93,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60867042?at_medium=RSS&at_campaign=KARANGA">World Cup 2022: How has Qatar treated stadium workers?</a> BBC: Qatar has used thousands of foreign workers to build its World Cup facilities. Many may have died. 
  <p class="updated_time"> 08:47 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/asia/china-covid-shanghai.html">Covid Outbreak at Shanghai Hospital Exposes  Risks to China’s Seniors</a> NYT: Coronavirus infections have spread at an elder care facility in Shanghai. Workers said deaths are increasing and resources dwindling. 
- <p class="updated_time"> 08:06 AM CT, Apr. 01 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60952217?at_medium=RSS&at_campaign=KARANGA">Chris Rock did not want Will Smith ejected from Oscars, producer says</a> BBC: Will Packer has described what happened after Will Smith slapped Chris Rock at the awards ceremony. 
  <p class="updated_time"> 07:54 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/31/us/politics/russia-military-ukraine.html">Russia’s War Lacks a Battlefield Commander, U.S. Officials Say</a> NYT: Poor logistics and flagging morale have plagued a disjointed military campaign in Ukraine, according to American officials and independent analysts. 
  <p class="updated_time"> 07:30 AM CT, Apr. 01 </p> 
@@ -133,8 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60949791?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Gruesome evidence points to war crimes on road outside Kyiv</a> BBC: The BBC finds the charred remains of civilians on a highway where Russian troops had stationed tanks. 
  <p class="updated_time"> 01:24 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ireland-magdalene-laundry-women-abuse.html">Ireland’s Last ‘Magdalene Laundry’ Will Become a Memorial</a> NYT: A compound in Dublin where unmarried mothers and other unwanted women were incarcerated to work in abject conditions had been earmarked as a site for a budget hotel. 
- <p class="updated_time"> 01:14 AM CT, Apr. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60950266?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protest at president Rajapaksa's home turns violent</a> BBC: Tear gas was fired on demonstrators protesting against dire food, fuel and power shortages. 
  <p class="updated_time"> 12:19 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090184438/solomon-islands-says-china-deal-wont-include-military-base">Solomon Islands says China security deal won't include military base</a> NPR: The Solomon Islands said that despite a recent pact with China, it won't allow the major power to build a military base, and the two are only collaborating on security and naval refueling. 
  <p class="updated_time"> 10:08 PM CT, Mar. 31 </p> 
@@ -197,8 +201,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/asia/china-cheng-lei-australia.html">Cheng Lei, Australian Journalist, Is Tried by China</a> NYT: Cheng Lei, a former CGTN host, was detained in 2020. The Chinese authorities have accused her of divulging state secrets but offered no specifics. 
  <p class="updated_time"> 12:12 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/putin-advisers-ukraine.html">Putin’s Advisers Misinformed Him on Ukraine, U.S. Intelligence Suggests</a> NYT: One American official said that there “is now persistent tension” between the Russian president and his Defense Ministry. 
- <p class="updated_time"> 10:27 PM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-front-lines-russia-war.html">‘Like Living in a Horror Movie’: A Ukraine Town Dying a Slow Death</a> NYT: The war never stops in Huliaipole, a town on the front lines in eastern Ukraine. Most residents have fled. Those who remain listen to the Russian shelling and wonder: Where will the next one land? 
  <p class="updated_time"> 07:03 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-russia-war.html">Russia Steps Up Attacks Amid Reports of Rifts in Moscow</a> NYT: Despite claims of de-escalation, Russian forces turned their fury on Chernihiv and the suburbs of Kyiv. U.S. officials say they believe Vladimir Putin’s aides are misleading him about the war. 
  <p class="updated_time"> 05:01 PM CT, Mar. 30 </p> 
@@ -214,6 +216,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:38 PM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/us/politics/sarah-palin-running-congress-alaska.html">Sarah Palin Announces She’s Running for Congress in Alaska</a> NYT: Ms. Palin released a statement on Friday that she was entering the race to replace Representative Don Young, who died last month. 
+ <p class="updated_time"> 07:19 PM CT, Apr. 01 </p> 
+ <a href="https://www.politico.com/news/2022/04/01/cawthorn-gop-furor-sex-drugs-comments-00022528">Cawthorn blames ‘the left and the media’ after intra-GOP furor over sex-and-drugs comments</a> Politico: Cawthorn has faced widespread public criticism from congressional Republicans and within the North Carolina GOP following his comments on a podcast. 
  <p class="updated_time"> 06:33 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/business/media/jen-psaki-msnbc.html">Jen Psaki Is Said to Be in Talks to Join MSNBC</a> NYT: Ms. Psaki faced tough questions from the White House press corps about performing her job while negotiating with a news outlet. 
  <p class="updated_time"> 06:19 PM CT, Apr. 01 </p> 
