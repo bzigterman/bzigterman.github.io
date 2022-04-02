@@ -9,29 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:59 PM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/world/new-york-hochul-second-boosters.html">Hochul Says Second Boosters Are Offered at New York Vaccination Sites</a> NYT: Government officials move to get ahead of an uptick in cases fueled by the highly transmissible Omciron subvariant. 
+ <p class="updated_time"> 05:53 PM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/business/shanghai-covid-child-separation.html">In Shanghai, Covid Is Separating Parents  From Children</a> NYT: As China’s largest city struggles to contain a coronavirus outbreak, outrage erupted online after images of small children isolated from parents circulated. 
  <p class="updated_time"> 05:46 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Ukraine Live Updates: Russian Troops Pull Back From Around Kyiv as Focus Shifts to East</a> NYT: Military analysts say Russia is pulling away from areas around Kyiv, the capital, though the Pentagon has cautioned that it could be regrouping. The Red Cross is trying again to reach the besieged city of Mariupol. 
- <p class="updated_time"> 05:39 PM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/world/new-york-hochul-second-boosters.html">Hochul Says Second Boosters Are Offered at New York Vaccination Sites</a> NYT: Government officials move to get ahead of an uptick in cases fueled by the highly transmissible Omciron subvariant. 
  <p class="updated_time"> 05:14 PM CT, Apr. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60968546?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Evidence grows of civilian killings in Bucha</a> BBC: The BBC's Jeremy Bowen reports on the growing evidence of civilian killings in Bucha, near Kyiv. His report contains some distressing images. 
+ <a href="https://www.bbc.co.uk/news/world-europe-60968546?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Evidence grows of civilian killings in Bucha</a> BBC: The BBC's Jeremy Bowen reports signs of civilian killings in Bucha, near Kyiv. His report contains distressing images. 
  <p class="updated_time"> 05:08 PM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090475172/unesco-ukraine-cultural-sites-damage">UNESCO says 53 cultural sites in Ukraine have been damaged since the Russian invasion</a> NPR: The damaged sites include churches, historic buildings, museums and monuments. A UNESCO spokesperson said they fear more sites will be added to the list, as the group works to verify the destruction. 
  <p class="updated_time"> 05:05 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-russia-kyiv.html">Russia Retreats From Kyviv, Seeking to Regroup from Battering</a> NYT: A short drive from Kyiv in any direction turned up scenes of incinerated Russian vehicles, charred engine parts and chunks of armor. Attention is now shifting to the east, where Moscow says it is redirecting its forces. 
+ <p class="updated_time"> 05:00 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002">Ukraine Assesses Damage After Russian Pullback Near Kyiv</a> WSJ: Ukraine Assesses Damage After Russian Pullback Near Kyiv 
  <p class="updated_time"> 04:55 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60970636?at_medium=RSS&at_campaign=KARANGA">Search under way in English Channel for missing small plane</a> BBC: A P-28 plane goes missing on a journey from Wellesbourne, Warwickshire, to Le Touquet, France. 
- <p class="updated_time"> 04:50 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002">Ukraine Assesses Damage After Russian Pullback Near Kyiv</a> WSJ: Ukraine Assesses Damage After Russian Pullback Near Kyiv 
+ <p class="updated_time"> 04:00 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/on-natos-front-line-russias-threat-draws-new-allied-forces-11648904581">On NATO’s Front Line, Russia’s Threat Draws New Allied Forces</a> WSJ: On NATO’s Front Line, Russia’s Threat Draws New Allied Forces 
  <p class="updated_time"> 03:50 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/lithuania-russia-gas.html">Lithuania Says It Has Stopped Importing Gas From Russia </a> NYT: Although tiny, Lithuania is the largest economy in the Baltic States and a eurozone member, giving the decision significance to European nations. “If we can do it, the rest of Europe can do it too,” the president said. 
- <p class="updated_time"> 03:50 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/on-natos-front-line-russias-threat-draws-new-allied-forces-11648904581">On NATO’s Front Line, Russia’s Threat Draws New Allied Forces</a> WSJ: On NATO’s Front Line, Russia’s Threat Draws New Allied Forces 
  <p class="updated_time"> 03:15 PM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090471297/russia-ukraine-war-what-happened-today-april-2">Russia-Ukraine war: What happened today (April 2)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:15 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/pope-francis-russia-putin-ukraine.html">Pope Francis Alludes to Putin’s Role in War on Ukraine</a> NYT: Francis’ remarks during a trip to Malta were the closest he has come to pinning the war in Ukraine on President Vladimir V. Putin of Russia. 
- <p class="updated_time"> 02:50 PM CT, Apr. 02 </p> 
+ <p class="updated_time"> 03:00 PM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
  <p class="updated_time"> 02:36 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60967458?at_medium=RSS&at_campaign=KARANGA">Hargeisa fire: Inferno devastates market in Somaliland's capital</a> BBC: Hundreds of businesses are destroyed in the main market of Hargeisa in an overnight blaze. 
@@ -39,7 +41,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/02/world/asia/imran-khan-pakistan-no-confidence.html">Imran Khan Says He Won’t Accept Result of  No-Confidence Vote</a> NYT: The prime minister of Pakistan, whose coalition has lost support in the National Assembly, claimed the coming vote was a conspiracy between opposition lawmakers and the United States. 
  <p class="updated_time"> 02:08 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-russian-defeat-vasylkiv.html">When the Russians Picked the Wrong Town in Ukraine to Invade</a> NYT: The outgunned people of Vasylkiv, a provincial Ukrainian town, successfully fought off Russian troops in the early days of the war, helping to keep the capital safe and entering Ukraine’s military lore. 
- <p class="updated_time"> 01:50 PM CT, Apr. 02 </p> 
+ <p class="updated_time"> 02:00 PM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/anger-rises-in-sri-lanka-as-economic-crisis-worsens-11648897200">Anger Rises in Sri Lanka as Economic Crisis Worsens</a> WSJ: Anger Rises in Sri Lanka as Economic Crisis Worsens 
  <p class="updated_time"> 01:30 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60967463?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Street in Bucha found strewn with dead bodies</a> BBC: A reporter entering Bucha, near Kyiv, counts at least 20 bodies of men, one with his hands tied. 
@@ -47,16 +49,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/02/world/middleeast/yemen-cease-fire.html">Yemen’s Warring Parties Begin First Cease-Fire in 6 Years</a> NYT: The two-month truce, brokered by the United Nations, offers hope for a reduction of violence in a war that has rattled the Arabian Peninsula and caused a humanitarian crisis. 
  <p class="updated_time"> 01:08 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/putin-ukraine-failure.html">For Putin, the Invasion Is Another Failure in Ukraine </a> NYT: Beginning in 2004, the Russian leader’s repeated efforts to subjugate his neighbor have been defeated, frustrating his imperial ambitions. 
+ <p class="updated_time"> 01:00 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/u-s-philippines-hold-one-of-their-largest-ever-military-exercises-11648906324">U.S., Philippines Hold One of Their Largest-Ever Military Exercises</a> WSJ: U.S., Philippines Hold One of Their Largest-Ever Military Exercises 
  <p class="updated_time"> 12:53 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/01/arts/budi-tek-dead.html">Budi Tek, 65, Dies; His Fortune Built a Vast Trove of Asian Art</a> NYT: He was one of the world’s top collectors, and his immense Yuz Museum in Shanghai helped establish the region’s bustling art scene. 
- <p class="updated_time"> 12:50 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-philippines-hold-one-of-their-largest-ever-military-exercises-11648906324">U.S., Philippines Hold One of Their Largest-Ever Military Exercises</a> WSJ: U.S., Philippines Hold One of Their Largest-Ever Military Exercises 
  <p class="updated_time"> 12:18 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60962188?at_medium=RSS&at_campaign=KARANGA">Yemen warring parties agree two-month truce - UN</a> BBC: It is the first nationwide truce since 2016, in a war said to have killed nearly 400,000 people. 
  <p class="updated_time"> 11:13 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/russia-space-station.html">Is Russia Quitting the International Space Station? Not Quite.</a> NYT: NASA has sidestepped suggestions that Russia might pull out of the space station partnership. 
- <p class="updated_time"> 09:32 AM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/business/shanghai-covid-child-separation.html">In Shanghai, Covid Is Separating Parents  From Children</a> NYT: As China’s largest city struggles to contain a coronavirus outbreak, outrage erupted online after images of small children isolated from parents spread. 
  <p class="updated_time"> 09:07 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/spain-madrid-latin-america.html">Why Madrid Rivals Miami as a Haven for Latin Americans</a> NYT: Turmoil and a political swing to the left have brought an influx of prominent and affluent exiles from the region to the Spanish capital in recent years. 
  <p class="updated_time"> 09:06 AM CT, Apr. 02 </p> 
