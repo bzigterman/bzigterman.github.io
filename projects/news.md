@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:48 PM CT, Apr. 01 </p> 
+ <p class="updated_time"> 12:08 AM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/01/world/ukraine-russia-war">What Happened on Day 37 of Russia’s Invasion of Ukraine</a> NYT: A Red Cross convoy will try again to reach the besieged city of Mariupol on Saturday. President Volodymyr Zelensky of Ukraine accused Russians of laying land mines as they retreated. 
+ <p class="updated_time"> 11:26 PM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
- <p class="updated_time"> 10:37 PM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/04/01/world/ukraine-russia-war">Ukraine Live Updates: 3,000 Civilians Escape Besieged City of Mariupol</a> NYT: A Red Cross convoy will try again to reach the city on Saturday. President Volodymyr Zelensky of Ukraine accused Russians of laying land mines as they retreat. 
+ <p class="updated_time"> 10:26 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 10:22 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes state of emergency amid protests</a> BBC: Protestors are angry because of food, fuel and power shortages across the nation. 
  <p class="updated_time"> 10:18 PM CT, Apr. 01 </p> 
@@ -23,22 +25,22 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/world/middleeast/israel-terrorism-bennett-palestinians.html">Spike in Violence Poses Test for Israel’s Fragile Government</a> NYT: A rash of terrorist attacks has spawned criticism of the government from the left and right, and for opposite reasons. But the coalition’s diversity has constrained its options. 
  <p class="updated_time"> 10:03 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60962188?at_medium=RSS&at_campaign=KARANGA">Yemen warring parties agree two-month truce - UN</a> BBC: It is the first nationwide truce since 2016, in a war said to have killed nearly 400,000 people. 
- <p class="updated_time"> 09:48 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
- <p class="updated_time"> 08:48 PM CT, Apr. 01 </p> 
+ <p class="updated_time"> 09:26 PM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
  <p class="updated_time"> 08:36 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60910123?at_medium=RSS&at_campaign=KARANGA">Surya Kasibhatla: Actor with cerebral palsy shines in Bollywood thriller Jalsa</a> BBC: The 14-year-old of Indian origin has received rave reviews for his Bollywood debut. 
  <p class="updated_time"> 08:34 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60915170?at_medium=RSS&at_campaign=KARANGA">Liberia taxi driver: How returning $50,000 changed Emmanuel Tuloe's life</a> BBC: Liberian Emmanuel Tuloe decided not to keep the bundle of cash he found at the side of the road. 
+ <p class="updated_time"> 08:26 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
  <p class="updated_time"> 08:03 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60952882?at_medium=RSS&at_campaign=KARANGA">Russia's war ignites Orban's tightest election challenge in Hungary</a> BBC: For the first time since 2010, Hungary's prime minister faces a real fight for election victory. 
  <p class="updated_time"> 07:53 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/us-tanks-ukraine.html">U.S. Will Help Transfer Soviet-Made Tanks to Ukraine</a> NYT: The transfer, a response to a request from Ukraine’s president, will mark the first time the Biden administration has helped send tanks in the five-week-old war. 
- <p class="updated_time"> 07:48 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
  <p class="updated_time"> 07:45 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60950929?at_medium=RSS&at_campaign=KARANGA">China: Shanghai hospital struggles with Covid infections</a> BBC: Authorities have yet to announce Covid deaths, but hospital workers have described a dire situation. 
+ <p class="updated_time"> 07:26 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Yemen Parties Agree to Two-Month Truce 
  <p class="updated_time"> 07:18 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/nj-schools-mask-mandates-covid-outbreak.html">Two New Jersey High Schools Reinstate Mask Mandates After Covid Outbreak</a> NYT: New coronavirus cases have led to the resumption, if temporarily, of some mitigation strategies. 
  <p class="updated_time"> 07:15 PM CT, Apr. 01 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60708123?at_medium=RSS&at_campaign=KARANGA">What we now know about long Covid</a> BBC: Why are so many people still living with long Covid after two years and are there any hopes for treatment? 
  <p class="updated_time"> 06:54 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/zelensky-russian-military-speech-video.html">Zelensky Calls for Popular Disobedience, in Both Ukraine and Russia</a> NYT: President Volodymyr Zelensky of Ukraine threatened retribution for people who collaborate with occupying forces and accused retreating Russians of planting mines and even booby-trapping corpses. 
- <p class="updated_time"> 06:48 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Yemen Parties Agree to Two-Month Truce 
  <p class="updated_time"> 06:24 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/pope-apology-indigenous-people-canada.html">Pope Apologizes to Indigenous People of Canada</a> NYT: Pope Francis also promised to visit Canada as part of a process of healing and reconciliation over the church’s involvement in an abusive system of residential schools. 
  <p class="updated_time"> 06:03 PM CT, Apr. 01 </p> 
