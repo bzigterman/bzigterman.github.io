@@ -9,21 +9,21 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:12 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 04:22 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Live Updates: Russian Troops Pull Out of Ukraine’s North as Focus Shifts to East</a> NYT: Military analysts confirmed that Russia was pulling its troops away from areas around Kyiv, the capital. The Red Cross will make another attempt on Saturday to reach the besieged city of Mariupol. 
  <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090270597/biden-is-the-latest-president-to-go-off-script-on-russia">Biden is the latest president to go off script on Russia</a> NPR: Biden was far from the first U.S. president to say what he thought about Russia or its leaders — or to pay a price for it. 
- <p class="updated_time"> 03:23 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 03:37 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
- <p class="updated_time"> 02:23 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 02:37 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 01:55 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60953787?at_medium=RSS&at_campaign=KARANGA">Will Smith: Can his career recover after Oscars slap?</a> BBC: Has the film star's on-stage slap done permanent damage to his image and career? 
- <p class="updated_time"> 01:23 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 01:37 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
- <p class="updated_time"> 12:23 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 12:37 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
- <p class="updated_time"> 11:23 PM CT, Apr. 01 </p> 
+ <p class="updated_time"> 11:37 PM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Yemen Parties Agree to Two-Month Truce 
  <p class="updated_time"> 10:22 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes state of emergency amid protests</a> BBC: Protestors are angry because of food, fuel and power shortages across the nation. 
@@ -314,10 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/01/global-vaccination-strategy-shift-00022189">‘Recognition of failure’: A shift urged in global vaccination strategy</a> Politico: Health organizations again seek to prioritize at-risk populations for Covid shots. 
  <p class="updated_time"> 03:30 AM CT, Apr. 01 </p> 
  <a href="https://www.politico.com/gallery/2022/04/01/the-nations-cartoonists-on-the-week-in-politics-00022190">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 11:11 PM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/us/politics/trump-photographer-shealah-craighead.html">She Took the White House Photos. Trump Moved to Take the Profit.</a> NYT: The former chief White House photographer made plans to publish a book of Trump photos. The former president had other plans. 
- <p class="updated_time"> 10:09 PM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/us/politics/florida-voting-law.html">Judge Rules Parts of Florida Voting Law Are Unconstitutional</a> NYT: The ruling against a major Republican election law, issued by a federal judge in Tallahassee, is likely to be overturned either by a higher appeals court or the U.S. Supreme Court. 
  <p class="updated_time"> 09:02 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/us/politics/rick-scott.html">Income Taxes for All? Rick Scott Has a Plan, and That’s a Problem.</a> NYT: The “Plan to Rescue America” is dividing the party and cheering Democrats, and its author, Senate Republicans’ top campaign official, won’t stop talking about it. 
  <p class="updated_time"> 08:15 PM CT, Mar. 31 </p> 
