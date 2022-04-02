@@ -9,38 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:51 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 06:15 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Ukraine Live Updates: Russian Troops Pull Back From Around Kyiv as Focus Shifts to East</a> NYT: Military analysts say Russia is pulling away from areas around Kyiv, the capital, though the Pentagon has cautioned that it could be regrouping. The Red Cross is trying again to reach the besieged city of Mariupol. 
+ <p class="updated_time"> 06:11 AM CT, Apr. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60963054?at_medium=RSS&at_campaign=KARANGA">Will Smith resigns from Oscars Academy over slap</a> BBC: The actor, who slapped comic Chris Rock, called his own actions "shocking, painful, and inexcusable". 
+ <p class="updated_time"> 06:07 AM CT, Apr. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes curfew amid food, fuel and power shortage protests</a> BBC: A state of emergency is in force as protests over food, fuel and power shortages sweep the nation. 
  <p class="updated_time"> 05:41 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/middleeast/israel-palestinians-west-bank.html">Israeli Troops Kill 3 Palestinians in West Bank After Rise in Attacks</a> NYT: The Israeli authorities said the men were militants, killed in a shootout. The security forces have ramped up their operations after a wave of violence. 
  <p class="updated_time"> 05:37 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/pope-francis-putin-ukraine.html">Pope Francis alludes to Putin’s bringing ‘dark shadows of war’ to Ukraine.</a> NYT: The pope also said in response to a reporter’s question on a papal flight to Malta that a possible visit to Kyiv was “on the table.” 
+ <p class="updated_time"> 05:19 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 05:00 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/canada/catholics-reparations-indigenous-canada-schools.html">How Catholics Avoided Paying Millions in Reparations for Residential Schools</a> NYT: During its final weeks in office, the previous Conservative government reached a deal allowing the church to walk away from most of its obligations. 
- <p class="updated_time"> 04:55 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 04:52 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/middleeast/yemen-cease-fire.html">Yemen’s Warring Parties to Begin First Cease-Fire in 6 Years</a> NYT: The two-month truce, brokered by the United Nations, offers hope for a reduction of violence in a war that has rattled the Arabian Peninsula and caused a humanitarian crisis. 
  <p class="updated_time"> 04:47 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/climate/oil-tankers-russia.html">A Tanker’s Giant U-Turn Reveals Strains in the Market for Russian Oil</a> NYT: The ship, originally sailing to Philadelphia, apparently lost its buyer in the middle of the Atlantic. A number of tankers carrying Russian oil face similar problems. 
+ <p class="updated_time"> 04:19 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090270597/biden-is-the-latest-president-to-go-off-script-on-russia">Biden is the latest president to go off script on Russia</a> NPR: Biden was far from the first U.S. president to say what he thought about Russia or its leaders — or to pay a price for it. 
- <p class="updated_time"> 03:55 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
- <p class="updated_time"> 02:55 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 03:19 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
- <p class="updated_time"> 01:55 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 02:19 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
  <p class="updated_time"> 01:55 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60953787?at_medium=RSS&at_campaign=KARANGA">Will Smith: Can his career recover after Oscars slap?</a> BBC: Has the film star's on-stage slap done permanent damage to his image and career? 
- <p class="updated_time"> 12:55 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 01:19 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Yemen Parties Agree to Two-Month Truce 
- <p class="updated_time"> 10:22 PM CT, Apr. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes state of emergency amid protests</a> BBC: Protestors are angry because of food, fuel and power shortages across the nation. 
  <p class="updated_time"> 10:18 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/charles-g-boyd-dead.html">Charles G. Boyd, Air Force General and Former P.O.W., Dies at 83</a> NYT: He began his 36-year career in the military as a fighter pilot and was the only prisoner of war in the Vietnam conflict to become a four-star general. 
- <p class="updated_time"> 10:14 PM CT, Apr. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60963054?at_medium=RSS&at_campaign=KARANGA">Will Smith resigns from Oscars Academy over slap</a> BBC: The actor, who slapped comic Chris Rock, called his own actions "shocking, painful, and inexcusable". 
  <p class="updated_time"> 10:08 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/middleeast/israel-terrorism-bennett-palestinians.html">Spike in Violence Poses Test for Israel’s Fragile Government</a> NYT: A rash of terrorist attacks has spawned criticism of the government from the left and right, and for opposite reasons. But the coalition’s diversity has constrained its options. 
  <p class="updated_time"> 10:03 PM CT, Apr. 01 </p> 
@@ -218,6 +218,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:01 AM CT, Apr. 02 </p> 
+ <a href="https://www.politico.com/news/2022/04/02/if-cuomo-wants-to-run-for-office-hed-need-a-staff-it-might-not-be-easy-00021615">Cuomo’s got millions to run again. But he may be too toxic to build a team.</a> Politico: Half a dozen political consultants and polling firms said in interviews that Cuomo has become persona non grata in the consulting world — with some shying away from helping him rebuild his career and make another run for governor. 
+ <p class="updated_time"> 06:01 AM CT, Apr. 02 </p> 
+ <a href="https://www.politico.com/news/2022/04/02/education-secretary-miguel-cardonas-first-year-in-office-on-message-but-out-of-touch-00021623">Education Secretary Miguel Cardona's first year in office: On message, but out of touch</a> Politico: Much like President Joe Biden, Cardona was seen as someone who could come in and ease tensions after months of charged debate over school closures. 
+ <p class="updated_time"> 06:00 AM CT, Apr. 02 </p> 
+ <a href="https://www.politico.com/news/2022/04/02/adams-nypd-homeless-camps-00022473">Adams orders NYPD to clear homeless camps — and wins Giuliani comparisons</a> Politico: Elected officials and advocates say there's no safe place for homeless New Yorkers to go after Adams already cleared out the subways and transit hubs. 
  <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090270597/biden-is-the-latest-president-to-go-off-script-on-russia">Biden is the latest president to go off script on Russia</a> NPR: Biden was far from the first U.S. president to say what he thought about Russia or its leaders — or to pay a price for it. 
  <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
@@ -302,18 +308,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/01/1089989337/employers-continue-hiring-spree-even-as-war-in-ukraine-ratchets-up-economic-fear">Employers continue hiring spree even as war in Ukraine ratchets up economic fears</a> NPR: U.S. employers added 431,000 jobs in March, as the unemployment rate fell to 3.6% from 3.8% in February. The tight job market is putting upward pressure on both wages and prices. 
  <p class="updated_time"> 05:41 AM CT, Apr. 01 </p> 
  <a href="https://www.cnn.com/2022/03/31/politics/mystery-call-gap-trump-jan-6-white-house-phone-logs/index.html">Official review of Trump phone logs from January 6 finds record is complete</a> CNN: In the seven hours during which White House records show no phone calls to or from then-President Donald Trump on January 6, 2021, among the calls that are conspicuously absent is one Trump made to then-Vice President Mike Pence that morning from the Oval Office. 
- <p class="updated_time"> 04:55 AM CT, Apr. 01 </p> 
- <a href="https://www.politico.com/news/2022/04/01/former-bill-clinton-adviser-playbook-deep-dive-00022248">Think you understand suburban voters? Doug Sosnik has a 14-page memo betting otherwise.</a> Politico: On this week’s show, Playbook co-author Ryan Lizza talks with Doug Sosnik, former advisor to then-President Bill Clinton, to dissect what he calls the five Democratic myths about American politics and why the suburbs are crucial for national elections. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1089958980/trump-is-struggling-again-in-georgia-with-2022-endorsements-driven-by-his-2020-l">Trump is struggling again in Georgia, with 2022 endorsements driven by his 2020 loss</a> NPR: Donald Trump is embracing longshot candidates and seeking to oust incumbents that did not overturn his defeat. Many of his chosen GOP candidates are struggling in Georgia and other states. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1089990539/climate-change-politics">The far-right and environmentalism overlap is bigger than you think — and growing</a> NPR: The modern environmental movement and the far-right movement might appear to be on opposing sides of the political ideology spectrum. But overlap does exist and researchers say it's growing. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/covid-relief-funds.html">As Biden Pleads for More Covid Aid, States Are Awash in Federal Dollars</a> NYT: States pushed back on a plan to take back some of their stimulus money to fund President Biden’s emergency spending request. Now Congress is trying to find other ways to offset the cost. 
- <p class="updated_time"> 03:31 AM CT, Apr. 01 </p> 
- <a href="https://www.politico.com/news/2022/04/01/herschel-walker-primary-00022192">‘The baggage is too heavy’: GOP foes tee up last-ditch effort to sink Herschel Walker</a> Politico: Georgia primary opponents warn the Trump-backed former football star is too flawed to win in November. 
- <p class="updated_time"> 03:30 AM CT, Apr. 01 </p> 
- <a href="https://www.politico.com/news/2022/04/01/global-vaccination-strategy-shift-00022189">‘Recognition of failure’: A shift urged in global vaccination strategy</a> Politico: Health organizations again seek to prioritize at-risk populations for Covid shots. 
  <p class="updated_time"> 03:30 AM CT, Apr. 01 </p> 
  <a href="https://www.politico.com/gallery/2022/04/01/the-nations-cartoonists-on-the-week-in-politics-00022190">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 09:02 PM CT, Mar. 31 </p> 
@@ -326,6 +326,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/us/politics/republican-midterm-strategy.html">Can Republicans Win by Just Saying No?</a> NYT: History suggests that opposing the party in power is often good enough. 
  <p class="updated_time"> 05:44 PM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/cloud-of-notoriety-builds-over-cawthorn-builds-as-sex-and-drugs-comment-00022162">Cloud of notoriety builds over Cawthorn after sex-and-drugs claims</a> Politico: The North Carolina conservative could be hard to defeat. His latest wild claims about his colleagues are making some Republicans want to try. 
+ <p class="updated_time"> 05:40 PM CT, Mar. 31 </p> 
+ <a href="https://www.politico.com/news/2022/03/31/florida-judge-election-law-racism-00022041">Federal judge overturns parts of Florida election law, citing ‘horrendous history’ of racism</a> Politico: The decision will likely be appealed to the 11th Circuit Court of Appeals, where a majority of judges were appointed by GOP presidents. 
  <p class="updated_time"> 05:05 PM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/new-york-judge-democrats-redistricting-plan-00022161">GOP judge throws out Democrats' redistricting plan in New York, setting up expected appellate fight</a> Politico: The decision orders legislators to draw new lines with bipartisan support by April 11. 
  <p class="updated_time"> 04:57 PM CT, Mar. 31 </p> 
