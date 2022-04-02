@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:41 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 08:12 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Ukraine Live Updates: Russian Troops Pull Back From Around Kyiv as Focus Shifts to East</a> NYT: Military analysts say Russia is pulling away from areas around Kyiv, the capital, though the Pentagon has cautioned that it could be regrouping. The Red Cross is trying again to reach the besieged city of Mariupol. 
  <p class="updated_time"> 07:40 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/04/02/1090441601/see-how-almost-a-quarter-of-humanity-ushered-in-ramadan-their-holiest-month">See how almost a quarter of humanity ushered in Ramadan, their holiest month</a> NPR: From sun-up to sun down, physically able Muslims will fast — abstaining not just from food but also so much as a sip of water. 
+ <p class="updated_time"> 07:19 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 07:04 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090448785/utility-prices-in-italy-have-almost-quadrupled-due-to-reliance-on-russian-natura">Utility prices in Italy have almost quadrupled due to reliance on Russian natural gas</a> NPR: In Italy, which gets 40% of its natural gas from Russia, the war in Ukraine has as much as quadrupled utility prices. The government is trying to wean itself off of Russian fuel within three years. 
  <p class="updated_time"> 07:00 AM CT, Apr. 02 </p> 
@@ -23,8 +25,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/02/1090448733/nicaraguan-president-daniel-ortega-is-facing-backlash-inside-and-outside-the-cou">Nicaraguan President Daniel Ortega is facing backlash inside and outside the country</a> NPR: A Nicaraguan ambassador openly criticized his boss, President Daniel Ortega, saying the Central American country has become a dictatorship. 
  <p class="updated_time"> 07:00 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090448712/russian-forces-appear-to-be-withdrawing-from-kyiv-moving-to-cities-in-south-and-">Russian forces appear to be withdrawing from Kyiv, moving to cities in south and east</a> NPR: Russian forces appear to be withdrawing in the area around Ukraine's capital, Kyiv, as they turn their attention and firepower further to the south and east. 
- <p class="updated_time"> 06:53 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 06:46 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-photojournalist-maks-levin-dead.html">Ukrainian Photojournalist Who Went Missing Near Kyiv Is Found Dead</a> NYT: Maks Levin, 40, was a prominent freelancer who had spent years covering the conflict in Ukraine. 
  <p class="updated_time"> 06:33 AM CT, Apr. 02 </p> 
@@ -33,27 +33,27 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-60965984?at_medium=RSS&at_campaign=KARANGA">Three Palestinian militants killed by Israeli forces in West Bank clash</a> BBC: Israel says the militants were killed by troops trying to stop them from carrying out an attack. 
  <p class="updated_time"> 06:30 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/hungary-orban-russia-ukraine.html">With Ukraine Invasion, Hungary’s Leader Softens His Embrace of Russia</a> NYT: Facing an election on Sunday, Viktor Orban plays neutral peacemaker while campaigning against the “gender insanity” that he says is creeping in from the West. 
+ <p class="updated_time"> 06:19 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 06:11 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60963054?at_medium=RSS&at_campaign=KARANGA">Will Smith resigns from Oscars Academy over slap</a> BBC: The actor, who slapped comic Chris Rock, called his own actions "shocking, painful, and inexcusable". 
  <p class="updated_time"> 06:07 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes curfew amid food, fuel and power shortage protests</a> BBC: A state of emergency is in force as protests over food, fuel and power shortages sweep the nation. 
- <p class="updated_time"> 05:53 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 05:37 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/pope-francis-putin-ukraine.html">Pope Francis alludes to Putin’s bringing ‘dark shadows of war’ to Ukraine.</a> NYT: The pope also said in response to a reporter’s question on a papal flight to Malta that a possible visit to Kyiv was “on the table.” 
+ <p class="updated_time"> 05:19 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
  <p class="updated_time"> 05:00 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/canada/catholics-reparations-indigenous-canada-schools.html">How Catholics Avoided Paying Millions in Reparations for Residential Schools</a> NYT: During its final weeks in office, the previous Conservative government reached a deal allowing the church to walk away from most of its obligations. 
- <p class="updated_time"> 04:53 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
  <p class="updated_time"> 04:52 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/middleeast/yemen-cease-fire.html">Yemen’s Warring Parties to Begin First Cease-Fire in 6 Years</a> NYT: The two-month truce, brokered by the United Nations, offers hope for a reduction of violence in a war that has rattled the Arabian Peninsula and caused a humanitarian crisis. 
  <p class="updated_time"> 04:47 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/climate/oil-tankers-russia.html">A Tanker’s Giant U-Turn Reveals Strains in the Market for Russian Oil</a> NYT: The ship, originally sailing to Philadelphia, apparently lost its buyer in the middle of the Atlantic. A number of tankers carrying Russian oil face similar problems. 
+ <p class="updated_time"> 04:19 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
  <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090270597/biden-is-the-latest-president-to-go-off-script-on-russia">Biden is the latest president to go off script on Russia</a> NPR: Biden was far from the first U.S. president to say what he thought about Russia or its leaders — or to pay a price for it. 
- <p class="updated_time"> 03:53 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
- <p class="updated_time"> 02:53 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 03:19 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Yemen Parties Agree to Two-Month Truce 
  <p class="updated_time"> 01:55 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60953787?at_medium=RSS&at_campaign=KARANGA">Will Smith: Can his career recover after Oscars slap?</a> BBC: Has the film star's on-stage slap done permanent damage to his image and career? 
@@ -316,6 +316,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/01/1089990539/climate-change-politics">The far-right and environmentalism overlap is bigger than you think — and growing</a> NPR: The modern environmental movement and the far-right movement might appear to be on opposing sides of the political ideology spectrum. But overlap does exist and researchers say it's growing. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/covid-relief-funds.html">As Biden Pleads for More Covid Aid, States Are Awash in Federal Dollars</a> NYT: States pushed back on a plan to take back some of their stimulus money to fund President Biden’s emergency spending request. Now Congress is trying to find other ways to offset the cost. 
+ <p class="updated_time"> 03:31 AM CT, Apr. 01 </p> 
+ <a href="https://www.politico.com/news/2022/04/01/herschel-walker-primary-00022192">‘The baggage is too heavy’: GOP foes tee up last-ditch effort to sink Herschel Walker</a> Politico: Georgia primary opponents warn the Trump-backed former football star is too flawed to win in November. 
  <p class="updated_time"> 03:30 AM CT, Apr. 01 </p> 
  <a href="https://www.politico.com/gallery/2022/04/01/the-nations-cartoonists-on-the-week-in-politics-00022190">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 08:15 PM CT, Mar. 31 </p> 
@@ -344,8 +346,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/31/enthusiasm-gap-dems-00021774">‘We’ve got to stop fooling ourselves’: Enthusiasm gap keeps getting worse for Dems</a> Politico: The last time the voter enthusiasm deficit was this wide, Democrats lost more than 60 seats in the House. 
  <p class="updated_time"> 03:30 AM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/biden-congress-new-iran-nuke-deal-00021853">'The president will get his way': Congress likely can't stop new Iran nuke deal</a> Politico: Election-year politics will have an impact, but likely not enough to block a new diplomatic accord with Tehran. 
- <p class="updated_time"> 03:30 AM CT, Mar. 31 </p> 
- <a href="https://www.politico.com/news/2022/03/31/michigan-drama-primary-levin-stevens-00021866">Dem-on-Dem primary in Michigan spikes party's blood pressure</a> Politico: Rep. Andy Levin passed up what some of his colleagues see as a winnable race, instead challenging Rep. Haley Stevens. And a furor is resulting. 
  <p class="updated_time"> 07:16 PM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/russia-bombards-ukraine-zelenskyy-00021906">Russia bombards areas where it pledged to scale back</a> Politico: The shelling tempered optimism about negotiations meant to end the war. 
  <p class="updated_time"> 04:51 PM CT, Mar. 30 </p> 
