@@ -9,21 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:22 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 04:47 AM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/climate/oil-tankers-russia.html">A Tanker’s Giant U-Turn Reveals Strains in the Market for Russian Oil</a> NYT: The ship, originally sailing to Philadelphia, apparently lost its buyer in the middle of the Atlantic. A number of tankers carrying Russian oil face similar problems. 
+ <p class="updated_time"> 04:41 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Live Updates: Russian Troops Pull Out of Ukraine’s North as Focus Shifts to East</a> NYT: Military analysts confirmed that Russia was pulling its troops away from areas around Kyiv, the capital. The Red Cross will make another attempt on Saturday to reach the besieged city of Mariupol. 
+ <p class="updated_time"> 04:41 AM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/world/europe/pope-francis-putin-ukraine.html">Pope Francis says a possible visit to Ukraine is ‘on the table.’</a> NYT: He made the remark in response to a reporter’s question on a papal flight to Malta. 
  <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090270597/biden-is-the-latest-president-to-go-off-script-on-russia">Biden is the latest president to go off script on Russia</a> NPR: Biden was far from the first U.S. president to say what he thought about Russia or its leaders — or to pay a price for it. 
- <p class="updated_time"> 03:37 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 03:49 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
- <p class="updated_time"> 02:37 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 02:49 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 01:55 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60953787?at_medium=RSS&at_campaign=KARANGA">Will Smith: Can his career recover after Oscars slap?</a> BBC: Has the film star's on-stage slap done permanent damage to his image and career? 
- <p class="updated_time"> 01:37 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 01:49 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
- <p class="updated_time"> 12:37 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 12:49 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
- <p class="updated_time"> 11:37 PM CT, Apr. 01 </p> 
+ <p class="updated_time"> 11:49 PM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Yemen Parties Agree to Two-Month Truce 
  <p class="updated_time"> 10:22 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes state of emergency amid protests</a> BBC: Protestors are angry because of food, fuel and power shortages across the nation. 
@@ -205,8 +209,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/asia/china-cheng-lei-australia.html">Cheng Lei, Australian Journalist, Is Tried by China</a> NYT: Cheng Lei, a former CGTN host, was detained in 2020. The Chinese authorities have accused her of divulging state secrets but offered no specifics. 
  <p class="updated_time"> 07:03 PM CT, Mar. 30 </p> 
  <a href="https://www.nytimes.com/2022/03/30/world/europe/ukraine-russia-war.html">Russia Steps Up Attacks Amid Reports of Rifts in Moscow</a> NYT: Despite claims of de-escalation, Russian forces turned their fury on Chernihiv and the suburbs of Kyiv. U.S. officials say they believe Vladimir Putin’s aides are misleading him about the war. 
- <p class="updated_time"> 05:01 PM CT, Mar. 30 </p> 
- <a href="https://www.nytimes.com/2022/03/30/world/africa/tunisia-president-dissolve-parliament.html">President Dissolves Tunisia’s Parliament, Deepening Political Crisis</a> NYT: President Kais Saied, who suspended Parliament last year, dismissed that body after lawmakers challenged the autocratic powers he has exercised. 
  <p class="updated_time"> 09:10 AM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60931180?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The Syrians signing up to fight for Russia</a> BBC: Recruits are being offered thousands of dollars to be deployed on the front line in Ukraine. 
 
