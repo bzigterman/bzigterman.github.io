@@ -9,18 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:01 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 03:07 AM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Ukraine Live Updates: Aid Convoy Will Try Again to Reach Mariupol</a> NYT: The Red Cross will make a second attempt on Saturday to reach the besieged city. Military analysts confirm that Russia seems to be pulling its troops away from areas around Kyiv, the capital. 
+ <p class="updated_time"> 02:30 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 01:55 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60953787?at_medium=RSS&at_campaign=KARANGA">Will Smith: Can his career recover after Oscars slap?</a> BBC: Has the film star's on-stage slap done permanent damage to his image and career? 
- <p class="updated_time"> 01:01 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 01:30 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
- <p class="updated_time"> 12:08 AM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/04/01/world/ukraine-russia-war">What Happened on Day 37 of Russia’s Invasion of Ukraine</a> NYT: A Red Cross convoy will try again to reach the besieged city of Mariupol on Saturday. President Volodymyr Zelensky of Ukraine accused Russians of laying land mines as they retreated. 
- <p class="updated_time"> 12:01 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 12:30 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
- <p class="updated_time"> 11:01 PM CT, Apr. 01 </p> 
+ <p class="updated_time"> 11:30 PM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
+ <p class="updated_time"> 10:30 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Yemen Parties Agree to Two-Month Truce 
  <p class="updated_time"> 10:22 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes state of emergency amid protests</a> BBC: Protestors are angry because of food, fuel and power shortages across the nation. 
  <p class="updated_time"> 10:18 PM CT, Apr. 01 </p> 
@@ -31,8 +33,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/world/middleeast/israel-terrorism-bennett-palestinians.html">Spike in Violence Poses Test for Israel’s Fragile Government</a> NYT: A rash of terrorist attacks has spawned criticism of the government from the left and right, and for opposite reasons. But the coalition’s diversity has constrained its options. 
  <p class="updated_time"> 10:03 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60962188?at_medium=RSS&at_campaign=KARANGA">Yemen warring parties agree two-month truce - UN</a> BBC: It is the first nationwide truce since 2016, in a war said to have killed nearly 400,000 people. 
- <p class="updated_time"> 10:01 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Yemen Parties Agree to Two-Month Truce 
  <p class="updated_time"> 08:36 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60910123?at_medium=RSS&at_campaign=KARANGA">Surya Kasibhatla: Actor with cerebral palsy shines in Bollywood thriller Jalsa</a> BBC: The 14-year-old of Indian origin has received rave reviews for his Bollywood debut. 
  <p class="updated_time"> 08:34 PM CT, Apr. 01 </p> 
@@ -366,12 +366,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/30/collins-will-vote-to-confirm-jackson-00021619">Collins will vote to confirm Jackson, delivering Biden bipartisan SCOTUS vote</a> Politico: The Maine senator is the first — and could be the only — Republican to back Jackson’s confirmation. 
  <p class="updated_time"> 04:01 AM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/canada-politics-conservatives-00020516">Canada’s bombshell political deal is impossible to predict – but we’ll give you a shot at figuring it out</a> Politico: How will the next three years in Canadian politics play out? You decide. 
- <p class="updated_time"> 03:30 AM CT, Mar. 30 </p> 
- <a href="https://www.politico.com/news/2022/03/30/sports-betting-gambling-casinos-card-rooms-00020319">The 'Holy Grail' of gambling could break American sports betting wide open</a> Politico: Voters in the nation's most populous state will get a chance in November to unleash a massive new industry in California — and provide a jolt to other holdout states. 
- <p class="updated_time"> 03:30 AM CT, Mar. 30 </p> 
- <a href="https://www.politico.com/news/2022/03/30/bill-cassidy-gov-bid-trump-00021461">After crossing Trump, Cassidy weighs governor bid</a> Politico: The former doctor voted to convict the former president of inciting insurrection, then turned to bipartisan deal-cutting. Now he's weighing a splashier move. 
- <p class="updated_time"> 03:30 AM CT, Mar. 30 </p> 
- <a href="https://www.politico.com/news/2022/03/30/ketanji-brown-jackson-child-pornography-sentencing-00021474">Jackson hearings could inspire GOP's next judicial battle line</a> Politico: Republican scrutiny of the Supreme Court nominee's child pornography sentencing — which tracked with most federal judges — may have opened a can of worms. 
 
 
 </details>
