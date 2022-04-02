@@ -9,19 +9,21 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:40 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 04:12 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Live Updates: Russian Troops Pull Out of Ukraine’s North as Focus Shifts to East</a> NYT: Military analysts confirmed that Russia was pulling its troops away from areas around Kyiv, the capital. The Red Cross will make another attempt on Saturday to reach the besieged city of Mariupol. 
- <p class="updated_time"> 02:58 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
+ <a href="https://www.npr.org/2022/04/02/1090270597/biden-is-the-latest-president-to-go-off-script-on-russia">Biden is the latest president to go off script on Russia</a> NPR: Biden was far from the first U.S. president to say what he thought about Russia or its leaders — or to pay a price for it. 
+ <p class="updated_time"> 03:23 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
- <p class="updated_time"> 01:58 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 02:23 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 01:55 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60953787?at_medium=RSS&at_campaign=KARANGA">Will Smith: Can his career recover after Oscars slap?</a> BBC: Has the film star's on-stage slap done permanent damage to his image and career? 
- <p class="updated_time"> 12:58 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 01:23 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
- <p class="updated_time"> 11:58 PM CT, Apr. 01 </p> 
+ <p class="updated_time"> 12:23 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
- <p class="updated_time"> 10:58 PM CT, Apr. 01 </p> 
+ <p class="updated_time"> 11:23 PM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Yemen Parties Agree to Two-Month Truce 
  <p class="updated_time"> 10:22 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes state of emergency amid protests</a> BBC: Protestors are angry because of food, fuel and power shortages across the nation. 
@@ -175,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/middleeast/turkey-khashoggi-trial-saudi-arabia.html">Prosecutor Asks Turkey to Turn Khashoggi Murder Case Over to Saudis</a> NYT: All 26 suspects accused in the killing of Jamal Khashoggi, the dissident Saudi journalist, in Istanbul in 2018 are Saudi nationals. 
  <p class="updated_time"> 04:31 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/macron-france-consultants-mckinsey-campaign.html">Macron Goes on Defensive Over Use of McKinsey and Other Consultants</a> NYT: President Emmanuel Macron’s opponents have criticized the French government for paying at least a billion dollars last year to private consulting firms. 
- <p class="updated_time"> 03:56 PM CT, Mar. 31 </p> 
- <a href="https://www.npr.org/2022/03/31/1089901159/russia-ukraine-war-what-happened-today-march-31">Russia-Ukraine war: What happened today (March 31)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 02:15 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/putin-approval-rating-russia.html">Putin’s Approval Ratings Soar Amid Russia’s War in Ukraine</a> NYT: Eighty-three percent of Russians said they approved of Mr. Putin’s actions, up from 69 percent in January, according to an independent pollster in Moscow. 
  <p class="updated_time"> 12:36 PM CT, Mar. 31 </p> 
@@ -216,6 +216,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
+ <a href="https://www.npr.org/2022/04/02/1090270597/biden-is-the-latest-president-to-go-off-script-on-russia">Biden is the latest president to go off script on Russia</a> NPR: Biden was far from the first U.S. president to say what he thought about Russia or its leaders — or to pay a price for it. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/us/politics/congressional-maps-gerrymandering-midterms.html">As Both Parties Gerrymander Furiously, State Courts Block the Way</a> NYT: State judges have been throwing out congressional maps they call partisan gerrymanders, in a sign of the effects of a 2019 Supreme Court ruling that pushed the issue below the federal level. 
  <p class="updated_time"> 11:43 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/sarah-palin-running-congress-alaska.html">Sarah Palin Announces She’s Running for Congress in Alaska</a> NYT: Ms. Palin released a statement on Friday that she was entering the race to replace Representative Don Young, who died last month. 
  <p class="updated_time"> 10:21 PM CT, Apr. 01 </p> 
@@ -322,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/31/1090125988/jared-kushner-provided-helpful-details-to-jan-6-committee">Jared Kushner provided 'helpful' details to the Jan. 6 committee, a panel member says</a> NPR: Donald Trump's son-in-law and a former senior White House adviser substantiated information and provided his own take on different reports on the Jan. 6 attack, Democratic Rep. Elaine Luria said. 
  <p class="updated_time"> 06:00 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/us/politics/republican-midterm-strategy.html">Can Republicans Win by Just Saying No?</a> NYT: History suggests that opposing the party in power is often good enough. 
- <p class="updated_time"> 05:57 PM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/us/politics/arizona-voting-bill-citizenship.html">Arizona Passes Proof-of-Citizenship Law for Voting in Presidential Elections</a> NYT: Voting rights groups said the legislation signed into law by Gov. Doug Ducey, a Republican, could prevent tens of thousands of people from voting for president. 
  <p class="updated_time"> 05:44 PM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/cloud-of-notoriety-builds-over-cawthorn-builds-as-sex-and-drugs-comment-00022162">Cloud of notoriety builds over Cawthorn after sex-and-drugs claims</a> Politico: The North Carolina conservative could be hard to defeat. His latest wild claims about his colleagues are making some Republicans want to try. 
  <p class="updated_time"> 05:05 PM CT, Mar. 31 </p> 
@@ -332,8 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/31/1090085513/house-passes-bill-to-cap-insulin-prices">House passes bill to cap insulin prices </a> NPR: The chamber voted on a bill that would cap the price of insulin at $35 a month, but its fate in the Senate is unclear. 
  <p class="updated_time"> 03:56 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1089901159/russia-ukraine-war-what-happened-today-march-31">Russia-Ukraine war: What happened today (March 31)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:54 PM CT, Mar. 31 </p> 
- <a href="https://www.npr.org/2022/03/31/1090068012/president-biden-is-ordering-an-unprecedented-amount-of-oil-be-released-from-rese">President Biden is ordering an unprecedented amount of oil be released from reserves</a> NPR: President Biden has announced an unprecedented draw on emergency oil stocks to try to put a cap on soaring oil prices. 
  <p class="updated_time"> 02:06 PM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/stabenow-vote-universal-free-school-meals-00022081">Senators revive school lunch debate with bill to extend universal free meals</a> Politico: The move comes after Republican leadership objected to extending the pandemic program in a recent spending bill, which has generated pushback in both red and blue states. 
  <p class="updated_time"> 01:35 PM CT, Mar. 31 </p> 
@@ -364,8 +364,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/30/biden-expected-to-use-wartime-powers-for-minerals-needed-in-clean-energy-push-00021693">Biden eyes using wartime powers for minerals needed in clean energy push</a> Politico: President Joe Biden would use the Defense Production Act to help secure U.S. sources of critical minerals that are deemed key components of clean energy technology. 
  <p class="updated_time"> 07:40 AM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/collins-will-vote-to-confirm-jackson-00021619">Collins will vote to confirm Jackson, delivering Biden bipartisan SCOTUS vote</a> Politico: The Maine senator is the first — and could be the only — Republican to back Jackson’s confirmation. 
- <p class="updated_time"> 04:01 AM CT, Mar. 30 </p> 
- <a href="https://www.politico.com/news/2022/03/30/canada-politics-conservatives-00020516">Canada’s bombshell political deal is impossible to predict – but we’ll give you a shot at figuring it out</a> Politico: How will the next three years in Canadian politics play out? You decide. 
 
 
 </details>
