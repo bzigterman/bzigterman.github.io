@@ -9,29 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:37 AM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Live Updates: Russian Troops Pull Out of Ukraine’s North as Focus Shifts to East</a> NYT: Military analysts confirmed that Russia was pulling its troops away from areas around Kyiv, the capital. The Red Cross will make another attempt on Saturday to reach the besieged city of Mariupol. 
+ <p class="updated_time"> 05:51 AM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Ukraine Live Updates: Russian Troops Pull Back From Around Kyiv as Focus Shifts to East</a> NYT: Military analysts say Russia is pulling away from areas around Kyiv, the capital, though the Pentagon has cautioned that it could be regrouping. The Red Cross is trying again to reach the besieged city of Mariupol. 
+ <p class="updated_time"> 05:41 AM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/world/middleeast/israel-palestinians-west-bank.html">Israeli Troops Kill 3 Palestinians in West Bank After Rise in Attacks</a> NYT: The Israeli authorities said the men were militants, killed in a shootout. The security forces have ramped up their operations after a wave of violence. 
  <p class="updated_time"> 05:37 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/pope-francis-putin-ukraine.html">Pope Francis alludes to Putin’s bringing ‘dark shadows of war’ to Ukraine.</a> NYT: The pope also said in response to a reporter’s question on a papal flight to Malta that a possible visit to Kyiv was “on the table.” 
  <p class="updated_time"> 05:00 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/canada/catholics-reparations-indigenous-canada-schools.html">How Catholics Avoided Paying Millions in Reparations for Residential Schools</a> NYT: During its final weeks in office, the previous Conservative government reached a deal allowing the church to walk away from most of its obligations. 
+ <p class="updated_time"> 04:55 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 04:52 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/middleeast/yemen-cease-fire.html">Yemen’s Warring Parties to Begin First Cease-Fire in 6 Years</a> NYT: The two-month truce, brokered by the United Nations, offers hope for a reduction of violence in a war that has rattled the Arabian Peninsula and caused a humanitarian crisis. 
  <p class="updated_time"> 04:47 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/climate/oil-tankers-russia.html">A Tanker’s Giant U-Turn Reveals Strains in the Market for Russian Oil</a> NYT: The ship, originally sailing to Philadelphia, apparently lost its buyer in the middle of the Atlantic. A number of tankers carrying Russian oil face similar problems. 
- <p class="updated_time"> 04:43 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090270597/biden-is-the-latest-president-to-go-off-script-on-russia">Biden is the latest president to go off script on Russia</a> NPR: Biden was far from the first U.S. president to say what he thought about Russia or its leaders — or to pay a price for it. 
- <p class="updated_time"> 03:43 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 03:55 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
- <p class="updated_time"> 02:43 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 02:55 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
  <p class="updated_time"> 01:55 AM CT, Apr. 02 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60953787?at_medium=RSS&at_campaign=KARANGA">Will Smith: Can his career recover after Oscars slap?</a> BBC: Has the film star's on-stage slap done permanent damage to his image and career? 
- <p class="updated_time"> 01:43 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
- <p class="updated_time"> 12:43 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 01:55 AM CT, Apr. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-60953787?at_medium=RSS&at_campaign=KARANGA">Will Smith: Can his career recover after Oscars slap?</a> BBC: Has the film star's on-stage slap done permanent damage to his image and career? 
+ <p class="updated_time"> 12:55 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Yemen Parties Agree to Two-Month Truce 
  <p class="updated_time"> 10:22 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes state of emergency amid protests</a> BBC: Protestors are angry because of food, fuel and power shortages across the nation. 
@@ -145,8 +147,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/01/1090195932/2-south-korean-air-force-planes-collide-and-crash-killing-4">2 South Korean air force planes collide and crash, killing 4</a> NPR: Two South Korean KT-1 trainer aircraft planes collided in mid-air during training and crashed near their base on Friday, killing all four people aboard the aircraft, officials said. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/sports/ukraine-vladyslav-heraskevych-war.html">Ukrainian Olympian Does His Part Against Russian Invasion</a> NYT: Vladyslav Heraskevych, a skeleton competitor from Ukraine, gathers supplies and uses the team van to deliver them to Kyiv as he waits to be called for military duty. 
- <p class="updated_time"> 02:19 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/31/world/europe/wagner-group-russia-ukraine.html">What is the Wagner Group?</a> NYT: The private Russian military force, which has close ties to President Vladimir Putin and has been used in war zones across the world, is expanding its presence in Ukraine. 
  <p class="updated_time"> 01:56 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/australia/midnight-oil-brings-australia-home.html">Midnight Oil Brings Australia Home</a> NYT: Australia has had its fair share of music that made it big overseas. But why do some bands succeed internationally while others do not? And does that even matter? 
  <p class="updated_time"> 01:45 AM CT, Apr. 01 </p> 
@@ -163,8 +163,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-russia-war.html">More Mixed Signals From Russia as Ukraine War Enters Sixth Week</a> NYT: Moscow appeared to adjust its position on humanitarian access to Mariupol, but there was little evidence to support Russian claims of a military pullback near Kyiv. 
  <p class="updated_time"> 10:01 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/africa/kenya-supreme-court-constitution.html">Kenya’s Supreme Court Rejects President’s Plan to Amend Constitution</a> NYT: Civil society groups had criticized the proposal as an attempt to expand presidential power and strengthen the elite’s grip on national politics. 
- <p class="updated_time"> 09:55 PM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/world/asia/hong-kong-china-covid.html">In Hong Kong, China’s Covid Aid Gets the Cold Shoulder</a> NYT: Disputes about medics, squat toilets and diaper-changing duties underscore longstanding tensions between residents of Hong Kong and the mainland. 
  <p class="updated_time"> 09:36 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/climate/epa-perchlorate-drinking-water.html">E.P.A. Decides Against Limiting Perchlorate in Drinking Water</a> NYT: Drinking water for as many as 16 million Americans may be contaminated with perchlorate, a chemical that can harm the development of fetuses and children. 
  <p class="updated_time"> 07:53 PM CT, Mar. 31 </p> 
