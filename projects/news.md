@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:48 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 10:37 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/04/01/world/ukraine-russia-war">Ukraine Live Updates: 3,000 Civilians Escape Besieged City of Mariupol</a> NYT: A Red Cross convoy will try again to reach the city on Saturday. President Volodymyr Zelensky of Ukraine accused Russians of laying land mines as they retreat. 
- <p class="updated_time"> 10:25 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 10:22 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes state of emergency amid protests</a> BBC: Protestors are angry because of food, fuel and power shortages across the nation. 
  <p class="updated_time"> 10:18 PM CT, Apr. 01 </p> 
@@ -23,22 +23,22 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/world/middleeast/israel-terrorism-bennett-palestinians.html">Spike in Violence Poses Test for Israel’s Fragile Government</a> NYT: A rash of terrorist attacks has spawned criticism of the government from the left and right, and for opposite reasons. But the coalition’s diversity has constrained its options. 
  <p class="updated_time"> 10:03 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60962188?at_medium=RSS&at_campaign=KARANGA">Yemen warring parties agree two-month truce - UN</a> BBC: It is the first nationwide truce since 2016, in a war said to have killed nearly 400,000 people. 
- <p class="updated_time"> 09:25 PM CT, Apr. 01 </p> 
+ <p class="updated_time"> 09:48 PM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
+ <p class="updated_time"> 08:48 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
  <p class="updated_time"> 08:36 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60910123?at_medium=RSS&at_campaign=KARANGA">Surya Kasibhatla: Actor with cerebral palsy shines in Bollywood thriller Jalsa</a> BBC: The 14-year-old of Indian origin has received rave reviews for his Bollywood debut. 
  <p class="updated_time"> 08:34 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60915170?at_medium=RSS&at_campaign=KARANGA">Liberia taxi driver: How returning $50,000 changed Emmanuel Tuloe's life</a> BBC: Liberian Emmanuel Tuloe decided not to keep the bundle of cash he found at the side of the road. 
- <p class="updated_time"> 08:25 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
  <p class="updated_time"> 08:03 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60952882?at_medium=RSS&at_campaign=KARANGA">Russia's war ignites Orban's tightest election challenge in Hungary</a> BBC: For the first time since 2010, Hungary's prime minister faces a real fight for election victory. 
  <p class="updated_time"> 07:53 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/us-tanks-ukraine.html">U.S. Will Help Transfer Soviet-Made Tanks to Ukraine</a> NYT: The transfer, a response to a request from Ukraine’s president, will mark the first time the Biden administration has helped send tanks in the five-week-old war. 
+ <p class="updated_time"> 07:48 PM CT, Apr. 01 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
  <p class="updated_time"> 07:45 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60950929?at_medium=RSS&at_campaign=KARANGA">China: Shanghai hospital struggles with Covid infections</a> BBC: Authorities have yet to announce Covid deaths, but hospital workers have described a dire situation. 
- <p class="updated_time"> 07:25 PM CT, Apr. 01 </p> 
- <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
  <p class="updated_time"> 07:18 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/nj-schools-mask-mandates-covid-outbreak.html">Two New Jersey High Schools Reinstate Mask Mandates After Covid Outbreak</a> NYT: New coronavirus cases have led to the resumption, if temporarily, of some mitigation strategies. 
  <p class="updated_time"> 07:15 PM CT, Apr. 01 </p> 
@@ -49,7 +49,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60708123?at_medium=RSS&at_campaign=KARANGA">What we now know about long Covid</a> BBC: Why are so many people still living with long Covid after two years and are there any hopes for treatment? 
  <p class="updated_time"> 06:54 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/zelensky-russian-military-speech-video.html">Zelensky Calls for Popular Disobedience, in Both Ukraine and Russia</a> NYT: President Volodymyr Zelensky of Ukraine threatened retribution for people who collaborate with occupying forces and accused retreating Russians of planting mines and even booby-trapping corpses. 
- <p class="updated_time"> 06:25 PM CT, Apr. 01 </p> 
+ <p class="updated_time"> 06:48 PM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Yemen Parties Agree to Two-Month Truce 
  <p class="updated_time"> 06:24 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/pope-apology-indigenous-people-canada.html">Pope Apologizes to Indigenous People of Canada</a> NYT: Pope Francis also promised to visit Canada as part of a process of healing and reconciliation over the church’s involvement in an abusive system of residential schools. 
@@ -218,10 +218,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:43 PM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/us/politics/sarah-palin-running-congress-alaska.html">Sarah Palin Announces She’s Running for Congress in Alaska</a> NYT: Ms. Palin released a statement on Friday that she was entering the race to replace Representative Don Young, who died last month. 
  <p class="updated_time"> 10:21 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/cdc-immigration-title-42.html">C.D.C. Confirms It Will Lift Public Health Order Restricting Immigration</a> NYT: The agency cited “current public health conditions and an increased availability of tools to fight Covid-19” as grounds for returning in late May to prepandemic policies for admitting migrants. 
- <p class="updated_time"> 09:26 PM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/us/politics/sarah-palin-running-congress-alaska.html">Sarah Palin Announces She’s Running for Congress in Alaska</a> NYT: Ms. Palin released a statement on Friday that she was entering the race to replace Representative Don Young, who died last month. 
  <p class="updated_time"> 07:58 PM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090432180/sarah-palin-files-to-run-house-congress-don-young">Sarah Palin files to run for the late Alaska Rep. Don Young's seat</a> NPR: The former vice presidential candidate filed with the Federal Election Commission to run for the late Don Young's House seat. 
  <p class="updated_time"> 07:53 PM CT, Apr. 01 </p> 
@@ -312,6 +312,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/01/global-vaccination-strategy-shift-00022189">‘Recognition of failure’: A shift urged in global vaccination strategy</a> Politico: Health organizations again seek to prioritize at-risk populations for Covid shots. 
  <p class="updated_time"> 03:30 AM CT, Apr. 01 </p> 
  <a href="https://www.politico.com/gallery/2022/04/01/the-nations-cartoonists-on-the-week-in-politics-00022190">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
+ <p class="updated_time"> 11:11 PM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/us/politics/trump-photographer-shealah-craighead.html">She Took the White House Photos. Trump Moved to Take the Profit.</a> NYT: The former chief White House photographer made plans to publish a book of Trump photos. The former president had other plans. 
+ <p class="updated_time"> 10:09 PM CT, Mar. 31 </p> 
+ <a href="https://www.nytimes.com/2022/03/31/us/politics/florida-voting-law.html">Judge Rules Parts of Florida Voting Law Are Unconstitutional</a> NYT: The ruling against a major Republican election law, issued by a federal judge in Tallahassee, is likely to be overturned either by a higher appeals court or the U.S. Supreme Court. 
  <p class="updated_time"> 09:02 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/us/politics/rick-scott.html">Income Taxes for All? Rick Scott Has a Plan, and That’s a Problem.</a> NYT: The “Plan to Rescue America” is dividing the party and cheering Democrats, and its author, Senate Republicans’ top campaign official, won’t stop talking about it. 
  <p class="updated_time"> 08:15 PM CT, Mar. 31 </p> 
