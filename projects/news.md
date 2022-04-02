@@ -9,6 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:04 AM CT, Apr. 02 </p> 
+ <a href="https://www.npr.org/2022/04/02/1090448785/utility-prices-in-italy-have-almost-quadrupled-due-to-reliance-on-russian-natura">Utility prices in Italy have almost quadrupled due to reliance on Russian natural gas</a> NPR: In Italy, which gets 40% of its natural gas from Russia, the war in Ukraine has as much as quadrupled utility prices. The government is trying to wean itself off of Russian fuel within three years. 
+ <p class="updated_time"> 07:00 AM CT, Apr. 02 </p> 
+ <a href="https://www.npr.org/2022/04/02/1090448771/sundays-election-in-hungary-is-considered-the-most-important-in-a-generation">Sunday's election in Hungary is considered the most important in a generation</a> NPR: In Hungary, six political parties have formed a coalition to challenge Prime Minister Viktor Orbán, a far-right nationalist who has been in power in 12 years. The election takes place Sunday. 
+ <p class="updated_time"> 07:00 AM CT, Apr. 02 </p> 
+ <a href="https://www.npr.org/2022/04/02/1090448764/kyiv-mayor-shares-his-view-from-ukraines-capital">Kyiv mayor shares his view from Ukraine's capital</a> NPR: Scott Simon asks Mayor Vitaly Klitchko of Kyiv for an update on the fighting around the Ukrainian capital. 
+ <p class="updated_time"> 07:00 AM CT, Apr. 02 </p> 
+ <a href="https://www.npr.org/2022/04/02/1090448733/nicaraguan-president-daniel-ortega-is-facing-backlash-inside-and-outside-the-cou">Nicaraguan President Daniel Ortega is facing backlash inside and outside the country</a> NPR: A Nicaraguan ambassador openly criticized his boss, President Daniel Ortega, saying the Central American country has become a dictatorship. 
+ <p class="updated_time"> 07:00 AM CT, Apr. 02 </p> 
+ <a href="https://www.npr.org/2022/04/02/1090448712/russian-forces-appear-to-be-withdrawing-from-kyiv-moving-to-cities-in-south-and-">Russian forces appear to be withdrawing from Kyiv, moving to cities in south and east</a> NPR: Russian forces appear to be withdrawing in the area around Ukraine's capital, Kyiv, as they turn their attention and firepower further to the south and east. 
  <p class="updated_time"> 06:46 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Ukraine Live Updates: Russian Troops Pull Back From Around Kyiv as Focus Shifts to East</a> NYT: Military analysts say Russia is pulling away from areas around Kyiv, the capital, though the Pentagon has cautioned that it could be regrouping. The Red Cross is trying again to reach the besieged city of Mariupol. 
  <p class="updated_time"> 06:46 AM CT, Apr. 02 </p> 
@@ -19,32 +29,32 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-60965984?at_medium=RSS&at_campaign=KARANGA">Three Palestinian militants killed by Israeli forces in West Bank clash</a> BBC: Israel says the militants were killed by troops trying to stop them from carrying out an attack. 
  <p class="updated_time"> 06:30 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/hungary-orban-russia-ukraine.html">With Ukraine Invasion, Hungary’s Leader Softens His Embrace of Russia</a> NYT: Facing an election on Sunday, Viktor Orban plays neutral peacemaker while campaigning against the “gender insanity” that he says is creeping in from the West. 
+ <p class="updated_time"> 06:21 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 06:11 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60963054?at_medium=RSS&at_campaign=KARANGA">Will Smith resigns from Oscars Academy over slap</a> BBC: The actor, who slapped comic Chris Rock, called his own actions "shocking, painful, and inexcusable". 
  <p class="updated_time"> 06:07 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes curfew amid food, fuel and power shortage protests</a> BBC: A state of emergency is in force as protests over food, fuel and power shortages sweep the nation. 
- <p class="updated_time"> 05:53 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 05:37 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/pope-francis-putin-ukraine.html">Pope Francis alludes to Putin’s bringing ‘dark shadows of war’ to Ukraine.</a> NYT: The pope also said in response to a reporter’s question on a papal flight to Malta that a possible visit to Kyiv was “on the table.” 
+ <p class="updated_time"> 05:21 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 05:00 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/canada/catholics-reparations-indigenous-canada-schools.html">How Catholics Avoided Paying Millions in Reparations for Residential Schools</a> NYT: During its final weeks in office, the previous Conservative government reached a deal allowing the church to walk away from most of its obligations. 
- <p class="updated_time"> 04:53 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 04:52 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/middleeast/yemen-cease-fire.html">Yemen’s Warring Parties to Begin First Cease-Fire in 6 Years</a> NYT: The two-month truce, brokered by the United Nations, offers hope for a reduction of violence in a war that has rattled the Arabian Peninsula and caused a humanitarian crisis. 
  <p class="updated_time"> 04:47 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/climate/oil-tankers-russia.html">A Tanker’s Giant U-Turn Reveals Strains in the Market for Russian Oil</a> NYT: The ship, originally sailing to Philadelphia, apparently lost its buyer in the middle of the Atlantic. A number of tankers carrying Russian oil face similar problems. 
+ <p class="updated_time"> 04:21 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
  <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090270597/biden-is-the-latest-president-to-go-off-script-on-russia">Biden is the latest president to go off script on Russia</a> NPR: Biden was far from the first U.S. president to say what he thought about Russia or its leaders — or to pay a price for it. 
- <p class="updated_time"> 03:53 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
- <p class="updated_time"> 02:53 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 03:21 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
+ <p class="updated_time"> 02:21 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Yemen Parties Agree to Two-Month Truce 
  <p class="updated_time"> 01:55 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60953787?at_medium=RSS&at_campaign=KARANGA">Will Smith: Can his career recover after Oscars slap?</a> BBC: Has the film star's on-stage slap done permanent damage to his image and career? 
- <p class="updated_time"> 01:53 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Yemen Parties Agree to Two-Month Truce 
  <p class="updated_time"> 10:18 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/charles-g-boyd-dead.html">Charles G. Boyd, Air Force General and Former P.O.W., Dies at 83</a> NYT: He began his 36-year career in the military as a fighter pilot and was the only prisoner of war in the Vietnam conflict to become a four-star general. 
  <p class="updated_time"> 10:08 PM CT, Apr. 01 </p> 
@@ -137,8 +147,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/world/europe/chernobyl-radiation-poisoning.html">Nuclear Agency Looks Into Reports of Radiation Poisoning at Chernobyl</a> NYT: Russian soldiers left the decommissioned nuclear plant and a nearby city after five weeks of occupation. 
  <p class="updated_time"> 07:15 AM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/american-aid-worker-released-after-lengthy-detention-by-taliban-11648826979">American Aid Worker Released After Lengthy Detention by Taliban</a> WSJ: Safi Rauf, a Virginia resident and U.S.-Afghan dual national who helped thousands of people leave Afghanistan, was released along with his brother. 
- <p class="updated_time"> 07:11 AM CT, Apr. 01 </p> 
- <a href="https://www.npr.org/2022/04/01/1090201964/qatar-world-cup-draw">The U.S. will face England in the World Cup's group stage</a> NPR: The United States drew a spot in Group B, meaning the men's soccer team will face off against England, Iran and the winner of a European playoff — setting up a challenging run for the U.S. squad. 
  <p class="updated_time"> 06:44 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/middleeast/syrian-mercenaries-ukraine-russia.html">Syrian Mercenaries Deploy to Russia en Route to Ukrainian Battlefields</a> NYT: A first contingent has arrived in Russia for military training including members of a Syrian unit that worked with Russian officers in Syria, backing President Bashar al-Assad. 
  <p class="updated_time"> 06:29 AM CT, Apr. 01 </p> 
@@ -147,22 +155,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60952353?at_medium=RSS&at_campaign=KARANGA">Patrick Demarchelier: Fashion photographer dies aged 78</a> BBC: He photographed famous figures including Princess Diana, Beyonce, Madonna and Jennifer Lopez. 
  <p class="updated_time"> 04:20 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60953243?at_medium=RSS&at_campaign=KARANGA">WATCH: Missiles strike oil depot in Belgorod, Russia</a> BBC: Firefighters tackle a blaze at a facility near the Ukrainian border, which Moscow says was attacked. 
- <p class="updated_time"> 04:15 AM CT, Apr. 01 </p> 
- <a href="https://www.npr.org/2022/04/01/1090195932/2-south-korean-air-force-planes-collide-and-crash-killing-4">2 South Korean air force planes collide and crash, killing 4</a> NPR: Two South Korean KT-1 trainer aircraft planes collided in mid-air during training and crashed near their base on Friday, killing all four people aboard the aircraft, officials said. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/sports/ukraine-vladyslav-heraskevych-war.html">Ukrainian Olympian Does His Part Against Russian Invasion</a> NYT: Vladyslav Heraskevych, a skeleton competitor from Ukraine, gathers supplies and uses the team van to deliver them to Kyiv as he waits to be called for military duty. 
  <p class="updated_time"> 01:56 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/australia/midnight-oil-brings-australia-home.html">Midnight Oil Brings Australia Home</a> NYT: Australia has had its fair share of music that made it big overseas. But why do some bands succeed internationally while others do not? And does that even matter? 
- <p class="updated_time"> 01:45 AM CT, Apr. 01 </p> 
- <a href="https://www.npr.org/2022/04/01/1090188898/ukraine-top-of-agenda-as-china-eu-prepare-to-meet-at-summit">Ukraine top of agenda as China, EU prepare to meet at summit</a> NPR: The European Union is seeking China's assurances that it won't assist Russia in circumventing economic sanctions for invading Ukraine and cooperation on ending the war at today's virtual meeting. 
  <p class="updated_time"> 01:36 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/asia/imran-khan-resign-pakistan.html">Imran Khan Defiantly Refuses to Resign as Pakistan’s Leader</a> NYT: Prime Minister Khan, who faces the prospect of being removed from office by Parliament, accused the United States of mounting a conspiracy to topple his government. 
  <p class="updated_time"> 01:30 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60949791?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Gruesome evidence points to war crimes on road outside Kyiv</a> BBC: The BBC finds the charred remains of civilians on a highway where Russian troops had stationed tanks. 
  <p class="updated_time"> 01:24 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ireland-magdalene-laundry-women-abuse.html">Ireland’s Last ‘Magdalene Laundry’ Will Become a Memorial</a> NYT: A compound in Dublin where unmarried mothers and other unwanted women were incarcerated to work in abject conditions had been earmarked as a site for a budget hotel. 
- <p class="updated_time"> 12:19 AM CT, Apr. 01 </p> 
- <a href="https://www.npr.org/2022/04/01/1090184438/solomon-islands-says-china-deal-wont-include-military-base">Solomon Islands says China security deal won't include military base</a> NPR: The Solomon Islands said that despite a recent pact with China, it won't allow the major power to build a military base, and the two are only collaborating on security and naval refueling. 
  <p class="updated_time"> 10:08 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-russia-war.html">More Mixed Signals From Russia as Ukraine War Enters Sixth Week</a> NYT: Moscow appeared to adjust its position on humanitarian access to Mariupol, but there was little evidence to support Russian claims of a military pullback near Kyiv. 
  <p class="updated_time"> 10:01 PM CT, Mar. 31 </p> 
@@ -175,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60939581?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 25-31 March 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 07:30 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/business-60554228?at_medium=RSS&at_campaign=KARANGA">Chip shortage: Has Europe's plan arrived too late?</a> BBC: The European Union is investing billions of euros in developing a world-beating chip industry. 
- <p class="updated_time"> 07:27 PM CT, Mar. 31 </p> 
- <a href="https://www.npr.org/2022/03/31/1090080198/covid-19-diabetes-increased-risk">COVID-19 infection increases your risk for diabetes, a new study says</a> NPR: Researchers found that people who had COVID-19 were about 40% more likely to develop diabetes within a year after recovering, compared to participants in a control group. 
  <p class="updated_time"> 07:21 PM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60473524?at_medium=RSS&at_campaign=KARANGA">China: Peeking into the private lives of livestreamers</a> BBC: A photo series profiles people who have shot to fame in one of China's fastest growing industries. 
  <p class="updated_time"> 07:08 PM CT, Mar. 31 </p> 
@@ -218,10 +218,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Apr. 02 </p> 
+ <a href="https://www.npr.org/2022/04/02/1090448719/week-in-politics-jobs-grow-biden-to-release-reserve-oil-logs-missing-on-jan-6">Week in politics: Jobs grow; Biden to release reserve oil; logs missing on Jan. 6</a> NPR: The U.S. economy continues to create new jobs at a rapid pace. President Biden taps the strategic petroleum reserve to lower gas prices. Also, the seven-hour gap in White House logs on Jan. 6, 2021. 
  <p class="updated_time"> 06:01 AM CT, Apr. 02 </p> 
  <a href="https://www.politico.com/news/2022/04/02/if-cuomo-wants-to-run-for-office-hed-need-a-staff-it-might-not-be-easy-00021615">Cuomo’s got millions to run again. But he may be too toxic to build a team.</a> Politico: Half a dozen political consultants and polling firms said in interviews that Cuomo has become persona non grata in the consulting world — with some shying away from helping him rebuild his career and make another run for governor. 
  <p class="updated_time"> 06:01 AM CT, Apr. 02 </p> 
- <a href="https://www.politico.com/news/2022/04/02/education-secretary-miguel-cardonas-first-year-in-office-on-message-but-out-of-touch-00021623">Education Secretary Miguel Cardona's first year in office: On message, but out of touch</a> Politico: Much like President Joe Biden, Cardona was seen as someone who could come in and ease tensions after months of charged debate over school closures. 
+ <a href="https://www.politico.com/news/2022/04/02/education-secretary-miguel-cardonas-first-year-in-office-on-message-but-out-of-touch-00021623">Education Secretary Miguel Cardona's first year in office: on message, but out of the spotlight</a> Politico: Much like President Joe Biden, Cardona was seen as someone who could come in and ease tensions after months of charged debate over school closures. 
  <p class="updated_time"> 06:00 AM CT, Apr. 02 </p> 
  <a href="https://www.politico.com/news/2022/04/02/adams-nypd-homeless-camps-00022473">Adams orders NYPD to clear homeless camps — and wins Giuliani comparisons</a> Politico: Elected officials and advocates say there's no safe place for homeless New Yorkers to go after Adams already cleared out the subways and transit hubs. 
  <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
@@ -328,8 +330,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/31/new-york-judge-democrats-redistricting-plan-00022161">GOP judge throws out Democrats' redistricting plan in New York, setting up expected appellate fight</a> Politico: The decision orders legislators to draw new lines with bipartisan support by April 11. 
  <p class="updated_time"> 04:57 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090085513/house-passes-bill-to-cap-insulin-prices">House passes bill to cap insulin prices </a> NPR: The chamber voted on a bill that would cap the price of insulin at $35 a month, but its fate in the Senate is unclear. 
- <p class="updated_time"> 03:56 PM CT, Mar. 31 </p> 
- <a href="https://www.npr.org/2022/03/31/1089901159/russia-ukraine-war-what-happened-today-march-31">Russia-Ukraine war: What happened today (March 31)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 02:06 PM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/stabenow-vote-universal-free-school-meals-00022081">Senators revive school lunch debate with bill to extend universal free meals</a> Politico: The move comes after Republican leadership objected to extending the pandemic program in a recent spending bill, which has generated pushback in both red and blue states. 
  <p class="updated_time"> 01:35 PM CT, Mar. 31 </p> 
