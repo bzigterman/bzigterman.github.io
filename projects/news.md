@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:46 AM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Ukraine Live Updates: Russian Troops Pull Back From Around Kyiv as Focus Shifts to East</a> NYT: Military analysts say Russia is pulling away from areas around Kyiv, the capital, though the Pentagon has cautioned that it could be regrouping. The Red Cross is trying again to reach the besieged city of Mariupol. 
+ <p class="updated_time"> 06:46 AM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-photojournalist-maks-levin-dead.html">Ukrainian Photojournalist Who Went Missing Near Kyiv Is Found Dead</a> NYT: Maks Levin, 40, was a prominent freelancer who had spent years covering the conflict in Ukraine. 
  <p class="updated_time"> 06:33 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/middleeast/israel-palestinians-west-bank.html">Israeli Troops Kill 3 Palestinian Militants in West Bank After Rise in Attacks</a> NYT: The Israeli authorities said the men were killed in a shootout. The security forces have ramped up their operations after a wave of violence. 
- <p class="updated_time"> 06:31 AM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Ukraine Live Updates: Russian Troops Pull Back From Around Kyiv as Focus Shifts to East</a> NYT: Military analysts say Russia is pulling away from areas around Kyiv, the capital, though the Pentagon has cautioned that it could be regrouping. The Red Cross is trying again to reach the besieged city of Mariupol. 
  <p class="updated_time"> 06:30 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60965984?at_medium=RSS&at_campaign=KARANGA">Three Palestinian militants killed by Israeli forces in West Bank clash</a> BBC: Israel says the militants were killed by troops trying to stop them from carrying out an attack. 
  <p class="updated_time"> 06:30 AM CT, Apr. 02 </p> 
@@ -21,27 +23,27 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60963054?at_medium=RSS&at_campaign=KARANGA">Will Smith resigns from Oscars Academy over slap</a> BBC: The actor, who slapped comic Chris Rock, called his own actions "shocking, painful, and inexcusable". 
  <p class="updated_time"> 06:07 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes curfew amid food, fuel and power shortage protests</a> BBC: A state of emergency is in force as protests over food, fuel and power shortages sweep the nation. 
- <p class="updated_time"> 05:41 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 05:53 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
  <p class="updated_time"> 05:37 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/pope-francis-putin-ukraine.html">Pope Francis alludes to Putin’s bringing ‘dark shadows of war’ to Ukraine.</a> NYT: The pope also said in response to a reporter’s question on a papal flight to Malta that a possible visit to Kyiv was “on the table.” 
  <p class="updated_time"> 05:00 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/canada/catholics-reparations-indigenous-canada-schools.html">How Catholics Avoided Paying Millions in Reparations for Residential Schools</a> NYT: During its final weeks in office, the previous Conservative government reached a deal allowing the church to walk away from most of its obligations. 
+ <p class="updated_time"> 04:53 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 04:52 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/middleeast/yemen-cease-fire.html">Yemen’s Warring Parties to Begin First Cease-Fire in 6 Years</a> NYT: The two-month truce, brokered by the United Nations, offers hope for a reduction of violence in a war that has rattled the Arabian Peninsula and caused a humanitarian crisis. 
  <p class="updated_time"> 04:47 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/climate/oil-tankers-russia.html">A Tanker’s Giant U-Turn Reveals Strains in the Market for Russian Oil</a> NYT: The ship, originally sailing to Philadelphia, apparently lost its buyer in the middle of the Atlantic. A number of tankers carrying Russian oil face similar problems. 
- <p class="updated_time"> 04:41 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090270597/biden-is-the-latest-president-to-go-off-script-on-russia">Biden is the latest president to go off script on Russia</a> NPR: Biden was far from the first U.S. president to say what he thought about Russia or its leaders — or to pay a price for it. 
- <p class="updated_time"> 03:41 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 03:53 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
- <p class="updated_time"> 02:41 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 02:53 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
  <p class="updated_time"> 01:55 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60953787?at_medium=RSS&at_campaign=KARANGA">Will Smith: Can his career recover after Oscars slap?</a> BBC: Has the film star's on-stage slap done permanent damage to his image and career? 
- <p class="updated_time"> 01:41 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 01:53 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Yemen Parties Agree to Two-Month Truce 
  <p class="updated_time"> 10:18 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/charles-g-boyd-dead.html">Charles G. Boyd, Air Force General and Former P.O.W., Dies at 83</a> NYT: He began his 36-year career in the military as a fighter pilot and was the only prisoner of war in the Vietnam conflict to become a four-star general. 
@@ -207,8 +209,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/asia/myanmar-coup-prisoners.html">Myanmar Junta Holding 10,000 Political Prisoners  </a> NYT: Most are held in deplorable conditions and face certain conviction at trial. Rights groups say the Southeast Asian nation now has the worst human rights conditions in the region. 
  <p class="updated_time"> 06:25 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/kremlin-us-intelligence-putin.html">Moscow Calls US Intelligence on Putin’s Military Advice a ‘Complete Misunderstanding’</a> NYT: The Kremlin spokesman also played down the prospect of an April meeting between Presidents Vladimir V. Putin and Volodymyr Zelensky. 
- <p class="updated_time"> 04:54 AM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/world/asia/north-korea-icbm-fake.html">Was North Korea’s New ICBM Test Faked? Not Entirely.</a> NYT: South Korea says Kim Jong-un disguised an older missile as a new one to exaggerate his country’s weapons achievements when he badly needs political leverage. 
  <p class="updated_time"> 09:10 AM CT, Mar. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60931180?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The Syrians signing up to fight for Russia</a> BBC: Recruits are being offered thousands of dollars to be deployed on the front line in Ukraine. 
 
