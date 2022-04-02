@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:09 PM CT, Apr. 02 </p> 
+ <p class="updated_time"> 02:18 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Ukraine Live Updates: Russian Troops Pull Back From Around Kyiv as Focus Shifts to East</a> NYT: Military analysts say Russia is pulling away from areas around Kyiv, the capital, though the Pentagon has cautioned that it could be regrouping. The Red Cross is trying again to reach the besieged city of Mariupol. 
  <p class="updated_time"> 02:08 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-russian-defeat-vasylkiv.html">When the Russians Picked the Wrong Town to Invade</a> NYT: The outgunned people of Vasylkiv, a provincial Ukrainian town, successfully fought off Russian troops in the early days of the war, helping to keep the capital safe and entering Ukraine’s military lore. 
@@ -17,35 +17,35 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-russia-kyiv.html">Russia Retreats From Kyviv, Seeking to Regroup from Battering</a> NYT: A short drive from Kyiv in any direction turned up scenes of incinerated Russian vehicles, charred engine parts and chunks of armor. Attention is now shifting to the east, where Moscow says it is redirecting its forces. 
  <p class="updated_time"> 01:30 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60967463?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Street in Bucha found strewn with dead bodies</a> BBC: A reporter entering Bucha, near Kyiv, counts at least 20 bodies of men, one with his hands tied. 
- <p class="updated_time"> 01:11 PM CT, Apr. 02 </p> 
+ <p class="updated_time"> 01:25 PM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002">Ukraine Assesses Damage After Russian Pullback Near Kyiv</a> WSJ: Ukraine Assesses Damage After Russian Pullback Near Kyiv 
  <p class="updated_time"> 01:08 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/middleeast/yemen-cease-fire.html">Yemen’s Warring Parties Begin First Cease-Fire in 6 Years</a> NYT: The two-month truce, brokered by the United Nations, offers hope for a reduction of violence in a war that has rattled the Arabian Peninsula and caused a humanitarian crisis. 
  <p class="updated_time"> 01:08 PM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/world/europe/putin-ukraine-failure.html">For Putin, Invasion Is the Latest in a Long String of Failures in Ukraine</a> NYT: Beginning in 2004, the Russian leader’s repeated efforts to subjugate his neighbor have been defeated, frustrating his imperial ambitions. 
+ <a href="https://www.nytimes.com/2022/04/02/world/europe/putin-ukraine-failure.html">For Putin, the Invasion Is Another Failure in Ukraine </a> NYT: Beginning in 2004, the Russian leader’s repeated efforts to subjugate his neighbor have been defeated, frustrating his imperial ambitions. 
  <p class="updated_time"> 01:04 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/asia/imran-khan-pakistan-no-confidence.html">Imran Khan Says He Won’t Accept Result of Coming No-Confidence Vote</a> NYT: The prime minister of Pakistan, whose coalition has lost support in the National Assembly, claimed the coming vote was a conspiracy between opposition lawmakers and the United States. 
  <p class="updated_time"> 12:53 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/01/arts/budi-tek-dead.html">Budi Tek, 65, Dies; His Fortune Built a Vast Trove of Asian Art</a> NYT: He was one of the world’s top collectors, and his immense Yuz Museum in Shanghai helped establish the region’s bustling art scene. 
+ <p class="updated_time"> 12:25 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/on-natos-front-line-russias-threat-draws-new-allied-forces-11648904581">On NATO’s Front Line, Russia’s Threat Draws New Allied Forces</a> WSJ: On NATO’s Front Line, Russia’s Threat Draws New Allied Forces 
  <p class="updated_time"> 12:18 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60962188?at_medium=RSS&at_campaign=KARANGA">Yemen warring parties agree two-month truce - UN</a> BBC: It is the first nationwide truce since 2016, in a war said to have killed nearly 400,000 people. 
- <p class="updated_time"> 12:11 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/on-natos-front-line-russias-threat-draws-new-allied-forces-11648904581">On NATO’s Front Line, Russia’s Threat Draws New Allied Forces</a> WSJ: On NATO’s Front Line, Russia’s Threat Draws New Allied Forces 
+ <p class="updated_time"> 11:25 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
  <p class="updated_time"> 11:13 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/russia-space-station.html">Is Russia Quitting the International Space Station? Not Quite.</a> NYT: NASA has sidestepped suggestions that Russia might pull out of the space station partnership. 
- <p class="updated_time"> 11:11 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
  <p class="updated_time"> 10:37 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60967458?at_medium=RSS&at_campaign=KARANGA">Hargeisa fire: Inferno devastates market in Somaliland's capital</a> BBC: Hundreds of businesses are destroyed in the main market of Hargeisa in an overnight blaze. 
+ <p class="updated_time"> 10:25 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/anger-rises-in-sri-lanka-as-economic-crisis-worsens-11648897200">Anger Rises in Sri Lanka as Economic Crisis Worsens</a> WSJ: Anger Rises in Sri Lanka as Economic Crisis Worsens 
  <p class="updated_time"> 10:21 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60968543?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Amongst wreckage in Hostomel Airport near Kyiv</a> BBC: The BBC's Jeremy Bowen reports from the airport, some 10 miles from Kyiv, which holds the wreckage of the world's biggest cargo plane. 
- <p class="updated_time"> 10:11 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/anger-rises-in-sri-lanka-as-economic-crisis-worsens-11648897200">Anger Rises in Sri Lanka as Economic Crisis Worsens</a> WSJ: Anger Rises in Sri Lanka as Economic Crisis Worsens 
  <p class="updated_time"> 09:58 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/pope-francis-russia-putin-ukraine.html">Pope Francis Alludes to Putin’s Role in War on Ukraine</a> NYT: Francis’ remarks during a trip to Malta were the closest he has come to pinning the war in Ukraine on President Vladimir V. Putin of Russia. 
  <p class="updated_time"> 09:32 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/business/shanghai-covid-child-separation.html">In Shanghai, Covid Is Separating Parents  From Children</a> NYT: As China’s largest city struggles to contain a coronavirus outbreak, outrage erupted online after images of small children isolated from parents spread. 
- <p class="updated_time"> 09:11 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 09:25 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/u-s-philippines-hold-one-of-their-largest-ever-military-exercises-11648906324">U.S., Philippines Hold One of Their Largest-Ever Military Exercises</a> WSJ: U.S., Philippines Hold One of Their Largest-Ever Military Exercises 
  <p class="updated_time"> 09:07 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/spain-madrid-latin-america.html">Madrid Rivals Miami as a Haven for Latin Americans and Their Money</a> NYT: Turmoil and a political swing to the left have brought an influx of prominent and affluent exiles from the region to the Spanish capital in recent years. 
@@ -210,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:10 PM CT, Apr. 02 </p> 
+ <a href="https://www.politico.com/news/2022/04/02/prosecutor-arrest-warrant-putin-00022549">Ex-U.N. prosecutor urges global arrest warrant for Putin</a> Politico: “Putin is a war criminal,” Carla Del Ponte said. 
  <p class="updated_time"> 01:10 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/us/politics/sufyian-barhoumi-guantanamo-bay.html">U.S. Sends Algerian Man Home From Guantánamo Bay After 5-Year Delay</a> NYT: The transfer had been arranged during the Obama administration but was put on pause under President Donald J. Trump. 
  <p class="updated_time"> 12:57 PM CT, Apr. 02 </p> 
@@ -340,8 +342,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/03/30/politics/hunter-biden-investigation-what-matters/index.html">The Hunter Biden soap opera is far from over</a> CNN: These are some of the broad outlines of the sad, sordid soap opera of Hunter Biden -- the son of President Joe Biden -- whose proximity to power helped make him millions, but whose addiction has cost him so much: 
  <p class="updated_time"> 02:44 PM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/mccarthy-cawthorn-lost-trust-orgy-cocaine-comments-00021816">McCarthy: Cawthorn's 'lost my trust' following orgy and cocaine comments</a> Politico: The GOP leader is not yet revoking the North Carolina Republican's committee spots, but he signaled he's lost patience with the freshman lawmaker. 
- <p class="updated_time"> 02:24 PM CT, Mar. 30 </p> 
- <a href="https://www.politico.com/news/2022/03/30/biden-trump-era-deportation-policy-00021802">Biden weighs phased out end of Trump-era deportation policy</a> Politico: The administration is looking at an end to Title 42 that could prioritize families first. 
 
 
 </details>
