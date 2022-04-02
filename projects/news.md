@@ -9,39 +9,49 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:32 PM CT, Apr. 02 </p> 
+ <p class="updated_time"> 01:48 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Ukraine Live Updates: Russian Troops Pull Back From Around Kyiv as Focus Shifts to East</a> NYT: Military analysts say Russia is pulling away from areas around Kyiv, the capital, though the Pentagon has cautioned that it could be regrouping. The Red Cross is trying again to reach the besieged city of Mariupol. 
+ <p class="updated_time"> 01:30 PM CT, Apr. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60967463?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Street in Bucha found strewn with dead bodies</a> BBC: A reporter entering Bucha, near Kyiv, counts at least 20 bodies of men, one with his hands tied. 
+ <p class="updated_time"> 01:19 PM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-russia-kyiv.html">Russia Retreats From Kyviv, Seeking to Regroup from Battering</a> NYT: A short drive from Kyiv in any direction turned up scenes of incinerated Russian vehicles, charred engine parts and chunks of armor. Attention is now shifting to the east, where Moscow says it is redirecting its forces. 
+ <p class="updated_time"> 01:19 PM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-russian-defeat-vasylkiv.html">When the Russians Picked the Wrong Town to Invade</a> NYT: The outgunned people of Vasylkiv, a provincial Ukrainian town, successfully fought off Russian troops in the early days of the war, helping to keep the capital safe and entering Ukraine’s military lore. 
+ <p class="updated_time"> 01:08 PM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/world/middleeast/yemen-cease-fire.html">Yemen’s Warring Parties Begin First Cease-Fire in 6 Years</a> NYT: The two-month truce, brokered by the United Nations, offers hope for a reduction of violence in a war that has rattled the Arabian Peninsula and caused a humanitarian crisis. 
+ <p class="updated_time"> 01:08 PM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/world/europe/putin-ukraine-failure.html">For Putin, Invasion Is the Latest in a Long String of Failures in Ukraine</a> NYT: Beginning in 2004, the Russian leader’s repeated efforts to subjugate his neighbor have been defeated, frustrating his imperial ambitions. 
+ <p class="updated_time"> 01:04 PM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/world/asia/imran-khan-pakistan-no-confidence.html">Imran Khan Says He Won’t Accept Result of Coming No-Confidence Vote</a> NYT: The prime minister of Pakistan, whose coalition has lost support in the National Assembly, claimed the coming vote was a conspiracy between opposition lawmakers and the United States. 
+ <p class="updated_time"> 12:53 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002">Ukraine Assesses Damage After Russian Pullback Near Kyiv</a> WSJ: Ukraine Assesses Damage After Russian Pullback Near Kyiv 
+ <p class="updated_time"> 12:53 PM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/arts/budi-tek-dead.html">Budi Tek, 65, Dies; His Fortune Built a Vast Trove of Asian Art</a> NYT: He was one of the world’s top collectors, and his immense Yuz Museum in Shanghai helped establish the region’s bustling art scene. 
  <p class="updated_time"> 12:18 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60962188?at_medium=RSS&at_campaign=KARANGA">Yemen warring parties agree two-month truce - UN</a> BBC: It is the first nationwide truce since 2016, in a war said to have killed nearly 400,000 people. 
- <p class="updated_time"> 11:55 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002">Ukraine Assesses Damage After Russian Pullback Near Kyiv</a> WSJ: Ukraine Assesses Damage After Russian Pullback Near Kyiv 
- <p class="updated_time"> 11:15 AM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-russia-kyiv.html">Russia in Broad Retreat From Kyiv, Seeking to Regroup From Battering</a> NYT: A short drive from Kyiv in any direction turned up scenes of incinerated Russian vehicles, charred engine parts and chunks of armor. Attention is now shifting to the east, where Moscow says it is redirecting its forces. 
+ <p class="updated_time"> 11:53 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/on-natos-front-line-russias-threat-draws-new-allied-forces-11648904581">On NATO’s Front Line, Russia’s Threat Draws New Allied Forces</a> WSJ: On NATO’s Front Line, Russia’s Threat Draws New Allied Forces 
  <p class="updated_time"> 11:13 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/russia-space-station.html">Is Russia Quitting the International Space Station? Not Quite.</a> NYT: NASA has sidestepped suggestions that Russia might pull out of the space station partnership. 
- <p class="updated_time"> 10:55 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/on-natos-front-line-russias-threat-draws-new-allied-forces-11648904581">On NATO’s Front Line, Russia’s Threat Draws New Allied Forces</a> WSJ: On NATO’s Front Line, Russia’s Threat Draws New Allied Forces 
+ <p class="updated_time"> 10:53 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
  <p class="updated_time"> 10:37 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60967458?at_medium=RSS&at_campaign=KARANGA">Hargeisa fire: Inferno devastates market in Somaliland's capital</a> BBC: Hundreds of businesses are destroyed in the main market of Hargeisa in an overnight blaze. 
- <p class="updated_time"> 10:28 AM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/01/arts/budi-tek-dead.html">Budi Tek, 65, Dies; His Fortune Built a Vast Trove of Asian Art</a> NYT: He was one of the world’s top collectors, and his immense Yuz Museum in Shanghai helped establish the region’s bustling art scene. 
  <p class="updated_time"> 10:21 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60968543?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Amongst wreckage in Hostomel Airport near Kyiv</a> BBC: The BBC's Jeremy Bowen reports from the airport, some 10 miles from Kyiv, which holds the wreckage of the world's biggest cargo plane. 
  <p class="updated_time"> 09:58 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/pope-francis-russia-putin-ukraine.html">Pope Francis Alludes to Putin’s Role in War on Ukraine</a> NYT: Francis’ remarks during a trip to Malta were the closest he has come to pinning the war in Ukraine on President Vladimir V. Putin of Russia. 
- <p class="updated_time"> 09:55 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
+ <p class="updated_time"> 09:53 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/anger-rises-in-sri-lanka-as-economic-crisis-worsens-11648897200">Anger Rises in Sri Lanka as Economic Crisis Worsens</a> WSJ: Anger Rises in Sri Lanka as Economic Crisis Worsens 
  <p class="updated_time"> 09:32 AM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/world/europe/putin-ukraine-failure.html">For Putin, Invasion Is the Latest in a Long String of Failures in Ukraine</a> NYT: Beginning in 2004, the Russian leader’s repeated efforts to subjugate his neighbor have been defeated, frustrating his imperial ambitions. 
+ <a href="https://www.nytimes.com/2022/04/02/business/shanghai-covid-child-separation.html">In Shanghai, Covid Is Separating Parents  From Children</a> NYT: As China’s largest city struggles to contain a coronavirus outbreak, outrage erupted online after images of small children isolated from parents spread. 
  <p class="updated_time"> 09:07 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/spain-madrid-latin-america.html">Madrid Rivals Miami as a Haven for Latin Americans and Their Money</a> NYT: Turmoil and a political swing to the left have brought an influx of prominent and affluent exiles from the region to the Spanish capital in recent years. 
  <p class="updated_time"> 09:06 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/americas/brazil-affirmative-action-linkedin.html">In Brazil, Firms Sought Black Workers. Then LinkedIn Got Involved.</a> NYT: After Brazilian activists fought LinkedIn for removing job ads that sought Black and Indigenous candidates, the company changed its global policy. 
  <p class="updated_time"> 09:05 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/asia/bangkok-thailand-krung-thep.html">(Bangkok): A Push for Parentheses Miffs Thais (Who Have Bigger Problems)</a> NYT: The government wants Thailand’s capital to be known around the world as Krung Thep Maha Nakhon (Bangkok). Thais don’t object to the name, but they’d prefer their leaders focus on fixing the economy. 
- <p class="updated_time"> 08:55 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/anger-rises-in-sri-lanka-as-economic-crisis-worsens-11648897200">Anger Rises in Sri Lanka as Economic Crisis Worsens</a> WSJ: Anger Rises in Sri Lanka as Economic Crisis Worsens 
- <p class="updated_time"> 07:55 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 08:53 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/u-s-philippines-hold-one-of-their-largest-ever-military-exercises-11648906324">U.S., Philippines Hold One of Their Largest-Ever Military Exercises</a> WSJ: U.S., Philippines Hold One of Their Largest-Ever Military Exercises 
  <p class="updated_time"> 07:40 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/04/02/1090441601/ramadan-2022-pictures">See how almost a quarter of humanity ushered in Ramadan, their holiest month</a> NPR: From sun-up to sundown, physically able Muslims will fast — abstaining not just from food but also so much as a sip of water. 
@@ -62,15 +72,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:30 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60965984?at_medium=RSS&at_campaign=KARANGA">Three Palestinian militants killed by Israeli forces in West Bank clash</a> BBC: Israel says the militants were killed by troops trying to stop them from carrying out an attack. 
  <p class="updated_time"> 06:30 AM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/world/europe/hungary-orban-russia-ukraine.html">With Ukraine War, Hungary’s Leader Softens His Embrace of Russia</a> NYT: Facing an election on Sunday, Viktor Orban plays neutral peacemaker while campaigning against the “gender insanity” that he says is creeping in from the West. 
+ <a href="https://www.nytimes.com/2022/04/02/world/europe/hungary-orban-russia-ukraine.html">With Ukraine War, Viktor Orban Softens His Embrace of Russia</a> NYT: Facing an election on Sunday, Viktor Orban plays neutral peacemaker while campaigning against the “gender insanity” that he says is creeping in from the West. 
  <p class="updated_time"> 06:11 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60963054?at_medium=RSS&at_campaign=KARANGA">Will Smith resigns from Oscars Academy over slap</a> BBC: The actor, who slapped comic Chris Rock, called his own actions "shocking, painful, and inexcusable". 
  <p class="updated_time"> 06:07 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes curfew amid food, fuel and power shortage protests</a> BBC: A state of emergency is in force as protests over food, fuel and power shortages sweep the nation. 
  <p class="updated_time"> 05:00 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/canada/catholics-reparations-indigenous-canada-schools.html">How Catholics Avoided Paying Millions in Reparations in Canada</a> NYT: During its final weeks in office, the previous Conservative government reached a deal allowing the church to walk away from most of its obligations. 
- <p class="updated_time"> 04:52 AM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/world/middleeast/yemen-cease-fire.html">Yemen’s Warring Parties to Begin First Cease-Fire in 6 Years</a> NYT: The two-month truce, brokered by the United Nations, offers hope for a reduction of violence in a war that has rattled the Arabian Peninsula and caused a humanitarian crisis. 
  <p class="updated_time"> 04:47 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/climate/oil-tankers-russia.html">On Its Way to the U.S., Russian Oil Tanker Makes Giant U-Turn </a> NYT: The ship, originally sailing to Philadelphia, apparently lost its buyer in the middle of the Atlantic. A number of tankers carrying Russian oil face similar problems. 
  <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
@@ -93,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60950929?at_medium=RSS&at_campaign=KARANGA">China: Shanghai hospital struggles with Covid infections</a> BBC: Authorities have yet to announce Covid deaths, but hospital workers have described a dire situation. 
  <p class="updated_time"> 07:18 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/nj-schools-mask-mandates-covid-outbreak.html">Two New Jersey High Schools Reinstate Mask Mandates After Covid Outbreak</a> NYT: New coronavirus cases have led to the resumption, if temporarily, of some mitigation strategies. 
- <p class="updated_time"> 07:07 PM CT, Apr. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-60944677?at_medium=RSS&at_campaign=KARANGA">Amazon workers win battle to form first US union</a> BBC: The Amazon Labor Union won a contest to establish the first unionised Amazon warehouse in the US. 
  <p class="updated_time"> 06:57 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-60708123?at_medium=RSS&at_campaign=KARANGA">'I've had long Covid for two years now'</a> BBC: Why are so many people still living with long Covid after two years and are there any hopes for treatment? 
  <p class="updated_time"> 06:54 PM CT, Apr. 01 </p> 
@@ -171,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/asia/imran-khan-resign-pakistan.html">Imran Khan Defiantly Refuses to Resign as Pakistan’s Leader</a> NYT: Prime Minister Khan, who faces the prospect of being removed from office by Parliament, accused the United States of mounting a conspiracy to topple his government. 
  <p class="updated_time"> 01:30 AM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60949791?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Gruesome evidence points to war crimes on road outside Kyiv</a> BBC: The BBC finds the charred remains of civilians on a highway where Russian troops had stationed tanks. 
- <p class="updated_time"> 01:24 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/31/world/europe/ireland-magdalene-laundry-women-abuse.html">Ireland’s Last ‘Magdalene Laundry’ Will Become a Memorial</a> NYT: A compound in Dublin where unmarried mothers and other unwanted women were incarcerated to work in abject conditions had been earmarked as a site for a budget hotel. 
  <p class="updated_time"> 10:08 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-russia-war.html">More Mixed Signals From Russia as Ukraine War Enters Sixth Week</a> NYT: Moscow appeared to adjust its position on humanitarian access to Mariupol, but there was little evidence to support Russian claims of a military pullback near Kyiv. 
  <p class="updated_time"> 09:36 PM CT, Mar. 31 </p> 
@@ -197,14 +201,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60947271?at_medium=RSS&at_campaign=KARANGA">How do you do a face-to-face interview with Zelensky?</a> BBC: Zanny Minton Beddoes, editor-in-chief of The Economist, on how she interviewed Ukraine's president. 
  <p class="updated_time"> 11:57 AM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-security-guarantees.html">What Does Ukraine Mean When it Asks For ‘Security Guarantees’?</a> NYT: Ukraine’s request for other countries to guarantee its future security as a condition for making concessions to Moscow is circulating among European diplomats. But analysts say such a demand faces huge obstacles. 
- <p class="updated_time"> 11:20 AM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/world/europe/nato-russia-kyiv.html">NATO Sees Little Evidence That Russian Troops Are Pulling Back From Kyiv</a> NYT: “Russia has repeatedly lied about its intentions,” NATO’s secretary general, Jens Stoltenberg said of Moscow’s pledge to pull back from Kyiv. “So we can only judge Russia on its actions, not on its words.” 
  <p class="updated_time"> 11:14 AM CT, Mar. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-60945122?at_medium=RSS&at_campaign=KARANGA">Could Ukraine 'win' the war? And other questions</a> BBC: BBC reporters Jenny Hill and Orla Guerin - on the ground - answer your questions about the war in Ukraine. 
- <p class="updated_time"> 10:15 AM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/world/europe/putin-jk-rowling.html">Why Putin name-checked J.K. Rowling</a> NYT: Putin has used scaremongering about gender and sexual orientation to support his authoritarian agenda. Right-wing politicians around the world are following the same playbook. 
- <p class="updated_time"> 10:00 AM CT, Mar. 31 </p> 
- <a href="https://www.nytimes.com/2022/03/31/world/europe/us-sanctions-russia.html">U.S. Levels New Sanctions on Russian Tech Companies</a> NYT: Some of the new sanctions focus on organizations that supply or support Russia’s defense sector. 
 
 
 </details>
@@ -212,8 +210,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:55 AM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/us/politics/merrick-garland-biden-trump.html">Why the Jan. 6 Investigation Is a Test for Biden and Merrick Garland</a> NYT: The inquiry is a test for President Biden and Attorney General Merrick B. Garland, who both came into office promising to restore the Justice Department’s independence. 
+ <p class="updated_time"> 01:10 PM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/us/politics/sufyian-barhoumi-guantanamo-bay.html">U.S. Sends Algerian Man Home From Guantánamo Bay After 5-Year Delay</a> NYT: The transfer had been arranged during the Obama administration but was put on pause under President Donald J. Trump. 
+ <p class="updated_time"> 12:57 PM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/us/politics/merrick-garland-biden-trump.html">Garland Faces Growing Pressure as Jan. 6 Investigation Widens</a> NYT: The inquiry is a test for President Biden and Attorney General Merrick B. Garland, who both came into office promising to restore the Justice Department’s independence. 
  <p class="updated_time"> 07:00 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090448719/week-in-politics-jobs-grow-biden-to-release-reserve-oil-logs-missing-on-jan-6">Week in politics: Jobs grow; Biden to release reserve oil; logs missing on Jan. 6</a> NPR: The U.S. economy continues to create new jobs at a rapid pace. President Biden taps the strategic petroleum reserve to lower gas prices. Also, the seven-hour gap in White House logs on Jan. 6, 2021. 
  <p class="updated_time"> 06:01 AM CT, Apr. 02 </p> 
@@ -296,8 +296,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/science/elephant-trophies-hunting.html">U.S. Allows Hunters to Import Some Elephant Trophies From African Countries</a> NYT: After settling a lawsuit filed during the Trump administration, the Fish and Wildlife Service granted six permits to bring elephant parts into the country. It may approve more in the coming months. 
  <p class="updated_time"> 08:18 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/business/economy/jobs-fed-full-employment.html">Unemployment Nears Prepandemic Level</a> NYT: Federal Reserve officials are tasked with fostering “full employment.” At least for now, some see the labor market as uncomfortably tight. 
- <p class="updated_time"> 07:54 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/31/us/politics/russia-military-ukraine.html">Russia’s War Lacks a Battlefield Commander, U.S. Officials Say</a> NYT: Poor logistics and flagging morale have plagued a disjointed military campaign in Ukraine, according to American officials and independent analysts. 
  <p class="updated_time"> 07:34 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1089989337/employers-continue-hiring-spree-even-as-war-in-ukraine-ratchets-up-economic-fear">Employers continue hiring spree even as war in Ukraine ratchets up economic fears</a> NPR: U.S. employers added 431,000 jobs in March, as the unemployment rate fell to 3.6% from 3.8% in February. The tight job market is putting upward pressure on both wages and prices. 
  <p class="updated_time"> 05:41 AM CT, Apr. 01 </p> 
@@ -346,8 +344,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/30/biden-trump-era-deportation-policy-00021802">Biden weighs phased out end of Trump-era deportation policy</a> Politico: The administration is looking at an end to Title 42 that could prioritize families first. 
  <p class="updated_time"> 02:05 PM CT, Mar. 30 </p> 
  <a href="https://www.politico.com/news/2022/03/30/covid-pandemic-aid-senate-00021764">The next phase of Covid depends on the Senate</a> Politico: Lawmakers disagree on how to fund more pandemic aid and how urgently additional cash is needed. 
- <p class="updated_time"> 01:09 PM CT, Mar. 30 </p> 
- <a href="https://www.politico.com/news/2022/03/30/biden-expected-to-use-wartime-powers-for-minerals-needed-in-clean-energy-push-00021693">Biden eyes using wartime powers for minerals needed in clean energy push</a> Politico: President Joe Biden would use the Defense Production Act to help secure U.S. sources of critical minerals that are deemed key components of clean energy technology. 
 
 
 </details>
