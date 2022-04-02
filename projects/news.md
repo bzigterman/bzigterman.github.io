@@ -9,41 +9,45 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:31 PM CT, Apr. 02 </p> 
+ <p class="updated_time"> 05:09 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Ukraine Live Updates: Russian Troops Pull Back From Around Kyiv as Focus Shifts to East</a> NYT: Military analysts say Russia is pulling away from areas around Kyiv, the capital, though the Pentagon has cautioned that it could be regrouping. The Red Cross is trying again to reach the besieged city of Mariupol. 
- <p class="updated_time"> 03:54 PM CT, Apr. 02 </p> 
+ <p class="updated_time"> 05:08 PM CT, Apr. 02 </p> 
+ <a href="https://www.npr.org/2022/04/02/1090475172/unesco-ukraine-cultural-sites-damage">UNESCO says 53 cultural sites in Ukraine have been damaged since the Russian invasion</a> NPR: The damaged sites include churches, historic buildings, museums and monuments. A UNESCO spokesperson said they fear more sites will be added to the list as the group works to verify the destruction. 
+ <p class="updated_time"> 05:05 PM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-russia-kyiv.html">Russia Retreats From Kyviv, Seeking to Regroup from Battering</a> NYT: A short drive from Kyiv in any direction turned up scenes of incinerated Russian vehicles, charred engine parts and chunks of armor. Attention is now shifting to the east, where Moscow says it is redirecting its forces. 
+ <p class="updated_time"> 04:55 PM CT, Apr. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-60970636?at_medium=RSS&at_campaign=KARANGA">Search under way in English Channel for missing small plane</a> BBC: A P-28 plane goes missing on a journey from Wellesbourne, Worcestershire, to Le Touquet, France. 
+ <p class="updated_time"> 04:17 PM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002">Ukraine Assesses Damage After Russian Pullback Near Kyiv</a> WSJ: Ukraine Assesses Damage After Russian Pullback Near Kyiv 
  <p class="updated_time"> 03:50 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/lithuania-russia-gas.html">Lithuania Says It Has Stopped Importing Gas From Russia </a> NYT: Although tiny, Lithuania is the largest economy in the Baltic States and a eurozone member, giving the decision significance to European nations. “If we can do it, the rest of Europe can do it too,” the president said. 
+ <p class="updated_time"> 03:17 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/on-natos-front-line-russias-threat-draws-new-allied-forces-11648904581">On NATO’s Front Line, Russia’s Threat Draws New Allied Forces</a> WSJ: On NATO’s Front Line, Russia’s Threat Draws New Allied Forces 
  <p class="updated_time"> 03:15 PM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090471297/russia-ukraine-war-what-happened-today-april-2">Russia-Ukraine war: What happened today (April 2)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:15 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/pope-francis-russia-putin-ukraine.html">Pope Francis Alludes to Putin’s Role in War on Ukraine</a> NYT: Francis’ remarks during a trip to Malta were the closest he has come to pinning the war in Ukraine on President Vladimir V. Putin of Russia. 
- <p class="updated_time"> 02:54 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/on-natos-front-line-russias-threat-draws-new-allied-forces-11648904581">On NATO’s Front Line, Russia’s Threat Draws New Allied Forces</a> WSJ: On NATO’s Front Line, Russia’s Threat Draws New Allied Forces 
  <p class="updated_time"> 02:36 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60967458?at_medium=RSS&at_campaign=KARANGA">Hargeisa fire: Inferno devastates market in Somaliland's capital</a> BBC: Hundreds of businesses are destroyed in the main market of Hargeisa in an overnight blaze. 
  <p class="updated_time"> 02:36 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/asia/imran-khan-pakistan-no-confidence.html">Imran Khan Says He Won’t Accept Result of  No-Confidence Vote</a> NYT: The prime minister of Pakistan, whose coalition has lost support in the National Assembly, claimed the coming vote was a conspiracy between opposition lawmakers and the United States. 
+ <p class="updated_time"> 02:17 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
  <p class="updated_time"> 02:08 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-russian-defeat-vasylkiv.html">When the Russians Picked the Wrong Town in Ukraine to Invade</a> NYT: The outgunned people of Vasylkiv, a provincial Ukrainian town, successfully fought off Russian troops in the early days of the war, helping to keep the capital safe and entering Ukraine’s military lore. 
- <p class="updated_time"> 01:59 PM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-russia-kyiv.html">Russia Retreats From Kyviv, Seeking to Regroup from Battering</a> NYT: A short drive from Kyiv in any direction turned up scenes of incinerated Russian vehicles, charred engine parts and chunks of armor. Attention is now shifting to the east, where Moscow says it is redirecting its forces. 
- <p class="updated_time"> 01:54 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
  <p class="updated_time"> 01:30 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60967463?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Street in Bucha found strewn with dead bodies</a> BBC: A reporter entering Bucha, near Kyiv, counts at least 20 bodies of men, one with his hands tied. 
+ <p class="updated_time"> 01:17 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/anger-rises-in-sri-lanka-as-economic-crisis-worsens-11648897200">Anger Rises in Sri Lanka as Economic Crisis Worsens</a> WSJ: Anger Rises in Sri Lanka as Economic Crisis Worsens 
  <p class="updated_time"> 01:08 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/middleeast/yemen-cease-fire.html">Yemen’s Warring Parties Begin First Cease-Fire in 6 Years</a> NYT: The two-month truce, brokered by the United Nations, offers hope for a reduction of violence in a war that has rattled the Arabian Peninsula and caused a humanitarian crisis. 
  <p class="updated_time"> 01:08 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/putin-ukraine-failure.html">For Putin, the Invasion Is Another Failure in Ukraine </a> NYT: Beginning in 2004, the Russian leader’s repeated efforts to subjugate his neighbor have been defeated, frustrating his imperial ambitions. 
- <p class="updated_time"> 12:54 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/anger-rises-in-sri-lanka-as-economic-crisis-worsens-11648897200">Anger Rises in Sri Lanka as Economic Crisis Worsens</a> WSJ: Anger Rises in Sri Lanka as Economic Crisis Worsens 
  <p class="updated_time"> 12:53 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/01/arts/budi-tek-dead.html">Budi Tek, 65, Dies; His Fortune Built a Vast Trove of Asian Art</a> NYT: He was one of the world’s top collectors, and his immense Yuz Museum in Shanghai helped establish the region’s bustling art scene. 
  <p class="updated_time"> 12:18 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60962188?at_medium=RSS&at_campaign=KARANGA">Yemen warring parties agree two-month truce - UN</a> BBC: It is the first nationwide truce since 2016, in a war said to have killed nearly 400,000 people. 
- <p class="updated_time"> 11:54 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 12:17 PM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/u-s-philippines-hold-one-of-their-largest-ever-military-exercises-11648906324">U.S., Philippines Hold One of Their Largest-Ever Military Exercises</a> WSJ: U.S., Philippines Hold One of Their Largest-Ever Military Exercises 
  <p class="updated_time"> 11:13 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/russia-space-station.html">Is Russia Quitting the International Space Station? Not Quite.</a> NYT: NASA has sidestepped suggestions that Russia might pull out of the space station partnership. 
@@ -91,6 +95,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/02/1090270597/biden-is-the-latest-president-to-go-off-script-on-russia">Biden is the latest president to go off script on Russia</a> NPR: Biden was far from the first U.S. president to say what he thought about Russia or its leaders — or to pay a price for it. 
  <p class="updated_time"> 01:55 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60953787?at_medium=RSS&at_campaign=KARANGA">Will Smith: Can his career recover after Oscars slap?</a> BBC: Has the film star's on-stage slap done permanent damage to his image and career? 
+ <p class="updated_time"> 01:53 AM CT, Apr. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60964852?at_medium=RSS&at_campaign=KARANGA">Sarah Palin announces US Congress bid</a> BBC: The fiery former vice presidential candidate wants to represent Alaska in the House of Representatives. 
  <p class="updated_time"> 10:18 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/charles-g-boyd-dead.html">Charles G. Boyd, Air Force General and Former P.O.W., Dies at 83</a> NYT: He began his 36-year career in the military as a fighter pilot and was the only prisoner of war in the Vietnam conflict to become a four-star general. 
  <p class="updated_time"> 10:08 PM CT, Apr. 01 </p> 
@@ -131,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/01/1090355099/a-radio-station-in-ukraine-balances-music-laughs-and-war-news-in-their-broadcast">A radio station in Ukraine balances music, laughs and war news in their broadcasts</a> NPR: The Wave of Lviv is a radio station known for pop music and banter. Since the war began in Ukraine, though, they've been working to balance their irreverent tone with news from the front lines. 
  <p class="updated_time"> 03:27 PM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090355053/deputy-national-security-adviser-talks-about-the-risk-of-russia-waging-cyberwar">Deputy national security adviser talks about the risk of Russia waging cyberwar</a> NPR: NPR's Ailsa Chang speaks with Deputy National Security Adviser Anne Neuberger, about the risk of a cyberwar and how the U.S. might respond to attacks on the country's infrastructure. 
- <p class="updated_time"> 02:44 PM CT, Apr. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60952125?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Russia accuses Ukraine of attacking oil depot</a> BBC: Russia claims a Ukrainian helicopter raid set fuel tanks ablaze in Belgorod, a Russian city. 
  <p class="updated_time"> 02:24 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/mariupol-evacuation-failed.html">Evacuation of Mariupol Falters as Red Cross Team Is Turned Back</a> NYT: At least one group of private vehicles left the battered city, but a larger effort failed when unsafe conditions prevented a Red Cross team from reaching the city to escort an evacuation convoy. 
  <p class="updated_time"> 01:53 PM CT, Apr. 01 </p> 
@@ -151,8 +155,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/world/middleeast/khashoggi-murder-trial-turkey-saudi.html">Turkey Moves Closer to Ending Khashoggi Murder Trial Without Conclusion</a> NYT: Turkey’s justice minister said he would agree to transfer the trial to Saudi Arabia, effectively ending a case that rights groups hoped could offer a measure of justice. 
  <p class="updated_time"> 12:26 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/africa/food-crisis-africa-drought-ukraine.html">War in Ukraine Compounds Hunger in East Africa</a> NYT: The conflict has driven up the cost of food in a region that depends heavily on crops from Russia and Ukraine and is facing what could be its worst drought in four decades. 
- <p class="updated_time"> 12:18 PM CT, Apr. 01 </p> 
- <a href="https://www.npr.org/2022/04/01/1090279187/russia-wikipedia-fine">Russia threatens to fine Wikipedia if it doesn't remove some details about the war</a> NPR: Russia's communications regulator says it will fine Wikipedia up to $47,000 for not complying with requests to take down information. It has made similar warnings to Google about YouTube videos. 
  <p class="updated_time"> 11:01 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/dyatlov-pass-avalanche-russia.html">Researchers Find Another Clue in the Dyatlov Pass Mystery</a> NYT: The mystery of nine hikers who died in Russia has baffled people for more than 60 years. The authors of a recent paper think they’ve found another clue. 
  <p class="updated_time"> 10:45 AM CT, Apr. 01 </p> 
@@ -179,8 +181,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/world/australia/midnight-oil-brings-australia-home.html">Midnight Oil Brings Australia Home</a> NYT: Australia has had its fair share of music that made it big overseas. But why do some bands succeed internationally while others do not? And does that even matter? 
  <p class="updated_time"> 01:36 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/asia/imran-khan-resign-pakistan.html">Imran Khan Defiantly Refuses to Resign as Pakistan’s Leader</a> NYT: Prime Minister Khan, who faces the prospect of being removed from office by Parliament, accused the United States of mounting a conspiracy to topple his government. 
- <p class="updated_time"> 01:30 AM CT, Apr. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60949791?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Gruesome evidence points to war crimes on road outside Kyiv</a> BBC: The BBC finds the charred remains of civilians on a highway where Russian troops had stationed tanks. 
  <p class="updated_time"> 10:08 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-russia-war.html">More Mixed Signals From Russia as Ukraine War Enters Sixth Week</a> NYT: Moscow appeared to adjust its position on humanitarian access to Mariupol, but there was little evidence to support Russian claims of a military pullback near Kyiv. 
  <p class="updated_time"> 09:36 PM CT, Mar. 31 </p> 
