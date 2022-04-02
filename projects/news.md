@@ -9,19 +9,19 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:07 AM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Ukraine Live Updates: Aid Convoy Will Try Again to Reach Mariupol</a> NYT: The Red Cross will make a second attempt on Saturday to reach the besieged city. Military analysts confirm that Russia seems to be pulling its troops away from areas around Kyiv, the capital. 
- <p class="updated_time"> 02:30 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 03:40 AM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Live Updates: Russian Troops Pull Out of Ukraine’s North as Focus Shifts to East</a> NYT: Military analysts confirmed that Russia was pulling its troops away from areas around Kyiv, the capital. The Red Cross will make another attempt on Saturday to reach the besieged city of Mariupol. 
+ <p class="updated_time"> 02:58 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/vladimir-putins-20-year-march-to-war-in-ukraineand-how-the-west-mishandled-it-11648826461">Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It</a> WSJ: Vladimir Putin’s 20-Year March to War in Ukraine—and How the West Mishandled It 
+ <p class="updated_time"> 01:58 AM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
  <p class="updated_time"> 01:55 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60953787?at_medium=RSS&at_campaign=KARANGA">Will Smith: Can his career recover after Oscars slap?</a> BBC: Has the film star's on-stage slap done permanent damage to his image and career? 
- <p class="updated_time"> 01:30 AM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-strikes-russian-military-depot-russians-say-11648804107">Ukraine Strikes Inside Russian Territory, Russians Say</a> WSJ: Ukraine Strikes Inside Russian Territory, Russians Say 
- <p class="updated_time"> 12:30 AM CT, Apr. 02 </p> 
+ <p class="updated_time"> 12:58 AM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-putin-ukraine-war-envoy-11648823720">Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy</a> WSJ: Roman Abramovich’s Abrupt Transformation From Shunned Oligarch to Wartime Envoy 
- <p class="updated_time"> 11:30 PM CT, Apr. 01 </p> 
+ <p class="updated_time"> 11:58 PM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/shanghai-battles-covid-19-outbreaks-in-another-elderly-care-hospital-11648840098">Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital</a> WSJ: Shanghai Battles Covid-19 Outbreaks in Another Elderly-Care Hospital 
- <p class="updated_time"> 10:30 PM CT, Apr. 01 </p> 
+ <p class="updated_time"> 10:58 PM CT, Apr. 01 </p> 
  <a href="https://www.wsj.com/articles/yemen-parties-agree-to-two-month-truce-11648849524">Yemen Parties Agree to Two-Month Truce</a> WSJ: Yemen Parties Agree to Two-Month Truce 
  <p class="updated_time"> 10:22 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes state of emergency amid protests</a> BBC: Protestors are angry because of food, fuel and power shortages across the nation. 
