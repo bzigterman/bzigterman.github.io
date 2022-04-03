@@ -9,34 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Apr. 03 </p> 
+ <a href="https://www.nytimes.com/2022/04/03/world/europe/ukraine-war-russia-trostyanets.html">‘This Is True Barbarity’: Life and Death Under Russian Occupation</a> NYT: The town of Trostyanets was occupied by Russian forces for a month before the Ukrainian military liberated it. Residents described weeks of hunger and horror. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 03 </p> 
+ <a href="https://www.nytimes.com/2022/04/03/science/ocean-plastic-animals.html">In the Ocean, It’s Snowing Microplastics</a> NYT: Tiny bits of plastic have infiltrated the deep sea’s main food source and could alter the ocean’s role in one of Earth’s ancient cooling processes, scientists say. 
+ <p class="updated_time"> 03:59 AM CT, Apr. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/03/world/imran-khan-confidence-vote-pakistan">Pakistan Live Updates: Lawmakers Block Vote Against Prime Minister</a> NYT: Allies of Imran Khan moved to dissolve the National Assembly, blocking a scheduled no-confidence vote and calling for early elections. The opposition said it would challenge the motion. 
+ <p class="updated_time"> 03:56 AM CT, Apr. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/03/world/ukraine-russia-war">Live Updates: Russian Retreat From Around Kyiv Offers Closer Look at Devastation</a> NYT: Residents emerged from shelters as Ukrainian troops entered the capital’s suburbs. Battlefield debris littered the streets, and Ukraine alleged that Russian forces executed civilians. 
+ <p class="updated_time"> 03:54 AM CT, Apr. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60972186?at_medium=RSS&at_campaign=KARANGA">Pakistan PM Imran Khan seeks fresh poll amid move to remove him</a> BBC: Imran Khan urges the dissolution of parliament and fresh elections after opposition moves to remove him. 
+ <p class="updated_time"> 03:31 AM CT, Apr. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60972180?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Polish doctor saves family's sight after bombing</a> BBC: The mother of five-year-old twin boys describes how she tried to protect as their house was bombed. 
+ <p class="updated_time"> 03:09 AM CT, Apr. 03 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002">Ukraine Assesses Damage After Russian Pullback Near Kyiv</a> WSJ: Ukraine Assesses Damage After Russian Pullback Near Kyiv 
+ <p class="updated_time"> 02:57 AM CT, Apr. 03 </p> 
+ <a href="https://www.npr.org/2022/04/03/1090492043/kims-sister-in-north-korea-enraged-by-seouls-preemptive-strike-comments">Kim's sister in North Korea enraged by Seoul's preemptive strike comments</a> NPR: The influential sister of North Korean leader Kim Jong Un called the South Korean defense minister a "scum-like guy" for talking about preemptive strikes on the North, and made a "serious threat" 
  <p class="updated_time"> 02:41 AM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60972351?at_medium=RSS&at_campaign=KARANGA">Smoke rising in Ukrainian port city Odesa after strikes</a> BBC: Smoke is seen after explosions are heard in the strategic southern port city of Odesa on the Black Sea coast. 
- <p class="updated_time"> 02:37 AM CT, Apr. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/04/03/world/ukraine-russia-war">Live Updates: Russian Retreat From Around Kyiv Offers Closer Look at Devastation</a> NYT: Residents emerged from shelters as Ukrainian troops entered the capital’s suburbs. Battlefield debris littered the streets, and Ukraine alleged that Russian forces executed civilians. 
- <p class="updated_time"> 01:55 AM CT, Apr. 03 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002">Ukraine Assesses Damage After Russian Pullback Near Kyiv</a> WSJ: Ukraine Assesses Damage After Russian Pullback Near Kyiv 
- <p class="updated_time"> 12:55 AM CT, Apr. 03 </p> 
+ <p class="updated_time"> 02:09 AM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/on-natos-front-line-russias-threat-draws-new-allied-forces-11648904581">On NATO’s Front Line, Russia’s Threat Draws New Allied Forces</a> WSJ: On NATO’s Front Line, Russia’s Threat Draws New Allied Forces 
+ <p class="updated_time"> 01:09 AM CT, Apr. 03 </p> 
+ <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
  <p class="updated_time"> 12:31 AM CT, Apr. 03 </p> 
- <a href="https://www.npr.org/2022/04/03/1090490181/pakistans-pm-imran-khan-faces-tough-challenge-with-no-confidence-vote">Pakistan's PM Imran Khan faces tough challenge with no-confidence vote</a> NPR: Pakistan's embattled prime minister Imran Khan faces a no-confidence vote in Parliament on Sunday and the opposition says it has the numbers to win after in a fragile coalition abandoned him. 
+ <a href="https://www.npr.org/2022/04/03/1090490181/pakistans-pm-imran-khan-attempts-to-dissolve-parliament-before-confidence-vote">Pakistan's PM Imran Khan attempts to dissolve Parliament before confidence vote</a> NPR: Pakistan's politics was thrown into dissarray on Sunday after PM Khan asked the president to dissolve parliament, interrupting a session where he had been expected to lose a no-confidence motion. 
+ <p class="updated_time"> 12:09 AM CT, Apr. 03 </p> 
+ <a href="https://www.wsj.com/articles/anger-rises-in-sri-lanka-as-economic-crisis-worsens-11648897200">Anger Rises in Sri Lanka as Economic Crisis Worsens</a> WSJ: Anger Rises in Sri Lanka as Economic Crisis Worsens 
  <p class="updated_time"> 12:08 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/lithuania-russia-gas.html">Lithuania Says It Has Stopped Importing Gas From Russia </a> NYT: Although tiny, Lithuania is the largest economy in the Baltic States and a eurozone member, giving the decision significance to European nations. “If we can do it, the rest of Europe can do it too,” the president said. 
- <p class="updated_time"> 11:55 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
  <p class="updated_time"> 11:36 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/daniel-craig-macbeth.html">‘Macbeth’ performances on Broadway pause after Daniel Craig tests positive for the coronavirus.</a> NYT: The show, which just began previews on Tuesday, hopes to resume on April 8. 
  <p class="updated_time"> 11:20 PM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/03/1090488798/opposition-vows-end-to-orbans-autocratic-rule-in-hungary">Opposition vows end to Orban's autocratic rule in Hungary</a> NPR: A coalition of opposition parties made an appeal to voters before Hungary's election on Sunday, which decides whether nationalist Prime Minister Viktor Orban will win a fourth consecutive term. 
- <p class="updated_time"> 10:55 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/anger-rises-in-sri-lanka-as-economic-crisis-worsens-11648897200">Anger Rises in Sri Lanka as Economic Crisis Worsens</a> WSJ: Anger Rises in Sri Lanka as Economic Crisis Worsens 
+ <p class="updated_time"> 11:09 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/u-s-philippines-hold-one-of-their-largest-ever-military-exercises-11648906324">U.S., Philippines Hold One of Their Largest-Ever Military Exercises</a> WSJ: U.S., Philippines Hold One of Their Largest-Ever Military Exercises 
  <p class="updated_time"> 10:47 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/01/climate/biden-climate-change.html">As Gas Prices Soar, Biden’s Climate Ambitions Sputter</a> NYT: Rising costs at the pump, war in Ukraine, an emboldened fossil fuel industry and stalled legislation have imperiled President Biden’s climate agenda. 
  <p class="updated_time"> 10:25 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes curfew and blocks social media amid protests</a> BBC: A state of emergency is in force as protests over food, fuel and power shortages sweep the nation. 
  <p class="updated_time"> 10:13 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-photojournalist-maks-levin-dead.html">Ukrainian Photojournalist Who Went Missing Near Kyiv Is Found Dead</a> NYT: Maks Levin, 40, was a prominent freelancer who had spent years covering the conflict in Ukraine. 
- <p class="updated_time"> 09:55 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-philippines-hold-one-of-their-largest-ever-military-exercises-11648906324">U.S., Philippines Hold One of Their Largest-Ever Military Exercises</a> WSJ: U.S., Philippines Hold One of Their Largest-Ever Military Exercises 
  <p class="updated_time"> 09:01 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60970825?at_medium=RSS&at_campaign=KARANGA">Guantanamo inmate sent to Algeria after almost 20 years</a> BBC: Sufiyan Barhoumi spent nearly two decades at the US military prison, accused of a bomb plot. 
  <p class="updated_time"> 08:23 PM CT, Apr. 02 </p> 
@@ -117,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/02/climate/oil-tankers-russia.html">On Its Way to the U.S., Russian Oil Tanker Makes Giant U-Turn </a> NYT: The ship, originally sailing to Philadelphia, apparently lost its buyer in the middle of the Atlantic. A number of tankers carrying Russian oil face similar problems. 
  <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090270597/biden-is-the-latest-president-to-go-off-script-on-russia">Biden is the latest president to go off script on Russia</a> NPR: Biden was far from the first U.S. president to say what he thought about Russia or its leaders — or to pay a price for it. 
- <p class="updated_time"> 01:55 AM CT, Apr. 02 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-60953787?at_medium=RSS&at_campaign=KARANGA">Will Smith: Can his career recover after Oscars slap?</a> BBC: Has the film star's on-stage slap done permanent damage to his image and career? 
  <p class="updated_time"> 01:53 AM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60964852?at_medium=RSS&at_campaign=KARANGA">Sarah Palin announces US Congress bid</a> BBC: The fiery former vice presidential candidate wants to represent Alaska in the House of Representatives. 
  <p class="updated_time"> 10:18 PM CT, Apr. 01 </p> 
@@ -139,8 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/world/europe/zelensky-russian-military-speech-video.html">Zelensky Calls for Popular Disobedience, in Both Ukraine and Russia</a> NYT: President Volodymyr Zelensky of Ukraine threatened retribution for people who collaborate with occupying forces and accused retreating Russians of planting mines and even booby-trapping corpses. 
  <p class="updated_time"> 06:24 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/pope-apology-indigenous-people-canada.html">Pope Apologizes to Indigenous People of Canada</a> NYT: Pope Francis also promised to visit Canada as part of a process of healing and reconciliation over the church’s involvement in an abusive system of residential schools. 
- <p class="updated_time"> 06:03 PM CT, Apr. 01 </p> 
- <a href="https://www.bbc.co.uk/news/health-60929956?at_medium=RSS&at_campaign=KARANGA">Lateral flow tests: Should I recycle the plastic?</a> BBC: Scientists say more could have been done to make lateral flow tests widely recyclable. 
  <p class="updated_time"> 06:01 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60956241?at_medium=RSS&at_campaign=KARANGA">Ukraine: Why the cartoon Masyanya was banned in Russia</a> BBC: Masyanya is a YouTube cartoon star in Russia, but her episode on the Ukraine war has been banned. 
  <p class="updated_time"> 04:53 PM CT, Apr. 01 </p> 
@@ -149,8 +157,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/01/1090339355/russia-ukraine-war-what-happened-today-april-1">Russia-Ukraine war: What happened today (April 1)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:05 PM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1090355134/hungarian-opposition-parties-aim-to-oust-longtime-prime-minister-in-major-electi">Hungarian opposition parties aim to oust longtime prime minister in major election</a> NPR: Hungarians head to the polls on Sunday in what experts are calling the most important election in a generation. Three-term Prime Minister Viktor Orban is facing a conservative candidate. 
- <p class="updated_time"> 03:53 PM CT, Apr. 01 </p> 
- <a href="https://www.npr.org/2022/04/01/1090355120/tokyo-loosens-strict-public-school-uniform-rules">Tokyo loosens strict public school uniform rules</a> NPR: NPR's Kelsey Snell talks with Japan-based reporter for Vice World News, Hanako Montgomery, about the lifting of decades-old school uniform rules in the Tokyo metropolitan area. 
  <p class="updated_time"> 02:24 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/mariupol-evacuation-failed.html">Evacuation of Mariupol Falters as Red Cross Team Is Turned Back</a> NYT: At least one group of private vehicles left the battered city, but a larger effort failed when unsafe conditions prevented a Red Cross team from reaching the city to escort an evacuation convoy. 
  <p class="updated_time"> 01:53 PM CT, Apr. 01 </p> 
@@ -179,16 +185,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/us/politics/russia-military-ukraine.html">Russia’s War Lacks a Battlefield Commander, U.S. Officials Say</a> NYT: Poor logistics and flagging morale have plagued a disjointed military campaign in Ukraine, according to American officials and independent analysts. 
  <p class="updated_time"> 07:30 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/chernobyl-radiation-poisoning.html">Nuclear Agency Looks Into Reports of Radiation Poisoning at Chernobyl</a> NYT: Russian soldiers left the decommissioned nuclear plant and a nearby city after five weeks of occupation. 
- <p class="updated_time"> 06:44 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/31/world/middleeast/syrian-mercenaries-ukraine-russia.html">Syrian Mercenaries Deploy to Russia en Route to Ukrainian Battlefields</a> NYT: A first contingent has arrived in Russia for military training including members of a Syrian unit that worked with Russian officers in Syria, backing President Bashar al-Assad. 
  <p class="updated_time"> 06:29 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/asia/new-zealand-parliament-weed.html">New Zealand Protesters Seeded Marijuana Plants on Parliament Grounds</a> NYT: New Zealand officials say anti-vaccination protesters seeded cannabis during a three-week occupation. 
  <p class="updated_time"> 04:00 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/sports/ukraine-vladyslav-heraskevych-war.html">Ukrainian Olympian Does His Part Against Russian Invasion</a> NYT: Vladyslav Heraskevych, a skeleton competitor from Ukraine, gathers supplies and uses the team van to deliver them to Kyiv as he waits to be called for military duty. 
  <p class="updated_time"> 01:56 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/australia/midnight-oil-brings-australia-home.html">Midnight Oil Brings Australia Home</a> NYT: Australia has had its fair share of music that made it big overseas. But why do some bands succeed internationally while others do not? And does that even matter? 
- <p class="updated_time"> 01:36 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/03/31/world/asia/imran-khan-resign-pakistan.html">Imran Khan Defiantly Refuses to Resign as Pakistan’s Leader</a> NYT: Prime Minister Khan, who faces the prospect of being removed from office by Parliament, accused the United States of mounting a conspiracy to topple his government. 
  <p class="updated_time"> 10:08 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-russia-war.html">More Mixed Signals From Russia as Ukraine War Enters Sixth Week</a> NYT: Moscow appeared to adjust its position on humanitarian access to Mariupol, but there was little evidence to support Russian claims of a military pullback near Kyiv. 
  <p class="updated_time"> 09:36 PM CT, Mar. 31 </p> 
@@ -328,10 +330,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/31/house-majority-nevada-primary-chaos-00022018">'Fangs out from day one': Chaos engulfs key state in fight for House majority</a> Politico: Primary challenges, redistricting fallout and personal drama abound in battleground Nevada. 
  <p class="updated_time"> 12:25 PM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/senate-closes-in-on-10b-covid-aid-deal-despite-dem-frustrations-00022046">Senate closes in on $10B Covid aid deal despite Dem frustrations</a> Politico: The compromise leaves out $5 billion in global vaccine efforts, drawing sharp complaints from many Democrats. 
- <p class="updated_time"> 04:00 AM CT, Mar. 31 </p> 
- <a href="https://www.politico.com/news/2022/03/31/ruble-recovery-russia-biden-sanctions-00021850">Biden turned the ruble into rubble. Then it quickly came back.</a> Politico: Some current and former Treasury officials, foreign exchange traders and sanctions experts say the ruble's rebound doesn’t necessarily mean the West’s economic weapons are losing their punch. 
- <p class="updated_time"> 03:30 AM CT, Mar. 31 </p> 
- <a href="https://www.politico.com/news/2022/03/31/biden-congress-new-iran-nuke-deal-00021853">'The president will get his way': Congress likely can't stop new Iran nuke deal</a> Politico: Election-year politics will have an impact, but likely not enough to block a new diplomatic accord with Tehran. 
 
 
 </details>
