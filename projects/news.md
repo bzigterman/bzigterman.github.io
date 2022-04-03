@@ -9,15 +9,15 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:24 AM CT, Apr. 03 </p> 
+ <p class="updated_time"> 05:48 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/04/03/world/ukraine-russia-war">Live Updates: Russian Retreat From Around Kyiv Offers Closer Look at Devastation</a> NYT: Residents emerged from shelters as Ukrainian troops entered the capital’s suburbs. Battlefield debris littered the streets, and Ukraine alleged that Russian forces executed civilians. 
- <p class="updated_time"> 05:23 AM CT, Apr. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/04/03/world/imran-khan-confidence-vote-pakistan">Pakistan Live Updates: Prime Minister Orders Parliament Dissolved, Blocking Move to Oust Him</a> NYT: It was not clear whether the maneuver would succeed, and it seemed to raise the possibility of a constitutional crisis. Stunned opposition lawmakers said they would turn to the Supreme Court. 
+ <p class="updated_time"> 05:45 AM CT, Apr. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/03/world/imran-khan-confidence-vote-pakistan">Pakistan Live Updates: Prime Minister Dissolves Parliament, Blocking Move to Oust Him</a> NYT: It was not clear whether Imran Khan’s maneuver would succeed, and it seemed to raise the possibility of a constitutional crisis. Stunned opposition lawmakers said they would turn to the Supreme Court. 
  <p class="updated_time"> 05:22 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/taliban-outlaw-opium-poppy-afghanistan.html">Taliban Outlaw Opium Poppy Cultivation in Afghanistan</a> NYT: The move will have far-reaching consequences for the many farmers who turned to the illicit crop as a brutal drought and economic crisis have gripped the country. 
  <p class="updated_time"> 05:07 AM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090496851/ukraine-russian-strikes-on-odesa-kyiv-mayor-says-russia-committing-genocide">Ukraine: Russian strikes on Odesa, Kyiv mayor says Russia committing genocide</a> NPR: The Russian military says it has struck an oil processing plant near the Black Sea port of Odesa, while Kyiv mayor Vitali Klitschko spoke of "cruel war crimes" by Russians retreating from Bucha. 
- <p class="updated_time"> 04:38 AM CT, Apr. 03 </p> 
+ <p class="updated_time"> 04:50 AM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002">Ukraine Assesses Damage After Russian Pullback Near Kyiv</a> WSJ: Ukraine Assesses Damage After Russian Pullback Near Kyiv 
  <p class="updated_time"> 04:34 AM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60973124?at_medium=RSS&at_campaign=KARANGA">Zelensky spokesman describes heartbreaking scenes in Ukraine</a> BBC: A spokesman for Ukraine's President Zelensky describes the discovery of mass graves. 
@@ -31,19 +31,19 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/03/world/europe/ukraine-war-russia-trostyanets.html">‘This Is True Barbarity’: Life and Death Under Russian Occupation</a> NYT: The town of Trostyanets was occupied by Russian forces for a month before the Ukrainian military liberated it. Residents described weeks of hunger and horror. 
  <p class="updated_time"> 04:00 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/science/ocean-plastic-animals.html">In the Ocean, It’s Snowing Microplastics</a> NYT: Tiny bits of plastic have infiltrated the deep sea’s main food source and could alter the ocean’s role in one of Earth’s ancient cooling processes, scientists say. 
- <p class="updated_time"> 03:38 AM CT, Apr. 03 </p> 
+ <p class="updated_time"> 03:50 AM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/on-natos-front-line-russias-threat-draws-new-allied-forces-11648904581">On NATO’s Front Line, Russia’s Threat Draws New Allied Forces</a> WSJ: On NATO’s Front Line, Russia’s Threat Draws New Allied Forces 
  <p class="updated_time"> 03:31 AM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60972180?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Polish doctor saves family's sight after bombing</a> BBC: The mother of five-year-old twin boys describes how she tried to protect as their house was bombed. 
  <p class="updated_time"> 02:57 AM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090492043/kims-sister-in-north-korea-enraged-by-seouls-preemptive-strike-comments">Kim's sister in North Korea enraged by Seoul's preemptive strike comments</a> NPR: The influential sister of North Korean leader Kim Jong Un called the South Korean defense minister a "scum-like guy" for talking about preemptive strikes on the North. 
+ <p class="updated_time"> 02:50 AM CT, Apr. 03 </p> 
+ <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
  <p class="updated_time"> 02:41 AM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60972351?at_medium=RSS&at_campaign=KARANGA">Smoke rising in Ukrainian port city Odesa after strikes</a> BBC: Smoke is seen after explosions are heard in the strategic southern port city of Odesa on the Black Sea coast. 
- <p class="updated_time"> 02:38 AM CT, Apr. 03 </p> 
- <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
- <p class="updated_time"> 01:38 AM CT, Apr. 03 </p> 
+ <p class="updated_time"> 01:50 AM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/anger-rises-in-sri-lanka-as-economic-crisis-worsens-11648897200">Anger Rises in Sri Lanka as Economic Crisis Worsens</a> WSJ: Anger Rises in Sri Lanka as Economic Crisis Worsens 
- <p class="updated_time"> 12:38 AM CT, Apr. 03 </p> 
+ <p class="updated_time"> 12:50 AM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/u-s-philippines-hold-one-of-their-largest-ever-military-exercises-11648906324">U.S., Philippines Hold One of Their Largest-Ever Military Exercises</a> WSJ: U.S., Philippines Hold One of Their Largest-Ever Military Exercises 
  <p class="updated_time"> 12:31 AM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090490181/pakistans-pm-imran-khan-attempts-to-dissolve-parliament-before-confidence-vote">Pakistan's PM Imran Khan dissolves Parliament before confidence vote</a> NPR: Pakistan's politics was thrown into dissarray on Sunday after PM Khan asked the president to dissolve parliament, interrupting a session where he had been expected to lose a no-confidence motion. 
@@ -208,6 +208,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Apr. 03 </p> 
+ <a href="https://www.politico.com/news/2022/04/03/wisconsin-democrats-ben-wikler-00022556">Wisconsin Democrats built a winning machine. Now comes its greatest test.</a> Politico: State party chair Ben Wikler has built a formidable fundraising and organizing operation ahead of a potentially tough midterm election. 
  <p class="updated_time"> 10:47 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/01/climate/biden-climate-change.html">As Gas Prices Soar, Biden’s Climate Ambitions Sputter</a> NYT: Rising costs at the pump, war in Ukraine, an emboldened fossil fuel industry and stalled legislation have imperiled President Biden’s climate agenda. 
  <p class="updated_time"> 07:04 PM CT, Apr. 02 </p> 
@@ -225,9 +227,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:00 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090448719/week-in-politics-jobs-grow-biden-to-release-reserve-oil-logs-missing-on-jan-6">Week in politics: Jobs grow; Biden to release reserve oil; logs missing on Jan. 6</a> NPR: The U.S. economy continues to create new jobs at a rapid pace. President Biden taps the strategic petroleum reserve to lower gas prices. Also, the seven-hour gap in White House logs on Jan. 6, 2021. 
  <p class="updated_time"> 06:01 AM CT, Apr. 02 </p> 
- <a href="https://www.politico.com/news/2022/04/02/education-secretary-miguel-cardonas-first-year-in-office-on-message-but-out-of-touch-00021623">If you can't name Biden's Education secretary, you probably aren't alone</a> Politico: Much like President Joe Biden, Miguel Cardona was seen as someone who could come in and ease tensions after months of charged debate over school closures. 
- <p class="updated_time"> 06:01 AM CT, Apr. 02 </p> 
  <a href="https://www.politico.com/news/2022/04/02/if-cuomo-wants-to-run-for-office-hed-need-a-staff-it-might-not-be-easy-00021615">As Cuomo weighs a comeback, some political strategists run the other way</a> Politico: Half a dozen political consultants and polling firms said in interviews that Cuomo has become persona non grata in the consulting world — with some shying away from helping him rebuild his career and make another run for governor. 
+ <p class="updated_time"> 06:01 AM CT, Apr. 02 </p> 
+ <a href="https://www.politico.com/news/2022/04/02/education-secretary-miguel-cardonas-first-year-in-office-on-message-but-out-of-touch-00021623">If you can't name Biden's Education secretary, you probably aren't alone</a> Politico: Much like President Joe Biden, Miguel Cardona was seen as someone who could come in and ease tensions after months of charged debate over school closures. 
  <p class="updated_time"> 06:00 AM CT, Apr. 02 </p> 
  <a href="https://www.politico.com/news/2022/04/02/adams-nypd-homeless-camps-00022473">‘Back to the Giuliani era’: Adams’ order to clear homeless camps ignites fury in New York</a> Politico: Elected officials and advocates say there's no safe place for homeless New Yorkers to go after Adams already cleared out the subways and transit hubs. 
  <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
@@ -314,14 +316,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/us/politics/covid-relief-funds.html">As Biden Pleads for More Covid Aid, States Are Awash in Federal Dollars</a> NYT: States pushed back on a plan to take back some of their stimulus money to fund President Biden’s emergency spending request. Now Congress is trying to find other ways to offset the cost. 
  <p class="updated_time"> 03:31 AM CT, Apr. 01 </p> 
  <a href="https://www.politico.com/news/2022/04/01/herschel-walker-primary-00022192">‘The baggage is too heavy’: GOP foes tee up last-ditch effort to sink Herschel Walker</a> Politico: Georgia primary opponents warn the Trump-backed former football star is too flawed to win in November. 
- <p class="updated_time"> 03:30 AM CT, Apr. 01 </p> 
- <a href="https://www.politico.com/gallery/2022/04/01/the-nations-cartoonists-on-the-week-in-politics-00022190">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 08:15 PM CT, Mar. 31 </p> 
  <a href="https://www.cnn.com/2022/03/28/politics/january-6-investigation-committee-what-matters/index.html">There's a lot of activity in the January 6 committee's investigation</a> CNN: News out of Ukraine, where citizens are taking up arms to defend their democracy from an invading Russian army, has distracted Americans, for a time, from the investigation into the attempt to overturn democracy here at home. 
  <p class="updated_time"> 07:48 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090125988/jared-kushner-provided-helpful-details-to-jan-6-committee">Jared Kushner provided 'helpful' details to the Jan. 6 committee, a panel member says</a> NPR: Donald Trump's son-in-law and a former senior White House adviser substantiated information and provided his own take on different reports on the Jan. 6 attack, Democratic Rep. Elaine Luria said. 
  <p class="updated_time"> 05:44 PM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/cloud-of-notoriety-builds-over-cawthorn-builds-as-sex-and-drugs-comment-00022162">Cloud of notoriety builds over Cawthorn after sex-and-drugs claims</a> Politico: The North Carolina conservative could be hard to defeat. His latest wild claims about his colleagues are making some Republicans want to try. 
+ <p class="updated_time"> 05:05 PM CT, Mar. 31 </p> 
+ <a href="https://www.politico.com/news/2022/03/31/new-york-judge-democrats-redistricting-plan-00022161">GOP judge throws out Democrats' redistricting plan in New York, setting up expected appellate fight</a> Politico: The decision orders legislators to draw new lines with bipartisan support by April 11. 
  <p class="updated_time"> 04:57 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090085513/house-passes-bill-to-cap-insulin-prices">House passes bill to cap insulin prices </a> NPR: The chamber voted on a bill that would cap the price of insulin at $35 a month, but its fate in the Senate is unclear. 
  <p class="updated_time"> 02:06 PM CT, Mar. 31 </p> 
