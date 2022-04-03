@@ -9,8 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:46 PM CT, Apr. 02 </p> 
+ <p class="updated_time"> 08:23 PM CT, Apr. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60958779?at_medium=RSS&at_campaign=KARANGA">Serbia's President Vucic performs balancing act as he seeks re-election</a> BBC: Aleksandar Vucic is hoping for election victory, but Serbia's opposition complains of media blockade. 
+ <p class="updated_time"> 08:12 PM CT, Apr. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60970818?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Bucha street littered with burned-out tanks and corpses</a> BBC: A BBC team witnesses utter devastation in the town of Bucha, after Russian soldiers pulled out. 
+ <p class="updated_time"> 08:03 PM CT, Apr. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes curfew amid food, fuel and power shortage protests</a> BBC: A state of emergency is in force as protests over food, fuel and power shortages sweep the nation. 
+ <p class="updated_time"> 08:03 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">Ukraine Live Updates: Russian Troops Pull Back From Around Kyiv as Focus Shifts to East</a> NYT: Military analysts say Russia is pulling away from areas around Kyiv, the capital, though the Pentagon has cautioned that it could be regrouping. The Red Cross is trying again to reach the besieged city of Mariupol. 
+ <p class="updated_time"> 08:03 PM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-photojournalist-maks-levin-dead.html">Ukrainian Photojournalist Who Went Missing Near Kyiv Is Found Dead</a> NYT: Maks Levin, 40, was a prominent freelancer who had spent years covering the conflict in Ukraine. 
+ <p class="updated_time"> 08:00 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002">Ukraine Assesses Damage After Russian Pullback Near Kyiv</a> WSJ: Ukraine Assesses Damage After Russian Pullback Near Kyiv 
+ <p class="updated_time"> 07:54 PM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/world/new-york-hochul-second-boosters.html">Hochul Says Second Boosters Are Offered at New York Vaccination Sites</a> NYT: Government officials move to get ahead of an uptick in cases fueled by the highly transmissible Omciron subvariant. 
+ <p class="updated_time"> 07:40 PM CT, Apr. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/business/shanghai-covid-child-separation.html">In Shanghai, Covid Is Separating Parents  From Children</a> NYT: As China’s largest city struggles to contain a coronavirus outbreak, outrage erupted online after images circulated of small children isolated from parents. 
+ <p class="updated_time"> 07:25 PM CT, Apr. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60938598?at_medium=RSS&at_campaign=KARANGA">Costa Rica election: Will a newcomer beat an ex-president?</a> BBC: Voters have the choice between an economist with little political experience and a former president. 
+ <p class="updated_time"> 07:18 PM CT, Apr. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60943889?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray war: Inside Mekelle cut off from the world</a> BBC: A resident of conflict-hit Tigray gives a rare insight into life there after 17 months of war. 
+ <p class="updated_time"> 07:00 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/on-natos-front-line-russias-threat-draws-new-allied-forces-11648904581">On NATO’s Front Line, Russia’s Threat Draws New Allied Forces</a> WSJ: On NATO’s Front Line, Russia’s Threat Draws New Allied Forces 
+ <p class="updated_time"> 06:43 PM CT, Apr. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60929530?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Family’s bid to reach safety ends in tragedy</a> BBC: The father of 31-year-old Maksim Iovenko describes how his son and family ended up on a deadly stretch of highway outside Kyiv. 
  <p class="updated_time"> 06:35 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60864628?at_medium=RSS&at_campaign=KARANGA">19 facts about the 2022 Grammy Awards</a> BBC: Everything you need to know about the ceremony - from who's playing to who's going to win. 
  <p class="updated_time"> 06:20 PM CT, Apr. 02 </p> 
@@ -21,50 +43,38 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60959467?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Koko’s phone is your phone as she makes her way out</a> BBC: British-Zimbabwean student Korrine Sky documented her escape from Ukraine on her mobile phone. 
  <p class="updated_time"> 06:07 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/stories-60931660?at_medium=RSS&at_campaign=KARANGA">The handshake in space that brought hope to the world</a> BBC: What happened when US astronauts met USSR cosmonauts in space 
- <p class="updated_time"> 05:59 PM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/world/new-york-hochul-second-boosters.html">Hochul Says Second Boosters Are Offered at New York Vaccination Sites</a> NYT: Government officials move to get ahead of an uptick in cases fueled by the highly transmissible Omciron subvariant. 
- <p class="updated_time"> 05:53 PM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/business/shanghai-covid-child-separation.html">In Shanghai, Covid Is Separating Parents  From Children</a> NYT: As China’s largest city struggles to contain a coronavirus outbreak, outrage erupted online after images of small children isolated from parents circulated. 
- <p class="updated_time"> 05:49 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002">Ukraine Assesses Damage After Russian Pullback Near Kyiv</a> WSJ: Ukraine Assesses Damage After Russian Pullback Near Kyiv 
+ <p class="updated_time"> 06:00 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
  <p class="updated_time"> 05:14 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60968546?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Evidence grows of civilian killings in Bucha</a> BBC: The BBC's Jeremy Bowen reports on the growing evidence of civilian killings in Bucha, near Kyiv. His report contains some distressing images. 
  <p class="updated_time"> 05:08 PM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090475172/unesco-ukraine-cultural-sites-damage">UNESCO says 53 cultural sites in Ukraine have been damaged since the Russian invasion</a> NPR: The damaged sites include churches, historic buildings, museums and monuments. A UNESCO spokesperson said they fear more sites will be added to the list, as the group works to verify the destruction. 
  <p class="updated_time"> 05:05 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-russia-kyiv.html">Russia Retreats From Kyviv, Seeking to Regroup from Battering</a> NYT: A short drive from Kyiv in any direction turned up scenes of incinerated Russian vehicles, charred engine parts and chunks of armor. Attention is now shifting to the east, where Moscow says it is redirecting its forces. 
+ <p class="updated_time"> 05:00 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/anger-rises-in-sri-lanka-as-economic-crisis-worsens-11648897200">Anger Rises in Sri Lanka as Economic Crisis Worsens</a> WSJ: Anger Rises in Sri Lanka as Economic Crisis Worsens 
  <p class="updated_time"> 04:55 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/uk-60970636?at_medium=RSS&at_campaign=KARANGA">Search under way in English Channel for missing small plane</a> BBC: A P-28 plane goes missing on a journey from Wellesbourne, Warwickshire, to Le Touquet, France. 
- <p class="updated_time"> 04:49 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/on-natos-front-line-russias-threat-draws-new-allied-forces-11648904581">On NATO’s Front Line, Russia’s Threat Draws New Allied Forces</a> WSJ: On NATO’s Front Line, Russia’s Threat Draws New Allied Forces 
+ <p class="updated_time"> 04:00 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/u-s-philippines-hold-one-of-their-largest-ever-military-exercises-11648906324">U.S., Philippines Hold One of Their Largest-Ever Military Exercises</a> WSJ: U.S., Philippines Hold One of Their Largest-Ever Military Exercises 
  <p class="updated_time"> 03:50 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/lithuania-russia-gas.html">Lithuania Says It Has Stopped Importing Gas From Russia </a> NYT: Although tiny, Lithuania is the largest economy in the Baltic States and a eurozone member, giving the decision significance to European nations. “If we can do it, the rest of Europe can do it too,” the president said. 
- <p class="updated_time"> 03:49 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
  <p class="updated_time"> 03:15 PM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090471297/russia-ukraine-war-what-happened-today-april-2">Russia-Ukraine war: What happened today (April 2)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:15 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/pope-francis-russia-putin-ukraine.html">Pope Francis Alludes to Putin’s Role in War on Ukraine</a> NYT: Francis’ remarks during a trip to Malta were the closest he has come to pinning the war in Ukraine on President Vladimir V. Putin of Russia. 
- <p class="updated_time"> 02:49 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/anger-rises-in-sri-lanka-as-economic-crisis-worsens-11648897200">Anger Rises in Sri Lanka as Economic Crisis Worsens</a> WSJ: Anger Rises in Sri Lanka as Economic Crisis Worsens 
  <p class="updated_time"> 02:36 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60967458?at_medium=RSS&at_campaign=KARANGA">Hargeisa fire: Inferno devastates market in Somaliland's capital</a> BBC: Hundreds of businesses are destroyed in the main market of Hargeisa in an overnight blaze. 
  <p class="updated_time"> 02:36 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/asia/imran-khan-pakistan-no-confidence.html">Imran Khan Says He Won’t Accept Result of  No-Confidence Vote</a> NYT: The prime minister of Pakistan, whose coalition has lost support in the National Assembly, claimed the coming vote was a conspiracy between opposition lawmakers and the United States. 
  <p class="updated_time"> 02:08 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-russian-defeat-vasylkiv.html">When the Russians Picked the Wrong Town in Ukraine to Invade</a> NYT: The outgunned people of Vasylkiv, a provincial Ukrainian town, successfully fought off Russian troops in the early days of the war, helping to keep the capital safe and entering Ukraine’s military lore. 
- <p class="updated_time"> 01:49 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-philippines-hold-one-of-their-largest-ever-military-exercises-11648906324">U.S., Philippines Hold One of Their Largest-Ever Military Exercises</a> WSJ: U.S., Philippines Hold One of Their Largest-Ever Military Exercises 
- <p class="updated_time"> 01:30 PM CT, Apr. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60967463?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Street in Bucha found strewn with dead bodies</a> BBC: A reporter entering Bucha, near Kyiv, counts at least 20 bodies of men, one with his hands tied. 
  <p class="updated_time"> 01:08 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/middleeast/yemen-cease-fire.html">Yemen’s Warring Parties Begin First Cease-Fire in 6 Years</a> NYT: The two-month truce, brokered by the United Nations, offers hope for a reduction of violence in a war that has rattled the Arabian Peninsula and caused a humanitarian crisis. 
  <p class="updated_time"> 01:08 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/putin-ukraine-failure.html">For Putin, the Invasion Is Another Failure in Ukraine </a> NYT: Beginning in 2004, the Russian leader’s repeated efforts to subjugate his neighbor have been defeated, frustrating his imperial ambitions. 
  <p class="updated_time"> 12:53 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/01/arts/budi-tek-dead.html">Budi Tek, 65, Dies; His Fortune Built a Vast Trove of Asian Art</a> NYT: He was one of the world’s top collectors, and his immense Yuz Museum in Shanghai helped establish the region’s bustling art scene. 
- <p class="updated_time"> 12:18 PM CT, Apr. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60962188?at_medium=RSS&at_campaign=KARANGA">Yemen warring parties agree two-month truce - UN</a> BBC: It is the first nationwide truce since 2016, in a war said to have killed nearly 400,000 people. 
  <p class="updated_time"> 11:13 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/russia-space-station.html">Is Russia Quitting the International Space Station? Not Quite.</a> NYT: NASA has sidestepped suggestions that Russia might pull out of the space station partnership. 
  <p class="updated_time"> 09:07 AM CT, Apr. 02 </p> 
@@ -87,16 +97,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/02/1090448733/nicaraguan-president-daniel-ortega-is-facing-backlash-inside-and-outside-the-cou">Nicaraguan President Daniel Ortega is facing backlash inside and outside the country</a> NPR: A Nicaraguan ambassador openly criticized his boss, President Daniel Ortega, saying the Central American country has become a dictatorship. 
  <p class="updated_time"> 07:00 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090448712/russian-forces-appear-to-be-withdrawing-from-kyiv-moving-to-cities-in-south-and-">Russian forces appear to be withdrawing from Kyiv, moving to cities in south and east</a> NPR: Russian forces appear to be withdrawing in the area around Ukraine's capital, Kyiv, as they turn their attention and firepower further to the south and east. 
- <p class="updated_time"> 06:46 AM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-photojournalist-maks-levin-dead.html">Ukrainian Photojournalist Who Went Missing Near Kyiv Is Found Dead</a> NYT: Maks Levin, 40, was a prominent freelancer who had spent years covering the conflict in Ukraine. 
  <p class="updated_time"> 06:33 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/middleeast/israel-palestinians-west-bank.html">Israeli Troops Kill 3 Palestinian Militants in West Bank</a> NYT: The Israeli authorities said the men were killed in a shootout. The security forces have ramped up their operations after a wave of violence. 
- <p class="updated_time"> 06:30 AM CT, Apr. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-60965984?at_medium=RSS&at_campaign=KARANGA">Three Palestinian militants killed by Israeli forces in West Bank clash</a> BBC: Israel says the militants were killed by troops trying to stop them from carrying out an attack. 
- <p class="updated_time"> 06:11 AM CT, Apr. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60963054?at_medium=RSS&at_campaign=KARANGA">Will Smith resigns from Oscars Academy over slap</a> BBC: The actor, who slapped comic Chris Rock, called his own actions "shocking, painful, and inexcusable". 
- <p class="updated_time"> 06:07 AM CT, Apr. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes curfew amid food, fuel and power shortage protests</a> BBC: A state of emergency is in force as protests over food, fuel and power shortages sweep the nation. 
  <p class="updated_time"> 05:00 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/canada/catholics-reparations-indigenous-canada-schools.html">How Catholics Avoided Paying Millions in Reparations in Canada</a> NYT: During its final weeks in office, the previous Conservative government reached a deal allowing the church to walk away from most of its obligations. 
  <p class="updated_time"> 04:47 AM CT, Apr. 02 </p> 
@@ -111,12 +113,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/us/charles-g-boyd-dead.html">Charles G. Boyd, Air Force General and Former P.O.W., Dies at 83</a> NYT: He began his 36-year career in the military as a fighter pilot and was the only prisoner of war in the Vietnam conflict to become a four-star general. 
  <p class="updated_time"> 10:08 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/middleeast/israel-terrorism-bennett-palestinians.html">Spike in Violence Poses Test for Israel’s Fragile Government</a> NYT: A rash of terrorist attacks has spawned criticism of the government from the left and right, and for opposite reasons. But the coalition’s diversity has constrained its options. 
- <p class="updated_time"> 08:36 PM CT, Apr. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60910123?at_medium=RSS&at_campaign=KARANGA">Surya Kasibhatla: Actor with cerebral palsy shines in Bollywood thriller Jalsa</a> BBC: The 14-year-old of Indian origin has received rave reviews for his Bollywood debut. 
  <p class="updated_time"> 08:34 PM CT, Apr. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60915170?at_medium=RSS&at_campaign=KARANGA">Liberia taxi driver: How returning $50,000 changed Emmanuel Tuloe's life</a> BBC: Liberian Emmanuel Tuloe decided not to keep the bundle of cash he found at the side of the road. 
- <p class="updated_time"> 08:03 PM CT, Apr. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60952882?at_medium=RSS&at_campaign=KARANGA">Russia's war ignites Orban's tightest election challenge in Hungary</a> BBC: For the first time since 2010, Hungary's prime minister faces a real fight for election victory. 
  <p class="updated_time"> 07:53 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/us-tanks-ukraine.html">U.S. Will Help Transfer Soviet-Made Tanks to Ukraine</a> NYT: The transfer, a response to a request from Ukraine’s president, will mark the first time the Biden administration has helped send tanks in the five-week-old war. 
  <p class="updated_time"> 07:45 PM CT, Apr. 01 </p> 
@@ -189,20 +187,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/03/31/world/europe/ukraine-russia-war.html">More Mixed Signals From Russia as Ukraine War Enters Sixth Week</a> NYT: Moscow appeared to adjust its position on humanitarian access to Mariupol, but there was little evidence to support Russian claims of a military pullback near Kyiv. 
  <p class="updated_time"> 09:36 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/climate/epa-perchlorate-drinking-water.html">E.P.A. Decides Against Limiting Perchlorate in Drinking Water</a> NYT: Drinking water for as many as 16 million Americans may be contaminated with perchlorate, a chemical that can harm the development of fetuses and children. 
- <p class="updated_time"> 07:53 PM CT, Mar. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60458629?at_medium=RSS&at_campaign=KARANGA">Haryana: India's ambitious child brides who dare to dream</a> BBC: The girls were too young to be married legally and still dream of an independent future. 
- <p class="updated_time"> 07:51 PM CT, Mar. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60939581?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 25-31 March 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
- <p class="updated_time"> 07:30 PM CT, Mar. 31 </p> 
- <a href="https://www.bbc.co.uk/news/business-60554228?at_medium=RSS&at_campaign=KARANGA">Chip shortage: Has Europe's plan arrived too late?</a> BBC: The European Union is investing billions of euros in developing a world-beating chip industry. 
- <p class="updated_time"> 07:21 PM CT, Mar. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60473524?at_medium=RSS&at_campaign=KARANGA">China: Peeking into the private lives of livestreamers</a> BBC: A photo series profiles people who have shot to fame in one of China's fastest growing industries. 
- <p class="updated_time"> 07:06 PM CT, Mar. 31 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60836892?at_medium=RSS&at_campaign=KARANGA">UK farmers call for weedkiller ban over Parkinson’s fears</a> BBC: Some farmers say studies suggest Paraquat could be a factor in the onset of Parkinson's Disease. 
  <p class="updated_time"> 06:35 PM CT, Mar. 31 </p> 
  <a href="https://www.nytimes.com/2022/03/31/world/middleeast/turkey-khashoggi-trial-saudi-arabia.html">Prosecutor Asks Turkey to Turn Khashoggi Murder Case Over to Saudis</a> NYT: All 26 suspects accused in the killing of Jamal Khashoggi, the dissident Saudi journalist, in Istanbul in 2018 are Saudi nationals. 
- <p class="updated_time"> 11:14 AM CT, Mar. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-60945122?at_medium=RSS&at_campaign=KARANGA">Could Ukraine 'win' the war? And other questions</a> BBC: BBC reporters Jenny Hill and Orla Guerin - on the ground - answer your questions about the war in Ukraine. 
+ <p class="updated_time"> 12:36 PM CT, Mar. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60947272?at_medium=RSS&at_campaign=KARANGA">Russian MP says Putin's plan for Ukraine hasn't been shared with their parliament</a> BBC: Maria Butina says Putin's plan wasn't shared with MPs, but the campaign is going "according to plan". 
+ <p class="updated_time"> 12:09 PM CT, Mar. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60947271?at_medium=RSS&at_campaign=KARANGA">How do you do a face-to-face interview with Zelensky?</a> BBC: Zanny Minton Beddoes, editor-in-chief of The Economist, on how she interviewed Ukraine's president. 
 
 
 </details>
@@ -210,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:04 PM CT, Apr. 02 </p> 
+ <a href="https://www.politico.com/news/2022/04/02/palin-return-to-politics-alaska-00022555">Palin’s unexpected bid jolts Alaska</a> Politico: The former vice presidential nominee returns to a party that looks nothing like the one she belonged to when she first burst onto the national stage. 
  <p class="updated_time"> 04:12 PM CT, Apr. 02 </p> 
  <a href="https://www.politico.com/news/2022/04/02/ukraine-russia-war-retake-00022553">Ukrainian forces retake areas near Kyiv amid fear of traps</a> Politico: Ukrainian President Volodymyr Zelenskyy warned  that departing Russian troops were creating a “catastrophic” situation for civilians. 
  <p class="updated_time"> 02:19 PM CT, Apr. 02 </p> 
@@ -336,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/03/31/ruble-recovery-russia-biden-sanctions-00021850">Biden turned the ruble into rubble. Then it quickly came back.</a> Politico: Some current and former Treasury officials, foreign exchange traders and sanctions experts say the ruble's rebound doesn’t necessarily mean the West’s economic weapons are losing their punch. 
  <p class="updated_time"> 03:30 AM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/biden-congress-new-iran-nuke-deal-00021853">'The president will get his way': Congress likely can't stop new Iran nuke deal</a> Politico: Election-year politics will have an impact, but likely not enough to block a new diplomatic accord with Tehran. 
- <p class="updated_time"> 07:16 PM CT, Mar. 30 </p> 
- <a href="https://www.politico.com/news/2022/03/30/russia-bombards-ukraine-zelenskyy-00021906">Russia bombards areas where it pledged to scale back</a> Politico: The shelling tempered optimism about negotiations meant to end the war. 
 
 
 </details>
