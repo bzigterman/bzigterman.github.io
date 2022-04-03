@@ -9,16 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:46 AM CT, Apr. 03 </p> 
+ <p class="updated_time"> 10:13 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/04/03/world/ukraine-russia-war">Ukraine Live Updates: Global Outrage Follows Allegations That Russia Executed Civilians</a> NYT: As Russian forces retreated from around Kyiv, the devastating toll of the war became clearer. Western leaders redoubled calls for war crimes investigations, declaring the images of dead civilians “abhorrent.” 
- <p class="updated_time"> 09:46 AM CT, Apr. 03 </p> 
+ <p class="updated_time"> 10:08 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/04/03/world/imran-khan-confidence-vote-pakistan">Pakistan Live Updates: Prime Minister Dissolves Parliament, Setting Up a Battle Over the Country’s Leadership</a> NYT: Imran Khan is trying to block an effort to remove him from office in a no-confidence vote. Opposition leaders have asked the Supreme Court to intervene, and a hearing was scheduled for Monday. 
+ <p class="updated_time"> 09:56 AM CT, Apr. 03 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/world/daniel-craig-macbeth.html">‘Macbeth’ performances on Broadway pause after Daniel Craig tests positive for the coronavirus.</a> NYT: The show, which just began previews on Tuesday, hopes to resume on April 8. 
+ <p class="updated_time"> 09:56 AM CT, Apr. 03 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/world/new-york-hochul-second-boosters.html">Hochul Says Second Boosters Are Offered at New York Vaccination Sites</a> NYT: Government officials move to get ahead of an uptick in cases fueled by the highly transmissible Omciron subvariant. 
  <p class="updated_time"> 09:44 AM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60974119?at_medium=RSS&at_campaign=KARANGA">Sacramento shooting: At least six dead in centre of California state capital</a> BBC: Ten are also injured after the shooting early on Sunday in California's state capital. 
  <p class="updated_time"> 09:30 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/europe/ukraine-military-volunteers.html">Why Some Foreign Volunteers Are Joining the Military in Ukraine</a> NYT: Ukraine has created a foreign legion, inviting foreigners with military experience to come and join the fight against Russia. 
  <p class="updated_time"> 09:23 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/supreme-court-pakistan-imran-khan.html">Supreme Court Says It Will Weigh in Monday on Pakistan Crisis</a> NYT: Opposition lawmakers have asked the court to allow them to proceed with a no-confidence vote and block the prime minister’s attempt to dissolve Parliament. 
+ <p class="updated_time"> 09:17 AM CT, Apr. 03 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003">New Reports of War Crimes in Ukraine Emerge as Russians Retreat From Kyiv Area</a> WSJ: New Reports of War Crimes in Ukraine Emerge as Russians Retreat From Kyiv Area 
  <p class="updated_time"> 09:10 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/americas/costa-rica-election.html">Costa Ricans Choose President Amid Discontent and Apathy</a> NYT: A former president faces an upstart economist as the future of a political system that turned Costa Rica into a model of stability is cast in doubt. 
  <p class="updated_time"> 09:00 AM CT, Apr. 03 </p> 
@@ -27,11 +33,9 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/03/world/europe/ukraine-war-russia-trostyanets.html">‘This Is True Barbarity’: Life and Death Under Russian Occupation</a> NYT: The town of Trostyanets was occupied by Russian forces for a month before the Ukrainian military liberated it. Residents described weeks of hunger and horror. 
  <p class="updated_time"> 08:58 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/sri-lanka-protests-curfew.html">Sri Lanka Protesters, Driven by Economic Pain, Defy Government Curfew</a> NYT: To avoid provoking the security services, demonstrators held largely silent rallies in a show of growing frustration at the president and anger with the dwindling standard of living in the country. 
- <p class="updated_time"> 08:55 AM CT, Apr. 03 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003">New Reports of War Crimes in Ukraine Emerge as Russians Retreat From Kyiv Area</a> WSJ: New Reports of War Crimes in Ukraine Emerge as Russians Retreat From Kyiv Area 
  <p class="updated_time"> 08:34 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-russian-defeat-vasylkiv.html">When the Russians Picked the Wrong Town in Ukraine to Invade</a> NYT: The outgunned people of Vasylkiv, a provincial Ukrainian town, successfully fought off Russian troops in the early days of the war, helping to keep the capital safe and entering Ukraine’s military lore. 
- <p class="updated_time"> 07:55 AM CT, Apr. 03 </p> 
+ <p class="updated_time"> 08:17 AM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-citizenship-probe-roils-portugals-jewish-community-11648921192">Roman Abramovich Citizenship Probe Roils Portugal’s Jewish Community</a> WSJ: Roman Abramovich Citizenship Probe Roils Portugal’s Jewish Community 
  <p class="updated_time"> 07:45 AM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090498805/pakistan-plunges-into-political-crisis-after-its-parliament-was-dissolved">Pakistan plunges into political crisis after its parliament was dissolved</a> NPR: Pakistan's parliament has been dissolved, setting the stage for elections after Prime Minister Imran Khan avoided a no-confidence motion. 
@@ -39,26 +43,26 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Gotabaya Rajapaksa: Economic crisis protesters defy curfew in Sri Lanka</a> BBC: Demonstrators face off with police in Colombo while tear gas is fired at students in another town. 
  <p class="updated_time"> 07:26 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/europe/the-documentarian-mantas-kvedaravicius-is-reported-killed-in-mariupol.html">Documentary Filmmaker Mantas Kvedaravicius Is Killed in Ukraine </a> NYT: Mr. Kvedaravicius, 45, had spent years covering the conflict in Ukraine. His work included “Mariupolis,” a searing portrait of the southern port city where he died. 
+ <p class="updated_time"> 07:17 AM CT, Apr. 03 </p> 
+ <a href="https://www.wsj.com/articles/hungary-vote-tests-orbans-friendship-with-putinand-its-need-for-russian-energy-11648978925">Hungary Vote Tests Orban’s Friendship With Putin—and Its Need for Russian Energy</a> WSJ: Hungary Vote Tests Orban’s Friendship With Putin—and Its Need for Russian Energy 
  <p class="updated_time"> 07:01 AM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090498763/remembering-maksym-levin-a-ukrainian-photojournalist-killed-in-conflict">Remembering Maksym Levin, a Ukrainian photojournalist killed in conflict</a> NPR: We take a moment to remember Maksym Levin, a Ukrainian photojournalist whose body was found north of Kyiv. 
  <p class="updated_time"> 07:01 AM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090498728/some-russians-are-are-skirting-website-restrictions-through-vpns-what-are-they">Some Russians are are skirting website restrictions through VPNs. What are they?</a> NPR: Ayesha Rascoe speaks to Andy Yen, founder and CEO of Proton VPN, about the jump in Russians using virtual private networks to access websites blocked by their government. 
  <p class="updated_time"> 07:01 AM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090498721/ukraine-says-it-has-regained-control-of-its-capital-kyiv">Ukraine says it has regained control of its capital Kyiv</a> NPR: As the invasion of Ukraine enters its sixth week with signs of a Russian pivot, we get the latest from Kyiv. 
- <p class="updated_time"> 06:55 AM CT, Apr. 03 </p> 
- <a href="https://www.wsj.com/articles/hungary-vote-tests-orbans-friendship-with-putinand-its-need-for-russian-energy-11648978925">Hungary Vote Tests Orban’s Friendship With Putin—and Its Need for Russian Energy</a> WSJ: Hungary Vote Tests Orban’s Friendship With Putin—and Its Need for Russian Energy 
+ <p class="updated_time"> 06:17 AM CT, Apr. 03 </p> 
+ <a href="https://www.wsj.com/articles/xi-jinpings-common-prosperity-was-everywhere-but-china-backed-off-11648978380">Xi Jinping’s ‘Common Prosperity’ Was Everywhere, but China Backed Off</a> WSJ: Xi Jinping’s ‘Common Prosperity’ Was Everywhere, but China Backed Off 
  <p class="updated_time"> 06:11 AM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60972186?at_medium=RSS&at_campaign=KARANGA">Pakistan heads for early election amid move to remove PM Imran Khan</a> BBC: Imran Khan says the US is leading a conspiracy to remove him because of foreign policy decisions. 
  <p class="updated_time"> 06:03 AM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60974086?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mum describes bomb crashing into her family home</a> BBC: Olena Selichzianowa says she pulled her twin boys beneath her to protect them from flying shrapnel. 
- <p class="updated_time"> 05:55 AM CT, Apr. 03 </p> 
- <a href="https://www.wsj.com/articles/xi-jinpings-common-prosperity-was-everywhere-but-china-backed-off-11648978380">Xi Jinping’s ‘Common Prosperity’ Was Everywhere, but China Backed Off</a> WSJ: Xi Jinping’s ‘Common Prosperity’ Was Everywhere, but China Backed Off 
  <p class="updated_time"> 05:22 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/taliban-outlaw-opium-poppy-afghanistan.html">Taliban Outlaw Opium Poppy Cultivation in Afghanistan</a> NYT: The move will have far-reaching consequences for the many farmers who turned to the illicit crop as a brutal drought and economic crisis have gripped the country. 
+ <p class="updated_time"> 05:17 AM CT, Apr. 03 </p> 
+ <a href="https://www.wsj.com/articles/in-shanghai-strict-covid-rules-separate-children-from-parents-11648961849">In Shanghai, Strict Covid Rules Separate Children From Parents</a> WSJ: In Shanghai, Strict Covid Rules Separate Children From Parents 
  <p class="updated_time"> 05:07 AM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090496851/ukraine-russian-strikes-on-odesa-kyiv-mayor-says-russia-committing-genocide">Russia hits an oil processing plant near the port city of Odesa</a> NPR: Meanwhile, Kyiv Mayor Vitali Klitschko spoke of "cruel war crimes" by Russians retreating from the nearby city of Bucha. 
- <p class="updated_time"> 04:55 AM CT, Apr. 03 </p> 
- <a href="https://www.wsj.com/articles/in-shanghai-strict-covid-rules-separate-children-from-parents-11648961849">In Shanghai, Strict Covid Rules Separate Children From Parents</a> WSJ: In Shanghai, Strict Covid Rules Separate Children From Parents 
  <p class="updated_time"> 04:34 AM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60973124?at_medium=RSS&at_campaign=KARANGA">Zelensky spokesman describes heartbreaking scenes in Ukraine</a> BBC: A spokesman for Ukraine's President Zelensky describes the discovery of mass graves. 
  <p class="updated_time"> 04:25 AM CT, Apr. 03 </p> 
@@ -79,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/pakistans-imran-khan-blocks-no-confidence-vote-calls-for-elections-11648977626">Pakistan's Imran Khan Blocks No-Confidence Vote, Calls for Elections</a> WSJ: Prime Minister Imran Khan blocked a no-confidence vote against him in Pakistan’s Parliament and called for fresh elections, turning a battle with the opposition into a constitutional crisis. 
  <p class="updated_time"> 12:08 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/lithuania-russia-gas.html">Lithuania Says It Has Stopped Importing Gas From Russia </a> NYT: Although tiny, Lithuania is the largest economy in the Baltic States and a eurozone member, giving the decision significance to European nations. “If we can do it, the rest of Europe can do it too,” the president said. 
- <p class="updated_time"> 11:36 PM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/world/daniel-craig-macbeth.html">‘Macbeth’ performances on Broadway pause after Daniel Craig tests positive for the coronavirus.</a> NYT: The show, which just began previews on Tuesday, hopes to resume on April 8. 
  <p class="updated_time"> 11:20 PM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/03/1090488798/hungary-viktor-orban-election">The opposition in Hungary vows end to Orban's autocratic rule</a> NPR: A coalition of opposition parties made an appeal to voters before Hungary's election on Sunday, which decides whether nationalist Prime Minister Viktor Orban will win a fourth consecutive term. 
  <p class="updated_time"> 10:47 PM CT, Apr. 02 </p> 
@@ -93,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60958779?at_medium=RSS&at_campaign=KARANGA">Serbia's President Vucic performs balancing act as he seeks re-election</a> BBC: Aleksandar Vucic is hoping for election victory, but Serbia's opposition complains of media blockade. 
  <p class="updated_time"> 08:12 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60970818?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Bucha street littered with burned-out tanks and corpses</a> BBC: A BBC team witnesses utter devastation in the town of Bucha, after Russian soldiers pulled out. 
- <p class="updated_time"> 07:54 PM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/world/new-york-hochul-second-boosters.html">Hochul Says Second Boosters Are Offered at New York Vaccination Sites</a> NYT: Government officials move to get ahead of an uptick in cases fueled by the highly transmissible Omciron subvariant. 
  <p class="updated_time"> 07:40 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/business/shanghai-covid-child-separation.html">In Shanghai, Covid Is Separating Parents  From Children</a> NYT: As China’s largest city struggles to contain a coronavirus outbreak, outrage erupted online after images circulated of small children isolated from parents. 
  <p class="updated_time"> 07:25 PM CT, Apr. 02 </p> 
@@ -215,7 +215,7 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 09:35 AM CT, Apr. 03 </p> 
- <a href="https://www.politico.com/news/2022/04/03/klain-hunter-biden-ethics-00022568">Biden 'confident' his son didn't break the law, White House chief of staff says</a> Politico: "Of course the president is confident that his son didn't break the law," Ron Klain said. 
+ <a href="https://www.politico.com/news/2022/04/03/klain-hunter-biden-ethics-00022568">Biden 'confident' his son didn't break the law, White House chief of staff says</a> Politico: "The president is confident that his family did the right thing," Ron Klain said. 
  <p class="updated_time"> 09:22 AM CT, Apr. 03 </p> 
  <a href="https://www.politico.com/news/2022/04/03/blinken-stoltenberg-russia-genocide-00022567">Blinken, Stoltenberg hold back on labeling Russia's actions 'genocide'</a> Politico: "It is a brutality against civilians we haven't seen in Europe for decades," Jens Stoltenberg said. 
  <p class="updated_time"> 08:51 AM CT, Apr. 03 </p> 
