@@ -9,31 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:05 AM CT, Apr. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/04/02/world/ukraine-russia-war">What Happened on Day 38 of the War in Ukraine</a> NYT: Military analysts say Russia is pulling away from areas around Kyiv, the capital, though the Pentagon has cautioned that it could be regrouping. The Red Cross is trying again to reach the besieged city of Mariupol. 
- <p class="updated_time"> 01:31 AM CT, Apr. 03 </p> 
+ <p class="updated_time"> 02:37 AM CT, Apr. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/03/world/ukraine-russia-war">Live Updates: Russian Retreat From Around Kyiv Offers Closer Look at Devastation</a> NYT: Residents emerged from shelters as Ukrainian troops entered the capital’s suburbs. Battlefield debris littered the streets, and Ukraine alleged that Russian forces executed civilians. 
+ <p class="updated_time"> 01:43 AM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002">Ukraine Assesses Damage After Russian Pullback Near Kyiv</a> WSJ: Ukraine Assesses Damage After Russian Pullback Near Kyiv 
- <p class="updated_time"> 12:31 AM CT, Apr. 03 </p> 
+ <p class="updated_time"> 12:43 AM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/on-natos-front-line-russias-threat-draws-new-allied-forces-11648904581">On NATO’s Front Line, Russia’s Threat Draws New Allied Forces</a> WSJ: On NATO’s Front Line, Russia’s Threat Draws New Allied Forces 
  <p class="updated_time"> 12:31 AM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090490181/pakistans-pm-imran-khan-faces-tough-challenge-with-no-confidence-vote">Pakistan's PM Imran Khan faces tough challenge with no-confidence vote</a> NPR: Pakistan's embattled prime minister Imran Khan faces a no-confidence vote in Parliament on Sunday and the opposition says it has the numbers to win after in a fragile coalition abandoned him. 
  <p class="updated_time"> 12:08 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/lithuania-russia-gas.html">Lithuania Says It Has Stopped Importing Gas From Russia </a> NYT: Although tiny, Lithuania is the largest economy in the Baltic States and a eurozone member, giving the decision significance to European nations. “If we can do it, the rest of Europe can do it too,” the president said. 
+ <p class="updated_time"> 11:43 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
  <p class="updated_time"> 11:36 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/daniel-craig-macbeth.html">‘Macbeth’ performances on Broadway pause after Daniel Craig tests positive for the coronavirus.</a> NYT: The show, which just began previews on Tuesday, hopes to resume on April 8. 
- <p class="updated_time"> 11:31 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
  <p class="updated_time"> 11:20 PM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/03/1090488798/opposition-vows-end-to-orbans-autocratic-rule-in-hungary">Opposition vows end to Orban's autocratic rule in Hungary</a> NPR: A coalition of opposition parties made an appeal to voters before Hungary's election on Sunday, which decides whether nationalist Prime Minister Viktor Orban will win a fourth consecutive term. 
  <p class="updated_time"> 10:47 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/01/climate/biden-climate-change.html">As Gas Prices Soar, Biden’s Climate Ambitions Sputter</a> NYT: Rising costs at the pump, war in Ukraine, an emboldened fossil fuel industry and stalled legislation have imperiled President Biden’s climate agenda. 
- <p class="updated_time"> 10:31 PM CT, Apr. 02 </p> 
+ <p class="updated_time"> 10:43 PM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/anger-rises-in-sri-lanka-as-economic-crisis-worsens-11648897200">Anger Rises in Sri Lanka as Economic Crisis Worsens</a> WSJ: Anger Rises in Sri Lanka as Economic Crisis Worsens 
  <p class="updated_time"> 10:25 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes curfew and blocks social media amid protests</a> BBC: A state of emergency is in force as protests over food, fuel and power shortages sweep the nation. 
  <p class="updated_time"> 10:13 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-photojournalist-maks-levin-dead.html">Ukrainian Photojournalist Who Went Missing Near Kyiv Is Found Dead</a> NYT: Maks Levin, 40, was a prominent freelancer who had spent years covering the conflict in Ukraine. 
- <p class="updated_time"> 09:31 PM CT, Apr. 02 </p> 
+ <p class="updated_time"> 09:43 PM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/u-s-philippines-hold-one-of-their-largest-ever-military-exercises-11648906324">U.S., Philippines Hold One of Their Largest-Ever Military Exercises</a> WSJ: U.S., Philippines Hold One of Their Largest-Ever Military Exercises 
  <p class="updated_time"> 09:01 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60970825?at_medium=RSS&at_campaign=KARANGA">Guantanamo inmate sent to Algeria after almost 20 years</a> BBC: Sufiyan Barhoumi spent nearly two decades at the US military prison, accused of a bomb plot. 
