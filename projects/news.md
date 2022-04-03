@@ -17,29 +17,29 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Sri Lanka imposes curfew and blocks social media amid protests</a> BBC: A state of emergency is in force as protests over food, fuel and power shortages sweep the nation. 
  <p class="updated_time"> 10:13 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-photojournalist-maks-levin-dead.html">Ukrainian Photojournalist Who Went Missing Near Kyiv Is Found Dead</a> NYT: Maks Levin, 40, was a prominent freelancer who had spent years covering the conflict in Ukraine. 
+ <p class="updated_time"> 10:10 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002">Ukraine Assesses Damage After Russian Pullback Near Kyiv</a> WSJ: Ukraine Assesses Damage After Russian Pullback Near Kyiv 
  <p class="updated_time"> 09:59 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/daniel-craig-macbeth.html">‘Macbeth’ performances on Broadway pause after Daniel Craig tests positive for the coronavirus.</a> NYT: The show, which just began previews on Tuesday, hopes to resume on April 8. 
- <p class="updated_time"> 09:51 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-count-dead-assess-damage-after-russian-pullback-near-kyiv-11648895002">Ukraine Assesses Damage After Russian Pullback Near Kyiv</a> WSJ: Ukraine Assesses Damage After Russian Pullback Near Kyiv 
+ <p class="updated_time"> 09:10 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/on-natos-front-line-russias-threat-draws-new-allied-forces-11648904581">On NATO’s Front Line, Russia’s Threat Draws New Allied Forces</a> WSJ: On NATO’s Front Line, Russia’s Threat Draws New Allied Forces 
  <p class="updated_time"> 09:01 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60970825?at_medium=RSS&at_campaign=KARANGA">Guantanamo inmate sent to Algeria after almost 20 years</a> BBC: Sufiyan Barhoumi spent nearly two decades at the US military prison, accused of a bomb plot. 
- <p class="updated_time"> 08:51 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/on-natos-front-line-russias-threat-draws-new-allied-forces-11648904581">On NATO’s Front Line, Russia’s Threat Draws New Allied Forces</a> WSJ: On NATO’s Front Line, Russia’s Threat Draws New Allied Forces 
  <p class="updated_time"> 08:23 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60958779?at_medium=RSS&at_campaign=KARANGA">Serbia's President Vucic performs balancing act as he seeks re-election</a> BBC: Aleksandar Vucic is hoping for election victory, but Serbia's opposition complains of media blockade. 
  <p class="updated_time"> 08:12 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60970818?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Bucha street littered with burned-out tanks and corpses</a> BBC: A BBC team witnesses utter devastation in the town of Bucha, after Russian soldiers pulled out. 
+ <p class="updated_time"> 08:10 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
  <p class="updated_time"> 07:54 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/new-york-hochul-second-boosters.html">Hochul Says Second Boosters Are Offered at New York Vaccination Sites</a> NYT: Government officials move to get ahead of an uptick in cases fueled by the highly transmissible Omciron subvariant. 
- <p class="updated_time"> 07:51 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/long-delays-for-afghan-resettlements-serve-as-warning-for-ukrainians-11648891802">Long Delays for Afghan Resettlements Serve as Warning for Ukrainians</a> WSJ: Long Delays for Afghan Resettlements Serve as Warning for Ukrainians 
  <p class="updated_time"> 07:40 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/business/shanghai-covid-child-separation.html">In Shanghai, Covid Is Separating Parents  From Children</a> NYT: As China’s largest city struggles to contain a coronavirus outbreak, outrage erupted online after images circulated of small children isolated from parents. 
  <p class="updated_time"> 07:25 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60938598?at_medium=RSS&at_campaign=KARANGA">Costa Rica election: Will a newcomer beat an ex-president?</a> BBC: Voters have the choice between an economist with little political experience and a former president. 
  <p class="updated_time"> 07:18 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60943889?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray war: Inside Mekelle cut off from the world</a> BBC: A resident of conflict-hit Tigray gives a rare insight into life there after 17 months of war. 
- <p class="updated_time"> 06:51 PM CT, Apr. 02 </p> 
+ <p class="updated_time"> 07:10 PM CT, Apr. 02 </p> 
  <a href="https://www.wsj.com/articles/anger-rises-in-sri-lanka-as-economic-crisis-worsens-11648897200">Anger Rises in Sri Lanka as Economic Crisis Worsens</a> WSJ: Anger Rises in Sri Lanka as Economic Crisis Worsens 
  <p class="updated_time"> 06:43 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60929530?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Family’s bid to reach safety ends in tragedy</a> BBC: The father of 31-year-old Maksim Iovenko describes how his son and family ended up on a deadly stretch of highway outside Kyiv. 
@@ -51,10 +51,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/02/world/europe/hungary-orban-russia-ukraine.html">With Ukraine War, Viktor Orban Softens His Embrace of Russia</a> NYT: Facing an election on Sunday, Viktor Orban plays neutral peacemaker while campaigning against the “gender insanity” that he says is creeping in from the West. 
  <p class="updated_time"> 06:19 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60959467?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Koko’s phone is your phone as she makes her way out</a> BBC: British-Zimbabwean student Korrine Sky documented her escape from Ukraine on her mobile phone. 
+ <p class="updated_time"> 06:10 PM CT, Apr. 02 </p> 
+ <a href="https://www.wsj.com/articles/u-s-philippines-hold-one-of-their-largest-ever-military-exercises-11648906324">U.S., Philippines Hold One of Their Largest-Ever Military Exercises</a> WSJ: U.S., Philippines Hold One of Their Largest-Ever Military Exercises 
  <p class="updated_time"> 06:07 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/stories-60931660?at_medium=RSS&at_campaign=KARANGA">The handshake in space that brought hope to the world</a> BBC: What happened when US astronauts met USSR cosmonauts in space 
- <p class="updated_time"> 05:51 PM CT, Apr. 02 </p> 
- <a href="https://www.wsj.com/articles/u-s-philippines-hold-one-of-their-largest-ever-military-exercises-11648906324">U.S., Philippines Hold One of Their Largest-Ever Military Exercises</a> WSJ: U.S., Philippines Hold One of Their Largest-Ever Military Exercises 
  <p class="updated_time"> 05:14 PM CT, Apr. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60968546?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Evidence grows of civilian killings in Bucha</a> BBC: The BBC's Jeremy Bowen reports on the growing evidence of civilian killings in Bucha, near Kyiv. His report contains some distressing images. 
  <p class="updated_time"> 05:08 PM CT, Apr. 02 </p> 
@@ -88,7 +88,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:06 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/americas/linkedin-brazil-jobs-diversity.html">In Brazil, Firms Sought Black Workers. Then LinkedIn Got Involved.</a> NYT: After Brazilian activists fought LinkedIn for removing job ads that sought Black and Indigenous candidates, the company changed its global policy. 
  <p class="updated_time"> 09:05 AM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/world/asia/bangkok-thailand-krung-thep.html">(Bangkok): A Push for Parentheses Miffs Thais (Who Have Bigger Problems)</a> NYT: The government wants Thailand’s capital to be known around the world as Krung Thep Maha Nakhon (Bangkok). Thais don’t object to the name, but they’d prefer their leaders focus on fixing the economy. 
+ <a href="https://www.nytimes.com/2022/04/02/world/asia/bangkok-thailand-krung-thep.html"> </a> NYT: The government wants Thailand’s capital to be known around the world as Krung Thep Maha Nakhon (Bangkok). Thais don’t object to the name, but they’d prefer their leaders focus on fixing the economy. 
  <p class="updated_time"> 07:40 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/04/02/1090441601/ramadan-2022-pictures">See how almost a quarter of humanity ushered in Ramadan, their holiest month</a> NPR: From sun-up to sundown, physically able Muslims will fast — abstaining not just from food but also so much as a sip of water. 
  <p class="updated_time"> 07:08 AM CT, Apr. 02 </p> 
