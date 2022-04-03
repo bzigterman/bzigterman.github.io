@@ -9,29 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:28 PM CT, Apr. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/04/03/world/ukraine-russia-war">Ukraine Live Updates: Global Outrage Follows Allegations That Russia Executed Civilians</a> NYT: As Russian forces retreated from around Kyiv, the devastating toll of the war became clearer. Western leaders redoubled calls for war crimes investigations, declaring the images of dead civilians “abhorrent.” 
+ <p class="updated_time"> 05:42 PM CT, Apr. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/03/world/ukraine-russia-war">Live Updates: Reports of Atrocities in Ukraine Spur Outrage</a> NYT: The devastating toll of the war became clearer as Russian forces withdrew from around Kyiv. World leaders promised more sanctions. 
  <p class="updated_time"> 05:22 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/europe/pro-putin-leaders-in-hungary-and-serbia-election.html">Pro-Putin Leaders in Hungary and Serbia Set to Win Re-election</a> NYT: Viktor Orban declared victory, and Serbia’s Aleksandar Vucic seemed likely to emerge on top. Both pledged to stay out of Russia’s war in Ukraine. 
  <p class="updated_time"> 05:13 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/europe/ukraine-russia-war-civilian-deaths.html">In a Kyiv Suburb,‘They Shot Everyone They Saw.’</a> NYT: With Russian forces retreating, Ukrainians in Bucha are finding scores of bodies in yards and on the roads amid mounting evidence of intentional and indiscriminate killings of civilians. 
- <p class="updated_time"> 04:33 PM CT, Apr. 03 </p> 
+ <p class="updated_time"> 04:45 PM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003">New Reports of War Crimes in Ukraine Emerge as Russians Retreat</a> WSJ: New Reports of War Crimes in Ukraine Emerge as Russians Retreat 
  <p class="updated_time"> 04:13 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/afghanistan-taliban-salang-pass.html">‘Fighting Was Easier’: Taliban Take On a Treacherous, Avalanche-Prone Pass</a> NYT: After overthrowing the government, the Taliban are now trying to save what’s left of the roads they spent years blowing up, with none more critical than a two-mile-high pass through the Hindu Kush. 
  <p class="updated_time"> 04:12 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/europe/russia-war-crimes-ukraine.html">Russia Committed ‘Apparent War Crimes,’ Human Rights Watch Says</a> NYT: The organization’s report is based on a series of interviews with eye witnesses, victims and local residents of Russia-occupied territories between Feb. 27 and March 14. 
+ <p class="updated_time"> 03:45 PM CT, Apr. 03 </p> 
+ <a href="https://www.wsj.com/articles/hungary-vote-tests-orbans-friendship-with-putinand-its-need-for-russian-energy-11648978925">Hungary Vote Tests Orban’s Friendship With Putin—and Its Need for Russian Energy</a> WSJ: Hungary Vote Tests Orban’s Friendship With Putin—and Its Need for Russian Energy 
  <p class="updated_time"> 03:42 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/sri-lanka-protests-curfew.html">Sri Lanka’s Cabinet Resigns as Protesters Defy Government Curfew</a> NYT: The midnight resignations, amid an escalating economic crisis, leave only the president, Gotabaya Rajapaksa, and his brother, the prime minister, in a cabinet that has been dominated by their family. 
- <p class="updated_time"> 03:33 PM CT, Apr. 03 </p> 
- <a href="https://www.wsj.com/articles/hungary-vote-tests-orbans-friendship-with-putinand-its-need-for-russian-energy-11648978925">Hungary Vote Tests Orban’s Friendship With Putin—and Its Need for Russian Energy</a> WSJ: Hungary Vote Tests Orban’s Friendship With Putin—and Its Need for Russian Energy 
  <p class="updated_time"> 03:29 PM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090521721/russia-ukraine-war-what-happened-today-april-3">Russia-Ukraine war: What happened today (April 3)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:09 PM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60974119?at_medium=RSS&at_campaign=KARANGA">Sacramento shooting: At least six dead in centre of California state capital</a> BBC: Ten are also injured after the shooting early on Sunday in California's state capital. 
  <p class="updated_time"> 03:01 PM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-60976958?at_medium=RSS&at_campaign=KARANGA">EasyJet cancels 100 flights due to Covid absences</a> BBC: The airline cancels scores of flights as UK airports also struggle with high levels of staff sickness. 
- <p class="updated_time"> 02:33 PM CT, Apr. 03 </p> 
+ <p class="updated_time"> 02:45 PM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/cancun-tulum-riviera-maya-mexico-drugs-homicides-11648853578">Cancún’s Tourist Idyll Is Shattered by Drug Violence and Homicides</a> WSJ: Cancún’s Tourist Idyll Is Shattered by Drug Violence and Homicides 
  <p class="updated_time"> 02:22 PM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60975941?at_medium=RSS&at_campaign=KARANGA">Sri Lanka's cabinet ministers resign as crisis protesters defy curfew</a> BBC: All 26 ministers submitted letters of resignation, except PM Rajapaksa and his brother the president. 
@@ -39,15 +39,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/03/world/imran-khan-pakistan.html">Imran Khan Dissolves  Parliament, Blocking No-Confidence Vote</a> NYT: Imran Khan’s actions have set up a constitutional battle over the country’s leadership. The Supreme Court is expected to address the turmoil on Monday. 
  <p class="updated_time"> 01:46 PM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60977417?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Tear gas and water cannon used in Kandy</a> BBC: Protesters were mostly students, angry with their government's handling of the country's economy. 
+ <p class="updated_time"> 01:45 PM CT, Apr. 03 </p> 
+ <a href="https://www.wsj.com/articles/pakistans-imran-khan-blocks-no-confidence-vote-calls-for-elections-11648977626">Pakistan’s Imran Khan Blocks No-Confidence Vote, Calls for Elections</a> WSJ: Pakistan’s Imran Khan Blocks No-Confidence Vote, Calls for Elections 
  <p class="updated_time"> 01:34 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/04/03/world/imran-khan-confidence-vote-pakistan">No-Confidence Vote Stalls in Pakistan. Here’s What Happened</a> NYT: Imran Khan dissolved Parliament to block an effort to remove him from office. Opposition leaders have asked the Supreme Court to intervene, and a hearing was scheduled for Monday. 
- <p class="updated_time"> 01:33 PM CT, Apr. 03 </p> 
- <a href="https://www.wsj.com/articles/pakistans-imran-khan-blocks-no-confidence-vote-calls-for-elections-11648977626">Pakistan’s Imran Khan Blocks No-Confidence Vote, Calls for Elections</a> WSJ: Pakistan’s Imran Khan Blocks No-Confidence Vote, Calls for Elections 
  <p class="updated_time"> 01:27 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/pakistan-opposition-shehbaz-sharif.html">Opposition Leaders Accuse Pakistan’s Imran Khan of High Treason</a> NYT: Shehbaz Sharif, the leader of the opposition, said Prime Minister Imran Khan had violated the Constitution. 
  <p class="updated_time"> 01:05 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/europe/mantas-kvedaravicius-killed-mariupol.html">Documentary Filmmaker Mantas Kvedaravicius Is Killed in Ukraine </a> NYT: Mr. Kvedaravicius, 45, had spent years covering the conflict in Ukraine. His work included “Mariupolis,” a searing portrait of the southern port city where he died. 
- <p class="updated_time"> 12:33 PM CT, Apr. 03 </p> 
+ <p class="updated_time"> 12:45 PM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-taliban-ban-poppy-cultivation-11649003599">Afghanistan’s Taliban Ban Poppy Cultivation</a> WSJ: Afghanistan’s Taliban Ban Poppy Cultivation 
  <p class="updated_time"> 12:18 PM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-60976314?at_medium=RSS&at_campaign=KARANGA">Jordan's Prince Hamzah bin Hussein renounces title of prince</a> BBC: The prince - who is the king's half-brother - was last year accused of conspiring to destabilise the crown. 
@@ -336,8 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/03/28/politics/january-6-investigation-committee-what-matters/index.html">There's a lot of activity in the January 6 committee's investigation</a> CNN: News out of Ukraine, where citizens are taking up arms to defend their democracy from an invading Russian army, has distracted Americans, for a time, from the investigation into the attempt to overturn democracy here at home. 
  <p class="updated_time"> 07:48 PM CT, Mar. 31 </p> 
  <a href="https://www.npr.org/2022/03/31/1090125988/jared-kushner-provided-helpful-details-to-jan-6-committee">Jared Kushner provided 'helpful' details to the Jan. 6 committee, a panel member says</a> NPR: Donald Trump's son-in-law and a former senior White House adviser substantiated information and provided his own take on different reports on the Jan. 6 attack, Democratic Rep. Elaine Luria said. 
- <p class="updated_time"> 05:44 PM CT, Mar. 31 </p> 
- <a href="https://www.politico.com/news/2022/03/31/cloud-of-notoriety-builds-over-cawthorn-builds-as-sex-and-drugs-comment-00022162">Cloud of notoriety builds over Cawthorn after sex-and-drugs claims</a> Politico: The North Carolina conservative could be hard to defeat. His latest wild claims about his colleagues are making some Republicans want to try. 
 
 
 </details>
