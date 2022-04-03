@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:40 AM CT, Apr. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/04/03/world/imran-khan-confidence-vote-pakistan">Pakistan Live Updates: Prime Minister Dissolves Parliament, Setting Up a Battle Over the Country’s Leadership</a> NYT: Imran Khan is trying to block an effort to remove him from office in a no-confidence vote. Opposition leaders have asked the Supreme Court to intervene, and a hearing was scheduled for Monday. 
- <p class="updated_time"> 09:30 AM CT, Apr. 03 </p> 
+ <p class="updated_time"> 09:46 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/04/03/world/ukraine-russia-war">Ukraine Live Updates: Global Outrage Follows Allegations That Russia Executed Civilians</a> NYT: As Russian forces retreated from around Kyiv, the devastating toll of the war became clearer. Western leaders redoubled calls for war crimes investigations, declaring the images of dead civilians “abhorrent.” 
+ <p class="updated_time"> 09:46 AM CT, Apr. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/03/world/imran-khan-confidence-vote-pakistan">Pakistan Live Updates: Prime Minister Dissolves Parliament, Setting Up a Battle Over the Country’s Leadership</a> NYT: Imran Khan is trying to block an effort to remove him from office in a no-confidence vote. Opposition leaders have asked the Supreme Court to intervene, and a hearing was scheduled for Monday. 
+ <p class="updated_time"> 09:44 AM CT, Apr. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-60974119?at_medium=RSS&at_campaign=KARANGA">Sacramento shooting: At least six dead in centre of California state capital</a> BBC: Ten are also injured after the shooting early on Sunday in California's state capital. 
  <p class="updated_time"> 09:30 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/europe/ukraine-military-volunteers.html">Why Some Foreign Volunteers Are Joining the Military in Ukraine</a> NYT: Ukraine has created a foreign legion, inviting foreigners with military experience to come and join the fight against Russia. 
  <p class="updated_time"> 09:23 AM CT, Apr. 03 </p> 
@@ -25,16 +27,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/03/world/europe/ukraine-war-russia-trostyanets.html">‘This Is True Barbarity’: Life and Death Under Russian Occupation</a> NYT: The town of Trostyanets was occupied by Russian forces for a month before the Ukrainian military liberated it. Residents described weeks of hunger and horror. 
  <p class="updated_time"> 08:58 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/sri-lanka-protests-curfew.html">Sri Lanka Protesters, Driven by Economic Pain, Defy Government Curfew</a> NYT: To avoid provoking the security services, demonstrators held largely silent rallies in a show of growing frustration at the president and anger with the dwindling standard of living in the country. 
- <p class="updated_time"> 08:57 AM CT, Apr. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60974119?at_medium=RSS&at_campaign=KARANGA">Sacramento shooting: At least six dead in centre of California state capital</a> BBC: Ten are also injured after the shooting early on Sunday in California's state capital. 
- <p class="updated_time"> 08:43 AM CT, Apr. 03 </p> 
+ <p class="updated_time"> 08:55 AM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003">New Reports of War Crimes in Ukraine Emerge as Russians Retreat From Kyiv Area</a> WSJ: New Reports of War Crimes in Ukraine Emerge as Russians Retreat From Kyiv Area 
  <p class="updated_time"> 08:34 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-russian-defeat-vasylkiv.html">When the Russians Picked the Wrong Town in Ukraine to Invade</a> NYT: The outgunned people of Vasylkiv, a provincial Ukrainian town, successfully fought off Russian troops in the early days of the war, helping to keep the capital safe and entering Ukraine’s military lore. 
+ <p class="updated_time"> 07:55 AM CT, Apr. 03 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-citizenship-probe-roils-portugals-jewish-community-11648921192">Roman Abramovich Citizenship Probe Roils Portugal’s Jewish Community</a> WSJ: Roman Abramovich Citizenship Probe Roils Portugal’s Jewish Community 
  <p class="updated_time"> 07:45 AM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090498805/pakistan-plunges-into-political-crisis-after-its-parliament-was-dissolved">Pakistan plunges into political crisis after its parliament was dissolved</a> NPR: Pakistan's parliament has been dissolved, setting the stage for elections after Prime Minister Imran Khan avoided a no-confidence motion. 
- <p class="updated_time"> 07:43 AM CT, Apr. 03 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-citizenship-probe-roils-portugals-jewish-community-11648921192">Roman Abramovich Citizenship Probe Roils Portugal’s Jewish Community</a> WSJ: Roman Abramovich Citizenship Probe Roils Portugal’s Jewish Community 
  <p class="updated_time"> 07:35 AM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60962185?at_medium=RSS&at_campaign=KARANGA">Gotabaya Rajapaksa: Economic crisis protesters defy curfew in Sri Lanka</a> BBC: Demonstrators face off with police in Colombo while tear gas is fired at students in another town. 
  <p class="updated_time"> 07:26 AM CT, Apr. 03 </p> 
@@ -45,19 +45,19 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/03/1090498728/some-russians-are-are-skirting-website-restrictions-through-vpns-what-are-they">Some Russians are are skirting website restrictions through VPNs. What are they?</a> NPR: Ayesha Rascoe speaks to Andy Yen, founder and CEO of Proton VPN, about the jump in Russians using virtual private networks to access websites blocked by their government. 
  <p class="updated_time"> 07:01 AM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090498721/ukraine-says-it-has-regained-control-of-its-capital-kyiv">Ukraine says it has regained control of its capital Kyiv</a> NPR: As the invasion of Ukraine enters its sixth week with signs of a Russian pivot, we get the latest from Kyiv. 
- <p class="updated_time"> 06:43 AM CT, Apr. 03 </p> 
+ <p class="updated_time"> 06:55 AM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/hungary-vote-tests-orbans-friendship-with-putinand-its-need-for-russian-energy-11648978925">Hungary Vote Tests Orban’s Friendship With Putin—and Its Need for Russian Energy</a> WSJ: Hungary Vote Tests Orban’s Friendship With Putin—and Its Need for Russian Energy 
  <p class="updated_time"> 06:11 AM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60972186?at_medium=RSS&at_campaign=KARANGA">Pakistan heads for early election amid move to remove PM Imran Khan</a> BBC: Imran Khan says the US is leading a conspiracy to remove him because of foreign policy decisions. 
  <p class="updated_time"> 06:03 AM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60974086?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mum describes bomb crashing into her family home</a> BBC: Olena Selichzianowa says she pulled her twin boys beneath her to protect them from flying shrapnel. 
- <p class="updated_time"> 05:43 AM CT, Apr. 03 </p> 
+ <p class="updated_time"> 05:55 AM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/xi-jinpings-common-prosperity-was-everywhere-but-china-backed-off-11648978380">Xi Jinping’s ‘Common Prosperity’ Was Everywhere, but China Backed Off</a> WSJ: Xi Jinping’s ‘Common Prosperity’ Was Everywhere, but China Backed Off 
  <p class="updated_time"> 05:22 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/taliban-outlaw-opium-poppy-afghanistan.html">Taliban Outlaw Opium Poppy Cultivation in Afghanistan</a> NYT: The move will have far-reaching consequences for the many farmers who turned to the illicit crop as a brutal drought and economic crisis have gripped the country. 
  <p class="updated_time"> 05:07 AM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090496851/ukraine-russian-strikes-on-odesa-kyiv-mayor-says-russia-committing-genocide">Russia hits an oil processing plant near the port city of Odesa</a> NPR: Meanwhile, Kyiv Mayor Vitali Klitschko spoke of "cruel war crimes" by Russians retreating from the nearby city of Bucha. 
- <p class="updated_time"> 04:43 AM CT, Apr. 03 </p> 
+ <p class="updated_time"> 04:55 AM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/in-shanghai-strict-covid-rules-separate-children-from-parents-11648961849">In Shanghai, Strict Covid Rules Separate Children From Parents</a> WSJ: In Shanghai, Strict Covid Rules Separate Children From Parents 
  <p class="updated_time"> 04:34 AM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60973124?at_medium=RSS&at_campaign=KARANGA">Zelensky spokesman describes heartbreaking scenes in Ukraine</a> BBC: A spokesman for Ukraine's President Zelensky describes the discovery of mass graves. 
@@ -214,6 +214,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:35 AM CT, Apr. 03 </p> 
+ <a href="https://www.politico.com/news/2022/04/03/klain-hunter-biden-ethics-00022568">Biden 'confident' his son didn't break the law, White House chief of staff says</a> Politico: "Of course the president is confident that his son didn't break the law," Ron Klain said. 
  <p class="updated_time"> 09:22 AM CT, Apr. 03 </p> 
  <a href="https://www.politico.com/news/2022/04/03/blinken-stoltenberg-russia-genocide-00022567">Blinken, Stoltenberg hold back on labeling Russia's actions 'genocide'</a> Politico: "It is a brutality against civilians we haven't seen in Europe for decades," Jens Stoltenberg said. 
  <p class="updated_time"> 08:51 AM CT, Apr. 03 </p> 
@@ -336,8 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/03/31/1090125988/jared-kushner-provided-helpful-details-to-jan-6-committee">Jared Kushner provided 'helpful' details to the Jan. 6 committee, a panel member says</a> NPR: Donald Trump's son-in-law and a former senior White House adviser substantiated information and provided his own take on different reports on the Jan. 6 attack, Democratic Rep. Elaine Luria said. 
  <p class="updated_time"> 05:44 PM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/cloud-of-notoriety-builds-over-cawthorn-builds-as-sex-and-drugs-comment-00022162">Cloud of notoriety builds over Cawthorn after sex-and-drugs claims</a> Politico: The North Carolina conservative could be hard to defeat. His latest wild claims about his colleagues are making some Republicans want to try. 
- <p class="updated_time"> 05:05 PM CT, Mar. 31 </p> 
- <a href="https://www.politico.com/news/2022/03/31/new-york-judge-democrats-redistricting-plan-00022161">GOP judge throws out Democrats' redistricting plan in New York, setting up expected appellate fight</a> Politico: The decision orders legislators to draw new lines with bipartisan support by April 11. 
  <p class="updated_time"> 02:06 PM CT, Mar. 31 </p> 
  <a href="https://www.politico.com/news/2022/03/31/stabenow-vote-universal-free-school-meals-00022081">Senators revive school lunch debate with bill to extend universal free meals</a> Politico: The move comes after Republican leadership objected to extending the pandemic program in a recent spending bill, which has generated pushback in both red and blue states. 
  <p class="updated_time"> 01:35 PM CT, Mar. 31 </p> 
