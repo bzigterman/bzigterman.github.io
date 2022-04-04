@@ -9,24 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:50 AM CT, Apr. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60976958?at_medium=RSS&at_campaign=KARANGA">Easter travel chaos as flights cancelled</a> BBC: Airlines cancel scores of flights due to Covid as UK airports struggle and Eurotunnel warns of three hour delays. 
+ <p class="updated_time"> 03:47 AM CT, Apr. 04 </p> 
+ <a href="https://www.npr.org/2022/04/04/1090747573/ex-finance-minister-wins-runoff-to-be-costa-ricas-president">Ex-finance minister wins runoff to be Costa Rica's president</a> NPR: Rodrigo Chaves wins an election that political analysts said was marked by a lack of voter enthusiasm due to the multitude of personal attacks that characterized the campaign. 
  <p class="updated_time"> 03:45 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/04/04/world/imran-khan-pakistan-news">Pakistan Live Updates: Supreme Court Will Rule on Vote Against Prime Minister</a> NYT: Pakistan’s top court will meet on Monday to decide whether lawmakers can hold a no-confidence vote over Prime Minister Imran Khan. On Sunday, his allies blocked the move, and he dissolved Parliament. 
  <p class="updated_time"> 03:43 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/sri-lanka-protests-curfew.html">Sri Lanka’s Cabinet Resigns as Protesters Defy Government Curfew</a> NYT: The midnight resignations, amid an escalating economic crisis, leave only the president, Gotabaya Rajapaksa, and his brother, the prime minister, in a cabinet that has been dominated by their family. 
  <p class="updated_time"> 03:39 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/hong-kong-carrie-lam-covid.html">Carrie Lam, Hong Kong’s Leader,  Won’t Seek Second Term</a> NYT: The territory’s chief executive has been criticized by residents and pro-Beijing lawmakers for mixed messaging and mishandling the city’s fifth coronavirus outbreak. 
- <p class="updated_time"> 03:16 AM CT, Apr. 04 </p> 
- <a href="https://www.bbc.co.uk/news/business-60976958?at_medium=RSS&at_campaign=KARANGA">Easter travel chaos as flights cancelled</a> BBC: Airlines cancel scores of flights due to Covid as UK airports struggle and Eurotunnel warns of three hour delays. 
  <p class="updated_time"> 03:15 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/02/climate/oil-tankers-russia.html">On Its Way to the U.S., Russian Oil Tanker Makes Giant U-Turn </a> NYT: The ship, originally sailing to Philadelphia, apparently lost its buyer in the middle of the Atlantic. A number of tankers carrying Russian oil face similar problems. 
  <p class="updated_time"> 03:11 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/04/03/world/ukraine-russia-war">What Happened on Day 39 of the War in Ukraine</a> NYT: The devastating toll of the war became clearer as Russian forces withdrew from around Kyiv. World leaders promised more sanctions. 
  <p class="updated_time"> 03:10 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60978582?at_medium=RSS&at_campaign=KARANGA">Pakistan: Court to decide embattled PM Imran Khan's fate</a> BBC: It will rule on a controversial blocked vote of no-confidence, following a day of political turmoil. 
+ <p class="updated_time"> 02:59 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003">New Reports of War Crimes in Ukraine Emerge as Russians Retreat</a> WSJ: New Reports of War Crimes in Ukraine Emerge as Russians Retreat 
  <p class="updated_time"> 02:56 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60980006?at_medium=RSS&at_campaign=KARANGA">Costa Rica elects political newcomer Chaves as president</a> BBC: Economist Rodrigo Chaves says he will shake up Costa Rica's politics and break with its old guard. 
- <p class="updated_time"> 02:50 AM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003">New Reports of War Crimes in Ukraine Emerge as Russians Retreat</a> WSJ: New Reports of War Crimes in Ukraine Emerge as Russians Retreat 
  <p class="updated_time"> 02:42 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60977917?at_medium=RSS&at_campaign=KARANGA">Hungary election: PM Viktor Orban criticises Ukraine's Zelensky as he wins vote</a> BBC: Near-complete results show Viktor Orban has won a fourth term in Hungary's election by a landslide. 
  <p class="updated_time"> 02:10 AM CT, Apr. 04 </p> 
@@ -35,26 +37,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/04/world/europe/french-election-le-pen-macron.html">French Election Opens Up as Marine Le Pen Surges</a> NYT: President Emmanuel Macron’s belated entry into the campaign and his focus on Ukraine have left him vulnerable to a strong challenge from the right. 
  <p class="updated_time"> 02:00 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/business/rally-jameel-women.html">Women in Saudi Arabia Add a First: An Auto Rally</a> NYT: The Rally Jameel in Saudi Arabia celebrates a new first for women. 
+ <p class="updated_time"> 01:59 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/hungary-vote-tests-orbans-friendship-with-putinand-its-need-for-russian-energy-11648978925">Hungary’s Orban Wins Another Term in Office</a> WSJ: Hungary’s Orban Wins Another Term in Office 
  <p class="updated_time"> 01:53 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60979177?at_medium=RSS&at_campaign=KARANGA">Why Sri Lanka cabinet resignations won't appease angry protesters</a> BBC: Many Sri Lankans blame their controversial president Gotabaya Rajapaksa for the dire economic crisis. 
- <p class="updated_time"> 01:50 AM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/hungary-vote-tests-orbans-friendship-with-putinand-its-need-for-russian-energy-11648978925">Hungary’s Orban Wins Another Term in Office</a> WSJ: Hungary’s Orban Wins Another Term in Office 
+ <p class="updated_time"> 12:59 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/cancun-tulum-riviera-maya-mexico-drugs-homicides-11648853578">Cancún’s Tourist Idyll Is Shattered by Drug Violence and Homicides</a> WSJ: Cancún’s Tourist Idyll Is Shattered by Drug Violence and Homicides 
  <p class="updated_time"> 12:58 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60978792?at_medium=RSS&at_campaign=KARANGA">Hong Kong leader Carrie Lam won't seek second term</a> BBC: Carrie Lam's five years in office saw massive pro-democracy protests and increased Chinese control. 
- <p class="updated_time"> 12:50 AM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/cancun-tulum-riviera-maya-mexico-drugs-homicides-11648853578">Cancún’s Tourist Idyll Is Shattered by Drug Violence and Homicides</a> WSJ: Cancún’s Tourist Idyll Is Shattered by Drug Violence and Homicides 
  <p class="updated_time"> 12:40 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60979304?at_medium=RSS&at_campaign=KARANGA">Watch: Ukraine's President Zelensky's powerful Grammys speech</a> BBC: The pre-taped message played ahead of a performance by Ukrainian musicians who had fled the country. 
  <p class="updated_time"> 12:08 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60978909?at_medium=RSS&at_campaign=KARANGA">Victory for Hungary's Orban means a headache for the EU</a> BBC: EU hearts will sink as "illiberal democrat" Viktor Orban wins another term, Katya Adler writes. 
- <p class="updated_time"> 11:50 PM CT, Apr. 03 </p> 
+ <p class="updated_time"> 11:59 PM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/pakistans-imran-khan-blocks-no-confidence-vote-calls-for-elections-11648977626">Pakistan’s Imran Khan Blocks No-Confidence Vote, Calls for Elections</a> WSJ: Pakistan’s Imran Khan Blocks No-Confidence Vote, Calls for Elections 
  <p class="updated_time"> 11:10 PM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/04/1090734289/hong-kong-leader-carrie-lam-says-she-wont-seek-second-term">Hong Kong leader Carrie Lam says she won't seek second term</a> NPR: Lam's five years as the territory's chief executive was marked by widespread protests against her government. 
+ <p class="updated_time"> 10:59 PM CT, Apr. 03 </p> 
+ <a href="https://www.wsj.com/articles/afghanistans-taliban-ban-poppy-cultivation-11649003599">Afghanistan’s Taliban Ban Poppy Cultivation</a> WSJ: Afghanistan’s Taliban Ban Poppy Cultivation 
  <p class="updated_time"> 10:53 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/imran-khan-pakistan.html">Imran Khan Dissolves  Parliament, Blocking No-Confidence Vote</a> NYT: Imran Khan’s actions have set up a constitutional battle over the country’s leadership. The Supreme Court is expected to address the turmoil on Monday. 
- <p class="updated_time"> 10:50 PM CT, Apr. 03 </p> 
- <a href="https://www.wsj.com/articles/afghanistans-taliban-ban-poppy-cultivation-11649003599">Afghanistan’s Taliban Ban Poppy Cultivation</a> WSJ: Afghanistan’s Taliban Ban Poppy Cultivation 
  <p class="updated_time"> 10:48 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/americas/costa-rica-election.html">Rodrigo Chaves on Track to Become Costa Rica’s New Leader</a> NYT: Preliminary results showed Rodrigo Chaves with a big lead over José María Figueres, who conceded. Mr. Chaves has pledged to overhaul the political system that turned Costa Rica into a model of stability. 
  <p class="updated_time"> 10:03 PM CT, Apr. 03 </p> 
@@ -174,11 +176,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:06 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/americas/linkedin-brazil-jobs-diversity.html">In Brazil, Firms Sought Black Workers. Then LinkedIn Got Involved.</a> NYT: After Brazilian activists fought LinkedIn for removing job ads that sought Black and Indigenous candidates, the company changed its global policy. 
  <p class="updated_time"> 09:05 AM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/world/asia/bangkok-thailand-krung-thep.html"> </a> NYT: The government wants Thailand’s capital to be known around the world as Krung Thep Maha Nakhon (Bangkok). Thais don’t object to the name, but they’d prefer their leaders focus on fixing the economy. 
+ <a href="https://www.nytimes.com/2022/04/02/world/asia/bangkok-thailand-krung-thep.html">(Bangkok): A Push for Parentheses Miffs Thais (Who Have Bigger Problems)</a> NYT: The government wants Thailand’s capital to be known around the world as Krung Thep Maha Nakhon (Bangkok). Thais don’t object to the name, but they’d prefer their leaders focus on fixing the economy. 
  <p class="updated_time"> 07:40 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/04/02/1090441601/ramadan-2022-pictures">See how almost a quarter of humanity ushered in Ramadan, their holiest month</a> NPR: From sun-up to sundown, physically able Muslims will fast — abstaining not just from food but also so much as a sip of water. 
- <p class="updated_time"> 07:04 AM CT, Apr. 02 </p> 
- <a href="https://www.npr.org/2022/04/02/1090448785/utility-prices-in-italy-have-almost-quadrupled-due-to-reliance-on-russian-natura">Russia's invasion of Ukraine made an Italian energy crisis much worse</a> NPR: Russia's invasion of Ukraine made an Italian energy crisis much worse. Italy, which gets 40% of its natural gas from Russia, is now trying to wean itself off of Russian fuel within three years. 
  <p class="updated_time"> 06:33 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/middleeast/israel-palestinians-west-bank.html">Israeli Troops Kill 3 Palestinian Militants in West Bank</a> NYT: The Israeli authorities said the men were killed in a shootout. The security forces have ramped up their operations after a wave of violence. 
  <p class="updated_time"> 05:00 AM CT, Apr. 02 </p> 
