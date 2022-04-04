@@ -9,36 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:09 AM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/04/04/world/imran-khan-pakistan-news">Pakistan Live Updates: Supreme Court Adjourns Without Ruling on Political Crisis</a> NYT: The country’s top court met on Monday to decide whether lawmakers could hold a no-confidence vote over Prime Minister Imran Khan. On Sunday, his allies had blocked that move, and he dissolved Parliament. 
- <p class="updated_time"> 07:09 AM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/2022/04/03/world/asia/supreme-court-pakistan-imran-khan.html">Supreme Court Says It Will Weigh in Monday on Pakistan Turmoil</a> NYT: Opposition leaders have asked the court to allow a no-confidence vote to go forward, which would reignite efforts to oust the prime minister. 
- <p class="updated_time"> 07:05 AM CT, Apr. 04 </p> 
+ <p class="updated_time"> 08:19 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/04/04/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Urges Tougher Sanctions to Punish Russia for Alleged Atrocities</a> NYT: Ukraine’s president condemned the “indecision” of Western leaders, as E.U. nations remained divided over a possible cutoff of Russian gas. While Moscow denied killing civilians around Kyiv, its forces continued to strike southern Ukraine. 
+ <p class="updated_time"> 07:56 AM CT, Apr. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/04/world/imran-khan-pakistan-news">Pakistan Live Updates: Supreme Court Adjourns Without Ruling on Political Crisis</a> NYT: The country’s top court met on Monday to decide whether lawmakers could hold a no-confidence vote over Prime Minister Imran Khan. On Sunday, his allies had blocked that move, and he dissolved Parliament. 
+ <p class="updated_time"> 07:56 AM CT, Apr. 04 </p> 
+ <a href="https://www.nytimes.com/2022/04/03/world/asia/pakistan-opposition-shehbaz-sharif.html">Opposition Leaders Accuse Pakistan’s Imran Khan of High Treason</a> NYT: Shehbaz Sharif, the leader of the opposition, said Prime Minister Imran Khan had violated the Constitution. 
+ <p class="updated_time"> 07:51 AM CT, Apr. 04 </p> 
+ <a href="https://www.nytimes.com/2022/04/03/world/asia/why-is-the-prime-minister-in-trouble.html">Why is the prime minister in trouble?</a> NYT: Pakistan has been gripped by a political crisis after Prime Minister Imran Khan appeared to lose support from the military and a coalition of opposition parties moved to vote him out of office. 
+ <p class="updated_time"> 07:32 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251">Zelensky Calls for Justice Over Alleged Russian War Crimes</a> WSJ: Zelensky Calls for Justice Over Alleged Russian War Crimes 
+ <p class="updated_time"> 07:27 AM CT, Apr. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60976958?at_medium=RSS&at_campaign=KARANGA">Easter travel disruption as flights cancelled</a> BBC: Airlines cancel scores of flights due to Covid as UK airports struggle and Eurotunnel warns of three hour delays. 
+ <p class="updated_time"> 07:27 AM CT, Apr. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60975941?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Reshuffle begins after cabinet quits over protests</a> BBC: The president names a new finance minister after the whole cabinet resigns over the economic crisis. 
+ <p class="updated_time"> 07:10 AM CT, Apr. 04 </p> 
+ <a href="https://www.nytimes.com/2022/04/03/world/asia/supreme-court-pakistan-imran-khan.html">The Supreme Court hears a crucial case on Pakistan’s political crisis.</a> NYT: Opposition leaders have asked the court to allow a no-confidence vote to go forward, which would reignite efforts to oust the prime minister. 
  <p class="updated_time"> 07:01 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/zelensky-nato-merkel-sarkozy.html">Zelensky Blasts Merkel and Sarkozy for Denying Ukraine NATO Membership</a> NYT: In a video address, he said that NATO’s decision in 2008 not to give Ukraine a path to membership helped lead to atrocities by Russian forces. 
+ <p class="updated_time"> 06:32 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/release-of-secrets-represents-new-front-in-u-s-information-war-with-russia-11649070001">Release of Secrets Represents New Front in U.S. Information War With Russia</a> WSJ: Release of Secrets Represents New Front in U.S. Information War With Russia 
  <p class="updated_time"> 06:15 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60978582?at_medium=RSS&at_campaign=KARANGA">Pakistan: Court to decide embattled PM Imran Khan's fate</a> BBC: It will rule on a controversial blocked vote of no-confidence, following a day of political turmoil. 
- <p class="updated_time"> 06:13 AM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251">Zelensky Calls for Justice Over Alleged Russian War Crimes</a> WSJ: Zelensky Calls for Justice Over Alleged Russian War Crimes 
  <p class="updated_time"> 06:10 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/us/senate-covid-vaccines.html">Senators Propose Cutting Global Vaccine Funding in Covid Package</a> NYT: It is unclear whether such a move could gain approval from either chamber of Congress. 
  <p class="updated_time"> 05:59 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60979688?at_medium=RSS&at_campaign=KARANGA">Imran Khan: What we know so far as PM's fate hangs in balance</a> BBC: The fate of Pakistan's prime minister - and the country - teeters on a decision by the Supreme Court. 
+ <p class="updated_time"> 05:32 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-mostly-are-finding-shelter-in-private-homes-11649064600">Ukrainian Refugees Mostly Are Finding Shelter in Private Homes</a> WSJ: Ukrainian Refugees Mostly Are Finding Shelter in Private Homes 
  <p class="updated_time"> 05:17 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/03/arts/music/ukraine-zelensky-john-legend-grammys.html">President Volodymyr Zelensky Gives Emotional Speech at the Grammys</a> NYT: The Ukrainian president, Volodymyr Zelensky, made a plea for support before John Legend performed, sharing the stage with a poet and a singer from Ukraine. 
- <p class="updated_time"> 05:17 AM CT, Apr. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60975941?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Reshuffle begins after cabinet quits over protests</a> BBC: The president names a new finance minister after the whole cabinet resigns over the economic crisis. 
- <p class="updated_time"> 05:13 AM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/release-of-secrets-represents-new-front-in-u-s-information-war-with-russia-11649070001">Release of Secrets Represents New Front in U.S. Information War With Russia</a> WSJ: Release of Secrets Represents New Front in U.S. Information War With Russia 
  <p class="updated_time"> 05:05 AM CT, Apr. 04 </p> 
  <a href="https://www.npr.org/2022/04/04/1090753152/sri-lanka-offers-resignations-as-public-anger-grows-over-economic-crisis">Sri Lanka's cabinet resigns as public defies curfew amid a historic economic crisis </a> NPR: The political crisis comes amid growing public outrage over shortages of food, fuel and medicines. 
  <p class="updated_time"> 04:48 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60978792?at_medium=RSS&at_campaign=KARANGA">Hong Kong leader Carrie Lam won't seek second term</a> BBC: Carrie Lam's five years in office saw massive pro-democracy protests and increased Chinese control. 
- <p class="updated_time"> 04:39 AM CT, Apr. 04 </p> 
- <a href="https://www.bbc.co.uk/news/business-60976958?at_medium=RSS&at_campaign=KARANGA">Easter travel disruption as flights cancelled</a> BBC: Airlines cancel scores of flights due to Covid as UK airports struggle and Eurotunnel warns of three hour delays. 
- <p class="updated_time"> 04:13 AM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-mostly-are-finding-shelter-in-private-homes-11649064600">Ukrainian Refugees Mostly Are Finding Shelter in Private Homes</a> WSJ: Ukrainian Refugees Mostly Are Finding Shelter in Private Homes 
+ <p class="updated_time"> 04:32 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-chief-executive-carrie-lam-won-t-seek-a-second-term-11649042721">Hong Kong Leader Carrie Lam Won’t Seek a Second Term</a> WSJ: Hong Kong Leader Carrie Lam Won’t Seek a Second Term 
  <p class="updated_time"> 04:00 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/asia/china-russia-ukraine.html">Bristling Against the West, China Rallies Domestic Sympathy for Russia</a> NYT: China’s Communist Party is mounting an ideological campaign aimed at officials and students. The message: The country will not turn its back on Russia. 
  <p class="updated_time"> 04:00 AM CT, Apr. 04 </p> 
@@ -51,16 +57,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/03/world/asia/sri-lanka-protests-curfew.html">Sri Lanka’s Cabinet Resigns as Protesters Defy Government Curfew</a> NYT: The midnight resignations, amid an escalating economic crisis, leave only the president, Gotabaya Rajapaksa, and his brother, the prime minister, in a cabinet that has been dominated by their family. 
  <p class="updated_time"> 03:39 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/hong-kong-carrie-lam-covid.html">Carrie Lam, Hong Kong’s Leader, Won’t Seek Second Term</a> NYT: The territory’s chief executive has been criticized by residents and pro-Beijing lawmakers for mixed messaging and mishandling the city’s fifth coronavirus outbreak. 
+ <p class="updated_time"> 03:32 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/costa-ricas-new-president-overcomes-harassment-claims-to-win-election-11649073557">Costa Rica’s New President Overcomes Harassment Claims to Win Election</a> WSJ: Costa Rica’s New President Overcomes Harassment Claims to Win Election 
  <p class="updated_time"> 03:15 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/02/climate/oil-tankers-russia.html">On Its Way to the U.S., Russian Oil Tanker Makes Giant U-Turn </a> NYT: The ship, originally sailing to Philadelphia, apparently lost its buyer in the middle of the Atlantic. A number of tankers carrying Russian oil face similar problems. 
- <p class="updated_time"> 03:13 AM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-chief-executive-carrie-lam-won-t-seek-a-second-term-11649042721">Hong Kong Leader Carrie Lam Won’t Seek a Second Term</a> WSJ: Hong Kong Leader Carrie Lam Won’t Seek a Second Term 
  <p class="updated_time"> 02:56 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60980006?at_medium=RSS&at_campaign=KARANGA">Costa Rica elects political newcomer Chaves as president</a> BBC: Economist Rodrigo Chaves says he will shake up Costa Rica's politics and break with its old guard. 
  <p class="updated_time"> 02:42 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60977917?at_medium=RSS&at_campaign=KARANGA">Hungary election: PM Viktor Orban criticises Ukraine's Zelensky as he wins vote</a> BBC: Near-complete results show Viktor Orban has won a fourth term in Hungary's election by a landslide. 
- <p class="updated_time"> 02:13 AM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/costa-ricas-new-president-overcomes-harassment-claims-to-win-election-11649073557">Costa Rica’s New President Overcomes Harassment Claims to Win Election</a> WSJ: Costa Rica’s New President Overcomes Harassment Claims to Win Election 
  <p class="updated_time"> 02:00 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/french-election-le-pen-macron.html">French Election Opens Up as Marine Le Pen Surges</a> NYT: President Emmanuel Macron’s belated entry into the campaign and his focus on Ukraine have left him vulnerable to a strong challenge from the right. 
  <p class="updated_time"> 02:00 AM CT, Apr. 04 </p> 
@@ -84,7 +88,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:52 PM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090708256/zelenskyy-grammys-speech-ukraine">President Zelenskyy appears at Grammys in video from Kyiv bunker</a> NPR: The Ukrainian leader's appearance comes as Russian forces continue pressing ahead with their invasion in his country. Zelenskyy spoke about music and the toll of the ongoing war on Ukrainians. 
  <p class="updated_time"> 08:51 PM CT, Apr. 03 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-60493913?at_medium=RSS&at_campaign=KARANGA">How TikTok is forcing singers to search for a viral moment</a> BBC: As TikTok continues to shape the music industry, singers discuss the app's impact on their careers. 
+ <a href="https://www.bbc.co.uk/news/newsbeat-60493913?at_medium=RSS&at_campaign=KARANGA">TikTok: How singers are chasing that viral moment</a> BBC: As TikTok continues to shape the music industry, singers discuss the app's impact on their careers. 
  <p class="updated_time"> 08:37 PM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60948903?at_medium=RSS&at_campaign=KARANGA">Texas abortion: The ‘ranch’ for mothers with no place to go</a> BBC: Women have few options in Texas, since the passing of one of the strictest abortion laws in the US. 
  <p class="updated_time"> 08:14 PM CT, Apr. 03 </p> 
@@ -110,29 +114,21 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:14 PM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60843227?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The women sharing their memories of Ukraine before the war</a> BBC: Four women who shared viral videos of Ukraine before the war speak to the BBC about those memories. 
  <p class="updated_time"> 05:45 PM CT, Apr. 03 </p> 
- <a href="https://www.nytimes.com/2022/04/03/world/europe/ukraine-russia-war-civilian-deaths.html">In a Kyiv Suburb,‘They Shot Everyone They Saw’</a> NYT: With Russian forces retreating, Ukrainians in Bucha are finding scores of bodies in yards and on the roads amid mounting evidence of intentional and indiscriminate killings of civilians. 
+ <a href="https://www.nytimes.com/2022/04/03/world/europe/ukraine-russia-war-civilian-deaths.html">In the Kyiv Suburb of Bucha,‘They Shot Everyone They Saw’</a> NYT: With Russian forces retreating, Ukrainians in Bucha are finding scores of bodies in yards and on the roads amid mounting evidence of intentional and indiscriminate killings of civilians. 
  <p class="updated_time"> 04:13 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/afghanistan-taliban-salang-pass.html">Taliban Take On a Treacherous, Avalanche-Prone Pass</a> NYT: After overthrowing the government, the Taliban are now trying to save what’s left of the roads they spent years blowing up, with none more critical than a two-mile-high pass through the Hindu Kush. 
  <p class="updated_time"> 04:12 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/europe/russia-war-crimes-ukraine.html">Russia Committed ‘Apparent War Crimes,’ Human Rights Watch Says</a> NYT: The organization’s report is based on a series of interviews with eye witnesses, victims and local residents of Russia-occupied territories between Feb. 27 and March 14. 
  <p class="updated_time"> 03:29 PM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090521721/russia-ukraine-war-what-happened-today-april-3">Russia-Ukraine war: What happened today (April 3)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 01:49 PM CT, Apr. 03 </p> 
- <a href="https://www.wsj.com/articles/hungary-vote-tests-orbans-friendship-with-putinand-its-need-for-russian-energy-11648978925">Hungary's Orban Wins Another Term in Office</a> WSJ: Hungarian Prime Minister Viktor Orban won a fifth term in power in an election that became a referendum on his promise to block support for Ukraine in its war with Russia. 
  <p class="updated_time"> 01:46 PM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60977417?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Tear gas and water cannon used in Kandy</a> BBC: Protesters were mostly students, angry with their government's handling of the country's economy. 
- <p class="updated_time"> 01:27 PM CT, Apr. 03 </p> 
- <a href="https://www.nytimes.com/2022/04/03/world/asia/pakistan-opposition-shehbaz-sharif.html">Opposition Leaders Accuse Pakistan’s Imran Khan of High Treason</a> NYT: Shehbaz Sharif, the leader of the opposition, said Prime Minister Imran Khan had violated the Constitution. 
  <p class="updated_time"> 01:05 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/europe/mantas-kvedaravicius-killed-mariupol.html">Documentary Filmmaker Mantas Kvedaravicius Is Killed in Ukraine </a> NYT: Mr. Kvedaravicius, 45, had spent years covering the conflict in Ukraine. His work included “Mariupolis,” a searing portrait of the southern port city where he died. 
- <p class="updated_time"> 12:42 PM CT, Apr. 03 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003">New Reports of War Crimes in Ukraine Emerge as Russians Retreat</a> WSJ: More than 100 civilians have been buried in mass graves by local authorities in Bucha since Russian troops withdrew from the Kyiv-area suburb last week. 
  <p class="updated_time"> 11:54 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/dead-civilians-bucha-ukraine.html">Images of Dead Civilians in Bucha Draws Outrage From U.S. and Others</a> NYT: Russia’s Ministry of Defense called the images “staged,” saying in a statement that “not a single” civilian had been injured in the town. 
  <p class="updated_time"> 11:51 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/02/nyregion/new-york-hochul-second-boosters.html">Hochul Says Second Boosters Are Offered at New York Vaccination Sites</a> NYT: Government officials move to get ahead of an uptick in cases fueled by the highly transmissible Omciron subvariant. 
- <p class="updated_time"> 10:01 AM CT, Apr. 03 </p> 
- <a href="https://www.wsj.com/articles/cancun-tulum-riviera-maya-mexico-drugs-homicides-11648853578">Cancún's Tourist Idyll Is Shattered by Drug Violence and Homicides</a> WSJ: Mexico’s Riviera Maya area has seen an alarming rise in killings. The violence in the country’s top tourism spot is being fueled by demand for narcotics by the tourists themselves. 
  <p class="updated_time"> 09:56 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/daniel-craig-macbeth.html">‘Macbeth’ performances on Broadway pause after Daniel Craig tests positive for the coronavirus.</a> NYT: The show, which just began previews on Tuesday, hopes to resume on April 8. 
  <p class="updated_time"> 09:30 AM CT, Apr. 03 </p> 
@@ -214,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:01 AM CT, Apr. 04 </p> 
+ <a href="https://www.politico.com/news/2022/04/04/joe-biden-strategists-advertising-firm-00022472">Top Biden strategists launch new advertising firm</a> Politico: The strategists have handled over $1 billion in paid media for the Biden campaign and allied entities. 
  <p class="updated_time"> 06:22 AM CT, Apr. 04 </p> 
  <a href="https://www.npr.org/2022/04/04/1090746199/the-white-house-has-hired-its-first-full-time-asl-interpreters">The White House has hired its first full-time ASL interpreters</a> NPR: As a result, any time an administration new conference is held, TV viewers can see someone on the right-hand side interpreting in American Sign Language for the deaf community. 
  <p class="updated_time"> 04:01 AM CT, Apr. 04 </p> 
@@ -225,9 +223,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:35 AM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/dems-midterm-villain-donald-trump-00022381">Dems have an opening for a midterm villain. Donald Trump, you're hired!</a> Politico: It's not clear whether reminding voters of the tumult and chaos of the former president will provide sustained momentum, though. 
  <p class="updated_time"> 03:30 AM CT, Apr. 04 </p> 
- <a href="https://www.politico.com/news/2022/04/04/dems-party-line-spending-manchin-00022362">Dems plot spring sprint for party-line spending deal with Manchin</a> Politico: Senate Majority Leader Chuck Schumer says the resuscitation of the bill once called Build Back Better is a “high priority” for his caucus. But a revival won't be easy. 
- <p class="updated_time"> 03:30 AM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/jan-6-panel-trump-criminal-referral-00022470">Jan. 6 panel wonders: Is Trump criminal referral necessary?</a> Politico: With a cascade of evidence, judge rulings and an active Justice Department, lawmakers are skeptical that they need to make a criminal referral on the former president. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 04 </p> 
+ <a href="https://www.politico.com/news/2022/04/04/dems-party-line-spending-manchin-00022362">Dems plot spring sprint for party-line spending deal with Manchin</a> Politico: Senate Majority Leader Chuck Schumer says the resuscitation of the bill once called Build Back Better is a “high priority” for his caucus. But a revival won't be easy. 
  <p class="updated_time"> 03:30 AM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/states-covid-congress-funding-00022450">States are ready to live with Covid. Congress' funding fight is making that hard.</a> Politico: Health officials from Alabama to Washington state say that congressional gridlock over providing billions in new money has undermined efforts to transition to a steady, long-term approach to Covid-19. 
  <p class="updated_time"> 10:36 PM CT, Apr. 03 </p> 
@@ -242,6 +240,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/03/eric-adams-centrist-approach-crime-00022580">Adams makes the case for a centrist approach to national crime wave</a> Politico: "This is my history of fighting against heavy-handed and abusive policing. You can have the justice that we deserve with the safety we need," Adams said. 
  <p class="updated_time"> 11:50 AM CT, Apr. 03 </p> 
  <a href="https://www.politico.com/news/2022/04/03/jamie-raskin-jan6-white-house-logs-00022581">Jamie Raskin: Gap in Jan. 6 White House logs of 'intense interest' to select committee</a> Politico: The Maryland Democrat said the House committee wants to be able to tell the full story of that day. 
+ <p class="updated_time"> 11:44 AM CT, Apr. 03 </p> 
+ <a href="https://www.cnn.com/2022/04/02/politics/ketanji-brown-jackson-diversity-federal-bench-black-judges/index.html">Ketanji Brown Jackson's nomination brings renewed attention to lack of Black judges on the federal bench</a> CNN: As the nomination of Ketanji Brown Jackson to the Supreme Court has ignited a discussion about the historic lack of diversity on the nation's highest court, her ascendance has also renewed focus on the absence of Black judges on the federal judiciary's lower courts. 
  <p class="updated_time"> 10:48 AM CT, Apr. 03 </p> 
  <a href="https://www.politico.com/news/2022/04/03/hillary-clinton-democrats-accomplishments-midterms-00022579">Hillary Clinton says Dems need to 'do a better job' talking up accomplishments</a> Politico: She said the party needs to sell itself better before the midterms. 
  <p class="updated_time"> 10:08 AM CT, Apr. 03 </p> 
@@ -334,10 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/01/1090241588/jen-psaki-leaving-the-white-house-for-msnbc-this-spring">Jen Psaki leaving the White House for MSNBC this spring</a> NPR: The Biden press secretary will serve as a pundit and host a show on the network's streaming platform. She's the second administration official joining MSNBC and faced ethics questions from reporters. 
  <p class="updated_time"> 10:04 AM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/science/elephant-trophies-hunting.html">U.S. Allows Hunters to Import Some Elephant Trophies From African Countries</a> NYT: After settling a lawsuit filed during the Trump administration, the Fish and Wildlife Service granted six permits to bring elephant parts into the country. It may approve more in the coming months. 
- <p class="updated_time"> 08:18 AM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/business/economy/jobs-fed-full-employment.html">Unemployment Nears Prepandemic Level</a> NYT: Federal Reserve officials are tasked with fostering “full employment.” At least for now, some see the labor market as uncomfortably tight. 
- <p class="updated_time"> 07:34 AM CT, Apr. 01 </p> 
- <a href="https://www.npr.org/2022/04/01/1089989337/employers-continue-hiring-spree-even-as-war-in-ukraine-ratchets-up-economic-fear">Employers continue hiring spree even as war in Ukraine ratchets up economic fears</a> NPR: U.S. employers added 431,000 jobs in March, as the unemployment rate fell to 3.6% from 3.8% in February. The tight job market is putting upward pressure on both wages and prices. 
 
 
 </details>
