@@ -9,58 +9,58 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:29 AM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/04/03/world/ukraine-russia-war">What Happened on Day 39 of the War in Ukraine</a> NYT: The devastating toll of the war became clearer as Russian forces withdrew from around Kyiv. World leaders promised more sanctions. 
- <p class="updated_time"> 05:29 AM CT, Apr. 04 </p> 
+ <p class="updated_time"> 05:43 AM CT, Apr. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/04/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Urges Tougher Sanctions to Punish Russia for Alleged Atrocities</a> NYT: Ukraine’s president condemned the “indecision” of Western leaders, as E.U. nations remained divided over a possible cutoff of Russian gas. While Moscow denied killing civilians around Kyiv, its forces continued to strike southern Ukraine. 
+ <p class="updated_time"> 05:41 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/04/04/world/imran-khan-pakistan-news">Pakistan Live Updates: Supreme Court Will Rule on Vote Against Prime Minister</a> NYT: Pakistan’s top court will meet on Monday to decide whether lawmakers can hold a no-confidence vote over Prime Minister Imran Khan. On Sunday, his allies blocked the move, and he dissolved Parliament. 
  <p class="updated_time"> 05:17 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/03/arts/music/ukraine-zelensky-john-legend-grammys.html">President Volodymyr Zelensky Gives Emotional Speech at the Grammys</a> NYT: The Ukrainian president, Volodymyr Zelensky, made a plea for support before John Legend performed, sharing the stage with a poet and a singer from Ukraine. 
  <p class="updated_time"> 05:17 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60975941?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Reshuffle begins after cabinet quits over protests</a> BBC: The president names a new finance minister after the whole cabinet resigns over the economic crisis. 
  <p class="updated_time"> 05:05 AM CT, Apr. 04 </p> 
- <a href="https://www.npr.org/2022/04/04/1090753152/sri-lanka-offers-resignations-as-public-anger-grows-over-economic-crisis">Sri Lanka cabinet resigns as public defies curfew amid historic economic crisis </a> NPR: The political crisis comes amid growing public outrage over shortages of food, fuel and medicines. 
+ <a href="https://www.npr.org/2022/04/04/1090753152/sri-lanka-offers-resignations-as-public-anger-grows-over-economic-crisis">Sri Lanka's cabinet resigns as public defies curfew amid a historic economic crisis </a> NPR: The political crisis comes amid growing public outrage over shortages of food, fuel and medicines. 
+ <p class="updated_time"> 04:50 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003">New Reports of War Crimes in Ukraine Emerge as Russians Retreat</a> WSJ: New Reports of War Crimes in Ukraine Emerge as Russians Retreat 
  <p class="updated_time"> 04:48 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60978792?at_medium=RSS&at_campaign=KARANGA">Hong Kong leader Carrie Lam won't seek second term</a> BBC: Carrie Lam's five years in office saw massive pro-democracy protests and increased Chinese control. 
  <p class="updated_time"> 04:39 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-60976958?at_medium=RSS&at_campaign=KARANGA">Easter travel chaos as flights cancelled</a> BBC: Airlines cancel scores of flights due to Covid as UK airports struggle and Eurotunnel warns of three hour delays. 
- <p class="updated_time"> 04:38 AM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003">New Reports of War Crimes in Ukraine Emerge as Russians Retreat</a> WSJ: New Reports of War Crimes in Ukraine Emerge as Russians Retreat 
  <p class="updated_time"> 04:00 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/asia/china-russia-ukraine.html">Bristling Against the West, China Rallies Domestic Sympathy for Russia</a> NYT: China’s Communist Party is mounting an ideological campaign aimed at officials and students. The message: The country will not turn its back on Russia. 
  <p class="updated_time"> 04:00 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/travel/starling-murmurations.html">The Transfixing Beauty of Starling Murmurations</a> NYT: Each spring and autumn, the skies in southern Denmark come to life with the swirling displays of hundreds of thousands of starlings, an event known locally as “sort sol.” 
  <p class="updated_time"> 04:00 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/business/china-eastern-boeing-crash.html">A Flight Over China in Clear Skies, Followed by a Nosedive</a> NYT: Investigators face a formidable challenge in figuring out why China Eastern Flight 5735 crashed on March 21. 
+ <p class="updated_time"> 03:50 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-mostly-are-finding-shelter-in-private-homes-11649064600">Ukrainian Refugees Mostly Are Finding Shelter in Private Homes</a> WSJ: Ukrainian Refugees Mostly Are Finding Shelter in Private Homes 
  <p class="updated_time"> 03:47 AM CT, Apr. 04 </p> 
  <a href="https://www.npr.org/2022/04/04/1090747573/ex-finance-minister-wins-runoff-to-be-costa-ricas-president">Ex-finance minister wins runoff to be Costa Rica's president</a> NPR: Rodrigo Chaves wins an election that political analysts said was marked by a lack of voter enthusiasm due to the multitude of personal attacks that characterized the campaign. 
  <p class="updated_time"> 03:43 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/sri-lanka-protests-curfew.html">Sri Lanka’s Cabinet Resigns as Protesters Defy Government Curfew</a> NYT: The midnight resignations, amid an escalating economic crisis, leave only the president, Gotabaya Rajapaksa, and his brother, the prime minister, in a cabinet that has been dominated by their family. 
  <p class="updated_time"> 03:39 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/hong-kong-carrie-lam-covid.html">Carrie Lam, Hong Kong’s Leader, Won’t Seek Second Term</a> NYT: The territory’s chief executive has been criticized by residents and pro-Beijing lawmakers for mixed messaging and mishandling the city’s fifth coronavirus outbreak. 
- <p class="updated_time"> 03:38 AM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/flood-of-refugees-from-ukraine-mostly-are-finding-shelter-in-private-homes-11649064600">Ukrainian Refugees Mostly Are Finding Shelter in Private Homes</a> WSJ: Ukrainian Refugees Mostly Are Finding Shelter in Private Homes 
  <p class="updated_time"> 03:15 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/02/climate/oil-tankers-russia.html">On Its Way to the U.S., Russian Oil Tanker Makes Giant U-Turn </a> NYT: The ship, originally sailing to Philadelphia, apparently lost its buyer in the middle of the Atlantic. A number of tankers carrying Russian oil face similar problems. 
  <p class="updated_time"> 03:10 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60978582?at_medium=RSS&at_campaign=KARANGA">Pakistan: Court to decide embattled PM Imran Khan's fate</a> BBC: It will rule on a controversial blocked vote of no-confidence, following a day of political turmoil. 
  <p class="updated_time"> 02:56 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60980006?at_medium=RSS&at_campaign=KARANGA">Costa Rica elects political newcomer Chaves as president</a> BBC: Economist Rodrigo Chaves says he will shake up Costa Rica's politics and break with its old guard. 
+ <p class="updated_time"> 02:50 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-chief-executive-carrie-lam-won-t-seek-a-second-term-11649042721">Hong Kong Leader Carrie Lam Won’t Seek a Second Term</a> WSJ: Hong Kong Leader Carrie Lam Won’t Seek a Second Term 
  <p class="updated_time"> 02:42 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60977917?at_medium=RSS&at_campaign=KARANGA">Hungary election: PM Viktor Orban criticises Ukraine's Zelensky as he wins vote</a> BBC: Near-complete results show Viktor Orban has won a fourth term in Hungary's election by a landslide. 
- <p class="updated_time"> 02:38 AM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-chief-executive-carrie-lam-won-t-seek-a-second-term-11649042721">Hong Kong Leader Carrie Lam Won’t Seek a Second Term</a> WSJ: Hong Kong Leader Carrie Lam Won’t Seek a Second Term 
  <p class="updated_time"> 02:00 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/french-election-le-pen-macron.html">French Election Opens Up as Marine Le Pen Surges</a> NYT: President Emmanuel Macron’s belated entry into the campaign and his focus on Ukraine have left him vulnerable to a strong challenge from the right. 
  <p class="updated_time"> 02:00 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/business/rally-jameel-women.html">Women in Saudi Arabia Add a First: An Auto Rally</a> NYT: The Rally Jameel in Saudi Arabia celebrates a new first for women. 
  <p class="updated_time"> 01:53 AM CT, Apr. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60979177?at_medium=RSS&at_campaign=KARANGA">Why Sri Lanka cabinet resignations won't appease angry protesters</a> BBC: Many Sri Lankans blame their controversial president Gotabaya Rajapaksa for the dire economic crisis. 
- <p class="updated_time"> 01:38 AM CT, Apr. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60979177?at_medium=RSS&at_campaign=KARANGA">Gotabaya Rajapaksa: Angry Sri Lankans want president to go</a> BBC: Many Sri Lankans blame their controversial president Gotabaya Rajapaksa for the dire economic crisis. 
+ <p class="updated_time"> 01:50 AM CT, Apr. 04 </p> 
  <a href="https://www.wsj.com/articles/hungary-vote-tests-orbans-friendship-with-putinand-its-need-for-russian-energy-11648978925">Hungary’s Orban Wins Another Term in Office</a> WSJ: Hungary’s Orban Wins Another Term in Office 
+ <p class="updated_time"> 12:50 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/the-world-is-piling-on-debt-as-it-battles-inflation-11649064601">The World Is Piling on Debt as It Battles Inflation</a> WSJ: The World Is Piling on Debt as It Battles Inflation 
  <p class="updated_time"> 12:40 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60979304?at_medium=RSS&at_campaign=KARANGA">Watch: Ukraine's President Zelensky's powerful Grammys speech</a> BBC: The pre-taped message played ahead of a performance by Ukrainian musicians who had fled the country. 
- <p class="updated_time"> 12:38 AM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/the-world-is-piling-on-debt-as-it-battles-inflation-11649064601">The World Is Piling on Debt as It Battles Inflation</a> WSJ: The World Is Piling on Debt as It Battles Inflation 
  <p class="updated_time"> 12:08 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60978909?at_medium=RSS&at_campaign=KARANGA">Victory for Hungary's Orban means a headache for the EU</a> BBC: EU hearts will sink as "illiberal democrat" Viktor Orban wins another term, Katya Adler writes. 
  <p class="updated_time"> 11:10 PM CT, Apr. 03 </p> 
@@ -189,6 +189,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/02/world/middleeast/israel-palestinians-west-bank.html">Israeli Troops Kill 3 Palestinian Militants in West Bank</a> NYT: The Israeli authorities said the men were killed in a shootout. The security forces have ramped up their operations after a wave of violence. 
  <p class="updated_time"> 05:00 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/canada/catholics-reparations-indigenous-canada-schools.html">How Catholics Avoided Paying Millions in Reparations in Canada</a> NYT: During its final weeks in office, the previous Conservative government reached a deal allowing the church to walk away from most of its obligations. 
+ <p class="updated_time"> 10:18 PM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/us/charles-g-boyd-dead.html">Charles G. Boyd, Air Force General and Former P.O.W., Dies at 83</a> NYT: He began his 36-year career in the military as a fighter pilot and was the only prisoner of war in the Vietnam conflict to become a four-star general. 
+ <p class="updated_time"> 10:08 PM CT, Apr. 01 </p> 
+ <a href="https://www.nytimes.com/2022/04/01/world/middleeast/israel-terrorism-bennett-palestinians.html">Spike in Violence Poses Test for Israel’s Fragile Government</a> NYT: A rash of terrorist attacks has spawned criticism of the government from the left and right, and for opposite reasons. But the coalition’s diversity has constrained its options. 
  <p class="updated_time"> 07:53 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/us-tanks-ukraine.html">U.S. Will Help Transfer Soviet-Made Tanks to Ukraine</a> NYT: The transfer, a response to a request from Ukraine’s president, will mark the first time the Biden administration has helped send tanks in the five-week-old war. 
  <p class="updated_time"> 07:18 PM CT, Apr. 01 </p> 
@@ -324,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/business/economy/jobs-fed-full-employment.html">Unemployment Nears Prepandemic Level</a> NYT: Federal Reserve officials are tasked with fostering “full employment.” At least for now, some see the labor market as uncomfortably tight. 
  <p class="updated_time"> 07:34 AM CT, Apr. 01 </p> 
  <a href="https://www.npr.org/2022/04/01/1089989337/employers-continue-hiring-spree-even-as-war-in-ukraine-ratchets-up-economic-fear">Employers continue hiring spree even as war in Ukraine ratchets up economic fears</a> NPR: U.S. employers added 431,000 jobs in March, as the unemployment rate fell to 3.6% from 3.8% in February. The tight job market is putting upward pressure on both wages and prices. 
- <p class="updated_time"> 05:41 AM CT, Apr. 01 </p> 
- <a href="https://www.cnn.com/2022/03/31/politics/mystery-call-gap-trump-jan-6-white-house-phone-logs/index.html">Official review of Trump phone logs from January 6 finds record is complete</a> CNN: In the seven hours during which White House records show no phone calls to or from then-President Donald Trump on January 6, 2021, among the calls that are conspicuously absent is one Trump made to then-Vice President Mike Pence that morning from the Oval Office. 
 
 
 </details>
