@@ -9,8 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:54 AM CT, Apr. 04 </p> 
+ <p class="updated_time"> 03:45 AM CT, Apr. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/04/world/imran-khan-pakistan-news">Pakistan Live Updates: Supreme Court Will Rule on Vote Against Prime Minister</a> NYT: Pakistan’s top court will meet on Monday to decide whether lawmakers can hold a no-confidence vote over Prime Minister Imran Khan. On Sunday, his allies blocked the move, and he dissolved Parliament. 
+ <p class="updated_time"> 03:43 AM CT, Apr. 04 </p> 
+ <a href="https://www.nytimes.com/2022/04/03/world/asia/sri-lanka-protests-curfew.html">Sri Lanka’s Cabinet Resigns as Protesters Defy Government Curfew</a> NYT: The midnight resignations, amid an escalating economic crisis, leave only the president, Gotabaya Rajapaksa, and his brother, the prime minister, in a cabinet that has been dominated by their family. 
+ <p class="updated_time"> 03:39 AM CT, Apr. 04 </p> 
+ <a href="https://www.nytimes.com/2022/04/03/world/asia/hong-kong-carrie-lam-covid.html">Carrie Lam, Hong Kong’s Leader,  Won’t Seek Second Term</a> NYT: The territory’s chief executive has been criticized by residents and pro-Beijing lawmakers for mixed messaging and mishandling the city’s fifth coronavirus outbreak. 
+ <p class="updated_time"> 03:16 AM CT, Apr. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60976958?at_medium=RSS&at_campaign=KARANGA">Easter travel chaos as flights cancelled</a> BBC: Airlines cancel scores of flights due to Covid as UK airports struggle and Eurotunnel warns of three hour delays. 
+ <p class="updated_time"> 03:15 AM CT, Apr. 04 </p> 
+ <a href="https://www.nytimes.com/2022/04/02/climate/oil-tankers-russia.html">On Its Way to the U.S., Russian Oil Tanker Makes Giant U-Turn </a> NYT: The ship, originally sailing to Philadelphia, apparently lost its buyer in the middle of the Atlantic. A number of tankers carrying Russian oil face similar problems. 
+ <p class="updated_time"> 03:11 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/04/03/world/ukraine-russia-war">What Happened on Day 39 of the War in Ukraine</a> NYT: The devastating toll of the war became clearer as Russian forces withdrew from around Kyiv. World leaders promised more sanctions. 
+ <p class="updated_time"> 03:10 AM CT, Apr. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60978582?at_medium=RSS&at_campaign=KARANGA">Pakistan: Court to decide embattled PM Imran Khan's fate</a> BBC: It will rule on a controversial blocked vote of no-confidence, following a day of political turmoil. 
+ <p class="updated_time"> 02:56 AM CT, Apr. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-60980006?at_medium=RSS&at_campaign=KARANGA">Costa Rica elects political newcomer Chaves as president</a> BBC: Economist Rodrigo Chaves says he will shake up Costa Rica's politics and break with its old guard. 
+ <p class="updated_time"> 02:50 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003">New Reports of War Crimes in Ukraine Emerge as Russians Retreat</a> WSJ: New Reports of War Crimes in Ukraine Emerge as Russians Retreat 
  <p class="updated_time"> 02:42 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60977917?at_medium=RSS&at_campaign=KARANGA">Hungary election: PM Viktor Orban criticises Ukraine's Zelensky as he wins vote</a> BBC: Near-complete results show Viktor Orban has won a fourth term in Hungary's election by a landslide. 
  <p class="updated_time"> 02:10 AM CT, Apr. 04 </p> 
@@ -19,36 +35,30 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/04/world/europe/french-election-le-pen-macron.html">French Election Opens Up as Marine Le Pen Surges</a> NYT: President Emmanuel Macron’s belated entry into the campaign and his focus on Ukraine have left him vulnerable to a strong challenge from the right. 
  <p class="updated_time"> 02:00 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/business/rally-jameel-women.html">Women in Saudi Arabia Add a First: An Auto Rally</a> NYT: The Rally Jameel in Saudi Arabia celebrates a new first for women. 
- <p class="updated_time"> 01:59 AM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003">New Reports of War Crimes in Ukraine Emerge as Russians Retreat</a> WSJ: New Reports of War Crimes in Ukraine Emerge as Russians Retreat 
  <p class="updated_time"> 01:53 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60979177?at_medium=RSS&at_campaign=KARANGA">Why Sri Lanka cabinet resignations won't appease angry protesters</a> BBC: Many Sri Lankans blame their controversial president Gotabaya Rajapaksa for the dire economic crisis. 
- <p class="updated_time"> 01:18 AM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/2022/04/03/world/asia/hong-kong-carrie-lam-covid.html">Carrie Lam, Hong Kong’s Leader,  Will Not Seek Second Term</a> NYT: She has been criticized by residents and pro-Beijing lawmakers for mixed messaging and mishandling the city’s fifth coronavirus outbreak. 
- <p class="updated_time"> 12:59 AM CT, Apr. 04 </p> 
+ <p class="updated_time"> 01:50 AM CT, Apr. 04 </p> 
  <a href="https://www.wsj.com/articles/hungary-vote-tests-orbans-friendship-with-putinand-its-need-for-russian-energy-11648978925">Hungary’s Orban Wins Another Term in Office</a> WSJ: Hungary’s Orban Wins Another Term in Office 
  <p class="updated_time"> 12:58 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-60978792?at_medium=RSS&at_campaign=KARANGA">Hong Kong leader Carrie Lam won't seek second term</a> BBC: Carrie Lam's five years in office saw massive pro-democracy protests and increased Chinese control. 
+ <p class="updated_time"> 12:50 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/cancun-tulum-riviera-maya-mexico-drugs-homicides-11648853578">Cancún’s Tourist Idyll Is Shattered by Drug Violence and Homicides</a> WSJ: Cancún’s Tourist Idyll Is Shattered by Drug Violence and Homicides 
  <p class="updated_time"> 12:40 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60979304?at_medium=RSS&at_campaign=KARANGA">Watch: Ukraine's President Zelensky's powerful Grammys speech</a> BBC: The pre-taped message played ahead of a performance by Ukrainian musicians who had fled the country. 
  <p class="updated_time"> 12:08 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60978909?at_medium=RSS&at_campaign=KARANGA">Victory for Hungary's Orban means a headache for the EU</a> BBC: EU hearts will sink as "illiberal democrat" Viktor Orban wins another term, Katya Adler writes. 
- <p class="updated_time"> 11:59 PM CT, Apr. 03 </p> 
- <a href="https://www.wsj.com/articles/cancun-tulum-riviera-maya-mexico-drugs-homicides-11648853578">Cancún’s Tourist Idyll Is Shattered by Drug Violence and Homicides</a> WSJ: Cancún’s Tourist Idyll Is Shattered by Drug Violence and Homicides 
- <p class="updated_time"> 11:40 PM CT, Apr. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60978582?at_medium=RSS&at_campaign=KARANGA">Pakistan: Court to decide embattled PM Imran Khan's fate</a> BBC: It will rule on a controversial blocked vote of no-confidence, following a day of political turmoil. 
+ <p class="updated_time"> 11:50 PM CT, Apr. 03 </p> 
+ <a href="https://www.wsj.com/articles/pakistans-imran-khan-blocks-no-confidence-vote-calls-for-elections-11648977626">Pakistan’s Imran Khan Blocks No-Confidence Vote, Calls for Elections</a> WSJ: Pakistan’s Imran Khan Blocks No-Confidence Vote, Calls for Elections 
  <p class="updated_time"> 11:10 PM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/04/1090734289/hong-kong-leader-carrie-lam-says-she-wont-seek-second-term">Hong Kong leader Carrie Lam says she won't seek second term</a> NPR: Lam's five years as the territory's chief executive was marked by widespread protests against her government. 
- <p class="updated_time"> 10:59 PM CT, Apr. 03 </p> 
- <a href="https://www.wsj.com/articles/pakistans-imran-khan-blocks-no-confidence-vote-calls-for-elections-11648977626">Pakistan’s Imran Khan Blocks No-Confidence Vote, Calls for Elections</a> WSJ: Pakistan’s Imran Khan Blocks No-Confidence Vote, Calls for Elections 
  <p class="updated_time"> 10:53 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/imran-khan-pakistan.html">Imran Khan Dissolves  Parliament, Blocking No-Confidence Vote</a> NYT: Imran Khan’s actions have set up a constitutional battle over the country’s leadership. The Supreme Court is expected to address the turmoil on Monday. 
+ <p class="updated_time"> 10:50 PM CT, Apr. 03 </p> 
+ <a href="https://www.wsj.com/articles/afghanistans-taliban-ban-poppy-cultivation-11649003599">Afghanistan’s Taliban Ban Poppy Cultivation</a> WSJ: Afghanistan’s Taliban Ban Poppy Cultivation 
  <p class="updated_time"> 10:48 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/americas/costa-rica-election.html">Rodrigo Chaves on Track to Become Costa Rica’s New Leader</a> NYT: Preliminary results showed Rodrigo Chaves with a big lead over José María Figueres, who conceded. Mr. Chaves has pledged to overhaul the political system that turned Costa Rica into a model of stability. 
  <p class="updated_time"> 10:03 PM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60975941?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Cabinet resigns as crisis protesters defy curfew</a> BBC: All 26 ministers submitted letters of resignation, except PM Rajapaksa and his brother the president. 
- <p class="updated_time"> 09:59 PM CT, Apr. 03 </p> 
- <a href="https://www.wsj.com/articles/afghanistans-taliban-ban-poppy-cultivation-11649003599">Afghanistan’s Taliban Ban Poppy Cultivation</a> WSJ: Afghanistan’s Taliban Ban Poppy Cultivation 
  <p class="updated_time"> 09:13 PM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60978502?at_medium=RSS&at_campaign=KARANGA">Bondi Beach: Huge tides engulf Sydney's famous beach</a> BBC: Scenes of swells washing over Australia's most famous beach and its promenade have stunned locals. 
  <p class="updated_time"> 08:52 PM CT, Apr. 03 </p> 
@@ -87,14 +97,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/03/world/asia/afghanistan-taliban-salang-pass.html">Taliban Take On a Treacherous, Avalanche-Prone Pass</a> NYT: After overthrowing the government, the Taliban are now trying to save what’s left of the roads they spent years blowing up, with none more critical than a two-mile-high pass through the Hindu Kush. 
  <p class="updated_time"> 04:12 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/europe/russia-war-crimes-ukraine.html">Russia Committed ‘Apparent War Crimes,’ Human Rights Watch Says</a> NYT: The organization’s report is based on a series of interviews with eye witnesses, victims and local residents of Russia-occupied territories between Feb. 27 and March 14. 
- <p class="updated_time"> 03:42 PM CT, Apr. 03 </p> 
- <a href="https://www.nytimes.com/2022/04/03/world/asia/sri-lanka-protests-curfew.html">Sri Lanka’s Cabinet Resigns as Protesters Defy Government Curfew</a> NYT: The midnight resignations, amid an escalating economic crisis, leave only the president, Gotabaya Rajapaksa, and his brother, the prime minister, in a cabinet that has been dominated by their family. 
  <p class="updated_time"> 03:29 PM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090521721/russia-ukraine-war-what-happened-today-april-3">Russia-Ukraine war: What happened today (April 3)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:09 PM CT, Apr. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60974119?at_medium=RSS&at_campaign=KARANGA">Sacramento shooting: At least six dead in centre of California state capital</a> BBC: Twelve are also injured after the shooting early on Sunday in California's state capital. 
- <p class="updated_time"> 03:01 PM CT, Apr. 03 </p> 
- <a href="https://www.bbc.co.uk/news/business-60976958?at_medium=RSS&at_campaign=KARANGA">EasyJet cancels 100 flights due to Covid absences</a> BBC: The airline cancels scores of flights as UK airports also struggle with high levels of staff sickness. 
  <p class="updated_time"> 01:46 PM CT, Apr. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60977417?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Tear gas and water cannon used in Kandy</a> BBC: Protesters were mostly students, angry with their government's handling of the country's economy. 
  <p class="updated_time"> 01:27 PM CT, Apr. 03 </p> 
@@ -105,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/03/world/dead-civilians-bucha-ukraine.html">Images of Dead Civilians in Bucha Draws Outrage From U.S. and Others</a> NYT: Russia’s Ministry of Defense called the images “staged,” saying in a statement that “not a single” civilian had been injured in the town. 
  <p class="updated_time"> 11:51 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/02/nyregion/new-york-hochul-second-boosters.html">Hochul Says Second Boosters Are Offered at New York Vaccination Sites</a> NYT: Government officials move to get ahead of an uptick in cases fueled by the highly transmissible Omciron subvariant. 
- <p class="updated_time"> 10:28 AM CT, Apr. 03 </p> 
- <a href="https://www.nytimes.com/2022/04/02/business/shanghai-covid-child-separation.html">In Shanghai, Covid Is Separating Parents  From Children</a> NYT: As China’s largest city struggles to contain a coronavirus outbreak, outrage erupted online after images circulated of small children isolated from parents. 
  <p class="updated_time"> 09:56 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/daniel-craig-macbeth.html">‘Macbeth’ performances on Broadway pause after Daniel Craig tests positive for the coronavirus.</a> NYT: The show, which just began previews on Tuesday, hopes to resume on April 8. 
  <p class="updated_time"> 09:30 AM CT, Apr. 03 </p> 
@@ -165,8 +167,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/02/world/middleeast/yemen-cease-fire.html">Yemen’s Warring Parties Begin First Cease-Fire in 6 Years</a> NYT: The two-month truce, brokered by the United Nations, offers hope for a reduction of violence in a war that has rattled the Arabian Peninsula and caused a humanitarian crisis. 
  <p class="updated_time"> 01:01 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/covid-tests-positive-uk.html">Positive Covid Tests Reach Record Levels in England and Wales</a> NYT: Britain’s Office of National Statistics reported the trend, and estimated that almost 4.4 million people in England and Wales had been infected in a single week. 
- <p class="updated_time"> 12:53 PM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/01/arts/budi-tek-dead.html">Budi Tek, 65, Dies; His Fortune Built a Vast Trove of Asian Art</a> NYT: He was one of the world’s top collectors, and his immense Yuz Museum in Shanghai helped establish the region’s bustling art scene. 
  <p class="updated_time"> 11:13 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/russia-space-station.html">Is Russia Quitting the International Space Station? Not Quite.</a> NYT: NASA has sidestepped suggestions that Russia might pull out of the space station partnership. 
  <p class="updated_time"> 09:07 AM CT, Apr. 02 </p> 
@@ -183,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/02/world/middleeast/israel-palestinians-west-bank.html">Israeli Troops Kill 3 Palestinian Militants in West Bank</a> NYT: The Israeli authorities said the men were killed in a shootout. The security forces have ramped up their operations after a wave of violence. 
  <p class="updated_time"> 05:00 AM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/canada/catholics-reparations-indigenous-canada-schools.html">How Catholics Avoided Paying Millions in Reparations in Canada</a> NYT: During its final weeks in office, the previous Conservative government reached a deal allowing the church to walk away from most of its obligations. 
- <p class="updated_time"> 04:47 AM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/climate/oil-tankers-russia.html">On Its Way to the U.S., Russian Oil Tanker Makes Giant U-Turn </a> NYT: The ship, originally sailing to Philadelphia, apparently lost its buyer in the middle of the Atlantic. A number of tankers carrying Russian oil face similar problems. 
  <p class="updated_time"> 10:18 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/charles-g-boyd-dead.html">Charles G. Boyd, Air Force General and Former P.O.W., Dies at 83</a> NYT: He began his 36-year career in the military as a fighter pilot and was the only prisoner of war in the Vietnam conflict to become a four-star general. 
  <p class="updated_time"> 10:08 PM CT, Apr. 01 </p> 
@@ -195,12 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/01/world/nj-schools-mask-mandates-covid-outbreak.html">Two New Jersey High Schools Reinstate Mask Mandates After Covid Outbreak</a> NYT: New coronavirus cases have led to the resumption, if temporarily, of some mitigation strategies. 
  <p class="updated_time"> 06:54 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/world/europe/zelensky-russian-military-speech-video.html">Zelensky Calls for Popular Disobedience, in Both Ukraine and Russia</a> NYT: President Volodymyr Zelensky of Ukraine threatened retribution for people who collaborate with occupying forces and accused retreating Russians of planting mines and even booby-trapping corpses. 
- <p class="updated_time"> 01:53 PM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/us/politics/russia-uranium-nuclear-power.html">Russia’s Aggression Prompts Calls to Rethink U.S. Uranium Imports</a> NYT: The war in Ukraine has highlighted the risks of U.S. dependence on Russia for the fuel needed for nuclear energy, creating new challenges for the industry. 
- <p class="updated_time"> 01:30 PM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/world/middleeast/yemen-truce.html">U.N. Says Yemen’s Warring Parties Have Agreed to 2-Month Truce</a> NYT: The agreement comes after a significant escalation in recent weeks that saw Yemen’s Iran-backed Houthi rebels claim several attacks. 
- <p class="updated_time"> 12:26 PM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/world/africa/food-crisis-africa-drought-ukraine.html">War in Ukraine Compounds Hunger in East Africa</a> NYT: The conflict has driven up the cost of food in a region that depends heavily on crops from Russia and Ukraine and is facing what could be its worst drought in four decades. 
 
 
 </details>
