@@ -106,6 +106,10 @@ last_24 <- full_join(history_today, history_yesterday) %>%
                                      second(as_datetime(champaign_current$sunset, tz = "America/Chicago")),
                                      sep = "")), tz = "America/Chicago")
 
+### rainfall total ----
+rainfall <- round(sum(last_24$rain),1)
+snowfall <- round(sum(last_24$snow),1)
+
 ## three-hours ----
 url = "https://api.openweathermap.org/data/2.5/forecast"
 champaign_forecast_response <- 
@@ -167,7 +171,12 @@ champaign_temp <- paste(round(champaign_current$temp),"°", sep = "")
 champaign_humidity <- paste(champaign_current$humidity,"%",sep = "")
 champaign_desc <- champaign_current$weather$description
 champaign_wind_speed <- paste(round(champaign_current$wind_speed),"mph")
-
+champaign_precip <- case_when(
+  rainfall > 0 && snowfall > 0   ~ paste(rainfall,"inches of rain and",snowfall,"inches of snow"),
+  rainfall > 0 && snowfall == 0  ~ paste(rainfall,"inches of rain"),
+  snowfall > 0 && rainfall == 0  ~ paste(snowfall,"inches of snow"),
+  rainfall == 0 && snowfall == 0 ~ paste("No precipitation"))
+                            
 # save temp data ----
 
 weather_data <- tibble(utc_time = as_datetime(champaign_current$dt),
@@ -516,6 +525,8 @@ Currently:
 - ",champaign_desc,"
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
+
+",champaign_precip," in the past 24 hours
 
 ## Temperature History
 
