@@ -9,34 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:48 AM CT, Apr. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-60978792?at_medium=RSS&at_campaign=KARANGA">Hong Kong leader Carrie Lam won't seek second term</a> BBC: Carrie Lam's five years in office saw massive pro-democracy protests and increased Chinese control. 
+ <p class="updated_time"> 04:47 AM CT, Apr. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/03/world/ukraine-russia-war">What Happened on Day 39 of the War in Ukraine</a> NYT: The devastating toll of the war became clearer as Russian forces withdrew from around Kyiv. World leaders promised more sanctions. 
+ <p class="updated_time"> 04:39 AM CT, Apr. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60976958?at_medium=RSS&at_campaign=KARANGA">Easter travel chaos as flights cancelled</a> BBC: Airlines cancel scores of flights due to Covid as UK airports struggle and Eurotunnel warns of three hour delays. 
  <p class="updated_time"> 04:00 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/asia/china-russia-ukraine.html">Bristling Against the West, China Rallies Domestic Sympathy for Russia</a> NYT: China’s Communist Party is mounting an ideological campaign aimed at officials and students. The message: The country will not turn its back on Russia. 
  <p class="updated_time"> 04:00 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/travel/starling-murmurations.html">The Transfixing Beauty of Starling Murmurations</a> NYT: Each spring and autumn, the skies in southern Denmark come to life with the swirling displays of hundreds of thousands of starlings, an event known locally as “sort sol.” 
- <p class="updated_time"> 03:50 AM CT, Apr. 04 </p> 
- <a href="https://www.bbc.co.uk/news/business-60976958?at_medium=RSS&at_campaign=KARANGA">Easter travel chaos as flights cancelled</a> BBC: Airlines cancel scores of flights due to Covid as UK airports struggle and Eurotunnel warns of three hour delays. 
+ <p class="updated_time"> 03:53 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003">New Reports of War Crimes in Ukraine Emerge as Russians Retreat</a> WSJ: New Reports of War Crimes in Ukraine Emerge as Russians Retreat 
  <p class="updated_time"> 03:47 AM CT, Apr. 04 </p> 
  <a href="https://www.npr.org/2022/04/04/1090747573/ex-finance-minister-wins-runoff-to-be-costa-ricas-president">Ex-finance minister wins runoff to be Costa Rica's president</a> NPR: Rodrigo Chaves wins an election that political analysts said was marked by a lack of voter enthusiasm due to the multitude of personal attacks that characterized the campaign. 
  <p class="updated_time"> 03:45 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/04/04/world/imran-khan-pakistan-news">Pakistan Live Updates: Supreme Court Will Rule on Vote Against Prime Minister</a> NYT: Pakistan’s top court will meet on Monday to decide whether lawmakers can hold a no-confidence vote over Prime Minister Imran Khan. On Sunday, his allies blocked the move, and he dissolved Parliament. 
  <p class="updated_time"> 03:43 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/sri-lanka-protests-curfew.html">Sri Lanka’s Cabinet Resigns as Protesters Defy Government Curfew</a> NYT: The midnight resignations, amid an escalating economic crisis, leave only the president, Gotabaya Rajapaksa, and his brother, the prime minister, in a cabinet that has been dominated by their family. 
- <p class="updated_time"> 03:41 AM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-count-dead-dig-mass-graves-clear-land-mines-after-russian-pullback-11648970003">New Reports of War Crimes in Ukraine Emerge as Russians Retreat</a> WSJ: New Reports of War Crimes in Ukraine Emerge as Russians Retreat 
  <p class="updated_time"> 03:39 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/hong-kong-carrie-lam-covid.html">Carrie Lam, Hong Kong’s Leader,  Won’t Seek Second Term</a> NYT: The territory’s chief executive has been criticized by residents and pro-Beijing lawmakers for mixed messaging and mishandling the city’s fifth coronavirus outbreak. 
  <p class="updated_time"> 03:15 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/02/climate/oil-tankers-russia.html">On Its Way to the U.S., Russian Oil Tanker Makes Giant U-Turn </a> NYT: The ship, originally sailing to Philadelphia, apparently lost its buyer in the middle of the Atlantic. A number of tankers carrying Russian oil face similar problems. 
- <p class="updated_time"> 03:11 AM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/04/03/world/ukraine-russia-war">What Happened on Day 39 of the War in Ukraine</a> NYT: The devastating toll of the war became clearer as Russian forces withdrew from around Kyiv. World leaders promised more sanctions. 
  <p class="updated_time"> 03:10 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60978582?at_medium=RSS&at_campaign=KARANGA">Pakistan: Court to decide embattled PM Imran Khan's fate</a> BBC: It will rule on a controversial blocked vote of no-confidence, following a day of political turmoil. 
  <p class="updated_time"> 02:56 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60980006?at_medium=RSS&at_campaign=KARANGA">Costa Rica elects political newcomer Chaves as president</a> BBC: Economist Rodrigo Chaves says he will shake up Costa Rica's politics and break with its old guard. 
+ <p class="updated_time"> 02:53 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/hungary-vote-tests-orbans-friendship-with-putinand-its-need-for-russian-energy-11648978925">Hungary’s Orban Wins Another Term in Office</a> WSJ: Hungary’s Orban Wins Another Term in Office 
  <p class="updated_time"> 02:42 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60977917?at_medium=RSS&at_campaign=KARANGA">Hungary election: PM Viktor Orban criticises Ukraine's Zelensky as he wins vote</a> BBC: Near-complete results show Viktor Orban has won a fourth term in Hungary's election by a landslide. 
- <p class="updated_time"> 02:41 AM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/hungary-vote-tests-orbans-friendship-with-putinand-its-need-for-russian-energy-11648978925">Hungary’s Orban Wins Another Term in Office</a> WSJ: Hungary’s Orban Wins Another Term in Office 
  <p class="updated_time"> 02:10 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/03/arts/music/ukraine-zelensky-john-legend-grammys.html">President Volodymyr Zelensky Gives Emotional Speech at the Grammys</a> NYT: The Ukrainian president, Volodymyr Zelensky, made a plea for support before John Legend performed, sharing the stage with a poet and a singer from Ukraine. 
  <p class="updated_time"> 02:00 AM CT, Apr. 04 </p> 
@@ -44,18 +46,16 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:00 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/business/rally-jameel-women.html">Women in Saudi Arabia Add a First: An Auto Rally</a> NYT: The Rally Jameel in Saudi Arabia celebrates a new first for women. 
  <p class="updated_time"> 01:53 AM CT, Apr. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60979177?at_medium=RSS&at_campaign=KARANGA">Why Sri Lanka cabinet resignations won't appease angry protesters</a> BBC: Many Sri Lankans blame their controversial president Gotabaya Rajapaksa for the dire economic crisis. 
- <p class="updated_time"> 01:41 AM CT, Apr. 04 </p> 
  <a href="https://www.wsj.com/articles/cancun-tulum-riviera-maya-mexico-drugs-homicides-11648853578">Cancún’s Tourist Idyll Is Shattered by Drug Violence and Homicides</a> WSJ: Cancún’s Tourist Idyll Is Shattered by Drug Violence and Homicides 
- <p class="updated_time"> 12:58 AM CT, Apr. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60978792?at_medium=RSS&at_campaign=KARANGA">Hong Kong leader Carrie Lam won't seek second term</a> BBC: Carrie Lam's five years in office saw massive pro-democracy protests and increased Chinese control. 
- <p class="updated_time"> 12:41 AM CT, Apr. 04 </p> 
+ <p class="updated_time"> 01:53 AM CT, Apr. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60979177?at_medium=RSS&at_campaign=KARANGA">Why Sri Lanka cabinet resignations won't appease angry protesters</a> BBC: Many Sri Lankans blame their controversial president Gotabaya Rajapaksa for the dire economic crisis. 
+ <p class="updated_time"> 12:53 AM CT, Apr. 04 </p> 
  <a href="https://www.wsj.com/articles/pakistans-imran-khan-blocks-no-confidence-vote-calls-for-elections-11648977626">Pakistan’s Imran Khan Blocks No-Confidence Vote, Calls for Elections</a> WSJ: Pakistan’s Imran Khan Blocks No-Confidence Vote, Calls for Elections 
  <p class="updated_time"> 12:40 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60979304?at_medium=RSS&at_campaign=KARANGA">Watch: Ukraine's President Zelensky's powerful Grammys speech</a> BBC: The pre-taped message played ahead of a performance by Ukrainian musicians who had fled the country. 
  <p class="updated_time"> 12:08 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60978909?at_medium=RSS&at_campaign=KARANGA">Victory for Hungary's Orban means a headache for the EU</a> BBC: EU hearts will sink as "illiberal democrat" Viktor Orban wins another term, Katya Adler writes. 
- <p class="updated_time"> 11:41 PM CT, Apr. 03 </p> 
+ <p class="updated_time"> 11:53 PM CT, Apr. 03 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-taliban-ban-poppy-cultivation-11649003599">Afghanistan’s Taliban Ban Poppy Cultivation</a> WSJ: Afghanistan’s Taliban Ban Poppy Cultivation 
  <p class="updated_time"> 11:10 PM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/04/1090734289/hong-kong-leader-carrie-lam-says-she-wont-seek-second-term">Hong Kong leader Carrie Lam says she won't seek second term</a> NPR: Lam's five years as the territory's chief executive was marked by widespread protests against her government. 
@@ -204,8 +204,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/04/1089833711/scotus-nominee-ketanji-jackson-brown-senate-judiciary-vote">Democrats are expected to advance SCOTUS nominee Ketanji Jackson Brown to floor vote</a> NPR: Democrats will vote today to advance the Supreme Court nomination of Judge Ketanji Brown Jackson. A final vote before the full Senate is expected by the end of the week. 
  <p class="updated_time"> 04:00 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/us/politics/supreme-court-personal-precedents.html">The Problem of ‘Personal Precedents’ of Supreme Court Justices</a> NYT: Their efforts to seem consistent can clash with respect for precedent in the usual sense. But a new article argues that personal precedents have a role to play as legal building blocks. 
+ <p class="updated_time"> 03:35 AM CT, Apr. 04 </p> 
+ <a href="https://www.politico.com/news/2022/04/04/dems-midterm-villain-donald-trump-00022381">Dems have an opening for a midterm villain. Donald Trump, you're hired!</a> Politico: It's not clear whether reminding voters of the tumult and chaos of the former president will provide sustained momentum, though. 
  <p class="updated_time"> 03:30 AM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/dems-party-line-spending-manchin-00022362">Dems plot spring sprint for party-line spending deal with Manchin</a> Politico: Senate Majority Leader Chuck Schumer says the resuscitation of the bill once called Build Back Better is a “high priority” for his caucus. But a revival won't be easy. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 04 </p> 
+ <a href="https://www.politico.com/news/2022/04/04/jan-6-panel-trump-criminal-referral-00022470">Jan. 6 panel wonders: Is Trump criminal referral necessary?</a> Politico: With a cascade of evidence, judge rulings and an active Justice Department, lawmakers are skeptical that they need to make a criminal referral on the former president. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 04 </p> 
+ <a href="https://www.politico.com/news/2022/04/04/states-covid-congress-funding-00022450">States are ready to live with Covid. Congress' funding fight is making that hard.</a> Politico: Health officials from Alabama to Washington state say that congressional gridlock over providing billions in new money has undermined efforts to transition to a steady, long-term approach to Covid-19. 
  <p class="updated_time"> 10:36 PM CT, Apr. 03 </p> 
  <a href="https://www.politico.com/news/2022/04/03/zelenskyy-addresses-grammys-in-video-00022642">Zelenskyy addresses Grammys in video</a> Politico: Ukraine's president told the audience: “Fill the silence with your music. Fill it today to tell our story." 
  <p class="updated_time"> 09:06 PM CT, Apr. 03 </p> 
@@ -250,10 +256,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/02/us/politics/merrick-garland-biden-trump.html">Garland Faces Growing Pressure as Jan. 6 Investigation Widens</a> NYT: The inquiry is a test for President Biden and Attorney General Merrick B. Garland, who both came into office promising to restore the Justice Department’s independence. 
  <p class="updated_time"> 07:00 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090448719/week-in-politics-jobs-grow-biden-to-release-reserve-oil-logs-missing-on-jan-6">Week in politics: Jobs grow; Biden to release reserve oil; logs missing on Jan. 6</a> NPR: The U.S. economy continues to create new jobs at a rapid pace. President Biden taps the strategic petroleum reserve to lower gas prices. Also, the seven-hour gap in White House logs on Jan. 6, 2021. 
- <p class="updated_time"> 06:01 AM CT, Apr. 02 </p> 
- <a href="https://www.politico.com/news/2022/04/02/education-secretary-miguel-cardonas-first-year-in-office-on-message-but-out-of-touch-00021623">If you can't name Biden's Education secretary, you probably aren't alone</a> Politico: Much like President Joe Biden, Miguel Cardona was seen as someone who could come in and ease tensions after months of charged debate over school closures. 
- <p class="updated_time"> 06:00 AM CT, Apr. 02 </p> 
- <a href="https://www.politico.com/news/2022/04/02/adams-nypd-homeless-camps-00022473">‘Back to the Giuliani era’: Adams’ order to clear homeless camps ignites fury in New York</a> Politico: Elected officials and advocates say there's no safe place for homeless New Yorkers to go after Adams already cleared out the subways and transit hubs. 
  <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090270597/biden-is-the-latest-president-to-go-off-script-on-russia">Biden is the latest president to go off script on Russia</a> NPR: Biden was far from the first U.S. president to say what he thought about Russia or its leaders — or to pay a price for it. 
  <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
@@ -267,7 +269,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:53 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/us-tanks-ukraine.html">U.S. Will Help Transfer Soviet-Made Tanks to Ukraine</a> NYT: The transfer, a response to a request from Ukraine’s president, will mark the first time the Biden administration has helped send tanks in the five-week-old war. 
  <p class="updated_time"> 07:49 PM CT, Apr. 01 </p> 
- <a href="https://www.politico.com/news/2022/04/01/sarah-palin-announces-run-for-congress-00022538">Sarah Palin announces run for Congress</a> Politico: The announcement came about 45 minutes before the filing deadline to enter into the special election. 
+ <a href="https://www.politico.com/news/2022/04/01/sarah-palin-announces-run-for-congress-00022538">Sarah Palin announces run for Congress</a> Politico: The former Republican VP candidate's announcement came minutes before the Alaska special election filing deadline. 
  <p class="updated_time"> 07:19 PM CT, Apr. 01 </p> 
  <a href="https://www.politico.com/news/2022/04/01/cawthorn-gop-furor-sex-drugs-comments-00022528">Cawthorn blames ‘the left and the media’ after intra-GOP furor over sex-and-drugs comments</a> Politico: Cawthorn has faced widespread public criticism from congressional Republicans and within the North Carolina GOP following his comments on a podcast. 
  <p class="updated_time"> 06:33 PM CT, Apr. 01 </p> 
