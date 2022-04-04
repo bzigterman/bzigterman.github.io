@@ -9,14 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:33 PM CT, Apr. 04 </p> 
+ <p class="updated_time"> 02:41 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/04/04/world/ukraine-russia-war">Ukraine Live Updates: Atrocities Prompt Calls for More Sanctions as Russia Pummels South</a> NYT: Images of dead civilians prompted widespread outrage as the E.U. weighed tougher penalties against Moscow. Russian forces continued to bombard southern Ukraine, but left the door open for peace talks. 
+ <p class="updated_time"> 02:40 PM CT, Apr. 04 </p> 
+ <a href="https://www.nytimes.com/2022/04/03/world/europe/ukraine-military-volunteers.html">Why Some Foreign Volunteers Are Joining the Military in Ukraine</a> NYT: Ukraine has created a foreign legion, inviting foreigners with military experience to come and join the fight against Russia. 
+ <p class="updated_time"> 02:40 PM CT, Apr. 04 </p> 
+ <a href="https://www.nytimes.com/2022/04/04/world/europe/russia-ukraine-peace-talks.html">Atrocities in Bucha Complicate Russia-Ukraine Peace Talks</a> NYT: It was unclear what effect the killing of civilians outside Kyiv, the Ukrainian capital, would have on negotiations. 
+ <p class="updated_time"> 02:36 PM CT, Apr. 04 </p> 
+ <a href="https://www.nytimes.com/2022/04/04/world/europe/bucha-ukraine-bodies.html">Dead Lay Out in Bucha for Weeks, Refuting Russian Claim, Satellite Images Show</a> NYT: The images rebut Russia’s claim that the killing of civilians in Bucha, near Kyiv, took place after its soldiers had left town. 
  <p class="updated_time"> 02:33 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/04/04/world/imran-khan-pakistan-news">Supreme Court Will Pick Up Imran Khan Case on Tuesday</a> NYT: The country’s top court will rule on Prime Minister Imran Khan’s move to dissolve Parliament and call new elections, as he tried to head off a no-confidence vote. 
  <p class="updated_time"> 02:29 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/climate/climate-change-ipcc-un.html">Stopping Climate Change Is Doable, but Time Is Short, U.N. Panel Warns</a> NYT: A major new scientific report offers a road map for how countries can limit global warming, but warns that the margin for error is vanishingly small. 
- <p class="updated_time"> 02:25 PM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/2022/04/04/world/europe/bucha-ukraine-bodies.html">Dead Lay Out in Bucha for Weeks, Refuting Russian Claim, Satellite Images Show</a> NYT: Russia has suggested the bodies were placed there after its soldiers left Bucha, near Kyiv, last week. 
  <p class="updated_time"> 02:20 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/french-election-le-pen-macron.html">French Election Opens Up as Marine Le Pen Surges</a> NYT: President Emmanuel Macron’s belated entry into the campaign and his focus on Ukraine have left him vulnerable to a strong challenge from the right. 
  <p class="updated_time"> 02:15 PM CT, Apr. 04 </p> 
@@ -29,20 +33,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/04/business/china-eastern-boeing-crash.html">A Flight Over China in Clear Skies, Followed by a Nosedive</a> NYT: Investigators face a formidable challenge in figuring out why China Eastern Flight 5735 crashed on March 21. 
  <p class="updated_time"> 01:58 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/us/politics/senate-covid-vaccines.html">Senators Propose Cutting Global Vaccine Funding in Covid Package</a> NYT: It is unclear whether such a move could gain approval from either chamber of Congress. 
- <p class="updated_time"> 01:35 PM CT, Apr. 04 </p> 
+ <p class="updated_time"> 01:47 PM CT, Apr. 04 </p> 
  <a href="https://www.wsj.com/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251">Zelensky Calls for Justice Over Alleged Russian War Crimes</a> WSJ: Zelensky Calls for Justice Over Alleged Russian War Crimes 
- <p class="updated_time"> 01:33 PM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/2022/04/04/world/europe/russia-ukraine-peace-talks.html">Atrocities in Bucha Complicate Russia-Ukraine Peace Talks</a> NYT: It was unclear what effect the killing of civilians outside Kyiv, the Ukrainian capital, would have on negotiations. 
  <p class="updated_time"> 01:15 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/business/rally-jameel-women.html">Women in Saudi Arabia Add a First: An Auto Rally</a> NYT: The Rally Jameel in Saudi Arabia celebrates a new first for women. 
  <p class="updated_time"> 01:09 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/europe/putin-ukraine-failure.html">For Putin, the Invasion Is Another Failure in Ukraine </a> NYT: Beginning in 2004, the Russian leader’s repeated efforts to subjugate his neighbor have been defeated, frustrating his imperial ambitions. 
  <p class="updated_time"> 01:06 PM CT, Apr. 04 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/04/04/1090784495/photos-russian-attacks-leave-catastrophic-scenes-as-many-flee-or-are-displaced">Photos: Russian attacks leave catastrophic scenes, as many flee or are displaced</a> NPR: Ukraine has launched an investigation into war crimes officials believe have been committed by Russian forces during the course of the invasion. 
+ <p class="updated_time"> 12:47 PM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/berlin-takes-control-of-gazproms-german-business-11649086113">Berlin Takes Control of Gazprom’s German Business</a> WSJ: Berlin Takes Control of Gazprom’s German Business 
  <p class="updated_time"> 12:37 PM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60989413?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Bucha massacre is a game changer - Ukraine foreign minister</a> BBC: Dmytro Kuleba told BBC HARDtalk that events in Bucha prove how much help Ukraine needs from the West. 
- <p class="updated_time"> 12:35 PM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/berlin-takes-control-of-gazproms-german-business-11649086113">Berlin Takes Control of Gazprom’s German Business</a> WSJ: Berlin Takes Control of Gazprom’s German Business 
  <p class="updated_time"> 12:26 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/zelensky-nato-merkel-sarkozy.html">Zelensky Blasts Merkel and Sarkozy for Denying Ukraine NATO Membership</a> NYT: In a video address, he said that NATO’s decision in 2008 not to give Ukraine a path to membership helped lead to atrocities by Russian forces. 
  <p class="updated_time"> 12:26 PM CT, Apr. 04 </p> 
@@ -53,10 +55,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60987350?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Peace talks still on despite 'genocide', Zelensky says</a> BBC: The Ukrainian president visits Bucha, where Russian forces have been accused of atrocities. 
  <p class="updated_time"> 11:55 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/hong-kong-carrie-lam-covid.html">Carrie Lam, Hong Kong’s Leader, Won’t Seek Second Term</a> NYT: Carrie Lam, the territory’s chief executive, said Monday that she would not seek a second term. Her tenure was marked by protests, a contentious law and a devastating Covid outbreak. 
+ <p class="updated_time"> 11:47 AM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/release-of-secrets-represents-new-front-in-u-s-information-war-with-russia-11649070001">Release of Ukraine Intelligence Represents New Front in U.S. Information War With Russia</a> WSJ: Release of Ukraine Intelligence Represents New Front in U.S. Information War With Russia 
  <p class="updated_time"> 11:45 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60989905?at_medium=RSS&at_campaign=KARANGA">Ghana's President Nana Akufo-Addo: Mali's coup leaders not doing better against jihadists</a> BBC: Ghana's President Nana Akufo-Addo says the region will continue to oppose military takeovers. 
- <p class="updated_time"> 11:35 AM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/release-of-secrets-represents-new-front-in-u-s-information-war-with-russia-11649070001">Release of Ukraine Intelligence Represents New Front in U.S. Information War With Russia</a> WSJ: Release of Ukraine Intelligence Represents New Front in U.S. Information War With Russia 
  <p class="updated_time"> 11:33 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60989412?at_medium=RSS&at_campaign=KARANGA">Ukraine war: President Zelensky visits site of alleged atrocities in Bucha</a> BBC: The Ukrainian president says people have been found in barrels, having been strangled and tortured. 
  <p class="updated_time"> 11:26 AM CT, Apr. 04 </p> 
@@ -67,13 +69,13 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60988990?at_medium=RSS&at_campaign=KARANGA">US to seek more sanctions on 'war criminal' Putin</a> BBC: US President Biden spoke out against Putin, saying that Russia has appeared to commit war crimes in Bucha. 
  <p class="updated_time"> 10:55 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/africa/rwanda-paul-rusesabagina-sentence.html">Rwandan Court Declines to Extend Sentence for Paul Rusesabagina</a> NYT: Mr. Rusesabagina, who inspired the movie “Hotel Rwanda” and later lived in exile in the United States, had been given a 25-year term in a case condemned by human-rights groups. 
- <p class="updated_time"> 10:35 AM CT, Apr. 04 </p> 
+ <p class="updated_time"> 10:47 AM CT, Apr. 04 </p> 
  <a href="https://www.wsj.com/articles/shanghai-orders-snap-covid-tests-for-25-million-locked-down-residents-11649053546">Shanghai Extends Covid Lockdown as City Tests Its 25 Million Residents</a> WSJ: Shanghai Extends Covid Lockdown as City Tests Its 25 Million Residents 
  <p class="updated_time"> 10:28 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60981648?at_medium=RSS&at_campaign=KARANGA">Hungary election: Viktor Orban's victory hailed by Putin</a> BBC: Near-complete results show Viktor Orban has won a fourth term in Hungary's election by a landslide. 
  <p class="updated_time"> 10:17 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/asia/china-russia-ukraine.html">Bristling Against the West, China Rallies Domestic Sympathy for Russia</a> NYT: China’s Communist Party is mounting an ideological campaign aimed at officials and students. The message: The country will not turn its back on Russia. 
- <p class="updated_time"> 09:35 AM CT, Apr. 04 </p> 
+ <p class="updated_time"> 09:47 AM CT, Apr. 04 </p> 
  <a href="https://www.wsj.com/articles/oil-gas-russia-renewable-energy-solar-wind-power-europe-11649086062">Will the Ukraine War Push Countries Toward Renewable Energy? Yes—and No</a> WSJ: Will the Ukraine War Push Countries Toward Renewable Energy? Yes—and No 
  <p class="updated_time"> 09:27 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/supreme-court-pakistan-imran-khan.html">The Supreme Court hears a crucial case on Pakistan’s political crisis.</a> NYT: Opposition leaders have asked the court to allow a no-confidence vote to go forward, which would reignite efforts to oust the prime minister. 
@@ -153,8 +155,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/02/nyregion/new-york-hochul-second-boosters.html">Hochul Says Second Boosters Are Offered at New York Vaccination Sites</a> NYT: Government officials move to get ahead of an uptick in cases fueled by the highly transmissible Omciron subvariant. 
  <p class="updated_time"> 09:56 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/daniel-craig-macbeth.html">‘Macbeth’ performances on Broadway pause after Daniel Craig tests positive for the coronavirus.</a> NYT: The show, which just began previews on Tuesday, hopes to resume on April 8. 
- <p class="updated_time"> 09:30 AM CT, Apr. 03 </p> 
- <a href="https://www.nytimes.com/2022/04/03/world/europe/ukraine-military-volunteers.html">Why Some Foreign Volunteers Are Joining the Military in Ukraine</a> NYT: Ukraine has created a foreign legion, inviting foreigners with military experience to come and join the fight against Russia. 
  <p class="updated_time"> 08:59 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/europe/ukraine-war-russia-trostyanets.html">‘This Is True Barbarity’: Life  Under Russian Occupation</a> NYT: The town of Trostyanets was occupied by Russian forces for a month before the Ukrainian military liberated it. Residents described weeks of hunger and horror. 
  <p class="updated_time"> 08:34 AM CT, Apr. 03 </p> 
@@ -216,6 +216,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/04/us/politics/senate-covid-vaccines.html">Senators Propose Cutting Global Vaccine Funding in Covid Package</a> NYT: It is unclear whether such a move could gain approval from either chamber of Congress. 
  <p class="updated_time"> 01:35 PM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/nyc-to-recruit-lgbtq-floridians-billboard-campaign-00022734">NYC mayor uses 'Don't Say Gay' law to recruit LGBTQ Floridians with billboard campaign</a> Politico: Mayor Eric Adams has partnered with private companies to erect the digital billboards in Fort Lauderdale, Jacksonville, Orlando, Tampa and West Palm Beach for eight weeks. 
+ <p class="updated_time"> 01:27 PM CT, Apr. 04 </p> 
+ <a href="https://www.nytimes.com/video/us/politics/100000008287834/bucha-ukraine-russia-biden-war-crime.html">Biden Calls Putin a War Criminal After Images from Bucha Surface</a> NYT: President Biden said reports of indiscriminate killings of civilians in the town of Bucha, Ukraine, constituted a “war crime” and that President Vladimir V. Putin of Russia should face charges. 
  <p class="updated_time"> 12:47 PM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/russian-oligarch-superyacht-seized-00022731">Putin ally's superyacht seized in Spain on U.S. warrant</a> Politico: The seized vessel is Tango, a 254-foot luxury yacht estimated by the U.S. government to cost $90 million and said to be owned by Russian billionaire Viktor Vekselberg. 
  <p class="updated_time"> 12:46 PM CT, Apr. 04 </p> 
@@ -281,7 +283,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:10 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/us/politics/sufyian-barhoumi-guantanamo-bay.html">U.S. Sends Algerian Man Home From Guantánamo Bay After 5-Year Delay</a> NYT: The transfer had been arranged during the Obama administration but was put on pause under President Donald J. Trump. 
  <p class="updated_time"> 12:57 PM CT, Apr. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/02/us/politics/merrick-garland-biden-trump.html">Garland Faces Growing Pressure as Jan. 6 Investigation Widens</a> NYT: The inquiry is a test for President Biden and Attorney General Merrick B. Garland, who both came into office promising to restore the Justice Department’s independence. 
+ <a href="https://www.nytimes.com/2022/04/02/us/politics/merrick-garland-biden-trump.html">Why the Jan. 6 Investigation Is a Test for Biden and Merrick Garland</a> NYT: The inquiry is a test for President Biden and Attorney General Merrick B. Garland, who both came into office promising to restore the Justice Department’s independence. 
  <p class="updated_time"> 07:00 AM CT, Apr. 02 </p> 
  <a href="https://www.npr.org/2022/04/02/1090448719/week-in-politics-jobs-grow-biden-to-release-reserve-oil-logs-missing-on-jan-6">Week in politics: Jobs grow; Biden to release reserve oil; logs missing on Jan. 6</a> NPR: The U.S. economy continues to create new jobs at a rapid pace. President Biden taps the strategic petroleum reserve to lower gas prices. Also, the seven-hour gap in White House logs on Jan. 6, 2021. 
  <p class="updated_time"> 04:00 AM CT, Apr. 02 </p> 
@@ -318,8 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/01/biden-administration-to-end-controversial-border-policy-in-may-00022359">Biden administration to end controversial border policy in May</a> Politico: The Centers for Disease Control and Prevention, which invoked the controversial order in March 2020 to limit the spread of Covid-19, said the policy is no longer needed to protect public health. 
  <p class="updated_time"> 03:03 PM CT, Apr. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/01/us/politics/gop-demand-justice-jackson-hearings.html">Republicans Target Progressive Advocacy Group Amid Opposition to Jackson</a> NYT: Some Republicans have linked their criticism of President Biden’s Supreme Court nominee to the support she has received from Demand Justice, a group that wants to expand the court. 
- <p class="updated_time"> 02:38 PM CT, Apr. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/01/technology/amazon-labor-practices.html">House Committee Investigating Amazon Labor Practices</a> NYT: A tornado that hit a delivery station in Illinois last year will be a focus of the inquiry. 
 
 
 </details>
