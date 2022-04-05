@@ -9,34 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:17 AM CT, Apr. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/04/05/world/ukraine-russia-war">Ukraine Live Updates: Zelensky to Address U.N. as Toll of Atrocities Grows</a> NYT: Ukraine’s president said that over 300 people had been killed and tortured in a Kyiv suburb. As he prepared to speak to the Security Council, U.S. and European allies vowed to hold Russia accountable for the killings. 
+ <p class="updated_time"> 09:00 AM CT, Apr. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/05/world/ukraine-russia-war">Ukraine Live Updates: E.U. Moves to Ban Russian Coal; Zelensky to Address U.N.</a> NYT: The European Union said it was also working to ban Russian oil. As Ukraine’s president prepared to speak to the Security Council, U.S. and European allies vowed to hold Russia accountable for the reported killings of hundreds people in a Kyiv suburb. 
+ <p class="updated_time"> 08:42 AM CT, Apr. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/60981238?at_medium=RSS&at_campaign=KARANGA">Bucha killings: Satellite image of bodies site contradicts Russian claims</a> BBC: Russia called footage of bodies in Bucha 'staged' but its evidence for this does not stack up. 
+ <p class="updated_time"> 08:19 AM CT, Apr. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-60995694?at_medium=RSS&at_campaign=KARANGA">What are Elon Musk's plans for Twitter?</a> BBC: The Tesla founder has become the social network's biggest single shareholder, and a board member. 
+ <p class="updated_time"> 08:01 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/video/headline/24923B17-696B-41D1-975E-D14BAF095056.html">Images Show Russia Used Cluster Bombs, Hit Civilian Targets in Mariupol</a> WSJ: Images Show Russia Used Cluster Bombs, Hit Civilian Targets in Mariupol 
  <p class="updated_time"> 07:49 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/04/04/world/imran-khan-pakistan-news">Supreme Court Will Pick Up Imran Khan Case on Tuesday</a> NYT: The country’s top court will rule on Prime Minister Imran Khan’s move to dissolve Parliament and call new elections, as he tried to head off a no-confidence vote. 
  <p class="updated_time"> 07:42 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60991775?at_medium=RSS&at_campaign=KARANGA">British father and son, 9, killed in Australian mountain landslide</a> BBC: Two other family members, a woman, 50, and her 14-year-old son, are in hospital with critical injuries. 
- <p class="updated_time"> 07:32 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/video/headline/24923B17-696B-41D1-975E-D14BAF095056.html">Images Show Russia Used Cluster Bombs, Hit Civilian Targets in Mariupol</a> WSJ: Images Show Russia Used Cluster Bombs, Hit Civilian Targets in Mariupol 
  <p class="updated_time"> 07:20 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091005813/shanghai-lockdown-covid-surge">26 million people in Shanghai are locked down due to a surge in COVID cases</a> NPR: The COVID-19 outbreak in China's largest metropolis of Shanghai remains "extremely grim" amid an ongoing lockdown confining around 26 million people to their homes, a city official said Tuesday. 
  <p class="updated_time"> 07:12 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/war-crimes-russia-ukraine.html">What Are War Crimes, and How Are They Prosecuted?</a> NYT: World leaders have vowed to hold President Vladimir V. Putin responsible for any atrocities by Russian forces. Past experience shows such cases take years to build and prosecute. 
+ <p class="updated_time"> 07:01 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Zelensky to Address U.N. With Claims of Russian Atrocities</a> WSJ: Zelensky to Address U.N. With Claims of Russian Atrocities 
  <p class="updated_time"> 06:58 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60994848?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky fears worst atrocities still to be found</a> BBC: Ukraine's president says Borodyanka may have suffered more than other towns abandoned by Russian troops. 
  <p class="updated_time"> 06:36 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/africa/darfur-janjaweed-trial-icc.html">Darfur War Crimes Trial Begins in Hague</a> NYT: A brutal campaign against a rebellion in Western Sudan displaced millions and left the world aghast. Two decades later, the first and only war crimes trial has gotten underway. 
- <p class="updated_time"> 06:32 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Zelensky to Address U.N. With Claims of Russian Atrocities</a> WSJ: Zelensky to Address U.N. With Claims of Russian Atrocities 
  <p class="updated_time"> 06:25 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60993645?at_medium=RSS&at_campaign=KARANGA">EU eyes sanctions on Russian energy after alleged atrocities</a> BBC: Revelations of atrocities have added impetus to calls for further measures targeting Russian energy. 
  <p class="updated_time"> 06:08 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090837686/putin-war-crimes-prosecution-bucha">Charging Putin for potential war crimes is difficult, and any penalty hard to enforce</a> NPR: Neither Russia nor its president is likely to face an international tribunal — but that's not the only approach to war crimes, experts say. 
- <p class="updated_time"> 06:02 AM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/60981238?at_medium=RSS&at_campaign=KARANGA">Bucha killings: Satellite image of bodies site contradicts Russian claims</a> BBC: Russia called footage of bodies in Bucha 'staged' but its evidence for this does not stack up. 
+ <p class="updated_time"> 06:01 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">Europe to Target Russian Coal in Fresh Round of Sanctions</a> WSJ: Europe to Target Russian Coal in Fresh Round of Sanctions 
  <p class="updated_time"> 05:38 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090999672/russian-oligarch-yacht-seized">A Russian oligarch's $90 million yacht is seized as part of U.S. sanctions</a> NPR: "Today marks our taskforce's first seizure of an asset belonging to a sanctioned individual with close ties to the Russian regime. It will not be the last," said Attorney General Merrick Garland. 
- <p class="updated_time"> 05:32 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">Europe to Target Russian Coal in Fresh Round of Sanctions</a> WSJ: Europe to Target Russian Coal in Fresh Round of Sanctions 
  <p class="updated_time"> 05:30 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/sections/money/2022/04/05/1090920442/how-russia-rescued-the-ruble">How Russia rescued the ruble</a> NPR: The Russian ruble lost nearly half its value when Russia invaded Ukraine. Since then it has been the top performing currency in the world. 
  <p class="updated_time"> 05:15 AM CT, Apr. 05 </p> 
@@ -45,20 +47,20 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-60994022?at_medium=RSS&at_campaign=KARANGA">Shanghai Covid lockdown extended to entire city</a> BBC: China's financial hub is now subject to indefinite restrictions after Covid cases hit a new high. 
  <p class="updated_time"> 05:04 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-60993659?at_medium=RSS&at_campaign=KARANGA">Rare Sumatran rhino gives birth after eight miscarriages</a> BBC: The critically endangered Sumatran rhino gave birth to a female calf in an Indonesian sanctuary. 
+ <p class="updated_time"> 05:01 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-sanctions-hit-home-for-everyday-russians-11649118196">Ukraine War Sanctions Hit Home for Everyday Russians</a> WSJ: Ukraine War Sanctions Hit Home for Everyday Russians 
  <p class="updated_time"> 05:00 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090821103/ukrainian-children-are-still-in-school-despite-the-war">Millions of Ukrainian children are still in school despite the war</a> NPR: Ukraine's focus on maintaining education during a war is in line with an emerging philosophy of disaster response. 
  <p class="updated_time"> 04:39 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090994275/zelenskyy-to-speak-at-u-n-as-evidence-builds-of-war-crimes">Ukraine president to speak at U.N. amid growing accusations of war crimes </a> NPR: World leaders expressed outrage over reports of dead Ukrainian civilians — many of whom appear to have been executed — strewn about in Bucha, a city northwest of Kyiv. 
- <p class="updated_time"> 04:32 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-sanctions-hit-home-for-everyday-russians-11649118196">Ukraine War Sanctions Hit Home for Everyday Russians</a> WSJ: Ukraine War Sanctions Hit Home for Everyday Russians 
+ <p class="updated_time"> 04:01 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/taliban-crack-down-on-social-freedoms-with-even-stricter-policing-11649156657">Taliban Crack Down on Social Freedoms With Even Stricter Policing</a> WSJ: Taliban Crack Down on Social Freedoms With Even Stricter Policing 
  <p class="updated_time"> 04:00 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/climate/weather-forecast-data.html">Lack of Hydrogen and Helium Led to Fewer Weather Surveying Balloon Trips</a> NYT: Disruptions to supplies of hydrogen and helium have led the National Weather Service to cancel routine launches at some sites. 
  <p class="updated_time"> 04:00 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090955568/the-climate-cost-of-the-war-in-ukraine">How the war in Ukraine could speed up Europe's climate plans</a> NPR: There's concern the U.S. push to send more natural gas to Europe will increase climate warming emissions. But energy experts say the crisis might actually speed up the shift to cleaner energy. 
  <p class="updated_time"> 04:00 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1088634033/ukraine-refugees-piana-music-musician-russia-aid-medyka">Near the Polish border, a musician plays music to welcome those fleeing Ukraine</a> NPR: Refugees streaming across the border at the Medyka border crossing into Poland leave behind the air raid sirens and the sounds of war and are welcomed by musician Davide Martello. 
- <p class="updated_time"> 03:32 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/taliban-crack-down-on-social-freedoms-with-even-stricter-policing-11649156657">Taliban Crack Down on Social Freedoms With Even Stricter Policing</a> WSJ: Taliban Crack Down on Social Freedoms With Even Stricter Policing 
  <p class="updated_time"> 03:13 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60993655?at_medium=RSS&at_campaign=KARANGA">Peru inflation: Civilians and police clash in Peru protests</a> BBC: Protests have taken place across Peru, as oil, gas and toll road prices rise. 
  <p class="updated_time"> 02:00 AM CT, Apr. 05 </p> 
@@ -71,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/05/1090986114/world-bank-says-war-shocks-will-drag-on-asian-economies">World Bank says war shocks will drag on Asian economies</a> NPR: The development lending institution urges governments to lift restrictions on trade and services and to end fossil fuel subsidies to encourage adoption of more green energy technologies. 
  <p class="updated_time"> 11:20 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/ukraine-nova-basan-russia.html">‘Sitting at Home and Trembling.’ A Town Emerges After a Russian Retreat.</a> NYT: A local official said he was detained and interrogated by the Russians, and described what he called mock executions. 
- <p class="updated_time"> 10:45 PM CT, Apr. 04 </p> 
- <a href="https://www.bbc.co.uk/news/business-60991923?at_medium=RSS&at_campaign=KARANGA">Sri Lanka central bank to get new governor amid economic crisis</a> BBC: P Nandalal Weerasinghe told the BBC that he will take up the role of the bank's governor on Thursday. 
  <p class="updated_time"> 09:08 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/asia/sri-lanka-protests-rajapaksa.html">Sri Lanka Protesters Call for President to Resign After Cabinet Shuffle</a> NYT: The country’s Rajapaksa dynasty is facing its toughest challenge yet as protesters demand that the president step down amid a devastating economic crisis. 
  <p class="updated_time"> 08:45 PM CT, Apr. 04 </p> 
@@ -145,8 +145,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/03/world/asia/supreme-court-pakistan-imran-khan.html">The Supreme Court hears a crucial case on Pakistan’s political crisis.</a> NYT: Opposition leaders have asked the court to allow a no-confidence vote to go forward, which would reignite efforts to oust the prime minister. 
  <p class="updated_time"> 07:56 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/pakistan-opposition-shehbaz-sharif.html">Opposition Leaders Accuse Pakistan’s Imran Khan of High Treason</a> NYT: Shehbaz Sharif, the leader of the opposition, said Prime Minister Imran Khan had violated the Constitution. 
- <p class="updated_time"> 07:51 AM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/2022/04/03/world/asia/why-is-the-prime-minister-in-trouble.html">Why is the prime minister in trouble?</a> NYT: Pakistan has been gripped by a political crisis after Prime Minister Imran Khan appeared to lose support from the military and a coalition of opposition parties moved to vote him out of office. 
  <p class="updated_time"> 05:59 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60979688?at_medium=RSS&at_campaign=KARANGA">Imran Khan: What we know so far as PM's fate hangs in balance</a> BBC: The fate of Pakistan's prime minister - and the country - teeters on a decision by the Supreme Court. 
  <p class="updated_time"> 05:17 AM CT, Apr. 04 </p> 
