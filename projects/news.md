@@ -9,8 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:58 AM CT, Apr. 05 </p> 
+ <p class="updated_time"> 12:19 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/04/05/world/ukraine-russia-war">Ukraine Live Updates: Zelensky Describes Atrocities and Calls on U.N. to Act</a> NYT: “Now the world can see what Russia did in Bucha,” President Volodymyr Zelensky of Ukraine said of the slaughter of civilians, during a fiery speech to the U.N. Security Council in which he showed a graphic video of the aftermath. 
+ <p class="updated_time"> 12:18 PM CT, Apr. 05 </p> 
+ <a href="https://www.npr.org/2022/04/05/1091050554/zelenskyy-un-security-council-speech">Zelenskyy urges U.N. Security Council to boot Russia or dissolve for the world's sake</a> NPR: The Ukrainian president described the horrific scenes he saw in Bucha, calling it just one example of the destruction Russia has wrought. He urged the Security Council to hold Russia accountable. 
+ <p class="updated_time"> 12:13 PM CT, Apr. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/60981238?at_medium=RSS&at_campaign=KARANGA">Bucha killings: Satellite image of bodies site contradicts Russian claims</a> BBC: Russia called footage of bodies in Bucha 'staged' but its evidence for this does not stack up. 
+ <p class="updated_time"> 12:12 PM CT, Apr. 05 </p> 
+ <a href="https://www.nytimes.com/2022/04/05/world/europe/zelensky-russia-atrocities-ukraine.html">Zelensky Vilifies Russia Over Atrocities: ‘They Killed Entire Families’</a> NYT: The Ukrainian president delivered one of his most forceful denunciations of the invasion in a live video speech to the United Nations Security Council on Tuesday. 
  <p class="updated_time"> 11:46 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61002914?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky tells UN of horrors of Russian invasion</a> BBC: Ukraine's president says Russia must be held accountable for civilian deaths in northern Ukraine. 
  <p class="updated_time"> 11:35 AM CT, Apr. 05 </p> 
@@ -19,26 +25,26 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/05/1091010338/charles-darwin-notebooks-cambridge-library">Charles Darwin's missing notebooks have been returned more than 20 years later</a> NPR: The iconic notebooks, which include Darwin's 1837 Tree of Life sketch, were returned to the Cambridge University Library last month. 
  <p class="updated_time"> 11:32 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/canada/revenue-sharing-facebook-google.html">Canada to Require Tech Giants to Compensate News Publishers</a> NYT: The bill aims to compensate struggling news organizations and follows similar moves by Europe and Australia. 
+ <p class="updated_time"> 11:29 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</a> WSJ: Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes 
  <p class="updated_time"> 11:09 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61001565?at_medium=RSS&at_campaign=KARANGA">World Cup 2022: Russian football federation drops appeal against Fifa ban</a> BBC: Russia's football federation drops an appeal against Fifa's World Cup ban that was imposed after the country's invasion of Ukraine. 
  <p class="updated_time"> 11:06 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60999246?at_medium=RSS&at_campaign=KARANGA">Biden to host White House wedding reception for granddaughter</a> BBC: Biden's eldest granddaughter will get a wedding party at perhaps the most exclusive venue in the US. 
- <p class="updated_time"> 11:02 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</a> WSJ: Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes 
- <p class="updated_time"> 11:01 AM CT, Apr. 05 </p> 
- <a href="https://www.nytimes.com/2022/04/05/world/europe/zelensky-russia-atrocities-ukraine.html">Zelensky Vilifies Russia Over Atrocities: ‘They Killed Entire Families’</a> NYT: The Ukrainian president delivered one of his most forceful denunciations of the invasion in a live video speech to the United Nations Security Council on Tuesday. 
  <p class="updated_time"> 11:00 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/climate/epa-asbestos-ban.html">E.P.A. to Propose Restrictions on Asbestos</a> NYT: The agency aims to ban the manufacturing and import of a type of asbestos that is used in brake pads, gaskets and other automotive products and is linked to cancer. 
  <p class="updated_time"> 10:53 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/russia-ukraine-war-atrocities.html">Up-Close Ukraine Atrocity Photographs Touch a Global Nerve</a> NYT: The apparent execution of Ukrainian civilians by retreating Russian forces, their bodies strewn in streets and yards, has focused attention on what constitutes crimes in war. 
  <p class="updated_time"> 10:49 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61002622?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Many more cities like Bucha says President Zelensky</a> BBC: Volodymyr Zelensky addressed the UN Security Council for the first time since Russia invaded Ukraine. 
+ <p class="updated_time"> 10:29 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/eu-planning-to-sanction-two-of-putinsdaughters-in-latest-round-of-restrictions-11649174279">EU Planning to Sanction Two of Putin’s Daughters</a> WSJ: EU Planning to Sanction Two of Putin’s Daughters 
  <p class="updated_time"> 10:27 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/africa/darfur-janjaweed-trial-icc.html">Darfur War Crimes Trial Begins in Hague</a> NYT: A brutal campaign in western Sudan left the world aghast. Two decades later, the first and only Darfur war crimes trial opened for a man accused of leading the terrifying janjaweed militia. 
- <p class="updated_time"> 10:02 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/eu-planning-to-sanction-two-of-putinsdaughters-in-latest-round-of-restrictions-11649174279">EU Planning to Sanction Two of Putin’s Daughters</a> WSJ: EU Planning to Sanction Two of Putin’s Daughters 
  <p class="updated_time"> 09:56 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/hungary-orban-election-putin-ukraine.html">With a Neutral Stance on Ukraine, Viktor Orban Pulled in Voters</a> NYT: The Hungarian prime minister’s party also made a strong showing in Sunday’s election, though independent observers said the vote was tilted in the ruling party’s favor. 
+ <p class="updated_time"> 09:29 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611">Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine</a> WSJ: Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine 
  <p class="updated_time"> 09:20 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60997606?at_medium=RSS&at_campaign=KARANGA">Nigeria atheist Mubarak Bala jailed for blaspheming Islam</a> BBC: Mubarak Bala pleads guilty to 18 charges related to blaspheming Islam, a faith he renounced. 
  <p class="updated_time"> 09:19 AM CT, Apr. 05 </p> 
@@ -47,18 +53,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/05/world/europe/un-security-council-russia-ukraine.html">Zelensky to Speak at U.N. Security Council Meeting on Russia</a> NYT: Mr. Zelensky was expected to make the case that Russian forces have committed war crimes, as evidence emerges of civilian killings in the suburbs of Kyiv. 
  <p class="updated_time"> 09:04 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/04/04/world/imran-khan-pakistan-news">Supreme Court Will Pick Up Imran Khan Case on Tuesday</a> NYT: The country’s top court will rule on Prime Minister Imran Khan’s move to dissolve Parliament and call new elections, as he tried to head off a no-confidence vote. 
- <p class="updated_time"> 09:02 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611">Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine</a> WSJ: Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine 
  <p class="updated_time"> 09:01 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/macron-france-election-hometown.html">For Macron, France’s Troubled Industries Hit Home</a> NYT: President Emmanuel Macron vowed an economic revival, but as he seeks re-election, a Potemkin factory in the town where he was raised shows just how hard that can be. 
  <p class="updated_time"> 08:58 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60997602?at_medium=RSS&at_campaign=KARANGA">Mali troops and suspected Russian fighters accused of massacre</a> BBC: About 300 people were killed during an operation against militant Islamists, a rights group says. 
- <p class="updated_time"> 08:42 AM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/60981238?at_medium=RSS&at_campaign=KARANGA">Bucha killings: Satellite image of bodies site contradicts Russian claims</a> BBC: Russia called footage of bodies in Bucha 'staged' but its evidence for this does not stack up. 
+ <p class="updated_time"> 08:29 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/a-quarter-of-africans-face-food-security-crisis-partly-due-to-ukraine-war-red-cross-says-11649176087">A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says</a> WSJ: A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says 
  <p class="updated_time"> 08:19 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60995694?at_medium=RSS&at_campaign=KARANGA">What are Elon Musk's plans for Twitter?</a> BBC: The Tesla founder has become the social network's biggest single shareholder, and a board member. 
- <p class="updated_time"> 08:02 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/a-quarter-of-africans-face-food-security-crisis-partly-due-to-ukraine-war-red-cross-says-11649176087">A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says</a> WSJ: A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says 
  <p class="updated_time"> 07:44 AM CT, Apr. 05 </p> 
  <a href="https://www.wsj.com/articles/already-stalled-in-u-s-global-minimum-tax-hits-european-roadblock-11649173956">Already Stalled In U.S., Global Minimum Tax Hits European Roadblock</a> WSJ: Poland has vetoed an EU plan to implement a 15% minimum tax rate by the end of 2023, leaving an international overhaul agreed upon last year in limbo. 
  <p class="updated_time"> 07:42 AM CT, Apr. 05 </p> 
@@ -67,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/05/1091005813/shanghai-lockdown-covid-surge">26 million people in Shanghai are locked down due to a surge in COVID cases</a> NPR: The COVID-19 outbreak in China's largest metropolis of Shanghai remains "extremely grim" amid an ongoing lockdown confining around 26 million people to their homes, a city official said Tuesday. 
  <p class="updated_time"> 07:12 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/war-crimes-russia-ukraine.html">What Are War Crimes, and How Are They Prosecuted?</a> NYT: World leaders have vowed to hold President Vladimir V. Putin responsible for any atrocities by Russian forces. Past experience shows such cases take years to build and prosecute. 
- <p class="updated_time"> 07:10 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-quietly-receives-tanks-from-czech-republic-to-support-war-effort-11649160666">Ukraine Quietly Receives Tanks From Czech Republic to Support War Effort</a> WSJ: The move marks the first time a foreign country has provided tanks to Ukraine. 
  <p class="updated_time"> 06:45 AM CT, Apr. 05 </p> 
  <a href="https://www.wsj.com/articles/covid-cases-in-china-hit-record-as-shanghai-extends-lockdown-11649154418">Covid Cases in China Hit Record, as Shanghai Extends Lockdown</a> WSJ: The country recorded more than 16,400 new Covid cases, over 80% of which were in Shanghai, where millions of people are confined to their homes. 
  <p class="updated_time"> 06:08 AM CT, Apr. 05 </p> 
@@ -95,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/05/1088634033/ukraine-refugees-piana-music-musician-russia-aid-medyka">Near the Polish border, a musician plays music to welcome those fleeing Ukraine</a> NPR: Refugees streaming across the border at the Medyka border crossing into Poland leave behind the air raid sirens and the sounds of war and are welcomed by musician Davide Martello. 
  <p class="updated_time"> 03:13 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60993655?at_medium=RSS&at_campaign=KARANGA">Peru inflation: Civilians and police clash in Peru protests</a> BBC: Protests have taken place across Peru, as oil, gas and toll road prices rise. 
- <p class="updated_time"> 02:04 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/taliban-crack-down-on-social-freedoms-with-even-stricter-policing-11649156657">Taliban Crack Down on Social Freedoms With Even Stricter Policing</a> WSJ: The Taliban have in recent weeks introduced draconian social restrictions, which in particular curb the freedoms of women, even as the group seeks international recognition. 
  <p class="updated_time"> 12:58 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090989328/australia-steps-up-missile-upgrade-due-to-growing-threats-from-china-and-russia">Australia steps up missile upgrade due to growing threats from China and Russia</a> NPR: The country's defense minister cites both the Russia-Ukraine war and China for accelerating the rearming of fighter jets and warships. 
  <p class="updated_time"> 11:29 PM CT, Apr. 04 </p> 
@@ -135,8 +133,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/04/1090920002/how-a-ukrainian-hospital-still-recovering-from-covid-pivoted-to-a-new-crisis-war">How a Ukrainian hospital, still recovering from COVID, pivoted to a new crisis: war</a> NPR: Once war began in Ukraine, COVID ceased being the top-level medical concern. NPR's Scott Detrow spent 24 hours with a doctor doing everything he can to help with a whole new overwhelming crisis. 
  <p class="updated_time"> 03:23 PM CT, Apr. 04 </p> 
  <a href="https://www.npr.org/2022/04/04/1090919974/human-rights-watch-s-yulia-gorbunova-on-cases-of-alleged-war-crimes-by-russian-f">Human Rights Watch's Yulia Gorbunova on cases of alleged war crimes by Russian forces</a> NPR: NPR's Scott Detrow speaks with Yulia Gorbunova, a researcher with Humans Rights Watch, about her reporting of alleged human rights violations in Russia-controlled areas of Ukraine. 
- <p class="updated_time"> 03:23 PM CT, Apr. 04 </p> 
- <a href="https://www.npr.org/2022/04/04/1090919960/the-crisis-in-ukraine-could-speed-up-the-shift-to-cleaner-energy">The crisis in Ukraine could speed up the shift to cleaner energy</a> NPR: There's concern that the U.S. push to send more natural gas to Europe will come at a cost to the climate. But experts say the Ukraine crisis may actually invigorate efforts around sustainable energy. 
  <p class="updated_time"> 02:50 PM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60989415?at_medium=RSS&at_campaign=KARANGA">Curious owl inspects TV weather station camera</a> BBC: The camera in Great Falls, Montana, captured the moment the bird peeked into its lens. 
  <p class="updated_time"> 02:40 PM CT, Apr. 04 </p> 
@@ -196,6 +192,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:23 PM CT, Apr. 05 </p> 
+ <a href="https://www.npr.org/2022/04/05/1091043231/obama-biden-white-house-aca">Former President Obama set to visit the White House for the first time in 5 years </a> NPR: Former President Obama will join President Biden at the White House Tuesday as Biden unveils new actions meant to expand the Affordable Care Act. 
+ <p class="updated_time"> 12:18 PM CT, Apr. 05 </p> 
+ <a href="https://www.npr.org/2022/04/05/1091050554/zelenskyy-un-security-council-speech">Zelenskyy urges U.N. Security Council to boot Russia or dissolve for the world's sake</a> NPR: The Ukrainian president described the horrific scenes he saw in Bucha, calling it just one example of the destruction Russia has wrought. He urged the Security Council to hold Russia accountable. 
+ <p class="updated_time"> 12:04 PM CT, Apr. 05 </p> 
+ <a href="https://www.politico.com/news/2022/04/05/epa-moves-ban-asbestos-00022900">EPA moves to ban asbestos after decades of failures</a> Politico: It is the first time EPA has flexed its regulatory muscles under the revamped Toxic Substances Control Act. 
+ <p class="updated_time"> 12:01 PM CT, Apr. 05 </p> 
+ <a href="https://www.politico.com/news/2022/04/05/white-house-to-extend-the-student-loan-moratorium-once-again-00023072">White House to extend the student loan moratorium once again</a> Politico: Officials are eying an extension through August. 
  <p class="updated_time"> 11:56 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/us/politics/ivanka-trump-jan-6.html">Ivanka Trump to Testify to House Panel Investigating Jan. 6 Attack</a> NYT: The former president’s daughter and adviser was in the West Wing with him as a pro-Trump mob stormed the Capitol. She is said to have tried to persuade him to call off the rioters. 
  <p class="updated_time"> 11:54 AM CT, Apr. 05 </p> 
@@ -262,28 +266,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/04/us/politics/naomi-biden-white-house-wedding-reception.html">Bidens Will Host a White House Wedding Reception for Their Granddaughter</a> NYT: Naomi Biden, 28, the daughter of Hunter Biden and Kathleen Buhle, will marry Peter Neal, 24, this fall. 
  <p class="updated_time"> 06:32 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/us/politics/senate-covid-vaccines.html">Senators Propose Cutting Global Vaccine Funding in Covid Package</a> NYT: The $10 billion package does not include funds for the global vaccination effort, frustrating some Democrats. 
- <p class="updated_time"> 04:36 PM CT, Apr. 04 </p> 
- <a href="https://www.politico.com/news/2022/04/04/trump-asks-judge-to-recuse-from-racketeering-suit-against-hillary-clinton-00022832">Trump asks judge to recuse from racketeering suit against Hillary Clinton</a> Politico: Trump lawyers say the Bill Clinton-appointed jurist shouldn't handle the case over Russia 2016 election claims. 
  <p class="updated_time"> 04:20 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/us/politics/maryland-redistricting-larry-hogan.html">Gov. Larry Hogan Approves New Maryland Congressional Map</a> NYT: Drawn by Democrats and approved by a Republican governor, the new map will most likely result in a similar delegation to the state’s current one. 
  <p class="updated_time"> 04:04 PM CT, Apr. 04 </p> 
  <a href="https://www.npr.org/2022/04/04/1090851859/russia-ukraine-war-what-happened-today-april-4">Russia-Ukraine war: What happened today (April 4)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:56 PM CT, Apr. 04 </p> 
  <a href="https://www.npr.org/2022/04/04/1089666567/senators-reach-10-billion-deal-on-covid-funds">Senators reach $10 billion deal on COVID funds</a> NPR: Senate Majority Leader Chuck Schumer wants to expedite the vote to get the money approved by Congress before the Easter break. 
+ <p class="updated_time"> 03:50 PM CT, Apr. 04 </p> 
+ <a href="https://www.politico.com/news/2022/04/04/ukraine-massacre-u-s-allies-punish-putin-00022824">Ukraine massacre has U.S. and allies seeking new ways to punish Putin</a> Politico: As Western leaders express outrage, Ukrainian officials call for the “most severe sanctions” in wake of alleged war crimes. 
  <p class="updated_time"> 03:23 PM CT, Apr. 04 </p> 
  <a href="https://www.npr.org/2022/04/04/1090919946/sen-cory-booker-says-we-are-witnessing-a-jackie-robinson-moment-for-our-nation">Sen. Cory Booker says we are witnessing 'a Jackie Robinson moment for our nation'</a> NPR: NPR's Ailsa Chang speaks with New Jersey Sen. Cory Booker, a Democrat who sits on the Senate Judiciary Committee, about the nomination of Judge Ketanji Brown Jackson for a seat in the Supreme Court. 
- <p class="updated_time"> 03:23 PM CT, Apr. 04 </p> 
- <a href="https://www.npr.org/2022/04/04/1090919925/u-s-ambassador-to-the-un-seeks-to-remove-russia-from-the-un-human-rights-council">U.S. ambassador to the U.N. calls for suspending Russia from the Human Rights Council</a> NPR: Linda Thomas-Greenfield told NPR's Michel Martin that Russia should be held to a higher standard as a permanent member of the Security Council, and vowed to hold the country accountable. 
+ <p class="updated_time"> 02:36 PM CT, Apr. 04 </p> 
+ <a href="https://www.politico.com/news/2022/04/04/biden-obamacare-family-glitch-coverage-00022798">Biden admin plots to fix Obamacare's 'family glitch,' expand coverage</a> Politico: The move would target loophole that keeps about 5 million people from qualifying for subsidized health plans 
  <p class="updated_time"> 02:20 PM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/florida-democrats-latino-voters-00022601">Florida Democrats want to win back Latino voters. It could be too late.</a> Politico: One professor called Democrats’ approach to Hispanic voters “wrought with entitlement.” 
- <p class="updated_time"> 02:20 PM CT, Apr. 04 </p> 
- <a href="https://www.politico.com/news/2022/04/04/florida-republican-gender-care-child-abuse-00022738">Florida Republican pledges to make gender transition-related medical care for minors felony child abuse</a> Politico: Florida’s 2023 session is currently some 11 months away. Fine’s term — along with Florida’s 160 legislative seats — are up for election in November. 
  <p class="updated_time"> 02:10 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/us/politics/supreme-court-police-malicious-prosecution.html">Supreme Court Rules Against Police in Malicious Prosecution Case</a> NYT: Plaintiffs need show only that the charges against them were dropped, the majority said, to satisfy a requirement that they had obtained a “favorable termination” of the prosecution. 
+ <p class="updated_time"> 12:47 PM CT, Apr. 04 </p> 
+ <a href="https://www.politico.com/news/2022/04/04/russian-oligarch-superyacht-seized-00022731">Putin ally's superyacht seized in Spain on U.S. warrant</a> Politico: The seized vessel is Tango, a 254-foot luxury yacht estimated by the U.S. government to cost $90 million and said to be owned by Russian billionaire Viktor Vekselberg. 
  <p class="updated_time"> 12:46 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/us/politics/ice-immigration-cases.html">ICE Lawyers Directed to Clear Low-Priority Immigration Cases</a> NYT: The effort could significantly reduce a backlog of asylum and deportation cases as the Biden administration anticipates a huge surge of migrants crossing the border. 
- <p class="updated_time"> 12:13 PM CT, Apr. 04 </p> 
- <a href="https://www.npr.org/2022/04/04/1090835656/orban-vucic-hungary-serbia-reelection-pro-putin-russia">Pro-Putin leaders in Hungary and Serbia win reelection as Europe grapples with war</a> NPR: Hungary's Prime Minister Viktor Orban easily sailed to victory against a coalition of political opponents from the left and right, while Serbian President Aleksandar Vucic won a second term. 
  <p class="updated_time"> 12:13 PM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/senate-strikes-10b-covid-deal-00022729">Senate strikes $10B Covid deal</a> Politico: The agreement leaves out global pandemic aid, a possible hurdle for Democratic support in the House. 
  <p class="updated_time"> 11:54 AM CT, Apr. 04 </p> 
@@ -302,16 +304,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/04/us/politics/supreme-court-personal-precedents.html">The Problem of ‘Personal Precedents’ of Supreme Court Justices</a> NYT: Their efforts to seem consistent can clash with respect for precedent in the usual sense. But a new article argues that personal precedents have a role to play as legal building blocks. 
  <p class="updated_time"> 03:30 AM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/dems-party-line-spending-manchin-00022362">Dems plot spring sprint for party-line spending deal with Manchin</a> Politico: Senate Majority Leader Chuck Schumer says the resuscitation of the bill once called Build Back Better is a “high priority” for his caucus. But a revival won't be easy. 
- <p class="updated_time"> 02:08 PM CT, Apr. 03 </p> 
- <a href="https://www.politico.com/news/2022/04/03/ukraine-accuses-russia-massacre-00022595">Ukraine accuses Russia of massacre, city strewn with bodies</a> Politico: A slew of European leaders condemned the atrocities and called for tougher sanctions against Moscow. 
  <p class="updated_time"> 11:50 AM CT, Apr. 03 </p> 
  <a href="https://www.politico.com/news/2022/04/03/jamie-raskin-jan6-white-house-logs-00022581">Jamie Raskin: Gap in Jan. 6 White House logs of 'intense interest' to select committee</a> Politico: The Maryland Democrat said the House committee wants to be able to tell the full story of that day. 
  <p class="updated_time"> 10:08 AM CT, Apr. 03 </p> 
  <a href="https://www.politico.com/news/2022/04/03/roy-blunt-ketanji-brown-jackson-00022574">Blunt says Jackson will make history, but he won't vote for her</a> Politico: “I think she’s certainly going to be confirmed," the Missouri senator said. 
  <p class="updated_time"> 09:35 AM CT, Apr. 03 </p> 
  <a href="https://www.politico.com/news/2022/04/03/klain-hunter-biden-ethics-00022568">Biden 'confident' his son didn't break the law, White House chief of staff says</a> Politico: "The president is confident that his family did the right thing," Ron Klain said. 
- <p class="updated_time"> 06:00 AM CT, Apr. 03 </p> 
- <a href="https://www.politico.com/news/2022/04/03/ukraine-u-s-west-war-biden-putin-00022545">Ukraine drain: U.S. aims to hold West together as war slogs on</a> Politico: The war has gone better for Ukraine than anyone imagined. But that may mean tough months ahead. 
  <p class="updated_time"> 01:10 PM CT, Apr. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/02/us/politics/sufyian-barhoumi-guantanamo-bay.html">U.S. Sends Algerian Man Home From Guantánamo Bay After 5-Year Delay</a> NYT: The transfer had been arranged during the Obama administration but was put on pause under President Donald J. Trump. 
  <p class="updated_time"> 12:57 PM CT, Apr. 02 </p> 
