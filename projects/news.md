@@ -9,32 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:49 AM CT, Apr. 05 </p> 
+ <p class="updated_time"> 08:17 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/04/05/world/ukraine-russia-war">Ukraine Live Updates: Zelensky to Address U.N. as Toll of Atrocities Grows</a> NYT: Ukraine’s president said that over 300 people had been killed and tortured in a Kyiv suburb. As he prepared to speak to the Security Council, U.S. and European allies vowed to hold Russia accountable for the killings. 
  <p class="updated_time"> 07:49 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/04/04/world/imran-khan-pakistan-news">Supreme Court Will Pick Up Imran Khan Case on Tuesday</a> NYT: The country’s top court will rule on Prime Minister Imran Khan’s move to dissolve Parliament and call new elections, as he tried to head off a no-confidence vote. 
  <p class="updated_time"> 07:42 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60991775?at_medium=RSS&at_campaign=KARANGA">British father and son, 9, killed in Australian mountain landslide</a> BBC: Two other family members, a woman, 50, and her 14-year-old son, are in hospital with critical injuries. 
+ <p class="updated_time"> 07:32 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/video/headline/24923B17-696B-41D1-975E-D14BAF095056.html">Images Show Russia Used Cluster Bombs, Hit Civilian Targets in Mariupol</a> WSJ: Images Show Russia Used Cluster Bombs, Hit Civilian Targets in Mariupol 
  <p class="updated_time"> 07:20 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091005813/shanghai-lockdown-covid-surge">26 million people in Shanghai are locked down due to a surge in COVID cases</a> NPR: The COVID-19 outbreak in China's largest metropolis of Shanghai remains "extremely grim" amid an ongoing lockdown confining around 26 million people to their homes, a city official said Tuesday. 
  <p class="updated_time"> 07:12 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/war-crimes-russia-ukraine.html">What Are War Crimes, and How Are They Prosecuted?</a> NYT: World leaders have vowed to hold President Vladimir V. Putin responsible for any atrocities by Russian forces. Past experience shows such cases take years to build and prosecute. 
  <p class="updated_time"> 06:58 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60994848?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky fears worst atrocities still to be found</a> BBC: Ukraine's president says Borodyanka may have suffered more than other towns abandoned by Russian troops. 
- <p class="updated_time"> 06:58 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/video/headline/24923B17-696B-41D1-975E-D14BAF095056.html">Images Show Russia Used Cluster Bombs, Hit Civilian Targets in Mariupol</a> WSJ: Images Show Russia Used Cluster Bombs, Hit Civilian Targets in Mariupol 
  <p class="updated_time"> 06:36 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/africa/darfur-janjaweed-trial-icc.html">Darfur War Crimes Trial Begins in Hague</a> NYT: A brutal campaign against a rebellion in Western Sudan displaced millions and left the world aghast. Two decades later, the first and only war crimes trial has gotten underway. 
+ <p class="updated_time"> 06:32 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Zelensky to Address U.N. With Claims of Russian Atrocities</a> WSJ: Zelensky to Address U.N. With Claims of Russian Atrocities 
  <p class="updated_time"> 06:25 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60993645?at_medium=RSS&at_campaign=KARANGA">EU eyes sanctions on Russian energy after alleged atrocities</a> BBC: Revelations of atrocities have added impetus to calls for further measures targeting Russian energy. 
  <p class="updated_time"> 06:08 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090837686/putin-war-crimes-prosecution-bucha">Charging Putin for potential war crimes is difficult, and any penalty hard to enforce</a> NPR: Neither Russia nor its president is likely to face an international tribunal — but that's not the only approach to war crimes, experts say. 
  <p class="updated_time"> 06:02 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/60981238?at_medium=RSS&at_campaign=KARANGA">Bucha killings: Satellite image of bodies site contradicts Russian claims</a> BBC: Russia called footage of bodies in Bucha 'staged' but its evidence for this does not stack up. 
- <p class="updated_time"> 05:58 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Zelensky to Address U.N. With Claims of Russian Atrocities</a> WSJ: Zelensky to Address U.N. With Claims of Russian Atrocities 
  <p class="updated_time"> 05:38 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090999672/russian-oligarch-yacht-seized">A Russian oligarch's $90 million yacht is seized as part of U.S. sanctions</a> NPR: "Today marks our taskforce's first seizure of an asset belonging to a sanctioned individual with close ties to the Russian regime. It will not be the last," said Attorney General Merrick Garland. 
+ <p class="updated_time"> 05:32 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">Europe to Target Russian Coal in Fresh Round of Sanctions</a> WSJ: Europe to Target Russian Coal in Fresh Round of Sanctions 
  <p class="updated_time"> 05:30 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/sections/money/2022/04/05/1090920442/how-russia-rescued-the-ruble">How Russia rescued the ruble</a> NPR: The Russian ruble lost nearly half its value when Russia invaded Ukraine. Since then it has been the top performing currency in the world. 
  <p class="updated_time"> 05:15 AM CT, Apr. 05 </p> 
@@ -45,22 +47,20 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60993659?at_medium=RSS&at_campaign=KARANGA">Rare Sumatran rhino gives birth after eight miscarriages</a> BBC: The critically endangered Sumatran rhino gave birth to a female calf in an Indonesian sanctuary. 
  <p class="updated_time"> 05:00 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090821103/ukrainian-children-are-still-in-school-despite-the-war">Millions of Ukrainian children are still in school despite the war</a> NPR: Ukraine's focus on maintaining education during a war is in line with an emerging philosophy of disaster response. 
- <p class="updated_time"> 04:58 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">Europe to Target Russian Coal in Fresh Round of Sanctions</a> WSJ: Europe to Target Russian Coal in Fresh Round of Sanctions 
  <p class="updated_time"> 04:39 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090994275/zelenskyy-to-speak-at-u-n-as-evidence-builds-of-war-crimes">Ukraine president to speak at U.N. amid growing accusations of war crimes </a> NPR: World leaders expressed outrage over reports of dead Ukrainian civilians — many of whom appear to have been executed — strewn about in Bucha, a city northwest of Kyiv. 
+ <p class="updated_time"> 04:32 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-sanctions-hit-home-for-everyday-russians-11649118196">Ukraine War Sanctions Hit Home for Everyday Russians</a> WSJ: Ukraine War Sanctions Hit Home for Everyday Russians 
  <p class="updated_time"> 04:00 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/climate/weather-forecast-data.html">Lack of Hydrogen and Helium Led to Fewer Weather Surveying Balloon Trips</a> NYT: Disruptions to supplies of hydrogen and helium have led the National Weather Service to cancel routine launches at some sites. 
  <p class="updated_time"> 04:00 AM CT, Apr. 05 </p> 
- <a href="https://www.npr.org/2022/04/05/1090955568/the-climate-cost-of-the-war-in-ukraine">The climate cost of the war in Ukraine </a> NPR: There's concern the U.S. push to send more natural gas to Europe will increase climate warming emissions. But energy experts say the crisis might actually speed up the shift to cleaner energy. 
+ <a href="https://www.npr.org/2022/04/05/1090955568/the-climate-cost-of-the-war-in-ukraine">How the war in Ukraine could speed up Europe's climate plans</a> NPR: There's concern the U.S. push to send more natural gas to Europe will increase climate warming emissions. But energy experts say the crisis might actually speed up the shift to cleaner energy. 
  <p class="updated_time"> 04:00 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1088634033/ukraine-refugees-piana-music-musician-russia-aid-medyka">Near the Polish border, a musician plays music to welcome those fleeing Ukraine</a> NPR: Refugees streaming across the border at the Medyka border crossing into Poland leave behind the air raid sirens and the sounds of war and are welcomed by musician Davide Martello. 
- <p class="updated_time"> 03:58 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-sanctions-hit-home-for-everyday-russians-11649118196">Ukraine War Sanctions Hit Home for Everyday Russians</a> WSJ: Ukraine War Sanctions Hit Home for Everyday Russians 
+ <p class="updated_time"> 03:32 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/taliban-crack-down-on-social-freedoms-with-even-stricter-policing-11649156657">Taliban Crack Down on Social Freedoms With Even Stricter Policing</a> WSJ: Taliban Crack Down on Social Freedoms With Even Stricter Policing 
  <p class="updated_time"> 03:13 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60993655?at_medium=RSS&at_campaign=KARANGA">Peru inflation: Civilians and police clash in Peru protests</a> BBC: Protests have taken place across Peru, as oil, gas and toll road prices rise. 
- <p class="updated_time"> 02:58 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/taliban-crack-down-on-social-freedoms-with-even-stricter-policing-11649156657">Taliban Crack Down on Social Freedoms With Even Stricter Policing</a> WSJ: Taliban Crack Down on Social Freedoms With Even Stricter Policing 
  <p class="updated_time"> 02:00 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/russia-ukraine-war-atrocities.html">Up-Close Ukraine Atrocity Photographs Touch a Global Nerve</a> NYT: The apparent execution of Ukrainian civilians by retreating Russian forces, their bodies strewn in streets and yards, has focused attention on what constitutes crimes in war. 
  <p class="updated_time"> 12:58 AM CT, Apr. 05 </p> 
@@ -205,7 +205,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:11 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090992285/morning-news-brief">News brief: war crimes probe, COVID relief deal, Sri Lanka protests</a> NPR: Ukraine's president will address the U.N. Security Council. Senators reach a $10 billion deal on additional COVID funds. Protesters in Sri Lanka demand the president resign amid an economic crisis. 
  <p class="updated_time"> 04:00 AM CT, Apr. 05 </p> 
- <a href="https://www.npr.org/2022/04/05/1090955568/the-climate-cost-of-the-war-in-ukraine">The climate cost of the war in Ukraine </a> NPR: There's concern the U.S. push to send more natural gas to Europe will increase climate warming emissions. But energy experts say the crisis might actually speed up the shift to cleaner energy. 
+ <a href="https://www.npr.org/2022/04/05/1090955568/the-climate-cost-of-the-war-in-ukraine">How the war in Ukraine could speed up Europe's climate plans</a> NPR: There's concern the U.S. push to send more natural gas to Europe will increase climate warming emissions. But energy experts say the crisis might actually speed up the shift to cleaner energy. 
  <p class="updated_time"> 03:30 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/build-back-center-biden-2022-midterms-00022789">Build Back Center: Biden plows a revamped lane for the midterms</a> Politico: As he nears the 2022 stretch run, the president is emphasizing deficit reduction, policing funding and taxing the rich. 
  <p class="updated_time"> 03:30 AM CT, Apr. 05 </p> 
@@ -214,6 +214,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/05/election-conspiracy-theories-green-bay-trump-00022946">How election conspiracy theories turned local politics ‘toxic’ in one Wisconsin city</a> Politico: Green Bay has turned into an example of how Donald Trump's unfounded conspiracy theories about the 2020 election have eroded faith in local government. 
  <p class="updated_time"> 03:30 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/doug-jones-ketanji-brown-jackson-scotus-00022891">Jackson confirmation battle rejuvenates Doug Jones</a> Politico: The former Democratic senator is guiding the first Black woman tapped for the Supreme Court. His one-time colleagues wonder if there's more to come. 
+ <p class="updated_time"> 03:06 AM CT, Apr. 05 </p> 
+ <a href="https://www.cnn.com/2022/04/04/politics/ketanji-brown-jackson-committee-vote/index.html">Supreme Court nominee Ketanji Brown Jackson expected to be confirmed this week</a> CNN: Judge Ketanji Brown Jackson is expected to be confirmed as the first Black woman Supreme Court justice this week, after a bipartisan group of senators voted on Monday to advance her nomination. 
  <p class="updated_time"> 11:20 PM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/05/amy-coney-barrett-speech-justice-00022964">With divisive Supreme Court rulings coming, Barrett says: ‘Read the opinion’</a> Politico: She said that judges are not deciding cases to impose a “policy result." 
  <p class="updated_time"> 10:45 PM CT, Apr. 04 </p> 
@@ -266,10 +268,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/04/senate-confirm-jackson-gop-00022673">Senate overcomes GOP hurdle to advance Jackson</a> Politico: Three Republicans joined all Democrats to move forward on her nomination, despite a tied vote in the Judiciary Committee. 
  <p class="updated_time"> 09:35 AM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/progressives-manchin-fossil-fuel-climate-00022351">'Swallowing a toad': Progressives warm to Manchin's fossil fuel demands to clinch climate package</a> Politico: Voters' frustration with high energy prices and the likelihood that Democrats will lose control of the House in November have made progressives more open to a deal. 
- <p class="updated_time"> 09:31 AM CT, Apr. 04 </p> 
- <a href="https://www.cnn.com/2022/03/03/politics/putin-war-crimes-russia-ukraine-us-what-matters/index.html">Here's how war crimes prosecutions work</a> CNN: Shocking atrocities in Ukraine, allegedly at the hands of Russian forces, have amplified calls to pursue war crimes charges against Russian President Vladimir Putin. 
  <p class="updated_time"> 08:56 AM CT, Apr. 04 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 08:06 AM CT, Apr. 04 </p> 
+ <a href="https://www.cnn.com/2022/04/04/politics/ukraine-images-russia-invasion-what-matters/index.html">Images of dead civilians in Ukraine shake the world</a> CNN: "This is genocide." 
  <p class="updated_time"> 07:01 AM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/joe-biden-strategists-advertising-firm-00022472">Top Biden strategists launch new advertising firm</a> Politico: The strategists have handled over $1 billion in paid media for the Biden campaign and allied entities. 
  <p class="updated_time"> 06:22 AM CT, Apr. 04 </p> 
@@ -286,8 +288,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/03/ukraine-accuses-russia-massacre-00022595">Ukraine accuses Russia of massacre, city strewn with bodies</a> Politico: A slew of European leaders condemned the atrocities and called for tougher sanctions against Moscow. 
  <p class="updated_time"> 11:50 AM CT, Apr. 03 </p> 
  <a href="https://www.politico.com/news/2022/04/03/jamie-raskin-jan6-white-house-logs-00022581">Jamie Raskin: Gap in Jan. 6 White House logs of 'intense interest' to select committee</a> Politico: The Maryland Democrat said the House committee wants to be able to tell the full story of that day. 
- <p class="updated_time"> 11:44 AM CT, Apr. 03 </p> 
- <a href="https://www.cnn.com/2022/04/02/politics/ketanji-brown-jackson-diversity-federal-bench-black-judges/index.html">Ketanji Brown Jackson's nomination brings renewed attention to lack of Black judges on the federal bench</a> CNN: As the nomination of Ketanji Brown Jackson to the Supreme Court has ignited a discussion about the historic lack of diversity on the nation's highest court, her ascendance has also renewed focus on the absence of Black judges on the federal judiciary's lower courts. 
  <p class="updated_time"> 10:08 AM CT, Apr. 03 </p> 
  <a href="https://www.politico.com/news/2022/04/03/roy-blunt-ketanji-brown-jackson-00022574">Blunt says Jackson will make history, but he won't vote for her</a> Politico: “I think she’s certainly going to be confirmed," the Missouri senator said. 
  <p class="updated_time"> 09:35 AM CT, Apr. 03 </p> 
