@@ -9,8 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:26 AM CT, Apr. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/05/world/ukraine-russia-war">Ukraine Live Updates: E.U. Moves to Ban Russian Coal; Zelensky to Address U.N.</a> NYT: The European Union said it was also working to ban Russian oil. As Ukraine’s president prepared to speak to the Security Council, U.S. and European allies vowed to hold Russia accountable for the reported killings of hundreds of people in a Kyiv suburb. (This video may contain graphic images.) 
  <p class="updated_time"> 09:20 AM CT, Apr. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/04/05/world/ukraine-russia-war">Ukraine Live Updates: E.U. Moves to Ban Russian Coal; Zelensky to Address U.N.</a> NYT: The European Union said it was also working to ban Russian oil. As Ukraine’s president prepared to speak to the Security Council, U.S. and European allies vowed to hold Russia accountable for the reported killings of hundreds of people in a Kyiv suburb. 
+ <a href="https://www.bbc.co.uk/news/world-africa-60997606?at_medium=RSS&at_campaign=KARANGA">Nigeria atheist Mubarak Bala jailed for blaspheming Islam</a> BBC: Mubarak Bala pleads guilty to 18 charges related to blaspheming Islam, a faith he renounced. 
+ <p class="updated_time"> 09:19 AM CT, Apr. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60993645?at_medium=RSS&at_campaign=KARANGA">EU targets Russian coal and ships in new sanctions</a> BBC: Revelations of atrocities have added impetus to calls for further measures against Russia's economy. 
  <p class="updated_time"> 09:08 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/un-security-council-russia-ukraine.html">Zelensky to Speak at U.N. Security Council Meeting on Russia</a> NYT: Mr. Zelensky was expected to make the case that Russian forces have committed war crimes, as evidence emerges of civilian killings in the suburbs of Kyiv. 
  <p class="updated_time"> 09:04 AM CT, Apr. 05 </p> 
@@ -21,13 +25,13 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-60997602?at_medium=RSS&at_campaign=KARANGA">Mali troops and suspected Russian fighters accused of massacre</a> BBC: About 300 people were killed during an operation against militant Islamists, a rights group says. 
  <p class="updated_time"> 08:42 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/60981238?at_medium=RSS&at_campaign=KARANGA">Bucha killings: Satellite image of bodies site contradicts Russian claims</a> BBC: Russia called footage of bodies in Bucha 'staged' but its evidence for this does not stack up. 
- <p class="updated_time"> 08:24 AM CT, Apr. 05 </p> 
+ <p class="updated_time"> 08:38 AM CT, Apr. 05 </p> 
  <a href="https://www.wsj.com/video/headline/24923B17-696B-41D1-975E-D14BAF095056.html">Images Show Russia Used Cluster Bombs, Hit Civilian Targets in Mariupol</a> WSJ: Images Show Russia Used Cluster Bombs, Hit Civilian Targets in Mariupol 
  <p class="updated_time"> 08:19 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60995694?at_medium=RSS&at_campaign=KARANGA">What are Elon Musk's plans for Twitter?</a> BBC: The Tesla founder has become the social network's biggest single shareholder, and a board member. 
  <p class="updated_time"> 07:42 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60991775?at_medium=RSS&at_campaign=KARANGA">British father and son, 9, killed in Australian mountain landslide</a> BBC: Two other family members, a woman, 50, and her 14-year-old son, are in hospital with critical injuries. 
- <p class="updated_time"> 07:24 AM CT, Apr. 05 </p> 
+ <p class="updated_time"> 07:38 AM CT, Apr. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Zelensky to Address U.N. With Claims of Russian Atrocities</a> WSJ: Zelensky to Address U.N. With Claims of Russian Atrocities 
  <p class="updated_time"> 07:20 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091005813/shanghai-lockdown-covid-surge">26 million people in Shanghai are locked down due to a surge in COVID cases</a> NPR: The COVID-19 outbreak in China's largest metropolis of Shanghai remains "extremely grim" amid an ongoing lockdown confining around 26 million people to their homes, a city official said Tuesday. 
@@ -35,20 +39,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/05/world/europe/war-crimes-russia-ukraine.html">What Are War Crimes, and How Are They Prosecuted?</a> NYT: World leaders have vowed to hold President Vladimir V. Putin responsible for any atrocities by Russian forces. Past experience shows such cases take years to build and prosecute. 
  <p class="updated_time"> 06:58 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60994848?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky fears worst atrocities still to be found</a> BBC: Ukraine's president says Borodyanka may have suffered more than other towns abandoned by Russian troops. 
+ <p class="updated_time"> 06:38 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">Europe to Target Russian Coal in Fresh Round of Sanctions</a> WSJ: Europe to Target Russian Coal in Fresh Round of Sanctions 
  <p class="updated_time"> 06:36 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/africa/darfur-janjaweed-trial-icc.html">Darfur War Crimes Trial Begins in Hague</a> NYT: A brutal campaign against a rebellion in Western Sudan displaced millions and left the world aghast. Two decades later, the first and only war crimes trial has gotten underway. 
- <p class="updated_time"> 06:25 AM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60993645?at_medium=RSS&at_campaign=KARANGA">EU eyes sanctions on Russian energy after alleged atrocities</a> BBC: Revelations of atrocities have added impetus to calls for further measures targeting Russian energy. 
- <p class="updated_time"> 06:24 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">Europe to Target Russian Coal in Fresh Round of Sanctions</a> WSJ: Europe to Target Russian Coal in Fresh Round of Sanctions 
  <p class="updated_time"> 06:08 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090837686/putin-war-crimes-prosecution-bucha">Charging Putin for potential war crimes is difficult, and any penalty hard to enforce</a> NPR: Neither Russia nor its president is likely to face an international tribunal — but that's not the only approach to war crimes, experts say. 
  <p class="updated_time"> 05:38 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090999672/russian-oligarch-yacht-seized">A Russian oligarch's $90 million yacht is seized as part of U.S. sanctions</a> NPR: "Today marks our taskforce's first seizure of an asset belonging to a sanctioned individual with close ties to the Russian regime. It will not be the last," said Attorney General Merrick Garland. 
+ <p class="updated_time"> 05:38 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-sanctions-hit-home-for-everyday-russians-11649118196">Ukraine War Sanctions Hit Home for Everyday Russians</a> WSJ: Ukraine War Sanctions Hit Home for Everyday Russians 
  <p class="updated_time"> 05:30 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/sections/money/2022/04/05/1090920442/how-russia-rescued-the-ruble">How Russia rescued the ruble</a> NPR: The Russian ruble lost nearly half its value when Russia invaded Ukraine. Since then it has been the top performing currency in the world. 
- <p class="updated_time"> 05:24 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-sanctions-hit-home-for-everyday-russians-11649118196">Ukraine War Sanctions Hit Home for Everyday Russians</a> WSJ: Ukraine War Sanctions Hit Home for Everyday Russians 
  <p class="updated_time"> 05:15 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60978795?at_medium=RSS&at_campaign=KARANGA">Sri Lanka MPs leave Gotabaya Rajapaksa-led coalition</a> BBC: More than 40 aligned with Mr Rajapaksa's coalition say they will independently represent themselves. 
  <p class="updated_time"> 05:07 AM CT, Apr. 05 </p> 
@@ -59,7 +61,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/05/1090821103/ukrainian-children-are-still-in-school-despite-the-war">Millions of Ukrainian children are still in school despite the war</a> NPR: Ukraine's focus on maintaining education during a war is in line with an emerging philosophy of disaster response. 
  <p class="updated_time"> 04:39 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090994275/zelenskyy-to-speak-at-u-n-as-evidence-builds-of-war-crimes">Ukraine president to speak at U.N. amid growing accusations of war crimes </a> NPR: World leaders expressed outrage over reports of dead Ukrainian civilians — many of whom appear to have been executed — strewn about in Bucha, a city northwest of Kyiv. 
- <p class="updated_time"> 04:24 AM CT, Apr. 05 </p> 
+ <p class="updated_time"> 04:38 AM CT, Apr. 05 </p> 
  <a href="https://www.wsj.com/articles/taliban-crack-down-on-social-freedoms-with-even-stricter-policing-11649156657">Taliban Crack Down on Social Freedoms With Even Stricter Policing</a> WSJ: Taliban Crack Down on Social Freedoms With Even Stricter Policing 
  <p class="updated_time"> 04:00 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/climate/weather-forecast-data.html">Lack of Hydrogen and Helium Led to Fewer Weather Surveying Balloon Trips</a> NYT: Disruptions to supplies of hydrogen and helium have led the National Weather Service to cancel routine launches at some sites. 
@@ -143,8 +145,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/04/travel/starling-murmurations.html">The Transfixing Beauty of Starling Murmurations</a> NYT: Each spring and autumn, the skies in southern Denmark come to life with the swirling displays of hundreds of thousands of starlings, an event known locally as “sort sol.” 
  <p class="updated_time"> 10:55 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/africa/rwanda-paul-rusesabagina-sentence.html">Rwandan Court Declines to Extend Sentence for Paul Rusesabagina</a> NYT: Mr. Rusesabagina, who inspired the movie “Hotel Rwanda” and later lived in exile in the United States, had been given a 25-year term in a case condemned by human-rights groups. 
- <p class="updated_time"> 10:28 AM CT, Apr. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60981648?at_medium=RSS&at_campaign=KARANGA">Hungary election: Viktor Orban's victory hailed by Putin</a> BBC: Near-complete results show Viktor Orban has won a fourth term in Hungary's election by a landslide. 
  <p class="updated_time"> 10:20 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60982940?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Who won the Grammy Awards record of the year?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 09:27 AM CT, Apr. 04 </p> 
@@ -190,10 +190,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:33 AM CT, Apr. 05 </p> 
+ <a href="https://www.npr.org/2022/04/05/1091016540/ivanka-trump-to-appear-before-jan-6-committee-on-tuesday-morning">Ivanka Trump to appear before Jan. 6 committee on Tuesday morning</a> NPR: The former first daughter and White House adviser will speak remotely to the committee about the Capitol insurrection. 
  <p class="updated_time"> 09:09 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/gop-rep-fred-upton-to-retire-00023009">GOP Rep. Fred Upton to retire</a> Politico: Rep. Fred Upton (R-Mich.), one of the longest-tenured Republicans in the House of Representatives, has decided to retire rather than seek reelection in 2022, according to four people familiar with his decision. 
  <p class="updated_time"> 08:51 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/treasury-russia-debt-u-s-accounts-00022979">Treasury blocks Russia from paying debt out of U.S. accounts</a> Politico: The Treasury had already moved to freeze Russian government assets held at U.S. institutions, but now it won’t allow Moscow to access those dollars even to meet its obligations to its bondholders. 
+ <p class="updated_time"> 08:44 AM CT, Apr. 05 </p> 
+ <a href="https://www.politico.com/news/2022/04/05/manchin-criticizes-secs-climate-risk-disclosure-proposal-00022741">Manchin criticizes SEC's climate risk disclosure proposal</a> Politico: Manchin’s criticism comes on the heels of his opposition to Sarah Bloom Raskin, President Joe Biden’s one-time pick to lead the Federal Reserve’s Wall Street oversight. 
  <p class="updated_time"> 08:33 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/elon-musk-appointed-twitter-board-00022987">Musk appointed to Twitter’s board</a> Politico: The SpaceX and Tesla CEO became the social media company’s biggest shareholder this week. 
  <p class="updated_time"> 06:50 AM CT, Apr. 05 </p> 
@@ -256,8 +260,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/04/florida-republican-gender-care-child-abuse-00022738">Florida Republican pledges to make gender transition-related medical care for minors felony child abuse</a> Politico: Florida’s 2023 session is currently some 11 months away. Fine’s term — along with Florida’s 160 legislative seats — are up for election in November. 
  <p class="updated_time"> 02:10 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/us/politics/supreme-court-police-malicious-prosecution.html">Supreme Court Rules Against Police in Malicious Prosecution Case</a> NYT: Plaintiffs need show only that the charges against them were dropped, the majority said, to satisfy a requirement that they had obtained a “favorable termination” of the prosecution. 
- <p class="updated_time"> 01:35 PM CT, Apr. 04 </p> 
- <a href="https://www.politico.com/news/2022/04/04/nyc-to-recruit-lgbtq-floridians-billboard-campaign-00022734">NYC mayor uses 'Don't Say Gay' law to recruit LGBTQ Floridians with billboard campaign</a> Politico: Mayor Eric Adams has partnered with private companies to erect the digital billboards in Fort Lauderdale, Jacksonville, Orlando, Tampa and West Palm Beach for eight weeks. 
  <p class="updated_time"> 12:46 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/us/politics/ice-immigration-cases.html">ICE Lawyers Directed to Clear Low-Priority Immigration Cases</a> NYT: The effort could significantly reduce a backlog of asylum and deportation cases as the Biden administration anticipates a huge surge of migrants crossing the border. 
  <p class="updated_time"> 12:13 PM CT, Apr. 04 </p> 
@@ -282,8 +284,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/04/1090746199/the-white-house-has-hired-its-first-full-time-asl-interpreters">The White House has hired its first full-time ASL interpreters</a> NPR: As a result, any time an administration new conference is held, TV viewers can see someone on the right-hand side interpreting in American Sign Language for the deaf community. 
  <p class="updated_time"> 04:00 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/us/politics/supreme-court-personal-precedents.html">The Problem of ‘Personal Precedents’ of Supreme Court Justices</a> NYT: Their efforts to seem consistent can clash with respect for precedent in the usual sense. But a new article argues that personal precedents have a role to play as legal building blocks. 
- <p class="updated_time"> 04:00 AM CT, Apr. 04 </p> 
- <a href="https://www.npr.org/2022/04/04/1089833711/scotus-nominee-ketanji-jackson-brown-senate-judiciary-vote">2 more Republicans say they'll vote to confirm Jackson's Supreme Court nomination</a> NPR: Sens. Murkowski and Romney said they'll vote to confirm Ketanji Brown Jackson after the Judiciary Committee reached an 11-11 tie along party lines to advance her nomination to the Senate. 
  <p class="updated_time"> 03:35 AM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/dems-midterm-villain-donald-trump-00022381">Dems have an opening for a midterm villain. Donald Trump, you're hired!</a> Politico: It's not clear whether reminding voters of the tumult and chaos of the former president will provide sustained momentum, though. 
  <p class="updated_time"> 03:30 AM CT, Apr. 04 </p> 
