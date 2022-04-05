@@ -9,51 +9,51 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:30 PM CT, Apr. 04 </p> 
+ <p class="updated_time"> 10:06 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/04/04/world/ukraine-russia-war">Ukraine Live Updates: Atrocities Prompt Calls for More Sanctions as Russia Pummels South</a> NYT: Images of dead civilians prompted widespread outrage as the E.U. weighed tougher penalties against Moscow. Russian forces continued to bombard southern Ukraine, but left the door open for peace talks. 
+ <p class="updated_time"> 10:06 PM CT, Apr. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/04/world/imran-khan-pakistan-news">Supreme Court Will Pick Up Imran Khan Case on Tuesday</a> NYT: The country’s top court will rule on Prime Minister Imran Khan’s move to dissolve Parliament and call new elections, as he tried to head off a no-confidence vote. 
+ <p class="updated_time"> 09:19 PM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251">U.S. and Allies Vow Action Over Reports of Russian Atrocities in Ukraine</a> WSJ: U.S. and Allies Vow Action Over Reports of Russian Atrocities in Ukraine 
  <p class="updated_time"> 09:08 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/asia/sri-lanka-protests-rajapaksa.html">Sri Lanka Protesters Call for President to Resign After Cabinet Shuffle</a> NYT: The country’s Rajapaksa dynasty is facing its toughest challenge yet as protesters demand that the president step down amid a devastating economic crisis. 
  <p class="updated_time"> 08:47 PM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60976556?at_medium=RSS&at_campaign=KARANGA">Sudan Darfur crisis: ICC to try war crimes suspect</a> BBC: The trial is a momentous day for victims of the conflict in Sudan, a human rights lawyer says. 
  <p class="updated_time"> 08:45 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/africa/killing-moura-mali.html">Western Officials Condemn Reports of ‘Massacre’ by Military in Central Mali</a> NYT: The State Department and the French foreign ministry said they were alarmed at reports of deaths caused by the Malian armed forces and their allies — Russian mercenaries with the Wagner Group. 
- <p class="updated_time"> 08:39 PM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251">U.S. and Allies Vow Action Over Reports of Russian Atrocities in Ukraine</a> WSJ: U.S. and Allies Vow Action Over Reports of Russian Atrocities in Ukraine 
  <p class="updated_time"> 08:31 PM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-60991853?at_medium=RSS&at_campaign=KARANGA">Britney Spears: Singer confirms she is writing new memoir</a> BBC: The singer says the book will tackle painful past events she has "never been able to express openly." 
  <p class="updated_time"> 08:30 PM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60991775?at_medium=RSS&at_campaign=KARANGA">Australia landslide: Two members of British family killed and others injured</a> BBC: Two of their family members have also suffered critical injuries in the accident near Sydney. 
+ <p class="updated_time"> 08:19 PM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/berlin-takes-control-of-gazproms-german-business-11649086113">Berlin Takes Control of Gazprom’s German Business</a> WSJ: Berlin Takes Control of Gazprom’s German Business 
  <p class="updated_time"> 07:56 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/asia/china-russia-ukraine.html">Bristling Against the West, China Rallies Domestic Sympathy for Russia</a> NYT: China’s Communist Party is mounting an ideological campaign aimed at officials and students. The message: The country will not turn its back on Russia. 
  <p class="updated_time"> 07:54 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/business/rally-jameel-women.html">Women in Saudi Arabia Add a First: An Auto Rally</a> NYT: Just years after women could legally drive there, the Rally Jameel celebrates a new first. 
- <p class="updated_time"> 07:39 PM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/berlin-takes-control-of-gazproms-german-business-11649086113">Berlin Takes Control of Gazprom’s German Business</a> WSJ: Berlin Takes Control of Gazprom’s German Business 
  <p class="updated_time"> 07:20 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/ukraine-nova-basan-russia.html">‘Sitting at Home and Trembling.’ A Town Emerges After a Russian Retreat.</a> NYT: A local official said he was detained and interrogated by the Russians, and described what he called mock executions. 
+ <p class="updated_time"> 07:19 PM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/release-of-secrets-represents-new-front-in-u-s-information-war-with-russia-11649070001">Release of Ukraine Intelligence Represents New Front in U.S. Information War With Russia</a> WSJ: Release of Ukraine Intelligence Represents New Front in U.S. Information War With Russia 
  <p class="updated_time"> 07:15 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/bucha-ukraine-bodies.html">Dead Lay Out in Bucha for Weeks, Refuting Russian Claim, Satellite Images Show</a> NYT: The images rebut Russia’s claim that the killing of civilians in Bucha, near Kyiv, took place after its soldiers had left town. 
  <p class="updated_time"> 06:56 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/biden-putin-ukraine-war.html">Images of Russian Atrocities Push West Toward Tougher Sanctions</a> NYT: President Biden called for Vladimir Putin to face trial for war crimes, and European officials will meet to consider possibly banning some Russian energy imports. 
- <p class="updated_time"> 06:39 PM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/release-of-secrets-represents-new-front-in-u-s-information-war-with-russia-11649070001">Release of Ukraine Intelligence Represents New Front in U.S. Information War With Russia</a> WSJ: Release of Ukraine Intelligence Represents New Front in U.S. Information War With Russia 
  <p class="updated_time"> 06:32 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/us/politics/senate-covid-vaccines.html">Senators Propose Cutting Global Vaccine Funding in Covid Package</a> NYT: The $10 billion package does not include funds for the global vaccination effort, frustrating some Democrats. 
  <p class="updated_time"> 06:31 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/ukraine-war-east-russia.html">Russia Shifts Focus of Ukraine War East as Putin Looks for a Victory</a> NYT: Having failed to score a quick triumph, Russia is shifting its attention to the contested breakaway enclaves, in Ukraine’s East. It is also shelling large cities to keep enemy forces from the expected new areas of battle. 
  <p class="updated_time"> 06:23 PM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60943884?at_medium=RSS&at_campaign=KARANGA">The Kenyan cafe that helps fight discrimination against deaf people</a> BBC: Most waiters at one Kenyan café are deaf, so customers use sign language, mimes or gestures. 
+ <p class="updated_time"> 06:19 PM CT, Apr. 04 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-orders-snap-covid-tests-for-25-million-locked-down-residents-11649053546">Shanghai Extends Covid Lockdown as City Tests Its 25 Million Residents</a> WSJ: Shanghai Extends Covid Lockdown as City Tests Its 25 Million Residents 
  <p class="updated_time"> 06:14 PM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60956242?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Rescuing vulnerable children from the front line</a> BBC: A BBC crew follows an ambulance team as medics evacuate 12 children from the city of Sumy. 
  <p class="updated_time"> 06:05 PM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-60617094?at_medium=RSS&at_campaign=KARANGA">Does it matter if we know where our food comes from?</a> BBC: Increasingly sophisticated tech tells us more than ever about our food's journey from farm to fork. 
- <p class="updated_time"> 05:39 PM CT, Apr. 04 </p> 
- <a href="https://www.wsj.com/articles/shanghai-orders-snap-covid-tests-for-25-million-locked-down-residents-11649053546">Shanghai Extends Covid Lockdown as City Tests Its 25 Million Residents</a> WSJ: Shanghai Extends Covid Lockdown as City Tests Its 25 Million Residents 
  <p class="updated_time"> 05:31 PM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60990934?at_medium=RSS&at_campaign=KARANGA">Ukraine war: International outrage grows over civilian killings in Bucha</a> BBC: Joe Biden calls for Vladimir Putin to be tried for war crimes for atrocities in Ukraine. 
- <p class="updated_time"> 04:57 PM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/04/04/world/imran-khan-pakistan-news">Supreme Court Will Pick Up Imran Khan Case on Tuesday</a> NYT: The country’s top court will rule on Prime Minister Imran Khan’s move to dissolve Parliament and call new elections, as he tried to head off a no-confidence vote. 
- <p class="updated_time"> 04:39 PM CT, Apr. 04 </p> 
+ <p class="updated_time"> 05:19 PM CT, Apr. 04 </p> 
  <a href="https://www.wsj.com/articles/oil-gas-russia-renewable-energy-solar-wind-power-europe-11649086062">Ukraine War Drives Countries to Embrace Renewable Energy—but Not Yet</a> WSJ: Ukraine War Drives Countries to Embrace Renewable Energy—but Not Yet 
  <p class="updated_time"> 04:04 PM CT, Apr. 04 </p> 
  <a href="https://www.npr.org/2022/04/04/1090851859/russia-ukraine-war-what-happened-today-april-4">Russia-Ukraine war: What happened today (April 4)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
@@ -103,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-60989412?at_medium=RSS&at_campaign=KARANGA">Ukraine war: President Zelensky visits site of alleged atrocities in Bucha</a> BBC: The Ukrainian president says people have been found in barrels, having been strangled and tortured. 
  <p class="updated_time"> 11:26 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/travel/starling-murmurations.html">The Transfixing Beauty of Starling Murmurations</a> NYT: Each spring and autumn, the skies in southern Denmark come to life with the swirling displays of hundreds of thousands of starlings, an event known locally as “sort sol.” 
- <p class="updated_time"> 11:21 AM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/ar/2022/04/04/world/middleeast/airstrikes-us-deaths-syria-iraq.html">وثائق سريّة للبنتاغون تكشف عن إخفاقات متكررة في شنّ غارات جوية مُميتة</a> NYT: قُطِعت الوعود بحربٍ تنفّذها طائرات مسيّرة ذات قدرات رصد فائقة وقنابل دقيقة التوجيه، لكنّ الوثائق تكشف عن معلومات استخباراتية مغلوطة، وعمليات استهداف خاطئة، وسنوات من سقوط القتلى بين صفوف المدنيين – وأقلّ القليل من المساءلة. 
  <p class="updated_time"> 11:18 AM CT, Apr. 04 </p> 
  <a href="https://www.npr.org/2022/04/04/1090828587/trevor-reed-russian-prison-hospital-hunger-strike">Trevor Reed's family says he's back in a Russian prison hospital but not getting care</a> NPR: Reed's family says he has tuberculosis symptoms and lost 7 pounds in five days during a hunger strike. They are calling for the Biden administration to help bring the Marine veteran home. 
  <p class="updated_time"> 11:10 AM CT, Apr. 04 </p> 
@@ -169,14 +167,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/03/world/europe/mantas-kvedaravicius-killed-mariupol.html">Documentary Filmmaker Mantas Kvedaravicius Is Killed in Ukraine </a> NYT: Mr. Kvedaravicius, 45, had spent years covering the conflict in Ukraine. His work included “Mariupolis,” a searing portrait of the southern port city where he died. 
  <p class="updated_time"> 11:54 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/dead-civilians-bucha-ukraine.html">Images of Dead Civilians in Bucha Draws Outrage From U.S. and Others</a> NYT: Russia’s Ministry of Defense called the images “staged,” saying in a statement that “not a single” civilian had been injured in the town. 
- <p class="updated_time"> 11:51 AM CT, Apr. 03 </p> 
- <a href="https://www.nytimes.com/2022/04/02/nyregion/new-york-hochul-second-boosters.html">Hochul Says Second Boosters Are Offered at New York Vaccination Sites</a> NYT: Government officials move to get ahead of an uptick in cases fueled by the highly transmissible Omciron subvariant. 
  <p class="updated_time"> 09:56 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/02/world/daniel-craig-macbeth.html">‘Macbeth’ performances on Broadway pause after Daniel Craig tests positive for the coronavirus.</a> NYT: The show, which just began previews on Tuesday, hopes to resume on April 8. 
  <p class="updated_time"> 08:59 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/europe/ukraine-war-russia-trostyanets.html">‘This Is True Barbarity’: Life  Under Russian Occupation</a> NYT: The town of Trostyanets was occupied by Russian forces for a month before the Ukrainian military liberated it. Residents described weeks of hunger and horror. 
- <p class="updated_time"> 08:34 AM CT, Apr. 03 </p> 
- <a href="https://www.nytimes.com/2022/04/02/world/europe/ukraine-russian-defeat-vasylkiv.html">When the Russians Picked the Wrong Town in Ukraine to Invade</a> NYT: The outgunned people of Vasylkiv, a provincial Ukrainian town, successfully fought off Russian troops in the early days of the war, helping to keep the capital safe and entering Ukraine’s military lore. 
  <p class="updated_time"> 07:45 AM CT, Apr. 03 </p> 
  <a href="https://www.npr.org/2022/04/03/1090498805/pakistan-plunges-into-political-crisis-after-its-parliament-was-dissolved">Pakistan plunges into political crisis after its parliament was dissolved</a> NPR: Pakistan's parliament has been dissolved, setting the stage for elections after Prime Minister Imran Khan avoided a no-confidence motion. 
  <p class="updated_time"> 05:22 AM CT, Apr. 03 </p> 
@@ -185,8 +179,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/03/world/asia/who-is-imran-khan.html">Who Is Imran Khan, Pakistan’s Prime Minister?</a> NYT: He was once a national hero who led Pakistan’s cricket team to a World Cup victory. Now, the embattled prime minister is fighting to stay in power. 
  <p class="updated_time"> 04:00 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/science/ocean-plastic-animals.html">How Microplastics in the Ocean Will Affect Marine Life</a> NYT: Tiny bits of plastic have infiltrated the deep sea’s main food source and could alter the ocean’s role in one of Earth’s ancient cooling processes, scientists say. 
- <p class="updated_time"> 12:08 AM CT, Apr. 03 </p> 
- <a href="https://www.nytimes.com/2022/04/02/world/europe/lithuania-russia-gas.html">Lithuania Says It Has Stopped Importing Gas From Russia </a> NYT: Although tiny, Lithuania is the largest economy in the Baltic States and a eurozone member, giving the decision significance to European nations. “If we can do it, the rest of Europe can do it too,” the president said. 
 
 
 </details>
@@ -264,8 +256,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/04/dems-midterm-villain-donald-trump-00022381">Dems have an opening for a midterm villain. Donald Trump, you're hired!</a> Politico: It's not clear whether reminding voters of the tumult and chaos of the former president will provide sustained momentum, though. 
  <p class="updated_time"> 03:30 AM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/dems-party-line-spending-manchin-00022362">Dems plot spring sprint for party-line spending deal with Manchin</a> Politico: Senate Majority Leader Chuck Schumer says the resuscitation of the bill once called Build Back Better is a “high priority” for his caucus. But a revival won't be easy. 
- <p class="updated_time"> 08:35 PM CT, Apr. 03 </p> 
- <a href="https://www.politico.com/news/2022/04/03/trump-endorses-palin-in-alaska-house-special-election-00022627">Trump endorses Palin in Alaska House special election</a> Politico: Some 51 candidates are presently running to replace Young, including several state lawmakers, and Palin is no shoo-in. 
  <p class="updated_time"> 02:08 PM CT, Apr. 03 </p> 
  <a href="https://www.politico.com/news/2022/04/03/ukraine-accuses-russia-massacre-00022595">Ukraine accuses Russia of massacre, city strewn with bodies</a> Politico: A slew of European leaders condemned the atrocities and called for tougher sanctions against Moscow. 
  <p class="updated_time"> 11:50 AM CT, Apr. 03 </p> 
