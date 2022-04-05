@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:24 PM CT, Apr. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/05/world/ukraine-russia-war">Ukraine Live Updates: As Zelensky Deplores U.N. Inaction, West Turns Up Economic Pressure on Russia</a> NYT: “Now the world can see what Russia did in Bucha,” President Volodymyr Zelensky of Ukraine said of the slaughter of civilians, during a fiery speech to the U.N. Security Council in which he showed a graphic video of the aftermath. 
+ <p class="updated_time"> 06:18 PM CT, Apr. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61003878?at_medium=RSS&at_campaign=KARANGA">Bucha killings: 'I wish they had killed me too'</a> BBC: A family tells the BBC how Oleg Abramov, a welder in Bucha, was shot dead outside his home. 
+ <p class="updated_time"> 06:18 PM CT, Apr. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61005429?at_medium=RSS&at_campaign=KARANGA">Obama jokes with 'Vice-President Biden' at White House</a> BBC: The former president can't help ribbing his old deputy on a "good old days" jaunt to the White House. 
+ <p class="updated_time"> 06:11 PM CT, Apr. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61005427?at_medium=RSS&at_campaign=KARANGA">Who is this future pop megastar found on archive TV reel?</a> BBC: A local TV production manager recognised this boy in an interview outside a school 50 years ago. 
  <p class="updated_time"> 06:01 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60983643?at_medium=RSS&at_campaign=KARANGA">The siege of Sarajevo 30 years on: ‘We felt forgotten'</a> BBC: Zlata Filipovic was amongst the Bosnian children who witnessed the atrocities in Sarajevo 30 years ago. 
  <p class="updated_time"> 06:01 PM CT, Apr. 05 </p> 
@@ -16,22 +24,20 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:01 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-60996096?at_medium=RSS&at_campaign=KARANGA">Lebanon's economic crash leaves prisoners forgotten with little medical care</a> BBC: Lebanon's economic crash leaves prisons overcrowded and without medical care, while relatives can't afford to visit. 
  <p class="updated_time"> 05:55 PM CT, Apr. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/04/05/world/ukraine-russia-war">Ukraine Live Updates: As Zelensky Deplores U.N. Inaction, West Turns Up Economic Pressure on Russia</a> NYT: “Now the world can see what Russia did in Bucha,” President Volodymyr Zelensky of Ukraine said of the slaughter of civilians, during a fiery speech to the U.N. Security Council in which he showed a graphic video of the aftermath. 
- <p class="updated_time"> 05:55 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/zelensky-un-security-council.html">Zelensky Accuses Russia of Atrocities and Criticizes U.N.’s Inaction</a> NYT: In a blistering address to the United Nations Security Council, Ukraine’s president asked what use the body was if it would not intervene to stop a war of aggression. 
  <p class="updated_time"> 05:36 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/health/fda-glaxo-antibody-us.html">The F.D.A. Suspends Use of Glaxo Antibody Drug in the U.S.</a> NYT: Manufacturers said lab testing revealed that the authorized dosage of the drug was not sufficiently potent against BA.2. 
+ <p class="updated_time"> 05:33 PM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</a> WSJ: Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes 
  <p class="updated_time"> 05:31 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/bucha-shooting-video.html">Video Captures Russian Forces Firing on Ukrainian Cyclist in Bucha</a> NYT: Chilling aerial video from Ukraine adds to the evidence of Russian atrocities against civilians and undercuts their denials of wrongdoing. 
  <p class="updated_time"> 05:28 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/britain-nhs-covid-symptoms.html">Britain’s National Health Service Expands Its List of Covid Symptoms</a> NYT: The National Health Service’s description of the disease now aligns more closely with that of the U.S. C.D.C. 
  <p class="updated_time"> 05:27 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/canada/revenue-sharing-facebook-google.html">Canada to Require Tech Giants to Compensate News Publishers</a> NYT: The bill aims to compensate struggling news organizations, and follows similar moves by Europe and Australia. 
- <p class="updated_time"> 05:11 PM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</a> WSJ: Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes 
  <p class="updated_time"> 04:46 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/asia/ukraine-civilians-russia-borodyanka.html">At Least 200 Feared Dead in Apartments Hit by Russia, Officials Say</a> NYT: After Russian forces withdrew from Borodyanka, a commuter town near Ukraine’s capital, families are searching the rubble for bodies. 
- <p class="updated_time"> 04:11 PM CT, Apr. 05 </p> 
+ <p class="updated_time"> 04:33 PM CT, Apr. 05 </p> 
  <a href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611">Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine</a> WSJ: Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine 
  <p class="updated_time"> 04:11 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091079567/russia-ukraine-war-what-happened-today-april-5">Russia-Ukraine war: What happened today (April 5)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
@@ -43,6 +49,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/05/1091109417/a-bakery-in-western-ukraine-has-reopened-providing-employment-to-refugees">A bakery in western Ukraine has reopened, providing employment to refugees</a> NPR: In Ivano-Frankivsk, in the western part of Ukraine, a bakery that shuttered for two weeks during the war has resumed business — and even employs Ukrainians displaced from other parts of the country. 
  <p class="updated_time"> 03:34 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091109410/what-the-city-of-kyiv-looks-like-as-people-return">What the city of Kyiv looks like as people return</a> NPR: Though the city still feels empty, people are slowly starting to return to Kyiv. Signs of war are everywhere in the form of sandbags and big steel and concrete barricades in the streets. 
+ <p class="updated_time"> 03:33 PM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports</a> WSJ: U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports 
  <p class="updated_time"> 03:23 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091109424/russian-expats-have-been-struggling-with-their-identity-since-the-war-began">Russian expats have been struggling with their identity since the war began</a> NPR: At Chicago's Russian Senior Center, Russian-born immigrants gather to connect. Since the invasion, many say they're feeling isolated and a sort of PTSD as they cope with the war and it's implications. 
  <p class="updated_time"> 03:23 PM CT, Apr. 05 </p> 
@@ -59,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/05/1091109346/images-and-reporting-from-bucha-ukraine-raise-serious-questions-about-war-crimes">Images and reporting from Bucha, Ukraine, raise serious questions about war crimes</a> NPR: In Bucha, Ukraine, Russia is accused of carrying out war crimes against civilians. The United Nations has said an independent investigation is needed to ensure accountability. 
  <p class="updated_time"> 03:21 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091109339/residents-of-kyiv-who-left-because-of-the-conflict-begin-to-return">Residents of Kyiv who left because of the conflict begin to return</a> NPR: Some people who fled Kyiv because of the war in Ukraine are starting to return. At the train station, they share their reasons for returning and fears about the future. 
- <p class="updated_time"> 03:11 PM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports</a> WSJ: U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports 
  <p class="updated_time"> 03:03 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/us/politics/ukraine-russia-hackers.html">Hackers’ Fake Claims of Ukrainian Surrender Aren’t Fooling Anyone. So What’s Their Goal?</a> NYT: Experts say the hackers’ intentions might not be to actually trick anyone, but to erode confidence in Ukrainian media outlets and institutions. 
  <p class="updated_time"> 03:03 PM CT, Apr. 05 </p> 
@@ -69,18 +75,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/05/world/europe/zelensky-russia-atrocities-ukraine.html">Zelensky Vilifies Russia Over Atrocities: ‘They Killed Entire Families’</a> NYT: The Ukrainian president delivered one of his most forceful denunciations of the invasion in a live video speech to the United Nations Security Council on Tuesday. 
  <p class="updated_time"> 02:49 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/french-election-le-pen-macron.html">French Election Opens Up as Marine Le Pen Surges</a> NYT: President Emmanuel Macron’s belated entry into the campaign and his focus on Ukraine have left him vulnerable to a strong challenge from the right. 
+ <p class="updated_time"> 02:33 PM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/a-quarter-of-africans-face-food-security-crisis-partly-due-to-ukraine-war-red-cross-says-11649176087">A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says</a> WSJ: A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says 
  <p class="updated_time"> 02:20 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091045484/ireland-irish-census-time-capsule-100-years">This nation's census let people add a time capsule message to be revealed in 2122 </a> NPR: As usual, Ireland's census asks for people's names, ages and relationships. But a new feature allows people to add personal messages that stay under wraps for 100 years. 
- <p class="updated_time"> 02:20 PM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61004345?at_medium=RSS&at_campaign=KARANGA">Ivanka Trump to testify to Capitol riot committee</a> BBC: The ex-president's daughter will testify days after her husband and fellow aide also spoke to Congress. 
- <p class="updated_time"> 02:11 PM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/a-quarter-of-africans-face-food-security-crisis-partly-due-to-ukraine-war-red-cross-says-11649176087">A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says</a> WSJ: A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says 
  <p class="updated_time"> 02:04 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60989121?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: 'I saw a Russian soldier shoot my father dead in Bucha'</a> BBC: Teenager's account adds to growing evidence of atrocities allegedly committed by Russian soldiers in Bucha. 
  <p class="updated_time"> 01:59 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61002914?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky tells UN of horrors of Russian invasion</a> BBC: Ukraine's president says Russia must be held accountable for civilian deaths in northern Ukraine. 
  <p class="updated_time"> 01:58 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/africa/darfur-janjaweed-trial-icc.html">Darfur War Crimes Trial Begins in Hague</a> NYT: A brutal campaign in western Sudan left the world aghast. Two decades later, the first and only Darfur war crimes trial opened for a man accused of leading the terrifying janjaweed militia. 
+ <p class="updated_time"> 01:33 PM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/covid-cases-in-china-hit-record-as-shanghai-extends-lockdown-11649154418">Covid Cases in China Hit Record, as Shanghai Extends Lockdown</a> WSJ: Covid Cases in China Hit Record, as Shanghai Extends Lockdown 
  <p class="updated_time"> 01:25 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/jewish-death-france-election.html">Jewish Man’s Death Near Paris Fuels Outrage on Election Eve</a> NYT: Newly surfaced video shows the man, who was hit by a tram in February, fleeing an assault. It has fueled suspicions of an antisemitic motive days before France’s presidential vote. 
  <p class="updated_time"> 01:23 PM CT, Apr. 05 </p> 
@@ -88,11 +94,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:16 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/climate/epa-asbestos-ban.html">E.P.A. to Propose Restrictions on Asbestos</a> NYT: The agency aims to ban the manufacturing and import of a type of asbestos that is used in brake pads, gaskets and other automotive products and is linked to cancer. 
  <p class="updated_time"> 01:13 PM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/sport/golf/60995999?at_medium=RSS&at_campaign=KARANGA">Tiger Woods set to play Masters at Augusta National</a> BBC: Five-time Masters champion Tiger Woods says "as of right now I am going to play", adding that he will play nine more practice holes on Wednesday. 
- <p class="updated_time"> 01:13 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/science/nuclear-weapon-russia-satellite-tracking.html">How America Watches for a Nuclear Strike</a> NYT: Hundreds of satellites and spacecraft are keeping an eye on Russia’s nuclear forces from above. So far, they haven’t seen much to worry about. 
- <p class="updated_time"> 01:11 PM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/covid-cases-in-china-hit-record-as-shanghai-extends-lockdown-11649154418">Covid Cases in China Hit Record, as Shanghai Extends Lockdown</a> WSJ: Covid Cases in China Hit Record, as Shanghai Extends Lockdown 
  <p class="updated_time"> 12:53 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/05/1087155649/families-were-split-up-during-afghanistan-evacuations-and-are-still-not-reunited">Families were split up during Afghanistan evacuations — and are still not reunited</a> NPR: After the Taliban takeover, family members — even spouses — were sometimes separated during U.S. evacuation efforts. Now a global network of volunteers are trying to bring out those left behind. 
  <p class="updated_time"> 12:43 PM CT, Apr. 05 </p> 
@@ -109,10 +111,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-60992373?at_medium=RSS&at_campaign=KARANGA">Twitter moves to limit Russian government accounts</a> BBC: The platform has taken action to limit more than 300 Kremlin accounts, including President Putin's. 
  <p class="updated_time"> 11:09 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61001565?at_medium=RSS&at_campaign=KARANGA">World Cup 2022: Russian football federation drops appeal against Fifa ban</a> BBC: Russia's football federation drops an appeal against Fifa's World Cup ban that was imposed after the country's invasion of Ukraine. 
- <p class="updated_time"> 11:06 AM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60999246?at_medium=RSS&at_campaign=KARANGA">Biden to host White House wedding reception for granddaughter</a> BBC: Biden's eldest granddaughter will get a wedding party at perhaps the most exclusive venue in the US. 
  <p class="updated_time"> 10:53 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/russia-ukraine-war-atrocities.html">Up-Close Ukraine Atrocity Photographs Touch a Global Nerve</a> NYT: The apparent execution of Ukrainian civilians by retreating Russian forces, their bodies strewn in streets and yards, has focused attention on what constitutes crimes in war. 
+ <p class="updated_time"> 10:49 AM CT, Apr. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61002622?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Many more cities like Bucha says President Zelensky</a> BBC: Volodymyr Zelensky addressed the UN Security Council for the first time since Russia invaded Ukraine. 
  <p class="updated_time"> 09:56 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/hungary-orban-election-putin-ukraine.html">With a Neutral Stance on Ukraine, Viktor Orban Pulled in Voters</a> NYT: The Hungarian prime minister’s party also made a strong showing in Sunday’s election, though independent observers said the vote was tilted in the ruling party’s favor. 
  <p class="updated_time"> 09:20 AM CT, Apr. 05 </p> 
@@ -127,14 +129,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-60995694?at_medium=RSS&at_campaign=KARANGA">What are Elon Musk's plans for Twitter?</a> BBC: The Tesla founder has become the social network's biggest single shareholder, and a board member. 
  <p class="updated_time"> 07:12 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/war-crimes-russia-ukraine.html">What Are War Crimes, and How Are They Prosecuted?</a> NYT: World leaders have vowed to hold President Vladimir V. Putin responsible for any atrocities by Russian forces. Past experience shows such cases take years to build and prosecute. 
- <p class="updated_time"> 05:15 AM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60978795?at_medium=RSS&at_campaign=KARANGA">Sri Lanka MPs leave Gotabaya Rajapaksa-led coalition</a> BBC: More than 40 aligned with Mr Rajapaksa's coalition say they will independently represent themselves. 
- <p class="updated_time"> 05:07 AM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-60994022?at_medium=RSS&at_campaign=KARANGA">Shanghai Covid lockdown extended to entire city</a> BBC: China's financial hub is now subject to indefinite restrictions after Covid cases hit a new high. 
  <p class="updated_time"> 05:04 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-60993659?at_medium=RSS&at_campaign=KARANGA">Rare Sumatran rhino gives birth after eight miscarriages</a> BBC: The critically endangered Sumatran rhino gave birth to a female calf in an Indonesian sanctuary. 
- <p class="updated_time"> 04:48 AM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-60995424?at_medium=RSS&at_campaign=KARANGA">Cardi B wins order forcing YouTuber to remove defamatory videos</a> BBC: A judge has ordered Latasha Kebe, known as Tasha K, to to delete and never repost defamatory videos. 
  <p class="updated_time"> 04:47 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/south-africa-lifts-its-covid-state-of-disaster-after-two-years.html">South Africa lifts its Covid ‘state of disaster’ after two years.</a> NYT: Public health measures imposed under the declaration have often been strict, including bans on alcohol sales and certain types of clothing. 
  <p class="updated_time"> 04:00 AM CT, Apr. 05 </p> 
@@ -161,36 +157,32 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/04/us/politics/senate-covid-vaccines.html">Senators Propose Cutting Global Vaccine Funding in Covid Package</a> NYT: The $10 billion package does not include funds for the global vaccination effort, frustrating some Democrats. 
  <p class="updated_time"> 06:31 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/ukraine-war-east-russia.html">Russia Shifts Focus of Ukraine War East as Putin Looks for a Victory</a> NYT: Having failed to score a quick triumph, Russia is shifting its attention to the contested breakaway enclaves, in Ukraine’s East. It is also shelling large cities to keep enemy forces from the expected new areas of battle. 
- <p class="updated_time"> 06:23 PM CT, Apr. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60943884?at_medium=RSS&at_campaign=KARANGA">The Kenyan café that helps fight discrimination against deaf people</a> BBC: Most waiters at one Kenyan café are deaf, so customers use sign language, mimes or gestures. 
  <p class="updated_time"> 06:14 PM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60956242?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Rescuing vulnerable children from the front line</a> BBC: A BBC crew follows an ambulance team as medics evacuate 12 children from the city of Sumy. 
  <p class="updated_time"> 06:05 PM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-60617094?at_medium=RSS&at_campaign=KARANGA">Does it matter if we know where our food comes from?</a> BBC: Increasingly sophisticated tech tells us more than ever about our food's journey from farm to fork. 
  <p class="updated_time"> 02:40 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/russia-ukraine-peace-talks.html">Atrocities in Bucha Complicate Russia-Ukraine Peace Talks</a> NYT: It was unclear what effect the killing of civilians outside Kyiv, the Ukrainian capital, would have on negotiations. 
+ <p class="updated_time"> 12:37 PM CT, Apr. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60989413?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Bucha massacre is a game changer - Ukraine foreign minister</a> BBC: Dmytro Kuleba told BBC HARDtalk that events in Bucha prove how much help Ukraine needs from the West. 
  <p class="updated_time"> 12:26 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/zelensky-nato-merkel-sarkozy.html">Zelensky Blasts Merkel and Sarkozy for Denying Ukraine NATO Membership</a> NYT: In a video address, he said that NATO’s decision in 2008 not to give Ukraine a path to membership helped lead to atrocities by Russian forces. 
  <p class="updated_time"> 12:26 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/climate/ipcc-report-explained.html">5 Takeaways From the U.N. Report on Limiting Global Warming</a> NYT: Current pledges to cut emissions, even if nations follow through on them, won’t stop temperatures from rising to risky new levels. 
  <p class="updated_time"> 11:55 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/hong-kong-carrie-lam-covid.html">Carrie Lam, Hong Kong’s Leader, Won’t Seek Second Term</a> NYT: Carrie Lam, the territory’s chief executive, said Monday that she would not seek a second term. Her tenure was marked by protests, a contentious law and a devastating Covid outbreak. 
+ <p class="updated_time"> 11:33 AM CT, Apr. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60989412?at_medium=RSS&at_campaign=KARANGA">Ukraine war: President Zelensky visits site of alleged atrocities in Bucha</a> BBC: The Ukrainian president says people have been found in barrels, having been strangled and tortured. 
  <p class="updated_time"> 11:26 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/travel/starling-murmurations.html">The Transfixing Beauty of Starling Murmurations</a> NYT: Each spring and autumn, the skies in southern Denmark come to life with the swirling displays of hundreds of thousands of starlings, an event known locally as “sort sol.” 
  <p class="updated_time"> 10:55 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/africa/rwanda-paul-rusesabagina-sentence.html">Rwandan Court Declines to Extend Sentence for Paul Rusesabagina</a> NYT: Mr. Rusesabagina, who inspired the movie “Hotel Rwanda” and later lived in exile in the United States, had been given a 25-year term in a case condemned by human-rights groups. 
  <p class="updated_time"> 10:20 AM CT, Apr. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60982940?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Who won the Grammy Awards record of the year?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
- <p class="updated_time"> 05:59 AM CT, Apr. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60979688?at_medium=RSS&at_campaign=KARANGA">Imran Khan: What we know so far as PM's fate hangs in balance</a> BBC: The fate of Pakistan's prime minister - and the country - teeters on a decision by the Supreme Court. 
  <p class="updated_time"> 05:17 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/03/arts/music/ukraine-zelensky-john-legend-grammys.html">President Volodymyr Zelensky Gives Emotional Speech at the Grammys</a> NYT: The Ukrainian president, Volodymyr Zelensky, made a plea for support before John Legend performed, sharing the stage with a poet and a singer from Ukraine. 
- <p class="updated_time"> 01:53 AM CT, Apr. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60979177?at_medium=RSS&at_campaign=KARANGA">Gotabaya Rajapaksa: Angry Sri Lankans want president to go</a> BBC: Many Sri Lankans blame their controversial president Gotabaya Rajapaksa for the dire economic crisis. 
  <p class="updated_time"> 07:56 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/europe/pro-putin-leaders-in-hungary-and-serbia-election.html">Pro-Putin Leaders in Hungary and Serbia Set to Win Re-election</a> NYT: Viktor Orban declared victory, and Serbia’s Aleksandar Vucic seemed likely to emerge on top. Both pledged to stay out of Russia’s war in Ukraine. 
- <p class="updated_time"> 07:22 PM CT, Apr. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60972642?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: 'My son hides bread, afraid there won't be any food'</a> BBC: For those escaping besieged Mariupol, the suffering is far from over, especially for their children. 
  <p class="updated_time"> 05:45 PM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/europe/ukraine-russia-war-civilian-deaths.html">In the Kyiv Suburb of Bucha,‘They Shot Everyone They Saw’</a> NYT: With Russian forces retreating, Ukrainians in Bucha are finding scores of bodies in yards and on the roads amid mounting evidence of intentional and indiscriminate killings of civilians. 
 
@@ -200,7 +192,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:05 PM CT, Apr. 05 </p> 
+ <p class="updated_time"> 06:16 PM CT, Apr. 05 </p> 
+ <a href="https://www.nytimes.com/2022/04/05/us/politics/obama-biden-obamacare.html">With a Few Jokes, Biden and Obama Revisit the ‘Good Old Days’</a> NYT: The visit to the White House by former President Barack Obama, one of the Democratic Party’s most popular figures, comes at a time when President Biden could use a boost. 
+ <p class="updated_time"> 06:16 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/us/politics/pandemic-aid-immigration-senate-republicans.html">Pandemic Aid Bill Stalls Amid Dispute Over Immigration Restrictions</a> NYT: Republicans blocked a move to bring up a $10 billion Covid response package after Democrats refused to consider amendments, including one to keep in place pandemic-era immigration curbs. 
  <p class="updated_time"> 06:01 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/us/politics/eric-greitens-missouri-senate.html">Eric Greitens Tests the Limits of the Trump Scandal-Survival Playbook</a> NYT: A leading Republican candidate for Senate in Missouri, Greitens faces new allegations from his ex-wife that join a long list of controversies. But for now, he’s staying in the race. 
@@ -324,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/04/us/politics/ice-immigration-cases.html">ICE Lawyers Directed to Clear Low-Priority Immigration Cases</a> NYT: The effort could significantly reduce a backlog of asylum and deportation cases as the Biden administration anticipates a huge surge of migrants crossing the border. 
  <p class="updated_time"> 12:13 PM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/senate-strikes-10b-covid-deal-00022729">Senate strikes $10B Covid deal</a> Politico: The agreement leaves out global pandemic aid, a possible hurdle for Democratic support in the House. 
- <p class="updated_time"> 11:54 AM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/2022/04/02/us/politics/congressional-maps-gerrymandering-midterms.html">As Both Parties Gerrymander Furiously, State Courts Block the Way</a> NYT: State judges have been throwing out congressional maps they call partisan gerrymanders, in a sign of the effects of a 2019 Supreme Court ruling that pushed the issue below the federal level. 
  <p class="updated_time"> 09:35 AM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/progressives-manchin-fossil-fuel-climate-00022351">'Swallowing a toad': Progressives warm to Manchin's fossil fuel demands to clinch climate package</a> Politico: Voters' frustration with high energy prices and the likelihood that Democrats will lose control of the House in November have made progressives more open to a deal. 
  <p class="updated_time"> 08:06 AM CT, Apr. 04 </p> 
