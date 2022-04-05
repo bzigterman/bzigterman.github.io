@@ -9,26 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:48 AM CT, Apr. 05 </p> 
+ <p class="updated_time"> 07:12 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/04/05/world/ukraine-russia-war">Ukraine Live Updates: Zelensky to Address U.N. as Toll of Atrocities Grows</a> NYT: Ukraine’s president said that over 300 people had been killed and tortured in a Kyiv suburb. As he prepared to speak to the Security Council, U.S. and European allies vowed to hold Russia accountable for the killings. 
- <p class="updated_time"> 06:38 AM CT, Apr. 05 </p> 
+ <p class="updated_time"> 07:12 AM CT, Apr. 05 </p> 
+ <a href="https://www.nytimes.com/2022/04/05/world/europe/war-crimes-russia-ukraine.html">What Are War Crimes, and How Are They Prosecuted?</a> NYT: World leaders have vowed to hold President Vladimir V. Putin responsible for any atrocities by Russian forces. Past experience shows such cases take years to build and prosecute. 
+ <p class="updated_time"> 07:10 AM CT, Apr. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-60991775?at_medium=RSS&at_campaign=KARANGA">British father and son, 9, killed in Australian mountain landslide</a> BBC: Two other family members, a woman, 50, and her 14-year-old son, are in hospital with critical injuries. 
+ <p class="updated_time"> 06:58 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60994848?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky fears worst atrocities still to be found</a> BBC: Ukraine's president says Borodyanka may have suffered more than other towns abandoned by Russian troops. 
  <p class="updated_time"> 06:36 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/africa/darfur-janjaweed-trial-icc.html">Darfur War Crimes Trial Begins in Hague</a> NYT: A brutal campaign against a rebellion in Western Sudan displaced millions and left the world aghast. Two decades later, the first and only war crimes trial has gotten underway. 
  <p class="updated_time"> 06:25 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60993645?at_medium=RSS&at_campaign=KARANGA">EU eyes sanctions on Russian energy after alleged atrocities</a> BBC: Revelations of atrocities have added impetus to calls for further measures targeting Russian energy. 
+ <p class="updated_time"> 06:21 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251">U.S. and Allies Vow Action Over Reports of Russian Atrocities in Ukraine</a> WSJ: U.S. and Allies Vow Action Over Reports of Russian Atrocities in Ukraine 
  <p class="updated_time"> 06:08 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090837686/putin-war-crimes-prosecution-bucha">Charging Putin for potential war crimes is difficult, and any penalty hard to enforce</a> NPR: Neither Russia nor its president is likely to face an international tribunal — but that's not the only approach to war crimes, experts say. 
  <p class="updated_time"> 06:02 AM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/60981238?at_medium=RSS&at_campaign=KARANGA">Bucha killings: Satellite image of Bucha bodies site contradicts Russian claims</a> BBC: Russia called footage of bodies in Bucha 'staged' but its evidence for this does not stack up. 
- <p class="updated_time"> 05:53 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraines-president-vows-to-hold-russian-forces-to-account-after-war-crime-reports-11649068251">U.S. and Allies Vow Action Over Reports of Russian Atrocities in Ukraine</a> WSJ: U.S. and Allies Vow Action Over Reports of Russian Atrocities in Ukraine 
- <p class="updated_time"> 05:48 AM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60991775?at_medium=RSS&at_campaign=KARANGA">British father and son, 9, killed in Australian mountain landslide</a> BBC: Two other family members, a woman, 50, and her 14-year-old son, are in hospital with critical injuries. 
+ <a href="https://www.bbc.co.uk/news/60981238?at_medium=RSS&at_campaign=KARANGA">Bucha killings: Satellite image of bodies site contradicts Russian claims</a> BBC: Russia called footage of bodies in Bucha 'staged' but its evidence for this does not stack up. 
  <p class="updated_time"> 05:38 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090999672/russian-oligarch-yacht-seized">A Russian oligarch's $90 million yacht is seized as part of U.S. sanctions</a> NPR: "Today marks our taskforce's first seizure of an asset belonging to a sanctioned individual with close ties to the Russian regime. It will not be the last," said Attorney General Merrick Garland. 
  <p class="updated_time"> 05:30 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/sections/money/2022/04/05/1090920442/how-russia-rescued-the-ruble">How Russia rescued the ruble</a> NPR: The Russian ruble lost nearly half its value when Russia invaded Ukraine. Since then it has been the top performing currency in the world. 
+ <p class="updated_time"> 05:21 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-sanctions-hit-home-for-everyday-russians-11649118196">Ukraine War Sanctions Hit Home for Everyday Russians</a> WSJ: Ukraine War Sanctions Hit Home for Everyday Russians 
  <p class="updated_time"> 05:15 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60978795?at_medium=RSS&at_campaign=KARANGA">Sri Lanka MPs leave Gotabaya Rajapaksa-led coalition</a> BBC: More than 40 aligned with Mr Rajapaksa's coalition say they will independently represent themselves. 
  <p class="updated_time"> 05:15 AM CT, Apr. 05 </p> 
@@ -39,28 +43,28 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60993659?at_medium=RSS&at_campaign=KARANGA">Rare Sumatran rhino gives birth after eight miscarriages</a> BBC: The critically endangered Sumatran rhino gave birth to a female calf in an Indonesian sanctuary. 
  <p class="updated_time"> 05:00 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090821103/ukrainian-children-are-still-in-school-despite-the-war">Millions of Ukrainian children are still in school despite the war</a> NPR: Ukraine's focus on maintaining education during a war is in line with an emerging philosophy of disaster response. 
- <p class="updated_time"> 04:53 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-sanctions-hit-home-for-everyday-russians-11649118196">Ukraine War Sanctions Hit Home for Everyday Russians</a> WSJ: Ukraine War Sanctions Hit Home for Everyday Russians 
  <p class="updated_time"> 04:39 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090994275/zelenskyy-to-speak-at-u-n-as-evidence-builds-of-war-crimes">Ukraine president to speak at U.N. amid growing accusations of war crimes </a> NPR: World leaders expressed outrage over reports of dead Ukrainian civilians — many of whom appear to have been executed — strewn about in Bucha, a city northwest of Kyiv. 
+ <p class="updated_time"> 04:21 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/oil-gas-russia-renewable-energy-solar-wind-power-europe-11649086062">Ukraine War Drives Countries to Embrace Renewable Energy—but Not Yet</a> WSJ: Ukraine War Drives Countries to Embrace Renewable Energy—but Not Yet 
  <p class="updated_time"> 04:00 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/climate/weather-forecast-data.html">Lack of Hydrogen and Helium Led to Fewer Weather Surveying Balloon Trips</a> NYT: Disruptions to supplies of hydrogen and helium have led the National Weather Service to cancel routine launches at some sites. 
  <p class="updated_time"> 04:00 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090955568/the-climate-cost-of-the-war-in-ukraine">The climate cost of the war in Ukraine </a> NPR: There's concern the U.S. push to send more natural gas to Europe will increase climate warming emissions. But energy experts say the crisis might actually speed up the shift to cleaner energy. 
  <p class="updated_time"> 04:00 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1088634033/ukraine-refugees-piana-music-musician-russia-aid-medyka">Near the Polish border, a musician plays music to welcome those fleeing Ukraine</a> NPR: Refugees streaming across the border at the Medyka border crossing into Poland leave behind the air raid sirens and the sounds of war and are welcomed by musician Davide Martello. 
- <p class="updated_time"> 03:53 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/oil-gas-russia-renewable-energy-solar-wind-power-europe-11649086062">Ukraine War Drives Countries to Embrace Renewable Energy—but Not Yet</a> WSJ: Ukraine War Drives Countries to Embrace Renewable Energy—but Not Yet 
+ <p class="updated_time"> 03:21 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-womans-16-hour-bus-ride-into-quarantine-my-only-wish-is-to-leave-this-place-alive-11649131637">Shanghai Woman’s 16-Hour Bus Ride Into Quarantine: ‘My Only Wish is to Leave This Place Alive’</a> WSJ: Shanghai Woman’s 16-Hour Bus Ride Into Quarantine: ‘My Only Wish is to Leave This Place Alive’ 
  <p class="updated_time"> 03:13 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60993655?at_medium=RSS&at_campaign=KARANGA">Peru inflation: Civilians and police clash in Peru protests</a> BBC: Protests have taken place across Peru, as oil, gas and toll road prices rise. 
- <p class="updated_time"> 02:53 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/shanghai-womans-16-hour-bus-ride-into-quarantine-my-only-wish-is-to-leave-this-place-alive-11649131637">Shanghai Woman’s 16-Hour Bus Ride Into Quarantine: ‘My Only Wish is to Leave This Place Alive’</a> WSJ: Shanghai Woman’s 16-Hour Bus Ride Into Quarantine: ‘My Only Wish is to Leave This Place Alive’ 
+ <p class="updated_time"> 02:48 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">Europe to Propose Fresh Sanctions on Russia</a> WSJ: The European Union is set to propose new sanctions on Russia, including banning coal imports and more action against oligarchs, European officials said. All 27 member states must approve the measures. 
+ <p class="updated_time"> 02:21 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/shanghais-covid-19-cases-rise-above-13-000-as-city-extends-lockdown-11649119773">Shanghai’s Covid-19 Cases Rise as City Extends Lockdown</a> WSJ: Shanghai’s Covid-19 Cases Rise as City Extends Lockdown 
+ <p class="updated_time"> 02:04 AM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/taliban-crack-down-on-social-freedoms-with-even-stricter-policing-11649156657">Taliban Crack Down on Social Freedoms With Even Stricter Policing</a> WSJ: The Taliban have in recent weeks introduced draconian social restrictions, which in particular curb the freedoms of women, even as the group seeks international recognition. 
  <p class="updated_time"> 02:00 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/russia-ukraine-war-atrocities.html">Up-Close Ukraine Atrocity Photographs Touch a Global Nerve</a> NYT: The apparent execution of Ukrainian civilians by retreating Russian forces, their bodies strewn in streets and yards, has focused attention on what constitutes crimes in war. 
- <p class="updated_time"> 01:57 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">Europe to Propose Fresh Sanctions on Russia</a> WSJ: The European Union is set to propose new sanctions on Russia, including banning coal imports and more action against oligarchs, European officials said. All 27 member states must approve the measures. 
- <p class="updated_time"> 01:53 AM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/shanghais-covid-19-cases-rise-above-13-000-as-city-extends-lockdown-11649119773">Shanghai’s Covid-19 Cases Rise as City Extends Lockdown</a> WSJ: Shanghai’s Covid-19 Cases Rise as City Extends Lockdown 
  <p class="updated_time"> 01:51 AM CT, Apr. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Zelensky to Address U.N. With Claims of Russian Atrocities</a> WSJ: Ukraine’s president is preparing to address the United Nations Security Council after warning that newly uncovered atrocities could be worse than those in the city of Bucha. 
  <p class="updated_time"> 01:26 AM CT, Apr. 05 </p> 
@@ -177,8 +181,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/03/world/dead-civilians-bucha-ukraine.html">Images of Dead Civilians in Bucha Draws Outrage From U.S. and Others</a> NYT: Russia’s Ministry of Defense called the images “staged,” saying in a statement that “not a single” civilian had been injured in the town. 
  <p class="updated_time"> 05:22 AM CT, Apr. 03 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/taliban-opium-poppy-afghanistan.html">Taliban Outlaw Opium Poppy Cultivation in Afghanistan</a> NYT: The move will have far-reaching consequences for the many farmers who turned to the illicit crop as a brutal drought and economic crisis have gripped the country. 
- <p class="updated_time"> 04:24 AM CT, Apr. 03 </p> 
- <a href="https://www.nytimes.com/2022/04/03/world/asia/who-is-imran-khan.html">Who Is Imran Khan, Pakistan’s Prime Minister?</a> NYT: He was once a national hero who led Pakistan’s cricket team to a World Cup victory. Now, the embattled prime minister is fighting to stay in power. 
 
 
 </details>
@@ -186,6 +188,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:50 AM CT, Apr. 05 </p> 
+ <a href="https://www.politico.com/news/2022/04/05/trump-aide-new-hampshire-house-00022972">Trump aide seeking New Hampshire House seat voted in 2 states in 2016</a> Politico: Matt Mowers cast an absentee ballot in New Hampshire’s 2016 presidential primary. 
  <p class="updated_time"> 06:08 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1090837686/putin-war-crimes-prosecution-bucha">Charging Putin for potential war crimes is difficult, and any penalty hard to enforce</a> NPR: Neither Russia nor its president is likely to face an international tribunal — but that's not the only approach to war crimes, experts say. 
  <p class="updated_time"> 05:30 AM CT, Apr. 05 </p> 
@@ -256,8 +260,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/02/us/politics/congressional-maps-gerrymandering-midterms.html">As Both Parties Gerrymander Furiously, State Courts Block the Way</a> NYT: State judges have been throwing out congressional maps they call partisan gerrymanders, in a sign of the effects of a 2019 Supreme Court ruling that pushed the issue below the federal level. 
  <p class="updated_time"> 11:18 AM CT, Apr. 04 </p> 
  <a href="https://www.npr.org/2022/04/04/1090828587/trevor-reed-russian-prison-hospital-hunger-strike">Trevor Reed's family says he's back in a Russian prison hospital but not getting care</a> NPR: Reed's family says he has tuberculosis symptoms and lost 7 pounds in five days during a hunger strike. They are calling for the Biden administration to help bring the Marine veteran home. 
- <p class="updated_time"> 10:43 AM CT, Apr. 04 </p> 
- <a href="https://www.politico.com/news/2022/04/04/biden-bucha-massacre-war-crime-00022690">Biden on Bucha massacre: ‘It is a war crime’</a> Politico: The president emphasized the need to collect evidence for trying Vladimir Putin as a war criminal. 
  <p class="updated_time"> 10:42 AM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/senate-confirm-jackson-gop-00022673">Senate overcomes GOP hurdle to advance Jackson</a> Politico: Three Republicans joined all Democrats to move forward on her nomination, despite a tied vote in the Judiciary Committee. 
  <p class="updated_time"> 09:35 AM CT, Apr. 04 </p> 
