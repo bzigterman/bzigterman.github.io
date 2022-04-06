@@ -17,24 +17,24 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/putin-russia-assets-wealth-sanctions.html">Why Tracking Putin’s Wealth Is So Difficult</a> NYT: Amid speculation that oligarchs are holding cash and luxury assets for the Russian president, many of his extravagances can be traced elsewhere: the Russian state. 
  <p class="updated_time"> 01:36 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61005827?at_medium=RSS&at_campaign=KARANGA">Gotabaya Rajapaksa: Sri Lanka president defies calls for his resignation</a> BBC: Gotabaya Rajapaksa has lost wider political support as protests continue over food and gas shortages. 
+ <p class="updated_time"> 01:34 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</a> WSJ: Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes 
  <p class="updated_time"> 01:27 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/americas/el-salvador-media-gangs.html">El Salvador’s New Law on Gangs Raises Censorship Fears</a> NYT: A measure punishing the sharing of information about gangs is so vague, critics say, that virtually anyone can be arrested for speaking or writing about them, putting journalists in the cross hairs. 
- <p class="updated_time"> 01:19 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</a> WSJ: Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes 
  <p class="updated_time"> 01:04 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-russia-war-crimes.html">Why War Crimes Charges Over Ukraine Face High Hurdles</a> NYT: The indictment of Slobodan Milosevic, the president of Yugoslavia, was a seminal moment in legal history. But prosecuting war crimes remains a steep climb. 
  <p class="updated_time"> 12:35 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091195737/sri-lanka-president-revokes-emergency">Sri Lankan president revokes emergency amid growing protests</a> NPR: Anti-government public protests initially began over shortages of essentials such as cooking gas, petrol, electricity and milk powder and have spread to every part of the Indian Ocean island nation. 
+ <p class="updated_time"> 12:34 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611">Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine</a> WSJ: Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine 
  <p class="updated_time"> 12:23 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61002623?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Destruction in the Ukrainian town of Borodyanka</a> BBC: Police say there could be hundreds of people buried under rubble of blocks destroyed by Russian attacks. 
  <p class="updated_time"> 12:19 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611">Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine</a> WSJ: Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine 
- <p class="updated_time"> 12:19 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091194471/australia-u-k-u-s-hypersonic-missiles">Australia, the U.K. and the U.S. say they will develop hypersonic missiles</a> NPR: The announcement comes amid growing concern by the U.S. and its allies about China's growing military assertiveness and Washington's concern of Russia using the weapons in Ukraine. 
+ <p class="updated_time"> 11:34 PM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports</a> WSJ: U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports 
  <p class="updated_time"> 11:27 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005390?at_medium=RSS&at_campaign=KARANGA">Oklahoma lawmakers pass near-total ban on abortion</a> BBC: The new laws could see doctors face fines of up to $100,000 and up to 10 years in prison. 
- <p class="updated_time"> 11:19 PM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports</a> WSJ: U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports 
  <p class="updated_time"> 11:19 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005388?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Western leaders to impose further sanctions on Russia</a> BBC: The US said the measures will target Russian businesses, as well as state officials and oligarchs. 
  <p class="updated_time"> 11:07 PM CT, Apr. 05 </p> 
@@ -45,14 +45,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/05/world/africa/darfur-janjaweed-trial-icc.html">Darfur War Crimes Trial Begins in Hague</a> NYT: A brutal campaign in western Sudan left the world aghast. Two decades later, the first and only Darfur war crimes trial opened for a man accused of leading the terrifying janjaweed militia. 
  <p class="updated_time"> 10:42 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61003270?at_medium=RSS&at_campaign=KARANGA">Twitter confirms it is working on an edit button</a> BBC: It comes after new board member Elon Musk asked his followers if they wanted the feature. 
+ <p class="updated_time"> 10:34 PM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/a-quarter-of-africans-face-food-security-crisis-partly-due-to-ukraine-war-red-cross-says-11649176087">A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says</a> WSJ: A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says 
  <p class="updated_time"> 10:24 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/canada/revenue-sharing-facebook-google.html">Canada to Require Tech Giants to Compensate News Publishers</a> NYT: The bill aims to compensate struggling news organizations, and follows similar moves by Europe and Australia. 
- <p class="updated_time"> 10:19 PM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/a-quarter-of-africans-face-food-security-crisis-partly-due-to-ukraine-war-red-cross-says-11649176087">A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says</a> WSJ: A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says 
+ <p class="updated_time"> 09:34 PM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/covid-cases-in-china-hit-record-as-shanghai-extends-lockdown-11649154418">Covid Cases in China Hit Record, as Shanghai Extends Lockdown</a> WSJ: Covid Cases in China Hit Record, as Shanghai Extends Lockdown 
  <p class="updated_time"> 09:26 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/americas/peru-protests-emergency-curfew.html">Peru’s President Lifts Curfew That Shut Down Capital to Curb Protests</a> NYT: President Pedro Castillo had banned Lima residents from leaving their homes for nearly 24 hours, raising concerns among human rights groups and critics, but demonstrations continued after he backtracked. 
- <p class="updated_time"> 09:19 PM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/covid-cases-in-china-hit-record-as-shanghai-extends-lockdown-11649154418">Covid Cases in China Hit Record, as Shanghai Extends Lockdown</a> WSJ: Covid Cases in China Hit Record, as Shanghai Extends Lockdown 
  <p class="updated_time"> 09:07 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/zelensky-un-security-council.html">Zelensky Accuses Russia of War Crimes, Criticizes U.N.’s Inaction</a> NYT: In a blistering address to the United Nations Security Council, Ukraine’s president asked what use the body was if it would not intervene to stop a war of aggression. 
  <p class="updated_time"> 08:55 PM CT, Apr. 05 </p> 
@@ -64,7 +64,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:03 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/bucha-shooting-video.html">Video Captures Russian Forces Firing on Ukrainian Cyclist in Bucha</a> NYT: Chilling aerial video from Ukraine adds to the evidence of Russian atrocities against civilians and undercuts their denials of wrongdoing. 
  <p class="updated_time"> 06:56 PM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60983131?at_medium=RSS&at_campaign=KARANGA">Namit Malhotra: The Indian who won a VFX Oscar for Dune</a> BBC: Namit Malhotra started his company from a garage in Mumbai. Now it's winning Academy Awards. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-60983131?at_medium=RSS&at_campaign=KARANGA">Dune: The Indian behind VFX Oscar for sci-fi epic</a> BBC: Namit Malhotra started his company from a garage in Mumbai. Now it's winning Academy Awards. 
  <p class="updated_time"> 06:52 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60980009?at_medium=RSS&at_campaign=KARANGA">Brazil at work: Black and held back</a> BBC: Brazil has one of the world's largest black populations but black people only hold 6% of managerial posts. 
  <p class="updated_time"> 06:45 PM CT, Apr. 05 </p> 
