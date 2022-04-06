@@ -9,18 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:02 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 09:23 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/04/06/world/ukraine-russia-war-news">Ukraine Live Updates: Europe and NATO Weigh Tougher Steps to Punish Russia</a> NYT: The European Union was discussing a ban on imports of Russian coal, and NATO leaders were considering more military aid to Ukraine. The escalation in pressure came after President Volodymyr Zelensky delivered a fiery speech to the U.N. Security Council. 
+ <p class="updated_time"> 09:22 AM CT, Apr. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61008332?at_medium=RSS&at_campaign=KARANGA">Thomas Sankara murder: Ex-Burkina Faso President Blaise Compaoré found guilty</a> BBC: Burkina Faso's former leader Blaise Compaoré is found guilty of complicity in killing his close friend. 
+ <p class="updated_time"> 09:19 AM CT, Apr. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61007121?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Giving Russia money for energy is 'blood money' - Ukraine PM</a> BBC: Ukraine Prime Minister Denys Shmyhal calls for countries to stop buying Russian for oil and gas. 
  <p class="updated_time"> 09:00 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/sports/ping-pong-wally-green.html">‘The Sport of Love’: Ping-Pong, the Great Equalizer</a> NYT: Wally Green has played everywhere from Brooklyn to Pyongyang, becoming a beloved American ambassador for table tennis — and international understanding — in the process. 
  <p class="updated_time"> 08:57 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/americas/machu-picchu-real-name-peru.html">The Site Called ‘Machu Picchu’ Had Another Name First, Researchers Say</a> NYT: For decades, the ancient Incan ruins in Peru have been called Machu Picchu. But the original name was Picchu or Huayna Picchu, according to two researchers. 
- <p class="updated_time"> 08:43 AM CT, Apr. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61008332?at_medium=RSS&at_campaign=KARANGA">Thomas Sankara murder: Ex-Burkina Faso President Blaise Compaoré found guilty</a> BBC: Burkina Faso's former leader Blaise Compaoré is found guilty of complicity in killing his close friend. 
+ <p class="updated_time"> 08:38 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</a> WSJ: Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes 
  <p class="updated_time"> 08:34 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005390?at_medium=RSS&at_campaign=KARANGA">Oklahoma lawmakers pass near-total ban on abortion</a> BBC: The new laws could see doctors face fines of up to $100,000 and up to 10 years in prison. 
- <p class="updated_time"> 08:25 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</a> WSJ: Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes 
  <p class="updated_time"> 08:07 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61008292?at_medium=RSS&at_campaign=KARANGA">Putin's ultranationalist ally and clown Zhirinovsky dies at 75</a> BBC: Vladimir Zhirinovsky has died in hospital, after a career built on fiery remarks and absurd antics. 
  <p class="updated_time"> 08:04 AM CT, Apr. 06 </p> 
@@ -31,17 +33,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/europe/greece-fire-covid-ward.html">Fire at Covid Ward in Greece Kills 1 and Injures at Least 2 </a> NYT: The episode is the latest deadly fire at a hospital ward for coronavirus patients since the pandemic began. 
  <p class="updated_time"> 07:52 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/africa/burkina-faso-blaise-compaore-conviction.html">Ex-Leader of Burkina Faso Convicted in Killing of Predecessor </a> NYT: A military tribunal sentenced former President Blaise Compaoré, who is now in exile, to life imprisonment for his role in the 1987 assassination. 
+ <p class="updated_time"> 07:38 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611">Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine</a> WSJ: Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine 
  <p class="updated_time"> 07:32 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/vladimir-zhirinovsky-dead.html">Vladimir V. Zhirinovsky, Ultranationalist Russian Politician, Dies at 75</a> NYT: Mr. Zhirinovsky ran against President Vladimir V. Putin repeatedly in elections, but he was also a crucial player in the Russian leader’s system of “managed democracy.” 
  <p class="updated_time"> 07:29 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/business/india-spinal-muscular-atrophy.html">In India, Parents of Children with Rare Disease Plea for Help Online</a> NYT: India makes many of the world’s drugs, but treatments for rare diseases like spinal muscular atrophy are imported and prohibitively costly. In desperation, parents are raising funds on social media. 
- <p class="updated_time"> 07:25 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611">Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine</a> WSJ: Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine 
  <p class="updated_time"> 06:51 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/bucha-shooting-video.html">Video Captures Russian Forces Firing on Ukrainian Cyclist in Bucha</a> NYT: Chilling aerial video from Ukraine adds to the evidence of Russian atrocities against civilians and undercuts their denials of wrongdoing. 
  <p class="updated_time"> 06:46 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005388?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Western leaders to impose further sanctions on Russia</a> BBC: The Ukrainian president expressed frustration ahead of new EU and US sanctions being announced. 
- <p class="updated_time"> 06:25 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 06:38 AM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports</a> WSJ: U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports 
  <p class="updated_time"> 06:13 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/mykolaiv-ukraine-shelling-civilians.html">In Mykolaiv, Residential Areas Are Increasingly Under Threat</a> NYT: Civilian infrastructure and homes in the Black Sea city have increasingly been targeted after weeks of Russian shelling, local officials and soldiers say. 
@@ -49,22 +51,32 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/middleeast/idit-silman-israel-coalition.html">Israel’s Government in Crisis After Senior Lawmaker Quits Coalition</a> NYT: Idit Silman, the de facto government whip, left the coalition, depriving the government of a parliamentary majority. But her move does not mean the opposition can win a vote of no confidence, at least for now. 
  <p class="updated_time"> 05:50 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091125305/bucha-ukraine-executions-war-crime-allegations">In Bucha, death, devastation and a graveyard of mines</a> NPR: Images of dead civilians in the streets of Bucha shocked the world and intensified concerns of Russian war crimes in Ukraine. Officials want more military aid, and bigger consequences for Russia. 
- <p class="updated_time"> 05:25 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 05:38 AM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/a-quarter-of-africans-face-food-security-crisis-partly-due-to-ukraine-war-red-cross-says-11649176087">A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says</a> WSJ: A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says 
  <p class="updated_time"> 05:19 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61006984?at_medium=RSS&at_campaign=KARANGA">Ed Sheeran wins Shape of You copyright case and hits out at 'baseless' claims</a> BBC: After the High Court judgement, the singer says such "baseless" claims "are way too common now". 
  <p class="updated_time"> 05:00 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091141947/forbes-billionaires-wealth-shrunk-russia">The number of billionaires has fallen (but they're worth a collective $12.7 trillion) </a> NPR: There are 87 fewer billionaires on this year's list than in 2021, and their total wealth dipped by $400 billion, the outlet reported. 
+ <p class="updated_time"> 04:47 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine urged civilians to leave the eastern Kharkiv, Donetsk and Luhansk regions as it braced for a major new Russian offensive following Moscow’s withdrawal from the north of the country. 
  <p class="updated_time"> 04:41 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091203259/blinken-brussels-nato-russia-warcrimes-">Antony Blinken will meet with allies in Brussels to discuss actions against Russia</a> NPR: The U.S. secretary of state will meet with NATO and G-7 members to talk punitive measures following reports of Russian war crimes against Ukraine. 
+ <p class="updated_time"> 04:38 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/covid-cases-in-china-hit-record-as-shanghai-extends-lockdown-11649154418">Covid Cases in China Hit Record, as Shanghai Extends Lockdown</a> WSJ: Covid Cases in China Hit Record, as Shanghai Extends Lockdown 
  <p class="updated_time"> 04:32 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/germany-gas-russia-ukraine.html">Germany’s Dependence on Russian Gas Is Difficult to Break</a> NYT: Dangerously dependent on Russian gas, Germany is still refusing to cut off President Putin, whose war it is effectively subsidizing to the tune of some $220 million a day. 
- <p class="updated_time"> 04:25 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/covid-cases-in-china-hit-record-as-shanghai-extends-lockdown-11649154418">Covid Cases in China Hit Record, as Shanghai Extends Lockdown</a> WSJ: Covid Cases in China Hit Record, as Shanghai Extends Lockdown 
  <p class="updated_time"> 04:00 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/asia/ukraine-south-korea-nuclear-weapons.html">Ukraine War Revives Nuclear Question in South Korea</a> NYT: Seoul abandoned a covert program in the 1970s, but some argue it is time for the country to embrace its nuclear ambitions and safeguard against a Russia-style invasion. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-surprise-strike-on-russian-fleet-hobbles-putins-donbas-strategy-11649250001">Ukraine's Surprise Strike on Russian Navy Hobbles Putin's Donbas Strategy</a> WSJ: Kyiv’s offensive last month against the Russian fleet at the port of Berdyansk could undermine Moscow’s efforts to expand its hold on Donbas, analysts say. 
+ <p class="updated_time"> 03:57 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin's Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: The U.S. and Europe have added Russian President Vladimir Putin’s two adult daughters to a list of possible sanctioned individuals, casting a spotlight on a family shrouded for years in secrecy. 
+ <p class="updated_time"> 03:43 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/french-prosecutors-launch-probe-after-macron-government-spending-on-mckinsey-11649243945">French Prosecutors Launch Probe After Macron Government Spending on McKinsey</a> WSJ: Prosecutors said their investigation was focused on potential tax fraud and money laundering, without naming any suspects. 
  <p class="updated_time"> 03:33 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091199080/metoo-moment-hits-japan-film-industry">A #MeToo crisis is raging in the Japanese film industry</a> NPR: A #MeToo moment may be growing in a country where top movie directors have signed a petition expressing outrage over allegations of sexual violence in the film industry. 
+ <p class="updated_time"> 02:05 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/viral-recordings-tap-into-anger-at-shanghais-covid-response-11649243138">Viral Recordings Tap Into Anger at Shanghai's Covid Response</a> WSJ: City residents find channel to voice growing frustration as Beijing sticks to its war at all costs against the pandemic. 
  <p class="updated_time"> 02:00 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/putin-russia-assets-wealth-sanctions.html">Why Tracking Putin’s Wealth Is So Difficult</a> NYT: Amid speculation that oligarchs are holding cash and luxury assets for the Russian president, many of his extravagances can be traced elsewhere: the Russian state. 
  <p class="updated_time"> 01:36 AM CT, Apr. 06 </p> 
@@ -191,8 +203,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/04/world/europe/russia-ukraine-peace-talks.html">Atrocities in Bucha Complicate Russia-Ukraine Peace Talks</a> NYT: It was unclear what effect the killing of civilians outside Kyiv, the Ukrainian capital, would have on negotiations. 
  <p class="updated_time"> 12:26 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/climate/ipcc-report-explained.html">5 Takeaways From the U.N. Report on Limiting Global Warming</a> NYT: Current pledges to cut emissions, even if nations follow through on them, won’t stop temperatures from rising to risky new levels. 
- <p class="updated_time"> 11:33 AM CT, Apr. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60989412?at_medium=RSS&at_campaign=KARANGA">Ukraine war: President Zelensky visits site of alleged atrocities in Bucha</a> BBC: The Ukrainian president says people have been found in barrels, having been strangled and tortured. 
  <p class="updated_time"> 10:55 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/africa/rwanda-paul-rusesabagina-sentence.html">Rwandan Court Declines to Extend Sentence for Paul Rusesabagina</a> NYT: Mr. Rusesabagina, who inspired the movie “Hotel Rwanda” and later lived in exile in the United States, had been given a 25-year term in a case condemned by human-rights groups. 
 
@@ -202,7 +212,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:11 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 09:36 AM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/business/energy-environment/gas-prices-executives-congress.html">Oil Executives to Speak About High Gas Prices at House Hearing</a> NYT: Leaders of Exxon Mobil, Chevron and four other companies were testifying about gas prices before a House committee on Wednesday. 
+ <p class="updated_time"> 09:27 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/fda-covid-boosters.html">F.D.A. Advisory Panel Discussing U.S. Vaccine Strategy</a> NYT: Outside experts are exploring the need to reconfigure vaccines in order to better protect the nation against new variants. 
  <p class="updated_time"> 08:59 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091018301/student-loan-pause-extended">The student loan pause has been extended until the end of the summer</a> NPR: The Biden administration extended the freeze on student loan payments yet again, this time until September, and announced a reset for borrowers in default. 
@@ -214,8 +226,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/us/politics/supreme-court-clean-water-act.html">Supreme Court Revives Trump-Era Environmental Regulation</a> NYT: The regulation, which was welcomed by industry groups, limited the role of states in enforcing the Clean Water Act. 
  <p class="updated_time"> 08:05 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/05/us/politics/cdc-second-boosters.html">C.D.C. Director Encourages Second Booster for Elderly and Many With Chronic Conditions</a> NYT: The remarks by the director, Dr. Rochelle P. Walensky — on shots to Americans 50 to 64 with underlying medical conditions and all those 65 and older — were her clearest statement to date. 
- <p class="updated_time"> 07:08 AM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/business/energy-environment/gas-prices-executives-congress.html">Oil Executives to Speak About High Gas Prices at House Hearing</a> NYT: Leaders of Exxon Mobil, Chevron and four other companies are likely to face tough questions from a House committee on Wednesday morning. 
  <p class="updated_time"> 06:01 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091015744/struggling-democrats-hope-growing-union-support-will-provide-boost-in-midterms">Struggling Democrats hope growing union support will provide boost in midterms</a> NPR: With support for unions at its highest point since 1965, Democrats hope they can capitalize on that sentiment as they struggle to connect with voters on other issues. 
  <p class="updated_time"> 04:11 AM CT, Apr. 06 </p> 
@@ -265,7 +275,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:21 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091109374/president-zelenskyy-asks-the-un-security-council-to-take-action-to-stop-the-war">President Zelenskyy asks the UN Security Council to take action to stop the war</a> NPR: Ukrainian President Volodymyr Zelenskyy demanded that the UN Security Council hold Russia accountable, and he urged the council to remove Russia as a member. 
  <p class="updated_time"> 03:21 PM CT, Apr. 05 </p> 
- <a href="https://www.npr.org/2022/04/05/1091109353/georgia-gop-makes-a-push-for-conservative-education-bills">Georgia GOP makes a push for conservative education bills</a> NPR: Despite a difficult 2022 election ahead for the Georgia GOP, lawmakers are pushing to the right on education, passing a parents' bill of rights and a ban on transgender sports and "divisive concepts." 
+ <a href="https://www.npr.org/2022/04/05/1091109353/georgia-gop-makes-a-push-for-conservative-education-bills">Georgia GOP makes a push for conservative education bills</a> NPR: Despite a difficult 2022 election ahead for the Georgia GOP, lawmakers are pushing to the right on education, passing a parents' bill of rights and changes on trans sports and "divisive concepts." 
  <p class="updated_time"> 03:13 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091097742/coast-guard-first-woman-commander">Biden's Coast Guard pick would become the 1st woman to command a military branch</a> NPR: President Biden has nominated Adm. Linda Fagan to serve as the next commandant of the U.S. Coast Guard. Fagan, who has served on all seven continents, is currently the Coast Guard's second-in-command. 
  <p class="updated_time"> 03:05 PM CT, Apr. 05 </p> 
