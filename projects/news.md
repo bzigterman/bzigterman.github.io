@@ -21,7 +21,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/06/1091194471/australia-u-k-u-s-hypersonic-missiles">Australia, the U.K. and the U.S. say they will develop hypersonic missiles</a> NPR: The announcement comes amid growing concern by the U.S. and its allies about China's growing military assertiveness and Washington's concern of Russia using the weapons in Ukraine. 
  <p class="updated_time"> 12:00 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61005827?at_medium=RSS&at_campaign=KARANGA">Gotabaya Rajapaksa: Under-fire Sri Lanka president lifts state of emergency</a> BBC: President Gotabaya Rajapaksa said the widely criticised law would be lifted from Wednesday. 
- <p class="updated_time"> 11:46 PM CT, Apr. 05 </p> 
+ <p class="updated_time"> 11:54 PM CT, Apr. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</a> WSJ: Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes 
  <p class="updated_time"> 11:27 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005390?at_medium=RSS&at_campaign=KARANGA">Oklahoma lawmakers pass near-total ban on abortion</a> BBC: The new laws could see doctors face fines of up to $100,000 and up to 10 years in prison. 
@@ -33,13 +33,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/05/climate/epa-asbestos-ban.html">E.P.A. to Propose Restrictions on Asbestos</a> NYT: The agency aims to ban the manufacturing and import of a type of asbestos that is used in brake pads, gaskets and other automotive products and is linked to cancer. 
  <p class="updated_time"> 10:57 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/africa/darfur-janjaweed-trial-icc.html">Darfur War Crimes Trial Begins in Hague</a> NYT: A brutal campaign in western Sudan left the world aghast. Two decades later, the first and only Darfur war crimes trial opened for a man accused of leading the terrifying janjaweed militia. 
- <p class="updated_time"> 10:46 PM CT, Apr. 05 </p> 
+ <p class="updated_time"> 10:54 PM CT, Apr. 05 </p> 
  <a href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611">Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine</a> WSJ: Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine 
  <p class="updated_time"> 10:42 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61003270?at_medium=RSS&at_campaign=KARANGA">Twitter confirms it is working on an edit button</a> BBC: It comes after new board member Elon Musk asked his followers if they wanted the feature. 
  <p class="updated_time"> 10:24 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/canada/revenue-sharing-facebook-google.html">Canada to Require Tech Giants to Compensate News Publishers</a> NYT: The bill aims to compensate struggling news organizations, and follows similar moves by Europe and Australia. 
- <p class="updated_time"> 09:46 PM CT, Apr. 05 </p> 
+ <p class="updated_time"> 09:54 PM CT, Apr. 05 </p> 
  <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports</a> WSJ: U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports 
  <p class="updated_time"> 09:26 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/americas/peru-protests-emergency-curfew.html">Peru’s President Lifts Curfew That Shut Down Capital to Curb Protests</a> NYT: President Pedro Castillo had banned Lima residents from leaving their homes for nearly 24 hours, raising concerns among human rights groups and critics, but demonstrations continued after he backtracked. 
@@ -47,11 +47,11 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/05/world/europe/zelensky-un-security-council.html">Zelensky Accuses Russia of War Crimes, Criticizes U.N.’s Inaction</a> NYT: In a blistering address to the United Nations Security Council, Ukraine’s president asked what use the body was if it would not intervene to stop a war of aggression. 
  <p class="updated_time"> 08:55 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61004345?at_medium=RSS&at_campaign=KARANGA">Ivanka Trump testifies to Capitol riot committee</a> BBC: The ex-president's daughter gives evidence days after her husband and fellow aide also spoke to Congress. 
- <p class="updated_time"> 08:46 PM CT, Apr. 05 </p> 
+ <p class="updated_time"> 08:54 PM CT, Apr. 05 </p> 
  <a href="https://www.wsj.com/articles/a-quarter-of-africans-face-food-security-crisis-partly-due-to-ukraine-war-red-cross-says-11649176087">A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says</a> WSJ: A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says 
  <p class="updated_time"> 08:43 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/war-crimes-russia-ukraine.html">What Are War Crimes, and How Are They Prosecuted?</a> NYT: World leaders have vowed to hold President Vladimir V. Putin responsible for any atrocities by Russian forces. Past experience shows such cases take years to build and prosecute. 
- <p class="updated_time"> 07:46 PM CT, Apr. 05 </p> 
+ <p class="updated_time"> 07:54 PM CT, Apr. 05 </p> 
  <a href="https://www.wsj.com/articles/covid-cases-in-china-hit-record-as-shanghai-extends-lockdown-11649154418">Covid Cases in China Hit Record, as Shanghai Extends Lockdown</a> WSJ: Covid Cases in China Hit Record, as Shanghai Extends Lockdown 
  <p class="updated_time"> 07:04 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/bucha-ukraine-bodies.html">Dead Lay Out in Bucha for Weeks, Refuting Russian Claim, Satellite Images Show</a> NYT: The images rebut Russia’s claim that the killing of civilians in Bucha, near Kyiv, took place after its soldiers had left town. 
@@ -143,8 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61002622?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Many more cities like Bucha says President Zelensky</a> BBC: Volodymyr Zelensky addressed the UN Security Council for the first time since Russia invaded Ukraine. 
  <p class="updated_time"> 09:56 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/hungary-orban-election-putin-ukraine.html">With a Neutral Stance on Ukraine, Viktor Orban Pulled in Voters</a> NYT: The Hungarian prime minister’s party also made a strong showing in Sunday’s election, though independent observers said the vote was tilted in the ruling party’s favor. 
- <p class="updated_time"> 09:19 AM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60993645?at_medium=RSS&at_campaign=KARANGA">EU targets Russian coal and ships in new sanctions</a> BBC: Revelations of atrocities have added impetus to calls for further measures against Russia's economy. 
  <p class="updated_time"> 09:08 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/un-security-council-russia-ukraine.html">Zelensky to Speak at U.N. Security Council Meeting on Russia</a> NYT: Mr. Zelensky was expected to make the case that Russian forces have committed war crimes, as evidence emerges of civilian killings in the suburbs of Kyiv. 
  <p class="updated_time"> 05:04 AM CT, Apr. 05 </p> 
@@ -181,6 +179,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/04/climate/ipcc-report-explained.html">5 Takeaways From the U.N. Report on Limiting Global Warming</a> NYT: Current pledges to cut emissions, even if nations follow through on them, won’t stop temperatures from rising to risky new levels. 
  <p class="updated_time"> 11:55 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/03/world/asia/hong-kong-carrie-lam-covid.html">Carrie Lam, Hong Kong’s Leader, Won’t Seek Second Term</a> NYT: Carrie Lam, the territory’s chief executive, said Monday that she would not seek a second term. Her tenure was marked by protests, a contentious law and a devastating Covid outbreak. 
+ <p class="updated_time"> 11:33 AM CT, Apr. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60989412?at_medium=RSS&at_campaign=KARANGA">Ukraine war: President Zelensky visits site of alleged atrocities in Bucha</a> BBC: The Ukrainian president says people have been found in barrels, having been strangled and tortured. 
  <p class="updated_time"> 11:26 AM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/travel/starling-murmurations.html">The Transfixing Beauty of Starling Murmurations</a> NYT: Each spring and autumn, the skies in southern Denmark come to life with the swirling displays of hundreds of thousands of starlings, an event known locally as “sort sol.” 
  <p class="updated_time"> 10:55 AM CT, Apr. 04 </p> 
@@ -207,7 +207,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:48 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/us/politics/durham-sussmann-trump.html">More Evidence Bolsters Durham’s Case Against Michael Sussman</a> NYT: Separately, defense lawyers asked a judge to block the Trump-era special counsel from making the Steele dossier a focus of next month’s trial. 
  <p class="updated_time"> 07:16 PM CT, Apr. 05 </p> 
- <a href="https://www.nytimes.com/2022/04/05/us/politics/coronavirus-pandemic-aid-immigration.html">Coronavirus Response Bill Stalls Amid Dispute Over Immigration Policy</a> NYT: Republicans blocked a move to bring up a $10 billion Covid response package after Democrats refused to consider amendments, including one to keep in place pandemic-era immigration curbs. 
+ <a href="https://www.nytimes.com/2022/04/05/us/politics/coronavirus-pandemic-aid-immigration.html">Pandemic Aid Bill Stalls Amid Dispute Over Immigration Restrictions</a> NYT: Republicans blocked a move to bring up a $10 billion Covid response package after Democrats refused to consider amendments, including one to keep in place pandemic-era immigration curbs. 
  <p class="updated_time"> 06:32 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/us/politics/obama-biden-obamacare.html">With a Few Jokes, Biden and Obama Revisit the ‘Good Old Days’</a> NYT: The visit to the White House by former President Barack Obama, one of the Democratic Party’s most popular figures, comes at a time when President Biden could use a boost. 
  <p class="updated_time"> 06:01 PM CT, Apr. 05 </p> 
