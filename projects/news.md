@@ -9,46 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:13 AM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/05/world/ukraine-russia-war">What Happened on Day 41 of the War in Ukraine</a> NYT: “Now the world can see what Russia did in Bucha,” President Volodymyr Zelensky of Ukraine said of the slaughter of civilians, during a fiery speech to the U.N. Security Council in which he showed a graphic video of the aftermath. 
  <p class="updated_time"> 11:27 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005390?at_medium=RSS&at_campaign=KARANGA">Oklahoma lawmakers pass near-total ban on abortion</a> BBC: The new laws could see doctors face fines of up to $100,000 and up to 10 years in prison. 
- <p class="updated_time"> 11:21 PM CT, Apr. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/04/05/world/ukraine-russia-war">Ukraine Live Updates: As Zelensky Deplores U.N. Inaction, West Turns Up Economic Pressure on Russia</a> NYT: “Now the world can see what Russia did in Bucha,” President Volodymyr Zelensky of Ukraine said of the slaughter of civilians, during a fiery speech to the U.N. Security Council in which he showed a graphic video of the aftermath. 
  <p class="updated_time"> 11:19 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005388?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Western leaders to impose further sanctions on Russia</a> BBC: The US said the measures will target Russian businesses, as well as state officials and oligarchs. 
+ <p class="updated_time"> 11:14 PM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</a> WSJ: Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes 
  <p class="updated_time"> 11:07 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/climate/weather-forecast-data.html">Lack of Hydrogen and Helium Led to Fewer Weather Surveying Balloon Trips</a> NYT: Disruptions to supplies of hydrogen and helium have led the National Weather Service to cancel routine launches at some sites. 
  <p class="updated_time"> 11:01 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/climate/epa-asbestos-ban.html">E.P.A. to Propose Restrictions on Asbestos</a> NYT: The agency aims to ban the manufacturing and import of a type of asbestos that is used in brake pads, gaskets and other automotive products and is linked to cancer. 
  <p class="updated_time"> 10:57 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/africa/darfur-janjaweed-trial-icc.html">Darfur War Crimes Trial Begins in Hague</a> NYT: A brutal campaign in western Sudan left the world aghast. Two decades later, the first and only Darfur war crimes trial opened for a man accused of leading the terrifying janjaweed militia. 
- <p class="updated_time"> 10:53 PM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</a> WSJ: Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes 
  <p class="updated_time"> 10:42 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61003270?at_medium=RSS&at_campaign=KARANGA">Twitter confirms it is working on an edit button</a> BBC: It comes after new board member Elon Musk asked his followers if they wanted the feature. 
  <p class="updated_time"> 10:24 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/canada/revenue-sharing-facebook-google.html">Canada to Require Tech Giants to Compensate News Publishers</a> NYT: The bill aims to compensate struggling news organizations, and follows similar moves by Europe and Australia. 
- <p class="updated_time"> 09:53 PM CT, Apr. 05 </p> 
+ <p class="updated_time"> 10:14 PM CT, Apr. 05 </p> 
  <a href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611">Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine</a> WSJ: Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine 
  <p class="updated_time"> 09:26 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/americas/peru-protests-emergency-curfew.html">Peru’s President Lifts Curfew That Shut Down Capital to Curb Protests</a> NYT: President Pedro Castillo had banned Lima residents from leaving their homes for nearly 24 hours, raising concerns among human rights groups and critics, but demonstrations continued after he backtracked. 
+ <p class="updated_time"> 09:14 PM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports</a> WSJ: U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports 
  <p class="updated_time"> 09:07 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/zelensky-un-security-council.html">Zelensky Accuses Russia of War Crimes, Criticizes U.N.’s Inaction</a> NYT: In a blistering address to the United Nations Security Council, Ukraine’s president asked what use the body was if it would not intervene to stop a war of aggression. 
  <p class="updated_time"> 08:55 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61004345?at_medium=RSS&at_campaign=KARANGA">Ivanka Trump testifies to Capitol riot committee</a> BBC: The ex-president's daughter gives evidence days after her husband and fellow aide also spoke to Congress. 
- <p class="updated_time"> 08:53 PM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports</a> WSJ: U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports 
  <p class="updated_time"> 08:43 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/war-crimes-russia-ukraine.html">What Are War Crimes, and How Are They Prosecuted?</a> NYT: World leaders have vowed to hold President Vladimir V. Putin responsible for any atrocities by Russian forces. Past experience shows such cases take years to build and prosecute. 
- <p class="updated_time"> 07:53 PM CT, Apr. 05 </p> 
+ <p class="updated_time"> 08:14 PM CT, Apr. 05 </p> 
  <a href="https://www.wsj.com/articles/a-quarter-of-africans-face-food-security-crisis-partly-due-to-ukraine-war-red-cross-says-11649176087">A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says</a> WSJ: A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says 
+ <p class="updated_time"> 07:14 PM CT, Apr. 05 </p> 
+ <a href="https://www.wsj.com/articles/covid-cases-in-china-hit-record-as-shanghai-extends-lockdown-11649154418">Covid Cases in China Hit Record, as Shanghai Extends Lockdown</a> WSJ: Covid Cases in China Hit Record, as Shanghai Extends Lockdown 
  <p class="updated_time"> 07:04 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/bucha-ukraine-bodies.html">Dead Lay Out in Bucha for Weeks, Refuting Russian Claim, Satellite Images Show</a> NYT: The images rebut Russia’s claim that the killing of civilians in Bucha, near Kyiv, took place after its soldiers had left town. 
  <p class="updated_time"> 07:03 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/bucha-shooting-video.html">Video Captures Russian Forces Firing on Ukrainian Cyclist in Bucha</a> NYT: Chilling aerial video from Ukraine adds to the evidence of Russian atrocities against civilians and undercuts their denials of wrongdoing. 
  <p class="updated_time"> 06:56 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-60983131?at_medium=RSS&at_campaign=KARANGA">Namit Malhotra: The Indian who won a VFX Oscar for Dune</a> BBC: Namit Malhotra started his company from a garage in Mumbai. Now it's winning Academy Awards. 
- <p class="updated_time"> 06:53 PM CT, Apr. 05 </p> 
- <a href="https://www.wsj.com/articles/covid-cases-in-china-hit-record-as-shanghai-extends-lockdown-11649154418">Covid Cases in China Hit Record, as Shanghai Extends Lockdown</a> WSJ: Covid Cases in China Hit Record, as Shanghai Extends Lockdown 
  <p class="updated_time"> 06:52 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60980009?at_medium=RSS&at_campaign=KARANGA">Brazil at work: Black and held back</a> BBC: Brazil has one of the world's largest black populations but black people only hold 6% of managerial posts. 
  <p class="updated_time"> 06:45 PM CT, Apr. 05 </p> 
