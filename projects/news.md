@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:42 PM CT, Apr. 06 </p> 
+ <p class="updated_time"> 02:57 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/04/06/world/ukraine-russia-war-news">Ukraine Live Updates: Civilians Flee Eastern Regions as the West Ramps Up Sanctions on Russia</a> NYT: Residents are leaving eastern Ukraine after warnings of an expected escalation of fighting there by Russian troops, as the U.S. and its allies moved to impose new sanctions to punish Moscow. 
  <p class="updated_time"> 02:40 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/world/europe/nato-ukraine-russia.html">NATO Nations See Differing Paths as Ukraine War Enters Uncertain Stage</a> NYT: The alliance is examining what Ukraine needs as it tries to expel Russia from the east and how to ensure an outcome that enhances European security. 
+ <a href="https://www.nytimes.com/2022/04/06/world/europe/nato-ukraine-russia.html">NATO Nations Divided As Ukraine War Enters Uncertain Stage</a> NYT: The alliance is examining what Ukraine needs as it tries to expel Russia from the east and how to ensure an outcome that enhances European security. 
  <p class="updated_time"> 02:34 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/05/health/fda-glaxo-antibody-us.html">The F.D.A. Suspends Use of Glaxo Antibody Drug in the U.S.</a> NYT: Manufacturers said lab testing revealed that the authorized dosage of the drug was not sufficiently potent against BA.2. 
  <p class="updated_time"> 02:31 PM CT, Apr. 06 </p> 
@@ -23,18 +23,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/business/economy/yellen-russia-sanctions.html">Yellen Says Aim Is ‘Maximum Pain’ for Russia Without Hurting U.S.</a> NYT: The Treasury secretary, testifying before a House committee, said the U.S. would continue finding ways to punish Russia for its invasion of Ukraine. 
  <p class="updated_time"> 02:10 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/vladimir-zhirinovsky-dead.html">Vladimir V. Zhirinovsky Dies at 75; Ultranationalist Russian Politician</a> NYT: His antics kept him at center stage in Russia for three decades, and his once fringe views on imperial expansion had gone mainstream with the invasion of Ukraine. 
+ <p class="updated_time"> 01:58 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 01:56 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-bucha-makeup-artist.html">A Makeup Artist Recognized This Bucha Victim’s Picture by Her Manicure</a> NYT: The woman, Iryna Filkina, had worked at a heating plant. She had contacted the makeup artist for help being more beautiful and fashionable. 
- <p class="updated_time"> 01:48 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 01:30 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61015190?at_medium=RSS&at_campaign=KARANGA">Peter Kassig: US hostage 'knew his time had come' before IS execution</a> BBC: The father of an American aid worker killed by the notorious "Beatles" cell testifies at a trial in Virginia. 
  <p class="updated_time"> 01:27 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/bucha-ukraine-bodies.html">Dead Lay Out in Bucha for Weeks, Refuting Russian Claim, Satellite Images Show</a> NYT: The images rebut Russia’s claim that the killing of civilians in Bucha, near Kyiv, took place after its soldiers had left town. 
+ <p class="updated_time"> 12:58 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 12:52 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005388?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Putin's daughters targeted by US sanctions</a> BBC: The US sanctions' list includes Putin's adult daughters and relatives of Foreign Minister Sergei Lavrov. 
- <p class="updated_time"> 12:48 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 12:43 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005390?at_medium=RSS&at_campaign=KARANGA">Oklahoma lawmakers pass near-total ban on abortion</a> BBC: The new laws could see doctors face fines of up to $100,000 and up to 10 years in prison. 
  <p class="updated_time"> 12:41 PM CT, Apr. 06 </p> 
@@ -47,10 +47,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/africa/burkina-faso-blaise-compaore-thomas-sankara.html">Ex-Leader of Burkina Faso Convicted in Killing of Predecessor</a> NYT: A military tribunal sentenced former President Blaise Compaoré, who is now in exile, to life in prison for his role in the 1987 assassination. 
  <p class="updated_time"> 12:00 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/russian-diplomats-expelled.html">Countries Have Expelled 120 Russian Spies During War in Ukraine</a> NYT: Despite the purge of intelligence officers, former officials cautioned that Moscow would have other ways to collect information and that the efforts would have little impact on the war in Ukraine. 
+ <p class="updated_time"> 11:58 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-surprise-strike-on-russian-fleet-hobbles-putins-donbas-strategy-11649250001">Ukraine’s Surprise Strike on Russian Navy Hobbles Putin’s Donbas Strategy</a> WSJ: Ukraine’s Surprise Strike on Russian Navy Hobbles Putin’s Donbas Strategy 
  <p class="updated_time"> 11:52 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61009077?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: Ethnic cleansing documented in western Tigray</a> BBC: "We will erase you from this land," a trader says he was told by Amhara security forces. 
- <p class="updated_time"> 11:48 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraines-surprise-strike-on-russian-fleet-hobbles-putins-donbas-strategy-11649250001">Ukraine’s Surprise Strike on Russian Navy Hobbles Putin’s Donbas Strategy</a> WSJ: Ukraine’s Surprise Strike on Russian Navy Hobbles Putin’s Donbas Strategy 
  <p class="updated_time"> 11:38 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61015772?at_medium=RSS&at_campaign=KARANGA">British embassy guard charged with spying for Russia</a> BBC: David Ballantyne Smith, 57, is charged with nine offences under the Official Secrets Act. 
  <p class="updated_time"> 11:14 AM CT, Apr. 06 </p> 
@@ -59,17 +59,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/putin-russia-assets-wealth-sanctions.html">Why Tracking Putin’s Wealth Is So Difficult</a> NYT: Amid speculation that oligarchs are holding cash and luxury assets for the Russian president, many of his extravagances can be traced elsewhere: the Russian state. 
  <p class="updated_time"> 11:00 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091229634/nations-set-new-sanctions-against-russia-after-civilian-atrocities-in-ukraine">Nations set new sanctions against Russia after civilian atrocities in Ukraine</a> NPR: The U.S., the European Union and other partners are announcing new sanctions against Russia in response to the civilian deaths revealed in Ukraine this week. 
+ <p class="updated_time"> 10:58 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/israels-government-faces-crisis-after-right-wing-lawmaker-quits-11649245710">Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits</a> WSJ: Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits 
  <p class="updated_time"> 10:54 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-kharkiv-death.html">In Ukraine, Traces of Lives Cut Short</a> NYT: The violence of war is often random. Those who suffer most are the civilians caught in the middle. Two recent deaths in Kharkiv, Ukraine, are a testament to that. 
- <p class="updated_time"> 10:48 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/israels-government-faces-crisis-after-right-wing-lawmaker-quits-11649245710">Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits</a> WSJ: Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits 
  <p class="updated_time"> 10:37 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091230358/us-sanctions-russia-putin-banks">New U.S. sanctions target Russia's largest banks and Putin's children</a> NPR: The U.S. joined the European Union and Group of Seven nations in enacting new sanctions on Russia in response to the civilian toll reported in Bucha and elsewhere in Ukraine in recent days. 
  <p class="updated_time"> 10:36 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/biden-russia-putin-sanctions.html">U.S. Announces Sanctions on Russia’s Largest Banks and Putin’s Adult Children</a> NYT: Sberbank, the largest financial institution in Russia, and Alfa Bank, one of the country’s largest privately owned banks, will face sanctions. 
  <p class="updated_time"> 10:21 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1090902301/ukraine-refugees-poland-krakow">Krakow, Poland's second-largest city, strains to accommodate Ukrainian refugees</a> NPR: More than 150,000 displaced Ukrainians now live in Krakow, increasing the population by 20% in just a few weeks. Now the city is helping them find long-term housing, jobs and spots in schools. 
- <p class="updated_time"> 09:48 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 09:58 AM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/john-lee-former-policeman-poised-to-be-hong-kongs-next-top-official-11649244872">Former Policeman Poised to Be Hong Kong’s Next Top Official</a> WSJ: Former Policeman Poised to Be Hong Kong’s Next Top Official 
  <p class="updated_time"> 09:22 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61008332?at_medium=RSS&at_campaign=KARANGA">Thomas Sankara murder: Ex-Burkina Faso President Blaise Compaoré found guilty</a> BBC: Burkina Faso's former leader Blaise Compaoré is found guilty of complicity in killing his close friend. 
@@ -208,8 +208,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:43 PM CT, Apr. 06 </p> 
+ <p class="updated_time"> 02:55 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/fda-covid-boosters.html">F.D.A. Advisory Panel Discussing U.S. Vaccine Strategy</a> NYT: Outside experts are exploring the need to reconfigure vaccines in order to better protect the nation against new variants. 
+ <p class="updated_time"> 02:47 PM CT, Apr. 06 </p> 
+ <a href="https://www.politico.com/news/2022/04/06/judge-nixes-steve-bannon-top-defense-00023522">Judge nixes Bannon’s top defense against criminal charges for defying Jan. 6 committee</a> Politico: The ruling said the former Trump adviser's “advice of counsel” defense was not applicable in contempt of Congress cases. 
  <p class="updated_time"> 02:40 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/merrick-garland-covid-positive-test.html">Attorney General Merrick B. Garland Tests Positive for the Coronavirus</a> NYT: The announcement from the Justice Department came after Gina Raimondo, the commerce secretary, and Representative Katherine Clark of Massachusetts announced their own positive tests. 
  <p class="updated_time"> 02:22 PM CT, Apr. 06 </p> 
@@ -324,10 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/05/obama-returns-white-house-00023148">Obama returns to White House for first time since leaving office</a> Politico: “Feels like the good old days," President Biden said in welcoming the former president at an event to celebrate the Affordable Care Act. 
  <p class="updated_time"> 02:24 PM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/deepening-global-food-crisis-ukraine-russia-00023124">‘We see the storm coming’: U.S. struggles to contain a deepening global food crisis</a> Politico: Biden officials are scrambling to limit the damage from fast-spreading food shortages sparked by Russia’s war in Ukraine, but they face complex political and logistical challenges. 
- <p class="updated_time"> 02:20 PM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/canada-digital-giants-compensate-local-news-00023113">Canada wants digital giants to compensate local news outlets</a> Politico: 'This is an absolutely massive intervention into the news sector,' says Ottawa law professor Michael Geist. 
- <p class="updated_time"> 02:00 PM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/treasury-stops-sharing-tax-info-with-russia-00023123">Treasury stops sharing tax info with Russia</a> Politico: “The United States has not provided information since the invasion began,” the Treasury said in a statement. 
  <p class="updated_time"> 12:58 PM CT, Apr. 05 </p> 
  <a href="https://www.cnn.com/2022/04/05/politics/mark-milley-ukraine-reaction-international-conflict/index.html">Top US general: Potential for 'significant international conflict' is increasing</a> CNN: The top US military officer told lawmakers Tuesday that the world is becoming more unstable and the "potential for significant international conflict is increasing, not decreasing." 
  <p class="updated_time"> 12:46 PM CT, Apr. 05 </p> 
