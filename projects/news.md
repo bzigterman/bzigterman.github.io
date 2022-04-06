@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:41 AM CT, Apr. 06 </p> 
+ <a href="https://www.npr.org/2022/04/06/1091203259/blinken-brussels-nato-russia-warcrimes-">Antony Blinken to meet with allies in Brussels to discuss actions against Russia</a> NPR: The U.S. secretary of state will meet with NATO and G-7 members to talk punitive measures following reports of Russian war crimes against Ukraine. 
  <p class="updated_time"> 04:32 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/04/06/world/ukraine-russia-war-news">Ukraine Live Updates: Europe Considers Cutting Off Russian Coal as Moscow Denies War Crimes</a> NYT: The measures will require unanimous approval and are expected to go to a vote on Wednesday. The escalation in economic pressure came after President Volodymyr Zelensky delivered a fiery speech to the U.N. Security Council. 
  <p class="updated_time"> 04:32 AM CT, Apr. 06 </p> 
@@ -17,17 +19,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/business/india-spinal-muscular-atrophy.html">In India, Parents of Children with Rare Disease Plea for Help Online</a> NYT: India makes many of the world’s drugs, but treatments for rare diseases like spinal muscular atrophy are imported and prohibitively costly. In desperation, parents are raising funds on social media. 
  <p class="updated_time"> 04:00 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/asia/ukraine-south-korea-nuclear-weapons.html">Ukraine War Revives Nuclear Question in South Korea</a> NYT: Seoul abandoned a covert program in the 1970s, but some argue it is time for the country to embrace its nuclear ambitions and safeguard against a Russia-style invasion. 
- <p class="updated_time"> 03:40 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 03:52 AM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</a> WSJ: Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes 
  <p class="updated_time"> 03:33 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091199080/metoo-moment-hits-japan-film-industry">Famed directors denounce sexual abuse in Japan's filmmaking industry</a> NPR: A #MeToo moment may be growing in a country where top movie directors have signed a petition expressing outrage over allegations of sexual violence in the film industry. 
+ <p class="updated_time"> 02:52 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611">Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine</a> WSJ: Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine 
  <p class="updated_time"> 02:51 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/middleeast/idit-silman-israel-coalition.html">Israel’s Government in Crisis After Senior Lawmaker Quits Coalition</a> NYT: Idit Silman, the de facto government whip, left the coalition, depriving the government of a parliamentary majority. But her move does not mean the opposition can win a vote of no confidence, at least for now. 
- <p class="updated_time"> 02:40 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611">Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine</a> WSJ: Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine 
  <p class="updated_time"> 02:00 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/putin-russia-assets-wealth-sanctions.html">Why Tracking Putin’s Wealth Is So Difficult</a> NYT: Amid speculation that oligarchs are holding cash and luxury assets for the Russian president, many of his extravagances can be traced elsewhere: the Russian state. 
- <p class="updated_time"> 01:40 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 01:52 AM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports</a> WSJ: U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports 
  <p class="updated_time"> 01:36 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61005827?at_medium=RSS&at_campaign=KARANGA">Gotabaya Rajapaksa: Sri Lanka president defies calls for his resignation</a> BBC: Gotabaya Rajapaksa has lost wider political support as protests continue over food and gas shortages. 
@@ -35,7 +37,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/americas/el-salvador-media-gangs.html">El Salvador’s New Law on Gangs Raises Censorship Fears</a> NYT: A measure punishing the sharing of information about gangs is so vague, critics say, that virtually anyone can be arrested for speaking or writing about them, putting journalists in the cross hairs. 
  <p class="updated_time"> 01:04 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-russia-war-crimes.html">Why War Crimes Charges Over Ukraine Face High Hurdles</a> NYT: The indictment of Slobodan Milosevic, the president of Yugoslavia, was a seminal moment in legal history. But prosecuting war crimes remains a steep climb. 
- <p class="updated_time"> 12:40 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 12:52 AM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/a-quarter-of-africans-face-food-security-crisis-partly-due-to-ukraine-war-red-cross-says-11649176087">A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says</a> WSJ: A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says 
  <p class="updated_time"> 12:35 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091195737/sri-lanka-president-revokes-emergency">Sri Lankan president revokes emergency amid growing protests</a> NPR: Anti-government public protests initially began over shortages of essentials such as cooking gas, petrol, electricity and milk powder and have spread to every part of the Indian Ocean island nation. 
@@ -43,7 +45,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61002623?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Destruction in the Ukrainian town of Borodyanka</a> BBC: Police say there could be hundreds of people buried under rubble of blocks destroyed by Russian attacks. 
  <p class="updated_time"> 12:19 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091194471/australia-u-k-u-s-hypersonic-missiles">Australia, the U.K. and the U.S. say they will develop hypersonic missiles</a> NPR: The announcement comes amid growing concern by the U.S. and its allies about China's growing military assertiveness and Washington's concern of Russia using the weapons in Ukraine. 
- <p class="updated_time"> 11:40 PM CT, Apr. 05 </p> 
+ <p class="updated_time"> 11:52 PM CT, Apr. 05 </p> 
  <a href="https://www.wsj.com/articles/covid-cases-in-china-hit-record-as-shanghai-extends-lockdown-11649154418">Covid Cases in China Hit Record, as Shanghai Extends Lockdown</a> WSJ: Covid Cases in China Hit Record, as Shanghai Extends Lockdown 
  <p class="updated_time"> 11:27 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005390?at_medium=RSS&at_campaign=KARANGA">Oklahoma lawmakers pass near-total ban on abortion</a> BBC: The new laws could see doctors face fines of up to $100,000 and up to 10 years in prison. 
@@ -121,8 +123,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/05/1091109360/russia-continues-to-have-an-big-impact-in-parts-of-eastern-europe-like-moldova">Russia continues to have an big impact in parts of Eastern Europe, like Moldova</a> NPR: Russia has stationed troops in Transnistria, Moldova, since the break up of the Soviet Union. It illustrates Russia's influence and the political complexity of this frontline state in Eastern Europe. 
  <p class="updated_time"> 03:21 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091109346/images-and-reporting-from-bucha-ukraine-raise-serious-questions-about-war-crimes">Images and reporting from Bucha, Ukraine, raise serious questions about war crimes</a> NPR: In Bucha, Ukraine, Russia is accused of carrying out war crimes against civilians. The United Nations has said an independent investigation is needed to ensure accountability. 
- <p class="updated_time"> 03:21 PM CT, Apr. 05 </p> 
- <a href="https://www.npr.org/2022/04/05/1091109339/residents-of-kyiv-who-left-because-of-the-conflict-begin-to-return">Residents of Kyiv who left because of the conflict begin to return</a> NPR: Some people who fled Kyiv because of the war in Ukraine are starting to return. At the train station, they share their reasons for returning and fears about the future. 
  <p class="updated_time"> 03:03 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/us/politics/ukraine-russia-hackers.html">Hackers’ Fake Claims of Ukrainian Surrender Aren’t Fooling Anyone. So What’s Their Goal?</a> NYT: Experts say the hackers’ intentions might not be to actually trick anyone, but to erode confidence in Ukrainian media outlets and institutions. 
  <p class="updated_time"> 03:03 PM CT, Apr. 05 </p> 
@@ -208,8 +208,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/06/1091036829/oregon-braces-for-abortion-ban-in-neighboring-idaho">Oregon braces for abortion ban in neighboring Idaho </a> NPR: In the wake of Idaho's upcoming ban on most abortions, Oregon is preparing for an increase in demand for the procedure. The state is investing millions to help patients and providers most affected. 
  <p class="updated_time"> 04:00 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1090910863/red-blue-workshops-try-to-bridge-the-political-divide-do-they-really-work">Red/Blue Workshops try to bridge the political divide. Do they really work? </a> NPR: More and more nonprofits are bringing Americans with opposing political views together for civil discussions on divisive issues. Critics question whether these encounters produce lasting results. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 06 </p> 
+ <a href="https://www.politico.com/news/2022/04/06/pierre-poilievre-canada-pm-experts-00023297">Decoding the freedom-loving firebrand who wants to be Canada's next PM</a> Politico: Pierre Poilievre is the front-runner in the Conservative leadership race. He’s on the stump touting his drain-the-swamp bona fides. We asked experts to decipher. 
  <p class="updated_time"> 03:31 AM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/moderate-democrats-midterms-00023228">Dem moderates get choosy in midterm recruits as GOP headwinds grow</a> Politico: After getting walloped in 2020 and now facing a flurry of departures, the party's House centrists are hunkering down to focus on ground game. 
+ <p class="updated_time"> 03:31 AM CT, Apr. 06 </p> 
+ <a href="https://www.politico.com/news/2022/04/06/desantis-endorsement-boost-political-influence-00022770">DeSantis deploys coveted endorsement to boost his political influence</a> Politico: DeSantis has played favorites in one Florida Senate GOP primary, and is eyeing others. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 06 </p> 
+ <a href="https://www.politico.com/news/2022/04/06/may-governor-primaries-trumps-control-gop-00023197">May governor primaries pose big test for Trump’s control over the GOP</a> Politico: The former president's influence on state politics will be on the ballot next month. 
  <p class="updated_time"> 11:03 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/us/politics/fred-upton-congress-retirement.html">Fred Upton, House Republican Who Voted to Impeach Trump, Will Retire</a> NYT: Mr. Upton is the fourth House Republican who supported impeaching former President Donald Trump to decline to run for re-election. 
  <p class="updated_time"> 09:22 PM CT, Apr. 05 </p> 
@@ -234,8 +240,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/05/business/student-loan-pause-pandemic.html">The Student Loan Pause Is Being Extended Again</a> NYT: The White House is said to be planning to announce the sixth extension of the pandemic relief program, affecting tens of millions of borrowers. 
  <p class="updated_time"> 04:11 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091079567/russia-ukraine-war-what-happened-today-april-5">Russia-Ukraine war: What happened today (April 5)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:40 PM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/albany-budget-process-hochul-00023031">Albany's famously secretive budget process returns under New York's new governor</a> Politico: Gov. Kathy Hochul hasn't shown urgency in talks over the $216 billion proposed spending plan, second largest in the nation to California. 
  <p class="updated_time"> 03:34 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091119507/oklahoma-legislature-abortion-illegal">With little discussion, Oklahoma passes a bill to make most abortions illegal</a> NPR: The state's Republican-controlled House gives final legislative approval to a bill that would make performing an abortion a felony, punishable by up to 10 years in prison. 
  <p class="updated_time"> 03:26 PM CT, Apr. 05 </p> 
@@ -266,8 +270,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/05/messaging-trump-border-restriction-democrats-00023082">‘Terrible’ messaging on lifting of Trump-era border restriction alarms Dems</a> Politico: “It's not the policy they're scared of," said one top Democratic consultant, "it’s the ads.” 
  <p class="updated_time"> 12:46 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091041608/colorado-abortion-law">The right to abortion in Colorado is now guaranteed under state law</a> NPR: Colorado joins 15 other states that have enacted laws to protect abortion, while the U.S. Supreme Court considers a challenge to Roe v. Wade and conservative legislatures take aim at the practice. 
- <p class="updated_time"> 12:44 PM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/joe-biden-second-crack-gun-official-00023111">Biden to take second crack at filling top gun official role</a> Politico: Months after the president’s first nominee withdrew over lack of support, he is poised to offer another option for the post. 
  <p class="updated_time"> 12:23 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091043231/obama-biden-white-house-aca">Former President Obama visits the White House for the first time in 5 years </a> NPR: Former President Barack Obama joined President Biden at the White House Tuesday as Biden unveiled new actions meant to expand the Affordable Care Act. 
  <p class="updated_time"> 12:18 PM CT, Apr. 05 </p> 
@@ -278,10 +280,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/05/white-house-to-extend-the-student-loan-moratorium-once-again-00023072">White House to extend  student loan moratorium once again</a> Politico: Officials are considering an extension through the end of August. 
  <p class="updated_time"> 11:53 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091036830/trump-house-voted-2-states-2016-matt-mowers">Trump aide seeking N.H. House seat voted in 2 states in 2016</a> NPR: Matt Mowers, a leading GOP primary candidate looking to unseat Democratic Rep. Chris Pappas, cast an absentee ballot in New Hampshire's 2016 presidential primary, voting records obtained by AP show. 
- <p class="updated_time"> 11:30 AM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/zelenskyy-united-nations-russia-00023045">‘You need to act immediately’: Zelenskyy demands U.N. get tough on Russia</a> Politico: “Where is the security that the Security Council needs to guarantee? It’s not there,” the Ukrainian president said. 
- <p class="updated_time"> 11:30 AM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/nuke-cruise-missile-00023034">Top military leaders split with Biden over nuke cruise missile</a> Politico: The administration's latest review calls for canceling the weapon, but the brass wants it in the fleet. 
  <p class="updated_time"> 11:18 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/biden-nominate-first-woman-lead-military-service-00023037">Biden to nominate first woman to lead a military service</a> Politico: Adm. Linda Fagan is also the first woman promoted to four-star rank in the Coast Guard. 
  <p class="updated_time"> 11:00 AM CT, Apr. 05 </p> 
@@ -304,6 +302,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/05/biden-pentagon-defense-budget-00022928">Democrats’ dilemma: Back Biden’s Pentagon budget or supersize it</a> Politico: The White House wants to increase defense spending, yet Republicans are pressuring Democrats to go further. 
  <p class="updated_time"> 03:30 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/build-back-center-biden-2022-midterms-00022789">Build Back Center: Biden plows a revamped lane for the midterms</a> Politico: As he nears the 2022 stretch run, the president is emphasizing deficit reduction, policing funding and taxing the rich. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 05 </p> 
+ <a href="https://www.politico.com/news/2022/04/05/election-conspiracy-theories-green-bay-trump-00022946">How election conspiracy theories turned local politics ‘toxic’ in one Wisconsin city</a> Politico: Green Bay has turned into an example of how Donald Trump's unfounded conspiracy theories about the 2020 election have eroded faith in local government. 
  <p class="updated_time"> 03:06 AM CT, Apr. 05 </p> 
  <a href="https://www.cnn.com/2022/04/04/politics/ketanji-brown-jackson-committee-vote/index.html">Supreme Court nominee Ketanji Brown Jackson expected to be confirmed this week</a> CNN: Judge Ketanji Brown Jackson is expected to be confirmed as the first Black woman Supreme Court justice this week, after a bipartisan group of senators voted on Monday to advance her nomination. 
  <p class="updated_time"> 10:45 PM CT, Apr. 04 </p> 
@@ -330,6 +330,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/04/progressives-manchin-fossil-fuel-climate-00022351">'Swallowing a toad': Progressives warm to Manchin's fossil fuel demands to clinch climate package</a> Politico: Voters' frustration with high energy prices and the likelihood that Democrats will lose control of the House in November have made progressives more open to a deal. 
  <p class="updated_time"> 08:06 AM CT, Apr. 04 </p> 
  <a href="https://www.cnn.com/2022/04/04/politics/ukraine-images-russia-invasion-what-matters/index.html">Images of dead civilians in Ukraine shake the world</a> CNN: "This is genocide." 
+ <p class="updated_time"> 07:01 AM CT, Apr. 04 </p> 
+ <a href="https://www.politico.com/news/2022/04/04/joe-biden-strategists-advertising-firm-00022472">Top Biden strategists launch new advertising firm</a> Politico: The strategists have handled over $1 billion in paid media for the Biden campaign and allied entities. 
+ <p class="updated_time"> 03:35 AM CT, Apr. 04 </p> 
+ <a href="https://www.politico.com/news/2022/04/04/dems-midterm-villain-donald-trump-00022381">Dems have an opening for a midterm villain. Donald Trump, you're hired!</a> Politico: It's not clear whether reminding voters of the tumult and chaos of the former president will provide sustained momentum, though. 
  <p class="updated_time"> 03:30 AM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/dems-party-line-spending-manchin-00022362">Dems plot spring sprint for party-line spending deal with Manchin</a> Politico: Senate Majority Leader Chuck Schumer says the resuscitation of the bill once called Build Back Better is a “high priority” for his caucus. But a revival won't be easy. 
  <p class="updated_time"> 11:50 AM CT, Apr. 03 </p> 
