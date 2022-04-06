@@ -1842,7 +1842,7 @@ html {
 <td class="gt_row gt_right">&minus;30%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">5.1K</td>
-<td class="gt_row gt_right gt_striped">3.6K</td>
+<td class="gt_row gt_right gt_striped">3.7K</td>
 <td class="gt_row gt_right gt_striped">&minus;28%</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
 <td class="gt_row gt_right">15.2M</td>
