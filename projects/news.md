@@ -9,23 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:06 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/04/06/world/ukraine-russia-war-news">Ukraine Live Updates: Civilians Flee Eastern Regions as the West Ramps Up Sanctions on Russia</a> NYT: Residents are leaving eastern Ukraine after warnings of an expected escalation of fighting there by Russian troops, as the U.S. and its allies moved to impose new sanctions to punish Moscow. 
- <p class="updated_time"> 06:04 PM CT, Apr. 06 </p> 
+ <p class="updated_time"> 06:32 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/06/world/ukraine-russia-war-news">Ukraine Live Updates: Civilians Flee as Battered Russian Forces Bear Down on Eastern Ukraine</a> NYT: Residents are leaving eastern Ukraine amid warnings of escalating fighting there. The Justice Department charges a Russian oligarch with violating U.S. sanctions. 
+ <p class="updated_time"> 06:32 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/boston-marathon-russia-belarus.html">The Boston Marathon Has Barred Runners from Russia and Belarus</a> NYT: The marathon, one of the world’s top distance races, joins a long list of events from the sports world and beyond that have excluded Russians because of their country’s invasion of Ukraine. 
+ <p class="updated_time"> 06:32 PM CT, Apr. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-60996104?at_medium=RSS&at_campaign=KARANGA">Black Coffee - the South African DJ who made history at the Grammys</a> BBC: The Grammy-award winner speaks to the BBC about the joy of his win and desire to never be pigeon-holed. 
+ <p class="updated_time"> 06:30 PM CT, Apr. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61009456?at_medium=RSS&at_campaign=KARANGA">Bafta Games Awards 2022: 'Plucky underdogs' go up against hit titles</a> BBC: Hit titles go up against games made by four people during the pandemic "because they were bored". 
+ <p class="updated_time"> 06:23 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/world/japan-border-restriction-covid.html">Japan to Ease Border Restrictions for Some Foreigners, Including Americans</a> NYT: Closed to international travel throughout the pandemic, the country will start to allow business and long-term visitors on Friday. 
+ <p class="updated_time"> 06:06 PM CT, Apr. 06 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/60919445?at_medium=RSS&at_campaign=KARANGA">Helmut Sonneberg: A spellbinder's story of survival, no longer kept secret</a> BBC: Helmut Sonneberg is a Holocaust survivor who for years did not speak of its horrors. His football club encouraged him to bear witness. 
  <p class="updated_time"> 06:04 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/us-russia-malware-cyberattacks.html">U.S. Says It Secretly Removed Malware Worldwide, Pre-empting Russian Cyberattacks</a> NYT: The operation is the latest effort by the Biden administration to thwart actions by Russia by making them public before Moscow can strike. 
  <p class="updated_time"> 06:04 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/russia-military-ukraine-war.html">Russia Is Sending Mercenaries and Syrians to Ukraine, Western Officials Say</a> NYT: The Kremlin is trying to find enough reinforcements to conduct the next phase of the war, according to military and intelligence officials. 
  <p class="updated_time"> 06:01 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61015050?at_medium=RSS&at_campaign=KARANGA">Ukraine's dream of a Eurovision win</a> BBC: Kalush Orchestra are the bookies’ favourites to win the competition in Turin next month. 
- <p class="updated_time"> 05:21 PM CT, Apr. 06 </p> 
+ <p class="updated_time"> 05:38 PM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 05:17 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/americas/machu-picchu-real-name-peru.html">The Site Called ‘Machu Picchu’ Had Another Name First, Researchers Say</a> NYT: For decades, the ancient Incan ruins in Peru have been called Machu Picchu. But the original name was Picchu or Huayna Picchu, according to two researchers. 
  <p class="updated_time"> 05:11 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/russia-ukraine-war-casualties.html">More Russians Consider Costs of War in Ukraine as Casualties Mount</a> NYT: Many Russians have been in the dark about their country’s losses. As news of more Russian deaths arrives, the reactions range from anger at the Kremlin to parroting the state’s messaging that blames “Nazis’’ in Ukraine. 
- <p class="updated_time"> 04:21 PM CT, Apr. 06 </p> 
+ <p class="updated_time"> 04:38 PM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 04:11 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/africa/burkina-faso-blaise-compaore-thomas-sankara.html">Ex-Leader of Burkina Faso Convicted in Killing of Predecessor</a> NYT: A military tribunal sentenced former President Blaise Compaoré, who is now in exile, to life in prison for his role in the 1987 assassination. 
@@ -41,6 +49,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/06/1091308700/communities-have-formed-among-those-who-have-stayed-in-kyiv-through-russian-atta">Communities have formed among those who have stayed in Kyiv through Russian attacks</a> NPR: Misha Smetana lives in Kyiv, and has stayed there throughout Russian attacks on Ukraine. He tells NPR's Scott Detrow what that's been like, and about the communities forming between people who stayed. 
  <p class="updated_time"> 03:42 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308693/blinken-says-u-s-and-europe-are-following-through-on-ukraine-commitments">Blinken says U.S. and Europe are following through on Ukraine commitments</a> NPR: Diplomats are expressing outrage over reports of Russian atrocities in Ukraine. In Brussels and Washington, officials announced more sanctions to step up the pressure on President Vladimir Putin. 
+ <p class="updated_time"> 03:38 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/former-islamic-state-hostages-testify-to-cruelty-of-british-accented-guards-11649267918">Former Islamic State Hostages Testify to Cruelty of Guards</a> WSJ: Former Islamic State Hostages Testify to Cruelty of Guards 
  <p class="updated_time"> 03:34 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/covid-second-booster-europe.html">European Health Agencies Say it Is ‘Too Early’ for Second Boosters for Most People</a> NYT: Additional boosters can be given to people 80 and older, who are at higher risk of severe illness if infected, the agencies said. 
  <p class="updated_time"> 03:29 PM CT, Apr. 06 </p> 
@@ -51,26 +61,24 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/06/1091308623/the-view-of-a-kyiv-suburb-where-russian-forces-were-accused-of-attacking-civilia">The view of a Kyiv suburb where Russian forces were accused of attacking civilians</a> NPR: We look at the fallout from Russian attacks in Borodyanka, a suburb of the Ukrainian capitol of Kyiv. Ukrainian officials accuse Russian forces of indiscriminately attacking civilians there. 
  <p class="updated_time"> 03:24 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308616/what-happens-to-kyivs-peoples-friendship-arch-now-that-russia-has-invaded">What happens to Kyiv's People's Friendship Arch, now that Russia has invaded?</a> NPR: The People's Friendship Arch was gifted to Ukraine by the Russian government and opened in Kyiv in 1982. Ukrainians weigh in on the future of the enormous monument, in the midst of war with Russia. 
- <p class="updated_time"> 03:21 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/former-islamic-state-hostages-testify-to-cruelty-of-british-accented-guards-11649267918">Former Islamic State Hostages Testify to Cruelty of Guards</a> WSJ: Former Islamic State Hostages Testify to Cruelty of Guards 
  <p class="updated_time"> 02:40 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/nato-ukraine-russia.html">NATO Nations Divided As Ukraine War Enters Uncertain Stage</a> NYT: The alliance is examining what Ukraine needs as it tries to expel Russia from the east and how to ensure an outcome that enhances European security. 
+ <p class="updated_time"> 02:38 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/israels-government-faces-crisis-after-right-wing-lawmaker-quits-11649245710">Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits</a> WSJ: Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits 
  <p class="updated_time"> 02:34 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/05/health/fda-glaxo-antibody-us.html">The F.D.A. Suspends Use of Glaxo Antibody Drug in the U.S.</a> NYT: Manufacturers said lab testing revealed that the authorized dosage of the drug was not sufficiently potent against BA.2. 
  <p class="updated_time"> 02:31 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/middleeast/idit-silman-israel-coalition.html">Israel’s Government in Crisis After Senior Lawmaker Quits Coalition</a> NYT: Idit Silman, the de facto government whip, left the coalition, depriving the government of a parliamentary majority. But her move does not mean the opposition can force new elections, at least for now. 
  <p class="updated_time"> 02:29 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/sports/ping-pong-wally-green.html">‘The Sport of Love’: Ping-Pong, the Great Equalizer</a> NYT: Wally Green has played everywhere from Brooklyn to Pyongyang, becoming a beloved American ambassador for table tennis — and international understanding — in the process. 
- <p class="updated_time"> 02:21 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/israels-government-faces-crisis-after-right-wing-lawmaker-quits-11649245710">Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits</a> WSJ: Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits 
  <p class="updated_time"> 02:10 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/vladimir-zhirinovsky-dead.html">Vladimir V. Zhirinovsky Dies at 75; Ultranationalist Russian Politician</a> NYT: His antics kept him at center stage in Russia for three decades, and his once fringe views on imperial expansion had gone mainstream with the invasion of Ukraine. 
  <p class="updated_time"> 01:56 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-bucha-makeup-artist.html">A Makeup Artist Recognized This Bucha Victim’s Picture by Her Manicure</a> NYT: The woman, Iryna Filkina, had worked at a heating plant. She had contacted the makeup artist for help being more beautiful and fashionable. 
+ <p class="updated_time"> 01:38 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/john-lee-former-policeman-poised-to-be-hong-kongs-next-top-official-11649244872">Former Policeman Poised to Be Hong Kong’s Next Top Official</a> WSJ: Former Policeman Poised to Be Hong Kong’s Next Top Official 
  <p class="updated_time"> 01:30 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61015190?at_medium=RSS&at_campaign=KARANGA">Peter Kassig: US hostage 'knew his time had come' before IS execution</a> BBC: The father of an American aid worker killed by the notorious "Beatles" cell testifies at a trial in Virginia. 
- <p class="updated_time"> 01:21 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/john-lee-former-policeman-poised-to-be-hong-kongs-next-top-official-11649244872">Former Policeman Poised to Be Hong Kong’s Next Top Official</a> WSJ: Former Policeman Poised to Be Hong Kong’s Next Top Official 
  <p class="updated_time"> 12:52 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005388?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Putin's daughters targeted by US sanctions</a> BBC: The US sanctions' list includes Putin's adult daughters and relatives of Foreign Minister Sergei Lavrov. 
  <p class="updated_time"> 12:43 PM CT, Apr. 06 </p> 
@@ -151,10 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/05/world/europe/zelensky-un-security-council.html">Zelensky Accuses Russia of War Crimes, Criticizes U.N.’s Inaction</a> NYT: In a blistering address to the United Nations Security Council, Ukraine’s president asked what use the body was if it would not intervene to stop a war of aggression. 
  <p class="updated_time"> 08:43 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/war-crimes-russia-ukraine.html">What Are War Crimes, and How Are They Prosecuted?</a> NYT: World leaders have vowed to hold President Vladimir V. Putin responsible for any atrocities by Russian forces. Past experience shows such cases take years to build and prosecute. 
- <p class="updated_time"> 06:31 PM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/technology-61002904?at_medium=RSS&at_campaign=KARANGA">Hydra: How German police dismantled Russian darknet site</a> BBC: German police say illegal sales on the site amounted to at least £1bn a year 
- <p class="updated_time"> 06:29 PM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-60841291?at_medium=RSS&at_campaign=KARANGA">The guitarist who saved hundreds of people on a sinking cruise liner</a> BBC: Guitarist Moss Hills helped evacuate a sinking cruise liner after some of the crew jumped ship 
  <p class="updated_time"> 06:18 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61003878?at_medium=RSS&at_campaign=KARANGA">Bucha killings: 'I wish they had killed me too'</a> BBC: A family tells the BBC how Oleg Abramov, a welder in Bucha, was shot dead outside his home. 
  <p class="updated_time"> 06:11 PM CT, Apr. 05 </p> 
@@ -193,12 +197,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60993659?at_medium=RSS&at_campaign=KARANGA">Rare Sumatran rhino gives birth after eight miscarriages</a> BBC: The critically endangered Sumatran rhino gave birth to a female calf in an Indonesian sanctuary. 
  <p class="updated_time"> 03:13 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60993655?at_medium=RSS&at_campaign=KARANGA">Peru inflation: Civilians and police clash in Peru protests</a> BBC: Protests have taken place across Peru, as oil, gas and toll road prices rise. 
- <p class="updated_time"> 11:20 PM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/2022/04/04/world/europe/ukraine-nova-basan-russia.html">‘Sitting at Home and Trembling.’ A Town Emerges After a Russian Retreat.</a> NYT: A local official said he was detained and interrogated by the Russians, and described what he called mock executions. 
  <p class="updated_time"> 08:45 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/africa/killing-moura-mali.html">Western Officials Condemn Reports of ‘Massacre’ by Military in Central Mali</a> NYT: The State Department and the French foreign ministry said they were alarmed at reports of deaths caused by the Malian armed forces and their allies — Russian mercenaries with the Wagner Group. 
- <p class="updated_time"> 06:56 PM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/2022/04/04/world/europe/biden-putin-ukraine-war.html">Images of Russian Atrocities Push West Toward Tougher Sanctions</a> NYT: President Biden called for Vladimir Putin to face trial for war crimes, and European officials will meet to consider possibly banning some Russian energy imports. 
 
 
 </details>
@@ -206,6 +206,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:22 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/us/politics/biden-amazon-workers-labor-unions.html">Biden Appears to Show Support for Amazon Workers Who Voted to Unionize</a> NYT: “By the way, Amazon, here we come. Watch,” the president said. But the White House quickly said his remarks did not mean the government would get formally involved. 
+ <p class="updated_time"> 06:20 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/business/economy/student-loan-pause-inflation.html">How Biden Is Handling Student Loan Payments Amid Inflation</a> NYT: The administration is in a tight spot as fast inflation makes households unhappy. Trying to offset price pain can risk stoking demand. 
  <p class="updated_time"> 06:04 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/us-russia-malware-cyberattacks.html">U.S. Says It Secretly Removed Malware Worldwide, Pre-empting Russian Cyberattacks</a> NYT: The operation is the latest effort by the Biden administration to thwart actions by Russia by making them public before Moscow can strike. 
  <p class="updated_time"> 06:04 PM CT, Apr. 06 </p> 
@@ -213,17 +217,15 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:00 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/chuck-schumer.html">How Chuck Schumer Avoided a Primary Challenge From the Left</a> NYT: Despite months of speculation, no prominent progressive has so far come forward to challenge the Democratic majority leader, who has worked hard to shore up his left flank. 
  <p class="updated_time"> 05:55 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/us/politics/capitol-hill-fox.html">The Capitol Fox, Euthanized After Attacks, Tests Positive for Rabies</a> NYT: The tale of a wild fox on Capitol Hill had captivated those who live and work there. Then a congressman and several others were bitten, the fox was captured and she turned out to be rabid. 
+ <a href="https://www.nytimes.com/2022/04/06/us/politics/capitol-hill-fox.html">Wild Fox on Capitol Hill Is Euthanized After Attacks </a> NYT: The tale of a wild fox on Capitol Hill had captivated those who live and work there. Then a congressman and several others were bitten, the fox was captured and she turned out to be rabid. 
  <p class="updated_time"> 05:54 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/us/politics/january-6-scavino-navarro-trump-contempt.html">House Votes to Find Scavino and Navarro in Contempt in Jan. 6 Inquiry</a> NYT: The vote was mostly along party lines to recommend that the Justice Department charge Peter Navarro and Dan Scavino Jr. with criminal contempt of Congress for defying subpoenas. 
+ <a href="https://www.nytimes.com/2022/04/06/us/politics/january-6-scavino-navarro-trump.html">House Votes to Find Scavino and Navarro in Contempt in Jan. 6 Inquiry</a> NYT: The vote was mostly along party lines to recommend that the Justice Department charge Peter Navarro and Dan Scavino Jr. with criminal contempt of Congress for defying subpoenas. 
  <p class="updated_time"> 05:47 PM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/house-votes-dan-scavino-peter-navarro-in-contempt-00023619">House votes to hold Dan Scavino and Peter Navarro in contempt</a> Politico: There have now been four Trump allies referred for prosecution after defying the Jan. 6 committee. 
  <p class="updated_time"> 05:46 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091241404/house-criminal-contempt-referrals-trump-aides-navarro-scavino">House approves criminal contempt referrals for 2 Trump aides over the Jan. 6 attack</a> NPR: The House voted to hold former Trump White House advisers Dan Scavino Jr. and Peter Navarro in contempt of Congress and refer the matter to the Justice Department for possible prosecution 
- <p class="updated_time"> 05:40 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/us/politics/biden-amazon-workers-labor-unions.html">Biden Appears to Show Support for Amazon Workers Who Voted to Unionize</a> NYT: “By the way, Amazon, here we come. Watch,” the president said. But the White House quickly said his remarks did not mean the government would get formally involved. 
  <p class="updated_time"> 04:51 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/us/politics/matthew-martin-capitol-acquittal.html">Judge Finds Matthew Martin Not Guilty in First Jan. 6 Acquittal</a> NYT: The defendant, Matthew Martin, had claimed the police let him into the Capitol during last year’s pro-Trump riot. The judge agreed. 
+ <a href="https://www.nytimes.com/2022/04/06/us/politics/matthew-martin-capitol-acquittal.html">Judge Finds Man Not Guilty in First Jan. 6 Acquittal</a> NYT: The defendant, Matthew Martin, had claimed the police let him into the Capitol during last year’s pro-Trump riot. The judge agreed. 
  <p class="updated_time"> 04:13 PM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/mariupol-dead-5-000-russia-war-ukraine-00023560">Mariupol’s dead put at 5,000 as Ukraine braces in the east</a> Politico: Ukrainian authorities continued gathering up the dead in shattered towns outside the capital. 
  <p class="updated_time"> 04:09 PM CT, Apr. 06 </p> 
@@ -254,8 +256,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/06/judge-nixes-steve-bannon-top-defense-00023522">Judge nixes Bannon’s top defense against criminal charges for defying Jan. 6 committee</a> Politico: The ruling said the former Trump adviser's “advice of counsel” defense was not applicable in contempt of Congress cases. 
  <p class="updated_time"> 02:40 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/merrick-garland-covid-positive-test.html">Attorney General Merrick B. Garland Tests Positive for the Coronavirus</a> NYT: A member of Vice President Kamala Harris’s staff also tested positive on Wednesday, a White House statement said. 
- <p class="updated_time"> 02:22 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/business/economy/student-loan-pause-inflation.html">How Biden Is Handling Student Loan Payments Amid Inflation</a> NYT: The administration is in a tight spot as fast inflation makes households unhappy. Trying to offset price pain can risk stoking demand. 
  <p class="updated_time"> 02:03 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091283242/attorney-general-garland-tests-positive-for-covid">Attorney General Garland tests positive for COVID</a> NPR: The 69-year-old cabinet member asked to be tested after learning he may have been exposed to the virus and he is not experiencing symptoms. 
  <p class="updated_time"> 01:55 PM CT, Apr. 06 </p> 
