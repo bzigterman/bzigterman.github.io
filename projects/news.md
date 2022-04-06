@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:27 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/06/world/ukraine-russia-war-news">Ukraine Live Updates: Civilians Flee Eastern Regions as the West Ramps Up Sanctions on Russia</a> NYT: Residents are leaving eastern Ukraine after warnings of an expected escalation of fighting there by Russian troops, as the U.S. and its allies moved to impose new sanctions to punish Moscow. 
  <p class="updated_time"> 04:11 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/africa/burkina-faso-blaise-compaore-thomas-sankara.html">Ex-Leader of Burkina Faso Convicted in Killing of Predecessor</a> NYT: A military tribunal sentenced former President Blaise Compaoré, who is now in exile, to life in prison for his role in the 1987 assassination. 
- <p class="updated_time"> 03:59 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/04/06/world/ukraine-russia-war-news">Ukraine Live Updates: Civilians Flee Eastern Regions as the West Ramps Up Sanctions on Russia</a> NYT: Residents are leaving eastern Ukraine after warnings of an expected escalation of fighting there by Russian troops, as the U.S. and its allies moved to impose new sanctions to punish Moscow. 
  <p class="updated_time"> 03:59 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/business/economy/yellen-russia-sanctions.html">Yellen Says Aim Is ‘Maximum Pain’ for Russia Without Hurting U.S.</a> NYT: The Treasury secretary told a House committee that the U.S. would continue finding ways to punish Russia for its invasion of Ukraine. 
  <p class="updated_time"> 03:55 PM CT, Apr. 06 </p> 
@@ -25,12 +25,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/06/1091308700/communities-have-formed-among-those-who-have-stayed-in-kyiv-through-russian-atta">Communities have formed among those who have stayed in Kyiv through Russian attacks</a> NPR: Misha Smetana lives in Kyiv, and has stayed there throughout Russian attacks on Ukraine. He tells NPR's Scott Detrow what that's been like, and about the communities forming between people who stayed. 
  <p class="updated_time"> 03:42 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308693/blinken-says-u-s-and-europe-are-following-through-on-ukraine-commitments">Blinken says U.S. and Europe are following through on Ukraine commitments</a> NPR: Diplomats are expressing outrage over reports of Russian atrocities in Ukraine. In Brussels and Washington, officials announced more sanctions to step up the pressure on President Vladimir Putin. 
+ <p class="updated_time"> 03:39 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 03:34 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/covid-second-booster-europe.html">European Health Agencies Say it Is ‘Too Early’ for Second Boosters for Most People</a> NYT: Additional boosters can be given to people 80 and older, who are at higher risk of severe illness if infected, the agencies said. 
  <p class="updated_time"> 03:29 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308665/new-sanctions-target-several-of-russias-elite-including-family-members-of-putin">New sanctions target several of Russia's elite, including family members of Putin</a> NPR: The U.S. and Europe are imposing new sanctions against Russia after allegations of atrocities in Ukraine. Among the targets are financial institutions and some of Russia's elite. 
- <p class="updated_time"> 03:24 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 03:24 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308637/many-at-a-maternity-hospital-in-kyiv-made-their-way-from-cities-facing-attacks">Many at a maternity hospital in Kyiv made their way from cities facing attacks</a> NPR: More than 15,000 babies have been born in Ukraine since the start of the war. At a maternity hospital in Kyiv, new parents tell of the long road it took to get them to safety. 
  <p class="updated_time"> 03:24 PM CT, Apr. 06 </p> 
@@ -39,22 +39,22 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/06/1091308616/what-happens-to-kyivs-peoples-friendship-arch-now-that-russia-has-invaded">What happens to Kyiv's People's Friendship Arch, now that Russia has invaded?</a> NPR: The People's Friendship Arch was gifted to Ukraine by the Russian government and opened in Kyiv in 1982. Ukrainians weigh in on the future of the enormous monument, in the midst of war with Russia. 
  <p class="updated_time"> 02:40 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/nato-ukraine-russia.html">NATO Nations Divided As Ukraine War Enters Uncertain Stage</a> NYT: The alliance is examining what Ukraine needs as it tries to expel Russia from the east and how to ensure an outcome that enhances European security. 
+ <p class="updated_time"> 02:39 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 02:34 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/05/health/fda-glaxo-antibody-us.html">The F.D.A. Suspends Use of Glaxo Antibody Drug in the U.S.</a> NYT: Manufacturers said lab testing revealed that the authorized dosage of the drug was not sufficiently potent against BA.2. 
  <p class="updated_time"> 02:31 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/middleeast/idit-silman-israel-coalition.html">Israel’s Government in Crisis After Senior Lawmaker Quits Coalition</a> NYT: Idit Silman, the de facto government whip, left the coalition, depriving the government of a parliamentary majority. But her move does not mean the opposition can force new elections, at least for now. 
  <p class="updated_time"> 02:29 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/sports/ping-pong-wally-green.html">‘The Sport of Love’: Ping-Pong, the Great Equalizer</a> NYT: Wally Green has played everywhere from Brooklyn to Pyongyang, becoming a beloved American ambassador for table tennis — and international understanding — in the process. 
- <p class="updated_time"> 02:24 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 02:10 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/vladimir-zhirinovsky-dead.html">Vladimir V. Zhirinovsky Dies at 75; Ultranationalist Russian Politician</a> NYT: His antics kept him at center stage in Russia for three decades, and his once fringe views on imperial expansion had gone mainstream with the invasion of Ukraine. 
  <p class="updated_time"> 01:56 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-bucha-makeup-artist.html">A Makeup Artist Recognized This Bucha Victim’s Picture by Her Manicure</a> NYT: The woman, Iryna Filkina, had worked at a heating plant. She had contacted the makeup artist for help being more beautiful and fashionable. 
+ <p class="updated_time"> 01:39 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/former-islamic-state-hostages-testify-to-cruelty-of-british-accented-guards-11649267918">Former Islamic State Hostages Testify to Cruelty of Guards</a> WSJ: Former Islamic State Hostages Testify to Cruelty of Guards 
  <p class="updated_time"> 01:30 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61015190?at_medium=RSS&at_campaign=KARANGA">Peter Kassig: US hostage 'knew his time had come' before IS execution</a> BBC: The father of an American aid worker killed by the notorious "Beatles" cell testifies at a trial in Virginia. 
- <p class="updated_time"> 01:24 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/former-islamic-state-hostages-testify-to-cruelty-of-british-accented-guards-11649267918">Former Islamic State Hostages Testify to Cruelty of Guards</a> WSJ: Former Islamic State Hostages Testify to Cruelty of Guards 
  <p class="updated_time"> 12:52 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005388?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Putin's daughters targeted by US sanctions</a> BBC: The US sanctions' list includes Putin's adult daughters and relatives of Foreign Minister Sergei Lavrov. 
  <p class="updated_time"> 12:43 PM CT, Apr. 06 </p> 
@@ -63,7 +63,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/technology/instagram-harassment-women.html">For Prominent Women on Instagram, DMs Can Be a Cesspool of Misogyny</a> NYT: A report on direct messages sent to five women found that “abuse and harmful content is allowed to thrive” on Instagram. The platform’s parent company, Meta, said it disagreed with the report’s conclusions. 
  <p class="updated_time"> 12:40 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/business-61013908?at_medium=RSS&at_campaign=KARANGA">Oil bosses vow to boost output and deny profiteering</a> BBC: Energy bosses warn there is "no quick fix" to the higher energy costs hitting households. 
- <p class="updated_time"> 12:24 PM CT, Apr. 06 </p> 
+ <p class="updated_time"> 12:39 PM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/israels-government-faces-crisis-after-right-wing-lawmaker-quits-11649245710">Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits</a> WSJ: Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits 
  <p class="updated_time"> 12:13 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61011141?at_medium=RSS&at_campaign=KARANGA">Who are Putin's daughters? What we know about his family</a> BBC: The Russian president says he has daughters, but has given little information about them. 
@@ -71,10 +71,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/europe/russian-diplomats-expelled.html">Countries Have Expelled 120 Russian Spies During War in Ukraine</a> NYT: Despite the purge of intelligence officers, former officials cautioned that Moscow would have other ways to collect information and that the efforts would have little impact on the war in Ukraine. 
  <p class="updated_time"> 11:52 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61009077?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: Ethnic cleansing documented in western Tigray</a> BBC: "We will erase you from this land," a trader says he was told by Amhara security forces. 
+ <p class="updated_time"> 11:39 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/john-lee-former-policeman-poised-to-be-hong-kongs-next-top-official-11649244872">Former Policeman Poised to Be Hong Kong’s Next Top Official</a> WSJ: Former Policeman Poised to Be Hong Kong’s Next Top Official 
  <p class="updated_time"> 11:38 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61015772?at_medium=RSS&at_campaign=KARANGA">British embassy guard charged with spying for Russia</a> BBC: David Ballantyne Smith, 57, is charged with nine offences under the Official Secrets Act. 
- <p class="updated_time"> 11:24 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/john-lee-former-policeman-poised-to-be-hong-kongs-next-top-official-11649244872">Former Policeman Poised to Be Hong Kong’s Next Top Official</a> WSJ: Former Policeman Poised to Be Hong Kong’s Next Top Official 
  <p class="updated_time"> 11:14 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/poland-ukrainian-refugees.html">The Powerful Force Guiding Poland’s Welcome to Ukrainians: Fear of Putin</a> NYT: Poland has not been a welcoming place for some refugees. But Ukraine’s cause, in this political moment, has been popular because of a mutual concern about Russia. 
  <p class="updated_time"> 11:12 AM CT, Apr. 06 </p> 
@@ -296,10 +296,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/06/desantis-endorsement-boost-political-influence-00022770">DeSantis deploys coveted endorsement to boost his political influence</a> Politico: DeSantis has played favorites in one Florida Senate GOP primary, and is eyeing others. 
  <p class="updated_time"> 03:31 AM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/moderate-democrats-midterms-00023228">Dem moderates get choosy in midterm recruits as GOP headwinds grow</a> Politico: After getting walloped in 2020 and now facing a flurry of departures, the party's House centrists are hunkering down to focus on ground game. 
- <p class="updated_time"> 03:30 AM CT, Apr. 06 </p> 
- <a href="https://www.politico.com/news/2022/04/06/may-governor-primaries-trumps-control-gop-00023197">May governor primaries pose big test for Trump’s control over the GOP</a> Politico: The former president's influence on state politics will be on the ballot next month. 
- <p class="updated_time"> 09:22 PM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/jan-6-defense-lawyer-disbarred-00023314">Court orders Jan. 6 defense lawyer disbarred</a> Politico: The most immediate impact of Jonathon Moseley’s disbarment may be in the upcoming trial of 11 Oath Keepers facing charges of seditious conspiracy for their role in the Capitol breach. 
  <p class="updated_time"> 08:28 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/us/politics/fox-capitol-hill.html">Fox Captured on Capitol Grounds After Reports of Attacks</a> NYT: Animal control officers descended on Capitol Hill after reports of lawmakers, staff members and reporters being attacked by a wild fox believed to have been nesting on the Capitol grounds. 
  <p class="updated_time"> 07:16 PM CT, Apr. 05 </p> 
@@ -314,10 +310,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/05/us/politics/trump-allies-january-6.html">Justice Dept. Investigation of Jan. 6 Confronts Sprawling Cast of Characters</a> NYT: The wide net being cast by prosecutors as they move beyond charging rioters could encompass scores of potential witnesses from inside and outside of government. 
  <p class="updated_time"> 04:11 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091079567/russia-ukraine-war-what-happened-today-april-5">Russia-Ukraine war: What happened today (April 5)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:03 PM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/former-police-officer-trial-capitol-riot-00023166">Former police officer goes on trial over Capitol riot</a> Politico: Prosecutor says Thomas Robertson was trying to block the electoral vote count, but the defense says he went into the Capitol only to retrieve a friend. 
+ <p class="updated_time"> 03:40 PM CT, Apr. 05 </p> 
+ <a href="https://www.politico.com/news/2022/04/05/albany-budget-process-hochul-00023031">Albany's famously secretive budget process returns under New York's new governor</a> Politico: Gov. Kathy Hochul hasn't shown urgency in talks over the $216 billion proposed spending plan, second largest in the nation to California. 
  <p class="updated_time"> 02:53 PM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/gop-opposition-biden-immigration-policy-covid-deal-00023156">Covid deal hampered by GOP opposition to Biden immigration policy</a> Politico: Republican senators want a vote on a pandemic-era immigration limit before they'll consider moving forward on $10 billion in Covid aid. 
+ <p class="updated_time"> 02:35 PM CT, Apr. 05 </p> 
+ <a href="https://www.politico.com/news/2022/04/05/obama-returns-white-house-00023148">Obama returns to White House for first time since leaving office</a> Politico: “Feels like the good old days," President Biden said in welcoming the former president at an event to celebrate the Affordable Care Act. 
  <p class="updated_time"> 12:58 PM CT, Apr. 05 </p> 
  <a href="https://www.cnn.com/2022/04/05/politics/mark-milley-ukraine-reaction-international-conflict/index.html">Top US general: Potential for 'significant international conflict' is increasing</a> CNN: The top US military officer told lawmakers Tuesday that the world is becoming more unstable and the "potential for significant international conflict is increasing, not decreasing." 
  <p class="updated_time"> 12:44 PM CT, Apr. 05 </p> 
@@ -340,8 +338,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/05/build-back-center-biden-2022-midterms-00022789">Build Back Center: Biden plows a revamped lane for the midterms</a> Politico: As he nears the 2022 stretch run, the president is emphasizing deficit reduction, policing funding and taxing the rich. 
  <p class="updated_time"> 03:30 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/election-conspiracy-theories-green-bay-trump-00022946">How election conspiracy theories turned local politics ‘toxic’ in one Wisconsin city</a> Politico: Green Bay has turned into an example of how Donald Trump's unfounded conspiracy theories about the 2020 election have eroded faith in local government. 
- <p class="updated_time"> 02:36 PM CT, Apr. 04 </p> 
- <a href="https://www.politico.com/news/2022/04/04/biden-obamacare-family-glitch-coverage-00022798">Biden admin plots to fix Obamacare's 'family glitch,' expand coverage</a> Politico: The move would target loophole that keeps about 5 million people from qualifying for subsidized health plans 
+ <p class="updated_time"> 02:20 PM CT, Apr. 04 </p> 
+ <a href="https://www.politico.com/news/2022/04/04/florida-democrats-latino-voters-00022601">Florida Democrats want to win back Latino voters. It could be too late.</a> Politico: One professor called Democrats’ approach to Hispanic voters “wrought with entitlement.” 
  <p class="updated_time"> 12:13 PM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/senate-strikes-10b-covid-deal-00022729">Senate strikes $10B Covid deal</a> Politico: The agreement leaves out global pandemic aid, a possible hurdle for Democratic support in the House. 
  <p class="updated_time"> 03:35 AM CT, Apr. 04 </p> 
