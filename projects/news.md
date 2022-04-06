@@ -9,8 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:46 PM CT, Apr. 06 </p> 
+ <p class="updated_time"> 04:11 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/world/africa/burkina-faso-blaise-compaore-thomas-sankara.html">Ex-Leader of Burkina Faso Convicted in Killing of Predecessor</a> NYT: A military tribunal sentenced former President Blaise Compaoré, who is now in exile, to life in prison for his role in the 1987 assassination. 
+ <p class="updated_time"> 03:59 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/04/06/world/ukraine-russia-war-news">Ukraine Live Updates: Civilians Flee Eastern Regions as the West Ramps Up Sanctions on Russia</a> NYT: Residents are leaving eastern Ukraine after warnings of an expected escalation of fighting there by Russian troops, as the U.S. and its allies moved to impose new sanctions to punish Moscow. 
+ <p class="updated_time"> 03:59 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/business/economy/yellen-russia-sanctions.html">Yellen Says Aim Is ‘Maximum Pain’ for Russia Without Hurting U.S.</a> NYT: The Treasury secretary told a House committee that the U.S. would continue finding ways to punish Russia for its invasion of Ukraine. 
+ <p class="updated_time"> 03:55 PM CT, Apr. 06 </p> 
+ <a href="https://www.npr.org/2022/04/06/1091243458/russia-ukraine-war-what-happened-today-april-6">Russia-Ukraine war: What happened today (April 6)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:51 PM CT, Apr. 06 </p> 
+ <a href="https://www.npr.org/2022/04/06/1091308714/what-u-s-intelligence-got-right-and-wrong-about-the-war-in-ukraine">What U.S. intelligence got right and wrong about the war in Ukraine</a> NPR: NPR's Mary Louise Kelly talks with Pentagon correspondent Tom Bowman and Fred Kagan of the Critical Threats Project at the American Enterprise Institute about U.S. intelligence in the war in Ukraine. 
+ <p class="updated_time"> 03:51 PM CT, Apr. 06 </p> 
+ <a href="https://www.npr.org/2022/04/06/1091308707/el-salvadors-president-is-trampling-human-rights-with-major-crackdown-critics-sa">El Salvador's president is trampling human rights with major crackdown, critics say</a> NPR: El Salvador's president has responded to gang violence with a sweeping campaign of arrests that raise questions about whether he's trying to silence opponents. 
+ <p class="updated_time"> 03:51 PM CT, Apr. 06 </p> 
+ <a href="https://www.npr.org/2022/04/06/1091308700/communities-have-formed-among-those-who-have-stayed-in-kyiv-through-russian-atta">Communities have formed among those who have stayed in Kyiv through Russian attacks</a> NPR: Misha Smetana lives in Kyiv, and has stayed there throughout Russian attacks on Ukraine. He tells NPR's Scott Detrow what that's been like, and about the communities forming between people who stayed. 
  <p class="updated_time"> 03:42 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308693/blinken-says-u-s-and-europe-are-following-through-on-ukraine-commitments">Blinken says U.S. and Europe are following through on Ukraine commitments</a> NPR: Diplomats are expressing outrage over reports of Russian atrocities in Ukraine. In Brussels and Washington, officials announced more sanctions to step up the pressure on President Vladimir Putin. 
  <p class="updated_time"> 03:34 PM CT, Apr. 06 </p> 
@@ -18,13 +30,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:29 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308665/new-sanctions-target-several-of-russias-elite-including-family-members-of-putin">New sanctions target several of Russia's elite, including family members of Putin</a> NPR: The U.S. and Europe are imposing new sanctions against Russia after allegations of atrocities in Ukraine. Among the targets are financial institutions and some of Russia's elite. 
  <p class="updated_time"> 03:24 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
+ <p class="updated_time"> 03:24 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308637/many-at-a-maternity-hospital-in-kyiv-made-their-way-from-cities-facing-attacks">Many at a maternity hospital in Kyiv made their way from cities facing attacks</a> NPR: More than 15,000 babies have been born in Ukraine since the start of the war. At a maternity hospital in Kyiv, new parents tell of the long road it took to get them to safety. 
  <p class="updated_time"> 03:24 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308623/the-view-of-a-kyiv-suburb-where-russian-forces-were-accused-of-attacking-civilia">The view of a Kyiv suburb where Russian forces were accused of attacking civilians</a> NPR: We look at the fallout from Russian attacks in Borodyanka, a suburb of the Ukrainian capitol of Kyiv. Ukrainian officials accuse Russian forces of indiscriminately attacking civilians there. 
  <p class="updated_time"> 03:24 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308616/what-happens-to-kyivs-peoples-friendship-arch-now-that-russia-has-invaded">What happens to Kyiv's People's Friendship Arch, now that Russia has invaded?</a> NPR: The People's Friendship Arch was gifted to Ukraine by the Russian government and opened in Kyiv in 1982. Ukrainians weigh in on the future of the enormous monument, in the midst of war with Russia. 
- <p class="updated_time"> 02:49 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 02:40 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/nato-ukraine-russia.html">NATO Nations Divided As Ukraine War Enters Uncertain Stage</a> NYT: The alliance is examining what Ukraine needs as it tries to expel Russia from the east and how to ensure an outcome that enhances European security. 
  <p class="updated_time"> 02:34 PM CT, Apr. 06 </p> 
@@ -33,40 +45,36 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/middleeast/idit-silman-israel-coalition.html">Israel’s Government in Crisis After Senior Lawmaker Quits Coalition</a> NYT: Idit Silman, the de facto government whip, left the coalition, depriving the government of a parliamentary majority. But her move does not mean the opposition can force new elections, at least for now. 
  <p class="updated_time"> 02:29 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/sports/ping-pong-wally-green.html">‘The Sport of Love’: Ping-Pong, the Great Equalizer</a> NYT: Wally Green has played everywhere from Brooklyn to Pyongyang, becoming a beloved American ambassador for table tennis — and international understanding — in the process. 
- <p class="updated_time"> 02:19 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/business/economy/yellen-russia-sanctions.html">Yellen Says Aim Is ‘Maximum Pain’ for Russia Without Hurting U.S.</a> NYT: The Treasury secretary, testifying before a House committee, said the U.S. would continue finding ways to punish Russia for its invasion of Ukraine. 
+ <p class="updated_time"> 02:24 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 02:10 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/vladimir-zhirinovsky-dead.html">Vladimir V. Zhirinovsky Dies at 75; Ultranationalist Russian Politician</a> NYT: His antics kept him at center stage in Russia for three decades, and his once fringe views on imperial expansion had gone mainstream with the invasion of Ukraine. 
  <p class="updated_time"> 01:56 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-bucha-makeup-artist.html">A Makeup Artist Recognized This Bucha Victim’s Picture by Her Manicure</a> NYT: The woman, Iryna Filkina, had worked at a heating plant. She had contacted the makeup artist for help being more beautiful and fashionable. 
- <p class="updated_time"> 01:49 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 01:30 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61015190?at_medium=RSS&at_campaign=KARANGA">Peter Kassig: US hostage 'knew his time had come' before IS execution</a> BBC: The father of an American aid worker killed by the notorious "Beatles" cell testifies at a trial in Virginia. 
- <p class="updated_time"> 01:27 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/04/world/europe/bucha-ukraine-bodies.html">Dead Lay Out in Bucha for Weeks, Refuting Russian Claim, Satellite Images Show</a> NYT: The images rebut Russia’s claim that the killing of civilians in Bucha, near Kyiv, took place after its soldiers had left town. 
+ <p class="updated_time"> 01:24 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/former-islamic-state-hostages-testify-to-cruelty-of-british-accented-guards-11649267918">Former Islamic State Hostages Testify to Cruelty of Guards</a> WSJ: Former Islamic State Hostages Testify to Cruelty of Guards 
  <p class="updated_time"> 12:52 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005388?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Putin's daughters targeted by US sanctions</a> BBC: The US sanctions' list includes Putin's adult daughters and relatives of Foreign Minister Sergei Lavrov. 
- <p class="updated_time"> 12:49 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/former-islamic-state-hostages-testify-to-cruelty-of-british-accented-guards-11649267918">Former Islamic State Hostages Testify to Cruelty of Guards</a> WSJ: Former Islamic State Hostages Testify to Cruelty of Guards 
  <p class="updated_time"> 12:43 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005390?at_medium=RSS&at_campaign=KARANGA">Oklahoma lawmakers pass near-total ban on abortion</a> BBC: The new laws could see doctors face fines of up to $100,000 and up to 10 years in prison. 
  <p class="updated_time"> 12:41 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/technology/instagram-harassment-women.html">For Prominent Women on Instagram, DMs Can Be a Cesspool of Misogyny</a> NYT: A report on direct messages sent to five women found that “abuse and harmful content is allowed to thrive” on Instagram. The platform’s parent company, Meta, said it disagreed with the report’s conclusions. 
  <p class="updated_time"> 12:40 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/business-61013908?at_medium=RSS&at_campaign=KARANGA">Oil bosses vow to boost output and deny profiteering</a> BBC: Energy bosses warn there is "no quick fix" to the higher energy costs hitting households. 
+ <p class="updated_time"> 12:24 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/israels-government-faces-crisis-after-right-wing-lawmaker-quits-11649245710">Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits</a> WSJ: Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits 
  <p class="updated_time"> 12:13 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61011141?at_medium=RSS&at_campaign=KARANGA">Who are Putin's daughters? What we know about his family</a> BBC: The Russian president says he has daughters, but has given little information about them. 
- <p class="updated_time"> 12:08 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/world/africa/burkina-faso-blaise-compaore-thomas-sankara.html">Ex-Leader of Burkina Faso Convicted in Killing of Predecessor</a> NYT: A military tribunal sentenced former President Blaise Compaoré, who is now in exile, to life in prison for his role in the 1987 assassination. 
  <p class="updated_time"> 12:00 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/russian-diplomats-expelled.html">Countries Have Expelled 120 Russian Spies During War in Ukraine</a> NYT: Despite the purge of intelligence officers, former officials cautioned that Moscow would have other ways to collect information and that the efforts would have little impact on the war in Ukraine. 
  <p class="updated_time"> 11:52 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61009077?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: Ethnic cleansing documented in western Tigray</a> BBC: "We will erase you from this land," a trader says he was told by Amhara security forces. 
- <p class="updated_time"> 11:49 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/israels-government-faces-crisis-after-right-wing-lawmaker-quits-11649245710">Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits</a> WSJ: Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits 
  <p class="updated_time"> 11:38 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61015772?at_medium=RSS&at_campaign=KARANGA">British embassy guard charged with spying for Russia</a> BBC: David Ballantyne Smith, 57, is charged with nine offences under the Official Secrets Act. 
+ <p class="updated_time"> 11:24 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/john-lee-former-policeman-poised-to-be-hong-kongs-next-top-official-11649244872">Former Policeman Poised to Be Hong Kong’s Next Top Official</a> WSJ: Former Policeman Poised to Be Hong Kong’s Next Top Official 
  <p class="updated_time"> 11:14 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/poland-ukrainian-refugees.html">The Powerful Force Guiding Poland’s Welcome to Ukrainians: Fear of Putin</a> NYT: Poland has not been a welcoming place for some refugees. But Ukraine’s cause, in this political moment, has been popular because of a mutual concern about Russia. 
  <p class="updated_time"> 11:12 AM CT, Apr. 06 </p> 
@@ -75,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/06/1091229634/nations-set-new-sanctions-against-russia-after-civilian-atrocities-in-ukraine">Nations set new sanctions against Russia after civilian atrocities in Ukraine</a> NPR: The U.S., the European Union and other partners are announcing new sanctions against Russia in response to the civilian deaths revealed in Ukraine this week. 
  <p class="updated_time"> 10:54 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-kharkiv-death.html">In Ukraine, Traces of Lives Cut Short</a> NYT: The violence of war is often random. Those who suffer most are the civilians caught in the middle. Two recent deaths in Kharkiv, Ukraine, are a testament to that. 
- <p class="updated_time"> 10:49 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/john-lee-former-policeman-poised-to-be-hong-kongs-next-top-official-11649244872">Former Policeman Poised to Be Hong Kong’s Next Top Official</a> WSJ: Former Policeman Poised to Be Hong Kong’s Next Top Official 
  <p class="updated_time"> 10:37 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091230358/us-sanctions-russia-putin-banks">New U.S. sanctions target Russia's largest banks and Putin's children</a> NPR: The U.S. joined the European Union and Group of Seven nations in enacting new sanctions on Russia in response to the civilian toll reported in Bucha and elsewhere in Ukraine in recent days. 
  <p class="updated_time"> 10:36 AM CT, Apr. 06 </p> 
@@ -113,22 +119,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/06/1091203259/blinken-brussels-nato-russia-warcrimes-">Antony Blinken will meet with allies in Brussels to discuss actions against Russia</a> NPR: The U.S. secretary of state will meet with NATO and G-7 members to talk punitive measures following reports of Russian war crimes against Ukraine. 
  <p class="updated_time"> 04:32 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/germany-gas-russia-ukraine.html">Germany’s Dependence on Russian Gas Is Difficult to Break</a> NYT: Dangerously dependent on Russian gas, Germany is still refusing to cut off President Putin, whose war it is effectively subsidizing to the tune of some $220 million a day. 
- <p class="updated_time"> 04:11 AM CT, Apr. 06 </p> 
- <a href="https://www.npr.org/2022/04/06/1091199402/for-a-special-issue-the-comic-book-series-el-peso-hero-travels-to-ukraine">Mexican American superhero saves Ukrainian civilians in comic book issue</a> NPR: Fed up with Mexico's non-interventionist policy after Russia invaded Ukraine, Héctor Rodríguez sends his Mexican American superhero to Mariupol in the latest issue of the series. 
  <p class="updated_time"> 04:00 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/asia/ukraine-south-korea-nuclear-weapons.html">Ukraine War Revives Nuclear Question in South Korea</a> NYT: Seoul abandoned a covert program in the 1970s, but some argue it is time for the country to embrace its nuclear ambitions and safeguard against a Russia-style invasion. 
- <p class="updated_time"> 03:33 AM CT, Apr. 06 </p> 
- <a href="https://www.npr.org/2022/04/06/1091199080/metoo-moment-hits-japan-film-industry">A #MeToo crisis is raging in the Japanese film industry</a> NPR: A #MeToo moment may be growing in a country where top movie directors have signed a petition expressing outrage over allegations of sexual violence in the film industry. 
  <p class="updated_time"> 01:27 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/americas/el-salvador-media-gangs.html">New Law in El Salvador Curtails Sharing Gang Information</a> NYT: A measure punishing the sharing of information about gangs is so vague, critics say, that virtually anyone can be arrested for speaking or writing about them, putting journalists in the cross hairs. 
  <p class="updated_time"> 01:04 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-russia-war-crimes.html">Why War Crimes Charges Over Ukraine Face High Hurdles</a> NYT: The indictment of Slobodan Milosevic, the president of Yugoslavia, was a seminal moment in legal history. But prosecuting war crimes remains a steep climb. 
- <p class="updated_time"> 12:35 AM CT, Apr. 06 </p> 
- <a href="https://www.npr.org/2022/04/06/1091195737/sri-lanka-president-revokes-emergency">Sri Lankan president revokes emergency amid growing protests</a> NPR: Anti-government public protests initially began over shortages of essentials such as cooking gas, petrol, electricity and milk powder and have spread to every part of the Indian Ocean island nation. 
  <p class="updated_time"> 12:23 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61002623?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Destruction in the Ukrainian town of Borodyanka</a> BBC: Police say there could be hundreds of people buried under rubble of blocks destroyed by Russian attacks. 
- <p class="updated_time"> 12:19 AM CT, Apr. 06 </p> 
- <a href="https://www.npr.org/2022/04/06/1091194471/australia-u-k-u-s-hypersonic-missiles">Australia, the U.K. and the U.S. say they will develop hypersonic missiles</a> NPR: The announcement comes amid growing concern by the U.S. and its allies about China's growing military assertiveness and Washington's concern of Russia using the weapons in Ukraine. 
  <p class="updated_time"> 11:07 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/climate/weather-forecast-data.html">Lack of Hydrogen and Helium Led to Fewer Weather Surveying Balloon Trips</a> NYT: Disruptions to supplies of hydrogen and helium have led the National Weather Service to cancel routine launches at some sites. 
  <p class="updated_time"> 11:01 PM CT, Apr. 05 </p> 
@@ -206,32 +204,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:13 PM CT, Apr. 06 </p> 
+ <a href="https://www.politico.com/news/2022/04/06/mariupol-dead-5-000-russia-war-ukraine-00023560">Mariupol’s dead put at 5,000 as Ukraine braces in the east</a> Politico: Ukrainian authorities continued gathering up the dead in shattered towns outside the capital. 
+ <p class="updated_time"> 04:09 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/us/politics/fda-covid-boosters.html">Officials Outline Tight Deadline If U.S. Wants to Redesign Vaccines Before Fall</a> NYT: Outside experts are exploring the need to reconfigure vaccines in order to better protect the nation against new variants. 
+ <p class="updated_time"> 04:06 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/us/politics/matthew-martin-capitol-acquittal.html">Judge Finds Matthew Martin Not Guilty in First Jan. 6 Acquittal</a> NYT: The defendant, Matthew Martin, had claimed the police let him into the Capitol during last year’s pro-Trump riot. The judge agreed. 
+ <p class="updated_time"> 03:59 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/business/economy/yellen-russia-sanctions.html">Yellen Says Aim Is ‘Maximum Pain’ for Russia Without Hurting U.S.</a> NYT: The Treasury secretary told a House committee that the U.S. would continue finding ways to punish Russia for its invasion of Ukraine. 
+ <p class="updated_time"> 03:55 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/us/politics/justice-department-russian-oligarch-charged.html">Justice Dept. Charges Russian Oligarch With Violating Sanctions</a> NYT: The department also unveiled additional measures meant to neutralize Russian money laundering and disrupt online criminal networks. 
+ <p class="updated_time"> 03:55 PM CT, Apr. 06 </p> 
+ <a href="https://www.npr.org/2022/04/06/1091243458/russia-ukraine-war-what-happened-today-april-6">Russia-Ukraine war: What happened today (April 6)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:51 PM CT, Apr. 06 </p> 
+ <a href="https://www.npr.org/2022/04/06/1091308707/el-salvadors-president-is-trampling-human-rights-with-major-crackdown-critics-sa">El Salvador's president is trampling human rights with major crackdown, critics say</a> NPR: El Salvador's president has responded to gang violence with a sweeping campaign of arrests that raise questions about whether he's trying to silence opponents. 
+ <p class="updated_time"> 03:50 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/05/us/politics/cdc-second-boosters.html">C.D.C. Director Encourages Second Booster for Elderly and Many With Chronic Conditions</a> NYT: The remarks by the director, Dr. Rochelle P. Walensky — on shots to Americans 50 to 64 with underlying medical conditions and all those 65 and older — were her clearest statement to date. 
+ <p class="updated_time"> 03:46 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/business/energy-environment/gas-prices-executives-congress.html">Oil Executives Speak About High Gas Prices at House Hearing</a> NYT: Leaders of Exxon Mobil, Chevron and four other companies testified about gas prices before a House committee on Wednesday. 
  <p class="updated_time"> 03:43 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091291881/oklahoma-abortion-bill-ban-roe-v-wade">Oklahoma's vote to ban most abortions comes at a key moment for reproductive rights</a> NPR: It's the latest conservative legislature to approve a new restriction on abortion, as the country awaits a Supreme Court decision that could upend Roe v. Wade. 
  <p class="updated_time"> 03:42 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308693/blinken-says-u-s-and-europe-are-following-through-on-ukraine-commitments">Blinken says U.S. and Europe are following through on Ukraine commitments</a> NPR: Diplomats are expressing outrage over reports of Russian atrocities in Ukraine. In Brussels and Washington, officials announced more sanctions to step up the pressure on President Vladimir Putin. 
  <p class="updated_time"> 03:42 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308679/u-s-secretary-of-education-miguel-cardona-discusses-the-student-loan-pause-exten">U.S. Secretary of Education Miguel Cardona discusses the student loan pause extension</a> NPR: NPR's Ailsa Chang speaks to Secretary of Education Miguel Cardona about the extension on the student loan pause. Also, roughly 7 million borrowers who are in default right now will get a fresh start. 
- <p class="updated_time"> 03:41 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/us/politics/justice-department-russian-oligarch-charged.html">Justice Dept. Charges Russian Oligarch With Violating Sanctions</a> NYT: The department also unveiled additional measures meant to neutralize Russian money laundering and disrupt online criminal networks. 
  <p class="updated_time"> 03:40 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091263387/clash-over-immigration-policy-derails-senate-covid-aid-bill">Clash over immigration policy derails Senate COVID aid bill</a> NPR: Senate Republicans, with the support of some Democrats, want to use the $10 billion spending bill to block the expiration of a policy that has made it easier to deport migrants during the pandemic. 
  <p class="updated_time"> 03:32 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/business/economy/fed-minutes-march-2022.html">March Fed Minutes: ‘Many’ Officials in Favor of a Big Rate Increase</a> NYT: Notes from the March meeting, at which it raised rates by a quarter of a percentage point, showed officials gearing up to pull back economic support quickly as they try to tame inflation. 
- <p class="updated_time"> 03:03 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/us/politics/fda-covid-boosters.html">F.D.A. Advisory Panel Discussing U.S. Vaccine Strategy</a> NYT: Outside experts are exploring the need to reconfigure vaccines in order to better protect the nation against new variants. 
  <p class="updated_time"> 03:02 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/republican-donors-rockbridge-network-trump.html">Dissatisfied With Their Party, Wealthy Republican Donors Form Secret Coalitions</a> NYT: Eager to offset a Democratic advantage among so-called dark money groups, wealthy pro-Trump conservatives like Peter Thiel are involved in efforts to wield greater influence outside the traditional party machinery. 
- <p class="updated_time"> 03:00 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/business/energy-environment/gas-prices-executives-congress.html">Oil Executives Speak About High Gas Prices at House Hearing</a> NYT: Leaders of Exxon Mobil, Chevron and four other companies testified about gas prices before a House committee on Wednesday. 
  <p class="updated_time"> 02:47 PM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/judge-nixes-steve-bannon-top-defense-00023522">Judge nixes Bannon’s top defense against criminal charges for defying Jan. 6 committee</a> Politico: The ruling said the former Trump adviser's “advice of counsel” defense was not applicable in contempt of Congress cases. 
  <p class="updated_time"> 02:40 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/us/politics/merrick-garland-covid-positive-test.html">Attorney General Merrick B. Garland Tests Positive for the Coronavirus</a> NYT: The announcement from the Justice Department came after Gina Raimondo, the commerce secretary, and Representative Katherine Clark of Massachusetts announced their own positive tests. 
+ <a href="https://www.nytimes.com/2022/04/06/us/politics/merrick-garland-covid-positive-test.html">Attorney General Merrick B. Garland Tests Positive for the Coronavirus</a> NYT: A member of Vice President Kamala Harris’s staff also tested positive on Wednesday, a White House statement said. 
  <p class="updated_time"> 02:22 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/business/economy/student-loan-pause-inflation.html">How Biden Is Handling Student Loan Payments Amid Inflation</a> NYT: The administration is in a tight spot as fast inflation makes households unhappy. Trying to offset price pain can risk stoking demand. 
- <p class="updated_time"> 02:19 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/business/economy/yellen-russia-sanctions.html">Yellen Says Aim Is ‘Maximum Pain’ for Russia Without Hurting U.S.</a> NYT: The Treasury secretary, testifying before a House committee, said the U.S. would continue finding ways to punish Russia for its invasion of Ukraine. 
  <p class="updated_time"> 02:03 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091283242/attorney-general-garland-tests-positive-for-covid">Attorney General Garland tests positive for COVID</a> NPR: The 69-year-old cabinet member asked to be tested after learning he may have been exposed to the virus and he is not experiencing symptoms. 
  <p class="updated_time"> 01:55 PM CT, Apr. 06 </p> 
@@ -274,8 +282,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/06/commerce-secretary-positive-covid-19-00023348">Elite D.C. appears to be getting pummeled with Covid</a> Politico: There's been lots of buzz in recent days about people being infected after attending the Gridiron Club dinner and a few other events. 
  <p class="updated_time"> 08:52 AM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/bob-gibbs-to-retire-00023352">Ohio Republican Bob Gibbs to retire amid redistricting chaos</a> Politico: He faced a primary challenge from Max Miller, a Trump-endorsed candidate. 
- <p class="updated_time"> 08:05 AM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/05/us/politics/cdc-second-boosters.html">C.D.C. Director Encourages Second Booster for Elderly and Many With Chronic Conditions</a> NYT: The remarks by the director, Dr. Rochelle P. Walensky — on shots to Americans 50 to 64 with underlying medical conditions and all those 65 and older — were her clearest statement to date. 
  <p class="updated_time"> 06:01 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091015744/struggling-democrats-hope-growing-union-support-will-provide-boost-in-midterms">Struggling Democrats hope growing union support will provide boost in midterms</a> NPR: With support for unions at its highest point since 1965, Democrats hope they can capitalize on that sentiment as they struggle to connect with voters on other issues. 
  <p class="updated_time"> 04:11 AM CT, Apr. 06 </p> 
@@ -296,8 +302,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/05/jan-6-defense-lawyer-disbarred-00023314">Court orders Jan. 6 defense lawyer disbarred</a> Politico: The most immediate impact of Jonathon Moseley’s disbarment may be in the upcoming trial of 11 Oath Keepers facing charges of seditious conspiracy for their role in the Capitol breach. 
  <p class="updated_time"> 08:28 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/us/politics/fox-capitol-hill.html">Fox Captured on Capitol Grounds After Reports of Attacks</a> NYT: Animal control officers descended on Capitol Hill after reports of lawmakers, staff members and reporters being attacked by a wild fox believed to have been nesting on the Capitol grounds. 
- <p class="updated_time"> 08:26 PM CT, Apr. 05 </p> 
- <a href="https://www.nytimes.com/2022/04/05/us/politics/ivanka-trump-jan-6.html">Ivanka Trump Testifies to House Panel Investigating Jan. 6 Attack</a> NYT: The former president’s daughter and adviser was in the West Wing with him as a pro-Trump mob stormed the Capitol. She is said to have tried to persuade him to call off the rioters. 
  <p class="updated_time"> 07:16 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/us/politics/coronavirus-pandemic-aid-immigration.html">Coronavirus Response Bill Stalls Amid Dispute Over Immigration Policy</a> NYT: Republicans blocked a move to bring up a $10 billion Covid response package after Democrats refused to consider amendments, including one to keep in place pandemic-era immigration curbs. 
  <p class="updated_time"> 06:32 PM CT, Apr. 05 </p> 
@@ -310,16 +314,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/05/us/politics/trump-allies-january-6.html">Justice Dept. Investigation of Jan. 6 Confronts Sprawling Cast of Characters</a> NYT: The wide net being cast by prosecutors as they move beyond charging rioters could encompass scores of potential witnesses from inside and outside of government. 
  <p class="updated_time"> 04:11 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091079567/russia-ukraine-war-what-happened-today-april-5">Russia-Ukraine war: What happened today (April 5)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:34 PM CT, Apr. 05 </p> 
- <a href="https://www.npr.org/2022/04/05/1091119507/oklahoma-legislature-abortion-illegal">With little discussion, Oklahoma passes a bill to make most abortions illegal</a> NPR: The state's Republican-controlled House gives final legislative approval to a bill that would make performing an abortion a felony, punishable by up to 10 years in prison. 
- <p class="updated_time"> 03:26 PM CT, Apr. 05 </p> 
- <a href="https://www.npr.org/2022/04/05/1091101982/fox-us-capitol-biting-captured-photo">The fox responsible for biting people at the U.S. Capitol has been euthanized</a> NPR: The U.S. Capitol Police says animal control has captured the fox responsible for biting at least one lawmaker and a journalist. 
  <p class="updated_time"> 03:03 PM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/former-police-officer-trial-capitol-riot-00023166">Former police officer goes on trial over Capitol riot</a> Politico: Prosecutor says Thomas Robertson was trying to block the electoral vote count, but the defense says he went into the Capitol only to retrieve a friend. 
  <p class="updated_time"> 02:53 PM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/gop-opposition-biden-immigration-policy-covid-deal-00023156">Covid deal hampered by GOP opposition to Biden immigration policy</a> Politico: Republican senators want a vote on a pandemic-era immigration limit before they'll consider moving forward on $10 billion in Covid aid. 
- <p class="updated_time"> 02:35 PM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/obama-returns-white-house-00023148">Obama returns to White House for first time since leaving office</a> Politico: “Feels like the good old days," President Biden said in welcoming the former president at an event to celebrate the Affordable Care Act. 
  <p class="updated_time"> 12:58 PM CT, Apr. 05 </p> 
  <a href="https://www.cnn.com/2022/04/05/politics/mark-milley-ukraine-reaction-international-conflict/index.html">Top US general: Potential for 'significant international conflict' is increasing</a> CNN: The top US military officer told lawmakers Tuesday that the world is becoming more unstable and the "potential for significant international conflict is increasing, not decreasing." 
  <p class="updated_time"> 12:44 PM CT, Apr. 05 </p> 
