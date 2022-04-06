@@ -524,6 +524,13 @@ plot_grid(al_central_plot,nl_central_plot,
 ggsave("plots/divisions_net_wins.png", 
        width = 8, height = 7, dpi = 320)
 
+plot_grid(al_central_plot,al_east_plot,al_west_plot,
+          nl_central_plot,nl_east_plot,nl_west_plot,
+          align = "v",
+          ncol = 1)
+
+ggsave("plots/divisions_net_wins_mobile.png", 
+       width = 4, height = 7, dpi = 320)
 
 # wild card standings ----
 
@@ -779,6 +786,13 @@ al_plot <- ggplot(al_standings_magic, aes(x = reorder(team_label, win_pct),
     legend.key.size = unit(.1,"in"),
     legend.box.spacing = unit(0,"in")
   )
+al_plot
+al_plot_mobile <- al_plot +
+  theme(
+    plot.margin = margin(t = 5,
+                         r = 5,
+                         b = 0))
+al_plot_mobile
 
 nl_plot <- ggplot(nl_standings_magic, aes(x = reorder(team_label, -win_pct), 
                                           y = win_pct)) +
@@ -819,11 +833,28 @@ nl_plot <- ggplot(nl_standings_magic, aes(x = reorder(team_label, -win_pct),
     legend.key.size = unit(.1,"in"),
     legend.box.spacing = unit(0,"in")
   )
+
+nl_plot_mobile <- nl_plot +
+  theme(
+    plot.margin = margin(t = 0,
+                         b = 0,
+                         l = 0)
+  )
+nl_plot_mobile
+
 plot_grid(al_plot,nl_plot,
           align = "h") 
 
 ggsave("plots/mlb_team_rank.png",
        width = 8, height = 8*(628/1200),
+       dpi = 320)
+
+plot_grid(al_plot_mobile,nl_plot_mobile,
+          align = "h",
+          rel_widths = c(6,7)) 
+
+ggsave("plots/mlb_team_rank_mobile.png",
+       width = 4, height = 8*(628/1200),
        dpi = 320)
 
 # wild card net wins plot ----
@@ -903,6 +934,14 @@ plot_grid(al_plot, nl_plot,
 ggsave("plots/mlb_wild_card.png",
        width = 8, height = 4, dpi = 320)
 
+plot_grid(al_plot, nl_plot,
+          align = "v",
+          ncol = 1)
+
+ggsave("plots/mlb_wild_card_mobile.png",
+       width = 4, height = 4, dpi = 320)
+
+
 # web text ----
 now <- as_datetime(now())
 now_formatted <- strftime(x = now, 
@@ -928,17 +967,30 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 
 ### Games Above .500
 
-![Divisions]({{ site.baseurl }}/plots/divisions_net_wins.png)
+
+<picture>
+  <source srcset=\"{{ site.baseurl }}/plots/divisions_net_wins.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"{{ site.baseurl }}/plots/divisions_net_wins_mobile.png\" alt=\"\" />
+</picture>
 
 ",better_division_standings_table_html,"
 
 ## Wild Card
 
-![Wild Card]({{ site.baseurl }}/plots/mlb_team_rank.png)
+<picture>
+  <source srcset=\"{{ site.baseurl }}/plots/mlb_team_rank.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"{{ site.baseurl }}/plots/mlb_team_rank_mobile.png\" alt=\"\" />
+</picture>
 
 ",better_wild_card_standings_table_html,"
 
-![Wild Card]({{ site.baseurl }}/plots/mlb_wild_card.png)
+<picture>
+  <source srcset=\"{{ site.baseurl }}/plots/mlb_wild_card.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"{{ site.baseurl }}/plots/mlb_wild_card_mobile.png\" alt=\"\" />
+</picture>
 
 <p class=\"updated_time\">Source: <a href=\"https://github.com/fivethirtyeight/data/tree/master/mlb-elo\">FiveThirtyEight</a>. <a href=\"https://github.com/fivethirtyeight/data/blob/master/LICENSE\">CC-BY-4.0 License</a>.</p> 
 
