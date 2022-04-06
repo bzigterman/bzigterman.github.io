@@ -9,17 +9,21 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:27 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 10:43 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/04/06/world/ukraine-russia-war-news">Ukraine Live Updates: Europe and NATO Weigh Tougher Steps to Punish Russia</a> NYT: The European Union was discussing a ban on imports of Russian coal, and NATO leaders were considering more military aid to Ukraine. The U.S. and its allies also moved to impose sanctions against top Russian banks and family and friends of Vladimir Putin. 
- <p class="updated_time"> 10:27 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 10:37 AM CT, Apr. 06 </p> 
+ <a href="https://www.npr.org/2022/04/06/1091230358/us-sanctions-russia-putin-banks">New U.S. sanctions target Russia's largest banks and Putin's children</a> NPR: The U.S. joined the European Union and Group of Seven nations in enacting new sanctions on Russia in response to the civilian toll reported in Bucha and elsewhere in Ukraine in recent days. 
+ <p class="updated_time"> 10:36 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/biden-russia-putin-sanctions.html">U.S. Announces Sanctions on Russia’s Largest Banks and Putin’s Adult Children</a> NYT: Sberbank, the largest financial institution in Russia, and Alfa Bank, one of the country’s largest privately owned banks, will face sanctions. 
+ <p class="updated_time"> 10:35 AM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/business/economy/yellen-russia-sanctions.html">Yellen Says Aim Is ‘Maximum Pain’ for Russia Without Hurting US</a> NYT: The Treasury secretary, testifying before a House committee, said the U.S. would continue finding ways to punish Russia for its invasion of Ukraine. 
  <p class="updated_time"> 10:21 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1090902301/ukraine-refugees-poland-krakow">Krakow, Poland's second-largest city, strains to accommodate Ukrainian refugees</a> NPR: More than 150,000 displaced Ukrainians now live in Krakow, increasing the population by 20% in just a few weeks. Now the city is helping them find long-term housing, jobs and spots in schools. 
  <p class="updated_time"> 10:09 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005388?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Putin's daughters targeted by Western sanctions</a> BBC: The US sanctions' list includes Putin's adult daughters and relatives of Foreign Minister Sergei Lavrov. 
  <p class="updated_time"> 09:59 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-kharkiv-death.html">In Ukraine, Traces of Lives Cut Short</a> NYT: The violence of war is often random. Those who suffer most are the civilians caught in the middle. Two recent deaths in Kharkiv, Ukraine, are a testament to that. 
- <p class="updated_time"> 09:33 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 09:49 AM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 09:22 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61008332?at_medium=RSS&at_campaign=KARANGA">Thomas Sankara murder: Ex-Burkina Faso President Blaise Compaoré found guilty</a> BBC: Burkina Faso's former leader Blaise Compaoré is found guilty of complicity in killing his close friend. 
@@ -29,10 +33,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/sports/ping-pong-wally-green.html">‘The Sport of Love’: Ping-Pong, the Great Equalizer</a> NYT: Wally Green has played everywhere from Brooklyn to Pyongyang, becoming a beloved American ambassador for table tennis — and international understanding — in the process. 
  <p class="updated_time"> 08:57 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/americas/machu-picchu-real-name-peru.html">The Site Called ‘Machu Picchu’ Had Another Name First, Researchers Say</a> NYT: For decades, the ancient Incan ruins in Peru have been called Machu Picchu. But the original name was Picchu or Huayna Picchu, according to two researchers. 
+ <p class="updated_time"> 08:49 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 08:34 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005390?at_medium=RSS&at_campaign=KARANGA">Oklahoma lawmakers pass near-total ban on abortion</a> BBC: The new laws could see doctors face fines of up to $100,000 and up to 10 years in prison. 
- <p class="updated_time"> 08:33 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 08:07 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61008292?at_medium=RSS&at_campaign=KARANGA">Putin's ultranationalist ally and clown Zhirinovsky dies at 75</a> BBC: Vladimir Zhirinovsky has died in hospital, after a career built on fiery remarks and absurd antics. 
  <p class="updated_time"> 08:04 AM CT, Apr. 06 </p> 
@@ -43,7 +47,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/europe/greece-fire-covid-ward.html">Fire at Covid Ward in Greece Kills 1 and Injures at Least 2 </a> NYT: The episode is the latest deadly fire at a hospital ward for coronavirus patients since the pandemic began. 
  <p class="updated_time"> 07:52 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/africa/burkina-faso-blaise-compaore-conviction.html">Ex-Leader of Burkina Faso Convicted in Killing of Predecessor </a> NYT: A military tribunal sentenced former President Blaise Compaoré, who is now in exile, to life imprisonment for his role in the 1987 assassination. 
- <p class="updated_time"> 07:33 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 07:49 AM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/ukraines-surprise-strike-on-russian-fleet-hobbles-putins-donbas-strategy-11649250001">Ukraine’s Surprise Strike on Russian Navy Hobbles Putin’s Donbas Strategy</a> WSJ: Ukraine’s Surprise Strike on Russian Navy Hobbles Putin’s Donbas Strategy 
  <p class="updated_time"> 07:32 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/vladimir-zhirinovsky-dead.html">Vladimir V. Zhirinovsky, Ultranationalist Russian Politician, Dies at 75</a> NYT: Mr. Zhirinovsky ran against President Vladimir V. Putin repeatedly in elections, but he was also a crucial player in the Russian leader’s system of “managed democracy.” 
@@ -51,7 +55,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/business/india-spinal-muscular-atrophy.html">In India, Parents of Children with Rare Disease Plea for Help Online</a> NYT: India makes many of the world’s drugs, but treatments for rare diseases like spinal muscular atrophy are imported and prohibitively costly. In desperation, parents are raising funds on social media. 
  <p class="updated_time"> 06:51 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/bucha-shooting-video.html">Video Captures Russian Forces Firing on Ukrainian Cyclist in Bucha</a> NYT: Chilling aerial video from Ukraine adds to the evidence of Russian atrocities against civilians and undercuts their denials of wrongdoing. 
- <p class="updated_time"> 06:33 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 06:49 AM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611">Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine</a> WSJ: Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine 
  <p class="updated_time"> 06:13 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/mykolaiv-ukraine-shelling-civilians.html">In Mykolaiv, Residential Areas Are Increasingly Under Threat</a> NYT: Civilian infrastructure and homes in the Black Sea city have increasingly been targeted after weeks of Russian shelling, local officials and soldiers say. 
@@ -59,7 +63,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/middleeast/idit-silman-israel-coalition.html">Israel’s Government in Crisis After Senior Lawmaker Quits Coalition</a> NYT: Idit Silman, the de facto government whip, left the coalition, depriving the government of a parliamentary majority. But her move does not mean the opposition can win a vote of no confidence, at least for now. 
  <p class="updated_time"> 05:50 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091125305/bucha-ukraine-executions-war-crime-allegations">In Bucha, death, devastation and a graveyard of mines</a> NPR: Images of dead civilians in the streets of Bucha shocked the world and intensified concerns of Russian war crimes in Ukraine. Officials want more military aid, and bigger consequences for Russia. 
- <p class="updated_time"> 05:33 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 05:49 AM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/viral-recordings-tap-into-anger-at-shanghais-covid-response-11649243138">Viral Recordings Tap Into Anger at Shanghai’s Covid Response</a> WSJ: Viral Recordings Tap Into Anger at Shanghai’s Covid Response 
  <p class="updated_time"> 05:19 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61006984?at_medium=RSS&at_campaign=KARANGA">Ed Sheeran wins Shape of You copyright case and hits out at 'baseless' claims</a> BBC: After the High Court judgement, the singer says such "baseless" claims "are way too common now". 
@@ -149,8 +153,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/05/1091109403/young-mungo-tells-the-love-story-of-2-boys-one-protestant-the-other-catholic">'Young Mungo' tells the love story of 2 boys — one Protestant, the other Catholic</a> NPR: NPR's Ari Shapiro talks with author Douglas Stuart about his latest book Young Mungo, centers on a romance between two teenage boys: one Protestant, one Catholic. 
  <p class="updated_time"> 03:21 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091109395/the-challenges-of-divesting-pension-funds-from-russia">The challenges of divesting pension funds from Russia</a> NPR: Officials across the U.S. are pledging to divest public pensions from Russian funds to protest the invasion of Ukraine. But disentangling the money from Russia is easier said than done. 
- <p class="updated_time"> 03:21 PM CT, Apr. 05 </p> 
- <a href="https://www.npr.org/2022/04/05/1091109374/president-zelenskyy-asks-the-un-security-council-to-take-action-to-stop-the-war">President Zelenskyy asks the UN Security Council to take action to stop the war</a> NPR: Ukrainian President Volodymyr Zelenskyy demanded that the UN Security Council hold Russia accountable, and he urged the council to remove Russia as a member. 
  <p class="updated_time"> 03:03 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/us/politics/ukraine-russia-hackers.html">Hackers’ Fake Claims of Ukrainian Surrender Aren’t Fooling Anyone. So What’s Their Goal?</a> NYT: Experts say the hackers’ intentions might not be to actually trick anyone, but to erode confidence in Ukrainian media outlets and institutions. 
  <p class="updated_time"> 03:03 PM CT, Apr. 05 </p> 
@@ -183,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/04/world/south-africa-lifts-its-covid-state-of-disaster-after-two-years.html">South Africa lifts its Covid ‘state of disaster’ after two years.</a> NYT: Public health measures imposed under the declaration have often been strict, including bans on alcohol sales and certain types of clothing. 
  <p class="updated_time"> 03:13 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60993655?at_medium=RSS&at_campaign=KARANGA">Peru inflation: Civilians and police clash in Peru protests</a> BBC: Protests have taken place across Peru, as oil, gas and toll road prices rise. 
- <p class="updated_time"> 11:29 PM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/2022/04/04/climate/climate-change-ipcc-un.html">Stopping Climate Change Is Doable, but Time Is Short, U.N. Panel Warns</a> NYT: A major new scientific report offers a road map for how countries can limit global warming, but warns that the margin for error is vanishingly small. 
  <p class="updated_time"> 11:20 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/world/europe/ukraine-nova-basan-russia.html">‘Sitting at Home and Trembling.’ A Town Emerges After a Russian Retreat.</a> NYT: A local official said he was detained and interrogated by the Russians, and described what he called mock executions. 
  <p class="updated_time"> 09:08 PM CT, Apr. 04 </p> 
@@ -206,8 +206,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:27 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 10:37 AM CT, Apr. 06 </p> 
+ <a href="https://www.npr.org/2022/04/06/1091230358/us-sanctions-russia-putin-banks">New U.S. sanctions target Russia's largest banks and Putin's children</a> NPR: The U.S. joined the European Union and Group of Seven nations in enacting new sanctions on Russia in response to the civilian toll reported in Bucha and elsewhere in Ukraine in recent days. 
+ <p class="updated_time"> 10:36 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/biden-russia-putin-sanctions.html">U.S. Announces Sanctions on Russia’s Largest Banks and Putin’s Adult Children</a> NYT: Sberbank, the largest financial institution in Russia, and Alfa Bank, one of the country’s largest privately owned banks, will face sanctions. 
+ <p class="updated_time"> 10:35 AM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/business/economy/yellen-russia-sanctions.html">Yellen Says Aim Is ‘Maximum Pain’ for Russia Without Hurting US</a> NYT: The Treasury secretary, testifying before a House committee, said the U.S. would continue finding ways to punish Russia for its invasion of Ukraine. 
+ <p class="updated_time"> 10:26 AM CT, Apr. 06 </p> 
+ <a href="https://www.politico.com/news/2022/04/06/treasury-crackdown-russia-sberbank-00023372">Treasury cracks down on Russia's largest bank, moves to end U.S. investment</a> Politico: The move freezes all of Sberbank's assets that touch U.S. banks and will prevent Americans from doing business with the institution. 
+ <p class="updated_time"> 10:16 AM CT, Apr. 06 </p> 
+ <a href="https://www.politico.com/news/2022/04/06/doj-war-crimes-investigations-ukraine-00023393">Garland: DOJ assisting international war crimes investigations in Ukraine</a> Politico: “The world sees what is happening in Ukraine. The Justice Department sees what is happening in Ukraine,” Garland said at a news conference at department headquarters in Washington. 
+ <p class="updated_time"> 10:04 AM CT, Apr. 06 </p> 
+ <a href="https://www.politico.com/news/2022/04/06/gop-early-plans-hunter-biden-probes-00023230">GOP laying early plans for its own Hunter Biden probes</a> Politico: DOJ is already investigating how the president's son handled his overseas business dealings. Republicans — particularly in the House, where they're eyeing a majority — want their own oversight, never mind the Trump parallels. 
  <p class="updated_time"> 09:56 AM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/biden-defaults-federal-student-loan-borrowers-00023355">Biden to erase defaults for millions of federal student loan borrowers</a> Politico: Education Department plans a 'fresh start' for borrowers as White House extends payment pause through August. 
  <p class="updated_time"> 09:36 AM CT, Apr. 06 </p> 
@@ -286,8 +296,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/05/gop-opposition-biden-immigration-policy-covid-deal-00023156">Covid deal hampered by GOP opposition to Biden immigration policy</a> Politico: Republican senators want a vote on a pandemic-era immigration limit before they'll consider moving forward on $10 billion in Covid aid. 
  <p class="updated_time"> 02:35 PM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/obama-returns-white-house-00023148">Obama returns to White House for first time since leaving office</a> Politico: “Feels like the good old days," President Biden said in welcoming the former president at an event to celebrate the Affordable Care Act. 
- <p class="updated_time"> 02:24 PM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/deepening-global-food-crisis-ukraine-russia-00023124">‘We see the storm coming’: U.S. struggles to contain a deepening global food crisis</a> Politico: Biden officials are scrambling to limit the damage from fast-spreading food shortages sparked by Russia’s war in Ukraine, but they face complex political and logistical challenges. 
  <p class="updated_time"> 02:20 PM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/canada-digital-giants-compensate-local-news-00023113">Canada wants digital giants to compensate local news outlets</a> Politico: 'This is an absolutely massive intervention into the news sector,' says Ottawa law professor Michael Geist. 
  <p class="updated_time"> 02:00 PM CT, Apr. 05 </p> 
@@ -306,12 +314,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/05/1091050554/zelenskyy-un-security-council-speech">Zelenskyy urges U.N. Security Council to boot Russia or dissolve for the world's sake</a> NPR: The Ukrainian president described the horrific scenes he saw in Bucha, calling it just one example of the destruction Russia has wrought. He urged the Security Council to hold Russia accountable. 
  <p class="updated_time"> 12:01 PM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/white-house-to-extend-the-student-loan-moratorium-once-again-00023072">White House to extend  student loan moratorium once again</a> Politico: Officials are considering an extension through the end of August. 
- <p class="updated_time"> 11:53 AM CT, Apr. 05 </p> 
- <a href="https://www.npr.org/2022/04/05/1091036830/trump-house-voted-2-states-2016-matt-mowers">Trump aide seeking N.H. House seat voted in 2 states in 2016</a> NPR: Matt Mowers, a leading GOP primary candidate looking to unseat Democratic Rep. Chris Pappas, cast an absentee ballot in New Hampshire's 2016 presidential primary, voting records obtained by AP show. 
  <p class="updated_time"> 11:30 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/zelenskyy-united-nations-russia-00023045">‘You need to act immediately’: Zelenskyy demands U.N. get tough on Russia</a> Politico: “Where is the security that the Security Council needs to guarantee? It’s not there,” the Ukrainian president said. 
- <p class="updated_time"> 11:00 AM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/congress-covid-bill-global-again-00023033">Congress could finally pass a Covid bill. They’ll soon have to do it all again.</a> Politico: Public health leaders warn that short-term bursts of cash are creating gaps in preparedness, leaving millions vulnerable to a new Covid surge. 
  <p class="updated_time"> 10:00 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/04/cdc-mask-guidance-hospitals-00022834">NIH required immunocompromised woman to remove her N95, highlighting CDC's conflicting mask guidance</a> Politico: Health facilities aren't recommending highly protective masks for all in year three of the pandemic. That includes the NIH, which recently required an immunocompromised woman to swap her N95 for a surgical mask. 
  <p class="updated_time"> 09:09 AM CT, Apr. 05 </p> 
@@ -328,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/05/election-conspiracy-theories-green-bay-trump-00022946">How election conspiracy theories turned local politics ‘toxic’ in one Wisconsin city</a> Politico: Green Bay has turned into an example of how Donald Trump's unfounded conspiracy theories about the 2020 election have eroded faith in local government. 
  <p class="updated_time"> 10:45 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/us/politics/sarah-palin-trump-endorsement.html">Sarah Palin Knows How to Get Attention. Can She Actually Win?</a> NYT: Endorsed by Donald Trump for Alaska’s lone House seat, the former vice-presidential candidate hopes she can mount a political comeback. But she’s not the phenomenon she once was. 
- <p class="updated_time"> 07:18 PM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/2022/04/04/us/politics/ketanji-brown-jackson-judiciary-committee.html">Two More Republicans Back Jackson as Senate Moves Toward Confirmation</a> NYT: The support of Senators Mitt Romney and Lisa Murkowski for Judge Ketanji Brown Jackson’s nomination was a counterpoint to the bitterly partisan confirmation process so far. 
  <p class="updated_time"> 06:34 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/us/politics/naomi-biden-white-house-wedding-reception.html">Bidens Will Host a White House Wedding Reception for Their Granddaughter</a> NYT: Naomi Biden, 28, the daughter of Hunter Biden and Kathleen Buhle, will marry Peter Neal, 24, this fall. 
  <p class="updated_time"> 04:20 PM CT, Apr. 04 </p> 
