@@ -9,12 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:45 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 09:02 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/04/06/world/ukraine-russia-war-news">Ukraine Live Updates: Europe and NATO Weigh Tougher Steps to Punish Russia</a> NYT: The European Union was discussing a ban on imports of Russian coal, and NATO leaders were considering more military aid to Ukraine. The escalation in pressure came after President Volodymyr Zelensky delivered a fiery speech to the U.N. Security Council. 
+ <p class="updated_time"> 09:00 AM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/sports/ping-pong-wally-green.html">‘The Sport of Love’: Ping-Pong, the Great Equalizer</a> NYT: Wally Green has played everywhere from Brooklyn to Pyongyang, becoming a beloved American ambassador for table tennis — and international understanding — in the process. 
+ <p class="updated_time"> 08:57 AM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/world/americas/machu-picchu-real-name-peru.html">The Site Called ‘Machu Picchu’ Had Another Name First, Researchers Say</a> NYT: For decades, the ancient Incan ruins in Peru have been called Machu Picchu. But the original name was Picchu or Huayna Picchu, according to two researchers. 
+ <p class="updated_time"> 08:43 AM CT, Apr. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61008332?at_medium=RSS&at_campaign=KARANGA">Thomas Sankara murder: Ex-Burkina Faso President Blaise Compaoré found guilty</a> BBC: Burkina Faso's former leader Blaise Compaoré is found guilty of complicity in killing his close friend. 
  <p class="updated_time"> 08:34 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005390?at_medium=RSS&at_campaign=KARANGA">Oklahoma lawmakers pass near-total ban on abortion</a> BBC: The new laws could see doctors face fines of up to $100,000 and up to 10 years in prison. 
- <p class="updated_time"> 08:27 AM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/world/americas/machu-picchu-real-name-peru.html">The Site Called ‘Machu Picchu’ Had Another Name First, Researchers Say</a> NYT: For decades, the ancient Incan ruins in Peru have been called Machu Picchu. But the original name was Picchu or Huayna Picchu, according to two researchers. 
+ <p class="updated_time"> 08:25 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</a> WSJ: Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes 
  <p class="updated_time"> 08:07 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61008292?at_medium=RSS&at_campaign=KARANGA">Putin's ultranationalist ally and clown Zhirinovsky dies at 75</a> BBC: Vladimir Zhirinovsky has died in hospital, after a career built on fiery remarks and absurd antics. 
  <p class="updated_time"> 08:04 AM CT, Apr. 06 </p> 
@@ -25,38 +31,38 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/europe/greece-fire-covid-ward.html">Fire at Covid Ward in Greece Kills 1 and Injures at Least 2 </a> NYT: The episode is the latest deadly fire at a hospital ward for coronavirus patients since the pandemic began. 
  <p class="updated_time"> 07:52 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/africa/burkina-faso-blaise-compaore-conviction.html">Ex-Leader of Burkina Faso Convicted in Killing of Predecessor </a> NYT: A military tribunal sentenced former President Blaise Compaoré, who is now in exile, to life imprisonment for his role in the 1987 assassination. 
- <p class="updated_time"> 07:49 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-to-address-u-n-with-claims-of-alleged-russian-war-crimes-11649155565">Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes</a> WSJ: Ukraine’s Zelensky Calls for Removing Russia From U.N. Security Council After Alleged War Crimes 
  <p class="updated_time"> 07:32 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/vladimir-zhirinovsky-dead.html">Vladimir V. Zhirinovsky, Ultranationalist Russian Politician, Dies at 75</a> NYT: Mr. Zhirinovsky ran against President Vladimir V. Putin repeatedly in elections, but he was also a crucial player in the Russian leader’s system of “managed democracy.” 
  <p class="updated_time"> 07:29 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/business/india-spinal-muscular-atrophy.html">In India, Parents of Children with Rare Disease Plea for Help Online</a> NYT: India makes many of the world’s drugs, but treatments for rare diseases like spinal muscular atrophy are imported and prohibitively costly. In desperation, parents are raising funds on social media. 
+ <p class="updated_time"> 07:25 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611">Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine</a> WSJ: Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine 
  <p class="updated_time"> 06:51 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/bucha-shooting-video.html">Video Captures Russian Forces Firing on Ukrainian Cyclist in Bucha</a> NYT: Chilling aerial video from Ukraine adds to the evidence of Russian atrocities against civilians and undercuts their denials of wrongdoing. 
- <p class="updated_time"> 06:49 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611">Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine</a> WSJ: Execution of Village Mayor Becomes Symbol of Russian Brutality in Ukraine 
  <p class="updated_time"> 06:46 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61005388?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Western leaders to impose further sanctions on Russia</a> BBC: The Ukrainian president expressed frustration ahead of new EU and US sanctions being announced. 
+ <p class="updated_time"> 06:25 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports</a> WSJ: U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports 
  <p class="updated_time"> 06:13 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/mykolaiv-ukraine-shelling-civilians.html">In Mykolaiv, Residential Areas Are Increasingly Under Threat</a> NYT: Civilian infrastructure and homes in the Black Sea city have increasingly been targeted after weeks of Russian shelling, local officials and soldiers say. 
  <p class="updated_time"> 06:12 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/middleeast/idit-silman-israel-coalition.html">Israel’s Government in Crisis After Senior Lawmaker Quits Coalition</a> NYT: Idit Silman, the de facto government whip, left the coalition, depriving the government of a parliamentary majority. But her move does not mean the opposition can win a vote of no confidence, at least for now. 
  <p class="updated_time"> 05:50 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091125305/bucha-ukraine-executions-war-crime-allegations">In Bucha, death, devastation and a graveyard of mines</a> NPR: Images of dead civilians in the streets of Bucha shocked the world and intensified concerns of Russian war crimes in Ukraine. Officials want more military aid, and bigger consequences for Russia. 
- <p class="updated_time"> 05:49 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/europe-to-propose-fresh-sanctions-on-russia-11649152947">U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports</a> WSJ: U.S., EU to Impose More Sanctions on Russia After War-Crimes Reports 
+ <p class="updated_time"> 05:25 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/a-quarter-of-africans-face-food-security-crisis-partly-due-to-ukraine-war-red-cross-says-11649176087">A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says</a> WSJ: A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says 
+ <p class="updated_time"> 05:19 AM CT, Apr. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61006984?at_medium=RSS&at_campaign=KARANGA">Ed Sheeran wins Shape of You copyright case and hits out at 'baseless' claims</a> BBC: After the High Court judgement, the singer says such "baseless" claims "are way too common now". 
  <p class="updated_time"> 05:00 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091141947/forbes-billionaires-wealth-shrunk-russia">The number of billionaires has fallen (but they're worth a collective $12.7 trillion) </a> NPR: There are 87 fewer billionaires on this year's list than in 2021, and their total wealth dipped by $400 billion, the outlet reported. 
- <p class="updated_time"> 04:49 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/a-quarter-of-africans-face-food-security-crisis-partly-due-to-ukraine-war-red-cross-says-11649176087">A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says</a> WSJ: A Quarter of Africans Face Food-Security Crisis Partly Due to Ukraine War, Red Cross Says 
  <p class="updated_time"> 04:41 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091203259/blinken-brussels-nato-russia-warcrimes-">Antony Blinken will meet with allies in Brussels to discuss actions against Russia</a> NPR: The U.S. secretary of state will meet with NATO and G-7 members to talk punitive measures following reports of Russian war crimes against Ukraine. 
  <p class="updated_time"> 04:32 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/germany-gas-russia-ukraine.html">Germany’s Dependence on Russian Gas Is Difficult to Break</a> NYT: Dangerously dependent on Russian gas, Germany is still refusing to cut off President Putin, whose war it is effectively subsidizing to the tune of some $220 million a day. 
+ <p class="updated_time"> 04:25 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/covid-cases-in-china-hit-record-as-shanghai-extends-lockdown-11649154418">Covid Cases in China Hit Record, as Shanghai Extends Lockdown</a> WSJ: Covid Cases in China Hit Record, as Shanghai Extends Lockdown 
  <p class="updated_time"> 04:00 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/asia/ukraine-south-korea-nuclear-weapons.html">Ukraine War Revives Nuclear Question in South Korea</a> NYT: Seoul abandoned a covert program in the 1970s, but some argue it is time for the country to embrace its nuclear ambitions and safeguard against a Russia-style invasion. 
- <p class="updated_time"> 03:49 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/covid-cases-in-china-hit-record-as-shanghai-extends-lockdown-11649154418">Covid Cases in China Hit Record, as Shanghai Extends Lockdown</a> WSJ: Covid Cases in China Hit Record, as Shanghai Extends Lockdown 
  <p class="updated_time"> 03:33 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091199080/metoo-moment-hits-japan-film-industry">A #MeToo crisis is raging in the Japanese film industry</a> NPR: A #MeToo moment may be growing in a country where top movie directors have signed a petition expressing outrage over allegations of sexual violence in the film industry. 
  <p class="updated_time"> 02:00 AM CT, Apr. 06 </p> 
@@ -87,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/05/world/americas/peru-protests-emergency-curfew.html">Peru’s President Lifts Curfew That Shut Down Capital to Curb Protests</a> NYT: President Pedro Castillo had banned Lima residents from leaving their homes for nearly 24 hours, raising concerns among human rights groups and critics, but demonstrations continued after he backtracked. 
  <p class="updated_time"> 09:07 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/zelensky-un-security-council.html">Zelensky Accuses Russia of War Crimes, Criticizes U.N.’s Inaction</a> NYT: In a blistering address to the United Nations Security Council, Ukraine’s president asked what use the body was if it would not intervene to stop a war of aggression. 
- <p class="updated_time"> 08:55 PM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61004345?at_medium=RSS&at_campaign=KARANGA">Ivanka Trump testifies to Capitol riot committee</a> BBC: The ex-president's daughter gives evidence days after her husband and fellow aide also spoke to Congress. 
  <p class="updated_time"> 08:43 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/war-crimes-russia-ukraine.html">What Are War Crimes, and How Are They Prosecuted?</a> NYT: World leaders have vowed to hold President Vladimir V. Putin responsible for any atrocities by Russian forces. Past experience shows such cases take years to build and prosecute. 
  <p class="updated_time"> 07:04 PM CT, Apr. 05 </p> 
@@ -155,8 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/05/world/europe/charles-darwin-notebooks-cambridge-library.html">Stolen Darwin Notebooks, Missing for Decades, Are Returned</a> NYT: The two notebooks were anonymously returned to the Cambridge University Library 22 years after they went missing. A note addressed to the librarian read: “Happy Easter.” 
  <p class="updated_time"> 11:10 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/technology-60992373?at_medium=RSS&at_campaign=KARANGA">Twitter moves to limit Russian government accounts</a> BBC: The platform has taken action to limit more than 300 Kremlin accounts, including President Putin's. 
- <p class="updated_time"> 11:09 AM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/sport/football/61001565?at_medium=RSS&at_campaign=KARANGA">World Cup 2022: Russian football federation drops appeal against Fifa ban</a> BBC: Russia's football federation drops an appeal against Fifa's World Cup ban that was imposed after the country's invasion of Ukraine. 
  <p class="updated_time"> 10:53 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/russia-ukraine-war-atrocities.html">Up-Close Ukraine Atrocity Photographs Touch a Global Nerve</a> NYT: The apparent execution of Ukrainian civilians by retreating Russian forces, their bodies strewn in streets and yards, has focused attention on what constitutes crimes in war. 
  <p class="updated_time"> 10:49 AM CT, Apr. 05 </p> 
@@ -200,8 +202,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:40 AM CT, Apr. 06 </p> 
+ <p class="updated_time"> 09:11 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/fda-covid-boosters.html">F.D.A. Advisory Panel Discussing U.S. Vaccine Strategy</a> NYT: Outside experts are exploring the need to reconfigure vaccines in order to better protect the nation against new variants. 
+ <p class="updated_time"> 08:59 AM CT, Apr. 06 </p> 
+ <a href="https://www.npr.org/2022/04/06/1091018301/student-loan-pause-extended">The student loan pause has been extended until the end of the summer</a> NPR: The Biden administration extended the freeze on student loan payments yet again, this time until September, and announced a reset for borrowers in default. 
+ <p class="updated_time"> 08:55 AM CT, Apr. 06 </p> 
+ <a href="https://www.politico.com/news/2022/04/06/commerce-secretary-positive-covid-19-00023348">Commerce secretary tests positive for Covid-19</a> Politico: The announcement comes days after Gina Raimondo was a featured speaker at the annual Gridiron Club dinner in Washington, D.C., adding to the list of officials in attendance who have now contracted the virus. 
+ <p class="updated_time"> 08:52 AM CT, Apr. 06 </p> 
+ <a href="https://www.politico.com/news/2022/04/06/bob-gibbs-to-retire-00023352">Ohio Republican Bob Gibbs to retire amid redistricting chaos</a> Politico: He faced a primary challenge from Max Miller, a Trump-endorsed candidate. 
+ <p class="updated_time"> 08:45 AM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/us/politics/supreme-court-clean-water-act.html">Supreme Court Revives Trump-Era Environmental Regulation</a> NYT: The regulation, which was welcomed by industry groups, limited the role of states in enforcing the Clean Water Act. 
  <p class="updated_time"> 08:05 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/05/us/politics/cdc-second-boosters.html">C.D.C. Director Encourages Second Booster for Elderly and Many With Chronic Conditions</a> NYT: The remarks by the director, Dr. Rochelle P. Walensky — on shots to Americans 50 to 64 with underlying medical conditions and all those 65 and older — were her clearest statement to date. 
  <p class="updated_time"> 07:08 AM CT, Apr. 06 </p> 
@@ -284,20 +294,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/05/1091043231/obama-biden-white-house-aca">Former President Obama visits the White House for the first time in 5 years </a> NPR: Former President Barack Obama joined President Biden at the White House Tuesday as Biden unveiled new actions meant to expand the Affordable Care Act. 
  <p class="updated_time"> 12:18 PM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091050554/zelenskyy-un-security-council-speech">Zelenskyy urges U.N. Security Council to boot Russia or dissolve for the world's sake</a> NPR: The Ukrainian president described the horrific scenes he saw in Bucha, calling it just one example of the destruction Russia has wrought. He urged the Security Council to hold Russia accountable. 
- <p class="updated_time"> 12:04 PM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/epa-moves-ban-asbestos-00022900">EPA moves to ban asbestos after decades of failures</a> Politico: It is the first time EPA has flexed its regulatory muscles under the revamped Toxic Substances Control Act. 
  <p class="updated_time"> 12:01 PM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/white-house-to-extend-the-student-loan-moratorium-once-again-00023072">White House to extend  student loan moratorium once again</a> Politico: Officials are considering an extension through the end of August. 
  <p class="updated_time"> 11:53 AM CT, Apr. 05 </p> 
  <a href="https://www.npr.org/2022/04/05/1091036830/trump-house-voted-2-states-2016-matt-mowers">Trump aide seeking N.H. House seat voted in 2 states in 2016</a> NPR: Matt Mowers, a leading GOP primary candidate looking to unseat Democratic Rep. Chris Pappas, cast an absentee ballot in New Hampshire's 2016 presidential primary, voting records obtained by AP show. 
  <p class="updated_time"> 11:30 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/zelenskyy-united-nations-russia-00023045">‘You need to act immediately’: Zelenskyy demands U.N. get tough on Russia</a> Politico: “Where is the security that the Security Council needs to guarantee? It’s not there,” the Ukrainian president said. 
- <p class="updated_time"> 11:18 AM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/biden-nominate-first-woman-lead-military-service-00023037">Biden to nominate first woman to lead a military service</a> Politico: Adm. Linda Fagan is also the first woman promoted to four-star rank in the Coast Guard. 
  <p class="updated_time"> 11:00 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/congress-covid-bill-global-again-00023033">Congress could finally pass a Covid bill. They’ll soon have to do it all again.</a> Politico: Public health leaders warn that short-term bursts of cash are creating gaps in preparedness, leaving millions vulnerable to a new Covid surge. 
- <p class="updated_time"> 10:13 AM CT, Apr. 05 </p> 
- <a href="https://www.npr.org/2022/04/05/1091022181/longtime-michigan-gop-rep-fred-upton-announces-his-retirement">Longtime Michigan GOP Rep. Fred Upton announces his retirement</a> NPR: Upton is the fourth House Republican who voted to impeach former President Donald Trump to announce his retirement. 
  <p class="updated_time"> 10:00 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/04/cdc-mask-guidance-hospitals-00022834">NIH required immunocompromised woman to remove her N95, highlighting CDC's conflicting mask guidance</a> Politico: Health facilities aren't recommending highly protective masks for all in year three of the pandemic. That includes the NIH, which recently required an immunocompromised woman to swap her N95 for a surgical mask. 
  <p class="updated_time"> 09:09 AM CT, Apr. 05 </p> 
@@ -328,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/04/florida-democrats-latino-voters-00022601">Florida Democrats want to win back Latino voters. It could be too late.</a> Politico: One professor called Democrats’ approach to Hispanic voters “wrought with entitlement.” 
  <p class="updated_time"> 02:10 PM CT, Apr. 04 </p> 
  <a href="https://www.nytimes.com/2022/04/04/us/politics/supreme-court-police-malicious-prosecution.html">Supreme Court Rules Against Police in Malicious Prosecution Case</a> NYT: Plaintiffs need show only that the charges against them were dropped, the majority said, to satisfy a requirement that they had obtained a “favorable termination” of the prosecution. 
- <p class="updated_time"> 12:46 PM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/2022/04/04/us/politics/ice-immigration-cases.html">ICE Lawyers Directed to Clear Low-Priority Immigration Cases</a> NYT: The effort could significantly reduce a backlog of asylum and deportation cases as the Biden administration anticipates a huge surge of migrants crossing the border. 
  <p class="updated_time"> 12:13 PM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/senate-strikes-10b-covid-deal-00022729">Senate strikes $10B Covid deal</a> Politico: The agreement leaves out global pandemic aid, a possible hurdle for Democratic support in the House. 
  <p class="updated_time"> 09:35 AM CT, Apr. 04 </p> 
