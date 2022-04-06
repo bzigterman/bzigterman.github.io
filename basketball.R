@@ -438,7 +438,7 @@ conference_standings_plot <- function(conference) {
                color = "grey50",
                size = .2) +
     geom_line() +
-    geom_text(aes(x = game_n + 10),
+    geom_text(aes(x = game_n + 5),
               family = "mono",
               size = 4) +
     scale_x_continuous(breaks = c(0,41, 82)) +
