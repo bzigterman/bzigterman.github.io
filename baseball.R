@@ -493,27 +493,51 @@ standings_plot <- function(division) {
       plot.caption = element_text(color = "grey40")
     )
 }
+standings_plot_mobile <- function(division) {
+  ggplot(division, aes(x = game_n,
+                       y = net_wins,
+                       color= team,
+                       label = team_label)) +
+    #coord_fixed(xlim = c(0,162)) +
+    geom_hline(yintercept = 0,
+               color = "grey10",
+               size = .2) +
+    geom_vline(xintercept = 162,
+               color = "grey50",
+               size = .2) +
+    geom_line() +
+    geom_text(aes(x = game_n + 10),
+              family = "mono",
+              size = 2) +
+    scale_x_continuous(breaks = c(0,40, 81,121, 162)) +
+    scale_y_continuous(position = "right") +
+    scale_color_brewer(palette = "Set1",
+                       guide = NULL) +
+    # scale_color_manual(values = c("#27251F","#E31937","#0C2340","#BD9B60","#002B5C"),
+    #                  guide = NULL) +
+    coord_cartesian(xlim = c(0,172)) +
+    theme_minimal() +
+    labs(title = division$division,
+         #caption = "Source: FiveThirtyEight",
+         x = NULL,
+         y = NULL) +
+    theme(
+      plot.background = element_rect(fill = "white", color = "white"),
+      panel.grid = element_blank(),
+      legend.title = element_blank(),
+      axis.ticks.x = element_line(color = "grey60", size = 0.25),
+      panel.grid.major.y = element_line(colour = "grey93"),
+      axis.ticks.y = element_line(color = "grey60"),
+      plot.caption = element_text(color = "grey40")
+    )
+}
 al_central_plot <- standings_plot(al_central)  
-# ggsave("plots/al_central_wins_losses.png", plot = al_central_plot,
-#        width = 8, height = 8*(628/1200), 
-#        dpi = 320)
 al_east_plot <- standings_plot(al_east)  
-# ggsave("plots/al_east_wins_losses.png", plot = al_east_plot,
-#        width = 8, height = 8*(628/1200), dpi = 320)
 al_west_plot <- standings_plot(al_west)  
-# ggsave("plots/al_west_wins_losses.png", plot = al_west_plot,
-#        width = 8, height = 8*(628/1200), dpi = 320)
-
 
 nl_central_plot <- standings_plot(nl_central)  
-# ggsave("plots/nl_central_wins_losses.png", plot = nl_central_plot,
-#        width = 8, height = 8*(628/1200), dpi = 320)
 nl_east_plot <- standings_plot(nl_east)  
-# ggsave("plots/nl_east_wins_losses.png", plot = nl_east_plot,
-#        width = 8, height = 8*(628/1200), dpi = 320)
 nl_west_plot <- standings_plot(nl_west)  
-# ggsave("plots/nl_west_wins_losses.png", plot = nl_west_plot,
-#        width = 8, height = 8*(628/1200), dpi = 320)
 
 plot_grid(al_central_plot,nl_central_plot,
           al_east_plot,nl_east_plot,
@@ -524,13 +548,22 @@ plot_grid(al_central_plot,nl_central_plot,
 ggsave("plots/divisions_net_wins.png", 
        width = 8, height = 7, dpi = 320)
 
+al_central_plot <- standings_plot_mobile(al_central)  
+al_east_plot <- standings_plot_mobile(al_east)  
+al_west_plot <- standings_plot_mobile(al_west)  
+
+nl_central_plot <- standings_plot_mobile(nl_central)  
+nl_east_plot <- standings_plot_mobile(nl_east)  
+nl_west_plot <- standings_plot_mobile(nl_west)  
+
+
 plot_grid(al_central_plot,al_east_plot,al_west_plot,
           nl_central_plot,nl_east_plot,nl_west_plot,
           align = "v",
           ncol = 1)
 
 ggsave("plots/divisions_net_wins_mobile.png", 
-       width = 4, height = 7, dpi = 320)
+       width = 2, height = 7, dpi = 320)
 
 # wild card standings ----
 
