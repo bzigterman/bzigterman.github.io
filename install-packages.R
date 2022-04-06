@@ -18,6 +18,7 @@ install.packages("fredr")
 install.packages("tidyRSS")
 
 install.packages("remotes")
+remotes::install_github("rstudio/webshot2")
 remotes::install_github("jthomasmock/gtExtras")
 
 update.packages(ask = FALSE,
