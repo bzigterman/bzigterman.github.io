@@ -9,11 +9,13 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:43 AM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/article/france-presidential-election-2022.html">France’s Presidential Election 2022: Your Questions, Answered</a> NYT: The French are choosing their president in April, an election that is crucial for France and key for Europe. President Emmanuel Macron is favored to win, but the race has gotten closer. 
  <p class="updated_time"> 05:27 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/books/international-booker-prize-shortlist-tokarczuk.html">Women Dominate Shortlist for International Booker Prize</a> NYT: Novels by Olga Tokarczuk, Mieko Kawakami and Claudia Piñeiro are in the running for the prestigious award for translated fiction. 
  <p class="updated_time"> 05:25 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/yemen-presidential-council.html">Yemen’s President Hands Power to New Body as His Saudi Backers Seek to End War</a> NYT: Abdu Rabbu Mansour Hadi announced his abdication only days after a two-month cease-fire took effect, a sign that Saudi Arabia and its allies may be looking for a pathway out of the bloodshed. 
- <p class="updated_time"> 04:36 AM CT, Apr. 07 </p> 
+ <p class="updated_time"> 04:49 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 04:35 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/finland-russia-art-sanctions.html">Finland Seizes Artwork Suspected of Violating E.U. Sanctions on Russia</a> NYT: The art was being transported back to Russia after being featured in exhibitions in Italy and Japan, the Finnish customs service said. 
@@ -30,33 +32,33 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/covid-second-booster-europe.html">European Health Agencies Say it Is ‘Too Early’ for Second Boosters for Most People</a> NYT: Additional boosters can be given to people 80 and older, who are at higher risk of severe illness if infected with the coronavirus, the agencies said. 
  <p class="updated_time"> 03:57 AM CT, Apr. 07 </p> 
- <a href="https://www.npr.org/2022/04/07/1091383280/ukraine-seeks-arms-from-nato-as-u-s-and-allies-seek-new-penalties-for-russia">Ukraine seeks more arms as U.S. and allies consider new penalties for Russia</a> NPR: The diplomatic moves comes as Russia is reportedly moving its troops away from the Ukrainian capital of Kyiv to resupply. 
+ <a href="https://www.npr.org/2022/04/07/1091383280/ukraine-seeks-arms-from-nato-as-u-s-and-allies-seek-new-penalties-for-russia">Ukraine seeks more arms as U.S. and allies consider new penalties for Russia</a> NPR: NATO foreign ministers meet Thursday as part of a larger effort by the U.S., its allies and Ukraine to bolster Ukrainian defenses, and impose new penalties on Russia for invading its neighbor. 
  <p class="updated_time"> 03:56 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/04/07/world/ukraine-russia-war-news">Live Updates: E.U. Weighs New Penalties, Including a Ban on Russian Coal</a> NYT: The latest sanctions, to be discussed Thursday, would be part of the response to atrocities uncovered outside Kyiv. “Responsibility cannot be avoided,” Ukraine’s president said in his overnight speech. 
+ <p class="updated_time"> 03:49 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 03:44 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091383475/turkey-khashoggi-trial-saudi-arabia">Turkish court rules that Khashoggi trial should be transferred to Saudi Arabia</a> NPR: The ruling comes as human rights groups warn that turning the case of the killing of Washington Post columnist Jamal Khashoggi over to the Kingdom would lead to a cover up. 
- <p class="updated_time"> 03:36 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 03:34 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/us-ukraine-switchblade-drones.html">Pentagon Trains Ukrainian Soldiers to Use Armed Drones</a> NYT: The United States is sending Switchblade drones to Ukraine, and has been teaching a group of Ukrainian soldiers who are in America on an educational assignment how to use them. 
  <p class="updated_time"> 03:29 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/ukraine-eurovision.html">Ukraine’s Eurovision Team Set to Tour to Help War Effort</a> NYT: Kalush Orchestra, a group that mixes rap and traditional Ukrainian music, was given special permission to leave the country and play internationally. 
  <p class="updated_time"> 03:00 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/khashoggi-murder-trial-turkey-saudi-arabia.html">Turkey Transfers Khashoggi Murder Trial to Saudi Arabia</a> NYT: The move will almost certainly end the last trial aimed at serving justice for a heinous crime that caused global outrage. 
+ <p class="updated_time"> 02:49 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/we-will-kill-you-how-russia-silenced-its-antiwar-movement-11649237478">‘We Will Kill You’: How Russia Silenced Its Antiwar Movement</a> WSJ: ‘We Will Kill You’: How Russia Silenced Its Antiwar Movement 
  <p class="updated_time"> 02:43 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/americas/venezuela-art-museum.html">A Decaying Art Gem Signifying Venezuela’s Divisions Could Now Help It Heal</a> NYT: Caracas’s Museum of Modern Art, a symbol of a westernized Venezuela, was dismantled by the Socialist governments. Its modest recovery offers hope to the troubled nation. 
- <p class="updated_time"> 02:36 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/we-will-kill-you-how-russia-silenced-its-antiwar-movement-11649237478">‘We Will Kill You’: How Russia Silenced Its Antiwar Movement</a> WSJ: ‘We Will Kill You’: How Russia Silenced Its Antiwar Movement 
  <p class="updated_time"> 02:33 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61019975?at_medium=RSS&at_campaign=KARANGA">Shanghai: Residents 'running out of food' in Covid lockdown</a> BBC: Some living in China's biggest city say they're struggling to get supplies weeks into lockdown. 
- <p class="updated_time"> 01:36 AM CT, Apr. 07 </p> 
+ <p class="updated_time"> 01:49 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/viral-recordings-tap-into-anger-at-shanghais-covid-response-11649243138">Shanghai Doctor Speaks Out Against China’s Covid Policy, Strikes a Nerve With Weary Public</a> WSJ: Shanghai Doctor Speaks Out Against China’s Covid Policy, Strikes a Nerve With Weary Public 
  <p class="updated_time"> 01:16 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for Tougher Sanctions, More Arms to Fend Off Russia in Donbas</a> WSJ: President Volodymyr Zelensky said a new package of Western sanctions against Russia was too lenient, as he accused Russian forces of seeking to destroy evidence of war crimes he said occurred in areas under their control. 
+ <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for Tougher Sanctions, More Arms to Fend Off Russia in Donbas</a> WSJ: President Volodymyr Zelensky said a new package of Western sanctions against Russia was too lenient, as he accused Russian forces of seeking to destroy evidence of killings he said occurred in areas under their control. 
  <p class="updated_time"> 12:54 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/belarusians-russians-join-ukraines-military-hoping-for-freedom-at-home-11649325276">Belarusians, Russians Join Ukraine's Military, Hoping for Freedom at Home</a> WSJ: Hundreds of volunteers from Belarus have joined a dedicated Belarusian battalion since the invasion of Ukraine, while a separate unit staffed by Russian citizens is also preparing to deploy to the front lines. 
- <p class="updated_time"> 12:46 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/jamal-khashoggi-murder-trial-is-halted-in-turkey-11649321377">Jamal Khashoggi Murder Trial Is Halted in Turkey</a> WSJ: An Istanbul court halted the Turkish murder trial of Saudi security officials charged with killing journalist Jamal Khashoggi, amid efforts by Ankara to improve relations with the kingdom. 
+ <p class="updated_time"> 12:49 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/jamal-khashoggi-murder-trial-is-halted-in-turkey-11649321377">Jamal Khashoggi Murder Trial Is Halted in Turkey</a> WSJ: Jamal Khashoggi Murder Trial Is Halted in Turkey 
  <p class="updated_time"> 12:30 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/superyachts-seaside-apartments-and-suitcases-full-of-cash-russians-pour-money-into-turkey-11649323803">Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey</a> WSJ: Western sanctions and capital controls imposed by Moscow have sent Russians looking for havens for their cash and assets, and Turkey is fast becoming a haven for them. 
  <p class="updated_time"> 12:21 AM CT, Apr. 07 </p> 
@@ -181,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-russia-war-crimes.html">Why War Crimes Charges Over Ukraine Face High Hurdles</a> NYT: The indictment of Slobodan Milosevic, the president of Yugoslavia, was a seminal moment in legal history. But prosecuting war crimes remains a steep climb. 
  <p class="updated_time"> 12:23 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61002623?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Destruction in the Ukrainian town of Borodyanka</a> BBC: Police say there could be hundreds of people buried under rubble of blocks destroyed by Russian attacks. 
- <p class="updated_time"> 11:01 PM CT, Apr. 05 </p> 
- <a href="https://www.nytimes.com/2022/04/05/climate/epa-asbestos-ban.html">E.P.A. to Propose Restrictions on Asbestos</a> NYT: The agency aims to ban the manufacturing and import of a type of asbestos that is used in brake pads, gaskets and other automotive products and is linked to cancer. 
  <p class="updated_time"> 10:24 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/canada/revenue-sharing-facebook-google.html">Canada to Require Tech Giants to Compensate News Publishers</a> NYT: The bill aims to compensate struggling news organizations, and follows similar moves by Europe and Australia. 
  <p class="updated_time"> 09:26 PM CT, Apr. 05 </p> 
