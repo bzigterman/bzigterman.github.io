@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:00 AM CT, Apr. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61019241?at_medium=RSS&at_campaign=KARANGA">China lockdowns: Tourism spending plunges over key holiday</a> BBC: Tourism spending over the Qingming festival was more than 30% lower than the same time last year. 
+ <p class="updated_time"> 11:56 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/06/world/ukraine-russia-war-news">Live Updates: Civilians Flee as Battered Russian Forces Bear Down on Eastern Ukraine</a> NYT: Civilians are leaving eastern Ukraine amid warnings of escalating fighting there. The Justice Department charges a Russian oligarch with violating U.S. sanctions, and the Pentagon trains Ukrainian soldiers to use armed drones against Russian forces. 
  <p class="updated_time"> 11:43 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/07/1091379677/crackdown-supporter-hong-kong-leadership">Staunch crackdown supporter says he will run for Hong Kong's top job</a> NPR: John Lee, who has spent most of his civil service career in the police and overseeing security matters, has much less policy-making experience than previous chief executives. 
  <p class="updated_time"> 11:22 PM CT, Apr. 06 </p> 
@@ -17,40 +21,38 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61018959?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Veterans prepare for battle in occupied Luhansk</a> BBC: As Russia redirects its attack towards Luhansk, Ukraine's most experienced troops face encirclement. 
  <p class="updated_time"> 11:15 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61019127?at_medium=RSS&at_campaign=KARANGA">Two men arrested after targeting Secret Service agents in influence operation</a> BBC: The men allegedly spent thousands of dollars impersonating federal officers to get near the agents. 
- <p class="updated_time"> 11:04 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/04/06/world/ukraine-russia-war-news">Live Updates: Civilians Flee as Battered Russian Forces Bear Down on Eastern Ukraine</a> NYT: Civilians are leaving eastern Ukraine amid warnings of escalating fighting there. The Justice Department charges a Russian oligarch with violating U.S. sanctions, and the Pentagon trains Ukrainian soldiers to use armed drones against Russian forces. 
+ <p class="updated_time"> 11:13 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 11:03 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/russia-military-ukraine-war.html">Russia Is Recruiting Mercenaries and Syrians to Ukraine, Western Officials Say</a> NYT: The Kremlin is trying to find enough reinforcements to conduct the next phase of the war, according to military and intelligence officials. 
  <p class="updated_time"> 11:00 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-bucha-makeup-artist.html">A Makeup Artist Recognized This Bucha Victim’s Picture by Her Manicure</a> NYT: The woman, Iryna Filkina, had worked at a heating plant. She had contacted the makeup artist for help being more beautiful and fashionable. 
- <p class="updated_time"> 10:53 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 10:50 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60993769?at_medium=RSS&at_campaign=KARANGA">Colombia ex-fighters brew up new lives after giving up guns</a> BBC: More than five years after Colombia's peace deal was signed, efforts to reincorporate ex-rebels continue. 
  <p class="updated_time"> 10:38 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/japan-border-restriction-covid.html">Japan to Ease Border Restrictions for Some Foreigners, Including Americans</a> NYT: The government issued a notice on Wednesday that would “lift” an entry ban on citizens of 106 nations. But consulates are still rarely issuing visas. 
  <p class="updated_time"> 10:16 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/business/economy/yellen-russia-sanctions.html">Yellen Says Aim Is ‘Maximum Pain’ for Russia Without Hurting U.S.</a> NYT: The Treasury secretary told a House committee that the U.S. would continue finding ways to punish Russia for its invasion of Ukraine. 
- <p class="updated_time"> 09:53 PM CT, Apr. 06 </p> 
+ <p class="updated_time"> 10:13 PM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 09:46 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/zelensky-ban-russia-oil.html">In Nightly Address, Zelensky Challenged Allies to Ban Russian Oil</a> NYT: He also accused Russian troops of starting to hide evidence of civilian deaths. 
  <p class="updated_time"> 09:16 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/asia/john-lee-hong-kong.html">John Lee, Who Led Crackdown on Hong Kong Protests, May Lead City</a> NYT: John Lee, who spent his career in Hong Kong’s security services, is likely to continue Beijing’s emphasis on political stability above all else. 
+ <p class="updated_time"> 09:13 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/russia-u-s-face-off-boosts-default-risk-11649277297">Russia, U.S. Face-Off Boosts Default Risk</a> WSJ: Russia, U.S. Face-Off Boosts Default Risk 
  <p class="updated_time"> 09:11 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/health-61010090?at_medium=RSS&at_campaign=KARANGA">Covid: Blood clot risk higher for six months after having virus</a> BBC: Lung and leg clots were much more likely in seriously ill patients, but mild cases can be affected. 
- <p class="updated_time"> 08:53 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/russia-u-s-face-off-boosts-default-risk-11649277297">Russia, U.S. Face-Off Boosts Default Risk</a> WSJ: Russia, U.S. Face-Off Boosts Default Risk 
  <p class="updated_time"> 08:43 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61019125?at_medium=RSS&at_campaign=KARANGA">Colombia to extradite drug kingpin Otoniel to US</a> BBC: Otoniel had faced a bounty of $800,000 before his capture by Colombian special forces last October. 
  <p class="updated_time"> 08:29 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/60920818?at_medium=RSS&at_campaign=KARANGA">Amir Locke: No charges filed in Minneapolis 'no-knock' police shooting</a> BBC: Prosecutors say there is insufficient evidence for criminal charges in fatal shooting of Amir Locke. 
- <p class="updated_time"> 07:53 PM CT, Apr. 06 </p> 
+ <p class="updated_time"> 08:13 PM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/we-will-kill-you-how-russia-silenced-its-antiwar-movement-11649237478">‘We Will Kill You’: How Russia Silenced Its Antiwar Movement</a> WSJ: ‘We Will Kill You’: How Russia Silenced Its Antiwar Movement 
+ <p class="updated_time"> 07:13 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/israels-government-faces-crisis-after-right-wing-lawmaker-quits-11649245710">Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits</a> WSJ: Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits 
  <p class="updated_time"> 06:54 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/us-ukraine-switchblade-drones.html">Pentagon Trains Ukrainian Soldiers to Use Armed Drones</a> NYT: The United States is sending Switchblade drones to Ukraine, and has been teaching a group of Ukrainian soldiers who are in America on an educational assignment how to use them. 
- <p class="updated_time"> 06:53 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/israels-government-faces-crisis-after-right-wing-lawmaker-quits-11649245710">Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits</a> WSJ: Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits 
  <p class="updated_time"> 06:33 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/boston-marathon-russia-belarus.html">The Boston Marathon Has Barred Runners from Russia and Belarus</a> NYT: The marathon, one of the world’s top distance races, joins a long list of events from the sports world and beyond that have excluded Russians because of their country’s invasion of Ukraine. 
  <p class="updated_time"> 06:32 PM CT, Apr. 06 </p> 
@@ -203,8 +205,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/05/world/europe/un-security-council-russia-ukraine.html">Zelensky to Speak at U.N. Security Council Meeting on Russia</a> NYT: Mr. Zelensky was expected to make the case that Russian forces have committed war crimes, as evidence emerges of civilian killings in the suburbs of Kyiv. 
  <p class="updated_time"> 05:04 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-60993659?at_medium=RSS&at_campaign=KARANGA">Rare Sumatran rhino gives birth after eight miscarriages</a> BBC: The critically endangered Sumatran rhino gave birth to a female calf in an Indonesian sanctuary. 
- <p class="updated_time"> 03:13 AM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60993655?at_medium=RSS&at_campaign=KARANGA">Peru inflation: Civilians and police clash in Peru protests</a> BBC: Protests have taken place across Peru, as oil, gas and toll road prices rise. 
 
 
 </details>
@@ -212,6 +212,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:56 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/us/politics/justice-department-russian-oligarch-charged.html">Justice Dept. Charges Russian Oligarch With Violating Sanctions</a> NYT: The department also unveiled additional measures meant to neutralize Russian money laundering and disrupt online criminal networks. 
  <p class="updated_time"> 11:20 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/republican-donors-rockbridge-network-trump.html">Wealthy GOP Donors Form Secret Coalitions to Wield More Influence</a> NYT: Eager to offset a Democratic advantage among so-called dark money groups, wealthy pro-Trump conservatives like Peter Thiel are involved in efforts to wield greater influence outside the traditional party machinery. 
  <p class="updated_time"> 11:09 PM CT, Apr. 06 </p> 
@@ -260,8 +262,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/06/mariupol-dead-5-000-russia-war-ukraine-00023560">Mariupol’s dead put at 5,000 as Ukraine braces in the east</a> Politico: Ukrainian authorities continued gathering up the dead in shattered towns outside the capital. 
  <p class="updated_time"> 04:09 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/fda-covid-boosters.html">Officials Outline Tight Deadline If U.S. Wants to Redesign Vaccines Before Fall</a> NYT: Outside experts are exploring the need to reconfigure vaccines in order to better protect the nation against new variants. 
- <p class="updated_time"> 03:55 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/us/politics/justice-department-russian-oligarch-charged.html">Justice Dept. Charges Russian Oligarch With Violating Sanctions</a> NYT: The department also unveiled additional measures meant to neutralize Russian money laundering and disrupt online criminal networks. 
  <p class="updated_time"> 03:55 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091243458/russia-ukraine-war-what-happened-today-april-6">Russia-Ukraine war: What happened today (April 6)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:51 PM CT, Apr. 06 </p> 
