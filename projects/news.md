@@ -9,22 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:29 AM CT, Apr. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/61025388?at_medium=RSS&at_campaign=KARANGA">Video appears to show killing of captive Russian soldier</a> BBC: A video has emerged which purports to show Ukrainian forces shooting a captive Russian soldier. 
+ <p class="updated_time"> 07:25 AM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/07/world/ukraine-russia-war-news">Ukraine Live Updates: Western Allies Move to Further Isolate Russia Over Atrocities</a> NYT: Leaders are seeking to increasingly punish Russia and help Ukraine, with the E.U. weighing a ban on Russian coal, NATO meeting to discuss military aid and the U.N. voting on expelling Russia from the Human Rights Council. 
+ <p class="updated_time"> 07:23 AM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/article/france-presidential-election-2022.html">France’s Presidential Election 2022: Your Questions, Answered</a> NYT: The French are choosing their president in April, an election that is crucial for France and key for Europe. President Emmanuel Macron is favored to win, but the race has gotten closer. 
+ <p class="updated_time"> 07:03 AM CT, Apr. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61020565?at_medium=RSS&at_campaign=KARANGA">Ukraine War: 'Russian soldiers held us as human shields'</a> BBC: Villagers say 150 people were rounded up to protect Russians as the Ukrainian forces advanced. 
+ <p class="updated_time"> 07:00 AM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/2022/04/07/world/europe/russia-hackers-facebook-disinformation.html">Pro-Russian Hackers Ramp Up Use of Facebook, Its Parent Company Says</a> NYT: Hackers in Russia and Belarus are using Meta’s platform for cyberespionage and disinformation campaigns, executives said. 
  <p class="updated_time"> 06:47 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/yemen-presidential-council.html">Yemen’s President Steps Down, Hands Power to Presidential Council</a> NYT: President Abdu Rabbu Mansour Hadi abdicated days after a two-month cease-fire took effect, signs that his Saudi allies may be looking for a path out of the bloodshed. 
- <p class="updated_time"> 06:00 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
+ <p class="updated_time"> 06:44 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for Tougher Sanctions, More Arms to Fend Off Russia in Donbas</a> WSJ: Ukraine Calls for Tougher Sanctions, More Arms to Fend Off Russia in Donbas 
  <p class="updated_time"> 05:56 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61020866?at_medium=RSS&at_campaign=KARANGA">Yemen president hands power to council in major shake-up</a> BBC: Abdrabbuh Mansour Hadi tells a new leadership council to negotiate a peace deal with the Houthis. 
- <p class="updated_time"> 05:53 AM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/04/07/world/ukraine-russia-war-news">Ukraine Live Updates: Western Allies Move to Further Isolate Russia Over Atrocities</a> NYT: Leaders are seeking to increasingly punish Russia and help Ukraine, with the E.U. weighing a ban on Russian coal, NATO meeting to discuss military aid and the U.N. voting on expelling Russia from the Human Rights Council. 
  <p class="updated_time"> 05:47 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61020567?at_medium=RSS&at_campaign=KARANGA">Nato: Ukraine asks for 'weapons, weapons, weapons'</a> BBC: Kyiv's foreign minister renews the plea as Nato meets to discuss military aid for Ukraine. 
- <p class="updated_time"> 05:43 AM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/article/france-presidential-election-2022.html">France’s Presidential Election 2022: Your Questions, Answered</a> NYT: The French are choosing their president in April, an election that is crucial for France and key for Europe. President Emmanuel Macron is favored to win, but the race has gotten closer. 
+ <p class="updated_time"> 05:44 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/belarusians-russians-join-ukraines-military-hoping-for-freedom-at-home-11649325276">Belarusians, Russians Join Ukraine’s Military, Hoping for Freedom at Home</a> WSJ: Belarusians, Russians Join Ukraine’s Military, Hoping for Freedom at Home 
  <p class="updated_time"> 05:27 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/books/international-booker-prize-shortlist-tokarczuk.html">Women Dominate Shortlist for International Booker Prize</a> NYT: Novels by Olga Tokarczuk, Mieko Kawakami and Claudia Piñeiro are in the running for the prestigious award for translated fiction. 
- <p class="updated_time"> 05:00 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
+ <p class="updated_time"> 04:44 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/superyachts-seaside-apartments-and-suitcases-full-of-cash-russians-pour-money-into-turkey-11649323803">Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey</a> WSJ: Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey 
  <p class="updated_time"> 04:35 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/finland-russia-art-sanctions.html">Finland Seizes Artwork Suspected of Violating E.U. Sanctions on Russia</a> NYT: The art was being transported back to Russia after being featured in exhibitions in Italy and Japan, the Finnish customs service said. 
  <p class="updated_time"> 04:28 AM CT, Apr. 07 </p> 
@@ -39,34 +47,30 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/world/asia/shanghai-covid-china.html">Shanghai’s Covid Lockdown Poses Test to China’s Leadership </a> NYT: Residents in Shanghai, China’s most populous and cosmopolitan city, have responded to the government’s pursuit of zero Covid with a rare outpouring of criticism. 
  <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/covid-second-booster-europe.html">European Health Agencies Say it Is ‘Too Early’ for Second Boosters for Most People</a> NYT: Additional boosters can be given to people 80 and older, who are at higher risk of severe illness if infected with the coronavirus, the agencies said. 
- <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/we-will-kill-you-how-russia-silenced-its-antiwar-movement-11649237478">‘We Will Kill You’: How Russia Silenced Its Antiwar Movement</a> WSJ: ‘We Will Kill You’: How Russia Silenced Its Antiwar Movement 
  <p class="updated_time"> 03:57 AM CT, Apr. 07 </p> 
- <a href="https://www.npr.org/2022/04/07/1091383280/ukraine-seeks-arms-from-nato-as-u-s-and-allies-seek-new-penalties-for-russia">Ukraine seeks more arms as U.S. and allies consider new penalties for Russia</a> NPR: NATO foreign ministers meet Thursday as part of a larger effort by the U.S., its allies and Ukraine to bolster Ukrainian defenses, and impose new penalties on Russia for invading its neighbor. 
+ <a href="https://www.npr.org/2022/04/07/1091383280/ukraine-seeks-arms-from-nato-as-u-s-and-allies-seek-new-penalties-for-russia">Ukraine seeks more arms as U.S. and allies consider new penalties for Russia</a> NPR: The diplomatic moves comes as Russia is reportedly moving its troops away from the Ukrainian capital of Kyiv to resupply. 
+ <p class="updated_time"> 03:44 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/viral-recordings-tap-into-anger-at-shanghais-covid-response-11649243138">Shanghai Doctor Speaks Out Against China’s Covid Policy, Strikes a Nerve With Weary Public</a> WSJ: Shanghai Doctor Speaks Out Against China’s Covid Policy, Strikes a Nerve With Weary Public 
  <p class="updated_time"> 03:44 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091383475/turkey-khashoggi-trial-saudi-arabia">Turkish court rules that Khashoggi trial should be transferred to Saudi Arabia</a> NPR: The ruling comes as human rights groups warn that turning the case of the killing of Washington Post columnist Jamal Khashoggi over to the Kingdom would lead to a cover up. 
  <p class="updated_time"> 03:34 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/us-ukraine-switchblade-drones.html">Pentagon Trains Ukrainian Soldiers to Use Armed Drones</a> NYT: The United States is sending Switchblade drones to Ukraine, and has been teaching a group of Ukrainian soldiers who are in America on an educational assignment how to use them. 
  <p class="updated_time"> 03:29 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/ukraine-eurovision.html">Ukraine’s Eurovision Team Set to Tour to Help War Effort</a> NYT: Kalush Orchestra, a group that mixes rap and traditional Ukrainian music, was given special permission to leave the country and play internationally. 
+ <p class="updated_time"> 03:09 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/tensions-with-north-rise-as-south-koreas-president-elect-takes-tougher-line-11649333368">Tensions With North Rise as South Korea's President-Elect Signals Tougher Line</a> WSJ: Yoon Suk-yeol, who takes office next month, promises to strengthen deterrence against Pyongyang’s nuclear and missile threats. 
  <p class="updated_time"> 03:00 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/khashoggi-murder-trial-turkey-saudi-arabia.html">Turkey Transfers Khashoggi Murder Trial to Saudi Arabia</a> NYT: The move will almost certainly end the last trial aimed at serving justice for a heinous crime that caused global outrage. 
- <p class="updated_time"> 03:00 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/viral-recordings-tap-into-anger-at-shanghais-covid-response-11649243138">Shanghai Doctor Speaks Out Against China’s Covid Policy, Strikes a Nerve With Weary Public</a> WSJ: Shanghai Doctor Speaks Out Against China’s Covid Policy, Strikes a Nerve With Weary Public 
+ <p class="updated_time"> 02:44 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/u-s-soldiers-injured-in-syria-after-shelling-attack-11649326303">U.S. Soldiers Injured in Syria After Shelling Attack</a> WSJ: U.S. Soldiers Injured in Syria After Shelling Attack 
  <p class="updated_time"> 02:43 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/americas/venezuela-art-museum.html">A Decaying Art Gem Signifying Venezuela’s Divisions Could Now Help It Heal</a> NYT: Caracas’s Museum of Modern Art, a symbol of a westernized Venezuela, was dismantled by the Socialist governments. Its modest recovery offers hope to the troubled nation. 
  <p class="updated_time"> 02:33 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61019975?at_medium=RSS&at_campaign=KARANGA">Shanghai: Residents 'running out of food' in Covid lockdown</a> BBC: Some living in China's biggest city say they're struggling to get supplies weeks into lockdown. 
- <p class="updated_time"> 02:25 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/u-s-soldiers-injured-in-syria-after-shelling-attack-11649326303">U.S. Soldiers Injured in Syria After Shelling Attack</a> WSJ: The attack is the latest in a long-running series on U.S. forces and their local partners in Iraq and Syria carried out by Iran and its allied paramilitary groups in the region. 
- <p class="updated_time"> 02:00 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/jamal-khashoggi-murder-trial-is-halted-in-turkey-11649321377">Jamal Khashoggi Murder Trial Is Halted in Turkey</a> WSJ: Jamal Khashoggi Murder Trial Is Halted in Turkey 
- <p class="updated_time"> 01:16 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for Tougher Sanctions, More Arms to Fend Off Russia in Donbas</a> WSJ: President Volodymyr Zelensky said a new package of Western sanctions against Russia was too lenient, as he accused Russian forces of seeking to destroy evidence of killings he said occurred in areas under their control. 
- <p class="updated_time"> 12:54 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/belarusians-russians-join-ukraines-military-hoping-for-freedom-at-home-11649325276">Belarusians, Russians Join Ukraine's Military, Hoping for Freedom at Home</a> WSJ: Hundreds of volunteers from Belarus have joined a dedicated Belarusian battalion since the invasion of Ukraine, while a separate unit staffed by Russian citizens is also preparing to deploy to the front lines. 
- <p class="updated_time"> 12:30 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/superyachts-seaside-apartments-and-suitcases-full-of-cash-russians-pour-money-into-turkey-11649323803">Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey</a> WSJ: Western sanctions and capital controls imposed by Moscow have sent Russians looking for havens for their cash and assets, and Turkey is fast becoming a haven for them. 
+ <p class="updated_time"> 02:20 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/yemens-president-cedes-power-amid-international-efforts-to-end-civil-war-11649330454">Yemen's President Cedes Power Amid International Efforts to End Civil War</a> WSJ: President Abed Rabbo Mansour Hadi also dismissed his controversial vice president before handing over his powers to a leadership council in a Saudi-backed move aimed at reviving negotiations with the Houthi rebels to end the country’s seven-year civil war. 
+ <p class="updated_time"> 12:46 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/jamal-khashoggi-murder-trial-is-halted-in-turkey-11649321377">Jamal Khashoggi Murder Trial Is Halted in Turkey</a> WSJ: An Istanbul court halted the Turkish murder trial of Saudi security officials charged with killing journalist Jamal Khashoggi, amid efforts by Ankara to improve relations with the kingdom. 
  <p class="updated_time"> 12:21 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/zelensky-ban-russia-oil.html">In Nightly Address, Zelensky Challenged Allies to Ban Russian Oil</a> NYT: He also accused Russian troops of starting to hide evidence of civilian deaths. 
  <p class="updated_time"> 12:01 AM CT, Apr. 07 </p> 
@@ -109,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/football/61018432?at_medium=RSS&at_campaign=KARANGA">Qatar World Cup: Security guards made to do 'forced labour' - Amnesty</a> BBC: Security guards in Qatar working on projects that include some linked to the 2022 World Cup have been subjected to conditions "which amount to forced labour," claims Amnesty. 
  <p class="updated_time"> 06:01 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61015050?at_medium=RSS&at_campaign=KARANGA">Ukraine's dream of a Eurovision win</a> BBC: Kalush Orchestra are the bookies’ favourites to win the competition in Turin next month. 
- <p class="updated_time"> 05:30 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/shanghai-residents-seek-help-online-as-daily-covid-count-nears-20-000-11649296811">Shanghai Residents Plead for Help Online as Daily Covid-19 Count Grows</a> WSJ: Nearly a week into a lockdown, many have turned to social media to get food, medicine or, if they are taken away for quarantine, advice on pet care. 
  <p class="updated_time"> 05:17 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/americas/machu-picchu-real-name-peru.html">The Site Called ‘Machu Picchu’ Had Another Name First, Researchers Say</a> NYT: For decades, the ancient Incan ruins in Peru have been called Machu Picchu. But the original name was Picchu or Huayna Picchu, according to two researchers. 
  <p class="updated_time"> 05:11 PM CT, Apr. 06 </p> 
@@ -145,8 +147,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/sports/ping-pong-wally-green.html">‘The Sport of Love’: Ping-Pong, the Great Equalizer</a> NYT: Wally Green has played everywhere from Brooklyn to Pyongyang, becoming a beloved American ambassador for table tennis — and international understanding — in the process. 
  <p class="updated_time"> 02:10 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/vladimir-zhirinovsky-dead.html">Vladimir V. Zhirinovsky Dies at 75; Ultranationalist Russian Politician</a> NYT: His antics kept him at center stage in Russia for three decades, and his once fringe views on imperial expansion had gone mainstream with the invasion of Ukraine. 
- <p class="updated_time"> 12:52 PM CT, Apr. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61005388?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Putin's daughters targeted by US sanctions</a> BBC: The US sanctions' list includes Putin's adult daughters and relatives of Foreign Minister Sergei Lavrov. 
  <p class="updated_time"> 12:41 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/technology/instagram-harassment-women.html">For Prominent Women on Instagram, DMs Can Be a Cesspool of Misogyny</a> NYT: A report on direct messages sent to five women found that “abuse and harmful content is allowed to thrive” on Instagram. The platform’s parent company, Meta, said it disagreed with the report’s conclusions. 
  <p class="updated_time"> 12:13 PM CT, Apr. 06 </p> 
@@ -185,22 +185,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-russia-war-crimes.html">Why War Crimes Charges Over Ukraine Face High Hurdles</a> NYT: The indictment of Slobodan Milosevic, the president of Yugoslavia, was a seminal moment in legal history. But prosecuting war crimes remains a steep climb. 
  <p class="updated_time"> 12:23 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61002623?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Destruction in the Ukrainian town of Borodyanka</a> BBC: Police say there could be hundreds of people buried under rubble of blocks destroyed by Russian attacks. 
- <p class="updated_time"> 10:24 PM CT, Apr. 05 </p> 
- <a href="https://www.nytimes.com/2022/04/05/world/canada/revenue-sharing-facebook-google.html">Canada to Require Tech Giants to Compensate News Publishers</a> NYT: The bill aims to compensate struggling news organizations, and follows similar moves by Europe and Australia. 
  <p class="updated_time"> 09:26 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/americas/peru-protests-emergency-curfew.html">Peru’s President Lifts Curfew That Shut Down Capital to Curb Protests</a> NYT: President Pedro Castillo had banned Lima residents from leaving their homes for nearly 24 hours, raising concerns among human rights groups and critics, but demonstrations continued after he backtracked. 
  <p class="updated_time"> 09:07 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/zelensky-un-security-council.html">Zelensky Accuses Russia of War Crimes, Criticizes U.N.’s Inaction</a> NYT: In a blistering address to the United Nations Security Council, Ukraine’s president asked what use the body was if it would not intervene to stop a war of aggression. 
- <p class="updated_time"> 06:18 PM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61003878?at_medium=RSS&at_campaign=KARANGA">Bucha killings: 'I wish they had killed me too'</a> BBC: A family tells the BBC how Oleg Abramov, a welder in Bucha, was shot dead outside his home. 
- <p class="updated_time"> 06:11 PM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61005427?at_medium=RSS&at_campaign=KARANGA">Who is this future pop megastar on archive TV reel?</a> BBC: A local TV producer was stunned to recognise this boy in footage from outside a school 50 years ago. 
  <p class="updated_time"> 06:01 PM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60983643?at_medium=RSS&at_campaign=KARANGA">The siege of Sarajevo 30 years on: ‘We felt forgotten'</a> BBC: Zlata Filipovic was amongst the Bosnian children who witnessed the atrocities in Sarajevo 30 years ago. 
- <p class="updated_time"> 06:01 PM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-60996098?at_medium=RSS&at_campaign=KARANGA">A Ukrainian man has to choose between his family and his country</a> BBC: A Ukrainian man has to choose between his family and his country. 
- <p class="updated_time"> 06:01 PM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-60996096?at_medium=RSS&at_campaign=KARANGA">Lebanon's economic crash leaves prisoners forgotten with little medical care</a> BBC: Inmates at overcrowded jails are left without medical care, while relatives cannot afford to visit. 
  <p class="updated_time"> 05:28 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/britain-nhs-covid-symptoms.html">Britain’s National Health Service Expands Its List of Covid Symptoms</a> NYT: The National Health Service’s description of the disease now aligns more closely with that of the U.S. C.D.C. 
  <p class="updated_time"> 04:46 PM CT, Apr. 05 </p> 
@@ -222,12 +212,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:45 AM CT, Apr. 07 </p> 
+ <p class="updated_time"> 07:07 AM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/nyregion/new-york-disabilities-voting-access.html">New York Plans to Make it Easier for Blind People to Vote</a> NYT: In a settlement this week, the state agreed to expand voting access for residents with disabilities such as blindness and paralysis. 
+ <p class="updated_time"> 06:46 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-harvard.html">‘We Belong in These Spaces’: Jackson’s Successors Reflect on Her Nomination</a> NYT: Judge Ketanji Brown Jackson is poised to be confirmed to the Supreme Court this week, making her the first Black woman to serve as a justice. Here’s what that means to Black women at her alma mater. 
  <p class="updated_time"> 06:40 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/homeland-security-inspector-general.html">Homeland Security Watchdog Omitted Damaging Findings From Reports</a> NYT: The findings were removed from inspector general investigations of domestic violence and sexual misconduct committed by officers in the department’s law enforcement agencies. 
  <p class="updated_time"> 06:30 AM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-senate.html">The Senate is set to confirm Judge Jackson. Here’s what to watch for.</a> NYT: Two final votes loom as Democrats — and a few Republicans — are ready to back Judge Ketanji Brown Jackson’s elevation to the Supreme Court. 
+ <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-senate.html">What to Watch For Ahead of Ketanji Brown Jackson’s Confirmation</a> NYT: Two final votes loom as Democrats — and a few Republicans — are ready to back Judge Ketanji Brown Jackson’s elevation to the Supreme Court. 
  <p class="updated_time"> 04:05 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091382705/the-student-loan-pause-has-been-extended-until-the-end-of-august">The student loan pause has been extended until the end of August</a> NPR: NPR's Leila Fadel talks to Mike Pierce of the Student Borrower Protection Center, about plans to extend the student loan payment pause and a reset for roughly 7 million borrowers who are in default. 
  <p class="updated_time"> 04:05 AM CT, Apr. 07 </p> 
@@ -238,8 +230,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/07/1091382649/the-senate-is-expected-to-confirm-judge-jackson-to-the-supreme-court">The Senate is expected to confirm Judge Jackson to the Supreme Court</a> NPR: Senators will vote Thursday on whether to confirm Judge Ketanji Brown Jackson to the high court. Her fate was never in doubt, but was cemented when three GOP senators said they would vote for her. 
  <p class="updated_time"> 04:05 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091382642/congress-considers-scenarios-for-what-to-do-if-calamity-strikes">Congress considers scenarios for what to do if calamity strikes</a> NPR: Lawmakers are trying to answer how Congress could function if a catastrophe incapacitated members. A 2017 shooting at a GOP baseball practice, the pandemic and Jan. 6 have made the issue more urgent. 
- <p class="updated_time"> 04:05 AM CT, Apr. 07 </p> 
- <a href="https://www.npr.org/2022/04/07/1091382601/morning-news-brief">News brief: NATO meets on Ukraine, Judge Jackson vote, student loans</a> NPR: Secretary of State Blinken meets with European foreign ministers. The Senate is to vote to confirm Judge Ketanji Brown Jackson to the Supreme Court. Some student loan borrowers have gotten good news. 
  <p class="updated_time"> 04:01 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1090973786/the-senate-is-expected-to-confirm-ketanji-brown-jackson-to-the-supreme-court-tod">The Senate is expected to confirm Ketanji Brown Jackson to the Supreme Court today</a> NPR: When sworn in this summer, Brown will be the first Black woman on the Supreme Court. With three Republican senators saying they'll vote for her, Democrats appear to have enough votes for confirmation. 
  <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
@@ -304,12 +294,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/06/1091243458/russia-ukraine-war-what-happened-today-april-6">Russia-Ukraine war: What happened today (April 6)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:51 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308707/el-salvadors-president-is-trampling-human-rights-with-major-crackdown-critics-sa">El Salvador's president conducts gang crackdown, prompting human rights concerns</a> NPR: El Salvador's president has responded to gang violence with a sweeping campaign of arrests that raise questions about whether he's violating human rights. 
- <p class="updated_time"> 03:46 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/business/energy-environment/gas-prices-executives-congress.html">Oil Executives Speak About High Gas Prices at House Hearing</a> NYT: Leaders of Exxon Mobil, Chevron and four other companies testified about gas prices before a House committee on Wednesday. 
  <p class="updated_time"> 03:43 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091291881/oklahoma-abortion-bill-ban-roe-v-wade">Oklahoma's vote to ban most abortions comes at a key moment for reproductive rights</a> NPR: It's the latest conservative legislature to approve a new restriction on abortion, as the country awaits a Supreme Court decision that could upend Roe v. Wade. 
  <p class="updated_time"> 03:42 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308693/blinken-says-u-s-and-europe-are-following-through-on-ukraine-commitments">Blinken says U.S. and Europe are following through on Ukraine commitments</a> NPR: Diplomats are expressing outrage over reports of Russian atrocities in Ukraine. In Brussels and Washington, officials announced more sanctions to step up the pressure on President Vladimir Putin. 
+ <p class="updated_time"> 03:42 PM CT, Apr. 06 </p> 
+ <a href="https://www.npr.org/2022/04/06/1091308679/u-s-secretary-of-education-miguel-cardona-discusses-the-student-loan-pause-exten">U.S. Secretary of Education Miguel Cardona discusses the student loan pause extension</a> NPR: NPR's Ailsa Chang speaks to Secretary of Education Miguel Cardona about the extension on the student loan pause. Also, roughly 7 million borrowers who are in default right now will get a fresh start. 
  <p class="updated_time"> 02:47 PM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/judge-nixes-steve-bannon-top-defense-00023522">Judge nixes key Bannon defense against criminal charges for defying Jan. 6 committee</a> Politico: The ruling said the former Trump adviser's “advice of counsel” defense was not applicable in contempt of Congress cases. 
  <p class="updated_time"> 02:40 PM CT, Apr. 06 </p> 
@@ -338,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/06/treasury-crackdown-russia-sberbank-00023372">‘Outraged by the atrocities’: U.S. aims new sanctions at Russia</a> Politico: The move freezes all of Sberbank's assets that touch U.S. banks and will prevent Americans from doing business with the institution. 
  <p class="updated_time"> 10:04 AM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/gop-early-plans-hunter-biden-probes-00023230">‘All over Hunter Biden’: Republicans lay plans for their own investigation, despite the DOJ probe</a> Politico: DOJ is already investigating how the president's son handled his overseas business dealings. Republicans — particularly in the House, where they're eyeing a majority — want their own oversight, never mind the Trump parallels. 
- <p class="updated_time"> 09:56 AM CT, Apr. 06 </p> 
- <a href="https://www.politico.com/news/2022/04/06/biden-defaults-federal-student-loan-borrowers-00023355">Biden to erase defaults for millions of federal student loan borrowers</a> Politico: Education Department plans a 'fresh start' for borrowers as White House extends payment pause through August. 
  <p class="updated_time"> 08:55 AM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/commerce-secretary-positive-covid-19-00023348">Elite D.C. appears to be getting pummeled with Covid</a> Politico: There's been lots of buzz in recent days about people being infected after attending the Gridiron Club dinner and a few other events. 
  <p class="updated_time"> 04:00 AM CT, Apr. 06 </p> 
@@ -354,8 +342,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/05/gop-opposition-biden-immigration-policy-covid-deal-00023156">Covid deal hampered by GOP opposition to Biden immigration policy</a> Politico: Republican senators want a vote on a pandemic-era immigration limit before they'll consider moving forward on $10 billion in Covid aid. 
  <p class="updated_time"> 02:35 PM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/obama-returns-white-house-00023148">Obama returns to White House for first time since leaving office</a> Politico: “Feels like the good old days," President Biden said in welcoming the former president at an event to celebrate the Affordable Care Act. 
- <p class="updated_time"> 12:58 PM CT, Apr. 05 </p> 
- <a href="https://www.cnn.com/2022/04/05/politics/mark-milley-ukraine-reaction-international-conflict/index.html">Top US general: Potential for 'significant international conflict' is increasing</a> CNN: The top US military officer told lawmakers Tuesday that the world is becoming more unstable and the "potential for significant international conflict is increasing, not decreasing." 
  <p class="updated_time"> 12:44 PM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/joe-biden-second-crack-gun-official-00023111">Biden to take second crack at filling top gun official role</a> Politico: Months after the president’s first nominee withdrew over lack of support, he is poised to offer another option for the post. 
  <p class="updated_time"> 12:01 PM CT, Apr. 05 </p> 
