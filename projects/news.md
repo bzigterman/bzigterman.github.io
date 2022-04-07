@@ -13,17 +13,17 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61020866?at_medium=RSS&at_campaign=KARANGA">Yemen president hands power to council in major shake-up</a> BBC: Abdrabbuh Mansour Hadi tells a new leadership council to negotiate a peace deal with the Houthis. 
  <p class="updated_time"> 05:53 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/04/07/world/ukraine-russia-war-news">Ukraine Live Updates: Western Allies Move to Further Isolate Russia Over Atrocities</a> NYT: Leaders are seeking to increasingly punish Russia and help Ukraine, with the E.U. weighing a ban on Russian coal, NATO meeting to discuss military aid and the U.N. voting on expelling Russia from the Human Rights Council. 
+ <p class="updated_time"> 05:48 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 05:47 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61020567?at_medium=RSS&at_campaign=KARANGA">Nato: Ukraine asks for 'weapons, weapons, weapons'</a> BBC: Kyiv's foreign minister renews the plea as Nato meets to discuss military aid for Ukraine. 
  <p class="updated_time"> 05:43 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/article/france-presidential-election-2022.html">France’s Presidential Election 2022: Your Questions, Answered</a> NYT: The French are choosing their president in April, an election that is crucial for France and key for Europe. President Emmanuel Macron is favored to win, but the race has gotten closer. 
- <p class="updated_time"> 05:36 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 05:27 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/books/international-booker-prize-shortlist-tokarczuk.html">Women Dominate Shortlist for International Booker Prize</a> NYT: Novels by Olga Tokarczuk, Mieko Kawakami and Claudia Piñeiro are in the running for the prestigious award for translated fiction. 
  <p class="updated_time"> 05:25 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/yemen-presidential-council.html">Yemen’s President Hands Power to New Body as His Saudi Backers Seek to End War</a> NYT: Abdu Rabbu Mansour Hadi announced his abdication only days after a two-month cease-fire took effect, a sign that Saudi Arabia and its allies may be looking for a pathway out of the bloodshed. 
- <p class="updated_time"> 04:36 AM CT, Apr. 07 </p> 
+ <p class="updated_time"> 04:48 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 04:35 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/finland-russia-art-sanctions.html">Finland Seizes Artwork Suspected of Violating E.U. Sanctions on Russia</a> NYT: The art was being transported back to Russia after being featured in exhibitions in Italy and Japan, the Finnish customs service said. 
@@ -41,25 +41,25 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/europe/covid-second-booster-europe.html">European Health Agencies Say it Is ‘Too Early’ for Second Boosters for Most People</a> NYT: Additional boosters can be given to people 80 and older, who are at higher risk of severe illness if infected with the coronavirus, the agencies said. 
  <p class="updated_time"> 03:57 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091383280/ukraine-seeks-arms-from-nato-as-u-s-and-allies-seek-new-penalties-for-russia">Ukraine seeks more arms as U.S. and allies consider new penalties for Russia</a> NPR: NATO foreign ministers meet Thursday as part of a larger effort by the U.S., its allies and Ukraine to bolster Ukrainian defenses, and impose new penalties on Russia for invading its neighbor. 
+ <p class="updated_time"> 03:48 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/we-will-kill-you-how-russia-silenced-its-antiwar-movement-11649237478">‘We Will Kill You’: How Russia Silenced Its Antiwar Movement</a> WSJ: ‘We Will Kill You’: How Russia Silenced Its Antiwar Movement 
  <p class="updated_time"> 03:44 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091383475/turkey-khashoggi-trial-saudi-arabia">Turkish court rules that Khashoggi trial should be transferred to Saudi Arabia</a> NPR: The ruling comes as human rights groups warn that turning the case of the killing of Washington Post columnist Jamal Khashoggi over to the Kingdom would lead to a cover up. 
- <p class="updated_time"> 03:36 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/we-will-kill-you-how-russia-silenced-its-antiwar-movement-11649237478">‘We Will Kill You’: How Russia Silenced Its Antiwar Movement</a> WSJ: ‘We Will Kill You’: How Russia Silenced Its Antiwar Movement 
  <p class="updated_time"> 03:34 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/us-ukraine-switchblade-drones.html">Pentagon Trains Ukrainian Soldiers to Use Armed Drones</a> NYT: The United States is sending Switchblade drones to Ukraine, and has been teaching a group of Ukrainian soldiers who are in America on an educational assignment how to use them. 
  <p class="updated_time"> 03:29 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/ukraine-eurovision.html">Ukraine’s Eurovision Team Set to Tour to Help War Effort</a> NYT: Kalush Orchestra, a group that mixes rap and traditional Ukrainian music, was given special permission to leave the country and play internationally. 
  <p class="updated_time"> 03:00 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/khashoggi-murder-trial-turkey-saudi-arabia.html">Turkey Transfers Khashoggi Murder Trial to Saudi Arabia</a> NYT: The move will almost certainly end the last trial aimed at serving justice for a heinous crime that caused global outrage. 
+ <p class="updated_time"> 02:48 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/viral-recordings-tap-into-anger-at-shanghais-covid-response-11649243138">Shanghai Doctor Speaks Out Against China’s Covid Policy, Strikes a Nerve With Weary Public</a> WSJ: Shanghai Doctor Speaks Out Against China’s Covid Policy, Strikes a Nerve With Weary Public 
  <p class="updated_time"> 02:43 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/americas/venezuela-art-museum.html">A Decaying Art Gem Signifying Venezuela’s Divisions Could Now Help It Heal</a> NYT: Caracas’s Museum of Modern Art, a symbol of a westernized Venezuela, was dismantled by the Socialist governments. Its modest recovery offers hope to the troubled nation. 
- <p class="updated_time"> 02:36 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/viral-recordings-tap-into-anger-at-shanghais-covid-response-11649243138">Shanghai Doctor Speaks Out Against China’s Covid Policy, Strikes a Nerve With Weary Public</a> WSJ: Shanghai Doctor Speaks Out Against China’s Covid Policy, Strikes a Nerve With Weary Public 
  <p class="updated_time"> 02:33 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61019975?at_medium=RSS&at_campaign=KARANGA">Shanghai: Residents 'running out of food' in Covid lockdown</a> BBC: Some living in China's biggest city say they're struggling to get supplies weeks into lockdown. 
  <p class="updated_time"> 02:25 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/u-s-soldiers-injured-in-syria-after-shelling-attack-11649326303">U.S. Soldiers Injured in Syria After Shelling Attack</a> WSJ: The attack is the latest in a long-running series on U.S. forces and their local partners in Iraq and Syria carried out by Iran and its allied paramilitary groups in the region. 
- <p class="updated_time"> 01:36 AM CT, Apr. 07 </p> 
+ <p class="updated_time"> 01:48 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/jamal-khashoggi-murder-trial-is-halted-in-turkey-11649321377">Jamal Khashoggi Murder Trial Is Halted in Turkey</a> WSJ: Jamal Khashoggi Murder Trial Is Halted in Turkey 
  <p class="updated_time"> 01:16 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for Tougher Sanctions, More Arms to Fend Off Russia in Donbas</a> WSJ: President Volodymyr Zelensky said a new package of Western sanctions against Russia was too lenient, as he accused Russian forces of seeking to destroy evidence of killings he said occurred in areas under their control. 
@@ -222,6 +222,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:44 AM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-harvard.html">‘We Belong in These Spaces’: Jackson’s Successors Reflect on Her Nomination</a> NYT: Judge Ketanji Brown Jackson is poised to be confirmed to the Supreme Court this week, making her the first Black woman to serve as a justice. Here’s what that means to Black women at her alma mater. 
+ <p class="updated_time"> 06:40 AM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/2022/04/07/us/politics/homeland-security-inspector-general.html">Homeland Security Watchdog Omitted Damaging Findings From Reports</a> NYT: The findings were removed from inspector general investigations of domestic violence and sexual misconduct committed by officers in the department’s law enforcement agencies. 
  <p class="updated_time"> 06:30 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-senate.html">The Senate is set to confirm Judge Jackson. Here’s what to watch for.</a> NYT: Two final votes loom as Democrats — and a few Republicans — are ready to back Judge Ketanji Brown Jackson’s elevation to the Supreme Court. 
  <p class="updated_time"> 04:05 AM CT, Apr. 07 </p> 
@@ -234,10 +238,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/07/1091382649/the-senate-is-expected-to-confirm-judge-jackson-to-the-supreme-court">The Senate is expected to confirm Judge Jackson to the Supreme Court</a> NPR: Senators will vote Thursday on whether to confirm Judge Ketanji Brown Jackson to the high court. Her fate was never in doubt, but was cemented when three GOP senators said they would vote for her. 
  <p class="updated_time"> 04:05 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091382642/congress-considers-scenarios-for-what-to-do-if-calamity-strikes">Congress considers scenarios for what to do if calamity strikes</a> NPR: Lawmakers are trying to answer how Congress could function if a catastrophe incapacitated members. A 2017 shooting at a GOP baseball practice, the pandemic and Jan. 6 have made the issue more urgent. 
+ <p class="updated_time"> 04:05 AM CT, Apr. 07 </p> 
+ <a href="https://www.npr.org/2022/04/07/1091382601/morning-news-brief">News brief: NATO meets on Ukraine, Judge Jackson vote, student loans</a> NPR: Secretary of State Blinken meets with European foreign ministers. The Senate is to vote to confirm Judge Ketanji Brown Jackson to the Supreme Court. Some student loan borrowers have gotten good news. 
  <p class="updated_time"> 04:01 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1090973786/the-senate-is-expected-to-confirm-ketanji-brown-jackson-to-the-supreme-court-tod">The Senate is expected to confirm Ketanji Brown Jackson to the Supreme Court today</a> NPR: When sworn in this summer, Brown will be the first Black woman on the Supreme Court. With three Republican senators saying they'll vote for her, Democrats appear to have enough votes for confirmation. 
- <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-harvard.html">‘We Belong in These Spaces’: Jackson’s Successors Reflect on Her Nomination</a> NYT: Judge Ketanji Brown Jackson is poised to be confirmed to the Supreme Court this week, making her the first Black woman to serve as a justice. Here’s what that means to Black women at her alma mater. 
  <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091340068/vladimir-putin-daughters-sanctioned-russia-ukraine">Putin's daughters were just sanctioned. Here's what we know about them</a> NPR: Details about the Russian president's children have long been shrouded in secrecy. The U.S. says his two adult daughters — one a doctor, the other a tech executive — may be hiding Putin's assets. 
  <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
@@ -246,8 +250,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/07/1091252803/palm-springs-looks-to-create-a-universal-basic-income-pilot-for-trans-residents">Palm Springs looks to create a universal basic income pilot for trans residents</a> NPR: The Palm Springs City Council took the first step in approving funding for two organizations to develop a universal basic income pilot program that prioritizes trans and nonbinary residents. 
  <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/books/kearns-goodwin-archive-ut-austin.html">U.T. Austin Acquires Archives That Give Insight Into the 1960s</a> NYT: The papers of Richard Goodwin, a speechwriter to John F. Kennedy and Lyndon B. Johnson, and his wife Doris Kearns Goodwin, a presidential historian, shed light on decision-making at crucial moments in American history. 
- <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/us/politics/homeland-security-inspector-general.html">Homeland Security Watchdog Omitted Damaging Findings From Reports</a> NYT: The findings were removed from inspector general investigations of domestic violence and sexual misconduct committed by officers in the department’s law enforcement agencies. 
  <p class="updated_time"> 03:30 AM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/north-carolina-house-donald-trump-00023643">Local conservatives revolt against Trump House favorite</a> Politico: The former president endorsed a 26-year-old who lives hours away from the congressional district he's running in. 
  <p class="updated_time"> 11:56 PM CT, Apr. 06 </p> 
@@ -308,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/06/1091291881/oklahoma-abortion-bill-ban-roe-v-wade">Oklahoma's vote to ban most abortions comes at a key moment for reproductive rights</a> NPR: It's the latest conservative legislature to approve a new restriction on abortion, as the country awaits a Supreme Court decision that could upend Roe v. Wade. 
  <p class="updated_time"> 03:42 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308693/blinken-says-u-s-and-europe-are-following-through-on-ukraine-commitments">Blinken says U.S. and Europe are following through on Ukraine commitments</a> NPR: Diplomats are expressing outrage over reports of Russian atrocities in Ukraine. In Brussels and Washington, officials announced more sanctions to step up the pressure on President Vladimir Putin. 
- <p class="updated_time"> 03:42 PM CT, Apr. 06 </p> 
- <a href="https://www.npr.org/2022/04/06/1091308679/u-s-secretary-of-education-miguel-cardona-discusses-the-student-loan-pause-exten">U.S. Secretary of Education Miguel Cardona discusses the student loan pause extension</a> NPR: NPR's Ailsa Chang speaks to Secretary of Education Miguel Cardona about the extension on the student loan pause. Also, roughly 7 million borrowers who are in default right now will get a fresh start. 
  <p class="updated_time"> 02:47 PM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/judge-nixes-steve-bannon-top-defense-00023522">Judge nixes key Bannon defense against criminal charges for defying Jan. 6 committee</a> Politico: The ruling said the former Trump adviser's “advice of counsel” defense was not applicable in contempt of Congress cases. 
  <p class="updated_time"> 02:40 PM CT, Apr. 06 </p> 
