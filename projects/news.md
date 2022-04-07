@@ -9,9 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:32 PM CT, Apr. 06 </p> 
+ <p class="updated_time"> 06:58 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/04/06/world/ukraine-russia-war-news">Ukraine Live Updates: Civilians Flee as Battered Russian Forces Bear Down on Eastern Ukraine</a> NYT: Residents are leaving eastern Ukraine amid warnings of escalating fighting there. The Justice Department charges a Russian oligarch with violating U.S. sanctions. 
- <p class="updated_time"> 06:32 PM CT, Apr. 06 </p> 
+ <p class="updated_time"> 06:54 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/world/europe/us-ukraine-switchblade-drones.html">Pentagon Trains Ukrainian Soldiers to Use Armed Drones</a> NYT: The United States is sending Switchblade drones to Ukraine, and has been teaching a group of Ukrainian soldiers who are in America on an educational assignment how to use them. 
+ <p class="updated_time"> 06:33 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/boston-marathon-russia-belarus.html">The Boston Marathon Has Barred Runners from Russia and Belarus</a> NYT: The marathon, one of the world’s top distance races, joins a long list of events from the sports world and beyond that have excluded Russians because of their country’s invasion of Ukraine. 
  <p class="updated_time"> 06:32 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-60996104?at_medium=RSS&at_campaign=KARANGA">Black Coffee - the South African DJ who made history at the Grammys</a> BBC: The Grammy-award winner speaks to the BBC about the joy of his win and desire to never be pigeon-holed. 
@@ -26,17 +28,19 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:04 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/russia-military-ukraine-war.html">Russia Is Sending Mercenaries and Syrians to Ukraine, Western Officials Say</a> NYT: The Kremlin is trying to find enough reinforcements to conduct the next phase of the war, according to military and intelligence officials. 
  <p class="updated_time"> 06:01 PM CT, Apr. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61015050?at_medium=RSS&at_campaign=KARANGA">Ukraine's dream of a Eurovision win</a> BBC: Kalush Orchestra are the bookies’ favourites to win the competition in Turin next month. 
- <p class="updated_time"> 05:38 PM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
+ <p class="updated_time"> 06:01 PM CT, Apr. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61015050?at_medium=RSS&at_campaign=KARANGA">Ukraine's dream of a Eurovision win</a> BBC: Kalush Orchestra are the bookies’ favourites to win the competition in Turin next month. 
  <p class="updated_time"> 05:17 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/americas/machu-picchu-real-name-peru.html">The Site Called ‘Machu Picchu’ Had Another Name First, Researchers Say</a> NYT: For decades, the ancient Incan ruins in Peru have been called Machu Picchu. But the original name was Picchu or Huayna Picchu, according to two researchers. 
  <p class="updated_time"> 05:11 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/russia-ukraine-war-casualties.html">More Russians Consider Costs of War in Ukraine as Casualties Mount</a> NYT: Many Russians have been in the dark about their country’s losses. As news of more Russian deaths arrives, the reactions range from anger at the Kremlin to parroting the state’s messaging that blames “Nazis’’ in Ukraine. 
- <p class="updated_time"> 04:38 PM CT, Apr. 06 </p> 
+ <p class="updated_time"> 05:01 PM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 04:11 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/africa/burkina-faso-blaise-compaore-thomas-sankara.html">Ex-Leader of Burkina Faso Convicted in Killing of Predecessor</a> NYT: A military tribunal sentenced former President Blaise Compaoré, who is now in exile, to life in prison for his role in the 1987 assassination. 
+ <p class="updated_time"> 04:01 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/we-will-kill-you-how-russia-silenced-its-antiwar-movement-11649237478">‘We Will Kill You’: How Russia Silenced Its Antiwar Movement</a> WSJ: ‘We Will Kill You’: How Russia Silenced Its Antiwar Movement 
  <p class="updated_time"> 03:59 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/business/economy/yellen-russia-sanctions.html">Yellen Says Aim Is ‘Maximum Pain’ for Russia Without Hurting U.S.</a> NYT: The Treasury secretary told a House committee that the U.S. would continue finding ways to punish Russia for its invasion of Ukraine. 
  <p class="updated_time"> 03:55 PM CT, Apr. 06 </p> 
@@ -49,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/06/1091308700/communities-have-formed-among-those-who-have-stayed-in-kyiv-through-russian-atta">Communities have formed among those who have stayed in Kyiv through Russian attacks</a> NPR: Misha Smetana lives in Kyiv, and has stayed there throughout Russian attacks on Ukraine. He tells NPR's Scott Detrow what that's been like, and about the communities forming between people who stayed. 
  <p class="updated_time"> 03:42 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308693/blinken-says-u-s-and-europe-are-following-through-on-ukraine-commitments">Blinken says U.S. and Europe are following through on Ukraine commitments</a> NPR: Diplomats are expressing outrage over reports of Russian atrocities in Ukraine. In Brussels and Washington, officials announced more sanctions to step up the pressure on President Vladimir Putin. 
- <p class="updated_time"> 03:38 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/former-islamic-state-hostages-testify-to-cruelty-of-british-accented-guards-11649267918">Former Islamic State Hostages Testify to Cruelty of Guards</a> WSJ: Former Islamic State Hostages Testify to Cruelty of Guards 
  <p class="updated_time"> 03:34 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/covid-second-booster-europe.html">European Health Agencies Say it Is ‘Too Early’ for Second Boosters for Most People</a> NYT: Additional boosters can be given to people 80 and older, who are at higher risk of severe illness if infected, the agencies said. 
  <p class="updated_time"> 03:29 PM CT, Apr. 06 </p> 
@@ -61,10 +63,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/06/1091308623/the-view-of-a-kyiv-suburb-where-russian-forces-were-accused-of-attacking-civilia">The view of a Kyiv suburb where Russian forces were accused of attacking civilians</a> NPR: We look at the fallout from Russian attacks in Borodyanka, a suburb of the Ukrainian capitol of Kyiv. Ukrainian officials accuse Russian forces of indiscriminately attacking civilians there. 
  <p class="updated_time"> 03:24 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308616/what-happens-to-kyivs-peoples-friendship-arch-now-that-russia-has-invaded">What happens to Kyiv's People's Friendship Arch, now that Russia has invaded?</a> NPR: The People's Friendship Arch was gifted to Ukraine by the Russian government and opened in Kyiv in 1982. Ukrainians weigh in on the future of the enormous monument, in the midst of war with Russia. 
+ <p class="updated_time"> 03:01 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/former-islamic-state-hostages-testify-to-cruelty-of-british-accented-guards-11649267918">Former Islamic State Hostages Testify to Cruelty of Guards</a> WSJ: Former Islamic State Hostages Testify to Cruelty of Guards 
  <p class="updated_time"> 02:40 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/nato-ukraine-russia.html">NATO Nations Divided As Ukraine War Enters Uncertain Stage</a> NYT: The alliance is examining what Ukraine needs as it tries to expel Russia from the east and how to ensure an outcome that enhances European security. 
- <p class="updated_time"> 02:38 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/israels-government-faces-crisis-after-right-wing-lawmaker-quits-11649245710">Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits</a> WSJ: Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits 
  <p class="updated_time"> 02:34 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/05/health/fda-glaxo-antibody-us.html">The F.D.A. Suspends Use of Glaxo Antibody Drug in the U.S.</a> NYT: Manufacturers said lab testing revealed that the authorized dosage of the drug was not sufficiently potent against BA.2. 
  <p class="updated_time"> 02:31 PM CT, Apr. 06 </p> 
@@ -73,10 +75,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/sports/ping-pong-wally-green.html">‘The Sport of Love’: Ping-Pong, the Great Equalizer</a> NYT: Wally Green has played everywhere from Brooklyn to Pyongyang, becoming a beloved American ambassador for table tennis — and international understanding — in the process. 
  <p class="updated_time"> 02:10 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/vladimir-zhirinovsky-dead.html">Vladimir V. Zhirinovsky Dies at 75; Ultranationalist Russian Politician</a> NYT: His antics kept him at center stage in Russia for three decades, and his once fringe views on imperial expansion had gone mainstream with the invasion of Ukraine. 
+ <p class="updated_time"> 02:01 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/israels-government-faces-crisis-after-right-wing-lawmaker-quits-11649245710">Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits</a> WSJ: Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits 
  <p class="updated_time"> 01:56 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-bucha-makeup-artist.html">A Makeup Artist Recognized This Bucha Victim’s Picture by Her Manicure</a> NYT: The woman, Iryna Filkina, had worked at a heating plant. She had contacted the makeup artist for help being more beautiful and fashionable. 
- <p class="updated_time"> 01:38 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/john-lee-former-policeman-poised-to-be-hong-kongs-next-top-official-11649244872">Former Policeman Poised to Be Hong Kong’s Next Top Official</a> WSJ: Former Policeman Poised to Be Hong Kong’s Next Top Official 
  <p class="updated_time"> 01:30 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61015190?at_medium=RSS&at_campaign=KARANGA">Peter Kassig: US hostage 'knew his time had come' before IS execution</a> BBC: The father of an American aid worker killed by the notorious "Beatles" cell testifies at a trial in Virginia. 
  <p class="updated_time"> 12:52 PM CT, Apr. 06 </p> 
@@ -109,12 +111,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/06/1091230358/us-sanctions-russia-putin-banks">New U.S. sanctions target Russia's largest banks and Putin's children</a> NPR: The U.S. joined the European Union and Group of Seven nations in enacting new sanctions on Russia in response to the civilian toll reported in Bucha and elsewhere in Ukraine in recent days. 
  <p class="updated_time"> 10:36 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/biden-russia-putin-sanctions.html">U.S. Announces Sanctions on Russia’s Largest Banks and Putin’s Adult Children</a> NYT: Sberbank, the largest financial institution in Russia, and Alfa Bank, one of the country’s largest privately owned banks, will face sanctions. 
+ <p class="updated_time"> 10:22 AM CT, Apr. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-60125659?at_medium=RSS&at_campaign=KARANGA">What sanctions are being imposed on Russia over Ukraine invasion?</a> BBC: Western nations have imposed severe sanctions on Russia over its invasion of Ukraine. 
  <p class="updated_time"> 10:21 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1090902301/ukraine-refugees-poland-krakow">Krakow, Poland's second-largest city, strains to accommodate Ukrainian refugees</a> NPR: More than 150,000 displaced Ukrainians now live in Krakow, increasing the population by 20% in just a few weeks. Now the city is helping them find long-term housing, jobs and spots in schools. 
  <p class="updated_time"> 09:22 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61008332?at_medium=RSS&at_campaign=KARANGA">Thomas Sankara murder: Ex-Burkina Faso President Blaise Compaoré found guilty</a> BBC: Burkina Faso's former leader Blaise Compaoré is found guilty of complicity in killing his close friend. 
  <p class="updated_time"> 09:19 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-61007121?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Giving Russia money for energy is 'blood money' - Ukraine PM</a> BBC: Ukraine Prime Minister Denys Shmyhal calls for countries to stop buying Russian for oil and gas. 
+ <p class="updated_time"> 08:08 AM CT, Apr. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/60739336?at_medium=RSS&at_campaign=KARANGA">The hunt for superyachts of sanctioned Russian oligarchs</a> BBC: Wealthy Russians sanctioned by the US, EU and UK are having to find places they can keep their assets safe. 
  <p class="updated_time"> 08:04 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/asia/john-lee-hong-kong.html">John Lee, Who Led Crackdown on Hong Kong Protests, May Lead City</a> NYT: John Lee, who spent his career in Hong Kong’s security services, is likely to continue Beijing’s emphasis on political stability above all else. 
  <p class="updated_time"> 08:04 AM CT, Apr. 06 </p> 
@@ -137,12 +143,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/europe/germany-gas-russia-ukraine.html">Germany’s Dependence on Russian Gas Is Difficult to Break</a> NYT: Dangerously dependent on Russian gas, Germany is still refusing to cut off President Putin, whose war it is effectively subsidizing to the tune of some $220 million a day. 
  <p class="updated_time"> 04:00 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/asia/ukraine-south-korea-nuclear-weapons.html">Ukraine War Revives Nuclear Question in South Korea</a> NYT: Seoul abandoned a covert program in the 1970s, but some argue it is time for the country to embrace its nuclear ambitions and safeguard against a Russia-style invasion. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/john-lee-former-policeman-poised-to-be-hong-kongs-next-top-official-11649244872">Former Policeman Poised to Be Hong Kong's Next Top Official</a> WSJ: John Lee, currently the city’s No. 2 official, declared his intention to run for the top job, a succession that would signal Beijing plans no letup in its national security crackdown in the city. 
  <p class="updated_time"> 01:27 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/americas/el-salvador-media-gangs.html">New Law in El Salvador Curtails Sharing Gang Information</a> NYT: A measure punishing the sharing of information about gangs is so vague, critics say, that virtually anyone can be arrested for speaking or writing about them, putting journalists in the cross hairs. 
  <p class="updated_time"> 01:04 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-russia-war-crimes.html">Why War Crimes Charges Over Ukraine Face High Hurdles</a> NYT: The indictment of Slobodan Milosevic, the president of Yugoslavia, was a seminal moment in legal history. But prosecuting war crimes remains a steep climb. 
- <p class="updated_time"> 12:31 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/we-will-kill-you-how-russia-silenced-its-antiwar-movement-11649237478">'We Will Kill You': How Russia Silenced Its Antiwar Movement</a> WSJ: A new Russian law prohibiting referrals to the military campaign in Ukraine as a war or an invasion and mass arrests of protesters have largely eliminated visible signs of dissent inside Russia, leading to large numbers of people choosing to leave the country. 
  <p class="updated_time"> 12:23 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61002623?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Destruction in the Ukrainian town of Borodyanka</a> BBC: Police say there could be hundreds of people buried under rubble of blocks destroyed by Russian attacks. 
  <p class="updated_time"> 11:07 PM CT, Apr. 05 </p> 
@@ -189,16 +195,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/05/world/europe/charles-darwin-notebooks-cambridge-library.html">Stolen Darwin Notebooks, Missing for Decades, Are Returned</a> NYT: The two notebooks were anonymously returned to the Cambridge University Library 22 years after they went missing. A note addressed to the librarian read: “Happy Easter.” 
  <p class="updated_time"> 10:53 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/russia-ukraine-war-atrocities.html">Up-Close Ukraine Atrocity Photographs Touch a Global Nerve</a> NYT: The apparent execution of Ukrainian civilians by retreating Russian forces, their bodies strewn in streets and yards, has focused attention on what constitutes crimes in war. 
- <p class="updated_time"> 10:49 AM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61002622?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Many more cities like Bucha says President Zelensky</a> BBC: Volodymyr Zelensky addressed the UN Security Council for the first time since Russia invaded Ukraine. 
  <p class="updated_time"> 09:08 AM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/un-security-council-russia-ukraine.html">Zelensky to Speak at U.N. Security Council Meeting on Russia</a> NYT: Mr. Zelensky was expected to make the case that Russian forces have committed war crimes, as evidence emerges of civilian killings in the suburbs of Kyiv. 
  <p class="updated_time"> 05:04 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-60993659?at_medium=RSS&at_campaign=KARANGA">Rare Sumatran rhino gives birth after eight miscarriages</a> BBC: The critically endangered Sumatran rhino gave birth to a female calf in an Indonesian sanctuary. 
  <p class="updated_time"> 03:13 AM CT, Apr. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60993655?at_medium=RSS&at_campaign=KARANGA">Peru inflation: Civilians and police clash in Peru protests</a> BBC: Protests have taken place across Peru, as oil, gas and toll road prices rise. 
- <p class="updated_time"> 08:45 PM CT, Apr. 04 </p> 
- <a href="https://www.nytimes.com/2022/04/04/world/africa/killing-moura-mali.html">Western Officials Condemn Reports of ‘Massacre’ by Military in Central Mali</a> NYT: The State Department and the French foreign ministry said they were alarmed at reports of deaths caused by the Malian armed forces and their allies — Russian mercenaries with the Wagner Group. 
 
 
 </details>
@@ -206,6 +208,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:57 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/us/politics/washington-covid-garland-raimondo.html">Coronavirus Cases Among Boldface Names Have Washington Feeling Uneasy</a> NYT: A spate of positive coronavirus tests among top officials is a reminder that, even amid an attempt to pivot away from strict restrictions, the pandemic is not over. 
+ <p class="updated_time"> 06:48 PM CT, Apr. 06 </p> 
+ <a href="https://www.politico.com/news/2022/04/06/three-takeaways-covid-vaccine-panel-00023569">3 takeaways ahead of potential fall Covid booster campaign</a> Politico: Panel members agreed that myriad unknowns persist about the coronavirus and how it might evolve. 
+ <p class="updated_time"> 06:24 PM CT, Apr. 06 </p> 
+ <a href="https://www.politico.com/news/2022/04/06/rick-scott-fissures-desantis-disney-00023582">Florida’s Scott exposes fissures with DeSantis</a> Politico: “My experience with Disney had been positive,” Scott said. 
  <p class="updated_time"> 06:22 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/biden-amazon-workers-labor-unions.html">Biden Appears to Show Support for Amazon Workers Who Voted to Unionize</a> NYT: “By the way, Amazon, here we come. Watch,” the president said. But the White House quickly said his remarks did not mean the government would get formally involved. 
  <p class="updated_time"> 06:20 PM CT, Apr. 06 </p> 
