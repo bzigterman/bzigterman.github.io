@@ -15,7 +15,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/world/europe/russia-hackers-facebook-disinformation.html">Pro-Russian Hackers Ramp Up Use of Facebook, Its Parent Company Says</a> NYT: Hackers in Russia and Belarus are using Meta’s platform for cyberespionage and disinformation campaigns, executives said. 
  <p class="updated_time"> 08:05 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/61025328?at_medium=RSS&at_campaign=KARANGA">Klitschko: 'I saw tortured and executed civilians in Bucha'</a> BBC: Former world champion boxer, Wladimir Klitschko, tells 5 Live Breakfast about seeing the bodies of civilians in Bucha after Russian forces withdrew. 
- <p class="updated_time"> 07:41 AM CT, Apr. 07 </p> 
+ <p class="updated_time"> 07:53 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for More Arms, Tougher Sanctions to Fend Off Russia in Donbas</a> WSJ: Ukraine Calls for More Arms, Tougher Sanctions to Fend Off Russia in Donbas 
  <p class="updated_time"> 07:29 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/61025388?at_medium=RSS&at_campaign=KARANGA">Video appears to show killing of captive Russian soldier</a> BBC: A video has emerged which purports to show Ukrainian forces shooting a captive Russian soldier. 
@@ -25,21 +25,21 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/article/france-presidential-election-2022.html">France’s Presidential Election 2022: Your Questions, Answered</a> NYT: The French are choosing their president in April, an election that is crucial for France and key for Europe. President Emmanuel Macron is favored to win, but the race has gotten closer. 
  <p class="updated_time"> 07:03 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61020565?at_medium=RSS&at_campaign=KARANGA">Ukraine War: 'Russian soldiers held us as human shields'</a> BBC: Villagers say 150 people were rounded up to protect Russians as the Ukrainian forces advanced. 
+ <p class="updated_time"> 06:53 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/belarusians-russians-join-ukraines-military-hoping-for-freedom-at-home-11649325276">Belarusians, Russians Join Ukraine’s Military, Hoping for Freedom at Home</a> WSJ: Belarusians, Russians Join Ukraine’s Military, Hoping for Freedom at Home 
  <p class="updated_time"> 06:47 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/yemen-presidential-council.html">Yemen’s President Steps Down, Hands Power to Presidential Council</a> NYT: President Abdu Rabbu Mansour Hadi abdicated days after a two-month cease-fire took effect, signs that his Saudi allies may be looking for a path out of the bloodshed. 
- <p class="updated_time"> 06:41 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/belarusians-russians-join-ukraines-military-hoping-for-freedom-at-home-11649325276">Belarusians, Russians Join Ukraine’s Military, Hoping for Freedom at Home</a> WSJ: Belarusians, Russians Join Ukraine’s Military, Hoping for Freedom at Home 
  <p class="updated_time"> 06:07 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-61024936?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Families fleeing Mariupol</a> BBC: Families have left their homes in war-torn Mariupol for safety in Zaporizhzhia, eastern Ukraine. 
  <p class="updated_time"> 05:56 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61020866?at_medium=RSS&at_campaign=KARANGA">Yemen president hands power to council in major shake-up</a> BBC: Abdrabbuh Mansour Hadi tells a new leadership council to negotiate a peace deal with the Houthis. 
+ <p class="updated_time"> 05:53 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/superyachts-seaside-apartments-and-suitcases-full-of-cash-russians-pour-money-into-turkey-11649323803">Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey</a> WSJ: Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey 
  <p class="updated_time"> 05:47 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61020567?at_medium=RSS&at_campaign=KARANGA">Nato: Ukraine asks for 'weapons, weapons, weapons'</a> BBC: Kyiv's foreign minister renews the plea as Nato meets to discuss military aid for Ukraine. 
- <p class="updated_time"> 05:41 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/superyachts-seaside-apartments-and-suitcases-full-of-cash-russians-pour-money-into-turkey-11649323803">Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey</a> WSJ: Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey 
  <p class="updated_time"> 05:27 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/books/international-booker-prize-shortlist-tokarczuk.html">Women Dominate Shortlist for International Booker Prize</a> NYT: Novels by Olga Tokarczuk, Mieko Kawakami and Claudia Piñeiro are in the running for the prestigious award for translated fiction. 
- <p class="updated_time"> 04:41 AM CT, Apr. 07 </p> 
+ <p class="updated_time"> 04:53 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/yemens-president-cedes-power-amid-international-efforts-to-end-civil-war-11649330454">Yemen’s President Cedes Power Amid International Efforts to End Civil War</a> WSJ: Yemen’s President Cedes Power Amid International Efforts to End Civil War 
  <p class="updated_time"> 04:35 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/finland-russia-art-sanctions.html">Finland Seizes Artwork Suspected of Violating E.U. Sanctions on Russia</a> NYT: The art was being transported back to Russia after being featured in exhibitions in Italy and Japan, the Finnish customs service said. 
@@ -57,10 +57,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/europe/covid-second-booster-europe.html">European Health Agencies Say it Is ‘Too Early’ for Second Boosters for Most People</a> NYT: Additional boosters can be given to people 80 and older, who are at higher risk of severe illness if infected with the coronavirus, the agencies said. 
  <p class="updated_time"> 03:57 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091383280/ukraine-seeks-arms-from-nato-as-u-s-and-allies-seek-new-penalties-for-russia">Ukraine seeks more arms as U.S. and allies consider new penalties for Russia</a> NPR: NATO foreign ministers meet Thursday as part of a larger effort by the U.S., its allies and Ukraine to bolster Ukrainian defenses, and impose new penalties on Russia for invading its neighbor. 
+ <p class="updated_time"> 03:53 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/jamal-khashoggi-murder-trial-is-halted-in-turkey-11649321377">Jamal Khashoggi Murder Trial Is Halted in Turkey</a> WSJ: Jamal Khashoggi Murder Trial Is Halted in Turkey 
  <p class="updated_time"> 03:44 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091383475/turkey-khashoggi-trial-saudi-arabia">Turkish court rules that Khashoggi trial should be transferred to Saudi Arabia</a> NPR: The ruling comes as human rights groups warn that turning the case of the killing of Washington Post columnist Jamal Khashoggi over to the Kingdom would lead to a cover up. 
- <p class="updated_time"> 03:41 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/jamal-khashoggi-murder-trial-is-halted-in-turkey-11649321377">Jamal Khashoggi Murder Trial Is Halted in Turkey</a> WSJ: Jamal Khashoggi Murder Trial Is Halted in Turkey 
  <p class="updated_time"> 03:34 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/us-ukraine-switchblade-drones.html">Pentagon Trains Ukrainian Soldiers to Use Armed Drones</a> NYT: The United States is sending Switchblade drones to Ukraine, and has been teaching a group of Ukrainian soldiers who are in America on an educational assignment how to use them. 
  <p class="updated_time"> 03:29 AM CT, Apr. 07 </p> 
@@ -199,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/05/world/europe/ukraine-refugee-war-return.html">Some Ukrainian Refugees Are Returning Home, Despite the Risks</a> NYT: A growing number of families, convinced the war could last for years, have decided that facing danger at home is better than life as a refugee. 
  <p class="updated_time"> 01:13 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/science/nuclear-weapon-russia-satellite-tracking.html">How America Watches for a Nuclear Strike</a> NYT: Hundreds of satellites and spacecraft are keeping an eye on Russia’s nuclear forces from above. So far, they haven’t seen much to worry about. 
- <p class="updated_time"> 12:35 PM CT, Apr. 05 </p> 
- <a href="https://www.nytimes.com/2022/04/05/world/europe/charles-darwin-notebooks-cambridge-library.html">Stolen Darwin Notebooks, Missing for Decades, Are Returned</a> NYT: The two notebooks were anonymously returned to the Cambridge University Library 22 years after they went missing. A note addressed to the librarian read: “Happy Easter.” 
 
 
 </details>
@@ -208,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:44 AM CT, Apr. 07 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:22 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/chuck-schumer.html">How Chuck Schumer Avoided a Primary Challenge From the Left</a> NYT: Despite months of speculation, no prominent progressive has so far come forward to challenge the Democratic majority leader, who has worked hard to shore up his left flank. 
  <p class="updated_time"> 08:13 AM CT, Apr. 07 </p> 
@@ -306,12 +306,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/us/politics/bob-gibbs-ohio-retire.html">Bob Gibbs, House Republican Facing Primary Challenge in Ohio, Will Retire</a> NYT: The state’s redistricting process had drawn Mr. Gibbs into a primary fight against Max Miller, who served in the Trump White House and was endorsed by the former president. 
  <p class="updated_time"> 01:25 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/russia-ukraine-land-mines.html">New Russian Land Mine Poses Special Risk in Ukraine</a> NYT: The sophisticated POM-3 mine was discovered last week by Ukrainian bomb technicians, as Russia contaminates much of the country with unexploded munitions. 
- <p class="updated_time"> 01:14 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/us/politics/supreme-court-clean-water-act.html">Supreme Court Revives Trump-Era Environmental Regulation</a> NYT: The regulation, which was welcomed by industry groups, limited the role of states in enforcing the Clean Water Act. 
  <p class="updated_time"> 12:00 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/russian-diplomats-expelled.html">Countries Have Expelled 120 Russian Spies During War in Ukraine</a> NYT: Despite the purge of intelligence officers, former officials cautioned that Moscow would have other ways to collect information and that the efforts would have little impact on the war in Ukraine. 
- <p class="updated_time"> 11:54 AM CT, Apr. 06 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:43 AM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/biden-russia-putin-sanctions-00023429">Perma-sanctions: Biden under pressure to punish Russia until Putin's gone</a> Politico: In the wake of apparent Russian war crimes in Ukraine, some lawmakers say the sanctions can’t be lifted until the autocrat is out of power. But does that kill Putin’s incentive to withdraw? 
  <p class="updated_time"> 11:18 AM CT, Apr. 06 </p> 
@@ -334,6 +330,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/06/may-governor-primaries-trumps-control-gop-00023197">May governor primaries pose big test for Trump’s control over the GOP</a> Politico: The former president's influence on state politics will be on the ballot next month. 
  <p class="updated_time"> 05:23 PM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/mark-kelly-joe-biden-congress-00023176">Mark Kelly's breaks with Biden pile up</a> Politico: The other Arizona Democrat has started drawing ire from progressives as he distances himself from his own party on border and economic policies. 
+ <p class="updated_time"> 05:00 PM CT, Apr. 05 </p> 
+ <a href="https://www.cnn.com/2022/04/05/politics/obamacare-aca-us-health-care-what-matters/index.html">The moment Americans embraced Obamacare. And why it couldn't pass today</a> CNN: It took a dozen years, but the Affordable Care Act finally feels like a permanent part of American life. 
  <p class="updated_time"> 02:53 PM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/gop-opposition-biden-immigration-policy-covid-deal-00023156">Covid deal hampered by GOP opposition to Biden immigration policy</a> Politico: Republican senators want a vote on a pandemic-era immigration limit before they'll consider moving forward on $10 billion in Covid aid. 
  <p class="updated_time"> 02:35 PM CT, Apr. 05 </p> 
@@ -354,6 +352,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/05/build-back-center-biden-2022-midterms-00022789">Build Back Center: Biden plows a revamped lane for the midterms</a> Politico: As he nears the 2022 stretch run, the president is emphasizing deficit reduction, policing funding and taxing the rich. 
  <p class="updated_time"> 03:30 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/election-conspiracy-theories-green-bay-trump-00022946">How election conspiracy theories turned local politics ‘toxic’ in one Wisconsin city</a> Politico: Green Bay has turned into an example of how Donald Trump's unfounded conspiracy theories about the 2020 election have eroded faith in local government. 
+ <p class="updated_time"> 05:57 PM CT, Apr. 04 </p> 
+ <a href="https://www.cnn.com/2022/04/04/politics/bucha-putin-war-crimes-what-matters/index.html">Ukraine's dilemma: How to negotiate with someone who could be a war criminal</a> CNN: When the war criminal is a world leader, how do you negotiate with him? 
  <p class="updated_time"> 12:13 PM CT, Apr. 04 </p> 
  <a href="https://www.politico.com/news/2022/04/04/senate-strikes-10b-covid-deal-00022729">Senate strikes $10B Covid deal</a> Politico: The agreement leaves out global pandemic aid, a possible hurdle for Democratic support in the House. 
 
