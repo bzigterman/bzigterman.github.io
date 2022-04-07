@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:35 AM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/2022/04/07/world/europe/finland-russia-art-sanctions.html">Finland Seizes Artwork Suspected of Violating E.U. Sanctions on Russia</a> NYT: The art was being transported back to Russia after being featured in exhibitions in Italy and Japan, the Finnish customs service said. 
+ <p class="updated_time"> 04:19 AM CT, Apr. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61023229?at_medium=RSS&at_campaign=KARANGA">Video captures couple driving through South Carolina storm</a> BBC: A tornado formed in front of Stephanie and Marc Cochran as they were driving through South Carolina. 
  <p class="updated_time"> 04:12 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091384676/lawmakers-in-germany-are-weighing-compulsory-covid-shots-for-people-over-60">Lawmakers in Germany are weighing compulsory COVID shots for people over 60</a> NPR: Chancellor Olaf Schmidt said the measure is necessary to prepare for a new rise in cases and a possible new variant later in the year. 
  <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
@@ -18,39 +22,39 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/covid-second-booster-europe.html">European Health Agencies Say it Is ‘Too Early’ for Second Boosters for Most People</a> NYT: Additional boosters can be given to people 80 and older, who are at higher risk of severe illness if infected with the coronavirus, the agencies said. 
  <p class="updated_time"> 03:57 AM CT, Apr. 07 </p> 
- <a href="https://www.npr.org/2022/04/07/1091383280/ukraine-seeks-arms-from-nato-as-u-s-and-allies-seek-new-penalties-for-russia">Ukraine seeks arms from NATO as U.S. and allies seek new penalties for Russia</a> NPR: The diplomatic moves comes as Russia is reportedly moving its troops away from the Ukrainian capital of Kyiv to resupply. 
+ <a href="https://www.npr.org/2022/04/07/1091383280/ukraine-seeks-arms-from-nato-as-u-s-and-allies-seek-new-penalties-for-russia">Ukraine seeks more arms as U.S. and allies consider new penalties for Russia</a> NPR: The diplomatic moves comes as Russia is reportedly moving its troops away from the Ukrainian capital of Kyiv to resupply. 
  <p class="updated_time"> 03:56 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/04/07/world/ukraine-russia-war-news">Live Updates: E.U. Weighs New Penalties, Including a Ban on Russian Coal</a> NYT: The latest sanctions, to be discussed Thursday, would be part of the response to atrocities uncovered outside Kyiv. “Responsibility cannot be avoided,” Ukraine’s president said in his overnight speech. 
  <p class="updated_time"> 03:44 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091383475/turkey-khashoggi-trial-saudi-arabia">Turkish court rules that Khashoggi trial should transfer to Saudi Arabia</a> NPR: The ruling comes as human rights groups warn that turning the case over to the kingdom would lead to a cover up of the killing. 
+ <p class="updated_time"> 03:41 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 03:34 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/us-ukraine-switchblade-drones.html">Pentagon Trains Ukrainian Soldiers to Use Armed Drones</a> NYT: The United States is sending Switchblade drones to Ukraine, and has been teaching a group of Ukrainian soldiers who are in America on an educational assignment how to use them. 
  <p class="updated_time"> 03:29 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/ukraine-eurovision.html">Ukraine’s Eurovision Team Set to Tour to Help War Effort</a> NYT: Kalush Orchestra, a group that mixes rap and traditional Ukrainian music, was given special permission to leave the country and play internationally. 
- <p class="updated_time"> 03:25 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 03:00 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/khashoggi-murder-trial-turkey-saudi-arabia.html">Turkey Transfers Khashoggi Murder Trial to Saudi Arabia</a> NYT: The move will almost certainly end the last trial aimed at serving justice for a heinous crime that caused global outrage. 
  <p class="updated_time"> 02:43 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/americas/venezuela-art-museum.html">A Decaying Art Gem Signifying Venezuela’s Divisions Could Now Help It Heal</a> NYT: Caracas’s Museum of Modern Art, a symbol of a westernized Venezuela, was dismantled by the Socialist governments. Its modest recovery offers hope to the troubled nation. 
+ <p class="updated_time"> 02:41 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 02:33 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61019975?at_medium=RSS&at_campaign=KARANGA">Shanghai: Residents 'running out of food' in Covid lockdown</a> BBC: Some living in China's biggest city say they're struggling to get supplies weeks into lockdown. 
- <p class="updated_time"> 02:25 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
- <p class="updated_time"> 01:25 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-u-s-face-off-boosts-default-risk-11649277297">Russia, U.S. Face-Off Boosts Default Risk</a> WSJ: Russia, U.S. Face-Off Boosts Default Risk 
- <p class="updated_time"> 12:25 AM CT, Apr. 07 </p> 
+ <p class="updated_time"> 01:41 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/we-will-kill-you-how-russia-silenced-its-antiwar-movement-11649237478">‘We Will Kill You’: How Russia Silenced Its Antiwar Movement</a> WSJ: ‘We Will Kill You’: How Russia Silenced Its Antiwar Movement 
+ <p class="updated_time"> 12:41 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/viral-recordings-tap-into-anger-at-shanghais-covid-response-11649243138">Shanghai Doctor Speaks Out Against China’s Covid Policy, Strikes a Nerve With Weary Public</a> WSJ: Shanghai Doctor Speaks Out Against China’s Covid Policy, Strikes a Nerve With Weary Public 
  <p class="updated_time"> 12:21 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/zelensky-ban-russia-oil.html">In Nightly Address, Zelensky Challenged Allies to Ban Russian Oil</a> NYT: He also accused Russian troops of starting to hide evidence of civilian deaths. 
  <p class="updated_time"> 12:01 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61018275?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv's successes do not mean imminent victory</a> BBC: Successes in the fight against Russia don't mean imminent victory for Ukrainians. 
  <p class="updated_time"> 12:00 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-61019241?at_medium=RSS&at_campaign=KARANGA">China lockdowns: Tourism spending plunges over key holiday</a> BBC: Tourism spending over the Qingming festival was more than 30% lower than the same time last year. 
+ <p class="updated_time"> 11:49 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/jamal-khashoggi-murder-trial-is-halted-in-turkey-11649321377">Jamal Khashoggi Murder Trial Is Halted in Turkey</a> WSJ: An Istanbul court halted the Turkish murder trial of Saudi security officials charged with killing journalist Jamal Khashoggi, amid efforts by Ankara to improve relations with the kingdom. 
  <p class="updated_time"> 11:43 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/07/1091379677/crackdown-supporter-hong-kong-leadership">Staunch crackdown supporter says he will run for Hong Kong's top job</a> NPR: John Lee, who has spent most of his civil service career in the police and overseeing security matters, has much less policy-making experience than previous chief executives. 
- <p class="updated_time"> 11:25 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/israels-government-faces-crisis-after-right-wing-lawmaker-quits-11649245710">Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits</a> WSJ: Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits 
  <p class="updated_time"> 11:22 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-kharkiv-death.html">In Ukraine, Traces of Lives Cut Short</a> NYT: The violence of war is often random. Those who suffer most are the civilians caught in the middle. Two recent deaths in Kharkiv, Ukraine, are a testament to that. 
  <p class="updated_time"> 11:22 PM CT, Apr. 06 </p> 
@@ -83,6 +87,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61009456?at_medium=RSS&at_campaign=KARANGA">Bafta Games Awards 2022: 'Plucky underdogs' go up against hit titles</a> BBC: Hit titles go up against games made by four people during the pandemic "because they were bored". 
  <p class="updated_time"> 06:26 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-civilians-moscow-war.html">Civilians Flee Eastern Ukraine as Signs Point to Stepped-Up Russian Attack</a> NYT: Alarmed by reports of atrocities near Kyiv, many residents of Ukraine’s east, now suffering the brunt of Russian force, are getting out while they can. 
+ <p class="updated_time"> 06:10 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-workers-sleep-at-the-office-as-china-extends-covid-19-lockdown-11649244601">Snoring Colleagues, Brushing Teeth With the Boss: Inside Shanghai's Big Office Sleepover</a> WSJ: As China seeks to stamp out outbreaks quickly with flash lockdowns and sweeping restrictions on movements, some companies in Shanghai have asked workers to stay in their offices for days or weeks at a time. 
  <p class="updated_time"> 06:06 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/sport/football/60919445?at_medium=RSS&at_campaign=KARANGA">Helmut Sonneberg: A spellbinder's story of survival, no longer kept secret</a> BBC: Helmut Sonneberg is a Holocaust survivor who for years did not speak of its horrors. His football club encouraged him to bear witness. 
  <p class="updated_time"> 06:04 PM CT, Apr. 06 </p> 
@@ -91,6 +97,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/football/61018432?at_medium=RSS&at_campaign=KARANGA">Qatar World Cup: Security guards made to do 'forced labour' - Amnesty</a> BBC: Security guards in Qatar working on projects that include some linked to the 2022 World Cup have been subjected to conditions "which amount to forced labour," claims Amnesty. 
  <p class="updated_time"> 06:01 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61015050?at_medium=RSS&at_campaign=KARANGA">Ukraine's dream of a Eurovision win</a> BBC: Kalush Orchestra are the bookies’ favourites to win the competition in Turin next month. 
+ <p class="updated_time"> 05:30 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-residents-seek-help-online-as-daily-covid-count-nears-20-000-11649296811">Shanghai Residents Plead for Help Online as Daily Covid-19 Count Grows</a> WSJ: Nearly a week into a lockdown, many have turned to social media to get food, medicine or, if they are taken away for quarantine, advice on pet care. 
  <p class="updated_time"> 05:17 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/americas/machu-picchu-real-name-peru.html">The Site Called ‘Machu Picchu’ Had Another Name First, Researchers Say</a> NYT: For decades, the ancient Incan ruins in Peru have been called Machu Picchu. But the original name was Picchu or Huayna Picchu, according to two researchers. 
  <p class="updated_time"> 05:11 PM CT, Apr. 06 </p> 
@@ -145,8 +153,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/europe/biden-russia-putin-sanctions.html">U.S. Announces Sanctions on Russia’s Largest Banks and Putin’s Adult Children</a> NYT: Sberbank, the largest financial institution in Russia, and Alfa Bank, one of the country’s largest privately owned banks, will face sanctions. 
  <p class="updated_time"> 09:19 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-61007121?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Giving Russia money for energy is 'blood money' - Ukraine PM</a> BBC: Ukraine Prime Minister Denys Shmyhal calls for countries to stop buying Russian for oil and gas. 
- <p class="updated_time"> 08:58 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/former-islamic-state-hostages-testify-to-cruelty-of-british-accented-guards-11649267918">Former Islamic State Hostages Testify to Cruelty of Guards</a> WSJ: Prosecutors are seeking to persuade jurors that one captor was El Shafee Elsheikh, who is on trial for hostage-taking resulting in the deaths of four Americans. 
  <p class="updated_time"> 08:08 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/60739336?at_medium=RSS&at_campaign=KARANGA">The hunt for superyachts of sanctioned Russian oligarchs</a> BBC: Wealthy Russians sanctioned by the US, EU and UK are having to find places they can keep their assets safe. 
  <p class="updated_time"> 08:04 AM CT, Apr. 06 </p> 
@@ -163,8 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/europe/germany-gas-russia-ukraine.html">Germany’s Dependence on Russian Gas Is Difficult to Break</a> NYT: Dangerously dependent on Russian gas, Germany is still refusing to cut off President Putin, whose war it is effectively subsidizing to the tune of some $220 million a day. 
  <p class="updated_time"> 04:00 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/asia/ukraine-south-korea-nuclear-weapons.html">Ukraine War Revives Nuclear Question in South Korea</a> NYT: Seoul abandoned a covert program in the 1970s, but some argue it is time for the country to embrace its nuclear ambitions and safeguard against a Russia-style invasion. 
- <p class="updated_time"> 03:30 AM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/john-lee-former-policeman-poised-to-be-hong-kongs-next-top-official-11649244872">Former Policeman Poised to Be Hong Kong's Next Top Official</a> WSJ: John Lee, currently the city’s No. 2 official, declared his intention to run for the top job, a succession that would signal Beijing plans no letup in its national security crackdown in the city. 
  <p class="updated_time"> 01:27 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/americas/el-salvador-media-gangs.html">New Law in El Salvador Curtails Sharing Gang Information</a> NYT: A measure punishing the sharing of information about gangs is so vague, critics say, that virtually anyone can be arrested for speaking or writing about them, putting journalists in the cross hairs. 
  <p class="updated_time"> 01:04 AM CT, Apr. 06 </p> 
@@ -207,10 +211,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/05/science/nuclear-weapon-russia-satellite-tracking.html">How America Watches for a Nuclear Strike</a> NYT: Hundreds of satellites and spacecraft are keeping an eye on Russia’s nuclear forces from above. So far, they haven’t seen much to worry about. 
  <p class="updated_time"> 12:35 PM CT, Apr. 05 </p> 
  <a href="https://www.nytimes.com/2022/04/05/world/europe/charles-darwin-notebooks-cambridge-library.html">Stolen Darwin Notebooks, Missing for Decades, Are Returned</a> NYT: The two notebooks were anonymously returned to the Cambridge University Library 22 years after they went missing. A note addressed to the librarian read: “Happy Easter.” 
- <p class="updated_time"> 09:08 AM CT, Apr. 05 </p> 
- <a href="https://www.nytimes.com/2022/04/05/world/europe/un-security-council-russia-ukraine.html">Zelensky to Speak at U.N. Security Council Meeting on Russia</a> NYT: Mr. Zelensky was expected to make the case that Russian forces have committed war crimes, as evidence emerges of civilian killings in the suburbs of Kyiv. 
- <p class="updated_time"> 05:04 AM CT, Apr. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-60993659?at_medium=RSS&at_campaign=KARANGA">Rare Sumatran rhino gives birth after eight miscarriages</a> BBC: The critically endangered Sumatran rhino gave birth to a female calf in an Indonesian sanctuary. 
 
 
 </details>
