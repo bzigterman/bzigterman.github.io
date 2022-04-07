@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:13 PM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/2022/04/07/climate/methane-emissions-record.html">Methane Emissions Soared to a Record in 2021, NOAA Says</a> NYT: For the second year in a row, concentrations of the potent planet-warming gas jumped by the largest amount since measurements began four decades ago. 
  <p class="updated_time"> 01:49 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/04/07/world/ukraine-russia-war-news">Ukraine Live Updates: In Congress and at U.N., Votes to Further Isolate Moscow</a> NYT: U.S. lawmakers moved to revoke Russia’s normal trade status and ban its oil and gas, and the United Nations suspended the country from the Human Rights Council. The E.U. is weighing a ban on Russian coal, and NATO is meeting to discuss military aid to Ukraine. 
  <p class="updated_time"> 01:46 PM CT, Apr. 07 </p> 
@@ -16,15 +18,15 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:26 PM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-60993523?at_medium=RSS&at_campaign=KARANGA">Shock result in particle experiment could spark physics revolution</a> BBC: Scientists find a sub-atomic particle's mass is at odds with one a theory underpinning modern physics. 
  <p class="updated_time"> 01:21 PM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East</a> WSJ: Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East 
+ <p class="updated_time"> 01:21 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/eu-russia-sanctions.html">E.U. Diplomats Near New Sanctions Against Russia</a> NYT: As part of the European Union’s proposed measures to punish Moscow, a ban on Russian coal imports would be phased in over four months, instead of three. 
  <p class="updated_time"> 01:18 PM CT, Apr. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61026996?at_medium=RSS&at_campaign=KARANGA">US Senate confirms Ketanji Brown Jackson to Supreme Court</a> BBC: The historic vote means Judge Jackson will be the first black female justice to serve on the court. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61026996?at_medium=RSS&at_campaign=KARANGA">Ketanji Brown Jackson: US Senate votes to confirm judge to top court</a> BBC: The historic vote means Judge Jackson will be the first black female justice to serve on the court. 
  <p class="updated_time"> 01:17 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008288146/bucha-ukraine-russia-atrocities.html">‘Evil Came’: The Toll of Russia’s Occupation in Kyiv’s Suburbs</a> NYT: Land mines, bullet-riddled cars and corpses lying in the street. Residents of Bucha, Borodianka and Hostomel describe the horrors left behind by Russian forces. 
  <p class="updated_time"> 01:13 PM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091444124/un-general-assembly-russia-human-rights-council">U.N. members vote to suspend Russia from the Human Rights Council</a> NPR: China was among those voting against the resolution, saying human rights were being politicized. Ukraine's U.N. ambassador said the case for suspending Russia is "obvious and self-explanatory." 
- <p class="updated_time"> 01:01 PM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East</a> WSJ: Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East 
  <p class="updated_time"> 12:48 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/sabina-nessa-murder-london.html">Killer of Sabina Nessa in London Park Faces Life in Prison  </a> NYT: The murder of a schoolteacher, Sabina Nessa, 28, added to a sense of outrage amid fears the authorities were failing to address violence against women. 
  <p class="updated_time"> 12:46 PM CT, Apr. 07 </p> 
@@ -33,38 +35,36 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/07/1091442035/finland-seizes-russian-artwork-sanctions">Finnish customs seizes millions of dollars' worth of artwork headed to Russia</a> NPR: The paintings and sculptures, some of which are reportedly priceless, had been loaned by Russia to museums in Italy and Japan. Finnish agents detained them at a border crossing over the weekend. 
  <p class="updated_time"> 12:31 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/bucha-killings-russian-communications-intercepted.html">Intercepted Russian Radio Traffic Said to Discuss Killings of Ukranian Civilians</a> NYT: The report adds to evidence of indiscriminate killings by Russian forces. It could not be confirmed whether the radio transmissions collected by German intelligence were from Bucha or another place near the capital, an official said. 
+ <p class="updated_time"> 12:21 PM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/jamal-khashoggi-murder-trial-is-halted-in-turkey-11649321377">Jamal Khashoggi Murder Trial Is Halted in Turkey</a> WSJ: Jamal Khashoggi Murder Trial Is Halted in Turkey 
  <p class="updated_time"> 12:16 PM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091438505/boston-marathon-russia-belarus-ban">Runners who live in Russia and Belarus are banned from this year's Boston Marathon</a> NPR: Organizers also said that Russians and Belarusians who live elsewhere will still be able to run, just not under their countries' flags. The marathon and 5k are planned for the weekend of April 16. 
  <p class="updated_time"> 12:02 PM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60978798?at_medium=RSS&at_campaign=KARANGA">Pakistan court rules Imran Khan no-confidence vote block is illegal</a> BBC: It says a move to block a no-confidence vote was illegal, paving the way for his possible removal. 
- <p class="updated_time"> 12:01 PM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/jamal-khashoggi-murder-trial-is-halted-in-turkey-11649321377">Jamal Khashoggi Murder Trial Is Halted in Turkey</a> WSJ: Jamal Khashoggi Murder Trial Is Halted in Turkey 
  <p class="updated_time"> 11:46 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61028380?at_medium=RSS&at_campaign=KARANGA">Bucha murders: German report says Russian troops discussed killings</a> BBC: Intercepted audio appear to show the Russians talking about shooting town residents, Der Spiegel says. 
- <p class="updated_time"> 11:39 AM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/climate/methane-emissions-record.html">Methane Emissions Soared to a Record in 2021, Scientists Say</a> NYT: For the second year in a row, concentrations of the potent planet-warming gas jumped by the largest amount since measurements began four decades ago. 
  <p class="updated_time"> 11:26 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/asia/pakistan-imran-khan.html">Pakistan’s Supreme Court Blocks Imran Khan’s Move to Stay in Power</a> NYT: The prime minister will now face a no-confidence vote, which he had tried to avoid by dissolving Parliament, a move his opponents called a coup. 
+ <p class="updated_time"> 11:21 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/superyachts-seaside-apartments-and-suitcases-full-of-cash-russians-pour-money-into-turkey-11649323803">Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey</a> WSJ: Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey 
  <p class="updated_time"> 11:07 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/61025388?at_medium=RSS&at_campaign=KARANGA">Video appears to show killing of captive Russian soldier</a> BBC: A video has emerged which purports to show Ukrainian forces shooting a captive Russian soldier. 
  <p class="updated_time"> 11:04 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/france-presidential-election-far-right.html">Even Before France Votes, the French Right Is a Big Winner</a> NYT: The dominance of right-wing ideas in France’s presidential election campaign follows years of cultural wars waged successfully by conservatives on television, in social media and in think tanks. 
  <p class="updated_time"> 11:04 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/article/france-presidential-election-2022.html">France’s Presidential Election 2022: Your Questions, Answered</a> NYT: The French are choosing their president in April, an election that is crucial for France and key for Europe. President Emmanuel Macron is favored to win, but the race has gotten closer. 
- <p class="updated_time"> 11:01 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/superyachts-seaside-apartments-and-suitcases-full-of-cash-russians-pour-money-into-turkey-11649323803">Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey</a> WSJ: Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey 
+ <p class="updated_time"> 10:21 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/belarusians-russians-join-ukraines-military-hoping-for-freedom-at-home-11649325276">Belarusians, Russians Join Ukraine’s Military, Hoping for Freedom at Home</a> WSJ: Belarusians, Russians Join Ukraine’s Military, Hoping for Freedom at Home 
  <p class="updated_time"> 10:19 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-61026912?at_medium=RSS&at_campaign=KARANGA">South America: More than 100 animals released back into Colombian wild</a> BBC: Fifteen species of wildlife are released after being rehabilitated by anti-trafficking authorities. 
- <p class="updated_time"> 10:01 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/belarusians-russians-join-ukraines-military-hoping-for-freedom-at-home-11649325276">Belarusians, Russians Join Ukraine’s Military, Hoping for Freedom at Home</a> WSJ: Belarusians, Russians Join Ukraine’s Military, Hoping for Freedom at Home 
  <p class="updated_time"> 09:36 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/marine-le-pen-french-elections-macron.html">How Marine Le Pen Threatens to Upend French Elections</a> NYT: The far-right presidential candidate has opened up about her personal life and tweaked her policies to gain sympathy and credibility among more mainstream voters. 
  <p class="updated_time"> 09:33 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/khashoggi-murder-trial-turkey-saudi-arabia.html">Turkey Transfers Khashoggi Murder Trial to Saudi Arabia</a> NYT: The move will almost certainly end the last case aimed at serving justice for a heinous crime that drew global outrage. 
+ <p class="updated_time"> 09:21 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-in-lockdown-struggles-to-feed-itself-11649353336">Shanghai, in Lockdown, Struggles to Feed Itself</a> WSJ: Shanghai, in Lockdown, Struggles to Feed Itself 
  <p class="updated_time"> 09:06 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61017352?at_medium=RSS&at_campaign=KARANGA">Russia's war: Do Bucha civilian killings amount to genocide?</a> BBC: There is talk of genocide in Ukraine - but where is the line, and has it been crossed? 
- <p class="updated_time"> 09:01 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/shanghai-in-lockdown-struggles-to-feed-itself-11649353336">Shanghai, in Lockdown, Struggles to Feed Itself</a> WSJ: Shanghai, in Lockdown, Struggles to Feed Itself 
  <p class="updated_time"> 08:37 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/technology/instagram-harassment-women.html">For Prominent Women on Instagram, DMs Can Be a Cesspool of Misogyny</a> NYT: A report on direct messages sent to five women found that “abuse and harmful content is allowed to thrive” on Instagram. The platform’s parent company, Meta, said it disagreed with the report’s conclusions. 
  <p class="updated_time"> 08:17 AM CT, Apr. 07 </p> 
@@ -204,14 +204,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:02 PM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/2022/04/07/us/politics/insurrectionists-congress.html">Legal Effort Expands to Disqualify Republicans as ‘Insurrectionists’</a> NYT: New lawsuits target Representatives Paul Gosar and Andy Biggs, as well as Mark Finchem, a candidate for Arizona secretary of state, claiming they are barred from office under the 14th Amendment. 
  <p class="updated_time"> 01:50 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/for-murkowski-the-decision-to-support-jackson-came-amid-a-fraught-political-campaign.html">For Murkowski, the decision to support Jackson came amid a fraught political campaign.</a> NYT: Facing a primary challenge from the right in Alaska, the moderate Republican had to choose between placating restive conservatives or courting the center. 
  <p class="updated_time"> 01:49 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/black-women-ketanji-brown-jackson.html">For Black Women in Law, Jackson’s Confirmation Is a Source of Pride</a> NYT: Some said the questioning that Judge Ketanji Brown Jackson faced in her confirmation hearings was sobering. 
  <p class="updated_time"> 01:49 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-kamala-harris.html">Kamala Harris Will Preside Over Jackson’s Confirmation, but No Black Women Will Have a Vote</a> NYT: As President Biden’s nominee breaks a barrier on the Supreme Court, the Senate lacks a single Black woman to approve the confirmation. 
- <p class="updated_time"> 01:46 PM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/us/politics/insurrectionists-congress.html">Legal Effort Expands to Disqualify Republicans as ‘Insurrectionists’</a> NYT: New lawsuits target Representatives Paul Gosar and Andy Biggs, as well as Mark Finchem, a candidate for Arizona secretary of state, claiming they are barred from office under the 14th Amendment. 
  <p class="updated_time"> 01:37 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/congressional-black-caucus-ketanji-brown-jackson.html">The Congressional Black Caucus Rallies Behind Ketanji Brown Jackson</a> NYT: The caucus, which began more than 50 years ago, posed for a photograph to celebrate the vote to confirm Judge Ketanji Brown Jackson. 
  <p class="updated_time"> 01:36 PM CT, Apr. 07 </p> 
@@ -220,10 +220,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/business/economy/nlrb-union-amazon-starbucks.html">NLRB Counsel Calls for Ban on Mandatory Anti-Union Meetings</a> NYT: The meetings are a common response by companies like Amazon and Starbucks to union drives among workers. The full labor board will make the decision. 
  <p class="updated_time"> 01:22 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-harvard.html">‘We Belong in These Spaces’: Jackson’s Successors Reflect on Her Nomination</a> NYT: Judge Ketanji Brown Jackson, who was confirmed to the Supreme Court on Thursday, will be the first Black woman to serve as a justice. Here’s what that means to Black women at her alma mater. 
+ <p class="updated_time"> 01:12 PM CT, Apr. 07 </p> 
+ <a href="https://www.politico.com/news/2022/04/07/un-votes-suspend-russia-hrc-00023834">UN votes to suspend Russia from human rights council</a> Politico: "We held the Russians accountable today," U.S. Ambassador to the United Nations Linda Thomas-Greenfield said. 
  <p class="updated_time"> 01:05 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-senate.html">What to Watch For Ahead of Ketanji Brown Jackson’s Confirmation</a> NYT: A final vote looms as Democrats — and a few Republicans — are ready to back Judge Ketanji Brown Jackson’s elevation to the Supreme Court. 
  <p class="updated_time"> 12:59 PM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/senate-covid-aid-border-policy-00023790">Senate punts $10 billion in Covid aid until after Easter amid stalemate over border policy</a> Politico: Democrats had grudgingly settled for a far smaller Covid aid package than they wanted and that federal officials and public health advocates say is needed. 
+ <p class="updated_time"> 12:56 PM CT, Apr. 07 </p> 
+ <a href="https://www.politico.com/news/2022/04/07/ny-attorney-general-seeks-contempt-citation-for-trump-in-document-fight-00023829">NY attorney general seeks contempt citation for Trump in document fight</a> Politico: Letitia James' office has been probing alleged fraud at the Trump Organization for more than three years. 
  <p class="updated_time"> 12:49 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/nancy-pelosi-covid-positive.html">Nancy Pelosi Tests Positive for Coronavirus</a> NYT: The House speaker, 82, was asymptomatic, and had previously been vaccinated and boosted, a spokesman said. 
  <p class="updated_time"> 12:19 PM CT, Apr. 07 </p> 
@@ -232,12 +236,22 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:43 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091431136/justice-department-investigating-trumps-possible-mishandling-of-government-secre">Justice Department is investigating Trump's possible mishandling of government secrets</a> NPR: The investigation, prompted by the discovery of top-secret papers found at Mar-a-Lago, is at an early stage, a source told NPR. 
+ <p class="updated_time"> 11:15 AM CT, Apr. 07 </p> 
+ <a href="https://www.politico.com/news/2022/04/07/senate-ban-russian-oil-trade-00023767">Congress passes bills banning Russian oil, revoking normal trade relations</a> Politico: After weeks of sitting on their hands, lawmakers have sent Biden their first sanctions bill on Moscow. 
  <p class="updated_time"> 10:56 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/senate-vote-russia-trade-ban.html">Senate Votes to Suspend Normal Trade Relations With Moscow and Ban Russian Gas and Oil</a> NYT: Expected House passage would make the bills the first stand-alone legislation to be sent to President Biden to punish Moscow since Russia invaded Ukraine. 
+ <p class="updated_time"> 10:50 AM CT, Apr. 07 </p> 
+ <a href="https://www.politico.com/news/2022/04/07/labor-official-employer-captive-audience-meetings-00023754">A top federal labor official declares war on employer 'captive audience' meetings</a> Politico: NLRB General Counsel Jennifer Abruzzo called the meetings "inherently coercive" during union organizing efforts. 
+ <p class="updated_time"> 10:20 AM CT, Apr. 07 </p> 
+ <a href="https://www.politico.com/news/2022/04/07/d-c-mayor-bowser-tests-positive-for-covid-00023756">D.C. Mayor Bowser tests positive for Covid</a> Politico: Bowser is among the latest to test positive as the virus slams D.C.’s elite. 
+ <p class="updated_time"> 10:10 AM CT, Apr. 07 </p> 
+ <a href="https://www.politico.com/news/2022/04/07/trump-secret-service-capitol-riot-00023737">Trump says Secret Service blocked him from joining Jan. 6 march to the Capitol</a> Politico: The “Secret Service said I couldn’t go. I would have gone there in a minute," the former president said. 
  <p class="updated_time"> 10:05 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1066212755/speaker-nancy-pelosi-has-tested-positive-for-covid">Speaker Nancy Pelosi has tested positive for COVID</a> NPR: House Speaker Nancy Pelosi, 82, has been vaccinated against COVID-19 and received a booster shot. She's the highest-profile U.S. official to contract the virus since former President Donald Trump. 
  <p class="updated_time"> 09:39 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/washington-covid-garland-raimondo.html">Coronavirus Cases Among Boldface Names Have Washington Feeling Uneasy</a> NYT: A spate of positive coronavirus tests among top officials is a reminder that, even amid an attempt to pivot away from strict restrictions, the pandemic is not over. 
+ <p class="updated_time"> 09:34 AM CT, Apr. 07 </p> 
+ <a href="https://www.politico.com/news/2022/04/07/u-s-moves-to-ground-aeroflot-two-other-russian-airlines-00023724">U.S. moves to ground Aeroflot, two other Russian airlines</a> Politico: The Commerce Department took its first enforcement actions under the stringent export controls the Biden administration announced last month in response to Moscow's invasion of Ukraine. 
  <p class="updated_time"> 09:33 AM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/ketanji-brown-jackson-supreme-court-00023732">Ketanji Brown Jackson confirmed as first Black woman on Supreme Court</a> Politico: The Thursday vote marks a historic moment for the high court and a massive victory for President Joe Biden. 
  <p class="updated_time"> 09:06 AM CT, Apr. 07 </p> 
@@ -250,6 +264,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/us/politics/collins-was-first-among-the-republicans-to-back-jackson.html">Collins was first among the Republicans to back Jackson.</a> NYT: The senator from Maine lent support to the nominee when it was uncertain whether she would get any G.O.P. backing at all. 
  <p class="updated_time"> 08:13 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/homeland-security-inspector-general.html">Homeland Security Watchdog Omitted Damaging Findings From Reports</a> NYT: The findings were removed from inspector general investigations of domestic violence and sexual misconduct committed by officers in the department’s law enforcement agencies. 
+ <p class="updated_time"> 08:01 AM CT, Apr. 07 </p> 
+ <a href="https://www.politico.com/news/2022/04/07/whitmer-sues-abortion-law-governors-00023649">Whitmer sues over abortion law as governors prepare for state policy free-for-all</a> Politico: The Supreme Court is expected to roll back or completely reverse Roe v. Wade this summer, kicking abortion policy to the states. 
  <p class="updated_time"> 07:07 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/nyregion/new-york-disabilities-voting-access.html">New York Plans to Make it Easier for Blind People to Vote</a> NYT: In a settlement this week, the state agreed to expand voting access for residents with disabilities such as blindness and paralysis. 
  <p class="updated_time"> 04:05 AM CT, Apr. 07 </p> 
@@ -300,6 +316,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/06/1091241404/house-criminal-contempt-referrals-trump-aides-navarro-scavino">House approves criminal contempt referrals for 2 Trump aides over the Jan. 6 attack</a> NPR: The House voted to hold former Trump White House advisers Dan Scavino Jr. and Peter Navarro in contempt of Congress and refer the matter to the Justice Department for possible prosecution 
  <p class="updated_time"> 05:14 PM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/dems-frontrunner-fetterman-pennsylvania-00023543">D.C. Dems get out of frontrunner Fetterman's way in Pennsylvania</a> Politico: The filibuster-hating, gym-shorts-wearing lieutenant governor got the party's cold shoulder when he ran in 2016. But not this year. 
+ <p class="updated_time"> 02:47 PM CT, Apr. 06 </p> 
+ <a href="https://www.politico.com/news/2022/04/06/judge-nixes-steve-bannon-top-defense-00023522">Judge nixes key Bannon defense against criminal charges for defying Jan. 6 committee</a> Politico: The ruling said the former Trump adviser's “advice of counsel” defense was not applicable in contempt of Congress cases. 
  <p class="updated_time"> 02:40 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/merrick-garland-covid-positive-test.html">Attorney General Merrick B. Garland Tests Positive for the Coronavirus</a> NYT: A member of Vice President Kamala Harris’s staff also tested positive on Wednesday, a White House statement said. 
  <p class="updated_time"> 10:04 AM CT, Apr. 06 </p> 
@@ -312,16 +330,12 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/04/05/politics/obamacare-aca-us-health-care-what-matters/index.html">The moment Americans embraced Obamacare. And why it couldn't pass today</a> CNN: It took a dozen years, but the Affordable Care Act finally feels like a permanent part of American life. 
  <p class="updated_time"> 02:53 PM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/gop-opposition-biden-immigration-policy-covid-deal-00023156">Covid deal hampered by GOP opposition to Biden immigration policy</a> Politico: Republican senators want a vote on a pandemic-era immigration limit before they'll consider moving forward on $10 billion in Covid aid. 
- <p class="updated_time"> 12:44 PM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/joe-biden-second-crack-gun-official-00023111">Biden to take second crack at filling top gun official role</a> Politico: Months after the president’s first nominee withdrew over lack of support, he is poised to offer another option for the post. 
  <p class="updated_time"> 09:09 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/gop-rep-fred-upton-to-retire-00023009">GOP Rep. Fred Upton to retire</a> Politico: Rep. Fred Upton, one of the longest-tenured Republicans in the House of Representatives, has decided to retire rather than seek reelection in 2022. 
  <p class="updated_time"> 06:59 AM CT, Apr. 05 </p> 
  <a href="https://www.cnn.com/2022/04/05/politics/jackson-confirmation-politicized-supreme-court-analysis/index.html">Jackson's confirmation proceedings show that historically partisan Supreme Court fights are the new normal</a> CNN: The legal stakes around Judge Ketanji Brown Jackson's confirmation may be lower than they have been in the past decade of Supreme Court fights. But that did little to defuse the partisan atmosphere that has now come to define nominations to America's highest bench. 
  <p class="updated_time"> 03:30 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/doug-jones-ketanji-brown-jackson-scotus-00022891">Jackson confirmation battle rejuvenates Doug Jones</a> Politico: The former Democratic senator is guiding the first Black woman tapped for the Supreme Court. His one-time colleagues wonder if there's more to come. 
- <p class="updated_time"> 03:30 AM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/build-back-center-biden-2022-midterms-00022789">Build Back Center: Biden plows a revamped lane for the midterms</a> Politico: As he nears the 2022 stretch run, the president is emphasizing deficit reduction, policing funding and taxing the rich. 
  <p class="updated_time"> 05:57 PM CT, Apr. 04 </p> 
  <a href="https://www.cnn.com/2022/04/04/politics/bucha-putin-war-crimes-what-matters/index.html">Ukraine's dilemma: How to negotiate with someone who could be a war criminal</a> CNN: When the war criminal is a world leader, how do you negotiate with him? 
 
