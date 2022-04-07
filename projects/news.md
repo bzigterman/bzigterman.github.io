@@ -9,22 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:44 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/06/world/ukraine-russia-war-news">Live Updates: Civilians Flee as Battered Russian Forces Bear Down on Eastern Ukraine</a> NYT: Civilians are leaving eastern Ukraine amid warnings of escalating fighting there. The Justice Department charges a Russian oligarch with violating U.S. sanctions, and the Pentagon trains Ukrainian soldiers to use armed drones against Russian forces. 
+ <p class="updated_time"> 09:16 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/world/asia/john-lee-hong-kong.html">John Lee, Who Led Crackdown on Hong Kong Protests, May Lead City</a> NYT: John Lee, who spent his career in Hong Kong’s security services, is likely to continue Beijing’s emphasis on political stability above all else. 
+ <p class="updated_time"> 08:49 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 08:43 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61019125?at_medium=RSS&at_campaign=KARANGA">Colombia to extradite drug kingpin Otoniel to US</a> BBC: Otoniel had faced a bounty of $800,000 before his capture by Colombian special forces last October. 
- <p class="updated_time"> 08:36 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/04/06/world/ukraine-russia-war-news">Ukraine Live Updates: Civilians Flee as Battered Russian Forces Bear Down on Eastern Ukraine</a> NYT: Residents are leaving eastern Ukraine amid warnings of escalating fighting there. The Justice Department charges a Russian oligarch with violating U.S. sanctions. 
  <p class="updated_time"> 08:35 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/russia-military-ukraine-war.html">Russia Is Recruiting Mercenaries and Syrians to Ukraine, Western Officials Say</a> NYT: The Kremlin is trying to find enough reinforcements to conduct the next phase of the war, according to military and intelligence officials. 
  <p class="updated_time"> 08:29 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/60920818?at_medium=RSS&at_campaign=KARANGA">Amir Locke: No charges filed in Minneapolis 'no-knock' police shooting</a> BBC: Prosecutors say there is insufficient evidence for criminal charges in fatal shooting of Amir Locke. 
- <p class="updated_time"> 07:50 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
+ <p class="updated_time"> 07:49 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 07:47 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61018959?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Veterans prepare for battle in occupied Luhansk</a> BBC: As Russia redirects its attack towards Luhansk, Ukraine's most experienced troops face encirclement. 
  <p class="updated_time"> 06:54 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/us-ukraine-switchblade-drones.html">Pentagon Trains Ukrainian Soldiers to Use Armed Drones</a> NYT: The United States is sending Switchblade drones to Ukraine, and has been teaching a group of Ukrainian soldiers who are in America on an educational assignment how to use them. 
- <p class="updated_time"> 06:50 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
+ <p class="updated_time"> 06:49 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/russia-u-s-face-off-boosts-default-risk-11649277297">Russia, U.S. Face-Off Boosts Default Risk</a> WSJ: Russia, U.S. Face-Off Boosts Default Risk 
  <p class="updated_time"> 06:33 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/boston-marathon-russia-belarus.html">The Boston Marathon Has Barred Runners from Russia and Belarus</a> NYT: The marathon, one of the world’s top distance races, joins a long list of events from the sports world and beyond that have excluded Russians because of their country’s invasion of Ukraine. 
  <p class="updated_time"> 06:32 PM CT, Apr. 06 </p> 
@@ -41,14 +45,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/us/politics/us-russia-malware-cyberattacks.html">U.S. Says It Secretly Removed Malware Worldwide, Pre-empting Russian Cyberattacks</a> NYT: The operation is the latest effort by the Biden administration to thwart actions by Russia by making them public before Moscow can strike. 
  <p class="updated_time"> 06:01 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61015050?at_medium=RSS&at_campaign=KARANGA">Ukraine's dream of a Eurovision win</a> BBC: Kalush Orchestra are the bookies’ favourites to win the competition in Turin next month. 
- <p class="updated_time"> 05:50 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/russia-u-s-face-off-boosts-default-risk-11649277297">Russia, U.S. Face-Off Boosts Default Risk</a> WSJ: Russia, U.S. Face-Off Boosts Default Risk 
+ <p class="updated_time"> 05:49 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/we-will-kill-you-how-russia-silenced-its-antiwar-movement-11649237478">‘We Will Kill You’: How Russia Silenced Its Antiwar Movement</a> WSJ: ‘We Will Kill You’: How Russia Silenced Its Antiwar Movement 
  <p class="updated_time"> 05:17 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/americas/machu-picchu-real-name-peru.html">The Site Called ‘Machu Picchu’ Had Another Name First, Researchers Say</a> NYT: For decades, the ancient Incan ruins in Peru have been called Machu Picchu. But the original name was Picchu or Huayna Picchu, according to two researchers. 
  <p class="updated_time"> 05:11 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/russia-ukraine-war-casualties.html">More Russians Consider Costs of War in Ukraine as Casualties Mount</a> NYT: Many Russians have been in the dark about their country’s losses. As news of more Russian deaths arrives, the reactions range from anger at the Kremlin to parroting the state’s messaging that blames “Nazis’’ in Ukraine. 
- <p class="updated_time"> 04:50 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/we-will-kill-you-how-russia-silenced-its-antiwar-movement-11649237478">‘We Will Kill You’: How Russia Silenced Its Antiwar Movement</a> WSJ: ‘We Will Kill You’: How Russia Silenced Its Antiwar Movement 
+ <p class="updated_time"> 04:49 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/israels-government-faces-crisis-after-right-wing-lawmaker-quits-11649245710">Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits</a> WSJ: Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits 
  <p class="updated_time"> 04:11 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/africa/burkina-faso-blaise-compaore-thomas-sankara.html">Ex-Leader of Burkina Faso Convicted in Killing of Predecessor</a> NYT: A military tribunal sentenced former President Blaise Compaoré, who is now in exile, to life in prison for his role in the 1987 assassination. 
  <p class="updated_time"> 03:59 PM CT, Apr. 06 </p> 
@@ -61,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/06/1091308707/el-salvadors-president-is-trampling-human-rights-with-major-crackdown-critics-sa">El Salvador's president conducts gang crackdown, prompting human rights concerns</a> NPR: El Salvador's president has responded to gang violence with a sweeping campaign of arrests that raise questions about whether he's violating human rights. 
  <p class="updated_time"> 03:51 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308700/communities-have-formed-among-those-who-have-stayed-in-kyiv-through-russian-atta">Communities have formed among those who have stayed in Kyiv through Russian attacks</a> NPR: Misha Smetana lives in Kyiv, and has stayed there throughout Russian attacks on Ukraine. He tells NPR's Scott Detrow what that's been like, and about the communities forming between people who stayed. 
- <p class="updated_time"> 03:50 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/israels-government-faces-crisis-after-right-wing-lawmaker-quits-11649245710">Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits</a> WSJ: Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits 
  <p class="updated_time"> 03:42 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091308693/blinken-says-u-s-and-europe-are-following-through-on-ukraine-commitments">Blinken says U.S. and Europe are following through on Ukraine commitments</a> NPR: Diplomats are expressing outrage over reports of Russian atrocities in Ukraine. In Brussels and Washington, officials announced more sanctions to step up the pressure on President Vladimir Putin. 
  <p class="updated_time"> 03:34 PM CT, Apr. 06 </p> 
@@ -125,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/former-islamic-state-hostages-testify-to-cruelty-of-british-accented-guards-11649267918">Former Islamic State Hostages Testify to Cruelty of Guards</a> WSJ: Prosecutors are seeking to persuade jurors that one captor was El Shafee Elsheikh, who is on trial for hostage-taking resulting in the deaths of four Americans. 
  <p class="updated_time"> 08:08 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/60739336?at_medium=RSS&at_campaign=KARANGA">The hunt for superyachts of sanctioned Russian oligarchs</a> BBC: Wealthy Russians sanctioned by the US, EU and UK are having to find places they can keep their assets safe. 
- <p class="updated_time"> 08:04 AM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/world/asia/john-lee-hong-kong.html">John Lee, Who Led Crackdown on Hong Kong Protests, May Lead City</a> NYT: John Lee, who spent his career in Hong Kong’s security services, is likely to continue Beijing’s emphasis on political stability above all else. 
  <p class="updated_time"> 08:04 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/france-presidential-election-far-right.html">Even Before France Votes, the French Right Is a Big Winner</a> NYT: The dominance of right-wing ideas in France’s presidential election campaign follows years of cultural wars waged successfully by conservatives on television, in social media and in think tanks. 
  <p class="updated_time"> 07:58 AM CT, Apr. 06 </p> 
@@ -212,20 +212,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:23 PM CT, Apr. 06 </p> 
+ <a href="https://www.politico.com/news/2022/04/06/trump-every-day-2020-election-day-00023662">For Trump, every day remains the 2020 Election Day</a> Politico: The former president can’t stop, won’t stop harping on his loss to Biden. Will it doom his future? 
+ <p class="updated_time"> 09:01 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/us/politics/fda-coronavirus-vaccines-variants.html">F.D.A. Panel Weighs Challenges of Revamping Covid Vaccines for Fall</a> NYT: A meeting of the committee underscored how many uncertainties lie ahead, including whether a vaccine that works better against variants can be ready by fall. 
+ <p class="updated_time"> 08:57 PM CT, Apr. 06 </p> 
+ <a href="https://www.nytimes.com/2022/04/06/us/politics/biden-amazon-workers-labor-unions.html">Biden Appears to Show Support for Amazon Workers Who Voted to Unionize</a> NYT: “By the way, Amazon, here we come. Watch,” the president said. But the White House quickly said his remarks did not mean the government would get formally involved. 
  <p class="updated_time"> 08:35 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/russia-military-ukraine-war.html">Russia Is Recruiting Mercenaries and Syrians to Ukraine, Western Officials Say</a> NYT: The Kremlin is trying to find enough reinforcements to conduct the next phase of the war, according to military and intelligence officials. 
  <p class="updated_time"> 08:33 PM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/judge-recuse-trump-hillary-clinton-00023650">Judge rejects Trump’s demand he step back from suit against Hillary Clinton</a> Politico: Bill Clinton appointee Donald Middlebrooks says he’s never met the Clintons. 
  <p class="updated_time"> 08:33 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/january-6-scavino-navarro-trump.html">House Votes to Find Two Trump Aides in Contempt in Jan. 6 Inquiry</a> NYT: The vote was mostly along party lines to recommend that the Justice Department charge Peter Navarro and Dan Scavino Jr. with criminal contempt of Congress for defying subpoenas. 
- <p class="updated_time"> 08:03 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/us/politics/fda-coronavirus-vaccines-variants.html">F.D.A. Panel Weighs Challenges of Revamping Covid Vaccines for Fall</a> NYT: A meeting of the committee underscored how many uncertainties lie ahead, including whether a vaccine that works better against variants can be ready by fall. 
  <p class="updated_time"> 07:59 PM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/posed-as-agents-homeland-social-security-00023646">Prosecutors: 2 posed as agents, gave gifts to Secret Service officers</a> Politico: The government alleges that the two falsely claimed to work for Homeland Security. 
  <p class="updated_time"> 07:19 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/us/politics/washington-covid-garland-raimondo.html">Coronavirus Cases Among Boldface Names Have Washington Feeling Uneasy</a> NYT: A spate of positive coronavirus tests among top officials is a reminder that, even amid an attempt to pivot away from strict restrictions, the pandemic is not over. 
- <p class="updated_time"> 07:05 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/us/politics/biden-amazon-workers-labor-unions.html">Biden Appears to Show Support for Amazon Workers Who Voted to Unionize</a> NYT: “By the way, Amazon, here we come. Watch,” the president said. But the White House quickly said his remarks did not mean the government would get formally involved. 
  <p class="updated_time"> 06:48 PM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/three-takeaways-covid-vaccine-panel-00023569">3 takeaways ahead of potential fall Covid booster campaign</a> Politico: Panel members agreed that myriad unknowns persist about the coronavirus and how it might evolve. 
  <p class="updated_time"> 06:24 PM CT, Apr. 06 </p> 
@@ -278,8 +280,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/us/politics/merrick-garland-covid-positive-test.html">Attorney General Merrick B. Garland Tests Positive for the Coronavirus</a> NYT: A member of Vice President Kamala Harris’s staff also tested positive on Wednesday, a White House statement said. 
  <p class="updated_time"> 02:03 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091283242/attorney-general-garland-tests-positive-for-covid">Attorney General Garland tests positive for COVID</a> NPR: The 69-year-old cabinet member asked to be tested after learning he may have been exposed to the virus and he is not experiencing symptoms. 
- <p class="updated_time"> 01:55 PM CT, Apr. 06 </p> 
- <a href="https://www.politico.com/news/2022/04/06/eric-adams-nyc-public-safety-crime-00023475">Adams banked his mayoralty on public safety. Crime skyrocketed during his first 100 days in office.</a> Politico: “We are definitely not at the numbers we want. We want to bring down crime,” Adams said during an interview inside his city car Wednesday. 
  <p class="updated_time"> 01:53 PM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/judge-issues-first-outright-acquittal-of-jan-6-riot-defendant-00023493">Judge issues first outright acquittal of Jan. 6 riot defendant</a> Politico: The defendant claimed that he thought police allowed him into an entrance near the Capitol Rotunda. 
  <p class="updated_time"> 01:44 PM CT, Apr. 06 </p> 
