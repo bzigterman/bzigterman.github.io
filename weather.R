@@ -59,8 +59,8 @@ champaign_daily <- fromJSON(champaign_weather_json, flatten = TRUE)$daily%>%
 
 ## historical ----
 url <- "https://api.openweathermap.org/data/2.5/onecall/timemachine"
-today <- as.integer(now())
-yesterday <- as.integer(now()-days(1))
+today <- as.integer(now("UTC"))
+yesterday <- as.integer(now("UTC")-days(1))
 
 champaign_weather_history <-
   GET(url,
