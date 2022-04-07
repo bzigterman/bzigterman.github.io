@@ -9,51 +9,51 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:55 AM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/07/world/ukraine-russia-war-news">Ukraine Live Updates: Western Allies Move to Further Isolate Russia Over Atrocities</a> NYT: Leaders are seeking to increasingly punish Russia and help Ukraine, with the E.U. weighing a ban on Russian coal and NATO meeting to discuss military aid. As the U.N. debated whether to suspend Russia from the Human Rights Council, the Senate was set to vote to strip Moscow of its preferential trade status with the United States. 
+ <p class="updated_time"> 09:49 AM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008288146/bucha-ukraine-russia-atrocities.html">‘Evil Came’: The Toll of Russia’s Occupation in Kyiv’s Suburbs</a> NYT: Land mines, bullet-riddled cars and corpses lying in the street. Residents of Bucha, Borodianka and Hostomel describe the horrors left behind by Russian forces. 
  <p class="updated_time"> 09:38 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/61025388?at_medium=RSS&at_campaign=KARANGA">Video appears to show killing of captive Russian soldier</a> BBC: A video has emerged which purports to show Ukrainian forces shooting a captive Russian soldier. 
  <p class="updated_time"> 09:36 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/marine-le-pen-french-elections-macron.html">How Marine Le Pen Threatens to Upend French Elections</a> NYT: The far-right presidential candidate has opened up about her personal life and tweaked her policies to gain sympathy and credibility among more mainstream voters. 
  <p class="updated_time"> 09:33 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/khashoggi-murder-trial-turkey-saudi-arabia.html">Turkey Transfers Khashoggi Murder Trial to Saudi Arabia</a> NYT: The move will almost certainly end the last case aimed at serving justice for a heinous crime that drew global outrage. 
- <p class="updated_time"> 09:26 AM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008288146/bucha-ukraine-russia-atrocities.html">‘Evil Came’: The Toll of Russia’s Occupation in Kyiv’s Suburbs</a> NYT: Land mines, bullet-riddled cars and corpses lying in the street. Residents of Bucha, Borodianka and Hostomel describe the horrors left behind by Russian forces. 
  <p class="updated_time"> 09:06 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61017352?at_medium=RSS&at_campaign=KARANGA">Russia's war: Do Bucha civilian killings amount to genocide?</a> BBC: There is talk of genocide in Ukraine - but where is the line, and has it been crossed? 
+ <p class="updated_time"> 08:57 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for More Arms, Tougher Sanctions to Fend Off Russia in Donbas</a> WSJ: Ukraine Calls for More Arms, Tougher Sanctions to Fend Off Russia in Donbas 
  <p class="updated_time"> 08:51 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/sabina-nessa-murder-london.html">Killer of Sabina Nessa in London Park Faces Life in Prison  </a> NYT: The murder of a schoolteacher, Sabina Nessa, 28, added to a sense of outrage amid fears the authorities were failing to address violence against women. 
- <p class="updated_time"> 08:44 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for More Arms, Tougher Sanctions to Fend Off Russia in Donbas</a> WSJ: Ukraine Calls for More Arms, Tougher Sanctions to Fend Off Russia in Donbas 
  <p class="updated_time"> 08:37 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/technology/instagram-harassment-women.html">For Prominent Women on Instagram, DMs Can Be a Cesspool of Misogyny</a> NYT: A report on direct messages sent to five women found that “abuse and harmful content is allowed to thrive” on Instagram. The platform’s parent company, Meta, said it disagreed with the report’s conclusions. 
  <p class="updated_time"> 08:17 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/russia-hackers-facebook-disinformation.html">Pro-Russian Hackers Ramp Up Use of Facebook, Its Parent Company Says</a> NYT: Hackers in Russia and Belarus are using Meta’s platform for cyberespionage and disinformation campaigns, executives said. 
  <p class="updated_time"> 08:05 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/61025328?at_medium=RSS&at_campaign=KARANGA">Klitschko: 'I saw tortured and executed civilians in Bucha'</a> BBC: Former world champion boxer, Wladimir Klitschko, tells 5 Live Breakfast about seeing the bodies of civilians in Bucha after Russian forces withdrew. 
- <p class="updated_time"> 07:44 AM CT, Apr. 07 </p> 
+ <p class="updated_time"> 07:57 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/belarusians-russians-join-ukraines-military-hoping-for-freedom-at-home-11649325276">Belarusians, Russians Join Ukraine’s Military, Hoping for Freedom at Home</a> WSJ: Belarusians, Russians Join Ukraine’s Military, Hoping for Freedom at Home 
  <p class="updated_time"> 07:38 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61015960?at_medium=RSS&at_campaign=KARANGA">The Ghana village where deaf couples were outlawed</a> BBC: The Ghanaian village of Adamorobe is unique in that 3% of its total population is deaf. 
- <p class="updated_time"> 07:25 AM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/04/07/world/ukraine-russia-war-news">Ukraine Live Updates: Western Allies Move to Further Isolate Russia Over Atrocities</a> NYT: Leaders are seeking to increasingly punish Russia and help Ukraine, with the E.U. weighing a ban on Russian coal, NATO meeting to discuss military aid and the U.N. voting on expelling Russia from the Human Rights Council. 
  <p class="updated_time"> 07:23 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/article/france-presidential-election-2022.html">France’s Presidential Election 2022: Your Questions, Answered</a> NYT: The French are choosing their president in April, an election that is crucial for France and key for Europe. President Emmanuel Macron is favored to win, but the race has gotten closer. 
  <p class="updated_time"> 07:03 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61020565?at_medium=RSS&at_campaign=KARANGA">Ukraine War: 'Russian soldiers held us as human shields'</a> BBC: Villagers say 150 people were rounded up to protect Russians as the Ukrainian forces advanced. 
+ <p class="updated_time"> 06:57 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/superyachts-seaside-apartments-and-suitcases-full-of-cash-russians-pour-money-into-turkey-11649323803">Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey</a> WSJ: Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey 
  <p class="updated_time"> 06:47 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/yemen-presidential-council.html">Yemen’s President Steps Down, Hands Power to Presidential Council</a> NYT: President Abdu Rabbu Mansour Hadi abdicated days after a two-month cease-fire took effect, signs that his Saudi allies may be looking for a path out of the bloodshed. 
- <p class="updated_time"> 06:44 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/superyachts-seaside-apartments-and-suitcases-full-of-cash-russians-pour-money-into-turkey-11649323803">Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey</a> WSJ: Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey 
  <p class="updated_time"> 06:07 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-61024936?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Families fleeing Mariupol</a> BBC: Families have left their homes in war-torn Mariupol for safety in Zaporizhzhia, eastern Ukraine. 
+ <p class="updated_time"> 05:57 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/yemens-president-cedes-power-amid-international-efforts-to-end-civil-war-11649330454">Yemen’s President Cedes Power Amid International Efforts to End Civil War</a> WSJ: Yemen’s President Cedes Power Amid International Efforts to End Civil War 
  <p class="updated_time"> 05:56 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61020866?at_medium=RSS&at_campaign=KARANGA">Yemen president hands power to council in major shake-up</a> BBC: Abdrabbuh Mansour Hadi tells a new leadership council to negotiate a peace deal with the Houthis. 
  <p class="updated_time"> 05:47 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61020567?at_medium=RSS&at_campaign=KARANGA">Nato: Ukraine asks for 'weapons, weapons, weapons'</a> BBC: Kyiv's foreign minister renews the plea as Nato meets to discuss military aid for Ukraine. 
- <p class="updated_time"> 05:44 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/yemens-president-cedes-power-amid-international-efforts-to-end-civil-war-11649330454">Yemen’s President Cedes Power Amid International Efforts to End Civil War</a> WSJ: Yemen’s President Cedes Power Amid International Efforts to End Civil War 
  <p class="updated_time"> 05:27 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/books/international-booker-prize-shortlist-tokarczuk.html">Women Dominate Shortlist for International Booker Prize</a> NYT: Novels by Olga Tokarczuk, Mieko Kawakami and Claudia Piñeiro are in the running for the prestigious award for translated fiction. 
- <p class="updated_time"> 04:44 AM CT, Apr. 07 </p> 
+ <p class="updated_time"> 04:57 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/jamal-khashoggi-murder-trial-is-halted-in-turkey-11649321377">Jamal Khashoggi Murder Trial Is Halted in Turkey</a> WSJ: Jamal Khashoggi Murder Trial Is Halted in Turkey 
  <p class="updated_time"> 04:35 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/finland-russia-art-sanctions.html">Finland Seizes Artwork Suspected of Violating E.U. Sanctions on Russia</a> NYT: The art was being transported back to Russia after being featured in exhibitions in Italy and Japan, the Finnish customs service said. 
@@ -318,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/06/satellite-russian-war-crimes-00023386">Satellite companies join the hunt for Russian war crimes</a> Politico: The firms that helped document the Russian invasion of Ukraine are now finding imagery of atrocities.  
  <p class="updated_time"> 10:58 AM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/democrats-republicans-oil-industry-gas-prices-00023381">Democrats accuse oil industry of "ripping off" Americans, while GOP blames Biden policies</a> Politico: The hearings are Democrats’ latest attempt to shield themselves from voters' anger over the surge in pump prices to record highs last month after Russia invaded Ukraine. 
- <p class="updated_time"> 10:36 AM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/world/europe/biden-russia-putin-sanctions.html">U.S. Announces Sanctions on Russia’s Largest Banks and Putin’s Adult Children</a> NYT: Sberbank, the largest financial institution in Russia, and Alfa Bank, one of the country’s largest privately owned banks, will face sanctions. 
  <p class="updated_time"> 10:26 AM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/treasury-crackdown-russia-sberbank-00023372">‘Outraged by the atrocities’: U.S. aims new sanctions at Russia</a> Politico: The move freezes all of Sberbank's assets that touch U.S. banks and will prevent Americans from doing business with the institution. 
  <p class="updated_time"> 10:04 AM CT, Apr. 06 </p> 
