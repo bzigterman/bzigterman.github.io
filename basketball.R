@@ -181,7 +181,7 @@ old_standings <- read_csv("data/nba_standings.csv",
                             wins = col_number(),
                             losses = col_number(),
                             win_pct_text = col_character()
-                            ),
+                          ),
                           trim_ws = FALSE
 )
 #old_standings <- as_tibble(2)
@@ -221,7 +221,7 @@ eastern_playoffs_rect <- (if_else(
   5.5))[1]
 
 western_plot <- ggplot(western_standings, aes(x = reorder(team_label, win_pct), 
-                                          y = win_pct)) +
+                                              y = win_pct)) +
   geom_rect(xmin = 9.5, xmax = Inf,
             ymin = -Inf, ymax = Inf,
             fill = "grey85") +
@@ -266,7 +266,7 @@ western_plot
 
 
 eastern_plot <- ggplot(eastern_standings, aes(x = reorder(team_label, -win_pct), 
-                                          y = win_pct)) +
+                                              y = win_pct)) +
   geom_rect(xmin = -Inf, xmax = 6.5,
             ymin = -Inf, ymax = Inf,
             fill = "grey85") +
@@ -357,7 +357,7 @@ western_plot <- ggplot(western_standings, aes(x = reorder(team_label, win_pct),
                          r = 5,
                          b = 0#,
                          #l = 110
-                         ),
+    ),
     panel.grid = element_blank(),
     axis.text = element_blank(),
     legend.position = "bottom",
@@ -405,7 +405,7 @@ eastern_plot <- ggplot(eastern_standings, aes(x = reorder(team_label, -win_pct),
     legend.title = element_blank(),
     plot.background = element_rect(fill = "white", color = "white"),
     plot.margin = margin(t = 0,
-     #                    #r = 90,
+                         #                    #r = 90,
                          b = 0,
                          l = 0),
     panel.grid = element_blank(),
@@ -427,9 +427,9 @@ ggsave("plots/nba_team_rank_mobile.png", bg = "white",
 # conference standings charts ----
 conference_standings_plot <- function(conference) {
   ggplot(conference, aes(x = game_n,
-                     y = net_wins,
-                     color= team,
-                     label = team_label)) +
+                         y = net_wins,
+                         color= team,
+                         label = team_label)) +
     #coord_fixed(xlim = c(0,162)) +
     geom_hline(yintercept = 0,
                color = "grey10",
@@ -543,8 +543,8 @@ nba_standings_table <- nba_standings %>%
 nba_standings_table
 nba_standings_table_html <- as_raw_html(nba_standings_table, inline_css = FALSE)
 better_nba_standings_divs <- gsub("[#][a-z]{10}",
-                              "#nba_standings_table", 
-                              x = nba_standings_table_html)
+                                  "#nba_standings_table", 
+                                  x = nba_standings_table_html)
 better_wild_card_standings_table_html <- gsub("[\"][a-z]{10}",
                                               "\"nba_standings_table",
                                               x = better_nba_standings_divs)
