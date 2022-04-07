@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:56 AM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/07/world/ukraine-russia-war-news">Live Updates: E.U. Weighs New Penalties, Including a Ban on Russian Coal</a> NYT: The latest sanctions, to be discussed Thursday, would be part of the response to atrocities uncovered outside Kyiv. “Responsibility cannot be avoided,” Ukraine’s president said in his overnight speech. 
  <p class="updated_time"> 03:44 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091383475/turkey-khashoggi-trial-saudi-arabia">Turkish court rules that Khashoggi trial should transfer to Saudi Arabia</a> NPR: The ruling comes as human rights groups warn that turning the case over to the kingdom would lead to a cover up of the killing. 
  <p class="updated_time"> 03:34 AM CT, Apr. 07 </p> 
@@ -17,21 +19,23 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/world/europe/ukraine-eurovision.html">Ukraine’s Eurovision Team Set to Tour to Help War Effort</a> NYT: Kalush Orchestra, a group that mixes rap and traditional Ukrainian music, was given special permission to leave the country and play internationally. 
  <p class="updated_time"> 03:00 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/khashoggi-murder-trial-turkey-saudi-arabia.html">Turkey Transfers Khashoggi Murder Trial to Saudi Arabia</a> NYT: The move will almost certainly end the last trial aimed at serving justice for a heinous crime that caused global outrage. 
- <p class="updated_time"> 02:47 AM CT, Apr. 07 </p> 
+ <p class="updated_time"> 02:59 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 02:43 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/americas/venezuela-art-museum.html">A Decaying Art Gem Signifying Venezuela’s Divisions Could Now Help It Heal</a> NYT: Caracas’s Museum of Modern Art, a symbol of a westernized Venezuela, was dismantled by the Socialist governments. Its modest recovery offers hope to the troubled nation. 
- <p class="updated_time"> 01:47 AM CT, Apr. 07 </p> 
+ <p class="updated_time"> 02:33 AM CT, Apr. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61019975?at_medium=RSS&at_campaign=KARANGA">Shanghai: Residents 'running out of food' in Covid lockdown</a> BBC: Some living in China's biggest city say they're struggling to get supplies weeks into lockdown. 
+ <p class="updated_time"> 01:59 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
- <p class="updated_time"> 01:20 AM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/04/07/world/ukraine-russia-war-news">Live Updates: E.U. Weighs New Penalties, Including a Ban on Russian Coal</a> NYT: The latest sanctions, to be discussed Thursday, would be part of the response to atrocities uncovered outside Kyiv. “Responsibility cannot be avoided,” Ukraine’s president said in his overnight speech. 
- <p class="updated_time"> 12:47 AM CT, Apr. 07 </p> 
+ <p class="updated_time"> 12:59 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/russia-u-s-face-off-boosts-default-risk-11649277297">Russia, U.S. Face-Off Boosts Default Risk</a> WSJ: Russia, U.S. Face-Off Boosts Default Risk 
  <p class="updated_time"> 12:21 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/zelensky-ban-russia-oil.html">In Nightly Address, Zelensky Challenged Allies to Ban Russian Oil</a> NYT: He also accused Russian troops of starting to hide evidence of civilian deaths. 
+ <p class="updated_time"> 12:01 AM CT, Apr. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61018275?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv's successes do not mean imminent victory</a> BBC: Successes in the fight against Russia don't mean imminent victory for Ukrainians. 
  <p class="updated_time"> 12:00 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-61019241?at_medium=RSS&at_campaign=KARANGA">China lockdowns: Tourism spending plunges over key holiday</a> BBC: Tourism spending over the Qingming festival was more than 30% lower than the same time last year. 
- <p class="updated_time"> 11:47 PM CT, Apr. 06 </p> 
+ <p class="updated_time"> 11:59 PM CT, Apr. 06 </p> 
  <a href="https://www.wsj.com/articles/we-will-kill-you-how-russia-silenced-its-antiwar-movement-11649237478">‘We Will Kill You’: How Russia Silenced Its Antiwar Movement</a> WSJ: ‘We Will Kill You’: How Russia Silenced Its Antiwar Movement 
  <p class="updated_time"> 11:43 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/07/1091379677/crackdown-supporter-hong-kong-leadership">Staunch crackdown supporter says he will run for Hong Kong's top job</a> NPR: John Lee, who has spent most of his civil service career in the police and overseeing security matters, has much less policy-making experience than previous chief executives. 
@@ -45,10 +49,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/us/politics/russia-military-ukraine-war.html">Russia Is Recruiting Mercenaries and Syrians to Ukraine, Western Officials Say</a> NYT: The Kremlin is trying to find enough reinforcements to conduct the next phase of the war, according to military and intelligence officials. 
  <p class="updated_time"> 11:00 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/ukraine-bucha-makeup-artist.html">A Makeup Artist Recognized This Bucha Victim’s Picture by Her Manicure</a> NYT: The woman, Iryna Filkina, had worked at a heating plant. She had contacted the makeup artist for help being more beautiful and fashionable. 
+ <p class="updated_time"> 10:59 PM CT, Apr. 06 </p> 
+ <a href="https://www.wsj.com/articles/israels-government-faces-crisis-after-right-wing-lawmaker-quits-11649245710">Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits</a> WSJ: Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits 
  <p class="updated_time"> 10:50 PM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60993769?at_medium=RSS&at_campaign=KARANGA">Colombia ex-fighters brew up new lives after giving up guns</a> BBC: More than five years after Colombia's peace deal was signed, efforts to reincorporate ex-rebels continue. 
- <p class="updated_time"> 10:47 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/israels-government-faces-crisis-after-right-wing-lawmaker-quits-11649245710">Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits</a> WSJ: Israel’s Government Faces Crisis After Right-Wing Lawmaker Quits 
  <p class="updated_time"> 10:38 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/japan-border-restriction-covid.html">Japan to Ease Border Restrictions for Some Foreigners, Including Americans</a> NYT: The government issued a notice on Wednesday that would “lift” an entry ban on citizens of 106 nations. But consulates are still rarely issuing visas. 
  <p class="updated_time"> 10:16 PM CT, Apr. 06 </p> 
@@ -121,16 +125,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61011141?at_medium=RSS&at_campaign=KARANGA">Who are Putin's daughters? What we know about his family</a> BBC: The Russian president says he has daughters, but has given little information about them. 
  <p class="updated_time"> 12:00 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/russian-diplomats-expelled.html">Countries Have Expelled 120 Russian Spies During War in Ukraine</a> NYT: Despite the purge of intelligence officers, former officials cautioned that Moscow would have other ways to collect information and that the efforts would have little impact on the war in Ukraine. 
- <p class="updated_time"> 11:52 AM CT, Apr. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61009077?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: Ethnic cleansing documented in western Tigray</a> BBC: "We will erase you from this land," a trader says he was told by Amhara security forces. 
  <p class="updated_time"> 11:38 AM CT, Apr. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61015772?at_medium=RSS&at_campaign=KARANGA">British embassy guard charged with spying for Russia</a> BBC: David Ballantyne Smith, 57, is charged with nine offences under the Official Secrets Act. 
  <p class="updated_time"> 11:14 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/poland-ukrainian-refugees.html">The Powerful Force Guiding Poland’s Welcome to Ukrainians: Fear of Putin</a> NYT: Poland has not been a welcoming place for some refugees. But Ukraine’s cause, in this political moment, has been popular because of a mutual concern about Russia. 
  <p class="updated_time"> 11:12 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/putin-russia-assets-wealth-sanctions.html">Why Tracking Putin’s Wealth Is So Difficult</a> NYT: Amid speculation that oligarchs are holding cash and luxury assets for the Russian president, many of his extravagances can be traced elsewhere: the Russian state. 
- <p class="updated_time"> 11:08 AM CT, Apr. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61010719?at_medium=RSS&at_campaign=KARANGA">Donbas: Ukraine tells residents in the east to evacuate</a> BBC: Thousands are already fleeing the region, which is Russia's next target after failing in the north. 
  <p class="updated_time"> 11:00 AM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/06/1091229634/nations-set-new-sanctions-against-russia-after-civilian-atrocities-in-ukraine">Nations set new sanctions against Russia after civilian atrocities in Ukraine</a> NPR: The U.S., the European Union and other partners are announcing new sanctions against Russia in response to the civilian deaths revealed in Ukraine this week. 
  <p class="updated_time"> 10:37 AM CT, Apr. 06 </p> 
