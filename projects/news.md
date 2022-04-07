@@ -11,6 +11,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 04:35 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/finland-russia-art-sanctions.html">Finland Seizes Artwork Suspected of Violating E.U. Sanctions on Russia</a> NYT: The art was being transported back to Russia after being featured in exhibitions in Italy and Japan, the Finnish customs service said. 
+ <p class="updated_time"> 04:28 AM CT, Apr. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61021185?at_medium=RSS&at_campaign=KARANGA">Khashoggi: Anger as Turkish court halts murder trial</a> BBC: The fiancee of Jamal Khashoggi, killed in the Saudi consulate, says she will fight on "for justice". 
  <p class="updated_time"> 04:19 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61023229?at_medium=RSS&at_campaign=KARANGA">Video captures couple driving through South Carolina storm</a> BBC: A tornado formed in front of Stephanie and Marc Cochran as they were driving through South Carolina. 
  <p class="updated_time"> 04:12 AM CT, Apr. 07 </p> 
@@ -25,34 +27,32 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/07/1091383280/ukraine-seeks-arms-from-nato-as-u-s-and-allies-seek-new-penalties-for-russia">Ukraine seeks more arms as U.S. and allies consider new penalties for Russia</a> NPR: The diplomatic moves comes as Russia is reportedly moving its troops away from the Ukrainian capital of Kyiv to resupply. 
  <p class="updated_time"> 03:56 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/04/07/world/ukraine-russia-war-news">Live Updates: E.U. Weighs New Penalties, Including a Ban on Russian Coal</a> NYT: The latest sanctions, to be discussed Thursday, would be part of the response to atrocities uncovered outside Kyiv. “Responsibility cannot be avoided,” Ukraine’s president said in his overnight speech. 
+ <p class="updated_time"> 03:53 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 03:44 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091383475/turkey-khashoggi-trial-saudi-arabia">Turkish court rules that Khashoggi trial should transfer to Saudi Arabia</a> NPR: The ruling comes as human rights groups warn that turning the case over to the kingdom would lead to a cover up of the killing. 
- <p class="updated_time"> 03:41 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/ukraine-braces-for-intense-battles-in-east-as-russia-refocuses-offensive-11649241280">Ukraine Braces for Intense Battles in Eastern Donbas</a> WSJ: Ukraine Braces for Intense Battles in Eastern Donbas 
  <p class="updated_time"> 03:34 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/us-ukraine-switchblade-drones.html">Pentagon Trains Ukrainian Soldiers to Use Armed Drones</a> NYT: The United States is sending Switchblade drones to Ukraine, and has been teaching a group of Ukrainian soldiers who are in America on an educational assignment how to use them. 
  <p class="updated_time"> 03:29 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/ukraine-eurovision.html">Ukraine’s Eurovision Team Set to Tour to Help War Effort</a> NYT: Kalush Orchestra, a group that mixes rap and traditional Ukrainian music, was given special permission to leave the country and play internationally. 
  <p class="updated_time"> 03:00 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/khashoggi-murder-trial-turkey-saudi-arabia.html">Turkey Transfers Khashoggi Murder Trial to Saudi Arabia</a> NYT: The move will almost certainly end the last trial aimed at serving justice for a heinous crime that caused global outrage. 
+ <p class="updated_time"> 02:53 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 02:43 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/americas/venezuela-art-museum.html">A Decaying Art Gem Signifying Venezuela’s Divisions Could Now Help It Heal</a> NYT: Caracas’s Museum of Modern Art, a symbol of a westernized Venezuela, was dismantled by the Socialist governments. Its modest recovery offers hope to the troubled nation. 
- <p class="updated_time"> 02:41 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/putin-daughters-shroudedin-secrecy-face-sanctions-threat-over-ukraine-invasion-11649244765">Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy</a> WSJ: Putin’s Daughters Face Sanctions but Remain Shrouded in Secrecy 
  <p class="updated_time"> 02:33 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61019975?at_medium=RSS&at_campaign=KARANGA">Shanghai: Residents 'running out of food' in Covid lockdown</a> BBC: Some living in China's biggest city say they're struggling to get supplies weeks into lockdown. 
- <p class="updated_time"> 01:41 AM CT, Apr. 07 </p> 
+ <p class="updated_time"> 01:53 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/we-will-kill-you-how-russia-silenced-its-antiwar-movement-11649237478">‘We Will Kill You’: How Russia Silenced Its Antiwar Movement</a> WSJ: ‘We Will Kill You’: How Russia Silenced Its Antiwar Movement 
- <p class="updated_time"> 12:41 AM CT, Apr. 07 </p> 
+ <p class="updated_time"> 12:53 AM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/viral-recordings-tap-into-anger-at-shanghais-covid-response-11649243138">Shanghai Doctor Speaks Out Against China’s Covid Policy, Strikes a Nerve With Weary Public</a> WSJ: Shanghai Doctor Speaks Out Against China’s Covid Policy, Strikes a Nerve With Weary Public 
+ <p class="updated_time"> 12:46 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/jamal-khashoggi-murder-trial-is-halted-in-turkey-11649321377">Jamal Khashoggi Murder Trial Is Halted in Turkey</a> WSJ: An Istanbul court halted the Turkish murder trial of Saudi security officials charged with killing journalist Jamal Khashoggi, amid efforts by Ankara to improve relations with the kingdom. 
  <p class="updated_time"> 12:21 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/zelensky-ban-russia-oil.html">In Nightly Address, Zelensky Challenged Allies to Ban Russian Oil</a> NYT: He also accused Russian troops of starting to hide evidence of civilian deaths. 
  <p class="updated_time"> 12:01 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61018275?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv's successes do not mean imminent victory</a> BBC: Successes in the fight against Russia don't mean imminent victory for Ukrainians. 
- <p class="updated_time"> 12:00 AM CT, Apr. 07 </p> 
- <a href="https://www.bbc.co.uk/news/business-61019241?at_medium=RSS&at_campaign=KARANGA">China lockdowns: Tourism spending plunges over key holiday</a> BBC: Tourism spending over the Qingming festival was more than 30% lower than the same time last year. 
- <p class="updated_time"> 11:49 PM CT, Apr. 06 </p> 
- <a href="https://www.wsj.com/articles/jamal-khashoggi-murder-trial-is-halted-in-turkey-11649321377">Jamal Khashoggi Murder Trial Is Halted in Turkey</a> WSJ: An Istanbul court halted the Turkish murder trial of Saudi security officials charged with killing journalist Jamal Khashoggi, amid efforts by Ankara to improve relations with the kingdom. 
  <p class="updated_time"> 11:43 PM CT, Apr. 06 </p> 
  <a href="https://www.npr.org/2022/04/07/1091379677/crackdown-supporter-hong-kong-leadership">Staunch crackdown supporter says he will run for Hong Kong's top job</a> NPR: John Lee, who has spent most of his civil service career in the police and overseeing security matters, has much less policy-making experience than previous chief executives. 
  <p class="updated_time"> 11:22 PM CT, Apr. 06 </p> 
@@ -141,8 +141,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61011141?at_medium=RSS&at_campaign=KARANGA">Who are Putin's daughters? What we know about his family</a> BBC: The Russian president says he has daughters, but has given little information about them. 
  <p class="updated_time"> 12:00 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/russian-diplomats-expelled.html">Countries Have Expelled 120 Russian Spies During War in Ukraine</a> NYT: Despite the purge of intelligence officers, former officials cautioned that Moscow would have other ways to collect information and that the efforts would have little impact on the war in Ukraine. 
- <p class="updated_time"> 11:38 AM CT, Apr. 06 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61015772?at_medium=RSS&at_campaign=KARANGA">British embassy guard charged with spying for Russia</a> BBC: David Ballantyne Smith, 57, is charged with nine offences under the Official Secrets Act. 
  <p class="updated_time"> 11:14 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/poland-ukrainian-refugees.html">The Powerful Force Guiding Poland’s Welcome to Ukrainians: Fear of Putin</a> NYT: Poland has not been a welcoming place for some refugees. But Ukraine’s cause, in this political moment, has been popular because of a mutual concern about Russia. 
  <p class="updated_time"> 11:12 AM CT, Apr. 06 </p> 
@@ -242,6 +240,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/books/kearns-goodwin-archive-ut-austin.html">U.T. Austin Acquires Archives That Give Insight Into the 1960s</a> NYT: The papers of Richard Goodwin, a speechwriter to John F. Kennedy and Lyndon B. Johnson, and his wife Doris Kearns Goodwin, a presidential historian, shed light on decision-making at crucial moments in American history. 
  <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/homeland-security-inspector-general.html">Homeland Security Watchdog Omitted Damaging Findings From Reports</a> NYT: The findings were removed from inspector general investigations of domestic violence and sexual misconduct committed by officers in the department’s law enforcement agencies. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 07 </p> 
+ <a href="https://www.politico.com/news/2022/04/07/north-carolina-house-donald-trump-00023643">Local conservatives revolt against Trump House favorite</a> Politico: The former president endorsed a 26-year-old who lives hours away from the congressional district he's running in. 
  <p class="updated_time"> 02:00 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-senate.html">What to Watch For Ahead of Ketanji Brown Jackson’s Confirmation</a> NYT: Two final votes loom as Democrats — and a few Republicans — are ready to back Judge Ketanji Brown Jackson’s elevation to the Supreme Court. 
  <p class="updated_time"> 11:56 PM CT, Apr. 06 </p> 
@@ -338,8 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/06/commerce-secretary-positive-covid-19-00023348">Elite D.C. appears to be getting pummeled with Covid</a> Politico: There's been lots of buzz in recent days about people being infected after attending the Gridiron Club dinner and a few other events. 
  <p class="updated_time"> 08:52 AM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/bob-gibbs-to-retire-00023352">Ohio Republican Bob Gibbs to retire amid redistricting chaos</a> Politico: He faced a primary challenge from Max Miller, a Trump-endorsed candidate. 
- <p class="updated_time"> 04:00 AM CT, Apr. 06 </p> 
- <a href="https://www.politico.com/news/2022/04/06/pierre-poilievre-canada-pm-experts-00023297">Decoding the freedom-loving firebrand who wants to be Canada's next PM</a> Politico: Pierre Poilievre is the front-runner in the Conservative leadership race. He’s on the stump touting his drain-the-swamp bona fides. We asked experts to decipher. 
  <p class="updated_time"> 03:31 AM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/moderate-democrats-midterms-00023228">Dem moderates get choosy in midterm recruits as GOP headwinds grow</a> Politico: After getting walloped in 2020 and now facing a flurry of departures, the party's House centrists are hunkering down to focus on ground game. 
  <p class="updated_time"> 03:30 AM CT, Apr. 06 </p> 
