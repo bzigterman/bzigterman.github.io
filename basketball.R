@@ -504,6 +504,9 @@ nba_standings_table <- nba_standings %>%
   arrange(conference,desc(win_pct)) %>%
   gt() %>%
   gt_theme_espn() %>%
+  row_group_order(
+    groups = c("Western", "Eastern")
+  ) %>%
   gt_plt_winloss(outcomes, max_wins = 10,
                  type = "pill",
                  width = 15) %>%
@@ -516,9 +519,6 @@ nba_standings_table <- nba_standings %>%
       )
     }
   ) %>%
- # row_group_order(
-#    groups = c("Western", "Eastern")
- # ) %>%
   cols_hide(columns = c(win_pct)) %>%
   cols_align(
     align = c("right"),
