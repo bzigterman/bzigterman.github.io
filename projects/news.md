@@ -9,28 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:19 AM CT, Apr. 08 </p> 
+ <a href="https://www.nytimes.com/2022/04/08/business/lockdowns-in-china-block-truck-shipments-and-close-factories.html">Lockdowns in China Block Truck Shipments and Close Factories</a> NYT: China’s Covid lockdowns and restrictions are holding up truck drivers who carry crucial components among factories and bring products to ports, posing a new disruption to the global supply chain. 
+ <p class="updated_time"> 01:10 AM CT, Apr. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61021186?at_medium=RSS&at_campaign=KARANGA">Israel: Palestinian gunman killed after deadly attack at Tel Aviv bar</a> BBC: He was found after a huge manhunt following an attack on a bar which killed two people, police say. 
+ <p class="updated_time"> 12:34 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East</a> WSJ: Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East 
  <p class="updated_time"> 12:00 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/israel-tel-aviv-shooting.html">Gunman in Tel Aviv Bar Attack Is Shot and Killed</a> NYT: The gunman initially escaped after his attack outside a busy bar at the heart of Israel’s most cosmopolitan city. After a nightlong search, police forces said they killed the gunman in a shootout near a mosque in Jaffa. 
- <p class="updated_time"> 12:00 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East</a> WSJ: Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East 
  <p class="updated_time"> 11:44 PM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61033173?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Kremlin spokesman Peskov admits 'significant' Russian losses</a> BBC: Kremlin spokesman Dmitry Peskov called the Russian casualty rate a "huge tragedy" for the country. 
- <p class="updated_time"> 11:00 PM CT, Apr. 07 </p> 
+ <p class="updated_time"> 11:34 PM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/russian-invasion-war-crimes-horrors-of-ukraines-bucha-laid-bare-on-yablunska-street-11649365202">Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street</a> WSJ: Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street 
  <p class="updated_time"> 10:43 PM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60978798?at_medium=RSS&at_campaign=KARANGA">Imran Khan: Pakistan court rules no-confidence vote block is illegal</a> BBC: A court ruled his move to block an earlier vote was illegal, paving the way for his possible removal. 
- <p class="updated_time"> 10:00 PM CT, Apr. 07 </p> 
+ <p class="updated_time"> 10:34 PM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/shooting-in-tel-aviv-leaves-six-people-in-serious-condition-11649358191">Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks</a> WSJ: Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks 
  <p class="updated_time"> 09:41 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/pink-floyd-ukraine.html">Pink Floyd Says It Will Release New Track to Support Ukraine</a> NYT: The song, “Hey Hey Rise Up,” is a reworking of a protest song from World War I and features the Ukrainian rock star Andriy Khlyvnyuk of the band Boombox. 
- <p class="updated_time"> 09:00 PM CT, Apr. 07 </p> 
+ <p class="updated_time"> 09:34 PM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/pakistani-prime-minister-faces-ouster-after-court-setback-11649363600">Pakistani Prime Minister Faces Ouster After Court Setback</a> WSJ: Pakistani Prime Minister Faces Ouster After Court Setback 
  <p class="updated_time"> 08:49 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/bucha-killings-russian-communications-intercepted.html">Intercepted Russian Radio Traffic Said to Discuss Killings of Ukranian Civilians</a> NYT: The report adds to evidence of indiscriminate killings by Russian forces. It could not be confirmed whether the radio transmissions collected by German intelligence were from Bucha or another place near the capital, an official said. 
  <p class="updated_time"> 08:34 PM CT, Apr. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61029655?at_medium=RSS&at_campaign=KARANGA">French election: Far-right Le Pen closes in on Macron ahead of vote</a> BBC: Emmanuel Macron is now looking over his shoulder before the first round of the presidential race. 
- <p class="updated_time"> 08:00 PM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/shanghai-in-lockdown-struggles-to-feed-itself-11649353336">Shanghai, in Lockdown, Struggles to Feed Itself</a> WSJ: Shanghai, in Lockdown, Struggles to Feed Itself 
+ <p class="updated_time"> 08:34 PM CT, Apr. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61029655?at_medium=RSS&at_campaign=KARANGA">French election: Far-right Le Pen closes in on Macron ahead of vote</a> BBC: Emmanuel Macron is now looking over his shoulder before the first round of the presidential race. 
  <p class="updated_time"> 07:41 PM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61020025?at_medium=RSS&at_campaign=KARANGA">Meat ban: India isn't vegetarian but who'll tell the right-wing?</a> BBC: The country's varied and complex cuisine celebrates meat just as much as vegetables. 
  <p class="updated_time"> 07:34 PM CT, Apr. 07 </p> 
@@ -39,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/07/1091538631/pink-floyd-ukraine-new-song-boombox-andriy">How (members of) Pink Floyd reunited to record a song for Ukraine</a> NPR: Pink Floyd's "Hey Hey Rise Up" features vocals by Boombox singer Andriy Khlyvnyuk; it's the band's first new original music since 1994's "Division Bell." 
  <p class="updated_time"> 07:12 PM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091090565/feng-franklin-tao-china-initiative-university-of-kansas">A jury finds a Kansas scholar guilty of fraud and hiding ties to China</a> NPR: The jury also found Feng "Franklin" Tao not guilty of four related counts in the case, which spurred by the Trump Justice Department's controversial "China Initiative" effort. 
- <p class="updated_time"> 06:57 PM CT, Apr. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61021186?at_medium=RSS&at_campaign=KARANGA">Israel: Two killed, several wounded in Tel Aviv shooting</a> BBC: Security forces are hunting for at least one gunman and police have told people to stay indoors. 
  <p class="updated_time"> 06:40 PM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-60984182?at_medium=RSS&at_campaign=KARANGA">'I want my film to show that queer South Asians are thriving'</a> BBC: Queer Parivaar explores love, sexuality and gender identity among South Asian families. 
  <p class="updated_time"> 06:02 PM CT, Apr. 07 </p> 
@@ -181,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/world/americas/machu-picchu-real-name-peru.html">The Site Called ‘Machu Picchu’ Had Another Name First, Researchers Say</a> NYT: For decades, the ancient Incan ruins in Peru have been called Machu Picchu. But the original name was Picchu or Huayna Picchu, according to two researchers. 
  <p class="updated_time"> 05:11 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/russia-ukraine-war-casualties.html">More Russians Consider Costs of War in Ukraine as Casualties Mount</a> NYT: Many Russians have been in the dark about their country’s losses. As news of more Russian deaths arrives, the reactions range from anger at the Kremlin to parroting the state’s messaging that blames “Nazis’’ in Ukraine. 
- <p class="updated_time"> 04:11 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/world/africa/burkina-faso-blaise-compaore-thomas-sankara.html">Ex-Leader of Burkina Faso Convicted in Killing of Predecessor</a> NYT: A military tribunal sentenced former President Blaise Compaoré, who is now in exile, to life in prison for his role in the 1987 assassination. 
  <p class="updated_time"> 02:40 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/nato-ukraine-russia.html">NATO Nations Divided As Ukraine War Enters Uncertain Stage</a> NYT: The alliance is examining what Ukraine needs as it tries to expel Russia from the east and how to ensure an outcome that enhances European security. 
  <p class="updated_time"> 02:29 PM CT, Apr. 06 </p> 
@@ -202,6 +202,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:28 AM CT, Apr. 08 </p> 
+ <a href="https://www.npr.org/2022/04/08/1091559454/kentucky-governor-beshear-transgender-women-sports-students-college-veto">Kentucky governor halts bill that would ban transgender students from women's sports </a> NPR: For Kentucky students wanting to participate in sports, their sex would be determined by the sex printed on their birth certificate and an affidavit from a doctor ascertaining that information. 
  <p class="updated_time"> 10:36 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/biden-vaccine-mandate-ruling.html">Biden’s Vaccine Mandate for Federal Workers Is Upheld By Appeals Court</a> NYT: The ruling Thursday reversed a decision that had blocked the White House from requiring federal workers to be vaccinated. 
  <p class="updated_time"> 10:02 PM CT, Apr. 07 </p> 
@@ -316,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/07/1091382705/the-student-loan-pause-has-been-extended-until-the-end-of-august">The student loan pause has been extended until the end of August</a> NPR: NPR's Leila Fadel talks to Mike Pierce of the Student Borrower Protection Center, about plans to extend the student loan payment pause and a reset for roughly 7 million borrowers who are in default. 
  <p class="updated_time"> 04:05 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091382691/what-do-midterm-races-in-idaho-tell-us-about-the-republican-party">What do midterm races in Idaho tell us about the Republican Party?</a> NPR: One of the most intense battlegrounds between Republican moderates and extremists is in Idaho, where next month's primary is seen as a national test for how far to the right the GOP can be pulled. 
- <p class="updated_time"> 04:05 AM CT, Apr. 07 </p> 
- <a href="https://www.npr.org/2022/04/07/1091382684/oil-executives-defend-against-accusations-of-price-gouging-at-house-panel-hearin">Oil executives defend against accusations of price gouging at House panel hearing</a> NPR: Profits are rising for oil companies. NPR's Steve Inskeep talks to Democratic Rep. Lori Trahan of Massachusetts about accusations that those firms are price gouging and profiting from the Ukraine war. 
  <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/books/kearns-goodwin-archive-ut-austin.html">U.T. Austin Acquires Archives That Give Insight Into the 1960s</a> NYT: The papers of Richard Goodwin, a speechwriter to John F. Kennedy and Lyndon B. Johnson, and his wife Doris Kearns Goodwin, a presidential historian, shed light on decision-making at crucial moments in American history. 
  <p class="updated_time"> 03:30 AM CT, Apr. 07 </p> 
