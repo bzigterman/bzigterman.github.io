@@ -415,7 +415,8 @@ standings_table <- division_standings %>%
   cols_hide(columns = c(win_pct, league,last_ten, net_wins,
                         division_magic_number,
                         division_elimination_number,
-                        division_place)) %>%
+                        division_place, 
+                        division_magic_or_eliminated)) %>% # hide this until new playoffs figured out
   cols_align(
     align = c("right"),
     columns = c(last_ten,win_pct_text, logo_url, outcomes,
@@ -727,7 +728,8 @@ wild_card_table <- mlb_standings_magic %>%
       )
     }
   ) %>%
-  cols_hide(columns = c(win_pct)) %>%
+  cols_hide(columns = c(win_pct,
+                        division_or_elim)) %>% #hide until figure out new playoffs
   cols_align(
     align = c("right"),
     columns = c(win_pct_text, wc_games_behind, logo_url, outcomes, division_or_elim)
