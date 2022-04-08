@@ -455,13 +455,41 @@ usa_owid_vaccines <- rio::import(usa_owid_vaccines_url, format = "csv") %>%
   fill(people_fully_vaccinated_per_hundred, .direction = "down")
 
 
+
+cdc_usa_data_url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=us_trend_by_USA"
+cdc_usa_data <- rio::import(cdc_usa_data_url, format = "json")$us_trend_by_Geography
+cdc_new_deaths <- cdc_usa_data %>%
+  select(date,seven_day_avg_new_deaths) %>%
+  mutate(date = mdy(date)) %>%
+  mutate(avg_new_deaths = seven_day_avg_new_deaths) %>%
+  select(date,avg_new_deaths)
+
+cdc_new_cases <- cdc_usa_data %>%
+  select(date,seven_day_avg_new_cases) %>%
+  mutate(date = mdy(date)) %>%
+  mutate(avg_new_cases = seven_day_avg_new_cases) %>%
+  select(date,avg_new_cases)
+
+cdc_hosp <- cdc_usa_data %>%
+  select(date,sum_inpatient_beds_used_covid_7DayAvg) %>%
+  mutate(date = mdy(date)) %>%
+  mutate(hosp_patients = sum_inpatient_beds_used_covid_7DayAvg) %>%
+  select(date,hosp_patients)
+
+cdc_vax <- cdc_usa_data %>%
+  select(date,Administered_7_Day_Rolling_Average) %>%
+  mutate(date = mdy(date)) %>%
+  mutate(daily_vaccinations = Administered_7_Day_Rolling_Average) %>%
+  select(date,daily_vaccinations)
+
+
 ### set variables ----
 usa_hosp <- format(round(signif(tail(owid_hosp$hosp_patients,1),3)),big.mark=",")
 usa_avg_new_deaths <- format(round(signif(tail(usa_jhu_new_deaths$avg_new_deaths,1),3)),big.mark=",")
 usa_avg_new_cases <- format(round(signif(tail(usa_jhu_new_cases$avg_new_cases,1),3)),big.mark=",")
 usa_pct_fully_vaccinated <- round(tail(usa_owid_vaccines$people_fully_vaccinated_per_hundred,1), digits = 1)
 usa_avg_new_vaccine_doses <- format(signif(tail(usa_owid_vaccines$daily_vaccinations,1),3),big.mark=",")
-usa_weekday <- wday(tail(usa_jhu_new_cases$date,1), label = TRUE, abbr = FALSE)
+usa_weekday <- wday(tail(cdc_new_cases$date,1), label = TRUE, abbr = FALSE)
 usa_month_ago_avg_new_deaths <- format(round(signif(tail(lag(usa_jhu_new_deaths$avg_new_deaths, 14),1),3)),big.mark=",")
 usa_month_ago_hosp <- format(round(signif(tail(lag(owid_hosp$hosp_patients,13),1),3)),big.mark=",")
 usa_month_ago_cases <- format(round(signif(tail(lag(usa_jhu_new_cases$avg_new_cases, 14),1),3)),big.mark=",")
@@ -501,17 +529,19 @@ usa_hosp_pct_change_text <-
 
 
 ### table ----
-usa_combined <- full_join(usa_jhu_new_cases,owid_hosp) %>%
-  full_join(usa_jhu_new_deaths) %>%
-  full_join(usa_owid_vaccines) %>%
+usa_combined <- full_join(cdc_new_cases,cdc_hosp) %>%
+  full_join(cdc_new_deaths) %>%
+  full_join(cdc_vax) %>%
   select(date,hosp_patients, avg_new_deaths, avg_new_cases,
-         people_fully_vaccinated,daily_vaccinations,
-         people_fully_vaccinated_per_hundred) %>%
+         #people_fully_vaccinated,
+         #people_fully_vaccinated_per_hundred,
+         daily_vaccinations
+         ) %>%
   fill(hosp_patients, .direction = "down") 
-usa_combined$people_fully_vaccinated <- as.numeric(usa_combined$people_fully_vaccinated)
+#usa_combined$people_fully_vaccinated <- as.numeric(usa_combined$people_fully_vaccinated)
 
-usa_combined <- usa_combined %>%
-  fill(people_fully_vaccinated, .direction = "down")
+#usa_combined <- usa_combined %>%
+#  fill(people_fully_vaccinated, .direction = "down")
 
 usa_combined_longer <- usa_combined %>%
   pivot_longer(!date,
@@ -523,8 +553,8 @@ usa_combined_longer <- usa_combined %>%
     "hosp_patients" = "Hospitalized",
     "avg_new_deaths" = "Deaths",
     "daily_vaccinations" = "New Vaccine Doses",
-    "people_fully_vaccinated" = "Fully Vaccinated",
-    "people_fully_vaccinated_per_hundred" = "Pct. Fully Vaccinated",
+    #"people_fully_vaccinated" = "Fully Vaccinated",
+    #"people_fully_vaccinated_per_hundred" = "Pct. Fully Vaccinated",
     .ordered = TRUE
   )) %>%
   mutate(values = signif(values, 3))
