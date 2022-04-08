@@ -9,14 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:48 PM CT, Apr. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-60978798?at_medium=RSS&at_campaign=KARANGA">Pakistan court rules Imran Khan no-confidence vote block is illegal</a> BBC: It says a move to block a no-confidence vote was illegal, paving the way for his possible removal. 
+ <p class="updated_time"> 07:41 PM CT, Apr. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61020025?at_medium=RSS&at_campaign=KARANGA">Meat ban in Delhi: What the battle to define India as vegetarian misses</a> BBC: India’s varied and complex cuisine celebrates meat just as much as vegetables. 
+ <p class="updated_time"> 07:34 PM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/2022/04/07/world/europe/ukraine-mothers-birth.html">Inside a Maternity Hospital in Ukraine as War Grinds On</a> NYT: As artillery shells fall, pregnant women are delivering prematurely, being shuttled in and out of bomb shelters or having babies in basements without even a midwife to help. Tens of thousands more are displaced. 
+ <p class="updated_time"> 07:27 PM CT, Apr. 07 </p> 
+ <a href="https://www.npr.org/2022/04/07/1091538631/pink-floyd-ukraine-new-song-boombox-andriy">How (members of) Pink Floyd reunited to record a song for Ukraine</a> NPR: Pink Floyd's "Hey Hey Rise Up" features vocals by Boombox singer Andriy Khlyvnyuk; it's the band's first new original music since 1994's "Division Bell." 
+ <p class="updated_time"> 07:12 PM CT, Apr. 07 </p> 
+ <a href="https://www.npr.org/2022/04/07/1091090565/feng-franklin-tao-china-initiative-university-of-kansas">A jury finds a Kansas scholar guilty of fraud and hiding ties to China</a> NPR: The jury also found Feng "Franklin" Tao not guilty of four related counts in the case, which spurred by the Trump Justice Department's controversial "China Initiative" effort. 
+ <p class="updated_time"> 06:57 PM CT, Apr. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61021186?at_medium=RSS&at_campaign=KARANGA">Israel: Two killed, several wounded in Tel Aviv shooting</a> BBC: Security forces are hunting for at least one gunman and police have told people to stay indoors. 
+ <p class="updated_time"> 06:54 PM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East</a> WSJ: Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East 
  <p class="updated_time"> 06:40 PM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-60984182?at_medium=RSS&at_campaign=KARANGA">'I want my film to show that queer South Asians are thriving'</a> BBC: Queer Parivaar explores love, sexuality and gender identity among South Asian families. 
  <p class="updated_time"> 06:02 PM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61025658?at_medium=RSS&at_campaign=KARANGA">French winemakers fan flames to save 2022 crop</a> BBC: Sudden and sharp frosts in France this week are threatening this year's vintage. 
- <p class="updated_time"> 05:53 PM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East</a> WSJ: Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East 
- <p class="updated_time"> 05:52 PM CT, Apr. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61021186?at_medium=RSS&at_campaign=KARANGA">Israel: Two killed, several wounded in Tel Aviv shooting</a> BBC: Security forces are hunting for at least one gunman and police have told people to stay indoors. 
+ <p class="updated_time"> 05:54 PM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/russian-invasion-war-crimes-horrors-of-ukraines-bucha-laid-bare-on-yablunska-street-11649365202">Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street</a> WSJ: Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street 
  <p class="updated_time"> 05:49 PM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091478334/dmitry-muratov-attacked-in-russia">Dmitry Muratov, a Nobel Peace Prize-winning journalist, was attacked in Russia</a> NPR: Muratov, the editor-in-chief of the independent Russian media outlet Novaya Gazeta, was on a train heading from Moscow to Samara when a man threw red paint on him. 
  <p class="updated_time"> 05:28 PM CT, Apr. 07 </p> 
@@ -25,10 +37,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61031583?at_medium=RSS&at_campaign=KARANGA">NY attorney general seeks to hold Donald Trump in contempt of court</a> BBC: New York's top lawyer says Donald Trump has not submitted files to a Trump Organization probe. 
  <p class="updated_time"> 05:22 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/israel-tel-aviv-shooting.html">Tel Aviv Shooting Kills 2, Wounds 8</a> NYT: The shooting occurred outside a busy bar at the heart of Israel’s most cosmopolitan city, at the start of the Israeli weekend. Several hours later, the shooter was still at large. 
- <p class="updated_time"> 04:53 PM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/jamal-khashoggi-murder-trial-is-halted-in-turkey-11649321377">Jamal Khashoggi Murder Trial Is Halted in Turkey</a> WSJ: Jamal Khashoggi Murder Trial Is Halted in Turkey 
- <p class="updated_time"> 04:50 PM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/world/europe/ukraine-mothers-birth.html">Inside a Maternity Hospital in Ukraine as War Grinds On</a> NYT: As artillery shells fall, pregnant women are delivering prematurely, being shuttled in and out of bomb shelters or having babies in basements without even a midwife to help. Tens of thousands more are displaced. 
+ <p class="updated_time"> 04:54 PM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/shooting-in-tel-aviv-leaves-six-people-in-serious-condition-11649358191">Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks</a> WSJ: Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks 
  <p class="updated_time"> 04:37 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/covid-second-booster-europe.html">European Health Agencies: It Is ‘Too Early’ for Most Second Boosters</a> NYT: Additional boosters can be given to people 80 and older, who are at higher risk of severe illness if infected with the coronavirus, the agencies said. 
  <p class="updated_time"> 04:28 PM CT, Apr. 07 </p> 
@@ -37,8 +47,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/07/1091394616/russia-ukraine-war-what-happened-today-april-7">Russia-Ukraine war: What happened today (April 7)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:00 PM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091487903/ukrainian-mayor-describes-being-held-hostage-by-russian-soldiers">Ukrainian mayor describes being held hostage by Russian soldiers</a> NPR: The Mayor of a Ukrainian town who was briefly taken hostage by Russian forces has emerged in France. He talks about what it was like being held by Russian soldiers and why he thinks he was released. 
- <p class="updated_time"> 03:53 PM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/superyachts-seaside-apartments-and-suitcases-full-of-cash-russians-pour-money-into-turkey-11649323803">Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey</a> WSJ: Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey 
+ <p class="updated_time"> 03:54 PM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/pakistani-prime-minister-faces-ouster-after-court-setback-11649363600">Pakistani Prime Minister Faces Ouster After Court Setback</a> WSJ: Pakistani Prime Minister Faces Ouster After Court Setback 
  <p class="updated_time"> 03:52 PM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091487896/are-the-sanctions-on-russia-working">A look at whether the sanctions on Russia are actually working</a> NPR: NPR's Ailsa Chang speaks with Daleep Singh, White House Deputy National Security Adviser for International Economics, about the latest round of sanctions imposed on Russia. 
  <p class="updated_time"> 03:52 PM CT, Apr. 07 </p> 
@@ -61,8 +71,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61029931?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia's Nobel winning editor Muratov doused with paint</a> BBC: It is believed the attack is linked to Dmitry Muratov's stance on the Russia-Ukraine war. 
  <p class="updated_time"> 02:54 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/ned-lamont-covid-positive.html">Ned Lamont, Connecticut Governor, Tests Positive for the Coronavirus</a> NYT: Gov. Ned Lamont said that he will isolate at home for the next five days and not attend any in-person events or meetings. 
- <p class="updated_time"> 02:53 PM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/belarusians-russians-join-ukraines-military-hoping-for-freedom-at-home-11649325276">Belarusians, Russians Join Ukraine’s Military, Hoping for Freedom at Home</a> WSJ: Belarusians, Russians Join Ukraine’s Military, Hoping for Freedom at Home 
+ <p class="updated_time"> 02:54 PM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/jamal-khashoggi-murder-trial-is-halted-in-turkey-11649321377">Jamal Khashoggi Murder Trial Is Halted in Turkey</a> WSJ: Jamal Khashoggi Murder Trial Is Halted in Turkey 
  <p class="updated_time"> 02:52 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/bucha-killings-russian-communications-intercepted.html">Intercepted Russian Radio Traffic Said to Discuss Killings of Ukranian Civilians</a> NYT: The report adds to evidence of indiscriminate killings by Russian forces. It could not be confirmed whether the radio transmissions collected by German intelligence were from Bucha or another place near the capital, an official said. 
  <p class="updated_time"> 02:38 PM CT, Apr. 07 </p> 
@@ -71,14 +81,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61030090?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Sharing space with the dead - horror outside Chernihiv</a> BBC: The BBC visits Yahidne village, where residents packed in a basement lived alongside corpses for days. 
  <p class="updated_time"> 02:13 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/climate/methane-emissions-record.html">Methane Emissions Soared to a Record in 2021, NOAA Says</a> NYT: For the second year in a row, concentrations of the potent planet-warming gas jumped by the largest amount since measurements began four decades ago. 
- <p class="updated_time"> 01:59 PM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/russian-invasion-war-crimes-horrors-of-ukraines-bucha-laid-bare-on-yablunska-street-11649365202">Horrors of Ukraine's Bucha Laid Bare on Yablunska Street</a> WSJ: Russian soldiers were polite at first, but as their losses mounted they turned on the civilian population. 
- <p class="updated_time"> 01:53 PM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/shanghai-in-lockdown-struggles-to-feed-itself-11649353336">Shanghai, in Lockdown, Struggles to Feed Itself</a> WSJ: Shanghai, in Lockdown, Struggles to Feed Itself 
  <p class="updated_time"> 01:46 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/yemen-war-saudi-arabia.html">How the Yemen War Connects to Saudi Arabia and Iran</a> NYT: Yemen was already the Arab world’s poorest country before its civil war began in 2014. Then a Saudi-led coalition joined the fight against the Iran-backed Houthi militia, spreading the ruin. 
- <p class="updated_time"> 01:42 PM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/shooting-in-tel-aviv-leaves-six-people-in-serious-condition-11649358191">Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks</a> WSJ: The attack in Tel Aviv comes after a wave of terrorist incidents in the past few weeks that have put security forces on high alert. 
  <p class="updated_time"> 01:33 PM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/yemens-president-cedes-power-amid-international-efforts-to-end-civil-war-11649330454">Yemen's President Cedes Power Amid International Efforts to End Civil War</a> WSJ: President Abed Rabbo Mansour Hadi also dismissed his controversial vice president before handing over his powers to a leadership council in a Saudi-backed move aimed at reviving negotiations with the Houthi rebels to end the country’s seven-year civil war. 
  <p class="updated_time"> 01:26 PM CT, Apr. 07 </p> 
@@ -97,12 +101,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/07/1091442035/finland-seizes-russian-artwork-sanctions">Finnish customs seizes millions of dollars' worth of artwork headed to Russia</a> NPR: The paintings and sculptures, some of which are reportedly priceless, had been loaned by Russia to museums in Italy and Japan. Finnish agents detained them at a border crossing over the weekend. 
  <p class="updated_time"> 12:16 PM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091438505/boston-marathon-russia-belarus-ban">Runners who live in Russia and Belarus are banned from this year's Boston Marathon</a> NPR: Organizers also said that Russians and Belarusians who live elsewhere will still be able to run, just not under their countries' flags. The marathon and 5k are planned for the weekend of April 16. 
- <p class="updated_time"> 12:02 PM CT, Apr. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60978798?at_medium=RSS&at_campaign=KARANGA">Pakistan court rules Imran Khan no-confidence vote block is illegal</a> BBC: It says a move to block a no-confidence vote was illegal, paving the way for his possible removal. 
+ <p class="updated_time"> 12:16 PM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-in-lockdown-struggles-to-feed-itself-11649353336">Shanghai, in Lockdown, Struggles to Feed Itself</a> WSJ: Food shortages in China’s wealthy coastal megacity are sparking anxiety and desperation for residents as delivery delays continue and stores of vegetables and staples dwindle in a citywide Covid-19 lockdown. 
  <p class="updated_time"> 11:46 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61028380?at_medium=RSS&at_campaign=KARANGA">Bucha murders: German report says Russian troops discussed killings</a> BBC: Intercepted audio appears to show Russians talking about shooting town residents, Der Spiegel says. 
- <p class="updated_time"> 11:33 AM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/pakistani-prime-minister-faces-ouster-after-court-setback-11649363600">Pakistani Prime Minister Faces Ouster After Court Setback</a> WSJ: Imran Khan vows to keep fighting to hold on to office as a no-confidence vote in Parliament looms. 
  <p class="updated_time"> 11:07 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/61025388?at_medium=RSS&at_campaign=KARANGA">Video appears to show killing of captive Russian soldier</a> BBC: A video has emerged which purports to show Ukrainian forces shooting a captive Russian soldier. 
  <p class="updated_time"> 11:04 AM CT, Apr. 07 </p> 
@@ -141,16 +143,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61021185?at_medium=RSS&at_campaign=KARANGA">Khashoggi: Anger as Turkish court halts murder trial</a> BBC: The fiancee of Jamal Khashoggi, killed in the Saudi consulate, says she will fight on "for justice". 
  <p class="updated_time"> 04:19 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61023229?at_medium=RSS&at_campaign=KARANGA">Video captures couple driving through South Carolina storm</a> BBC: A tornado formed in front of Stephanie and Marc Cochran as they were driving through South Carolina. 
- <p class="updated_time"> 04:12 AM CT, Apr. 07 </p> 
- <a href="https://www.npr.org/2022/04/07/1091384676/lawmakers-in-germany-are-weighing-compulsory-covid-shots-for-people-over-60">Lawmakers in Germany are weighing compulsory COVID shots for people over 60</a> NPR: Chancellor Olaf Schmidt said the measure is necessary to prepare for a new rise in cases and a possible new variant later in the year. 
- <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
- <a href="https://www.npr.org/2022/04/07/1091340068/vladimir-putin-daughters-sanctioned-russia-ukraine">Putin's daughters were just sanctioned. Here's what we know about them</a> NPR: Details about Katerina Tikhonova and Maria Vorontsova have long been shrouded in secrecy. The U.S. says Putin's two daughters — one a doctor, the other a tech executive — may be hiding his assets. 
  <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/asia/shanghai-covid-china.html">Shanghai’s Covid Lockdown Poses Test to China’s Leadership </a> NYT: Residents in Shanghai, China’s most populous and cosmopolitan city, have responded to the government’s pursuit of zero Covid with a rare outpouring of criticism. 
  <p class="updated_time"> 03:34 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/us-ukraine-switchblade-drones.html">Pentagon Trains Ukrainian Soldiers to Use Armed Drones</a> NYT: The United States is sending Switchblade drones to Ukraine, and has been teaching a group of Ukrainian soldiers who are in America on an educational assignment how to use them. 
  <p class="updated_time"> 03:29 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/ukraine-eurovision.html">Ukraine’s Eurovision Team Set to Tour to Help War Effort</a> NYT: Kalush Orchestra, a group that mixes rap and traditional Ukrainian music, was given special permission to leave the country and play internationally. 
+ <p class="updated_time"> 12:54 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/belarusians-russians-join-ukraines-military-hoping-for-freedom-at-home-11649325276">Belarusians, Russians Join Ukraine's Military, Hoping for Freedom at Home</a> WSJ: Hundreds of volunteers from Belarus have joined a dedicated Belarusian battalion since the invasion of Ukraine, while a separate unit staffed by Russian citizens is also preparing to deploy to the front lines. 
+ <p class="updated_time"> 12:30 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/superyachts-seaside-apartments-and-suitcases-full-of-cash-russians-pour-money-into-turkey-11649323803">Superyachts and Suitcases Full of Cash: Russians Pour Money Into Turkey</a> WSJ: Western sanctions and capital controls imposed by Moscow have sent Russians looking for havens for their cash and assets, and Turkey is fast becoming a haven for them. 
  <p class="updated_time"> 12:21 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/zelensky-ban-russia-oil.html">In Nightly Address, Zelensky Challenged Allies to Ban Russian Oil</a> NYT: He also accused Russian troops of starting to hide evidence of civilian deaths. 
  <p class="updated_time"> 12:01 AM CT, Apr. 07 </p> 
@@ -189,20 +191,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/06/sports/ping-pong-wally-green.html">‘The Sport of Love’: Ping-Pong, the Great Equalizer</a> NYT: Wally Green has played everywhere from Brooklyn to Pyongyang, becoming a beloved American ambassador for table tennis — and international understanding — in the process. 
  <p class="updated_time"> 02:10 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/vladimir-zhirinovsky-dead.html">Vladimir V. Zhirinovsky Dies at 75; Ultranationalist Russian Politician</a> NYT: His antics kept him at center stage in Russia for three decades, and his once fringe views on imperial expansion had gone mainstream with the invasion of Ukraine. 
- <p class="updated_time"> 12:13 PM CT, Apr. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61011141?at_medium=RSS&at_campaign=KARANGA">Who are Putin's daughters? What we know about his family</a> BBC: The Russian president says he has daughters, but has given little information about them. 
  <p class="updated_time"> 12:00 PM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/russian-diplomats-expelled.html">Countries Have Expelled 120 Russian Spies During War in Ukraine</a> NYT: Despite the purge of intelligence officers, former officials cautioned that Moscow would have other ways to collect information and that the efforts would have little impact on the war in Ukraine. 
  <p class="updated_time"> 11:14 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/poland-ukrainian-refugees.html">The Powerful Force Guiding Poland’s Welcome to Ukrainians: Fear of Putin</a> NYT: Poland has not been a welcoming place for some refugees. But Ukraine’s cause, in this political moment, has been popular because of a mutual concern about Russia. 
  <p class="updated_time"> 10:36 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/biden-russia-putin-sanctions.html">U.S. Announces Sanctions on Russia’s Largest Banks and Putin’s Adult Children</a> NYT: Sberbank, the largest financial institution in Russia, and Alfa Bank, one of the country’s largest privately owned banks, will face sanctions. 
- <p class="updated_time"> 08:08 AM CT, Apr. 06 </p> 
- <a href="https://www.bbc.co.uk/news/60739336?at_medium=RSS&at_campaign=KARANGA">The hunt for superyachts of sanctioned Russian oligarchs</a> BBC: Wealthy Russians sanctioned by the US, EU and UK are having to find places they can keep their assets safe. 
  <p class="updated_time"> 07:58 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/greece-fire-covid-ward.html">Fire at Covid Ward in Greece Kills 1 and Injures at Least 2 </a> NYT: The episode is the latest deadly fire at a hospital ward for coronavirus patients since the pandemic began. 
- <p class="updated_time"> 07:29 AM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/business/india-spinal-muscular-atrophy.html">In India, Parents of Children with Rare Disease Plea for Help Online</a> NYT: India makes many of the world’s drugs, but treatments for rare diseases like spinal muscular atrophy are imported and prohibitively costly. In desperation, parents are raising funds on social media. 
  <p class="updated_time"> 06:13 AM CT, Apr. 06 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/mykolaiv-ukraine-shelling-civilians.html">In Mykolaiv, Residential Areas Are Increasingly Under Threat</a> NYT: Civilian infrastructure and homes in the Black Sea city have increasingly been targeted after weeks of Russian shelling, local officials and soldiers say. 
 
@@ -212,14 +208,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:29 PM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/2022/04/07/nyregion/trump-contempt-letitia-james.html">N.Y. Attorney General Seeks to Hold Trump in Contempt</a> NYT: The attorney general, Letitia James, has been conducting a civil investigation into former President Donald J. Trump’s family business. 
+ <p class="updated_time"> 07:28 PM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/2022/04/07/us/politics/nancy-pelosi-covid-positive.html">Nancy Pelosi Tests Positive for Coronavirus</a> NYT: The House speaker, 82, was asymptomatic, and had previously been vaccinated and boosted, a spokesman said. 
+ <p class="updated_time"> 07:21 PM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/2022/04/07/us/politics/capitol-fox-rabies-kits-euthanized.html">Capitol Fox’s Three Kits Euthanized After Rabies Exposure</a> NYT: The saga of the wild red fox — celebrated as a mascot, then hunted as an aggressive attacker, then killed and found to be rabid — grew darker after her kits were euthanized as well. 
+ <p class="updated_time"> 07:20 PM CT, Apr. 07 </p> 
+ <a href="https://www.nytimes.com/2022/04/07/us/politics/biden-vaccine-mandate-ruling.html">Biden’s Vaccine Mandate for Federal Workers Is Upheld By Appeals Court</a> NYT: The ruling Thursday reversed a decision that had blocked the White House from requiring federal workers to be vaccinated. 
+ <p class="updated_time"> 07:02 PM CT, Apr. 07 </p> 
+ <a href="https://www.politico.com/news/2022/04/07/canada-federal-budget-2022-military-spending-00023951">Canada's plan to boost military spending ‘falls flat’ amid high hopes</a> Politico: The increase doesn't meet NATO's target for its members to spend at least 2 percent of their GDP on defense. 
  <p class="updated_time"> 06:38 PM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/january-6-defendant-gun-rights-restored-00023977">Judge restores Jan. 6 defendant’s gun rights over DOJ objection</a> Politico: Jenny Cudd of Texas had asked that the probation condition be set aside, citing threats she received after publicity about her role in the storming of the Capitol. 
  <p class="updated_time"> 06:32 PM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/ketanji-brown-jackson-supreme-court-impact-00023961">What Justice Ketanji Brown Jackson means for the country</a> Politico: Legal scholars believe she can have a significant impact, even in the minority. 
  <p class="updated_time"> 06:14 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-supreme-court.html">Jackson Confirmed as First Black Woman to Sit on Supreme Court</a> NYT: The vote was a bipartisan rejection of Republican attempts to paint her as a liberal extremist who had coddled criminals. 
- <p class="updated_time"> 06:03 PM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/us/politics/nancy-pelosi-covid-positive.html">Nancy Pelosi Tests Positive for Coronavirus</a> NYT: The House speaker, 82, was asymptomatic, and had previously been vaccinated and boosted, a spokesman said. 
  <p class="updated_time"> 06:00 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/dr-oz-pennsylvania-senate.html">Wawa Stock and $500,000 in Cattle: Dr. Oz’s Senate Bid Reveals His Wealth</a> NYT: One of the leading Republican candidates for Senate in Pennsylvania, Dr. Mehmet Oz has a vast fortune that could help him in the race. 
  <p class="updated_time"> 05:58 PM CT, Apr. 07 </p> 
@@ -240,8 +244,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/us/politics/black-women-ketanji-brown-jackson.html">For Black Women in Law, Jackson’s Confirmation Is a Source of Pride</a> NYT: Some said the questioning that Judge Ketanji Brown Jackson faced in her confirmation hearings was sobering. 
  <p class="updated_time"> 04:20 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-kamala-harris.html">Kamala Harris Presided Over Jackson’s Confirmation, but No Black Women Had a Vote</a> NYT: As President Biden’s nominee breaks a barrier on the Supreme Court, the Senate lacks a single Black woman to approve the confirmation. 
- <p class="updated_time"> 04:14 PM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/us/politics/capitol-fox-rabies-kits-euthanized.html">Capitol Fox’s Three Kits Euthanized After Rabies Exposure</a> NYT: The saga of the wild red fox — celebrated as a mascot, then hunted as an aggressive attacker, then killed and found to be rabid — grew darker after her kits were euthanized as well. 
  <p class="updated_time"> 04:10 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/supreme-court-judge-jackson.html">Judge Jackson Is Now a Justice in Waiting</a> NYT: Her status is the consequence of Justice Stephen G. Breyer’s early and conditional announcement of his retirement. 
  <p class="updated_time"> 04:03 PM CT, Apr. 07 </p> 
@@ -266,8 +268,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/07/1091487819/the-u-s-is-stepping-up-support-for-ukraine-in-its-war-with-russia">The U.S. is stepping up support for Ukraine in its war with Russia</a> NPR: We look at the latest news out of Kyiv, from which Russian troops have pulled out, but the situation remains tense as an assault on eastern Ukraine is anticipated in the coming days. 
  <p class="updated_time"> 03:09 PM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/judge-to-justice-schumer-jackson-confirmation-00023764">From judge to justice in 6 weeks: How Schumer got Jackson confirmed</a> Politico: Jackson’s confirmation came at a good time for Biden and the Senate majority leader, as Democrats face major political headwinds across the board. 
- <p class="updated_time"> 02:48 PM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/nyregion/trump-contempt-letitia-james.html">N.Y. Attorney General Seeks to Hold Trump in Contempt</a> NYT: The attorney general, Letitia James, has been conducting a civil investigation into former President Donald J. Trump’s family business. 
  <p class="updated_time"> 02:47 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/insurrectionists-congress.html">Legal Effort Expands to Disqualify Republicans as ‘Insurrectionists’</a> NYT: New lawsuits target Representatives Paul Gosar and Andy Biggs, as well as Mark Finchem, a candidate for Arizona secretary of state, claiming they are barred from office under the 14th Amendment. 
  <p class="updated_time"> 01:50 PM CT, Apr. 07 </p> 
@@ -294,16 +294,12 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:43 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091431136/justice-department-investigating-trumps-possible-mishandling-of-government-secre">Justice Department is investigating Trump's possible mishandling of government secrets</a> NPR: The investigation, prompted by the discovery of top-secret papers found at Mar-a-Lago, is at an early stage, a source told NPR. 
- <p class="updated_time"> 11:15 AM CT, Apr. 07 </p> 
- <a href="https://www.politico.com/news/2022/04/07/senate-ban-russian-oil-trade-00023767">Congress passes bills banning Russian oil, revoking normal trade relations</a> Politico: After weeks of sitting on their hands, lawmakers have sent Biden their first sanctions bill on Moscow. 
  <p class="updated_time"> 10:50 AM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/labor-official-employer-captive-audience-meetings-00023754">A top federal labor official declares war on employer 'captive audience' meetings</a> Politico: NLRB General Counsel Jennifer Abruzzo called the meetings "inherently coercive" during union organizing efforts. 
  <p class="updated_time"> 10:10 AM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/trump-secret-service-capitol-riot-00023737">Trump says Secret Service blocked him from joining Jan. 6 march to the Capitol</a> Politico: The “Secret Service said I couldn’t go. I would have gone there in a minute," the former president said. 
  <p class="updated_time"> 10:05 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1066212755/speaker-nancy-pelosi-has-tested-positive-for-covid">Speaker Nancy Pelosi has tested positive for COVID</a> NPR: House Speaker Nancy Pelosi, 82, has been vaccinated against COVID-19 and received a booster shot. She's the highest-profile U.S. official to contract the virus since former President Donald Trump. 
- <p class="updated_time"> 09:39 AM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/06/us/politics/washington-covid-garland-raimondo.html">Coronavirus Cases Among Boldface Names Have Washington Feeling Uneasy</a> NYT: A spate of positive coronavirus tests among top officials is a reminder that, even amid an attempt to pivot away from strict restrictions, the pandemic is not over. 
  <p class="updated_time"> 09:34 AM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/u-s-moves-to-ground-aeroflot-two-other-russian-airlines-00023724">U.S. moves to ground Aeroflot, two other Russian airlines</a> Politico: The Commerce Department took its first enforcement actions under the stringent export controls the Biden administration announced last month in response to Moscow's invasion of Ukraine. 
  <p class="updated_time"> 09:33 AM CT, Apr. 07 </p> 
@@ -328,8 +324,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/books/kearns-goodwin-archive-ut-austin.html">U.T. Austin Acquires Archives That Give Insight Into the 1960s</a> NYT: The papers of Richard Goodwin, a speechwriter to John F. Kennedy and Lyndon B. Johnson, and his wife Doris Kearns Goodwin, a presidential historian, shed light on decision-making at crucial moments in American history. 
  <p class="updated_time"> 03:30 AM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/north-carolina-house-donald-trump-00023643">Local conservatives revolt against Trump House favorite</a> Politico: The former president endorsed a 26-year-old who lives hours away from the congressional district he's running in. 
- <p class="updated_time"> 11:09 PM CT, Apr. 06 </p> 
- <a href="https://www.nytimes.com/2022/04/06/us/politics/fda-coronavirus-vaccines-variants.html">F.D.A. Panel Weighs Challenges of Revamping Covid Vaccines for Fall</a> NYT: A meeting of the committee underscored how many uncertainties lie ahead, including whether a vaccine that works better against variants can be ready by fall. 
  <p class="updated_time"> 10:03 PM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/senate-unanimously-approves-lend-lease-00023668">In the fight against Putin, Senate unanimously approves measure that once helped beat Hitler</a> Politico: The Senate revived Lend-Lease, a World War II-era measure that allowed the U.S. to quickly resupply Allies in the fight against Nazi Germany. 
  <p class="updated_time"> 05:14 PM CT, Apr. 06 </p> 
