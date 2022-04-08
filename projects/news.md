@@ -9,50 +9,56 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:52 AM CT, Apr. 08 </p> 
+ <p class="updated_time"> 06:36 AM CT, Apr. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61036740?at_medium=RSS&at_campaign=KARANGA">Kramatorsk: At least 1,000 at railway station when rockets hit - witness</a> BBC: An aid worker says Kramatorsk station was crowded with evacuees at the time of the blasts. 
+ <p class="updated_time"> 06:30 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/04/08/world/ukraine-russia-war-news">Live Updates: At Least 39 Killed in Strike on Train Station, Ukraine Says, as Thousands Flee From East</a> NYT: The station in the eastern city of Kramatorsk had been a main point of evacuation as the region braced for a scaling up of Russia’s offensive. The European Union formally approved a new set of sanctions against Russia, including a ban on coal imports. 
+ <p class="updated_time"> 06:05 AM CT, Apr. 08 </p> 
+ <a href="https://www.npr.org/2022/04/08/1091542359/ukrainian-mom-daughter-writing-back-instagram-war-makoviy">A Ukrainian mom scribbled her contact info on her daughter's back as the war erupted</a> NPR: As bombed rained down on the streets of Kyiv, Aleksandra Makoviy wanted to make sure that her 2-year-old would be safe. The only way to do that was by writing her phone number on the girl's back. 
+ <p class="updated_time"> 06:00 AM CT, Apr. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61035565?at_medium=RSS&at_campaign=KARANGA">'Mariupol is a graveyard': Evacuees recount terror of Russian assault</a> BBC: Survivors from the besieged city say they wondered at times if the rest of Ukraine had fallen. 
  <p class="updated_time"> 05:47 AM CT, Apr. 08 </p> 
- <a href="https://www.npr.org/2022/04/08/1091578830/ukraine-russia-rocket-attack">At least 30 people were killed in a Russian rocket attack on a packed train station </a> NPR: After failing to take Ukraine's capital, Russia has shifted its focus to the Donbas, a region in eastern Ukraine where Moscow-backed rebels have been fighting Ukrainian forces for eight years. 
+ <a href="https://www.npr.org/2022/04/08/1091578830/ukraine-russia-rocket-attack-train-station">About 30 people killed in Russian strike on a packed train station in eastern Ukraine</a> NPR: The head of the Donetsk Regional Military Administration said the station was full of people trying to evacuate when it was allegedly hit by a missile. 
+ <p class="updated_time"> 05:45 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
  <p class="updated_time"> 05:12 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61028654?at_medium=RSS&at_campaign=KARANGA">Sri Lanka fuel crisis: Only God can help us now</a> BBC: Millions are having to endure daily power cuts and queue for hours to get basics like cooking gas and diesel. 
  <p class="updated_time"> 05:01 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/australia/the-electric-car-market-heats-up.html">The Electric Car Market Heats Up</a> NYT: Soaring fuel prices and climate change concerns are driving demand for the vehicles in Australia, as elsewhere. But they are particularly hard to find here. 
  <p class="updated_time"> 04:58 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/kyiv-ukraine-war.html">With Russian Forces Gone, Kyiv Starts to Revive</a> NYT: The anxiety remains, but in Ukraine’s capital, large lines of cars are now forming on highways into the city and businesses are reopening. 
- <p class="updated_time"> 04:57 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East</a> WSJ: Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East 
  <p class="updated_time"> 04:50 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/sabina-nessa-murder-london.html">Killer of Sabina Nessa in London Park Sentenced to Life in Prison  </a> NYT: The murder of a schoolteacher, Sabina Nessa, 28, added to a sense of outrage amid fears the authorities were failing to address violence against women. 
+ <p class="updated_time"> 04:45 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/russian-invasion-war-crimes-horrors-of-ukraines-bucha-laid-bare-on-yablunska-street-11649365202">Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street</a> WSJ: Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street 
  <p class="updated_time"> 04:34 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61021186?at_medium=RSS&at_campaign=KARANGA">Israel: Palestinian gunman killed after deadly attack at Tel Aviv bar</a> BBC: He was found after a huge manhunt following an attack on a bar which killed two people, police say. 
  <p class="updated_time"> 04:15 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/france-presidential-election-macron-economy-le-pen.html">‘La French Tech’ Arrives Under Macron, but Proves No Panacea</a> NYT: The president has brought innovation, jobs and growth. Still, resentments fester on the eve of the presidential election. 
  <p class="updated_time"> 04:05 AM CT, Apr. 08 </p> 
- <a href="https://www.npr.org/2022/04/08/1091569233/russian-sanctions-shipbuilders-diamond-mining">New U.S. sanctions target Russia ship builder, diamond mining company</a> NPR: The U.S. announced another series of sanctions against Russia Thursday, which include the world's largest diamond mining company and a Russian warship manufacturer. 
+ <a href="https://www.npr.org/2022/04/08/1091569233/russian-sanctions-shipbuilders-diamond-mining">New U.S. sanctions target Russia ship builder and diamond mining company</a> NPR: The U.S. announced another series of sanctions against Russia Thursday, which include the world's largest diamond mining company and a Russian warship manufacturer. 
  <p class="updated_time"> 04:00 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/arts/annilese-miskimmon-eno-handmaids-tale.html">For This Opera Director, a Lot Is Riding on a ‘Handmaid’s Tale’</a> NYT: For her English National Opera debut, the company’s new artistic leader, Annilese Miskimmon, has chosen a work she hopes can bring in a new audience. 
  <p class="updated_time"> 04:00 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/americas/mexico-president-recall-election.html">Is Mexico’s Recall Election “Democracy of the Highest Order”?</a> NYT: The vote has the potential to upend the country’s political system. But many fear it will amount to nothing more than a tool for propaganda. 
  <p class="updated_time"> 04:00 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/stanislav-aseyev-ukraine-russia.html">For a Ukrainian Journalist, War Evokes Scars From Captivity</a> NYT: Stanislav Aseyev, a 32-year-old journalist, had documented his abuse in a prison run by Russian-backed separatists. Now, the war reminds him of why Ukrainians are fighting for their lives. 
- <p class="updated_time"> 03:57 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/russian-invasion-war-crimes-horrors-of-ukraines-bucha-laid-bare-on-yablunska-street-11649365202">Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street</a> WSJ: Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street 
+ <p class="updated_time"> 03:45 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201">Ukrainians Search for Relatives in Besieged Mariupol</a> WSJ: Ukrainians Search for Relatives in Besieged Mariupol 
  <p class="updated_time"> 03:13 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/books/international-booker-prize-shortlist-tokarczuk.html">Women Dominate Shortlist for International Booker Prize</a> NYT: Novels by Olga Tokarczuk, Mieko Kawakami and Claudia Piñeiro are in the running for the prestigious award for translated fiction. 
- <p class="updated_time"> 02:57 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/shooting-in-tel-aviv-leaves-six-people-in-serious-condition-11649358191">Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks</a> WSJ: Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks 
+ <p class="updated_time"> 02:45 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-to-open-50-000-bed-makeshift-hospital-as-covid-infections-climb-11649416195">Shanghai to Open 50,000-Bed Makeshift Hospital as Covid Infections Climb</a> WSJ: Shanghai to Open 50,000-Bed Makeshift Hospital as Covid Infections Climb 
  <p class="updated_time"> 02:42 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60978798?at_medium=RSS&at_campaign=KARANGA">Imran Khan: Pakistan court rules no-confidence vote block is illegal</a> BBC: A court ruled a move to block an earlier vote was illegal, paving the way for his possible removal. 
  <p class="updated_time"> 02:20 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/pink-floyd-ukraine.html">Pink Floyd Says It Will Release New Track to Support Ukraine</a> NYT: The song, “Hey Hey Rise Up,” is a reworking of a protest song from World War I and features the Ukrainian rock star Andriy Khlyvnyuk of the band Boombox. 
- <p class="updated_time"> 01:57 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/pakistani-prime-minister-faces-ouster-after-court-setback-11649363600">Pakistani Prime Minister Faces Ouster After Court Setback</a> WSJ: Pakistani Prime Minister Faces Ouster After Court Setback 
  <p class="updated_time"> 01:55 AM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091568039/canada-bans-foreign-home-buyers">Canada's answer to a hot housing market: ban foreign buyers for 2 years</a> NPR: Canada's budget also includes billions for new housing and measures to help Canadians trying to get into the market. 
+ <p class="updated_time"> 01:45 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/shooting-in-tel-aviv-leaves-six-people-in-serious-condition-11649358191">Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks</a> WSJ: Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks 
  <p class="updated_time"> 01:19 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/business/china-lockdowns-supply-chain.html">How Lockdowns in China Have Further Bogged Down the Supply Chain</a> NYT: China’s Covid lockdowns and restrictions are holding up truck drivers who carry crucial components among factories and bring products to ports, posing a new disruption to the global supply chain. 
- <p class="updated_time"> 12:57 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/shanghai-in-lockdown-struggles-to-feed-itself-11649353336">Shanghai, in Lockdown, Struggles to Feed Itself</a> WSJ: Shanghai, in Lockdown, Struggles to Feed Itself 
  <p class="updated_time"> 12:00 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/israel-tel-aviv-shooting.html">Gunman in Tel Aviv Bar Attack Is Shot and Killed</a> NYT: The gunman initially escaped after his attack outside a busy bar at the heart of Israel’s most cosmopolitan city. After a nightlong search, police forces said they killed the gunman in a shootout near a mosque in Jaffa. 
  <p class="updated_time"> 11:44 PM CT, Apr. 07 </p> 
@@ -77,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/07/1091478334/dmitry-muratov-attacked-in-russia">Dmitry Muratov, a Nobel Peace Prize-winning journalist, was attacked in Russia</a> NPR: Muratov, the editor-in-chief of the independent Russian media outlet Novaya Gazeta, was on a train heading from Moscow to Samara when a man threw red paint on him. 
  <p class="updated_time"> 05:28 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/un-human-rights-council-russia.html">U.N. Votes to Suspend Russia From Human Rights Council</a> NYT: The resolution received 93 votes in favor and 24 against, and 58 countries abstained. China and other countries had said before the vote that they would not support the measure. 
- <p class="updated_time"> 05:25 PM CT, Apr. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61031583?at_medium=RSS&at_campaign=KARANGA">NY attorney general seeks to hold Donald Trump in contempt of court</a> BBC: New York's top lawyer says Donald Trump has not submitted files to a Trump Organization probe. 
  <p class="updated_time"> 04:37 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/06/world/europe/covid-second-booster-europe.html">European Health Agencies: It Is ‘Too Early’ for Most Second Boosters</a> NYT: Additional boosters can be given to people 80 and older, who are at higher risk of severe illness if infected with the coronavirus, the agencies said. 
  <p class="updated_time"> 04:28 PM CT, Apr. 07 </p> 
@@ -107,18 +111,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61029931?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia's Nobel winning editor Muratov doused with paint</a> BBC: It is believed the attack is linked to Dmitry Muratov's stance on the Russia-Ukraine war. 
  <p class="updated_time"> 02:54 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/ned-lamont-covid-positive.html">Ned Lamont, Connecticut Governor, Tests Positive for the Coronavirus</a> NYT: Gov. Ned Lamont said that he will isolate at home for the next five days and not attend any in-person events or meetings. 
- <p class="updated_time"> 02:38 PM CT, Apr. 07 </p> 
- <a href="https://www.npr.org/2022/04/07/1091396292/satellite-photo-shows-russian-troops-were-stationed-in-chernobyls-radioactive-zo">Satellite photo shows Russian troops were stationed in Chernobyl's radioactive zone</a> NPR: The satellite image lends credence to the idea that Russia may have exposed its troops to unhealthy levels of radioactivity. 
  <p class="updated_time"> 02:18 PM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61030090?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Sharing space with the dead - horror outside Chernihiv</a> BBC: The BBC visits Yahidne village, where residents packed in a basement lived alongside corpses for days. 
  <p class="updated_time"> 02:13 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/climate/methane-emissions-record.html">Methane Emissions Soared to a Record in 2021, NOAA Says</a> NYT: For the second year in a row, concentrations of the potent planet-warming gas jumped by the largest amount since measurements began four decades ago. 
  <p class="updated_time"> 01:46 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/yemen-war-saudi-arabia.html">How the Yemen War Connects to Saudi Arabia and Iran</a> NYT: Yemen was already the Arab world’s poorest country before its civil war began in 2014. Then a Saudi-led coalition joined the fight against the Iran-backed Houthi militia, spreading the ruin. 
- <p class="updated_time"> 01:33 PM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/yemens-president-cedes-power-amid-international-efforts-to-end-civil-war-11649330454">Yemen's President Cedes Power Amid International Efforts to End Civil War</a> WSJ: President Abed Rabbo Mansour Hadi also dismissed his controversial vice president before handing over his powers to a leadership council in a Saudi-backed move aimed at reviving negotiations with the Houthi rebels to end the country’s seven-year civil war. 
- <p class="updated_time"> 01:26 PM CT, Apr. 07 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-60993523?at_medium=RSS&at_campaign=KARANGA">Shock result in particle experiment could spark physics revolution</a> BBC: Scientists find a sub-atomic particle's mass is at odds with one a theory underpinning modern physics. 
  <p class="updated_time"> 01:21 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/eu-russia-sanctions.html">E.U. Diplomats Near New Sanctions Against Russia</a> NYT: As part of the European Union’s proposed measures to punish Moscow, a ban on Russian coal imports would be phased in over four months, instead of three. 
  <p class="updated_time"> 01:18 PM CT, Apr. 07 </p> 
@@ -127,6 +125,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008288146/bucha-ukraine-russia-atrocities.html">‘Evil Came’: The Toll of Russia’s Occupation in Kyiv’s Suburbs</a> NYT: Land mines, bullet-riddled cars and corpses lying in the street. Residents of Bucha, Borodianka and Hostomel describe the horrors left behind by Russian forces. 
  <p class="updated_time"> 11:46 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61028380?at_medium=RSS&at_campaign=KARANGA">Bucha murders: German report says Russian troops discussed killings</a> BBC: Intercepted audio appears to show Russians talking about shooting town residents, Der Spiegel says. 
+ <p class="updated_time"> 11:33 AM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/pakistani-prime-minister-faces-ouster-after-court-setback-11649363600">Pakistani Prime Minister Faces Ouster After Court Setback</a> WSJ: Imran Khan vows to keep fighting to hold on to office as a no-confidence vote in Parliament looms. 
  <p class="updated_time"> 11:07 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/61025388?at_medium=RSS&at_campaign=KARANGA">Video appears to show killing of captive Russian soldier</a> BBC: A video has emerged which purports to show Ukrainian forces shooting a captive Russian soldier. 
  <p class="updated_time"> 11:04 AM CT, Apr. 07 </p> 
@@ -151,12 +151,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/yemen-presidential-council.html">Yemen’s President Steps Down, Hands Power to Presidential Council</a> NYT: President Abdu Rabbu Mansour Hadi abdicated days after a two-month cease-fire took effect, signs that his Saudi allies may be looking for a path out of the bloodshed. 
  <p class="updated_time"> 06:07 AM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-61024936?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Families fleeing Mariupol</a> BBC: Families have left their homes in war-torn Mariupol for safety in Zaporizhzhia, eastern Ukraine. 
- <p class="updated_time"> 05:56 AM CT, Apr. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61020866?at_medium=RSS&at_campaign=KARANGA">Yemen president hands power to council in major shake-up</a> BBC: Abdrabbuh Mansour Hadi tells a new leadership council to negotiate a peace deal with the Houthis. 
  <p class="updated_time"> 04:35 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/finland-russia-art-sanctions.html">Finland Seizes Artwork Suspected of Violating E.U. Sanctions on Russia</a> NYT: The art was being transported back to Russia after being featured in exhibitions in Italy and Japan, the Finnish customs service said. 
- <p class="updated_time"> 04:28 AM CT, Apr. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61021185?at_medium=RSS&at_campaign=KARANGA">Khashoggi: Anger as Turkish court halts murder trial</a> BBC: The fiancee of Jamal Khashoggi, killed in the Saudi consulate, says she will fight on "for justice". 
  <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/asia/shanghai-covid-china.html">Shanghai’s Covid Lockdown Poses Test to China’s Leadership </a> NYT: Residents in Shanghai, China’s most populous and cosmopolitan city, have responded to the government’s pursuit of zero Covid with a rare outpouring of criticism. 
  <p class="updated_time"> 03:34 AM CT, Apr. 07 </p> 
@@ -202,6 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:00 AM CT, Apr. 08 </p> 
+ <a href="https://www.politico.com/news/2022/04/08/congress-sanction-war-putin-00023966">Congress joins the sanction war on 'vile thug' Putin</a> Politico: After weeks of delay, a powerful bipartisan push to sanction Moscow could also box in the White House's ability to act. 
  <p class="updated_time"> 04:05 AM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091569045/voters-in-michigans-7th-congressional-district-weigh-in-on-issues-ahead-of-midte">Voters in Michigan's 7th Congressional District weigh in on issues ahead of midterms</a> NPR: Democrats aim to balance multiple crises ahead of November's midterm elections. Voters in Livingston County, Mich., share their concerns about inflation and their views of President Biden. 
  <p class="updated_time"> 04:05 AM CT, Apr. 08 </p> 
@@ -209,7 +207,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091435312/idaho-primary-republican-party-politics">Republicans face a test of extremists' power in Idaho's primaries</a> NPR: Moderate Republicans are organizing in opposition to extremists gaining control of the party. 
  <p class="updated_time"> 04:00 AM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/08/us/politics/walden-university-lawsuit.html">Lawsuit Charges Walden University Preyed on Black and Female Students</a> NYT: The suit claims Walden University not only misrepresented the costs and credits required for an advanced degree but also engaged in “reverse redlining” by targeting minority communities. 
+ <a href="https://www.nytimes.com/2022/04/08/us/politics/walden-university-lawsuit.html">Lawsuit Charges For-Profit University Preyed on Black and Female Students</a> NYT: The suit claims Walden University not only misrepresented the costs and credits required for an advanced degree but also engaged in “reverse redlining” by targeting minority communities. 
  <p class="updated_time"> 04:00 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/americas/mexico-president-recall-election.html">Is Mexico’s Recall Election “Democracy of the Highest Order”?</a> NYT: The vote has the potential to upend the country’s political system. But many fear it will amount to nothing more than a tool for propaganda. 
  <p class="updated_time"> 04:00 AM CT, Apr. 08 </p> 
@@ -342,8 +340,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/05/obama-returns-white-house-00023148">Obama returns to White House for first time since leaving office</a> Politico: “Feels like the good old days," President Biden said in welcoming the former president at an event to celebrate the Affordable Care Act. 
  <p class="updated_time"> 12:44 PM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/joe-biden-second-crack-gun-official-00023111">Biden to take second crack at filling top gun official role</a> Politico: Months after the president’s first nominee withdrew over lack of support, he is poised to offer another option for the post. 
- <p class="updated_time"> 12:01 PM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/white-house-to-extend-the-student-loan-moratorium-once-again-00023072">White House to extend  student loan moratorium once again</a> Politico: Officials are considering an extension through the end of August. 
  <p class="updated_time"> 11:00 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/congress-covid-bill-global-again-00023033">Congress could finally pass a Covid bill. They’ll soon have to do it all again.</a> Politico: Public health leaders warn that short-term bursts of cash are creating gaps in preparedness, leaving millions vulnerable to a new Covid surge. 
  <p class="updated_time"> 09:09 AM CT, Apr. 05 </p> 
