@@ -9,12 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:35 PM CT, Apr. 08 </p> 
+ <p class="updated_time"> 04:53 PM CT, Apr. 08 </p> 
+ <a href="https://www.npr.org/2022/04/08/1091801453/1mdb-fund-goldman-sachs-roger-ng-guilty">A former Goldman Sachs banker is found guilty in a plot to loot Malaysia's 1MDB fund</a> NPR: Roger Ng was convicted in a New York federal court of bribery and other corruption charges accusing him of participating in a $4.5 billion scheme to ransack the Malaysian state investment fund. 
+ <p class="updated_time"> 04:51 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/04/08/world/ukraine-russia-war-news">Live Updates: At Least 50 Killed in Strike on Train Station, Ukraine Says, as Thousands Flee From East</a> NYT: The station in the eastern city of Kramatorsk had been a main point of evacuation as the region braced for a scaling up of Russia’s offensive. The European Union formally approved a new set of sanctions against Russia, including a ban on coal imports. 
+ <p class="updated_time"> 04:45 PM CT, Apr. 08 </p> 
+ <a href="https://www.nytimes.com/2022/04/08/world/nybudget-arts-workers.html">Artists and musicians are getting a new source for aid in the New York State budget.</a> NYT: Performers who have been negatively impacted by pandemic regulations will be able to apply for assistance. 
  <p class="updated_time"> 04:14 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/gerda-weissmann-klein-dead.html">Gerda Weissmann Klein, Honored Holocaust Survivor, Dies at 97</a> NYT: Her story was told in an Oscar-winning documentary, and her message of hope and love in the face of overwhelming evil was an inspiration to millions. 
  <p class="updated_time"> 04:01 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091589799/russia-ukraine-war-what-happened-today-april-8">Russia-Ukraine war: What happened today (April 8)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:58 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
  <p class="updated_time"> 03:53 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091769547/french-voters-will-decide-whether-to-give-macron-a-2nd-term-this-weekend">French voters will decide whether to give Macron a 2nd term this weekend</a> NPR: French voters go to the polls this weekend to decide whether to give president Emmanuel Macron a second term. He's in the lead, but far right leader Marine Le Pen is right behind and closing the gap. 
  <p class="updated_time"> 03:52 PM CT, Apr. 08 </p> 
@@ -23,8 +29,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/08/1091769540/a-curfew-in-peru-prompts-backlash-and-questions-over-presidential-leadership">A curfew in Peru prompts backlash — and questions over presidential leadership </a> NPR: NPR's Ailsa Chang speaks with Peru-based journalist Jacqueline Fowks about protests in the country over inflation and President Pedro Castillo's reaction to them. 
  <p class="updated_time"> 03:48 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091769519/russian-troops-left-death-and-destruction-behind-in-borodyanka-ukraine">Russian troops left death and destruction behind in Borodyanka, Ukraine</a> NPR: All week, the world's attention has been focused on the death and destruction that's been discovered in towns north of Kyiv, after Russian forces withdrew. One of those towns: Borodyanka. 
- <p class="updated_time"> 03:46 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
  <p class="updated_time"> 03:43 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted.’</a> NYT: Tanks treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
  <p class="updated_time"> 03:21 PM CT, Apr. 08 </p> 
@@ -47,12 +51,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61047164?at_medium=RSS&at_campaign=KARANGA">Biting 'unruly passengers' hit with largest-ever US fines</a> BBC: Two women are facing steep fines for allegedly biting crew members and passengers on domestic flights. 
  <p class="updated_time"> 03:01 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61047565?at_medium=RSS&at_campaign=KARANGA">First black woman on US Supreme Court: 'We've made it'</a> BBC: Newly confirmed US Supreme Court Justice Ketanji Brown Jackson on her remarkable journey. 
+ <p class="updated_time"> 02:58 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-drives-food-prices-to-record-high-11649440528">Ukraine War Drives Food Prices to Record High</a> WSJ: Ukraine War Drives Food Prices to Record High 
  <p class="updated_time"> 02:51 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60999431?at_medium=RSS&at_campaign=KARANGA">Gretchen Whitmer: Michigan governor kidnap plot case collapses</a> BBC: Jurors acquit two of the defendants and fail to reach a verdict on two others. 
  <p class="updated_time"> 02:47 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/politics/russia-sanctions-effectiveness-adeyemo.html">Treasury Aims for Economic Pain on Russia, but Critics Question Effectiveness</a> NYT: The Treasury Department’s deputy secretary, Wally Adeyemo, has been leading the effort to crack down on evasion and to coordinate with Europe. 
- <p class="updated_time"> 02:46 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-drives-food-prices-to-record-high-11649440528">Ukraine War Drives Food Prices to Record High</a> WSJ: Ukraine War Drives Food Prices to Record High 
  <p class="updated_time"> 02:36 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/americas/dhl-plane-costa-rica.html">A DHL Cargo Plane Breaks in Two Landing at a Costa Rica Airport</a> NYT: No one on board was injured, a spokesman for the delivery company said, adding that it was working with the authorities to remove the plane. 
  <p class="updated_time"> 02:21 PM CT, Apr. 08 </p> 
@@ -65,7 +69,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/08/1091681181/the-academy-bans-will-smith-for-10-years-for-chris-rock-slap">The Academy bans Will Smith for 10 years for Chris Rock slap </a> NPR: In a statement, Academy president David Rubin said Will Smith's behavior was unacceptable and harmful. 
  <p class="updated_time"> 02:00 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091734756/tel-aviv-attack-deaths">A third victim in the Tel Aviv shooting dies and security forces kill the gunman </a> NPR: The Thursday evening shooting in a downtown area packed with people in bars and restaurants caused scenes of mass panic in the heart of the city. It was the fourth deadly attack in three weeks. 
- <p class="updated_time"> 01:46 PM CT, Apr. 08 </p> 
+ <p class="updated_time"> 01:58 PM CT, Apr. 08 </p> 
  <a href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201">A Woman’s Frantic Search for Family Trapped in Mariupol</a> WSJ: A Woman’s Frantic Search for Family Trapped in Mariupol 
  <p class="updated_time"> 01:25 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/business/economy/china-forced-labor.html">Supply Chains Tainted by Forced Labor in China, Panel Told</a> NYT: Human rights activists and others urged the Biden administration to cast a wide net to stop imports of products made with forced labor in Xinjiang. 
@@ -77,7 +81,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/08/1091720337/putin-lavrov-daughters-uk-sanctions">U.K. sanctions the daughters of Putin and foreign minister Lavrov</a> NPR: The United Kingdom is going after what it calls the "lavish lifestyles" of the daughters of Russia's president and foreign minister. 
  <p class="updated_time"> 01:01 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/climate/air-pollution-cities-tropics.html">A ‘New Era of Air Pollution’ in the Tropics Could Have a Huge Toll</a> NYT: Increasingly bad air in big cities is expected to kill hundreds of thousands in coming years if stronger controls are not put in place. 
- <p class="updated_time"> 12:46 PM CT, Apr. 08 </p> 
+ <p class="updated_time"> 12:58 PM CT, Apr. 08 </p> 
  <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
  <p class="updated_time"> 12:32 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091705608/global-food-prices-record-high-ukraine-war">Global food prices hit their highest recorded levels last month, driven up by the war</a> NPR: The Food and Agriculture Organization of the United Nations says prices of food commodities like grains and vegetable oils soared in March following Russia's invasion of Ukraine. 
@@ -87,18 +91,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-russia-land-mines.html">Civilians Near Kharkiv Are Discovering Timed Land Mines</a> NYT: Civilians near Kharkiv in northeastern Ukraine are discovering a new threat: munitions that eject up to two dozen small mines that explode at intervals. 
  <p class="updated_time"> 12:02 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/08/1089928585/men-especially-from-rich-countries-still-fill-the-boards-of-global-health-groups">Men — especially from rich countries — still fill the boards of global health groups</a> NPR: That's the finding in a new study from Global Health 50/50. They report that some progress has been made. But the statistics are, as one woman global health leader puts it, "shocking." 
+ <p class="updated_time"> 11:58 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941">Shanghai’s Omicron Outbreak Corners Chinese Leader</a> WSJ: Shanghai’s Omicron Outbreak Corners Chinese Leader 
  <p class="updated_time"> 11:53 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61043344?at_medium=RSS&at_campaign=KARANGA">Macron calls Polish PM 'a far-right anti-Semite' in row over Putin talks</a> BBC: The French president made the comments following criticism over his talks with Vladimir Putin. 
- <p class="updated_time"> 11:46 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941">Shanghai’s Omicron Outbreak Corners Chinese Leader</a> WSJ: Shanghai’s Omicron Outbreak Corners Chinese Leader 
  <p class="updated_time"> 11:31 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61036740?at_medium=RSS&at_campaign=KARANGA">Kramatorsk station attack: What we know so far</a> BBC: Some 50 people are said to have been killed in Kramatorsk, Ukraine and Russia are blaming each other. 
  <p class="updated_time"> 11:24 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/india-covid-booster-shots.html">India Approves Booster Shots for Adults Between Ages 18 and 60</a> NYT: Experts said that one reason for the shift was that many Indians were finding it hard to travel abroad without booster certificates. 
  <p class="updated_time"> 11:20 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/stanislav-aseyev-ukraine-russia.html">For a Ukrainian Journalist, War Evokes Scars From Captivity</a> NYT: Stanislav Aseyev, a 32-year-old journalist, had documented his abuse in a prison run by Russian-backed separatists. Now, the war reminds him of why Ukrainians are fighting for their lives. 
- <p class="updated_time"> 10:30 AM CT, Apr. 08 </p> 
- <a href="https://www.npr.org/2022/04/08/1091598512/after-a-week-of-political-chaos-in-pakistan-more-turmoil-lies-ahead">After a week of political chaos in Pakistan, more turmoil lies ahead</a> NPR: The county's Supreme Court said a move by Prime Minister Imran Khan to dissolve parliament rather than face a no-confidence vote was unconstitutional. What happens next isn't entirely clear. 
  <p class="updated_time"> 10:14 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61029655?at_medium=RSS&at_campaign=KARANGA">French election: Far-right Le Pen closes in on Macron ahead of vote</a> BBC: Emmanuel Macron is now looking over his shoulder before the first round of the presidential race. 
  <p class="updated_time"> 09:50 AM CT, Apr. 08 </p> 
@@ -181,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/world/europe/finland-russia-art-sanctions.html">Finland Seizes Artwork Suspected of Violating E.U. Sanctions on Russia</a> NYT: The art was being transported back to Russia after being featured in exhibitions in Italy and Japan, the Finnish customs service said. 
  <p class="updated_time"> 04:00 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/asia/shanghai-covid-china.html">Shanghai’s Covid Lockdown Poses Test to China’s Leadership </a> NYT: Residents in Shanghai, China’s most populous and cosmopolitan city, have responded to the government’s pursuit of zero Covid with a rare outpouring of criticism. 
- <p class="updated_time"> 03:34 AM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/06/world/europe/us-ukraine-switchblade-drones.html">Pentagon Trains Ukrainian Soldiers to Use Armed Drones</a> NYT: The United States is sending Switchblade drones to Ukraine, and has been teaching a group of Ukrainian soldiers who are in America on an educational assignment how to use them. 
  <p class="updated_time"> 03:29 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/ukraine-eurovision.html">Ukraine’s Eurovision Team Set to Tour to Help War Effort</a> NYT: Kalush Orchestra, a group that mixes rap and traditional Ukrainian music, was given special permission to leave the country and play internationally. 
  <p class="updated_time"> 12:21 AM CT, Apr. 07 </p> 
