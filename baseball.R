@@ -765,6 +765,8 @@ better_wild_card_standings_table_html <- gsub("[\"][a-z]{10}",
 # wild card plot ----
 mlb_min <-  .9*min(mlb_standings$win_pct)
 mlb_max <- 1.05*max(mlb_standings$win_pct)
+nudge <- -.0461118*(mlb_max-mlb_min)
+
 al_standings <- mlb_standings %>%
   filter(league == "AL") %>%
   arrange(desc(win_pct)) %>%
@@ -801,7 +803,7 @@ al_plot <- ggplot(al_standings_magic, aes(x = reorder(team_label, win_pct),
             color = "white",
             angle = 270,
             size = 3.9,
-            nudge_y = -.019) +
+            nudge_y = nudge) +
   geom_text(aes(label = division_leaders),
             family = "mono",
             nudge_y = .011) +
@@ -848,7 +850,7 @@ nl_plot <- ggplot(nl_standings_magic, aes(x = reorder(team_label, -win_pct),
             color = "white",
             angle = 270,
             size = 3.9,
-            nudge_y = -.019) +
+            nudge_y = nudge) +
   geom_text(aes(label = division_leaders),
             family = "mono",
             nudge_y = .011) +
