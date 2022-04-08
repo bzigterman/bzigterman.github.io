@@ -147,7 +147,7 @@ url <- "https://api.weather.gov/gridpoints/ILX/95,72/forecast/hourly"
 nws_forecast <- GET(url,
                     add_headers(
                       "User-Agent" = "(bzigterman.com, ben@bzigterman.com)")
-                    )
+)
 nws_forecast <- content(nws_forecast, as = "text")
 nws_forecast <- st_read(nws_forecast)
 nws_forecast <- fromJSON(nws_forecast$periods) 
@@ -189,7 +189,7 @@ champaign_precip <- case_when(
   rainfall > 0 && snowfall == 0  ~ paste(rainfall,"inches of rain"),
   snowfall > 0 && rainfall == 0  ~ paste(snowfall,"inches of snow"),
   rainfall == 0 && snowfall == 0 ~ paste("No precipitation"))
-                            
+
 # save temp data ----
 
 weather_data <- tibble(utc_time = as_datetime(champaign_current$dt),
@@ -358,7 +358,10 @@ temps_past_century <- temp_history %>%
   mutate(period = "All Records (since 1888)") %>%
   select(temp, period)%>%
   arrange(temp)
-
+temps_next_week <- nws_forecast_clean %>%
+  mutate(period = "Next Week") %>%
+  select(temp, period) %>%
+  arrange(temp)
 
 temps <- full_join(temps_past_hour,temps_today) %>%
   full_join(temps_yesterday) %>%
@@ -366,11 +369,12 @@ temps <- full_join(temps_past_hour,temps_today) %>%
   full_join(temps_past_month) %>%
   full_join(temps_past_year) %>%
   full_join(temps_past_decade) %>%
-  full_join(temps_past_century)
+  full_join(temps_past_century) %>%
+  full_join(temps_next_week)
 
 his_los <- tibble(period = c("All Records (since 1888)","Past Decade",
                              "Past Year","Past Month","Past Week",
-                             "Yesterday","Today","Now"),
+                             "Yesterday","Today","Now","Next Week"),
                   min = c(min(temps_past_century$temp),
                           min(temps_past_decade$temp),
                           min(temps_past_year$temp),
@@ -378,7 +382,8 @@ his_los <- tibble(period = c("All Records (since 1888)","Past Decade",
                           min(temps_past_week$temp),
                           min(temps_yesterday$temp),
                           min(temps_today$temp),
-                          as.numeric("NA")),
+                          as.numeric("NA"),
+                          min(temps_next_week$temp)),
                   max = c(max(temps_past_century$temp),
                           max(temps_past_decade$temp),
                           max(temps_past_year$temp),
@@ -386,7 +391,8 @@ his_los <- tibble(period = c("All Records (since 1888)","Past Decade",
                           max(temps_past_week$temp),
                           max(temps_yesterday$temp),
                           max(temps_today$temp),
-                          max(temps_past_hour$temp)))
+                          max(temps_past_hour$temp),
+                          max(temps_next_week$temp)))
 
 his_los_longer <- pivot_longer(his_los, cols = c(min,max))
 
@@ -418,17 +424,18 @@ ggplot(data = temps,
             #nudge_y = 1,
             nudge_x = -.2,
             color = "grey60") +
-  scale_x_discrete(limits = c("All Records (since 1888)","Past Decade","Past Year",
-                              "Past Month","Past Week",
-                              "Yesterday","Today","Now"),
-                   labels = NULL) +
+  scale_x_discrete(limits = c(
+    "All Records (since 1888)","Past Decade","Past Year",
+    "Past Month","Past Week",
+    "Yesterday","Today","Now","Next Week"),
+    labels = NULL) +
   scale_color_distiller(palette = "Spectral",
                         guide = NULL) +
   theme_minimal() +
   scale_y_continuous(labels = NULL) +
   labs(x = NULL,
        y = NULL,
-       caption = "Source: OpenWeather, MRCC") +
+       caption = "Source: OpenWeather, MRCC, NWS") +
   theme(
     axis.text.x = element_text(angle = 90),
     plot.background = element_rect(fill = "white", color = "white"),
@@ -463,21 +470,22 @@ ggplot(data = temps,
                 label = period),
             #vjust =.5,
             angle = 90,
-            size = 3,
+            size = 2.75,
             #nudge_y = 1,
             nudge_x = -.35,
             color = "grey60") +
-  scale_x_discrete(limits = c("All Records (since 1888)","Past Decade","Past Year",
-                              "Past Month","Past Week",
-                              "Yesterday","Today","Now"),
-                   labels = NULL) +
+  scale_x_discrete(limits = c(
+    "All Records (since 1888)","Past Decade","Past Year",
+    "Past Month","Past Week",
+    "Yesterday","Today","Now","Next Week"),
+    labels = NULL) +
   scale_color_distiller(palette = "Spectral",
                         guide = NULL) +
   theme_minimal() +
   scale_y_continuous(labels = NULL) +
   labs(x = NULL,
        y = NULL,
-       caption = "Source: OpenWeather, MRCC") +
+       caption = "Source: OpenWeather, MRCC, NWS") +
   theme(
     axis.text.x = element_text(angle = 90),
     plot.background = element_rect(fill = "white", color = "white"),
@@ -541,7 +549,7 @@ Currently:
 
 ",champaign_precip," in the past 24 hours
 
-## Temperature History
+## Temperature Comparison
 
 <picture>
   <source srcset=\"{{ site.baseurl }}/plots/temp_history.png\"
