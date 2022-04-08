@@ -11,29 +11,29 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 03:13 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/books/international-booker-prize-shortlist-tokarczuk.html">Women Dominate Shortlist for International Booker Prize</a> NYT: Novels by Olga Tokarczuk, Mieko Kawakami and Claudia Piñeiro are in the running for the prestigious award for translated fiction. 
+ <p class="updated_time"> 02:54 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East</a> WSJ: Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East 
  <p class="updated_time"> 02:42 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60978798?at_medium=RSS&at_campaign=KARANGA">Imran Khan: Pakistan court rules no-confidence vote block is illegal</a> BBC: A court ruled a move to block an earlier vote was illegal, paving the way for his possible removal. 
- <p class="updated_time"> 02:42 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East</a> WSJ: Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East 
  <p class="updated_time"> 02:20 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/pink-floyd-ukraine.html">Pink Floyd Says It Will Release New Track to Support Ukraine</a> NYT: The song, “Hey Hey Rise Up,” is a reworking of a protest song from World War I and features the Ukrainian rock star Andriy Khlyvnyuk of the band Boombox. 
  <p class="updated_time"> 01:55 AM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091568039/canada-bans-foreign-home-buyers">Canada's answer to a hot housing market: ban foreign buyers for 2 years</a> NPR: Canada's budget also includes billions for new housing and measures to help Canadians trying to get into the market. 
- <p class="updated_time"> 01:42 AM CT, Apr. 08 </p> 
+ <p class="updated_time"> 01:54 AM CT, Apr. 08 </p> 
  <a href="https://www.wsj.com/articles/russian-invasion-war-crimes-horrors-of-ukraines-bucha-laid-bare-on-yablunska-street-11649365202">Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street</a> WSJ: Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street 
  <p class="updated_time"> 01:19 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/business/lockdowns-in-china-block-truck-shipments-and-close-factories.html">Lockdowns in China Block Truck Shipments and Close Factories</a> NYT: China’s Covid lockdowns and restrictions are holding up truck drivers who carry crucial components among factories and bring products to ports, posing a new disruption to the global supply chain. 
  <p class="updated_time"> 01:10 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61021186?at_medium=RSS&at_campaign=KARANGA">Israel: Palestinian gunman killed after deadly attack at Tel Aviv bar</a> BBC: He was found after a huge manhunt following an attack on a bar which killed two people, police say. 
- <p class="updated_time"> 12:42 AM CT, Apr. 08 </p> 
+ <p class="updated_time"> 12:54 AM CT, Apr. 08 </p> 
  <a href="https://www.wsj.com/articles/shooting-in-tel-aviv-leaves-six-people-in-serious-condition-11649358191">Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks</a> WSJ: Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks 
  <p class="updated_time"> 12:00 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/israel-tel-aviv-shooting.html">Gunman in Tel Aviv Bar Attack Is Shot and Killed</a> NYT: The gunman initially escaped after his attack outside a busy bar at the heart of Israel’s most cosmopolitan city. After a nightlong search, police forces said they killed the gunman in a shootout near a mosque in Jaffa. 
+ <p class="updated_time"> 11:54 PM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/pakistani-prime-minister-faces-ouster-after-court-setback-11649363600">Pakistani Prime Minister Faces Ouster After Court Setback</a> WSJ: Pakistani Prime Minister Faces Ouster After Court Setback 
  <p class="updated_time"> 11:44 PM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61033173?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Kremlin spokesman Peskov admits 'significant' Russian losses</a> BBC: Kremlin spokesman Dmitry Peskov called the Russian casualty rate a "huge tragedy" for the country. 
- <p class="updated_time"> 11:42 PM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/pakistani-prime-minister-faces-ouster-after-court-setback-11649363600">Pakistani Prime Minister Faces Ouster After Court Setback</a> WSJ: Pakistani Prime Minister Faces Ouster After Court Setback 
- <p class="updated_time"> 10:42 PM CT, Apr. 07 </p> 
+ <p class="updated_time"> 10:54 PM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/shanghai-in-lockdown-struggles-to-feed-itself-11649353336">Shanghai, in Lockdown, Struggles to Feed Itself</a> WSJ: Shanghai, in Lockdown, Struggles to Feed Itself 
  <p class="updated_time"> 08:49 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/bucha-killings-russian-communications-intercepted.html">Intercepted Russian Radio Traffic Said to Discuss Killings of Ukranian Civilians</a> NYT: The report adds to evidence of indiscriminate killings by Russian forces. It could not be confirmed whether the radio transmissions collected by German intelligence were from Bucha or another place near the capital, an official said. 
