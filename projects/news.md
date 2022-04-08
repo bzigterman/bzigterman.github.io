@@ -9,28 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:51 AM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/04/08/world/ukraine-russia-war-news">Live Updates: At Least 39 Killed in Strike on Train Station, Ukraine Says, as Thousands Flee From East</a> NYT: The station in the eastern city of Kramatorsk had been a main point of evacuation as the region braced for a scaling up of Russia’s offensive. The European Union formally approved a new set of sanctions against Russia, including a ban on coal imports. 
- <p class="updated_time"> 06:36 AM CT, Apr. 08 </p> 
+ <p class="updated_time"> 07:32 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61036740?at_medium=RSS&at_campaign=KARANGA">Kramatorsk: At least 1,000 at railway station when rockets hit - witness</a> BBC: An aid worker says Kramatorsk station was crowded with evacuees at the time of the blasts. 
+ <p class="updated_time"> 07:28 AM CT, Apr. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/08/world/ukraine-russia-war-news">Live Updates: At Least 39 Killed in Strike on Train Station, Ukraine Says, as Thousands Flee From East</a> NYT: The station in the eastern city of Kramatorsk had been a main point of evacuation as the region braced for a scaling up of Russia’s offensive. The European Union formally approved a new set of sanctions against Russia, including a ban on coal imports. 
+ <p class="updated_time"> 07:27 AM CT, Apr. 08 </p> 
+ <a href="https://www.nytimes.com/2022/04/07/world/middleeast/yemen-war-saudi-arabia.html">How the Yemen War Connects to Saudi Arabia and Iran</a> NYT: Yemen was already the Arab world’s poorest country before its civil war began in 2014. Then a Saudi-led coalition joined the fight against the Iran-backed Houthi militia, spreading the ruin. 
+ <p class="updated_time"> 06:39 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
  <p class="updated_time"> 06:05 AM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091542359/ukrainian-mom-daughter-writing-back-instagram-war-makoviy">A Ukrainian mom scribbled her contact info on her daughter's back as the war erupted</a> NPR: As bombed rained down on the streets of Kyiv, Aleksandra Makoviy wanted to make sure that her 2-year-old would be safe. The only way to do that was by writing her phone number on the girl's back. 
  <p class="updated_time"> 06:00 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61035565?at_medium=RSS&at_campaign=KARANGA">'Mariupol is a graveyard': Evacuees recount terror of Russian assault</a> BBC: Survivors from the besieged city say they wondered at times if the rest of Ukraine had fallen. 
- <p class="updated_time"> 05:56 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
  <p class="updated_time"> 05:47 AM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091578830/ukraine-russia-rocket-attack-train-station">About 30 people killed in Russian strike on a packed train station in eastern Ukraine</a> NPR: The head of the Donetsk Regional Military Administration said the station was full of people trying to evacuate when it was allegedly hit by a missile. 
+ <p class="updated_time"> 05:39 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/russian-invasion-war-crimes-horrors-of-ukraines-bucha-laid-bare-on-yablunska-street-11649365202">Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street</a> WSJ: Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street 
  <p class="updated_time"> 05:12 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61028654?at_medium=RSS&at_campaign=KARANGA">Sri Lanka fuel crisis: Only God can help us now</a> BBC: Millions are having to endure daily power cuts and queue for hours to get basics like cooking gas and diesel. 
  <p class="updated_time"> 05:01 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/australia/the-electric-car-market-heats-up.html">The Electric Car Market Heats Up</a> NYT: Soaring fuel prices and climate change concerns are driving demand for the vehicles in Australia, as elsewhere. But they are particularly hard to find here. 
  <p class="updated_time"> 04:58 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/kyiv-ukraine-war.html">With Russian Forces Gone, Kyiv Starts to Revive</a> NYT: The anxiety remains, but in Ukraine’s capital, large lines of cars are now forming on highways into the city and businesses are reopening. 
- <p class="updated_time"> 04:56 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/russian-invasion-war-crimes-horrors-of-ukraines-bucha-laid-bare-on-yablunska-street-11649365202">Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street</a> WSJ: Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street 
  <p class="updated_time"> 04:50 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/sabina-nessa-murder-london.html">Killer of Sabina Nessa in London Park Sentenced to Life in Prison  </a> NYT: The murder of a schoolteacher, Sabina Nessa, 28, added to a sense of outrage amid fears the authorities were failing to address violence against women. 
+ <p class="updated_time"> 04:39 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201">Ukrainians Search for Relatives in Besieged Mariupol</a> WSJ: Ukrainians Search for Relatives in Besieged Mariupol 
  <p class="updated_time"> 04:34 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61021186?at_medium=RSS&at_campaign=KARANGA">Israel: Palestinian gunman killed after deadly attack at Tel Aviv bar</a> BBC: He was found after a huge manhunt following an attack on a bar which killed two people, police say. 
  <p class="updated_time"> 04:15 AM CT, Apr. 08 </p> 
@@ -43,20 +47,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/world/americas/mexico-president-recall-election.html">Is Mexico’s Recall Election “Democracy of the Highest Order”?</a> NYT: The vote has the potential to upend the country’s political system. But many fear it will amount to nothing more than a tool for propaganda. 
  <p class="updated_time"> 04:00 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/stanislav-aseyev-ukraine-russia.html">For a Ukrainian Journalist, War Evokes Scars From Captivity</a> NYT: Stanislav Aseyev, a 32-year-old journalist, had documented his abuse in a prison run by Russian-backed separatists. Now, the war reminds him of why Ukrainians are fighting for their lives. 
- <p class="updated_time"> 03:56 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201">Ukrainians Search for Relatives in Besieged Mariupol</a> WSJ: Ukrainians Search for Relatives in Besieged Mariupol 
+ <p class="updated_time"> 03:39 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-to-open-50-000-bed-makeshift-hospital-as-covid-infections-climb-11649416195">Shanghai to Open 50,000-Bed Makeshift Hospital as Covid Infections Climb</a> WSJ: Shanghai to Open 50,000-Bed Makeshift Hospital as Covid Infections Climb 
  <p class="updated_time"> 03:13 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/books/international-booker-prize-shortlist-tokarczuk.html">Women Dominate Shortlist for International Booker Prize</a> NYT: Novels by Olga Tokarczuk, Mieko Kawakami and Claudia Piñeiro are in the running for the prestigious award for translated fiction. 
- <p class="updated_time"> 02:56 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/shanghai-to-open-50-000-bed-makeshift-hospital-as-covid-infections-climb-11649416195">Shanghai to Open 50,000-Bed Makeshift Hospital as Covid Infections Climb</a> WSJ: Shanghai to Open 50,000-Bed Makeshift Hospital as Covid Infections Climb 
  <p class="updated_time"> 02:42 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60978798?at_medium=RSS&at_campaign=KARANGA">Imran Khan: Pakistan court rules no-confidence vote block is illegal</a> BBC: A court ruled a move to block an earlier vote was illegal, paving the way for his possible removal. 
+ <p class="updated_time"> 02:39 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/shooting-in-tel-aviv-leaves-six-people-in-serious-condition-11649358191">Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks</a> WSJ: Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks 
  <p class="updated_time"> 02:37 AM CT, Apr. 08 </p> 
  <a href="https://www.wsj.com/articles/terrorist-attacks-in-israel-jerusalem-tensions-challenge-palestinian-strategy-11649417879">Terrorist Attacks in Israel, Jerusalem Tensions Challenge Palestinian Strategy</a> WSJ: Israel’s policy of eschewing peace talks and trying instead to improve Palestinian quality of life is being tested by terrorist attacks and rising religious tensions. 
  <p class="updated_time"> 02:20 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/pink-floyd-ukraine.html">Pink Floyd Says It Will Release New Track to Support Ukraine</a> NYT: The song, “Hey Hey Rise Up,” is a reworking of a protest song from World War I and features the Ukrainian rock star Andriy Khlyvnyuk of the band Boombox. 
- <p class="updated_time"> 01:56 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/shooting-in-tel-aviv-leaves-six-people-in-serious-condition-11649358191">Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks</a> WSJ: Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks 
  <p class="updated_time"> 01:55 AM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091568039/canada-bans-foreign-home-buyers">Canada's answer to a hot housing market: ban foreign buyers for 2 years</a> NPR: Canada's budget also includes billions for new housing and measures to help Canadians trying to get into the market. 
  <p class="updated_time"> 01:19 AM CT, Apr. 08 </p> 
@@ -117,8 +119,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61030090?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Sharing space with the dead - horror outside Chernihiv</a> BBC: The BBC visits Yahidne village, where residents packed in a basement lived alongside corpses for days. 
  <p class="updated_time"> 02:13 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/climate/methane-emissions-record.html">Methane Emissions Soared to a Record in 2021, NOAA Says</a> NYT: For the second year in a row, concentrations of the potent planet-warming gas jumped by the largest amount since measurements began four decades ago. 
- <p class="updated_time"> 01:46 PM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/world/middleeast/yemen-war-saudi-arabia.html">How the Yemen War Connects to Saudi Arabia and Iran</a> NYT: Yemen was already the Arab world’s poorest country before its civil war began in 2014. Then a Saudi-led coalition joined the fight against the Iran-backed Houthi militia, spreading the ruin. 
  <p class="updated_time"> 01:21 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/eu-russia-sanctions.html">E.U. Diplomats Near New Sanctions Against Russia</a> NYT: As part of the European Union’s proposed measures to punish Moscow, a ban on Russian coal imports would be phased in over four months, instead of three. 
  <p class="updated_time"> 01:18 PM CT, Apr. 07 </p> 
@@ -200,8 +200,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:17 AM CT, Apr. 08 </p> 
+ <a href="https://www.politico.com/news/2022/04/08/rnc-staffer-child-porn-case-00024031">Ex-RNC staffer gets more than 12 years in prison in child porn case</a> Politico: Probe that snared Ruben Verastigui allegedly involved at least 18 others, including a former Commerce Department aide. 
+ <p class="updated_time"> 06:31 AM CT, Apr. 08 </p> 
+ <a href="https://www.politico.com/news/2022/04/08/russian-missile-kills-civilians-ukraine-train-station-00024034">Russian missile kills 30 civilians at Ukraine train station</a> Politico: Authorities said the strike wounded more than 100 people. 
  <p class="updated_time"> 06:00 AM CT, Apr. 08 </p> 
- <a href="https://www.politico.com/news/2022/04/08/congress-sanction-war-putin-00023966">Congress joins the sanction war on 'vile thug' Putin</a> Politico: After weeks of delay, a powerful bipartisan push to sanction Moscow could also box in the White House's ability to act. 
+ <a href="https://www.politico.com/news/2022/04/08/congress-sanction-war-putin-00023966">No more 'dillydallying' and 'lollygagging': Congress finally puts its foot down on Russia</a> Politico: After weeks of delay, a powerful bipartisan push to sanction Moscow could also box in the White House's ability to act. 
  <p class="updated_time"> 04:05 AM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091569045/voters-in-michigans-7th-congressional-district-weigh-in-on-issues-ahead-of-midte">Voters in Michigan's 7th Congressional District weigh in on issues ahead of midterms</a> NPR: Democrats aim to balance multiple crises ahead of November's midterm elections. Voters in Livingston County, Mich., share their concerns about inflation and their views of President Biden. 
  <p class="updated_time"> 04:05 AM CT, Apr. 08 </p> 
@@ -246,6 +250,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/nyregion/trump-contempt-letitia-james.html">N.Y. Attorney General Seeks to Hold Trump in Contempt</a> NYT: The attorney general, Letitia James, has been conducting a civil investigation into former President Donald J. Trump’s family business. 
  <p class="updated_time"> 07:21 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/capitol-fox-rabies-kits-euthanized.html">Capitol Fox’s Three Kits Euthanized After Rabies Exposure</a> NYT: The saga of the wild red fox — celebrated as a mascot, then hunted as an aggressive attacker, then killed and found to be rabid — grew darker after her kits were euthanized as well. 
+ <p class="updated_time"> 07:13 PM CT, Apr. 07 </p> 
+ <a href="https://www.cnn.com/2022/04/07/politics/ketanji-brown-jackson-senate-vote-latest/index.html">Senate confirms Ketanji Brown Jackson to be first Black woman to sit on Supreme Court</a> CNN: The Senate confirmed President Joe Biden's Supreme Court nominee Ketanji Brown Jackson on Thursday in a historic vote that paves the way for her to become the first Black woman to serve on the highest court in the nation. 
  <p class="updated_time"> 07:02 PM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/canada-federal-budget-2022-military-spending-00023951">Canada's plan to boost military spending ‘falls flat’ amid high hopes</a> Politico: The increase doesn't meet NATO's target for its members to spend at least 2 percent of their GDP on defense. 
  <p class="updated_time"> 06:38 PM CT, Apr. 07 </p> 
@@ -312,12 +318,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/07/1091426599/impersonating-federal-agents-secret-service">2 men impersonated federal agents to get close to the Secret Service, FBI says</a> NPR: They have been impersonating federal agents since early 2020, the FBI says. They allegedly offered favors to several Secret Service agents, including one assigned to the first lady's detail. 
  <p class="updated_time"> 11:43 AM CT, Apr. 07 </p> 
  <a href="https://www.npr.org/2022/04/07/1091431136/justice-department-investigating-trumps-possible-mishandling-of-government-secre">Justice Department is investigating Trump's possible mishandling of government secrets</a> NPR: The investigation, prompted by the discovery of top-secret papers found at Mar-a-Lago, is at an early stage, a source told NPR. 
- <p class="updated_time"> 11:15 AM CT, Apr. 07 </p> 
- <a href="https://www.politico.com/news/2022/04/07/senate-ban-russian-oil-trade-00023767">Congress passes bills banning Russian oil, revoking normal trade relations</a> Politico: After weeks of sitting on their hands, lawmakers have sent Biden their first sanctions bill on Moscow. 
  <p class="updated_time"> 09:04 AM CT, Apr. 07 </p> 
  <a href="https://www.cnn.com/2022/03/03/politics/putin-war-crimes-russia-ukraine-us-what-matters/index.html">Here's how war crimes prosecutions work</a> CNN: Shocking atrocities in Ukraine, allegedly at the hands of Russian forces, have amplified calls to pursue war crimes charges against Russian President Vladimir Putin. 
  <p class="updated_time"> 08:53 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/gorsuch.html">With three crossing party lines, Jackson’s nomination vote parallels Gorsuch’s.</a> NYT: Only three Democrats voted for Justice Neil M. Gorsuch in 2017, after Republicans had blocked President Barack Obama from filling a vacancy. 
+ <p class="updated_time"> 08:24 AM CT, Apr. 07 </p> 
+ <a href="https://www.cnn.com/2022/04/07/politics/shadow-docket-supreme-court/index.html">Here's what the 'shadow docket' is and how the Supreme Court uses it</a> CNN: Chief Justice John Roberts turned heads this week when he criticized how the Supreme Court's conservatives used the emergency docket, referred to by some as the shadow docket. 
  <p class="updated_time"> 08:16 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/collins-was-first-among-the-republicans-to-back-jackson.html">Collins was first among the Republicans to back Jackson.</a> NYT: The senator from Maine lent support to the nominee when it was uncertain whether she would get any G.O.P. backing at all. 
  <p class="updated_time"> 10:03 PM CT, Apr. 06 </p> 
@@ -338,16 +344,12 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/04/05/politics/obamacare-aca-us-health-care-what-matters/index.html">The moment Americans embraced Obamacare. And why it couldn't pass today</a> CNN: It took a dozen years, but the Affordable Care Act finally feels like a permanent part of American life. 
  <p class="updated_time"> 02:53 PM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/gop-opposition-biden-immigration-policy-covid-deal-00023156">Covid deal hampered by GOP opposition to Biden immigration policy</a> Politico: Republican senators want a vote on a pandemic-era immigration limit before they'll consider moving forward on $10 billion in Covid aid. 
- <p class="updated_time"> 02:35 PM CT, Apr. 05 </p> 
- <a href="https://www.politico.com/news/2022/04/05/obama-returns-white-house-00023148">Obama returns to White House for first time since leaving office</a> Politico: “Feels like the good old days," President Biden said in welcoming the former president at an event to celebrate the Affordable Care Act. 
  <p class="updated_time"> 12:44 PM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/joe-biden-second-crack-gun-official-00023111">Biden to take second crack at filling top gun official role</a> Politico: Months after the president’s first nominee withdrew over lack of support, he is poised to offer another option for the post. 
  <p class="updated_time"> 11:00 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/congress-covid-bill-global-again-00023033">Congress could finally pass a Covid bill. They’ll soon have to do it all again.</a> Politico: Public health leaders warn that short-term bursts of cash are creating gaps in preparedness, leaving millions vulnerable to a new Covid surge. 
  <p class="updated_time"> 09:09 AM CT, Apr. 05 </p> 
  <a href="https://www.politico.com/news/2022/04/05/gop-rep-fred-upton-to-retire-00023009">GOP Rep. Fred Upton to retire</a> Politico: Rep. Fred Upton, one of the longest-tenured Republicans in the House of Representatives, has decided to retire rather than seek reelection in 2022. 
- <p class="updated_time"> 06:59 AM CT, Apr. 05 </p> 
- <a href="https://www.cnn.com/2022/04/05/politics/jackson-confirmation-politicized-supreme-court-analysis/index.html">Jackson's confirmation proceedings show that historically partisan Supreme Court fights are the new normal</a> CNN: The legal stakes around Judge Ketanji Brown Jackson's confirmation may be lower than they have been in the past decade of Supreme Court fights. But that did little to defuse the partisan atmosphere that has now come to define nominations to America's highest bench. 
 
 
 </details>
