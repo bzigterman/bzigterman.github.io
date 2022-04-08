@@ -142,8 +142,12 @@ champaign_forecast <- fromJSON(champaign_forecast_json, flatten = TRUE)$list %>%
 
 
 # nws api ----
+## forecast ----
 url <- "https://api.weather.gov/gridpoints/ILX/95,72/forecast/hourly"
-nws_forecast <- GET(url)
+nws_forecast <- GET(url,
+                    add_headers(
+                      "User-Agent" = "(bzigterman.com, ben@bzigterman.com)")
+                    )
 nws_forecast <- content(nws_forecast, as = "text")
 nws_forecast <- st_read(nws_forecast)
 nws_forecast <- fromJSON(nws_forecast$periods) 
@@ -164,6 +168,15 @@ nws_forecast_clean <- nws_forecast %>%
                                      minute(as_datetime(champaign_current$sunset, tz = "America/Chicago")),":",
                                      second(as_datetime(champaign_current$sunset, tz = "America/Chicago")),
                                      sep = "")), tz = "America/Chicago")
+
+## historical ----
+# url <- "https://api.weather.gov/stations/KCMI/observations/latest"
+# nws_forecast <- GET(url,
+#                     add_headers(
+#                       "User-Agent" = "(bzigterman.com, ben@bzigterman.com)")
+# )
+# nws_forecast <- content(nws_forecast, as = "text")
+# nws_forecast <- st_read(nws_forecast)
 
 
 # set variables ----
