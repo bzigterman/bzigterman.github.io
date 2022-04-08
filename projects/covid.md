@@ -1356,33 +1356,25 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">29.2K</td>
-<td class="gt_row gt_right">26.7K</td>
-<td class="gt_row gt_right">&minus;9%</td></tr>
+<td class="gt_row gt_right">26.4K</td>
+<td class="gt_row gt_right">26.6K</td>
+<td class="gt_row gt_right">+1%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">13.6K</td>
-<td class="gt_row gt_right gt_striped">10.5K</td>
-<td class="gt_row gt_right gt_striped">&minus;23%</td></tr>
+<td class="gt_row gt_right gt_striped">15.1K</td>
+<td class="gt_row gt_right gt_striped">10.4K</td>
+<td class="gt_row gt_right gt_striped">&minus;31%</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
-<td class="gt_row gt_right">815.0</td>
-<td class="gt_row gt_right">562.0</td>
-<td class="gt_row gt_right">&minus;31%</td></tr>
+<td class="gt_row gt_right">739.0</td>
+<td class="gt_row gt_right">496.0</td>
+<td class="gt_row gt_right">&minus;33%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">165.0K</td>
+<td class="gt_row gt_right gt_striped">167.0K</td>
 <td class="gt_row gt_right gt_striped">337.0K</td>
-<td class="gt_row gt_right gt_striped">+104%</td></tr>
-    <tr><td class="gt_row gt_left">Fully Vaccinated</td>
-<td class="gt_row gt_right">218.0M</td>
-<td class="gt_row gt_right">218.0M</td>
-<td class="gt_row gt_right">0%</td></tr>
-    <tr><td class="gt_row gt_left gt_striped">Pct. Fully Vaccinated</td>
-<td class="gt_row gt_right gt_striped">65.6</td>
-<td class="gt_row gt_right gt_striped">65.7</td>
-<td class="gt_row gt_right gt_striped">+0%</td></tr>
+<td class="gt_row gt_right gt_striped">+102%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Wednesday</td>
     </tr>
   </tfoot>
   
