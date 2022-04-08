@@ -9,10 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:35 PM CT, Apr. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/08/world/ukraine-russia-war-news">Live Updates: At Least 50 Killed in Strike on Train Station, Ukraine Says, as Thousands Flee From East</a> NYT: The station in the eastern city of Kramatorsk had been a main point of evacuation as the region braced for a scaling up of Russia’s offensive. The European Union formally approved a new set of sanctions against Russia, including a ban on coal imports. 
  <p class="updated_time"> 04:14 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/gerda-weissmann-klein-dead.html">Gerda Weissmann Klein, Honored Holocaust Survivor, Dies at 97</a> NYT: Her story was told in an Oscar-winning documentary, and her message of hope and love in the face of overwhelming evil was an inspiration to millions. 
- <p class="updated_time"> 04:09 PM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/04/08/world/ukraine-russia-war-news">Live Updates: At Least 50 Killed in Strike on Train Station, Ukraine Says, as Thousands Flee From East</a> NYT: The station in the eastern city of Kramatorsk had been a main point of evacuation as the region braced for a scaling up of Russia’s offensive. The European Union formally approved a new set of sanctions against Russia, including a ban on coal imports. 
  <p class="updated_time"> 04:01 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091589799/russia-ukraine-war-what-happened-today-april-8">Russia-Ukraine war: What happened today (April 8)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:53 PM CT, Apr. 08 </p> 
@@ -23,12 +23,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/08/1091769540/a-curfew-in-peru-prompts-backlash-and-questions-over-presidential-leadership">A curfew in Peru prompts backlash — and questions over presidential leadership </a> NPR: NPR's Ailsa Chang speaks with Peru-based journalist Jacqueline Fowks about protests in the country over inflation and President Pedro Castillo's reaction to them. 
  <p class="updated_time"> 03:48 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091769519/russian-troops-left-death-and-destruction-behind-in-borodyanka-ukraine">Russian troops left death and destruction behind in Borodyanka, Ukraine</a> NPR: All week, the world's attention has been focused on the death and destruction that's been discovered in towns north of Kyiv, after Russian forces withdrew. One of those towns: Borodyanka. 
+ <p class="updated_time"> 03:46 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
  <p class="updated_time"> 03:43 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted.’</a> NYT: Tanks treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
  <p class="updated_time"> 03:21 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/arts/design/finland-russia-art-seizure.html">Officials Say Russian Art, Seized by Finns, Should Return Home</a> NYT: Finnish custom officials had seized the art several days ago, but the Finns and European Union officials decided that art lent to museums for exhibit did not come under sanctions. 
- <p class="updated_time"> 03:20 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
  <p class="updated_time"> 03:20 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-train-station-attack.html">Photos From Kramatorsk After the Rocket Assault</a> NYT: A railway station in eastern Ukraine had been a main departure point for people seeking to escape an expected Russian onslaught. A rocket assault left at least 50 dead. 
  <p class="updated_time"> 03:20 PM CT, Apr. 08 </p> 
@@ -51,12 +51,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-60999431?at_medium=RSS&at_campaign=KARANGA">Gretchen Whitmer: Michigan governor kidnap plot case collapses</a> BBC: Jurors acquit two of the defendants and fail to reach a verdict on two others. 
  <p class="updated_time"> 02:47 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/politics/russia-sanctions-effectiveness-adeyemo.html">Treasury Aims for Economic Pain on Russia, but Critics Question Effectiveness</a> NYT: The Treasury Department’s deputy secretary, Wally Adeyemo, has been leading the effort to crack down on evasion and to coordinate with Europe. 
+ <p class="updated_time"> 02:46 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-drives-food-prices-to-record-high-11649440528">Ukraine War Drives Food Prices to Record High</a> WSJ: Ukraine War Drives Food Prices to Record High 
  <p class="updated_time"> 02:36 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/americas/dhl-plane-costa-rica.html">A DHL Cargo Plane Breaks in Two Landing at a Costa Rica Airport</a> NYT: No one on board was injured, a spokesman for the delivery company said, adding that it was working with the authorities to remove the plane. 
  <p class="updated_time"> 02:21 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/pink-floyd-ukraine.html">Pink Floyd Says It Will Release New Track to Support Ukraine</a> NYT: The song, “Hey Hey Rise Up,” is a reworking of a protest song from World War I and features the Ukrainian rock star Andriy Khlyvnyuk of the band Boombox. 
- <p class="updated_time"> 02:20 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-drives-food-prices-to-record-high-11649440528">Ukraine War Drives Food Prices to Record High</a> WSJ: Ukraine War Drives Food Prices to Record High 
  <p class="updated_time"> 02:20 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61018821?at_medium=RSS&at_campaign=KARANGA">Will Smith banned from Oscars for 10 years over slap</a> BBC: The Academy voted on Friday to sanction Smith after he slapped Chris Rock at the awards show. 
  <p class="updated_time"> 02:15 PM CT, Apr. 08 </p> 
@@ -65,36 +65,36 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/08/1091681181/the-academy-bans-will-smith-for-10-years-for-chris-rock-slap">The Academy bans Will Smith for 10 years for Chris Rock slap </a> NPR: In a statement, Academy president David Rubin said Will Smith's behavior was unacceptable and harmful. 
  <p class="updated_time"> 02:00 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091734756/tel-aviv-attack-deaths">A third victim in the Tel Aviv shooting dies and security forces kill the gunman </a> NPR: The Thursday evening shooting in a downtown area packed with people in bars and restaurants caused scenes of mass panic in the heart of the city. It was the fourth deadly attack in three weeks. 
+ <p class="updated_time"> 01:46 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201">A Woman’s Frantic Search for Family Trapped in Mariupol</a> WSJ: A Woman’s Frantic Search for Family Trapped in Mariupol 
  <p class="updated_time"> 01:25 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/business/economy/china-forced-labor.html">Supply Chains Tainted by Forced Labor in China, Panel Told</a> NYT: Human rights activists and others urged the Biden administration to cast a wide net to stop imports of products made with forced labor in Xinjiang. 
- <p class="updated_time"> 01:20 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201">A Woman’s Frantic Search for Family Trapped in Mariupol</a> WSJ: A Woman’s Frantic Search for Family Trapped in Mariupol 
  <p class="updated_time"> 01:18 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091726167/spain-abortion-clinics-harassment-law">Spain bans harassment of women entering abortion clinics</a> NPR: Under the new law, anyone harassing a woman going into an abortion clinic will be committing a crime that can be punished with up to one year in prison. 
  <p class="updated_time"> 01:15 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/business/china-lockdowns-supply-chain.html">How Lockdowns in China Have Further Bogged Down the Supply Chain</a> NYT: China’s Covid lockdowns and restrictions are holding up truck drivers who carry crucial components among factories and take products to ports, posing a new disruption to the global supply chain. 
  <p class="updated_time"> 01:03 PM CT, Apr. 08 </p> 
- <a href="https://www.npr.org/2022/04/08/1091720337/putin-lavrov-daughters-uk-sanctions">UK sanctions the daughters of Putin and foreign minister Lavrov</a> NPR: The United Kingdom is going after what it calls the "lavish lifestyles" of the daughters of Russia's president and foreign minister. 
+ <a href="https://www.npr.org/2022/04/08/1091720337/putin-lavrov-daughters-uk-sanctions">U.K. sanctions the daughters of Putin and foreign minister Lavrov</a> NPR: The United Kingdom is going after what it calls the "lavish lifestyles" of the daughters of Russia's president and foreign minister. 
  <p class="updated_time"> 01:01 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/climate/air-pollution-cities-tropics.html">A ‘New Era of Air Pollution’ in the Tropics Could Have a Huge Toll</a> NYT: Increasingly bad air in big cities is expected to kill hundreds of thousands in coming years if stronger controls are not put in place. 
+ <p class="updated_time"> 12:46 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
  <p class="updated_time"> 12:32 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091705608/global-food-prices-record-high-ukraine-war">Global food prices hit their highest recorded levels last month, driven up by the war</a> NPR: The Food and Agriculture Organization of the United Nations says prices of food commodities like grains and vegetable oils soared in March following Russia's invasion of Ukraine. 
  <p class="updated_time"> 12:29 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61035565?at_medium=RSS&at_campaign=KARANGA">'Mariupol is a graveyard': Evacuees recount terror of Russian assault</a> BBC: Survivors from the besieged city say they wondered at times if the rest of Ukraine had fallen. 
  <p class="updated_time"> 12:28 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-russia-land-mines.html">Civilians Near Kharkiv Are Discovering Timed Land Mines</a> NYT: Civilians near Kharkiv in northeastern Ukraine are discovering a new threat: munitions that eject up to two dozen small mines that explode at intervals. 
- <p class="updated_time"> 12:20 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
  <p class="updated_time"> 12:02 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/08/1089928585/men-especially-from-rich-countries-still-fill-the-boards-of-global-health-groups">Men — especially from rich countries — still fill the boards of global health groups</a> NPR: That's the finding in a new study from Global Health 50/50. They report that some progress has been made. But the statistics are, as one woman global health leader puts it, "shocking." 
  <p class="updated_time"> 11:53 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61043344?at_medium=RSS&at_campaign=KARANGA">Macron calls Polish PM 'a far-right anti-Semite' in row over Putin talks</a> BBC: The French president made the comments following criticism over his talks with Vladimir Putin. 
+ <p class="updated_time"> 11:46 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941">Shanghai’s Omicron Outbreak Corners Chinese Leader</a> WSJ: Shanghai’s Omicron Outbreak Corners Chinese Leader 
  <p class="updated_time"> 11:31 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61036740?at_medium=RSS&at_campaign=KARANGA">Kramatorsk station attack: What we know so far</a> BBC: Some 50 people are said to have been killed in Kramatorsk, Ukraine and Russia are blaming each other. 
  <p class="updated_time"> 11:24 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/india-covid-booster-shots.html">India Approves Booster Shots for Adults Between Ages 18 and 60</a> NYT: Experts said that one reason for the shift was that many Indians were finding it hard to travel abroad without booster certificates. 
- <p class="updated_time"> 11:20 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941">Shanghai’s Omicron Outbreak Corners Chinese Leader</a> WSJ: Shanghai’s Omicron Outbreak Corners Chinese Leader 
  <p class="updated_time"> 11:20 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/stanislav-aseyev-ukraine-russia.html">For a Ukrainian Journalist, War Evokes Scars From Captivity</a> NYT: Stanislav Aseyev, a 32-year-old journalist, had documented his abuse in a prison run by Russian-backed separatists. Now, the war reminds him of why Ukrainians are fighting for their lives. 
  <p class="updated_time"> 10:30 AM CT, Apr. 08 </p> 
@@ -194,6 +194,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:35 PM CT, Apr. 08 </p> 
+ <a href="https://www.nytimes.com/2022/04/08/us/politics/trump-super-pac-illegal-donations.html">Donations Steered to Trump Super PAC by Canadian Are Found to Be Illegal</a> NYT: The Federal Election Commission fined a Canadian steel billionaire, Barry Zekelman, $975,000 in the case, one of the biggest penalties it has ever assessed. 
  <p class="updated_time"> 04:01 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091589799/russia-ukraine-war-what-happened-today-april-8">Russia-Ukraine war: What happened today (April 8)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:57 PM CT, Apr. 08 </p> 
@@ -282,20 +284,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/us/politics/biden-vaccine-mandate-ruling.html">Biden’s Vaccine Mandate for Federal Workers Is Upheld By Appeals Court</a> NYT: The ruling Thursday reversed a decision that had blocked the White House from requiring federal workers to be vaccinated. 
  <p class="updated_time"> 08:51 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/dr-oz-pennsylvania-senate.html">Dr. Oz’s Senate Bid Reveals His Wealth</a> NYT: One of the leading Republican candidates for Senate in Pennsylvania, Dr. Mehmet Oz has a vast fortune that could help him in the race. 
- <p class="updated_time"> 07:49 PM CT, Apr. 07 </p> 
- <a href="https://www.politico.com/news/2022/04/07/kansas-researcher-convicted-of-illegal-secret-china-work-00023990">Kansas researcher convicted of illegal secret China work</a> Politico: Jurors found him guilty of three counts of wire fraud and one count of false statements. 
  <p class="updated_time"> 07:29 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/nyregion/trump-contempt-letitia-james.html">N.Y. Attorney General Seeks to Hold Trump in Contempt</a> NYT: The attorney general, Letitia James, has been conducting a civil investigation into former President Donald J. Trump’s family business. 
  <p class="updated_time"> 07:21 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/capitol-fox-rabies-kits-euthanized.html">Capitol Fox’s Three Kits Euthanized After Rabies Exposure</a> NYT: The saga of the wild red fox — celebrated as a mascot, then hunted as an aggressive attacker, then killed and found to be rabid — grew darker after her kits were euthanized as well. 
- <p class="updated_time"> 07:02 PM CT, Apr. 07 </p> 
- <a href="https://www.politico.com/news/2022/04/07/canada-federal-budget-2022-military-spending-00023951">Canada's plan to boost military spending ‘falls flat’ amid high hopes</a> Politico: The increase doesn't meet NATO's target for its members to spend at least 2 percent of their GDP on defense. 
  <p class="updated_time"> 05:58 PM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/covid-creeps-ever-closer-to-biden-00023965">Covid creeps ever closer to Biden</a> Politico: "It’s almost impossible to isolate the president of the United States in a way that would keep him from getting sick," one pandemic expert says. 
  <p class="updated_time"> 04:32 PM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/5-takeaways-canada-2022-budget-00023908">Five takeaways from Canada’s 2022 budget</a> Politico: “The word ‘uncertainty’ is a big piece of our thinking,” a senior official acknowledged of the federal government's planning. 
- <p class="updated_time"> 04:28 PM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/us/politics/black-women-ketanji-brown-jackson.html">For Black Women in Law, Jackson’s Confirmation Is a Source of Pride</a> NYT: Some said the questioning that Judge Ketanji Brown Jackson faced in her confirmation hearings was sobering. 
  <p class="updated_time"> 04:20 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-kamala-harris.html">Kamala Harris Presided Over Jackson’s Confirmation, but No Black Women Had a Vote</a> NYT: As President Biden’s nominee breaks a barrier on the Supreme Court, the Senate lacks a single Black woman to approve the confirmation. 
  <p class="updated_time"> 04:10 PM CT, Apr. 07 </p> 
@@ -318,8 +314,12 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/03/03/politics/putin-war-crimes-russia-ukraine-us-what-matters/index.html">Here's how war crimes prosecutions work</a> CNN: Shocking atrocities in Ukraine, allegedly at the hands of Russian forces, have amplified calls to pursue war crimes charges against Russian President Vladimir Putin. 
  <p class="updated_time"> 08:24 AM CT, Apr. 07 </p> 
  <a href="https://www.cnn.com/2022/04/07/politics/shadow-docket-supreme-court/index.html">Here's what the 'shadow docket' is and how the Supreme Court uses it</a> CNN: Chief Justice John Roberts turned heads this week when he criticized how the Supreme Court's conservatives used the emergency docket, referred to by some as the shadow docket. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 07 </p> 
+ <a href="https://www.politico.com/news/2022/04/07/north-carolina-house-donald-trump-00023643">Local conservatives revolt against Trump House favorite</a> Politico: The former president endorsed a 26-year-old who lives hours away from the congressional district he's running in. 
  <p class="updated_time"> 10:03 PM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/senate-unanimously-approves-lend-lease-00023668">In the fight against Putin, Senate unanimously approves measure that once helped beat Hitler</a> Politico: The Senate revived Lend-Lease, a World War II-era measure that allowed the U.S. to quickly resupply Allies in the fight against Nazi Germany. 
+ <p class="updated_time"> 05:14 PM CT, Apr. 06 </p> 
+ <a href="https://www.politico.com/news/2022/04/06/dems-frontrunner-fetterman-pennsylvania-00023543">D.C. Dems get out of frontrunner Fetterman's way in Pennsylvania</a> Politico: The filibuster-hating, gym-shorts-wearing lieutenant governor got the party's cold shoulder when he ran in 2016. But not this year. 
  <p class="updated_time"> 11:43 AM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/biden-russia-putin-sanctions-00023429">Perma-sanctions: Biden under pressure to punish Russia until Putin's gone</a> Politico: In the wake of apparent Russian war crimes in Ukraine, some lawmakers say the sanctions can’t be lifted until the autocrat is out of power. But does that kill Putin’s incentive to withdraw? 
  <p class="updated_time"> 10:58 AM CT, Apr. 06 </p> 
