@@ -11,25 +11,25 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 12:00 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/israel-tel-aviv-shooting.html">Gunman in Tel Aviv Bar Attack Is Shot and Killed</a> NYT: The gunman initially escaped after his attack outside a busy bar at the heart of Israel’s most cosmopolitan city. After a nightlong search, police forces said they killed the gunman in a shootout near a mosque in Jaffa. 
- <p class="updated_time"> 11:48 PM CT, Apr. 07 </p> 
+ <p class="updated_time"> 12:00 AM CT, Apr. 08 </p> 
  <a href="https://www.wsj.com/articles/ukraine-calls-for-tougher-sanctions-more-arms-to-fend-off-russia-in-donbas-11649326575">Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East</a> WSJ: Ukraine Calls for More Arms as It Girds for Heavier Fighting Against Russia in the East 
  <p class="updated_time"> 11:44 PM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61033173?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Kremlin spokesman Peskov admits 'significant' Russian losses</a> BBC: Kremlin spokesman Dmitry Peskov called the Russian casualty rate a "huge tragedy" for the country. 
- <p class="updated_time"> 10:48 PM CT, Apr. 07 </p> 
+ <p class="updated_time"> 11:00 PM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/russian-invasion-war-crimes-horrors-of-ukraines-bucha-laid-bare-on-yablunska-street-11649365202">Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street</a> WSJ: Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street 
  <p class="updated_time"> 10:43 PM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60978798?at_medium=RSS&at_campaign=KARANGA">Imran Khan: Pakistan court rules no-confidence vote block is illegal</a> BBC: A court ruled his move to block an earlier vote was illegal, paving the way for his possible removal. 
- <p class="updated_time"> 09:48 PM CT, Apr. 07 </p> 
+ <p class="updated_time"> 10:00 PM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/shooting-in-tel-aviv-leaves-six-people-in-serious-condition-11649358191">Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks</a> WSJ: Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks 
  <p class="updated_time"> 09:41 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/pink-floyd-ukraine.html">Pink Floyd Says It Will Release New Track to Support Ukraine</a> NYT: The song, “Hey Hey Rise Up,” is a reworking of a protest song from World War I and features the Ukrainian rock star Andriy Khlyvnyuk of the band Boombox. 
+ <p class="updated_time"> 09:00 PM CT, Apr. 07 </p> 
+ <a href="https://www.wsj.com/articles/pakistani-prime-minister-faces-ouster-after-court-setback-11649363600">Pakistani Prime Minister Faces Ouster After Court Setback</a> WSJ: Pakistani Prime Minister Faces Ouster After Court Setback 
  <p class="updated_time"> 08:49 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/bucha-killings-russian-communications-intercepted.html">Intercepted Russian Radio Traffic Said to Discuss Killings of Ukranian Civilians</a> NYT: The report adds to evidence of indiscriminate killings by Russian forces. It could not be confirmed whether the radio transmissions collected by German intelligence were from Bucha or another place near the capital, an official said. 
- <p class="updated_time"> 08:48 PM CT, Apr. 07 </p> 
- <a href="https://www.wsj.com/articles/pakistani-prime-minister-faces-ouster-after-court-setback-11649363600">Pakistani Prime Minister Faces Ouster After Court Setback</a> WSJ: Pakistani Prime Minister Faces Ouster After Court Setback 
  <p class="updated_time"> 08:34 PM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61029655?at_medium=RSS&at_campaign=KARANGA">French election: Far-right Le Pen closes in on Macron ahead of vote</a> BBC: Emmanuel Macron is now looking over his shoulder before the first round of the presidential race. 
- <p class="updated_time"> 07:48 PM CT, Apr. 07 </p> 
+ <p class="updated_time"> 08:00 PM CT, Apr. 07 </p> 
  <a href="https://www.wsj.com/articles/shanghai-in-lockdown-struggles-to-feed-itself-11649353336">Shanghai, in Lockdown, Struggles to Feed Itself</a> WSJ: Shanghai, in Lockdown, Struggles to Feed Itself 
  <p class="updated_time"> 07:41 PM CT, Apr. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61020025?at_medium=RSS&at_campaign=KARANGA">Meat ban: India isn't vegetarian but who'll tell the right-wing?</a> BBC: The country's varied and complex cuisine celebrates meat just as much as vegetables. 
