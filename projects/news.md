@@ -9,28 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:51 AM CT, Apr. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/08/world/ukraine-russia-war-news">Live Updates: At Least 39 Killed in Strike on Train Station, Ukraine Says, as Thousands Flee From East</a> NYT: The station in the eastern city of Kramatorsk had been a main point of evacuation as the region braced for a scaling up of Russia’s offensive. The European Union formally approved a new set of sanctions against Russia, including a ban on coal imports. 
  <p class="updated_time"> 06:36 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61036740?at_medium=RSS&at_campaign=KARANGA">Kramatorsk: At least 1,000 at railway station when rockets hit - witness</a> BBC: An aid worker says Kramatorsk station was crowded with evacuees at the time of the blasts. 
- <p class="updated_time"> 06:30 AM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/04/08/world/ukraine-russia-war-news">Live Updates: At Least 39 Killed in Strike on Train Station, Ukraine Says, as Thousands Flee From East</a> NYT: The station in the eastern city of Kramatorsk had been a main point of evacuation as the region braced for a scaling up of Russia’s offensive. The European Union formally approved a new set of sanctions against Russia, including a ban on coal imports. 
  <p class="updated_time"> 06:05 AM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091542359/ukrainian-mom-daughter-writing-back-instagram-war-makoviy">A Ukrainian mom scribbled her contact info on her daughter's back as the war erupted</a> NPR: As bombed rained down on the streets of Kyiv, Aleksandra Makoviy wanted to make sure that her 2-year-old would be safe. The only way to do that was by writing her phone number on the girl's back. 
  <p class="updated_time"> 06:00 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61035565?at_medium=RSS&at_campaign=KARANGA">'Mariupol is a graveyard': Evacuees recount terror of Russian assault</a> BBC: Survivors from the besieged city say they wondered at times if the rest of Ukraine had fallen. 
+ <p class="updated_time"> 05:56 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
  <p class="updated_time"> 05:47 AM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091578830/ukraine-russia-rocket-attack-train-station">About 30 people killed in Russian strike on a packed train station in eastern Ukraine</a> NPR: The head of the Donetsk Regional Military Administration said the station was full of people trying to evacuate when it was allegedly hit by a missile. 
- <p class="updated_time"> 05:45 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
  <p class="updated_time"> 05:12 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61028654?at_medium=RSS&at_campaign=KARANGA">Sri Lanka fuel crisis: Only God can help us now</a> BBC: Millions are having to endure daily power cuts and queue for hours to get basics like cooking gas and diesel. 
  <p class="updated_time"> 05:01 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/australia/the-electric-car-market-heats-up.html">The Electric Car Market Heats Up</a> NYT: Soaring fuel prices and climate change concerns are driving demand for the vehicles in Australia, as elsewhere. But they are particularly hard to find here. 
  <p class="updated_time"> 04:58 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/kyiv-ukraine-war.html">With Russian Forces Gone, Kyiv Starts to Revive</a> NYT: The anxiety remains, but in Ukraine’s capital, large lines of cars are now forming on highways into the city and businesses are reopening. 
+ <p class="updated_time"> 04:56 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/russian-invasion-war-crimes-horrors-of-ukraines-bucha-laid-bare-on-yablunska-street-11649365202">Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street</a> WSJ: Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street 
  <p class="updated_time"> 04:50 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/sabina-nessa-murder-london.html">Killer of Sabina Nessa in London Park Sentenced to Life in Prison  </a> NYT: The murder of a schoolteacher, Sabina Nessa, 28, added to a sense of outrage amid fears the authorities were failing to address violence against women. 
- <p class="updated_time"> 04:45 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/russian-invasion-war-crimes-horrors-of-ukraines-bucha-laid-bare-on-yablunska-street-11649365202">Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street</a> WSJ: Horrors of Ukraine’s Bucha Laid Bare on Yablunska Street 
  <p class="updated_time"> 04:34 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61021186?at_medium=RSS&at_campaign=KARANGA">Israel: Palestinian gunman killed after deadly attack at Tel Aviv bar</a> BBC: He was found after a huge manhunt following an attack on a bar which killed two people, police say. 
  <p class="updated_time"> 04:15 AM CT, Apr. 08 </p> 
@@ -43,20 +43,22 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/world/americas/mexico-president-recall-election.html">Is Mexico’s Recall Election “Democracy of the Highest Order”?</a> NYT: The vote has the potential to upend the country’s political system. But many fear it will amount to nothing more than a tool for propaganda. 
  <p class="updated_time"> 04:00 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/stanislav-aseyev-ukraine-russia.html">For a Ukrainian Journalist, War Evokes Scars From Captivity</a> NYT: Stanislav Aseyev, a 32-year-old journalist, had documented his abuse in a prison run by Russian-backed separatists. Now, the war reminds him of why Ukrainians are fighting for their lives. 
- <p class="updated_time"> 03:45 AM CT, Apr. 08 </p> 
+ <p class="updated_time"> 03:56 AM CT, Apr. 08 </p> 
  <a href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201">Ukrainians Search for Relatives in Besieged Mariupol</a> WSJ: Ukrainians Search for Relatives in Besieged Mariupol 
  <p class="updated_time"> 03:13 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/books/international-booker-prize-shortlist-tokarczuk.html">Women Dominate Shortlist for International Booker Prize</a> NYT: Novels by Olga Tokarczuk, Mieko Kawakami and Claudia Piñeiro are in the running for the prestigious award for translated fiction. 
- <p class="updated_time"> 02:45 AM CT, Apr. 08 </p> 
+ <p class="updated_time"> 02:56 AM CT, Apr. 08 </p> 
  <a href="https://www.wsj.com/articles/shanghai-to-open-50-000-bed-makeshift-hospital-as-covid-infections-climb-11649416195">Shanghai to Open 50,000-Bed Makeshift Hospital as Covid Infections Climb</a> WSJ: Shanghai to Open 50,000-Bed Makeshift Hospital as Covid Infections Climb 
  <p class="updated_time"> 02:42 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60978798?at_medium=RSS&at_campaign=KARANGA">Imran Khan: Pakistan court rules no-confidence vote block is illegal</a> BBC: A court ruled a move to block an earlier vote was illegal, paving the way for his possible removal. 
+ <p class="updated_time"> 02:37 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/terrorist-attacks-in-israel-jerusalem-tensions-challenge-palestinian-strategy-11649417879">Terrorist Attacks in Israel, Jerusalem Tensions Challenge Palestinian Strategy</a> WSJ: Israel’s policy of eschewing peace talks and trying instead to improve Palestinian quality of life is being tested by terrorist attacks and rising religious tensions. 
  <p class="updated_time"> 02:20 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/pink-floyd-ukraine.html">Pink Floyd Says It Will Release New Track to Support Ukraine</a> NYT: The song, “Hey Hey Rise Up,” is a reworking of a protest song from World War I and features the Ukrainian rock star Andriy Khlyvnyuk of the band Boombox. 
+ <p class="updated_time"> 01:56 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/shooting-in-tel-aviv-leaves-six-people-in-serious-condition-11649358191">Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks</a> WSJ: Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks 
  <p class="updated_time"> 01:55 AM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091568039/canada-bans-foreign-home-buyers">Canada's answer to a hot housing market: ban foreign buyers for 2 years</a> NPR: Canada's budget also includes billions for new housing and measures to help Canadians trying to get into the market. 
- <p class="updated_time"> 01:45 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/shooting-in-tel-aviv-leaves-six-people-in-serious-condition-11649358191">Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks</a> WSJ: Israel Shooting in Tel Aviv Leaves at Least Two Dead, the Fourth Attack in Recent Weeks 
  <p class="updated_time"> 01:19 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/business/china-lockdowns-supply-chain.html">How Lockdowns in China Have Further Bogged Down the Supply Chain</a> NYT: China’s Covid lockdowns and restrictions are holding up truck drivers who carry crucial components among factories and bring products to ports, posing a new disruption to the global supply chain. 
  <p class="updated_time"> 12:00 AM CT, Apr. 08 </p> 
