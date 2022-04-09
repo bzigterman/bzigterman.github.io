@@ -354,8 +354,8 @@ nl_west_standings_magic <- nl_west_standings %>%
 division_standings <- full_join(al_central_standings_magic, al_east_standings_magic) %>%
   full_join(al_west_standings_magic) %>% full_join(nl_central_standings_magic) %>%
   full_join(nl_east_standings_magic) %>% full_join(nl_west_standings_magic) %>%
-  select(logo_url, team_label, wins, losses, division_games_behind, 
-         net_wins, win_pct, win_pct_text, division_magic_number, 
+  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text,
+         division_games_behind, division_magic_number, 
          division_elimination_number,division_magic_or_eliminated,
          last_ten, outcomes, division, division_place, league)
 
@@ -709,8 +709,8 @@ nl_standings_magic <- mlb_standings %>%
 mlb_standings_magic <- full_join(al_standings_magic, nl_standings_magic)
 
 wild_card_table <- mlb_standings_magic %>%
-  select(logo_url, team_label, wins, losses, wc_games_behind,
-         win_pct,win_pct_text,
+  select(logo_url, team_label, wins, losses, 
+         win_pct,win_pct_text, wc_games_behind,
          division_or_elim,outcomes, league) %>%
   group_by(league) %>%
   arrange(league,desc(win_pct)) %>%
