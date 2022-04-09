@@ -9,36 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:11 AM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/08/world/ukraine-russia-war-news">What Happened on Day 44 of Russia’s Invasion of Ukraine</a> NYT: Moscow denied responsibility for a missile strike in the eastern city of Kramatorsk that killed at least 50 people. But the Pentagon said Russian forces were behind it. 
+ <p class="updated_time"> 12:02 AM CT, Apr. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61038811?at_medium=RSS&at_campaign=KARANGA">Ukraine mother: I saw my daughter killed, then was held captive in basement</a> BBC: Viktoria describes how her daughter and husband were killed in front of her while escaping Russian forces. 
  <p class="updated_time"> 11:50 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/americas/mexico-president-recall-election.html">Is Mexico’s Recall Election “Democracy of the Highest Order”?</a> NYT: The vote has the potential to upend the country’s political system. But many fear it will amount to nothing more than a tool for propaganda. 
- <p class="updated_time"> 11:44 PM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/04/08/world/ukraine-russia-war-news">Live Updates: Missile Strike on Train Station Kills 50 People Seeking to Escape Fighting</a> NYT: Moscow denied responsibility, but the Pentagon said Russian forces were behind the strike in the eastern city of Kramatorsk. Regulators in the Cayman Islands said companies there froze $7.3 billion in accounts believed to be tied to Russian oligarchs. 
  <p class="updated_time"> 11:36 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/middleeast/saudi-arabia-hajj-pandemic-rules.html">Saudi Arabia will allow a million hajj pilgrims to visit Mecca, with Covid precautions.</a> NYT: Vaccinations and negative tests will be required for those who attend the annual ritual. 
+ <p class="updated_time"> 11:26 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
  <p class="updated_time"> 11:00 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61036740?at_medium=RSS&at_campaign=KARANGA">Kramatorsk station attack: What we know so far</a> BBC: Some 50 people are said to have been killed in Kramatorsk, Ukraine and Russia are blaming each other. 
- <p class="updated_time"> 10:59 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
  <p class="updated_time"> 10:54 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/india-covid-booster-shots.html">India Approves Booster Shots for Adults Between Ages 18 and 60</a> NYT: Experts said that one reason for the shift was that many Indians were finding it hard to travel abroad without booster certificates. 
  <p class="updated_time"> 10:54 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-russia-land-mines.html">Civilians Near Kharkiv Are Discovering Timed Land Mines</a> NYT: Civilians near Kharkiv in northeastern Ukraine are discovering a new threat: munitions that eject up to two dozen small mines that explode at intervals. 
  <p class="updated_time"> 10:48 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61048256?at_medium=RSS&at_campaign=KARANGA">Inside Chernobyl: We stole Russian fuel to prevent catastrophe</a> BBC: Staff at the former nuclear plant tell the BBC they were forced to negotiate when Russian forces took over. 
- <p class="updated_time"> 09:59 PM CT, Apr. 08 </p> 
+ <p class="updated_time"> 10:26 PM CT, Apr. 08 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-drives-food-prices-to-record-high-11649440528">Ukraine War Drives Food Prices to Record High</a> WSJ: Ukraine War Drives Food Prices to Record High 
- <p class="updated_time"> 08:59 PM CT, Apr. 08 </p> 
+ <p class="updated_time"> 09:26 PM CT, Apr. 08 </p> 
  <a href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201">A Woman’s Frantic Search for Family Trapped in Mariupol</a> WSJ: A Woman’s Frantic Search for Family Trapped in Mariupol 
  <p class="updated_time"> 08:47 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61021862?at_medium=RSS&at_campaign=KARANGA">Ukraine, the UN and history's greatest broken promise</a> BBC: If the past is anything to go by, the world will struggle to unite for Ukraine - says Fergal Keane. 
- <p class="updated_time"> 07:59 PM CT, Apr. 08 </p> 
+ <p class="updated_time"> 08:26 PM CT, Apr. 08 </p> 
  <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
+ <p class="updated_time"> 07:26 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941">Shanghai’s Omicron Outbreak Corners Chinese Leader</a> WSJ: Shanghai’s Omicron Outbreak Corners Chinese Leader 
  <p class="updated_time"> 07:03 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-61038961?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 2 - 8 April 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 07:03 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/asia/pakistan-imran-khan.html">Pakistan’s Supreme Court Blocks Imran Khan’s Move to Stay in Power</a> NYT: The prime minister will now face a no-confidence vote, which he had tried to avoid by dissolving Parliament, a move his opponents called a coup. 
- <p class="updated_time"> 06:59 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941">Shanghai’s Omicron Outbreak Corners Chinese Leader</a> WSJ: Shanghai’s Omicron Outbreak Corners Chinese Leader 
  <p class="updated_time"> 06:46 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60343129?at_medium=RSS&at_campaign=KARANGA">The Cambodian activists risking their freedom for the environment</a> BBC: Activists from the Cambodian environmental group Mother Nature are increasingly being targeted. 
  <p class="updated_time"> 06:41 PM CT, Apr. 08 </p> 
@@ -133,8 +135,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/world/europe/cheese-theft-netherlands.html">Major Cheese Heist Puts Dutch Dairy Farmers on Alert</a> NYT: Thieves made off with thousands of pounds of cheese, worth about $23,000, from a Dutch dairy farm last week. 
  <p class="updated_time"> 09:48 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61041438?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Burnt-out cars and debris at Kramatorsk station</a> BBC: Burnt-out cars and abandoned belongings at Kramatorsk railway station in eastern Ukraine. 
- <p class="updated_time"> 09:29 AM CT, Apr. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61021186?at_medium=RSS&at_campaign=KARANGA">Israeli PM vows no limits after three killed by Palestinian attacker</a> BBC: Three Israelis were killed by a Palestinian gunman who opened fire on a busy bar in Tel Aviv. 
  <p class="updated_time"> 09:23 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008288146/bucha-ukraine-russia-atrocities.html">‘Evil Came’: The Toll of Russia’s Occupation in Kyiv’s Suburbs</a> NYT: Land mines, bullet-riddled cars and corpses lying in the street. Residents of Bucha, Borodianka and Hostomel describe the horrors left behind by Russian forces. 
  <p class="updated_time"> 08:36 AM CT, Apr. 08 </p> 
@@ -198,6 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:55 PM CT, Apr. 08 </p> 
+ <a href="https://www.nytimes.com/2022/04/08/us/politics/ketanji-brown-jackson-black-voters.html">Jackson Confirmation Aside, G.O.P. Sees an Opening With Black Voters</a> NYT: With inflation, war and the pandemic looming larger, Democrats who hope that the browbeating of Ketanji Brown Jackson will rally Black voters behind their candidates may be disappointed. 
  <p class="updated_time"> 11:50 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/americas/mexico-president-recall-election.html">Is Mexico’s Recall Election “Democracy of the Highest Order”?</a> NYT: The vote has the potential to upend the country’s political system. But many fear it will amount to nothing more than a tool for propaganda. 
  <p class="updated_time"> 11:00 PM CT, Apr. 08 </p> 
@@ -264,8 +266,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/08/congressional-black-caucus-practical-wins-00024050">‘Don’t need to be absolutists’: Black Dem caucus searches for practical wins</a> Politico: After facing setbacks on voting rights and police reform, senior Black Democrats are looking for scaled-back wins, such as fixing sentencing disparities. 
  <p class="updated_time"> 10:33 AM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/jury-deadlocked-on-some-charges-in-whitmer-kidnap-plot-trial-00024095">2 acquitted, jury hung on 2 more in Whitmer kidnap plot</a> Politico: Two of four men were acquitted Friday of conspiracy to kidnap Michigan Gov. Gretchen Whitmer in 2020, motivated by fury at the Democrat’s tough COVID-19 restrictions early in the pandemic. 
- <p class="updated_time"> 10:21 AM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/08/us/politics/ketanji-brown-jackson-black-voters.html">Jackson Confirmation Aside, G.O.P. Sees an Opening With Black Voters</a> NYT: With inflation, war and the pandemic looming larger, Democrats who hope that the browbeating of Ketanji Brown Jackson will rally Black voters behind their candidates may be disappointed. 
  <p class="updated_time"> 10:17 AM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/white-house-putin-paris-00024054">The White House is freaked out that Putin's next big win could be in Paris</a> Politico: If Russia apologist Marine LePen wins the French elections, Washington fears she could unravel the Western NATO alliance. 
  <p class="updated_time"> 10:00 AM CT, Apr. 08 </p> 
