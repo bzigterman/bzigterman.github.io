@@ -9,14 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:05 AM CT, Apr. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61051217?at_medium=RSS&at_campaign=KARANGA">France election: Voters prepare to cast ballot in presidential poll</a> BBC: Campaigning has ended ahead of the first round of voting which takes place on Sunday. 
+ <p class="updated_time"> 08:04 AM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Live Updates: Ukrainians Stream From East After Train Station Attack</a> NYT: President Volodymyr Zelensky of Ukraine called for “a firm, global response to this war crime” after a missile strike in Kramatorsk killed at least 50. Ukraine’s railway service said evacuations would proceed from nearby cities. 
+ <p class="updated_time"> 08:00 AM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-ukraine-russia.html">Putin’s War in Ukraine Shatters an Illusion in Russia</a> NYT: Russians long lived with an understanding: Stay away from politics, and live your life as you choose. The war in Ukraine wrecked that idea. 
  <p class="updated_time"> 07:59 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
- <p class="updated_time"> 07:41 AM CT, Apr. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Live Updates: Ukrainians Stream From East After Train Station Attack</a> NYT: President Volodymyr Zelensky of Ukraine called for “a firm, global response to this war crime” after a missile strike in Kramatorsk killed at least 50. Ukraine’s railway service said evacuations would proceed from nearby cities. 
+ <p class="updated_time"> 07:30 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Zelensky Calls Russian Strike on Station a War Crime</a> WSJ: Zelensky Calls Russian Strike on Station a War Crime 
  <p class="updated_time"> 07:25 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61049323?at_medium=RSS&at_campaign=KARANGA">Malaysia: Boy, 14, believed dead after diving trip</a> BBC: His British father and a French woman are rescued by authorities after two-and-a-half day ordeal. 
- <p class="updated_time"> 07:02 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Zelensky Calls Russian Strike on Station a War Crime</a> WSJ: Zelensky Calls Russian Strike on Station a War Crime 
  <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091859815/yemens-president-steps-down-in-effort-to-end-7-year-civil-war">Yemen's president steps down in effort to end 7-year civil war</a> NPR: Scott Simon speaks to Yemen analyst Nadwa Al-Dawsari about the Yemeni president's transfer of power and its significance. 
  <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
@@ -33,33 +37,31 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/09/world/europe/eu-putin-sanctions-daughters.html">Latest E.U. Sanctions Get Personal With Putin’s Daughters and Confidantes.</a> NYT: The targets included one of the most trusted technocrats in Mr. Putin’s economic policy team and the head of a construction empire who used to practice judo with the Russian leader. 
  <p class="updated_time"> 06:48 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/article/france-presidential-election-2022.html">France’s Presidential Election 2022: Your Questions, Answered</a> NYT: The French are choosing their president in April, an election that is crucial for France and key for Europe. President Emmanuel Macron is favored to win, but the race has gotten closer. 
- <p class="updated_time"> 06:40 AM CT, Apr. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61051217?at_medium=RSS&at_campaign=KARANGA">France election: Voters prepare to cast ballot in presidential poll</a> BBC: Campaigning has ended ahead of the first round of voting which takes place on Sunday. 
  <p class="updated_time"> 06:35 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61049896?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Watch BBC interview with Ukrainian PM</a> BBC: In a BBC exclusive, Denys Shmyhal accuses Russia of committing genocide in Ukraine. 
- <p class="updated_time"> 06:02 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 06:30 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/russian-oligarchs-private-jets-find-refuge-in-dubai-but-cant-leave-11649496610">Russian Oligarchs’ Private Jets Find Refuge in Dubai but Can’t Leave</a> WSJ: Russian Oligarchs’ Private Jets Find Refuge in Dubai but Can’t Leave 
  <p class="updated_time"> 05:46 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-russia-war-ukraine.html">Spurred by Putin, Russians Turn on One Another Over the War</a> NYT: Citizens are denouncing one another, illustrating how the war is feeding paranoia and polarization in Russian society. 
+ <p class="updated_time"> 05:30 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 05:24 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/poland-women-ukraine-refugees.html">Women in Poland volunteer as drivers to offer safe transit to Ukraine’s refugees.</a> NYT: With women and children at high risk of exploitation, a volunteer collective called Women Take the Wheel is helping them make the journey. 
- <p class="updated_time"> 05:02 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 05:00 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/canada/foreign-real-estate-buyer-ban.html">Canada Moves to Ban Foreign Real Estate Buyers for Two Years</a> NYT: Among the many budget measures to make housing more affordable is a two-year ban on sales to foreign buyers. But details are scarce. 
  <p class="updated_time"> 04:31 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/french-presidential-election-marcon-le-pen.html">With Macron and Le Pen Leading Election Field, a Fractured France Decides</a> NYT: In Dijon, magnificence and malaise sit side by side, in the image of a country divided before the presidential vote on Sunday. 
+ <p class="updated_time"> 04:30 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/economic-crisis-threatens-hold-of-sri-lankas-most-powerful-family-11649501618">Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family</a> WSJ: Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family 
  <p class="updated_time"> 04:05 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61049656?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Inside Chernobyl after the Russian occupation</a> BBC: The nuclear power plant in northern Ukraine was taken over by Russian forces on the first day of the invasion. 
  <p class="updated_time"> 04:02 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091594904/mexico-president-recall-referendum-lopez-obrador-amlo">Here's why Mexico's president is launching a vote to recall himself</a> NPR: While recalls are a common political tool, normally it's the opponents of an unpopular leader who favor a recall. But Sunday's referendum is the president's own idea. And he's expected to win. 
- <p class="updated_time"> 04:02 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/economic-crisis-threatens-hold-of-sri-lankas-most-powerful-family-11649501618">Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family</a> WSJ: Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family 
  <p class="updated_time"> 04:00 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/04/09/1091740132/ukraine-russia-borodyanka">This is what a Ukraine town looks like after Russian troops withdraw</a> NPR: The residents of Borodyanka are picking up the pieces after Russian forces withdrew and left behind a shattered town. Hundreds of people are still missing, presumed buried under rubble. 
  <p class="updated_time"> 03:45 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/japan-russia-ukraine.html">Japan Aligns With U.S. and Europe in Penalizing Russia Over Ukraine War</a> NYT: The country has announced a ban on Russian coal and restrictions on imports including timber, vodka and machinery. It is also expelling eight Russian diplomats. 
- <p class="updated_time"> 03:02 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 03:30 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
  <p class="updated_time"> 02:05 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tank treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
@@ -167,8 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/world/europe/france-presidential-election-macron-economy-le-pen.html">‘La French Tech’ Arrives Under Macron, but Proves No Panacea</a> NYT: The president has brought innovation, jobs and growth. Still, resentments fester on the eve of the presidential election. 
  <p class="updated_time"> 04:00 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/arts/music/annilese-miskimmon-eno-handmaids-tale.html">For This Opera Director, a Lot Is Riding on a ‘Handmaid’s Tale’</a> NYT: For her English National Opera debut, the company’s new artistic leader, Annilese Miskimmon, has chosen a work she hopes can bring in a new audience. 
- <p class="updated_time"> 03:13 AM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/07/books/international-booker-prize-shortlist-tokarczuk.html">Women Dominate Shortlist for International Booker Prize</a> NYT: Novels by Olga Tokarczuk, Mieko Kawakami and Claudia Piñeiro are in the running for the prestigious award for translated fiction. 
  <p class="updated_time"> 12:00 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/israel-tel-aviv-shooting.html">Palestinian Who Killed 2 in Tel Aviv Is Shot Dead After Manhunt</a> NYT: The gunman initially escaped after his attack outside a busy bar at the heart of Israel’s most cosmopolitan city. After a nightlong search, police forces said they killed the gunman in a shootout near a mosque in Jaffa. 
  <p class="updated_time"> 08:49 PM CT, Apr. 07 </p> 
@@ -198,6 +198,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:00 AM CT, Apr. 09 </p> 
+ <a href="https://www.politico.com/news/2022/04/09/intel-putin-ukraine-war-us-politics-00024256">Intel: Putin may cite Ukraine war to meddle in U.S. politics</a> Politico: Given Putin’s antipathy toward the West and his repeated denunciations of Ukraine, officials believe he may see the U.S. backing of Ukraine’s resistance as a direct affront to him. 
+ <p class="updated_time"> 07:56 AM CT, Apr. 09 </p> 
+ <a href="https://www.politico.com/news/2022/04/09/civilians-flee-ukraine-station-strike-00024254">More civilians flee east Ukraine after deadly station strike</a> Politico: Ukrainian President Volodymyr Zelenskyy demanded a tough global response to Friday's train station attack in Kramatorsk. 
  <p class="updated_time"> 07:40 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/state-department-white-house-gift-records-trump-pence-00024253">State Department: White House gift records for Trump, Pence missing</a> Politico: The department says the Executive Office of the President did not submit information about gifts received by Trump and his family from foreign leaders in 2020. 
  <p class="updated_time"> 07:25 AM CT, Apr. 09 </p> 
@@ -230,6 +234,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/us/politics/trump-foreign-gifts.html">Trump Officials Failed to Provide Accounting of Foreign Gifts</a> NYT: The State Department could not compile a list of gifts for 2020, making it difficult to determine whether officials did anything improper. 
  <p class="updated_time"> 08:41 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/idaho-supreme-court-abortion.html">Idaho Supreme Court Halts 6-Week Abortion Ban Based on Texas’ Law</a> NYT: The court says Idaho’s law cannot go into effect this month as scheduled while it reviews legal challenges. The ban prohibits abortions after fetal cardiac activity is detected. 
+ <p class="updated_time"> 08:15 PM CT, Apr. 08 </p> 
+ <a href="https://www.politico.com/news/2022/04/08/stop-the-steal-organizer-cooperating-justice-department-00024247">'Stop the Steal' organizer says he received a grand jury subpoena for Jan. 6 probe</a> Politico: Ali Alexander has previously testified to the Jan. 6 select committee. 
  <p class="updated_time"> 07:54 PM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/liberal-conservative-california-house-fight-00024245">Liberal, conservative face off in California House fight</a> Politico: No candidate was able to claim a majority of the vote Tuesday and win Devin Nunes' former seat outright, so the top two finishers will advance to a runoff. 
  <p class="updated_time"> 07:35 PM CT, Apr. 08 </p> 
@@ -284,8 +290,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/08/democrats-biden-gun-control-00024097">Democrats exasperated with Biden on gun control</a> Politico: "It's time for more urgency from the administration," says Sen. Chris Murphy, an ally of the president. 
  <p class="updated_time"> 10:45 AM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/congressional-black-caucus-practical-wins-00024050">‘Don’t need to be absolutists’: Black Dem caucus searches for practical wins</a> Politico: After facing setbacks on voting rights and police reform, senior Black Democrats are looking for scaled-back wins, such as fixing sentencing disparities. 
- <p class="updated_time"> 10:33 AM CT, Apr. 08 </p> 
- <a href="https://www.politico.com/news/2022/04/08/jury-deadlocked-on-some-charges-in-whitmer-kidnap-plot-trial-00024095">2 acquitted, jury hung on 2 more in Whitmer kidnap plot</a> Politico: Two of four men were acquitted Friday of conspiracy to kidnap Michigan Gov. Gretchen Whitmer in 2020, motivated by fury at the Democrat’s tough COVID-19 restrictions early in the pandemic. 
  <p class="updated_time"> 10:17 AM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/white-house-putin-paris-00024054">The White House is freaked out that Putin's next big win could be in Paris</a> Politico: If Russia apologist Marine LePen wins the French elections, Washington fears she could unravel the Western NATO alliance. 
  <p class="updated_time"> 10:00 AM CT, Apr. 08 </p> 
@@ -294,14 +298,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/business/spirit-airlines-jetblue-frontier.html">Bidding War for Spirit Could Undercut Power of Four Big Airlines</a> NYT: The rival bids for Spirit from Frontier and JetBlue could create an airline that presents a more formidable challenge to American, Delta, Southwest and United. 
  <p class="updated_time"> 09:41 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-supreme-court.html">Ketanji Brown Jackson Becomes First Black Woman on Supreme Court</a> NYT: The vote was a bipartisan rejection of Republican attempts to paint her as a liberal extremist who had coddled criminals. 
- <p class="updated_time"> 06:00 AM CT, Apr. 08 </p> 
- <a href="https://www.politico.com/news/2022/04/08/congress-sanction-war-putin-00023966">No more 'dillydallying' and 'lollygagging': Congress finally puts its foot down on Russia</a> Politico: After weeks of delay, a powerful bipartisan push to sanction Moscow could also box in the White House's ability to act. 
  <p class="updated_time"> 04:05 AM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091569045/voters-in-michigans-7th-congressional-district-weigh-in-on-issues-ahead-of-midte">Voters in Michigan's 7th Congressional District weigh in on issues ahead of midterms</a> NPR: Democrats aim to balance multiple crises ahead of November's midterm elections. Voters in Livingston County, Mich., share their concerns about inflation and their views of President Biden. 
  <p class="updated_time"> 03:30 AM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/ukraines-iron-general-zaluzhnyy-00023901">Ukraine’s 'iron general' is a hero, but he's no star</a> Politico: Meet Valeriy Zaluzhnyy, the commander in chief of the Ukrainian Armed Forces, who's quietly leading the fight against Russia's invaders. 
- <p class="updated_time"> 03:30 AM CT, Apr. 08 </p> 
- <a href="https://www.politico.com/news/2022/04/08/dc-covid-omicron-ba2-risks-what-to-know-00023920">Covid in D.C.: What to know about the risks of Omicron and BA.2</a> Politico: The surge of Covid-19 infections in Washington this week has many wondering if it's safe enough to hold indoor, public events again. 
  <p class="updated_time"> 03:30 AM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/gallery/2022/04/08/the-nations-cartoonists-on-the-week-in-politics-00023974">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 10:36 PM CT, Apr. 07 </p> 
