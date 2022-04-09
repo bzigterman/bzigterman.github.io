@@ -17,26 +17,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Names General to Unify Its Faltering Campaign</a> NYT: The move comes as Russia persists with its push in southeastern Ukraine, where residents continued to flee on Saturday a day after a missile strike on a train station there killed at least 52 people. 
  <p class="updated_time"> 01:41 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/boris-johnson-kyiv-ukraine-aid.html">Boris Johnson Visits Kyiv As Britain Promises Aid to Ukraine</a> NYT:  
- <p class="updated_time"> 01:26 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 01:37 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
  <p class="updated_time"> 01:23 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61054911?at_medium=RSS&at_campaign=KARANGA">Ukraine will rise again - PM Boris Johnson</a> BBC: The UK prime minister held talks in Kyiv with Ukraine's President Volodymyr Zelensky. 
  <p class="updated_time"> 12:57 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/russia-ukraine-general-kramatorsk.html">Russia Shuffles Command in Ukraine as Thousands Flee the East</a> NYT: The Russian campaign will be consolidated under a veteran of the Syrian war, while Western nations pump additional arms into Ukraine. 
- <p class="updated_time"> 12:26 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 12:37 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict</a> WSJ: China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict 
  <p class="updated_time"> 12:05 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
- <p class="updated_time"> 11:26 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 11:37 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
- <p class="updated_time"> 10:26 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 10:37 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Lawmakers Loyal to Pakistan’s Imran Khan Defy Top Court, Block Vote in Parliament</a> WSJ: Lawmakers Loyal to Pakistan’s Imran Khan Defy Top Court, Block Vote in Parliament 
  <p class="updated_time"> 09:43 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tank treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
+ <p class="updated_time"> 09:37 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 09:29 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-train-station-attack.html">Photos From Kramatorsk After the Rocket Assault</a> NYT: A railway station in eastern Ukraine had been a main departure point for people seeking to escape an expected Russian onslaught. A rocket assault left at least 50 dead. 
- <p class="updated_time"> 09:26 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 09:17 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61051217?at_medium=RSS&at_campaign=KARANGA">France election: Voters prepare to cast ballot in presidential poll</a> BBC: Campaigning has ended ahead of the first round of voting which takes place on Sunday. 
  <p class="updated_time"> 08:44 AM CT, Apr. 09 </p> 
