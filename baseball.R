@@ -564,7 +564,7 @@ plot_grid(al_central_plot,al_east_plot,al_west_plot,
           ncol = 1)
 
 ggsave("plots/divisions_net_wins_mobile.png", 
-       width = 2, height = 7, dpi = 320)
+       width = 2.5, height = 7, dpi = 320)
 
 # wild card standings ----
 
