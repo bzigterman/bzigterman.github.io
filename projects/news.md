@@ -9,36 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:24 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 01:13 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Names General to Unify Its Faltering Campaign</a> NYT: The move comes as Russia persists with its push in southeastern Ukraine, where residents continued to flee on Saturday a day after a missile strike on a train station there killed at least 52 people. 
- <p class="updated_time"> 12:19 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 12:58 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61052643?at_medium=RSS&at_campaign=KARANGA">UK PM travels to Kyiv for Zelensky talks</a> BBC: The PM offers Ukraine 120 armoured vehicles during a visit No 10 calls a "show of solidarity" . 
+ <p class="updated_time"> 12:57 PM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/2022/04/09/world/europe/russia-ukraine-general-kramatorsk.html">Russia Shuffles Command in Ukraine as Thousands Flee the East</a> NYT: The Russian campaign will be consolidated under a veteran of the Syrian war, while Western nations pump additional arms into Ukraine. 
+ <p class="updated_time"> 12:17 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict</a> WSJ: China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict 
  <p class="updated_time"> 12:05 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
  <p class="updated_time"> 12:03 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/middleeast/israel-palestinian-violence.html">Wave of Terrorism in Israel Defies a Clear Narrative</a> NYT: Four recent deadly attacks have highlighted Palestinian anger over vanishing prospects of a Palestinian state, but the assailants’ diverse backgrounds have left many questions unanswered. 
- <p class="updated_time"> 11:42 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 11:17 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
- <p class="updated_time"> 10:59 AM CT, Apr. 09 </p> 
- <a href="https://www.nytimes.com/2022/04/09/world/europe/russia-ukraine-general-kramatorsk.html">Russia Shuffles Command in Ukraine as Thousands Flee the East</a> NYT: The Russian campaign will be consolidated under a veteran of the Syrian war, while Western nations pump additional arms into Ukraine. 
- <p class="updated_time"> 10:42 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/russian-oligarchs-private-jets-find-refuge-in-dubai-but-cant-leave-11649496610">Russian Oligarchs’ Private Jets Find Refuge in Dubai but Can’t Leave</a> WSJ: Russian Oligarchs’ Private Jets Find Refuge in Dubai but Can’t Leave 
+ <p class="updated_time"> 10:17 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 09:43 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tank treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
- <p class="updated_time"> 09:42 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 09:29 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-train-station-attack.html">Photos From Kramatorsk After the Rocket Assault</a> NYT: A railway station in eastern Ukraine had been a main departure point for people seeking to escape an expected Russian onslaught. A rocket assault left at least 50 dead. 
+ <p class="updated_time"> 09:17 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-residents-face-fresh-round-of-mass-covid-19-testing-11649505734">Shanghai Residents Ordered to Undergo Mass Covid-19 Testing</a> WSJ: Shanghai Residents Ordered to Undergo Mass Covid-19 Testing 
  <p class="updated_time"> 09:17 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61051217?at_medium=RSS&at_campaign=KARANGA">France election: Voters prepare to cast ballot in presidential poll</a> BBC: Campaigning has ended ahead of the first round of voting which takes place on Sunday. 
  <p class="updated_time"> 08:44 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61049323?at_medium=RSS&at_campaign=KARANGA">Malaysia: Boy, 14, believed dead after diving trip</a> BBC: His British father and a French woman are rescued by authorities after two-and-a-half day ordeal. 
- <p class="updated_time"> 08:42 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/economic-crisis-threatens-hold-of-sri-lankas-most-powerful-family-11649501618">Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family</a> WSJ: Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family 
+ <p class="updated_time"> 08:17 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Lawmakers Loyal to Pakistan’s Imran Khan Defy Top Court, Block Vote in Parliament</a> WSJ: Lawmakers Loyal to Pakistan’s Imran Khan Defy Top Court, Block Vote in Parliament 
  <p class="updated_time"> 08:00 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-ukraine-russia.html">Putin’s War in Ukraine Shatters an Illusion in Russia</a> NYT: Russians long lived with an understanding: Stay away from politics, and live your life as you choose. The war in Ukraine wrecked that idea. 
- <p class="updated_time"> 07:42 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
  <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091859815/yemens-president-steps-down-in-effort-to-end-7-year-civil-war">Yemen's president steps down in effort to end 7-year civil war</a> NPR: Scott Simon speaks to Yemen analyst Nadwa Al-Dawsari about the Yemeni president's transfer of power and its significance. 
  <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
@@ -159,6 +159,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/video/world/europe/100000008288146/bucha-ukraine-russia-atrocities.html">‘Evil Came’: The Toll of Russia’s Occupation in Kyiv’s Suburbs</a> NYT: Land mines, bullet-riddled cars and corpses lying in the street. Residents of Bucha, Borodianka and Hostomel describe the horrors left behind by Russian forces. 
  <p class="updated_time"> 08:36 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/sabina-nessa-murder-london.html">Killer of Sabina Nessa in London Park Sentenced to Life in Prison  </a> NYT: The murder of a schoolteacher, Sabina Nessa, 28, added to a sense of outrage amid fears the authorities were failing to address violence against women. 
+ <p class="updated_time"> 08:34 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: Polling shows Marine Le Pen closing in on President Emmanuel Macron ahead of elections Sunday, as the war in Ukraine ripples across Europe’s economic and political landscape. 
  <p class="updated_time"> 07:27 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/yemen-war-saudi-arabia.html">How the Yemen War Connects to Saudi Arabia and Iran</a> NYT: Yemen was already the Arab world’s poorest country before its civil war began in 2014. Then a Saudi-led coalition joined the fight against the Iran-backed Houthi militia, spreading the ruin. 
  <p class="updated_time"> 05:12 AM CT, Apr. 08 </p> 
@@ -198,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:53 PM CT, Apr. 09 </p> 
+ <a href="https://www.politico.com/news/2022/04/09/ag-secretary-positive-covid-19-00024266">Ag Secretary tests positive for Covid-19</a> Politico: Agriculture Secretary Tom Vilsack is fully vaccinated and boosted. 
  <p class="updated_time"> 12:11 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/us/politics/biden-border-immigration.html">How Infighting Over the Border Divided the Biden White House</a> NYT: The Biden administration has furiously debated how — and whether — to unravel Trump-era immigration policies. 
  <p class="updated_time"> 09:02 AM CT, Apr. 09 </p> 
@@ -215,15 +219,15 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091859752/week-in-politics-ketanji-brown-jackson-confirmed-as-justice-russia-sanctioned">Week in politics: Ketanji Brown Jackson confirmed as justice; Russia sanctioned</a> NPR: The Senate confirms the first Black woman as justice on the U.S. Supreme Court and also deals additional rebukes to Russia on trade. 
  <p class="updated_time"> 06:01 AM CT, Apr. 09 </p> 
- <a href="https://www.politico.com/news/2022/04/09/cdc-policy-change-political-loser-democrats-00024219">Republicans see CDC’s policy change as ‘massive political loser for Democrats’</a> Politico: The GOP is openly discussing tying Biden administration's scrapping of Title 42, a Trump-era pandemic border policy, to a range of other voter concerns. 
- <p class="updated_time"> 06:01 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/website-domain-more-expensive-00023524">Why your website is about to get more expensive</a> Politico: Verisign, the government-backed monopoly that manages the .com domain, plans to raise prices this fall. And the year after that. And the year after that. 
+ <p class="updated_time"> 06:01 AM CT, Apr. 09 </p> 
+ <a href="https://www.politico.com/news/2022/04/09/cdc-policy-change-political-loser-democrats-00024219">Republicans see CDC’s policy change as ‘massive political loser for Democrats’</a> Politico: The GOP is openly discussing tying Biden administration's scrapping of Title 42, a Trump-era pandemic border policy, to a range of other voter concerns. 
+ <p class="updated_time"> 06:00 AM CT, Apr. 09 </p> 
+ <a href="https://www.politico.com/news/2022/04/09/angry-voters-biden-inflation-midterms-00024218">A sour and angry America poised to punish Dems this fall</a> Politico: Biden and his top advisers know that the window to change the economic narrative through executive action is rapidly closing. 
  <p class="updated_time"> 06:00 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/fda-food-health-safety-investigation-takeaways-00023805">4 takeaways from our investigation into the FDA's byzantine food arm</a> Politico: A monthslong POLITICO investigation based on over 50 interviews found that the food side of FDA has been incredibly ignored and grown dysfunctional. We break down the top highlights. 
  <p class="updated_time"> 06:00 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/fda-similac-recall-infant-formula-complaint-callout-00022056">Have you complained to the FDA about the Similac recall or another infant formula recall? We want to hear from you.</a> Politico: The FDA's broken food regulation system is failing to act on critical food safety and nutrition issues. Tell us how it might have impacted you. 
- <p class="updated_time"> 06:00 AM CT, Apr. 09 </p> 
- <a href="https://www.politico.com/news/2022/04/09/angry-voters-biden-inflation-midterms-00024218">A sour and angry America poised to punish Dems this fall</a> Politico: Biden and his top advisers know that the window to change the economic narrative through executive action is rapidly closing. 
  <p class="updated_time"> 04:00 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091641378/madison-cawthorn-north-carolina-trump-rally-11th-district">Cawthorn's inflammatory comments have some Republicans in his district tiring of him</a> NPR: Republican Rep. Madison Cawthorn, who has been under fire for recent comments about Ukraine and life in D.C., joins former President Donald Trump at a North Carolina rally on Saturday. 
  <p class="updated_time"> 04:00 AM CT, Apr. 09 </p> 
@@ -278,8 +282,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/08/supreme-court-republicans-00024108">The Supreme Court question Republicans won't answer</a> Politico: They could have a Senate majority in 2023. But they won't say, definitively, how they would treat another Joe Biden Supreme Court nominee. 
  <p class="updated_time"> 12:50 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091711705/us-missile-defense-system-slovakia-ukraine">U.S. to place Patriot missile defense system in Slovakia to help with Ukraine swap</a> NPR: Defense Secretary Lloyd Austin said the missile defense system, which will be manned by U.S. service members, will arrive in Slovakia in the coming days. 
- <p class="updated_time"> 12:43 PM CT, Apr. 08 </p> 
- <a href="https://www.politico.com/news/2022/04/08/biden-ketanji-brown-jackson-supreme-court-00024128">'Powerful notion': Biden celebrates Jackson's historic confirmation</a> Politico: The White House event comes after the Senate voted on Thursday to confirm Jackson in a 53-47 vote. 
  <p class="updated_time"> 12:42 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091693738/proud-boy-leader-pleads-guilty-to-jan-6-conspiracy-agrees-to-cooperate-with-doj">Proud Boy leader pleads guilty to Jan. 6 conspiracy, agrees to cooperate with DOJ</a> NPR: Charles Donohoe, the leader of a North Carolina Proud Boys chapter, has pleaded guilty to conspiracy and agreed to cooperate with the federal investigation into the Jan. 6 attack on the US Capitol. 
  <p class="updated_time"> 12:00 PM CT, Apr. 08 </p> 
