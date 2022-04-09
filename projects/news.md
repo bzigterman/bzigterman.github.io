@@ -11,20 +11,20 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 09:24 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/04/08/world/ukraine-russia-war-news">Live Updates: Missile Strike on Train Station Kills 50 People Seeking to Escape Fighting</a> NYT: Moscow denied responsibility, but the Pentagon said Russian forces were behind the strike in the eastern city of Kramatorsk. Regulators in the Cayman Islands said companies there froze $7.3 billion in accounts believed to be tied to Russian oligarchs. 
+ <p class="updated_time"> 09:15 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
  <p class="updated_time"> 08:47 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61021862?at_medium=RSS&at_campaign=KARANGA">Ukraine, the UN and history's greatest broken promise</a> BBC: If the past is anything to go by, the world will struggle to unite for Ukraine - says Fergal Keane. 
- <p class="updated_time"> 08:45 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
- <p class="updated_time"> 07:45 PM CT, Apr. 08 </p> 
+ <p class="updated_time"> 08:15 PM CT, Apr. 08 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-drives-food-prices-to-record-high-11649440528">Ukraine War Drives Food Prices to Record High</a> WSJ: Ukraine War Drives Food Prices to Record High 
+ <p class="updated_time"> 07:15 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201">A Woman’s Frantic Search for Family Trapped in Mariupol</a> WSJ: A Woman’s Frantic Search for Family Trapped in Mariupol 
  <p class="updated_time"> 07:03 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-61038961?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 2 - 8 April 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 07:03 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/asia/pakistan-imran-khan.html">Pakistan’s Supreme Court Blocks Imran Khan’s Move to Stay in Power</a> NYT: The prime minister will now face a no-confidence vote, which he had tried to avoid by dissolving Parliament, a move his opponents called a coup. 
  <p class="updated_time"> 06:46 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60343129?at_medium=RSS&at_campaign=KARANGA">The Cambodian activists risking their freedom for the environment</a> BBC: Activists from the Cambodian environmental group Mother Nature are increasingly being targeted. 
- <p class="updated_time"> 06:45 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201">A Woman’s Frantic Search for Family Trapped in Mariupol</a> WSJ: A Woman’s Frantic Search for Family Trapped in Mariupol 
  <p class="updated_time"> 06:41 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61035711?at_medium=RSS&at_campaign=KARANGA">Kenyan climber joins first all-black team attempting Mount Everest</a> BBC: Kenya's James Kagambi is the oldest in a group out to inspire black people to take up mountaineering. 
  <p class="updated_time"> 06:40 PM CT, Apr. 08 </p> 
@@ -35,20 +35,20 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61047585?at_medium=RSS&at_campaign=KARANGA">Imran Khan: Pakistan PM on brink as confidence vote looms</a> BBC: Pakistan's prime minister warns that if he is ousted, he won't recognise an opposition government. 
  <p class="updated_time"> 06:26 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091827455/a-paris-exhibit-highlights-the-work-of-mexican-photographer-graciela-iturbide">A Paris exhibit highlights the work of Mexican photographer Graciela Iturbide</a> NPR: Mexican photographer Graciela Iturbide has won international renown for her portraits of indigenous and marginalized peoples across the globe. A Paris exhibition is currently highlighting that work. 
+ <p class="updated_time"> 06:15 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
  <p class="updated_time"> 06:01 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61038463?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The school that helped fleeing musicians find safety</a> BBC: A group of young musicians from Kharkiv and Odesa have found new homes in Denmark. 
  <p class="updated_time"> 05:59 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-train-station-attack.html">Photos From Kramatorsk After the Rocket Assault</a> NYT: A railway station in eastern Ukraine had been a main departure point for people seeking to escape an expected Russian onslaught. A rocket assault left at least 50 dead. 
- <p class="updated_time"> 05:45 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
+ <p class="updated_time"> 05:15 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941">Shanghai’s Omicron Outbreak Corners Chinese Leader</a> WSJ: Shanghai’s Omicron Outbreak Corners Chinese Leader 
  <p class="updated_time"> 05:08 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/boris-johnson-scholz-russia.html">Boris Johnson Urges Germany Not to Let Up Pressure on Russia</a> NYT: Prime Minister Boris Johnson is pressing European allies to take a hard line, like cutting off Russian energy imports, but after Brexit, his influence is limited. 
  <p class="updated_time"> 04:55 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/asia/food-shortages-shanghai-covid.html">Shanghai’s Covid Lockdown Has Caused Food Shortages, Residents Say</a> NYT: The authorities have locked down the city of 26 million in a bid to contain China’s worst outbreak since the pandemic began. 
  <p class="updated_time"> 04:53 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091801453/1mdb-fund-goldman-sachs-roger-ng-guilty">A former Goldman Sachs banker is found guilty in a plot to loot Malaysia's 1MDB fund</a> NPR: Roger Ng was convicted in a New York federal court of bribery and other corruption charges accusing him of participating in a $4.5 billion scheme to ransack the Malaysian state investment fund. 
- <p class="updated_time"> 04:45 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941">Shanghai’s Omicron Outbreak Corners Chinese Leader</a> WSJ: Shanghai’s Omicron Outbreak Corners Chinese Leader 
  <p class="updated_time"> 04:26 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-61015290?at_medium=RSS&at_campaign=KARANGA">Why France's daily baguette is costing so much dough</a> BBC: Every part of the cost of the daily staple is rising - flour, electricity, gas and wages. 
  <p class="updated_time"> 04:14 PM CT, Apr. 08 </p> 
