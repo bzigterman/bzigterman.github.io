@@ -9,22 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:17 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 06:21 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Live Updates: Ukrainians Stream From East After Train Station Attack</a> NYT: President Volodymyr Zelensky of Ukraine called for “a firm, global response to this war crime” after a missile strike in Kramatorsk killed at least 50. Ukraine’s railway service said evacuations would proceed from nearby cities. 
  <p class="updated_time"> 05:46 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-russia-war-ukraine.html">Spurred by Putin, Russians Turn on One Another Over the War</a> NYT: Citizens are denouncing one another, illustrating how the war is feeding paranoia and polarization in Russian society. 
  <p class="updated_time"> 05:40 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61047585?at_medium=RSS&at_campaign=KARANGA">Imran Khan: Pakistan PM on brink as confidence vote looms</a> BBC: Pakistan's prime minister warns that if he is ousted, he won't recognise an opposition government. 
+ <p class="updated_time"> 05:32 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Zelensky Calls Russian Strike on Station a War Crime</a> WSJ: Zelensky Calls Russian Strike on Station a War Crime 
  <p class="updated_time"> 05:24 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/poland-women-ukraine-refugees.html">Women in Poland volunteer as drivers to offer safe transit to Ukraine’s refugees.</a> NYT: With women and children at high risk of exploitation, a volunteer collective called Women Take the Wheel is helping them make the journey. 
- <p class="updated_time"> 05:20 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
  <p class="updated_time"> 05:00 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/canada/foreign-real-estate-buyer-ban.html">Canada Moves to Ban Foreign Real Estate Buyers for Two Years</a> NYT: Among the many budget measures to make housing more affordable is a two-year ban on sales to foreign buyers. But details are scarce. 
+ <p class="updated_time"> 04:32 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/russian-oligarchs-private-jets-find-refuge-in-dubai-but-cant-leave-11649496610">Russian Oligarchs’ Private Jets Find Refuge in Dubai but Can’t Leave</a> WSJ: Russian Oligarchs’ Private Jets Find Refuge in Dubai but Can’t Leave 
  <p class="updated_time"> 04:31 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/french-presidential-election-marcon-le-pen.html">With Macron and Le Pen Leading Election Field, a Fractured France Decides</a> NYT: In Dijon, magnificence and malaise sit side by side, in the image of a country divided before the presidential vote on Sunday. 
- <p class="updated_time"> 04:20 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-drives-food-prices-to-record-high-11649440528">Ukraine War Drives Food Prices to Record High</a> WSJ: Ukraine War Drives Food Prices to Record High 
  <p class="updated_time"> 04:05 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61049656?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Inside Chernobyl after the Russian occupation</a> BBC: The nuclear power plant in northern Ukraine was taken over by Russian forces on the first day of the invasion. 
  <p class="updated_time"> 04:02 AM CT, Apr. 09 </p> 
@@ -33,16 +33,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/04/09/1091740132/ukraine-russia-borodyanka">This is what a Ukraine town looks like after Russian troops withdraw</a> NPR: The residents of Borodyanka are picking up the pieces after Russian forces withdrew and left behind a shattered town. Hundreds of people are still missing, presumed buried under rubble. 
  <p class="updated_time"> 03:45 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/japan-russia-ukraine.html">Japan Aligns With U.S. and Europe in Penalizing Russia Over Ukraine War</a> NYT: The country has announced a ban on Russian coal and restrictions on imports including timber, vodka and machinery. It is also expelling eight Russian diplomats. 
- <p class="updated_time"> 03:20 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201">A Woman’s Frantic Search for Family Trapped in Mariupol</a> WSJ: A Woman’s Frantic Search for Family Trapped in Mariupol 
- <p class="updated_time"> 02:20 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
+ <p class="updated_time"> 03:32 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
+ <p class="updated_time"> 02:32 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/economic-crisis-threatens-hold-of-sri-lankas-most-powerful-family-11649501618">Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family</a> WSJ: Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family 
  <p class="updated_time"> 02:05 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tank treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
  <p class="updated_time"> 02:04 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61049323?at_medium=RSS&at_campaign=KARANGA">British man safe but son missing after Malaysia diving trip</a> BBC: A French woman is also found safe two-and-a-half days after the group went missing in Malaysia. 
- <p class="updated_time"> 01:20 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941">Shanghai’s Omicron Outbreak Corners Chinese Leader</a> WSJ: Shanghai’s Omicron Outbreak Corners Chinese Leader 
+ <p class="updated_time"> 01:32 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
  <p class="updated_time"> 12:02 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61038811?at_medium=RSS&at_campaign=KARANGA">Ukraine mother: I saw my daughter killed, then was held captive in basement</a> BBC: Viktoria describes how her daughter and husband were killed in front of her while escaping Russian forces. 
  <p class="updated_time"> 11:50 PM CT, Apr. 08 </p> 
@@ -149,12 +149,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/world/europe/sabina-nessa-murder-london.html">Killer of Sabina Nessa in London Park Sentenced to Life in Prison  </a> NYT: The murder of a schoolteacher, Sabina Nessa, 28, added to a sense of outrage amid fears the authorities were failing to address violence against women. 
  <p class="updated_time"> 07:27 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/yemen-war-saudi-arabia.html">How the Yemen War Connects to Saudi Arabia and Iran</a> NYT: Yemen was already the Arab world’s poorest country before its civil war began in 2014. Then a Saudi-led coalition joined the fight against the Iran-backed Houthi militia, spreading the ruin. 
- <p class="updated_time"> 06:27 AM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/terrorist-attacks-in-israel-jerusalem-tensions-challenge-palestinian-strategy-11649417879">Terrorist Attacks in Israel, Jerusalem Tensions Challenge Palestinian Strategy</a> WSJ: Israel’s policy of eschewing peace talks and trying instead to improve Palestinian quality of life is being tested by terrorist attacks and rising religious tensions. 
  <p class="updated_time"> 05:12 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61028654?at_medium=RSS&at_campaign=KARANGA">Sri Lanka fuel crisis: Only God can help us now</a> BBC: Millions are having to endure daily power cuts and queue for hours to get basics like cooking gas and diesel. 
  <p class="updated_time"> 05:01 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/australia/the-electric-car-market-heats-up.html">The Electric Car Market Heats Up</a> NYT: Soaring fuel prices and climate change concerns are driving demand for the vehicles in Australia, as elsewhere. But they are particularly hard to find here. 
+ <p class="updated_time"> 04:19 AM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941">Shanghai's Omicron Outbreak Corners Chinese Leader</a> WSJ: Xi Jinping looked to ease China’s zero-Covid strategy until the highly contagious variant forced a return to strict lockdowns. He faces a dilemma other world leaders hope their countries never see again. 
  <p class="updated_time"> 04:15 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/france-presidential-election-macron-economy-le-pen.html">‘La French Tech’ Arrives Under Macron, but Proves No Panacea</a> NYT: The president has brought innovation, jobs and growth. Still, resentments fester on the eve of the presidential election. 
  <p class="updated_time"> 04:00 AM CT, Apr. 08 </p> 
@@ -198,10 +198,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:01 AM CT, Apr. 09 </p> 
+ <a href="https://www.politico.com/news/2022/04/09/website-domain-more-expensive-00023524">Why your website is about to get more expensive</a> Politico: Verisign, the government-backed monopoly that manages the .com domain, plans to raise prices this fall. And the year after that. And the year after that. 
+ <p class="updated_time"> 06:01 AM CT, Apr. 09 </p> 
+ <a href="https://www.politico.com/news/2022/04/09/cdc-policy-change-political-loser-democrats-00024219">Republicans see CDC’s policy change as ‘massive political loser for Democrats’</a> Politico: The GOP is openly discussing tying Biden administration's scrapping of Title 42, a Trump-era pandemic border policy, to a range of other voter concerns. 
  <p class="updated_time"> 06:00 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/fda-food-health-safety-investigation-takeaways-00023805">4 takeaways from our investigation into the FDA's byzantine food arm</a> Politico: A monthslong POLITICO investigation based on over 50 interviews found that the food side of FDA has been incredibly ignored and grown dysfunctional. We break down the top highlights. 
  <p class="updated_time"> 06:00 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/fda-similac-recall-infant-formula-complaint-callout-00022056">Have you complained to the FDA about the Similac recall or another infant formula recall? We want to hear from you.</a> Politico: The FDA's broken food regulation system is failing to act on critical food safety and nutrition issues. Tell us how it might have impacted you. 
+ <p class="updated_time"> 06:00 AM CT, Apr. 09 </p> 
+ <a href="https://www.politico.com/news/2022/04/09/angry-voters-biden-inflation-midterms-00024218">A sour and angry America poised to punish Dems this fall</a> Politico: Biden and his top advisers know that the window to change the economic narrative through executive action is rapidly closing. 
  <p class="updated_time"> 04:00 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091641378/madison-cawthorn-north-carolina-trump-rally-11th-district">Cawthorn's inflammatory comments have some Republicans in his district tiring of him</a> NPR: Republican Rep. Madison Cawthorn, who has been under fire for recent comments about Ukraine and life in D.C., joins former President Donald Trump at a North Carolina rally on Saturday. 
  <p class="updated_time"> 04:00 AM CT, Apr. 09 </p> 
@@ -216,8 +222,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/us/politics/trump-foreign-gifts.html">Trump Officials Failed to Provide Accounting of Foreign Gifts</a> NYT: The State Department could not compile a list of gifts for 2020, making it difficult to determine whether officials did anything improper. 
  <p class="updated_time"> 08:41 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/idaho-supreme-court-abortion.html">Idaho Supreme Court Halts 6-Week Abortion Ban Based on Texas’ Law</a> NYT: The court says Idaho’s law cannot go into effect this month as scheduled while it reviews legal challenges. The ban prohibits abortions after fetal cardiac activity is detected. 
- <p class="updated_time"> 08:15 PM CT, Apr. 08 </p> 
- <a href="https://www.politico.com/news/2022/04/08/stop-the-steal-organizer-cooperating-justice-department-00024247">'Stop the Steal' organizer says he received a grand jury subpoena for Jan. 6 probe</a> Politico: Ali Alexander has previously testified to the Jan. 6 select committee. 
  <p class="updated_time"> 07:54 PM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/liberal-conservative-california-house-fight-00024245">Liberal, conservative face off in California House fight</a> Politico: No candidate was able to claim a majority of the vote Tuesday and win Devin Nunes' former seat outright, so the top two finishers will advance to a runoff. 
  <p class="updated_time"> 07:35 PM CT, Apr. 08 </p> 
@@ -320,8 +324,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/03/03/politics/putin-war-crimes-russia-ukraine-us-what-matters/index.html">Here's how war crimes prosecutions work</a> CNN: Shocking atrocities in Ukraine, allegedly at the hands of Russian forces, have amplified calls to pursue war crimes charges against Russian President Vladimir Putin. 
  <p class="updated_time"> 08:24 AM CT, Apr. 07 </p> 
  <a href="https://www.cnn.com/2022/04/07/politics/shadow-docket-supreme-court/index.html">Here's what the 'shadow docket' is and how the Supreme Court uses it</a> CNN: Chief Justice John Roberts turned heads this week when he criticized how the Supreme Court's conservatives used the emergency docket, referred to by some as the shadow docket. 
- <p class="updated_time"> 03:30 AM CT, Apr. 07 </p> 
- <a href="https://www.politico.com/news/2022/04/07/north-carolina-house-donald-trump-00023643">Local conservatives revolt against Trump House favorite</a> Politico: The former president endorsed a 26-year-old who lives hours away from the congressional district he's running in. 
  <p class="updated_time"> 10:03 PM CT, Apr. 06 </p> 
  <a href="https://www.politico.com/news/2022/04/06/senate-unanimously-approves-lend-lease-00023668">In the fight against Putin, Senate unanimously approves measure that once helped beat Hitler</a> Politico: The Senate revived Lend-Lease, a World War II-era measure that allowed the U.S. to quickly resupply Allies in the fight against Nazi Germany. 
  <p class="updated_time"> 11:43 AM CT, Apr. 06 </p> 
