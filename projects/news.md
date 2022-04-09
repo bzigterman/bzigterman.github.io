@@ -9,37 +9,49 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:50 PM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/2022/04/09/world/asia/imran-khan-pakistan-resign.html">Imran Khan Resigns as Pakistan’s Prime Minister</a> NYT: The country will now face early elections after days of brinkmanship in which Mr. Khan tried to dissolve Parliament to head off the no-confidence vote. 
+ <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
+ <a href="https://www.npr.org/2022/04/09/1091902394/what-romanians-think-of-their-countrys-response-to-ukrainian-refugees">What Romanians think of their country's response to Ukrainian refugees</a> NPR: NPR's Michel Martin speaks with Radu Umbres, an anthropologist and university lecturer in Bucharest, about why so many Romanians have been surprised by the country's response to the refugee crisis. 
+ <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
+ <a href="https://www.npr.org/2022/04/09/1091902387/volunteers-in-romania-are-working-at-a-call-center-to-help-ukrainian-refugees">Volunteers in Romania are working at a call center to help Ukrainian refugees</a> NPR: At the Call Center de Solidaritate, volunteers answer calls as they come in. On the other end of the line is a Ukrainian refugee in search of assistance. 
+ <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
+ <a href="https://www.npr.org/2022/04/09/1091902373/one-experts-surprise-over-how-romanias-reacted-to-ukrainian-refugees">One expert's surprise over how Romania's reacted to Ukrainian refugees</a> NPR: NPR's Michel Martin speaks with Radu Umbres, lecturer at the National School for Political Studies and Public Administration in Bucharest, about Romania's response to refugees arriving from Ukraine. 
+ <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
+ <a href="https://www.npr.org/2022/04/09/1091902366/what-a-un-vote-shows-about-how-much-of-the-world-views-the-war-in-ukraine">What a UN vote shows about how much of the world views the war in Ukraine</a> NPR: There were many countries in the middle when it came to Thursday's vote to suspend Russia from the UN Human Rights Council. 
+ <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
+ <a href="https://www.npr.org/2022/04/09/1091902359/what-romania-would-like-to-see-nato-do-in-ukraine">What Romania would like to see NATO do in Ukraine</a> NPR: NPR's Michel Martin speaks to Simona Cojocaru, State Secretary at Romania's Ministry of Defense, about the military situation in Ukraine. 
+ <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
+ <a href="https://www.npr.org/2022/04/09/1091902352/the-network-in-romania-to-help-ukrainian-refugees">The network in Romania to help Ukrainian refugees</a> NPR: Romania has received more than 600,000 refugees from Ukraine. NGOs, local governments, and volunteers have quickly set up an extensive network to feed, house and provide medical care to them. 
  <p class="updated_time"> 03:36 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Names General to Unify Its Faltering Campaign</a> NYT: The move comes as Russia persists with its push in southeastern Ukraine, where residents continued to flee on Saturday a day after a missile strike on a train station there killed at least 52 people. 
- <p class="updated_time"> 03:34 PM CT, Apr. 09 </p> 
- <a href="https://www.nytimes.com/2022/04/09/world/asia/imran-khan-pakistan-resign.html">Imran Khan Resigns as Pakistan’s Prime Minister</a> NYT: The country will now face early elections after days of brinkmanship in which Mr. Khan tried to dissolve Parliament to head off the no-confidence vote. 
  <p class="updated_time"> 03:28 PM CT, Apr. 09 </p> 
- <a href="https://www.npr.org/2022/04/09/1091903165/pakistan-imran-khan-parliament">Imran Khan has been ousted as Pakistan's prime minister</a> NPR: The political opposition ousted the embattled leader in a no confidence vote after several of Khan's allies and a key coalition party deserted him. 
+ <a href="https://www.npr.org/2022/04/09/1091903165/pakistan-imran-khan-parliament">Imran Khan has been ousted as Pakistan's prime minister</a> NPR: The no confidence vote came after the speaker of the house resigned, saying he could not oversee the ouster of his close ally of 30 years, and after Khan's own lawmakers delayed the vote. 
  <p class="updated_time"> 03:27 PM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091691105/russia-ukraine-war-what-happened-today-april-9">Russia-Ukraine war: What happened today (April 9) </a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:25 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
  <p class="updated_time"> 03:05 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/boris-johnson-kyiv-ukraine-aid.html">Boris Johnson Visits Kyiv As Britain Promises Aid to Ukraine</a> NYT: Mr. Johnson, an enthusiastic supporter of President Volodymyr Zelensky of Ukraine, walked with him and a group of soldiers through the streets of the capital, Kyiv. 
- <p class="updated_time"> 02:42 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 02:53 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
  <p class="updated_time"> 02:36 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61052643?at_medium=RSS&at_campaign=KARANGA">UK PM travels to Kyiv for Zelensky talks</a> BBC: The PM offers Ukraine 120 armoured vehicles during a visit No 10 calls a "show of solidarity" . 
  <p class="updated_time"> 02:06 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/middleeast/israel-palestinian-violence.html">Wave of Terrorism in Israel Defies a Simple Narrative</a> NYT: Four recent deadly attacks have highlighted Palestinian anger over vanishing prospects of a Palestinian state, but the assailants’ diverse backgrounds have left many questions unanswered. 
- <p class="updated_time"> 01:42 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 01:53 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict</a> WSJ: China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict 
  <p class="updated_time"> 01:23 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61054911?at_medium=RSS&at_campaign=KARANGA">Ukraine will rise again - PM Boris Johnson</a> BBC: The UK prime minister held talks in Kyiv with Ukraine's President Volodymyr Zelensky. 
  <p class="updated_time"> 12:57 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/russia-ukraine-general-kramatorsk.html">Russia Shuffles Command in Ukraine as Thousands Flee the East</a> NYT: The Russian campaign will be consolidated under a veteran of the Syrian war, while Western nations pump additional arms into Ukraine. 
- <p class="updated_time"> 12:42 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 12:53 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
  <p class="updated_time"> 12:05 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
- <p class="updated_time"> 11:42 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Lawmakers Loyal to Pakistan’s Imran Khan Defy Top Court, Block Vote in Parliament</a> WSJ: Lawmakers Loyal to Pakistan’s Imran Khan Defy Top Court, Block Vote in Parliament 
- <p class="updated_time"> 10:42 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 11:53 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistan Leader Imran Khan’s Term Ends After Losing No-Confidence Vote</a> WSJ: Pakistan Leader Imran Khan’s Term Ends After Losing No-Confidence Vote 
+ <p class="updated_time"> 10:53 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 09:43 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tank treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
@@ -77,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61049656?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Inside Chernobyl after the Russian occupation</a> BBC: The nuclear power plant in northern Ukraine was taken over by Russian forces on the first day of the invasion. 
  <p class="updated_time"> 04:02 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091594904/mexico-president-recall-referendum-lopez-obrador-amlo">Here's why Mexico's president is launching a vote to recall himself</a> NPR: While recalls are a common political tool, normally it's the opponents of an unpopular leader who favor a recall. But Sunday's referendum is the president's own idea. And he's expected to win. 
- <p class="updated_time"> 04:00 AM CT, Apr. 09 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/04/09/1091740132/ukraine-russia-borodyanka">This is what a Ukraine town looks like after Russian troops withdraw</a> NPR: The residents of Borodyanka are picking up the pieces after Russian forces withdrew and left behind a shattered town. Hundreds of people are still missing, presumed buried under rubble. 
  <p class="updated_time"> 03:45 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/japan-russia-ukraine.html">Japan Aligns With U.S. and Europe in Penalizing Russia Over Ukraine War</a> NYT: The country has announced a ban on Russian coal and restrictions on imports including timber, vodka and machinery. It is also expelling eight Russian diplomats. 
  <p class="updated_time"> 12:02 AM CT, Apr. 09 </p> 
@@ -105,28 +115,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-train-station-kramatorsk.html">Missile Strike Kills At Least 50 at Ukraine Train Station </a> NYT: Ukraine’s president blamed Russia for the latest atrocity in the six-week-old war, calling the Russian invasion force “an evil that has no limits.” Moscow denied responsibility. 
  <p class="updated_time"> 06:40 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61022232?at_medium=RSS&at_campaign=KARANGA">Netflix: Where are the Indians Bridgerton dreamed up really from?</a> BBC: The Netflix hit's season two throws in several Indian tropes but fails at being authentic. 
- <p class="updated_time"> 06:26 PM CT, Apr. 08 </p> 
- <a href="https://www.npr.org/2022/04/08/1091827455/graciela-iturbide-exhibit-cartier-foundation-paris">A Paris exhibit looks back on the photographs of Graciela Iturbide</a> NPR: Mexican photographer Graciela Iturbide has won international renown for her portraits of indigenous and marginalized peoples across the globe. 
  <p class="updated_time"> 06:01 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61038463?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The school that helped fleeing musicians find safety</a> BBC: A group of young musicians from Kharkiv and Odesa have found new homes in Denmark. 
  <p class="updated_time"> 05:08 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/boris-johnson-scholz-russia.html">Boris Johnson Urges Germany Not to Let Up Pressure on Russia</a> NYT: Prime Minister Boris Johnson is pressing European allies to take a hard line, like cutting off Russian energy imports, but after Brexit, his influence is limited. 
  <p class="updated_time"> 04:55 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/asia/food-shortages-shanghai-covid.html">Shanghai’s Covid Lockdown Has Caused Food Shortages, Residents Say</a> NYT: The authorities have locked down the city of 26 million in a bid to contain China’s worst outbreak since the pandemic began. 
- <p class="updated_time"> 04:53 PM CT, Apr. 08 </p> 
- <a href="https://www.npr.org/2022/04/08/1091801453/1mdb-fund-goldman-sachs-roger-ng-guilty">A former Goldman Sachs banker is found guilty in a plot to loot Malaysia's 1MDB fund</a> NPR: Roger Ng was convicted in a New York federal court of bribery and other corruption charges accusing him of participating in a $4.5 billion scheme to ransack the Malaysian state investment fund. 
  <p class="updated_time"> 04:26 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-61015290?at_medium=RSS&at_campaign=KARANGA">Why France's daily baguette is costing so much dough</a> BBC: Every part of the cost of the daily staple is rising - flour, electricity, gas and wages. 
  <p class="updated_time"> 04:14 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/gerda-weissmann-klein-dead.html">Gerda Weissmann Klein, Honored Holocaust Survivor, Dies at 97</a> NYT: Her story was told in an Oscar-winning documentary, and her message of hope and love in the face of overwhelming evil was an inspiration to millions. 
- <p class="updated_time"> 04:01 PM CT, Apr. 08 </p> 
- <a href="https://www.npr.org/2022/04/08/1091589799/russia-ukraine-war-what-happened-today-april-8">Russia-Ukraine war: What happened today (April 8)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:53 PM CT, Apr. 08 </p> 
- <a href="https://www.npr.org/2022/04/08/1091769547/french-voters-will-decide-whether-to-give-macron-a-3rd-term-this-weekend">French voters will decide whether to give Macron a 3rd term this weekend</a> NPR: French voters go to the polls this weekend to decide whether to give president Emmanuel Macron a third term. He's in the lead, but far right leader Marine Le Pen is right behind and closing the gap. 
  <p class="updated_time"> 03:52 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/kyiv-ukraine-war.html">With Russian Forces Gone, Kyiv Starts to Revive</a> NYT: The anxiety remains, but in Ukraine’s capital, large lines of cars are now forming on highways into the city and businesses are reopening. 
- <p class="updated_time"> 03:51 PM CT, Apr. 08 </p> 
- <a href="https://www.npr.org/2022/04/08/1091769540/a-curfew-in-peru-prompts-backlash-and-questions-over-presidential-leadership">A curfew in Peru prompts backlash — and questions over presidential leadership </a> NPR: NPR's Ailsa Chang speaks with Peru-based journalist Jacqueline Fowks about protests in the country over inflation and President Pedro Castillo's reaction to them. 
  <p class="updated_time"> 03:21 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/arts/design/finland-russia-art-seizure.html">Officials Say Russian Art, Seized by Finns, Should Return Home</a> NYT: Finnish custom officials had seized the art several days ago, but the Finns and European Union officials decided that art lent to museums for exhibit did not come under sanctions. 
  <p class="updated_time"> 03:19 PM CT, Apr. 08 </p> 
