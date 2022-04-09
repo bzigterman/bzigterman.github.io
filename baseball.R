@@ -766,6 +766,7 @@ better_wild_card_standings_table_html <- gsub("[\"][a-z]{10}",
 mlb_min <-  .9*min(mlb_standings$win_pct)
 mlb_max <- 1.05*max(mlb_standings$win_pct)
 nudge <- -.0461118*(mlb_max-mlb_min)
+division_leader_nudge <- .021*(mlb_max-mlb_min)
 
 al_standings <- mlb_standings %>%
   filter(league == "AL") %>%
@@ -806,7 +807,7 @@ al_plot <- ggplot(al_standings_magic, aes(x = reorder(team_label, win_pct),
             nudge_y = nudge) +
   geom_text(aes(label = division_leaders),
             family = "mono",
-            nudge_y = .011) +
+            nudge_y = division_leader_nudge) +
   theme_minimal() +
   labs(x = NULL,
        y = NULL,
@@ -853,7 +854,7 @@ nl_plot <- ggplot(nl_standings_magic, aes(x = reorder(team_label, -win_pct),
             nudge_y = nudge) +
   geom_text(aes(label = division_leaders),
             family = "mono",
-            nudge_y = .011) +
+            nudge_y = division_leader_nudge) +
   scale_y_continuous(labels = label_comma(accuracy = .001)) +
   theme_minimal() +
   labs(x = NULL,
