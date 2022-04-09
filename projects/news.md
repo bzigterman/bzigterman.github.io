@@ -9,12 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:50 PM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Names General to Unify Its Faltering Campaign</a> NYT: The move comes as Russia persists with its push in southeastern Ukraine, where residents continued to flee on Saturday, a day after a missile strike on a train station there killed at least 52 people. 
+ <p class="updated_time"> 04:39 PM CT, Apr. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
+ <p class="updated_time"> 04:28 PM CT, Apr. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61055105?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Disbelief and horror after Krematorsk train station attack</a> BBC: The people of Krematorsk are coming to terms with a strike on a train station that killed more than 50. 
  <p class="updated_time"> 04:11 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/russia-ukraine-general-kramatorsk.html">Russia Shuffles Command in Ukraine as Thousands Flee the East</a> NYT: The Russian campaign will be consolidated under a veteran of the Syrian war, while Western nations pump additional arms into Ukraine. 
  <p class="updated_time"> 04:02 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-ukraine-russia.html">Putin’s War in Ukraine Shatters an Illusion in Russia</a> NYT: Russians long lived with an understanding: Stay away from politics, and live your life as you choose. The war in Ukraine wrecked that idea. 
- <p class="updated_time"> 03:52 PM CT, Apr. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Names General to Unify Its Faltering Campaign</a> NYT: The move comes as Russia persists with its push in southeastern Ukraine, where residents continued to flee on Saturday a day after a missile strike on a train station there killed at least 52 people. 
+ <p class="updated_time"> 03:54 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
  <p class="updated_time"> 03:50 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/imran-khan-pakistan-resign.html">Imran Khan Resigns as Pakistan’s Prime Minister</a> NYT: The country will now face early elections after days of brinkmanship in which Mr. Khan tried to dissolve Parliament to head off the no-confidence vote. 
  <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
@@ -33,27 +39,23 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/09/1091903165/pakistan-imran-khan-parliament">Imran Khan has been ousted as Pakistan's prime minister</a> NPR: The no confidence vote came after the speaker of the house resigned, saying he could not oversee the ouster of his close ally of 30 years, and after Khan's own lawmakers delayed the vote. 
  <p class="updated_time"> 03:27 PM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091691105/russia-ukraine-war-what-happened-today-april-9">Russia-Ukraine war: What happened today (April 9) </a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:25 PM CT, Apr. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
- <p class="updated_time"> 03:13 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
  <p class="updated_time"> 03:05 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/boris-johnson-kyiv-ukraine-aid.html">Boris Johnson Visits Kyiv As Britain Promises Aid to Ukraine</a> NYT: Mr. Johnson, an enthusiastic supporter of President Volodymyr Zelensky of Ukraine, walked with him and a group of soldiers through the streets of the capital, Kyiv. 
+ <p class="updated_time"> 02:54 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict</a> WSJ: China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict 
  <p class="updated_time"> 02:36 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61052643?at_medium=RSS&at_campaign=KARANGA">UK PM travels to Kyiv for Zelensky talks</a> BBC: The PM offers Ukraine 120 armoured vehicles during a visit No 10 calls a "show of solidarity" . 
- <p class="updated_time"> 02:13 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict</a> WSJ: China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict 
  <p class="updated_time"> 02:06 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/middleeast/israel-palestinian-violence.html">Wave of Terrorism in Israel Defies a Simple Narrative</a> NYT: Four recent deadly attacks have highlighted Palestinian anger over vanishing prospects of a Palestinian state, but the assailants’ diverse backgrounds have left many questions unanswered. 
+ <p class="updated_time"> 01:54 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
  <p class="updated_time"> 01:23 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61054911?at_medium=RSS&at_campaign=KARANGA">Ukraine will rise again - PM Boris Johnson</a> BBC: The UK prime minister held talks in Kyiv with Ukraine's President Volodymyr Zelensky. 
- <p class="updated_time"> 01:13 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
- <p class="updated_time"> 12:13 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 12:54 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistan Leader Imran Khan’s Term Ends After Losing No-Confidence Vote</a> WSJ: Pakistan Leader Imran Khan’s Term Ends After Losing No-Confidence Vote 
  <p class="updated_time"> 12:05 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
- <p class="updated_time"> 11:13 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 11:54 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 09:43 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tank treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
@@ -91,6 +93,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/09/1091594904/mexico-president-recall-referendum-lopez-obrador-amlo">Here's why Mexico's president is launching a vote to recall himself</a> NPR: While recalls are a common political tool, normally it's the opponents of an unpopular leader who favor a recall. But Sunday's referendum is the president's own idea. And he's expected to win. 
  <p class="updated_time"> 03:45 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/japan-russia-ukraine.html">Japan Aligns With U.S. and Europe in Penalizing Russia Over Ukraine War</a> NYT: The country has announced a ban on Russian coal and restrictions on imports including timber, vodka and machinery. It is also expelling eight Russian diplomats. 
+ <p class="updated_time"> 03:02 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-residents-face-fresh-round-of-mass-covid-19-testing-11649505734">Shanghai Residents Ordered to Undergo Mass Covid-19 Testing</a> WSJ: The financial hub, home to more than 25 million people, has been hit by China’s worst outbreak since the coronavirus first emerged in Wuhan more than two years ago. 
  <p class="updated_time"> 12:02 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61038811?at_medium=RSS&at_campaign=KARANGA">Ukraine mother: I saw my daughter killed, then was held captive in basement</a> BBC: Viktoria describes how her daughter and husband were killed in front of her while escaping Russian forces. 
  <p class="updated_time"> 11:50 PM CT, Apr. 08 </p> 
@@ -141,8 +145,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/world/americas/dhl-plane-costa-rica.html">A DHL Cargo Plane Breaks in Two Landing at a Costa Rica Airport</a> NYT: No one on board was injured, a spokesman for the delivery company said, adding that it was working with the authorities to remove the plane. 
  <p class="updated_time"> 02:21 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/pink-floyd-ukraine.html">Pink Floyd Says It Will Release New Track to Support Ukraine</a> NYT: The song, “Hey Hey Rise Up,” is a reworking of a protest song from World War I and features the Ukrainian rock star Andriy Khlyvnyuk of the band Boombox. 
- <p class="updated_time"> 02:20 PM CT, Apr. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61018821?at_medium=RSS&at_campaign=KARANGA">Will Smith banned from Oscars for 10 years over slap</a> BBC: The Academy voted on Friday to sanction Smith after he slapped Chris Rock at the awards show. 
  <p class="updated_time"> 01:25 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/business/economy/china-forced-labor.html">Supply Chains Tainted by Forced Labor in China, Panel Told</a> NYT: Human rights activists and others urged the Biden administration to cast a wide net to stop imports of products made with forced labor in Xinjiang. 
  <p class="updated_time"> 01:15 PM CT, Apr. 08 </p> 
@@ -226,6 +228,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/09/fda-food-health-safety-investigation-takeaways-00023805">4 takeaways from our investigation into the FDA's byzantine food arm</a> Politico: A monthslong POLITICO investigation based on over 50 interviews found that the food side of FDA has been incredibly ignored and grown dysfunctional. We break down the top highlights. 
  <p class="updated_time"> 06:00 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/fda-similac-recall-infant-formula-complaint-callout-00022056">Have you complained to the FDA about the Similac recall or another infant formula recall? We want to hear from you.</a> Politico: The FDA's broken food regulation system is failing to act on critical food safety and nutrition issues. Tell us how it might have impacted you. 
+ <p class="updated_time"> 06:00 AM CT, Apr. 09 </p> 
+ <a href="https://www.politico.com/news/2022/04/09/alzheimer-drug-aduhelm-medicare-coverage-00024222">Narrow Aduhelm coverage sparks debate over viability of future treatments</a> Politico: Experts are divided over the impact of Medicare's decision for Alzheimer's drugs and other difficult diseases. 
  <p class="updated_time"> 04:00 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091641378/madison-cawthorn-north-carolina-trump-rally-11th-district">Cawthorn's inflammatory comments have some Republicans in his district tiring of him</a> NPR: Republican Rep. Madison Cawthorn, who has been under fire for recent comments about Ukraine and life in D.C., joins former President Donald Trump at a North Carolina rally on Saturday. 
  <p class="updated_time"> 04:00 AM CT, Apr. 09 </p> 
@@ -282,8 +286,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/08/1091711705/us-missile-defense-system-slovakia-ukraine">U.S. to place Patriot missile defense system in Slovakia to help with Ukraine swap</a> NPR: Defense Secretary Lloyd Austin said the missile defense system, which will be manned by U.S. service members, will arrive in Slovakia in the coming days. 
  <p class="updated_time"> 12:42 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091693738/proud-boy-leader-pleads-guilty-to-jan-6-conspiracy-agrees-to-cooperate-with-doj">Proud Boy leader pleads guilty to Jan. 6 conspiracy, agrees to cooperate with DOJ</a> NPR: Charles Donohoe, the leader of a North Carolina Proud Boys chapter, has pleaded guilty to conspiracy and agreed to cooperate with the federal investigation into the Jan. 6 attack on the US Capitol. 
- <p class="updated_time"> 12:00 PM CT, Apr. 08 </p> 
- <a href="https://www.politico.com/news/2022/04/08/u-s-patriot-missile-system-slovakia-00024116">U.S. sending Patriot missile system to Slovakia</a> Politico: U.S. European Command will reposition the system, which can shoot down incoming missiles and will be manned by U.S. troops. 
  <p class="updated_time"> 11:08 AM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/democrats-biden-gun-control-00024097">Democrats exasperated with Biden on gun control</a> Politico: "It's time for more urgency from the administration," says Sen. Chris Murphy, an ally of the president. 
  <p class="updated_time"> 10:45 AM CT, Apr. 08 </p> 
