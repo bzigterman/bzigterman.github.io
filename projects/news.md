@@ -9,9 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:34 AM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tanks treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
  <p class="updated_time"> 01:01 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61049323?at_medium=RSS&at_campaign=KARANGA">British man safe but son missing after Malaysia diving trip</a> BBC: A French woman is also found safe two-and-a-half days after the group went missing in Malaysia. 
- <p class="updated_time"> 12:32 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 12:50 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
  <p class="updated_time"> 12:26 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/04/08/world/ukraine-russia-war-news">What Happened on Day 44 of Russia’s Invasion of Ukraine</a> NYT: Moscow denied responsibility for a missile strike in the eastern city of Kramatorsk that killed at least 50 people. But the Pentagon said Russian forces were behind it. 
@@ -19,26 +21,26 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61038811?at_medium=RSS&at_campaign=KARANGA">Ukraine mother: I saw my daughter killed, then was held captive in basement</a> BBC: Viktoria describes how her daughter and husband were killed in front of her while escaping Russian forces. 
  <p class="updated_time"> 11:50 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/americas/mexico-president-recall-election.html">Is Mexico’s Recall Election “Democracy of the Highest Order”?</a> NYT: The vote has the potential to upend the country’s political system. But many fear it will amount to nothing more than a tool for propaganda. 
+ <p class="updated_time"> 11:50 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-drives-food-prices-to-record-high-11649440528">Ukraine War Drives Food Prices to Record High</a> WSJ: Ukraine War Drives Food Prices to Record High 
  <p class="updated_time"> 11:36 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/middleeast/saudi-arabia-hajj-pandemic-rules.html">Saudi Arabia will allow a million hajj pilgrims to visit Mecca, with Covid precautions.</a> NYT: Vaccinations and negative tests will be required for those who attend the annual ritual. 
- <p class="updated_time"> 11:32 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-drives-food-prices-to-record-high-11649440528">Ukraine War Drives Food Prices to Record High</a> WSJ: Ukraine War Drives Food Prices to Record High 
  <p class="updated_time"> 11:00 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61036740?at_medium=RSS&at_campaign=KARANGA">Kramatorsk station attack: What we know so far</a> BBC: Some 50 people are said to have been killed in Kramatorsk, Ukraine and Russia are blaming each other. 
  <p class="updated_time"> 10:54 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/india-covid-booster-shots.html">India Approves Booster Shots for Adults Between Ages 18 and 60</a> NYT: Experts said that one reason for the shift was that many Indians were finding it hard to travel abroad without booster certificates. 
  <p class="updated_time"> 10:54 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-russia-land-mines.html">Civilians Near Kharkiv Are Discovering Timed Land Mines</a> NYT: Civilians near Kharkiv in northeastern Ukraine are discovering a new threat: munitions that eject up to two dozen small mines that explode at intervals. 
+ <p class="updated_time"> 10:50 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201">A Woman’s Frantic Search for Family Trapped in Mariupol</a> WSJ: A Woman’s Frantic Search for Family Trapped in Mariupol 
  <p class="updated_time"> 10:48 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61048256?at_medium=RSS&at_campaign=KARANGA">Inside Chernobyl: We stole Russian fuel to prevent catastrophe</a> BBC: Staff at the former nuclear plant tell the BBC they were forced to negotiate when Russian forces took over. 
- <p class="updated_time"> 10:32 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201">A Woman’s Frantic Search for Family Trapped in Mariupol</a> WSJ: A Woman’s Frantic Search for Family Trapped in Mariupol 
- <p class="updated_time"> 09:32 PM CT, Apr. 08 </p> 
+ <p class="updated_time"> 09:50 PM CT, Apr. 08 </p> 
  <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
+ <p class="updated_time"> 08:50 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941">Shanghai’s Omicron Outbreak Corners Chinese Leader</a> WSJ: Shanghai’s Omicron Outbreak Corners Chinese Leader 
  <p class="updated_time"> 08:47 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61021862?at_medium=RSS&at_campaign=KARANGA">Ukraine, the UN and history's greatest broken promise</a> BBC: If the past is anything to go by, the world will struggle to unite for Ukraine - says Fergal Keane. 
- <p class="updated_time"> 08:32 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941">Shanghai’s Omicron Outbreak Corners Chinese Leader</a> WSJ: Shanghai’s Omicron Outbreak Corners Chinese Leader 
  <p class="updated_time"> 07:03 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-61038961?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 2 - 8 April 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 07:03 PM CT, Apr. 08 </p> 
@@ -79,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/08/1091769540/a-curfew-in-peru-prompts-backlash-and-questions-over-presidential-leadership">A curfew in Peru prompts backlash — and questions over presidential leadership </a> NPR: NPR's Ailsa Chang speaks with Peru-based journalist Jacqueline Fowks about protests in the country over inflation and President Pedro Castillo's reaction to them. 
  <p class="updated_time"> 03:48 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091769519/russian-troops-left-death-and-destruction-behind-in-borodyanka-ukraine">Russian troops left death and destruction behind in Borodyanka, Ukraine</a> NPR: All week, the world's attention has been focused on the death and destruction that's been discovered in towns north of Kyiv, after Russian forces withdrew. One of those towns: Borodyanka. 
- <p class="updated_time"> 03:43 PM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted.’</a> NYT: Tanks treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
  <p class="updated_time"> 03:21 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/arts/design/finland-russia-art-seizure.html">Officials Say Russian Art, Seized by Finns, Should Return Home</a> NYT: Finnish custom officials had seized the art several days ago, but the Finns and European Union officials decided that art lent to museums for exhibit did not come under sanctions. 
  <p class="updated_time"> 03:20 PM CT, Apr. 08 </p> 
