@@ -9,15 +9,15 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:37 AM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Names General to Unify Its Faltering Campaign</a> NYT: The move comes as Russia persists with its push in southeastern Ukraine, where residents continued to flee  on Saturday a day after a missile strike on a train station there killed at least 50 people. 
  <p class="updated_time"> 08:05 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61051217?at_medium=RSS&at_campaign=KARANGA">France election: Voters prepare to cast ballot in presidential poll</a> BBC: Campaigning has ended ahead of the first round of voting which takes place on Sunday. 
- <p class="updated_time"> 08:04 AM CT, Apr. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Live Updates: Ukrainians Stream From East After Train Station Attack</a> NYT: President Volodymyr Zelensky of Ukraine called for “a firm, global response to this war crime” after a missile strike in Kramatorsk killed at least 50. Ukraine’s railway service said evacuations would proceed from nearby cities. 
  <p class="updated_time"> 08:00 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-ukraine-russia.html">Putin’s War in Ukraine Shatters an Illusion in Russia</a> NYT: Russians long lived with an understanding: Stay away from politics, and live your life as you choose. The war in Ukraine wrecked that idea. 
  <p class="updated_time"> 07:59 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
- <p class="updated_time"> 07:30 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 07:44 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Zelensky Calls Russian Strike on Station a War Crime</a> WSJ: Zelensky Calls Russian Strike on Station a War Crime 
  <p class="updated_time"> 07:25 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61049323?at_medium=RSS&at_campaign=KARANGA">Malaysia: Boy, 14, believed dead after diving trip</a> BBC: His British father and a French woman are rescued by authorities after two-and-a-half day ordeal. 
@@ -37,22 +37,22 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/09/world/europe/eu-putin-sanctions-daughters.html">Latest E.U. Sanctions Get Personal With Putin’s Daughters and Confidantes.</a> NYT: The targets included one of the most trusted technocrats in Mr. Putin’s economic policy team and the head of a construction empire who used to practice judo with the Russian leader. 
  <p class="updated_time"> 06:48 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/article/france-presidential-election-2022.html">France’s Presidential Election 2022: Your Questions, Answered</a> NYT: The French are choosing their president in April, an election that is crucial for France and key for Europe. President Emmanuel Macron is favored to win, but the race has gotten closer. 
+ <p class="updated_time"> 06:44 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/russian-oligarchs-private-jets-find-refuge-in-dubai-but-cant-leave-11649496610">Russian Oligarchs’ Private Jets Find Refuge in Dubai but Can’t Leave</a> WSJ: Russian Oligarchs’ Private Jets Find Refuge in Dubai but Can’t Leave 
  <p class="updated_time"> 06:35 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61049896?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Watch BBC interview with Ukrainian PM</a> BBC: In a BBC exclusive, Denys Shmyhal accuses Russia of committing genocide in Ukraine. 
- <p class="updated_time"> 06:30 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/russian-oligarchs-private-jets-find-refuge-in-dubai-but-cant-leave-11649496610">Russian Oligarchs’ Private Jets Find Refuge in Dubai but Can’t Leave</a> WSJ: Russian Oligarchs’ Private Jets Find Refuge in Dubai but Can’t Leave 
  <p class="updated_time"> 05:46 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-russia-war-ukraine.html">Spurred by Putin, Russians Turn on One Another Over the War</a> NYT: Citizens are denouncing one another, illustrating how the war is feeding paranoia and polarization in Russian society. 
- <p class="updated_time"> 05:30 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 05:44 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 05:24 AM CT, Apr. 09 </p> 
- <a href="https://www.nytimes.com/2022/04/09/world/europe/poland-women-ukraine-refugees.html">Women in Poland volunteer as drivers to offer safe transit to Ukraine’s refugees.</a> NYT: With women and children at high risk of exploitation, a volunteer collective called Women Take the Wheel is helping them make the journey. 
+ <a href="https://www.nytimes.com/2022/04/09/world/europe/poland-women-ukraine-refugees.html">Women in Poland Offer Safe Transit to Ukraine’s Refugees</a> NYT: With women and children at high risk of exploitation, a volunteer collective called Women Take the Wheel is helping them make the journey. 
  <p class="updated_time"> 05:00 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/canada/foreign-real-estate-buyer-ban.html">Canada Moves to Ban Foreign Real Estate Buyers for Two Years</a> NYT: Among the many budget measures to make housing more affordable is a two-year ban on sales to foreign buyers. But details are scarce. 
+ <p class="updated_time"> 04:44 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/economic-crisis-threatens-hold-of-sri-lankas-most-powerful-family-11649501618">Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family</a> WSJ: Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family 
  <p class="updated_time"> 04:31 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/french-presidential-election-marcon-le-pen.html">With Macron and Le Pen Leading Election Field, a Fractured France Decides</a> NYT: In Dijon, magnificence and malaise sit side by side, in the image of a country divided before the presidential vote on Sunday. 
- <p class="updated_time"> 04:30 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/economic-crisis-threatens-hold-of-sri-lankas-most-powerful-family-11649501618">Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family</a> WSJ: Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family 
  <p class="updated_time"> 04:05 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61049656?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Inside Chernobyl after the Russian occupation</a> BBC: The nuclear power plant in northern Ukraine was taken over by Russian forces on the first day of the invasion. 
  <p class="updated_time"> 04:02 AM CT, Apr. 09 </p> 
@@ -61,7 +61,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/04/09/1091740132/ukraine-russia-borodyanka">This is what a Ukraine town looks like after Russian troops withdraw</a> NPR: The residents of Borodyanka are picking up the pieces after Russian forces withdrew and left behind a shattered town. Hundreds of people are still missing, presumed buried under rubble. 
  <p class="updated_time"> 03:45 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/japan-russia-ukraine.html">Japan Aligns With U.S. and Europe in Penalizing Russia Over Ukraine War</a> NYT: The country has announced a ban on Russian coal and restrictions on imports including timber, vodka and machinery. It is also expelling eight Russian diplomats. 
- <p class="updated_time"> 03:30 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 03:44 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
  <p class="updated_time"> 02:05 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tank treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
