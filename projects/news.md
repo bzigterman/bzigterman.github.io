@@ -9,29 +9,33 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:59 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 03:13 PM CT, Apr. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
+ <p class="updated_time"> 03:07 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Names General to Unify Its Faltering Campaign</a> NYT: The move comes as Russia persists with its push in southeastern Ukraine, where residents continued to flee on Saturday a day after a missile strike on a train station there killed at least 52 people. 
- <p class="updated_time"> 02:59 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 03:05 PM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/2022/04/09/world/asia/imran-khan-pakistan-resign.html">Imran Khan Resigns as Pakistan’s Prime Minister</a> NYT: The country will now face early elections after days of brinkmanship in which Mr. Khan tried to dissolve Parliament to head off the no-confidence vote. 
+ <p class="updated_time"> 03:05 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/boris-johnson-kyiv-ukraine-aid.html">Boris Johnson Visits Kyiv As Britain Promises Aid to Ukraine</a> NYT: Mr. Johnson, an enthusiastic supporter of President Volodymyr Zelensky of Ukraine, walked with him and a group of soldiers through the streets of the capital, Kyiv. 
  <p class="updated_time"> 02:36 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61052643?at_medium=RSS&at_campaign=KARANGA">UK PM travels to Kyiv for Zelensky talks</a> BBC: The PM offers Ukraine 120 armoured vehicles during a visit No 10 calls a "show of solidarity" . 
+ <p class="updated_time"> 02:27 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
  <p class="updated_time"> 02:06 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/middleeast/israel-palestinian-violence.html">Wave of Terrorism in Israel Defies a Simple Narrative</a> NYT: Four recent deadly attacks have highlighted Palestinian anger over vanishing prospects of a Palestinian state, but the assailants’ diverse backgrounds have left many questions unanswered. 
- <p class="updated_time"> 02:01 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
+ <p class="updated_time"> 01:27 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict</a> WSJ: China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict 
  <p class="updated_time"> 01:23 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61054911?at_medium=RSS&at_campaign=KARANGA">Ukraine will rise again - PM Boris Johnson</a> BBC: The UK prime minister held talks in Kyiv with Ukraine's President Volodymyr Zelensky. 
- <p class="updated_time"> 01:01 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict</a> WSJ: China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict 
  <p class="updated_time"> 12:57 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/russia-ukraine-general-kramatorsk.html">Russia Shuffles Command in Ukraine as Thousands Flee the East</a> NYT: The Russian campaign will be consolidated under a veteran of the Syrian war, while Western nations pump additional arms into Ukraine. 
+ <p class="updated_time"> 12:27 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
  <p class="updated_time"> 12:05 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
- <p class="updated_time"> 12:01 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
- <p class="updated_time"> 11:01 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Lawmakers Loyal to Pakistan’s Imran Khan Defy Top Court, Block Vote in Parliament</a> WSJ: Lawmakers Loyal to Pakistan’s Imran Khan Defy Top Court, Block Vote in Parliament 
- <p class="updated_time"> 10:01 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 11:27 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistan Leader Imran Khan’s Term Ends After Losing No-Confidence Vote</a> WSJ: Pakistan Leader Imran Khan’s Term Ends After Losing No-Confidence Vote 
+ <p class="updated_time"> 10:27 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 09:43 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tank treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
@@ -53,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/09/1091859766/2-sisters-share-their-plans-to-unite-after-fleeing-ukraine">2 sisters share their plans to unite after fleeing Ukraine</a> NPR: Scott Simon speaks with sisters Lena and Kira Manilich, both of whom left Ukraine, about their efforts to reunite in the United States. 
  <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091859745/russia-accused-of-war-crimes-in-missile-attack-on-ukrainian-train-station">Russia accused of war crimes in missile attack on Ukrainian train station</a> NPR: Ukraine is still reeling from a missile attack at a crowded train station in the eastern part of the country.  At least 50 people were killed in the attack and about 100 are injured. 
- <p class="updated_time"> 07:00 AM CT, Apr. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61047585?at_medium=RSS&at_campaign=KARANGA">Imran Khan: Pakistan PM on brink as confidence vote looms</a> BBC: Pakistan's prime minister warns that if he is ousted, he won't recognise an opposition government. 
  <p class="updated_time"> 06:50 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/eu-putin-sanctions-daughters.html">Latest E.U. Sanctions Get Personal With Putin’s Daughters and Confidantes.</a> NYT: The targets included one of the most trusted technocrats in Mr. Putin’s economic policy team and the head of a construction empire who used to practice judo with the Russian leader. 
  <p class="updated_time"> 06:35 AM CT, Apr. 09 </p> 
@@ -187,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/world/europe/eu-russia-sanctions.html">E.U. Diplomats Near New Sanctions Against Russia</a> NYT: As part of the European Union’s proposed measures to punish Moscow, a ban on Russian coal imports would be phased in over four months, instead of three. 
  <p class="updated_time"> 09:36 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/marine-le-pen-french-elections-macron.html">How Marine Le Pen Threatens to Upend French Elections</a> NYT: The far-right presidential candidate has opened up about her personal life and tweaked her policies to gain sympathy and credibility among more mainstream voters. 
- <p class="updated_time"> 08:17 AM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/world/europe/russia-hackers-facebook-disinformation.html">Pro-Russian Hackers Ramp Up Use of Facebook, Its Parent Company Says</a> NYT: Hackers in Russia and Belarus are using Meta’s platform for cyberespionage and disinformation campaigns, executives said. 
 
 
 </details>
