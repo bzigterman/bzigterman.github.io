@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:20 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 04:33 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Ukraine Live Updates: Eastern City Reels From Train Station Attack</a> NYT: Moscow denied responsibility for the missile strike in Kramatorsk that killed at least 50, but the Pentagon said Russian forces were behind it. Ukraine’s railway service said evacuations would proceed from a nearby city. 
+ <p class="updated_time"> 04:31 AM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/2022/04/09/world/europe/french-presidential-election-marcon-le-pen.html">With Macron and Le Pen Leading Election Field, a Fractured France Decides</a> NYT: In Dijon, magnificence and malaise sit side by side, in the image of a country divided before the presidential vote on Sunday. 
  <p class="updated_time"> 04:05 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61049656?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Inside Chernobyl after the Russian occupation</a> BBC: The nuclear power plant in northern Ukraine was taken over by Russian forces on the first day of the invasion. 
  <p class="updated_time"> 04:02 AM CT, Apr. 09 </p> 
@@ -21,26 +23,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-russia-war-ukraine.html">Spurred by Putin, Russians Turn on One Another Over the War</a> NYT: Citizens are denouncing one another, illustrating how the war is feeding paranoia and polarization in Russian society. 
  <p class="updated_time"> 03:45 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/japan-russia-ukraine.html">Japan Aligns With U.S. and Europe in Penalizing Russia Over Ukraine War</a> NYT: The country has announced a ban on Russian coal and restrictions on imports including timber, vodka and machinery. It is also expelling eight Russian diplomats. 
- <p class="updated_time"> 03:25 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 03:40 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
- <p class="updated_time"> 02:25 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 02:40 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-drives-food-prices-to-record-high-11649440528">Ukraine War Drives Food Prices to Record High</a> WSJ: Ukraine War Drives Food Prices to Record High 
  <p class="updated_time"> 02:05 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tank treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
  <p class="updated_time"> 02:04 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61049323?at_medium=RSS&at_campaign=KARANGA">British man safe but son missing after Malaysia diving trip</a> BBC: A French woman is also found safe two-and-a-half days after the group went missing in Malaysia. 
- <p class="updated_time"> 01:25 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 01:40 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201">A Woman’s Frantic Search for Family Trapped in Mariupol</a> WSJ: A Woman’s Frantic Search for Family Trapped in Mariupol 
- <p class="updated_time"> 12:25 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 12:40 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
  <p class="updated_time"> 12:02 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61038811?at_medium=RSS&at_campaign=KARANGA">Ukraine mother: I saw my daughter killed, then was held captive in basement</a> BBC: Viktoria describes how her daughter and husband were killed in front of her while escaping Russian forces. 
  <p class="updated_time"> 11:50 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/americas/mexico-president-recall-election.html">Is Mexico’s Recall Election “Democracy of the Highest Order”?</a> NYT: The vote has the potential to upend the country’s political system. But many fear it will amount to nothing more than a tool for propaganda. 
+ <p class="updated_time"> 11:40 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941">Shanghai’s Omicron Outbreak Corners Chinese Leader</a> WSJ: Shanghai’s Omicron Outbreak Corners Chinese Leader 
  <p class="updated_time"> 11:36 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/middleeast/saudi-arabia-hajj-pandemic-rules.html">Saudi Arabia will allow a million hajj pilgrims to visit Mecca, with Covid precautions.</a> NYT: Vaccinations and negative tests will be required for those who attend the annual ritual. 
- <p class="updated_time"> 11:25 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941">Shanghai’s Omicron Outbreak Corners Chinese Leader</a> WSJ: Shanghai’s Omicron Outbreak Corners Chinese Leader 
  <p class="updated_time"> 11:00 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61036740?at_medium=RSS&at_campaign=KARANGA">Kramatorsk station attack: What we know so far</a> BBC: Some 50 people are said to have been killed in Kramatorsk, Ukraine and Russia are blaming each other. 
  <p class="updated_time"> 10:54 PM CT, Apr. 08 </p> 
@@ -219,13 +221,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:54 PM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/liberal-conservative-california-house-fight-00024245">Liberal, conservative face off in California House fight</a> Politico: No candidate was able to claim a majority of the vote Tuesday and win Devin Nunes' former seat outright, so the top two finishers will advance to a runoff. 
  <p class="updated_time"> 07:35 PM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/08/us/politics/donald-trump-jr-meadows-text-message.html">Donald Trump Jr. Text Laid Out Strategies to Fight Election Outcome</a> NYT: In a message two days after Election Day 2020, the president’s son conveyed a range of ideas for keeping his father in office. 
+ <a href="https://www.nytimes.com/2022/04/08/us/politics/donald-trump-jr-meadows-text-message.html">Text From Donald Trump Jr. Set Out Strategies to Fight Election Outcome</a> NYT: In a message two days after Election Day 2020, the president’s son conveyed a range of ideas for keeping his father in office. 
  <p class="updated_time"> 06:30 PM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/foreign-national-trump-donation-fine-00024240">Campaign finance watchdog issues massive fine for foreign national’s Trump super PAC donation</a> Politico: The FEC fined Canadian billionaire Barry Zekelman's companies $975,000. 
  <p class="updated_time"> 06:00 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/politics/capitol-hill-fox-history.html">Foxes and D.C. Politicians Don’t Mix, As This Week and History Show</a> NYT: The nation’s founding fathers hunted foxes for sport. This week, a rabid fox that bit nine people near the U.S. Capitol led to a very different type of hunt. 
  <p class="updated_time"> 05:55 PM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/08/us/politics/january-6-investigation-ali-alexander.html">Pro-Trump Organizer Cooperating in Justice Dept Jan. 6 Inquiry</a> NYT: Ali Alexander, who was a key figure in the “Stop the Steal” movement, said he had received a grand jury subpoena and would assist the expanding investigation. 
+ <a href="https://www.nytimes.com/2022/04/08/us/politics/january-6-investigation-ali-alexander.html">Pro-Trump Rally Planner Is Cooperating in Justice Dept.’s Jan. 6 Inquiry</a> NYT: Ali Alexander, who was a key figure in the “Stop the Steal” movement, said he had received a grand jury subpoena and would assist the expanding investigation. 
  <p class="updated_time"> 05:36 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/politics/trump-super-pac-illegal-donations.html">Donations Steered to Trump Super PAC by Canadian Deemed Illegal</a> NYT: The Federal Election Commission fined a Canadian steel billionaire, Barry Zekelman, $975,000 in the case, one of the biggest penalties it has ever assessed. 
  <p class="updated_time"> 04:01 PM CT, Apr. 08 </p> 
@@ -279,7 +281,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:00 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/business/spirit-airlines-jetblue-frontier.html">Bidding War for Spirit Could Undercut Power of Four Big Airlines</a> NYT: The rival bids for Spirit from Frontier and JetBlue could create an airline that presents a more formidable challenge to American, Delta, Southwest and United. 
  <p class="updated_time"> 09:41 AM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-supreme-court.html">Jackson Confirmed as First Black Woman to Sit on Supreme Court</a> NYT: The vote was a bipartisan rejection of Republican attempts to paint her as a liberal extremist who had coddled criminals. 
+ <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-supreme-court.html">Ketanji Brown Jackson Becomes First Black Woman on Supreme Court</a> NYT: The vote was a bipartisan rejection of Republican attempts to paint her as a liberal extremist who had coddled criminals. 
  <p class="updated_time"> 07:17 AM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/rnc-staffer-child-porn-case-00024031">Ex-RNC staffer gets more than 12 years in prison in child porn case</a> Politico: Probe that snared Ruben Verastigui allegedly involved at least 18 others, including a former Commerce Department aide. 
  <p class="updated_time"> 06:00 AM CT, Apr. 08 </p> 
@@ -315,7 +317,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:10 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/supreme-court-judge-jackson.html">Judge Jackson Is Now a Justice in Waiting</a> NYT: Her status is the consequence of Justice Stephen G. Breyer’s early and conditional announcement of his retirement. 
  <p class="updated_time"> 03:34 PM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-impact.html">A Transformative Justice Whose Impact May Be Limited</a> NYT: Judge Ketanji Brown Jackson will help make the Supreme Court look like the nation but will have little power to halt its rightward trajectory. 
+ <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-impact.html">Ketanji Brown Jackson, a Transformative Justice Whose Impact May Be Limited</a> NYT: Judge Ketanji Brown Jackson will help make the Supreme Court look like the nation but will have little power to halt its rightward trajectory. 
  <p class="updated_time"> 03:09 PM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/judge-to-justice-schumer-jackson-confirmation-00023764">From judge to justice in 6 weeks: How Schumer got Jackson confirmed</a> Politico: Jackson’s confirmation came at a good time for Biden and the Senate majority leader, as Democrats face major political headwinds across the board. 
  <p class="updated_time"> 12:59 PM CT, Apr. 07 </p> 
