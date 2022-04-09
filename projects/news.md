@@ -9,18 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:55 PM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/2022/04/09/world/europe/russia-ukraine-general-kramatorsk.html">Russia Shuffles Command in Ukraine as Thousands Flee the East</a> NYT: The Russian campaign will be consolidated under a veteran of the Syrian war, while Western nations pump additional arms into Ukraine. 
  <p class="updated_time"> 04:50 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Names General to Unify Its Faltering Campaign</a> NYT: The move comes as Russia persists with its push in southeastern Ukraine, where residents continued to flee on Saturday, a day after a missile strike on a train station there killed at least 52 people. 
  <p class="updated_time"> 04:39 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
  <p class="updated_time"> 04:28 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61055105?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Disbelief and horror after Krematorsk train station attack</a> BBC: The people of Krematorsk are coming to terms with a strike on a train station that killed more than 50. 
- <p class="updated_time"> 04:11 PM CT, Apr. 09 </p> 
- <a href="https://www.nytimes.com/2022/04/09/world/europe/russia-ukraine-general-kramatorsk.html">Russia Shuffles Command in Ukraine as Thousands Flee the East</a> NYT: The Russian campaign will be consolidated under a veteran of the Syrian war, while Western nations pump additional arms into Ukraine. 
+ <p class="updated_time"> 04:16 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
  <p class="updated_time"> 04:02 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-ukraine-russia.html">Putin’s War in Ukraine Shatters an Illusion in Russia</a> NYT: Russians long lived with an understanding: Stay away from politics, and live your life as you choose. The war in Ukraine wrecked that idea. 
- <p class="updated_time"> 03:54 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
  <p class="updated_time"> 03:50 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/imran-khan-pakistan-resign.html">Imran Khan Resigns as Pakistan’s Prime Minister</a> NYT: The country will now face early elections after days of brinkmanship in which Mr. Khan tried to dissolve Parliament to head off the no-confidence vote. 
  <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
@@ -39,24 +39,24 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/09/1091903165/pakistan-imran-khan-parliament">Imran Khan has been ousted as Pakistan's prime minister</a> NPR: The no confidence vote came after the speaker of the house resigned, saying he could not oversee the ouster of his close ally of 30 years, and after Khan's own lawmakers delayed the vote. 
  <p class="updated_time"> 03:27 PM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091691105/russia-ukraine-war-what-happened-today-april-9">Russia-Ukraine war: What happened today (April 9) </a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:16 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Accelerates Nuclear Buildup</a> WSJ: China Accelerates Nuclear Buildup 
  <p class="updated_time"> 03:05 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/boris-johnson-kyiv-ukraine-aid.html">Boris Johnson Visits Kyiv As Britain Promises Aid to Ukraine</a> NYT: Mr. Johnson, an enthusiastic supporter of President Volodymyr Zelensky of Ukraine, walked with him and a group of soldiers through the streets of the capital, Kyiv. 
- <p class="updated_time"> 02:54 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict</a> WSJ: China Is Accelerating Its Nuclear Buildup Over Rising Fears of U.S. Conflict 
  <p class="updated_time"> 02:36 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61052643?at_medium=RSS&at_campaign=KARANGA">UK PM travels to Kyiv for Zelensky talks</a> BBC: The PM offers Ukraine 120 armoured vehicles during a visit No 10 calls a "show of solidarity" . 
+ <p class="updated_time"> 02:16 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
  <p class="updated_time"> 02:06 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/middleeast/israel-palestinian-violence.html">Wave of Terrorism in Israel Defies a Simple Narrative</a> NYT: Four recent deadly attacks have highlighted Palestinian anger over vanishing prospects of a Palestinian state, but the assailants’ diverse backgrounds have left many questions unanswered. 
- <p class="updated_time"> 01:54 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
  <p class="updated_time"> 01:23 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61054911?at_medium=RSS&at_campaign=KARANGA">Ukraine will rise again - PM Boris Johnson</a> BBC: The UK prime minister held talks in Kyiv with Ukraine's President Volodymyr Zelensky. 
- <p class="updated_time"> 12:54 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistan Leader Imran Khan’s Term Ends After Losing No-Confidence Vote</a> WSJ: Pakistan Leader Imran Khan’s Term Ends After Losing No-Confidence Vote 
+ <p class="updated_time"> 01:16 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote Loss</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote Loss 
+ <p class="updated_time"> 12:16 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 12:05 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
- <p class="updated_time"> 11:54 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 09:43 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tank treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
  <p class="updated_time"> 09:29 AM CT, Apr. 09 </p> 
@@ -198,7 +198,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:05 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 05:10 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/us/politics/biden-border-immigration.html">Disagreement and Delay: How Infighting Over the Border Divided the White House</a> NYT: The Biden administration has furiously debated how — and whether — to unravel Trump-era immigration policies. 
  <p class="updated_time"> 03:41 PM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/pakistans-embattled-pm-ousted-in-no-confidence-vote-00024270">Pakistan's embattled PM ousted in no-confidence vote</a> Politico: Anticipating his loss, Khan, who charged his opposition colluded with the United States to unseat him, has called on his supporters to stage rallies nationwide on Sunday. 
@@ -258,8 +258,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/us/politics/trump-super-pac-illegal-donations.html">Donations Steered to Trump Super PAC by Canadian Deemed Illegal</a> NYT: The Federal Election Commission fined a Canadian steel billionaire, Barry Zekelman, $975,000 in the case, one of the biggest penalties it has ever assessed. 
  <p class="updated_time"> 04:01 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091589799/russia-ukraine-war-what-happened-today-april-8">Russia-Ukraine war: What happened today (April 8)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:57 PM CT, Apr. 08 </p> 
- <a href="https://www.politico.com/news/2022/04/08/trump-wins-bronx-golf-course-case-00024174">Judge finds city had no legal right to yank license for Trump's Bronx golf course</a> Politico: De Blasio administration officials cited Trump's involvement in the Jan. 6 insurrection as the reason for canceling the contract. 
  <p class="updated_time"> 03:53 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091769554/2-found-not-guilty-in-michigan-governor-kidnapping-plot">2 found not guilty in Michigan governor kidnapping plot</a> NPR: Jurors in Michigan acquitted two men of conspiring to kidnap Michigan Gove Gretchen Whitmer. The jury deadlocked over charges of two other defendants and the judge declared a mistrial for them. 
  <p class="updated_time"> 03:53 PM CT, Apr. 08 </p> 
