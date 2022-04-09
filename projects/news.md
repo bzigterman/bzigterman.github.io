@@ -9,18 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:33 PM CT, Apr. 08 </p> 
+ <p class="updated_time"> 09:24 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/04/08/world/ukraine-russia-war-news">Live Updates: Missile Strike on Train Station Kills 50 People Seeking to Escape Fighting</a> NYT: Moscow denied responsibility, but the Pentagon said Russian forces were behind the strike in the eastern city of Kramatorsk. Regulators in the Cayman Islands said companies there froze $7.3 billion in accounts believed to be tied to Russian oligarchs. 
- <p class="updated_time"> 07:48 PM CT, Apr. 08 </p> 
+ <p class="updated_time"> 08:47 PM CT, Apr. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61021862?at_medium=RSS&at_campaign=KARANGA">Ukraine, the UN and history's greatest broken promise</a> BBC: If the past is anything to go by, the world will struggle to unite for Ukraine - says Fergal Keane. 
+ <p class="updated_time"> 08:45 PM CT, Apr. 08 </p> 
  <a href="https://www.wsj.com/articles/rocket-attack-kills-more-than-30-at-railway-station-in-eastern-ukraine-11649409672">Missile Strike Kills Dozens Fleeing at Donbas Train Station</a> WSJ: Missile Strike Kills Dozens Fleeing at Donbas Train Station 
+ <p class="updated_time"> 07:45 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-drives-food-prices-to-record-high-11649440528">Ukraine War Drives Food Prices to Record High</a> WSJ: Ukraine War Drives Food Prices to Record High 
  <p class="updated_time"> 07:03 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-61038961?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 2 - 8 April 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 07:03 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/asia/pakistan-imran-khan.html">Pakistan’s Supreme Court Blocks Imran Khan’s Move to Stay in Power</a> NYT: The prime minister will now face a no-confidence vote, which he had tried to avoid by dissolving Parliament, a move his opponents called a coup. 
- <p class="updated_time"> 06:48 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-drives-food-prices-to-record-high-11649440528">Ukraine War Drives Food Prices to Record High</a> WSJ: Ukraine War Drives Food Prices to Record High 
  <p class="updated_time"> 06:46 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60343129?at_medium=RSS&at_campaign=KARANGA">The Cambodian activists risking their freedom for the environment</a> BBC: Activists from the Cambodian environmental group Mother Nature are increasingly being targeted. 
+ <p class="updated_time"> 06:45 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201">A Woman’s Frantic Search for Family Trapped in Mariupol</a> WSJ: A Woman’s Frantic Search for Family Trapped in Mariupol 
  <p class="updated_time"> 06:41 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61035711?at_medium=RSS&at_campaign=KARANGA">Kenyan climber joins first all-black team attempting Mount Everest</a> BBC: Kenya's James Kagambi is the oldest in a group out to inspire black people to take up mountaineering. 
  <p class="updated_time"> 06:40 PM CT, Apr. 08 </p> 
@@ -35,16 +39,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61038463?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The school that helped fleeing musicians find safety</a> BBC: A group of young musicians from Kharkiv and Odesa have found new homes in Denmark. 
  <p class="updated_time"> 05:59 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-train-station-attack.html">Photos From Kramatorsk After the Rocket Assault</a> NYT: A railway station in eastern Ukraine had been a main departure point for people seeking to escape an expected Russian onslaught. A rocket assault left at least 50 dead. 
- <p class="updated_time"> 05:48 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/i-still-dont-know-if-my-family-is-alive-ukrainians-search-for-relatives-in-besieged-mariupol-11649410201">A Woman’s Frantic Search for Family Trapped in Mariupol</a> WSJ: A Woman’s Frantic Search for Family Trapped in Mariupol 
+ <p class="updated_time"> 05:45 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
  <p class="updated_time"> 05:08 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/boris-johnson-scholz-russia.html">Boris Johnson Urges Germany Not to Let Up Pressure on Russia</a> NYT: Prime Minister Boris Johnson is pressing European allies to take a hard line, like cutting off Russian energy imports, but after Brexit, his influence is limited. 
  <p class="updated_time"> 04:55 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/asia/food-shortages-shanghai-covid.html">Shanghai’s Covid Lockdown Has Caused Food Shortages, Residents Say</a> NYT: The authorities have locked down the city of 26 million in a bid to contain China’s worst outbreak since the pandemic began. 
  <p class="updated_time"> 04:53 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091801453/1mdb-fund-goldman-sachs-roger-ng-guilty">A former Goldman Sachs banker is found guilty in a plot to loot Malaysia's 1MDB fund</a> NPR: Roger Ng was convicted in a New York federal court of bribery and other corruption charges accusing him of participating in a $4.5 billion scheme to ransack the Malaysian state investment fund. 
- <p class="updated_time"> 04:48 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
+ <p class="updated_time"> 04:45 PM CT, Apr. 08 </p> 
+ <a href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941">Shanghai’s Omicron Outbreak Corners Chinese Leader</a> WSJ: Shanghai’s Omicron Outbreak Corners Chinese Leader 
  <p class="updated_time"> 04:26 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-61015290?at_medium=RSS&at_campaign=KARANGA">Why France's daily baguette is costing so much dough</a> BBC: Every part of the cost of the daily staple is rising - flour, electricity, gas and wages. 
  <p class="updated_time"> 04:14 PM CT, Apr. 08 </p> 
@@ -57,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/world/europe/kyiv-ukraine-war.html">With Russian Forces Gone, Kyiv Starts to Revive</a> NYT: The anxiety remains, but in Ukraine’s capital, large lines of cars are now forming on highways into the city and businesses are reopening. 
  <p class="updated_time"> 03:51 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091769540/a-curfew-in-peru-prompts-backlash-and-questions-over-presidential-leadership">A curfew in Peru prompts backlash — and questions over presidential leadership </a> NPR: NPR's Ailsa Chang speaks with Peru-based journalist Jacqueline Fowks about protests in the country over inflation and President Pedro Castillo's reaction to them. 
- <p class="updated_time"> 03:48 PM CT, Apr. 08 </p> 
- <a href="https://www.wsj.com/articles/shanghais-omicron-outbreak-corners-chinese-leader-11649423941">Shanghai’s Omicron Outbreak Corners Chinese Leader</a> WSJ: Shanghai’s Omicron Outbreak Corners Chinese Leader 
  <p class="updated_time"> 03:48 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091769519/russian-troops-left-death-and-destruction-behind-in-borodyanka-ukraine">Russian troops left death and destruction behind in Borodyanka, Ukraine</a> NPR: All week, the world's attention has been focused on the death and destruction that's been discovered in towns north of Kyiv, after Russian forces withdrew. One of those towns: Borodyanka. 
  <p class="updated_time"> 03:43 PM CT, Apr. 08 </p> 
@@ -125,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/world/europe/cheese-theft-netherlands.html">Major Cheese Heist Puts Dutch Dairy Farmers on Alert</a> NYT: Thieves made off with thousands of pounds of cheese, worth about $23,000, from a Dutch dairy farm last week. 
  <p class="updated_time"> 09:48 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61041438?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Burnt-out cars and debris at Kramatorsk station</a> BBC: Burnt-out cars and abandoned belongings at Kramatorsk railway station in eastern Ukraine. 
- <p class="updated_time"> 09:29 AM CT, Apr. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61027292?at_medium=RSS&at_campaign=KARANGA">Ukraine: Six weeks of devastation and defiance as world grapples with the crisis</a> BBC: The BBC's Jeremy Bowen takes stock of the war and its significance for the world. 
  <p class="updated_time"> 09:29 AM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61021186?at_medium=RSS&at_campaign=KARANGA">Israeli PM vows no limits after three killed by Palestinian attacker</a> BBC: Three Israelis were killed by a Palestinian gunman who opened fire on a busy bar in Tel Aviv. 
  <p class="updated_time"> 09:23 AM CT, Apr. 08 </p> 
@@ -209,9 +209,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:00 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/politics/capitol-hill-fox-history.html">Foxes and D.C. Politicians Don’t Mix, As This Week and History Show</a> NYT: The nation’s founding fathers hunted foxes for sport. This week, a rabid fox that bit nine people near the U.S. Capitol led to a very different type of hunt. 
  <p class="updated_time"> 05:55 PM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/08/us/politics/january-6-investigation-ali-alexander.html">Pro-Trump Organizer Cooperating in Justice Dept Jan. 6 Inquiry</a> NYT: Ali Alexander, who was a key figure in the “Stop the Steal” movement, said he had received a grand jury subpoena and would assist the expanding investigation. 
+ <a href="https://www.nytimes.com/2022/04/08/us/politics/january-6-investigation-ali-alexander.html">Pro-Trump Rally Planner Is Cooperating in Justice Dept.’s Jan. 6 Inquiry</a> NYT: Ali Alexander, who was a key figure in the “Stop the Steal” movement, said he had received a grand jury subpoena and would assist the expanding investigation. 
  <p class="updated_time"> 05:36 PM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/08/us/politics/trump-super-pac-illegal-donations.html">Donations Steered to Trump Super PAC by Canadian Are Found to Be Illegal</a> NYT: The Federal Election Commission fined a Canadian steel billionaire, Barry Zekelman, $975,000 in the case, one of the biggest penalties it has ever assessed. 
+ <a href="https://www.nytimes.com/2022/04/08/us/politics/trump-super-pac-illegal-donations.html">Donations Steered to Trump Super PAC by Canadian Deemed Illegal</a> NYT: The Federal Election Commission fined a Canadian steel billionaire, Barry Zekelman, $975,000 in the case, one of the biggest penalties it has ever assessed. 
  <p class="updated_time"> 04:01 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091589799/russia-ukraine-war-what-happened-today-april-8">Russia-Ukraine war: What happened today (April 8)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:57 PM CT, Apr. 08 </p> 
