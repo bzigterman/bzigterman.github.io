@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:28 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 07:59 AM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
+ <p class="updated_time"> 07:41 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Live Updates: Ukrainians Stream From East After Train Station Attack</a> NYT: President Volodymyr Zelensky of Ukraine called for “a firm, global response to this war crime” after a missile strike in Kramatorsk killed at least 50. Ukraine’s railway service said evacuations would proceed from nearby cities. 
  <p class="updated_time"> 07:25 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61049323?at_medium=RSS&at_campaign=KARANGA">Malaysia: Boy, 14, believed dead after diving trip</a> BBC: His British father and a French woman are rescued by authorities after two-and-a-half day ordeal. 
+ <p class="updated_time"> 07:02 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Zelensky Calls Russian Strike on Station a War Crime</a> WSJ: Zelensky Calls Russian Strike on Station a War Crime 
  <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091859815/yemens-president-steps-down-in-effort-to-end-7-year-civil-war">Yemen's president steps down in effort to end 7-year civil war</a> NPR: Scott Simon speaks to Yemen analyst Nadwa Al-Dawsari about the Yemeni president's transfer of power and its significance. 
  <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
@@ -31,31 +35,31 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/article/france-presidential-election-2022.html">France’s Presidential Election 2022: Your Questions, Answered</a> NYT: The French are choosing their president in April, an election that is crucial for France and key for Europe. President Emmanuel Macron is favored to win, but the race has gotten closer. 
  <p class="updated_time"> 06:40 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61051217?at_medium=RSS&at_campaign=KARANGA">France election: Voters prepare to cast ballot in presidential poll</a> BBC: Campaigning has ended ahead of the first round of voting which takes place on Sunday. 
- <p class="updated_time"> 06:31 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Zelensky Calls Russian Strike on Station a War Crime</a> WSJ: Zelensky Calls Russian Strike on Station a War Crime 
+ <p class="updated_time"> 06:35 AM CT, Apr. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61049896?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Watch BBC interview with Ukrainian PM</a> BBC: In a BBC exclusive, Denys Shmyhal accuses Russia of committing genocide in Ukraine. 
+ <p class="updated_time"> 06:02 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/russian-oligarchs-private-jets-find-refuge-in-dubai-but-cant-leave-11649496610">Russian Oligarchs’ Private Jets Find Refuge in Dubai but Can’t Leave</a> WSJ: Russian Oligarchs’ Private Jets Find Refuge in Dubai but Can’t Leave 
  <p class="updated_time"> 05:46 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-russia-war-ukraine.html">Spurred by Putin, Russians Turn on One Another Over the War</a> NYT: Citizens are denouncing one another, illustrating how the war is feeding paranoia and polarization in Russian society. 
- <p class="updated_time"> 05:31 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/russian-oligarchs-private-jets-find-refuge-in-dubai-but-cant-leave-11649496610">Russian Oligarchs’ Private Jets Find Refuge in Dubai but Can’t Leave</a> WSJ: Russian Oligarchs’ Private Jets Find Refuge in Dubai but Can’t Leave 
  <p class="updated_time"> 05:24 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/poland-women-ukraine-refugees.html">Women in Poland volunteer as drivers to offer safe transit to Ukraine’s refugees.</a> NYT: With women and children at high risk of exploitation, a volunteer collective called Women Take the Wheel is helping them make the journey. 
+ <p class="updated_time"> 05:02 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 05:00 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/canada/foreign-real-estate-buyer-ban.html">Canada Moves to Ban Foreign Real Estate Buyers for Two Years</a> NYT: Among the many budget measures to make housing more affordable is a two-year ban on sales to foreign buyers. But details are scarce. 
- <p class="updated_time"> 04:31 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 04:31 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/french-presidential-election-marcon-le-pen.html">With Macron and Le Pen Leading Election Field, a Fractured France Decides</a> NYT: In Dijon, magnificence and malaise sit side by side, in the image of a country divided before the presidential vote on Sunday. 
  <p class="updated_time"> 04:05 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61049656?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Inside Chernobyl after the Russian occupation</a> BBC: The nuclear power plant in northern Ukraine was taken over by Russian forces on the first day of the invasion. 
  <p class="updated_time"> 04:02 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091594904/mexico-president-recall-referendum-lopez-obrador-amlo">Here's why Mexico's president is launching a vote to recall himself</a> NPR: While recalls are a common political tool, normally it's the opponents of an unpopular leader who favor a recall. But Sunday's referendum is the president's own idea. And he's expected to win. 
+ <p class="updated_time"> 04:02 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/economic-crisis-threatens-hold-of-sri-lankas-most-powerful-family-11649501618">Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family</a> WSJ: Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family 
  <p class="updated_time"> 04:00 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/04/09/1091740132/ukraine-russia-borodyanka">This is what a Ukraine town looks like after Russian troops withdraw</a> NPR: The residents of Borodyanka are picking up the pieces after Russian forces withdrew and left behind a shattered town. Hundreds of people are still missing, presumed buried under rubble. 
  <p class="updated_time"> 03:45 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/japan-russia-ukraine.html">Japan Aligns With U.S. and Europe in Penalizing Russia Over Ukraine War</a> NYT: The country has announced a ban on Russian coal and restrictions on imports including timber, vodka and machinery. It is also expelling eight Russian diplomats. 
- <p class="updated_time"> 03:31 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/economic-crisis-threatens-hold-of-sri-lankas-most-powerful-family-11649501618">Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family</a> WSJ: Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family 
- <p class="updated_time"> 02:31 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 03:02 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
  <p class="updated_time"> 02:05 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tank treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
@@ -173,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61020025?at_medium=RSS&at_campaign=KARANGA">Meat ban: India isn't vegetarian but who'll tell the right-wing?</a> BBC: The country's varied and complex cuisine celebrates meat just as much as vegetables. 
  <p class="updated_time"> 07:34 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/ukraine-mothers-birth.html">Inside a Maternity Hospital in Ukraine as War Grinds On</a> NYT: As artillery shells fall, pregnant women are delivering prematurely, being shuttled in and out of bomb shelters or having babies in basements without even a midwife to help. Tens of thousands more are displaced. 
- <p class="updated_time"> 06:02 PM CT, Apr. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61025658?at_medium=RSS&at_campaign=KARANGA">French winemakers fan flames to save 2022 crop</a> BBC: Sudden and sharp frosts in France this week are threatening this year's vintage. 
  <p class="updated_time"> 05:28 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/un-human-rights-council-russia.html">U.N. Votes to Suspend Russia From Human Rights Council</a> NYT: The resolution received 93 votes in favor and 24 against, and 58 countries abstained. China and other countries had said before the vote that they would not support the measure. 
  <p class="updated_time"> 02:54 PM CT, Apr. 07 </p> 
@@ -189,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/world/europe/russia-hackers-facebook-disinformation.html">Pro-Russian Hackers Ramp Up Use of Facebook, Its Parent Company Says</a> NYT: Hackers in Russia and Belarus are using Meta’s platform for cyberespionage and disinformation campaigns, executives said. 
  <p class="updated_time"> 06:47 AM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/yemen-presidential-council.html">Yemen’s President Steps Down, Hands Power to Presidential Council</a> NYT: President Abdu Rabbu Mansour Hadi abdicated days after a two-month cease-fire took effect, signs that his Saudi allies may be looking for a path out of the bloodshed. 
- <p class="updated_time"> 04:35 AM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/world/europe/finland-russia-art-sanctions.html">Finland Seizes Artwork Suspected of Violating E.U. Sanctions on Russia</a> NYT: The art was being transported back to Russia after being featured in exhibitions in Italy and Japan, the Finnish customs service said. 
 
 
 </details>
@@ -198,6 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:40 AM CT, Apr. 09 </p> 
+ <a href="https://www.politico.com/news/2022/04/09/state-department-white-house-gift-records-trump-pence-00024253">State Department: White House gift records for Trump, Pence missing</a> Politico: The department says the Executive Office of the President did not submit information about gifts received by Trump and his family from foreign leaders in 2020. 
  <p class="updated_time"> 07:25 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091859822/more-details-emerge-in-federal-investigation-into-hunter-biden">More details emerge in federal investigation into Hunter Biden</a> NPR: In 2020, much of the mainstream media dismissed a story about Hunter Biden's business dealings. Now emails supporting the story have been authenticated. Was the media too deferential to the Bidens? 
  <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
