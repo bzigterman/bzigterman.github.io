@@ -9,19 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:27 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 09:45 AM CT, Apr. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61052643?at_medium=RSS&at_campaign=KARANGA">Johnson travels to Kyiv for Zelensky talks</a> BBC: The prime minister's visit was a "show of solidarity" with the Ukrainian people, Downing Street says. 
+ <p class="updated_time"> 09:45 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Names General to Unify Its Faltering Campaign</a> NYT: The move comes as Russia persists with its push in southeastern Ukraine, where residents continued to flee on Saturday a day after a missile strike on a train station there killed at least 52 people. 
+ <p class="updated_time"> 09:43 AM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tank treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
+ <p class="updated_time"> 09:29 AM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-train-station-attack.html">Photos From Kramatorsk After the Rocket Assault</a> NYT: A railway station in eastern Ukraine had been a main departure point for people seeking to escape an expected Russian onslaught. A rocket assault left at least 50 dead. 
  <p class="updated_time"> 09:17 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61051217?at_medium=RSS&at_campaign=KARANGA">France election: Voters prepare to cast ballot in presidential poll</a> BBC: Campaigning has ended ahead of the first round of voting which takes place on Sunday. 
+ <p class="updated_time"> 08:59 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Zelensky Calls Russian Strike on Station a War Crime</a> WSJ: Zelensky Calls Russian Strike on Station a War Crime 
  <p class="updated_time"> 08:44 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61049323?at_medium=RSS&at_campaign=KARANGA">Malaysia: Boy, 14, believed dead after diving trip</a> BBC: His British father and a French woman are rescued by authorities after two-and-a-half day ordeal. 
- <p class="updated_time"> 08:32 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Zelensky Calls Russian Strike on Station a War Crime</a> WSJ: Zelensky Calls Russian Strike on Station a War Crime 
  <p class="updated_time"> 08:00 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-ukraine-russia.html">Putin’s War in Ukraine Shatters an Illusion in Russia</a> NYT: Russians long lived with an understanding: Stay away from politics, and live your life as you choose. The war in Ukraine wrecked that idea. 
  <p class="updated_time"> 07:59 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
- <p class="updated_time"> 07:32 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 07:59 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/russian-oligarchs-private-jets-find-refuge-in-dubai-but-cant-leave-11649496610">Russian Oligarchs’ Private Jets Find Refuge in Dubai but Can’t Leave</a> WSJ: Russian Oligarchs’ Private Jets Find Refuge in Dubai but Can’t Leave 
  <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091859815/yemens-president-steps-down-in-effort-to-end-7-year-civil-war">Yemen's president steps down in effort to end 7-year civil war</a> NPR: Scott Simon speaks to Yemen analyst Nadwa Al-Dawsari about the Yemeni president's transfer of power and its significance. 
@@ -35,23 +41,23 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/09/1091859745/russia-accused-of-war-crimes-in-missile-attack-on-ukrainian-train-station">Russia accused of war crimes in missile attack on Ukrainian train station</a> NPR: Ukraine is still reeling from a missile attack at a crowded train station in the eastern part of the country.  At least 50 people were killed in the attack and about 100 are injured. 
  <p class="updated_time"> 07:00 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61047585?at_medium=RSS&at_campaign=KARANGA">Imran Khan: Pakistan PM on brink as confidence vote looms</a> BBC: Pakistan's prime minister warns that if he is ousted, he won't recognise an opposition government. 
+ <p class="updated_time"> 06:59 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 06:50 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/eu-putin-sanctions-daughters.html">Latest E.U. Sanctions Get Personal With Putin’s Daughters and Confidantes.</a> NYT: The targets included one of the most trusted technocrats in Mr. Putin’s economic policy team and the head of a construction empire who used to practice judo with the Russian leader. 
  <p class="updated_time"> 06:48 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/article/france-presidential-election-2022.html">France’s Presidential Election 2022: Your Questions, Answered</a> NYT: The French are choosing their president in April, an election that is crucial for France and key for Europe. President Emmanuel Macron is favored to win, but the race has gotten closer. 
  <p class="updated_time"> 06:35 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61049896?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Watch BBC interview with Ukrainian PM</a> BBC: In a BBC exclusive, Denys Shmyhal accuses Russia of committing genocide in Ukraine. 
- <p class="updated_time"> 06:32 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
+ <p class="updated_time"> 05:59 AM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/economic-crisis-threatens-hold-of-sri-lankas-most-powerful-family-11649501618">Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family</a> WSJ: Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family 
  <p class="updated_time"> 05:46 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-russia-war-ukraine.html">Spurred by Putin, Russians Turn on One Another Over the War</a> NYT: Citizens are denouncing one another, illustrating how the war is feeding paranoia and polarization in Russian society. 
- <p class="updated_time"> 05:32 AM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/economic-crisis-threatens-hold-of-sri-lankas-most-powerful-family-11649501618">Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family</a> WSJ: Economic Crisis Threatens Hold of Sri Lanka’s Most Powerful Family 
  <p class="updated_time"> 05:24 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/poland-women-ukraine-refugees.html">Women in Poland Offer Safe Transit to Ukraine’s Refugees</a> NYT: With women and children at high risk of exploitation, a volunteer collective called Women Take the Wheel is helping them make the journey. 
  <p class="updated_time"> 05:00 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/canada/foreign-real-estate-buyer-ban.html">Canada Moves to Ban Foreign Real Estate Buyers for Two Years</a> NYT: Among the many budget measures to make housing more affordable is a two-year ban on sales to foreign buyers. But details are scarce. 
- <p class="updated_time"> 04:32 AM CT, Apr. 09 </p> 
+ <p class="updated_time"> 04:59 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/in-france-inflation-worries-fuel-tight-presidential-race-11649419200">In France, Inflation Tightens Race Between Macron and Far-Right Le Pen</a> WSJ: In France, Inflation Tightens Race Between Macron and Far-Right Le Pen 
  <p class="updated_time"> 04:31 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/french-presidential-election-marcon-le-pen.html">With Macron and Le Pen Leading Election Field, a Fractured France Decides</a> NYT: In Dijon, magnificence and malaise sit side by side, in the image of a country divided before the presidential vote on Sunday. 
@@ -63,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/pictureshow/2022/04/09/1091740132/ukraine-russia-borodyanka">This is what a Ukraine town looks like after Russian troops withdraw</a> NPR: The residents of Borodyanka are picking up the pieces after Russian forces withdrew and left behind a shattered town. Hundreds of people are still missing, presumed buried under rubble. 
  <p class="updated_time"> 03:45 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/japan-russia-ukraine.html">Japan Aligns With U.S. and Europe in Penalizing Russia Over Ukraine War</a> NYT: The country has announced a ban on Russian coal and restrictions on imports including timber, vodka and machinery. It is also expelling eight Russian diplomats. 
- <p class="updated_time"> 02:05 AM CT, Apr. 09 </p> 
- <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tank treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
  <p class="updated_time"> 12:02 AM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61038811?at_medium=RSS&at_campaign=KARANGA">Ukraine mother: I saw my daughter killed, then was held captive in basement</a> BBC: Viktoria describes how her daughter and husband were killed in front of her while escaping Russian forces. 
  <p class="updated_time"> 11:50 PM CT, Apr. 08 </p> 
@@ -80,8 +84,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:47 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61021862?at_medium=RSS&at_campaign=KARANGA">Ukraine, the UN and history's greatest broken promise</a> BBC: If the past is anything to go by, the world will struggle to unite for Ukraine - says Fergal Keane. 
  <p class="updated_time"> 07:03 PM CT, Apr. 08 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-61038961?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 2 - 8 April 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
- <p class="updated_time"> 07:03 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/asia/pakistan-imran-khan.html">Pakistan’s Supreme Court Blocks Imran Khan’s Move to Stay in Power</a> NYT: The prime minister will now face a no-confidence vote, which he had tried to avoid by dissolving Parliament, a move his opponents called a coup. 
  <p class="updated_time"> 06:46 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-60343129?at_medium=RSS&at_campaign=KARANGA">The Cambodian activists risking their freedom for the environment</a> BBC: Activists from the Cambodian environmental group Mother Nature are increasingly being targeted. 
@@ -95,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/08/1091827455/graciela-iturbide-exhibit-cartier-foundation-paris">A Paris exhibit looks back on the photographs of Graciela Iturbide</a> NPR: Mexican photographer Graciela Iturbide has won international renown for her portraits of indigenous and marginalized peoples across the globe. 
  <p class="updated_time"> 06:01 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61038463?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The school that helped fleeing musicians find safety</a> BBC: A group of young musicians from Kharkiv and Odesa have found new homes in Denmark. 
- <p class="updated_time"> 05:59 PM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-train-station-attack.html">Photos From Kramatorsk After the Rocket Assault</a> NYT: A railway station in eastern Ukraine had been a main departure point for people seeking to escape an expected Russian onslaught. A rocket assault left at least 50 dead. 
  <p class="updated_time"> 05:08 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/boris-johnson-scholz-russia.html">Boris Johnson Urges Germany Not to Let Up Pressure on Russia</a> NYT: Prime Minister Boris Johnson is pressing European allies to take a hard line, like cutting off Russian energy imports, but after Brexit, his influence is limited. 
  <p class="updated_time"> 04:55 PM CT, Apr. 08 </p> 
@@ -121,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/arts/design/finland-russia-art-seizure.html">Officials Say Russian Art, Seized by Finns, Should Return Home</a> NYT: Finnish custom officials had seized the art several days ago, but the Finns and European Union officials decided that art lent to museums for exhibit did not come under sanctions. 
  <p class="updated_time"> 03:20 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091769512/artem-chapeye-a-writer-fighting-in-ukrainian-army-on-his-love-story-for-his-coun">Artem Chapeye, a writer fighting in Ukrainian army, on his love story for his country</a> NPR: NPR's Mary Louise Kelly talks with Artem Chapeye, author of the book The Ukraine, who is currently serving as a private in the army fighting for Ukraine. 
- <p class="updated_time"> 03:20 PM CT, Apr. 08 </p> 
- <a href="https://www.npr.org/2022/04/08/1091769498/red-cross-prepares-for-the-worst-in-eastern-ukraine">Red Cross prepares for the worst in eastern Ukraine</a> NPR: NPR's Ailsa Chang speaks with Pascal Hundt, the head of delegation at the International Committee of the Red Cross in Ukraine, about helping evacuate and bringing aid to the country. 
  <p class="updated_time"> 03:19 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61047567?at_medium=RSS&at_campaign=KARANGA">Zelensky: 'We are defending the right to live'</a> BBC: In a CBS interview, Ukraine's President Zelensky speaks about the war and what he saw in Bucha. 
  <p class="updated_time"> 03:15 PM CT, Apr. 08 </p> 
