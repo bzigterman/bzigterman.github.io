@@ -9,37 +9,39 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:48 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 04:02 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">Live Updates: Voting Begins in French Presidential Race</a> NYT: President Emmanuel Macron is expected to finish first, but polls suggest that he’s likely to face the far-right leader Marine Le Pen in the second round, in a rematch of their 2017 runoff. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091857410/even-with-ties-ukrainian-families-struggle-to-reach-the-united-states">Even with ties, Ukrainian families struggle to reach the United States</a> NPR: Olena Kopchak, her husband and their 8-year-old daughter, Yana, are among the growing number of Ukrainians who are trying to make it to the United States — and confronting obstacles. 
  <p class="updated_time"> 03:39 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61049717?at_medium=RSS&at_campaign=KARANGA">French election: Macron faces stiffest test as France votes</a> BBC: The opening round of the French presidential race could become a cliffhanger for Emmanuel Macron. 
  <p class="updated_time"> 03:27 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">Ukraine Live Updates: Allies Warn Russian Forces Will Target More Civilian Areas</a> NYT: Fears grew after Russia appointed a general who is accused of atrocities in Syria to lead its war effort in Ukraine. Prime Minister Boris Johnson made an unannounced visit to Kyiv and pledged to send more weapons. 
+ <p class="updated_time"> 03:12 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
  <p class="updated_time"> 03:05 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/imran-khan-pakistan-ousted.html">Imran Khan Ousted as Pakistan’s Prime Minister</a> NYT: The country will now face early elections after days of brinkmanship in which Mr. Khan tried to dissolve Parliament to head off the no-confidence vote. 
- <p class="updated_time"> 02:53 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
+ <p class="updated_time"> 02:12 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Accelerates Nuclear Buildup</a> WSJ: China Accelerates Nuclear Buildup 
  <p class="updated_time"> 02:00 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/australia/sydney-coronavirus-homecoming.html">An Australia Homecoming, Mixed With Yearning and Trepidation</a> NYT: When “Fortress Australia” sealed its borders, thousands of citizens were stuck abroad. When allowed to return home, a reporter wondered how she would find the country — and how it would find her. 
  <p class="updated_time"> 02:00 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/russia-ukraine-war-crimes.html">Why Calls for War Crimes Justice Over Ukraine Face Long Odds</a> NYT: If those in power act as if they are immune to the laws of war, it may be because they often are. But following through is not necessarily an empty exercise. 
  <p class="updated_time"> 01:53 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091921962/polls-open-in-1st-round-of-frances-presidential-election">Polls open in 1st round of France's presidential election</a> NPR: Polls opened across France Sunday for the first round of the country's election, where up to 48 million voters will be choosing between 12 candidates, including President Emmanuel Macron. 
- <p class="updated_time"> 01:53 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Accelerates Nuclear Buildup</a> WSJ: China Accelerates Nuclear Buildup 
  <p class="updated_time"> 01:47 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61057005?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Johnson and Zelensky tour near-empty streets in Kyiv</a> BBC: Boris Johnson makes a surprise visit to Ukraine's capital, and meets President Volodymyr Zelensky. 
  <p class="updated_time"> 01:47 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091921429/australian-prime-minister-calls-may-21-election">Australian prime minister calls May 21 election</a> NPR: Scott Morrison has called for a May 21 election that will be fought on issues including Chinese economic coercion, climate change and the COVID-19 pandemic. 
- <p class="updated_time"> 12:53 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 01:12 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
  <p class="updated_time"> 12:47 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091920075/zelenskyy-russian-aggression-not-limited-to-ukraine-alone">Zelenskyy: 'Russian aggression not limited to Ukraine alone'</a> NPR: Ukrainian President Volodymyr Zelenskyy said in his evening address that Russia is targeting all of Europe with its aggression, and defending Ukraine is essential for the security of all democracies. 
- <p class="updated_time"> 11:53 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 12:12 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote 
  <p class="updated_time"> 11:37 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61040424?at_medium=RSS&at_campaign=KARANGA">Full embargo on oil could stop war - ex-Putin aide</a> BBC: President Putin's former chief economic advisor tells the BBC Western countries could stop the war. 
- <p class="updated_time"> 10:53 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 11:12 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 09:40 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
@@ -105,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/09/1091859801/how-should-the-u-s-handle-china-and-russias-growing-alliance">How should the U.S. handle China and Russia's growing alliance?</a> NPR: Scott Simon speaks with Hal Brands, a professor at the Johns Hopkins School of Advanced International Studies, about how the U.S. should handle the emerging alliance between China and Russia. 
  <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091859773/pakistan-parliament-holds-a-no-confidence-vote-against-prime-minister-imran-khan">Pakistan parliament holds a no-confidence vote against Prime Minister Imran Khan</a> NPR: The Pakistan parliament is holding a no-confidence vote in Prime Minister Imran Khan, which will lead to his ouster. Opponents accuse his government of economic mismanagement. 
- <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
- <a href="https://www.npr.org/2022/04/09/1091859766/2-sisters-share-their-plans-to-unite-after-fleeing-ukraine">2 sisters share their plans to unite after fleeing Ukraine</a> NPR: Scott Simon speaks with sisters Lena and Kira Manilich, both of whom left Ukraine, about their efforts to reunite in the United States. 
  <p class="updated_time"> 06:50 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/eu-putin-sanctions-daughters.html">Latest E.U. Sanctions Get Personal With Putin’s Daughters and Confidantes.</a> NYT: The targets included one of the most trusted technocrats in Mr. Putin’s economic policy team and the head of a construction empire who used to practice judo with the Russian leader. 
  <p class="updated_time"> 06:35 AM CT, Apr. 09 </p> 
@@ -198,6 +198,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091857410/even-with-ties-ukrainian-families-struggle-to-reach-the-united-states">Even with ties, Ukrainian families struggle to reach the United States</a> NPR: Olena Kopchak, her husband and their 8-year-old daughter, Yana, are among the growing number of Ukrainians who are trying to make it to the United States — and confronting obstacles. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/2022/04/10/us/politics/jan-6-trump-criminal-referral.html">Jan. 6 Panel Has Evidence for Criminal Referral of Trump, but Splits on Sending</a> NYT: Despite concluding that it has enough evidence, the committee is concerned that making a referral to the Justice Department would backfire by politicizing the investigation into the Capitol riot. 
  <p class="updated_time"> 08:57 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/us/politics/trump-doctor-oz-senate-endorsement.html">Trump endorses Dr. Oz in Pennsylvania Senate race </a> NYT: The former president threw his weight behind the celebrity doctor, who is running for the Republican nomination for senator in a key state. 
  <p class="updated_time"> 07:41 PM CT, Apr. 09 </p> 
@@ -300,8 +304,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/business/spirit-airlines-jetblue-frontier.html">Bidding War for Spirit Could Undercut Power of Four Big Airlines</a> NYT: The rival bids for Spirit from Frontier and JetBlue could create an airline that presents a more formidable challenge to American, Delta, Southwest and United. 
  <p class="updated_time"> 09:41 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-supreme-court.html">Ketanji Brown Jackson Becomes First Black Woman on Supreme Court</a> NYT: The vote was a bipartisan rejection of Republican attempts to paint her as a liberal extremist who had coddled criminals. 
- <p class="updated_time"> 04:05 AM CT, Apr. 08 </p> 
- <a href="https://www.npr.org/2022/04/08/1091569045/voters-in-michigans-7th-congressional-district-weigh-in-on-issues-ahead-of-midte">Voters in Michigan's 7th Congressional District weigh in on issues ahead of midterms</a> NPR: Democrats aim to balance multiple crises ahead of November's midterm elections. Voters in Livingston County, Mich., share their concerns about inflation and their views of President Biden. 
  <p class="updated_time"> 03:30 AM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/ukraines-iron-general-zaluzhnyy-00023901">Ukraine’s 'iron general' is a hero, but he's no star</a> Politico: Meet Valeriy Zaluzhnyy, the commander in chief of the Ukrainian Armed Forces, who's quietly leading the fight against Russia's invaders. 
  <p class="updated_time"> 03:30 AM CT, Apr. 08 </p> 
@@ -310,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/us/politics/biden-vaccine-mandate-ruling.html">Biden’s Vaccine Mandate for Federal Workers Is Upheld By Appeals Court</a> NYT: The ruling Thursday reversed a decision that had blocked the White House from requiring federal workers to be vaccinated. 
  <p class="updated_time"> 08:51 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/dr-oz-pennsylvania-senate.html">Dr. Oz’s Senate Bid Reveals His Wealth</a> NYT: One of the leading Republican candidates for Senate in Pennsylvania, Dr. Mehmet Oz has a vast fortune that could help him in the race. 
- <p class="updated_time"> 07:21 PM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/us/politics/capitol-fox-rabies-kits-euthanized.html">Capitol Fox’s Three Kits Euthanized After Rabies Exposure</a> NYT: The saga of the wild red fox — celebrated as a mascot, then hunted as an aggressive attacker, then killed and found to be rabid — grew darker after her kits were euthanized as well. 
  <p class="updated_time"> 04:32 PM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/5-takeaways-canada-2022-budget-00023908">Five takeaways from Canada’s 2022 budget</a> Politico: “The word ‘uncertainty’ is a big piece of our thinking,” a senior official acknowledged of the federal government's planning. 
  <p class="updated_time"> 03:09 PM CT, Apr. 07 </p> 
