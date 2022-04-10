@@ -9,21 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/2022/04/10/world/australia/sydney-coronavirus-homecoming.html">An Australia Homecoming, Mixed With Yearning and Trepidation</a> NYT: When “Fortress Australia” sealed its borders, thousands of citizens were stuck abroad. When allowed to return home, a reporter wondered how she would find the country — and how it would find her. 
+ <p class="updated_time"> 02:00 AM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/2022/04/10/world/europe/russia-ukraine-war-crimes.html">Why Calls for War Crimes Justice Over Ukraine Face Long Odds</a> NYT: If those in power act as if they are immune to the laws of war, it may be because they often are. But following through is not necessarily an empty exercise. 
+ <p class="updated_time"> 01:53 AM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091921962/polls-open-in-1st-round-of-frances-presidential-election">Polls open in 1st round of France's presidential election</a> NPR: Polls opened across France Sunday for the first round of the country's election, where up to 48 million voters will be choosing between 12 candidates, including President Emmanuel Macron. 
+ <p class="updated_time"> 01:47 AM CT, Apr. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61057005?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Johnson and Zelensky tour near-empty streets in Kyiv</a> BBC: Boris Johnson makes a surprise visit to Ukraine's capital, and meets President Volodymyr Zelensky. 
  <p class="updated_time"> 01:47 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091921429/australian-prime-minister-calls-may-21-election">Australian prime minister calls May 21 election</a> NPR: Scott Morrison has called for a May 21 election that will be fought on issues including Chinese economic coercion, climate change and the COVID-19 pandemic. 
- <p class="updated_time"> 12:55 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 01:17 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
  <p class="updated_time"> 12:47 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091920075/zelenskyy-russian-aggression-not-limited-to-ukraine-alone">Zelenskyy: 'Russian aggression not limited to Ukraine alone'</a> NPR: Ukrainian President Volodymyr Zelenskyy said in his evening address that Russia is targeting all of Europe with its aggression, and defending Ukraine is essential for the security of all democracies. 
  <p class="updated_time"> 12:26 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">What Happened on Day 45 of the War in Ukraine</a> NYT: The move comes as Russia persists with its push in southeastern Ukraine, where residents continued to flee on Saturday, a day after a deadly missile strike on a train station there. In his nightly address, President Zelensky renewed calls for an embargo on Russian oil. 
- <p class="updated_time"> 11:55 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 12:17 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Accelerates Nuclear Buildup</a> WSJ: China Accelerates Nuclear Buildup 
  <p class="updated_time"> 11:37 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61040424?at_medium=RSS&at_campaign=KARANGA">'Real embargo on Russian energy could end Ukraine war'</a> BBC: President Putin's former chief economic advisor tells the BBC Western countries could stop the war. 
- <p class="updated_time"> 10:55 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 11:17 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
- <p class="updated_time"> 09:55 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 10:17 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote 
  <p class="updated_time"> 09:40 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
@@ -33,10 +41,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/09/world/asia/imran-khan-pakistan-ousted.html">Imran Khan Ousted as Pakistan’s Prime Minister</a> NYT: The country will now face early elections after days of brinkmanship in which Mr. Khan tried to dissolve Parliament to head off the no-confidence vote. 
  <p class="updated_time"> 09:21 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61055915?at_medium=RSS&at_campaign=KARANGA">Australia election: PM Scott Morrison calls poll for 21 May</a> BBC: Prime Minister Scott Morrison announced the date after seeing the Governor General in Canberra. 
+ <p class="updated_time"> 09:17 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 09:04 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/kyiv-ukraine-war.html">With Russian Forces Gone, Kyiv Starts to Revive</a> NYT: The anxiety remains, but in Ukraine’s capital, large lines of cars are now forming on highways into the city and businesses are reopening. 
- <p class="updated_time"> 08:55 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 08:52 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
  <p class="updated_time"> 06:31 PM CT, Apr. 09 </p> 
@@ -97,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/09/1091859773/pakistan-parliament-holds-a-no-confidence-vote-against-prime-minister-imran-khan">Pakistan parliament holds a no-confidence vote against Prime Minister Imran Khan</a> NPR: The Pakistan parliament is holding a no-confidence vote in Prime Minister Imran Khan, which will lead to his ouster. Opponents accuse his government of economic mismanagement. 
  <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091859766/2-sisters-share-their-plans-to-unite-after-fleeing-ukraine">2 sisters share their plans to unite after fleeing Ukraine</a> NPR: Scott Simon speaks with sisters Lena and Kira Manilich, both of whom left Ukraine, about their efforts to reunite in the United States. 
- <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
- <a href="https://www.npr.org/2022/04/09/1091859745/russia-accused-of-war-crimes-in-missile-attack-on-ukrainian-train-station">Russia accused of war crimes in missile attack on Ukrainian train station</a> NPR: Ukraine is still reeling from a missile attack at a crowded train station in the eastern part of the country.  At least 50 people were killed in the attack and about 100 are injured. 
  <p class="updated_time"> 06:50 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/eu-putin-sanctions-daughters.html">Latest E.U. Sanctions Get Personal With Putin’s Daughters and Confidantes.</a> NYT: The targets included one of the most trusted technocrats in Mr. Putin’s economic policy team and the head of a construction empire who used to practice judo with the Russian leader. 
  <p class="updated_time"> 06:35 AM CT, Apr. 09 </p> 
@@ -141,8 +147,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/arts/design/finland-russia-art-seizure.html">Officials Say Russian Art, Seized by Finns, Should Return Home</a> NYT: Finnish custom officials had seized the art several days ago, but the Finns and European Union officials decided that art lent to museums for exhibit did not come under sanctions. 
  <p class="updated_time"> 03:20 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-61041760?at_medium=RSS&at_campaign=KARANGA">Kinder chocolate factory told to shut over salmonella cases</a> BBC: Dozens of suspected cases are reported in the UK, Germany, France and Belgium. 
- <p class="updated_time"> 03:19 PM CT, Apr. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61047567?at_medium=RSS&at_campaign=KARANGA">Zelensky: 'We are defending the right to live'</a> BBC: In a CBS interview, Ukraine's President Zelensky speaks about the war and what he saw in Bucha. 
  <p class="updated_time"> 03:01 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61047565?at_medium=RSS&at_campaign=KARANGA">First black woman on US Supreme Court: 'We've made it'</a> BBC: Newly confirmed US Supreme Court Justice Ketanji Brown Jackson on her remarkable journey. 
  <p class="updated_time"> 02:47 PM CT, Apr. 08 </p> 
@@ -163,10 +167,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/world/europe/stanislav-aseyev-ukraine-russia.html">For a Ukrainian Journalist, War Evokes Scars From Captivity</a> NYT: Stanislav Aseyev, a 32-year-old journalist, had documented his abuse in a prison run by Russian-backed separatists. Now, the war reminds him of why Ukrainians are fighting for their lives. 
  <p class="updated_time"> 09:50 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/cheese-theft-netherlands.html">Major Cheese Heist Puts Dutch Dairy Farmers on Alert</a> NYT: Thieves made off with thousands of pounds of cheese, worth about $23,000, from a Dutch dairy farm last week. 
- <p class="updated_time"> 09:23 AM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008288146/bucha-ukraine-russia-atrocities.html">‘Evil Came’: The Toll of Russia’s Occupation in Kyiv’s Suburbs</a> NYT: Land mines, bullet-riddled cars and corpses lying in the street. Residents of Bucha, Borodianka and Hostomel describe the horrors left behind by Russian forces. 
- <p class="updated_time"> 08:36 AM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/07/world/europe/sabina-nessa-murder-london.html">Killer of Sabina Nessa in London Park Sentenced to Life in Prison  </a> NYT: The murder of a schoolteacher, Sabina Nessa, 28, added to a sense of outrage amid fears the authorities were failing to address violence against women. 
  <p class="updated_time"> 07:27 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/yemen-war-saudi-arabia.html">How the Yemen War Connects to Saudi Arabia and Iran</a> NYT: Yemen was already the Arab world’s poorest country before its civil war began in 2014. Then a Saudi-led coalition joined the fight against the Iran-backed Houthi militia, spreading the ruin. 
  <p class="updated_time"> 05:01 AM CT, Apr. 08 </p> 
