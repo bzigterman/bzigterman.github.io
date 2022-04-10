@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:34 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 05:48 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">Live Updates: Turnout Is Lower as Voting Begins in French Presidential Race</a> NYT: President Emmanuel Macron is expected to finish first after a muted campaign. Polls suggest that he’s likely to face the far-right leader Marine Le Pen in the second round, in a rematch of their 2017 runoff. 
+ <p class="updated_time"> 05:39 AM CT, Apr. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
  <p class="updated_time"> 05:31 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091925789/mexicans-vote-on-whether-president-stays-or-goes">Mexicans vote on whether president stays or goes</a> NPR: Mexicans vote Sunday on whether their popular president Andrés Manuel López Obrador should end his six-year term barely midway through or continue to the end, in a vote he instigated. 
  <p class="updated_time"> 05:31 AM CT, Apr. 10 </p> 
@@ -19,36 +21,34 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/10/world/europe/rishi-sunak-taxes-uk.html">A Popular British Politician Falls From Grace Over a Tax Scandal</a> NYT: Rishi Sunak was once considered a potential successor to Prime Minister Boris Johnson. Now he faces scrutiny over his wealthy wife’s tax status, and over holding an American green card while in office. 
  <p class="updated_time"> 05:18 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61049717?at_medium=RSS&at_campaign=KARANGA">French election: Macron faces far-right challenge as France votes</a> BBC: The opening round of the French presidential race could become a cliffhanger for Emmanuel Macron. 
- <p class="updated_time"> 04:39 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 04:54 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
  <p class="updated_time"> 04:33 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61055915?at_medium=RSS&at_campaign=KARANGA">Australia election: PM Scott Morrison calls poll for 21 May</a> BBC: Prime Minister Scott Morrison announced the date after seeing the Governor General in Canberra. 
- <p class="updated_time"> 04:09 AM CT, Apr. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
  <p class="updated_time"> 04:00 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091857410/even-with-ties-ukrainian-families-struggle-to-reach-the-united-states">Even with ties, Ukrainian families struggle to reach the United States</a> NPR: Olena Kopchak, her husband and their 8-year-old daughter, Yana, are among the growing number of Ukrainians who are trying to make it to the United States — and confronting obstacles. 
- <p class="updated_time"> 03:39 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 03:54 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Accelerates Nuclear Buildup</a> WSJ: China Accelerates Nuclear Buildup 
  <p class="updated_time"> 03:05 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/imran-khan-pakistan-ousted.html">Imran Khan Ousted as Pakistan’s Prime Minister</a> NYT: The country will now face early elections after days of brinkmanship in which Mr. Khan tried to dissolve Parliament to head off the no-confidence vote. 
- <p class="updated_time"> 02:39 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 02:54 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
  <p class="updated_time"> 02:00 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/australia/sydney-coronavirus-homecoming.html">An Australia Homecoming, Mixed With Yearning and Trepidation</a> NYT: When “Fortress Australia” sealed its borders, thousands of citizens were stuck abroad. When allowed to return home, a reporter wondered how she would find the country — and how it would find her. 
  <p class="updated_time"> 02:00 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/russia-ukraine-war-crimes.html">Why Calls for War Crimes Justice Over Ukraine Face Long Odds</a> NYT: If those in power act as if they are immune to the laws of war, it may be because they often are. But following through is not necessarily an empty exercise. 
+ <p class="updated_time"> 01:54 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote 
  <p class="updated_time"> 01:53 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091921962/polls-open-in-1st-round-of-frances-presidential-election">Polls open in 1st round of France's presidential election</a> NPR: Polls opened across France Sunday for the first round of the country's election, where up to 48 million voters will be choosing between 12 candidates, including President Emmanuel Macron. 
  <p class="updated_time"> 01:47 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61057005?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Johnson and Zelensky tour near-empty streets in Kyiv</a> BBC: Boris Johnson makes a surprise visit to Ukraine's capital, and meets President Volodymyr Zelensky. 
  <p class="updated_time"> 01:47 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091921429/australian-prime-minister-calls-may-21-election">Australian prime minister calls May 21 election</a> NPR: Scott Morrison has called for a May 21 election that will be fought on issues including Chinese economic coercion, climate change and the COVID-19 pandemic. 
- <p class="updated_time"> 01:39 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote 
+ <p class="updated_time"> 12:54 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 12:47 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091920075/zelenskyy-russian-aggression-not-limited-to-ukraine-alone">Zelenskyy: 'Russian aggression not limited to Ukraine alone'</a> NPR: Ukrainian President Volodymyr Zelenskyy said in his evening address that Russia is targeting all of Europe with its aggression, and defending Ukraine is essential for the security of all democracies. 
- <p class="updated_time"> 12:39 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 11:37 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61040424?at_medium=RSS&at_campaign=KARANGA">Full embargo on oil could stop war - ex-Putin aide</a> BBC: President Putin's former chief economic advisor tells the BBC Western countries could stop the war. 
  <p class="updated_time"> 09:34 PM CT, Apr. 09 </p> 
@@ -205,7 +205,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:41 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/politics/trump-super-pac-illegal-donations.html">Donations Steered to Trump Super PAC by Canadian Deemed Illegal</a> NYT: The Federal Election Commission fined a Canadian steel billionaire, Barry Zekelman, $975,000 in the case, one of the biggest penalties it has ever assessed. 
  <p class="updated_time"> 05:44 PM CT, Apr. 09 </p> 
- <a href="https://www.politico.com/news/2022/04/09/trump-leans-toward-dr-oz-in-pennsylvania-senate-race-00024272">Trump endorses Dr. Oz in key Senate race</a> Politico: The celebrity TV doctor aggressively pursued Trump’s backing in the Pennsylvania primary. 
+ <a href="https://www.politico.com/news/2022/04/09/trump-leans-toward-dr-oz-in-pennsylvania-senate-race-00024272">Trump endorses Oz in key Senate race</a> Politico: The celebrity TV doctor aggressively pursued Trump’s backing in the Pennsylvania primary. 
  <p class="updated_time"> 05:10 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/us/politics/biden-border-immigration.html">Disagreement and Delay: How Infighting Over the Border Divided the White House</a> NYT: The Biden administration has furiously debated how — and whether — to unravel Trump-era immigration policies. 
  <p class="updated_time"> 03:41 PM CT, Apr. 09 </p> 
@@ -252,8 +252,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/us/idaho-supreme-court-abortion.html">Idaho Supreme Court Halts 6-Week Abortion Ban Based on Texas’ Law</a> NYT: The court says Idaho’s law cannot go into effect this month as scheduled while it reviews legal challenges. The ban prohibits abortions after fetal cardiac activity is detected. 
  <p class="updated_time"> 08:15 PM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/stop-the-steal-organizer-cooperating-justice-department-00024247">'Stop the Steal' organizer says he received a grand jury subpoena for Jan. 6 probe</a> Politico: Ali Alexander has previously testified to the Jan. 6 select committee. 
- <p class="updated_time"> 07:54 PM CT, Apr. 08 </p> 
- <a href="https://www.politico.com/news/2022/04/08/liberal-conservative-california-house-fight-00024245">Liberal, conservative face off in California House fight</a> Politico: No candidate was able to claim a majority of the vote Tuesday and win Devin Nunes' former seat outright, so the top two finishers will advance to a runoff. 
  <p class="updated_time"> 07:35 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/politics/donald-trump-jr-meadows-text-message.html">Donald Trump Jr. Text Laid Out Strategies to Fight Election Outcome</a> NYT: In a message two days after Election Day 2020, the president’s son conveyed a range of ideas for keeping his father in office. 
  <p class="updated_time"> 06:30 PM CT, Apr. 08 </p> 
