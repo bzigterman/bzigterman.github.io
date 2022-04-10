@@ -9,34 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:33 AM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">Ukraine Live Updates: Allies Warn Russian Forces Will Target More Civilian Areas</a> NYT: Fears grew after Russia appointed a general who is accused of atrocities in Syria to lead its war effort in Ukraine. Prime Minister Boris Johnson made an unannounced visit to Kyiv and pledged to send more weapons. 
- <p class="updated_time"> 06:31 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 07:07 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">Live Updates: Turnout Is Lower as Voting Begins in French Presidential Race</a> NYT: President Emmanuel Macron is expected to finish first after a muted campaign. Polls suggest that he’s likely to face the far-right leader Marine Le Pen in the second round, in a rematch of their 2017 runoff. 
+ <p class="updated_time"> 07:07 AM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Keeps Up Attacks in the East, Striking Civilian Areas</a> NYT: A school was among the targets hit on Sunday, although officials reported no casualties. At a train station where dozens were killed in a missile strike on Friday, one survivor said, “The town is dead now.” 
+ <p class="updated_time"> 07:01 AM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091927160/pakistans-pm-vows-to-fight-on-after-parliament-ousts-him">Pakistan's PM vows to fight on after Parliament ousts him</a> NPR: Following his ousting in a no-confidence vote, Imran Khan  called on his supporters to take to the streets in protest, while the political opposition prepare to install his replacement. 
+ <p class="updated_time"> 06:12 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Send Reinforcements for Pitched Battles in Conflict’s Next Phase</a> WSJ: Ukraine, Russia Send Reinforcements for Pitched Battles in Conflict’s Next Phase 
+ <p class="updated_time"> 05:55 AM CT, Apr. 10 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/61053927?at_medium=RSS&at_campaign=KARANGA">Ronaldo: Police investigating after Manchester United forward appears to break fan's phone</a> BBC: Merseyside Police are investigating an alleged assault after Manchester United forward Cristiano Ronaldo appeared to break a fan's phone. 
  <p class="updated_time"> 05:39 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
- <p class="updated_time"> 05:39 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Send Reinforcements for Pitched Battles in Conflict’s Next Phase</a> WSJ: Ukraine, Russia Send Reinforcements for Pitched Battles in Conflict’s Next Phase 
  <p class="updated_time"> 05:31 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091925789/mexicans-vote-on-whether-president-stays-or-goes">Mexicans vote on whether president stays or goes</a> NPR: Mexicans vote Sunday on whether their popular president Andrés Manuel López Obrador should end his six-year term barely midway through or continue to the end, in a vote he instigated. 
  <p class="updated_time"> 05:29 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/rishi-sunak-taxes-uk.html">A Popular British Politician Falls From Grace Over a Tax Scandal</a> NYT: Rishi Sunak was once considered a potential successor to Prime Minister Boris Johnson. Now he faces scrutiny over his wealthy wife’s tax status, and over holding an American green card while in office. 
  <p class="updated_time"> 05:18 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61049717?at_medium=RSS&at_campaign=KARANGA">French election: Macron faces far-right challenge as France votes</a> BBC: The opening round of the French presidential race could become a cliffhanger for Emmanuel Macron. 
- <p class="updated_time"> 04:39 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 05:12 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">Macron Faces Tough Challenge From Le Pen in French Election</a> WSJ: Macron Faces Tough Challenge From Le Pen in French Election 
  <p class="updated_time"> 04:33 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61055915?at_medium=RSS&at_campaign=KARANGA">Australia election: PM Scott Morrison calls poll for 21 May</a> BBC: Prime Minister Scott Morrison announced the date after seeing the Governor General in Canberra. 
+ <p class="updated_time"> 04:12 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote 
  <p class="updated_time"> 04:00 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091857410/even-with-ties-ukrainian-families-struggle-to-reach-the-united-states">Even with ties, Ukrainian families struggle to reach the United States</a> NPR: Olena Kopchak, her husband and their 8-year-old daughter, Yana, are among the growing number of Ukrainians who are trying to make it to the United States — and confronting obstacles. 
- <p class="updated_time"> 03:39 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote 
+ <p class="updated_time"> 03:12 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 03:05 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/imran-khan-pakistan-ousted.html">Imran Khan Ousted as Pakistan’s Prime Minister</a> NYT: The country will now face early elections after days of brinkmanship in which Mr. Khan tried to dissolve Parliament to head off the no-confidence vote. 
- <p class="updated_time"> 02:39 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 02:13 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/australian-leader-seeks-come-from-behind-win-in-election-called-for-may-11649560093">Australian Leader Sets May Election as Inflation Concerns Rise</a> WSJ: Prime Minister Scott Morrison’s party is down in the polls, with the vote potentially hinging on economic issues and national security. 
+ <p class="updated_time"> 02:12 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-has-recorded-more-than-130-000-covid-casesand-no-deaths-11649588402">Shanghai Has Recorded More Than 130,000 Covid Cases—and No Deaths</a> WSJ: Shanghai Has Recorded More Than 130,000 Covid Cases—and No Deaths 
  <p class="updated_time"> 02:00 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/australia/sydney-coronavirus-homecoming.html">An Australia Homecoming, Mixed With Yearning and Trepidation</a> NYT: When “Fortress Australia” sealed its borders, thousands of citizens were stuck abroad. When allowed to return home, a reporter wondered how she would find the country — and how it would find her. 
  <p class="updated_time"> 02:00 AM CT, Apr. 10 </p> 
@@ -47,8 +53,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61057005?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Johnson and Zelensky tour near-empty streets in Kyiv</a> BBC: Boris Johnson makes a surprise visit to Ukraine's capital, and meets President Volodymyr Zelensky. 
  <p class="updated_time"> 01:47 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091921429/australian-prime-minister-calls-may-21-election">Australian prime minister calls May 21 election</a> NPR: Scott Morrison has called for a May 21 election that will be fought on issues including Chinese economic coercion, climate change and the COVID-19 pandemic. 
- <p class="updated_time"> 01:39 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/shanghai-has-recorded-more-than-130-000-covid-casesand-no-deaths-11649588402">Shanghai Has Recorded More Than 130,000 Covid Cases—and No Deaths</a> WSJ: Shanghai Has Recorded More Than 130,000 Covid Cases—and No Deaths 
+ <p class="updated_time"> 01:34 AM CT, Apr. 10 </p> 
+ <a href="https://www.bbc.co.uk/sport/formula1/61056578?at_medium=RSS&at_campaign=KARANGA">Australian Grand Prix: Charles Leclerc wins in Melbourne as title rival Max Verstappen retires</a> BBC: Charles Leclerc takes a dominant victory in the Australian Grand Prix to move into a commanding position in the World Championship. 
  <p class="updated_time"> 12:47 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091920075/zelenskyy-russian-aggression-not-limited-to-ukraine-alone">Zelenskyy: 'Russian aggression not limited to Ukraine alone'</a> NPR: Ukrainian President Volodymyr Zelenskyy said in his evening address that Russia is targeting all of Europe with its aggression, and defending Ukraine is essential for the security of all democracies. 
  <p class="updated_time"> 11:37 PM CT, Apr. 09 </p> 
@@ -105,12 +111,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tank treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
  <p class="updated_time"> 09:29 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-train-station-attack.html">Photos From Kramatorsk After the Rocket Assault</a> NYT: A railway station in eastern Ukraine had been a main departure point for people seeking to escape an expected Russian onslaught. A rocket assault left at least 50 dead. 
- <p class="updated_time"> 08:44 AM CT, Apr. 09 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61049323?at_medium=RSS&at_campaign=KARANGA">Malaysia: Boy, 14, believed dead after diving trip</a> BBC: His British father and a French woman are rescued by authorities after two-and-a-half day ordeal. 
  <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091859815/yemens-president-steps-down-in-effort-to-end-7-year-civil-war">Yemen's president steps down in effort to end 7-year civil war</a> NPR: Scott Simon speaks to Yemen analyst Nadwa Al-Dawsari about the Yemeni president's transfer of power and its significance. 
- <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
- <a href="https://www.npr.org/2022/04/09/1091859801/how-should-the-u-s-handle-china-and-russias-growing-alliance">How should the U.S. handle China and Russia's growing alliance?</a> NPR: Scott Simon speaks with Hal Brands, a professor at the Johns Hopkins School of Advanced International Studies, about how the U.S. should handle the emerging alliance between China and Russia. 
  <p class="updated_time"> 06:50 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/eu-putin-sanctions-daughters.html">Latest E.U. Sanctions Get Personal With Putin’s Daughters and Confidantes.</a> NYT: The targets included one of the most trusted technocrats in Mr. Putin’s economic policy team and the head of a construction empire who used to practice judo with the Russian leader. 
  <p class="updated_time"> 06:35 AM CT, Apr. 09 </p> 
@@ -147,8 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/world/europe/gerda-weissmann-klein-dead.html">Gerda Weissmann Klein, Honored Holocaust Survivor, Dies at 97</a> NYT: Her story was told in an Oscar-winning documentary, and her message of hope and love in the face of overwhelming evil was an inspiration to millions. 
  <p class="updated_time"> 03:21 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/arts/design/finland-russia-art-seizure.html">Officials Say Russian Art, Seized by Finns, Should Return Home</a> NYT: Finnish custom officials had seized the art several days ago, but the Finns and European Union officials decided that art lent to museums for exhibit did not come under sanctions. 
- <p class="updated_time"> 03:20 PM CT, Apr. 08 </p> 
- <a href="https://www.bbc.co.uk/news/business-61041760?at_medium=RSS&at_campaign=KARANGA">Kinder chocolate factory told to shut over salmonella cases</a> BBC: Dozens of suspected cases are reported in the UK, Germany, France and Belgium. 
  <p class="updated_time"> 03:01 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61047565?at_medium=RSS&at_campaign=KARANGA">First black woman on US Supreme Court: 'We've made it'</a> BBC: Newly confirmed US Supreme Court Justice Ketanji Brown Jackson on her remarkable journey. 
  <p class="updated_time"> 02:47 PM CT, Apr. 08 </p> 
@@ -222,8 +222,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:00 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/intel-putin-ukraine-war-us-politics-00024256">Intel: Putin may cite Ukraine war to meddle in U.S. politics</a> Politico: Given Putin’s antipathy toward the West and his repeated denunciations of Ukraine, officials believe he may see the U.S. backing of Ukraine’s resistance as a direct affront to him. 
- <p class="updated_time"> 07:56 AM CT, Apr. 09 </p> 
- <a href="https://www.politico.com/news/2022/04/09/civilians-flee-ukraine-station-strike-00024254">More civilians flee east Ukraine after deadly station strike</a> Politico: Ukrainian President Volodymyr Zelenskyy demanded a tough global response to Friday's train station attack in Kramatorsk. 
  <p class="updated_time"> 07:40 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/state-department-white-house-gift-records-trump-pence-00024253">State Department: White House gift records for Trump, Pence missing</a> Politico: The department says the Executive Office of the President did not submit information about gifts received by Trump and his family from foreign leaders in 2020. 
  <p class="updated_time"> 07:25 AM CT, Apr. 09 </p> 
@@ -234,6 +232,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/09/1091859752/week-in-politics-ketanji-brown-jackson-confirmed-as-justice-russia-sanctioned">Week in politics: Ketanji Brown Jackson confirmed as justice; Russia sanctioned</a> NPR: The Senate confirms the first Black woman as justice on the U.S. Supreme Court and also deals additional rebukes to Russia on trade. 
  <p class="updated_time"> 06:01 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/website-domain-more-expensive-00023524">Why your website is about to get more expensive</a> Politico: Verisign, the government-backed monopoly that manages the .com domain, plans to raise prices this fall. And the year after that. And the year after that. 
+ <p class="updated_time"> 06:01 AM CT, Apr. 09 </p> 
+ <a href="https://www.politico.com/news/2022/04/09/cdc-policy-change-political-loser-democrats-00024219">Republicans see CDC’s policy change as ‘massive political loser for Democrats’</a> Politico: The GOP is openly discussing tying Biden administration's scrapping of Title 42, a Trump-era pandemic border policy, to a range of other voter concerns. 
  <p class="updated_time"> 06:00 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/angry-voters-biden-inflation-midterms-00024218">A sour and angry America poised to punish Dems this fall</a> Politico: Biden and his top advisers know that the window to change the economic narrative through executive action is rapidly closing. 
  <p class="updated_time"> 06:00 AM CT, Apr. 09 </p> 
@@ -298,6 +298,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/business/spirit-airlines-jetblue-frontier.html">Bidding War for Spirit Could Undercut Power of Four Big Airlines</a> NYT: The rival bids for Spirit from Frontier and JetBlue could create an airline that presents a more formidable challenge to American, Delta, Southwest and United. 
  <p class="updated_time"> 09:41 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-supreme-court.html">Ketanji Brown Jackson Becomes First Black Woman on Supreme Court</a> NYT: The vote was a bipartisan rejection of Republican attempts to paint her as a liberal extremist who had coddled criminals. 
+ <p class="updated_time"> 03:31 AM CT, Apr. 08 </p> 
+ <a href="https://www.politico.com/news/2022/04/08/democrats-spread-organizing-strategy-that-flipped-georgia-to-other-states-00023892">‘If we do this right …’: The new Dem organizing strategy catching fire ahead of the midterms</a> Politico: Operatives who helped elect Sen. Jon Ossoff are exporting their voter contact program to more states for the midterm elections. 
  <p class="updated_time"> 03:30 AM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/ukraines-iron-general-zaluzhnyy-00023901">Ukraine’s 'iron general' is a hero, but he's no star</a> Politico: Meet Valeriy Zaluzhnyy, the commander in chief of the Ukrainian Armed Forces, who's quietly leading the fight against Russia's invaders. 
  <p class="updated_time"> 10:36 PM CT, Apr. 07 </p> 
@@ -306,8 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/us/politics/dr-oz-pennsylvania-senate.html">Dr. Oz’s Senate Bid Reveals His Wealth</a> NYT: One of the leading Republican candidates for Senate in Pennsylvania, Dr. Mehmet Oz has a vast fortune that could help him in the race. 
  <p class="updated_time"> 05:58 PM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/covid-creeps-ever-closer-to-biden-00023965">Covid creeps ever closer to Biden</a> Politico: "It’s almost impossible to isolate the president of the United States in a way that would keep him from getting sick," one pandemic expert says. 
- <p class="updated_time"> 04:32 PM CT, Apr. 07 </p> 
- <a href="https://www.politico.com/news/2022/04/07/5-takeaways-canada-2022-budget-00023908">5 takeaways from Canada’s 2022 budget</a> Politico: “The word ‘uncertainty’ is a big piece of our thinking,” a senior official acknowledged of the federal government's planning. 
  <p class="updated_time"> 03:09 PM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/judge-to-justice-schumer-jackson-confirmation-00023764">From judge to justice in 6 weeks: How Schumer got Jackson confirmed</a> Politico: Jackson’s confirmation came at a good time for Biden and the Senate majority leader, as Democrats face major political headwinds across the board. 
  <p class="updated_time"> 12:59 PM CT, Apr. 07 </p> 
