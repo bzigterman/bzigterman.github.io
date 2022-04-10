@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:11 AM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/2022/04/10/world/asia/sundarbans-mangroves-india-bangladesh.html">Facing Disastrous Floods, They Turned to Mangrove Trees for Protection</a> NYT: In the Sundarbans, an ecological treasure straddling India and Bangladesh that is now on the front lines of climate change, local women are leading an effort to mitigate the dangers of rising waters. 
+ <p class="updated_time"> 08:07 AM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091927674/the-ukraine-russia-conflict-appears-to-be-entering-a-new-phase">The Ukraine-Russia conflict appears to be entering a new phase</a> NPR: Russia is preparing to launch another offensive, this time concentrating its attacks on the eastern part of Ukraine. 
  <p class="updated_time"> 07:35 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">Live Updates: Turnout Is Lower as Voting Begins in French Presidential Race</a> NYT: President Emmanuel Macron is expected to finish first after a muted campaign. Polls suggest that he’s likely to face the far-right leader Marine Le Pen in the second round, in a rematch of their 2017 runoff. 
  <p class="updated_time"> 07:28 AM CT, Apr. 10 </p> 
@@ -19,14 +23,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/10/1091927618/sweden-and-finland-consider-joining-nato-amidst-ukraine-russia-war">Sweden and Finland consider joining NATO amidst Ukraine-Russia war</a> NPR: As Russia continues to wage war in Ukraine, Sweden and Finland are considering joining NATO. Ayesha Rascoe asks former U.S. ambassador to NATO Ivo Daalder about the implications. 
  <p class="updated_time"> 07:14 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927611/a-ukrainian-doctor-shares-her-experience-caring-for-war-refugees">A Ukrainian doctor shares her experience caring for war refugees</a> NPR: Ayesha Rascoe speaks with Dr. Joanne Liu of Doctors Without Borders about caring for Ukrainian war refugees. 
+ <p class="updated_time"> 07:14 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
  <p class="updated_time"> 07:01 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927160/pakistans-pm-vows-to-fight-on-after-parliament-ousts-him">Pakistan's PM vows to fight on after Parliament ousts him</a> NPR: Following his ousting in a no-confidence vote, Imran Khan  called on his supporters to take to the streets in protest, while the political opposition prepare to install his replacement. 
- <p class="updated_time"> 06:49 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Send Reinforcements for Pitched Battles in Conflict’s Next Phase</a> WSJ: Ukraine, Russia Send Reinforcements for Pitched Battles in Conflict’s Next Phase 
+ <p class="updated_time"> 06:14 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">Macron Faces Tough Challenge From Le Pen in French Election</a> WSJ: Macron Faces Tough Challenge From Le Pen in French Election 
  <p class="updated_time"> 05:55 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61053927?at_medium=RSS&at_campaign=KARANGA">Ronaldo: Police investigating after Manchester United forward appears to break fan's phone</a> BBC: Merseyside Police are investigating an alleged assault after Manchester United forward Cristiano Ronaldo appeared to break a fan's phone. 
- <p class="updated_time"> 05:49 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">Macron Faces Tough Challenge From Le Pen in French Election</a> WSJ: Macron Faces Tough Challenge From Le Pen in French Election 
  <p class="updated_time"> 05:39 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
  <p class="updated_time"> 05:31 AM CT, Apr. 10 </p> 
@@ -35,18 +39,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/10/world/europe/rishi-sunak-taxes-uk.html">A Popular British Politician Falls From Grace Over a Tax Scandal</a> NYT: Rishi Sunak was once considered a potential successor to Prime Minister Boris Johnson. Now he faces scrutiny over his wealthy wife’s tax status, and over holding an American green card while in office. 
  <p class="updated_time"> 05:18 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61049717?at_medium=RSS&at_campaign=KARANGA">French election: Macron faces far-right challenge as France votes</a> BBC: The opening round of the French presidential race could become a cliffhanger for Emmanuel Macron. 
- <p class="updated_time"> 04:49 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 05:14 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote 
  <p class="updated_time"> 04:33 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61055915?at_medium=RSS&at_campaign=KARANGA">Australia election: PM Scott Morrison calls poll for 21 May</a> BBC: Prime Minister Scott Morrison announced the date after seeing the Governor General in Canberra. 
+ <p class="updated_time"> 04:14 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 04:00 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091857410/even-with-ties-ukrainian-families-struggle-to-reach-the-united-states">Even with ties, Ukrainian families struggle to reach the United States</a> NPR: Olena Kopchak, her husband and their 8-year-old daughter, Yana, are among the growing number of Ukrainians who are trying to make it to the United States — and confronting obstacles. 
- <p class="updated_time"> 03:49 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
+ <p class="updated_time"> 03:14 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-has-recorded-more-than-130-000-covid-casesand-no-deaths-11649588402">Shanghai Has Recorded More Than 130,000 Covid Cases—and No Deaths</a> WSJ: Shanghai Has Recorded More Than 130,000 Covid Cases—and No Deaths 
  <p class="updated_time"> 03:05 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/imran-khan-pakistan-ousted.html">Imran Khan Ousted as Pakistan’s Prime Minister</a> NYT: The country will now face early elections after days of brinkmanship in which Mr. Khan tried to dissolve Parliament to head off the no-confidence vote. 
- <p class="updated_time"> 02:49 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/shanghai-has-recorded-more-than-130-000-covid-casesand-no-deaths-11649588402">Shanghai Has Recorded More Than 130,000 Covid Cases—and No Deaths</a> WSJ: Shanghai Has Recorded More Than 130,000 Covid Cases—and No Deaths 
  <p class="updated_time"> 02:13 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/australian-leader-seeks-come-from-behind-win-in-election-called-for-may-11649560093">Australian Leader Sets May Election as Inflation Concerns Rise</a> WSJ: Prime Minister Scott Morrison’s party is down in the polls, with the vote potentially hinging on economic issues and national security. 
  <p class="updated_time"> 02:00 AM CT, Apr. 10 </p> 
@@ -99,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/09/1091902366/what-a-un-vote-shows-about-how-much-of-the-world-views-the-war-in-ukraine">What a UN vote shows about how much of the world views the war in Ukraine</a> NPR: There were many countries in the middle when it came to Thursday's vote to suspend Russia from the UN Human Rights Council. 
  <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091902359/what-romania-would-like-to-see-nato-do-in-ukraine">What Romania would like to see NATO do in Ukraine</a> NPR: NPR's Michel Martin speaks to Simona Cojocaru, State Secretary at Romania's Ministry of Defense, about the military situation in Ukraine. 
- <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
- <a href="https://www.npr.org/2022/04/09/1091902352/the-network-in-romania-to-help-ukrainian-refugees">The network in Romania to help Ukrainian refugees</a> NPR: Romania has received more than 600,000 refugees from Ukraine. NGOs, local governments, and volunteers have quickly set up an extensive network to feed, house and provide medical care to them. 
  <p class="updated_time"> 03:05 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/boris-johnson-kyiv-ukraine-aid.html">Boris Johnson Visits Kyiv As Britain Promises Aid to Ukraine</a> NYT: Mr. Johnson, an enthusiastic supporter of President Volodymyr Zelensky of Ukraine, walked with him and a group of soldiers through the streets of the capital, Kyiv. 
  <p class="updated_time"> 02:36 PM CT, Apr. 09 </p> 
@@ -196,6 +198,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:04 AM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091927667/money-from-the-covid-paycheck-protection-program-was-allegedly-largely-misspent">Money from the COVID Paycheck Protection Program was allegedly largely misspent</a> NPR: Ayesha Rascoe asks Justice Department Inspector General Michael Horowitz, who chairs the Pandemic Response Accountability Committee, about fraudulent pandemic aid. 
+ <p class="updated_time"> 07:53 AM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091927660/politics-chat-politicians-get-covid-jackson-confirmed-mitch-mcconnell-interview">Politics chat: Politicians get COVID; Jackson confirmed; Mitch McConnell interview</a> NPR: High-profile Washington, D.C. politicians are testing positive for the coronavirus in a reminder that the pandemic is far from over. 
  <p class="updated_time"> 07:25 AM CT, Apr. 10 </p> 
  <a href="https://www.politico.com/news/2022/04/10/pope-easter-truce-ukraine-russia-00024277">Pope Francis calls for an Easter truce in Ukraine</a> Politico: He was celebrating Palm Sunday Mass before crowds in St. Peter’s Square for the first time since the pandemic. 
  <p class="updated_time"> 07:22 AM CT, Apr. 10 </p> 
@@ -282,14 +288,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/08/1091769470/dr-anthony-fauci-talks-about-vaccine-efficacy-and-second-boosters">Dr. Anthony Fauci talks about vaccine efficacy and second boosters</a> NPR: NPR's Ailsa Chang speaks with Dr. Anthony Fauci, chief medical adviser to President Biden, about the new study on vaccines and the current COVID-19 wave. 
  <p class="updated_time"> 02:47 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/politics/russia-sanctions-effectiveness-adeyemo.html">Treasury Aims for Economic Pain on Russia, but Critics Question Effectiveness</a> NYT: The Treasury Department’s deputy secretary, Wally Adeyemo, has been leading the effort to crack down on evasion and to coordinate with Europe. 
- <p class="updated_time"> 02:12 PM CT, Apr. 08 </p> 
- <a href="https://www.npr.org/2022/04/08/1091748401/whitmer-kidnapping-verdicts-michigan-governor">2 men are acquitted in a plot to kidnap Michigan Gov. Whitmer; hung jury on 2 more</a> NPR: Two of four men were acquitted Friday in a conspiracy to kidnap Michigan Gov. Gretchen Whitmer in 2020, motivated by fury at the Democrat's tough COVID-19 restrictions early in the pandemic. 
  <p class="updated_time"> 01:25 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/business/economy/china-forced-labor.html">Supply Chains Tainted by Forced Labor in China, Panel Told</a> NYT: Human rights activists and others urged the Biden administration to cast a wide net to stop imports of products made with forced labor in Xinjiang. 
  <p class="updated_time"> 01:15 PM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/supreme-court-republicans-00024108">The Supreme Court question Republicans won't answer</a> Politico: They could have a Senate majority in 2023. But they won't say, definitively, how they would treat another Joe Biden Supreme Court nominee. 
- <p class="updated_time"> 12:50 PM CT, Apr. 08 </p> 
- <a href="https://www.npr.org/2022/04/08/1091711705/us-missile-defense-system-slovakia-ukraine">U.S. to place Patriot missile defense system in Slovakia to help with Ukraine swap</a> NPR: Defense Secretary Lloyd Austin said the missile defense system, which will be manned by U.S. service members, will arrive in Slovakia in the coming days. 
  <p class="updated_time"> 11:08 AM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/democrats-biden-gun-control-00024097">Democrats exasperated with Biden on gun control</a> Politico: "It's time for more urgency from the administration," says Sen. Chris Murphy, an ally of the president. 
  <p class="updated_time"> 10:45 AM CT, Apr. 08 </p> 
