@@ -9,34 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:13 PM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">Ukraine Live Updates: Civilians Rush to Flee as Russian Troops Mass in the East</a> NYT: U.S. military officials said they expect Russia to carry out a major offensive from the city of Izium to Dnipro, a strategic target in eastern Ukraine. At a train station where dozens were killed in a missile strike on Friday, one survivor said, “The town is dead now.” 
  <p class="updated_time"> 01:55 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">French Election Live Updates: It’s Macron vs. Le Pen, Projections Show</a> NYT: President Emmanuel Macron will again face the far-right leader Marine Le Pen in a runoff. He will go into the second round as the favorite, having fared a little better than the latest opinion polls suggested. 
- <p class="updated_time"> 01:54 PM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">Ukraine Live Updates: Civilians Rush to Flee as Russian Troops Mass in the East</a> NYT: U.S. military officials said they expect Russia to carry out a major offensive from the city of Izium to Dnipro, a strategic target in eastern Ukraine. At a train station where dozens were killed in a missile strike on Friday, one survivor said, “The town is dead now.” 
  <p class="updated_time"> 01:48 PM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091937252/spain-taxidermy-collection-extinct-protected-animals">Spain investigates private taxidermy collection with more than 1,000 animals</a> NPR: Species of cheetah, leopard, polar bear, rhinoceros, along with nearly 200 ivory elephant tusks, were among the extensive collection, valued at more than $31 million. 
  <p class="updated_time"> 01:38 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/ukraine-farmers-food.html">War’s Disruption to Ukraine’s Farms Seeds Global Food Crisis</a> NYT: The Russian invasion is pummeling Ukraine’s agriculture, threatening harvests in Europe’s breadbasket and contributing to a global food crisis. 
+ <p class="updated_time"> 01:21 PM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
  <p class="updated_time"> 01:06 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/ukraine-draft-dodgers.html">Ukraine’s Draft Dodgers Face Guilt, Shame and Reproach</a> NYT: Thousands of Ukrainian men are avoiding military service, putting them on risky paths into Europe. Among Ukrainians, it’s stirring a complicated debate. 
  <p class="updated_time"> 01:01 PM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
- <p class="updated_time"> 01:01 PM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61060916?at_medium=RSS&at_campaign=KARANGA">Spanish police seize huge haul of illegal stuffed animals</a> BBC: The Guardia Civil found more than 1,000 specimens including extinct and endangered species. 
- <p class="updated_time"> 12:01 PM CT, Apr. 10 </p> 
+ <p class="updated_time"> 12:21 PM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/european-countries-debate-how-to-cut-purchases-of-russian-oil-11649595841">Europe Debates How to Cut Purchases of Russian Oil</a> WSJ: Europe Debates How to Cut Purchases of Russian Oil 
+ <p class="updated_time"> 11:21 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603">Israel’s ‘War Between the Wars’ With Iran Expands Across Middle East</a> WSJ: Israel’s ‘War Between the Wars’ With Iran Expands Across Middle East 
+ <p class="updated_time"> 10:21 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election</a> WSJ: France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election 
- <p class="updated_time"> 11:01 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603">Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East</a> WSJ: Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East 
  <p class="updated_time"> 10:19 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/middleeast/israel-ukraine-russia-oligarchs.html">Israel’s Ukraine Policy Prompts Scrutiny of Russian-Israeli Oligarchs</a> NYT: Israel has expressed solidarity with Ukraine but avoided direct criticism of Russia, raising questions about Russian-Israeli businessmen close to the Kremlin. 
  <p class="updated_time"> 10:05 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/volunteer-bus-drivers-refugees-ukraine.html">Volunteer Bus Drivers Help Refugees Escape from Eastern Ukraine</a> NYT: After a Russian strike killed more than 50 people at a train station, Ukrainians are accelerating efforts to evacuate by road. 
- <p class="updated_time"> 10:01 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/european-countries-debate-how-to-cut-purchases-of-russian-oil-11649595841">Europe Debates How to Cut Purchases of Russian Oil</a> WSJ: Europe Debates How to Cut Purchases of Russian Oil 
+ <p class="updated_time"> 09:21 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 09:20 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/chanel-russian-influencers-ukraine.html">Why Russian Influencers Are Cutting Up Their Chanel Bags</a> NYT: The iconic French brand is asking customers to attest that they will not use their newly purchased items in Russia, sparking a social media protest. 
- <p class="updated_time"> 09:01 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 08:56 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61057247?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The foreign fighters supporting the Ukrainian army</a> BBC: A former British Army soldier is among the international volunteers supporting the Ukrainian war effort. 
  <p class="updated_time"> 08:23 AM CT, Apr. 10 </p> 
@@ -196,6 +196,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:01 PM CT, Apr. 10 </p> 
+ <a href="https://www.politico.com/news/2022/04/10/adams-tests-positive-for-covid-19-00024303">New York City Mayor Eric Adams tests positive for Covid-19 on his 100th day in office</a> Politico: Adams will be working remotely while quarantining. 
  <p class="updated_time"> 01:48 PM CT, Apr. 10 </p> 
  <a href="https://www.politico.com/gallery/2022/04/10/france-presidential-election-voting-00024302">Photos: The French election</a> Politico: Sunday April 10 marked round one of the voting in France's 2022 presidential election. Russia's invasion of Ukraine created a complicated new subtext for the election, in which President Emmanuel Macron is seeking a second term against candidates both to the left and right of him. 
  <p class="updated_time"> 12:30 PM CT, Apr. 10 </p> 
@@ -254,8 +256,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/09/1091859752/week-in-politics-ketanji-brown-jackson-confirmed-as-justice-russia-sanctioned">Week in politics: Ketanji Brown Jackson confirmed as justice; Russia sanctioned</a> NPR: The Senate confirms the first Black woman as justice on the U.S. Supreme Court and also deals additional rebukes to Russia on trade. 
  <p class="updated_time"> 06:01 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/website-domain-more-expensive-00023524">Why your website is about to get more expensive</a> Politico: Verisign, the government-backed monopoly that manages the .com domain, plans to raise prices this fall. And the year after that. And the year after that. 
- <p class="updated_time"> 06:01 AM CT, Apr. 09 </p> 
- <a href="https://www.politico.com/news/2022/04/09/cdc-policy-change-political-loser-democrats-00024219">Republicans see CDC’s policy change as ‘massive political loser for Democrats’</a> Politico: The GOP is openly discussing tying Biden administration's scrapping of Title 42, a Trump-era pandemic border policy, to a range of other voter concerns. 
  <p class="updated_time"> 06:00 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/angry-voters-biden-inflation-midterms-00024218">A sour and angry America poised to punish Dems this fall</a> Politico: Biden and his top advisers know that the window to change the economic narrative through executive action is rapidly closing. 
  <p class="updated_time"> 04:00 AM CT, Apr. 09 </p> 
