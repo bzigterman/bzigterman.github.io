@@ -9,22 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:20 AM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">Live Updates: Turnout Is Lower as Presidential Vote Nears Conclusion in France</a> NYT: President Emmanuel Macron is expected to finish first, and may again face the far-right leader Marine Le Pen in the second round. After a muted campaign, voters expressed disillusionment, with one saying, “We don’t have many expectations.” 
- <p class="updated_time"> 10:20 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 10:50 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Keeps Up Attacks in the East, Striking Civilian Areas</a> NYT: A school was among the targets hit on Sunday, although officials reported no casualties. At a train station where dozens were killed in a missile strike on Friday, one survivor said, “The town is dead now.” 
+ <p class="updated_time"> 10:29 AM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">Live Updates: Turnout Is Lower as Presidential Vote Nears Conclusion in France</a> NYT: President Emmanuel Macron is expected to finish first, and may again face the far-right leader Marine Le Pen in the second round. After a muted campaign, voters expressed disillusionment, with one saying, “We don’t have many expectations.” 
  <p class="updated_time"> 10:19 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/middleeast/israel-ukraine-russia-oligarchs.html">Israel’s Ukraine Policy Prompts Scrutiny of Russian-Israeli Oligarchs</a> NYT: Israel has expressed solidarity with Ukraine but avoided direct criticism of Russia, raising questions about Russian-Israeli businessmen close to the Kremlin. 
  <p class="updated_time"> 10:05 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/volunteer-bus-drivers-refugees-ukraine.html">Volunteer Bus Drivers Help Refugees Escape from Eastern Ukraine</a> NYT: After a Russian strike killed more than 50 people at a train station, Ukrainians are accelerating efforts to evacuate by road. 
- <p class="updated_time"> 09:27 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 09:56 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
  <p class="updated_time"> 09:20 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/chanel-russian-influencers-ukraine.html">Why Russian Influencers Are Cutting Up Their Chanel Bags</a> NYT: The iconic French brand is asking customers to attest that they will not use their newly purchased items in Russia, sparking a social media protest. 
  <p class="updated_time"> 08:56 AM CT, Apr. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61057247?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The foreign fighters supporting the Ukrainian army</a> BBC: A former British Army soldier is among the international volunteers supporting the Ukrainian war effort. 
- <p class="updated_time"> 08:27 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/european-countries-debate-how-to-cut-purchases-of-russian-oil-11649595841">Europe Debates How to Cut Purchases of Russian Oil</a> WSJ: Europe Debates How to Cut Purchases of Russian Oil 
+ <p class="updated_time"> 08:56 AM CT, Apr. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61057247?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The foreign fighters supporting the Ukrainian army</a> BBC: A former British Army soldier is among the international volunteers supporting the Ukrainian war effort. 
  <p class="updated_time"> 08:23 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091929949/palm-sunday-pope-francis-ukraine">In the Palm Sunday Mass, Pope Francis pushes for peace in Ukraine </a> NPR: Celebrating Palm Sunday Mass before crowds in St. Peter's Square for the first time since the pandemic, Pope Francis called for a truce. 
  <p class="updated_time"> 08:12 AM CT, Apr. 10 </p> 
@@ -37,7 +37,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/10/world/asia/sundarbans-mangroves-india-bangladesh.html">Facing Disastrous Floods, They Turned to Mangrove Trees for Protection</a> NYT: In the Sundarbans, an ecological treasure straddling India and Bangladesh that is now on the front lines of climate change, local women are leading an effort to mitigate the dangers of rising waters. 
  <p class="updated_time"> 08:07 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927674/the-ukraine-russia-conflict-appears-to-be-entering-a-new-phase">The Ukraine-Russia conflict appears to be entering a new phase</a> NPR: Russia is preparing to launch another offensive, this time concentrating its attacks on the eastern part of Ukraine. 
- <p class="updated_time"> 07:27 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 07:56 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603">Israel’s ‘War Between the Wars’ With Iran Expands Across Middle East</a> WSJ: Israel’s ‘War Between the Wars’ With Iran Expands Across Middle East 
  <p class="updated_time"> 07:24 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927632/shanghai-locks-down-in-an-attempt-to-curb-covid-19-cases">Shanghai locks down in an attempt to curb COVID-19 cases</a> NPR: Ayesha Rascoe speaks with Plastics News Shanghai correspondent Rebecca Kanthor about the ongoing lockdown there. 
@@ -47,8 +47,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/10/1091927611/a-ukrainian-doctor-shares-her-experience-caring-for-war-refugees">A doctor in Ukraine shares her experience caring for war refugees</a> NPR: Ayesha Rascoe speaks with Dr. Joanne Liu of Doctors Without Borders about caring for Ukrainian war refugees. 
  <p class="updated_time"> 07:01 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927160/pakistan-prime-minister-imran-khan-parliament-ousted">Pakistan's prime minister vows to fight on after Parliament ousts him</a> NPR: Imran Khan called on his supporters to take to the streets in protest while the political opposition prepare to install his replacement. 
- <p class="updated_time"> 06:27 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 06:56 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">Macron Faces Tough Challenge From Le Pen in French Election</a> WSJ: Macron Faces Tough Challenge From Le Pen in French Election 
+ <p class="updated_time"> 05:56 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 05:55 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61053927?at_medium=RSS&at_campaign=KARANGA">Ronaldo: Police investigating after Manchester United forward appears to break fan's phone</a> BBC: Merseyside Police are investigating an alleged assault after Manchester United forward Cristiano Ronaldo appeared to break a fan's phone. 
  <p class="updated_time"> 05:39 AM CT, Apr. 10 </p> 
@@ -57,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/10/1091925789/mexicans-vote-on-whether-president-stays-or-goes">Mexicans vote on whether president stays or goes</a> NPR: Mexicans vote Sunday on whether their popular president Andrés Manuel López Obrador should end his six-year term barely midway through or continue to the end, in a vote he instigated. 
  <p class="updated_time"> 05:29 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/rishi-sunak-taxes-uk.html">A Popular British Politician Falls From Grace Over a Tax Scandal</a> NYT: Rishi Sunak was once considered a potential successor to Prime Minister Boris Johnson. Now he faces scrutiny over his wealthy wife’s tax status, and over holding an American green card while in office. 
- <p class="updated_time"> 05:27 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 05:18 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61049717?at_medium=RSS&at_campaign=KARANGA">French election: Macron faces far-right challenge as France votes</a> BBC: The opening round of the French presidential race could become a cliffhanger for Emmanuel Macron. 
  <p class="updated_time"> 04:33 AM CT, Apr. 10 </p> 
@@ -194,6 +194,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:49 AM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/2022/04/10/us/politics/jan-6-trump-criminal-referral.html">Jan. 6 Panel Has Evidence for Criminal Referral of Trump, but Splits on Sending</a> NYT: Despite concluding that it has enough evidence, the committee is concerned that making a referral to the Justice Department would backfire by politicizing the investigation into the Capitol riot. 
  <p class="updated_time"> 09:54 AM CT, Apr. 10 </p> 
  <a href="https://www.politico.com/news/2022/04/10/psaki-student-loans-debt-sometime-00024285">Psaki: Student loan borrowers likely to have to pay debt 'sometime'</a> Politico: The Biden administration recently extended a Covid-related pause on repayments. 
  <p class="updated_time"> 09:48 AM CT, Apr. 10 </p> 
@@ -222,8 +224,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/10/podunk-cuomo-manhattan-penn-station-00024206">‘This isn’t Podunk’: A Cuomo-era plan to dramatically alter Manhattan meets resistance</a> Politico: Gov. Kathy Hochul is moving forward with a controversial plan from her predecessor, Andrew Cuomo, to fund improvements to Penn Station and its surroundings by giving major tax breaks to real estate developer Vornado. 
  <p class="updated_time"> 04:00 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091857410/even-with-ties-ukrainian-families-struggle-to-reach-the-united-states">Even with ties, Ukrainian families struggle to reach the United States</a> NPR: Olena Kopchak, her husband and their 8-year-old daughter, Yana, are among the growing number of Ukrainians who are trying to make it to the United States — and confronting obstacles. 
- <p class="updated_time"> 04:00 AM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/2022/04/10/us/politics/jan-6-trump-criminal-referral.html">Jan. 6 Panel Has Evidence for Criminal Referral of Trump, but Splits on Sending</a> NYT: Despite concluding that it has enough evidence, the committee is concerned that making a referral to the Justice Department would backfire by politicizing the investigation into the Capitol riot. 
  <p class="updated_time"> 08:57 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/us/politics/trump-doctor-oz-senate-endorsement.html">Trump Endorses Dr. Oz in Pennsylvania Senate Race</a> NYT: The former president threw his weight behind the celebrity doctor, who is running for the Republican nomination for senator in a key state. 
  <p class="updated_time"> 07:41 PM CT, Apr. 09 </p> 
@@ -232,8 +232,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/09/trump-leans-toward-dr-oz-in-pennsylvania-senate-race-00024272">Trump endorses Oz in key Senate race</a> Politico: The celebrity TV doctor aggressively pursued Trump’s backing in the Pennsylvania primary. 
  <p class="updated_time"> 05:10 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/us/politics/biden-border-immigration.html">Disagreement and Delay: How Infighting Over the Border Divided the White House</a> NYT: The Biden administration has furiously debated how — and whether — to unravel Trump-era immigration policies. 
- <p class="updated_time"> 03:41 PM CT, Apr. 09 </p> 
- <a href="https://www.politico.com/news/2022/04/09/pakistans-embattled-pm-ousted-in-no-confidence-vote-00024270">Pakistan's embattled PM ousted in no-confidence vote</a> Politico: Anticipating his loss, Khan, who charged his opposition colluded with the United States to unseat him, has called on his supporters to stage rallies nationwide on Sunday. 
  <p class="updated_time"> 09:02 AM CT, Apr. 09 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:00 AM CT, Apr. 09 </p> 
@@ -248,6 +246,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/09/1091859752/week-in-politics-ketanji-brown-jackson-confirmed-as-justice-russia-sanctioned">Week in politics: Ketanji Brown Jackson confirmed as justice; Russia sanctioned</a> NPR: The Senate confirms the first Black woman as justice on the U.S. Supreme Court and also deals additional rebukes to Russia on trade. 
  <p class="updated_time"> 06:01 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/website-domain-more-expensive-00023524">Why your website is about to get more expensive</a> Politico: Verisign, the government-backed monopoly that manages the .com domain, plans to raise prices this fall. And the year after that. And the year after that. 
+ <p class="updated_time"> 06:01 AM CT, Apr. 09 </p> 
+ <a href="https://www.politico.com/news/2022/04/09/cdc-policy-change-political-loser-democrats-00024219">Republicans see CDC’s policy change as ‘massive political loser for Democrats’</a> Politico: The GOP is openly discussing tying Biden administration's scrapping of Title 42, a Trump-era pandemic border policy, to a range of other voter concerns. 
  <p class="updated_time"> 06:00 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/angry-voters-biden-inflation-midterms-00024218">A sour and angry America poised to punish Dems this fall</a> Politico: Biden and his top advisers know that the window to change the economic narrative through executive action is rapidly closing. 
  <p class="updated_time"> 04:00 AM CT, Apr. 09 </p> 
