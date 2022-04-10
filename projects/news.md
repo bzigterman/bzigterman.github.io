@@ -17,25 +17,25 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/10/world/australia/sydney-coronavirus-homecoming.html">An Australia Homecoming, Mixed With Yearning and Trepidation</a> NYT: When “Fortress Australia” sealed its borders, thousands of citizens were stuck abroad. When allowed to return home, a reporter wondered how she would find the country — and how it would find her. 
  <p class="updated_time"> 02:00 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/russia-ukraine-war-crimes.html">Why Calls for War Crimes Justice Over Ukraine Face Long Odds</a> NYT: If those in power act as if they are immune to the laws of war, it may be because they often are. But following through is not necessarily an empty exercise. 
+ <p class="updated_time"> 01:56 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
  <p class="updated_time"> 01:53 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091921962/polls-open-in-1st-round-of-frances-presidential-election">Polls open in 1st round of France's presidential election</a> NPR: Polls opened across France Sunday for the first round of the country's election, where up to 48 million voters will be choosing between 12 candidates, including President Emmanuel Macron. 
  <p class="updated_time"> 01:47 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61057005?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Johnson and Zelensky tour near-empty streets in Kyiv</a> BBC: Boris Johnson makes a surprise visit to Ukraine's capital, and meets President Volodymyr Zelensky. 
  <p class="updated_time"> 01:47 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091921429/australian-prime-minister-calls-may-21-election">Australian prime minister calls May 21 election</a> NPR: Scott Morrison has called for a May 21 election that will be fought on issues including Chinese economic coercion, climate change and the COVID-19 pandemic. 
- <p class="updated_time"> 01:45 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
+ <p class="updated_time"> 12:56 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Accelerates Nuclear Buildup</a> WSJ: China Accelerates Nuclear Buildup 
  <p class="updated_time"> 12:47 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091920075/zelenskyy-russian-aggression-not-limited-to-ukraine-alone">Zelenskyy: 'Russian aggression not limited to Ukraine alone'</a> NPR: Ukrainian President Volodymyr Zelenskyy said in his evening address that Russia is targeting all of Europe with its aggression, and defending Ukraine is essential for the security of all democracies. 
- <p class="updated_time"> 12:45 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Accelerates Nuclear Buildup</a> WSJ: China Accelerates Nuclear Buildup 
- <p class="updated_time"> 11:45 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 11:56 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
  <p class="updated_time"> 11:37 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61040424?at_medium=RSS&at_campaign=KARANGA">'Real embargo on Russian energy could end Ukraine war'</a> BBC: President Putin's former chief economic advisor tells the BBC Western countries could stop the war. 
- <p class="updated_time"> 10:45 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 10:56 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote 
- <p class="updated_time"> 09:45 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 09:56 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 09:40 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
