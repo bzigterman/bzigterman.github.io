@@ -9,19 +9,21 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:47 AM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091921429/australian-prime-minister-calls-may-21-election">Australian prime minister calls May 21 election</a> NPR: Scott Morrison has called for a May 21 election that will be fought on issues including Chinese economic coercion, climate change and the COVID-19 pandemic. 
+ <p class="updated_time"> 12:55 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
  <p class="updated_time"> 12:47 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091920075/zelenskyy-russian-aggression-not-limited-to-ukraine-alone">Zelenskyy: 'Russian aggression not limited to Ukraine alone'</a> NPR: Ukrainian President Volodymyr Zelenskyy said in his evening address that Russia is targeting all of Europe with its aggression, and defending Ukraine is essential for the security of all democracies. 
- <p class="updated_time"> 12:42 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
  <p class="updated_time"> 12:26 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">What Happened on Day 45 of the War in Ukraine</a> NYT: The move comes as Russia persists with its push in southeastern Ukraine, where residents continued to flee on Saturday, a day after a deadly missile strike on a train station there. In his nightly address, President Zelensky renewed calls for an embargo on Russian oil. 
- <p class="updated_time"> 11:42 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 11:55 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Accelerates Nuclear Buildup</a> WSJ: China Accelerates Nuclear Buildup 
  <p class="updated_time"> 11:37 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61040424?at_medium=RSS&at_campaign=KARANGA">'Real embargo on Russian energy could end Ukraine war'</a> BBC: President Putin's former chief economic advisor tells the BBC Western countries could stop the war. 
- <p class="updated_time"> 10:42 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 10:55 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
- <p class="updated_time"> 09:42 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 09:55 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote 
  <p class="updated_time"> 09:40 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
@@ -33,10 +35,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61055915?at_medium=RSS&at_campaign=KARANGA">Australia election: PM Scott Morrison calls poll for 21 May</a> BBC: Prime Minister Scott Morrison announced the date after seeing the Governor General in Canberra. 
  <p class="updated_time"> 09:04 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/kyiv-ukraine-war.html">With Russian Forces Gone, Kyiv Starts to Revive</a> NYT: The anxiety remains, but in Ukraine’s capital, large lines of cars are now forming on highways into the city and businesses are reopening. 
+ <p class="updated_time"> 08:55 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 08:52 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
- <p class="updated_time"> 08:42 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 06:31 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60993770?at_medium=RSS&at_campaign=KARANGA">López Obrador: What's behind Mexican leader's recall referendum?</a> BBC: The unprecedented mid-term referendum was called not by the opposition but the president himself. 
  <p class="updated_time"> 06:25 PM CT, Apr. 09 </p> 
