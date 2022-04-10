@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:40 PM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">French Election Live Updates: It’s Macron vs. Le Pen, Projections Show</a> NYT: President Emmanuel Macron will again face the far-right leader Marine Le Pen in a runoff. He will go into the second round as the favorite, having fared a little better than the latest opinion polls suggested. 
- <p class="updated_time"> 04:40 PM CT, Apr. 10 </p> 
+ <p class="updated_time"> 05:23 PM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">French Election Live Updates: Macron Leads Le Pen in Early Vote Count</a> NYT: President Emmanuel Macron will again face the far-right leader Marine Le Pen in a runoff. He will go into the second round as the favorite, having fared a little better than the latest opinion polls suggested. 
+ <p class="updated_time"> 05:19 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">Ukraine Live Updates: Civilians Rush to Flee as Russian Troops Mass in the East</a> NYT: U.S. military officials said they expect Russia to carry out a major offensive from the city of Izium to Dnipro, a strategic target in eastern Ukraine. At a train station where dozens were killed in a missile strike on Friday, one survivor said, “The town is dead now.” 
+ <p class="updated_time"> 05:11 PM CT, Apr. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61061230?at_medium=RSS&at_campaign=KARANGA">French elections: Macron and Le Pen to fight for presidency</a> BBC: Emmanuel Macron wins the first round but the run-off against Marine Le Pen is set to be far closer. 
+ <p class="updated_time"> 04:26 PM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
  <p class="updated_time"> 04:25 PM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091691543/russia-ukraine-war-what-happened-today-april-10">Russia-Ukraine war: What happened today (April 10)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:01 PM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
  <p class="updated_time"> 04:01 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/theater/olivier-awards-winners-cabaret-eddie-redmayne.html">‘Cabaret,’ Starring Eddie Redmayne, Sweeps Olivier Awards</a> NYT: The musical won seven awards at Britain’s equivalent of the Tonys. A puppet-filled adaptation of “Life of Pi” and a “Back to the Future” musical also won big. 
  <p class="updated_time"> 04:01 PM CT, Apr. 10 </p> 
@@ -25,21 +27,21 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/10/world/asia/ukrainian-kramatorsk.html">A Stricken Ukrainian City Empties, and Those Left Fear What’s Next</a> NYT: After the deadly strike on the train station in Kramatorsk, Ukraine, those who stayed behind are grim about the future: “We think we will be swept off the face of the earth.” 
  <p class="updated_time"> 03:28 PM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61061046?at_medium=RSS&at_campaign=KARANGA">French election: Macron pledges to create united France</a> BBC: Emmanuel Macron says he will unite "all the different convictions and beliefs" if re-elected. 
- <p class="updated_time"> 03:01 PM CT, Apr. 10 </p> 
+ <p class="updated_time"> 03:26 PM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election</a> WSJ: France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election 
  <p class="updated_time"> 02:49 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/volunteer-bus-drivers-refugees-ukraine.html">Volunteer Bus Drivers Help Refugees Escape from Eastern Ukraine</a> NYT: After a Russian strike killed more than 50 people at a train station, Ukrainians are accelerating efforts to evacuate by road. 
- <p class="updated_time"> 02:01 PM CT, Apr. 10 </p> 
+ <p class="updated_time"> 02:26 PM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603">Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East</a> WSJ: Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East 
  <p class="updated_time"> 01:48 PM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091937252/spain-taxidermy-collection-extinct-protected-animals">Spain investigates private taxidermy collection with more than 1,000 animals</a> NPR: Species of cheetah, leopard, polar bear, rhinoceros, along with nearly 200 ivory elephant tusks, were among the extensive collection, valued at more than $31 million. 
  <p class="updated_time"> 01:38 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/ukraine-farmers-food.html">War’s Disruption to Ukraine’s Farms Seeds Global Food Crisis</a> NYT: The Russian invasion is pummeling Ukraine’s agriculture, threatening harvests in Europe’s breadbasket and contributing to a global food crisis. 
- <p class="updated_time"> 01:01 PM CT, Apr. 10 </p> 
+ <p class="updated_time"> 01:26 PM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/european-countries-debate-how-to-cut-purchases-of-russian-oil-11649595841">Europe Debates How to Cut Purchases of Russian Oil</a> WSJ: Europe Debates How to Cut Purchases of Russian Oil 
  <p class="updated_time"> 01:01 PM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61060916?at_medium=RSS&at_campaign=KARANGA">Spanish police seize huge haul of illegal stuffed animals</a> BBC: The Guardia Civil found more than 1,000 specimens including extinct and endangered species. 
- <p class="updated_time"> 12:01 PM CT, Apr. 10 </p> 
+ <p class="updated_time"> 12:26 PM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 10:19 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/middleeast/israel-ukraine-russia-oligarchs.html">Israel’s Ukraine Policy Prompts Scrutiny of Russian-Israeli Oligarchs</a> NYT: Israel has expressed solidarity with Ukraine but avoided direct criticism of Russia, raising questions about Russian-Israeli businessmen close to the Kremlin. 
@@ -194,6 +196,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:11 PM CT, Apr. 10 </p> 
+ <a href="https://www.politico.com/news/2022/04/10/russia-ukraine-firepower-dvornikov-00024315">Ukrainian defenders dig in as Russia lines up more firepower</a> Politico: Questions remain about the effectiveness of Russia’s depleted and demoralized forces. 
  <p class="updated_time"> 04:35 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-states-legislation.html">Crypto Industry Helps Write, and Pass, Its Own Agenda in State Capitols</a> NYT: In the absence of federal regulations, crypto lobbyists and executives are going state by state to get favorable rules enacted. Many lawmakers have been willing partners. 
  <p class="updated_time"> 02:24 PM CT, Apr. 10 </p> 
@@ -228,12 +232,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/10/1091927667/money-from-the-covid-paycheck-protection-program-was-allegedly-largely-misspent">Money from the COVID Paycheck Protection Program was allegedly largely misspent</a> NPR: Ayesha Rascoe asks Justice Department Inspector General Michael Horowitz, who chairs the Pandemic Response Accountability Committee, about fraudulent pandemic aid. 
  <p class="updated_time"> 07:53 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927660/politics-chat-politicians-get-covid-jackson-confirmed-mitch-mcconnell-interview">Politics chat: Politicians get COVID; Jackson confirmed; Mitch McConnell interview</a> NPR: High-profile Washington, D.C. politicians are testing positive for the coronavirus in a reminder that the pandemic is far from over. 
- <p class="updated_time"> 07:25 AM CT, Apr. 10 </p> 
- <a href="https://www.politico.com/news/2022/04/10/pope-easter-truce-ukraine-russia-00024277">Pope Francis calls for an Easter truce in Ukraine</a> Politico: He was celebrating Palm Sunday Mass before crowds in St. Peter’s Square for the first time since the pandemic. 
  <p class="updated_time"> 07:22 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927625/after-232-years-ketanji-brown-jackson-is-the-first-black-woman-on-the-supreme-co">After 232 years, Ketanji Brown Jackson is the first Black woman on the Supreme Court</a> NPR: Ayesha Rascoe asks Biden administration strategist Minyon Moore about Biden's successful nomination of Ketanji Brown Jackson to the Supreme Court. 
- <p class="updated_time"> 07:11 AM CT, Apr. 10 </p> 
- <a href="https://www.politico.com/news/2022/04/10/zelenskyy-russian-aggression-ukraine-00024276">Zelenskyy: Russian aggression not limited to Ukraine</a> Politico: His address came as civilians continued to flee the eastern parts of his country. 
  <p class="updated_time"> 06:01 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091543359/15-states-dont-say-gay-anti-transgender-bills">Not just Florida. More than a dozen states propose so-called 'Don't Say Gay' bills</a> NPR: The specific details regarding the bills vary between state. But overall, they seek to prohibit schools from using a curriculum or discussing topics of gender identity or sexual orientation. 
  <p class="updated_time"> 06:00 AM CT, Apr. 10 </p> 
@@ -249,7 +249,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:44 PM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/trump-leans-toward-dr-oz-in-pennsylvania-senate-race-00024272">Trump endorses Oz in key Senate race</a> Politico: The celebrity TV doctor aggressively pursued Trump’s backing in the Pennsylvania primary. 
  <p class="updated_time"> 05:10 PM CT, Apr. 09 </p> 
- <a href="https://www.nytimes.com/2022/04/09/us/politics/biden-border-immigration.html">Disagreement and Delay: How Infighting Over the Border Divided the White House</a> NYT: The Biden administration has furiously debated how — and whether — to unravel Trump-era immigration policies. 
+ <a href="https://www.nytimes.com/2022/04/09/us/politics/biden-border-immigration.html">How Infighting Over the Border Divided the Biden White House</a> NYT: The Biden administration has furiously debated how — and whether — to unravel Trump-era immigration policies. 
  <p class="updated_time"> 07:25 AM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091859822/more-details-emerge-in-federal-investigation-into-hunter-biden">More details emerge in federal investigation into Hunter Biden</a> NPR: In 2020, much of the mainstream media dismissed a story about Hunter Biden's business dealings. Now emails supporting the story have been authenticated. Was the media too deferential to the Bidens? 
  <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
@@ -304,6 +304,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/08/white-house-putin-paris-00024054">The White House is freaked out that Putin's next big win could be in Paris</a> Politico: If Russia apologist Marine LePen wins the French elections, Washington fears she could unravel the Western NATO alliance. 
  <p class="updated_time"> 10:00 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/business/spirit-airlines-jetblue-frontier.html">Bidding War for Spirit Could Undercut Power of Four Big Airlines</a> NYT: The rival bids for Spirit from Frontier and JetBlue could create an airline that presents a more formidable challenge to American, Delta, Southwest and United. 
+ <p class="updated_time"> 03:31 AM CT, Apr. 08 </p> 
+ <a href="https://www.politico.com/news/2022/04/08/democrats-spread-organizing-strategy-that-flipped-georgia-to-other-states-00023892">‘If we do this right …’: The new Dem organizing strategy catching fire ahead of the midterms</a> Politico: Operatives who helped elect Sen. Jon Ossoff are exporting their voter contact program to more states for the midterm elections. 
  <p class="updated_time"> 03:30 AM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/ukraines-iron-general-zaluzhnyy-00023901">Ukraine’s 'iron general' is a hero, but he's no star</a> Politico: Meet Valeriy Zaluzhnyy, the commander in chief of the Ukrainian Armed Forces, who's quietly leading the fight against Russia's invaders. 
  <p class="updated_time"> 10:36 PM CT, Apr. 07 </p> 
