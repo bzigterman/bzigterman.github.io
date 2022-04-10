@@ -9,12 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:11 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 12:26 AM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">What Happened on Day 45 of the War in Ukraine</a> NYT: The move comes as Russia persists with its push in southeastern Ukraine, where residents continued to flee on Saturday, a day after a deadly missile strike on a train station there. In his nightly address, President Zelensky renewed calls for an embargo on Russian oil. 
+ <p class="updated_time"> 11:41 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
- <p class="updated_time"> 11:01 PM CT, Apr. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Names a General to Unify Its Faltering Campaign</a> NYT: The move comes as Russia persists with its push in southeastern Ukraine, where residents continued to flee on Saturday, a day after a deadly missile strike on a train station there. In his nightly address, President Zelensky renewed calls for an embargo on Russian oil. 
- <p class="updated_time"> 10:11 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 11:37 PM CT, Apr. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61040424?at_medium=RSS&at_campaign=KARANGA">'Real embargo on Russian energy could end Ukraine war'</a> BBC: President Putin's former chief economic advisor told the BBC that Western countries could stop the war. 
+ <p class="updated_time"> 10:41 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Accelerates Nuclear Buildup</a> WSJ: China Accelerates Nuclear Buildup 
+ <p class="updated_time"> 09:41 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
  <p class="updated_time"> 09:40 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
  <p class="updated_time"> 09:34 PM CT, Apr. 09 </p> 
@@ -23,15 +27,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/09/world/asia/imran-khan-pakistan-ousted.html">Imran Khan Ousted as Pakistan’s Prime Minister</a> NYT: The country will now face early elections after days of brinkmanship in which Mr. Khan tried to dissolve Parliament to head off the no-confidence vote. 
  <p class="updated_time"> 09:21 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61055915?at_medium=RSS&at_campaign=KARANGA">Australia election: PM Scott Morrison calls poll for 21 May</a> BBC: Prime Minister Scott Morrison announced the date after seeing the Governor General in Canberra. 
- <p class="updated_time"> 09:11 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
  <p class="updated_time"> 09:04 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/kyiv-ukraine-war.html">With Russian Forces Gone, Kyiv Starts to Revive</a> NYT: The anxiety remains, but in Ukraine’s capital, large lines of cars are now forming on highways into the city and businesses are reopening. 
  <p class="updated_time"> 08:52 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
- <p class="updated_time"> 08:11 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 08:41 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote 
- <p class="updated_time"> 07:11 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 07:41 PM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 06:31 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60993770?at_medium=RSS&at_campaign=KARANGA">López Obrador: What's behind Mexican leader's recall referendum?</a> BBC: The unprecedented mid-term referendum was called not by the opposition but the president himself. 
@@ -113,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/09/world/asia/japan-russia-ukraine.html">Japan Aligns With U.S. and Europe in Penalizing Russia Over Ukraine War</a> NYT: The country has announced a ban on Russian coal and restrictions on imports including timber, vodka and machinery. It is also expelling eight Russian diplomats. 
  <p class="updated_time"> 03:02 AM CT, Apr. 09 </p> 
  <a href="https://www.wsj.com/articles/shanghai-residents-face-fresh-round-of-mass-covid-19-testing-11649505734">Shanghai Residents Ordered to Undergo Mass Covid-19 Testing</a> WSJ: The financial hub, home to more than 25 million people, has been hit by China’s worst outbreak since the coronavirus first emerged in Wuhan more than two years ago. 
- <p class="updated_time"> 12:02 AM CT, Apr. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61038811?at_medium=RSS&at_campaign=KARANGA">Ukraine mother: I saw my daughter killed, then was held captive in basement</a> BBC: Viktoria describes how her daughter and husband were killed in front of her while escaping Russian forces. 
  <p class="updated_time"> 11:50 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/americas/mexico-president-recall-election.html">Is Mexico’s Recall Election “Democracy of the Highest Order”?</a> NYT: The vote has the potential to upend the country’s political system. But many fear it will amount to nothing more than a tool for propaganda. 
  <p class="updated_time"> 11:36 PM CT, Apr. 08 </p> 
@@ -125,26 +125,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-russia-land-mines.html">Civilians Near Kharkiv Are Discovering Timed Land Mines</a> NYT: Civilians near Kharkiv in northeastern Ukraine are discovering a new threat: munitions that eject up to two dozen small mines that explode at intervals. 
  <p class="updated_time"> 10:48 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61048256?at_medium=RSS&at_campaign=KARANGA">Inside Chernobyl: We stole Russian fuel to prevent catastrophe</a> BBC: Staff at the former nuclear plant tell the BBC they were forced to negotiate when Russian forces took over. 
- <p class="updated_time"> 08:47 PM CT, Apr. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61021862?at_medium=RSS&at_campaign=KARANGA">Ukraine, the UN and history's greatest broken promise</a> BBC: If the past is anything to go by, the world will struggle to unite for Ukraine - says Fergal Keane. 
  <p class="updated_time"> 07:03 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/asia/pakistan-imran-khan.html">Pakistan’s Supreme Court Blocks Imran Khan’s Move to Stay in Power</a> NYT: The prime minister will now face a no-confidence vote, which he had tried to avoid by dissolving Parliament, a move his opponents called a coup. 
- <p class="updated_time"> 06:46 PM CT, Apr. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-60343129?at_medium=RSS&at_campaign=KARANGA">The Cambodian activists risking their freedom for the environment</a> BBC: Activists from the Cambodian environmental group Mother Nature are increasingly being targeted. 
- <p class="updated_time"> 06:41 PM CT, Apr. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61035711?at_medium=RSS&at_campaign=KARANGA">Kenyan climber joins first all-black team attempting Mount Everest</a> BBC: Kenya's James Kagambi is the oldest in a group out to inspire black people to take up mountaineering. 
  <p class="updated_time"> 06:40 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-train-station-kramatorsk.html">Missile Strike Kills At Least 50 at Ukraine Train Station </a> NYT: Ukraine’s president blamed Russia for the latest atrocity in the six-week-old war, calling the Russian invasion force “an evil that has no limits.” Moscow denied responsibility. 
- <p class="updated_time"> 06:40 PM CT, Apr. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61022232?at_medium=RSS&at_campaign=KARANGA">Netflix: Where are the Indians Bridgerton dreamed up really from?</a> BBC: The Netflix hit's season two throws in several Indian tropes but fails at being authentic. 
  <p class="updated_time"> 06:01 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61038463?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The school that helped fleeing musicians find safety</a> BBC: A group of young musicians from Kharkiv and Odesa have found new homes in Denmark. 
  <p class="updated_time"> 05:08 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/boris-johnson-scholz-russia.html">Boris Johnson Urges Germany Not to Let Up Pressure on Russia</a> NYT: Prime Minister Boris Johnson is pressing European allies to take a hard line, like cutting off Russian energy imports, but after Brexit, his influence is limited. 
- <p class="updated_time"> 04:55 PM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/08/world/asia/food-shortages-shanghai-covid.html">Shanghai’s Covid Lockdown Has Caused Food Shortages, Residents Say</a> NYT: The authorities have locked down the city of 26 million in a bid to contain China’s worst outbreak since the pandemic began. 
- <p class="updated_time"> 04:26 PM CT, Apr. 08 </p> 
- <a href="https://www.bbc.co.uk/news/business-61015290?at_medium=RSS&at_campaign=KARANGA">Why France's daily baguette is costing so much dough</a> BBC: Every part of the cost of the daily staple is rising - flour, electricity, gas and wages. 
  <p class="updated_time"> 04:14 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/gerda-weissmann-klein-dead.html">Gerda Weissmann Klein, Honored Holocaust Survivor, Dies at 97</a> NYT: Her story was told in an Oscar-winning documentary, and her message of hope and love in the face of overwhelming evil was an inspiration to millions. 
  <p class="updated_time"> 03:21 PM CT, Apr. 08 </p> 
@@ -167,8 +155,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/business/china-lockdowns-supply-chain.html">How Lockdowns in China Have Further Bogged Down the Supply Chain</a> NYT: China’s Covid lockdowns and restrictions are holding up truck drivers who carry crucial components among factories and take products to ports, posing a new disruption to the global supply chain. 
  <p class="updated_time"> 01:01 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/climate/air-pollution-cities-tropics.html">A ‘New Era of Air Pollution’ in the Tropics Could Have a Huge Toll</a> NYT: Increasingly bad air in big cities is expected to kill hundreds of thousands in coming years if stronger controls are not put in place. 
- <p class="updated_time"> 12:29 PM CT, Apr. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61035565?at_medium=RSS&at_campaign=KARANGA">'Mariupol is a graveyard': Evacuees recount terror of Russian assault</a> BBC: Survivors from the besieged city say they wondered at times if the rest of Ukraine had fallen. 
  <p class="updated_time"> 12:21 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61033126?at_medium=RSS&at_campaign=KARANGA">Katty Kay: The most exciting thing about becoming Swiss</a> BBC: My new passport means I can vote for the first time in years - it's never been as important as now. 
  <p class="updated_time"> 11:20 AM CT, Apr. 08 </p> 
@@ -191,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/israel-tel-aviv-shooting.html">Palestinian Who Killed 2 in Tel Aviv Is Shot Dead After Manhunt</a> NYT: The gunman initially escaped after his attack outside a busy bar at the heart of Israel’s most cosmopolitan city. After a nightlong search, police forces said they killed the gunman in a shootout near a mosque in Jaffa. 
  <p class="updated_time"> 08:49 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/bucha-killings-russian-communications-intercepted.html">Intercepted Russian Radio Traffic Said to Discuss Killings of Ukranian Civilians</a> NYT: The report adds to evidence of indiscriminate killings by Russian forces. It could not be confirmed whether the radio transmissions collected by German intelligence were from Bucha or another place near the capital, an official said. 
- <p class="updated_time"> 07:41 PM CT, Apr. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61020025?at_medium=RSS&at_campaign=KARANGA">Meat ban: India isn't vegetarian but who'll tell the right-wing?</a> BBC: The country's varied and complex cuisine celebrates meat just as much as vegetables. 
  <p class="updated_time"> 07:34 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/ukraine-mothers-birth.html">Inside a Maternity Hospital in Ukraine as War Grinds On</a> NYT: As artillery shells fall, pregnant women are delivering prematurely, being shuttled in and out of bomb shelters or having babies in basements without even a midwife to help. Tens of thousands more are displaced. 
  <p class="updated_time"> 05:28 PM CT, Apr. 07 </p> 
