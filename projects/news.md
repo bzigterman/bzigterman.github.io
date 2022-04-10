@@ -9,14 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:25 PM CT, Apr. 09 </p> 
+ <p class="updated_time"> 09:04 PM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/2022/04/08/world/europe/kyiv-ukraine-war.html">With Russian Forces Gone, Kyiv Starts to Revive</a> NYT: The anxiety remains, but in Ukraine’s capital, large lines of cars are now forming on highways into the city and businesses are reopening. 
+ <p class="updated_time"> 09:03 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/04/09/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Names a General to Unify Its Faltering Campaign</a> NYT: The move comes as Russia persists with its push in southeastern Ukraine, where residents continued to flee on Saturday, a day after a deadly missile strike on a train station there. In his nightly address, President Zelensky renewed calls for an embargo on Russian oil. 
+ <p class="updated_time"> 08:52 PM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
+ <p class="updated_time"> 08:39 PM CT, Apr. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61055915?at_medium=RSS&at_campaign=KARANGA">Australia election: PM Scott Morrison calls poll for 21 May</a> BBC: Prime Minister Scott Morrison announced the date after seeing the Governor General in Canberra. 
+ <p class="updated_time"> 08:18 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
+ <p class="updated_time"> 07:18 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Accelerates Nuclear Buildup</a> WSJ: China Accelerates Nuclear Buildup 
  <p class="updated_time"> 06:31 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-60993770?at_medium=RSS&at_campaign=KARANGA">López Obrador: What's behind Mexican leader's recall referendum?</a> BBC: The unprecedented mid-term referendum was called not by the opposition but the president himself. 
- <p class="updated_time"> 06:30 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/zelensky-calls-russian-strike-on-ukrainian-train-station-a-war-crime-11649502528">Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East</a> WSJ: Ukraine Urges Citizens to Flee Ahead of Expected Russian Assault in East 
  <p class="updated_time"> 06:25 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61029991?at_medium=RSS&at_campaign=KARANGA">Mozambique Palma terror attack: 'I can't go back'</a> BBC: After a brazen jihadist siege a year ago, Mozambique's fledgling gas industry remains on hold. 
+ <p class="updated_time"> 06:18 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
  <p class="updated_time"> 06:05 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61051307?at_medium=RSS&at_campaign=KARANGA">Ukraine: Three ways this war could escalate and drag Nato in</a> BBC: How exactly could this conflict escalate into a wider pan-European conflict that drags in Nato? 
  <p class="updated_time"> 06:04 PM CT, Apr. 09 </p> 
@@ -27,16 +37,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61015974?at_medium=RSS&at_campaign=KARANGA">Saniya Mistri: The hijab-wearing teen rapper breaking stereotypes</a> BBC: Saniya Mistri's powerful rap songs call out the glaring inequalities in her city, Mumbai. 
  <p class="updated_time"> 06:00 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61049717?at_medium=RSS&at_campaign=KARANGA">French election: Macron faces stiffest test as France votes</a> BBC: The opening round of the French presidential race could become a cliffhanger for Emmanuel Macron. 
- <p class="updated_time"> 05:30 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/china-is-accelerating-its-nuclear-buildup-over-rising-fears-of-u-s-conflict-11649509201">China Accelerates Nuclear Buildup</a> WSJ: China Accelerates Nuclear Buildup 
  <p class="updated_time"> 05:22 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/russia-ukraine-general-kramatorsk.html">Russia Shuffles Command in Ukraine as Thousands Flee the East</a> NYT: The Russian campaign will be consolidated under a veteran of the Syrian war, while Western nations pump additional arms into Ukraine. 
+ <p class="updated_time"> 05:18 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote 
  <p class="updated_time"> 04:39 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
- <p class="updated_time"> 04:30 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/in-africa-u-s-trained-militaries-are-ousting-civilian-governments-in-coups-11649505601">In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments</a> WSJ: In Africa, U.S.-Trained Militaries Are Ousting Civilian Governments 
  <p class="updated_time"> 04:28 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61055105?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Disbelief and horror after Krematorsk train station attack</a> BBC: The people of Krematorsk are coming to terms with a strike on a train station that killed more than 50. 
+ <p class="updated_time"> 04:18 PM CT, Apr. 09 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 04:02 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-ukraine-russia.html">Putin’s War in Ukraine Shatters an Illusion in Russia</a> NYT: Russians long lived with an understanding: Stay away from politics, and live your life as you choose. The war in Ukraine wrecked that idea. 
  <p class="updated_time"> 03:50 PM CT, Apr. 09 </p> 
@@ -53,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/09/1091902359/what-romania-would-like-to-see-nato-do-in-ukraine">What Romania would like to see NATO do in Ukraine</a> NPR: NPR's Michel Martin speaks to Simona Cojocaru, State Secretary at Romania's Ministry of Defense, about the military situation in Ukraine. 
  <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091902352/the-network-in-romania-to-help-ukrainian-refugees">The network in Romania to help Ukrainian refugees</a> NPR: Romania has received more than 600,000 refugees from Ukraine. NGOs, local governments, and volunteers have quickly set up an extensive network to feed, house and provide medical care to them. 
- <p class="updated_time"> 03:30 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote Loss</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote Loss 
  <p class="updated_time"> 03:28 PM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091903165/pakistan-imran-khan-parliament">Imran Khan has been ousted as Pakistan's prime minister</a> NPR: The no confidence vote came after the speaker of the house resigned, saying he could not oversee the ouster of his close ally of 30 years, and after Khan's own lawmakers delayed the vote. 
  <p class="updated_time"> 03:27 PM CT, Apr. 09 </p> 
@@ -63,14 +71,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/09/world/europe/boris-johnson-kyiv-ukraine-aid.html">Boris Johnson Visits Kyiv As Britain Promises Aid to Ukraine</a> NYT: Mr. Johnson, an enthusiastic supporter of President Volodymyr Zelensky of Ukraine, walked with him and a group of soldiers through the streets of the capital, Kyiv. 
  <p class="updated_time"> 02:36 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61052643?at_medium=RSS&at_campaign=KARANGA">UK PM travels to Kyiv for Zelensky talks</a> BBC: The PM offers Ukraine 120 armoured vehicles during a visit No 10 calls a "show of solidarity" . 
- <p class="updated_time"> 02:30 PM CT, Apr. 09 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-enclave-in-brazil-offers-warm-welcome-to-war-refugees-11649502000">Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees</a> WSJ: Ukrainian Enclave in Brazil Offers Warm Welcome to War Refugees 
  <p class="updated_time"> 02:06 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/middleeast/israel-palestinian-violence.html">Wave of Terrorism in Israel Defies a Simple Narrative</a> NYT: Four recent deadly attacks have highlighted Palestinian anger over vanishing prospects of a Palestinian state, but the assailants’ diverse backgrounds have left many questions unanswered. 
  <p class="updated_time"> 01:23 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61054911?at_medium=RSS&at_campaign=KARANGA">Ukraine will rise again - PM Boris Johnson</a> BBC: The UK prime minister held talks in Kyiv with Ukraine's President Volodymyr Zelensky. 
- <p class="updated_time"> 12:05 PM CT, Apr. 09 </p> 
- <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
  <p class="updated_time"> 09:43 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tank treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
  <p class="updated_time"> 09:29 AM CT, Apr. 09 </p> 
@@ -141,16 +145,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61015290?at_medium=RSS&at_campaign=KARANGA">Why France's daily baguette is costing so much dough</a> BBC: Every part of the cost of the daily staple is rising - flour, electricity, gas and wages. 
  <p class="updated_time"> 04:14 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/gerda-weissmann-klein-dead.html">Gerda Weissmann Klein, Honored Holocaust Survivor, Dies at 97</a> NYT: Her story was told in an Oscar-winning documentary, and her message of hope and love in the face of overwhelming evil was an inspiration to millions. 
- <p class="updated_time"> 03:52 PM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/08/world/europe/kyiv-ukraine-war.html">With Russian Forces Gone, Kyiv Starts to Revive</a> NYT: The anxiety remains, but in Ukraine’s capital, large lines of cars are now forming on highways into the city and businesses are reopening. 
  <p class="updated_time"> 03:21 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/arts/design/finland-russia-art-seizure.html">Officials Say Russian Art, Seized by Finns, Should Return Home</a> NYT: Finnish custom officials had seized the art several days ago, but the Finns and European Union officials decided that art lent to museums for exhibit did not come under sanctions. 
  <p class="updated_time"> 03:20 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-61041760?at_medium=RSS&at_campaign=KARANGA">Kinder chocolate factory told to shut over salmonella cases</a> BBC: Dozens of suspected cases are reported in the UK, Germany, France and Belgium. 
  <p class="updated_time"> 03:19 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61047567?at_medium=RSS&at_campaign=KARANGA">Zelensky: 'We are defending the right to live'</a> BBC: In a CBS interview, Ukraine's President Zelensky speaks about the war and what he saw in Bucha. 
- <p class="updated_time"> 03:15 PM CT, Apr. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61047164?at_medium=RSS&at_campaign=KARANGA">Biting 'unruly passengers' hit with largest-ever US fines</a> BBC: Two women are facing steep fines for allegedly biting crew members and passengers on domestic flights. 
  <p class="updated_time"> 03:01 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61047565?at_medium=RSS&at_campaign=KARANGA">First black woman on US Supreme Court: 'We've made it'</a> BBC: Newly confirmed US Supreme Court Justice Ketanji Brown Jackson on her remarkable journey. 
  <p class="updated_time"> 02:47 PM CT, Apr. 08 </p> 
@@ -210,6 +210,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:57 PM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/2022/04/09/us/politics/trump-doctor-oz-senate-endorsement.html">Trump endorses Dr. Oz in Pennsylvania Senate race </a> NYT: The former president threw his weight behind the celebrity doctor, who is running for the Republican nomination for senator in a key state. 
+ <p class="updated_time"> 07:41 PM CT, Apr. 09 </p> 
+ <a href="https://www.nytimes.com/2022/04/08/us/politics/trump-super-pac-illegal-donations.html">Donations Steered to Trump Super PAC by Canadian Are Found to Be Illegal</a> NYT: The Federal Election Commission fined a Canadian steel billionaire, Barry Zekelman, $975,000 in the case, one of the biggest penalties it has ever assessed. 
  <p class="updated_time"> 05:44 PM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/trump-leans-toward-dr-oz-in-pennsylvania-senate-race-00024272">Trump endorses Dr. Oz in key Senate race</a> Politico: The celebrity TV doctor aggressively pursued Trump’s backing in the Pennsylvania primary. 
  <p class="updated_time"> 05:10 PM CT, Apr. 09 </p> 
@@ -268,8 +272,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/us/politics/capitol-hill-fox-history.html">Foxes and D.C. Politicians Don’t Mix, As This Week and History Show</a> NYT: The nation’s founding fathers hunted foxes for sport. This week, a rabid fox that bit nine people near the U.S. Capitol led to a very different type of hunt. 
  <p class="updated_time"> 05:55 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/politics/january-6-investigation-ali-alexander.html">Pro-Trump Rally Planner Is Cooperating in Justice Dept.’s Jan. 6 Inquiry</a> NYT: Ali Alexander, who was a key figure in the “Stop the Steal” movement, said he had received a grand jury subpoena and would assist the expanding investigation. 
- <p class="updated_time"> 05:36 PM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/08/us/politics/trump-super-pac-illegal-donations.html">Donations Steered to Trump Super PAC by Canadian Are Found to Be Illegal</a> NYT: The Federal Election Commission fined a Canadian steel billionaire, Barry Zekelman, $975,000 in the case, one of the biggest penalties it has ever assessed. 
  <p class="updated_time"> 04:01 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091589799/russia-ukraine-war-what-happened-today-april-8">Russia-Ukraine war: What happened today (April 8)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:53 PM CT, Apr. 08 </p> 
@@ -324,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/07/us/politics/capitol-fox-rabies-kits-euthanized.html">Capitol Fox’s Three Kits Euthanized After Rabies Exposure</a> NYT: The saga of the wild red fox — celebrated as a mascot, then hunted as an aggressive attacker, then killed and found to be rabid — grew darker after her kits were euthanized as well. 
  <p class="updated_time"> 04:32 PM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/5-takeaways-canada-2022-budget-00023908">Five takeaways from Canada’s 2022 budget</a> Politico: “The word ‘uncertainty’ is a big piece of our thinking,” a senior official acknowledged of the federal government's planning. 
- <p class="updated_time"> 03:34 PM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/us/politics/ketanji-brown-jackson-impact.html">Ketanji Brown Jackson, a Transformative Justice Whose Impact May Be Limited</a> NYT: Judge Ketanji Brown Jackson will help make the Supreme Court look like the nation but will have little power to halt its rightward trajectory. 
  <p class="updated_time"> 03:09 PM CT, Apr. 07 </p> 
  <a href="https://www.politico.com/news/2022/04/07/judge-to-justice-schumer-jackson-confirmation-00023764">From judge to justice in 6 weeks: How Schumer got Jackson confirmed</a> Politico: Jackson’s confirmation came at a good time for Biden and the Senate majority leader, as Democrats face major political headwinds across the board. 
  <p class="updated_time"> 12:59 PM CT, Apr. 07 </p> 
