@@ -9,45 +9,53 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:29 AM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">Live Updates: Turnout Is Lower as Voting Begins in French Presidential Race</a> NYT: President Emmanuel Macron is expected to finish first after a muted campaign. Polls suggest that he’s likely to face the far-right leader Marine Le Pen in the second round, in a rematch of their 2017 runoff. 
+ <p class="updated_time"> 08:27 AM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Keeps Up Attacks in the East, Striking Civilian Areas</a> NYT: A school was among the targets hit on Sunday, although officials reported no casualties. At a train station where dozens were killed in a missile strike on Friday, one survivor said, “The town is dead now.” 
+ <p class="updated_time"> 08:23 AM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091929949/palm-sunday-pope-francis-ukraine">In the Palm Sunday Mass, Pope Francis pushes for peace in Ukraine </a> NPR: Celebrating Palm Sunday Mass before crowds in St. Peter's Square for the first time since the pandemic, Pope Francis called for a truce. 
+ <p class="updated_time"> 08:12 AM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/2022/04/10/world/middleeast/palestinian-village-israel.html">In a Village Divided, Palestinians See Their Hold on Territory Eroding</a> NYT: Carved up over decades, the village of Walaja sits partly in the occupied West Bank and partly in Jerusalem. Palestinians say this type of fragmentation undermines prospects for a state. 
+ <p class="updated_time"> 08:12 AM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091256975/from-nuremberg-to-darfur-history-has-seen-some-war-criminals-brought-to-trial">From Nuremberg to Darfur, history has seen some war criminals brought to trial </a> NPR: Responsibility is difficult to prove conclusively in a war zone, and evidence might have to link such acts to national leaders far from the battlefield. But it has happened. 
+ <p class="updated_time"> 08:11 AM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/2022/04/10/world/europe/ukraine-farmers-food.html">War’s Disruption to Ukraine’s Farms Seeds Global Food Crisis</a> NYT: The Russian invasion is pummeling Ukraine’s agriculture, threatening harvests in Europe’s breadbasket and contributing to a global food crisis. 
  <p class="updated_time"> 08:11 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/sundarbans-mangroves-india-bangladesh.html">Facing Disastrous Floods, They Turned to Mangrove Trees for Protection</a> NYT: In the Sundarbans, an ecological treasure straddling India and Bangladesh that is now on the front lines of climate change, local women are leading an effort to mitigate the dangers of rising waters. 
  <p class="updated_time"> 08:07 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927674/the-ukraine-russia-conflict-appears-to-be-entering-a-new-phase">The Ukraine-Russia conflict appears to be entering a new phase</a> NPR: Russia is preparing to launch another offensive, this time concentrating its attacks on the eastern part of Ukraine. 
- <p class="updated_time"> 07:35 AM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">Live Updates: Turnout Is Lower as Voting Begins in French Presidential Race</a> NYT: President Emmanuel Macron is expected to finish first after a muted campaign. Polls suggest that he’s likely to face the far-right leader Marine Le Pen in the second round, in a rematch of their 2017 runoff. 
- <p class="updated_time"> 07:28 AM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Keeps Up Attacks in the East, Striking Civilian Areas</a> NYT: A school was among the targets hit on Sunday, although officials reported no casualties. At a train station where dozens were killed in a missile strike on Friday, one survivor said, “The town is dead now.” 
+ <p class="updated_time"> 07:39 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
  <p class="updated_time"> 07:24 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927632/shanghai-locks-down-in-an-attempt-to-curb-covid-19-cases">Shanghai locks down in an attempt to curb COVID-19 cases</a> NPR: Ayesha Rascoe speaks with Plastics News Shanghai correspondent Rebecca Kanthor about the ongoing lockdown there. 
  <p class="updated_time"> 07:15 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927618/sweden-and-finland-consider-joining-nato-amidst-ukraine-russia-war">Sweden and Finland consider joining NATO amidst Ukraine-Russia war</a> NPR: As Russia continues to wage war in Ukraine, Sweden and Finland are considering joining NATO. Ayesha Rascoe asks former U.S. ambassador to NATO Ivo Daalder about the implications. 
  <p class="updated_time"> 07:14 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927611/a-ukrainian-doctor-shares-her-experience-caring-for-war-refugees">A Ukrainian doctor shares her experience caring for war refugees</a> NPR: Ayesha Rascoe speaks with Dr. Joanne Liu of Doctors Without Borders about caring for Ukrainian war refugees. 
- <p class="updated_time"> 07:14 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
  <p class="updated_time"> 07:01 AM CT, Apr. 10 </p> 
- <a href="https://www.npr.org/2022/04/10/1091927160/pakistans-pm-vows-to-fight-on-after-parliament-ousts-him">Pakistan's PM vows to fight on after Parliament ousts him</a> NPR: Following his ousting in a no-confidence vote, Imran Khan  called on his supporters to take to the streets in protest, while the political opposition prepare to install his replacement. 
- <p class="updated_time"> 06:14 AM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091927160/pakistan-prime-minister-imran-khan-parliament-ousted">Pakistan's prime minister vows to fight on after Parliament ousts him</a> NPR: Imran Khan called on his supporters to take to the streets in protest while the political opposition prepare to install his replacement. 
+ <p class="updated_time"> 06:39 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">Macron Faces Tough Challenge From Le Pen in French Election</a> WSJ: Macron Faces Tough Challenge From Le Pen in French Election 
  <p class="updated_time"> 05:55 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61053927?at_medium=RSS&at_campaign=KARANGA">Ronaldo: Police investigating after Manchester United forward appears to break fan's phone</a> BBC: Merseyside Police are investigating an alleged assault after Manchester United forward Cristiano Ronaldo appeared to break a fan's phone. 
  <p class="updated_time"> 05:39 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
+ <p class="updated_time"> 05:39 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote 
  <p class="updated_time"> 05:31 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091925789/mexicans-vote-on-whether-president-stays-or-goes">Mexicans vote on whether president stays or goes</a> NPR: Mexicans vote Sunday on whether their popular president Andrés Manuel López Obrador should end his six-year term barely midway through or continue to the end, in a vote he instigated. 
  <p class="updated_time"> 05:29 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/rishi-sunak-taxes-uk.html">A Popular British Politician Falls From Grace Over a Tax Scandal</a> NYT: Rishi Sunak was once considered a potential successor to Prime Minister Boris Johnson. Now he faces scrutiny over his wealthy wife’s tax status, and over holding an American green card while in office. 
  <p class="updated_time"> 05:18 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61049717?at_medium=RSS&at_campaign=KARANGA">French election: Macron faces far-right challenge as France votes</a> BBC: The opening round of the French presidential race could become a cliffhanger for Emmanuel Macron. 
- <p class="updated_time"> 05:14 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote 
+ <p class="updated_time"> 04:39 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 04:33 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61055915?at_medium=RSS&at_campaign=KARANGA">Australia election: PM Scott Morrison calls poll for 21 May</a> BBC: Prime Minister Scott Morrison announced the date after seeing the Governor General in Canberra. 
- <p class="updated_time"> 04:14 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 04:00 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091857410/even-with-ties-ukrainian-families-struggle-to-reach-the-united-states">Even with ties, Ukrainian families struggle to reach the United States</a> NPR: Olena Kopchak, her husband and their 8-year-old daughter, Yana, are among the growing number of Ukrainians who are trying to make it to the United States — and confronting obstacles. 
- <p class="updated_time"> 03:14 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 03:39 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/shanghai-has-recorded-more-than-130-000-covid-casesand-no-deaths-11649588402">Shanghai Has Recorded More Than 130,000 Covid Cases—and No Deaths</a> WSJ: Shanghai Has Recorded More Than 130,000 Covid Cases—and No Deaths 
  <p class="updated_time"> 03:05 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/imran-khan-pakistan-ousted.html">Imran Khan Ousted as Pakistan’s Prime Minister</a> NYT: The country will now face early elections after days of brinkmanship in which Mr. Khan tried to dissolve Parliament to head off the no-confidence vote. 
@@ -66,7 +74,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:34 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/formula1/61056578?at_medium=RSS&at_campaign=KARANGA">Australian Grand Prix: Charles Leclerc wins in Melbourne as title rival Max Verstappen retires</a> BBC: Charles Leclerc takes a dominant victory in the Australian Grand Prix to move into a commanding position in the World Championship. 
  <p class="updated_time"> 12:47 AM CT, Apr. 10 </p> 
- <a href="https://www.npr.org/2022/04/10/1091920075/zelenskyy-russian-aggression-not-limited-to-ukraine-alone">Zelenskyy: 'Russian aggression not limited to Ukraine alone'</a> NPR: Ukrainian President Volodymyr Zelenskyy said in his evening address that Russia is targeting all of Europe with its aggression, and defending Ukraine is essential for the security of all democracies. 
+ <a href="https://www.npr.org/2022/04/10/1091920075/ukraine-russia-zelenskyy-europe">Zelenskyy warns that Russian aggression will not stop with Ukraine</a> NPR: Ukrainian President Volodymyr Zelenskyy said in his evening address that Russia is targeting all of Europe with its aggression, and defending Ukraine is essential for the security of all democracies. 
  <p class="updated_time"> 11:37 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61040424?at_medium=RSS&at_campaign=KARANGA">Full embargo on oil could stop war - ex-Putin aide</a> BBC: President Putin's former chief economic advisor tells the BBC Western countries could stop the war. 
  <p class="updated_time"> 09:34 PM CT, Apr. 09 </p> 
@@ -99,10 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/09/1091902387/volunteers-in-romania-are-working-at-a-call-center-to-help-ukrainian-refugees">Volunteers in Romania are working at a call center to help Ukrainian refugees</a> NPR: At the Call Center de Solidaritate, volunteers answer calls as they come in. On the other end of the line is a Ukrainian refugee in search of assistance. 
  <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091902373/one-experts-surprise-over-how-romanias-reacted-to-ukrainian-refugees">One expert's surprise over how Romania's reacted to Ukrainian refugees</a> NPR: NPR's Michel Martin speaks with Radu Umbres, lecturer at the National School for Political Studies and Public Administration in Bucharest, about Romania's response to refugees arriving from Ukraine. 
- <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
- <a href="https://www.npr.org/2022/04/09/1091902366/what-a-un-vote-shows-about-how-much-of-the-world-views-the-war-in-ukraine">What a UN vote shows about how much of the world views the war in Ukraine</a> NPR: There were many countries in the middle when it came to Thursday's vote to suspend Russia from the UN Human Rights Council. 
- <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
- <a href="https://www.npr.org/2022/04/09/1091902359/what-romania-would-like-to-see-nato-do-in-ukraine">What Romania would like to see NATO do in Ukraine</a> NPR: NPR's Michel Martin speaks to Simona Cojocaru, State Secretary at Romania's Ministry of Defense, about the military situation in Ukraine. 
  <p class="updated_time"> 03:05 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/boris-johnson-kyiv-ukraine-aid.html">Boris Johnson Visits Kyiv As Britain Promises Aid to Ukraine</a> NYT: Mr. Johnson, an enthusiastic supporter of President Volodymyr Zelensky of Ukraine, walked with him and a group of soldiers through the streets of the capital, Kyiv. 
  <p class="updated_time"> 02:36 PM CT, Apr. 09 </p> 
@@ -181,14 +185,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/arts/music/annilese-miskimmon-eno-handmaids-tale.html">For This Opera Director, a Lot Is Riding on a ‘Handmaid’s Tale’</a> NYT: For her English National Opera debut, the company’s new artistic leader, Annilese Miskimmon, has chosen a work she hopes can bring in a new audience. 
  <p class="updated_time"> 12:00 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/middleeast/israel-tel-aviv-shooting.html">Palestinian Who Killed 2 in Tel Aviv Is Shot Dead After Manhunt</a> NYT: The gunman initially escaped after his attack outside a busy bar at the heart of Israel’s most cosmopolitan city. After a nightlong search, police forces said they killed the gunman in a shootout near a mosque in Jaffa. 
- <p class="updated_time"> 08:49 PM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/world/europe/bucha-killings-russian-communications-intercepted.html">Intercepted Russian Radio Traffic Said to Discuss Killings of Ukranian Civilians</a> NYT: The report adds to evidence of indiscriminate killings by Russian forces. It could not be confirmed whether the radio transmissions collected by German intelligence were from Bucha or another place near the capital, an official said. 
  <p class="updated_time"> 07:34 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/ukraine-mothers-birth.html">Inside a Maternity Hospital in Ukraine as War Grinds On</a> NYT: As artillery shells fall, pregnant women are delivering prematurely, being shuttled in and out of bomb shelters or having babies in basements without even a midwife to help. Tens of thousands more are displaced. 
  <p class="updated_time"> 02:54 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/us/ned-lamont-covid-positive.html">Ned Lamont, Connecticut Governor, Tests Positive for the Coronavirus</a> NYT: Gov. Ned Lamont said that he will isolate at home for the next five days and not attend any in-person events or meetings. 
- <p class="updated_time"> 02:13 PM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/climate/methane-emissions-record.html">Methane Emissions Soared to a Record in 2021, NOAA Says</a> NYT: For the second year in a row, concentrations of the potent planet-warming gas jumped by the largest amount since measurements began four decades ago. 
  <p class="updated_time"> 01:21 PM CT, Apr. 07 </p> 
  <a href="https://www.nytimes.com/2022/04/07/world/europe/eu-russia-sanctions.html">E.U. Diplomats Near New Sanctions Against Russia</a> NYT: As part of the European Union’s proposed measures to punish Moscow, a ban on Russian coal imports would be phased in over four months, instead of three. 
 
@@ -198,6 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:12 AM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091256975/from-nuremberg-to-darfur-history-has-seen-some-war-criminals-brought-to-trial">From Nuremberg to Darfur, history has seen some war criminals brought to trial </a> NPR: Responsibility is difficult to prove conclusively in a war zone, and evidence might have to link such acts to national leaders far from the battlefield. But it has happened. 
  <p class="updated_time"> 08:04 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927667/money-from-the-covid-paycheck-protection-program-was-allegedly-largely-misspent">Money from the COVID Paycheck Protection Program was allegedly largely misspent</a> NPR: Ayesha Rascoe asks Justice Department Inspector General Michael Horowitz, who chairs the Pandemic Response Accountability Committee, about fraudulent pandemic aid. 
  <p class="updated_time"> 07:53 AM CT, Apr. 10 </p> 
@@ -244,8 +246,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/09/1091859752/week-in-politics-ketanji-brown-jackson-confirmed-as-justice-russia-sanctioned">Week in politics: Ketanji Brown Jackson confirmed as justice; Russia sanctioned</a> NPR: The Senate confirms the first Black woman as justice on the U.S. Supreme Court and also deals additional rebukes to Russia on trade. 
  <p class="updated_time"> 06:01 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/website-domain-more-expensive-00023524">Why your website is about to get more expensive</a> Politico: Verisign, the government-backed monopoly that manages the .com domain, plans to raise prices this fall. And the year after that. And the year after that. 
- <p class="updated_time"> 06:01 AM CT, Apr. 09 </p> 
- <a href="https://www.politico.com/news/2022/04/09/cdc-policy-change-political-loser-democrats-00024219">Republicans see CDC’s policy change as ‘massive political loser for Democrats’</a> Politico: The GOP is openly discussing tying Biden administration's scrapping of Title 42, a Trump-era pandemic border policy, to a range of other voter concerns. 
  <p class="updated_time"> 06:00 AM CT, Apr. 09 </p> 
  <a href="https://www.politico.com/news/2022/04/09/angry-voters-biden-inflation-midterms-00024218">A sour and angry America poised to punish Dems this fall</a> Politico: Biden and his top advisers know that the window to change the economic narrative through executive action is rapidly closing. 
  <p class="updated_time"> 06:00 AM CT, Apr. 09 </p> 
@@ -284,8 +284,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/us/politics/walden-university-lawsuit.html">Lawsuit Charges Walden University Preyed on Black and Female Students</a> NYT: The suit claims Walden University not only misrepresented the costs and credits required for an advanced degree but also engaged in “reverse redlining” by targeting minority communities. 
  <p class="updated_time"> 03:20 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091769491/gop-congressman-madison-cawthorn-has-ruffled-feathers-in-his-1st-term">GOP Congressman Madison Cawthorn has ruffled feathers in his 1st term</a> NPR: GOP Rep. Madison Cawthorn has drawn several Republican primary challengers in his western North Carolina district. How are voters there feeling about the controversial congressman? 
- <p class="updated_time"> 03:20 PM CT, Apr. 08 </p> 
- <a href="https://www.npr.org/2022/04/08/1091769470/dr-anthony-fauci-talks-about-vaccine-efficacy-and-second-boosters">Dr. Anthony Fauci talks about vaccine efficacy and second boosters</a> NPR: NPR's Ailsa Chang speaks with Dr. Anthony Fauci, chief medical adviser to President Biden, about the new study on vaccines and the current COVID-19 wave. 
  <p class="updated_time"> 02:47 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/politics/russia-sanctions-effectiveness-adeyemo.html">Treasury Aims for Economic Pain on Russia, but Critics Question Effectiveness</a> NYT: The Treasury Department’s deputy secretary, Wally Adeyemo, has been leading the effort to crack down on evasion and to coordinate with Europe. 
  <p class="updated_time"> 01:25 PM CT, Apr. 08 </p> 
@@ -318,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/07/senate-covid-aid-border-policy-00023790">Senate punts $10 billion in Covid aid until after Easter amid stalemate over border policy</a> Politico: Democrats had grudgingly settled for a far smaller Covid aid package than they wanted and that federal officials and public health advocates say is needed. 
  <p class="updated_time"> 09:04 AM CT, Apr. 07 </p> 
  <a href="https://www.cnn.com/2022/03/03/politics/putin-war-crimes-russia-ukraine-us-what-matters/index.html">Here's how war crimes prosecutions work</a> CNN: Shocking atrocities in Ukraine, allegedly at the hands of Russian forces, have amplified calls to pursue war crimes charges against Russian President Vladimir Putin. 
- <p class="updated_time"> 08:24 AM CT, Apr. 07 </p> 
- <a href="https://www.cnn.com/2022/04/07/politics/shadow-docket-supreme-court/index.html">Here's what the 'shadow docket' is and how the Supreme Court uses it</a> CNN: Chief Justice John Roberts turned heads this week when he criticized how the Supreme Court's conservatives used the emergency docket, referred to by some as the shadow docket. 
 
 
 </details>
