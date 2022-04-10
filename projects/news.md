@@ -9,16 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:07 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 07:35 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">Live Updates: Turnout Is Lower as Voting Begins in French Presidential Race</a> NYT: President Emmanuel Macron is expected to finish first after a muted campaign. Polls suggest that he’s likely to face the far-right leader Marine Le Pen in the second round, in a rematch of their 2017 runoff. 
- <p class="updated_time"> 07:07 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 07:28 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Keeps Up Attacks in the East, Striking Civilian Areas</a> NYT: A school was among the targets hit on Sunday, although officials reported no casualties. At a train station where dozens were killed in a missile strike on Friday, one survivor said, “The town is dead now.” 
+ <p class="updated_time"> 07:24 AM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091927632/shanghai-locks-down-in-an-attempt-to-curb-covid-19-cases">Shanghai locks down in an attempt to curb COVID-19 cases</a> NPR: Ayesha Rascoe speaks with Plastics News Shanghai correspondent Rebecca Kanthor about the ongoing lockdown there. 
+ <p class="updated_time"> 07:15 AM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091927618/sweden-and-finland-consider-joining-nato-amidst-ukraine-russia-war">Sweden and Finland consider joining NATO amidst Ukraine-Russia war</a> NPR: As Russia continues to wage war in Ukraine, Sweden and Finland are considering joining NATO. Ayesha Rascoe asks former U.S. ambassador to NATO Ivo Daalder about the implications. 
+ <p class="updated_time"> 07:14 AM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091927611/a-ukrainian-doctor-shares-her-experience-caring-for-war-refugees">A Ukrainian doctor shares her experience caring for war refugees</a> NPR: Ayesha Rascoe speaks with Dr. Joanne Liu of Doctors Without Borders about caring for Ukrainian war refugees. 
  <p class="updated_time"> 07:01 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927160/pakistans-pm-vows-to-fight-on-after-parliament-ousts-him">Pakistan's PM vows to fight on after Parliament ousts him</a> NPR: Following his ousting in a no-confidence vote, Imran Khan  called on his supporters to take to the streets in protest, while the political opposition prepare to install his replacement. 
- <p class="updated_time"> 06:12 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 06:49 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Send Reinforcements for Pitched Battles in Conflict’s Next Phase</a> WSJ: Ukraine, Russia Send Reinforcements for Pitched Battles in Conflict’s Next Phase 
  <p class="updated_time"> 05:55 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61053927?at_medium=RSS&at_campaign=KARANGA">Ronaldo: Police investigating after Manchester United forward appears to break fan's phone</a> BBC: Merseyside Police are investigating an alleged assault after Manchester United forward Cristiano Ronaldo appeared to break a fan's phone. 
+ <p class="updated_time"> 05:49 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">Macron Faces Tough Challenge From Le Pen in French Election</a> WSJ: Macron Faces Tough Challenge From Le Pen in French Election 
  <p class="updated_time"> 05:39 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
  <p class="updated_time"> 05:31 AM CT, Apr. 10 </p> 
@@ -27,22 +35,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/10/world/europe/rishi-sunak-taxes-uk.html">A Popular British Politician Falls From Grace Over a Tax Scandal</a> NYT: Rishi Sunak was once considered a potential successor to Prime Minister Boris Johnson. Now he faces scrutiny over his wealthy wife’s tax status, and over holding an American green card while in office. 
  <p class="updated_time"> 05:18 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61049717?at_medium=RSS&at_campaign=KARANGA">French election: Macron faces far-right challenge as France votes</a> BBC: The opening round of the French presidential race could become a cliffhanger for Emmanuel Macron. 
- <p class="updated_time"> 05:12 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">Macron Faces Tough Challenge From Le Pen in French Election</a> WSJ: Macron Faces Tough Challenge From Le Pen in French Election 
+ <p class="updated_time"> 04:49 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote 
  <p class="updated_time"> 04:33 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61055915?at_medium=RSS&at_campaign=KARANGA">Australia election: PM Scott Morrison calls poll for 21 May</a> BBC: Prime Minister Scott Morrison announced the date after seeing the Governor General in Canberra. 
- <p class="updated_time"> 04:12 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/supporters-of-pakistans-imran-khan-defy-top-court-block-vote-in-parliament-11649522558">Pakistani Leader Imran Khan Ousted After No-Confidence Vote</a> WSJ: Pakistani Leader Imran Khan Ousted After No-Confidence Vote 
  <p class="updated_time"> 04:00 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091857410/even-with-ties-ukrainian-families-struggle-to-reach-the-united-states">Even with ties, Ukrainian families struggle to reach the United States</a> NPR: Olena Kopchak, her husband and their 8-year-old daughter, Yana, are among the growing number of Ukrainians who are trying to make it to the United States — and confronting obstacles. 
- <p class="updated_time"> 03:12 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 03:49 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 03:05 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/imran-khan-pakistan-ousted.html">Imran Khan Ousted as Pakistan’s Prime Minister</a> NYT: The country will now face early elections after days of brinkmanship in which Mr. Khan tried to dissolve Parliament to head off the no-confidence vote. 
+ <p class="updated_time"> 02:49 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-has-recorded-more-than-130-000-covid-casesand-no-deaths-11649588402">Shanghai Has Recorded More Than 130,000 Covid Cases—and No Deaths</a> WSJ: Shanghai Has Recorded More Than 130,000 Covid Cases—and No Deaths 
  <p class="updated_time"> 02:13 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/australian-leader-seeks-come-from-behind-win-in-election-called-for-may-11649560093">Australian Leader Sets May Election as Inflation Concerns Rise</a> WSJ: Prime Minister Scott Morrison’s party is down in the polls, with the vote potentially hinging on economic issues and national security. 
- <p class="updated_time"> 02:12 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/shanghai-has-recorded-more-than-130-000-covid-casesand-no-deaths-11649588402">Shanghai Has Recorded More Than 130,000 Covid Cases—and No Deaths</a> WSJ: Shanghai Has Recorded More Than 130,000 Covid Cases—and No Deaths 
  <p class="updated_time"> 02:00 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/australia/sydney-coronavirus-homecoming.html">An Australia Homecoming, Mixed With Yearning and Trepidation</a> NYT: When “Fortress Australia” sealed its borders, thousands of citizens were stuck abroad. When allowed to return home, a reporter wondered how she would find the country — and how it would find her. 
  <p class="updated_time"> 02:00 AM CT, Apr. 10 </p> 
@@ -95,10 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/09/1091902359/what-romania-would-like-to-see-nato-do-in-ukraine">What Romania would like to see NATO do in Ukraine</a> NPR: NPR's Michel Martin speaks to Simona Cojocaru, State Secretary at Romania's Ministry of Defense, about the military situation in Ukraine. 
  <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091902352/the-network-in-romania-to-help-ukrainian-refugees">The network in Romania to help Ukrainian refugees</a> NPR: Romania has received more than 600,000 refugees from Ukraine. NGOs, local governments, and volunteers have quickly set up an extensive network to feed, house and provide medical care to them. 
- <p class="updated_time"> 03:28 PM CT, Apr. 09 </p> 
- <a href="https://www.npr.org/2022/04/09/1091903165/pakistan-imran-khan-parliament">Imran Khan has been ousted as Pakistan's prime minister</a> NPR: The no confidence vote came after the speaker of the house resigned, saying he could not oversee the ouster of his close ally of 30 years, and after Khan's own lawmakers delayed the vote. 
- <p class="updated_time"> 03:27 PM CT, Apr. 09 </p> 
- <a href="https://www.npr.org/2022/04/09/1091691105/russia-ukraine-war-what-happened-today-april-9">Russia-Ukraine war: What happened today (April 9) </a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:05 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/boris-johnson-kyiv-ukraine-aid.html">Boris Johnson Visits Kyiv As Britain Promises Aid to Ukraine</a> NYT: Mr. Johnson, an enthusiastic supporter of President Volodymyr Zelensky of Ukraine, walked with him and a group of soldiers through the streets of the capital, Kyiv. 
  <p class="updated_time"> 02:36 PM CT, Apr. 09 </p> 
@@ -111,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-chernobyl.html">Russian Blunders in Chernobyl: ‘They Came and Did Whatever They Wanted’</a> NYT: Tank treads ripped up the toxic soil, bulldozers carved trenches and bunkers, and soldiers spent a month camped in — and dug into — a radioactive forest. 
  <p class="updated_time"> 09:29 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-train-station-attack.html">Photos From Kramatorsk After the Rocket Assault</a> NYT: A railway station in eastern Ukraine had been a main departure point for people seeking to escape an expected Russian onslaught. A rocket assault left at least 50 dead. 
- <p class="updated_time"> 07:01 AM CT, Apr. 09 </p> 
- <a href="https://www.npr.org/2022/04/09/1091859815/yemens-president-steps-down-in-effort-to-end-7-year-civil-war">Yemen's president steps down in effort to end 7-year civil war</a> NPR: Scott Simon speaks to Yemen analyst Nadwa Al-Dawsari about the Yemeni president's transfer of power and its significance. 
  <p class="updated_time"> 06:50 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/eu-putin-sanctions-daughters.html">Latest E.U. Sanctions Get Personal With Putin’s Daughters and Confidantes.</a> NYT: The targets included one of the most trusted technocrats in Mr. Putin’s economic policy team and the head of a construction empire who used to practice judo with the Russian leader. 
  <p class="updated_time"> 06:35 AM CT, Apr. 09 </p> 
@@ -196,6 +196,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:25 AM CT, Apr. 10 </p> 
+ <a href="https://www.politico.com/news/2022/04/10/pope-easter-truce-ukraine-russia-00024277">Pope Francis calls for an Easter truce in Ukraine</a> Politico: He was celebrating Palm Sunday Mass before crowds in St. Peter’s Square for the first time since the pandemic. 
+ <p class="updated_time"> 07:22 AM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091927625/after-232-years-ketanji-brown-jackson-is-the-first-black-woman-on-the-supreme-co">After 232 years, Ketanji Brown Jackson is the first Black woman on the Supreme Court</a> NPR: Ayesha Rascoe asks Biden administration strategist Minyon Moore about Biden's successful nomination of Ketanji Brown Jackson to the Supreme Court. 
+ <p class="updated_time"> 07:11 AM CT, Apr. 10 </p> 
+ <a href="https://www.politico.com/news/2022/04/10/zelenskyy-russian-aggression-ukraine-00024276">Zelenskyy: Russian aggression not limited to Ukraine</a> Politico: His address came as civilians continued to flee the eastern parts of his country. 
  <p class="updated_time"> 06:01 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091543359/15-states-dont-say-gay-anti-transgender-bills">Not just Florida. More than a dozen states propose so-called 'Don't Say Gay' bills</a> NPR: The specific details regarding the bills vary between state. But overall, they seek to prohibit schools from using a curriculum or discussing topics of gender identity or sexual orientation. 
  <p class="updated_time"> 06:00 AM CT, Apr. 10 </p> 
@@ -254,8 +260,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/08/stop-the-steal-organizer-cooperating-justice-department-00024247">'Stop the Steal' organizer says he received a grand jury subpoena for Jan. 6 probe</a> Politico: Ali Alexander has previously testified to the Jan. 6 select committee. 
  <p class="updated_time"> 07:35 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/politics/donald-trump-jr-meadows-text-message.html">Donald Trump Jr. Text Laid Out Strategies to Fight Election Outcome</a> NYT: In a message two days after Election Day 2020, the president’s son conveyed a range of ideas for keeping his father in office. 
- <p class="updated_time"> 06:30 PM CT, Apr. 08 </p> 
- <a href="https://www.politico.com/news/2022/04/08/foreign-national-trump-donation-fine-00024240">Campaign finance watchdog issues massive fine for foreign national’s Trump super PAC donation</a> Politico: The FEC fined Canadian billionaire Barry Zekelman's companies $975,000. 
  <p class="updated_time"> 06:00 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/politics/capitol-hill-fox-history.html">Foxes and D.C. Politicians Don’t Mix, As This Week and History Show</a> NYT: The nation’s founding fathers hunted foxes for sport. This week, a rabid fox that bit nine people near the U.S. Capitol led to a very different type of hunt. 
  <p class="updated_time"> 05:55 PM CT, Apr. 08 </p> 
@@ -286,8 +290,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/08/supreme-court-republicans-00024108">The Supreme Court question Republicans won't answer</a> Politico: They could have a Senate majority in 2023. But they won't say, definitively, how they would treat another Joe Biden Supreme Court nominee. 
  <p class="updated_time"> 12:50 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091711705/us-missile-defense-system-slovakia-ukraine">U.S. to place Patriot missile defense system in Slovakia to help with Ukraine swap</a> NPR: Defense Secretary Lloyd Austin said the missile defense system, which will be manned by U.S. service members, will arrive in Slovakia in the coming days. 
- <p class="updated_time"> 12:42 PM CT, Apr. 08 </p> 
- <a href="https://www.npr.org/2022/04/08/1091693738/proud-boy-leader-pleads-guilty-to-jan-6-conspiracy-agrees-to-cooperate-with-doj">Proud Boy leader pleads guilty to Jan. 6 conspiracy, agrees to cooperate with DOJ</a> NPR: Charles Donohoe, the leader of a North Carolina Proud Boys chapter, has pleaded guilty to conspiracy and agreed to cooperate with the federal investigation into the Jan. 6 attack on the US Capitol. 
  <p class="updated_time"> 11:08 AM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/democrats-biden-gun-control-00024097">Democrats exasperated with Biden on gun control</a> Politico: "It's time for more urgency from the administration," says Sen. Chris Murphy, an ally of the president. 
  <p class="updated_time"> 10:45 AM CT, Apr. 08 </p> 
