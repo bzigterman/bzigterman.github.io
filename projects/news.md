@@ -9,34 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:40 PM CT, Apr. 10 </p> 
+ <p class="updated_time"> 01:55 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">French Election Live Updates: It’s Macron vs. Le Pen, Projections Show</a> NYT: President Emmanuel Macron will again face the far-right leader Marine Le Pen in a runoff. He will go into the second round as the favorite, having fared a little better than the latest opinion polls suggested. 
- <p class="updated_time"> 01:38 PM CT, Apr. 10 </p> 
+ <p class="updated_time"> 01:54 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">Ukraine Live Updates: Civilians Rush to Flee as Russian Troops Mass in the East</a> NYT: U.S. military officials said they expect Russia to carry out a major offensive from the city of Izium to Dnipro, a strategic target in eastern Ukraine. At a train station where dozens were killed in a missile strike on Friday, one survivor said, “The town is dead now.” 
+ <p class="updated_time"> 01:48 PM CT, Apr. 10 </p> 
+ <a href="https://www.npr.org/2022/04/10/1091937252/spain-taxidermy-collection-extinct-protected-animals">Spain investigates private taxidermy collection with more than 1,000 animals</a> NPR: Species of cheetah, leopard, polar bear, rhinoceros, along with nearly 200 ivory elephant tusks, were among the extensive collection, valued at more than $31 million. 
  <p class="updated_time"> 01:38 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/ukraine-farmers-food.html">War’s Disruption to Ukraine’s Farms Seeds Global Food Crisis</a> NYT: The Russian invasion is pummeling Ukraine’s agriculture, threatening harvests in Europe’s breadbasket and contributing to a global food crisis. 
  <p class="updated_time"> 01:06 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/ukraine-draft-dodgers.html">Ukraine’s Draft Dodgers Face Guilt, Shame and Reproach</a> NYT: Thousands of Ukrainian men are avoiding military service, putting them on risky paths into Europe. Among Ukrainians, it’s stirring a complicated debate. 
  <p class="updated_time"> 01:01 PM CT, Apr. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61060916?at_medium=RSS&at_campaign=KARANGA">Spanish police seize huge haul of illegal stuffed animals</a> BBC: The Guardia Civil found more than 1,000 specimens including extinct and endangered species. 
- <p class="updated_time"> 12:50 PM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
- <p class="updated_time"> 11:50 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/european-countries-debate-how-to-cut-purchases-of-russian-oil-11649595841">Europe Debates How to Cut Purchases of Russian Oil</a> WSJ: Europe Debates How to Cut Purchases of Russian Oil 
- <p class="updated_time"> 10:50 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603">Israel’s ‘War Between the Wars’ With Iran Expands Across Middle East</a> WSJ: Israel’s ‘War Between the Wars’ With Iran Expands Across Middle East 
+ <p class="updated_time"> 01:01 PM CT, Apr. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61060916?at_medium=RSS&at_campaign=KARANGA">Spanish police seize huge haul of illegal stuffed animals</a> BBC: The Guardia Civil found more than 1,000 specimens including extinct and endangered species. 
+ <p class="updated_time"> 12:01 PM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election</a> WSJ: France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election 
+ <p class="updated_time"> 11:01 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603">Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East</a> WSJ: Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East 
  <p class="updated_time"> 10:19 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/middleeast/israel-ukraine-russia-oligarchs.html">Israel’s Ukraine Policy Prompts Scrutiny of Russian-Israeli Oligarchs</a> NYT: Israel has expressed solidarity with Ukraine but avoided direct criticism of Russia, raising questions about Russian-Israeli businessmen close to the Kremlin. 
  <p class="updated_time"> 10:05 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/volunteer-bus-drivers-refugees-ukraine.html">Volunteer Bus Drivers Help Refugees Escape from Eastern Ukraine</a> NYT: After a Russian strike killed more than 50 people at a train station, Ukrainians are accelerating efforts to evacuate by road. 
- <p class="updated_time"> 09:50 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">Macron Faces Tough Challenge From Le Pen in French Election</a> WSJ: Macron Faces Tough Challenge From Le Pen in French Election 
+ <p class="updated_time"> 10:01 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/european-countries-debate-how-to-cut-purchases-of-russian-oil-11649595841">Europe Debates How to Cut Purchases of Russian Oil</a> WSJ: Europe Debates How to Cut Purchases of Russian Oil 
  <p class="updated_time"> 09:20 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/chanel-russian-influencers-ukraine.html">Why Russian Influencers Are Cutting Up Their Chanel Bags</a> NYT: The iconic French brand is asking customers to attest that they will not use their newly purchased items in Russia, sparking a social media protest. 
+ <p class="updated_time"> 09:01 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 08:56 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61057247?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The foreign fighters supporting the Ukrainian army</a> BBC: A former British Army soldier is among the international volunteers supporting the Ukrainian war effort. 
- <p class="updated_time"> 08:50 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 08:23 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091929949/palm-sunday-pope-francis-ukraine">In the Palm Sunday Mass, Pope Francis pushes for peace in Ukraine </a> NPR: Celebrating Palm Sunday Mass before crowds in St. Peter's Square for the first time since the pandemic, Pope Francis called for a truce. 
  <p class="updated_time"> 08:12 AM CT, Apr. 10 </p> 
@@ -106,13 +108,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:22 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/russia-ukraine-general-kramatorsk.html">Russia Shuffles Command in Ukraine as Thousands Flee the East</a> NYT: The Russian campaign will be consolidated under a veteran of the Syrian war, while Western nations pump additional arms into Ukraine. 
  <p class="updated_time"> 04:28 PM CT, Apr. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61055105?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Disbelief and horror after Krematorsk train station attack</a> BBC: The people of Krematorsk are coming to terms with a strike on a train station that killed more than 50. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61055105?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Disbelief and horror after Kramatorsk train station attack</a> BBC: The people of Kramatorsk are coming to terms with a strike on a train station that killed more than 50. 
  <p class="updated_time"> 04:02 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-ukraine-russia.html">Putin’s War in Ukraine Shatters an Illusion in Russia</a> NYT: Russians long lived with an understanding: Stay away from politics, and live your life as you choose. The war in Ukraine wrecked that idea. 
  <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
  <a href="https://www.npr.org/2022/04/09/1091902394/what-romanians-think-of-their-countrys-response-to-ukrainian-refugees">What Romanians think of their country's response to Ukrainian refugees</a> NPR: NPR's Michel Martin speaks with Radu Umbres, an anthropologist and university lecturer in Bucharest, about why so many Romanians have been surprised by the country's response to the refugee crisis. 
- <p class="updated_time"> 03:48 PM CT, Apr. 09 </p> 
- <a href="https://www.npr.org/2022/04/09/1091902387/volunteers-in-romania-are-working-at-a-call-center-to-help-ukrainian-refugees">Volunteers in Romania are working at a call center to help Ukrainian refugees</a> NPR: At the Call Center de Solidaritate, volunteers answer calls as they come in. On the other end of the line is a Ukrainian refugee in search of assistance. 
  <p class="updated_time"> 03:05 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/boris-johnson-kyiv-ukraine-aid.html">Boris Johnson Visits Kyiv As Britain Promises Aid to Ukraine</a> NYT: Mr. Johnson, an enthusiastic supporter of President Volodymyr Zelensky of Ukraine, walked with him and a group of soldiers through the streets of the capital, Kyiv. 
  <p class="updated_time"> 02:06 PM CT, Apr. 09 </p> 
@@ -196,6 +196,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:48 PM CT, Apr. 10 </p> 
+ <a href="https://www.politico.com/gallery/2022/04/10/france-presidential-election-voting-00024302">Photos: The French election</a> Politico: Sunday April 10 marked round one of the voting in France's 2022 presidential election. Russia's invasion of Ukraine created a complicated new subtext for the election, in which President Emmanuel Macron is seeking a second term against candidates both to the left and right of him. 
  <p class="updated_time"> 12:30 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/us/politics/jan-6-trump-criminal-referral.html">Jan. 6 Panel Has Evidence for Criminal Referral of Trump, but Splits on Sending</a> NYT: Despite concluding that it has enough evidence, the committee is concerned that making a referral to the Justice Department would backfire by politicizing the investigation into the Capitol riot. 
  <p class="updated_time"> 12:20 PM CT, Apr. 10 </p> 
