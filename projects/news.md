@@ -9,24 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:24 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 11:49 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">Live Updates: Turnout Is Lower as Presidential Vote Nears Conclusion in France</a> NYT: President Emmanuel Macron is expected to finish first, and may again face the far-right leader Marine Le Pen in the second round. After a muted campaign, voters expressed disillusionment, with one saying, “We don’t have many expectations.” 
- <p class="updated_time"> 10:50 AM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Keeps Up Attacks in the East, Striking Civilian Areas</a> NYT: A school was among the targets hit on Sunday, although officials reported no casualties. At a train station where dozens were killed in a missile strike on Friday, one survivor said, “The town is dead now.” 
- <p class="updated_time"> 10:29 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 11:38 AM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">Ukraine Live Updates: Civilians Rush to Flee as Russian Troops Mass in the East</a> NYT: U.S. military officials said they expect Russia to carry out a major offensive from the city of Izium to Dnipro, a strategic target in eastern Ukraine. At a train station where dozens were killed in a missile strike on Friday, one survivor said, “The town is dead now.” 
+ <p class="updated_time"> 10:57 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
  <p class="updated_time"> 10:19 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/middleeast/israel-ukraine-russia-oligarchs.html">Israel’s Ukraine Policy Prompts Scrutiny of Russian-Israeli Oligarchs</a> NYT: Israel has expressed solidarity with Ukraine but avoided direct criticism of Russia, raising questions about Russian-Israeli businessmen close to the Kremlin. 
  <p class="updated_time"> 10:05 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/volunteer-bus-drivers-refugees-ukraine.html">Volunteer Bus Drivers Help Refugees Escape from Eastern Ukraine</a> NYT: After a Russian strike killed more than 50 people at a train station, Ukrainians are accelerating efforts to evacuate by road. 
- <p class="updated_time"> 09:29 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 09:57 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/european-countries-debate-how-to-cut-purchases-of-russian-oil-11649595841">Europe Debates How to Cut Purchases of Russian Oil</a> WSJ: Europe Debates How to Cut Purchases of Russian Oil 
  <p class="updated_time"> 09:20 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/chanel-russian-influencers-ukraine.html">Why Russian Influencers Are Cutting Up Their Chanel Bags</a> NYT: The iconic French brand is asking customers to attest that they will not use their newly purchased items in Russia, sparking a social media protest. 
+ <p class="updated_time"> 08:57 AM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603">Israel’s ‘War Between the Wars’ With Iran Expands Across Middle East</a> WSJ: Israel’s ‘War Between the Wars’ With Iran Expands Across Middle East 
  <p class="updated_time"> 08:56 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61057247?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The foreign fighters supporting the Ukrainian army</a> BBC: A former British Army soldier is among the international volunteers supporting the Ukrainian war effort. 
- <p class="updated_time"> 08:29 AM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603">Israel’s ‘War Between the Wars’ With Iran Expands Across Middle East</a> WSJ: Israel’s ‘War Between the Wars’ With Iran Expands Across Middle East 
  <p class="updated_time"> 08:23 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091929949/palm-sunday-pope-francis-ukraine">In the Palm Sunday Mass, Pope Francis pushes for peace in Ukraine </a> NPR: Celebrating Palm Sunday Mass before crowds in St. Peter's Square for the first time since the pandemic, Pope Francis called for a truce. 
  <p class="updated_time"> 08:12 AM CT, Apr. 10 </p> 
@@ -39,7 +39,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/10/world/asia/sundarbans-mangroves-india-bangladesh.html">Facing Disastrous Floods, They Turned to Mangrove Trees for Protection</a> NYT: In the Sundarbans, an ecological treasure straddling India and Bangladesh that is now on the front lines of climate change, local women are leading an effort to mitigate the dangers of rising waters. 
  <p class="updated_time"> 08:07 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927674/the-ukraine-russia-conflict-appears-to-be-entering-a-new-phase">The Ukraine-Russia conflict appears to be entering a new phase</a> NPR: Russia is preparing to launch another offensive, this time concentrating its attacks on the eastern part of Ukraine. 
- <p class="updated_time"> 07:29 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 07:57 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">Macron Faces Tough Challenge From Le Pen in French Election</a> WSJ: Macron Faces Tough Challenge From Le Pen in French Election 
  <p class="updated_time"> 07:24 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927632/shanghai-locks-down-in-an-attempt-to-curb-covid-19-cases">Shanghai locks down in an attempt to curb COVID-19 cases</a> NPR: Ayesha Rascoe speaks with Plastics News Shanghai correspondent Rebecca Kanthor about the ongoing lockdown there. 
@@ -49,7 +49,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/10/1091927611/a-ukrainian-doctor-shares-her-experience-caring-for-war-refugees">A doctor in Ukraine shares her experience caring for war refugees</a> NPR: Ayesha Rascoe speaks with Dr. Joanne Liu of Doctors Without Borders about caring for Ukrainian war refugees. 
  <p class="updated_time"> 07:01 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927160/pakistan-prime-minister-imran-khan-parliament-ousted">Pakistan's prime minister vows to fight on after Parliament ousts him</a> NPR: Imran Khan called on his supporters to take to the streets in protest while the political opposition prepare to install his replacement. 
- <p class="updated_time"> 06:29 AM CT, Apr. 10 </p> 
+ <p class="updated_time"> 06:57 AM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 05:55 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61053927?at_medium=RSS&at_campaign=KARANGA">Ronaldo: Police investigating after Manchester United forward appears to break fan's phone</a> BBC: Merseyside Police are investigating an alleged assault after Manchester United forward Cristiano Ronaldo appeared to break a fan's phone. 
@@ -197,7 +197,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:11 AM CT, Apr. 10 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:09 AM CT, Apr. 10 </p> 
- <a href="https://www.politico.com/news/2022/04/10/gas-prices-inflation-putin-biden-00024289">Most Americans blame Putin and oil companies for higher gas prices</a> Politico: A majority also placed blame on President Joe Biden. 
+ <a href="https://www.politico.com/news/2022/04/10/gas-prices-inflation-putin-biden-00024289">Most Americans blame Putin and oil companies for higher gas prices, poll indicates</a> Politico: A majority also placed blame on President Joe Biden. 
  <p class="updated_time"> 10:49 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/us/politics/jan-6-trump-criminal-referral.html">Jan. 6 Panel Has Evidence for Criminal Referral of Trump, but Splits on Sending</a> NYT: Despite concluding that it has enough evidence, the committee is concerned that making a referral to the Justice Department would backfire by politicizing the investigation into the Capitol riot. 
  <p class="updated_time"> 10:49 AM CT, Apr. 10 </p> 
