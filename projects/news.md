@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:19 AM CT, Apr. 11 </p> 
+ <p class="updated_time"> 05:41 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news">Ukraine Live Updates: Claims of Atrocities Mount as Russia Prepares a Renewed Offensive</a> NYT: As Ukrainian officials warn of a major Russian assault in the east, President Zelensky vowed: “We will respond.” Austria’s chancellor plans to meet President Putin in Moscow, making him the first European leader to do so since the war. 
+ <p class="updated_time"> 04:50 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
  <p class="updated_time"> 04:39 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61065967?at_medium=RSS&at_campaign=KARANGA">López Obrador wins Mexico recall vote amid low turnout</a> BBC: Fewer than 20% of voters cast their ballots in the referendum, which the president himself called. 
- <p class="updated_time"> 04:36 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
  <p class="updated_time"> 04:27 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61064429?at_medium=RSS&at_campaign=KARANGA">Zelensky asked if he'll give Russia any part of Ukraine</a> BBC: Ukraine's president tells CBS' 60 Minutes he isn't ready to give away his country in return for peace. 
  <p class="updated_time"> 04:22 AM CT, Apr. 11 </p> 
@@ -29,21 +29,21 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/11/1091407334/college-podcast-challenge-winner">A Chinese student Americanized her name to fit in. It took more to feel she belonged</a> NPR: When Aria Young moved to the U.S., she adopted an Americanized name. Now, she's wondering how to hold on to the version of herself she left in China. 
  <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/us-russia-ukraine-war-crimes.html">U.S. Weighs Shift to Support Hague Court as It Investigates Russian Atrocities</a> NYT: The government is hamstrung from helping the world’s war-crimes court by two laws and a policy aimed at barring it from charging Americans. 
+ <p class="updated_time"> 03:50 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election</a> WSJ: France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election 
  <p class="updated_time"> 03:40 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/ukrainian-kramatorsk.html">A Stricken Ukrainian City Empties, and Those Left Fear What’s Next</a> NYT: After the deadly strike on the train station in Kramatorsk, Ukraine, those who stayed behind are grim about the future: “We think we will be swept off the face of the earth.” 
- <p class="updated_time"> 03:36 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election</a> WSJ: France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election 
  <p class="updated_time"> 03:22 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61063386?at_medium=RSS&at_campaign=KARANGA">Pakistan parliament to vote in new PM after Imran Khan ousted</a> BBC: Imran Khan's rival Shahbaz Sharif - the brother of a former PM - is expected to be the new leader. 
- <p class="updated_time"> 02:36 AM CT, Apr. 11 </p> 
+ <p class="updated_time"> 02:50 AM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603">Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East</a> WSJ: Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East 
  <p class="updated_time"> 02:28 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-61063905?at_medium=RSS&at_campaign=KARANGA">Elon Musk will not join Twitter board, says boss</a> BBC: Tesla's chief executive was due to join the social media platform's board after buying a 9.2% stake. 
  <p class="updated_time"> 02:00 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/europe/uk-fish-chips-inflation.html">‘Cheap as Chips’ No Longer True in U.K. as Prices Soar for a Favorite Meal</a> NYT: The costs for fish and chips, a working-class staple in Britain for well over a century, have rocketed as the war in Ukraine has made the main ingredients scarcer. Of 10,000 shops, 3,000 may close. 
- <p class="updated_time"> 01:36 AM CT, Apr. 11 </p> 
+ <p class="updated_time"> 01:50 AM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/european-countries-debate-how-to-cut-purchases-of-russian-oil-11649595841">Europe Debates How to Cut Purchases of Russian Oil</a> WSJ: Europe Debates How to Cut Purchases of Russian Oil 
- <p class="updated_time"> 12:36 AM CT, Apr. 11 </p> 
+ <p class="updated_time"> 12:50 AM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 12:33 AM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/what-is-the-u-s-s-long-term-policy-toward-russia-now-11649669581">What Is the U.S.'s Long-Term Policy Toward Russia Now?</a> WSJ: U.S. officials say it is far too soon to draw up a new long-term posture toward Russia, but some wonder what diplomatic and commercial relations would look like if a cease-fire were to be achieved in Ukraine. 
@@ -177,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/world/europe/gerda-weissmann-klein-dead.html">Gerda Weissmann Klein, Honored Holocaust Survivor, Dies at 97</a> NYT: Her story was told in an Oscar-winning documentary, and her message of hope and love in the face of overwhelming evil was an inspiration to millions. 
  <p class="updated_time"> 03:21 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/arts/design/finland-russia-art-seizure.html">Officials Say Russian Art, Seized by Finns, Should Return Home</a> NYT: Finnish custom officials had seized the art several days ago, but the Finns and European Union officials decided that art lent to museums for exhibit did not come under sanctions. 
- <p class="updated_time"> 02:36 PM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/08/world/americas/dhl-plane-costa-rica.html">A DHL Cargo Plane Breaks in Two Landing at a Costa Rica Airport</a> NYT: No one on board was injured, a spokesman for the delivery company said, adding that it was working with the authorities to remove the plane. 
  <p class="updated_time"> 01:25 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/business/economy/china-forced-labor.html">Supply Chains Tainted by Forced Labor in China, Panel Told</a> NYT: Human rights activists and others urged the Biden administration to cast a wide net to stop imports of products made with forced labor in Xinjiang. 
  <p class="updated_time"> 01:01 PM CT, Apr. 08 </p> 
@@ -263,7 +261,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091857410/even-with-ties-ukrainian-families-struggle-to-reach-the-united-states">Even with ties, Ukrainian families struggle to reach the United States</a> NPR: Olena Kopchak, her husband and their 8-year-old daughter, Yana, are among the growing number of Ukrainians who are trying to make it to the United States — and confronting obstacles. 
  <p class="updated_time"> 08:57 PM CT, Apr. 09 </p> 
- <a href="https://www.nytimes.com/2022/04/09/us/politics/trump-doctor-oz-senate-endorsement.html">Trump Endorses Dr. Oz in Pennsylvania Senate Race</a> NYT: The former president threw his weight behind the celebrity doctor, who is running for the Republican nomination for senator in a key state. 
+ <a href="https://www.nytimes.com/2022/04/09/us/politics/trump-doctor-oz-senate-endorsement.html">Trump endorses Dr. Oz in Pennsylvania Senate race </a> NYT: The former president threw his weight behind the celebrity doctor, who is running for the Republican nomination for senator in a key state. 
  <p class="updated_time"> 07:41 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/politics/trump-super-pac-illegal-donations.html">Donations Steered to Trump Super PAC by Canadian Deemed Illegal</a> NYT: The Federal Election Commission fined a Canadian steel billionaire, Barry Zekelman, $975,000 in the case, one of the biggest penalties it has ever assessed. 
  <p class="updated_time"> 05:10 PM CT, Apr. 09 </p> 
@@ -293,7 +291,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:00 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/politics/capitol-hill-fox-history.html">Foxes and D.C. Politicians Don’t Mix, As This Week and History Show</a> NYT: The nation’s founding fathers hunted foxes for sport. This week, a rabid fox that bit nine people near the U.S. Capitol led to a very different type of hunt. 
  <p class="updated_time"> 05:55 PM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/08/us/politics/january-6-investigation-ali-alexander.html">Pro-Trump Rally Planner Is Cooperating in Justice Dept.’s Jan. 6 Inquiry</a> NYT: Ali Alexander, who was a key figure in the “Stop the Steal” movement, said he had received a grand jury subpoena and would assist the expanding investigation. 
+ <a href="https://www.nytimes.com/2022/04/08/us/politics/january-6-investigation-ali-alexander.html">Pro-Trump Organizer Cooperating in Justice Dept Jan. 6 Inquiry</a> NYT: Ali Alexander, who was a key figure in the “Stop the Steal” movement, said he had received a grand jury subpoena and would assist the expanding investigation. 
  <p class="updated_time"> 04:01 PM CT, Apr. 08 </p> 
  <a href="https://www.npr.org/2022/04/08/1091589799/russia-ukraine-war-what-happened-today-april-8">Russia-Ukraine war: What happened today (April 8)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:51 PM CT, Apr. 08 </p> 
