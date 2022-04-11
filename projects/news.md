@@ -9,20 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:35 AM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news">Ukraine Live Updates: Claims of Atrocities Mount as Russia Prepares a Renewed Offensive</a> NYT: As Ukrainian officials warn of a major Russian assault in the east, President Zelensky vowed: “We will respond.” Austria’s chancellor was meeting with President Putin in Moscow, making him the first European leader to do so since the war. 
+ <p class="updated_time"> 09:48 AM CT, Apr. 11 </p> 
+ <a href="https://www.nytimes.com/2022/04/10/world/europe/french-presidential-election-macron-le-pen.html">Macron to Face Le Pen for President as French Gravitate Toward Extremes</a> NYT: President Emmanuel Macron and the hard-right leader Marine Le Pen will compete for a second time in a runoff on April 24. 
+ <p class="updated_time"> 09:46 AM CT, Apr. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news">Ukraine Live Updates: Claims of Atrocities Mount as Russia Prepares a Renewed Offensive</a> NYT: President Zelensky warned that “tens of thousands” of Russian troops were poised for a major assault in the east. France sent a team of experts to Ukraine to help document possible war crimes. 
+ <p class="updated_time"> 09:43 AM CT, Apr. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61071163?at_medium=RSS&at_campaign=KARANGA">Marina Ovsyannikova: German outlet hires Russian protester</a> BBC: Marina Ovsyannikova staged an anti-war protest during a live broadcast on Russian state TV news last month. 
+ <p class="updated_time"> 09:37 AM CT, Apr. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61068650?at_medium=RSS&at_campaign=KARANGA">Mariupol: Ukrainian marines warn of 'last battle' in besieged city</a> BBC: A brigade in the besieged port city warns it is running out ammunition as Russian soldiers close in. 
  <p class="updated_time"> 09:09 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1091997661/john-lennons-son-julian-performs-imagine-for-the-first-time-in-support-of-ukrain">John Lennon's son, Julian, performs 'Imagine' for the 1st time, in support of Ukraine</a> NPR: Lennon suggested that the song represents "our collective desire for peace worldwide" and that it transports listeners to a place "where love and togetherness become our reality." 
  <p class="updated_time"> 09:08 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/asia/pakistan-shehbaz-sharif-prime-minister.html">Shehbaz Sharif Becomes Interim Prime Minister of Pakistan</a> NYT: Mr. Sharif, whose family has been dogged by accusations of graft for decades, was selected by Pakistan’s Parliament at a time of deep political divisions and economic tumult. 
  <p class="updated_time"> 08:54 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61066503?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Russia warns Sweden and Finland against Nato membership</a> BBC: Kremlin spokesman Dmitry Peskov said the move won't bring stability to Europe. 
+ <p class="updated_time"> 08:53 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/video/headline/F849A6B0-B9D1-4208-829F-803D15051A67.html">Russians Cope With Ukraine War’s Fallout: Bulk Buying, Jobs in Limbo</a> WSJ: Russians Cope With Ukraine War’s Fallout: Bulk Buying, Jobs in Limbo 
  <p class="updated_time"> 08:44 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1091949189/russias-plan-a-in-ukraine-failed-heres-what-plan-b-could-look-like">Russia's Plan A in Ukraine failed. Here's what Plan B could look like</a> NPR: Ukraine's military has fought so effectively that Russia abandoned its initial plan, which envisioned a quick takeover of Kyiv. Now Russia has a new approach, which focuses on eastern Ukraine. 
- <p class="updated_time"> 08:39 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/video/headline/F849A6B0-B9D1-4208-829F-803D15051A67.html">Russians Cope With Ukraine War’s Fallout: Bulk Buying, Jobs in Limbo</a> WSJ: Russians Cope With Ukraine War’s Fallout: Bulk Buying, Jobs in Limbo 
- <p class="updated_time"> 08:36 AM CT, Apr. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61068650?at_medium=RSS&at_campaign=KARANGA">Mariupol: Ukrainian marines warn of 'last battle' in besieged city</a> BBC: A brigade in the besieged port city warns it is running out ammunition as Russian soldiers close in. 
  <p class="updated_time"> 08:34 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61068510?at_medium=RSS&at_campaign=KARANGA">Ayman Hadhoud: Questions over Egyptian economist's mysterious death</a> BBC: Official accounts as to what happened to Ayman Hadhoud differ, with his family seeking the truth. 
  <p class="updated_time"> 08:33 AM CT, Apr. 11 </p> 
@@ -30,29 +34,27 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:18 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/us-russia-ukraine-war-crimes.html">U.S. Weighs Shift to Support Hague Court as It Investigates Russian Atrocities</a> NYT: The government is hamstrung from helping the world’s war-crimes court by two laws and a policy aimed at barring it from charging Americans. 
  <p class="updated_time"> 08:05 AM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/world/asia/japan-military-russia-ukraine.html">With Threats All Around, Japan Moves to Shed Its Pacifist Constraints</a> NYT: Growing calls for more military spending after Russia’s invasion of Ukraine demonstrate Japan’s recognition that it must bolster its own deterrent power, not just rely on its U.S. alliance. 
+ <a href="https://www.nytimes.com/2022/04/11/world/asia/japan-military-russia-ukraine.html">Japan Sends Ukraine Military Equipment, Shedding Pacifist Constraints</a> NYT: Growing calls for more military spending after Russia’s invasion of Ukraine demonstrate Japan’s recognition that it must bolster its own deterrent power, not just rely on its U.S. alliance. 
+ <p class="updated_time"> 07:53 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
  <p class="updated_time"> 07:51 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61063386?at_medium=RSS&at_campaign=KARANGA">Pakistan: Shehbaz Sharif chosen as PM after week-long uncertainty</a> BBC: Shehbaz Sharif is the brother of a former prime minister and the rival of recently ousted Imran Khan. 
- <p class="updated_time"> 07:39 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
  <p class="updated_time"> 07:00 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/science/bioluminescence-photographers-new-zealand.html">These Photographers Chase Bioluminescence in New Zealand</a> NYT: Capturing bioluminescence, a phenomenon in which glowing algae give crashing waves an electric blue glow, requires technical skill and a bit of luck. 
  <p class="updated_time"> 06:57 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61067426?at_medium=RSS&at_campaign=KARANGA">French elections: Macron targets Le Pen as run-off campaign begins</a> BBC: The French president fires up his re-election campaign visiting a stronghold of his far-right rival. 
+ <p class="updated_time"> 06:53 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/what-is-the-u-s-s-long-term-policy-toward-russia-now-11649669581">What Is the U.S.’s Long-Term Policy Toward Russia Now?</a> WSJ: What Is the U.S.’s Long-Term Policy Toward Russia Now? 
  <p class="updated_time"> 06:52 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61067247?at_medium=RSS&at_campaign=KARANGA">Osinachi Nwachukwu: Nigeria gospel singer's husband arrested over death</a> BBC: Peter Nwachukwu is in police custody after his wife Osinachi Nwachukwu died on Friday in Abuja. 
- <p class="updated_time"> 06:51 AM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/10/world/europe/french-presidential-election-macron-le-pen.html">Macron to Face Le Pen for President as French Gravitate Toward Extremes</a> NYT: President Emmanuel Macron and the hard-right leader Marine Le Pen will compete for a second time in a runoff on April 24. 
- <p class="updated_time"> 06:39 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
  <p class="updated_time"> 05:57 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/chanel-russian-influencers-ukraine.html">Why Russian Influencers Are Cutting Up Their Chanel Bags</a> NYT: The iconic French brand is asking customers to attest that they will not use their newly purchased items in Russia, sparking a social media protest. 
- <p class="updated_time"> 05:39 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/what-is-the-u-s-s-long-term-policy-toward-russia-now-11649669581">What Is the U.S.’s Long-Term Policy Toward Russia Now?</a> WSJ: What Is the U.S.’s Long-Term Policy Toward Russia Now? 
+ <p class="updated_time"> 05:53 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-inflation-rises-as-lockdowns-ukraine-war-drive-up-prices-11649659509">China Inflation Rises as Lockdowns, Ukraine War Drive Up Prices</a> WSJ: China Inflation Rises as Lockdowns, Ukraine War Drive Up Prices 
+ <p class="updated_time"> 04:53 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
  <p class="updated_time"> 04:39 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61065967?at_medium=RSS&at_campaign=KARANGA">López Obrador wins Mexico recall vote amid low turnout</a> BBC: Fewer than 20% of voters cast their ballots in the referendum, which the president himself called. 
- <p class="updated_time"> 04:39 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/china-inflation-rises-as-lockdowns-ukraine-war-drive-up-prices-11649659509">China Inflation Rises as Lockdowns, Ukraine War Drive Up Prices</a> WSJ: China Inflation Rises as Lockdowns, Ukraine War Drive Up Prices 
  <p class="updated_time"> 04:27 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61064429?at_medium=RSS&at_campaign=KARANGA">Zelensky asked if he'll give Russia any part of Ukraine</a> BBC: Ukraine's president tells CBS' 60 Minutes he isn't ready to give away his country in return for peace. 
  <p class="updated_time"> 04:22 AM CT, Apr. 11 </p> 
@@ -71,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/mexican-president-wins-recall-referendum-marked-by-low-turnout-11649677321">Mexican President Wins Recall Referendum</a> WSJ: Andrés Manuel López Obrador secured an easy victory Sunday in a referendum over whether he should complete his six-year term. 
  <p class="updated_time"> 02:00 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/europe/uk-fish-chips-inflation.html">‘Cheap as Chips’ No Longer True in U.K. as Prices Soar for a Favorite Meal</a> NYT: The costs for fish and chips, a working-class staple in Britain for well over a century, have rocketed as the war in Ukraine has made the main ingredients scarcer. Of 10,000 shops, 3,000 may close. 
- <p class="updated_time"> 12:30 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France's Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: The leader of the National Rally party’s new approach, coupled with a significant rightward shift in French politics over the past five years, helped her win 22.9% of the estimated vote in the first round of France’s presidential election on Sunday. President Emmanuel Macron received 28.2%. 
  <p class="updated_time"> 12:26 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61064426?at_medium=RSS&at_campaign=KARANGA">Could Marine Le Pen win the French elections?</a> BBC: Marine Le Pen will go head-to-head with President Macron in an election run off in a fortnight. 
  <p class="updated_time"> 10:42 PM CT, Apr. 10 </p> 
@@ -99,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/10/world/asia/ukraine-draft-dodgers.html">Ukraine’s Draft Dodgers Face Guilt, Shame and Reproach</a> NYT: Thousands of Ukrainian men are avoiding military service, putting them on risky paths into Europe. Among Ukrainians, it’s stirring a complicated debate. 
  <p class="updated_time"> 03:54 PM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61062213?at_medium=RSS&at_campaign=KARANGA">Ukraine village scarred by aftermath of occupation</a> BBC: As Russian forces retreat to eastern Ukraine, Andriivka and other abandoned villages are left devastated. 
- <p class="updated_time"> 03:28 PM CT, Apr. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61061046?at_medium=RSS&at_campaign=KARANGA">French election: Macron pledges to create united France</a> BBC: Emmanuel Macron says he will unite "all the different convictions and beliefs" if re-elected. 
  <p class="updated_time"> 03:24 PM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61061359?at_medium=RSS&at_campaign=KARANGA">France election: This time it won’t be a walkover for Macron</a> BBC: Emmanuel Macron will face a run-off against Marine Le Pen, in what is far from a done deal. 
  <p class="updated_time"> 02:49 PM CT, Apr. 10 </p> 
@@ -202,14 +200,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:50 AM CT, Apr. 11 </p> 
+ <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-atf-steven-dettelbach.html">Biden Expected to Name Former Federal Prosecutor as A.T.F. Director</a> NYT: The president plans to tap Steven M. Dettelbach to run the troubled agency, seven months after withdrawing his previous nomination. 
  <p class="updated_time"> 09:13 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/homeless-students-texas.html">A One-Woman Rescue Squad for Homeless Students in Rural Texas</a> NYT: The work of Norma Mercado, a Texas school system’s point person for dealing with homeless young people, is benefiting from a big but temporary surge in federal funding. 
  <p class="updated_time"> 08:18 AM CT, Apr. 11 </p> 
  <a href="https://www.cnn.com/2022/03/03/politics/putin-war-crimes-russia-ukraine-us-what-matters/index.html">Here's how war crimes prosecutions work</a> CNN: Shocking atrocities in Ukraine, allegedly at the hands of Russian forces, have amplified calls to pursue war crimes charges against Russian President Vladimir Putin. 
  <p class="updated_time"> 08:18 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/us-russia-ukraine-war-crimes.html">U.S. Weighs Shift to Support Hague Court as It Investigates Russian Atrocities</a> NYT: The government is hamstrung from helping the world’s war-crimes court by two laws and a policy aimed at barring it from charging Americans. 
- <p class="updated_time"> 07:50 AM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-atf-steven-dettelbach.html">Biden Expected to Name Former Federal Prosecutor as A.T.F. Director</a> NYT: The president plans to tap Steven M. Dettelbach to run the troubled agency, seven months after withdrawing his previous nomination. 
  <p class="updated_time"> 07:44 AM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/new-crypto-pac-launches-00024364">New crypto PAC launches</a> Politico: Cryptocurrency interests are spending cash across the midterm election landscape. 
  <p class="updated_time"> 06:55 AM CT, Apr. 11 </p> 
