@@ -9,22 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:04 AM CT, Apr. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61066503?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Russia warns Sweden and Finland against Nato membership</a> BBC: Kremlin spokesman Dmitry Peskov said the move won't bring stability to Europe. 
  <p class="updated_time"> 06:01 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news">Ukraine Live Updates: Claims of Atrocities Mount as Russia Prepares a Renewed Offensive</a> NYT: As Ukrainian officials warn of a major Russian assault in the east, President Zelensky vowed: “We will respond.” Austria’s chancellor plans to meet President Putin in Moscow, making him the first European leader to do so since the war. 
  <p class="updated_time"> 05:57 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/chanel-russian-influencers-ukraine.html">Why Russian Influencers Are Cutting Up Their Chanel Bags</a> NYT: The iconic French brand is asking customers to attest that they will not use their newly purchased items in Russia, sparking a social media protest. 
- <p class="updated_time"> 05:50 AM CT, Apr. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61066503?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Russia warns Sweden and Finland against Nato membership</a> BBC: Kremlin spokesman Dmitry Peskov said the move won't bring stability to Europe. 
- <p class="updated_time"> 05:06 AM CT, Apr. 11 </p> 
+ <p class="updated_time"> 05:26 AM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
  <p class="updated_time"> 04:39 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61065967?at_medium=RSS&at_campaign=KARANGA">López Obrador wins Mexico recall vote amid low turnout</a> BBC: Fewer than 20% of voters cast their ballots in the referendum, which the president himself called. 
  <p class="updated_time"> 04:27 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61064429?at_medium=RSS&at_campaign=KARANGA">Zelensky asked if he'll give Russia any part of Ukraine</a> BBC: Ukraine's president tells CBS' 60 Minutes he isn't ready to give away his country in return for peace. 
+ <p class="updated_time"> 04:26 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election</a> WSJ: France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election 
  <p class="updated_time"> 04:22 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1091983070/pakistani-lawmakers-to-elect-new-prime-minister-after-imran-khan-ouster">Pakistani lawmakers to elect new prime minister after Imran Khan ouster</a> NPR: An opposition lawmaker and a brother of disgraced former prime minister appears as a leading contender to replace Khan. 
- <p class="updated_time"> 04:06 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election</a> WSJ: France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election 
  <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/health/this-psychiatric-hospital-used-to-chain-patients-now-it-treats-them.html">This Psychiatric Hospital Used to Chain Patients. Now It Treats Them.</a> NYT: Sierra Leone, one of the world’s poorest countries, is working to build a modern mental health system from scratch. 
  <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
@@ -37,17 +37,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/11/us/politics/us-russia-ukraine-war-crimes.html">U.S. Weighs Shift to Support Hague Court as It Investigates Russian Atrocities</a> NYT: The government is hamstrung from helping the world’s war-crimes court by two laws and a policy aimed at barring it from charging Americans. 
  <p class="updated_time"> 03:40 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/ukrainian-kramatorsk.html">A Stricken Ukrainian City Empties, and Those Left Fear What’s Next</a> NYT: After the deadly strike on the train station in Kramatorsk, Ukraine, those who stayed behind are grim about the future: “We think we will be swept off the face of the earth.” 
+ <p class="updated_time"> 03:26 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603">Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East</a> WSJ: Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East 
  <p class="updated_time"> 03:22 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61063386?at_medium=RSS&at_campaign=KARANGA">Pakistan parliament to vote in new PM after Imran Khan ousted</a> BBC: Imran Khan's rival Shahbaz Sharif - the brother of a former PM - is expected to be the new leader. 
- <p class="updated_time"> 03:06 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603">Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East</a> WSJ: Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East 
  <p class="updated_time"> 02:28 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-61063905?at_medium=RSS&at_campaign=KARANGA">Elon Musk will not join Twitter board, says boss</a> BBC: Tesla's chief executive was due to join the social media platform's board after buying a 9.2% stake. 
- <p class="updated_time"> 02:06 AM CT, Apr. 11 </p> 
+ <p class="updated_time"> 02:26 AM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/european-countries-debate-how-to-cut-purchases-of-russian-oil-11649595841">Europe Debates How to Cut Purchases of Russian Oil</a> WSJ: Europe Debates How to Cut Purchases of Russian Oil 
  <p class="updated_time"> 02:00 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/europe/uk-fish-chips-inflation.html">‘Cheap as Chips’ No Longer True in U.K. as Prices Soar for a Favorite Meal</a> NYT: The costs for fish and chips, a working-class staple in Britain for well over a century, have rocketed as the war in Ukraine has made the main ingredients scarcer. Of 10,000 shops, 3,000 may close. 
- <p class="updated_time"> 01:06 AM CT, Apr. 11 </p> 
+ <p class="updated_time"> 01:26 AM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 12:33 AM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/what-is-the-u-s-s-long-term-policy-toward-russia-now-11649669581">What Is the U.S.'s Long-Term Policy Toward Russia Now?</a> WSJ: U.S. officials say it is far too soon to draw up a new long-term posture toward Russia, but some wonder what diplomatic and commercial relations would look like if a cease-fire were to be achieved in Ukraine. 
@@ -95,6 +95,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61060916?at_medium=RSS&at_campaign=KARANGA">Spanish police seize huge haul of illegal stuffed animals</a> BBC: The Guardia Civil found more than 1,000 specimens including extinct and endangered species. 
  <p class="updated_time"> 10:19 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/middleeast/israel-ukraine-russia-oligarchs.html">Israel’s Ukraine Policy Prompts Scrutiny of Russian-Israeli Oligarchs</a> NYT: Israel has expressed solidarity with Ukraine but avoided direct criticism of Russia, raising questions about Russian-Israeli businessmen close to the Kremlin. 
+ <p class="updated_time"> 08:59 AM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/2022/04/10/world/asia/shanghai-lockdown-zero.html">Shanghai residents bristle as a lockdown enters a second week with more testing.</a> NYT: Residents are reaching “emotional tipping points” under the strict measures China has insisted on in handling the coronavirus, one commentator said. 
  <p class="updated_time"> 08:56 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61057247?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The foreign fighters supporting the Ukrainian army</a> BBC: A former British Army soldier is among the international volunteers supporting the Ukrainian war effort. 
  <p class="updated_time"> 08:23 AM CT, Apr. 10 </p> 
@@ -163,8 +165,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/09/world/asia/japan-russia-ukraine.html">Japan Aligns With U.S. and Europe in Penalizing Russia Over Ukraine War</a> NYT: The country has announced a ban on Russian coal and restrictions on imports including timber, vodka and machinery. It is also expelling eight Russian diplomats. 
  <p class="updated_time"> 11:36 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/middleeast/saudi-arabia-hajj-pandemic-rules.html">Saudi Arabia will allow a million hajj pilgrims to visit Mecca, with Covid precautions.</a> NYT: Vaccinations and negative tests will be required for those who attend the annual ritual. 
- <p class="updated_time"> 10:54 PM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/08/world/india-covid-booster-shots.html">India Approves Booster Shots for Adults Between Ages 18 and 60</a> NYT: Experts said that one reason for the shift was that many Indians were finding it hard to travel abroad without booster certificates. 
  <p class="updated_time"> 10:48 PM CT, Apr. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61048256?at_medium=RSS&at_campaign=KARANGA">Inside Chernobyl: We stole Russian fuel to prevent catastrophe</a> BBC: Staff at the former nuclear plant tell the BBC they were forced to negotiate when Russian forces took over. 
  <p class="updated_time"> 06:40 PM CT, Apr. 08 </p> 
@@ -188,6 +188,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:07 AM CT, Apr. 11 </p> 
+ <a href="https://www.politico.com/news/2022/04/11/biden-new-atf-chief-00024358">Biden nominates new ATF chief, announces slate of gun reforms</a> Politico: The president and Deputy Attorney General Lisa Monaco are scheduled to address the administration’s measures in the White House Rose Garden. 
  <p class="updated_time"> 04:07 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1091980593/biden-will-announce-steps-to-curb-gun-violence-in-the-u-s">Biden will announce steps to curb gun violence in the U.S. </a> NPR: The action includes finalizing regulations that deal with ghost guns — weapons that do not have serial numbers that can be used to track them and are sometimes sold as kits to be assembled at home. 
  <p class="updated_time"> 04:07 AM CT, Apr. 11 </p> 
@@ -266,6 +268,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/09/us/politics/trump-doctor-oz-senate-endorsement.html">Trump endorses Dr. Oz in Pennsylvania Senate race </a> NYT: The former president threw his weight behind the celebrity doctor, who is running for the Republican nomination for senator in a key state. 
  <p class="updated_time"> 07:41 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/us/politics/trump-super-pac-illegal-donations.html">Donations Steered to Trump Super PAC by Canadian Deemed Illegal</a> NYT: The Federal Election Commission fined a Canadian steel billionaire, Barry Zekelman, $975,000 in the case, one of the biggest penalties it has ever assessed. 
+ <p class="updated_time"> 05:44 PM CT, Apr. 09 </p> 
+ <a href="https://www.politico.com/news/2022/04/09/trump-leans-toward-dr-oz-in-pennsylvania-senate-race-00024272">Trump endorses Oz in key Senate race</a> Politico: The celebrity TV doctor aggressively pursued Trump’s backing in the Pennsylvania primary. 
  <p class="updated_time"> 05:10 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/us/politics/biden-border-immigration.html">How Infighting Over the Border Divided the Biden White House</a> NYT: The Biden administration has furiously debated how — and whether — to unravel Trump-era immigration policies. 
  <p class="updated_time"> 07:25 AM CT, Apr. 09 </p> 
