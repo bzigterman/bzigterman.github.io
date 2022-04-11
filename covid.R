@@ -428,7 +428,8 @@ usa_jhu_new_cases <- rio::import(usa_jhu_new_cases_url, format = "csv") %>%
   select(date,"United States") %>%
   rename(new_cases = "United States") %>%
   mutate(avg_new_cases = rollmean(new_cases, k = 7, 
-                                  fill = NA, align = "right"))
+                                  fill = NA, align = "right")) %>%
+  drop_na()
 
 #### hospitalizations ----
 owid_hosp_url <- "https://covid.ourworldindata.org/data/owid-covid-data.csv"
