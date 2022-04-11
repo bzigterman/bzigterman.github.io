@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:32 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
  <p class="updated_time"> 12:26 AM CT, Apr. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61064426?at_medium=RSS&at_campaign=KARANGA">Can Marine Le Pen win the French elections?</a> BBC: Marine Le Pen will go head-to-head with President Macron in an election run off in a fortnight. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61064426?at_medium=RSS&at_campaign=KARANGA">Could Marine Le Pen win the French elections?</a> BBC: Marine Le Pen will go head-to-head with President Macron in an election run off in a fortnight. 
  <p class="updated_time"> 12:04 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">What Happened on Day 46 of the War in Ukraine</a> NYT: U.S. military officials said they expect Russia to carry out a major offensive from the city of Izium to Dnipro, a strategic target in eastern Ukraine. At a train station where dozens were killed in a missile strike on Friday, one survivor said, “The town is dead now.” 
- <p class="updated_time"> 11:37 PM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
+ <p class="updated_time"> 11:32 PM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election</a> WSJ: France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election 
  <p class="updated_time"> 11:30 PM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-61063905?at_medium=RSS&at_campaign=KARANGA">Elon Musk will not join Twitter board, says boss</a> BBC: Tesla's chief executive was due to join the social media platform's board after buying a 9.2% stake. 
  <p class="updated_time"> 11:12 PM CT, Apr. 10 </p> 
@@ -25,17 +27,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">French Election: Macron Leads Le Pen as Runoff Looms</a> NYT: President Emmanuel Macron will again face the far-right leader Marine Le Pen in a runoff. He will go into the second round as the favorite, having fared a little better than the latest opinion polls suggested. 
  <p class="updated_time"> 10:38 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/sundarbans-mangroves-india-bangladesh.html">Facing Disastrous Floods, They Turned to Mangrove Trees for Protection</a> NYT: In the Sundarbans, an ecological treasure straddling India and Bangladesh that is now on the front lines of climate change, local women are leading an effort to mitigate the dangers of rising waters. 
- <p class="updated_time"> 10:37 PM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election</a> WSJ: France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election 
- <p class="updated_time"> 09:37 PM CT, Apr. 10 </p> 
+ <p class="updated_time"> 10:32 PM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603">Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East</a> WSJ: Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East 
+ <p class="updated_time"> 09:32 PM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/european-countries-debate-how-to-cut-purchases-of-russian-oil-11649595841">Europe Debates How to Cut Purchases of Russian Oil</a> WSJ: Europe Debates How to Cut Purchases of Russian Oil 
  <p class="updated_time"> 09:24 PM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61061230?at_medium=RSS&at_campaign=KARANGA">French elections: Macron and Le Pen to fight for presidency</a> BBC: Emmanuel Macron wins the first round, but the run-off against his far-right rival may be far closer. 
  <p class="updated_time"> 09:16 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/france-presidential-election-macron-economy-le-pen.html">‘La French Tech’ Arrives Under Macron, but Proves No Panacea</a> NYT: The president has brought innovation, jobs and growth. Still, resentments fester on the eve of the presidential election. 
- <p class="updated_time"> 08:37 PM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/european-countries-debate-how-to-cut-purchases-of-russian-oil-11649595841">Europe Debates How to Cut Purchases of Russian Oil</a> WSJ: Europe Debates How to Cut Purchases of Russian Oil 
- <p class="updated_time"> 07:37 PM CT, Apr. 10 </p> 
+ <p class="updated_time"> 08:32 PM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 07:16 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/french-presidential-election-macron-le-pen.html">Macron to Face Le Pen for President as French Gravitate Toward Extremes</a> NYT: President Emmanuel Macron and the hard-right leader Marine Le Pen will compete for a second time in a runoff on April 24. 
