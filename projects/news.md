@@ -9,22 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:31 PM CT, Apr. 11 </p> 
+ <a href="https://www.nytimes.com/2022/04/11/world/europe/french-presidential-election-macron-le-pen-far-fight.html">Macron Sets Out to Build a ‘Dam’ Against Le Pen. Can It Hold?</a> NYT: After Sunday’s vote, when nearly a third of ballots went to the extreme right, a united front of mainstream voters looked more precarious than ever. 
+ <p class="updated_time"> 04:30 PM CT, Apr. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Prepares for a New Assault on the East</a> NYT: Analysts warn that the war is entering a new, possibly worse phase as Moscow focuses on the Donbas region, and President Volodymyr Zelensky of Ukraine says that “tens of thousands” have been killed in Mariupol. 
+ <p class="updated_time"> 04:26 PM CT, Apr. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61075379?at_medium=RSS&at_campaign=KARANGA">Britney Spears says she is pregnant after conservatorship ends</a> BBC: The singer, 40, also says she has previously suffered perinatal depression. 
+ <p class="updated_time"> 04:19 PM CT, Apr. 11 </p> 
+ <a href="https://www.npr.org/2022/04/11/1091123928/etsy-strike-2022">Etsy sellers launch a week-long strike over increased fees</a> NPR: Thousands of Etsy sellers closed their online shops for a week starting Monday in an attempt to get the company to address several complaints they have about the site. 
  <p class="updated_time"> 04:18 PM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news">Ukraine Live Updates: Claims of Atrocities Mount as Russia Prepares a Renewed Offensive</a> NYT: President Zelensky warned that “tens of thousands” of Russian troops were poised for a major assault in the east. France sent a team of experts to Ukraine to help document possible war crimes. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61071172?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Desperate mother writes details on toddler's back</a> BBC: Sasha Makoviy wrote the details on her daughter's skin in case her family was killed fleeing Kyiv. 
+ <p class="updated_time"> 04:15 PM CT, Apr. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61071243?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: 'Russian soldiers raped me and killed my husband'</a> BBC: The BBC has uncovered first-hand evidence of Russian soldiers raping and killing civilians in a village west of Kyiv. 
  <p class="updated_time"> 04:13 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/health/this-psychiatric-hospital-used-to-chain-patients-now-it-treats-them.html">This Psychiatric Hospital Used to Chain Patients. Now It Treats Them.</a> NYT: Sierra Leone, one of the world’s poorest countries, is working to build a modern mental health system from scratch. 
- <p class="updated_time"> 04:02 PM CT, Apr. 11 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61075379?at_medium=RSS&at_campaign=KARANGA">Britney Spears says she is pregnant after conservatorship ends</a> BBC: The singer, 40, also says she has previously suffered perinatal depression. 
  <p class="updated_time"> 03:58 PM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1092042696/russia-ukraine-war-what-happened-today-april-11">Russia-Ukraine war: What happened today (April 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:51 PM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/world/europe/french-presidential-election-macron-le-pen-far-fight.html">Macron Sets Out to Build a ‘Dam’ Against Le Pen. Can It Hold?</a> NYT: After Sunday’s vote, when nearly a third of ballots went to the extreme right, a united front of mainstream voters looked more precarious than ever. 
  <p class="updated_time"> 03:51 PM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1092117558/macron-and-le-pen-face-off-again-as-frances-presidential-election-continues">Macron and Le Pen face off again as France's presidential election continues</a> NPR: Incumbent Emmanuel Macron got the most votes in the first-round of France's presidential election, but the runoff battle with his far-right challenger looks set to be a hard fight. 
  <p class="updated_time"> 03:44 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/europe/biden-narendra-modi-russia.html">Biden Meets With India’s Prime Minister Over Ukraine</a> NYT: India, heavily dependent on Russian weapons, has long tried not to take sides between Moscow and Washington. It has refrained from denouncing Russia’s invasion or imposing sanctions. 
  <p class="updated_time"> 03:42 PM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1092117537/a-report-from-kharkiv-and-other-war-updates">A report from Kharkiv and other war updates</a> NPR: President Volodomyr Zelenskyy is warning that thousands of Russian troops are getting ready for a major assault on southeastern Ukraine. Officials are urging civilians to flee before time runs out. 
+ <p class="updated_time"> 03:39 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
  <p class="updated_time"> 03:33 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61071164?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Austria pessimistic after Putin talks</a> BBC: Russia warns two Nordic nations against Nato membership, and the Austrian chancellor meets Putin in Moscow. 
  <p class="updated_time"> 03:23 PM CT, Apr. 11 </p> 
@@ -33,30 +41,26 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/11/1092117488/mexicos-president-declares-victory-after-recall-vote-which-critics-say-was-rigge">Mexico's president declares victory after recall vote, which critics say was rigged</a> NPR: Mexico's president called a recall vote on himself this weekend and won, though most Mexicans did not participate and opponents say it was too costly. 
  <p class="updated_time"> 03:23 PM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1092117481/what-it-was-like-in-chernihiv-ukraine-during-siege">What it was like in Chernihiv, Ukraine, during siege</a> NPR: Residents of Chernihiv endured a brutal siege for a month before Russian forces withdrew. Amid worries Russia will turn to more siege-like tactics as the war goes on, residents describe what happened. 
- <p class="updated_time"> 03:23 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/video/headline/F849A6B0-B9D1-4208-829F-803D15051A67.html">Russians Cope With Ukraine War’s Fallout: Bulk Buying, Jobs in Limbo</a> WSJ: Russians Cope With Ukraine War’s Fallout: Bulk Buying, Jobs in Limbo 
+ <p class="updated_time"> 02:39 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/video/headline/F849A6B0-B9D1-4208-829F-803D15051A67.html">Russians Cope With War’s Fallout: Bulk Buying, Jobs in Limbo</a> WSJ: Russians Cope With War’s Fallout: Bulk Buying, Jobs in Limbo 
  <p class="updated_time"> 02:34 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/philadelphia-indoor-mask-mandate.html">The city of Philadelphia will reinstate an indoor mask mandate, the first major U.S. city to do so this spring.</a> NYT: The move comes a little more than a month after the city lifted it. 
- <p class="updated_time"> 02:23 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
  <p class="updated_time"> 01:46 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html">China’s Echoes of Russia’s Alternate Reality Intensify Around the World</a> NYT: China’s officials and state media are increasingly parroting Russian propaganda organs on the war in Ukraine, undercutting U.S. and European diplomatic efforts, even after the killings in Bucha. 
+ <p class="updated_time"> 01:39 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
  <p class="updated_time"> 01:23 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/americas/mexico-president-recall-election.html">Mexico Voters Back López Obrador to Stay in Office in Recall Election</a> NYT: President Andrés Manuel López Obrador drew overwhelming support among those who cast ballots, but the recall referendum failed to achieve the required 40 percent threshold to be binding. 
- <p class="updated_time"> 01:23 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
- <p class="updated_time"> 12:23 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
+ <p class="updated_time"> 12:39 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/el-salvador-detains-more-than-9-000-people-in-gang-crackdown-11649703587">El Salvador Detains More Than 9,000 People in Gang Crackdown</a> WSJ: El Salvador Detains More Than 9,000 People in Gang Crackdown 
  <p class="updated_time"> 12:14 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61068650?at_medium=RSS&at_campaign=KARANGA">Mariupol: Battle for key port city continues, Ukraine says</a> BBC: Mariupol's deputy mayor denies reports that Russia is close to victory in his city. 
  <p class="updated_time"> 11:44 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61067254?at_medium=RSS&at_campaign=KARANGA">Southern Africa storms fuelled by climate change - study</a> BBC: Scientists say the rainfall during storms in the region was heavier and the damage worse than before. 
- <p class="updated_time"> 11:36 AM CT, Apr. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61068510?at_medium=RSS&at_campaign=KARANGA">Ayman Hadhoud: Questions over Egyptian economist's mysterious death</a> BBC: Official accounts as to what happened to Ayman Hadhoud differ, with his family seeking the truth. 
+ <p class="updated_time"> 11:39 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
  <p class="updated_time"> 11:26 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61028866?at_medium=RSS&at_campaign=KARANGA">Hidden wealth of one of Putin’s 'inner circle' revealed</a> BBC: Leaked documents show how sanctioned oligarch Suleiman Kerimov used shell companies to move $700m. 
- <p class="updated_time"> 11:23 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/pakistans-shehbaz-sharif-becomes-prime-minister-11649690471">Pakistan’s Shehbaz Sharif Becomes Prime Minister</a> WSJ: Pakistan’s Shehbaz Sharif Becomes Prime Minister 
  <p class="updated_time"> 11:18 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1092032051/russia-war-shrink-ukraine-economy-world-bank">Russia's war could shrink the Ukrainian economy by 45% this year, the World Bank says</a> NPR: Meanwhile, the Russian economy is expected to contract by some 11% this year as a result of sanctions, and several other countries in the region are projected to fall into recession. 
  <p class="updated_time"> 10:56 AM CT, Apr. 11 </p> 
@@ -79,8 +83,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61066503?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Russia warns Sweden and Finland against Nato membership</a> BBC: Kremlin spokesman Dmitry Peskov said the move won't bring stability to Europe. 
  <p class="updated_time"> 08:44 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1091949189/russias-plan-a-in-ukraine-failed-heres-what-plan-b-could-look-like">Russia's Plan A in Ukraine failed. Here's what Plan B could look like</a> NPR: Ukraine's military has fought so effectively that Russia abandoned its initial plan, which envisioned a quick takeover of Kyiv. Now Russia has a new approach, which focuses on eastern Ukraine. 
- <p class="updated_time"> 08:33 AM CT, Apr. 11 </p> 
- <a href="https://www.bbc.co.uk/sport/rugby-union/61066321?at_medium=RSS&at_campaign=KARANGA">NZ rugby players report body shaming and favouritism</a> BBC: New Zealand players have reported culturally insensitive comments and alleged "favouritism", "ghosting" and "body shaming" from coaches. 
+ <p class="updated_time"> 08:21 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/pakistans-shehbaz-sharif-becomes-prime-minister-11649690471">Pakistan's Shehbaz Sharif Becomes Prime Minister</a> WSJ: The new leader takes over after lawmakers ousted Imran Khan. 
  <p class="updated_time"> 08:05 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/asia/japan-military-russia-ukraine.html">Japan Sends Ukraine Military Equipment, Shedding Pacifist Constraints</a> NYT: Growing calls for more military spending after Russia’s invasion of Ukraine demonstrate Japan’s recognition that it must bolster its own deterrent power, not just rely on its U.S. alliance. 
  <p class="updated_time"> 07:00 AM CT, Apr. 11 </p> 
@@ -200,6 +204,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 PM CT, Apr. 11 </p> 
+ <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-atf-steven-dettelbach.html">Biden Names Former Federal Prosecutor to Lead A.T.F.</a> NYT: The president nominated Steven M. Dettelbach to run the troubled agency, seven months after withdrawing his previous pick. 
+ <p class="updated_time"> 04:28 PM CT, Apr. 11 </p> 
+ <a href="https://www.nytimes.com/2022/04/11/us/politics/arizona-republicans-paul-gosar.html">Gosar, Far-Right Incumbent, Faces G.O.P. Challengers in Arizona</a> NYT: Casting themselves as alternatives to a polarizing lawmaker, these candidates could reveal a window into the Republican electorate. 
+ <p class="updated_time"> 04:25 PM CT, Apr. 11 </p> 
+ <a href="https://www.politico.com/news/2022/04/11/bill-browder-russia-war-on-ukraine-00024490">Bill Browder on Russia's war on Ukraine: 'It’s not going to end'</a> Politico: In a Q&A, the author and investor blames the West for emboldening Putin. 
+ <p class="updated_time"> 04:06 PM CT, Apr. 11 </p> 
+ <a href="https://www.politico.com/news/2022/04/11/congress-lawmakers-fda-investigation-00024514">Lawmakers demand answers from FDA after investigation on food failures</a> Politico: Sen. Patty Murray, the number three Democrat in the Senate, asked for an outline of steps the commissioner plans to take to improve food safety, in writing, by April 25. 
  <p class="updated_time"> 03:51 PM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1092117558/macron-and-le-pen-face-off-again-as-frances-presidential-election-continues">Macron and Le Pen face off again as France's presidential election continues</a> NPR: Incumbent Emmanuel Macron got the most votes in the first-round of France's presidential election, but the runoff battle with his far-right challenger looks set to be a hard fight. 
  <p class="updated_time"> 03:23 PM CT, Apr. 11 </p> 
@@ -212,8 +224,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/11/philadelphia-reinstate-indoor-mask-mandate-00024502">Philadelphia moves to reinstate indoor mask mandate, first major U.S. city to do so</a> Politico: The move to tighten restrictions could be a sign that leaders across the country will reimpose mask mandates if cases continue to rise. 
  <p class="updated_time"> 02:45 PM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/new-york-democrats-pare-back-nation-leading-bail-reform-amid-crime-spikes-and-election-fights-00024361">New York Democrats pare back nation-leading bail reform amid crime wave</a> Politico: There is no data showing that New York’s bail reform has fueled the crime, and even Democrats who sought changes are quick to point that out. But Republicans have successfully suggested a correlation to sway voters. 
- <p class="updated_time"> 02:04 PM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-atf-steven-dettelbach.html">Biden Names Former Federal Prosecutor to Lead A.T.F.</a> NYT: The president nominated Steven M. Dettelbach to run the troubled agency, seven months after withdrawing his previous pick. 
  <p class="updated_time"> 01:57 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/homeless-students-texas.html">A One-Woman Rescue Squad for Homeless Students</a> NYT: The work of Norma Mercado, a Texas school system’s point person for dealing with homeless young people, is benefiting from a big but temporary surge in federal funding. 
  <p class="updated_time"> 01:40 PM CT, Apr. 11 </p> 
@@ -228,8 +238,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/11/bobby-rush-illinois-00023782">Bobby Rush wants to pick who gets his seat. 19 people disagree.</a> Politico: In a difficult election year for Democrats and high turnover in Congress, the 15-term congressman's historic seat is too tempting for would-be candidates to pass up. 
  <p class="updated_time"> 10:00 AM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/west-coast-port-labor-talks-economy-midterms-00023058">West Coast port labor talks carry high stakes for economy, midterms</a> Politico: “We have to continue to stay focused on the issue,” Labor Secretary Marty Walsh said. 
- <p class="updated_time"> 09:52 AM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/us/politics/arizona-republicans-paul-gosar.html">Gosar, Far-Right Incumbent, Faces G.O.P. Challengers in Arizona</a> NYT: Casting themselves as alternatives to a polarizing lawmaker, these candidates could reveal a window into the Republican electorate. 
  <p class="updated_time"> 08:18 AM CT, Apr. 11 </p> 
  <a href="https://www.cnn.com/2022/03/03/politics/putin-war-crimes-russia-ukraine-us-what-matters/index.html">Here's how war crimes prosecutions work</a> CNN: Shocking atrocities in Ukraine, allegedly at the hands of Russian forces, have amplified calls to pursue war crimes charges against Russian President Vladimir Putin. 
  <p class="updated_time"> 07:44 AM CT, Apr. 11 </p> 
@@ -260,8 +268,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/11/5-crucial-decisions-jan-6-panel-00024104">5 crucial decisions as Jan. 6 investigation reaches final stage</a> Politico: Do they push Donald Trump or Mike Pence to testify? Will GOP lawmakers answer questions? The insurrection committee is in the endgame now. 
  <p class="updated_time"> 03:30 AM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/cuomo-accusers-sexual-harassment-00024208">‘It must be really sad to be him’: Women who spoke out against Cuomo rebuild as he attempts revival</a> Politico: Two former aides who said Cuomo sexually harassed them offered their first substantial public comments about their lives in a series of phone interviews in recent weeks, just as the former governor was mounting a comeback bid. 
- <p class="updated_time"> 03:30 AM CT, Apr. 11 </p> 
- <a href="https://www.politico.com/news/2022/04/11/2024-presidential-campaign-dark-money-00024241">2024 hopefuls are already in a dark-money arms race</a> Politico: At least a dozen potential candidates for president have nonprofit groups that can raise undisclosed money aligned with them. 
  <p class="updated_time"> 01:30 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1091967163/abortion-rights-health-insurance-larry-hogan-maryland-veto-fetus">Maryland lawmakers expand who can perform abortions after overriding governor's veto</a> NPR: In his veto, Maryland Gov. Larry Hogan wrote that "The bill risks lowering the high standard of reproductive healthcare services received by women in Maryland." 
  <p class="updated_time"> 07:48 PM CT, Apr. 10 </p> 
@@ -290,8 +296,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/10/1091927625/after-232-years-ketanji-brown-jackson-is-the-first-black-woman-on-the-supreme-co">After 232 years, Ketanji Brown Jackson is the first Black woman on the Supreme Court</a> NPR: Ayesha Rascoe asks Biden administration strategist Minyon Moore about Biden's successful nomination of Ketanji Brown Jackson to the Supreme Court. 
  <p class="updated_time"> 06:01 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091543359/15-states-dont-say-gay-anti-transgender-bills">Not just Florida. More than a dozen states propose so-called 'Don't Say Gay' bills</a> NPR: The specific details regarding the bills vary between state. But overall, they seek to prohibit schools from using a curriculum or discussing topics of gender identity or sexual orientation. 
- <p class="updated_time"> 06:00 AM CT, Apr. 10 </p> 
- <a href="https://www.politico.com/news/2022/04/10/democrats-youth-vote-2022-midterms-john-della-volpe-00024264">Democrats turn to their Gen Z whisperer as youth support wobbles</a> Politico: Biden's numbers with young voters took a staggering dive at the end of 2021, dipping lower than any Democratic president in decades. 
  <p class="updated_time"> 08:57 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/us/politics/trump-doctor-oz-senate-endorsement.html">Trump endorses Dr. Oz in Pennsylvania Senate race </a> NYT: The former president threw his weight behind the celebrity doctor, who is running for the Republican nomination for senator in a key state. 
  <p class="updated_time"> 07:41 PM CT, Apr. 09 </p> 
