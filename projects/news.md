@@ -9,19 +9,21 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:18 AM CT, Apr. 11 </p> 
+ <p class="updated_time"> 08:44 AM CT, Apr. 11 </p> 
+ <a href="https://www.npr.org/2022/04/11/1091949189/russias-plan-a-in-ukraine-failed-heres-what-plan-b-could-look-like">Russia's Plan A in Ukraine failed. Here's what Plan B could look like</a> NPR: Ukraine's military has fought so effectively that Russia abandoned its initial plan, which envisioned a quick takeover of Kyiv. Now Russia has a new approach, which focuses on eastern Ukraine. 
+ <p class="updated_time"> 08:38 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news">Ukraine Live Updates: Claims of Atrocities Mount as Russia Prepares a Renewed Offensive</a> NYT: As Ukrainian officials warn of a major Russian assault in the east, President Zelensky vowed: “We will respond.” Austria’s chancellor was meeting with President Putin in Moscow, making him the first European leader to do so since the war. 
+ <p class="updated_time"> 08:33 AM CT, Apr. 11 </p> 
+ <a href="https://www.bbc.co.uk/sport/rugby-union/61066321?at_medium=RSS&at_campaign=KARANGA">NZ rugby players report body shaming and favouritism</a> BBC: New Zealand players have reported culturally insensitive comments and alleged "favouritism", "ghosting" and "body shaming" from coaches. 
  <p class="updated_time"> 08:18 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/us-russia-ukraine-war-crimes.html">U.S. Weighs Shift to Support Hague Court as It Investigates Russian Atrocities</a> NYT: The government is hamstrung from helping the world’s war-crimes court by two laws and a policy aimed at barring it from charging Americans. 
  <p class="updated_time"> 08:05 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/asia/japan-military-russia-ukraine.html">With Threats All Around, Japan Moves to Shed Its Pacifist Constraints</a> NYT: Growing calls for more military spending after Russia’s invasion of Ukraine demonstrate Japan’s recognition that it must bolster its own deterrent power, not just rely on its U.S. alliance. 
  <p class="updated_time"> 08:01 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/asia/pakistan-shehbaz-sharif-prime-minister.html">Shehbaz Sharif Becomes Interim Prime Minister of Pakistan</a> NYT: Mr. Sharif, whose family has been dogged by accusations of graft for decades, was selected by Pakistan’s Parliament at a time of deep political divisions and economic tumult. 
- <p class="updated_time"> 07:56 AM CT, Apr. 11 </p> 
- <a href="https://www.bbc.co.uk/sport/rugby-union/61066321?at_medium=RSS&at_campaign=KARANGA">NZ rugby players report body shaming and favouritism</a> BBC: New Zealand players have reported culturally insensitive comments and alleged "favouritism", "ghosting" and "body shaming" from coaches. 
  <p class="updated_time"> 07:51 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61063386?at_medium=RSS&at_campaign=KARANGA">Pakistan: Shahbaz Sharif chosen as PM after week-long uncertainty</a> BBC: Shahbaz Sharif is the brother of a former prime minister and the rival of recently ousted Imran Khan. 
- <p class="updated_time"> 07:29 AM CT, Apr. 11 </p> 
+ <p class="updated_time"> 07:48 AM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/video/headline/F849A6B0-B9D1-4208-829F-803D15051A67.html">Russians Cope With Ukraine War’s Fallout: Bulk Buying, Jobs in Limbo</a> WSJ: Russians Cope With Ukraine War’s Fallout: Bulk Buying, Jobs in Limbo 
  <p class="updated_time"> 07:00 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/science/bioluminescence-photographers-new-zealand.html">These Photographers Chase Bioluminescence in New Zealand</a> NYT: Capturing bioluminescence, a phenomenon in which glowing algae give crashing waves an electric blue glow, requires technical skill and a bit of luck. 
@@ -29,18 +31,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61067426?at_medium=RSS&at_campaign=KARANGA">French elections: Macron targets Le Pen as run-off campaign begins</a> BBC: The French president fires up his re-election campaign visiting a stronghold of his far-right rival. 
  <p class="updated_time"> 06:51 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/french-presidential-election-macron-le-pen.html">Macron to Face Le Pen for President as French Gravitate Toward Extremes</a> NYT: President Emmanuel Macron and the hard-right leader Marine Le Pen will compete for a second time in a runoff on April 24. 
- <p class="updated_time"> 06:29 AM CT, Apr. 11 </p> 
+ <p class="updated_time"> 06:48 AM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
  <p class="updated_time"> 06:04 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61066503?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Russia warns Sweden and Finland against Nato membership</a> BBC: Kremlin spokesman Dmitry Peskov said the move won't bring stability to Europe. 
  <p class="updated_time"> 05:57 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/chanel-russian-influencers-ukraine.html">Why Russian Influencers Are Cutting Up Their Chanel Bags</a> NYT: The iconic French brand is asking customers to attest that they will not use their newly purchased items in Russia, sparking a social media protest. 
- <p class="updated_time"> 05:29 AM CT, Apr. 11 </p> 
+ <p class="updated_time"> 05:48 AM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/what-is-the-u-s-s-long-term-policy-toward-russia-now-11649669581">What Is the U.S.’s Long-Term Policy Toward Russia Now?</a> WSJ: What Is the U.S.’s Long-Term Policy Toward Russia Now? 
+ <p class="updated_time"> 04:48 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-inflation-rises-as-lockdowns-ukraine-war-drive-up-prices-11649659509">China Inflation Rises as Lockdowns, Ukraine War Drive Up Prices</a> WSJ: China Inflation Rises as Lockdowns, Ukraine War Drive Up Prices 
  <p class="updated_time"> 04:39 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61065967?at_medium=RSS&at_campaign=KARANGA">López Obrador wins Mexico recall vote amid low turnout</a> BBC: Fewer than 20% of voters cast their ballots in the referendum, which the president himself called. 
- <p class="updated_time"> 04:29 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/china-inflation-rises-as-lockdowns-ukraine-war-drive-up-prices-11649659509">China Inflation Rises as Lockdowns, Ukraine War Drive Up Prices</a> WSJ: China Inflation Rises as Lockdowns, Ukraine War Drive Up Prices 
  <p class="updated_time"> 04:27 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61064429?at_medium=RSS&at_campaign=KARANGA">Zelensky asked if he'll give Russia any part of Ukraine</a> BBC: Ukraine's president tells CBS' 60 Minutes he isn't ready to give away his country in return for peace. 
  <p class="updated_time"> 04:22 AM CT, Apr. 11 </p> 
@@ -53,10 +55,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/11/magazine/trump-putin-ukraine-fiona-hill.html">Trump and Ukraine: Former Advisers Revisit What Happened</a> NYT: Amid the current crisis, Fiona Hill and other former advisers are connecting President Trump’s pressure campaign on Ukraine to Jan. 6. And they’re ready to talk. 
  <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1091407334/college-podcast-challenge-winner">A Chinese student Americanized her name to fit in. It took more to feel she belonged</a> NPR: When Aria Young moved to the U.S., she adopted an Americanized name. Now, she's wondering how to hold on to the version of herself she left in China. 
+ <p class="updated_time"> 03:48 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
  <p class="updated_time"> 03:40 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/ukrainian-kramatorsk.html">A Stricken Ukrainian City Empties, and Those Left Fear What’s Next</a> NYT: After the deadly strike on the train station in Kramatorsk, Ukraine, those who stayed behind are grim about the future: “We think we will be swept off the face of the earth.” 
- <p class="updated_time"> 03:29 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
  <p class="updated_time"> 02:42 AM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/mexican-president-wins-recall-referendum-marked-by-low-turnout-11649677321">Mexican President Wins Recall Referendum</a> WSJ: Andrés Manuel López Obrador secured an easy victory Sunday in a referendum over whether he should complete his six-year term. 
  <p class="updated_time"> 02:28 AM CT, Apr. 11 </p> 
@@ -131,8 +133,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/09/world/asia/imran-khan-pakistan-ousted.html">Imran Khan Ousted as Pakistan’s Prime Minister</a> NYT: The country will now face early elections after days of brinkmanship in which Mr. Khan tried to dissolve Parliament to head off the no-confidence vote. 
  <p class="updated_time"> 02:00 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/russia-ukraine-war-crimes.html">Why Calls for War Crimes Justice Over Ukraine Face Long Odds</a> NYT: If those in power act as if they are immune to the laws of war, it may be because they often are. But following through is not necessarily an empty exercise. 
- <p class="updated_time"> 01:53 AM CT, Apr. 10 </p> 
- <a href="https://www.npr.org/2022/04/10/1091921962/french-presidential-election-macron-le-pen">Macron and Le Pen head to a runoff in France's presidential election</a> NPR: For months, the election seemed like a shoo-in for President Emmanuel Macron. It's now a tossup amid a strong challenge from the far right's Marine Le Pen. 
  <p class="updated_time"> 08:52 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
  <p class="updated_time"> 06:31 PM CT, Apr. 09 </p> 
