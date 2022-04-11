@@ -9,34 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:53 PM CT, Apr. 10 </p> 
+ <p class="updated_time"> 11:30 PM CT, Apr. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61063905?at_medium=RSS&at_campaign=KARANGA">Elon Musk will now not join Twitter's board, CEO says</a> BBC: The Tesla boss was due to join the social media platform's board after buying a 9.2% stake in the firm. 
+ <p class="updated_time"> 11:15 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">Ukraine Live Updates: Civilians Rush to Flee as Russian Troops Mass in the East</a> NYT: U.S. military officials said they expect Russia to carry out a major offensive from the city of Izium to Dnipro, a strategic target in eastern Ukraine. At a train station where dozens were killed in a missile strike on Friday, one survivor said, “The town is dead now.” 
+ <p class="updated_time"> 11:12 PM CT, Apr. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61063386?at_medium=RSS&at_campaign=KARANGA">Pakistan parliament to vote in new PM after Imran Khan ousting</a> BBC: Imran Khan's main rival Shahbaz Sharif -the brother of a former PM - is expected to be the new leader. 
+ <p class="updated_time"> 10:44 PM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
  <p class="updated_time"> 10:42 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/ukraine-farmers-food.html">War’s Disruption to Ukraine’s Farms Seeds Global Food Crisis</a> NYT: The Russian invasion is pummeling Ukraine’s agriculture, threatening harvests in Europe’s breadbasket and contributing to a global food crisis. 
  <p class="updated_time"> 10:42 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">French Election: Macron Leads Le Pen as Runoff Looms</a> NYT: President Emmanuel Macron will again face the far-right leader Marine Le Pen in a runoff. He will go into the second round as the favorite, having fared a little better than the latest opinion polls suggested. 
  <p class="updated_time"> 10:38 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/sundarbans-mangroves-india-bangladesh.html">Facing Disastrous Floods, They Turned to Mangrove Trees for Protection</a> NYT: In the Sundarbans, an ecological treasure straddling India and Bangladesh that is now on the front lines of climate change, local women are leading an effort to mitigate the dangers of rising waters. 
- <p class="updated_time"> 10:12 PM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
+ <p class="updated_time"> 09:44 PM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election</a> WSJ: France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election 
  <p class="updated_time"> 09:24 PM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61061230?at_medium=RSS&at_campaign=KARANGA">French elections: Macron and Le Pen to fight for presidency</a> BBC: Emmanuel Macron wins the first round, but the run-off against his far-right rival may be far closer. 
  <p class="updated_time"> 09:16 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/france-presidential-election-macron-economy-le-pen.html">‘La French Tech’ Arrives Under Macron, but Proves No Panacea</a> NYT: The president has brought innovation, jobs and growth. Still, resentments fester on the eve of the presidential election. 
- <p class="updated_time"> 09:12 PM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election</a> WSJ: France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election 
- <p class="updated_time"> 08:12 PM CT, Apr. 10 </p> 
+ <p class="updated_time"> 08:44 PM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603">Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East</a> WSJ: Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East 
+ <p class="updated_time"> 07:44 PM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/european-countries-debate-how-to-cut-purchases-of-russian-oil-11649595841">Europe Debates How to Cut Purchases of Russian Oil</a> WSJ: Europe Debates How to Cut Purchases of Russian Oil 
  <p class="updated_time"> 07:16 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/french-presidential-election-macron-le-pen.html">Macron to Face Le Pen for President as French Gravitate Toward Extremes</a> NYT: President Emmanuel Macron and the hard-right leader Marine Le Pen will compete for a second time in a runoff on April 24. 
- <p class="updated_time"> 07:12 PM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/european-countries-debate-how-to-cut-purchases-of-russian-oil-11649595841">Europe Debates How to Cut Purchases of Russian Oil</a> WSJ: Europe Debates How to Cut Purchases of Russian Oil 
  <p class="updated_time"> 07:07 PM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60951030?at_medium=RSS&at_campaign=KARANGA">Australia election: Enter a lacklustre advert for democracy</a> BBC: Nick Bryant sees an election campaign that will be defined, to a large part, by what it lacks. 
+ <p class="updated_time"> 06:44 PM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 06:20 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/pakistan-imran-khan-elections.html">In Imran Khan’s Ouster, a Reminder of Pakistani Military’s Power</a> NYT: After Imran Khan’s ouster as prime minister, the legacy of his time in office is a continued military dominance of public affairs and deep polarization that could turn violent. 
- <p class="updated_time"> 06:12 PM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
+ <p class="updated_time"> 06:06 PM CT, Apr. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61058139?at_medium=RSS&at_campaign=KARANGA">'I'm under no illusions,' says British soldier in Ukraine, after comrades killed</a> BBC: Ajay Spence quit his life in Belfast to help defend Kyiv - now he is being redeployed to east Ukraine. 
  <p class="updated_time"> 06:00 PM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61028653?at_medium=RSS&at_campaign=KARANGA">Falklands War: 'The UK is still usurping our land'</a> BBC: Argentina's president has said he will keep fighting for control of the islands, also known as the Malvinas. 
  <p class="updated_time"> 05:30 PM CT, Apr. 10 </p> 
@@ -49,6 +55,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/10/theater/olivier-awards-winners-cabaret-eddie-redmayne.html">‘Cabaret,’ Starring Eddie Redmayne, Sweeps Olivier Awards</a> NYT: The musical won seven awards at Britain’s equivalent of the Tonys. A puppet-filled adaptation of “Life of Pi” and a “Back to the Future” musical also won big. 
  <p class="updated_time"> 04:01 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/ukraine-draft-dodgers.html">Ukraine’s Draft Dodgers Face Guilt, Shame and Reproach</a> NYT: Thousands of Ukrainian men are avoiding military service, putting them on risky paths into Europe. Among Ukrainians, it’s stirring a complicated debate. 
+ <p class="updated_time"> 03:54 PM CT, Apr. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61062213?at_medium=RSS&at_campaign=KARANGA">Ukraine village scarred by aftermath of occupation</a> BBC: As Russian forces retreat to eastern Ukraine, Andriivka and other abandoned villages are left devastated. 
  <p class="updated_time"> 03:28 PM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61061046?at_medium=RSS&at_campaign=KARANGA">French election: Macron pledges to create united France</a> BBC: Emmanuel Macron says he will unite "all the different convictions and beliefs" if re-elected. 
  <p class="updated_time"> 03:24 PM CT, Apr. 10 </p> 
@@ -83,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/10/1091927160/pakistan-prime-minister-imran-khan-parliament-ousted">Pakistan's prime minister vows to fight on after Parliament ousts him</a> NPR: Supporters of Imran Khan took to the streets in protest while the political opposition prepared to install his replacement. 
  <p class="updated_time"> 05:55 AM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61053927?at_medium=RSS&at_campaign=KARANGA">Ronaldo: Police investigating after Manchester United forward appears to break fan's phone</a> BBC: Merseyside Police are investigating an alleged assault after Manchester United forward Cristiano Ronaldo appeared to break a fan's phone. 
- <p class="updated_time"> 05:39 AM CT, Apr. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61055210?at_medium=RSS&at_campaign=KARANGA">Imran Khan ousted as Pakistan's PM after key vote</a> BBC: The former cricket star loses a no-confidence vote 13 hours after his party tried to delay it. 
  <p class="updated_time"> 05:31 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091925789/mexicans-vote-on-whether-president-stays-or-goes">Few Mexicans vote on whether president stays or goes</a> NPR: Fewer than 1 in 5 of eligible voters turn out for a referendum that asked whether President Andrés Manuel López Obrador should end his six-year term barely midway through its term. 
  <p class="updated_time"> 05:29 AM CT, Apr. 10 </p> 
@@ -109,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/formula1/61056578?at_medium=RSS&at_campaign=KARANGA">Australian Grand Prix: Charles Leclerc wins in Melbourne as title rival Max Verstappen retires</a> BBC: Charles Leclerc takes a dominant victory in the Australian Grand Prix to move into a commanding position in the World Championship. 
  <p class="updated_time"> 12:47 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091920075/ukraine-russia-zelenskyy-europe">Zelenskyy warns that Russian aggression will not stop with Ukraine</a> NPR: Ukrainian President Volodymyr Zelenskyy said in his evening address that Russia is targeting all of Europe with its aggression, and defending Ukraine is essential for the security of all democracies. 
- <p class="updated_time"> 11:37 PM CT, Apr. 09 </p> 
- <a href="https://www.bbc.co.uk/news/business-61040424?at_medium=RSS&at_campaign=KARANGA">Full embargo on oil could stop war - ex-Putin aide</a> BBC: President Putin's former chief economic adviser tells the BBC Western countries could stop the war. 
  <p class="updated_time"> 09:04 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/kyiv-ukraine-war.html">With Russian Forces Gone, Kyiv Starts to Revive</a> NYT: The anxiety remains, but in Ukraine’s capital, large lines of cars are now forming on highways into the city and businesses are reopening. 
  <p class="updated_time"> 08:52 PM CT, Apr. 09 </p> 
@@ -127,8 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61015974?at_medium=RSS&at_campaign=KARANGA">Saniya Mistri: The hijab-wearing teen rapper breaking stereotypes</a> BBC: Saniya Mistri's powerful rap songs call out the glaring inequalities in her city, Mumbai. 
  <p class="updated_time"> 05:22 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/russia-ukraine-general-kramatorsk.html">Russia Shuffles Command in Ukraine as Thousands Flee the East</a> NYT: The Russian campaign will be consolidated under a veteran of the Syrian war, while Western nations pump additional arms into Ukraine. 
- <p class="updated_time"> 04:28 PM CT, Apr. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61055105?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Disbelief and horror after Kramatorsk train station attack</a> BBC: The people of Kramatorsk are coming to terms with a strike on a train station that killed more than 50. 
  <p class="updated_time"> 04:02 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-ukraine-russia.html">Putin’s War in Ukraine Shatters an Illusion in Russia</a> NYT: Russians long lived with an understanding: Stay away from politics, and live your life as you choose. The war in Ukraine wrecked that idea. 
  <p class="updated_time"> 03:05 PM CT, Apr. 09 </p> 
@@ -143,8 +145,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-train-station-attack.html">Photos From Kramatorsk After the Rocket Assault</a> NYT: A railway station in eastern Ukraine had been a main departure point for people seeking to escape an expected Russian onslaught. A rocket assault left at least 50 dead. 
  <p class="updated_time"> 06:50 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/eu-putin-sanctions-daughters.html">Latest E.U. Sanctions Get Personal With Putin’s Daughters and Confidantes.</a> NYT: The targets included one of the most trusted technocrats in Mr. Putin’s economic policy team and the head of a construction empire who used to practice judo with the Russian leader. 
- <p class="updated_time"> 06:35 AM CT, Apr. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61049896?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Watch BBC interview with Ukrainian PM</a> BBC: In a BBC exclusive, Denys Shmyhal accuses Russia of committing genocide in Ukraine. 
  <p class="updated_time"> 05:46 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-russia-war-ukraine.html">Spurred by Putin, Russians Turn on One Another Over the War</a> NYT: Citizens are denouncing one another, illustrating how the war is feeding paranoia and polarization in Russian society. 
  <p class="updated_time"> 05:24 AM CT, Apr. 09 </p> 
@@ -183,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/business/economy/china-forced-labor.html">Supply Chains Tainted by Forced Labor in China, Panel Told</a> NYT: Human rights activists and others urged the Biden administration to cast a wide net to stop imports of products made with forced labor in Xinjiang. 
  <p class="updated_time"> 01:01 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/climate/air-pollution-cities-tropics.html">A ‘New Era of Air Pollution’ in the Tropics Could Have a Huge Toll</a> NYT: Increasingly bad air in big cities is expected to kill hundreds of thousands in coming years if stronger controls are not put in place. 
- <p class="updated_time"> 11:20 AM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/08/world/europe/stanislav-aseyev-ukraine-russia.html">For a Ukrainian Journalist, War Evokes Scars From Captivity</a> NYT: Stanislav Aseyev, a 32-year-old journalist, had documented his abuse in a prison run by Russian-backed separatists. Now, the war reminds him of why Ukrainians are fighting for their lives. 
  <p class="updated_time"> 09:50 AM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/cheese-theft-netherlands.html">Major Cheese Heist Puts Dutch Dairy Farmers on Alert</a> NYT: Thieves made off with thousands of pounds of cheese, worth about $23,000, from a Dutch dairy farm last week. 
  <p class="updated_time"> 05:01 AM CT, Apr. 08 </p> 
