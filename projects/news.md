@@ -9,38 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:51 PM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">Ukraine Live Updates: Civilians Rush to Flee as Russian Troops Mass in the East</a> NYT: U.S. military officials said they expect Russia to carry out a major offensive from the city of Izium to Dnipro, a strategic target in eastern Ukraine. At a train station where dozens were killed in a missile strike on Friday, one survivor said, “The town is dead now.” 
+ <p class="updated_time"> 10:42 PM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/2022/04/10/world/europe/ukraine-farmers-food.html">War’s Disruption to Ukraine’s Farms Seeds Global Food Crisis</a> NYT: The Russian invasion is pummeling Ukraine’s agriculture, threatening harvests in Europe’s breadbasket and contributing to a global food crisis. 
+ <p class="updated_time"> 10:42 PM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">French Election: Macron Leads Le Pen as Runoff Looms</a> NYT: President Emmanuel Macron will again face the far-right leader Marine Le Pen in a runoff. He will go into the second round as the favorite, having fared a little better than the latest opinion polls suggested. 
+ <p class="updated_time"> 10:38 PM CT, Apr. 10 </p> 
+ <a href="https://www.nytimes.com/2022/04/10/world/asia/sundarbans-mangroves-india-bangladesh.html">Facing Disastrous Floods, They Turned to Mangrove Trees for Protection</a> NYT: In the Sundarbans, an ecological treasure straddling India and Bangladesh that is now on the front lines of climate change, local women are leading an effort to mitigate the dangers of rising waters. 
+ <p class="updated_time"> 09:52 PM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
  <p class="updated_time"> 09:24 PM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61061230?at_medium=RSS&at_campaign=KARANGA">French elections: Macron and Le Pen to fight for presidency</a> BBC: Emmanuel Macron wins the first round, but the run-off against his far-right rival may be far closer. 
- <p class="updated_time"> 09:22 PM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/04/10/world/ukraine-russia-war-news">Ukraine Live Updates: Civilians Rush to Flee as Russian Troops Mass in the East</a> NYT: U.S. military officials said they expect Russia to carry out a major offensive from the city of Izium to Dnipro, a strategic target in eastern Ukraine. At a train station where dozens were killed in a missile strike on Friday, one survivor said, “The town is dead now.” 
- <p class="updated_time"> 09:22 PM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/2022/04/10/world/europe/ukraine-farmers-food.html">War’s Disruption to Ukraine’s Farms Seeds Global Food Crisis</a> NYT: The Russian invasion is pummeling Ukraine’s agriculture, threatening harvests in Europe’s breadbasket and contributing to a global food crisis. 
  <p class="updated_time"> 09:16 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/france-presidential-election-macron-economy-le-pen.html">‘La French Tech’ Arrives Under Macron, but Proves No Panacea</a> NYT: The president has brought innovation, jobs and growth. Still, resentments fester on the eve of the presidential election. 
- <p class="updated_time"> 09:15 PM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-send-reinforcements-for-pitched-battles-in-conflicts-next-phase-11649588496">Ukraine, Russia Gear Up for War’s Biggest Battles</a> WSJ: Ukraine, Russia Gear Up for War’s Biggest Battles 
- <p class="updated_time"> 08:15 PM CT, Apr. 10 </p> 
+ <p class="updated_time"> 08:52 PM CT, Apr. 10 </p> 
  <a href="https://www.wsj.com/articles/macron-faces-tough-challenge-from-le-pen-as-france-votes-in-tight-election-11649583003">France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election</a> WSJ: France’s Macron and Far-Right Le Pen Lead in First Round of Presidential Election 
+ <p class="updated_time"> 07:52 PM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603">Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East</a> WSJ: Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East 
  <p class="updated_time"> 07:16 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/french-presidential-election-macron-le-pen.html">Macron to Face Le Pen for President as French Gravitate Toward Extremes</a> NYT: President Emmanuel Macron and the hard-right leader Marine Le Pen will compete for a second time in a runoff on April 24. 
- <p class="updated_time"> 07:15 PM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/israels-war-between-the-wars-with-iran-expands-across-middle-east-11649595603">Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East</a> WSJ: Israel’s ‘War Between the Wars’ With Iran Expands Across the Middle East 
  <p class="updated_time"> 07:07 PM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-60951030?at_medium=RSS&at_campaign=KARANGA">Australia election: Enter a lacklustre advert for democracy</a> BBC: Nick Bryant sees an election campaign that will be defined, to a large part, by what it lacks. 
- <p class="updated_time"> 06:51 PM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/04/10/world/french-presidential-election">French Election: Macron Leads Le Pen in Early Vote Count</a> NYT: President Emmanuel Macron will again face the far-right leader Marine Le Pen in a runoff. He will go into the second round as the favorite, having fared a little better than the latest opinion polls suggested. 
+ <p class="updated_time"> 06:52 PM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/european-countries-debate-how-to-cut-purchases-of-russian-oil-11649595841">Europe Debates How to Cut Purchases of Russian Oil</a> WSJ: Europe Debates How to Cut Purchases of Russian Oil 
  <p class="updated_time"> 06:20 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/pakistan-imran-khan-elections.html">In Imran Khan’s Ouster, a Reminder of Pakistani Military’s Power</a> NYT: After Imran Khan’s ouster as prime minister, the legacy of his time in office is a continued military dominance of public affairs and deep polarization that could turn violent. 
- <p class="updated_time"> 06:15 PM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/european-countries-debate-how-to-cut-purchases-of-russian-oil-11649595841">Europe Debates How to Cut Purchases of Russian Oil</a> WSJ: Europe Debates How to Cut Purchases of Russian Oil 
  <p class="updated_time"> 06:00 PM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61028653?at_medium=RSS&at_campaign=KARANGA">Falklands War: 'The UK is still usurping our land'</a> BBC: Argentina's president has said he will keep fighting for control of the islands, also known as the Malvinas. 
+ <p class="updated_time"> 05:52 PM CT, Apr. 10 </p> 
+ <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 05:30 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/ukrainian-kramatorsk.html">A Stricken Ukrainian City Empties, and Those Left Fear What’s Next</a> NYT: After the deadly strike on the train station in Kramatorsk, Ukraine, those who stayed behind are grim about the future: “We think we will be swept off the face of the earth.” 
  <p class="updated_time"> 05:29 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/australia/sydney-coronavirus-homecoming.html">An Australia Homecoming, Mixed With Yearning and Trepidation</a> NYT: When “Fortress Australia” sealed its borders, thousands of citizens were stuck abroad. When allowed to return home, a reporter wondered how she would find the country — and how it would find her. 
- <p class="updated_time"> 05:15 PM CT, Apr. 10 </p> 
- <a href="https://www.wsj.com/articles/fleeing-putin-thousands-of-educated-russians-are-moving-abroad-11649583003">Fleeing Putin, Thousands of Educated Russians Move Abroad</a> WSJ: Fleeing Putin, Thousands of Educated Russians Move Abroad 
  <p class="updated_time"> 04:25 PM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091691543/russia-ukraine-war-what-happened-today-april-10">Russia-Ukraine war: What happened today (April 10)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:01 PM CT, Apr. 10 </p> 
@@ -69,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/10/world/middleeast/palestinian-village-israel.html">In a Village Divided, Palestinians See Their Hold on Territory Eroding</a> NYT: Carved up over decades, the village of Walaja sits partly in the occupied West Bank and partly in Jerusalem. Palestinians say this type of fragmentation undermines prospects for a state. 
  <p class="updated_time"> 08:12 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091256975/from-nuremberg-to-darfur-history-has-seen-some-war-criminals-brought-to-trial">From Nuremberg to Darfur, history has seen some war criminals brought to trial </a> NPR: Responsibility is difficult to prove conclusively in a war zone, and evidence might have to link such acts to national leaders far from the battlefield. But it has happened. 
- <p class="updated_time"> 08:11 AM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/2022/04/10/world/asia/sundarbans-mangroves-india-bangladesh.html">Facing Disastrous Floods, They Turned to Mangrove Trees for Protection</a> NYT: In the Sundarbans, an ecological treasure straddling India and Bangladesh that is now on the front lines of climate change, local women are leading an effort to mitigate the dangers of rising waters. 
  <p class="updated_time"> 08:07 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927674/the-ukraine-russia-conflict-appears-to-be-entering-a-new-phase">The Ukraine-Russia conflict appears to be entering a new phase</a> NPR: Russia is preparing to launch another offensive, this time concentrating its attacks on the eastern part of Ukraine. 
  <p class="updated_time"> 07:24 AM CT, Apr. 10 </p> 
@@ -310,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/08/business/spirit-airlines-jetblue-frontier.html">Bidding War for Spirit Could Undercut Power of Four Big Airlines</a> NYT: The rival bids for Spirit from Frontier and JetBlue could create an airline that presents a more formidable challenge to American, Delta, Southwest and United. 
  <p class="updated_time"> 03:30 AM CT, Apr. 08 </p> 
  <a href="https://www.politico.com/news/2022/04/08/ukraines-iron-general-zaluzhnyy-00023901">Ukraine’s 'iron general' is a hero, but he's no star</a> Politico: Meet Valeriy Zaluzhnyy, the commander in chief of the Ukrainian Armed Forces, who's quietly leading the fight against Russia's invaders. 
- <p class="updated_time"> 10:36 PM CT, Apr. 07 </p> 
- <a href="https://www.nytimes.com/2022/04/07/us/politics/biden-vaccine-mandate-ruling.html">Biden’s Vaccine Mandate for Federal Workers Is Upheld By Appeals Court</a> NYT: The ruling Thursday reversed a decision that had blocked the White House from requiring federal workers to be vaccinated. 
 
 
 </details>
