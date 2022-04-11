@@ -9,18 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:30 PM CT, Apr. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61034754?at_medium=RSS&at_campaign=KARANGA">The Ukrainian bride who fled to India from Kyiv with a coffee machine</a> BBC: Anna Horodetska fled to India from Kyiv, with just a couple of T-shirts and a coffee machine. 
  <p class="updated_time"> 06:13 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Prepares for Stepped-Up Assault on the East</a> NYT: After meeting Vladimir V. Putin, Austria’s chancellor said the Russian leader wants to escalate the war as he focuses on the Donbas region. Ukrainians warned of possible Russian use of chemical weapons. 
  <p class="updated_time"> 06:07 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/europe/ukraine-russia-war-putin.html">Far From Defeated, Putin Intends to Escalate War in Ukraine</a> NYT: Austria’s chancellor said after meeting with Mr. Putin that the Russian president had “totally adopted the logic of war.” 
+ <p class="updated_time"> 05:37 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
  <p class="updated_time"> 05:30 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/ukraine-draft-dodgers.html">Ukraine’s Draft Dodgers Face Guilt, Shame and Reproach</a> NYT: Thousands of Ukrainian men are avoiding military service, putting them on risky paths into Europe. Among Ukrainians, it’s stirring a complicated debate. 
  <p class="updated_time"> 05:25 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61075220?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: White House tight-lipped on missing WNBA star</a> BBC: Phoenix Mercury centre Brittney Griner has reportedly been detained in Russia since February. 
  <p class="updated_time"> 05:20 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61071172?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Desperate mother writes details on toddler's back</a> BBC: Sasha Makoviy wrote her daughter's name on her skin in case her family were killed fleeing Kyiv. 
- <p class="updated_time"> 05:20 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
  <p class="updated_time"> 05:17 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-modi-india-russia-oil.html">Biden Urges Modi Not to Increase India’s Reliance on Russian Oil and Gas</a> NYT: The United States hopes to convince India to come off the fence over Russia’s invasion of Ukraine, but New Delhi and Moscow have deep historic ties. 
  <p class="updated_time"> 05:11 PM CT, Apr. 11 </p> 
@@ -29,12 +31,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/11/arts/music/ukraine-benefit-musicaeterna-currentzis.html">Ukraine Benefit Featuring Russian Ensemble Is Canceled in Vienna</a> NYT: Organizers said they canceled a performance by MusicAeterna after the Ukrainian ambassador in Austria expressed concern about featuring Russian artists. 
  <p class="updated_time"> 05:06 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/philadelphia-indoor-mask-mandate.html">City of Philadelphia Will Reinstate an Indoor Mask Mandate</a> NYT: The move comes a little more than a month after the city lifted it. 
+ <p class="updated_time"> 04:37 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/video/headline/F849A6B0-B9D1-4208-829F-803D15051A67.html">Russians Cope With War’s Fallout: Bulk Buying, Jobs in Limbo</a> WSJ: Russians Cope With War’s Fallout: Bulk Buying, Jobs in Limbo 
  <p class="updated_time"> 04:31 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/europe/french-presidential-election-macron-le-pen-far-fight.html">Macron Sets Out to Build a ‘Dam’ Against Le Pen. Can It Hold?</a> NYT: After Sunday’s vote, when nearly a third of ballots went to the extreme right, a united front of mainstream voters looked more precarious than ever. 
  <p class="updated_time"> 04:26 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61075379?at_medium=RSS&at_campaign=KARANGA">Britney Spears says she is pregnant after conservatorship ends</a> BBC: The singer, 40, also says she has previously suffered perinatal depression. 
- <p class="updated_time"> 04:20 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/video/headline/F849A6B0-B9D1-4208-829F-803D15051A67.html">Russians Cope With War’s Fallout: Bulk Buying, Jobs in Limbo</a> WSJ: Russians Cope With War’s Fallout: Bulk Buying, Jobs in Limbo 
  <p class="updated_time"> 04:19 PM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1091123928/etsy-strike-2022">Etsy sellers launch a week-long strike over increased fees</a> NPR: Thousands of Etsy sellers closed their online shops for a week starting Monday in an attempt to get the company to address several complaints they have about the site. 
  <p class="updated_time"> 04:15 PM CT, Apr. 11 </p> 
@@ -49,6 +51,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/11/world/europe/biden-narendra-modi-russia.html">Biden Meets With India’s Prime Minister Over Ukraine</a> NYT: India, heavily dependent on Russian weapons, has long tried not to take sides between Moscow and Washington. It has refrained from denouncing Russia’s invasion or imposing sanctions. 
  <p class="updated_time"> 03:42 PM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1092117537/a-report-from-kharkiv-and-other-war-updates">A report from Kharkiv and other war updates</a> NPR: President Volodomyr Zelenskyy is warning that thousands of Russian troops are getting ready for a major assault on southeastern Ukraine. Officials are urging civilians to flee before time runs out. 
+ <p class="updated_time"> 03:37 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
  <p class="updated_time"> 03:33 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61071164?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Austria pessimistic after Putin talks</a> BBC: Russia warns two Nordic nations against Nato membership, and the Austrian chancellor meets Putin in Moscow. 
  <p class="updated_time"> 03:23 PM CT, Apr. 11 </p> 
@@ -57,16 +61,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/11/1092117488/mexicos-president-declares-victory-after-recall-vote-which-critics-say-was-rigge">Mexico's president declares victory after recall vote, which critics say was rigged</a> NPR: Mexico's president called a recall vote on himself this weekend and won, though most Mexicans did not participate and opponents say it was too costly. 
  <p class="updated_time"> 03:23 PM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1092117481/what-it-was-like-in-chernihiv-ukraine-during-siege">What it was like in Chernihiv, Ukraine, during siege</a> NPR: Residents of Chernihiv endured a brutal siege for a month before Russian forces withdrew. Amid worries Russia will turn to more siege-like tactics as the war goes on, residents describe what happened. 
- <p class="updated_time"> 03:20 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
- <p class="updated_time"> 02:20 PM CT, Apr. 11 </p> 
+ <p class="updated_time"> 02:37 PM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/el-salvador-detains-more-than-9-000-people-in-gang-crackdown-11649703587">El Salvador Detains More Than 9,000 People in Gang Crackdown</a> WSJ: El Salvador Detains More Than 9,000 People in Gang Crackdown 
  <p class="updated_time"> 01:46 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html">China’s Echoes of Russia’s Alternate Reality Intensify Around the World</a> NYT: China’s officials and state media are increasingly parroting Russian propaganda organs on the war in Ukraine, undercutting U.S. and European diplomatic efforts, even after the killings in Bucha. 
+ <p class="updated_time"> 01:37 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
  <p class="updated_time"> 01:23 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/americas/mexico-president-recall-election.html">Mexico Voters Back López Obrador to Stay in Office in Recall Election</a> NYT: President Andrés Manuel López Obrador drew overwhelming support among those who cast ballots, but the recall referendum failed to achieve the required 40 percent threshold to be binding. 
- <p class="updated_time"> 01:20 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
  <p class="updated_time"> 12:14 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61068650?at_medium=RSS&at_campaign=KARANGA">Mariupol: Battle for key port city continues, Ukraine says</a> BBC: Mariupol's deputy mayor denies reports that Russia is close to victory in his city. 
  <p class="updated_time"> 11:44 AM CT, Apr. 11 </p> 
@@ -123,8 +125,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/10/world/europe/ukraine-farmers-food.html">War’s Disruption to Ukraine’s Farms Seeds Global Food Crisis</a> NYT: The Russian invasion is pummeling Ukraine’s agriculture, threatening harvests in Europe’s breadbasket and contributing to a global food crisis. 
  <p class="updated_time"> 10:38 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/sundarbans-mangroves-india-bangladesh.html">Facing Disastrous Floods, They Turned to Mangrove Trees for Protection</a> NYT: In the Sundarbans, an ecological treasure straddling India and Bangladesh that is now on the front lines of climate change, local women are leading an effort to mitigate the dangers of rising waters. 
- <p class="updated_time"> 07:07 PM CT, Apr. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-60951030?at_medium=RSS&at_campaign=KARANGA">Australia election: Enter a lacklustre advert for democracy</a> BBC: Nick Bryant sees an election campaign that will be defined, to a large part, by what it lacks. 
  <p class="updated_time"> 06:20 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/pakistan-imran-khan-elections.html">In Imran Khan’s Ouster, a Reminder of Pakistani Military’s Power</a> NYT: After Imran Khan’s ouster as prime minister, the legacy of his time in office is a continued military dominance of public affairs and deep polarization that could turn violent. 
  <p class="updated_time"> 06:00 PM CT, Apr. 10 </p> 
@@ -163,14 +163,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/10/world/europe/russia-ukraine-war-crimes.html">Why Calls for War Crimes Justice Over Ukraine Face Long Odds</a> NYT: If those in power act as if they are immune to the laws of war, it may be because they often are. But following through is not necessarily an empty exercise. 
  <p class="updated_time"> 08:52 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/mariupol-theater-ukraine.html">In Mariupol’s Drama Theater, a Cry for ‘Mama!’ That Offered Brief Relief</a> NYT: A family shares its story of surviving the Russian attack on a theater that officials in the besieged southern Ukrainian city believe killed about 300 people. 
- <p class="updated_time"> 06:31 PM CT, Apr. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-60993770?at_medium=RSS&at_campaign=KARANGA">López Obrador: What's behind Mexican leader's recall referendum?</a> BBC: The unprecedented mid-term referendum was called not by the opposition but the president himself. 
- <p class="updated_time"> 06:25 PM CT, Apr. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61029991?at_medium=RSS&at_campaign=KARANGA">Mozambique Palma terror attack: 'I can't go back'</a> BBC: After a brazen jihadist siege a year ago, Mozambique's fledgling gas industry remains on hold. 
- <p class="updated_time"> 06:05 PM CT, Apr. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61051307?at_medium=RSS&at_campaign=KARANGA">Ukraine: Three ways this war could escalate and drag Nato in</a> BBC: How exactly could this conflict escalate into a wider pan-European conflict that drags in Nato? 
- <p class="updated_time"> 06:04 PM CT, Apr. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61036880?at_medium=RSS&at_campaign=KARANGA">Chernihiv: Are these Russia's weapons of war?</a> BBC: Analysis of three attacks in the city of Chernihiv may offer clues about Putin's tactics in Ukraine. 
  <p class="updated_time"> 06:00 PM CT, Apr. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61015974?at_medium=RSS&at_campaign=KARANGA">Saniya Mistri: The hijab-wearing teen rapper breaking stereotypes</a> BBC: Saniya Mistri's powerful rap songs call out the glaring inequalities in her city, Mumbai. 
  <p class="updated_time"> 05:22 PM CT, Apr. 09 </p> 
@@ -195,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/09/world/asia/japan-russia-ukraine.html">Japan Aligns With U.S. and Europe in Penalizing Russia Over Ukraine War</a> NYT: The country has announced a ban on Russian coal and restrictions on imports including timber, vodka and machinery. It is also expelling eight Russian diplomats. 
  <p class="updated_time"> 11:36 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/middleeast/saudi-arabia-hajj-pandemic-rules.html">Saudi Arabia will allow a million hajj pilgrims to visit Mecca, with Covid precautions.</a> NYT: Vaccinations and negative tests will be required for those who attend the annual ritual. 
- <p class="updated_time"> 10:48 PM CT, Apr. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61048256?at_medium=RSS&at_campaign=KARANGA">Inside Chernobyl: We stole Russian fuel to prevent catastrophe</a> BBC: Staff at the former nuclear plant tell the BBC they were forced to negotiate when Russian forces took over. 
  <p class="updated_time"> 06:40 PM CT, Apr. 08 </p> 
  <a href="https://www.nytimes.com/2022/04/08/world/europe/ukraine-train-station-kramatorsk.html">Missile Strike Kills At Least 50 at Ukraine Train Station </a> NYT: Ukraine’s president blamed Russia for the latest atrocity in the six-week-old war, calling the Russian invasion force “an evil that has no limits.” Moscow denied responsibility. 
 
@@ -206,14 +196,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:27 PM CT, Apr. 11 </p> 
+ <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-atf-steven-dettelbach.html">Biden Names Former Federal Prosecutor to Lead A.T.F.</a> NYT: The president nominated Steven M. Dettelbach to run the troubled agency, seven months after withdrawing his previous pick. 
+ <p class="updated_time"> 06:07 PM CT, Apr. 11 </p> 
+ <a href="https://www.politico.com/news/2022/04/11/cuomo-stays-out-democratic-primary-00024517">Cuomo’s comeback gets more difficult as he stays out of Democratic primary</a> Politico: Here’s a look at some of the hurdles that make a Cuomo comeback bid even more of a long shot now than it was before the deadline to enter the primary passed. 
  <p class="updated_time"> 06:00 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/tom-ohalleran-arizona-house.html">An Arizona Democrat Tries to Hang On in a Trump-Tilting District</a> NYT: Representative Tom O’Halleran of Arizona is seeking re-election as his district leans further toward Trump. His strategy? Don’t change. “I am,” he says, “who I am.” 
  <p class="updated_time"> 05:22 PM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/officer-convicted-storming-capitol-disrupt-congress-00024550">Jury convicts former Va. police officer for role in Jan. 6 riot</a> Politico: A former colleague testified against Rocky Mount police officer Thomas Robertson. 
  <p class="updated_time"> 05:17 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-modi-india-russia-oil.html">Biden Urges Modi Not to Increase India’s Reliance on Russian Oil and Gas</a> NYT: The United States hopes to convince India to come off the fence over Russia’s invasion of Ukraine, but New Delhi and Moscow have deep historic ties. 
- <p class="updated_time"> 04:31 PM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-atf-steven-dettelbach.html">Biden Names Former Federal Prosecutor to Lead A.T.F.</a> NYT: The president nominated Steven M. Dettelbach to run the troubled agency, seven months after withdrawing his previous pick. 
  <p class="updated_time"> 04:28 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/arizona-republicans-paul-gosar.html">Gosar, Far-Right Incumbent, Faces G.O.P. Challengers in Arizona</a> NYT: Casting themselves as alternatives to a polarizing lawmaker, these candidates could reveal a window into the Republican electorate. 
  <p class="updated_time"> 04:25 PM CT, Apr. 11 </p> 
@@ -262,8 +254,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/11/magazine/trump-putin-ukraine-fiona-hill.html">Trump and Ukraine: Former Advisers Revisit What Happened</a> NYT: Amid the current crisis, Fiona Hill and other former advisers are connecting President Trump’s pressure campaign on Ukraine to Jan. 6. And they’re ready to talk. 
  <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1091483542/the-top-10-senate-races-that-are-most-likely-to-flip-to-the-other-party">The top 10 Senate seats that are most likely to flip to the other party</a> NPR: Though more Republican-held seats are up for grabs in November, Democratic struggles mean the GOP has improved its likelihood to take control of the Senate. Here are the key contests to watch. 
- <p class="updated_time"> 03:47 AM CT, Apr. 11 </p> 
- <a href="https://www.politico.com/news/2022/04/11/greitens-hartzler-missouri-senate-race-00024351">Greitens’ fade reorders Missouri Senate race</a> Politico: Rep. Vicky Hartzler is surging in the state's GOP primary. 
  <p class="updated_time"> 03:31 AM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/washington-poised-to-clamp-down-on-oligarchs-real-estate-00023347">Oligarchs' big loophole for stashing money</a> Politico: The effort to close anti-money-laundering loopholes was already picking up momentum in Washington even before Russia invaded Ukraine. 
  <p class="updated_time"> 03:30 AM CT, Apr. 11 </p> 
