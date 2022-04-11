@@ -9,20 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:46 PM CT, Apr. 11 </p> 
+ <a href="https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html">China’s Echoes of Russia’s Alternate Reality Intensify Around the World</a> NYT: China’s officials and state media are increasingly parroting Russian propaganda organs on the war in Ukraine, undercutting U.S. and European diplomatic efforts, even after the killings in Bucha. 
+ <p class="updated_time"> 01:31 PM CT, Apr. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news">Ukraine Live Updates: Claims of Atrocities Mount as Russia Prepares a Renewed Offensive</a> NYT: President Zelensky warned that “tens of thousands” of Russian troops were poised for a major assault in the east. France sent a team of experts to Ukraine to help document possible war crimes. 
  <p class="updated_time"> 01:23 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/americas/mexico-president-recall-election.html">Mexico Voters Back López Obrador to Stay in Office in Recall Election</a> NYT: President Andrés Manuel López Obrador drew overwhelming support among those who cast ballots, but the recall referendum failed to achieve the required 40 percent threshold to be binding. 
- <p class="updated_time"> 01:22 PM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news">Ukraine Live Updates: Claims of Atrocities Mount as Russia Prepares a Renewed Offensive</a> NYT: President Zelensky warned that “tens of thousands” of Russian troops were poised for a major assault in the east. France sent a team of experts to Ukraine to help document possible war crimes. 
- <p class="updated_time"> 12:33 PM CT, Apr. 11 </p> 
+ <p class="updated_time"> 12:53 PM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/video/headline/F849A6B0-B9D1-4208-829F-803D15051A67.html">Russians Cope With Ukraine War’s Fallout: Bulk Buying, Jobs in Limbo</a> WSJ: Russians Cope With Ukraine War’s Fallout: Bulk Buying, Jobs in Limbo 
  <p class="updated_time"> 12:14 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61068650?at_medium=RSS&at_campaign=KARANGA">Mariupol: Battle for key port city continues, Ukraine says</a> BBC: Mariupol's deputy mayor denies reports that Russia is close to victory in his city. 
+ <p class="updated_time"> 11:53 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
  <p class="updated_time"> 11:44 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61067254?at_medium=RSS&at_campaign=KARANGA">Southern Africa storms fuelled by climate change - study</a> BBC: Scientists say the rainfall during storms in the region was heavier and the damage worse than before. 
  <p class="updated_time"> 11:36 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61068510?at_medium=RSS&at_campaign=KARANGA">Ayman Hadhoud: Questions over Egyptian economist's mysterious death</a> BBC: Official accounts as to what happened to Ayman Hadhoud differ, with his family seeking the truth. 
- <p class="updated_time"> 11:33 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
  <p class="updated_time"> 11:26 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61028866?at_medium=RSS&at_campaign=KARANGA">Hidden wealth of one of Putin’s 'inner circle' revealed</a> BBC: Leaked documents show how sanctioned oligarch Suleiman Kerimov used shell companies to move $700m. 
  <p class="updated_time"> 11:18 AM CT, Apr. 11 </p> 
@@ -31,30 +33,30 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61072430?at_medium=RSS&at_campaign=KARANGA">'IS Beatle' stood out from the others, court hears</a> BBC: El Shafee Elsheikh is one of a group of IS fighters with UK links accused of killing hostages in Syria. 
  <p class="updated_time"> 10:53 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1092004302/islamic-state-supporter-ali-harbi-ali-guilty-u-k-lawmaker-david-amess">An Islamic State supporter is found guilty of killing U.K. lawmaker David Amess</a> NPR: After just 18 minutes, a jury found Ali Harbi Ali guilty of murder and preparing terrorist acts. Ali stabbed Amess to death last year while he was meeting with voters at a church in eastern England. 
+ <p class="updated_time"> 10:53 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
  <p class="updated_time"> 10:47 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/us-russia-ukraine-war-crimes.html">U.S. Weighs Shift to Support Hague Court as It Investigates Russian Atrocities</a> NYT: The government is hamstrung from helping the world’s war-crimes court by two laws and a policy aimed at barring it from charging Americans. 
  <p class="updated_time"> 10:35 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61063386?at_medium=RSS&at_campaign=KARANGA">Pakistan: Shehbaz Sharif chosen as PM after week-long uncertainty</a> BBC: Shehbaz Sharif is the brother of a former prime minister and the rival of recently ousted Imran Khan. 
- <p class="updated_time"> 10:33 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
+ <p class="updated_time"> 09:53 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
  <p class="updated_time"> 09:48 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/french-presidential-election-macron-le-pen.html">Macron to Face Le Pen for President as French Gravitate Toward Extremes</a> NYT: President Emmanuel Macron and the hard-right leader Marine Le Pen will compete for a second time in a runoff on April 24. 
  <p class="updated_time"> 09:43 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61071163?at_medium=RSS&at_campaign=KARANGA">Marina Ovsyannikova: German outlet hires Russian protester</a> BBC: Marina Ovsyannikova staged an anti-war protest on a live broadcast of Russian state TV last month. 
- <p class="updated_time"> 09:33 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
  <p class="updated_time"> 09:09 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1091997661/john-lennons-son-julian-performs-imagine-for-the-first-time-in-support-of-ukrain">John Lennon's son, Julian, performs 'Imagine' for the 1st time, in support of Ukraine</a> NPR: Lennon suggested that the song represents "our collective desire for peace worldwide" and that it transports listeners to a place "where love and togetherness become our reality." 
  <p class="updated_time"> 09:08 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/asia/pakistan-shehbaz-sharif-prime-minister.html">Shehbaz Sharif Becomes Interim Prime Minister of Pakistan</a> NYT: Mr. Sharif, whose family has been dogged by accusations of graft for decades, was selected by Pakistan’s Parliament at a time of deep political divisions and economic tumult. 
  <p class="updated_time"> 08:54 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61066503?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Russia warns Sweden and Finland against Nato membership</a> BBC: Kremlin spokesman Dmitry Peskov said the move won't bring stability to Europe. 
+ <p class="updated_time"> 08:53 AM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/pakistans-shehbaz-sharif-becomes-prime-minister-11649690471">Pakistan’s Shehbaz Sharif Becomes Prime Minister</a> WSJ: Pakistan’s Shehbaz Sharif Becomes Prime Minister 
  <p class="updated_time"> 08:44 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1091949189/russias-plan-a-in-ukraine-failed-heres-what-plan-b-could-look-like">Russia's Plan A in Ukraine failed. Here's what Plan B could look like</a> NPR: Ukraine's military has fought so effectively that Russia abandoned its initial plan, which envisioned a quick takeover of Kyiv. Now Russia has a new approach, which focuses on eastern Ukraine. 
  <p class="updated_time"> 08:33 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/sport/rugby-union/61066321?at_medium=RSS&at_campaign=KARANGA">NZ rugby players report body shaming and favouritism</a> BBC: New Zealand players have reported culturally insensitive comments and alleged "favouritism", "ghosting" and "body shaming" from coaches. 
- <p class="updated_time"> 08:33 AM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/pakistans-shehbaz-sharif-becomes-prime-minister-11649690471">Pakistan’s Shehbaz Sharif Becomes Prime Minister</a> WSJ: Pakistan’s Shehbaz Sharif Becomes Prime Minister 
  <p class="updated_time"> 08:05 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/asia/japan-military-russia-ukraine.html">Japan Sends Ukraine Military Equipment, Shedding Pacifist Constraints</a> NYT: Growing calls for more military spending after Russia’s invasion of Ukraine demonstrate Japan’s recognition that it must bolster its own deterrent power, not just rely on its U.S. alliance. 
  <p class="updated_time"> 07:00 AM CT, Apr. 11 </p> 
@@ -71,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/11/1091983070/pakistani-lawmakers-to-elect-new-prime-minister-after-imran-khan-ouster">Pakistani lawmakers to elect new prime minister after Imran Khan ouster</a> NPR: An opposition lawmaker and a brother of disgraced former prime minister appears as a leading contender to replace Khan. 
  <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/health/this-psychiatric-hospital-used-to-chain-patients-now-it-treats-them.html">This Psychiatric Hospital Used to Chain Patients. Now It Treats Them.</a> NYT: Sierra Leone, one of the world’s poorest countries, is working to build a modern mental health system from scratch. 
- <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html">China’s Echoes of Russia’s Alternate Reality Intensify Around the World</a> NYT: China’s officials and state media are increasingly parroting Russian propaganda organs on the war in Ukraine, undercutting U.S. and European diplomatic efforts, even after the killings in Bucha. 
  <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/magazine/trump-putin-ukraine-fiona-hill.html">Trump and Ukraine: Former Advisers Revisit What Happened</a> NYT: Amid the current crisis, Fiona Hill and other former advisers are connecting President Trump’s pressure campaign on Ukraine to Jan. 6. And they’re ready to talk. 
  <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
