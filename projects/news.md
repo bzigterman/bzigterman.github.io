@@ -9,22 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:18 AM CT, Apr. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/04/12/world/ukraine-russia-war-news">Ukraine Live Updates: Fears Grow That Russia Will Escalate to Use of Chemical Weapons</a> NYT: Britain and Australia said they were investigating reports that Russia had already used them. Ukraine’s military is preparing for a major assault in the east. 
+ <p class="updated_time"> 06:36 AM CT, Apr. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/12/world/ukraine-russia-war-news">Ukraine Live Updates: Putin Defends War as Allies Warn of Dangerous New Phase in Fighting</a> NYT: Russia is pouring troops and equipment into eastern Ukraine, presaging a bloody new chapter in the conflict. The U.S., Britain and Australia said they were investigating an unconfirmed report that Russia had deployed a chemical agent, after a handful of people in Mariupol fell ill. 
  <p class="updated_time"> 05:59 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61077645?at_medium=RSS&at_campaign=KARANGA">Kinahan Cartel: US sanctions cartel leader with links to Tyson Fury</a> BBC: US officials said Daniel Kinahan, who worked with boxer Tyson Fury, leads one of Europe's top drug gangs. 
  <p class="updated_time"> 05:54 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61073894?at_medium=RSS&at_campaign=KARANGA">Marine Le Pen says she opposes sanctions on Russian gas</a> BBC: The French presidential candidate says she is in favour of sanctions on Russia - except for energy. 
  <p class="updated_time"> 05:48 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/arts/design/turner-prize-phillipson-pollard.html">Black Artists Lead Turner Prize Shortlist</a> NYT: This year’s nominees include a sculptor, a photographer and an artist who created a 31-foot statue of a dollop of whipped cream, with a fly on it. 
- <p class="updated_time"> 05:28 AM CT, Apr. 12 </p> 
+ <p class="updated_time"> 05:40 AM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Russia Unleashes New Attacks Overnight on Ukraine’s Eastern Region</a> WSJ: Russia Unleashes New Attacks Overnight on Ukraine’s Eastern Region 
  <p class="updated_time"> 05:11 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61078955?at_medium=RSS&at_campaign=KARANGA">El Salvador: Whip-wielding demons kick off Easter week</a> BBC: Men dress up as demons and playfully whip locals "to cleanse them of their sins" in Texistepeque. 
+ <p class="updated_time"> 04:40 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/u-s-orders-departure-of-consulate-staff-and-family-from-shanghai-because-of-covid-19-surge-11649727540">U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge</a> WSJ: U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge 
  <p class="updated_time"> 04:31 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092253929/on-the-presidential-campaign-trail-competing-visions-of-france-emerge">On the presidential campaign trail, competing visions of France emerge</a> NPR: As President Emmanuel Macron and challenger Marine Le Pen campaign for the April 24 run-off election, analysts say the vote results will have deep consequences in France and on the  world stage. 
- <p class="updated_time"> 04:28 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/u-s-orders-departure-of-consulate-staff-and-family-from-shanghai-because-of-covid-19-surge-11649727540">U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge</a> WSJ: U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1091784412/darfur-icc-trial-ali-kushayb">Survivors react to the first-ever trial for war crimes in Darfur</a> NPR: Ali Kushayb has pleaded not guilty to 31 counts of war crimes and crimes against humanity in connection to atrocities committed in the Darfur region of Sudan. 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
@@ -39,19 +39,21 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/world/asia/china-covid-quarantine-shanghai.html">From the U.S. to China: A 3-Month Quarantine Horror Story</a> NYT: A lawyer flew home to China hoping to see his family for the first time since the pandemic began. Instead, he was trapped in three months of quarantine. 
  <p class="updated_time"> 03:44 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61077641?at_medium=RSS&at_campaign=KARANGA">Ukraine War: US 'deeply concerned' at report of Mariupol chemical attack</a> BBC: Ukrainian forces in Mariupol say a Russian drone dropped a chemical substance on the city overnight. 
- <p class="updated_time"> 03:28 AM CT, Apr. 12 </p> 
+ <p class="updated_time"> 03:40 AM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/russian-general-who-led-forces-into-syria-tapped-to-lead-ukraine-invasion-11649714331">Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion</a> WSJ: Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion 
  <p class="updated_time"> 03:12 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092251401/russia-ukraine-war-worsens-fertilizer-crunch-risking-food-supplies">Russia-Ukraine war worsens fertilizer crunch, risking food supplies</a> NPR: The Russia-Ukraine war pushes up the price of natural gas, a key ingredient in fertilizer, and has led to severe sanctions against Russia, a major exporter of fertilizer. 
  <p class="updated_time"> 03:11 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/europe/french-presidential-election-macron-le-pen-far-fight.html">Macron Sets Out to Build a ‘Dam’ Against Le Pen. Can It Hold?</a> NYT: After Sunday’s vote, when nearly a third of ballots went to the extreme right, a united front of mainstream voters looked more precarious than ever. 
- <p class="updated_time"> 02:28 AM CT, Apr. 12 </p> 
+ <p class="updated_time"> 02:40 AM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
+ <p class="updated_time"> 02:03 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-desperately-needs-foodand-one-u-s-executive-crossed-the-globe-to-help-11649761380">U.S. Executive Crossed Globe to Help Ukraine Get Food</a> WSJ: The war has decimated Ukraine’s food supply chain, leading to shortages; Stanislas Vilgrain solicited donations and drove them across Europe to Lviv. 
  <p class="updated_time"> 01:47 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/ukraine-war-children-parents.html">Ukrainian Parents Are Writing IDs on Their Children’s Bodies</a> NYT: A mother who wrote emergency contact information on her 2-year-old’s back has become a voice for countless Ukrainian parents forced to do the same. 
  <p class="updated_time"> 01:45 AM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/after-north-korean-missile-tests-u-s-deploys-nuclear-powered-warship-to-region-11649760353">After North Korean Missile Tests, U.S. Deploys Nuclear-Powered Warship to Region</a> WSJ: The display of American naval firepower overlaps with a major North Korean holiday, which U.S. officials see as an occasion for the Kim regime to potentially carry out a weapons test. 
- <p class="updated_time"> 01:28 AM CT, Apr. 12 </p> 
+ <p class="updated_time"> 01:40 AM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/el-salvador-detains-more-than-9-000-people-in-gang-crackdown-11649703587">El Salvador Detains More Than 9,000 People in Gang Crackdown</a> WSJ: El Salvador Detains More Than 9,000 People in Gang Crackdown 
  <p class="updated_time"> 01:26 AM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/rocketing-prices-test-europes-political-resolve-in-confrontation-with-russia-11649759216">Rocketing Prices Test Europe's Political Resolve in Confrontation With Russia</a> WSJ: Leaping food and fuel prices in the wake of the war in Ukraine are fueling discontent across Europe, testing Western democracies’ political resilience. 
@@ -209,7 +211,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/transgender-laws-us.html">Red States Push L.G.B.T.Q. Restrictions as Education Battles Intensify</a> NYT: With an eye toward parents’ anxiety, Republicans have put forward a wave of laws on classroom instruction, youth sports and health care. Some of the young people at the center feel isolated. 
  <p class="updated_time"> 03:31 AM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/gop-primary-west-virginia-infrastructure-00024473">Wild GOP primary hinges on roads-and-bridges dollars</a> Politico: A vote on the 2021 bipartisan infrastructure package is at the center of the fight between GOP Reps. David McKinley and Alex Mooney. 
+ <a href="https://www.politico.com/news/2022/04/12/gop-primary-west-virginia-infrastructure-00024473">'RINO' versus 'political prostitute': Bitter GOP primary hinges on infrastructure plans</a> Politico: A vote on the 2021 bipartisan infrastructure package is at the center of the fight between GOP Reps. David McKinley and Alex Mooney. 
  <p class="updated_time"> 03:30 AM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/trump-ally-arizona-voting-machine-audit-00024444">How a Trump ally got his unfounded voting-machine audit push in front of federal cyber cops</a> Politico: Arizona state Rep. Mark Finchem made an unusual request in the waning days of the former president's term, according to emails shared with POLITICO. 
  <p class="updated_time"> 11:40 PM CT, Apr. 11 </p> 
