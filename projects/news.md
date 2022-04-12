@@ -9,22 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:36 AM CT, Apr. 12 </p> 
+ <p class="updated_time"> 07:10 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/04/12/world/ukraine-russia-war-news">Ukraine Live Updates: Putin Defends War as Allies Warn of Dangerous New Phase in Fighting</a> NYT: Russia is pouring troops and equipment into eastern Ukraine, presaging a bloody new chapter in the conflict. The U.S., Britain and Australia said they were investigating an unconfirmed report that Russia had deployed a chemical agent, after a handful of people in Mariupol fell ill. 
- <p class="updated_time"> 05:59 AM CT, Apr. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61077645?at_medium=RSS&at_campaign=KARANGA">Kinahan Cartel: US sanctions cartel leader with links to Tyson Fury</a> BBC: US officials said Daniel Kinahan, who worked with boxer Tyson Fury, leads one of Europe's top drug gangs. 
+ <p class="updated_time"> 06:52 AM CT, Apr. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61077648?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin says Russian invasion will achieve 'noble' aims</a> BBC: Speaking at a Russian space centre, Mr Putin claimed his invasion aimed to help people in the Donbas. 
+ <p class="updated_time"> 06:44 AM CT, Apr. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61077645?at_medium=RSS&at_campaign=KARANGA">Kinahan Cartel: US sanctions cartel leader with links to Tyson Fury</a> BBC: US officials said Daniel Kinahan, who worked as an advisor to boxer Tyson Fury, leads one of Europe's top drug gangs. 
+ <p class="updated_time"> 06:18 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Russia Unleashes New Attacks Overnight on Ukraine’s Eastern Region</a> WSJ: Russia Unleashes New Attacks Overnight on Ukraine’s Eastern Region 
  <p class="updated_time"> 05:54 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61073894?at_medium=RSS&at_campaign=KARANGA">Marine Le Pen says she opposes sanctions on Russian gas</a> BBC: The French presidential candidate says she is in favour of sanctions on Russia - except for energy. 
  <p class="updated_time"> 05:48 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/arts/design/turner-prize-phillipson-pollard.html">Black Artists Lead Turner Prize Shortlist</a> NYT: This year’s nominees include a sculptor, a photographer and an artist who created a 31-foot statue of a dollop of whipped cream, with a fly on it. 
- <p class="updated_time"> 05:40 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Russia Unleashes New Attacks Overnight on Ukraine’s Eastern Region</a> WSJ: Russia Unleashes New Attacks Overnight on Ukraine’s Eastern Region 
+ <p class="updated_time"> 05:18 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-desperately-needs-foodand-one-u-s-executive-crossed-the-globe-to-help-11649761380">U.S. Executive Crossed Globe to Help Ukraine Get Food</a> WSJ: U.S. Executive Crossed Globe to Help Ukraine Get Food 
  <p class="updated_time"> 05:11 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61078955?at_medium=RSS&at_campaign=KARANGA">El Salvador: Whip-wielding demons kick off Easter week</a> BBC: Men dress up as demons and playfully whip locals "to cleanse them of their sins" in Texistepeque. 
- <p class="updated_time"> 04:40 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/u-s-orders-departure-of-consulate-staff-and-family-from-shanghai-because-of-covid-19-surge-11649727540">U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge</a> WSJ: U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge 
  <p class="updated_time"> 04:31 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092253929/on-the-presidential-campaign-trail-competing-visions-of-france-emerge">On the presidential campaign trail, competing visions of France emerge</a> NPR: As President Emmanuel Macron and challenger Marine Le Pen campaign for the April 24 run-off election, analysts say the vote results will have deep consequences in France and on the  world stage. 
+ <p class="updated_time"> 04:18 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/rocketing-prices-test-europes-political-resolve-in-confrontation-with-russia-11649759216">Rocketing Prices Test Europe’s Political Resolve in Confrontation With Russia</a> WSJ: Rocketing Prices Test Europe’s Political Resolve in Confrontation With Russia 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1091784412/darfur-icc-trial-ali-kushayb">Survivors react to the first-ever trial for war crimes in Darfur</a> NPR: Ali Kushayb has pleaded not guilty to 31 counts of war crimes and crimes against humanity in connection to atrocities committed in the Darfur region of Sudan. 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
@@ -39,30 +43,22 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/world/asia/china-covid-quarantine-shanghai.html">From the U.S. to China: A 3-Month Quarantine Horror Story</a> NYT: A lawyer flew home to China hoping to see his family for the first time since the pandemic began. Instead, he was trapped in three months of quarantine. 
  <p class="updated_time"> 03:44 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61077641?at_medium=RSS&at_campaign=KARANGA">Ukraine War: US 'deeply concerned' at report of Mariupol chemical attack</a> BBC: Ukrainian forces in Mariupol say a Russian drone dropped a chemical substance on the city overnight. 
- <p class="updated_time"> 03:40 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/russian-general-who-led-forces-into-syria-tapped-to-lead-ukraine-invasion-11649714331">Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion</a> WSJ: Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion 
+ <p class="updated_time"> 03:18 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/u-s-orders-departure-of-consulate-staff-and-family-from-shanghai-because-of-covid-19-surge-11649727540">U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge</a> WSJ: U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge 
  <p class="updated_time"> 03:12 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092251401/russia-ukraine-war-worsens-fertilizer-crunch-risking-food-supplies">Russia-Ukraine war worsens fertilizer crunch, risking food supplies</a> NPR: The Russia-Ukraine war pushes up the price of natural gas, a key ingredient in fertilizer, and has led to severe sanctions against Russia, a major exporter of fertilizer. 
  <p class="updated_time"> 03:11 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/europe/french-presidential-election-macron-le-pen-far-fight.html">Macron Sets Out to Build a ‘Dam’ Against Le Pen. Can It Hold?</a> NYT: After Sunday’s vote, when nearly a third of ballots went to the extreme right, a united front of mainstream voters looked more precarious than ever. 
- <p class="updated_time"> 02:40 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
- <p class="updated_time"> 02:03 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraine-desperately-needs-foodand-one-u-s-executive-crossed-the-globe-to-help-11649761380">U.S. Executive Crossed Globe to Help Ukraine Get Food</a> WSJ: The war has decimated Ukraine’s food supply chain, leading to shortages; Stanislas Vilgrain solicited donations and drove them across Europe to Lviv. 
+ <p class="updated_time"> 02:18 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/after-north-korean-missile-tests-u-s-deploys-nuclear-powered-warship-to-region-11649760353">After North Korean Missile Tests, U.S. Deploys Nuclear-Powered Warship to Region</a> WSJ: After North Korean Missile Tests, U.S. Deploys Nuclear-Powered Warship to Region 
  <p class="updated_time"> 01:47 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/ukraine-war-children-parents.html">Ukrainian Parents Are Writing IDs on Their Children’s Bodies</a> NYT: A mother who wrote emergency contact information on her 2-year-old’s back has become a voice for countless Ukrainian parents forced to do the same. 
- <p class="updated_time"> 01:45 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/after-north-korean-missile-tests-u-s-deploys-nuclear-powered-warship-to-region-11649760353">After North Korean Missile Tests, U.S. Deploys Nuclear-Powered Warship to Region</a> WSJ: The display of American naval firepower overlaps with a major North Korean holiday, which U.S. officials see as an occasion for the Kim regime to potentially carry out a weapons test. 
- <p class="updated_time"> 01:40 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/el-salvador-detains-more-than-9-000-people-in-gang-crackdown-11649703587">El Salvador Detains More Than 9,000 People in Gang Crackdown</a> WSJ: El Salvador Detains More Than 9,000 People in Gang Crackdown 
- <p class="updated_time"> 01:26 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/rocketing-prices-test-europes-political-resolve-in-confrontation-with-russia-11649759216">Rocketing Prices Test Europe's Political Resolve in Confrontation With Russia</a> WSJ: Leaping food and fuel prices in the wake of the war in Ukraine are fueling discontent across Europe, testing Western democracies’ political resilience. 
  <p class="updated_time"> 01:00 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/climate/antarctica-penguins.html">Climate Change Is Hurting Penguins Unevenly in Antarctica</a> NYT: The western side of the Antarctic Peninsula has seen sharp declines in Adélie penguin populations in recent decades. Things look better on the eastern side. Take a tour. 
  <p class="updated_time"> 11:28 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/asia/pakistan-shehbaz-sharif-prime-minister.html">Shehbaz Sharif Becomes Prime Minister of Pakistan</a> NYT: Mr. Sharif, whose family has been dogged by accusations of graft for decades, was selected by Pakistan’s Parliament at a time of deep political divisions and economic tumult. 
  <p class="updated_time"> 11:16 PM CT, Apr. 11 </p> 
- <a href="https://www.npr.org/2022/04/12/1092239910/u-s-consular-staff-leave-shanghai">U.S. orders consular staff to leave Shanghai amid COVID surge</a> NPR: The order from Washington covers "non-emergency U.S. government employees and their family members from U.S. Consulate General Shanghai." 
+ <a href="https://www.npr.org/2022/04/12/1092239910/u-s-consular-staff-leave-shanghai">The U.S. orders non-emergency staff to leave Shanghai amid a COVID surge</a> NPR: Many residents in the city of 26 million have been confined to their homes for up to three weeks as China maintains its "zero-COVID" strategy of handling outbreaks. 
  <p class="updated_time"> 10:04 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html">China’s Echoes of Russia’s Alternate Reality Intensify Around the World</a> NYT: China’s officials and state media are increasingly parroting Russian propaganda organs on the war in Ukraine, undercutting U.S. and European diplomatic efforts, even after the killings in Bucha. 
  <p class="updated_time"> 08:56 PM CT, Apr. 11 </p> 
@@ -85,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61034754?at_medium=RSS&at_campaign=KARANGA">Ukraine: The bride who fled to India from Kyiv with a coffee machine</a> BBC: Anna Horodetska fled to India from Kyiv, with just a couple of T-shirts and a coffee machine. 
  <p class="updated_time"> 05:30 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/ukraine-draft-dodgers.html">Ukraine’s Draft Dodgers Face Guilt, Shame and Reproach</a> NYT: Thousands of Ukrainian men are avoiding military service, putting them on risky paths into Europe. Among Ukrainians, it’s stirring a complicated debate. 
- <p class="updated_time"> 05:25 PM CT, Apr. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61075220?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: White House tight-lipped on missing WNBA star</a> BBC: Phoenix Mercury centre Brittney Griner has reportedly been detained in Russia since February. 
  <p class="updated_time"> 05:20 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61071172?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Desperate mother writes details on toddler's back</a> BBC: Sasha Makoviy wrote her daughter's name on her skin in case her family were killed fleeing Kyiv. 
  <p class="updated_time"> 05:17 PM CT, Apr. 11 </p> 
