@@ -9,30 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
+ <a href="https://www.npr.org/2022/04/12/1091784412/darfur-icc-trial-ali-kushayb">Survivors react to the first-ever trial for war crimes in Darfur</a> NPR: Ali Kushayb has pleaded not guilty to 31 counts of war crimes and crimes against humanity in connection to atrocities committed in the Darfur region of Sudan. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2022/04/12/1091694698/project-dynamo-extracts-americans-trapped-in-ukraine">Meet the rescue team extracting people trapped in Kyiv suburbs under siege</a> NPR: U.S. combat veteran Bryan Stern runs a nonprofit called Project Dynamo that extracts people from hostile places. Since Russia's invasion of Ukraine, the organization has rescued more than 400 people. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
+ <a href="https://www.npr.org/2022/04/12/1091408208/these-intricately-decorated-eggs-are-raising-money-and-good-wishes-for-ukraine">These intricately decorated eggs are raising money and good wishes for Ukraine</a> NPR: The Ukrainian springtime tradition of intricately decorating eggs has taken on new urgency during the war with Russia. Now, people are using this art to fundraise and bring awareness for Ukraine. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
+ <a href="https://www.nytimes.com/2022/04/12/world/americas/mexico-nude-beach-lgbtq.html">This Beach in Mexico Is an L.G.B.T.Q. Haven. But Can It Last?</a> NYT: The town of Zipolite in western Mexico has become an oasis for the queer community. But as its popularity has surged, some worry that the town’s spirit is beginning to vanish. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
+ <a href="https://www.nytimes.com/2022/04/12/world/asia/sri-lanka-protests-gotabaya-rajapaksa.html">Sri Lanka’s President Gotabaya Rajapaksa Faces Huge Protest</a> NYT: Gotabaya Rajapaksa is used to silencing and discrediting his political opponents. But that’s harder to do this time. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
+ <a href="https://www.nytimes.com/2022/04/12/world/asia/china-covid-quarantine-ordeal.html">From the U.S. to China: A 3-Month Quarantine Horror Story</a> NYT: A lawyer flew home to China hoping to see his family for the first time since the pandemic began. Instead, he was trapped in three months of quarantine. 
+ <p class="updated_time"> 03:44 AM CT, Apr. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61077641?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Report of Mariupol chemical attack sparks US, UK concern</a> BBC: Ukrainian forces in Mariupol say a Russian drone dropped a chemical substance on the city overnight. 
+ <p class="updated_time"> 03:26 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
  <p class="updated_time"> 03:12 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092251401/russia-ukraine-war-worsens-fertilizer-crunch-risking-food-supplies">Russia-Ukraine war worsens fertilizer crunch, risking food supplies</a> NPR: The Russia-Ukraine war pushes up the price of natural gas, a key ingredient in fertilizer, and has led to severe sanctions against Russia, a major exporter of fertilizer. 
  <p class="updated_time"> 03:11 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/europe/french-presidential-election-macron-le-pen-far-fight.html">Macron Sets Out to Build a ‘Dam’ Against Le Pen. Can It Hold?</a> NYT: After Sunday’s vote, when nearly a third of ballots went to the extreme right, a united front of mainstream voters looked more precarious than ever. 
- <p class="updated_time"> 02:48 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
- <p class="updated_time"> 01:48 AM CT, Apr. 12 </p> 
+ <p class="updated_time"> 02:26 AM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/russian-general-who-led-forces-into-syria-tapped-to-lead-ukraine-invasion-11649714331">Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion</a> WSJ: Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion 
  <p class="updated_time"> 01:47 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/ukraine-war-children-parents.html">Ukrainian Parents Are Writing IDs on Their Children’s Bodies</a> NYT: A mother who wrote emergency contact information on her 2-year-old’s back has become a voice for countless Ukrainian parents forced to do the same. 
+ <p class="updated_time"> 01:26 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
  <p class="updated_time"> 01:00 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/climate/antarctica-penguins.html">Climate Change Is Hurting Penguins Unevenly in Antarctica</a> NYT: The western side of the Antarctic Peninsula has seen sharp declines in Adélie penguin populations in recent decades. Things look better on the eastern side. Take a tour. 
- <p class="updated_time"> 12:48 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
  <p class="updated_time"> 12:40 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news">What Happened on Day 47 of the War in Ukraine</a> NYT: After meeting Vladimir V. Putin, Austria’s chancellor said the Russian leader wants to escalate the war as he focuses on the Donbas region. Ukrainians warned of possible Russian use of chemical weapons. 
- <p class="updated_time"> 11:48 PM CT, Apr. 11 </p> 
+ <p class="updated_time"> 12:26 AM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/el-salvador-detains-more-than-9-000-people-in-gang-crackdown-11649703587">El Salvador Detains More Than 9,000 People in Gang Crackdown</a> WSJ: El Salvador Detains More Than 9,000 People in Gang Crackdown 
  <p class="updated_time"> 11:28 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/asia/pakistan-shehbaz-sharif-prime-minister.html">Shehbaz Sharif Becomes Prime Minister of Pakistan</a> NYT: Mr. Sharif, whose family has been dogged by accusations of graft for decades, was selected by Pakistan’s Parliament at a time of deep political divisions and economic tumult. 
+ <p class="updated_time"> 11:26 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
  <p class="updated_time"> 11:16 PM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/12/1092239910/u-s-consular-staff-leave-shanghai">U.S. orders consular staff to leave Shanghai amid COVID surge</a> NPR: The order from Washington covers "non-emergency U.S. government employees and their family members from U.S. Consulate General Shanghai." 
- <p class="updated_time"> 10:48 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
  <p class="updated_time"> 10:17 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61076079?at_medium=RSS&at_campaign=KARANGA">Tropical Storm Megi: 25 killed in Philippines tropical storm</a> BBC: Tropical storm Megi is the first storm to hit the nation this year, causing floods and mudslides. 
  <p class="updated_time"> 10:04 PM CT, Apr. 11 </p> 
@@ -101,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61028866?at_medium=RSS&at_campaign=KARANGA">Hidden wealth of one of Putin’s 'inner circle' revealed</a> BBC: Leaked documents show how sanctioned oligarch Suleiman Kerimov used shell companies to move $700m. 
  <p class="updated_time"> 11:18 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1092032051/russia-war-shrink-ukraine-economy-world-bank">Russia's war could shrink the Ukrainian economy by 45% this year, the World Bank says</a> NPR: Meanwhile, the Russian economy is expected to contract by some 11% this year as a result of sanctions, and several other countries in the region are projected to fall into recession. 
- <p class="updated_time"> 10:56 AM CT, Apr. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61072430?at_medium=RSS&at_campaign=KARANGA">'IS Beatle' stood out from the others, court hears</a> BBC: El Shafee Elsheikh is one of a group of IS fighters with UK links accused of killing hostages in Syria. 
  <p class="updated_time"> 10:53 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1092004302/islamic-state-supporter-ali-harbi-ali-guilty-u-k-lawmaker-david-amess">An Islamic State supporter is found guilty of killing U.K. lawmaker David Amess</a> NPR: After just 18 minutes, a jury found Ali Harbi Ali guilty of murder and preparing terrorist acts. Ali stabbed Amess to death last year while he was meeting with voters at a church in eastern England. 
  <p class="updated_time"> 10:47 AM CT, Apr. 11 </p> 
@@ -115,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61023811?at_medium=RSS&at_campaign=KARANGA">Why Shanghai has done a U-turn on its ‘relaxed’ Covid approach</a> BBC: Shanghai is under strict lockdown, in contrast to the relatively relaxed approach it previously took to the pandemic. 
  <p class="updated_time"> 09:09 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1091997661/john-lennons-son-julian-performs-imagine-for-the-first-time-in-support-of-ukrain">John Lennon's son, Julian, performs 'Imagine' for the 1st time, in support of Ukraine</a> NPR: Lennon suggested that the song represents "our collective desire for peace worldwide" and that it transports listeners to a place "where love and togetherness become our reality." 
- <p class="updated_time"> 08:44 AM CT, Apr. 11 </p> 
- <a href="https://www.npr.org/2022/04/11/1091949189/russias-plan-a-in-ukraine-failed-heres-what-plan-b-could-look-like">Russia's Plan A in Ukraine failed. Here's what Plan B could look like</a> NPR: Ukraine's military has fought so effectively that Russia abandoned its initial plan, which envisioned a quick takeover of Kyiv. Now Russia has a new approach, which focuses on eastern Ukraine. 
  <p class="updated_time"> 08:21 AM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/pakistans-shehbaz-sharif-becomes-prime-minister-11649690471">Pakistan's Shehbaz Sharif Becomes Prime Minister</a> WSJ: The new leader takes over after lawmakers ousted Imran Khan. 
  <p class="updated_time"> 08:05 AM CT, Apr. 11 </p> 
@@ -125,18 +135,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/11/science/bioluminescence-photographers-new-zealand.html">These Photographers Chase Bioluminescence in New Zealand</a> NYT: Capturing bioluminescence, a phenomenon in which glowing algae give crashing waves an electric blue glow, requires technical skill and a bit of luck. 
  <p class="updated_time"> 06:57 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61067426?at_medium=RSS&at_campaign=KARANGA">French elections: Macron targets Le Pen as run-off campaign begins</a> BBC: The French president fires up his re-election campaign visiting a stronghold of his far-right rival. 
- <p class="updated_time"> 06:52 AM CT, Apr. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61067247?at_medium=RSS&at_campaign=KARANGA">Osinachi Nwachukwu: Nigeria gospel singer's husband arrested over death</a> BBC: Peter Nwachukwu is in police custody after his wife Osinachi Nwachukwu died on Friday in Abuja. 
  <p class="updated_time"> 05:57 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/chanel-russian-influencers-ukraine.html">Why Russian Influencers Are Cutting Up Their Chanel Bags</a> NYT: The iconic French brand is asking customers to attest that they will not use their newly purchased items in Russia, sparking a social media protest. 
  <p class="updated_time"> 04:27 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61064429?at_medium=RSS&at_campaign=KARANGA">Zelensky asked if he'll give Russia any part of Ukraine</a> BBC: Ukraine's president tells CBS' 60 Minutes he isn't ready to give away his country in return for peace. 
- <p class="updated_time"> 04:22 AM CT, Apr. 11 </p> 
- <a href="https://www.npr.org/2022/04/11/1091983070/pakistani-lawmakers-to-elect-new-prime-minister-after-imran-khan-ouster">Pakistani lawmakers to elect new prime minister after Imran Khan ouster</a> NPR: An opposition lawmaker and a brother of disgraced former prime minister appears as a leading contender to replace Khan. 
  <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/magazine/trump-putin-ukraine-fiona-hill.html">Trump and Ukraine: Former Advisers Revisit What Happened</a> NYT: Amid the current crisis, Fiona Hill and other former advisers are connecting President Trump’s pressure campaign on Ukraine to Jan. 6. And they’re ready to talk. 
- <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
- <a href="https://www.npr.org/2022/04/11/1091407334/college-podcast-challenge-winner">A Chinese student Americanized her name to fit in. It took more to feel she belonged</a> NPR: When Aria Young moved to the U.S., she adopted an Americanized name. Now, she's wondering how to hold on to the version of herself she left in China. 
  <p class="updated_time"> 03:40 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/ukrainian-kramatorsk.html">A Stricken Ukrainian City Empties, and Those Left Fear What’s Next</a> NYT: After the deadly strike on the train station in Kramatorsk, Ukraine, those who stayed behind are grim about the future: “We think we will be swept off the face of the earth.” 
  <p class="updated_time"> 02:00 AM CT, Apr. 11 </p> 
@@ -189,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/09/world/middleeast/israel-palestinian-violence.html">Wave of Terrorism in Israel Defies a Simple Narrative</a> NYT: Four recent deadly attacks have highlighted Palestinian anger over vanishing prospects of a Palestinian state, but the assailants’ diverse backgrounds have left many questions unanswered. 
  <p class="updated_time"> 06:50 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/eu-putin-sanctions-daughters.html">Latest E.U. Sanctions Get Personal With Putin’s Daughters and Confidantes.</a> NYT: The targets included one of the most trusted technocrats in Mr. Putin’s economic policy team and the head of a construction empire who used to practice judo with the Russian leader. 
- <p class="updated_time"> 05:46 AM CT, Apr. 09 </p> 
- <a href="https://www.nytimes.com/2022/04/09/world/europe/putin-russia-war-ukraine.html">Spurred by Putin, Russians Turn on One Another Over the War</a> NYT: Citizens are denouncing one another, illustrating how the war is feeding paranoia and polarization in Russian society. 
  <p class="updated_time"> 05:24 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/poland-women-ukraine-refugees.html">Women in Poland Offer Safe Transit to Ukraine’s Refugees</a> NYT: With women and children at high risk of exploitation, a volunteer collective called Women Take the Wheel is helping them make the journey. 
  <p class="updated_time"> 05:00 AM CT, Apr. 09 </p> 
@@ -204,10 +206,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:09 AM CT, Apr. 12 </p> 
+ <a href="https://www.nytimes.com/2022/04/11/us/politics/covid-cases-white-house-czar.html">As U.S. Cases Rise, White House Covid Czar Says It’s Not a Moment to be ‘Excessively Concerned’</a> NYT: The official, Dr. Ashish Jha, said hospitalizations remained very low and that officials were monitoring the trajectory of the virus closely. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
+ <a href="https://www.npr.org/2022/04/12/1092222231/in-an-exception-to-the-clean-air-act-biden-will-allow-e15-gas-to-be-sold-this-su">In an exception to the Clean Air Act, Biden will allow E15 gas to be sold this summer</a> NPR: The fuel is normally banned from sale in the summer to combat smog. Trump also allowed summer sales of the 15-percent ethanol blend in 2019 after U.S. farmers were hurt by his trade war with China. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
+ <a href="https://www.nytimes.com/2022/04/12/us/politics/transgender-laws-us.html">Red States Push L.G.B.T.Q. Restrictions as Education Battles Intensify</a> NYT: With an eye toward parents’ anxiety, Republicans have put forward a wave of laws on classroom instruction, youth sports and health care. Some of the young people at the center feel isolated. 
  <p class="updated_time"> 11:40 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-atf-steven-dettelbach.html">Biden Names Former Federal Prosecutor to Lead A.T.F.</a> NYT: The president nominated Steven M. Dettelbach to run the troubled agency, seven months after withdrawing his previous pick. 
- <p class="updated_time"> 09:02 PM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/us/politics/covid-cases-white-house-czar.html">As U.S. Cases Rise, White House Covid Czar Says It’s Not a Moment to be ‘Excessively Concerned’</a> NYT: The official, Dr. Ashish Jha, said hospitalizations remained very low and that officials were monitoring the trajectory of the virus closely. 
  <p class="updated_time"> 08:58 PM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/biden-guns-crime-00024593">Biden’s solution to the politics of rising crime: Focus on guns</a> Politico: Democrats are on the defensive on violent crime, but they have a built-in trust advantage on policies for preventing gun violence. 
  <p class="updated_time"> 08:54 PM CT, Apr. 11 </p> 
@@ -306,14 +312,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/10/1091927667/money-from-the-covid-paycheck-protection-program-was-allegedly-largely-misspent">Money from the COVID Paycheck Protection Program was allegedly largely misspent</a> NPR: Ayesha Rascoe asks Justice Department Inspector General Michael Horowitz, who chairs the Pandemic Response Accountability Committee, about fraudulent pandemic aid. 
  <p class="updated_time"> 07:53 AM CT, Apr. 10 </p> 
  <a href="https://www.npr.org/2022/04/10/1091927660/politics-chat-politicians-get-covid-jackson-confirmed-mitch-mcconnell-interview">Politics chat: Politicians get COVID; Jackson confirmed; Mitch McConnell interview</a> NPR: High-profile Washington, D.C. politicians are testing positive for the coronavirus in a reminder that the pandemic is far from over. 
- <p class="updated_time"> 07:22 AM CT, Apr. 10 </p> 
- <a href="https://www.npr.org/2022/04/10/1091927625/after-232-years-ketanji-brown-jackson-is-the-first-black-woman-on-the-supreme-co">After 232 years, Ketanji Brown Jackson is the first Black woman on the Supreme Court</a> NPR: Ayesha Rascoe asks Biden administration strategist Minyon Moore about Biden's successful nomination of Ketanji Brown Jackson to the Supreme Court. 
  <p class="updated_time"> 08:57 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/us/politics/trump-doctor-oz-senate-endorsement.html">Trump endorses Dr. Oz in Pennsylvania Senate race </a> NYT: The former president threw his weight behind the celebrity doctor, who is running for the Republican nomination for senator in a key state. 
  <p class="updated_time"> 05:10 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/us/politics/biden-border-immigration.html">How Infighting Over the Border Divided the Biden White House</a> NYT: The Biden administration has furiously debated how — and whether — to unravel Trump-era immigration policies. 
- <p class="updated_time"> 04:00 AM CT, Apr. 09 </p> 
- <a href="https://www.nytimes.com/2022/04/09/us/politics/michigan-pandemic-stimulus.html">In a Michigan County, Stimulus Funds Are Remaking Public Health Programs</a> NYT: Many cities and counties say that shoring up local public health systems is crucial to recovering from the pandemic and addressing entrenched health disparities. 
 
 
 </details>
