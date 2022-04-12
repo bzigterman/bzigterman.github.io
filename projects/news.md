@@ -9,54 +9,54 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:34 AM CT, Apr. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61082792?at_medium=RSS&at_campaign=KARANGA">Brooklyn shooting: Several people shot in New York City subway</a> BBC: Photos from the scene show bloodied passengers lying on the floor of the smoke-filled station. 
+ <p class="updated_time"> 10:18 AM CT, Apr. 12 </p> 
+ <a href="https://www.nytimes.com/article/france-presidential-election-2022.html">France’s Presidential Election 2022: Your Questions, Answered</a> NYT: President Emmanuel Macron will face Marine Le Pen, the far-right leader, in the runoff on April 24. The outcome will be crucial for France and reverberate globally. 
  <p class="updated_time"> 09:47 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/germany-russia-ukraine-war.html">Ukraine War Pushes Germans to Change. They Are Wavering.</a> NYT: In just six weeks since Chancellor Olaf Scholz announced a strategic shift for his country, already doubts are emerging about how real and deep it is. 
+ <p class="updated_time"> 09:38 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Russia Unleashes New Attacks Overnight on Ukraine’s Eastern Region</a> WSJ: Russia Unleashes New Attacks Overnight on Ukraine’s Eastern Region 
  <p class="updated_time"> 09:37 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/04/12/world/ukraine-russia-war-news">Ukraine Live Updates: Putin Says Peace Talks Hit ‘Dead End’ and Vows That War Will Go On</a> NYT: Russia is pouring troops and equipment into eastern Ukraine, presaging a bloody new chapter in the conflict. The U.S., Britain and Australia said they were investigating an unconfirmed report that Russia had deployed a chemical agent, after a handful of people in Mariupol fell ill. 
- <p class="updated_time"> 09:32 AM CT, Apr. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61082792?at_medium=RSS&at_campaign=KARANGA">Multiple people shot in New York City subway</a> BBC: Police are hunting a gunman in orange construction vest and gas mask - as undetonated explosives are found. 
  <p class="updated_time"> 09:30 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/boris-johnson-partygate-fines-rishi-sunak.html">Boris Johnson Will Be Fined for Breaking U.K. Lockdown Rules</a> NYT: The British prime minister and the chancellor of the Exchequer, Rishi Sunak, are among those caught in a police investigation. 
  <p class="updated_time"> 09:00 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/americas/mexico-nude-beach-playa-del-amor.html">This Beach in Mexico Is an L.G.B.T.Q. Haven. But Can It Last?</a> NYT: The town of Zipolite has become an oasis for the queer community. But as its popularity has surged, some worry that the town’s spirit is beginning to vanish. 
  <p class="updated_time"> 08:58 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/ukraine-war-children-parents.html">Ukrainian Parents Are Writing IDs on Their Children’s Bodies</a> NYT: A mother who wrote emergency contact information on her 2-year-old’s back has become a voice for countless Ukrainian parents forced to do the same. 
- <p class="updated_time"> 08:50 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Russia Unleashes New Attacks Overnight on Ukraine’s Eastern Region</a> WSJ: Russia Unleashes New Attacks Overnight on Ukraine’s Eastern Region 
  <p class="updated_time"> 08:47 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/chemical-weapons-russia-mariupol.html">U.S., Allies Probe Claim of Chemical Agent in Ukraine</a> NYT: Ukrainian commanders said “a poisonous substance” caused respiratory difficulties and neurological symptoms in a handful of soldiers and civilians. 
+ <p class="updated_time"> 08:38 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154">Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes</a> WSJ: Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes 
  <p class="updated_time"> 08:35 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092284406/boris-johnson-fine-covid-lockdown-parties">British Prime Minister Boris Johnson will be fined over COVID lockdown parties</a> NPR: The British leader's office says he will be fined for breaching COVID regulations following allegations of lockdown parties at government offices. It's unclear how much Johnson will be fined. 
  <p class="updated_time"> 08:14 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/04/12/1092036369/photos-kyiv-suburbs-continue-to-recover-bodies-after-russias-occupation-ends">Photos: Kyiv suburbs continue to recover bodies after Russia's occupation ends</a> NPR: U.S. officials say they continue to see signs that Russian forces are moving into eastern Ukraine for what is expected to be a large-scale offensive in the coming days. 
- <p class="updated_time"> 07:50 AM CT, Apr. 12 </p> 
+ <p class="updated_time"> 07:38 AM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/rocketing-prices-test-europes-political-resolve-in-confrontation-with-russia-11649759216">Rocketing Prices Test Europe’s Political Resolve in Confrontation With Russia</a> WSJ: Rocketing Prices Test Europe’s Political Resolve in Confrontation With Russia 
  <p class="updated_time"> 07:29 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092267082/sri-lanka-is-suspending-payments-on-its-foreign-debt-as-its-economic-crisis-wors">Sri Lanka is suspending payments on its foreign debt as its economic crisis worsens</a> NPR: Sri Lanka is suspending payments on bonds and government-to-government borrowings, pending the completion of a loan restructuring program with the International Monetary Fund. 
- <p class="updated_time"> 07:28 AM CT, Apr. 12 </p> 
- <a href="https://www.nytimes.com/article/france-presidential-election-2022.html">France’s Presidential Election 2022: Your Questions, Answered</a> NYT: President Emmanuel Macron will face Marine Le Pen, the far-right leader, in the runoff on April 24. The outcome will be crucial for France and reverberate globally. 
  <p class="updated_time"> 06:52 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61077648?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin says Russian invasion will achieve 'noble' aims</a> BBC: Speaking at a Russian space centre, Mr Putin claimed his invasion aimed to help people in the Donbas. 
- <p class="updated_time"> 06:50 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraine-desperately-needs-foodand-one-u-s-executive-crossed-the-globe-to-help-11649761380">U.S. Executive Crossed Globe to Help Ukraine Get Food</a> WSJ: U.S. Executive Crossed Globe to Help Ukraine Get Food 
  <p class="updated_time"> 06:44 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61077645?at_medium=RSS&at_campaign=KARANGA">Kinahan Cartel: US sanctions cartel leader with links to Tyson Fury</a> BBC: US officials said Daniel Kinahan, who worked as an advisor to boxer Tyson Fury, leads one of Europe's top drug gangs. 
+ <p class="updated_time"> 06:38 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-desperately-needs-foodand-one-u-s-executive-crossed-the-globe-to-help-11649761380">U.S. Executive Crossed Globe to Help Ukraine Get Food</a> WSJ: U.S. Executive Crossed Globe to Help Ukraine Get Food 
+ <p class="updated_time"> 06:02 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/u-k-s-boris-johnson-to-be-fined-over-lockdown-parties-11649769894">U.K.'s Boris Johnson to Be Fined Over Lockdown Parties</a> WSJ: The British prime minister and Treasury chief Rishi Sunak will be fined for breaking Covid-19 lockdown rules, the British government said, reigniting a long-running scandal that has dogged the British leader. 
  <p class="updated_time"> 05:54 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61073894?at_medium=RSS&at_campaign=KARANGA">Marine Le Pen says she opposes sanctions on Russian gas</a> BBC: The French presidential candidate says she is in favour of sanctions on Russia - except for energy. 
- <p class="updated_time"> 05:50 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/u-s-orders-departure-of-consulate-staff-and-family-from-shanghai-because-of-covid-19-surge-11649727540">U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge</a> WSJ: U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge 
  <p class="updated_time"> 05:48 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/arts/design/turner-prize-phillipson-pollard.html">Black Artists Lead Turner Prize Shortlist</a> NYT: This year’s nominees include a sculptor, a photographer and an artist who created a 31-foot statue of a dollop of whipped cream, with a fly on it. 
+ <p class="updated_time"> 05:38 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/at-least-20-dead-in-philippines-after-flooding-landslides-11649772798">At Least 20 Dead in Philippines After Flooding, Landslides</a> WSJ: At Least 20 Dead in Philippines After Flooding, Landslides 
  <p class="updated_time"> 05:11 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61078955?at_medium=RSS&at_campaign=KARANGA">El Salvador: Whip-wielding demons kick off Easter week</a> BBC: Men dress up as demons and playfully whip locals "to cleanse them of their sins" in Texistepeque. 
  <p class="updated_time"> 05:06 AM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/chinese-stockpile-food-as-covid-19-concerns-ripple-out-from-shanghai-11649771421">Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai</a> WSJ: Residents across China bracing for the prospect of Shanghai-like lockdowns raid supermarket shelves as Omicron cases spread. 
- <p class="updated_time"> 04:50 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/after-north-korean-missile-tests-u-s-deploys-nuclear-powered-warship-to-region-11649760353">After North Korean Missile Tests, U.S. Deploys Nuclear-Powered Warship to Region</a> WSJ: After North Korean Missile Tests, U.S. Deploys Nuclear-Powered Warship to Region 
  <p class="updated_time"> 04:31 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092253929/on-the-presidential-campaign-trail-competing-visions-of-france-emerge">On the presidential campaign trail, competing visions of France emerge</a> NPR: As President Emmanuel Macron and challenger Marine Le Pen campaign for the April 24 run-off election, analysts say the vote results will have deep consequences in France and on the  world stage. 
- <p class="updated_time"> 04:24 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/u-k-s-boris-johnson-to-be-fined-over-lockdown-parties-11649769894">U.K.'s Boris Johnson to Be Fined Over Lockdown Parties</a> WSJ: The British prime minister and Treasury chief Rishi Sunak will be fined for breaking Covid-19 lockdown rules, the British government said, reigniting a long-running scandal and calls for Mr. Johnson to resign. 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1091784412/darfur-icc-trial-ali-kushayb">Survivors react to the first-ever trial for war crimes in Darfur</a> NPR: Ali Kushayb has pleaded not guilty to 31 counts of war crimes and crimes against humanity in connection to atrocities committed in the Darfur region of Sudan. 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
@@ -69,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/world/asia/china-covid-quarantine-shanghai.html">From the U.S. to China: A 3-Month Quarantine Horror Story</a> NYT: A lawyer flew home to China hoping to see his family for the first time since the pandemic began. Instead, he was trapped in three months of quarantine. 
  <p class="updated_time"> 03:44 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61077641?at_medium=RSS&at_campaign=KARANGA">Ukraine War: US 'deeply concerned' at report of Mariupol chemical attack</a> BBC: Ukrainian forces in Mariupol say a Russian drone dropped a chemical substance on the city overnight. 
- <p class="updated_time"> 03:39 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154">Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes</a> WSJ: Authorities are embarking on a wide-ranging probe of alleged war crimes with the aim of building cases strong enough to persuade an international court to hold the Kremlin and its soldiers responsible. 
  <p class="updated_time"> 03:12 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092251401/russia-ukraine-war-worsens-fertilizer-crunch-risking-food-supplies">Russia-Ukraine war worsens fertilizer crunch, risking food supplies</a> NPR: The Russia-Ukraine war pushes up the price of natural gas, a key ingredient in fertilizer, and has led to severe sanctions against Russia, a major exporter of fertilizer. 
  <p class="updated_time"> 03:11 AM CT, Apr. 12 </p> 
@@ -206,6 +204,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:22 AM CT, Apr. 12 </p> 
+ <a href="https://www.npr.org/2022/04/12/1092290277/florida-lawmakers-let-desantis-draw-a-congressional-map-after-he-vetoed-the-last">Florida lawmakers let DeSantis draw a congressional map after he vetoed the last one</a> NPR: Gov. Ron DeSantis, a potential Republican presidential aspirant, has been pushing a map that's considered more advantageous to his party. 
+ <p class="updated_time"> 09:46 AM CT, Apr. 12 </p> 
+ <a href="https://www.politico.com/news/2022/04/12/brooklyn-subway-shooting-00024637">Multiple people shot, undetonated devices found at Brooklyn subway station</a> Politico: Police responded to reports of a shooting at 8:27 a.m. in the vicinity of 36th Street and 4th Avenue in Brooklyn's Sunset Park neighborhood. 
+ <p class="updated_time"> 09:45 AM CT, Apr. 12 </p> 
+ <a href="https://www.politico.com/news/2022/04/12/truck-companies-electric-vehicles-00024587">Truck companies' electric enthusiasm doesn't extend to policy</a> Politico: Truck and engine manufacturers' main trade group is pushing back against state and federal regulations on emissions. 
  <p class="updated_time"> 09:21 AM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/new-york-lieutenant-governor-bribery-case-00024636">New York's lieutenant governor indicted in federal bribery case</a> Politico: Brian Benjamin is accused of conspiring to direct state funds to a real estate investor in exchange for illegal campaign contributions to a 2021 race in New York City. 
  <p class="updated_time"> 08:53 AM CT, Apr. 12 </p> 
@@ -246,8 +250,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/11/disney-donation-florida-republicans-00024417">Disney gave $190K to support Florida Republicans as lawmakers met</a> Politico: The company gave $125,000 to the Republican Party of Florida and $65,000 to a committee that helps elect GOP state senators, according to campaign finance filings released Monday. 
  <p class="updated_time"> 06:26 PM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/former-treasury-official-emerges-as-favorite-for-fed-regulatory-czar-after-raskins-defeat-00024539">Biden's new favorite to be Fed bank cop</a> Politico: Former Treasury Department official Michael Barr played a major role in the crafting of financial safeguards in the wake of the 2008 Wall Street meltdown. 
- <p class="updated_time"> 06:07 PM CT, Apr. 11 </p> 
- <a href="https://www.politico.com/news/2022/04/11/cuomo-stays-out-democratic-primary-00024517">Cuomo’s comeback gets more difficult as he stays out of Democratic primary</a> Politico: Here’s a look at some of the hurdles that make a Cuomo comeback bid even more of a long shot now than it was before the deadline to enter the primary passed. 
  <p class="updated_time"> 05:22 PM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/officer-convicted-storming-capitol-disrupt-congress-00024550">Jury convicts former Va. police officer for role in Jan. 6 riot</a> Politico: A former colleague testified against Rocky Mount police officer Thomas Robertson. 
  <p class="updated_time"> 05:17 PM CT, Apr. 11 </p> 
@@ -266,8 +268,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/11/1092117488/mexicos-president-declares-victory-after-recall-vote-which-critics-say-was-rigge">Mexico's president declares victory after recall vote, which critics say was rigged</a> NPR: Mexico's president called a recall vote on himself this weekend and won, though most Mexicans did not participate and opponents say it was too costly. 
  <p class="updated_time"> 03:23 PM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1092117474/dr-ashish-jha-new-white-house-coronavirus-czar-talks-future-of-virus">Dr. Ashish Jha, new White House coronavirus czar, talks future of virus</a> NPR: NPR's Daniel Estrin talks with the new White House coronavirus czar, Dr. Ashish Jha. Presently, Congress has yet to approve funding that would cover the cost of testing, vaccines and treatment. 
- <p class="updated_time"> 02:45 PM CT, Apr. 11 </p> 
- <a href="https://www.politico.com/news/2022/04/11/new-york-democrats-pare-back-nation-leading-bail-reform-amid-crime-spikes-and-election-fights-00024361">New York Democrats pare back nation-leading bail reform amid crime wave</a> Politico: There is no data showing that New York’s bail reform has fueled the crime, and even Democrats who sought changes are quick to point that out. But Republicans have successfully suggested a correlation to sway voters. 
  <p class="updated_time"> 01:57 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/homeless-students-texas.html">A One-Woman Rescue Squad for Homeless Students</a> NYT: The work of Norma Mercado, a Texas school system’s point person for dealing with homeless young people, is benefiting from a big but temporary surge in federal funding. 
  <p class="updated_time"> 01:40 PM CT, Apr. 11 </p> 
@@ -314,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/10/cheney-evidence-trump-criminal-referral-00024290">Cheney says Jan. 6 committee has enough evidence for a criminal referral for Trump</a> Politico: Her statement followed a New York Times report that said the panel is divided on whether to move forward. 
  <p class="updated_time"> 08:47 AM CT, Apr. 10 </p> 
  <a href="https://www.politico.com/news/2022/04/10/sullivan-russia-war-crimes-putin-00024278">War crimes were part of Russia's master plan, national security adviser says</a> Politico: "The larger issue of broad-scale war crimes and atrocities in Ukraine lies at the feet of the Kremlin," Jake Sullivan said. 
- <p class="updated_time"> 08:12 AM CT, Apr. 10 </p> 
- <a href="https://www.npr.org/2022/04/10/1091256975/from-nuremberg-to-darfur-history-has-seen-some-war-criminals-brought-to-trial">From Nuremberg to Darfur, history has seen some war criminals brought to trial </a> NPR: Responsibility is difficult to prove conclusively in a war zone, and evidence might have to link such acts to national leaders far from the battlefield. But it has happened. 
  <p class="updated_time"> 08:57 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/us/politics/trump-doctor-oz-senate-endorsement.html">Trump endorses Dr. Oz in Pennsylvania Senate race </a> NYT: The former president threw his weight behind the celebrity doctor, who is running for the Republican nomination for senator in a key state. 
  <p class="updated_time"> 05:10 PM CT, Apr. 09 </p> 
