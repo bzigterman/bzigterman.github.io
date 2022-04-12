@@ -9,26 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:25 PM CT, Apr. 11 </p> 
+ <p class="updated_time"> 11:31 PM CT, Apr. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Prepares for Stepped-Up Assault on the East</a> NYT: After meeting Vladimir V. Putin, Austria’s chancellor said the Russian leader wants to escalate the war as he focuses on the Donbas region. Ukrainians warned of possible Russian use of chemical weapons. 
+ <p class="updated_time"> 11:28 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/asia/pakistan-shehbaz-sharif-prime-minister.html">Shehbaz Sharif Becomes Prime Minister of Pakistan</a> NYT: Mr. Sharif, whose family has been dogged by accusations of graft for decades, was selected by Pakistan’s Parliament at a time of deep political divisions and economic tumult. 
  <p class="updated_time"> 11:16 PM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/12/1092239910/u-s-consular-staff-leave-shanghai">U.S. orders consular staff to leave Shanghai amid COVID surge</a> NPR: The order from Washington covers non-emergency U.S. government employees and their family members from U.S. Consulate General Shanghai." 
- <p class="updated_time"> 10:42 PM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Prepares for Stepped-Up Assault on the East</a> NYT: After meeting Vladimir V. Putin, Austria’s chancellor said the Russian leader wants to escalate the war as he focuses on the Donbas region. Ukrainians warned of possible Russian use of chemical weapons. 
- <p class="updated_time"> 10:32 PM CT, Apr. 11 </p> 
+ <p class="updated_time"> 10:53 PM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
  <p class="updated_time"> 10:17 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61076079?at_medium=RSS&at_campaign=KARANGA">Tropical Storm Megi: 25 killed in Philippines tropical storm</a> BBC: Tropical storm Megi is the first storm to hit the nation this year, causing floods and mudslides. 
  <p class="updated_time"> 10:04 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html">China’s Echoes of Russia’s Alternate Reality Intensify Around the World</a> NYT: China’s officials and state media are increasingly parroting Russian propaganda organs on the war in Ukraine, undercutting U.S. and European diplomatic efforts, even after the killings in Bucha. 
- <p class="updated_time"> 09:32 PM CT, Apr. 11 </p> 
+ <p class="updated_time"> 09:53 PM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/russian-general-who-led-forces-into-syria-tapped-to-lead-ukraine-invasion-11649714331">Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion</a> WSJ: Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion 
  <p class="updated_time"> 08:56 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/climate/permafrost-climate-change.html">Donors Pledge $41 Million to Monitor Thawing Arctic Permafrost</a> NYT: The six-year effort by climate scientists and policy experts aims to fill gaps in knowledge about planet-warming emissions and help affected communities in Alaska. 
+ <p class="updated_time"> 08:53 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
  <p class="updated_time"> 08:51 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/philadelphia-indoor-mask-mandate.html">City of Philadelphia Will Reinstate an Indoor Mask Mandate</a> NYT: The move comes a little more than a month after the city lifted it. 
- <p class="updated_time"> 08:32 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
  <p class="updated_time"> 08:25 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61070988?at_medium=RSS&at_campaign=KARANGA">Inside Johnny Depp and Amber Heard's legal battle</a> BBC: Depp has sued his ex-wife for an op-ed she wrote about being a domestic abuse victim. She counter-sued. 
  <p class="updated_time"> 08:19 PM CT, Apr. 11 </p> 
@@ -37,13 +37,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/11/world/europe/ukraine-russia-war-putin.html">Far From Defeated, Putin Intends to Escalate War in Ukraine</a> NYT: Austria’s chancellor said after meeting with Mr. Putin that the Russian president had “totally adopted the logic of war.” 
  <p class="updated_time"> 07:59 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-61074576?at_medium=RSS&at_campaign=KARANGA">Ukraine: Our parents wouldn’t leave Bucha, then Russia moved in</a> BBC: Sisters Lesia and Galya lost touch with their parents, who did not want to flee their hometown, Bucha. 
- <p class="updated_time"> 07:32 PM CT, Apr. 11 </p> 
+ <p class="updated_time"> 07:53 PM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/el-salvador-detains-more-than-9-000-people-in-gang-crackdown-11649703587">El Salvador Detains More Than 9,000 People in Gang Crackdown</a> WSJ: El Salvador Detains More Than 9,000 People in Gang Crackdown 
  <p class="updated_time"> 07:26 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/middleeast/ukraine-lviv-refugees.html">No More ‘Have a Nice Day’: Lviv Learns to Live With War</a> NYT: Ukraine’s cultural capital, the western city of Lviv, is trying to adjust to being on the fringes of war and at the center of massive displacement. 
  <p class="updated_time"> 06:59 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-60995064?at_medium=RSS&at_campaign=KARANGA">Ukraine war could worsen crises in Yemen and Afghanistan</a> BBC: While the world focuses on Ukraine, the UN warns humanitarian needs elsewhere are also growing. 
- <p class="updated_time"> 06:32 PM CT, Apr. 11 </p> 
+ <p class="updated_time"> 06:53 PM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
  <p class="updated_time"> 06:30 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61034754?at_medium=RSS&at_campaign=KARANGA">The Ukrainian bride who fled to India from Kyiv with a coffee machine</a> BBC: Anna Horodetska fled to India from Kyiv, with just a couple of T-shirts and a coffee machine. 
@@ -193,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/09/world/europe/french-presidential-election-marcon-le-pen.html">With Macron and Le Pen Leading Election Field, a Fractured France Decides</a> NYT: In Dijon, magnificence and malaise sit side by side, in the image of a country divided before the presidential vote on Sunday. 
  <p class="updated_time"> 03:45 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/asia/japan-russia-ukraine.html">Japan Aligns With U.S. and Europe in Penalizing Russia Over Ukraine War</a> NYT: The country has announced a ban on Russian coal and restrictions on imports including timber, vodka and machinery. It is also expelling eight Russian diplomats. 
- <p class="updated_time"> 11:36 PM CT, Apr. 08 </p> 
- <a href="https://www.nytimes.com/2022/04/09/world/middleeast/saudi-arabia-hajj-pandemic-rules.html">Saudi Arabia will allow a million hajj pilgrims to visit Mecca, with Covid precautions.</a> NYT: Vaccinations and negative tests will be required for those who attend the annual ritual. 
 
 
 </details>
@@ -202,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:40 PM CT, Apr. 11 </p> 
+ <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-atf-steven-dettelbach.html">Biden Names Former Federal Prosecutor to Lead A.T.F.</a> NYT: The president nominated Steven M. Dettelbach to run the troubled agency, seven months after withdrawing his previous pick. 
  <p class="updated_time"> 09:02 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/covid-cases-white-house-czar.html">As U.S. Cases Rise, White House Covid Czar Says It’s Not a Moment to be ‘Excessively Concerned’</a> NYT: The official, Dr. Ashish Jha, said hospitalizations remained very low and that officials were monitoring the trajectory of the virus closely. 
  <p class="updated_time"> 08:58 PM CT, Apr. 11 </p> 
@@ -216,8 +216,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/11/1092174190/philadelphia-mask-mandate-covid">Philadelphia to reinstate its mask mandate after a rise in COVID cases</a> NPR: The city will require masks in schools, businesses, government buildings and restaurants starting April 18. 
  <p class="updated_time"> 07:02 PM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/disney-donation-florida-republicans-00024417">Disney gave $190K to support Florida Republicans as lawmakers met</a> Politico: The company gave $125,000 to the Republican Party of Florida and $65,000 to a committee that helps elect GOP state senators, according to campaign finance filings released Monday. 
- <p class="updated_time"> 06:27 PM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-atf-steven-dettelbach.html">Biden Names Former Federal Prosecutor to Lead A.T.F.</a> NYT: The president nominated Steven M. Dettelbach to run the troubled agency, seven months after withdrawing his previous pick. 
  <p class="updated_time"> 06:26 PM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/former-treasury-official-emerges-as-favorite-for-fed-regulatory-czar-after-raskins-defeat-00024539">Biden's new favorite to be Fed bank cop</a> Politico: Former Treasury Department official Michael Barr played a major role in the crafting of financial safeguards in the wake of the 2008 Wall Street meltdown. 
  <p class="updated_time"> 06:07 PM CT, Apr. 11 </p> 
