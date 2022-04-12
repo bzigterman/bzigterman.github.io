@@ -9,7 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:55 PM CT, Apr. 11 </p> 
+ <p class="updated_time"> 09:06 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
+ <p class="updated_time"> 08:56 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/climate/permafrost-climate-change.html">Donors Pledge $41 Million to Monitor Thawing Arctic Permafrost</a> NYT: The six-year effort by climate scientists and policy experts aims to fill gaps in knowledge about planet-warming emissions and help affected communities in Alaska. 
  <p class="updated_time"> 08:51 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/philadelphia-indoor-mask-mandate.html">City of Philadelphia Will Reinstate an Indoor Mask Mandate</a> NYT: The move comes a little more than a month after the city lifted it. 
@@ -19,24 +21,24 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61070988?at_medium=RSS&at_campaign=KARANGA">Inside Johnny Depp and Amber Heard's legal battle</a> BBC: Depp has sued his ex-wife for an op-ed she wrote about being a domestic abuse victim. She counter-sued. 
  <p class="updated_time"> 08:19 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/chemical-weapons-mariupol.html">Zelensky Responds to Apparent Russian Threat of Chemical Weapons Use</a> NYT: A Ukrainian unit in Mariupol claimed Russian forces had used chemical weapons there. Their report could not be independently confirmed. 
+ <p class="updated_time"> 08:06 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/russian-general-who-led-forces-into-syria-tapped-to-lead-ukraine-invasion-11649714331">Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion</a> WSJ: Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion 
  <p class="updated_time"> 08:01 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/europe/ukraine-russia-war-putin.html">Far From Defeated, Putin Intends to Escalate War in Ukraine</a> NYT: Austria’s chancellor said after meeting with Mr. Putin that the Russian president had “totally adopted the logic of war.” 
  <p class="updated_time"> 07:59 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-61074576?at_medium=RSS&at_campaign=KARANGA">Ukraine: Our parents wouldn’t leave Bucha, then Russia moved in</a> BBC: Sisters Lesia and Galya lost touch with their parents, who did not want to flee their hometown, Bucha. 
- <p class="updated_time"> 07:58 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
  <p class="updated_time"> 07:26 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/middleeast/ukraine-lviv-refugees.html">No More ‘Have a Nice Day’: Lviv Learns to Live With War</a> NYT: Ukraine’s cultural capital, the western city of Lviv, is trying to adjust to being on the fringes of war and at the center of massive displacement. 
+ <p class="updated_time"> 07:06 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
  <p class="updated_time"> 06:59 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-60995064?at_medium=RSS&at_campaign=KARANGA">Ukraine war could worsen crises in Yemen and Afghanistan</a> BBC: While the world focuses on Ukraine, the UN warns humanitarian needs elsewhere are also growing. 
- <p class="updated_time"> 06:58 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/russian-general-who-led-forces-into-syria-tapped-to-lead-ukraine-invasion-11649714331">Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion</a> WSJ: Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion 
  <p class="updated_time"> 06:30 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61034754?at_medium=RSS&at_campaign=KARANGA">The Ukrainian bride who fled to India from Kyiv with a coffee machine</a> BBC: Anna Horodetska fled to India from Kyiv, with just a couple of T-shirts and a coffee machine. 
  <p class="updated_time"> 06:22 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61073823?at_medium=RSS&at_campaign=KARANGA">Mexico's fight to sue US gun manufacturers for $10bn</a> BBC: A lawsuit says US firearms manufacturers are responsible for the "flood" of illegal guns into Mexico. 
- <p class="updated_time"> 05:58 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
+ <p class="updated_time"> 06:06 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/el-salvador-detains-more-than-9-000-people-in-gang-crackdown-11649703587">El Salvador Detains More Than 9,000 People in Gang Crackdown</a> WSJ: El Salvador Detains More Than 9,000 People in Gang Crackdown 
  <p class="updated_time"> 05:30 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/ukraine-draft-dodgers.html">Ukraine’s Draft Dodgers Face Guilt, Shame and Reproach</a> NYT: Thousands of Ukrainian men are avoiding military service, putting them on risky paths into Europe. Among Ukrainians, it’s stirring a complicated debate. 
  <p class="updated_time"> 05:25 PM CT, Apr. 11 </p> 
@@ -47,8 +49,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-modi-india-russia-oil.html">Biden Urges Modi Not to Increase India’s Reliance on Russian Oil and Gas</a> NYT: The United States hopes to convince India to come off the fence over Russia’s invasion of Ukraine, but New Delhi and Moscow have deep historic ties. 
  <p class="updated_time"> 05:10 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/arts/music/ukraine-benefit-musicaeterna-currentzis.html">Ukraine Benefit Featuring Russian Ensemble Is Canceled in Vienna</a> NYT: Organizers said they canceled a performance by MusicAeterna after the Ukrainian ambassador in Austria expressed concern about featuring Russian artists. 
- <p class="updated_time"> 04:58 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/el-salvador-detains-more-than-9-000-people-in-gang-crackdown-11649703587">El Salvador Detains More Than 9,000 People in Gang Crackdown</a> WSJ: El Salvador Detains More Than 9,000 People in Gang Crackdown 
+ <p class="updated_time"> 05:06 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
  <p class="updated_time"> 04:31 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/europe/french-presidential-election-macron-le-pen-far-fight.html">Macron Sets Out to Build a ‘Dam’ Against Le Pen. Can It Hold?</a> NYT: After Sunday’s vote, when nearly a third of ballots went to the extreme right, a united front of mainstream voters looked more precarious than ever. 
  <p class="updated_time"> 04:26 PM CT, Apr. 11 </p> 
@@ -61,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/11/health/this-psychiatric-hospital-used-to-chain-patients-now-it-treats-them.html">This Psychiatric Hospital Used to Chain Patients. Now It Treats Them.</a> NYT: Sierra Leone, one of the world’s poorest countries, is working to build a modern mental health system from scratch. 
  <p class="updated_time"> 03:58 PM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1092042696/russia-ukraine-war-what-happened-today-april-11">Russia-Ukraine war: What happened today (April 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:58 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
  <p class="updated_time"> 03:51 PM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1092117558/macron-and-le-pen-face-off-again-as-frances-presidential-election-continues">Macron and Le Pen face off again as France's presidential election continues</a> NPR: Incumbent Emmanuel Macron got the most votes in the first-round of France's presidential election, but the runoff battle with his far-right challenger looks set to be a hard fight. 
  <p class="updated_time"> 03:44 PM CT, Apr. 11 </p> 
@@ -202,10 +202,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:02 PM CT, Apr. 11 </p> 
+ <a href="https://www.nytimes.com/2022/04/11/us/politics/covid-cases-white-house-czar.html">As U.S. Cases Rise, White House Covid Czar Says It’s Not a Moment to be ‘Excessively Concerned’</a> NYT: The official, Dr. Ashish Jha, said hospitalizations remained very low and that officials were monitoring the trajectory of the virus closely. 
+ <p class="updated_time"> 08:58 PM CT, Apr. 11 </p> 
+ <a href="https://www.politico.com/news/2022/04/11/biden-guns-crime-00024593">Biden’s solution to the politics of rising crime: Focus on guns</a> Politico: Democrats are on the defensive on violent crime, but they have a built-in trust advantage on policies for preventing gun violence. 
+ <p class="updated_time"> 08:54 PM CT, Apr. 11 </p> 
+ <a href="https://www.politico.com/news/2022/04/11/us-consular-shanghai-covid-00024596">U.S. orders consular staff to leave Shanghai amid Covid outbreak</a> Politico: The State Department said the order is an upgrade from the “authorized” departure issued last week. 
  <p class="updated_time"> 08:47 PM CT, Apr. 11 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 08:40 PM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/us/politics/covid-cases-white-house-czar.html">As U.S. Cases Rise, White House Covid Czar Says It’s Not a Moment to be ‘Excessively Concerned’</a> NYT: The official, Dr. Ashish Jha, said hospitalizations remained very low and that officials were monitoring the trajectory of the virus closely. 
  <p class="updated_time"> 07:14 PM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/ukraine-children-fled-war-00024578">U.N.: Nearly two-thirds of Ukraine’s children have fled homes</a> Politico: The United Nations has verified the deaths of 142 youngsters, though the number is likely much higher. 
  <p class="updated_time"> 07:10 PM CT, Apr. 11 </p> 
@@ -271,21 +275,21 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/washington-poised-to-clamp-down-on-oligarchs-real-estate-00023347">Oligarchs' big loophole for stashing money</a> Politico: The effort to close anti-money-laundering loopholes was already picking up momentum in Washington even before Russia invaded Ukraine. 
  <p class="updated_time"> 03:30 AM CT, Apr. 11 </p> 
- <a href="https://www.politico.com/news/2022/04/11/trump-ted-budd-north-carolina-senate-00024322">Tide turns for Trump favorite in key Senate race</a> Politico: North Carolina’s May 17 primary is emerging as a key test of the former president’s clout. 
- <p class="updated_time"> 03:30 AM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/white-house-joe-manchin-biden-00024340">The new White House rule: Do not talk about Joe Manchin</a> Politico: As another round of talks on a climate and spending bill ramps up, aides and advocates are under strict orders to keep their mouths shut — lest they antagonize the all-important senator. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 11 </p> 
+ <a href="https://www.politico.com/news/2022/04/11/trump-ted-budd-north-carolina-senate-00024322">Tide turns for Trump favorite in key Senate race</a> Politico: North Carolina’s May 17 primary is emerging as a key test of the former president’s clout. 
  <p class="updated_time"> 03:30 AM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/5-crucial-decisions-jan-6-panel-00024104">5 crucial decisions as Jan. 6 investigation reaches final stage</a> Politico: Do they push Donald Trump or Mike Pence to testify? Will GOP lawmakers answer questions? The insurrection committee is in the endgame now. 
  <p class="updated_time"> 01:30 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1091967163/abortion-rights-health-insurance-larry-hogan-maryland-veto-fetus">Maryland lawmakers expand who can perform abortions after overriding governor's veto</a> NPR: In his veto, Maryland Gov. Larry Hogan wrote that "The bill risks lowering the high standard of reproductive healthcare services received by women in Maryland." 
  <p class="updated_time"> 07:48 PM CT, Apr. 10 </p> 
  <a href="https://www.cnn.com/2022/04/10/politics/ginni-thomas-trump-influence/index.html">How Ginni Thomas jockeyed for influence in Trump's orbit</a> CNN: One week after the 2018 midterms, President Donald Trump hosted a private lunch with Supreme Court Justice Clarence Thomas and his wife, conservative activist Virginia "Ginni" Thomas. 
+ <p class="updated_time"> 07:37 PM CT, Apr. 10 </p> 
+ <a href="https://www.politico.com/news/2022/04/10/zelenskyy-ukraine-60minutes-pelley-00024331">Zelenskyy: 'This is not a movie. This is real life.'</a> Politico: In a "60 Minutes" interview, Ukraine's president repeatedly challenged the world to stand up to Russia. 
  <p class="updated_time"> 06:23 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/us/politics/jan-6-trump-criminal-referral.html">Jan. 6 Panel Has Evidence for Criminal Referral of Trump, but Splits on Sending</a> NYT: Despite concluding that it has enough evidence, the committee is concerned that making a referral to the Justice Department would backfire by politicizing the investigation into the Capitol riot. 
  <p class="updated_time"> 04:35 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/us/politics/crypto-industry-states-legislation.html">Crypto Industry Helps Write, and Pass, Its Own Agenda in State Capitols</a> NYT: In the absence of federal regulations, crypto lobbyists and executives are going state by state to get favorable rules enacted. Many lawmakers have been willing partners. 
- <p class="updated_time"> 01:48 PM CT, Apr. 10 </p> 
- <a href="https://www.politico.com/gallery/2022/04/10/france-presidential-election-voting-00024302">Photos: The French election</a> Politico: Sunday April 10 marked round one of the voting in France's 2022 presidential election. Russia's invasion of Ukraine created a complicated new subtext for the election, in which President Emmanuel Macron found himself challenged by candidates both to the right and to the left of him. 
  <p class="updated_time"> 12:50 PM CT, Apr. 10 </p> 
  <a href="https://www.cnn.com/2022/04/10/politics/obama-birtherism-big-lie-disinformation/index.html">'Birtherism' to the 'Big Lie': Inside Obama's fight to counter disinformation</a> CNN: Former President Barack Obama is urgently throwing himself into the fight against disinformation, taking a yearslong private fascination into the open as he makes addressing the issue a key pillar of his post-presidency. 
  <p class="updated_time"> 12:20 PM CT, Apr. 10 </p> 
