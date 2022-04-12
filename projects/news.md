@@ -9,13 +9,13 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:31 AM CT, Apr. 12 </p> 
+ <p class="updated_time"> 05:44 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/04/12/world/ukraine-russia-war-news">Ukraine Live Updates: Fears Grow That Russia Will Escalate to Use of Chemical Weapons</a> NYT: Britain and Australia said they were investigating reports that Russia had already used them. Ukraine’s military is preparing for a major assault in the east. 
  <p class="updated_time"> 05:25 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61077645?at_medium=RSS&at_campaign=KARANGA">Kinahan Cartel: US sanctions cartel leader with links to Tyson Fury</a> BBC: Treasury officials said Daniel Kinahan, an advisor to Fury, leads one of Europe's top drug cartels. 
  <p class="updated_time"> 05:11 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61078955?at_medium=RSS&at_campaign=KARANGA">El Salvador: Whip-wielding demons kick off Easter week</a> BBC: Men dress up as demons and playfully whip locals "to cleanse them of their sins" in Texistepeque. 
- <p class="updated_time"> 04:39 AM CT, Apr. 12 </p> 
+ <p class="updated_time"> 04:52 AM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Russia Unleashes New Attacks Overnight on Ukraine’s Eastern Region</a> WSJ: Russia Unleashes New Attacks Overnight on Ukraine’s Eastern Region 
  <p class="updated_time"> 04:31 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092253929/on-the-presidential-campaign-trail-competing-visions-of-france-emerge">On the presidential campaign trail, competing visions of France emerge</a> NPR: As President Emmanuel Macron and challenger Marine Le Pen campaign for the April 24 run-off election, analysts say the vote results will have deep consequences in France and on the  world stage. 
@@ -31,23 +31,23 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/world/americas/mexico-nude-beach-playa-del-amor.html">This Beach in Mexico Is an L.G.B.T.Q. Haven. But Can It Last?</a> NYT: The town of Zipolite in western Mexico has become an oasis for the queer community. But as its popularity has surged, some worry that the town’s spirit is beginning to vanish. 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/asia/china-covid-quarantine-shanghai.html">From the U.S. to China: A 3-Month Quarantine Horror Story</a> NYT: A lawyer flew home to China hoping to see his family for the first time since the pandemic began. Instead, he was trapped in three months of quarantine. 
+ <p class="updated_time"> 03:52 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/u-s-orders-departure-of-consulate-staff-and-family-from-shanghai-because-of-covid-19-surge-11649727540">U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge</a> WSJ: U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge 
  <p class="updated_time"> 03:44 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61077641?at_medium=RSS&at_campaign=KARANGA">Ukraine War: US 'deeply concerned' at report of Mariupol chemical attack</a> BBC: Ukrainian forces in Mariupol say a Russian drone dropped a chemical substance on the city overnight. 
- <p class="updated_time"> 03:39 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/u-s-orders-departure-of-consulate-staff-and-family-from-shanghai-because-of-covid-19-surge-11649727540">U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge</a> WSJ: U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge 
  <p class="updated_time"> 03:12 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092251401/russia-ukraine-war-worsens-fertilizer-crunch-risking-food-supplies">Russia-Ukraine war worsens fertilizer crunch, risking food supplies</a> NPR: The Russia-Ukraine war pushes up the price of natural gas, a key ingredient in fertilizer, and has led to severe sanctions against Russia, a major exporter of fertilizer. 
  <p class="updated_time"> 03:11 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/europe/french-presidential-election-macron-le-pen-far-fight.html">Macron Sets Out to Build a ‘Dam’ Against Le Pen. Can It Hold?</a> NYT: After Sunday’s vote, when nearly a third of ballots went to the extreme right, a united front of mainstream voters looked more precarious than ever. 
- <p class="updated_time"> 02:39 AM CT, Apr. 12 </p> 
+ <p class="updated_time"> 02:52 AM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/russian-general-who-led-forces-into-syria-tapped-to-lead-ukraine-invasion-11649714331">Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion</a> WSJ: Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion 
+ <p class="updated_time"> 01:52 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
  <p class="updated_time"> 01:47 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/ukraine-war-children-parents.html">Ukrainian Parents Are Writing IDs on Their Children’s Bodies</a> NYT: A mother who wrote emergency contact information on her 2-year-old’s back has become a voice for countless Ukrainian parents forced to do the same. 
- <p class="updated_time"> 01:39 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
  <p class="updated_time"> 01:00 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/climate/antarctica-penguins.html">Climate Change Is Hurting Penguins Unevenly in Antarctica</a> NYT: The western side of the Antarctic Peninsula has seen sharp declines in Adélie penguin populations in recent decades. Things look better on the eastern side. Take a tour. 
- <p class="updated_time"> 12:39 AM CT, Apr. 12 </p> 
+ <p class="updated_time"> 12:52 AM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/el-salvador-detains-more-than-9-000-people-in-gang-crackdown-11649703587">El Salvador Detains More Than 9,000 People in Gang Crackdown</a> WSJ: El Salvador Detains More Than 9,000 People in Gang Crackdown 
  <p class="updated_time"> 11:28 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/asia/pakistan-shehbaz-sharif-prime-minister.html">Shehbaz Sharif Becomes Prime Minister of Pakistan</a> NYT: Mr. Sharif, whose family has been dogged by accusations of graft for decades, was selected by Pakistan’s Parliament at a time of deep political divisions and economic tumult. 
