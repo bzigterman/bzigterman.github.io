@@ -9,18 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:25 PM CT, Apr. 11 </p> 
+ <a href="https://www.nytimes.com/2022/04/11/world/asia/pakistan-shehbaz-sharif-prime-minister.html">Shehbaz Sharif Becomes Prime Minister of Pakistan</a> NYT: Mr. Sharif, whose family has been dogged by accusations of graft for decades, was selected by Pakistan’s Parliament at a time of deep political divisions and economic tumult. 
+ <p class="updated_time"> 11:16 PM CT, Apr. 11 </p> 
+ <a href="https://www.npr.org/2022/04/12/1092239910/u-s-consular-staff-leave-shanghai">U.S. orders consular staff to leave Shanghai amid COVID surge</a> NPR: The order from Washington covers non-emergency U.S. government employees and their family members from U.S. Consulate General Shanghai." 
  <p class="updated_time"> 10:42 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Prepares for Stepped-Up Assault on the East</a> NYT: After meeting Vladimir V. Putin, Austria’s chancellor said the Russian leader wants to escalate the war as he focuses on the Donbas region. Ukrainians warned of possible Russian use of chemical weapons. 
+ <p class="updated_time"> 10:32 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
+ <p class="updated_time"> 10:17 PM CT, Apr. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61076079?at_medium=RSS&at_campaign=KARANGA">Tropical Storm Megi: 25 killed in Philippines tropical storm</a> BBC: Tropical storm Megi is the first storm to hit the nation this year, causing floods and mudslides. 
  <p class="updated_time"> 10:04 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html">China’s Echoes of Russia’s Alternate Reality Intensify Around the World</a> NYT: China’s officials and state media are increasingly parroting Russian propaganda organs on the war in Ukraine, undercutting U.S. and European diplomatic efforts, even after the killings in Bucha. 
- <p class="updated_time"> 09:59 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
- <p class="updated_time"> 08:59 PM CT, Apr. 11 </p> 
+ <p class="updated_time"> 09:32 PM CT, Apr. 11 </p> 
  <a href="https://www.wsj.com/articles/russian-general-who-led-forces-into-syria-tapped-to-lead-ukraine-invasion-11649714331">Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion</a> WSJ: Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion 
  <p class="updated_time"> 08:56 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/climate/permafrost-climate-change.html">Donors Pledge $41 Million to Monitor Thawing Arctic Permafrost</a> NYT: The six-year effort by climate scientists and policy experts aims to fill gaps in knowledge about planet-warming emissions and help affected communities in Alaska. 
  <p class="updated_time"> 08:51 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/philadelphia-indoor-mask-mandate.html">City of Philadelphia Will Reinstate an Indoor Mask Mandate</a> NYT: The move comes a little more than a month after the city lifted it. 
+ <p class="updated_time"> 08:32 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
  <p class="updated_time"> 08:25 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61070988?at_medium=RSS&at_campaign=KARANGA">Inside Johnny Depp and Amber Heard's legal battle</a> BBC: Depp has sued his ex-wife for an op-ed she wrote about being a domestic abuse victim. She counter-sued. 
  <p class="updated_time"> 08:19 PM CT, Apr. 11 </p> 
@@ -28,21 +36,19 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:01 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/europe/ukraine-russia-war-putin.html">Far From Defeated, Putin Intends to Escalate War in Ukraine</a> NYT: Austria’s chancellor said after meeting with Mr. Putin that the Russian president had “totally adopted the logic of war.” 
  <p class="updated_time"> 07:59 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
- <p class="updated_time"> 07:59 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-61074576?at_medium=RSS&at_campaign=KARANGA">Ukraine: Our parents wouldn’t leave Bucha, then Russia moved in</a> BBC: Sisters Lesia and Galya lost touch with their parents, who did not want to flee their hometown, Bucha. 
+ <p class="updated_time"> 07:32 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/el-salvador-detains-more-than-9-000-people-in-gang-crackdown-11649703587">El Salvador Detains More Than 9,000 People in Gang Crackdown</a> WSJ: El Salvador Detains More Than 9,000 People in Gang Crackdown 
  <p class="updated_time"> 07:26 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/middleeast/ukraine-lviv-refugees.html">No More ‘Have a Nice Day’: Lviv Learns to Live With War</a> NYT: Ukraine’s cultural capital, the western city of Lviv, is trying to adjust to being on the fringes of war and at the center of massive displacement. 
  <p class="updated_time"> 06:59 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/el-salvador-detains-more-than-9-000-people-in-gang-crackdown-11649703587">El Salvador Detains More Than 9,000 People in Gang Crackdown</a> WSJ: El Salvador Detains More Than 9,000 People in Gang Crackdown 
- <p class="updated_time"> 06:59 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-60995064?at_medium=RSS&at_campaign=KARANGA">Ukraine war could worsen crises in Yemen and Afghanistan</a> BBC: While the world focuses on Ukraine, the UN warns humanitarian needs elsewhere are also growing. 
+ <p class="updated_time"> 06:32 PM CT, Apr. 11 </p> 
+ <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
  <p class="updated_time"> 06:30 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61034754?at_medium=RSS&at_campaign=KARANGA">The Ukrainian bride who fled to India from Kyiv with a coffee machine</a> BBC: Anna Horodetska fled to India from Kyiv, with just a couple of T-shirts and a coffee machine. 
  <p class="updated_time"> 06:22 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61073823?at_medium=RSS&at_campaign=KARANGA">Mexico's fight to sue US gun manufacturers for $10bn</a> BBC: A lawsuit says US firearms manufacturers are responsible for the "flood" of illegal guns into Mexico. 
- <p class="updated_time"> 05:59 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
  <p class="updated_time"> 05:30 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/ukraine-draft-dodgers.html">Ukraine’s Draft Dodgers Face Guilt, Shame and Reproach</a> NYT: Thousands of Ukrainian men are avoiding military service, putting them on risky paths into Europe. Among Ukrainians, it’s stirring a complicated debate. 
  <p class="updated_time"> 05:25 PM CT, Apr. 11 </p> 
@@ -81,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/11/1092117481/what-it-was-like-in-chernihiv-ukraine-during-siege">What it was like in Chernihiv, Ukraine, during siege</a> NPR: Residents of Chernihiv endured a brutal siege for a month before Russian forces withdrew. Amid worries Russia will turn to more siege-like tactics as the war goes on, residents describe what happened. 
  <p class="updated_time"> 01:23 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/americas/mexico-president-recall-election.html">Mexico Voters Back López Obrador to Stay in Office in Recall Election</a> NYT: President Andrés Manuel López Obrador drew overwhelming support among those who cast ballots, but the recall referendum failed to achieve the required 40 percent threshold to be binding. 
- <p class="updated_time"> 12:14 PM CT, Apr. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61068650?at_medium=RSS&at_campaign=KARANGA">Mariupol: Battle for key port city continues, Ukraine says</a> BBC: Mariupol's deputy mayor denies reports that Russia is close to victory in his city. 
  <p class="updated_time"> 11:44 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61067254?at_medium=RSS&at_campaign=KARANGA">Southern Africa storms fuelled by climate change - study</a> BBC: Scientists say the rainfall during storms in the region was heavier and the damage worse than before. 
  <p class="updated_time"> 11:26 AM CT, Apr. 11 </p> 
@@ -103,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61023811?at_medium=RSS&at_campaign=KARANGA">Why Shanghai has done a U-turn on its ‘relaxed’ Covid approach</a> BBC: Shanghai is under strict lockdown, in contrast to the relatively relaxed approach it previously took to the pandemic. 
  <p class="updated_time"> 09:09 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1091997661/john-lennons-son-julian-performs-imagine-for-the-first-time-in-support-of-ukrain">John Lennon's son, Julian, performs 'Imagine' for the 1st time, in support of Ukraine</a> NPR: Lennon suggested that the song represents "our collective desire for peace worldwide" and that it transports listeners to a place "where love and togetherness become our reality." 
- <p class="updated_time"> 09:08 AM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/world/asia/pakistan-shehbaz-sharif-prime-minister.html">Shehbaz Sharif Becomes Interim Prime Minister of Pakistan</a> NYT: Mr. Sharif, whose family has been dogged by accusations of graft for decades, was selected by Pakistan’s Parliament at a time of deep political divisions and economic tumult. 
  <p class="updated_time"> 08:44 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1091949189/russias-plan-a-in-ukraine-failed-heres-what-plan-b-could-look-like">Russia's Plan A in Ukraine failed. Here's what Plan B could look like</a> NPR: Ukraine's military has fought so effectively that Russia abandoned its initial plan, which envisioned a quick takeover of Kyiv. Now Russia has a new approach, which focuses on eastern Ukraine. 
  <p class="updated_time"> 08:21 AM CT, Apr. 11 </p> 
@@ -153,8 +155,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61061359?at_medium=RSS&at_campaign=KARANGA">France election: This time it won’t be a walkover for Macron</a> BBC: Emmanuel Macron will face a run-off against Marine Le Pen, in what is far from a done deal. 
  <p class="updated_time"> 02:49 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/europe/volunteer-bus-drivers-refugees-ukraine.html">Volunteer Bus Drivers Help Refugees Escape from Eastern Ukraine</a> NYT: After a Russian strike killed more than 50 people at a train station, Ukrainians are accelerating efforts to evacuate by road. 
- <p class="updated_time"> 01:48 PM CT, Apr. 10 </p> 
- <a href="https://www.npr.org/2022/04/10/1091937252/spain-taxidermy-collection-extinct-protected-animals">Spain investigates private taxidermy collection with more than 1,000 animals</a> NPR: Species of cheetah, leopard, polar bear, rhinoceros, along with nearly 200 ivory elephant tusks, were among the extensive collection, valued at more than $31 million. 
  <p class="updated_time"> 01:01 PM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61060916?at_medium=RSS&at_campaign=KARANGA">Spanish police seize huge haul of illegal stuffed animals</a> BBC: The Guardia Civil found more than 1,000 specimens including extinct and endangered species. 
  <p class="updated_time"> 10:19 AM CT, Apr. 10 </p> 
