@@ -9,24 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:33 PM CT, Apr. 12 </p> 
+ <p class="updated_time"> 01:54 PM CT, Apr. 12 </p> 
+ <a href="https://www.nytimes.com/2022/04/12/world/europe/boris-johnson-partygate-fines-rishi-sunak.html">Boris Johnson Fined for Breaking U.K. Lockdown Rules</a> NYT: The British prime minister had seemed to turn the “partygate” tide with his handling of Ukraine. Then came the announcement that he broke the law. 
+ <p class="updated_time"> 01:51 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/04/12/world/ukraine-russia-war-news">Ukraine Live Updates: Putin Says Peace Talks Hit ‘Dead End’ and Vows That War Will Go On</a> NYT: Russia is pouring troops and equipment into eastern Ukraine, presaging a bloody new chapter in the conflict. The U.S., Britain and Australia said they were investigating an unconfirmed report that Russia had deployed a chemical agent, after a handful of people in Mariupol fell ill. 
+ <p class="updated_time"> 01:41 PM CT, Apr. 12 </p> 
+ <a href="https://www.nytimes.com/2022/04/12/world/africa/floods-mudslides-south-africa.html">Heavy Floods and Mudslides Leave at Least 45 Dead in South Africa</a> NYT: Torrential rain left a trail of destruction in the coastal city of Durban — the latest disaster in a season of storms that some scientists say has been intensified by climate change. 
  <p class="updated_time"> 01:16 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092330352/vladimir-kara-murza-detained-moscow">U.S. calls for the immediate release of a vocal Kremlin critic detained in Moscow</a> NPR: Vladimir Kara-Murza was sentenced to 15 days in jail for disobeying police orders on Tuesday, the day after his arrest. The opposition leader has been speaking out against Russia's war in Ukraine. 
  <p class="updated_time"> 01:15 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61082790?at_medium=RSS&at_campaign=KARANGA">Johnny Depp and Amber Heard: Heard giving 'performance of her life'</a> BBC: Amber Heard "concocted a role as a victim", the former spouses' defamation trial is told. 
+ <p class="updated_time"> 12:55 PM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Putin Says Ukraine Peace Talks Hit ‘Dead End,’ Vows to Continue Fight</a> WSJ: Putin Says Ukraine Peace Talks Hit ‘Dead End,’ Vows to Continue Fight 
  <p class="updated_time"> 12:44 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1090802987/philippines-elections-ferdinand-bongbong-marcos-junior">A dictator's son runs for Philippines president in a bid to revive his family's power</a> NPR: Ahead of presidential elections taking place in May, Ferdinand "Bongbong" Marcos Jr. is banking on voters' nostalgia for his late father's period of dictatorial rule in the 1970s and 1980s. 
- <p class="updated_time"> 12:39 PM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Putin Says Ukraine Peace Talks Hit ‘Dead End,’ Vows to Continue Fight</a> WSJ: Putin Says Ukraine Peace Talks Hit ‘Dead End,’ Vows to Continue Fight 
  <p class="updated_time"> 12:13 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61082792?at_medium=RSS&at_campaign=KARANGA">Brooklyn shooting: Sixteen injured in New York City subway station</a> BBC: The attacker detonated a smoke bomb inside a train car before opening fire on passengers, police say. 
  <p class="updated_time"> 12:07 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61073897?at_medium=RSS&at_campaign=KARANGA">Grieving Russians can't believe talk of war crimes in Ukraine</a> BBC: "They'll accuse Russia of anything," says the widow of a Russian solider killed in Ukraine. 
+ <p class="updated_time"> 11:55 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154">Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes</a> WSJ: Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes 
  <p class="updated_time"> 11:41 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092317791/ukraine-russia-ethnic-cleansing">An expert says it may be hard, but not impossible, to prove genocide in Ukraine</a> NPR: Should the atrocities in Ukraine be called war crimes, ethnic cleansing or genocide? The terms can be tricky to differentiate, but experts say the separate labels are crucial when seeking justice. 
- <p class="updated_time"> 11:39 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154">Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes</a> WSJ: Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes 
  <p class="updated_time"> 11:37 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/article/france-presidential-election-2022.html">France’s Presidential Election 2022: Your Questions, Answered</a> NYT: President Emmanuel Macron will face Marine Le Pen, the far-right leader, in the runoff on April 24. The outcome will be crucial for France and reverberate globally. 
  <p class="updated_time"> 11:36 AM CT, Apr. 12 </p> 
@@ -43,22 +47,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/arts/design/morozov-collection-russia-sanctions.html">French Authorities Seize Oligarch’s Painting Before It Leaves for Russia</a> NYT: A work displayed in the blockbuster “Morozov Collection” exhibition will remain in France, and authorities have their eyes on another painting in the show. 
  <p class="updated_time"> 11:00 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61080476?at_medium=RSS&at_campaign=KARANGA">Donbas: Battle in east Ukraine expected to be bloody and decisive</a> BBC: Ukrainian troops in the Donbas region are preparing for heavy strikes as Russia turns its focus to the east. 
- <p class="updated_time"> 10:39 AM CT, Apr. 12 </p> 
+ <p class="updated_time"> 10:55 AM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/rocketing-prices-test-europes-political-resolve-in-confrontation-with-russia-11649759216">Rocketing Prices Test Europe’s Political Resolve in Confrontation With Russia</a> WSJ: Rocketing Prices Test Europe’s Political Resolve in Confrontation With Russia 
+ <p class="updated_time"> 09:55 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/at-least-20-dead-in-philippines-after-flooding-landslides-11649772798">At Least 20 Dead in Philippines After Flooding, Landslides</a> WSJ: At Least 20 Dead in Philippines After Flooding, Landslides 
  <p class="updated_time"> 09:47 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/germany-russia-ukraine-war.html">Ukraine War Pushes Germans to Change. They Are Wavering.</a> NYT: In just six weeks since Chancellor Olaf Scholz announced a strategic shift for his country, already doubts are emerging about how real and deep it is. 
- <p class="updated_time"> 09:39 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/at-least-20-dead-in-philippines-after-flooding-landslides-11649772798">At Least 20 Dead in Philippines After Flooding, Landslides</a> WSJ: At Least 20 Dead in Philippines After Flooding, Landslides 
- <p class="updated_time"> 09:30 AM CT, Apr. 12 </p> 
- <a href="https://www.nytimes.com/2022/04/12/world/europe/boris-johnson-partygate-fines-rishi-sunak.html">Boris Johnson Will Be Fined for Breaking U.K. Lockdown Rules</a> NYT: The British prime minister and the chancellor of the Exchequer, Rishi Sunak, are among those caught in a police investigation. 
  <p class="updated_time"> 09:00 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/americas/mexico-nude-beach-playa-del-amor.html">This Beach in Mexico Is an L.G.B.T.Q. Haven. But Can It Last?</a> NYT: The town of Zipolite has become an oasis for the queer community. But as its popularity has surged, some worry that the town’s spirit is beginning to vanish. 
  <p class="updated_time"> 08:58 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/ukraine-war-children-parents.html">Ukrainian Parents Are Writing IDs on Their Children’s Bodies</a> NYT: A mother who wrote emergency contact information on her 2-year-old’s back has become a voice for countless Ukrainian parents forced to do the same. 
+ <p class="updated_time"> 08:55 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/chinese-stockpile-food-as-covid-19-concerns-ripple-out-from-shanghai-11649771421">Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai</a> WSJ: Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai 
  <p class="updated_time"> 08:47 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/chemical-weapons-russia-mariupol.html">U.S., Allies Probe Claim of Chemical Agent in Ukraine</a> NYT: Ukrainian commanders said “a poisonous substance” caused respiratory difficulties and neurological symptoms in a handful of soldiers and civilians. 
- <p class="updated_time"> 08:39 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/chinese-stockpile-food-as-covid-19-concerns-ripple-out-from-shanghai-11649771421">Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai</a> WSJ: Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai 
  <p class="updated_time"> 08:35 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092284406/boris-johnson-fine-covid-lockdown-parties">British Prime Minister Boris Johnson will be fined over COVID lockdown parties</a> NPR: The British leader's office says he will be fined for breaching COVID regulations following allegations of lockdown parties at government offices. It's unclear how much Johnson will be fined. 
  <p class="updated_time"> 08:31 AM CT, Apr. 12 </p> 
@@ -189,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/10/world/europe/russia-ukraine-war-crimes.html">Why Calls for War Crimes Justice Over Ukraine Face Long Odds</a> NYT: If those in power act as if they are immune to the laws of war, it may be because they often are. But following through is not necessarily an empty exercise. 
  <p class="updated_time"> 03:05 PM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/boris-johnson-kyiv-ukraine-aid.html">Boris Johnson Visits Kyiv As Britain Promises Aid to Ukraine</a> NYT: Mr. Johnson, an enthusiastic supporter of President Volodymyr Zelensky of Ukraine, walked with him and a group of soldiers through the streets of the capital, Kyiv. 
- <p class="updated_time"> 02:06 PM CT, Apr. 09 </p> 
- <a href="https://www.nytimes.com/2022/04/09/world/middleeast/israel-palestinian-violence.html">Wave of Terrorism in Israel Defies a Simple Narrative</a> NYT: Four recent deadly attacks have highlighted Palestinian anger over vanishing prospects of a Palestinian state, but the assailants’ diverse backgrounds have left many questions unanswered. 
 
 
 </details>
