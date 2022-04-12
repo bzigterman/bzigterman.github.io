@@ -9,8 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:00 AM CT, Apr. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news">What Happened on Day 47 of the War in Ukraine</a> NYT: After meeting Vladimir V. Putin, Austria’s chancellor said the Russian leader wants to escalate the war as he focuses on the Donbas region. Ukrainians warned of possible Russian use of chemical weapons. 
  <p class="updated_time"> 04:31 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092253929/on-the-presidential-campaign-trail-competing-visions-of-france-emerge">On the presidential campaign trail, competing visions of France emerge</a> NPR: As President Emmanuel Macron and challenger Marine Le Pen campaign for the April 24 run-off election, analysts say the vote results will have deep consequences in France and on the  world stage. 
+ <p class="updated_time"> 04:17 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Russia Unleashes New Attacks Overnight on Ukraine’s Eastern Region</a> WSJ: Russia Unleashes New Attacks Overnight on Ukraine’s Eastern Region 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1091784412/darfur-icc-trial-ali-kushayb">Survivors react to the first-ever trial for war crimes in Darfur</a> NPR: Ali Kushayb has pleaded not guilty to 31 counts of war crimes and crimes against humanity in connection to atrocities committed in the Darfur region of Sudan. 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
@@ -18,37 +22,29 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1091408208/these-intricately-decorated-eggs-are-raising-money-and-good-wishes-for-ukraine">These intricately decorated eggs are raising money and good wishes for Ukraine</a> NPR: The Ukrainian springtime tradition of intricately decorating eggs has taken on new urgency during the war with Russia. Now, people are using this art to fundraise and bring awareness for Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
- <a href="https://www.nytimes.com/2022/04/12/world/americas/mexico-nude-beach-lgbtq.html">This Beach in Mexico Is an L.G.B.T.Q. Haven. But Can It Last?</a> NYT: The town of Zipolite in western Mexico has become an oasis for the queer community. But as its popularity has surged, some worry that the town’s spirit is beginning to vanish. 
+ <a href="https://www.nytimes.com/2022/04/12/world/americas/mexico-nude-beach-playa-del-amor.html">This Beach in Mexico Is an L.G.B.T.Q. Haven. But Can It Last?</a> NYT: The town of Zipolite in western Mexico has become an oasis for the queer community. But as its popularity has surged, some worry that the town’s spirit is beginning to vanish. 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/asia/sri-lanka-protests-gotabaya-rajapaksa.html">Sri Lanka’s President Gotabaya Rajapaksa Faces Huge Protest</a> NYT: Gotabaya Rajapaksa is used to silencing and discrediting his political opponents. But that’s harder to do this time. 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
- <a href="https://www.nytimes.com/2022/04/12/world/asia/china-covid-quarantine-ordeal.html">From the U.S. to China: A 3-Month Quarantine Horror Story</a> NYT: A lawyer flew home to China hoping to see his family for the first time since the pandemic began. Instead, he was trapped in three months of quarantine. 
- <p class="updated_time"> 03:53 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraines-zelensky-calls-for-more-military-aid-ahead-of-battles-in-eastern-regions-11649674671">Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions</a> WSJ: Ukraine’s Zelensky Calls for More Military Aid Ahead of Battles in Eastern Regions 
+ <a href="https://www.nytimes.com/2022/04/12/world/asia/china-covid-quarantine-shanghai.html">From the U.S. to China: A 3-Month Quarantine Horror Story</a> NYT: A lawyer flew home to China hoping to see his family for the first time since the pandemic began. Instead, he was trapped in three months of quarantine. 
  <p class="updated_time"> 03:44 AM CT, Apr. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61077641?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Report of Mariupol chemical attack sparks US, UK concern</a> BBC: Ukrainian forces in Mariupol say a Russian drone dropped a chemical substance on the city overnight. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61077641?at_medium=RSS&at_campaign=KARANGA">Ukraine War: US 'deeply concerned' at report of Mariupol chemical attack</a> BBC: Ukrainian forces in Mariupol say a Russian drone dropped a chemical substance on the city overnight. 
+ <p class="updated_time"> 03:17 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/u-s-orders-departure-of-consulate-staff-and-family-from-shanghai-because-of-covid-19-surge-11649727540">U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge</a> WSJ: U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge 
  <p class="updated_time"> 03:12 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092251401/russia-ukraine-war-worsens-fertilizer-crunch-risking-food-supplies">Russia-Ukraine war worsens fertilizer crunch, risking food supplies</a> NPR: The Russia-Ukraine war pushes up the price of natural gas, a key ingredient in fertilizer, and has led to severe sanctions against Russia, a major exporter of fertilizer. 
  <p class="updated_time"> 03:11 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/europe/french-presidential-election-macron-le-pen-far-fight.html">Macron Sets Out to Build a ‘Dam’ Against Le Pen. Can It Hold?</a> NYT: After Sunday’s vote, when nearly a third of ballots went to the extreme right, a united front of mainstream voters looked more precarious than ever. 
- <p class="updated_time"> 02:53 AM CT, Apr. 12 </p> 
+ <p class="updated_time"> 02:17 AM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/russian-general-who-led-forces-into-syria-tapped-to-lead-ukraine-invasion-11649714331">Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion</a> WSJ: Russian General Who Led Forces Into Syria Tapped to Lead Ukraine Invasion 
- <p class="updated_time"> 01:53 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
  <p class="updated_time"> 01:47 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/ukraine-war-children-parents.html">Ukrainian Parents Are Writing IDs on Their Children’s Bodies</a> NYT: A mother who wrote emergency contact information on her 2-year-old’s back has become a voice for countless Ukrainian parents forced to do the same. 
+ <p class="updated_time"> 01:17 AM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-central-banker-nabiullina-putin-ukraine-11649430535">Moscow’s Central Banker Dismantles What She Built</a> WSJ: Moscow’s Central Banker Dismantles What She Built 
  <p class="updated_time"> 01:00 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/climate/antarctica-penguins.html">Climate Change Is Hurting Penguins Unevenly in Antarctica</a> NYT: The western side of the Antarctic Peninsula has seen sharp declines in Adélie penguin populations in recent decades. Things look better on the eastern side. Take a tour. 
- <p class="updated_time"> 12:53 AM CT, Apr. 12 </p> 
+ <p class="updated_time"> 12:17 AM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/el-salvador-detains-more-than-9-000-people-in-gang-crackdown-11649703587">El Salvador Detains More Than 9,000 People in Gang Crackdown</a> WSJ: El Salvador Detains More Than 9,000 People in Gang Crackdown 
- <p class="updated_time"> 12:40 AM CT, Apr. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/04/11/world/ukraine-russia-war-news">What Happened on Day 47 of the War in Ukraine</a> NYT: After meeting Vladimir V. Putin, Austria’s chancellor said the Russian leader wants to escalate the war as he focuses on the Donbas region. Ukrainians warned of possible Russian use of chemical weapons. 
- <p class="updated_time"> 12:10 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/u-s-orders-departure-of-consulate-staff-and-family-from-shanghai-because-of-covid-19-surge-11649727540">U.S. Orders Consular Staff to Leave Shanghai Over Covid-19 Surge</a> WSJ: The State Department ordered the departure of all nonemergency U.S. Consulate staff and their families as the city’s health authorities announced more than 23,000 new daily infections. 
- <p class="updated_time"> 12:05 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Russia Unleashes New Attacks Overnight on Ukraine's Eastern Region</a> WSJ: Ukrainian authorities are still investigating allegations by their forces that they came under a Russian chemical attack in Mariupol, which Moscow sees as crucial to its efforts to take over eastern Ukraine and push westward. 
- <p class="updated_time"> 11:53 PM CT, Apr. 11 </p> 
- <a href="https://www.wsj.com/articles/frances-le-pen-plays-down-far-right-agenda-to-broaden-appeal-11649669400">France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal</a> WSJ: France’s Le Pen Plays Down Far-Right Agenda to Broaden Appeal 
  <p class="updated_time"> 11:28 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/asia/pakistan-shehbaz-sharif-prime-minister.html">Shehbaz Sharif Becomes Prime Minister of Pakistan</a> NYT: Mr. Sharif, whose family has been dogged by accusations of graft for decades, was selected by Pakistan’s Parliament at a time of deep political divisions and economic tumult. 
  <p class="updated_time"> 11:16 PM CT, Apr. 11 </p> 
@@ -199,8 +195,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/09/world/europe/eu-putin-sanctions-daughters.html">Latest E.U. Sanctions Get Personal With Putin’s Daughters and Confidantes.</a> NYT: The targets included one of the most trusted technocrats in Mr. Putin’s economic policy team and the head of a construction empire who used to practice judo with the Russian leader. 
  <p class="updated_time"> 05:24 AM CT, Apr. 09 </p> 
  <a href="https://www.nytimes.com/2022/04/09/world/europe/poland-women-ukraine-refugees.html">Women in Poland Offer Safe Transit to Ukraine’s Refugees</a> NYT: With women and children at high risk of exploitation, a volunteer collective called Women Take the Wheel is helping them make the journey. 
- <p class="updated_time"> 05:00 AM CT, Apr. 09 </p> 
- <a href="https://www.nytimes.com/2022/04/09/world/canada/foreign-real-estate-buyer-ban.html">Canada Moves to Ban Foreign Real Estate Buyers for Two Years</a> NYT: Among the many budget measures to make housing more affordable is a two-year ban on sales to foreign buyers. But details are scarce. 
 
 
 </details>
