@@ -9,14 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:57 PM CT, Apr. 12 </p> 
+ <p class="updated_time"> 05:24 PM CT, Apr. 12 </p> 
+ <a href="https://www.nytimes.com/2022/04/12/world/europe/mimi-reinhard-dead.html">Mimi Reinhard, Who Typed Up Schindler’s List, Dies at 107</a> NYT: As a secretary in a forced-labor camp in World War II, she added her own name to the list of 1,100 Jews who would be spared from the gas chambers. 
+ <p class="updated_time"> 05:19 PM CT, Apr. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61082792?at_medium=RSS&at_campaign=KARANGA">Brooklyn shooting: Seventeen injured in New York City subway station</a> BBC: The attacker is still at large after opening fire in a New York City subway station, police say. 
+ <p class="updated_time"> 05:17 PM CT, Apr. 12 </p> 
+ <a href="https://www.npr.org/2022/04/12/1092460473/biden-appeared-to-accuse-putin-of-committing-a-genocide-in-ukraine">Biden appeared to accuse Putin of committing a 'genocide' in Ukraine</a> NPR: Speaking about easing restrictions on higher-ethanol gasoline amid spiking fuel costs, Biden said prices shouldn't "hinge on whether a dictator declares war and commits genocide a half a world away." 
+ <p class="updated_time"> 05:14 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/macron-le-pen-france-election.html">Macron and Le Pen Trade Jabs and Lean Left as French Race Heats Up</a> NYT: President Emmanuel Macron and Marine Le Pen, the far-right candidate, are in close contention as the April 24 presidential runoff election nears. 
+ <p class="updated_time"> 05:07 PM CT, Apr. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61089381?at_medium=RSS&at_campaign=KARANGA">Biden appears to accuse Russia of 'genocide'</a> BBC: US President Joe Biden appears to accuse Russia's Vladimir Putin of genocide. 
  <p class="updated_time"> 04:52 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/04/12/world/ukraine-russia-war-news">Ukraine Live Updates: Putin Says Peace Talks Hit ‘Dead End’ and Vows That War Will Go On</a> NYT: Russia is pouring troops and equipment into eastern Ukraine, presaging a bloody new chapter in the conflict. The U.S., Britain and Australia said they were investigating an unconfirmed report that Russia had deployed a chemical agent, after a handful of people in Mariupol fell ill. 
  <p class="updated_time"> 04:51 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html">Ukraine Says It Thwarted a Sophisticated Russian Cyberattack on Its Power Grid</a> NYT: Experts say the hacking, while unsuccessful, was among the most complex cyberattacks they have seen in the war so far. 
  <p class="updated_time"> 04:32 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/ukraine-viktor-medvedchuk-putin-ally.html">Ukrainian Officers Said to Detain Putin Ally Viktor Medvedchuk</a> NYT: Viktor Medvedchuk, a wealthy Ukrainian politician seen as the Kremlin’s main agent of influence in Ukraine in recent years, had disappeared shortly after the start of the war. 
+ <p class="updated_time"> 04:31 PM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Putin Says Ukraine Peace Talks Hit ‘Dead End,’ Vows to Continue Fight</a> WSJ: Putin Says Ukraine Peace Talks Hit ‘Dead End,’ Vows to Continue Fight 
  <p class="updated_time"> 04:23 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61077648?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin vows to continue invasion until 'noble' aims met</a> BBC: In a rare public appearance, Russia's president insists his country's "noble" aims will be met. 
  <p class="updated_time"> 04:22 PM CT, Apr. 12 </p> 
@@ -25,40 +35,36 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/12/1092414641/police-fine-britains-boris-johnson-and-rishi-sunak-for-attending-parties-in-lock">Police fine Britain's Boris Johnson and Rishi Sunak for attending parties in lockdown</a> NPR: Britain's Prime Minister Boris Johnson and his finance minister are being fined for attending parties prohibited during the pandemic lockdowns. Opposition members called on them both to resign. 
  <p class="updated_time"> 04:09 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092414634/russia-calls-peace-talks-a-dead-end-as-it-preps-a-new-offensive-in-eastern-ukrai">Russia calls peace talks 'a dead end' as it preps a new offensive in eastern Ukraine</a> NPR: The upcoming offensive from Russia is expected to be much more focused and much more bloody, and that raises questions about Ukraine's ability to withstand the next phase of war. 
- <p class="updated_time"> 04:05 PM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Putin Says Ukraine Peace Talks Hit ‘Dead End,’ Vows to Continue Fight</a> WSJ: Putin Says Ukraine Peace Talks Hit ‘Dead End,’ Vows to Continue Fight 
  <p class="updated_time"> 03:59 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092316260/russia-ukraine-war-what-happened-today-april-12">Russia-Ukraine war: What happened today (April 12)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:57 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61082790?at_medium=RSS&at_campaign=KARANGA">Johnny Depp and Amber Heard: Heard giving 'performance of her life'</a> BBC: Amber Heard "concocted a role as a victim", the former spouses' defamation trial is told. 
+ <p class="updated_time"> 03:31 PM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154">Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes</a> WSJ: Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes 
  <p class="updated_time"> 03:17 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092289301/germany-berlin-ukraine-holocaust-survivors">Ukrainian Holocaust survivors flee war again — this time to Germany</a> NPR: Germany has welcomed dozens of the oldest refugees fleeing Ukraine — those who survived the Holocaust during World War II. They've now narrowly escaped death for the second time in their lives. 
  <p class="updated_time"> 03:11 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092077016/russia-historic-debt-default-sanctions-invasion-ukraine">3 things to know as Russia heads to a historic debt default</a> NPR: Events over the past week have brought Russia precariously close to its first default on foreign debt since the Bolshevik Revolution over a century ago. 
- <p class="updated_time"> 03:05 PM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154">Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes</a> WSJ: Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes 
  <p class="updated_time"> 02:43 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/us-report-human-rights.html">U.S. Report Describes a Global Retreat on Human Rights </a> NYT: Secretary of State Antony Blinken says repressive governments “are growing more brazen” and reaching across borders to target their critics. 
+ <p class="updated_time"> 02:31 PM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/marine-le-pen-proposes-overhaul-of-french-legislative-electoral-systems-11649785720">Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems</a> WSJ: Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems 
  <p class="updated_time"> 02:17 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/boris-johnson-partygate-fines-rishi-sunak.html">Boris Johnson Fined for Breaking U.K. Lockdown Rules</a> NYT: The British prime minister had seemed to turn the “partygate” tide with his handling of Ukraine. Then came the announcement that he broke the law. 
  <p class="updated_time"> 02:12 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/arts/design/turner-prize-phillipson-pollard.html">Black Artists Lead Turner Prize Shortlist</a> NYT: This year’s nominees include a sculptor, a photographer and an artist who created a 31-foot statue of a dollop of whipped cream, with a fly on it. 
- <p class="updated_time"> 02:05 PM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/marine-le-pen-proposes-overhaul-of-french-legislative-electoral-systems-11649785720">Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems</a> WSJ: Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems 
  <p class="updated_time"> 02:03 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/philadelphia-indoor-mask-mandate.html">City of Philadelphia Will Reinstate an Indoor Mask Mandate</a> NYT: The move comes a little more than a month after the city lifted it. 
+ <p class="updated_time"> 01:31 PM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/at-least-20-dead-in-philippines-after-flooding-landslides-11649772798">At Least 20 Dead in Philippines After Flooding, Landslides</a> WSJ: At Least 20 Dead in Philippines After Flooding, Landslides 
  <p class="updated_time"> 01:16 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092330352/vladimir-kara-murza-detained-moscow">U.S. calls for the immediate release of a vocal Kremlin critic detained in Moscow</a> NPR: Vladimir Kara-Murza was sentenced to 15 days in jail for disobeying police orders on Tuesday, the day after his arrest. The opposition leader has been speaking out against Russia's war in Ukraine. 
- <p class="updated_time"> 01:05 PM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/at-least-20-dead-in-philippines-after-flooding-landslides-11649772798">At Least 20 Dead in Philippines After Flooding, Landslides</a> WSJ: At Least 20 Dead in Philippines After Flooding, Landslides 
  <p class="updated_time"> 12:44 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1090802987/philippines-elections-ferdinand-bongbong-marcos-junior">A dictator's son runs for Philippines president in a bid to revive his family's power</a> NPR: Ahead of presidential elections taking place in May, Ferdinand "Bongbong" Marcos Jr. is banking on voters' nostalgia for his late father's period of dictatorial rule in the 1970s and 1980s. 
- <p class="updated_time"> 12:13 PM CT, Apr. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61082792?at_medium=RSS&at_campaign=KARANGA">Brooklyn shooting: Sixteen injured in New York City subway station</a> BBC: The attacker is still at large after opening fire in a New York City subway station, police say. 
+ <p class="updated_time"> 12:31 PM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/chinese-stockpile-food-as-covid-19-concerns-ripple-out-from-shanghai-11649771421">Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai</a> WSJ: Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai 
  <p class="updated_time"> 12:07 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61073897?at_medium=RSS&at_campaign=KARANGA">Grieving Russians can't believe talk of war crimes in Ukraine</a> BBC: "They'll accuse Russia of anything," says the widow of a Russian solider killed in Ukraine. 
- <p class="updated_time"> 12:05 PM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/chinese-stockpile-food-as-covid-19-concerns-ripple-out-from-shanghai-11649771421">Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai</a> WSJ: Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai 
  <p class="updated_time"> 11:41 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092317791/ukraine-russia-ethnic-cleansing">An expert says it may be hard, but not impossible, to prove genocide in Ukraine</a> NPR: Should the atrocities in Ukraine be called war crimes, ethnic cleansing or genocide? The terms can be tricky to differentiate, but experts say the separate labels are crucial when seeking justice. 
  <p class="updated_time"> 11:37 AM CT, Apr. 12 </p> 
@@ -99,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61078955?at_medium=RSS&at_campaign=KARANGA">El Salvador: Whip-wielding demons kick off Easter week</a> BBC: Men dress up as demons and playfully whip locals "to cleanse them of their sins" in Texistepeque. 
  <p class="updated_time"> 04:31 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092253929/on-the-presidential-campaign-trail-competing-visions-of-france-emerge">On the presidential campaign trail, competing visions of France emerge</a> NPR: As President Emmanuel Macron and challenger Marine Le Pen campaign for the April 24 run-off election, analysts say the vote results will have deep consequences in France and on the world stage. 
- <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
- <a href="https://www.npr.org/2022/04/12/1091784412/darfur-icc-trial-ali-kushayb">Survivors react to the first-ever trial for war crimes in Darfur</a> NPR: Ali Kushayb has pleaded not guilty to 31 counts of war crimes and crimes against humanity in connection to atrocities committed in the Darfur region of Sudan. 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/asia/sri-lanka-protests-gotabaya-rajapaksa.html">Sri Lanka’s President Gotabaya Rajapaksa Faces Huge Protest</a> NYT: Gotabaya Rajapaksa is used to silencing and discrediting his political opponents. But that’s harder to do this time. 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
@@ -175,8 +179,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/10/world/asia/pakistan-imran-khan-elections.html">In Imran Khan’s Ouster, a Reminder of Pakistani Military’s Power</a> NYT: After Imran Khan’s ouster as prime minister, the legacy of his time in office is a continued military dominance of public affairs and deep polarization that could turn violent. 
  <p class="updated_time"> 06:00 PM CT, Apr. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61028653?at_medium=RSS&at_campaign=KARANGA">Falklands War: 'The UK is still usurping our land'</a> BBC: Argentina's president has said he will keep fighting for control of the islands, also known as the Malvinas. 
- <p class="updated_time"> 05:29 PM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/2022/04/10/world/australia/sydney-coronavirus-homecoming.html">An Australia Homecoming, Mixed With Yearning and Trepidation</a> NYT: When “Fortress Australia” sealed its borders, thousands of citizens were stuck abroad. When allowed to return home, a reporter wondered how she would find the country — and how it would find her. 
  <p class="updated_time"> 04:01 PM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/theater/olivier-awards-winners-cabaret-eddie-redmayne.html">‘Cabaret,’ Starring Eddie Redmayne, Sweeps Olivier Awards</a> NYT: The musical won seven awards at Britain’s equivalent of the Tonys. A puppet-filled adaptation of “Life of Pi” and a “Back to the Future” musical also won big. 
  <p class="updated_time"> 02:49 PM CT, Apr. 10 </p> 
@@ -200,6 +202,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:19 PM CT, Apr. 12 </p> 
+ <a href="https://www.nytimes.com/2022/04/12/us/politics/mark-zuckerberg-midterms-elections-grant.html">Mark Zuckerberg Ends Election Grants</a> NYT: A spokesman for the Facebook founder said the money sent to election offices in 2020 was a “one-time donation.” The grants prompted Republicans to push for bans on private donations for elections. 
+ <p class="updated_time"> 05:17 PM CT, Apr. 12 </p> 
+ <a href="https://www.npr.org/2022/04/12/1092460473/biden-appeared-to-accuse-putin-of-committing-a-genocide-in-ukraine">Biden appeared to accuse Putin of committing a 'genocide' in Ukraine</a> NPR: Speaking about easing restrictions on higher-ethanol gasoline amid spiking fuel costs, Biden said prices shouldn't "hinge on whether a dictator declares war and commits genocide a half a world away." 
  <p class="updated_time"> 04:52 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/business/economy/inflation-report-march.html">Inflation Hits Fastest Pace Since 1981, at 8.5% Through March</a> NYT: Gasoline weighed heavily in the increases, while prices moderated in several categories. Some economists say the overall rate may have peaked. 
  <p class="updated_time"> 04:51 PM CT, Apr. 12 </p> 
@@ -217,7 +223,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:41 PM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/sec-elon-musk-twitter-00024667">‘Make an example’: SEC weighs options in latest Elon Musk tussle</a> Politico: While acquiring a sizable share of Twitter’s stock, Tesla’s billionaire CEO appears to have filed notice of his ownership stake later than required, according to experts. 
  <p class="updated_time"> 03:31 PM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/hochul-tough-choices-lieutenant-governor-arrest-new-york-00024700">Hochul faces tough choices after Lt. Gov.'s arrest in New York</a> Politico: The high-profile case puts Gov. Kathy Hochul in a difficult position as she seeks a full term this year while tethered to Brian Benjamin. 
+ <a href="https://www.politico.com/news/2022/04/12/hochul-tough-choices-lieutenant-governor-arrest-new-york-00024700">Hochul faces tough choices after Lt. Gov.'s arrest and resignation in New York</a> Politico: The high-profile case puts Gov. Kathy Hochul in a difficult position as she seeks a full term this year while tethered to Brian Benjamin. 
  <p class="updated_time"> 03:23 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/jan-6-capitol-riot-sullivan-trump.html">In Conference Call Before Riot, a Plea to ‘Descend on the Capitol’</a> NYT: Days before Jan. 6, a onetime aide to Roger J. Stone Jr. told Trump backers to make lawmakers meeting to finalize the 2020 election results feel that “people are breathing down their necks.” 
  <p class="updated_time"> 02:54 PM CT, Apr. 12 </p> 
@@ -270,8 +276,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-atf-steven-dettelbach.html">Biden Names Former Federal Prosecutor to Lead A.T.F.</a> NYT: The president nominated Steven M. Dettelbach to run the troubled agency, seven months after withdrawing his previous pick. 
  <p class="updated_time"> 08:58 PM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/biden-guns-crime-00024593">Biden’s solution to the politics of rising crime: Focus on guns</a> Politico: Democrats are on the defensive on violent crime, but they have a built-in trust advantage on policies for preventing gun violence. 
- <p class="updated_time"> 08:54 PM CT, Apr. 11 </p> 
- <a href="https://www.politico.com/news/2022/04/11/us-consular-shanghai-covid-00024596">U.S. orders consular staff to leave Shanghai amid Covid outbreak</a> Politico: The State Department said the order is an upgrade from the “authorized” departure issued last week. 
  <p class="updated_time"> 08:47 PM CT, Apr. 11 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:10 PM CT, Apr. 11 </p> 
@@ -300,8 +304,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/11/biden-new-atf-chief-00024358">Biden nominates new ATF chief, announces slate of gun reforms</a> Politico: The president, Vice President Kamala Harris and Deputy Attorney General Lisa Monaco addressed the administration’s measures in the White House Rose Garden. 
  <p class="updated_time"> 04:07 AM CT, Apr. 11 </p> 
  <a href="https://www.npr.org/2022/04/11/1091980593/biden-will-announce-steps-to-curb-gun-violence-in-the-u-s">Biden will announce steps to curb gun violence in the U.S. </a> NPR: The action includes finalizing regulations that deal with ghost guns — weapons that do not have serial numbers that can be used to track them and are sometimes sold as kits to be assembled at home. 
- <p class="updated_time"> 04:07 AM CT, Apr. 11 </p> 
- <a href="https://www.npr.org/2022/04/11/1091980551/morning-news-brief">News brief: Russia-Ukraine war, French presidential runoff, Biden takes on ghost guns</a> NPR: Russia has named an overall commander for its war with Ukraine. France's president is heading into a runoff with his far-right rival. Gun deaths in the U.S. have hit record numbers in recent years. 
  <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/magazine/trump-putin-ukraine-fiona-hill.html">Trump and Ukraine: Former Advisers Revisit What Happened</a> NYT: Amid the current crisis, Fiona Hill and other former advisers are connecting President Trump’s pressure campaign on Ukraine to Jan. 6. And they’re ready to talk. 
  <p class="updated_time"> 03:47 AM CT, Apr. 11 </p> 
@@ -314,6 +316,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/11/white-house-joe-manchin-biden-00024340">The new White House rule: Do not talk about Joe Manchin</a> Politico: As another round of talks on a climate and spending bill ramps up, aides and advocates are under strict orders to keep their mouths shut — lest they antagonize the all-important senator. 
  <p class="updated_time"> 03:30 AM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/trump-ted-budd-north-carolina-senate-00024322">Tide turns for Trump favorite in key Senate race</a> Politico: North Carolina’s May 17 primary is emerging as a key test of the former president’s clout. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 11 </p> 
+ <a href="https://www.politico.com/news/2022/04/11/2024-presidential-campaign-dark-money-00024241">2024 hopefuls are already in a dark-money arms race</a> Politico: At least a dozen potential candidates for president have nonprofit groups that can raise undisclosed money aligned with them. 
  <p class="updated_time"> 07:48 PM CT, Apr. 10 </p> 
  <a href="https://www.cnn.com/2022/04/10/politics/ginni-thomas-trump-influence/index.html">How Ginni Thomas jockeyed for influence in Trump's orbit</a> CNN: One week after the 2018 midterms, President Donald Trump hosted a private lunch with Supreme Court Justice Clarence Thomas and his wife, conservative activist Virginia "Ginni" Thomas. 
  <p class="updated_time"> 06:23 PM CT, Apr. 10 </p> 
