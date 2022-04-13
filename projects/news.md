@@ -9,8 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:11 AM CT, Apr. 13 </p> 
+ <p class="updated_time"> 12:32 PM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-refugees-women.html">The Ukrainian Refugee Crisis Is a Women’s Crisis</a> NYT: A wave of displaced women and children into Poland is forcing the country to address its lack of protections for working women. 
+ <p class="updated_time"> 12:20 PM CT, Apr. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61089039?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fugitive Putin ally Medvedchuk arrested - security service</a> BBC: Viktor Medvedchuk, a Ukrainian tycoon who is accused of treason, was pictured in handcuffs. 
+ <p class="updated_time"> 12:17 PM CT, Apr. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61092953?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mass surrender of troops in Mariupol, says Russia</a> BBC: Russia says more than 1,000 marines in the besieged port have surrendered - but Ukraine denies this. 
+ <p class="updated_time"> 12:16 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/04/13/world/ukraine-russia-war-news">Ukraine Live Updates: Putin’s Aim to Weaken NATO Falters as Finland and Sweden Weigh Joining</a> NYT: Their accession into the military alliance would be another counterproductive result of Russia’s invasion of Ukraine. Outside Kyiv, the authorities exhumed bodies in communal graves, even as Russian troops appeared to be massing for a new offensive in the country’s east. 
+ <p class="updated_time"> 12:16 PM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/world/europe/russia-land-mines-ukraine.html">Russians Planted Thousands of Land Mines During Retreat From Kyiv, Ukrainians Say</a> NYT: Departing Russian soldiers have laced large swaths of the country with buried mines and jury-rigged bombs,  some hidden inside homes, to terrorize returning civilians. 
+ <p class="updated_time"> 12:13 PM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/world/europe/mariupol-hospital-attack-nurse.html">Nurse Recounts Attack on Mariupol Maternity Hospital</a> NYT: The attack last month was among the first signs that Ukraine was facing a merciless war. 
+ <p class="updated_time"> 11:38 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
+ <p class="updated_time"> 11:28 AM CT, Apr. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61093302?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Finland to decide on Nato membership in weeks says PM Marin</a> BBC: Sanna Marin's comments came as a report warned Nato membership could increase tensions with Russia. 
+ <p class="updated_time"> 11:20 AM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/world/middleeast/israel-art-museum-tel-aviv.html">Israel’s Oldest Museum Takes a New Look at Israeli Art</a> NYT: For decades, museums presented Israeli art as a companion to the country’s history. The Tel Aviv Museum of Art breaks away from that approach — with surprising results. 
+ <p class="updated_time"> 11:19 AM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/science/war-environmental-impact-ukraine.html">How Nature Becomes a Casualty of War</a> NYT: Research on past conflicts suggests that the war in Ukraine could have a profound environmental impact. 
  <p class="updated_time"> 11:07 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/finland-sweden-nato-russia-ukraine.html">Despite Russian Warnings, Finland and Sweden Draw Closer to NATO</a> NYT: The invasion of Ukraine has heightened security fears, pushing even formally nonaligned countries toward the Western alliance. 
  <p class="updated_time"> 10:59 AM CT, Apr. 13 </p> 
@@ -19,38 +37,34 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61093300?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Biden accuses Russian troops of committing genocide in Ukraine</a> BBC: The US leader says President Putin is trying to "wipe out the idea" of a Ukrainian identity. 
  <p class="updated_time"> 10:42 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61099211?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: The moment a puppy is rescued from the rubble</a> BBC: Rescuers heard a puppy crying in the rubble and used their bare hands to find it. 
+ <p class="updated_time"> 10:38 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/video/headline/876EF8C1-6657-43C6-A4E6-22E39FE05088.html">Why Russia Wants Control Over Ukraine</a> WSJ: Why Russia Wants Control Over Ukraine 
  <p class="updated_time"> 10:20 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/world-covid-cases-testing.html">World Surpasses Half a Billion Known Coronavirus Cases</a> NYT: There have almost certainly been far more infections than that among the global population of 7.9 billion, with many going undetected or unreported, and the reporting gap may only grow wider as some countries, including the United States, scale back official testing. 
- <p class="updated_time"> 10:14 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
  <p class="updated_time"> 10:01 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/germany-russia-ukraine-war.html">Ukraine War Pushes Germans to Change. They Are Wavering.</a> NYT: In just six weeks since Chancellor Olaf Scholz announced a strategic shift for his country, already doubts are emerging about how real and deep it is. 
+ <p class="updated_time"> 10:00 AM CT, Apr. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-61095961?at_medium=RSS&at_campaign=KARANGA">Climate change: COP26 promises will hold warming under 2C</a> BBC: Scientists say their analysis is "encouraging" but keeping under 1.5C this century looks unlikely. 
  <p class="updated_time"> 09:59 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/africa/south-africa-durban-floods.html">Death Toll in South Africa Floods Passes 250</a> NYT: President Cyril Ramaphosa traveled to the east coast, which was pounded by days of rain that washed away bridges and swept homes from their foundations. 
- <p class="updated_time"> 09:48 AM CT, Apr. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61089039?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fugitive Putin ally Medvedchuk arrested - security service</a> BBC: Viktor Medvedchuk, a Ukrainian tycoon who is accused of treason, was pictured in handcuffs. 
  <p class="updated_time"> 09:45 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/us/politics/russia-propaganda-ukraine-war.html">How US and Ukrainian Groups Pierce Putin’s Propaganda Bubble</a> NYT: U.S.-backed news outlets and Ukrainian activists use Cold War techniques and high-tech tactics to get news about the war to Russians. 
+ <p class="updated_time"> 09:38 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/rise-of-marine-le-pen-in-france-challenges-wests-unity-against-russia-11649854428">Le Pen’s Rise Challenges West’s Unity Against Russia</a> WSJ: Le Pen’s Rise Challenges West’s Unity Against Russia 
  <p class="updated_time"> 09:22 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61092334?at_medium=RSS&at_campaign=KARANGA">Durban floods: South Africa floods kill more than 250</a> BBC: KwaZulu-Natal authorities say the storm is one of the worst in South Africa's history. 
- <p class="updated_time"> 09:14 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/video/headline/876EF8C1-6657-43C6-A4E6-22E39FE05088.html">Why Russia Wants Control Over Ukraine</a> WSJ: Why Russia Wants Control Over Ukraine 
  <p class="updated_time"> 09:14 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61085810?at_medium=RSS&at_campaign=KARANGA">Collecting the dead in Bucha</a> BBC: After the discovery of the atrocities in Bucha, a massive operation to find the bodies began. 
  <p class="updated_time"> 09:12 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/australia/new-zealand-covid-restrictions-australia.html">New Zealand Welcomes Vaccinated Tourists From Australia</a> NYT: The latest steps toward reopening are being taken in a country that has maintained some of the strictest coronavirus precautions in the world. 
- <p class="updated_time"> 08:59 AM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/world/middleeast/israel-art-museum-tel-aviv.html">Israel’s Oldest Museum Takes a New Look at Israeli Art</a> NYT: For decades, museums presented Israeli art as a companion to the country’s history. The Tel Aviv Museum of Art breaks away from that approach — with surprising results. 
- <p class="updated_time"> 08:34 AM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008297311/bucha-ukraine-bodies-grave.html">‘We’ll Bury Them, Like Humans’: Ukrainian Officials Identify Bodies in Bucha</a> NYT: Following the withdrawal of Russian forces from a Kyiv suburb, officials examined and documented the bodies of those who were killed in the war. 
- <p class="updated_time"> 08:26 AM CT, Apr. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61093302?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Finland to decide on Nato membership in weeks says PM Marin</a> BBC: Sanna Marin's comments came as a report warned Nato membership could increase tensions with Russia. 
- <p class="updated_time"> 08:14 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/rise-of-marine-le-pen-in-france-challenges-wests-unity-against-russia-11649854428">Le Pen’s Rise Challenges West’s Unity Against Russia</a> WSJ: Le Pen’s Rise Challenges West’s Unity Against Russia 
+ <p class="updated_time"> 08:38 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/china-flirts-with-shorter-quarantines-for-overseas-arrivals-amid-shanghai-covid-outbreak-11649858993">China Flirts With Shorter Quarantines for Overseas Arrivals</a> WSJ: China Flirts With Shorter Quarantines for Overseas Arrivals 
+ <p class="updated_time"> 07:40 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-s-expands-flow-of-intelligence-to-ukraine-as-white-house-sends-more-arms-11649868029">U.S. Expands Flow of Intelligence to Ukraine as White House Sends More Arms</a> WSJ: The Biden administration is moving to significantly expand the intelligence it is providing to Ukraine’s forces so they can target Moscow’s military units in Russian-occupied Donbas and Crimea and potentially take back territory, U.S. officials said. 
+ <p class="updated_time"> 07:38 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/support-for-saudi-arabia-counter-to-u-s-interests-house-democrats-say-11649838260">Support for Saudi Arabia ‘Counter’ to U.S. Interests, House Democrats Say</a> WSJ: Support for Saudi Arabia ‘Counter’ to U.S. Interests, House Democrats Say 
  <p class="updated_time"> 07:23 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/asia/tropical-storm-megi-philippines.html">After Tropical Storm Megi Hits Philippines, Dozens Dead or Missing</a> NYT: The first such storm of the year caused widespread flooding and landslides in the central part of the country. 
- <p class="updated_time"> 07:14 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/china-flirts-with-shorter-quarantines-for-overseas-arrivals-amid-shanghai-covid-outbreak-11649858993">China Flirts With Shorter Quarantines for Overseas Arrivals</a> WSJ: China Flirts With Shorter Quarantines for Overseas Arrivals 
  <p class="updated_time"> 06:54 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61096385?at_medium=RSS&at_campaign=KARANGA">Russia releases drone footage shows Mariupol damage</a> BBC: Footage released by the Russian Ministry of Defence shows the extent of damage in the city. 
  <p class="updated_time"> 06:48 AM CT, Apr. 13 </p> 
@@ -59,12 +73,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61093002?at_medium=RSS&at_campaign=KARANGA">BBC reporter: Scale of destruction in Borodyanka, in Kyiv region is extraordinary</a> BBC: Anna Foster is in Borodyanka showing the scale of damage left behind in the Kyiv region. 
  <p class="updated_time"> 06:31 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61092952?at_medium=RSS&at_campaign=KARANGA">Pierin Vincenz: Swiss banker put strip-club visits on expenses</a> BBC: Pierin Vincenz is sentenced to nearly four years in jail for charges including fraud. 
- <p class="updated_time"> 06:14 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/support-for-saudi-arabia-counter-to-u-s-interests-house-democrats-say-11649838260">Support for Saudi Arabia ‘Counter’ to U.S. Interests, House Democrats Say</a> WSJ: Support for Saudi Arabia ‘Counter’ to U.S. Interests, House Democrats Say 
- <p class="updated_time"> 05:49 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/new-zealand-lifts-interest-rate-by-half-point-as-inflation-fight-heats-up-11649829732">New Zealand Lifts Interest Rate By Half-Point as Inflation Fight Heats Up</a> WSJ: The Reserve Bank of New Zealand left the door open to a further half-percentage-point increase next month as it seeks to cool rising inflation. 
- <p class="updated_time"> 05:36 AM CT, Apr. 13 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61090995?at_medium=RSS&at_campaign=KARANGA">Fantastic Beasts 3: Gay dialogue removed from film for Chinese audiences</a> BBC: Warner Bros agreed to the request for changes but have said the "spirit of the film remains". 
+ <p class="updated_time"> 06:01 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-military-success-years-of-nato-training-11649861339">The Secret of Ukraine's Military Success: Years of NATO Training</a> WSJ: Extensive programs have taught thousands of soldiers, plus military brass and lawmakers overseeing the armed forces, how to transform from a rigid Soviet-style force into a modern army that thinks on the move. 
  <p class="updated_time"> 05:19 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/asia/philippines-marcos-president-election.html">Ahead of Philippines Election, Ferdinand Marcos Jr. Rises</a> NYT: Ferdinand Marcos Jr. has spent his political career trying to rehabilitate the family name. As the front-runner in the upcoming election, he may finally succeed. 
  <p class="updated_time"> 05:00 AM CT, Apr. 13 </p> 
@@ -76,19 +86,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:01 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092407304/chernihiv-ukraine-russia-siege">Residents of a devastated Chernihiv ponder their future after a Russian siege ends</a> NPR: For weeks, the Ukrainian city was bombarded daily. Villages outside of town were reduced to rubble. Residents are cleaning up and wondering how to move forward with their homes and livelihoods gone. 
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/science/war-environmental-impact-ukraine.html">How Nature Becomes a Casualty of War</a> NYT: Research on past conflicts suggests that the war in Ukraine could have a profound environmental impact. 
- <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-schools-war.html">War in Ukraine Disrupts Education of Millions of Children</a> NYT: The country’s teachers are doing their best to provide lessons for the millions of school-age children whose education has been interrupted. 
- <p class="updated_time"> 03:49 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/australia-asks-solomon-islands-to-abandon-china-security-pact-11649854144">Australia Asks Solomon Islands to Abandon China Security Pact</a> WSJ: Australia urged the archipelago nation to lean on Pacific neighbors for its security needs in its 11th-hour attempt to scupper the planned agreement between the Solomon Islands and China. 
- <p class="updated_time"> 01:46 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/global-trade-hit-by-ukraine-war-china-lockdowns-11649846815">Global Trade Hit by Ukraine War, China Lockdowns</a> WSJ: Accelerating inflation, war in Ukraine and lockdowns in China dented international commerce in March, a sign the global economy is entering a rough patch as policy makers battle to sustain growth. 
  <p class="updated_time"> 11:32 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/mimi-reinhard-dead.html">Mimi Reinhard, Who Typed Up Schindler’s List, Dies at 107</a> NYT: As a secretary in a forced-labor camp in World War II, she added her own name to the list of 1,100 Jews who would be spared from the gas chambers. 
  <p class="updated_time"> 11:05 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/arts/design/morozov-collection-russia-sanctions.html">French Authorities Seize Oligarch’s Painting Before It Leaves for Russia</a> NYT: A work displayed in the blockbuster “Morozov Collection” exhibition will remain in France, and authorities have their eyes on another painting in the show. 
- <p class="updated_time"> 10:46 PM CT, Apr. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61089043?at_medium=RSS&at_campaign=KARANGA">Ukraine: The critical fight for 'heart of this war' Mariupol</a> BBC: Russia could be on the brink of fully capturing the city after a devastating, six-week assault. 
  <p class="updated_time"> 10:43 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/ukraine-war-children-parents.html">Ukrainian Parents Are Writing IDs on Their Children’s Bodies</a> NYT: A mother who wrote emergency contact information on her 2-year-old’s back has become a voice for countless Ukrainian parents forced to do the same. 
  <p class="updated_time"> 09:12 PM CT, Apr. 12 </p> 
@@ -195,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61064429?at_medium=RSS&at_campaign=KARANGA">Zelensky asked if he'll give Russia any part of Ukraine</a> BBC: Ukraine's president tells CBS' 60 Minutes he isn't ready to give away his country in return for peace. 
  <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/magazine/trump-putin-ukraine-fiona-hill.html">Trump and Ukraine: Former Advisers Revisit What Happened</a> NYT: Amid the current crisis, Fiona Hill and other former advisers are connecting President Trump’s pressure campaign on Ukraine to Jan. 6. And they’re ready to talk. 
- <p class="updated_time"> 03:40 AM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/10/world/asia/ukrainian-kramatorsk.html">A Stricken Ukrainian City Empties, and Those Left Fear What’s Next</a> NYT: After the deadly strike on the train station in Kramatorsk, Ukraine, those who stayed behind are grim about the future: “We think we will be swept off the face of the earth.” 
  <p class="updated_time"> 02:00 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/europe/uk-fish-chips-inflation.html">‘Cheap as Chips’ No Longer True in U.K. as Prices Soar for a Favorite Meal</a> NYT: The costs for fish and chips, a working-class staple in Britain for well over a century, have rocketed as the war in Ukraine has made the main ingredients scarcer. Of 10,000 shops, 3,000 may close. 
  <p class="updated_time"> 12:26 AM CT, Apr. 11 </p> 
@@ -212,10 +212,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:27 PM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/us/politics/mark-meadows-vote-north-carolina.html">Mark Meadows Is Taken Off North Carolina Voter Roll Amid Fraud Inquiry</a> NYT: The state is investigating whether Mr. Meadows cast a legal vote in 2020, after reports questioned if he lived at the address listed on his voter registration. 
+ <p class="updated_time"> 12:23 PM CT, Apr. 13 </p> 
+ <a href="https://www.politico.com/news/2022/04/13/january-6-defendant-donald-trump-00025019">Jan. 6 defendant wants jurors to blame Trump, not him, for decision to breach Capitol</a> Politico: Though dozens of defendants have argued in court filings that they believed then-President Donald Trump had authorized the assault on the Capitol, judges have largely rejected that contention. 
+ <p class="updated_time"> 11:45 AM CT, Apr. 13 </p> 
+ <a href="https://www.politico.com/news/2022/04/13/trump-georgia-governor-race-00024987">Trump machine spends to take down Georgia governor</a> Politico: The former president is putting money from his PAC into the race to unseat GOP Gov. Brian Kemp of Georgia. 
  <p class="updated_time"> 10:40 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/business/mckinsey-purdue-fda-records.html">McKinsey Opened a Door in Its Firewall Between Pharma Clients and Regulators</a> NYT: The firm let consultants advise both drugmakers and their government overseers, internal records show. “Who we know and what we know” was part of their pitch. 
  <p class="updated_time"> 09:45 AM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/us/politics/russia-propaganda-ukraine-war.html">How US and Ukrainian Groups Pierce Putin’s Propaganda Bubble</a> NYT: U.S.-backed news outlets and Ukrainian activists use Cold War techniques and high-tech tactics to get news about the war to Russians. 
+ <a href="https://www.nytimes.com/2022/04/13/us/politics/russia-propaganda-ukraine-war.html">U.S. and Ukrainian Groups Pierce Putin’s Propaganda Bubble</a> NYT: U.S.-backed news outlets and Ukrainian activists use Cold War techniques and high-tech tactics to get news about the war to Russians. 
  <p class="updated_time"> 09:26 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092547721/two-men-accused-of-impersonating-federal-officers-will-be-released-to-await-tria">Two men accused of impersonating federal officers will be released to await trial</a> NPR: Both are ordered to stay with their fathers in Virginia. Prosecutors have suggested they posed a national security threat and may have compromised Secret Service agents. 
  <p class="updated_time"> 08:32 AM CT, Apr. 13 </p> 
@@ -245,9 +251,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/ukraine-war-first-trump-impeachment-00024816">As Ukraine war intensifies, questions from first Trump impeachment linger</a> Politico: The former president's withholding of aid from Ukraine feels like a distant political chapter — but it’s taken on a new meaning as military assistance proves pivotal in today’s war with Russia. 
  <p class="updated_time"> 03:30 AM CT, Apr. 13 </p> 
- <a href="https://www.politico.com/news/2022/04/13/war-crimes-russia-ukraine-00024860">Why prosecuting Russian war crimes in Ukraine could be complicated</a> Politico: Investigators believe the atrocities committed in Ukraine could be rife for international prosecution. But successful convictions are rare. 
- <p class="updated_time"> 03:30 AM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/progressives-antitrust-activists-split-anti-lgbtq-00024799">Behind closed doors, progressives fighting ‘Big Tech’ work with anti-trans group</a> Politico: The American Principles Project wants to break up big tech companies, but it’s also fighting to curb transgender rights. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 13 </p> 
+ <a href="https://www.politico.com/news/2022/04/13/war-crimes-russia-ukraine-00024860">Why prosecuting Russian war crimes in Ukraine could be complicated</a> Politico: Investigators believe the atrocities committed in Ukraine could be rife for international prosecution. But successful convictions are rare. 
  <p class="updated_time"> 02:38 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1091973669/new-york-lieutenant-governor-brian-benjamin-resigns-bribery-fraud-campaign">New York's lieutenant governor resigns after being charged with bribery and fraud </a> NPR: Brian Benjamin surrendered to the FBI Tuesday morning. His case is being handled by the Southern District Court of New York. 
  <p class="updated_time"> 11:15 PM CT, Apr. 12 </p> 
@@ -264,8 +270,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/04/12/politics/biden-iowa-genocide/index.html">Biden calls atrocities in Ukraine a 'genocide' for the first time</a> CNN: President Joe Biden said Tuesday the atrocities being uncovered in Ukraine qualify as genocide, a designation he'd previously avoided but that he now believes is warranted as scenes of devastation emerge from towns once overrun by Russian troops. 
  <p class="updated_time"> 06:03 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/latinos-voters-midterms.html">How Young Latinos’ Online and TV Habits Offer Political Clues for 2022</a> NYT: A new report exploring young Latinos’ views on immigration sheds light on one of the most important voter groups in the midterm elections, and found a noteworthy gender divide. 
- <p class="updated_time"> 05:44 PM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/public-safety-mayor-faces-subway-attack-from-covid-quarantine-00024809">New York's public safety mayor faces subway attack while in Covid quarantine</a> Politico: Eric Adams lamented his cloistered situation, saying in a virtual television interview, "You know me, you know I want to be on the ground." 
  <p class="updated_time"> 05:43 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/us-report-human-rights.html">U.S. Report Describes a Global Retreat on Human Rights </a> NYT: Secretary of State Antony Blinken says repressive governments “are growing more brazen” and reaching across borders to target their critics. 
  <p class="updated_time"> 05:19 PM CT, Apr. 12 </p> 
@@ -286,14 +290,14 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/04/12/politics/e15-gas-explainer-faq-climate/index.html">What are the pros and cons of E15 gas? Here's what to know about Biden's order</a> CNN: President Joe Biden announced Tuesday that his administration will lift the summertime ban on E15 gasoline to help ease high gas prices. 
  <p class="updated_time"> 03:49 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092414613/the-dnc-is-considering-changing-how-the-party-picks-its-presidential-candidates">The DNC is considering changing how the party picks its presidential candidates</a> NPR: The Democratic National Committee is considering an overhaul of its presidential nominating process this week. It would give more diverse states an earlier role and promote primaries over caucuses. 
- <p class="updated_time"> 03:31 PM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/hochul-tough-choices-lieutenant-governor-arrest-new-york-00024700">Hochul faces tough choices after Lt. Gov. Benjamin's arrest and resignation in New York</a> Politico: The high-profile case puts Gov. Kathy Hochul in a difficult position as she seeks a full term this year while tethered to Brian Benjamin. 
  <p class="updated_time"> 03:23 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/jan-6-capitol-riot-sullivan-trump.html">In Conference Call Before Riot, a Plea to ‘Descend on the Capitol’</a> NYT: Days before Jan. 6, a onetime aide to Roger J. Stone Jr. told Trump backers to make lawmakers meeting to finalize the 2020 election results feel that “people are breathing down their necks.” 
  <p class="updated_time"> 02:54 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/gop-joseph-hatchett-florida.html">House G.O.P., Banding Together, Kills Bid to Honor Pioneering Black Judge</a> NYT: A right-wing congressman persuaded fellow Republicans to abruptly turn against a routine measure to name a federal courthouse in Florida for a Black State Supreme Court justice. 
  <p class="updated_time"> 02:53 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/covid-cases-white-house-czar.html">As U.S. Cases Rise, White House Covid Czar Says It’s Not a Moment to be ‘Excessively Concerned’</a> NYT: The official, Dr. Ashish Jha, said hospitalizations remained very low and that officials were monitoring the trajectory of the virus closely. 
+ <p class="updated_time"> 02:15 PM CT, Apr. 12 </p> 
+ <a href="https://www.politico.com/news/2022/04/12/emilys-list-poll-progressive-candidate-pennsylvania-house-primary-00024702">EMILY's List poll: Progressive candidate opens big lead in Pennsylvania House primary</a> Politico: First elected to the state House in 2018, state Rep. Summer Lee is a lawyer who supports a $15 minimum wage, the Green New Deal and Medicare for All. 
  <p class="updated_time"> 01:44 PM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/u-s-report-admits-backsliding-human-rights-in-afghanistan-00024746">U.S. report acknowledges human rights backsliding in Afghanistan</a> Politico: The 2021 Country Reports on Human Rights Practices also criticized China and Russia over human rights violations and authoritarian leadership. 
  <p class="updated_time"> 01:32 PM CT, Apr. 12 </p> 
@@ -306,20 +310,18 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/12/biden-admin-russia-chemical-weapons-00024709">Team Biden scrambles to respond to claims of Russia chemical weapon use</a> Politico: The administration has said Russian chemical weapons use in Ukraine would trigger a ‘proportional’ U.S. response. Its pledge may soon be tested. 
  <p class="updated_time"> 10:22 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092290277/florida-lawmakers-let-desantis-draw-a-congressional-map-after-he-vetoed-the-last">Florida lawmakers let DeSantis draw a congressional map after he vetoed the last one</a> NPR: Gov. Ron DeSantis, a potential Republican presidential aspirant, has been pushing a map that's considered more advantageous to his party. 
- <p class="updated_time"> 09:21 AM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/new-york-lieutenant-governor-bribery-case-00024636">New York's lieutenant governor resigns after arrest in federal bribery case</a> Politico: Brian Benjamin is accused of conspiring to direct state funds to a real estate investor in exchange for illegal campaign contributions to a 2021 race in New York City. 
  <p class="updated_time"> 08:53 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/tom-ohalleran-arizona-house.html">An Arizona Democrat Tries to Hang On in a Trump-Tilting District</a> NYT: Representative Tom O’Halleran of Arizona is seeking re-election as his district leans further toward Trump. His strategy? Don’t change. “I am,” he says, “who I am.” 
  <p class="updated_time"> 08:39 AM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/obama-putin-ukraine-00024627">Obama: Ukraine invasion proof that Putin has grown more ‘reckless’</a> Politico: The Russian leader is acting “in a way that you might not have anticipated eight, 10 years ago,” the former president said. 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/transgender-laws-us.html">Red States Push L.G.B.T.Q. Restrictions as Education Battles Intensify</a> NYT: With an eye toward parents’ anxiety, Republicans have put forward a wave of laws on classroom instruction, youth sports and health care. Some of the young people at the center feel isolated. 
- <p class="updated_time"> 11:40 PM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-atf-steven-dettelbach.html">Biden Names Former Federal Prosecutor to Lead A.T.F.</a> NYT: The president nominated Steven M. Dettelbach to run the troubled agency, seven months after withdrawing his previous pick. 
  <p class="updated_time"> 08:58 PM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/biden-guns-crime-00024593">Biden’s solution to the politics of rising crime: Focus on guns</a> Politico: Democrats are on the defensive on violent crime, but they have a built-in trust advantage on policies for preventing gun violence. 
  <p class="updated_time"> 08:47 PM CT, Apr. 11 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 07:45 PM CT, Apr. 11 </p> 
+ <a href="https://www.cnn.com/2022/04/11/politics/jan-6-committee-donald-trump-jr-what-matters/index.html">Why we've just scratched the surface of the January 6 investigation</a> CNN: A CNN exclusive on Friday directly ties the former President's son, Donald Trump Jr., to a concerted effort to overturn the 2020 presidential election even as votes were still being counted. 
  <p class="updated_time"> 05:17 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-modi-india-russia-oil.html">Biden Urges Modi Not to Increase India’s Reliance on Russian Oil and Gas</a> NYT: The United States hopes to convince India to come off the fence over Russia’s invasion of Ukraine, but New Delhi and Moscow have deep historic ties. 
  <p class="updated_time"> 04:28 PM CT, Apr. 11 </p> 
@@ -330,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/11/us/politics/us-russia-ukraine-war-crimes.html">U.S. Weighs Shift to Support Hague Court as It Investigates Russian Atrocities</a> NYT: The government is hamstrung from helping the world’s war-crimes court by two laws and a policy aimed at barring it from charging Americans. 
  <p class="updated_time"> 10:03 AM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/bobby-rush-illinois-00023782">Bobby Rush wants to pick who gets his seat. 19 people disagree.</a> Politico: In a difficult election year for Democrats and high turnover in Congress, the 15-term congressman's historic seat is too tempting for would-be candidates to pass up. 
- <p class="updated_time"> 08:18 AM CT, Apr. 11 </p> 
- <a href="https://www.cnn.com/2022/03/03/politics/putin-war-crimes-russia-ukraine-us-what-matters/index.html">Here's how war crimes prosecutions work</a> CNN: Shocking atrocities in Ukraine, allegedly at the hands of Russian forces, have amplified calls to pursue war crimes charges against Russian President Vladimir Putin. 
  <p class="updated_time"> 06:07 AM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/biden-new-atf-chief-00024358">Biden nominates new ATF chief, announces slate of gun reforms</a> Politico: The president, Vice President Kamala Harris and Deputy Attorney General Lisa Monaco addressed the administration’s measures in the White House Rose Garden. 
  <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
