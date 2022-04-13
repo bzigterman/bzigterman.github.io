@@ -11,27 +11,27 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 02:18 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/04/12/world/ukraine-russia-war-news">What Happened on Day 48 of the War in Ukraine</a> NYT: Russia is pouring troops and equipment into eastern Ukraine, presaging a bloody new chapter in the conflict. The U.S., Britain and Australia said they were investigating an unconfirmed report that Russia had deployed a chemical agent, after a handful of people in Mariupol fell ill. 
- <p class="updated_time"> 01:31 AM CT, Apr. 13 </p> 
+ <p class="updated_time"> 01:53 AM CT, Apr. 13 </p> 
  <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight</a> WSJ: Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight 
- <p class="updated_time"> 12:31 AM CT, Apr. 13 </p> 
+ <p class="updated_time"> 12:53 AM CT, Apr. 13 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154">Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes</a> WSJ: Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes 
+ <p class="updated_time"> 11:53 PM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/marine-le-pen-proposes-overhaul-of-french-legislative-electoral-systems-11649785720">Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems</a> WSJ: Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems 
  <p class="updated_time"> 11:48 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-61090064?at_medium=RSS&at_campaign=KARANGA">US cryptocurrency expert jailed for helping North Korea evade sanctions</a> BBC: Virgil Griffith was sentenced to five years and three months in prison by a court in New York. 
  <p class="updated_time"> 11:32 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/mimi-reinhard-dead.html">Mimi Reinhard, Who Typed Up Schindler’s List, Dies at 107</a> NYT: As a secretary in a forced-labor camp in World War II, she added her own name to the list of 1,100 Jews who would be spared from the gas chambers. 
- <p class="updated_time"> 11:31 PM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/marine-le-pen-proposes-overhaul-of-french-legislative-electoral-systems-11649785720">Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems</a> WSJ: Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems 
  <p class="updated_time"> 11:05 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/arts/design/morozov-collection-russia-sanctions.html">French Authorities Seize Oligarch’s Painting Before It Leaves for Russia</a> NYT: A work displayed in the blockbuster “Morozov Collection” exhibition will remain in France, and authorities have their eyes on another painting in the show. 
+ <p class="updated_time"> 10:53 PM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/at-least-20-dead-in-philippines-after-flooding-landslides-11649772798">At Least 20 Dead in Philippines After Flooding, Landslides</a> WSJ: At Least 20 Dead in Philippines After Flooding, Landslides 
  <p class="updated_time"> 10:46 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61089043?at_medium=RSS&at_campaign=KARANGA">Ukraine: The critical fight for 'heart of this war' Mariupol</a> BBC: Russia could be on the brink of fully capturing the city after a devastating, six-week assault. 
  <p class="updated_time"> 10:43 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/ukraine-war-children-parents.html">Ukrainian Parents Are Writing IDs on Their Children’s Bodies</a> NYT: A mother who wrote emergency contact information on her 2-year-old’s back has become a voice for countless Ukrainian parents forced to do the same. 
- <p class="updated_time"> 10:31 PM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/at-least-20-dead-in-philippines-after-flooding-landslides-11649772798">At Least 20 Dead in Philippines After Flooding, Landslides</a> WSJ: At Least 20 Dead in Philippines After Flooding, Landslides 
  <p class="updated_time"> 10:19 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61089853?at_medium=RSS&at_campaign=KARANGA">Tropical Storm Megi: Rescuers race to find survivors as death toll rises</a> BBC: Authorities say at least 53 people have been killed and the death toll is expected to rise. 
- <p class="updated_time"> 09:31 PM CT, Apr. 12 </p> 
+ <p class="updated_time"> 09:53 PM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/chinese-stockpile-food-as-covid-19-concerns-ripple-out-from-shanghai-11649771421">Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai</a> WSJ: Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai 
  <p class="updated_time"> 09:28 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/61079356?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Was a cluster bomb used in station attack?</a> BBC: There's mounting evidence that these weapons, which can cause heavy civilian casualties, are in use. 
@@ -208,6 +208,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:38 AM CT, Apr. 13 </p> 
+ <a href="https://www.npr.org/2022/04/13/1091973669/new-york-lieutenant-governor-brian-benjamin-resigns-bribery-fraud-campaign">New York's lieutenant governor resigns after being charged with bribery and fraud </a> NPR: Brian Benjamin surrendered to the FBI Tuesday morning. His case is being handled by the Southern District Court of New York. 
  <p class="updated_time"> 11:15 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/business/economy/biden-ethanol-gas.html">Biden to Allow Higher-Ethanol E15 Gas to Be Sold All Summer</a> NYT: The White House estimated that the move would allow Americans to save 10 cents a gallon at the approximately 2,300 stations in the country that offer the blend known as E15. 
  <p class="updated_time"> 09:16 PM CT, Apr. 12 </p> 
@@ -316,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/03/03/politics/putin-war-crimes-russia-ukraine-us-what-matters/index.html">Here's how war crimes prosecutions work</a> CNN: Shocking atrocities in Ukraine, allegedly at the hands of Russian forces, have amplified calls to pursue war crimes charges against Russian President Vladimir Putin. 
  <p class="updated_time"> 06:07 AM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/biden-new-atf-chief-00024358">Biden nominates new ATF chief, announces slate of gun reforms</a> Politico: The president, Vice President Kamala Harris and Deputy Attorney General Lisa Monaco addressed the administration’s measures in the White House Rose Garden. 
- <p class="updated_time"> 04:07 AM CT, Apr. 11 </p> 
- <a href="https://www.npr.org/2022/04/11/1091980593/biden-will-announce-steps-to-curb-gun-violence-in-the-u-s">Biden will announce steps to curb gun violence in the U.S. </a> NPR: The action includes finalizing regulations that deal with ghost guns — weapons that do not have serial numbers that can be used to track them and are sometimes sold as kits to be assembled at home. 
  <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/magazine/trump-putin-ukraine-fiona-hill.html">Trump and Ukraine: Former Advisers Revisit What Happened</a> NYT: Amid the current crisis, Fiona Hill and other former advisers are connecting President Trump’s pressure campaign on Ukraine to Jan. 6. And they’re ready to talk. 
  <p class="updated_time"> 03:31 AM CT, Apr. 11 </p> 
