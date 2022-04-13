@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:10 AM CT, Apr. 13 </p> 
+ <p class="updated_time"> 04:53 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/04/13/world/ukraine-russia-war-news">Ukraine Live Updates: Putin Vows to Pursue War to Its ‘Full Completion’</a> NYT: Russia is pouring troops and equipment into eastern Ukraine. Ukrainian officials thwarted a Russian cyberattack on Ukraine’s power grid. Gas prices are forcing President Biden into an unlikely embrace of fossil fuels. 
+ <p class="updated_time"> 04:49 AM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/12/world/europe/ukraine-viktor-medvedchuk-putin-ally.html">Ukrainian Officers Said to Detain Putin Ally Viktor Medvedchuk</a> NYT: Viktor Medvedchuk, a wealthy Ukrainian politician seen as the Kremlin’s main agent of influence in Ukraine in recent years, had disappeared shortly after the start of the war. 
  <p class="updated_time"> 04:08 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092526223/australian-minister-tries-to-end-solomons-china-pact">Australian minister tries to end Solomons-China pact</a> NPR: Under the Solomon Islands' terms of a draft agreement, China could send police, military personnel and other armed forces to the Solomon Islands "to assist in maintaining social order." 
  <p class="updated_time"> 04:01 AM CT, Apr. 13 </p> 
@@ -21,20 +23,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/world/asia/philippines-marcos-president-election.html">Ahead of Philippines Election, Ferdinand Marcos Jr. Rises</a> NYT: Ferdinand Marcos Jr. has spent his political career trying to rehabilitate the family name. As the front-runner in the upcoming election, he may finally succeed. 
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-schools-war.html">War in Ukraine Disrupts Education of Millions of Children</a> NYT: The country’s teachers are doing their best to provide lessons for the millions of school-age children whose education has been interrupted. 
- <p class="updated_time"> 03:46 AM CT, Apr. 13 </p> 
+ <p class="updated_time"> 03:58 AM CT, Apr. 13 </p> 
  <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight</a> WSJ: Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight 
  <p class="updated_time"> 03:43 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61089039?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fugitive Putin ally Medvedchuk arrested - security service</a> BBC: Viktor Medvedchuk, a Ukrainian tycoon who is accused of treason, was pictured in handcuffs. 
- <p class="updated_time"> 02:46 AM CT, Apr. 13 </p> 
+ <p class="updated_time"> 02:58 AM CT, Apr. 13 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154">Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes</a> WSJ: Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes 
- <p class="updated_time"> 01:46 AM CT, Apr. 13 </p> 
+ <p class="updated_time"> 01:58 AM CT, Apr. 13 </p> 
  <a href="https://www.wsj.com/articles/marine-le-pen-proposes-overhaul-of-french-legislative-electoral-systems-11649785720">Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems</a> WSJ: Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems 
- <p class="updated_time"> 12:46 AM CT, Apr. 13 </p> 
+ <p class="updated_time"> 12:58 AM CT, Apr. 13 </p> 
  <a href="https://www.wsj.com/articles/at-least-20-dead-in-philippines-after-flooding-landslides-11649772798">At Least 20 Dead in Philippines After Flooding, Landslides</a> WSJ: At Least 20 Dead in Philippines After Flooding, Landslides 
+ <p class="updated_time"> 11:58 PM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/chinese-stockpile-food-as-covid-19-concerns-ripple-out-from-shanghai-11649771421">Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai</a> WSJ: Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai 
  <p class="updated_time"> 11:48 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-61090064?at_medium=RSS&at_campaign=KARANGA">US cryptocurrency expert jailed for helping North Korea evade sanctions</a> BBC: Virgil Griffith was sentenced to five years and three months in prison by a court in New York. 
- <p class="updated_time"> 11:46 PM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/chinese-stockpile-food-as-covid-19-concerns-ripple-out-from-shanghai-11649771421">Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai</a> WSJ: Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai 
  <p class="updated_time"> 11:32 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/mimi-reinhard-dead.html">Mimi Reinhard, Who Typed Up Schindler’s List, Dies at 107</a> NYT: As a secretary in a forced-labor camp in World War II, she added her own name to the list of 1,100 Jews who would be spared from the gas chambers. 
  <p class="updated_time"> 11:05 PM CT, Apr. 12 </p> 
@@ -71,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/world/europe/macron-le-pen-france-election.html">Macron and Le Pen Trade Jabs and Lean Left as French Race Heats Up</a> NYT: President Emmanuel Macron and Marine Le Pen, the far-right candidate, are in close contention as the April 24 presidential runoff election nears. 
  <p class="updated_time"> 04:51 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html">Ukraine Says It Thwarted a Sophisticated Russian Cyberattack on Its Power Grid</a> NYT: Experts say the hacking, while unsuccessful, was among the most complex cyberattacks they have seen in the war so far. 
- <p class="updated_time"> 04:32 PM CT, Apr. 12 </p> 
- <a href="https://www.nytimes.com/2022/04/12/world/europe/ukraine-viktor-medvedchuk-putin-ally.html">Ukrainian Officers Said to Detain Putin Ally Viktor Medvedchuk</a> NYT: Viktor Medvedchuk, a wealthy Ukrainian politician seen as the Kremlin’s main agent of influence in Ukraine in recent years, had disappeared shortly after the start of the war. 
  <p class="updated_time"> 04:23 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61077648?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin vows to continue invasion until 'noble' aims met</a> BBC: In a rare public appearance, Russia's president insists his country's "noble" aims will be met. 
  <p class="updated_time"> 04:22 PM CT, Apr. 12 </p> 
@@ -221,6 +221,8 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/biden-nuclear-cruise-missile-scrap-00024865">Political brawl looms over nuclear cruise missile Biden plans to scrap</a> Politico: Biden threw foreign policy progressives a bone by killing a weapons system Trump proposed. But Republicans on Capitol Hill are ready to bring it back from the dead. 
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
+ <a href="https://www.politico.com/news/2022/04/13/steven-guilbeault-bay-du-nord-00024893">Steven Guilbeault, between The Rock and a hard place</a> Politico: The former climate activist turned environment minister just gave the green light to the Bay du Nord oil project. He agrees it’s unexpected. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/china-activists-state-dept-human-rights-00024876">China activists call for reboot of State Dept. annual human rights report</a> Politico: Report’s “recap” format neglects new trends and policy fixes. 
  <p class="updated_time"> 03:31 AM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/dems-crime-law-and-order-politics-00024875">Dems return to law-and-order politics</a> Politico: If 2020 was the year the left reordered the traditional politics of crime and policing, 2022 looks like the year centrists regained their footing and nullified those gains. 
@@ -258,6 +260,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html">Ukraine Says It Thwarted a Sophisticated Russian Cyberattack on Its Power Grid</a> NYT: Experts say the hacking, while unsuccessful, was among the most complex cyberattacks they have seen in the war so far. 
  <p class="updated_time"> 04:13 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092414662/gov-desantis-takes-over-congressional-redistricting-in-florida">Gov. DeSantis takes over congressional redistricting in Florida</a> NPR: Florida's legislature says instead of drawing new maps for congressional districts, it will cede the responsibility to Gov. DeSantis, who wants to eliminate two African-American voting districts. 
+ <p class="updated_time"> 04:12 PM CT, Apr. 12 </p> 
+ <a href="https://www.politico.com/news/2022/04/12/biden-russia-ukraine-genocide-00024807">Biden labels Russian atrocities in Ukraine 'genocide'</a> Politico: The president's notable shift in rhetoric comes as other administration officials have so far avoided using the designation. 
  <p class="updated_time"> 03:59 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092316260/russia-ukraine-war-what-happened-today-april-12">Russia-Ukraine war: What happened today (April 12)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:49 PM CT, Apr. 12 </p> 
