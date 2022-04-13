@@ -21,22 +21,22 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/world/asia/philippines-marcos-president-election.html">Ahead of Philippines Election, Ferdinand Marcos Jr. Rises</a> NYT: Ferdinand Marcos Jr. has spent his political career trying to rehabilitate the family name. As the front-runner in the upcoming election, he may finally succeed. 
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-schools-war.html">War in Ukraine Disrupts Education of Millions of Children</a> NYT: The country’s teachers are doing their best to provide lessons for the millions of school-age children whose education has been interrupted. 
+ <p class="updated_time"> 03:46 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight</a> WSJ: Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight 
  <p class="updated_time"> 03:43 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61089039?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fugitive Putin ally Medvedchuk arrested - security service</a> BBC: Viktor Medvedchuk, a Ukrainian tycoon who is accused of treason, was pictured in handcuffs. 
- <p class="updated_time"> 03:18 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight</a> WSJ: Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight 
- <p class="updated_time"> 02:18 AM CT, Apr. 13 </p> 
+ <p class="updated_time"> 02:46 AM CT, Apr. 13 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154">Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes</a> WSJ: Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes 
- <p class="updated_time"> 01:18 AM CT, Apr. 13 </p> 
+ <p class="updated_time"> 01:46 AM CT, Apr. 13 </p> 
  <a href="https://www.wsj.com/articles/marine-le-pen-proposes-overhaul-of-french-legislative-electoral-systems-11649785720">Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems</a> WSJ: Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems 
- <p class="updated_time"> 12:18 AM CT, Apr. 13 </p> 
+ <p class="updated_time"> 12:46 AM CT, Apr. 13 </p> 
  <a href="https://www.wsj.com/articles/at-least-20-dead-in-philippines-after-flooding-landslides-11649772798">At Least 20 Dead in Philippines After Flooding, Landslides</a> WSJ: At Least 20 Dead in Philippines After Flooding, Landslides 
  <p class="updated_time"> 11:48 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-61090064?at_medium=RSS&at_campaign=KARANGA">US cryptocurrency expert jailed for helping North Korea evade sanctions</a> BBC: Virgil Griffith was sentenced to five years and three months in prison by a court in New York. 
+ <p class="updated_time"> 11:46 PM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/chinese-stockpile-food-as-covid-19-concerns-ripple-out-from-shanghai-11649771421">Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai</a> WSJ: Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai 
  <p class="updated_time"> 11:32 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/mimi-reinhard-dead.html">Mimi Reinhard, Who Typed Up Schindler’s List, Dies at 107</a> NYT: As a secretary in a forced-labor camp in World War II, she added her own name to the list of 1,100 Jews who would be spared from the gas chambers. 
- <p class="updated_time"> 11:18 PM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/chinese-stockpile-food-as-covid-19-concerns-ripple-out-from-shanghai-11649771421">Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai</a> WSJ: Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai 
  <p class="updated_time"> 11:05 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/arts/design/morozov-collection-russia-sanctions.html">French Authorities Seize Oligarch’s Painting Before It Leaves for Russia</a> NYT: A work displayed in the blockbuster “Morozov Collection” exhibition will remain in France, and authorities have their eyes on another painting in the show. 
  <p class="updated_time"> 10:46 PM CT, Apr. 12 </p> 
@@ -46,7 +46,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:19 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61089853?at_medium=RSS&at_campaign=KARANGA">Tropical Storm Megi: Rescuers race to find survivors as death toll rises</a> BBC: Authorities say at least 53 people have been killed and the death toll is expected to rise. 
  <p class="updated_time"> 09:28 PM CT, Apr. 12 </p> 
- <a href="https://www.bbc.co.uk/news/61079356?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What weapon killed 50 people in station attack??</a> BBC: There's mounting evidence that cluster weapons, which can cause heavy civilian casualties, are being used in this conflict. 
+ <a href="https://www.bbc.co.uk/news/61079356?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What weapon killed 50 people in station attack?</a> BBC: There's mounting evidence that cluster weapons, which can cause heavy civilian casualties, are being used in this conflict. 
  <p class="updated_time"> 09:12 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/asia/pakistan-shehbaz-sharif-prime-minister.html">Shehbaz Sharif Becomes Prime Minister of Pakistan</a> NYT: Mr. Sharif, whose family has been dogged by accusations of graft for decades, was selected by Pakistan’s Parliament at a time of deep political divisions and economic tumult. 
  <p class="updated_time"> 09:12 PM CT, Apr. 12 </p> 
@@ -218,6 +218,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/13/1092291748/economy-recession-inflation-federal-reserve-interest-rates">Why there are growing fears the U.S. is headed to a recession</a> NPR: With inflation at a four-decade high, a growing number of forecasters worry the U.S. economy may be headed to a recession as the Fed gears up to raise interest rates aggressively. 
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1091883946/inflation-michigan-7th-congressional-district">Inflation adds to voters' frustrations in a key congressional district</a> NPR: President Biden's popularity has crumbled since he first took office. A trip to Michigan's 7th Congressional District — one of the most competitive in the country — is a window into why. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
+ <a href="https://www.politico.com/news/2022/04/13/biden-nuclear-cruise-missile-scrap-00024865">Political brawl looms over nuclear cruise missile Biden plans to scrap</a> Politico: Biden threw foreign policy progressives a bone by killing a weapons system Trump proposed. But Republicans on Capitol Hill are ready to bring it back from the dead. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
+ <a href="https://www.politico.com/news/2022/04/13/china-activists-state-dept-human-rights-00024876">China activists call for reboot of State Dept. annual human rights report</a> Politico: Report’s “recap” format neglects new trends and policy fixes. 
+ <p class="updated_time"> 03:31 AM CT, Apr. 13 </p> 
+ <a href="https://www.politico.com/news/2022/04/13/dems-crime-law-and-order-politics-00024875">Dems return to law-and-order politics</a> Politico: If 2020 was the year the left reordered the traditional politics of crime and policing, 2022 looks like the year centrists regained their footing and nullified those gains. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 13 </p> 
+ <a href="https://www.politico.com/news/2022/04/13/war-crimes-russia-ukraine-00024860">Why prosecuting Russian war crimes in Ukraine could be complicated</a> Politico: Investigators believe the atrocities committed in Ukraine could be rife for international prosecution. But successful convictions are rare. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 13 </p> 
+ <a href="https://www.politico.com/news/2022/04/13/progressives-antitrust-activists-split-anti-lgbtq-00024799">Behind closed doors, progressives fighting ‘Big Tech’ work with anti-trans group</a> Politico: The American Principles Project wants to break up big tech companies, but it’s also fighting to curb transgender rights. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 13 </p> 
+ <a href="https://www.politico.com/news/2022/04/13/ukraine-war-first-trump-impeachment-00024816">As Ukraine war intensifies, questions from first Trump impeachment linger</a> Politico: The former president's withholding of aid from Ukraine feels like a distant political chapter, it’s taken on a new meaning as military assistance proves pivotal in today’s war with Russia. 
  <p class="updated_time"> 02:38 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1091973669/new-york-lieutenant-governor-brian-benjamin-resigns-bribery-fraud-campaign">New York's lieutenant governor resigns after being charged with bribery and fraud </a> NPR: Brian Benjamin surrendered to the FBI Tuesday morning. His case is being handled by the Southern District Court of New York. 
  <p class="updated_time"> 11:15 PM CT, Apr. 12 </p> 
@@ -246,14 +258,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html">Ukraine Says It Thwarted a Sophisticated Russian Cyberattack on Its Power Grid</a> NYT: Experts say the hacking, while unsuccessful, was among the most complex cyberattacks they have seen in the war so far. 
  <p class="updated_time"> 04:13 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092414662/gov-desantis-takes-over-congressional-redistricting-in-florida">Gov. DeSantis takes over congressional redistricting in Florida</a> NPR: Florida's legislature says instead of drawing new maps for congressional districts, it will cede the responsibility to Gov. DeSantis, who wants to eliminate two African-American voting districts. 
- <p class="updated_time"> 04:12 PM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/biden-russia-ukraine-genocide-00024807">Biden labels Russian atrocities in Ukraine 'genocide'</a> Politico: The president's notable shift in rhetoric comes as other administration officials have so far avoided using the designation. 
  <p class="updated_time"> 03:59 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092316260/russia-ukraine-war-what-happened-today-april-12">Russia-Ukraine war: What happened today (April 12)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:49 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092414613/the-dnc-is-considering-changing-how-the-party-picks-its-presidential-candidates">The DNC is considering changing how the party picks its presidential candidates</a> NPR: The Democratic National Committee is considering an overhaul of its presidential nominating process this week. It would give more diverse states an earlier role and promote primaries over caucuses. 
- <p class="updated_time"> 03:41 PM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/sec-elon-musk-twitter-00024667">‘Make an example’: SEC weighs options in latest Elon Musk tussle</a> Politico: While acquiring a sizable share of Twitter’s stock, Tesla’s billionaire CEO appears to have filed notice of his ownership stake later than required, according to experts. 
  <p class="updated_time"> 03:31 PM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/hochul-tough-choices-lieutenant-governor-arrest-new-york-00024700">Hochul faces tough choices after Lt. Gov. Benjamin's arrest and resignation in New York</a> Politico: The high-profile case puts Gov. Kathy Hochul in a difficult position as she seeks a full term this year while tethered to Brian Benjamin. 
  <p class="updated_time"> 03:23 PM CT, Apr. 12 </p> 
@@ -262,8 +270,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/us/politics/gop-joseph-hatchett-florida.html">House G.O.P., Banding Together, Kills Bid to Honor Pioneering Black Judge</a> NYT: A right-wing congressman persuaded fellow Republicans to abruptly turn against a routine measure to name a federal courthouse in Florida for a Black State Supreme Court justice. 
  <p class="updated_time"> 02:53 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/covid-cases-white-house-czar.html">As U.S. Cases Rise, White House Covid Czar Says It’s Not a Moment to be ‘Excessively Concerned’</a> NYT: The official, Dr. Ashish Jha, said hospitalizations remained very low and that officials were monitoring the trajectory of the virus closely. 
- <p class="updated_time"> 02:15 PM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/emilys-list-poll-progressive-candidate-pennsylvania-house-primary-00024702">EMILY's List poll: Progressive candidate opens big lead in Pennsylvania House primary</a> Politico: First elected to the state House in 2018, state Rep. Summer Lee is a lawyer who supports a $15 minimum wage, the Green New Deal and Medicare for All. 
  <p class="updated_time"> 01:44 PM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/u-s-report-admits-backsliding-human-rights-in-afghanistan-00024746">U.S. report acknowledges human rights backsliding in Afghanistan</a> Politico: The 2021 Country Reports on Human Rights Practices also criticized China and Russia over human rights violations and authoritarian leadership. 
  <p class="updated_time"> 01:32 PM CT, Apr. 12 </p> 
@@ -274,12 +280,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/12/inflation-spiking-consumer-prices-00024707">No end in sight for spiking prices? Enter the ‘peak inflation’ crowd</a> Politico: In recent days, economic forecasters have said that the March inflation number — an 8.5 percent surge over last year — may be the worst of it. 
  <p class="updated_time"> 12:22 PM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/biden-admin-russia-chemical-weapons-00024709">Team Biden scrambles to respond to claims of Russia chemical weapon use</a> Politico: The administration has said Russian chemical weapons use in Ukraine would trigger a ‘proportional’ U.S. response. Its pledge may soon be tested. 
- <p class="updated_time"> 11:09 AM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/stds-funding-00024678">STDs are surging. The funding to fight them is not.</a> Politico: The latest figures follow Congress’ decision last month to provide far less funding to sexual health clinics that provide free and subsidized testing. 
  <p class="updated_time"> 10:22 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092290277/florida-lawmakers-let-desantis-draw-a-congressional-map-after-he-vetoed-the-last">Florida lawmakers let DeSantis draw a congressional map after he vetoed the last one</a> NPR: Gov. Ron DeSantis, a potential Republican presidential aspirant, has been pushing a map that's considered more advantageous to his party. 
- <p class="updated_time"> 09:46 AM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/brooklyn-subway-shooting-00024637">Motive unclear in Brooklyn subway shooting. Suspect is at large.</a> Politico: Over a dozen commuters were injured in the rush hour attack. 
  <p class="updated_time"> 09:21 AM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/new-york-lieutenant-governor-bribery-case-00024636">New York's lieutenant governor resigns after arrest in federal bribery case</a> Politico: Brian Benjamin is accused of conspiring to direct state funds to a real estate investor in exchange for illegal campaign contributions to a 2021 race in New York City. 
  <p class="updated_time"> 08:53 AM CT, Apr. 12 </p> 
@@ -296,8 +298,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/12/1092222231/in-an-exception-to-the-clean-air-act-biden-will-allow-e15-gas-to-be-sold-this-su">Biden will ease restrictions on higher-ethanol fuel as inflation hits a 40-year high</a> NPR: E15 fuel is normally banned from sale in the warmer summer months because of concerns about air pollution. Biden said the U.S. will invest $100 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/transgender-laws-us.html">Red States Push L.G.B.T.Q. Restrictions as Education Battles Intensify</a> NYT: With an eye toward parents’ anxiety, Republicans have put forward a wave of laws on classroom instruction, youth sports and health care. Some of the young people at the center feel isolated. 
- <p class="updated_time"> 03:31 AM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/gop-primary-west-virginia-infrastructure-00024473">'RINO' versus 'political prostitute': Bitter GOP primary hinges on infrastructure plans</a> Politico: A vote on the 2021 bipartisan infrastructure package is at the center of the fight between GOP Reps. David McKinley and Alex Mooney. 
  <p class="updated_time"> 11:40 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-atf-steven-dettelbach.html">Biden Names Former Federal Prosecutor to Lead A.T.F.</a> NYT: The president nominated Steven M. Dettelbach to run the troubled agency, seven months after withdrawing his previous pick. 
  <p class="updated_time"> 08:58 PM CT, Apr. 11 </p> 
