@@ -9,18 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:46 PM CT, Apr. 13 </p> 
+ <p class="updated_time"> 03:45 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/04/13/world/ukraine-russia-war-news">Ukraine Live Updates: Putin’s Aim to Weaken NATO Falters as Finland and Sweden Weigh Joining</a> NYT: Their accession into the military alliance would be another counterproductive result of Russia’s invasion of Ukraine. Outside Kyiv, the authorities exhumed bodies in communal graves, even as Russian troops appeared to be massing for a new offensive in the country’s east. 
+ <p class="updated_time"> 03:24 PM CT, Apr. 13 </p> 
+ <a href="https://www.npr.org/2022/04/13/1092686612/how-sanctions-have-impacted-russias-economy-and-whether-that-will-help-end-the-w">How sanctions have impacted Russia's economy — and whether that will help end the war</a> NPR: The West is hammering Russia with sanctions. But, do they work? NPR's Daniel Estrin talks with Emma Ashford of the Atlantic Council. 
+ <p class="updated_time"> 03:24 PM CT, Apr. 13 </p> 
+ <a href="https://www.npr.org/2022/04/13/1092686591/russian-forces-may-be-preparing-for-a-renewed-offensive-in-eastern-ukraine">Russian forces may be preparing for a renewed offensive in eastern Ukraine</a> NPR: Ukraine continues to battle Russian forces focusing their assault on the nation's east. The presidents of Poland, Lithuania, Latvia and Estonia are meeting with President Zelenskyy in Kyiv. 
+ <p class="updated_time"> 03:06 PM CT, Apr. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-61097826?at_medium=RSS&at_campaign=KARANGA">Nasa scientists spy 'largest ever comet'</a> BBC: It's 85 miles wide, which is larger than the US state of Rhode Island. And it's coming this way. 
+ <p class="updated_time"> 02:48 PM CT, Apr. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61100179?at_medium=RSS&at_campaign=KARANGA">Police arrest suspect in New York subway shooting 'without incident'</a> BBC: 'We got him,' says New York mayor following massive manhunt in wake of the Brooklyn subway shooting. 
+ <p class="updated_time"> 02:46 PM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-military-success-years-of-nato-training-11649861339">The Secret of Ukraine’s Military Success: Years of NATO Training</a> WSJ: The Secret of Ukraine’s Military Success: Years of NATO Training 
  <p class="updated_time"> 02:39 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/us-russian-troops-donbas-intelligence-sharing-ukraine.html">U.S. Expands Intelligence Sharing With Ukraine on Russian Forces in Donbas Region</a> NYT: Western officials say they expect the Kremlin to mount a major offensive in the Donbas, where Russian-backed separatists have been fighting Ukrainian forces for years. 
  <p class="updated_time"> 02:20 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092091451/ukrainians-have-arrived-at-the-u-s-mexico-border-by-the-thousands">Ukrainians have arrived at the U.S.-Mexico border by the thousands</a> NPR: Tijuana's border crossing with San Diego has become the main point of entry into the United States for Ukrainian refugees fleeing the war. 
  <p class="updated_time"> 02:06 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/finland-sweden-nato-russia-ukraine.html">Despite Russian Warnings, Finland and Sweden Draw Closer to NATO</a> NYT: The invasion of Ukraine has heightened security fears, pushing even formally nonaligned countries toward the Western alliance. 
- <p class="updated_time"> 01:54 PM CT, Apr. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61100179?at_medium=RSS&at_campaign=KARANGA">Police arrest suspect in New York subway shooting 'without incident'</a> BBC: 'We got him,' says New York  mayor following massive manhunt in wake of Tuesday morning shooting.  
- <p class="updated_time"> 01:52 PM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-military-success-years-of-nato-training-11649861339">The Secret of Ukraine’s Military Success: Years of NATO Training</a> WSJ: The Secret of Ukraine’s Military Success: Years of NATO Training 
+ <p class="updated_time"> 01:46 PM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
  <p class="updated_time"> 01:41 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/asia/tropical-storm-megi-philippines.html">After Tropical Storm Megi Hits Philippines, Dozens Dead or Missing</a> NYT: The first such storm of the year caused widespread flooding and landslides in the central part of the country. 
  <p class="updated_time"> 01:31 PM CT, Apr. 13 </p> 
@@ -31,28 +39,30 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-refugees-women.html">The Ukrainian Refugee Crisis Is a Women’s Crisis</a> NYT: A wave of displaced women and children into Poland is forcing the country to address its lack of protections for working women. 
  <p class="updated_time"> 12:58 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/asia/sri-lanka-protests-gotabaya-rajapaksa.html">Sri Lanka’s President Gotabaya Rajapaksa Faces Huge Protest</a> NYT: Gotabaya Rajapaksa is used to silencing and discrediting his political opponents. But that’s harder to do this time. 
- <p class="updated_time"> 12:52 PM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
  <p class="updated_time"> 12:49 PM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61096966?at_medium=RSS&at_campaign=KARANGA">Bodybuilding champion Cedric McMillan dead at 44</a> BBC: McMillan's is the third death of well-known bodybuilders in the US in the past year. 
+ <p class="updated_time"> 12:46 PM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-s-expands-flow-of-intelligence-to-ukraine-as-white-house-sends-more-arms-11649868029">U.S. to Provide Ukraine More Intelligence, Heavier Weapons to Fight Russia</a> WSJ: U.S. to Provide Ukraine More Intelligence, Heavier Weapons to Fight Russia 
  <p class="updated_time"> 12:20 PM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61089039?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fugitive Putin ally Medvedchuk arrested - security service</a> BBC: Viktor Medvedchuk, a Ukrainian tycoon who is accused of treason, was pictured in handcuffs. 
  <p class="updated_time"> 12:17 PM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61092953?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mass surrender of troops in Mariupol, says Russia</a> BBC: Russia says more than 1,000 marines in the besieged port have surrendered - but Ukraine denies this. 
  <p class="updated_time"> 12:13 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/mariupol-hospital-attack-nurse.html">Nurse Recounts Attack on Mariupol Maternity Hospital</a> NYT: The attack last month was among the first signs that Ukraine was facing a merciless war. 
- <p class="updated_time"> 11:52 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/u-s-expands-flow-of-intelligence-to-ukraine-as-white-house-sends-more-arms-11649868029">U.S. Expands Flow of Intelligence to Ukraine as White House Sends More Arms</a> WSJ: U.S. Expands Flow of Intelligence to Ukraine as White House Sends More Arms 
+ <p class="updated_time"> 11:46 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-asset-freeze-extends-to-7-billion-in-jersey-and-a-french-chateau-11649869040">Roman Abramovich Asset Freeze Extends to $7 Billion in Jersey and a French Chateau</a> WSJ: Roman Abramovich Asset Freeze Extends to $7 Billion in Jersey and a French Chateau 
  <p class="updated_time"> 11:28 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61093302?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Finland to decide on Nato membership in weeks says PM Marin</a> BBC: Sanna Marin's comments came as a report warned Nato membership could increase tensions with Russia. 
  <p class="updated_time"> 11:20 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/middleeast/israel-art-museum-tel-aviv.html">Israel’s Oldest Museum Takes a New Look at Israeli Art</a> NYT: For decades, museums presented Israeli art as a companion to the country’s history. The Tel Aviv Museum of Art breaks away from that approach — with surprising results. 
  <p class="updated_time"> 11:19 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/science/war-environmental-impact-ukraine.html">How Nature Becomes a Casualty of War</a> NYT: Research on past conflicts suggests that the war in Ukraine could have a profound environmental impact. 
- <p class="updated_time"> 10:52 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-asset-freeze-extends-to-7-billion-in-jersey-and-a-french-chateau-11649869040">Roman Abramovich Asset Freeze Extends to $7 Billion in Jersey and a French Chateau</a> WSJ: Roman Abramovich Asset Freeze Extends to $7 Billion in Jersey and a French Chateau 
  <p class="updated_time"> 10:51 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61093300?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Biden accuses Russian troops of committing genocide in Ukraine</a> BBC: The US leader says President Putin is trying to "wipe out the idea" of a Ukrainian identity. 
+ <p class="updated_time"> 10:46 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/rise-of-marine-le-pen-in-france-challenges-wests-unity-against-russia-11649854428">Le Pen’s Rise Challenges West’s Unity Against Russia</a> WSJ: Le Pen’s Rise Challenges West’s Unity Against Russia 
+ <p class="updated_time"> 10:45 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/yellen-warns-nations-staying-neutral-in-russias-war-with-ukraine-11649879113">Yellen Warns Nations Staying Neutral in Russia's War With Ukraine</a> WSJ: The Treasury secretary said countries that maintain their ties to Russia after its invasion of Ukraine risk facing isolation from the global economy. 
  <p class="updated_time"> 10:42 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61099211?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: The moment a puppy is rescued from the rubble</a> BBC: Rescuers heard a puppy crying in the rubble and used their bare hands to find it. 
  <p class="updated_time"> 10:20 AM CT, Apr. 13 </p> 
@@ -63,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-61095961?at_medium=RSS&at_campaign=KARANGA">Climate change: COP26 promises will hold warming under 2C</a> BBC: Scientists say their analysis is "encouraging" but keeping under 1.5C this century looks unlikely. 
  <p class="updated_time"> 09:59 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/africa/south-africa-durban-floods.html">Death Toll in South Africa Floods Passes 250</a> NYT: President Cyril Ramaphosa traveled to the east coast, which was pounded by days of rain that washed away bridges and swept homes from their foundations. 
- <p class="updated_time"> 09:52 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/rise-of-marine-le-pen-in-france-challenges-wests-unity-against-russia-11649854428">Le Pen’s Rise Challenges West’s Unity Against Russia</a> WSJ: Le Pen’s Rise Challenges West’s Unity Against Russia 
  <p class="updated_time"> 09:45 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/us/politics/russia-propaganda-ukraine-war.html">How US and Ukrainian Groups Pierce Putin’s Propaganda Bubble</a> NYT: U.S.-backed news outlets and Ukrainian activists use Cold War techniques and high-tech tactics to get news about the war to Russians. 
  <p class="updated_time"> 09:22 AM CT, Apr. 13 </p> 
@@ -145,12 +153,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/12/1090802987/philippines-elections-ferdinand-bongbong-marcos-junior">A dictator's son runs for Philippines president in a bid to revive his family's power</a> NPR: Ahead of presidential elections taking place in May, Ferdinand "Bongbong" Marcos Jr. is banking on voters' nostalgia for his late father's period of dictatorial rule in the 1970s and 1980s. 
  <p class="updated_time"> 12:07 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61073897?at_medium=RSS&at_campaign=KARANGA">Grieving Russians can't believe talk of war crimes in Ukraine</a> BBC: "They'll accuse Russia of anything," says the widow of a Russian soldier killed in Ukraine. 
- <p class="updated_time"> 11:41 AM CT, Apr. 12 </p> 
- <a href="https://www.npr.org/2022/04/12/1092317791/ukraine-russia-ethnic-cleansing">An expert says it may be hard, but not impossible, to prove genocide in Ukraine</a> NPR: Should the atrocities in Ukraine be called war crimes, ethnic cleansing or genocide? The terms can be tricky to differentiate, but experts say the separate labels are crucial when seeking justice. 
  <p class="updated_time"> 11:36 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/germany-covid-vaccine-strategy.html">How One German State Beat the Odds on Covid Vaccinations</a> NYT: Bremen — Germany’s smallest state — managed its vaccination campaign better than any other place in Germany. It succeeded by activating community networks. 
- <p class="updated_time"> 11:15 AM CT, Apr. 12 </p> 
- <a href="https://www.npr.org/2022/04/12/1092314937/holocaust-museums-condemn-russian-war-crimes-ukraine">Holocaust museums in 4 countries condemn Russia's actions in Ukraine as war crimes</a> NPR: The group of 17 Holocaust museums from the U.S., U.K., Canada and South Africa are supporting an international investigation into whether Russia committed war crimes and genocide in Ukraine. 
  <p class="updated_time"> 11:00 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61080476?at_medium=RSS&at_campaign=KARANGA">Donbas: Battle in east Ukraine expected to be bloody and decisive</a> BBC: Ukrainian troops in the Donbas region are preparing for heavy strikes as Russia turns its focus to the east. 
  <p class="updated_time"> 09:00 AM CT, Apr. 12 </p> 
@@ -195,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61064429?at_medium=RSS&at_campaign=KARANGA">Zelensky asked if he'll give Russia any part of Ukraine</a> BBC: Ukraine's president tells CBS' 60 Minutes he isn't ready to give away his country in return for peace. 
  <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/magazine/trump-putin-ukraine-fiona-hill.html">Trump and Ukraine: Former Advisers Revisit What Happened</a> NYT: Amid the current crisis, Fiona Hill and other former advisers are connecting President Trump’s pressure campaign on Ukraine to Jan. 6. And they’re ready to talk. 
- <p class="updated_time"> 12:26 AM CT, Apr. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61064426?at_medium=RSS&at_campaign=KARANGA">Could Marine Le Pen win the French elections?</a> BBC: Marine Le Pen will go head-to-head with President Macron in an election run off in a fortnight. 
 
 
 </details>
@@ -204,10 +206,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:46 PM CT, Apr. 13 </p> 
+ <p class="updated_time"> 03:09 PM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/business/mckinsey-purdue-fda-records.html">McKinsey Opened a Door in Its Firewall Between Pharma Clients and Regulators</a> NYT: The firm let consultants advise both drugmakers and their government overseers, internal records show. “Who we know and what we know” was part of their pitch. 
+ <p class="updated_time"> 03:08 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/us/politics/biden-covid-public-health-emergency-extended.html">Biden Administration Extends National Covid Public Health Emergency for Another 90 Days</a> NYT: The emergency declaration, which enables free testing and eases Medicaid eligibility, among other provisions, will now extend at least until mid-July. 
  <p class="updated_time"> 02:18 PM CT, Apr. 13 </p> 
- <a href="https://www.politico.com/news/2022/04/13/biden-gas-supply-climate-change-00024776">Greens fret over Biden's latest moves to ease gasoline supply</a> Politico: The White House is preoccupied with taming inflation and keeping the pressure on Russian President Vladimir Putin to end his war in Ukraine. 
+ <a href="https://www.politico.com/news/2022/04/13/biden-gas-supply-climate-change-00024776">Biden's shift from climate to oil rattles greens</a> Politico: The White House is preoccupied with taming inflation and keeping the pressure on Russian President Vladimir Putin to end his war in Ukraine. 
  <p class="updated_time"> 02:01 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/us/politics/mark-meadows-vote-north-carolina.html">North Carolina Drops Mark Meadows From Voter Roll Amid Fraud Inquiry</a> NYT: The state is investigating whether Mr. Meadows cast a legal vote in 2020, after reports questioned if he lived at the address listed on his voter registration. 
  <p class="updated_time"> 01:20 PM CT, Apr. 13 </p> 
@@ -220,8 +224,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/13/adams-weapon-technology-new-york-subway-shooting-00024978">Adams pushes weapon detection technology after subway shooting, drawing criticism about effectiveness and bias</a> Politico: The Los Angeles subway system — which is much smaller than New York’s — tried out scanners to detect guns. The system malfunctioned during a demonstration. 
  <p class="updated_time"> 11:45 AM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/trump-georgia-governor-race-00024987">Trump pours money into a midterm race for the first time</a> Politico: The former president is putting money from his PAC into the race to unseat GOP Gov. Brian Kemp of Georgia. 
- <p class="updated_time"> 10:40 AM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/business/mckinsey-purdue-fda-records.html">McKinsey Opened a Door in Its Firewall Between Pharma Clients and Regulators</a> NYT: The firm let consultants advise both drugmakers and their government overseers, internal records show. “Who we know and what we know” was part of their pitch. 
  <p class="updated_time"> 09:45 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/us/politics/russia-propaganda-ukraine-war.html">U.S. and Ukrainian Groups Pierce Putin’s Propaganda Bubble</a> NYT: U.S.-backed news outlets and Ukrainian activists use Cold War techniques and high-tech tactics to get news about the war to Russians. 
  <p class="updated_time"> 09:26 AM CT, Apr. 13 </p> 
@@ -260,8 +262,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/13/1091973669/new-york-lieutenant-governor-brian-benjamin-resigns-bribery-fraud-campaign">New York's lieutenant governor resigns after being charged with bribery and fraud </a> NPR: Brian Benjamin surrendered to the FBI Tuesday morning. His case is being handled by the Southern District Court of New York. 
  <p class="updated_time"> 11:15 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/business/economy/biden-ethanol-gas.html">Biden to Allow Higher-Ethanol E15 Gas to Be Sold All Summer</a> NYT: The White House estimated that the move would allow Americans to save 10 cents a gallon at the approximately 2,300 stations in the country that offer the blend known as E15. 
- <p class="updated_time"> 09:16 PM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/nypd-eric-adams-security-detail-subway-shooting-00024886">NYPD boosts mayor's security detail in wake of subway shooting</a> Politico: Police also identified a person of interest, who may have posted YouTube videos complaining about the mayor's crime-fighting plan. 
  <p class="updated_time"> 06:46 PM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/trump-lawyers-jan6-interview-cipollone-philbin-00024868">Top Trump White House lawyers scheduled for Jan. 6 interview</a> Politico: Pat Cipollone and Patrick Philbin are to speak with the House panel. 
  <p class="updated_time"> 06:21 PM CT, Apr. 12 </p> 
@@ -296,12 +296,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/us/politics/gop-joseph-hatchett-florida.html">House G.O.P., Banding Together, Kills Bid to Honor Pioneering Black Judge</a> NYT: A right-wing congressman persuaded fellow Republicans to abruptly turn against a routine measure to name a federal courthouse in Florida for a Black State Supreme Court justice. 
  <p class="updated_time"> 02:53 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/covid-cases-white-house-czar.html">As U.S. Cases Rise, White House Covid Czar Says It’s Not a Moment to be ‘Excessively Concerned’</a> NYT: The official, Dr. Ashish Jha, said hospitalizations remained very low and that officials were monitoring the trajectory of the virus closely. 
- <p class="updated_time"> 01:44 PM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/u-s-report-admits-backsliding-human-rights-in-afghanistan-00024746">U.S. report acknowledges human rights backsliding in Afghanistan</a> Politico: The 2021 Country Reports on Human Rights Practices also criticized China and Russia over human rights violations and authoritarian leadership. 
  <p class="updated_time"> 01:32 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092366851/south-dakota-attorney-general-impeached-crash">South Dakota's attorney general is impeached over a fatal crash</a> NPR: The state's House impeached Jason Ravnsborg over a 2020 fatal crash in which he initially told authorities he thought he had struck a deer or another large animal. 
- <p class="updated_time"> 01:19 PM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/south-dakota-attorney-general-impeached-crash-00024743">South Dakota attorney general impeached over fatal crash</a> Politico: Jason Ravnsborg will at least temporarily be removed from office pending the historic Senate trial, where it takes a two-thirds majority to convict on impeachment charges. 
  <p class="updated_time"> 12:56 PM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/inflation-spiking-consumer-prices-00024707">No end in sight for spiking prices? Enter the ‘peak inflation’ crowd</a> Politico: In recent days, economic forecasters have said that the March inflation number — an 8.5 percent surge over last year — may be the worst of it. 
  <p class="updated_time"> 12:22 PM CT, Apr. 12 </p> 
