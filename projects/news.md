@@ -9,28 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:57 PM CT, Apr. 12 </p> 
+ <p class="updated_time"> 09:28 PM CT, Apr. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/61079356?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Was a cluster bomb used in station attack?</a> BBC: There's mounting evidence that these weapons, which can cause heavy civilian casualties, are in use. 
+ <p class="updated_time"> 09:19 PM CT, Apr. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/12/world/ukraine-russia-war-news">Ukraine Live Updates: Putin Says Peace Talks Hit ‘Dead End’ and Vows That War Will Go On</a> NYT: Russia is pouring troops and equipment into eastern Ukraine, presaging a bloody new chapter in the conflict. The U.S., Britain and Australia said they were investigating an unconfirmed report that Russia had deployed a chemical agent, after a handful of people in Mariupol fell ill. 
+ <p class="updated_time"> 09:14 PM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight</a> WSJ: Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight 
+ <p class="updated_time"> 09:12 PM CT, Apr. 12 </p> 
+ <a href="https://www.nytimes.com/2022/04/11/world/asia/pakistan-shehbaz-sharif-prime-minister.html">Shehbaz Sharif Becomes Prime Minister of Pakistan</a> NYT: Mr. Sharif, whose family has been dogged by accusations of graft for decades, was selected by Pakistan’s Parliament at a time of deep political divisions and economic tumult. 
+ <p class="updated_time"> 09:12 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61089619?at_medium=RSS&at_campaign=KARANGA">Brooklyn shooting: Person of interest named in New York subway attack</a> BBC: New York police say Frank R James, 62, rented a U-Haul van that may be linked to the shooting. 
  <p class="updated_time"> 08:20 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092506488/philippines-landslides-floods">Death toll from Philippine landslides and floods rises to 43</a> NPR: A summer tropical depression unleashed days of pounding rain in the central and southern Philippines. Rescuers were struggling with mud and unstable heaps of earth and debris to find missing people. 
+ <p class="updated_time"> 08:14 PM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154">Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes</a> WSJ: Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes 
  <p class="updated_time"> 08:08 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61055319?at_medium=RSS&at_campaign=KARANGA">How facial recognition is identifying the dead in Ukraine</a> BBC: A controversial facial recognition platform has been used more than 1,000 times by Ukrainian officials. 
- <p class="updated_time"> 08:02 PM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight</a> WSJ: Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight 
  <p class="updated_time"> 07:53 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61015970?at_medium=RSS&at_campaign=KARANGA">Criminal Procedure Identification Bill raises fears of surveillance in India</a> BBC: Critics worry about increased surveillance by law enforcement agencies under its expanded scope. 
  <p class="updated_time"> 07:27 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61066957?at_medium=RSS&at_campaign=KARANGA">Why Nigeria's historic dye pits in Kano risk closure</a> BBC: They once dressed "the blue men of the desert", but modern tastes and insecurity could spell their end. 
- <p class="updated_time"> 07:08 PM CT, Apr. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/04/12/world/ukraine-russia-war-news">Ukraine Live Updates: Putin Says Peace Talks Hit ‘Dead End’ and Vows That War Will Go On</a> NYT: Russia is pouring troops and equipment into eastern Ukraine, presaging a bloody new chapter in the conflict. The U.S., Britain and Australia said they were investigating an unconfirmed report that Russia had deployed a chemical agent, after a handful of people in Mariupol fell ill. 
- <p class="updated_time"> 07:02 PM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154">Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes</a> WSJ: Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes 
+ <p class="updated_time"> 07:14 PM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/marine-le-pen-proposes-overhaul-of-french-legislative-electoral-systems-11649785720">Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems</a> WSJ: Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems 
  <p class="updated_time"> 06:20 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-60597999?at_medium=RSS&at_campaign=KARANGA">How posh British schools are branching out in Asia</a> BBC: A growing number of leading British public schools are opening campuses in the region. 
+ <p class="updated_time"> 06:14 PM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/at-least-20-dead-in-philippines-after-flooding-landslides-11649772798">At Least 20 Dead in Philippines After Flooding, Landslides</a> WSJ: At Least 20 Dead in Philippines After Flooding, Landslides 
  <p class="updated_time"> 06:06 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/putin-donbas-war-russia.html">Putin Calls Talks a ‘Dead End’ but Limits War Aim to Eastern Ukraine</a> NYT: It was the first time that President Vladimir Putin himself had defined a more limited military goal: taking control of the Donbas region in the east of Ukraine — not the whole country. 
- <p class="updated_time"> 06:02 PM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/marine-le-pen-proposes-overhaul-of-french-legislative-electoral-systems-11649785720">Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems</a> WSJ: Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems 
  <p class="updated_time"> 06:01 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-61084113?at_medium=RSS&at_campaign=KARANGA">27-year-old refugee Ludmyla Chyrkova is heading home</a> BBC: 27-year-old Ludmyla Chyrkova struggled with her decision since leaving on the second day of the war. 
  <p class="updated_time"> 05:59 PM CT, Apr. 12 </p> 
@@ -42,9 +48,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:17 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092460473/biden-appeared-to-accuse-putin-of-committing-a-genocide-in-ukraine">Biden accuses Putin of committing a 'genocide' in Ukraine</a> NPR: Speaking about easing restrictions on higher-ethanol gasoline amid spiking fuel costs, Biden said prices shouldn't "hinge on whether a dictator declares war and commits genocide a half a world away." 
  <p class="updated_time"> 05:14 PM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/chinese-stockpile-food-as-covid-19-concerns-ripple-out-from-shanghai-11649771421">Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai</a> WSJ: Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai 
+ <p class="updated_time"> 05:14 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/macron-le-pen-france-election.html">Macron and Le Pen Trade Jabs and Lean Left as French Race Heats Up</a> NYT: President Emmanuel Macron and Marine Le Pen, the far-right candidate, are in close contention as the April 24 presidential runoff election nears. 
- <p class="updated_time"> 05:02 PM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/at-least-20-dead-in-philippines-after-flooding-landslides-11649772798">At Least 20 Dead in Philippines After Flooding, Landslides</a> WSJ: At Least 20 Dead in Philippines After Flooding, Landslides 
  <p class="updated_time"> 04:51 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html">Ukraine Says It Thwarted a Sophisticated Russian Cyberattack on Its Power Grid</a> NYT: Experts say the hacking, while unsuccessful, was among the most complex cyberattacks they have seen in the war so far. 
  <p class="updated_time"> 04:32 PM CT, Apr. 12 </p> 
@@ -57,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/12/1092414641/police-fine-britains-boris-johnson-and-rishi-sunak-for-attending-parties-in-lock">Police fine Britain's Boris Johnson and Rishi Sunak for attending parties in lockdown</a> NPR: Britain's Prime Minister Boris Johnson and his finance minister are being fined for attending parties prohibited during the pandemic lockdowns. Opposition members called on them both to resign. 
  <p class="updated_time"> 04:09 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092414634/russia-calls-peace-talks-a-dead-end-as-it-preps-a-new-offensive-in-eastern-ukrai">Russia calls peace talks 'a dead end' as it preps a new offensive in eastern Ukraine</a> NPR: The upcoming offensive from Russia is expected to be much more focused and much more bloody, and that raises questions about Ukraine's ability to withstand the next phase of war. 
- <p class="updated_time"> 04:02 PM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/chinese-stockpile-food-as-covid-19-concerns-ripple-out-from-shanghai-11649771421">Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai</a> WSJ: Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai 
  <p class="updated_time"> 03:59 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092316260/russia-ukraine-war-what-happened-today-april-12">Russia-Ukraine war: What happened today (April 12)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:57 PM CT, Apr. 12 </p> 
@@ -127,8 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/11/world/europe/french-presidential-election-macron-le-pen-far-fight.html">Macron Sets Out to Build a ‘Dam’ Against Le Pen. Can It Hold?</a> NYT: After Sunday’s vote, when nearly a third of ballots went to the extreme right, a united front of mainstream voters looked more precarious than ever. 
  <p class="updated_time"> 01:00 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/climate/antarctica-penguins.html">Climate Change Is Hurting Penguins Unevenly in Antarctica</a> NYT: The western side of the Antarctic Peninsula has seen sharp declines in Adélie penguin populations in recent decades. Things look better on the eastern side. Take a tour. 
- <p class="updated_time"> 11:28 PM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/world/asia/pakistan-shehbaz-sharif-prime-minister.html">Shehbaz Sharif Becomes Prime Minister of Pakistan</a> NYT: Mr. Sharif, whose family has been dogged by accusations of graft for decades, was selected by Pakistan’s Parliament at a time of deep political divisions and economic tumult. 
  <p class="updated_time"> 10:04 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/technology/china-russia-propaganda.html">China’s Echoes of Russia’s Alternate Reality Intensify Around the World</a> NYT: China’s officials and state media are increasingly parroting Russian propaganda organs on the war in Ukraine, undercutting U.S. and European diplomatic efforts, even after the killings in Bucha. 
  <p class="updated_time"> 08:56 PM CT, Apr. 11 </p> 
@@ -208,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:16 PM CT, Apr. 12 </p> 
+ <a href="https://www.politico.com/news/2022/04/12/nypd-eric-adams-security-detail-subway-shooting-00024886">NYPD boosts mayor's security detail in wake of subway shooting</a> Politico: Police also identified a person of interest, who may have posted YouTube videos complaining about the mayor's crime-fighting plan. 
  <p class="updated_time"> 06:46 PM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/trump-lawyers-jan6-interview-cipollone-philbin-00024868">Top Trump White House lawyers scheduled for Jan. 6 interview</a> Politico: Pat Cipollone and Patrick Philbin are to speak with the House panel. 
  <p class="updated_time"> 06:21 PM CT, Apr. 12 </p> 
@@ -266,8 +270,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/12/1092290277/florida-lawmakers-let-desantis-draw-a-congressional-map-after-he-vetoed-the-last">Florida lawmakers let DeSantis draw a congressional map after he vetoed the last one</a> NPR: Gov. Ron DeSantis, a potential Republican presidential aspirant, has been pushing a map that's considered more advantageous to his party. 
  <p class="updated_time"> 09:46 AM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/brooklyn-subway-shooting-00024637">Motive unclear in Brooklyn subway shooting. Suspect is at large.</a> Politico: Over a dozen commuters were injured in the rush hour attack. 
- <p class="updated_time"> 09:45 AM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/truck-companies-electric-vehicles-00024587">Truck companies' electric enthusiasm doesn't extend to policy</a> Politico: Truck and engine manufacturers' main trade group is pushing back against state and federal regulations on emissions. 
  <p class="updated_time"> 09:21 AM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/new-york-lieutenant-governor-bribery-case-00024636">New York's lieutenant governor resigns after arrest in federal bribery case</a> Politico: Brian Benjamin is accused of conspiring to direct state funds to a real estate investor in exchange for illegal campaign contributions to a 2021 race in New York City. 
  <p class="updated_time"> 08:53 AM CT, Apr. 12 </p> 
@@ -286,8 +288,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/us/politics/transgender-laws-us.html">Red States Push L.G.B.T.Q. Restrictions as Education Battles Intensify</a> NYT: With an eye toward parents’ anxiety, Republicans have put forward a wave of laws on classroom instruction, youth sports and health care. Some of the young people at the center feel isolated. 
  <p class="updated_time"> 03:31 AM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/gop-primary-west-virginia-infrastructure-00024473">'RINO' versus 'political prostitute': Bitter GOP primary hinges on infrastructure plans</a> Politico: A vote on the 2021 bipartisan infrastructure package is at the center of the fight between GOP Reps. David McKinley and Alex Mooney. 
- <p class="updated_time"> 03:30 AM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/trump-ally-arizona-voting-machine-audit-00024444">How a Trump ally got his unfounded voting-machine audit push in front of federal cyber agency</a> Politico: Arizona state Rep. Mark Finchem made an unusual request in the waning days of the former president's term, according to emails shared with POLITICO. 
  <p class="updated_time"> 11:40 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-atf-steven-dettelbach.html">Biden Names Former Federal Prosecutor to Lead A.T.F.</a> NYT: The president nominated Steven M. Dettelbach to run the troubled agency, seven months after withdrawing his previous pick. 
  <p class="updated_time"> 08:58 PM CT, Apr. 11 </p> 
@@ -322,8 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/11/1091980593/biden-will-announce-steps-to-curb-gun-violence-in-the-u-s">Biden will announce steps to curb gun violence in the U.S. </a> NPR: The action includes finalizing regulations that deal with ghost guns — weapons that do not have serial numbers that can be used to track them and are sometimes sold as kits to be assembled at home. 
  <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/magazine/trump-putin-ukraine-fiona-hill.html">Trump and Ukraine: Former Advisers Revisit What Happened</a> NYT: Amid the current crisis, Fiona Hill and other former advisers are connecting President Trump’s pressure campaign on Ukraine to Jan. 6. And they’re ready to talk. 
- <p class="updated_time"> 03:47 AM CT, Apr. 11 </p> 
- <a href="https://www.politico.com/news/2022/04/11/greitens-hartzler-missouri-senate-race-00024351">Greitens’ fade reorders Missouri Senate race</a> Politico: Rep. Vicky Hartzler is surging in the state's GOP primary. 
  <p class="updated_time"> 03:31 AM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/washington-poised-to-clamp-down-on-oligarchs-real-estate-00023347">Oligarchs' big loophole for stashing money</a> Politico: The effort to close anti-money-laundering loopholes was already picking up momentum in Washington even before Russia invaded Ukraine. 
  <p class="updated_time"> 03:30 AM CT, Apr. 11 </p> 
