@@ -9,36 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:29 AM CT, Apr. 13 </p> 
+ <p class="updated_time"> 09:02 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/04/13/world/ukraine-russia-war-news">Ukraine Live Updates: Investigators Gather Evidence of Atrocities as Biden Accuses Russia of ‘Genocide’</a> NYT: President Biden for the first time said Moscow was committing genocide against the Ukrainian people, but it was unclear whether his statement would lead to new U.S. steps in the war. Authorities exhumed bodies outside Kyiv, even as Russian troops appeared to be massing for a new offensive. 
+ <p class="updated_time"> 08:59 AM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/world/middleeast/israel-art-museum-telaviv.html">Israel’s Oldest Museum Takes a New Look at Israeli Art</a> NYT: For decades, museums presented Israeli art as a companion to the country’s history. The Tel Aviv Museum of Art breaks away from that approach — with surprising results. 
+ <p class="updated_time"> 08:51 AM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/world/australia/new-zealand-covid-restrictions-australia.html">New Zealand Welcomes Vaccinated Tourists From Australia</a> NYT: The latest steps toward reopening are being taken in a country that has maintained some of the strictest coronavirus restrictions in the world. 
+ <p class="updated_time"> 08:34 AM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008297311/bucha-ukraine-bodies-grave.html">‘We’ll Bury Them, Like Humans’: Ukrainian Officials Identify Bodies in Bucha</a> NYT: Following the withdrawal of Russian forces from a Kyiv suburb, officials examined and documented the bodies of those who were killed in the war. 
+ <p class="updated_time"> 08:26 AM CT, Apr. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61093302?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Finland to decide on Nato membership in weeks says PM Marin</a> BBC: Sanna Marin's comments came as a report warned Nato membership could increase tensions with Russia. 
+ <p class="updated_time"> 08:16 AM CT, Apr. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61093300?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Biden accuses Russian troops of committing genocide in Ukraine</a> BBC: The US leader says President Putin is trying to "wipe out the idea" of a Ukrainian identity. 
+ <p class="updated_time"> 08:05 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/video/headline/876EF8C1-6657-43C6-A4E6-22E39FE05088.html">Why Russia Wants Control Over Ukraine</a> WSJ: Why Russia Wants Control Over Ukraine 
  <p class="updated_time"> 07:23 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/asia/tropical-storm-megi-philippines.html">After Tropical Storm Megi Hits Philippines, Dozens Dead or Missing</a> NYT: The first such storm of the year caused widespread flooding and landslides in the central part of the country. 
+ <p class="updated_time"> 07:05 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
  <p class="updated_time"> 06:54 AM CT, Apr. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61096385?at_medium=RSS&at_campaign=KARANGA">Drone footage shows damage in Mariupol</a> BBC: Footage released by the Russian Ministry of Defence shows the extent of damage caused in the city. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61096385?at_medium=RSS&at_campaign=KARANGA">Russia releases drone footage shows Mariupol damage</a> BBC: Footage released by the Russian Ministry of Defence shows the extent of damage in the city. 
  <p class="updated_time"> 06:48 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/biden-russia-genocide-ukraine.html">President Biden Accuses Russia of Committing Genocide in Ukraine</a> NYT: It was the first time the president has used the term to describe the Russia’s war. He emphasized it was a personal view, not a legal determination. 
- <p class="updated_time"> 06:35 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/video/headline/876EF8C1-6657-43C6-A4E6-22E39FE05088.html">Why Russia Wants Control Over Ukraine</a> WSJ: Why Russia Wants Control Over Ukraine 
  <p class="updated_time"> 06:32 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61093002?at_medium=RSS&at_campaign=KARANGA">BBC reporter: Scale of destruction in Borodyanka, in Kyiv region is extraordinary</a> BBC: Anna Foster is in Borodyanka showing the scale of damage left behind in the Kyiv region. 
  <p class="updated_time"> 06:31 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61092952?at_medium=RSS&at_campaign=KARANGA">Pierin Vincenz: Swiss banker put strip-club visits on expenses</a> BBC: Pierin Vincenz is sentenced to nearly four years in jail for charges including fraud. 
- <p class="updated_time"> 05:45 AM CT, Apr. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61093300?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Biden accuses Russian troops of committing genocide in Ukraine</a> BBC: The US leader says President Putin is trying to "wipe out the idea" of a Ukrainian identity. 
+ <p class="updated_time"> 06:05 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/war-sidelines-crucial-ukraine-made-fleet-of-cargo-megaplanes-11649846506">War Sidelines Crucial Ukraine-Made Fleet of Cargo Megaplanes</a> WSJ: War Sidelines Crucial Ukraine-Made Fleet of Cargo Megaplanes 
  <p class="updated_time"> 05:36 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61090995?at_medium=RSS&at_campaign=KARANGA">Fantastic Beasts 3: Gay dialogue removed from film for Chinese audiences</a> BBC: Warner Bros agreed to the request for changes but have said the "spirit of the film remains". 
- <p class="updated_time"> 05:35 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
  <p class="updated_time"> 05:19 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/asia/philippines-marcos-president-election.html">Ahead of Philippines Election, Ferdinand Marcos Jr. Rises</a> NYT: Ferdinand Marcos Jr. has spent his political career trying to rehabilitate the family name. As the front-runner in the upcoming election, he may finally succeed. 
+ <p class="updated_time"> 05:05 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/support-for-saudi-arabia-counter-to-u-s-interests-house-democrats-say-11649838260">Support for Saudi Arabia ‘Counter’ to U.S. Interests, House Democrats Say</a> WSJ: Support for Saudi Arabia ‘Counter’ to U.S. Interests, House Democrats Say 
  <p class="updated_time"> 05:00 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092324328/images-of-zelenskyy-show-the-physical-toll-that-trauma-and-stress-can-have-on-th">Images of Zelenskyy show the physical toll that trauma and stress can have on the body</a> NPR: Health experts told NPR that long-term exposure to trauma and stress — like that of the war in Ukraine — can impact a person's sleep, memory, mood and physical appearance. 
  <p class="updated_time"> 04:49 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/ukraine-viktor-medvedchuk-putin-ally.html">Ukrainian Officers Said to Detain Putin Ally Viktor Medvedchuk</a> NYT: Viktor Medvedchuk, a wealthy Ukrainian politician seen as the Kremlin’s main agent of influence in Ukraine in recent years, had disappeared shortly after the start of the war. 
- <p class="updated_time"> 04:35 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/war-sidelines-crucial-ukraine-made-fleet-of-cargo-megaplanes-11649846506">War Sidelines Crucial Ukraine-Made Fleet of Cargo Megaplanes</a> WSJ: War Sidelines Crucial Ukraine-Made Fleet of Cargo Megaplanes 
  <p class="updated_time"> 04:08 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092526223/australian-minister-tries-to-end-solomons-china-pact">Australian minister tries to end Solomons-China pact</a> NPR: Under the Solomon Islands' terms of a draft agreement, China could send police, military personnel and other armed forces to the Solomon Islands "to assist in maintaining social order." 
+ <p class="updated_time"> 04:05 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/global-trade-hit-by-ukraine-war-china-lockdowns-11649846815">Global Trade Hit by Ukraine War, China Lockdowns</a> WSJ: Global Trade Hit by Ukraine War, China Lockdowns 
  <p class="updated_time"> 04:01 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092407304/chernihiv-ukraine-russia-siege">Residents of a devastated Chernihiv ponder their future after a Russian siege ends</a> NPR: For weeks, the Ukrainian city was bombarded daily. Villages outside of town were reduced to rubble. Residents are cleaning up and wondering how to move forward with their homes and livelihoods gone. 
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
@@ -47,10 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-schools-war.html">War in Ukraine Disrupts Education of Millions of Children</a> NYT: The country’s teachers are doing their best to provide lessons for the millions of school-age children whose education has been interrupted. 
  <p class="updated_time"> 03:43 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61089039?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fugitive Putin ally Medvedchuk arrested - security service</a> BBC: Viktor Medvedchuk, a Ukrainian tycoon who is accused of treason, was pictured in handcuffs. 
- <p class="updated_time"> 03:35 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/support-for-saudi-arabia-counter-to-u-s-interests-house-democrats-say-11649838260">Support for Saudi Arabia ‘Counter’ to U.S. Interests, House Democrats Say</a> WSJ: Support for Saudi Arabia ‘Counter’ to U.S. Interests, House Democrats Say 
- <p class="updated_time"> 02:35 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/global-trade-hit-by-ukraine-war-china-lockdowns-11649846815">Global Trade Hit by Ukraine War, China Lockdowns</a> WSJ: Global Trade Hit by Ukraine War, China Lockdowns 
  <p class="updated_time"> 11:48 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-61090064?at_medium=RSS&at_campaign=KARANGA">US cryptocurrency expert jailed for helping North Korea evade sanctions</a> BBC: Virgil Griffith was sentenced to five years and three months in prison by a court in New York. 
  <p class="updated_time"> 11:32 PM CT, Apr. 12 </p> 
@@ -99,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/12/1092414634/russia-calls-peace-talks-a-dead-end-as-it-preps-a-new-offensive-in-eastern-ukrai">Russia calls peace talks 'a dead end' as it preps a new offensive in eastern Ukraine</a> NPR: The upcoming offensive from Russia is expected to be much more focused and much more bloody, and that raises questions about Ukraine's ability to withstand the next phase of war. 
  <p class="updated_time"> 03:59 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092316260/russia-ukraine-war-what-happened-today-april-12">Russia-Ukraine war: What happened today (April 12)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:57 PM CT, Apr. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61082790?at_medium=RSS&at_campaign=KARANGA">Johnny Depp and Amber Heard: Heard giving 'performance of her life'</a> BBC: Amber Heard "concocted a role as a victim", the former spouses' defamation trial is told. 
  <p class="updated_time"> 03:17 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092289301/germany-berlin-ukraine-holocaust-survivors">Ukrainian Holocaust survivors flee war again — this time to Germany</a> NPR: Germany has welcomed dozens of the oldest refugees fleeing Ukraine — those who survived the Holocaust during World War II. They've now narrowly escaped death for the second time in their lives. 
  <p class="updated_time"> 03:11 PM CT, Apr. 12 </p> 
@@ -197,8 +203,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/10/world/europe/volunteer-bus-drivers-refugees-ukraine.html">Volunteer Bus Drivers Help Refugees Escape from Eastern Ukraine</a> NYT: After a Russian strike killed more than 50 people at a train station, Ukrainians are accelerating efforts to evacuate by road. 
  <p class="updated_time"> 10:19 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/middleeast/israel-ukraine-russia-oligarchs.html">Israel’s Ukraine Policy Prompts Scrutiny of Russian-Israeli Oligarchs</a> NYT: Israel has expressed solidarity with Ukraine but avoided direct criticism of Russia, raising questions about Russian-Israeli businessmen close to the Kremlin. 
- <p class="updated_time"> 08:59 AM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/2022/04/10/world/asia/shanghai-lockdown-zero.html">Shanghai residents bristle as a lockdown enters a second week with more testing.</a> NYT: Residents are reaching “emotional tipping points” under the strict measures China has insisted on in handling the coronavirus, one commentator said. 
 
 
 </details>
@@ -206,10 +210,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:32 AM CT, Apr. 13 </p> 
+ <a href="https://www.politico.com/news/2022/04/13/glenn-youngkin-vetoes-democratic-bills-00024927">Republican Gov. Glenn Youngkin vetoes 26 Democratic bills</a> Politico: None of the vetoed bills were sponsored by Republicans. 
+ <p class="updated_time"> 08:03 AM CT, Apr. 13 </p> 
+ <a href="https://www.npr.org/2022/04/13/1092366933/a-record-number-of-yellowstone-wolves-have-been-killed-conservationists-are-worr">A record number of Yellowstone wolves have been killed. Conservationists are worried</a> NPR: States neighboring Yellowstone National Park have eased rules on hunting wolves, resulting in the most being killed in nearly a century 
+ <p class="updated_time"> 07:57 AM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/business/mckinsey-purdue-fda-records.html">McKinsey Opened a Door in Its Firewall Between Pharma Clients and Regulators</a> NYT: The firm let consultants advise both drugmakers and their government overseers, internal records show. “Who we know and what we know” was part of their pitch. 
  <p class="updated_time"> 06:31 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092522320/spike-in-inflation-presents-further-challenges-for-the-biden-administration">Spike in inflation presents further challenges for the Biden administration</a> NPR: NPR's A Martinez speaks to Brian Deese, director of the National Economic Council, about inflation's economic and political challenges, and the Biden administration's plans to curb price hikes. 
- <p class="updated_time"> 05:45 AM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/business/mckinsey-purdue-fda-records.html">McKinsey Opened a Door in Its Firewall Between Pharma Clients and Regulators</a> NYT: The firm let consultants advise both drugmakers and their government overseers, internal records show. “Who we know and what we know” was part of their pitch. 
  <p class="updated_time"> 04:03 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092522306/politicians-and-strategists-consider-soaring-inflations-effects-on-midterms">Politicians and strategists consider soaring inflation's effects on midterms</a> NPR: NPR's A Martinez speaks with political analyst Charlie Cook about the highest inflation in 40 years, and how it's likely to impact this year's midterm election campaigns. 
  <p class="updated_time"> 04:03 AM CT, Apr. 13 </p> 
@@ -227,13 +235,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092291748/economy-recession-inflation-federal-reserve-interest-rates">Why there are growing fears the U.S. is headed to a recession</a> NPR: With inflation at a four-decade high, a growing number of forecasters worry the U.S. economy may be headed to a recession as the Fed gears up to raise interest rates aggressively. 
  <p class="updated_time"> 03:31 AM CT, Apr. 13 </p> 
- <a href="https://www.politico.com/news/2022/04/13/dems-crime-law-and-order-politics-00024875">Dems return to law-and-order politics</a> Politico: If 2020 was the year the left reordered the traditional politics of crime and policing, 2022 looks like the year centrists regained their footing and nullified those gains. 
+ <a href="https://www.politico.com/news/2022/04/13/dems-crime-law-and-order-politics-00024875">Dems retreat on crime and police reform</a> Politico: If 2020 was the year the left reordered the traditional politics of crime and policing, 2022 looks like the year centrists regained their footing and nullified those gains. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 13 </p> 
+ <a href="https://www.politico.com/news/2022/04/13/ukraine-war-first-trump-impeachment-00024816">As Ukraine war intensifies, questions from first Trump impeachment linger</a> Politico: The former president's withholding of aid from Ukraine feels like a distant political chapter, it’s taken on a new meaning as military assistance proves pivotal in today’s war with Russia. 
  <p class="updated_time"> 03:30 AM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/war-crimes-russia-ukraine-00024860">Why prosecuting Russian war crimes in Ukraine could be complicated</a> Politico: Investigators believe the atrocities committed in Ukraine could be rife for international prosecution. But successful convictions are rare. 
  <p class="updated_time"> 03:30 AM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/progressives-antitrust-activists-split-anti-lgbtq-00024799">Behind closed doors, progressives fighting ‘Big Tech’ work with anti-trans group</a> Politico: The American Principles Project wants to break up big tech companies, but it’s also fighting to curb transgender rights. 
- <p class="updated_time"> 03:30 AM CT, Apr. 13 </p> 
- <a href="https://www.politico.com/news/2022/04/13/ukraine-war-first-trump-impeachment-00024816">As Ukraine war intensifies, questions from first Trump impeachment linger</a> Politico: The former president's withholding of aid from Ukraine feels like a distant political chapter, it’s taken on a new meaning as military assistance proves pivotal in today’s war with Russia. 
  <p class="updated_time"> 02:38 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1091973669/new-york-lieutenant-governor-brian-benjamin-resigns-bribery-fraud-campaign">New York's lieutenant governor resigns after being charged with bribery and fraud </a> NPR: Brian Benjamin surrendered to the FBI Tuesday morning. His case is being handled by the Southern District Court of New York. 
  <p class="updated_time"> 11:15 PM CT, Apr. 12 </p> 
@@ -246,6 +254,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/us/politics/biden-gas-prices-fossil-fuels.html">Gas Prices Force Biden Into an Unlikely Embrace of Fossil Fuels</a> NYT: President Biden has had to walk a careful tightrope on energy and climate change in the weeks since U.S. sanctions on Russian oil and gas sent energy prices soaring. 
  <p class="updated_time"> 06:18 PM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/us-ukraine-military-aid-biden-00024862">U.S. to send $750M in additional military aid to Ukraine</a> Politico: As Ukraine readies for all-out war in the Donbas, officials are looking to send weapons that offer "more range and distance." 
+ <p class="updated_time"> 06:09 PM CT, Apr. 12 </p> 
+ <a href="https://www.cnn.com/2022/04/12/politics/biden-iowa-genocide/index.html">Biden calls atrocities in Ukraine a 'genocide' for the first time</a> CNN: President Joe Biden said Tuesday the atrocities being uncovered in Ukraine qualify as genocide, a designation he'd previously avoided but that he now believes is warranted as scenes of devastation emerge from towns once overrun by Russian troops. 
  <p class="updated_time"> 06:03 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/latinos-voters-midterms.html">How Young Latinos’ Online and TV Habits Offer Political Clues for 2022</a> NYT: A new report exploring young Latinos’ views on immigration sheds light on one of the most important voter groups in the midterm elections, and found a noteworthy gender divide. 
  <p class="updated_time"> 05:44 PM CT, Apr. 12 </p> 
@@ -266,6 +276,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/12/biden-russia-ukraine-genocide-00024807">Biden labels Russian atrocities in Ukraine 'genocide'</a> Politico: The president's notable shift in rhetoric comes as other administration officials have so far avoided using the designation. 
  <p class="updated_time"> 03:59 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092316260/russia-ukraine-war-what-happened-today-april-12">Russia-Ukraine war: What happened today (April 12)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:57 PM CT, Apr. 12 </p> 
+ <a href="https://www.cnn.com/2022/04/12/politics/e15-gas-explainer-faq-climate/index.html">What are the pros and cons of E15 gas? Here's what to know about Biden's order</a> CNN: President Joe Biden announced Tuesday that his administration will lift the summertime ban on E15 gasoline to help ease high gas prices. 
  <p class="updated_time"> 03:49 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092414613/the-dnc-is-considering-changing-how-the-party-picks-its-presidential-candidates">The DNC is considering changing how the party picks its presidential candidates</a> NPR: The Democratic National Committee is considering an overhaul of its presidential nominating process this week. It would give more diverse states an earlier role and promote primaries over caucuses. 
  <p class="updated_time"> 03:31 PM CT, Apr. 12 </p> 
@@ -294,12 +306,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/11/us/politics/tom-ohalleran-arizona-house.html">An Arizona Democrat Tries to Hang On in a Trump-Tilting District</a> NYT: Representative Tom O’Halleran of Arizona is seeking re-election as his district leans further toward Trump. His strategy? Don’t change. “I am,” he says, “who I am.” 
  <p class="updated_time"> 08:39 AM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/obama-putin-ukraine-00024627">Obama: Ukraine invasion proof that Putin has grown more ‘reckless’</a> Politico: The Russian leader is acting “in a way that you might not have anticipated eight, 10 years ago,” the former president said. 
- <p class="updated_time"> 07:49 AM CT, Apr. 12 </p> 
- <a href="https://www.politico.com/news/2022/04/12/u-s-inflation-8-5-percent-00024623">U.S. inflation jumped 8.5 percent in past year, highest since 1981</a> Politico: Prices have been driven up by bottlenecked supply chains, robust consumer demand and disruptions to global food and energy markets worsened by Russia’s war against Ukraine. 
  <p class="updated_time"> 04:31 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092253929/on-the-presidential-campaign-trail-competing-visions-of-france-emerge">On the presidential campaign trail, competing visions of France emerge</a> NPR: As President Emmanuel Macron and challenger Marine Le Pen campaign for the April 24 run-off election, analysts say the vote results will have deep consequences in France and on the world stage. 
- <p class="updated_time"> 04:30 AM CT, Apr. 12 </p> 
- <a href="https://www.npr.org/2022/04/12/1092063600/what-are-ghost-guns-explained">The Biden administration is regulating 'ghost guns.' Here's what the rule does</a> NPR: With the latest announcement from the Biden administration, here's a look at what so-called "ghost guns" are and what the government's new rule does. 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/transgender-laws-us.html">Red States Push L.G.B.T.Q. Restrictions as Education Battles Intensify</a> NYT: With an eye toward parents’ anxiety, Republicans have put forward a wave of laws on classroom instruction, youth sports and health care. Some of the young people at the center feel isolated. 
  <p class="updated_time"> 11:40 PM CT, Apr. 11 </p> 
@@ -330,8 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/11/5-crucial-decisions-jan-6-panel-00024104">5 crucial decisions as Jan. 6 investigation reaches final stage</a> Politico: Do they push Donald Trump or Mike Pence to testify? Will GOP lawmakers answer questions? The insurrection committee is in the endgame now. 
  <p class="updated_time"> 03:30 AM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/white-house-joe-manchin-biden-00024340">The new White House rule: Do not talk about Joe Manchin</a> Politico: As another round of talks on a climate and spending bill ramps up, aides and advocates are under strict orders to keep their mouths shut — lest they antagonize the all-important senator. 
- <p class="updated_time"> 07:48 PM CT, Apr. 10 </p> 
- <a href="https://www.cnn.com/2022/04/10/politics/ginni-thomas-trump-influence/index.html">How Ginni Thomas jockeyed for influence in Trump's orbit</a> CNN: One week after the 2018 midterms, President Donald Trump hosted a private lunch with Supreme Court Justice Clarence Thomas and his wife, conservative activist Virginia "Ginni" Thomas. 
  <p class="updated_time"> 10:49 AM CT, Apr. 10 </p> 
  <a href="https://www.politico.com/news/2022/04/10/cheney-evidence-trump-criminal-referral-00024290">Cheney says Jan. 6 committee has enough evidence for a criminal referral for Trump</a> Politico: Her statement followed a New York Times report that said the panel is divided on whether to move forward. 
 
