@@ -9,7 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:34 PM CT, Apr. 13 </p> 
+ <p class="updated_time"> 04:44 PM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/us/politics/biden-weapons-ukraine.html">Biden Announces $800 Million in Military Assistance for Ukraine</a> NYT: The United States will also step up intelligence sharing as Russia appears to be preparing an offensive in eastern Ukraine. 
+ <p class="updated_time"> 04:40 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/04/13/world/ukraine-russia-war-news">Ukraine Live Updates: Putin’s Aim to Weaken NATO Falters as Finland and Sweden Weigh Joining</a> NYT: Their accession into the military alliance would be another counterproductive result of Russia’s invasion of Ukraine. Outside Kyiv, the authorities exhumed bodies in communal graves, even as Russian troops appeared to be massing for a new offensive in the country’s east. 
  <p class="updated_time"> 04:30 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/britain-rwanda-immigrant-deal.html">Britain Makes Migrant Pact With Rwanda</a> NYT: The details of the plan will be made public on Thursday, but local news media have reported it may include shipping immigrants to the African country for processing. 
@@ -31,30 +33,30 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/13/1092686711/a-new-iron-curtain-falls-on-a-norwegian-town">A new iron curtain falls on a Norwegian town</a> NPR: The changed relations between Putin's Russia and Europe are having ripple effects along Russia's border with the EU, including in a town that had prided itself on good relations with Russia. 
  <p class="updated_time"> 03:51 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092686662/the-u-s-will-provide-an-additional-800-million-in-security-aid-to-ukraine">The U.S. will provide an additional $800 million in security aid to Ukraine</a> NPR: NPR's Daniel Estrin talks with Pentagon spokesman John Kirby about Wednesday's announcement that the U.S. will provide more security aid to Ukraine. 
+ <p class="updated_time"> 03:49 PM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-military-success-years-of-nato-training-11649861339">The Secret of Ukraine’s Military Success: Years of NATO Training</a> WSJ: The Secret of Ukraine’s Military Success: Years of NATO Training 
  <p class="updated_time"> 03:44 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092686633/in-southern-india-haleem-is-a-cherished-ramadan-tradition-and-not-just-for-musli">In southern India, haleem is a cherished Ramadan tradition — and not just for Muslims</a> NPR: In southern India's Hyderabad, Ramadan means haleem: a spicy meat & lentil stew with Arab roots. In the past few decades, the dish has become a cherished Ramadan tradition, and not just for Muslims. 
  <p class="updated_time"> 03:44 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092686626/finland-moves-closer-to-seeking-nato-membership-as-the-war-in-ukraine-unites-eur">Finland moves closer to seeking NATO membership as the war in Ukraine unites Europe</a> NPR: Russia's war in Ukraine continues to unite Europe. Finland is now moving closer to seeking NATO membership. On Wednesday, the country released a report that could move it closer to a NATO bid. 
- <p class="updated_time"> 03:37 PM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-military-success-years-of-nato-training-11649861339">The Secret of Ukraine’s Military Success: Years of NATO Training</a> WSJ: The Secret of Ukraine’s Military Success: Years of NATO Training 
  <p class="updated_time"> 03:24 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092686612/how-sanctions-have-impacted-russias-economy-and-whether-that-will-help-end-the-w">How sanctions have impacted Russia's economy — and whether that will help end the war</a> NPR: The West is hammering Russia with sanctions. But, do they work? NPR's Daniel Estrin talks with Emma Ashford of the Atlantic Council. 
  <p class="updated_time"> 03:24 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092686591/russian-forces-may-be-preparing-for-a-renewed-offensive-in-eastern-ukraine">Russian forces may be preparing for a renewed offensive in eastern Ukraine</a> NPR: Ukraine continues to battle Russian forces focusing their assault on the nation's east. The presidents of Poland, Lithuania, Latvia and Estonia are meeting with President Zelenskyy in Kyiv. 
  <p class="updated_time"> 03:06 PM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61097826?at_medium=RSS&at_campaign=KARANGA">Nasa scientists spy 'largest ever comet'</a> BBC: It's 85 miles wide, which is larger than the US state of Rhode Island. And it's coming this way. 
+ <p class="updated_time"> 02:49 PM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
  <p class="updated_time"> 02:39 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/us-russian-troops-donbas-intelligence-sharing-ukraine.html">U.S. Expands Intelligence Sharing With Ukraine on Russian Forces in Donbas Region</a> NYT: Western officials say they expect the Kremlin to mount a major offensive in the Donbas, where Russian-backed separatists have been fighting Ukrainian forces for years. 
- <p class="updated_time"> 02:37 PM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/u-s-expands-flow-of-intelligence-to-ukraine-as-white-house-sends-more-arms-11649868029">U.S. to Provide Ukraine More Intelligence, Heavier Weapons to Fight Russia</a> WSJ: U.S. to Provide Ukraine More Intelligence, Heavier Weapons to Fight Russia 
  <p class="updated_time"> 02:20 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092091451/ukrainians-have-arrived-at-the-u-s-mexico-border-by-the-thousands">Ukrainians have arrived at the U.S.-Mexico border by the thousands</a> NPR: Tijuana's border crossing with San Diego has become the main point of entry into the United States for Ukrainian refugees fleeing the war. 
  <p class="updated_time"> 02:06 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/finland-sweden-nato-russia-ukraine.html">Despite Russian Warnings, Finland and Sweden Draw Closer to NATO</a> NYT: The invasion of Ukraine has heightened security fears, pushing even formally nonaligned countries toward the Western alliance. 
+ <p class="updated_time"> 01:49 PM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-s-expands-flow-of-intelligence-to-ukraine-as-white-house-sends-more-arms-11649868029">U.S. to Provide Ukraine More Intelligence, Heavier Weapons to Fight Russia</a> WSJ: U.S. to Provide Ukraine More Intelligence, Heavier Weapons to Fight Russia 
  <p class="updated_time"> 01:41 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/asia/tropical-storm-megi-philippines.html">After Tropical Storm Megi Hits Philippines, Dozens Dead or Missing</a> NYT: The first such storm of the year caused widespread flooding and landslides in the central part of the country. 
- <p class="updated_time"> 01:37 PM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
  <p class="updated_time"> 01:31 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/johnson-partygate-rishi-sunak-fines.html">Johnson’s Cabinet Backs Him After ‘Partygate’ Fine</a> NYT: The support from the British prime minister’s party means he can likely ride out the immediate storm, but his troubles are not over, experts say. 
  <p class="updated_time"> 01:17 PM CT, Apr. 13 </p> 
@@ -64,17 +66,19 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:58 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/asia/sri-lanka-protests-gotabaya-rajapaksa.html">Sri Lanka’s President Gotabaya Rajapaksa Faces Huge Protest</a> NYT: Gotabaya Rajapaksa is used to silencing and discrediting his political opponents. But that’s harder to do this time. 
  <p class="updated_time"> 12:49 PM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-asset-freeze-extends-to-7-billion-in-jersey-and-a-french-chateau-11649869040">Roman Abramovich Asset Freeze Extends to $7 Billion in Jersey and a French Chateau</a> WSJ: Roman Abramovich Asset Freeze Extends to $7 Billion in Jersey and a French Chateau 
+ <p class="updated_time"> 12:49 PM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61096966?at_medium=RSS&at_campaign=KARANGA">Bodybuilding champion Cedric McMillan dead at 44</a> BBC: McMillan's is the third death of well-known bodybuilders in the US in the past year. 
- <p class="updated_time"> 12:37 PM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/yellen-warns-nations-staying-neutral-in-russias-war-with-ukraine-11649879113">Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine</a> WSJ: Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine 
  <p class="updated_time"> 12:20 PM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61089039?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fugitive Putin ally Medvedchuk arrested - security service</a> BBC: Viktor Medvedchuk, a Ukrainian tycoon who is accused of treason, was pictured in handcuffs. 
  <p class="updated_time"> 12:17 PM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61092953?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mass surrender of troops in Mariupol, says Russia</a> BBC: Russia says more than 1,000 marines in the besieged port have surrendered - but Ukraine denies this. 
  <p class="updated_time"> 12:13 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/mariupol-hospital-attack-nurse.html">Nurse Recounts Attack on Mariupol Maternity Hospital</a> NYT: The attack last month was among the first signs that Ukraine was facing a merciless war. 
- <p class="updated_time"> 11:37 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/russias-oil-industry-linchpin-of-economy-feels-sting-of-ukraine-war-disruptions-11649843249">Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions</a> WSJ: Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions 
+ <p class="updated_time"> 12:13 PM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/yellen-warns-nations-staying-neutral-in-russias-war-with-ukraine-11649879113">Yellen Warns Nations Staying Neutral in Russia's War With Ukraine</a> WSJ: The Treasury secretary said countries that maintain their ties to Russia after its invasion of Ukraine risk facing isolation from the global economy. 
+ <p class="updated_time"> 11:49 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/rise-of-marine-le-pen-in-france-challenges-wests-unity-against-russia-11649854428">Le Pen’s Rise Challenges West’s Unity Against Russia</a> WSJ: Le Pen’s Rise Challenges West’s Unity Against Russia 
  <p class="updated_time"> 11:28 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61093302?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Finland to decide on Nato membership in weeks says PM Marin</a> BBC: Sanna Marin's comments came as a report warned Nato membership could increase tensions with Russia. 
  <p class="updated_time"> 11:20 AM CT, Apr. 13 </p> 
@@ -119,8 +123,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/13/1092407304/chernihiv-ukraine-russia-siege">Residents of a devastated Chernihiv ponder their future after a Russian siege ends</a> NPR: For weeks, the Ukrainian city was bombarded daily. Villages outside of town were reduced to rubble. Residents are cleaning up and wondering how to move forward with their homes and livelihoods gone. 
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-schools-war.html">War in Ukraine Disrupts Education of Millions of Children</a> NYT: The country’s teachers are doing their best to provide lessons for the millions of school-age children whose education has been interrupted. 
- <p class="updated_time"> 03:53 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/rise-of-marine-le-pen-in-france-challenges-wests-unity-against-russia-11649854428">Le Pen's Rise Challenges West's Unity Against Russia</a> WSJ: The West’s campaign to counter Russia after its invasion of Ukraine faces a challenge from within: the surge in voter support for French far-right leader Marine Le Pen. 
  <p class="updated_time"> 03:13 AM CT, Apr. 13 </p> 
  <a href="https://www.wsj.com/articles/support-for-saudi-arabia-counter-to-u-s-interests-house-democrats-say-11649838260">Support for Saudi Arabia 'Counter' to U.S. Interests, House Democrats Say</a> WSJ: In letter to President Biden, lawmakers cite Riyadh’s refusal to cooperate with Washington over Russia’s invasion of Ukraine and a range of human-rights issues. 
  <p class="updated_time"> 11:32 PM CT, Apr. 12 </p> 
@@ -199,8 +201,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61028866?at_medium=RSS&at_campaign=KARANGA">Hidden wealth of one of Putin’s 'inner circle' revealed</a> BBC: Leaked documents show how sanctioned oligarch Suleiman Kerimov used shell companies to move $700m. 
  <p class="updated_time"> 08:05 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/asia/japan-military-russia-ukraine.html">Japan Sends Ukraine Military Equipment, Shedding Pacifist Constraints</a> NYT: Growing calls for more military spending after Russia’s invasion of Ukraine demonstrate Japan’s recognition that it must bolster its own deterrent power, not just rely on its U.S. alliance. 
- <p class="updated_time"> 07:00 AM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/science/bioluminescence-photographers-new-zealand.html">These Photographers Chase Bioluminescence in New Zealand</a> NYT: Capturing bioluminescence, a phenomenon in which glowing algae give crashing waves an electric blue glow, requires technical skill and a bit of luck. 
 
 
 </details>
@@ -208,10 +208,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:44 PM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/us/politics/biden-weapons-ukraine.html">Biden Announces $800 Million in Military Assistance for Ukraine</a> NYT: The United States will also step up intelligence sharing as Russia appears to be preparing an offensive in eastern Ukraine. 
+ <p class="updated_time"> 04:44 PM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/us/politics/biden-covid-public-health-emergency-extended.html">Biden Administration Extends National Covid Public Health Emergency for Another 90 Days</a> NYT: The emergency declaration, which enables free testing and eases Medicaid eligibility, among other provisions, will now extend at least until mid-July. 
  <p class="updated_time"> 04:29 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092686718/gov-abbotts-order-for-truck-inspections-is-all-an-unnecessary-pr-stunt-critics-s">Gov. Abbott's order for truck inspections is all an unnecessary PR stunt, critics say</a> NPR: Commercial trucks have been spending hours or days waiting to enter Texas from Mexico. Gov. Abbott ordered inspections of all trucks, saying it's needed to combat drug smuggling and human trafficking. 
- <p class="updated_time"> 04:26 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/us/politics/biden-covid-public-health-emergency-extended.html">Biden Administration Extends National Covid Public Health Emergency for Another 90 Days</a> NYT: The emergency declaration, which enables free testing and eases Medicaid eligibility, among other provisions, will now extend at least until mid-July. 
  <p class="updated_time"> 04:23 PM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/suspected-subway-shooter-purchased-gun-legally-despite-long-criminal-record-00025078">Suspected subway shooter purchased gun legally, despite long criminal record</a> Politico: Mayor Eric Adams sought to assure New Yorkers the vital underground rail system was safe enough for commuting. 
  <p class="updated_time"> 03:57 PM CT, Apr. 13 </p> 
@@ -330,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/11/bobby-rush-illinois-00023782">Bobby Rush wants to pick who gets his seat. 19 people disagree.</a> Politico: In a difficult election year for Democrats and high turnover in Congress, the 15-term congressman's historic seat is too tempting for would-be candidates to pass up. 
  <p class="updated_time"> 06:07 AM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/biden-new-atf-chief-00024358">Biden nominates new ATF chief, announces slate of gun reforms</a> Politico: The president, Vice President Kamala Harris and Deputy Attorney General Lisa Monaco addressed the administration’s measures in the White House Rose Garden. 
- <p class="updated_time"> 04:00 AM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/magazine/trump-putin-ukraine-fiona-hill.html">Trump and Ukraine: Former Advisers Revisit What Happened</a> NYT: Amid the current crisis, Fiona Hill and other former advisers are connecting President Trump’s pressure campaign on Ukraine to Jan. 6. And they’re ready to talk. 
  <p class="updated_time"> 03:30 AM CT, Apr. 11 </p> 
  <a href="https://www.politico.com/news/2022/04/11/5-crucial-decisions-jan-6-panel-00024104">5 crucial decisions as Jan. 6 investigation reaches final stage</a> Politico: Do they push Donald Trump or Mike Pence to testify? Will GOP lawmakers answer questions? The insurrection committee is in the endgame now. 
  <p class="updated_time"> 03:30 AM CT, Apr. 11 </p> 
