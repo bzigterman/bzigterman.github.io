@@ -9,26 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:48 AM CT, Apr. 13 </p> 
+ <p class="updated_time"> 07:29 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/04/13/world/ukraine-russia-war-news">Ukraine Live Updates: Investigators Gather Evidence of Atrocities as Biden Accuses Russia of ‘Genocide’</a> NYT: President Biden for the first time said Moscow was committing genocide against the Ukrainian people, but it was unclear whether his statement would lead to new U.S. steps in the war. Authorities exhumed bodies outside Kyiv, even as Russian troops appeared to be massing for a new offensive. 
+ <p class="updated_time"> 07:23 AM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/world/asia/tropical-storm-megi-philippines.html">After Tropical Storm Megi Hits Philippines, Dozens Dead or Missing</a> NYT: The first such storm of the year caused widespread flooding and landslides in the central part of the country. 
+ <p class="updated_time"> 06:54 AM CT, Apr. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61096385?at_medium=RSS&at_campaign=KARANGA">Drone footage shows damage in Mariupol</a> BBC: Footage released by the Russian Ministry of Defence shows the extent of damage caused in the city. 
  <p class="updated_time"> 06:48 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/biden-russia-genocide-ukraine.html">President Biden Accuses Russia of Committing Genocide in Ukraine</a> NYT: It was the first time the president has used the term to describe the Russia’s war. He emphasized it was a personal view, not a legal determination. 
+ <p class="updated_time"> 06:35 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/video/headline/876EF8C1-6657-43C6-A4E6-22E39FE05088.html">Why Russia Wants Control Over Ukraine</a> WSJ: Why Russia Wants Control Over Ukraine 
  <p class="updated_time"> 06:32 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61093002?at_medium=RSS&at_campaign=KARANGA">BBC reporter: Scale of destruction in Borodyanka, in Kyiv region is extraordinary</a> BBC: Anna Foster is in Borodyanka showing the scale of damage left behind in the Kyiv region. 
  <p class="updated_time"> 06:31 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61092952?at_medium=RSS&at_campaign=KARANGA">Pierin Vincenz: Swiss banker put strip-club visits on expenses</a> BBC: Pierin Vincenz is sentenced to nearly four years in jail for charges including fraud. 
- <p class="updated_time"> 05:56 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight</a> WSJ: Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight 
  <p class="updated_time"> 05:45 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61093300?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Biden accuses Russian troops of committing genocide in Ukraine</a> BBC: The US leader says President Putin is trying to "wipe out the idea" of a Ukrainian identity. 
+ <p class="updated_time"> 05:36 AM CT, Apr. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61090995?at_medium=RSS&at_campaign=KARANGA">Fantastic Beasts 3: Gay dialogue removed from film for Chinese audiences</a> BBC: Warner Bros agreed to the request for changes but have said the "spirit of the film remains". 
+ <p class="updated_time"> 05:35 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
  <p class="updated_time"> 05:19 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/asia/philippines-marcos-president-election.html">Ahead of Philippines Election, Ferdinand Marcos Jr. Rises</a> NYT: Ferdinand Marcos Jr. has spent his political career trying to rehabilitate the family name. As the front-runner in the upcoming election, he may finally succeed. 
  <p class="updated_time"> 05:00 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092324328/images-of-zelenskyy-show-the-physical-toll-that-trauma-and-stress-can-have-on-th">Images of Zelenskyy show the physical toll that trauma and stress can have on the body</a> NPR: Health experts told NPR that long-term exposure to trauma and stress — like that of the war in Ukraine — can impact a person's sleep, memory, mood and physical appearance. 
- <p class="updated_time"> 04:56 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154">Ukraine Has Deployed 1,000 People to Investigate Alleged War Crimes in Bucha</a> WSJ: Ukraine Has Deployed 1,000 People to Investigate Alleged War Crimes in Bucha 
  <p class="updated_time"> 04:49 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/ukraine-viktor-medvedchuk-putin-ally.html">Ukrainian Officers Said to Detain Putin Ally Viktor Medvedchuk</a> NYT: Viktor Medvedchuk, a wealthy Ukrainian politician seen as the Kremlin’s main agent of influence in Ukraine in recent years, had disappeared shortly after the start of the war. 
+ <p class="updated_time"> 04:35 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/war-sidelines-crucial-ukraine-made-fleet-of-cargo-megaplanes-11649846506">War Sidelines Crucial Ukraine-Made Fleet of Cargo Megaplanes</a> WSJ: War Sidelines Crucial Ukraine-Made Fleet of Cargo Megaplanes 
  <p class="updated_time"> 04:08 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092526223/australian-minister-tries-to-end-solomons-china-pact">Australian minister tries to end Solomons-China pact</a> NPR: Under the Solomon Islands' terms of a draft agreement, China could send police, military personnel and other armed forces to the Solomon Islands "to assist in maintaining social order." 
  <p class="updated_time"> 04:01 AM CT, Apr. 13 </p> 
@@ -37,16 +45,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/science/war-environmental-impact-ukraine.html">How Nature Becomes a Casualty of War</a> NYT: Research on past conflicts suggests that the war in Ukraine could have a profound environmental impact. 
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-schools-war.html">War in Ukraine Disrupts Education of Millions of Children</a> NYT: The country’s teachers are doing their best to provide lessons for the millions of school-age children whose education has been interrupted. 
- <p class="updated_time"> 03:56 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/marine-le-pen-proposes-overhaul-of-french-legislative-electoral-systems-11649785720">Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems</a> WSJ: Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems 
  <p class="updated_time"> 03:43 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61089039?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fugitive Putin ally Medvedchuk arrested - security service</a> BBC: Viktor Medvedchuk, a Ukrainian tycoon who is accused of treason, was pictured in handcuffs. 
- <p class="updated_time"> 02:56 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/at-least-20-dead-in-philippines-after-flooding-landslides-11649772798">At Least 20 Dead in Philippines After Flooding, Landslides</a> WSJ: At Least 20 Dead in Philippines After Flooding, Landslides 
- <p class="updated_time"> 01:56 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/chinese-stockpile-food-as-covid-19-concerns-ripple-out-from-shanghai-11649771421">Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai</a> WSJ: Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai 
- <p class="updated_time"> 12:27 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Airstrikes on Ukrainian positions in the besieged city of Mariupol came a day after Russian President Vladimir Putin said peace talks with Kyiv had reached a dead end. 
+ <p class="updated_time"> 03:35 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/support-for-saudi-arabia-counter-to-u-s-interests-house-democrats-say-11649838260">Support for Saudi Arabia ‘Counter’ to U.S. Interests, House Democrats Say</a> WSJ: Support for Saudi Arabia ‘Counter’ to U.S. Interests, House Democrats Say 
+ <p class="updated_time"> 02:35 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/global-trade-hit-by-ukraine-war-china-lockdowns-11649846815">Global Trade Hit by Ukraine War, China Lockdowns</a> WSJ: Global Trade Hit by Ukraine War, China Lockdowns 
  <p class="updated_time"> 11:48 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-61090064?at_medium=RSS&at_campaign=KARANGA">US cryptocurrency expert jailed for helping North Korea evade sanctions</a> BBC: Virgil Griffith was sentenced to five years and three months in prison by a court in New York. 
  <p class="updated_time"> 11:32 PM CT, Apr. 12 </p> 
@@ -87,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/world/europe/macron-le-pen-france-election.html">Macron and Le Pen Trade Jabs and Lean Left as French Race Heats Up</a> NYT: President Emmanuel Macron and Marine Le Pen, the far-right candidate, are in close contention as the April 24 presidential runoff election nears. 
  <p class="updated_time"> 04:51 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html">Ukraine Says It Thwarted a Sophisticated Russian Cyberattack on Its Power Grid</a> NYT: Experts say the hacking, while unsuccessful, was among the most complex cyberattacks they have seen in the war so far. 
- <p class="updated_time"> 04:23 PM CT, Apr. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61077648?at_medium=RSS&at_campaign=KARANGA">Putin vows to press on with Ukraine war</a> BBC: In a rare public appearance, Russia's president insists his country's "noble" aims will be met. 
  <p class="updated_time"> 04:22 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/africa/floods-mudslides-south-africa.html">Heavy Floods and Mudslides Leave at Least 45 Dead in South Africa</a> NYT: Torrential rain left a trail of destruction in the coastal city of Durban — the latest disaster in a season of storms that some scientists say has been intensified by climate change. 
  <p class="updated_time"> 04:09 PM CT, Apr. 12 </p> 
@@ -119,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/12/1092317791/ukraine-russia-ethnic-cleansing">An expert says it may be hard, but not impossible, to prove genocide in Ukraine</a> NPR: Should the atrocities in Ukraine be called war crimes, ethnic cleansing or genocide? The terms can be tricky to differentiate, but experts say the separate labels are crucial when seeking justice. 
  <p class="updated_time"> 11:36 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/germany-covid-vaccine-strategy.html">How One German State Beat the Odds on Covid Vaccinations</a> NYT: Bremen — Germany’s smallest state — managed its vaccination campaign better than any other place in Germany. It succeeded by activating community networks. 
- <p class="updated_time"> 11:26 AM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/u-k-s-boris-johnson-to-be-fined-over-lockdown-parties-11649769894">U.K.'s Boris Johnson to Be Fined Over Lockdown Parties</a> WSJ: The British prime minister and Treasury chief Rishi Sunak will be fined for breaking Covid-19 lockdown rules, the British government said, reigniting a long-running scandal that has dogged the British leader. 
  <p class="updated_time"> 11:15 AM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092314937/holocaust-museums-condemn-russian-war-crimes-ukraine">Holocaust museums in 4 countries condemn Russia's actions in Ukraine as war crimes</a> NPR: The group of 17 Holocaust museums from the U.S., U.K., Canada and South Africa are supporting an international investigation into whether Russia committed war crimes and genocide in Ukraine. 
  <p class="updated_time"> 11:07 AM CT, Apr. 12 </p> 
@@ -199,10 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/10/world/middleeast/israel-ukraine-russia-oligarchs.html">Israel’s Ukraine Policy Prompts Scrutiny of Russian-Israeli Oligarchs</a> NYT: Israel has expressed solidarity with Ukraine but avoided direct criticism of Russia, raising questions about Russian-Israeli businessmen close to the Kremlin. 
  <p class="updated_time"> 08:59 AM CT, Apr. 10 </p> 
  <a href="https://www.nytimes.com/2022/04/10/world/asia/shanghai-lockdown-zero.html">Shanghai residents bristle as a lockdown enters a second week with more testing.</a> NYT: Residents are reaching “emotional tipping points” under the strict measures China has insisted on in handling the coronavirus, one commentator said. 
- <p class="updated_time"> 08:56 AM CT, Apr. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61057247?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The foreign fighters supporting the Ukrainian army</a> BBC: A former British Army soldier is among the international volunteers supporting the Ukrainian war effort. 
- <p class="updated_time"> 08:12 AM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/2022/04/10/world/middleeast/palestinian-village-israel.html">In a Village Divided, Palestinians See Their Hold on Territory Eroding</a> NYT: Carved up over decades, the village of Walaja sits partly in the occupied West Bank and partly in Jerusalem. Palestinians say this type of fragmentation undermines prospects for a state. 
 
 
 </details>
