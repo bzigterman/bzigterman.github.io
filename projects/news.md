@@ -9,10 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:02 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-refugees-women.html">The Ukrainian Refugee Crisis Is a Women’s Crisis</a> NYT: A wave of displaced women and children into Poland is forcing the country to address its lack of protections for working women. 
- <p class="updated_time"> 12:59 PM CT, Apr. 13 </p> 
+ <p class="updated_time"> 02:06 PM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/world/europe/finland-sweden-nato-russia-ukraine.html">Despite Russian Warnings, Finland and Sweden Draw Closer to NATO</a> NYT: The invasion of Ukraine has heightened security fears, pushing even formally nonaligned countries toward the Western alliance. 
+ <p class="updated_time"> 01:54 PM CT, Apr. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61100179?at_medium=RSS&at_campaign=KARANGA">Police arrest suspect in New York subway shooting 'without incident'</a> BBC: 'We got him,' says New York  mayor following massive manhunt in wake of Tuesday morning shooting.  
+ <p class="updated_time"> 01:47 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/04/13/world/ukraine-russia-war-news">Ukraine Live Updates: Putin’s Aim to Weaken NATO Falters as Finland and Sweden Weigh Joining</a> NYT: Their accession into the military alliance would be another counterproductive result of Russia’s invasion of Ukraine. Outside Kyiv, the authorities exhumed bodies in communal graves, even as Russian troops appeared to be massing for a new offensive in the country’s east. 
+ <p class="updated_time"> 01:41 PM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/world/asia/tropical-storm-megi-philippines.html">After Tropical Storm Megi Hits Philippines, Dozens Dead or Missing</a> NYT: The first such storm of the year caused widespread flooding and landslides in the central part of the country. 
+ <p class="updated_time"> 01:31 PM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/world/europe/johnson-partygate-rishi-sunak-fines.html">Johnson’s Cabinet Backs Him After ‘Partygate’ Fine</a> NYT: The support from the British prime minister’s party means he can likely ride out the immediate storm, but his troubles are not over, experts say. 
+ <p class="updated_time"> 01:17 PM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/world/europe/russia-land-mines-ukraine.html">Russians Planted Thousands of Land Mines During Retreat From Kyiv, Ukrainians Say</a> NYT: Departing Russian soldiers have laced large swaths of the country with buried mines and jury-rigged bombs,  some hidden inside homes, to terrorize returning civilians. 
+ <p class="updated_time"> 01:12 PM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-military-success-years-of-nato-training-11649861339">The Secret of Ukraine’s Military Success: Years of NATO Training</a> WSJ: The Secret of Ukraine’s Military Success: Years of NATO Training 
+ <p class="updated_time"> 01:11 PM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-refugees-women.html">The Ukrainian Refugee Crisis Is a Women’s Crisis</a> NYT: A wave of displaced women and children into Poland is forcing the country to address its lack of protections for working women. 
  <p class="updated_time"> 12:58 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/asia/sri-lanka-protests-gotabaya-rajapaksa.html">Sri Lanka’s President Gotabaya Rajapaksa Faces Huge Protest</a> NYT: Gotabaya Rajapaksa is used to silencing and discrediting his political opponents. But that’s harder to do this time. 
  <p class="updated_time"> 12:49 PM CT, Apr. 13 </p> 
@@ -21,32 +33,26 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61089039?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fugitive Putin ally Medvedchuk arrested - security service</a> BBC: Viktor Medvedchuk, a Ukrainian tycoon who is accused of treason, was pictured in handcuffs. 
  <p class="updated_time"> 12:17 PM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61092953?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mass surrender of troops in Mariupol, says Russia</a> BBC: Russia says more than 1,000 marines in the besieged port have surrendered - but Ukraine denies this. 
- <p class="updated_time"> 12:16 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/world/europe/russia-land-mines-ukraine.html">Russians Planted Thousands of Land Mines During Retreat From Kyiv, Ukrainians Say</a> NYT: Departing Russian soldiers have laced large swaths of the country with buried mines and jury-rigged bombs,  some hidden inside homes, to terrorize returning civilians. 
  <p class="updated_time"> 12:13 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/mariupol-hospital-attack-nurse.html">Nurse Recounts Attack on Mariupol Maternity Hospital</a> NYT: The attack last month was among the first signs that Ukraine was facing a merciless war. 
- <p class="updated_time"> 12:08 PM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-military-success-years-of-nato-training-11649861339">The Secret of Ukraine’s Military Success: Years of NATO Training</a> WSJ: The Secret of Ukraine’s Military Success: Years of NATO Training 
+ <p class="updated_time"> 12:12 PM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
  <p class="updated_time"> 11:28 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61093302?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Finland to decide on Nato membership in weeks says PM Marin</a> BBC: Sanna Marin's comments came as a report warned Nato membership could increase tensions with Russia. 
  <p class="updated_time"> 11:20 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/middleeast/israel-art-museum-tel-aviv.html">Israel’s Oldest Museum Takes a New Look at Israeli Art</a> NYT: For decades, museums presented Israeli art as a companion to the country’s history. The Tel Aviv Museum of Art breaks away from that approach — with surprising results. 
  <p class="updated_time"> 11:19 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/science/war-environmental-impact-ukraine.html">How Nature Becomes a Casualty of War</a> NYT: Research on past conflicts suggests that the war in Ukraine could have a profound environmental impact. 
- <p class="updated_time"> 11:08 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
- <p class="updated_time"> 11:07 AM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/world/europe/finland-sweden-nato-russia-ukraine.html">Despite Russian Warnings, Finland and Sweden Draw Closer to NATO</a> NYT: The invasion of Ukraine has heightened security fears, pushing even formally nonaligned countries toward the Western alliance. 
- <p class="updated_time"> 10:59 AM CT, Apr. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61096965?at_medium=RSS&at_campaign=KARANGA">Brooklyn shooting: Faulty cameras hinder NYC subway gunman hunt</a> BBC: Ten people were shot and another 13 injured in the attack on a subway train in Brooklyn, New York. 
+ <p class="updated_time"> 11:12 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-s-expands-flow-of-intelligence-to-ukraine-as-white-house-sends-more-arms-11649868029">U.S. Expands Flow of Intelligence to Ukraine as White House Sends More Arms</a> WSJ: U.S. Expands Flow of Intelligence to Ukraine as White House Sends More Arms 
  <p class="updated_time"> 10:51 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61093300?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Biden accuses Russian troops of committing genocide in Ukraine</a> BBC: The US leader says President Putin is trying to "wipe out the idea" of a Ukrainian identity. 
  <p class="updated_time"> 10:42 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61099211?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: The moment a puppy is rescued from the rubble</a> BBC: Rescuers heard a puppy crying in the rubble and used their bare hands to find it. 
  <p class="updated_time"> 10:20 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/world-covid-cases-testing.html">World Surpasses Half a Billion Known Coronavirus Cases</a> NYT: There have almost certainly been far more infections than that among the global population of 7.9 billion, with many going undetected or unreported, and the reporting gap may only grow wider as some countries, including the United States, scale back official testing. 
- <p class="updated_time"> 10:08 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/u-s-expands-flow-of-intelligence-to-ukraine-as-white-house-sends-more-arms-11649868029">U.S. Expands Flow of Intelligence to Ukraine as White House Sends More Arms</a> WSJ: U.S. Expands Flow of Intelligence to Ukraine as White House Sends More Arms 
+ <p class="updated_time"> 10:12 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-asset-freeze-extends-to-7-billion-in-jersey-and-a-french-chateau-11649869040">Roman Abramovich Asset Freeze Extends to $7 Billion in Jersey and a French Chateau</a> WSJ: Roman Abramovich Asset Freeze Extends to $7 Billion in Jersey and a French Chateau 
  <p class="updated_time"> 10:01 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/germany-russia-ukraine-war.html">Ukraine War Pushes Germans to Change. They Are Wavering.</a> NYT: In just six weeks since Chancellor Olaf Scholz announced a strategic shift for his country, already doubts are emerging about how real and deep it is. 
  <p class="updated_time"> 10:00 AM CT, Apr. 13 </p> 
@@ -61,12 +67,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61085810?at_medium=RSS&at_campaign=KARANGA">Collecting the dead in Bucha</a> BBC: After the discovery of the atrocities in Bucha, a massive operation to find the bodies began. 
  <p class="updated_time"> 09:12 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/australia/new-zealand-covid-restrictions-australia.html">New Zealand Welcomes Vaccinated Tourists From Australia</a> NYT: The latest steps toward reopening are being taken in a country that has maintained some of the strictest coronavirus precautions in the world. 
- <p class="updated_time"> 09:08 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-asset-freeze-extends-to-7-billion-in-jersey-and-a-french-chateau-11649869040">Roman Abramovich Asset Freeze Extends to $7 Billion in Jersey and a French Chateau</a> WSJ: Roman Abramovich Asset Freeze Extends to $7 Billion in Jersey and a French Chateau 
- <p class="updated_time"> 08:08 AM CT, Apr. 13 </p> 
+ <p class="updated_time"> 09:12 AM CT, Apr. 13 </p> 
  <a href="https://www.wsj.com/articles/rise-of-marine-le-pen-in-france-challenges-wests-unity-against-russia-11649854428">Le Pen’s Rise Challenges West’s Unity Against Russia</a> WSJ: Le Pen’s Rise Challenges West’s Unity Against Russia 
- <p class="updated_time"> 07:23 AM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/world/asia/tropical-storm-megi-philippines.html">After Tropical Storm Megi Hits Philippines, Dozens Dead or Missing</a> NYT: The first such storm of the year caused widespread flooding and landslides in the central part of the country. 
  <p class="updated_time"> 06:54 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61096385?at_medium=RSS&at_campaign=KARANGA">Russia releases drone footage shows Mariupol damage</a> BBC: Footage released by the Russian Ministry of Defence shows the extent of damage in the city. 
  <p class="updated_time"> 06:48 AM CT, Apr. 13 </p> 
@@ -185,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61028866?at_medium=RSS&at_campaign=KARANGA">Hidden wealth of one of Putin’s 'inner circle' revealed</a> BBC: Leaked documents show how sanctioned oligarch Suleiman Kerimov used shell companies to move $700m. 
  <p class="updated_time"> 10:47 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/us-russia-ukraine-war-crimes.html">U.S. Weighs Shift to Support Hague Court as It Investigates Russian Atrocities</a> NYT: The government is hamstrung from helping the world’s war-crimes court by two laws and a policy aimed at barring it from charging Americans. 
- <p class="updated_time"> 09:48 AM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/10/world/europe/french-presidential-election-macron-le-pen.html">Macron to Face Le Pen for President as French Gravitate Toward Extremes</a> NYT: President Emmanuel Macron and the hard-right leader Marine Le Pen will compete for a second time in a runoff on April 24. 
  <p class="updated_time"> 08:05 AM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/asia/japan-military-russia-ukraine.html">Japan Sends Ukraine Military Equipment, Shedding Pacifist Constraints</a> NYT: Growing calls for more military spending after Russia’s invasion of Ukraine demonstrate Japan’s recognition that it must bolster its own deterrent power, not just rely on its U.S. alliance. 
  <p class="updated_time"> 07:00 AM CT, Apr. 11 </p> 
@@ -199,10 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/11/world/europe/uk-fish-chips-inflation.html">‘Cheap as Chips’ No Longer True in U.K. as Prices Soar for a Favorite Meal</a> NYT: The costs for fish and chips, a working-class staple in Britain for well over a century, have rocketed as the war in Ukraine has made the main ingredients scarcer. Of 10,000 shops, 3,000 may close. 
  <p class="updated_time"> 12:26 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61064426?at_medium=RSS&at_campaign=KARANGA">Could Marine Le Pen win the French elections?</a> BBC: Marine Le Pen will go head-to-head with President Macron in an election run off in a fortnight. 
- <p class="updated_time"> 06:20 PM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/2022/04/10/world/asia/pakistan-imran-khan-elections.html">In Imran Khan’s Ouster, a Reminder of Pakistani Military’s Power</a> NYT: After Imran Khan’s ouster as prime minister, the legacy of his time in office is a continued military dominance of public affairs and deep polarization that could turn violent. 
- <p class="updated_time"> 04:01 PM CT, Apr. 10 </p> 
- <a href="https://www.nytimes.com/2022/04/10/theater/olivier-awards-winners-cabaret-eddie-redmayne.html">‘Cabaret,’ Starring Eddie Redmayne, Sweeps Olivier Awards</a> NYT: The musical won seven awards at Britain’s equivalent of the Tonys. A puppet-filled adaptation of “Life of Pi” and a “Back to the Future” musical also won big. 
 
 
 </details>
@@ -210,8 +206,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:27 PM CT, Apr. 13 </p> 
+ <p class="updated_time"> 02:01 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/us/politics/mark-meadows-vote-north-carolina.html">Mark Meadows Is Taken Off North Carolina Voter Roll Amid Fraud Inquiry</a> NYT: The state is investigating whether Mr. Meadows cast a legal vote in 2020, after reports questioned if he lived at the address listed on his voter registration. 
+ <p class="updated_time"> 01:20 PM CT, Apr. 13 </p> 
+ <a href="https://www.npr.org/2022/04/13/1092652164/after-voting-in-virginia-mark-meadows-is-removed-as-north-carolina-registered-vo">After voting in Virginia, Mark Meadows is removed as a North Carolina registered voter</a> NPR: The former White House chief of staff faces a probe over an allegation that he never resided at the address he put on his voter registration ahead of the 2020 election. 
  <p class="updated_time"> 12:23 PM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/january-6-defendant-donald-trump-00025019">Jan. 6 defendant wants jurors to blame Trump, not him, for decision to breach Capitol</a> Politico: Though dozens of defendants have argued in court filings that they believed then-President Donald Trump had authorized the assault on the Capitol, judges have largely rejected that contention. 
  <p class="updated_time"> 12:21 PM CT, Apr. 13 </p> 
@@ -306,8 +304,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/12/inflation-spiking-consumer-prices-00024707">No end in sight for spiking prices? Enter the ‘peak inflation’ crowd</a> Politico: In recent days, economic forecasters have said that the March inflation number — an 8.5 percent surge over last year — may be the worst of it. 
  <p class="updated_time"> 12:22 PM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/biden-admin-russia-chemical-weapons-00024709">Team Biden scrambles to respond to claims of Russia chemical weapon use</a> Politico: The administration has said Russian chemical weapons use in Ukraine would trigger a ‘proportional’ U.S. response. Its pledge may soon be tested. 
- <p class="updated_time"> 10:22 AM CT, Apr. 12 </p> 
- <a href="https://www.npr.org/2022/04/12/1092290277/florida-lawmakers-let-desantis-draw-a-congressional-map-after-he-vetoed-the-last">Florida lawmakers let DeSantis draw a congressional map after he vetoed the last one</a> NPR: Gov. Ron DeSantis, a potential Republican presidential aspirant, has been pushing a map that's considered more advantageous to his party. 
  <p class="updated_time"> 08:53 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/tom-ohalleran-arizona-house.html">An Arizona Democrat Tries to Hang On in a Trump-Tilting District</a> NYT: Representative Tom O’Halleran of Arizona is seeking re-election as his district leans further toward Trump. His strategy? Don’t change. “I am,” he says, “who I am.” 
  <p class="updated_time"> 08:39 AM CT, Apr. 12 </p> 
