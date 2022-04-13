@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:43 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/04/13/world/ukraine-russia-war-news">Ukraine Live Updates: Putin’s Aim to Weaken NATO Falters as Finland and Sweden Weigh Joining</a> NYT: Their accession into the military alliance would be another counterproductive result of Russia’s invasion of Ukraine. Outside Kyiv, the authorities exhumed bodies in communal graves, even as Russian troops appeared to be massing for a new offensive in the country’s east. 
- <p class="updated_time"> 12:32 PM CT, Apr. 13 </p> 
+ <p class="updated_time"> 01:02 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-refugees-women.html">The Ukrainian Refugee Crisis Is a Women’s Crisis</a> NYT: A wave of displaced women and children into Poland is forcing the country to address its lack of protections for working women. 
+ <p class="updated_time"> 12:59 PM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/13/world/ukraine-russia-war-news">Ukraine Live Updates: Putin’s Aim to Weaken NATO Falters as Finland and Sweden Weigh Joining</a> NYT: Their accession into the military alliance would be another counterproductive result of Russia’s invasion of Ukraine. Outside Kyiv, the authorities exhumed bodies in communal graves, even as Russian troops appeared to be massing for a new offensive in the country’s east. 
+ <p class="updated_time"> 12:58 PM CT, Apr. 13 </p> 
+ <a href="https://www.nytimes.com/2022/04/12/world/asia/sri-lanka-protests-gotabaya-rajapaksa.html">Sri Lanka’s President Gotabaya Rajapaksa Faces Huge Protest</a> NYT: Gotabaya Rajapaksa is used to silencing and discrediting his political opponents. But that’s harder to do this time. 
+ <p class="updated_time"> 12:49 PM CT, Apr. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61096966?at_medium=RSS&at_campaign=KARANGA">Bodybuilding champion Cedric McMillan dead at 44</a> BBC: McMillan's is the third death of well-known bodybuilders in the US in the past year. 
  <p class="updated_time"> 12:20 PM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61089039?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fugitive Putin ally Medvedchuk arrested - security service</a> BBC: Viktor Medvedchuk, a Ukrainian tycoon who is accused of treason, was pictured in handcuffs. 
  <p class="updated_time"> 12:17 PM CT, Apr. 13 </p> 
@@ -21,34 +25,34 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/world/europe/russia-land-mines-ukraine.html">Russians Planted Thousands of Land Mines During Retreat From Kyiv, Ukrainians Say</a> NYT: Departing Russian soldiers have laced large swaths of the country with buried mines and jury-rigged bombs,  some hidden inside homes, to terrorize returning civilians. 
  <p class="updated_time"> 12:13 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/mariupol-hospital-attack-nurse.html">Nurse Recounts Attack on Mariupol Maternity Hospital</a> NYT: The attack last month was among the first signs that Ukraine was facing a merciless war. 
- <p class="updated_time"> 11:50 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
+ <p class="updated_time"> 12:08 PM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-military-success-years-of-nato-training-11649861339">The Secret of Ukraine’s Military Success: Years of NATO Training</a> WSJ: The Secret of Ukraine’s Military Success: Years of NATO Training 
  <p class="updated_time"> 11:28 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61093302?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Finland to decide on Nato membership in weeks says PM Marin</a> BBC: Sanna Marin's comments came as a report warned Nato membership could increase tensions with Russia. 
  <p class="updated_time"> 11:20 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/middleeast/israel-art-museum-tel-aviv.html">Israel’s Oldest Museum Takes a New Look at Israeli Art</a> NYT: For decades, museums presented Israeli art as a companion to the country’s history. The Tel Aviv Museum of Art breaks away from that approach — with surprising results. 
  <p class="updated_time"> 11:19 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/science/war-environmental-impact-ukraine.html">How Nature Becomes a Casualty of War</a> NYT: Research on past conflicts suggests that the war in Ukraine could have a profound environmental impact. 
+ <p class="updated_time"> 11:08 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
  <p class="updated_time"> 11:07 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/finland-sweden-nato-russia-ukraine.html">Despite Russian Warnings, Finland and Sweden Draw Closer to NATO</a> NYT: The invasion of Ukraine has heightened security fears, pushing even formally nonaligned countries toward the Western alliance. 
  <p class="updated_time"> 10:59 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61096965?at_medium=RSS&at_campaign=KARANGA">Brooklyn shooting: Faulty cameras hinder NYC subway gunman hunt</a> BBC: Ten people were shot and another 13 injured in the attack on a subway train in Brooklyn, New York. 
  <p class="updated_time"> 10:51 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61093300?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Biden accuses Russian troops of committing genocide in Ukraine</a> BBC: The US leader says President Putin is trying to "wipe out the idea" of a Ukrainian identity. 
- <p class="updated_time"> 10:50 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/video/headline/876EF8C1-6657-43C6-A4E6-22E39FE05088.html">Why Russia Wants Control Over Ukraine</a> WSJ: Why Russia Wants Control Over Ukraine 
  <p class="updated_time"> 10:42 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61099211?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: The moment a puppy is rescued from the rubble</a> BBC: Rescuers heard a puppy crying in the rubble and used their bare hands to find it. 
  <p class="updated_time"> 10:20 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/world-covid-cases-testing.html">World Surpasses Half a Billion Known Coronavirus Cases</a> NYT: There have almost certainly been far more infections than that among the global population of 7.9 billion, with many going undetected or unreported, and the reporting gap may only grow wider as some countries, including the United States, scale back official testing. 
+ <p class="updated_time"> 10:08 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-s-expands-flow-of-intelligence-to-ukraine-as-white-house-sends-more-arms-11649868029">U.S. Expands Flow of Intelligence to Ukraine as White House Sends More Arms</a> WSJ: U.S. Expands Flow of Intelligence to Ukraine as White House Sends More Arms 
  <p class="updated_time"> 10:01 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/germany-russia-ukraine-war.html">Ukraine War Pushes Germans to Change. They Are Wavering.</a> NYT: In just six weeks since Chancellor Olaf Scholz announced a strategic shift for his country, already doubts are emerging about how real and deep it is. 
  <p class="updated_time"> 10:00 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61095961?at_medium=RSS&at_campaign=KARANGA">Climate change: COP26 promises will hold warming under 2C</a> BBC: Scientists say their analysis is "encouraging" but keeping under 1.5C this century looks unlikely. 
  <p class="updated_time"> 09:59 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/africa/south-africa-durban-floods.html">Death Toll in South Africa Floods Passes 250</a> NYT: President Cyril Ramaphosa traveled to the east coast, which was pounded by days of rain that washed away bridges and swept homes from their foundations. 
- <p class="updated_time"> 09:50 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/rise-of-marine-le-pen-in-france-challenges-wests-unity-against-russia-11649854428">Le Pen’s Rise Challenges West’s Unity Against Russia</a> WSJ: Le Pen’s Rise Challenges West’s Unity Against Russia 
  <p class="updated_time"> 09:45 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/us/politics/russia-propaganda-ukraine-war.html">How US and Ukrainian Groups Pierce Putin’s Propaganda Bubble</a> NYT: U.S.-backed news outlets and Ukrainian activists use Cold War techniques and high-tech tactics to get news about the war to Russians. 
  <p class="updated_time"> 09:22 AM CT, Apr. 13 </p> 
@@ -57,12 +61,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61085810?at_medium=RSS&at_campaign=KARANGA">Collecting the dead in Bucha</a> BBC: After the discovery of the atrocities in Bucha, a massive operation to find the bodies began. 
  <p class="updated_time"> 09:12 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/australia/new-zealand-covid-restrictions-australia.html">New Zealand Welcomes Vaccinated Tourists From Australia</a> NYT: The latest steps toward reopening are being taken in a country that has maintained some of the strictest coronavirus precautions in the world. 
- <p class="updated_time"> 08:50 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/china-flirts-with-shorter-quarantines-for-overseas-arrivals-amid-shanghai-covid-outbreak-11649858993">China Flirts With Shorter Quarantines for Overseas Arrivals</a> WSJ: China Flirts With Shorter Quarantines for Overseas Arrivals 
- <p class="updated_time"> 07:50 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/support-for-saudi-arabia-counter-to-u-s-interests-house-democrats-say-11649838260">Support for Saudi Arabia ‘Counter’ to U.S. Interests, House Democrats Say</a> WSJ: Support for Saudi Arabia ‘Counter’ to U.S. Interests, House Democrats Say 
- <p class="updated_time"> 07:40 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/u-s-expands-flow-of-intelligence-to-ukraine-as-white-house-sends-more-arms-11649868029">U.S. Expands Flow of Intelligence to Ukraine as White House Sends More Arms</a> WSJ: The Biden administration is moving to significantly expand the intelligence it is providing to Ukraine’s forces so they can target Moscow’s military units in Russian-occupied Donbas and Crimea and potentially take back territory, U.S. officials said. 
+ <p class="updated_time"> 09:08 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-asset-freeze-extends-to-7-billion-in-jersey-and-a-french-chateau-11649869040">Roman Abramovich Asset Freeze Extends to $7 Billion in Jersey and a French Chateau</a> WSJ: Roman Abramovich Asset Freeze Extends to $7 Billion in Jersey and a French Chateau 
+ <p class="updated_time"> 08:08 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/rise-of-marine-le-pen-in-france-challenges-wests-unity-against-russia-11649854428">Le Pen’s Rise Challenges West’s Unity Against Russia</a> WSJ: Le Pen’s Rise Challenges West’s Unity Against Russia 
  <p class="updated_time"> 07:23 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/asia/tropical-storm-megi-philippines.html">After Tropical Storm Megi Hits Philippines, Dozens Dead or Missing</a> NYT: The first such storm of the year caused widespread flooding and landslides in the central part of the country. 
  <p class="updated_time"> 06:54 AM CT, Apr. 13 </p> 
@@ -71,10 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/world/europe/biden-russia-genocide-ukraine.html">President Biden Accuses Russia of Committing Genocide in Ukraine</a> NYT: It was the first time the president has used the term to describe the Russia’s war. He emphasized it was a personal view, not a legal determination. 
  <p class="updated_time"> 06:32 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61093002?at_medium=RSS&at_campaign=KARANGA">BBC reporter: Scale of destruction in Borodyanka, in Kyiv region is extraordinary</a> BBC: Anna Foster is in Borodyanka showing the scale of damage left behind in the Kyiv region. 
- <p class="updated_time"> 06:31 AM CT, Apr. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61092952?at_medium=RSS&at_campaign=KARANGA">Pierin Vincenz: Swiss banker put strip-club visits on expenses</a> BBC: Pierin Vincenz is sentenced to nearly four years in jail for charges including fraud. 
- <p class="updated_time"> 06:01 AM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-military-success-years-of-nato-training-11649861339">The Secret of Ukraine's Military Success: Years of NATO Training</a> WSJ: Extensive programs have taught thousands of soldiers, plus military brass and lawmakers overseeing the armed forces, how to transform from a rigid Soviet-style force into a modern army that thinks on the move. 
  <p class="updated_time"> 05:19 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/asia/philippines-marcos-president-election.html">Ahead of Philippines Election, Ferdinand Marcos Jr. Rises</a> NYT: Ferdinand Marcos Jr. has spent his political career trying to rehabilitate the family name. As the front-runner in the upcoming election, he may finally succeed. 
  <p class="updated_time"> 05:00 AM CT, Apr. 13 </p> 
@@ -87,6 +85,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/13/1092407304/chernihiv-ukraine-russia-siege">Residents of a devastated Chernihiv ponder their future after a Russian siege ends</a> NPR: For weeks, the Ukrainian city was bombarded daily. Villages outside of town were reduced to rubble. Residents are cleaning up and wondering how to move forward with their homes and livelihoods gone. 
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-schools-war.html">War in Ukraine Disrupts Education of Millions of Children</a> NYT: The country’s teachers are doing their best to provide lessons for the millions of school-age children whose education has been interrupted. 
+ <p class="updated_time"> 03:13 AM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/support-for-saudi-arabia-counter-to-u-s-interests-house-democrats-say-11649838260">Support for Saudi Arabia 'Counter' to U.S. Interests, House Democrats Say</a> WSJ: In letter to President Biden, lawmakers cite Riyadh’s refusal to cooperate with Washington over Russia’s invasion of Ukraine and a range of human-rights issues. 
  <p class="updated_time"> 11:32 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/mimi-reinhard-dead.html">Mimi Reinhard, Who Typed Up Schindler’s List, Dies at 107</a> NYT: As a secretary in a forced-labor camp in World War II, she added her own name to the list of 1,100 Jews who would be spared from the gas chambers. 
  <p class="updated_time"> 11:05 PM CT, Apr. 12 </p> 
@@ -154,8 +154,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:47 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/chemical-weapons-russia-mariupol.html">U.S., Allies Probe Claim of Chemical Agent in Ukraine</a> NYT: Ukrainian commanders said “a poisonous substance” caused respiratory difficulties and neurological symptoms in a handful of soldiers and civilians. 
  <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
- <a href="https://www.nytimes.com/2022/04/12/world/asia/sri-lanka-protests-gotabaya-rajapaksa.html">Sri Lanka’s President Gotabaya Rajapaksa Faces Huge Protest</a> NYT: Gotabaya Rajapaksa is used to silencing and discrediting his political opponents. But that’s harder to do this time. 
- <p class="updated_time"> 04:00 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/asia/china-covid-quarantine-shanghai.html">From the U.S. to China: A 3-Month Quarantine Horror Story</a> NYT: A lawyer flew home to China hoping to see his family for the first time since the pandemic began. Instead, he was trapped in three months of quarantine. 
  <p class="updated_time"> 03:11 AM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/11/world/europe/french-presidential-election-macron-le-pen-far-fight.html">Macron Sets Out to Build a ‘Dam’ Against Le Pen. Can It Hold?</a> NYT: After Sunday’s vote, when nearly a third of ballots went to the extreme right, a united front of mainstream voters looked more precarious than ever. 
@@ -221,7 +219,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:01 PM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/adams-weapon-technology-new-york-subway-shooting-00024978">Adams pushes weapon detection technology after subway shooting, drawing criticism about effectiveness and bias</a> Politico: The Los Angeles subway system — which is much smaller than New York’s — tried out scanners to detect guns. The system malfunctioned during a demonstration. 
  <p class="updated_time"> 11:45 AM CT, Apr. 13 </p> 
- <a href="https://www.politico.com/news/2022/04/13/trump-georgia-governor-race-00024987">Trump machine spends to take down Georgia governor</a> Politico: The former president is putting money from his PAC into the race to unseat GOP Gov. Brian Kemp of Georgia. 
+ <a href="https://www.politico.com/news/2022/04/13/trump-georgia-governor-race-00024987">Trump pours money into a midterm race for the first time</a> Politico: The former president is putting money from his PAC into the race to unseat GOP Gov. Brian Kemp of Georgia. 
  <p class="updated_time"> 10:40 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/business/mckinsey-purdue-fda-records.html">McKinsey Opened a Door in Its Firewall Between Pharma Clients and Regulators</a> NYT: The firm let consultants advise both drugmakers and their government overseers, internal records show. “Who we know and what we know” was part of their pitch. 
  <p class="updated_time"> 09:45 AM CT, Apr. 13 </p> 
