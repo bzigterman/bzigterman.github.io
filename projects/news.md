@@ -13,7 +13,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/04/12/world/ukraine-russia-war-news">What Happened on Day 48 of the War in Ukraine</a> NYT: Russia is pouring troops and equipment into eastern Ukraine, presaging a bloody new chapter in the conflict. The U.S., Britain and Australia said they were investigating an unconfirmed report that Russia had deployed a chemical agent, after a handful of people in Mariupol fell ill. 
  <p class="updated_time"> 11:48 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/business-61090064?at_medium=RSS&at_campaign=KARANGA">US cryptocurrency expert jailed for helping North Korea evade sanctions</a> BBC: Virgil Griffith was sentenced to five years and three months in prison by a court in New York. 
- <p class="updated_time"> 11:33 PM CT, Apr. 12 </p> 
+ <p class="updated_time"> 11:45 PM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/russia-unleashes-new-attacks-overnight-on-ukraines-eastern-region-11649754356">Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight</a> WSJ: Putin Says Ukraine Peace Talks Hit Dead End, Vows to Continue Fight 
  <p class="updated_time"> 11:32 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/mimi-reinhard-dead.html">Mimi Reinhard, Who Typed Up Schindler’s List, Dies at 107</a> NYT: As a secretary in a forced-labor camp in World War II, she added her own name to the list of 1,100 Jews who would be spared from the gas chambers. 
@@ -21,13 +21,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/arts/design/morozov-collection-russia-sanctions.html">French Authorities Seize Oligarch’s Painting Before It Leaves for Russia</a> NYT: A work displayed in the blockbuster “Morozov Collection” exhibition will remain in France, and authorities have their eyes on another painting in the show. 
  <p class="updated_time"> 10:46 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61089043?at_medium=RSS&at_campaign=KARANGA">Ukraine: The critical fight for 'heart of this war' Mariupol</a> BBC: Russia could be on the brink of fully capturing the city after a devastating, six-week assault. 
+ <p class="updated_time"> 10:45 PM CT, Apr. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154">Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes</a> WSJ: Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes 
  <p class="updated_time"> 10:43 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/ukraine-war-children-parents.html">Ukrainian Parents Are Writing IDs on Their Children’s Bodies</a> NYT: A mother who wrote emergency contact information on her 2-year-old’s back has become a voice for countless Ukrainian parents forced to do the same. 
- <p class="updated_time"> 10:33 PM CT, Apr. 12 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-use-drones-facial-recognition-software-as-they-investigate-alleged-war-crimes-11649767154">Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes</a> WSJ: Ukrainians Use Drones, Facial-Recognition Software as They Probe Alleged War Crimes 
  <p class="updated_time"> 10:19 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61089853?at_medium=RSS&at_campaign=KARANGA">Tropical Storm Megi: Rescuers race to find survivors as death toll rises</a> BBC: Authorities say at least 53 people have been killed and the death toll is expected to rise. 
- <p class="updated_time"> 09:33 PM CT, Apr. 12 </p> 
+ <p class="updated_time"> 09:45 PM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/marine-le-pen-proposes-overhaul-of-french-legislative-electoral-systems-11649785720">Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems</a> WSJ: Marine Le Pen Proposes Overhaul of French Legislative, Electoral Systems 
  <p class="updated_time"> 09:28 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/61079356?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Was a cluster bomb used in station attack?</a> BBC: There's mounting evidence that these weapons, which can cause heavy civilian casualties, are in use. 
@@ -35,7 +35,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/11/world/asia/pakistan-shehbaz-sharif-prime-minister.html">Shehbaz Sharif Becomes Prime Minister of Pakistan</a> NYT: Mr. Sharif, whose family has been dogged by accusations of graft for decades, was selected by Pakistan’s Parliament at a time of deep political divisions and economic tumult. 
  <p class="updated_time"> 09:12 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61089619?at_medium=RSS&at_campaign=KARANGA">Brooklyn shooting: Person of interest named in New York subway attack</a> BBC: New York police say Frank R James, 62, rented a U-Haul van that may be linked to the shooting. 
- <p class="updated_time"> 08:33 PM CT, Apr. 12 </p> 
+ <p class="updated_time"> 08:45 PM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/at-least-20-dead-in-philippines-after-flooding-landslides-11649772798">At Least 20 Dead in Philippines After Flooding, Landslides</a> WSJ: At Least 20 Dead in Philippines After Flooding, Landslides 
  <p class="updated_time"> 08:20 PM CT, Apr. 12 </p> 
  <a href="https://www.npr.org/2022/04/12/1092506488/philippines-landslides-floods">Search efforts intensify as Philippine death toll from floods rises to nearly 60</a> NPR: A summer tropical depression unleashed days of pounding rain in the central and southern Philippines. Rescuers were struggling with mud and unstable heaps of earth and debris to find missing people. 
@@ -43,7 +43,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-61055319?at_medium=RSS&at_campaign=KARANGA">How facial recognition is identifying the dead in Ukraine</a> BBC: A controversial facial recognition platform has been used more than 1,000 times by Ukrainian officials. 
  <p class="updated_time"> 07:53 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61015970?at_medium=RSS&at_campaign=KARANGA">CPC: Criminal Procedure Identification Bill raises fears of surveillance in India</a> BBC: Critics worry about increased surveillance by law enforcement agencies under its expanded scope. 
- <p class="updated_time"> 07:33 PM CT, Apr. 12 </p> 
+ <p class="updated_time"> 07:45 PM CT, Apr. 12 </p> 
  <a href="https://www.wsj.com/articles/chinese-stockpile-food-as-covid-19-concerns-ripple-out-from-shanghai-11649771421">Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai</a> WSJ: Chinese Stockpile Food as Covid-19 Concerns Ripple Out From Shanghai 
  <p class="updated_time"> 07:27 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61066957?at_medium=RSS&at_campaign=KARANGA">Why Nigeria's historic dye pits in Kano risk closure</a> BBC: They once dressed "the blue men of the desert", but modern tastes and insecurity could spell their end. 
