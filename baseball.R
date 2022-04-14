@@ -525,6 +525,8 @@ standings_plot_mobile <- function(division) {
     theme(
       plot.background = element_rect(fill = "white", color = "white"),
       panel.grid = element_blank(),
+      plot.title = element_text(size = 6),
+      axis.text = element_text(size = 5),
       legend.title = element_blank(),
       axis.ticks.x = element_line(color = "grey60", size = 0.25),
       panel.grid.major.y = element_line(colour = "grey93"),
@@ -564,7 +566,7 @@ plot_grid(al_central_plot,al_east_plot,al_west_plot,
           ncol = 1)
 
 ggsave("plots/divisions_net_wins_mobile.png", 
-       width = 2.5, height = 7, dpi = 320)
+       width = 2, height = 7, dpi = 320)
 
 # wild card standings ----
 
