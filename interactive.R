@@ -55,6 +55,7 @@ fig <- ggplotly(p) %>% layout(
   xaxis = list(
     rangeslider = list(type = "date"))
 )
+fig <- config(fig, displayModeBar = FALSE)
 fig
 saveWidget(widget = fig, file = "interactive/initial_claims.html")
 
