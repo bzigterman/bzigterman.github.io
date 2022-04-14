@@ -57,5 +57,7 @@ fig <- ggplotly(p) %>% layout(
 )
 fig <- config(fig, displayModeBar = FALSE)
 fig
-saveWidget(widget = fig, file = "interactive/initial_claims.html")
+saveWidget(widget = fig, file = "interactive/initial_claims.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
 
