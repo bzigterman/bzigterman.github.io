@@ -9,40 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:31 AM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/2022/04/12/world/asia/sri-lanka-protests-gotabaya-rajapaksa.html">Sri Lanka’s President Gotabaya Rajapaksa Faces Huge Protest</a> NYT: Gotabaya Rajapaksa is used to silencing and discrediting his political opponents. But that’s harder to do this time. 
+ <p class="updated_time"> 02:17 AM CT, Apr. 14 </p> 
+ <a href="https://www.npr.org/2022/04/14/1092784937/sri-lanka-new-year-protests">Sri Lankan protesters mark new year near president's office</a> NPR: Protesters are occupying the entrance and surroundings of President Gotabaya Rajapaksa's office, holding him responsible for the country' economic crisis. 
+ <p class="updated_time"> 01:57 AM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/world/asia/tropical-storm-megi-philippines.html">After Tropical Storm Megi Hits Philippines, Dozens Dead or Missing</a> NYT: The first such storm of the year caused widespread flooding and landslides in the central part of the country. 
+ <p class="updated_time"> 01:39 AM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-military-success-years-of-nato-training-11649861339">The Secret of Ukraine’s Military Success: Years of NATO Training</a> WSJ: The Secret of Ukraine’s Military Success: Years of NATO Training 
+ <p class="updated_time"> 01:34 AM CT, Apr. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-61097114?at_medium=RSS&at_campaign=KARANGA">UK to sign deal to send asylum seekers to Rwanda for processing</a> BBC: The government's plan, set to be announced on Thursday, is criticised as "cruel" by a refugee charity. 
+ <p class="updated_time"> 01:30 AM CT, Apr. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61102065?at_medium=RSS&at_campaign=KARANGA">Patrick Lyoya: Video shows fatal US police shooting of black man</a> BBC: The shooting of an apparently unarmed black man on 4 April in Michigan has led to protests. 
+ <p class="updated_time"> 01:17 AM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/world/europe/britain-rwanda-immigrant-deal.html">U.K. May Send Asylum Seekers to Rwanda for Processing</a> NYT: The details of the plan will be made public on Thursday, but local news media have reported it may include shipping immigrants to the African country. 
+ <p class="updated_time"> 01:11 AM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/13/world/ukraine-russia-war-news">What Happened on Day 49 of the War in Ukraine</a> NYT: Outside Kyiv, the authorities exhumed bodies in communal graves, as Russian troops appeared to be massing for a new offensive in the country’s east. 
  <p class="updated_time"> 12:51 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/africa/south-africa-durban-floods.html">South Africa Floods: Death Toll Passes 250</a> NYT: The devastation fueled criticism that the government should have been better prepared for the weather after intense rain in 2017 and 2019. 
- <p class="updated_time"> 12:44 AM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/04/13/world/ukraine-russia-war-news">What Happened on Day 49 of the War in Ukraine</a> NYT: Outside Kyiv, the authorities exhumed bodies in communal graves, as Russian troops appeared to be massing for a new offensive in the country’s east. 
+ <p class="updated_time"> 12:39 AM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/u-s-expands-flow-of-intelligence-to-ukraine-as-white-house-sends-more-arms-11649868029">U.S. to Provide Ukraine With More Intelligence, Heavier Weapons to Fight Russia</a> WSJ: U.S. to Provide Ukraine With More Intelligence, Heavier Weapons to Fight Russia 
  <p class="updated_time"> 12:14 AM CT, Apr. 14 </p> 
- <a href="https://www.bbc.co.uk/news/business-61102495?at_medium=RSS&at_campaign=KARANGA">Sri Lanka debt default 'has begun', says leading rating agency</a> BBC: The country is scheduled to make $78m of interest payments on its international bonds on Monday. 
+ <a href="https://www.bbc.co.uk/news/business-61102495?at_medium=RSS&at_campaign=KARANGA">Sri Lanka debt default has begun, says rating agency</a> BBC: The country is scheduled to make $78m of interest payments on its international bonds on Monday. 
  <p class="updated_time"> 12:04 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/russian-warship-black-sea.html">Russian Warship Is ‘Seriously Damaged’ in Black Sea</a> NYT: Ukraine claimed it was the same vessel that was famously and obscenely told off by Ukrainian troops in February. 
  <p class="updated_time"> 12:04 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/us-official-kyiv-ukraine.html">U.S. Considers Sending a High-Level Official to Kyiv</a> NYT: No American official has publicly visited Ukraine since Russia launched its invasion in late February. 
  <p class="updated_time"> 11:58 PM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61101735?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Farmers stretched to the brink in Odesa</a> BBC: Farmers say that if the war continues, they will only last for one more harvest before going bust. 
- <p class="updated_time"> 11:54 PM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/ukraine-military-success-years-of-nato-training-11649861339">The Secret of Ukraine’s Military Success: Years of NATO Training</a> WSJ: The Secret of Ukraine’s Military Success: Years of NATO Training 
+ <p class="updated_time"> 11:39 PM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
  <p class="updated_time"> 11:29 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/asia/philippines-marcos-president-election.html">Ahead of Philippines Election, Ferdinand Marcos Jr. Rises</a> NYT: Ferdinand Marcos Jr. has spent his political career trying to rehabilitate the family name. As the front-runner in the upcoming election, he may finally succeed. 
- <p class="updated_time"> 11:14 PM CT, Apr. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61092334?at_medium=RSS&at_campaign=KARANGA">Durban floods: South Africa floods kill more than 300</a> BBC: KwaZulu-Natal authorities say the storm is one of the worst in South Africa's history. 
- <p class="updated_time"> 10:54 PM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/u-s-expands-flow-of-intelligence-to-ukraine-as-white-house-sends-more-arms-11649868029">U.S. to Provide Ukraine With More Intelligence, Heavier Weapons to Fight Russia</a> WSJ: U.S. to Provide Ukraine With More Intelligence, Heavier Weapons to Fight Russia 
- <p class="updated_time"> 10:30 PM CT, Apr. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-61097114?at_medium=RSS&at_campaign=KARANGA">UK to sign deal to send asylum seekers to Rwanda for processing</a> BBC: The government's plan, set to be announced on Thursday, is criticised as "cruel" by a refugee charity. 
- <p class="updated_time"> 09:54 PM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
+ <p class="updated_time"> 10:39 PM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/yellen-warns-nations-staying-neutral-in-russias-war-with-ukraine-11649879113">Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine</a> WSJ: Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine 
+ <p class="updated_time"> 09:39 PM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/russias-oil-industry-linchpin-of-economy-feels-sting-of-ukraine-war-disruptions-11649843249">Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions</a> WSJ: Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions 
  <p class="updated_time"> 08:58 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092655344/who-hhs-covid-public-health-emergency">COVID remains a public health emergency for now, says WHO and Biden administration </a> NPR: The WHO and the Biden administration extended the public health emergency for COVID-19, saying the virus is still considered a serious health threat. 
- <p class="updated_time"> 08:54 PM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/yellen-warns-nations-staying-neutral-in-russias-war-with-ukraine-11649879113">Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine</a> WSJ: Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine 
  <p class="updated_time"> 08:08 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/finland-sweden-nato-russia-ukraine.html">Despite Russian Warnings, Finland and Sweden Draw Closer to NATO</a> NYT: The invasion of Ukraine has heightened security fears, pushing even formally nonaligned countries toward the Western alliance. 
  <p class="updated_time"> 07:54 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092753563/flooding-climate-change-south-africa">Flooding kills at least 259 in South Africa</a> NPR: The death toll is expected to rise as search and rescue operations continue in South Africa's Durban area. The president blamed climate change for the flooding. 
- <p class="updated_time"> 07:54 PM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/russias-oil-industry-linchpin-of-economy-feels-sting-of-ukraine-war-disruptions-11649843249">Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions</a> WSJ: Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions 
  <p class="updated_time"> 07:49 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-russia-war-abuses.html">‘Clear Patterns’ of Russian Rights Abuses Found in Ukraine, Report Says</a> NYT: Momentum is building to try to bring war crimes charges tied to Russia’s invasion of Ukraine. 
  <p class="updated_time"> 07:34 PM CT, Apr. 13 </p> 
@@ -63,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/us/politics/biden-weapons-ukraine.html">Biden Announces $800 Million in Military Assistance for Ukraine</a> NYT: The United States will also step up intelligence sharing as Russia appears to be preparing an offensive in eastern Ukraine. 
  <p class="updated_time"> 04:53 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/viktor-medvedchuk-russia-ukraine.html">Captured Ukrainian Oligarch Was Figure in Russian Election Meddling Investigation</a> NYT: Viktor Medvedchuk, a Ukrainian politician close to President Vladimir V. Putin of Russia, was also a client of Paul Manafort, the Republican political consultant and Trump campaign chairman. 
- <p class="updated_time"> 04:30 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/world/europe/britain-rwanda-immigrant-deal.html">Britain Makes Migrant Pact With Rwanda</a> NYT: The details of the plan will be made public on Thursday, but local news media have reported it may include shipping immigrants to the African country for processing. 
  <p class="updated_time"> 04:29 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092686718/gov-abbotts-order-for-truck-inspections-is-all-an-unnecessary-pr-stunt-critics-s">Gov. Abbott's order for truck inspections is all an unnecessary PR stunt, critics say</a> NPR: Commercial trucks have been spending hours or days waiting to enter Texas from Mexico. Gov. Abbott ordered inspections of all trucks, saying it's needed to combat drug smuggling and human trafficking. 
  <p class="updated_time"> 04:28 PM CT, Apr. 13 </p> 
@@ -91,18 +97,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/world/europe/us-russian-troops-donbas-intelligence-sharing-ukraine.html">U.S. Expands Intelligence Sharing With Ukraine on Russian Forces in Donbas Region</a> NYT: Western officials say they expect the Kremlin to mount a major offensive in the Donbas, where Russian-backed separatists have been fighting Ukrainian forces for years. 
  <p class="updated_time"> 02:20 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092091451/ukrainians-have-arrived-at-the-u-s-mexico-border-by-the-thousands">Ukrainians have arrived at the U.S.-Mexico border by the thousands</a> NPR: Tijuana's border crossing with San Diego has become the main point of entry into the United States for Ukrainian refugees fleeing the war. 
- <p class="updated_time"> 01:41 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/world/asia/tropical-storm-megi-philippines.html">After Tropical Storm Megi Hits Philippines, Dozens Dead or Missing</a> NYT: The first such storm of the year caused widespread flooding and landslides in the central part of the country. 
  <p class="updated_time"> 01:31 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/johnson-partygate-rishi-sunak-fines.html">Johnson’s Cabinet Backs Him After ‘Partygate’ Fine</a> NYT: The support from the British prime minister’s party means he can likely ride out the immediate storm, but his troubles are not over, experts say. 
  <p class="updated_time"> 01:11 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-refugees-women.html">The Ukrainian Refugee Crisis Is a Women’s Crisis</a> NYT: A wave of displaced women and children into Poland is forcing the country to address its lack of protections for working women. 
- <p class="updated_time"> 12:58 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/12/world/asia/sri-lanka-protests-gotabaya-rajapaksa.html">Sri Lanka’s President Gotabaya Rajapaksa Faces Huge Protest</a> NYT: Gotabaya Rajapaksa is used to silencing and discrediting his political opponents. But that’s harder to do this time. 
  <p class="updated_time"> 12:49 PM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61096966?at_medium=RSS&at_campaign=KARANGA">Bodybuilding champion Cedric McMillan dead at 44</a> BBC: McMillan's is the third death of well-known bodybuilders in the US in the past year. 
- <p class="updated_time"> 12:20 PM CT, Apr. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61089039?at_medium=RSS&at_campaign=KARANGA">Ukraine: Fugitive Putin ally Medvedchuk arrested - security service</a> BBC: Viktor Medvedchuk, a Ukrainian tycoon who is accused of treason, was pictured in handcuffs. 
  <p class="updated_time"> 12:13 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/mariupol-hospital-attack-nurse.html">Nurse Recounts Attack on Mariupol Maternity Hospital</a> NYT: The attack last month was among the first signs that Ukraine was facing a merciless war. 
  <p class="updated_time"> 11:28 AM CT, Apr. 13 </p> 
@@ -153,8 +153,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/arts/design/morozov-collection-russia-sanctions.html">French Authorities Seize Oligarch’s Painting Before It Leaves for Russia</a> NYT: A work displayed in the blockbuster “Morozov Collection” exhibition will remain in France, and authorities have their eyes on another painting in the show. 
  <p class="updated_time"> 10:43 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/ukraine-war-children-parents.html">Ukrainian Parents Are Writing IDs on Their Children’s Bodies</a> NYT: A mother who wrote emergency contact information on her 2-year-old’s back has become a voice for countless Ukrainian parents forced to do the same. 
- <p class="updated_time"> 08:20 PM CT, Apr. 12 </p> 
- <a href="https://www.npr.org/2022/04/12/1092506488/philippines-landslides-floods">Search efforts intensify as Philippine death toll from floods rises to nearly 60</a> NPR: A summer tropical depression unleashed days of pounding rain in the central and southern Philippines. Rescuers were struggling with mud and unstable heaps of earth and debris to find missing people. 
  <p class="updated_time"> 07:53 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61015970?at_medium=RSS&at_campaign=KARANGA">CPC: Criminal Procedure Identification Bill raises fears of surveillance in India</a> BBC: Critics worry about increased surveillance by law enforcement agencies under its expanded scope. 
  <p class="updated_time"> 07:27 PM CT, Apr. 12 </p> 
