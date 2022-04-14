@@ -9,52 +9,58 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:01 AM CT, Apr. 14 </p> 
+ <p class="updated_time"> 04:30 AM CT, Apr. 14 </p> 
+ <a href="https://www.npr.org/2022/04/14/1092677483/brittney-griner-russia-detention-wnba-nba-pay-gap">What Brittney Griner's detention in Russia tells us about basketball's gender pay gap</a> NPR: "The reality is, she's over there because of a gender issue ― pay inequity," the head of the WNBA's players union said this week about the basketball star who's been detained in Russia since February. 
+ <p class="updated_time"> 04:25 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-61097114?at_medium=RSS&at_campaign=KARANGA">UK to give asylum seekers one-way ticket to Rwanda</a> BBC: Some asylum seekers who arrive on small boats will be sent to the country as part of a £120m trial. 
+ <p class="updated_time"> 04:20 AM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/2022/04/14/world/asia/shanghais-food-crisis-prompts-residents-in-beijing-to-stockpile-supplies.html">Shanghai’s food crisis prompts residents in Beijing to stockpile supplies.</a> NYT: “Things that happened in Shanghai made me panic,” said Li Lilin, a real estate agent in Beijing, adding, “I’m just terrified of starving to death.” 
+ <p class="updated_time"> 04:13 AM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/2022/04/14/world/europe/uk-rwanda-asylum-seekers-processing.html">U.K. Plans to Send Asylum Seekers to Rwanda for Processing</a> NYT: Some people seeking refuge in Britain would be flown thousands of miles to the central African country, a significant hardening of migration policy. 
  <p class="updated_time"> 04:00 AM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092446376/how-the-late-jazz-great-chick-corea-is-being-remembered-in-concert">How the late jazz great Chick Corea is being remembered — in concert</a> NPR: Chick Corea loved to collaborate. His former bandmates are honoring his memory with two star-studded concerts. 
  <p class="updated_time"> 04:00 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/ukraine-russia-arms-nato-s300-air-defense.html">A Soviet-Era Air Defense System Arrives in Ukraine From Slovakia</a> NYT: Encouraged by the United States, Slovakia “donated” a bulky but effective S-300, hoping to challenge Russian domination of the skies in the war next door. 
  <p class="updated_time"> 04:00 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/africa/france-macron-africa-colonies.html">Former French Colonies in Africa Demand a Reset</a> NYT: Decades after independence, many African countries are increasingly troubled by the ongoing influence of their former colonial power. 
- <p class="updated_time"> 03:12 AM CT, Apr. 14 </p> 
+ <p class="updated_time"> 03:32 AM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/ukraine-military-success-years-of-nato-training-11649861339">The Secret of Ukraine’s Military Success: Years of NATO Training</a> WSJ: The Secret of Ukraine’s Military Success: Years of NATO Training 
  <p class="updated_time"> 03:03 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61103927?at_medium=RSS&at_campaign=KARANGA">Russian warship Moskva: What do we know?</a> BBC: Ukraine claims to have fired missiles at the criuser, Russia says the damage was caused by a fire. 
  <p class="updated_time"> 02:46 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/04/13/world/ukraine-russia-war-news">What Happened on Day 49 of the War in Ukraine</a> NYT: Outside Kyiv, the authorities exhumed bodies in communal graves, as Russian troops appeared to be massing for a new offensive in the country’s east. 
+ <p class="updated_time"> 02:32 AM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/u-s-expands-flow-of-intelligence-to-ukraine-as-white-house-sends-more-arms-11649868029">U.S. to Provide Ukraine With More Intelligence, Heavier Weapons to Fight Russia</a> WSJ: U.S. to Provide Ukraine With More Intelligence, Heavier Weapons to Fight Russia 
  <p class="updated_time"> 02:31 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/asia/sri-lanka-protests-gotabaya-rajapaksa.html">Sri Lanka’s President Gotabaya Rajapaksa Faces Huge Protest</a> NYT: Gotabaya Rajapaksa is used to silencing and discrediting his political opponents. But that’s harder to do this time. 
  <p class="updated_time"> 02:17 AM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092784937/sri-lanka-new-year-protests">Sri Lankan protesters mark new year near president's office</a> NPR: Protesters are occupying the entrance and surroundings of President Gotabaya Rajapaksa's office, holding him responsible for the country' economic crisis. 
- <p class="updated_time"> 02:12 AM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/u-s-expands-flow-of-intelligence-to-ukraine-as-white-house-sends-more-arms-11649868029">U.S. to Provide Ukraine With More Intelligence, Heavier Weapons to Fight Russia</a> WSJ: U.S. to Provide Ukraine With More Intelligence, Heavier Weapons to Fight Russia 
  <p class="updated_time"> 02:01 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61083959?at_medium=RSS&at_campaign=KARANGA">Somalia's elections - where the people don't vote</a> BBC: Somalia's new MPs are due to be sworn in following an election in which the people did not vote. 
  <p class="updated_time"> 01:57 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/asia/tropical-storm-megi-philippines.html">After Tropical Storm Megi Hits Philippines, Dozens Dead or Missing</a> NYT: The first such storm of the year caused widespread flooding and landslides in the central part of the country. 
+ <p class="updated_time"> 01:32 AM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
  <p class="updated_time"> 01:30 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61102065?at_medium=RSS&at_campaign=KARANGA">Patrick Lyoya: Video shows fatal US police shooting of black man</a> BBC: The shooting of an apparently unarmed black man on 4 April in Michigan has led to protests. 
  <p class="updated_time"> 01:17 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/britain-rwanda-immigrant-deal.html">U.K. May Send Asylum Seekers to Rwanda for Processing</a> NYT: The details of the plan will be made public on Thursday, but local news media have reported it may include shipping immigrants to the African country. 
- <p class="updated_time"> 01:12 AM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
  <p class="updated_time"> 12:51 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/africa/south-africa-durban-floods.html">South Africa Floods: Death Toll Passes 250</a> NYT: The devastation fueled criticism that the government should have been better prepared for the weather after intense rain in 2017 and 2019. 
+ <p class="updated_time"> 12:32 AM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/yellen-warns-nations-staying-neutral-in-russias-war-with-ukraine-11649879113">Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine</a> WSJ: Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine 
  <p class="updated_time"> 12:14 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-61102495?at_medium=RSS&at_campaign=KARANGA">Sri Lanka debt default has begun, says rating agency</a> BBC: The country is scheduled to make $78m of interest payments on its international bonds on Monday. 
- <p class="updated_time"> 12:12 AM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/yellen-warns-nations-staying-neutral-in-russias-war-with-ukraine-11649879113">Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine</a> WSJ: Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine 
  <p class="updated_time"> 12:04 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/russian-warship-black-sea.html">Russian Warship Is ‘Seriously Damaged’ in Black Sea</a> NYT: Ukraine claimed it was the same vessel that was famously and obscenely told off by Ukrainian troops in February. 
  <p class="updated_time"> 12:04 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/us-official-kyiv-ukraine.html">U.S. Considers Sending a High-Level Official to Kyiv</a> NYT: No American official has publicly visited Ukraine since Russia launched its invasion in late February. 
  <p class="updated_time"> 11:58 PM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61101735?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Farmers stretched to the brink in Odesa</a> BBC: Farmers say that if the war continues, they will only last for one more harvest before going bust. 
+ <p class="updated_time"> 11:32 PM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/russias-oil-industry-linchpin-of-economy-feels-sting-of-ukraine-war-disruptions-11649843249">Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions</a> WSJ: Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions 
  <p class="updated_time"> 11:29 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/asia/philippines-marcos-president-election.html">Ahead of Philippines Election, Ferdinand Marcos Jr. Rises</a> NYT: Ferdinand Marcos Jr. has spent his political career trying to rehabilitate the family name. As the front-runner in the upcoming election, he may finally succeed. 
- <p class="updated_time"> 11:12 PM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/russias-oil-industry-linchpin-of-economy-feels-sting-of-ukraine-war-disruptions-11649843249">Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions</a> WSJ: Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions 
  <p class="updated_time"> 08:58 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092655344/who-hhs-covid-public-health-emergency">COVID remains a public health emergency for now, says WHO and Biden administration </a> NPR: The WHO and the Biden administration extended the public health emergency for COVID-19, saying the virus is still considered a serious health threat. 
  <p class="updated_time"> 08:08 PM CT, Apr. 13 </p> 
@@ -147,8 +153,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/13/1092324328/images-of-zelenskyy-show-the-physical-toll-that-trauma-and-stress-can-have-on-th">Images of Zelenskyy show the physical toll that trauma and stress can have on the body</a> NPR: Health experts told NPR that long-term exposure to trauma and stress — like that of the war in Ukraine — can impact a person's sleep, memory, mood and physical appearance. 
  <p class="updated_time"> 04:49 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/ukraine-viktor-medvedchuk-putin-ally.html">Ukrainian Officers Said to Detain Putin Ally Viktor Medvedchuk</a> NYT: Viktor Medvedchuk, a wealthy Ukrainian politician seen as the Kremlin’s main agent of influence in Ukraine in recent years, had disappeared shortly after the start of the war. 
- <p class="updated_time"> 04:08 AM CT, Apr. 13 </p> 
- <a href="https://www.npr.org/2022/04/13/1092526223/australian-minister-tries-to-end-solomons-china-pact">Australian minister tries to end Solomons-China pact</a> NPR: Under the Solomon Islands' terms of a draft agreement, China could send police, military personnel and other armed forces to the Solomon Islands "to assist in maintaining social order." 
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-schools-war.html">War in Ukraine Disrupts Education of Millions of Children</a> NYT: The country’s teachers are doing their best to provide lessons for the millions of school-age children whose education has been interrupted. 
  <p class="updated_time"> 03:53 AM CT, Apr. 13 </p> 
@@ -199,12 +203,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/11/world/europe/ukraine-russia-war-putin.html">Far From Defeated, Putin Intends to Escalate War in Ukraine</a> NYT: Austria’s chancellor said after meeting with Mr. Putin that the Russian president had “totally adopted the logic of war.” 
  <p class="updated_time"> 07:59 PM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-61074576?at_medium=RSS&at_campaign=KARANGA">Ukraine: Our parents wouldn’t leave Bucha, then Russia moved in</a> BBC: Sisters Lesia and Galya lost touch with their parents, who did not want to flee their hometown, Bucha. 
- <p class="updated_time"> 07:26 PM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/world/middleeast/ukraine-lviv-refugees.html">No More ‘Have a Nice Day’: Lviv Learns to Live With War</a> NYT: Ukraine’s cultural capital, the western city of Lviv, is trying to adjust to being on the fringes of war and at the center of massive displacement. 
  <p class="updated_time"> 05:17 PM CT, Apr. 11 </p> 
  <a href="https://www.nytimes.com/2022/04/11/us/politics/biden-modi-india-russia-oil.html">Biden Urges Modi Not to Increase India’s Reliance on Russian Oil and Gas</a> NYT: The United States hopes to convince India to come off the fence over Russia’s invasion of Ukraine, but New Delhi and Moscow have deep historic ties. 
- <p class="updated_time"> 05:10 PM CT, Apr. 11 </p> 
- <a href="https://www.nytimes.com/2022/04/11/arts/music/ukraine-benefit-musicaeterna-currentzis.html">Ukraine Benefit Featuring Russian Ensemble Is Canceled in Vienna</a> NYT: Organizers said they canceled a performance by MusicAeterna after the Ukrainian ambassador in Austria expressed concern about featuring Russian artists. 
  <p class="updated_time"> 11:26 AM CT, Apr. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61028866?at_medium=RSS&at_campaign=KARANGA">Hidden wealth of one of Putin’s 'inner circle' revealed</a> BBC: Leaked documents show how sanctioned oligarch Suleiman Kerimov used shell companies to move $700m. 
 
@@ -227,7 +227,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:19 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/us/politics/mark-meadows-vote-north-carolina.html">North Carolina Drops Mark Meadows From Voter Roll Amid Fraud Inquiry</a> NYT: The state is investigating whether Mr. Meadows cast a legal vote in 2020, after reports questioned if he lived at the address listed on his voter registration. 
  <p class="updated_time"> 09:08 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/us/politics/justice-dept-policing.html">Justice Dept. Moves to Curb Police Abuses in D.C. and Massachusetts</a> NYT: The changes come as the Biden administration has struggled to make meaningful progress on a vow to crack down on police abuses. 
+ <a href="https://www.nytimes.com/2022/04/13/us/politics/justice-dept-policing.html">Justice Dept. Moves to Curb Police Abuses in Washington, D.C., and Massachusetts</a> NYT: The changes come as the Biden administration has struggled to make meaningful progress on a vow to crack down on police abuses. 
  <p class="updated_time"> 09:06 PM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/trump-oz-endorsement-fallout-00025209">Trumpworld scrambles to contain Oz endorsement fallout</a> Politico: A few MAGA luminaries will be hitting the trail in Pennsylvania. It remains unclear if Trump will too. 
  <p class="updated_time"> 08:44 PM CT, Apr. 13 </p> 
@@ -327,7 +327,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:23 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/jan-6-capitol-riot-sullivan-trump.html">In Call Before Jan. 6 Riot, a Plea to ‘Descend on the Capitol’</a> NYT: Days before Jan. 6, a onetime aide to Roger J. Stone Jr. told Trump backers to make lawmakers meeting to finalize the 2020 election results feel that “people are breathing down their necks.” 
  <p class="updated_time"> 02:54 PM CT, Apr. 12 </p> 
- <a href="https://www.nytimes.com/2022/04/12/us/politics/gop-joseph-hatchett-florida.html">House G.O.P., Banding Together, Kills Bid to Honor Pioneering Black Judge</a> NYT: A right-wing congressman persuaded fellow Republicans to abruptly turn against a routine measure to name a federal courthouse in Florida for a Black State Supreme Court justice. 
+ <a href="https://www.nytimes.com/2022/04/12/us/politics/gop-joseph-hatchett-florida.html">House G.O.P. Kills Bid to Honor Pioneering Black Judge</a> NYT: A right-wing congressman persuaded fellow Republicans to abruptly turn against a routine measure to name a federal courthouse in Florida for a Black State Supreme Court justice. 
  <p class="updated_time"> 02:15 PM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/emilys-list-poll-progressive-candidate-pennsylvania-house-primary-00024702">EMILY's List poll: Progressive candidate opens big lead in Pennsylvania House primary</a> Politico: First elected to the state House in 2018, state Rep. Summer Lee is a lawyer who supports a $15 minimum wage, the Green New Deal and Medicare for All. 
  <p class="updated_time"> 12:22 PM CT, Apr. 12 </p> 
