@@ -242,49 +242,7 @@ idph_hosp <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COV
   mutate(Date = ymd(mdy_hms(ReportDate))) %>%
   select(Date, TotalInUseBedsCOVID)
 
-### set variables ----
-il_hosp <- format(round(signif(tail(idph_hosp$TotalInUseBedsCOVID,1),3)),big.mark=",")
-il_avg_new_deaths <- format(round(signif(tail(idph_cases_il$avg_new_deaths,1),3)),big.mark=",")
-il_avg_new_cases <- format(round(signif(tail(idph_cases_il$avg_new_cases,1),3)),big.mark=",")
-il_pct_fully_vaccinated <- round(100*tail(idph_vax_il$PctFullyVaccinatedPopulation,1), digits = 1)
-il_avg_new_vaccine_doses <- format(round(signif(tail(idph_vax_il$AdministeredCountRollAvg,1),3)),big.mark=",")
-il_weekday <- wday(tail(idph_cases_il$Date,1), label = TRUE, abbr = FALSE)
-il_month_ago_avg_new_deaths <- format(round(signif(tail(lag(idph_cases_il$avg_new_deaths, 14),1),3)),big.mark=",")
-il_month_ago_hosp <- format(round(signif(tail(lag(idph_hosp$TotalInUseBedsCOVID, 13),1),3)),big.mark=",")
-il_month_ago_cases <- format(round(signif(tail(lag(idph_cases_il$avg_new_cases, 14),1),3)),big.mark=",")
-il_month_ago_vaccinated <- round(100*tail(lag(idph_vax_il$PctFullyVaccinatedPopulation, 13),1), digits = 1)
-il_month_ago_new_doses <- format(round(signif(tail(lag(idph_vax_il$AdministeredCountRollAvg, 13),1),3)),big.mark=",")
 
-il_case_pct_change <- round(100*(tail(idph_cases_il$avg_new_cases,1)-tail(lag(idph_cases_il$avg_new_cases, 14),1))/tail(lag(idph_cases_il$avg_new_cases, 14),1), digits = 0)
-il_death_pct_change <- round(100*(tail(idph_cases_il$avg_new_deaths,1)-tail(lag(idph_cases_il$avg_new_deaths, 14),1))/tail(lag(idph_cases_il$avg_new_deaths, 14),1), digits = 0)
-il_hosp_pct_change <- round(100*(tail(idph_hosp$TotalInUseBedsCOVID,1)-tail(lag(idph_hosp$TotalInUseBedsCOVID, 13),1))/tail(lag(idph_hosp$TotalInUseBedsCOVID, 13),1), digits = 0)
-
-il_case_pct_change_text <- 
-  if (il_case_pct_change > 0) { 
-    paste("+",il_case_pct_change,"%↑", sep = "")
-  } else if (il_case_pct_change == 0) { 
-    paste("",il_case_pct_change,"%→", sep = "")
-  } else {
-    paste("",il_case_pct_change,"%↓", sep = "")
-  }
-
-il_death_pct_change_text <- 
-  if (il_death_pct_change > 0) { 
-    paste("+",il_death_pct_change,"%↑", sep = "")
-  } else if (il_death_pct_change == 0) {
-    paste("",il_death_pct_change,"%→", sep = "")
-  } else { 
-    paste("",il_death_pct_change,"%↓", sep = "")
-  }
-
-il_hosp_pct_change_text <- 
-  if (il_hosp_pct_change > 0) { 
-    paste("+",il_hosp_pct_change,"%↑", sep = "")
-  } else if (il_hosp_pct_change == 0) {
-    paste("",il_hosp_pct_change,"%→", sep = "")
-  } else { 
-    paste("",il_hosp_pct_change,"%↓", sep = "")
-  }
 
 
 cdc_il_data_url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=us_trend_by_IL"
@@ -318,7 +276,8 @@ cdc_il_joined <- full_join(cdc_il_new_cases, cdc_il_vax) %>%
   full_join(cdc_il_hosp) %>%
   full_join(cdc_il_new_deaths) %>%
   select(date, daily_vaccinations,
-         avg_new_deaths, avg_new_cases, hosp_patients)
+         avg_new_deaths, avg_new_cases, hosp_patients) %>%
+  fill(hosp_patients,.direction = "down")
 
 cdc_il_longer <- cdc_il_joined %>%
   pivot_longer(!date,
@@ -333,7 +292,50 @@ cdc_il_longer <- cdc_il_joined %>%
                             mday(date))) 
 
 
+
+### set variables ----
+il_hosp <- format(round(signif(tail(cdc_il_joined$hosp_patients,1),3)),big.mark=",") 
+il_avg_new_deaths <- format(round(signif(tail(cdc_il_joined$avg_new_deaths,1),3)),big.mark=",")
+il_avg_new_cases <- format(round(signif(tail(cdc_il_joined$avg_new_cases,1),3)),big.mark=",")
+# il_pct_fully_vaccinated <- round(100*tail(idph_vax_il$PctFullyVaccinatedPopulation,1), digits = 1)
+il_avg_new_vaccine_doses <- format(round(signif(tail(cdc_il_joined$daily_vaccinations,1),3)),big.mark=",")
 il_weekday <- wday(tail(cdc_il_joined$date,1), label = TRUE, abbr = FALSE)
+il_month_ago_avg_new_deaths <- format(round(signif(tail(lag(cdc_il_joined$avg_new_deaths, 14),1),3)),big.mark=",")
+il_month_ago_hosp <- format(round(signif(tail(lag(cdc_il_joined$hosp_patients, 13),1),3)),big.mark=",")
+il_month_ago_cases <- format(round(signif(tail(lag(cdc_il_joined$avg_new_cases, 14),1),3)),big.mark=",")
+# il_month_ago_vaccinated <- round(100*tail(lag(idph_vax_il$PctFullyVaccinatedPopulation, 13),1), digits = 1)
+il_month_ago_new_doses <- format(round(signif(tail(lag(cdc_il_joined$daily_vaccinations, 13),1),3)),big.mark=",")
+
+il_case_pct_change <- round(100*(tail(cdc_il_joined$avg_new_cases,1)-tail(lag(cdc_il_joined$avg_new_cases, 14),1))/tail(lag(cdc_il_joined$avg_new_cases, 14),1), digits = 0)
+il_death_pct_change <- round(100*(tail(cdc_il_joined$avg_new_deaths,1)-tail(lag(cdc_il_joined$avg_new_deaths, 14),1))/tail(lag(cdc_il_joined$avg_new_deaths, 14),1), digits = 0)
+il_hosp_pct_change <- round(100*(tail(cdc_il_joined$hosp_patients,1)-tail(lag(cdc_il_joined$hosp_patients, 13),1))/tail(lag(cdc_il_joined$hosp_patients, 13),1), digits = 0)
+
+il_case_pct_change_text <- 
+  if (il_case_pct_change > 0) { 
+    paste("+",il_case_pct_change,"%↑", sep = "")
+  } else if (il_case_pct_change == 0) { 
+    paste("",il_case_pct_change,"%→", sep = "")
+  } else {
+    paste("",il_case_pct_change,"%↓", sep = "")
+  }
+
+il_death_pct_change_text <- 
+  if (il_death_pct_change > 0) { 
+    paste("+",il_death_pct_change,"%↑", sep = "")
+  } else if (il_death_pct_change == 0) {
+    paste("",il_death_pct_change,"%→", sep = "")
+  } else { 
+    paste("",il_death_pct_change,"%↓", sep = "")
+  }
+
+il_hosp_pct_change_text <- 
+  if (il_hosp_pct_change > 0) { 
+    paste("+",il_hosp_pct_change,"%↑", sep = "")
+  } else if (il_hosp_pct_change == 0) {
+    paste("",il_hosp_pct_change,"%→", sep = "")
+  } else { 
+    paste("",il_hosp_pct_change,"%↓", sep = "")
+  }
 
 ### table ----
 
@@ -963,7 +965,7 @@ combined_cases <- full_join(idph_cases_champaign, idph_cases_il) %>%
 ### set variables ----
 acceleration_weekday <- wday(tail(jhu_new_cases_world$Date,1), label = TRUE, abbr = FALSE)
 acceleration_champaign <- round(100*tail(idph_cases_champaign$pct_change_new_cases,1), digits = 0)
-acceleration_il <- round(100*tail(idph_cases_il$pct_change_new_cases,1), digits = 0)
+acceleration_il <- il_case_pct_change
 acceleration_usa <- round(100*tail(jhu_new_cases_usa$pct_change_new_cases,1), digits = 0)
 acceleration_world <- round(100*tail(jhu_new_cases_world$pct_change_new_cases,1), digits = 0)
 
