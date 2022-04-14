@@ -9,40 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:51 AM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/2022/04/13/world/africa/south-africa-durban-floods.html">South Africa Floods: Death Toll Passes 250</a> NYT: The devastation fueled criticism that the government should have been better prepared for the weather after intense rain in 2017 and 2019. 
+ <p class="updated_time"> 12:44 AM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/13/world/ukraine-russia-war-news">What Happened on Day 49 of the War in Ukraine</a> NYT: Outside Kyiv, the authorities exhumed bodies in communal graves, as Russian troops appeared to be massing for a new offensive in the country’s east. 
  <p class="updated_time"> 12:14 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-61102495?at_medium=RSS&at_campaign=KARANGA">Sri Lanka debt default 'has begun', says leading rating agency</a> BBC: The country is scheduled to make $78m of interest payments on its international bonds on Monday. 
- <p class="updated_time"> 12:04 AM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/04/13/world/ukraine-russia-war-news">What Happened on Day 49 of the War in Ukraine</a> NYT: Outside Kyiv, the authorities exhumed bodies in communal graves, as Russian troops appeared to be massing for a new offensive in the country’s east. 
  <p class="updated_time"> 12:04 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/russian-warship-black-sea.html">Russian Warship Is ‘Seriously Damaged’ in Black Sea</a> NYT: Ukraine claimed it was the same vessel that was famously and obscenely told off by Ukrainian troops in February. 
  <p class="updated_time"> 12:04 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/us-official-kyiv-ukraine.html">U.S. Considers Sending a High-Level Official to Kyiv</a> NYT: No American official has publicly visited Ukraine since Russia launched its invasion in late February. 
  <p class="updated_time"> 11:58 PM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61101735?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Farmers stretched to the brink in Odesa</a> BBC: Farmers say that if the war continues, they will only last for one more harvest before going bust. 
- <p class="updated_time"> 11:42 PM CT, Apr. 13 </p> 
+ <p class="updated_time"> 11:54 PM CT, Apr. 13 </p> 
  <a href="https://www.wsj.com/articles/ukraine-military-success-years-of-nato-training-11649861339">The Secret of Ukraine’s Military Success: Years of NATO Training</a> WSJ: The Secret of Ukraine’s Military Success: Years of NATO Training 
  <p class="updated_time"> 11:29 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/asia/philippines-marcos-president-election.html">Ahead of Philippines Election, Ferdinand Marcos Jr. Rises</a> NYT: Ferdinand Marcos Jr. has spent his political career trying to rehabilitate the family name. As the front-runner in the upcoming election, he may finally succeed. 
  <p class="updated_time"> 11:14 PM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61092334?at_medium=RSS&at_campaign=KARANGA">Durban floods: South Africa floods kill more than 300</a> BBC: KwaZulu-Natal authorities say the storm is one of the worst in South Africa's history. 
- <p class="updated_time"> 10:42 PM CT, Apr. 13 </p> 
+ <p class="updated_time"> 10:54 PM CT, Apr. 13 </p> 
  <a href="https://www.wsj.com/articles/u-s-expands-flow-of-intelligence-to-ukraine-as-white-house-sends-more-arms-11649868029">U.S. to Provide Ukraine With More Intelligence, Heavier Weapons to Fight Russia</a> WSJ: U.S. to Provide Ukraine With More Intelligence, Heavier Weapons to Fight Russia 
  <p class="updated_time"> 10:30 PM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-61097114?at_medium=RSS&at_campaign=KARANGA">UK to sign deal to send asylum seekers to Rwanda for processing</a> BBC: The government's plan, set to be announced on Thursday, is criticised as "cruel" by a refugee charity. 
- <p class="updated_time"> 09:42 PM CT, Apr. 13 </p> 
+ <p class="updated_time"> 09:54 PM CT, Apr. 13 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
  <p class="updated_time"> 08:58 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092655344/who-hhs-covid-public-health-emergency">COVID remains a public health emergency for now, says WHO and Biden administration </a> NPR: The WHO and the Biden administration extended the public health emergency for COVID-19, saying the virus is still considered a serious health threat. 
- <p class="updated_time"> 08:42 PM CT, Apr. 13 </p> 
+ <p class="updated_time"> 08:54 PM CT, Apr. 13 </p> 
  <a href="https://www.wsj.com/articles/yellen-warns-nations-staying-neutral-in-russias-war-with-ukraine-11649879113">Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine</a> WSJ: Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine 
  <p class="updated_time"> 08:08 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/finland-sweden-nato-russia-ukraine.html">Despite Russian Warnings, Finland and Sweden Draw Closer to NATO</a> NYT: The invasion of Ukraine has heightened security fears, pushing even formally nonaligned countries toward the Western alliance. 
  <p class="updated_time"> 07:54 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092753563/flooding-climate-change-south-africa">Flooding kills at least 259 in South Africa</a> NPR: The death toll is expected to rise as search and rescue operations continue in South Africa's Durban area. The president blamed climate change for the flooding. 
+ <p class="updated_time"> 07:54 PM CT, Apr. 13 </p> 
+ <a href="https://www.wsj.com/articles/russias-oil-industry-linchpin-of-economy-feels-sting-of-ukraine-war-disruptions-11649843249">Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions</a> WSJ: Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions 
  <p class="updated_time"> 07:49 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-russia-war-abuses.html">‘Clear Patterns’ of Russian Rights Abuses Found in Ukraine, Report Says</a> NYT: Momentum is building to try to bring war crimes charges tied to Russia’s invasion of Ukraine. 
- <p class="updated_time"> 07:42 PM CT, Apr. 13 </p> 
- <a href="https://www.wsj.com/articles/russias-oil-industry-linchpin-of-economy-feels-sting-of-ukraine-war-disruptions-11649843249">Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions</a> WSJ: Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions 
  <p class="updated_time"> 07:34 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/germany-covid-vaccine-strategy.html">How One German State Beat the Odds on Covid Vaccinations</a> NYT: Bremen — Germany’s smallest state — managed its vaccination campaign better than any other place in Germany. It succeeded by activating community networks. 
  <p class="updated_time"> 07:12 PM CT, Apr. 13 </p> 
@@ -67,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/13/1092686718/gov-abbotts-order-for-truck-inspections-is-all-an-unnecessary-pr-stunt-critics-s">Gov. Abbott's order for truck inspections is all an unnecessary PR stunt, critics say</a> NPR: Commercial trucks have been spending hours or days waiting to enter Texas from Mexico. Gov. Abbott ordered inspections of all trucks, saying it's needed to combat drug smuggling and human trafficking. 
  <p class="updated_time"> 04:28 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/le-pen-nato-russia-germany.html">Le Pen Backs NATO-Russia Reconciliation and Reduced French Role in Alliance</a> NYT: Marine Le Pen, the far-right candidate for the French presidency, offered a worldview reminiscent of the Trump presidency. “No submission to an American protectorate on European soil,” she said. 
- <p class="updated_time"> 04:10 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/world/africa/south-africa-durban-floods.html">South Africa Floods: Death Toll Passes 250</a> NYT: The devastation fueled criticism that the government should have been better prepared for the weather after intense rain in 2017 and 2019. 
  <p class="updated_time"> 03:58 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092539727/russia-ukraine-war-what-happened-today-april-13">Russia-Ukraine war: What happened today (April 13)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:53 PM CT, Apr. 13 </p> 
@@ -95,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/world/asia/tropical-storm-megi-philippines.html">After Tropical Storm Megi Hits Philippines, Dozens Dead or Missing</a> NYT: The first such storm of the year caused widespread flooding and landslides in the central part of the country. 
  <p class="updated_time"> 01:31 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/johnson-partygate-rishi-sunak-fines.html">Johnson’s Cabinet Backs Him After ‘Partygate’ Fine</a> NYT: The support from the British prime minister’s party means he can likely ride out the immediate storm, but his troubles are not over, experts say. 
- <p class="updated_time"> 01:17 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/world/europe/russia-land-mines-ukraine.html">Russians Planted Thousands of Land Mines During Retreat From Kyiv, Ukrainians Say</a> NYT: Departing Russian soldiers have laced large swaths of the country with buried mines and jury-rigged bombs,  some hidden inside homes, to terrorize returning civilians. 
  <p class="updated_time"> 01:11 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-refugees-women.html">The Ukrainian Refugee Crisis Is a Women’s Crisis</a> NYT: A wave of displaced women and children into Poland is forcing the country to address its lack of protections for working women. 
  <p class="updated_time"> 12:58 PM CT, Apr. 13 </p> 
@@ -177,6 +175,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/world/europe/boris-johnson-partygate-fines-rishi-sunak.html">Boris Johnson Fined for Breaking U.K. Lockdown Rules</a> NYT: The British prime minister had seemed to turn the “partygate” tide with his handling of Ukraine. Then came the announcement that he broke the law. 
  <p class="updated_time"> 02:12 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/arts/design/turner-prize-phillipson-pollard.html">Black Artists Lead Turner Prize Shortlist</a> NYT: This year’s nominees include a sculptor, a photographer and an artist who created a 31-foot statue of a dollop of whipped cream, with a fly on it. 
+ <p class="updated_time"> 02:03 PM CT, Apr. 12 </p> 
+ <a href="https://www.nytimes.com/2022/04/11/us/philadelphia-indoor-mask-mandate.html">City of Philadelphia Will Reinstate an Indoor Mask Mandate</a> NYT: The move comes a little more than a month after the city lifted it. 
  <p class="updated_time"> 12:07 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61073897?at_medium=RSS&at_campaign=KARANGA">Grieving Russians can't believe talk of war crimes in Ukraine</a> BBC: "They'll accuse Russia of anything," says the widow of a Russian soldier killed in Ukraine. 
  <p class="updated_time"> 11:00 AM CT, Apr. 12 </p> 
