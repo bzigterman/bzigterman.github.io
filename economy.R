@@ -993,7 +993,7 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 
 ## United States
 
-<iframe src=\"interactive/initial_claims.html\" width=\"100%\" height=\"300\"> 
+<iframe src=\"interactive/initial_claims\" width=\"100%\" height=\"300\"> 
 </iframe>
 
 [![Initial Claims]({{ site.baseurl }}/plots/initial_claims.png)](https://fred.stlouisfed.org/series/ICSA)
