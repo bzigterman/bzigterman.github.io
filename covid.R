@@ -451,24 +451,6 @@ better_il_table_html <- gsub("[\"][a-z]{10}",
 
 ### text ----
 
-il_text <- paste(
-  "As of ",il_weekday," in Illinois (vs. two weeks ago):
-  
-",
-"- Average new cases: ",il_avg_new_cases," (vs. ",il_month_ago_cases,") ",il_case_pct_change_text,"
-",
-"- Hospitalized: ",il_hosp," (vs. ",il_month_ago_hosp,") ",il_hosp_pct_change_text,"
-",
-"- Average new deaths: ",il_avg_new_deaths," (vs. ",il_month_ago_avg_new_deaths,") ",il_death_pct_change_text,"
-",
-"- Percent of Illinois fully vaccinated: ",il_pct_fully_vaccinated,"% (vs. ",il_month_ago_vaccinated,"%)
-",
-"- Average new vaccine doses: ",il_avg_new_vaccine_doses," (vs. ",il_month_ago_new_doses,")",
-"
-",
-sep = ""
-)
-
 ## USA ----
 
 ### get data ----
