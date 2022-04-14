@@ -993,6 +993,9 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 
 ## United States
 
+<iframe src=\"/interactive/initial_claims.html\" width=\"100%\" height=\"300\" 
+</iframe>
+
 [![Initial Claims]({{ site.baseurl }}/plots/initial_claims.png)](https://fred.stlouisfed.org/series/ICSA)
 
 [![Unemployment Rate]({{ site.baseurl }}/plots/unemployment_rate.png)](https://fred.stlouisfed.org/series/UNRATE)

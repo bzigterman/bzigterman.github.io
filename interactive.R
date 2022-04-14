@@ -2,15 +2,10 @@ library(tidyverse)
 library(lubridate)
 library(scales)
 library(fredr)
-library(cowplot)
-library(ggforce)
-library(gt)
-library(gtExtras)
-library(zoo)
-library(rvest)
 library(plotly)
 library(htmlwidgets)
-
+library(rsconnect)
+library(shiny)
 
 fredr_set_key(Sys.getenv("FRED_API_KEY"))
 
