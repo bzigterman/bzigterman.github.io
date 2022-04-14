@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:24 PM CT, Apr. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61112787?at_medium=RSS&at_campaign=KARANGA">El Shafee Elsheikh: Guilty verdict for Islamic State jihadist</a> BBC: El Shafee Elsheikh is the highest profile IS fighter to stand trial in the US. 
+ <p class="updated_time"> 06:14 PM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/2022/04/14/climate/gina-mccarthy-climate-adviser.html">Gina McCarthy, Top Climate Adviser, Said to Step Down in Coming Months</a> NYT: McCarthy was tapped by President Biden to lead an ambitious domestic climate agenda. Associates say she is frustrated by the slow pace of progress. 
  <p class="updated_time"> 06:01 PM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61112864?at_medium=RSS&at_campaign=KARANGA">Brazil: Wild animals take to the streets in Rio de Janeiro</a> BBC: Videos of caimans and other wild animals in streets and houses are frequently surfacing in the city. 
  <p class="updated_time"> 06:01 PM CT, Apr. 14 </p> 
@@ -19,12 +23,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/04/14/world/ukraine-russia-war-news">Live Updates: Russian Warship Ukraine Claimed to Have Hit Has Sunk, Moscow Says</a> NYT: Ukraine says it hit the flagship of Russia’s Black Sea fleet with a missile strike. Russia says the ship was damaged by a fire and sank while being towed to port. E.U. leaders considered an oil ban despite its potential to increase energy prices around the bloc. 
  <p class="updated_time"> 05:37 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/poland-ukraine-holocaust-dispatch.html">On Poland-Ukraine Border, the Past Is Always Present. It’s Not Always Predictive.</a> NYT: For a Jewish reporter with Eastern European roots, one of the hardest challenges covering the war is reconciling the horrors of the Holocaust with the Poland and Ukraine of today. 
- <p class="updated_time"> 05:13 PM CT, Apr. 14 </p> 
+ <p class="updated_time"> 05:33 PM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914">Russia’s Black Sea Flagship Sinks After Ukraine Claims Missile Strike</a> WSJ: Russia’s Black Sea Flagship Sinks After Ukraine Claims Missile Strike 
  <p class="updated_time"> 04:51 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/barentsburg-norway-ukraine-war-russia.html">For Russians and Ukrainians in Norway, the War Has Deepened the Chill</a> NYT: The war and the comments of a Russian diplomat have strained relations on an archipelago in Norway where Russians, Ukrainians and Norwegians have lived peacefully for decades. 
  <p class="updated_time"> 04:45 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/movies/cannes-film-festival-lineup.html">David Cronenberg and Claire Denis Will Compete at Cannes Film Festival</a> NYT: Organizers announced a lineup of nearly 50 movies for the event’s 2022 edition, including 18 in the running for the top honor, the Palme d’Or. 
+ <p class="updated_time"> 04:33 PM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/anti-russia-alliance-is-missing-a-big-bloc-the-developing-world-11649950913">Anti-Russia Alliance Is Missing a Big Bloc: The Developing World</a> WSJ: Anti-Russia Alliance Is Missing a Big Bloc: The Developing World 
  <p class="updated_time"> 04:28 PM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61114843?at_medium=RSS&at_campaign=KARANGA">Russian warship Moskva has sunk - defence ministry</a> BBC: The warship sunk while being towed a day after it was reported damaged by fire or a Ukrainian missile strike. 
  <p class="updated_time"> 04:26 PM CT, Apr. 14 </p> 
@@ -33,12 +39,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/14/1092870449/russia-ukraine-war-what-happened-today-april-14">Russia-Ukraine war: What happened today (April 14)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:14 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092869771/interstellar-meteor-hit-earth-in-2014">The first known interstellar meteor hit Earth in 2014, U.S. officials say</a> NPR: The meteor crash-landed off the coast of Papua New Guinea in January 2014. 
- <p class="updated_time"> 04:13 PM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/anti-russia-alliance-is-missing-a-big-bloc-the-developing-world-11649950913">Anti-Russia Alliance Is Missing a Big Bloc: The Developing World</a> WSJ: Anti-Russia Alliance Is Missing a Big Bloc: The Developing World 
  <p class="updated_time"> 04:11 PM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61114768?at_medium=RSS&at_campaign=KARANGA">Depp and Heard marriage ended in 'mutual abuse', says therapist</a> BBC: A psychotherapist tells the court of a volatile dynamic between the couple during therapy sessions. 
  <p class="updated_time"> 03:56 PM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61112629?at_medium=RSS&at_campaign=KARANGA">Ukraine round up: Flagship Russian warship sinks</a> BBC: Russia's flagship Black Sea missile cruiser has sunk, while President Zelensky sits down with the BBC. 
+ <p class="updated_time"> 03:33 PM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/russia-warns-it-could-station-nuclear-forces-in-europe-if-finland-sweden-join-nato-11649958396">Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO</a> WSJ: Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO 
  <p class="updated_time"> 03:20 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092904546/more-russian-troops-and-artillery-head-into-eastern-ukraine">More Russian troops and artillery head into eastern Ukraine</a> NPR: Ukraine says it scored a direct hit on the flagship of Russia's Black Sea fleet. Meanwhile, Moscow is moving more troops, artillery and helicopters into eastern Ukraine ahead of an expected offensive. 
  <p class="updated_time"> 03:20 PM CT, Apr. 14 </p> 
@@ -51,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/14/1092904511/in-rare-public-speech-the-cia-director-spoke-about-the-spy-agencys-role-in-ukrai">In rare public speech, the CIA director spoke about the spy agency's role in Ukraine</a> NPR: CIA Director Bill Burns made a rare public speech Thursday and talked about the agency's role in Ukraine. Also, hundreds of suspected Russian spies have been kicked out of embassies in Europe. 
  <p class="updated_time"> 03:20 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092888683/day-50-of-war-major-russian-black-sea-warship-is-damaged-as-an-oil-ban-looms">Day 50 of war: Major Russian Black Sea warship is damaged as an oil ban looms</a> NPR: From a severely damaged Russian warship in the Black Sea to the beginnings of what might become a ban on Moscow's oil exports, here are the latest developments 50 days into Russia's war on Ukraine. 
- <p class="updated_time"> 03:13 PM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/russia-warns-it-could-station-nuclear-forces-in-europe-if-finland-sweden-join-nato-11649958396">Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO</a> WSJ: Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO 
  <p class="updated_time"> 03:12 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/africa/south-africa-durban-floods.html">South Africa Floods: Death Toll Passes 250</a> NYT: The devastation fueled criticism that the government should have been better prepared for the weather after intense rain in 2017 and 2019. 
  <p class="updated_time"> 02:54 PM CT, Apr. 14 </p> 
@@ -61,17 +65,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/14/world/europe/uk-rwanda-asylum-seekers.html">U.K. Plans to Send Some Asylum Seekers to Rwanda</a> NYT: Britain says it will fly many refugees thousands of miles to the central African country for processing and resettlement, a significant hardening of migration policy. 
  <p class="updated_time"> 02:39 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/nhs-covid-cases-treatment-backlogs.html">Covid Cases Strain N.H.S. Bid to Reduce Hospital Treatment Backlog, Doctors Say</a> NYT: The British government’s promise to shorten wait times for elective hospital procedures is threatened by high rates of positive coronavirus tests among patients and staff. 
- <p class="updated_time"> 02:39 PM CT, Apr. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61112787?at_medium=RSS&at_campaign=KARANGA">El Shafee Elsheikh: Guilty verdict for Islamic State 'Beatle' jihadist</a> BBC: El Shafee Elsheikh is the highest profile IS fighter - and lone 'Beatle' - to stand trial in the US. 
+ <p class="updated_time"> 02:33 PM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/islamic-state-fighter-convicted-for-role-in-murder-of-four-americans-11649958246">Islamic State Fighter Convicted for Role in Murder of Four Americans</a> WSJ: Islamic State Fighter Convicted for Role in Murder of Four Americans 
  <p class="updated_time"> 02:23 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/asia/china-food-crisis-beijing.html">Shanghai’s Food Crisis Prompts Beijing Residents to Stock Up</a> NYT: “Things that happened in Shanghai made me panic,” said Li Lilin, a real estate agent in Beijing, adding, “I’m just terrified of starving to death.” 
- <p class="updated_time"> 02:13 PM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/islamic-state-fighter-convicted-for-role-in-murder-of-four-americans-11649958246">Islamic State Fighter Convicted for Role in Murder of Four Americans</a> WSJ: Islamic State Fighter Convicted for Role in Murder of Four Americans 
  <p class="updated_time"> 02:05 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092862792/russian-woman-jailed-ukraine-protest-price-tags">A Russian woman is jailed for replacing store price tags with anti-war messages</a> NPR: Artist Aleksandra Skochilenko reportedly swapped in a tag at a St. Petersburg supermarket with a note about the bombing of a Mariupol art school. Her lawyer said a shopper reported her to the police. 
  <p class="updated_time"> 01:53 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092869545/islamic-state-beatles-hostages-guilty">A member of Islamic State group known as 'Beatles' is convicted in Americans' deaths </a> NPR: A jury convicted a British national for his role in hostage-takings that took roughly two dozen Westerners captive a decade ago, resulting in the deaths of four Americans, three of whom were beheaded. 
- <p class="updated_time"> 01:13 PM CT, Apr. 14 </p> 
+ <p class="updated_time"> 01:33 PM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/china-covid-19-lockdowns-spread-beyond-shanghai-to-other-cities-11649949817">China Covid-19 Lockdowns Spread Beyond Shanghai to Other Cities</a> WSJ: China Covid-19 Lockdowns Spread Beyond Shanghai to Other Cities 
  <p class="updated_time"> 01:01 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/european-union-oil-embargo-russia-ukraine.html">Europe Reluctantly Readies Russian Oil Embargo</a> NYT: Officials are drafting a phased import ban on Russian oil products, but the measure won’t be floated until after the second round of the French elections at the earliest. 
@@ -161,8 +163,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/science/war-environmental-impact-ukraine.html">How Nature Becomes a Casualty of War</a> NYT: Research on past conflicts suggests that the war in Ukraine could have a profound environmental impact. 
  <p class="updated_time"> 10:20 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/world-covid-cases-testing.html">World Surpasses Half a Billion Known Coronavirus Cases</a> NYT: There have almost certainly been far more infections than that among the global population of 7.9 billion, with many going undetected or unreported, and the reporting gap may only grow wider as some countries, including the United States, scale back official testing. 
- <p class="updated_time"> 10:01 AM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/12/world/europe/germany-russia-ukraine-war.html">Ukraine War Pushes Germans to Change. They Are Wavering.</a> NYT: In just six weeks since Chancellor Olaf Scholz announced a strategic shift for his country, already doubts are emerging about how real and deep it is. 
  <p class="updated_time"> 09:45 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/us/politics/russia-propaganda-ukraine-war.html">How US and Ukrainian Groups Pierce Putin’s Propaganda Bubble</a> NYT: U.S.-backed news outlets and Ukrainian activists use Cold War techniques and high-tech tactics to get news about the war to Russians. 
  <p class="updated_time"> 09:12 AM CT, Apr. 13 </p> 
