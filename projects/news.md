@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:30 AM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/14/world/ukraine-russia-war-news">Live Updates: Russian Warship ‘Seriously Damaged,’ in Setback to Moscow’s Forces</a> NYT: Ukraine said it struck the flagship of Russia’s Black Sea fleet with missiles, while Russia claimed the damage was caused by a fire. As Moscow attempts to escalate its offensive in the east and south, President Volodymyr Zelensky of Ukraine praised the U.S. for sending more military aid. 
+ <p class="updated_time"> 06:23 AM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/2022/04/14/world/europe/uk-rwanda-asylum-seekers.html">U.K. Plans to Send Asylum Seekers to Rwanda for Processing</a> NYT: Some people seeking refuge in Britain would be flown thousands of miles to the central African country, a significant hardening of migration policy. 
+ <p class="updated_time"> 06:21 AM CT, Apr. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61103927?at_medium=RSS&at_campaign=KARANGA">Russian warship Moskva: What do we know?</a> BBC: Ukraine claims to have fired missiles at the cruiser, Russia says the damage was caused by a fire. 
+ <p class="updated_time"> 06:17 AM CT, Apr. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61106241?at_medium=RSS&at_campaign=KARANGA">Germany kidnap plot: Gang planned to overthrow democracy</a> BBC: A gang with links to far-right and anti-Covid groups wanted to overthrow democracy, say prosecutors. 
  <p class="updated_time"> 06:10 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-61097114?at_medium=RSS&at_campaign=KARANGA">UK to give asylum seekers one-way ticket to Rwanda</a> BBC: Some asylum seekers who arrive on small boats will be sent to the country as part of a £120m trial. 
  <p class="updated_time"> 06:08 AM CT, Apr. 14 </p> 
@@ -18,39 +26,35 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:48 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/ukraine-russia-nato-s300.html">A Soviet-Era Air Defense System Arrives in Ukraine From Slovakia</a> NYT: Encouraged by the United States, Slovakia “donated” a bulky but effective S-300, hoping to challenge Russian domination of the skies in the war next door. 
  <p class="updated_time"> 05:44 AM CT, Apr. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61103927?at_medium=RSS&at_campaign=KARANGA">Russian warship Moskva: What do we know?</a> BBC: Ukraine claims to have fired missiles at the cruiser, Russia says the damage was caused by a fire. 
- <p class="updated_time"> 05:44 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61083959?at_medium=RSS&at_campaign=KARANGA">Somalia's elections - where the people don't vote</a> BBC: Somalia's new MPs are being sworn in following an election in which the people did not vote. 
- <p class="updated_time"> 05:39 AM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/04/14/world/ukraine-russia-war-news">Live Updates: Russian Warship ‘Seriously Damaged,’ in Setback to Moscow’s Forces</a> NYT: Ukraine said it struck the flagship of Russia’s Black Sea fleet with missiles, while Russia claimed the damage was caused by a fire. As Moscow attempts to escalate its offensive in the east and south, President Volodymyr Zelensky of Ukraine praised the U.S. for sending more military aid. 
- <p class="updated_time"> 05:21 AM CT, Apr. 14 </p> 
+ <p class="updated_time"> 05:34 AM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/ukraine-military-success-years-of-nato-training-11649861339">The Secret of Ukraine’s Military Success: Years of NATO Training</a> WSJ: The Secret of Ukraine’s Military Success: Years of NATO Training 
  <p class="updated_time"> 05:10 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61105492?at_medium=RSS&at_campaign=KARANGA">Palestinian deaths mount as tensions with Israel spiral</a> BBC: Five are killed in 24 hours as Israel carries out sweeps in the West Bank after deadly attacks. 
- <p class="updated_time"> 05:05 AM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/14/world/europe/uk-rwanda-asylum-seekers.html">U.K. Plans to Send Asylum Seekers to Rwanda for Processing</a> NYT: Some people seeking refuge in Britain would be flown thousands of miles to the central African country, a significant hardening of migration policy. 
  <p class="updated_time"> 04:39 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/asia/japan-toddler-tv-show.html">Japanese TV Show “Old Enough!” Features Toddlers Running Errands</a> NYT: “Old Enough!,” a Japanese show that has been on the air for decades, recently came to Netflix. It features toddlers running errands without adult supervision. 
- <p class="updated_time"> 04:21 AM CT, Apr. 14 </p> 
+ <p class="updated_time"> 04:34 AM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/u-s-expands-flow-of-intelligence-to-ukraine-as-white-house-sends-more-arms-11649868029">U.S. to Provide Ukraine With More Intelligence, Heavier Weapons to Fight Russia</a> WSJ: U.S. to Provide Ukraine With More Intelligence, Heavier Weapons to Fight Russia 
+ <p class="updated_time"> 04:30 AM CT, Apr. 14 </p> 
+ <a href="https://www.npr.org/2022/04/14/1092677483/brittney-griner-russia-detention-wnba-nba-pay-gap">What Brittney Griner's detention in Russia tells us about basketball's gender pay gap</a> NPR: "The reality is, she's over there because of a gender issue ― pay inequity," the head of the WNBA's players union said this week about the basketball star who's been detained in Russia since February. 
  <p class="updated_time"> 04:00 AM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092446376/how-the-late-jazz-great-chick-corea-is-being-remembered-in-concert">How the late jazz great Chick Corea is being remembered — in concert</a> NPR: Chick Corea loved to collaborate. His former bandmates are honoring his memory with two star-studded concerts. 
  <p class="updated_time"> 04:00 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/africa/france-macron-africa-colonies.html">Former French Colonies in Africa Demand a Reset</a> NYT: Decades after independence, many African countries are increasingly troubled by the ongoing influence of their former colonial power. 
- <p class="updated_time"> 03:21 AM CT, Apr. 14 </p> 
+ <p class="updated_time"> 03:34 AM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-renew-focus-on-southern-and-eastern-ukraine-11649842020">Russian Forces Renew Focus on Southern and Eastern Ukraine</a> WSJ: Russian Forces Renew Focus on Southern and Eastern Ukraine 
+ <p class="updated_time"> 02:34 AM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/yellen-warns-nations-staying-neutral-in-russias-war-with-ukraine-11649879113">Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine</a> WSJ: Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine 
  <p class="updated_time"> 02:31 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/asia/sri-lanka-protests-gotabaya-rajapaksa.html">Sri Lanka’s President Gotabaya Rajapaksa Faces Huge Protest</a> NYT: Gotabaya Rajapaksa is used to silencing and discrediting his political opponents. But that’s harder to do this time. 
- <p class="updated_time"> 02:21 AM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/yellen-warns-nations-staying-neutral-in-russias-war-with-ukraine-11649879113">Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine</a> WSJ: Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine 
  <p class="updated_time"> 02:17 AM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092784937/sri-lanka-new-year-protests">Sri Lankan protesters mark new year near president's office</a> NPR: Protesters are occupying the entrance and surroundings of President Gotabaya Rajapaksa's office, holding him responsible for the country' economic crisis. 
  <p class="updated_time"> 01:57 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/asia/tropical-storm-megi-philippines.html">After Tropical Storm Megi Hits Philippines, Dozens Dead or Missing</a> NYT: The first such storm of the year caused widespread flooding and landslides in the central part of the country. 
+ <p class="updated_time"> 01:34 AM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/russias-oil-industry-linchpin-of-economy-feels-sting-of-ukraine-war-disruptions-11649843249">Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions</a> WSJ: Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions 
  <p class="updated_time"> 01:30 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61102065?at_medium=RSS&at_campaign=KARANGA">Patrick Lyoya: Video shows fatal US police shooting of black man</a> BBC: The shooting of an apparently unarmed black man on 4 April in Michigan has led to protests. 
- <p class="updated_time"> 01:21 AM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/russias-oil-industry-linchpin-of-economy-feels-sting-of-ukraine-war-disruptions-11649843249">Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions</a> WSJ: Russia’s Oil Industry, Linchpin of Economy, Feels Sting of Ukraine War Disruptions 
  <p class="updated_time"> 01:17 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/britain-rwanda-immigrant-deal.html">U.K. May Send Asylum Seekers to Rwanda for Processing</a> NYT: The details of the plan will be made public on Thursday, but local news media have reported it may include shipping immigrants to the African country. 
  <p class="updated_time"> 12:51 AM CT, Apr. 14 </p> 
@@ -155,8 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/13/1092324328/images-of-zelenskyy-show-the-physical-toll-that-trauma-and-stress-can-have-on-th">Images of Zelenskyy show the physical toll that trauma and stress can have on the body</a> NPR: Health experts told NPR that long-term exposure to trauma and stress — like that of the war in Ukraine — can impact a person's sleep, memory, mood and physical appearance. 
  <p class="updated_time"> 04:49 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/ukraine-viktor-medvedchuk-putin-ally.html">Ukrainian Officers Said to Detain Putin Ally Viktor Medvedchuk</a> NYT: Viktor Medvedchuk, a wealthy Ukrainian politician seen as the Kremlin’s main agent of influence in Ukraine in recent years, had disappeared shortly after the start of the war. 
- <p class="updated_time"> 04:08 AM CT, Apr. 13 </p> 
- <a href="https://www.npr.org/2022/04/13/1092526223/australian-minister-tries-to-end-solomons-china-pact">Australian minister tries to end Solomons-China pact</a> NPR: Under the Solomon Islands' terms of a draft agreement, China could send police, military personnel and other armed forces to the Solomon Islands "to assist in maintaining social order." 
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-schools-war.html">War in Ukraine Disrupts Education of Millions of Children</a> NYT: The country’s teachers are doing their best to provide lessons for the millions of school-age children whose education has been interrupted. 
  <p class="updated_time"> 03:53 AM CT, Apr. 13 </p> 
@@ -239,7 +241,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:15 PM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/gop-2024-2028-convention-cities-00025193">GOP to choose 2024 and 2028 convention cities</a> Politico: In a departure from tradition, the RNC wants to begin selecting its presidential convention host cities six years in advance. 
  <p class="updated_time"> 08:13 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/us/politics/georgia-stacey-abrams-brian-kemp.html">Trial Alleging Voter Suppression in 2018 Abrams-Kemp Georgia Race Begins</a> NYT: A trial is underway to determine whether Georgia’s handling of the 2018 election for governor was discriminatory, in a case brought by Stacey Abrams’s voting rights group. 
+ <a href="https://www.nytimes.com/2022/04/13/us/politics/georgia-stacey-abrams-brian-kemp.html">Georgia’s 2018 Rematch, in a Courtroom</a> NYT: A trial is underway to determine whether Georgia’s handling of the 2018 election for governor was discriminatory, in a case brought by Stacey Abrams’s voting rights group. 
  <p class="updated_time"> 07:36 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/us/politics/trump-lawyers-jan-6.html">Two Trump White House Lawyers Meet With Jan. 6 Investigators</a> NYT: Pat A. Cipollone, the former White House counsel, and Patrick F. Philbin, who was his deputy, met separately with the panel after the former president authorized them to do so. 
  <p class="updated_time"> 07:30 PM CT, Apr. 13 </p> 
