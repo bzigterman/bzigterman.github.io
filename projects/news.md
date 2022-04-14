@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:26 PM CT, Apr. 14 </p> 
+ <p class="updated_time"> 01:34 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/04/14/world/ukraine-russia-war-news">Ukraine Live Updates: Russian Warship ‘Seriously Damaged’; E.U. Weighs Ban on Moscow’s Oil Exports</a> NYT: Ukraine said it had hit the Russia’s flagship in the Black Sea with missiles, while Russia claimed a fire caused the damage. In Brussels, E.U. officials started drafting a ban on Russian oil even though it would likely raise energy prices. 
  <p class="updated_time"> 01:01 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/european-union-oil-embargo-russia-ukraine.html">Europe Reluctantly Readies Russian Oil Embargo</a> NYT: Officials are drafting a phased import ban on Russian oil products, but the measure won’t be floated until after the second round of the French elections at the earliest. 
@@ -17,16 +17,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61112787?at_medium=RSS&at_campaign=KARANGA">El Shafee Elsheikh: Guilty verdict for Islamic State 'Beatle' jihadist</a> BBC: El Shafee Elsheikh is the highest profile IS fighter - and lone 'Beatle' - to stand trial in the US. 
  <p class="updated_time"> 12:51 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/le-pen-nato-russia-germany.html">Le Pen Backs NATO-Russia Reconciliation and Reduced French Role in Alliance</a> NYT: Marine Le Pen, the far-right candidate for the French presidency, offered a worldview reminiscent of the Trump presidency. “No submission to an American protectorate on European soil,” she said. 
+ <p class="updated_time"> 12:48 PM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914">Russia’s Black Sea Flagship Abandoned After Ukraine Claims Missile Strike Sinks It</a> WSJ: Russia’s Black Sea Flagship Abandoned After Ukraine Claims Missile Strike Sinks It 
  <p class="updated_time"> 12:32 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/us/politics/isis-beatles-el-shafee-elsheikh.html">British Militant Convicted for Role in Deaths of Americans</a> NYT: The verdict capped a two-week trial that featured the testimony of former captives who detailed relentless beatings, waterboarding and murder by an Islamic State cell known as the Beatles. 
- <p class="updated_time"> 12:30 PM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914">Russia’s Black Sea Flagship Abandoned After Ukraine Claims Missile Strike Sinks It</a> WSJ: Russia’s Black Sea Flagship Abandoned After Ukraine Claims Missile Strike Sinks It 
  <p class="updated_time"> 12:28 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/russian-media-atrocities-fake.html">Russian Media Falsely Claims Ukraine Atrocity Images Are Fake</a> NYT: Russians are being shown some of the same distressing imagery from the war as the rest of the world, but with a big twist. 
  <p class="updated_time"> 12:05 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092844694/uk-homes-for-ukraine-refugees-women">U.K. shouldn't pair female Ukrainian refugees with lone male hosts, the U.N. says</a> NPR: Citing "increasing reports of Ukrainian women feeling at risk from their sponsors," the U.N.'s refugee agency is urging U.K. officials to refine the matching process for its Homes for Ukraine program. 
  <p class="updated_time"> 11:59 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/nhs-covid-cases-treatment-backlogs.html">Covid Cases Strain N.H.S. Bid to Reduce Hospital Treatment Backlog, Doctors Say</a> NYT: The British government’s promise to shorten wait times for elective hospital procedures is threatened by high rates of positive coronavirus tests among patients and staff. 
+ <p class="updated_time"> 11:48 AM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/anti-russia-alliance-is-missing-a-big-bloc-the-developing-world-11649950913">Anti-Russia Alliance Is Missing a Big Bloc: The Developing World</a> WSJ: Anti-Russia Alliance Is Missing a Big Bloc: The Developing World 
  <p class="updated_time"> 11:45 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/climate/antarctic-ice-shelves-atmospheric-rivers.html">Why Did Two Antarctic Ice Shelves Fail? Scientists Say They Now Know. </a> NYT: The collapse of the two ice shelves was most likely triggered by vast plumes of warm air from the Pacific, researchers have found. 
  <p class="updated_time"> 11:43 AM CT, Apr. 14 </p> 
@@ -35,8 +37,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/world/middleeast/israel-art-museum-tel-aviv.html">Israel’s Oldest Museum Takes a New Look at Israeli Art</a> NYT: For decades, museums presented Israeli art as a companion to the country’s history. The Tel Aviv Museum of Art breaks away from that approach — with surprising results. 
  <p class="updated_time"> 11:33 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/steve-daines-victoria-spartz-ukraine-kyiv.html">Two U.S. Lawmakers Visit Kyiv to Show Support for Ukraine</a> NYT: Senator Steve Daines of Montana and Representative Victoria Spartz of Indiana, both Republicans, were invited by Ukraine’s government on short notice. 
- <p class="updated_time"> 11:30 AM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/anti-russia-alliance-is-missing-a-big-bloc-the-developing-world-11649950913">Anti-Russia Alliance Is Missing a Big Bloc: The Developing World</a> WSJ: Anti-Russia Alliance Is Missing a Big Bloc: The Developing World 
  <p class="updated_time"> 11:13 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61112489?at_medium=RSS&at_campaign=KARANGA">Zelensky: Countries buying Russian oil are earning money in other people's blood</a> BBC: Ukraine's president says countries buying Russian oil are "making money out of blood". 
  <p class="updated_time"> 11:12 AM CT, Apr. 14 </p> 
@@ -47,20 +47,22 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61104231?at_medium=RSS&at_campaign=KARANGA">Elon Musk makes offer to buy Twitter</a> BBC: The boss of Tesla claims he wants to unlock the social media platform's "extraordinary potential". 
  <p class="updated_time"> 10:57 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61107725?at_medium=RSS&at_campaign=KARANGA">Ukraine's President Zelensky to BBC: Blood money being paid for Russian oil</a> BBC: Ukraine's leader tells the BBC that all European countries should have ended Russian energy imports. 
+ <p class="updated_time"> 10:48 AM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/china-covid-19-lockdowns-spread-beyond-shanghai-to-other-cities-11649949817">China Covid-19 Lockdowns Spread Beyond Shanghai to Other Cities</a> WSJ: China Covid-19 Lockdowns Spread Beyond Shanghai to Other Cities 
  <p class="updated_time"> 10:40 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61103927?at_medium=RSS&at_campaign=KARANGA">Russian warship Moskva: What do we know?</a> BBC: Ukraine claims to have fired missiles at the cruiser, Russia says the damage was caused by a fire. 
  <p class="updated_time"> 10:38 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61092045?at_medium=RSS&at_campaign=KARANGA">Ranbir Kapoor and Alia Bhatt: Bollywood toasts star couple on wedding</a> BBC: Excitement grips the Indian film industry as the superstars tie the knot in a low-key ceremony. 
- <p class="updated_time"> 10:30 AM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/china-covid-19-lockdowns-spread-beyond-shanghai-to-other-cities-11649949817">China Covid-19 Lockdowns Spread Beyond Shanghai to Other Cities</a> WSJ: China Covid-19 Lockdowns Spread Beyond Shanghai to Other Cities 
+ <p class="updated_time"> 09:48 AM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/a-former-dictators-family-stages-a-stunning-political-comeback-11649941200">A Former Dictator’s Family Stages a Stunning Political Comeback</a> WSJ: A Former Dictator’s Family Stages a Stunning Political Comeback 
  <p class="updated_time"> 09:40 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61083959?at_medium=RSS&at_campaign=KARANGA">Somalia's elections - where the people don't vote</a> BBC: Most of Somalia's new MPs are sworn in following an election in which the people did not vote. 
- <p class="updated_time"> 09:30 AM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/a-former-dictators-family-stages-a-stunning-political-comeback-11649941200">A Former Dictator’s Family Stages a Stunning Political Comeback</a> WSJ: A Former Dictator’s Family Stages a Stunning Political Comeback 
  <p class="updated_time"> 09:29 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/poland-ukraine-holocaust-dispatch.html">On Poland-Ukraine Border, the Past Is Always Present. It’s Not Always Predictive.</a> NYT: For a Jewish reporter with Eastern European roots, one of the hardest challenges covering the war is reconciling the horrors of the Holocaust with the Poland and Ukraine of today. 
- <p class="updated_time"> 08:30 AM CT, Apr. 14 </p> 
+ <p class="updated_time"> 08:48 AM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/hundreds-killed-in-south-african-floods-with-key-port-badly-hit-11649944222">Hundreds Killed in South African Floods, With Key Port Badly Hit</a> WSJ: Hundreds Killed in South African Floods, With Key Port Badly Hit 
+ <p class="updated_time"> 08:44 AM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/islamic-state-fighter-convicted-for-role-in-murder-of-four-americans-11649958246">Islamic State Fighter Convicted for Role in Murder of Four Americans</a> WSJ: A federal jury convicted El Shafee Elsheikh of being part of a cell that murdered U.S. hostages, capping a trial dominated by testimony from survivors of the torture. 
  <p class="updated_time"> 08:26 AM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092648546/russia-ukraine-war-sanctions">Where do sanctions on Russia go from here? A foreign policy expert weighs in</a> NPR: Despite heavy sanctions, Russia has not slowed down its invasion of Ukraine. Some are left wondering just how much sanctions can achieve. 
  <p class="updated_time"> 08:18 AM CT, Apr. 14 </p> 
@@ -89,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/14/1092446376/how-the-late-jazz-great-chick-corea-is-being-remembered-in-concert">How the late jazz great Chick Corea is being remembered — in concert</a> NPR: Chick Corea loved to collaborate. His former bandmates are honoring his memory with two star-studded concerts. 
  <p class="updated_time"> 04:00 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/africa/france-macron-africa-colonies.html">Former French Colonies in Africa Demand a Reset</a> NYT: Decades after independence, many African countries are increasingly troubled by the ongoing influence of their former colonial power. 
- <p class="updated_time"> 02:25 AM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/dubai-sees-influx-of-staff-from-u-s-companies-leaving-russia-11649935549">Google, JPMorgan, Other U.S. Firms Flee Russia for Dubai</a> WSJ: U.S. companies, tapping one of the few flight corridors out of Moscow, are moving employees from Russia to the United Arab Emirates, a boon for the Gulf nation as it seeks to cement its place as a global commercial hub. 
  <p class="updated_time"> 02:17 AM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092784937/sri-lanka-new-year-protests">Sri Lankan protesters mark new year near president's office</a> NPR: Protesters are occupying the entrance and surroundings of President Gotabaya Rajapaksa's office, holding him responsible for the country' economic crisis. 
  <p class="updated_time"> 01:57 AM CT, Apr. 14 </p> 
