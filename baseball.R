@@ -765,7 +765,7 @@ better_wild_card_standings_table_html <- gsub("[\"][a-z]{10}",
 
 
 # wild card plot ----
-mlb_min <-  .9*min(mlb_standings$win_pct)
+mlb_min <-  .8*min(mlb_standings$win_pct)
 mlb_max <- 1.05*max(mlb_standings$win_pct)
 nudge <- -.0461118*(mlb_max-mlb_min)
 division_leader_nudge <- .021*(mlb_max-mlb_min)
