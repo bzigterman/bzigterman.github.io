@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:36 PM CT, Apr. 14 </p> 
+ <p class="updated_time"> 03:42 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/04/14/world/ukraine-russia-war-news">Live Updates: Russian Warship Ukraine Claimed to Have Hit Has Sunk, Moscow Says</a> NYT: Ukraine says it hit the flagship of Russia’s Black Sea fleet with a missile strike. Russia says the ship was damaged by a fire and sank while being towed to port. E.U. leaders considered an oil ban despite its potential to increase energy prices around the bloc. 
  <p class="updated_time"> 03:33 PM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61114843?at_medium=RSS&at_campaign=KARANGA">Russian warship Moskva has sunk - defence ministry</a> BBC: The warship is said to have sunk under tow a day after it was reported damaged by fire or a Ukrainian missile strike. 
@@ -29,10 +29,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/world/africa/south-africa-durban-floods.html">South Africa Floods: Death Toll Passes 250</a> NYT: The devastation fueled criticism that the government should have been better prepared for the weather after intense rain in 2017 and 2019. 
  <p class="updated_time"> 02:54 PM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-61104231?at_medium=RSS&at_campaign=KARANGA">Elon Musk makes offer to buy Twitter</a> BBC: The boss of Tesla claims he wants to unlock the social media platform's "extraordinary potential". 
+ <p class="updated_time"> 02:53 PM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914">Russia’s Black Sea Flagship Abandoned After Ukraine Claims Missile Strike Sinks It</a> WSJ: Russia’s Black Sea Flagship Abandoned After Ukraine Claims Missile Strike Sinks It 
  <p class="updated_time"> 02:48 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/uk-rwanda-asylum-seekers.html">U.K. Plans to Send Some Asylum Seekers to Rwanda</a> NYT: Britain says it will fly many refugees thousands of miles to the central African country for processing and resettlement, a significant hardening of migration policy. 
- <p class="updated_time"> 02:41 PM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914">Russia’s Black Sea Flagship Abandoned After Ukraine Claims Missile Strike Sinks It</a> WSJ: Russia’s Black Sea Flagship Abandoned After Ukraine Claims Missile Strike Sinks It 
  <p class="updated_time"> 02:39 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/nhs-covid-cases-treatment-backlogs.html">Covid Cases Strain N.H.S. Bid to Reduce Hospital Treatment Backlog, Doctors Say</a> NYT: The British government’s promise to shorten wait times for elective hospital procedures is threatened by high rates of positive coronavirus tests among patients and staff. 
  <p class="updated_time"> 02:39 PM CT, Apr. 14 </p> 
@@ -42,27 +42,27 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:05 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092862792/russian-woman-jailed-ukraine-protest-price-tags">A Russian woman is jailed for replacing store price tags with anti-war messages</a> NPR: Artist Aleksandra Skochilenko reportedly swapped in a tag at a St. Petersburg supermarket with a note about the bombing of a Mariupol art school. Her lawyer said a shopper reported her to the police. 
  <p class="updated_time"> 01:53 PM CT, Apr. 14 </p> 
- <a href="https://www.npr.org/2022/04/14/1092869545/islamic-state-beatles-hostages-guilty">A member of Islamic State group known as 'Beatles' is convicted in Americans' deaths </a> NPR: A jury convicted a British national for his role in hostage-takings that took roughly two dozen Westerners captive a decade ago, resulting in the deaths of four Americans, three of whom were beheaded. 
- <p class="updated_time"> 01:41 PM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/anti-russia-alliance-is-missing-a-big-bloc-the-developing-world-11649950913">Anti-Russia Alliance Is Missing a Big Bloc: The Developing World</a> WSJ: Anti-Russia Alliance Is Missing a Big Bloc: The Developing World 
+ <p class="updated_time"> 01:53 PM CT, Apr. 14 </p> 
+ <a href="https://www.npr.org/2022/04/14/1092869545/islamic-state-beatles-hostages-guilty">A member of Islamic State group known as 'Beatles' is convicted in Americans' deaths </a> NPR: A jury convicted a British national for his role in hostage-takings that took roughly two dozen Westerners captive a decade ago, resulting in the deaths of four Americans, three of whom were beheaded. 
  <p class="updated_time"> 01:01 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/european-union-oil-embargo-russia-ukraine.html">Europe Reluctantly Readies Russian Oil Embargo</a> NYT: Officials are drafting a phased import ban on Russian oil products, but the measure won’t be floated until after the second round of the French elections at the earliest. 
+ <p class="updated_time"> 12:53 PM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/russia-warns-it-could-station-nuclear-forces-in-europe-if-finland-sweden-join-nato-11649958396">Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO</a> WSJ: Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO 
  <p class="updated_time"> 12:51 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/le-pen-nato-russia-germany.html">Le Pen Backs NATO-Russia Reconciliation and Reduced French Role in Alliance</a> NYT: Marine Le Pen, the far-right candidate for the French presidency, offered a worldview reminiscent of the Trump presidency. “No submission to an American protectorate on European soil,” she said. 
- <p class="updated_time"> 12:41 PM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/russia-warns-it-could-station-nuclear-forces-in-europe-if-finland-sweden-join-nato-11649958396">Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO</a> WSJ: Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO 
  <p class="updated_time"> 12:32 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/us/politics/isis-beatles-el-shafee-elsheikh.html">British Militant Convicted for Role in Deaths of Americans</a> NYT: The verdict capped a two-week trial that featured the testimony of former captives who detailed relentless beatings, waterboarding and murder by an Islamic State cell known as the Beatles. 
  <p class="updated_time"> 12:28 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/russian-media-atrocities-fake.html">Russian Media Falsely Claims Ukraine Atrocity Images Are Fake</a> NYT: Russians are being shown some of the same distressing imagery from the war as the rest of the world, but with a big twist. 
  <p class="updated_time"> 12:05 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092844694/uk-homes-for-ukraine-refugees-women">U.K. shouldn't pair female Ukrainian refugees with lone male hosts, the U.N. says</a> NPR: Citing "increasing reports of Ukrainian women feeling at risk from their sponsors," the U.N.'s refugee agency is urging U.K. officials to refine the matching process for its Homes for Ukraine program. 
+ <p class="updated_time"> 11:53 AM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/islamic-state-fighter-convicted-for-role-in-murder-of-four-americans-11649958246">Islamic State Fighter Convicted for Role in Murder of Four Americans</a> WSJ: Islamic State Fighter Convicted for Role in Murder of Four Americans 
  <p class="updated_time"> 11:45 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/climate/antarctic-ice-shelves-atmospheric-rivers.html">Why Did Two Antarctic Ice Shelves Fail? Scientists Say They Now Know. </a> NYT: The collapse of the two ice shelves was most likely triggered by vast plumes of warm air from the Pacific, researchers have found. 
  <p class="updated_time"> 11:43 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61105463?at_medium=RSS&at_campaign=KARANGA">Durban flood survivors: South Africans homeless, hurt and heartbroken</a> BBC: "We're traumatised, we can't even eat," one South African woman says after her house was destroyed. 
- <p class="updated_time"> 11:41 AM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/islamic-state-fighter-convicted-for-role-in-murder-of-four-americans-11649958246">Islamic State Fighter Convicted for Role in Murder of Four Americans</a> WSJ: Islamic State Fighter Convicted for Role in Murder of Four Americans 
  <p class="updated_time"> 11:33 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/middleeast/israel-art-museum-tel-aviv.html">Israel’s Oldest Museum Takes a New Look at Israeli Art</a> NYT: For decades, museums presented Israeli art as a companion to the country’s history. The Tel Aviv Museum of Art breaks away from that approach — with surprising results. 
  <p class="updated_time"> 11:33 AM CT, Apr. 14 </p> 
@@ -75,7 +75,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/14/climate/cactus-climate-change.html">Even the Cactus May Not Be Safe From Climate Change</a> NYT: More than half of species could face greater extinction risk by midcentury, a new study found, as rising heat and dryness test the prickly plants’ limits. 
  <p class="updated_time"> 10:57 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61107725?at_medium=RSS&at_campaign=KARANGA">Ukraine's President Zelensky to BBC: Blood money being paid for Russian oil</a> BBC: Ukraine's leader tells the BBC that all European countries should have ended Russian energy imports. 
- <p class="updated_time"> 10:41 AM CT, Apr. 14 </p> 
+ <p class="updated_time"> 10:53 AM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/u-k-plans-to-send-migrants-who-enter-country-illegally-to-rwanda-11649956441">U.K. to Send Migrants Entering Illegally to Rwanda</a> WSJ: U.K. to Send Migrants Entering Illegally to Rwanda 
  <p class="updated_time"> 10:38 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61092045?at_medium=RSS&at_campaign=KARANGA">Ranbir Kapoor and Alia Bhatt: Bollywood toasts star couple on wedding</a> BBC: Excitement grips the Indian film industry as the superstars tie the knot in a low-key ceremony. 
@@ -209,7 +209,7 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 02:42 PM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/14/us/politics/biden-judicial-nominees.html">Democrats Aim to Fill as Many Court Vacancies as Possible by End of 2022</a> NYT: Democrats aim to fill as many court vacancies as possible by the end of 2022, when Senate Republicans are in reach of winning control and slamming the brakes on President Biden’s picks. 
+ <a href="https://www.nytimes.com/2022/04/14/us/politics/biden-judicial-nominees.html">With Jackson Headed to Supreme Court, New Judicial Battles Loom</a> NYT: Democrats aim to fill as many court vacancies as possible by the end of 2022, when Senate Republicans are in reach of winning control and slamming the brakes on President Biden’s picks. 
  <p class="updated_time"> 02:25 PM CT, Apr. 14 </p> 
  <a href="https://www.politico.com/news/2022/04/14/mills-congress-tear-gas-black-lives-matter-protesters-00025269">GOP hopeful sold tear gas used on Black Lives Matter protesters</a> Politico: Cory Mills, a self-funding, first time candidate running for a House seat in Florida, paved an unusual path to riches. 
  <p class="updated_time"> 12:32 PM CT, Apr. 14 </p> 
@@ -217,7 +217,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:32 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092816157/the-midterm-elections-will-show-if-trump-is-still-a-kingmaker">The midterm elections will show if Trump is still a 'kingmaker'</a> NPR: NYT's Shane Goldmacher says Trump doles out endorsements to Republican candidates to elevate allies, punish enemies and make the 'Big Lie', that the 2020 election was stolen, into a party litmus test. 
  <p class="updated_time"> 11:16 AM CT, Apr. 14 </p> 
- <a href="https://www.politico.com/news/2022/04/14/justice-dept-jan-6-trial-00025287">‘This is not President Trump’s criminal trial’</a> Politico: Justice Department urges jury to reject Jan. 6 defendant’s claim that Trump caused him to breach and loot Capitol 
+ <a href="https://www.politico.com/news/2022/04/14/justice-dept-jan-6-trial-00025287">Jury convicts Jan. 6 defendant who blamed Trump for Capitol breach</a> Politico: Dustin Thompson sought to pin his actions on Donald Trump. Jurors found him guilty on all six counts. 
  <p class="updated_time"> 11:11 AM CT, Apr. 14 </p> 
  <a href="https://www.politico.com/news/2022/04/14/desantis-approves-abortion-ban-florida-00025259">DeSantis approves 15-week abortion ban</a> Politico: The law will take effect on July 1. 
  <p class="updated_time"> 11:09 AM CT, Apr. 14 </p> 
@@ -249,9 +249,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Apr. 14 </p> 
  <a href="https://www.politico.com/news/2022/04/14/nasa-artemis-moon-explorer-astronauts-00025099">NASA’s astronauts aren’t ready for deep space</a> Politico: The space agency still hasn't developed the training or equipment — even the space suits — needed to live and work on the moon and beyond. 
  <p class="updated_time"> 11:19 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/us/politics/mark-meadows-vote-north-carolina.html">North Carolina Drops Mark Meadows From Voter Roll Amid Fraud Inquiry</a> NYT: The state is investigating whether Mr. Meadows cast a legal vote in 2020, after reports questioned if he lived at the address listed on his voter registration. 
+ <a href="https://www.nytimes.com/2022/04/13/us/politics/mark-meadows-vote-north-carolina.html">Mark Meadows Is Taken Off North Carolina Voter Roll Amid Fraud Inquiry</a> NYT: The state is investigating whether Mr. Meadows cast a legal vote in 2020, after reports questioned if he lived at the address listed on his voter registration. 
  <p class="updated_time"> 09:08 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/us/politics/justice-dept-policing.html">Justice Dept. Moves to Curb Police Abuses in Washington, D.C., and Massachusetts</a> NYT: The changes come as the Biden administration has struggled to make meaningful progress on a vow to crack down on police abuses. 
+ <a href="https://www.nytimes.com/2022/04/13/us/politics/justice-dept-policing.html">Justice Dept. Moves to Curb Police Abuses in D.C. and Massachusetts</a> NYT: The changes come as the Biden administration has struggled to make meaningful progress on a vow to crack down on police abuses. 
  <p class="updated_time"> 09:06 PM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/trump-oz-endorsement-fallout-00025209">Trumpworld scrambles to contain Oz endorsement fallout</a> Politico: A few MAGA luminaries will be hitting the trail in Pennsylvania. It remains unclear whether Trump will too. 
  <p class="updated_time"> 08:44 PM CT, Apr. 13 </p> 
