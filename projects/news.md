@@ -9,44 +9,52 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:41 AM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/14/world/ukraine-russia-war-news">Ukraine Live Updates: Russian Warship ‘Seriously Damaged,’ in Setback to Moscow’s Forces</a> NYT: Ukraine said it had struck the flagship of Russia’s Black Sea fleet with missiles, while Russia claimed that the damage was caused by a fire. As Moscow moves to escalate its offensive in the east and south, President Volodymyr Zelensky of Ukraine praised the U.S. for sending more military aid. 
+ <p class="updated_time"> 09:40 AM CT, Apr. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61083959?at_medium=RSS&at_campaign=KARANGA">Somalia's elections - where the people don't vote</a> BBC: Most of Somalia's new MPs are sworn in following an election in which the people did not vote. 
  <p class="updated_time"> 09:29 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/poland-ukraine-holocaust-dispatch.html">On Poland-Ukraine Border, the Past Is Always Present. It’s Not Always Predictive.</a> NYT: For a Jewish reporter with Eastern European roots, one of the hardest challenges covering the war is reconciling the horrors of the Holocaust with the Poland and Ukraine of today. 
  <p class="updated_time"> 09:20 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61105463?at_medium=RSS&at_campaign=KARANGA">Durban flood survivors: South Africans homeless, hurt and heartbroken</a> BBC: "We're traumatised, we can't even eat," one South African woman says after her house was destroyed. 
- <p class="updated_time"> 09:03 AM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/04/14/world/ukraine-russia-war-news">Ukraine Live Updates: Russian Warship ‘Seriously Damaged,’ in Setback to Moscow’s Forces</a> NYT: Ukraine said it had struck the flagship of Russia’s Black Sea fleet with missiles, while Russia claimed that the damage was caused by a fire. As Moscow moves to escalate its offensive in the east and south, President Volodymyr Zelensky of Ukraine praised the U.S. for sending more military aid. 
+ <p class="updated_time"> 08:46 AM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914">Russia’s Black Sea Flagship Abandoned After Ukraine Claims Missile Strike Sinks It</a> WSJ: Russia’s Black Sea Flagship Abandoned After Ukraine Claims Missile Strike Sinks It 
  <p class="updated_time"> 08:35 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-61104231?at_medium=RSS&at_campaign=KARANGA">Elon Musk makes offer to buy Twitter</a> BBC: The boss of Tesla claims he wants to unlock the social media platform's "extraordinary potential". 
- <p class="updated_time"> 08:35 AM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914">Russia’s Black Sea Flagship Abandoned After Ukraine Claims Missile Strike Sinks It</a> WSJ: Russia’s Black Sea Flagship Abandoned After Ukraine Claims Missile Strike Sinks It 
+ <p class="updated_time"> 08:26 AM CT, Apr. 14 </p> 
+ <a href="https://www.npr.org/2022/04/14/1092648546/russia-ukraine-war-sanctions">Where do sanctions on Russia go from here? A foreign policy expert weighs in</a> NPR: Despite heavy sanctions, Russia has not slowed down its invasion of Ukraine. Some are left wondering just how much sanctions can achieve. 
  <p class="updated_time"> 08:18 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/asia/japan-toddler-tv-show.html">Japanese TV Show “Old Enough!” Features Toddlers Running Errands</a> NYT: “Old Enough!,” a Japanese show that has been on the air for decades, recently came to Netflix. It features toddlers running errands without adult supervision. 
  <p class="updated_time"> 08:18 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-61097114?at_medium=RSS&at_campaign=KARANGA">One-way ticket to Rwanda for some UK asylum seekers</a> BBC: Some of those arriving on small boats will be sent to the country as part of a £120m trial. 
  <p class="updated_time"> 08:15 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/uk-rwanda-asylum-seekers.html">U.K. Plans to Send Some Asylum Seekers to Rwanda</a> NYT: Britain says it will fly many refugees thousands of miles to the central African country for processing and resettlement, a significant hardening of migration policy. 
- <p class="updated_time"> 07:35 AM CT, Apr. 14 </p> 
+ <p class="updated_time"> 08:05 AM CT, Apr. 14 </p> 
+ <a href="https://www.npr.org/2022/04/14/1092799610/moskva-flagship-damaged">A key warship in Russia's fleet was severely damaged. Ukraine claims responsibility</a> NPR: The Moskva has been heavily damaged and its crew evacuated. The ship is the same one whose crew ordered Ukrainian troops on Snake Island to surrender — a demand that was met with profanity. 
+ <p class="updated_time"> 07:46 AM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/dubai-sees-influx-of-staff-from-u-s-companies-leaving-russia-11649935549">Google, JPMorgan, Other U.S. Firms Flee Russia for Dubai</a> WSJ: Google, JPMorgan, Other U.S. Firms Flee Russia for Dubai 
  <p class="updated_time"> 06:58 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61103927?at_medium=RSS&at_campaign=KARANGA">Russian warship Moskva: What do we know?</a> BBC: Ukraine claims to have fired missiles at the cruiser, Russia says the damage was caused by a fire. 
- <p class="updated_time"> 06:35 AM CT, Apr. 14 </p> 
+ <p class="updated_time"> 06:46 AM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/a-former-dictators-family-stages-a-stunning-political-comeback-11649941200">A Former Dictator’s Family Stages a Stunning Political Comeback</a> WSJ: A Former Dictator’s Family Stages a Stunning Political Comeback 
  <p class="updated_time"> 06:17 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61106241?at_medium=RSS&at_campaign=KARANGA">Germany kidnap plot: Gang planned to overthrow democracy</a> BBC: A gang with links to far-right and anti-Covid groups wanted to overthrow democracy, say prosecutors. 
+ <p class="updated_time"> 06:15 AM CT, Apr. 14 </p> 
+ <a href="https://www.npr.org/2022/04/14/1092785344/young-ballerinas-were-dancing-months-ago-now-they-are-war-refugees">Young ballerinas were dancing months ago, now they are war refugees</a> NPR: At Christmas, they were dancing The Nutcracker in their home city of Kharkiv in eastern Ukraine. This Easter, they are living as displaced persons in the western city of Lviv. 
  <p class="updated_time"> 06:08 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/movies/cannes-film-festival-lineup.html">David Cronenberg and Claire Denis Will Compete at Cannes Film Festival</a> NYT: Organizers announced a lineup of nearly 50 movies for the event’s 2022 edition, including 18 in the running for the top honor, the Palme d’Or. 
  <p class="updated_time"> 05:59 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/asia/china-food-crisis-beijing.html">Shanghai’s Food Crisis Prompts Beijing Residents to Stock Up</a> NYT: “Things that happened in Shanghai made me panic,” said Li Lilin, a real estate agent in Beijing, adding, “I’m just terrified of starving to death.” 
  <p class="updated_time"> 05:48 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/ukraine-russia-nato-s300.html">A Soviet-Era Air Defense System Arrives in Ukraine From Slovakia</a> NYT: Encouraged by the United States, Slovakia “donated” a bulky but effective S-300, hoping to challenge Russian domination of the skies in the war next door. 
- <p class="updated_time"> 05:44 AM CT, Apr. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61083959?at_medium=RSS&at_campaign=KARANGA">Somalia's elections - where the people don't vote</a> BBC: Somalia's new MPs are being sworn in following an election in which the people did not vote. 
- <p class="updated_time"> 05:35 AM CT, Apr. 14 </p> 
+ <p class="updated_time"> 05:46 AM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/yellen-warns-nations-staying-neutral-in-russias-war-with-ukraine-11649879113">Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine</a> WSJ: Yellen Warns Nations Staying Neutral in Russia’s War With Ukraine 
  <p class="updated_time"> 05:10 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61105492?at_medium=RSS&at_campaign=KARANGA">Palestinian deaths mount as tensions with Israel spiral</a> BBC: Five are killed in 24 hours as Israel carries out sweeps in the West Bank after deadly attacks. 
- <p class="updated_time"> 04:35 AM CT, Apr. 14 </p> 
+ <p class="updated_time"> 04:46 AM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/hundreds-killed-in-south-african-floods-with-key-port-badly-hit-11649944222">Hundreds Killed in South African Floods, With Key Port Badly Hit</a> WSJ: Hundreds Killed in South African Floods, With Key Port Badly Hit 
+ <p class="updated_time"> 04:30 AM CT, Apr. 14 </p> 
+ <a href="https://www.npr.org/2022/04/14/1092677483/brittney-griner-russia-detention-wnba-nba-pay-gap">What Brittney Griner's detention in Russia tells us about basketball's gender pay gap</a> NPR: "The reality is, she's over there because of a gender issue ― pay inequity," the head of the WNBA's players union said this week about the basketball star who's been detained in Russia since February. 
  <p class="updated_time"> 04:00 AM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092446376/how-the-late-jazz-great-chick-corea-is-being-remembered-in-concert">How the late jazz great Chick Corea is being remembered — in concert</a> NPR: Chick Corea loved to collaborate. His former bandmates are honoring his memory with two star-studded concerts. 
  <p class="updated_time"> 04:00 AM CT, Apr. 14 </p> 
@@ -72,7 +80,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:29 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/asia/philippines-marcos-president-election.html">Ahead of Philippines Election, Ferdinand Marcos Jr. Rises</a> NYT: Ferdinand Marcos Jr. has spent his political career trying to rehabilitate the family name. As the front-runner in the upcoming election, he may finally succeed. 
  <p class="updated_time"> 08:58 PM CT, Apr. 13 </p> 
- <a href="https://www.npr.org/2022/04/13/1092655344/who-hhs-covid-public-health-emergency">COVID remains a public health emergency for now, says WHO and Biden administration </a> NPR: The WHO and the Biden administration extended the public health emergency for COVID-19, saying the virus is still considered a serious health threat. 
+ <a href="https://www.npr.org/2022/04/13/1092655344/who-hhs-covid-public-health-emergency">COVID remains a public health emergency for now, the WHO and Biden administration say</a> NPR: The WHO and the Biden administration extended the public health emergency for COVID-19, saying the virus is still considered a serious health threat. 
  <p class="updated_time"> 08:08 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/finland-sweden-nato-russia-ukraine.html">Despite Russian Warnings, Finland and Sweden Draw Closer to NATO</a> NYT: The invasion of Ukraine has heightened security fears, pushing even formally nonaligned countries toward the Western alliance. 
  <p class="updated_time"> 07:54 PM CT, Apr. 13 </p> 
@@ -111,12 +119,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/13/1092686626/finland-moves-closer-to-seeking-nato-membership-as-the-war-in-ukraine-unites-eur">Finland moves closer to seeking NATO membership as the war in Ukraine unites Europe</a> NPR: Russia's war in Ukraine continues to unite Europe. Finland is now moving closer to seeking NATO membership. On Wednesday, the country released a report that could move it closer to a NATO bid. 
  <p class="updated_time"> 03:24 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092686612/how-sanctions-have-impacted-russias-economy-and-whether-that-will-help-end-the-w">How sanctions have impacted Russia's economy — and whether that will help end the war</a> NPR: The West is hammering Russia with sanctions. But, do they work? NPR's Daniel Estrin talks with Emma Ashford of the Atlantic Council. 
- <p class="updated_time"> 03:24 PM CT, Apr. 13 </p> 
- <a href="https://www.npr.org/2022/04/13/1092686591/russian-forces-may-be-preparing-for-a-renewed-offensive-in-eastern-ukraine">Russian forces may be preparing for a renewed offensive in eastern Ukraine</a> NPR: Ukraine continues to battle Russian forces focusing their assault on the nation's east. The presidents of Poland, Lithuania, Latvia and Estonia are meeting with President Zelenskyy in Kyiv. 
  <p class="updated_time"> 02:39 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/us-russian-troops-donbas-intelligence-sharing-ukraine.html">U.S. Expands Intelligence Sharing With Ukraine on Russian Forces in Donbas Region</a> NYT: Western officials say they expect the Kremlin to mount a major offensive in the Donbas, where Russian-backed separatists have been fighting Ukrainian forces for years. 
- <p class="updated_time"> 02:20 PM CT, Apr. 13 </p> 
- <a href="https://www.npr.org/2022/04/13/1092091451/ukrainians-have-arrived-at-the-u-s-mexico-border-by-the-thousands">Ukrainians have arrived at the U.S.-Mexico border by the thousands</a> NPR: Tijuana's border crossing with San Diego has become the main point of entry into the United States for Ukrainian refugees fleeing the war. 
  <p class="updated_time"> 01:31 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/johnson-partygate-rishi-sunak-fines.html">Johnson’s Cabinet Backs Him After ‘Partygate’ Fine</a> NYT: The support from the British prime minister’s party means he can likely ride out the immediate storm, but his troubles are not over, experts say. 
  <p class="updated_time"> 01:11 PM CT, Apr. 13 </p> 
@@ -149,12 +153,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/world/europe/biden-russia-genocide-ukraine.html">President Biden Accuses Russia of Committing Genocide in Ukraine</a> NYT: It was the first time the president has used the term to describe the Russia’s war. He emphasized it was a personal view, not a legal determination. 
  <p class="updated_time"> 06:32 AM CT, Apr. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61093002?at_medium=RSS&at_campaign=KARANGA">BBC reporter: Scale of destruction in Borodyanka, in Kyiv region is extraordinary</a> BBC: Anna Foster is in Borodyanka showing the scale of damage left behind in the Kyiv region. 
- <p class="updated_time"> 05:00 AM CT, Apr. 13 </p> 
- <a href="https://www.npr.org/2022/04/13/1092324328/images-of-zelenskyy-show-the-physical-toll-that-trauma-and-stress-can-have-on-th">Images of Zelenskyy show the physical toll that trauma and stress can have on the body</a> NPR: Health experts told NPR that long-term exposure to trauma and stress — like that of the war in Ukraine — can impact a person's sleep, memory, mood and physical appearance. 
  <p class="updated_time"> 04:49 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/ukraine-viktor-medvedchuk-putin-ally.html">Ukrainian Officers Said to Detain Putin Ally Viktor Medvedchuk</a> NYT: Viktor Medvedchuk, a wealthy Ukrainian politician seen as the Kremlin’s main agent of influence in Ukraine in recent years, had disappeared shortly after the start of the war. 
- <p class="updated_time"> 04:08 AM CT, Apr. 13 </p> 
- <a href="https://www.npr.org/2022/04/13/1092526223/australian-minister-tries-to-end-solomons-china-pact">Australian minister tries to end Solomons-China pact</a> NPR: Under the Solomon Islands' terms of a draft agreement, China could send police, military personnel and other armed forces to the Solomon Islands "to assist in maintaining social order." 
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-schools-war.html">War in Ukraine Disrupts Education of Millions of Children</a> NYT: The country’s teachers are doing their best to provide lessons for the millions of school-age children whose education has been interrupted. 
  <p class="updated_time"> 03:53 AM CT, Apr. 13 </p> 
@@ -210,6 +210,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 08:58 AM CT, Apr. 14 </p> 
  <a href="https://www.politico.com/news/2022/04/14/pentagon-explosion-russian-warship-00025243">Pentagon confirms explosion aboard Russian warship</a> Politico: Ukraine has claimed credit for the blast, which Russia has said was the result of an internal fire. 
+ <p class="updated_time"> 08:26 AM CT, Apr. 14 </p> 
+ <a href="https://www.npr.org/2022/04/14/1092648546/russia-ukraine-war-sanctions">Where do sanctions on Russia go from here? A foreign policy expert weighs in</a> NPR: Despite heavy sanctions, Russia has not slowed down its invasion of Ukraine. Some are left wondering just how much sanctions can achieve. 
  <p class="updated_time"> 07:26 AM CT, Apr. 14 </p> 
  <a href="https://www.politico.com/news/2022/04/14/elon-musk-offer-buy-twitter-00025229">Musk mounts bid to buy Twitter</a> Politico: He proposed to purchase the remaining shares of the social media company’s stock at a rate of $54.20 per share. 
  <p class="updated_time"> 06:01 AM CT, Apr. 14 </p> 
@@ -272,6 +274,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/13/biden-gas-supply-climate-change-00024776">Biden's shift from climate to oil rattles greens</a> Politico: The White House is preoccupied with taming inflation and keeping the pressure on Russia's Vladimir Putin to end his war in Ukraine. 
  <p class="updated_time"> 01:20 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092652164/after-voting-in-virginia-mark-meadows-is-removed-as-north-carolina-registered-vo">After voting in Virginia, Mark Meadows is removed as a North Carolina registered voter</a> NPR: The former White House chief of staff faces a probe over an allegation that he never resided at the address he put on his voter registration ahead of the 2020 election. 
+ <p class="updated_time"> 12:21 PM CT, Apr. 13 </p> 
+ <a href="https://www.politico.com/news/2022/04/13/hochul-brian-benjamin-replacement-00024967">Hochul considering 'a lot of people' to replace LG; says she was unaware of his troubles</a> Politico: Hochul stressed that the search for a new lieutenant is still “very early in the process.” 
  <p class="updated_time"> 11:45 AM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/trump-georgia-governor-race-00024987">Trump pours money into a midterm race for the first time</a> Politico: The former president is putting money from his PAC into the race to unseat GOP Gov. Brian Kemp of Georgia. 
  <p class="updated_time"> 09:45 AM CT, Apr. 13 </p> 
@@ -294,6 +298,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/13/biden-nuclear-cruise-missile-scrap-00024865">Political brawl looms over nuclear cruise missile Biden plans to scrap</a> Politico: Biden threw foreign policy progressives a bone by killing a weapons system Trump proposed. But Republicans on Capitol Hill are ready to bring it back from the dead. 
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092291748/economy-recession-inflation-federal-reserve-interest-rates">Why there are growing fears the U.S. is headed to a recession</a> NPR: With inflation at a four-decade high, a growing number of forecasters worry the U.S. economy may be headed to a recession as the Fed gears up to raise interest rates aggressively. 
+ <p class="updated_time"> 03:31 AM CT, Apr. 13 </p> 
+ <a href="https://www.politico.com/news/2022/04/13/dems-crime-law-and-order-politics-00024875">Dems retreat on crime and police reform</a> Politico: If 2020 was the year the left reordered the traditional politics of crime and policing, 2022 looks like the year centrists regained their footing and nullified those gains. 
  <p class="updated_time"> 03:30 AM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/war-crimes-russia-ukraine-00024860">Why prosecuting Russian war crimes in Ukraine could be complicated</a> Politico: Investigators believe the atrocities committed in Ukraine could be rife for international prosecution. But successful convictions are rare. 
  <p class="updated_time"> 02:38 AM CT, Apr. 13 </p> 
@@ -308,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/us/politics/us-report-human-rights.html">U.S. Report Describes a Global Retreat on Human Rights </a> NYT: Secretary of State Antony Blinken says repressive governments “are growing more brazen” and reaching across borders to target their critics. 
  <p class="updated_time"> 05:19 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/mark-zuckerberg-midterms-elections-grant.html">Mark Zuckerberg Ends Election Grants</a> NYT: A spokesman for the Facebook founder said the money sent to election offices in 2020 was a “one-time donation.” The grants prompted Republicans to push for bans on private donations for elections. 
- <p class="updated_time"> 05:17 PM CT, Apr. 12 </p> 
- <a href="https://www.npr.org/2022/04/12/1092460473/biden-appeared-to-accuse-putin-of-committing-a-genocide-in-ukraine">Biden accuses Putin of committing a 'genocide' in Ukraine</a> NPR: Speaking about easing restrictions on higher-ethanol gasoline amid spiking fuel costs, Biden said prices shouldn't "hinge on whether a dictator declares war and commits genocide a half a world away." 
  <p class="updated_time"> 04:51 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html">Ukraine Says It Thwarted a Sophisticated Russian Cyberattack on Its Power Grid</a> NYT: Experts say the hacking, while unsuccessful, was among the most complex cyberattacks they have seen in the war so far. 
  <p class="updated_time"> 04:12 PM CT, Apr. 12 </p> 
