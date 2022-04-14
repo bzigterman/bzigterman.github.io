@@ -287,49 +287,97 @@ il_hosp_pct_change_text <-
   }
 
 
-### table ----
+cdc_il_data_url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=us_trend_by_IL"
+cdc_il_data <- rio::import(cdc_il_data_url, format = "json")$us_trend_by_Geography
+cdc_il_new_deaths <- cdc_il_data %>%
+  select(date,seven_day_avg_new_deaths) %>%
+  mutate(date = mdy(date)) %>%
+  mutate(avg_new_deaths = seven_day_avg_new_deaths) %>%
+  select(date,avg_new_deaths)
 
-il_combined <- full_join(idph_cases_il, idph_vax_il) %>%
-  full_join(idph_hosp) %>%
-  select(Date,
-         avg_new_deaths, avg_new_cases, TotalInUseBedsCOVID, 
-         AdministeredCountRollAvg,
-         PersonsFullyVaccinated,
-         PctFullyVaccinatedPopulation) %>%
-  mutate(PctFullyVaccinatedPopulation = PctFullyVaccinatedPopulation*100) %>%
-  fill(TotalInUseBedsCOVID, .direction = "down") %>%
-  fill(AdministeredCountRollAvg, .direction = "down") %>%
-  fill(PersonsFullyVaccinated, .direction = "down") %>%
-  fill(PctFullyVaccinatedPopulation, .direction = "down")
+cdc_il_new_cases <- cdc_il_data %>%
+  select(date,seven_day_avg_new_cases) %>%
+  mutate(date = mdy(date)) %>%
+  mutate(avg_new_cases = seven_day_avg_new_cases) %>%
+  select(date,avg_new_cases)
 
-il_combined_longer <- il_combined %>%
-  pivot_longer(!Date,
+cdc_il_hosp <- cdc_il_data %>%
+  select(date,sum_inpatient_beds_used_covid_7DayAvg) %>%
+  mutate(date = mdy(date)) %>%
+  mutate(hosp_patients = sum_inpatient_beds_used_covid_7DayAvg) %>%
+  select(date,hosp_patients)
+
+cdc_il_vax <- cdc_il_data %>%
+  select(date,Administered_7_Day_Rolling_Average) %>%
+  mutate(date = mdy(date)) %>%
+  mutate(daily_vaccinations = Administered_7_Day_Rolling_Average) %>%
+  select(date,daily_vaccinations)
+
+
+cdc_il_joined <- full_join(cdc_il_new_cases, cdc_il_vax) %>%
+  full_join(cdc_il_hosp) %>%
+  full_join(cdc_il_new_deaths) %>%
+  select(date, daily_vaccinations,
+         avg_new_deaths, avg_new_cases, hosp_patients)
+
+cdc_il_longer <- cdc_il_joined %>%
+  pivot_longer(!date,
                values_to = "values",
                names_to = "names") %>%
-  mutate(names = recode_factor(
-    names, 
-    "avg_new_cases" = "Cases",
-    "TotalInUseBedsCOVID" = "Hospitalized",
-    "avg_new_deaths" = "Deaths",
-    "AdministeredCountRollAvg" = "New Vaccine Doses",
-    "PersonsFullyVaccinated" = "Fully Vaccinated",
-    "PctFullyVaccinatedPopulation" = "Pct. Fully Vaccinated",
-    .ordered = TRUE
-  )) %>%
-  mutate(values = signif(values, 3))
+  mutate(names = recode_factor(names, 
+                               "avg_new_cases" = "Average New Cases",
+                               "hosp_patients" = "Hospitalized",     
+                               "avg_new_deaths" = "Average New Deaths",
+                               "daily_vaccinations" = "Average New Vaccine Doses"))  %>%
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE),
+                            mday(date))) 
 
-lists <- il_combined_longer %>%
+
+il_weekday <- wday(tail(cdc_il_joined$date,1), label = TRUE, abbr = FALSE)
+
+### table ----
+
+# il_combined <- full_join(idph_cases_il, idph_vax_il) %>%
+#   full_join(idph_hosp) %>%
+#   select(Date,
+#          avg_new_deaths, avg_new_cases, TotalInUseBedsCOVID, 
+#          AdministeredCountRollAvg,
+#          PersonsFullyVaccinated,
+#          PctFullyVaccinatedPopulation) %>%
+#   mutate(PctFullyVaccinatedPopulation = PctFullyVaccinatedPopulation*100) %>%
+#   fill(TotalInUseBedsCOVID, .direction = "down") %>%
+#   fill(AdministeredCountRollAvg, .direction = "down") %>%
+#   fill(PersonsFullyVaccinated, .direction = "down") %>%
+#   fill(PctFullyVaccinatedPopulation, .direction = "down")
+# 
+# il_combined_longer <- il_combined %>%
+#   pivot_longer(!Date,
+#                values_to = "values",
+#                names_to = "names") %>%
+#   mutate(names = recode_factor(
+#     names, 
+#     "avg_new_cases" = "Cases",
+#     "TotalInUseBedsCOVID" = "Hospitalized",
+#     "avg_new_deaths" = "Deaths",
+#     "AdministeredCountRollAvg" = "New Vaccine Doses",
+#     "PersonsFullyVaccinated" = "Fully Vaccinated",
+#     "PctFullyVaccinatedPopulation" = "Pct. Fully Vaccinated",
+#     .ordered = TRUE
+#   )) %>%
+#   mutate(values = signif(values, 3))
+
+lists <- cdc_il_longer %>%
   group_by(names) %>%
   do(tail(na.omit(.), n = 90)) %>%
   summarise(lists = list(values)) 
-add_latest_column <- il_combined_longer %>%
-  select(names,Date,values) %>%
+add_latest_column <- cdc_il_longer %>%
+  select(names,date,values) %>%
   group_by(names) %>%
   do(tail(na.omit(.), n = 1)) %>%
   rename(latest = values) %>%
   full_join(lists) 
 
-add_two_weeks_ago_column <- il_combined_longer %>%
+add_two_weeks_ago_column <- cdc_il_longer %>%
   select(names,values) %>%
   group_by(names) %>%
   do(tail(.,n = 15)) %>%
@@ -356,13 +404,13 @@ il_table <- ungroup(latest_data_for_table) %>%
     table.font.size = px(12)
   ) %>%
   opt_all_caps(  all_caps = TRUE) %>%
-  cols_hide(columns = c(Date, lists)) %>%
+  cols_hide(columns = c(date, lists)) %>%
   cols_move(
     columns = pct_change,
     after = latest) %>%
   fmt_number(
     columns = c(latest,two_weeks_ago),
-    n_sigfig = 2,
+    decimals = 0,
     suffixing = TRUE) %>%
   fmt_percent(
     columns = pct_change,
@@ -604,7 +652,7 @@ usa_table <- ungroup(latest_data_for_table) %>%
     after = latest) %>%
   fmt_number(
     columns = c(latest,two_weeks_ago),
-    decimals = 1,
+    decimals = 0,
     suffixing = TRUE) %>%
   fmt_percent(
     columns = pct_change,
@@ -792,7 +840,7 @@ world_table <- ungroup(latest_data_for_table) %>%
     after = latest) %>%
   fmt_number(
     columns = c(latest,two_weeks_ago),
-    decimals = 1,
+    decimals = 0,
     suffixing = TRUE) %>%
   fmt_percent(
     columns = pct_change,
