@@ -9,15 +9,15 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:39 AM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque">Live Updates: Jerusalem Calms After Israeli-Palestinian Clashes at Holy Site</a> NYT: Violence broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, in the morning on the first day of a rare convergence of Ramadan, Easter and Passover. 
  <p class="updated_time"> 08:26 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/ukraine-russia-war-news">Live Updates: Russia Sets Stage for Battle to Control Ukraine’s East</a> NYT: Moscow is moving helicopters to Ukraine’s eastern border and bringing in soldiers, the Pentagon says, as both sides prepare for a dug-in fight. Russian forces appear closer to capturing Mariupol. 
  <p class="updated_time"> 08:25 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/russia-disinformation-transnistria.html">How Russian Disinformation Spreads Beyond Its Borders</a> NYT: A New York Times’ video team traveled to the breakaway region of Transnistria to find out what residents there believe about the war in Ukraine. 
- <p class="updated_time"> 08:25 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque">Live Updates: Jerusalem Calms After Israeli-Palestinian Clashes at Holy Site</a> NYT: Violence broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, in the morning on the first day of a rare convergence of Ramadan, Easter and Passover. 
  <p class="updated_time"> 08:13 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61105463?at_medium=RSS&at_campaign=KARANGA">Durban flood survivors: South Africans homeless, hurt and heartbroken</a> BBC: "We're traumatised, we can't even eat," one South African woman says after her house was destroyed. 
- <p class="updated_time"> 07:34 AM CT, Apr. 15 </p> 
+ <p class="updated_time"> 07:48 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
  <p class="updated_time"> 07:29 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/science/interstellar-meteor-debate.html">Military Memo Adds to Possible Interstellar Meteor Mystery</a> NYT: The U.S. Space Command seemed to confirm a claim that a meteor from outside the solar system had entered Earth’s atmosphere, but other scientists and NASA are still not convinced. 
@@ -27,35 +27,35 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61117828?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Save energy and annoy Putin, Germans told</a> BBC: The vice-chancellor says they should use bikes and lower the thermostat to use less Russian gas. 
  <p class="updated_time"> 07:13 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/video/world/100000008272335/russia-disinformation-moldova.html">Journey to Transnistria: Inside Russia’s Disinformation Bubble</a> NYT: We traveled inside Transnistria, a Moscow-backed breakaway state in Moldova, to find out how Russia’s disinformation campaign stretches beyond its borders. 
+ <p class="updated_time"> 06:48 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 06:39 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/shanghai-covid-isolation-quarantine.html">Shanghai’s Isolation Facilities Have Prompted a Backlash</a> NYT: Hundreds of thousands of Shanghai residents have been sent to quarantine and isolation facilities. One woman described her ordeal. 
- <p class="updated_time"> 06:34 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 06:22 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/australia/quiz-time-on-the-campaign-trail.html">Quiz Time on the Campaign Trail</a> NYT: Several “gotcha” questions for candidates, including one that Anthony Albanese got wrong, raise deeper questions about the quality of the nation’s political discourse. 
  <p class="updated_time"> 06:16 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/africa/tanzania-female-president.html">Tanzania’s First Female President Wants to Bring Her Nation in From the Cold</a> NYT: Samia Suluhu Hassan became the only female head of government in Africa when her predecessor suddenly died. She is setting a new course. 
  <p class="updated_time"> 06:01 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61117528?at_medium=RSS&at_campaign=KARANGA">China Covid: Clashes in Shanghai over lockdown evictions</a> BBC: Residents have been forced from their homes as apartments are turned into quarantine centres. 
- <p class="updated_time"> 05:34 AM CT, Apr. 15 </p> 
+ <p class="updated_time"> 05:48 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/chinas-central-bank-takes-small-steps-to-support-economy-11650024179">China’s Central Bank Takes Small Steps to Support Economy</a> WSJ: China’s Central Bank Takes Small Steps to Support Economy 
  <p class="updated_time"> 05:32 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61114843?at_medium=RSS&at_campaign=KARANGA">Russian warship: Moskva sinks in Black Sea</a> BBC: The warship sank while being towed a day after Ukraine claimed to have hit it with a missile. 
  <p class="updated_time"> 05:16 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093014911/russia-loses-warship-says-will-increase-attacks-on-kyiv">Russia loses warship, says will increase attacks on Kyiv</a> NPR: A day after Moscow suffered a stinging symbolic defeat with the loss of the flagship of its Black Sea fleet, Russia's Defense Ministry has promised to ramp up missile attacks on the Ukrainian capital. 
+ <p class="updated_time"> 04:48 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/the-orbit-of-sanctions-around-vladimir-putin-11650015002">The Orbit of Sanctions Around Vladimir Putin</a> WSJ: The Orbit of Sanctions Around Vladimir Putin 
  <p class="updated_time"> 04:42 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61105497?at_medium=RSS&at_campaign=KARANGA">Jerusalem: Over 150 hurt in clashes at al-Aqsa Mosque compound</a> BBC: Violence erupted at the al-Aqsa Mosque compound amid soaring Israel-Palestinian tensions. 
  <p class="updated_time"> 04:42 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1091492248/nato-arctic-war-game-had-a-cold-war-feel">NATO troops conducted a routine war exercise in the Arctic. This year felt different</a> NPR: Troops from 27 countries wrapped up one of the largest NATO war games since the 1980s — in the Arctic. Russia's war in Ukraine made the exercise feel like more than a game. 
- <p class="updated_time"> 04:34 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/the-orbit-of-sanctions-around-vladimir-putin-11650015002">The Orbit of Sanctions Around Vladimir Putin</a> WSJ: The Orbit of Sanctions Around Vladimir Putin 
  <p class="updated_time"> 04:16 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093006005/many-countries-are-seeing-the-worst-inflation-in-decades">Many countries are seeing the worst inflation in decades</a> NPR: Inflation isn't just an American problem — it's happening in places around the world and stretching some countries to the point of political unrest.Many 
  <p class="updated_time"> 04:01 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1092882592/russia-ukraine-war-update-butcher-of-syria-putin-dvornikov">What the ruthless new commander of Russia's military in Ukraine signals for the war</a> NPR: General Aleksandr Dvornikov is infamous for his ruthlessness while leading Russia's intervention in Syria. Now he's heading Russia's war in Ukraine, signaling that the violence could intensify. 
  <p class="updated_time"> 04:00 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/china-europe-russia-ukraine.html">Faced With a Changed Europe, China Sticks to an Old Script</a> NYT: Europe was viewed as lacking the power and the will to contest China’s rise. But now, a harder line toward Russia has implications for Beijing. 
- <p class="updated_time"> 03:34 AM CT, Apr. 15 </p> 
+ <p class="updated_time"> 03:48 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/russias-sunken-warship-moskva-recalls-great-world-war-ii-naval-battles-11650021090">Russia’s Sunken Warship Moskva Recalls Great World War II Naval Battles</a> WSJ: Russia’s Sunken Warship Moskva Recalls Great World War II Naval Battles 
  <p class="updated_time"> 03:23 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61115738?at_medium=RSS&at_campaign=KARANGA">Elon Musk 'not sure' his takeover bid for Twitter will be successful</a> BBC: The Tesla boss claims he has a 'Plan B' if his offer, which values the firm at $43bn, is rejected. 
