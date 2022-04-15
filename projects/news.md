@@ -9,44 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:54 AM CT, Apr. 15 </p> 
+ <p class="updated_time"> 07:29 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque">Live Updates: Israeli-Palestinian Violence Erupts at Jerusalem Holy Site</a> NYT: Clashes broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, on the first day of a rare convergence of Ramadan, Easter and Passover. 
- <p class="updated_time"> 06:50 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/04/15/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Sets Stage for Battle to Control Ukraine’s East</a> NYT: Moscow is moving helicopters to Ukraine’s eastern border and bringing in soldiers, the Pentagon says, as both sides prepare for a bloody fight. Russian forces appear closer to capturing Mariupol. 
+ <p class="updated_time"> 07:29 AM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/science/interstellar-meteor-debate.html">Military Memo Adds to Possible Interstellar Meteor Mystery</a> NYT: The U.S. Space Command seemed to confirm a claim that a meteor from outside the solar system had entered Earth’s atmosphere, but other scientists and NASA are still not convinced. 
+ <p class="updated_time"> 07:22 AM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/15/world/ukraine-russia-war-news">Live Updates: Russia Sets Stage for Battle to Control Ukraine’s East</a> NYT: Moscow is moving helicopters to Ukraine’s eastern border and bringing in soldiers, the Pentagon says, as both sides prepare for a dug-in fight. Russian forces appear closer to capturing Mariupol. 
+ <p class="updated_time"> 07:21 AM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/travel/qatar-world-cup.html">What to Know About 2022 World Cup Travel to Qatar</a> NYT: Tickets are on sale for the world’s most popular sporting event, but concerns over worker exploitation and laws against homosexuality have complicated the decision to attend for some fans. 
+ <p class="updated_time"> 07:15 AM CT, Apr. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61105463?at_medium=RSS&at_campaign=KARANGA">Durban flood survivors: South Africans homeless, hurt and heartbroken</a> BBC: "We're traumatised, we can't even eat," one South African woman says after her house was destroyed. 
+ <p class="updated_time"> 07:13 AM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/video/world/100000008272335/russia-disinformation-moldova.html">Journey to Transnistria: Inside Russia’s Disinformation Bubble</a> NYT: We traveled inside Transnistria, a Moscow-backed breakaway state in Moldova, to find out how Russia’s disinformation campaign stretches beyond its borders. 
  <p class="updated_time"> 06:39 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/shanghai-covid-isolation-quarantine.html">Shanghai’s Isolation Facilities Have Prompted a Backlash</a> NYT: Hundreds of thousands of Shanghai residents have been sent to quarantine and isolation facilities. One woman described her ordeal. 
+ <p class="updated_time"> 06:30 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 06:22 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/australia/quiz-time-on-the-campaign-trail.html">Quiz Time on the Campaign Trail</a> NYT: Several “gotcha” questions for candidates, including one that Anthony Albanese got wrong, raise deeper questions about the quality of the nation’s political discourse. 
  <p class="updated_time"> 06:16 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/africa/tanzania-female-president.html">Tanzania’s First Female President Wants to Bring Her Nation in From the Cold</a> NYT: Samia Suluhu Hassan became the only female head of government in Africa when her predecessor suddenly died. She is setting a new course. 
  <p class="updated_time"> 06:01 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61117528?at_medium=RSS&at_campaign=KARANGA">China Covid: Clashes in Shanghai over lockdown evictions</a> BBC: Residents have been forced from their homes as apartments are turned into quarantine centres. 
- <p class="updated_time"> 05:55 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 05:32 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61114843?at_medium=RSS&at_campaign=KARANGA">Russian warship: Moskva sinks in Black Sea</a> BBC: The warship sank while being towed a day after Ukraine claimed to have hit it with a missile. 
+ <p class="updated_time"> 05:30 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
  <p class="updated_time"> 05:16 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093014911/russia-loses-warship-says-will-increase-attacks-on-kyiv">Russia loses warship, says will increase attacks on Kyiv</a> NPR: A day after Moscow suffered a stinging symbolic defeat with the loss of the flagship of its Black Sea fleet, Russia's Defense Ministry has promised to ramp up missile attacks on the Ukrainian capital. 
- <p class="updated_time"> 04:55 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
  <p class="updated_time"> 04:42 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61105497?at_medium=RSS&at_campaign=KARANGA">Jerusalem: Over 150 hurt in clashes at al-Aqsa Mosque compound</a> BBC: Violence erupted at the al-Aqsa Mosque compound amid soaring Israel-Palestinian tensions. 
  <p class="updated_time"> 04:42 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1091492248/nato-arctic-war-game-had-a-cold-war-feel">NATO Arctic war game had a Cold War feel</a> NPR: Troops from 27 countries wrapped up one of the largest NATO war games since the 1980s — in the Arctic. Russia's war in Ukraine made the exercise feel like more than a game. 
+ <p class="updated_time"> 04:30 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/the-orbit-of-sanctions-around-vladimir-putin-11650015002">The Orbit of Sanctions Around Vladimir Putin</a> WSJ: The Orbit of Sanctions Around Vladimir Putin 
  <p class="updated_time"> 04:16 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093006005/many-countries-are-seeing-the-worst-inflation-in-decades">Many countries are seeing the worst inflation in decades</a> NPR: Inflation isn't just an American problem — it's happening in places around the world and stretching some countries to the point of political unrest.Many 
  <p class="updated_time"> 04:01 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1092882592/russia-ukraine-war-update-butcher-of-syria-putin-dvornikov">What the ruthless new commander of Russia's military in Ukraine signals for the war</a> NPR: General Aleksandr Dvornikov is infamous for his ruthlessness while leading Russia's intervention in Syria. Now he's heading Russia's war in Ukraine, signaling that the violence could intensify. 
  <p class="updated_time"> 04:00 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/travel/qatar-world-cup.html">What to Know About 2022 World Cup Travel to Qatar</a> NYT: Tickets are on sale for the world’s most popular sporting event, but concerns over worker exploitation and laws against homosexuality have complicated the decision to attend for some fans. 
- <p class="updated_time"> 04:00 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/china-europe-russia-ukraine.html">Faced With a Changed Europe, China Sticks to an Old Script</a> NYT: Europe was viewed as lacking the power and the will to contest China’s rise. But now, a harder line toward Russia has implications for Beijing. 
- <p class="updated_time"> 04:00 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/science/interstellar-meteor-debate.html">Military Memo Adds to Possible Interstellar Meteor Mystery</a> NYT: The U.S. Space Command seemed to confirm a claim that a meteor from outside the solar system had entered Earth’s atmosphere, but other scientists and NASA are still not convinced. 
- <p class="updated_time"> 04:00 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/video/world/100000008272335/russia-disinformation-moldova.html">Journey to Transnistria: Inside Russia’s Disinformation Bubble</a> NYT: We travelled inside Transnistria, a Moscow-backed breakaway state in Moldova, to find out how Russia’s disinformation campaign stretches beyond its borders. 
- <p class="updated_time"> 03:55 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/the-orbit-of-sanctions-around-vladimir-putin-11650015002">The Orbit of Sanctions Around Vladimir Putin</a> WSJ: The Orbit of Sanctions Around Vladimir Putin 
+ <p class="updated_time"> 03:30 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/russias-sunken-warship-moskva-recalls-great-world-war-ii-naval-battles-11650021090">Russia’s Sunken Warship Moskva Recalls Great World War II Naval Battles</a> WSJ: Russia’s Sunken Warship Moskva Recalls Great World War II Naval Battles 
  <p class="updated_time"> 03:23 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61115738?at_medium=RSS&at_campaign=KARANGA">Elon Musk 'not sure' his takeover bid for Twitter will be successful</a> BBC: The Tesla boss claims he has a 'Plan B' if his offer, which values the firm at $43bn, is rejected. 
  <p class="updated_time"> 03:22 AM CT, Apr. 15 </p> 
@@ -55,12 +59,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/world/asia/kim-jong-un-ri-chun-hee-luxury-home.html">Kim Jong-un Gives Ri Chun-hee, North Korean Anchor, a Luxe Home</a> NYT: Ri Chun-hee, who delivers the news with a soaring, bombastic tenor, received a two-story apartment in a riverside complex from the country’s leader, apparently for her loyalty. 
  <p class="updated_time"> 03:00 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093006759/uk-plan-to-fly-asylum-seekers-to-rwanda-draws-outrage">U.K. plan to fly asylum-seekers to Rwanda draws outrage</a> NPR: Britain announced a deal with Rwanda on Thursday to send asylum-seekers thousands of miles to the East African country, which it said would deter people-smugglers, but has been called inhumane. 
- <p class="updated_time"> 02:55 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/russias-sunken-warship-moskva-recalls-great-world-war-ii-naval-battles-11650021090">Russia’s Sunken Warship Moskva Recalls Great World War II Naval Battles</a> WSJ: Russia’s Sunken Warship Moskva Recalls Great World War II Naval Battles 
+ <p class="updated_time"> 02:30 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-to-celebrate-its-biggest-holiday-though-it-might-not-bring-out-the-big-guns-11650012714">North Korea to Celebrate Its Big Holiday, Though It Might Not Bring Out the Big Guns</a> WSJ: North Korea to Celebrate Its Big Holiday, Though It Might Not Bring Out the Big Guns 
+ <p class="updated_time"> 02:20 AM CT, Apr. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61041618?at_medium=RSS&at_campaign=KARANGA">Brain cancer DNA research hopes to speed up diagnosis</a> BBC: More than 200 brain tumour patients are taking part in research hoping to yield new personalised treatments. 
  <p class="updated_time"> 02:09 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/a-reporter-covering-the-war-reflects-on-the-legacy-of-the-holocaust.html">A reporter covering the war reflects on the legacy of the Holocaust.</a> NYT: In eastern Poland, perceptions of Russia and Ukraine are shaped by a traumatic past. 
- <p class="updated_time"> 01:55 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/north-korea-to-celebrate-its-biggest-holiday-though-it-might-not-bring-out-the-big-guns-11650012714">North Korea to Celebrate Its Big Holiday, Though It Might Not Bring Out the Big Guns</a> WSJ: North Korea to Celebrate Its Big Holiday, Though It Might Not Bring Out the Big Guns 
  <p class="updated_time"> 01:28 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61117092?at_medium=RSS&at_campaign=KARANGA">Former Twitter exec questions seriousness of Musk offer</a> BBC: Vivian Schiller, who used to work there, tells Newsnight Elon Musk enjoys "throwing bombs" on Twitter. 
  <p class="updated_time"> 01:09 AM CT, Apr. 15 </p> 
@@ -99,6 +103,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/14/world/europe/poland-ukraine-holocaust-dispatch.html">On Poland-Ukraine Border, the Past Is Always Present. It’s Not Always Predictive.</a> NYT: For a Jewish reporter with Eastern European roots, one of the hardest challenges covering the war is reconciling the horrors of the Holocaust with the Poland and Ukraine of today. 
  <p class="updated_time"> 05:19 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/russia-warship-eu-oil.html">Russia Hits Setbacks, as Flagship Sinks and E.U. Mulls Oil Ban</a> NYT: Ukraine said it hit a Russian warship in the Black Sea with its own missiles, a damaging blow to Moscow, symbolically and militarily, if its claim is confirmed. 
+ <p class="updated_time"> 05:17 PM CT, Apr. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61113079?at_medium=RSS&at_campaign=KARANGA">Behind the scenes in Zelensky's modern HQ</a> BBC: Clive Myrie visits the heavily fortified Situation Room - the HQ of the resistance against Russia's invasion. 
  <p class="updated_time"> 04:51 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/barentsburg-norway-ukraine-war-russia.html">Tensions Over the Ukraine War Deepen the Chill Near the North Pole</a> NYT: The war and the comments of a Russian diplomat have strained relations on an archipelago in Norway where Russians, Ukrainians and Norwegians have lived peacefully for decades. 
  <p class="updated_time"> 04:45 PM CT, Apr. 14 </p> 
@@ -129,8 +135,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/14/world/europe/russian-media-atrocities-fake.html">Russian Media Falsely Claims Ukraine Atrocity Images Are Fake</a> NYT: Russians are being shown some of the same distressing imagery from the war as the rest of the world, but with a big twist. 
  <p class="updated_time"> 12:01 PM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/islamic-state-fighter-convicted-for-role-in-murder-of-four-americans-11649958246">Islamic State Fighter Convicted for Role in Murder of Four Americans</a> WSJ: A federal jury convicted El Shafee Elsheikh of being part of a cell that murdered U.S. hostages, capping a trial dominated by testimony from survivors of the torture. 
- <p class="updated_time"> 11:43 AM CT, Apr. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61105463?at_medium=RSS&at_campaign=KARANGA">Durban flood survivors: South Africans homeless, hurt and heartbroken</a> BBC: "We're traumatised, we can't even eat," one South African woman says after her house was destroyed. 
  <p class="updated_time"> 11:33 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/middleeast/israel-art-museum-tel-aviv.html">Israel’s Oldest Museum Takes a New Look at Israeli Art</a> NYT: For decades, museums presented Israeli art as a companion to the country’s history. The Tel Aviv Museum of Art breaks away from that approach — with surprising results. 
  <p class="updated_time"> 11:33 AM CT, Apr. 14 </p> 
@@ -145,8 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61092045?at_medium=RSS&at_campaign=KARANGA">Ranbir Kapoor and Alia Bhatt: Bollywood toasts star couple on wedding</a> BBC: Excitement grips the Indian film industry as the superstars tie the knot in a low-key ceremony. 
  <p class="updated_time"> 09:40 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61083959?at_medium=RSS&at_campaign=KARANGA">Somalia's elections - where the people don't vote</a> BBC: Most of Somalia's new MPs are sworn in following an election in which the people did not vote. 
- <p class="updated_time"> 06:17 AM CT, Apr. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61106241?at_medium=RSS&at_campaign=KARANGA">Germany kidnap plot: Gang planned to overthrow democracy</a> BBC: A gang with links to far-right and anti-Covid groups wanted to overthrow democracy, say prosecutors. 
  <p class="updated_time"> 05:48 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/ukraine-russia-nato-s300.html">A Soviet-Era Air Defense System Arrives in Ukraine From Slovakia</a> NYT: Encouraged by the United States, Slovakia “donated” a bulky but effective S-300, hoping to challenge Russian domination of the skies in the war next door. 
  <p class="updated_time"> 01:57 AM CT, Apr. 14 </p> 
@@ -202,6 +204,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:29 AM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/science/interstellar-meteor-debate.html">Military Memo Adds to Possible Interstellar Meteor Mystery</a> NYT: The U.S. Space Command seemed to confirm a claim that a meteor from outside the solar system had entered Earth’s atmosphere, but other scientists and NASA are still not convinced. 
  <p class="updated_time"> 05:43 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/business/economy/michael-barr-federal-reserve.html">Biden to Nominate Michael Barr as Fed Vice Chair for Supervision</a> NYT: Mr. Barr faced pushback from progressives when his name was floated for a different position. 
  <p class="updated_time"> 04:30 AM CT, Apr. 15 </p> 
@@ -210,8 +214,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/15/1093006012/the-rnc-is-severing-ties-with-the-nonprofit-that-runs-presidential-debates">The RNC is severing ties with the nonprofit that runs presidential debates</a> NPR: The Republican National Committee voted unanimously on Thursday to withdraw from the Commission on Presidential Debates, calling the organization biased. 
  <p class="updated_time"> 04:16 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093005977/ex-trump-whitehouse-press-secretary-is-now-working-against-the-former-president">Ex-Trump Whitehouse press secretary is now working against the former president</a> NPR: Stephanie Grisham has moved to a remote, Trump-loving Kansas town, where she's crafting an argument against the former president that respects her neighbor's devotion to him. 
- <p class="updated_time"> 04:00 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/science/interstellar-meteor-debate.html">Military Memo Adds to Possible Interstellar Meteor Mystery</a> NYT: The U.S. Space Command seemed to confirm a claim that a meteor from outside the solar system had entered Earth’s atmosphere, but other scientists and NASA are still not convinced. 
  <p class="updated_time"> 04:00 AM CT, Apr. 15 </p> 
  <a href="https://www.politico.com/news/2022/04/15/bidens-pollster-midterms-00025482">Biden’s pollster on the recipe for how to ‘not get our a---- kicked’ in the midterms</a> Politico: On this week’s episode of Playbook Deep Dive, Ryan Lizza joins John Anzalone, who is best known as President Biden’s pollster, but is also a top adviser to Nevada Gov. Steve Sisolak, who is up for reelection this year. 
  <p class="updated_time"> 03:30 AM CT, Apr. 15 </p> 
@@ -272,8 +274,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/14/1092648546/russia-ukraine-war-sanctions">Where do sanctions on Russia go from here? A foreign policy expert weighs in</a> NPR: Despite heavy sanctions, Russia has not slowed down its invasion of Ukraine. Some are left wondering just how much sanctions can achieve. 
  <p class="updated_time"> 07:26 AM CT, Apr. 14 </p> 
  <a href="https://www.politico.com/news/2022/04/14/elon-musk-offer-buy-twitter-00025229">‘Extremely important to the future of civilization’: Musk describes a Twitter remade in his own image</a> Politico: The world’s richest person has offered to buy the remaining shares of the social media company’s stock at a rate of $54.20 per share. 
- <p class="updated_time"> 06:01 AM CT, Apr. 14 </p> 
- <a href="https://www.politico.com/news/2022/04/14/new-york-attorney-general-probes-oil-giants-for-signs-of-price-gouging-amid-ukraine-war-00025087">New York attorney general probes oil giants for signs of price gouging amid Ukraine war</a> Politico: The investigation will only focus on players involved in supplying gas and diesel to the state. 
  <p class="updated_time"> 04:00 AM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/04/14/1092740251/what-the-white-houses-actions-on-medical-debt-could-mean-for-consumers">What the White House's actions on medical debt could mean for consumers</a> NPR: The Biden administration announced new measures to ease the financial burden of high medical bills. Here's how the measures can help and what's still missing to protect patients. 
  <p class="updated_time"> 04:00 AM CT, Apr. 14 </p> 
