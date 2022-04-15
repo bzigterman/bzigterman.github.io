@@ -9,14 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:15 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/world/asia/china-europe-russia-ukraine.html">Faced With a Changed Europe, China Sticks to an Old Script</a> NYT: Europe was viewed as lacking the power and the will to contest China’s rise. But now, a harder line toward Russia has implications for Beijing. 
+ <p class="updated_time"> 04:04 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/14/climate/antarctic-ice-shelves-atmospheric-rivers.html">Why Did the Larsen A and B Ice Shelves Fail? Scientists Say They Now Know. </a> NYT: The collapse of the two ice shelves was most likely triggered by vast plumes of warm air from the Pacific, researchers have found. 
+ <p class="updated_time"> 04:04 PM CT, Apr. 15 </p> 
+ <a href="https://www.npr.org/2022/04/15/1093037026/russia-ukraine-war-what-happened-today-april-15">Russia-Ukraine war: What happened today (April 15)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 04:02 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/world/asia/shanghai-covid-isolation-quarantine.html">Shanghai’s Isolation Facilities Have Prompted a Backlash</a> NYT: Hundreds of thousands of Shanghai residents have been sent to quarantine and isolation facilities. One woman described her ordeal. 
+ <p class="updated_time"> 04:02 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-occupation.html">‘Thank You for Not Killing Us’</a> NYT: An ordeal at a mental health facility in Ukraine illuminated the horrors of the Russian occupation in the areas around Kyiv. 
  <p class="updated_time"> 03:51 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/climate/biden-drilling-oil-leases.html">Biden Plans to Open More Public Land to Drilling</a> NYT: The president is under pressure to bring down gas prices, but any new supply would be years away. The fees that companies pay would rise sharply. 
  <p class="updated_time"> 03:44 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093121797/the-impact-of-the-war-in-ukraine-on-the-global-food-supply">The impact of the war in Ukraine on the global food supply</a> NPR: From the start of the war in Ukraine, food policy experts have worried that a hunger crisis could be in the making, given how important Ukraine and Russia are to global food supply. 
  <p class="updated_time"> 03:44 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093121790/beneath-kharkiv-in-ukraine-survival-has-created-a-sense-of-community">Beneath Kharkiv in Ukraine, survival has created a sense of community</a> NPR: For more than 50 days, Ukraine's second largest city has been relentlessly shelled. Above ground, parts of the city are unlivable. But below ground, life is trying to find a way. 
- <p class="updated_time"> 03:43 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-occupation.html">‘Thank You for Not Killing Us’</a> NYT: An ordeal at a mental health facility in Ukraine illuminated the horrors of the Russian occupation in the areas around Kyiv. 
  <p class="updated_time"> 03:40 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093121769/in-its-3rd-week-in-lockdown-shanghai-reported-23-000-new-covid-cases-today">In its 3rd week in lockdown, Shanghai reported 23,000 new COVID cases today</a> NPR: Shanghai, China, is approaching the end of its third week of a near-total lockdown to fight COVID. As case numbers rise, so does the frustration of many in the city of more than 25 million people. 
  <p class="updated_time"> 03:40 PM CT, Apr. 15 </p> 
@@ -33,7 +41,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/15/1093121720/ukrainian-climate-scientist-says-russias-invasion-is-a-fossil-fuel-war">Ukrainian climate scientist says Russia's invasion is a 'fossil fuel war'</a> NPR: NPR's Ari Shapiro speaks with leading Ukrainian climate scientist Svitlana Krakovska about how climate change relates to Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:22 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093121713/ukraine-says-russia-has-used-long-range-bombers-for-the-1st-time">Ukraine says Russia has used long-range bombers for the 1st time</a> NPR: Fighting continues in the besieged port city of Mariupol, where Ukraine says Russia used long-range bombers for the first time. 
- <p class="updated_time"> 02:55 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 03:17 PM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
  <p class="updated_time"> 02:55 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61123200?at_medium=RSS&at_campaign=KARANGA">Twitter board takes action to fight Musk bid</a> BBC: The so-called "poison pill" measure is in response to Elon Musk's $43bn cash buyout offer. 
@@ -41,29 +49,29 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/technology/russia-media-fox-news.html">How Russia Media Uses Fox News to Make Its Case</a> NYT: The conservative network has appeared hundreds of times in Russian media. 
  <p class="updated_time"> 02:40 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/imran-khan-rally-pakistan.html">Days After Ouster, Imran Khan Is Back on the Trail in Pakistan</a> NYT: With fiery critiques of his rivals and the U.S., the former prime minister has drawn thousands to rallies across Pakistan and stoked fears of more political turmoil. 
+ <p class="updated_time"> 02:17 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 02:12 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque/al-aqsa-mosque-clashes">Clashes Erupt at Jerusalem Holy Site on Day With Overlapping Holidays</a> NYT: Calm returned after more than 150 people were injured and hundreds were arrested by the Israeli police on Friday, when Ramadan, Easter and Passover coincided for the first time in thirty years. 
- <p class="updated_time"> 01:55 PM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 01:54 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-war-crimes-trials.html">Why Ukraine War Crimes Trials Could Take Many Years</a> NYT: Long after the fighting ends, any prosecutions and trials arising from it could be barely beginning. Here is a look at the complexities of bringing aggressors to justice. 
  <p class="updated_time"> 01:26 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61122990?at_medium=RSS&at_campaign=KARANGA">Arizona man arrested after dogs, cats and snakes found in home freezer</a> BBC: Police say photos of the frozen dogs, lizards, snakes and other animals are too graphic to release. 
- <p class="updated_time"> 12:55 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 01:17 PM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 12:24 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61114843?at_medium=RSS&at_campaign=KARANGA">Russian warship: Moskva sinks in Black Sea</a> BBC: The warship sank while being towed a day after Ukraine claimed to have hit it with a missile. 
  <p class="updated_time"> 12:20 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/ukraine-russia-nato-s300.html">A Soviet-Era Air Defense System Arrives in Ukraine From Slovakia</a> NYT: Encouraged by the United States, Slovakia “donated” a bulky but effective S-300, hoping to challenge Russian domination of the skies in the war next door. 
+ <p class="updated_time"> 12:17 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
  <p class="updated_time"> 12:08 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/middleeast/jerusalem-tattoo-artist.html">Jerusalem Tattoo Artist Inks Pilgrims, Priests and Those Scarred by Conflict</a> NYT: For Wassim Razzouk, Holy Week is his busiest time as Christians seek a reminder of their visit to Jerusalem. But his family’s centuries-old tattoo business caters to all faiths. 
- <p class="updated_time"> 11:55 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
  <p class="updated_time"> 11:55 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/video/world/100000008272335/russia-disinformation-moldova.html">Journey to Transnistria: Inside Russia’s Disinformation Bubble</a> NYT: We traveled inside Transnistria, a Moscow-backed breakaway state in Moldova, to find out how Russia’s disinformation campaign stretches beyond its borders. 
  <p class="updated_time"> 11:42 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/africa/tanzania-female-president.html">Tanzania’s First Female President Wants to Bring Her Nation in From the Cold</a> NYT: Samia Suluhu Hassan became the only female head of government in Africa when her predecessor suddenly died. She is setting a new course. 
- <p class="updated_time"> 10:55 AM CT, Apr. 15 </p> 
+ <p class="updated_time"> 11:17 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 10:52 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/travel/qatar-world-cup.html">What to Know About 2022 World Cup Travel to Qatar</a> NYT: Tickets are on sale for the world’s most popular sporting event, but concerns over worker exploitation and laws against homosexuality have complicated the decision to attend for some fans. 
@@ -95,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/science/interstellar-meteor-debate.html">Military Memo Adds to Possible Interstellar Meteor Mystery</a> NYT: The U.S. Space Command seemed to confirm a claim that a meteor from outside the solar system had entered Earth’s atmosphere, but other scientists and NASA are still not convinced. 
  <p class="updated_time"> 07:17 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61117828?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Save energy and annoy Putin, Germans told</a> BBC: The vice-chancellor says they should use bikes and lower the thermostat to use less Russian gas. 
- <p class="updated_time"> 06:39 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/world/asia/shanghai-covid-isolation-quarantine.html">Shanghai’s Isolation Facilities Have Prompted a Backlash</a> NYT: Hundreds of thousands of Shanghai residents have been sent to quarantine and isolation facilities. One woman described her ordeal. 
  <p class="updated_time"> 06:22 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/australia/quiz-time-on-the-campaign-trail.html">Quiz Time on the Campaign Trail</a> NYT: Several “gotcha” questions for candidates, including one that Anthony Albanese got wrong, raise deeper questions about the quality of the nation’s political discourse. 
  <p class="updated_time"> 06:01 AM CT, Apr. 15 </p> 
@@ -113,10 +119,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/15/1093006005/many-countries-are-seeing-the-worst-inflation-in-decades">Many countries are seeing the worst inflation in decades</a> NPR: Inflation isn't just an American problem — it's happening in places around the world and stretching some countries to the point of political unrest.Many 
  <p class="updated_time"> 04:01 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1092882592/russia-ukraine-war-update-butcher-of-syria-putin-dvornikov">What the ruthless new commander of Russia's military in Ukraine signals for the war</a> NPR: General Aleksandr Dvornikov is infamous for his ruthlessness while leading Russia's intervention in Syria. Now he's heading Russia's war in Ukraine, signaling that the violence could intensify. 
- <p class="updated_time"> 04:00 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/world/asia/china-europe-russia-ukraine.html">Faced With a Changed Europe, China Sticks to an Old Script</a> NYT: Europe was viewed as lacking the power and the will to contest China’s rise. But now, a harder line toward Russia has implications for Beijing. 
- <p class="updated_time"> 03:22 AM CT, Apr. 15 </p> 
- <a href="https://www.npr.org/2022/04/15/1093007624/anti-virus-shutdowns-in-china-spread-as-infections-rise">Anti-virus shutdowns in China spread as infections rise</a> NPR: Shutdowns that have shut down some of China's biggest cities and fueled public irritation are spreading as infections rise, hurting a weak economy and prompting warnings of possible global shockwaves. 
  <p class="updated_time"> 02:20 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61041618?at_medium=RSS&at_campaign=KARANGA">Brain cancer DNA research hopes to speed up diagnosis</a> BBC: More than 200 brain tumour patients are taking part in research hoping to yield new personalised treatments. 
  <p class="updated_time"> 02:09 AM CT, Apr. 15 </p> 
@@ -125,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61117092?at_medium=RSS&at_campaign=KARANGA">Former Twitter exec questions seriousness of Musk offer</a> BBC: Vivian Schiller, who used to work there, tells Newsnight Elon Musk enjoys "throwing bombs" on Twitter. 
  <p class="updated_time"> 09:58 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/asia/japan-toddler-tv-show.html">Japanese TV Show “Old Enough!” Features Toddlers Running Errands</a> NYT: “Old Enough!,” a Japanese show that has been on the air for decades, recently came to Netflix. It features toddlers running errands without adult supervision. 
- <p class="updated_time"> 09:48 PM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/14/climate/antarctic-ice-shelves-atmospheric-rivers.html">Why Did Two Antarctic Ice Shelves Fail? Scientists Say They Now Know. </a> NYT: The collapse of the two ice shelves was most likely triggered by vast plumes of warm air from the Pacific, researchers have found. 
  <p class="updated_time"> 09:48 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/africa/france-macron-africa-colonies.html">Former French Colonies in Africa Demand a Reset</a> NYT: Decades after independence, many African countries are increasingly troubled by the ongoing influence of their former colonial power. 
  <p class="updated_time"> 09:25 PM CT, Apr. 14 </p> 
@@ -197,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/world/europe/us-russian-troops-donbas-intelligence-sharing-ukraine.html">U.S. Expands Intelligence Sharing With Ukraine on Russian Forces in Donbas Region</a> NYT: Western officials say they expect the Kremlin to mount a major offensive in the Donbas, where Russian-backed separatists have been fighting Ukrainian forces for years. 
  <p class="updated_time"> 01:31 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/johnson-partygate-rishi-sunak-fines.html">Johnson’s Cabinet Backs Him After ‘Partygate’ Fine</a> NYT: The support from the British prime minister’s party means he can likely ride out the immediate storm, but his troubles are not over, experts say. 
- <p class="updated_time"> 01:11 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-refugees-women.html">The Ukrainian Refugee Crisis Is a Women’s Crisis</a> NYT: A wave of displaced women and children into Poland is forcing the country to address its lack of protections for working women. 
  <p class="updated_time"> 07:53 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61015970?at_medium=RSS&at_campaign=KARANGA">CPC: Criminal Procedure Identification Bill raises fears of surveillance in India</a> BBC: Critics worry about increased surveillance by law enforcement agencies under its expanded scope. 
  <p class="updated_time"> 07:27 PM CT, Apr. 12 </p> 
@@ -210,14 +208,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:13 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/us/politics/mike-lee-chip-roy-jan-6-texts.html">Mike Lee’s Texts Show Encouragement, Then Alarm, Before Jan. 6</a> NYT: Senator Mike Lee and Representative Chip Roy, once backers of President Donald J. Trump’s claims of a stolen election, became convinced they were groundless and urged his top aide to change course. 
+ <p class="updated_time"> 04:09 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/us/cameroon-temporary-protected-status.html">U.S. Offers Protection to People Who Fled War in Cameroon</a> NYT: Temporary protected status will allow an estimated 40,000 Cameroonians to legally live and work in the United States. 
+ <p class="updated_time"> 04:04 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/us/politics/ohio-jd-vance-trump-endorsement.html">Trump Endorses J.D. Vance in Republican Primary for Senate in Ohio</a> NYT: The move amounts to a major bet on Mr. Vance’s ability to prevail over a crowded field, and on the former president’s power to alter the course of key congressional races. 
+ <p class="updated_time"> 04:04 PM CT, Apr. 15 </p> 
+ <a href="https://www.npr.org/2022/04/15/1093037026/russia-ukraine-war-what-happened-today-april-15">Russia-Ukraine war: What happened today (April 15)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:51 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093132507/the-bidens-paid-24-6-taxes-on-610-702-earnings-their-tax-returns-show">The Bidens paid a 24.6% tax rate on $610,702 in earnings, their filings show</a> NPR: Vice President Kamala Harris and her husband Doug Emhoff earned $1,655,563 in 2021 and paid $523,371 — a federal income tax rate of 31.6% — their tax filings show. 
- <p class="updated_time"> 03:49 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/us/politics/mike-lee-chip-roy-jan-6-texts.html">Mike Lee’s Texts Show Encouragement, Then Alarm, Before Jan. 6</a> NYT: Senator Mike Lee and Representative Chip Roy, once backers of President Donald J. Trump’s claims of a stolen election, became convinced they were groundless and urged his top aide to change course. 
  <p class="updated_time"> 03:22 PM CT, Apr. 15 </p> 
  <a href="https://www.politico.com/news/2022/04/15/biden-tax-return-00025643">Biden releases tax return, reports paying 24.6 percent rate</a> Politico: The bulk of the Bidens' earnings came from the president's salary. 
- <p class="updated_time"> 03:02 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/us/politics/ohio-jd-vance-trump-endorsement.html">Ohio Republicans Scramble as Trump Endorsement Hangs Over Senate Race</a> NYT: The news that Donald Trump might soon endorse J.D. Vance, the author and venture capitalist, prompted some Republican leaders in Ohio to try to prevent the move. 
  <p class="updated_time"> 03:00 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/us/politics/biden-tax-returns.html">Biden’s Tax Forms Show He and the First Lady Earned $610,702 in 2021</a> NYT: The president and his wife, Dr. Jill Biden, also reported donations of $17,394 to 10 charities. 
  <p class="updated_time"> 02:32 PM CT, Apr. 15 </p> 
@@ -232,8 +234,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/15/psaki-fox-news-feeds-doocy-questions-that-makes-him-look-like-a-stupid-son-of-a-00025547">Psaki: Fox News feeds Doocy questions that makes him look like a 'stupid son of a...'</a> Politico: The White House press secretary was referring to President Biden's hot-mic moment after an exchange with the reporter. 
  <p class="updated_time"> 01:03 PM CT, Apr. 15 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 09:39 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/us/cameroon-temporary-protected-status.html">U.S. Offers Protection to People Who Fled War in Cameroon</a> NYT: Temporary protected status will allow an estimated 40,000 Cameroonians to legally live and work in the United States. 
  <p class="updated_time"> 07:29 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/science/interstellar-meteor-debate.html">Military Memo Adds to Possible Interstellar Meteor Mystery</a> NYT: The U.S. Space Command seemed to confirm a claim that a meteor from outside the solar system had entered Earth’s atmosphere, but other scientists and NASA are still not convinced. 
  <p class="updated_time"> 04:30 AM CT, Apr. 15 </p> 
@@ -314,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/us/politics/jan-6-suspect-trump.html">Jan. 6 Suspect Blames Trump for Spurring Him to Capitol Riot</a> NYT: Dustin Thompson, an unemployed exterminator from Ohio, was the first defendant tried in the Capitol attack to offer a Trump-made-me-do-it defense before a jury. 
  <p class="updated_time"> 05:45 PM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/us-visit-zelenskyy-kyiv-00025050">U.S. weighs sending top-level official to meet Zelenskyy in Kyiv</a> Politico: The U.S. official, which will most likely be a Cabinet member, will follow European leaders who have already made the symbolic visit. 
- <p class="updated_time"> 04:29 PM CT, Apr. 13 </p> 
- <a href="https://www.npr.org/2022/04/13/1092686718/gov-abbotts-order-for-truck-inspections-is-all-an-unnecessary-pr-stunt-critics-s">Gov. Abbott's order for truck inspections is all an unnecessary PR stunt, critics say</a> NPR: Commercial trucks have been spending hours or days waiting to enter Texas from Mexico. Gov. Abbott ordered inspections of all trucks, saying it's needed to combat drug smuggling and human trafficking. 
  <p class="updated_time"> 04:23 PM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/suspected-subway-shooter-purchased-gun-legally-despite-long-criminal-record-00025078">Suspected subway shooter purchased gun legally, despite long criminal record</a> Politico: Mayor Eric Adams sought to assure New Yorkers the vital underground rail system was safe enough for commuting. 
  <p class="updated_time"> 02:18 PM CT, Apr. 13 </p> 
