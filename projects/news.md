@@ -9,23 +9,23 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:44 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 02:55 PM CT, Apr. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61123200?at_medium=RSS&at_campaign=KARANGA">Twitter's board readies against hostile takeover</a> BBC: The so-called "poison pill" measure is in response to Elon Musk's $43bn cash buyout offer. 
+ <p class="updated_time"> 02:49 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/ukraine-russia-war-news">Live Updates: Putin Draws Line on U.S. Arms for Ukraine</a> NYT: U.S. officials say that Ukrainian missiles sank Russia’s Black Sea flagship, and they fear that a brewing Russian offensive in the East could signal a more bloody phase of the war. 
+ <p class="updated_time"> 02:48 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/technology/russia-media-fox-news.html">How Russia Media Uses Fox News to Make Its Case</a> NYT: The conservative network has appeared hundreds of times in Russian media. 
  <p class="updated_time"> 02:40 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/imran-khan-rally-pakistan.html">Days After Ouster, Imran Khan Is Back on the Trail in Pakistan</a> NYT: With fiery critiques of his rivals and the U.S., the former prime minister has drawn thousands to rallies across Pakistan and stoked fears of more political turmoil. 
  <p class="updated_time"> 02:39 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque">Jerusalem Calms After Israeli-Palestinian Clashes at Holy Site</a> NYT: Violence broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, in the morning on the first day of a rare convergence of Ramadan, Easter and Passover. 
- <p class="updated_time"> 02:19 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/technology/russia-media-fox-news.html">How Russia Media Uses Fox News to Make Its Case</a> NYT: The conservative network has appeared hundreds of times in Russian media. 
  <p class="updated_time"> 02:12 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque/al-aqsa-mosque-clashes">Clashes Erupt at Jerusalem Holy Site on Day With Overlapping Holidays</a> NYT: Calm returned after more than 150 people were injured and hundreds were arrested by the Israeli police on Friday, when Ramadan, Easter and Passover coincided for the first time in thirty years. 
- <p class="updated_time"> 01:59 PM CT, Apr. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61123200?at_medium=RSS&at_campaign=KARANGA">Twitter's board readies against hostile takeover</a> BBC: The so-called "poison pill" measure is in response to Elon Musk's $43bn cash buyout offer. 
+ <p class="updated_time"> 02:01 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
  <p class="updated_time"> 01:54 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-war-crimes-trials.html">Why Ukraine War Crimes Trials Could Take Many Years</a> NYT: Long after the fighting ends, any prosecutions and trials arising from it could be barely beginning. Here is a look at the complexities of bringing aggressors to justice. 
- <p class="updated_time"> 01:49 PM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
- <p class="updated_time"> 12:49 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 01:01 PM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 12:24 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61114843?at_medium=RSS&at_campaign=KARANGA">Russian warship: Moskva sinks in Black Sea</a> BBC: The warship sank while being towed a day after Ukraine claimed to have hit it with a missile. 
@@ -33,25 +33,25 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/14/world/europe/ukraine-russia-nato-s300.html">A Soviet-Era Air Defense System Arrives in Ukraine From Slovakia</a> NYT: Encouraged by the United States, Slovakia “donated” a bulky but effective S-300, hoping to challenge Russian domination of the skies in the war next door. 
  <p class="updated_time"> 12:08 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/middleeast/jerusalem-tattoo-artist.html">Jerusalem Tattoo Artist Inks Pilgrims, Priests and Those Scarred by Conflict</a> NYT: For Wassim Razzouk, Holy Week is his busiest time as Christians seek a reminder of their visit to Jerusalem. But his family’s centuries-old tattoo business caters to all faiths. 
+ <p class="updated_time"> 12:01 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 11:55 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/video/world/100000008272335/russia-disinformation-moldova.html">Journey to Transnistria: Inside Russia’s Disinformation Bubble</a> NYT: We traveled inside Transnistria, a Moscow-backed breakaway state in Moldova, to find out how Russia’s disinformation campaign stretches beyond its borders. 
  <p class="updated_time"> 11:53 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/russia-moskva-warship-ukraine-missiles.html">Russia’s Sunken Warship Moskva Was Hit by Ukrainian Missiles, U.S. official says</a> NYT: Moscow claimed the sinking was an accident, but U.S. intelligence reports say the cruiser went down after Ukraine struck it with two Neptune missiles. 
- <p class="updated_time"> 11:49 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 11:42 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/africa/tanzania-female-president.html">Tanzania’s First Female President Wants to Bring Her Nation in From the Cold</a> NYT: Samia Suluhu Hassan became the only female head of government in Africa when her predecessor suddenly died. She is setting a new course. 
+ <p class="updated_time"> 11:01 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
  <p class="updated_time"> 10:52 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/travel/qatar-world-cup.html">What to Know About 2022 World Cup Travel to Qatar</a> NYT: Tickets are on sale for the world’s most popular sporting event, but concerns over worker exploitation and laws against homosexuality have complicated the decision to attend for some fans. 
  <p class="updated_time"> 10:52 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61120654?at_medium=RSS&at_campaign=KARANGA">Salah Abdeslam: Accused Paris attacker apologises to victims</a> BBC: Salah Abdeslam was allegedly part of an IS terror cell that killed 130 people in attacks across Paris in 2015. 
- <p class="updated_time"> 10:49 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
  <p class="updated_time"> 10:38 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/britain-rwanda-asylum-explained.html">What Boris Johnson’s Deal With Rwanda Means for U.K. Asylum System</a> NYT: Prime Minister Boris Johnson announced a plan to send some of those seeking refuge to the central African country. What effect would the change have? 
  <p class="updated_time"> 10:06 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093026912/russian-moskva-warship-sunk-ukraine">A Russian warship in the Black Sea was sunk by Ukrainian missiles, U.S. official says</a> NPR: Experts say the loss of the Moskva — the flagship of Russia's Black Sea fleet — is significant both symbolically and militarily, even if it doesn't deal a decisive blow to Russia's overall operations. 
- <p class="updated_time"> 09:49 AM CT, Apr. 15 </p> 
+ <p class="updated_time"> 10:01 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 09:44 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/boris-johnson-fines-covid-reactions.html">Families of U.K. Covid Victims React to Boris Johnson Fines</a> NYT: Those unable to be with dying loved ones find no satisfaction or closure with the penalty Prime Minister Boris Johnson faces for breaking lockdown rules. 
