@@ -9,26 +9,50 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:49 PM CT, Apr. 14 </p> 
+ <p class="updated_time"> 10:40 PM CT, Apr. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61115738?at_medium=RSS&at_campaign=KARANGA">Elon Musk 'not sure' his takeover bid for Twitter will be successful</a> BBC: The comments came just hours after the Tesla boss revealed a more than $40bn takeover offer for Twitter. 
+ <p class="updated_time"> 09:58 PM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/2022/04/14/world/asia/japan-toddler-tv-show.html">Japanese TV Show “Old Enough!” Features Toddlers Running Errands</a> NYT: “Old Enough!,” a Japanese show that has been on the air for decades, recently came to Netflix. It features toddlers running errands without adult supervision. 
+ <p class="updated_time"> 09:58 PM CT, Apr. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61036733?at_medium=RSS&at_campaign=KARANGA">North Korean hackers target gamers in $615 n crypto heist - US</a> BBC: Crypto worth at least $615 million was stolen from players of popular online game Axie Infinity. 
+ <p class="updated_time"> 09:55 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/04/14/world/ukraine-russia-war-news">Live Updates: Russian Warship Ukraine Claimed to Have Hit Has Sunk, Moscow Says</a> NYT: Ukraine says it hit the flagship of Russia’s Black Sea fleet with a missile strike. Russia says the ship was damaged by a fire and sank while being towed to port. E.U. leaders considered an oil ban despite its potential to increase energy prices around the bloc. 
- <p class="updated_time"> 06:31 PM CT, Apr. 14 </p> 
+ <p class="updated_time"> 09:48 PM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/2022/04/14/climate/antarctic-ice-shelves-atmospheric-rivers.html">Why Did Two Antarctic Ice Shelves Fail? Scientists Say They Now Know. </a> NYT: The collapse of the two ice shelves was most likely triggered by vast plumes of warm air from the Pacific, researchers have found. 
+ <p class="updated_time"> 09:48 PM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/2022/04/14/world/africa/france-macron-africa-colonies.html">Former French Colonies in Africa Demand a Reset</a> NYT: Decades after independence, many African countries are increasingly troubled by the ongoing influence of their former colonial power. 
+ <p class="updated_time"> 09:45 PM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914">Russia’s Black Sea Flagship Sinks After Ukraine Claims Missile Strike</a> WSJ: Russia’s Black Sea Flagship Sinks After Ukraine Claims Missile Strike 
+ <p class="updated_time"> 09:25 PM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/2022/04/14/world/europe/uk-rwanda-asylum-seekers.html">U.K. Plans to Send Some Asylum Seekers to Rwanda</a> NYT: Britain says it will fly many refugees thousands of miles to the central African country for processing and resettlement, a significant hardening of migration policy. 
+ <p class="updated_time"> 08:45 PM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/anti-russia-alliance-is-missing-a-big-bloc-the-developing-world-11649950913">Anti-Russia Alliance Is Missing a Big Bloc: The Developing World</a> WSJ: Anti-Russia Alliance Is Missing a Big Bloc: The Developing World 
+ <p class="updated_time"> 07:57 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/climate/gina-mccarthy-climate-adviser.html">Gina McCarthy, Top Climate Adviser, Is Said to Be Planning Departure</a> NYT: Ms. McCarthy was tapped by President Biden to lead an ambitious domestic climate agenda. Associates say she is frustrated by the slow pace of progress. 
+ <p class="updated_time"> 07:45 PM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/russia-warns-it-could-station-nuclear-forces-in-europe-if-finland-sweden-join-nato-11649958396">Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO</a> WSJ: Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO 
+ <p class="updated_time"> 07:39 PM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/2022/04/14/world/europe/european-union-oil-embargo-russia-ukraine.html">Europe Reluctantly Readies Russian Oil Embargo</a> NYT: Officials are drafting a phased import ban on Russian oil products, but the measure won’t be floated until after the second round of the French elections at the earliest. 
+ <p class="updated_time"> 07:32 PM CT, Apr. 14 </p> 
+ <a href="https://www.npr.org/2022/04/14/1092966576/ukraine-flag-projected-lights-protest-russian-embassy-washington-dc">Meet the activists who projected a giant Ukrainian flag on Russia's Embassy in D.C.</a> NPR: Demonstrators used high-powered lights to project the Ukrainian flag onto the walls of the Russian Embassy in Washington, D.C. The Russians tried to outshine the flags with a spotlight, but failed. 
+ <p class="updated_time"> 06:45 PM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/islamic-state-fighter-convicted-for-role-in-murder-of-four-americans-11649958246">Islamic State Fighter Convicted for Role in Murder of Four Americans</a> WSJ: Islamic State Fighter Convicted for Role in Murder of Four Americans 
  <p class="updated_time"> 06:24 PM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61112787?at_medium=RSS&at_campaign=KARANGA">El Shafee Elsheikh: Guilty verdict for Islamic State jihadist</a> BBC: El Shafee Elsheikh is the highest profile IS fighter to stand trial in the US. 
  <p class="updated_time"> 06:01 PM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61112864?at_medium=RSS&at_campaign=KARANGA">Brazil: Wild animals take to the streets in Rio de Janeiro</a> BBC: Videos of caimans and other wild animals in streets and houses are frequently surfacing in the city. 
  <p class="updated_time"> 06:01 PM CT, Apr. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61102809?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: How Covid tests China's 'Great Firewall'</a> BBC: Videos appearing to show people suffering in Shanghai's lockdown have gone viral, stretching censors. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61102809?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: How angry netizens test China's 'Great Firewall'</a> BBC: Videos appearing to show people suffering in Shanghai's lockdown have gone viral, stretching censors. 
  <p class="updated_time"> 06:00 PM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61106245?at_medium=RSS&at_campaign=KARANGA">Ukraine's battle for control of its skies</a> BBC: A Ukrainian air defence officer tells the BBC: "Whoever dominates the air wins the war." 
- <p class="updated_time"> 05:58 PM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914">Russia’s Black Sea Flagship Sinks After Ukraine Claims Missile Strike</a> WSJ: Russia’s Black Sea Flagship Sinks After Ukraine Claims Missile Strike 
+ <p class="updated_time"> 05:45 PM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/china-covid-19-lockdowns-spread-beyond-shanghai-to-other-cities-11649949817">China Covid-19 Lockdowns Spread Beyond Shanghai to Other Cities</a> WSJ: China Covid-19 Lockdowns Spread Beyond Shanghai to Other Cities 
  <p class="updated_time"> 05:37 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/poland-ukraine-holocaust-dispatch.html">On Poland-Ukraine Border, the Past Is Always Present. It’s Not Always Predictive.</a> NYT: For a Jewish reporter with Eastern European roots, one of the hardest challenges covering the war is reconciling the horrors of the Holocaust with the Poland and Ukraine of today. 
- <p class="updated_time"> 04:58 PM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/anti-russia-alliance-is-missing-a-big-bloc-the-developing-world-11649950913">Anti-Russia Alliance Is Missing a Big Bloc: The Developing World</a> WSJ: Anti-Russia Alliance Is Missing a Big Bloc: The Developing World 
+ <p class="updated_time"> 05:19 PM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/2022/04/14/world/europe/russia-warship-eu-oil.html">Russia Hits Setbacks, as Flagship Sinks and E.U. Mulls Oil Ban</a> NYT: Ukraine said it hit a Russian warship in the Black Sea with its own missiles, a damaging blow to Moscow, symbolically and militarily, if its claim is confirmed. 
  <p class="updated_time"> 04:51 PM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/14/world/europe/barentsburg-norway-ukraine-war-russia.html">For Russians and Ukrainians in Norway, the War Has Deepened the Chill</a> NYT: The war and the comments of a Russian diplomat have strained relations on an archipelago in Norway where Russians, Ukrainians and Norwegians have lived peacefully for decades. 
+ <a href="https://www.nytimes.com/2022/04/14/world/europe/barentsburg-norway-ukraine-war-russia.html">Tensions Over the Ukraine War Deepen the Chill Near the North Pole</a> NYT: The war and the comments of a Russian diplomat have strained relations on an archipelago in Norway where Russians, Ukrainians and Norwegians have lived peacefully for decades. 
  <p class="updated_time"> 04:45 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/movies/cannes-film-festival-lineup.html">David Cronenberg and Claire Denis Will Compete at Cannes Film Festival</a> NYT: Organizers announced a lineup of nearly 50 movies for the event’s 2022 edition, including 18 in the running for the top honor, the Palme d’Or. 
  <p class="updated_time"> 04:28 PM CT, Apr. 14 </p> 
@@ -41,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/14/1092869771/interstellar-meteor-hit-earth-in-2014">The first known interstellar meteor hit Earth in 2014, U.S. officials say</a> NPR: The meteor crash-landed off the coast of Papua New Guinea in January 2014. 
  <p class="updated_time"> 04:11 PM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61114768?at_medium=RSS&at_campaign=KARANGA">Depp and Heard marriage ended in 'mutual abuse', says therapist</a> BBC: A psychotherapist tells the court of a volatile dynamic between the couple during therapy sessions. 
- <p class="updated_time"> 03:58 PM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/russia-warns-it-could-station-nuclear-forces-in-europe-if-finland-sweden-join-nato-11649958396">Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO</a> WSJ: Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO 
  <p class="updated_time"> 03:56 PM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61112629?at_medium=RSS&at_campaign=KARANGA">Ukraine round up: Flagship Russian warship sinks</a> BBC: Russia's flagship Black Sea missile cruiser has sunk, while President Zelensky sits down with the BBC. 
  <p class="updated_time"> 03:20 PM CT, Apr. 14 </p> 
@@ -59,32 +81,20 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/14/1092888683/day-50-of-war-major-russian-black-sea-warship-is-damaged-as-an-oil-ban-looms">Day 50 of war: Major Russian Black Sea warship is damaged as an oil ban looms</a> NPR: From a severely damaged Russian warship in the Black Sea to the beginnings of what might become a ban on Moscow's oil exports, here are the latest developments 50 days into Russia's war on Ukraine. 
  <p class="updated_time"> 03:12 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/africa/south-africa-durban-floods.html">South Africa Floods: Death Toll Passes 250</a> NYT: The devastation fueled criticism that the government should have been better prepared for the weather after intense rain in 2017 and 2019. 
- <p class="updated_time"> 02:58 PM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/islamic-state-fighter-convicted-for-role-in-murder-of-four-americans-11649958246">Islamic State Fighter Convicted for Role in Murder of Four Americans</a> WSJ: Islamic State Fighter Convicted for Role in Murder of Four Americans 
- <p class="updated_time"> 02:54 PM CT, Apr. 14 </p> 
- <a href="https://www.bbc.co.uk/news/business-61104231?at_medium=RSS&at_campaign=KARANGA">Elon Musk makes offer to buy Twitter</a> BBC: The boss of Tesla claims he wants to unlock the social media platform's "extraordinary potential". 
- <p class="updated_time"> 02:48 PM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/14/world/europe/uk-rwanda-asylum-seekers.html">U.K. Plans to Send Some Asylum Seekers to Rwanda</a> NYT: Britain says it will fly many refugees thousands of miles to the central African country for processing and resettlement, a significant hardening of migration policy. 
  <p class="updated_time"> 02:39 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/nhs-covid-cases-treatment-backlogs.html">Covid Cases Strain N.H.S. Bid to Reduce Hospital Treatment Backlog, Doctors Say</a> NYT: The British government’s promise to shorten wait times for elective hospital procedures is threatened by high rates of positive coronavirus tests among patients and staff. 
  <p class="updated_time"> 02:23 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/asia/china-food-crisis-beijing.html">Shanghai’s Food Crisis Prompts Beijing Residents to Stock Up</a> NYT: “Things that happened in Shanghai made me panic,” said Li Lilin, a real estate agent in Beijing, adding, “I’m just terrified of starving to death.” 
  <p class="updated_time"> 02:05 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092862792/russian-woman-jailed-ukraine-protest-price-tags">A Russian woman is jailed for replacing store price tags with anti-war messages</a> NPR: Artist Aleksandra Skochilenko reportedly swapped in a tag at a St. Petersburg supermarket with a note about the bombing of a Mariupol art school. Her lawyer said a shopper reported her to the police. 
- <p class="updated_time"> 01:58 PM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/china-covid-19-lockdowns-spread-beyond-shanghai-to-other-cities-11649949817">China Covid-19 Lockdowns Spread Beyond Shanghai to Other Cities</a> WSJ: China Covid-19 Lockdowns Spread Beyond Shanghai to Other Cities 
  <p class="updated_time"> 01:53 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092869545/islamic-state-beatles-hostages-guilty">A member of Islamic State group known as 'Beatles' is convicted in Americans' deaths </a> NPR: A jury convicted a British national for his role in hostage-takings that took roughly two dozen Westerners captive a decade ago, resulting in the deaths of four Americans, three of whom were beheaded. 
- <p class="updated_time"> 01:01 PM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/14/world/europe/european-union-oil-embargo-russia-ukraine.html">Europe Reluctantly Readies Russian Oil Embargo</a> NYT: Officials are drafting a phased import ban on Russian oil products, but the measure won’t be floated until after the second round of the French elections at the earliest. 
  <p class="updated_time"> 12:51 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/le-pen-nato-russia-germany.html">Le Pen Backs NATO-Russia Reconciliation and Reduced French Role in Alliance</a> NYT: Marine Le Pen, the far-right candidate for the French presidency, offered a worldview reminiscent of the Trump presidency. “No submission to an American protectorate on European soil,” she said. 
  <p class="updated_time"> 12:28 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/russian-media-atrocities-fake.html">Russian Media Falsely Claims Ukraine Atrocity Images Are Fake</a> NYT: Russians are being shown some of the same distressing imagery from the war as the rest of the world, but with a big twist. 
  <p class="updated_time"> 12:05 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092844694/uk-homes-for-ukraine-refugees-women">U.K. shouldn't pair female Ukrainian refugees with lone male hosts, the U.N. says</a> NPR: Citing "increasing reports of Ukrainian women feeling at risk from their sponsors," the U.N.'s refugee agency is urging U.K. officials to refine the matching process for its Homes for Ukraine program. 
- <p class="updated_time"> 11:45 AM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/14/climate/antarctic-ice-shelves-atmospheric-rivers.html">Why Did Two Antarctic Ice Shelves Fail? Scientists Say They Now Know. </a> NYT: The collapse of the two ice shelves was most likely triggered by vast plumes of warm air from the Pacific, researchers have found. 
  <p class="updated_time"> 11:43 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61105463?at_medium=RSS&at_campaign=KARANGA">Durban flood survivors: South Africans homeless, hurt and heartbroken</a> BBC: "We're traumatised, we can't even eat," one South African woman says after her house was destroyed. 
  <p class="updated_time"> 11:33 AM CT, Apr. 14 </p> 
@@ -105,24 +115,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61083959?at_medium=RSS&at_campaign=KARANGA">Somalia's elections - where the people don't vote</a> BBC: Most of Somalia's new MPs are sworn in following an election in which the people did not vote. 
  <p class="updated_time"> 08:26 AM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092648546/russia-ukraine-war-sanctions">Where do sanctions on Russia go from here? A foreign policy expert weighs in</a> NPR: Despite heavy sanctions, Russia has not slowed down its invasion of Ukraine. Some are left wondering just how much sanctions can achieve. 
- <p class="updated_time"> 08:18 AM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/14/world/asia/japan-toddler-tv-show.html">Japanese TV Show “Old Enough!” Features Toddlers Running Errands</a> NYT: “Old Enough!,” a Japanese show that has been on the air for decades, recently came to Netflix. It features toddlers running errands without adult supervision. 
  <p class="updated_time"> 08:14 AM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/u-k-plans-to-send-migrants-who-enter-country-illegally-to-rwanda-11649956441">U.K. to Send Migrants Entering Illegally to Rwanda</a> WSJ: The government says the new plan is part of an effort to dissuade people smuggling and respond to pressure to tackle illegal immigration. 
  <p class="updated_time"> 08:05 AM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092799610/moskva-flagship-damaged">A key warship in Russia's fleet was severely damaged. Ukraine claims responsibility</a> NPR: The Moskva has been heavily damaged and its crew evacuated. The ship is the same one whose crew ordered Ukrainian troops on Snake Island to surrender — a demand that was met with profanity. 
  <p class="updated_time"> 06:17 AM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61106241?at_medium=RSS&at_campaign=KARANGA">Germany kidnap plot: Gang planned to overthrow democracy</a> BBC: A gang with links to far-right and anti-Covid groups wanted to overthrow democracy, say prosecutors. 
- <p class="updated_time"> 06:15 AM CT, Apr. 14 </p> 
- <a href="https://www.npr.org/2022/04/14/1092785344/ukraine-russia-war-displaced-kharkiv-lviv">Young ballerinas from Kharkiv are now among millions displaced by Ukraine's war</a> NPR: At Christmas, they performed The Nutcracker. As Easter approaches, they and their mom are among millions who've been scattered by violence, separated from their old lives, facing an uncertain future. 
  <p class="updated_time"> 05:48 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/ukraine-russia-nato-s300.html">A Soviet-Era Air Defense System Arrives in Ukraine From Slovakia</a> NYT: Encouraged by the United States, Slovakia “donated” a bulky but effective S-300, hoping to challenge Russian domination of the skies in the war next door. 
- <p class="updated_time"> 04:00 AM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/14/world/africa/france-macron-africa-colonies.html">Former French Colonies in Africa Demand a Reset</a> NYT: Decades after independence, many African countries are increasingly troubled by the ongoing influence of their former colonial power. 
  <p class="updated_time"> 01:57 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/asia/tropical-storm-megi-philippines.html">After Tropical Storm Megi Hits Philippines, Dozens Dead or Missing</a> NYT: The first such storm of the year caused widespread flooding and landslides in the central part of the country. 
- <p class="updated_time"> 01:30 AM CT, Apr. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61102065?at_medium=RSS&at_campaign=KARANGA">Patrick Lyoya: Video shows fatal US police shooting of black man</a> BBC: The shooting of an apparently unarmed black man on 4 April in Michigan has led to protests. 
  <p class="updated_time"> 01:17 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/britain-rwanda-immigrant-deal.html">U.K. May Send Asylum Seekers to Rwanda for Processing</a> NYT: The details of the plan will be made public on Thursday, but local news media have reported it may include shipping immigrants to the African country. 
  <p class="updated_time"> 12:04 AM CT, Apr. 14 </p> 
@@ -177,8 +179,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-schools-war.html">War in Ukraine Disrupts Education of Millions of Children</a> NYT: The country’s teachers are doing their best to provide lessons for the millions of school-age children whose education has been interrupted. 
  <p class="updated_time"> 11:32 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/mimi-reinhard-dead.html">Mimi Reinhard, Who Typed Up Schindler’s List, Dies at 107</a> NYT: As a secretary in a forced-labor camp in World War II, she added her own name to the list of 1,100 Jews who would be spared from the gas chambers. 
- <p class="updated_time"> 11:05 PM CT, Apr. 12 </p> 
- <a href="https://www.nytimes.com/2022/04/12/arts/design/morozov-collection-russia-sanctions.html">French Authorities Seize Oligarch’s Painting Before It Leaves for Russia</a> NYT: A work displayed in the blockbuster “Morozov Collection” exhibition will remain in France, and authorities have their eyes on another painting in the show. 
  <p class="updated_time"> 07:53 PM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61015970?at_medium=RSS&at_campaign=KARANGA">CPC: Criminal Procedure Identification Bill raises fears of surveillance in India</a> BBC: Critics worry about increased surveillance by law enforcement agencies under its expanded scope. 
  <p class="updated_time"> 07:27 PM CT, Apr. 12 </p> 
@@ -197,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/12/world/africa/floods-mudslides-south-africa.html">Heavy Floods and Mudslides Leave at Least 45 Dead in South Africa</a> NYT: Torrential rain left a trail of destruction in the coastal city of Durban — the latest disaster in a season of storms that some scientists say has been intensified by climate change. 
  <p class="updated_time"> 11:00 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61080476?at_medium=RSS&at_campaign=KARANGA">Donbas: Battle in east Ukraine expected to be bloody and decisive</a> BBC: Ukrainian troops in the Donbas region are preparing for heavy strikes as Russia turns its focus to the east. 
- <p class="updated_time"> 07:59 PM CT, Apr. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-61074576?at_medium=RSS&at_campaign=KARANGA">Ukraine: Our parents wouldn’t leave Bucha, then Russia moved in</a> BBC: Sisters Lesia and Galya lost touch with their parents, who did not want to flee their hometown, Bucha. 
 
 
 </details>
@@ -206,10 +204,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:52 PM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/2022/04/14/us/politics/stephen-miller-january-6-committee.html">Jan. 6 Panel Presses Stephen Miller on Whether Trump Sought to Incite Crowd</a> NYT: In about eight hours of questioning, investigators pressed the former White House aide on former President Donald J. Trump’s use of “we” in his speech to supporters before the riot. 
+ <p class="updated_time"> 08:45 PM CT, Apr. 14 </p> 
+ <a href="https://www.nytimes.com/2022/04/14/us/politics/putin-nuclear-weapons.html">C.I.A. Director Airs Concern That Putin Might Turn to Nuclear Weapons</a> NYT: William J. Burns, the director of the Central Intelligence Agency, cautioned that he had seen no “practical evidence” that would suggest such a move was imminent. 
+ <p class="updated_time"> 08:12 PM CT, Apr. 14 </p> 
+ <a href="https://www.politico.com/news/2022/04/14/conservatives-elon-musk-twitter-00025447">Conservatives embrace Elon Musk as their Twitter savior</a> Politico: Republican lawmakers jump at the potential for an owner of the social media platform who would allow for few, if any, restrictions on speech. 
+ <p class="updated_time"> 07:32 PM CT, Apr. 14 </p> 
+ <a href="https://www.npr.org/2022/04/14/1092966576/ukraine-flag-projected-lights-protest-russian-embassy-washington-dc">Meet the activists who projected a giant Ukrainian flag on Russia's Embassy in D.C.</a> NPR: Demonstrators used high-powered lights to project the Ukrainian flag onto the walls of the Russian Embassy in Washington, D.C. The Russians tried to outshine the flags with a spotlight, but failed. 
  <p class="updated_time"> 06:47 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/us/politics/charles-herbster-julie-slama-nebraska.html">Nebraska State Senator Says Candidate for Governor Groped Her</a> NYT: The state senator, Julie Slama, confirmed a news report saying that Charles Herbster, a leading candidate for governor, had touched her inappropriately in 2019. He denied the allegations. 
- <p class="updated_time"> 06:40 PM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/14/us/politics/putin-nuclear-weapons.html">C.I.A. Director Says Putin Might Consider Nuclear Weapons </a> NYT: William J. Burns, the director of the Central Intelligence Agency, cautioned that he had seen no “practical evidence” that would suggest such a move was imminent. 
  <p class="updated_time"> 06:00 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/us/politics/biden-democrats-title-42-border.html">Democrats Face Tough Questions as a Border Saga Enters a New Chapter</a> NYT: We spoke with two White House correspondents for The New York Times, Zolan Kanno-Youngs and Michael D. Shear, about a Trump-era immigration policy that the Biden administration is ending. 
  <p class="updated_time"> 05:20 PM CT, Apr. 14 </p> 
@@ -277,7 +281,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:44 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/us/politics/democrats-presidential-primary-calendar.html">Democrats Weigh Shake-Up to Presidential Primary Calendar</a> NYT: The party is accepting applications from states to hold the early nominating contests, potentially shifting away from Iowa. 
  <p class="updated_time"> 08:13 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/us/politics/georgia-stacey-abrams-brian-kemp.html">Georgia’s 2018 Rematch, in a Courtroom</a> NYT: A trial is underway to determine whether Georgia’s handling of the 2018 election for governor was discriminatory, in a case brought by Stacey Abrams’s voting rights group. 
+ <a href="https://www.nytimes.com/2022/04/13/us/politics/georgia-stacey-abrams-brian-kemp.html">Trial Alleging Voter Suppression in 2018 Abrams-Kemp Georgia Race Begins</a> NYT: A trial is underway to determine whether Georgia’s handling of the 2018 election for governor was discriminatory, in a case brought by Stacey Abrams’s voting rights group. 
  <p class="updated_time"> 07:36 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/us/politics/trump-lawyers-jan-6.html">Two Trump White House Lawyers Meet With Jan. 6 Investigators</a> NYT: Pat A. Cipollone, the former White House counsel, and Patrick F. Philbin, who was his deputy, met separately with the panel after the former president authorized them to do so. 
  <p class="updated_time"> 06:15 PM CT, Apr. 13 </p> 
@@ -294,8 +298,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/us/politics/biden-weapons-ukraine.html">Biden Announces $800 Million in Military Assistance for Ukraine</a> NYT: The United States will also step up intelligence sharing as Russia appears to be preparing an offensive in eastern Ukraine. 
  <p class="updated_time"> 05:21 PM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/dnc-remake-presidential-calendar-00025120">DNC sets off free-for-all to remake presidential calendar</a> Politico: The committee will take applications for new states to lead off the presidential primaries in 2024 and beyond. 
- <p class="updated_time"> 05:06 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/business/mckinsey-purdue-fda-records.html">McKinsey Opened a Door in Its Firewall Between Pharma Clients and Regulators</a> NYT: The firm let consultants advise both drugmakers and their government overseers, internal records show. “Who we know and what we know” was part of their pitch. 
  <p class="updated_time"> 04:29 PM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092686718/gov-abbotts-order-for-truck-inspections-is-all-an-unnecessary-pr-stunt-critics-s">Gov. Abbott's order for truck inspections is all an unnecessary PR stunt, critics say</a> NPR: Commercial trucks have been spending hours or days waiting to enter Texas from Mexico. Gov. Abbott ordered inspections of all trucks, saying it's needed to combat drug smuggling and human trafficking. 
  <p class="updated_time"> 04:23 PM CT, Apr. 13 </p> 
@@ -314,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/13/1092547721/two-men-accused-of-impersonating-federal-officers-will-be-released-to-await-tria">Two men accused of impersonating federal officers will be released to await trial</a> NPR: Both are ordered to stay with their fathers in Virginia. Prosecutors have suggested they posed a national security threat and may have compromised Secret Service agents. 
  <p class="updated_time"> 08:03 AM CT, Apr. 13 </p> 
  <a href="https://www.npr.org/2022/04/13/1092366933/a-record-number-of-yellowstone-wolves-have-been-killed-conservationists-are-worr">A record number of Yellowstone wolves have been killed. Conservationists are worried</a> NPR: States neighboring Yellowstone National Park have eased rules on hunting wolves, resulting in the most being killed in nearly a century 
- <p class="updated_time"> 06:31 AM CT, Apr. 13 </p> 
- <a href="https://www.npr.org/2022/04/13/1092522320/spike-in-inflation-presents-further-challenges-for-the-biden-administration">Spike in inflation presents further challenges for the Biden administration</a> NPR: NPR's A Martinez speaks to Brian Deese, director of the National Economic Council, about inflation's economic and political challenges, and the Biden administration's plans to curb price hikes. 
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/biden-nuclear-cruise-missile-scrap-00024865">Political brawl looms over nuclear cruise missile Biden plans to scrap</a> Politico: Biden threw foreign policy progressives a bone by killing a weapons system Trump proposed. But Republicans on Capitol Hill are ready to bring it back from the dead. 
  <p class="updated_time"> 03:30 AM CT, Apr. 13 </p> 
@@ -328,12 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/04/12/politics/e15-gas-explainer-faq-climate/index.html">What are the pros and cons of E15 gas? Here's what to know about Biden's order</a> CNN: President Joe Biden announced Tuesday that his administration will lift the summertime ban on E15 gasoline to help ease high gas prices. 
  <p class="updated_time"> 12:22 PM CT, Apr. 12 </p> 
  <a href="https://www.politico.com/news/2022/04/12/biden-admin-russia-chemical-weapons-00024709">Team Biden scrambles to respond to claims of Russia chemical weapon use</a> Politico: The administration has said Russian chemical weapons use in Ukraine would trigger a ‘proportional’ U.S. response. Its pledge may soon be tested. 
- <p class="updated_time"> 08:58 PM CT, Apr. 11 </p> 
- <a href="https://www.politico.com/news/2022/04/11/biden-guns-crime-00024593">Biden’s solution to the politics of rising crime: Focus on guns</a> Politico: Democrats are on the defensive on violent crime, but they have a built-in trust advantage on policies for preventing gun violence. 
- <p class="updated_time"> 08:47 PM CT, Apr. 11 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 07:45 PM CT, Apr. 11 </p> 
- <a href="https://www.cnn.com/2022/04/11/politics/jan-6-committee-donald-trump-jr-what-matters/index.html">Why we've just scratched the surface of the January 6 investigation</a> CNN: A CNN exclusive on Friday directly ties the former President's son, Donald Trump Jr., to a concerted effort to overturn the 2020 presidential election even as votes were still being counted. 
 
 
 </details>
