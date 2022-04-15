@@ -9,9 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:28 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/04/15/world/ukraine-russia-war-news">Live Updates: Russia Warns U.S. to Stop Sending Arms to Ukraine</a> NYT: Moscow’s communiqué to the Biden administration said there could be “unpredictable consequences.” U.S. officials confirm that the Russian ship Moskva was sunk by Ukrainian missiles. 
- <p class="updated_time"> 02:20 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 02:44 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/15/world/ukraine-russia-war-news">Live Updates: Putin Draws Line on U.S. Arms for Ukraine</a> NYT: U.S. officials say that Ukrainian missiles sank Russia’s Black Sea flagship, and they fear that a brewing Russian offensive in the East could signal a more bloody phase of the war. 
+ <p class="updated_time"> 02:40 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/world/asia/imran-khan-rally-pakistan.html">Days After Ouster, Imran Khan Is Back on the Trail in Pakistan</a> NYT: With fiery critiques of his rivals and the U.S., the former prime minister has drawn thousands to rallies across Pakistan and stoked fears of more political turmoil. 
+ <p class="updated_time"> 02:39 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque">Jerusalem Calms After Israeli-Palestinian Clashes at Holy Site</a> NYT: Violence broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, in the morning on the first day of a rare convergence of Ramadan, Easter and Passover. 
  <p class="updated_time"> 02:19 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/technology/russia-media-fox-news.html">How Russia Media Uses Fox News to Make Its Case</a> NYT: The conservative network has appeared hundreds of times in Russian media. 
@@ -21,9 +23,9 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61123200?at_medium=RSS&at_campaign=KARANGA">Twitter's board readies against hostile takeover</a> BBC: The so-called "poison pill" measure is in response to Elon Musk's $43bn cash buyout offer. 
  <p class="updated_time"> 01:54 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-war-crimes-trials.html">Why Ukraine War Crimes Trials Could Take Many Years</a> NYT: Long after the fighting ends, any prosecutions and trials arising from it could be barely beginning. Here is a look at the complexities of bringing aggressors to justice. 
- <p class="updated_time"> 01:37 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 01:49 PM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
- <p class="updated_time"> 12:37 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 12:49 PM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 12:24 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61114843?at_medium=RSS&at_campaign=KARANGA">Russian warship: Moskva sinks in Black Sea</a> BBC: The warship sank while being towed a day after Ukraine claimed to have hit it with a missile. 
@@ -35,26 +37,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/video/world/100000008272335/russia-disinformation-moldova.html">Journey to Transnistria: Inside Russia’s Disinformation Bubble</a> NYT: We traveled inside Transnistria, a Moscow-backed breakaway state in Moldova, to find out how Russia’s disinformation campaign stretches beyond its borders. 
  <p class="updated_time"> 11:53 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/russia-moskva-warship-ukraine-missiles.html">Russia’s Sunken Warship Moskva Was Hit by Ukrainian Missiles, U.S. official says</a> NYT: Moscow claimed the sinking was an accident, but U.S. intelligence reports say the cruiser went down after Ukraine struck it with two Neptune missiles. 
+ <p class="updated_time"> 11:49 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 11:42 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/africa/tanzania-female-president.html">Tanzania’s First Female President Wants to Bring Her Nation in From the Cold</a> NYT: Samia Suluhu Hassan became the only female head of government in Africa when her predecessor suddenly died. She is setting a new course. 
- <p class="updated_time"> 11:37 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 10:52 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/travel/qatar-world-cup.html">What to Know About 2022 World Cup Travel to Qatar</a> NYT: Tickets are on sale for the world’s most popular sporting event, but concerns over worker exploitation and laws against homosexuality have complicated the decision to attend for some fans. 
  <p class="updated_time"> 10:52 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61120654?at_medium=RSS&at_campaign=KARANGA">Salah Abdeslam: Accused Paris attacker apologises to victims</a> BBC: Salah Abdeslam was allegedly part of an IS terror cell that killed 130 people in attacks across Paris in 2015. 
+ <p class="updated_time"> 10:49 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
  <p class="updated_time"> 10:38 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/britain-rwanda-asylum-explained.html">What Boris Johnson’s Deal With Rwanda Means for U.K. Asylum System</a> NYT: Prime Minister Boris Johnson announced a plan to send some of those seeking refuge to the central African country. What effect would the change have? 
- <p class="updated_time"> 10:37 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
  <p class="updated_time"> 10:06 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093026912/russian-moskva-warship-sunk-ukraine">A Russian warship in the Black Sea was sunk by Ukrainian missiles, U.S. official says</a> NPR: Experts say the loss of the Moskva — the flagship of Russia's Black Sea fleet — is significant both symbolically and militarily, even if it doesn't deal a decisive blow to Russia's overall operations. 
+ <p class="updated_time"> 09:49 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 09:44 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/boris-johnson-fines-covid-reactions.html">Families of U.K. Covid Victims React to Boris Johnson Fines</a> NYT: Those unable to be with dying loved ones find no satisfaction or closure with the penalty Prime Minister Boris Johnson faces for breaking lockdown rules. 
  <p class="updated_time"> 09:39 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1091998660/ukraine-russia-war-moldova-security-transdniester">With war next door, Moldova faces a dilemma as Eastern Europe's most vulnerable state</a> NPR: One of Europe's poorest countries, Moldova has a separatist region that hosts 1,500 Russian troops. Since the Ukraine war, Moldova has applied to join the EU, even as it keeps a policy of neutrality. 
- <p class="updated_time"> 09:37 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 09:26 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/kim-jong-un-ri-chun-hee-luxury-home.html">Kim Jong-un Gives North Korean TV Anchor a Luxury Home</a> NYT: Ri Chun-hee, who delivers the news with a soaring, bombastic tenor, received a two-story apartment in a riverside complex from the country’s leader, apparently for her loyalty. 
  <p class="updated_time"> 09:20 AM CT, Apr. 15 </p> 
@@ -149,8 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/14/1092869771/interstellar-meteor-hit-earth-in-2014">The first known interstellar meteor hit Earth in 2014, U.S. officials say</a> NPR: The meteor crash-landed off the coast of Papua New Guinea in January 2014. 
  <p class="updated_time"> 04:11 PM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61114768?at_medium=RSS&at_campaign=KARANGA">Depp and Heard marriage ended in 'mutual abuse', says therapist</a> BBC: A psychotherapist tells the court of a volatile dynamic between the couple during therapy sessions. 
- <p class="updated_time"> 03:12 PM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/13/world/africa/south-africa-durban-floods.html">South Africa Floods: Death Toll Passes 250</a> NYT: The devastation fueled criticism that the government should have been better prepared for the weather after intense rain in 2017 and 2019. 
  <p class="updated_time"> 02:39 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/nhs-covid-cases-treatment-backlogs.html">Covid Cases Strain N.H.S. Bid to Reduce Hospital Treatment Backlog, Doctors Say</a> NYT: The British government’s promise to shorten wait times for elective hospital procedures is threatened by high rates of positive coronavirus tests among patients and staff. 
  <p class="updated_time"> 02:23 PM CT, Apr. 14 </p> 
@@ -210,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:32 PM CT, Apr. 15 </p> 
+ <a href="https://www.politico.com/news/2022/04/15/scott-pruitt-oklahoma-senate-epa-trump-00025628">Trump EPA chief Scott Pruitt files for Senate in Oklahoma</a> Politico: Pruitt is one of a number of former Trump administration officials running for Congress this year. 
  <p class="updated_time"> 02:26 PM CT, Apr. 15 </p> 
  <a href="https://www.politico.com/news/2022/04/15/iowa-supreme-court-finkenauer-senate-ballot-00025562">Iowa Supreme Court: Finkenauer qualifies for Senate ballot</a> Politico: The court’s decision leaves Finkenauer as the likely front-runner in a race with two lesser-known candidates ahead of Iowa’s June 7 primary. 
  <p class="updated_time"> 02:25 PM CT, Apr. 15 </p> 
@@ -260,8 +262,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/14/1092916451/republicans-say-theyre-quitting-the-biased-commission-on-presidential-debates">Republicans say they're quitting the 'biased' Commission on Presidential Debates</a> NPR: Republican National Committee chairwoman Ronna McDaniel claims that the commission "refused to enact simple and commonsense reforms to help ensure fair debates." 
  <p class="updated_time"> 04:47 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/us/politics/dustin-thompson-jan-6-trial.html">Ohio Man Who Blamed Trump for Storming the Capitol Is Found Guilty</a> NYT: Dustin Thompson was the first defendant tried for his role in the Jan. 6, 2021, attack to use a Trump-made-me-do-it defense in front of a jury. He was convicted on all six charges against him. 
- <p class="updated_time"> 04:38 PM CT, Apr. 14 </p> 
- <a href="https://www.politico.com/news/2022/04/14/rnc-boycott-commission-on-presidential-debates-00025350">RNC votes to boycott 'biased' Commission on Presidential Debates</a> Politico: Republican presidential candidates will no longer participate in debates hosted by the commission. 
  <p class="updated_time"> 04:26 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/us/politics/isis-beatles-el-shafee-elsheikh.html">British Militant Convicted for Role in Deaths of Americans</a> NYT: The verdict capped a two-week trial that featured the testimony of former captives who detailed relentless beatings, waterboarding and killings by an Islamic State cell known as the Beatles. 
  <p class="updated_time"> 04:18 PM CT, Apr. 14 </p> 
