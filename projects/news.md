@@ -9,32 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:50 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 05:37 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-occupation.html">Ukrainians Detail the Terror Russian Soldiers Have Inflicted Near Kyiv</a> NYT: An ordeal at a mental health facility in Ukraine illuminated the horrors of the Russian occupation in the areas around Kyiv. 
+ <p class="updated_time"> 05:13 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/world/asia/shanghai-covid-isolation-quarantine.html">Shanghai’s Isolation Facilities Have Prompted a Backlash</a> NYT: Hundreds of thousands of Shanghai residents have been sent to quarantine and isolation facilities. One woman described her ordeal. 
+ <p class="updated_time"> 05:10 PM CT, Apr. 15 </p> 
+ <a href="https://www.npr.org/2022/04/15/1093130206/bilquis-edhi-pakistan-karachi-obituary">Pakistani humanitarian Bilquis Edhi has died</a> NPR: She was the widow of Abdul Sattar Edhi, founder of Pakistan's best-known social services network. A nurse, she worked alongside her husband and focused especially on the welfare of children and women. 
+ <p class="updated_time"> 04:59 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/ukraine-russia-war-news">Live Updates: Putin Draws Line on U.S. Arms for Ukraine</a> NYT: U.S. officials say that Ukrainian missiles sank Russia’s Black Sea flagship, and they fear that a brewing Russian offensive in the East could signal a more bloody phase of the war. 
+ <p class="updated_time"> 04:56 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/climate/biden-drilling-oil-leases.html">Biden Plans to Open More Public Land to Drilling</a> NYT: The president is under pressure to bring down gas prices, but any new drilling would be years away. The fees that companies pay would rise sharply. 
  <p class="updated_time"> 04:47 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093119884/as-ukraine-investigates-russian-war-crimes-the-u-s-and-eu-allies-offer-assistanc">As Ukraine investigates Russian war crimes, the U.S. and EU allies offer assistance</a> NPR: The help includes a group of experts that's been looking at possible war crimes since Russia took over Crimea and Donbas in 2014. 
+ <p class="updated_time"> 04:41 PM CT, Apr. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61122074?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Russia sends warning to US</a> BBC: Russia attacks Kyiv factory and warns of consequences if US keeps arming Ukraine. 
+ <p class="updated_time"> 04:40 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
  <p class="updated_time"> 04:28 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/middleeast/jerusalem-tattoo-artist.html">Jerusalem Tattoo Artist Inks Pilgrims, Priests and Those Scarred by Conflict</a> NYT: For Wassim Razzouk, Holy Week is his busiest time as Christians seek a reminder of their visit to Jerusalem. But his family’s centuries-old tattoo business caters to all faiths. 
  <p class="updated_time"> 04:22 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/africa/tanzania-female-president.html">Tanzania’s First Female President Wants to Bring Her Nation in From the Cold</a> NYT: Samia Suluhu Hassan became the only female head of government in Africa when her predecessor suddenly died. She is setting a new course. 
- <p class="updated_time"> 04:20 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-occupation.html">‘Thank You for Not Killing Us’</a> NYT: An ordeal at a mental health facility in Ukraine illuminated the horrors of the Russian occupation in the areas around Kyiv. 
  <p class="updated_time"> 04:15 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/china-europe-russia-ukraine.html">Faced With a Changed Europe, China Sticks to an Old Script</a> NYT: Europe was viewed as lacking the power and the will to contest China’s rise. But now, a harder line toward Russia has implications for Beijing. 
  <p class="updated_time"> 04:04 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/14/climate/antarctic-ice-shelves-atmospheric-rivers.html">Why Did the Larsen A and B Ice Shelves Fail? Scientists Say They Now Know. </a> NYT: The collapse of the two ice shelves was most likely triggered by vast plumes of warm air from the Pacific, researchers have found. 
  <p class="updated_time"> 04:04 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093037026/russia-ukraine-war-what-happened-today-april-15">Russia-Ukraine war: What happened today (April 15)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:02 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/world/asia/shanghai-covid-isolation-quarantine.html">Shanghai’s Isolation Facilities Have Prompted a Backlash</a> NYT: Hundreds of thousands of Shanghai residents have been sent to quarantine and isolation facilities. One woman described her ordeal. 
- <p class="updated_time"> 03:57 PM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
- <p class="updated_time"> 03:51 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/climate/biden-drilling-oil-leases.html">Biden Plans to Open More Public Land to Drilling</a> NYT: The president is under pressure to bring down gas prices, but any new supply would be years away. The fees that companies pay would rise sharply. 
  <p class="updated_time"> 03:44 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093121797/the-impact-of-the-war-in-ukraine-on-the-global-food-supply">The impact of the war in Ukraine on the global food supply</a> NPR: From the start of the war in Ukraine, food policy experts have worried that a hunger crisis could be in the making, given how important Ukraine and Russia are to global food supply. 
  <p class="updated_time"> 03:44 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093121790/beneath-kharkiv-in-ukraine-survival-has-created-a-sense-of-community">Beneath Kharkiv in Ukraine, survival has created a sense of community</a> NPR: For more than 50 days, Ukraine's second largest city has been relentlessly shelled. Above ground, parts of the city are unlivable. But below ground, life is trying to find a way. 
+ <p class="updated_time"> 03:40 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 03:40 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093121769/in-its-3rd-week-in-lockdown-shanghai-reported-23-000-new-covid-cases-today">In its 3rd week in lockdown, Shanghai reported 23,000 new COVID cases today</a> NPR: Shanghai, China, is approaching the end of its third week of a near-total lockdown to fight COVID. As case numbers rise, so does the frustration of many in the city of more than 25 million people. 
  <p class="updated_time"> 03:40 PM CT, Apr. 15 </p> 
@@ -49,30 +55,28 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/15/1093121720/ukrainian-climate-scientist-says-russias-invasion-is-a-fossil-fuel-war">Ukrainian climate scientist says Russia's invasion is a 'fossil fuel war'</a> NPR: NPR's Ari Shapiro speaks with leading Ukrainian climate scientist Svitlana Krakovska about how climate change relates to Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:22 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093121713/ukraine-says-russia-has-used-long-range-bombers-for-the-1st-time">Ukraine says Russia has used long-range bombers for the 1st time</a> NPR: Fighting continues in the besieged port city of Mariupol, where Ukraine says Russia used long-range bombers for the first time. 
- <p class="updated_time"> 02:57 PM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 02:55 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61123200?at_medium=RSS&at_campaign=KARANGA">Twitter board takes action to fight Musk bid</a> BBC: The so-called "poison pill" measure is in response to Elon Musk's $43bn cash buyout offer. 
  <p class="updated_time"> 02:48 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/technology/russia-media-fox-news.html">How Russia Media Uses Fox News to Make Its Case</a> NYT: The conservative network has appeared hundreds of times in Russian media. 
  <p class="updated_time"> 02:40 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
+ <p class="updated_time"> 02:40 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/imran-khan-rally-pakistan.html">Days After Ouster, Imran Khan Is Back on the Trail in Pakistan</a> NYT: With fiery critiques of his rivals and the U.S., the former prime minister has drawn thousands to rallies across Pakistan and stoked fears of more political turmoil. 
  <p class="updated_time"> 02:12 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque/al-aqsa-mosque-clashes">Clashes Erupt at Jerusalem Holy Site on Day With Overlapping Holidays</a> NYT: Calm returned after more than 150 people were injured and hundreds were arrested by the Israeli police on Friday, when Ramadan, Easter and Passover coincided for the first time in thirty years. 
- <p class="updated_time"> 01:57 PM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 01:54 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-war-crimes-trials.html">Why Ukraine War Crimes Trials Could Take Many Years</a> NYT: Long after the fighting ends, any prosecutions and trials arising from it could be barely beginning. Here is a look at the complexities of bringing aggressors to justice. 
+ <p class="updated_time"> 01:40 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
  <p class="updated_time"> 01:26 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61122990?at_medium=RSS&at_campaign=KARANGA">Arizona man arrested after dogs, cats and snakes found in home freezer</a> BBC: Police say photos of the frozen dogs, lizards, snakes and other animals are too graphic to release. 
- <p class="updated_time"> 12:57 PM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
+ <p class="updated_time"> 12:40 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 12:24 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61114843?at_medium=RSS&at_campaign=KARANGA">Russian warship: Moskva sinks in Black Sea</a> BBC: The warship sank while being towed a day after Ukraine claimed to have hit it with a missile. 
  <p class="updated_time"> 12:20 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/ukraine-russia-nato-s300.html">A Soviet-Era Air Defense System Arrives in Ukraine From Slovakia</a> NYT: Encouraged by the United States, Slovakia “donated” a bulky but effective S-300, hoping to challenge Russian domination of the skies in the war next door. 
- <p class="updated_time"> 11:57 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 11:55 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/video/world/100000008272335/russia-disinformation-moldova.html">Journey to Transnistria: Inside Russia’s Disinformation Bubble</a> NYT: We traveled inside Transnistria, a Moscow-backed breakaway state in Moldova, to find out how Russia’s disinformation campaign stretches beyond its borders. 
  <p class="updated_time"> 10:52 AM CT, Apr. 15 </p> 
@@ -117,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/15/1091492248/nato-arctic-war-game-had-a-cold-war-feel">NATO troops conducted a routine war exercise in the Arctic. This year felt different</a> NPR: Troops from 27 countries wrapped up one of the largest NATO war games since the 1980s — in the Arctic. Russia's war in Ukraine made the exercise feel like more than a game. 
  <p class="updated_time"> 04:23 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/u-s-lawmakers-make-surprise-taiwan-visit-to-signal-support-against-china-11650029018">U.S. Lawmakers Visit Taiwan to Signal Support Against China</a> WSJ: Trip draws angry response from Beijing, as Washington warns it against any attempt to change the island democracy’s status quo. 
- <p class="updated_time"> 04:16 AM CT, Apr. 15 </p> 
- <a href="https://www.npr.org/2022/04/15/1093006005/many-countries-are-seeing-the-worst-inflation-in-decades">Many countries are seeing the worst inflation in decades</a> NPR: Inflation isn't just an American problem — it's happening in places around the world and stretching some countries to the point of political unrest.Many 
  <p class="updated_time"> 02:20 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61041618?at_medium=RSS&at_campaign=KARANGA">Brain cancer DNA research hopes to speed up diagnosis</a> BBC: More than 200 brain tumour patients are taking part in research hoping to yield new personalised treatments. 
  <p class="updated_time"> 02:09 AM CT, Apr. 15 </p> 
@@ -208,12 +210,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:27 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/us/politics/biden-ukraine-domestic-agenda.html">The War in Ukraine Is Upending Biden’s Agenda at Home</a> NYT: President Biden’s domestic ambitions have gotten smaller as the war diverts the attention of the White House and contributes to rising prices. 
+ <p class="updated_time"> 05:16 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/us/politics/ohio-jd-vance-trump-endorsement.html">Trump Endorses J.D. Vance in Republican Primary for Senate in Ohio</a> NYT: The move amounts to a major bet on Mr. Vance’s ability to prevail over a crowded field, and on the former president’s power to alter the course of key congressional races. 
+ <p class="updated_time"> 05:06 PM CT, Apr. 15 </p> 
+ <a href="https://www.politico.com/news/2022/04/15/trump-vance-endorsement-ohio-senate-race-00025667">Trump gives Vance coveted endorsement in Ohio Senate race</a> Politico: J.D. Vance and his rivals have been campaigning behind the scenes for Trump's support for more than a year. 
  <p class="updated_time"> 04:47 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093119884/as-ukraine-investigates-russian-war-crimes-the-u-s-and-eu-allies-offer-assistanc">As Ukraine investigates Russian war crimes, the U.S. and EU allies offer assistance</a> NPR: The help includes a group of experts that's been looking at possible war crimes since Russia took over Crimea and Donbas in 2014. 
- <p class="updated_time"> 04:44 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/us/politics/ohio-jd-vance-trump-endorsement.html">Trump Endorses J.D. Vance in Republican Primary for Senate in Ohio</a> NYT: The move amounts to a major bet on Mr. Vance’s ability to prevail over a crowded field, and on the former president’s power to alter the course of key congressional races. 
  <p class="updated_time"> 04:40 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/us/politics/mike-lee-chip-roy-jan-6-texts.html">Mike Lee’s Texts Show Encouragement, Then Alarm, Before Jan. 6</a> NYT: Senator Mike Lee and Representative Chip Roy, once backers of President Donald J. Trump’s claims of a stolen election, eventually urged his top aide to change course. 
+ <a href="https://www.nytimes.com/2022/04/15/us/politics/mike-lee-chip-roy-jan-6-texts.html">‘Call Everyone Off’: Texts to Meadows Trace Republicans’ Alarm Before Jan. 6</a> NYT: Senator Mike Lee and Representative Chip Roy, once backers of President Donald J. Trump’s claims of a stolen election, eventually urged his top aide to change course. 
  <p class="updated_time"> 04:38 PM CT, Apr. 15 </p> 
  <a href="https://www.politico.com/news/2022/04/15/campaign-finance-watchdog-cracks-down-on-untraceable-super-pac-donations-00025664">Campaign finance watchdog cracks down on untraceable super PAC donations</a> Politico: The FEC is taking action after a complaint about donors backing Republican Martha McSally using LLCs to hide their identities. 
  <p class="updated_time"> 04:32 PM CT, Apr. 15 </p> 
@@ -308,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/13/trump-oz-endorsement-fallout-00025209">Trumpworld scrambles to contain Oz endorsement fallout</a> Politico: A few MAGA luminaries will be hitting the trail in Pennsylvania. It remains unclear whether Trump will too. 
  <p class="updated_time"> 08:44 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/us/politics/democrats-presidential-primary-calendar.html">Democrats Weigh Shake-Up to Presidential Primary Calendar</a> NYT: The party is accepting applications from states to hold the early nominating contests, potentially shifting away from Iowa. 
- <p class="updated_time"> 08:13 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/us/politics/georgia-stacey-abrams-brian-kemp.html">Trial Alleging Voter Suppression in 2018 Abrams-Kemp Georgia Race Begins</a> NYT: A trial is underway to determine whether Georgia’s handling of the 2018 election for governor was discriminatory, in a case brought by Stacey Abrams’s voting rights group. 
  <p class="updated_time"> 06:15 PM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/biden-booming-economy-big-risks-00023234">What could go wrong with Biden's booming economy? Here are the big risks.</a> Politico: The Fed's campaign to raise interest rates — designed to reduce spending and curb inflation — will slow growth, which will have consequences for American workers. 
  <p class="updated_time"> 06:15 PM CT, Apr. 13 </p> 
