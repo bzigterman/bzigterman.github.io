@@ -9,28 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:38 AM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque">Live Updates: Israeli-Palestinian Violence Erupts at Jerusalem Holy Site</a> NYT: Clashes broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, on the first day of a rare convergence of Ramadan, Easter and Passover. 
  <p class="updated_time"> 06:22 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Appears Close to Capturing Mariupol</a> NYT: Taking the port city would be a victory for Moscow after a series of setbacks, including the sinking of the flagship of its Black Sea fleet. 
  <p class="updated_time"> 06:22 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/australia/quiz-time-on-the-campaign-trail.html">Quiz Time on the Campaign Trail</a> NYT: Several “gotcha” questions for candidates, including one that Anthony Albanese got wrong, raise deeper questions about the quality of the nation’s political discourse. 
  <p class="updated_time"> 06:16 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/africa/tanzania-female-president.html">Tanzania’s First Female President Wants to Bring Her Nation in From the Cold</a> NYT: Samia Suluhu Hassan became the only female head of government in Africa when her predecessor suddenly died. She is setting a new course. 
- <p class="updated_time"> 06:16 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque">Live Updates: Israeli-Palestinian Violence Erupts at Jerusalem Holy Site</a> NYT: Clashes broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, on the first day of a rare convergence of Ramadan, Easter and Passover. 
  <p class="updated_time"> 06:01 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61117528?at_medium=RSS&at_campaign=KARANGA">China Covid: Clashes in Shanghai over lockdown evictions</a> BBC: Residents have been forced from their homes as apartments are turned into quarantine centres. 
+ <p class="updated_time"> 05:44 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914">Russia’s Black Sea Flagship Sinks After Ukraine Claims Missile Strike</a> WSJ: Russia’s Black Sea Flagship Sinks After Ukraine Claims Missile Strike 
  <p class="updated_time"> 05:32 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61114843?at_medium=RSS&at_campaign=KARANGA">Russian warship: Moskva sinks in Black Sea</a> BBC: The warship sank while being towed a day after Ukraine claimed to have hit it with a missile. 
- <p class="updated_time"> 05:31 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914">Russia’s Black Sea Flagship Sinks After Ukraine Claims Missile Strike</a> WSJ: Russia’s Black Sea Flagship Sinks After Ukraine Claims Missile Strike 
  <p class="updated_time"> 05:16 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093014911/russia-loses-warship-says-will-increase-attacks-on-kyiv">Russia loses warship, says will increase attacks on Kyiv</a> NPR: A day after Moscow suffered a stinging symbolic defeat with the loss of the flagship of its Black Sea fleet, Russia's Defense Ministry has promised to ramp up missile attacks on the Ukrainian capital. 
+ <p class="updated_time"> 04:44 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 04:42 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61105497?at_medium=RSS&at_campaign=KARANGA">Jerusalem: Over 150 hurt in clashes at al-Aqsa Mosque compound</a> BBC: Violence erupted at the al-Aqsa Mosque compound amid soaring Israel-Palestinian tensions. 
  <p class="updated_time"> 04:42 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1091492248/nato-arctic-war-game-had-a-cold-war-feel">NATO Arctic war game had a Cold War feel</a> NPR: Troops from 27 countries wrapped up one of the largest NATO war games since the 1980s — in the Arctic. Russia's war in Ukraine made the exercise feel like more than a game. 
- <p class="updated_time"> 04:31 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 04:16 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093006005/many-countries-are-seeing-the-worst-inflation-in-decades">Many countries are seeing the worst inflation in decades</a> NPR: Inflation isn't just an American problem — it's happening in places around the world and stretching some countries to the point of political unrest.Many 
  <p class="updated_time"> 04:01 AM CT, Apr. 15 </p> 
@@ -43,7 +43,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/science/interstellar-meteor-debate.html">Military Memo Adds to Possible Interstellar Meteor Mystery</a> NYT: The U.S. Space Command seemed to confirm a claim that a meteor from outside the solar system had entered Earth’s atmosphere, but other scientists and NASA are still not convinced. 
  <p class="updated_time"> 04:00 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/video/world/100000008272335/russia-disinformation-moldova.html">Journey to Transnistria: Inside Russia’s Disinformation Bubble</a> NYT: We travelled inside Transnistria, a Moscow-backed breakaway state in Moldova, to find out how Russia’s disinformation campaign stretches beyond its borders. 
- <p class="updated_time"> 03:31 AM CT, Apr. 15 </p> 
+ <p class="updated_time"> 03:44 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/anti-russia-alliance-is-missing-a-big-bloc-the-developing-world-11649950913">Anti-Russia Alliance Is Missing a Big Bloc: The Developing World</a> WSJ: Anti-Russia Alliance Is Missing a Big Bloc: The Developing World 
  <p class="updated_time"> 03:23 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61115738?at_medium=RSS&at_campaign=KARANGA">Elon Musk 'not sure' his takeover bid for Twitter will be successful</a> BBC: The Tesla boss claims he has a 'Plan B' if his offer, which values the firm at $43bn, is rejected. 
@@ -53,7 +53,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/world/asia/kim-jong-un-ri-chun-hee-luxury-home.html">Kim Jong-un Gives Ri Chun-hee, North Korean Anchor, a Luxe Home</a> NYT: Ri Chun-hee, who delivers the news with a soaring, bombastic tenor, received a two-story apartment in a riverside complex from the country’s leader, apparently for her loyalty. 
  <p class="updated_time"> 03:00 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093006759/uk-plan-to-fly-asylum-seekers-to-rwanda-draws-outrage">U.K. plan to fly asylum-seekers to Rwanda draws outrage</a> NPR: Britain announced a deal with Rwanda on Thursday to send asylum-seekers thousands of miles to the East African country, which it said would deter people-smugglers, but has been called inhumane. 
- <p class="updated_time"> 02:31 AM CT, Apr. 15 </p> 
+ <p class="updated_time"> 02:44 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/north-korea-to-celebrate-its-biggest-holiday-though-it-might-not-bring-out-the-big-guns-11650012714">North Korea to Celebrate Its Big Holiday, Though It Might Not Bring Out the Big Guns</a> WSJ: North Korea to Celebrate Its Big Holiday, Though It Might Not Bring Out the Big Guns 
  <p class="updated_time"> 02:11 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Russia threatened to escalate attacks on Ukrainian command centers in response to alleged strikes inside Russian territory, with both sides gearing up for a new stage in the ground war. 
@@ -61,7 +61,7 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russias-sunken-warship-moskva-recalls-great-world-war-ii-naval-battles-11650021090">Russia's Sunken Warship Moskva Recalls Great World War II Naval Battles</a> WSJ: The Russian missile cruiser is the biggest by tonnage to fall in wartime since Japan’s legendary battleship the Yamato. 
  <p class="updated_time"> 02:09 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/a-reporter-covering-the-war-reflects-on-the-legacy-of-the-holocaust.html">A reporter covering the war reflects on the legacy of the Holocaust.</a> NYT: In eastern Poland, perceptions of Russia and Ukraine are shaped by a traumatic past. 
- <p class="updated_time"> 01:31 AM CT, Apr. 15 </p> 
+ <p class="updated_time"> 01:44 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/russia-warns-it-could-station-nuclear-forces-in-europe-if-finland-sweden-join-nato-11649958396">Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO</a> WSJ: Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO 
  <p class="updated_time"> 01:28 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61117092?at_medium=RSS&at_campaign=KARANGA">Former Twitter exec questions seriousness of Musk offer</a> BBC: Vivian Schiller, who used to work there, tells Newsnight Elon Musk enjoys "throwing bombs" on Twitter. 
