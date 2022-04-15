@@ -9,15 +9,17 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:23 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 01:43 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque">Jerusalem Calms After Israeli-Palestinian Clashes at Holy Site</a> NYT: Violence broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, in the morning on the first day of a rare convergence of Ramadan, Easter and Passover. 
+ <p class="updated_time"> 01:36 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque/al-aqsa-mosque-clashes">Clashes Erupt at Jerusalem Holy Site on Day With Overlapping Holidays</a> NYT: Calm returned after more than 150 people were injured and hundreds were arrested by the Israeli police on Friday, when Ramadan, Easter and Passover coincided for the first time in thirty years. 
+ <p class="updated_time"> 01:28 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/ukraine-russia-war-news">Live Updates: Russia Warns U.S. to Stop Sending Arms to Ukraine</a> NYT: Moscow’s communiqué to the Biden administration said there could be “unpredictable consequences.” U.S. officials confirm that the Russian ship Moskva was sunk by Ukrainian missiles. 
- <p class="updated_time"> 01:20 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque">Live Updates: Jerusalem Calms After Israeli-Palestinian Clashes at Holy Site</a> NYT: Violence broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, in the morning on the first day of a rare convergence of Ramadan, Easter and Passover. 
+ <p class="updated_time"> 01:27 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/technology/russia-media-fox-news.html">How Russia Media Uses Fox News to Make Its Case</a> NYT: The conservative network has appeared hundreds of times in Russian media. 
  <p class="updated_time"> 01:13 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-war-crimes-trials.html">Why Ukraine War Crimes Trials Could Take Many Years</a> NYT: Long after the fighting ends, any prosecutions and trials arising from it could be barely beginning. Here is a look at the complexities of bringing aggressors to justice. 
- <p class="updated_time"> 01:06 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/technology/russia-media-fox-news.html">How Russia Media Uses Fox News to Make Its Case</a> NYT: The conservative network has appeared hundreds of times in Russian media. 
- <p class="updated_time"> 12:30 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 12:50 PM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
  <p class="updated_time"> 12:24 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61114843?at_medium=RSS&at_campaign=KARANGA">Russian warship: Moskva sinks in Black Sea</a> BBC: The warship sank while being towed a day after Ukraine claimed to have hit it with a missile. 
@@ -29,26 +31,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/video/world/100000008272335/russia-disinformation-moldova.html">Journey to Transnistria: Inside Russia’s Disinformation Bubble</a> NYT: We traveled inside Transnistria, a Moscow-backed breakaway state in Moldova, to find out how Russia’s disinformation campaign stretches beyond its borders. 
  <p class="updated_time"> 11:53 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/russia-moskva-warship-ukraine-missiles.html">Russia’s Sunken Warship Moskva Was Hit by Ukrainian Missiles, U.S. official says</a> NYT: Moscow claimed the sinking was an accident, but U.S. intelligence reports say the cruiser went down after Ukraine struck it with two Neptune missiles. 
+ <p class="updated_time"> 11:50 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 11:42 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/africa/tanzania-female-president.html">Tanzania’s First Female President Wants to Bring Her Nation in From the Cold</a> NYT: Samia Suluhu Hassan became the only female head of government in Africa when her predecessor suddenly died. She is setting a new course. 
- <p class="updated_time"> 11:30 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 10:52 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/travel/qatar-world-cup.html">What to Know About 2022 World Cup Travel to Qatar</a> NYT: Tickets are on sale for the world’s most popular sporting event, but concerns over worker exploitation and laws against homosexuality have complicated the decision to attend for some fans. 
  <p class="updated_time"> 10:52 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61120654?at_medium=RSS&at_campaign=KARANGA">Salah Abdeslam: Accused Paris attacker apologises to victims</a> BBC: Salah Abdeslam was allegedly part of an IS terror cell that killed 130 people in attacks across Paris in 2015. 
+ <p class="updated_time"> 10:50 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 10:38 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/britain-rwanda-asylum-explained.html">What Boris Johnson’s Deal With Rwanda Means for U.K. Asylum System</a> NYT: Prime Minister Boris Johnson announced a plan to send some of those seeking refuge to the central African country. What effect would the change have? 
- <p class="updated_time"> 10:30 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 10:06 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093026912/russian-moskva-warship-sunk-ukraine">A Russian warship in the Black Sea was sunk by Ukrainian missiles, U.S. official says</a> NPR: Experts say the loss of the Moskva — the flagship of Russia's Black Sea fleet — is significant both symbolically and militarily, even if it doesn't deal a decisive blow to Russia's overall operations. 
+ <p class="updated_time"> 09:50 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
  <p class="updated_time"> 09:44 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/boris-johnson-fines-covid-reactions.html">Families of U.K. Covid Victims React to Boris Johnson Fines</a> NYT: Those unable to be with dying loved ones find no satisfaction or closure with the penalty Prime Minister Boris Johnson faces for breaking lockdown rules. 
  <p class="updated_time"> 09:39 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1091998660/ukraine-russia-war-moldova-security-transdniester">With war next door, Moldova faces a dilemma as Eastern Europe's most vulnerable state</a> NPR: One of Europe's poorest countries, Moldova has a separatist region that hosts 1,500 Russian troops. Since the Ukraine war, Moldova has applied to join the EU, even as it keeps a policy of neutrality. 
- <p class="updated_time"> 09:30 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
  <p class="updated_time"> 09:26 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/kim-jong-un-ri-chun-hee-luxury-home.html">Kim Jong-un Gives North Korean TV Anchor a Luxury Home</a> NYT: Ri Chun-hee, who delivers the news with a soaring, bombastic tenor, received a two-story apartment in a riverside complex from the country’s leader, apparently for her loyalty. 
  <p class="updated_time"> 09:20 AM CT, Apr. 15 </p> 
@@ -57,7 +59,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/15/1093030169/prince-harry-meghan-queen-elizabeth-visit">Harry and Meghan visit Queen Elizabeth for 1st time since giving up their royal roles</a> NPR: The couple stopped by Windsor Castle on their first joint visit to the U.K. since they stepped down as senior working royals and moved to the United States more than two years ago. 
  <p class="updated_time"> 09:08 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/arts/olga-smirnova-ballet-bolshoi-ukraine-war.html">Russia’s Storied Ballet Is Among the Casualties of War</a> NYT: Ballet has long been a symbol of Russian culture. Now it is becoming a symbol of Russian isolation. 
- <p class="updated_time"> 08:30 AM CT, Apr. 15 </p> 
+ <p class="updated_time"> 08:50 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 08:25 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/russia-disinformation-transnistria.html">How Russian Disinformation Spreads Beyond Its Borders</a> NYT: A New York Times’ video team traveled to the breakaway region of Transnistria to find out what residents there believe about the war in Ukraine. 
@@ -208,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:33 PM CT, Apr. 15 </p> 
+ <a href="https://www.politico.com/news/2022/04/15/psaki-fox-news-feeds-doocy-questions-that-makes-him-look-like-a-stupid-son-of-a-00025547">Psaki: Fox News feeds Doocy questions that makes him look like a 'stupid son of a...'</a> Politico: The White House press secretary was referring to President Biden's hot-mic moment after an exchange with the reporter. 
  <p class="updated_time"> 01:22 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/business/economy/michael-barr-federal-reserve.html">Biden to Nominate Michael Barr as Fed Vice Chair for Supervision</a> NYT: Mr. Barr faced pushback from progressives when his name was floated for a different position. 
  <p class="updated_time"> 01:03 PM CT, Apr. 15 </p> 
@@ -266,8 +270,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/04/14/politics/kamala-harris-doug-emhoff-seder-naval-observatory/index.html">Second family to hold first known Passover Seder at vice president's residence</a> CNN: Vice President Kamala Harris and second gentleman Doug Emhoff on Friday will become the first known second family to host a Passover Seder at the vice president's residence, a White House official says, a continuation of their efforts to celebrate Emhoff's Jewish faith. 
  <p class="updated_time"> 12:32 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092816157/the-midterm-elections-will-show-if-trump-is-still-a-kingmaker">The midterm elections will show if Trump is still a 'kingmaker'</a> NPR: NYT's Shane Goldmacher says Trump doles out endorsements to Republican candidates to elevate allies, punish enemies and make the 'Big Lie', that the 2020 election was stolen, into a party litmus test. 
- <p class="updated_time"> 11:16 AM CT, Apr. 14 </p> 
- <a href="https://www.politico.com/news/2022/04/14/justice-dept-jan-6-trial-00025287">Jury convicts Jan. 6 defendant who blamed Trump for Capitol breach</a> Politico: Dustin Thompson sought to pin his actions on Donald Trump. Jurors found him guilty on all six counts. 
  <p class="updated_time"> 11:09 AM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092804056/student-loan-debt-investigation-response">Senators call for probe into student loan program after NPR unearthed major problems</a> NPR: Lawmakers are calling for an investigation two weeks after an NPR report found a student loan program designed to help low-income borrowers wasn't living up to its promise. 
  <p class="updated_time"> 11:07 AM CT, Apr. 14 </p> 
