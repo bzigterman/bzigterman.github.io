@@ -9,42 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:41 AM CT, Apr. 15 </p> 
- <a href="https://www.bbc.co.uk/news/business-61115738?at_medium=RSS&at_campaign=KARANGA">Elon Musk 'not sure' his takeover bid for Twitter will be successful</a> BBC: Tesla's boss claims he has a 'Plan B' if his offer, which values the firm at $41bn, is rejected. 
+ <p class="updated_time"> 02:46 AM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/world/asia/kim-jong-un-ri-chun-hee-luxury-home.html">Kim Jong-un Gives Ri Chun-hee, North Korean Anchor, a Luxe Home</a> NYT: Ri Chun-hee, who delivers the news with a soaring, bombastic tenor, received a two-story apartment from the country’s leader, apparently for her loyalty to his party. 
+ <p class="updated_time"> 02:41 AM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/14/world/ukraine-russia-war-news">What Happened on Day 50 of the War in Ukraine</a> NYT: Ukraine says it hit the flagship of Russia’s Black Sea fleet with a missile strike. Russia says the ship was damaged by a fire and sank while being towed to port. E.U. leaders considered an oil ban despite its potential to increase energy prices around the bloc. 
+ <p class="updated_time"> 02:09 AM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/world/europe/a-reporter-covering-the-war-reflects-on-the-legacy-of-the-holocaust.html">A reporter covering the war reflects on the legacy of the Holocaust.</a> NYT: In eastern Poland, perceptions of Russia and Ukraine are shaped by a traumatic past. 
+ <p class="updated_time"> 02:02 AM CT, Apr. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61115738?at_medium=RSS&at_campaign=KARANGA">Elon Musk 'not sure' his takeover bid for Twitter will be successful</a> BBC: Tesla's boss claims he has a 'Plan B' if his offer, which values the firm at $43bn, is rejected. 
+ <p class="updated_time"> 02:00 AM CT, Apr. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61114843?at_medium=RSS&at_campaign=KARANGA">Russian warship: Moskva sinks in Black Sea</a> BBC: The warship sunk while being towed a day after Ukraine claimed to have hit it with a missile. 
+ <p class="updated_time"> 01:51 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914">Russia’s Black Sea Flagship Sinks After Ukraine Claims Missile Strike</a> WSJ: Russia’s Black Sea Flagship Sinks After Ukraine Claims Missile Strike 
  <p class="updated_time"> 01:28 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61117092?at_medium=RSS&at_campaign=KARANGA">Former Twitter exec questions seriousness of Musk offer</a> BBC: Vivian Schiller, who used to work there, tells Newsnight Elon Musk enjoys "throwing bombs" on Twitter. 
  <p class="updated_time"> 01:09 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093003540/us-lawmakers-signal-support-for-taiwan-in-visit">U.S. lawmakers signal support for Taiwan in visit</a> NPR: U.S. lawmakers visiting Taiwan on Friday made a pointed and public declaration of their support for the self-governing island democracy while also issuing a warning to China. 
- <p class="updated_time"> 01:01 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914">Russia’s Black Sea Flagship Sinks After Ukraine Claims Missile Strike</a> WSJ: Russia’s Black Sea Flagship Sinks After Ukraine Claims Missile Strike 
- <p class="updated_time"> 12:48 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/04/14/world/ukraine-russia-war-news">What Happened on Day 50 of the War in Ukraine</a> NYT: Ukraine says it hit the flagship of Russia’s Black Sea fleet with a missile strike. Russia says the ship was damaged by a fire and sank while being towed to port. E.U. leaders considered an oil ban despite its potential to increase energy prices around the bloc. 
- <p class="updated_time"> 12:48 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/world/europe/a-reporter-covering-the-war-reflects-on-the-legacy-of-the-holocaust.html">A reporter covering the war reflects on the legacy of the Holocaust.</a> NYT: In eastern Poland, perceptions of Russia and Ukraine are shaped by a traumatic past. 
+ <p class="updated_time"> 12:51 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/anti-russia-alliance-is-missing-a-big-bloc-the-developing-world-11649950913">Anti-Russia Alliance Is Missing a Big Bloc: The Developing World</a> WSJ: Anti-Russia Alliance Is Missing a Big Bloc: The Developing World 
  <p class="updated_time"> 12:39 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093001752/n-korea-marks-key-anniversary-but-no-word-on-army-parade">N. Korea marks key anniversary, but no word on army parade</a> NPR: North Korea is marking a key state anniversary Friday with calls for stronger loyalty to Kim Jong Un, but there was no word on an expected military parade amid heightened international tension. 
- <p class="updated_time"> 12:01 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/anti-russia-alliance-is-missing-a-big-bloc-the-developing-world-11649950913">Anti-Russia Alliance Is Missing a Big Bloc: The Developing World</a> WSJ: Anti-Russia Alliance Is Missing a Big Bloc: The Developing World 
  <p class="updated_time"> 12:00 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/arts/olga-smirnova-ballet-bolshoi-ukraine-war.html">Russia’s Storied Ballet Is Among the Casualties of War</a> NYT: Ballet has long been a symbol of Russian culture. Now it is becoming a symbol of Russian isolation. 
+ <p class="updated_time"> 11:51 PM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/russia-warns-it-could-station-nuclear-forces-in-europe-if-finland-sweden-join-nato-11649958396">Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO</a> WSJ: Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO 
  <p class="updated_time"> 11:18 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/15/1093000022/clashes-erupt-at-jerusalem-holy-site-20-palestinians-hurt">Clashes erupt at Jerusalem holy site, 67 Palestinians hurt</a> NPR: Clashes broke out between Israeli police and Palestinians at the Al-Aqsa Mosque early Friday, with claims Israeli police entered in force shortly after early morning prayers. 
- <p class="updated_time"> 11:01 PM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/russia-warns-it-could-station-nuclear-forces-in-europe-if-finland-sweden-join-nato-11649958396">Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO</a> WSJ: Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO 
- <p class="updated_time"> 10:01 PM CT, Apr. 14 </p> 
+ <p class="updated_time"> 10:51 PM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/islamic-state-fighter-convicted-for-role-in-murder-of-four-americans-11649958246">Islamic State Fighter Convicted for Role in Murder of Four Americans</a> WSJ: Islamic State Fighter Convicted for Role in Murder of Four Americans 
  <p class="updated_time"> 09:58 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/asia/japan-toddler-tv-show.html">Japanese TV Show “Old Enough!” Features Toddlers Running Errands</a> NYT: “Old Enough!,” a Japanese show that has been on the air for decades, recently came to Netflix. It features toddlers running errands without adult supervision. 
  <p class="updated_time"> 09:58 PM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61036733?at_medium=RSS&at_campaign=KARANGA">North Korean hackers target gamers in $615m crypto heist - US</a> BBC: Crypto worth at least $615 million was stolen from players of popular online game Axie Infinity. 
+ <p class="updated_time"> 09:51 PM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/china-covid-19-lockdowns-spread-beyond-shanghai-to-other-cities-11649949817">China Covid-19 Lockdowns Spread Beyond Shanghai to Other Cities</a> WSJ: China Covid-19 Lockdowns Spread Beyond Shanghai to Other Cities 
  <p class="updated_time"> 09:48 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/climate/antarctic-ice-shelves-atmospheric-rivers.html">Why Did Two Antarctic Ice Shelves Fail? Scientists Say They Now Know. </a> NYT: The collapse of the two ice shelves was most likely triggered by vast plumes of warm air from the Pacific, researchers have found. 
  <p class="updated_time"> 09:48 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/africa/france-macron-africa-colonies.html">Former French Colonies in Africa Demand a Reset</a> NYT: Decades after independence, many African countries are increasingly troubled by the ongoing influence of their former colonial power. 
  <p class="updated_time"> 09:25 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/uk-rwanda-asylum-seekers.html">U.K. Plans to Send Some Asylum Seekers to Rwanda</a> NYT: Britain says it will fly many refugees thousands of miles to the central African country for processing and resettlement, a significant hardening of migration policy. 
- <p class="updated_time"> 09:01 PM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/china-covid-19-lockdowns-spread-beyond-shanghai-to-other-cities-11649949817">China Covid-19 Lockdowns Spread Beyond Shanghai to Other Cities</a> WSJ: China Covid-19 Lockdowns Spread Beyond Shanghai to Other Cities 
  <p class="updated_time"> 07:57 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/climate/gina-mccarthy-climate-adviser.html">Gina McCarthy, Top Climate Adviser, Is Said to Be Planning Departure</a> NYT: Ms. McCarthy was tapped by President Biden to lead an ambitious domestic climate agenda. Associates say she is frustrated by the slow pace of progress. 
  <p class="updated_time"> 07:39 PM CT, Apr. 14 </p> 
@@ -67,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/14/world/europe/barentsburg-norway-ukraine-war-russia.html">Tensions Over the Ukraine War Deepen the Chill Near the North Pole</a> NYT: The war and the comments of a Russian diplomat have strained relations on an archipelago in Norway where Russians, Ukrainians and Norwegians have lived peacefully for decades. 
  <p class="updated_time"> 04:45 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/movies/cannes-film-festival-lineup.html">David Cronenberg and Claire Denis Will Compete at Cannes Film Festival</a> NYT: Organizers announced a lineup of nearly 50 movies for the event’s 2022 edition, including 18 in the running for the top honor, the Palme d’Or. 
- <p class="updated_time"> 04:28 PM CT, Apr. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61114843?at_medium=RSS&at_campaign=KARANGA">Russian warship Moskva has sunk - defence ministry</a> BBC: The warship sunk while being towed a day after it was reported damaged by fire or a Ukrainian missile strike. 
  <p class="updated_time"> 04:26 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/us/politics/isis-beatles-el-shafee-elsheikh.html">British Militant Convicted for Role in Deaths of Americans</a> NYT: The verdict capped a two-week trial that featured the testimony of former captives who detailed relentless beatings, waterboarding and killings by an Islamic State cell known as the Beatles. 
  <p class="updated_time"> 04:18 PM CT, Apr. 14 </p> 
@@ -167,16 +169,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/world/europe/mariupol-hospital-attack-nurse.html">Nurse Recounts Attack on Mariupol Maternity Hospital</a> NYT: The attack last month was among the first signs that Ukraine was facing a merciless war. 
  <p class="updated_time"> 11:19 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/science/war-environmental-impact-ukraine.html">How Nature Becomes a Casualty of War</a> NYT: Research on past conflicts suggests that the war in Ukraine could have a profound environmental impact. 
- <p class="updated_time"> 10:20 AM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/12/world/world-covid-cases-testing.html">World Surpasses Half a Billion Known Coronavirus Cases</a> NYT: There have almost certainly been far more infections than that among the global population of 7.9 billion, with many going undetected or unreported, and the reporting gap may only grow wider as some countries, including the United States, scale back official testing. 
  <p class="updated_time"> 09:45 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/us/politics/russia-propaganda-ukraine-war.html">How US and Ukrainian Groups Pierce Putin’s Propaganda Bubble</a> NYT: U.S.-backed news outlets and Ukrainian activists use Cold War techniques and high-tech tactics to get news about the war to Russians. 
  <p class="updated_time"> 09:12 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/australia/new-zealand-covid-restrictions-australia.html">New Zealand Welcomes Vaccinated Tourists From Australia</a> NYT: The latest steps toward reopening are being taken in a country that has maintained some of the strictest coronavirus precautions in the world. 
  <p class="updated_time"> 06:48 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/biden-russia-genocide-ukraine.html">President Biden Accuses Russia of Committing Genocide in Ukraine</a> NYT: It was the first time the president has used the term to describe the Russia’s war. He emphasized it was a personal view, not a legal determination. 
- <p class="updated_time"> 04:49 AM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/12/world/europe/ukraine-viktor-medvedchuk-putin-ally.html">Ukrainian Officers Said to Detain Putin Ally Viktor Medvedchuk</a> NYT: Viktor Medvedchuk, a wealthy Ukrainian politician seen as the Kremlin’s main agent of influence in Ukraine in recent years, had disappeared shortly after the start of the war. 
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/ukraine-schools-war.html">War in Ukraine Disrupts Education of Millions of Children</a> NYT: The country’s teachers are doing their best to provide lessons for the millions of school-age children whose education has been interrupted. 
  <p class="updated_time"> 11:32 PM CT, Apr. 12 </p> 
@@ -189,12 +187,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-60597999?at_medium=RSS&at_campaign=KARANGA">How posh British schools are branching out in Asia</a> BBC: A growing number of leading British public schools are opening campuses in the region. 
  <p class="updated_time"> 06:06 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/putin-donbas-war-russia.html">Putin Calls Talks a ‘Dead End’ but Limits War Aim to Eastern Ukraine</a> NYT: It was the first time that President Vladimir Putin himself had defined a more limited military goal: taking control of the Donbas region in the east of Ukraine — not the whole country. 
- <p class="updated_time"> 05:43 PM CT, Apr. 12 </p> 
- <a href="https://www.nytimes.com/2022/04/12/us/politics/us-report-human-rights.html">U.S. Report Describes a Global Retreat on Human Rights </a> NYT: Secretary of State Antony Blinken says repressive governments “are growing more brazen” and reaching across borders to target their critics. 
  <p class="updated_time"> 05:14 PM CT, Apr. 12 </p> 
  <a href="https://www.nytimes.com/2022/04/12/world/europe/macron-le-pen-france-election.html">Macron and Le Pen Trade Jabs and Lean Left as French Race Heats Up</a> NYT: President Emmanuel Macron and Marine Le Pen, the far-right candidate, are in close contention as the April 24 presidential runoff election nears. 
- <p class="updated_time"> 04:51 PM CT, Apr. 12 </p> 
- <a href="https://www.nytimes.com/2022/04/12/us/politics/ukraine-russian-cyberattack.html">Ukraine Says It Thwarted a Sophisticated Russian Cyberattack on Its Power Grid</a> NYT: Experts say the hacking, while unsuccessful, was among the most complex cyberattacks they have seen in the war so far. 
  <p class="updated_time"> 11:00 AM CT, Apr. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61080476?at_medium=RSS&at_campaign=KARANGA">Donbas: Battle in east Ukraine expected to be bloody and decisive</a> BBC: Ukrainian troops in the Donbas region are preparing for heavy strikes as Russia turns its focus to the east. 
 
