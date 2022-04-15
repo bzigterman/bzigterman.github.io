@@ -9,39 +9,41 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:00 AM CT, Apr. 15 </p> 
- <a href="https://www.npr.org/2022/04/15/1093006759/uk-plan-to-fly-asylum-seekers-to-rwanda-draws-outrage">UK plan to fly asylum-seekers to Rwanda draws outrage</a> NPR: Britain announced a deal with Rwanda on Thursday to send  asylum-seekers thousands of miles to the East African country, which it said would deter people-smugglers, but has been called inhumane. 
+ <p class="updated_time"> 03:23 AM CT, Apr. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61115738?at_medium=RSS&at_campaign=KARANGA">Elon Musk 'not sure' his takeover bid for Twitter will be successful</a> BBC: Tesla's boss claims he has a 'Plan B' if his offer, which values the firm at $43bn, is rejected. 
+ <p class="updated_time"> 03:22 AM CT, Apr. 15 </p> 
+ <a href="https://www.npr.org/2022/04/15/1093007624/anti-virus-shutdowns-in-china-spread-as-infections-rise">Anti-virus shutdowns in China spread as infections rise</a> NPR: Shutdowns that have shut down some of China's biggest cities and fueled public irritation are spreading as infections rise, hurting a weak economy and prompting warnings of possible global shockwaves. 
  <p class="updated_time"> 03:00 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/kim-jong-un-ri-chun-hee-luxury-home.html">Kim Jong-un Gives Ri Chun-hee, North Korean Anchor, a Luxe Home</a> NYT: Ri Chun-hee, who delivers the news with a soaring, bombastic tenor, received a two-story apartment in a riverside complex from the country’s leader, apparently for her loyalty. 
+ <p class="updated_time"> 03:00 AM CT, Apr. 15 </p> 
+ <a href="https://www.npr.org/2022/04/15/1093006759/uk-plan-to-fly-asylum-seekers-to-rwanda-draws-outrage">UK plan to fly asylum-seekers to Rwanda draws outrage</a> NPR: Britain announced a deal with Rwanda on Thursday to send asylum-seekers thousands of miles to the East African country, which it said would deter people-smugglers, but has been called inhumane. 
  <p class="updated_time"> 02:53 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/middleeast/al-aqsa-mosque-clashes.html">Israeli-Palestinian Clashes Erupt in Jerusalem as Holidays Converge</a> NYT: The violence broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, on the first day of a rare concurrence of Ramadan, Passover and Easter. 
  <p class="updated_time"> 02:41 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/14/world/ukraine-russia-war-news">What Happened on Day 50 of the War in Ukraine</a> NYT: Ukraine says it hit the flagship of Russia’s Black Sea fleet with a missile strike. Russia says the ship was damaged by a fire and sank while being towed to port. E.U. leaders considered an oil ban despite its potential to increase energy prices around the bloc. 
- <p class="updated_time"> 02:12 AM CT, Apr. 15 </p> 
+ <p class="updated_time"> 02:38 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/russias-black-sea-fleet-flagship-damaged-evacuated-after-ukraine-claims-missile-strike-11649920914">Russia’s Black Sea Flagship Sinks After Ukraine Claims Missile Strike</a> WSJ: Russia’s Black Sea Flagship Sinks After Ukraine Claims Missile Strike 
  <p class="updated_time"> 02:09 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/a-reporter-covering-the-war-reflects-on-the-legacy-of-the-holocaust.html">A reporter covering the war reflects on the legacy of the Holocaust.</a> NYT: In eastern Poland, perceptions of Russia and Ukraine are shaped by a traumatic past. 
- <p class="updated_time"> 02:02 AM CT, Apr. 15 </p> 
- <a href="https://www.bbc.co.uk/news/business-61115738?at_medium=RSS&at_campaign=KARANGA">Elon Musk 'not sure' his takeover bid for Twitter will be successful</a> BBC: Tesla's boss claims he has a 'Plan B' if his offer, which values the firm at $43bn, is rejected. 
  <p class="updated_time"> 02:00 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61114843?at_medium=RSS&at_campaign=KARANGA">Russian warship: Moskva sinks in Black Sea</a> BBC: The warship sunk while being towed a day after Ukraine claimed to have hit it with a missile. 
+ <p class="updated_time"> 01:38 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/anti-russia-alliance-is-missing-a-big-bloc-the-developing-world-11649950913">Anti-Russia Alliance Is Missing a Big Bloc: The Developing World</a> WSJ: Anti-Russia Alliance Is Missing a Big Bloc: The Developing World 
  <p class="updated_time"> 01:28 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61117092?at_medium=RSS&at_campaign=KARANGA">Former Twitter exec questions seriousness of Musk offer</a> BBC: Vivian Schiller, who used to work there, tells Newsnight Elon Musk enjoys "throwing bombs" on Twitter. 
- <p class="updated_time"> 01:12 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/anti-russia-alliance-is-missing-a-big-bloc-the-developing-world-11649950913">Anti-Russia Alliance Is Missing a Big Bloc: The Developing World</a> WSJ: Anti-Russia Alliance Is Missing a Big Bloc: The Developing World 
  <p class="updated_time"> 01:09 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093003540/us-lawmakers-signal-support-for-taiwan-in-visit">U.S. lawmakers signal support for Taiwan in visit</a> NPR: U.S. lawmakers visiting Taiwan on Friday made a pointed and public declaration of their support for the self-governing island democracy while also issuing a warning to China. 
  <p class="updated_time"> 12:39 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093001752/n-korea-marks-key-anniversary-but-no-word-on-army-parade">N. Korea marks key anniversary, but no word on army parade</a> NPR: North Korea is marking a key state anniversary Friday with calls for stronger loyalty to Kim Jong Un, but there was no word on an expected military parade amid heightened international tension. 
- <p class="updated_time"> 12:12 AM CT, Apr. 15 </p> 
+ <p class="updated_time"> 12:38 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/russia-warns-it-could-station-nuclear-forces-in-europe-if-finland-sweden-join-nato-11649958396">Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO</a> WSJ: Russia Warns It Could Station Nuclear Forces in Europe if Finland, Sweden Join NATO 
  <p class="updated_time"> 12:00 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/arts/olga-smirnova-ballet-bolshoi-ukraine-war.html">Russia’s Storied Ballet Is Among the Casualties of War</a> NYT: Ballet has long been a symbol of Russian culture. Now it is becoming a symbol of Russian isolation. 
+ <p class="updated_time"> 11:38 PM CT, Apr. 14 </p> 
+ <a href="https://www.wsj.com/articles/islamic-state-fighter-convicted-for-role-in-murder-of-four-americans-11649958246">Islamic State Fighter Convicted for Role in Murder of Four Americans</a> WSJ: Islamic State Fighter Convicted for Role in Murder of Four Americans 
  <p class="updated_time"> 11:18 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/15/1093000022/clashes-erupt-at-jerusalem-holy-site-20-palestinians-hurt">Clashes erupt at Jerusalem holy site, 67 Palestinians hurt</a> NPR: Clashes broke out between Israeli police and Palestinians at the Al-Aqsa Mosque early Friday, with claims Israeli police entered in force shortly after early morning prayers. 
- <p class="updated_time"> 11:12 PM CT, Apr. 14 </p> 
- <a href="https://www.wsj.com/articles/islamic-state-fighter-convicted-for-role-in-murder-of-four-americans-11649958246">Islamic State Fighter Convicted for Role in Murder of Four Americans</a> WSJ: Islamic State Fighter Convicted for Role in Murder of Four Americans 
- <p class="updated_time"> 10:12 PM CT, Apr. 14 </p> 
+ <p class="updated_time"> 10:38 PM CT, Apr. 14 </p> 
  <a href="https://www.wsj.com/articles/china-covid-19-lockdowns-spread-beyond-shanghai-to-other-cities-11649949817">China Covid-19 Lockdowns Spread Beyond Shanghai to Other Cities</a> WSJ: China Covid-19 Lockdowns Spread Beyond Shanghai to Other Cities 
  <p class="updated_time"> 09:58 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/asia/japan-toddler-tv-show.html">Japanese TV Show “Old Enough!” Features Toddlers Running Errands</a> NYT: “Old Enough!,” a Japanese show that has been on the air for decades, recently came to Netflix. It features toddlers running errands without adult supervision. 
@@ -105,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/14/world/asia/china-food-crisis-beijing.html">Shanghai’s Food Crisis Prompts Beijing Residents to Stock Up</a> NYT: “Things that happened in Shanghai made me panic,” said Li Lilin, a real estate agent in Beijing, adding, “I’m just terrified of starving to death.” 
  <p class="updated_time"> 02:05 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092862792/russian-woman-jailed-ukraine-protest-price-tags">A Russian woman is jailed for replacing store price tags with anti-war messages</a> NPR: Artist Aleksandra Skochilenko reportedly swapped in a tag at a St. Petersburg supermarket with a note about the bombing of a Mariupol art school. Her lawyer said a shopper reported her to the police. 
- <p class="updated_time"> 01:53 PM CT, Apr. 14 </p> 
- <a href="https://www.npr.org/2022/04/14/1092869545/islamic-state-beatles-hostages-guilty">A member of Islamic State group known as 'Beatles' is convicted in Americans' deaths </a> NPR: A jury convicted a British national for his role in hostage-takings that took roughly two dozen Westerners captive a decade ago, resulting in the deaths of four Americans, three of whom were beheaded. 
  <p class="updated_time"> 12:51 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/13/world/europe/le-pen-nato-russia-germany.html">Le Pen Backs NATO-Russia Reconciliation and Reduced French Role in Alliance</a> NYT: Marine Le Pen, the far-right candidate for the French presidency, offered a worldview reminiscent of the Trump presidency. “No submission to an American protectorate on European soil,” she said. 
  <p class="updated_time"> 12:28 PM CT, Apr. 14 </p> 
