@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:28 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 12:29 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/ukraine-russia-war-news">Live Updates: Russia Warns U.S. to Stop Sending Arms to Ukraine</a> NYT: Moscow’s communiqué to the Biden administration said there would be “unpredictable consequences.” U.S. officials confirm that the Russian ship Moskva was sunk by Ukrainian missiles. 
- <p class="updated_time"> 12:20 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 12:29 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque">Live Updates: Jerusalem Calms After Israeli-Palestinian Clashes at Holy Site</a> NYT: Violence broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, in the morning on the first day of a rare convergence of Ramadan, Easter and Passover. 
+ <p class="updated_time"> 12:24 PM CT, Apr. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61114843?at_medium=RSS&at_campaign=KARANGA">Russian warship: Moskva sinks in Black Sea</a> BBC: The warship sank while being towed a day after Ukraine claimed to have hit it with a missile. 
  <p class="updated_time"> 12:20 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/ukraine-russia-nato-s300.html">A Soviet-Era Air Defense System Arrives in Ukraine From Slovakia</a> NYT: Encouraged by the United States, Slovakia “donated” a bulky but effective S-300, hoping to challenge Russian domination of the skies in the war next door. 
  <p class="updated_time"> 12:17 PM CT, Apr. 15 </p> 
@@ -23,26 +25,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/video/world/100000008272335/russia-disinformation-moldova.html">Journey to Transnistria: Inside Russia’s Disinformation Bubble</a> NYT: We traveled inside Transnistria, a Moscow-backed breakaway state in Moldova, to find out how Russia’s disinformation campaign stretches beyond its borders. 
  <p class="updated_time"> 11:53 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/russia-moskva-warship-ukraine-missiles.html">Russia’s Sunken Warship Moskva Was Hit by Ukrainian Missiles, U.S. official says</a> NYT: Moscow claimed the sinking was an accident, but U.S. intelligence reports say the cruiser went down after Ukraine struck it with two Neptune missiles. 
+ <p class="updated_time"> 11:47 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
  <p class="updated_time"> 11:42 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/africa/tanzania-female-president.html">Tanzania’s First Female President Wants to Bring Her Nation in From the Cold</a> NYT: Samia Suluhu Hassan became the only female head of government in Africa when her predecessor suddenly died. She is setting a new course. 
- <p class="updated_time"> 11:32 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
  <p class="updated_time"> 10:52 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/travel/qatar-world-cup.html">What to Know About 2022 World Cup Travel to Qatar</a> NYT: Tickets are on sale for the world’s most popular sporting event, but concerns over worker exploitation and laws against homosexuality have complicated the decision to attend for some fans. 
  <p class="updated_time"> 10:52 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61120654?at_medium=RSS&at_campaign=KARANGA">Salah Abdeslam: Accused Paris attacker apologises to victims</a> BBC: Salah Abdeslam was allegedly part of an IS terror cell that killed 130 people in attacks across Paris in 2015. 
+ <p class="updated_time"> 10:47 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 10:38 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/britain-rwanda-asylum-explained.html">What Boris Johnson’s Deal With Rwanda Means for U.K. Asylum System</a> NYT: Prime Minister Boris Johnson announced a plan to send some of those seeking refuge to the central African country. What effect would the change have? 
- <p class="updated_time"> 10:32 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 10:06 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093026912/russian-moskva-warship-sunk-ukraine">A Russian warship in the Black Sea was sunk by Ukrainian missiles, U.S. official says</a> NPR: Experts say the loss of the Moskva — the flagship of Russia's Black Sea fleet — is significant both symbolically and militarily, even if it doesn't deal a decisive blow to Russia's overall operations. 
+ <p class="updated_time"> 09:47 AM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 09:44 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/boris-johnson-fines-covid-reactions.html">Families of U.K. Covid Victims React to Boris Johnson Fines</a> NYT: Those unable to be with dying loved ones find no satisfaction or closure with the penalty Prime Minister Boris Johnson faces for breaking lockdown rules. 
  <p class="updated_time"> 09:39 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1091998660/ukraine-russia-war-moldova-security-transdniester">With war next door, Moldova faces a dilemma as Eastern Europe's most vulnerable state</a> NPR: One of Europe's poorest countries, Moldova has a separatist region that hosts 1,500 Russian troops. Since the Ukraine war, Moldova's applied to join the EU, even as it keeps a policy of neutrality. 
- <p class="updated_time"> 09:32 AM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 09:26 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/kim-jong-un-ri-chun-hee-luxury-home.html">Kim Jong-un Gives North Korean TV Anchor a Luxury Home</a> NYT: Ri Chun-hee, who delivers the news with a soaring, bombastic tenor, received a two-story apartment in a riverside complex from the country’s leader, apparently for her loyalty. 
  <p class="updated_time"> 09:20 AM CT, Apr. 15 </p> 
@@ -51,13 +53,13 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/15/1093030169/prince-harry-meghan-queen-elizabeth-visit">Harry and Meghan visit Queen Elizabeth for 1st time since giving up their royal roles</a> NPR: The couple stopped by Windsor Castle on their first joint visit to the U.K. since they stepped down as senior working royals and moved to the United States more than two years ago. 
  <p class="updated_time"> 09:08 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/arts/olga-smirnova-ballet-bolshoi-ukraine-war.html">Russia’s Storied Ballet Is Among the Casualties of War</a> NYT: Ballet has long been a symbol of Russian culture. Now it is becoming a symbol of Russian isolation. 
- <p class="updated_time"> 08:32 AM CT, Apr. 15 </p> 
+ <p class="updated_time"> 08:47 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
  <p class="updated_time"> 08:25 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/russia-disinformation-transnistria.html">How Russian Disinformation Spreads Beyond Its Borders</a> NYT: A New York Times’ video team traveled to the breakaway region of Transnistria to find out what residents there believe about the war in Ukraine. 
  <p class="updated_time"> 08:10 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61117056?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia threatens to step up attacks on Kyiv</a> BBC: Moscow says it hit the Ukrainian capital overnight and will launch more strikes in response to attacks in Russia. 
- <p class="updated_time"> 07:32 AM CT, Apr. 15 </p> 
+ <p class="updated_time"> 07:47 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 07:29 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/science/interstellar-meteor-debate.html">Military Memo Adds to Possible Interstellar Meteor Mystery</a> NYT: The U.S. Space Command seemed to confirm a claim that a meteor from outside the solar system had entered Earth’s atmosphere, but other scientists and NASA are still not convinced. 
@@ -69,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/world/australia/quiz-time-on-the-campaign-trail.html">Quiz Time on the Campaign Trail</a> NYT: Several “gotcha” questions for candidates, including one that Anthony Albanese got wrong, raise deeper questions about the quality of the nation’s political discourse. 
  <p class="updated_time"> 06:01 AM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61117528?at_medium=RSS&at_campaign=KARANGA">China Covid: Clashes in Shanghai over lockdown evictions</a> BBC: Residents have been forced from their homes as apartments are turned into quarantine centres. 
- <p class="updated_time"> 05:32 AM CT, Apr. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61114843?at_medium=RSS&at_campaign=KARANGA">Russian warship: Moskva sinks in Black Sea</a> BBC: The warship sank while being towed a day after Ukraine claimed to have hit it with a missile. 
  <p class="updated_time"> 05:16 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093014911/russia-loses-warship-says-will-increase-attacks-on-kyiv">Russia loses warship, says will increase attacks on Kyiv</a> NPR: A day after Moscow suffered a stinging symbolic defeat with the loss of the flagship of its Black Sea fleet, Russia's Defense Ministry has promised to ramp up missile attacks on the Ukrainian capital. 
  <p class="updated_time"> 04:42 AM CT, Apr. 15 </p> 
