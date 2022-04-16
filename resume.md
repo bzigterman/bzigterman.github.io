@@ -96,6 +96,7 @@ The University of Chicago
 
 ## Awards
 
+- 2022 American Society of Business Publication Editors [Azbee Regional Silver](https://azbeeawards.secure-platform.com/a/gallery/rounds/46/details/21089) award for infographics 
 - 2020 Illinois Press Association second-place Freedom of Information award
 - 2018 Illinois Press Association honorable mention for localized national story
 - 2018 Illinois Press Association second-place prize for agricultural story
