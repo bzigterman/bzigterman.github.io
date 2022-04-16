@@ -9,20 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:12 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 10:31 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-occupation.html">Ukrainians Detail the Terror Russian Soldiers Have Inflicted Near Kyiv</a> NYT: An ordeal at a mental health facility in Ukraine illuminated the horrors of the Russian occupation in the areas around Kyiv. 
+ <p class="updated_time"> 10:30 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/15/world/ukraine-russia-war-news">Live Updates: Putin Draws Line on U.S. Arms for Ukraine</a> NYT: U.S. officials say that Ukrainian missiles sank Russia’s Black Sea flagship, and they fear that a brewing Russian offensive in the East could signal a more bloody phase of the war. 
+ <p class="updated_time"> 10:30 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
+ <p class="updated_time"> 10:01 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque">Jerusalem Calms After Israeli-Palestinian Clashes at Holy Site</a> NYT: Violence broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, in the morning on the first day of a rare convergence of Ramadan, Easter and Passover. 
+ <p class="updated_time"> 09:30 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 09:12 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque/al-aqsa-mosque-clashes">Clashes Erupt at Jerusalem Holy Site on Day With Overlapping Holidays</a> NYT: Calm returned after more than 150 people were injured and hundreds were arrested by the Israeli police on Friday, when Ramadan, Easter and Passover coincided for the first time in thirty years. 
- <p class="updated_time"> 09:04 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/04/15/world/ukraine-russia-war-news">Live Updates: Putin Draws Line on U.S. Arms for Ukraine</a> NYT: U.S. officials say that Ukrainian missiles sank Russia’s Black Sea flagship, and they fear that a brewing Russian offensive in the East could signal a more bloody phase of the war. 
- <p class="updated_time"> 08:47 PM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
  <p class="updated_time"> 08:43 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/technology/russia-media-fox-news.html">How Russian Media Uses Fox News to Make Its Case</a> NYT: The conservative network has appeared hundreds of times in Russian media. 
+ <p class="updated_time"> 08:30 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 07:51 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/us/politics/russia-moskva-ship-sunk-ukraine.html">Moskva, Russia’s Prized Ship, Was Hit by Missiles, U.S. Officials Say</a> NYT: The sinking of the Moskva was a major blow to the Russian fleet and the most significant combat loss for any navy in decades. 
- <p class="updated_time"> 07:47 PM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
+ <p class="updated_time"> 07:30 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
  <p class="updated_time"> 07:18 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61110406?at_medium=RSS&at_campaign=KARANGA">Climate change: Key UN finding widely misinterpreted</a> BBC: The latest IPCC guidance on when carbon emissions should peak has been misunderstood say scientists. 
  <p class="updated_time"> 07:16 PM CT, Apr. 15 </p> 
@@ -33,8 +39,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/video/world/100000008272335/russia-disinformation-moldova.html">Journey to Transnistria: Inside Russia’s Disinformation Bubble</a> NYT: We traveled inside Transnistria, a Moscow-backed breakaway state in Moldova, to find out how Russia’s disinformation campaign stretches beyond its borders. 
  <p class="updated_time"> 06:48 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-61098288?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 9-15 April 2022</a> BBC: A selection of striking images from all over the globe, taken in the past seven days. 
- <p class="updated_time"> 06:47 PM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
+ <p class="updated_time"> 06:30 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 06:26 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-us-weapons-warning.html">Girding for New Battle, Russia Warns U.S. on Advanced Weapons for Ukraine</a> NYT: The warnings were regarded as a sign that American military assistance to Ukraine was compounding problems for the Russians in their two-month-old invasion. 
  <p class="updated_time"> 06:13 PM CT, Apr. 15 </p> 
@@ -45,18 +51,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61110910?at_medium=RSS&at_campaign=KARANGA">Chernihiv is silent, after having been under constant attack from Russian forces</a> BBC: The Ukrainian city of Chernihiv was under constant attack until suddenly Russian forces withdrew. 
  <p class="updated_time"> 06:00 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61117738?at_medium=RSS&at_campaign=KARANGA">Covid China: Elderly deaths contradict Shanghai figures</a> BBC: Official figures claim there have been no Covid deaths in the current outbreak. 
- <p class="updated_time"> 05:47 PM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
- <p class="updated_time"> 05:37 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-occupation.html">Ukrainians Detail the Terror Russian Soldiers Have Inflicted Near Kyiv</a> NYT: An ordeal at a mental health facility in Ukraine illuminated the horrors of the Russian occupation in the areas around Kyiv. 
  <p class="updated_time"> 05:13 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/shanghai-covid-isolation-quarantine.html">Shanghai’s Isolation Facilities Have Prompted a Backlash</a> NYT: Hundreds of thousands of Shanghai residents have been sent to quarantine and isolation facilities. One woman described her ordeal. 
  <p class="updated_time"> 05:10 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093130206/bilquis-edhi-pakistan-karachi-obituary">Pakistani humanitarian Bilquis Edhi has died</a> NPR: She was the widow of Abdul Sattar Edhi, founder of Pakistan's best-known social services network. A nurse, she worked alongside her husband and focused especially on the welfare of children and women. 
  <p class="updated_time"> 04:56 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/climate/biden-drilling-oil-leases.html">Biden Plans to Open More Public Land to Drilling</a> NYT: The president is under pressure to bring down gas prices, but any new drilling would be years away. The fees that companies pay would rise sharply. 
- <p class="updated_time"> 04:47 PM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 04:47 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093119884/as-ukraine-investigates-russian-war-crimes-the-u-s-and-eu-allies-offer-assistanc">As Ukraine investigates Russian war crimes, the U.S. and EU allies offer assistance</a> NPR: The help includes a group of experts that's been looking at possible war crimes since Russia took over Crimea and Donbas in 2014. 
  <p class="updated_time"> 04:41 PM CT, Apr. 15 </p> 
@@ -208,14 +208,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:12 PM CT, Apr. 15 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/us/politics/republicans-accusations-women.html">As G.O.P. Candidates Face Accusations, Rivals Tread Carefully</a> NYT: In several states, Republican candidates are contending with allegations of domestic violence and sexual assault. Few of their primary rivals want to talk about it. 
  <p class="updated_time"> 09:12 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/14/us/politics/putin-nuclear-weapons.html">C.I.A. Director Says Putin Might Consider Nuclear Weapons </a> NYT: William J. Burns, the director of the Central Intelligence Agency, cautioned that he had seen no “practical evidence” that would suggest such a move was imminent. 
  <p class="updated_time"> 07:51 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/us/politics/russia-moskva-ship-sunk-ukraine.html">Moskva, Russia’s Prized Ship, Was Hit by Missiles, U.S. Officials Say</a> NYT: The sinking of the Moskva was a major blow to the Russian fleet and the most significant combat loss for any navy in decades. 
  <p class="updated_time"> 07:22 PM CT, Apr. 15 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 06:49 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/us/politics/republicans-accusations-women.html">As G.O.P. Candidates Face Accusations, Rivals Tread Carefully</a> NYT: In several states, Republican candidates are contending with allegations of domestic violence and sexual assault. Few of their primary rivals want to talk about it. 
  <p class="updated_time"> 06:15 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/us/politics/ohio-jd-vance-trump-endorsement.html">Trump Endorses J.D. Vance in Republican Primary for Senate in Ohio</a> NYT: The move amounts to a major bet on Mr. Vance’s ability to prevail over a crowded field, and on the former president’s power to alter the course of key congressional races. 
  <p class="updated_time"> 06:00 PM CT, Apr. 15 </p> 
