@@ -9,21 +9,23 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:35 PM CT, Apr. 16 </p> 
+ <a href="https://www.nytimes.com/2022/04/16/business/russia-debt-default.html">What Will Happen if Russia Defaults on Its Debt?</a> NYT: The ultimate arbiter of a sovereign default is an open question but markets may have the final word. 
+ <p class="updated_time"> 12:30 PM CT, Apr. 16 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008293410/zaporizhzhia-ukraine-war.html">As Russia Pivots East, Ukrainians Ask: Are We Next?</a> NYT: Our cameras captured life on the front lines in southeast Ukraine, where Russian shelling is relentless and it feels like the war is inching closer every day. 
+ <p class="updated_time"> 12:29 PM CT, Apr. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/16/world/ukraine-russia-war-news">Live Updates: Russia Targets Military Facilities Across Ukraine and Steps Up Attacks in East</a> NYT: For the second time in recent days, Russia struck a military target in Kyiv, part of a campaign to degrade the Ukrainian military before an expected offensive to seize territory in the east. Russia stepped up its shelling before a battle that analysts say could be long and bloody. 
  <p class="updated_time"> 11:55 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/ukraine-war-eastern-europe-insomnia.html">War in Ukraine Has Left Eastern Europe Sleepless</a> NYT: Mental health professionals across the region say they have seen an increase in patients with intense anxiety. Some are asking for more sleeping pills, and many are making escape plans. 
  <p class="updated_time"> 11:51 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/asia/india-kashmir-journalists-arrested.html">Kashmir Journalists Face Forbidding Pattern: Arrest, Bail, Rearrest</a> NYT: The practice, employed against at least three journalists in the restive region, is being used to limit free speech and chill news reporting, activists say. 
  <p class="updated_time"> 11:38 AM CT, Apr. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/04/16/world/ukraine-russia-war-news">Live Updates: Russia Targets Military Facilities Across Ukraine and Steps Up Attacks in East</a> NYT: For the second time in recent days, Russia struck a military target in Kyiv, part of a campaign to degrade the Ukrainian military before an expected offensive to seize territory in the east. Russia stepped up its shelling before a battle that analysts say could be long and bloody. 
- <p class="updated_time"> 11:19 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094">Russian Forces Expand Footprint in Eastern Ukraine</a> WSJ: Russian Forces Expand Footprint in Eastern Ukraine 
  <p class="updated_time"> 11:04 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/russia-missiles-ukraine-kyiv-lviv-neptune.html">Russia Fires Missile Barrage at Ukrainian Cities and Military Targets</a> NYT: The strikes seemed aimed at hampering Ukraine’s war fighting capacity as the conflict shifts to eastern Donbas region, and at responding to the sinking of a Russian warship. 
- <p class="updated_time"> 11:00 AM CT, Apr. 16 </p> 
- <a href="https://www.nytimes.com/2022/04/16/business/russia-debt-default.html">What Will Happen if Russia Defaults on Its Debt?</a> NYT: The ultimate arbiter of a sovereign default is an open question but markets may have the final word. 
  <p class="updated_time"> 10:55 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/asia/peng-ming-min-dead.html">Peng Ming-min, Fighter for Democracy in Taiwan, Dies at 98</a> NYT: He endured Japanese imperial rule, a lost limb in World War II, Chinese martial law and decades in exile to become a leading force for Taiwanese self-determination. 
- <p class="updated_time"> 10:19 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 10:38 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/ukraines-jews-celebrate-wartime-passover-in-defiance-of-russian-invasion-11650116455">Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion</a> WSJ: Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion 
  <p class="updated_time"> 10:18 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/nazi-soldier-watch-netherlands.html">A Nazi Soldier Stole a Watch in 1942. It Turned Up 80 Years Later.</a> NYT: The watch, made as a gift in 1910, has been returned to the maker’s family in the Netherlands. It still works. 
@@ -31,7 +33,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/16/world/europe/east-ukraine-russia-putin-war.html">Putin’s Ukraine Gamble Pivots to a Very Different Battlefield</a> NYT: After Russian forces were mauled in cities and towns in northern Ukraine, Vladimir V. Putin is shifting the focus of his invasion to the flatlands of Donbas, in the east. 
  <p class="updated_time"> 09:48 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/barentsburg-norway-ukraine-war-russia.html">Tensions Over the Ukraine War Deepen the Chill Near the North Pole</a> NYT: The war and the comments of a Russian diplomat have strained relations on an archipelago in Norway where Russians, Ukrainians and Norwegians have lived peacefully for decades. 
- <p class="updated_time"> 09:19 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 09:38 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 09:10 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61123590?at_medium=RSS&at_campaign=KARANGA">Patrick Lyoya: Could rethink of US police traffic stops save lives?</a> BBC: The death of a black man in Michigan after a traffic stop raises questions about police use of force. 
@@ -41,15 +43,15 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61128662?at_medium=RSS&at_campaign=KARANGA">South Africa flooding: 'I had thought my house was safe'</a> BBC: Torrential floods have killed nearly 400 people in South Africa, with more rain forecast. 
  <p class="updated_time"> 08:54 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61126391?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia bans Boris Johnson from country over Ukraine war</a> BBC: Boris Johnson and other senior ministers are barred for "whipping up anti-Russian hysteria". 
+ <p class="updated_time"> 08:38 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/shanghais-lockdown-knocks-out-e-commerce-leaving-group-buying-and-bartering-11650101402">Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering</a> WSJ: Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering 
  <p class="updated_time"> 08:26 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093189754/pakistans-former-prime-minister-imran-khan-is-fighting-his-ouster">Pakistan's former Prime Minister Imran Khan is fighting his ouster</a> NPR: Pakistan's Imran Kahn has been ousted from leadership, but the former prime minister is not going quietly. 
- <p class="updated_time"> 08:19 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/shanghais-lockdown-knocks-out-e-commerce-leaving-group-buying-and-bartering-11650101402">Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering</a> WSJ: Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering 
  <p class="updated_time"> 08:13 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093189740/malicious-lies-are-spreading-in-philippines-about-the-female-presidential-candid">Malicious lies are spreading in Philippines about the female presidential candidate</a> NPR: The current election cycle in the Philippines is being flooded with misinformation. One recent example: malicious sexual content about the only female presidential candidate. 
  <p class="updated_time"> 07:47 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/russian-propaganda-telegram-ukraine.html">Telegram: Where Russians Turn for Uncensored Ukraine News</a> NYT: Telegram is the platform of choice for Russians seeking to escape Moscow’s propaganda web. But can it last? 
- <p class="updated_time"> 07:19 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 07:38 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 07:14 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093189698/the-pope-tries-using-good-friday-to-bring-together-ukrainians-and-russians">The Pope tries using Good Friday to bring together Ukrainians and Russians</a> NPR: This year, the Vatican proposed having Ukrainian and Russian families carry the cross together during the annual Good Friday ceremony in Rome. Then Ukrainians objected. 
@@ -67,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/16/1092811802/russia-putin-bush-texas-summit-crawford">With Bush in 2001, Putin sought to charm students at a rural Texas high school</a> NPR: Back in 2001, Vladimir Putin was seeking respect from world leaders while pledging a new openness in Russia. That's what brought him to tiny Crawford, Texas, at the invite of President George W. Bush. 
  <p class="updated_time"> 04:00 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/health/global-covid-deaths-who-india.html">India Is Stalling the W.H.O.’s Efforts to Make Global Covid Death Toll Public</a> NYT: The agency has calculated that 15 million people have died as a result of the pandemic, far more than earlier estimates, but has yet to release those numbers. 
- <p class="updated_time"> 04:00 AM CT, Apr. 16 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008293410/zaporizhzhia-ukraine-war.html">As Russia Pivots East, Ukrainians Ask: Are We Next?</a> NYT: Our cameras captured life on the front lines in southeast Ukraine, where Russian shelling is relentless and it feels like the war is inching closer every day. 
  <p class="updated_time"> 01:02 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-occupation.html">Ukrainians Detail the Terror Russian Soldiers Have Inflicted Near Kyiv</a> NYT: An ordeal at a mental health facility in Ukraine illuminated the horrors of the Russian occupation in the areas around Kyiv. 
  <p class="updated_time"> 12:29 AM CT, Apr. 16 </p> 
@@ -216,12 +216,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:27 PM CT, Apr. 16 </p> 
+ <a href="https://www.nytimes.com/2022/04/15/us/politics/biden-tax-returns.html">Biden’s Tax Forms Show He and the First Lady Earned $610,702 in 2021</a> NYT: The president and his wife, Dr. Jill Biden, also reported donations of $17,394 to 10 charities. 
+ <p class="updated_time"> 12:25 PM CT, Apr. 16 </p> 
+ <a href="https://www.nytimes.com/2022/04/16/us/politics/trump-michigan-republicans.html">Trump’s Focus on 2020 Election Splits Michigan Republicans</a> NYT: The former president is trying to reshape the battleground state in his image. But his false claims about the 2020 election are driving a wedge between loyalists and those who are eager to move on. 
  <p class="updated_time"> 11:35 AM CT, Apr. 16 </p> 
  <a href="https://www.politico.com/news/2022/04/16/gop-megadonors-congress-campaign-finance-disclosures-00025693">GOP megadonors go big in battle for Congress: 5 takeaways from new campaign money filings</a> Politico: Republican donors including private equity exec Stephen Schwarzman and hedge funder Ken Griffin poured millions more into major GOP super PACs in the first three months of 2022. 
  <p class="updated_time"> 11:14 AM CT, Apr. 16 </p> 
  <a href="https://www.politico.com/news/2022/04/16/biden-asian-leaders-summit-00025692">Biden to host rescheduled summit with Southeast Asian leaders</a> Politico: It was emphasized in the statement released by the White House that it is "a top priority" for the administration "to serve as a strong, reliable partner in Southeast Asia." 
- <p class="updated_time"> 10:00 AM CT, Apr. 16 </p> 
- <a href="https://www.nytimes.com/2022/04/16/us/politics/trump-michigan-republicans.html">Trump’s Focus on 2020 Election Splits Michigan Republicans</a> NYT: The former president is trying to reshape the battleground state in his image. But his false claims about the 2020 election are driving a wedge between loyalists and those who are eager to move on. 
  <p class="updated_time"> 08:44 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093195479/biden-federal-oil-leases-royalties">Biden increases oil royalty rate and scales back lease sales on federal lands</a> NPR: The U.S. government will sharply boost royalty rates for companies as federal officials weigh efforts to fight climate change against pressure to bring down high gasoline prices. 
  <p class="updated_time"> 07:15 AM CT, Apr. 16 </p> 
@@ -276,8 +278,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/15/1093132507/the-bidens-paid-24-6-taxes-on-610-702-earnings-their-tax-returns-show">The Bidens paid a 24.6% tax rate on $610,702 in earnings, their filings show</a> NPR: Vice President Kamala Harris and her husband Doug Emhoff earned $1,655,563 in 2021 and paid $523,371 — a federal income tax rate of 31.6% — their tax filings show. 
  <p class="updated_time"> 03:22 PM CT, Apr. 15 </p> 
  <a href="https://www.politico.com/news/2022/04/15/biden-tax-return-00025643">Biden releases tax return, reports paying 24.6 percent rate</a> Politico: The bulk of the Bidens' earnings came from the president's salary. 
- <p class="updated_time"> 03:00 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/us/politics/biden-tax-returns.html">Biden’s Tax Forms Show He and the First Lady Earned $610,702 in 2021</a> NYT: The president and his wife, Dr. Jill Biden, also reported donations of $17,394 to 10 charities. 
  <p class="updated_time"> 02:32 PM CT, Apr. 15 </p> 
  <a href="https://www.politico.com/news/2022/04/15/scott-pruitt-oklahoma-senate-epa-trump-00025628">Trump EPA chief Scott Pruitt files for Senate in Oklahoma</a> Politico: Pruitt is one of a number of former Trump administration officials running for Congress this year. 
  <p class="updated_time"> 02:26 PM CT, Apr. 15 </p> 
