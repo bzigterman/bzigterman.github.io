@@ -13,32 +13,34 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/04/15/world/ukraine-russia-war-news">What Happened on Day 51 of the War in Ukraine</a> NYT: Russia demanded that the U.S. halt shipment of advanced weapons to Ukraine. American officials said Russia’s Black Sea flagship had been sunk by Ukrainian missiles. 
  <p class="updated_time"> 12:00 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61117532?at_medium=RSS&at_campaign=KARANGA">Ukraine war: No quick return to normal for scarred Bucha</a> BBC: Everything has changed in this town since the Russians came, and horrific memories will not easily be erased. 
- <p class="updated_time"> 11:11 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 11:41 PM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
+ <p class="updated_time"> 10:41 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 10:31 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-occupation.html">Ukrainians Detail the Terror Russian Soldiers Have Inflicted Near Kyiv</a> NYT: An ordeal at a mental health facility in Ukraine illuminated the horrors of the Russian occupation in the areas around Kyiv. 
- <p class="updated_time"> 10:11 PM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 10:01 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque">Jerusalem Calms After Israeli-Palestinian Clashes at Holy Site</a> NYT: Violence broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, in the morning on the first day of a rare convergence of Ramadan, Easter and Passover. 
+ <p class="updated_time"> 09:41 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 09:12 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque/al-aqsa-mosque-clashes">Clashes Erupt at Jerusalem Holy Site on Day With Overlapping Holidays</a> NYT: Calm returned after more than 150 people were injured and hundreds were arrested by the Israeli police on Friday, when Ramadan, Easter and Passover coincided for the first time in thirty years. 
- <p class="updated_time"> 09:11 PM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 08:43 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/technology/russia-media-fox-news.html">How Russian Media Uses Fox News to Make Its Case</a> NYT: The conservative network has appeared hundreds of times in Russian media. 
- <p class="updated_time"> 08:11 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 08:41 PM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
  <p class="updated_time"> 07:51 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/us/politics/russia-moskva-ship-sunk-ukraine.html">Moskva, Russia’s Prized Ship, Was Hit by Missiles, U.S. Officials Say</a> NYT: The sinking of the Moskva was a major blow to the Russian fleet and the most significant combat loss for any navy in decades. 
+ <p class="updated_time"> 07:41 PM CT, Apr. 15 </p> 
+ <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 07:18 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61110406?at_medium=RSS&at_campaign=KARANGA">Climate change: Key UN finding widely misinterpreted</a> BBC: Suggestions emissions could rise for another three years without dangerous warming are wrong, scientists say. 
+ <p class="updated_time"> 07:16 PM CT, Apr. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61122320?at_medium=RSS&at_campaign=KARANGA">US zoo celebrates 50 years of giant pandas</a> BBC: The tradition of gifted pandas to the US from China hits a 50-year mark at Washington DC's National Zoo. 
  <p class="updated_time"> 07:16 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61092878?at_medium=RSS&at_campaign=KARANGA">DR Congo conflict: Hiding on top of a hill to escape the rebels</a> BBC: Some 50,000 people have found a place of sanctuary from the myriad armed groups in eastern DR Congo. 
  <p class="updated_time"> 07:11 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61080536?at_medium=RSS&at_campaign=KARANGA">Sanctioned Russian oligarchs linked to £800m worth of UK property</a> BBC: A dozen sanctioned Russians are linked to an estimated £800m worth of property in the UK, BBC analysis reveals. 
- <p class="updated_time"> 07:11 PM CT, Apr. 15 </p> 
- <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 07:10 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/video/world/100000008272335/russia-disinformation-moldova.html">Journey to Transnistria: Inside Russia’s Disinformation Bubble</a> NYT: We traveled inside Transnistria, a Moscow-backed breakaway state in Moldova, to find out how Russia’s disinformation campaign stretches beyond its borders. 
  <p class="updated_time"> 06:48 PM CT, Apr. 15 </p> 
@@ -153,8 +155,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/14/world/europe/european-union-oil-embargo-russia-ukraine.html">Europe Reluctantly Readies Russian Oil Embargo</a> NYT: Officials are drafting a phased import ban on Russian oil products, but the measure won’t be floated until after the second round of the French elections at the earliest. 
  <p class="updated_time"> 06:11 PM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/61107685?at_medium=RSS&at_campaign=KARANGA">Durban floods: Is it a consequence of climate change?</a> BBC: KwaZulu-Natal province has seen some serious flooding, but there isn't one clear explanation. 
- <p class="updated_time"> 06:01 PM CT, Apr. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61112864?at_medium=RSS&at_campaign=KARANGA">Brazil: Wild animals take to the streets in Rio de Janeiro</a> BBC: Videos of caimans and other wild animals in streets and houses are frequently surfacing in the city. 
  <p class="updated_time"> 06:00 PM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61106245?at_medium=RSS&at_campaign=KARANGA">Ukraine's battle for control of its skies</a> BBC: A Ukrainian air defence officer tells the BBC: "Whoever dominates the air wins the war." 
  <p class="updated_time"> 05:37 PM CT, Apr. 14 </p> 
