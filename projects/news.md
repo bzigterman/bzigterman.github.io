@@ -9,24 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:39 AM CT, Apr. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/04/16/world/ukraine-russia-war-news">Live Updates: Russia Targets Military Facilities Across Ukraine and Steps Up Attacks in East</a> NYT: For the second time in recent days, Russia struck a military target in Kyiv, part of a campaign to degrade the Ukrainian military before an expected offensive to seize territory in the east. Russia stepped up its shelling in the region before a battle that analysts say could be long and bloody. 
- <p class="updated_time"> 08:30 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 08:50 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/asia/india-kashmir-journalists-arrested.html">Kashmir Journalists Face Forbidding Pattern: Arrest, Bail, Rearrest</a> NYT: The practice, employed against at least three journalists in the restive region, is being used to limit free speech and chill news reporting, activists say. 
+ <p class="updated_time"> 08:48 AM CT, Apr. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/16/world/ukraine-russia-war-news">Live Updates: Russia Targets Military Facilities Across Ukraine and Steps Up Attacks in East</a> NYT: For the second time in recent days, Russia struck a military target in Kyiv, part of a campaign to degrade the Ukrainian military before an expected offensive to seize territory in the east. Russia stepped up its shelling in the region before a battle that analysts say could be long and bloody. 
  <p class="updated_time"> 08:26 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093189754/pakistans-former-prime-minister-imran-khan-is-fighting-his-ouster">Pakistan's former Prime Minister Imran Khan is fighting his ouster</a> NPR: Pakistan's Imran Kahn has been ousted from leadership, but the former prime minister is not going quietly. 
  <p class="updated_time"> 08:13 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093189740/malicious-lies-are-spreading-in-philippines-about-the-female-presidential-candid">Malicious lies are spreading in Philippines about the female presidential candidate</a> NPR: The current election cycle in the Philippines is being flooded with misinformation. One recent example: malicious sexual content about the only female presidential candidate. 
  <p class="updated_time"> 08:00 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/nazi-soldier-watch-netherlands.html">A Nazi Soldier Stole a Watch in 1942. It turned Up 80 Years Later.</a> NYT: The watch, made as a gift in 1910, has been returned to the maker’s family in the Netherlands. It still works. 
+ <p class="updated_time"> 07:57 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094">Russian Forces Expand Footprint in Eastern Ukraine</a> WSJ: Russian Forces Expand Footprint in Eastern Ukraine 
  <p class="updated_time"> 07:56 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61126391?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia bans Boris Johnson from country over Ukraine war</a> BBC: Boris Johnson and other senior ministers are barred for "whipping up anti-Russian hysteria". 
  <p class="updated_time"> 07:49 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/ukraine-war-eastern-europe-insomnia.html">War in Ukraine Has Left Eastern Europe Sleepless</a> NYT: Mental health professionals across the region say they have seen an increase in patients with intense anxiety. Some are asking for more sleeping pills, and many are making escape plans. 
  <p class="updated_time"> 07:47 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/russian-propaganda-telegram-ukraine.html">Telegram: Where Russians Turn for Uncensored Ukraine News</a> NYT: Telegram is the platform of choice for Russians seeking to escape Moscow’s propaganda web. But can it last? 
- <p class="updated_time"> 07:45 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094">Russian Forces Expand Footprint in Eastern Ukraine</a> WSJ: Russian Forces Expand Footprint in Eastern Ukraine 
  <p class="updated_time"> 07:28 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/east-ukraine-russia-putin-war.html">Putin’s Ukraine Gamble Pivots to a Very Different Battlefield</a> NYT: After Russian forces were mauled in cities and towns in northern Ukraine, Vladimir V. Putin is shifting the focus of his invasion to the flatlands of Donbas, in the east. 
  <p class="updated_time"> 07:14 AM CT, Apr. 16 </p> 
@@ -35,15 +35,15 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/16/1093189670/kyiv-is-hit-by-missiles-a-day-after-sinking-a-russian-war-ship">Kyiv is hit by missiles — a day after sinking a Russian war ship</a> NPR: Missiles hit the environs of Kyiv, as Russia prepares for a renewed assault on eastern and southeastern Ukraine. 
  <p class="updated_time"> 07:02 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093189669/china-astronauts-space-station-return">3 Chinese astronauts return to Earth after 6 months in space</a> NPR: The astronauts landed in the Gobi desert after six months aboard their country's newest orbital station. During the mission, astronaut Wang Yaping carried out the first spacewalk by a Chinese woman. 
- <p class="updated_time"> 06:45 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 06:57 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/shanghais-lockdown-knocks-out-e-commerce-leaving-group-buying-and-bartering-11650101402">Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering</a> WSJ: Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering 
  <p class="updated_time"> 06:00 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/16/1092649377/sony-photo-winners-computers-on-horseback-magnificent-mountains-bathing-elephant">Sony photo winners: Computers on horseback, magnificent mountains, bathing elephants</a> NPR: The 2022 Sony World Photography Award-winners include a photo of a man in Argentina transporting computers on horseback and twin sisters at a Buddhist monastery in Myanmar. 
- <p class="updated_time"> 05:45 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 05:57 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 05:00 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/canada/quebec-caribou-conservation.html">In Quebec, the Clash Over Caribou Heats Up</a> NYT: Canada is threatening to use, for the first time, a provision in endangered species legislation to intervene and force caribou habitat protection in Quebec. 
- <p class="updated_time"> 04:45 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 04:57 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 04:11 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/61107685?at_medium=RSS&at_campaign=KARANGA">Durban floods: Is it a consequence of climate change?</a> BBC: KwaZulu-Natal province has seen some serious flooding, but there isn't one clear explanation. 
@@ -53,9 +53,9 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/16/health/global-covid-deaths-who-india.html">India Is Stalling the W.H.O.’s Efforts to Make Global Covid Death Toll Public</a> NYT: The agency has calculated that 15 million people have died as a result of the pandemic, far more than earlier estimates, but has yet to release those numbers. 
  <p class="updated_time"> 04:00 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008293410/zaporizhzhia-ukraine-war.html">As Russia Pivots East, Ukrainians Ask: Are We Next?</a> NYT: Our cameras captured life on the front lines in southeast Ukraine, where Russian shelling is relentless and it feels like the war is inching closer every day. 
- <p class="updated_time"> 03:45 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 03:57 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
- <p class="updated_time"> 01:01 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 01:02 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-occupation.html">Ukrainians Detail the Terror Russian Soldiers Have Inflicted Near Kyiv</a> NYT: An ordeal at a mental health facility in Ukraine illuminated the horrors of the Russian occupation in the areas around Kyiv. 
  <p class="updated_time"> 12:29 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61089853?at_medium=RSS&at_campaign=KARANGA">Tropical Storm Megi: Landslides and floods kill 167 in Philippines</a> BBC: Tropical Storm Megi devastated the country on Sunday, with houses washed out to sea in one village. 
@@ -212,6 +212,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:44 AM CT, Apr. 16 </p> 
+ <a href="https://www.npr.org/2022/04/16/1093195479/biden-federal-oil-leases-royalties">Biden increases oil royalty rate and scales back lease sales on federal lands</a> NPR: The U.S. government will sharply boost royalty rates for companies as federal officials weigh efforts to fight climate change against pressure to bring down high gasoline prices. 
  <p class="updated_time"> 07:15 AM CT, Apr. 16 </p> 
  <a href="https://www.politico.com/news/2022/04/16/don-odowd-elon-musk-00025688">He wants to destroy Elon Musk. He could end up endangering the Dems’ Senate plans.</a> Politico: Dan O’Dowd is running for office squarely as a means of bludgeoning the Tesla CEO. Could he screw up things for the incumbent? 
  <p class="updated_time"> 07:03 AM CT, Apr. 16 </p> 
@@ -316,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/14/us/politics/biden-judicial-nominees.html">Democrats Aim to Fill as Many Court Vacancies as Possible by End of 2022</a> NYT: Democrats aim to fill as many court vacancies as possible by the end of 2022, when Senate Republicans are in reach of winning control and slamming the brakes on President Biden’s picks. 
  <p class="updated_time"> 12:32 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092816157/the-midterm-elections-will-show-if-trump-is-still-a-kingmaker">The midterm elections will show if Trump is still a 'kingmaker'</a> NPR: NYT's Shane Goldmacher says Trump doles out endorsements to Republican candidates to elevate allies, punish enemies and make the 'Big Lie', that the 2020 election was stolen, into a party litmus test. 
- <p class="updated_time"> 11:09 AM CT, Apr. 14 </p> 
- <a href="https://www.npr.org/2022/04/14/1092804056/student-loan-debt-investigation-response">Senators call for probe into student loan program after NPR unearthed major problems</a> NPR: Lawmakers are calling for an investigation two weeks after an NPR report found a student loan program designed to help low-income borrowers wasn't living up to its promise. 
  <p class="updated_time"> 10:49 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/business/economy/biden-supply-chain.html">Supply Chain Hurdles Will Outlast Covid Pandemic, White House Says</a> NYT: The administration’s economic advisers see climate change and other factors complicating global trade patterns for years to come. 
  <p class="updated_time"> 04:00 AM CT, Apr. 14 </p> 
