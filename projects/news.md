@@ -9,18 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:28 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 06:00 AM CT, Apr. 16 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/04/16/1092649377/sony-photo-winners-computers-on-horseback-magnificent-mountains-bathing-elephant">Sony photo winners: Computers on horseback, magnificent mountains, bathing elephants</a> NPR: The 2022 Sony World Photography Award-winners include a photo of a man in Argentina transporting computers on horseback and twin sisters at a Buddhist monastery in Myanmar. 
+ <p class="updated_time"> 05:52 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/04/16/world/ukraine-russia-war-news">Ukraine Live Updates: Explosions Rock Kyiv Even as Russia Prepares for Eastern Offensive</a> NYT: Russia took aim at military targets around the country, and the Ukrainians claimed to have shot down missiles directed at Odesa to the south and Lviv to the west. Before an expected Russian offensive, the assaults underscored that Russia can still attack targets across Ukraine. 
+ <p class="updated_time"> 05:18 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
  <p class="updated_time"> 05:13 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61126391?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia bans Boris Johnson from country over Ukraine war</a> BBC: Boris Johnson and other senior ministers are barred over the UK's "hostile" stance on the war in Ukraine. 
  <p class="updated_time"> 05:00 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/canada/quebec-caribou-conservation.html">In Quebec, the Clash Over Caribou Heats Up</a> NYT: Canada is threatening to use, for the first time, a provision in endangered species legislation to intervene and force caribou habitat protection in Quebec. 
  <p class="updated_time"> 04:57 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/east-ukraine-russia-putin-war.html">Putin’s Ukraine Gamble Pivots to a Very Different Battlefield</a> NYT: After Russian forces were mauled in cities and towns in northern Ukraine, Vladimir V. Putin is shifting the focus of his invasion to the flatlands of Donbas, in the east. 
- <p class="updated_time"> 04:44 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
  <p class="updated_time"> 04:25 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque">Jerusalem Calms After Israeli-Palestinian Clashes at Holy Site</a> NYT: Violence broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, in the morning on the first day of a rare convergence of Ramadan, Easter and Passover. 
+ <p class="updated_time"> 04:18 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 04:11 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/61107685?at_medium=RSS&at_campaign=KARANGA">Durban floods: Is it a consequence of climate change?</a> BBC: KwaZulu-Natal province has seen some serious flooding, but there isn't one clear explanation. 
  <p class="updated_time"> 04:00 AM CT, Apr. 16 </p> 
@@ -29,16 +33,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/16/health/global-covid-deaths-who-india.html">India Is Stalling the W.H.O.’s Efforts to Make Global Covid Death Toll Public</a> NYT: The agency has calculated that 15 million people have died as a result of the pandemic, far more than earlier estimates, but has yet to release those numbers. 
  <p class="updated_time"> 04:00 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008293410/zaporizhzhia-ukraine-war.html">As Russia Pivots East, Ukrainians Ask: Are We Next?</a> NYT: Our cameras captured life on the front lines in southeast Ukraine, where Russian shelling is relentless and it feels like the war is inching closer every day. 
- <p class="updated_time"> 03:44 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
- <p class="updated_time"> 02:44 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 03:18 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
- <p class="updated_time"> 01:44 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 02:18 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
+ <p class="updated_time"> 02:04 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094">Russian Forces Expand Footprint in Eastern Ukraine</a> WSJ: Russian forces are attempting to establish full control over the besieged city of Mariupol, Ukraine’s armed forces said, ahead of what is expected to be an intense wave of fighting in the country’s east. 
+ <p class="updated_time"> 01:18 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 01:01 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-occupation.html">Ukrainians Detail the Terror Russian Soldiers Have Inflicted Near Kyiv</a> NYT: An ordeal at a mental health facility in Ukraine illuminated the horrors of the Russian occupation in the areas around Kyiv. 
- <p class="updated_time"> 12:44 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 12:29 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61089853?at_medium=RSS&at_campaign=KARANGA">Tropical Storm Megi: Landslides and floods kill 167 in Philippines</a> BBC: Tropical Storm Megi devastated the country on Sunday, with houses washed out to sea in one village. 
  <p class="updated_time"> 12:00 AM CT, Apr. 16 </p> 
@@ -145,8 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61117828?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Save energy and annoy Putin, Germans told</a> BBC: The vice-chancellor says they should use bikes and lower the thermostat to use less Russian gas. 
  <p class="updated_time"> 06:22 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/australia/quiz-time-on-the-campaign-trail.html">Quiz Time on the Campaign Trail</a> NYT: Several “gotcha” questions for candidates, including one that Anthony Albanese got wrong, raise deeper questions about the quality of the nation’s political discourse. 
- <p class="updated_time"> 05:16 AM CT, Apr. 15 </p> 
- <a href="https://www.npr.org/2022/04/15/1093014911/russia-loses-warship-says-will-increase-attacks-on-kyiv">Russia loses warship, says will increase attacks on Kyiv</a> NPR: A day after Moscow suffered a stinging symbolic defeat with the loss of the flagship of its Black Sea fleet, Russia's Defense Ministry has promised to ramp up missile attacks on the Ukrainian capital. 
  <p class="updated_time"> 04:23 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/u-s-lawmakers-make-surprise-taiwan-visit-to-signal-support-against-china-11650029018">U.S. Lawmakers Visit Taiwan to Signal Support Against China</a> WSJ: Trip draws angry response from Beijing, as Washington warns it against any attempt to change the island democracy’s status quo. 
  <p class="updated_time"> 02:09 AM CT, Apr. 15 </p> 
@@ -205,8 +207,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/13/us/politics/el-shafee-elsheikh-terrorism-beatles.html">Terrorism Trial Ends With Account of Aid Worker’s Enslavement</a> NYT: El Shafee Elsheikh was accused of being one of four British members of the Islamic State responsible for the torture and killing of Kayla Mueller and three others. 
  <p class="updated_time"> 05:24 PM CT, Apr. 13 </p> 
  <a href="https://www.nytimes.com/2022/04/13/us/politics/biden-weapons-ukraine.html">Biden Announces $800 Million in Military Assistance for Ukraine</a> NYT: The United States will also step up intelligence sharing as Russia appears to be preparing an offensive in eastern Ukraine. 
- <p class="updated_time"> 04:53 PM CT, Apr. 13 </p> 
- <a href="https://www.nytimes.com/2022/04/13/world/europe/viktor-medvedchuk-russia-ukraine.html">Captured Ukrainian Oligarch Was Figure in Russian Election Meddling Investigation</a> NYT: Viktor Medvedchuk, a Ukrainian politician close to President Vladimir V. Putin of Russia, was also a client of Paul Manafort, the Republican political consultant and Trump campaign chairman. 
 
 
 </details>
@@ -214,6 +214,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:01 AM CT, Apr. 16 </p> 
+ <a href="https://www.politico.com/news/2022/04/16/eric-adams-100-days-top-10-00024620">#Fishgate to A$AP Rocky: Top 10 standout moments from Eric Adams' first 100 days</a> Politico: From the tragic to the triumphant, New York's mayor has stolen the headlines in his first few months in office. 
+ <p class="updated_time"> 06:01 AM CT, Apr. 16 </p> 
+ <a href="https://www.politico.com/news/2022/04/16/sense-of-urgency-for-hhs-climate-change-office-00025654">'Sense of urgency' for HHS climate change office</a> Politico: Lack of dedicated funding and staffing threaten its health-equity goal. 
+ <p class="updated_time"> 06:00 AM CT, Apr. 16 </p> 
+ <a href="https://www.politico.com/news/2022/04/16/rights-of-nature-law-clinic-faces-transphobia-allegations-00024934">‘Rights of nature’ law clinic faces transphobia allegations</a> Politico: Three people who've quit the nonprofit Community Environmental Legal Defense Fund say the group resisted efforts to make it more inclusive for LGBTQ people. 
  <p class="updated_time"> 04:00 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1092811802/russia-putin-bush-texas-summit-crawford">With Bush in 2001, Putin sought to charm students at a rural Texas high school</a> NPR: Back in 2001, Vladimir Putin was seeking respect from world leaders while pledging a new openness in Russia. That's what brought him to tiny Crawford, Texas, at the invite of President George W. Bush. 
  <p class="updated_time"> 10:12 PM CT, Apr. 15 </p> 
@@ -277,11 +283,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:16 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093005977/ex-trump-whitehouse-press-secretary-is-now-working-against-the-former-president">Ex-Trump White House press secretary is now working against the former president</a> NPR: Stephanie Grisham has moved to a remote, Trump-loving Kansas town, where she's crafting an argument against the former president that respects her neighbor's devotion to him. 
  <p class="updated_time"> 03:30 AM CT, Apr. 15 </p> 
- <a href="https://www.politico.com/news/2022/04/15/gop-dealmakers-house-kevin-mccarthy-00025261">McCarthy losing House GOP dealmakers as he eyes speakership</a> Politico: The undisputed frontrunner for speaker next year is set to lose a half-dozen Republicans from his conference who prefer negotiating to obstinacy. That could be a problem. 
- <p class="updated_time"> 03:30 AM CT, Apr. 15 </p> 
  <a href="https://www.politico.com/news/2022/04/15/usaid-coronavirus-global-vaccination-funding-00025433">U.S. global vaccination program employees look to leave over lack of funding</a> Politico: The agency’s upheaval marks another challenge in the already-difficult work of boosting vaccinations around the world. 
  <p class="updated_time"> 03:30 AM CT, Apr. 15 </p> 
  <a href="https://www.politico.com/gallery/2022/04/15/the-nations-cartoonists-on-the-week-in-politics-00025427">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 15 </p> 
+ <a href="https://www.politico.com/news/2022/04/15/gop-dealmakers-house-kevin-mccarthy-00025261">Seeking: GOP dealmakers who won't 'burn the House down'. Apply to: Kevin McCarthy.</a> Politico: The undisputed frontrunner for speaker next year is set to lose a half-dozen Republicans from his conference who prefer negotiating to obstinacy. That could be a problem. 
  <p class="updated_time"> 08:52 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/us/politics/stephen-miller-january-6-committee.html">Jan. 6 Panel Presses Stephen Miller on Whether Trump Sought to Incite Crowd</a> NYT: In about eight hours of questioning, investigators pressed the former White House aide on former President Donald J. Trump’s use of “we” in his speech to supporters before the riot. 
  <p class="updated_time"> 07:32 PM CT, Apr. 14 </p> 
@@ -306,16 +312,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/14/1092904567/texas-welfare-workers-are-resigning-over-orders-to-investigate-trans-kids-famili">Texas welfare workers are resigning over orders to investigate trans kids' families</a> NPR: NPR's Ailsa Chang talks with Eleanor Klibanoff of The Texas Tribune about the child welfare workers who are leaving their jobs over state orders to investigate the families of trans kids. 
  <p class="updated_time"> 02:42 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/us/politics/biden-judicial-nominees.html">Democrats Aim to Fill as Many Court Vacancies as Possible by End of 2022</a> NYT: Democrats aim to fill as many court vacancies as possible by the end of 2022, when Senate Republicans are in reach of winning control and slamming the brakes on President Biden’s picks. 
- <p class="updated_time"> 02:25 PM CT, Apr. 14 </p> 
- <a href="https://www.politico.com/news/2022/04/14/mills-congress-tear-gas-black-lives-matter-protesters-00025269">GOP hopeful sold tear gas used on Black Lives Matter protesters</a> Politico: Cory Mills, a self-funding, first time candidate running for a House seat in Florida, paved an unusual path to riches. 
  <p class="updated_time"> 12:32 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092816157/the-midterm-elections-will-show-if-trump-is-still-a-kingmaker">The midterm elections will show if Trump is still a 'kingmaker'</a> NPR: NYT's Shane Goldmacher says Trump doles out endorsements to Republican candidates to elevate allies, punish enemies and make the 'Big Lie', that the 2020 election was stolen, into a party litmus test. 
  <p class="updated_time"> 11:09 AM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092804056/student-loan-debt-investigation-response">Senators call for probe into student loan program after NPR unearthed major problems</a> NPR: Lawmakers are calling for an investigation two weeks after an NPR report found a student loan program designed to help low-income borrowers wasn't living up to its promise. 
  <p class="updated_time"> 11:07 AM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1084485963/florida-abortion-law-15-weeks">Florida Gov. Ron DeSantis signs a bill banning abortions after 15 weeks</a> NPR: Florida is the latest state to pass legislation that further restricts access to abortion. The new law bans abortions after 15 weeks, but doesn't have exceptions for rape, incest or human trafficking. 
- <p class="updated_time"> 11:03 AM CT, Apr. 14 </p> 
- <a href="https://www.politico.com/news/2022/04/14/black-lives-matters-mayor-eric-adams-new-york-city-crime-00025177">'I thought Black lives mattered?' Mayor Eric Adams slams the activist movement over New York City crime</a> Politico: "He lacks efficiency and the ability to lead our city in a safer direction," said Hawk Newsome, the co-founder of Black Lives Matter of Greater New York. 
  <p class="updated_time"> 10:49 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/business/economy/biden-supply-chain.html">Supply Chain Hurdles Will Outlast Covid Pandemic, White House Says</a> NYT: The administration’s economic advisers see climate change and other factors complicating global trade patterns for years to come. 
  <p class="updated_time"> 04:00 AM CT, Apr. 14 </p> 
@@ -328,8 +330,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/13/biden-booming-economy-big-risks-00023234">What could go wrong with Biden's booming economy? Here are the big risks.</a> Politico: The Fed's campaign to raise interest rates — designed to reduce spending and curb inflation — will slow growth, which will have consequences for American workers. 
  <p class="updated_time"> 05:45 PM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/us-visit-zelenskyy-kyiv-00025050">U.S. weighs sending top-level official to meet Zelenskyy in Kyiv</a> Politico: The U.S. official, which will most likely be a Cabinet member, will follow European leaders who have already made the symbolic visit. 
- <p class="updated_time"> 04:23 PM CT, Apr. 13 </p> 
- <a href="https://www.politico.com/news/2022/04/13/suspected-subway-shooter-purchased-gun-legally-despite-long-criminal-record-00025078">Suspected subway shooter purchased gun legally, despite long criminal record</a> Politico: Mayor Eric Adams sought to assure New Yorkers the vital underground rail system was safe enough for commuting. 
  <p class="updated_time"> 02:18 PM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/biden-gas-supply-climate-change-00024776">Biden's shift from climate to oil rattles greens</a> Politico: The White House is preoccupied with taming inflation and keeping the pressure on Russia's Vladimir Putin to end his war in Ukraine. 
  <p class="updated_time"> 11:45 AM CT, Apr. 13 </p> 
