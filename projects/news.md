@@ -9,23 +9,23 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:43 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
  <p class="updated_time"> 02:28 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/ukraine-russia-war-news">What Happened on Day 51 of the War in Ukraine</a> NYT: Russia demanded that the U.S. halt shipment of advanced weapons to Ukraine. American officials said Russia’s Black Sea flagship had been sunk by Ukrainian missiles. 
- <p class="updated_time"> 02:24 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
- <p class="updated_time"> 01:24 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 01:43 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 01:01 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-occupation.html">Ukrainians Detail the Terror Russian Soldiers Have Inflicted Near Kyiv</a> NYT: An ordeal at a mental health facility in Ukraine illuminated the horrors of the Russian occupation in the areas around Kyiv. 
+ <p class="updated_time"> 12:43 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 12:29 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61089853?at_medium=RSS&at_campaign=KARANGA">Tropical Storm Megi: Landslides and floods kill 167 in Philippines</a> BBC: Tropical Storm Megi devastated the country on Sunday, with houses washed out to sea in one village. 
- <p class="updated_time"> 12:24 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 12:00 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61117532?at_medium=RSS&at_campaign=KARANGA">Ukraine war: No quick return to normal for scarred Bucha</a> BBC: Everything has changed in this town since the Russians came, and horrific memories will not easily be erased. 
- <p class="updated_time"> 11:24 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 11:43 PM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
- <p class="updated_time"> 10:24 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 10:43 PM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 10:01 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque">Jerusalem Calms After Israeli-Palestinian Clashes at Holy Site</a> NYT: Violence broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, in the morning on the first day of a rare convergence of Ramadan, Easter and Passover. 
@@ -231,7 +231,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:47 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093119884/as-ukraine-investigates-russian-war-crimes-the-u-s-and-eu-allies-offer-assistanc">As Ukraine investigates Russian war crimes, the U.S. and EU allies offer assistance</a> NPR: The help includes a group of experts that's been looking at possible war crimes since Russia took over Crimea and Donbas in 2014. 
  <p class="updated_time"> 04:40 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/us/politics/mike-lee-chip-roy-jan-6-texts.html">‘Call Everyone Off’: Texts to Meadows Trace Republicans’ Alarm Before Jan. 6</a> NYT: Senator Mike Lee and Representative Chip Roy, once backers of President Donald J. Trump’s claims of a stolen election, eventually urged his top aide to change course. 
+ <a href="https://www.nytimes.com/2022/04/15/us/politics/mike-lee-chip-roy-jan-6-texts.html">Mike Lee’s Texts Show Encouragement, Then Alarm, Before Jan. 6</a> NYT: Senator Mike Lee and Representative Chip Roy, once backers of President Donald J. Trump’s claims of a stolen election, eventually urged his top aide to change course. 
  <p class="updated_time"> 04:38 PM CT, Apr. 15 </p> 
  <a href="https://www.politico.com/news/2022/04/15/campaign-finance-watchdog-cracks-down-on-untraceable-super-pac-donations-00025664">Campaign finance watchdog cracks down on untraceable super PAC donations</a> Politico: The FEC is taking action after a complaint about donors backing Republican Martha McSally using LLCs to hide their identities. 
  <p class="updated_time"> 04:32 PM CT, Apr. 15 </p> 
@@ -332,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/13/trump-georgia-governor-race-00024987">Trump pours money into a midterm race for the first time</a> Politico: The former president is putting money from his PAC into the race to unseat GOP Gov. Brian Kemp of Georgia. 
  <p class="updated_time"> 04:00 AM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/biden-nuclear-cruise-missile-scrap-00024865">Political brawl looms over nuclear cruise missile Biden plans to scrap</a> Politico: Biden threw foreign policy progressives a bone by killing a weapons system Trump proposed. But Republicans on Capitol Hill are ready to bring it back from the dead. 
- <p class="updated_time"> 03:30 AM CT, Apr. 13 </p> 
- <a href="https://www.politico.com/news/2022/04/13/war-crimes-russia-ukraine-00024860">Why prosecuting Russian war crimes in Ukraine could be complicated</a> Politico: Investigators believe the atrocities committed in Ukraine could be rife for international prosecution. But successful convictions are rare. 
 
 
 </details>
