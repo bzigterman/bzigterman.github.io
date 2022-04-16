@@ -9,28 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:05 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 11:55 AM CT, Apr. 16 </p> 
+ <a href="https://www.nytimes.com/2022/04/16/world/europe/ukraine-war-eastern-europe-insomnia.html">War in Ukraine Has Left Eastern Europe Sleepless</a> NYT: Mental health professionals across the region say they have seen an increase in patients with intense anxiety. Some are asking for more sleeping pills, and many are making escape plans. 
+ <p class="updated_time"> 11:51 AM CT, Apr. 16 </p> 
+ <a href="https://www.nytimes.com/2022/04/16/world/asia/india-kashmir-journalists-arrested.html">Kashmir Journalists Face Forbidding Pattern: Arrest, Bail, Rearrest</a> NYT: The practice, employed against at least three journalists in the restive region, is being used to limit free speech and chill news reporting, activists say. 
+ <p class="updated_time"> 11:38 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/04/16/world/ukraine-russia-war-news">Live Updates: Russia Targets Military Facilities Across Ukraine and Steps Up Attacks in East</a> NYT: For the second time in recent days, Russia struck a military target in Kyiv, part of a campaign to degrade the Ukrainian military before an expected offensive to seize territory in the east. Russia stepped up its shelling before a battle that analysts say could be long and bloody. 
+ <p class="updated_time"> 11:19 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094">Russian Forces Expand Footprint in Eastern Ukraine</a> WSJ: Russian Forces Expand Footprint in Eastern Ukraine 
  <p class="updated_time"> 11:04 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/russia-missiles-ukraine-kyiv-lviv-neptune.html">Russia Fires Missile Barrage at Ukrainian Cities and Military Targets</a> NYT: The strikes seemed aimed at hampering Ukraine’s war fighting capacity as the conflict shifts to eastern Donbas region, and at responding to the sinking of a Russian warship. 
  <p class="updated_time"> 11:00 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/business/russia-debt-default.html">What Will Happen if Russia Defaults on Its Debt?</a> NYT: The ultimate arbiter of a sovereign default is an open question but markets may have the final word. 
  <p class="updated_time"> 10:55 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/asia/peng-ming-min-dead.html">Peng Ming-min, Fighter for Democracy in Taiwan, Dies at 98</a> NYT: He endured Japanese imperial rule, a lost limb in World War II, Chinese martial law and decades in exile to become a leading force for Taiwanese self-determination. 
- <p class="updated_time"> 10:25 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094">Russian Forces Expand Footprint in Eastern Ukraine</a> WSJ: Russian Forces Expand Footprint in Eastern Ukraine 
+ <p class="updated_time"> 10:19 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-jews-celebrate-wartime-passover-in-defiance-of-russian-invasion-11650116455">Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion</a> WSJ: Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion 
  <p class="updated_time"> 10:18 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/nazi-soldier-watch-netherlands.html">A Nazi Soldier Stole a Watch in 1942. It Turned Up 80 Years Later.</a> NYT: The watch, made as a gift in 1910, has been returned to the maker’s family in the Netherlands. It still works. 
  <p class="updated_time"> 10:16 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/east-ukraine-russia-putin-war.html">Putin’s Ukraine Gamble Pivots to a Very Different Battlefield</a> NYT: After Russian forces were mauled in cities and towns in northern Ukraine, Vladimir V. Putin is shifting the focus of his invasion to the flatlands of Donbas, in the east. 
  <p class="updated_time"> 09:48 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/barentsburg-norway-ukraine-war-russia.html">Tensions Over the Ukraine War Deepen the Chill Near the North Pole</a> NYT: The war and the comments of a Russian diplomat have strained relations on an archipelago in Norway where Russians, Ukrainians and Norwegians have lived peacefully for decades. 
- <p class="updated_time"> 09:42 AM CT, Apr. 16 </p> 
- <a href="https://www.nytimes.com/2022/04/16/world/asia/india-kashmir-journalists-arrested.html">Kashmir Journalists Face Forbidding Pattern: Arrest, Bail, Rearrest</a> NYT: The practice, employed against at least three journalists in the restive region, is being used to limit free speech and chill news reporting, activists say. 
- <p class="updated_time"> 09:25 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraines-jews-celebrate-wartime-passover-in-defiance-of-russian-invasion-11650116455">Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion</a> WSJ: Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion 
- <p class="updated_time"> 09:12 AM CT, Apr. 16 </p> 
- <a href="https://www.nytimes.com/2022/04/16/world/europe/ukraine-war-eastern-europe-insomnia.html">War in Ukraine Has Left Eastern Europe Sleepless</a> NYT: Mental health professionals across the region say they have seen an increase in patients with intense anxiety. Some are asking for more sleeping pills, and many are making escape plans. 
+ <p class="updated_time"> 09:19 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 09:10 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61123590?at_medium=RSS&at_campaign=KARANGA">Patrick Lyoya: Could rethink of US police traffic stops save lives?</a> BBC: The death of a black man in Michigan after a traffic stop raises questions about police use of force. 
  <p class="updated_time"> 08:57 AM CT, Apr. 16 </p> 
@@ -41,22 +43,20 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61126391?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia bans Boris Johnson from country over Ukraine war</a> BBC: Boris Johnson and other senior ministers are barred for "whipping up anti-Russian hysteria". 
  <p class="updated_time"> 08:26 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093189754/pakistans-former-prime-minister-imran-khan-is-fighting-his-ouster">Pakistan's former Prime Minister Imran Khan is fighting his ouster</a> NPR: Pakistan's Imran Kahn has been ousted from leadership, but the former prime minister is not going quietly. 
- <p class="updated_time"> 08:25 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
+ <p class="updated_time"> 08:19 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/shanghais-lockdown-knocks-out-e-commerce-leaving-group-buying-and-bartering-11650101402">Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering</a> WSJ: Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering 
  <p class="updated_time"> 08:13 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093189740/malicious-lies-are-spreading-in-philippines-about-the-female-presidential-candid">Malicious lies are spreading in Philippines about the female presidential candidate</a> NPR: The current election cycle in the Philippines is being flooded with misinformation. One recent example: malicious sexual content about the only female presidential candidate. 
  <p class="updated_time"> 07:47 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/russian-propaganda-telegram-ukraine.html">Telegram: Where Russians Turn for Uncensored Ukraine News</a> NYT: Telegram is the platform of choice for Russians seeking to escape Moscow’s propaganda web. But can it last? 
- <p class="updated_time"> 07:25 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/shanghais-lockdown-knocks-out-e-commerce-leaving-group-buying-and-bartering-11650101402">Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering</a> WSJ: Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering 
+ <p class="updated_time"> 07:19 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 07:14 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093189698/the-pope-tries-using-good-friday-to-bring-together-ukrainians-and-russians">The Pope tries using Good Friday to bring together Ukrainians and Russians</a> NPR: This year, the Vatican proposed having Ukrainian and Russian families carry the cross together during the annual Good Friday ceremony in Rome. Then Ukrainians objected. 
  <p class="updated_time"> 07:03 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093189670/kyiv-is-hit-by-missiles-a-day-after-sinking-a-russian-war-ship">Kyiv is hit by missiles — a day after sinking a Russian war ship</a> NPR: Missiles hit the environs of Kyiv, as Russia prepares for a renewed assault on eastern and southeastern Ukraine. 
  <p class="updated_time"> 07:02 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093189669/china-astronauts-space-station-return">3 Chinese astronauts return to Earth after 6 months in space</a> NPR: The astronauts landed in the Gobi desert after six months aboard their country's newest orbital station. During the mission, astronaut Wang Yaping carried out the first spacewalk by a Chinese woman. 
- <p class="updated_time"> 06:25 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 06:00 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/16/1092649377/sony-photo-winners-computers-on-horseback-magnificent-mountains-bathing-elephant">Sony photo winners: Computers on horseback, magnificent mountains, bathing elephants</a> NPR: The 2022 Sony World Photography Award-winners include a photo of a man in Argentina transporting computers on horseback and twin sisters at a Buddhist monastery in Myanmar. 
  <p class="updated_time"> 05:00 AM CT, Apr. 16 </p> 
@@ -216,6 +216,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:35 AM CT, Apr. 16 </p> 
+ <a href="https://www.politico.com/news/2022/04/16/gop-megadonors-congress-campaign-finance-disclosures-00025693">GOP megadonors go big in battle for Congress: 5 takeaways from new campaign money filings</a> Politico: Republican donors including private equity exec Stephen Schwarzman and hedge funder Ken Griffin poured millions more into major GOP super PACs in the first three months of 2022. 
  <p class="updated_time"> 11:14 AM CT, Apr. 16 </p> 
  <a href="https://www.politico.com/news/2022/04/16/biden-asian-leaders-summit-00025692">Biden to host rescheduled summit with Southeast Asian leaders</a> Politico: It was emphasized in the statement released by the White House that it is "a top priority" for the administration "to serve as a strong, reliable partner in Southeast Asia." 
  <p class="updated_time"> 10:00 AM CT, Apr. 16 </p> 
@@ -332,8 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/13/biden-booming-economy-big-risks-00023234">What could go wrong with Biden's booming economy? Here are the big risks.</a> Politico: The Fed's campaign to raise interest rates — designed to reduce spending and curb inflation — will slow growth, which will have consequences for American workers. 
  <p class="updated_time"> 05:45 PM CT, Apr. 13 </p> 
  <a href="https://www.politico.com/news/2022/04/13/us-visit-zelenskyy-kyiv-00025050">U.S. weighs sending top-level official to meet Zelenskyy in Kyiv</a> Politico: The U.S. official, which will most likely be a Cabinet member, will follow European leaders who have already made the symbolic visit. 
- <p class="updated_time"> 02:18 PM CT, Apr. 13 </p> 
- <a href="https://www.politico.com/news/2022/04/13/biden-gas-supply-climate-change-00024776">Biden's shift from climate to oil rattles greens</a> Politico: The White House is preoccupied with taming inflation and keeping the pressure on Russia's Vladimir Putin to end his war in Ukraine. 
 
 
 </details>
