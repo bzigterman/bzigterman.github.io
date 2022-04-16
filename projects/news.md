@@ -23,21 +23,21 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/16/health/global-covid-deaths-who-india.html">India Is Stalling the W.H.O.’s Efforts to Make Global Covid Death Toll Public</a> NYT: The agency has calculated that 15 million people have died as a result of the pandemic, far more than earlier estimates, but has yet to release those numbers. 
  <p class="updated_time"> 04:00 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008293410/zaporizhzhia-ukraine-war.html">As Russia Pivots East, Ukrainians Ask: Are We Next?</a> NYT: Our cameras captured life on the front lines in southeast Ukraine, where Russian shelling is relentless and it feels like the war is inching closer every day. 
- <p class="updated_time"> 03:45 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 03:57 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
- <p class="updated_time"> 02:45 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 02:57 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
- <p class="updated_time"> 01:45 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 01:57 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 01:01 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-occupation.html">Ukrainians Detail the Terror Russian Soldiers Have Inflicted Near Kyiv</a> NYT: An ordeal at a mental health facility in Ukraine illuminated the horrors of the Russian occupation in the areas around Kyiv. 
- <p class="updated_time"> 12:45 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 12:57 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
  <p class="updated_time"> 12:29 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61089853?at_medium=RSS&at_campaign=KARANGA">Tropical Storm Megi: Landslides and floods kill 167 in Philippines</a> BBC: Tropical Storm Megi devastated the country on Sunday, with houses washed out to sea in one village. 
  <p class="updated_time"> 12:00 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61117532?at_medium=RSS&at_campaign=KARANGA">Ukraine war: No quick return to normal for scarred Bucha</a> BBC: Everything has changed in this town since the Russians came, and horrific memories will not easily be erased. 
- <p class="updated_time"> 11:45 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 11:57 PM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 09:12 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque/al-aqsa-mosque-clashes">Clashes Erupt at Jerusalem Holy Site on Day With Overlapping Holidays</a> NYT: Calm returned after more than 150 people were injured and hundreds were arrested by the Israeli police on Friday, when Ramadan, Easter and Passover coincided for the first time in thirty years. 
