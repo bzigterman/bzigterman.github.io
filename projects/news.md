@@ -9,50 +9,50 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:42 PM CT, Apr. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/04/16/world/ukraine-russia-war-news">Live Updates: Russia Targets Military Facilities Across Ukraine and Steps Up Attacks in East</a> NYT: For the second time in recent days, Russia struck a military target in Kyiv, part of a campaign to degrade the Ukrainian military before an expected offensive to seize territory in the east. Russia stepped up its shelling before a battle that analysts say could be long and bloody. 
+ <p class="updated_time"> 01:28 PM CT, Apr. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/16/world/ukraine-russia-war-news">Live Updates: Russia Targets Military Facilities Across Ukraine and Steps Up Attacks in East</a> NYT: Russia claimed its forces had seized the besieged city of Mariupol, save for a steel plant near the port where Ukrainians forces held out. Moscow’s missiles also hit targets across the country, including military factories. 
+ <p class="updated_time"> 01:21 PM CT, Apr. 16 </p> 
+ <a href="https://www.nytimes.com/2022/04/16/world/europe/east-ukraine-russia-putin-war.html">Putin’s Ukraine Gamble Pivots to a Very Different Battlefield</a> NYT: After Russian forces were mauled in cities and towns in northern Ukraine, Vladimir V. Putin is shifting the focus of his invasion to the flatlands of Donbas, in the east. 
  <p class="updated_time"> 12:38 PM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093200949/notre-dame-cathedral-artifacts-found">Archeologists discover historical artifacts during Notre Dame Cathedral restoration</a> NPR: The finds underneath the Paris landmark include a human-shaped lead sarcophagus. The discovery was made during restoration work at the cathedral, which was damaged by a fire in 2019. 
  <p class="updated_time"> 12:35 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/business/russia-debt-default.html">What Will Happen if Russia Defaults on Its Debt?</a> NYT: The ultimate arbiter of a sovereign default is an open question but markets may have the final word. 
+ <p class="updated_time"> 12:31 PM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094">Russian Forces Expand Footprint in Eastern Ukraine</a> WSJ: Russian Forces Expand Footprint in Eastern Ukraine 
  <p class="updated_time"> 12:30 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008293410/zaporizhzhia-ukraine-war.html">As Russia Pivots East, Ukrainians Ask: Are We Next?</a> NYT: Our cameras captured life on the front lines in southeast Ukraine, where Russian shelling is relentless and it feels like the war is inching closer every day. 
- <p class="updated_time"> 12:00 PM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094">Russian Forces Expand Footprint in Eastern Ukraine</a> WSJ: Russian Forces Expand Footprint in Eastern Ukraine 
  <p class="updated_time"> 11:55 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/ukraine-war-eastern-europe-insomnia.html">War in Ukraine Has Left Eastern Europe Sleepless</a> NYT: Mental health professionals across the region say they have seen an increase in patients with intense anxiety. Some are asking for more sleeping pills, and many are making escape plans. 
  <p class="updated_time"> 11:51 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/asia/india-kashmir-journalists-arrested.html">Kashmir Journalists Face Forbidding Pattern: Arrest, Bail, Rearrest</a> NYT: The practice, employed against at least three journalists in the restive region, is being used to limit free speech and chill news reporting, activists say. 
+ <p class="updated_time"> 11:31 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-jews-celebrate-wartime-passover-in-defiance-of-russian-invasion-11650116455">Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion</a> WSJ: Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion 
  <p class="updated_time"> 11:04 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/russia-missiles-ukraine-kyiv-lviv-neptune.html">Russia Fires Missile Barrage at Ukrainian Cities and Military Targets</a> NYT: The strikes seemed aimed at hampering Ukraine’s war fighting capacity as the conflict shifts to eastern Donbas region, and at responding to the sinking of a Russian warship. 
- <p class="updated_time"> 11:00 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraines-jews-celebrate-wartime-passover-in-defiance-of-russian-invasion-11650116455">Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion</a> WSJ: Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion 
  <p class="updated_time"> 10:55 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/asia/peng-ming-min-dead.html">Peng Ming-min, Fighter for Democracy in Taiwan, Dies at 98</a> NYT: He endured Japanese imperial rule, a lost limb in World War II, Chinese martial law and decades in exile to become a leading force for Taiwanese self-determination. 
+ <p class="updated_time"> 10:31 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 10:18 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/nazi-soldier-watch-netherlands.html">A Nazi Soldier Stole a Watch in 1942. It Turned Up 80 Years Later.</a> NYT: The watch, made as a gift in 1910, has been returned to the maker’s family in the Netherlands. It still works. 
- <p class="updated_time"> 10:16 AM CT, Apr. 16 </p> 
- <a href="https://www.nytimes.com/2022/04/16/world/europe/east-ukraine-russia-putin-war.html">Putin’s Ukraine Gamble Pivots to a Very Different Battlefield</a> NYT: After Russian forces were mauled in cities and towns in northern Ukraine, Vladimir V. Putin is shifting the focus of his invasion to the flatlands of Donbas, in the east. 
- <p class="updated_time"> 10:00 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 09:48 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/barentsburg-norway-ukraine-war-russia.html">Tensions Over the Ukraine War Deepen the Chill Near the North Pole</a> NYT: The war and the comments of a Russian diplomat have strained relations on an archipelago in Norway where Russians, Ukrainians and Norwegians have lived peacefully for decades. 
+ <p class="updated_time"> 09:31 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/shanghais-lockdown-knocks-out-e-commerce-leaving-group-buying-and-bartering-11650101402">Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering</a> WSJ: Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering 
  <p class="updated_time"> 09:10 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61123590?at_medium=RSS&at_campaign=KARANGA">Patrick Lyoya: Could rethink of US police traffic stops save lives?</a> BBC: The death of a black man in Michigan after a traffic stop raises questions about police use of force. 
- <p class="updated_time"> 09:00 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/shanghais-lockdown-knocks-out-e-commerce-leaving-group-buying-and-bartering-11650101402">Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering</a> WSJ: Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering 
  <p class="updated_time"> 08:57 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/moskva-sinking-vadym-krasnooky.html">Moskva’s Sinking Inspires One of Ukraine’s Most Popular Rockers</a> NYT: Vadym Krasnooky, whose band Mad Heads had stopped performing when the war began, said his new song is meant to ‘channel all this hate.’ 
  <p class="updated_time"> 08:56 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61128662?at_medium=RSS&at_campaign=KARANGA">South Africa flooding: 'I had thought my house was safe'</a> BBC: Torrential floods have killed nearly 400 people in South Africa, with more rain forecast. 
  <p class="updated_time"> 08:54 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61126391?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia bans Boris Johnson from country over Ukraine war</a> BBC: Boris Johnson and other senior ministers are barred for "whipping up anti-Russian hysteria". 
+ <p class="updated_time"> 08:31 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 08:26 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093189754/pakistans-former-prime-minister-imran-khan-is-fighting-his-ouster">Pakistan's former Prime Minister Imran Khan is fighting his ouster</a> NPR: Pakistan's Imran Kahn has been ousted from leadership, but the former prime minister is not going quietly. 
  <p class="updated_time"> 08:13 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093189740/malicious-lies-are-spreading-in-philippines-about-the-female-presidential-candid">Malicious lies are spreading in Philippines about the female presidential candidate</a> NPR: The current election cycle in the Philippines is being flooded with misinformation. One recent example: malicious sexual content about the only female presidential candidate. 
- <p class="updated_time"> 08:00 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
  <p class="updated_time"> 07:47 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/russian-propaganda-telegram-ukraine.html">Telegram: Where Russians Turn for Uncensored Ukraine News</a> NYT: Telegram is the platform of choice for Russians seeking to escape Moscow’s propaganda web. But can it last? 
  <p class="updated_time"> 07:14 AM CT, Apr. 16 </p> 
