@@ -9,32 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:41 AM CT, Apr. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/16/world/ukraine-russia-war-news">Ukraine Live Updates: Explosions Rock Kyiv Even as Russia Prepares for Eastern Offensive</a> NYT: Russia took aim at military targets around the country, and the Ukrainians claimed to have shot down missiles directed at Odesa to the south and Lviv to the west. Before an expected Russian offensive, the assaults underscored that Russia can still attack targets across Ukraine. 
+ <p class="updated_time"> 04:25 AM CT, Apr. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque">Jerusalem Calms After Israeli-Palestinian Clashes at Holy Site</a> NYT: Violence broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, in the morning on the first day of a rare convergence of Ramadan, Easter and Passover. 
+ <p class="updated_time"> 04:21 AM CT, Apr. 16 </p> 
+ <a href="https://www.nytimes.com/2022/04/16/world/europe/east-ukraine-russia-putin-war.html">Putin’s Ukraine Gamble Pivots to a Very Different Battlefield</a> NYT: After Russian forces were mauled in cities and towns in northern Ukraine, Vladimir V. Putin is shifting the focus of his invasion to the flatlands of Donbas, in the east. 
+ <p class="updated_time"> 04:11 AM CT, Apr. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/61107685?at_medium=RSS&at_campaign=KARANGA">Durban floods: Is it a consequence of climate change?</a> BBC: KwaZulu-Natal province has seen some serious flooding, but there isn't one clear explanation. 
  <p class="updated_time"> 04:00 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1092811802/russia-putin-bush-texas-summit-crawford">With Bush in 2001, Putin sought to charm students at a rural Texas high school</a> NPR: Back in 2001, Vladimir Putin was seeking respect from world leaders while pledging a new openness in Russia. That's what brought him to tiny Crawford, Texas, at the invite of President George W. Bush. 
  <p class="updated_time"> 04:00 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/health/global-covid-deaths-who-india.html">India Is Stalling the W.H.O.’s Efforts to Make Global Covid Death Toll Public</a> NYT: The agency has calculated that 15 million people have died as a result of the pandemic, far more than earlier estimates, but has yet to release those numbers. 
  <p class="updated_time"> 04:00 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008293410/zaporizhzhia-ukraine-war.html">As Russia Pivots East, Ukrainians Ask: Are We Next?</a> NYT: Our cameras captured life on the front lines in southeast Ukraine, where Russian shelling is relentless and it feels like the war is inching closer every day. 
- <p class="updated_time"> 03:16 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 03:45 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/kyiv-rocked-by-explosions-as-russia-steps-up-attacks-11650021113">Kyiv Rocked by Explosions as Russia Steps Up Attacks</a> WSJ: Kyiv Rocked by Explosions as Russia Steps Up Attacks 
- <p class="updated_time"> 02:28 AM CT, Apr. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/04/15/world/ukraine-russia-war-news">What Happened on Day 51 of the War in Ukraine</a> NYT: Russia demanded that the U.S. halt shipment of advanced weapons to Ukraine. American officials said Russia’s Black Sea flagship had been sunk by Ukrainian missiles. 
- <p class="updated_time"> 02:16 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 02:45 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: At Least 150 Injured in Clashes at Jerusalem Holy Site 
- <p class="updated_time"> 01:16 AM CT, Apr. 16 </p> 
+ <p class="updated_time"> 01:45 AM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/i-lost-james-an-american-dad-hunts-for-his-8-year-old-in-the-chaos-of-afghanistans-fall-11650028911">‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall.</a> WSJ: ‘I Lost James.’ An American Dad Hunts for His 8-Year-Old in the Chaos of Afghanistan’s Fall. 
  <p class="updated_time"> 01:01 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-occupation.html">Ukrainians Detail the Terror Russian Soldiers Have Inflicted Near Kyiv</a> NYT: An ordeal at a mental health facility in Ukraine illuminated the horrors of the Russian occupation in the areas around Kyiv. 
+ <p class="updated_time"> 12:45 AM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
  <p class="updated_time"> 12:29 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61089853?at_medium=RSS&at_campaign=KARANGA">Tropical Storm Megi: Landslides and floods kill 167 in Philippines</a> BBC: Tropical Storm Megi devastated the country on Sunday, with houses washed out to sea in one village. 
- <p class="updated_time"> 12:16 AM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/anger-over-covid-lockdowns-mounts-in-shanghai-11650039314">Anger Over Covid Lockdowns Mounts in Shanghai</a> WSJ: Anger Over Covid Lockdowns Mounts in Shanghai 
  <p class="updated_time"> 12:00 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61117532?at_medium=RSS&at_campaign=KARANGA">Ukraine war: No quick return to normal for scarred Bucha</a> BBC: Everything has changed in this town since the Russians came, and horrific memories will not easily be erased. 
- <p class="updated_time"> 11:16 PM CT, Apr. 15 </p> 
+ <p class="updated_time"> 11:45 PM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
- <p class="updated_time"> 10:01 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque">Jerusalem Calms After Israeli-Palestinian Clashes at Holy Site</a> NYT: Violence broke out at the Aqsa Mosque compound, known to Jews as the Temple Mount, in the morning on the first day of a rare convergence of Ramadan, Easter and Passover. 
  <p class="updated_time"> 09:12 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/04/15/world/jerusalem-al-aqsa-mosque/al-aqsa-mosque-clashes">Clashes Erupt at Jerusalem Holy Site on Day With Overlapping Holidays</a> NYT: Calm returned after more than 150 people were injured and hundreds were arrested by the Israeli police on Friday, when Ramadan, Easter and Passover coincided for the first time in thirty years. 
  <p class="updated_time"> 08:43 PM CT, Apr. 15 </p> 
@@ -159,8 +163,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/14/climate/gina-mccarthy-climate-adviser.html">Gina McCarthy, Top Climate Adviser, Is Said to Be Planning Departure</a> NYT: Ms. McCarthy was tapped by President Biden to lead an ambitious domestic climate agenda. Associates say she is frustrated by the slow pace of progress. 
  <p class="updated_time"> 07:39 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/european-union-oil-embargo-russia-ukraine.html">Europe Reluctantly Readies Russian Oil Embargo</a> NYT: Officials are drafting a phased import ban on Russian oil products, but the measure won’t be floated until after the second round of the French elections at the earliest. 
- <p class="updated_time"> 06:11 PM CT, Apr. 14 </p> 
- <a href="https://www.bbc.co.uk/news/61107685?at_medium=RSS&at_campaign=KARANGA">Durban floods: Is it a consequence of climate change?</a> BBC: KwaZulu-Natal province has seen some serious flooding, but there isn't one clear explanation. 
  <p class="updated_time"> 06:00 PM CT, Apr. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61106245?at_medium=RSS&at_campaign=KARANGA">Ukraine's battle for control of its skies</a> BBC: A Ukrainian air defence officer tells the BBC: "Whoever dominates the air wins the war." 
  <p class="updated_time"> 05:37 PM CT, Apr. 14 </p> 
@@ -217,7 +219,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:12 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/us/politics/republicans-accusations-women.html">As G.O.P. Candidates Face Accusations, Rivals Tread Carefully</a> NYT: In several states, Republican candidates are contending with allegations of domestic violence and sexual assault. Few of their primary rivals want to talk about it. 
  <p class="updated_time"> 09:12 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/14/us/politics/putin-nuclear-weapons.html">C.I.A. Director Airs Concern That Putin Might Turn to Nuclear Weapons</a> NYT: William J. Burns, the director of the Central Intelligence Agency, cautioned that he had seen no “practical evidence” that would suggest such a move was imminent. 
+ <a href="https://www.nytimes.com/2022/04/14/us/politics/putin-nuclear-weapons.html">C.I.A. Director Says Putin Might Consider Nuclear Weapons </a> NYT: William J. Burns, the director of the Central Intelligence Agency, cautioned that he had seen no “practical evidence” that would suggest such a move was imminent. 
  <p class="updated_time"> 07:51 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/us/politics/russia-moskva-ship-sunk-ukraine.html">Moskva, Russia’s Prized Ship, Was Hit by Missiles, U.S. Officials Say</a> NYT: The sinking of the Moskva was a major blow to the Russian fleet and the most significant combat loss for any navy in decades. 
  <p class="updated_time"> 07:22 PM CT, Apr. 15 </p> 
@@ -235,7 +237,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:47 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093119884/as-ukraine-investigates-russian-war-crimes-the-u-s-and-eu-allies-offer-assistanc">As Ukraine investigates Russian war crimes, the U.S. and EU allies offer assistance</a> NPR: The help includes a group of experts that's been looking at possible war crimes since Russia took over Crimea and Donbas in 2014. 
  <p class="updated_time"> 04:40 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/us/politics/mike-lee-chip-roy-jan-6-texts.html">Mike Lee’s Texts Show Encouragement, Then Alarm, Before Jan. 6</a> NYT: Senator Mike Lee and Representative Chip Roy, once backers of President Donald J. Trump’s claims of a stolen election, eventually urged his top aide to change course. 
+ <a href="https://www.nytimes.com/2022/04/15/us/politics/mike-lee-chip-roy-jan-6-texts.html">‘Call Everyone Off’: Texts to Meadows Trace Republicans’ Alarm Before Jan. 6</a> NYT: Senator Mike Lee and Representative Chip Roy, once backers of President Donald J. Trump’s claims of a stolen election, eventually urged his top aide to change course. 
  <p class="updated_time"> 04:38 PM CT, Apr. 15 </p> 
  <a href="https://www.politico.com/news/2022/04/15/campaign-finance-watchdog-cracks-down-on-untraceable-super-pac-donations-00025664">Campaign finance watchdog cracks down on untraceable super PAC donations</a> Politico: The FEC is taking action after a complaint about donors backing Republican Martha McSally using LLCs to hide their identities. 
  <p class="updated_time"> 04:32 PM CT, Apr. 15 </p> 
@@ -303,7 +305,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:56 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092904567/texas-welfare-workers-are-resigning-over-orders-to-investigate-trans-kids-famili">Texas welfare workers are resigning over orders to investigate trans kids' families</a> NPR: NPR's Ailsa Chang talks with Eleanor Klibanoff of The Texas Tribune about the child welfare workers who are leaving their jobs over state orders to investigate the families of trans kids. 
  <p class="updated_time"> 02:42 PM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/14/us/politics/biden-judicial-nominees.html">With Jackson Headed to Supreme Court, New Judicial Battles Loom</a> NYT: Democrats aim to fill as many court vacancies as possible by the end of 2022, when Senate Republicans are in reach of winning control and slamming the brakes on President Biden’s picks. 
+ <a href="https://www.nytimes.com/2022/04/14/us/politics/biden-judicial-nominees.html">Democrats Aim to Fill as Many Court Vacancies as Possible by End of 2022</a> NYT: Democrats aim to fill as many court vacancies as possible by the end of 2022, when Senate Republicans are in reach of winning control and slamming the brakes on President Biden’s picks. 
  <p class="updated_time"> 02:25 PM CT, Apr. 14 </p> 
  <a href="https://www.politico.com/news/2022/04/14/mills-congress-tear-gas-black-lives-matter-protesters-00025269">GOP hopeful sold tear gas used on Black Lives Matter protesters</a> Politico: Cory Mills, a self-funding, first time candidate running for a House seat in Florida, paved an unusual path to riches. 
  <p class="updated_time"> 12:32 PM CT, Apr. 14 </p> 
