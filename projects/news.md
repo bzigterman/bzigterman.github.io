@@ -9,29 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:51 AM CT, Apr. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61130841?at_medium=RSS&at_campaign=KARANGA">UK's Rwanda asylum plan the 'opposite of nature of God' - Welby</a> BBC: There are "serious ethical questions" over sending migrants to east Africa, Justin Welby will say. 
+ <p class="updated_time"> 12:38 AM CT, Apr. 17 </p> 
+ <a href="https://www.npr.org/2022/04/17/1093233899/israel-police-enter-flashpoint-jerusalem-holy-site-arrest-2">Israel police enter flashpoint Jerusalem holy site, arrest 2</a> NPR: Israeli police have entered the Al-Aqsa Mosque compound, a sensitive Jerusalem holy site, two days after clashes with Palestinians. 
  <p class="updated_time"> 12:14 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093231790/north-korea-says-it-tested-new-tactical-guided-weapon">North Korea says it tested new tactical guided weapon</a> NPR: North Korea has test-fired a new type of tactical guided weapon designed to boost its nuclear fighting capability, state media reported Sunday, days after it passed its biggest state anniversary. 
  <p class="updated_time"> 12:00 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/04/16/world/ukraine-russia-war-news">What Happened on Day 52 of the War in Ukraine</a> NYT: Russia claimed its forces had seized the besieged city of Mariupol, save for a steel plant near the port where Ukrainian fighters held out. Moscow’s missiles also hit targets across the country, including military factories. 
- <p class="updated_time"> 11:43 PM CT, Apr. 16 </p> 
+ <p class="updated_time"> 11:55 PM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094">Russian Forces Closer to Taking Mariupol</a> WSJ: Russian Forces Closer to Taking Mariupol 
  <p class="updated_time"> 10:55 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/french-election-macron-le-pen.html">Macron Vows Ambitious Green Policies, Wooing the Left in Runoff</a> NYT: France’s president is trying to tap into the country’s large pool of left-wing voters, but many are hesitant to back him. 
+ <p class="updated_time"> 10:55 PM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/mariupol-in-ruins-11650132943">After More Than a Month of Fighting, Much of Mariupol Lies in Ruins</a> WSJ: After More Than a Month of Fighting, Much of Mariupol Lies in Ruins 
  <p class="updated_time"> 10:50 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-occupation.html">Ukrainians Detail the Terror Russian Soldiers Have Inflicted Near Kyiv</a> NYT: An ordeal at a mental health facility in Ukraine illuminated the horrors of the Russian occupation in the areas around Kyiv. 
  <p class="updated_time"> 10:47 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/health/global-covid-deaths-who-india.html">India Is Stalling the W.H.O.’s Efforts to Make Global Covid Death Toll Public</a> NYT: The agency has calculated that 15 million people have died as a result of the pandemic, far more than earlier estimates, but has yet to release those numbers. 
- <p class="updated_time"> 10:46 PM CT, Apr. 16 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61130841?at_medium=RSS&at_campaign=KARANGA">UK's Rwanda asylum plan the 'opposite of nature of God' - Welby</a> BBC: There are "serious ethical questions" over sending migrants to east Africa, Justin Welby will say. 
- <p class="updated_time"> 10:43 PM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/mariupol-in-ruins-11650132943">After More Than a Month of Fighting, Much of Mariupol Lies in Ruins</a> WSJ: After More Than a Month of Fighting, Much of Mariupol Lies in Ruins 
- <p class="updated_time"> 09:43 PM CT, Apr. 16 </p> 
+ <p class="updated_time"> 09:55 PM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/ukraines-jews-celebrate-wartime-passover-in-defiance-of-russian-invasion-11650116455">Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion</a> WSJ: Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion 
+ <p class="updated_time"> 08:55 PM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 08:54 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/asia/north-korea-missile-launch.html">North Korea Launches 2 Short-Range Missiles</a> NYT: The missile test, the North’s 12th of the year, took place as South Korea and the United States were preparing to begin joint military exercises. 
- <p class="updated_time"> 08:43 PM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
- <p class="updated_time"> 07:43 PM CT, Apr. 16 </p> 
+ <p class="updated_time"> 07:55 PM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/shanghais-lockdown-knocks-out-e-commerce-leaving-group-buying-and-bartering-11650101402">Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering</a> WSJ: Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering 
  <p class="updated_time"> 06:47 PM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-61093929?at_medium=RSS&at_campaign=KARANGA">Climate change: 'We're making wine in Norway'</a> BBC: Vineyards are moving further north, but new winemakers say they struggle to be taken seriously. 
@@ -139,8 +141,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/15/1093130206/bilquis-edhi-pakistan-karachi-obituary">Pakistani humanitarian Bilquis Edhi has died</a> NPR: She was the widow of Abdul Sattar Edhi, founder of Pakistan's best-known social services network. A nurse, she worked alongside her husband and focused especially on the welfare of children and women. 
  <p class="updated_time"> 04:56 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/climate/biden-drilling-oil-leases.html">Biden Plans to Open More Public Land to Drilling</a> NYT: The president is under pressure to bring down gas prices, but any new drilling would be years away. The fees that companies pay would rise sharply. 
- <p class="updated_time"> 04:47 PM CT, Apr. 15 </p> 
- <a href="https://www.npr.org/2022/04/15/1093119884/as-ukraine-investigates-russian-war-crimes-the-u-s-and-eu-allies-offer-assistanc">As Ukraine investigates Russian war crimes, the U.S. and EU allies offer assistance</a> NPR: The help includes a group of experts that's been looking at possible war crimes since Russia took over Crimea and Donbas in 2014. 
  <p class="updated_time"> 04:28 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/middleeast/jerusalem-tattoo-artist.html">Jerusalem Tattoo Artist Inks Pilgrims, Priests and Those Scarred by Conflict</a> NYT: For Wassim Razzouk, Holy Week is his busiest time as Christians seek a reminder of their visit to Jerusalem. But his family’s centuries-old tattoo business caters to all faiths. 
  <p class="updated_time"> 04:22 PM CT, Apr. 15 </p> 
