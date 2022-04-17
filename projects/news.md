@@ -9,23 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:07 AM CT, Apr. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61130841?at_medium=RSS&at_campaign=KARANGA">UK's Rwanda asylum plan the 'opposite of nature of God' - Welby</a> BBC: There are "serious ethical questions" over sending migrants to east Africa, Justin Welby will say. 
+ <p class="updated_time"> 02:00 AM CT, Apr. 17 </p> 
+ <a href="https://www.nytimes.com/2022/04/17/world/ukraine-children-cancer-treatment-memphis.html">Fighting for Her Life, Far From Ukraine</a> NYT: A 5-year-old Ukrainian girl with a brain tumor was one of several children brought for treatment in the United States after their country was invaded by Russia. 
  <p class="updated_time"> 01:38 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/jerusalem-al-aqsa-mosque.html">Israeli Police Stop Muslim Worshipers From Entering Holy Site</a> NYT: Brief clashes broke out Sunday in side streets near the Aqsa Mosque compound, two days after violence at the site left more than 150 people injured. 
+ <p class="updated_time"> 01:20 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094">Russian Forces Closer to Taking Mariupol</a> WSJ: Russian Forces Closer to Taking Mariupol 
  <p class="updated_time"> 01:01 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093234046/russia-strikes-ukraines-big-cities-bears-down-on-mariupol">Russia strikes Ukraine's big cities, bears down on Mariupol</a> NPR: Russian forces renewed missile strikes on Kyiv and intensified shelling of Kharkiv, Ukraine's second-largest city, in preparation for what is expected to be a full-scale Russian assault in the east. 
  <p class="updated_time"> 12:58 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/04/16/world/ukraine-russia-war-news">What Happened on Day 52 of the War in Ukraine</a> NYT: Russia claimed its forces had seized the besieged city of Mariupol, save for a steel plant near the port where Ukrainian fighters held out. Moscow’s missiles also hit targets across the country, including military factories. 
- <p class="updated_time"> 12:56 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094">Russian Forces Closer to Taking Mariupol</a> WSJ: Russian Forces Closer to Taking Mariupol 
- <p class="updated_time"> 12:51 AM CT, Apr. 17 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61130841?at_medium=RSS&at_campaign=KARANGA">UK's Rwanda asylum plan the 'opposite of nature of God' - Welby</a> BBC: There are "serious ethical questions" over sending migrants to east Africa, Justin Welby will say. 
  <p class="updated_time"> 12:38 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093233899/israel-police-enter-flashpoint-jerusalem-holy-site-arrest-2">Israel police enter flashpoint Jerusalem holy site, arrest 2</a> NPR: Israeli police have entered the Al-Aqsa Mosque compound, a sensitive Jerusalem holy site, two days after clashes with Palestinians. 
+ <p class="updated_time"> 12:20 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/mariupol-in-ruins-11650132943">After More Than a Month of Fighting, Much of Mariupol Lies in Ruins</a> WSJ: After More Than a Month of Fighting, Much of Mariupol Lies in Ruins 
  <p class="updated_time"> 12:14 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093231790/north-korea-says-it-tested-new-tactical-guided-weapon">North Korea says it tested new tactical guided weapon</a> NPR: North Korea has test-fired a new type of tactical guided weapon designed to boost its nuclear fighting capability, state media reported Sunday, days after it passed its biggest state anniversary. 
- <p class="updated_time"> 11:56 PM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/mariupol-in-ruins-11650132943">After More Than a Month of Fighting, Much of Mariupol Lies in Ruins</a> WSJ: After More Than a Month of Fighting, Much of Mariupol Lies in Ruins 
- <p class="updated_time"> 10:56 PM CT, Apr. 16 </p> 
+ <p class="updated_time"> 11:20 PM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/ukraines-jews-celebrate-wartime-passover-in-defiance-of-russian-invasion-11650116455">Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion</a> WSJ: Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion 
  <p class="updated_time"> 10:55 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/french-election-macron-le-pen.html">Macron Vows Ambitious Green Policies, Wooing the Left in Runoff</a> NYT: France’s president is trying to tap into the country’s large pool of left-wing voters, but many are hesitant to back him. 
@@ -33,9 +35,9 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-occupation.html">Ukrainians Detail the Terror Russian Soldiers Have Inflicted Near Kyiv</a> NYT: An ordeal at a mental health facility in Ukraine illuminated the horrors of the Russian occupation in the areas around Kyiv. 
  <p class="updated_time"> 10:47 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/health/global-covid-deaths-who-india.html">India Is Stalling the W.H.O.’s Efforts to Make Global Covid Death Toll Public</a> NYT: The agency has calculated that 15 million people have died as a result of the pandemic, far more than earlier estimates, but has yet to release those numbers. 
- <p class="updated_time"> 09:56 PM CT, Apr. 16 </p> 
+ <p class="updated_time"> 10:20 PM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
- <p class="updated_time"> 08:56 PM CT, Apr. 16 </p> 
+ <p class="updated_time"> 09:20 PM CT, Apr. 16 </p> 
  <a href="https://www.wsj.com/articles/shanghais-lockdown-knocks-out-e-commerce-leaving-group-buying-and-bartering-11650101402">Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering</a> WSJ: Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering 
  <p class="updated_time"> 08:54 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/asia/north-korea-missile-launch.html">North Korea Launches 2 Short-Range Missiles</a> NYT: The missile test, the North’s 12th of the year, took place as South Korea and the United States were preparing to begin joint military exercises. 
@@ -218,6 +220,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Apr. 17 </p> 
+ <a href="https://www.nytimes.com/2022/04/17/business/disney-politics-florida.html">Disney, Built on Fairy Tales and Fantasy, Confronts the Real World</a> NYT: The entertainment behemoth spent decades avoiding even the whiff of controversy. But it has increasingly been drawn into the partisan political fray. 
  <p class="updated_time"> 06:03 PM CT, Apr. 16 </p> 
  <a href="https://www.politico.com/news/2022/04/16/russia-strikes-ukraine-capital-00025697">Russia renews strikes on Ukraine capital, hits other cities</a> Politico: The mayor advised residents who fled the city earlier in the war not to return. 
  <p class="updated_time"> 04:57 PM CT, Apr. 16 </p> 
@@ -328,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/14/1092904567/texas-welfare-workers-are-resigning-over-orders-to-investigate-trans-kids-famili">Texas welfare workers are resigning over orders to investigate trans kids' families</a> NPR: NPR's Ailsa Chang talks with Eleanor Klibanoff of The Texas Tribune about the child welfare workers who are leaving their jobs over state orders to investigate the families of trans kids. 
  <p class="updated_time"> 02:42 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/us/politics/biden-judicial-nominees.html">Democrats Aim to Fill as Many Court Vacancies as Possible by End of 2022</a> NYT: Democrats aim to fill as many court vacancies as possible by the end of 2022, when Senate Republicans are in reach of winning control and slamming the brakes on President Biden’s picks. 
- <p class="updated_time"> 10:49 AM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/14/business/economy/biden-supply-chain.html">Supply Chain Hurdles Will Outlast Covid Pandemic, White House Says</a> NYT: The administration’s economic advisers see climate change and other factors complicating global trade patterns for years to come. 
  <p class="updated_time"> 03:31 AM CT, Apr. 14 </p> 
  <a href="https://www.politico.com/news/2022/04/14/criminal-justice-reform-midterms-00024991">Criminal justice reform faces political buzzsaw as GOP hones its midterm message</a> Politico: Bipartisan leaders on the Senate Judiciary Committee want to strike a follow-up deal to their 2018 work. But that's complicated by Republicans' focusing on rising crime. 
 
