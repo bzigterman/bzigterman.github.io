@@ -9,15 +9,23 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:55 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 07:28 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">Live Updates: Ukraine’s Last Troops in Mariupol Hold On as Russia Demands Surrender</a> NYT: Gaining control of the southern port city would help Russia complete its coveted “land bridge” to occupied Crimea. Moscow struck military targets around Kyiv and Mykolaiv, in apparent retaliation for Ukraine’s sinking of a Russian warship. 
+ <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
+ <a href="https://www.npr.org/2022/04/17/1093240533/poland-readies-its-defense-as-russia-moves-east">Poland readies its defense as Russia moves east</a> NPR: As the war in Ukraine continues, Poles are joining their nation's military and packing shooting ranges in case they need to defend Poland from Russia, despite Poland's membership in NATO. 
+ <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
+ <a href="https://www.npr.org/2022/04/17/1093240519/russia-hammers-mariupol-telling-ukraine-to-surrender-to-avoid-more-death">Russia hammers Mariupol, telling Ukraine to surrender to avoid more death</a> NPR: Russia has given Ukrainian soldiers in Mariupol a chance to surrender as they close in on the port city. Meanwhile, Russia is intensifying rocket attacks elsewhere in Ukraine. 
+ <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
+ <a href="https://www.npr.org/2022/04/17/1093208006/war-crystalizes-young-ukrainian-leaders-calls-for-a-future-aligned-with-europe">War crystalizes young Ukrainian leaders' calls for a future aligned with Europe</a> NPR: These young politicians have few memories of life under Soviet rule — and they say the war has accelerated their efforts to push for a more Europe-focused future. 
+ <p class="updated_time"> 06:35 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
  <p class="updated_time"> 06:09 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/jerusalem-al-aqsa-mosque.html">Israeli Police Stop Muslim Worshipers From Entering Holy Site</a> NYT: Brief clashes broke out Sunday after the Israeli police blocked Muslim access to the Aqsa Mosque compound, known to Jews as Temple Mount, in order to prevent contact between Palestinians and Jewish visitors. 
  <p class="updated_time"> 06:03 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/asylum-system-britain-rwanda.html">The World’s Broken Promise of Asylum</a> NYT: Britain’s new plan to send thousands of asylum seekers to Rwanda exposes the fragile nature of the global refugee compact, which has always fallen prey to domestic politics. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/17/1084492602/photos-how-this-bolivian-all-female-skate-crew-is-celebrating-their-indigenous-r">PHOTOS: How this Bolivian all-female skate crew is celebrating their indigenous roots</a> NPR: The young women skateboard while wearing polleras, colorful, layered skirts worn by their country's indigenous Aymara and Quechua women. They want to show girls and women it's OK to be themselves. 
- <p class="updated_time"> 05:56 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 05:35 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender</a> WSJ: Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender 
  <p class="updated_time"> 05:23 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/passover-ramadan-easter-jerusalem.html">Rare Overlap of Holy Days Shows Jerusalem’s Promise and Problems</a> NYT: In its Old City, a Christian, a Jew and a Muslim marked Easter, Passover and Ramadan. To some, it’s a “symphony.” To others, a reminder of division. 
@@ -25,30 +33,28 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61133225?at_medium=RSS&at_campaign=KARANGA">North Korea tests new weapon 'to improve tactical nukes'</a> BBC: Kim Jong-un clapped as he watched the launch - a new indication of his intention to resume nuclear tests. 
  <p class="updated_time"> 04:59 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-russia-atrocities.html">‘They Are Gone, Vanished’: Missing Persons Haunt Ukrainian Village</a> NYT: In a Russian-occupied village, five men went off to feed cattle. Their relatives and neighbors are wondering what happened to them. 
- <p class="updated_time"> 04:56 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/bidens-claim-of-russian-genocide-in-ukraine-adds-to-pressure-campaign-11650187802">Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign</a> WSJ: Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign 
  <p class="updated_time"> 04:44 AM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61133439?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Trucks stuck at Poland-Belarus border as EU sanctions deadline passes</a> BBC: An 80km queue formed on the Polish border ahead of a deadline for Russian trucks to leave the EU. 
+ <p class="updated_time"> 04:35 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/bidens-claim-of-russian-genocide-in-ukraine-adds-to-pressure-campaign-11650187802">Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign</a> WSJ: Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign 
  <p class="updated_time"> 04:17 AM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61130841?at_medium=RSS&at_campaign=KARANGA">UK's Rwanda asylum plan the 'opposite of nature of God' - Welby</a> BBC: There were "serious ethical questions" over sending migrants to east Africa, Justin Welby says. 
- <p class="updated_time"> 03:56 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 03:35 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/mariupol-in-ruins-11650132943">After More Than a Month of Fighting, Much of Mariupol Lies in Ruins</a> WSJ: After More Than a Month of Fighting, Much of Mariupol Lies in Ruins 
- <p class="updated_time"> 02:56 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/inside-a-shanghai-mass-quarantine-center-no-showers-lights-on-24-7-11650187802">Inside a Shanghai Mass Quarantine Center: No Showers, Lights On 24/7</a> WSJ: Inside a Shanghai Mass Quarantine Center: No Showers, Lights On 24/7 
+ <p class="updated_time"> 02:35 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/pope-francis-prays-for-peace-in-ukraine-and-warns-of-nuclear-war-11650192512">Pope Francis Prays for Peace in Ukraine, Warns of Nuclear War</a> WSJ: Pope Francis Prays for Peace in Ukraine, Warns of Nuclear War 
  <p class="updated_time"> 02:00 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/ukraine-children-cancer-treatment-memphis.html">Fighting for Her Life, Far From Ukraine</a> NYT: A 5-year-old Ukrainian girl with a brain tumor was one of several children brought for treatment in the United States after their country was invaded by Russia. 
- <p class="updated_time"> 02:00 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: The two countries’ militaries will be operating on open terrain well-suited for massed forces unlike earlier skirmishing around Kyiv. 
- <p class="updated_time"> 01:56 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-oversees-tactical-weapons-test-near-his-mansion-11650160117">Kim Jong Un Oversees Tactical Weapons Test</a> WSJ: Kim Jong Un Oversees Tactical Weapons Test 
- <p class="updated_time"> 01:48 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/pope-francis-prays-for-peace-in-ukraine-and-warns-of-nuclear-war-11650192512">Pope Francis Prays for Peace in Ukraine, Warns of Nuclear War</a> WSJ: The pontiff, in his annual Easter message, continued his practice since the start of the war of lamenting the effects of the invasion on Ukraine without naming Russia as the aggressor. 
  <p class="updated_time"> 01:01 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093234046/russia-strikes-ukraines-big-cities-bears-down-on-mariupol">Russia strikes Ukraine's big cities, bears down on Mariupol</a> NPR: Russian forces renewed missile strikes on Kyiv and intensified shelling of Kharkiv, Ukraine's second-largest city, in preparation for what is expected to be a full-scale Russian assault in the east. 
  <p class="updated_time"> 12:38 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093233899/israel-police-enter-flashpoint-jerusalem-holy-site-arrest-2">Clashes erupt again near flashpoint Jerusalem holy site</a> NPR: Israeli police on Sunday entered the Al-Aqsa Mosque compound in Jerusalem's Old City to secure the way for Jewish visitors to the holy site, fueling clashes that left 17 Palestinians wounded. 
+ <p class="updated_time"> 12:30 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/inside-a-shanghai-mass-quarantine-center-no-showers-lights-on-24-7-11650187802">Inside a Shanghai Quarantine Center: No Showers, Lights On 24/7</a> WSJ: Almost three weeks of forced isolation after a positive Covid-19 test made Jane Polubotko, a Ukrainian, feel like a “Covid criminal.” 
  <p class="updated_time"> 12:14 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093231790/north-korea-says-it-tested-new-tactical-guided-weapon">North Korea says it tested new tactical guided weapon</a> NPR: North Korea has test-fired a new type of tactical guided weapon designed to boost its nuclear fighting capability, state media reported Sunday, days after it passed its biggest state anniversary. 
+ <p class="updated_time"> 11:29 PM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-oversees-tactical-weapons-test-near-his-mansion-11650160117">Kim Jong Un Oversees Tactical Weapons Test</a> WSJ: The North Korean leader oversaw the test-firing of a new type of tactical guided weapon aimed at boosting the country’s nuclear capabilities, following a series of provocative missile launches that allow Pyongyang to diversify its arsenal. 
  <p class="updated_time"> 10:55 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/french-election-macron-le-pen.html">Macron Vows Ambitious Green Policies, Wooing the Left in Runoff</a> NYT: France’s president is trying to tap into the country’s large pool of left-wing voters, but many are hesitant to back him. 
  <p class="updated_time"> 10:50 PM CT, Apr. 16 </p> 
@@ -115,12 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/16/1093189740/malicious-lies-are-spreading-in-philippines-about-the-female-presidential-candid">Malicious lies are spreading in Philippines about the female presidential candidate</a> NPR: The current election cycle in the Philippines is being flooded with misinformation. One recent example: malicious sexual content about the only female presidential candidate. 
  <p class="updated_time"> 07:14 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093189698/the-pope-tries-using-good-friday-to-bring-together-ukrainians-and-russians">The Pope tries using Good Friday to bring together Ukrainians and Russians</a> NPR: This year, the Vatican proposed having Ukrainian and Russian families carry the cross together during the annual Good Friday ceremony in Rome. Then Ukrainians objected. 
- <p class="updated_time"> 07:03 AM CT, Apr. 16 </p> 
- <a href="https://www.npr.org/2022/04/16/1093189670/kyiv-is-hit-by-missiles-a-day-after-sinking-a-russian-war-ship">Kyiv is hit by missiles — a day after sinking a Russian war ship</a> NPR: Missiles hit the environs of Kyiv, as Russia prepares for a renewed assault on eastern and southeastern Ukraine. 
- <p class="updated_time"> 07:02 AM CT, Apr. 16 </p> 
- <a href="https://www.npr.org/2022/04/16/1093189669/china-astronauts-space-station-return">3 Chinese astronauts return to Earth after 6 months in space</a> NPR: The astronauts landed in the Gobi desert after six months aboard their country's newest orbital station. During the mission, astronaut Wang Yaping carried out the first spacewalk by a Chinese woman. 
- <p class="updated_time"> 06:00 AM CT, Apr. 16 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/04/16/1092649377/sony-photo-winners-computers-on-horseback-magnificent-mountains-bathing-elephant">Sony photo awards: Computers on horseback, magnificent mountains, bathing elephants</a> NPR: The 2022 Sony World Photography Award-winners include a photo of a man in Argentina transporting computers on horseback and twin sisters at a Buddhist monastery in Myanmar. 
  <p class="updated_time"> 05:00 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/canada/quebec-caribou-conservation.html">In Quebec, the Clash Over Caribou Heats Up</a> NYT: Canada is threatening to use, for the first time, a provision in endangered species legislation to intervene and force caribou habitat protection in Quebec. 
  <p class="updated_time"> 04:11 AM CT, Apr. 16 </p> 
@@ -220,6 +220,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:23 AM CT, Apr. 17 </p> 
+ <a href="https://www.npr.org/2022/04/17/1093240561/politics-chat-biden-opens-more-land-for-oil-drilling">Politics chat: Biden opens more land for oil drilling</a> NPR: Higher gas prices may not be the main driver of the Biden administration's decision to sell new oil and gas leases on public land, but inflation is a significant political liability. 
+ <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
+ <a href="https://www.politico.com/news/2022/04/17/austria-putin-nehammer-russia-ukraine-00025702">Austrian chancellor: Putin ‘in his own war logic’</a> Politico: "I think what is necessary is to confront him all the time with that which is going on in Ukraine," Karl Nehammer said. 
+ <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
+ <a href="https://www.npr.org/2022/04/17/1093208006/war-crystalizes-young-ukrainian-leaders-calls-for-a-future-aligned-with-europe">War crystalizes young Ukrainian leaders' calls for a future aligned with Europe</a> NPR: These young politicians have few memories of life under Soviet rule — and they say the war has accelerated their efforts to push for a more Europe-focused future. 
+ <p class="updated_time"> 07:00 AM CT, Apr. 17 </p> 
+ <a href="https://www.nytimes.com/2022/04/17/us/politics/mar-a-lago-machine-trump-as-a-modern-day-party-boss.html">Mar-a-Lago Machine: Trump as a Modern-Day Party Boss</a> NYT: Hoarding cash, doling out favors and seeking to crush rivals, the former president is dominating the G.O.P., preparing for another race and helping loyalists oust officials who thwarted his attempted subversion of the 2020 election. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.politico.com/news/2022/04/17/house-dems-super-pac-latino-00025694">‘A slap in the face’: House Dems’ super PAC sparks Latino backlash</a> Politico: A newly drawn House district offered the prospect of electing Oregon’s first Latina to Congress. Then a top super PAC unexpectedly swooped in. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
@@ -290,8 +298,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/15/1093132507/the-bidens-paid-24-6-taxes-on-610-702-earnings-their-tax-returns-show">The Bidens paid a 24.6% tax rate on $610,702 in earnings, their filings show</a> NPR: Vice President Kamala Harris and her husband Doug Emhoff earned $1,655,563 in 2021 and paid $523,371 — a federal income tax rate of 31.6% — their tax filings show. 
  <p class="updated_time"> 03:22 PM CT, Apr. 15 </p> 
  <a href="https://www.politico.com/news/2022/04/15/biden-tax-return-00025643">Biden releases tax return, reports paying 24.6 percent rate</a> Politico: The bulk of the Bidens' earnings came from the president's salary. 
- <p class="updated_time"> 02:32 PM CT, Apr. 15 </p> 
- <a href="https://www.politico.com/news/2022/04/15/scott-pruitt-oklahoma-senate-epa-trump-00025628">Trump EPA chief Scott Pruitt files for Senate in Oklahoma</a> Politico: Pruitt is one of a number of former Trump administration officials running for Congress this year. 
  <p class="updated_time"> 02:26 PM CT, Apr. 15 </p> 
  <a href="https://www.politico.com/news/2022/04/15/iowa-supreme-court-finkenauer-senate-ballot-00025562">Iowa Supreme Court: Finkenauer qualifies for Senate ballot</a> Politico: The court’s decision leaves Finkenauer as the likely front-runner in a race with two lesser-known candidates ahead of Iowa’s June 7 primary. 
  <p class="updated_time"> 01:57 PM CT, Apr. 15 </p> 
@@ -320,16 +326,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/14/us/politics/charles-herbster-julie-slama-nebraska.html">Nebraska State Senator Says Candidate for Governor Groped Her</a> NYT: The state senator, Julie Slama, confirmed a news report saying that Charles Herbster, a leading candidate for governor, had touched her inappropriately in 2019. He denied the allegations. 
  <p class="updated_time"> 06:00 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/us/politics/biden-democrats-title-42-border.html">Democrats Face Tough Questions as a Border Saga Enters a New Chapter</a> NYT: We spoke with two White House correspondents for The New York Times, Zolan Kanno-Youngs and Michael D. Shear, about a Trump-era immigration policy that the Biden administration is ending. 
- <p class="updated_time"> 05:14 PM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/14/us/politics/pfizer-boosters-children.html">Pfizer Says Booster Strengthens Immune Response for Children 5 to 11</a> NYT: Pfizer and BioNTech will soon ask the Food and Drug Administration for emergency authorization of Covid booster doses for that age group, the companies said. 
- <p class="updated_time"> 04:54 PM CT, Apr. 14 </p> 
- <a href="https://www.npr.org/2022/04/14/1092916451/republicans-say-theyre-quitting-the-biased-commission-on-presidential-debates">Republicans say they're quitting the 'biased' Commission on Presidential Debates</a> NPR: Republican National Committee chairwoman Ronna McDaniel claims that the commission "refused to enact simple and commonsense reforms to help ensure fair debates." 
  <p class="updated_time"> 04:47 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/us/politics/dustin-thompson-jan-6-trial.html">Ohio Man Who Blamed Trump for Storming the Capitol Is Found Guilty</a> NYT: Dustin Thompson was the first defendant tried for his role in the Jan. 6, 2021, attack to use a Trump-made-me-do-it defense in front of a jury. He was convicted on all six charges against him. 
  <p class="updated_time"> 04:26 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/us/politics/isis-beatles-el-shafee-elsheikh.html">British Militant Convicted for Role in Deaths of Americans</a> NYT: The verdict capped a two-week trial that featured the testimony of former captives who detailed relentless beatings, waterboarding and killings by an Islamic State cell known as the Beatles. 
- <p class="updated_time"> 04:18 PM CT, Apr. 14 </p> 
- <a href="https://www.npr.org/2022/04/14/1092870449/russia-ukraine-war-what-happened-today-april-14">Russia-Ukraine war: What happened today (April 14)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 02:42 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/us/politics/biden-judicial-nominees.html">Democrats Aim to Fill as Many Court Vacancies as Possible by End of 2022</a> NYT: Democrats aim to fill as many court vacancies as possible by the end of 2022, when Senate Republicans are in reach of winning control and slamming the brakes on President Biden’s picks. 
 
