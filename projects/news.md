@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:26 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 06:55 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">Live Updates: Ukraine’s Last Troops in Mariupol Hold On as Russia Demands Surrender</a> NYT: Gaining control of the southern port city would help Russia complete its coveted “land bridge” to occupied Crimea. Moscow struck military targets around Kyiv and Mykolaiv, in apparent retaliation for Ukraine’s sinking of a Russian warship. 
  <p class="updated_time"> 06:09 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/jerusalem-al-aqsa-mosque.html">Israeli Police Stop Muslim Worshipers From Entering Holy Site</a> NYT: Brief clashes broke out Sunday after the Israeli police blocked Muslim access to the Aqsa Mosque compound, known to Jews as Temple Mount, in order to prevent contact between Palestinians and Jewish visitors. 
@@ -17,7 +17,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/17/world/europe/asylum-system-britain-rwanda.html">The World’s Broken Promise of Asylum</a> NYT: Britain’s new plan to send thousands of asylum seekers to Rwanda exposes the fragile nature of the global refugee compact, which has always fallen prey to domestic politics. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/17/1084492602/photos-how-this-bolivian-all-female-skate-crew-is-celebrating-their-indigenous-r">PHOTOS: How this Bolivian all-female skate crew is celebrating their indigenous roots</a> NPR: The young women skateboard while wearing polleras, colorful, layered skirts worn by their country's indigenous Aymara and Quechua women. They want to show girls and women it's OK to be themselves. 
- <p class="updated_time"> 05:32 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 05:56 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender</a> WSJ: Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender 
  <p class="updated_time"> 05:23 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/passover-ramadan-easter-jerusalem.html">Rare Overlap of Holy Days Shows Jerusalem’s Promise and Problems</a> NYT: In its Old City, a Christian, a Jew and a Muslim marked Easter, Passover and Ramadan. To some, it’s a “symphony.” To others, a reminder of division. 
@@ -25,24 +25,24 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61133225?at_medium=RSS&at_campaign=KARANGA">North Korea tests new weapon 'to improve tactical nukes'</a> BBC: Kim Jong-un clapped as he watched the launch - a new indication of his intention to resume nuclear tests. 
  <p class="updated_time"> 04:59 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-russia-atrocities.html">‘They Are Gone, Vanished’: Missing Persons Haunt Ukrainian Village</a> NYT: In a Russian-occupied village, five men went off to feed cattle. Their relatives and neighbors are wondering what happened to them. 
+ <p class="updated_time"> 04:56 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/bidens-claim-of-russian-genocide-in-ukraine-adds-to-pressure-campaign-11650187802">Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign</a> WSJ: Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign 
  <p class="updated_time"> 04:44 AM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61133439?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Trucks stuck at Poland-Belarus border as EU sanctions deadline passes</a> BBC: An 80km queue formed on the Polish border ahead of a deadline for Russian trucks to leave the EU. 
- <p class="updated_time"> 04:32 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/bidens-claim-of-russian-genocide-in-ukraine-adds-to-pressure-campaign-11650187802">Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign</a> WSJ: Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign 
  <p class="updated_time"> 04:17 AM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61130841?at_medium=RSS&at_campaign=KARANGA">UK's Rwanda asylum plan the 'opposite of nature of God' - Welby</a> BBC: There were "serious ethical questions" over sending migrants to east Africa, Justin Welby says. 
- <p class="updated_time"> 03:32 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 03:56 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/mariupol-in-ruins-11650132943">After More Than a Month of Fighting, Much of Mariupol Lies in Ruins</a> WSJ: After More Than a Month of Fighting, Much of Mariupol Lies in Ruins 
- <p class="updated_time"> 02:32 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 02:56 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/inside-a-shanghai-mass-quarantine-center-no-showers-lights-on-24-7-11650187802">Inside a Shanghai Mass Quarantine Center: No Showers, Lights On 24/7</a> WSJ: Inside a Shanghai Mass Quarantine Center: No Showers, Lights On 24/7 
  <p class="updated_time"> 02:00 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/ukraine-children-cancer-treatment-memphis.html">Fighting for Her Life, Far From Ukraine</a> NYT: A 5-year-old Ukrainian girl with a brain tumor was one of several children brought for treatment in the United States after their country was invaded by Russia. 
  <p class="updated_time"> 02:00 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: The two countries’ militaries will be operating on open terrain well-suited for massed forces unlike earlier skirmishing around Kyiv. 
+ <p class="updated_time"> 01:56 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-oversees-tactical-weapons-test-near-his-mansion-11650160117">Kim Jong Un Oversees Tactical Weapons Test</a> WSJ: Kim Jong Un Oversees Tactical Weapons Test 
  <p class="updated_time"> 01:48 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/pope-francis-prays-for-peace-in-ukraine-and-warns-of-nuclear-war-11650192512">Pope Francis Prays for Peace in Ukraine, Warns of Nuclear War</a> WSJ: The pontiff, in his annual Easter message, continued his practice since the start of the war of lamenting the effects of the invasion on Ukraine without naming Russia as the aggressor. 
- <p class="updated_time"> 01:32 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-oversees-tactical-weapons-test-near-his-mansion-11650160117">Kim Jong Un Oversees Tactical Weapons Test</a> WSJ: Kim Jong Un Oversees Tactical Weapons Test 
  <p class="updated_time"> 01:01 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093234046/russia-strikes-ukraines-big-cities-bears-down-on-mariupol">Russia strikes Ukraine's big cities, bears down on Mariupol</a> NPR: Russian forces renewed missile strikes on Kyiv and intensified shelling of Kharkiv, Ukraine's second-largest city, in preparation for what is expected to be a full-scale Russian assault in the east. 
  <p class="updated_time"> 12:38 AM CT, Apr. 17 </p> 
