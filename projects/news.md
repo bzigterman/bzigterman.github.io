@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:49 PM CT, Apr. 17 </p> 
+ <a href="https://www.nytimes.com/2022/04/17/world/asia/death-toll-from-pakistani-airstrike-rises-to-45-afghan-officials-say.html">Death Toll From Pakistani Airstrike Rises to 45, Afghan Officials Say</a> NYT: The airstrikes in eastern Afghanistan early Saturday morning escalated already simmering tensions between the two countries. 
  <p class="updated_time"> 02:43 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/france-islam-le-pen-head-scarf.html">Marine Le Pen Proposes Ban on Muslim Women Wearing Head Scarves</a> NYT: Marine Le Pen, the far-right contender, has proposed a ban on Muslim women wearing head scarves in public. 
  <p class="updated_time"> 02:38 PM CT, Apr. 17 </p> 
@@ -23,16 +25,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/jerusalem-al-aqsa-mosque.html">Israeli Police Stop Muslim Worshipers From Entering Holy Site</a> NYT: An Islamist party said it was freezing its involvement in the coalition government after the Israeli police blocked Muslim access to the Aqsa Mosque compound to prevent clashes. 
  <p class="updated_time"> 01:57 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html">Days After the Sinking of the Russian Warship, Moskva, Questions Linger</a> NYT: A talk-show host, who usually reflects the Kremlin’s line, questioned how the ship was lost. 
- <p class="updated_time"> 01:45 PM CT, Apr. 17 </p> 
+ <p class="updated_time"> 01:56 PM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
  <p class="updated_time"> 01:31 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61135901?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol defenders will fight to the end says PM</a> BBC: PM Denys Shmyhal says the city has not fallen to Russian forces because of the determined defence. 
  <p class="updated_time"> 01:24 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/pope-francis-easter-ukraine.html">Pope Speaks of Ukraine’s Suffering on ‘an Easter of War’</a> NYT: In his blessing to pilgrims, Pope Francis quoted a manifesto against nuclear weapons and said conflict in Europe should bring increased attention to violence around the world. 
+ <p class="updated_time"> 12:56 PM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Ukrainian Forces in Mariupol Rebuff Russian Ultimatum to Surrender</a> WSJ: Ukrainian Forces in Mariupol Rebuff Russian Ultimatum to Surrender 
  <p class="updated_time"> 12:47 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/lviv-easter-sunday-ukraine-russia-war.html">Worshipers Fill Pews in Lviv on Easter Sunday for Services That Remember War</a> NYT: Commemorations in Ukraine’s small Roman Catholic community combined ancient traditions with the reality of the war. 
- <p class="updated_time"> 12:45 PM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Ukrainian Forces in Mariupol Rebuff Russian Ultimatum to Surrender</a> WSJ: Ukrainian Forces in Mariupol Rebuff Russian Ultimatum to Surrender 
  <p class="updated_time"> 12:29 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61135091?at_medium=RSS&at_campaign=KARANGA">Older residents of the east reluctant to hit the road</a> BBC: While young Ukrainians have moved to safety, many older residents say they have no choice but to stay. 
  <p class="updated_time"> 12:25 PM CT, Apr. 17 </p> 
@@ -43,16 +45,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/17/world/europe/asylum-system-britain-rwanda.html">The World’s Broken Promise of Asylum</a> NYT: Britain’s new plan to send thousands of asylum seekers to Rwanda exposes the fragile nature of the global refugee compact, which has always fallen prey to domestic politics. 
  <p class="updated_time"> 11:58 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/yemen-houthis-gulf.html">Yemen’s Houthis Went From Ragtag Militia to Force Threatening Gulf Powers</a> NYT: Iran’s cultivation of the Houthis over the years of war in Yemen has armed them with missiles and drones, endangering Washington’s partners and Tehran’s rivals, Saudi Arabia and the United Arab Emirates. 
+ <p class="updated_time"> 11:56 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/bidens-claim-of-russian-genocide-in-ukraine-adds-to-pressure-campaign-11650187802">Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign</a> WSJ: Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign 
  <p class="updated_time"> 11:49 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/passover-ramadan-easter-jerusalem.html">Rare Overlap of Holy Days Shows Jerusalem’s Promise and Problems</a> NYT: In its Old City, a Christian, a Jew and a Muslim marked Easter, Passover and Ramadan. To some, it’s a “symphony.” To others, a reminder of division. 
- <p class="updated_time"> 11:45 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/bidens-claim-of-russian-genocide-in-ukraine-adds-to-pressure-campaign-11650187802">Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign</a> WSJ: Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign 
- <p class="updated_time"> 10:45 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 10:56 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/passover-jews-abraham-accords-u-a-e-11650048749">Growing Jewish Community Goes Big for Passover in Another Dubai First</a> WSJ: Growing Jewish Community Goes Big for Passover in Another Dubai First 
+ <p class="updated_time"> 10:46 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-pushed-yemens-elected-president-to-step-aside-saudi-and-yemeni-officials-say-11650224802">Saudi Arabia Pushed Yemen's President to Step Aside, Saudi and Yemeni Officials Say</a> WSJ: Abed Rabbo Mansour Hadi handed power to a council of representatives of Yemeni groups, as Saudi Arabia looks for ways to end a seven-year civil war in Yemen that has caused a humanitarian crisis. 
+ <p class="updated_time"> 09:56 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/israeli-police-palestinians-clash-in-jerusalem-amid-rising-tensions-11650198749">Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions</a> WSJ: Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions 
  <p class="updated_time"> 09:56 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/pope-francis-ukraine-war-easter.html">Pope Calls for Peace in Ukraine on What He Called ‘Easter of War’</a> NYT: Instead of learning from the heavy toll taken by the pandemic, and emerging with strengthened solidarity, rivalry had prevailed, the pope said. 
- <p class="updated_time"> 09:45 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/israeli-police-palestinians-clash-in-jerusalem-amid-rising-tensions-11650198749">Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions</a> WSJ: Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions 
  <p class="updated_time"> 07:49 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093240589/amongst-division-in-france-one-interfaith-group-comes-together-to-celebrate-rama">Amongst division in France, one interfaith group comes together to celebrate Ramadan</a> NPR: A group of women in an interfaith group gathered for dinner to mark the start of Ramadan during a divisive presidential election. 
  <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
@@ -127,8 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/16/world/asia/peng-ming-min-dead.html">Peng Ming-min, Fighter for Democracy in Taiwan, Dies at 98</a> NYT: He endured Japanese imperial rule, a lost limb in World War II, Chinese martial law and decades in exile to become a leading force for Taiwanese self-determination. 
  <p class="updated_time"> 10:27 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61111425?at_medium=RSS&at_campaign=KARANGA">Angella Okutoyi: Kenya's rising tennis star</a> BBC: After playing in the Australian Open, could Kenyan Angella Okutoyi emulate her hero Serena Williams? 
- <p class="updated_time"> 09:48 AM CT, Apr. 16 </p> 
- <a href="https://www.nytimes.com/2022/04/14/world/europe/barentsburg-norway-ukraine-war-russia.html">Tensions Over the Ukraine War Deepen the Chill Near the North Pole</a> NYT: The war and the comments of a Russian diplomat have strained relations on an archipelago in Norway where Russians, Ukrainians and Norwegians have lived peacefully for decades. 
  <p class="updated_time"> 09:10 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61123590?at_medium=RSS&at_campaign=KARANGA">Patrick Lyoya: Could rethink of US police traffic stops save lives?</a> BBC: The death of a black man in Michigan after a traffic stop raises questions about police use of force. 
  <p class="updated_time"> 08:57 AM CT, Apr. 16 </p> 
