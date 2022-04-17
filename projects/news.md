@@ -9,24 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:03 PM CT, Apr. 17 </p> 
+ <p class="updated_time"> 06:43 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">Live Updates: Ukraine’s Last Troops in Mariupol Hold On as Russia Demands Surrender</a> NYT: Ukraine’s prime minister said that Ukrainian soldiers in the besieged southern port city would stay put and “fight until the end.” Moscow struck military targets around Kyiv and Mykolaiv, in apparent retaliation for the sinking of a Russian warship. 
+ <p class="updated_time"> 06:29 PM CT, Apr. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61040359?at_medium=RSS&at_campaign=KARANGA">Captagon: Jordan's undeclared war against Syria drug traffickers</a> BBC: Soldiers have a shoot-to-kill policy to stop millions of Captagon pills being smuggled from Syria. 
+ <p class="updated_time"> 06:22 PM CT, Apr. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61137047?at_medium=RSS&at_campaign=KARANGA">Mariupol ‘doesn’t exist anymore’, says Ukraine’s FM Dmytro Kuleba</a> BBC: Dmytro Kuleba told CBS’s Face the Nation Russian troops have “decided to raze the city to the ground". 
+ <p class="updated_time"> 06:14 PM CT, Apr. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61111613?at_medium=RSS&at_campaign=KARANGA">Nigeria's Spider-Man fighting for a cleaner society</a> BBC: Jonathan Olakunle is fighting for a cleaner society in Osogbo, Nigeria. 
  <p class="updated_time"> 05:58 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61111405?at_medium=RSS&at_campaign=KARANGA">Sri Lanka healthcare on verge of collapse in economic crisis</a> BBC: Doctors warn of catastrophe in Sri Lanka where medical supplies are running out in the financial crisis. 
- <p class="updated_time"> 05:14 PM CT, Apr. 17 </p> 
+ <p class="updated_time"> 05:58 PM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Ukrainian Forces in Mariupol Rebuff Russian Ultimatum to Surrender</a> WSJ: Ukrainian Forces in Mariupol Rebuff Russian Ultimatum to Surrender 
+ <p class="updated_time"> 04:58 PM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
  <p class="updated_time"> 04:49 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/us/second-covid-booster-60.html">Americans Over 60 Should Get Second Booster, Official Says</a> NYT: Citing data from Israel, the Biden administration’s Covid response coordinator said a second booster offered significant protection to older people. 
  <p class="updated_time"> 04:33 PM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093198718/russia-ukraine-war-what-happened-today-april-17">Russia-Ukraine war: What happened today (April 17) </a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:14 PM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
+ <p class="updated_time"> 03:58 PM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-pushed-yemens-elected-president-to-step-aside-saudi-and-yemeni-officials-say-11650224802">Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say</a> WSJ: Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say 
  <p class="updated_time"> 03:15 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61135894?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Ukraine defies Mariupol deadline as Kharkiv shelled</a> BBC: Mariupol defenders ignore Russian calls to surrender, as Kharkiv and other cities face more shelling. 
- <p class="updated_time"> 03:14 PM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-pushed-yemens-elected-president-to-step-aside-saudi-and-yemeni-officials-say-11650224802">Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say</a> WSJ: Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say 
  <p class="updated_time"> 03:09 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/asia/afghanistan-airstrikes-pakistan.html">Death Toll From Pakistani Airstrike Rises to 45, Afghan Officials Say</a> NYT: The airstrikes in eastern Afghanistan early Saturday morning escalated already simmering tensions between the two countries. 
+ <p class="updated_time"> 02:58 PM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/passover-jews-abraham-accords-u-a-e-11650048749">Now in Dubai: Passover Celebrations</a> WSJ: Now in Dubai: Passover Celebrations 
  <p class="updated_time"> 02:56 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/jerusalem-al-aqsa-mosque.html">Israeli Police Stop Muslim Worshipers From Entering Holy Site</a> NYT: An Islamist party said it was freezing its involvement in the coalition government after the Israeli police blocked Muslim access to the Aqsa Mosque compound to prevent clashes. 
  <p class="updated_time"> 02:43 PM CT, Apr. 17 </p> 
@@ -35,16 +43,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/17/world/ukraine-children-cancer-treatment-memphis.html">Fighting for Her Life, Far From Ukraine</a> NYT: A 5-year-old Ukrainian girl with a brain tumor was one of several children brought for treatment in the United States after their country was invaded by Russia. 
  <p class="updated_time"> 02:20 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61134734?at_medium=RSS&at_campaign=KARANGA">Unrest in Sweden over planned Quran burnings</a> BBC: There is ongoing unrest over a far-right group which burned a copy of the Quran, and planned to do so again. 
- <p class="updated_time"> 02:14 PM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/passover-jews-abraham-accords-u-a-e-11650048749">Now in Dubai: Passover Celebrations</a> WSJ: Now in Dubai: Passover Celebrations 
+ <p class="updated_time"> 01:58 PM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/israeli-police-palestinians-clash-in-jerusalem-amid-rising-tensions-11650198749">Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions</a> WSJ: Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions 
  <p class="updated_time"> 01:57 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html">Days After the Sinking of the Russian Warship, Moskva, Questions Linger</a> NYT: A talk-show host, who usually reflects the Kremlin’s line, questioned how the ship was lost. 
  <p class="updated_time"> 01:31 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61135901?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol defenders will fight to the end says PM</a> BBC: PM Denys Shmyhal says the city has not fallen to Russian forces because of the determined defence. 
  <p class="updated_time"> 01:24 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/pope-francis-easter-ukraine.html">Pope Speaks of Ukraine’s Suffering on ‘an Easter of War’</a> NYT: In his blessing to pilgrims, Pope Francis quoted a manifesto against nuclear weapons and said conflict in Europe should bring increased attention to violence around the world. 
- <p class="updated_time"> 01:14 PM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/israeli-police-palestinians-clash-in-jerusalem-amid-rising-tensions-11650198749">Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions</a> WSJ: Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions 
  <p class="updated_time"> 12:47 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/lviv-easter-sunday-ukraine-russia-war.html">Worshipers Fill Pews in Lviv on Easter Sunday for Services That Remember War</a> NYT: Commemorations in Ukraine’s small Roman Catholic community combined ancient traditions with the reality of the war. 
  <p class="updated_time"> 12:29 PM CT, Apr. 17 </p> 
@@ -145,8 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/16/1093189754/pakistans-former-prime-minister-imran-khan-is-fighting-his-ouster">Pakistan's former Prime Minister Imran Khan is fighting his ouster</a> NPR: Pakistan's Imran Kahn has been ousted from leadership, but the former prime minister is not going quietly. 
  <p class="updated_time"> 05:00 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/canada/quebec-caribou-conservation.html">In Quebec, the Clash Over Caribou Heats Up</a> NYT: Canada is threatening to use, for the first time, a provision in endangered species legislation to intervene and force caribou habitat protection in Quebec. 
- <p class="updated_time"> 12:29 AM CT, Apr. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61089853?at_medium=RSS&at_campaign=KARANGA">Tropical Storm Megi: Landslides and floods kill 167 in Philippines</a> BBC: Tropical Storm Megi devastated the country on Sunday, with houses washed out to sea in one village. 
  <p class="updated_time"> 08:43 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/technology/russia-media-fox-news.html">How Russian Media Uses Fox News to Make Its Case</a> NYT: The conservative network has appeared hundreds of times in Russian media. 
  <p class="updated_time"> 07:51 PM CT, Apr. 15 </p> 
@@ -159,18 +163,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61092878?at_medium=RSS&at_campaign=KARANGA">DR Congo conflict: Hiding on top of a hill to escape the rebels</a> BBC: Some 50,000 people have found a place of sanctuary from the myriad armed groups in eastern DR Congo. 
  <p class="updated_time"> 07:10 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/video/world/100000008272335/russia-disinformation-moldova.html">Journey to Transnistria: Inside Russia’s Disinformation Bubble</a> NYT: We traveled inside Transnistria, a Moscow-backed breakaway state in Moldova, to find out how Russia’s disinformation campaign stretches beyond its borders. 
- <p class="updated_time"> 06:48 PM CT, Apr. 15 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-61098288?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 9-15 April 2022</a> BBC: A selection of striking images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 06:26 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-us-weapons-warning.html">Girding for New Battle, Russia Warns U.S. on Advanced Weapons for Ukraine</a> NYT: The warnings were regarded as a sign that American military assistance to Ukraine was compounding problems for the Russians in their two-month-old invasion. 
- <p class="updated_time"> 06:13 PM CT, Apr. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61079732?at_medium=RSS&at_campaign=KARANGA">Merle Oberon: India's forgotten Hollywood star</a> BBC: Merle Oberon rose to stardom in the West while furtively hiding the truth of her past in India. 
  <p class="updated_time"> 06:02 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61099213?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Minesweeping dog helps clear Chernihiv of Russian explosives</a> BBC: Patron, a Jack Russell, has so far helped to remove hundreds of explosive devices. 
  <p class="updated_time"> 06:02 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61110910?at_medium=RSS&at_campaign=KARANGA">Chernihiv is silent, after having been under constant attack from Russian forces</a> BBC: The Ukrainian city of Chernihiv was under constant attack until suddenly Russian forces withdrew. 
- <p class="updated_time"> 06:00 PM CT, Apr. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61117738?at_medium=RSS&at_campaign=KARANGA">Covid China: Elderly deaths contradict Shanghai figures</a> BBC: Official figures claim there have been no Covid deaths in the current outbreak. 
  <p class="updated_time"> 05:13 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/shanghai-covid-isolation-quarantine.html">Shanghai’s Isolation Facilities Have Prompted a Backlash</a> NYT: Hundreds of thousands of Shanghai residents have been sent to quarantine and isolation facilities. One woman described her ordeal. 
  <p class="updated_time"> 04:56 PM CT, Apr. 15 </p> 
@@ -195,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/world/europe/boris-johnson-fines-covid-reactions.html">Families of U.K. Covid Victims React to Boris Johnson Fines</a> NYT: Those unable to be with dying loved ones find no satisfaction or closure with the penalty Prime Minister Boris Johnson faces for breaking lockdown rules. 
  <p class="updated_time"> 09:26 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/kim-jong-un-ri-chun-hee-luxury-home.html">Kim Jong-un Gives North Korean TV Anchor a Luxury Home</a> NYT: Ri Chun-hee, who delivers the news with a soaring, bombastic tenor, received a two-story apartment in a riverside complex from the country’s leader, apparently for her loyalty. 
- <p class="updated_time"> 09:20 AM CT, Apr. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61120574?at_medium=RSS&at_campaign=KARANGA">Undocumented lotto winner struggles to claim prize</a> BBC: An Algerian man in Belgium is fighting to claim his €250,000 winnings because of his status. 
  <p class="updated_time"> 09:08 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/arts/olga-smirnova-ballet-bolshoi-ukraine-war.html">Russia’s Storied Ballet Is Among the Casualties of War</a> NYT: Ballet has long been a symbol of Russian culture. Now it is becoming a symbol of Russian isolation. 
  <p class="updated_time"> 08:25 AM CT, Apr. 15 </p> 
@@ -207,8 +203,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/world/australia/quiz-time-on-the-campaign-trail.html">Quiz Time on the Campaign Trail</a> NYT: Several “gotcha” questions for candidates, including one that Anthony Albanese got wrong, raise deeper questions about the quality of the nation’s political discourse. 
  <p class="updated_time"> 02:09 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/a-reporter-covering-the-war-reflects-on-the-legacy-of-the-holocaust.html">A reporter covering the war reflects on the legacy of the Holocaust.</a> NYT: In eastern Poland, perceptions of Russia and Ukraine are shaped by a traumatic past. 
- <p class="updated_time"> 01:28 AM CT, Apr. 15 </p> 
- <a href="https://www.bbc.co.uk/news/business-61117092?at_medium=RSS&at_campaign=KARANGA">Former Twitter exec questions seriousness of Musk offer</a> BBC: Vivian Schiller, who used to work there, tells Newsnight Elon Musk enjoys "throwing bombs" on Twitter. 
 
 
 </details>
@@ -320,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/14/us/politics/stephen-miller-january-6-committee.html">Jan. 6 Panel Presses Stephen Miller on Whether Trump Sought to Incite Crowd</a> NYT: In about eight hours of questioning, investigators pressed the former White House aide on former President Donald J. Trump’s use of “we” in his speech to supporters before the riot. 
  <p class="updated_time"> 07:32 PM CT, Apr. 14 </p> 
  <a href="https://www.npr.org/2022/04/14/1092966576/ukraine-flag-projected-lights-protest-russian-embassy-washington-dc">Meet the activists who projected a giant Ukrainian flag on Russia's Embassy in D.C.</a> NPR: Demonstrators used high-powered lights to project the Ukrainian flag onto the walls of the Russian Embassy in Washington, D.C. The Russians tried to outshine the flags with a spotlight, but failed. 
- <p class="updated_time"> 06:47 PM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/14/us/politics/charles-herbster-julie-slama-nebraska.html">Nebraska State Senator Says Candidate for Governor Groped Her</a> NYT: The state senator, Julie Slama, confirmed a news report saying that Charles Herbster, a leading candidate for governor, had touched her inappropriately in 2019. He denied the allegations. 
 
 
 </details>
