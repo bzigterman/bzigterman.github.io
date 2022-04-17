@@ -9,38 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:40 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 06:11 AM CT, Apr. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">Ukraine Live Updates: Zelensky Signals That Mariupol Is Close To Falling</a> NYT: A Russian official said it was time for the Ukrainian soldiers still in the port city to lay down their arms. Gaining control of Mariupol would  help Russia complete a much coveted “land bridge” to occupied Crimea. 
+ <p class="updated_time"> 06:09 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/jerusalem-al-aqsa-mosque.html">Israeli Police Stop Muslim Worshipers From Entering Holy Site</a> NYT: Brief clashes broke out Sunday after the Israeli police blocked Muslim access to the Aqsa Mosque compound, known to Jews as Temple Mount, in order to prevent contact between Palestinians and Jewish visitors. 
+ <p class="updated_time"> 06:03 AM CT, Apr. 17 </p> 
+ <a href="https://www.nytimes.com/2022/04/17/world/europe/asylum-system-britain-rwanda.html">The World’s Broken Promise of Asylum</a> NYT: Britain’s new plan to send thousands of asylum seekers to Rwanda exposes the fragile nature of the global refugee compact, which has always fallen prey to domestic politics. 
+ <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/04/17/1084492602/photos-how-this-bolivian-all-female-skate-crew-is-celebrating-their-indigenous-r">PHOTOS: How this Bolivian all-female skate crew is celebrating their indigenous roots</a> NPR: The young women skateboard while wearing polleras, colorful, layered skirts worn by their country's indigenous Aymara and Quechua women. They want to show girls and women it's OK to be themselves. 
  <p class="updated_time"> 05:23 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/passover-ramadan-easter-jerusalem.html">Rare Overlap of Holy Days Shows Jerusalem’s Promise and Problems</a> NYT: In its Old City, a Christian, a Jew and a Muslim marked Easter, Passover and Ramadan. To some, it’s a “symphony.” To others, a reminder of division. 
+ <p class="updated_time"> 05:21 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
+ <p class="updated_time"> 05:04 AM CT, Apr. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61133225?at_medium=RSS&at_campaign=KARANGA">North Korea tests new weapon 'to improve tactical nukes'</a> BBC: Kim Jong-un clapped as he watched the launch - a new indication of his intention to resume nuclear tests. 
  <p class="updated_time"> 04:59 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-russia-atrocities.html">‘They Are Gone, Vanished’: Missing Persons Haunt Ukrainian Village</a> NYT: In a Russian-occupied village, five men went off to feed cattle. Their relatives and neighbors are wondering what happened to them. 
- <p class="updated_time"> 04:49 AM CT, Apr. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">Ukraine Live Updates: Zelensky Signals That Mariupol Is Close To Falling</a> NYT: A Russian official said it was time for the Ukrainian soldiers still in the port city to lay down their arms. Gaining control of Mariupol would  help Russia complete a much coveted “land bridge” to occupied Crimea. 
- <p class="updated_time"> 04:46 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender</a> WSJ: Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender 
  <p class="updated_time"> 04:44 AM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61133439?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Trucks stuck at Poland-Belarus border as EU sanctions deadline passes</a> BBC: An 80km queue formed on the Polish border ahead of a deadline for Russian trucks to leave the EU. 
+ <p class="updated_time"> 04:21 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender</a> WSJ: Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender 
  <p class="updated_time"> 04:17 AM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61130841?at_medium=RSS&at_campaign=KARANGA">UK's Rwanda asylum plan the 'opposite of nature of God' - Welby</a> BBC: There were "serious ethical questions" over sending migrants to east Africa, Justin Welby says. 
- <p class="updated_time"> 04:00 AM CT, Apr. 17 </p> 
- <a href="https://www.nytimes.com/2022/04/17/world/europe/asylum-system-britain-rwanda.html">The World’s Broken Promise of Asylum</a> NYT: Britain’s new plan to send thousands of asylum seekers to Rwanda exposes the fragile nature of the global refugee compact, which has always fallen prey to domestic politics. 
- <p class="updated_time"> 03:46 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 03:21 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/bidens-claim-of-russian-genocide-in-ukraine-adds-to-pressure-campaign-11650187802">Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign</a> WSJ: Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign 
- <p class="updated_time"> 02:46 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 02:21 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/mariupol-in-ruins-11650132943">After More Than a Month of Fighting, Much of Mariupol Lies in Ruins</a> WSJ: After More Than a Month of Fighting, Much of Mariupol Lies in Ruins 
  <p class="updated_time"> 02:00 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/ukraine-children-cancer-treatment-memphis.html">Fighting for Her Life, Far From Ukraine</a> NYT: A 5-year-old Ukrainian girl with a brain tumor was one of several children brought for treatment in the United States after their country was invaded by Russia. 
- <p class="updated_time"> 01:46 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/inside-a-shanghai-mass-quarantine-center-no-showers-lights-on-24-7-11650187802">Inside a Shanghai Mass Quarantine Center: No Showers, Lights On 24/7</a> WSJ: Inside a Shanghai Mass Quarantine Center: No Showers, Lights On 24/7 
+ <p class="updated_time"> 01:48 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/pope-francis-prays-for-peace-in-ukraine-and-warns-of-nuclear-war-11650192512">Pope Francis Prays for Peace in Ukraine, Warns of Nuclear War</a> WSJ: The pontiff, in his annual Easter message, continued his practice since the start of the war of lamenting the effects of the invasion on Ukraine without naming Russia as the aggressor. 
  <p class="updated_time"> 01:01 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093234046/russia-strikes-ukraines-big-cities-bears-down-on-mariupol">Russia strikes Ukraine's big cities, bears down on Mariupol</a> NPR: Russian forces renewed missile strikes on Kyiv and intensified shelling of Kharkiv, Ukraine's second-largest city, in preparation for what is expected to be a full-scale Russian assault in the east. 
- <p class="updated_time"> 12:46 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-oversees-tactical-weapons-test-near-his-mansion-11650160117">Kim Jong Un Oversees Tactical Weapons Test</a> WSJ: Kim Jong Un Oversees Tactical Weapons Test 
  <p class="updated_time"> 12:38 AM CT, Apr. 17 </p> 
- <a href="https://www.npr.org/2022/04/17/1093233899/israel-police-enter-flashpoint-jerusalem-holy-site-arrest-2">Israel police enter flashpoint Jerusalem holy site, arrest 2</a> NPR: Israeli police have entered the Al-Aqsa Mosque compound, a sensitive Jerusalem holy site, two days after clashes with Palestinians. 
+ <a href="https://www.npr.org/2022/04/17/1093233899/israel-police-enter-flashpoint-jerusalem-holy-site-arrest-2">Clashes erupt again near flashpoint Jerusalem holy site</a> NPR: Israeli police on Sunday entered the Al-Aqsa Mosque compound in Jerusalem's Old City to secure the way for Jewish visitors to the holy site, fueling clashes that left 17 Palestinians wounded. 
+ <p class="updated_time"> 12:30 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/inside-a-shanghai-mass-quarantine-center-no-showers-lights-on-24-7-11650187802">Inside a Shanghai Quarantine Center: No Showers, Lights On 24/7</a> WSJ: Almost three weeks of forced isolation after a positive Covid-19 test made Jane Polubotko, a Ukrainian, feel like a “Covid criminal.” 
  <p class="updated_time"> 12:14 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093231790/north-korea-says-it-tested-new-tactical-guided-weapon">North Korea says it tested new tactical guided weapon</a> NPR: North Korea has test-fired a new type of tactical guided weapon designed to boost its nuclear fighting capability, state media reported Sunday, days after it passed its biggest state anniversary. 
+ <p class="updated_time"> 11:29 PM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-oversees-tactical-weapons-test-near-his-mansion-11650160117">Kim Jong Un Oversees Tactical Weapons Test</a> WSJ: The North Korean leader oversaw the test-firing of a new type of tactical guided weapon aimed at boosting the country’s nuclear capabilities, following a series of provocative missile launches that allow Pyongyang to diversify its arsenal. 
  <p class="updated_time"> 10:55 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/french-election-macron-le-pen.html">Macron Vows Ambitious Green Policies, Wooing the Left in Runoff</a> NYT: France’s president is trying to tap into the country’s large pool of left-wing voters, but many are hesitant to back him. 
  <p class="updated_time"> 10:50 PM CT, Apr. 16 </p> 
@@ -115,8 +123,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/16/world/canada/quebec-caribou-conservation.html">In Quebec, the Clash Over Caribou Heats Up</a> NYT: Canada is threatening to use, for the first time, a provision in endangered species legislation to intervene and force caribou habitat protection in Quebec. 
  <p class="updated_time"> 04:11 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/61107685?at_medium=RSS&at_campaign=KARANGA">Durban floods: Is it a consequence of climate change?</a> BBC: KwaZulu-Natal province has seen some serious flooding, but there isn't one clear explanation. 
- <p class="updated_time"> 04:00 AM CT, Apr. 16 </p> 
- <a href="https://www.npr.org/2022/04/16/1092811802/russia-putin-bush-texas-summit-crawford">With Bush in 2001, Putin sought to charm students at a rural Texas high school</a> NPR: Back in 2001, Vladimir Putin was seeking respect from world leaders while pledging a new openness in Russia. That's what brought him to tiny Crawford, Texas, at the invite of President George W. Bush. 
  <p class="updated_time"> 12:29 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61089853?at_medium=RSS&at_campaign=KARANGA">Tropical Storm Megi: Landslides and floods kill 167 in Philippines</a> BBC: Tropical Storm Megi devastated the country on Sunday, with houses washed out to sea in one village. 
  <p class="updated_time"> 08:43 PM CT, Apr. 15 </p> 
@@ -222,6 +228,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
+ <a href="https://www.politico.com/news/2022/04/17/house-dems-super-pac-latino-00025694">‘A slap in the face’: House Dems’ super PAC sparks Latino backlash</a> Politico: A newly drawn House district offered the prospect of electing Oregon’s first Latina to Congress. Then a top super PAC unexpectedly swooped in. 
+ <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
+ <a href="https://www.politico.com/news/2022/04/17/los-angeles-mayoral-race-crime-priorities-00025445">Crime upstages progressive priorities in Los Angeles mayor's race</a> Politico: The debate in Los Angeles is becoming a familiar story in big-city mayoral politics. 
  <p class="updated_time"> 04:00 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/04/17/1093113623/washington-long-term-care">Washington state retools a first-in-nation payroll tax plan for long-term care costs</a> NPR: The WA Cares Fund would help alleviate the financial burden of long-term care by providing workers a lifetime benefit of $36,500. The program was delayed while lawmakers addressed equity issues. 
  <p class="updated_time"> 02:00 AM CT, Apr. 17 </p> 
@@ -246,10 +256,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/16/1093189677/week-in-politics-u-s-sends-more-money-to-ukraine-inflation-up-midterms-approach">Week in politics: U.S. sends more money to Ukraine; inflation up; midterms approach</a> NPR: President Biden's support for Ukraine has not garnered enthusiasm from the U.S. public. Another inflation record. And the Republicans drop out of presidential debates. 
  <p class="updated_time"> 06:01 AM CT, Apr. 16 </p> 
  <a href="https://www.politico.com/news/2022/04/16/eric-adams-100-days-top-10-00024620">#Fishgate to A$AP Rocky: Top 10 standout moments from Eric Adams' first 100 days</a> Politico: From the tragic to the triumphant, New York's mayor has stolen the headlines in his first few months in office. 
- <p class="updated_time"> 06:01 AM CT, Apr. 16 </p> 
- <a href="https://www.politico.com/news/2022/04/16/sense-of-urgency-for-hhs-climate-change-office-00025654">'Sense of urgency' for HHS climate change office</a> Politico: Lack of dedicated funding and staffing threaten its health-equity goal. 
- <p class="updated_time"> 06:00 AM CT, Apr. 16 </p> 
- <a href="https://www.politico.com/news/2022/04/16/rights-of-nature-law-clinic-faces-transphobia-allegations-00024934">‘Rights of nature’ law clinic faces transphobia allegations</a> Politico: Three people who've quit the nonprofit Community Environmental Legal Defense Fund say the group resisted efforts to make it more inclusive for LGBTQ people. 
  <p class="updated_time"> 04:00 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1092811802/russia-putin-bush-texas-summit-crawford">With Bush in 2001, Putin sought to charm students at a rural Texas high school</a> NPR: Back in 2001, Vladimir Putin was seeking respect from world leaders while pledging a new openness in Russia. That's what brought him to tiny Crawford, Texas, at the invite of President George W. Bush. 
  <p class="updated_time"> 10:12 PM CT, Apr. 15 </p> 
@@ -310,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/15/1093006012/the-rnc-is-severing-ties-with-the-nonprofit-that-runs-presidential-debates">The RNC is severing ties with the nonprofit that runs presidential debates</a> NPR: The Republican National Committee voted unanimously on Thursday to withdraw from the Commission on Presidential Debates, calling the organization biased. 
  <p class="updated_time"> 04:16 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093005977/ex-trump-whitehouse-press-secretary-is-now-working-against-the-former-president">Ex-Trump White House press secretary is now working against the former president</a> NPR: Stephanie Grisham has moved to a remote, Trump-loving Kansas town, where she's crafting an argument against the former president that respects her neighbor's devotion to him. 
- <p class="updated_time"> 03:30 AM CT, Apr. 15 </p> 
- <a href="https://www.politico.com/gallery/2022/04/15/the-nations-cartoonists-on-the-week-in-politics-00025427">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 03:30 AM CT, Apr. 15 </p> 
  <a href="https://www.politico.com/news/2022/04/15/gop-dealmakers-house-kevin-mccarthy-00025261">Seeking: GOP dealmakers who won't 'burn the House down'. Apply to: Kevin McCarthy.</a> Politico: The undisputed frontrunner for speaker next year is set to lose a half-dozen Republicans from his conference who prefer negotiating to obstinacy. That could be a problem. 
  <p class="updated_time"> 08:52 PM CT, Apr. 14 </p> 
