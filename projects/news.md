@@ -9,15 +9,19 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:32 PM CT, Apr. 17 </p> 
+ <p class="updated_time"> 01:57 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">Live Updates: Ukraine’s Last Troops in Mariupol Hold On as Russia Demands Surrender</a> NYT: Gaining control of the southern port city would help Russia complete its coveted “land bridge” to occupied Crimea. Moscow struck military targets around Kyiv and Mykolaiv, in apparent retaliation for Ukraine’s sinking of a Russian warship. 
+ <p class="updated_time"> 01:57 PM CT, Apr. 17 </p> 
+ <a href="https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html">Days After the Sinking of the Russian Warship, Moskva, Questions Linger</a> NYT: A talk-show host, who usually reflects the Kremlin’s line, questioned how the ship was lost. 
+ <p class="updated_time"> 01:55 PM CT, Apr. 17 </p> 
+ <a href="https://www.nytimes.com/2022/04/17/world/middleeast/jerusalem-al-aqsa-mosque.html">Israeli Police Stop Muslim Worshipers From Entering Holy Site</a> NYT: An Islamist party said it was freezing its involvement in the coalition government after the Israeli police blocked Muslim access to the Aqsa Mosque compound to prevent clashes. 
  <p class="updated_time"> 01:31 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61135901?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol defenders will fight to the end' - PM</a> BBC: PM Denys Shmyhal says the city has not fallen to Russian forces because of the determined defence. 
  <p class="updated_time"> 01:30 PM CT, Apr. 17 </p> 
- <a href="https://www.nytimes.com/2022/04/17/world/europe/france-islam-le-pen-head-scarf.html">As Final Vote Nears in France, a Debate Over Islam and Head Scarves</a> NYT: Marine Le Pen, the far-right contender, has proposed a ban on Muslim women wearing head scarves in public. 
+ <a href="https://www.nytimes.com/2022/04/17/world/europe/france-islam-le-pen-head-scarf.html">Marine Le Pen Proposes Ban on Muslim Women Wearing Head Scarves</a> NYT: Marine Le Pen, the far-right contender, has proposed a ban on Muslim women wearing head scarves in public. 
  <p class="updated_time"> 01:24 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/pope-francis-easter-ukraine.html">Pope Speaks of Ukraine’s Suffering on ‘an Easter of War’</a> NYT: In his blessing to pilgrims, Pope Francis quoted a manifesto against nuclear weapons and said conflict in Europe should bring increased attention to violence around the world. 
- <p class="updated_time"> 12:49 PM CT, Apr. 17 </p> 
+ <p class="updated_time"> 01:01 PM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
  <p class="updated_time"> 12:47 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/lviv-easter-sunday-ukraine-russia-war.html">Worshipers Fill Pews in Lviv on Easter Sunday for Services That Remember War</a> NYT: Commemorations in Ukraine’s small Roman Catholic community combined ancient traditions with the reality of the war. 
@@ -29,30 +33,24 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-russia-atrocities.html">‘They Are Gone, Vanished’: Missing Persons Haunt Ukrainian Village</a> NYT: In a Russian-occupied village, five men went off to feed cattle. Their relatives and neighbors are wondering what happened to them. 
  <p class="updated_time"> 12:05 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/asylum-system-britain-rwanda.html">The World’s Broken Promise of Asylum</a> NYT: Britain’s new plan to send thousands of asylum seekers to Rwanda exposes the fragile nature of the global refugee compact, which has always fallen prey to domestic politics. 
+ <p class="updated_time"> 12:01 PM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Ukrainian Forces in Mariupol Rebuff Russian Ultimatum to Surrender</a> WSJ: Ukrainian Forces in Mariupol Rebuff Russian Ultimatum to Surrender 
  <p class="updated_time"> 11:58 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/yemen-houthis-gulf.html">Yemen’s Houthis Went From Ragtag Militia to Force Threatening Gulf Powers</a> NYT: Iran’s cultivation of the Houthis over the years of war in Yemen has armed them with missiles and drones, endangering Washington’s partners and Tehran’s rivals, Saudi Arabia and the United Arab Emirates. 
- <p class="updated_time"> 11:55 AM CT, Apr. 17 </p> 
- <a href="https://www.nytimes.com/2022/04/17/world/middleeast/jerusalem-al-aqsa-mosque.html">Israeli Police Stop Muslim Worshipers From Entering Holy Site</a> NYT: Brief clashes broke out Sunday after the Israeli police blocked Muslim access to the Aqsa Mosque compound, known to Jews as Temple Mount, in order to prevent contact between Palestinians and Jewish visitors. 
- <p class="updated_time"> 11:49 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender</a> WSJ: Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender 
  <p class="updated_time"> 11:49 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/passover-ramadan-easter-jerusalem.html">Rare Overlap of Holy Days Shows Jerusalem’s Promise and Problems</a> NYT: In its Old City, a Christian, a Jew and a Muslim marked Easter, Passover and Ramadan. To some, it’s a “symphony.” To others, a reminder of division. 
- <p class="updated_time"> 10:56 AM CT, Apr. 17 </p> 
- <a href="https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html">Days After the Sinking of the Russian Warship, Moskva, Questions Linger</a> NYT: A talk-show host, who usually reflects the Kremlin’s line, questioned how the ship was lost. 
- <p class="updated_time"> 10:49 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 11:01 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/bidens-claim-of-russian-genocide-in-ukraine-adds-to-pressure-campaign-11650187802">Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign</a> WSJ: Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign 
  <p class="updated_time"> 10:20 AM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61134734?at_medium=RSS&at_campaign=KARANGA">Unrest in Sweden over planned Quran burnings</a> BBC: There is ongoing unrest over a far-right group which burned a copy of the Quran, and planned to do so again. 
  <p class="updated_time"> 10:06 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/ukraine-children-cancer-treatment-memphis.html">Fighting for Her Life, Far From Ukraine</a> NYT: A 5-year-old Ukrainian girl with a brain tumor was one of several children brought for treatment in the United States after their country was invaded by Russia. 
+ <p class="updated_time"> 10:01 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/passover-jews-abraham-accords-u-a-e-11650048749">Growing Jewish Community Goes Big for Passover in Another Dubai First</a> WSJ: Growing Jewish Community Goes Big for Passover in Another Dubai First 
  <p class="updated_time"> 09:56 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/pope-francis-ukraine-war-easter.html">Pope Calls for Peace in Ukraine on What He Called ‘Easter of War’</a> NYT: Instead of learning from the heavy toll taken by the pandemic, and emerging with strengthened solidarity, rivalry had prevailed, the pope said. 
- <p class="updated_time"> 09:49 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/pope-francis-prays-for-peace-in-ukraine-and-warns-of-nuclear-war-11650192512">Pope Francis Prays for Peace in Ukraine, Warns of Nuclear War</a> WSJ: Pope Francis Prays for Peace in Ukraine, Warns of Nuclear War 
- <p class="updated_time"> 08:49 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 09:01 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/israeli-police-palestinians-clash-in-jerusalem-amid-rising-tensions-11650198749">Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions</a> WSJ: Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions 
- <p class="updated_time"> 08:05 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/passover-jews-abraham-accords-u-a-e-11650048749">Growing Jewish Community Goes Big for Passover in Another Dubai First</a> WSJ: Jews have established the first new congregations in an Arab nation since the establishment of Israel in 1948. 
  <p class="updated_time"> 07:49 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093240589/amongst-division-in-france-one-interfaith-group-comes-together-to-celebrate-rama">Amongst division in France, one interfaith group comes together to celebrate Ramadan</a> NPR: A group of women in an interfaith group gathered for dinner to mark the start of Ramadan during a divisive presidential election. 
  <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
@@ -245,9 +243,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093208006/war-crystalizes-young-ukrainian-leaders-calls-for-a-future-aligned-with-europe">War crystalizes young Ukrainian leaders' calls for a future aligned with Europe</a> NPR: These young politicians have few memories of life under Soviet rule — and they say the war has accelerated their efforts to push for a more Europe-focused future. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
- <a href="https://www.politico.com/news/2022/04/17/kamala-harris-traveling-unconventional-places-00025695">Kamala Harris keeps traveling to unconventional places. Here’s why.</a> Politico: She’s taken a swing through the Delta and done a drop by in the bayou. It’s not quite the usual treks that a veep makes. 
- <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.politico.com/news/2022/04/17/los-angeles-mayoral-race-crime-priorities-00025445">Crime upstages progressive priorities in Los Angeles mayor's race</a> Politico: The debate in Los Angeles is becoming a familiar story in big-city mayoral politics. 
+ <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
+ <a href="https://www.politico.com/news/2022/04/17/kamala-harris-traveling-unconventional-places-00025695">Kamala Harris keeps traveling to unconventional places. Here’s why.</a> Politico: She’s taken a swing through the Delta and done a drop by in the bayou. It’s not quite the usual treks that a veep makes. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.politico.com/news/2022/04/17/house-dems-super-pac-latino-00025694">‘A slap in the face’: House Dems’ super PAC sparks Latino backlash</a> Politico: A newly drawn House district offered the prospect of electing Oregon’s first Latina to Congress. Then a top super PAC unexpectedly swooped in. 
  <p class="updated_time"> 04:00 AM CT, Apr. 17 </p> 
