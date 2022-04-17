@@ -9,46 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:42 PM CT, Apr. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/16/world/ukraine-russia-war-news">Live Updates: Russia Targets Military Facilities Across Ukraine and Steps Up Attacks in East</a> NYT: Russia claimed its forces had seized the besieged city of Mariupol, save for a steel plant near the port where Ukrainian fighters held out. Moscow’s missiles also hit targets across the country, including military factories. 
+ <p class="updated_time"> 07:46 PM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094">Russian Forces Closer to Taking Mariupol</a> WSJ: Russian Forces Closer to Taking Mariupol 
  <p class="updated_time"> 06:47 PM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-61093929?at_medium=RSS&at_campaign=KARANGA">Climate change: 'We're making wine in Norway'</a> BBC: Vineyards are moving further north, but new winemakers say they struggle to be taken seriously. 
+ <p class="updated_time"> 06:46 PM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/mariupol-in-ruins-11650132943">After More Than a Month of Fighting, Much of Mariupol Lies in Ruins</a> WSJ: After More Than a Month of Fighting, Much of Mariupol Lies in Ruins 
  <p class="updated_time"> 06:38 PM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61130412?at_medium=RSS&at_campaign=KARANGA">Invictus Games: Prince Harry and Meghan join opening ceremony in the Netherlands</a> BBC: The Duke and Duchess of Sussex have not been on this side of the Atlantic together since 2020. 
  <p class="updated_time"> 06:16 PM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61092882?at_medium=RSS&at_campaign=KARANGA">Nigeria's Chibok girls: Why was this former captive treated differently?</a> BBC: Hassana Adamu speaks to the BBC about feeling neglected on the eighth anniversary of the kidnappings. 
- <p class="updated_time"> 06:06 PM CT, Apr. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/04/16/world/ukraine-russia-war-news">Live Updates: Russia Targets Military Facilities Across Ukraine and Steps Up Attacks in East</a> NYT: Russia claimed its forces had seized the besieged city of Mariupol, save for a steel plant near the port where Ukrainian fighters held out. Moscow’s missiles also hit targets across the country, including military factories. 
  <p class="updated_time"> 06:03 PM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-61100181?at_medium=RSS&at_campaign=KARANGA">Ukraine war scams: Cybercriminals stole my identity</a> BBC: Scammers are using emotionally charged tricks in a bid to steal online donations. 
- <p class="updated_time"> 05:58 PM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-expand-footprint-in-eastern-ukraine-11650107094">Russian Forces Expand Footprint in Eastern Ukraine</a> WSJ: Russian Forces Expand Footprint in Eastern Ukraine 
+ <p class="updated_time"> 05:46 PM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-jews-celebrate-wartime-passover-in-defiance-of-russian-invasion-11650116455">Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion</a> WSJ: Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion 
  <p class="updated_time"> 05:36 PM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61130841?at_medium=RSS&at_campaign=KARANGA">UK's Rwanda refugee plan against nature of God, says archbishop</a> BBC: There are "serious ethical questions" over sending migrants to east Africa, the Archbishop of Canterbury will say. 
- <p class="updated_time"> 04:58 PM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/mariupol-in-ruins-11650132943">After More Than a Month of Fighting, Much of Mariupol Lies in Ruins</a> WSJ: After More Than a Month of Fighting, Much of Mariupol Lies in Ruins 
  <p class="updated_time"> 04:47 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/french-election-macron-le-pen.html">Macron Vows Ambitious Green Policies, Wooing the Left in Runoff</a> NYT: France’s president is trying to tap into the country’s large pool of left-wing voters, but many are hesitant to back him. 
+ <p class="updated_time"> 04:46 PM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 04:04 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/russia-missiles-ukraine-kyiv-lviv-neptune.html">Russia Fires Missile Barrage at Ukrainian Cities and Military Targets</a> NYT: The strikes seemed aimed at hampering Ukraine’s war fighting capacity as the conflict shifts to eastern Donbas region, and at responding to the sinking of a Russian warship. 
- <p class="updated_time"> 03:58 PM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraines-jews-celebrate-wartime-passover-in-defiance-of-russian-invasion-11650116455">Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion</a> WSJ: Ukraine’s Jews Celebrate Wartime Passover in Defiance of Russian Invasion 
  <p class="updated_time"> 03:54 PM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093212509/hundreds-of-ukrainian-refugees-are-at-the-u-s-mexico-border-hoping-for-asylum">Hundreds of Ukrainian refugees are at the U.S.-Mexico border hoping for asylum</a> NPR: Hundreds of refugees from Ukraine have arrived in the U.S. via Mexico. Many have stayed at a shelter in Tijuana, waiting for permission to cross the border. 
  <p class="updated_time"> 03:54 PM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093212495/the-u-s-does-not-recognize-the-jurisdiction-of-the-international-criminal-court">The U.S. does not recognize the jurisdiction of the International Criminal Court</a> NPR: NPR's Michel Martin speaks with John Bellinger III, a former legal adviser for the National Security Council, about the complicated relationship the U.S. has with the International Criminal Court. 
  <p class="updated_time"> 03:54 PM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093212488/what-life-is-like-in-the-ukrainian-city-of-mykolaiv">What life is like in the Ukrainian city of Mykolaiv</a> NPR: Mykolaiv sits near the edge of Russian-occupied areas of the country. We visit on the eve of an expected new Russian offensive in the area. 
+ <p class="updated_time"> 03:46 PM CT, Apr. 16 </p> 
+ <a href="https://www.wsj.com/articles/shanghais-lockdown-knocks-out-e-commerce-leaving-group-buying-and-bartering-11650101402">Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering</a> WSJ: Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering 
  <p class="updated_time"> 03:34 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/health/global-covid-deaths-who-india.html">India Is Stalling the W.H.O.’s Efforts to Make Global Covid Death Toll Public</a> NYT: The agency has calculated that 15 million people have died as a result of the pandemic, far more than earlier estimates, but has yet to release those numbers. 
  <p class="updated_time"> 03:29 PM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093198575/russia-ukraine-war-what-happened-today-april-16">Russia-Ukraine war: What happened today (April 16) </a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:20 PM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61129014?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Residents rebuild Bucha as Russia bans UK PM</a> BBC: A few residents clear up after Russia's occupation, as Boris Johnson becomes persona non grata in Moscow. 
- <p class="updated_time"> 02:58 PM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again, This Time to the U.S.</a> WSJ: Venezuelans Flee Again, This Time to the U.S. 
  <p class="updated_time"> 02:38 PM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61129151?at_medium=RSS&at_campaign=KARANGA">Russian warship: Moskva crew 'shown for first time since sinking'</a> BBC: Russia's defence ministry releases a video purportedly showing the crew of the Moskva in Sevastopol. 
- <p class="updated_time"> 01:58 PM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/shanghais-lockdown-knocks-out-e-commerce-leaving-group-buying-and-bartering-11650101402">Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering</a> WSJ: Shanghai’s Lockdown Knocks Out E-Commerce, Leaving Group Buying and Bartering 
  <p class="updated_time"> 01:52 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/middleeast/palestinians-israel-violence.html">Israel Steps Up Raids in Palestinian Territories in Response to Attacks</a> NYT: At least 14 Palestinians have been killed in a widespread Israeli military operation in the West Bank, launched in response to a string of attacks in Israel that killed 14 people. 
  <p class="updated_time"> 01:48 PM CT, Apr. 16 </p> 
