@@ -9,16 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:54 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 09:09 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">Live Updates: Ukraine’s Last Troops in Mariupol Hold On as Russia Demands Surrender</a> NYT: Gaining control of the southern port city would help Russia complete its coveted “land bridge” to occupied Crimea. Moscow struck military targets around Kyiv and Mykolaiv, in apparent retaliation for Ukraine’s sinking of a Russian warship. 
- <p class="updated_time"> 08:41 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 09:03 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/lviv-easter-sunday-ukraine-russia-war.html">Worshipers Fill Pews in Lviv on Easter Sunday for Services That Remember War</a> NYT: Commemorations in Ukraine’s small Roman Catholic community combined ancient traditions with the reality of the war. 
  <p class="updated_time"> 08:28 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/yemen-houthis-gulf.html">Yemen’s Houthis Went From Ragtag Militia to Force Threatening Gulf Powers</a> NYT: Iran’s cultivation of the Houthis over the years of war in Yemen has armed them with missiles and drones, endangering Washington’s partners and Tehran’s rivals, Saudi Arabia and the United Arab Emirates. 
- <p class="updated_time"> 07:57 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 08:21 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
  <p class="updated_time"> 07:49 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093240589/amongst-division-in-france-one-interfaith-group-comes-together-to-celebrate-rama">Amongst division in France, one interfaith group comes together to celebrate Ramadan</a> NPR: A group of women in an interfaith group gathered for dinner to mark the start of Ramadan during a divisive presidential election. 
+ <p class="updated_time"> 07:21 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender</a> WSJ: Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender 
  <p class="updated_time"> 07:20 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/pope-francis-ukraine-war-easter.html">Pope Calls for Peace in Ukraine on What He Called ‘Easter of War’</a> NYT: Instead of learning from the heavy toll taken by the pandemic, and emerging with strengthened solidarity, rivalry had prevailed, the pope said. 
  <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
@@ -27,32 +29,28 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/17/1093240519/russia-hammers-mariupol-telling-ukraine-to-surrender-to-avoid-more-death">Russia hammers Mariupol, telling Ukraine to surrender to avoid more death</a> NPR: Russia has given Ukrainian soldiers in Mariupol a chance to surrender as they close in on the port city. Meanwhile, Russia is intensifying rocket attacks elsewhere in Ukraine. 
  <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093208006/war-crystalizes-young-ukrainian-leaders-calls-for-a-future-aligned-with-europe">War crystalizes young Ukrainian leaders' calls for a future aligned with Europe</a> NPR: These young politicians have few memories of life under Soviet rule — and they say the war has accelerated their efforts to push for a more Europe-focused future. 
- <p class="updated_time"> 06:57 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender</a> WSJ: Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender 
+ <p class="updated_time"> 06:21 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/bidens-claim-of-russian-genocide-in-ukraine-adds-to-pressure-campaign-11650187802">Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign</a> WSJ: Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign 
  <p class="updated_time"> 06:09 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/jerusalem-al-aqsa-mosque.html">Israeli Police Stop Muslim Worshipers From Entering Holy Site</a> NYT: Brief clashes broke out Sunday after the Israeli police blocked Muslim access to the Aqsa Mosque compound, known to Jews as Temple Mount, in order to prevent contact between Palestinians and Jewish visitors. 
  <p class="updated_time"> 06:03 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/asylum-system-britain-rwanda.html">The World’s Broken Promise of Asylum</a> NYT: Britain’s new plan to send thousands of asylum seekers to Rwanda exposes the fragile nature of the global refugee compact, which has always fallen prey to domestic politics. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/17/1084492602/photos-how-this-bolivian-all-female-skate-crew-is-celebrating-their-indigenous-r">PHOTOS: How this Bolivian all-female skate crew is celebrating their indigenous roots</a> NPR: The young women skateboard while wearing polleras, colorful, layered skirts worn by their country's indigenous Aymara and Quechua women. They want to show girls and women it's OK to be themselves. 
- <p class="updated_time"> 05:57 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/bidens-claim-of-russian-genocide-in-ukraine-adds-to-pressure-campaign-11650187802">Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign</a> WSJ: Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign 
  <p class="updated_time"> 05:23 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/passover-ramadan-easter-jerusalem.html">Rare Overlap of Holy Days Shows Jerusalem’s Promise and Problems</a> NYT: In its Old City, a Christian, a Jew and a Muslim marked Easter, Passover and Ramadan. To some, it’s a “symphony.” To others, a reminder of division. 
+ <p class="updated_time"> 05:21 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/pope-francis-prays-for-peace-in-ukraine-and-warns-of-nuclear-war-11650192512">Pope Francis Prays for Peace in Ukraine, Warns of Nuclear War</a> WSJ: Pope Francis Prays for Peace in Ukraine, Warns of Nuclear War 
  <p class="updated_time"> 05:04 AM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61133225?at_medium=RSS&at_campaign=KARANGA">North Korea tests new weapon 'to improve tactical nukes'</a> BBC: Kim Jong-un clapped as he watched the launch - a new indication of his intention to resume nuclear tests. 
  <p class="updated_time"> 04:59 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-russia-atrocities.html">‘They Are Gone, Vanished’: Missing Persons Haunt Ukrainian Village</a> NYT: In a Russian-occupied village, five men went off to feed cattle. Their relatives and neighbors are wondering what happened to them. 
- <p class="updated_time"> 04:57 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/mariupol-in-ruins-11650132943">After More Than a Month of Fighting, Much of Mariupol Lies in Ruins</a> WSJ: After More Than a Month of Fighting, Much of Mariupol Lies in Ruins 
  <p class="updated_time"> 04:44 AM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61133439?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Trucks stuck at Poland-Belarus border as EU sanctions deadline passes</a> BBC: An 80km queue formed on the Polish border ahead of a deadline for Russian trucks to leave the EU. 
+ <p class="updated_time"> 04:21 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/israeli-police-palestinians-clash-in-jerusalem-amid-rising-tensions-11650198749">Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions</a> WSJ: Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions 
  <p class="updated_time"> 04:17 AM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61130841?at_medium=RSS&at_campaign=KARANGA">UK's Rwanda asylum plan the 'opposite of nature of God' - Welby</a> BBC: There were "serious ethical questions" over sending migrants to east Africa, Justin Welby says. 
- <p class="updated_time"> 03:57 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/pope-francis-prays-for-peace-in-ukraine-and-warns-of-nuclear-war-11650192512">Pope Francis Prays for Peace in Ukraine, Warns of Nuclear War</a> WSJ: Pope Francis Prays for Peace in Ukraine, Warns of Nuclear War 
- <p class="updated_time"> 03:54 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/israeli-police-palestinians-clash-in-jerusalem-amid-rising-tensions-11650198749">Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions</a> WSJ: Scuffles around Jerusalem’s most sensitive holy site, the Al Aqsa Mosque, led to nine Palestinians arrested and 17 people injured, according to local officials. 
  <p class="updated_time"> 02:00 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/ukraine-children-cancer-treatment-memphis.html">Fighting for Her Life, Far From Ukraine</a> NYT: A 5-year-old Ukrainian girl with a brain tumor was one of several children brought for treatment in the United States after their country was invaded by Russia. 
  <p class="updated_time"> 01:01 AM CT, Apr. 17 </p> 
@@ -216,7 +214,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:54 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 09:05 AM CT, Apr. 17 </p> 
+ <a href="https://www.politico.com/news/2022/04/17/zelenskyy-mariupol-unstable-ukraine-00025705">Zelenskyy on Mariupol: ‘With each passing day, it's growing more unstable’</a> Politico: Ukraine's president said it is nearly impossible to estimate the loss of life or destruction. 
+ <p class="updated_time"> 09:01 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/us/politics/mar-a-lago-machine-trump-as-a-modern-day-party-boss.html">Mar-a-Lago Machine: Trump as a Modern-Day Party Boss</a> NYT: Hoarding cash, doling out favors and seeking to crush rivals, the former president is dominating the G.O.P., preparing for another race and helping loyalists oust officials who thwarted his attempted subversion of the 2020 election. 
  <p class="updated_time"> 08:08 AM CT, Apr. 17 </p> 
  <a href="https://www.politico.com/news/2022/04/17/israel-palestinians-jerusalem-00025704">Clashes erupt again near flashpoint Jerusalem holy site</a> Politico: The hilltop compound housing the mosque is the third-holiest site in Islam, while it is the holiest place for Jews. 
@@ -300,8 +300,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/15/iowa-supreme-court-finkenauer-senate-ballot-00025562">Iowa Supreme Court: Finkenauer qualifies for Senate ballot</a> Politico: The court’s decision leaves Finkenauer as the likely front-runner in a race with two lesser-known candidates ahead of Iowa’s June 7 primary. 
  <p class="updated_time"> 01:57 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/business/economy/michael-barr-federal-reserve.html">Biden to Nominate Michael Barr as Fed Vice Chair for Supervision</a> NYT: Mr. Barr faced pushback from progressives when his name was floated for a different position. 
- <p class="updated_time"> 01:41 PM CT, Apr. 15 </p> 
- <a href="https://www.politico.com/news/2022/04/15/eric-adams-tax-returns-00025541">Mayor Eric Adams won’t commit to releasing his tax returns, breaching decades of custom</a> Politico: Last year Adams refiled his taxes after POLITICO reported that the then-mayoral candidate failed to properly disclose rental income on recent returns. 
  <p class="updated_time"> 01:33 PM CT, Apr. 15 </p> 
  <a href="https://www.politico.com/news/2022/04/15/psaki-fox-news-feeds-doocy-questions-that-makes-him-look-like-a-stupid-son-of-a-00025547">Psaki: Fox News feeds Doocy questions that makes him look like a 'stupid son of a...'</a> Politico: The White House press secretary was referring to President Biden's hot-mic moment after an exchange with the reporter. 
  <p class="updated_time"> 07:29 AM CT, Apr. 15 </p> 
