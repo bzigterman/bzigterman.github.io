@@ -9,27 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:43 AM CT, Apr. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">Live Updates: Ukraine’s Last Troops in Mariupol Hold On as Russia Demands Surrender</a> NYT: Gaining control of the southern port city would help Russia complete its coveted “land bridge” to occupied Crimea. Moscow struck military targets around Kyiv and Mykolaiv, in apparent retaliation for Ukraine’s sinking of a Russian warship. 
+ <p class="updated_time"> 10:40 AM CT, Apr. 17 </p> 
+ <a href="https://www.nytimes.com/2022/04/17/world/europe/pope-francis-easter-ukraine.html">Pope Speaks of Ukraine’s Suffering on ‘an Easter of War’</a> NYT: In his blessing to pilgrims, Pope Francis quoted a manifesto against nuclear weapons and said conflict in Europe should bring increased attention to violence around the world. 
  <p class="updated_time"> 10:20 AM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61134734?at_medium=RSS&at_campaign=KARANGA">Unrest in Sweden over planned Quran burnings</a> BBC: There is ongoing unrest over a far-right group which burned a copy of the Quran, and planned to do so again. 
- <p class="updated_time"> 10:10 AM CT, Apr. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">Live Updates: Ukraine’s Last Troops in Mariupol Hold On as Russia Demands Surrender</a> NYT: Gaining control of the southern port city would help Russia complete its coveted “land bridge” to occupied Crimea. Moscow struck military targets around Kyiv and Mykolaiv, in apparent retaliation for Ukraine’s sinking of a Russian warship. 
  <p class="updated_time"> 10:06 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/ukraine-children-cancer-treatment-memphis.html">Fighting for Her Life, Far From Ukraine</a> NYT: A 5-year-old Ukrainian girl with a brain tumor was one of several children brought for treatment in the United States after their country was invaded by Russia. 
  <p class="updated_time"> 09:58 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/lviv-easter-sunday-ukraine-russia-war.html">Worshipers Fill Pews in Lviv on Easter Sunday for Services That Remember War</a> NYT: Commemorations in Ukraine’s small Roman Catholic community combined ancient traditions with the reality of the war. 
  <p class="updated_time"> 09:56 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/pope-francis-ukraine-war-easter.html">Pope Calls for Peace in Ukraine on What He Called ‘Easter of War’</a> NYT: Instead of learning from the heavy toll taken by the pandemic, and emerging with strengthened solidarity, rivalry had prevailed, the pope said. 
+ <p class="updated_time"> 09:43 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
  <p class="updated_time"> 09:35 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html">Days After the Sinking of the Russian Warship, Moskva, Questions Linger</a> NYT: A talk-show host, who usually reflects the Kremlin’s line, questioned how the ship was lost. 
- <p class="updated_time"> 09:25 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
+ <p class="updated_time"> 08:43 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender</a> WSJ: Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender 
  <p class="updated_time"> 08:28 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/yemen-houthis-gulf.html">Yemen’s Houthis Went From Ragtag Militia to Force Threatening Gulf Powers</a> NYT: Iran’s cultivation of the Houthis over the years of war in Yemen has armed them with missiles and drones, endangering Washington’s partners and Tehran’s rivals, Saudi Arabia and the United Arab Emirates. 
- <p class="updated_time"> 08:25 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender</a> WSJ: Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender 
  <p class="updated_time"> 07:49 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093240589/amongst-division-in-france-one-interfaith-group-comes-together-to-celebrate-rama">Amongst division in France, one interfaith group comes together to celebrate Ramadan</a> NPR: A group of women in an interfaith group gathered for dinner to mark the start of Ramadan during a divisive presidential election. 
- <p class="updated_time"> 07:25 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 07:43 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/bidens-claim-of-russian-genocide-in-ukraine-adds-to-pressure-campaign-11650187802">Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign</a> WSJ: Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign 
  <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093240533/poland-readies-its-defense-as-russia-moves-east">Poland readies its defense as Russia moves east</a> NPR: As the war in Ukraine continues, Poles are joining their nation's military and packing shooting ranges in case they need to defend Poland from Russia, despite Poland's membership in NATO. 
@@ -37,7 +39,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/17/1093240519/russia-hammers-mariupol-telling-ukraine-to-surrender-to-avoid-more-death">Russia hammers Mariupol, telling Ukraine to surrender to avoid more death</a> NPR: Russia has given Ukrainian soldiers in Mariupol a chance to surrender as they close in on the port city. Meanwhile, Russia is intensifying rocket attacks elsewhere in Ukraine. 
  <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093208006/war-crystalizes-young-ukrainian-leaders-calls-for-a-future-aligned-with-europe">War crystalizes young Ukrainian leaders' calls for a future aligned with Europe</a> NPR: These young politicians have few memories of life under Soviet rule — and they say the war has accelerated their efforts to push for a more Europe-focused future. 
- <p class="updated_time"> 06:25 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 06:43 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/pope-francis-prays-for-peace-in-ukraine-and-warns-of-nuclear-war-11650192512">Pope Francis Prays for Peace in Ukraine, Warns of Nuclear War</a> WSJ: Pope Francis Prays for Peace in Ukraine, Warns of Nuclear War 
  <p class="updated_time"> 06:09 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/jerusalem-al-aqsa-mosque.html">Israeli Police Stop Muslim Worshipers From Entering Holy Site</a> NYT: Brief clashes broke out Sunday after the Israeli police blocked Muslim access to the Aqsa Mosque compound, known to Jews as Temple Mount, in order to prevent contact between Palestinians and Jewish visitors. 
@@ -45,7 +47,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/17/world/europe/asylum-system-britain-rwanda.html">The World’s Broken Promise of Asylum</a> NYT: Britain’s new plan to send thousands of asylum seekers to Rwanda exposes the fragile nature of the global refugee compact, which has always fallen prey to domestic politics. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/17/1084492602/photos-how-this-bolivian-all-female-skate-crew-is-celebrating-their-indigenous-r">PHOTOS: How this Bolivian all-female skate crew is celebrating their indigenous roots</a> NPR: The young women skateboard while wearing polleras, colorful, layered skirts worn by their country's indigenous Aymara and Quechua women. They want to show girls and women it's OK to be themselves. 
- <p class="updated_time"> 05:25 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 05:43 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/israeli-police-palestinians-clash-in-jerusalem-amid-rising-tensions-11650198749">Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions</a> WSJ: Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions 
  <p class="updated_time"> 05:23 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/passover-ramadan-easter-jerusalem.html">Rare Overlap of Holy Days Shows Jerusalem’s Promise and Problems</a> NYT: In its Old City, a Christian, a Jew and a Muslim marked Easter, Passover and Ramadan. To some, it’s a “symphony.” To others, a reminder of division. 
@@ -205,8 +207,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/14/world/europe/russia-warship-eu-oil.html">Russia Hits Setbacks, as Flagship Sinks and E.U. Mulls Oil Ban</a> NYT: Ukraine said it hit a Russian warship in the Black Sea with its own missiles, a damaging blow to Moscow, symbolically and militarily, if its claim is confirmed. 
  <p class="updated_time"> 04:26 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/us/politics/isis-beatles-el-shafee-elsheikh.html">British Militant Convicted for Role in Deaths of Americans</a> NYT: The verdict capped a two-week trial that featured the testimony of former captives who detailed relentless beatings, waterboarding and killings by an Islamic State cell known as the Beatles. 
- <p class="updated_time"> 02:39 PM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/14/world/europe/nhs-covid-cases-treatment-backlogs.html">Covid Cases Strain N.H.S. Bid to Reduce Hospital Treatment Backlog, Doctors Say</a> NYT: The British government’s promise to shorten wait times for elective hospital procedures is threatened by high rates of positive coronavirus tests among patients and staff. 
  <p class="updated_time"> 12:28 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/russian-media-atrocities-fake.html">Russian Media Falsely Claims Ukraine Atrocity Images Are Fake</a> NYT: Russians are being shown some of the same distressing imagery from the war as the rest of the world, but with a big twist. 
 
@@ -233,7 +233,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093208006/war-crystalizes-young-ukrainian-leaders-calls-for-a-future-aligned-with-europe">War crystalizes young Ukrainian leaders' calls for a future aligned with Europe</a> NPR: These young politicians have few memories of life under Soviet rule — and they say the war has accelerated their efforts to push for a more Europe-focused future. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
- <a href="https://www.politico.com/news/2022/04/17/kamala-harris-traveling-unconventional-places-00025695">Kamala Harris keeps traveling to unconventional places. Here’s why.</a> Politico: She’s taken a swing through the delta and done a drop by in the bayou. It’s not quite the usual treks that a veep makes. 
+ <a href="https://www.politico.com/news/2022/04/17/kamala-harris-traveling-unconventional-places-00025695">Kamala Harris keeps traveling to unconventional places. Here’s why.</a> Politico: She’s taken a swing through the Delta and done a drop by in the bayou. It’s not quite the usual treks that a veep makes. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.politico.com/news/2022/04/17/los-angeles-mayoral-race-crime-priorities-00025445">Crime upstages progressive priorities in Los Angeles mayor's race</a> Politico: The debate in Los Angeles is becoming a familiar story in big-city mayoral politics. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
@@ -300,8 +300,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/15/russia-banks-war-lawyers-firms-00025649">These lawyers and firms are still working with Russian banks, even amid the war</a> Politico: The work is legal. At least one lawyer says it’s needed, considering the new economic rules put in place during the war. 
  <p class="updated_time"> 03:51 PM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093132507/the-bidens-paid-24-6-taxes-on-610-702-earnings-their-tax-returns-show">The Bidens paid a 24.6% tax rate on $610,702 in earnings, their filings show</a> NPR: Vice President Kamala Harris and her husband Doug Emhoff earned $1,655,563 in 2021 and paid $523,371 — a federal income tax rate of 31.6% — their tax filings show. 
- <p class="updated_time"> 03:22 PM CT, Apr. 15 </p> 
- <a href="https://www.politico.com/news/2022/04/15/biden-tax-return-00025643">Biden releases tax return, reports paying 24.6 percent rate</a> Politico: The bulk of the Bidens' earnings came from the president's salary. 
+ <p class="updated_time"> 02:32 PM CT, Apr. 15 </p> 
+ <a href="https://www.politico.com/news/2022/04/15/scott-pruitt-oklahoma-senate-epa-trump-00025628">Trump EPA chief Scott Pruitt files for Senate in Oklahoma</a> Politico: Pruitt is one of a number of former Trump administration officials running for Congress this year. 
  <p class="updated_time"> 01:57 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/business/economy/michael-barr-federal-reserve.html">Biden to Nominate Michael Barr as Fed Vice Chair for Supervision</a> NYT: Mr. Barr faced pushback from progressives when his name was floated for a different position. 
  <p class="updated_time"> 07:29 AM CT, Apr. 15 </p> 
