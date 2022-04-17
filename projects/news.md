@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:47 PM CT, Apr. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">Live Updates: Ukraine’s Last Troops in Mariupol Hold On as Russia Demands Surrender</a> NYT: Gaining control of the southern port city would help Russia complete its coveted “land bridge” to occupied Crimea. Moscow struck military targets around Kyiv and Mykolaiv, in apparent retaliation for Ukraine’s sinking of a Russian warship. 
+ <p class="updated_time"> 12:47 PM CT, Apr. 17 </p> 
+ <a href="https://www.nytimes.com/2022/04/17/world/europe/lviv-easter-sunday-ukraine-russia-war.html">Worshipers Fill Pews in Lviv on Easter Sunday for Services That Remember War</a> NYT: Commemorations in Ukraine’s small Roman Catholic community combined ancient traditions with the reality of the war. 
  <p class="updated_time"> 12:43 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/france-islam-le-pen-head-scarf.html">As Final Vote Nears in France, a Debate Over Islam and Head Scarves</a> NYT: Marine Le Pen, the far-right contender, has proposed a ban on Muslim women wearing head scarves in public. 
- <p class="updated_time"> 12:40 PM CT, Apr. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">Live Updates: Ukraine’s Last Troops in Mariupol Hold On as Russia Demands Surrender</a> NYT: Gaining control of the southern port city would help Russia complete its coveted “land bridge” to occupied Crimea. Moscow struck military targets around Kyiv and Mykolaiv, in apparent retaliation for Ukraine’s sinking of a Russian warship. 
  <p class="updated_time"> 12:29 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61135091?at_medium=RSS&at_campaign=KARANGA">Older residents of the east reluctant to hit the road</a> BBC: While young Ukrainians have moved to safety, many older residents say they have no choice but to stay. 
  <p class="updated_time"> 12:25 PM CT, Apr. 17 </p> 
@@ -21,36 +23,36 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-russia-atrocities.html">‘They Are Gone, Vanished’: Missing Persons Haunt Ukrainian Village</a> NYT: In a Russian-occupied village, five men went off to feed cattle. Their relatives and neighbors are wondering what happened to them. 
  <p class="updated_time"> 12:05 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/asylum-system-britain-rwanda.html">The World’s Broken Promise of Asylum</a> NYT: Britain’s new plan to send thousands of asylum seekers to Rwanda exposes the fragile nature of the global refugee compact, which has always fallen prey to domestic politics. 
+ <p class="updated_time"> 11:59 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
  <p class="updated_time"> 11:58 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/yemen-houthis-gulf.html">Yemen’s Houthis Went From Ragtag Militia to Force Threatening Gulf Powers</a> NYT: Iran’s cultivation of the Houthis over the years of war in Yemen has armed them with missiles and drones, endangering Washington’s partners and Tehran’s rivals, Saudi Arabia and the United Arab Emirates. 
  <p class="updated_time"> 11:55 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/jerusalem-al-aqsa-mosque.html">Israeli Police Stop Muslim Worshipers From Entering Holy Site</a> NYT: Brief clashes broke out Sunday after the Israeli police blocked Muslim access to the Aqsa Mosque compound, known to Jews as Temple Mount, in order to prevent contact between Palestinians and Jewish visitors. 
  <p class="updated_time"> 11:49 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/passover-ramadan-easter-jerusalem.html">Rare Overlap of Holy Days Shows Jerusalem’s Promise and Problems</a> NYT: In its Old City, a Christian, a Jew and a Muslim marked Easter, Passover and Ramadan. To some, it’s a “symphony.” To others, a reminder of division. 
- <p class="updated_time"> 11:47 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
  <p class="updated_time"> 11:18 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/pope-francis-easter-ukraine.html">Pope Speaks of Ukraine’s Suffering on ‘an Easter of War’</a> NYT: In his blessing to pilgrims, Pope Francis quoted a manifesto against nuclear weapons and said conflict in Europe should bring increased attention to violence around the world. 
+ <p class="updated_time"> 10:59 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender</a> WSJ: Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender 
  <p class="updated_time"> 10:56 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html">Days After the Sinking of the Russian Warship, Moskva, Questions Linger</a> NYT: A talk-show host, who usually reflects the Kremlin’s line, questioned how the ship was lost. 
- <p class="updated_time"> 10:47 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender</a> WSJ: Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender 
  <p class="updated_time"> 10:20 AM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61134734?at_medium=RSS&at_campaign=KARANGA">Unrest in Sweden over planned Quran burnings</a> BBC: There is ongoing unrest over a far-right group which burned a copy of the Quran, and planned to do so again. 
  <p class="updated_time"> 10:06 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/ukraine-children-cancer-treatment-memphis.html">Fighting for Her Life, Far From Ukraine</a> NYT: A 5-year-old Ukrainian girl with a brain tumor was one of several children brought for treatment in the United States after their country was invaded by Russia. 
- <p class="updated_time"> 09:58 AM CT, Apr. 17 </p> 
- <a href="https://www.nytimes.com/2022/04/17/world/europe/lviv-easter-sunday-ukraine-russia-war.html">Worshipers Fill Pews in Lviv on Easter Sunday for Services That Remember War</a> NYT: Commemorations in Ukraine’s small Roman Catholic community combined ancient traditions with the reality of the war. 
+ <p class="updated_time"> 09:59 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/bidens-claim-of-russian-genocide-in-ukraine-adds-to-pressure-campaign-11650187802">Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign</a> WSJ: Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign 
  <p class="updated_time"> 09:56 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/pope-francis-ukraine-war-easter.html">Pope Calls for Peace in Ukraine on What He Called ‘Easter of War’</a> NYT: Instead of learning from the heavy toll taken by the pandemic, and emerging with strengthened solidarity, rivalry had prevailed, the pope said. 
- <p class="updated_time"> 09:47 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/bidens-claim-of-russian-genocide-in-ukraine-adds-to-pressure-campaign-11650187802">Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign</a> WSJ: Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign 
- <p class="updated_time"> 08:47 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 08:59 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/pope-francis-prays-for-peace-in-ukraine-and-warns-of-nuclear-war-11650192512">Pope Francis Prays for Peace in Ukraine, Warns of Nuclear War</a> WSJ: Pope Francis Prays for Peace in Ukraine, Warns of Nuclear War 
+ <p class="updated_time"> 08:05 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/passover-jews-abraham-accords-u-a-e-11650048749">Growing Jewish Community Goes Big for Passover in Another Dubai First</a> WSJ: Jews have established the first new congregations in an Arab nation since the establishment of Israel in 1948. 
+ <p class="updated_time"> 07:59 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/israeli-police-palestinians-clash-in-jerusalem-amid-rising-tensions-11650198749">Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions</a> WSJ: Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions 
  <p class="updated_time"> 07:49 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093240589/amongst-division-in-france-one-interfaith-group-comes-together-to-celebrate-rama">Amongst division in France, one interfaith group comes together to celebrate Ramadan</a> NPR: A group of women in an interfaith group gathered for dinner to mark the start of Ramadan during a divisive presidential election. 
- <p class="updated_time"> 07:47 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/israeli-police-palestinians-clash-in-jerusalem-amid-rising-tensions-11650198749">Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions</a> WSJ: Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions 
  <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093240533/poland-readies-its-defense-as-russia-moves-east">Poland readies its defense as Russia moves east</a> NPR: As the war in Ukraine continues, Poles are joining their nation's military and packing shooting ranges in case they need to defend Poland from Russia, despite Poland's membership in NATO. 
  <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
