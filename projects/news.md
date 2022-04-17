@@ -9,46 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:11 AM CT, Apr. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">Ukraine Live Updates: Zelensky Signals That Mariupol Is Close To Falling</a> NYT: A Russian official said it was time for the Ukrainian soldiers still in the port city to lay down their arms. Gaining control of Mariupol would  help Russia complete a much coveted “land bridge” to occupied Crimea. 
+ <p class="updated_time"> 06:26 AM CT, Apr. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">Live Updates: Ukraine’s Last Troops in Mariupol Hold On as Russia Demands Surrender</a> NYT: Gaining control of the southern port city would help Russia complete its coveted “land bridge” to occupied Crimea. Moscow struck military targets around Kyiv and Mykolaiv, in apparent retaliation for Ukraine’s sinking of a Russian warship. 
  <p class="updated_time"> 06:09 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/jerusalem-al-aqsa-mosque.html">Israeli Police Stop Muslim Worshipers From Entering Holy Site</a> NYT: Brief clashes broke out Sunday after the Israeli police blocked Muslim access to the Aqsa Mosque compound, known to Jews as Temple Mount, in order to prevent contact between Palestinians and Jewish visitors. 
  <p class="updated_time"> 06:03 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/asylum-system-britain-rwanda.html">The World’s Broken Promise of Asylum</a> NYT: Britain’s new plan to send thousands of asylum seekers to Rwanda exposes the fragile nature of the global refugee compact, which has always fallen prey to domestic politics. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/17/1084492602/photos-how-this-bolivian-all-female-skate-crew-is-celebrating-their-indigenous-r">PHOTOS: How this Bolivian all-female skate crew is celebrating their indigenous roots</a> NPR: The young women skateboard while wearing polleras, colorful, layered skirts worn by their country's indigenous Aymara and Quechua women. They want to show girls and women it's OK to be themselves. 
+ <p class="updated_time"> 05:32 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender</a> WSJ: Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender 
  <p class="updated_time"> 05:23 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/passover-ramadan-easter-jerusalem.html">Rare Overlap of Holy Days Shows Jerusalem’s Promise and Problems</a> NYT: In its Old City, a Christian, a Jew and a Muslim marked Easter, Passover and Ramadan. To some, it’s a “symphony.” To others, a reminder of division. 
- <p class="updated_time"> 05:21 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
  <p class="updated_time"> 05:04 AM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61133225?at_medium=RSS&at_campaign=KARANGA">North Korea tests new weapon 'to improve tactical nukes'</a> BBC: Kim Jong-un clapped as he watched the launch - a new indication of his intention to resume nuclear tests. 
  <p class="updated_time"> 04:59 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-russia-atrocities.html">‘They Are Gone, Vanished’: Missing Persons Haunt Ukrainian Village</a> NYT: In a Russian-occupied village, five men went off to feed cattle. Their relatives and neighbors are wondering what happened to them. 
  <p class="updated_time"> 04:44 AM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61133439?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Trucks stuck at Poland-Belarus border as EU sanctions deadline passes</a> BBC: An 80km queue formed on the Polish border ahead of a deadline for Russian trucks to leave the EU. 
- <p class="updated_time"> 04:21 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender</a> WSJ: Russia Calls on Ukraine’s Surrounded Mariupol Forces to Surrender 
+ <p class="updated_time"> 04:32 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/bidens-claim-of-russian-genocide-in-ukraine-adds-to-pressure-campaign-11650187802">Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign</a> WSJ: Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign 
  <p class="updated_time"> 04:17 AM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61130841?at_medium=RSS&at_campaign=KARANGA">UK's Rwanda asylum plan the 'opposite of nature of God' - Welby</a> BBC: There were "serious ethical questions" over sending migrants to east Africa, Justin Welby says. 
- <p class="updated_time"> 03:21 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/bidens-claim-of-russian-genocide-in-ukraine-adds-to-pressure-campaign-11650187802">Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign</a> WSJ: Biden’s Claim of Russian Genocide in Ukraine Adds to Pressure Campaign 
- <p class="updated_time"> 02:21 AM CT, Apr. 17 </p> 
+ <p class="updated_time"> 03:32 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/mariupol-in-ruins-11650132943">After More Than a Month of Fighting, Much of Mariupol Lies in Ruins</a> WSJ: After More Than a Month of Fighting, Much of Mariupol Lies in Ruins 
+ <p class="updated_time"> 02:32 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/inside-a-shanghai-mass-quarantine-center-no-showers-lights-on-24-7-11650187802">Inside a Shanghai Mass Quarantine Center: No Showers, Lights On 24/7</a> WSJ: Inside a Shanghai Mass Quarantine Center: No Showers, Lights On 24/7 
  <p class="updated_time"> 02:00 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/ukraine-children-cancer-treatment-memphis.html">Fighting for Her Life, Far From Ukraine</a> NYT: A 5-year-old Ukrainian girl with a brain tumor was one of several children brought for treatment in the United States after their country was invaded by Russia. 
+ <p class="updated_time"> 02:00 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: The two countries’ militaries will be operating on open terrain well-suited for massed forces unlike earlier skirmishing around Kyiv. 
  <p class="updated_time"> 01:48 AM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/pope-francis-prays-for-peace-in-ukraine-and-warns-of-nuclear-war-11650192512">Pope Francis Prays for Peace in Ukraine, Warns of Nuclear War</a> WSJ: The pontiff, in his annual Easter message, continued his practice since the start of the war of lamenting the effects of the invasion on Ukraine without naming Russia as the aggressor. 
+ <p class="updated_time"> 01:32 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-oversees-tactical-weapons-test-near-his-mansion-11650160117">Kim Jong Un Oversees Tactical Weapons Test</a> WSJ: Kim Jong Un Oversees Tactical Weapons Test 
  <p class="updated_time"> 01:01 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093234046/russia-strikes-ukraines-big-cities-bears-down-on-mariupol">Russia strikes Ukraine's big cities, bears down on Mariupol</a> NPR: Russian forces renewed missile strikes on Kyiv and intensified shelling of Kharkiv, Ukraine's second-largest city, in preparation for what is expected to be a full-scale Russian assault in the east. 
  <p class="updated_time"> 12:38 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093233899/israel-police-enter-flashpoint-jerusalem-holy-site-arrest-2">Clashes erupt again near flashpoint Jerusalem holy site</a> NPR: Israeli police on Sunday entered the Al-Aqsa Mosque compound in Jerusalem's Old City to secure the way for Jewish visitors to the holy site, fueling clashes that left 17 Palestinians wounded. 
- <p class="updated_time"> 12:30 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/inside-a-shanghai-mass-quarantine-center-no-showers-lights-on-24-7-11650187802">Inside a Shanghai Quarantine Center: No Showers, Lights On 24/7</a> WSJ: Almost three weeks of forced isolation after a positive Covid-19 test made Jane Polubotko, a Ukrainian, feel like a “Covid criminal.” 
  <p class="updated_time"> 12:14 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093231790/north-korea-says-it-tested-new-tactical-guided-weapon">North Korea says it tested new tactical guided weapon</a> NPR: North Korea has test-fired a new type of tactical guided weapon designed to boost its nuclear fighting capability, state media reported Sunday, days after it passed its biggest state anniversary. 
- <p class="updated_time"> 11:29 PM CT, Apr. 16 </p> 
- <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-oversees-tactical-weapons-test-near-his-mansion-11650160117">Kim Jong Un Oversees Tactical Weapons Test</a> WSJ: The North Korean leader oversaw the test-firing of a new type of tactical guided weapon aimed at boosting the country’s nuclear capabilities, following a series of provocative missile launches that allow Pyongyang to diversify its arsenal. 
  <p class="updated_time"> 10:55 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/french-election-macron-le-pen.html">Macron Vows Ambitious Green Policies, Wooing the Left in Runoff</a> NYT: France’s president is trying to tap into the country’s large pool of left-wing voters, but many are hesitant to back him. 
  <p class="updated_time"> 10:50 PM CT, Apr. 16 </p> 
@@ -65,6 +65,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61092882?at_medium=RSS&at_campaign=KARANGA">Nigeria's Chibok girls: Why was this former captive treated differently?</a> BBC: Hassana Adamu speaks to the BBC about feeling neglected on the eighth anniversary of the kidnappings. 
  <p class="updated_time"> 06:03 PM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-61100181?at_medium=RSS&at_campaign=KARANGA">Ukraine war scams: Cybercriminals stole my identity</a> BBC: Scammers are using emotionally charged tricks in a bid to steal online donations. 
+ <p class="updated_time"> 05:33 PM CT, Apr. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61130758?at_medium=RSS&at_campaign=KARANGA">Johnson to visit India in bid to boost defence ties</a> BBC: The prime minister will meet his Indian counterpart after previous visits were postponed due to Covid. 
  <p class="updated_time"> 04:04 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/russia-missiles-ukraine-kyiv-lviv-neptune.html">Russia Fires Missile Barrage at Ukrainian Cities and Military Targets</a> NYT: The strikes seemed aimed at hampering Ukraine’s war fighting capacity as the conflict shifts to eastern Donbas region, and at responding to the sinking of a Russian warship. 
  <p class="updated_time"> 03:54 PM CT, Apr. 16 </p> 
@@ -165,20 +167,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/14/climate/antarctic-ice-shelves-atmospheric-rivers.html">Why Did the Larsen A and B Ice Shelves Fail? Scientists Say They Now Know. </a> NYT: The collapse of the two ice shelves was most likely triggered by vast plumes of warm air from the Pacific, researchers have found. 
  <p class="updated_time"> 03:39 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/russia-moskva-warship-ukraine-missiles.html">Russia’s Sunken Warship Moskva Was Hit by Ukrainian Missiles, U.S. official says</a> NYT: Moscow claimed the sinking was an accident, but U.S. intelligence reports say the cruiser went down after Ukraine struck it with Neptune missiles. 
- <p class="updated_time"> 02:55 PM CT, Apr. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61123200?at_medium=RSS&at_campaign=KARANGA">Twitter board takes action to fight Musk bid</a> BBC: The so-called "poison pill" measure is in response to Elon Musk's $43bn cash buyout offer. 
  <p class="updated_time"> 02:40 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/imran-khan-rally-pakistan.html">Days After Ouster, Imran Khan Is Back on the Trail in Pakistan</a> NYT: With fiery critiques of his rivals and the U.S., the former prime minister has drawn thousands to rallies across Pakistan and stoked fears of more political turmoil. 
  <p class="updated_time"> 01:54 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-war-crimes-trials.html">Why Ukraine War Crimes Trials Could Take Many Years</a> NYT: Long after the fighting ends, any prosecutions and trials arising from it could be barely beginning. Here is a look at the complexities of bringing aggressors to justice. 
- <p class="updated_time"> 01:26 PM CT, Apr. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61122990?at_medium=RSS&at_campaign=KARANGA">Arizona man arrested after dogs, cats and snakes found in home freezer</a> BBC: Police say photos of the frozen dogs, lizards, snakes and other animals are too graphic to release. 
  <p class="updated_time"> 10:52 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/travel/qatar-world-cup.html">What to Know About 2022 World Cup Travel to Qatar</a> NYT: Tickets are on sale for the world’s most popular sporting event, but concerns over worker exploitation and laws against homosexuality have complicated the decision to attend for some fans. 
  <p class="updated_time"> 10:38 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/britain-rwanda-asylum-explained.html">What Boris Johnson’s Deal With Rwanda Means for U.K. Asylum System</a> NYT: Prime Minister Boris Johnson announced a plan to send some of those seeking refuge to the central African country. What effect would the change have? 
- <p class="updated_time"> 10:09 AM CT, Apr. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61105463?at_medium=RSS&at_campaign=KARANGA">Durban flood survivors: South Africans homeless, hurt and heartbroken</a> BBC: "We're traumatised, we can't even eat," one South African woman says after her house was destroyed. 
  <p class="updated_time"> 09:44 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/boris-johnson-fines-covid-reactions.html">Families of U.K. Covid Victims React to Boris Johnson Fines</a> NYT: Those unable to be with dying loved ones find no satisfaction or closure with the penalty Prime Minister Boris Johnson faces for breaking lockdown rules. 
  <p class="updated_time"> 09:26 AM CT, Apr. 15 </p> 
@@ -193,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/clashes-at-jerusalem-holy-site-injure-dozens-11650012054">At Least 150 Injured in Clashes at Jerusalem Holy Site</a> WSJ: Israeli police said young masked men used fireworks, stones and other heavy objects to attack security forces around Al Aqsa mosque. 
  <p class="updated_time"> 07:29 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/science/interstellar-meteor-debate.html">Military Memo Adds to Possible Interstellar Meteor Mystery</a> NYT: The U.S. Space Command seemed to confirm a claim that a meteor from outside the solar system had entered Earth’s atmosphere, but other scientists and NASA are still not convinced. 
- <p class="updated_time"> 07:17 AM CT, Apr. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61117828?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Save energy and annoy Putin, Germans told</a> BBC: The vice-chancellor says they should use bikes and lower the thermostat to use less Russian gas. 
  <p class="updated_time"> 07:15 AM CT, Apr. 15 </p> 
  <a href="https://www.wsj.com/articles/venezuelans-flee-again-this-time-to-the-u-s-11650039323">Venezuelans Flee Again,This Time to the U.S.</a> WSJ: Struggling in countries hard-hit by the pandemic, tens of thousands of displaced Venezuelans are on the move again, trekking to the U.S. in search of asylum and stability. 
  <p class="updated_time"> 06:22 AM CT, Apr. 15 </p> 
@@ -217,8 +211,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/14/world/europe/nhs-covid-cases-treatment-backlogs.html">Covid Cases Strain N.H.S. Bid to Reduce Hospital Treatment Backlog, Doctors Say</a> NYT: The British government’s promise to shorten wait times for elective hospital procedures is threatened by high rates of positive coronavirus tests among patients and staff. 
  <p class="updated_time"> 12:28 PM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/world/europe/russian-media-atrocities-fake.html">Russian Media Falsely Claims Ukraine Atrocity Images Are Fake</a> NYT: Russians are being shown some of the same distressing imagery from the war as the rest of the world, but with a big twist. 
- <p class="updated_time"> 11:33 AM CT, Apr. 14 </p> 
- <a href="https://www.nytimes.com/2022/04/14/world/europe/steve-daines-victoria-spartz-ukraine-kyiv.html">Two U.S. Lawmakers Visit Kyiv to Show Support for Ukraine</a> NYT: Senator Steve Daines of Montana and Representative Victoria Spartz of Indiana, both Republicans, were invited by Ukraine’s government on short notice. 
  <p class="updated_time"> 11:04 AM CT, Apr. 14 </p> 
  <a href="https://www.nytimes.com/2022/04/14/climate/cactus-climate-change.html">Even the Cactus May Not Be Safe From Climate Change</a> NYT: More than half of species could face greater extinction risk by midcentury, a new study found, as rising heat and dryness test the prickly plants’ limits. 
 
@@ -232,6 +224,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/17/house-dems-super-pac-latino-00025694">‘A slap in the face’: House Dems’ super PAC sparks Latino backlash</a> Politico: A newly drawn House district offered the prospect of electing Oregon’s first Latina to Congress. Then a top super PAC unexpectedly swooped in. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.politico.com/news/2022/04/17/los-angeles-mayoral-race-crime-priorities-00025445">Crime upstages progressive priorities in Los Angeles mayor's race</a> Politico: The debate in Los Angeles is becoming a familiar story in big-city mayoral politics. 
+ <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
+ <a href="https://www.politico.com/news/2022/04/17/kamala-harris-traveling-unconventional-places-00025695">Kamala Harris keeps traveling to unconventional places. Here’s why.</a> Politico: She’s taken a swing through the delta and done a drop by in the bayou. It’s not quite the usual treks that a veep makes. 
  <p class="updated_time"> 04:00 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/04/17/1093113623/washington-long-term-care">Washington state retools a first-in-nation payroll tax plan for long-term care costs</a> NPR: The WA Cares Fund would help alleviate the financial burden of long-term care by providing workers a lifetime benefit of $36,500. The program was delayed while lawmakers addressed equity issues. 
  <p class="updated_time"> 02:00 AM CT, Apr. 17 </p> 
