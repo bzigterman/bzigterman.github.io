@@ -9,22 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:56 PM CT, Apr. 17 </p> 
+ <p class="updated_time"> 11:22 PM CT, Apr. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61036737?at_medium=RSS&at_campaign=KARANGA">Shanghai: China reports three dead in latest Covid outbreak</a> BBC: Official figures earlier said there had been no Covid-linked deaths in Shanghai since 2020. 
+ <p class="updated_time"> 11:04 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">Live Updates: Ukraine’s Last Troops in Mariupol Hold On as Russia Demands Surrender</a> NYT: Ukraine’s prime minister said that Ukrainian soldiers in the besieged southern port city would stay put and “fight until the end.” Moscow struck military targets around Kyiv and Mykolaiv, in apparent retaliation for the sinking of a Russian warship. 
- <p class="updated_time"> 10:17 PM CT, Apr. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61036737?at_medium=RSS&at_campaign=KARANGA">Shanghai: China reports three dead in latest Covid outbreak</a> BBC: Official figures earlier said there had been no Covid-linked deaths in the city since 2020. 
- <p class="updated_time"> 10:00 PM CT, Apr. 17 </p> 
+ <p class="updated_time"> 10:32 PM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Ukrainian Forces in Mariupol Rebuff Russian Ultimatum to Surrender</a> WSJ: Ukrainian Forces in Mariupol Rebuff Russian Ultimatum to Surrender 
- <p class="updated_time"> 09:00 PM CT, Apr. 17 </p> 
+ <p class="updated_time"> 09:32 PM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
+ <p class="updated_time"> 08:32 PM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-pushed-yemens-elected-president-to-step-aside-saudi-and-yemeni-officials-say-11650224802">Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say</a> WSJ: Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say 
  <p class="updated_time"> 08:00 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html">Days After the Sinking of the Russian Warship, Moskva, Questions Linger</a> NYT: A talk-show host, who usually reflects the Kremlin’s line, questioned how the ship was lost. 
- <p class="updated_time"> 08:00 PM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-pushed-yemens-elected-president-to-step-aside-saudi-and-yemeni-officials-say-11650224802">Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say</a> WSJ: Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say 
- <p class="updated_time"> 07:50 PM CT, Apr. 17 </p> 
- <a href="https://www.nytimes.com/2022/04/15/world/asia/kim-jong-un-ri-chun-hee-luxury-home.html">Kim Jong-un Gives North Korean TV Anchor a Luxury Home</a> NYT: Ri Chun-hee, who delivers the news with a soaring, bombastic tenor, received a two-story apartment in a riverside complex from the country’s leader, apparently for her loyalty. 
- <p class="updated_time"> 07:00 PM CT, Apr. 17 </p> 
+ <p class="updated_time"> 07:32 PM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/passover-jews-abraham-accords-u-a-e-11650048749">Now in Dubai: Passover Celebrations</a> WSJ: Now in Dubai: Passover Celebrations 
+ <p class="updated_time"> 06:32 PM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/israeli-police-palestinians-clash-in-jerusalem-amid-rising-tensions-11650198749">Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions</a> WSJ: Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions 
  <p class="updated_time"> 06:30 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61118706?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Germany's conundrum over its ties with Russia</a> BBC: Berlin now has some hard decisions to make following years of dialogue and co-operation with Moscow. 
  <p class="updated_time"> 06:29 PM CT, Apr. 17 </p> 
@@ -33,8 +33,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61137047?at_medium=RSS&at_campaign=KARANGA">Mariupol ‘doesn’t exist anymore’, says Ukraine’s FM Dmytro Kuleba</a> BBC: Dmytro Kuleba told CBS’s Face the Nation Russian troops have “decided to raze the city to the ground". 
  <p class="updated_time"> 06:14 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61111613?at_medium=RSS&at_campaign=KARANGA">Nigeria's Spider-Man fighting for a cleaner society</a> BBC: Jonathan Olakunle is fighting for a cleaner society in Osogbo, Nigeria. 
- <p class="updated_time"> 06:00 PM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/israeli-police-palestinians-clash-in-jerusalem-amid-rising-tensions-11650198749">Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions</a> WSJ: Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions 
  <p class="updated_time"> 05:58 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61111405?at_medium=RSS&at_campaign=KARANGA">Sri Lanka healthcare on verge of collapse in economic crisis</a> BBC: Doctors warn of catastrophe in Sri Lanka where medical supplies are running out in the financial crisis. 
  <p class="updated_time"> 04:49 PM CT, Apr. 17 </p> 
@@ -159,8 +157,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/us/politics/russia-moskva-ship-sunk-ukraine.html">Moskva, Russia’s Prized Ship, Was Hit by Missiles, U.S. Officials Say</a> NYT: The sinking of the Moskva was a major blow to the Russian fleet and the most significant combat loss for any navy in decades. 
  <p class="updated_time"> 07:16 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61122320?at_medium=RSS&at_campaign=KARANGA">US zoo celebrates 50 years of giant pandas</a> BBC: The tradition of gifted pandas to the US from China hits a 50-year mark at Washington DC's National Zoo. 
- <p class="updated_time"> 07:10 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/video/world/100000008272335/russia-disinformation-moldova.html">Journey to Transnistria: Inside Russia’s Disinformation Bubble</a> NYT: We traveled inside Transnistria, a Moscow-backed breakaway state in Moldova, to find out how Russia’s disinformation campaign stretches beyond its borders. 
  <p class="updated_time"> 06:26 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-us-weapons-warning.html">Girding for New Battle, Russia Warns U.S. on Advanced Weapons for Ukraine</a> NYT: The warnings were regarded as a sign that American military assistance to Ukraine was compounding problems for the Russians in their two-month-old invasion. 
  <p class="updated_time"> 06:02 PM CT, Apr. 15 </p> 
@@ -175,30 +171,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/world/middleeast/jerusalem-tattoo-artist.html">Jerusalem Tattoo Artist Inks Pilgrims, Priests and Those Scarred by Conflict</a> NYT: For Wassim Razzouk, Holy Week is his busiest time as Christians seek a reminder of their visit to Jerusalem. But his family’s centuries-old tattoo business caters to all faiths. 
  <p class="updated_time"> 04:22 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/africa/tanzania-female-president.html">Tanzania’s First Female President Wants to Bring Her Nation in From the Cold</a> NYT: Samia Suluhu Hassan became the only female head of government in Africa when her predecessor suddenly died. She is setting a new course. 
- <p class="updated_time"> 04:15 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/world/asia/china-europe-russia-ukraine.html">Faced With a Changed Europe, China Sticks to an Old Script</a> NYT: Europe was viewed as lacking the power and the will to contest China’s rise. But now, a harder line toward Russia has implications for Beijing. 
  <p class="updated_time"> 03:39 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/russia-moskva-warship-ukraine-missiles.html">Russia’s Sunken Warship Moskva Was Hit by Ukrainian Missiles, U.S. official says</a> NYT: Moscow claimed the sinking was an accident, but U.S. intelligence reports say the cruiser went down after Ukraine struck it with Neptune missiles. 
  <p class="updated_time"> 02:40 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/asia/imran-khan-rally-pakistan.html">Days After Ouster, Imran Khan Is Back on the Trail in Pakistan</a> NYT: With fiery critiques of his rivals and the U.S., the former prime minister has drawn thousands to rallies across Pakistan and stoked fears of more political turmoil. 
  <p class="updated_time"> 01:54 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-war-crimes-trials.html">Why Ukraine War Crimes Trials Could Take Many Years</a> NYT: Long after the fighting ends, any prosecutions and trials arising from it could be barely beginning. Here is a look at the complexities of bringing aggressors to justice. 
- <p class="updated_time"> 10:52 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/travel/qatar-world-cup.html">What to Know About 2022 World Cup Travel to Qatar</a> NYT: Tickets are on sale for the world’s most popular sporting event, but concerns over worker exploitation and laws against homosexuality have complicated the decision to attend for some fans. 
  <p class="updated_time"> 10:38 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/britain-rwanda-asylum-explained.html">What Boris Johnson’s Deal With Rwanda Means for U.K. Asylum System</a> NYT: Prime Minister Boris Johnson announced a plan to send some of those seeking refuge to the central African country. What effect would the change have? 
  <p class="updated_time"> 09:44 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/boris-johnson-fines-covid-reactions.html">Families of U.K. Covid Victims React to Boris Johnson Fines</a> NYT: Those unable to be with dying loved ones find no satisfaction or closure with the penalty Prime Minister Boris Johnson faces for breaking lockdown rules. 
- <p class="updated_time"> 09:08 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/arts/olga-smirnova-ballet-bolshoi-ukraine-war.html">Russia’s Storied Ballet Is Among the Casualties of War</a> NYT: Ballet has long been a symbol of Russian culture. Now it is becoming a symbol of Russian isolation. 
  <p class="updated_time"> 08:25 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/russia-disinformation-transnistria.html">How Russian Disinformation Spreads Beyond Its Borders</a> NYT: A New York Times’ video team traveled to the breakaway region of Transnistria to find out what residents there believe about the war in Ukraine. 
- <p class="updated_time"> 07:29 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/science/interstellar-meteor-debate.html">Military Memo Adds to Possible Interstellar Meteor Mystery</a> NYT: The U.S. Space Command seemed to confirm a claim that a meteor from outside the solar system had entered Earth’s atmosphere, but other scientists and NASA are still not convinced. 
  <p class="updated_time"> 06:22 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/australia/quiz-time-on-the-campaign-trail.html">Quiz Time on the Campaign Trail</a> NYT: Several “gotcha” questions for candidates, including one that Anthony Albanese got wrong, raise deeper questions about the quality of the nation’s political discourse. 
- <p class="updated_time"> 02:09 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/world/europe/a-reporter-covering-the-war-reflects-on-the-legacy-of-the-holocaust.html">A reporter covering the war reflects on the legacy of the Holocaust.</a> NYT: In eastern Poland, perceptions of Russia and Ukraine are shaped by a traumatic past. 
 
 
 </details>
