@@ -9,40 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:17 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 11:55 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Claims Strikes on Hundreds of Targets</a> NYT: Missiles slammed into Kharkiv and Lviv, where seven people were killed in the western city’s first known deaths in the war. The attacks came amid signs that a new Russian onslaught in eastern Ukraine was getting underway. 
+ <p class="updated_time"> 11:40 AM CT, Apr. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61141118?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Dramatic images appear to show sinking Russian warship Moskva</a> BBC: Russia says the Moskva sank after an explosion of ammunition, but Ukrainians say they hit it with missiles. 
+ <p class="updated_time"> 11:33 AM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/2022/04/18/us/politics/global-covid-summit.html">A second global Covid-19 summit led by the White House is set for May.</a> NYT: The meeting comes as efforts to subsidize more global vaccinations have stalled in Congress and as new known U.S. infections rise. 
+ <p class="updated_time"> 11:20 AM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/2022/04/18/world/europe/russian-economy-bleak-assessments.html">Bleak Assessments of Russian Economy Contradict Putin’s Rosy Claims</a> NYT: While Vladimir V. Putin boasts that Russia is holding up under Western sanctions, his central bank chief and the mayor of Moscow warned that the worst is yet to come. 
+ <p class="updated_time"> 11:10 AM CT, Apr. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61141817?at_medium=RSS&at_campaign=KARANGA">Ukraine war: First civilian deaths in Lviv shatter sense of safety</a> BBC: The western city's mayor says the strikes show there are "no safe and unsafe locations" in Ukraine. 
+ <p class="updated_time"> 11:10 AM CT, Apr. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61139566?at_medium=RSS&at_campaign=KARANGA">Egypt female TikTok star jailed for three years for human trafficking</a> BBC: Haneen Hossam, who invited women to earn money by making videos, is convicted of human trafficking. 
+ <p class="updated_time"> 11:08 AM CT, Apr. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61117469?at_medium=RSS&at_campaign=KARANGA">Irish Travellers 'mental health crisis' driven by discrimination and deprivation</a> BBC: Discrimination and deprivation are among key factors in the struggles felt by the community in Ireland. 
  <p class="updated_time"> 11:00 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61133612?at_medium=RSS&at_campaign=KARANGA">Irish Travellers say racism is causing a suicide crisis</a> BBC: More than one in 10 deaths in the community are recorded as suicide, with systematic racism being blamed. 
+ <p class="updated_time"> 10:58 AM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Seven Killed in Russian Missile Strikes on Ukraine’s Lviv, Officials Say</a> WSJ: Seven Killed in Russian Missile Strikes on Ukraine’s Lviv, Officials Say 
  <p class="updated_time"> 10:40 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-forces-cluster-munitions.html">To Push Back Russians, Ukrainians Hit a Village With Cluster Munitions</a> NYT: The New York Times verified that Ukraine’s forces appeared to fire at least two of these internationally banned weapons in a neighborhood, putting Ukrainian civilians at extreme risk. 
- <p class="updated_time"> 10:31 AM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/2022/04/18/world/europe/russian-economy-bleak-assessments.html">Bleak Assessments of Russian Economy Contradict Putin’s Rosy Claims</a> NYT: While Vladimir V. Putin boasts that Russia is holding up under Western sanctions, his central bank chief and the mayor of Moscow warned that the worst is yet to come. 
- <p class="updated_time"> 10:23 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Seven Killed in Russian Missile Strikes on Ukraine’s Lviv, Officials Say</a> WSJ: Seven Killed in Russian Missile Strikes on Ukraine’s Lviv, Officials Say 
  <p class="updated_time"> 10:16 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093303380/jerusalem-israel-palestinians">Israeli troops wound 2 Palestinians during new Israeli-Palestinian violence</a> NPR: Israel has carried out a wave of arrest raids after Palestinian assailants killed at least 14 people inside Israel. At least 25 Palestinians have been killed by Israeli forces in recent weeks. 
  <p class="updated_time"> 10:07 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/lviv-russia-strike-ukraine.html">Rare Russian Strike Hits Lviv, A City Relatively Untouched By Violence</a> NYT: Hundreds of thousands of displaced people from other parts of Ukraine have fled to, or through, Lviv to escape the fighting. Then it landed on their doorstep. 
  <p class="updated_time"> 09:59 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61141421?at_medium=RSS&at_campaign=KARANGA">US man wins $450k lawsuit after unwanted office birthday party</a> BBC: A Kentucky man has claimed that a surprise office birthday party triggered a series of panic attacks. 
- <p class="updated_time"> 09:23 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 09:58 AM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-restrictions-threatens-economic-recovery-11650287954">China’s Pandemic Restrictions Threaten Economic Recovery</a> WSJ: China’s Pandemic Restrictions Threaten Economic Recovery 
- <p class="updated_time"> 09:21 AM CT, Apr. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61141118?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Dramatic images appear to show sinking Russian warship Moskva</a> BBC: Russia says the Moskva sank after an explosion of ammunition, but Ukrainians say they hit it with missiles. 
- <p class="updated_time"> 08:57 AM CT, Apr. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61135901?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol defenders will fight to the end says PM</a> BBC: Capturing the city is a major strategic goal for Russia, leaving it in control of vast swathes of the country. 
- <p class="updated_time"> 08:23 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 08:58 AM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/chinas-economy-expanded-4-8-in-first-quarter-beating-expectations-11650247529">China’s Economy Grew 4.8% in First Quarter, Beating Expectations</a> WSJ: China’s Economy Grew 4.8% in First Quarter, Beating Expectations 
  <p class="updated_time"> 08:10 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61139128?at_medium=RSS&at_campaign=KARANGA">Mexico Congress fails to pass president's electricity reform</a> BBC: Mexico's president, who backed the reform, has accused those voting against it of "treason". 
+ <p class="updated_time"> 07:58 AM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-reports-first-covid-19-deaths-since-start-of-lockdown-11650257199">Shanghai Reports First Covid-19 Deaths Since Start of Lockdown</a> WSJ: Shanghai Reports First Covid-19 Deaths Since Start of Lockdown 
  <p class="updated_time"> 07:40 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61141420?at_medium=RSS&at_campaign=KARANGA">Evergreen vessel freed after a month aground in US waters</a> BBC: Two previous attempts to dislodge the Ever Forward from shallow Maryland waters were unsuccessful. 
- <p class="updated_time"> 07:23 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/shanghai-reports-first-covid-19-deaths-since-start-of-lockdown-11650257199">Shanghai Reports First Covid-19 Deaths Since Start of Lockdown</a> WSJ: Shanghai Reports First Covid-19 Deaths Since Start of Lockdown 
+ <p class="updated_time"> 06:58 AM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-stokes-concerns-in-taiwan-over-its-fragile-internet-links-11650285592">Ukraine War Stokes Concerns in Taiwan Over Fragile Internet Links</a> WSJ: Ukraine War Stokes Concerns in Taiwan Over Fragile Internet Links 
  <p class="updated_time"> 06:30 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61113807?at_medium=RSS&at_campaign=KARANGA">KwaZulu-Natal floods: South Africa army to send 10,000 troops</a> BBC: KwaZulu-Natal is declared a disaster zone as sniffer dogs are brought in to help search for victims. 
- <p class="updated_time"> 06:23 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-stokes-concerns-in-taiwan-over-its-fragile-internet-links-11650285592">Ukraine War Stokes Concerns in Taiwan Over Fragile Internet Links</a> WSJ: Ukraine War Stokes Concerns in Taiwan Over Fragile Internet Links 
  <p class="updated_time"> 06:18 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093289012/riots-in-sweden">Riots erupt in Sweden over rallies by an anti-Islam group</a> NPR: Swedish police said they fired warning shots during a riot in an eastern city to disperse protesters angry about the far-right rallies. Three people were slightly injured during the clashes. 
  <p class="updated_time"> 06:00 AM CT, Apr. 18 </p> 
@@ -51,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61134734?at_medium=RSS&at_campaign=KARANGA">Dozens arrested at Sweden riots sparked by planned Quran burnings</a> BBC: There have been clashes between police and people angry at a far-right group's plan to burn Qurans. 
  <p class="updated_time"> 05:25 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html">Days After the Sinking of the Russian Warship, Moskva, Questions Linger</a> NYT: A talk-show host, who usually reflects the Kremlin’s line, questioned how the ship was lost. 
- <p class="updated_time"> 05:23 AM CT, Apr. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61139125?at_medium=RSS&at_campaign=KARANGA">Guarapuava: Shoot-out as Brazil robbers target security firm</a> BBC: In the latest large-scale robbery attempt, a gang used locals as human shields and set vans alight. 
  <p class="updated_time"> 04:35 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093281214/missile-strikes-in-western-ukraine-kill-6-as-country-braces-for-new-assault-in-e">Missile strikes in western Ukraine kill 6 as country braces for new assault in east</a> NPR: Russian missile strikes on the western Ukrainian city of Lviv killed six people and wounded at least eight, the regional governor said, which appeared to target military infrastructure facilities 
  <p class="updated_time"> 04:26 AM CT, Apr. 18 </p> 
@@ -67,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/world/europe/france-election-economy.html">French Candidates’ Economic Programs Hold Key to the Election</a> NYT: Promising tax cuts, higher wages and changes in the retirement age, President Macron and Marine Le Pen vie for undecided voters. 
  <p class="updated_time"> 04:00 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/canada/toronto-cannabis-stores.html">A ‘Wild West’ of Marijuana Shops Grows in Toronto</a> NYT: Permitted to operate during the pandemic, even during lockdowns, Toronto’s marijuana shops have flourished and changed the character of an iconic neighborhood. 
- <p class="updated_time"> 03:37 AM CT, Apr. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61137974?at_medium=RSS&at_campaign=KARANGA">Jahangirpuri: Shock and anger in Delhi after religious violence</a> BBC: Two days after the flare-up between Hindus and Muslims, the atmosphere was still tense in Jahangirpuri. 
  <p class="updated_time"> 03:00 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61139105?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How a BBC journalist's family escaped the country</a> BBC: Vitaly Shevchenko's family fled Ukraine with the help of two BBC audience members. 
  <p class="updated_time"> 02:56 AM CT, Apr. 18 </p> 
@@ -196,6 +198,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:33 AM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/2022/04/18/us/politics/global-covid-summit.html">A second global Covid-19 summit led by the White House is set for May.</a> NYT: The meeting comes as efforts to subsidize more global vaccinations have stalled in Congress and as new known U.S. infections rise. 
+ <p class="updated_time"> 11:00 AM CT, Apr. 18 </p> 
+ <a href="https://www.politico.com/news/2022/04/18/2022-secretary-of-state-elections-00025564">Who will run the 2024 election? They’re on your ballot in 2022.</a> Politico: The focus on secretaries of State has been magnified by Donald Trump’s conspiracy theories about the 2020 election he lost. 
+ <p class="updated_time"> 10:49 AM CT, Apr. 18 </p> 
+ <a href="https://www.politico.com/news/2022/04/18/biden-domestic-policy-shift-00025862">Biden’s been consumed by Ukraine. His team wants to bring the focus back home.</a> Politico: The president is planning more domestic travel and a heightened domestic policy push. But international events often have a way of intervening. 
  <p class="updated_time"> 10:19 AM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/white-house-global-covid-19-summit-may-00025823">White House Global Covid-19 Summit to be held in May</a> Politico: It comes at a time when many global health groups are rethinking their pandemic responses amid new vaccine supplies, variants and treatment options. 
  <p class="updated_time"> 09:26 AM CT, Apr. 18 </p> 
@@ -258,8 +266,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/16/gop-megadonors-congress-campaign-finance-disclosures-00025693">GOP megadonors go big in battle for Congress: 5 takeaways from new campaign money filings</a> Politico: Republican donors including private equity exec Stephen Schwarzman and hedge funder Ken Griffin poured millions more into major GOP super PACs in the first three months of 2022. 
  <p class="updated_time"> 08:44 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093195479/biden-federal-oil-leases-royalties">Biden increases oil royalty rate and scales back lease sales on federal lands</a> NPR: The U.S. government will sharply boost royalty rates for companies as federal officials weigh efforts to fight climate change against pressure to bring down high gasoline prices. 
- <p class="updated_time"> 07:15 AM CT, Apr. 16 </p> 
- <a href="https://www.politico.com/news/2022/04/16/don-odowd-elon-musk-00025688">He wants to destroy Elon Musk. He could end up endangering the Dems’ Senate plans.</a> Politico: Dan O’Dowd is running for office squarely as a means of bludgeoning the Tesla CEO. Could he screw up things for the incumbent? 
  <p class="updated_time"> 07:03 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093189677/week-in-politics-u-s-sends-more-money-to-ukraine-inflation-up-midterms-approach">Week in politics: U.S. sends more money to Ukraine; inflation up; midterms approach</a> NPR: President Biden's support for Ukraine has not garnered enthusiasm from the U.S. public. Another inflation record. And the Republicans drop out of presidential debates. 
  <p class="updated_time"> 06:01 AM CT, Apr. 16 </p> 
