@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:36 PM CT, Apr. 18 </p> 
+ <p class="updated_time"> 06:46 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">Ukraine Live Updates: Russian Offensive in East Has Started, Ukraine Says</a> NYT: Russia said it had hit hundreds of targets around Ukraine with missiles and artillery, apparent preparation for the onslaught in eastern Ukraine. 
  <p class="updated_time"> 06:35 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-russia-missiles-lviv-donbas.html">Ukraine Says Russia Begins Assault in the East After Raining Missiles Nationwide</a> NYT: The president of Ukraine and a top national security aide said the Russian offensive, anticipated for weeks, had finally begun after a Russian missile barrage that included the first deadly strike on the western city of Lviv. 
@@ -19,18 +19,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-forces-cluster-munitions.html">To Push Back Russians, Ukrainians Hit a Village With Cluster Munitions</a> NYT: The New York Times verified that Ukraine’s forces appeared to fire at least two of these internationally banned weapons in a neighborhood, putting Ukrainian civilians at extreme risk. 
  <p class="updated_time"> 06:17 PM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-61068688?at_medium=RSS&at_campaign=KARANGA">Are there affordable ways to cut your heating bill?</a> BBC: Alternatives to gas and oil heating are becoming more popular but are still expensive. 
- <p class="updated_time"> 05:42 PM CT, Apr. 18 </p> 
+ <p class="updated_time"> 05:54 PM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Russia Begins New Military Offensive in Ukraine’s East, Ukrainian President Says</a> WSJ: Russia Begins New Military Offensive in Ukraine’s East, Ukrainian President Says 
  <p class="updated_time"> 05:29 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/russian-economy-bleak-assessments.html">Bleak Assessments of Russian Economy Contradict Putin’s Rosy Claims</a> NYT: While Vladimir Putin boasts that Russia is holding up under Western sanctions, his central bank chief and the mayor of Moscow warned that the worst was yet to come. 
  <p class="updated_time"> 05:03 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093402862/cristiano-ronaldo-newborn-son-has-died">Cristiano Ronaldo's newborn son has died</a> NPR: Soccer star Cristiano Ronaldo and his partner, Georgina Rodríguez, say their newborn son has died. 
+ <p class="updated_time"> 04:54 PM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/in-ukraines-south-russian-occupiers-tighten-the-screws-11650301398">In Ukraine’s South, Russian Occupiers Tighten the Screws</a> WSJ: In Ukraine’s South, Russian Occupiers Tighten the Screws 
  <p class="updated_time"> 04:52 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/18/1092865694/ukraine-crisis-raises-question-does-food-aid-go-equally-to-black-and-white-lives">Ukraine crisis raises question: Does food aid go equally to 'Black and white lives'?</a> NPR: That's what Tedros Adhanom Ghebreyesus of the World Health Organization and others ask in the wake of the outpouring of money to help Ukrainian victims of the war amid record levels of global hunger. 
  <p class="updated_time"> 04:42 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093390730/humanitarian-restaurant-ukraine-chef-jose-andres-destroyed-missile">A charity kitchen in Ukraine linked to chef José Andrés was destroyed by a missile</a> NPR: The celebrity chef's nonprofit World Central Kitchen has been serving meals to families fleeing Ukraine. A restaurant that was partnering with the organization was destroyed by a Russian missile. 
- <p class="updated_time"> 04:42 PM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/in-ukraines-south-russian-occupiers-tighten-the-screws-11650301398">In Ukraine’s South, Russian Occupiers Tighten the Screws</a> WSJ: In Ukraine’s South, Russian Occupiers Tighten the Screws 
  <p class="updated_time"> 04:30 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/covid-vaccine-doses-funding-congress.html">Calls for Covid funding are renewed as doses near expiration.</a> NYT: A tense battle may soon resume over the stalled $10 billion pandemic aid package that senators failed to pass earlier this month. 
  <p class="updated_time"> 04:11 PM CT, Apr. 18 </p> 
@@ -39,14 +39,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/world/middleeast/israel-gaza-rocket-jerusalem.html">New Rocket Fire From Gaza Follows Rising Tensions in Jerusalem</a> NYT: The first strike from Gaza in several months came just days after clashes in and around the Aqsa Mosque compound, a sacred site for both Muslims and Jews. 
  <p class="updated_time"> 04:00 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093317257/russia-ukraine-war-what-happened-today-april-18">Russia-Ukraine war: What happened today (April 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:54 PM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/sweden-arrests-dozens-in-clashes-over-far-right-leaders-plan-to-burn-quran-11650306872">Sweden Arrests Dozens in Clashes Over Burning of Quran</a> WSJ: Sweden Arrests Dozens in Clashes Over Burning of Quran 
  <p class="updated_time"> 03:45 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380916/how-a-brazilian-priest-got-his-city-to-pay-attention-to-its-unhoused-citizens-ne">How a Brazilian priest got his city to pay attention to its unhoused citizens' needs</a> NPR: A Brazilian priest has made the mega-city of São Paulo pay attention to its homeless population's needs. 
  <p class="updated_time"> 03:45 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380895/hundreds-of-russian-spies-have-been-booted-from-european-embassies">Hundreds of Russian spies have been booted from European embassies</a> NPR: Russia's war has been a disaster for Russia's spies. They failed to grasp how fiercely Ukraine would fight. Hundreds have been booted out of European embassies. At least one has been imprisoned. 
  <p class="updated_time"> 03:42 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/prisoners-russia-ukraine-war.html">Prisoners Held by Both Russia and Ukraine Appeal to Leaders for Help</a> NYT: Two British fighters held by Russian asked to be traded for Viktor Medvedchuk, a wealthy Ukrainian ally of Russia’s president, Vladimir V. Putin. 
- <p class="updated_time"> 03:42 PM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/sweden-arrests-dozens-in-clashes-over-far-right-leaders-plan-to-burn-quran-11650306872">Sweden Arrests Dozens in Clashes Over Burning of Quran</a> WSJ: Sweden Arrests Dozens in Clashes Over Burning of Quran 
  <p class="updated_time"> 03:34 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380874/ukrainian-civilians-living-close-to-the-frontlines-say-they-feel-trapped">Ukrainian civilians living close to the frontlines say they feel trapped</a> NPR: Hundreds of thousands of Ukrainians are still living close to the front lines as Russia readies another offensive. Here's how people are surviving in the city of Mykoliav. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
@@ -57,14 +57,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/18/1093380825/ukrainian-children-are-being-separated-from-extended-family-at-the-u-s-mexico-bo">Ukrainian children are being separated from extended family at the U.S.-Mexico border</a> NPR: Ukrainian refugees arriving at the U.S.-Mexico border are  enjoying expedited admission to the U.S. But children who arrive with family other than their parents are still being separated and detained. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380818/overnight-missile-strikes-have-killed-at-least-7-in-lviv-ukraine">Overnight missile strikes have killed at least 7 in Lviv, Ukraine</a> NPR: Missiles struck cities all across Ukraine overnight, including in the western city of Lviv, where at least 7 people were killed. The town had been relatively peaceful for weeks. 
+ <p class="updated_time"> 02:54 PM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/israels-government-faces-collapse-as-arab-party-threatens-to-quit-over-jerusalem-clashes-11650299981">Israel’s Government Faces Possible Collapse</a> WSJ: Israel’s Government Faces Possible Collapse 
  <p class="updated_time"> 02:53 PM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-61145127?at_medium=RSS&at_campaign=KARANGA">Apple staff make bid for first union at a US store</a> BBC: Employees must get signatures from 30% of staff at New York's Grand Central Station for a union election. 
  <p class="updated_time"> 02:51 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-war-russian-orthodox-church.html">Ukraine War Divides Orthodox Faithful</a> NYT: Around the world, national churches, parishes and even families are reassessing relations with Patriarch Kirill of Moscow, who has encouraged Russia’s aggression. 
  <p class="updated_time"> 02:50 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093364146/a-florida-judge-overturns-the-cdcs-mask-mandate-for-planes-and-other-public-tran">TSA will no longer enforce travel mask mandate after a federal judge strikes it down </a> NPR: The mask-wearing requirement had been initially imposed in early 2021, shortly after President Joe Biden took office. 
- <p class="updated_time"> 02:42 PM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/israels-government-faces-collapse-as-arab-party-threatens-to-quit-over-jerusalem-clashes-11650299981">Israel’s Government Faces Possible Collapse</a> WSJ: Israel’s Government Faces Possible Collapse 
  <p class="updated_time"> 02:35 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/04/18/1093329553/photos-russian-air-strikes-hit-targets-in-lviv-kharkiv-and-across-ukraine">Photos: Russian airstrikes hit targets in Lviv, Kharkiv and across Ukraine</a> NPR: Russia continues to work to get control of eastern Ukraine as the country's forces refuse to surrender. 
  <p class="updated_time"> 02:35 PM CT, Apr. 18 </p> 
@@ -75,7 +75,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/world/ukrainians-mariupol-steel-plant.html">Thousands of Ukrainian Civilians Are Holed Up in a Steel Plant in Mariupol, Officials Say</a> NYT: Some 2,000 civilians who were driven from their homes have sheltered in a network of tunnels beneath the plant, an aide to the city’s mayor said. 
  <p class="updated_time"> 02:16 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/east-ukraine-russia-putin-war.html">Putin’s Ukraine Gamble Pivots to a Very Different Battlefield</a> NYT: After Russian forces were mauled in cities and towns in northern Ukraine, Vladimir V. Putin is shifting the focus of his invasion to the flatlands of Donbas, in the east. 
- <p class="updated_time"> 01:42 PM CT, Apr. 18 </p> 
+ <p class="updated_time"> 01:54 PM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-restrictions-threatens-economic-recovery-11650287954">China’s Pandemic Restrictions Threaten Economic Recovery</a> WSJ: China’s Pandemic Restrictions Threaten Economic Recovery 
  <p class="updated_time"> 01:36 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/french-election-macron-le-pen.html">Macron Vows Ambitious Green Policies, Wooing the Left in Runoff</a> NYT: France’s president is trying to tap into the country’s large pool of left-wing voters, but many are hesitant to back him. 
@@ -194,12 +194,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:37 PM CT, Apr. 18 </p> 
+ <p class="updated_time"> 06:47 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/federal-mask-mandate-airplanes.html">Federal Judge Strikes Down the Mask Mandate on Planes and Public Transit</a> NYT: The Transportation Security Administration is no longer enforcing the rule, a Biden administration official said. 
+ <p class="updated_time"> 06:45 PM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/2022/04/18/us/politics/david-price-republicans-democrats-midterms.html">David Price Sees Echoes of 1994 Republican Revolution in 2022 Midterms</a> NYT: David Price sees echoes of the 1994 Republican Revolution in the 2022 midterms — and Republicans undoing the progress on voting rights that he witnessed as an aide in the 1960s. 
  <p class="updated_time"> 06:36 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/trump-allies-election-decertify.html">Trump Allies Continue Legal Drive to Erase His Loss, Stoking Election Doubts</a> NYT: Fifteen months after they tried and failed to overturn the 2020 election, the same group of lawyers and associates is continuing efforts to “decertify” the vote, feeding a false narrative. 
- <p class="updated_time"> 06:00 PM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/2022/04/18/us/politics/david-price-republicans-democrats-midterms.html">David Price Sees Echoes of 1994 Republican Revolution in 2022 Midterms</a> NYT: David Price sees echoes of the 1994 Republican Revolution in the 2022 midterms — and Republicans undoing the progress on voting rights that he witnessed as an aide in the 1960s. 
  <p class="updated_time"> 05:27 PM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/ukraine-50-billion-aid-package-00026032">Ukraine pressing for $50B aid package to cover budget gap, adviser says</a> Politico: Oleg Ustenko, a top economic adviser to Zelenskyy, said the country faces a critical financing shortfall. 
  <p class="updated_time"> 04:57 PM CT, Apr. 18 </p> 
