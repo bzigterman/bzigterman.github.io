@@ -9,29 +9,33 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:41 AM CT, Apr. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61113807?at_medium=RSS&at_campaign=KARANGA">KwaZulu-Natal floods: Search for more than 60 missing people</a> BBC: KwaZulu-Natal is declared a disaster zone as sniffer dogs are brought in to help search for victims. 
+ <p class="updated_time"> 03:37 AM CT, Apr. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61137974?at_medium=RSS&at_campaign=KARANGA">Jahangirpuri: Shock and anger in Delhi after religious violence</a> BBC: Two days after the flare-up between Hindus and Muslims, the atmosphere was still tense in Jahangirpuri. 
  <p class="updated_time"> 03:16 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61135901?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol defenders will fight to the end says PM</a> BBC: Capturing the city is a major strategic goal for Russia, leaving it in control of vast swathes of the country. 
  <p class="updated_time"> 03:00 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61139105?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How a BBC journalist's family escaped the country</a> BBC: Vitaly Shevchenko's family fled Ukraine with the help of two BBC audience members. 
  <p class="updated_time"> 02:56 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-russia-atrocities.html">‘They Are Gone, Vanished’: Missing Persons Haunt Ukrainian Village</a> NYT: In a Russian-occupied village, five men went off to feed cattle. Their relatives and neighbors are wondering what happened to them. 
- <p class="updated_time"> 02:28 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 02:47 AM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Ukrainian Forces in Mariupol Rebuff Russian Ultimatum to Surrender</a> WSJ: Ukrainian Forces in Mariupol Rebuff Russian Ultimatum to Surrender 
  <p class="updated_time"> 02:04 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093280033/shanghai-reports-1st-deaths-from-current-covid-19-outbreak">Shanghai reports 1st deaths from current COVID-19 outbreak</a> NPR: Authorities reported the first COVID-19 deaths of the latest outbreak in China's most populous city and said all three  were elderly, had underlying conditions and had not been vaccinated. 
- <p class="updated_time"> 01:28 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 01:47 AM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
- <p class="updated_time"> 12:28 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 12:47 AM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-pushed-yemens-elected-president-to-step-aside-saudi-and-yemeni-officials-say-11650224802">Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say</a> WSJ: Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say 
  <p class="updated_time"> 12:22 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">What Happened on Day 53 of the War in Ukraine</a> NYT: Ukraine’s prime minister said that Ukrainian soldiers in the besieged southern port city would stay put and “fight until the end.” Moscow struck military targets around Kyiv and Mykolaiv, in apparent retaliation for the sinking of a Russian warship. 
  <p class="updated_time"> 11:58 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61132626?at_medium=RSS&at_campaign=KARANGA">The elderly who can't flee their Ukrainian homes</a> BBC: Intense shelling in Mykolaiv has forced many people to flee, leaving some elderly residents behind. 
- <p class="updated_time"> 11:28 PM CT, Apr. 17 </p> 
+ <p class="updated_time"> 11:47 PM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/passover-jews-abraham-accords-u-a-e-11650048749">Now in Dubai: Passover Celebrations</a> WSJ: Now in Dubai: Passover Celebrations 
  <p class="updated_time"> 11:22 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61036737?at_medium=RSS&at_campaign=KARANGA">Shanghai: China reports three dead in latest Covid outbreak</a> BBC: Official figures earlier said there had been no Covid-linked deaths in Shanghai since 2020. 
- <p class="updated_time"> 10:28 PM CT, Apr. 17 </p> 
+ <p class="updated_time"> 10:47 PM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/israeli-police-palestinians-clash-in-jerusalem-amid-rising-tensions-11650198749">Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions</a> WSJ: Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions 
  <p class="updated_time"> 08:00 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html">Days After the Sinking of the Russian Warship, Moskva, Questions Linger</a> NYT: A talk-show host, who usually reflects the Kremlin’s line, questioned how the ship was lost. 
@@ -87,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/17/1093208006/war-crystalizes-young-ukrainian-leaders-calls-for-a-future-aligned-with-europe">War crystalizes young Ukrainian leaders' calls for a future aligned with Europe</a> NPR: These young politicians have few memories of life under Soviet rule — and they say the war has accelerated their efforts to push for a more Europe-focused future. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/17/1084492602/photos-how-this-bolivian-all-female-skate-crew-is-celebrating-their-indigenous-r">PHOTOS: How this Bolivian all-female skate crew is celebrating their indigenous roots</a> NPR: The young women skateboard while wearing polleras, colorful, layered skirts worn by their country's indigenous Aymara and Quechua women. They want to show girls and women it's OK to be themselves. 
- <p class="updated_time"> 05:04 AM CT, Apr. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61133225?at_medium=RSS&at_campaign=KARANGA">North Korea tests new weapon 'to improve tactical nukes'</a> BBC: Kim Jong-un clapped as he watched the launch - a new indication of his intention to resume nuclear tests. 
  <p class="updated_time"> 01:01 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093234046/russia-strikes-ukraines-big-cities-bears-down-on-mariupol">Russia strikes Ukraine's big cities, bears down on Mariupol</a> NPR: Russian forces renewed missile strikes on Kyiv and intensified shelling of Kharkiv, Ukraine's second-largest city, in preparation for what is expected to be a full-scale Russian assault in the east. 
  <p class="updated_time"> 12:38 AM CT, Apr. 17 </p> 
@@ -113,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61092882?at_medium=RSS&at_campaign=KARANGA">Nigeria's Chibok girls: Why was this former captive treated differently?</a> BBC: Hassana Adamu speaks to the BBC about feeling neglected on the eighth anniversary of the kidnappings. 
  <p class="updated_time"> 06:03 PM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-61100181?at_medium=RSS&at_campaign=KARANGA">Ukraine war scams: Cybercriminals stole my identity</a> BBC: Scammers are using emotionally charged tricks in a bid to steal online donations. 
- <p class="updated_time"> 05:33 PM CT, Apr. 16 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61130758?at_medium=RSS&at_campaign=KARANGA">Johnson to visit India in bid to boost defence ties</a> BBC: The prime minister will meet his Indian counterpart after previous visits were postponed due to Covid. 
  <p class="updated_time"> 04:04 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/russia-missiles-ukraine-kyiv-lviv-neptune.html">Russia Fires Missile Barrage at Ukrainian Cities and Military Targets</a> NYT: The strikes seemed aimed at hampering Ukraine’s war fighting capacity as the conflict shifts to eastern Donbas region, and at responding to the sinking of a Russian warship. 
  <p class="updated_time"> 03:54 PM CT, Apr. 16 </p> 
@@ -151,8 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61111425?at_medium=RSS&at_campaign=KARANGA">Angella Okutoyi: Kenya's rising tennis star</a> BBC: After playing in the Australian Open, could Kenyan Angella Okutoyi emulate her hero Serena Williams? 
  <p class="updated_time"> 08:57 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/moskva-sinking-vadym-krasnooky.html">Moskva’s Sinking Inspires One of Ukraine’s Most Popular Rockers</a> NYT: Vadym Krasnooky, whose band Mad Heads had stopped performing when the war began, said his new song is meant to ‘channel all this hate.’ 
- <p class="updated_time"> 08:56 AM CT, Apr. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61128662?at_medium=RSS&at_campaign=KARANGA">South Africa flooding: 'I had thought my house was safe'</a> BBC: Torrential floods have killed nearly 400 people in South Africa, with more rain forecast. 
  <p class="updated_time"> 05:00 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/canada/quebec-caribou-conservation.html">In Quebec, the Clash Over Caribou Heats Up</a> NYT: Canada is threatening to use, for the first time, a provision in endangered species legislation to intervene and force caribou habitat protection in Quebec. 
  <p class="updated_time"> 08:43 PM CT, Apr. 15 </p> 
@@ -294,8 +292,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/15/1093006012/the-rnc-is-severing-ties-with-the-nonprofit-that-runs-presidential-debates">The RNC is severing ties with the nonprofit that runs presidential debates</a> NPR: The Republican National Committee voted unanimously on Thursday to withdraw from the Commission on Presidential Debates, calling the organization biased. 
  <p class="updated_time"> 04:16 AM CT, Apr. 15 </p> 
  <a href="https://www.npr.org/2022/04/15/1093005977/ex-trump-whitehouse-press-secretary-is-now-working-against-the-former-president">Ex-Trump White House press secretary is now working against the former president</a> NPR: Stephanie Grisham has moved to a remote, Trump-loving Kansas town, where she's crafting an argument against the former president that respects her neighbor's devotion to him. 
- <p class="updated_time"> 03:30 AM CT, Apr. 15 </p> 
- <a href="https://www.politico.com/news/2022/04/15/gop-dealmakers-house-kevin-mccarthy-00025261">Seeking: GOP dealmakers who won't 'burn the House down'. Apply to: Kevin McCarthy.</a> Politico: The undisputed frontrunner for speaker next year is set to lose a half-dozen Republicans from his conference who prefer negotiating to obstinacy. That could be a problem. 
 
 
 </details>
