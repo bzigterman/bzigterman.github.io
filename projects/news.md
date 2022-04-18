@@ -9,6 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:38 AM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Launches Rare Attack on Lviv, Killing 6</a> NYT: The western city has been mostly spared from violence during the war, and hundreds of thousands have fled to Lviv, seeking relative safety. The strike appeared to be part of a Russian campaign to target major cities. 
+ <p class="updated_time"> 04:35 AM CT, Apr. 18 </p> 
+ <a href="https://www.npr.org/2022/04/18/1093281214/missile-strikes-in-western-ukraine-kill-6-as-country-braces-for-new-assault-in-e">Missile strikes in western Ukraine kill 6 as country braces for new assault in east</a> NPR: Russian missile strikes on the western Ukrainian city of Lviv killed six people and wounded at least eight, the regional governor said, which appeared to target military infrastructure facilities 
+ <p class="updated_time"> 04:05 AM CT, Apr. 18 </p> 
+ <a href="https://www.npr.org/2022/04/18/1093282010/jerusalem-sees-unrest-during-convergence-of-passover-ramadan-and-easter">Jerusalem sees unrest during convergence of Passover, Ramadan, and Easter</a> NPR: NPR's Leila Fadel speaks to International Crisis Group analyst Mairav Zonszein about unrest in Jerusalem and what it means for the already volatile region. 
+ <p class="updated_time"> 04:01 AM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/2022/04/16/health/global-covid-deaths-who-india.html">India Is Stalling the W.H.O.’s Efforts to Make Global Covid Death Toll Public</a> NYT: The agency has calculated that 15 million people have died as a result of the pandemic, far more than earlier estimates, but has yet to release those numbers. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/2022/04/18/travel/south-georgia-island-recovery.html">A Portrait of South Georgia: Abundance, Exploitation, Recovery</a> NYT: A series of ecological initiatives, including the eradication of several invasive species, has dramatically revived the life and landscape of this remote sub-Antarctic island. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/2022/04/18/world/canada/toronto-cannabis-stores.html">A ‘Wild West’ of Marijuana Shops Grows in Toronto</a> NYT: Permitted to operate during the pandemic, even during lockdowns, Toronto’s marijuana shops have flourished and changed the character of an iconic neighborhood. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/2022/04/18/world/europe/france-election-economy.html">French Candidates’ Economic Programs Hold Key to the Election</a> NYT: Promising tax cuts, higher wages and changes in the retirement age, President Macron and Marine Le Pen vie for undecided voters. 
+ <p class="updated_time"> 03:42 AM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Six Killed in Russian Missile Strikes on Ukraine’s Lviv, Officials Say</a> WSJ: Six Killed in Russian Missile Strikes on Ukraine’s Lviv, Officials Say 
  <p class="updated_time"> 03:41 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61113807?at_medium=RSS&at_campaign=KARANGA">KwaZulu-Natal floods: Search for more than 60 missing people</a> BBC: KwaZulu-Natal is declared a disaster zone as sniffer dogs are brought in to help search for victims. 
  <p class="updated_time"> 03:37 AM CT, Apr. 18 </p> 
@@ -16,27 +32,23 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:16 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61135901?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol defenders will fight to the end says PM</a> BBC: Capturing the city is a major strategic goal for Russia, leaving it in control of vast swathes of the country. 
  <p class="updated_time"> 03:00 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Ukrainian Forces in Mariupol Rebuff Russian Ultimatum to Surrender</a> WSJ: Ukrainian Forces in Mariupol Rebuff Russian Ultimatum to Surrender 
- <p class="updated_time"> 03:00 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61139105?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How a BBC journalist's family escaped the country</a> BBC: Vitaly Shevchenko's family fled Ukraine with the help of two BBC audience members. 
  <p class="updated_time"> 02:56 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-russia-atrocities.html">‘They Are Gone, Vanished’: Missing Persons Haunt Ukrainian Village</a> NYT: In a Russian-occupied village, five men went off to feed cattle. Their relatives and neighbors are wondering what happened to them. 
+ <p class="updated_time"> 02:42 AM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/chinas-economy-expanded-4-8-in-first-quarter-beating-expectations-11650247529">China’s Economy Grew 4.8% in First Quarter, Beating Expectations</a> WSJ: China’s Economy Grew 4.8% in First Quarter, Beating Expectations 
  <p class="updated_time"> 02:04 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093280033/shanghai-reports-1st-deaths-from-current-covid-19-outbreak">Shanghai reports 1st deaths from current COVID-19 outbreak</a> NPR: Authorities reported the first COVID-19 deaths of the latest outbreak in China's most populous city and said all three  were elderly, had underlying conditions and had not been vaccinated. 
- <p class="updated_time"> 02:00 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
- <p class="updated_time"> 01:00 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-pushed-yemens-elected-president-to-step-aside-saudi-and-yemeni-officials-say-11650224802">Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say</a> WSJ: Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say 
- <p class="updated_time"> 12:22 AM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">What Happened on Day 53 of the War in Ukraine</a> NYT: Ukraine’s prime minister said that Ukrainian soldiers in the besieged southern port city would stay put and “fight until the end.” Moscow struck military targets around Kyiv and Mykolaiv, in apparent retaliation for the sinking of a Russian warship. 
- <p class="updated_time"> 12:00 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/passover-jews-abraham-accords-u-a-e-11650048749">Now in Dubai: Passover Celebrations</a> WSJ: Now in Dubai: Passover Celebrations 
+ <p class="updated_time"> 01:42 AM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-reports-first-covid-19-deaths-since-start-of-lockdown-11650257199">Shanghai Reports First Covid-19 Deaths Since Start of Lockdown</a> WSJ: Shanghai Reports First Covid-19 Deaths Since Start of Lockdown 
+ <p class="updated_time"> 12:42 AM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/china-eastern-resumes-flights-of-boeing-737-model-involved-in-crash-11650260417">China Eastern Resumes Flights of Boeing 737 Model Involved in Crash</a> WSJ: China Eastern Resumes Flights of Boeing 737 Model Involved in Crash 
  <p class="updated_time"> 11:58 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61132626?at_medium=RSS&at_campaign=KARANGA">The elderly who can't flee their Ukrainian homes</a> BBC: Intense shelling in Mykolaiv has forced many people to flee, leaving some elderly residents behind. 
+ <p class="updated_time"> 11:42 PM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-pushed-yemens-elected-president-to-step-aside-saudi-and-yemeni-officials-say-11650224802">Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say</a> WSJ: Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say 
  <p class="updated_time"> 11:22 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61036737?at_medium=RSS&at_campaign=KARANGA">Shanghai: China reports three dead in latest Covid outbreak</a> BBC: Official figures earlier said there had been no Covid-linked deaths in Shanghai since 2020. 
- <p class="updated_time"> 11:00 PM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/israeli-police-palestinians-clash-in-jerusalem-amid-rising-tensions-11650198749">Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions</a> WSJ: Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions 
  <p class="updated_time"> 08:00 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html">Days After the Sinking of the Russian Warship, Moskva, Questions Linger</a> NYT: A talk-show host, who usually reflects the Kremlin’s line, questioned how the ship was lost. 
  <p class="updated_time"> 06:30 PM CT, Apr. 17 </p> 
@@ -81,6 +93,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/17/world/middleeast/passover-ramadan-easter-jerusalem.html">Rare Overlap of Holy Days Shows Jerusalem’s Promise and Problems</a> NYT: In its Old City, a Christian, a Jew and a Muslim marked Easter, Passover and Ramadan. To some, it’s a “symphony.” To others, a reminder of division. 
  <p class="updated_time"> 09:56 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/pope-francis-ukraine-war-easter.html">Pope Calls for Peace in Ukraine on What He Called ‘Easter of War’</a> NYT: Instead of learning from the heavy toll taken by the pandemic, and emerging with strengthened solidarity, rivalry had prevailed, the pope said. 
+ <p class="updated_time"> 08:05 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/passover-jews-abraham-accords-u-a-e-11650048749">Now in Dubai: Passover Celebrations</a> WSJ: Jews have established the first new congregations in an Arab nation since the establishment of Israel in 1948. 
  <p class="updated_time"> 07:49 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093240589/amongst-division-in-france-one-interfaith-group-comes-together-to-celebrate-rama">Amongst division in France, one interfaith group comes together to celebrate Ramadan</a> NPR: A group of women in an interfaith group gathered for dinner to mark the start of Ramadan during a divisive presidential election. 
  <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
@@ -91,20 +105,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/17/1093208006/war-crystalizes-young-ukrainian-leaders-calls-for-a-future-aligned-with-europe">War crystalizes young Ukrainian leaders' calls for a future aligned with Europe</a> NPR: These young politicians have few memories of life under Soviet rule — and they say the war has accelerated their efforts to push for a more Europe-focused future. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/17/1084492602/photos-how-this-bolivian-all-female-skate-crew-is-celebrating-their-indigenous-r">PHOTOS: How this Bolivian all-female skate crew is celebrating their indigenous roots</a> NPR: The young women skateboard while wearing polleras, colorful, layered skirts worn by their country's indigenous Aymara and Quechua women. They want to show girls and women it's OK to be themselves. 
+ <p class="updated_time"> 03:54 AM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/israeli-police-palestinians-clash-in-jerusalem-amid-rising-tensions-11650198749">Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions</a> WSJ: Scuffles around Jerusalem’s most sensitive holy site, the Al Aqsa Mosque, led to nine Palestinians arrested and 17 people injured, according to local officials. 
  <p class="updated_time"> 01:01 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093234046/russia-strikes-ukraines-big-cities-bears-down-on-mariupol">Russia strikes Ukraine's big cities, bears down on Mariupol</a> NPR: Russian forces renewed missile strikes on Kyiv and intensified shelling of Kharkiv, Ukraine's second-largest city, in preparation for what is expected to be a full-scale Russian assault in the east. 
  <p class="updated_time"> 12:38 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093233899/jerusalem-violence-al-aqsa-mosque">Clashes erupt again near the Al-Aqsa Mosque in Jerusalem</a> NPR: Israeli police entered the compound in the Old City to secure the way for Jewish visitors to the holy site, fueling clashes that left 17 Palestinians wounded. 
- <p class="updated_time"> 12:30 AM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/inside-a-shanghai-mass-quarantine-center-no-showers-lights-on-24-7-11650187802">Inside a Shanghai Quarantine Center: No Showers, Lights On 24/7</a> WSJ: Almost three weeks of forced isolation after a positive Covid-19 test made Jane Polubotko, a Ukrainian, feel like a “Covid criminal.” 
  <p class="updated_time"> 12:14 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093231790/north-korea-new-tactical-guided-weapon">North Korea says it tested a new tactical guided weapon</a> NPR: North Korea has test-fired a new type of tactical guided weapon designed to boost its nuclear fighting capability, state media reported Sunday, days after it passed its biggest state anniversary. 
  <p class="updated_time"> 10:55 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/french-election-macron-le-pen.html">Macron Vows Ambitious Green Policies, Wooing the Left in Runoff</a> NYT: France’s president is trying to tap into the country’s large pool of left-wing voters, but many are hesitant to back him. 
  <p class="updated_time"> 10:50 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-occupation.html">Ukrainians Detail the Terror Russian Soldiers Have Inflicted Near Kyiv</a> NYT: An ordeal at a mental health facility in Ukraine illuminated the horrors of the Russian occupation in the areas around Kyiv. 
- <p class="updated_time"> 10:47 PM CT, Apr. 16 </p> 
- <a href="https://www.nytimes.com/2022/04/16/health/global-covid-deaths-who-india.html">India Is Stalling the W.H.O.’s Efforts to Make Global Covid Death Toll Public</a> NYT: The agency has calculated that 15 million people have died as a result of the pandemic, far more than earlier estimates, but has yet to release those numbers. 
  <p class="updated_time"> 08:54 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/asia/north-korea-missile-launch.html">North Korea Launches 2 Short-Range Missiles</a> NYT: The missile test, the North’s 12th of the year, took place as South Korea and the United States were preparing to begin joint military exercises. 
  <p class="updated_time"> 06:47 PM CT, Apr. 16 </p> 
@@ -123,8 +135,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/16/1093212495/the-u-s-does-not-recognize-the-jurisdiction-of-the-international-criminal-court">The U.S. does not recognize the jurisdiction of the International Criminal Court</a> NPR: NPR's Michel Martin speaks with John Bellinger III, a former legal adviser for the National Security Council, about the complicated relationship the U.S. has with the International Criminal Court. 
  <p class="updated_time"> 03:54 PM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093212488/what-life-is-like-in-the-ukrainian-city-of-mykolaiv">What life is like in the Ukrainian city of Mykolaiv</a> NPR: Mykolaiv sits near the edge of Russian-occupied areas of the country. We visit on the eve of an expected new Russian offensive in the area. 
- <p class="updated_time"> 03:29 PM CT, Apr. 16 </p> 
- <a href="https://www.npr.org/2022/04/16/1093198575/russia-ukraine-war-what-happened-today-april-16">Russia-Ukraine war: What happened today (April 16) </a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 02:38 PM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61129151?at_medium=RSS&at_campaign=KARANGA">Russian warship: Moskva crew 'shown for first time since sinking'</a> BBC: Russia's defence ministry releases a video purportedly showing the crew of the Moskva in Sevastopol. 
  <p class="updated_time"> 01:52 PM CT, Apr. 16 </p> 
@@ -135,8 +145,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/16/world/europe/nazi-soldier-watch-netherlands.html">A Nazi Soldier Stole a Watch in 1942. It Turned Up 80 Years Later.</a> NYT: The watch, made as a gift in 1910, has been returned to the maker’s family in the Netherlands. It still works. 
  <p class="updated_time"> 01:21 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/east-ukraine-russia-putin-war.html">Putin’s Ukraine Gamble Pivots to a Very Different Battlefield</a> NYT: After Russian forces were mauled in cities and towns in northern Ukraine, Vladimir V. Putin is shifting the focus of his invasion to the flatlands of Donbas, in the east. 
- <p class="updated_time"> 12:38 PM CT, Apr. 16 </p> 
- <a href="https://www.npr.org/2022/04/16/1093200949/notre-dame-cathedral-artifacts-found">Archeologists discover historical artifacts during Notre Dame Cathedral restoration</a> NPR: The finds underneath the Paris landmark include a human-shaped lead sarcophagus. The discovery was made during restoration work at the cathedral, which was damaged by a fire in 2019. 
  <p class="updated_time"> 12:35 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/business/russia-debt-default.html">What Will Happen if Russia Defaults on Its Debt?</a> NYT: The ultimate arbiter of a sovereign default is an open question but markets may have the final word. 
  <p class="updated_time"> 12:30 PM CT, Apr. 16 </p> 
@@ -169,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/climate/biden-drilling-oil-leases.html">Biden Plans to Open More Public Land to Drilling</a> NYT: The president is under pressure to bring down gas prices, but any new drilling would be years away. The fees that companies pay would rise sharply. 
  <p class="updated_time"> 04:28 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/middleeast/jerusalem-tattoo-artist.html">Jerusalem Tattoo Artist Inks Pilgrims, Priests and Those Scarred by Conflict</a> NYT: For Wassim Razzouk, Holy Week is his busiest time as Christians seek a reminder of their visit to Jerusalem. But his family’s centuries-old tattoo business caters to all faiths. 
- <p class="updated_time"> 04:22 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/world/africa/tanzania-female-president.html">Tanzania’s First Female President Wants to Bring Her Nation in From the Cold</a> NYT: Samia Suluhu Hassan became the only female head of government in Africa when her predecessor suddenly died. She is setting a new course. 
  <p class="updated_time"> 03:39 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/russia-moskva-warship-ukraine-missiles.html">Russia’s Sunken Warship Moskva Was Hit by Ukrainian Missiles, U.S. official says</a> NYT: Moscow claimed the sinking was an accident, but U.S. intelligence reports say the cruiser went down after Ukraine struck it with Neptune missiles. 
  <p class="updated_time"> 02:40 PM CT, Apr. 15 </p> 
@@ -192,6 +198,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:05 AM CT, Apr. 18 </p> 
+ <a href="https://www.npr.org/2022/04/18/1093282003/texas-gov-greg-abbotts-truck-inspection-policy-draws-ire">Texas Gov. Greg Abbott's truck inspection policy draws ire</a> NPR: NPR's Steve Inskeep talks to a Texas Republican criticizing Gov Greg Abbott's new truck inspection policy at the border, saying it's causing long delays and could lead to high prices for consumers. 
+ <p class="updated_time"> 04:02 AM CT, Apr. 18 </p> 
+ <a href="https://www.npr.org/2022/04/18/1093206883/speaking-of-genocide-biden-escalates-the-war-of-words-over-ukraine">Speaking of genocide, Biden escalates the war of words over Ukraine</a> NPR: The concept and practice of the U.S. government deciding what to recognize as a genocide is profoundly political, both in contemporary and historical cases. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 18 </p> 
+ <a href="https://www.npr.org/2022/04/18/1093080089/sarah-palin-is-attempting-a-comeback-in-alaska-but-her-star-has-dimmed-at-home">Sarah Palin is attempting a comeback in Alaska, but her star has dimmed at home</a> NPR: The former GOP vice presidential candidate resigned as Alaska governor in 2009. Even around her hometown of Wasilla, many Republicans soured as she gained a national following as a culture warrior. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/2022/04/18/us/participatory-budgeting-shari-davis.html">What if Public Funds Were Controlled by the Public?</a> NYT: Through the dry-sounding Participatory Budgeting Project, Shari Davis is pushing a quietly radical idea: Democracy shouldn’t be confined to voting. 
+ <p class="updated_time"> 03:31 AM CT, Apr. 18 </p> 
+ <a href="https://www.politico.com/news/2022/04/18/senate-mcconnell-super-pac-134-million-ads-00025642">McConnell-tied super PAC makes early $141M play for the Senate</a> Politico: The Senate Leadership Fund's record-breaking spring advertising reservations follow a $106 million commitment from its Democratic counterpart as the midterm battle heats up. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 18 </p> 
+ <a href="https://www.politico.com/news/2022/04/18/anatoly-antonov-russia-ambassador-00025744">Lonely Anatoly: The Russian ambassador is Washington’s least popular man</a> Politico: Adrift and defiant, Anatoly Antonov walks the halls of an increasingly empty embassy, waiting for someone to call. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 18 </p> 
+ <a href="https://www.politico.com/news/2022/04/18/democrats-recruiting-push-local-election-officers-00025733">‘Defend democracy’: Dems launch massive recruiting push for local election officers</a> Politico: The $80 million effort comes as Trump-friendly conspiracy theorists threaten to take over election offices in battleground states. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 18 </p> 
+ <a href="https://www.politico.com/news/2022/04/18/kids-are-behind-on-routine-immunizations-covid-vaccine-hesitancy-isnt-helping-00025503">Kids are behind on routine immunizations. Covid vaccine hesitancy isn't helping.</a> Politico: Public health leaders fear preventable and possibly fatal diseases could become more common. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 18 </p> 
+ <a href="https://www.politico.com/news/2022/04/18/midterm-politics-endanger-bidens-tech-agenda-00025417">Midterm politics endanger Biden’s tech agenda</a> Politico: Moderate Democrats are under pressure to bail on a key nominee vital to the party's net neutrality plans. 
  <p class="updated_time"> 06:05 PM CT, Apr. 17 </p> 
  <a href="https://www.politico.com/news/2022/04/17/tesla-elon-musk-lawsuit-00025741">Tesla stockholders ask judge to silence Musk in fraud case</a> Politico: Shareholders are suing the CEO over some 2018 tweets about taking the company private. 
  <p class="updated_time"> 12:02 PM CT, Apr. 17 </p> 
@@ -220,8 +244,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/17/1093208006/war-crystalizes-young-ukrainian-leaders-calls-for-a-future-aligned-with-europe">War crystalizes young Ukrainian leaders' calls for a future aligned with Europe</a> NPR: These young politicians have few memories of life under Soviet rule — and they say the war has accelerated their efforts to push for a more Europe-focused future. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.politico.com/news/2022/04/17/kamala-harris-traveling-unconventional-places-00025695">Kamala Harris keeps traveling to unconventional places. Here’s why.</a> Politico: She’s taken a swing through the Delta and done a drop by in the bayou. It’s not quite the usual treks that a veep makes. 
- <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
- <a href="https://www.politico.com/news/2022/04/17/house-dems-super-pac-latino-00025694">‘A slap in the face’: House Dems’ super PAC sparks Latino backlash</a> Politico: A newly drawn House district offered the prospect of electing Oregon’s first Latina to Congress. Then a top super PAC unexpectedly swooped in. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.politico.com/news/2022/04/17/los-angeles-mayoral-race-crime-priorities-00025445">Crime upstages progressive priorities in Los Angeles mayor's race</a> Politico: The debate in Los Angeles is becoming a familiar story in big-city mayoral politics. 
  <p class="updated_time"> 04:00 AM CT, Apr. 17 </p> 
@@ -286,12 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/science/interstellar-meteor-debate.html">Military Memo Adds to Possible Interstellar Meteor Mystery</a> NYT: The U.S. Space Command seemed to confirm a claim that a meteor from outside the solar system had entered Earth’s atmosphere, but other scientists and NASA are still not convinced. 
  <p class="updated_time"> 06:06 AM CT, Apr. 15 </p> 
  <a href="https://www.cnn.com/2022/04/15/politics/read-mark-meadows-texts-mike-lee-chip-roy/index.html">READ: Mark Meadows' texts with Mike Lee and Chip Roy</a> CNN: CNN has obtained text messages of separate conversations that then-White House chief of staff Mark Meadows had with Republican Sen. Mike Lee of Utah and Republican Rep. Chip Roy of Texas after the 2020 presidential election and through early January 2021. 
- <p class="updated_time"> 04:30 AM CT, Apr. 15 </p> 
- <a href="https://www.npr.org/2022/04/15/1091313995/9-000-digital-art-nfts-are-being-released-to-raise-funds-in-george-floyds-memory">9,000 digital art NFTs are being released to raise funds in George Floyd's memory</a> NPR: In the fight to get justice for his brother's murder, Terrence Floyd has turned to the unlikeliest corners to do just that: NFTs — or non-fungible tokens. 
- <p class="updated_time"> 04:16 AM CT, Apr. 15 </p> 
- <a href="https://www.npr.org/2022/04/15/1093006012/the-rnc-is-severing-ties-with-the-nonprofit-that-runs-presidential-debates">The RNC is severing ties with the nonprofit that runs presidential debates</a> NPR: The Republican National Committee voted unanimously on Thursday to withdraw from the Commission on Presidential Debates, calling the organization biased. 
- <p class="updated_time"> 04:16 AM CT, Apr. 15 </p> 
- <a href="https://www.npr.org/2022/04/15/1093005977/ex-trump-whitehouse-press-secretary-is-now-working-against-the-former-president">Ex-Trump White House press secretary is now working against the former president</a> NPR: Stephanie Grisham has moved to a remote, Trump-loving Kansas town, where she's crafting an argument against the former president that respects her neighbor's devotion to him. 
 
 
 </details>
