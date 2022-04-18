@@ -9,21 +9,23 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:57 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 02:04 AM CT, Apr. 18 </p> 
+ <a href="https://www.npr.org/2022/04/18/1093280033/shanghai-reports-1st-deaths-from-current-covid-19-outbreak">Shanghai reports 1st deaths from current COVID-19 outbreak</a> NPR: Authorities reported the first COVID-19 deaths of the latest outbreak in China's most populous city and said all three  were elderly, had underlying conditions and had not been vaccinated. 
+ <p class="updated_time"> 01:33 AM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/russia-calls-on-ukraines-surrounded-mariupol-forces-to-surrender-11650188920">Ukrainian Forces in Mariupol Rebuff Russian Ultimatum to Surrender</a> WSJ: Ukrainian Forces in Mariupol Rebuff Russian Ultimatum to Surrender 
+ <p class="updated_time"> 12:33 AM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
  <p class="updated_time"> 12:22 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/04/17/world/ukraine-russia-war-news">What Happened on Day 53 of the War in Ukraine</a> NYT: Ukraine’s prime minister said that Ukrainian soldiers in the besieged southern port city would stay put and “fight until the end.” Moscow struck military targets around Kyiv and Mykolaiv, in apparent retaliation for the sinking of a Russian warship. 
  <p class="updated_time"> 11:58 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61132626?at_medium=RSS&at_campaign=KARANGA">The elderly who can't flee their Ukrainian homes</a> BBC: Intense shelling in Mykolaiv has forced many people to flee, leaving some elderly residents behind. 
- <p class="updated_time"> 11:57 PM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/russia-and-ukraine-build-forces-for-looming-battles-in-east-11650193200">Russia and Ukraine Build Forces for Looming Battles in East</a> WSJ: Russia and Ukraine Build Forces for Looming Battles in East 
+ <p class="updated_time"> 11:33 PM CT, Apr. 17 </p> 
+ <a href="https://www.wsj.com/articles/saudi-arabia-pushed-yemens-elected-president-to-step-aside-saudi-and-yemeni-officials-say-11650224802">Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say</a> WSJ: Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say 
  <p class="updated_time"> 11:22 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61036737?at_medium=RSS&at_campaign=KARANGA">Shanghai: China reports three dead in latest Covid outbreak</a> BBC: Official figures earlier said there had been no Covid-linked deaths in Shanghai since 2020. 
- <p class="updated_time"> 10:57 PM CT, Apr. 17 </p> 
- <a href="https://www.wsj.com/articles/saudi-arabia-pushed-yemens-elected-president-to-step-aside-saudi-and-yemeni-officials-say-11650224802">Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say</a> WSJ: Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say 
- <p class="updated_time"> 09:57 PM CT, Apr. 17 </p> 
+ <p class="updated_time"> 10:33 PM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/passover-jews-abraham-accords-u-a-e-11650048749">Now in Dubai: Passover Celebrations</a> WSJ: Now in Dubai: Passover Celebrations 
- <p class="updated_time"> 08:57 PM CT, Apr. 17 </p> 
+ <p class="updated_time"> 09:33 PM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/israeli-police-palestinians-clash-in-jerusalem-amid-rising-tensions-11650198749">Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions</a> WSJ: Israeli Police, Palestinians, Clash in Jerusalem Amid Rising Tensions 
  <p class="updated_time"> 08:00 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html">Days After the Sinking of the Russian Warship, Moskva, Questions Linger</a> NYT: A talk-show host, who usually reflects the Kremlin’s line, questioned how the ship was lost. 
@@ -52,7 +54,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:31 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/ukraine-children-cancer-treatment-memphis.html">Fighting for Her Life, Far From Ukraine</a> NYT: A 5-year-old Ukrainian girl with a brain tumor was one of several children brought for treatment in the United States after their country was invaded by Russia. 
  <p class="updated_time"> 02:20 PM CT, Apr. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61134734?at_medium=RSS&at_campaign=KARANGA">Unrest in Sweden over planned Quran burnings</a> BBC: There is ongoing unrest over a far-right group which burned a copy of the Quran, and planned to do so again. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61134734?at_medium=RSS&at_campaign=KARANGA">Unrest in Sweden over planned Quran burnings</a> BBC: Unrest continues over a far-right group which burned a copy of the Quran, and says it will do it again. 
  <p class="updated_time"> 01:31 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61135901?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol defenders will fight to the end says PM</a> BBC: PM Denys Shmyhal says the city has not fallen to Russian forces because of the determined defence. 
  <p class="updated_time"> 01:24 PM CT, Apr. 17 </p> 
@@ -149,8 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/16/world/europe/moskva-sinking-vadym-krasnooky.html">Moskva’s Sinking Inspires One of Ukraine’s Most Popular Rockers</a> NYT: Vadym Krasnooky, whose band Mad Heads had stopped performing when the war began, said his new song is meant to ‘channel all this hate.’ 
  <p class="updated_time"> 08:56 AM CT, Apr. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61128662?at_medium=RSS&at_campaign=KARANGA">South Africa flooding: 'I had thought my house was safe'</a> BBC: Torrential floods have killed nearly 400 people in South Africa, with more rain forecast. 
- <p class="updated_time"> 08:26 AM CT, Apr. 16 </p> 
- <a href="https://www.npr.org/2022/04/16/1093189754/pakistans-former-prime-minister-imran-khan-is-fighting-his-ouster">Pakistan's former Prime Minister Imran Khan is fighting his ouster</a> NPR: Pakistan's Imran Kahn has been ousted from leadership, but the former prime minister is not going quietly. 
  <p class="updated_time"> 05:00 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/canada/quebec-caribou-conservation.html">In Quebec, the Clash Over Caribou Heats Up</a> NYT: Canada is threatening to use, for the first time, a provision in endangered species legislation to intervene and force caribou habitat protection in Quebec. 
  <p class="updated_time"> 08:43 PM CT, Apr. 15 </p> 
