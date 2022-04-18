@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:53 PM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">Ukraine Live Updates: Russian Offensive in East Has Started, Ukraine Says</a> NYT: Russia said it had hit hundreds of targets around Ukraine with missiles and artillery, apparent preparation for the onslaught in eastern Ukraine. 
+ <p class="updated_time"> 03:45 PM CT, Apr. 18 </p> 
+ <a href="https://www.npr.org/2022/04/18/1093380916/how-a-brazilian-priest-got-his-city-to-pay-attention-to-its-unhoused-citizens-ne">How a Brazilian priest got his city to pay attention to its unhoused citizens' needs</a> NPR: A Brazilian priest has made the mega-city of São Paulo pay attention to its homeless population's needs. 
+ <p class="updated_time"> 03:45 PM CT, Apr. 18 </p> 
+ <a href="https://www.npr.org/2022/04/18/1093380895/hundreds-of-russian-spies-have-been-booted-from-european-embassies">Hundreds of Russian spies have been booted from European embassies</a> NPR: Russia's war has been a disaster for Russia's spies. They failed to grasp how fiercely Ukraine would fight. Hundreds have been booted out of European embassies. At least one has been imprisoned. 
+ <p class="updated_time"> 03:42 PM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/2022/04/18/world/europe/prisoners-russia-ukraine-war.html">Prisoners Held by Both Russia and Ukraine Appeal to Leaders for Help</a> NYT: Two British fighters held by Russian asked to be traded for Viktor Medvedchuk, a wealthy Ukrainian ally of Russia’s president, Vladimir V. Putin. 
  <p class="updated_time"> 03:34 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380874/ukrainian-civilians-living-close-to-the-frontlines-say-they-feel-trapped">Ukrainian civilians living close to the frontlines say they feel trapped</a> NPR: Hundreds of thousands of Ukrainians are still living close to the front lines as Russia readies another offensive. Here's how people are surviving in the city of Mykoliav. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
@@ -19,18 +27,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/18/1093380825/ukrainian-children-are-being-separated-from-extended-family-at-the-u-s-mexico-bo">Ukrainian children are being separated from extended family at the U.S.-Mexico border</a> NPR: Ukrainian refugees arriving at the U.S.-Mexico border are  enjoying expedited admission to the U.S. But children who arrive with family other than their parents are still being separated and detained. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380818/overnight-missile-strikes-have-killed-at-least-7-in-lviv-ukraine">Overnight missile strikes have killed at least 7 in Lviv, Ukraine</a> NPR: Missiles struck cities all across Ukraine overnight, including in the western city of Lviv, where at least 7 people were killed. The town had been relatively peaceful for weeks. 
- <p class="updated_time"> 03:24 PM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">Ukraine Live Updates: Russian Offensive in East Has Started, Ukraine Says</a> NYT: Russia said it had hit hundreds of targets around Ukraine with missiles and artillery, apparent preparation for the onslaught in eastern Ukraine. 
  <p class="updated_time"> 03:20 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/as-congress-returns-from-break-calls-for-covid-funding-are-renewed.html">As Congress returns from break, calls for Covid funding are renewed.</a> NYT: A tense battle may soon resume over the stalled $10 billion pandemic aid package that senators failed to pass earlier this month. 
+ <p class="updated_time"> 02:57 PM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Seven Killed in Russian Missile Strikes on Ukraine’s Lviv</a> WSJ: Seven Killed in Russian Missile Strikes on Ukraine’s Lviv 
  <p class="updated_time"> 02:53 PM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-61145127?at_medium=RSS&at_campaign=KARANGA">Apple staff make bid for first union at a US store</a> BBC: Employees must get signatures from 30% of staff at New York's Grand Central Station for a union election. 
  <p class="updated_time"> 02:51 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-war-russian-orthodox-church.html">Ukraine War Divides Orthodox Faithful</a> NYT: Around the world, national churches, parishes and even families are reassessing relations with Patriarch Kirill of Moscow, who has encouraged Russia’s aggression. 
  <p class="updated_time"> 02:50 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093364146/a-florida-judge-overturns-the-cdcs-mask-mandate-for-planes-and-other-public-tran">A Florida judge overturns the CDC's mask mandate for planes and other public transit </a> NPR: The mask-wearing requirement had been initially imposed in early 2021, shortly after President Joe Biden took office. 
- <p class="updated_time"> 02:46 PM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Seven Killed in Russian Missile Strikes on Ukraine’s Lviv</a> WSJ: Seven Killed in Russian Missile Strikes on Ukraine’s Lviv 
  <p class="updated_time"> 02:35 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/04/18/1093329553/photos-russian-air-strikes-hit-targets-in-lviv-kharkiv-and-across-ukraine">Photos: Russian air strikes hit targets in Lviv, Kharkiv and across Ukraine</a> NPR: Russia continues to work to get control of eastern Ukraine as the country's forces refuse to surrender. 
  <p class="updated_time"> 02:35 PM CT, Apr. 18 </p> 
@@ -41,7 +47,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/world/ukrainians-mariupol-steel-plant.html">Thousands of Ukrainian Civilians Are Holed Up in a Steel Plant in Mariupol, Officials Say</a> NYT: Some 2,000 civilians who were driven from their homes have sheltered in a network of tunnels beneath the plant, an aide to the city’s mayor said. 
  <p class="updated_time"> 02:16 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/east-ukraine-russia-putin-war.html">Putin’s Ukraine Gamble Pivots to a Very Different Battlefield</a> NYT: After Russian forces were mauled in cities and towns in northern Ukraine, Vladimir V. Putin is shifting the focus of his invasion to the flatlands of Donbas, in the east. 
- <p class="updated_time"> 01:46 PM CT, Apr. 18 </p> 
+ <p class="updated_time"> 01:57 PM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/in-ukraines-south-russian-occupiers-tighten-the-screws-11650301398">In Ukraine’s South, Russian Occupiers Tighten the Screws</a> WSJ: In Ukraine’s South, Russian Occupiers Tighten the Screws 
  <p class="updated_time"> 01:36 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/french-election-macron-le-pen.html">Macron Vows Ambitious Green Policies, Wooing the Left in Runoff</a> NYT: France’s president is trying to tap into the country’s large pool of left-wing voters, but many are hesitant to back him. 
@@ -49,8 +55,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/world/europe/france-election-economy.html">French Candidates’ Economic Programs Hold Key to the Election</a> NYT: Promising tax cuts, higher wages and changes in the retirement age, President Macron and Marine Le Pen vie for undecided voters. 
  <p class="updated_time"> 01:30 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/france-islam-le-pen-head-scarf.html">Marine Le Pen Proposes Ban on Muslim Women Wearing Head Scarves</a> NYT: Marine Le Pen, the far-right contender, has proposed a ban on Muslim women wearing head scarves in public. 
- <p class="updated_time"> 12:46 PM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/sweden-arrests-dozens-in-clashes-over-far-right-leaders-plan-to-burn-quran-11650306872">Sweden Arrests Dozens in Clashes Over Burning of Quran</a> WSJ: Sweden Arrests Dozens in Clashes Over Burning of Quran 
+ <p class="updated_time"> 12:57 PM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/sweden-arrests-dozens-in-clashes-over-far-right-leaders-plan-to-burn-quran-11650306872">Sweden Arrests Dozens in Clashes Over Far-Right Leader’s Plan to Burn Quran</a> WSJ: Sweden Arrests Dozens in Clashes Over Far-Right Leader’s Plan to Burn Quran 
  <p class="updated_time"> 12:39 PM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61144442?at_medium=RSS&at_campaign=KARANGA">Pakistan: Death sentences over killing of Sri Lankan accused of blasphemy</a> BBC: Dozens are also given jail terms for the lynching of a Sri Lankan man accused of insulting Islam. 
  <p class="updated_time"> 12:30 PM CT, Apr. 18 </p> 
@@ -59,7 +65,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/18/1093329631/companies-leaving-russia-ukraine">200,000 could lose their jobs as Western companies withdraw, Moscow mayor says</a> NPR: The city is preparing to retrain some workers and give temporary public works jobs to thousands more as a growing number of Western companies distance themselves from Russia. 
  <p class="updated_time"> 12:15 PM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61139415?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Donbas tourist town braces for Russian assault</a> BBC: Sviatohirsk was a tourist trail staple but is now just another place in the Donbas where people flee war. 
- <p class="updated_time"> 11:46 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 11:57 AM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/israels-government-faces-collapse-as-arab-party-threatens-to-quit-over-jerusalem-clashes-11650299981">Israel’s Government Faces Possible Collapse</a> WSJ: Israel’s Government Faces Possible Collapse 
  <p class="updated_time"> 11:40 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61141118?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Dramatic images appear to show sinking Russian warship Moskva</a> BBC: Russia says the Moskva sank after an explosion of ammunition, but Ukrainians say they hit it with missiles. 
@@ -73,7 +79,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61117469?at_medium=RSS&at_campaign=KARANGA">Irish Travellers 'mental health crisis' driven by discrimination and deprivation</a> BBC: Discrimination and deprivation are among key factors in the struggles felt by the community in Ireland. 
  <p class="updated_time"> 11:00 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61133612?at_medium=RSS&at_campaign=KARANGA">Irish Travellers say racism is causing a suicide crisis</a> BBC: More than one in 10 deaths in the community are recorded as suicide, with systematic racism being blamed. 
- <p class="updated_time"> 10:46 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 10:57 AM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-restrictions-threatens-economic-recovery-11650287954">China’s Pandemic Restrictions Threaten Economic Recovery</a> WSJ: China’s Pandemic Restrictions Threaten Economic Recovery 
  <p class="updated_time"> 10:40 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-forces-cluster-munitions.html">To Push Back Russians, Ukrainians Hit a Village With Cluster Munitions</a> NYT: The New York Times verified that Ukraine’s forces appeared to fire at least two of these internationally banned weapons in a neighborhood, putting Ukrainian civilians at extreme risk. 
@@ -109,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61139105?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How a BBC journalist's family escaped the country</a> BBC: Vitaly Shevchenko's family fled Ukraine with the help of two BBC audience members. 
  <p class="updated_time"> 02:56 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-russia-atrocities.html">‘They Are Gone, Vanished’: Missing Persons Haunt Ukrainian Village</a> NYT: In a Russian-occupied village, five men went off to feed cattle. Their relatives and neighbors are wondering what happened to them. 
- <p class="updated_time"> 02:04 AM CT, Apr. 18 </p> 
- <a href="https://www.npr.org/2022/04/18/1093280033/shanghai-reports-1st-deaths-from-current-covid-19-outbreak">Shanghai reports 1st deaths from current COVID-19 outbreak</a> NPR: Authorities reported the first COVID-19 deaths of the latest outbreak in China's most populous city and said all three  were elderly, had underlying conditions and had not been vaccinated. 
  <p class="updated_time"> 11:58 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61132626?at_medium=RSS&at_campaign=KARANGA">The elderly who can't flee their Ukrainian homes</a> BBC: Intense shelling in Mykolaiv has forced many people to flee, leaving some elderly residents behind. 
  <p class="updated_time"> 06:30 PM CT, Apr. 17 </p> 
@@ -125,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61111405?at_medium=RSS&at_campaign=KARANGA">Sri Lanka healthcare on verge of collapse in economic crisis</a> BBC: Doctors warn of catastrophe in Sri Lanka where medical supplies are running out in the financial crisis. 
  <p class="updated_time"> 04:49 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/us/second-covid-booster-60.html">Americans Over 60 Should Get Second Booster, Official Says</a> NYT: Citing data from Israel, the Biden administration’s Covid response coordinator said a second booster offered significant protection to older people. 
- <p class="updated_time"> 04:33 PM CT, Apr. 17 </p> 
- <a href="https://www.npr.org/2022/04/17/1093198718/russia-ukraine-war-what-happened-today-april-17">Russia-Ukraine war: What happened today (April 17) </a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:09 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/asia/afghanistan-airstrikes-pakistan.html">Death Toll From Pakistani Airstrike Rises to 45, Afghan Officials Say</a> NYT: The airstrikes in eastern Afghanistan early Saturday morning escalated already simmering tensions between the two countries. 
  <p class="updated_time"> 02:56 PM CT, Apr. 17 </p> 
@@ -196,10 +198,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:44 PM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/2022/04/18/us/politics/federal-mask-mandate-airplanes.html">A Federal Judge Strikes Down the Mask Mandate on Planes and Public Transit</a> NYT: The move comes less than a week after the Centers for Disease Control and Prevention extended it through May. 
  <p class="updated_time"> 03:34 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380881/on-tax-day-the-treasury-department-urges-for-more-funding-to-the-irs">On Tax Day, the Treasury Department urges for more funding to the IRS</a> NPR: NPR's Daniel Estrin talks with Deputy U.S. Treasury Secretary Wally Adeyemo about the deadline to file taxes and what the department says the IRS needs. 
- <p class="updated_time"> 03:33 PM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/2022/04/18/us/politics/federal-mask-mandate-airplanes.html">A Federal Judge Strikes Down the Mask Mandate on Planes and Public Transit</a> NYT: The move comes less than a week after the Centers for Disease Control and Prevention extended it through May. 
+ <p class="updated_time"> 03:28 PM CT, Apr. 18 </p> 
+ <a href="https://www.politico.com/news/2022/04/18/more-dem-senate-hopefuls-split-with-biden-on-border-00025925">More Dem Senate hopefuls split with Biden on border</a> Politico: Five more Senate candidates have joined growing Democratic calls for the administration to come up with a more detailed plan before revoking pandemic-era border restrictions. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380867/special-envoy-john-kerry-on-helping-small-island-nations-dealing-with-climate-ch">Special envoy John Kerry on helping small island nations dealing with climate change</a> NPR: NPR's Ari Shapiro speaks with John Kerry, U.S. special presidential envoy for climate, about the current outlook on climate change and the global endeavor to combat it. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
@@ -279,8 +283,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.politico.com/news/2022/04/17/kamala-harris-traveling-unconventional-places-00025695">Kamala Harris keeps traveling to unconventional places. Here’s why.</a> Politico: She’s taken a swing through the Delta and done a drop by in the bayou. It’s not quite the usual treks that a veep makes. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
- <a href="https://www.politico.com/news/2022/04/17/los-angeles-mayoral-race-crime-priorities-00025445">Crime upstages progressive priorities in Los Angeles mayor's race</a> Politico: The debate in Los Angeles is becoming a familiar story in big-city mayoral politics. 
- <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.politico.com/news/2022/04/17/house-dems-super-pac-latino-00025694">‘A slap in the face’: House Dems’ super PAC sparks Latino backlash</a> Politico: A newly drawn House district offered the prospect of electing Oregon’s first Latina to Congress. Then a top super PAC unexpectedly swooped in. 
  <p class="updated_time"> 04:00 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/04/17/1093113623/washington-long-term-care">Washington state retools first-in-nation payroll tax plan for long-term care costs</a> NPR: The WA Cares Fund would help alleviate the financial burden of long-term care by providing workers a lifetime benefit of $36,500. The program was delayed while lawmakers addressed equity issues. 
@@ -316,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/us/politics/mike-lee-chip-roy-jan-6-texts.html">Mike Lee’s Texts Show Encouragement, Then Alarm, Before Jan. 6</a> NYT: Senator Mike Lee and Representative Chip Roy, once backers of President Donald J. Trump’s claims of a stolen election, eventually urged his top aide to change course. 
  <p class="updated_time"> 04:09 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/us/cameroon-temporary-protected-status.html">U.S. Offers Protection to People Who Fled War in Cameroon</a> NYT: Temporary protected status will allow an estimated 40,000 Cameroonians to legally live and work in the United States. 
- <p class="updated_time"> 03:54 PM CT, Apr. 15 </p> 
- <a href="https://www.politico.com/news/2022/04/15/russia-banks-war-lawyers-firms-00025649">These lawyers and firms are still working with Russian banks, even amid the war</a> Politico: The work is legal. At least one lawyer says it’s needed, considering the new economic rules put in place during the war. 
 
 
 </details>
