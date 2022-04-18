@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:11 PM CT, Apr. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61145528?at_medium=RSS&at_campaign=KARANGA">White House hosts first Easter egg roll since pandemic</a> BBC: The Easter egg roll made its return to the White House's South Lawn on a rainy Monday. 
+ <p class="updated_time"> 04:07 PM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/2022/04/18/world/middleeast/israel-gaza-rocket-jerusalem.html">New Rocket Fire From Gaza Follows Rising Tensions in Jerusalem</a> NYT: The first strike from Gaza in several months came just days after clashes in and around the Aqsa Mosque compound, a sacred site for both Muslims and Jews. 
+ <p class="updated_time"> 04:00 PM CT, Apr. 18 </p> 
+ <a href="https://www.npr.org/2022/04/18/1093317257/russia-ukraine-war-what-happened-today-april-18">Russia-Ukraine war: What happened today (April 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:53 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">Ukraine Live Updates: Russian Offensive in East Has Started, Ukraine Says</a> NYT: Russia said it had hit hundreds of targets around Ukraine with missiles and artillery, apparent preparation for the onslaught in eastern Ukraine. 
  <p class="updated_time"> 03:45 PM CT, Apr. 18 </p> 
@@ -27,10 +33,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/18/1093380825/ukrainian-children-are-being-separated-from-extended-family-at-the-u-s-mexico-bo">Ukrainian children are being separated from extended family at the U.S.-Mexico border</a> NPR: Ukrainian refugees arriving at the U.S.-Mexico border are  enjoying expedited admission to the U.S. But children who arrive with family other than their parents are still being separated and detained. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380818/overnight-missile-strikes-have-killed-at-least-7-in-lviv-ukraine">Overnight missile strikes have killed at least 7 in Lviv, Ukraine</a> NPR: Missiles struck cities all across Ukraine overnight, including in the western city of Lviv, where at least 7 people were killed. The town had been relatively peaceful for weeks. 
+ <p class="updated_time"> 03:21 PM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Seven Killed in Russian Missile Strikes on Ukraine’s Lviv</a> WSJ: Seven Killed in Russian Missile Strikes on Ukraine’s Lviv 
  <p class="updated_time"> 03:20 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/as-congress-returns-from-break-calls-for-covid-funding-are-renewed.html">As Congress returns from break, calls for Covid funding are renewed.</a> NYT: A tense battle may soon resume over the stalled $10 billion pandemic aid package that senators failed to pass earlier this month. 
- <p class="updated_time"> 02:57 PM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Seven Killed in Russian Missile Strikes on Ukraine’s Lviv</a> WSJ: Seven Killed in Russian Missile Strikes on Ukraine’s Lviv 
  <p class="updated_time"> 02:53 PM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-61145127?at_medium=RSS&at_campaign=KARANGA">Apple staff make bid for first union at a US store</a> BBC: Employees must get signatures from 30% of staff at New York's Grand Central Station for a union election. 
  <p class="updated_time"> 02:51 PM CT, Apr. 18 </p> 
@@ -43,32 +49,34 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61113807?at_medium=RSS&at_campaign=KARANGA">KwaZulu-Natal floods: South Africa army to send 10,000 troops</a> BBC: A national state of disaster is declared after the devastation in KwaZulu-Natal province last week. 
  <p class="updated_time"> 02:33 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/global-covid-summit.html">A Second Global Covid-19 Summit Led By the White House Is Set for May</a> NYT: Efforts to subsidize more global vaccinations have stalled in Congress, and new coronavirus cases are on the rise in the U.S. 
+ <p class="updated_time"> 02:21 PM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/in-ukraines-south-russian-occupiers-tighten-the-screws-11650301398">In Ukraine’s South, Russian Occupiers Tighten the Screws</a> WSJ: In Ukraine’s South, Russian Occupiers Tighten the Screws 
  <p class="updated_time"> 02:18 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/ukrainians-mariupol-steel-plant.html">Thousands of Ukrainian Civilians Are Holed Up in a Steel Plant in Mariupol, Officials Say</a> NYT: Some 2,000 civilians who were driven from their homes have sheltered in a network of tunnels beneath the plant, an aide to the city’s mayor said. 
  <p class="updated_time"> 02:16 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/east-ukraine-russia-putin-war.html">Putin’s Ukraine Gamble Pivots to a Very Different Battlefield</a> NYT: After Russian forces were mauled in cities and towns in northern Ukraine, Vladimir V. Putin is shifting the focus of his invasion to the flatlands of Donbas, in the east. 
- <p class="updated_time"> 01:57 PM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/in-ukraines-south-russian-occupiers-tighten-the-screws-11650301398">In Ukraine’s South, Russian Occupiers Tighten the Screws</a> WSJ: In Ukraine’s South, Russian Occupiers Tighten the Screws 
  <p class="updated_time"> 01:36 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/french-election-macron-le-pen.html">Macron Vows Ambitious Green Policies, Wooing the Left in Runoff</a> NYT: France’s president is trying to tap into the country’s large pool of left-wing voters, but many are hesitant to back him. 
  <p class="updated_time"> 01:31 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/france-election-economy.html">French Candidates’ Economic Programs Hold Key to the Election</a> NYT: Promising tax cuts, higher wages and changes in the retirement age, President Macron and Marine Le Pen vie for undecided voters. 
  <p class="updated_time"> 01:30 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/france-islam-le-pen-head-scarf.html">Marine Le Pen Proposes Ban on Muslim Women Wearing Head Scarves</a> NYT: Marine Le Pen, the far-right contender, has proposed a ban on Muslim women wearing head scarves in public. 
- <p class="updated_time"> 12:57 PM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/sweden-arrests-dozens-in-clashes-over-far-right-leaders-plan-to-burn-quran-11650306872">Sweden Arrests Dozens in Clashes Over Far-Right Leader’s Plan to Burn Quran</a> WSJ: Sweden Arrests Dozens in Clashes Over Far-Right Leader’s Plan to Burn Quran 
+ <p class="updated_time"> 01:21 PM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/sweden-arrests-dozens-in-clashes-over-far-right-leaders-plan-to-burn-quran-11650306872">Sweden Arrests Dozens in Clashes Over Burning of Quran</a> WSJ: Sweden Arrests Dozens in Clashes Over Burning of Quran 
  <p class="updated_time"> 12:39 PM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61144442?at_medium=RSS&at_campaign=KARANGA">Pakistan: Death sentences over killing of Sri Lankan accused of blasphemy</a> BBC: Dozens are also given jail terms for the lynching of a Sri Lankan man accused of insulting Islam. 
  <p class="updated_time"> 12:30 PM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61140262?at_medium=RSS&at_campaign=KARANGA">French elections: Macron v Le Pen and two visions for France</a> BBC: French voters have a big choice to make on public services, immigration and foreign policy. 
  <p class="updated_time"> 12:26 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093329631/companies-leaving-russia-ukraine">200,000 could lose their jobs as Western companies withdraw, Moscow mayor says</a> NPR: The city is preparing to retrain some workers and give temporary public works jobs to thousands more as a growing number of Western companies distance themselves from Russia. 
+ <p class="updated_time"> 12:21 PM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/israels-government-faces-collapse-as-arab-party-threatens-to-quit-over-jerusalem-clashes-11650299981">Israel’s Government Faces Possible Collapse</a> WSJ: Israel’s Government Faces Possible Collapse 
  <p class="updated_time"> 12:15 PM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61139415?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Donbas tourist town braces for Russian assault</a> BBC: Sviatohirsk was a tourist trail staple but is now just another place in the Donbas where people flee war. 
- <p class="updated_time"> 11:57 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/israels-government-faces-collapse-as-arab-party-threatens-to-quit-over-jerusalem-clashes-11650299981">Israel’s Government Faces Possible Collapse</a> WSJ: Israel’s Government Faces Possible Collapse 
  <p class="updated_time"> 11:40 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61141118?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Dramatic images appear to show sinking Russian warship Moskva</a> BBC: Russia says the Moskva sank after an explosion of ammunition, but Ukrainians say they hit it with missiles. 
+ <p class="updated_time"> 11:21 AM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/chinas-covid-19-restrictions-threatens-economic-recovery-11650287954">China’s Pandemic Restrictions Threaten Economic Recovery</a> WSJ: China’s Pandemic Restrictions Threaten Economic Recovery 
  <p class="updated_time"> 11:20 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/russian-economy-bleak-assessments.html">Bleak Assessments of Russian Economy Contradict Putin’s Rosy Claims</a> NYT: While Vladimir V. Putin boasts that Russia is holding up under Western sanctions, his central bank chief and the mayor of Moscow warned that the worst is yet to come. 
  <p class="updated_time"> 11:10 AM CT, Apr. 18 </p> 
@@ -79,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61117469?at_medium=RSS&at_campaign=KARANGA">Irish Travellers 'mental health crisis' driven by discrimination and deprivation</a> BBC: Discrimination and deprivation are among key factors in the struggles felt by the community in Ireland. 
  <p class="updated_time"> 11:00 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61133612?at_medium=RSS&at_campaign=KARANGA">Irish Travellers say racism is causing a suicide crisis</a> BBC: More than one in 10 deaths in the community are recorded as suicide, with systematic racism being blamed. 
- <p class="updated_time"> 10:57 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/chinas-covid-19-restrictions-threatens-economic-recovery-11650287954">China’s Pandemic Restrictions Threaten Economic Recovery</a> WSJ: China’s Pandemic Restrictions Threaten Economic Recovery 
  <p class="updated_time"> 10:40 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-forces-cluster-munitions.html">To Push Back Russians, Ukrainians Hit a Village With Cluster Munitions</a> NYT: The New York Times verified that Ukraine’s forces appeared to fire at least two of these internationally banned weapons in a neighborhood, putting Ukrainian civilians at extreme risk. 
  <p class="updated_time"> 10:16 AM CT, Apr. 18 </p> 
@@ -103,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/18/1093281214/missile-strikes-in-western-ukraine-kill-6-as-country-braces-for-new-assault-in-e">Missile strikes in western Ukraine kill 6 as country braces for new assault in east</a> NPR: Russian missile strikes on the western Ukrainian city of Lviv killed six people and wounded at least eight, the regional governor said, which appeared to target military infrastructure facilities 
  <p class="updated_time"> 04:05 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093282038/russia-war-public-opinion-polling">What Russians think of the war in Ukraine, according to an independent pollster</a> NPR: Denis Volkov acknowledges that public opinion polling in Russia has its challenges and pitfalls, but says the findings still hold valuable information. 
- <p class="updated_time"> 04:05 AM CT, Apr. 18 </p> 
- <a href="https://www.npr.org/2022/04/18/1093282010/jerusalem-sees-unrest-during-convergence-of-passover-ramadan-and-easter">Jerusalem sees unrest during convergence of Passover, Ramadan and Easter</a> NPR: NPR's Leila Fadel speaks to International Crisis Group analyst Mairav Zonszein about unrest in Jerusalem and what it means for the already volatile region. 
  <p class="updated_time"> 04:02 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/16/health/global-covid-deaths-who-india.html">India Is Stalling the W.H.O.’s Efforts to Make Global Covid Death Toll Public</a> NYT: The agency has calculated that 15 million people have died as a result of the pandemic, far more than earlier estimates, but has yet to release those numbers. 
  <p class="updated_time"> 04:00 AM CT, Apr. 18 </p> 
@@ -189,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-us-weapons-warning.html">Girding for New Battle, Russia Warns U.S. on Advanced Weapons for Ukraine</a> NYT: The warnings were regarded as a sign that American military assistance to Ukraine was compounding problems for the Russians in their two-month-old invasion. 
  <p class="updated_time"> 04:56 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/climate/biden-drilling-oil-leases.html">Biden Plans to Open More Public Land to Drilling</a> NYT: The president is under pressure to bring down gas prices, but any new drilling would be years away. The fees that companies pay would rise sharply. 
- <p class="updated_time"> 04:28 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/world/middleeast/jerusalem-tattoo-artist.html">Jerusalem Tattoo Artist Inks Pilgrims, Priests and Those Scarred by Conflict</a> NYT: For Wassim Razzouk, Holy Week is his busiest time as Christians seek a reminder of their visit to Jerusalem. But his family’s centuries-old tattoo business caters to all faiths. 
 
 
 </details>
@@ -198,22 +200,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:16 PM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/2022/04/18/us/politics/supreme-court-vaccine-airman.html">Supreme Court Rules Against Air Force Officer Who Refused Vaccine</a> NYT: The justices said the Pentagon need not accommodate Lt. Col. Jonathan Dunn, who said he had a religious objection to the coronavirus vaccine. 
+ <p class="updated_time"> 04:15 PM CT, Apr. 18 </p> 
+ <a href="https://www.npr.org/2022/04/18/1093393477/the-house-and-senate-are-far-apart-on-their-bills-to-address-computer-chip-short">The House and Senate are far apart on their bills to address computer chip shortage</a> NPR: Both bodies have passed legislation on the matter, and the effort is one of their last opportunities before the November elections to show voters they are addressing strained supply chains. 
+ <p class="updated_time"> 04:10 PM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/2022/04/18/us/politics/white-house-easter-egg-roll.html">The White House Easter Egg Roll Returns</a> NYT: President Biden and Jill Biden, the first lady, hosted the first Egg Roll since the beginning of the pandemic. It was the largest event held at the White House since they moved in. 
+ <p class="updated_time"> 04:00 PM CT, Apr. 18 </p> 
+ <a href="https://www.npr.org/2022/04/18/1093317257/russia-ukraine-war-what-happened-today-april-18">Russia-Ukraine war: What happened today (April 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:55 PM CT, Apr. 18 </p> 
+ <a href="https://www.politico.com/news/2022/04/18/florida-critical-race-theory-math-textbooks-00025918">DeSantis defends math textbook rejection as Dems seek proof of critical race theory lessons</a> Politico: Education Department officials have not yet responded to requests from POLITICO to provide examples from textbooks deemed “impermissible” under state standards. 
  <p class="updated_time"> 03:44 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/federal-mask-mandate-airplanes.html">A Federal Judge Strikes Down the Mask Mandate on Planes and Public Transit</a> NYT: The move comes less than a week after the Centers for Disease Control and Prevention extended it through May. 
  <p class="updated_time"> 03:34 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380881/on-tax-day-the-treasury-department-urges-for-more-funding-to-the-irs">On Tax Day, the Treasury Department urges for more funding to the IRS</a> NPR: NPR's Daniel Estrin talks with Deputy U.S. Treasury Secretary Wally Adeyemo about the deadline to file taxes and what the department says the IRS needs. 
  <p class="updated_time"> 03:28 PM CT, Apr. 18 </p> 
- <a href="https://www.politico.com/news/2022/04/18/more-dem-senate-hopefuls-split-with-biden-on-border-00025925">More Dem Senate hopefuls split with Biden on border</a> Politico: Five more Senate candidates have joined growing Democratic calls for the administration to come up with a more detailed plan before revoking pandemic-era border restrictions. 
+ <a href="https://www.politico.com/news/2022/04/18/more-dem-senate-hopefuls-split-with-biden-on-border-00025925">More Dem Senate hopefuls split with Biden on border</a> Politico: Six more Senate candidates have joined growing Democratic calls for the administration to come up with a more detailed plan before revoking pandemic-era border restrictions. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380867/special-envoy-john-kerry-on-helping-small-island-nations-dealing-with-climate-ch">Special envoy John Kerry on helping small island nations dealing with climate change</a> NPR: NPR's Ari Shapiro speaks with John Kerry, U.S. special presidential envoy for climate, about the current outlook on climate change and the global endeavor to combat it. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380839/urban-league-ceo-on-how-2022-state-of-black-america-report-findings-impact-midte">Urban League CEO on how 2022 State of Black America report findings impact midterms</a> NPR: NPR's Daniel Estrin speaks with Marc Morial, the National Urban League's president and CEO, about the civil rights organization's semi-annual State of Black America Report. 
- <p class="updated_time"> 03:22 PM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/2022/04/18/us/politics/white-house-easter-egg-roll.html">The White House Easter Egg Roll Returns</a> NYT: President Biden and Jill Biden, the first lady, hosted the first Egg Roll since the beginning of the pandemic. It was the largest event held at the White House since they moved in. 
  <p class="updated_time"> 03:20 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/as-congress-returns-from-break-calls-for-covid-funding-are-renewed.html">As Congress returns from break, calls for Covid funding are renewed.</a> NYT: A tense battle may soon resume over the stalled $10 billion pandemic aid package that senators failed to pass earlier this month. 
- <p class="updated_time"> 03:17 PM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/2022/04/18/us/politics/supreme-court-vaccine-airman.html">Supreme Court Rules Against Airman Who Refused Vaccine</a> NYT: The justices said the Pentagon need not accommodate Lt. Col. Jonathan Dunn, who said he had a religious objection to the coronavirus vaccine. 
  <p class="updated_time"> 03:01 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/trump-allies-election-decertify.html">Trump Allies Are Still Feeding the False 2020 Election Narrative</a> NYT: Fifteen months after they tried and failed to overturn the 2020 election, the same group of lawyers and associates is continuing efforts to decertify the vote, feeding a false narrative. 
  <p class="updated_time"> 02:50 PM CT, Apr. 18 </p> 
@@ -260,8 +268,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/18/kids-are-behind-on-routine-immunizations-covid-vaccine-hesitancy-isnt-helping-00025503">Covid vaccine concerns are starting to spill over into routine immunizations</a> Politico: Public health leaders fear preventable and possibly fatal diseases could become more common. 
  <p class="updated_time"> 03:30 AM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/midterm-politics-endanger-bidens-tech-agenda-00025417">Midterm politicking comes for Biden’s stalled tech nominee</a> Politico: Moderate Democrats are under pressure to bail on a key nominee vital to the party's net neutrality plans. 
- <p class="updated_time"> 06:05 PM CT, Apr. 17 </p> 
- <a href="https://www.politico.com/news/2022/04/17/tesla-elon-musk-lawsuit-00025741">Tesla stockholders ask judge to silence Musk in fraud case</a> Politico: Shareholders are suing the CEO over some 2018 tweets about taking the company private. 
  <p class="updated_time"> 02:10 PM CT, Apr. 17 </p> 
  <a href="https://www.cnn.com/2022/04/17/politics/biden-approval-midterms-democrats/index.html">Biden confronts a host of problems he can't do much to solve</a> CNN: There's just not much President Joe Biden can do about it. 
  <p class="updated_time"> 12:02 PM CT, Apr. 17 </p> 
@@ -272,8 +278,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/17/mariupol-ukraine-surrender-die-00025720">Mariupol teeters as Ukrainians defy surrender-or-die demand</a> Politico: “We will fight absolutely to the end, to the win, in this war,” Ukrainian Prime Minister Denys Shmyhal vowed. 
  <p class="updated_time"> 11:20 AM CT, Apr. 17 </p> 
  <a href="https://www.politico.com/news/2022/04/17/fred-upton-house-majority-midterms-gop-00025716">Fred Upton: Slim House majority could spell trouble for post-midterms GOP</a> Politico: The retiring Michigan Republican spoke of his party's ability to get legislation passed. 
- <p class="updated_time"> 10:05 AM CT, Apr. 17 </p> 
- <a href="https://www.politico.com/news/2022/04/17/biden-covid-china-lockdowns-00025709">Biden Covid chief dismisses utility of lockdowns like China's</a> Politico: Ashish Jha casts doubt on China's zero-Covid strategy. 
  <p class="updated_time"> 09:01 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/us/politics/trump-mar-a-lago.html">Mar-a-Lago Machine: Trump as a Modern-Day Party Boss</a> NYT: Hoarding cash, doling out favors and seeking to crush rivals, the former president is dominating the G.O.P., preparing for another race and helping loyalists oust officials who thwarted his attempted subversion of the 2020 election. 
  <p class="updated_time"> 07:23 AM CT, Apr. 17 </p> 
@@ -292,12 +296,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/us/politics/biden-tax-returns.html">Biden’s Tax Forms Show He and the First Lady Earned $610,702 in 2021</a> NYT: The president and his wife, Dr. Jill Biden, also reported donations of $17,394 to 10 charities. 
  <p class="updated_time"> 11:35 AM CT, Apr. 16 </p> 
  <a href="https://www.politico.com/news/2022/04/16/gop-megadonors-congress-campaign-finance-disclosures-00025693">GOP megadonors go big in battle for Congress: 5 takeaways from new campaign money filings</a> Politico: Republican donors including private equity exec Stephen Schwarzman and hedge funder Ken Griffin poured millions more into major GOP super PACs in the first three months of 2022. 
- <p class="updated_time"> 08:44 AM CT, Apr. 16 </p> 
- <a href="https://www.npr.org/2022/04/16/1093195479/biden-federal-oil-leases-royalties">Biden increases oil royalty rate and scales back lease sales on federal lands</a> NPR: The U.S. government will sharply boost royalty rates for companies as federal officials weigh efforts to fight climate change against pressure to bring down high gasoline prices. 
  <p class="updated_time"> 07:15 AM CT, Apr. 16 </p> 
  <a href="https://www.politico.com/news/2022/04/16/don-odowd-elon-musk-00025688">He wants to destroy Elon Musk. He could end up endangering the Dems’ Senate plans.</a> Politico: Dan O’Dowd is running for office squarely as a means of bludgeoning the Tesla CEO. Could he screw up things for the incumbent? 
- <p class="updated_time"> 07:03 AM CT, Apr. 16 </p> 
- <a href="https://www.npr.org/2022/04/16/1093189677/week-in-politics-u-s-sends-more-money-to-ukraine-inflation-up-midterms-approach">Week in politics: U.S. sends more money to Ukraine; inflation up; midterms approach</a> NPR: President Biden's support for Ukraine has not garnered enthusiasm from the U.S. public. Another inflation record. And the Republicans drop out of presidential debates. 
+ <p class="updated_time"> 06:01 AM CT, Apr. 16 </p> 
+ <a href="https://www.politico.com/news/2022/04/16/eric-adams-100-days-top-10-00024620">#Fishgate to A$AP Rocky: Top 10 standout moments from Eric Adams' first 100 days</a> Politico: From the tragic to the triumphant, New York's mayor has stolen the headlines in his first few months in office. 
  <p class="updated_time"> 05:00 AM CT, Apr. 16 </p> 
  <a href="https://www.cnn.com/2022/04/16/politics/child-tax-credit-2021-tax-return/index.html">To get the entire child tax credit, you need to file your 2021 tax return</a> CNN: There's still time to claim the enhanced child tax credit as well as other federal tax breaks, which could be worth hundreds -- if not thousands -- of dollars. But you have to submit your 2021 tax return first. 
  <p class="updated_time"> 10:12 PM CT, Apr. 15 </p> 
@@ -316,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/15/trump-vance-endorsement-ohio-senate-race-00025667">Trump gives Vance coveted endorsement in Ohio Senate race</a> Politico: J.D. Vance and his rivals have been campaigning behind the scenes for Trump's support for more than a year. 
  <p class="updated_time"> 04:40 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/us/politics/mike-lee-chip-roy-jan-6-texts.html">Mike Lee’s Texts Show Encouragement, Then Alarm, Before Jan. 6</a> NYT: Senator Mike Lee and Representative Chip Roy, once backers of President Donald J. Trump’s claims of a stolen election, eventually urged his top aide to change course. 
- <p class="updated_time"> 04:09 PM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/us/cameroon-temporary-protected-status.html">U.S. Offers Protection to People Who Fled War in Cameroon</a> NYT: Temporary protected status will allow an estimated 40,000 Cameroonians to legally live and work in the United States. 
 
 
 </details>
