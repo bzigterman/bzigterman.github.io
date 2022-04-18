@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:14 AM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Launches Rare Attack on Lviv, Killing 7</a> NYT: The western city has been mostly spared from violence during the war, and hundreds of thousands have fled to Lviv, seeking relative safety. The strike appeared to be part of a Russian campaign to target major cities. 
+ <p class="updated_time"> 05:27 AM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Launches Rare Attack on Lviv, Killing 7</a> NYT: They were the first known deaths from the war in the western city, which until now had been spared the worst violence. The strike appeared to be part of a Russian campaign to target major cities. 
+ <p class="updated_time"> 05:25 AM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html">Days After the Sinking of the Russian Warship, Moskva, Questions Linger</a> NYT: A talk-show host, who usually reflects the Kremlin’s line, questioned how the ship was lost. 
+ <p class="updated_time"> 04:40 AM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Seven Killed in Russian Missile Strikes on Ukraine’s Lviv, Officials Say</a> WSJ: Seven Killed in Russian Missile Strikes on Ukraine’s Lviv, Officials Say 
  <p class="updated_time"> 04:35 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093281214/missile-strikes-in-western-ukraine-kill-6-as-country-braces-for-new-assault-in-e">Missile strikes in western Ukraine kill 6 as country braces for new assault in east</a> NPR: Russian missile strikes on the western Ukrainian city of Lviv killed six people and wounded at least eight, the regional governor said, which appeared to target military infrastructure facilities 
  <p class="updated_time"> 04:26 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61138306?at_medium=RSS&at_campaign=KARANGA">Gotabaya Rajapaksa: Beleaguered Sri Lanka leader appoints new cabinet</a> BBC: President Gotabaya Rajapaksa defies protesters' call for him to quit over a ruinous economic crisis. 
- <p class="updated_time"> 04:18 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Six Killed in Russian Missile Strikes on Ukraine’s Lviv, Officials Say</a> WSJ: Six Killed in Russian Missile Strikes on Ukraine’s Lviv, Officials Say 
  <p class="updated_time"> 04:05 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093282010/jerusalem-sees-unrest-during-convergence-of-passover-ramadan-and-easter">Jerusalem sees unrest during convergence of Passover, Ramadan, and Easter</a> NPR: NPR's Leila Fadel speaks to International Crisis Group analyst Mairav Zonszein about unrest in Jerusalem and what it means for the already volatile region. 
  <p class="updated_time"> 04:01 AM CT, Apr. 18 </p> 
@@ -29,30 +31,28 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/world/europe/france-election-economy.html">French Candidates’ Economic Programs Hold Key to the Election</a> NYT: Promising tax cuts, higher wages and changes in the retirement age, President Macron and Marine Le Pen vie for undecided voters. 
  <p class="updated_time"> 03:41 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61113807?at_medium=RSS&at_campaign=KARANGA">KwaZulu-Natal floods: Search for more than 60 missing people</a> BBC: KwaZulu-Natal is declared a disaster zone as sniffer dogs are brought in to help search for victims. 
+ <p class="updated_time"> 03:40 AM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/chinas-economy-expanded-4-8-in-first-quarter-beating-expectations-11650247529">China’s Economy Grew 4.8% in First Quarter, Beating Expectations</a> WSJ: China’s Economy Grew 4.8% in First Quarter, Beating Expectations 
  <p class="updated_time"> 03:37 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61137974?at_medium=RSS&at_campaign=KARANGA">Jahangirpuri: Shock and anger in Delhi after religious violence</a> BBC: Two days after the flare-up between Hindus and Muslims, the atmosphere was still tense in Jahangirpuri. 
- <p class="updated_time"> 03:18 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/chinas-economy-expanded-4-8-in-first-quarter-beating-expectations-11650247529">China’s Economy Grew 4.8% in First Quarter, Beating Expectations</a> WSJ: China’s Economy Grew 4.8% in First Quarter, Beating Expectations 
  <p class="updated_time"> 03:16 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61135901?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol defenders will fight to the end says PM</a> BBC: Capturing the city is a major strategic goal for Russia, leaving it in control of vast swathes of the country. 
  <p class="updated_time"> 03:00 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61139105?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How a BBC journalist's family escaped the country</a> BBC: Vitaly Shevchenko's family fled Ukraine with the help of two BBC audience members. 
  <p class="updated_time"> 02:56 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-russia-atrocities.html">‘They Are Gone, Vanished’: Missing Persons Haunt Ukrainian Village</a> NYT: In a Russian-occupied village, five men went off to feed cattle. Their relatives and neighbors are wondering what happened to them. 
- <p class="updated_time"> 02:18 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 02:40 AM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/shanghai-reports-first-covid-19-deaths-since-start-of-lockdown-11650257199">Shanghai Reports First Covid-19 Deaths Since Start of Lockdown</a> WSJ: Shanghai Reports First Covid-19 Deaths Since Start of Lockdown 
  <p class="updated_time"> 02:04 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093280033/shanghai-reports-1st-deaths-from-current-covid-19-outbreak">Shanghai reports 1st deaths from current COVID-19 outbreak</a> NPR: Authorities reported the first COVID-19 deaths of the latest outbreak in China's most populous city and said all three  were elderly, had underlying conditions and had not been vaccinated. 
- <p class="updated_time"> 01:18 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 01:40 AM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/china-eastern-resumes-flights-of-boeing-737-model-involved-in-crash-11650260417">China Eastern Resumes Flights of Boeing 737 Model Involved in Crash</a> WSJ: China Eastern Resumes Flights of Boeing 737 Model Involved in Crash 
- <p class="updated_time"> 12:18 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 12:40 AM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-pushed-yemens-elected-president-to-step-aside-saudi-and-yemeni-officials-say-11650224802">Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say</a> WSJ: Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say 
  <p class="updated_time"> 11:58 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61132626?at_medium=RSS&at_campaign=KARANGA">The elderly who can't flee their Ukrainian homes</a> BBC: Intense shelling in Mykolaiv has forced many people to flee, leaving some elderly residents behind. 
  <p class="updated_time"> 11:22 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61036737?at_medium=RSS&at_campaign=KARANGA">Shanghai: China reports three dead in latest Covid outbreak</a> BBC: Official figures earlier said there had been no Covid-linked deaths in Shanghai since 2020. 
- <p class="updated_time"> 08:00 PM CT, Apr. 17 </p> 
- <a href="https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html">Days After the Sinking of the Russian Warship, Moskva, Questions Linger</a> NYT: A talk-show host, who usually reflects the Kremlin’s line, questioned how the ship was lost. 
  <p class="updated_time"> 06:30 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61118706?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Germany's conundrum over its ties with Russia</a> BBC: Berlin now has some hard decisions to make following years of dialogue and co-operation with Moscow. 
  <p class="updated_time"> 06:29 PM CT, Apr. 17 </p> 
@@ -185,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/world/europe/boris-johnson-fines-covid-reactions.html">Families of U.K. Covid Victims React to Boris Johnson Fines</a> NYT: Those unable to be with dying loved ones find no satisfaction or closure with the penalty Prime Minister Boris Johnson faces for breaking lockdown rules. 
  <p class="updated_time"> 08:25 AM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/russia-disinformation-transnistria.html">How Russian Disinformation Spreads Beyond Its Borders</a> NYT: A New York Times’ video team traveled to the breakaway region of Transnistria to find out what residents there believe about the war in Ukraine. 
- <p class="updated_time"> 06:22 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/world/australia/quiz-time-on-the-campaign-trail.html">Quiz Time on the Campaign Trail</a> NYT: Several “gotcha” questions for candidates, including one that Anthony Albanese got wrong, raise deeper questions about the quality of the nation’s political discourse. 
 
 
 </details>
