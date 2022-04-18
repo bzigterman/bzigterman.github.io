@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:38 AM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Launches Rare Attack on Lviv, Killing 6</a> NYT: The western city has been mostly spared from violence during the war, and hundreds of thousands have fled to Lviv, seeking relative safety. The strike appeared to be part of a Russian campaign to target major cities. 
+ <p class="updated_time"> 04:51 AM CT, Apr. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Launches Rare Attack on Lviv, Killing 7</a> NYT: The western city has been mostly spared from violence during the war, and hundreds of thousands have fled to Lviv, seeking relative safety. The strike appeared to be part of a Russian campaign to target major cities. 
  <p class="updated_time"> 04:35 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093281214/missile-strikes-in-western-ukraine-kill-6-as-country-braces-for-new-assault-in-e">Missile strikes in western Ukraine kill 6 as country braces for new assault in east</a> NPR: Russian missile strikes on the western Ukrainian city of Lviv killed six people and wounded at least eight, the regional governor said, which appeared to target military infrastructure facilities 
+ <p class="updated_time"> 04:26 AM CT, Apr. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61138306?at_medium=RSS&at_campaign=KARANGA">Gotabaya Rajapaksa: Beleaguered Sri Lanka leader appoints new cabinet</a> BBC: President Gotabaya Rajapaksa defies protesters' call for him to quit over a ruinous economic crisis. 
  <p class="updated_time"> 04:05 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093282010/jerusalem-sees-unrest-during-convergence-of-passover-ramadan-and-easter">Jerusalem sees unrest during convergence of Passover, Ramadan, and Easter</a> NPR: NPR's Leila Fadel speaks to International Crisis Group analyst Mairav Zonszein about unrest in Jerusalem and what it means for the already volatile region. 
  <p class="updated_time"> 04:01 AM CT, Apr. 18 </p> 
@@ -23,7 +25,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/world/canada/toronto-cannabis-stores.html">A ‘Wild West’ of Marijuana Shops Grows in Toronto</a> NYT: Permitted to operate during the pandemic, even during lockdowns, Toronto’s marijuana shops have flourished and changed the character of an iconic neighborhood. 
  <p class="updated_time"> 04:00 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/france-election-economy.html">French Candidates’ Economic Programs Hold Key to the Election</a> NYT: Promising tax cuts, higher wages and changes in the retirement age, President Macron and Marine Le Pen vie for undecided voters. 
- <p class="updated_time"> 03:42 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 03:56 AM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Six Killed in Russian Missile Strikes on Ukraine’s Lviv, Officials Say</a> WSJ: Six Killed in Russian Missile Strikes on Ukraine’s Lviv, Officials Say 
  <p class="updated_time"> 03:41 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61113807?at_medium=RSS&at_campaign=KARANGA">KwaZulu-Natal floods: Search for more than 60 missing people</a> BBC: KwaZulu-Natal is declared a disaster zone as sniffer dogs are brought in to help search for victims. 
@@ -35,17 +37,17 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61139105?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How a BBC journalist's family escaped the country</a> BBC: Vitaly Shevchenko's family fled Ukraine with the help of two BBC audience members. 
  <p class="updated_time"> 02:56 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-russia-atrocities.html">‘They Are Gone, Vanished’: Missing Persons Haunt Ukrainian Village</a> NYT: In a Russian-occupied village, five men went off to feed cattle. Their relatives and neighbors are wondering what happened to them. 
- <p class="updated_time"> 02:42 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 02:56 AM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/chinas-economy-expanded-4-8-in-first-quarter-beating-expectations-11650247529">China’s Economy Grew 4.8% in First Quarter, Beating Expectations</a> WSJ: China’s Economy Grew 4.8% in First Quarter, Beating Expectations 
  <p class="updated_time"> 02:04 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093280033/shanghai-reports-1st-deaths-from-current-covid-19-outbreak">Shanghai reports 1st deaths from current COVID-19 outbreak</a> NPR: Authorities reported the first COVID-19 deaths of the latest outbreak in China's most populous city and said all three  were elderly, had underlying conditions and had not been vaccinated. 
- <p class="updated_time"> 01:42 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 01:56 AM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/shanghai-reports-first-covid-19-deaths-since-start-of-lockdown-11650257199">Shanghai Reports First Covid-19 Deaths Since Start of Lockdown</a> WSJ: Shanghai Reports First Covid-19 Deaths Since Start of Lockdown 
- <p class="updated_time"> 12:42 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 12:56 AM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/china-eastern-resumes-flights-of-boeing-737-model-involved-in-crash-11650260417">China Eastern Resumes Flights of Boeing 737 Model Involved in Crash</a> WSJ: China Eastern Resumes Flights of Boeing 737 Model Involved in Crash 
  <p class="updated_time"> 11:58 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61132626?at_medium=RSS&at_campaign=KARANGA">The elderly who can't flee their Ukrainian homes</a> BBC: Intense shelling in Mykolaiv has forced many people to flee, leaving some elderly residents behind. 
- <p class="updated_time"> 11:42 PM CT, Apr. 17 </p> 
+ <p class="updated_time"> 11:56 PM CT, Apr. 17 </p> 
  <a href="https://www.wsj.com/articles/saudi-arabia-pushed-yemens-elected-president-to-step-aside-saudi-and-yemeni-officials-say-11650224802">Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say</a> WSJ: Saudi Arabia Pushed Yemen’s President to Step Aside, Saudi and Yemeni Officials Say 
  <p class="updated_time"> 11:22 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61036737?at_medium=RSS&at_campaign=KARANGA">Shanghai: China reports three dead in latest Covid outbreak</a> BBC: Official figures earlier said there had been no Covid-linked deaths in Shanghai since 2020. 
@@ -135,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/16/1093212495/the-u-s-does-not-recognize-the-jurisdiction-of-the-international-criminal-court">The U.S. does not recognize the jurisdiction of the International Criminal Court</a> NPR: NPR's Michel Martin speaks with John Bellinger III, a former legal adviser for the National Security Council, about the complicated relationship the U.S. has with the International Criminal Court. 
  <p class="updated_time"> 03:54 PM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1093212488/what-life-is-like-in-the-ukrainian-city-of-mykolaiv">What life is like in the Ukrainian city of Mykolaiv</a> NPR: Mykolaiv sits near the edge of Russian-occupied areas of the country. We visit on the eve of an expected new Russian offensive in the area. 
- <p class="updated_time"> 02:38 PM CT, Apr. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61129151?at_medium=RSS&at_campaign=KARANGA">Russian warship: Moskva crew 'shown for first time since sinking'</a> BBC: Russia's defence ministry releases a video purportedly showing the crew of the Moskva in Sevastopol. 
  <p class="updated_time"> 01:52 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/middleeast/palestinians-israel-violence.html">Israel Steps Up Raids in Palestinian Territories in Response to Attacks</a> NYT: At least 14 Palestinians have been killed in a widespread Israeli military operation in the West Bank, launched in response to a string of attacks in Israel that killed 14 people. 
  <p class="updated_time"> 01:48 PM CT, Apr. 16 </p> 
@@ -246,6 +246,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/17/kamala-harris-traveling-unconventional-places-00025695">Kamala Harris keeps traveling to unconventional places. Here’s why.</a> Politico: She’s taken a swing through the Delta and done a drop by in the bayou. It’s not quite the usual treks that a veep makes. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.politico.com/news/2022/04/17/los-angeles-mayoral-race-crime-priorities-00025445">Crime upstages progressive priorities in Los Angeles mayor's race</a> Politico: The debate in Los Angeles is becoming a familiar story in big-city mayoral politics. 
+ <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
+ <a href="https://www.politico.com/news/2022/04/17/house-dems-super-pac-latino-00025694">‘A slap in the face’: House Dems’ super PAC sparks Latino backlash</a> Politico: A newly drawn House district offered the prospect of electing Oregon’s first Latina to Congress. Then a top super PAC unexpectedly swooped in. 
  <p class="updated_time"> 04:00 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/04/17/1093113623/washington-long-term-care">Washington state retools a first-in-nation payroll tax plan for long-term care costs</a> NPR: The WA Cares Fund would help alleviate the financial burden of long-term care by providing workers a lifetime benefit of $36,500. The program was delayed while lawmakers addressed equity issues. 
  <p class="updated_time"> 04:57 PM CT, Apr. 16 </p> 
@@ -300,8 +302,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/15/1093132507/the-bidens-paid-24-6-taxes-on-610-702-earnings-their-tax-returns-show">The Bidens paid a 24.6% tax rate on $610,702 in earnings, their filings show</a> NPR: Vice President Kamala Harris and her husband Doug Emhoff earned $1,655,563 in 2021 and paid $523,371 — a federal income tax rate of 31.6% — their tax filings show. 
  <p class="updated_time"> 03:22 PM CT, Apr. 15 </p> 
  <a href="https://www.politico.com/news/2022/04/15/biden-tax-return-00025643">Biden releases tax return, reports paying 24.6 percent rate</a> Politico: The bulk of the Bidens' earnings came from the president's salary. 
- <p class="updated_time"> 02:32 PM CT, Apr. 15 </p> 
- <a href="https://www.politico.com/news/2022/04/15/scott-pruitt-oklahoma-senate-epa-trump-00025628">Trump EPA chief Scott Pruitt files for Senate in Oklahoma</a> Politico: Pruitt is one of a number of former Trump administration officials running for Congress this year. 
  <p class="updated_time"> 01:57 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/business/economy/michael-barr-federal-reserve.html">Biden to Nominate Michael Barr as Fed Vice Chair for Supervision</a> NYT: Mr. Barr faced pushback from progressives when his name was floated for a different position. 
  <p class="updated_time"> 07:29 AM CT, Apr. 15 </p> 
