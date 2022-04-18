@@ -9,16 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:18 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 07:48 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Launches Rare Attack on Lviv, Killing 7</a> NYT: They were the first known deaths from the war in the western city, which until now had been spared the worst violence. The strike appeared to be part of a Russian campaign to target major cities. 
- <p class="updated_time"> 07:17 AM CT, Apr. 18 </p> 
+ <p class="updated_time"> 07:40 AM CT, Apr. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61141420?at_medium=RSS&at_campaign=KARANGA">Evergreen vessel freed after a month aground in US waters</a> BBC: Two previous attempts to dislodge the Ever Forward from shallow Maryland waters were unsuccessful. 
+ <p class="updated_time"> 07:33 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-forces-cluster-munitions.html">To Push Back Russians, Ukrainians Hit a Village With Cluster Munitions</a> NYT: The New York Times verified that Ukraine’s forces fired at least two of these internationally banned weapons in a neighborhood, putting Ukrainian civilians at extreme risk. 
+ <p class="updated_time"> 07:01 AM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Seven Killed in Russian Missile Strikes on Ukraine’s Lviv, Officials Say</a> WSJ: Seven Killed in Russian Missile Strikes on Ukraine’s Lviv, Officials Say 
  <p class="updated_time"> 06:30 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61113807?at_medium=RSS&at_campaign=KARANGA">KwaZulu-Natal floods: Army to send 10,000 troops</a> BBC: KwaZulu-Natal is declared a disaster zone as sniffer dogs are brought in to help search for victims. 
- <p class="updated_time"> 06:21 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Seven Killed in Russian Missile Strikes on Ukraine’s Lviv, Officials Say</a> WSJ: Seven Killed in Russian Missile Strikes on Ukraine’s Lviv, Officials Say 
  <p class="updated_time"> 06:18 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093289012/riots-in-sweden">Riots erupt in Sweden over rallies by an anti-Islam group</a> NPR: Swedish police said they fired warning shots during a riot in an eastern city to disperse protesters angry about the far-right rallies. Three people were slightly injured during the clashes. 
+ <p class="updated_time"> 06:01 AM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/chinas-economy-expanded-4-8-in-first-quarter-beating-expectations-11650247529">China’s Economy Grew 4.8% in First Quarter, Beating Expectations</a> WSJ: China’s Economy Grew 4.8% in First Quarter, Beating Expectations 
  <p class="updated_time"> 06:00 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61139107?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Prince Harry hails 'extraordinary' Ukraine Invictus team</a> BBC: Prince Harry voices his support for Ukraine and applauded their attendance at the Invictus Games. 
  <p class="updated_time"> 05:42 AM CT, Apr. 18 </p> 
@@ -27,18 +31,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html">Days After the Sinking of the Russian Warship, Moskva, Questions Linger</a> NYT: A talk-show host, who usually reflects the Kremlin’s line, questioned how the ship was lost. 
  <p class="updated_time"> 05:23 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61139125?at_medium=RSS&at_campaign=KARANGA">Guarapuava: Shoot-out as Brazil robbers target security firm</a> BBC: In the latest large-scale robbery attempt, a gang used locals as human shields and set vans alight. 
- <p class="updated_time"> 05:21 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/chinas-economy-expanded-4-8-in-first-quarter-beating-expectations-11650247529">China’s Economy Grew 4.8% in First Quarter, Beating Expectations</a> WSJ: China’s Economy Grew 4.8% in First Quarter, Beating Expectations 
+ <p class="updated_time"> 05:01 AM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-reports-first-covid-19-deaths-since-start-of-lockdown-11650257199">Shanghai Reports First Covid-19 Deaths Since Start of Lockdown</a> WSJ: Shanghai Reports First Covid-19 Deaths Since Start of Lockdown 
  <p class="updated_time"> 04:35 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093281214/missile-strikes-in-western-ukraine-kill-6-as-country-braces-for-new-assault-in-e">Missile strikes in western Ukraine kill 6 as country braces for new assault in east</a> NPR: Russian missile strikes on the western Ukrainian city of Lviv killed six people and wounded at least eight, the regional governor said, which appeared to target military infrastructure facilities 
  <p class="updated_time"> 04:26 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61138306?at_medium=RSS&at_campaign=KARANGA">Gotabaya Rajapaksa: Beleaguered Sri Lanka leader appoints new cabinet</a> BBC: President Gotabaya Rajapaksa defies protesters' call for him to quit over a ruinous economic crisis. 
- <p class="updated_time"> 04:21 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/shanghai-reports-first-covid-19-deaths-since-start-of-lockdown-11650257199">Shanghai Reports First Covid-19 Deaths Since Start of Lockdown</a> WSJ: Shanghai Reports First Covid-19 Deaths Since Start of Lockdown 
  <p class="updated_time"> 04:05 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093282010/jerusalem-sees-unrest-during-convergence-of-passover-ramadan-and-easter">Jerusalem sees unrest during convergence of Passover, Ramadan and Easter</a> NPR: NPR's Leila Fadel speaks to International Crisis Group analyst Mairav Zonszein about unrest in Jerusalem and what it means for the already volatile region. 
  <p class="updated_time"> 04:01 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/16/health/global-covid-deaths-who-india.html">India Is Stalling the W.H.O.’s Efforts to Make Global Covid Death Toll Public</a> NYT: The agency has calculated that 15 million people have died as a result of the pandemic, far more than earlier estimates, but has yet to release those numbers. 
+ <p class="updated_time"> 04:01 AM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/nato-cyber-game-tests-defenses-amid-war-in-ukraine-11650274203">NATO Cyber Game Tests Defenses Amid War in Ukraine</a> WSJ: NATO Cyber Game Tests Defenses Amid War in Ukraine 
  <p class="updated_time"> 04:00 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/travel/south-georgia-island-recovery.html">A Portrait of South Georgia: Abundance, Exploitation, Recovery</a> NYT: A series of ecological initiatives, including the eradication of several invasive species, has dramatically revived the life and landscape of this remote sub-Antarctic island. 
  <p class="updated_time"> 04:00 AM CT, Apr. 18 </p> 
@@ -47,16 +51,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/world/europe/france-election-economy.html">French Candidates’ Economic Programs Hold Key to the Election</a> NYT: Promising tax cuts, higher wages and changes in the retirement age, President Macron and Marine Le Pen vie for undecided voters. 
  <p class="updated_time"> 03:37 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61137974?at_medium=RSS&at_campaign=KARANGA">Jahangirpuri: Shock and anger in Delhi after religious violence</a> BBC: Two days after the flare-up between Hindus and Muslims, the atmosphere was still tense in Jahangirpuri. 
- <p class="updated_time"> 03:21 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/nato-cyber-game-tests-defenses-amid-war-in-ukraine-11650274203">NATO Cyber Game Tests Defenses Amid War in Ukraine</a> WSJ: NATO Cyber Game Tests Defenses Amid War in Ukraine 
  <p class="updated_time"> 03:16 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61135901?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol defenders will fight to the end says PM</a> BBC: Capturing the city is a major strategic goal for Russia, leaving it in control of vast swathes of the country. 
+ <p class="updated_time"> 03:01 AM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/venice-biennale-makes-historic-turn-and-returnwithout-russia-11650219554">Venice Biennale Art Exhibition Makes Historic Turn and Return—Without Russia</a> WSJ: Venice Biennale Art Exhibition Makes Historic Turn and Return—Without Russia 
  <p class="updated_time"> 03:00 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61139105?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How a BBC journalist's family escaped the country</a> BBC: Vitaly Shevchenko's family fled Ukraine with the help of two BBC audience members. 
  <p class="updated_time"> 02:56 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-russia-atrocities.html">‘They Are Gone, Vanished’: Missing Persons Haunt Ukrainian Village</a> NYT: In a Russian-occupied village, five men went off to feed cattle. Their relatives and neighbors are wondering what happened to them. 
- <p class="updated_time"> 02:21 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/venice-biennale-makes-historic-turn-and-returnwithout-russia-11650219554">Venice Biennale Art Exhibition Makes Historic Turn and Return—Without Russia</a> WSJ: Venice Biennale Art Exhibition Makes Historic Turn and Return—Without Russia 
  <p class="updated_time"> 02:04 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093280033/shanghai-reports-1st-deaths-from-current-covid-19-outbreak">Shanghai reports 1st deaths from current COVID-19 outbreak</a> NPR: Authorities reported the first COVID-19 deaths of the latest outbreak in China's most populous city and said all three  were elderly, had underlying conditions and had not been vaccinated. 
  <p class="updated_time"> 11:58 PM CT, Apr. 17 </p> 
@@ -168,8 +170,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:26 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/world/europe/ukraine-russia-us-weapons-warning.html">Girding for New Battle, Russia Warns U.S. on Advanced Weapons for Ukraine</a> NYT: The warnings were regarded as a sign that American military assistance to Ukraine was compounding problems for the Russians in their two-month-old invasion. 
  <p class="updated_time"> 06:02 PM CT, Apr. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61099213?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Minesweeping dog helps clear Chernihiv of Russian explosives</a> BBC: Patron, a Jack Russell, has so far helped to remove hundreds of explosive devices. 
- <p class="updated_time"> 06:02 PM CT, Apr. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61110910?at_medium=RSS&at_campaign=KARANGA">Chernihiv is silent, after having been under constant attack from Russian forces</a> BBC: The Ukrainian city of Chernihiv was under constant attack until suddenly Russian forces withdrew. 
  <p class="updated_time"> 04:56 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/climate/biden-drilling-oil-leases.html">Biden Plans to Open More Public Land to Drilling</a> NYT: The president is under pressure to bring down gas prices, but any new drilling would be years away. The fees that companies pay would rise sharply. 
@@ -194,6 +194,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:41 AM CT, Apr. 18 </p> 
+ <a href="https://www.cnn.com/2022/04/16/politics/senate-house-2022-first-quarter-fundraising/index.html">6 takeaways from first quarter Senate and House fundraising reports</a> CNN: Senate Democrats face strong political headwinds in this year's midterm elections, but they have maintained -- and in some cases, super-charged -- their fundraising in pivotal states, new campaign finance reports show. 
  <p class="updated_time"> 04:05 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093282003/texas-gov-greg-abbotts-truck-inspection-policy-draws-ire">Texas Gov. Greg Abbott's truck inspection policy draws ire</a> NPR: NPR's Steve Inskeep talks to a Texas Republican criticizing Gov Greg Abbott's new truck inspection policy at the border, saying it's causing long delays and could lead to high prices for consumers. 
  <p class="updated_time"> 04:02 AM CT, Apr. 18 </p> 
@@ -262,6 +264,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/16/1093189677/week-in-politics-u-s-sends-more-money-to-ukraine-inflation-up-midterms-approach">Week in politics: U.S. sends more money to Ukraine; inflation up; midterms approach</a> NPR: President Biden's support for Ukraine has not garnered enthusiasm from the U.S. public. Another inflation record. And the Republicans drop out of presidential debates. 
  <p class="updated_time"> 06:01 AM CT, Apr. 16 </p> 
  <a href="https://www.politico.com/news/2022/04/16/eric-adams-100-days-top-10-00024620">#Fishgate to A$AP Rocky: Top 10 standout moments from Eric Adams' first 100 days</a> Politico: From the tragic to the triumphant, New York's mayor has stolen the headlines in his first few months in office. 
+ <p class="updated_time"> 05:00 AM CT, Apr. 16 </p> 
+ <a href="https://www.cnn.com/2022/04/16/politics/child-tax-credit-2021-tax-return/index.html">To get the entire child tax credit, you need to file your 2021 tax return</a> CNN: There's still time to claim the enhanced child tax credit as well as other federal tax breaks, which could be worth hundreds -- if not thousands -- of dollars. But you have to submit your 2021 tax return first. 
  <p class="updated_time"> 04:00 AM CT, Apr. 16 </p> 
  <a href="https://www.npr.org/2022/04/16/1092811802/russia-putin-bush-texas-summit-crawford">With Bush in 2001, Putin sought to charm students at a rural Texas high school</a> NPR: Back in 2001, Vladimir Putin was seeking respect from world leaders while pledging a new openness in Russia. That's what brought him to tiny Crawford, Texas, at the invite of President George W. Bush. 
  <p class="updated_time"> 10:12 PM CT, Apr. 15 </p> 
@@ -278,8 +282,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/15/us/politics/valerie-biden-owens-tell-all-books.html">Oh, Brother: The Not-Quite-Tell-All Books by Presidential Sisters</a> NYT: Valerie Biden Owens is one of a handful of presidential sisters who have taken the opportunity to dish on their brothers. 
  <p class="updated_time"> 05:27 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/us/politics/biden-ukraine-domestic-agenda.html">The War in Ukraine Is Upending Biden’s Agenda at Home</a> NYT: President Biden’s domestic ambitions have gotten smaller as the war diverts the attention of the White House and contributes to rising prices. 
- <p class="updated_time"> 05:26 PM CT, Apr. 15 </p> 
- <a href="https://www.cnn.com/2022/04/15/politics/mike-lee-chip-roy-text-messages-jan-6-mark-meadows-overturn-election/index.html">'We need ammo. We need fraud examples. We need it this weekend.' What the Meadows texts reveal about how two Trump congressional allies lobbied the White House to overturn the election.</a> CNN: In the weeks between the 2020 election and the January 6 attack on the US Capitol, almost 100 text messages from two staunch GOP allies of then-President Donald Trump reveal an aggressive attempt to lobby, encourage and eventually warn the White House over its efforts to overturn the election, according to messages obtained by the House select committee and reviewed by CNN. 
  <p class="updated_time"> 05:06 PM CT, Apr. 15 </p> 
  <a href="https://www.politico.com/news/2022/04/15/trump-vance-endorsement-ohio-senate-race-00025667">Trump gives Vance coveted endorsement in Ohio Senate race</a> Politico: J.D. Vance and his rivals have been campaigning behind the scenes for Trump's support for more than a year. 
  <p class="updated_time"> 04:47 PM CT, Apr. 15 </p> 
@@ -300,8 +302,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/15/biden-tax-return-00025643">Biden releases tax return, reports paying 24.6 percent rate</a> Politico: The bulk of the Bidens' earnings came from the president's salary. 
  <p class="updated_time"> 01:57 PM CT, Apr. 15 </p> 
  <a href="https://www.nytimes.com/2022/04/15/business/economy/michael-barr-federal-reserve.html">Biden to Nominate Michael Barr as Fed Vice Chair for Supervision</a> NYT: Mr. Barr faced pushback from progressives when his name was floated for a different position. 
- <p class="updated_time"> 07:29 AM CT, Apr. 15 </p> 
- <a href="https://www.nytimes.com/2022/04/15/science/interstellar-meteor-debate.html">Military Memo Adds to Possible Interstellar Meteor Mystery</a> NYT: The U.S. Space Command seemed to confirm a claim that a meteor from outside the solar system had entered Earth’s atmosphere, but other scientists and NASA are still not convinced. 
 
 
 </details>
