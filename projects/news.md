@@ -9,14 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:56 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/us/mask-mandate-flights.html">A Mask Mandate Ends Midflight, Sparking Cheers and Alarm</a> NYT: Airport terminals and flights erupted in applause, while some passengers said the abrupt policy change put them at risk. 
+ <p class="updated_time"> 10:51 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/world/europe/france-cartoons-presidential-election.html">Drawn and Caricatured: French Cartoonists on the Campaign Trail</a> NYT: Cartoonists play a high-profile role in France’s political discourse, and they have been busy drawing the presidential candidates as the race approaches its end. 
+ <p class="updated_time"> 10:50 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-forces-cluster-munitions.html">To Push Back Russians, Ukrainians Hit a Village With Cluster Munitions</a> NYT: The New York Times verified that Ukraine’s forces appeared to fire at least two of these internationally banned weapons in a neighborhood, putting Ukrainian civilians at extreme risk. 
  <p class="updated_time"> 10:46 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61139129?at_medium=RSS&at_campaign=KARANGA">Mexico's Maya train: Work halted over cave concerns</a> BBC: The project to build a railroad in the Yucatán Peninsula could harm underground caves, a judge rules. 
  <p class="updated_time"> 10:40 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61143808?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo and partner Georgina Rodriguez announce death of baby boy</a> BBC: Manchester United footballer Cristiano Ronaldo and partner Georgina Rodriguez say the death of their baby boy is the "greatest pain any parents can feel". 
  <p class="updated_time"> 10:35 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/04/19/world/south-africa-floods">South Africa Live Updates: President Declares a State of Disaster After Flooding</a> NYT: Nearly 4,000 homes have been destroyed and more than twice as many damaged in the Durban area after a week of punishing rains and mudslides. The death toll is now 443, with about four dozen people unaccounted for. 
- <p class="updated_time"> 10:34 AM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/us/mask-mandate-flights.html">A Mask Mandate Ends Midflight, Sparking Cheers and Alarm</a> NYT: Airport terminals and flights erupted in applause, while some passengers said the abrupt policy change put them at risk. 
  <p class="updated_time"> 10:32 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/letizia-battaglia-dead.html">Letizia Battaglia, Photographer of Mafia Brutality, Dies at 87</a> NYT: Her images of victims on the streets of Palermo were stamped on the nation’s consciousness as she challenged the grip mobsters had on her native Sicily. 
  <p class="updated_time"> 10:29 AM CT, Apr. 19 </p> 
@@ -25,9 +29,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61145045?at_medium=RSS&at_campaign=KARANGA">US judge throws out Biden mask mandate for planes and trains</a> BBC: A federal judge in Florida, appointed by Donald Trump, says the CDC exceeded its authority. 
  <p class="updated_time"> 10:24 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/asia/afghanistan-kabul-schools-attacked.html">Blasts at Kabul Schools Kill at Least 6 in Afghanistan</a> NYT: More than a dozen people were also wounded, one as young as 7. The attacks again challenged the Taliban’s promise of security, and stoked deep-seated fears in the Shiite community. 
- <p class="updated_time"> 10:13 AM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/world/europe/france-cartoons-presidential-election.html">Drawn and Caricatured: French Cartoonists on the Campaign Trail</a> NYT: Cartoonists play a high-profile role in France’s political discourse, and they have been busy drawing the presidential candidates as the race approaches its end. 
- <p class="updated_time"> 09:49 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 10:00 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 09:36 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/business/airline-mask-rules.html">Which U.S. Airlines Dropped Their Mask Mandate</a> NYT: After a federal mandate was struck down, the major carriers said masks would be optional on their domestic flights. 
@@ -39,25 +41,25 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/19/world/un-martin-griffith-covid.html">U.N. Official Said He Tested Positive for Covid After In-Person Meeting</a> NYT: One meeting had included the U.N.’s secretary general, but everyone in the room was wearing masks, a spokesman said. 
  <p class="updated_time"> 09:01 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61148248?at_medium=RSS&at_campaign=KARANGA">Kabul blasts kill six and wound 20 at boys' school</a> BBC: Two blasts outside a high school in the Afghan capital killed at least six people and wounded 20. 
+ <p class="updated_time"> 09:00 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/kabul-school-blasts-kill-six-as-afghanistan-violence-continues-11650377572">Kabul School Blasts Kill Six as Afghanistan Violence Continues</a> WSJ: Kabul School Blasts Kill Six as Afghanistan Violence Continues 
  <p class="updated_time"> 08:55 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093516886/yemen-houthi-child-soldiers">Yemen's Houthi rebels will stop using child soldiers, the U.N. says</a> NPR: Child soldiers have fought by the thousands during the country's war. The Houthis signed what the U.N. described as an "action plan" to end and prevent recruiting or using children in armed conflict 
  <p class="updated_time"> 08:52 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/russia-ukraine-donbas-strategy.html">Russia’s Thrust in Eastern Ukraine Combines Firepower and New Caution</a> NYT: The military campaign that Moscow said it had now begun appears much more methodical than those it pursued in the war’s first days 
- <p class="updated_time"> 08:49 AM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/kabul-school-blasts-kill-six-as-afghanistan-violence-continues-11650377572">Kabul School Blasts Kill Six as Afghanistan Violence Continues</a> WSJ: Kabul School Blasts Kill Six as Afghanistan Violence Continues 
  <p class="updated_time"> 08:07 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/climate/biden-climate-nepa-trump.html">Biden Restores Climate to Environmental Law, Reversing Trump</a> NYT: A new rule requires agencies to analyze the climate impacts of proposed highways, pipelines and other projects, and gives local communities more input. 
+ <p class="updated_time"> 08:00 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/frances-presidential-election-hinges-on-far-left-voters-11650377524">France’s Presidential Election Hinges on Far-Left Voters</a> WSJ: France’s Presidential Election Hinges on Far-Left Voters 
  <p class="updated_time"> 07:54 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093501394/ukraine-russia-donbas-offensive">Ukraine says Russia's offensive in Donbas has begun. Here's what we know</a> NPR: Ukrainian President Volodymyr Zelenskyy said Russian forces have begun their new offensive against cities in the east and south and that a "substantial part" of the Russian army is taking part. 
- <p class="updated_time"> 07:49 AM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/frances-presidential-election-hinges-on-far-left-voters-11650377524">France’s Presidential Election Hinges on Far-Left Voters</a> WSJ: France’s Presidential Election Hinges on Far-Left Voters 
  <p class="updated_time"> 07:43 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/health/death-records-africa-electronic-autopsy.html">A Door-to-Door Effort to Find Out Who Died Helps Low-Income Countries Aid the Living</a> NYT: Many developing countries don’t keep official death records. A novel effort uses “electronic autopsies” to count deaths, and record their cause. 
- <p class="updated_time"> 06:49 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 07:00 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/fleeing-war-ukrainians-with-cancer-find-refuge-in-europe-11650366000">Fleeing War, Ukrainians With Cancer Find Refuge in Europe</a> WSJ: Fleeing War, Ukrainians With Cancer Find Refuge in Europe 
  <p class="updated_time"> 06:08 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/canada/toronto-cannabis-stores.html">A ‘Wild West’ of Marijuana Shops Grows in Toronto</a> NYT: Permitted to operate during the pandemic, even during lockdowns, Toronto’s marijuana shops have flourished and changed the character of an iconic neighborhood. 
- <p class="updated_time"> 05:49 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 06:00 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/imf-cuts-china-growth-forecast-to-4-4-11650373201">IMF Cuts China Growth Forecast to 4.4%</a> WSJ: IMF Cuts China Growth Forecast to 4.4% 
  <p class="updated_time"> 05:30 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/sections/money/2022/04/19/1093339972/who-is-the-real-elvira-nabiullina">Who is the real Elvira Nabiullina?</a> NPR: Russian central bank chief Elvira Nabiullina has cultivated the image of a nerdy, opera-loving technocrat, trapped in place by Putin's decision to go to war in Ukraine. It's not that simple. 
@@ -93,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-war-russian-orthodox-church.html">Ukraine War Divides Orthodox Faithful</a> NYT: Around the world, national churches, parishes and even families are reassessing relations with Patriarch Kirill of Moscow, who has encouraged Russia’s aggression. 
  <p class="updated_time"> 06:23 PM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61077736?at_medium=RSS&at_campaign=KARANGA">Why women vote for India PM Narendra Modi's BJP</a> BBC: India's PM is an alpha male who leads a patriarchal party - so what's the appeal? 
- <p class="updated_time"> 06:23 PM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-forces-cluster-munitions.html">To Push Back Russians, Ukrainians Hit a Village With Cluster Munitions</a> NYT: The New York Times verified that Ukraine’s forces appeared to fire at least two of these internationally banned weapons in a neighborhood, putting Ukrainian civilians at extreme risk. 
  <p class="updated_time"> 06:17 PM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-61068688?at_medium=RSS&at_campaign=KARANGA">Are there affordable ways to cut your heating bill?</a> BBC: Alternatives to gas and oil heating are becoming more popular but are still expensive. 
  <p class="updated_time"> 05:29 PM CT, Apr. 18 </p> 
@@ -200,10 +200,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:51 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/business/mask-mandate-travel-transit.html">The end of a U.S. mask mandate for travel is met with elation and dread.</a> NYT: Some travelers and flight attendants cheered the end of the mask mandate but others are worried that it will result in more infections. 
  <p class="updated_time"> 10:39 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093537210/biden-environmental-reviews-infrastructure-projects-restored">Biden administration restores environmental reviews for major infrastructure projects</a> NPR: The move restores regulations guiding environmental reviews of big projects such as highways and pipelines that were scaled back by the Trump administration in a bid to fast-track the projects. 
- <p class="updated_time"> 10:36 AM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/business/mask-mandate-travel-transit.html">The end of a U.S. mask mandate for travel is met with elation and dread.</a> NYT: Some travelers and flight attendants cheered the end of the mask mandate but others are worried that it will result in more infections. 
  <p class="updated_time"> 10:10 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/moderna-vaccine-beta-variant.html">Moderna Says Trial Suggests Redesigned Vaccines Protect Against Variants</a> NYT: Researchers combined Moderna’s existing vaccine with one designed to attack the Beta variant, and found it provided a stronger defense against several variants. 
  <p class="updated_time"> 09:52 AM CT, Apr. 19 </p> 
