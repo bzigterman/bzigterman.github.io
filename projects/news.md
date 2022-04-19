@@ -9,26 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:37 PM CT, Apr. 19 </p> 
+ <p class="updated_time"> 05:25 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/04/19/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Declares New Phase of War as Forces Clash in East</a> NYT: Ukraine said it was resisting Russia’s initial thrusts in a sprawling offensive that could reshape the conflict. The Pentagon estimated that Moscow has added thousands of troops in Ukraine in recent days. 
+ <p class="updated_time"> 05:12 PM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/world/europe/us-ukraine-weaponry.html">The U.S. Races to Arm Ukraine With Heavier, More Advanced Weaponry</a> NYT: Washington and its allies are scouring Central Europe and the world to get Ukraine the weapons it needs for the next phase of the war. 
  <p class="updated_time"> 04:37 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/mariupol-azovstal-steel-plant.html">Huge Steel Plant in Mariupol Is a Fortress for Ukrainian Holdouts </a> NYT: Below the plant is a vast network of reinforced bunkers and passages sheltering thousands of fighters and civilians. Above ground are massive steel and concrete structures. 
  <p class="updated_time"> 04:36 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/business/economy/imf-world-economy-inflation.html">World Economic Outlook Dims as War and Pandemic Cast a Pall</a> NYT: The International Monetary Fund’s new World Economic Outlook expects growth to slow to 3.6 percent this year. The group is one of many to slash their forecasts recently. 
+ <p class="updated_time"> 04:34 PM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 04:17 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/middleeast/ukraine-memes-russia-fundraising.html">How Memes Are Driving Ukraine’s Fundraising Efforts</a> NYT: A campaign using internet memes and merchandise has rallied international public support for Ukraine in its war with Russia. 
  <p class="updated_time"> 04:02 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093530974/russia-ukraine-war-what-happened-today-april-19">Russia-Ukraine war: What happened today (April 19)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:49 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/business/airline-mask-rules.html">Which U.S. Airlines Dropped Their Mask Mandate</a> NYT: After a federal mandate was struck down, major carriers said masks would be optional on domestic flights. 
- <p class="updated_time"> 03:43 PM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 03:38 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093620427/russian-officials-have-said-a-major-offensive-is-coming">Russian officials have said a major offensive is coming</a> NPR: Russian officials say they've begun a new phase of their invasion of Ukraine. Ukrainian officials report fierce clashes across a wide front in the east and south. 
  <p class="updated_time"> 03:34 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/04/19/world/south-africa-floods">South Africa Live Updates: Government Shifts to Rebuilding After Disastrous Flooding</a> NYT: Nearly 4,000 homes have been destroyed and more than twice as many damaged in the Durban area after a week of punishing rains and mudslides. The death toll is now 448, with about four dozen people unaccounted for. 
- <p class="updated_time"> 03:33 PM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/world/europe/us-ukraine-weaponry.html">The U.S. Races to Arm Ukraine With Heavier, More Advanced Weaponry</a> NYT: Washington and its allies are scouring Central Europe and the world to get Ukraine the weapons it needs for the next phase of the war. 
+ <p class="updated_time"> 03:34 PM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
  <p class="updated_time"> 03:32 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61155035?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv's allies pledge more weapons to help win war</a> BBC: Leaders agree to send artillery and other weapons as Russia launches a fresh offensive in eastern Ukraine. 
  <p class="updated_time"> 03:32 PM CT, Apr. 19 </p> 
@@ -51,26 +53,24 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61154559?at_medium=RSS&at_campaign=KARANGA">Johnny Depp v Amber Heard: Actor says he never hit a woman</a> BBC: The actor describes his childhood of physical abuse as he takes the stand in a Virginia court. 
  <p class="updated_time"> 02:59 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/boris-johnson-parliament-apologies.html">Johnson Is All Apologies Before Parliament After ‘Partygate’ Fine</a> NYT: Though opposition politicians called him out, only one member of his own Conservative party called on him to resign. 
- <p class="updated_time"> 02:43 PM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
  <p class="updated_time"> 02:39 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/asia/hong-kong-star-ferry.html">Star Ferry, ‘Emblem of Hong Kong,’ May Sail Into History After 142 Years</a> NYT: Launched in 1880, the ferry has witnessed both Hong Kong’s transformation into a global financial hub and its history of protests. But battered by a pandemic, the service is struggling to survive. 
+ <p class="updated_time"> 02:34 PM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/israel-airstrikes-hit-gaza-after-rocket-fire-11650356706">Israel Airstrikes Hit Gaza After Rocket Fire</a> WSJ: Israel Airstrikes Hit Gaza After Rocket Fire 
  <p class="updated_time"> 02:26 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-masks-public-transportation.html">Biden Says It’s ‘Up to Them’ Whether Americans Want to Wear Masks</a> NYT: The decision to wear a mask is “up to them,” President Biden told reporters during a trip. 
- <p class="updated_time"> 01:43 PM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/israel-airstrikes-hit-gaza-after-rocket-fire-11650356706">Israel Airstrikes Hit Gaza After Rocket Fire</a> WSJ: Israel Airstrikes Hit Gaza After Rocket Fire 
+ <p class="updated_time"> 01:34 PM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/mariupol-in-ruins-still-looms-large-for-russia-and-ukraine-11650379925">Mariupol, in Ruins, Still Looms Large for Russia and Ukraine</a> WSJ: Mariupol, in Ruins, Still Looms Large for Russia and Ukraine 
  <p class="updated_time"> 01:30 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1092887616/ukraine-mariupol-missing">A Mariupol native has created a site for residents to find missing loved ones</a> NPR: Dmitriy Cherepanov, a lifelong Mariupol native, created MRPL.life, a site dedicated to helping residents locate missing loved ones in the besieged Ukrainian city. 
  <p class="updated_time"> 01:03 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/france-cartoons-presidential-election.html">Drawn and Caricatured: French Cartoonists on the Campaign Trail</a> NYT: Cartoonists play a high-profile role in France’s political discourse, and they have been busy drawing the presidential candidates as the race approaches its end. 
- <p class="updated_time"> 12:43 PM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/mariupol-in-ruins-still-looms-large-for-russia-and-ukraine-11650379925">Mariupol, in Ruins, Still Looms Large for Russia and Ukraine</a> WSJ: Mariupol, in Ruins, Still Looms Large for Russia and Ukraine 
  <p class="updated_time"> 12:42 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/climate/biden-climate-nepa-trump.html">Biden Restores Climate to Environmental Law, Reversing Trump</a> NYT: A new rule requires agencies to analyze the climate impacts of proposed highways, pipelines and other projects, and gives local communities more input. 
+ <p class="updated_time"> 12:34 PM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/china-signs-solomon-islands-pact-over-u-s-australia-opposition-11650388369">China Signs Solomon Islands Pact</a> WSJ: China Signs Solomon Islands Pact 
  <p class="updated_time"> 12:04 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/theater/punchdrunk-burnt-city-troy.html">Inside ‘The Burnt City,’ Punchdrunk’s Take on the Fall of Troy </a> NYT: Punchdrunk’s “The Burnt City” adds techno and sake to the story of the fall of Troy, but it brought in a scholar of classical theater to get the details right. 
- <p class="updated_time"> 11:43 AM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/china-signs-solomon-islands-pact-over-u-s-australia-opposition-11650388369">China Signs Solomon Islands Pact</a> WSJ: China Signs Solomon Islands Pact 
  <p class="updated_time"> 11:40 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/russia-ukraine-donbas-strategy.html">Russia’s Thrust in Eastern Ukraine Combines Firepower and New Caution</a> NYT: The military campaign that Moscow said it had now begun appears much more methodical than those it pursued in the war’s first days 
  <p class="updated_time"> 11:28 AM CT, Apr. 19 </p> 
@@ -186,14 +186,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 PM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-mask-mandate-transportation.html">Biden Administration Says It May Appeal Public Transportation Mask Mandate Ruling</a> NYT: If the C.D.C. decides there is a public health basis for trying to reinstate and extend the mask mandate, the Justice Department will swiftly file an appeal. 
+ <p class="updated_time"> 05:27 PM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/business/mask-mandate-travel-transit.html">For Airlines, the Mask Mandate Couldn’t End Soon Enough</a> NYT: It created tensions between flight attendants and noncompliant passengers, but some travelers are worried about what comes next. 
+ <p class="updated_time"> 05:12 PM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/world/europe/us-ukraine-weaponry.html">The U.S. Races to Arm Ukraine With Heavier, More Advanced Weaponry</a> NYT: Washington and its allies are scouring Central Europe and the world to get Ukraine the weapons it needs for the next phase of the war. 
  <p class="updated_time"> 04:06 PM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/biden-administration-student-loan-forgiveness-income-based-repayment-00026322">Biden administration eases student loan forgiveness through income-based repayment plans</a> Politico: Officials said they would make a one-time revision to millions of borrower accounts to compensate for what they called longstanding failures of the agency and its contracted loan servicers. 
  <p class="updated_time"> 04:02 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093530974/russia-ukraine-war-what-happened-today-april-19">Russia-Ukraine war: What happened today (April 19)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:50 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093620462/floridas-rooftop-solar-industry-is-in-danger-with-new-legislation-before-desanti">Florida's rooftop solar industry is in danger with new legislation before DeSantis</a> NPR: The Sunshine State is set to dramatically reduce incentives for rooftop solar. Critics say it will not only hurt customers, but also cost jobs in one of Florida's fastest growing industries. 
- <p class="updated_time"> 03:33 PM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/world/europe/us-ukraine-weaponry.html">The U.S. Races to Arm Ukraine With Heavier, More Advanced Weaponry</a> NYT: Washington and its allies are scouring Central Europe and the world to get Ukraine the weapons it needs for the next phase of the war. 
  <p class="updated_time"> 03:32 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093620448/whos-checking-the-fact-checkers">Who's checking the fact checkers?</a> NPR: The latest weapon in the disinformation war: Fake fact checkers. Some channels on the app Telegram look like independent fact checkers, but are pro-Russian propaganda outlets spreading falsities. 
  <p class="updated_time"> 03:32 PM CT, Apr. 19 </p> 
@@ -212,8 +216,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/19/white-house-readying-more-security-assistance-to-ukraine-00026366">White House readying more security assistance to Ukraine</a> Politico: The preparations come as Russian forces have begun their anticipated assault on the Donbas region. 
  <p class="updated_time"> 02:07 PM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/white-house-mask-mandate-travel-00026329">White House won't rule out appealing suit that overturned mask mandate for travel</a> Politico: Speaking on board Air Force One, Psaki said DOJ's review will “take a couple of days." 
- <p class="updated_time"> 01:28 PM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/business/mask-mandate-travel-transit.html">The end of a U.S. mask mandate for travel is met with elation and dread.</a> NYT: Some travelers and flight attendants cheered the end of the mask mandate but others are worried that it will result in more infections. 
  <p class="updated_time"> 12:32 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093566982/florida-mask-mandate-judge-kathryn-mizelle">What to know about Judge Kathryn Mizelle, who struck down the travel mask mandate</a> NPR: Mizelle was nominated by former President Donald Trump in 2020 at age 33. The American Bar Association said at the time she wasn't qualified because she hadn't been practicing law for long enough. 
  <p class="updated_time"> 12:01 PM CT, Apr. 19 </p> 
@@ -258,8 +260,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/19/capitol-police-vetting-practices-first-amendment-concerns-00025904">Capitol Police's new vetting practices raise 'First Amendment concerns,' whistleblowers' lawyer says</a> Politico: An attorney for Capitol Police employees wrote that intelligence analysts were “directed” to search the social media pages of congressional staff, event attendees and hosts. 
  <p class="updated_time"> 02:58 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093479545/federal-judge-says-georgia-voters-can-challenge-greenes-reelection-run">Federal judge says Georgia voters can challenge Greene's reelection run</a> NPR: The voters are seeking to disqualify Rep. Marjorie Taylor Greene from running for reelection to Congress, citing her role in the deadly attack on the U.S. Capitol. 
- <p class="updated_time"> 11:23 PM CT, Apr. 18 </p> 
- <a href="https://www.politico.com/news/2022/04/19/russia-attacks-mariupol-steel-plant-00026172">Russia increases attacks on Mariupol steel plant</a> Politico: The Ukrainian forces have refused to surrender. 
  <p class="updated_time"> 09:52 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/federal-mask-mandate-airplanes.html">Federal Judge Strikes Down Mask Mandate for Planes, Public Transit</a> NYT: The nation’s largest airlines dropped the requirement within hours of the ruling, but New York’s M.T.A. said its passengers must still wear a mask for now. 
  <p class="updated_time"> 09:44 PM CT, Apr. 18 </p> 
