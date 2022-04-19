@@ -9,43 +9,43 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:30 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/19/world/ukraine-russia-war-news">Live Updates: Russia and Ukraine Clash Across Sprawling Front in East</a> NYT: Ukraine said it was resisting Russia’s initial thrusts in an offensive that may grow to define the next phase of the war. The Pentagon estimated that the Russian troop presence in Ukraine has grown by around 10,000 soldiers in recent days. 
  <p class="updated_time"> 06:08 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/canada/toronto-cannabis-stores.html">A ‘Wild West’ of Marijuana Shops Grows in Toronto</a> NYT: Permitted to operate during the pandemic, even during lockdowns, Toronto’s marijuana shops have flourished and changed the character of an iconic neighborhood. 
  <p class="updated_time"> 06:05 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61143808?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo and partner Georgina Rodriguez announce death of baby boy</a> BBC: Manchester United footballer Cristiano Ronaldo and partner Georgina Rodriguez say the death of their baby boy is the "greatest pain any parents can feel". 
  <p class="updated_time"> 06:02 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61148248?at_medium=RSS&at_campaign=KARANGA">Kabul blasts kill six and wound 11 at boys' school</a> BBC: Two blasts outside a high school in the Afghan capital killed at least six people and wounded 11. 
- <p class="updated_time"> 05:57 AM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/04/19/world/ukraine-russia-war-news">Live Updates: Russia and Ukraine Clash Across Sprawling Front in East</a> NYT: Ukraine said it was resisting Russia’s initial thrusts in an offensive that may grow to define the next phase of the war. The Pentagon estimated that the Russian troop presence in Ukraine has grown by around 10,000 soldiers in recent days. 
+ <p class="updated_time"> 05:34 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 05:30 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/sections/money/2022/04/19/1093339972/who-is-the-real-elvira-nabiullina">Who is the real Elvira Nabiullina?</a> NPR: Russian central bank chief Elvira Nabiullina has cultivated the image of a nerdy, opera-loving technocrat, trapped in place by Putin's decision to go to war in Ukraine. It's not that simple. 
- <p class="updated_time"> 05:20 AM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
+ <p class="updated_time"> 04:34 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/no-father-wants-to-sell-his-sons-kidney-afghans-pushed-to-desperate-measures-to-survive-11650360705">Desperate Afghans Sell Kidneys to Survive</a> WSJ: Desperate Afghans Sell Kidneys to Survive 
  <p class="updated_time"> 04:30 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/china-lockdowns.html">China’s Covid Shutdowns Go Far Beyond Shanghai</a> NYT: Cities and towns across the country are shutting down, hoping to sidestep the pitfalls and stumbles that Shanghai has faced battling the Omicron variant. 
  <p class="updated_time"> 04:23 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/mask-mandate-flights.html">A Mask Mandate Ends Midflight, Sparking Cheers and Alarm</a> NYT: Airport terminals and flights erupted in applause, while some passengers said the abrupt policy change put them at risk. 
- <p class="updated_time"> 04:20 AM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/no-father-wants-to-sell-his-sons-kidney-afghans-pushed-to-desperate-measures-to-survive-11650360705">Desperate Afghans Sell Kidneys to Survive</a> WSJ: Desperate Afghans Sell Kidneys to Survive 
  <p class="updated_time"> 04:00 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093025812/ukraine-russia-war-refugees-us-immigration-policy">A Ukrainian family finds solace in America but cannot escape heartbreak</a> NPR: When Russia invaded Ukraine, Eka Koliubaieva and her two daughters fled to the U.S., where a Virginia couple took them in after learning about the family's plight from a Facebook post. 
  <p class="updated_time"> 04:00 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1092793826/russian-invasion-upends-young-flourishing-ukrainian-publishing-industry">Russian invasion upends young, flourishing Ukrainian publishing industry</a> NPR: After the Crimea invasion, a backlash against Russian books filled with propaganda led to the growth of Ukraine's own book industry. But Russia's latest attacks and Covid have created major obstacles. 
- <p class="updated_time"> 03:20 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 03:34 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/in-ukraines-south-russian-occupiers-tighten-the-screws-11650301398">In Ukraine’s South, Russian Occupiers Tighten the Screws</a> WSJ: In Ukraine’s South, Russian Occupiers Tighten the Screws 
+ <p class="updated_time"> 02:34 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/israel-airstrikes-hit-gaza-after-rocket-fire-11650356706">Israel Airstrikes Hit Gaza After Rocket Fire</a> WSJ: Israel Airstrikes Hit Gaza After Rocket Fire 
  <p class="updated_time"> 02:26 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/prisoners-russia-ukraine-war.html">Prisoners Held by Both Russia and Ukraine Appeal to Leaders for Help</a> NYT: Two British fighters held by Russian asked to be traded for Viktor Medvedchuk, a wealthy Ukrainian ally of Russia’s president, Vladimir V. Putin. 
  <p class="updated_time"> 02:25 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/ukrainians-mariupol-steel-plant.html">Thousands of Ukrainian Civilians Are Holed Up in a Steel Plant in Mariupol, Officials Say</a> NYT: Some 2,000 civilians who were driven from their homes have sheltered in a network of tunnels beneath the plant, an aide to the city’s mayor said. 
- <p class="updated_time"> 02:20 AM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/israel-airstrikes-hit-gaza-after-rocket-fire-11650356706">Israel Airstrikes Hit Gaza After Rocket Fire</a> WSJ: Israel Airstrikes Hit Gaza After Rocket Fire 
  <p class="updated_time"> 02:18 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093477011/us-officials-off-to-solomon-islands-amid-concern-over-draft-security-pact-with-c">U.S. team is off to Solomon Islands amid concern over draft security pact with China</a> NPR: National Security Council Indo-Pacific corrdinator Kurt Campbell will lead the U.S. delegation after the Solomons and China initialed a draft agreement of a security pact last month. 
  <p class="updated_time"> 02:00 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/health/death-records-africa-electronic-autopsy.html">A Door-to-Door Effort to Find Out Who Died Helps Low-Income Countries Aid the Living</a> NYT: Many developing countries don’t keep official death records. A novel effort uses “electronic autopsies” to count deaths, and record their cause. 
  <p class="updated_time"> 02:00 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/asia/myanmars-coup-doctors.html">Myanmar’s Health System Is in Collapse, ‘Obliterated’ by the Regime</a> NYT: The country is also now one of the most dangerous places in the world to be a medical worker. At least 30 doctors have been killed since the coup, a rights group says. 
- <p class="updated_time"> 01:20 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 01:34 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/sweden-arrests-dozens-in-clashes-over-far-right-leaders-plan-to-burn-quran-11650306872">Sweden Arrests Dozens in Clashes Over Burning of Quran</a> WSJ: Sweden Arrests Dozens in Clashes Over Burning of Quran 
  <p class="updated_time"> 12:25 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093472819/global-finance-meeting-focuses-on-war-driven-food-insecurity">Global finance meeting focuses on war-driven food insecurity</a> NPR: Russia and Ukraine produce roughly 14% of the world's wheat supply, according to the United Nations, and the war has resulted in soaring food prices and fears about food security globally. 
