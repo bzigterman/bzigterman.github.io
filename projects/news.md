@@ -9,8 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:27 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 03:04 AM CT, Apr. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61148248?at_medium=RSS&at_campaign=KARANGA">Kabul blasts cause casualties at boys' school, say police</a> BBC: Two explosions targeting a high school in the Afghan capital have caused casualties, police say. 
+ <p class="updated_time"> 02:56 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">What Happened on Day 54 of the War in Ukraine</a> NYT: Russia said it had hit hundreds of targets around Ukraine with missiles and artillery, apparent preparation for the onslaught in eastern Ukraine. 
+ <p class="updated_time"> 02:36 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Russia Begins New Military Offensive in Ukraine’s East, Ukrainian President Says</a> WSJ: Russia Begins New Military Offensive in Ukraine’s East, Ukrainian President Says 
  <p class="updated_time"> 02:26 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/prisoners-russia-ukraine-war.html">Prisoners Held by Both Russia and Ukraine Appeal to Leaders for Help</a> NYT: Two British fighters held by Russian asked to be traded for Viktor Medvedchuk, a wealthy Ukrainian ally of Russia’s president, Vladimir V. Putin. 
  <p class="updated_time"> 02:25 AM CT, Apr. 19 </p> 
@@ -21,22 +25,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/19/health/death-records-africa-electronic-autopsy.html">A Door-to-Door Effort to Find Out Who Died Helps Low-Income Countries Aid the Living</a> NYT: Many developing countries don’t keep official death records. A novel effort uses “electronic autopsies” to count deaths, and record their cause. 
  <p class="updated_time"> 02:00 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/asia/myanmars-coup-doctors.html">Myanmar’s Health System Is in Collapse, ‘Obliterated’ by the Regime</a> NYT: The country is also now one of the most dangerous places in the world to be a medical worker. At least 30 doctors have been killed since the coup, a rights group says. 
- <p class="updated_time"> 01:49 AM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Russia Begins New Military Offensive in Ukraine’s East, Ukrainian President Says</a> WSJ: Russia Begins New Military Offensive in Ukraine’s East, Ukrainian President Says 
- <p class="updated_time"> 12:49 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 01:36 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/in-ukraines-south-russian-occupiers-tighten-the-screws-11650301398">In Ukraine’s South, Russian Occupiers Tighten the Screws</a> WSJ: In Ukraine’s South, Russian Occupiers Tighten the Screws 
+ <p class="updated_time"> 12:36 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/sweden-arrests-dozens-in-clashes-over-far-right-leaders-plan-to-burn-quran-11650306872">Sweden Arrests Dozens in Clashes Over Burning of Quran</a> WSJ: Sweden Arrests Dozens in Clashes Over Burning of Quran 
  <p class="updated_time"> 12:25 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093472819/global-finance-meeting-focuses-on-war-driven-food-insecurity">Global finance meeting focuses on war-driven food insecurity</a> NPR: Russia and Ukraine produce roughly 14% of the world's wheat supply, according to the United Nations, and the war has resulted in soaring food prices and fears about food security globally. 
  <p class="updated_time"> 12:03 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61146084?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Children's lives are upended as conflict rages</a> BBC: As fighting rages across Ukraine, Russia's invasion has shattered the lives of millions of children. 
- <p class="updated_time"> 11:49 PM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/sweden-arrests-dozens-in-clashes-over-far-right-leaders-plan-to-burn-quran-11650306872">Sweden Arrests Dozens in Clashes Over Burning of Quran</a> WSJ: Sweden Arrests Dozens in Clashes Over Burning of Quran 
- <p class="updated_time"> 10:49 PM CT, Apr. 18 </p> 
+ <p class="updated_time"> 11:36 PM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/israels-government-faces-collapse-as-arab-party-threatens-to-quit-over-jerusalem-clashes-11650299981">Israel’s Government Faces Possible Collapse</a> WSJ: Israel’s Government Faces Possible Collapse 
+ <p class="updated_time"> 10:36 PM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/chinas-covid-19-restrictions-threatens-economic-recovery-11650287954">China’s Pandemic Restrictions Threaten Economic Recovery</a> WSJ: China’s Pandemic Restrictions Threaten Economic Recovery 
  <p class="updated_time"> 10:18 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/business/airline-mask-rules.html">Which U.S. Airlines Dropped Their Mask Mandate</a> NYT: After a federal mandate was struck down, the major carriers said masks would be optional on their domestic flights. 
- <p class="updated_time"> 09:49 PM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/chinas-covid-19-restrictions-threatens-economic-recovery-11650287954">China’s Pandemic Restrictions Threaten Economic Recovery</a> WSJ: China’s Pandemic Restrictions Threaten Economic Recovery 
  <p class="updated_time"> 08:55 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093451075/masks-optional-airlines-travel">Some major U.S. airlines are dropping mask mandates for travelers</a> NPR: Delta, United, Southwest, American and Alaska Airlines say that masks are now optional for travelers on their aircraft. 
  <p class="updated_time"> 08:35 PM CT, Apr. 18 </p> 
@@ -68,7 +70,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:11 PM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61145528?at_medium=RSS&at_campaign=KARANGA">White House hosts first Easter egg roll since pandemic</a> BBC: The Easter egg roll made its return to the White House's South Lawn on a rainy Monday. 
  <p class="updated_time"> 04:07 PM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/2022/04/18/world/middleeast/israel-gaza-rocket-jerusalem.html">New Rocket Fire From Gaza Follows Rising Tensions in Jerusalem</a> NYT: The first strike from Gaza in several months came just days after clashes in and around the Aqsa Mosque compound, a sacred site for both Muslims and Jews. 
+ <a href="https://www.nytimes.com/2022/04/18/world/middleeast/israel-gaza-rocket-jerusalem.html">New Rocket Fire From Gaza Follows Rising Tensions in Israel</a> NYT: The first strike from Gaza in several months came just days after clashes in and around the Aqsa Mosque compound, a sacred site for both Muslims and Jews. 
  <p class="updated_time"> 04:00 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093317257/russia-ukraine-war-what-happened-today-april-18">Russia-Ukraine war: What happened today (April 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:45 PM CT, Apr. 18 </p> 
@@ -194,6 +196,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:58 AM CT, Apr. 19 </p> 
+ <a href="https://www.npr.org/2022/04/19/1093479545/federal-judge-says-georgia-voters-can-challenge-greenes-reelection-run">Federal judge says Georgia voters can challenge Greene's reelection run</a> NPR: Monday's ruling means a group of Georgia voters can proceed with efforts seeking to disqualify U.S Rep Marjorie Taylor Greene from running for reelection. 
  <p class="updated_time"> 11:23 PM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/19/russia-attacks-mariupol-steel-plant-00026172">Russia increases attacks on Mariupol steel plant</a> Politico: The Ukrainian forces have refused to surrender. 
  <p class="updated_time"> 09:52 PM CT, Apr. 18 </p> 
@@ -246,6 +250,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/18/judge-strikes-cdc-mask-mandate-travel-00025900">TSA won't enforce mask mandate for travel, following Florida ruling</a> Politico: A federal judge in Florida struck down the CDC's mask mandate for travel on Monday, ruling that the agency overstepped its statutory authority. 
  <p class="updated_time"> 01:19 PM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/new-mexico-democrats-energy-lesson-00024935">New Mexico’s Democrats offer an energy lesson for the party</a> Politico: The state has tripled its renewable energy since 2019, and it’s aiming to keep that momentum — but not at the expense of its prolific oil and gas fields. 
+ <p class="updated_time"> 12:08 PM CT, Apr. 18 </p> 
+ <a href="https://www.cnn.com/2022/04/18/politics/bidens-white-house-easter-egg-roll/index.html">Bidens host their first White House Easter Egg Roll after two years of the pandemic </a> CNN: President Joe Biden and first lady Jill Biden on Monday welcomed thousands of guests to the South Lawn of the White House for the Easter Egg Roll, an annual holiday tradition that had been canceled for the past two years because of the coronavirus pandemic. 
  <p class="updated_time"> 11:59 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/supreme-court-racial-bias-juror.html">Supreme Court Rejects Case on Juror Said to Harbor Racial Bias</a> NYT: The court’s three liberal members dissented, saying that Kristopher Love, a Texas death row inmate, should have been allowed to pursue his claim. 
  <p class="updated_time"> 11:51 AM CT, Apr. 18 </p> 
@@ -276,6 +282,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/18/midterm-politics-endanger-bidens-tech-agenda-00025417">Midterm politicking comes for Biden’s stalled tech nominee</a> Politico: Moderate Democrats are under pressure to bail on a key nominee vital to the party's net neutrality plans. 
  <p class="updated_time"> 03:30 AM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/anatoly-antonov-russia-ambassador-00025744">Lonely Anatoly: The Russian ambassador is Washington’s least popular man</a> Politico: Adrift and defiant, Anatoly Antonov walks the halls of an increasingly empty embassy, waiting for someone to call. 
+ <p class="updated_time"> 02:10 PM CT, Apr. 17 </p> 
+ <a href="https://www.cnn.com/2022/04/17/politics/biden-approval-midterms-democrats/index.html">Biden confronts a host of problems he can't do much to solve</a> CNN: There's just not much President Joe Biden can do about it. 
  <p class="updated_time"> 12:02 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/16/us/politics/trump-michigan-republicans.html">Trump’s Focus on 2020 Election Splits Michigan Republicans</a> NYT: The former president is trying to reshape the battleground state in his image. But his false claims about the 2020 election are driving a wedge between loyalists and those who are eager to move on. 
  <p class="updated_time"> 11:45 AM CT, Apr. 17 </p> 
@@ -292,8 +300,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/17/house-dems-super-pac-latino-00025694">‘A slap in the face’: House Dems’ super PAC sparks Latino backlash</a> Politico: A newly drawn House district offered the prospect of electing Oregon’s first Latina to Congress. Then a top super PAC unexpectedly swooped in. 
  <p class="updated_time"> 04:00 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/04/17/1093113623/washington-long-term-care">Washington state retools first-in-nation payroll tax plan for long-term care costs</a> NPR: The WA Cares Fund would help alleviate the financial burden of long-term care by providing workers a lifetime benefit of $36,500. The program was delayed while lawmakers addressed equity issues. 
- <p class="updated_time"> 04:57 PM CT, Apr. 16 </p> 
- <a href="https://www.npr.org/2022/04/16/1093215917/tps-cameroon-alejandro-mayorkas">The U.S. designates Temporary Protected Status to Cameroon for 18 months</a> NPR: The designation comes amid extreme violence between Cameroon's forces and separatists as well as a significant rise in attacks from Boko Haram, according to the Department of Homeland Security. 
  <p class="updated_time"> 12:27 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/15/us/politics/biden-tax-returns.html">Biden’s Tax Forms Show He and the First Lady Earned $610,702 in 2021</a> NYT: The president and his wife, Dr. Jill Biden, also reported donations of $17,394 to 10 charities. 
  <p class="updated_time"> 11:35 AM CT, Apr. 16 </p> 
