@@ -506,7 +506,7 @@ standings_plot_mobile <- function(division) {
     geom_vline(xintercept = 162,
                color = "grey50",
                size = .2) +
-    geom_line(size = .5) +
+    geom_line(size = .3) +
     geom_text(aes(x = game_n + 10),
               family = "mono",
               size = 2) +
