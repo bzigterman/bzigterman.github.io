@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:24 AM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/04/19/world/ukraine-russia-war-news">Ukraine Live Updates: East Braces for Full Force of Russia’s Offensive</a> NYT: While Ukraine’s leader declared the battle for Donbas underway, analysts said an initial Russian bombardment may be just a prelude to an all-out onslaught. 
+ <p class="updated_time"> 05:44 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/19/world/ukraine-russia-war-news">Live Updates: Russia and Ukraine Clash Across Wide Front in East</a> NYT: Ukraine said it was resisting Russia’s initial thrusts in a sprawling offensive that may grow to define the next phase of the war. The Pentagon estimated that the Russian troop presence in Ukraine has grown by around 10,000 soldiers in recent days. 
+ <p class="updated_time"> 05:30 AM CT, Apr. 19 </p> 
+ <a href="https://www.npr.org/sections/money/2022/04/19/1093339972/who-is-the-real-elvira-nabiullina">Who is the real Elvira Nabiullina?</a> NPR: Russian central bank chief Elvira Nabiullina has cultivated the image of a nerdy, opera-loving technocrat, trapped in place by Putin's decision to go to war in Ukraine. It's not that simple. 
+ <p class="updated_time"> 04:45 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Russia Begins New Military Offensive in Ukraine’s East, Ukrainian President Says</a> WSJ: Russia Begins New Military Offensive in Ukraine’s East, Ukrainian President Says 
  <p class="updated_time"> 04:30 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/china-lockdowns.html">China’s Covid Shutdowns Go Far Beyond Shanghai</a> NYT: Cities and towns across the country are shutting down, hoping to sidestep the pitfalls and stumbles that Shanghai has faced battling the Omicron variant. 
- <p class="updated_time"> 04:29 AM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 04:24 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61148248?at_medium=RSS&at_campaign=KARANGA">Kabul blasts kill four and wound many at boys' school</a> BBC: Two blasts outside a high school in the Afghan capital killed at least four people and wounded many. 
  <p class="updated_time"> 04:23 AM CT, Apr. 19 </p> 
@@ -23,24 +25,26 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/19/1093025812/ukraine-russia-war-refugees-us-immigration-policy">A Ukrainian family finds solace in America but cannot escape heartbreak</a> NPR: When Russia invaded Ukraine, Eka Koliubaieva and her two daughters fled to the U.S., where a Virginia couple took them in after learning about the family's plight from a Facebook post. 
  <p class="updated_time"> 04:00 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1092793826/russian-invasion-upends-young-flourishing-ukrainian-publishing-industry">Russian invasion upends young, flourishing Ukrainian publishing industry</a> NPR: After the Crimea invasion, a backlash against Russian books filled with propaganda led to the growth of Ukraine's own book industry. But Russia's latest attacks and Covid have created major obstacles. 
- <p class="updated_time"> 03:29 AM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/no-father-wants-to-sell-his-sons-kidney-afghans-pushed-to-desperate-measures-to-survive-11650360705">Desperate Afghans Sell Kidneys to Survive</a> WSJ: Desperate Afghans Sell Kidneys to Survive 
- <p class="updated_time"> 02:29 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 03:45 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/in-ukraines-south-russian-occupiers-tighten-the-screws-11650301398">In Ukraine’s South, Russian Occupiers Tighten the Screws</a> WSJ: In Ukraine’s South, Russian Occupiers Tighten the Screws 
+ <p class="updated_time"> 02:45 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/israel-airstrikes-hit-gaza-after-rocket-fire-11650356706">Israel Airstrikes Hit Gaza After Rocket Fire</a> WSJ: Israel Airstrikes Hit Gaza After Rocket Fire 
  <p class="updated_time"> 02:26 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/prisoners-russia-ukraine-war.html">Prisoners Held by Both Russia and Ukraine Appeal to Leaders for Help</a> NYT: Two British fighters held by Russian asked to be traded for Viktor Medvedchuk, a wealthy Ukrainian ally of Russia’s president, Vladimir V. Putin. 
  <p class="updated_time"> 02:25 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/ukrainians-mariupol-steel-plant.html">Thousands of Ukrainian Civilians Are Holed Up in a Steel Plant in Mariupol, Officials Say</a> NYT: Some 2,000 civilians who were driven from their homes have sheltered in a network of tunnels beneath the plant, an aide to the city’s mayor said. 
  <p class="updated_time"> 02:18 AM CT, Apr. 19 </p> 
- <a href="https://www.npr.org/2022/04/19/1093477011/us-officials-off-to-solomon-islands-amid-concern-over-draft-security-pact-with-c">US officials off to Solomon Islands amid concern over draft security pact with China</a> NPR: National Security Council Indo-Pacific corrdinator Kurt Campbell will lead the U.S. delegation after the Solomons and China initialed a draft agreement of a security pact last month. 
+ <a href="https://www.npr.org/2022/04/19/1093477011/us-officials-off-to-solomon-islands-amid-concern-over-draft-security-pact-with-c">U.S. team is off to Solomon Islands amid concern over draft security pact with China</a> NPR: National Security Council Indo-Pacific corrdinator Kurt Campbell will lead the U.S. delegation after the Solomons and China initialed a draft agreement of a security pact last month. 
  <p class="updated_time"> 02:00 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/health/death-records-africa-electronic-autopsy.html">A Door-to-Door Effort to Find Out Who Died Helps Low-Income Countries Aid the Living</a> NYT: Many developing countries don’t keep official death records. A novel effort uses “electronic autopsies” to count deaths, and record their cause. 
  <p class="updated_time"> 02:00 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/asia/myanmars-coup-doctors.html">Myanmar’s Health System Is in Collapse, ‘Obliterated’ by the Regime</a> NYT: The country is also now one of the most dangerous places in the world to be a medical worker. At least 30 doctors have been killed since the coup, a rights group says. 
- <p class="updated_time"> 01:29 AM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/israel-airstrikes-hit-gaza-after-rocket-fire-11650356706">Israel Airstrikes Hit Gaza After Rocket Fire</a> WSJ: Israel Airstrikes Hit Gaza After Rocket Fire 
- <p class="updated_time"> 12:29 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 01:45 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/sweden-arrests-dozens-in-clashes-over-far-right-leaders-plan-to-burn-quran-11650306872">Sweden Arrests Dozens in Clashes Over Burning of Quran</a> WSJ: Sweden Arrests Dozens in Clashes Over Burning of Quran 
+ <p class="updated_time"> 01:19 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia's Offensive Pushes Forward</a> WSJ: The main cities in the Ukrainian-controlled parts of the region have already turned into ghost towns, with almost all stores and businesses closed, streets emptied and only a handful of apartments in each block still inhabited. 
+ <p class="updated_time"> 12:45 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/chinas-covid-19-restrictions-threatens-economic-recovery-11650287954">China’s Pandemic Restrictions Threaten Economic Recovery</a> WSJ: China’s Pandemic Restrictions Threaten Economic Recovery 
  <p class="updated_time"> 12:25 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093472819/global-finance-meeting-focuses-on-war-driven-food-insecurity">Global finance meeting focuses on war-driven food insecurity</a> NPR: Russia and Ukraine produce roughly 14% of the world's wheat supply, according to the United Nations, and the war has resulted in soaring food prices and fears about food security globally. 
  <p class="updated_time"> 12:03 AM CT, Apr. 19 </p> 
@@ -79,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61145528?at_medium=RSS&at_campaign=KARANGA">White House hosts first Easter egg roll since pandemic</a> BBC: The Easter egg roll made its return to the White House's South Lawn on a rainy Monday. 
  <p class="updated_time"> 04:07 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/middleeast/israel-gaza-rocket-jerusalem.html">New Rocket Fire From Gaza Follows Rising Tensions in Israel</a> NYT: The first strike from Gaza in several months came just days after clashes in and around the Aqsa Mosque compound, a sacred site for both Muslims and Jews. 
- <p class="updated_time"> 04:03 PM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Russia Begins New Military Offensive in Ukraine's East, Ukrainian President Says</a> WSJ: President Volodymyr Zelensky says Russian forces have started the battle for Donbas. 
  <p class="updated_time"> 04:00 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093317257/russia-ukraine-war-what-happened-today-april-18">Russia-Ukraine war: What happened today (April 18)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:45 PM CT, Apr. 18 </p> 
@@ -95,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/18/1093380867/special-envoy-john-kerry-on-helping-small-island-nations-dealing-with-climate-ch">Special envoy John Kerry on helping small island nations dealing with climate change</a> NPR: NPR's Ari Shapiro speaks with John Kerry, U.S. special presidential envoy for climate, about the current outlook on climate change and the global endeavor to combat it. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380846/britain-has-partnered-with-rwanda-to-process-and-settle-thousands-of-migrants">Britain has partnered with Rwanda to process and settle thousands of migrants</a> NPR: The U.K. has signed a deal with Rwanda to send migrants to the East African nation. There, their claims for asylum can be processed and many may be asked to settle. 
- <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
- <a href="https://www.npr.org/2022/04/18/1093380825/ukrainian-children-are-being-separated-from-extended-family-at-the-u-s-mexico-bo">Ukrainian children are being separated from extended family at the U.S.-Mexico border</a> NPR: Ukrainian refugees arriving at the U.S.-Mexico border are  enjoying expedited admission to the U.S. But children who arrive with family other than their parents are still being separated and detained. 
  <p class="updated_time"> 02:33 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/global-covid-summit.html">A Second Global Covid-19 Summit Led By the White House Is Set for May</a> NYT: Efforts to subsidize more global vaccinations have stalled in Congress, and new coronavirus cases are on the rise in the U.S. 
  <p class="updated_time"> 02:16 PM CT, Apr. 18 </p> 
@@ -131,8 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61139107?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Prince Harry hails 'extraordinary' Ukraine Invictus team</a> BBC: Prince Harry voices his support for Ukraine and applauded their attendance at the Invictus Games. 
  <p class="updated_time"> 05:25 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/russia-ship-sinking-moskva.html">Days After the Sinking of the Russian Warship, Moskva, Questions Linger</a> NYT: A talk-show host, who usually reflects the Kremlin’s line, questioned how the ship was lost. 
- <p class="updated_time"> 04:19 AM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/chinas-covid-19-restrictions-threatens-economic-recovery-11650287954">China's Pandemic Restrictions Threaten Economic Recovery</a> WSJ: Though China’s first-quarter GDP figures painted a relatively rosy picture, the data didn’t capture the full impact of severe Covid-19 restrictions, which are emerging as the largest threat to growth. 
  <p class="updated_time"> 04:02 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/16/health/global-covid-deaths-who-india.html">India Is Stalling the W.H.O.’s Efforts to Make Global Covid Death Toll Public</a> NYT: The agency has calculated that 15 million people have died as a result of the pandemic, far more than earlier estimates, but has yet to release those numbers. 
  <p class="updated_time"> 04:00 AM CT, Apr. 18 </p> 
@@ -187,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/16/world/europe/nazi-soldier-watch-netherlands.html">A Nazi Soldier Stole a Watch in 1942. It Turned Up 80 Years Later.</a> NYT: The watch, made as a gift in 1910, has been returned to the maker’s family in the Netherlands. It still works. 
  <p class="updated_time"> 12:35 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/business/russia-debt-default.html">What Will Happen if Russia Defaults on Its Debt?</a> NYT: The ultimate arbiter of a sovereign default is an open question but markets may have the final word. 
- <p class="updated_time"> 12:30 PM CT, Apr. 16 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008293410/zaporizhzhia-ukraine-war.html">As Russia Pivots East, Ukrainians Ask: Are We Next?</a> NYT: Our cameras captured life on the front lines in southeast Ukraine, where Russian shelling is relentless and it feels like the war is inching closer every day. 
  <p class="updated_time"> 11:55 AM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/europe/ukraine-war-eastern-europe-insomnia.html">War in Ukraine Has Left Eastern Europe Sleepless</a> NYT: Mental health professionals across the region say they have seen an increase in patients with intense anxiety. Some are asking for more sleeping pills, and many are making escape plans. 
  <p class="updated_time"> 11:51 AM CT, Apr. 16 </p> 
@@ -204,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Apr. 19 </p> 
+ <a href="https://www.npr.org/sections/money/2022/04/19/1093339972/who-is-the-real-elvira-nabiullina">Who is the real Elvira Nabiullina?</a> NPR: Russian central bank chief Elvira Nabiullina has cultivated the image of a nerdy, opera-loving technocrat, trapped in place by Putin's decision to go to war in Ukraine. It's not that simple. 
  <p class="updated_time"> 04:22 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093364807/republicans-confront-or-sidestep-abuse-accusations-against-midterm-candidates">Republicans confront (or sidestep) abuse accusations against midterm candidates</a> NPR: Candidates such as Herschel Walker, Eric Greitens and Max Miller have been accused of abusing partners and, in some cases, children. But some party leaders aren't convinced voters will reject them. 
  <p class="updated_time"> 04:19 AM CT, Apr. 19 </p> 
@@ -308,8 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/17/fred-upton-house-majority-midterms-gop-00025716">Fred Upton: Slim House majority could spell trouble for post-midterms GOP</a> Politico: The retiring Michigan Republican spoke of his party's ability to get legislation passed. 
  <p class="updated_time"> 09:01 AM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/us/politics/trump-mar-a-lago.html">Trump as a Modern-Day Party Boss: Hoarding Cash and Doling Out Favors</a> NYT: Hoarding cash, doling out favors and seeking to crush rivals, the former president is dominating the G.O.P., preparing for another race and helping loyalists oust officials who thwarted his attempted subversion of the 2020 election. 
- <p class="updated_time"> 07:23 AM CT, Apr. 17 </p> 
- <a href="https://www.npr.org/2022/04/17/1093240561/politics-chat-biden-opens-more-land-for-oil-drilling">Politics chat: Biden opens more land for oil drilling</a> NPR: Higher gas prices may not be the main driver of the Biden administration's decision to sell new oil and gas leases on public land, but inflation is a significant political liability. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.politico.com/news/2022/04/17/house-dems-super-pac-latino-00025694">‘A slap in the face’: House Dems’ super PAC sparks Latino backlash</a> Politico: A newly drawn House district offered the prospect of electing Oregon’s first Latina to Congress. Then a top super PAC unexpectedly swooped in. 
  <p class="updated_time"> 12:27 PM CT, Apr. 16 </p> 
