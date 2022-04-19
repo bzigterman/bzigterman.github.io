@@ -9,11 +9,13 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:04 AM CT, Apr. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61148248?at_medium=RSS&at_campaign=KARANGA">Kabul blasts cause casualties at boys' school, say police</a> BBC: Two explosions targeting a high school in the Afghan capital have caused casualties, police say. 
- <p class="updated_time"> 02:56 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 03:47 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/us/mask-mandate-flights.html">A Mask Mandate Ends Midflight, Sparking Cheers and Alarm</a> NYT: Airport terminals and flights erupted in applause, while some passengers said the abrupt policy change put them at risk. 
+ <p class="updated_time"> 03:46 AM CT, Apr. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61148248?at_medium=RSS&at_campaign=KARANGA">Kabul blasts kill four and wound many at boys' school</a> BBC: Two blasts outside a high school in the Afghan capital killed at least four people and wounded many. 
+ <p class="updated_time"> 03:40 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">What Happened on Day 54 of the War in Ukraine</a> NYT: Russia said it had hit hundreds of targets around Ukraine with missiles and artillery, apparent preparation for the onslaught in eastern Ukraine. 
- <p class="updated_time"> 02:36 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 02:50 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Russia Begins New Military Offensive in Ukraine’s East, Ukrainian President Says</a> WSJ: Russia Begins New Military Offensive in Ukraine’s East, Ukrainian President Says 
  <p class="updated_time"> 02:26 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/prisoners-russia-ukraine-war.html">Prisoners Held by Both Russia and Ukraine Appeal to Leaders for Help</a> NYT: Two British fighters held by Russian asked to be traded for Viktor Medvedchuk, a wealthy Ukrainian ally of Russia’s president, Vladimir V. Putin. 
@@ -25,17 +27,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/19/health/death-records-africa-electronic-autopsy.html">A Door-to-Door Effort to Find Out Who Died Helps Low-Income Countries Aid the Living</a> NYT: Many developing countries don’t keep official death records. A novel effort uses “electronic autopsies” to count deaths, and record their cause. 
  <p class="updated_time"> 02:00 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/asia/myanmars-coup-doctors.html">Myanmar’s Health System Is in Collapse, ‘Obliterated’ by the Regime</a> NYT: The country is also now one of the most dangerous places in the world to be a medical worker. At least 30 doctors have been killed since the coup, a rights group says. 
- <p class="updated_time"> 01:36 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 01:50 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/in-ukraines-south-russian-occupiers-tighten-the-screws-11650301398">In Ukraine’s South, Russian Occupiers Tighten the Screws</a> WSJ: In Ukraine’s South, Russian Occupiers Tighten the Screws 
- <p class="updated_time"> 12:36 AM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/sweden-arrests-dozens-in-clashes-over-far-right-leaders-plan-to-burn-quran-11650306872">Sweden Arrests Dozens in Clashes Over Burning of Quran</a> WSJ: Sweden Arrests Dozens in Clashes Over Burning of Quran 
+ <p class="updated_time"> 12:50 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/israel-airstrikes-hit-gaza-after-rocket-fire-11650356706">Israel Airstrikes Hit Gaza After Rocket Fire</a> WSJ: Israel Airstrikes Hit Gaza After Rocket Fire 
  <p class="updated_time"> 12:25 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093472819/global-finance-meeting-focuses-on-war-driven-food-insecurity">Global finance meeting focuses on war-driven food insecurity</a> NPR: Russia and Ukraine produce roughly 14% of the world's wheat supply, according to the United Nations, and the war has resulted in soaring food prices and fears about food security globally. 
  <p class="updated_time"> 12:03 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61146084?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Children's lives are upended as conflict rages</a> BBC: As fighting rages across Ukraine, Russia's invasion has shattered the lives of millions of children. 
- <p class="updated_time"> 11:36 PM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/israels-government-faces-collapse-as-arab-party-threatens-to-quit-over-jerusalem-clashes-11650299981">Israel’s Government Faces Possible Collapse</a> WSJ: Israel’s Government Faces Possible Collapse 
- <p class="updated_time"> 10:36 PM CT, Apr. 18 </p> 
+ <p class="updated_time"> 11:50 PM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/sweden-arrests-dozens-in-clashes-over-far-right-leaders-plan-to-burn-quran-11650306872">Sweden Arrests Dozens in Clashes Over Burning of Quran</a> WSJ: Sweden Arrests Dozens in Clashes Over Burning of Quran 
+ <p class="updated_time"> 10:50 PM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-restrictions-threatens-economic-recovery-11650287954">China’s Pandemic Restrictions Threaten Economic Recovery</a> WSJ: China’s Pandemic Restrictions Threaten Economic Recovery 
  <p class="updated_time"> 10:18 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/business/airline-mask-rules.html">Which U.S. Airlines Dropped Their Mask Mandate</a> NYT: After a federal mandate was struck down, the major carriers said masks would be optional on their domestic flights. 
@@ -48,7 +50,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:29 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-russia-missiles-lviv-donbas.html">Ukraine Says Russia Begins Assault in the East After Raining Missiles Nationwide</a> NYT: The president of Ukraine and a top national security aide said the Russian offensive, anticipated for weeks, had finally begun after a Russian missile barrage that included the first deadly strike on the western city of Lviv. 
  <p class="updated_time"> 07:54 PM CT, Apr. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61145578?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia bombards cities as eastern offensive begins</a> BBC: Missile strikes were reported in Luhansk and Donetsk as Russia reorients its attack to the Donbas. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61145578?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia bombards cities as eastern offensive begins</a> BBC: Missile strikes are reported in Luhansk and Donetsk as Russia begins a second phase of the war. 
  <p class="updated_time"> 07:12 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-war-russian-orthodox-church.html">Ukraine War Divides Orthodox Faithful</a> NYT: Around the world, national churches, parishes and even families are reassessing relations with Patriarch Kirill of Moscow, who has encouraged Russia’s aggression. 
  <p class="updated_time"> 06:23 PM CT, Apr. 18 </p> 
@@ -80,7 +82,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:34 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380874/ukrainian-civilians-living-close-to-the-frontlines-say-they-feel-trapped">Ukrainian civilians living close to the frontlines say they feel trapped</a> NPR: Hundreds of thousands of Ukrainians are still living close to the front lines as Russia readies another offensive. Here's how people are surviving in the city of Mykoliav. 
  <p class="updated_time"> 03:29 PM CT, Apr. 18 </p> 
- <a href="https://www.bbc.co.uk/sport/football/61143808?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo and partner Georgina Rodriguez announce death of baby boy</a> BBC: Footballer Cristiano Ronaldo and his partner Georgina Rodriguez announce the death of their baby boy. 
+ <a href="https://www.bbc.co.uk/sport/football/61143808?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo and partner Georgina Rodriguez announce death of baby boy</a> BBC: Footballer Cristiano Ronaldo and his partner Georgina Rodriguez were expecting twins. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380867/special-envoy-john-kerry-on-helping-small-island-nations-dealing-with-climate-ch">Special envoy John Kerry on helping small island nations dealing with climate change</a> NPR: NPR's Ari Shapiro speaks with John Kerry, U.S. special presidential envoy for climate, about the current outlook on climate change and the global endeavor to combat it. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
