@@ -9,6 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:30 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/19/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Declares New Phase of War as Forces Clash in East</a> NYT: Ukraine said it was resisting Russia’s initial thrusts in a sprawling offensive that could reshape the conflict. The Pentagon estimated that Moscow has added thousands of troops in Ukraine in recent days. 
+ <p class="updated_time"> 11:28 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/19/world/south-africa-floods">South Africa Live Updates: President Declares a State of Disaster After Flooding</a> NYT: Nearly 4,000 homes have been destroyed and more than twice as many damaged in the Durban area after a week of punishing rains and mudslides. The death toll is now 443, with roughly four dozen people unaccounted for. 
+ <p class="updated_time"> 11:28 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/world/asia/afghanistan-kabul-schools-attacked.html">Afghanistan School Explosions: At Least 6 Dead in Kabul</a> NYT: More than a dozen people were also wounded, one as young as 7. The attacks again challenged the Taliban’s promise of security, and stoked deep-seated fears in the Shiite community. 
+ <p class="updated_time"> 11:17 AM CT, Apr. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61145578?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia bombards cities as eastern offensive begins</a> BBC: Missile strikes are reported in Luhansk and Donetsk as Russia begins a second phase of the war. 
+ <p class="updated_time"> 11:15 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/world/middleeast/ukraine-memes-russia-fundraising.html">How Memes Are Driving Ukraine’s Fundraising Efforts</a> NYT: A campaign using internet memes and merchandise has rallied international public support for Ukraine in its war with Russia. 
+ <p class="updated_time"> 11:15 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/climate/biden-climate-nepa-trump.html">Biden Restores Climate to Environmental Law, Reversing Trump</a> NYT: A new rule requires agencies to analyze the climate impacts of proposed highways, pipelines and other projects, and gives local communities more input. 
  <p class="updated_time"> 10:56 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/mask-mandate-flights.html">A Mask Mandate Ends Midflight, Sparking Cheers and Alarm</a> NYT: Airport terminals and flights erupted in applause, while some passengers said the abrupt policy change put them at risk. 
  <p class="updated_time"> 10:51 AM CT, Apr. 19 </p> 
@@ -17,50 +29,40 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-forces-cluster-munitions.html">To Push Back Russians, Ukrainians Hit a Village With Cluster Munitions</a> NYT: The New York Times verified that Ukraine’s forces appeared to fire at least two of these internationally banned weapons in a neighborhood, putting Ukrainian civilians at extreme risk. 
  <p class="updated_time"> 10:46 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61139129?at_medium=RSS&at_campaign=KARANGA">Mexico's Maya train: Work halted over cave concerns</a> BBC: The project to build a railroad in the Yucatán Peninsula could harm underground caves, a judge rules. 
+ <p class="updated_time"> 10:42 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 10:40 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61143808?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo and partner Georgina Rodriguez announce death of baby boy</a> BBC: Manchester United footballer Cristiano Ronaldo and partner Georgina Rodriguez say the death of their baby boy is the "greatest pain any parents can feel". 
- <p class="updated_time"> 10:35 AM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/04/19/world/south-africa-floods">South Africa Live Updates: President Declares a State of Disaster After Flooding</a> NYT: Nearly 4,000 homes have been destroyed and more than twice as many damaged in the Durban area after a week of punishing rains and mudslides. The death toll is now 443, with about four dozen people unaccounted for. 
  <p class="updated_time"> 10:32 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/letizia-battaglia-dead.html">Letizia Battaglia, Photographer of Mafia Brutality, Dies at 87</a> NYT: Her images of victims on the streets of Palermo were stamped on the nation’s consciousness as she challenged the grip mobsters had on her native Sicily. 
- <p class="updated_time"> 10:29 AM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/04/19/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Declares New Phase of War as Forces Clash in East</a> NYT: Ukraine said it was resisting Russia’s initial thrusts in a sprawling offensive that could reshape the conflict. The Pentagon estimated that Moscow has added thousands of troops in Ukraine in recent days. 
  <p class="updated_time"> 10:26 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61145045?at_medium=RSS&at_campaign=KARANGA">US judge throws out Biden mask mandate for planes and trains</a> BBC: A federal judge in Florida, appointed by Donald Trump, says the CDC exceeded its authority. 
- <p class="updated_time"> 10:24 AM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/world/asia/afghanistan-kabul-schools-attacked.html">Blasts at Kabul Schools Kill at Least 6 in Afghanistan</a> NYT: More than a dozen people were also wounded, one as young as 7. The attacks again challenged the Taliban’s promise of security, and stoked deep-seated fears in the Shiite community. 
- <p class="updated_time"> 10:00 AM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
+ <p class="updated_time"> 09:42 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/kabul-school-blasts-kill-six-as-afghanistan-violence-continues-11650377572">Kabul School Blasts Kill Six as Afghanistan Violence Continues</a> WSJ: Kabul School Blasts Kill Six as Afghanistan Violence Continues 
  <p class="updated_time"> 09:36 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/business/airline-mask-rules.html">Which U.S. Airlines Dropped Their Mask Mandate</a> NYT: After a federal mandate was struck down, the major carriers said masks would be optional on their domestic flights. 
  <p class="updated_time"> 09:33 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/business/economy/imf-world-economy-inflation.html">World Economic Outlook Dims as War and Pandemic Cast a Pall</a> NYT: The International Monetary Fund’s new World Economic Outlook expects growth to slow to 3.6 percent this year. The group is one of many to slash their forecasts recently. 
- <p class="updated_time"> 09:21 AM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/world/middleeast/ukraine-memes-russia-fundraising.html">How Memes Are Driving Ukraine’s Fundraising Efforts</a> NYT: A campaign using internet memes and merchandise has rallied international public support for Ukraine in its war with Russia. 
  <p class="updated_time"> 09:12 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/un-martin-griffith-covid.html">U.N. Official Said He Tested Positive for Covid After In-Person Meeting</a> NYT: One meeting had included the U.N.’s secretary general, but everyone in the room was wearing masks, a spokesman said. 
  <p class="updated_time"> 09:01 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61148248?at_medium=RSS&at_campaign=KARANGA">Kabul blasts kill six and wound 20 at boys' school</a> BBC: Two blasts outside a high school in the Afghan capital killed at least six people and wounded 20. 
- <p class="updated_time"> 09:00 AM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/kabul-school-blasts-kill-six-as-afghanistan-violence-continues-11650377572">Kabul School Blasts Kill Six as Afghanistan Violence Continues</a> WSJ: Kabul School Blasts Kill Six as Afghanistan Violence Continues 
  <p class="updated_time"> 08:55 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093516886/yemen-houthi-child-soldiers">Yemen's Houthi rebels will stop using child soldiers, the U.N. says</a> NPR: Child soldiers have fought by the thousands during the country's war. The Houthis signed what the U.N. described as an "action plan" to end and prevent recruiting or using children in armed conflict 
  <p class="updated_time"> 08:52 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/russia-ukraine-donbas-strategy.html">Russia’s Thrust in Eastern Ukraine Combines Firepower and New Caution</a> NYT: The military campaign that Moscow said it had now begun appears much more methodical than those it pursued in the war’s first days 
- <p class="updated_time"> 08:07 AM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/climate/biden-climate-nepa-trump.html">Biden Restores Climate to Environmental Law, Reversing Trump</a> NYT: A new rule requires agencies to analyze the climate impacts of proposed highways, pipelines and other projects, and gives local communities more input. 
- <p class="updated_time"> 08:00 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 08:42 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/frances-presidential-election-hinges-on-far-left-voters-11650377524">France’s Presidential Election Hinges on Far-Left Voters</a> WSJ: France’s Presidential Election Hinges on Far-Left Voters 
  <p class="updated_time"> 07:54 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093501394/ukraine-russia-donbas-offensive">Ukraine says Russia's offensive in Donbas has begun. Here's what we know</a> NPR: Ukrainian President Volodymyr Zelenskyy said Russian forces have begun their new offensive against cities in the east and south and that a "substantial part" of the Russian army is taking part. 
  <p class="updated_time"> 07:43 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/health/death-records-africa-electronic-autopsy.html">A Door-to-Door Effort to Find Out Who Died Helps Low-Income Countries Aid the Living</a> NYT: Many developing countries don’t keep official death records. A novel effort uses “electronic autopsies” to count deaths, and record their cause. 
- <p class="updated_time"> 07:00 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 07:42 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/fleeing-war-ukrainians-with-cancer-find-refuge-in-europe-11650366000">Fleeing War, Ukrainians With Cancer Find Refuge in Europe</a> WSJ: Fleeing War, Ukrainians With Cancer Find Refuge in Europe 
+ <p class="updated_time"> 06:42 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/imf-cuts-china-growth-forecast-to-4-4-11650373201">IMF Cuts China Growth Forecast to 4.4%</a> WSJ: IMF Cuts China Growth Forecast to 4.4% 
  <p class="updated_time"> 06:08 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/canada/toronto-cannabis-stores.html">A ‘Wild West’ of Marijuana Shops Grows in Toronto</a> NYT: Permitted to operate during the pandemic, even during lockdowns, Toronto’s marijuana shops have flourished and changed the character of an iconic neighborhood. 
- <p class="updated_time"> 06:00 AM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/imf-cuts-china-growth-forecast-to-4-4-11650373201">IMF Cuts China Growth Forecast to 4.4%</a> WSJ: IMF Cuts China Growth Forecast to 4.4% 
  <p class="updated_time"> 05:30 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/sections/money/2022/04/19/1093339972/who-is-the-real-elvira-nabiullina">Who is the real Elvira Nabiullina?</a> NPR: Russian central bank chief Elvira Nabiullina has cultivated the image of a nerdy, opera-loving technocrat, trapped in place by Putin's decision to go to war in Ukraine. It's not that simple. 
  <p class="updated_time"> 04:30 AM CT, Apr. 19 </p> 
@@ -89,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61144679?at_medium=RSS&at_campaign=KARANGA">French elections: EU apprehensive of Le Pen ahead of French run-off vote</a> BBC: A Marine Le Pen victory in France would send shockwaves across the European Union, writes Jessica Parker. 
  <p class="updated_time"> 08:29 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-russia-missiles-lviv-donbas.html">Ukraine Says Russia Begins Assault in the East After Raining Missiles Nationwide</a> NYT: The president of Ukraine and a top national security aide said the Russian offensive, anticipated for weeks, had finally begun after a Russian missile barrage that included the first deadly strike on the western city of Lviv. 
- <p class="updated_time"> 07:54 PM CT, Apr. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61145578?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia bombards cities as eastern offensive begins</a> BBC: Missile strikes are reported in Luhansk and Donetsk as Russia begins a second phase of the war. 
  <p class="updated_time"> 07:12 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-war-russian-orthodox-church.html">Ukraine War Divides Orthodox Faithful</a> NYT: Around the world, national churches, parishes and even families are reassessing relations with Patriarch Kirill of Moscow, who has encouraged Russia’s aggression. 
  <p class="updated_time"> 06:23 PM CT, Apr. 18 </p> 
@@ -191,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/16/world/europe/russia-missiles-ukraine-kyiv-lviv-neptune.html">Russia Fires Missile Barrage at Ukrainian Cities and Military Targets</a> NYT: The strikes seemed aimed at hampering Ukraine’s war fighting capacity as the conflict shifts to eastern Donbas region, and at responding to the sinking of a Russian warship. 
  <p class="updated_time"> 01:52 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/16/world/middleeast/palestinians-israel-violence.html">Israel Steps Up Raids in Palestinian Territories in Response to Attacks</a> NYT: At least 14 Palestinians have been killed in a widespread Israeli military operation in the West Bank, launched in response to a string of attacks in Israel that killed 14 people. 
- <p class="updated_time"> 12:35 PM CT, Apr. 16 </p> 
- <a href="https://www.nytimes.com/2022/04/16/business/russia-debt-default.html">What Will Happen if Russia Defaults on Its Debt?</a> NYT: The ultimate arbiter of a sovereign default is an open question but markets may have the final word. 
 
 
 </details>
@@ -200,8 +198,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:28 AM CT, Apr. 19 </p> 
+ <a href="https://www.npr.org/2022/04/19/1093538706/justice-department-works-to-curb-racial-bias-in-deciding-whos-released-from-pris">Justice Department works to curb racial bias in deciding who's released from prison </a> NPR: The Justice Department is tweaking its risk assessment tool in a way intended to make it easier for Black and Hispanic people in prison to become eligible for early release. 
  <p class="updated_time"> 10:51 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/business/mask-mandate-travel-transit.html">The end of a U.S. mask mandate for travel is met with elation and dread.</a> NYT: Some travelers and flight attendants cheered the end of the mask mandate but others are worried that it will result in more infections. 
+ <p class="updated_time"> 10:46 AM CT, Apr. 19 </p> 
+ <a href="https://www.politico.com/news/2022/04/19/democratic-party-anti-union-amazon-00026204">Democratic Party to ban its consultants from anti-union activity</a> Politico: POLITICO has obtained a contract addendum that forbids Democratic-aligned consultants from participating in union-busting, aiding an employer in a labor dispute or lobbying against union-backed legislation. 
  <p class="updated_time"> 10:39 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093537210/biden-environmental-reviews-infrastructure-projects-restored">Biden administration restores environmental reviews for major infrastructure projects</a> NPR: The move restores regulations guiding environmental reviews of big projects such as highways and pipelines that were scaled back by the Trump administration in a bid to fast-track the projects. 
  <p class="updated_time"> 10:10 AM CT, Apr. 19 </p> 
@@ -233,7 +235,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/capitol-police-vetting-practices-first-amendment-concerns-00025904">Capitol Police's new vetting practices raise 'First Amendment concerns,' whistleblowers' lawyer says</a> Politico: An attorney for Capitol Police employees wrote that intelligence analysts were “directed” to search the social media pages of congressional staff, event attendees and hosts. 
  <p class="updated_time"> 02:58 AM CT, Apr. 19 </p> 
- <a href="https://www.npr.org/2022/04/19/1093479545/federal-judge-says-georgia-voters-can-challenge-greenes-reelection-run">Federal judge says Georgia voters can challenge Greene's reelection run</a> NPR: Monday's ruling means a group of Georgia voters can proceed with efforts seeking to disqualify U.S Rep Marjorie Taylor Greene from running for reelection. 
+ <a href="https://www.npr.org/2022/04/19/1093479545/federal-judge-says-georgia-voters-can-challenge-greenes-reelection-run">Federal judge says Georgia voters can challenge Greene's reelection run</a> NPR: The voters are seeking to disqualify Rep. Marjorie Taylor Greene from running for reelection to Congress, citing her role in the deadly attack on the U.S. Capitol. 
  <p class="updated_time"> 11:23 PM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/19/russia-attacks-mariupol-steel-plant-00026172">Russia increases attacks on Mariupol steel plant</a> Politico: The Ukrainian forces have refused to surrender. 
  <p class="updated_time"> 09:52 PM CT, Apr. 18 </p> 
@@ -254,8 +256,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/us/politics/trump-allies-election-decertify.html">Trump Allies Continue Legal Drive to Erase His Loss, Stoking Election Doubts</a> NYT: Fifteen months after they tried and failed to overturn the 2020 election, the same group of lawyers and associates is continuing efforts to “decertify” the vote, feeding a false narrative. 
  <p class="updated_time"> 05:27 PM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/ukraine-50-billion-aid-package-00026032">Ukraine pressing for $50B aid package to cover budget gap, adviser says</a> Politico: Oleg Ustenko, a top economic adviser to Zelenskyy, said the country faces a critical financing shortfall. 
- <p class="updated_time"> 05:01 PM CT, Apr. 18 </p> 
- <a href="https://www.cnn.com/2022/04/18/politics/democratic-donors-longshots/index.html">Some Democrats fear a 2020 repeat as cash flows to long-shot candidates</a> CNN: Marcus Flowers makes it perfectly clear why he is running for Congress: The Georgia Democrat wants to unseat Rep. Marjorie Taylor Greene, the attention-grabbing, conspiracy-pushing Republican who fills Democrats with rage. 
  <p class="updated_time"> 04:57 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/white-house-easter-egg-roll.html">The White House Easter Egg Roll Returns</a> NYT: President Biden and Jill Biden, the first lady, hosted the first Egg Roll since the beginning of the pandemic. It was the largest event held at the White House since they moved in. 
  <p class="updated_time"> 04:30 PM CT, Apr. 18 </p> 
@@ -294,12 +294,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/us/politics/supreme-court-gag-order-sec.html">Can the S.E.C. Require ‘Gag Orders’ When It Settles Cases?</a> NYT: The Supreme Court has been asked to review the practice, which a judge called “a stew of confusion and hypocrisy” and which challengers say violates the First Amendment. 
  <p class="updated_time"> 09:18 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093297017/infowars-bankruptcy-alex-jones-sandy-hook-shooting-defamation">InfoWars files for bankruptcy in the face of lawsuits over Sandy Hook shooting denial</a> NPR: Founder Alex Jones, who's repeatedly called the 2012 shooting at a Connecticut elementary school a hoax, has been sued several times by the victims' families for defamation and emotional distress. 
- <p class="updated_time"> 06:27 AM CT, Apr. 18 </p> 
- <a href="https://www.cnn.com/2022/04/18/politics/us-nato-ukraine-military-aid-dilemma/index.html">Biden and US allies face new dilemma on Ukraine aid</a> CNN: Ukraine's military took a defiant stand this weekend -- refusing to give in to Russia's demand for Kyiv's troops in the port city of Mariupol to surrender — at the same time that President Joe Biden and his allies face a new precipice in deciding how far the US can go in arming the embattled country, as Russia signals that it may take more aggressive action to stop the flow of weapons from the US and NATO. 
  <p class="updated_time"> 04:05 AM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093282003/texas-gov-greg-abbotts-truck-inspection-policy-draws-ire">Texas Gov. Greg Abbott's truck inspection policy draws ire</a> NPR: NPR's Steve Inskeep talks to a Texas Republican criticizing Gov Greg Abbott's new truck inspection policy at the border, saying it's causing long delays and could lead to high prices for consumers. 
- <p class="updated_time"> 04:02 AM CT, Apr. 18 </p> 
- <a href="https://www.npr.org/2022/04/18/1093206883/speaking-of-genocide-biden-escalates-the-war-of-words-over-ukraine">Speaking of genocide, Biden escalates the war of words over Ukraine</a> NPR: The concept and practice of the U.S. government deciding what to recognize as a genocide is profoundly political, both in contemporary and historical cases. 
  <p class="updated_time"> 04:00 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/participatory-budgeting-shari-davis.html">What if Public Funds Were Controlled by the Public?</a> NYT: Through the dry-sounding Participatory Budgeting Project, Shari Davis is pushing a quietly radical idea: Democracy shouldn’t be confined to voting. 
  <p class="updated_time"> 03:31 AM CT, Apr. 18 </p> 
