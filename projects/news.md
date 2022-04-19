@@ -9,19 +9,21 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/world/china-lockdowns.html">China’s Covid Shutdowns Go Far Beyond Shanghai</a> NYT: Cities and towns across the country are shutting down, hoping to sidestep the pitfalls and stumbles that Shanghai has faced battling the Omicron variant. 
+ <p class="updated_time"> 04:29 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">What Happened on Day 54 of the War in Ukraine</a> NYT: Russia said it had hit hundreds of targets around Ukraine with missiles and artillery, apparent preparation for the onslaught in eastern Ukraine. 
  <p class="updated_time"> 04:24 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61148248?at_medium=RSS&at_campaign=KARANGA">Kabul blasts kill four and wound many at boys' school</a> BBC: Two blasts outside a high school in the Afghan capital killed at least four people and wounded many. 
  <p class="updated_time"> 04:23 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/mask-mandate-flights.html">A Mask Mandate Ends Midflight, Sparking Cheers and Alarm</a> NYT: Airport terminals and flights erupted in applause, while some passengers said the abrupt policy change put them at risk. 
- <p class="updated_time"> 04:02 AM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">What Happened on Day 54 of the War in Ukraine</a> NYT: Russia said it had hit hundreds of targets around Ukraine with missiles and artillery, apparent preparation for the onslaught in eastern Ukraine. 
  <p class="updated_time"> 04:00 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093025812/ukraine-russia-war-refugees-us-immigration-policy">A Ukrainian family finds solace in America but cannot escape heartbreak</a> NPR: When Russia invaded Ukraine, Eka Koliubaieva and her two daughters fled to the U.S., where a Virginia couple took them in after learning about the family's plight from a Facebook post. 
  <p class="updated_time"> 04:00 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1092793826/russian-invasion-upends-young-flourishing-ukrainian-publishing-industry">Russian invasion upends young, flourishing Ukrainian publishing industry</a> NPR: After the Crimea invasion, a backlash against Russian books filled with propaganda led to the growth of Ukraine's own book industry. But Russia's latest attacks and Covid have created major obstacles. 
- <p class="updated_time"> 03:31 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 03:58 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Russia Begins New Military Offensive in Ukraine’s East, Ukrainian President Says</a> WSJ: Russia Begins New Military Offensive in Ukraine’s East, Ukrainian President Says 
- <p class="updated_time"> 02:31 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 02:58 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/in-ukraines-south-russian-occupiers-tighten-the-screws-11650301398">In Ukraine’s South, Russian Occupiers Tighten the Screws</a> WSJ: In Ukraine’s South, Russian Occupiers Tighten the Screws 
  <p class="updated_time"> 02:26 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/prisoners-russia-ukraine-war.html">Prisoners Held by Both Russia and Ukraine Appeal to Leaders for Help</a> NYT: Two British fighters held by Russian asked to be traded for Viktor Medvedchuk, a wealthy Ukrainian ally of Russia’s president, Vladimir V. Putin. 
@@ -33,15 +35,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/19/health/death-records-africa-electronic-autopsy.html">A Door-to-Door Effort to Find Out Who Died Helps Low-Income Countries Aid the Living</a> NYT: Many developing countries don’t keep official death records. A novel effort uses “electronic autopsies” to count deaths, and record their cause. 
  <p class="updated_time"> 02:00 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/asia/myanmars-coup-doctors.html">Myanmar’s Health System Is in Collapse, ‘Obliterated’ by the Regime</a> NYT: The country is also now one of the most dangerous places in the world to be a medical worker. At least 30 doctors have been killed since the coup, a rights group says. 
- <p class="updated_time"> 01:31 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 01:58 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/israel-airstrikes-hit-gaza-after-rocket-fire-11650356706">Israel Airstrikes Hit Gaza After Rocket Fire</a> WSJ: Israel Airstrikes Hit Gaza After Rocket Fire 
- <p class="updated_time"> 12:31 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 12:58 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/sweden-arrests-dozens-in-clashes-over-far-right-leaders-plan-to-burn-quran-11650306872">Sweden Arrests Dozens in Clashes Over Burning of Quran</a> WSJ: Sweden Arrests Dozens in Clashes Over Burning of Quran 
  <p class="updated_time"> 12:25 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093472819/global-finance-meeting-focuses-on-war-driven-food-insecurity">Global finance meeting focuses on war-driven food insecurity</a> NPR: Russia and Ukraine produce roughly 14% of the world's wheat supply, according to the United Nations, and the war has resulted in soaring food prices and fears about food security globally. 
  <p class="updated_time"> 12:03 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61146084?at_medium=RSS&at_campaign=KARANGA">Ukraine children: Killed as he escaped, Elisei is one of 200 child victims</a> BBC: As fighting rages across Ukraine, Russia's invasion has shattered the lives of millions of children. 
- <p class="updated_time"> 11:31 PM CT, Apr. 18 </p> 
+ <p class="updated_time"> 11:58 PM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-restrictions-threatens-economic-recovery-11650287954">China’s Pandemic Restrictions Threaten Economic Recovery</a> WSJ: China’s Pandemic Restrictions Threaten Economic Recovery 
  <p class="updated_time"> 10:18 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/business/airline-mask-rules.html">Which U.S. Airlines Dropped Their Mask Mandate</a> NYT: After a federal mandate was struck down, the major carriers said masks would be optional on their domestic flights. 
@@ -202,8 +204,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/19/1093364807/republicans-confront-or-sidestep-abuse-accusations-against-midterm-candidates">Republicans confront (or sidestep) abuse accusations against midterm candidates</a> NPR: Candidates such as Herschel Walker, Eric Greitens and Max Miller have been accused of abusing partners and, in some cases, children. But some party leaders aren't convinced voters will reject them. 
  <p class="updated_time"> 04:19 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093477424/floridas-legislature-meets-in-a-special-session-to-adopt-new-congressional-maps">Florida's legislature meets in a special session to adopt new congressional maps</a> NPR: Republican leaders say they'll approve maps drawn by the governor that eliminate two Black voting districts. Gov. Ron DeSantis insisted on district maps that give an extra advantage to Republicans. 
+ <p class="updated_time"> 03:31 AM CT, Apr. 19 </p> 
+ <a href="https://www.politico.com/news/2022/04/19/election-forecast-midterms-00026065">5 things that could derail GOP’s midterm momentum — or accelerate it</a> Politico: Here's how and why our midterm Election Forecast could change before November. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 19 </p> 
+ <a href="https://www.politico.com/news/2022/04/19/ron-johnson-reelection-campaign-wisconsin-00026142">Ron Johnson pursues a scorched-earth path to reelection</a> Politico: The Wisconsin senator appears to be defying swing-state political logic with his approach. 
  <p class="updated_time"> 03:30 AM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/capitol-police-vetting-practices-first-amendment-concerns-00025904">Capitol Police's new vetting practices raise 'First Amendment concerns,' whistleblowers' lawyer says</a> Politico: An attorney for Capitol Police employees wrote that intelligence analysts were “directed” to search the social media pages of congressional staff, event attendees and hosts. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 19 </p> 
+ <a href="https://www.politico.com/news/2022/04/19/california-midterm-elections-races-to-watch-00025018">The California midterm contests to watch</a> Politico: From statewide to the House, the ballot will burst with competitive races. 
  <p class="updated_time"> 02:58 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093479545/federal-judge-says-georgia-voters-can-challenge-greenes-reelection-run">Federal judge says Georgia voters can challenge Greene's reelection run</a> NPR: Monday's ruling means a group of Georgia voters can proceed with efforts seeking to disqualify U.S Rep Marjorie Taylor Greene from running for reelection. 
  <p class="updated_time"> 11:23 PM CT, Apr. 18 </p> 
@@ -241,7 +249,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:34 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380881/on-tax-day-the-treasury-department-urges-for-more-funding-to-the-irs">On Tax Day, the Treasury Department urges for more funding to the IRS</a> NPR: NPR's Daniel Estrin talks with Deputy U.S. Treasury Secretary Wally Adeyemo about the deadline to file taxes and what the department says the IRS needs. 
  <p class="updated_time"> 03:28 PM CT, Apr. 18 </p> 
- <a href="https://www.politico.com/news/2022/04/18/more-dem-senate-hopefuls-split-with-biden-on-border-00025925">More Dem Senate hopefuls split with Biden on border</a> Politico: Six more Senate candidates have joined growing Democratic calls for the administration to come up with a more detailed plan before revoking pandemic-era border restrictions. 
+ <a href="https://www.politico.com/news/2022/04/18/more-dem-senate-hopefuls-split-with-biden-on-border-00025925">More Dem Senate hopefuls split with Biden on border</a> Politico: Five more Senate candidates have joined growing Democratic calls for the administration to come up with a more detailed plan before revoking pandemic-era border restrictions. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380867/special-envoy-john-kerry-on-helping-small-island-nations-dealing-with-climate-ch">Special envoy John Kerry on helping small island nations dealing with climate change</a> NPR: NPR's Ari Shapiro speaks with John Kerry, U.S. special presidential envoy for climate, about the current outlook on climate change and the global endeavor to combat it. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
@@ -258,14 +266,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/18/judge-strikes-cdc-mask-mandate-travel-00025900">TSA won't enforce mask mandate for travel, following Florida ruling</a> Politico: A federal judge in Florida struck down the CDC's mask mandate for travel on Monday, ruling that the agency overstepped its statutory authority. 
  <p class="updated_time"> 01:19 PM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/new-mexico-democrats-energy-lesson-00024935">New Mexico’s Democrats offer an energy lesson for the party</a> Politico: The state has tripled its renewable energy since 2019, and it’s aiming to keep that momentum — but not at the expense of its prolific oil and gas fields. 
- <p class="updated_time"> 12:08 PM CT, Apr. 18 </p> 
- <a href="https://www.cnn.com/2022/04/18/politics/bidens-white-house-easter-egg-roll/index.html">Bidens host their first White House Easter Egg Roll after two years of the pandemic </a> CNN: President Joe Biden and first lady Jill Biden on Monday welcomed thousands of guests to the South Lawn of the White House for the Easter Egg Roll, an annual holiday tradition that had been canceled for the past two years because of the coronavirus pandemic. 
  <p class="updated_time"> 11:59 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/supreme-court-racial-bias-juror.html">Supreme Court Rejects Case on Juror Said to Harbor Racial Bias</a> NYT: The court’s three liberal members dissented, saying that Kristopher Love, a Texas death row inmate, should have been allowed to pursue his claim. 
- <p class="updated_time"> 11:51 AM CT, Apr. 18 </p> 
- <a href="https://www.politico.com/news/2022/04/18/tax-refund-legislation-problems-00025712">Tax refund whiplash: Pandemic perks give some a windfall, others a bill</a> Politico: Tax credits and other benefits Congress expanded to bolster families and the economy are leading to bigger refunds for some, but smaller payments — or bills — for others. 
- <p class="updated_time"> 11:00 AM CT, Apr. 18 </p> 
- <a href="https://www.politico.com/news/2022/04/18/2022-secretary-of-state-elections-00025564">Who will run the 2024 election? They’re on your ballot in 2022.</a> Politico: The focus on secretaries of State has been magnified by Donald Trump’s conspiracy theories about the 2020 election he lost. 
  <p class="updated_time"> 10:49 AM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/biden-domestic-policy-shift-00025862">Biden’s been consumed by Ukraine. His team wants to bring the focus back home.</a> Politico: The president is planning more domestic travel and a heightened domestic policy push. But international events often have a way of intervening. 
  <p class="updated_time"> 10:19 AM CT, Apr. 18 </p> 
@@ -285,13 +287,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/senate-mcconnell-super-pac-134-million-ads-00025642">McConnell-tied super PAC makes early $141M play for the Senate</a> Politico: The Senate Leadership Fund's record-breaking spring advertising reservations follow a $106 million commitment from its Democratic counterpart as the midterm battle heats up. 
  <p class="updated_time"> 03:30 AM CT, Apr. 18 </p> 
- <a href="https://www.politico.com/news/2022/04/18/democrats-recruiting-push-local-election-officers-00025733">Fighting Trump, Dems launch plan to elect thousands of local election supervisors</a> Politico: The $80 million effort comes as Trump-friendly conspiracy theorists threaten to take over election offices in battleground states. 
- <p class="updated_time"> 03:30 AM CT, Apr. 18 </p> 
- <a href="https://www.politico.com/news/2022/04/18/midterm-politics-endanger-bidens-tech-agenda-00025417">Midterm politicking comes for Biden’s stalled tech nominee</a> Politico: Moderate Democrats are under pressure to bail on a key nominee vital to the party's net neutrality plans. 
- <p class="updated_time"> 03:30 AM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/anatoly-antonov-russia-ambassador-00025744">Lonely Anatoly: The Russian ambassador is Washington’s least popular man</a> Politico: Adrift and defiant, Anatoly Antonov walks the halls of an increasingly empty embassy, waiting for someone to call. 
- <p class="updated_time"> 02:10 PM CT, Apr. 17 </p> 
- <a href="https://www.cnn.com/2022/04/17/politics/biden-approval-midterms-democrats/index.html">Biden confronts a host of problems he can't do much to solve</a> CNN: There's just not much President Joe Biden can do about it. 
  <p class="updated_time"> 12:02 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/16/us/politics/trump-michigan-republicans.html">Trump’s Focus on 2020 Election Splits Michigan Republicans</a> NYT: The former president is trying to reshape the battleground state in his image. But his false claims about the 2020 election are driving a wedge between loyalists and those who are eager to move on. 
  <p class="updated_time"> 11:45 AM CT, Apr. 17 </p> 
