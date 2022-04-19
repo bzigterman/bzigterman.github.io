@@ -9,24 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:45 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 02:00 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/health/death-records-africa-electronic-autopsy.html">A Door-to-Door Effort to Find Out Who Died Helps Low-Income Countries Aid the Living</a> NYT: Many developing countries don’t keep official death records. A novel effort uses “electronic autopsies” to count deaths, and record their cause. 
+ <p class="updated_time"> 02:00 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/world/asia/myanmars-coup-doctors.html">Myanmar’s Health System Is in Collapse, ‘Obliterated’ by the Regime</a> NYT: The country is also now one of the most dangerous places in the world to be a medical worker. At least 30 doctors have been killed since the coup, a rights group says. 
+ <p class="updated_time"> 01:23 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Russia Begins New Military Offensive in Ukraine’s East, Ukrainian President Says</a> WSJ: Russia Begins New Military Offensive in Ukraine’s East, Ukrainian President Says 
+ <p class="updated_time"> 12:23 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/in-ukraines-south-russian-occupiers-tighten-the-screws-11650301398">In Ukraine’s South, Russian Occupiers Tighten the Screws</a> WSJ: In Ukraine’s South, Russian Occupiers Tighten the Screws 
  <p class="updated_time"> 12:14 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">What Happened on Day 54 of the War in Ukraine</a> NYT: Russia said it had hit hundreds of targets around Ukraine with missiles and artillery, apparent preparation for the onslaught in eastern Ukraine. 
  <p class="updated_time"> 12:03 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61146084?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Children's lives are upended as conflict rages</a> BBC: As fighting rages across Ukraine, Russia's invasion has shattered the lives of millions of children. 
- <p class="updated_time"> 11:45 PM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/in-ukraines-south-russian-occupiers-tighten-the-screws-11650301398">In Ukraine’s South, Russian Occupiers Tighten the Screws</a> WSJ: In Ukraine’s South, Russian Occupiers Tighten the Screws 
- <p class="updated_time"> 10:45 PM CT, Apr. 18 </p> 
+ <p class="updated_time"> 11:23 PM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/sweden-arrests-dozens-in-clashes-over-far-right-leaders-plan-to-burn-quran-11650306872">Sweden Arrests Dozens in Clashes Over Burning of Quran</a> WSJ: Sweden Arrests Dozens in Clashes Over Burning of Quran 
+ <p class="updated_time"> 10:23 PM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/israels-government-faces-collapse-as-arab-party-threatens-to-quit-over-jerusalem-clashes-11650299981">Israel’s Government Faces Possible Collapse</a> WSJ: Israel’s Government Faces Possible Collapse 
  <p class="updated_time"> 10:18 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/business/airline-mask-rules.html">Which U.S. Airlines Dropped Their Mask Mandate</a> NYT: After a federal mandate was struck down, the major carriers said masks would be optional on their domestic flights. 
- <p class="updated_time"> 09:45 PM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/israels-government-faces-collapse-as-arab-party-threatens-to-quit-over-jerusalem-clashes-11650299981">Israel’s Government Faces Possible Collapse</a> WSJ: Israel’s Government Faces Possible Collapse 
+ <p class="updated_time"> 09:23 PM CT, Apr. 18 </p> 
+ <a href="https://www.wsj.com/articles/chinas-covid-19-restrictions-threatens-economic-recovery-11650287954">China’s Pandemic Restrictions Threaten Economic Recovery</a> WSJ: China’s Pandemic Restrictions Threaten Economic Recovery 
  <p class="updated_time"> 08:55 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093451075/masks-optional-airlines-travel">Some major U.S. airlines are dropping mask mandates for travelers</a> NPR: Delta, United, Southwest, American and Alaska Airlines say that masks are now optional for travelers on their aircraft. 
- <p class="updated_time"> 08:45 PM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/chinas-covid-19-restrictions-threatens-economic-recovery-11650287954">China’s Pandemic Restrictions Threaten Economic Recovery</a> WSJ: China’s Pandemic Restrictions Threaten Economic Recovery 
  <p class="updated_time"> 08:35 PM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61145045?at_medium=RSS&at_campaign=KARANGA">US judge throws out Biden mask mandate for planes and trains</a> BBC: A federal judge in Florida, appointed by Donald Trump, says the CDC exceeded its authority. 
  <p class="updated_time"> 08:32 PM CT, Apr. 18 </p> 
