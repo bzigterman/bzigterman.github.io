@@ -9,14 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:47 AM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/us/mask-mandate-flights.html">A Mask Mandate Ends Midflight, Sparking Cheers and Alarm</a> NYT: Airport terminals and flights erupted in applause, while some passengers said the abrupt policy change put them at risk. 
- <p class="updated_time"> 03:46 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 04:24 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61148248?at_medium=RSS&at_campaign=KARANGA">Kabul blasts kill four and wound many at boys' school</a> BBC: Two blasts outside a high school in the Afghan capital killed at least four people and wounded many. 
- <p class="updated_time"> 03:40 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 04:23 AM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/us/mask-mandate-flights.html">A Mask Mandate Ends Midflight, Sparking Cheers and Alarm</a> NYT: Airport terminals and flights erupted in applause, while some passengers said the abrupt policy change put them at risk. 
+ <p class="updated_time"> 04:02 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/04/18/world/ukraine-russia-war-news">What Happened on Day 54 of the War in Ukraine</a> NYT: Russia said it had hit hundreds of targets around Ukraine with missiles and artillery, apparent preparation for the onslaught in eastern Ukraine. 
- <p class="updated_time"> 02:50 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 04:00 AM CT, Apr. 19 </p> 
+ <a href="https://www.npr.org/2022/04/19/1093025812/ukraine-russia-war-refugees-us-immigration-policy">A Ukrainian family finds solace in America but cannot escape heartbreak</a> NPR: When Russia invaded Ukraine, Eka Koliubaieva and her two daughters fled to the U.S., where a Virginia couple took them in after learning about the family's plight from a Facebook post. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 19 </p> 
+ <a href="https://www.npr.org/2022/04/19/1092793826/russian-invasion-upends-young-flourishing-ukrainian-publishing-industry">Russian invasion upends young, flourishing Ukrainian publishing industry</a> NPR: After the Crimea invasion, a backlash against Russian books filled with propaganda led to the growth of Ukraine's own book industry. But Russia's latest attacks and Covid have created major obstacles. 
+ <p class="updated_time"> 03:31 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/six-killed-in-russian-missile-strikes-on-ukraines-lviv-officials-say-11650271626">Russia Begins New Military Offensive in Ukraine’s East, Ukrainian President Says</a> WSJ: Russia Begins New Military Offensive in Ukraine’s East, Ukrainian President Says 
+ <p class="updated_time"> 02:31 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/in-ukraines-south-russian-occupiers-tighten-the-screws-11650301398">In Ukraine’s South, Russian Occupiers Tighten the Screws</a> WSJ: In Ukraine’s South, Russian Occupiers Tighten the Screws 
  <p class="updated_time"> 02:26 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/prisoners-russia-ukraine-war.html">Prisoners Held by Both Russia and Ukraine Appeal to Leaders for Help</a> NYT: Two British fighters held by Russian asked to be traded for Viktor Medvedchuk, a wealthy Ukrainian ally of Russia’s president, Vladimir V. Putin. 
  <p class="updated_time"> 02:25 AM CT, Apr. 19 </p> 
@@ -27,17 +33,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/19/health/death-records-africa-electronic-autopsy.html">A Door-to-Door Effort to Find Out Who Died Helps Low-Income Countries Aid the Living</a> NYT: Many developing countries don’t keep official death records. A novel effort uses “electronic autopsies” to count deaths, and record their cause. 
  <p class="updated_time"> 02:00 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/asia/myanmars-coup-doctors.html">Myanmar’s Health System Is in Collapse, ‘Obliterated’ by the Regime</a> NYT: The country is also now one of the most dangerous places in the world to be a medical worker. At least 30 doctors have been killed since the coup, a rights group says. 
- <p class="updated_time"> 01:50 AM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/in-ukraines-south-russian-occupiers-tighten-the-screws-11650301398">In Ukraine’s South, Russian Occupiers Tighten the Screws</a> WSJ: In Ukraine’s South, Russian Occupiers Tighten the Screws 
- <p class="updated_time"> 12:50 AM CT, Apr. 19 </p> 
+ <p class="updated_time"> 01:31 AM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/israel-airstrikes-hit-gaza-after-rocket-fire-11650356706">Israel Airstrikes Hit Gaza After Rocket Fire</a> WSJ: Israel Airstrikes Hit Gaza After Rocket Fire 
+ <p class="updated_time"> 12:31 AM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/sweden-arrests-dozens-in-clashes-over-far-right-leaders-plan-to-burn-quran-11650306872">Sweden Arrests Dozens in Clashes Over Burning of Quran</a> WSJ: Sweden Arrests Dozens in Clashes Over Burning of Quran 
  <p class="updated_time"> 12:25 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093472819/global-finance-meeting-focuses-on-war-driven-food-insecurity">Global finance meeting focuses on war-driven food insecurity</a> NPR: Russia and Ukraine produce roughly 14% of the world's wheat supply, according to the United Nations, and the war has resulted in soaring food prices and fears about food security globally. 
  <p class="updated_time"> 12:03 AM CT, Apr. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61146084?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Children's lives are upended as conflict rages</a> BBC: As fighting rages across Ukraine, Russia's invasion has shattered the lives of millions of children. 
- <p class="updated_time"> 11:50 PM CT, Apr. 18 </p> 
- <a href="https://www.wsj.com/articles/sweden-arrests-dozens-in-clashes-over-far-right-leaders-plan-to-burn-quran-11650306872">Sweden Arrests Dozens in Clashes Over Burning of Quran</a> WSJ: Sweden Arrests Dozens in Clashes Over Burning of Quran 
- <p class="updated_time"> 10:50 PM CT, Apr. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61146084?at_medium=RSS&at_campaign=KARANGA">Ukraine children: Killed as he escaped, Elisei is one of 200 child victims</a> BBC: As fighting rages across Ukraine, Russia's invasion has shattered the lives of millions of children. 
+ <p class="updated_time"> 11:31 PM CT, Apr. 18 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-19-restrictions-threatens-economic-recovery-11650287954">China’s Pandemic Restrictions Threaten Economic Recovery</a> WSJ: China’s Pandemic Restrictions Threaten Economic Recovery 
  <p class="updated_time"> 10:18 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/business/airline-mask-rules.html">Which U.S. Airlines Dropped Their Mask Mandate</a> NYT: After a federal mandate was struck down, the major carriers said masks would be optional on their domestic flights. 
@@ -82,17 +86,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:34 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380874/ukrainian-civilians-living-close-to-the-frontlines-say-they-feel-trapped">Ukrainian civilians living close to the frontlines say they feel trapped</a> NPR: Hundreds of thousands of Ukrainians are still living close to the front lines as Russia readies another offensive. Here's how people are surviving in the city of Mykoliav. 
  <p class="updated_time"> 03:29 PM CT, Apr. 18 </p> 
- <a href="https://www.bbc.co.uk/sport/football/61143808?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo and partner Georgina Rodriguez announce death of baby boy</a> BBC: Footballer Cristiano Ronaldo and his partner Georgina Rodriguez were expecting twins. 
+ <a href="https://www.bbc.co.uk/sport/football/61143808?at_medium=RSS&at_campaign=KARANGA">Cristiano Ronaldo and partner Georgina Rodriguez announce death of baby boy</a> BBC: The Portuguese footballer and partner Georgina Rodriguez revealed they were expecting twins last year. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380867/special-envoy-john-kerry-on-helping-small-island-nations-dealing-with-climate-ch">Special envoy John Kerry on helping small island nations dealing with climate change</a> NPR: NPR's Ari Shapiro speaks with John Kerry, U.S. special presidential envoy for climate, about the current outlook on climate change and the global endeavor to combat it. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380846/britain-has-partnered-with-rwanda-to-process-and-settle-thousands-of-migrants">Britain has partnered with Rwanda to process and settle thousands of migrants</a> NPR: The U.K. has signed a deal with Rwanda to send migrants to the East African nation. There, their claims for asylum can be processed and many may be asked to settle. 
  <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
  <a href="https://www.npr.org/2022/04/18/1093380825/ukrainian-children-are-being-separated-from-extended-family-at-the-u-s-mexico-bo">Ukrainian children are being separated from extended family at the U.S.-Mexico border</a> NPR: Ukrainian refugees arriving at the U.S.-Mexico border are  enjoying expedited admission to the U.S. But children who arrive with family other than their parents are still being separated and detained. 
- <p class="updated_time"> 03:26 PM CT, Apr. 18 </p> 
- <a href="https://www.npr.org/2022/04/18/1093380818/overnight-missile-strikes-have-killed-at-least-7-in-lviv-ukraine">Overnight missile strikes have killed at least 7 in Lviv, Ukraine</a> NPR: Missiles struck cities all across Ukraine overnight, including in the western city of Lviv, where at least 7 people were killed. The town had been relatively peaceful for weeks. 
- <p class="updated_time"> 02:50 PM CT, Apr. 18 </p> 
- <a href="https://www.npr.org/2022/04/18/1093364146/a-florida-judge-overturns-the-cdcs-mask-mandate-for-planes-and-other-public-tran">TSA will no longer enforce travel mask mandate after a federal judge strikes it down </a> NPR: The mask-wearing requirement had been initially imposed in early 2021, shortly after President Joe Biden took office. 
  <p class="updated_time"> 02:33 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/global-covid-summit.html">A Second Global Covid-19 Summit Led By the White House Is Set for May</a> NYT: Efforts to subsidize more global vaccinations have stalled in Congress, and new coronavirus cases are on the rise in the U.S. 
  <p class="updated_time"> 02:16 PM CT, Apr. 18 </p> 
@@ -198,6 +198,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:22 AM CT, Apr. 19 </p> 
+ <a href="https://www.npr.org/2022/04/19/1093364807/republicans-confront-or-sidestep-abuse-accusations-against-midterm-candidates">Republicans confront (or sidestep) abuse accusations against midterm candidates</a> NPR: Candidates such as Herschel Walker, Eric Greitens and Max Miller have been accused of abusing partners and, in some cases, children. But some party leaders aren't convinced voters will reject them. 
+ <p class="updated_time"> 04:19 AM CT, Apr. 19 </p> 
+ <a href="https://www.npr.org/2022/04/19/1093477424/floridas-legislature-meets-in-a-special-session-to-adopt-new-congressional-maps">Florida's legislature meets in a special session to adopt new congressional maps</a> NPR: Republican leaders say they'll approve maps drawn by the governor that eliminate two Black voting districts. Gov. Ron DeSantis insisted on district maps that give an extra advantage to Republicans. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 19 </p> 
+ <a href="https://www.politico.com/news/2022/04/19/capitol-police-vetting-practices-first-amendment-concerns-00025904">Capitol Police's new vetting practices raise 'First Amendment concerns,' whistleblowers' lawyer says</a> Politico: An attorney for Capitol Police employees wrote that intelligence analysts were “directed” to search the social media pages of congressional staff, event attendees and hosts. 
  <p class="updated_time"> 02:58 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093479545/federal-judge-says-georgia-voters-can-challenge-greenes-reelection-run">Federal judge says Georgia voters can challenge Greene's reelection run</a> NPR: Monday's ruling means a group of Georgia voters can proceed with efforts seeking to disqualify U.S Rep Marjorie Taylor Greene from running for reelection. 
  <p class="updated_time"> 11:23 PM CT, Apr. 18 </p> 
@@ -293,15 +299,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:20 AM CT, Apr. 17 </p> 
  <a href="https://www.politico.com/news/2022/04/17/fred-upton-house-majority-midterms-gop-00025716">Fred Upton: Slim House majority could spell trouble for post-midterms GOP</a> Politico: The retiring Michigan Republican spoke of his party's ability to get legislation passed. 
  <p class="updated_time"> 09:01 AM CT, Apr. 17 </p> 
- <a href="https://www.nytimes.com/2022/04/17/us/politics/trump-mar-a-lago.html">Mar-a-Lago Machine: Trump as a Modern-Day Party Boss</a> NYT: Hoarding cash, doling out favors and seeking to crush rivals, the former president is dominating the G.O.P., preparing for another race and helping loyalists oust officials who thwarted his attempted subversion of the 2020 election. 
+ <a href="https://www.nytimes.com/2022/04/17/us/politics/trump-mar-a-lago.html">Trump as a Modern-Day Party Boss: Hoarding Cash and Doling Out Favors</a> NYT: Hoarding cash, doling out favors and seeking to crush rivals, the former president is dominating the G.O.P., preparing for another race and helping loyalists oust officials who thwarted his attempted subversion of the 2020 election. 
  <p class="updated_time"> 07:23 AM CT, Apr. 17 </p> 
  <a href="https://www.npr.org/2022/04/17/1093240561/politics-chat-biden-opens-more-land-for-oil-drilling">Politics chat: Biden opens more land for oil drilling</a> NPR: Higher gas prices may not be the main driver of the Biden administration's decision to sell new oil and gas leases on public land, but inflation is a significant political liability. 
- <p class="updated_time"> 07:06 AM CT, Apr. 17 </p> 
- <a href="https://www.npr.org/2022/04/17/1093208006/war-crystalizes-young-ukrainian-leaders-calls-for-a-future-aligned-with-europe">War crystalizes young Ukrainian leaders' calls for a future aligned with Europe</a> NPR: These young politicians have few memories of life under Soviet rule — and they say the war has accelerated their efforts to push for a more Europe-focused future. 
  <p class="updated_time"> 06:00 AM CT, Apr. 17 </p> 
  <a href="https://www.politico.com/news/2022/04/17/house-dems-super-pac-latino-00025694">‘A slap in the face’: House Dems’ super PAC sparks Latino backlash</a> Politico: A newly drawn House district offered the prospect of electing Oregon’s first Latina to Congress. Then a top super PAC unexpectedly swooped in. 
- <p class="updated_time"> 04:00 AM CT, Apr. 17 </p> 
- <a href="https://www.npr.org/sections/health-shots/2022/04/17/1093113623/washington-long-term-care">Washington state retools first-in-nation payroll tax plan for long-term care costs</a> NPR: The WA Cares Fund would help alleviate the financial burden of long-term care by providing workers a lifetime benefit of $36,500. The program was delayed while lawmakers addressed equity issues. 
  <p class="updated_time"> 12:27 PM CT, Apr. 16 </p> 
  <a href="https://www.nytimes.com/2022/04/15/us/politics/biden-tax-returns.html">Biden’s Tax Forms Show He and the First Lady Earned $610,702 in 2021</a> NYT: The president and his wife, Dr. Jill Biden, also reported donations of $17,394 to 10 charities. 
  <p class="updated_time"> 11:35 AM CT, Apr. 16 </p> 
