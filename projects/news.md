@@ -9,17 +9,19 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:51 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">Live Updates: Ukraine and Russia Trade Strikes Along Eastern Front</a> NYT: Russian forces tried to pierce the defenses of dug-in Ukrainian fighters, even as the two sides reached a tentative deal to evacuate some women and children from the besieged port city of Mariupol. 
+ <p class="updated_time"> 10:43 AM CT, Apr. 20 </p> 
+ <a href="https://www.npr.org/2022/04/20/1093741869/wimbledon-russian-players">Wimbledon bans Russian and Belarusian players — including No. 2 Medvedev</a> NPR: The British tournament becomes one of the first tennis events to suspend players from the two countries since Russia invaded Ukraine, and excludes several highly ranked players from competition. 
  <p class="updated_time"> 10:38 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61160434?at_medium=RSS&at_campaign=KARANGA">Damaris Muthee Mutua: Kenya police launch manhunt after athlete killed</a> BBC: Damaris Muthee Mutua is the second female runner to have been killed in the famous Iten athletics base in a year. 
- <p class="updated_time"> 10:34 AM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">Live Updates: Ukraine and Russia Trade Strikes Along Eastern Front</a> NYT: Russian forces tried to pierce the defenses of dug-in Ukrainian fighters, even as the two sides reached a tentative deal to evacuate some women and children from the besieged port city of Mariupol. 
  <p class="updated_time"> 10:26 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/dementia-grandparent.html">Ukrainians Far From Home Struggle to Protect Family With Dementia</a> NYT: Millions of Ukrainians have been displaced since the war started. Many elderly or disabled people have been unable or unwilling to leave their homes. 
  <p class="updated_time"> 10:22 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093729899/meet-patron-a-bomb-sniffing-jack-russell-terrier-who-has-become-a-ukrainian-hero">Meet Patron, a bomb-sniffing Jack Russell terrier who has become a Ukrainian hero</a> NPR: Two-year-old Patron works with rescuers in the northern city of Chernihiv, where he sniffs out Russian bombs (in addition to warming laps, nipping sleeves and generally being a good boy). 
  <p class="updated_time"> 10:20 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/border-control-politics.html">Why ‘Border Control’ Politics Is More About Control Than Borders</a> NYT: A quirk of political psychology helps explain the British government’s plan to send some asylum seekers to Rwanda. 
- <p class="updated_time"> 09:46 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 09:58 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
  <p class="updated_time"> 09:28 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61163546?at_medium=RSS&at_campaign=KARANGA">Russian oligarch lambasts country's 'massacre'</a> BBC: Businessman Oleg Tinkov is one of the most high profile Russians to publicly condemn the war. 
@@ -27,34 +29,32 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/20/world/americas/colombia-comandos-armed-groups.html">Deep in Colombia, Rebels and Soldiers Fight for the Same Prize: Drugs</a> NYT: The country signed a historic peace deal more than five years ago. But a power vacuum is fueling the rise of new armed groups competing to control the drug trade. 
  <p class="updated_time"> 09:12 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61161874?at_medium=RSS&at_campaign=KARANGA">Hot air balloon makes emergency landing onto Melbourne rooftops</a> BBC: A man on board filmed as the balloon bounced over roofs and trees during an emergency landing. 
- <p class="updated_time"> 08:46 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/erdogans-main-challenger-is-a-wonkish-former-accountant-that-may-be-what-turks-want-11650467018">Erdogan’s Main Challenger Is a Wonkish Former Accountant. That May Be What Turks Want.</a> WSJ: Erdogan’s Main Challenger Is a Wonkish Former Accountant. That May Be What Turks Want. 
+ <p class="updated_time"> 08:58 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
  <p class="updated_time"> 08:41 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61153252?at_medium=RSS&at_campaign=KARANGA">Netflix hints at password sharing crackdown as subscribers fall</a> BBC: The firm needs to sign up new subscribers after losing 200,000 in the first quarter of the year. 
+ <p class="updated_time"> 07:58 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/from-youtube-to-rutube-inside-russias-influence-campaign-11650447002">From YouTube to Rutube. Inside Russia’s Influence Campaign.</a> WSJ: From YouTube to Rutube. Inside Russia’s Influence Campaign. 
  <p class="updated_time"> 07:54 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/04/19/world/south-africa-floods">South Africa’s Government Shifts to Rebuilding After Disastrous Flooding</a> NYT: Nearly 4,000 homes have been destroyed and more than twice as many damaged in the Durban area after a week of punishing rains and mudslides. The death toll is now 448, with about four dozen people unaccounted for. 
  <p class="updated_time"> 07:49 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61156861?at_medium=RSS&at_campaign=KARANGA">US spring snowstorm leaves 300,000 in the dark</a> BBC: A bout of winter weather in the US north-east has brought outages and over a foot of snow. 
- <p class="updated_time"> 07:46 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/russia-oligarch-mordashov-sanctions-ukraine-11650309587">The Russian Oligarch With the Most to Lose</a> WSJ: The Russian Oligarch With the Most to Lose 
  <p class="updated_time"> 07:45 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61159812?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol ultimatum passes as hundreds shelter in steel mill</a> BBC: As a Russian ultimatum for Mariupol's surrender passes, Kyiv hopes to evacuate thousands still trapped. 
  <p class="updated_time"> 07:33 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/assange-uk-extradition.html">U.K. Court Order Moves Assange Closer to Extradition</a> NYT: The court formally ordered the extradition of the WikiLeaks founder to the United States, but it still needs approval from a British cabinet minister and his defense can appeal to her directly. 
  <p class="updated_time"> 07:29 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093708316/julian-assange-extradition">Julian Assange is one major step closer to extradition to the U.S. </a> NPR: A British judge on Wednesday formally approved the extradition of Julian Assange to the United States to face spying charges. The case will now go to Britain's interior minister for a decision. 
- <p class="updated_time"> 06:46 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
+ <p class="updated_time"> 06:58 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/julian-assanges-extradition-to-u-s-approved-by-u-k-court-11650462784">Julian Assange’s Extradition to U.S. Approved by U.K. Court, Referred to Government</a> WSJ: Julian Assange’s Extradition to U.S. Approved by U.K. Court, Referred to Government 
  <p class="updated_time"> 06:42 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/australia/china-solomon-islands-security-pact.html">Why China’s Security Pact With the Solomon Islands is a Threat</a> NYT: In potentially opening the door to a Chinese military base, the Solomon Islands threatens the balance of power in a vital shipping region. 
- <p class="updated_time"> 05:46 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/from-youtube-to-rutube-inside-russias-influence-campaign-11650447002">From YouTube to Rutube. Inside Russia’s Influence Campaign.</a> WSJ: From YouTube to Rutube. Inside Russia’s Influence Campaign. 
+ <p class="updated_time"> 05:58 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/youtube-blocks-campaign-account-of-hong-kongs-leader-in-waiting-11650444536">YouTube Blocks Campaign Account of Hong Kong’s Leader-in-Waiting</a> WSJ: YouTube Blocks Campaign Account of Hong Kong’s Leader-in-Waiting 
+ <p class="updated_time"> 05:49 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/russia-oligarch-mordashov-sanctions-ukraine-11650309587">The Russian Oligarch With the Most to Lose</a> WSJ: Steel magnate Alexey Mordashov, one of the country’s richest men, dedicated much of his career to strengthening Western ties and distancing himself from politics. Putin’s Ukraine invasion made him a pariah nonetheless. 
  <p class="updated_time"> 05:43 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/france-macron-unpopular.html">How Hated Is Macron? It Could Decide the French Election.</a> NYT: Given the choice between a president they suspect of despising ordinary people and a far-right candidate they detest, many French voters may stay home. 
- <p class="updated_time"> 04:57 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/youtube-blocks-campaign-account-of-hong-kongs-leader-in-waiting-11650444536">YouTube Blocks Campaign Account of Hong Kong's Leader-in-Waiting</a> WSJ: The video-sharing site cited U.S. sanctions for the move, which ratchets up tensions between big tech companies and the city’s government. 
- <p class="updated_time"> 04:53 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/julian-assanges-extradition-to-u-s-approved-by-u-k-court-11650462784">Julian Assange's Extradition to U.S. Approved by U.K. Court, Referred to Government</a> WSJ: A U.K. court said WikiLeaks co-founder Julian Assange’s extradition to the U.S. to face spying charges could proceed once the government approves it, but the prospect of an appeal means the legal saga could still be many months from resolution. 
  <p class="updated_time"> 04:30 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/asia/rohingya-refugees-malaysia-deaths.html">6 Rohingya Refugees Are Killed Fleeing Detention Center in Malaysia</a> NYT: In recent years, the Malaysian government has taken a more hard-line approach to the refugees in the country, which once offered a modicum of opportunity. 
  <p class="updated_time"> 04:17 AM CT, Apr. 20 </p> 
@@ -129,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/19/1093620420/a-former-israeli-prime-minister-went-to-jail-where-he-wrote-a-memoir">A former Israeli prime minister went to jail — where he wrote a memoir</a> NPR: NPR's Daniel Estrin speaks with former Israeli Prime Minister Ehud Olmert about his book, "Searching for Peace: A Memoir of Israel." He's said he's innocent, but went to prison for corruption charges. 
  <p class="updated_time"> 03:32 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093620399/how-daily-life-in-russia-has-changed-since-the-country-invaded-ukraine">How daily life in Russia has changed since the country invaded Ukraine</a> NPR: NPR's Ari Shapiro speaks with Anastasia, a woman who lives and works in Moscow, about what life in Russia looks like since the country invaded Ukraine. 
- <p class="updated_time"> 03:32 PM CT, Apr. 19 </p> 
- <a href="https://www.npr.org/2022/04/19/1093620392/after-fleeing-northern-ukraine-a-family-works-to-start-a-new-life">After fleeing northern Ukraine, a family works to start a new life</a> NPR: A family who fled the northern city of Chernihiv resettled in western Ukraine. Four weeks after they escaped, they're adjusting to a quieter normal life and dealing with their traumas. 
  <p class="updated_time"> 03:30 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/travel/south-georgia-island-recovery.html">A Portrait of South Georgia: Abundance, Exploitation, Recovery</a> NYT: A series of ecological initiatives, including the eradication of several invasive species, has dramatically revived the life and landscape of this remote sub-Antarctic island. 
  <p class="updated_time"> 03:30 PM CT, Apr. 19 </p> 
@@ -194,6 +192,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:54 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/us/politics/biden-atf-interim-director.html">Biden Is Expected to Tap Arizona Prosecutor as Interim Director of A.T.F.</a> NYT: The selection of Gary M. Restaino is intended to inject a sense of urgency into the bureau until President Biden’s nominee to oversee the agency permanently is confirmed. 
  <p class="updated_time"> 10:24 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/style/the-first-lady-viola-davis-michelle-obama.html">Fashioning ‘The First Lady’</a> NYT: The new Showtime series on Michelle Obama, Betty Ford and Eleanor Roosevelt makes the connection between substance and style. 
  <p class="updated_time"> 10:20 AM CT, Apr. 20 </p> 
@@ -204,8 +204,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/20/biden-russia-hacks-00026384">How Biden could respond if Russia hacks the U.S.</a> Politico: President Biden would have to choose carefully in responding to a Russian cyberattack on the U.S. to avoid escalating the conflict. 
  <p class="updated_time"> 09:48 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/intruder-peruvian-ambassador-residence-00026552">Feds: Intruder killed at Peruvian ambassador’s residence</a> Politico: The intruder was smashing windows at the residence of the Peruvian ambassador to the United States, authorities said. 
- <p class="updated_time"> 09:06 AM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/us/politics/biden-atf-interim-director.html">Biden Is Expected to Tap Arizona Prosecutor as Interim Director of A.T.F.</a> NYT: The selection of Gary M. Restaino is intended to inject a sense of urgency into the bureau until President Biden’s nominee to oversee the agency permanently is confirmed. 
  <p class="updated_time"> 05:30 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/democratic-super-pac-midterm-elections-00026412">Democratic super PAC launches new ads in major swing states</a> Politico: The group is targeting Arizona, Georgia, Nevada and Pennsylvania with a message touting Biden's economic plan. 
  <p class="updated_time"> 04:10 AM CT, Apr. 20 </p> 
