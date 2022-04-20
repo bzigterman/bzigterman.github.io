@@ -9,40 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:14 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 03:32 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">Live Updates: Ukraine’s Allies Race to Deliver More Advanced Weapons</a> NYT: President Biden will send weapons that Ukraine’s president has long asked for to defend against an escalating Russian offensive to capture the east of the country. 
+ <p class="updated_time"> 03:32 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/19/world/south-africa-floods">South Africa’s Government Shifts to Rebuilding After Disastrous Flooding</a> NYT: Nearly 4,000 homes have been destroyed and more than twice as many damaged in the Durban area after a week of punishing rains and mudslides. The death toll is now 448, with about four dozen people unaccounted for. 
+ <p class="updated_time"> 02:42 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 01:59 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093697094/shanghai-eases-covid-rules-and-allows-4-million-more-people-out-of-their-homes">Shanghai eases COVID rules and allows 4 million more people out of their homes </a> NPR: An official says the virus is under control in some parts of the city. Meanwhile, the IMF cut its forecast of Chinese economic growth and warned the global flow of industrial goods might be disrupted. 
+ <p class="updated_time"> 01:42 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
  <p class="updated_time"> 01:35 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61153252?at_medium=RSS&at_campaign=KARANGA">Netflix loses subscribers for first time in more than 10 years</a> BBC: The firm hints at a crackdown on password sharing, after losing 200,000 members in the first quarter of 2022. 
- <p class="updated_time"> 01:14 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
- <p class="updated_time"> 12:14 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 12:42 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/israel-airstrikes-hit-gaza-after-rocket-fire-11650356706">Israel Airstrikes Hit Gaza After Rocket Fire</a> WSJ: Israel Airstrikes Hit Gaza After Rocket Fire 
  <p class="updated_time"> 11:59 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61157161?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol fighters' relatives tell of bitter pride</a> BBC: Relatives speak of their pride and fears for the last Ukrainian soldiers defending Mariupol. 
- <p class="updated_time"> 11:14 PM CT, Apr. 19 </p> 
+ <p class="updated_time"> 11:42 PM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/mariupol-in-ruins-still-looms-large-for-russia-and-ukraine-11650379925">Mariupol, in Ruins, Still Looms Large for Russia and Ukraine</a> WSJ: Mariupol, in Ruins, Still Looms Large for Russia and Ukraine 
  <p class="updated_time"> 11:09 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/climate/biden-climate-nepa-trump.html">Biden Restores Climate to Environmental Law, Reversing Trump</a> NYT: A new rule requires agencies to analyze the climate impacts of proposed highways, pipelines and other projects, and gives local communities more input. 
  <p class="updated_time"> 11:09 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61157909?at_medium=RSS&at_campaign=KARANGA">Hepatitis cases detected in children in Europe and the US</a> BBC: Acute hepatitis - or liver inflammation - among children was first reported in the UK last week. 
+ <p class="updated_time"> 10:42 PM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/china-signs-solomon-islands-pact-over-u-s-australia-opposition-11650388369">China Signs Solomon Islands Pact</a> WSJ: China Signs Solomon Islands Pact 
  <p class="updated_time"> 10:38 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/mariupol-azovstal-steel-plant.html">Huge Steel Plant in Mariupol Is a Fortress for Ukrainian Holdouts </a> NYT: A huge Soviet-era steel mill is where the last Ukrainian defenders of Mariupol have taken refuge as Russia’s battle to take full control of the city appeared to be entering its final stages. 
  <p class="updated_time"> 10:33 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61151037?at_medium=RSS&at_campaign=KARANGA">One dead as police open fire at Sri Lanka protest</a> BBC: Police have used live rounds for the first time since protests erupted over an economic crisis. 
  <p class="updated_time"> 10:25 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-masks-public-transportation.html">Biden Says It’s ‘Up to Them’ Whether Americans Want to Wear Masks</a> NYT: The decision to wear a mask is “up to them,” President Biden told reporters during a trip. 
- <p class="updated_time"> 10:14 PM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/china-signs-solomon-islands-pact-over-u-s-australia-opposition-11650388369">China Signs Solomon Islands Pact</a> WSJ: China Signs Solomon Islands Pact 
  <p class="updated_time"> 09:51 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/asia/hong-kong-star-ferry.html">Star Ferry, ‘Emblem of Hong Kong,’ May Sail Into History After 142 Years</a> NYT: Launched in 1880, the ferry has witnessed both Hong Kong’s transformation into a global financial hub and its history of protests. But battered by a pandemic, the service is struggling to survive. 
  <p class="updated_time"> 08:42 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/business/economy/imf-world-economy-inflation.html">World Economic Outlook Dims as War and Pandemic Cast a Pall</a> NYT: The International Monetary Fund’s new World Economic Outlook expects growth to slow to 3.6 percent this year. The group is one of many to slash their forecasts recently. 
  <p class="updated_time"> 08:13 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/russia-ukraine-cease-fire-mariupol.html">Russia Rejects Calls for a Cease-Fire to Enable Evacuations From Ukraine</a> NYT: Civilians, including children, remain trapped in the eastern Ukraine region of Donbas and in the devastated port city of Mariupol. 
- <p class="updated_time"> 08:01 PM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/04/19/world/south-africa-floods">South Africa’s Government Shifts to Rebuilding After Disastrous Flooding</a> NYT: Nearly 4,000 homes have been destroyed and more than twice as many damaged in the Durban area after a week of punishing rains and mudslides. The death toll is now 448, with about four dozen people unaccounted for. 
  <p class="updated_time"> 07:43 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/us-ukraine-weaponry.html">The U.S. Races to Arm Ukraine With Heavier, More Advanced Weaponry</a> NYT: Washington and its allies are scouring Central Europe and the world to get Ukraine the weapons it needs for the next phase of the war. 
  <p class="updated_time"> 07:13 PM CT, Apr. 19 </p> 
@@ -60,7 +62,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:15 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61123510?at_medium=RSS&at_campaign=KARANGA">Why this face recognition firm is so controversial</a> BBC: If you're reading this, your face is probably on one of the more than 20bn images in this database. 
  <p class="updated_time"> 06:03 PM CT, Apr. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61147690?at_medium=RSS&at_campaign=KARANGA">The Zomato and Swiggy riders risking their lives to deliver food</a> BBC: The BBC followed overworked delivery riders as they raced against time to take food to customers. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61147690?at_medium=RSS&at_campaign=KARANGA">The Zomato and Swiggy riders risking their lives to deliver food in 10 minutes</a> BBC: The BBC followed overworked delivery riders as they raced against time to take food to customers. 
  <p class="updated_time"> 06:01 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61150865?at_medium=RSS&at_campaign=KARANGA">Climate Change, albinism and me</a> BBC: Coco shares her experience of living with albinism in Nigeria. 
  <p class="updated_time"> 05:34 PM CT, Apr. 19 </p> 
@@ -175,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/17/world/asia/afghanistan-airstrikes-pakistan.html">Death Toll From Pakistani Airstrike Rises to 45, Afghan Officials Say</a> NYT: The airstrikes in eastern Afghanistan early Saturday morning escalated already simmering tensions between the two countries. 
  <p class="updated_time"> 01:24 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/pope-francis-easter-ukraine.html">Pope Speaks of Ukraine’s Suffering on ‘an Easter of War’</a> NYT: In his blessing to pilgrims, Pope Francis quoted a manifesto against nuclear weapons and said conflict in Europe should bring increased attention to violence around the world. 
- <p class="updated_time"> 12:47 PM CT, Apr. 17 </p> 
- <a href="https://www.nytimes.com/2022/04/17/world/europe/lviv-easter-sunday-ukraine-russia-war.html">Worshipers Fill Pews in Lviv on Easter Sunday for Services That Remember War</a> NYT: Commemorations in Ukraine’s small Roman Catholic community combined ancient traditions with the reality of the war. 
  <p class="updated_time"> 12:25 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-war-russia-atrocities.html">Atrocities in Ukraine War Have Deep Roots in Russian Military</a> NYT: Like the shelling of cities, the seemingly pointless, close-up killing of individuals recalls wars in Chechnya. Do they reflect intent, or only indifference, propaganda and a military culture of violence? 
 
