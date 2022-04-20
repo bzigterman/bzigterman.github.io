@@ -9,54 +9,62 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:32 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 12:04 PM CT, Apr. 20 </p> 
+ <a href="https://www.npr.org/2022/04/20/1093764504/ukraine-snake-island-postage-stamp">Ukrainians wait in line for hours to buy commemorative Snake Island postage stamps</a> NPR: The stamps honor the Snake Island soldiers who answered a Russian calls to surrender with "Russian warship, go f*** yourself!" Ukraine's postal service had to limit purchases to six stamps apiece. 
+ <p class="updated_time"> 12:01 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">Ukraine Live Updates: Fighting Flares in East, as Russia Issues Warning With Missile Test</a> NYT: President Vladimir Putin said those who threaten Russia should “think twice,” though his Defense Ministry said the weapon needed more testing before it could be deployed. Moscow’s offensive in eastern Ukraine continued, as Ukrainian officials said they were pushing back. 
+ <p class="updated_time"> 12:01 PM CT, Apr. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61169495?at_medium=RSS&at_campaign=KARANGA">Production firm fined over Baldwin shooting case</a> BBC: A report into the fatal shooting by actor Alec Baldwin fines and strongly criticises the production company. 
+ <p class="updated_time"> 12:00 PM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/world/europe/prince-harry-queen-elizabeth-royal-family-britain.html">Prince Harry Puts Noses Out of Joint With Comments About the Queen</a> NYT: The prince, in Europe for the Invictus Games, visited his grandmother then told the “Today” show that he wanted to make sure “she’s protected.” 
+ <p class="updated_time"> 11:56 AM CT, Apr. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61163546?at_medium=RSS&at_campaign=KARANGA">Russian oligarch lambasts country's 'massacre'</a> BBC: Businessman Oleg Tinkov is one of the most high profile Russians to publicly condemn the war. 
+ <p class="updated_time"> 11:51 AM CT, Apr. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61159812?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol commander makes 'last' plea for help</a> BBC: Major Serhiy Volyna says his troops are heavily outnumbered and running out of supplies. 
+ <p class="updated_time"> 11:48 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/world/europe/russia-icbm-putin.html">Russia Said It Has Successfully Tested a New ICBM That Can Evade Defenses</a> NYT: Though officials said the missile is not yet ready to deploy, President Vladimir V. Putin said the launch of the Sarmat missile “will force all who are trying to threaten our country in the heat of frenzied, aggressive rhetoric to think twice.” 
+ <p class="updated_time"> 11:41 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/world/border-control-politics.html">Why ‘Border Control’ Politics Is More About Control Than Borders</a> NYT: A quirk of political psychology helps explain the British government’s plan to send some asylum seekers to Rwanda. 
  <p class="updated_time"> 11:17 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/africa/south-africa-floods-climate-change-housing.html">Housing Crisis Propels High Death Toll in South Africa Floods</a> NYT: The catastrophe underscored an overlooked reality in the fight against extreme weather: Protecting people is as much about tackling social issues as environmental ones. 
  <p class="updated_time"> 11:14 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/assange-uk-extradition.html">U.K. Court Order Moves Assange Closer to Extradition</a> NYT: The court formally ordered the extradition of the WikiLeaks founder to the United States, but it still needs approval from a British cabinet minister and his defense can appeal to her directly. 
- <p class="updated_time"> 11:08 AM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/europe/russia-icbm-putin.html">Russia Said It Has Successfully Tested a New ICBM That Can Evade Defenses</a> NYT: Though officials said the missile is not yet ready to deploy, President Vladimir V. Putin said the launch of the Sarmat missile “will force all who are trying to threaten our country in the heat of frenzied, aggressive rhetoric to think twice.” 
+ <p class="updated_time"> 11:12 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
+ <p class="updated_time"> 11:11 AM CT, Apr. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61164894?at_medium=RSS&at_campaign=KARANGA">Germany to stop Russian oil imports by end of this year</a> BBC: Germany currently gets a quarter of its oil and 40% of its gas from Russia 
  <p class="updated_time"> 10:43 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093741869/wimbledon-russian-players">Wimbledon bans Russian and Belarusian players — including No. 2 Medvedev</a> NPR: The British tournament becomes one of the first tennis events to suspend players from the two countries since Russia invaded Ukraine, and excludes several highly ranked players from competition. 
- <p class="updated_time"> 10:40 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
  <p class="updated_time"> 10:38 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61160434?at_medium=RSS&at_campaign=KARANGA">Damaris Muthee Mutua: Kenya police launch manhunt after athlete killed</a> BBC: Damaris Muthee Mutua is the second female runner to have been killed in the famous Iten athletics base in a year. 
  <p class="updated_time"> 10:26 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/dementia-grandparent.html">Ukrainians Far From Home Struggle to Protect Family With Dementia</a> NYT: Millions of Ukrainians have been displaced since the war started. Many elderly or disabled people have been unable or unwilling to leave their homes. 
  <p class="updated_time"> 10:22 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093729899/meet-patron-a-bomb-sniffing-jack-russell-terrier-who-has-become-a-ukrainian-hero">Meet Patron, a bomb-sniffing Jack Russell terrier who has become a Ukrainian hero</a> NPR: Two-year-old Patron works with rescuers in the northern city of Chernihiv, where he sniffs out Russian bombs (in addition to warming laps, nipping sleeves and generally being a good boy). 
- <p class="updated_time"> 10:20 AM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/border-control-politics.html">Why ‘Border Control’ Politics Is More About Control Than Borders</a> NYT: A quirk of political psychology helps explain the British government’s plan to send some asylum seekers to Rwanda. 
- <p class="updated_time"> 09:40 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 10:12 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/erdogans-main-challenger-is-a-wonkish-former-accountant-that-may-be-what-turks-want-11650467018">Erdogan’s Main Challenger Is a Wonkish Former Accountant. That May Be What Turks Want.</a> WSJ: Erdogan’s Main Challenger Is a Wonkish Former Accountant. That May Be What Turks Want. 
- <p class="updated_time"> 09:28 AM CT, Apr. 20 </p> 
- <a href="https://www.bbc.co.uk/news/business-61163546?at_medium=RSS&at_campaign=KARANGA">Russian oligarch lambasts country's 'massacre'</a> BBC: Businessman Oleg Tinkov is one of the most high profile Russians to publicly condemn the war. 
  <p class="updated_time"> 09:16 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/americas/colombia-comandos-armed-groups.html">Deep in Colombia, Rebels and Soldiers Fight for the Same Prize: Drugs</a> NYT: The country signed a historic peace deal more than five years ago. But a power vacuum is fueling the rise of new armed groups competing to control the drug trade. 
  <p class="updated_time"> 09:12 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61161874?at_medium=RSS&at_campaign=KARANGA">Hot air balloon makes emergency landing onto Melbourne rooftops</a> BBC: A man on board filmed as the balloon bounced over roofs and trees during an emergency landing. 
+ <p class="updated_time"> 09:12 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/russia-oligarch-mordashov-sanctions-ukraine-11650309587">The Russian Oligarch With the Most to Lose</a> WSJ: The Russian Oligarch With the Most to Lose 
  <p class="updated_time"> 08:41 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61153252?at_medium=RSS&at_campaign=KARANGA">Netflix hints at password sharing crackdown as subscribers fall</a> BBC: The firm needs to sign up new subscribers after losing 200,000 in the first quarter of the year. 
- <p class="updated_time"> 08:40 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/russia-oligarch-mordashov-sanctions-ukraine-11650309587">The Russian Oligarch With the Most to Lose</a> WSJ: The Russian Oligarch With the Most to Lose 
+ <p class="updated_time"> 08:12 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
  <p class="updated_time"> 07:49 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61156861?at_medium=RSS&at_campaign=KARANGA">US spring snowstorm leaves 300,000 in the dark</a> BBC: A bout of winter weather in the US north-east has brought outages and over a foot of snow. 
- <p class="updated_time"> 07:45 AM CT, Apr. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61159812?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol ultimatum passes as hundreds shelter in steel mill</a> BBC: As a Russian ultimatum for Mariupol's surrender passes, Kyiv hopes to evacuate thousands still trapped. 
- <p class="updated_time"> 07:40 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
  <p class="updated_time"> 07:29 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093708316/julian-assange-extradition">Julian Assange is one major step closer to extradition to the U.S. </a> NPR: A British judge on Wednesday formally approved the extradition of Julian Assange to the United States to face spying charges. The case will now go to Britain's interior minister for a decision. 
+ <p class="updated_time"> 07:12 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/from-youtube-to-rutube-inside-russias-influence-campaign-11650447002">From YouTube to Rutube. Inside Russia’s Influence Campaign.</a> WSJ: From YouTube to Rutube. Inside Russia’s Influence Campaign. 
+ <p class="updated_time"> 07:01 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/china-air-crash-report-gives-few-new-clues-on-boeing-737s-fatal-nosedive-11650466466">China Air Crash Report Gives Few New Clues on Boeing 737's Fatal Nosedive</a> WSJ: Preliminary findings show no problems found with the plane or flying conditions, while data from the black boxes is still being retrieved. 
  <p class="updated_time"> 06:42 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/australia/china-solomon-islands-security-pact.html">Why China’s Security Pact With the Solomon Islands is a Threat</a> NYT: In potentially opening the door to a Chinese military base, the Solomon Islands threatens the balance of power in a vital shipping region. 
- <p class="updated_time"> 06:40 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/from-youtube-to-rutube-inside-russias-influence-campaign-11650447002">From YouTube to Rutube. Inside Russia’s Influence Campaign.</a> WSJ: From YouTube to Rutube. Inside Russia’s Influence Campaign. 
  <p class="updated_time"> 05:43 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/france-macron-unpopular.html">How Hated Is Macron? It Could Decide the French Election.</a> NYT: Given the choice between a president they suspect of despising ordinary people and a far-right candidate they detest, many French voters may stay home. 
- <p class="updated_time"> 04:57 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/youtube-blocks-campaign-account-of-hong-kongs-leader-in-waiting-11650444536">YouTube Blocks Campaign Account of Hong Kong's Leader-in-Waiting</a> WSJ: The video-sharing site cited U.S. sanctions for the move, which ratchets up tensions between big tech companies and the city’s government. 
  <p class="updated_time"> 04:53 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/julian-assanges-extradition-to-u-s-approved-by-u-k-court-11650462784">Julian Assange's Extradition to U.S. Approved by U.K. Court, Referred to Government</a> WSJ: A U.K. court said WikiLeaks co-founder Julian Assange’s extradition to the U.S. to face spying charges could proceed once the government approves it, but the prospect of an appeal means the legal saga could still be many months from resolution. 
  <p class="updated_time"> 04:30 AM CT, Apr. 20 </p> 
@@ -73,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/20/1092640126/russia-ukraine-war-food-security-united-nations">It's planting season in Ukraine, and that means problems for global food supply</a> NPR: Russia's invasion of Ukraine sent ripples beyond the immediate conflict zone, breaking supply chains and creating food shortages as two of the world's biggest food exporters went to war. 
  <p class="updated_time"> 04:00 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1091770301/ukrainian-band-dakhabrakha-delivers-an-urgent-message-to-u-s-audiences">Ukrainian band DakhaBrakha delivers an urgent message to U.S. audiences</a> NPR: This "ethno-chaos" group brings sophisticated music and strong anti-Putin messages to their listeners at home and abroad, as "ambassadors of free Ukraine." They're currently on a U.S. tour. 
- <p class="updated_time"> 03:01 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/maskless-on-planes-no-thank-you-say-many-asians-worried-about-covid-19-11650456116">Maskless on Planes? No Thank You, Say Many Asians Worried About Covid-19</a> WSJ: From Japan to Thailand, face coverings remain near-universal in public, and countries are keeping mandates. 
  <p class="updated_time"> 01:59 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093697094/shanghai-eases-covid-rules-and-allows-4-million-more-people-out-of-their-homes">Shanghai eases COVID rules and allows 4 million more people out of their homes </a> NPR: An official says the virus is under control in some parts of the city. Meanwhile, the IMF cut its forecast of Chinese economic growth and warned the global flow of industrial goods might be disrupted. 
  <p class="updated_time"> 11:59 PM CT, Apr. 19 </p> 
@@ -97,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/19/world/russia-ukraine-cease-fire-mariupol.html">Russia Rejects Calls for a Cease-Fire to Enable Evacuations From Ukraine</a> NYT: Civilians, including children, remain trapped in the eastern Ukraine region of Donbas and in the devastated port city of Mariupol. 
  <p class="updated_time"> 07:43 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/us-ukraine-weaponry.html">The U.S. Races to Arm Ukraine With Heavier, More Advanced Weaponry</a> NYT: Washington and its allies are scouring Central Europe and the world to get Ukraine the weapons it needs for the next phase of the war. 
- <p class="updated_time"> 07:13 PM CT, Apr. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61155035?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv's allies pledge more weapons to help win war</a> BBC: Leaders agree to send artillery and other weapons as Russia launches a fresh offensive in eastern Ukraine. 
  <p class="updated_time"> 07:13 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61117434?at_medium=RSS&at_campaign=KARANGA">Why Koreans could soon become a year younger</a> BBC: The new government has proposed getting rid of the country's age systems, but experts are divided. 
  <p class="updated_time"> 06:39 PM CT, Apr. 19 </p> 
@@ -131,8 +135,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/19/1093620434/45-cities-in-china-are-in-some-sort-of-covid-lockdown-heres-the-toll-thats-takin">45 cities in China are in some sort of COVID lockdown. Here's the toll that's taking</a> NPR: More than half of China's biggest cities are still under some form of lockdown measures. They're costing people economically and emotionally. 
  <p class="updated_time"> 03:32 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093620420/a-former-israeli-prime-minister-went-to-jail-where-he-wrote-a-memoir">A former Israeli prime minister went to jail — where he wrote a memoir</a> NPR: NPR's Daniel Estrin speaks with former Israeli Prime Minister Ehud Olmert about his book, "Searching for Peace: A Memoir of Israel." He's said he's innocent, but went to prison for corruption charges. 
- <p class="updated_time"> 03:32 PM CT, Apr. 19 </p> 
- <a href="https://www.npr.org/2022/04/19/1093620399/how-daily-life-in-russia-has-changed-since-the-country-invaded-ukraine">How daily life in Russia has changed since the country invaded Ukraine</a> NPR: NPR's Ari Shapiro speaks with Anastasia, a woman who lives and works in Moscow, about what life in Russia looks like since the country invaded Ukraine. 
  <p class="updated_time"> 03:30 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/travel/south-georgia-island-recovery.html">A Portrait of South Georgia: Abundance, Exploitation, Recovery</a> NYT: A series of ecological initiatives, including the eradication of several invasive species, has dramatically revived the life and landscape of this remote sub-Antarctic island. 
  <p class="updated_time"> 03:30 PM CT, Apr. 19 </p> 
@@ -153,8 +155,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/19/world/un-martin-griffith-covid.html">U.N. Official Said He Tested Positive for Covid After In-Person Meeting</a> NYT: One meeting had included the U.N.’s secretary general, but everyone in the room was wearing masks, a spokesman said. 
  <p class="updated_time"> 07:43 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/health/death-records-africa-electronic-autopsy.html">A Door-to-Door Effort to Find Out Who Died Helps Low-Income Countries Aid the Living</a> NYT: Many developing countries don’t keep official death records. A novel effort uses “electronic autopsies” to count deaths, and record their cause. 
- <p class="updated_time"> 06:08 AM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/18/world/canada/toronto-cannabis-stores.html">A ‘Wild West’ of Marijuana Shops Grows in Toronto</a> NYT: Permitted to operate during the pandemic, even during lockdowns, Toronto’s marijuana shops have flourished and changed the character of an iconic neighborhood. 
  <p class="updated_time"> 04:30 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/china-lockdowns.html">China’s Covid Shutdowns Go Far Beyond Shanghai</a> NYT: Cities and towns across the country are shutting down, hoping to sidestep the pitfalls and stumbles that Shanghai has faced battling the Omicron variant. 
  <p class="updated_time"> 02:26 AM CT, Apr. 19 </p> 
@@ -171,14 +171,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/world/europe/russian-economy-bleak-assessments.html">Bleak Assessments of Russian Economy Contradict Putin’s Rosy Claims</a> NYT: While Vladimir Putin boasts that Russia is holding up under Western sanctions, his central bank chief and the mayor of Moscow warned that the worst was yet to come. 
  <p class="updated_time"> 04:30 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/covid-vaccine-doses-funding-congress.html">Calls for Covid funding are renewed as doses near expiration.</a> NYT: A tense battle may soon resume over the stalled $10 billion pandemic aid package that senators failed to pass earlier this month. 
- <p class="updated_time"> 04:11 PM CT, Apr. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61145528?at_medium=RSS&at_campaign=KARANGA">White House hosts first Easter egg roll since pandemic</a> BBC: The Easter egg roll made its return to the White House's South Lawn on a rainy Monday. 
  <p class="updated_time"> 04:07 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/middleeast/israel-gaza-rocket-jerusalem.html">New Rocket Fire From Gaza Follows Rising Tensions in Israel</a> NYT: The first strike from Gaza in several months came just days after clashes in and around the Aqsa Mosque compound, a sacred site for both Muslims and Jews. 
  <p class="updated_time"> 02:33 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/global-covid-summit.html">A Second Global Covid-19 Summit Led By the White House Is Set for May</a> NYT: Efforts to subsidize more global vaccinations have stalled in Congress, and new coronavirus cases are on the rise in the U.S. 
- <p class="updated_time"> 01:31 PM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/2022/04/18/world/europe/france-election-economy.html">French Candidates’ Economic Programs Hold Key to the Election</a> NYT: Promising tax cuts, higher wages and changes in the retirement age, President Macron and Marine Le Pen vie for undecided voters. 
  <p class="updated_time"> 11:18 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61033360?at_medium=RSS&at_campaign=KARANGA">Wayne Quilliam: Photographing the diversity of Aboriginal Australia</a> BBC: Australia has hundreds of Indigenous groups - and Wayne Quilliam is hoping to photograph them all. 
  <p class="updated_time"> 11:00 AM CT, Apr. 18 </p> 
@@ -196,14 +192,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:46 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/us/politics/florida-redistricting-maps-desantis.html">Florida Senate Passes Congressional Map Giving G.O.P. a Big Edge</a> NYT: The map, proposed by Gov. Ron DeSantis, would most likely add four Republican districts while eliminating three held by Democrats. 
  <p class="updated_time"> 11:33 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/us/politics/herschel-walker-georgia-senate.html">Herschel Walker’s Senate Bid in Georgia Is Powered by Fandom</a> NYT: The football-star-turned-candidate has been converting Bulldogs fans into supporters. But some Republicans worry voters are blinded by his celebrity. 
  <p class="updated_time"> 11:10 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093729789/texas-border-bridge-order-cost-billions">A key Texas bridge lost $1 billion per week during governor's slowdown</a> NPR: Gov. Greg Abbott's rule imposing safety inspections at the border did "nothing to stop the flow of illegal immigration or illegal drugs," Texas Agriculture Commissioner Sid Miller told NPR. 
  <p class="updated_time"> 11:03 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/bidens-whca-dinner-00026569">Bidens will attend White House Correspondents’ Dinner this month</a> Politico: “The @WHCA is pleased to host President Biden and Dr. Jill Biden as we honor the First Amendment at our dinner on April 30,” the organization tweeted. 
- <p class="updated_time"> 10:58 AM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/us/politics/florida-redistricting-maps-desantis.html">Florida Senate Passes Congressional Map Giving G.O.P. a Big Edge</a> NYT: The map, proposed by Gov. Ron DeSantis, would most likely add four Republican districts while eliminating three held by Democrats. 
  <p class="updated_time"> 10:54 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/us/politics/biden-atf-interim-director.html">Biden Is Expected to Tap Arizona Prosecutor as Interim Director of A.T.F.</a> NYT: The selection of Gary M. Restaino is intended to inject a sense of urgency into the bureau until President Biden’s nominee to oversee the agency permanently is confirmed. 
  <p class="updated_time"> 10:24 AM CT, Apr. 20 </p> 
@@ -219,7 +215,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:30 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/democratic-super-pac-midterm-elections-00026412">Democratic super PAC launches new ads in major swing states</a> Politico: The group is targeting Arizona, Georgia, Nevada and Pennsylvania with a message touting Biden's economic plan. 
  <p class="updated_time"> 04:10 AM CT, Apr. 20 </p> 
- <a href="https://www.npr.org/2022/04/20/1093698123/online-conspiracy-theories-are-bleeding-into-all-parts-of-georgias-politics">Online conspiracy theories are bleeding into all parts of Georgia's politics</a> NPR: Conspiracy theories are having an impact on non-controversial aspects of politics, including a bipartisan mental health bill in Georgia. 
+ <a href="https://www.npr.org/2022/04/20/1093698123/online-conspiracy-theories-are-bleeding-into-all-parts-of-georgias-politics">A mental health bill in Georgia shows how conspiracy theories are affecting politics</a> NPR: A bipartisan mental health reform bill in Georgia was briefly sidelined after far-right Republican groups spread disinformation about its purpose, including false claims of decriminalizing pedophilia. 
  <p class="updated_time"> 04:01 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093529387/as-biden-plans-to-lift-title-42-democrats-want-details-on-how-hell-address-influ">As Biden plans to lift Title 42, Democrats want details on how he'll address influx</a> NPR: Some key Senate Democrats and candidates have come out this week and expressed reservations about the Biden administration's decision to lift Title 42 by May 23. 
  <p class="updated_time"> 04:00 AM CT, Apr. 20 </p> 
