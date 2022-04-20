@@ -9,34 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:14 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 01:59 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093697094/shanghai-eases-covid-rules-and-allows-4-million-more-people-out-of-their-homes">Shanghai eases COVID rules and allows 4 million more people out of their homes </a> NPR: An official says the virus is under control in some parts of the city. Meanwhile, the IMF cut its forecast of Chinese economic growth and warned the global flow of industrial goods might be disrupted. 
- <p class="updated_time"> 01:39 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 01:35 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61153252?at_medium=RSS&at_campaign=KARANGA">Netflix loses subscribers for first time in more than 10 years</a> BBC: The firm hints at a crackdown on password sharing, after losing 200,000 members in the first quarter of 2022. 
- <p class="updated_time"> 12:39 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 01:14 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
+ <p class="updated_time"> 12:14 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/israel-airstrikes-hit-gaza-after-rocket-fire-11650356706">Israel Airstrikes Hit Gaza After Rocket Fire</a> WSJ: Israel Airstrikes Hit Gaza After Rocket Fire 
  <p class="updated_time"> 11:59 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61157161?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol fighters' relatives tell of bitter pride</a> BBC: Relatives speak of their pride and fears for the last Ukrainian soldiers defending Mariupol. 
- <p class="updated_time"> 11:39 PM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/israel-airstrikes-hit-gaza-after-rocket-fire-11650356706">Israel Airstrikes Hit Gaza After Rocket Fire</a> WSJ: Israel Airstrikes Hit Gaza After Rocket Fire 
+ <p class="updated_time"> 11:14 PM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/mariupol-in-ruins-still-looms-large-for-russia-and-ukraine-11650379925">Mariupol, in Ruins, Still Looms Large for Russia and Ukraine</a> WSJ: Mariupol, in Ruins, Still Looms Large for Russia and Ukraine 
  <p class="updated_time"> 11:09 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/climate/biden-climate-nepa-trump.html">Biden Restores Climate to Environmental Law, Reversing Trump</a> NYT: A new rule requires agencies to analyze the climate impacts of proposed highways, pipelines and other projects, and gives local communities more input. 
  <p class="updated_time"> 11:09 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61157909?at_medium=RSS&at_campaign=KARANGA">Hepatitis cases detected in children in Europe and the US</a> BBC: Acute hepatitis - or liver inflammation - among children was first reported in the UK last week. 
- <p class="updated_time"> 10:39 PM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/mariupol-in-ruins-still-looms-large-for-russia-and-ukraine-11650379925">Mariupol, in Ruins, Still Looms Large for Russia and Ukraine</a> WSJ: Mariupol, in Ruins, Still Looms Large for Russia and Ukraine 
  <p class="updated_time"> 10:38 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/mariupol-azovstal-steel-plant.html">Huge Steel Plant in Mariupol Is a Fortress for Ukrainian Holdouts </a> NYT: A huge Soviet-era steel mill is where the last Ukrainian defenders of Mariupol have taken refuge as Russia’s battle to take full control of the city appeared to be entering its final stages. 
  <p class="updated_time"> 10:33 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61151037?at_medium=RSS&at_campaign=KARANGA">One dead as police open fire at Sri Lanka protest</a> BBC: Police have used live rounds for the first time since protests erupted over an economic crisis. 
  <p class="updated_time"> 10:25 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-masks-public-transportation.html">Biden Says It’s ‘Up to Them’ Whether Americans Want to Wear Masks</a> NYT: The decision to wear a mask is “up to them,” President Biden told reporters during a trip. 
+ <p class="updated_time"> 10:14 PM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/china-signs-solomon-islands-pact-over-u-s-australia-opposition-11650388369">China Signs Solomon Islands Pact</a> WSJ: China Signs Solomon Islands Pact 
  <p class="updated_time"> 09:51 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/asia/hong-kong-star-ferry.html">Star Ferry, ‘Emblem of Hong Kong,’ May Sail Into History After 142 Years</a> NYT: Launched in 1880, the ferry has witnessed both Hong Kong’s transformation into a global financial hub and its history of protests. But battered by a pandemic, the service is struggling to survive. 
- <p class="updated_time"> 09:39 PM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/china-signs-solomon-islands-pact-over-u-s-australia-opposition-11650388369">China Signs Solomon Islands Pact</a> WSJ: China Signs Solomon Islands Pact 
  <p class="updated_time"> 08:42 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/business/economy/imf-world-economy-inflation.html">World Economic Outlook Dims as War and Pandemic Cast a Pall</a> NYT: The International Monetary Fund’s new World Economic Outlook expects growth to slow to 3.6 percent this year. The group is one of many to slash their forecasts recently. 
  <p class="updated_time"> 08:13 PM CT, Apr. 19 </p> 
@@ -62,7 +62,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:03 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61147690?at_medium=RSS&at_campaign=KARANGA">The Zomato and Swiggy riders risking their lives to deliver food</a> BBC: The BBC followed overworked delivery riders as they raced against time to take food to customers. 
  <p class="updated_time"> 06:01 PM CT, Apr. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61150865?at_medium=RSS&at_campaign=KARANGA">Climate Change, Albinism and Me</a> BBC: Coco shares her experience of living with albinism in Nigeria. 
+ <a href="https://www.bbc.co.uk/news/world-africa-61150865?at_medium=RSS&at_campaign=KARANGA">Climate Change, albinism and me</a> BBC: Coco shares her experience of living with albinism in Nigeria. 
  <p class="updated_time"> 05:34 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/france-cartoons-presidential-election.html">In French Election, Cartoonists Play a High-Profile Role</a> NYT: Cartoonists play a high-profile role in France’s political discourse, and they have been busy drawing the presidential candidates as the race approaches its end. 
  <p class="updated_time"> 04:19 PM CT, Apr. 19 </p> 
@@ -195,7 +195,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:43 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/us-ukraine-weaponry.html">The U.S. Races to Arm Ukraine With Heavier, More Advanced Weaponry</a> NYT: Washington and its allies are scouring Central Europe and the world to get Ukraine the weapons it needs for the next phase of the war. 
  <p class="updated_time"> 07:33 PM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-mask-mandate-appeal.html">Biden Administration May Appeal Ruling That Voided Travel Mask Mandate</a> NYT: If the C.D.C. decides there is a public health basis for trying to reinstate and extend the mask mandate, the Justice Department will swiftly file an appeal. 
+ <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-mask-mandate-appeal.html">Biden Administration May Appeal Mask Mandate Ruling</a> NYT: If the C.D.C. decides there is a public health basis for trying to reinstate and extend the mask mandate, the Justice Department will swiftly file an appeal. 
  <p class="updated_time"> 07:25 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/moderna-vaccine-beta-variant.html">Moderna Says Trial Suggests Redesigned Vaccines Protect Against Variants</a> NYT: Researchers combined Moderna’s existing vaccine with one designed to attack the Beta variant, and found it provided a stronger defense against several variants. 
  <p class="updated_time"> 06:45 PM CT, Apr. 19 </p> 
@@ -277,7 +277,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:58 PM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/russia-ukraine-war-missiles-00026102">Russia unleashes offensive on Ukraine, ushering in new phase of war</a> Politico: British anti-ship missiles, tanks from Eastern European countries and armored vehicles from Australia are being rushed to the fight. 
  <p class="updated_time"> 06:45 PM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/2022/04/18/us/politics/david-price-republicans-democrats-midterms.html">David Price Sees Echoes of 1994 Republican Revolution in 2022 Midterms</a> NYT: David Price sees echoes of the 1994 Republican Revolution in the 2022 midterms — and Republicans undoing the progress on voting rights that he witnessed as an aide in the 1960s. 
+ <a href="https://www.nytimes.com/2022/04/18/us/politics/david-price-republicans-democrats-midterms.html">A Departing House Democrat Traces 30 Years of G.O.P. History</a> NYT: David Price sees echoes of the 1994 Republican Revolution in the 2022 midterms — and Republicans undoing the progress on voting rights that he witnessed as an aide in the 1960s. 
  <p class="updated_time"> 06:36 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/trump-allies-election-decertify.html">Trump Allies Continue Legal Drive to Erase His Loss, Stoking Election Doubts</a> NYT: Fifteen months after they tried and failed to overturn the 2020 election, the same group of lawyers and associates is continuing efforts to “decertify” the vote, feeding a false narrative. 
  <p class="updated_time"> 05:01 PM CT, Apr. 18 </p> 
