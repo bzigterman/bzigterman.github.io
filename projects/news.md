@@ -9,22 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:17 AM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">Live Updates: Ukraine’s Allies Race to Deliver More Advanced Weapons</a> NYT: President Biden will send weapons that Ukraine’s president has long asked for to defend against an escalating Russian offensive to capture the east of the country. 
+ <p class="updated_time"> 05:45 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">Live Updates: Ukraine and Russia Trade Strikes Along Eastern Front</a> NYT: Russian forces tried to pierce the defenses of dug-in Ukrainian fighters, even as the two sides reached a tentative deal to evacuate some women and children from the besieged port city of Mariupol. 
+ <p class="updated_time"> 05:43 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/world/europe/france-macron-unpopular.html">How Hated Is Macron? It Could Decide the French Election.</a> NYT: Given the choice between a president they suspect of despising ordinary people and a far-right candidate they detest, many French voters may stay home. 
+ <p class="updated_time"> 05:39 AM CT, Apr. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61153252?at_medium=RSS&at_campaign=KARANGA">Netflix hints at password sharing crackdown as subscribers fall</a> BBC: The firm needs to sign up new members after losing 200,000 subscribers in the first quarter of the year. 
  <p class="updated_time"> 05:15 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/04/19/world/south-africa-floods">South Africa’s Government Shifts to Rebuilding After Disastrous Flooding</a> NYT: Nearly 4,000 homes have been destroyed and more than twice as many damaged in the Durban area after a week of punishing rains and mudslides. The death toll is now 448, with about four dozen people unaccounted for. 
  <p class="updated_time"> 05:06 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/australia/china-solomon-islands-security-pact.html">Why China’s Security Pact With the Solomon Islands is a Threat</a> NYT: In potentially opening the door to a Chinese military base, the Solomon Islands threatens the balance of power in a vital shipping region. 
  <p class="updated_time"> 04:54 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61159812?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol faces final ultimatum as hundreds shelter in steel mill</a> BBC: Thousands of people are still trapped across the city, as Kyiv hopes to send evacuation buses. 
+ <p class="updated_time"> 04:49 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 04:46 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/dementia-grandparent.html">Ukrainians Far From Home Struggle to Protect Family With Dementia</a> NYT: Millions of Ukrainians have been displaced since the war started. Many who have stayed behind are elderly or disabled, and unable or unwilling to leave their homes. 
- <p class="updated_time"> 04:34 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 04:30 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/asia/rohingya-refugees-malaysia-deaths.html">6 Rohingya Refugees Are Killed Fleeing Detention Center in Malaysia</a> NYT: In recent years, the Malaysian government has taken a more hard-line approach to the refugees in the country, which once offered a modicum of opportunity. 
- <p class="updated_time"> 04:25 AM CT, Apr. 20 </p> 
- <a href="https://www.bbc.co.uk/news/business-61153252?at_medium=RSS&at_campaign=KARANGA">Netflix hints at password sharing crackdown as subscribers fall</a> BBC: The firm needs to sign up new members after losing 200,000 subscribers in the first quarter of the year. 
  <p class="updated_time"> 04:17 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/20/1093153651/a-4-year-old-can-run-errands-alone-and-not-just-on-reality-tv">A 4-year-old can run errands alone ... and not just on reality TV </a> NPR: A Japanese TV show now on Netflix, 'Old Enough!,' has sparked much debate about the wisdom of allowing very young kids to be very independent. Risky? Beneficial? Child development experts weigh in. 
  <p class="updated_time"> 04:10 AM CT, Apr. 20 </p> 
@@ -39,17 +41,17 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/20/1092640126/russia-ukraine-war-food-security-united-nations">It's planting season in Ukraine, and that means problems for global food supply</a> NPR: Russia's invasion of Ukraine sent ripples beyond the immediate conflict zone, breaking supply chains and creating food shortages as two of the world's biggest food exporters went to war. 
  <p class="updated_time"> 04:00 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1091770301/ukrainian-band-dakhabrakha-delivers-an-urgent-message-to-u-s-audiences">Ukrainian band DakhaBrakha delivers an urgent message to U.S. audiences</a> NPR: This "ethno-chaos" group brings sophisticated music and strong anti-Putin messages to their listeners at home and abroad, as "ambassadors of free Ukraine." They're currently on a U.S. tour. 
+ <p class="updated_time"> 03:49 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
  <p class="updated_time"> 03:37 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61160434?at_medium=RSS&at_campaign=KARANGA">Damaris Muthee Mutua: Kenya police launch manhunt after athlete killed</a> BBC: Damaris Muthee Mutua is the second female runner to have been killed in the famous Iten athletics base in a year. 
- <p class="updated_time"> 03:34 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
- <p class="updated_time"> 02:34 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 02:49 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/from-youtube-to-rutube-inside-russias-influence-campaign-11650447002">From YouTube to Rutube. Inside Russia’s Influence Campaign.</a> WSJ: From YouTube to Rutube. Inside Russia’s Influence Campaign. 
  <p class="updated_time"> 01:59 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093697094/shanghai-eases-covid-rules-and-allows-4-million-more-people-out-of-their-homes">Shanghai eases COVID rules and allows 4 million more people out of their homes </a> NPR: An official says the virus is under control in some parts of the city. Meanwhile, the IMF cut its forecast of Chinese economic growth and warned the global flow of industrial goods might be disrupted. 
- <p class="updated_time"> 01:34 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 01:49 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/youtube-blocks-campaign-account-of-hong-kongs-leader-in-waiting-11650444536">YouTube Blocks Campaign Account of Hong Kong’s Leader-in-Waiting</a> WSJ: YouTube Blocks Campaign Account of Hong Kong’s Leader-in-Waiting 
- <p class="updated_time"> 12:34 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 12:49 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/no-father-wants-to-sell-his-sons-kidney-afghans-pushed-to-desperate-measures-to-survive-11650360705">Desperate Afghans Sell Kidneys to Survive</a> WSJ: Desperate Afghans Sell Kidneys to Survive 
  <p class="updated_time"> 11:59 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61157161?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol fighters' relatives tell of bitter pride</a> BBC: Relatives speak of their pride and fears for the last Ukrainian soldiers defending Mariupol. 
@@ -184,6 +186,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Apr. 20 </p> 
+ <a href="https://www.politico.com/news/2022/04/20/democratic-super-pac-midterm-elections-00026412">Democratic super PAC launches new ads in major swing states</a> Politico: The group is targeting Arizona, Georgia, Nevada and Pennsylvania with a message touting Biden's economic plan. 
  <p class="updated_time"> 04:01 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093529387/as-biden-plans-to-lift-title-42-democrats-want-details-on-how-hell-address-influ">As Biden plans to lift Title 42, Democrats want details on how he'll address influx</a> NPR: Some key Senate Democrats and candidates have come out this week and expressed reservations about the Biden administration's decision to lift Title 42 by May 23. 
  <p class="updated_time"> 04:00 AM CT, Apr. 20 </p> 
@@ -195,7 +199,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/education-spending-teachers-unions-shortages-00026473">Hire now, fire later. Schools flush with cash face a funding cliff in 2 years</a> Politico: School hiring and wage hikes could spark cuts when federal funds expire. 
  <p class="updated_time"> 03:30 AM CT, Apr. 20 </p> 
- <a href="https://www.politico.com/news/2022/04/20/abigail-spanberger-virginia-policing-message-00026211">‘The world is on fire’: How vulnerable House Dems are bracing for GOP attacks on crime</a> Politico: Democrats see Rep. Abigail Spanberger's district as competitive but winnable in a tough midterm fight. She thinks addressing GOP attacks on crime head on is key to keeping it. 
+ <a href="https://www.politico.com/news/2022/04/20/abigail-spanberger-virginia-policing-message-00026211">'That was a terrible idea': Spanberger wants a policing reboot for House Dems</a> Politico: Democrats see Rep. Abigail Spanberger's district as competitive but winnable in a tough midterm fight. She thinks addressing GOP attacks on crime head on is key to keeping it. 
  <p class="updated_time"> 03:30 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/eric-adams-redemption-mayors-critics-bad-judgment-00026485">Eric Adams calls it redemption. Mayor’s critics say it’s bad judgment.</a> Politico: Aides to the New York mayor offered a top city job to a politician who backed his opponent — a move that could have boosted the comeback bid of a former state lawmaker convicted of domestic violence. The effort reinforces the mayor’s affinity for some of the most controversial figures in state politics. 
  <p class="updated_time"> 11:05 PM CT, Apr. 19 </p> 
@@ -216,8 +220,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/19/us/politics/trump-jan-6-insurrection-act.html">Fearing a Trump Repeat, Jan. 6 Panel Considers Changes to Insurrection Act</a> NYT: The 1807 law allows a president to deploy American troops inside the country to put down a rebellion. Lawmakers fear it could be abused by a future president trying to stoke one. 
  <p class="updated_time"> 06:39 PM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/cdc-travel-mask-mandate-00026325">Can I really ditch my mask while traveling?</a> Politico: Five questions about what happens now that a Florida judge has invalidated the administration's mask mandate for planes, trains and other kinds of travel. 
- <p class="updated_time"> 06:07 PM CT, Apr. 19 </p> 
- <a href="https://www.politico.com/news/2022/04/19/justice-department-punts-mask-ruling-appeal-to-cdc-00026466">Justice Department punts mask ruling appeal to CDC</a> Politico: Administration officials publicly sent mixed signals throughout the day. 
  <p class="updated_time"> 06:00 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/david-mccormick-finances-senate.html">David McCormick’s Financial Disclosures in Senate Race Reveal His Wealth</a> NYT: The Republican Senate candidate’s financial disclosure statement depicts a wealthy man comfortable walking the halls of power. 
  <p class="updated_time"> 05:27 PM CT, Apr. 19 </p> 
@@ -260,6 +262,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/19/biden-reverses-trump-rule-limiting-scrutiny-environmental-impacts-00026207">Biden administration reverses Trump-era rule limiting scrutiny of environmental impacts</a> Politico: The rule will allow agencies to expand consideration of environmental justice factors in decision-making. 
  <p class="updated_time"> 09:31 AM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/dan-odowd-senate-bid-elon-musk-00026195">Tech mogul on his quixotic Senate bid: It’s not just about eviscerating Elon Musk</a> Politico: Dan O’Dowd confirmed in an interview that he’s spending millions of his own dollars on a national ad blitz to ban self-driving Tesla vehicles. But he says his run is serious. 
+ <p class="updated_time"> 08:29 AM CT, Apr. 19 </p> 
+ <a href="https://www.politico.com/news/2022/04/19/biden-trump-conscience-rule-00026082">Biden admin to rescind Trump ‘conscience’ rule for health workers</a> Politico: The move comes as many GOP-led states are moving to limit access to abortions and transgender care. 
  <p class="updated_time"> 08:28 AM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/joe-kahn-new-york-times-top-editor-00026189">Joe Kahn named top editor of NYT</a> Politico: Kahn, the paper’s managing editor, replaces outgoing executive editor Dean Baquet. 
  <p class="updated_time"> 08:08 AM CT, Apr. 19 </p> 
@@ -270,8 +274,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/19/1093364807/republicans-confront-or-sidestep-abuse-accusations-against-midterm-candidates">Republicans confront (or sidestep) abuse accusations against midterm candidates</a> NPR: Candidates such as Herschel Walker, Eric Greitens and Max Miller have been accused of abusing partners and, in some cases, children. But some party leaders aren't convinced voters will reject them. 
  <p class="updated_time"> 04:19 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093477424/floridas-legislature-meets-in-a-special-session-to-adopt-new-congressional-maps">Florida's legislature meets in a special session to adopt new congressional maps</a> NPR: Republican leaders say they'll approve maps drawn by the governor that eliminate two Black voting districts. Gov. Ron DeSantis insisted on district maps that give an extra advantage to Republicans. 
- <p class="updated_time"> 03:31 AM CT, Apr. 19 </p> 
- <a href="https://www.politico.com/news/2022/04/19/crypto-super-pac-campaign-finance-00026146">Revealed: The $14M mystery behind a new crypto super PAC</a> Politico: One of the biggest outside groups playing in the 2022 primaries so far filed its FEC report Friday. It only muddled the money trail. 
  <p class="updated_time"> 03:31 AM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/election-forecast-midterms-00026065">5 plot twists that could upend the midterms</a> Politico: Here's how and why our midterm Election Forecast could change before November. 
  <p class="updated_time"> 03:30 AM CT, Apr. 19 </p> 
