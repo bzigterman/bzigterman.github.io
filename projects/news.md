@@ -9,26 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:17 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 06:42 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/world/australia/china-solomon-islands-security-pact.html">Why China’s Security Pact With the Solomon Islands is a Threat</a> NYT: In potentially opening the door to a Chinese military base, the Solomon Islands threatens the balance of power in a vital shipping region. 
+ <p class="updated_time"> 06:33 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">Live Updates: Ukraine and Russia Trade Strikes Along Eastern Front</a> NYT: Russian forces tried to pierce the defenses of dug-in Ukrainian fighters, even as the two sides reached a tentative deal to evacuate some women and children from the besieged port city of Mariupol. 
+ <p class="updated_time"> 06:20 AM CT, Apr. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61159812?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol ultimatum passes as hundreds shelter in steel mill</a> BBC: As a Russian ultimatum for Mariupol's surrender passes, Kyiv hopes to evacuate thousands still trapped. 
  <p class="updated_time"> 06:06 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61153252?at_medium=RSS&at_campaign=KARANGA">Netflix hints at password sharing crackdown as subscribers fall</a> BBC: The firm needs to sign up new subscribers after losing 200,000 in the first quarter of the year. 
+ <p class="updated_time"> 05:49 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 05:43 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/france-macron-unpopular.html">How Hated Is Macron? It Could Decide the French Election.</a> NYT: Given the choice between a president they suspect of despising ordinary people and a far-right candidate they detest, many French voters may stay home. 
- <p class="updated_time"> 05:23 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 05:15 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/04/19/world/south-africa-floods">South Africa’s Government Shifts to Rebuilding After Disastrous Flooding</a> NYT: Nearly 4,000 homes have been destroyed and more than twice as many damaged in the Durban area after a week of punishing rains and mudslides. The death toll is now 448, with about four dozen people unaccounted for. 
- <p class="updated_time"> 05:06 AM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/australia/china-solomon-islands-security-pact.html">Why China’s Security Pact With the Solomon Islands is a Threat</a> NYT: In potentially opening the door to a Chinese military base, the Solomon Islands threatens the balance of power in a vital shipping region. 
- <p class="updated_time"> 04:54 AM CT, Apr. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61159812?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol faces final ultimatum as hundreds shelter in steel mill</a> BBC: Thousands of people are still trapped across the city, as Kyiv hopes to send evacuation buses. 
+ <p class="updated_time"> 04:49 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
  <p class="updated_time"> 04:46 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/dementia-grandparent.html">Ukrainians Far From Home Struggle to Protect Family With Dementia</a> NYT: Millions of Ukrainians have been displaced since the war started. Many who have stayed behind are elderly or disabled, and unable or unwilling to leave their homes. 
  <p class="updated_time"> 04:30 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/asia/rohingya-refugees-malaysia-deaths.html">6 Rohingya Refugees Are Killed Fleeing Detention Center in Malaysia</a> NYT: In recent years, the Malaysian government has taken a more hard-line approach to the refugees in the country, which once offered a modicum of opportunity. 
- <p class="updated_time"> 04:23 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
  <p class="updated_time"> 04:17 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/20/1093153651/a-4-year-old-can-run-errands-alone-and-not-just-on-reality-tv">A 4-year-old can run errands alone ... and not just on reality TV </a> NPR: A Japanese TV show now on Netflix, 'Old Enough!,' has sparked much debate about the wisdom of allowing very young kids to be very independent. Risky? Beneficial? Child development experts weigh in. 
  <p class="updated_time"> 04:10 AM CT, Apr. 20 </p> 
@@ -43,15 +43,15 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/20/1092640126/russia-ukraine-war-food-security-united-nations">It's planting season in Ukraine, and that means problems for global food supply</a> NPR: Russia's invasion of Ukraine sent ripples beyond the immediate conflict zone, breaking supply chains and creating food shortages as two of the world's biggest food exporters went to war. 
  <p class="updated_time"> 04:00 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1091770301/ukrainian-band-dakhabrakha-delivers-an-urgent-message-to-u-s-audiences">Ukrainian band DakhaBrakha delivers an urgent message to U.S. audiences</a> NPR: This "ethno-chaos" group brings sophisticated music and strong anti-Putin messages to their listeners at home and abroad, as "ambassadors of free Ukraine." They're currently on a U.S. tour. 
+ <p class="updated_time"> 03:49 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/from-youtube-to-rutube-inside-russias-influence-campaign-11650447002">From YouTube to Rutube. Inside Russia’s Influence Campaign.</a> WSJ: From YouTube to Rutube. Inside Russia’s Influence Campaign. 
  <p class="updated_time"> 03:37 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61160434?at_medium=RSS&at_campaign=KARANGA">Damaris Muthee Mutua: Kenya police launch manhunt after athlete killed</a> BBC: Damaris Muthee Mutua is the second female runner to have been killed in the famous Iten athletics base in a year. 
- <p class="updated_time"> 03:23 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/from-youtube-to-rutube-inside-russias-influence-campaign-11650447002">From YouTube to Rutube. Inside Russia’s Influence Campaign.</a> WSJ: From YouTube to Rutube. Inside Russia’s Influence Campaign. 
- <p class="updated_time"> 02:23 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 02:49 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/youtube-blocks-campaign-account-of-hong-kongs-leader-in-waiting-11650444536">YouTube Blocks Campaign Account of Hong Kong’s Leader-in-Waiting</a> WSJ: YouTube Blocks Campaign Account of Hong Kong’s Leader-in-Waiting 
  <p class="updated_time"> 01:59 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093697094/shanghai-eases-covid-rules-and-allows-4-million-more-people-out-of-their-homes">Shanghai eases COVID rules and allows 4 million more people out of their homes </a> NPR: An official says the virus is under control in some parts of the city. Meanwhile, the IMF cut its forecast of Chinese economic growth and warned the global flow of industrial goods might be disrupted. 
- <p class="updated_time"> 01:23 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 01:49 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/no-father-wants-to-sell-his-sons-kidney-afghans-pushed-to-desperate-measures-to-survive-11650360705">Desperate Afghans Sell Kidneys to Survive</a> WSJ: Desperate Afghans Sell Kidneys to Survive 
  <p class="updated_time"> 11:59 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61157161?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol fighters' relatives tell of bitter pride</a> BBC: Relatives speak of their pride and fears for the last Ukrainian soldiers defending Mariupol. 
@@ -186,6 +186,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:44 AM CT, Apr. 20 </p> 
+ <a href="https://www.cnn.com/2022/04/19/politics/who-is-judge-kathryn-kimball-mizelle-biden-mask-mandate/index.html">Who is Judge Kathryn Kimball Mizelle, the federal judge who blocked Biden's travel mask mandate?</a> CNN: A little-known federal judge appointed by former President Donald Trump found herself in the national spotlight on Monday after striking down the Biden administration's public transportation mask mandate. 
  <p class="updated_time"> 05:30 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/democratic-super-pac-midterm-elections-00026412">Democratic super PAC launches new ads in major swing states</a> Politico: The group is targeting Arizona, Georgia, Nevada and Pennsylvania with a message touting Biden's economic plan. 
  <p class="updated_time"> 04:01 AM CT, Apr. 20 </p> 
@@ -244,6 +246,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/19/white-house-readying-more-security-assistance-to-ukraine-00026366">White House readying more security assistance to Ukraine</a> Politico: The preparations come as Russian forces have begun their anticipated assault on the Donbas region. 
  <p class="updated_time"> 12:32 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093566982/florida-mask-mandate-judge-kathryn-mizelle">What to know about Judge Kathryn Mizelle, who struck down the travel mask mandate</a> NPR: Mizelle was nominated by former President Donald Trump in 2020 at age 33. The American Bar Association said at the time she wasn't qualified because she hadn't been practicing law for long enough. 
+ <p class="updated_time"> 12:15 PM CT, Apr. 19 </p> 
+ <a href="https://www.cnn.com/2022/04/19/politics/us-weapons-ukraine-intelligence/index.html">What happens to weapons sent to Ukraine? The US doesn't really know</a> CNN: The US has few ways to track the substantial supply of anti-tank, anti-aircraft and other weaponry it has sent across the border into Ukraine, sources tell CNN, a blind spot that's due in large part to the lack of US boots on the ground in the country -- and the easy portability of many of the smaller systems now pouring across the border. 
  <p class="updated_time"> 12:01 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093543895/delta-mask-mandate-seasonal">Delta updates its statement calling COVID a 'seasonal virus' after a backlash </a> NPR: The airline changed its announcement about the end of the federal mask mandate after a firestorm of criticism from public health experts who called it inaccurate and misleading. 
  <p class="updated_time"> 11:53 AM CT, Apr. 19 </p> 
@@ -292,8 +296,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/us/politics/david-price-republicans-democrats-midterms.html">David Price Sees Echoes of 1994 Republican Revolution in 2022 Midterms</a> NYT: David Price sees echoes of the 1994 Republican Revolution in the 2022 midterms — and Republicans undoing the progress on voting rights that he witnessed as an aide in the 1960s. 
  <p class="updated_time"> 06:36 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/trump-allies-election-decertify.html">Trump Allies Are Still Feeding the False 2020 Election Narrative</a> NYT: Fifteen months after they tried and failed to overturn the 2020 election, the same group of lawyers and associates is continuing efforts to “decertify” the vote, feeding a false narrative. 
- <p class="updated_time"> 05:01 PM CT, Apr. 18 </p> 
- <a href="https://www.cnn.com/2022/04/18/politics/democratic-donors-longshots/index.html">Some Democrats fear a 2020 repeat as cash flows to long-shot candidates</a> CNN: Marcus Flowers makes it perfectly clear why he is running for Congress: The Georgia Democrat wants to unseat Rep. Marjorie Taylor Greene, the attention-grabbing, conspiracy-pushing Republican who fills Democrats with rage. 
  <p class="updated_time"> 04:57 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/white-house-easter-egg-roll.html">The White House Easter Egg Roll Returns</a> NYT: President Biden and Jill Biden, the first lady, hosted the first Egg Roll since the beginning of the pandemic. It was the largest event held at the White House since they moved in. 
  <p class="updated_time"> 04:30 PM CT, Apr. 18 </p> 
@@ -310,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/us/politics/supreme-court-racial-bias-juror.html">Supreme Court Rejects Case on Juror Said to Harbor Racial Bias</a> NYT: The court’s three liberal members dissented, saying that Kristopher Love, a Texas death row inmate, should have been allowed to pursue his claim. 
  <p class="updated_time"> 09:26 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/supreme-court-gag-order-sec.html">Can the S.E.C. Require ‘Gag Orders’ When It Settles Cases?</a> NYT: The Supreme Court has been asked to review the practice, which a judge called “a stew of confusion and hypocrisy” and which challengers say violates the First Amendment. 
- <p class="updated_time"> 06:27 AM CT, Apr. 18 </p> 
- <a href="https://www.cnn.com/2022/04/18/politics/us-nato-ukraine-military-aid-dilemma/index.html">Biden and US allies face new dilemma on Ukraine aid</a> CNN: Ukraine's military took a defiant stand this weekend -- refusing to give in to Russia's demand for Kyiv's troops in the port city of Mariupol to surrender — at the same time that President Joe Biden and his allies face a new precipice in deciding how far the US can go in arming the embattled country, as Russia signals that it may take more aggressive action to stop the flow of weapons from the US and NATO. 
  <p class="updated_time"> 04:00 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/participatory-budgeting-shari-davis.html">What if Public Funds Were Controlled by the Public?</a> NYT: Through the dry-sounding Participatory Budgeting Project, Shari Davis is pushing a quietly radical idea: Democracy shouldn’t be confined to voting. 
  <p class="updated_time"> 03:31 AM CT, Apr. 18 </p> 
