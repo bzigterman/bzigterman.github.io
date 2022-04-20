@@ -9,19 +9,27 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:31 PM CT, Apr. 20 </p> 
+ <p class="updated_time"> 03:43 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">Ukraine Live Updates: Fighting Flares in East, as Russia Issues Warning With Missile Test</a> NYT: President Vladimir Putin said those who threaten Russia should “think twice,” though his Defense Ministry said the weapon needed more testing before it could be deployed. Moscow’s offensive in eastern Ukraine continued, as Ukrainian officials said they were pushing back. 
- <p class="updated_time"> 03:25 PM CT, Apr. 20 </p> 
+ <p class="updated_time"> 03:43 PM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/world/europe/avdiivka-ukraine-russia.html">Residents in Avdiivka, Ukraine Go Underground as Russia’s Assault on East Ramps Up</a> NYT: As Ukrainian forces dig into trenches and residents flee into basements, Russia’s artillery attacks have intensified. “They can’t get through the front lines and so they’re starting simply to destroy the city,” a Ukrainian official said. 
+ <p class="updated_time"> 03:40 PM CT, Apr. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61164894?at_medium=RSS&at_campaign=KARANGA">Germany rules out immediate end to Russian oil imports</a> BBC: "We have to be patient," Finance Minister Christian Lindner tells the BBC. 
+ <p class="updated_time"> 03:37 PM CT, Apr. 20 </p> 
+ <a href="https://www.npr.org/2022/04/20/1093846879/for-the-1st-time-in-years-the-u-s-and-cuba-will-sit-down-to-talk-migration">For the 1st time in years, the U.S. and Cuba will sit down to talk migration</a> NPR: Officials from the U.S. and Cuba are talking as migration from the island increases and there's a disagreement over it accepting deportations from the U.S. 
+ <p class="updated_time"> 03:37 PM CT, Apr. 20 </p> 
+ <a href="https://www.npr.org/2022/04/20/1093846872/a-fake-cyberwar-held-in-estonia-could-help-nations-prepare-for-real-life-threats">A fake cyberwar held in Estonia could help nations prepare for real life threats</a> NPR: From the tiny Baltic nation of Estonia, some 30 nations are participating in mock cyberwar exercises. While the annual NATO-led exercise may be fiction, the threat emanating from Russia is very real. 
+ <p class="updated_time"> 03:36 PM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61166601?at_medium=RSS&at_campaign=KARANGA">French election: Macron and Le Pen clash in TV presidential debate</a> BBC: Four days before the vote, far-right leader Marine Le Pen is behind Emmanuel Macron in the polls. 
+ <p class="updated_time"> 03:26 PM CT, Apr. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61168837?at_medium=RSS&at_campaign=KARANGA">Johnny Depp to face questioning in case against ex-wife Amber Heard</a> BBC: The actor testified about his volatile marriage to Amber Heard ahead of cross examination by her lawyers. 
  <p class="updated_time"> 03:21 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/germany-ukraine-weapons.html">Calls to Give Heavy Weapons to Ukraine Divide Germany’s Government</a> NYT: Weeks after Chancellor Olaf Scholz announced a paradigm shift in military strategy, his government is struggling to balance domestic politics, how to help Ukraine and anxiety over provoking Russia. that 
- <p class="updated_time"> 03:16 PM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/europe/avdiivka-ukraine-russia.html">Residents in Avdiivka, Ukraine Go Underground as Russia’s Assault on East Ramps Up</a> NYT: As Ukrainian forces dig into trenches and residents flee into basements, Russia’s artillery attacks have intensified. “They can’t get through the front lines and so they’re starting simply to destroy the city,” a Ukrainian official said. 
- <p class="updated_time"> 02:36 PM CT, Apr. 20 </p> 
+ <p class="updated_time"> 02:48 PM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
  <p class="updated_time"> 02:21 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/russian-spies-europe-ukraine.html">He Was a Penniless Donor to the Far Right. He Was Also a Russian Spy.</a> NYT: An investigation in Slovakia has exposed how Russian clandestine operations are trying to sow discord in Europe and create sympathy for Moscow over Ukraine. 
- <p class="updated_time"> 01:36 PM CT, Apr. 20 </p> 
+ <p class="updated_time"> 01:48 PM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/ukraine-needs-5-billion-monthly-to-keep-its-economy-afloat-imf-chief-says-11650478127">Ukraine Needs $5 Billion Monthly to Keep Its Economy Afloat, IMF Chief Says</a> WSJ: Ukraine Needs $5 Billion Monthly to Keep Its Economy Afloat, IMF Chief Says 
  <p class="updated_time"> 01:29 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html">Barack Obama’s New Role: Fighting Disinformation</a> NYT: The former president has embarked on a campaign to warn that the scourge of online falsehoods has eroded the foundations of democracy. 
@@ -29,40 +37,38 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61169495?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin: Rust film producers were indifferent to gun safety - report</a> BBC: A report criticises the makers of a film whose cinematographer was accidentally shot by Alec Baldwin. 
  <p class="updated_time"> 01:10 PM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61163546?at_medium=RSS&at_campaign=KARANGA">Russian oligarch lambasts country's 'massacre'</a> BBC: Businessman Oleg Tinkov is one of the most high profile Russians to publicly condemn the war. 
- <p class="updated_time"> 12:36 PM CT, Apr. 20 </p> 
+ <p class="updated_time"> 12:48 PM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/israeli-police-block-jewish-marchers-from-jerusalem-flashpoints-11650478517">Israeli Police Block Jewish Marchers From Jerusalem Flashpoints</a> WSJ: Israeli Police Block Jewish Marchers From Jerusalem Flashpoints 
  <p class="updated_time"> 12:30 PM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61159812?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol commander makes 'last' plea for help</a> BBC: Major Serhiy Volyna says his troops are heavily outnumbered and running out of supplies. 
  <p class="updated_time"> 12:29 PM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61165270?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Holocaust survivor aged 91 among Mariupol's civilian dead - reports</a> BBC: The woman reportedly died in a basement more than 80 years after surviving the city's Nazi occupiers. 
  <p class="updated_time"> 12:20 PM CT, Apr. 20 </p> 
- <a href="https://www.npr.org/2022/04/20/1093779425/asap-rocky-arrested-la-shooting">A$AP Rocky is arrested in Los Angeles in connection with a 2021 shooting</a> NPR: Police said they arrested the rapper at the Los Angeles International Airport "for assault with a deadly weapon" tied to a November shooting. 
+ <a href="https://www.npr.org/2022/04/20/1093779425/asap-rocky-arrested-la-shooting">A$AP Rocky is arrested in Los Angeles in connection with a 2021 shooting</a> NPR: Police said they arrested the rapper at Los Angeles International Airport on a charge of assault with a deadly weapon tied to a November shooting. 
  <p class="updated_time"> 12:17 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/australia/china-solomon-islands-security-pact.html">Why China’s Security Pact With the Solomon Islands is a Threat</a> NYT: In potentially opening the door to a Chinese military base, the Solomon Islands threatens the balance of power in a vital shipping region. 
  <p class="updated_time"> 12:16 PM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093760280/ukraine-refugees-5-million">The number of people fleeing Ukraine has surpassed 5 million</a> NPR: The U.N. had initially estimated that 4 million Ukrainians would flee Russia's war — a number that was exceeded last month. Overall, more than 10 million people have been displaced by the conflict. 
- <p class="updated_time"> 12:10 PM CT, Apr. 20 </p> 
- <a href="https://www.bbc.co.uk/news/business-61164894?at_medium=RSS&at_campaign=KARANGA">Germany to stop Russian oil imports by end of this year</a> BBC: Germany currently gets a quarter of its oil and 40% of its gas from Russia 
  <p class="updated_time"> 12:04 PM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093764504/ukraine-snake-island-postage-stamp">Ukrainians wait in line for hours to buy commemorative Snake Island postage stamps</a> NPR: The stamps honor the Snake Island soldiers who answered a Russian calls to surrender with "Russian warship, go f*** yourself!" Ukraine's postal service had to limit purchases to six stamps apiece. 
  <p class="updated_time"> 12:00 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/prince-harry-queen-elizabeth-royal-family-britain.html">Prince Harry Puts Noses Out of Joint With Comments About the Queen</a> NYT: The prince, in Europe for the Invictus Games, visited his grandmother then told the “Today” show that he wanted to make sure “she’s protected.” 
  <p class="updated_time"> 11:48 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/erdogans-main-challenger-is-a-wonkish-former-accountant-that-may-be-what-turks-want-11650467018">Erdogan’s Main Challenger Is a Wonkish Ex-Accountant. That May Be What Turks Want.</a> WSJ: Erdogan’s Main Challenger Is a Wonkish Ex-Accountant. That May Be What Turks Want. 
+ <p class="updated_time"> 11:48 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/russia-icbm-putin.html">Russia Said It Has Successfully Tested a New ICBM That Can Evade Defenses</a> NYT: Though officials said the missile is not yet ready to deploy, President Vladimir V. Putin said the launch of the Sarmat missile “will force all who are trying to threaten our country in the heat of frenzied, aggressive rhetoric to think twice.” 
  <p class="updated_time"> 11:41 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/border-control-politics.html">Why ‘Border Control’ Politics Is More About Control Than Borders</a> NYT: A quirk of political psychology helps explain the British government’s plan to send some asylum seekers to Rwanda. 
- <p class="updated_time"> 11:36 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/erdogans-main-challenger-is-a-wonkish-former-accountant-that-may-be-what-turks-want-11650467018">Erdogan’s Main Challenger Is a Wonkish Ex-Accountant. That May Be What Turks Want.</a> WSJ: Erdogan’s Main Challenger Is a Wonkish Ex-Accountant. That May Be What Turks Want. 
  <p class="updated_time"> 11:17 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/africa/south-africa-floods-climate-change-housing.html">Housing Crisis Propels High Death Toll in South Africa Floods</a> NYT: The catastrophe underscored an overlooked reality in the fight against extreme weather: Protecting people is as much about tackling social issues as environmental ones. 
  <p class="updated_time"> 11:14 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/assange-uk-extradition.html">U.K. Court Order Moves Assange Closer to Extradition</a> NYT: The court formally ordered the extradition of the WikiLeaks founder to the United States, but it still needs approval from a British cabinet minister and his defense can appeal to her directly. 
+ <p class="updated_time"> 10:48 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/julian-assanges-extradition-to-u-s-approved-by-u-k-court-11650462784">Julian Assange’s Extradition to U.S. Approved by U.K. Court, Referred to Government</a> WSJ: Julian Assange’s Extradition to U.S. Approved by U.K. Court, Referred to Government 
  <p class="updated_time"> 10:43 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093741869/wimbledon-russian-players">Wimbledon bans Russian and Belarusian players — including No. 2 Medvedev</a> NPR: The British tournament becomes one of the first tennis events to suspend players from the two countries since Russia invaded Ukraine, and excludes several highly ranked players from competition. 
  <p class="updated_time"> 10:38 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61160434?at_medium=RSS&at_campaign=KARANGA">Damaris Muthee Mutua: Kenya police launch manhunt after athlete killed</a> BBC: Damaris Muthee Mutua is the second female runner to have been killed in the famous Iten athletics base in a year. 
- <p class="updated_time"> 10:36 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/julian-assanges-extradition-to-u-s-approved-by-u-k-court-11650462784">Julian Assange’s Extradition to U.S. Approved by U.K. Court, Referred to Government</a> WSJ: Julian Assange’s Extradition to U.S. Approved by U.K. Court, Referred to Government 
  <p class="updated_time"> 10:26 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/dementia-grandparent.html">Ukrainians Far From Home Struggle to Protect Family With Dementia</a> NYT: Millions of Ukrainians have been displaced since the war started. Many elderly or disabled people have been unable or unwilling to leave their homes. 
  <p class="updated_time"> 10:22 AM CT, Apr. 20 </p> 
@@ -103,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/19/climate/biden-climate-nepa-trump.html">Biden Restores Climate to Environmental Law, Reversing Trump</a> NYT: A new rule requires agencies to analyze the climate impacts of proposed highways, pipelines and other projects, and gives local communities more input. 
  <p class="updated_time"> 10:38 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/mariupol-azovstal-steel-plant.html">Huge Steel Plant in Mariupol Is a Fortress for Ukrainian Holdouts </a> NYT: A huge Soviet-era steel mill is where the last Ukrainian defenders of Mariupol have taken refuge as Russia’s battle to take full control of the city appeared to be entering its final stages. 
- <p class="updated_time"> 10:33 PM CT, Apr. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61151037?at_medium=RSS&at_campaign=KARANGA">One dead as police open fire at Sri Lanka protest</a> BBC: Police have used live rounds for the first time since protests erupted over an economic crisis. 
  <p class="updated_time"> 10:25 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-masks-public-transportation.html">Biden Says It’s ‘Up to Them’ Whether Americans Want to Wear Masks</a> NYT: The decision to wear a mask is “up to them,” President Biden told reporters during a trip. 
  <p class="updated_time"> 09:51 PM CT, Apr. 19 </p> 
@@ -137,10 +141,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/19/1093530974/russia-ukraine-war-what-happened-today-april-19">Russia-Ukraine war: What happened today (April 19)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:49 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/business/airline-mask-rules.html">Which U.S. Airlines Dropped Their Mask Mandate</a> NYT: After a federal mandate was struck down, major carriers said masks would be optional on domestic flights. 
- <p class="updated_time"> 03:38 PM CT, Apr. 19 </p> 
- <a href="https://www.npr.org/2022/04/19/1093620427/russian-officials-have-said-a-major-offensive-is-coming">Russian officials have said a major offensive is coming</a> NPR: Russian officials say they've begun a new phase of their invasion of Ukraine. Ukrainian officials report fierce clashes across a wide front in the east and south. 
- <p class="updated_time"> 03:32 PM CT, Apr. 19 </p> 
- <a href="https://www.npr.org/2022/04/19/1093620448/whos-checking-the-fact-checkers">Who's checking the fact checkers?</a> NPR: The latest weapon in the disinformation war: Fake fact checkers. Some channels on the app Telegram look like independent fact checkers, but are pro-Russian propaganda outlets spreading falsities. 
  <p class="updated_time"> 03:30 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/letizia-battaglia-dead.html">Letizia Battaglia, Photographer of Mafia Brutality, Dies at 87</a> NYT: Her images of victims on the streets of Palermo were stamped on the nation’s consciousness as she challenged the grip mobsters had on her native Sicily. 
  <p class="updated_time"> 02:59 PM CT, Apr. 19 </p> 
@@ -194,7 +194,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:31 PM CT, Apr. 20 </p> 
+ <p class="updated_time"> 03:40 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/us/politics/trump-omarosa-manigault-newman-nda-award.html">Trump Campaign Ordered to Pay $1.3 Million to Omarosa Manigault Newman in NDA case</a> NYT: An arbitrator found Mr. Trump’s campaign owes the former White House aide and “Apprentice” star for legal fees, after he sued her for writing a tell-all book. 
  <p class="updated_time"> 03:20 PM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093841615/pot-shop-robberies-are-fueling-calls-for-a-u-s-banking-bill">Pot shop robberies are fueling calls for a U.S. banking bill</a> NPR: A surge in robberies at licensed cannabis shops is helping fuel a renewed push for federal banking reforms that would make the cash-dependent stores a less appealing target. 
@@ -212,6 +212,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/20/florida-releases-memo-clashing-with-hhs-advice-on-transgender-kids-00026593">Florida releases guidance clashing with HHS advice on transgender kids</a> Politico: Florida's health department published a memo claiming that minors should not receive hormone therapies, puberty-blocking drugs or gender reassignment surgery. 
  <p class="updated_time"> 01:29 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html">Barack Obama’s New Role: Fighting Disinformation</a> NYT: The former president has embarked on a campaign to warn that the scourge of online falsehoods has eroded the foundations of democracy. 
+ <p class="updated_time"> 01:29 PM CT, Apr. 20 </p> 
+ <a href="https://www.politico.com/news/2022/04/20/us-sanctions-russia-donbas-assault-00026625">U.S. unveils new sanctions as Russia continues Donbas assault</a> Politico: The actions come on the second day of Russia’s new offensive in southeastern Ukraine. 
  <p class="updated_time"> 01:14 PM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/jan-6-committee-trump-pence-call-00026597">Jan. 6 panel piecing together details of final Trump-Pence call</a> Politico: Several Donald Trump allies listened in from the Oval Office, but Mike Pence's side of the call remains elusive. 
  <p class="updated_time"> 12:47 PM CT, Apr. 20 </p> 
