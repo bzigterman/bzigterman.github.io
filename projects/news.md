@@ -9,10 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:51 AM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">Live Updates: Ukraine and Russia Trade Strikes Along Eastern Front</a> NYT: Russian forces tried to pierce the defenses of dug-in Ukrainian fighters, even as the two sides reached a tentative deal to evacuate some women and children from the besieged port city of Mariupol. 
+ <p class="updated_time"> 11:32 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">Ukraine Live Updates: Fighting Flares in East, as Russia Issues Warning With Missile Test</a> NYT: President Vladimir Putin said those who threaten Russia should “think twice,” though his Defense Ministry said the weapon needed more testing before it could be deployed. Moscow’s offensive in eastern Ukraine continued, as Ukrainian officials said they were pushing back. 
+ <p class="updated_time"> 11:17 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/world/africa/south-africa-floods-climate-change-housing.html">Housing Crisis Propels High Death Toll in South Africa Floods</a> NYT: The catastrophe underscored an overlooked reality in the fight against extreme weather: Protecting people is as much about tackling social issues as environmental ones. 
+ <p class="updated_time"> 11:14 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/world/europe/assange-uk-extradition.html">U.K. Court Order Moves Assange Closer to Extradition</a> NYT: The court formally ordered the extradition of the WikiLeaks founder to the United States, but it still needs approval from a British cabinet minister and his defense can appeal to her directly. 
+ <p class="updated_time"> 11:08 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/world/europe/russia-icbm-putin.html">Russia Said It Has Successfully Tested a New ICBM That Can Evade Defenses</a> NYT: Though officials said the missile is not yet ready to deploy, President Vladimir V. Putin said the launch of the Sarmat missile “will force all who are trying to threaten our country in the heat of frenzied, aggressive rhetoric to think twice.” 
  <p class="updated_time"> 10:43 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093741869/wimbledon-russian-players">Wimbledon bans Russian and Belarusian players — including No. 2 Medvedev</a> NPR: The British tournament becomes one of the first tennis events to suspend players from the two countries since Russia invaded Ukraine, and excludes several highly ranked players from competition. 
+ <p class="updated_time"> 10:40 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
  <p class="updated_time"> 10:38 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61160434?at_medium=RSS&at_campaign=KARANGA">Damaris Muthee Mutua: Kenya police launch manhunt after athlete killed</a> BBC: Damaris Muthee Mutua is the second female runner to have been killed in the famous Iten athletics base in a year. 
  <p class="updated_time"> 10:26 AM CT, Apr. 20 </p> 
@@ -21,40 +29,36 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/20/1093729899/meet-patron-a-bomb-sniffing-jack-russell-terrier-who-has-become-a-ukrainian-hero">Meet Patron, a bomb-sniffing Jack Russell terrier who has become a Ukrainian hero</a> NPR: Two-year-old Patron works with rescuers in the northern city of Chernihiv, where he sniffs out Russian bombs (in addition to warming laps, nipping sleeves and generally being a good boy). 
  <p class="updated_time"> 10:20 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/border-control-politics.html">Why ‘Border Control’ Politics Is More About Control Than Borders</a> NYT: A quirk of political psychology helps explain the British government’s plan to send some asylum seekers to Rwanda. 
- <p class="updated_time"> 09:58 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
+ <p class="updated_time"> 09:40 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/erdogans-main-challenger-is-a-wonkish-former-accountant-that-may-be-what-turks-want-11650467018">Erdogan’s Main Challenger Is a Wonkish Former Accountant. That May Be What Turks Want.</a> WSJ: Erdogan’s Main Challenger Is a Wonkish Former Accountant. That May Be What Turks Want. 
  <p class="updated_time"> 09:28 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61163546?at_medium=RSS&at_campaign=KARANGA">Russian oligarch lambasts country's 'massacre'</a> BBC: Businessman Oleg Tinkov is one of the most high profile Russians to publicly condemn the war. 
  <p class="updated_time"> 09:16 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/americas/colombia-comandos-armed-groups.html">Deep in Colombia, Rebels and Soldiers Fight for the Same Prize: Drugs</a> NYT: The country signed a historic peace deal more than five years ago. But a power vacuum is fueling the rise of new armed groups competing to control the drug trade. 
  <p class="updated_time"> 09:12 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61161874?at_medium=RSS&at_campaign=KARANGA">Hot air balloon makes emergency landing onto Melbourne rooftops</a> BBC: A man on board filmed as the balloon bounced over roofs and trees during an emergency landing. 
- <p class="updated_time"> 08:58 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
  <p class="updated_time"> 08:41 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61153252?at_medium=RSS&at_campaign=KARANGA">Netflix hints at password sharing crackdown as subscribers fall</a> BBC: The firm needs to sign up new subscribers after losing 200,000 in the first quarter of the year. 
- <p class="updated_time"> 07:58 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/from-youtube-to-rutube-inside-russias-influence-campaign-11650447002">From YouTube to Rutube. Inside Russia’s Influence Campaign.</a> WSJ: From YouTube to Rutube. Inside Russia’s Influence Campaign. 
- <p class="updated_time"> 07:54 AM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/04/19/world/south-africa-floods">South Africa’s Government Shifts to Rebuilding After Disastrous Flooding</a> NYT: Nearly 4,000 homes have been destroyed and more than twice as many damaged in the Durban area after a week of punishing rains and mudslides. The death toll is now 448, with about four dozen people unaccounted for. 
+ <p class="updated_time"> 08:40 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/russia-oligarch-mordashov-sanctions-ukraine-11650309587">The Russian Oligarch With the Most to Lose</a> WSJ: The Russian Oligarch With the Most to Lose 
  <p class="updated_time"> 07:49 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61156861?at_medium=RSS&at_campaign=KARANGA">US spring snowstorm leaves 300,000 in the dark</a> BBC: A bout of winter weather in the US north-east has brought outages and over a foot of snow. 
  <p class="updated_time"> 07:45 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61159812?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol ultimatum passes as hundreds shelter in steel mill</a> BBC: As a Russian ultimatum for Mariupol's surrender passes, Kyiv hopes to evacuate thousands still trapped. 
- <p class="updated_time"> 07:33 AM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/europe/assange-uk-extradition.html">U.K. Court Order Moves Assange Closer to Extradition</a> NYT: The court formally ordered the extradition of the WikiLeaks founder to the United States, but it still needs approval from a British cabinet minister and his defense can appeal to her directly. 
+ <p class="updated_time"> 07:40 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
  <p class="updated_time"> 07:29 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093708316/julian-assange-extradition">Julian Assange is one major step closer to extradition to the U.S. </a> NPR: A British judge on Wednesday formally approved the extradition of Julian Assange to the United States to face spying charges. The case will now go to Britain's interior minister for a decision. 
- <p class="updated_time"> 06:58 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/julian-assanges-extradition-to-u-s-approved-by-u-k-court-11650462784">Julian Assange’s Extradition to U.S. Approved by U.K. Court, Referred to Government</a> WSJ: Julian Assange’s Extradition to U.S. Approved by U.K. Court, Referred to Government 
  <p class="updated_time"> 06:42 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/australia/china-solomon-islands-security-pact.html">Why China’s Security Pact With the Solomon Islands is a Threat</a> NYT: In potentially opening the door to a Chinese military base, the Solomon Islands threatens the balance of power in a vital shipping region. 
- <p class="updated_time"> 05:58 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/youtube-blocks-campaign-account-of-hong-kongs-leader-in-waiting-11650444536">YouTube Blocks Campaign Account of Hong Kong’s Leader-in-Waiting</a> WSJ: YouTube Blocks Campaign Account of Hong Kong’s Leader-in-Waiting 
- <p class="updated_time"> 05:49 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/russia-oligarch-mordashov-sanctions-ukraine-11650309587">The Russian Oligarch With the Most to Lose</a> WSJ: Steel magnate Alexey Mordashov, one of the country’s richest men, dedicated much of his career to strengthening Western ties and distancing himself from politics. Putin’s Ukraine invasion made him a pariah nonetheless. 
+ <p class="updated_time"> 06:40 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/from-youtube-to-rutube-inside-russias-influence-campaign-11650447002">From YouTube to Rutube. Inside Russia’s Influence Campaign.</a> WSJ: From YouTube to Rutube. Inside Russia’s Influence Campaign. 
  <p class="updated_time"> 05:43 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/france-macron-unpopular.html">How Hated Is Macron? It Could Decide the French Election.</a> NYT: Given the choice between a president they suspect of despising ordinary people and a far-right candidate they detest, many French voters may stay home. 
+ <p class="updated_time"> 04:57 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/youtube-blocks-campaign-account-of-hong-kongs-leader-in-waiting-11650444536">YouTube Blocks Campaign Account of Hong Kong's Leader-in-Waiting</a> WSJ: The video-sharing site cited U.S. sanctions for the move, which ratchets up tensions between big tech companies and the city’s government. 
+ <p class="updated_time"> 04:53 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/julian-assanges-extradition-to-u-s-approved-by-u-k-court-11650462784">Julian Assange's Extradition to U.S. Approved by U.K. Court, Referred to Government</a> WSJ: A U.K. court said WikiLeaks co-founder Julian Assange’s extradition to the U.S. to face spying charges could proceed once the government approves it, but the prospect of an appeal means the legal saga could still be many months from resolution. 
  <p class="updated_time"> 04:30 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/asia/rohingya-refugees-malaysia-deaths.html">6 Rohingya Refugees Are Killed Fleeing Detention Center in Malaysia</a> NYT: In recent years, the Malaysian government has taken a more hard-line approach to the refugees in the country, which once offered a modicum of opportunity. 
  <p class="updated_time"> 04:17 AM CT, Apr. 20 </p> 
@@ -192,16 +196,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:33 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/us/politics/herschel-walker-georgia-senate.html">Herschel Walker’s Senate Bid in Georgia Is Powered by Fandom</a> NYT: The football-star-turned-candidate has been converting Bulldogs fans into supporters. But some Republicans worry voters are blinded by his celebrity. 
+ <p class="updated_time"> 11:10 AM CT, Apr. 20 </p> 
+ <a href="https://www.npr.org/2022/04/20/1093729789/texas-border-bridge-order-cost-billions">A key Texas bridge lost $1 billion per week during governor's slowdown</a> NPR: Gov. Greg Abbott's rule imposing safety inspections at the border did "nothing to stop the flow of illegal immigration or illegal drugs," Texas Agriculture Commissioner Sid Miller told NPR. 
+ <p class="updated_time"> 11:03 AM CT, Apr. 20 </p> 
+ <a href="https://www.politico.com/news/2022/04/20/bidens-whca-dinner-00026569">Bidens will attend White House Correspondents’ Dinner this month</a> Politico: “The @WHCA is pleased to host President Biden and Dr. Jill Biden as we honor the First Amendment at our dinner on April 30,” the organization tweeted. 
+ <p class="updated_time"> 10:58 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/us/politics/florida-redistricting-maps-desantis.html">Florida Senate Passes Congressional Map Giving G.O.P. a Big Edge</a> NYT: The map, proposed by Gov. Ron DeSantis, would most likely add four Republican districts while eliminating three held by Democrats. 
  <p class="updated_time"> 10:54 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/us/politics/biden-atf-interim-director.html">Biden Is Expected to Tap Arizona Prosecutor as Interim Director of A.T.F.</a> NYT: The selection of Gary M. Restaino is intended to inject a sense of urgency into the bureau until President Biden’s nominee to oversee the agency permanently is confirmed. 
  <p class="updated_time"> 10:24 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/style/the-first-lady-viola-davis-michelle-obama.html">Fashioning ‘The First Lady’</a> NYT: The new Showtime series on Michelle Obama, Betty Ford and Eleanor Roosevelt makes the connection between substance and style. 
  <p class="updated_time"> 10:20 AM CT, Apr. 20 </p> 
- <a href="https://www.politico.com/news/2022/04/20/weed-cannabis-sector-financial-00026359">Weed biz blues: How the surging cannabis sector ran into a financial ditch</a> Politico: Industry executives blame Congress’ failure to pass any significant cannabis legislation as the biggest reason the sector is flailing. 
+ <a href="https://www.politico.com/news/2022/04/20/weed-cannabis-sector-financial-00026359">Cannabis sinks amid weed glut, Congress' inaction</a> Politico: Industry executives blame Congress’ failure to pass any significant cannabis legislation as the biggest reason the sector is flailing. 
  <p class="updated_time"> 10:10 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/biden-administration-kyiv-embassy-reopening-00026538">Biden admin weighs reopening U.S. Embassy in Kyiv</a> Politico: U.S. lawmakers are pushing for diplomats to return to Ukraine’s capital. But does the show of support outweigh the risk? 
  <p class="updated_time"> 10:00 AM CT, Apr. 20 </p> 
- <a href="https://www.politico.com/news/2022/04/20/biden-russia-hacks-00026384">How Biden could respond if Russia hacks the U.S.</a> Politico: President Biden would have to choose carefully in responding to a Russian cyberattack on the U.S. to avoid escalating the conflict. 
+ <a href="https://www.politico.com/news/2022/04/20/biden-russia-hacks-00026384">Biden’s options if Russia hacks U.S. infrastructure</a> Politico: President Biden would have to choose carefully in responding to a Russian cyberattack on the U.S. to avoid escalating the conflict. 
  <p class="updated_time"> 09:48 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/intruder-peruvian-ambassador-residence-00026552">Feds: Intruder killed at Peruvian ambassador’s residence</a> Politico: The intruder was smashing windows at the residence of the Peruvian ambassador to the United States, authorities said. 
  <p class="updated_time"> 05:30 AM CT, Apr. 20 </p> 
@@ -212,8 +224,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/20/1093529387/as-biden-plans-to-lift-title-42-democrats-want-details-on-how-hell-address-influ">As Biden plans to lift Title 42, Democrats want details on how he'll address influx</a> NPR: Some key Senate Democrats and candidates have come out this week and expressed reservations about the Biden administration's decision to lift Title 42 by May 23. 
  <p class="updated_time"> 04:00 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-mask-mandate-transportation.html">The Biden administration says it may appeal a ruling that voided a mask mandate on public transport.</a> NYT: If the C.D.C. decides there is a public health basis for trying to reinstate and extend the mask mandate, the Justice Department will swiftly file an appeal. 
- <p class="updated_time"> 04:00 AM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/us/politics/herschel-walker-georgia-senate.html">Herschel Walker’s Senate Bid in Georgia Is Powered by Fandom</a> NYT: The football-star-turned-candidate has been converting Bulldogs fans into supporters. But some Republicans worry voters are blinded by his celebrity. 
  <p class="updated_time"> 03:31 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/making-a-lot-of-money-desantis-campaign-taps-red-hot-florida-real-estate-industry-00025515">DeSantis campaign taps red-hot Florida real estate industry</a> Politico: A spike in industry political donations comes amid the state's affordable housing crisis. 
  <p class="updated_time"> 03:31 AM CT, Apr. 20 </p> 
@@ -296,8 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/19/ron-johnson-reelection-campaign-wisconsin-00026142">Ron Johnson pursues a scorched-earth path to reelection</a> Politico: The Wisconsin senator appears to be defying swing-state political logic with his approach. 
  <p class="updated_time"> 03:30 AM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/capitol-police-vetting-practices-first-amendment-concerns-00025904">Capitol Police's new vetting practices raise 'First Amendment concerns,' whistleblowers' lawyer says</a> Politico: An attorney for Capitol Police employees wrote that intelligence analysts were “directed” to search the social media pages of congressional staff, event attendees and hosts. 
- <p class="updated_time"> 02:58 AM CT, Apr. 19 </p> 
- <a href="https://www.npr.org/2022/04/19/1093479545/federal-judge-says-georgia-voters-can-challenge-greenes-reelection-run">Federal judge says Georgia voters can challenge Greene's reelection run</a> NPR: The voters are seeking to disqualify Rep. Marjorie Taylor Greene from running for reelection to Congress, citing her role in the deadly attack on the U.S. Capitol. 
  <p class="updated_time"> 09:52 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/federal-mask-mandate-airplanes.html">Federal Judge Strikes Down Mask Mandate for Planes, Public Transit</a> NYT: The nation’s largest airlines dropped the requirement within hours of the ruling, but New York’s M.T.A. said its passengers must still wear a mask for now. 
  <p class="updated_time"> 09:44 PM CT, Apr. 18 </p> 
@@ -314,16 +322,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/us/politics/supreme-court-vaccine-airman.html">Supreme Court Rules Against Air Force Officer Who Refused Vaccine</a> NYT: The justices said the Pentagon need not accommodate Lt. Col. Jonathan Dunn, who said he had a religious objection to the coronavirus vaccine. 
  <p class="updated_time"> 03:28 PM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/more-dem-senate-hopefuls-split-with-biden-on-border-00025925">More Dem Senate hopefuls split with Biden on border</a> Politico: Six more Senate candidates have joined growing Democratic calls for the administration to come up with a more detailed plan before revoking pandemic-era border restrictions. 
- <p class="updated_time"> 02:33 PM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/2022/04/18/us/politics/global-covid-summit.html">A Second Global Covid-19 Summit Led By the White House Is Set for May</a> NYT: Efforts to subsidize more global vaccinations have stalled in Congress, and new coronavirus cases are on the rise in the U.S. 
  <p class="updated_time"> 11:59 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/supreme-court-racial-bias-juror.html">Supreme Court Rejects Case on Juror Said to Harbor Racial Bias</a> NYT: The court’s three liberal members dissented, saying that Kristopher Love, a Texas death row inmate, should have been allowed to pursue his claim. 
  <p class="updated_time"> 03:31 AM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/senate-mcconnell-super-pac-134-million-ads-00025642">McConnell-tied super PAC makes early $141M play for the Senate</a> Politico: The Senate Leadership Fund's record-breaking spring advertising reservations follow a $106 million commitment from its Democratic counterpart as the midterm battle heats up. 
  <p class="updated_time"> 03:30 AM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/anatoly-antonov-russia-ambassador-00025744">Lonely Anatoly: The Russian ambassador is Washington’s least popular man</a> Politico: Adrift and defiant, Anatoly Antonov walks the halls of an increasingly empty embassy, waiting for someone to call. 
- <p class="updated_time"> 11:20 AM CT, Apr. 17 </p> 
- <a href="https://www.politico.com/news/2022/04/17/fred-upton-house-majority-midterms-gop-00025716">Fred Upton: Slim House majority could spell trouble for post-midterms GOP</a> Politico: The retiring Michigan Republican spoke of his party's ability to get legislation passed. 
 
 
 </details>
