@@ -9,32 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:49 PM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/world/europe/russian-spies-europe-ukraine.html">He Was a Penniless Donor to the Far Right. He Was Also a Russian Spy.</a> NYT: An investigation in Slovakia has exposed how Russian clandestine operations are trying to sow discord in Europe and create sympathy for Moscow over Ukraine. 
+ <p class="updated_time"> 06:45 PM CT, Apr. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61170691?at_medium=RSS&at_campaign=KARANGA">Tesla profits soar as customers pay more</a> BBC: Elon Musk's Tesla has raised prices for its electric cars as it faces higher costs. 
+ <p class="updated_time"> 06:45 PM CT, Apr. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61118482?at_medium=RSS&at_campaign=KARANGA">KGF 2, RRR, Pushpa: The southern Indian films winning on Bollywood's turf</a> BBC: The recent theatrical success of movies like KGF 2 and RRR has revived a debate on the "pan-Indian" film. 
+ <p class="updated_time"> 06:43 PM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">Live Updates: Warning Ukraine’s Friends to ‘Think Twice,’ Putin Tests Advanced Missile</a> NYT: Russia’s Defense Ministry said the weapon needed more testing before it could be deployed. Ukrainian officials said they were pushing back at Moscow’s offensive in the east. 
+ <p class="updated_time"> 06:37 PM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/world/europe/france-macron-unpopular.html">How Hated Is Macron? It Could Decide the French Election.</a> NYT: Given the choice between a president they suspect of despising ordinary people and a far-right candidate they detest, many French voters may stay home. 
+ <p class="updated_time"> 06:30 PM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/world/europe/russia-icbm-ukraine-bombardment.html">Russia Tests ICBM and Pounds Ukraine’s Defenses Ahead of Major Assault</a> NYT: Vladimir Putin said Russia’s test-firing of its new I.C.B.M. sends a message, as his forces prepare for a broad offensive in eastern Ukraine. 
+ <p class="updated_time"> 06:30 PM CT, Apr. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/health-61161529?at_medium=RSS&at_campaign=KARANGA">Covid: Woman caught virus twice within record 20 days</a> BBC: Spanish researchers say it's the shortest-known gap between two coronavirus infections. 
+ <p class="updated_time"> 06:26 PM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/us/politics/russia-putin-missile-test.html">Russia’s Missile Test Fuels U.S. Fears of an Isolated Putin</a> NYT: American and foreign leaders have been weighing whether their success in making Russia a diplomatic pariah could push President Vladimir V. Putin to strike in new ways. 
+ <p class="updated_time"> 06:21 PM CT, Apr. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61160210?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Whole communities relocated in anti-Covid drive</a> BBC: One community faces relocation to quarantine facilities more than 100 miles (160km) away. 
+ <p class="updated_time"> 06:16 PM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/video/world/europe/100000008312362/mariupol-azovstal-ukraine-war.html">What Mariupol’s Steel Fortress Looked Like 3 Months Ago</a> NYT: On Jan. 20, The New York Times captured drone video over the sprawling Azovstal Steel and Iron works complex in Mariupol, Ukraine. Now, it is a battered fortress for the last Ukrainian defenders and their families battling Russian forces. 
+ <p class="updated_time"> 06:05 PM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/world/covid-masks-who.html">People Should Keep Wearing Masks in Public, W.H.O. Officials Say</a> NYT: Masks have been proven to be highly effective at reducing coronavirus transmission when used properly, according to the W.H.O. 
+ <p class="updated_time"> 05:54 PM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
  <p class="updated_time"> 05:52 PM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61151314?at_medium=RSS&at_campaign=KARANGA">The young rebels fighting for democracy</a> BBC: The BBC gained rare access to Myanmar's jungle training camps where protesters are turned into soldiers. 
- <p class="updated_time"> 05:48 PM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">Ukraine Live Updates: Fighting Flares in East, as Russia Issues Warning With Missile Test</a> NYT: President Vladimir Putin said those who threaten Russia should “think twice,” though his Defense Ministry said the weapon needed more testing before it could be deployed. Moscow’s offensive in eastern Ukraine continued, as Ukrainian officials said they were pushing back. 
- <p class="updated_time"> 05:44 PM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/video/world/europe/100000008312362/mariupol-azovstal-ukraine-war.html">What Mariupol’s Steel Fortress Looked Like 3 Months Ago</a> NYT: On Jan. 20, The New York Times captured drone video over the sprawling Azovstal Steel and Iron works complex in Mariupol, Ukraine. Now, it is a battered fortress for the last Ukrainian defenders and their families battling Russian forces. 
  <p class="updated_time"> 05:24 PM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61169495?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin: Rust film producers were indifferent to gun safety - report</a> BBC: The makers of a film whose cinematographer was shot dead knew firearm safety rules were not being followed, a report says. 
  <p class="updated_time"> 05:08 PM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61166601?at_medium=RSS&at_campaign=KARANGA">French election: Macron and Le Pen clash in TV presidential debate</a> BBC: Emmanuel Macron and Marine Le Pen take part in an animated contest four days before the election. 
- <p class="updated_time"> 05:02 PM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/covid-masks-who.html">People Should Keep Wearing Masks in Public, W.H.O. Officials Say</a> NYT: Masks have been proven to be highly effective at reducing coronavirus transmission when used properly, according to the W.H.O. 
- <p class="updated_time"> 04:59 PM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
+ <p class="updated_time"> 04:54 PM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/putin-oversees-test-launch-of-ballistic-missile-he-says-will-make-enemies-think-twice-11650482365">Putin Oversees Test-Launch of Ballistic Missile He Says Will Make Enemies ‘Think Twice’</a> WSJ: Putin Oversees Test-Launch of Ballistic Missile He Says Will Make Enemies ‘Think Twice’ 
  <p class="updated_time"> 04:47 PM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61168837?at_medium=RSS&at_campaign=KARANGA">Johnny Depp faces questioning in case against ex-wife Amber Heard</a> BBC: The actor testified about his volatile marriage to Amber Heard ahead of cross examination by her lawyers. 
- <p class="updated_time"> 04:29 PM CT, Apr. 20 </p> 
- <a href="https://www.bbc.co.uk/news/business-61170691?at_medium=RSS&at_campaign=KARANGA">Tesla profits soar as customers pay more</a> BBC: Elon Musk's Tesla has raised prices for its electric cars as it faces higher costs. 
  <p class="updated_time"> 04:24 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/asia/covid-shanghai-china-deaths.html">Shanghai’s Low Covid Death Toll Revives Questions About China’s Numbers</a> NYT: The country’s largest city has recorded just 17 Covid deaths, despite surging cases. How China defines a Covid death may be part of the reason. 
  <p class="updated_time"> 04:05 PM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093841174/janet-yellen-crystia-freeland-canada-rishi-sunak-uk-g20-walk-out-russia">Janet Yellen and other finance ministers walk out of G20 meeting as Russia speaks</a> NPR: Yellen's counterparts from the U.K. and Canada joined the walkout to protest Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:59 PM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/putin-oversees-test-launch-of-ballistic-missile-he-says-will-make-enemies-think-twice-11650482365">Putin Oversees Test-Launch of Ballistic Missile He Says Will Make Enemies ‘Think Twice’</a> WSJ: Putin Oversees Test-Launch of Ballistic Missile He Says Will Make Enemies ‘Think Twice’ 
  <p class="updated_time"> 03:58 PM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093846893/ukraine-has-been-preparing-to-face-russias-expected-offensive-is-it-ready">Ukraine has been preparing to face Russia's expected offensive. Is it ready?</a> NPR: Russia has begun military operations that are expected to lead to a massive offensive. Ukraine has had weeks to prepare. 
+ <p class="updated_time"> 03:54 PM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/yellen-powell-foreign-counterparts-walk-out-in-protest-of-russia-11650483524">Yellen, Powell, Foreign Counterparts Walk Out in Protest of Russia</a> WSJ: Yellen, Powell, Foreign Counterparts Walk Out in Protest of Russia 
  <p class="updated_time"> 03:53 PM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093846886/one-mans-struggle-to-get-heart-surgery-shows-how-hard-it-is-to-find-care-in-gaza">One man's struggle to get heart surgery shows how hard it is to find care in Gaza</a> NPR: The story of a 70-year-old Palestinian man's effort to get heart surgery illustrates the difficulties getting medical care in Gaza — or getting approval to go through Israel to seek it elsewhere. 
  <p class="updated_time"> 03:53 PM CT, Apr. 20 </p> 
@@ -55,18 +71,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/20/1093846872/a-fake-cyberwar-held-in-estonia-could-help-nations-prepare-for-real-life-threats">A fake cyberwar held in Estonia could help nations prepare for real life threats</a> NPR: From the tiny Baltic nation of Estonia, some 30 nations are participating in mock cyberwar exercises. While the annual NATO-led exercise may be fiction, the threat emanating from Russia is very real. 
  <p class="updated_time"> 03:21 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/germany-ukraine-weapons.html">Calls to Give Heavy Weapons to Ukraine Divide Germany’s Government</a> NYT: Weeks after Chancellor Olaf Scholz announced a paradigm shift in military strategy, his government is struggling to balance domestic politics, how to help Ukraine and anxiety over provoking Russia. that 
- <p class="updated_time"> 02:59 PM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/yellen-powell-foreign-counterparts-walk-out-in-protest-of-russia-11650483524">Yellen, Powell, Foreign Counterparts Walk Out in Protest of Russia</a> WSJ: Yellen, Powell, Foreign Counterparts Walk Out in Protest of Russia 
- <p class="updated_time"> 02:21 PM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/europe/russian-spies-europe-ukraine.html">He Was a Penniless Donor to the Far Right. He Was Also a Russian Spy.</a> NYT: An investigation in Slovakia has exposed how Russian clandestine operations are trying to sow discord in Europe and create sympathy for Moscow over Ukraine. 
- <p class="updated_time"> 01:59 PM CT, Apr. 20 </p> 
+ <p class="updated_time"> 02:54 PM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/israeli-police-block-jewish-marchers-from-jerusalem-flashpoints-11650478517">Gaza Militants Fire Rocket at Israel Amid Jerusalem Tensions</a> WSJ: Gaza Militants Fire Rocket at Israel Amid Jerusalem Tensions 
+ <p class="updated_time"> 01:54 PM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/erdogans-main-challenger-is-a-wonkish-former-accountant-that-may-be-what-turks-want-11650467018">Erdogan’s Main Challenger Is a Wonkish Ex-Accountant. That May Be What Turks Want.</a> WSJ: Erdogan’s Main Challenger Is a Wonkish Ex-Accountant. That May Be What Turks Want. 
  <p class="updated_time"> 01:29 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html">Barack Obama’s New Role: Fighting Disinformation</a> NYT: The former president has embarked on a campaign to warn that the scourge of online falsehoods has eroded the foundations of democracy. 
  <p class="updated_time"> 01:10 PM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61163546?at_medium=RSS&at_campaign=KARANGA">Russian oligarch lambasts country's 'massacre'</a> BBC: Businessman Oleg Tinkov is one of the most high profile Russians to publicly condemn the war. 
- <p class="updated_time"> 12:59 PM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/erdogans-main-challenger-is-a-wonkish-former-accountant-that-may-be-what-turks-want-11650467018">Erdogan’s Main Challenger Is a Wonkish Ex-Accountant. That May Be What Turks Want.</a> WSJ: Erdogan’s Main Challenger Is a Wonkish Ex-Accountant. That May Be What Turks Want. 
  <p class="updated_time"> 12:30 PM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61159812?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol commander makes 'last' plea for help</a> BBC: Major Serhiy Volyna says his troops are heavily outnumbered and running out of supplies. 
  <p class="updated_time"> 12:29 PM CT, Apr. 20 </p> 
@@ -105,8 +117,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/20/1093708316/julian-assange-extradition">Julian Assange is one major step closer to extradition to the U.S. </a> NPR: A British judge on Wednesday formally approved the extradition of Julian Assange to the United States to face spying charges. The case will now go to Britain's interior minister for a decision. 
  <p class="updated_time"> 07:01 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/china-air-crash-report-gives-few-new-clues-on-boeing-737s-fatal-nosedive-11650466466">China Air Crash Report Gives Few New Clues on Boeing 737's Fatal Nosedive</a> WSJ: Preliminary findings show no problems found with the plane or flying conditions, while data from the black boxes is still being retrieved. 
- <p class="updated_time"> 05:43 AM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/europe/france-macron-unpopular.html">How Hated Is Macron? It Could Decide the French Election.</a> NYT: Given the choice between a president they suspect of despising ordinary people and a far-right candidate they detest, many French voters may stay home. 
  <p class="updated_time"> 04:30 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/asia/rohingya-refugees-malaysia-deaths.html">6 Rohingya Refugees Are Killed Fleeing Detention Center in Malaysia</a> NYT: In recent years, the Malaysian government has taken a more hard-line approach to the refugees in the country, which once offered a modicum of opportunity. 
  <p class="updated_time"> 04:17 AM CT, Apr. 20 </p> 
@@ -171,8 +181,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/19/world/china-lockdowns.html">China’s Covid Shutdowns Go Far Beyond Shanghai</a> NYT: Cities and towns across the country are shutting down, hoping to sidestep the pitfalls and stumbles that Shanghai has faced battling the Omicron variant. 
  <p class="updated_time"> 02:26 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/prisoners-russia-ukraine-war.html">Prisoners Held by Both Russia and Ukraine Appeal to Leaders for Help</a> NYT: Two British fighters held by Russian asked to be traded for Viktor Medvedchuk, a wealthy Ukrainian ally of Russia’s president, Vladimir V. Putin. 
- <p class="updated_time"> 02:25 AM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/18/world/ukrainians-mariupol-steel-plant.html">Thousands of Ukrainian Civilians Are Holed Up in a Steel Plant in Mariupol, Officials Say</a> NYT: Some 2,000 civilians who were driven from their homes have sheltered in a network of tunnels beneath the plant, an aide to the city’s mayor said. 
  <p class="updated_time"> 02:00 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/asia/myanmars-coup-doctors.html">Myanmar’s Health System Is in Collapse, ‘Obliterated’ by the Regime</a> NYT: The country is also now one of the most dangerous places in the world to be a medical worker. At least 30 doctors have been killed since the coup, a rights group says. 
  <p class="updated_time"> 08:29 PM CT, Apr. 18 </p> 
@@ -192,6 +200,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:35 PM CT, Apr. 20 </p> 
+ <a href="https://www.npr.org/2022/04/20/1093927926/mask-mandate-appeal-doj">The DOJ will appeal the recent mask ruling by a federal judge</a> NPR: This decision comes just two days after U.S. District Judge Kathryn Kimball Mizelle ruled against the federal mask mandate. 
+ <p class="updated_time"> 06:29 PM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/us/politics/justice-dept-parchman-mississippi-prisons.html">Justice Dept. Inquiry Finds ‘Systemic Failures’ at Mississippi Prison</a> NYT: A report singled out solitary confinement and enforced segregation as particularly harmful practices that contributed to the poor mental and physical health of prisoners. 
+ <p class="updated_time"> 06:26 PM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/us/politics/russia-putin-missile-test.html">Russia’s Missile Test Fuels U.S. Fears of an Isolated Putin</a> NYT: American and foreign leaders have been weighing whether their success in making Russia a diplomatic pariah could push President Vladimir V. Putin to strike in new ways. 
+ <p class="updated_time"> 06:14 PM CT, Apr. 20 </p> 
+ <a href="https://www.politico.com/news/2022/04/20/capitol-police-backtracks-on-airplane-threat-after-ordering-evacuation-00026765">Capitol Police backtracks on airplane threat after ordering evacuation</a> Politico: An Army plane was circling the area around the Capitol, part of a parachute stunt at Wednesday night’s Nationals baseball game. 
+ <p class="updated_time"> 06:00 PM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/us/politics/alex-jones-jan-6-interview.html">Alex Jones Reaches Out to Justice Dept. About Jan. 6 Interview</a> NYT: The effort by the Trump ally to get an immunity deal is the latest sign of progress in the investigation, which recently brought on a well-regarded prosecutor. 
+ <p class="updated_time"> 06:00 PM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/us/politics/sarah-palin-alaska.html">Will Alaskans Welcome Sarah Palin’s Political Comeback?</a> NYT: Charles Homans, a New York Times reporter who lived in Alaska during Palin’s ascent, reflects on the state’s astonishing political transformation. 
+ <p class="updated_time"> 05:53 PM CT, Apr. 20 </p> 
+ <a href="https://www.politico.com/news/2022/04/20/cdc-doj-appeal-travel-mask-mandate-ruling-00026757">DOJ to appeal travel mask mandate ruling</a> Politico: The CDC said that it would continue to “monitor public health conditions” to determine whether the mask mandate remains necessary. 
  <p class="updated_time"> 05:49 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/us/politics/cdc-transportation-mask-mandate.html">Justice Department Appeals to Reinstate Transportation Mask Mandate</a> NYT: The Centers for Disease Control and Prevention called the mandate “necessary for the public health,” but an appeal risks creating a precedent that could permanently constrain the agency. 
  <p class="updated_time"> 05:29 PM CT, Apr. 20 </p> 
@@ -256,6 +278,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/20/biden-russia-hacks-00026384">Biden’s options if Russia hacks U.S. infrastructure</a> Politico: President Biden would have to choose carefully in responding to a Russian cyberattack on the U.S. to avoid escalating the conflict. 
  <p class="updated_time"> 09:48 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/intruder-peruvian-ambassador-residence-00026552">Feds: Intruder killed at Peruvian ambassador’s residence</a> Politico: The intruder was smashing windows at the residence of the Peruvian ambassador to the United States, authorities said. 
+ <p class="updated_time"> 07:53 AM CT, Apr. 20 </p> 
+ <a href="https://www.cnn.com/2022/04/19/politics/who-is-judge-kathryn-kimball-mizelle-biden-mask-mandate/index.html">Who is Judge Kathryn Kimball Mizelle, the federal judge who blocked Biden's travel mask mandate?</a> CNN: A little-known federal judge appointed by former President Donald Trump found herself in the national spotlight on Monday after striking down the Biden administration's public transportation mask mandate. 
  <p class="updated_time"> 05:30 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/democratic-super-pac-midterm-elections-00026412">Democratic super PAC launches new ads in major swing states</a> Politico: The group is targeting Arizona, Georgia, Nevada and Pennsylvania with a message touting Biden's economic plan. 
  <p class="updated_time"> 04:10 AM CT, Apr. 20 </p> 
@@ -265,23 +289,19 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-mask-mandate-transportation.html">The Biden administration says it may appeal a ruling that voided a mask mandate on public transport.</a> NYT: If the C.D.C. decides there is a public health basis for trying to reinstate and extend the mask mandate, the Justice Department will swiftly file an appeal. 
  <p class="updated_time"> 03:30 AM CT, Apr. 20 </p> 
- <a href="https://www.politico.com/news/2022/04/20/abigail-spanberger-virginia-policing-message-00026211">'That was a terrible idea': Spanberger wants a policing reboot for House Dems</a> Politico: Democrats see Rep. Abigail Spanberger's district as competitive but winnable in a tough midterm fight. She thinks addressing GOP attacks on crime head on is key to keeping it. 
- <p class="updated_time"> 03:30 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/eric-adams-redemption-mayors-critics-bad-judgment-00026485">Eric Adams calls it redemption. Mayor’s critics say it’s bad judgment.</a> Politico: Aides to the New York City mayor made a job offer that could have created an opening for a former state lawmaker convicted of domestic violence. The effort reinforces the mayor’s affinity for some of the most controversial figures in state politics. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 20 </p> 
+ <a href="https://www.politico.com/news/2022/04/20/abigail-spanberger-virginia-policing-message-00026211">‘The world is on fire’: How vulnerable House Dems are bracing for GOP attacks on crime</a> Politico: Democrats see Rep. Abigail Spanberger's district as competitive but winnable in a tough midterm fight. She thinks addressing GOP attacks on crime head on is key to keeping it. 
  <p class="updated_time"> 10:25 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-masks-public-transportation.html">Biden Says It’s ‘Up to Them’ Whether Americans Want to Wear Masks</a> NYT: The decision to wear a mask is “up to them,” President Biden told reporters during a trip. 
  <p class="updated_time"> 07:43 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/us-ukraine-weaponry.html">The U.S. Races to Arm Ukraine With Heavier, More Advanced Weaponry</a> NYT: Washington and its allies are scouring Central Europe and the world to get Ukraine the weapons it needs for the next phase of the war. 
  <p class="updated_time"> 07:33 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-mask-mandate-appeal.html">Biden Administration May Appeal Mask Mandate Ruling</a> NYT: If the C.D.C. decides there is a public health basis for trying to reinstate and extend the mask mandate, the Justice Department will swiftly file an appeal. 
- <p class="updated_time"> 07:25 PM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/us/politics/moderna-vaccine-beta-variant.html">Moderna Says Trial Suggests Redesigned Vaccines Protect Against Variants</a> NYT: Researchers combined Moderna’s existing vaccine with one designed to attack the Beta variant, and found it provided a stronger defense against several variants. 
  <p class="updated_time"> 06:43 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/trump-jan-6-insurrection-act.html">Fearing a Trump Repeat, Jan. 6 Panel Considers Changes to Insurrection Act</a> NYT: The 1807 law allows a president to deploy American troops inside the country to put down a rebellion. Lawmakers fear it could be abused by a future president trying to stoke one. 
  <p class="updated_time"> 06:00 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/david-mccormick-finances-senate.html">David McCormick’s Financial Disclosures in Senate Race Reveal His Wealth</a> NYT: The Republican Senate candidate’s financial disclosure statement depicts a wealthy man comfortable walking the halls of power. 
- <p class="updated_time"> 05:27 PM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/business/mask-mandate-travel-transit.html">For Airlines, the Mask Mandate Couldn’t End Soon Enough</a> NYT: It created tensions between flight attendants and noncompliant passengers, but some travelers are worried about what comes next. 
  <p class="updated_time"> 04:06 PM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/biden-administration-student-loan-forgiveness-income-based-repayment-00026322">Biden administration eases student loan forgiveness through income-based repayment plans</a> Politico: Officials said they would make a one-time revision to millions of borrower accounts to compensate for what they called longstanding failures of the agency and its contracted loan servicers. 
  <p class="updated_time"> 04:02 PM CT, Apr. 19 </p> 
@@ -302,30 +322,20 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/04/19/politics/student-loan-debt-forgiveness-repayment/index.html">Biden's latest student debt move will bring 3.6 million borrowers closer to loan forgiveness</a> CNN: The Department of Education is making more changes to the federal student loan system that will help bring millions of borrowers -- some of whom may have previously been in forbearance -- closer to receiving debt forgiveness. 
  <p class="updated_time"> 12:32 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093566982/florida-mask-mandate-judge-kathryn-mizelle">What to know about Judge Kathryn Mizelle, who struck down the travel mask mandate</a> NPR: Mizelle was nominated by former President Donald Trump in 2020 at age 33. The American Bar Association said at the time she wasn't qualified because she hadn't been practicing law for long enough. 
- <p class="updated_time"> 12:15 PM CT, Apr. 19 </p> 
- <a href="https://www.cnn.com/2022/04/19/politics/us-weapons-ukraine-intelligence/index.html">What happens to weapons sent to Ukraine? The US doesn't really know</a> CNN: The US has few ways to track the substantial supply of anti-tank, anti-aircraft and other weaponry it has sent across the border into Ukraine, sources tell CNN, a blind spot that's due in large part to the lack of US boots on the ground in the country -- and the easy portability of many of the smaller systems now pouring across the border. 
  <p class="updated_time"> 12:01 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093543895/delta-mask-mandate-seasonal">Delta updates its statement calling COVID a 'seasonal virus' after a backlash </a> NPR: The airline changed its announcement about the end of the federal mask mandate after a firestorm of criticism from public health experts who called it inaccurate and misleading. 
  <p class="updated_time"> 11:53 AM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093539226/desantis-wants-to-end-disney-worlds-special-status-in-florida">DeSantis wants to end Disney World's special status in Florida</a> NPR: Florida's Republican governor, Ron DeSantis, has asked lawmakers to consider a bill that would halt Disney World's exemptions to state regulations that were established more than 50 years ago. 
  <p class="updated_time"> 11:41 AM CT, Apr. 19 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 11:28 AM CT, Apr. 19 </p> 
- <a href="https://www.npr.org/2022/04/19/1093538706/justice-department-works-to-curb-racial-bias-in-deciding-whos-released-from-pris">Justice Department works to curb racial bias in deciding who's released from prison </a> NPR: The Justice Department is tweaking its risk assessment tool in a way intended to make it easier for Black and Hispanic people in prison to become eligible for early release. 
  <p class="updated_time"> 09:31 AM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/dan-odowd-senate-bid-elon-musk-00026195">Tech mogul on his quixotic Senate bid: It’s not just about eviscerating Elon Musk</a> Politico: Dan O’Dowd confirmed in an interview that he’s spending millions of his own dollars on a national ad blitz to ban self-driving Tesla vehicles. But he says his run is serious. 
- <p class="updated_time"> 08:29 AM CT, Apr. 19 </p> 
- <a href="https://www.politico.com/news/2022/04/19/biden-trump-conscience-rule-00026082">Biden admin to rescind Trump ‘conscience’ rule for health workers</a> Politico: The move comes as many GOP-led states are moving to limit access to abortions and transgender care. 
  <p class="updated_time"> 03:31 AM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/election-forecast-midterms-00026065">5 plot twists that could upend the midterms</a> Politico: Here's how and why our midterm Election Forecast could change before November. 
  <p class="updated_time"> 03:30 AM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/ron-johnson-reelection-campaign-wisconsin-00026142">Ron Johnson pursues a scorched-earth path to reelection</a> Politico: The Wisconsin senator appears to be defying swing-state political logic with his approach. 
  <p class="updated_time"> 03:30 AM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/capitol-police-vetting-practices-first-amendment-concerns-00025904">Capitol Police's new vetting practices raise 'First Amendment concerns,' whistleblowers' lawyer says</a> Politico: An attorney for Capitol Police employees wrote that intelligence analysts were “directed” to search the social media pages of congressional staff, event attendees and hosts. 
- <p class="updated_time"> 09:44 PM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/2022/04/18/us/politics/marjorie-taylor-greene-jan-6.html">Effort to Remove Marjorie Taylor Greene From Ballot Can Proceed, Judge Says</a> NYT: The case that Ms. Greene unsuccessfully sought to have dismissed mirrors efforts against other Republicans centered on the Jan. 6, 2021, attack on the Capitol. 
- <p class="updated_time"> 06:45 PM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/2022/04/18/us/politics/david-price-republicans-democrats-midterms.html">David Price Sees Echoes of 1994 Republican Revolution in 2022 Midterms</a> NYT: David Price sees echoes of the 1994 Republican Revolution in the 2022 midterms — and Republicans undoing the progress on voting rights that he witnessed as an aide in the 1960s. 
  <p class="updated_time"> 03:28 PM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/more-dem-senate-hopefuls-split-with-biden-on-border-00025925">More Dem Senate hopefuls split with Biden on border</a> Politico: Six more Senate candidates have joined growing Democratic calls for the administration to come up with a more detailed plan before revoking pandemic-era border restrictions. 
  <p class="updated_time"> 03:31 AM CT, Apr. 18 </p> 
