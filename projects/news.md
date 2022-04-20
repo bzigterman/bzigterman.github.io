@@ -9,26 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:17 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">Live Updates: Ukraine’s Allies Race to Deliver More Advanced Weapons</a> NYT: President Biden will send weapons that Ukraine’s president has long asked for to defend against an escalating Russian offensive to capture the east of the country. 
+ <p class="updated_time"> 05:15 AM CT, Apr. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/19/world/south-africa-floods">South Africa’s Government Shifts to Rebuilding After Disastrous Flooding</a> NYT: Nearly 4,000 homes have been destroyed and more than twice as many damaged in the Durban area after a week of punishing rains and mudslides. The death toll is now 448, with about four dozen people unaccounted for. 
  <p class="updated_time"> 05:06 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/australia/china-solomon-islands-security-pact.html">Why China’s Security Pact With the Solomon Islands is a Threat</a> NYT: In potentially opening the door to a Chinese military base, the Solomon Islands threatens the balance of power in a vital shipping region. 
- <p class="updated_time"> 04:55 AM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">Live Updates: Ukraine’s Allies Race to Deliver More Advanced Weapons</a> NYT: President Biden will send weapons that Ukraine’s president has long asked for to defend against an escalating Russian offensive to capture the east of the country. 
  <p class="updated_time"> 04:54 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61159812?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol faces final ultimatum as hundreds shelter in steel mill</a> BBC: Thousands of people are still trapped across the city, as Kyiv hopes to send evacuation buses. 
  <p class="updated_time"> 04:46 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/dementia-grandparent.html">Ukrainians Far From Home Struggle to Protect Family With Dementia</a> NYT: Millions of Ukrainians have been displaced since the war started. Many who have stayed behind are elderly or disabled, and unable or unwilling to leave their homes. 
+ <p class="updated_time"> 04:34 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 04:30 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/asia/rohingya-refugees-malaysia-deaths.html">6 Rohingya Refugees Are Killed Fleeing Detention Center in Malaysia</a> NYT: In recent years, the Malaysian government has taken a more hard-line approach to the refugees in the country, which once offered a modicum of opportunity. 
  <p class="updated_time"> 04:25 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61153252?at_medium=RSS&at_campaign=KARANGA">Netflix hints at password sharing crackdown as subscribers fall</a> BBC: The firm needs to sign up new members after losing 200,000 subscribers in the first quarter of the year. 
  <p class="updated_time"> 04:17 AM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/04/19/world/south-africa-floods">South Africa’s Government Shifts to Rebuilding After Disastrous Flooding</a> NYT: Nearly 4,000 homes have been destroyed and more than twice as many damaged in the Durban area after a week of punishing rains and mudslides. The death toll is now 448, with about four dozen people unaccounted for. 
- <p class="updated_time"> 04:17 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/20/1093153651/a-4-year-old-can-run-errands-alone-and-not-just-on-reality-tv">A 4-year-old can run errands alone ... and not just on reality TV </a> NPR: A Japanese TV show now on Netflix, 'Old Enough!,' has sparked much debate about the wisdom of allowing very young kids to be very independent. Risky? Beneficial? Child development experts weigh in. 
  <p class="updated_time"> 04:10 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1092429073/to-fight-climate-change-and-now-russia-too-zurich-turns-off-natural-gas">To fight climate change, and now Russia, too, Zurich turns off natural gas </a> NPR: Zurich, Switzerland, is shutting down the gas supply to some neighborhoods. Originally aimed at fighting climate change and saving money, it's also a step to cut gas imports from Russia. 
- <p class="updated_time"> 04:08 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 04:01 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093529387/as-biden-plans-to-lift-title-42-democrats-want-details-on-how-hell-address-influ">As Biden plans to lift Title 42, Democrats want details on how he'll address influx</a> NPR: Some key Senate Democrats and candidates have come out this week and expressed reservations about the Biden administration's decision to lift Title 42 by May 23. 
  <p class="updated_time"> 04:00 AM CT, Apr. 20 </p> 
@@ -41,15 +41,15 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/20/1091770301/ukrainian-band-dakhabrakha-delivers-an-urgent-message-to-u-s-audiences">Ukrainian band DakhaBrakha delivers an urgent message to U.S. audiences</a> NPR: This "ethno-chaos" group brings sophisticated music and strong anti-Putin messages to their listeners at home and abroad, as "ambassadors of free Ukraine." They're currently on a U.S. tour. 
  <p class="updated_time"> 03:37 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61160434?at_medium=RSS&at_campaign=KARANGA">Damaris Muthee Mutua: Kenya police launch manhunt after athlete killed</a> BBC: Damaris Muthee Mutua is the second female runner to have been killed in the famous Iten athletics base in a year. 
- <p class="updated_time"> 03:08 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 03:34 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
- <p class="updated_time"> 02:08 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 02:34 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/from-youtube-to-rutube-inside-russias-influence-campaign-11650447002">From YouTube to Rutube. Inside Russia’s Influence Campaign.</a> WSJ: From YouTube to Rutube. Inside Russia’s Influence Campaign. 
  <p class="updated_time"> 01:59 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093697094/shanghai-eases-covid-rules-and-allows-4-million-more-people-out-of-their-homes">Shanghai eases COVID rules and allows 4 million more people out of their homes </a> NPR: An official says the virus is under control in some parts of the city. Meanwhile, the IMF cut its forecast of Chinese economic growth and warned the global flow of industrial goods might be disrupted. 
- <p class="updated_time"> 01:08 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 01:34 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/youtube-blocks-campaign-account-of-hong-kongs-leader-in-waiting-11650444536">YouTube Blocks Campaign Account of Hong Kong’s Leader-in-Waiting</a> WSJ: YouTube Blocks Campaign Account of Hong Kong’s Leader-in-Waiting 
- <p class="updated_time"> 12:08 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 12:34 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/no-father-wants-to-sell-his-sons-kidney-afghans-pushed-to-desperate-measures-to-survive-11650360705">Desperate Afghans Sell Kidneys to Survive</a> WSJ: Desperate Afghans Sell Kidneys to Survive 
  <p class="updated_time"> 11:59 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61157161?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol fighters' relatives tell of bitter pride</a> BBC: Relatives speak of their pride and fears for the last Ukrainian soldiers defending Mariupol. 
@@ -88,7 +88,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:03 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61147690?at_medium=RSS&at_campaign=KARANGA">The Zomato and Swiggy riders risking their lives to deliver food in 10 minutes</a> BBC: The BBC followed overworked delivery riders as they raced against time to take food to customers. 
  <p class="updated_time"> 06:01 PM CT, Apr. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61150865?at_medium=RSS&at_campaign=KARANGA">Climate Change, albinism and me</a> BBC: Coco shares her experience of living with albinism in Nigeria. 
+ <a href="https://www.bbc.co.uk/news/world-africa-61150865?at_medium=RSS&at_campaign=KARANGA">Climate change, albinism and me</a> BBC: Coco shares her experience of living with albinism in Nigeria. 
  <p class="updated_time"> 05:34 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/france-cartoons-presidential-election.html">In French Election, Cartoonists Play a High-Profile Role</a> NYT: Cartoonists play a high-profile role in France’s political discourse, and they have been busy drawing the presidential candidates as the race approaches its end. 
  <p class="updated_time"> 04:19 PM CT, Apr. 19 </p> 
@@ -145,8 +145,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/mariupol-in-ruins-still-looms-large-for-russia-and-ukraine-11650379925">Mariupol, in Ruins, Still Looms Large for Russia and Ukraine</a> WSJ: Defenders of the besieged port city have frustrated Moscow’s troops, keeping thousands from other battles. 
  <p class="updated_time"> 04:30 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/china-lockdowns.html">China’s Covid Shutdowns Go Far Beyond Shanghai</a> NYT: Cities and towns across the country are shutting down, hoping to sidestep the pitfalls and stumbles that Shanghai has faced battling the Omicron variant. 
- <p class="updated_time"> 04:00 AM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/business/japan-covid-work.html">Japan’s Workers Rethink Their Priorities Amid the Pandemic</a> NYT: The country’s traditional job-for-life model is eroding, with pressure now coming from workers who want more flexibility, autonomy and control over their careers. 
  <p class="updated_time"> 02:26 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/prisoners-russia-ukraine-war.html">Prisoners Held by Both Russia and Ukraine Appeal to Leaders for Help</a> NYT: Two British fighters held by Russian asked to be traded for Viktor Medvedchuk, a wealthy Ukrainian ally of Russia’s president, Vladimir V. Putin. 
  <p class="updated_time"> 02:25 AM CT, Apr. 19 </p> 
@@ -179,10 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61139105?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How a BBC journalist's family escaped the country</a> BBC: Vitaly Shevchenko's family fled Ukraine with the help of two BBC audience members. 
  <p class="updated_time"> 11:58 PM CT, Apr. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61132626?at_medium=RSS&at_campaign=KARANGA">The elderly who can't flee their Ukrainian homes</a> BBC: Intense shelling in Mykolaiv has forced many people to flee, leaving some elderly residents behind. 
- <p class="updated_time"> 04:49 PM CT, Apr. 17 </p> 
- <a href="https://www.nytimes.com/2022/04/17/us/second-covid-booster-60.html">Americans Over 60 Should Get Second Booster, Official Says</a> NYT: Citing data from Israel, the Biden administration’s Covid response coordinator said a second booster offered significant protection to older people. 
- <p class="updated_time"> 03:09 PM CT, Apr. 17 </p> 
- <a href="https://www.nytimes.com/2022/04/17/world/asia/afghanistan-airstrikes-pakistan.html">Death Toll From Pakistani Airstrike Rises to 45, Afghan Officials Say</a> NYT: The airstrikes in eastern Afghanistan early Saturday morning escalated already simmering tensions between the two countries. 
 
 
 </details>
@@ -228,6 +222,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/19/us/politics/david-mccormick-finances-senate.html">David McCormick’s Financial Disclosures in Senate Race Reveal His Wealth</a> NYT: The Republican Senate candidate’s financial disclosure statement depicts a wealthy man comfortable walking the halls of power. 
  <p class="updated_time"> 05:27 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/business/mask-mandate-travel-transit.html">For Airlines, the Mask Mandate Couldn’t End Soon Enough</a> NYT: It created tensions between flight attendants and noncompliant passengers, but some travelers are worried about what comes next. 
+ <p class="updated_time"> 04:06 PM CT, Apr. 19 </p> 
+ <a href="https://www.politico.com/news/2022/04/19/biden-administration-student-loan-forgiveness-income-based-repayment-00026322">Biden administration eases student loan forgiveness through income-based repayment plans</a> Politico: Officials said they would make a one-time revision to millions of borrower accounts to compensate for what they called longstanding failures of the agency and its contracted loan servicers. 
  <p class="updated_time"> 04:02 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093530974/russia-ukraine-war-what-happened-today-april-19">Russia-Ukraine war: What happened today (April 19)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:50 PM CT, Apr. 19 </p> 
@@ -240,6 +236,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/19/us/politics/democratic-midterm-fundraising.html">Democratic Dollars Flow Once Again to Likely Lost Causes</a> NYT: New fund-raising figures show emerging Democratic stars like Marcus Flowers in Georgia and Gary Chambers Jr. in Louisiana, with no clear path to victory. 
  <p class="updated_time"> 02:55 PM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/adams-release-unspecified-tax-information-00026355">Adams says he'll release unspecified ‘tax information’</a> Politico: When asked Tuesday why he was hesitating, Adams said he does plan to release information about his tax filings. 
+ <p class="updated_time"> 02:37 PM CT, Apr. 19 </p> 
+ <a href="https://www.politico.com/news/2022/04/19/thiel-pumps-another-3-5m-into-vance-super-pac-after-trump-endorsement-00026375">Vance parlays Trump endorsement into new Thiel money</a> Politico: The tech billionaire has been the biggest supporter of the Ohio Republican Senate candidate. 
  <p class="updated_time"> 02:19 PM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/white-house-readying-more-security-assistance-to-ukraine-00026366">White House readying more security assistance to Ukraine</a> Politico: The preparations come as Russian forces have begun their anticipated assault on the Donbas region. 
  <p class="updated_time"> 12:32 PM CT, Apr. 19 </p> 
@@ -260,6 +258,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/19/1093537210/biden-environmental-reviews-infrastructure-projects-restored">Biden administration restores environmental reviews for major infrastructure projects</a> NPR: The move restores regulations guiding environmental reviews of big projects such as highways and pipelines that were scaled back by the Trump administration in a bid to fast-track the projects. 
  <p class="updated_time"> 09:52 AM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/biden-reverses-trump-rule-limiting-scrutiny-environmental-impacts-00026207">Biden administration reverses Trump-era rule limiting scrutiny of environmental impacts</a> Politico: The rule will allow agencies to expand consideration of environmental justice factors in decision-making. 
+ <p class="updated_time"> 09:31 AM CT, Apr. 19 </p> 
+ <a href="https://www.politico.com/news/2022/04/19/dan-odowd-senate-bid-elon-musk-00026195">Tech mogul on his quixotic Senate bid: It’s not just about eviscerating Elon Musk</a> Politico: Dan O’Dowd confirmed in an interview that he’s spending millions of his own dollars on a national ad blitz to ban self-driving Tesla vehicles. But he says his run is serious. 
  <p class="updated_time"> 08:28 AM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/joe-kahn-new-york-times-top-editor-00026189">Joe Kahn named top editor of NYT</a> Politico: Kahn, the paper’s managing editor, replaces outgoing executive editor Dean Baquet. 
  <p class="updated_time"> 08:08 AM CT, Apr. 19 </p> 
@@ -306,10 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/us/politics/global-covid-summit.html">A Second Global Covid-19 Summit Led By the White House Is Set for May</a> NYT: Efforts to subsidize more global vaccinations have stalled in Congress, and new coronavirus cases are on the rise in the U.S. 
  <p class="updated_time"> 11:59 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/supreme-court-racial-bias-juror.html">Supreme Court Rejects Case on Juror Said to Harbor Racial Bias</a> NYT: The court’s three liberal members dissented, saying that Kristopher Love, a Texas death row inmate, should have been allowed to pursue his claim. 
- <p class="updated_time"> 11:00 AM CT, Apr. 18 </p> 
- <a href="https://www.politico.com/news/2022/04/18/2022-secretary-of-state-elections-00025564">Who will run the 2024 election? They’re on your ballot in 2022.</a> Politico: The focus on secretaries of State has been magnified by Donald Trump’s conspiracy theories about the 2020 election he lost. 
- <p class="updated_time"> 10:49 AM CT, Apr. 18 </p> 
- <a href="https://www.politico.com/news/2022/04/18/biden-domestic-policy-shift-00025862">Biden’s been consumed by Ukraine. His team wants to bring the focus back home.</a> Politico: The president is planning more domestic travel and a heightened domestic policy push. But international events often have a way of intervening. 
  <p class="updated_time"> 09:26 AM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/us/politics/supreme-court-gag-order-sec.html">Can the S.E.C. Require ‘Gag Orders’ When It Settles Cases?</a> NYT: The Supreme Court has been asked to review the practice, which a judge called “a stew of confusion and hypocrisy” and which challengers say violates the First Amendment. 
  <p class="updated_time"> 06:27 AM CT, Apr. 18 </p> 
@@ -318,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/us/participatory-budgeting-shari-davis.html">What if Public Funds Were Controlled by the Public?</a> NYT: Through the dry-sounding Participatory Budgeting Project, Shari Davis is pushing a quietly radical idea: Democracy shouldn’t be confined to voting. 
  <p class="updated_time"> 03:31 AM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/senate-mcconnell-super-pac-134-million-ads-00025642">McConnell-tied super PAC makes early $141M play for the Senate</a> Politico: The Senate Leadership Fund's record-breaking spring advertising reservations follow a $106 million commitment from its Democratic counterpart as the midterm battle heats up. 
- <p class="updated_time"> 03:30 AM CT, Apr. 18 </p> 
- <a href="https://www.politico.com/news/2022/04/18/democrats-recruiting-push-local-election-officers-00025733">Fighting Trump, Dems launch plan to elect thousands of local election supervisors</a> Politico: The $80 million effort comes as Trump-friendly conspiracy theorists threaten to take over election offices in battleground states. 
  <p class="updated_time"> 03:30 AM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/anatoly-antonov-russia-ambassador-00025744">Lonely Anatoly: The Russian ambassador is Washington’s least popular man</a> Politico: Adrift and defiant, Anatoly Antonov walks the halls of an increasingly empty embassy, waiting for someone to call. 
  <p class="updated_time"> 11:20 AM CT, Apr. 17 </p> 
