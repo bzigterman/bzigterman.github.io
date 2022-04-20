@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:35 PM CT, Apr. 20 </p> 
+ <p class="updated_time"> 12:51 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">Ukraine Live Updates: Fighting Flares in East, as Russia Issues Warning With Missile Test</a> NYT: President Vladimir Putin said those who threaten Russia should “think twice,” though his Defense Ministry said the weapon needed more testing before it could be deployed. Moscow’s offensive in eastern Ukraine continued, as Ukrainian officials said they were pushing back. 
+ <p class="updated_time"> 12:36 PM CT, Apr. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61169495?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin: Rust film producers fined over fatal shooting on set</a> BBC: A report criticises the makers of a film whose cinematographer was accidentally shot by Alec Baldwin. 
  <p class="updated_time"> 12:30 PM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61159812?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol commander makes 'last' plea for help</a> BBC: Major Serhiy Volyna says his troops are heavily outnumbered and running out of supplies. 
  <p class="updated_time"> 12:29 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html">Barack Obama Takes On a New Role: Fighting Disinformation</a> NYT: The former president has embarked on a campaign to warn that the scourge of online falsehoods has eroded the foundations of democracy. 
- <p class="updated_time"> 12:29 PM CT, Apr. 20 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61169495?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin: Rust film producers fined over fatal shooting on set</a> BBC: A report criticises the makers of a film whose cinematographer was accidentally shot by Alec Baldwin. 
  <p class="updated_time"> 12:28 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/germany-ukraine-weapons.html">Calls to Give Heavy Weapons to Ukraine Divide Germany’s Government</a> NYT: Weeks after Chancellor Olaf Scholz announced a paradigm shift in military strategy, his government is struggling to balance between domestic politics, how to help Ukraine and anxiety over provoking Russia. 
  <p class="updated_time"> 12:20 PM CT, Apr. 20 </p> 
@@ -35,48 +35,46 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/20/world/europe/prince-harry-queen-elizabeth-royal-family-britain.html">Prince Harry Puts Noses Out of Joint With Comments About the Queen</a> NYT: The prince, in Europe for the Invictus Games, visited his grandmother then told the “Today” show that he wanted to make sure “she’s protected.” 
  <p class="updated_time"> 11:56 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61163546?at_medium=RSS&at_campaign=KARANGA">Russian oligarch lambasts country's 'massacre'</a> BBC: Businessman Oleg Tinkov is one of the most high profile Russians to publicly condemn the war. 
+ <p class="updated_time"> 11:56 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
  <p class="updated_time"> 11:48 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/russia-icbm-putin.html">Russia Said It Has Successfully Tested a New ICBM That Can Evade Defenses</a> NYT: Though officials said the missile is not yet ready to deploy, President Vladimir V. Putin said the launch of the Sarmat missile “will force all who are trying to threaten our country in the heat of frenzied, aggressive rhetoric to think twice.” 
- <p class="updated_time"> 11:42 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
  <p class="updated_time"> 11:41 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/border-control-politics.html">Why ‘Border Control’ Politics Is More About Control Than Borders</a> NYT: A quirk of political psychology helps explain the British government’s plan to send some asylum seekers to Rwanda. 
  <p class="updated_time"> 11:17 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/africa/south-africa-floods-climate-change-housing.html">Housing Crisis Propels High Death Toll in South Africa Floods</a> NYT: The catastrophe underscored an overlooked reality in the fight against extreme weather: Protecting people is as much about tackling social issues as environmental ones. 
  <p class="updated_time"> 11:14 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/assange-uk-extradition.html">U.K. Court Order Moves Assange Closer to Extradition</a> NYT: The court formally ordered the extradition of the WikiLeaks founder to the United States, but it still needs approval from a British cabinet minister and his defense can appeal to her directly. 
+ <p class="updated_time"> 10:56 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/erdogans-main-challenger-is-a-wonkish-former-accountant-that-may-be-what-turks-want-11650467018">Erdogan’s Main Challenger Is a Wonkish Ex-Accountant. That May Be What Turks Want.</a> WSJ: Erdogan’s Main Challenger Is a Wonkish Ex-Accountant. That May Be What Turks Want. 
  <p class="updated_time"> 10:43 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093741869/wimbledon-russian-players">Wimbledon bans Russian and Belarusian players — including No. 2 Medvedev</a> NPR: The British tournament becomes one of the first tennis events to suspend players from the two countries since Russia invaded Ukraine, and excludes several highly ranked players from competition. 
- <p class="updated_time"> 10:42 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/erdogans-main-challenger-is-a-wonkish-former-accountant-that-may-be-what-turks-want-11650467018">Erdogan’s Main Challenger Is a Wonkish Former Accountant. That May Be What Turks Want.</a> WSJ: Erdogan’s Main Challenger Is a Wonkish Former Accountant. That May Be What Turks Want. 
  <p class="updated_time"> 10:38 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61160434?at_medium=RSS&at_campaign=KARANGA">Damaris Muthee Mutua: Kenya police launch manhunt after athlete killed</a> BBC: Damaris Muthee Mutua is the second female runner to have been killed in the famous Iten athletics base in a year. 
  <p class="updated_time"> 10:26 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/dementia-grandparent.html">Ukrainians Far From Home Struggle to Protect Family With Dementia</a> NYT: Millions of Ukrainians have been displaced since the war started. Many elderly or disabled people have been unable or unwilling to leave their homes. 
  <p class="updated_time"> 10:22 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093729899/meet-patron-a-bomb-sniffing-jack-russell-terrier-who-has-become-a-ukrainian-hero">Meet Patron, a bomb-sniffing Jack Russell terrier who has become a Ukrainian hero</a> NPR: Two-year-old Patron works with rescuers in the northern city of Chernihiv, where he sniffs out Russian bombs (in addition to warming laps, nipping sleeves and generally being a good boy). 
- <p class="updated_time"> 09:42 AM CT, Apr. 20 </p> 
+ <p class="updated_time"> 09:56 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/russia-oligarch-mordashov-sanctions-ukraine-11650309587">The Russian Oligarch With the Most to Lose</a> WSJ: The Russian Oligarch With the Most to Lose 
  <p class="updated_time"> 09:16 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/americas/colombia-comandos-armed-groups.html">Deep in Colombia, Rebels and Soldiers Fight for the Same Prize: Drugs</a> NYT: The country signed a historic peace deal more than five years ago. But a power vacuum is fueling the rise of new armed groups competing to control the drug trade. 
  <p class="updated_time"> 09:12 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61161874?at_medium=RSS&at_campaign=KARANGA">Hot air balloon makes emergency landing onto Melbourne rooftops</a> BBC: A man on board filmed as the balloon bounced over roofs and trees during an emergency landing. 
- <p class="updated_time"> 08:42 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
+ <p class="updated_time"> 08:56 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/from-youtube-to-rutube-inside-russias-influence-campaign-11650447002">From YouTube to Rutube. Inside Russia’s Influence Campaign.</a> WSJ: From YouTube to Rutube. Inside Russia’s Influence Campaign. 
  <p class="updated_time"> 08:41 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61153252?at_medium=RSS&at_campaign=KARANGA">Netflix hints at password sharing crackdown as subscribers fall</a> BBC: The firm needs to sign up new subscribers after losing 200,000 in the first quarter of the year. 
+ <p class="updated_time"> 07:56 AM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/julian-assanges-extradition-to-u-s-approved-by-u-k-court-11650462784">Julian Assange’s Extradition to U.S. Approved by U.K. Court, Referred to Government</a> WSJ: Julian Assange’s Extradition to U.S. Approved by U.K. Court, Referred to Government 
  <p class="updated_time"> 07:49 AM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61156861?at_medium=RSS&at_campaign=KARANGA">US spring snowstorm leaves 300,000 in the dark</a> BBC: A bout of winter weather in the US north-east has brought outages and over a foot of snow. 
- <p class="updated_time"> 07:42 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/from-youtube-to-rutube-inside-russias-influence-campaign-11650447002">From YouTube to Rutube. Inside Russia’s Influence Campaign.</a> WSJ: From YouTube to Rutube. Inside Russia’s Influence Campaign. 
  <p class="updated_time"> 07:29 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093708316/julian-assange-extradition">Julian Assange is one major step closer to extradition to the U.S. </a> NPR: A British judge on Wednesday formally approved the extradition of Julian Assange to the United States to face spying charges. The case will now go to Britain's interior minister for a decision. 
  <p class="updated_time"> 07:01 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/china-air-crash-report-gives-few-new-clues-on-boeing-737s-fatal-nosedive-11650466466">China Air Crash Report Gives Few New Clues on Boeing 737's Fatal Nosedive</a> WSJ: Preliminary findings show no problems found with the plane or flying conditions, while data from the black boxes is still being retrieved. 
  <p class="updated_time"> 05:43 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/france-macron-unpopular.html">How Hated Is Macron? It Could Decide the French Election.</a> NYT: Given the choice between a president they suspect of despising ordinary people and a far-right candidate they detest, many French voters may stay home. 
- <p class="updated_time"> 04:53 AM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/julian-assanges-extradition-to-u-s-approved-by-u-k-court-11650462784">Julian Assange's Extradition to U.S. Approved by U.K. Court, Referred to Government</a> WSJ: A U.K. court said WikiLeaks co-founder Julian Assange’s extradition to the U.S. to face spying charges could proceed once the government approves it, but the prospect of an appeal means the legal saga could still be many months from resolution. 
  <p class="updated_time"> 04:30 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/asia/rohingya-refugees-malaysia-deaths.html">6 Rohingya Refugees Are Killed Fleeing Detention Center in Malaysia</a> NYT: In recent years, the Malaysian government has taken a more hard-line approach to the refugees in the country, which once offered a modicum of opportunity. 
  <p class="updated_time"> 04:17 AM CT, Apr. 20 </p> 
