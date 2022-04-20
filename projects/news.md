@@ -9,32 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:09 PM CT, Apr. 19 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/climate/biden-climate-nepa-trump.html">Biden Restores Climate to Environmental Law, Reversing Trump</a> NYT: A new rule requires agencies to analyze the climate impacts of proposed highways, pipelines and other projects, and gives local communities more input. 
+ <p class="updated_time"> 11:09 PM CT, Apr. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61157909?at_medium=RSS&at_campaign=KARANGA">Hepatitis cases detected in children in Europe and the US</a> BBC: Acute hepatitis - or liver inflammation - among children was first reported in the UK last week. 
+ <p class="updated_time"> 10:42 PM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 10:38 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/mariupol-azovstal-steel-plant.html">Huge Steel Plant in Mariupol Is a Fortress for Ukrainian Holdouts </a> NYT: A huge Soviet-era steel mill is where the last Ukrainian defenders of Mariupol have taken refuge as Russia’s battle to take full control of the city appeared to be entering its final stages. 
+ <p class="updated_time"> 10:33 PM CT, Apr. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61151037?at_medium=RSS&at_campaign=KARANGA">One dead as police open fire at Sri Lanka protest</a> BBC: Police have used live rounds for the first time since protests erupted over an economic crisis. 
  <p class="updated_time"> 10:25 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-masks-public-transportation.html">Biden Says It’s ‘Up to Them’ Whether Americans Want to Wear Masks</a> NYT: The decision to wear a mask is “up to them,” President Biden told reporters during a trip. 
- <p class="updated_time"> 09:53 PM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/ukraine-rushes-to-evacuate-civilians-in-east-as-russias-offensive-pushes-forward-11650363570">Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward</a> WSJ: Ukraine Rushes to Evacuate Civilians in East as Russia’s Offensive Pushes Forward 
  <p class="updated_time"> 09:51 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/asia/hong-kong-star-ferry.html">Star Ferry, ‘Emblem of Hong Kong,’ May Sail Into History After 142 Years</a> NYT: Launched in 1880, the ferry has witnessed both Hong Kong’s transformation into a global financial hub and its history of protests. But battered by a pandemic, the service is struggling to survive. 
- <p class="updated_time"> 08:53 PM CT, Apr. 19 </p> 
+ <p class="updated_time"> 09:42 PM CT, Apr. 19 </p> 
  <a href="https://www.wsj.com/articles/how-u-s-saudi-relations-reached-the-breaking-point-11650383578">How U.S.-Saudi Relations Reached the Breaking Point</a> WSJ: How U.S.-Saudi Relations Reached the Breaking Point 
+ <p class="updated_time"> 08:42 PM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/israel-airstrikes-hit-gaza-after-rocket-fire-11650356706">Israel Airstrikes Hit Gaza After Rocket Fire</a> WSJ: Israel Airstrikes Hit Gaza After Rocket Fire 
  <p class="updated_time"> 08:42 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/business/economy/imf-world-economy-inflation.html">World Economic Outlook Dims as War and Pandemic Cast a Pall</a> NYT: The International Monetary Fund’s new World Economic Outlook expects growth to slow to 3.6 percent this year. The group is one of many to slash their forecasts recently. 
  <p class="updated_time"> 08:13 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/russia-ukraine-cease-fire-mariupol.html">Russia Rejects Calls for a Cease-Fire to Enable Evacuations From Ukraine</a> NYT: Civilians, including children, remain trapped in the eastern Ukraine region of Donbas and in the devastated port city of Mariupol. 
  <p class="updated_time"> 08:01 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/04/19/world/south-africa-floods">South Africa’s Government Shifts to Rebuilding After Disastrous Flooding</a> NYT: Nearly 4,000 homes have been destroyed and more than twice as many damaged in the Durban area after a week of punishing rains and mudslides. The death toll is now 448, with about four dozen people unaccounted for. 
- <p class="updated_time"> 07:53 PM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/israel-airstrikes-hit-gaza-after-rocket-fire-11650356706">Israel Airstrikes Hit Gaza After Rocket Fire</a> WSJ: Israel Airstrikes Hit Gaza After Rocket Fire 
  <p class="updated_time"> 07:43 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/us-ukraine-weaponry.html">The U.S. Races to Arm Ukraine With Heavier, More Advanced Weaponry</a> NYT: Washington and its allies are scouring Central Europe and the world to get Ukraine the weapons it needs for the next phase of the war. 
+ <p class="updated_time"> 07:42 PM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/mariupol-in-ruins-still-looms-large-for-russia-and-ukraine-11650379925">Mariupol, in Ruins, Still Looms Large for Russia and Ukraine</a> WSJ: Mariupol, in Ruins, Still Looms Large for Russia and Ukraine 
  <p class="updated_time"> 07:13 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61155035?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Kyiv's allies pledge more weapons to help win war</a> BBC: Leaders agree to send artillery and other weapons as Russia launches a fresh offensive in eastern Ukraine. 
  <p class="updated_time"> 07:13 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61117434?at_medium=RSS&at_campaign=KARANGA">Why Koreans could soon become a year younger</a> BBC: The new government has proposed getting rid of the country's age systems, but experts are divided. 
- <p class="updated_time"> 06:53 PM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/mariupol-in-ruins-still-looms-large-for-russia-and-ukraine-11650379925">Mariupol, in Ruins, Still Looms Large for Russia and Ukraine</a> WSJ: Mariupol, in Ruins, Still Looms Large for Russia and Ukraine 
+ <p class="updated_time"> 06:42 PM CT, Apr. 19 </p> 
+ <a href="https://www.wsj.com/articles/china-signs-solomon-islands-pact-over-u-s-australia-opposition-11650388369">China Signs Solomon Islands Pact</a> WSJ: China Signs Solomon Islands Pact 
  <p class="updated_time"> 06:39 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61145196?at_medium=RSS&at_campaign=KARANGA">Shark Tank: India TV show proves entrepreneurship isn't just for rich</a> BBC: The business show featured 67 ideas on which investors spent more than 400m rupees. 
  <p class="updated_time"> 06:35 PM CT, Apr. 19 </p> 
@@ -47,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61147690?at_medium=RSS&at_campaign=KARANGA">The Zomato and Swiggy riders risking their lives to deliver food</a> BBC: The BBC followed overworked delivery riders as they raced against time to take food to customers. 
  <p class="updated_time"> 06:01 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61150865?at_medium=RSS&at_campaign=KARANGA">Climate Change, Albinism and Me</a> BBC: Coco shares her experience of living with albinism in Nigeria. 
- <p class="updated_time"> 05:53 PM CT, Apr. 19 </p> 
- <a href="https://www.wsj.com/articles/china-signs-solomon-islands-pact-over-u-s-australia-opposition-11650388369">China Signs Solomon Islands Pact</a> WSJ: China Signs Solomon Islands Pact 
  <p class="updated_time"> 05:34 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/france-cartoons-presidential-election.html">In French Election, Cartoonists Play a High-Profile Role</a> NYT: Cartoonists play a high-profile role in France’s political discourse, and they have been busy drawing the presidential candidates as the race approaches its end. 
  <p class="updated_time"> 04:19 PM CT, Apr. 19 </p> 
@@ -83,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/19/world/europe/boris-johnson-parliament-apologies.html">Johnson Is All Apologies Before Parliament After ‘Partygate’ Fine</a> NYT: Though opposition politicians called him out, only one member of his own Conservative party called on him to resign. 
  <p class="updated_time"> 01:30 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1092887616/ukraine-mariupol-missing">A Mariupol native has created a site for residents to find missing loved ones</a> NPR: Dmitriy Cherepanov, a lifelong Mariupol native, created MRPL.life, a site dedicated to helping residents locate missing loved ones in the besieged Ukrainian city. 
- <p class="updated_time"> 12:42 PM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/climate/biden-climate-nepa-trump.html">Biden Restores Climate to Environmental Law, Reversing Trump</a> NYT: A new rule requires agencies to analyze the climate impacts of proposed highways, pipelines and other projects, and gives local communities more input. 
  <p class="updated_time"> 12:04 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/theater/punchdrunk-burnt-city-troy.html">Inside ‘The Burnt City,’ Punchdrunk’s Take on the Fall of Troy </a> NYT: Punchdrunk’s “The Burnt City” adds techno and sake to the story of the fall of Troy, but it brought in a scholar of classical theater to get the details right. 
  <p class="updated_time"> 11:40 AM CT, Apr. 19 </p> 
@@ -135,8 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/no-father-wants-to-sell-his-sons-kidney-afghans-pushed-to-desperate-measures-to-survive-11650360705">Desperate Afghans Sell Kidneys to Survive</a> WSJ: Afghanistan’s deepening humanitarian crisis is fueling a booming trade in human organs. “No father in the world wants to sell his son’s kidney.” 
  <p class="updated_time"> 12:03 AM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61146084?at_medium=RSS&at_campaign=KARANGA">Ukraine children: Killed as he escaped, Elisei is one of 200 child victims</a> BBC: As fighting rages across Ukraine, Russia's invasion has shattered the lives of millions of children. 
- <p class="updated_time"> 08:32 PM CT, Apr. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61144679?at_medium=RSS&at_campaign=KARANGA">French elections: EU apprehensive of Le Pen ahead of French run-off vote</a> BBC: A Marine Le Pen victory in France would send shockwaves across the European Union, writes Jessica Parker. 
  <p class="updated_time"> 08:29 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/18/world/europe/ukraine-russia-missiles-lviv-donbas.html">Ukraine Says Russia Begins Assault in the East After Raining Missiles Nationwide</a> NYT: The president of Ukraine and a top national security aide said the Russian offensive, anticipated for weeks, had finally begun after a Russian missile barrage that included the first deadly strike on the western city of Lviv. 
  <p class="updated_time"> 07:12 PM CT, Apr. 18 </p> 
@@ -157,8 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/18/world/europe/france-election-economy.html">French Candidates’ Economic Programs Hold Key to the Election</a> NYT: Promising tax cuts, higher wages and changes in the retirement age, President Macron and Marine Le Pen vie for undecided voters. 
  <p class="updated_time"> 01:30 PM CT, Apr. 18 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/france-islam-le-pen-head-scarf.html">Marine Le Pen Proposes Ban on Muslim Women Wearing Head Scarves</a> NYT: Marine Le Pen, the far-right contender, has proposed a ban on Muslim women wearing head scarves in public. 
- <p class="updated_time"> 11:40 AM CT, Apr. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61141118?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Dramatic images appear to show sinking Russian warship Moskva</a> BBC: Russia says the Moskva sank after an explosion of ammunition, but Ukrainians say they hit it with missiles. 
  <p class="updated_time"> 11:18 AM CT, Apr. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61033360?at_medium=RSS&at_campaign=KARANGA">Wayne Quilliam: Photographing the diversity of Aboriginal Australia</a> BBC: Australia has hundreds of Indigenous groups - and Wayne Quilliam is hoping to photograph them all. 
  <p class="updated_time"> 11:00 AM CT, Apr. 18 </p> 
@@ -183,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/17/world/europe/lviv-easter-sunday-ukraine-russia-war.html">Worshipers Fill Pews in Lviv on Easter Sunday for Services That Remember War</a> NYT: Commemorations in Ukraine’s small Roman Catholic community combined ancient traditions with the reality of the war. 
  <p class="updated_time"> 12:25 PM CT, Apr. 17 </p> 
  <a href="https://www.nytimes.com/2022/04/17/world/europe/ukraine-war-russia-atrocities.html">Atrocities in Ukraine War Have Deep Roots in Russian Military</a> NYT: Like the shelling of cities, the seemingly pointless, close-up killing of individuals recalls wars in Chechnya. Do they reflect intent, or only indifference, propaganda and a military culture of violence? 
- <p class="updated_time"> 11:58 AM CT, Apr. 17 </p> 
- <a href="https://www.nytimes.com/2022/04/17/world/middleeast/yemen-houthis-gulf.html">Yemen’s Houthis Went From Ragtag Militia to Force Threatening Gulf Powers</a> NYT: Iran’s cultivation of the Houthis over the years of war in Yemen has armed them with missiles and drones, endangering Washington’s partners and Tehran’s rivals, Saudi Arabia and the United Arab Emirates. 
 
 
 </details>
@@ -192,6 +190,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:05 PM CT, Apr. 19 </p> 
+ <a href="https://www.politico.com/news/2022/04/20/dede-robertson-pat-christian-broadcasting-00026524">Dede Robertson, wife and partner of religious broadcaster, dies at 94</a> Politico: She was a notable presence during Pat Robertson's 1988 presidential campaign. 
  <p class="updated_time"> 10:25 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-masks-public-transportation.html">Biden Says It’s ‘Up to Them’ Whether Americans Want to Wear Masks</a> NYT: The decision to wear a mask is “up to them,” President Biden told reporters during a trip. 
  <p class="updated_time"> 10:22 PM CT, Apr. 19 </p> 
@@ -281,9 +281,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:58 PM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/russia-ukraine-war-missiles-00026102">Russia unleashes offensive on Ukraine, ushering in new phase of war</a> Politico: British anti-ship missiles, tanks from Eastern European countries and armored vehicles from Australia are being rushed to the fight. 
  <p class="updated_time"> 06:45 PM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/2022/04/18/us/politics/david-price-republicans-democrats-midterms.html">David Price Sees Echoes of 1994 Republican Revolution in 2022 Midterms</a> NYT: David Price sees echoes of the 1994 Republican Revolution in the 2022 midterms — and Republicans undoing the progress on voting rights that he witnessed as an aide in the 1960s. 
+ <a href="https://www.nytimes.com/2022/04/18/us/politics/david-price-republicans-democrats-midterms.html">A Departing House Democrat Traces 30 Years of G.O.P. History</a> NYT: David Price sees echoes of the 1994 Republican Revolution in the 2022 midterms — and Republicans undoing the progress on voting rights that he witnessed as an aide in the 1960s. 
  <p class="updated_time"> 06:36 PM CT, Apr. 18 </p> 
- <a href="https://www.nytimes.com/2022/04/18/us/politics/trump-allies-election-decertify.html">Trump Allies Are Still Feeding the False 2020 Election Narrative</a> NYT: Fifteen months after they tried and failed to overturn the 2020 election, the same group of lawyers and associates is continuing efforts to “decertify” the vote, feeding a false narrative. 
+ <a href="https://www.nytimes.com/2022/04/18/us/politics/trump-allies-election-decertify.html">Trump Allies Continue Legal Drive to Erase His Loss, Stoking Election Doubts</a> NYT: Fifteen months after they tried and failed to overturn the 2020 election, the same group of lawyers and associates is continuing efforts to “decertify” the vote, feeding a false narrative. 
  <p class="updated_time"> 05:01 PM CT, Apr. 18 </p> 
  <a href="https://www.cnn.com/2022/04/18/politics/democratic-donors-longshots/index.html">Some Democrats fear a 2020 repeat as cash flows to long-shot candidates</a> CNN: Marcus Flowers makes it perfectly clear why he is running for Congress: The Georgia Democrat wants to unseat Rep. Marjorie Taylor Greene, the attention-grabbing, conspiracy-pushing Republican who fills Democrats with rage. 
  <p class="updated_time"> 04:57 PM CT, Apr. 18 </p> 
