@@ -9,27 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Apr. 21 </p> 
+ <a href="https://www.npr.org/2022/04/21/1093712314/navalny-documentary-putin-russia-review">'Navalny' documentary spotlights the Russian who dared to take on Putin</a> NPR: Daniel Roher's film about Russian dissident Alexei Navalny offers intimate, sometimes amazing access to the bravery — and human cost — of opposing a despot. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 21 </p> 
+ <a href="https://www.nytimes.com/2022/04/21/world/europe/uruena-spain-book-hub.html">This Spanish Village Has More Booksellers Than School Pupils</a> NYT: Urueña, in northwestern Spain, has fought depopulation by reinventing itself as a literary hub. The full-time population is still just 100, but there are 11 shops selling books. 
+ <p class="updated_time"> 03:12 AM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
  <p class="updated_time"> 03:12 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">What Happened on Day 56 of the War in Ukraine</a> NYT: Russia’s Defense Ministry said the weapon needed more testing before it could be deployed. Ukrainian officials said they were pushing back at Moscow’s offensive in the east. 
  <p class="updated_time"> 03:12 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/avdiivka-ukraine-russia.html">Residents in Avdiivka, Ukraine Go Underground as Russia’s Assault on East Ramps Up</a> NYT: As Ukrainian forces dig into trenches and residents flee into basements, Russia’s artillery attacks have intensified. “They can’t get through the front lines and so they’re starting simply to destroy the city,” a Ukrainian official said. 
  <p class="updated_time"> 03:03 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/middleeast/israel-gaza-rocket-fire.html">Gazan Militants and Israeli Air Force Exchange Fire</a> NYT: The flare-up followed a rise in tensions over holy places in Jerusalem and a deadly wave of Arab attacks in Israel, answered by a lethal Israeli crackdown in the occupied West Bank. 
- <p class="updated_time"> 02:52 AM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
  <p class="updated_time"> 02:30 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/russian-spies-europe-ukraine.html">He Was a Penniless Donor to the Far Right. He Was Also a Russian Spy.</a> NYT: An investigation in Slovakia has exposed how Russian clandestine operations are trying to sow discord in Europe and create sympathy for Moscow over Ukraine. 
+ <p class="updated_time"> 02:12 AM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/putin-oversees-test-launch-of-ballistic-missile-he-says-will-make-enemies-think-twice-11650482365">Putin Oversees Test-Launch of Ballistic Missile He Says Will Make Enemies ‘Think Twice’</a> WSJ: Putin Oversees Test-Launch of Ballistic Missile He Says Will Make Enemies ‘Think Twice’ 
  <p class="updated_time"> 02:03 AM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1093977767/relentless-attacks-pound-last-defenders-holed-up-in-mariupol">Putin tells forces not to storm Ukraine holdout in Mariupol</a> NPR: Russian President Vladimir Putin ordered his forces not to storm the last remaining Ukrainian stronghold in the city of Mariupol, but instead to block it 'so that not even a fly comes through'. 
- <p class="updated_time"> 01:52 AM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/putin-oversees-test-launch-of-ballistic-missile-he-says-will-make-enemies-think-twice-11650482365">Putin Oversees Test-Launch of Ballistic Missile He Says Will Make Enemies ‘Think Twice’</a> WSJ: Putin Oversees Test-Launch of Ballistic Missile He Says Will Make Enemies ‘Think Twice’ 
  <p class="updated_time"> 01:51 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/india-kangaroos-smuggling-west-bengal.html">Kangaroos in India? Experts See Evidence of a Smuggling Trade</a> NYT: The animals are the latest exotic fauna to be smuggled into the country, possibly to be used as pets. Draft legislation would close loopholes in the roaring wildlife trade. 
  <p class="updated_time"> 01:33 AM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1093976603/macron-attacks-le-pen-on-russia-muslim-headscarf-ban-pledge">Macron attacks Le Pen on Russia, Muslim headscarf ban pledge</a> NPR: French President Emmanuel Macron tore into his far-right challenger Marine Le Pen in a debate for her ties to Russia and wanting to strip Muslim women of their right to cover their heads in public. 
- <p class="updated_time"> 12:52 AM CT, Apr. 21 </p> 
+ <p class="updated_time"> 01:12 AM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/yellen-powell-foreign-counterparts-walk-out-in-protest-of-russia-11650483524">Yellen, Powell, Foreign Counterparts Walk Out in Protest of Russia</a> WSJ: Yellen, Powell, Foreign Counterparts Walk Out in Protest of Russia 
- <p class="updated_time"> 11:52 PM CT, Apr. 20 </p> 
+ <p class="updated_time"> 12:12 AM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-and-le-pen-clash-during-presidential-debate-11650496045">France’s Macron and Le Pen Clash During Presidential Debate</a> WSJ: France’s Macron and Le Pen Clash During Presidential Debate 
  <p class="updated_time"> 11:52 PM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/21/1093974782/israel-gaza-militants-trade-fire-as-mideast-tensions-mount">Gaza violence intensifies as Jerusalem clashes resume</a> NPR: Israel's air force and Palestinian militants traded fire across the Gaza frontier early Thursday as clashes erupted again at Jerusalem's most sensitive holy site. 
@@ -37,7 +41,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/20/world/americas/rosario-ibarra-dead.html">Rosario Ibarra de Piedra, 95, Dies; Fought for Mexico’s ‘Disappeared’</a> NYT: When her son vanished in 1975, she began a crusade on behalf of him and hundreds of others and became a voice of moral authority on the left. 
  <p class="updated_time"> 11:40 PM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61166601?at_medium=RSS&at_campaign=KARANGA">French election: Macron and Le Pen clash in TV presidential debate</a> BBC: Emmanuel Macron and Marine Le Pen take part in an animated contest ahead of Sunday's run-off vote. 
- <p class="updated_time"> 10:52 PM CT, Apr. 20 </p> 
+ <p class="updated_time"> 11:12 PM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/china-air-crash-report-gives-few-new-clues-on-boeing-737s-fatal-nosedive-11650466466">China Air Crash Report Gives Few New Clues on Boeing 737’s Fatal Nosedive</a> WSJ: China Air Crash Report Gives Few New Clues on Boeing 737’s Fatal Nosedive 
  <p class="updated_time"> 10:39 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/us/politics/russia-putin-missile-test.html">Russia’s Missile Test Fuels U.S. Fears of an Isolated Putin</a> NYT: American and foreign leaders have been weighing whether their success in making Russia a diplomatic pariah could push President Vladimir V. Putin to strike in new ways. 
@@ -137,8 +141,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/20/1093729899/meet-patron-a-bomb-sniffing-jack-russell-terrier-who-has-become-a-ukrainian-hero">Meet Patron, a bomb-sniffing Jack Russell terrier who has become a Ukrainian hero</a> NPR: Two-year-old Patron works with rescuers in the northern city of Chernihiv, where he sniffs out Russian bombs (in addition to warming laps, nipping sleeves and generally being a good boy). 
  <p class="updated_time"> 09:16 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/americas/colombia-comandos-armed-groups.html">Deep in Colombia, Rebels and Soldiers Fight for the Same Prize: Drugs</a> NYT: The country signed a historic peace deal more than five years ago. But a power vacuum is fueling the rise of new armed groups competing to control the drug trade. 
- <p class="updated_time"> 07:29 AM CT, Apr. 20 </p> 
- <a href="https://www.npr.org/2022/04/20/1093708316/julian-assange-extradition">Julian Assange is one major step closer to extradition to the U.S. </a> NPR: A British judge on Wednesday formally approved the extradition of Julian Assange to the United States to face spying charges. The case will now go to Britain's interior minister for a decision. 
  <p class="updated_time"> 06:03 AM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/erdogans-main-challenger-is-a-wonkish-former-accountant-that-may-be-what-turks-want-11650467018">Erdogan's Main Challenger Is a Wonkish Ex-Accountant. That May Be What Turks Want.</a> WSJ: Turkish President Recep Tayyip Erdogan is facing his toughest re-election challenge yet, and his main opponent is a bespectacled former accountant who is long on policy pronouncements and short on charisma. 
  <p class="updated_time"> 04:30 AM CT, Apr. 20 </p> 
@@ -183,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/19/world/asia/afghanistan-kabul-schools-attacked.html">Afghanistan School Explosions: At Least 6 Dead in Kabul</a> NYT: More than a dozen people were also wounded, one as young as 7. The attacks again challenged the Taliban’s promise of security, and stoked deep-seated fears in the Shiite community. 
  <p class="updated_time"> 10:56 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/mask-mandate-flights.html">A Mask Mandate Ends Midflight, Sparking Cheers and Alarm</a> NYT: Airport terminals and flights erupted in applause, while some passengers said the abrupt policy change put them at risk. 
- <p class="updated_time"> 09:12 AM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/world/un-martin-griffith-covid.html">U.N. Official Said He Tested Positive for Covid After In-Person Meeting</a> NYT: One meeting had included the U.N.’s secretary general, but everyone in the room was wearing masks, a spokesman said. 
  <p class="updated_time"> 07:43 AM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/health/death-records-africa-electronic-autopsy.html">A Door-to-Door Effort to Find Out Who Died Helps Low-Income Countries Aid the Living</a> NYT: Many developing countries don’t keep official death records. A novel effort uses “electronic autopsies” to count deaths, and record their cause. 
  <p class="updated_time"> 04:30 AM CT, Apr. 19 </p> 
@@ -202,6 +202,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Apr. 21 </p> 
+ <a href="https://www.nytimes.com/2022/04/21/us/politics/democrats-democracy-election.html">Democrats Fear for Democracy. Why Aren’t They Running on It in 2022?</a> NYT: Republicans are far more energized about the issues of elections and voting, powered by a former president and many base voters who believe the 2020 contest was illegitimate. 
+ <p class="updated_time"> 04:01 AM CT, Apr. 21 </p> 
+ <a href="https://www.nytimes.com/2022/04/21/us/politics/trump-mitch-mcconnell-kevin-mccarthy.html">McConnell and McCarthy’s Jan. 6 Fury at Trump Faded by February</a> NYT: In the days after the attack, Representative Kevin McCarthy planned to tell Mr. Trump to resign. Senator Mitch McConnell told allies impeachment was warranted. But their fury faded fast. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 21 </p> 
+ <a href="https://www.npr.org/2022/04/21/1093771578/pennsylvania-republican-senate-primary-mccormick-oz-trump">Trump's endorsement of Oz reframes the Pennsylvania GOP Senate contest</a> NPR: For the state's open U.S. Senate seat, the two top Republican contenders are David McCormick and Mehmet Oz. And, as in so many GOP races this year, there's another major player — Donald Trump. 
  <p class="updated_time"> 02:00 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/biden-pandemic-relief-democrats.html">If Biden’s Plan Is Like a ‘New Deal,’ Why Don’t Voters Care?</a> NYT: The $1.9 trillion pandemic-relief law unleashed a massive wave of spending on local construction projects and programs. Democratic candidates aren’t getting much credit. 
  <p class="updated_time"> 11:34 PM CT, Apr. 20 </p> 
@@ -298,8 +304,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-mask-mandate-transportation.html">The Biden administration says it may appeal a ruling that voided a mask mandate on public transport.</a> NYT: If the C.D.C. decides there is a public health basis for trying to reinstate and extend the mask mandate, the Justice Department will swiftly file an appeal. 
  <p class="updated_time"> 03:30 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/abigail-spanberger-virginia-policing-message-00026211">'That was a terrible idea': Spanberger wants a policing reboot for House Dems</a> Politico: Democrats see Rep. Abigail Spanberger's district as competitive but winnable in a tough midterm fight. She thinks addressing GOP attacks on crime head on is key to keeping it. 
- <p class="updated_time"> 07:43 PM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/world/europe/us-ukraine-weaponry.html">The U.S. Races to Arm Ukraine With Heavier, More Advanced Weaponry</a> NYT: Washington and its allies are scouring Central Europe and the world to get Ukraine the weapons it needs for the next phase of the war. 
  <p class="updated_time"> 07:33 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-mask-mandate-appeal.html">Biden Administration May Appeal Mask Mandate Ruling</a> NYT: If the C.D.C. decides there is a public health basis for trying to reinstate and extend the mask mandate, the Justice Department will swiftly file an appeal. 
  <p class="updated_time"> 06:43 PM CT, Apr. 19 </p> 
@@ -316,8 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/19/1093620448/whos-checking-the-fact-checkers">Who's checking the fact checkers?</a> NPR: The latest weapon in the disinformation war: Fake fact checkers. Some channels on the app Telegram look like independent fact checkers, but are pro-Russian propaganda outlets spreading falsities. 
  <p class="updated_time"> 03:32 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093620420/a-former-israeli-prime-minister-went-to-jail-where-he-wrote-a-memoir">A former Israeli prime minister went to jail — where he wrote a memoir</a> NPR: NPR's Daniel Estrin speaks with former Israeli Prime Minister Ehud Olmert about his book, "Searching for Peace: A Memoir of Israel." He's said he's innocent, but went to prison for corruption charges. 
- <p class="updated_time"> 03:01 PM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/us/politics/democratic-midterm-fundraising.html">Democratic Dollars Flow Once Again to Likely Lost Causes</a> NYT: New fund-raising figures show emerging Democratic stars like Marcus Flowers in Georgia and Gary Chambers Jr. in Louisiana, with no clear path to victory. 
  <p class="updated_time"> 02:37 PM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/thiel-pumps-another-3-5m-into-vance-super-pac-after-trump-endorsement-00026375">Vance parlays Trump endorsement into new Thiel money</a> Politico: The tech billionaire has been the biggest supporter of the Ohio Republican Senate candidate. 
  <p class="updated_time"> 01:38 PM CT, Apr. 19 </p> 
@@ -326,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/19/1093566982/florida-mask-mandate-judge-kathryn-mizelle">What to know about Judge Kathryn Mizelle, who struck down the travel mask mandate</a> NPR: Mizelle was nominated by former President Donald Trump in 2020 at age 33. The American Bar Association said at the time she wasn't qualified because she hadn't been practicing law for long enough. 
  <p class="updated_time"> 12:01 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093543895/delta-mask-mandate-seasonal">Delta updates its statement calling COVID a 'seasonal virus' after a backlash </a> NPR: The airline changed its announcement about the end of the federal mask mandate after a firestorm of criticism from public health experts who called it inaccurate and misleading. 
- <p class="updated_time"> 11:53 AM CT, Apr. 19 </p> 
- <a href="https://www.npr.org/2022/04/19/1093539226/desantis-wants-to-end-disney-worlds-special-status-in-florida">DeSantis wants to end Disney World's special status in Florida</a> NPR: Florida's Republican governor, Ron DeSantis, has asked lawmakers to consider a bill that would halt Disney World's exemptions to state regulations that were established more than 50 years ago. 
  <p class="updated_time"> 11:41 AM CT, Apr. 19 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:31 AM CT, Apr. 19 </p> 
