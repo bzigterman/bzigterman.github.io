@@ -430,21 +430,21 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">54</td>
-<td class="gt_row gt_right">122</td>
-<td class="gt_row gt_right">+126%</td></tr>
+<td class="gt_row gt_right">52</td>
+<td class="gt_row gt_right">113</td>
+<td class="gt_row gt_right">+116%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">8</td>
 <td class="gt_row gt_right gt_striped">8</td>
 <td class="gt_row gt_right gt_striped">+9%</td></tr>
     <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
 <td class="gt_row gt_right">1</td>
-<td class="gt_row gt_right">0</td>
-<td class="gt_row gt_right">&minus;100%</td></tr>
+<td class="gt_row gt_right">1</td>
+<td class="gt_row gt_right">0%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">298</td>
 <td class="gt_row gt_right gt_striped">319</td>
-<td class="gt_row gt_right gt_striped">+7%</td></tr>
+<td class="gt_row gt_right gt_striped">346</td>
+<td class="gt_row gt_right gt_striped">+8%</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">134,000</td>
 <td class="gt_row gt_right">134,000</td>
@@ -456,12 +456,12 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Wednesday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
     </tr>
   </tfoot>
   <tfoot class="gt_footnotes">
     <tr>
-      <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 287  total deaths</td>
+      <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 288  total deaths</td>
     </tr>
   </tfoot>
 </table>
@@ -1868,7 +1868,7 @@ html {
 
 As of Wednesday, the 14-day percent change in average new cases was:
   
-- 126% in Champaign County
+- 116% in Champaign County
 - 76% in Illinois
 - 44% in the United States
 - -41% worldwide
