@@ -9,20 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:36 AM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/04/21/world/ukraine-russia-war-news">Live Updates: Putin Calls Off Storming of Mariupol Plant, but Orders Blockade</a> NYT: Vladimir Putin tried to claim victory in the besieged port city, despite little having changed on the ground. He said Ukrainian soldiers holding out in the factory complex would be given another chance to surrender. 
+ <p class="updated_time"> 06:20 AM CT, Apr. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/21/world/ukraine-russia-war-news">Ukraine Live Updates: Putin Calls Off Storming of Mariupol Plant, but Orders Blockade</a> NYT: Vladimir Putin said it was “impractical” to attack the plant where Ukrainian forces were holding out, and offered them another chance to surrender. As he claimed success in Mariupol, where Russia suffered heavy losses, his forces pushed an offensive in eastern Ukraine. 
+ <p class="updated_time"> 06:09 AM CT, Apr. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61176973?at_medium=RSS&at_campaign=KARANGA">Haiti: Small plane crashes on to main road killing six</a> BBC: The pilot is among those who died when the aircraft came down in Haiti, injuring people on the ground. 
+ <p class="updated_time"> 05:23 AM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
  <p class="updated_time"> 05:21 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/russian-spies-europe-ukraine.html">He Was a Penniless Donor to the Far Right. He Was Also a Russian Spy.</a> NYT: An investigation in Slovakia has exposed how Russian clandestine operations are trying to sow discord in Europe and create sympathy for Moscow over Ukraine. 
  <p class="updated_time"> 05:15 AM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61174351?at_medium=RSS&at_campaign=KARANGA">Sophie Wilmes: Belgian foreign minister resigns to care for sick husband</a> BBC: Sophie Wilmes will temporarily resign to care for her husband who has been diagnosed with brain cancer. 
  <p class="updated_time"> 05:10 AM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61147709?at_medium=RSS&at_campaign=KARANGA">French election: Far-right Le Pen's long quest for power in France</a> BBC: Marine Le Pen has taken France's National Rally to within touching distance of the presidency. 
- <p class="updated_time"> 05:00 AM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
  <p class="updated_time"> 04:30 AM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61166601?at_medium=RSS&at_campaign=KARANGA">French election: Macron and Le Pen clash in TV presidential debate</a> BBC: Emmanuel Macron and Marine Le Pen take part in an animated contest ahead of Sunday's run-off vote. 
  <p class="updated_time"> 04:30 AM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1093711322/russia-ukraine-war-refugees-ukrainian-women-poland">Polish women band together to give Ukrainian women car rides to safe refuge</a> NPR: Spooked by reports that traffickers are waiting at the Ukraine-Poland border, a Polish woman started an all-women car service to drive Ukrainian refugee women and children to homes or shelters. 
+ <p class="updated_time"> 04:23 AM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/he-worked-for-moscows-police-for-nearly-20-years-then-he-spoke-up-about-the-ukraine-war-11650533400">He Worked for Moscow’s Police for Nearly 20 Years. Then He Spoke Up About Ukraine.</a> WSJ: He Worked for Moscow’s Police for Nearly 20 Years. Then He Spoke Up About Ukraine. 
  <p class="updated_time"> 04:22 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/middleeast/israel-gaza-rocket-fire.html">Gazan Militants and Israeli Air Force Exchange Fire</a> NYT: The flare-up followed a rise in tensions over holy places in Jerusalem and a deadly wave of Arab attacks in Israel, answered by a lethal Israeli crackdown in the occupied West Bank. 
  <p class="updated_time"> 04:21 AM CT, Apr. 21 </p> 
@@ -31,22 +35,22 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/21/1093712314/navalny-documentary-putin-russia-review">'Navalny' documentary spotlights the Russian who dared to take on Putin</a> NPR: Daniel Roher's film about Russian dissident Alexei Navalny offers intimate, sometimes amazing access to the bravery — and human cost — of opposing a despot. 
  <p class="updated_time"> 04:00 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/uruena-spain-book-hub.html">This Spanish Village Has More Booksellers Than School Pupils</a> NYT: Urueña, in northwestern Spain, has fought depopulation by reinventing itself as a literary hub. The full-time population is still just 100, but there are 11 shops selling books. 
- <p class="updated_time"> 04:00 AM CT, Apr. 21 </p> 
+ <p class="updated_time"> 03:23 AM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/putin-oversees-test-launch-of-ballistic-missile-he-says-will-make-enemies-think-twice-11650482365">Putin Oversees Test-Launch of Ballistic Missile He Says Will Make Enemies ‘Think Twice’</a> WSJ: Putin Oversees Test-Launch of Ballistic Missile He Says Will Make Enemies ‘Think Twice’ 
  <p class="updated_time"> 03:12 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/avdiivka-ukraine-russia.html">Residents in Avdiivka, Ukraine Go Underground as Russia’s Assault on East Ramps Up</a> NYT: As Ukrainian forces dig into trenches and residents flee into basements, Russia’s artillery attacks have intensified. “They can’t get through the front lines and so they’re starting simply to destroy the city,” a Ukrainian official said. 
- <p class="updated_time"> 03:00 AM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/yellen-powell-foreign-counterparts-walk-out-in-protest-of-russia-11650483524">Yellen, Powell, Foreign Counterparts Walk Out in Protest of Russia</a> WSJ: Yellen, Powell, Foreign Counterparts Walk Out in Protest of Russia 
+ <p class="updated_time"> 02:23 AM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-lockdown-leads-to-logistics-disarray-with-quarantined-truckers-piled-up-containers-11650537303">Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers</a> WSJ: Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers 
  <p class="updated_time"> 02:03 AM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1093977767/relentless-attacks-pound-last-defenders-holed-up-in-mariupol">Putin tries to claim Mariupol win but won't storm holdout</a> NPR: Russian President Vladimir Putin tried to claim victory in the strategic port of Mariupol on Thursday, even as he ordered his troops not to storm the last pocket of Ukrainian resistance. 
- <p class="updated_time"> 02:00 AM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/frances-macron-and-le-pen-clash-during-presidential-debate-11650496045">France’s Macron and Le Pen Clash During Presidential Debate</a> WSJ: France’s Macron and Le Pen Clash During Presidential Debate 
  <p class="updated_time"> 01:51 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/india-kangaroos-smuggling-west-bengal.html">Kangaroos in India? Experts See Evidence of a Smuggling Trade</a> NYT: The animals are the latest exotic fauna to be smuggled into the country, possibly to be used as pets. Draft legislation would close loopholes in the roaring wildlife trade. 
  <p class="updated_time"> 01:39 AM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/china-air-crash-report-gives-few-new-clues-on-boeing-737s-fatal-nosedive-11650466466">China Air Crash Report Gives Few New Clues on Boeing 737's Fatal Nosedive</a> WSJ: Preliminary findings show no problems found with the plane or flying conditions, while data from the black boxes is still being retrieved. 
  <p class="updated_time"> 01:33 AM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1093976603/macron-attacks-le-pen-on-russia-muslim-headscarf-ban-pledge">Macron attacks Le Pen on Russia, Muslim headscarf ban pledge</a> NPR: French President Emmanuel Macron tore into his far-right challenger Marine Le Pen in a debate for her ties to Russia and wanting to strip Muslim women of their right to cover their heads in public. 
+ <p class="updated_time"> 01:23 AM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/yellen-powell-foreign-counterparts-walk-out-in-protest-of-russia-11650483524">Yellen, Powell, Foreign Counterparts Walk Out in Protest of Russia</a> WSJ: Yellen, Powell, Foreign Counterparts Walk Out in Protest of Russia 
  <p class="updated_time"> 11:52 PM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/21/1093974782/israel-gaza-militants-trade-fire-as-mideast-tensions-mount">Gaza violence intensifies as Jerusalem clashes resume</a> NPR: Israel's air force and Palestinian militants traded fire across the Gaza frontier early Thursday as clashes erupted again at Jerusalem's most sensitive holy site. 
  <p class="updated_time"> 11:43 PM CT, Apr. 20 </p> 
@@ -115,6 +119,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/20/1093846872/a-fake-cyberwar-held-in-estonia-could-help-nations-prepare-for-real-life-threats">A fake cyberwar held in Estonia could help nations prepare for real life threats</a> NPR: From the tiny Baltic nation of Estonia, some 30 nations are participating in mock cyberwar exercises. While the annual NATO-led exercise may be fiction, the threat emanating from Russia is very real. 
  <p class="updated_time"> 03:21 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/germany-ukraine-weapons.html">Calls to Give Heavy Weapons to Ukraine Divide Germany’s Government</a> NYT: Weeks after Chancellor Olaf Scholz announced a paradigm shift in military strategy, his government is struggling to balance domestic politics, how to help Ukraine and anxiety over provoking Russia. that 
+ <p class="updated_time"> 02:36 PM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/frances-macron-and-le-pen-clash-during-presidential-debate-11650496045">France's Macron and Le Pen Clash During Presidential Debate</a> WSJ: The French president said the far-right leader is close to Moscow; she said he is out of touch with voters’ economic struggles. 
  <p class="updated_time"> 01:29 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html">Barack Obama Takes On a New Role: Fighting Disinformation</a> NYT: The former president has embarked on a campaign to warn that the scourge of online falsehoods has eroded the foundations of democracy. 
  <p class="updated_time"> 01:10 PM CT, Apr. 20 </p> 
@@ -200,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:02 AM CT, Apr. 21 </p> 
+ <a href="https://www.npr.org/2022/04/21/1093974276/drug-overdose-deaths-opioid-fentanyl">Drug overdose deaths are at a record high. Here's what the White House plans to do</a> NPR: Harm reduction is one of four policies the Biden administration says must be immediately implemented in order to address the record high number of overdose deaths. 
  <p class="updated_time"> 05:52 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/ruth-bader-ginsburg-auction.html">Justice Ruth Bader Ginsburg’s Personal Mementos Up for Auction</a> NYT: More than 150 items that belonged to the Supreme Court justice, who died in 2020, will be sold. Proceeds will benefit the Washington National Opera, which she frequently attended. 
  <p class="updated_time"> 04:01 AM CT, Apr. 21 </p> 
@@ -324,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/04/19/politics/student-loan-debt-forgiveness-repayment/index.html">Biden's latest student debt move will bring 3.6 million borrowers closer to loan forgiveness</a> CNN: The Department of Education is making more changes to the federal student loan system that will help bring millions of borrowers -- some of whom may have previously been in forbearance -- closer to receiving debt forgiveness. 
  <p class="updated_time"> 12:32 PM CT, Apr. 19 </p> 
  <a href="https://www.npr.org/2022/04/19/1093566982/florida-mask-mandate-judge-kathryn-mizelle">What to know about Judge Kathryn Mizelle, who struck down the travel mask mandate</a> NPR: Mizelle was nominated by former President Donald Trump in 2020 at age 33. The American Bar Association said at the time she wasn't qualified because she hadn't been practicing law for long enough. 
- <p class="updated_time"> 12:01 PM CT, Apr. 19 </p> 
- <a href="https://www.npr.org/2022/04/19/1093543895/delta-mask-mandate-seasonal">Delta updates its statement calling COVID a 'seasonal virus' after a backlash </a> NPR: The airline changed its announcement about the end of the federal mask mandate after a firestorm of criticism from public health experts who called it inaccurate and misleading. 
  <p class="updated_time"> 11:41 AM CT, Apr. 19 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:31 AM CT, Apr. 19 </p> 
