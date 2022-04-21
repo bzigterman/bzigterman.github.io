@@ -480,7 +480,6 @@ Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](htt
 Definitions from the CDC: 
 
 - Pct. Tests Detecting SARS-CoV-2: The proportion of tests with SARS-CoV-2 detected, meaning a cycle threshold (Ct) value <40 for RT-qPCR or at least 3 positive droplets/partitions for RT-ddPCR, by sewershed over the 15-day window defined by 'datestart' and 'dateend'. The detection proportion is the percent calculated by dividing the 15-day rolling sum of SARS-CoV-2 detections by the 15-day rolling sum of the number of tests for each sewershed and multiplying by 100.
-- 15-Day Pct. Change: The percent change in SARS-CoV-2 RNA levels over the 15-day interval defined by 'datestart' and 'dateend'. Percent change is calculated as the modeled change over the interval, based on linear regression of log-transformed SARS-CoV-2 levels. SARS-CoV-2 RNA levels are wastewater concentrations that have been normalized for wastewater composition.
 - Percentile: This metric shows whether SARS-CoV-2 virus levels at a site are currently higher or lower than past historical levels at the same site. 0% means levels are the lowest they have been at the site; 100% means levels are the highest they have been at the site. Public health officials watch for increasing levels of the virus in wastewater over time and use this data to help make public health decisions.
 
 ## Illinois
