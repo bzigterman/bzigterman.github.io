@@ -9,46 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:09 PM CT, Apr. 21 </p> 
+ <p class="updated_time"> 12:49 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/04/21/world/ukraine-russia-war-news">Live Updates: Putin Orders Blockade of Mariupol Plant; U.S. Announces More Aid for Ukraine</a> NYT: Vladimir Putin said it was “impractical” to attack the Mariupol factory where Ukrainian forces were holding out, seeking to claim a victory and avoid more Russian losses. As Russia gained some ground in the east, President Biden announced more assistance for Ukraine. 
+ <p class="updated_time"> 12:31 PM CT, Apr. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61179262?at_medium=RSS&at_campaign=KARANGA">Florida lawmakers have stripped Disney of special tax status</a> BBC: Governor Ron DeSantis has taken aim at Disney over its opposition to the so-called 'Don't Say Gay' bill. 
  <p class="updated_time"> 12:07 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60774098?at_medium=RSS&at_campaign=KARANGA">What weapons has the US given Ukraine - and how much do they help?</a> BBC: President Biden has announced a new $800m assistance package that includes ammunition and drones. 
+ <p class="updated_time"> 11:52 AM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039">Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant</a> WSJ: Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant 
  <p class="updated_time"> 11:47 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/afghanistan-mosque-bombing.html">Explosion at Afghan Mosque Kills at Least 10</a> NYT: The blast in Mazar-i-Sharif, one of Afghanistan’s economic hubs, was the latest in a series of attacks on one of its religious minorities and was claimed by an ISIS affiliate. 
- <p class="updated_time"> 11:32 AM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039">Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant</a> WSJ: Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant 
  <p class="updated_time"> 11:22 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/americas/covid-masks-who.html">People Should Keep Wearing Masks in Public, W.H.O. Officials Say</a> NYT: Masks have been proven to be highly effective at reducing coronavirus transmission when used properly, according to the W.H.O. 
- <p class="updated_time"> 11:08 AM CT, Apr. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61179262?at_medium=RSS&at_campaign=KARANGA">Florida lawmakers move to strip Disney of special tax status</a> BBC: Governor Ron DeSantis has taken aim at Disney over its opposition to the so-called 'Don't Say Gay' bill. 
  <p class="updated_time"> 11:07 AM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61174991?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 'Blood and fear everywhere' after deadly IS blast</a> BBC: Dozens of people are dead or hurt in four blasts in Afghanistan, two claimed by the Islamic State. 
  <p class="updated_time"> 10:56 AM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1093836438/belgium-zeebrugge-lottery-winner-algerian-undocumented">He won the lottery. Now the clock is ticking to prove his identity and claim it</a> NPR: Winning over a quarter million dollars was easy for an undocumented 28-year-old Algerian man in Belgium. Getting his winnings has proven to be a challenge spanning two continents. 
- <p class="updated_time"> 10:32 AM CT, Apr. 21 </p> 
+ <p class="updated_time"> 10:52 AM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/biden-says-u-s-to-send-ukraine-800-million-in-military-aid-11650550623">U.S. to Send Ukraine $800 Million in Military Aid</a> WSJ: U.S. to Send Ukraine $800 Million in Military Aid 
  <p class="updated_time"> 10:21 AM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61178869?at_medium=RSS&at_campaign=KARANGA">Rare tiny Brontë book could set $1.25m sale record</a> BBC: The world's first tennis guide and Amy Winehouse's library are also on offer at the NY Antiquarian Book Fair. 
+ <p class="updated_time"> 09:52 AM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/israeli-palestinian-clashes-intensify-as-more-jews-visit-jerusalems-contested-holy-site-11650550463">Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site</a> WSJ: Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site 
  <p class="updated_time"> 09:49 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html">Barack Obama Takes On a New Role: Fighting Disinformation</a> NYT: The former president has embarked on a campaign to warn that the scourge of online falsehoods has eroded the foundations of democracy. 
- <p class="updated_time"> 09:32 AM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/israeli-palestinian-clashes-intensify-as-more-jews-visit-jerusalems-contested-holy-site-11650550463">Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site</a> WSJ: Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site 
  <p class="updated_time"> 09:17 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008312362/mariupol-azovstal-ukraine-war.html">What Mariupol’s Steel Fortress Looked Like 3 Months Ago</a> NYT: On Jan. 20, The New York Times captured drone video over the sprawling Azovstal Steel and Iron works complex in Mariupol, Ukraine. Now, it is a battered fortress for the last Ukrainian defenders and their families battling Russian forces. 
  <p class="updated_time"> 09:13 AM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61175675?at_medium=RSS&at_campaign=KARANGA">Mariupol steelworks: 'Block it so a fly can't pass,' Putin orders</a> BBC: President Putin drops plans to storm the Azovstal plant where fighters and civilians are sheltering. 
  <p class="updated_time"> 09:03 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/article/france-presidential-election-2022.html">France’s Presidential Election 2022: Your Runoff Questions, Answered</a> NYT: President Emmanuel Macron will face Marine Le Pen, the far-right leader, in the runoff on Sunday. The outcome will be crucial for France and reverberate globally. 
+ <p class="updated_time"> 08:52 AM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-lockdown-leads-to-logistics-disarray-with-quarantined-truckers-piled-up-containers-11650537303">Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers</a> WSJ: Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers 
  <p class="updated_time"> 08:46 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/south-korea-gay-sex-military.html">S​outh Korea’s Supreme Court ​Issues Landmark Ruling on Gay Sex</a> NYT: ​The court said that the military should not punish consensual sex acts that had taken place in a nonmilitary setting. 
- <p class="updated_time"> 08:32 AM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/shanghai-lockdown-leads-to-logistics-disarray-with-quarantined-truckers-piled-up-containers-11650537303">Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers</a> WSJ: Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers 
  <p class="updated_time"> 08:14 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/macron-le-pen-france-election-debate.html">Macron and Le Pen Trade Punches in Pivotal French Election Debate</a> NYT: He attacked the far-right leader as a Putin stooge. She hit back at him as the president of division and contempt. 
+ <p class="updated_time"> 07:52 AM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/refugees-from-russia-ukraine-mingle-in-mexican-border-town-11650542401">Refugees from Russia, Ukraine Mingle in Mexican Border Town</a> WSJ: Refugees from Russia, Ukraine Mingle in Mexican Border Town 
  <p class="updated_time"> 07:38 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/mariupol-azovstal-steel-mill.html">See Mariupol’s Azovstal Steel-Mill Fortress Before the War, and Now</a> NYT: Before-and-after images show the scale of destruction that the Ukrainian port city has suffered after nearly two months of near constant bombardment by Russian artillery, mortars and airstrikes. 
- <p class="updated_time"> 07:32 AM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/refugees-from-russia-ukraine-mingle-in-mexican-border-town-11650542401">Refugees from Russia, Ukraine Mingle in Mexican Border Town</a> WSJ: Refugees from Russia, Ukraine Mingle in Mexican Border Town 
  <p class="updated_time"> 07:14 AM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1093614930/how-the-late-jazz-great-charles-mingus-is-being-remembered-100-years-later">How the late jazz great Charles Mingus is being remembered 100 years later</a> NPR: Regarded as one of the most important figures in jazz, tributes are planned across the world to honor the legacy of bassist, bandleader and pioneer Charles Mingus. 
  <p class="updated_time"> 06:40 AM CT, Apr. 21 </p> 
@@ -194,6 +194,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:46 PM CT, Apr. 21 </p> 
+ <a href="https://www.nytimes.com/2022/04/21/business/fed-chair-powell-calls-a-faster-pace-of-rate-increases-appropriate.html">Fed Chair Powell Calls a Faster Pace of Rate Increases ‘Appropriate’</a> NYT: The Federal Reserve chair spoke at a moment of high inflation and economic uncertainty amid the war in Ukraine. 
+ <p class="updated_time"> 12:32 PM CT, Apr. 21 </p> 
+ <a href="https://www.politico.com/news/2022/04/21/cdc-kindergarten-vaccination-rates-drop-00026921">CDC: Kindergarten vaccination rates drop across the U.S.</a> Politico: Coverage for three state-required vaccines for public and private schools fell by about 1 percent to approximately 94 percent, with most states reporting a drop. 
  <p class="updated_time"> 12:12 PM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1093753927/the-murdochs-documentary-family-succession-fox-news">In the Murdoch family succession battle, Fox News and democracy hang in the balance</a> NPR: The new CNN+ docuseries The Murdochs looks inside the Fox media empire and the family's behind-the-scenes in-fighting. Journalist Jim Rutenberg says the real-life drama rivals HBO's Succession. 
  <p class="updated_time"> 11:36 AM CT, Apr. 21 </p> 
@@ -262,8 +266,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/20/1093860768/amid-high-gas-prices-n-j-weighs-lifting-its-self-service-gas-ban">Amid high gas prices, N.J. weighs lifting its self-service gas ban</a> NPR: Gas station owners argue the move would help ease a labor shortage and bring prices down, but drivers and politicians are wary of changing the practice. 
  <p class="updated_time"> 05:05 PM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/dnc-hauled-in-16-8m-in-march-00026623">DNC hauled in $16.8M in March</a> Politico: Fundraising has been a bright spot for the party as it prepares for a difficult 2022 midterm election. 
- <p class="updated_time"> 04:45 PM CT, Apr. 20 </p> 
- <a href="https://www.politico.com/news/2022/04/20/trump-campaign-is-ordered-to-pay-1-3-million-for-omarosa-legal-fees-00026727">Trump campaign is ordered to pay $1.3 million for Omarosa legal fees</a> Politico: The arbitrator's award came after a three-year battle between the former president and his onetime aide over a nondisclosure agreement. 
  <p class="updated_time"> 04:07 PM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/disney-desantis-special-tax-district-00026672">Why Disney World has a self-governing district — and why DeSantis wants to end it</a> Politico: DeSantis and Disney have been feuding for months over Florida’s “Parental Rights in Education” bill. 
  <p class="updated_time"> 04:05 PM CT, Apr. 20 </p> 
@@ -304,8 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/20/1093529387/as-biden-plans-to-lift-title-42-democrats-want-details-on-how-hell-address-influ">As Biden plans to lift Title 42, Democrats want details on how he'll address influx</a> NPR: Some key Senate Democrats and candidates have come out this week and expressed reservations about the Biden administration's decision to lift Title 42 by May 23. 
  <p class="updated_time"> 03:30 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/abigail-spanberger-virginia-policing-message-00026211">'That was a terrible idea': Spanberger wants a policing reboot for House Dems</a> Politico: Democrats see Rep. Abigail Spanberger's district as competitive but winnable in a tough midterm fight. She thinks addressing GOP attacks on crime head on is key to keeping it. 
- <p class="updated_time"> 07:33 PM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-mask-mandate-appeal.html">Biden Administration May Appeal Mask Mandate Ruling</a> NYT: If the C.D.C. decides there is a public health basis for trying to reinstate and extend the mask mandate, the Justice Department will swiftly file an appeal. 
  <p class="updated_time"> 06:43 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/us/politics/trump-jan-6-insurrection-act.html">Fearing a Trump Repeat, Jan. 6 Panel Considers Changes to Insurrection Act</a> NYT: The 1807 law allows a president to deploy American troops inside the country to put down a rebellion. Lawmakers fear it could be abused by a future president trying to stoke one. 
  <p class="updated_time"> 04:02 PM CT, Apr. 19 </p> 
