@@ -17,7 +17,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61174351?at_medium=RSS&at_campaign=KARANGA">Sophie Wilmes: Belgian foreign minister resigns to care for sick husband</a> BBC: Sophie Wilmes will temporarily resign to care for her husband who has been diagnosed with brain cancer. 
  <p class="updated_time"> 05:10 AM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61147709?at_medium=RSS&at_campaign=KARANGA">French election: Far-right Le Pen's long quest for power in France</a> BBC: Marine Le Pen has taken France's National Rally to within touching distance of the presidency. 
- <p class="updated_time"> 04:48 AM CT, Apr. 21 </p> 
+ <p class="updated_time"> 05:00 AM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
  <p class="updated_time"> 04:30 AM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61166601?at_medium=RSS&at_campaign=KARANGA">French election: Macron and Le Pen clash in TV presidential debate</a> BBC: Emmanuel Macron and Marine Le Pen take part in an animated contest ahead of Sunday's run-off vote. 
@@ -31,18 +31,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/21/1093712314/navalny-documentary-putin-russia-review">'Navalny' documentary spotlights the Russian who dared to take on Putin</a> NPR: Daniel Roher's film about Russian dissident Alexei Navalny offers intimate, sometimes amazing access to the bravery — and human cost — of opposing a despot. 
  <p class="updated_time"> 04:00 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/uruena-spain-book-hub.html">This Spanish Village Has More Booksellers Than School Pupils</a> NYT: Urueña, in northwestern Spain, has fought depopulation by reinventing itself as a literary hub. The full-time population is still just 100, but there are 11 shops selling books. 
- <p class="updated_time"> 03:48 AM CT, Apr. 21 </p> 
+ <p class="updated_time"> 04:00 AM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/putin-oversees-test-launch-of-ballistic-missile-he-says-will-make-enemies-think-twice-11650482365">Putin Oversees Test-Launch of Ballistic Missile He Says Will Make Enemies ‘Think Twice’</a> WSJ: Putin Oversees Test-Launch of Ballistic Missile He Says Will Make Enemies ‘Think Twice’ 
  <p class="updated_time"> 03:12 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/avdiivka-ukraine-russia.html">Residents in Avdiivka, Ukraine Go Underground as Russia’s Assault on East Ramps Up</a> NYT: As Ukrainian forces dig into trenches and residents flee into basements, Russia’s artillery attacks have intensified. “They can’t get through the front lines and so they’re starting simply to destroy the city,” a Ukrainian official said. 
- <p class="updated_time"> 02:48 AM CT, Apr. 21 </p> 
+ <p class="updated_time"> 03:00 AM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/yellen-powell-foreign-counterparts-walk-out-in-protest-of-russia-11650483524">Yellen, Powell, Foreign Counterparts Walk Out in Protest of Russia</a> WSJ: Yellen, Powell, Foreign Counterparts Walk Out in Protest of Russia 
  <p class="updated_time"> 02:03 AM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1093977767/relentless-attacks-pound-last-defenders-holed-up-in-mariupol">Putin tries to claim Mariupol win but won't storm holdout</a> NPR: Russian President Vladimir Putin tried to claim victory in the strategic port of Mariupol on Thursday, even as he ordered his troops not to storm the last pocket of Ukrainian resistance. 
+ <p class="updated_time"> 02:00 AM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/frances-macron-and-le-pen-clash-during-presidential-debate-11650496045">France’s Macron and Le Pen Clash During Presidential Debate</a> WSJ: France’s Macron and Le Pen Clash During Presidential Debate 
  <p class="updated_time"> 01:51 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/india-kangaroos-smuggling-west-bengal.html">Kangaroos in India? Experts See Evidence of a Smuggling Trade</a> NYT: The animals are the latest exotic fauna to be smuggled into the country, possibly to be used as pets. Draft legislation would close loopholes in the roaring wildlife trade. 
- <p class="updated_time"> 01:48 AM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/frances-macron-and-le-pen-clash-during-presidential-debate-11650496045">France’s Macron and Le Pen Clash During Presidential Debate</a> WSJ: France’s Macron and Le Pen Clash During Presidential Debate 
  <p class="updated_time"> 01:39 AM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/china-air-crash-report-gives-few-new-clues-on-boeing-737s-fatal-nosedive-11650466466">China Air Crash Report Gives Few New Clues on Boeing 737's Fatal Nosedive</a> WSJ: Preliminary findings show no problems found with the plane or flying conditions, while data from the black boxes is still being retrieved. 
  <p class="updated_time"> 01:33 AM CT, Apr. 21 </p> 
@@ -200,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:52 AM CT, Apr. 21 </p> 
+ <a href="https://www.nytimes.com/2022/04/21/us/ruth-bader-ginsburg-auction.html">Justice Ruth Bader Ginsburg’s Personal Mementos Up for Auction</a> NYT: More than 150 items that belonged to the Supreme Court justice, who died in 2020, will be sold. Proceeds will benefit the Washington National Opera, which she frequently attended. 
  <p class="updated_time"> 04:01 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/democrats-democracy-election.html">Democrats Fear for Democracy. Why Aren’t They Running on It in 2022?</a> NYT: Republicans are far more energized about the issues of elections and voting, powered by a former president and many base voters who believe the 2020 contest was illegitimate. 
  <p class="updated_time"> 04:01 AM CT, Apr. 21 </p> 
@@ -213,7 +215,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/cdc-strategy-masks-biden-administration-00026709">CDC strategy on masks could haunt the country</a> Politico: The Biden administration says it wants to help the millions of Americans suffering from long Covid. Critics say its approach is inconsistent with that goal. 
  <p class="updated_time"> 03:30 AM CT, Apr. 21 </p> 
- <a href="https://www.politico.com/news/2022/04/21/senate-democrats-midterm-election-biden-00026781">Vulnerable Senate Dems flee Biden drag</a> Politico: The president's popularity is dangerously low in the four states where Democratic incumbents are most endangered. 
+ <a href="https://www.politico.com/news/2022/04/21/senate-democrats-midterm-election-biden-00026781">Biden's dismal poll numbers imperil Dem Senate control</a> Politico: The president's popularity is dangerously low in the four states where Democratic incumbents are most endangered. 
  <p class="updated_time"> 02:00 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/biden-pandemic-relief-democrats.html">If Biden’s Plan Is Like a ‘New Deal,’ Why Don’t Voters Care?</a> NYT: The $1.9 trillion pandemic-relief law unleashed a massive wave of spending on local construction projects and programs. Democratic candidates aren’t getting much credit. 
  <p class="updated_time"> 11:34 PM CT, Apr. 20 </p> 
@@ -223,7 +225,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:30 PM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/israel-gaza-hamas-rockets-airstrikes-00026813">Israel, Gaza militants trade fire as tensions mount</a> Politico: Tensions have surged in recent weeks after a series of deadly attacks inside Israel, followed by military operations in the occupied West Bank. 
  <p class="updated_time"> 09:08 PM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/us/politics/trump-hotel-sale-washington.html">Trump Hotel Sale in Washington Will End an Era</a> NYT: The $375 million sale of a Washington hotel that served as an influence and access bazaar for lawmakers, administration officials and other Trump allies is slated to be finalized this month. 
+ <a href="https://www.nytimes.com/2022/04/20/us/politics/trump-hotel-sale-washington.html">Checking Out: Trump Hotel Sale Will End an Era</a> NYT: The $375 million sale of a Washington hotel that served as an influence and access bazaar for lawmakers, administration officials and other Trump allies is slated to be finalized this month. 
  <p class="updated_time"> 09:05 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/us/politics/cdc-transportation-mask-mandate.html">Justice Department Appeals to Reinstate Transportation Mask Mandate</a> NYT: The Centers for Disease Control and Prevention ruled the mandate “necessary,” but an appeal risks creating a precedent that could permanently constrain the agency. 
  <p class="updated_time"> 06:35 PM CT, Apr. 20 </p> 
@@ -296,8 +298,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/20/1093698123/online-conspiracy-theories-are-bleeding-into-all-parts-of-georgias-politics">A mental health bill in Georgia shows how conspiracy theories are affecting politics</a> NPR: A bipartisan mental health reform bill in Georgia was briefly sidelined after far-right Republican groups spread disinformation about its purpose, including false claims of decriminalizing pedophilia. 
  <p class="updated_time"> 04:01 AM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093529387/as-biden-plans-to-lift-title-42-democrats-want-details-on-how-hell-address-influ">As Biden plans to lift Title 42, Democrats want details on how he'll address influx</a> NPR: Some key Senate Democrats and candidates have come out this week and expressed reservations about the Biden administration's decision to lift Title 42 by May 23. 
- <p class="updated_time"> 04:00 AM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-mask-mandate-transportation.html">The Biden administration says it may appeal a ruling that voided a mask mandate on public transport.</a> NYT: If the C.D.C. decides there is a public health basis for trying to reinstate and extend the mask mandate, the Justice Department will swiftly file an appeal. 
  <p class="updated_time"> 03:30 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/abigail-spanberger-virginia-policing-message-00026211">'That was a terrible idea': Spanberger wants a policing reboot for House Dems</a> Politico: Democrats see Rep. Abigail Spanberger's district as competitive but winnable in a tough midterm fight. She thinks addressing GOP attacks on crime head on is key to keeping it. 
  <p class="updated_time"> 07:33 PM CT, Apr. 19 </p> 
