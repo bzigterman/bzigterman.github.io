@@ -9,30 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:19 PM CT, Apr. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/21/world/ukraine-russia-war-news">Live Ukraine Updates: Calling Off Steel Plant Assault, Putin Prematurely Claims Victory in Mariupol</a> NYT: Russia’s president said he would blockade rather than storm the Mariupol factory where Ukrainian forces were holding out, but a soldier in the plant said shelling continued. President Biden said the U.S. was sending more weapons to help Kyiv. 
+ <p class="updated_time"> 06:19 PM CT, Apr. 21 </p> 
+ <a href="https://www.nytimes.com/2022/04/21/world/europe/russia-moskva-warship-disinformation.html">With Moskva Warship Sunken, Russia Disinformation Faces a Test</a> NYT: Families of missing crew members say the Russian authorities are giving them the runaround after a flagship sank last week in the Black Sea. 
+ <p class="updated_time"> 06:09 PM CT, Apr. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/business-60912789?at_medium=RSS&at_campaign=KARANGA">Why Argentina is embracing cryptocurrency</a> BBC: The nation that has seen economic trauma is open to the possibility of alternative money like Bitcoin. 
+ <p class="updated_time"> 06:02 PM CT, Apr. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61178311?at_medium=RSS&at_campaign=KARANGA">Have we seen peak Netflix?</a> BBC: The streaming giant is losing subscribers amid talk of adverts and a password sharing ban so have we seen peak Netflix? 
  <p class="updated_time"> 05:29 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61183062?at_medium=RSS&at_campaign=KARANGA">Mariupol steelworks: 'We have wounded and dead inside the bunkers'</a> BBC: One of the last defenders in Mariupol tells the BBC conditions are dire but they won't surrender. 
+ <p class="updated_time"> 05:27 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039">Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant</a> WSJ: Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant 
  <p class="updated_time"> 05:26 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/border-control-politics.html">Why ‘Border Control’ Politics Is More About Control Than Borders</a> NYT: A quirk of political psychology helps explain the British government’s plan to send some asylum seekers to Rwanda. 
- <p class="updated_time"> 05:23 PM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/04/21/world/ukraine-russia-war-news">Live Ukraine Updates: Calling Off Steel Plant Assault, Putin Prematurely Claims Victory in Mariupol</a> NYT: Russia’s president said he would blockade rather than storm the Mariupol factory where Ukrainian forces were holding out, but a soldier in the plant said shelling continued. President Biden said the U.S. was sending more weapons to help Kyiv. 
  <p class="updated_time"> 05:14 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/putin-mariupol-steel-plant.html">Putin Claims Victory in Mariupol, Calling Off Steel Plant Assault</a> NYT: With casualties mounting and progress slow in his war on Ukraine, Vladimir V. Putin is eager to present it to the Russian people as a success. 
  <p class="updated_time"> 05:14 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008312362/mariupol-azovstal-ukraine-war.html">What Mariupol’s Steel Fortress Looked Like 3 Months Ago</a> NYT: On Jan. 20, The New York Times captured drone video over the sprawling Azovstal Steel and Iron works complex in Mariupol, Ukraine. Now, it is a battered fortress for the last Ukrainian defenders. 
- <p class="updated_time"> 05:05 PM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039">Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant</a> WSJ: Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant 
  <p class="updated_time"> 05:01 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/americas/covid-masks-who.html">People Should Keep Wearing Masks in Public, W.H.O. Officials Say</a> NYT: Masks have been proven to be highly effective at reducing coronavirus transmission when used properly, according to the W.H.O. 
  <p class="updated_time"> 04:44 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/russia-ukraine-military-biden.html">Next Phase of War Will Be Pivotal for Russia and Ukraine, U.S. Says</a> NYT: Reflecting a renewed sense of urgency, President Biden announced that the United States would send the Ukrainians $800 million more in military aid. 
  <p class="updated_time"> 04:43 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61179734?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Putin backs off storming of Azovstal as Mariupol 'mass graves' found</a> BBC: Russia's president says the Azovstal steel plant must be sealed off, and satellite images suggest mass graves. 
+ <p class="updated_time"> 04:27 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/for-civilians-trapped-in-mariupol-fleeing-can-be-as-risky-as-staying-11650566495">For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying</a> WSJ: For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying 
  <p class="updated_time"> 04:13 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/france-election-biden.html">U.S. Braces for Potential French Election Shockwave</a> NYT: An upset victory by the right-wing nationalist Marine Le Pen in the presidential election on Sunday could scramble President Biden’s foreign policy. 
- <p class="updated_time"> 04:09 PM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/world/europe/russia-moskva-warship-disinformation.html">With Moskva Warship Sunken, Russia Disinformation Faces a Test</a> NYT: Families of missing crew members say the Russian authorities are giving them the runaround after a flagship sank last week in the Black Sea. 
- <p class="updated_time"> 04:05 PM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/for-civilians-trapped-in-mariupol-fleeing-can-be-as-risky-as-staying-11650566495">For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying</a> WSJ: For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying 
  <p class="updated_time"> 03:53 PM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1094003595/russia-ukraine-war-what-happened-today-april-21">Russia-Ukraine war: What happened today (April 21)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:44 PM CT, Apr. 21 </p> 
@@ -45,6 +49,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61174692?at_medium=RSS&at_campaign=KARANGA">Juan Orlando Hernández: Honduran ex-leader extradited to US</a> BBC: Former President Juan Orlando Hernández is accused of involvement in a drug trafficking ring. 
  <p class="updated_time"> 03:28 PM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1094119495/meet-the-the-lottery-winner-who-has-less-than-a-year-to-prove-his-identity">Meet the the lottery winner who has less than a year to prove his identity</a> NPR: Winning over a quarter of a million dollars was easy for an undocumented 28 year-old Algerian man in Belgium. Actually getting his winnings has proven to be a challenge. 
+ <p class="updated_time"> 03:27 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/biden-says-u-s-to-send-ukraine-800-million-in-military-aid-11650550623">U.S. to Send Ukraine $800 Million in Military Aid</a> WSJ: U.S. to Send Ukraine $800 Million in Military Aid 
  <p class="updated_time"> 03:19 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/mikhail-vasenkov-dead.html">Mikhail Vasenkov Dies at 79; His Spy Ring Inspired ‘The Americans’</a> NYT: He and his wife were among 10 Soviet sleeper agents who blended into American society before being exposed and deported in 2010. The TV series sprung from the episode. 
  <p class="updated_time"> 03:17 PM CT, Apr. 21 </p> 
@@ -54,31 +60,29 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:17 PM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1094119460/dozens-still-missing-in-wake-of-catastrophic-south-africa-floods">Dozens still missing in wake of catastrophic South Africa floods</a> NPR: NPR's Ari Shapiro talks with John Eligon of The New York Times about the catastrophic flooding in Durban, South Africa. 
  <p class="updated_time"> 03:17 PM CT, Apr. 21 </p> 
- <a href="https://www.npr.org/2022/04/21/1094119453/ronan-farrow-on-investigating-the-world-s-most-notorious-spyware-company-nso-gro">Ronan Farrow on investigating the world's most notorious spyware company: NSO Group</a> NPR: NPR's Daniel Estrin speaks with Ronan Farrow about his New Yorker investigation into Israeli spyware company NSO Group, and his interviews with some employees have quit. 
+ <a href="https://www.npr.org/2022/04/21/1094119453/ronan-farrow-on-investigating-the-world-s-most-notorious-spyware-company-nso-gro">Ronan Farrow on investigating the world's most notorious spyware company: NSO Group</a> NPR: NPR's Daniel Estrin speaks with Ronan Farrow about his New Yorker investigation into Israeli spyware company NSO Group, and his interviews with an employee who quit. 
  <p class="updated_time"> 03:17 PM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1094119446/russia-is-strangling-one-of-ukraines-most-important-ports">Russia is strangling one of Ukraine's most important ports</a> NPR: Odesa's port was a lifeline for Ukraine and a key player in global supply chains. Now, Russia's invasion and a blockade in the Black Sea have the city in a stranglehold. 
  <p class="updated_time"> 03:09 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/us-weapons-ukraine.html">What to Know About the Weapons Being Sent to Ukraine</a> NYT: The Biden administration is sending dozens of howitzers and 120 drones in the latest $800 million package of military aid. 
- <p class="updated_time"> 03:05 PM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/biden-says-u-s-to-send-ukraine-800-million-in-military-aid-11650550623">U.S. to Send Ukraine $800 Million in Military Aid</a> WSJ: U.S. to Send Ukraine $800 Million in Military Aid 
  <p class="updated_time"> 02:28 PM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/anastasia-thinks-about-leaving-russia-heres-what-her-life-looks-like-today">Anastasia thinks about leaving Russia. Here's what her life looks like today</a> NPR: Anastasia has considered leaving her home in Moscow as Russia's invasion of Ukraine continues. She feels trapped, cut off from the world, and unable to speak out. 
+ <p class="updated_time"> 02:27 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/israeli-palestinian-clashes-intensify-as-more-jews-visit-jerusalems-contested-holy-site-11650550463">Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site</a> WSJ: Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site 
  <p class="updated_time"> 02:26 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-60774098?at_medium=RSS&at_campaign=KARANGA">What weapons has the US given Ukraine - and how much do they help?</a> BBC: President Biden has announced a new $800m assistance package that includes ammunition and drones. 
  <p class="updated_time"> 02:15 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/biden-ukraine-aid.html">Biden Announces $800 Million in Military Aid and Questions Russia’s Hold of Mariupol</a> NYT: President Biden said President Vladimir V. Putin of Russia would “never succeed in dominating” Ukraine. 
- <p class="updated_time"> 02:05 PM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/israeli-palestinian-clashes-intensify-as-more-jews-visit-jerusalems-contested-holy-site-11650550463">Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site</a> WSJ: Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site 
  <p class="updated_time"> 01:43 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61183056?at_medium=RSS&at_campaign=KARANGA">Mariupol: Satellite images suggest mass graves dug near besieged city</a> BBC: The satellite images appear to show more than 200 graves, as Ukraine accuses Russian troops of mass killings. 
+ <p class="updated_time"> 01:27 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-lockdown-leads-to-logistics-disarray-with-quarantined-truckers-piled-up-containers-11650537303">Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers</a> WSJ: Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers 
  <p class="updated_time"> 01:20 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/macron-le-pen-france-election-debate.html">Macron and Le Pen Trade Punches in Pivotal French Election Debate</a> NYT: He attacked the far-right leader as a Putin stooge. She hit back at him as the president of division and contempt. 
  <p class="updated_time"> 01:17 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61179262?at_medium=RSS&at_campaign=KARANGA">Florida lawmakers have stripped Disney of special tax status</a> BBC: Governor Ron DeSantis has taken aim at Disney over its opposition to the so-called Don't Say Gay bill. 
  <p class="updated_time"> 01:16 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/us-vaccine-international-land-borders.html">The U.S. is extending a vaccine rule for international travelers at its land borders.</a> NYT: Unlike air travelers entering the United States, land and ferry travelers will still not have to show a recent negative coronavirus test to cross the border. 
- <p class="updated_time"> 01:05 PM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/shanghai-lockdown-leads-to-logistics-disarray-with-quarantined-truckers-piled-up-containers-11650537303">Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers</a> WSJ: Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers 
  <p class="updated_time"> 01:04 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/afghanistan-mosque-bombing.html">Explosion at Afghan Mosque Kills at Least 10</a> NYT: The blast in Mazar-i-Sharif, one of Afghanistan’s economic hubs, was the latest in a series of attacks on one of its religious minorities and was claimed by an ISIS affiliate. 
  <p class="updated_time"> 01:03 PM CT, Apr. 21 </p> 
@@ -149,8 +153,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61160210?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Whole communities relocated in anti-Covid drive</a> BBC: One community faces relocation to quarantine facilities more than 100 miles (160km) away. 
  <p class="updated_time"> 05:52 PM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61151314?at_medium=RSS&at_campaign=KARANGA">The young rebels fighting for democracy in Myanmar</a> BBC: The BBC gained rare access to Myanmar's jungle training camps where protesters are turned into soldiers. 
- <p class="updated_time"> 04:47 PM CT, Apr. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61168837?at_medium=RSS&at_campaign=KARANGA">Johnny Depp faces questioning in case against ex-wife Amber Heard</a> BBC: The actor testified about his volatile marriage to Amber Heard ahead of cross examination by her lawyers. 
  <p class="updated_time"> 04:24 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/asia/covid-shanghai-china-deaths.html">Shanghai’s Low Covid Death Toll Revives Questions About China’s Numbers</a> NYT: The country’s largest city has recorded just 17 Covid deaths, despite surging cases. How China defines a Covid death may be part of the reason. 
  <p class="updated_time"> 03:47 PM CT, Apr. 20 </p> 
@@ -183,16 +185,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/19/world/russia-ukraine-cease-fire-mariupol.html">Russia Rejects Calls for a Cease-Fire to Enable Evacuations From Ukraine</a> NYT: Civilians, including children, remain trapped in the eastern Ukraine region of Donbas and in the devastated port city of Mariupol. 
  <p class="updated_time"> 07:43 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/us-ukraine-weaponry.html">The U.S. Races to Arm Ukraine With Heavier, More Advanced Weaponry</a> NYT: Washington and its allies are scouring Central Europe and the world to get Ukraine the weapons it needs for the next phase of the war. 
- <p class="updated_time"> 06:26 PM CT, Apr. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61153875?at_medium=RSS&at_campaign=KARANGA">Emmanuel Macron: From political outsider to president</a> BBC: Emmanuel Macron was dismissed as an outsider five years ago. Now, he faces a new challenge: his own record. 
  <p class="updated_time"> 06:18 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/ukraine-russia-donbas-offensive.html">Russia Embarks on a New, More Cautious Phase of Ukraine War</a> NYT: Despite the Kremlin’s new methodical approach focusing on eastern Ukraine, the Russian military still faces some of the same problems that hampered it after the war began. 
  <p class="updated_time"> 06:03 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61147690?at_medium=RSS&at_campaign=KARANGA">The Zomato and Swiggy riders risking their lives to deliver food in 10 minutes</a> BBC: The BBC followed overworked delivery riders as they raced against time to take food to customers. 
  <p class="updated_time"> 06:01 PM CT, Apr. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61150865?at_medium=RSS&at_campaign=KARANGA">Climate change, albinism and me</a> BBC: Coco shares her experience of living with albinism in Nigeria. 
- <p class="updated_time"> 05:34 PM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/world/europe/france-cartoons-presidential-election.html">In French Election, Cartoonists Play a High-Profile Role</a> NYT: Cartoonists play a high-profile role in France’s political discourse, and they have been busy drawing the presidential candidates as the race approaches its end. 
  <p class="updated_time"> 02:59 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/boris-johnson-parliament-apologies.html">Johnson Is All Apologies Before Parliament After ‘Partygate’ Fine</a> NYT: Though opposition politicians called him out, only one member of his own Conservative party called on him to resign. 
  <p class="updated_time"> 12:04 PM CT, Apr. 19 </p> 
@@ -206,6 +204,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 06:00 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/rhode-island-house-race-democrats.html">Sarah Morgenthau’s Tricky House Race in Rhode Island</a> NYT: Running for office in a state where you haven’t lived is a delicate art. 
+ <p class="updated_time"> 05:57 PM CT, Apr. 21 </p> 
+ <a href="https://www.politico.com/news/2022/04/21/kolfage-trump-wall-guilty-00027080">Leader of effort to fund Trump's border wall pleads guilty to fraud</a> Politico: The case once involved Steve Bannon, who has since been pardoned. 
  <p class="updated_time"> 05:54 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/technology/obama-stanford-tech-regulation.html">Obama Calls for More Oversight of Social Media in Speech at Stanford</a> NYT: Tech companies’ power has “turbocharged” political division and requires government scrutiny, the former president said in a speech at Stanford University. 
  <p class="updated_time"> 05:06 PM CT, Apr. 21 </p> 
@@ -223,7 +223,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:25 PM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/supreme-court-nazis-stolen-painting-00027034">Supreme Court revives fight over painting stolen by Nazis</a> Politico: The Camille Pissarro masterpiece is now on display in a Spanish museum. 
  <p class="updated_time"> 04:13 PM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/us/politics/france-election-biden.html">U.S. Braces for Potential French Election Shockwave</a> NYT: An upset victory by the right-wing nationalist Marine Le Pen in the presidential election on Sunday could scramble President Biden’s foreign policy. 
+ <a href="https://www.nytimes.com/2022/04/21/us/politics/france-election-biden.html">US Braces for Potential French Election Shockwave</a> NYT: An upset victory by the right-wing nationalist Marine Le Pen in the presidential election on Sunday could scramble President Biden’s foreign policy. 
  <p class="updated_time"> 03:53 PM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1094003595/russia-ukraine-war-what-happened-today-april-21">Russia-Ukraine war: What happened today (April 21)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:52 PM CT, Apr. 21 </p> 
@@ -283,7 +283,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:16 AM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1093977656/morning-news-brief">News brief: Mariupol resistance, drug overdose deaths, mask mandate appeal</a> NPR: Russia says it controls most of the Ukrainian port city of Mariupol. The White House has a plan to reduce drug overdose deaths. The Justice Department will appeal the mask ruling by a federal judge. 
  <p class="updated_time"> 04:01 AM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/us/politics/democrats-democracy-election.html">Democrats Fear for Democracy. Why Aren’t They Running on It in 2022?</a> NYT: Republicans are far more energized about the issues of elections and voting, powered by a former president and many base voters who believe the 2020 contest was illegitimate. 
+ <a href="https://www.nytimes.com/2022/04/21/us/politics/democrats-democracy-election.html">Why Democracy Isn’t a Key 2022 Issue for Democrats</a> NYT: Republicans are far more energized about the issues of elections and voting, powered by a former president and many base voters who believe the 2020 contest was illegitimate. 
  <p class="updated_time"> 04:00 AM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1093771578/pennsylvania-republican-senate-primary-mccormick-oz-trump">Trump's endorsement of Oz reframes the Pennsylvania GOP Senate contest</a> NPR: For the state's open U.S. Senate seat, the two top Republican contenders are David McCormick and Mehmet Oz. And, as in so many GOP races this year, there's another major player — Donald Trump. 
  <p class="updated_time"> 03:31 AM CT, Apr. 21 </p> 
@@ -301,7 +301,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:29 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/us/politics/justice-dept-parchman-mississippi-prisons.html">Justice Dept. Inquiry Finds ‘Systemic Failures’ at Mississippi Prison</a> NYT: A report singled out solitary confinement and enforced segregation as particularly harmful practices that contributed to the poor mental and physical health of prisoners. 
  <p class="updated_time"> 06:14 PM CT, Apr. 20 </p> 
- <a href="https://www.politico.com/news/2022/04/20/capitol-police-backtracks-on-airplane-threat-after-ordering-evacuation-00026765">Capitol Police backtrack on airplane threat after ordering evacuation</a> Politico: An Army plane was circling the area around the Capitol, part of a parachute stunt at a Nationals  game. 
+ <a href="https://www.politico.com/news/2022/04/20/capitol-police-backtracks-on-airplane-threat-after-ordering-evacuation-00026765">Capitol Police backtracks on airplane threat after ordering evacuation</a> Politico: An Army plane was circling the area around the Capitol, part of a parachute stunt at Wednesday night’s Nationals baseball game. 
  <p class="updated_time"> 06:00 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/us/politics/alex-jones-jan-6-interview.html">Alex Jones Reaches Out to Justice Dept. About Jan. 6 Interview</a> NYT: The effort by the Trump ally to get an immunity deal is the latest sign of progress in the investigation, which recently brought on a well-regarded prosecutor. 
  <p class="updated_time"> 06:00 PM CT, Apr. 20 </p> 
