@@ -9,10 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:38 PM CT, Apr. 21 </p> 
+ <p class="updated_time"> 04:27 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/04/21/world/ukraine-russia-war-news">Live Updates: Putin Calls Off Assault on Mariupol Plant; Biden Sends More Aid to Ukraine</a> NYT: Russia’s president said he would blockade rather than storm the Mariupol factory where Ukrainian forces were holding out, but a soldier in the plant said shelling continued. As Russia made minor gains in eastern Ukraine, President Biden said the U.S. was sending more weapons to help Kyiv. 
- <p class="updated_time"> 03:35 PM CT, Apr. 21 </p> 
+ <p class="updated_time"> 04:24 PM CT, Apr. 21 </p> 
+ <a href="https://www.nytimes.com/2022/04/21/us/politics/russia-ukraine-military-biden.html">Next Phase of War Will Be Pivotal for Russia and Ukraine, U.S. Says</a> NYT: Reflecting a renewed sense of urgency, President Biden announced that the United States would send the Ukrainians $800 million more in military aid. 
+ <p class="updated_time"> 04:13 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/france-election-biden.html">U.S. Braces for Potential French Election Shockwave</a> NYT: An upset victory by the right-wing nationalist Marine Le Pen in the presidential election on Sunday could scramble President Biden’s foreign policy. 
+ <p class="updated_time"> 04:09 PM CT, Apr. 21 </p> 
+ <a href="https://www.nytimes.com/2022/04/21/world/europe/russia-moskva-warship-disinformation.html">With Moskva Warship Sunken, Russia Disinformation Faces a Test</a> NYT: Families of missing crew members say the Russian authorities are giving them the runaround after a flagship sank last week in the Black Sea. 
+ <p class="updated_time"> 03:53 PM CT, Apr. 21 </p> 
+ <a href="https://www.npr.org/2022/04/21/1094003595/russia-ukraine-war-what-happened-today-april-21">Russia-Ukraine war: What happened today (April 21)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:44 PM CT, Apr. 21 </p> 
+ <a href="https://www.nytimes.com/2022/04/19/world/europe/letizia-battaglia-dead.html">Letizia Battaglia, Photographer of Mafia Brutality, Dies at 87</a> NYT: Her images of victims on the streets of Palermo were stamped on the nation’s consciousness as she challenged the grip mobsters had on her native Sicily. 
+ <p class="updated_time"> 03:41 PM CT, Apr. 21 </p> 
+ <a href="https://www.npr.org/2022/04/21/1094119516/1-of-the-multiple-blasts-in-afghanistan-hit-worshippers-in-a-mosque">1 of the multiple blasts in Afghanistan hit worshippers in a mosque</a> NPR: Bomb attacks in Afghanistan have shattered a relative lull in violence that had held since the Taliban seized power eight months ago. 
+ <p class="updated_time"> 03:41 PM CT, Apr. 21 </p> 
+ <a href="https://www.npr.org/2022/04/21/1094119502/a-palestinian-mans-request-to-leave-gaza-for-surgery-was-a-matter-of-life-and-de">A Palestinian man's request to leave Gaza for surgery was a matter of life and death</a> NPR: A Palestinian man in Gaza gets a glimmer of hope for treatment for his heart condition when Israel grants him a permit to travel to seek care in the West Bank. 
+ <p class="updated_time"> 03:34 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039">Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant</a> WSJ: Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant 
  <p class="updated_time"> 03:28 PM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1094119495/meet-the-the-lottery-winner-who-has-less-than-a-year-to-prove-his-identity">Meet the the lottery winner who has less than a year to prove his identity</a> NPR: Winning over a quarter of a million dollars was easy for an undocumented 28 year-old Algerian man in Belgium. Actually getting his winnings has proven to be a challenge. 
  <p class="updated_time"> 03:19 PM CT, Apr. 21 </p> 
@@ -29,10 +43,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/21/1094119446/russia-is-strangling-one-of-ukraines-most-important-ports">Russia is strangling one of Ukraine's most important ports</a> NPR: Odesa's port was a lifeline for Ukraine and a key player in global supply chains. Now, Russia's invasion and a blockade in the Black Sea have the city in a stranglehold. 
  <p class="updated_time"> 03:09 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/us-weapons-ukraine.html">What to Know About the Weapons Being Sent to Ukraine</a> NYT: The Biden administration is sending dozens of howitzers and 120 drones in the latest $800 million package of military aid. 
- <p class="updated_time"> 02:54 PM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/world/europe/russia-moskva-warship-disinformation.html">With Moskva Warship Sunken, Russia Disinformation Faces a Test</a> NYT: Families of missing crew members say the Russian authorities are giving them the runaround after a flagship sank last week in the Black Sea. 
- <p class="updated_time"> 02:40 PM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039">Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant</a> WSJ: Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant 
+ <p class="updated_time"> 02:34 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/for-civilians-trapped-in-mariupol-fleeing-can-be-as-risky-as-staying-11650566495">For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying</a> WSJ: For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying 
  <p class="updated_time"> 02:28 PM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/anastasia-thinks-about-leaving-russia-heres-what-her-life-looks-like-today">Anastasia thinks about leaving Russia. Here's what her life looks like today</a> NPR: Anastasia has considered leaving her home in Moscow as Russia's invasion of Ukraine continues. She feels trapped, cut off from the world, and unable to speak out. 
  <p class="updated_time"> 02:26 PM CT, Apr. 21 </p> 
@@ -41,7 +53,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/world/europe/biden-ukraine-aid.html">Biden Announces $800 Million in Military Aid and Questions Russia’s Hold of Mariupol</a> NYT: President Biden said President Vladimir V. Putin of Russia would “never succeed in dominating” Ukraine. 
  <p class="updated_time"> 01:43 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61183056?at_medium=RSS&at_campaign=KARANGA">Mariupol: Satellite images suggest mass graves dug near besieged city</a> BBC: The satellite images appear to show more than 200 graves, as Ukraine accuses Russian troops of mass killings. 
- <p class="updated_time"> 01:40 PM CT, Apr. 21 </p> 
+ <p class="updated_time"> 01:34 PM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/biden-says-u-s-to-send-ukraine-800-million-in-military-aid-11650550623">U.S. to Send Ukraine $800 Million in Military Aid</a> WSJ: U.S. to Send Ukraine $800 Million in Military Aid 
  <p class="updated_time"> 01:20 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/macron-le-pen-france-election-debate.html">Macron and Le Pen Trade Punches in Pivotal French Election Debate</a> NYT: He attacked the far-right leader as a Putin stooge. She hit back at him as the president of division and contempt. 
@@ -53,9 +65,9 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/world/asia/afghanistan-mosque-bombing.html">Explosion at Afghan Mosque Kills at Least 10</a> NYT: The blast in Mazar-i-Sharif, one of Afghanistan’s economic hubs, was the latest in a series of attacks on one of its religious minorities and was claimed by an ISIS affiliate. 
  <p class="updated_time"> 01:03 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/middleeast/israel-gaza-rocket-fire.html">Gazan Militants and Israeli Air Force Exchange Fire</a> NYT: The flare-up followed a rise in tensions over holy places in Jerusalem and a deadly wave of Arab attacks in Israel, answered by a lethal Israeli crackdown in the occupied West Bank. 
- <p class="updated_time"> 12:40 PM CT, Apr. 21 </p> 
+ <p class="updated_time"> 12:34 PM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/israeli-palestinian-clashes-intensify-as-more-jews-visit-jerusalems-contested-holy-site-11650550463">Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site</a> WSJ: Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site 
- <p class="updated_time"> 11:40 AM CT, Apr. 21 </p> 
+ <p class="updated_time"> 11:34 AM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/shanghai-lockdown-leads-to-logistics-disarray-with-quarantined-truckers-piled-up-containers-11650537303">Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers</a> WSJ: Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers 
  <p class="updated_time"> 11:22 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/americas/covid-masks-who.html">People Should Keep Wearing Masks in Public, W.H.O. Officials Say</a> NYT: Masks have been proven to be highly effective at reducing coronavirus transmission when used properly, according to the W.H.O. 
@@ -63,14 +75,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61174991?at_medium=RSS&at_campaign=KARANGA">Afghanistan: 'Blood and fear everywhere' after deadly IS blast</a> BBC: Dozens of people are dead or hurt in four blasts in Afghanistan, two claimed by the Islamic State. 
  <p class="updated_time"> 10:56 AM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1093836438/belgium-zeebrugge-lottery-winner-algerian-undocumented">He won the lottery. Now the clock is ticking to prove his identity and claim it</a> NPR: Winning over a quarter million dollars was easy for an undocumented 28-year-old Algerian man in Belgium. Getting his winnings has proven to be a challenge spanning two continents. 
- <p class="updated_time"> 10:40 AM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/refugees-from-russia-ukraine-mingle-in-mexican-border-town-11650542401">Refugees from Russia, Ukraine Mingle in Mexican Border Town</a> WSJ: Refugees from Russia, Ukraine Mingle in Mexican Border Town 
  <p class="updated_time"> 10:21 AM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61178869?at_medium=RSS&at_campaign=KARANGA">Rare tiny Brontë book could set $1.25m sale record</a> BBC: The world's first tennis guide and Amy Winehouse's library are also on offer at the NY Antiquarian Book Fair. 
  <p class="updated_time"> 09:49 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html">Barack Obama Takes On a New Role: Fighting Disinformation</a> NYT: The former president has embarked on a campaign to warn that the scourge of online falsehoods has eroded the foundations of democracy. 
- <p class="updated_time"> 09:41 AM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/for-civilians-trapped-in-mariupol-fleeing-can-be-as-risky-as-staying-11650566495">For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying</a> WSJ: Treacherous escapes from the besieged coastal city help to explain why so many civilians remained for so long: Staying could mean getting killed, but leaving also comes with high risks. 
  <p class="updated_time"> 09:17 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008312362/mariupol-azovstal-ukraine-war.html">What Mariupol’s Steel Fortress Looked Like 3 Months Ago</a> NYT: On Jan. 20, The New York Times captured drone video over the sprawling Azovstal Steel and Iron works complex in Mariupol, Ukraine. Now, it is a battered fortress for the last Ukrainian defenders and their families battling Russian forces. 
  <p class="updated_time"> 09:13 AM CT, Apr. 21 </p> 
@@ -96,21 +104,15 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:30 AM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1093711322/russia-ukraine-war-refugees-ukrainian-women-poland">Polish women band together to give Ukrainian women car rides to safe refuge</a> NPR: Spooked by reports that traffickers are waiting at the Ukraine-Poland border, a Polish woman started an all-women car service to drive Ukrainian refugee women and children to homes or shelters. 
  <p class="updated_time"> 04:21 AM CT, Apr. 21 </p> 
- <a href="https://www.npr.org/2022/04/21/1093975738/ex-honduran-president-hernandez-will-be-extradited-to-the-u-s-on-drugs-charges">Ex-Honduran President Hernández will be extradited to the U.S. on drugs charges</a> NPR: A plane from the U.S. Drug Enforcement Administration is scheduled to arrive in Honduras early Thursday to take former President Juan Orlando Hernández to the U.S. to face drug and weapons charges. 
+ <a href="https://www.npr.org/2022/04/21/1093975738/ex-honduran-president-hernandez-will-be-extradited-to-the-u-s-on-drugs-charges">Ex-Honduran President Hernández is extradited to the U.S. on drug charges</a> NPR: A handcuffed Juan Orlando Hernández boarded an airplane with agents from the U.S. Drug Enforcement Administration to face legal proceedings in New York City. 
  <p class="updated_time"> 04:16 AM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1093982821/russia-mariupol-steel-plant">Putin orders troops not to storm Mariupol's last holdout </a> NPR: The Russian president called it a victory, but Ukrainian soldiers maintain control of a sprawling steel plant. Putin said a blockade of the plant will save the lives of Russian fighters. 
- <p class="updated_time"> 04:01 AM CT, Apr. 21 </p> 
- <a href="https://www.npr.org/2022/04/21/1093712314/navalny-documentary-putin-russia-review">'Navalny' documentary spotlights the Russian who dared to take on Putin</a> NPR: Daniel Roher's film about Russian dissident Alexei Navalny offers intimate, sometimes amazing access to the bravery — and human cost — of opposing a despot. 
  <p class="updated_time"> 04:00 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/uruena-spain-book-hub.html">This Spanish Village Has More Booksellers Than School Pupils</a> NYT: Urueña, in northwestern Spain, has fought depopulation by reinventing itself as a literary hub. The full-time population is still just 100, but there are 11 shops selling books. 
  <p class="updated_time"> 03:12 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/avdiivka-ukraine-russia.html">Residents in Avdiivka, Ukraine Go Underground as Russia’s Assault on East Ramps Up</a> NYT: As Ukrainian forces dig into trenches and residents flee into basements, Russia’s artillery attacks have intensified. “They can’t get through the front lines and so they’re starting simply to destroy the city,” a Ukrainian official said. 
- <p class="updated_time"> 02:03 AM CT, Apr. 21 </p> 
- <a href="https://www.npr.org/2022/04/21/1093977767/relentless-attacks-pound-last-defenders-holed-up-in-mariupol">Putin tries to claim Mariupol win but won't storm holdout</a> NPR: Russian President Vladimir Putin tried to claim victory in the strategic port of Mariupol on Thursday, even as he ordered his troops not to storm the last pocket of Ukrainian resistance. 
  <p class="updated_time"> 01:51 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/india-kangaroos-smuggling-west-bengal.html">Kangaroos in India? Experts See Evidence of a Smuggling Trade</a> NYT: The animals are the latest exotic fauna to be smuggled into the country, possibly to be used as pets. Draft legislation would close loopholes in the roaring wildlife trade. 
- <p class="updated_time"> 01:33 AM CT, Apr. 21 </p> 
- <a href="https://www.npr.org/2022/04/21/1093976603/macron-attacks-le-pen-on-russia-muslim-headscarf-ban-pledge">Macron attacks Le Pen on Russia, Muslim headscarf ban pledge</a> NPR: French President Emmanuel Macron tore into his far-right challenger Marine Le Pen in a debate for her ties to Russia and wanting to strip Muslim women of their right to cover their heads in public. 
  <p class="updated_time"> 11:43 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/americas/rosario-ibarra-dead.html">Rosario Ibarra de Piedra, 95, Dies; Fought for Mexico’s ‘Disappeared’</a> NYT: When her son vanished in 1975, she began a crusade on behalf of him and hundreds of others and became a voice of moral authority on the left. 
  <p class="updated_time"> 10:39 PM CT, Apr. 20 </p> 
@@ -183,10 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61150865?at_medium=RSS&at_campaign=KARANGA">Climate change, albinism and me</a> BBC: Coco shares her experience of living with albinism in Nigeria. 
  <p class="updated_time"> 05:34 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/france-cartoons-presidential-election.html">In French Election, Cartoonists Play a High-Profile Role</a> NYT: Cartoonists play a high-profile role in France’s political discourse, and they have been busy drawing the presidential candidates as the race approaches its end. 
- <p class="updated_time"> 04:17 PM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/world/middleeast/ukraine-memes-russia-fundraising.html">How Memes Are Driving Ukraine’s Fundraising Efforts</a> NYT: A campaign using internet memes and merchandise has rallied international public support for Ukraine in its war with Russia. 
- <p class="updated_time"> 03:30 PM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/world/europe/letizia-battaglia-dead.html">Letizia Battaglia, Photographer of Mafia Brutality, Dies at 87</a> NYT: Her images of victims on the streets of Palermo were stamped on the nation’s consciousness as she challenged the grip mobsters had on her native Sicily. 
  <p class="updated_time"> 02:59 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/boris-johnson-parliament-apologies.html">Johnson Is All Apologies Before Parliament After ‘Partygate’ Fine</a> NYT: Though opposition politicians called him out, only one member of his own Conservative party called on him to resign. 
  <p class="updated_time"> 12:04 PM CT, Apr. 19 </p> 
@@ -200,10 +198,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:35 PM CT, Apr. 21 </p> 
+ <p class="updated_time"> 04:24 PM CT, Apr. 21 </p> 
+ <a href="https://www.nytimes.com/2022/04/21/us/politics/russia-ukraine-military-biden.html">Next Phase of War Will Be Pivotal for Russia and Ukraine, U.S. Says</a> NYT: Reflecting a renewed sense of urgency, President Biden announced that the United States would send the Ukrainians $800 million more in military aid. 
+ <p class="updated_time"> 04:13 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/france-election-biden.html">U.S. Braces for Potential French Election Shockwave</a> NYT: An upset victory by the right-wing nationalist Marine Le Pen in the presidential election on Sunday could scramble President Biden’s foreign policy. 
+ <p class="updated_time"> 03:53 PM CT, Apr. 21 </p> 
+ <a href="https://www.npr.org/2022/04/21/1094003595/russia-ukraine-war-what-happened-today-april-21">Russia-Ukraine war: What happened today (April 21)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:52 PM CT, Apr. 21 </p> 
+ <a href="https://www.npr.org/2022/04/21/1094140486/kentucky-abortion-law-blocked">A federal judge temporarily blocks Kentucky's new abortion law</a> NPR: In a victory for abortion rights advocates, the judge blocked a law that effectively eliminated abortions in Kentucky after the state's two remaining clinics said they couldn't meet its requirements. 
+ <p class="updated_time"> 03:49 PM CT, Apr. 21 </p> 
+ <a href="https://www.npr.org/2022/04/21/1094050294/desantis-power-is-on-full-display-as-he-pushes-lawmakers-on-disney-and-redistric">DeSantis' power is on full display as he pushes lawmakers on Disney and redistricting</a> NPR: Florida Republican Gov. Ron DeSantis' flexed his power this week in Tallahassee as lawmakers okayed the governor's controversial redistricting plan and curbed Disney's special jurisdiction. 
  <p class="updated_time"> 03:17 PM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1094119439/a-look-at-the-white-house-s-new-initiative-for-more-clean-transit">The White House's new initiative aims to reduce carbon emissions from transportation</a> NPR: NPR's Ari Shapiro speaks with Gina McCarthy, White House National Climate Adviser, about a new initiative aimed at reducing carbon emissions and expanding clean transit. 
+ <p class="updated_time"> 03:15 PM CT, Apr. 21 </p> 
+ <a href="https://www.politico.com/news/2022/04/21/mystery-drone-air-force-new-weapon-ukraine-00026970">Mystery drone: How the Air Force fast-tracked a new weapon for Ukraine</a> Politico: The “Phoenix Ghost” drones were developed by California-based Aevex Aerospace. 
  <p class="updated_time"> 02:41 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/books/review/deborah-birx-silent-invasion-trump-covid.html">Review: ‘Silent Invasion’ Is Deborah Birx’s Story of Trump’s Covid Response</a> NYT: “Silent Invasion,” an insider’s look at the Trump administration’s pandemic policies, is earnest and exhaustive, our reviewer says. 
  <p class="updated_time"> 02:09 PM CT, Apr. 21 </p> 
@@ -238,8 +246,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/21/us-bans-russian-ships-ports-00026859">U.S. to ban Russian ships from ports</a> Politico: The move is more symbolic than impactful: Russian-flagged ships account for less than 1 percent of cargo that arrives at American ports. 
  <p class="updated_time"> 10:05 AM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1094008336/biden-announces-another-800-million-to-support-ukraine-military">Biden announces another $800 million to support Ukraine military</a> NPR: The president says Russia's attacks on the Donbas region require different types of weapons and military support from the U.S. He also plans to ask Congress for more funding next week. 
- <p class="updated_time"> 09:49 AM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html">Barack Obama Takes On a New Role: Fighting Disinformation</a> NYT: The former president has embarked on a campaign to warn that the scourge of online falsehoods has eroded the foundations of democracy. 
  <p class="updated_time"> 09:40 AM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/biden-security-assistance-economic-aid-ukraine-00026858">Biden announces $800M in security assistance, $500M in economic aid to Ukraine</a> Politico: The president also announced a new program to help streamline the processing of Ukrainian refugees, as well as a ban on Russian-affiliated ships from U.S. ports. 
  <p class="updated_time"> 09:30 AM CT, Apr. 21 </p> 
@@ -294,26 +300,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/20/1093744421/russia-ukraine-war-what-happened-today-april-20">Russia-Ukraine war: What happened today (April 20)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:40 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/us/politics/trump-omarosa-manigault-newman-nda-award.html">Trump Campaign Ordered to Pay $1.3 Million to Omarosa Manigault Newman in NDA case</a> NYT: An arbitrator found Mr. Trump’s campaign owes the former White House aide and “Apprentice” star for legal fees, after he sued her for writing a tell-all book. 
- <p class="updated_time"> 03:20 PM CT, Apr. 20 </p> 
- <a href="https://www.npr.org/2022/04/20/1093841615/pot-shop-robberies-are-fueling-calls-for-a-u-s-banking-bill">Pot shop robberies are fueling calls for a U.S. banking bill</a> NPR: A surge in robberies at licensed cannabis shops is helping fuel a renewed push for federal banking reforms that would make the cash-dependent stores a less appealing target. 
  <p class="updated_time"> 03:18 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/us/politics/morgan-ortagus-tennessee-primary.html">Trump-Backed Morgan Ortagus Is Removed From Tennessee House Primary</a> NYT: Morgan Ortagus, a former State Department spokeswoman who moved to Tennessee last year, was taken off the ballot, along with two others. 
  <p class="updated_time"> 02:14 PM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/hillary-clinton-moves-to-shut-down-trump-lawsuit-00026645">Hillary Clinton moves to shut down Trump lawsuit</a> Politico: Clinton lawyers contend the former president's sprawling racketeering case is meritless and ask that it be dismissed 'with prejudice.' 
  <p class="updated_time"> 01:14 PM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/jan-6-committee-trump-pence-call-00026597">Jan. 6 panel piecing together details of final Trump-Pence call</a> Politico: Several Donald Trump allies listened in from the Oval Office, but Mike Pence's side of the call remains elusive. 
- <p class="updated_time"> 12:47 PM CT, Apr. 20 </p> 
- <a href="https://www.politico.com/news/2022/04/20/yellen-g20-meeting-russian-minister-speaks-00026592">Yellen, other officials bolt G-20 meeting in protest against Russia</a> Politico: Treasury officials had said the secretary may skip some meetings if Russia attends. 
  <p class="updated_time"> 12:05 PM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/florida-congressional-map-gop-gains-00026588">Florida Senate approves new congressional map that cements GOP gains</a> Politico: The Senate approved the new map on a straight party-line 24-15 vote after a nearly two-hour debate during which Democrats assailed the proposed map as unconstitutional. 
- <p class="updated_time"> 11:10 AM CT, Apr. 20 </p> 
- <a href="https://www.npr.org/2022/04/20/1093729789/texas-border-bridge-order-cost-billions">A key Texas bridge lost $1 billion per week during governor's slowdown</a> NPR: Gov. Greg Abbott's rule imposing safety inspections at the border did "nothing to stop the flow of illegal immigration or illegal drugs," Texas Agriculture Commissioner Sid Miller told NPR. 
  <p class="updated_time"> 10:00 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/biden-russia-hacks-00026384">Biden’s options if Russia hacks U.S. infrastructure</a> Politico: President Biden would have to choose carefully in responding to a Russian cyberattack on the U.S. to avoid escalating the conflict. 
  <p class="updated_time"> 07:53 AM CT, Apr. 20 </p> 
  <a href="https://www.cnn.com/2022/04/19/politics/who-is-judge-kathryn-kimball-mizelle-biden-mask-mandate/index.html">Who is Judge Kathryn Kimball Mizelle, the federal judge who blocked Biden's travel mask mandate?</a> CNN: A little-known federal judge appointed by former President Donald Trump found herself in the national spotlight on Monday after striking down the Biden administration's public transportation mask mandate. 
- <p class="updated_time"> 04:10 AM CT, Apr. 20 </p> 
- <a href="https://www.npr.org/2022/04/20/1093698123/online-conspiracy-theories-are-bleeding-into-all-parts-of-georgias-politics">A mental health bill in Georgia shows how conspiracy theories are affecting politics</a> NPR: A bipartisan mental health reform bill in Georgia was briefly sidelined after far-right Republican groups spread disinformation about its purpose, including false claims of decriminalizing pedophilia. 
  <p class="updated_time"> 03:30 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/abigail-spanberger-virginia-policing-message-00026211">'That was a terrible idea': Spanberger wants a policing reboot for House Dems</a> Politico: Democrats see Rep. Abigail Spanberger's district as competitive but winnable in a tough midterm fight. She thinks addressing GOP attacks on crime head on is key to keeping it. 
  <p class="updated_time"> 02:37 PM CT, Apr. 19 </p> 
