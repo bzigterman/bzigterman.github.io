@@ -9,38 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:00 AM CT, Apr. 21 </p> 
+ <p class="updated_time"> 03:12 AM CT, Apr. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">What Happened on Day 56 of the War in Ukraine</a> NYT: Russia’s Defense Ministry said the weapon needed more testing before it could be deployed. Ukrainian officials said they were pushing back at Moscow’s offensive in the east. 
+ <p class="updated_time"> 03:12 AM CT, Apr. 21 </p> 
+ <a href="https://www.nytimes.com/2022/04/20/world/europe/avdiivka-ukraine-russia.html">Residents in Avdiivka, Ukraine Go Underground as Russia’s Assault on East Ramps Up</a> NYT: As Ukrainian forces dig into trenches and residents flee into basements, Russia’s artillery attacks have intensified. “They can’t get through the front lines and so they’re starting simply to destroy the city,” a Ukrainian official said. 
+ <p class="updated_time"> 03:03 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/middleeast/israel-gaza-rocket-fire.html">Gazan Militants and Israeli Air Force Exchange Fire</a> NYT: The flare-up followed a rise in tensions over holy places in Jerusalem and a deadly wave of Arab attacks in Israel, answered by a lethal Israeli crackdown in the occupied West Bank. 
+ <p class="updated_time"> 02:33 AM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
  <p class="updated_time"> 02:30 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/russian-spies-europe-ukraine.html">He Was a Penniless Donor to the Far Right. He Was Also a Russian Spy.</a> NYT: An investigation in Slovakia has exposed how Russian clandestine operations are trying to sow discord in Europe and create sympathy for Moscow over Ukraine. 
  <p class="updated_time"> 02:03 AM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/russian-offensive-bears-down-on-donbas-as-west-races-to-supply-ukraine-with-more-weapons-11650455031">Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons</a> WSJ: Russian Offensive Bears Down on Donbas as West Races to Supply Ukraine With More Weapons 
- <p class="updated_time"> 02:03 AM CT, Apr. 21 </p> 
- <a href="https://www.npr.org/2022/04/21/1093977767/relentless-attacks-pound-last-defenders-holed-up-in-mariupol">Some civilians leave as Russians tighten noose on Mariupol</a> NPR: Only four buses with civilians managed to escape from Mariupol after several unsuccessful attempts, Ukrainian officials said Thursday, as thousands more remained trapped under Russian attacks. 
+ <a href="https://www.npr.org/2022/04/21/1093977767/relentless-attacks-pound-last-defenders-holed-up-in-mariupol">Putin tells forces not to storm Ukraine holdout in Mariupol</a> NPR: Russian President Vladimir Putin ordered his forces not to storm the last remaining Ukrainian stronghold in the city of Mariupol, but instead to block it 'so that not even a fly comes through'. 
  <p class="updated_time"> 01:51 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/india-kangaroos-smuggling-west-bengal.html">Kangaroos in India? Experts See Evidence of a Smuggling Trade</a> NYT: The animals are the latest exotic fauna to be smuggled into the country, possibly to be used as pets. Draft legislation would close loopholes in the roaring wildlife trade. 
  <p class="updated_time"> 01:33 AM CT, Apr. 21 </p> 
- <a href="https://www.npr.org/2022/04/21/1093976603/macron-attacks-le-pen-on-russia-muslim-headscarf-ban-pledge">Macron attacks Le Pen on Russia, Muslim headscarf ban pledge</a> NPR: French President Emmanuel Macron tore into his far-right challenger Marine Le Pen in a debate for her ties to Russia and wanting to strip Muslim women of their right to cover their heads in public. 
- <p class="updated_time"> 01:28 AM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/04/20/world/ukraine-russia-war-donbas">What Happened on Day 56 of the War in Ukraine</a> NYT: Russia’s Defense Ministry said the weapon needed more testing before it could be deployed. Ukrainian officials said they were pushing back at Moscow’s offensive in the east. 
- <p class="updated_time"> 01:03 AM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/putin-oversees-test-launch-of-ballistic-missile-he-says-will-make-enemies-think-twice-11650482365">Putin Oversees Test-Launch of Ballistic Missile He Says Will Make Enemies ‘Think Twice’</a> WSJ: Putin Oversees Test-Launch of Ballistic Missile He Says Will Make Enemies ‘Think Twice’ 
- <p class="updated_time"> 12:03 AM CT, Apr. 21 </p> 
+ <p class="updated_time"> 01:33 AM CT, Apr. 21 </p> 
+ <a href="https://www.npr.org/2022/04/21/1093976603/macron-attacks-le-pen-on-russia-muslim-headscarf-ban-pledge">Macron attacks Le Pen on Russia, Muslim headscarf ban pledge</a> NPR: French President Emmanuel Macron tore into his far-right challenger Marine Le Pen in a debate for her ties to Russia and wanting to strip Muslim women of their right to cover their heads in public. 
+ <p class="updated_time"> 12:33 AM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/yellen-powell-foreign-counterparts-walk-out-in-protest-of-russia-11650483524">Yellen, Powell, Foreign Counterparts Walk Out in Protest of Russia</a> WSJ: Yellen, Powell, Foreign Counterparts Walk Out in Protest of Russia 
  <p class="updated_time"> 11:52 PM CT, Apr. 20 </p> 
- <a href="https://www.npr.org/2022/04/21/1093974782/israel-gaza-militants-trade-fire-as-mideast-tensions-mount">Israel, Gaza militants trade fire as Mideast tensions mount</a> NPR: Palestinian militants fired several rockets into southern Israel from the Gaza Strip early Thursday and Israeli aircraft hit militant targets in Gaza. 
+ <a href="https://www.npr.org/2022/04/21/1093974782/israel-gaza-militants-trade-fire-as-mideast-tensions-mount">Gaza violence intensifies as Jerusalem clashes resume</a> NPR: Israel's air force and Palestinian militants traded fire across the Gaza frontier early Thursday as clashes erupted again at Jerusalem's most sensitive holy site. 
  <p class="updated_time"> 11:43 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/americas/rosario-ibarra-dead.html">Rosario Ibarra de Piedra, 95, Dies; Fought for Mexico’s ‘Disappeared’</a> NYT: When her son vanished in 1975, she began a crusade on behalf of him and hundreds of others and became a voice of moral authority on the left. 
  <p class="updated_time"> 11:40 PM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61166601?at_medium=RSS&at_campaign=KARANGA">French election: Macron and Le Pen clash in TV presidential debate</a> BBC: Emmanuel Macron and Marine Le Pen take part in an animated contest ahead of Sunday's run-off vote. 
- <p class="updated_time"> 11:03 PM CT, Apr. 20 </p> 
+ <p class="updated_time"> 11:33 PM CT, Apr. 20 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-and-le-pen-clash-during-presidential-debate-11650496045">France’s Macron and Le Pen Clash During Presidential Debate</a> WSJ: France’s Macron and Le Pen Clash During Presidential Debate 
  <p class="updated_time"> 10:39 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/us/politics/russia-putin-missile-test.html">Russia’s Missile Test Fuels U.S. Fears of an Isolated Putin</a> NYT: American and foreign leaders have been weighing whether their success in making Russia a diplomatic pariah could push President Vladimir V. Putin to strike in new ways. 
+ <p class="updated_time"> 10:33 PM CT, Apr. 20 </p> 
+ <a href="https://www.wsj.com/articles/china-air-crash-report-gives-few-new-clues-on-boeing-737s-fatal-nosedive-11650466466">China Air Crash Report Gives Few New Clues on Boeing 737’s Fatal Nosedive</a> WSJ: China Air Crash Report Gives Few New Clues on Boeing 737’s Fatal Nosedive 
  <p class="updated_time"> 10:04 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/asia/hong-kong-star-ferry.html">Star Ferry, ‘Emblem of Hong Kong,’ May Sail Into History After 142 Years</a> NYT: Launched in 1880, the ferry has witnessed both Hong Kong’s transformation into a global financial hub and its history of protests. But battered by a pandemic, the service is struggling to survive. 
- <p class="updated_time"> 10:03 PM CT, Apr. 20 </p> 
- <a href="https://www.wsj.com/articles/china-air-crash-report-gives-few-new-clues-on-boeing-737s-fatal-nosedive-11650466466">China Air Crash Report Gives Few New Clues on Boeing 737’s Fatal Nosedive</a> WSJ: China Air Crash Report Gives Few New Clues on Boeing 737’s Fatal Nosedive 
  <p class="updated_time"> 09:22 PM CT, Apr. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61171449?at_medium=RSS&at_campaign=KARANGA">Scott Morrison: Australia PM faces backlash over 'blessed' disability remark</a> BBC: Scott Morrison has been criticised for saying he is "blessed" not to have children with disabilities. 
  <p class="updated_time"> 09:18 PM CT, Apr. 20 </p> 
@@ -95,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61170853?at_medium=RSS&at_campaign=KARANGA">Russia releases video of intercontinental ballistic missile launch</a> BBC: President Putin says the new Sarmat missile is food for thought for those who try to threaten Russia. 
  <p class="updated_time"> 03:45 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/treasury-secretary-janet-yellen-walked-out-of-a-g20-meeting-as-russias-finance-minister-spoke.html">Treasury Secretary Janet Yellen walked out of a G20 meeting as Russia’s finance minister spoke.</a> NYT: Several central bank governors and finance ministers protested Russia’s participation at the spring meetings of the I.M.F. and World Bank. 
- <p class="updated_time"> 03:43 PM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/europe/avdiivka-ukraine-russia.html">Residents in Avdiivka, Ukraine Go Underground as Russia’s Assault on East Ramps Up</a> NYT: As Ukrainian forces dig into trenches and residents flee into basements, Russia’s artillery attacks have intensified. “They can’t get through the front lines and so they’re starting simply to destroy the city,” a Ukrainian official said. 
  <p class="updated_time"> 03:37 PM CT, Apr. 20 </p> 
  <a href="https://www.npr.org/2022/04/20/1093846879/for-the-1st-time-in-years-the-u-s-and-cuba-will-sit-down-to-talk-migration">U.S. and Cuba to sit down to talk migration</a> NPR: Officials from the U.S. and Cuba are talking as migration from the island increases. 
  <p class="updated_time"> 03:37 PM CT, Apr. 20 </p> 
@@ -340,10 +340,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/19/capitol-police-vetting-practices-first-amendment-concerns-00025904">Capitol Police's new vetting practices raise 'First Amendment concerns,' whistleblowers' lawyer says</a> Politico: An attorney for Capitol Police employees wrote that intelligence analysts were “directed” to search the social media pages of congressional staff, event attendees and hosts. 
  <p class="updated_time"> 03:28 PM CT, Apr. 18 </p> 
  <a href="https://www.politico.com/news/2022/04/18/more-dem-senate-hopefuls-split-with-biden-on-border-00025925">More Dem Senate hopefuls split with Biden on border</a> Politico: Six more Senate candidates have joined growing Democratic calls for the administration to come up with a more detailed plan before revoking pandemic-era border restrictions. 
- <p class="updated_time"> 03:31 AM CT, Apr. 18 </p> 
- <a href="https://www.politico.com/news/2022/04/18/senate-mcconnell-super-pac-134-million-ads-00025642">McConnell-tied super PAC makes early $141M play for the Senate</a> Politico: The Senate Leadership Fund's record-breaking spring advertising reservations follow a $106 million commitment from its Democratic counterpart as the midterm battle heats up. 
- <p class="updated_time"> 03:30 AM CT, Apr. 18 </p> 
- <a href="https://www.politico.com/news/2022/04/18/anatoly-antonov-russia-ambassador-00025744">Lonely Anatoly: The Russian ambassador is Washington’s least popular man</a> Politico: Adrift and defiant, Anatoly Antonov walks the halls of an increasingly empty embassy, waiting for someone to call. 
 
 
 </details>
