@@ -9,32 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:55 AM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/21/world/ukraine-russia-war-news">What Happened on Day 57 of the War in Ukraine</a> NYT: President Vladimir V. Putin of Russia said he would blockade rather than storm the Mariupol factory where Ukrainian forces were holding out. But a soldier in the plant said shelling continued. 
  <p class="updated_time"> 12:27 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61137649?at_medium=RSS&at_campaign=KARANGA">Shanghai escalates Covid lockdown restrictions</a> BBC: The latest measures will include placing door alarms to prevent those infected from leaving. 
- <p class="updated_time"> 12:10 AM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/04/21/world/ukraine-russia-war-news">What Happened on Day 57 of the War in Ukraine</a> NYT: President Vladimir V. Putin of Russia said he would blockade rather than storm the Mariupol factory where Ukrainian forces were holding out. But a soldier in the plant said shelling continued. 
- <p class="updated_time"> 11:51 PM CT, Apr. 21 </p> 
+ <p class="updated_time"> 12:05 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039">Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant</a> WSJ: Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant 
  <p class="updated_time"> 11:39 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/asia/north-korea-kim-moon-letters.html">President Moon Exchanges Farewell Letters With Kim Jong-un</a> NYT: President Moon Jae-in, who is barred from seeking re-election after his five-year term, and the North’s leader had warm parting words amid a diplomatic stalemate. 
  <p class="updated_time"> 11:07 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/australia/tourists-return-australia-new-zealand.html">When Will the Tourists Be Back?</a> NYT: An industry weathering a long winter looks warily ahead. 
- <p class="updated_time"> 10:51 PM CT, Apr. 21 </p> 
+ <p class="updated_time"> 11:05 PM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/for-civilians-trapped-in-mariupol-fleeing-can-be-as-risky-as-staying-11650566495">For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying</a> WSJ: For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying 
+ <p class="updated_time"> 10:05 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/biden-says-u-s-to-send-ukraine-800-million-in-military-aid-11650550623">U.S. to Send Ukraine $800 Million in Military Aid</a> WSJ: U.S. to Send Ukraine $800 Million in Military Aid 
  <p class="updated_time"> 09:56 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/south-korea-gay-sex-military.html">S​outh Korea’s Supreme Court ​Issues Landmark Ruling on Gay Sex</a> NYT: ​The court said that the military should not punish consensual sex acts that had taken place in a nonmilitary setting. 
  <p class="updated_time"> 09:56 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/uruena-spain-book-hub.html">This Spanish Village Has More Booksellers Than School Pupils</a> NYT: Urueña, in northwestern Spain, has fought depopulation by reinventing itself as a literary hub. The full-time population is still just 100, but there are 11 shops selling books. 
- <p class="updated_time"> 09:51 PM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/biden-says-u-s-to-send-ukraine-800-million-in-military-aid-11650550623">U.S. to Send Ukraine $800 Million in Military Aid</a> WSJ: U.S. to Send Ukraine $800 Million in Military Aid 
  <p class="updated_time"> 09:48 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/putin-mariupol-steel-plant.html">Putin Claims Victory in Mariupol, Calling Off Steel Plant Assault</a> NYT: With casualties mounting and progress slow in his war on Ukraine, Vladimir V. Putin is eager to present it to the Russian people as a success. 
  <p class="updated_time"> 09:06 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/zelensky-ukraine-support.html">Zelensky Says Ukraine Needs $7 Billion in Support per Month</a> NYT: Ukraine has suffered $550 billion in losses from the war, President Volodymyr Zelensky told the World Bank on Thursday. 
+ <p class="updated_time"> 09:05 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/israeli-palestinian-clashes-intensify-as-more-jews-visit-jerusalems-contested-holy-site-11650550463">Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site</a> WSJ: Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site 
  <p class="updated_time"> 08:53 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/us-weapons-ukraine.html">What to Know About the Weapons Being Sent to Ukraine</a> NYT: The Biden administration is sending dozens of howitzers and 120 drones in the latest $800 million package of military aid. 
- <p class="updated_time"> 08:51 PM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/israeli-palestinian-clashes-intensify-as-more-jews-visit-jerusalems-contested-holy-site-11650550463">Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site</a> WSJ: Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site 
  <p class="updated_time"> 08:48 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61156743?at_medium=RSS&at_campaign=KARANGA">Johnny Depp and Amber Heard face off in court</a> BBC: Depp says she stubbed a cigarette on his face. The court sees a Depp text saying: "Lets burn Amber!!!" 
  <p class="updated_time"> 08:29 PM CT, Apr. 21 </p> 
@@ -43,7 +43,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61173922?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 15-21 April 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 08:07 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61178189?at_medium=RSS&at_campaign=KARANGA">Kardashians deny faking Roblox sex tape scene</a> BBC: Questions are being asked about a scene in The Kardashians, when Kim's son finds a sex tape ad on Roblox. 
- <p class="updated_time"> 07:51 PM CT, Apr. 21 </p> 
+ <p class="updated_time"> 08:05 PM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/shanghai-lockdown-leads-to-logistics-disarray-with-quarantined-truckers-piled-up-containers-11650537303">Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers</a> WSJ: Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers 
  <p class="updated_time"> 07:29 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/russia-ukraine-military-biden.html">Next Phase of War Will Be Pivotal for Russia and Ukraine, U.S. Says</a> NYT: Reflecting a renewed sense of urgency, President Biden announced that the United States would send the Ukrainians $800 million more in military aid. 
