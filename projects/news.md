@@ -9,48 +9,50 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:11 AM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/world/africa/aliou-cisse-soccer-senegal.html">Aliou Cissé Has Senegal Ready to Shine in World Cup</a> NYT: Aliou Cissé, one of the best of a new generation of African coaches, has reinvented Senegal’s national team and given the country a new sense of patriotism. His next goal: the World Cup. 
+ <p class="updated_time"> 09:08 AM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Live Updates: Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
+ <p class="updated_time"> 09:07 AM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Russia Pounds Ukrainian Towns Along Eastern Front as Commander Signals Broader Aims</a> NYT: After scaling back its publicly stated ambitions in Ukraine, a senior Russian military commander said on Friday that Moscow wanted complete control of all eastern and southern Ukraine. It was unclear if his comments reflected an official shift in Kremlin policy. 
+ <p class="updated_time"> 09:06 AM CT, Apr. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61191761?at_medium=RSS&at_campaign=KARANGA">Kenya's Mwai Kibaki: The hope and disappointment</a> BBC: Ex-Kenyan President Mwai Kibaki is remembered for ending the stranglehold of the former ruling party. 
+ <p class="updated_time"> 09:03 AM CT, Apr. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia 'plans to seize southern Ukraine'</a> BBC: A senior general says the aim is to open a route into a separatist region of Moldova, Transnistria. 
  <p class="updated_time"> 08:44 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61188963?at_medium=RSS&at_campaign=KARANGA">Mwai Kibaki: Kenya's first opposition president dies aged 90</a> BBC: Mwai Kibaki ended 40 years of one-party rule but his 2007 re-election sparked nationwide violence. 
- <p class="updated_time"> 08:42 AM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Live Updates: Jerusalem Calms After New Clashes Erupt Briefly</a> NYT: Quiet returned to the Old City after about an hour of clashes between Palestinians and Israeli police at the Aqsa Mosque compound, known to Jews as Temple Mount. 
- <p class="updated_time"> 08:33 AM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Russia Pounds Ukrainian Towns Along Eastern Front as Commander Signals Broader Aims</a> NYT: After scaling back its publicly stated ambitions in Ukraine, a senior Russian military commander said on Friday that Moscow wanted complete control of all eastern and southern Ukraine. It was unclear if his comments reflected an official shift in Kremlin policy. 
+ <p class="updated_time"> 08:15 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 08:07 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/ukraine-airplane-russia-war-mriya.html">One Ukrainian War Casualty: The World’s Largest Airplane</a> NYT: Mriya, the world’s largest aircraft, was destroyed in a pivotal battle at the start of the war. It was a beloved symbol for all of Ukraine but perhaps no one misses it more than its first pilot. 
- <p class="updated_time"> 07:57 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
- <p class="updated_time"> 06:57 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 07:15 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Russia Advances in Ukraine’s Donbas, Is Accused of Digging Mass Graves</a> WSJ: Russia Advances in Ukraine’s Donbas, Is Accused of Digging Mass Graves 
- <p class="updated_time"> 06:54 AM CT, Apr. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia 'plans to seize southern Ukraine'</a> BBC: A senior general says the aim is to open a route into a separatist region of Moldova, Transnistria. 
  <p class="updated_time"> 06:27 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/india-kangaroos-smuggling-west-bengal.html">Kangaroos in India? Experts See Evidence of a Smuggling Trade</a> NYT: The animals are the latest exotic fauna to be smuggled into the country, possibly to be used as pets. Draft legislation would close loopholes in the roaring wildlife trade. 
+ <p class="updated_time"> 06:15 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/france-issues-international-arrest-warrant-for-carlos-ghosn-11650578738">France Issues International Arrest Warrant for Ghosn</a> WSJ: France Issues International Arrest Warrant for Ghosn 
  <p class="updated_time"> 06:12 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61189745?at_medium=RSS&at_campaign=KARANGA">Imran Khan: Inside the huge rally in Lahore for Pakistan's ousted PM</a> BBC: The former prime minister's narrative of a US-led conspiracy to oust him is resonating with his supporters. 
  <p class="updated_time"> 06:11 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094106596/these-airlines-are-letting-passengers-banned-for-mask-violations-back-on-planes">These airlines are letting passengers banned for mask violations back on planes</a> NPR: The cases will be determined on a case-by-case basis, depending on the company. Here's a look at where each of the major U.S. airlines stands. 
- <p class="updated_time"> 05:57 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/france-issues-international-arrest-warrant-for-carlos-ghosn-11650578738">France Issues International Arrest Warrant for Ghosn</a> WSJ: France Issues International Arrest Warrant for Ghosn 
  <p class="updated_time"> 05:17 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61154373?at_medium=RSS&at_campaign=KARANGA">Jerusalem holy site clashes fuel fears of return to war</a> BBC: Tensions are high following several days of violence in and around the al-Aqsa Mosque compound. 
+ <p class="updated_time"> 05:15 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/story/inside-the-russian-siege-of-mariupol-b6ace25e">Inside the Russian Siege of Mariupol</a> WSJ: Inside the Russian Siege of Mariupol 
  <p class="updated_time"> 05:08 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188783?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The Russia I knew no longer exists - Steve Rosenberg</a> BBC: The BBC's Steve Rosenberg takes in the sites of Moscow apparently distorted by the war against Ukraine. 
- <p class="updated_time"> 04:57 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/story/inside-the-russian-siege-of-mariupol-b6ace25e">Inside the Russian Siege of Mariupol</a> WSJ: Inside the Russian Siege of Mariupol 
+ <p class="updated_time"> 04:15 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/china-wants-to-reopen-factories-after-covid-19-lockdowns-it-isnt-that-easy-11650630300">China Wants to Reopen Factories After Covid-19 Lockdowns. It Isn’t That Easy.</a> WSJ: China Wants to Reopen Factories After Covid-19 Lockdowns. It Isn’t That Easy. 
  <p class="updated_time"> 04:12 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1092591767/despite-u-s-sanctions-oil-traders-help-russian-oil-reach-global-markets">Despite U.S. sanctions, oil traders help Russian oil reach global markets</a> NPR: Russia is still making billions of dollars on oil exports since invading Ukraine. That crude is still flowing abroad thanks in part to a controversial group of oil traders. 
  <p class="updated_time"> 04:01 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1093356468/coachellas-music-fan-fave-do-lab-is-back">Coachella's music fan fave Do LaB is back!</a> NPR: Coachella is back after being shuttered by the pandemic. We take a look at the Do LaB stage, created by three brothers, as a renegade event. 
- <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/world/africa/aliou-cisse-soccer-senegal.html">Aliou Cissé Has Senegal Ready to Shine in World Cup</a> NYT: Aliou Cissé, one of the best of a new generation of African coaches, has reinvented Senegal’s national team and given the country a new sense of patriotism. His next goal: the World Cup. 
  <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
  <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html">As Europe Approves New Tech Laws, the U.S. Falls Further Behind</a> NYT: Federal privacy bills, security legislation and antitrust laws to address the power of the tech giants have all failed to advance in Congress, despite hand wringing and shows of bipartisan support. 
  <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/climate/climate-rally-biden.html">Climate Rallies Planned for White House and Across U.S. </a> NYT: ‘Fight for Our Future’ rallies are planned Saturday for Washington, Atlanta, Phoenix and elsewhere as supporters say time is running out for ambitious climate action. 
- <p class="updated_time"> 03:57 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/china-wants-to-reopen-factories-after-covid-19-lockdowns-it-isnt-that-easy-11650630300">China Wants to Reopen Factories After Covid-19 Lockdowns. It Isn’t That Easy.</a> WSJ: China Wants to Reopen Factories After Covid-19 Lockdowns. It Isn’t That Easy. 
  <p class="updated_time"> 03:41 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/germany-ukraine-weapons.html">Calls to Give Heavy Weapons to Ukraine Divide Germany’s Government</a> NYT: Weeks after Chancellor Olaf Scholz announced a paradigm shift in military strategy, his government is struggling to balance domestic politics, how to help Ukraine and anxiety over provoking Russia. 
  <p class="updated_time"> 03:28 AM CT, Apr. 22 </p> 
@@ -169,8 +171,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/20/us/politics/russia-putin-missile-test.html">Russia’s Missile Test Fuels U.S. Fears of an Isolated Putin</a> NYT: American and foreign leaders have been weighing whether their success in making Russia a diplomatic pariah could push President Vladimir V. Putin to strike in new ways. 
  <p class="updated_time"> 08:42 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/russia-icbm-ukraine-bombardment.html">Russia Tests ICBM and Pounds Ukraine’s Defenses Ahead of Major Assault</a> NYT: Vladimir Putin said Russia’s test-firing of its new I.C.B.M. sends a message, as his forces prepare for a broad offensive in eastern Ukraine. 
- <p class="updated_time"> 07:11 PM CT, Apr. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61161660?at_medium=RSS&at_campaign=KARANGA">Jacinda Ardern on China, Aukus and leadership</a> BBC: New Zealand's PM sat down with the BBC to discuss everything from China to her wedding. 
  <p class="updated_time"> 06:37 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/france-macron-unpopular.html">How Hated Is Macron? It Could Decide the French Election.</a> NYT: Given the choice between a president they suspect of despising ordinary people and a far-right candidate they detest, many French voters may stay home. 
  <p class="updated_time"> 05:52 PM CT, Apr. 20 </p> 
