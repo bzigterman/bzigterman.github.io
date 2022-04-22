@@ -9,36 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:23 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 01:38 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Russia Pounds Ukrainian Towns Along Eastern Front as Commander Signals Broader Aims</a> NYT: After scaling back its publicly stated ambitions in Ukraine, a senior Russian military commander said on Friday that Moscow wanted complete control of all eastern and southern Ukraine. It was unclear if his comments reflected an official shift in Kremlin policy. 
- <p class="updated_time"> 12:23 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 01:38 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
+ <p class="updated_time"> 01:36 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/world/europe/france-muslims-presidential-vote.html">Who Will France’s Muslims Choose for President?</a> NYT: In Sunday’s decisive runoff election, they have a distasteful choice between Macron and Le Pen. They won’t necessarily back Macron. 
+ <p class="updated_time"> 12:42 PM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 12:15 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia 'plans to seize southern Ukraine'</a> BBC: A senior general says the aim is to open a route into a separatist region of Moldova, Transnistria. 
- <p class="updated_time"> 12:10 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 11:59 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61191643?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Kunduz mosque attacked during Friday prayers</a> BBC: The deadly explosion comes amid a revival of violence claimed by Islamic State militants. 
  <p class="updated_time"> 11:55 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/asia/afghanistan-mosque-attack.html">Afghanistan Mosque Explosion Kills 33</a> NYT: The blast in Kunduz Province, in the north, was the latest in a series of attacks reminiscent of the past two decades of war. 
  <p class="updated_time"> 11:50 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/africa/mwai-kibaki-kenya-dead.html">Mwai Kibaki, Former President of Kenya, Dies at 90</a> NYT: He came to power promising to root out corruption and improve government transparency. But his tenure was blighted by widespread graft and a violent upheaval. 
+ <p class="updated_time"> 11:42 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
  <p class="updated_time"> 11:23 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61192594?at_medium=RSS&at_campaign=KARANGA">#JusticeForSheila: Kenyan anger after lesbian's murder</a> BBC: People in Kenyan are expressing their upset about LGBTQ discrimination after 
- <p class="updated_time"> 11:10 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
  <p class="updated_time"> 11:08 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/ukraine-airplane-russia-war-mriya.html">One Ukrainian War Casualty: The World’s Largest Airplane</a> NYT: Mriya, the world’s largest aircraft, was destroyed in a pivotal battle at the start of the war. It was a beloved symbol for all of Ukraine but perhaps no one misses it more than its first pilot. 
  <p class="updated_time"> 11:00 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61191111?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Inside Kyiv's trench defences</a> BBC: Kyiv's defence force remains on high alert, dug into trenches in case of the return of Russian troops. 
  <p class="updated_time"> 10:47 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094248885/why-frances-presidential-election-matters-far-beyond-its-borders">Why France's presidential election matters far beyond its borders </a> NPR: Sunday's contest has implications for the spread of far-right ideology, France's relationship with the rest of Europe and the country's posture toward Russia. 
+ <p class="updated_time"> 10:42 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/global-growth-outlook-ebbs-in-face-of-ukraine-war-china-slowdown-11650633870">Global Growth Outlook Ebbs Amid Ukraine War, China Slowdown</a> WSJ: Global Growth Outlook Ebbs Amid Ukraine War, China Slowdown 
  <p class="updated_time"> 10:38 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61192417?at_medium=RSS&at_campaign=KARANGA">Mike Tyson punched plane passenger 'after bottle thrown'</a> BBC: Video shows the former heavyweight boxer repeatedly punching a man in the head. 
  <p class="updated_time"> 10:16 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61192975?at_medium=RSS&at_campaign=KARANGA">Gun deaths were the leading killer of US children in 2020</a> BBC: Guns have overtaken car crashes as the leading cause of death among young Americans. 
- <p class="updated_time"> 10:10 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/global-growth-outlook-ebbs-in-face-of-ukraine-war-china-slowdown-11650633870">Global Growth Outlook Ebbs Amid Ukraine War, China Slowdown</a> WSJ: Global Growth Outlook Ebbs Amid Ukraine War, China Slowdown 
  <p class="updated_time"> 10:09 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61191761?at_medium=RSS&at_campaign=KARANGA">Kenya's Mwai Kibaki: The hope and disappointment</a> BBC: Ex-Kenyan President Mwai Kibaki is remembered for ending the stranglehold of the former ruling party. 
  <p class="updated_time"> 09:56 AM CT, Apr. 22 </p> 
@@ -47,13 +49,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/22/us/la-county-masks-public-transportation.html">L.A. County Says Masks Are Still Required on Public Transportation</a> NYT: The move is a departure from California’s mask rules, which were relaxed this week after a federal judge struck down a nationwide mask mandate on public transit. 
  <p class="updated_time"> 09:50 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61187658?at_medium=RSS&at_campaign=KARANGA">Khodorkovsky: Oil ban would deal Putin ‘very serious blow’</a> BBC: Exiled Russian tycoon says oil embargo could halve country’s cash and damage Putin’s war capability. 
+ <p class="updated_time"> 09:42 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-nursing-home-covid-deaths-11650641053">New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed</a> WSJ: New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed 
  <p class="updated_time"> 09:11 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/africa/aliou-cisse-soccer-senegal.html">Aliou Cissé Has Senegal Ready to Shine in World Cup</a> NYT: Aliou Cissé, one of the best of a new generation of African coaches, has reinvented Senegal’s national team and given the country a new sense of patriotism. His next goal: the World Cup. 
- <p class="updated_time"> 09:10 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/shanghai-nursing-home-covid-deaths-11650641053">New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed</a> WSJ: New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed 
  <p class="updated_time"> 08:44 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61188963?at_medium=RSS&at_campaign=KARANGA">Mwai Kibaki: Kenya's first opposition president dies aged 90</a> BBC: Mwai Kibaki ended 40 years of one-party rule but his 2007 re-election sparked nationwide violence. 
- <p class="updated_time"> 08:10 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 08:42 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840">Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</a> WSJ: Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor 
  <p class="updated_time"> 06:27 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/india-kangaroos-smuggling-west-bengal.html">Kangaroos in India? Experts See Evidence of a Smuggling Trade</a> NYT: The animals are the latest exotic fauna to be smuggled into the country, possibly to be used as pets. Draft legislation would close loopholes in the roaring wildlife trade. 
@@ -185,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/20/world/europe/france-macron-unpopular.html">How Hated Is Macron? It Could Decide the French Election.</a> NYT: Given the choice between a president they suspect of despising ordinary people and a far-right candidate they detest, many French voters may stay home. 
  <p class="updated_time"> 03:45 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/treasury-secretary-janet-yellen-walked-out-of-a-g20-meeting-as-russias-finance-minister-spoke.html">Treasury Secretary Janet Yellen walked out of a G20 meeting as Russia’s finance minister spoke.</a> NYT: Several central bank governors and finance ministers protested Russia’s participation at the spring meetings of the I.M.F. and World Bank. 
- <p class="updated_time"> 12:17 PM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/australia/china-solomon-islands-security-pact.html">Why China’s Security Pact With the Solomon Islands is a Threat</a> NYT: In potentially opening the door to a Chinese military base, the Solomon Islands threatens the balance of power in a vital shipping region. 
  <p class="updated_time"> 12:00 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/prince-harry-queen-elizabeth-royal-family-britain.html">Prince Harry Said He Wants to Make Sure Queen Is ‘Protected’</a> NYT: The prince, in Europe for the Invictus Games, visited his grandmother then told the “Today” show that he wanted to make sure “she’s protected.” 
  <p class="updated_time"> 11:48 AM CT, Apr. 20 </p> 
@@ -202,6 +202,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:31 PM CT, Apr. 22 </p> 
+ <a href="https://www.npr.org/2022/04/22/1094316591/disney-world-desantis-florida-counties-taxes">Florida's move to punish Disney World could hurt local taxpayers</a> NPR: Orange and Osceola counties could take on a massive debt held by Disney if Gov. Ron DeSantis signs a bill revoking Disney World's special regulatory status. 
+ <p class="updated_time"> 12:59 PM CT, Apr. 22 </p> 
+ <a href="https://www.politico.com/news/2022/04/22/florida-quickly-sued-over-new-map-that-gives-big-wins-to-republicans-00027203">Voting rights groups sue Florida over new congressional map</a> Politico: The suit was filed less than 24 hours after the GOP-controlled Legislature passed the bill as Black Democrats were loudly protesting on the House floor. 
  <p class="updated_time"> 12:49 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/mccarthy-trump-jan-6-recording.html">McCarthy Said Trump Acknowledged ‘Some Responsibility’ for Jan. 6</a> NYT: New audio captures what Representative Kevin McCarthy said to Republicans shortly after the Jan. 6 attack on the Capitol. 
  <p class="updated_time"> 12:39 PM CT, Apr. 22 </p> 
@@ -310,14 +314,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/business/jerome-powell-rate-increases-fed-reserve.html">Fed Chair Powell Calls a Faster Pace of Rate Increases ‘Appropriate’</a> NYT: Jerome Powell spoke at a moment of high inflation and economic uncertainty amid the war in Ukraine. 
  <p class="updated_time"> 01:50 PM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/yellen-biden-ukraine-economic-aid-00026925">Yellen says Biden will press Congress for more economic aid to Ukraine</a> Politico: The Treasury Department will send $500 million to help Ukraine cover urgent government financing needs. 
- <p class="updated_time"> 01:31 PM CT, Apr. 21 </p> 
- <a href="https://www.npr.org/2022/04/21/1094048653/u-s-capitol-police-say-an-extremely-unusual-oversight-triggered-capitol-evacuati">U.S. Capitol Police say an 'extremely unusual' oversight triggered Capitol evacuation</a> NPR: The evacuation was prompted after a plane tied to a planned flyover of nearby Nationals Park entered restricted airspace. The Capitol Police had not been given advance notice of the approved flight. 
  <p class="updated_time"> 01:16 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/us-vaccine-international-land-borders.html">U.S. Is Extending a Vaccine Rule for International Travelers at Land Borders</a> NYT: Unlike air travelers entering the United States, land and ferry travelers will still not have to show a recent negative coronavirus test to cross the border. 
  <p class="updated_time"> 12:32 PM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/cdc-kindergarten-vaccination-rates-drop-00026921">CDC: Kindergarten vaccination rates drop across the U.S.</a> Politico: Coverage for three state-required vaccines for public and private schools fell by about 1 percent to approximately 94 percent, with most states reporting a drop. 
- <p class="updated_time"> 11:36 AM CT, Apr. 21 </p> 
- <a href="https://www.politico.com/news/2022/04/21/supreme-court-rejects-disability-payments-for-puerto-rico-residents-00026903">Supreme Court rejects disability payments for Puerto Rico residents</a> Politico: SSI fight prompts 2 justices to grapple with “racial stereotypes” in century-old cases on rights in U.S. territories 
  <p class="updated_time"> 10:33 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/crime-stoppers-houston.html">Crime Stoppers of Houston Takes a Partisan Turn</a> NYT: Crime Stoppers of Houston built its reputation on a successful tip line. Then it decided to take on Democratic judges. 
  <p class="updated_time"> 05:52 AM CT, Apr. 21 </p> 
@@ -336,6 +336,8 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/04/19/politics/who-is-judge-kathryn-kimball-mizelle-biden-mask-mandate/index.html">Who is Judge Kathryn Kimball Mizelle, the federal judge who blocked Biden's travel mask mandate?</a> CNN: A little-known federal judge appointed by former President Donald Trump found herself in the national spotlight on Monday after striking down the Biden administration's public transportation mask mandate. 
  <p class="updated_time"> 03:30 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/abigail-spanberger-virginia-policing-message-00026211">'That was a terrible idea': Spanberger wants a policing reboot for House Dems</a> Politico: Democrats see Rep. Abigail Spanberger's district as competitive but winnable in a tough midterm fight. She thinks addressing GOP attacks on crime head on is key to keeping it. 
+ <p class="updated_time"> 04:06 PM CT, Apr. 19 </p> 
+ <a href="https://www.politico.com/news/2022/04/19/biden-administration-student-loan-forgiveness-income-based-repayment-00026322">Biden administration eases student loan forgiveness through income-based repayment plans</a> Politico: Officials said they would make a one-time revision to millions of borrower accounts to compensate for what they called longstanding failures of the agency and its contracted loan servicers. 
 
 
 </details>
