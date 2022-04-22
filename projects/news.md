@@ -9,23 +9,23 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:19 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 06:31 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Russians Seize Dozens of Small Towns in Ukraine’s East as Fighting Intensifies</a> NYT: Ukrainian military officials vowed to reverse Russia’s territorial gains in what is becoming a grinding back-and-forth struggle along a front stretching more than 300 miles. 
  <p class="updated_time"> 05:43 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/middleeast/israel-palestinians-aqsa-temple-mount.html">A Site Holy to Jews and Muslims Returns as the Nexus of Conflict</a> NYT: The skirmishes between Palestinians and Israeli police at the Aqsa Mosque, known to Jews as Temple Mount, are laden with national and religious symbolism. 
+ <p class="updated_time"> 05:39 PM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
  <p class="updated_time"> 05:38 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html">As Europe Approves New Tech Laws, the U.S. Falls Further Behind</a> NYT: Federal privacy bills, security legislation and antitrust laws to address the power of the tech giants have all failed to advance in Congress, despite hand wringing and shows of bipartisan support. 
  <p class="updated_time"> 05:35 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61194641?at_medium=RSS&at_campaign=KARANGA">French election: Macron and Le Pen trade taunts as campaigning ends</a> BBC: Emmanuel Macron and Marine Le Pen make bitter attacks on each other ahead of Sunday's election. 
  <p class="updated_time"> 05:30 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/russia-ukraine-fighting-east.html">Russians Seize 42 Towns in Eastern Ukraine as Fighting Intensifies</a> NYT: Ukrainian military officials vowed to reverse Russia’s territorial gains in what was turning into a grinding back-and-forth struggle along a front stretching more than 300 miles. 
- <p class="updated_time"> 05:23 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
  <p class="updated_time"> 05:20 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/04/22/1094271807/photos-russia-invasion-ukraine-military-mala-rohan-kharkiv">Photos: Russian forces were driven out of this village outside Kharkiv, Ukraine</a> NPR: Last month, Ukrainian forces pushed the Russians out of the village of Mala Rohan. NPR goes inside the warehouse Russia had used as temporary barracks. 
  <p class="updated_time"> 04:45 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/hackers-russia-cyberattacks.html">Hackers Claim to Target Russia With Cyberattacks and Leaks</a> NYT: While the authenticity of leaked data could not be verified, the effort appears to be part of a campaign by hackers opposed to the Kremlin. 
- <p class="updated_time"> 04:23 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 04:39 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 03:58 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094257492/russia-ukraine-war-what-happened-today-april-22">Russia-Ukraine war: What happened today (April 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
@@ -37,6 +37,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094390305/macron-is-beating-le-pen-in-frances-polls-but-not-by-as-much-as-5-years-ago">Macron is beating Le Pen in France's polls — but not by as much as 5 years ago</a> NPR: French voters cast their ballots Sunday. Polls show incumbent president Emmanuel Macron ahead of his rival, populist candidate Marine Le Pen. 
  <p class="updated_time"> 03:40 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094390298/displaced-ukrainians-in-bulgaria-are-finding-ways-to-mark-orthodox-easter">Displaced Ukrainians in Bulgaria are finding ways to mark Orthodox Easter</a> NPR: This weekend is Orthodox Easter, a holiday celebrated in Ukraine. Millions are fleeing the Russian invasion right now, but those seeking refuge in Bulgaria are marking the holiday. 
+ <p class="updated_time"> 03:39 PM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840">Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</a> WSJ: Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor 
  <p class="updated_time"> 03:33 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094390284/chinas-tech-crackdown-has-disrupted-its-financial-markets">China's tech crackdown has disrupted its financial markets</a> NPR: China has enforced strict regulations on its tech platforms over the past year. But this crackdown has sparked such instability in financial markets that the government may be having second thoughts. 
  <p class="updated_time"> 03:29 PM CT, Apr. 22 </p> 
@@ -49,20 +51,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094390235/the-queen-gets-her-own-barbie">The Queen gets her own Barbie</a> NPR: Queen Elizabeth II celebrated her 96th birthday and has been honored with her likeness as a Barbie doll. The Platinum Jubiliee doll celebrates the queen's 70 years on throne. 
  <p class="updated_time"> 03:29 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094390221/many-ukrainians-arent-optimistic-about-peace-with-russia">Many Ukrainians aren't optimistic about peace with Russia</a> NPR: As a Russian general reveals Kremlin plans to take Ukraine's Donbas region to the east as well as all of the country's south, we look at the situation out a village near the frontlines of the war. 
- <p class="updated_time"> 03:23 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840">Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</a> WSJ: Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor 
  <p class="updated_time"> 03:21 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/africa/mwai-kibaki-kenya-dead.html">Mwai Kibaki, Former President of Kenya, Dies at 90</a> NYT: He came to power promising to root out corruption and improve government transparency. But his tenure was blighted by widespread graft and a violent upheaval. 
  <p class="updated_time"> 03:20 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/france-muslims-presidential-vote.html">Who Will France’s Muslims Choose for President?</a> NYT: In Sunday’s decisive runoff election, they have a distasteful choice between Macron and Le Pen. They won’t necessarily back Macron. 
  <p class="updated_time"> 03:00 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-61185304?at_medium=RSS&at_campaign=KARANGA">Carlos Ghosn: Ex-Nissan boss says he wants a trial</a> BBC: The former car boss says he wants to clear his name after France issued an international warrant for his arrest. 
+ <p class="updated_time"> 02:39 PM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/france-macron-le-pen-election-politics-11650487493">Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations</a> WSJ: Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations 
  <p class="updated_time"> 02:35 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/22/1093814861/the-u-s-mask-mandate-is-off-for-travelers-in-other-countries-its-definitely-on">The mask mandate is off for U.S. travelers. In other countries it's definitely on</a> NPR: In China, for example, not only are masks required on planes but gloves are recommended — and passengers are urged not to touch their face during the flight. Here's what you'll find around the globe. 
  <p class="updated_time"> 02:30 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61154373?at_medium=RSS&at_campaign=KARANGA">Jerusalem holy site clashes fuel fears of return to war</a> BBC: Tensions are high following several days of violence in and around the al-Aqsa Mosque compound. 
- <p class="updated_time"> 02:23 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/france-macron-le-pen-election-politics-11650487493">Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations</a> WSJ: Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations 
  <p class="updated_time"> 02:07 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/climate/climate-rally-biden.html">Climate Rallies Planned for White House and Across U.S. </a> NYT: ‘Fight for Our Future’ rallies are planned Saturday for Washington, Atlanta, Phoenix and elsewhere as supporters say time is running out for ambitious climate action. 
  <p class="updated_time"> 01:59 PM CT, Apr. 22 </p> 
@@ -71,10 +71,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61196311?at_medium=RSS&at_campaign=KARANGA">Marjorie Taylor Greene: I did not call for violent capitol insurrection</a> BBC: Georgia Republican Marjorie Taylor Greene is on trial for allegedly violating a Civil War era law. 
  <p class="updated_time"> 01:42 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61192417?at_medium=RSS&at_campaign=KARANGA">Mike Tyson punched plane passenger 'after bottle thrown'</a> BBC: Video shows the former heavyweight boxer repeatedly punching a man in the head. 
+ <p class="updated_time"> 01:39 PM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-nursing-home-covid-deaths-11650641053">New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed</a> WSJ: New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed 
  <p class="updated_time"> 01:38 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
- <p class="updated_time"> 01:23 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/shanghai-nursing-home-covid-deaths-11650641053">New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed</a> WSJ: New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed 
  <p class="updated_time"> 12:15 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia 'plans to seize southern Ukraine'</a> BBC: A senior general says the aim is to open a route into a separatist region of Moldova, Transnistria. 
  <p class="updated_time"> 11:59 AM CT, Apr. 22 </p> 
@@ -200,6 +200,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:35 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/21/us/politics/trump-mitch-mcconnell-kevin-mccarthy.html">‘I’ve Had It With This Guy’: G.O.P. Leaders Privately Blasted Trump After Jan. 6</a> NYT: In the days after the attack, Representative Kevin McCarthy planned to tell Mr. Trump to resign. Senator Mitch McConnell told allies impeachment was warranted. But their fury faded fast. 
+ <p class="updated_time"> 06:14 PM CT, Apr. 22 </p> 
+ <a href="https://www.politico.com/news/2022/04/22/faa-admits-fault-in-capitol-aircraft-incident-00027311">FAA admits fault in Capitol aircraft incident</a> Politico: Capitol Police had to issue an evacuation alert to those in the area during a flyover for what ultimately ended up being a false alarm. 
+ <p class="updated_time"> 06:04 PM CT, Apr. 22 </p> 
+ <a href="https://www.politico.com/news/2022/04/22/biden-admin-texas-trump-medicaid-waiver-00027312">Biden administration says it won’t keep messing with Texas' Trump-era Medicaid waiver</a> Politico: The Centers for Medicaid and Medicaid Services “concluded that it is not the best use of the federal government’s limited resources.” 
  <p class="updated_time"> 06:02 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/biden-domestic-agenda.html">Biden Tries to Sell Domestic Agenda During a West Coast Trip</a> NYT: President Biden acknowledged that the immediate demands of the presidency, including the pandemic and war in Ukraine, have taken him away from his domestic agenda. 
  <p class="updated_time"> 06:00 PM CT, Apr. 22 </p> 
@@ -234,8 +240,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094390228/newly-released-audio-reveals-that-kevin-mccarthy-supported-ousting-trump-after-j">Newly-released audio reveals that Kevin McCarthy supported ousting Trump after Jan. 6</a> NPR: House GOP minority leader Kevin McCarthy was recorded in January saying he'd advise then-President Trump to resign after Jan. 6. It raises questions about his future and relationship with Trump. 
  <p class="updated_time"> 03:04 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094324215/how-kentucky-republicans-blocked-all-abortions-for-more-than-a-week">How Kentucky Republicans blocked all abortions for more than a week</a> NPR: Even without a Supreme Court ruling, a new Kentucky law shut down abortions for several days before a federal court stepped in. Abortion rights groups fear it's just the beginning. 
- <p class="updated_time"> 03:03 PM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/21/us/politics/trump-mitch-mcconnell-kevin-mccarthy.html">‘I’ve Had It With This Guy’: G.O.P. Leaders Privately Blasted Trump After Jan. 6</a> NYT: In the days after the attack, Representative Kevin McCarthy planned to tell Mr. Trump to resign. Senator Mitch McConnell told allies impeachment was warranted. But their fury faded fast. 
  <p class="updated_time"> 02:16 PM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/jan-6-ivanka-trump-00027213">Jan. 6 panel gets inconsistent testimony on key Trump family conversation</a> Politico: Witnesses contradict key testimony on how hard Ivanka Trump had to push the former president to call off the Jan. 6 rioters. 
  <p class="updated_time"> 01:31 PM CT, Apr. 22 </p> 
@@ -306,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/us/politics/rhode-island-house-race-democrats.html">Sarah Morgenthau’s Tricky House Race in Rhode Island</a> NYT: Running for office in a state where you haven’t lived is a delicate art. 
  <p class="updated_time"> 05:57 PM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/kolfage-trump-wall-guilty-00027080">Leader of effort to fund Trump's border wall pleads guilty to fraud</a> Politico: The case once involved Steve Bannon, who has since been pardoned. 
- <p class="updated_time"> 05:06 PM CT, Apr. 21 </p> 
- <a href="https://www.politico.com/news/2022/04/21/brittney-griner-arrest-russia-00027045">2 months after Brittney Griner’s arrest, mystery surrounds her case</a> Politico: The WNBA star was arrested in Russia. 
  <p class="updated_time"> 05:04 PM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/wait-bernie-might-run-in-2024-00027036">Bernie gave the go-ahead for 2024 memo</a> Politico: The Vermont senator wants it known that he must be part of any conversation about a potential open Democratic primary in 2024. 
  <p class="updated_time"> 04:53 PM CT, Apr. 21 </p> 
