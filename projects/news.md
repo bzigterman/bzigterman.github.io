@@ -9,8 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:50 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 02:09 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Russia Pounds Ukrainian Towns Along Eastern Front as Commander Signals Broader Aims</a> NYT: After scaling back its publicly stated ambitions in Ukraine, a senior Russian military commander said on Friday that Moscow wanted complete control of all eastern and southern Ukraine. It was unclear if his comments reflected an official shift in Kremlin policy. 
+ <p class="updated_time"> 02:07 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/climate/climate-rally-biden.html">Climate Rallies Planned for White House and Across U.S. </a> NYT: ‘Fight for Our Future’ rallies are planned Saturday for Washington, Atlanta, Phoenix and elsewhere as supporters say time is running out for ambitious climate action. 
+ <p class="updated_time"> 01:59 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/world/asia/afghanistan-mosque-attack.html">Afghanistan Mosque Explosion Kills 33</a> NYT: The blast in Kunduz Province, in the north, was the latest in a series of attacks reminiscent of the past two decades of war. 
+ <p class="updated_time"> 01:56 PM CT, Apr. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61196311?at_medium=RSS&at_campaign=KARANGA">Marjorie Taylor Greene: I did not call for violent capitol insurrection</a> BBC: Georgia Republican Marjorie Taylor Greene is on trial for allegedly violating a Civil War era law. 
  <p class="updated_time"> 01:46 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/hackers-russia-cyberattacks.html">Hackers Claim to Target Russian Institutions in Barrage of Cyberattacks and Leaks</a> NYT: While the authenticity of leaked data could not be verified, the effort appears to be part of a campaign by hackers opposed to the Kremlin. 
  <p class="updated_time"> 01:42 PM CT, Apr. 22 </p> 
@@ -19,44 +25,42 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
  <p class="updated_time"> 01:36 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/france-muslims-presidential-vote.html">Who Will France’s Muslims Choose for President?</a> NYT: In Sunday’s decisive runoff election, they have a distasteful choice between Macron and Le Pen. They won’t necessarily back Macron. 
- <p class="updated_time"> 12:55 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 01:18 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
+ <p class="updated_time"> 12:18 PM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
  <p class="updated_time"> 12:15 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia 'plans to seize southern Ukraine'</a> BBC: A senior general says the aim is to open a route into a separatist region of Moldova, Transnistria. 
  <p class="updated_time"> 11:59 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61191643?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Kunduz mosque attacked during Friday prayers</a> BBC: The deadly explosion comes amid a revival of violence claimed by Islamic State militants. 
- <p class="updated_time"> 11:55 AM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/world/asia/afghanistan-mosque-attack.html">Afghanistan Mosque Explosion Kills 33</a> NYT: The blast in Kunduz Province, in the north, was the latest in a series of attacks reminiscent of the past two decades of war. 
- <p class="updated_time"> 11:55 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
  <p class="updated_time"> 11:50 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/africa/mwai-kibaki-kenya-dead.html">Mwai Kibaki, Former President of Kenya, Dies at 90</a> NYT: He came to power promising to root out corruption and improve government transparency. But his tenure was blighted by widespread graft and a violent upheaval. 
  <p class="updated_time"> 11:23 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61192594?at_medium=RSS&at_campaign=KARANGA">#JusticeForSheila: Kenyan anger after lesbian's murder</a> BBC: People in Kenyan are expressing their upset about LGBTQ discrimination after 
+ <p class="updated_time"> 11:18 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/global-growth-outlook-ebbs-in-face-of-ukraine-war-china-slowdown-11650633870">Global Growth Outlook Ebbs Amid Ukraine War, China Slowdown</a> WSJ: Global Growth Outlook Ebbs Amid Ukraine War, China Slowdown 
  <p class="updated_time"> 11:08 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/ukraine-airplane-russia-war-mriya.html">One Ukrainian War Casualty: The World’s Largest Airplane</a> NYT: Mriya, the world’s largest aircraft, was destroyed in a pivotal battle at the start of the war. It was a beloved symbol for all of Ukraine but perhaps no one misses it more than its first pilot. 
  <p class="updated_time"> 11:00 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61191111?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Inside Kyiv's trench defences</a> BBC: Kyiv's defence force remains on high alert, dug into trenches in case of the return of Russian troops. 
- <p class="updated_time"> 10:55 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/global-growth-outlook-ebbs-in-face-of-ukraine-war-china-slowdown-11650633870">Global Growth Outlook Ebbs Amid Ukraine War, China Slowdown</a> WSJ: Global Growth Outlook Ebbs Amid Ukraine War, China Slowdown 
  <p class="updated_time"> 10:47 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094248885/why-frances-presidential-election-matters-far-beyond-its-borders">Why France's presidential election matters far beyond its borders </a> NPR: Sunday's contest has implications for the spread of far-right ideology, France's relationship with the rest of Europe and the country's posture toward Russia. 
+ <p class="updated_time"> 10:18 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-nursing-home-covid-deaths-11650641053">New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed</a> WSJ: New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed 
  <p class="updated_time"> 10:16 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61192975?at_medium=RSS&at_campaign=KARANGA">Gun deaths were the leading killer of US children in 2020</a> BBC: Guns have overtaken car crashes as the leading cause of death among young Americans. 
  <p class="updated_time"> 10:09 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61191761?at_medium=RSS&at_campaign=KARANGA">Kenya's Mwai Kibaki: The hope and disappointment</a> BBC: Ex-Kenyan President Mwai Kibaki is remembered for ending the stranglehold of the former ruling party. 
  <p class="updated_time"> 09:56 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094276367/madeleine-mccann-missing-girl-portugal-suspect">15 years later, Portugal identifies a suspect in the probe of a missing British girl</a> NPR: Prosecutors formally accuse a suspect in the investigation into the disappearance of Madeleine McCann, who vanished nearly 15 years ago while on a family vacation. She was 3 years old at the time. 
- <p class="updated_time"> 09:55 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/shanghai-nursing-home-covid-deaths-11650641053">New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed</a> WSJ: New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed 
  <p class="updated_time"> 09:53 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/la-county-masks-public-transportation.html">L.A. County Says Masks Are Still Required on Public Transportation</a> NYT: The move is a departure from California’s mask rules, which were relaxed this week after a federal judge struck down a nationwide mask mandate on public transit. 
  <p class="updated_time"> 09:50 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61187658?at_medium=RSS&at_campaign=KARANGA">Khodorkovsky: Oil ban would deal Putin ‘very serious blow’</a> BBC: Exiled Russian tycoon says oil embargo could halve country’s cash and damage Putin’s war capability. 
+ <p class="updated_time"> 09:18 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840">Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</a> WSJ: Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor 
  <p class="updated_time"> 09:11 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/africa/aliou-cisse-soccer-senegal.html">Aliou Cissé Has Senegal Ready to Shine in World Cup</a> NYT: Aliou Cissé, one of the best of a new generation of African coaches, has reinvented Senegal’s national team and given the country a new sense of patriotism. His next goal: the World Cup. 
- <p class="updated_time"> 08:55 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840">Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</a> WSJ: Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor 
  <p class="updated_time"> 08:44 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61188963?at_medium=RSS&at_campaign=KARANGA">Mwai Kibaki: Kenya's first opposition president dies aged 90</a> BBC: Mwai Kibaki ended 40 years of one-party rule but his 2007 re-election sparked nationwide violence. 
  <p class="updated_time"> 06:27 AM CT, Apr. 22 </p> 
@@ -79,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
  <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html">As Europe Approves New Tech Laws, the U.S. Falls Further Behind</a> NYT: Federal privacy bills, security legislation and antitrust laws to address the power of the tech giants have all failed to advance in Congress, despite hand wringing and shows of bipartisan support. 
- <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/climate/climate-rally-biden.html">Climate Rallies Planned for White House and Across U.S. </a> NYT: ‘Fight for Our Future’ rallies are planned Saturday for Washington, Atlanta, Phoenix and elsewhere as supporters say time is running out for ambitious climate action. 
  <p class="updated_time"> 03:41 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/germany-ukraine-weapons.html">Calls to Give Heavy Weapons to Ukraine Divide Germany’s Government</a> NYT: Weeks after Chancellor Olaf Scholz announced a paradigm shift in military strategy, his government is struggling to balance domestic politics, how to help Ukraine and anxiety over provoking Russia. 
  <p class="updated_time"> 03:00 AM CT, Apr. 22 </p> 
@@ -131,8 +133,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/world/europe/russia-moskva-warship-disinformation.html">With Moskva Warship Sunken, Russia Disinformation Faces a Test</a> NYT: Families of missing crew members say the Russian authorities are giving them the runaround after a flagship sank last week in the Black Sea. 
  <p class="updated_time"> 06:09 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-60912789?at_medium=RSS&at_campaign=KARANGA">Why Argentina is embracing cryptocurrency</a> BBC: The nation that has seen economic trauma is open to the possibility of alternative money like Bitcoin. 
- <p class="updated_time"> 05:29 PM CT, Apr. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61183062?at_medium=RSS&at_campaign=KARANGA">Mariupol steelworks: 'We have wounded and dead inside the bunkers'</a> BBC: One of the last defenders in Mariupol tells the BBC conditions are dire but they won't surrender. 
  <p class="updated_time"> 05:26 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/border-control-politics.html">Why ‘Border Control’ Politics Is More About Control Than Borders</a> NYT: A quirk of political psychology helps explain the British government’s plan to send some asylum seekers to Rwanda. 
  <p class="updated_time"> 05:14 PM CT, Apr. 21 </p> 
@@ -185,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/20/us/politics/russia-putin-missile-test.html">Russia’s Missile Test Fuels U.S. Fears of an Isolated Putin</a> NYT: American and foreign leaders have been weighing whether their success in making Russia a diplomatic pariah could push President Vladimir V. Putin to strike in new ways. 
  <p class="updated_time"> 08:42 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/russia-icbm-ukraine-bombardment.html">Russia Tests ICBM and Pounds Ukraine’s Defenses Ahead of Major Assault</a> NYT: Vladimir Putin said Russia’s test-firing of its new I.C.B.M. sends a message, as his forces prepare for a broad offensive in eastern Ukraine. 
- <p class="updated_time"> 06:37 PM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/europe/france-macron-unpopular.html">How Hated Is Macron? It Could Decide the French Election.</a> NYT: Given the choice between a president they suspect of despising ordinary people and a far-right candidate they detest, many French voters may stay home. 
  <p class="updated_time"> 03:45 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/treasury-secretary-janet-yellen-walked-out-of-a-g20-meeting-as-russias-finance-minister-spoke.html">Treasury Secretary Janet Yellen walked out of a G20 meeting as Russia’s finance minister spoke.</a> NYT: Several central bank governors and finance ministers protested Russia’s participation at the spring meetings of the I.M.F. and World Bank. 
  <p class="updated_time"> 12:00 PM CT, Apr. 20 </p> 
@@ -204,6 +202,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:15 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/us/politics/marjorie-taylor-greene-jan-6-insurrectionist.html">Marjorie Taylor Greene Denies ‘Insurrectionist’ Charge in Court</a> NYT: In an extraordinary administrative law hearing, the Georgia representative was forced to defend her actions surrounding the attack on the Capitol on Jan. 6, 2021. 
+ <p class="updated_time"> 02:13 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/us/politics/desantis-disney-florida.html">Punishing Disney, DeSantis Signals a Lasting G.O.P. Brawl With Business</a> NYT: Gov. Ron DeSantis’s move to revoke the company’s special tax status in Florida illustrated how combative his party has grown toward large corporations that criticize its policies. 
  <p class="updated_time"> 01:46 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/hackers-russia-cyberattacks.html">Hackers Claim to Target Russian Institutions in Barrage of Cyberattacks and Leaks</a> NYT: While the authenticity of leaked data could not be verified, the effort appears to be part of a campaign by hackers opposed to the Kremlin. 
  <p class="updated_time"> 01:31 PM CT, Apr. 22 </p> 
@@ -324,10 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/21/cdc-kindergarten-vaccination-rates-drop-00026921">CDC: Kindergarten vaccination rates drop across the U.S.</a> Politico: Coverage for three state-required vaccines for public and private schools fell by about 1 percent to approximately 94 percent, with most states reporting a drop. 
  <p class="updated_time"> 10:33 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/crime-stoppers-houston.html">Crime Stoppers of Houston Takes a Partisan Turn</a> NYT: Crime Stoppers of Houston built its reputation on a successful tip line. Then it decided to take on Democratic judges. 
- <p class="updated_time"> 05:52 AM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/us/ruth-bader-ginsburg-auction.html">Justice Ruth Bader Ginsburg’s Personal Mementos Up for Auction</a> NYT: More than 150 items that belonged to the Supreme Court justice, who died in 2020, will be sold. Proceeds will benefit the Washington National Opera, which she frequently attended. 
- <p class="updated_time"> 04:01 AM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/us/politics/democrats-democracy-election.html">Why Democracy Isn’t a Key 2022 Issue for Democrats</a> NYT: Republicans are far more energized about the issues of elections and voting, powered by a former president and many base voters who believe the 2020 contest was illegitimate. 
  <p class="updated_time"> 03:30 AM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/senate-democrats-midterm-election-biden-00026781">Biden’s dismal poll numbers imperil Dem Senate control</a> Politico: The president’s popularity is dangerously low in the four states where Democratic incumbents are most endangered. 
  <p class="updated_time"> 06:14 PM CT, Apr. 20 </p> 
