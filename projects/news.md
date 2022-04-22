@@ -9,14 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:19 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Russians Seize Dozens of Small Towns in Ukraine’s East as Fighting Intensifies</a> NYT: Ukrainian military officials vowed to reverse Russia’s territorial gains in what is becoming a grinding back-and-forth struggle along a front stretching more than 300 miles. 
+ <p class="updated_time"> 05:43 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/world/middleeast/israel-palestinians-aqsa-temple-mount.html">A Site Holy to Jews and Muslims Returns as the Nexus of Conflict</a> NYT: The skirmishes between Palestinians and Israeli police at the Aqsa Mosque, known to Jews as Temple Mount, are laden with national and religious symbolism. 
+ <p class="updated_time"> 05:38 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html">As Europe Approves New Tech Laws, the U.S. Falls Further Behind</a> NYT: Federal privacy bills, security legislation and antitrust laws to address the power of the tech giants have all failed to advance in Congress, despite hand wringing and shows of bipartisan support. 
+ <p class="updated_time"> 05:35 PM CT, Apr. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61194641?at_medium=RSS&at_campaign=KARANGA">French election: Macron and Le Pen trade taunts as campaigning ends</a> BBC: Emmanuel Macron and Marine Le Pen make bitter attacks on each other ahead of Sunday's election. 
+ <p class="updated_time"> 05:30 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/world/europe/russia-ukraine-fighting-east.html">Russians Seize 42 Towns in Eastern Ukraine as Fighting Intensifies</a> NYT: Ukrainian military officials vowed to reverse Russia’s territorial gains in what was turning into a grinding back-and-forth struggle along a front stretching more than 300 miles. 
+ <p class="updated_time"> 05:23 PM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
  <p class="updated_time"> 05:20 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/04/22/1094271807/photos-russia-invasion-ukraine-military-mala-rohan-kharkiv">Photos: Russian forces were driven out of this village outside Kharkiv, Ukraine</a> NPR: Last month, Ukrainian forces pushed the Russians out of the village of Mala Rohan. NPR goes inside the warehouse Russia had used as temporary barracks. 
- <p class="updated_time"> 05:04 PM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Russia Pounds Eastern Ukraine and Takes Dozens of Towns</a> NYT: After Russia scaled back its publicly stated ambitions in Ukraine, a senior Russian military commander said that Moscow wanted complete control of all eastern and southern Ukraine. It was unclear if his comments reflected an official shift in Kremlin policy. 
  <p class="updated_time"> 04:45 PM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/us/politics/hackers-russia-cyberattacks.html">Hackers Claim to Target Russian Institutions in Barrage of Cyberattacks and Leaks</a> NYT: While the authenticity of leaked data could not be verified, the effort appears to be part of a campaign by hackers opposed to the Kremlin. 
- <p class="updated_time"> 04:29 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
+ <a href="https://www.nytimes.com/2022/04/22/us/politics/hackers-russia-cyberattacks.html">Hackers Claim to Target Russia With Cyberattacks and Leaks</a> NYT: While the authenticity of leaked data could not be verified, the effort appears to be part of a campaign by hackers opposed to the Kremlin. 
+ <p class="updated_time"> 04:23 PM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 03:58 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094257492/russia-ukraine-war-what-happened-today-april-22">Russia-Ukraine war: What happened today (April 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:49 PM CT, Apr. 22 </p> 
@@ -39,8 +49,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094390235/the-queen-gets-her-own-barbie">The Queen gets her own Barbie</a> NPR: Queen Elizabeth II celebrated her 96th birthday and has been honored with her likeness as a Barbie doll. The Platinum Jubiliee doll celebrates the queen's 70 years on throne. 
  <p class="updated_time"> 03:29 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094390221/many-ukrainians-arent-optimistic-about-peace-with-russia">Many Ukrainians aren't optimistic about peace with Russia</a> NPR: As a Russian general reveals Kremlin plans to take Ukraine's Donbas region to the east as well as all of the country's south, we look at the situation out a village near the frontlines of the war. 
- <p class="updated_time"> 03:29 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
+ <p class="updated_time"> 03:23 PM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840">Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</a> WSJ: Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor 
  <p class="updated_time"> 03:21 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/africa/mwai-kibaki-kenya-dead.html">Mwai Kibaki, Former President of Kenya, Dies at 90</a> NYT: He came to power promising to root out corruption and improve government transparency. But his tenure was blighted by widespread graft and a violent upheaval. 
  <p class="updated_time"> 03:20 PM CT, Apr. 22 </p> 
@@ -51,8 +61,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/22/1093814861/the-u-s-mask-mandate-is-off-for-travelers-in-other-countries-its-definitely-on">The mask mandate is off for U.S. travelers. In other countries it's definitely on</a> NPR: In China, for example, not only are masks required on planes but gloves are recommended — and passengers are urged not to touch their face during the flight. Here's what you'll find around the globe. 
  <p class="updated_time"> 02:30 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61154373?at_medium=RSS&at_campaign=KARANGA">Jerusalem holy site clashes fuel fears of return to war</a> BBC: Tensions are high following several days of violence in and around the al-Aqsa Mosque compound. 
- <p class="updated_time"> 02:29 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840">Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</a> WSJ: Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor 
+ <p class="updated_time"> 02:23 PM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/france-macron-le-pen-election-politics-11650487493">Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations</a> WSJ: Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations 
  <p class="updated_time"> 02:07 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/climate/climate-rally-biden.html">Climate Rallies Planned for White House and Across U.S. </a> NYT: ‘Fight for Our Future’ rallies are planned Saturday for Washington, Atlanta, Phoenix and elsewhere as supporters say time is running out for ambitious climate action. 
  <p class="updated_time"> 01:59 PM CT, Apr. 22 </p> 
@@ -63,9 +73,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61192417?at_medium=RSS&at_campaign=KARANGA">Mike Tyson punched plane passenger 'after bottle thrown'</a> BBC: Video shows the former heavyweight boxer repeatedly punching a man in the head. 
  <p class="updated_time"> 01:38 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
- <p class="updated_time"> 01:29 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/france-macron-le-pen-election-politics-11650487493">Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations</a> WSJ: Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations 
- <p class="updated_time"> 12:29 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 01:23 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/shanghai-nursing-home-covid-deaths-11650641053">New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed</a> WSJ: New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed 
  <p class="updated_time"> 12:15 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia 'plans to seize southern Ukraine'</a> BBC: A senior general says the aim is to open a route into a separatist region of Moldova, Transnistria. 
@@ -107,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1092591767/despite-u-s-sanctions-oil-traders-help-russian-oil-reach-global-markets">Despite U.S. sanctions, oil traders help Russian oil reach global markets</a> NPR: Russia is still making billions of dollars on oil exports since invading Ukraine. That crude is still flowing abroad thanks in part to a controversial group of oil traders. 
  <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
- <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html">As Europe Approves New Tech Laws, the U.S. Falls Further Behind</a> NYT: Federal privacy bills, security legislation and antitrust laws to address the power of the tech giants have all failed to advance in Congress, despite hand wringing and shows of bipartisan support. 
  <p class="updated_time"> 03:41 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/germany-ukraine-weapons.html">Calls to Give Heavy Weapons to Ukraine Divide Germany’s Government</a> NYT: Weeks after Chancellor Olaf Scholz announced a paradigm shift in military strategy, his government is struggling to balance domestic politics, how to help Ukraine and anxiety over provoking Russia. 
  <p class="updated_time"> 03:00 AM CT, Apr. 22 </p> 
@@ -141,20 +147,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61173922?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 15-21 April 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 07:29 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/russia-ukraine-military-biden.html">Next Phase of War Will Be Pivotal for Russia and Ukraine, U.S. Says</a> NYT: Reflecting a renewed sense of urgency, President Biden announced that the United States would send the Ukrainians $800 million more in military aid. 
- <p class="updated_time"> 07:11 PM CT, Apr. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61162642?at_medium=RSS&at_campaign=KARANGA">Mid-day meal plan struggles to feed India's hungry students</a> BBC: The world's most ambitious free school food programme resumes post pandemic, but problems remain. 
- <p class="updated_time"> 06:28 PM CT, Apr. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61181978?at_medium=RSS&at_campaign=KARANGA">Ukrainians injured or killed by unexploded ammunition</a> BBC: Across Ukraine’s Kyiv region, efforts have begun to clear the countless pieces of unexploded ammunition left behind after fierce fighting. 
  <p class="updated_time"> 06:25 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61184479?at_medium=RSS&at_campaign=KARANGA">The German towns in Paraguay with a surge in European immigrants</a> BBC: Thousands of German nationals have migrated to Paraguay to escape Covid restrictions and immigration in Europe. 
  <p class="updated_time"> 06:20 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61168776?at_medium=RSS&at_campaign=KARANGA">France election: What far-right leader Marine Le Pen said before… and now</a> BBC: Has Marine Le Pen's strong views on immigration, the EU and Nato shifted since the last election? 
  <p class="updated_time"> 06:19 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/russia-moskva-warship-disinformation.html">With Moskva Warship Sunken, Russia Disinformation Faces a Test</a> NYT: Families of missing crew members say the Russian authorities are giving them the runaround after a flagship sank last week in the Black Sea. 
- <p class="updated_time"> 06:09 PM CT, Apr. 21 </p> 
- <a href="https://www.bbc.co.uk/news/business-60912789?at_medium=RSS&at_campaign=KARANGA">Why Argentina is embracing cryptocurrency</a> BBC: The nation that has seen economic trauma is open to the possibility of alternative money like Bitcoin. 
- <p class="updated_time"> 05:26 PM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/border-control-politics.html">Why ‘Border Control’ Politics Is More About Control Than Borders</a> NYT: A quirk of political psychology helps explain the British government’s plan to send some asylum seekers to Rwanda. 
  <p class="updated_time"> 05:14 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008312362/mariupol-azovstal-ukraine-war.html">What Mariupol’s Steel Fortress Looked Like 3 Months Ago</a> NYT: On Jan. 20, The New York Times captured drone video over the sprawling Azovstal Steel and Iron works complex in Mariupol, Ukraine. Now, it is a battered fortress for the last Ukrainian defenders. 
  <p class="updated_time"> 05:01 PM CT, Apr. 21 </p> 
@@ -163,8 +161,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/us/politics/france-election-biden.html">US Braces for Potential French Election Shockwave</a> NYT: An upset victory by the right-wing nationalist Marine Le Pen in the presidential election on Sunday could scramble President Biden’s foreign policy. 
  <p class="updated_time"> 03:19 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/mikhail-vasenkov-dead.html">Mikhail Vasenkov Dies at 79; His Spy Ring Inspired ‘The Americans’</a> NYT: He and his wife were among 10 Soviet sleeper agents who blended into American society before being exposed and deported in 2010. The TV series sprung from the episode. 
- <p class="updated_time"> 02:26 PM CT, Apr. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-60774098?at_medium=RSS&at_campaign=KARANGA">What weapons has the US given Ukraine - and how much do they help?</a> BBC: President Biden has announced a new $800m assistance package that includes ammunition and drones. 
  <p class="updated_time"> 02:15 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/biden-ukraine-aid.html">Biden Announces $800 Million in Military Aid and Questions Russia’s Hold of Mariupol</a> NYT: President Biden said President Vladimir V. Putin of Russia would “never succeed in dominating” Ukraine. 
  <p class="updated_time"> 01:20 PM CT, Apr. 21 </p> 
@@ -197,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/20/world/europe/russia-icbm-putin.html">Russia Said It Has Successfully Tested a New ICBM That Can Evade Defenses</a> NYT: Though officials said the missile is not yet ready to deploy, President Vladimir V. Putin said the launch of the Sarmat missile “will force all who are trying to threaten our country in the heat of frenzied, aggressive rhetoric to think twice.” 
  <p class="updated_time"> 11:17 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/africa/south-africa-floods-climate-change-housing.html">Housing Crisis Propels High Death Toll in South Africa Floods</a> NYT: The catastrophe underscored an overlooked reality in the fight against extreme weather: Protecting people is as much about tackling social issues as environmental ones. 
- <p class="updated_time"> 11:14 AM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/europe/assange-uk-extradition.html">U.K. Court Order Moves Assange Closer to Extradition</a> NYT: The court formally ordered the extradition of the WikiLeaks founder to the United States, but it still needs approval from a British cabinet minister and his defense can appeal to her directly. 
 
 
 </details>
@@ -206,8 +200,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:02 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/us/politics/biden-domestic-agenda.html">Biden Tries to Sell Domestic Agenda During a West Coast Trip</a> NYT: President Biden acknowledged that the immediate demands of the presidency, including the pandemic and war in Ukraine, have taken him away from his domestic agenda. 
+ <p class="updated_time"> 06:00 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/us/politics/democrats-midterms-biden.html">Democrats and the 2022 Midterms: ‘It’s Going to Be a Terrible Cycle’</a> NYT: Strategists and pollsters are increasingly talking about limiting the party’s expected losses in November rather than how to gain new seats. 
+ <p class="updated_time"> 05:38 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html">As Europe Approves New Tech Laws, the U.S. Falls Further Behind</a> NYT: Federal privacy bills, security legislation and antitrust laws to address the power of the tech giants have all failed to advance in Congress, despite hand wringing and shows of bipartisan support. 
+ <p class="updated_time"> 05:14 PM CT, Apr. 22 </p> 
+ <a href="https://www.politico.com/news/2022/04/22/desantis-disney-special-status-dont-say-gay-00027302">DeSantis revokes Disney's special status after ‘Don’t Say Gay’ opposition</a> Politico: Florida Republicans leveled the punishments on Disney this week largely over the company’s opposition to the parental rights bill that DeSantis signed last month. 
  <p class="updated_time"> 04:45 PM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/us/politics/hackers-russia-cyberattacks.html">Hackers Claim to Target Russian Institutions in Barrage of Cyberattacks and Leaks</a> NYT: While the authenticity of leaked data could not be verified, the effort appears to be part of a campaign by hackers opposed to the Kremlin. 
+ <a href="https://www.nytimes.com/2022/04/22/us/politics/hackers-russia-cyberattacks.html">Hackers Claim to Target Russia With Cyberattacks and Leaks</a> NYT: While the authenticity of leaked data could not be verified, the effort appears to be part of a campaign by hackers opposed to the Kremlin. 
  <p class="updated_time"> 04:39 PM CT, Apr. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 04:14 PM CT, Apr. 22 </p> 
@@ -273,8 +275,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:12 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094240400/morning-news-brief">News brief: Russian attacks, Marjorie Taylor Green hearing, Florida Vs. Disney </a> NPR: The Russia-Ukraine war. Florida's legislature voted to strip Disney World of its self-governing status. A hearing will decide if GOP Rep. Marjorie Taylor Greene should be disqualified from office. 
  <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html">As Europe Approves New Tech Laws, the U.S. Falls Further Behind</a> NYT: Federal privacy bills, security legislation and antitrust laws to address the power of the tech giants have all failed to advance in Congress, despite hand wringing and shows of bipartisan support. 
- <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/ruben-gallego-deep-dive-00027134">‘You only win if you fight’: Will Gallego unseat Sinema?</a> Politico: On this week’s episode of Playbook Deep Dive, co-author Ryan Lizza chats with Arizona Congressman Ruben Gallego, a Marine veteran and rumored primary challenger to Senator Kyrsten Sinema in 2024. Gallego has an unsparing take on challenging Sinema, Jan. 6 and why Democrats need to lead more. 
  <p class="updated_time"> 03:31 AM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/gallery/2022/04/22/the-nations-cartoonists-on-the-week-in-politics-00026851">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
@@ -326,10 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/21/mystery-drone-air-force-new-weapon-ukraine-00026970">Mystery drone: How the Air Force fast-tracked a new weapon for Ukraine</a> Politico: The “Phoenix Ghost” drones were developed by California-based Aevex Aerospace. 
  <p class="updated_time"> 02:47 PM CT, Apr. 21 </p> 
  <a href="https://www.cnn.com/2022/04/21/politics/biden-student-loan-debt-forgiveness-eligibility/index.html">Here's who is eligible for student loan debt relief after Biden's latest actions</a> CNN: The Biden administration has taken multiple actions to make it easier for federal student loan borrowers to receive debt forgiveness that they may already be entitled to under existing programs. 
- <p class="updated_time"> 02:09 PM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/business/janet-yellen-supply-chains.html">Janet Yellen Calls for Reshaping Supply Chains That Are ‘Not Secure’</a> NYT: Policymakers are discussing how to be less reliant on adversarial countries at the spring meetings of the I.M.F. and World Bank. 
- <p class="updated_time"> 01:53 PM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/business/jerome-powell-rate-increases-fed-reserve.html">Fed Chair Powell Calls a Faster Pace of Rate Increases ‘Appropriate’</a> NYT: Jerome Powell spoke at a moment of high inflation and economic uncertainty amid the war in Ukraine. 
  <p class="updated_time"> 01:50 PM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/yellen-biden-ukraine-economic-aid-00026925">Yellen says Biden will press Congress for more economic aid to Ukraine</a> Politico: The Treasury Department will send $500 million to help Ukraine cover urgent government financing needs. 
  <p class="updated_time"> 01:16 PM CT, Apr. 21 </p> 
