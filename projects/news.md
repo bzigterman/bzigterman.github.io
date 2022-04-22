@@ -9,16 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:20 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 10:38 AM CT, Apr. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61192417?at_medium=RSS&at_campaign=KARANGA">Mike Tyson punched plane passenger 'after bottle thrown'</a> BBC: Video shows the former heavyweight boxer repeatedly punching a man in the head. 
+ <p class="updated_time"> 10:34 AM CT, Apr. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61191643?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Kunduz mosque attacked during Friday prayers</a> BBC: The deadly explosion comes amid a revival of violence claimed by Islamic State militants. 
+ <p class="updated_time"> 10:32 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Russia Pounds Ukrainian Towns Along Eastern Front as Commander Signals Broader Aims</a> NYT: After scaling back its publicly stated ambitions in Ukraine, a senior Russian military commander said on Friday that Moscow wanted complete control of all eastern and southern Ukraine. It was unclear if his comments reflected an official shift in Kremlin policy. 
- <p class="updated_time"> 10:15 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 10:30 AM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/world/europe/ukraine-airplane-russia-war-mriya.html">One Ukrainian War Casualty: The World’s Largest Airplane</a> NYT: Mriya, the world’s largest aircraft, was destroyed in a pivotal battle at the start of the war. It was a beloved symbol for all of Ukraine but perhaps no one misses it more than its first pilot. 
+ <p class="updated_time"> 10:30 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Live Updates: Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
  <p class="updated_time"> 10:09 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/africa/mwai-kibaki-kenya-dead.html">Mwai Kibaki, Former President of Kenya, Dies at 90</a> NYT: Mr. Kibaki came to power promising to root out corruption and improve government transparency. But his tenure was blighted by widespread graft and a violent upheaval after the 2007 election. 
  <p class="updated_time"> 10:09 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61191761?at_medium=RSS&at_campaign=KARANGA">Kenya's Mwai Kibaki: The hope and disappointment</a> BBC: Ex-Kenyan President Mwai Kibaki is remembered for ending the stranglehold of the former ruling party. 
- <p class="updated_time"> 10:04 AM CT, Apr. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61191643?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Kunduz mosque attacked during Friday prayers</a> BBC: The deadly explosion comes amid a revival of violence claimed by Islamic State militants. 
  <p class="updated_time"> 09:56 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094276367/madeleine-mccann-missing-girl-portugal-suspect">15 years later, Portugal identifies a suspect in the probe of a missing British girl</a> NPR: Prosecutors formally accuse a suspect in the investigation into the disappearance of Madeleine McCann, who vanished nearly 15 years ago while on a family vacation. She was 3 years old at the time. 
  <p class="updated_time"> 09:53 AM CT, Apr. 22 </p> 
@@ -27,36 +31,30 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61187658?at_medium=RSS&at_campaign=KARANGA">Khodorkovsky: Oil ban would deal Putin ‘very serious blow’</a> BBC: Exiled Russian tycoon says oil embargo could halve country’s cash and damage Putin’s war capability. 
  <p class="updated_time"> 09:49 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia 'plans to seize southern Ukraine'</a> BBC: A senior general says the aim is to open a route into a separatist region of Moldova, Transnistria. 
- <p class="updated_time"> 09:24 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 09:44 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
- <p class="updated_time"> 09:20 AM CT, Apr. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61192417?at_medium=RSS&at_campaign=KARANGA">Mike Tyson punched plane passenger 'after bottle thrown'</a> BBC: Video shows the former heavyweight boxer repeatedly punching a man in the head. 
  <p class="updated_time"> 09:11 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/africa/aliou-cisse-soccer-senegal.html">Aliou Cissé Has Senegal Ready to Shine in World Cup</a> NYT: Aliou Cissé, one of the best of a new generation of African coaches, has reinvented Senegal’s national team and given the country a new sense of patriotism. His next goal: the World Cup. 
  <p class="updated_time"> 08:44 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61188963?at_medium=RSS&at_campaign=KARANGA">Mwai Kibaki: Kenya's first opposition president dies aged 90</a> BBC: Mwai Kibaki ended 40 years of one-party rule but his 2007 re-election sparked nationwide violence. 
- <p class="updated_time"> 08:24 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Russia Advances in Ukraine’s Donbas, Is Accused of Digging Mass Graves</a> WSJ: Russia Advances in Ukraine’s Donbas, Is Accused of Digging Mass Graves 
- <p class="updated_time"> 08:07 AM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/world/europe/ukraine-airplane-russia-war-mriya.html">One Ukrainian War Casualty: The World’s Largest Airplane</a> NYT: Mriya, the world’s largest aircraft, was destroyed in a pivotal battle at the start of the war. It was a beloved symbol for all of Ukraine but perhaps no one misses it more than its first pilot. 
- <p class="updated_time"> 07:24 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/france-issues-international-arrest-warrant-for-carlos-ghosn-11650578738">France Issues International Arrest Warrant for Ghosn</a> WSJ: France Issues International Arrest Warrant for Ghosn 
+ <p class="updated_time"> 08:44 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
+ <p class="updated_time"> 07:44 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/global-growth-outlook-ebbs-in-face-of-ukraine-war-china-slowdown-11650633870">Global Growth Outlook Ebbs Amid Ukraine War, China Slowdown</a> WSJ: Global Growth Outlook Ebbs Amid Ukraine War, China Slowdown 
+ <p class="updated_time"> 06:44 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/china-wants-to-reopen-factories-after-covid-19-lockdowns-it-isnt-that-easy-11650630300">China Wants to Reopen Factories After Covid-19 Lockdowns. It Isn’t That Easy.</a> WSJ: China Wants to Reopen Factories After Covid-19 Lockdowns. It Isn’t That Easy. 
  <p class="updated_time"> 06:27 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/india-kangaroos-smuggling-west-bengal.html">Kangaroos in India? Experts See Evidence of a Smuggling Trade</a> NYT: The animals are the latest exotic fauna to be smuggled into the country, possibly to be used as pets. Draft legislation would close loopholes in the roaring wildlife trade. 
- <p class="updated_time"> 06:24 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/story/inside-the-russian-siege-of-mariupol-b6ace25e">Inside the Russian Siege of Mariupol</a> WSJ: Inside the Russian Siege of Mariupol 
  <p class="updated_time"> 06:12 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61189745?at_medium=RSS&at_campaign=KARANGA">Imran Khan: Inside the huge rally in Lahore for Pakistan's ousted PM</a> BBC: The former prime minister's narrative of a US-led conspiracy to oust him is resonating with his supporters. 
  <p class="updated_time"> 06:11 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094106596/these-airlines-are-letting-passengers-banned-for-mask-violations-back-on-planes">These airlines are letting passengers banned for mask violations back on planes</a> NPR: The cases will be determined on a case-by-case basis, depending on the company. Here's a look at where each of the major U.S. airlines stands. 
- <p class="updated_time"> 05:24 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/china-wants-to-reopen-factories-after-covid-19-lockdowns-it-isnt-that-easy-11650630300">China Wants to Reopen Factories After Covid-19 Lockdowns. It Isn’t That Easy.</a> WSJ: China Wants to Reopen Factories After Covid-19 Lockdowns. It Isn’t That Easy. 
+ <p class="updated_time"> 05:44 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-to-continue-strict-covid-19-measures-despite-drop-in-cases-11650630510">Shanghai to Continue Strict Covid Measures Despite Drop in Cases</a> WSJ: Shanghai to Continue Strict Covid Measures Despite Drop in Cases 
  <p class="updated_time"> 05:17 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61154373?at_medium=RSS&at_campaign=KARANGA">Jerusalem holy site clashes fuel fears of return to war</a> BBC: Tensions are high following several days of violence in and around the al-Aqsa Mosque compound. 
  <p class="updated_time"> 05:08 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188783?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The Russia I knew no longer exists - Steve Rosenberg</a> BBC: The BBC's Steve Rosenberg takes in the sites of Moscow apparently distorted by the war against Ukraine. 
- <p class="updated_time"> 04:24 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/global-growth-outlook-ebbs-in-face-of-ukraine-war-china-slowdown-11650633870">Global Growth Outlook Ebbs Amid Ukraine War, China Slowdown</a> WSJ: Economic growth is slowing in large parts of the world in the face of a looming slowdown in China fueled by lockdowns and surging prices aggravated by Russia’s war in Ukraine. 
  <p class="updated_time"> 04:12 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1092591767/despite-u-s-sanctions-oil-traders-help-russian-oil-reach-global-markets">Despite U.S. sanctions, oil traders help Russian oil reach global markets</a> NPR: Russia is still making billions of dollars on oil exports since invading Ukraine. That crude is still flowing abroad thanks in part to a controversial group of oil traders. 
  <p class="updated_time"> 04:01 AM CT, Apr. 22 </p> 
@@ -69,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/22/climate/climate-rally-biden.html">Climate Rallies Planned for White House and Across U.S. </a> NYT: ‘Fight for Our Future’ rallies are planned Saturday for Washington, Atlanta, Phoenix and elsewhere as supporters say time is running out for ambitious climate action. 
  <p class="updated_time"> 03:41 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/germany-ukraine-weapons.html">Calls to Give Heavy Weapons to Ukraine Divide Germany’s Government</a> NYT: Weeks after Chancellor Olaf Scholz announced a paradigm shift in military strategy, his government is struggling to balance domestic politics, how to help Ukraine and anxiety over provoking Russia. 
- <p class="updated_time"> 03:28 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/shanghai-to-continue-strict-covid-19-measures-despite-drop-in-cases-11650630510">Shanghai to Continue Strict Covid Measures Despite Drop in Cases</a> WSJ: Health authorities unveiled an aggressive new Covid-19 containment plan, indicating China’s financial capital is still far from declaring victory over the country’s worst outbreak since the start of the pandemic. 
  <p class="updated_time"> 03:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/1922-women-smoking-cigars.html">1922: Sight of Women Smoking A Cigar Shocks Paris</a> NYT: Two women who shared a Havana cigar in a Parisian restaurant reportedly caused a stir. 
  <p class="updated_time"> 02:37 AM CT, Apr. 22 </p> 
@@ -159,6 +155,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/world/europe/biden-ukraine-aid.html">Biden Announces $800 Million in Military Aid and Questions Russia’s Hold of Mariupol</a> NYT: President Biden said President Vladimir V. Putin of Russia would “never succeed in dominating” Ukraine. 
  <p class="updated_time"> 01:43 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61183056?at_medium=RSS&at_campaign=KARANGA">Mariupol: Satellite images suggest mass graves dug near besieged city</a> BBC: Satellite images appear to show more than 200 graves, as Ukraine accuses Russia of mass killings. 
+ <p class="updated_time"> 01:40 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/france-issues-international-arrest-warrant-for-carlos-ghosn-11650578738">France Issues International Arrest Warrant for Ghosn</a> WSJ: French prosecutors also issued warrants for four others for allegedly helping former Renault executive Carlos Ghosn enrich himself. 
  <p class="updated_time"> 01:20 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/macron-le-pen-france-election-debate.html">Macron and Le Pen Trade Punches in Pivotal French Election Debate</a> NYT: He attacked the far-right leader as a Putin stooge. She hit back at him as the president of division and contempt. 
  <p class="updated_time"> 01:16 PM CT, Apr. 21 </p> 
@@ -208,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:40 AM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/us/politics/mccarthy-trump-jan-6-recording.html">New Audio: McCarthy Said Trump Acknowledged ‘Some Responsibility’ for Jan. 6 </a> NYT: New audio captures what Representative Kevin McCarthy said to Republicans shortly after the Jan. 6 attack on the Capitol. 
  <p class="updated_time"> 09:59 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094273441/marjorie-taylor-greene-is-in-court-as-part-of-a-legal-challenge-to-her-candidacy">Marjorie Taylor Greene is in court as part of a legal challenge to her candidacy</a> NPR: Voters and a supporting legal group are seeking to knock the controversial Republican off the ballot for her role prior to the Jan. 6 insurrection at the U.S. Capitol. 
  <p class="updated_time"> 09:48 AM CT, Apr. 22 </p> 
@@ -334,8 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/us/politics/democrats-democracy-election.html">Why Democracy Isn’t a Key 2022 Issue for Democrats</a> NYT: Republicans are far more energized about the issues of elections and voting, powered by a former president and many base voters who believe the 2020 contest was illegitimate. 
  <p class="updated_time"> 03:30 AM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/senate-democrats-midterm-election-biden-00026781">Biden’s dismal poll numbers imperil Dem Senate control</a> Politico: The president’s popularity is dangerously low in the four states where Democratic incumbents are most endangered. 
- <p class="updated_time"> 02:00 AM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/us/politics/biden-pandemic-relief-democrats.html">If Biden’s Plan Is Like a ‘New Deal,’ Why Don’t Voters Care?</a> NYT: The $1.9 trillion pandemic-relief law unleashed a massive wave of spending on local construction projects and programs. Democratic candidates aren’t getting much credit. 
  <p class="updated_time"> 06:14 PM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/capitol-police-backtracks-on-airplane-threat-after-ordering-evacuation-00026765">Capitol Police backtracks on airplane threat after ordering evacuation</a> Politico: An Army plane was circling the area around the Capitol, part of a parachute stunt at Wednesday night’s Nationals baseball game. 
  <p class="updated_time"> 01:14 PM CT, Apr. 20 </p> 
