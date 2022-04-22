@@ -9,33 +9,33 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:17 AM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Russia Pounds Ukrainian Towns Along Eastern Front as Commander Signals Broader Aims</a> NYT: After scaling back its publicly stated ambitions in Ukraine, a senior Russian military commander said on Friday that Moscow wanted complete control of all eastern and southern Ukraine. It was unclear if his comments reflected an official shift in Kremlin policy. 
- <p class="updated_time"> 08:08 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 08:44 AM CT, Apr. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61188963?at_medium=RSS&at_campaign=KARANGA">Mwai Kibaki: Kenya's first opposition president dies aged 90</a> BBC: Mwai Kibaki ended 40 years of one-party rule but his 2007 re-election sparked nationwide violence. 
+ <p class="updated_time"> 08:42 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Live Updates: Jerusalem Calms After New Clashes Erupt Briefly</a> NYT: Quiet returned to the Old City after about an hour of clashes between Palestinians and Israeli police at the Aqsa Mosque compound, known to Jews as Temple Mount. 
+ <p class="updated_time"> 08:33 AM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Russia Pounds Ukrainian Towns Along Eastern Front as Commander Signals Broader Aims</a> NYT: After scaling back its publicly stated ambitions in Ukraine, a senior Russian military commander said on Friday that Moscow wanted complete control of all eastern and southern Ukraine. It was unclear if his comments reflected an official shift in Kremlin policy. 
  <p class="updated_time"> 08:07 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/ukraine-airplane-russia-war-mriya.html">One Ukrainian War Casualty: The World’s Largest Airplane</a> NYT: Mriya, the world’s largest aircraft, was destroyed in a pivotal battle at the start of the war. It was a beloved symbol for all of Ukraine but perhaps no one misses it more than its first pilot. 
- <p class="updated_time"> 07:25 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 07:57 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
- <p class="updated_time"> 07:21 AM CT, Apr. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61188963?at_medium=RSS&at_campaign=KARANGA">Mwai Kibaki: Kenya's first opposition president dies aged 90</a> BBC: Mwai Kibaki ended 40 years of one-party rule but his 2007 re-election sparked nationwide violence. 
+ <p class="updated_time"> 06:57 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Russia Advances in Ukraine’s Donbas, Is Accused of Digging Mass Graves</a> WSJ: Russia Advances in Ukraine’s Donbas, Is Accused of Digging Mass Graves 
  <p class="updated_time"> 06:54 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia 'plans to seize southern Ukraine'</a> BBC: A senior general says the aim is to open a route into a separatist region of Moldova, Transnistria. 
  <p class="updated_time"> 06:27 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/india-kangaroos-smuggling-west-bengal.html">Kangaroos in India? Experts See Evidence of a Smuggling Trade</a> NYT: The animals are the latest exotic fauna to be smuggled into the country, possibly to be used as pets. Draft legislation would close loopholes in the roaring wildlife trade. 
- <p class="updated_time"> 06:25 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Russia Advances in Ukraine’s Donbas, Is Accused of Digging Mass Graves</a> WSJ: Russia Advances in Ukraine’s Donbas, Is Accused of Digging Mass Graves 
  <p class="updated_time"> 06:12 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61189745?at_medium=RSS&at_campaign=KARANGA">Imran Khan: Inside the huge rally in Lahore for Pakistan's ousted PM</a> BBC: The former prime minister's narrative of a US-led conspiracy to oust him is resonating with his supporters. 
  <p class="updated_time"> 06:11 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094106596/these-airlines-are-letting-passengers-banned-for-mask-violations-back-on-planes">These airlines are letting passengers banned for mask violations back on planes</a> NPR: The cases will be determined on a case-by-case basis, depending on the company. Here's a look at where each of the major U.S. airlines stands. 
- <p class="updated_time"> 05:25 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 05:57 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/france-issues-international-arrest-warrant-for-carlos-ghosn-11650578738">France Issues International Arrest Warrant for Ghosn</a> WSJ: France Issues International Arrest Warrant for Ghosn 
  <p class="updated_time"> 05:17 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61154373?at_medium=RSS&at_campaign=KARANGA">Jerusalem holy site clashes fuel fears of return to war</a> BBC: Tensions are high following several days of violence in and around the al-Aqsa Mosque compound. 
  <p class="updated_time"> 05:08 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188783?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The Russia I knew no longer exists - Steve Rosenberg</a> BBC: The BBC's Steve Rosenberg takes in the sites of Moscow apparently distorted by the war against Ukraine. 
- <p class="updated_time"> 04:25 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 04:57 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/story/inside-the-russian-siege-of-mariupol-b6ace25e">Inside the Russian Siege of Mariupol</a> WSJ: Inside the Russian Siege of Mariupol 
  <p class="updated_time"> 04:12 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1092591767/despite-u-s-sanctions-oil-traders-help-russian-oil-reach-global-markets">Despite U.S. sanctions, oil traders help Russian oil reach global markets</a> NPR: Russia is still making billions of dollars on oil exports since invading Ukraine. That crude is still flowing abroad thanks in part to a controversial group of oil traders. 
@@ -49,10 +49,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html">As Europe Approves New Tech Laws, the U.S. Falls Further Behind</a> NYT: Federal privacy bills, security legislation and antitrust laws to address the power of the tech giants have all failed to advance in Congress, despite hand wringing and shows of bipartisan support. 
  <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/climate/climate-rally-biden.html">Climate Rallies Planned for White House and Across U.S. </a> NYT: ‘Fight for Our Future’ rallies are planned Saturday for Washington, Atlanta, Phoenix and elsewhere as supporters say time is running out for ambitious climate action. 
+ <p class="updated_time"> 03:57 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/china-wants-to-reopen-factories-after-covid-19-lockdowns-it-isnt-that-easy-11650630300">China Wants to Reopen Factories After Covid-19 Lockdowns. It Isn’t That Easy.</a> WSJ: China Wants to Reopen Factories After Covid-19 Lockdowns. It Isn’t That Easy. 
  <p class="updated_time"> 03:41 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/germany-ukraine-weapons.html">Calls to Give Heavy Weapons to Ukraine Divide Germany’s Government</a> NYT: Weeks after Chancellor Olaf Scholz announced a paradigm shift in military strategy, his government is struggling to balance domestic politics, how to help Ukraine and anxiety over provoking Russia. 
- <p class="updated_time"> 03:25 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/budweiser-brewer-pulls-out-of-russia-as-multinational-companies-weigh-options-11650625916">Budweiser Brewer Pulls Out of Russia as Multinationals Weigh Options</a> WSJ: Budweiser Brewer Pulls Out of Russia as Multinationals Weigh Options 
+ <p class="updated_time"> 03:28 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-to-continue-strict-covid-19-measures-despite-drop-in-cases-11650630510">Shanghai to Continue Strict Covid Measures Despite Drop in Cases</a> WSJ: Health authorities unveiled an aggressive new Covid-19 containment plan, indicating China’s financial capital is still far from declaring victory over the country’s worst outbreak since the start of the pandemic. 
  <p class="updated_time"> 03:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/1922-women-smoking-cigars.html">1922: Sight of Women Smoking A Cigar Shocks Paris</a> NYT: Two women who shared a Havana cigar in a Parisian restaurant reportedly caused a stir. 
  <p class="updated_time"> 02:37 AM CT, Apr. 22 </p> 
@@ -66,11 +68,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:03 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094237785/israeli-police-storm-jerusalem-holy-site-after-rock-throwing">Israeli police storm Jerusalem holy site after rock-throwing</a> NPR: Israeli police in full riot gear stormed a sensitive Jerusalem holy site sacred to Jews and Muslims on Friday after Palestinian youths hurled stones at a gate where they were stationed. 
  <p class="updated_time"> 12:35 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/inside-the-russian-siege-of-mariupol-11650620142">Inside the Russian Siege of Mariupol</a> WSJ: Recent photos reveal the suffering of residents in a once-thriving Ukrainian city with a prewar population of about 400,000. 
+ <a href="https://www.wsj.com/articles/inside-the-russian-siege-of-mariupol-11650620142">Inside the Siege of Mariupol</a> WSJ: Recent photos reveal the suffering of residents in a once-thriving Ukrainian city with a prewar population of about 400,000. 
  <p class="updated_time"> 12:27 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61137649?at_medium=RSS&at_campaign=KARANGA">Shanghai escalates Covid lockdown restrictions</a> BBC: The latest measures will include placing door alarms to prevent those infected from leaving. 
- <p class="updated_time"> 12:19 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/kim-jong-un-pauses-hostilities-to-offer-warm-farewell-to-south-korean-leader-11650619186">Kim Jong Un Pauses Hostilities to Offer Warm Farewell to South Korean Leader</a> WSJ: The North Korean dictator called his exchange of letters with outgoing South Korean President Moon Jae-in an “expression of their deep trust.” 
  <p class="updated_time"> 11:39 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/asia/north-korea-kim-moon-letters.html">President Moon Exchanges Farewell Letters With Kim Jong-un</a> NYT: President Moon Jae-in, who is barred from seeking re-election after his five-year term, and the North’s leader had warm parting words amid a diplomatic stalemate. 
  <p class="updated_time"> 11:07 PM CT, Apr. 21 </p> 
@@ -204,12 +204,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:47 AM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/us/tennessee-drunk-driving-child-support.html">Tennessee Bill Would Force Drunken Drivers to Support Victims’ Children</a> NYT: The state’s legislature is believed to be the first to pass such a measure, covering cases in which the parent of a minor is killed. It will go to the governor for his signature. 
  <p class="updated_time"> 08:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/business/stocks-elections-midterm-biden.html">Why Midterm Election Years Are Tough for the Stock Market</a> NYT: These months are historically the weakest for the market in a presidential term. Aside from coincidence, there are several possible explanations. 
  <p class="updated_time"> 08:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/theater/potus-selina-fillinger-broadway.html">The ‘POTUS’ Playwright Is Making a Farce of the Patriarchy </a> NYT: “POTUS” will be the writer Selina Fillinger’s Broadway debut. “I really didn’t feel like I needed to do any research. I have been all of those women,” she said. 
- <p class="updated_time"> 07:51 AM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/us/tennessee-drunk-driving-child-support.html">Tennessee Bill Would Force Drunken Drivers to Pay Child Support</a> NYT: The state’s legislature is believed to be the first to pass such a measure, covering cases in which the parent of a minor is killed. It will go to the governor for his signature. 
  <p class="updated_time"> 05:05 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1093974389/kevin-mccarthy-audio-resign-donald-trump-capitol-riot">Audio shows Kevin McCarthy planned to urge Trump to resign after Capitol riot</a> NPR: In the recorded conversation, House Minority Leader Kevin McCarthy said he didn't believe Donald Trump would voluntarily step down. 
  <p class="updated_time"> 04:12 AM CT, Apr. 22 </p> 
@@ -224,6 +224,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1093738759/earth-day-schools-federal-government-green">In an effort to make schools greener, the White House is offering billions of dollars</a> NPR: From solar panels to electric buses — the Biden Administration wants to make it easier for schools to tap more than $5.5 billion for climate-friendly upgrades. 
  <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html">As Europe Approves New Tech Laws, the U.S. Falls Further Behind</a> NYT: Federal privacy bills, security legislation and antitrust laws to address the power of the tech giants have all failed to advance in Congress, despite hand wringing and shows of bipartisan support. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/us/politics/biden-legal-strategy-mask-mandate.html">Why Hasn’t the U.S. Asked for a Stay in the Mask Mandate Case?</a> NYT: The administration’s actions suggest either a botched case or a shrewd play for time as it gives up on the mask order but hopes to erase an adverse ruling, legal experts said. 
  <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/ruben-gallego-deep-dive-00027134">'You only win if you fight': Will Gallego unseat Sinema?</a> Politico: On this week’s episode of Playbook Deep Dive, co-author Ryan Lizza chats with Arizona Congressman Ruben Gallego, a Marine veteran and rumored primary challenger to Senator Kyrsten Sinema in 2024. Gallego has an unsparing take on challenging Sinema, Jan. 6 and why Democrats need to lead more. 
  <p class="updated_time"> 03:31 AM CT, Apr. 22 </p> 
@@ -328,8 +330,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/21/senate-democrats-midterm-election-biden-00026781">Biden’s dismal poll numbers imperil Dem Senate control</a> Politico: The president’s popularity is dangerously low in the four states where Democratic incumbents are most endangered. 
  <p class="updated_time"> 02:00 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/biden-pandemic-relief-democrats.html">If Biden’s Plan Is Like a ‘New Deal,’ Why Don’t Voters Care?</a> NYT: The $1.9 trillion pandemic-relief law unleashed a massive wave of spending on local construction projects and programs. Democratic candidates aren’t getting much credit. 
- <p class="updated_time"> 10:39 PM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/us/politics/russia-putin-missile-test.html">Russia’s Missile Test Fuels U.S. Fears of an Isolated Putin</a> NYT: American and foreign leaders have been weighing whether their success in making Russia a diplomatic pariah could push President Vladimir V. Putin to strike in new ways. 
  <p class="updated_time"> 06:14 PM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/capitol-police-backtracks-on-airplane-threat-after-ordering-evacuation-00026765">Capitol Police backtracks on airplane threat after ordering evacuation</a> Politico: An Army plane was circling the area around the Capitol, part of a parachute stunt at Wednesday night’s Nationals baseball game. 
  <p class="updated_time"> 01:14 PM CT, Apr. 20 </p> 
