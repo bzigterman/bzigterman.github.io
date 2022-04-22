@@ -9,22 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:57 AM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Uncertainty Hangs Over Mariupol Steel Plant</a> NYT: President Vladimir V. Putin of Russia called off an assault on the factory complex where Ukrainians were holding out, but a soldier there said shelling continued. President Biden said the U.S. was sending more weapons to help Kyiv. 
- <p class="updated_time"> 05:37 AM CT, Apr. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61188963?at_medium=RSS&at_campaign=KARANGA">Mwai Kibaki: Kenya's first opposition president dies aged 90</a> BBC: Mwai Kibaki ended 40 years of one-party rule but his 2007 re-election sparked nationwide violence. 
- <p class="updated_time"> 05:23 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 06:14 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Live Updates: Jerusalem Calms After New Clashes Erupt Briefly</a> NYT: Quiet returned to the Old City after about an hour of clashes between Palestinians and Israeli police at the Aqsa Mosque compound, known to Jews as Temple Mount. 
+ <p class="updated_time"> 06:12 AM CT, Apr. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61189745?at_medium=RSS&at_campaign=KARANGA">Imran Khan: Inside the huge rally in Lahore for Pakistan's ousted PM</a> BBC: The former prime minister's narrative of a US-led conspiracy to oust him is resonating with his supporters. 
+ <p class="updated_time"> 06:11 AM CT, Apr. 22 </p> 
+ <a href="https://www.npr.org/2022/04/22/1094106596/these-airlines-are-letting-passengers-banned-for-mask-violations-back-on-planes">These airlines are letting passengers banned for mask violations back on planes</a> NPR: The cases will be determined on a case-by-case basis, depending on the company. Here's a look at where each of the major U.S. airlines stands. 
+ <p class="updated_time"> 06:07 AM CT, Apr. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61188963?at_medium=RSS&at_campaign=KARANGA">Mwai Kibaki: Kenya's first opposition president dies aged 90</a> BBC: Mwai Kibaki ended 40 years of one-party rule but his 2007 re-election sparked nationwide violence. 
+ <p class="updated_time"> 05:59 AM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Uncertainty Hangs Over Mariupol Steel Plant</a> NYT: President Vladimir V. Putin of Russia called off an assault on the factory complex where Ukrainians were holding out, but a soldier there said shelling continued. President Biden said the U.S. was sending more weapons to help Kyiv. 
+ <p class="updated_time"> 05:21 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039">Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant</a> WSJ: Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant 
  <p class="updated_time"> 05:17 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61154373?at_medium=RSS&at_campaign=KARANGA">Jerusalem holy site clashes fuel fears of return to war</a> BBC: Tensions are high following several days of violence in and around the al-Aqsa Mosque compound. 
  <p class="updated_time"> 05:08 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188783?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The Russia I knew no longer exists - Steve Rosenberg</a> BBC: The BBC's Steve Rosenberg takes in the sites of Moscow apparently distorted by the war against Ukraine. 
- <p class="updated_time"> 05:01 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039">Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant</a> WSJ: Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant 
+ <p class="updated_time"> 04:21 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/for-civilians-trapped-in-mariupol-fleeing-can-be-as-risky-as-staying-11650566495">For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying</a> WSJ: For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying 
  <p class="updated_time"> 04:12 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1092591767/despite-u-s-sanctions-oil-traders-help-russian-oil-reach-global-markets">Despite U.S. sanctions, oil traders help Russian oil reach global markets</a> NPR: Russia is still making billions of dollars on oil exports since invading Ukraine. That crude is still flowing abroad thanks in part to a controversial group of oil traders. 
- <p class="updated_time"> 04:01 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/for-civilians-trapped-in-mariupol-fleeing-can-be-as-risky-as-staying-11650566495">For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying</a> WSJ: For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying 
  <p class="updated_time"> 04:01 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1093356468/coachellas-music-fan-fave-do-lab-is-back">Coachella's music fan fave Do LaB is back!</a> NPR: Coachella is back after being shuttered by the pandemic. We take a look at the Do LaB stage, created by three brothers, as a renegade event. 
  <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
@@ -37,24 +41,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
  <p class="updated_time"> 03:41 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/germany-ukraine-weapons.html">Calls to Give Heavy Weapons to Ukraine Divide Germany’s Government</a> NYT: Weeks after Chancellor Olaf Scholz announced a paradigm shift in military strategy, his government is struggling to balance domestic politics, how to help Ukraine and anxiety over provoking Russia. 
- <p class="updated_time"> 03:01 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 03:21 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/france-issues-international-arrest-warrant-for-carlos-ghosn-11650578738">France Issues International Arrest Warrant for Ghosn</a> WSJ: France Issues International Arrest Warrant for Ghosn 
  <p class="updated_time"> 03:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/1922-women-smoking-cigars.html">1922: Sight of Women Smoking A Cigar Shocks Paris</a> NYT: Two women who shared a Havana cigar in a Parisian restaurant reportedly caused a stir. 
  <p class="updated_time"> 02:37 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/asia/new-zealand-japan-intelligence.html">New Zealand Deal May Put Japan Closer to Intelligence Alliance</a> NYT: The two countries announced a goal of “seamless” sharing of classified information as China moves to expand its influence in the Asia-Pacific region. 
+ <p class="updated_time"> 02:21 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/russias-war-machine-hurt-by-u-s-export-ban-commerce-secretary-says-11650593769">Russia’s War Machine Hurt by U.S. Export Ban, Commerce Secretary Says</a> WSJ: Russia’s War Machine Hurt by U.S. Export Ban, Commerce Secretary Says 
  <p class="updated_time"> 02:19 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/middleeast/israel-gaza-rocket-fire.html">Gazan Militants and Israeli Air Force Exchange Fire</a> NYT: The flare-up followed a rise in tensions over holy places in Jerusalem and a deadly wave of Arab attacks in Israel, answered by a lethal Israeli crackdown in the occupied West Bank. 
- <p class="updated_time"> 02:01 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/russias-war-machine-hurt-by-u-s-export-ban-commerce-secretary-says-11650593769">Russia’s War Machine Hurt by U.S. Export Ban, Commerce Secretary Says</a> WSJ: Russia’s War Machine Hurt by U.S. Export Ban, Commerce Secretary Says 
  <p class="updated_time"> 02:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/le-pen-putin-france-election.html">As Marine Le Pen Moves Closer to French Presidency, Putin Ties Persist</a> NYT: As elections approach Sunday, the far-right candidate is linked to the Russian president by a web of financial ties and a history of support that has hardly dimmed despite the war in Ukraine. 
+ <p class="updated_time"> 01:55 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Russia Advances in Ukraine's Donbas, Is Accused of Digging Mass Graves</a> WSJ: Russian forces slowly made gains in Ukraine’s east, as Ukrainian officials said thousands of people have been buried in mass graves in Mariupol, most of which has been seized by Russia after nearly two months of combat. 
+ <p class="updated_time"> 01:21 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/kim-jong-un-pauses-hostilities-to-offer-warm-farewell-to-south-korean-leader-11650619186">Kim Jong Un Pauses Hostilities to Offer Warm Farewell to South Korean Leader</a> WSJ: Kim Jong Un Pauses Hostilities to Offer Warm Farewell to South Korean Leader 
  <p class="updated_time"> 01:07 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094234731/possible-mass-graves-near-mariupol-shown-in-satellite-images">Possible mass graves near Mariupol shown in satellite images</a> NPR: New satellite images show what appear to be mass graves near Mariupol, and local officials accused Russia of burying up to 9,000 Ukrainian civilians there. 
  <p class="updated_time"> 01:03 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094237785/israeli-police-storm-jerusalem-holy-site-after-rock-throwing">Israeli police storm Jerusalem holy site after rock-throwing</a> NPR: Israeli police in full riot gear stormed a sensitive Jerusalem holy site sacred to Jews and Muslims on Friday after Palestinian youths hurled stones at a gate where they were stationed. 
- <p class="updated_time"> 01:01 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/kim-jong-un-pauses-hostilities-to-offer-warm-farewell-to-south-korean-leader-11650619186">Kim Jong Un Pauses Hostilities to Offer Warm Farewell to South Korean Leader</a> WSJ: Kim Jong Un Pauses Hostilities to Offer Warm Farewell to South Korean Leader 
  <p class="updated_time"> 12:27 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61137649?at_medium=RSS&at_campaign=KARANGA">Shanghai escalates Covid lockdown restrictions</a> BBC: The latest measures will include placing door alarms to prevent those infected from leaving. 
  <p class="updated_time"> 11:39 PM CT, Apr. 21 </p> 
@@ -141,8 +147,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/us/politics/us-vaccine-international-land-borders.html">U.S. Is Extending a Vaccine Rule for International Travelers at Land Borders</a> NYT: Unlike air travelers entering the United States, land and ferry travelers will still not have to show a recent negative coronavirus test to cross the border. 
  <p class="updated_time"> 01:04 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/afghanistan-mosque-bombing.html">Explosion at Afghan Mosque Kills at Least 10</a> NYT: The blast in Mazar-i-Sharif, one of Afghanistan’s economic hubs, was the latest in a series of attacks on one of its religious minorities and was claimed by an ISIS affiliate. 
- <p class="updated_time"> 10:56 AM CT, Apr. 21 </p> 
- <a href="https://www.npr.org/2022/04/21/1093836438/belgium-zeebrugge-lottery-winner-algerian-undocumented">He won the lottery. Now the clock is ticking to prove his identity and claim it</a> NPR: Winning over a quarter million dollars was easy for an undocumented 28-year-old Algerian man in Belgium. Getting his winnings has proven to be a challenge spanning two continents. 
  <p class="updated_time"> 09:49 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html">Barack Obama Takes On a New Role: Fighting Disinformation</a> NYT: The former president has embarked on a campaign to warn that the scourge of online falsehoods has eroded the foundations of democracy. 
  <p class="updated_time"> 07:38 AM CT, Apr. 21 </p> 
@@ -183,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/20/world/europe/assange-uk-extradition.html">U.K. Court Order Moves Assange Closer to Extradition</a> NYT: The court formally ordered the extradition of the WikiLeaks founder to the United States, but it still needs approval from a British cabinet minister and his defense can appeal to her directly. 
  <p class="updated_time"> 10:26 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/dementia-grandparent.html">Ukrainians Far From Home Struggle to Protect Family With Dementia</a> NYT: Millions of Ukrainians have been displaced since the war started. Many elderly or disabled people have been unable or unwilling to leave their homes. 
- <p class="updated_time"> 06:03 PM CT, Apr. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61147690?at_medium=RSS&at_campaign=KARANGA">The Zomato and Swiggy riders risking their lives to deliver food in 10 minutes</a> BBC: The BBC followed overworked delivery riders as they raced against time to take food to customers. 
 
 
 </details>
@@ -263,7 +265,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:17 PM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1094119439/a-look-at-the-white-house-s-new-initiative-for-more-clean-transit">The White House's new initiative aims to reduce carbon emissions from transportation</a> NPR: NPR's Ari Shapiro speaks with Gina McCarthy, White House National Climate Adviser, about a new initiative aimed at reducing carbon emissions and expanding clean transit. 
  <p class="updated_time"> 03:15 PM CT, Apr. 21 </p> 
+ <a href="https://www.cnn.com/2022/04/21/politics/puerto-rico-supreme-court-federal-disability-benefits/index.html">Supreme Court rules Puerto Ricans don't have constitutional right to some federal benefits</a> CNN: Congress can exclude residents of Puerto Rico from some federal disability benefits available to those who live in the 50 states, the Supreme Court ruled Thursday. 
+ <p class="updated_time"> 03:15 PM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/mystery-drone-air-force-new-weapon-ukraine-00026970">Mystery drone: How the Air Force fast-tracked a new weapon for Ukraine</a> Politico: The “Phoenix Ghost” drones were developed by California-based Aevex Aerospace. 
+ <p class="updated_time"> 02:47 PM CT, Apr. 21 </p> 
+ <a href="https://www.cnn.com/2022/04/21/politics/biden-student-loan-debt-forgiveness-eligibility/index.html">Here's who is eligible for student loan debt relief after Biden's latest actions</a> CNN: The Biden administration has taken multiple actions to make it easier for federal student loan borrowers to receive debt forgiveness that they may already be entitled to under existing programs. 
  <p class="updated_time"> 02:09 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/business/janet-yellen-supply-chains.html">Janet Yellen Calls for Reshaping Supply Chains That Are ‘Not Secure’</a> NYT: Policymakers are discussing how to be less reliant on adversarial countries at the spring meetings of the I.M.F. and World Bank. 
  <p class="updated_time"> 01:53 PM CT, Apr. 21 </p> 
@@ -330,8 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/04/19/politics/who-is-judge-kathryn-kimball-mizelle-biden-mask-mandate/index.html">Who is Judge Kathryn Kimball Mizelle, the federal judge who blocked Biden's travel mask mandate?</a> CNN: A little-known federal judge appointed by former President Donald Trump found herself in the national spotlight on Monday after striking down the Biden administration's public transportation mask mandate. 
  <p class="updated_time"> 03:30 AM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/abigail-spanberger-virginia-policing-message-00026211">'That was a terrible idea': Spanberger wants a policing reboot for House Dems</a> Politico: Democrats see Rep. Abigail Spanberger's district as competitive but winnable in a tough midterm fight. She thinks addressing GOP attacks on crime head on is key to keeping it. 
- <p class="updated_time"> 01:38 PM CT, Apr. 19 </p> 
- <a href="https://www.cnn.com/2022/04/19/politics/student-loan-debt-forgiveness-repayment/index.html">Biden's latest student debt move will bring 3.6 million borrowers closer to loan forgiveness</a> CNN: The Department of Education is making more changes to the federal student loan system that will help bring millions of borrowers -- some of whom may have previously been in forbearance -- closer to receiving debt forgiveness. 
 
 
 </details>
