@@ -9,36 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/world/europe/le-pen-putin-france-election.html">As Marine Le Pen Moves Closer to French Presidency, Putin Ties Persist</a> NYT: As elections approach Sunday, the far-right candidate is linked to the Russian president by a web of financial ties and a history of support that has hardly dimmed despite the war in Ukraine. 
  <p class="updated_time"> 01:26 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/04/21/world/ukraine-russia-war-news">What Happened on Day 57 of the War in Ukraine</a> NYT: President Vladimir V. Putin of Russia said he would blockade rather than storm the Mariupol factory where Ukrainian forces were holding out. But a soldier in the plant said shelling continued. 
+ <p class="updated_time"> 01:20 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039">Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant</a> WSJ: Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant 
  <p class="updated_time"> 01:07 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094234731/possible-mass-graves-near-mariupol-shown-in-satellite-images">Possible mass graves near Mariupol shown in satellite images</a> NPR: New satellite images show what appear to be mass graves near Mariupol, and local officials accused Russia of burying up to 9,000 Ukrainian civilians there. 
  <p class="updated_time"> 01:03 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094237785/israeli-police-storm-jerusalem-holy-site-after-rock-throwing">Israeli police storm Jerusalem holy site after rock-throwing</a> NPR: Israeli police in full riot gear stormed a sensitive Jerusalem holy site sacred to Jews and Muslims on Friday after Palestinian youths hurled stones at a gate where they were stationed. 
- <p class="updated_time"> 12:56 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039">Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant</a> WSJ: Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant 
  <p class="updated_time"> 12:27 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61137649?at_medium=RSS&at_campaign=KARANGA">Shanghai escalates Covid lockdown restrictions</a> BBC: The latest measures will include placing door alarms to prevent those infected from leaving. 
- <p class="updated_time"> 11:56 PM CT, Apr. 21 </p> 
+ <p class="updated_time"> 12:20 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/for-civilians-trapped-in-mariupol-fleeing-can-be-as-risky-as-staying-11650566495">For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying</a> WSJ: For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying 
  <p class="updated_time"> 11:39 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/asia/north-korea-kim-moon-letters.html">President Moon Exchanges Farewell Letters With Kim Jong-un</a> NYT: President Moon Jae-in, who is barred from seeking re-election after his five-year term, and the North’s leader had warm parting words amid a diplomatic stalemate. 
+ <p class="updated_time"> 11:20 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/biden-says-u-s-to-send-ukraine-800-million-in-military-aid-11650550623">U.S. to Send Ukraine $800 Million in Military Aid</a> WSJ: U.S. to Send Ukraine $800 Million in Military Aid 
  <p class="updated_time"> 11:07 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/australia/tourists-return-australia-new-zealand.html">When Will the Tourists Be Back?</a> NYT: An industry weathering a long winter looks warily ahead. 
- <p class="updated_time"> 10:56 PM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/biden-says-u-s-to-send-ukraine-800-million-in-military-aid-11650550623">U.S. to Send Ukraine $800 Million in Military Aid</a> WSJ: U.S. to Send Ukraine $800 Million in Military Aid 
+ <p class="updated_time"> 10:20 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/israeli-palestinian-clashes-intensify-as-more-jews-visit-jerusalems-contested-holy-site-11650550463">Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site</a> WSJ: Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site 
  <p class="updated_time"> 09:56 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/south-korea-gay-sex-military.html">S​outh Korea’s Supreme Court ​Issues Landmark Ruling on Gay Sex</a> NYT: ​The court said that the military should not punish consensual sex acts that had taken place in a nonmilitary setting. 
- <p class="updated_time"> 09:56 PM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/israeli-palestinian-clashes-intensify-as-more-jews-visit-jerusalems-contested-holy-site-11650550463">Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site</a> WSJ: Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site 
  <p class="updated_time"> 09:56 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/uruena-spain-book-hub.html">This Spanish Village Has More Booksellers Than School Pupils</a> NYT: Urueña, in northwestern Spain, has fought depopulation by reinventing itself as a literary hub. The full-time population is still just 100, but there are 11 shops selling books. 
  <p class="updated_time"> 09:48 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/putin-mariupol-steel-plant.html">Putin Claims Victory in Mariupol, Calling Off Steel Plant Assault</a> NYT: With casualties mounting and progress slow in his war on Ukraine, Vladimir V. Putin is eager to present it to the Russian people as a success. 
+ <p class="updated_time"> 09:20 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-lockdown-leads-to-logistics-disarray-with-quarantined-truckers-piled-up-containers-11650537303">Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers</a> WSJ: Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers 
  <p class="updated_time"> 09:06 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/zelensky-ukraine-support.html">Zelensky Says Ukraine Needs $7 Billion in Support per Month</a> NYT: Ukraine has suffered $550 billion in losses from the war, President Volodymyr Zelensky told the World Bank on Thursday. 
- <p class="updated_time"> 08:56 PM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/shanghai-lockdown-leads-to-logistics-disarray-with-quarantined-truckers-piled-up-containers-11650537303">Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers</a> WSJ: Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers 
  <p class="updated_time"> 08:53 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/us-weapons-ukraine.html">What to Know About the Weapons Being Sent to Ukraine</a> NYT: The Biden administration is sending dozens of howitzers and 120 drones in the latest $800 million package of military aid. 
  <p class="updated_time"> 08:48 PM CT, Apr. 21 </p> 
@@ -129,8 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/21/1093614930/how-the-late-jazz-great-charles-mingus-is-being-remembered-100-years-later">How the late jazz great Charles Mingus is being remembered 100 years later</a> NPR: Regarded as one of the most important figures in jazz, tributes are planned across the world to honor the legacy of bassist, bandleader and pioneer Charles Mingus. 
  <p class="updated_time"> 06:26 AM CT, Apr. 21 </p> 
  <a href="https://www.wsj.com/articles/japan-ruling-party-calls-for-defense-spending-boost-to-2-of-gdp-11650554786">Japan Ruling Party Calls for Defense Spending Boost</a> WSJ: A Liberal Democratic Party panel said Japan should aim to nearly double its defense spending over the next five years to 2% of gross domestic product. 
- <p class="updated_time"> 06:09 AM CT, Apr. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61176973?at_medium=RSS&at_campaign=KARANGA">Haiti: Small plane crashes on to main road killing six</a> BBC: The pilot is among those who died when the aircraft came down in Haiti, injuring people on the ground. 
  <p class="updated_time"> 05:21 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/russian-spies-europe-ukraine.html">He Was a Penniless Donor to the Far Right. He Was Also a Russian Spy.</a> NYT: An investigation in Slovakia has exposed how Russian clandestine operations are trying to sow discord in Europe and create sympathy for Moscow over Ukraine. 
  <p class="updated_time"> 04:30 AM CT, Apr. 21 </p> 
@@ -177,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/20/world/americas/colombia-comandos-armed-groups.html">Deep in Colombia, Rebels and Soldiers Fight for the Same Prize: Drugs</a> NYT: The country signed a historic peace deal more than five years ago. But a power vacuum is fueling the rise of new armed groups competing to control the drug trade. 
  <p class="updated_time"> 04:30 AM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/asia/rohingya-refugees-malaysia-deaths.html">6 Rohingya Refugees Are Killed Fleeing Detention Center in Malaysia</a> NYT: In recent years, the Malaysian government has taken a more hard-line approach to the refugees in the country, which once offered a modicum of opportunity. 
- <p class="updated_time"> 10:25 PM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/us/politics/biden-masks-public-transportation.html">Biden Says It’s ‘Up to Them’ Whether Americans Want to Wear Masks</a> NYT: The decision to wear a mask is “up to them,” President Biden told reporters during a trip. 
  <p class="updated_time"> 08:13 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/russia-ukraine-cease-fire-mariupol.html">Russia Rejects Calls for a Cease-Fire to Enable Evacuations From Ukraine</a> NYT: Civilians, including children, remain trapped in the eastern Ukraine region of Donbas and in the devastated port city of Mariupol. 
  <p class="updated_time"> 07:43 PM CT, Apr. 19 </p> 
