@@ -9,18 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:10 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 04:32 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Russia Pounds Eastern Ukraine and Takes Dozens of Towns</a> NYT: After Russia scaled back its publicly stated ambitions in Ukraine, a senior Russian military commander said that Moscow wanted complete control of all eastern and southern Ukraine. It was unclear if his comments reflected an official shift in Kremlin policy. 
  <p class="updated_time"> 03:58 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094257492/russia-ukraine-war-what-happened-today-april-22">Russia-Ukraine war: What happened today (April 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:49 PM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/world/europe/ukraine-front-line-zaporizhzhya.html">Dug In on Front Lines, Ukrainians Aim to Repel Russian Onslaught</a> NYT: After near-annihilation, and a marriage proposal, a Ukrainian unit has become a group of hardened veterans, dug in and determined. 
+ <a href="https://www.nytimes.com/2022/04/22/world/europe/ukraine-front-line-zaporizhzhya.html">Ukraine’s Forces, Dug In on Front Line, Fight to Repel Russia</a> NYT: After near-annihilation, and a marriage proposal, a Ukrainian unit has become a group of hardened veterans, dug in and determined. 
  <p class="updated_time"> 03:46 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61196325?at_medium=RSS&at_campaign=KARANGA">Somalia: At least six killed in Mogadishu attack near beach</a> BBC: The attack reportedly happened near a beach in the capital, Mogadishu. 
  <p class="updated_time"> 03:40 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094390305/macron-is-beating-le-pen-in-frances-polls-but-not-by-as-much-as-5-years-ago">Macron is beating Le Pen in France's polls — but not by as much as 5 years ago</a> NPR: French voters cast their ballots Sunday. Polls show incumbent president Emmanuel Macron ahead of his rival, populist candidate Marine Le Pen. 
  <p class="updated_time"> 03:40 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094390298/displaced-ukrainians-in-bulgaria-are-finding-ways-to-mark-orthodox-easter">Displaced Ukrainians in Bulgaria are finding ways to mark Orthodox Easter</a> NPR: This weekend is Orthodox Easter, a holiday celebrated in Ukraine. Millions are fleeing the Russian invasion right now, but those seeking refuge in Bulgaria are marking the holiday. 
+ <p class="updated_time"> 03:38 PM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 03:33 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094390284/chinas-tech-crackdown-has-disrupted-its-financial-markets">China's tech crackdown has disrupted its financial markets</a> NPR: China has enforced strict regulations on its tech platforms over the past year. But this crackdown has sparked such instability in financial markets that the government may be having second thoughts. 
  <p class="updated_time"> 03:29 PM CT, Apr. 22 </p> 
@@ -35,18 +37,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094390221/many-ukrainians-arent-optimistic-about-peace-with-russia">Many Ukrainians aren't optimistic about peace with Russia</a> NPR: As a Russian general reveals Kremlin plans to take Ukraine's Donbas region to the east as well as all of the country's south, we look at the situation out a village near the frontlines of the war. 
  <p class="updated_time"> 03:28 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/hackers-russia-cyberattacks.html">Hackers Claim to Target Russian Institutions in Barrage of Cyberattacks and Leaks</a> NYT: While the authenticity of leaked data could not be verified, the effort appears to be part of a campaign by hackers opposed to the Kremlin. 
- <p class="updated_time"> 03:23 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 03:21 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/africa/mwai-kibaki-kenya-dead.html">Mwai Kibaki, Former President of Kenya, Dies at 90</a> NYT: He came to power promising to root out corruption and improve government transparency. But his tenure was blighted by widespread graft and a violent upheaval. 
  <p class="updated_time"> 03:20 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/france-muslims-presidential-vote.html">Who Will France’s Muslims Choose for President?</a> NYT: In Sunday’s decisive runoff election, they have a distasteful choice between Macron and Le Pen. They won’t necessarily back Macron. 
+ <p class="updated_time"> 03:00 PM CT, Apr. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61185304?at_medium=RSS&at_campaign=KARANGA">Carlos Ghosn: Ex-Nissan boss says he wants a trial</a> BBC: The former car boss says he wants to clear his name after France issued an international warrant for his arrest. 
+ <p class="updated_time"> 02:38 PM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
  <p class="updated_time"> 02:35 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/22/1093814861/the-u-s-mask-mandate-is-off-for-travelers-in-other-countries-its-definitely-on">The U.S. mask mandate is off for travelers. In other countries it's definitely on</a> NPR: In China, for example, not only are masks required on planes but gloves are recommended — and passengers are urged not to touch their face during the flight. Here's what you'll find around the globe. 
  <p class="updated_time"> 02:30 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61154373?at_medium=RSS&at_campaign=KARANGA">Jerusalem holy site clashes fuel fears of return to war</a> BBC: Tensions are high following several days of violence in and around the al-Aqsa Mosque compound. 
- <p class="updated_time"> 02:23 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
  <p class="updated_time"> 02:07 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/climate/climate-rally-biden.html">Climate Rallies Planned for White House and Across U.S. </a> NYT: ‘Fight for Our Future’ rallies are planned Saturday for Washington, Atlanta, Phoenix and elsewhere as supporters say time is running out for ambitious climate action. 
  <p class="updated_time"> 01:59 PM CT, Apr. 22 </p> 
@@ -56,19 +58,19 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:42 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61192417?at_medium=RSS&at_campaign=KARANGA">Mike Tyson punched plane passenger 'after bottle thrown'</a> BBC: Video shows the former heavyweight boxer repeatedly punching a man in the head. 
  <p class="updated_time"> 01:38 PM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
- <p class="updated_time"> 01:23 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/global-growth-outlook-ebbs-in-face-of-ukraine-war-china-slowdown-11650633870">Global Growth Outlook Ebbs Amid Ukraine War, China Slowdown</a> WSJ: Global Growth Outlook Ebbs Amid Ukraine War, China Slowdown 
- <p class="updated_time"> 12:23 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 01:38 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
+ <p class="updated_time"> 12:38 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/shanghai-nursing-home-covid-deaths-11650641053">New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed</a> WSJ: New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed 
  <p class="updated_time"> 12:15 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia 'plans to seize southern Ukraine'</a> BBC: A senior general says the aim is to open a route into a separatist region of Moldova, Transnistria. 
  <p class="updated_time"> 11:59 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61191643?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Kunduz mosque attacked during Friday prayers</a> BBC: The deadly explosion comes amid a revival of violence claimed by Islamic State militants. 
+ <p class="updated_time"> 11:38 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840">Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</a> WSJ: Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor 
  <p class="updated_time"> 11:23 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61192594?at_medium=RSS&at_campaign=KARANGA">#JusticeForSheila: Kenyan anger after lesbian's murder</a> BBC: People in Kenyan are expressing their upset about LGBTQ discrimination after 
- <p class="updated_time"> 11:23 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840">Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</a> WSJ: Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor 
  <p class="updated_time"> 11:08 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/ukraine-airplane-russia-war-mriya.html">One Ukrainian War Casualty: The World’s Largest Airplane</a> NYT: Mriya, the world’s largest aircraft, was destroyed in a pivotal battle at the start of the war. It was a beloved symbol for all of Ukraine but perhaps no one misses it more than its first pilot. 
  <p class="updated_time"> 11:00 AM CT, Apr. 22 </p> 
@@ -87,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61187658?at_medium=RSS&at_campaign=KARANGA">Khodorkovsky: Oil ban would deal Putin ‘very serious blow’</a> BBC: Exiled Russian tycoon says oil embargo could halve country’s cash and damage Putin’s war capability. 
  <p class="updated_time"> 09:11 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/africa/aliou-cisse-soccer-senegal.html">Aliou Cissé Has Senegal Ready to Shine in World Cup</a> NYT: Aliou Cissé, one of the best of a new generation of African coaches, has reinvented Senegal’s national team and given the country a new sense of patriotism. His next goal: the World Cup. 
- <p class="updated_time"> 08:44 AM CT, Apr. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61188963?at_medium=RSS&at_campaign=KARANGA">Mwai Kibaki: Kenya's first opposition president dies aged 90</a> BBC: Mwai Kibaki ended 40 years of one-party rule but his 2007 re-election sparked nationwide violence. 
  <p class="updated_time"> 06:27 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/india-kangaroos-smuggling-west-bengal.html">Kangaroos in India? Experts See Evidence of a Smuggling Trade</a> NYT: The animals are the latest exotic fauna to be smuggled into the country, possibly to be used as pets. Draft legislation would close loopholes in the roaring wildlife trade. 
  <p class="updated_time"> 06:12 AM CT, Apr. 22 </p> 
@@ -211,7 +211,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:47 PM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/madison-cawthorn-photos-00027286">Exclusive: Madison Cawthorn photos reveal him wearing women’s lingerie in public setting</a> Politico: The embattled congressman has outraged Republican colleagues with accusations of orgies and drug use. 
  <p class="updated_time"> 03:44 PM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/us/politics/mccarthy-trump-republicans.html">Audio of McCarthy’s Lie Reveals GOP Hypocrisy on Trump</a> NYT: The Republican leader’s false claim that he never urged President Donald J. Trump to resign — disproved by an audio recording of the comments — drew little outrage from members of his party. 
+ <a href="https://www.nytimes.com/2022/04/22/us/politics/mccarthy-trump-republicans.html">McCarthy’s Lie Puts G.O.P. Hypocrisy on Trump on Display</a> NYT: The Republican leader’s false claim that he never urged President Donald J. Trump to resign — disproved by an audio recording of the comments — drew little outrage from members of his party. 
  <p class="updated_time"> 03:40 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094390305/macron-is-beating-le-pen-in-frances-polls-but-not-by-as-much-as-5-years-ago">Macron is beating Le Pen in France's polls — but not by as much as 5 years ago</a> NPR: French voters cast their ballots Sunday. Polls show incumbent president Emmanuel Macron ahead of his rival, populist candidate Marine Le Pen. 
  <p class="updated_time"> 03:33 PM CT, Apr. 22 </p> 
@@ -299,7 +299,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:40 PM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/justice-department-sandy-hook-families-question-infowars-bankruptcy-00027079">Justice Department, Sandy Hook families question Infowars bankruptcy</a> Politico: A federal judge is asked to postpone Friday's hearing on an effort by the right-wing provocateur Alex Jones to ward off creditors. 
  <p class="updated_time"> 06:00 PM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/us/politics/rhode-island-house-race-democrats.html">‘Carpetbaggers’ Raise an Age-Old Question: Do Voters Really Care?</a> NYT: Running for office in a state where you haven’t lived is a delicate art. 
+ <a href="https://www.nytimes.com/2022/04/21/us/politics/rhode-island-house-race-democrats.html">Sarah Morgenthau’s Tricky House Race in Rhode Island</a> NYT: Running for office in a state where you haven’t lived is a delicate art. 
  <p class="updated_time"> 05:57 PM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/kolfage-trump-wall-guilty-00027080">Leader of effort to fund Trump's border wall pleads guilty to fraud</a> Politico: The case once involved Steve Bannon, who has since been pardoned. 
  <p class="updated_time"> 05:06 PM CT, Apr. 21 </p> 
