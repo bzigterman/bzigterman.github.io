@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:29 AM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Russia Pounds Ukrainian Towns Along Eastern Front as Commander Signals Broader Aims</a> NYT: After scaling back its publicly stated ambitions in Ukraine, a senior Russian military commander said on Friday that Moscow wants complete control of all eastern and southern Ukraine. It was unclear if his comments reflected an official shift in Kremlin policy. 
+ <p class="updated_time"> 06:27 AM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/21/world/asia/india-kangaroos-smuggling-west-bengal.html">Kangaroos in India? Experts See Evidence of a Smuggling Trade</a> NYT: The animals are the latest exotic fauna to be smuggled into the country, possibly to be used as pets. Draft legislation would close loopholes in the roaring wildlife trade. 
  <p class="updated_time"> 06:14 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Live Updates: Jerusalem Calms After New Clashes Erupt Briefly</a> NYT: Quiet returned to the Old City after about an hour of clashes between Palestinians and Israeli police at the Aqsa Mosque compound, known to Jews as Temple Mount. 
  <p class="updated_time"> 06:12 AM CT, Apr. 22 </p> 
@@ -17,16 +21,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094106596/these-airlines-are-letting-passengers-banned-for-mask-violations-back-on-planes">These airlines are letting passengers banned for mask violations back on planes</a> NPR: The cases will be determined on a case-by-case basis, depending on the company. Here's a look at where each of the major U.S. airlines stands. 
  <p class="updated_time"> 06:07 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61188963?at_medium=RSS&at_campaign=KARANGA">Mwai Kibaki: Kenya's first opposition president dies aged 90</a> BBC: Mwai Kibaki ended 40 years of one-party rule but his 2007 re-election sparked nationwide violence. 
- <p class="updated_time"> 05:59 AM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Uncertainty Hangs Over Mariupol Steel Plant</a> NYT: President Vladimir V. Putin of Russia called off an assault on the factory complex where Ukrainians were holding out, but a soldier there said shelling continued. President Biden said the U.S. was sending more weapons to help Kyiv. 
- <p class="updated_time"> 05:21 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039">Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant</a> WSJ: Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant 
+ <p class="updated_time"> 05:34 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/story/inside-the-russian-siege-of-mariupol-b6ace25e">Inside the Russian Siege of Mariupol</a> WSJ: Inside the Russian Siege of Mariupol 
  <p class="updated_time"> 05:17 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61154373?at_medium=RSS&at_campaign=KARANGA">Jerusalem holy site clashes fuel fears of return to war</a> BBC: Tensions are high following several days of violence in and around the al-Aqsa Mosque compound. 
  <p class="updated_time"> 05:08 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188783?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The Russia I knew no longer exists - Steve Rosenberg</a> BBC: The BBC's Steve Rosenberg takes in the sites of Moscow apparently distorted by the war against Ukraine. 
- <p class="updated_time"> 04:21 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/for-civilians-trapped-in-mariupol-fleeing-can-be-as-risky-as-staying-11650566495">For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying</a> WSJ: For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying 
+ <p class="updated_time"> 04:34 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Russia Advances in Ukraine’s Donbas, Is Accused of Digging Mass Graves</a> WSJ: Russia Advances in Ukraine’s Donbas, Is Accused of Digging Mass Graves 
  <p class="updated_time"> 04:12 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1092591767/despite-u-s-sanctions-oil-traders-help-russian-oil-reach-global-markets">Despite U.S. sanctions, oil traders help Russian oil reach global markets</a> NPR: Russia is still making billions of dollars on oil exports since invading Ukraine. That crude is still flowing abroad thanks in part to a controversial group of oil traders. 
  <p class="updated_time"> 04:01 AM CT, Apr. 22 </p> 
@@ -41,26 +43,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
  <p class="updated_time"> 03:41 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/germany-ukraine-weapons.html">Calls to Give Heavy Weapons to Ukraine Divide Germany’s Government</a> NYT: Weeks after Chancellor Olaf Scholz announced a paradigm shift in military strategy, his government is struggling to balance domestic politics, how to help Ukraine and anxiety over provoking Russia. 
- <p class="updated_time"> 03:21 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 03:34 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/france-issues-international-arrest-warrant-for-carlos-ghosn-11650578738">France Issues International Arrest Warrant for Ghosn</a> WSJ: France Issues International Arrest Warrant for Ghosn 
  <p class="updated_time"> 03:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/1922-women-smoking-cigars.html">1922: Sight of Women Smoking A Cigar Shocks Paris</a> NYT: Two women who shared a Havana cigar in a Parisian restaurant reportedly caused a stir. 
  <p class="updated_time"> 02:37 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/asia/new-zealand-japan-intelligence.html">New Zealand Deal May Put Japan Closer to Intelligence Alliance</a> NYT: The two countries announced a goal of “seamless” sharing of classified information as China moves to expand its influence in the Asia-Pacific region. 
- <p class="updated_time"> 02:21 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 02:34 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/russias-war-machine-hurt-by-u-s-export-ban-commerce-secretary-says-11650593769">Russia’s War Machine Hurt by U.S. Export Ban, Commerce Secretary Says</a> WSJ: Russia’s War Machine Hurt by U.S. Export Ban, Commerce Secretary Says 
  <p class="updated_time"> 02:19 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/middleeast/israel-gaza-rocket-fire.html">Gazan Militants and Israeli Air Force Exchange Fire</a> NYT: The flare-up followed a rise in tensions over holy places in Jerusalem and a deadly wave of Arab attacks in Israel, answered by a lethal Israeli crackdown in the occupied West Bank. 
  <p class="updated_time"> 02:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/le-pen-putin-france-election.html">As Marine Le Pen Moves Closer to French Presidency, Putin Ties Persist</a> NYT: As elections approach Sunday, the far-right candidate is linked to the Russian president by a web of financial ties and a history of support that has hardly dimmed despite the war in Ukraine. 
- <p class="updated_time"> 01:55 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Russia Advances in Ukraine's Donbas, Is Accused of Digging Mass Graves</a> WSJ: Russian forces slowly made gains in Ukraine’s east, as Ukrainian officials said thousands of people have been buried in mass graves in Mariupol, most of which has been seized by Russia after nearly two months of combat. 
- <p class="updated_time"> 01:21 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 01:34 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/kim-jong-un-pauses-hostilities-to-offer-warm-farewell-to-south-korean-leader-11650619186">Kim Jong Un Pauses Hostilities to Offer Warm Farewell to South Korean Leader</a> WSJ: Kim Jong Un Pauses Hostilities to Offer Warm Farewell to South Korean Leader 
  <p class="updated_time"> 01:07 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094234731/possible-mass-graves-near-mariupol-shown-in-satellite-images">Possible mass graves near Mariupol shown in satellite images</a> NPR: New satellite images show what appear to be mass graves near Mariupol, and local officials accused Russia of burying up to 9,000 Ukrainian civilians there. 
  <p class="updated_time"> 01:03 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094237785/israeli-police-storm-jerusalem-holy-site-after-rock-throwing">Israeli police storm Jerusalem holy site after rock-throwing</a> NPR: Israeli police in full riot gear stormed a sensitive Jerusalem holy site sacred to Jews and Muslims on Friday after Palestinian youths hurled stones at a gate where they were stationed. 
+ <p class="updated_time"> 12:35 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/inside-the-russian-siege-of-mariupol-11650620142">Inside the Russian Siege of Mariupol</a> WSJ: Recent photos reveal the suffering of residents in a once-thriving Ukrainian city with a prewar population of about 400,000. 
  <p class="updated_time"> 12:27 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61137649?at_medium=RSS&at_campaign=KARANGA">Shanghai escalates Covid lockdown restrictions</a> BBC: The latest measures will include placing door alarms to prevent those infected from leaving. 
  <p class="updated_time"> 11:39 PM CT, Apr. 21 </p> 
@@ -157,8 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/20/world/europe/russian-spies-europe-ukraine.html">He Was a Penniless Donor to the Far Right. He Was Also a Russian Spy.</a> NYT: An investigation in Slovakia has exposed how Russian clandestine operations are trying to sow discord in Europe and create sympathy for Moscow over Ukraine. 
  <p class="updated_time"> 03:12 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/avdiivka-ukraine-russia.html">Residents in Avdiivka, Ukraine Go Underground as Russia’s Assault on East Ramps Up</a> NYT: As Ukrainian forces dig into trenches and residents flee into basements, Russia’s artillery attacks have intensified. “They can’t get through the front lines and so they’re starting simply to destroy the city,” a Ukrainian official said. 
- <p class="updated_time"> 01:51 AM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/world/asia/india-kangaroos-smuggling-west-bengal.html">Kangaroos in India? Experts See Evidence of a Smuggling Trade</a> NYT: The animals are the latest exotic fauna to be smuggled into the country, possibly to be used as pets. Draft legislation would close loopholes in the roaring wildlife trade. 
  <p class="updated_time"> 11:43 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/americas/rosario-ibarra-dead.html">Rosario Ibarra de Piedra, 95, Dies; Fought for Mexico’s ‘Disappeared’</a> NYT: When her son vanished in 1975, she began a crusade on behalf of him and hundreds of others and became a voice of moral authority on the left. 
  <p class="updated_time"> 10:39 PM CT, Apr. 20 </p> 
