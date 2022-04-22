@@ -9,27 +9,27 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:27 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 09:42 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Russia Pounds Ukrainian Towns Along Eastern Front as Commander Signals Broader Aims</a> NYT: After scaling back its publicly stated ambitions in Ukraine, a senior Russian military commander said on Friday that Moscow wanted complete control of all eastern and southern Ukraine. It was unclear if his comments reflected an official shift in Kremlin policy. 
+ <p class="updated_time"> 09:34 AM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Live Updates: Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
  <p class="updated_time"> 09:20 AM CT, Apr. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61192417?at_medium=RSS&at_campaign=KARANGA">Mike Tyson punched plane passenger 'after bottle thrown'</a> BBC: Video of the altercation shows the former heavyweight boxer repeatedly punching a man in the head. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61192417?at_medium=RSS&at_campaign=KARANGA">Mike Tyson punched plane passenger 'after bottle thrown'</a> BBC: Video shows the former heavyweight boxer repeatedly punching a man in the head. 
  <p class="updated_time"> 09:11 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/africa/aliou-cisse-soccer-senegal.html">Aliou Cissé Has Senegal Ready to Shine in World Cup</a> NYT: Aliou Cissé, one of the best of a new generation of African coaches, has reinvented Senegal’s national team and given the country a new sense of patriotism. His next goal: the World Cup. 
- <p class="updated_time"> 09:08 AM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Live Updates: Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
  <p class="updated_time"> 09:06 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61191761?at_medium=RSS&at_campaign=KARANGA">Kenya's Mwai Kibaki: The hope and disappointment</a> BBC: Ex-Kenyan President Mwai Kibaki is remembered for ending the stranglehold of the former ruling party. 
  <p class="updated_time"> 09:03 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia 'plans to seize southern Ukraine'</a> BBC: A senior general says the aim is to open a route into a separatist region of Moldova, Transnistria. 
+ <p class="updated_time"> 08:48 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 08:44 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61188963?at_medium=RSS&at_campaign=KARANGA">Mwai Kibaki: Kenya's first opposition president dies aged 90</a> BBC: Mwai Kibaki ended 40 years of one-party rule but his 2007 re-election sparked nationwide violence. 
- <p class="updated_time"> 08:33 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 08:07 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/ukraine-airplane-russia-war-mriya.html">One Ukrainian War Casualty: The World’s Largest Airplane</a> NYT: Mriya, the world’s largest aircraft, was destroyed in a pivotal battle at the start of the war. It was a beloved symbol for all of Ukraine but perhaps no one misses it more than its first pilot. 
- <p class="updated_time"> 07:33 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 07:48 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Russia Advances in Ukraine’s Donbas, Is Accused of Digging Mass Graves</a> WSJ: Russia Advances in Ukraine’s Donbas, Is Accused of Digging Mass Graves 
- <p class="updated_time"> 06:33 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 06:48 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/france-issues-international-arrest-warrant-for-carlos-ghosn-11650578738">France Issues International Arrest Warrant for Ghosn</a> WSJ: France Issues International Arrest Warrant for Ghosn 
  <p class="updated_time"> 06:27 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/india-kangaroos-smuggling-west-bengal.html">Kangaroos in India? Experts See Evidence of a Smuggling Trade</a> NYT: The animals are the latest exotic fauna to be smuggled into the country, possibly to be used as pets. Draft legislation would close loopholes in the roaring wildlife trade. 
@@ -37,14 +37,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61189745?at_medium=RSS&at_campaign=KARANGA">Imran Khan: Inside the huge rally in Lahore for Pakistan's ousted PM</a> BBC: The former prime minister's narrative of a US-led conspiracy to oust him is resonating with his supporters. 
  <p class="updated_time"> 06:11 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094106596/these-airlines-are-letting-passengers-banned-for-mask-violations-back-on-planes">These airlines are letting passengers banned for mask violations back on planes</a> NPR: The cases will be determined on a case-by-case basis, depending on the company. Here's a look at where each of the major U.S. airlines stands. 
- <p class="updated_time"> 05:33 AM CT, Apr. 22 </p> 
+ <p class="updated_time"> 05:48 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/story/inside-the-russian-siege-of-mariupol-b6ace25e">Inside the Russian Siege of Mariupol</a> WSJ: Inside the Russian Siege of Mariupol 
  <p class="updated_time"> 05:17 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61154373?at_medium=RSS&at_campaign=KARANGA">Jerusalem holy site clashes fuel fears of return to war</a> BBC: Tensions are high following several days of violence in and around the al-Aqsa Mosque compound. 
  <p class="updated_time"> 05:08 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188783?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The Russia I knew no longer exists - Steve Rosenberg</a> BBC: The BBC's Steve Rosenberg takes in the sites of Moscow apparently distorted by the war against Ukraine. 
- <p class="updated_time"> 04:33 AM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/china-wants-to-reopen-factories-after-covid-19-lockdowns-it-isnt-that-easy-11650630300">China Wants to Reopen Factories After Covid-19 Lockdowns. It Isn’t That Easy.</a> WSJ: China Wants to Reopen Factories After Covid-19 Lockdowns. It Isn’t That Easy. 
+ <p class="updated_time"> 04:48 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/budweiser-brewer-pulls-out-of-russia-as-multinational-companies-weigh-options-11650625916">Budweiser Brewer Pulls Out of Russia as Multinationals Weigh Options</a> WSJ: Budweiser Brewer Pulls Out of Russia as Multinationals Weigh Options 
+ <p class="updated_time"> 04:24 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/global-growth-outlook-ebbs-in-face-of-ukraine-war-china-slowdown-11650633870">Global Growth Outlook Ebbs Amid Ukraine War, China Slowdown</a> WSJ: Economic growth is slowing in large parts of the world in the face of a looming slowdown in China fueled by lockdowns and surging prices aggravated by Russia’s war in Ukraine. 
  <p class="updated_time"> 04:12 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1092591767/despite-u-s-sanctions-oil-traders-help-russian-oil-reach-global-markets">Despite U.S. sanctions, oil traders help Russian oil reach global markets</a> NPR: Russia is still making billions of dollars on oil exports since invading Ukraine. That crude is still flowing abroad thanks in part to a controversial group of oil traders. 
  <p class="updated_time"> 04:01 AM CT, Apr. 22 </p> 
@@ -59,6 +61,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/20/world/europe/germany-ukraine-weapons.html">Calls to Give Heavy Weapons to Ukraine Divide Germany’s Government</a> NYT: Weeks after Chancellor Olaf Scholz announced a paradigm shift in military strategy, his government is struggling to balance domestic politics, how to help Ukraine and anxiety over provoking Russia. 
  <p class="updated_time"> 03:28 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/shanghai-to-continue-strict-covid-19-measures-despite-drop-in-cases-11650630510">Shanghai to Continue Strict Covid Measures Despite Drop in Cases</a> WSJ: Health authorities unveiled an aggressive new Covid-19 containment plan, indicating China’s financial capital is still far from declaring victory over the country’s worst outbreak since the start of the pandemic. 
+ <p class="updated_time"> 03:25 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/china-wants-to-reopen-factories-after-covid-19-lockdowns-it-isnt-that-easy-11650630300">China Wants to Reopen Factories After Covid-19 Lockdowns. It Isn't That Easy.</a> WSJ: Manufacturers face component shortages and logistics woes as Beijing tries to kick-start the economy. 
  <p class="updated_time"> 03:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/1922-women-smoking-cigars.html">1922: Sight of Women Smoking A Cigar Shocks Paris</a> NYT: Two women who shared a Havana cigar in a Parisian restaurant reportedly caused a stir. 
  <p class="updated_time"> 02:37 AM CT, Apr. 22 </p> 
@@ -231,7 +235,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/biden-legal-strategy-mask-mandate.html">Why Hasn’t the U.S. Asked for a Stay in the Mask Mandate Case?</a> NYT: The administration’s actions suggest either a botched case or a shrewd play for time as it gives up on the mask order but hopes to erase an adverse ruling, legal experts said. 
  <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
- <a href="https://www.politico.com/news/2022/04/22/ruben-gallego-deep-dive-00027134">'You only win if you fight': Will Gallego unseat Sinema?</a> Politico: On this week’s episode of Playbook Deep Dive, co-author Ryan Lizza chats with Arizona Congressman Ruben Gallego, a Marine veteran and rumored primary challenger to Senator Kyrsten Sinema in 2024. Gallego has an unsparing take on challenging Sinema, Jan. 6 and why Democrats need to lead more. 
+ <a href="https://www.politico.com/news/2022/04/22/ruben-gallego-deep-dive-00027134">‘You only win if you fight’: Will Gallego unseat Sinema?</a> Politico: On this week’s episode of Playbook Deep Dive, co-author Ryan Lizza chats with Arizona Congressman Ruben Gallego, a Marine veteran and rumored primary challenger to Senator Kyrsten Sinema in 2024. Gallego has an unsparing take on challenging Sinema, Jan. 6 and why Democrats need to lead more. 
  <p class="updated_time"> 03:31 AM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/gallery/2022/04/22/the-nations-cartoonists-on-the-week-in-politics-00026851">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 03:30 AM CT, Apr. 22 </p> 
@@ -272,6 +276,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/21/kolfage-trump-wall-guilty-00027080">Leader of effort to fund Trump's border wall pleads guilty to fraud</a> Politico: The case once involved Steve Bannon, who has since been pardoned. 
  <p class="updated_time"> 05:06 PM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/brittney-griner-arrest-russia-00027045">2 months after Brittney Griner’s arrest, mystery surrounds her case</a> Politico: The WNBA star was arrested in Russia. 
+ <p class="updated_time"> 05:04 PM CT, Apr. 21 </p> 
+ <a href="https://www.politico.com/news/2022/04/21/wait-bernie-might-run-in-2024-00027036">Bernie gave the go-ahead for 2024 memo</a> Politico: The Vermont senator wants it known that he must be part of any conversation about a potential open Democratic primary in 2024. 
  <p class="updated_time"> 04:53 PM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/biden-administration-taking-heat-for-new-ukrainian-settlement-program-00027041">Biden administration taking heat for new Ukrainian settlement program</a> Politico: Critics note that the administration’s program fails to offer refugees full status and a pathway to citizenship. 
  <p class="updated_time"> 04:52 PM CT, Apr. 21 </p> 
@@ -284,6 +290,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/21/1094140486/kentucky-abortion-law-blocked">A federal judge temporarily blocks Kentucky's new abortion law</a> NPR: In a victory for abortion rights advocates, the judge blocked a law that effectively eliminated abortions in Kentucky after the state's two remaining clinics said they couldn't meet its requirements. 
  <p class="updated_time"> 03:49 PM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1094050294/desantis-power-is-on-full-display-as-he-pushes-lawmakers-on-disney-and-redistric">DeSantis' power is on full display as he pushes lawmakers on Disney and redistricting</a> NPR: Florida Republican Gov. Ron DeSantis' flexed his power this week in Tallahassee as lawmakers okayed the governor's controversial redistricting plan and curbed Disney's special jurisdiction. 
+ <p class="updated_time"> 03:40 PM CT, Apr. 21 </p> 
+ <a href="https://www.politico.com/news/2022/04/21/inside-the-forecast-redistricting-fight-winning-00027005">Inside the Forecast: Who’s winning the redistricting fight?</a> Politico: POLITICO’s Steve Shepard demystifies this week’s election data in a new video series. 
  <p class="updated_time"> 03:17 PM CT, Apr. 21 </p> 
  <a href="https://www.npr.org/2022/04/21/1094119439/a-look-at-the-white-house-s-new-initiative-for-more-clean-transit">The White House's new initiative aims to reduce carbon emissions from transportation</a> NPR: NPR's Ari Shapiro speaks with Gina McCarthy, White House National Climate Adviser, about a new initiative aimed at reducing carbon emissions and expanding clean transit. 
  <p class="updated_time"> 03:15 PM CT, Apr. 21 </p> 
@@ -326,8 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/us/ruth-bader-ginsburg-auction.html">Justice Ruth Bader Ginsburg’s Personal Mementos Up for Auction</a> NYT: More than 150 items that belonged to the Supreme Court justice, who died in 2020, will be sold. Proceeds will benefit the Washington National Opera, which she frequently attended. 
  <p class="updated_time"> 04:01 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/democrats-democracy-election.html">Why Democracy Isn’t a Key 2022 Issue for Democrats</a> NYT: Republicans are far more energized about the issues of elections and voting, powered by a former president and many base voters who believe the 2020 contest was illegitimate. 
- <p class="updated_time"> 03:31 AM CT, Apr. 21 </p> 
- <a href="https://www.politico.com/news/2022/04/21/youngkin-midterms-national-politics-00026793">Youngkin prepares to wade into national politics</a> Politico: Virginia's Republican governor will use new political groups as a vehicle to get involved in other state races in 2022. 
  <p class="updated_time"> 03:30 AM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/senate-democrats-midterm-election-biden-00026781">Biden’s dismal poll numbers imperil Dem Senate control</a> Politico: The president’s popularity is dangerously low in the four states where Democratic incumbents are most endangered. 
  <p class="updated_time"> 02:00 AM CT, Apr. 21 </p> 
@@ -343,7 +349,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:53 AM CT, Apr. 20 </p> 
  <a href="https://www.cnn.com/2022/04/19/politics/who-is-judge-kathryn-kimball-mizelle-biden-mask-mandate/index.html">Who is Judge Kathryn Kimball Mizelle, the federal judge who blocked Biden's travel mask mandate?</a> CNN: A little-known federal judge appointed by former President Donald Trump found herself in the national spotlight on Monday after striking down the Biden administration's public transportation mask mandate. 
  <p class="updated_time"> 03:30 AM CT, Apr. 20 </p> 
- <a href="https://www.politico.com/news/2022/04/20/abigail-spanberger-virginia-policing-message-00026211">'That was a terrible idea': Spanberger wants a policing reboot for House Dems</a> Politico: Democrats see Rep. Abigail Spanberger's district as competitive but winnable in a tough midterm fight. She thinks addressing GOP attacks on crime head on is key to keeping it. 
+ <a href="https://www.politico.com/news/2022/04/20/abigail-spanberger-virginia-policing-message-00026211">‘The world is on fire’: How vulnerable House Dems are bracing for GOP attacks on crime</a> Politico: Democrats see Rep. Abigail Spanberger's district as competitive but winnable in a tough midterm fight. She thinks addressing GOP attacks on crime head on is key to keeping it. 
 
 
 </details>
