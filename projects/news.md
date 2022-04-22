@@ -9,16 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:07 PM CT, Apr. 21 </p> 
+ <p class="updated_time"> 11:07 PM CT, Apr. 21 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/world/australia/tourists-return-australia-new-zealand.html">When Will the Tourists Be Back?</a> NYT: An industry weathering a long winter looks warily ahead. 
+ <p class="updated_time"> 11:07 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/04/21/world/ukraine-russia-war-news">Live Ukraine Updates: Calling Off Steel Plant Assault, Putin Prematurely Claims Victory in Mariupol</a> NYT: Russia’s president said he would blockade rather than storm the Mariupol factory where Ukrainian forces were holding out, but a soldier in the plant said shelling continued. President Biden said the U.S. was sending more weapons to help Kyiv. 
+ <p class="updated_time"> 10:24 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039">Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant</a> WSJ: Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant 
  <p class="updated_time"> 09:56 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/south-korea-gay-sex-military.html">S​outh Korea’s Supreme Court ​Issues Landmark Ruling on Gay Sex</a> NYT: ​The court said that the military should not punish consensual sex acts that had taken place in a nonmilitary setting. 
  <p class="updated_time"> 09:56 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/uruena-spain-book-hub.html">This Spanish Village Has More Booksellers Than School Pupils</a> NYT: Urueña, in northwestern Spain, has fought depopulation by reinventing itself as a literary hub. The full-time population is still just 100, but there are 11 shops selling books. 
  <p class="updated_time"> 09:48 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/putin-mariupol-steel-plant.html">Putin Claims Victory in Mariupol, Calling Off Steel Plant Assault</a> NYT: With casualties mounting and progress slow in his war on Ukraine, Vladimir V. Putin is eager to present it to the Russian people as a success. 
- <p class="updated_time"> 09:20 PM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-controls-mariupol-but-ukrainian-troops-hold-out-in-steel-plant-11650541039">Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant</a> WSJ: Russia Says It Controls Mariupol, but Ukrainian Troops Hold Out in Steel Plant 
+ <p class="updated_time"> 09:24 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/for-civilians-trapped-in-mariupol-fleeing-can-be-as-risky-as-staying-11650566495">For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying</a> WSJ: For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying 
  <p class="updated_time"> 09:06 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/zelensky-ukraine-support.html">Zelensky Says Ukraine Needs $7 Billion in Support per Month</a> NYT: Ukraine has suffered $550 billion in losses from the war, President Volodymyr Zelensky told the World Bank on Thursday. 
  <p class="updated_time"> 08:53 PM CT, Apr. 21 </p> 
@@ -27,16 +31,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61156743?at_medium=RSS&at_campaign=KARANGA">Johnny Depp and Amber Heard face off in court</a> BBC: Depp says she stubbed a cigarette on his face. The court sees a Depp text saying: "Lets burn Amber!!!" 
  <p class="updated_time"> 08:29 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61178199?at_medium=RSS&at_campaign=KARANGA">Mariupol: Driving into the 'apocalypse' to save mum and dad</a> BBC: How a young Ukrainian woman travelled into the besieged city of Mariupol to save her parents. 
- <p class="updated_time"> 08:20 PM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/for-civilians-trapped-in-mariupol-fleeing-can-be-as-risky-as-staying-11650566495">For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying</a> WSJ: For Civilians Trapped in Mariupol, Fleeing Can Be as Risky as Staying 
+ <p class="updated_time"> 08:24 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/biden-says-u-s-to-send-ukraine-800-million-in-military-aid-11650550623">U.S. to Send Ukraine $800 Million in Military Aid</a> WSJ: U.S. to Send Ukraine $800 Million in Military Aid 
  <p class="updated_time"> 08:11 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61173922?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 15-21 April 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 08:07 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61178189?at_medium=RSS&at_campaign=KARANGA">Kardashians deny faking Roblox sex tape scene</a> BBC: Questions are being asked about a scene in The Kardashians, when Kim's son finds a sex tape ad on Roblox. 
  <p class="updated_time"> 07:29 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/russia-ukraine-military-biden.html">Next Phase of War Will Be Pivotal for Russia and Ukraine, U.S. Says</a> NYT: Reflecting a renewed sense of urgency, President Biden announced that the United States would send the Ukrainians $800 million more in military aid. 
- <p class="updated_time"> 07:20 PM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/biden-says-u-s-to-send-ukraine-800-million-in-military-aid-11650550623">U.S. to Send Ukraine $800 Million in Military Aid</a> WSJ: U.S. to Send Ukraine $800 Million in Military Aid 
+ <p class="updated_time"> 07:24 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/israeli-palestinian-clashes-intensify-as-more-jews-visit-jerusalems-contested-holy-site-11650550463">Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site</a> WSJ: Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site 
  <p class="updated_time"> 07:11 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61162642?at_medium=RSS&at_campaign=KARANGA">Mid-day meal plan struggles to feed India's hungry students</a> BBC: The world's most ambitious free school food programme resumes post pandemic, but problems remain. 
  <p class="updated_time"> 06:49 PM CT, Apr. 21 </p> 
@@ -47,8 +51,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61181978?at_medium=RSS&at_campaign=KARANGA">Ukrainians injured or killed by unexploded ammunition</a> BBC: Across Ukraine’s Kyiv region, efforts have begun to clear the countless pieces of unexploded ammunition left behind after fierce fighting. 
  <p class="updated_time"> 06:25 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61184479?at_medium=RSS&at_campaign=KARANGA">The German towns in Paraguay with a surge in European immigrants</a> BBC: Thousands of German nationals have migrated to Paraguay to escape Covid restrictions and immigration in Europe. 
- <p class="updated_time"> 06:20 PM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/israeli-palestinian-clashes-intensify-as-more-jews-visit-jerusalems-contested-holy-site-11650550463">Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site</a> WSJ: Israeli-Palestinian Clashes Intensify as More Jews Visit Jerusalem’s Contested Holy Site 
+ <p class="updated_time"> 06:24 PM CT, Apr. 21 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-lockdown-leads-to-logistics-disarray-with-quarantined-truckers-piled-up-containers-11650537303">Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers</a> WSJ: Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers 
  <p class="updated_time"> 06:20 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61168776?at_medium=RSS&at_campaign=KARANGA">France election: What far-right leader Marine Le Pen said before… and now</a> BBC: Has Marine Le Pen's strong views on immigration, the EU and Nato shifted since the last election? 
  <p class="updated_time"> 06:19 PM CT, Apr. 21 </p> 
@@ -59,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61183062?at_medium=RSS&at_campaign=KARANGA">Mariupol steelworks: 'We have wounded and dead inside the bunkers'</a> BBC: One of the last defenders in Mariupol tells the BBC conditions are dire but they won't surrender. 
  <p class="updated_time"> 05:26 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/border-control-politics.html">Why ‘Border Control’ Politics Is More About Control Than Borders</a> NYT: A quirk of political psychology helps explain the British government’s plan to send some asylum seekers to Rwanda. 
- <p class="updated_time"> 05:20 PM CT, Apr. 21 </p> 
- <a href="https://www.wsj.com/articles/shanghai-lockdown-leads-to-logistics-disarray-with-quarantined-truckers-piled-up-containers-11650537303">Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers</a> WSJ: Shanghai Lockdown Leads to Logistics Disarray, With Quarantined Truckers, Piled-Up Containers 
  <p class="updated_time"> 05:14 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/video/world/europe/100000008312362/mariupol-azovstal-ukraine-war.html">What Mariupol’s Steel Fortress Looked Like 3 Months Ago</a> NYT: On Jan. 20, The New York Times captured drone video over the sprawling Azovstal Steel and Iron works complex in Mariupol, Ukraine. Now, it is a battered fortress for the last Ukrainian defenders. 
  <p class="updated_time"> 05:01 PM CT, Apr. 21 </p> 
@@ -187,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61150865?at_medium=RSS&at_campaign=KARANGA">Climate change, albinism and me</a> BBC: Coco shares her experience of living with albinism in Nigeria. 
  <p class="updated_time"> 02:59 PM CT, Apr. 19 </p> 
  <a href="https://www.nytimes.com/2022/04/19/world/europe/boris-johnson-parliament-apologies.html">Johnson Is All Apologies Before Parliament After ‘Partygate’ Fine</a> NYT: Though opposition politicians called him out, only one member of his own Conservative party called on him to resign. 
- <p class="updated_time"> 12:04 PM CT, Apr. 19 </p> 
- <a href="https://www.nytimes.com/2022/04/19/theater/punchdrunk-burnt-city-troy.html">Inside ‘The Burnt City,’ Punchdrunk’s Take on the Fall of Troy </a> NYT: Punchdrunk’s “The Burnt City” adds techno and sake to the story of the fall of Troy, but it brought in a scholar of classical theater to get the details right. 
 
 
 </details>
@@ -196,12 +196,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:11 PM CT, Apr. 21 </p> 
+ <a href="https://www.nytimes.com/2022/04/21/us/politics/trump-mitch-mcconnell-kevin-mccarthy.html">‘I’ve Had It With This Guy’: G.O.P. Leaders Privately Blasted Trump After Jan. 6</a> NYT: In the days after the attack, Representative Kevin McCarthy planned to tell Mr. Trump to resign. Senator Mitch McConnell told allies impeachment was warranted. But their fury faded fast. 
+ <p class="updated_time"> 11:02 PM CT, Apr. 21 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 10:30 PM CT, Apr. 21 </p> 
+ <a href="https://www.politico.com/news/2022/04/21/mccarthy-tape-trump-jan6-00027122">Audio: McCarthy told colleagues he would seek Trump’s resignation after Jan. 6</a> Politico: The tape could complicate the California Republican's quest to become Speaker of the House. 
  <p class="updated_time"> 10:12 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/cia-prison-gitmo.html">Former C.I.A.-Run Prison Emerges as a New Front in Guantánamo’s Legal Saga</a> NYT: Defense lawyers have been visiting Camp 7, which was emptied a year ago. Its remnants are still classified, but they say what they saw was disturbing. 
+ <p class="updated_time"> 10:11 PM CT, Apr. 21 </p> 
+ <a href="https://www.politico.com/news/2022/04/21/fetterman-first-televised-debate-00027118">Fetterman comes under fire in first televised debate</a> Politico: The lieutenant governor is the front-runner in the Pennsylvania Democratic Senate primary. 
  <p class="updated_time"> 10:08 PM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/ukraine-mariupol-graves-russia-00027119">Satellite photos show possible mass graves near Mariupol</a> Politico: Local officials accused Russia of burying up to 9,000 Ukrainian civilians there. 
- <p class="updated_time"> 09:07 PM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/us/politics/trump-mitch-mcconnell-kevin-mccarthy.html">‘I’ve Had It With This Guy’: G.O.P. Leaders Privately Blasted Trump After Jan. 6</a> NYT: In the days after the attack, Representative Kevin McCarthy planned to tell Mr. Trump to resign. Senator Mitch McConnell told allies impeachment was warranted. But their fury faded fast. 
  <p class="updated_time"> 08:47 PM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/philadelphia-indoor-mask-mandate-covid-00027105">Philadelphia to end mask mandate, days after reinstating it</a> Politico: The city's restored mandate had gone into effect Monday. 
  <p class="updated_time"> 08:18 PM CT, Apr. 21 </p> 
@@ -226,8 +232,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/us/politics/donald-trump-jr-january-6-committee.html">Donald Trump Jr. Plans to Meet With Jan. 6 Committee</a> NYT: The former president’s eldest son, who encouraged White House officials to pursue “multiple paths” to overturn his father’s election loss, is said to have agreed to appear voluntarily. 
  <p class="updated_time"> 04:32 PM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/tina-flournoy-harris-chief-of-staff-is-leaving-the-administration-00027038">Tina Flournoy, Harris’ chief of staff, is leaving the administration</a> Politico: Lorraine Voles, who was brought in as a senior adviser to the vice president last summer, will step into the role. 
- <p class="updated_time"> 04:25 PM CT, Apr. 21 </p> 
- <a href="https://www.politico.com/news/2022/04/21/supreme-court-nazis-stolen-painting-00027034">Supreme Court revives fight over painting stolen by Nazis</a> Politico: The Camille Pissarro masterpiece is now on display in a Spanish museum. 
  <p class="updated_time"> 04:13 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/france-election-biden.html">US Braces for Potential French Election Shockwave</a> NYT: An upset victory by the right-wing nationalist Marine Le Pen in the presidential election on Sunday could scramble President Biden’s foreign policy. 
  <p class="updated_time"> 03:53 PM CT, Apr. 21 </p> 
@@ -324,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/19/thiel-pumps-another-3-5m-into-vance-super-pac-after-trump-endorsement-00026375">Vance parlays Trump endorsement into new Thiel money</a> Politico: The tech billionaire has been the biggest supporter of the Ohio Republican Senate candidate. 
  <p class="updated_time"> 01:38 PM CT, Apr. 19 </p> 
  <a href="https://www.cnn.com/2022/04/19/politics/student-loan-debt-forgiveness-repayment/index.html">Biden's latest student debt move will bring 3.6 million borrowers closer to loan forgiveness</a> CNN: The Department of Education is making more changes to the federal student loan system that will help bring millions of borrowers -- some of whom may have previously been in forbearance -- closer to receiving debt forgiveness. 
- <p class="updated_time"> 11:41 AM CT, Apr. 19 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 03:31 AM CT, Apr. 19 </p> 
  <a href="https://www.politico.com/news/2022/04/19/election-forecast-midterms-00026065">5 plot twists that could upend the midterms</a> Politico: Here's how and why our midterm Election Forecast could change before November. 
  <p class="updated_time"> 03:30 AM CT, Apr. 19 </p> 
