@@ -9,34 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:57 AM CT, Apr. 23 </p> 
+ <a href="https://www.nytimes.com/2022/04/23/world/africa/bain-south-africa-jacob-zuma.html">A Boston Consulting Firm Became a Power Broker, and Then a Pariah, in South Africa</a> NYT: A new judicial inquiry found that corruption at South Africa’s tax agency was because of “collusion” between Bain & Company and South Africa’s former president. 
+ <p class="updated_time"> 07:54 AM CT, Apr. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: As Weapons From West Flow In, Zelensky Says Ukraine Better Able to Mount Defense</a> NYT: Even as heavy artillery, drones, tanks and ammunition pour in, the Ukrainians say Russian forces are probing for weak spots along a 300-mile eastern front. So far, military analysts say, Russia has not made any significant territorial gains since it announced its renewed offensive in the region. 
+ <p class="updated_time"> 07:53 AM CT, Apr. 23 </p> 
+ <a href="https://www.nytimes.com/2022/04/23/world/europe/ukraine-poland-refugees.html">Warsaw’s Welcome Mat Risks Fraying Under Strain of a New Refugee Surge</a> NYT: Warsaw gladly and proudly accepted 300,000 Ukrainians fleeing the war. But as the Polish capital braces for a new wave of refugees, its mayor warns that the city is “at capacity.” 
+ <p class="updated_time"> 07:46 AM CT, Apr. 23 </p> 
+ <a href="https://www.nytimes.com/2022/04/23/world/asia/japan-tattoo.html">Discreetly, the Young in Japan Chip Away at a Taboo on Tattoos</a> NYT: Exposed to body art on social media, more young Japanese are getting tattoos, even if that means hiding them at work. 
+ <p class="updated_time"> 07:46 AM CT, Apr. 23 </p> 
+ <a href="https://www.npr.org/2022/04/23/1094471660/ukraine-russia-mariupol-steel-plant">Ukraine says Russian forces are attacking Mariupol steel plant with civilians inside</a> NPR: The assault was reported by an adviser to Ukraine's presidential office as an estimated 1,000 civilians sheltered in the plant alongside the remaining Ukrainian fighters in the strategic port city. 
+ <p class="updated_time"> 07:43 AM CT, Apr. 23 </p> 
+ <a href="https://www.npr.org/2022/04/23/1094470453/jerusalem-unrest">Clashes between Israeli police and Palestinians continue at the Al-Aqsa mosque</a> NPR: Repeated clashes between Israeli police and Palestinians have taken place this week at the most sensitive site in Jerusalem: the Al-Aqsa mosque compound. 
+ <p class="updated_time"> 07:43 AM CT, Apr. 23 </p> 
+ <a href="https://www.npr.org/2022/04/23/1094471684/mexico-debanhi-escobar-dead-disappearance">13 days after Debanhi Escobar disappeared near Monterrey, her body has been found</a> NPR: The case made headlines because of a haunting photo taken by a driver who was supposed to take her home on April 8.  Killings of women have increased in Mexico, rising to 1,015 cases last year. 
  <p class="updated_time"> 07:39 AM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094470383/ukrainian-city-prepares-for-a-seige">Ukrainian city prepares for a seige</a> NPR: As Russia renews its offensive on southern and eastern Ukraine, the city of Mykolaiv, near the Black Sea, are preparing for a siege. 
  <p class="updated_time"> 07:34 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61201548?at_medium=RSS&at_campaign=KARANGA">Mariupol steelworks: Video appears to show children in Azovstal bunker</a> BBC: Ukrainian fighters post a video showing women and children purportedly hiding under a steel plant. 
- <p class="updated_time"> 07:28 AM CT, Apr. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: As Weapons From West Flow In, Zelensky Says Ukraine Better Able to Mount Defense</a> NYT: Even as heavy artillery, drones, tanks and ammunition pour in, the Ukrainians say Russian forces are probing for weak spots along a 300-mile eastern front. So far, military analysts say, Russia has not made any significant territorial gains since it announced its renewed offensive in the region. 
- <p class="updated_time"> 06:40 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 07:07 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 06:31 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61201931?at_medium=RSS&at_campaign=KARANGA">Video appears to show children in Mariupol steel works bunker</a> BBC: A video released by Ukraine's Azov regiment appears to show children sheltering inside a steel plant. 
  <p class="updated_time"> 06:27 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
- <p class="updated_time"> 05:40 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 06:07 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Zelensky Warns That Russian Ambitions Don’t End With Ukraine</a> WSJ: Zelensky Warns That Russian Ambitions Don’t End With Ukraine 
+ <p class="updated_time"> 05:07 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/russia-blocks-economic-data-hiding-effect-of-western-sanctions-11650677765">Russia Blocks Economic Data, Hiding Effect of Sanctions</a> WSJ: Russia Blocks Economic Data, Hiding Effect of Sanctions 
  <p class="updated_time"> 05:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/canada/nhl-crosby-penguins-leafs.html">Canada’s Stanley Cup Hopes Rest on Leafs, Flames, Oilers</a> NYT: The N.H.L. playoffs are a beloved routine of Canadian springtime that can make fans as crazy as the season’s mercurial weather. 
- <p class="updated_time"> 04:40 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/russia-blocks-economic-data-hiding-effect-of-western-sanctions-11650677765">Russia Blocks Economic Data, Hiding Effect of Sanctions</a> WSJ: Russia Blocks Economic Data, Hiding Effect of Sanctions 
  <p class="updated_time"> 04:31 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/france-muslims-presidential-vote.html">Who Will France’s Muslims Choose for President?</a> NYT: French Muslims face a decision between Emmanuel Macron, whose presidency some of them view as harmful, and Marine Le Pen, whose far-right party has a history of anti-Muslim positions. 
+ <p class="updated_time"> 04:07 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204">Shanghai Lockdown Bolsters a Fringe Independence Movement</a> WSJ: Shanghai Lockdown Bolsters a Fringe Independence Movement 
  <p class="updated_time"> 04:00 AM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094239527/orthodox-easter-will-be-very-different-this-year-for-thousands-of-ukrainian-refu">Orthodox Easter will be very different this year for thousands of Ukrainian refugees</a> NPR: This weekend would normally be a celebratory one for Ukrainians. But Easter Sunday marks two months since the latest Russian invasion. More than 40,000 refugees have found themselves in Bulgaria. 
- <p class="updated_time"> 03:40 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204">Shanghai Lockdown Bolsters a Fringe Independence Movement</a> WSJ: Shanghai Lockdown Bolsters a Fringe Independence Movement 
+ <p class="updated_time"> 03:07 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/what-shanghai-is-going-through-is-news-to-many-in-the-rest-of-china-11650687277">What Shanghai Is Going Through Is News to Many in the Rest of China</a> WSJ: What Shanghai Is Going Through Is News to Many in the Rest of China 
  <p class="updated_time"> 02:48 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
- <p class="updated_time"> 02:40 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/what-shanghai-is-going-through-is-news-to-many-in-the-rest-of-china-11650687277">What Shanghai Is Going Through Is News to Many in the Rest of China</a> WSJ: What Shanghai Is Going Through Is News to Many in the Rest of China 
  <p class="updated_time"> 02:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/moldova-ukraine-russia.html">Rattled by Ukraine War, Moldova Strives to Dodge Russia’s Long Shadow</a> NYT: Moldova’s destiny has been intertwined uncomfortably with Russia’s for years, and the Ukraine invasion has accelerated its efforts to break free from Moscow. 
  <p class="updated_time"> 02:00 AM CT, Apr. 23 </p> 
@@ -87,14 +99,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094390319/after-months-of-obstacles-a-gaza-man-reaches-a-hospital-in-the-west-bank-for-sur">After months of obstacles, a Gaza man reaches a hospital in the West Bank for surgery</a> NPR: A Gaza man waited for more than two months before he got Israeli permission to leave Gaza for a Palestinian hospital in the West Bank. 
  <p class="updated_time"> 03:29 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094390235/the-queen-gets-her-own-barbie">The Queen gets her own Barbie</a> NPR: Queen Elizabeth II celebrated her 96th birthday and has been honored with her likeness as a Barbie doll. The Platinum Jubiliee doll celebrates the queen's 70 years on throne. 
- <p class="updated_time"> 03:29 PM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1094390221/many-ukrainians-arent-optimistic-about-peace-with-russia">Many Ukrainians aren't optimistic about peace with Russia</a> NPR: As a Russian general reveals Kremlin plans to take Ukraine's Donbas region to the east as well as all of the country's south, we look at the situation out a village near the frontlines of the war. 
  <p class="updated_time"> 03:21 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/africa/mwai-kibaki-kenya-dead.html">Mwai Kibaki, Former President of Kenya, Dies at 90</a> NYT: He came to power promising to root out corruption and improve government transparency. But his tenure was blighted by widespread graft and a violent upheaval. 
  <p class="updated_time"> 03:00 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-61185304?at_medium=RSS&at_campaign=KARANGA">Carlos Ghosn: Ex-Nissan boss says he wants a trial</a> BBC: The former car boss says he wants to clear his name after France issued an international warrant for his arrest. 
- <p class="updated_time"> 02:35 PM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/04/22/1093814861/the-u-s-mask-mandate-is-off-for-travelers-in-other-countries-its-definitely-on">The mask mandate is off for U.S. travelers. In other countries it's definitely on</a> NPR: In China, for example, not only are masks required on planes but gloves are recommended — and passengers are urged not to touch their face during the flight. Here's what you'll find around the globe. 
  <p class="updated_time"> 02:30 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61154373?at_medium=RSS&at_campaign=KARANGA">Jerusalem holy site clashes fuel fears of return to war</a> BBC: Tensions are high following several days of violence in and around the al-Aqsa Mosque compound. 
  <p class="updated_time"> 02:07 PM CT, Apr. 22 </p> 
@@ -111,12 +119,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/22/world/europe/ukraine-airplane-russia-war-mriya.html">One Ukrainian War Casualty: The World’s Largest Airplane</a> NYT: Mriya, the world’s largest aircraft, was destroyed in a pivotal battle at the start of the war. It was a beloved symbol for all of Ukraine but perhaps no one misses it more than its first pilot. 
  <p class="updated_time"> 11:00 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61191111?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Inside Kyiv's trench defences</a> BBC: Kyiv's defence force remains on high alert, dug into trenches in case of the return of Russian troops. 
- <p class="updated_time"> 10:47 AM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1094248885/why-frances-presidential-election-matters-far-beyond-its-borders">Why France's presidential election matters far beyond its borders </a> NPR: Sunday's contest has implications for the spread of far-right ideology, France's relationship with the rest of Europe and the country's posture toward Russia. 
  <p class="updated_time"> 10:16 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61192975?at_medium=RSS&at_campaign=KARANGA">Gun deaths were the leading killer of US children in 2020</a> BBC: Guns have overtaken car crashes as the leading cause of death among young Americans. 
- <p class="updated_time"> 09:56 AM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1094276367/madeleine-mccann-missing-girl-portugal-suspect">15 years later, Portugal identifies a suspect in the probe of a missing British girl</a> NPR: Prosecutors formally accuse a suspect in the investigation into the disappearance of Madeleine McCann, who vanished nearly 15 years ago while on a family vacation. She was 3 years old at the time. 
  <p class="updated_time"> 09:53 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/la-county-masks-public-transportation.html">L.A. County Says Masks Are Still Required on Public Transportation</a> NYT: The move is a departure from California’s mask rules, which were relaxed this week after a federal judge struck down a nationwide mask mandate on public transit. 
  <p class="updated_time"> 09:50 AM CT, Apr. 22 </p> 
@@ -133,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/u-k-to-boost-defense-collaboration-with-india-11650638778">U.K. to Boost Defense Collaboration With India</a> WSJ: Prime Minister Boris Johnson said Britain would make it easier to export defense equipment to the South Asian nation. 
  <p class="updated_time"> 05:44 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/france-macron-le-pen-election-politics-11650487493">Macron vs. Le Pen: Growing Voter Discontent Shakes France's Political Foundations</a> WSJ: Voter malaise, fueled by widening economic disparity, has pushed up support for candidates on the far right and far left in election after election. “Our society is broken.” 
- <p class="updated_time"> 03:41 AM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/europe/germany-ukraine-weapons.html">Calls to Give Heavy Weapons to Ukraine Divide Germany’s Government</a> NYT: Weeks after Chancellor Olaf Scholz announced a paradigm shift in military strategy, his government is struggling to balance domestic politics, how to help Ukraine and anxiety over provoking Russia. 
  <p class="updated_time"> 03:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/1922-women-smoking-cigars.html">1922: Sight of Women Smoking A Cigar Shocks Paris</a> NYT: Two women who shared a Havana cigar in a Parisian restaurant reportedly caused a stir. 
  <p class="updated_time"> 02:37 AM CT, Apr. 22 </p> 
@@ -195,10 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/20/us/politics/russia-putin-missile-test.html">Russia’s Missile Test Fuels U.S. Fears of an Isolated Putin</a> NYT: American and foreign leaders have been weighing whether their success in making Russia a diplomatic pariah could push President Vladimir V. Putin to strike in new ways. 
  <p class="updated_time"> 08:42 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/russia-icbm-ukraine-bombardment.html">Russia Tests ICBM and Pounds Ukraine’s Defenses Ahead of Major Assault</a> NYT: Vladimir Putin said Russia’s test-firing of its new I.C.B.M. sends a message, as his forces prepare for a broad offensive in eastern Ukraine. 
- <p class="updated_time"> 03:45 PM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/europe/treasury-secretary-janet-yellen-walked-out-of-a-g20-meeting-as-russias-finance-minister-spoke.html">Treasury Secretary Janet Yellen walked out of a G20 meeting as Russia’s finance minister spoke.</a> NYT: Several central bank governors and finance ministers protested Russia’s participation at the spring meetings of the I.M.F. and World Bank. 
- <p class="updated_time"> 12:00 PM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/europe/prince-harry-queen-elizabeth-royal-family-britain.html">Prince Harry Said He Wants to Make Sure Queen Is ‘Protected’</a> NYT: The prince, in Europe for the Invictus Games, visited his grandmother then told the “Today” show that he wanted to make sure “she’s protected.” 
 
 
 </details>
@@ -206,6 +204,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:43 AM CT, Apr. 23 </p> 
+ <a href="https://www.npr.org/2022/04/23/1094470439/state-of-democracy">Historian Anne Applebaum shares her concerns about the state of democracy</a> NPR: NPR's Scott Simon speaks to Pulitzer Prize-winning author Anne Applebaum about the state of democracy around the world. 
+ <p class="updated_time"> 07:43 AM CT, Apr. 23 </p> 
+ <a href="https://www.npr.org/2022/04/23/1094470432/mccarthy-jan-6-republicans">New audio of Rep. McCarthy raise questions about his integrity</a> NPR: New audio recordings of Rep. Kevin McCarthy call into question his honesty and integrity, as well as his ambitions to become House speaker should Republicans win control of the chamber in November. 
  <p class="updated_time"> 07:36 AM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094470376/week-in-politics">Week in Politics</a> NPR: Even Democrats from non-border states are beginning to question President Biden's plans to lift pandemic-era immigration restrictions. And year-old audio from a Republican leader makes waves. 
  <p class="updated_time"> 06:01 AM CT, Apr. 23 </p> 
@@ -286,10 +288,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/22/zero-waste-new-yorkers-recycle-00026708">New York City fails zero waste pledge. Why it’s going backward.</a> Politico: During his first “Earth Week” as the city's mayor, Eric Adams is confronting a growing waste crisis he inherited with no end in sight. 
  <p class="updated_time"> 05:05 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1093974389/kevin-mccarthy-audio-resign-donald-trump-capitol-riot">Audio reveals Kevin McCarthy planned to urge Trump to resign after Capitol riot</a> NPR: In the recorded conversation, House Minority Leader Kevin McCarthy said he didn't believe Donald Trump would voluntarily step down. 
- <p class="updated_time"> 04:12 AM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1094240491/there-are-many-distractions-heading-into-midterms-how-can-democrats-refocus">There are many distractions heading into midterms. How can Democrats refocus?</a> NPR: The Biden administration is caught up in pandemic policy and politics. NPR's Steve Inskeep talks to Joel Payne, a Democratic strategist with the progressive advocacy firm The Hub Project. 
- <p class="updated_time"> 04:12 AM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1094240463/marjorie-taylor-greene-to-testify-as-group-seeks-to-disqualify-her-from-running-">Marjorie Taylor Greene to testify as group seeks to disqualify her from running again</a> NPR: A challenge to Rep. Marjorie Taylor Greene's candidacy, citing her words and actions around the U.S. Capitol attack, goes before a state administrative judge Friday. Greene is expected to testify. 
  <p class="updated_time"> 03:31 AM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/gallery/2022/04/22/the-nations-cartoonists-on-the-week-in-politics-00026851">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 03:30 AM CT, Apr. 22 </p> 
@@ -342,8 +340,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/20/capitol-police-backtracks-on-airplane-threat-after-ordering-evacuation-00026765">Capitol Police backtracks on airplane threat after ordering evacuation</a> Politico: An Army plane was circling the area around the Capitol, part of a parachute stunt at Wednesday night’s Nationals baseball game. 
  <p class="updated_time"> 01:14 PM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/jan-6-committee-trump-pence-call-00026597">Jan. 6 panel piecing together details of final Trump-Pence call</a> Politico: Several Donald Trump allies listened in from the Oval Office, but Mike Pence's side of the call remains elusive. 
- <p class="updated_time"> 07:53 AM CT, Apr. 20 </p> 
- <a href="https://www.cnn.com/2022/04/19/politics/who-is-judge-kathryn-kimball-mizelle-biden-mask-mandate/index.html">Who is Judge Kathryn Kimball Mizelle, the federal judge who blocked Biden's travel mask mandate?</a> CNN: A little-known federal judge appointed by former President Donald Trump found herself in the national spotlight on Monday after striking down the Biden administration's public transportation mask mandate. 
 
 
 </details>
