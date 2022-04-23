@@ -13,7 +13,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: A Drawn-Out Struggle Looms in Ukraine’s East</a> NYT: Russia has captured dozens of small towns in its initial drive to seize the Donbas region, but officials in Ukraine said its military could soon take them back. 
  <p class="updated_time"> 02:48 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
- <p class="updated_time"> 02:29 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 02:47 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
  <p class="updated_time"> 02:07 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
@@ -21,13 +21,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/23/world/europe/moldova-ukraine-russia.html">Rattled by Ukraine War, Moldova Strives to Dodge Russia’s Long Shadow</a> NYT: Moldova’s destiny has been intertwined uncomfortably with Russia’s for years, and the Ukraine invasion has accelerated its efforts to break free from Moscow. 
  <p class="updated_time"> 02:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/health/covid-vaccines-word-africa.html">The Drive to Vaccinate the World Against Covid Is Losing Steam</a> NYT: Rates are stalling in most low-income countries well short of the W.H.O.’s goal to immunize 70 percent of people in every nation. Some public health experts believe the momentum is gone forever. 
- <p class="updated_time"> 01:29 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 01:47 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
- <p class="updated_time"> 12:29 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 12:47 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840">Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</a> WSJ: Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor 
- <p class="updated_time"> 11:29 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 11:47 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/france-macron-le-pen-election-politics-11650487493">Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations</a> WSJ: Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations 
- <p class="updated_time"> 10:29 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 10:47 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/shanghai-nursing-home-covid-deaths-11650641053">New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed</a> WSJ: New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed 
  <p class="updated_time"> 09:18 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia aiming for full control of south, commander says</a> BBC: A senior Russian commander is quoted as saying Moscow plans to take full control of the south and east. 
@@ -218,12 +218,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html">As Europe Approves New Tech Laws, the U.S. Falls Further Behind</a> NYT: Federal privacy bills, security legislation and antitrust laws to address the power of the tech giants have all failed to advance in Congress, despite hand wringing and shows of bipartisan support. 
  <p class="updated_time"> 07:12 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/desantis-disney-florida.html">Ron DeSantis Punishes Disney in a G.O.P. Brawl With Business</a> NYT: Gov. Ron DeSantis’s move to revoke the company’s special tax status in Florida showed how combative his party has grown toward corporations that are increasingly taking a stand on political issues. 
+ <p class="updated_time"> 06:35 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/21/us/politics/trump-mitch-mcconnell-kevin-mccarthy.html">‘I’ve Had It With This Guy’: G.O.P. Leaders Privately Blasted Trump After Jan. 6</a> NYT: In the days after the attack, Representative Kevin McCarthy planned to tell Mr. Trump to resign. Senator Mitch McConnell told allies impeachment was warranted. But their fury faded fast. 
  <p class="updated_time"> 06:14 PM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/faa-admits-fault-in-capitol-aircraft-incident-00027311">FAA admits fault in Capitol aircraft incident</a> Politico: Capitol Police had to issue an evacuation alert to those in the area during a flyover for what ultimately ended up being a false alarm. 
  <p class="updated_time"> 06:04 PM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/biden-admin-texas-trump-medicaid-waiver-00027312">Biden administration says it won’t keep messing with Texas' Trump-era Medicaid waiver</a> Politico: The Centers for Medicaid and Medicaid Services “concluded that it is not the best use of the federal government’s limited resources.” 
  <p class="updated_time"> 06:02 PM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/us/politics/biden-domestic-agenda.html">Biden Tries to Sell an Embattled Domestic Agenda During His West Coast Trip</a> NYT: President Biden acknowledged that the immediate demands of the presidency, including the pandemic and war in Ukraine, have taken him away from his domestic agenda. 
+ <a href="https://www.nytimes.com/2022/04/22/us/politics/biden-domestic-agenda.html">Biden Tries to Sell Domestic Agenda During a West Coast Trip</a> NYT: President Biden acknowledged that the immediate demands of the presidency, including the pandemic and war in Ukraine, have taken him away from his domestic agenda. 
  <p class="updated_time"> 06:00 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/democrats-midterms-biden.html">Democrats and the 2022 Midterms: ‘It’s Going to Be a Terrible Cycle’</a> NYT: Strategists and pollsters are increasingly talking about limiting the party’s expected losses in November rather than how to gain new seats. 
  <p class="updated_time"> 05:14 PM CT, Apr. 22 </p> 
@@ -340,8 +342,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/20/jan-6-committee-trump-pence-call-00026597">Jan. 6 panel piecing together details of final Trump-Pence call</a> Politico: Several Donald Trump allies listened in from the Oval Office, but Mike Pence's side of the call remains elusive. 
  <p class="updated_time"> 07:53 AM CT, Apr. 20 </p> 
  <a href="https://www.cnn.com/2022/04/19/politics/who-is-judge-kathryn-kimball-mizelle-biden-mask-mandate/index.html">Who is Judge Kathryn Kimball Mizelle, the federal judge who blocked Biden's travel mask mandate?</a> CNN: A little-known federal judge appointed by former President Donald Trump found herself in the national spotlight on Monday after striking down the Biden administration's public transportation mask mandate. 
- <p class="updated_time"> 03:30 AM CT, Apr. 20 </p> 
- <a href="https://www.politico.com/news/2022/04/20/abigail-spanberger-virginia-policing-message-00026211">'That was a terrible idea': Spanberger wants a policing reboot for House Dems</a> Politico: Democrats see Rep. Abigail Spanberger's district as competitive but winnable in a tough midterm fight. She thinks addressing GOP attacks on crime head on is key to keeping it. 
 
 
 </details>
