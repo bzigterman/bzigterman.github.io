@@ -9,28 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:39 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 11:13 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Russians Seize Dozens of Small Towns in Ukraine’s East as Fighting Intensifies</a> NYT: Ukrainian military officials vowed to reverse Russia’s territorial gains in what is becoming a grinding back-and-forth struggle along a front stretching more than 300 miles. 
- <p class="updated_time"> 10:01 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 11:13 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
+ <p class="updated_time"> 10:33 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
+ <p class="updated_time"> 09:33 PM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 09:18 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia aiming for full control of south, commander says</a> BBC: A senior Russian commander is quoted as saying Moscow plans to take full control of the south and east. 
- <p class="updated_time"> 09:01 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 08:57 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/russia-ukraine-fighting-east.html">Russians Seize 42 Towns in Eastern Ukraine as Fighting Intensifies</a> NYT: Ukrainian military officials vowed to reverse Russia’s territorial gains in what was turning into a grinding back-and-forth struggle along a front stretching more than 300 miles. 
- <p class="updated_time"> 08:01 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 08:33 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840">Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</a> WSJ: Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor 
+ <p class="updated_time"> 07:33 PM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/france-macron-le-pen-election-politics-11650487493">Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations</a> WSJ: Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations 
  <p class="updated_time"> 07:26 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
  <p class="updated_time"> 07:22 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html">As Europe Approves New Tech Laws, the U.S. Falls Further Behind</a> NYT: Federal privacy bills, security legislation and antitrust laws to address the power of the tech giants have all failed to advance in Congress, despite hand wringing and shows of bipartisan support. 
- <p class="updated_time"> 07:01 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/france-macron-le-pen-election-politics-11650487493">Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations</a> WSJ: Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations 
+ <p class="updated_time"> 07:06 PM CT, Apr. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/61187310?at_medium=RSS&at_campaign=KARANGA">Mariupol: Videos appear to show dead civilians</a> BBC: Footage has emerged of more than 20 civilians lying dead along a main road in the city of Mariupol. 
+ <p class="updated_time"> 07:05 PM CT, Apr. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61154066?at_medium=RSS&at_campaign=KARANGA">Ukraine war: How Russia replaces Ukrainian media with its own</a> BBC: In occupied areas of Ukraine, journalists have been assaulted and only pro-Russian news is available. 
  <p class="updated_time"> 06:52 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/skepticism-greets-a-bold-russian-claim-about-war-aims-based-on-its-source.html">Russian General Says Kremlin Aims to Seize Southern Ukraine</a> NYT: A major shift in policy came from an obscure general and not the president or top commander. 
- <p class="updated_time"> 06:01 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 06:50 PM CT, Apr. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61162588?at_medium=RSS&at_campaign=KARANGA">Mount Everest: Even world's highest peak not immune to the Ukraine war</a> BBC: Nepal's "icefall doctors" are readying routes - but will conflict in Europe mean fewer climbers? 
+ <p class="updated_time"> 06:33 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/shanghai-nursing-home-covid-deaths-11650641053">New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed</a> WSJ: New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed 
+ <p class="updated_time"> 06:29 PM CT, Apr. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61186014?at_medium=RSS&at_campaign=KARANGA">Art gets police escort out of Ukraine for exhibition</a> BBC: Ukraine showcases its culture at the prestigious arts festival, while protesting against the Russian invasion. 
+ <p class="updated_time"> 06:27 PM CT, Apr. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61195471?at_medium=RSS&at_campaign=KARANGA">Earl and Countess of Wessex: Why Grenada wanted to talk to royals about slavery</a> BBC: As the Wessexes cancel their trip, there are demands for an apology from the royals for past abuses. 
  <p class="updated_time"> 05:43 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/middleeast/israel-palestinians-aqsa-temple-mount.html">A Site Holy to Jews and Muslims Returns as the Nexus of Conflict</a> NYT: The skirmishes between Palestinians and Israeli police at the Aqsa Mosque, known to Jews as Temple Mount, are laden with national and religious symbolism. 
  <p class="updated_time"> 05:35 PM CT, Apr. 22 </p> 
@@ -79,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61196311?at_medium=RSS&at_campaign=KARANGA">Marjorie Taylor Greene: I did not call for violent capitol insurrection</a> BBC: Georgia Republican Marjorie Taylor Greene is on trial for allegedly violating a Civil War era law. 
  <p class="updated_time"> 01:42 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61192417?at_medium=RSS&at_campaign=KARANGA">Mike Tyson punched plane passenger 'after bottle thrown'</a> BBC: Video shows the former heavyweight boxer repeatedly punching a man in the head. 
- <p class="updated_time"> 01:38 PM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
  <p class="updated_time"> 11:59 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61191643?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Kunduz mosque attacked during Friday prayers</a> BBC: The deadly explosion comes amid a revival of violence claimed by Islamic State militants. 
  <p class="updated_time"> 11:47 AM CT, Apr. 22 </p> 
@@ -95,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094248885/why-frances-presidential-election-matters-far-beyond-its-borders">Why France's presidential election matters far beyond its borders </a> NPR: Sunday's contest has implications for the spread of far-right ideology, France's relationship with the rest of Europe and the country's posture toward Russia. 
  <p class="updated_time"> 10:16 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61192975?at_medium=RSS&at_campaign=KARANGA">Gun deaths were the leading killer of US children in 2020</a> BBC: Guns have overtaken car crashes as the leading cause of death among young Americans. 
- <p class="updated_time"> 10:09 AM CT, Apr. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61191761?at_medium=RSS&at_campaign=KARANGA">Kenya's Mwai Kibaki: The hope and disappointment</a> BBC: Ex-Kenyan President Mwai Kibaki is remembered for ending the stranglehold of the former ruling party. 
  <p class="updated_time"> 09:56 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094276367/madeleine-mccann-missing-girl-portugal-suspect">15 years later, Portugal identifies a suspect in the probe of a missing British girl</a> NPR: Prosecutors formally accuse a suspect in the investigation into the disappearance of Madeleine McCann, who vanished nearly 15 years ago while on a family vacation. She was 3 years old at the time. 
  <p class="updated_time"> 09:53 AM CT, Apr. 22 </p> 
@@ -113,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094106596/these-airlines-are-letting-passengers-banned-for-mask-violations-back-on-planes">These airlines are letting passengers banned for mask violations back on planes</a> NPR: The cases will be determined on a case-by-case basis, depending on the company. Here's a look at where each of the major U.S. airlines stands. 
  <p class="updated_time"> 05:46 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/u-k-to-boost-defense-collaboration-with-india-11650638778">U.K. to Boost Defense Collaboration With India</a> WSJ: Prime Minister Boris Johnson said Britain would make it easier to export defense equipment to the South Asian nation. 
- <p class="updated_time"> 05:08 AM CT, Apr. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61188783?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The Russia I knew no longer exists - Steve Rosenberg</a> BBC: The BBC's Steve Rosenberg takes in the sites of Moscow apparently distorted by the war against Ukraine. 
  <p class="updated_time"> 04:12 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1092591767/despite-u-s-sanctions-oil-traders-help-russian-oil-reach-global-markets">Despite U.S. sanctions, oil traders help Russian oil reach global markets</a> NPR: Russia is still making billions of dollars on oil exports since invading Ukraine. That crude is still flowing abroad thanks in part to a controversial group of oil traders. 
  <p class="updated_time"> 03:41 AM CT, Apr. 22 </p> 
@@ -143,10 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/world/europe/us-weapons-ukraine.html">What to Know About the Weapons Being Sent to Ukraine</a> NYT: The Biden administration is sending dozens of howitzers and 120 drones in the latest $800 million package of military aid. 
  <p class="updated_time"> 08:48 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61156743?at_medium=RSS&at_campaign=KARANGA">Johnny Depp and Amber Heard face off in court</a> BBC: Depp says she stubbed a cigarette on his face. The court sees a Depp text saying: "Lets burn Amber!!!" 
- <p class="updated_time"> 08:29 PM CT, Apr. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61178199?at_medium=RSS&at_campaign=KARANGA">Mariupol: Driving into the 'apocalypse' to save mum and dad</a> BBC: How a young Ukrainian woman travelled into the besieged city of Mariupol to save her parents. 
- <p class="updated_time"> 08:11 PM CT, Apr. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61173922?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 15-21 April 2022</a> BBC: A selection of the best photos from across Africa and beyond this week. 
  <p class="updated_time"> 07:29 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/russia-ukraine-military-biden.html">Next Phase of War Will Be Pivotal for Russia and Ukraine, U.S. Says</a> NYT: Reflecting a renewed sense of urgency, President Biden announced that the United States would send the Ukrainians $800 million more in military aid. 
  <p class="updated_time"> 06:25 PM CT, Apr. 21 </p> 
