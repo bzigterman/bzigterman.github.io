@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:29 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 04:43 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: Zelensky Says U.S. Secretary of State Will Visit Kyiv; Missiles Hit Odesa</a> NYT: The American secretaries of state and defense will make a trip to the embattled Ukrainian capital, President Volodymyr Zelensky said. Russian missiles killed at least eight people in a residential area of Odesa. 
  <p class="updated_time"> 03:59 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094507838/russia-ukraine-war-what-happened-today-april-23">Russia-Ukraine war: What happened today (April 23)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
@@ -19,23 +19,23 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/23/1094510424/the-growing-demand-for-clean-energy-sources-could-mean-a-resurgence-in-mining">The growing demand for clean energy sources could mean a resurgence in mining</a> NPR: Materials like lithium are used in batteries for things like electric vehicles. For Cornwall, England, that's already led to a small mining boom. 
  <p class="updated_time"> 03:52 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094510417/eu-trade-official-calls-the-economic-impact-of-defending-ukraine-a-price-worth-p">EU trade official calls the economic impact of defending Ukraine a price worth paying</a> NPR: NPR's Michel Martin speaks with European Commission Executive Vice President Valdis Dombrovskis about the economic impact of Russia's ongoing assault on Ukraine. 
- <p class="updated_time"> 03:35 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 03:47 PM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Blinken, Austin to Visit Ukraine, Zelensky Says</a> WSJ: Blinken, Austin to Visit Ukraine, Zelensky Says 
  <p class="updated_time"> 03:29 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/climate/climate-change-rally-white-house.html">Climate Activists Rally at the White House to Demand Action</a> NYT: In Washington, D.C., as well as Phoenix, Atlanta and scores of other cities across the country, demonstrators called on the government to enact bold climate action. 
- <p class="updated_time"> 02:35 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 02:47 PM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
  <p class="updated_time"> 02:09 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094500394/japan-missing-tour-boat-26-people">A tour boat with 26 people aboard has gone missing in northern Japan</a> NPR: The vessel sent a distress call that it was sinking, the coast guard said. No survivors have been found after more than 10 hours of intense search involving patrol boats, aircraft and divers. 
+ <p class="updated_time"> 01:47 PM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
  <p class="updated_time"> 01:45 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/health/covid-vaccines-world-africa.html">The Drive to Vaccinate the World Against Covid Is Losing Steam</a> NYT: Rates are stalling in most low-income countries well short of the W.H.O.’s goal to immunize 70 percent of people in every nation. Some public health experts believe the momentum is gone forever. 
- <p class="updated_time"> 01:35 PM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
  <p class="updated_time"> 01:29 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/ukrainian-easter-traditions.html">Ukrainians Cling to Easter Traditions in the Shadow of a Devastating War</a> NYT: In Lviv, residents had laid bouquets of flowers at the feet of a statue of the Virgin Mary, next to piles of white sandbags protecting the statue from bombings. 
  <p class="updated_time"> 01:18 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094494437/ukraine-zelenskyy-blinken-austin-meeting-kyiv">2 U.S. Cabinet officials will meet with Zelenskyy in Kyiv</a> NPR: Ukrainian President Volodymyr Zelenskyy plans to meet with Secretary of State Antony Blinken and Secretary of Defense Lloyd Austin on Sunday. The State Department declined to comment to NPR. 
- <p class="updated_time"> 12:35 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 12:47 PM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
  <p class="updated_time"> 12:30 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/missile-strikes-odesa-ukraine.html">Missile Strikes Hit Odesa, Killing at Least Six, Officials Say</a> NYT: The local authorities said at least 18 people were wounded in the strike, the first to hit Odesa since early April. 
@@ -43,7 +43,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/23/world/europe/france-election-runoff-le-pen-macron.html">Inside Le Pen Territory as France Votes in a Runoff Election</a> NYT: Whatever happens in the runoff election on Sunday, France has changed, and the winner may face a turbulent season. 
  <p class="updated_time"> 12:00 PM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61202599?at_medium=RSS&at_campaign=KARANGA">Japan: Tourist boat missing off coast</a> BBC: Coast guards are searching for the 26 people on board after the vessel sent out a distress signal. 
- <p class="updated_time"> 11:35 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 11:47 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
  <p class="updated_time"> 11:29 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61202603?at_medium=RSS&at_campaign=KARANGA">Shanghai: Censors try to block video about lockdown conditions</a> BBC: The video features people pleading for help over a lack of food and medicine in the city's strict lockdown. 
