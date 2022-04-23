@@ -9,15 +9,17 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:15 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 11:48 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: As Weapons From West Flow In, Zelensky Says Ukraine Better Able to Mount Defense</a> NYT: Even as heavy artillery, drones, tanks and ammunition pour in, the Ukrainians say Russian forces are probing for weak spots along a 300-mile eastern front. So far, military analysts say, Russia has not made any significant territorial gains since it announced its renewed offensive in the region. 
+ <p class="updated_time"> 11:37 AM CT, Apr. 23 </p> 
+ <a href="https://www.nytimes.com/2022/04/23/world/europe/ukrainian-easter-traditions.html">Ukrainians Cling to Easter Traditions in the Shadow of a Devastating War</a> NYT: In Lviv, residents had laid bouquets of flowers at the feet of a statue of the Virgin Mary, next to piles of white sandbags protecting the statue from bombings. 
+ <p class="updated_time"> 11:29 AM CT, Apr. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61202603?at_medium=RSS&at_campaign=KARANGA">Shanghai: Censors try to block video about lockdown conditions</a> BBC: The video features people pleading for help over a lack of food and medicine in the city's strict lockdown. 
  <p class="updated_time"> 11:15 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/missile-strikes-odesa-ukraine.html">Missile Strikes Hit Odesa, Killing at Least Six, Officials Say</a> NYT: The local authorities said at least 18 people were wounded in the strike, the first to hit Odesa since early April. 
- <p class="updated_time"> 11:02 AM CT, Apr. 23 </p> 
- <a href="https://www.nytimes.com/2022/04/23/world/europe/ukrainian-easter-traditions.html">Ukrainians Cling to Easter Traditions in the Shadow of a Devastating War</a> NYT: In Lviv, residents had laid bouquets of flowers at the feet of a statue of the Virgin Mary, next to piles of white sandbags protecting the statue from bombings. 
  <p class="updated_time"> 11:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/schroder-germany-russia-gas-ukraine-war-energy.html">How the Ex-Chancellor Gerhard Schröder Became Putin’s Man in Germany</a> NYT: Gerhard Schröder, who is paid almost $1 million a year by Russian-controlled energy companies, has become a pariah. But he is also a symbol of Germany’s Russia policy. 
- <p class="updated_time"> 10:35 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 11:00 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Zelensky Warns That Russian Ambitions Don’t End With Ukraine</a> WSJ: Zelensky Warns That Russian Ambitions Don’t End With Ukraine 
  <p class="updated_time"> 10:24 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/61187310?at_medium=RSS&at_campaign=KARANGA">Mariupol: Videos appear to show dead civilians</a> BBC: Footage has emerged of more than 20 civilians lying dead along a main road in the city of Mariupol. 
@@ -25,16 +27,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/23/world/asia/tour-boat-missing-japan-hokkaido.html">26 Missing From Japanese Tour Boat After Distress Call off Hokkaido</a> NYT: The sightseeing vessel was on a three-hour round trip tour to the tip of Cape Shiretoko. The Japan Coast Guard had dispatched rescue boats and aircraft to the area near the Kashuni Falls. 
  <p class="updated_time"> 10:09 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/france-election-runoff-le-pen-macron.html">Inside Le Pen Territory as France Votes in a Runoff Election</a> NYT: Whatever happens in the runoff election on Sunday, France has changed, and the winner may face a turbulent season. 
+ <p class="updated_time"> 10:00 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
  <p class="updated_time"> 09:43 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/health/covid-vaccines-world-africa.html">The Drive to Vaccinate the World Against Covid Is Losing Steam</a> NYT: Rates are stalling in most low-income countries well short of the W.H.O.’s goal to immunize 70 percent of people in every nation. Some public health experts believe the momentum is gone forever. 
- <p class="updated_time"> 09:35 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
  <p class="updated_time"> 09:25 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/moldova-ukraine-russia.html">Rattled by Ukraine War, Moldova Strives to Dodge Russia’s Long Shadow</a> NYT: Moldova’s destiny has been intertwined uncomfortably with Russia’s for years, and the Ukraine invasion has accelerated its efforts to break free from Moscow. 
- <p class="updated_time"> 08:35 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 09:00 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/russia-blocks-economic-data-hiding-effect-of-western-sanctions-11650677765">Russia Blocks Economic Data, Hiding Effect of Sanctions</a> WSJ: Russia Blocks Economic Data, Hiding Effect of Sanctions 
  <p class="updated_time"> 08:23 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61202599?at_medium=RSS&at_campaign=KARANGA">Japan: Tourist boat reported missing off coast</a> BBC: Coast guards are searching for the 26 people on board after the vessel sent out a distress signal. 
+ <p class="updated_time"> 08:00 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
  <p class="updated_time"> 07:57 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/africa/bain-south-africa-jacob-zuma.html">A Boston Consulting Firm Became a Power Broker, and Then a Pariah, in South Africa</a> NYT: A new judicial inquiry found that corruption at South Africa’s tax agency was because of “collusion” between Bain & Company and South Africa’s former president. 
  <p class="updated_time"> 07:53 AM CT, Apr. 23 </p> 
@@ -42,18 +46,16 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:46 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/asia/japan-tattoo.html">Discreetly, the Young in Japan Chip Away at a Taboo on Tattoos</a> NYT: Exposed to body art on social media, more young Japanese are getting tattoos, even if that means hiding them at work. 
  <p class="updated_time"> 07:46 AM CT, Apr. 23 </p> 
- <a href="https://www.npr.org/2022/04/23/1094471660/ukraine-russia-mariupol-steel-plant">Ukraine says Russian forces are attacking Mariupol steel plant with civilians inside</a> NPR: The assault was reported by an adviser to Ukraine's presidential office as an estimated 1,000 civilians sheltered in the plant alongside the remaining Ukrainian fighters in the strategic port city. 
+ <a href="https://www.npr.org/2022/04/23/1094471660/ukraine-russia-mariupol-steel-plant">Ukraine says Russian forces try to storm Mariupol steel plant</a> NPR: Ukrainian officials have estimated that about 2,000 of their troops are inside the plant along with the civilians sheltering in the facility's underground tunnels. 
  <p class="updated_time"> 07:43 AM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094470453/jerusalem-unrest">Clashes between Israeli police and Palestinians continue at the Al-Aqsa mosque</a> NPR: Repeated clashes between Israeli police and Palestinians have taken place this week at the most sensitive site in Jerusalem: the Al-Aqsa mosque compound. 
  <p class="updated_time"> 07:43 AM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094471684/mexico-debanhi-escobar-dead-disappearance">13 days after Debanhi Escobar disappeared near Monterrey, her body has been found</a> NPR: The case made headlines because of a haunting photo taken by a driver who was supposed to take her home on April 8.  Killings of women have increased in Mexico, rising to 1,015 cases last year. 
  <p class="updated_time"> 07:39 AM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094470383/ukrainian-city-prepares-for-a-seige">Residents of a Ukrainian city prepare for a seige</a> NPR: As Russia renews its offensive on southern and eastern Ukraine, the city of Mykolaiv, near the Black Sea, are preparing for a siege. 
- <p class="updated_time"> 07:35 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
  <p class="updated_time"> 07:34 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61201548?at_medium=RSS&at_campaign=KARANGA">Mariupol steelworks: Video appears to show children in Azovstal bunker</a> BBC: Ukrainian fighters post a video of civilians who they say have been hiding under a steel plant for weeks. 
- <p class="updated_time"> 06:35 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 07:00 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204">Shanghai Lockdown Bolsters a Fringe Independence Movement</a> WSJ: Shanghai Lockdown Bolsters a Fringe Independence Movement 
  <p class="updated_time"> 06:31 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61201931?at_medium=RSS&at_campaign=KARANGA">Video appears to show children in Mariupol steel works bunker</a> BBC: A video released by Ukraine's Azov regiment appears to show children sheltering inside a steel plant. 
@@ -95,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094257492/russia-ukraine-war-what-happened-today-april-22">Russia-Ukraine war: What happened today (April 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:49 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/ukraine-front-line-zaporizhzhya.html">Ukraine’s Forces, Dug In on Front Line, Fight to Repel Russia</a> NYT: After near-annihilation, and a marriage proposal, a Ukrainian unit has become a group of hardened veterans, dug in and determined. 
- <p class="updated_time"> 03:46 PM CT, Apr. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61196325?at_medium=RSS&at_campaign=KARANGA">Somalia: At least six killed in Mogadishu attack near beach</a> BBC: The attack reportedly happened near a beach in the capital, Mogadishu. 
  <p class="updated_time"> 03:40 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094390305/macron-is-beating-le-pen-in-frances-polls-but-not-by-as-much-as-5-years-ago">Macron is beating Le Pen in France's polls — but not by as much as 5 years ago</a> NPR: French voters cast their ballots Sunday. Polls show incumbent president Emmanuel Macron ahead of his rival, populist candidate Marine Le Pen. 
  <p class="updated_time"> 03:40 PM CT, Apr. 22 </p> 
@@ -189,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/world/asia/afghanistan-mosque-bombing.html">Explosion at Afghan Mosque Kills at Least 10</a> NYT: The blast in Mazar-i-Sharif, one of Afghanistan’s economic hubs, was the latest in a series of attacks on one of its religious minorities and was claimed by an ISIS affiliate. 
  <p class="updated_time"> 07:38 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/mariupol-azovstal-steel-mill.html">See Mariupol’s Azovstal Steel-Mill Fortress Before the War, and Now</a> NYT: Before-and-after images show the scale of destruction that the Ukrainian port city has suffered after nearly two months of near constant bombardment by Russian artillery, mortars and airstrikes. 
- <p class="updated_time"> 11:43 PM CT, Apr. 20 </p> 
- <a href="https://www.nytimes.com/2022/04/20/world/americas/rosario-ibarra-dead.html">Rosario Ibarra de Piedra, 95, Dies; Fought for Mexico’s ‘Disappeared’</a> NYT: When her son vanished in 1975, she began a crusade on behalf of him and hundreds of others and became a voice of moral authority on the left. 
  <p class="updated_time"> 10:39 PM CT, Apr. 20 </p> 
  <a href="https://www.nytimes.com/2022/04/20/us/politics/russia-putin-missile-test.html">Russia’s Missile Test Fuels U.S. Fears of an Isolated Putin</a> NYT: American and foreign leaders have been weighing whether their success in making Russia a diplomatic pariah could push President Vladimir V. Putin to strike in new ways. 
  <p class="updated_time"> 08:42 PM CT, Apr. 20 </p> 
@@ -202,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:31 AM CT, Apr. 23 </p> 
+ <a href="https://www.npr.org/2022/04/23/1094480415/illegal-voter-registration-case-dropped">A woman charged with illegal voter registration won't be prosecuted in 2nd trial</a> NPR: Pamela Moses was convicted of registering to vote illegally in Memphis, Tenn., in 2019 and was sentenced to six years in prison. She has said she was unaware that she was ineligible to vote. 
  <p class="updated_time"> 11:07 AM CT, Apr. 23 </p> 
  <a href="https://www.politico.com/news/2022/04/23/russians-try-to-storm-mariupol-plant-strike-odesa-00027346">Russians try to storm Mariupol plant, strike Odesa</a> Politico: The reported assault on the eve of Orthodox Easter came after the Kremlin claimed its military had seized all of Mariupol except for the Azovstal plant. 
  <p class="updated_time"> 10:50 AM CT, Apr. 23 </p> 
@@ -288,8 +288,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/22/theater/potus-selina-fillinger-broadway.html">The ‘POTUS’ Playwright Is Making a Farce of the Patriarchy </a> NYT: “POTUS” will be the writer Selina Fillinger’s Broadway debut. “I really didn’t feel like I needed to do any research. I have been all of those women,” she said. 
  <p class="updated_time"> 06:13 AM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/zero-waste-new-yorkers-recycle-00026708">New York City fails zero waste pledge. Why it’s going backward.</a> Politico: During his first “Earth Week” as the city's mayor, Eric Adams is confronting a growing waste crisis he inherited with no end in sight. 
- <p class="updated_time"> 05:05 AM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1093974389/kevin-mccarthy-audio-resign-donald-trump-capitol-riot">Audio reveals Kevin McCarthy planned to urge Trump to resign after Capitol riot</a> NPR: In the recorded conversation, House Minority Leader Kevin McCarthy said he didn't believe Donald Trump would voluntarily step down. 
  <p class="updated_time"> 03:31 AM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/gallery/2022/04/22/the-nations-cartoonists-on-the-week-in-politics-00026851">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 03:30 AM CT, Apr. 22 </p> 
