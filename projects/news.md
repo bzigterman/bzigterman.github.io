@@ -9,44 +9,50 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:07 PM CT, Apr. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: Zelensky Says U.S. Secretary of State Will Visit Kyiv; Missiles Hit Odesa</a> NYT: The American secretaries of state and defense will make a trip to the embattled Ukrainian capital, President Volodymyr Zelensky said. Russian missiles killed at least eight people in a residential area of Odesa. 
+ <p class="updated_time"> 03:59 PM CT, Apr. 23 </p> 
+ <a href="https://www.npr.org/2022/04/23/1094507838/russia-ukraine-war-what-happened-today-april-23">Russia-Ukraine war: What happened today (April 23)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:52 PM CT, Apr. 23 </p> 
+ <a href="https://www.npr.org/2022/04/23/1094510445/china-looks-to-learn-from-russias-shortcomings-in-ukraine">China looks to learn from Russia's shortcomings in Ukraine</a> NPR: Russia's military has not performed as expected in Ukraine. The Chinese People's Liberation Army, which regularly drills with Russia, is watching closely. 
+ <p class="updated_time"> 03:52 PM CT, Apr. 23 </p> 
+ <a href="https://www.npr.org/2022/04/23/1094510424/the-growing-demand-for-clean-energy-sources-could-mean-a-resurgence-in-mining">The growing demand for clean energy sources could mean a resurgence in mining</a> NPR: Materials like lithium are used in batteries for things like electric vehicles. For Cornwall, England, that's already led to a small mining boom. 
+ <p class="updated_time"> 03:52 PM CT, Apr. 23 </p> 
+ <a href="https://www.npr.org/2022/04/23/1094510417/eu-trade-official-calls-the-economic-impact-of-defending-ukraine-a-price-worth-p">EU trade official calls the economic impact of defending Ukraine a price worth paying</a> NPR: NPR's Michel Martin speaks with European Commission Executive Vice President Valdis Dombrovskis about the economic impact of Russia's ongoing assault on Ukraine. 
  <p class="updated_time"> 03:29 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/climate/climate-change-rally-white-house.html">Climate Activists Rally at the White House to Demand Action</a> NYT: In Washington, D.C., as well as Phoenix, Atlanta and scores of other cities across the country, demonstrators called on the government to enact bold climate action. 
- <p class="updated_time"> 03:11 PM CT, Apr. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: Zelensky Says U.S. Secretary of State Will Visit Kyiv; Missiles Hit Odesa</a> NYT: The American secretaries of state and defense will make a trip to the embattled Ukrainian capital, President Volodymyr Zelensky said. Russian missiles killed at least eight people in a residential area of Odesa. 
- <p class="updated_time"> 02:45 PM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
+ <p class="updated_time"> 03:21 PM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Blinken, Austin to Visit Ukraine, Zelensky Says</a> WSJ: Blinken, Austin to Visit Ukraine, Zelensky Says 
+ <p class="updated_time"> 02:21 PM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
  <p class="updated_time"> 02:09 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094500394/japan-missing-tour-boat-26-people">A tour boat with 26 people aboard has gone missing in northern Japan</a> NPR: The vessel sent a distress call that it was sinking, the coast guard said. No survivors have been found after more than 10 hours of intense search involving patrol boats, aircraft and divers. 
- <p class="updated_time"> 01:45 PM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">U.S. Secretary of State Blinken, Defense Secretary Austin to Visit Ukraine, Zelensky Says</a> WSJ: U.S. Secretary of State Blinken, Defense Secretary Austin to Visit Ukraine, Zelensky Says 
  <p class="updated_time"> 01:45 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/health/covid-vaccines-world-africa.html">The Drive to Vaccinate the World Against Covid Is Losing Steam</a> NYT: Rates are stalling in most low-income countries well short of the W.H.O.’s goal to immunize 70 percent of people in every nation. Some public health experts believe the momentum is gone forever. 
  <p class="updated_time"> 01:29 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/ukrainian-easter-traditions.html">Ukrainians Cling to Easter Traditions in the Shadow of a Devastating War</a> NYT: In Lviv, residents had laid bouquets of flowers at the feet of a statue of the Virgin Mary, next to piles of white sandbags protecting the statue from bombings. 
+ <p class="updated_time"> 01:21 PM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
  <p class="updated_time"> 01:18 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094494437/ukraine-zelenskyy-blinken-austin-meeting-kyiv">2 U.S. Cabinet officials will meet with Zelenskyy in Kyiv</a> NPR: Ukrainian President Volodymyr Zelenskyy plans to meet with Secretary of State Antony Blinken and Secretary of Defense Lloyd Austin on Sunday. The State Department declined to comment to NPR. 
- <p class="updated_time"> 12:45 PM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
  <p class="updated_time"> 12:30 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/missile-strikes-odesa-ukraine.html">Missile Strikes Hit Odesa, Killing at Least Six, Officials Say</a> NYT: The local authorities said at least 18 people were wounded in the strike, the first to hit Odesa since early April. 
  <p class="updated_time"> 12:29 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/france-election-runoff-le-pen-macron.html">Inside Le Pen Territory as France Votes in a Runoff Election</a> NYT: Whatever happens in the runoff election on Sunday, France has changed, and the winner may face a turbulent season. 
+ <p class="updated_time"> 12:21 PM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
  <p class="updated_time"> 12:00 PM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61202599?at_medium=RSS&at_campaign=KARANGA">Japan: Tourist boat missing off coast</a> BBC: Coast guards are searching for the 26 people on board after the vessel sent out a distress signal. 
- <p class="updated_time"> 11:45 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
  <p class="updated_time"> 11:29 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61202603?at_medium=RSS&at_campaign=KARANGA">Shanghai: Censors try to block video about lockdown conditions</a> BBC: The video features people pleading for help over a lack of food and medicine in the city's strict lockdown. 
+ <p class="updated_time"> 11:21 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
  <p class="updated_time"> 11:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/schroder-germany-russia-gas-ukraine-war-energy.html">How the Ex-Chancellor Gerhard Schröder Became Putin’s Man in Germany</a> NYT: Gerhard Schröder, who is paid almost $1 million a year by Russian-controlled energy companies, has become a pariah. But he is also a symbol of Germany’s Russia policy. 
- <p class="updated_time"> 10:45 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204">Shanghai Lockdown Bolsters a Fringe Independence Movement</a> WSJ: Shanghai Lockdown Bolsters a Fringe Independence Movement 
  <p class="updated_time"> 10:24 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/61187310?at_medium=RSS&at_campaign=KARANGA">Mariupol: Videos appear to show dead civilians</a> BBC: Footage has emerged of more than 20 civilians lying dead along a main road in the city of Mariupol. 
  <p class="updated_time"> 10:13 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/asia/tour-boat-missing-japan-hokkaido.html">26 Missing From Japanese Tour Boat After Distress Call off Hokkaido</a> NYT: The sightseeing vessel was on a three-hour round trip tour to the tip of Cape Shiretoko. The Japan Coast Guard had dispatched rescue boats and aircraft to the area near the Kashuni Falls. 
- <p class="updated_time"> 10:10 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: A tourist boat with 26 people aboard disappeared in rough seas in a remote part of northern Japan. Hopes dimmed that any survivors could be found in the icy waters. 
  <p class="updated_time"> 09:25 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/moldova-ukraine-russia.html">Rattled by Ukraine War, Moldova Strives to Dodge Russia’s Long Shadow</a> NYT: Moldova’s destiny has been intertwined uncomfortably with Russia’s for years, and the Ukraine invasion has accelerated its efforts to break free from Moscow. 
  <p class="updated_time"> 07:57 AM CT, Apr. 23 </p> 
@@ -75,6 +81,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/23/1094239527/orthodox-easter-will-be-very-different-this-year-for-thousands-of-ukrainian-refu">Orthodox Easter will be very different this year for thousands of Ukrainian refugees</a> NPR: This weekend would normally be a celebratory one for Ukrainians. But Easter Sunday marks two months since the latest Russian invasion. More than 40,000 refugees have found themselves in Bulgaria. 
  <p class="updated_time"> 02:48 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
+ <p class="updated_time"> 12:30 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204">Shanghai Lockdown Bolsters a Fringe Independence Movement</a> WSJ: Resentment over the handling of Covid-19 is feeding a view that the city would be better off on its own. In New York, an activist has a flag ready. 
  <p class="updated_time"> 09:18 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia aiming for full control of south, commander says</a> BBC: A senior Russian commander is quoted as saying Moscow plans to take full control of the south and east. 
  <p class="updated_time"> 08:57 PM CT, Apr. 22 </p> 
@@ -105,14 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/22/world/europe/ukraine-front-line-zaporizhzhya.html">Ukraine’s Forces, Dug In on Front Line, Fight to Repel Russia</a> NYT: After near-annihilation, and a marriage proposal, a Ukrainian unit has become a group of hardened veterans, dug in and determined. 
  <p class="updated_time"> 03:40 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094390305/macron-is-beating-le-pen-in-frances-polls-but-not-by-as-much-as-5-years-ago">Macron is beating Le Pen in France's polls — but not by as much as 5 years ago</a> NPR: French voters cast their ballots Sunday. Polls show incumbent president Emmanuel Macron ahead of his rival, populist candidate Marine Le Pen. 
- <p class="updated_time"> 03:40 PM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1094390298/displaced-ukrainians-in-bulgaria-are-finding-ways-to-mark-orthodox-easter">Displaced Ukrainians in Bulgaria are finding ways to mark Orthodox Easter</a> NPR: This weekend is Orthodox Easter, a holiday celebrated in Ukraine. Millions are fleeing the Russian invasion right now, but those seeking refuge in Bulgaria are marking the holiday. 
- <p class="updated_time"> 03:33 PM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1094390284/chinas-tech-crackdown-has-disrupted-its-financial-markets">China's tech crackdown has disrupted its financial markets</a> NPR: China has enforced strict regulations on its tech platforms over the past year. But this crackdown has sparked such instability in financial markets that the government may be having second thoughts. 
- <p class="updated_time"> 03:29 PM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1094390348/russians-are-feeling-the-impact-of-sanctions-but-the-worst-is-still-yet-to-come">Russians are feeling the impact of sanctions, but the worst is still yet to come</a> NPR: It's been nearly two months since the US and its allies introduced unprecedented International sanctions against Russia in response to the invasion. For the Russian economy, the worst is yet to come. 
- <p class="updated_time"> 03:29 PM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1094390341/what-this-sundays-election-means-for-the-future-of-france">What this Sunday's election means for the future of France</a> NPR: NPR's Daniel Estrin talks with Sylvie Kauffmann, editorial director at Le Monde, about what France's election means for the future of the country. 
  <p class="updated_time"> 03:21 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/africa/mwai-kibaki-kenya-dead.html">Mwai Kibaki, Former President of Kenya, Dies at 90</a> NYT: He came to power promising to root out corruption and improve government transparency. But his tenure was blighted by widespread graft and a violent upheaval. 
  <p class="updated_time"> 03:00 PM CT, Apr. 22 </p> 
