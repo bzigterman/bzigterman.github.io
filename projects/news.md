@@ -9,18 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:44 PM CT, Apr. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: Zelensky Says U.S. Officials Will Visit Kyiv and Expresses Confidence on Fight in East</a> NYT: The American secretaries of state and defense will make a trip to the embattled Ukrainian capital, President Volodymyr Zelensky said. Russian missiles killed at least eight people in a residential area of Odesa. 
- <p class="updated_time"> 05:37 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 06:07 PM CT, Apr. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: Zelensky Says U.S. Officials to Visit Kyiv and Expresses Confidence on Fight in East</a> NYT: The American secretaries of state and defense will make a trip to the embattled Ukrainian capital, President Volodymyr Zelensky said. Russian missiles killed at least eight people in a residential area of Odesa. 
+ <p class="updated_time"> 06:03 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/zelensky-donbas-ukraine-russia.html">As Western Arms Pour Into Ukraine, Zelensky Promises Victory</a> NYT: “The day when they will be forced to leave Ukraine is approaching,” the Ukrainian president said of the Russians, in a sharp change of tone. 
+ <p class="updated_time"> 06:00 PM CT, Apr. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61162562?at_medium=RSS&at_campaign=KARANGA">Colombia election: How TikTok is defining the presidential race</a> BBC: The social media platform has become a battleground as candidates reach out to young voters. 
+ <p class="updated_time"> 06:00 PM CT, Apr. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61188529?at_medium=RSS&at_campaign=KARANGA">Puducherry prison uses dance therapy to rehabilitate inmates</a> BBC: A prison in India's Puducherry is using dance therapy to help convicts deal with stress. 
  <p class="updated_time"> 05:30 PM CT, Apr. 23 </p> 
- <a href="https://www.nytimes.com/2022/04/23/world/europe/missile-strikes-odesa-ukraine.html">Missile Strikes Hit Odesa, Killing at Least Six, Officials Say</a> NYT: The local authorities said at least 18 people were wounded in the strike, the first to hit Odesa since early April. 
- <p class="updated_time"> 04:52 PM CT, Apr. 23 </p> 
+ <a href="https://www.nytimes.com/2022/04/23/world/europe/missile-strikes-odesa-ukraine.html">Missile Strikes Hit Odesa, Killing at Least Eight, Officials Say</a> NYT: The local authorities said at least 18 people were wounded in the strike, the first to hit Odesa since early April. 
+ <p class="updated_time"> 05:13 PM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Blinken, Austin to Visit Ukraine, Zelensky Says</a> WSJ: Blinken, Austin to Visit Ukraine, Zelensky Says 
+ <p class="updated_time"> 04:13 PM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
  <p class="updated_time"> 03:59 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094507838/russia-ukraine-war-what-happened-today-april-23">Russia-Ukraine war: What happened today (April 23)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:52 PM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
  <p class="updated_time"> 03:52 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094510445/china-looks-to-learn-from-russias-shortcomings-in-ukraine">China looks to learn from Russia's shortcomings in Ukraine</a> NPR: Russia's military has not performed as expected in Ukraine. The Chinese People's Liberation Army, which regularly drills with Russia, is watching closely. 
  <p class="updated_time"> 03:52 PM CT, Apr. 23 </p> 
@@ -29,19 +33,19 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/23/1094510417/eu-trade-official-calls-the-economic-impact-of-defending-ukraine-a-price-worth-p">EU trade official calls the economic impact of defending Ukraine a price worth paying</a> NPR: NPR's Michel Martin speaks with European Commission Executive Vice President Valdis Dombrovskis about the economic impact of Russia's ongoing assault on Ukraine. 
  <p class="updated_time"> 03:29 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/climate/climate-change-rally-white-house.html">Climate Activists Rally at the White House to Demand Action</a> NYT: In Washington, D.C., as well as Phoenix, Atlanta and scores of other cities across the country, demonstrators called on the government to enact bold climate action. 
- <p class="updated_time"> 02:52 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 03:13 PM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
+ <p class="updated_time"> 02:13 PM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
  <p class="updated_time"> 02:09 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094500394/japan-missing-tour-boat-26-people">A tour boat with 26 people aboard has gone missing in northern Japan</a> NPR: The vessel sent a distress call that it was sinking, the coast guard said. No survivors have been found after more than 10 hours of intense search involving patrol boats, aircraft and divers. 
- <p class="updated_time"> 01:52 PM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
  <p class="updated_time"> 01:45 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/health/covid-vaccines-world-africa.html">The Drive to Vaccinate the World Against Covid Is Losing Steam</a> NYT: Rates are stalling in most low-income countries well short of the W.H.O.’s goal to immunize 70 percent of people in every nation. Some public health experts believe the momentum is gone forever. 
  <p class="updated_time"> 01:29 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/ukrainian-easter-traditions.html">Ukrainians Cling to Easter Traditions in the Shadow of a Devastating War</a> NYT: In Lviv, residents had laid bouquets of flowers at the feet of a statue of the Virgin Mary, next to piles of white sandbags protecting the statue from bombings. 
  <p class="updated_time"> 01:18 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094494437/ukraine-zelenskyy-blinken-austin-meeting-kyiv">2 U.S. Cabinet officials will meet with Zelenskyy in Kyiv</a> NPR: Ukrainian President Volodymyr Zelenskyy plans to meet with Secretary of State Antony Blinken and Secretary of Defense Lloyd Austin on Sunday. The State Department declined to comment to NPR. 
- <p class="updated_time"> 12:52 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 01:13 PM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
  <p class="updated_time"> 12:29 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/france-election-runoff-le-pen-macron.html">Inside Le Pen Territory as France Votes in a Runoff Election</a> NYT: Whatever happens in the runoff election on Sunday, France has changed, and the winner may face a turbulent season. 
@@ -167,12 +171,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/world/zelensky-ukraine-support.html">Zelensky Says Ukraine Needs $7 Billion in Support per Month</a> NYT: Ukraine has suffered $550 billion in losses from the war, President Volodymyr Zelensky told the World Bank on Thursday. 
  <p class="updated_time"> 08:53 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/us-weapons-ukraine.html">What to Know About the Weapons Being Sent to Ukraine</a> NYT: The Biden administration is sending dozens of howitzers and 120 drones in the latest $800 million package of military aid. 
- <p class="updated_time"> 08:48 PM CT, Apr. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61156743?at_medium=RSS&at_campaign=KARANGA">Johnny Depp and Amber Heard face off in court</a> BBC: Depp says she stubbed a cigarette on his face. The court sees a Depp text saying: "Lets burn Amber!!!" 
  <p class="updated_time"> 07:29 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/russia-ukraine-military-biden.html">Next Phase of War Will Be Pivotal for Russia and Ukraine, U.S. Says</a> NYT: Reflecting a renewed sense of urgency, President Biden announced that the United States would send the Ukrainians $800 million more in military aid. 
- <p class="updated_time"> 06:25 PM CT, Apr. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61184479?at_medium=RSS&at_campaign=KARANGA">The German towns in Paraguay with a surge in European immigrants</a> BBC: Thousands of German nationals have migrated to Paraguay to escape Covid restrictions and immigration in Europe. 
  <p class="updated_time"> 06:19 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/russia-moskva-warship-disinformation.html">With Moskva Warship Sunken, Russia Disinformation Faces a Test</a> NYT: Families of missing crew members say the Russian authorities are giving them the runaround after a flagship sank last week in the Black Sea. 
  <p class="updated_time"> 05:14 PM CT, Apr. 21 </p> 
@@ -202,7 +202,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:12 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 05:52 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/us/politics/trump-meadows-freedom-caucus-jan-6.html">Filing Provides New Details on Trump White House Planning for Jan. 6</a> NYT: Testimony disclosed by the House committee investigating the attack showed that Mark Meadows and Freedom Caucus members discussed directing marchers to the Capitol as Congress certified the election results. 
  <p class="updated_time"> 03:08 PM CT, Apr. 23 </p> 
  <a href="https://www.politico.com/news/2022/04/23/split-verdict-air-force-general-military-trial-00027353">Split verdict in first-ever Air Force general military trial</a> Politico: Officials said the verdict marks the first court-martial trial and conviction of a general officer in the Air Force’s 75-year history. 
@@ -234,8 +234,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/22/gop-lawmakers-deeply-involved-in-trump-plans-to-overturn-election-new-evidence-suggests-00027340">GOP lawmakers were deeply involved in Trump plans to overturn election, new evidence suggests</a> Politico: Deposition excerpts filed by the Jan 6. select committee underscore the expansive cast of elected Republicans who had enlisted themselves in Trump’s effort to cling to power. 
  <p class="updated_time"> 08:52 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/mccarthy-trump-republicans.html">How Audio of McCarthy’s Lie Reveals GOP Hypocrisy on Trump</a> NYT: The Republican leader’s false claim that he never urged President Donald J. Trump to resign — disproved by an audio recording of the comments — drew little outrage from members of his party. 
- <p class="updated_time"> 08:38 PM CT, Apr. 22 </p> 
- <a href="https://www.politico.com/news/2022/04/22/trump-responsibility-for-jan-6-attack-mccarthy-00027335">Trump says he 'never claimed responsibility' for Jan. 6 attack, contradicting McCarthy</a> Politico: “No, that’s false. I never claimed responsibility,” Trump said in an interview with the Wall Street Journal. 
  <p class="updated_time"> 08:38 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/mccarthy-trump-jan-6-recording.html">McCarthy Said Trump Acknowledged ‘Some Responsibility’ for Jan. 6</a> NYT: New audio captures what Representative Kevin McCarthy said to Republicans shortly after the Jan. 6 attack on the Capitol. 
  <p class="updated_time"> 07:22 PM CT, Apr. 22 </p> 
@@ -274,8 +272,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094390228/newly-released-audio-reveals-that-kevin-mccarthy-supported-ousting-trump-after-j">Newly-released audio reveals that Kevin McCarthy supported ousting Trump after Jan. 6</a> NPR: House GOP minority leader Kevin McCarthy was recorded in January saying he'd advise then-President Trump to resign after Jan. 6. It raises questions about his future and relationship with Trump. 
  <p class="updated_time"> 03:04 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094324215/how-kentucky-republicans-blocked-all-abortions-for-more-than-a-week">How Kentucky Republicans blocked all abortions for more than a week</a> NPR: Even without a Supreme Court ruling, a new Kentucky law shut down abortions for several days before a federal court stepped in. Abortion rights groups fear it's just the beginning. 
- <p class="updated_time"> 02:16 PM CT, Apr. 22 </p> 
- <a href="https://www.politico.com/news/2022/04/22/jan-6-ivanka-trump-00027213">Jan. 6 panel gets inconsistent testimony on key Trump family conversation</a> Politico: Witnesses contradict key testimony on how hard Ivanka Trump had to push the former president to call off the Jan. 6 rioters. 
  <p class="updated_time"> 01:31 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094316591/disney-world-desantis-florida-counties-taxes">DeSantis wanted to punish Disney. Repealing its tax status may hurt taxpayers instead</a> NPR: Orange and Osceola counties could take on a massive debt held by Disney now that Gov. Ron DeSantis has signed a bill revoking Disney World's special regulatory status. 
  <p class="updated_time"> 12:59 PM CT, Apr. 22 </p> 
