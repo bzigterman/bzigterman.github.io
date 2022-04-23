@@ -9,44 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:18 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 06:32 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: As Weapons From West Flow In, Zelensky Says Ukraine Better Able to Mount Defense</a> NYT: Even as heavy artillery, drones, tanks and ammunition pour in, the Ukrainians say Russian forces are probing for weak spots along a 300-mile eastern front. So far, military analysts say, Russia has not made any significant territorial gains since it announced its renewed offensive in the region. 
- <p class="updated_time"> 05:21 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
+ <p class="updated_time"> 06:31 AM CT, Apr. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61201931?at_medium=RSS&at_campaign=KARANGA">Video appears to show children in Mariupol steel works bunker</a> BBC: A video released by Ukraine's Azov regiment appears to show children sheltering inside a steel plant. 
+ <p class="updated_time"> 06:27 AM CT, Apr. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
+ <p class="updated_time"> 05:35 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 05:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/canada/nhl-crosby-penguins-leafs.html">Canada’s Stanley Cup Hopes Rest on Leafs, Flames, Oilers</a> NYT: The N.H.L. playoffs are a beloved routine of Canadian springtime that can make fans as crazy as the season’s mercurial weather. 
+ <p class="updated_time"> 04:35 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Zelensky Warns That Russian Ambitions Don’t End With Ukraine</a> WSJ: Zelensky Warns That Russian Ambitions Don’t End With Ukraine 
  <p class="updated_time"> 04:31 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/france-muslims-presidential-vote.html">Who Will France’s Muslims Choose for President?</a> NYT: French Muslims face a decision between Emmanuel Macron, whose presidency some of them view as harmful, and Marine Le Pen, whose far-right party has a history of anti-Muslim positions. 
- <p class="updated_time"> 04:21 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 04:00 AM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094239527/orthodox-easter-will-be-very-different-this-year-for-thousands-of-ukrainian-refu">Orthodox Easter will be very different this year for thousands of Ukrainian refugees</a> NPR: This weekend would normally be a celebratory one for Ukrainians. But Easter Sunday marks two months since the latest Russian invasion. More than 40,000 refugees have found themselves in Bulgaria. 
- <p class="updated_time"> 03:21 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840">Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</a> WSJ: Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor 
+ <p class="updated_time"> 03:35 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/russia-blocks-economic-data-hiding-effect-of-western-sanctions-11650677765">Russia Blocks Economic Data, Hiding Effect of Sanctions</a> WSJ: Russia Blocks Economic Data, Hiding Effect of Sanctions 
  <p class="updated_time"> 02:48 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
- <p class="updated_time"> 02:21 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/france-macron-le-pen-election-politics-11650487493">Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations</a> WSJ: Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations 
- <p class="updated_time"> 02:07 AM CT, Apr. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
+ <p class="updated_time"> 02:35 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204">Shanghai Lockdown Bolsters a Fringe Independence Movement</a> WSJ: Shanghai Lockdown Bolsters a Fringe Independence Movement 
  <p class="updated_time"> 02:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/moldova-ukraine-russia.html">Rattled by Ukraine War, Moldova Strives to Dodge Russia’s Long Shadow</a> NYT: Moldova’s destiny has been intertwined uncomfortably with Russia’s for years, and the Ukraine invasion has accelerated its efforts to break free from Moscow. 
  <p class="updated_time"> 02:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/health/covid-vaccines-word-africa.html">The Drive to Vaccinate the World Against Covid Is Losing Steam</a> NYT: Rates are stalling in most low-income countries well short of the W.H.O.’s goal to immunize 70 percent of people in every nation. Some public health experts believe the momentum is gone forever. 
- <p class="updated_time"> 01:21 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/shanghai-nursing-home-covid-deaths-11650641053">New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed</a> WSJ: New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed 
- <p class="updated_time"> 12:30 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204">Shanghai Lockdown Bolsters a Fringe Independence Movement</a> WSJ: Resentment over the handling of Covid-19 is feeding a view that the city would be better off on its own. In New York, an activist has a flag ready. 
- <p class="updated_time"> 11:57 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Zelensky Warns That Russian Ambitions Don't End With Ukraine</a> WSJ: The Ukrainian president warned that Russia had its sights set on other European countries if its troops push past Ukrainian forces trying to hold back a renewed Russian offensive in the south and east of the country. 
+ <p class="updated_time"> 01:35 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/what-shanghai-is-going-through-is-news-to-many-in-the-rest-of-china-11650687277">What Shanghai Is Going Through Is News to Many in the Rest of China</a> WSJ: What Shanghai Is Going Through Is News to Many in the Rest of China 
  <p class="updated_time"> 09:18 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia aiming for full control of south, commander says</a> BBC: A senior Russian commander is quoted as saying Moscow plans to take full control of the south and east. 
  <p class="updated_time"> 08:57 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/russia-ukraine-fighting-east.html">Russians Seize 42 Towns in Eastern Ukraine as Fighting Intensifies</a> NYT: Ukrainian military officials vowed to reverse Russia’s territorial gains in what was turning into a grinding back-and-forth struggle along a front stretching more than 300 miles. 
  <p class="updated_time"> 07:22 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html">As Europe Approves New Tech Laws, the U.S. Falls Further Behind</a> NYT: Federal privacy bills, security legislation and antitrust laws to address the power of the tech giants have all failed to advance in Congress, despite hand wringing and shows of bipartisan support. 
- <p class="updated_time"> 07:14 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/what-shanghai-is-going-through-is-news-to-many-in-the-rest-of-china-11650687277">What Shanghai Is Going Through Is News to Many in the Rest of China</a> WSJ: For weeks, Shanghai has made international headlines for its massive Covid-19 lockdown. Yet in the rest of China, it is easy to get the impression that nothing out of the ordinary is going on there. 
  <p class="updated_time"> 07:06 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/61187310?at_medium=RSS&at_campaign=KARANGA">Mariupol: Videos appear to show dead civilians</a> BBC: Footage has emerged of more than 20 civilians lying dead along a main road in the city of Mariupol. 
  <p class="updated_time"> 07:05 PM CT, Apr. 22 </p> 
@@ -125,6 +121,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61187658?at_medium=RSS&at_campaign=KARANGA">Khodorkovsky: Oil ban would deal Putin ‘very serious blow’</a> BBC: Exiled Russian tycoon says oil embargo could halve country’s cash and damage Putin’s war capability. 
  <p class="updated_time"> 09:11 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/africa/aliou-cisse-soccer-senegal.html">Aliou Cissé Has Senegal Ready to Shine in World Cup</a> NYT: Aliou Cissé, one of the best of a new generation of African coaches, has reinvented Senegal’s national team and given the country a new sense of patriotism. His next goal: the World Cup. 
+ <p class="updated_time"> 07:27 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840">Marine Le Pen's Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</a> WSJ: The party, named National Rally, is paying the money to a contractor that is currently under U.S. sanctions, part of a settlement involving a previous loan from a Russian bank. 
  <p class="updated_time"> 06:27 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/india-kangaroos-smuggling-west-bengal.html">Kangaroos in India? Experts See Evidence of a Smuggling Trade</a> NYT: The animals are the latest exotic fauna to be smuggled into the country, possibly to be used as pets. Draft legislation would close loopholes in the roaring wildlife trade. 
  <p class="updated_time"> 06:12 AM CT, Apr. 22 </p> 
@@ -133,6 +131,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094106596/these-airlines-are-letting-passengers-banned-for-mask-violations-back-on-planes">These airlines are letting passengers banned for mask violations back on planes</a> NPR: The cases will be determined on a case-by-case basis, depending on the company. Here's a look at where each of the major U.S. airlines stands. 
  <p class="updated_time"> 05:46 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/u-k-to-boost-defense-collaboration-with-india-11650638778">U.K. to Boost Defense Collaboration With India</a> WSJ: Prime Minister Boris Johnson said Britain would make it easier to export defense equipment to the South Asian nation. 
+ <p class="updated_time"> 05:44 AM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/france-macron-le-pen-election-politics-11650487493">Macron vs. Le Pen: Growing Voter Discontent Shakes France's Political Foundations</a> WSJ: Voter malaise, fueled by widening economic disparity, has pushed up support for candidates on the far right and far left in election after election. “Our society is broken.” 
  <p class="updated_time"> 03:41 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/germany-ukraine-weapons.html">Calls to Give Heavy Weapons to Ukraine Divide Germany’s Government</a> NYT: Weeks after Chancellor Olaf Scholz announced a paradigm shift in military strategy, his government is struggling to balance domestic politics, how to help Ukraine and anxiety over provoking Russia. 
  <p class="updated_time"> 03:00 AM CT, Apr. 22 </p> 
@@ -163,8 +163,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/us/politics/russia-ukraine-military-biden.html">Next Phase of War Will Be Pivotal for Russia and Ukraine, U.S. Says</a> NYT: Reflecting a renewed sense of urgency, President Biden announced that the United States would send the Ukrainians $800 million more in military aid. 
  <p class="updated_time"> 06:25 PM CT, Apr. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61184479?at_medium=RSS&at_campaign=KARANGA">The German towns in Paraguay with a surge in European immigrants</a> BBC: Thousands of German nationals have migrated to Paraguay to escape Covid restrictions and immigration in Europe. 
- <p class="updated_time"> 06:20 PM CT, Apr. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61168776?at_medium=RSS&at_campaign=KARANGA">France election: What far-right leader Marine Le Pen said before… and now</a> BBC: Has Marine Le Pen's strong views on immigration, the EU and Nato shifted since the last election? 
  <p class="updated_time"> 06:19 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/russia-moskva-warship-disinformation.html">With Moskva Warship Sunken, Russia Disinformation Faces a Test</a> NYT: Families of missing crew members say the Russian authorities are giving them the runaround after a flagship sank last week in the Black Sea. 
  <p class="updated_time"> 05:14 PM CT, Apr. 21 </p> 
