@@ -11,25 +11,25 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 10:39 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/ukraine-russia-war-news">Live Updates: Russians Seize Dozens of Small Towns in Ukraine’s East as Fighting Intensifies</a> NYT: Ukrainian military officials vowed to reverse Russia’s territorial gains in what is becoming a grinding back-and-forth struggle along a front stretching more than 300 miles. 
- <p class="updated_time"> 09:49 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 10:01 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
  <p class="updated_time"> 09:18 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia aiming for full control of south, commander says</a> BBC: A senior Russian commander is quoted as saying Moscow plans to take full control of the south and east. 
+ <p class="updated_time"> 09:01 PM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 08:57 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/russia-ukraine-fighting-east.html">Russians Seize 42 Towns in Eastern Ukraine as Fighting Intensifies</a> NYT: Ukrainian military officials vowed to reverse Russia’s territorial gains in what was turning into a grinding back-and-forth struggle along a front stretching more than 300 miles. 
- <p class="updated_time"> 08:49 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
- <p class="updated_time"> 07:49 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 08:01 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840">Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</a> WSJ: Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor 
  <p class="updated_time"> 07:26 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
  <p class="updated_time"> 07:22 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html">As Europe Approves New Tech Laws, the U.S. Falls Further Behind</a> NYT: Federal privacy bills, security legislation and antitrust laws to address the power of the tech giants have all failed to advance in Congress, despite hand wringing and shows of bipartisan support. 
+ <p class="updated_time"> 07:01 PM CT, Apr. 22 </p> 
+ <a href="https://www.wsj.com/articles/france-macron-le-pen-election-politics-11650487493">Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations</a> WSJ: Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations 
  <p class="updated_time"> 06:52 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/skepticism-greets-a-bold-russian-claim-about-war-aims-based-on-its-source.html">Russian General Says Kremlin Aims to Seize Southern Ukraine</a> NYT: A major shift in policy came from an obscure general and not the president or top commander. 
- <p class="updated_time"> 06:49 PM CT, Apr. 22 </p> 
- <a href="https://www.wsj.com/articles/france-macron-le-pen-election-politics-11650487493">Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations</a> WSJ: Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations 
- <p class="updated_time"> 05:49 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 06:01 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/shanghai-nursing-home-covid-deaths-11650641053">New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed</a> WSJ: New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed 
  <p class="updated_time"> 05:43 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/middleeast/israel-palestinians-aqsa-temple-mount.html">A Site Holy to Jews and Muslims Returns as the Nexus of Conflict</a> NYT: The skirmishes between Palestinians and Israeli police at the Aqsa Mosque, known to Jews as Temple Mount, are laden with national and religious symbolism. 
@@ -200,6 +200,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:47 PM CT, Apr. 22 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/us/politics/biden-legal-strategy-mask-mandate.html">Why Hasn’t the U.S. Asked for a Stay in the Mask Mandate Case?</a> NYT: The administration’s actions suggest either a botched case or a shrewd play for time as it gives up on the mask order but hopes to erase an adverse ruling, legal experts said. 
+ <p class="updated_time"> 10:36 PM CT, Apr. 22 </p> 
+ <a href="https://www.politico.com/news/2022/04/22/gop-lawmakers-deeply-involved-in-trump-plans-to-overturn-election-new-evidence-suggests-00027340">GOP lawmakers were deeply involved in Trump plans to overturn election, new evidence suggests</a> Politico: Deposition excerpts filed by the Jan 6. select committee underscore the expansive cast of elected Republicans who had enlisted themselves in Trump’s effort to cling to power. 
  <p class="updated_time"> 08:52 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/mccarthy-trump-republicans.html">McCarthy’s Lie Puts G.O.P. Hypocrisy on Trump on Display</a> NYT: The Republican leader’s false claim that he never urged President Donald J. Trump to resign — disproved by an audio recording of the comments — drew little outrage from members of his party. 
  <p class="updated_time"> 08:38 PM CT, Apr. 22 </p> 
@@ -248,8 +252,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094316591/disney-world-desantis-florida-counties-taxes">DeSantis wanted to punish Disney. Repealing its tax status may hurt taxpayers instead</a> NPR: Orange and Osceola counties could take on a massive debt held by Disney now that Gov. Ron DeSantis has signed a bill revoking Disney World's special regulatory status. 
  <p class="updated_time"> 12:59 PM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/florida-quickly-sued-over-new-map-that-gives-big-wins-to-republicans-00027203">DeSantis signs new congressional map into law as groups sue over redistricting</a> Politico: The suit was filed less than 24 hours after the GOP-controlled Legislature passed the bill as Black Democrats were loudly protesting on the House floor. 
- <p class="updated_time"> 12:39 PM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/us/politics/biden-legal-strategy-mask-mandate.html">Why Hasn’t the U.S. Asked for a Stay in the Mask Mandate Case?</a> NYT: The administration’s actions suggest either a botched case or a shrewd play for time as it gives up on the mask order but hopes to erase an adverse ruling, legal experts said. 
  <p class="updated_time"> 12:29 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1093550060/this-weekends-michigan-gop-convention-marks-a-key-moment-for-election-denialism">This weekend's Michigan GOP convention marks a key moment for election denialism</a> NPR: Republicans in Michigan will decide whether to nominate candidates for secretary of state and state attorney general who believe the 2020 election was stolen. 
  <p class="updated_time"> 12:21 PM CT, Apr. 22 </p> 
