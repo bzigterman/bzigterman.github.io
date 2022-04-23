@@ -9,27 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:07 AM CT, Apr. 23 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/world/europe/france-muslims-presidential-vote.html">Who Will France’s Muslims Choose for President?</a> NYT: French Muslims face a decision between Emmanuel Macron, whose presidency some of them view as harmful, and Marine Le Pen, whose far-right party has a history of anti-Muslim positions. 
  <p class="updated_time"> 04:00 AM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094239527/orthodox-easter-will-be-very-different-this-year-for-thousands-of-ukrainian-refu">Orthodox Easter will be very different this year for thousands of Ukrainian refugees</a> NPR: This weekend would normally be a celebratory one for Ukrainians. But Easter Sunday marks two months since the latest Russian invasion. More than 40,000 refugees have found themselves in Bulgaria. 
+ <p class="updated_time"> 03:29 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
  <p class="updated_time"> 03:18 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: A Drawn-Out Struggle Looms in Ukraine’s East</a> NYT: Russia has captured dozens of small towns in its initial drive to seize the Donbas region, but officials in Ukraine said its military could soon take them back. 
- <p class="updated_time"> 03:03 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
  <p class="updated_time"> 02:48 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
+ <p class="updated_time"> 02:29 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 02:07 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
- <p class="updated_time"> 02:03 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 02:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/moldova-ukraine-russia.html">Rattled by Ukraine War, Moldova Strives to Dodge Russia’s Long Shadow</a> NYT: Moldova’s destiny has been intertwined uncomfortably with Russia’s for years, and the Ukraine invasion has accelerated its efforts to break free from Moscow. 
  <p class="updated_time"> 02:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/health/covid-vaccines-word-africa.html">The Drive to Vaccinate the World Against Covid Is Losing Steam</a> NYT: Rates are stalling in most low-income countries well short of the W.H.O.’s goal to immunize 70 percent of people in every nation. Some public health experts believe the momentum is gone forever. 
- <p class="updated_time"> 01:03 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 01:29 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840">Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</a> WSJ: Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor 
- <p class="updated_time"> 12:03 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 12:29 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/france-macron-le-pen-election-politics-11650487493">Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations</a> WSJ: Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations 
- <p class="updated_time"> 11:03 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 11:29 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/shanghai-nursing-home-covid-deaths-11650641053">New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed</a> WSJ: New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed 
  <p class="updated_time"> 09:18 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia aiming for full control of south, commander says</a> BBC: A senior Russian commander is quoted as saying Moscow plans to take full control of the south and east. 
@@ -81,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094390221/many-ukrainians-arent-optimistic-about-peace-with-russia">Many Ukrainians aren't optimistic about peace with Russia</a> NPR: As a Russian general reveals Kremlin plans to take Ukraine's Donbas region to the east as well as all of the country's south, we look at the situation out a village near the frontlines of the war. 
  <p class="updated_time"> 03:21 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/africa/mwai-kibaki-kenya-dead.html">Mwai Kibaki, Former President of Kenya, Dies at 90</a> NYT: He came to power promising to root out corruption and improve government transparency. But his tenure was blighted by widespread graft and a violent upheaval. 
- <p class="updated_time"> 03:20 PM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/world/europe/france-muslims-presidential-vote.html">Who Will France’s Muslims Choose for President?</a> NYT: In Sunday’s decisive runoff election, they have a distasteful choice between Macron and Le Pen. They won’t necessarily back Macron. 
  <p class="updated_time"> 03:00 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/business-61185304?at_medium=RSS&at_campaign=KARANGA">Carlos Ghosn: Ex-Nissan boss says he wants a trial</a> BBC: The former car boss says he wants to clear his name after France issued an international warrant for his arrest. 
  <p class="updated_time"> 02:35 PM CT, Apr. 22 </p> 
@@ -202,6 +202,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Apr. 23 </p> 
+ <a href="https://www.npr.org/2022/04/23/1094396209/republicans-face-a-new-reckoning-over-what-gop-house-leader-mccarthy-said-about-">Republicans face a new reckoning over what GOP House leader McCarthy said about Trump</a> NPR: McCarthy faces a tricky conversation with his conference over what he said, which could come when the House returns from recess next week, but the ultimate judge is likely former President Trump. 
  <p class="updated_time"> 12:17 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/us/politics/mark-meadows-jan-6-trump.html">Meadows Was Warned Jan. 6 Could Turn Violent, House Panel Says</a> NYT: The committee investigating the attack also said in a filing that the former White House chief of staff proceeded with a plan for “alternate electors” despite being told it wasn’t legally sound. 
  <p class="updated_time"> 10:47 PM CT, Apr. 22 </p> 
@@ -218,8 +220,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html">As Europe Approves New Tech Laws, the U.S. Falls Further Behind</a> NYT: Federal privacy bills, security legislation and antitrust laws to address the power of the tech giants have all failed to advance in Congress, despite hand wringing and shows of bipartisan support. 
  <p class="updated_time"> 07:12 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/desantis-disney-florida.html">Ron DeSantis Punishes Disney in a G.O.P. Brawl With Business</a> NYT: Gov. Ron DeSantis’s move to revoke the company’s special tax status in Florida showed how combative his party has grown toward corporations that are increasingly taking a stand on political issues. 
- <p class="updated_time"> 06:35 PM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/21/us/politics/trump-mitch-mcconnell-kevin-mccarthy.html">‘I’ve Had It With This Guy’: G.O.P. Leaders Privately Blasted Trump After Jan. 6</a> NYT: In the days after the attack, Representative Kevin McCarthy planned to tell Mr. Trump to resign. Senator Mitch McConnell told allies impeachment was warranted. But their fury faded fast. 
  <p class="updated_time"> 06:14 PM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/faa-admits-fault-in-capitol-aircraft-incident-00027311">FAA admits fault in Capitol aircraft incident</a> Politico: Capitol Police had to issue an evacuation alert to those in the area during a flyover for what ultimately ended up being a false alarm. 
  <p class="updated_time"> 06:04 PM CT, Apr. 22 </p> 
@@ -284,8 +284,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094240463/marjorie-taylor-greene-to-testify-as-group-seeks-to-disqualify-her-from-running-">Marjorie Taylor Greene to testify as group seeks to disqualify her from running again</a> NPR: A challenge to Rep. Marjorie Taylor Greene's candidacy, citing her words and actions around the U.S. Capitol attack, goes before a state administrative judge Friday. Greene is expected to testify. 
  <p class="updated_time"> 04:12 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1092591767/despite-u-s-sanctions-oil-traders-help-russian-oil-reach-global-markets">Despite U.S. sanctions, oil traders help Russian oil reach global markets</a> NPR: Russia is still making billions of dollars on oil exports since invading Ukraine. That crude is still flowing abroad thanks in part to a controversial group of oil traders. 
- <p class="updated_time"> 04:12 AM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1094240400/morning-news-brief">News brief: Russian attacks, Marjorie Taylor Green hearing, Florida Vs. Disney </a> NPR: The Russia-Ukraine war. Florida's legislature voted to strip Disney World of its self-governing status. A hearing will decide if GOP Rep. Marjorie Taylor Greene should be disqualified from office. 
  <p class="updated_time"> 04:00 AM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/ruben-gallego-deep-dive-00027134">‘You only win if you fight’: Will Gallego unseat Sinema?</a> Politico: On this week’s episode of Playbook Deep Dive, co-author Ryan Lizza chats with Arizona Congressman Ruben Gallego, a Marine veteran and rumored primary challenger to Senator Kyrsten Sinema in 2024. Gallego has an unsparing take on challenging Sinema, Jan. 6 and why Democrats need to lead more. 
  <p class="updated_time"> 03:31 AM CT, Apr. 22 </p> 
