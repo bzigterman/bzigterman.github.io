@@ -9,13 +9,17 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:25 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 09:45 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: As Weapons From West Flow In, Zelensky Says Ukraine Better Able to Mount Defense</a> NYT: Even as heavy artillery, drones, tanks and ammunition pour in, the Ukrainians say Russian forces are probing for weak spots along a 300-mile eastern front. So far, military analysts say, Russia has not made any significant territorial gains since it announced its renewed offensive in the region. 
+ <p class="updated_time"> 09:43 AM CT, Apr. 23 </p> 
+ <a href="https://www.nytimes.com/2022/04/23/health/covid-vaccines-world-africa.html">The Drive to Vaccinate the World Against Covid Is Losing Steam</a> NYT: Rates are stalling in most low-income countries well short of the W.H.O.’s goal to immunize 70 percent of people in every nation. Some public health experts believe the momentum is gone forever. 
+ <p class="updated_time"> 09:42 AM CT, Apr. 23 </p> 
+ <a href="https://www.nytimes.com/2022/04/23/world/europe/france-presidential-election-le-pen-macron.html">Inside Le Pen Territory as France Votes in a Runoff Election</a> NYT: Whatever happens in the runoff election on Sunday, France has changed, and the winner may face a turbulent season. 
  <p class="updated_time"> 09:25 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/moldova-ukraine-russia.html">Rattled by Ukraine War, Moldova Strives to Dodge Russia’s Long Shadow</a> NYT: Moldova’s destiny has been intertwined uncomfortably with Russia’s for years, and the Ukraine invasion has accelerated its efforts to break free from Moscow. 
  <p class="updated_time"> 08:55 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/schroder-germany-russia-gas-ukraine-war-energy.html">How the Ex-Chancellor Gerhard Schröder Became Putin’s Man in Germany</a> NYT: Gerhard Schröder, who is paid almost $1 million a year by Russian-controlled energy companies, has become a pariah. But he is also a symbol of Germany’s Russia policy. 
- <p class="updated_time"> 08:37 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 08:49 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 08:23 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61202599?at_medium=RSS&at_campaign=KARANGA">Japan: Tourist boat reported missing off coast</a> BBC: Coast guards are searching for the 26 people on board after the vessel sent out a distress signal. 
@@ -23,6 +27,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/23/world/africa/bain-south-africa-jacob-zuma.html">A Boston Consulting Firm Became a Power Broker, and Then a Pariah, in South Africa</a> NYT: A new judicial inquiry found that corruption at South Africa’s tax agency was because of “collusion” between Bain & Company and South Africa’s former president. 
  <p class="updated_time"> 07:53 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/ukraine-poland-refugees.html">Warsaw’s Welcome Mat Risks Fraying Under Strain of a New Refugee Surge</a> NYT: Warsaw gladly and proudly accepted 300,000 Ukrainians fleeing the war. But as the Polish capital braces for a new wave of refugees, its mayor warns that the city is “at capacity.” 
+ <p class="updated_time"> 07:49 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Zelensky Warns That Russian Ambitions Don’t End With Ukraine</a> WSJ: Zelensky Warns That Russian Ambitions Don’t End With Ukraine 
  <p class="updated_time"> 07:46 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/asia/japan-tattoo.html">Discreetly, the Young in Japan Chip Away at a Taboo on Tattoos</a> NYT: Exposed to body art on social media, more young Japanese are getting tattoos, even if that means hiding them at work. 
  <p class="updated_time"> 07:46 AM CT, Apr. 23 </p> 
@@ -33,19 +39,17 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/23/1094471684/mexico-debanhi-escobar-dead-disappearance">13 days after Debanhi Escobar disappeared near Monterrey, her body has been found</a> NPR: The case made headlines because of a haunting photo taken by a driver who was supposed to take her home on April 8.  Killings of women have increased in Mexico, rising to 1,015 cases last year. 
  <p class="updated_time"> 07:39 AM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094470383/ukrainian-city-prepares-for-a-seige">Residents of a Ukrainian city prepare for a seige</a> NPR: As Russia renews its offensive on southern and eastern Ukraine, the city of Mykolaiv, near the Black Sea, are preparing for a siege. 
- <p class="updated_time"> 07:37 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Zelensky Warns That Russian Ambitions Don’t End With Ukraine</a> WSJ: Zelensky Warns That Russian Ambitions Don’t End With Ukraine 
  <p class="updated_time"> 07:34 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61201548?at_medium=RSS&at_campaign=KARANGA">Mariupol steelworks: Video appears to show children in Azovstal bunker</a> BBC: Ukrainian fighters post a video showing women and children purportedly hiding under a steel plant. 
- <p class="updated_time"> 06:37 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 06:49 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/russia-blocks-economic-data-hiding-effect-of-western-sanctions-11650677765">Russia Blocks Economic Data, Hiding Effect of Sanctions</a> WSJ: Russia Blocks Economic Data, Hiding Effect of Sanctions 
  <p class="updated_time"> 06:31 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61201931?at_medium=RSS&at_campaign=KARANGA">Video appears to show children in Mariupol steel works bunker</a> BBC: A video released by Ukraine's Azov regiment appears to show children sheltering inside a steel plant. 
- <p class="updated_time"> 05:37 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 05:49 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204">Shanghai Lockdown Bolsters a Fringe Independence Movement</a> WSJ: Shanghai Lockdown Bolsters a Fringe Independence Movement 
  <p class="updated_time"> 05:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/canada/nhl-crosby-penguins-leafs.html">Canada’s Stanley Cup Hopes Rest on Leafs, Flames, Oilers</a> NYT: The N.H.L. playoffs are a beloved routine of Canadian springtime that can make fans as crazy as the season’s mercurial weather. 
- <p class="updated_time"> 04:37 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 04:49 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/what-shanghai-is-going-through-is-news-to-many-in-the-rest-of-china-11650687277">What Shanghai Is Going Through Is News to Many in the Rest of China</a> WSJ: What Shanghai Is Going Through Is News to Many in the Rest of China 
  <p class="updated_time"> 04:31 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/france-muslims-presidential-vote.html">Who Will France’s Muslims Choose for President?</a> NYT: French Muslims face a decision between Emmanuel Macron, whose presidency some of them view as harmful, and Marine Le Pen, whose far-right party has a history of anti-Muslim positions. 
@@ -55,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: A nondescript four-story office building on the town’s southernmost stretch was one of the first sites where Ukrainians were questioned, tortured, killed or detained, according to Bucha residents and local officials. 
  <p class="updated_time"> 02:48 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
- <p class="updated_time"> 02:00 AM CT, Apr. 23 </p> 
- <a href="https://www.nytimes.com/2022/04/23/health/covid-vaccines-word-africa.html">The Drive to Vaccinate the World Against Covid Is Losing Steam</a> NYT: Rates are stalling in most low-income countries well short of the W.H.O.’s goal to immunize 70 percent of people in every nation. Some public health experts believe the momentum is gone forever. 
  <p class="updated_time"> 09:18 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia aiming for full control of south, commander says</a> BBC: A senior Russian commander is quoted as saying Moscow plans to take full control of the south and east. 
  <p class="updated_time"> 08:57 PM CT, Apr. 22 </p> 
@@ -179,8 +181,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/us/politics/us-vaccine-international-land-borders.html">U.S. Is Extending a Vaccine Rule for International Travelers at Land Borders</a> NYT: Unlike air travelers entering the United States, land and ferry travelers will still not have to show a recent negative coronavirus test to cross the border. 
  <p class="updated_time"> 01:04 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/afghanistan-mosque-bombing.html">Explosion at Afghan Mosque Kills at Least 10</a> NYT: The blast in Mazar-i-Sharif, one of Afghanistan’s economic hubs, was the latest in a series of attacks on one of its religious minorities and was claimed by an ISIS affiliate. 
- <p class="updated_time"> 09:49 AM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html">Barack Obama Takes On a New Role: Fighting Disinformation</a> NYT: The former president has embarked on a campaign to warn that the scourge of online falsehoods has eroded the foundations of democracy. 
  <p class="updated_time"> 07:38 AM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/20/world/europe/mariupol-azovstal-steel-mill.html">See Mariupol’s Azovstal Steel-Mill Fortress Before the War, and Now</a> NYT: Before-and-after images show the scale of destruction that the Ukrainian port city has suffered after nearly two months of near constant bombardment by Russian artillery, mortars and airstrikes. 
  <p class="updated_time"> 05:21 AM CT, Apr. 21 </p> 
@@ -300,8 +300,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/us/politics/cia-prison-gitmo.html">Former C.I.A.-Run Prison Emerges as a New Front in Guantánamo’s Legal Saga</a> NYT: Defense lawyers have been visiting Camp 7, which was emptied a year ago. Its remnants are still classified, but they say what they saw was disturbing. 
  <p class="updated_time"> 10:11 PM CT, Apr. 21 </p> 
  <a href="https://www.politico.com/news/2022/04/21/fetterman-first-televised-debate-00027118">Fetterman comes under fire in first televised debate</a> Politico: The lieutenant governor is the front-runner in the Pennsylvania Democratic Senate primary. 
- <p class="updated_time"> 08:47 PM CT, Apr. 21 </p> 
- <a href="https://www.politico.com/news/2022/04/21/philadelphia-indoor-mask-mandate-covid-00027105">Philadelphia to end mask mandate, days after reinstating it</a> Politico: The city's restored mandate had gone into effect Monday. 
  <p class="updated_time"> 08:18 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/technology/obama-stanford-tech-regulation.html">Obama Calls for More Oversight of Social Media in Speech at Stanford</a> NYT: Tech companies’ power has “turbocharged” political division and requires government scrutiny, former President Barack Obama said at Stanford. 
  <p class="updated_time"> 07:29 PM CT, Apr. 21 </p> 
@@ -334,6 +332,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/21/senate-democrats-midterm-election-biden-00026781">Biden’s dismal poll numbers imperil Dem Senate control</a> Politico: The president’s popularity is dangerously low in the four states where Democratic incumbents are most endangered. 
  <p class="updated_time"> 06:14 PM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/capitol-police-backtracks-on-airplane-threat-after-ordering-evacuation-00026765">Capitol Police backtracks on airplane threat after ordering evacuation</a> Politico: An Army plane was circling the area around the Capitol, part of a parachute stunt at Wednesday night’s Nationals baseball game. 
+ <p class="updated_time"> 02:37 PM CT, Apr. 20 </p> 
+ <a href="https://www.politico.com/news/2022/04/20/harris-national-security-adviser-biden-00026673">Harris snags top national security aide from Biden's team</a> Politico: The vice president is shuffling her core foreign policy staffers as she seeks to reorient her international portfolio. 
  <p class="updated_time"> 01:14 PM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/jan-6-committee-trump-pence-call-00026597">Jan. 6 panel piecing together details of final Trump-Pence call</a> Politico: Several Donald Trump allies listened in from the Oval Office, but Mike Pence's side of the call remains elusive. 
 
