@@ -9,34 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:32 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 07:39 AM CT, Apr. 23 </p> 
+ <a href="https://www.npr.org/2022/04/23/1094470383/ukrainian-city-prepares-for-a-seige">Ukrainian city prepares for a seige</a> NPR: As Russia renews its offensive on southern and eastern Ukraine, the city of Mykolaiv, near the Black Sea, are preparing for a siege. 
+ <p class="updated_time"> 07:34 AM CT, Apr. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61201548?at_medium=RSS&at_campaign=KARANGA">Mariupol steelworks: Video appears to show children in Azovstal bunker</a> BBC: Ukrainian fighters post a video showing women and children purportedly hiding under a steel plant. 
+ <p class="updated_time"> 07:28 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: As Weapons From West Flow In, Zelensky Says Ukraine Better Able to Mount Defense</a> NYT: Even as heavy artillery, drones, tanks and ammunition pour in, the Ukrainians say Russian forces are probing for weak spots along a 300-mile eastern front. So far, military analysts say, Russia has not made any significant territorial gains since it announced its renewed offensive in the region. 
+ <p class="updated_time"> 06:40 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
  <p class="updated_time"> 06:31 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61201931?at_medium=RSS&at_campaign=KARANGA">Video appears to show children in Mariupol steel works bunker</a> BBC: A video released by Ukraine's Azov regiment appears to show children sheltering inside a steel plant. 
  <p class="updated_time"> 06:27 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/04/22/world/jerusalem-al-aqsa-mosque">Brief Bouts of Unrest Erupt After Jerusalem Friday Prayers</a> NYT: The Aqsa Mosque compound, known to Jews as Temple Mount, was once again the scene of clashes as tens of thousands of Muslims gathered to worship. But the violence ended quickly. 
- <p class="updated_time"> 05:35 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
+ <p class="updated_time"> 05:40 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Zelensky Warns That Russian Ambitions Don’t End With Ukraine</a> WSJ: Zelensky Warns That Russian Ambitions Don’t End With Ukraine 
  <p class="updated_time"> 05:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/canada/nhl-crosby-penguins-leafs.html">Canada’s Stanley Cup Hopes Rest on Leafs, Flames, Oilers</a> NYT: The N.H.L. playoffs are a beloved routine of Canadian springtime that can make fans as crazy as the season’s mercurial weather. 
- <p class="updated_time"> 04:35 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Zelensky Warns That Russian Ambitions Don’t End With Ukraine</a> WSJ: Zelensky Warns That Russian Ambitions Don’t End With Ukraine 
+ <p class="updated_time"> 04:40 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/russia-blocks-economic-data-hiding-effect-of-western-sanctions-11650677765">Russia Blocks Economic Data, Hiding Effect of Sanctions</a> WSJ: Russia Blocks Economic Data, Hiding Effect of Sanctions 
  <p class="updated_time"> 04:31 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/france-muslims-presidential-vote.html">Who Will France’s Muslims Choose for President?</a> NYT: French Muslims face a decision between Emmanuel Macron, whose presidency some of them view as harmful, and Marine Le Pen, whose far-right party has a history of anti-Muslim positions. 
  <p class="updated_time"> 04:00 AM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094239527/orthodox-easter-will-be-very-different-this-year-for-thousands-of-ukrainian-refu">Orthodox Easter will be very different this year for thousands of Ukrainian refugees</a> NPR: This weekend would normally be a celebratory one for Ukrainians. But Easter Sunday marks two months since the latest Russian invasion. More than 40,000 refugees have found themselves in Bulgaria. 
- <p class="updated_time"> 03:35 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/russia-blocks-economic-data-hiding-effect-of-western-sanctions-11650677765">Russia Blocks Economic Data, Hiding Effect of Sanctions</a> WSJ: Russia Blocks Economic Data, Hiding Effect of Sanctions 
+ <p class="updated_time"> 03:40 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204">Shanghai Lockdown Bolsters a Fringe Independence Movement</a> WSJ: Shanghai Lockdown Bolsters a Fringe Independence Movement 
  <p class="updated_time"> 02:48 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
- <p class="updated_time"> 02:35 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204">Shanghai Lockdown Bolsters a Fringe Independence Movement</a> WSJ: Shanghai Lockdown Bolsters a Fringe Independence Movement 
+ <p class="updated_time"> 02:40 AM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/what-shanghai-is-going-through-is-news-to-many-in-the-rest-of-china-11650687277">What Shanghai Is Going Through Is News to Many in the Rest of China</a> WSJ: What Shanghai Is Going Through Is News to Many in the Rest of China 
  <p class="updated_time"> 02:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/moldova-ukraine-russia.html">Rattled by Ukraine War, Moldova Strives to Dodge Russia’s Long Shadow</a> NYT: Moldova’s destiny has been intertwined uncomfortably with Russia’s for years, and the Ukraine invasion has accelerated its efforts to break free from Moscow. 
  <p class="updated_time"> 02:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/health/covid-vaccines-word-africa.html">The Drive to Vaccinate the World Against Covid Is Losing Steam</a> NYT: Rates are stalling in most low-income countries well short of the W.H.O.’s goal to immunize 70 percent of people in every nation. Some public health experts believe the momentum is gone forever. 
- <p class="updated_time"> 01:35 AM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/what-shanghai-is-going-through-is-news-to-many-in-the-rest-of-china-11650687277">What Shanghai Is Going Through Is News to Many in the Rest of China</a> WSJ: What Shanghai Is Going Through Is News to Many in the Rest of China 
  <p class="updated_time"> 09:18 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia aiming for full control of south, commander says</a> BBC: A senior Russian commander is quoted as saying Moscow plans to take full control of the south and east. 
  <p class="updated_time"> 08:57 PM CT, Apr. 22 </p> 
@@ -103,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61192417?at_medium=RSS&at_campaign=KARANGA">Mike Tyson punched plane passenger 'after bottle thrown'</a> BBC: Video shows the former heavyweight boxer repeatedly punching a man in the head. 
  <p class="updated_time"> 11:59 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61191643?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Kunduz mosque attacked during Friday prayers</a> BBC: The deadly explosion comes amid a revival of violence claimed by Islamic State militants. 
- <p class="updated_time"> 11:23 AM CT, Apr. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61192594?at_medium=RSS&at_campaign=KARANGA">#JusticeForSheila: Kenyan anger after lesbian's murder</a> BBC: People in Kenyan are expressing their upset about LGBTQ discrimination after 
  <p class="updated_time"> 11:08 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/ukraine-airplane-russia-war-mriya.html">One Ukrainian War Casualty: The World’s Largest Airplane</a> NYT: Mriya, the world’s largest aircraft, was destroyed in a pivotal battle at the start of the war. It was a beloved symbol for all of Ukraine but perhaps no one misses it more than its first pilot. 
  <p class="updated_time"> 11:00 AM CT, Apr. 22 </p> 
@@ -127,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/world/asia/india-kangaroos-smuggling-west-bengal.html">Kangaroos in India? Experts See Evidence of a Smuggling Trade</a> NYT: The animals are the latest exotic fauna to be smuggled into the country, possibly to be used as pets. Draft legislation would close loopholes in the roaring wildlife trade. 
  <p class="updated_time"> 06:12 AM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61189745?at_medium=RSS&at_campaign=KARANGA">Imran Khan: Inside the huge rally in Lahore for Pakistan's ousted PM</a> BBC: The former prime minister's narrative of a US-led conspiracy to oust him is resonating with his supporters. 
- <p class="updated_time"> 06:11 AM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1094106596/these-airlines-are-letting-passengers-banned-for-mask-violations-back-on-planes">These airlines are letting passengers banned for mask violations back on planes</a> NPR: The cases will be determined on a case-by-case basis, depending on the company. Here's a look at where each of the major U.S. airlines stands. 
  <p class="updated_time"> 05:46 AM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/u-k-to-boost-defense-collaboration-with-india-11650638778">U.K. to Boost Defense Collaboration With India</a> WSJ: Prime Minister Boris Johnson said Britain would make it easier to export defense equipment to the South Asian nation. 
  <p class="updated_time"> 05:44 AM CT, Apr. 22 </p> 
@@ -206,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:36 AM CT, Apr. 23 </p> 
+ <a href="https://www.npr.org/2022/04/23/1094470376/week-in-politics">Week in Politics</a> NPR: Even Democrats from non-border states are beginning to question President Biden's plans to lift pandemic-era immigration restrictions. And year-old audio from a Republican leader makes waves. 
  <p class="updated_time"> 06:01 AM CT, Apr. 23 </p> 
  <a href="https://www.politico.com/news/2022/04/23/california-democrats-eyeing-feinsteins-seat-00026722">California Dems are eyeing Feinstein's seat — but they're not talking about it</a> Politico: Most everyone is operating under the assumption that Feinstein will not run for reelection in 2024. 
  <p class="updated_time"> 04:00 AM CT, Apr. 23 </p> 
@@ -288,12 +290,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094240491/there-are-many-distractions-heading-into-midterms-how-can-democrats-refocus">There are many distractions heading into midterms. How can Democrats refocus?</a> NPR: The Biden administration is caught up in pandemic policy and politics. NPR's Steve Inskeep talks to Joel Payne, a Democratic strategist with the progressive advocacy firm The Hub Project. 
  <p class="updated_time"> 04:12 AM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094240463/marjorie-taylor-greene-to-testify-as-group-seeks-to-disqualify-her-from-running-">Marjorie Taylor Greene to testify as group seeks to disqualify her from running again</a> NPR: A challenge to Rep. Marjorie Taylor Greene's candidacy, citing her words and actions around the U.S. Capitol attack, goes before a state administrative judge Friday. Greene is expected to testify. 
- <p class="updated_time"> 04:12 AM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1092591767/despite-u-s-sanctions-oil-traders-help-russian-oil-reach-global-markets">Despite U.S. sanctions, oil traders help Russian oil reach global markets</a> NPR: Russia is still making billions of dollars on oil exports since invading Ukraine. That crude is still flowing abroad thanks in part to a controversial group of oil traders. 
  <p class="updated_time"> 03:31 AM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/gallery/2022/04/22/the-nations-cartoonists-on-the-week-in-politics-00026851">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 03:30 AM CT, Apr. 22 </p> 
+ <a href="https://www.politico.com/news/2022/04/22/boozman-bequette-republican-donor-arkansas-00027089">A New England Patriot and a conservative billionaire are trying to take down a GOP senator</a> Politico: The challenge against Sen. John Boozman has one of the biggest Republican donors on one side and Donald Trump on the other. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/biden-ukraine-aid-congress-00027028">Biden wants more Ukraine aid. Congress won’t make it easy.</a> Politico: Chuck Schumer wants to combine the president's plea for more Ukraine cash with Covid aid that Republicans stonewalled earlier this month. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 22 </p> 
+ <a href="https://www.politico.com/news/2022/04/22/biden-title-42-fallout-00027109">Biden White House stands behind Title 42 decision amid party revolt</a> Politico: Senate Democrats are airing concerns. Former officials say the sales job has been lacking. But the White House isn’t backing down … yet. 
  <p class="updated_time"> 11:50 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/books/review/deborah-birx-silent-invasion-trump-covid.html">Review: ‘Silent Invasion’ Is Deborah Birx’s Story of Trump’s Covid Response</a> NYT: “Silent Invasion,” an insider’s look at the Trump administration’s pandemic policies, is earnest and exhaustive, our reviewer says. 
  <p class="updated_time"> 10:30 PM CT, Apr. 21 </p> 
@@ -336,8 +340,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/21/senate-democrats-midterm-election-biden-00026781">Biden’s dismal poll numbers imperil Dem Senate control</a> Politico: The president’s popularity is dangerously low in the four states where Democratic incumbents are most endangered. 
  <p class="updated_time"> 06:14 PM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/capitol-police-backtracks-on-airplane-threat-after-ordering-evacuation-00026765">Capitol Police backtracks on airplane threat after ordering evacuation</a> Politico: An Army plane was circling the area around the Capitol, part of a parachute stunt at Wednesday night’s Nationals baseball game. 
- <p class="updated_time"> 02:37 PM CT, Apr. 20 </p> 
- <a href="https://www.politico.com/news/2022/04/20/harris-national-security-adviser-biden-00026673">Harris snags top national security aide from Biden's team</a> Politico: The vice president is shuffling her core foreign policy staffers as she seeks to reorient her international portfolio. 
  <p class="updated_time"> 01:14 PM CT, Apr. 20 </p> 
  <a href="https://www.politico.com/news/2022/04/20/jan-6-committee-trump-pence-call-00026597">Jan. 6 panel piecing together details of final Trump-Pence call</a> Politico: Several Donald Trump allies listened in from the Oval Office, but Mike Pence's side of the call remains elusive. 
  <p class="updated_time"> 07:53 AM CT, Apr. 20 </p> 
