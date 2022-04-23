@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:25 PM CT, Apr. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61204543?at_medium=RSS&at_campaign=KARANGA">French vote as Macron aims to beat far-right Le Pen</a> BBC: After a divisive campaign, Marine Le Pen faces an uphill battle to defeat sitting President Macron. 
  <p class="updated_time"> 06:07 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: Zelensky Says U.S. Officials to Visit Kyiv and Expresses Confidence on Fight in East</a> NYT: The American secretaries of state and defense will make a trip to the embattled Ukrainian capital, President Volodymyr Zelensky said. Russian missiles killed at least eight people in a residential area of Odesa. 
  <p class="updated_time"> 06:03 PM CT, Apr. 23 </p> 
@@ -17,11 +19,11 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61162562?at_medium=RSS&at_campaign=KARANGA">Colombia election: How TikTok is defining the presidential race</a> BBC: The social media platform has become a battleground as candidates reach out to young voters. 
  <p class="updated_time"> 06:00 PM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61188529?at_medium=RSS&at_campaign=KARANGA">Puducherry prison uses dance therapy to rehabilitate inmates</a> BBC: A prison in India's Puducherry is using dance therapy to help convicts deal with stress. 
- <p class="updated_time"> 05:33 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 05:46 PM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Blinken, Austin to Visit Ukraine, Zelensky Says</a> WSJ: Blinken, Austin to Visit Ukraine, Zelensky Says 
  <p class="updated_time"> 05:30 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/missile-strikes-odesa-ukraine.html">Missile Strikes Hit Odesa, Killing at Least Eight, Officials Say</a> NYT: The local authorities said at least 18 people were wounded in the strike, the first to hit Odesa since early April. 
- <p class="updated_time"> 04:33 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 04:46 PM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
  <p class="updated_time"> 03:59 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094507838/russia-ukraine-war-what-happened-today-april-23">Russia-Ukraine war: What happened today (April 23)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
@@ -31,18 +33,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/23/1094510424/the-growing-demand-for-clean-energy-sources-could-mean-a-resurgence-in-mining">The growing demand for clean energy sources could mean a resurgence in mining</a> NPR: Materials like lithium are used in batteries for things like electric vehicles. For Cornwall, England, that's already led to a small mining boom. 
  <p class="updated_time"> 03:52 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094510417/eu-trade-official-calls-the-economic-impact-of-defending-ukraine-a-price-worth-p">EU trade official calls the economic impact of defending Ukraine a price worth paying</a> NPR: NPR's Michel Martin speaks with European Commission Executive Vice President Valdis Dombrovskis about the economic impact of Russia's ongoing assault on Ukraine. 
- <p class="updated_time"> 03:33 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 03:46 PM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
  <p class="updated_time"> 03:29 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/climate/climate-change-rally-white-house.html">Climate Activists Rally at the White House to Demand Action</a> NYT: In Washington, D.C., as well as Phoenix, Atlanta and scores of other cities across the country, demonstrators called on the government to enact bold climate action. 
- <p class="updated_time"> 02:33 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 02:46 PM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
  <p class="updated_time"> 02:09 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094500394/japan-missing-tour-boat-26-people">A tour boat with 26 people aboard has gone missing in northern Japan</a> NPR: The vessel sent a distress call that it was sinking, the coast guard said. No survivors have been found after more than 10 hours of intense search involving patrol boats, aircraft and divers. 
+ <p class="updated_time"> 01:46 PM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
  <p class="updated_time"> 01:45 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/health/covid-vaccines-world-africa.html">The Drive to Vaccinate the World Against Covid Is Losing Steam</a> NYT: Rates are stalling in most low-income countries well short of the W.H.O.’s goal to immunize 70 percent of people in every nation. Some public health experts believe the momentum is gone forever. 
- <p class="updated_time"> 01:33 PM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
  <p class="updated_time"> 01:29 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/ukrainian-easter-traditions.html">Ukrainians Cling to Easter Traditions in the Shadow of a Devastating War</a> NYT: In Lviv, residents had laid bouquets of flowers at the feet of a statue of the Virgin Mary, next to piles of white sandbags protecting the statue from bombings. 
  <p class="updated_time"> 01:18 PM CT, Apr. 23 </p> 
@@ -107,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-61195471?at_medium=RSS&at_campaign=KARANGA">Earl and Countess of Wessex: Why Grenada wanted to talk to royals about slavery</a> BBC: As the Wessexes cancel their trip, there are demands for an apology from the royals for past abuses. 
  <p class="updated_time"> 05:43 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/middleeast/israel-palestinians-aqsa-temple-mount.html">A Site Holy to Jews and Muslims Returns as the Nexus of Conflict</a> NYT: The skirmishes between Palestinians and Israeli police at the Aqsa Mosque, known to Jews as Temple Mount, are laden with national and religious symbolism. 
- <p class="updated_time"> 05:35 PM CT, Apr. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61194641?at_medium=RSS&at_campaign=KARANGA">French election: Macron and Le Pen trade taunts as campaigning ends</a> BBC: Emmanuel Macron and Marine Le Pen make bitter attacks on each other ahead of Sunday's election. 
  <p class="updated_time"> 05:20 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/04/22/1094271807/photos-russia-invasion-ukraine-military-mala-rohan-kharkiv">Photos: Russian forces were driven out of this village outside Kharkiv, Ukraine</a> NPR: Last month, Ukrainian forces pushed the Russians out of the village of Mala Rohan. NPR goes inside the warehouse Russia had used as temporary barracks. 
  <p class="updated_time"> 04:45 PM CT, Apr. 22 </p> 
@@ -203,7 +203,7 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:27 PM CT, Apr. 23 </p> 
- <a href="https://www.npr.org/2022/04/23/1094474805/michigan-gop-karamo-secretary-of-state">Michigan GOP moves forward with 2020 election-denying secretary of state</a> NPR: At a party convention in Grand Rapids this weekend, Michigan Republicans voted overwhelmingly in favor of candidates endorsed by former President Trump. 
+ <a href="https://www.npr.org/2022/04/23/1094474805/michigan-gop-karamo-secretary-of-state">Michigan GOP moves forward with 2020 election-denying secretary of state</a> NPR: Out of the many election-denying candidates running in secretary of state races across the U.S, Kristina Karamo is the first to move toward appearing on a state ballot in November. 
  <p class="updated_time"> 05:52 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/us/politics/trump-meadows-freedom-caucus-jan-6.html">Filing Provides New Details on Trump White House Planning for Jan. 6</a> NYT: Testimony disclosed by the House committee investigating the attack showed that Mark Meadows and Freedom Caucus members discussed directing marchers to the Capitol as Congress certified the election results. 
  <p class="updated_time"> 03:08 PM CT, Apr. 23 </p> 
