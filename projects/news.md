@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:48 AM CT, Apr. 23 </p> 
+ <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
  <p class="updated_time"> 02:16 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: A Drawn-Out Struggle Looms in Ukraine’s East</a> NYT: Russia has captured dozens of small towns in its initial drive to seize the Donbas region, but officials in Ukraine said its military could soon take them back. 
  <p class="updated_time"> 02:07 AM CT, Apr. 23 </p> 
@@ -17,22 +19,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/23/world/europe/moldova-ukraine-russia.html">Rattled by Ukraine War, Moldova Strives to Dodge Russia’s Long Shadow</a> NYT: Moldova’s destiny has been intertwined uncomfortably with Russia’s for years, and the Ukraine invasion has accelerated its efforts to break free from Moscow. 
  <p class="updated_time"> 02:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/health/covid-vaccines-word-africa.html">The Drive to Vaccinate the World Against Covid Is Losing Steam</a> NYT: Rates are stalling in most low-income countries well short of the W.H.O.’s goal to immunize 70 percent of people in every nation. Some public health experts believe the momentum is gone forever. 
- <p class="updated_time"> 01:35 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 01:59 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/russia-advances-in-ukraines-donbas-region-is-accused-of-digging-mass-graves-11650624954">Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims</a> WSJ: Ukraine Accuses Russia of Digging Mass Graves for Civilian Victims 
- <p class="updated_time"> 12:35 AM CT, Apr. 23 </p> 
+ <p class="updated_time"> 12:59 AM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/in-obliterated-kharkiv-ukrainian-survivors-struggle-to-hold-out-11650629253">In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out</a> WSJ: In Obliterated Kharkiv, Ukrainian Survivors Struggle to Hold Out 
- <p class="updated_time"> 11:35 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 11:59 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/marine-le-pens-far-right-french-party-to-pay-nearly-13-million-to-russian-military-contractor-11650644840">Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor</a> WSJ: Marine Le Pen’s Far-Right French Party to Pay Nearly $13 Million to Russian Military Contractor 
- <p class="updated_time"> 10:35 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 10:59 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/france-macron-le-pen-election-politics-11650487493">Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations</a> WSJ: Macron vs. Le Pen: Growing Voter Discontent Shakes France’s Political Foundations 
- <p class="updated_time"> 09:35 PM CT, Apr. 22 </p> 
+ <p class="updated_time"> 09:59 PM CT, Apr. 22 </p> 
  <a href="https://www.wsj.com/articles/shanghai-nursing-home-covid-deaths-11650641053">New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed</a> WSJ: New Details of Shanghai Nursing Home Covid Deaths Suggest City Is Overwhelmed 
  <p class="updated_time"> 09:18 PM CT, Apr. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61188943?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia aiming for full control of south, commander says</a> BBC: A senior Russian commander is quoted as saying Moscow plans to take full control of the south and east. 
  <p class="updated_time"> 08:57 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/russia-ukraine-fighting-east.html">Russians Seize 42 Towns in Eastern Ukraine as Fighting Intensifies</a> NYT: Ukrainian military officials vowed to reverse Russia’s territorial gains in what was turning into a grinding back-and-forth struggle along a front stretching more than 300 miles. 
- <p class="updated_time"> 07:26 PM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
  <p class="updated_time"> 07:22 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html">As Europe Approves New Tech Laws, the U.S. Falls Further Behind</a> NYT: Federal privacy bills, security legislation and antitrust laws to address the power of the tech giants have all failed to advance in Congress, despite hand wringing and shows of bipartisan support. 
  <p class="updated_time"> 07:06 PM CT, Apr. 22 </p> 
