@@ -9,32 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:22 PM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Commander Says Mariupol Steel Plant Hasn’t Fallen</a> NYT: A Ukrainian commander inside the plant told The Times he and others would give up if they could leave the factory safely, as Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III were expected in Kyiv on Sunday. 
- <p class="updated_time"> 05:06 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 05:50 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/french-election-results-macron-le-pen.html">Emmanuel Macron Defeats Marine Le Pen for Second Term as French President</a> NYT: The result was a relief to allies in Europe and Washington wary of a far-right challenger who was hostile to the European Union and NATO. 
+ <p class="updated_time"> 05:49 PM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Blinken and Austin Visit Kyiv to Meet With Zelensky</a> NYT: The U.S. secretaries of state and defense were the highest-level American officials to go to Ukraine. A Ukrainian commander told The Times that the steel plant in Mariupol hasn’t fallen, but that he and others would give up if they could leave the factory safely. 
+ <p class="updated_time"> 05:49 PM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/2022/04/24/world/europe/zelensky-austin-blinken-ukraine.html">Blinken and Austin Arrive in Kyiv to Show Support for Ukraine</a> NYT: Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III met Sunday with President Volodymyr Zelensky, the first senior U.S. officials known to have visited Ukraine since the invasion. 
+ <p class="updated_time"> 05:45 PM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">Live Updates: Macron Holds Off Far-Right Push in France</a> NYT: Marine Le Pen concedes defeat to President Emmanuel Macron, the first French leader to be re-elected since 2002. 
+ <p class="updated_time"> 05:26 PM CT, Apr. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61209058?at_medium=RSS&at_campaign=KARANGA">Macron defeats Le Pen and vows to unite divided France</a> BBC: He triumphs over his far-right rival and becomes the first president to win re-election in 20 years. 
  <p class="updated_time"> 04:59 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/another-setback-for-europes-far-right-populists-on-sunday-in-slovenia.html">Another Setback for Europe’s Far-Right Populists on Sunday, in Slovenia</a> NYT: The country’s prime minister, Janez Jansa, a Trump admirer, appears to have lost to centrist rivals. 
- <p class="updated_time"> 04:59 PM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">Live Updates: Macron Holds Off Far-Right Push in France</a> NYT: Marine Le Pen concedes defeat to President Emmanuel Macron, the first French leader to be re-elected since 2002. 
  <p class="updated_time"> 04:55 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/ukraine-shelling-kharkiv.html">In a Ukrainian School, 12 People Await the War’s End, or Their Own</a> NYT: In the basement of a battered school in Kharkiv, a dozen residents have taken shelter. In a neighborhood not far away, life has returned to some sense of normalcy. But they choose to stay. 
  <p class="updated_time"> 04:53 PM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/emmanuel-macron-wins-french-election-2022-11650815682">France’s Macron Wins Second Term</a> WSJ: France’s Macron Wins Second Term 
+ <p class="updated_time"> 04:53 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/us/politics/russia-ukraine-diplomacy.html">America’s Road to the Ukraine War</a> NYT: For years, the United States sent mixed signals about its interests in the country. Then Vladimir V. Putin made his move. 
- <p class="updated_time"> 04:26 PM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278">Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials</a> WSJ: Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials 
  <p class="updated_time"> 04:05 PM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094559551/russia-ukraine-war-what-happened-today-april-24">Russia-Ukraine war: What happened today (April 24) </a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:58 PM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094567906/the-war-has-many-ukrainians-who-speak-russian-abandoning-the-language">The war has many Ukrainians who speak Russian abandoning the language</a> NPR: A third of Ukrainians speak Russian as their first language. But Russia's invasion has led several people to distance themselves from the language. 
  <p class="updated_time"> 03:58 PM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094567892/french-president-macron-is-staying-in-power-with-sundays-win">French President Macron is staying in power with Sunday's win</a> NPR: President Emmanuel Macron has won reelection, beating Marine Le Pen, his far-right rival, in a presidential election runoff. 
+ <p class="updated_time"> 03:53 PM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278">Top U.S. Officials Meet With Zelensky in Kyiv</a> WSJ: Top U.S. Officials Meet With Zelensky in Kyiv 
  <p class="updated_time"> 03:48 PM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094550020/antarcticas-penguin-post-office-is-hiring">Antarctica's 'Penguin Post Office' is hiring</a> NPR: If you can sort mail, sell postage stamps and count penguins, this could be the job for you. 
  <p class="updated_time"> 03:43 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/ukrainian-forces-mariupol-steel-plant.html">Ukrainians in Mariupol’s Steel Plant Are Holding On, a Commander Tells the Times</a> NYT: Capt. Svyatoslav Palamar says he and others would give up the factory if they could leave safely. 
- <p class="updated_time"> 03:26 PM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/u-s-withholds-sanctions-on-a-very-close-putin-associate-his-alleged-girlfriend-11650816894">U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend</a> WSJ: U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend 
  <p class="updated_time"> 03:24 PM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61211790?at_medium=RSS&at_campaign=KARANGA">France election: 'Many voted to build a barricade against the far-right', says Macron</a> BBC: After becoming the first French president re-elected in 20 years, Emmanuel Macron told supporters he was "the president of all." 
  <p class="updated_time"> 03:23 PM CT, Apr. 24 </p> 
@@ -43,19 +47,19 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/24/world/asia/modi-kashmir-india.html">Modi Stresses Growth, Sidestepping Politics, in Visit to Restive Territory</a> NYT: The Indian prime minister aims to ease decades of turmoil in Jammu and Kashmir through projects like a solar plant. 
  <p class="updated_time"> 03:01 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/economic-programs-are-front-and-center-in-the-campaign.html">Economic programs were front and center in the campaign.</a> NYT: Workers in restless blue-collar bastions may yet prove a liability for Mr. Macron. Despite a robust recovery in France after Covid lockdowns — the economy is now growing at around 7 percent, and unemployment has fallen to a 10-year low of 7.4 percent — many feel inequality has widened, rather than narrowed, as he pledged, in the five years since Mr. Macron took office. 
- <p class="updated_time"> 02:26 PM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/emmanuel-macron-wins-french-election-2022-11650815682">France’s Macron Wins Second Term</a> WSJ: France’s Macron Wins Second Term 
+ <p class="updated_time"> 02:53 PM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-s-withholds-sanctions-on-a-very-close-putin-associate-his-alleged-girlfriend-11650816894">U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend</a> WSJ: U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend 
+ <p class="updated_time"> 01:53 PM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/saudi-royals-are-selling-homes-yachts-and-art-as-crown-prince-cuts-income-11650792780">Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income</a> WSJ: Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income 
  <p class="updated_time"> 01:48 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/middleeast/cairo-city-of-dead-cemetery.html">Demolishing City of the Dead Will Displace a Lively Quarter of Cairo</a> NYT: Cairo’s oldest cemetery is being razed, and thousands of families living amid the grand mausoleums face eviction. “You’re not at ease when you’re living. You’re not at ease even when you’re dead.” 
- <p class="updated_time"> 01:26 PM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/saudi-royals-are-selling-homes-yachts-and-art-as-crown-prince-cuts-income-11650792780">Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income</a> WSJ: Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income 
  <p class="updated_time"> 01:21 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/africa/bain-south-africa-jacob-zuma.html">An American Consulting Firm Became a Power Broker, and Then a Pariah, in South Africa</a> NYT: A new judicial inquiry found that corruption at South Africa’s tax agency was because of “collusion” between Bain & Company and South Africa’s former president. 
  <p class="updated_time"> 12:56 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/mother-baby-odesa-missile-attack.html">Mother and Baby Among Those Killed in Odesa Attack</a> NYT: The family had moved from their apartment to a relative’s home to try to escape the Russian attacks. 
  <p class="updated_time"> 12:54 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/cold-war-ukraine.html">With Us or With Them? In a New Cold War, How About Neither.</a> NYT: Old geopolitical foes are facing off after Russia’s invasion of Ukraine, but much of the world is refusing to take sides. 
- <p class="updated_time"> 12:26 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 12:53 PM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/israel-closes-gaza-border-in-effort-to-pressure-hamas-to-halt-rocket-attacks-11650808823">Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks</a> WSJ: Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks 
  <p class="updated_time"> 11:27 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61209761?at_medium=RSS&at_campaign=KARANGA">Shanghai: Green fences baffle locked down residents</a> BBC: Two-metre barriers have appeared all over the city as officials battle to contain a Covid outbreak. 
@@ -191,8 +195,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/22/world/asia/north-korea-kim-moon-letters.html">President Moon Exchanges Farewell Letters With Kim Jong-un</a> NYT: President Moon Jae-in, who is barred from seeking re-election after his five-year term, and the North’s leader had warm parting words amid a diplomatic stalemate. 
  <p class="updated_time"> 11:07 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/australia/tourists-return-australia-new-zealand.html">When Will the Tourists Be Back?</a> NYT: An industry weathering a long winter looks warily ahead. 
- <p class="updated_time"> 09:06 PM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/world/zelensky-ukraine-support.html">Zelensky Says Ukraine Needs $7 Billion in Support per Month</a> NYT: Ukraine has suffered $550 billion in losses from the war, President Volodymyr Zelensky told the World Bank on Thursday. 
 
 
 </details>
