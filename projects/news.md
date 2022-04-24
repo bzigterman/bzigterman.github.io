@@ -9,11 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:26 AM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Top U.S. Officials Expected in Kyiv as Fight Rages in East</a> NYT: Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III would be the highest-ranking American officials to visit Ukraine since Russia invaded. 
  <p class="updated_time"> 05:11 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">French Election Live Updates: Gloves Come Off as Voters Pick Macron or Le Pen</a> NYT: Emmanuel Macron easily defeated the far-right leader Marine Le Pen in the 2017 battle for president, but the race this time around is expected to be much tighter. 
- <p class="updated_time"> 05:07 AM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Zelensky Strikes Optimistic Note on Eve of High-Level U.S. Visit</a> NYT: President Volodymyr Zelensky said Ukraine was finally getting the weapons it needed to repel Russian forces. He said he would meet with the U.S. secretaries of state and defense in Kyiv on Sunday. 
- <p class="updated_time"> 04:15 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 04:37 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says</a> WSJ: Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says 
  <p class="updated_time"> 04:11 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094535890/explosion-at-illegal-oil-refinery-in-nigeria-kills-over-50">Explosion at illegal oil refinery in Nigeria kills over 50</a> NPR: More than 50 people were killed and many injured when an explosion rocked an illegal oil refinery in southeastern Nigeria, state officials and police said Saturday. 
@@ -27,21 +27,21 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61207441?at_medium=RSS&at_campaign=KARANGA">Nigeria oil blast: Dozens die after explosion at illegal refinery</a> BBC: Bodies were burnt beyond recognition after the explosion at a hazardous site in Imo state. 
  <p class="updated_time"> 03:58 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094534876/ukrainian-steel-plant-bombed-zelenskyy-to-meet-us-officials">Ukrainian steel plant bombed; Zelenskyy to meet US officials</a> NPR: Russian forces called in airstrikes on a besieged steel factory in the southern city of Mariupol, while President Volodymyr Zelenskyy said he would meet in Kyiv with two top American officials. 
- <p class="updated_time"> 03:15 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 03:37 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
+ <p class="updated_time"> 02:37 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
  <p class="updated_time"> 02:30 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61204543?at_medium=RSS&at_campaign=KARANGA">French vote as Macron aims to beat far-right Le Pen</a> BBC: After a divisive campaign, Marine Le Pen faces an uphill battle to defeat sitting President Macron. 
- <p class="updated_time"> 02:15 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
  <p class="updated_time"> 02:05 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/france-election-runoff-le-pen-macron.html">Inside Le Pen Territory as France Votes in a Runoff Election</a> NYT: Whatever happens in the runoff election on Sunday, France has changed, and the winner may face a turbulent season. 
  <p class="updated_time"> 01:38 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094532512/voting-opens-in-france-runoff-between-macron-and-le-pen">Voting opens in France runoff between Macron and Le Pen</a> NPR: France began voting in a presidential runoff election Sunday in a race between between incumbent Emmanuel Macron and far-right politician Marine Le Pen. 
- <p class="updated_time"> 01:15 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 01:37 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
  <p class="updated_time"> 12:51 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61204407?at_medium=RSS&at_campaign=KARANGA">The sirens alerting Ukrainians to the danger of Russia air strikes</a> BBC: The BBC's Dan Johnson looks at how Lviv's sirens alert people to possible Russia air strikes. 
- <p class="updated_time"> 12:15 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 12:37 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
  <p class="updated_time"> 11:14 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/ukraine-poland-refugees.html">Warsaw’s Welcome Mat Risks Fraying Under Strain of a New Refugee Surge</a> NYT: Warsaw gladly and proudly accepted 300,000 Ukrainians fleeing the war. But as the Polish capital braces for a new wave of refugees, its mayor warns that the city is “at capacity.” 
@@ -207,7 +207,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094070784/title-42-policy-meaning">What to know about Title 42, the Trump-era policy now central to the border debate</a> NPR: A decades-old public health order is back in the spotlight as it's set to expire next month — a move that is long-overdue for immigration advocates. Here are some Title 42 basics, and some history. 
  <p class="updated_time"> 02:00 AM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/2022/04/24/us/politics/christopher-rufo-crt-lgbtq-florida.html">Christopher Rufo Fuels the Right’s Cultural Fires in Florida</a> NYT: Christopher Rufo helped make critical race theory a conservative rallying cry. Now he sees L.G.B.T.Q. issues as an even more potent line of attack. 
+ <a href="https://www.nytimes.com/2022/04/24/us/politics/christopher-rufo-crt-lgbtq-florida.html">He Fuels the Right’s Cultural Fires (and Spreads Them to Florida)</a> NYT: Christopher Rufo helped make critical race theory a conservative rallying cry. Now he sees L.G.B.T.Q. issues as an even more potent line of attack. 
  <p class="updated_time"> 01:54 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/us/politics/orrin-hatch-dead.html">Orrin Hatch, Seven-Term Senator and a Republican Force, Dies at 88</a> NYT: Overcoming poverty and representing Utah, he became a powerful figure in Washington, helping to build a conservative majority on the Supreme Court. 
  <p class="updated_time"> 08:13 PM CT, Apr. 23 </p> 
