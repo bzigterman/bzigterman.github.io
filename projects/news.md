@@ -9,9 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:12 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 06:31 PM CT, Apr. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61209058?at_medium=RSS&at_campaign=KARANGA">Macron defeats Le Pen and vows to unite divided France</a> BBC: He triumphs over his far-right rival and becomes the first president to win re-election in 20 years. 
+ <p class="updated_time"> 06:26 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Blinken and Austin Visit Kyiv to Meet With Zelensky</a> NYT: The U.S. secretaries of state and defense were the highest-level American officials to go to Ukraine. A Ukrainian commander told The Times that the steel plant in Mariupol hasn’t fallen, but that he and others would give up if they could leave the factory safely. 
- <p class="updated_time"> 06:12 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 06:26 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/blinken-austin-ukraine-visit.html">U.S. Officials Reported to Make Top-Secret Visit to Ukraine</a> NYT: The American government refused to comment on reports that Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III had traveled to Ukraine to meet with its leaders. 
  <p class="updated_time"> 06:03 PM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61196572?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Lalibela struggles as war and Covid-19 keep tourists away</a> BBC: In the historic Ethiopian town of Lalibela, civil war and Covid-19 have left many without livelihoods. 
@@ -25,9 +27,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/24/world/europe/french-election-results-macron-le-pen.html">Emmanuel Macron Defeats Marine Le Pen for Second Term as French President</a> NYT: The result was a relief to allies in Europe and Washington wary of a far-right challenger who was hostile to the European Union and NATO. 
  <p class="updated_time"> 05:49 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/zelensky-austin-blinken-ukraine.html">Blinken and Austin Arrive in Kyiv to Show Support for Ukraine</a> NYT: Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III met Sunday with President Volodymyr Zelensky, the first senior U.S. officials known to have visited Ukraine since the invasion. 
- <p class="updated_time"> 05:26 PM CT, Apr. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61209058?at_medium=RSS&at_campaign=KARANGA">Macron defeats Le Pen and vows to unite divided France</a> BBC: He triumphs over his far-right rival and becomes the first president to win re-election in 20 years. 
- <p class="updated_time"> 05:15 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 05:33 PM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/emmanuel-macron-wins-french-election-2022-11650815682">France’s Macron Wins Second Term</a> WSJ: France’s Macron Wins Second Term 
  <p class="updated_time"> 04:59 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/another-setback-for-europes-far-right-populists-on-sunday-in-slovenia.html">Another Setback for Europe’s Far-Right Populists on Sunday, in Slovenia</a> NYT: The country’s prime minister, Janez Jansa, a Trump admirer, appears to have lost to centrist rivals. 
@@ -35,7 +35,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/24/world/europe/ukraine-shelling-kharkiv.html">In a Ukrainian School, 12 People Await the War’s End, or Their Own</a> NYT: In the basement of a battered school in Kharkiv, a dozen residents have taken shelter. In a neighborhood not far away, life has returned to some sense of normalcy. But they choose to stay. 
  <p class="updated_time"> 04:53 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/us/politics/russia-ukraine-diplomacy.html">America’s Road to the Ukraine War</a> NYT: For years, the United States sent mixed signals about its interests in the country. Then Vladimir V. Putin made his move. 
- <p class="updated_time"> 04:15 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 04:33 PM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278">Top U.S. Officials Meet With Zelensky in Kyiv</a> WSJ: Top U.S. Officials Meet With Zelensky in Kyiv 
  <p class="updated_time"> 04:05 PM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094559551/russia-ukraine-war-what-happened-today-april-24">Russia-Ukraine war: What happened today (April 24) </a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
@@ -47,22 +47,22 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/24/1094550020/antarcticas-penguin-post-office-is-hiring">Antarctica's 'Penguin Post Office' is hiring</a> NPR: If you can sort mail, sell postage stamps and count penguins, this could be the job for you. 
  <p class="updated_time"> 03:43 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/ukrainian-forces-mariupol-steel-plant.html">Ukrainians in Mariupol’s Steel Plant Are Holding On, a Commander Tells the Times</a> NYT: Capt. Svyatoslav Palamar says he and others would give up the factory if they could leave safely. 
+ <p class="updated_time"> 03:33 PM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-s-withholds-sanctions-on-a-very-close-putin-associate-his-alleged-girlfriend-11650816894">U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend</a> WSJ: U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend 
  <p class="updated_time"> 03:24 PM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61211790?at_medium=RSS&at_campaign=KARANGA">France election: 'Many voted to build a barricade against the far-right', says Macron</a> BBC: After becoming the first French president re-elected in 20 years, Emmanuel Macron told supporters he was "the president of all." 
  <p class="updated_time"> 03:23 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/mariupol-ukraine-family-escape.html">A Family of Six Walks for Days to Escape Mariupol</a> NYT: At times, Russian soldiers were almost friendly, advising them how to avoid shelling and showing them pictures of their own children. 
- <p class="updated_time"> 03:15 PM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/u-s-withholds-sanctions-on-a-very-close-putin-associate-his-alleged-girlfriend-11650816894">U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend</a> WSJ: U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend 
  <p class="updated_time"> 03:01 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/economic-programs-are-front-and-center-in-the-campaign.html">Economic programs were front and center in the campaign.</a> NYT: Workers in restless blue-collar bastions may yet prove a liability for Mr. Macron. Despite a robust recovery in France after Covid lockdowns — the economy is now growing at around 7 percent, and unemployment has fallen to a 10-year low of 7.4 percent — many feel inequality has widened, rather than narrowed, as he pledged, in the five years since Mr. Macron took office. 
- <p class="updated_time"> 02:15 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 02:33 PM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/saudi-royals-are-selling-homes-yachts-and-art-as-crown-prince-cuts-income-11650792780">Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income</a> WSJ: Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income 
  <p class="updated_time"> 01:48 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/middleeast/cairo-city-of-dead-cemetery.html">Demolishing City of the Dead Will Displace a Lively Quarter of Cairo</a> NYT: Cairo’s oldest cemetery is being razed, and thousands of families living amid the grand mausoleums face eviction. “You’re not at ease when you’re living. You’re not at ease even when you’re dead.” 
+ <p class="updated_time"> 01:33 PM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/israel-closes-gaza-border-in-effort-to-pressure-hamas-to-halt-rocket-attacks-11650808823">Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks</a> WSJ: Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks 
  <p class="updated_time"> 01:21 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/africa/bain-south-africa-jacob-zuma.html">An American Consulting Firm Became a Power Broker, and Then a Pariah, in South Africa</a> NYT: A new judicial inquiry found that corruption at South Africa’s tax agency was because of “collusion” between Bain & Company and South Africa’s former president. 
- <p class="updated_time"> 01:15 PM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/israel-closes-gaza-border-in-effort-to-pressure-hamas-to-halt-rocket-attacks-11650808823">Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks</a> WSJ: Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks 
  <p class="updated_time"> 12:56 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/mother-baby-odesa-missile-attack.html">Mother and Baby Among Those Killed in Odesa Attack</a> NYT: The family had moved from their apartment to a relative’s home to try to escape the Russian attacks. 
  <p class="updated_time"> 12:54 PM CT, Apr. 24 </p> 
@@ -291,7 +291,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:02 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/biden-domestic-agenda.html">Biden Tries to Sell Domestic Agenda During a West Coast Trip</a> NYT: President Biden acknowledged that the immediate demands of the presidency, including the pandemic and war in Ukraine, have taken him away from his domestic agenda. 
  <p class="updated_time"> 06:00 PM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/us/politics/democrats-midterms-biden.html">‘It’s Time to Head for the Lifeboats’: Democratic Fatalism Intensifies</a> NYT: Strategists and pollsters are increasingly talking about limiting the party’s expected losses in November rather than how to gain new seats. 
+ <a href="https://www.nytimes.com/2022/04/22/us/politics/democrats-midterms-biden.html">Democrats and the 2022 Midterms: ‘It’s Going to Be a Terrible Cycle’</a> NYT: Strategists and pollsters are increasingly talking about limiting the party’s expected losses in November rather than how to gain new seats. 
  <p class="updated_time"> 04:45 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/hackers-russia-cyberattacks.html">Hackers Claim to Target Russia With Cyberattacks and Leaks</a> NYT: While the authenticity of leaked data could not be verified, the effort appears to be part of a campaign by hackers opposed to the Kremlin. 
  <p class="updated_time"> 04:14 PM CT, Apr. 22 </p> 
