@@ -9,22 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:13 PM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">Live Updates: Macron Holds Off Far-Right Push in France</a> NYT: Early projections at the close of voting showed Emmanuel Macron triumphing over Marine Le Pen and her anti-NATO, anti-immigrant platform. 
- <p class="updated_time"> 12:56 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 01:39 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Top U.S. Officials Expected in Kyiv as Fight Rages in East</a> NYT: Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III would be the highest-ranking American officials to visit Ukraine since Russia invaded. 
+ <p class="updated_time"> 01:35 PM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">Live Updates: Macron Holds Off Far-Right Push in France</a> NYT: Marine Le Pen concedes defeat to President Emmanuel Macron, the first French leader to be re-elected since 2002. 
+ <p class="updated_time"> 01:21 PM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/2022/04/23/world/africa/bain-south-africa-jacob-zuma.html">An American Consulting Firm Became a Power Broker, and Then a Pariah, in South Africa</a> NYT: A new judicial inquiry found that corruption at South Africa’s tax agency was because of “collusion” between Bain & Company and South Africa’s former president. 
+ <p class="updated_time"> 01:20 PM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/2022/04/24/world/europe/emmanuel-macron-france-election-marine-le-pen.html">Emmanuel Macron Defeats Marine Le Pen in French Presidential Election</a> NYT: Mr. Macron, who held off a challenge from the far right, is the first incumbent president to win re-election in France since 2002. 
  <p class="updated_time"> 12:56 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/mother-baby-odesa-missile-attack.html">Mother and Baby Among Those Killed in Odesa Attack</a> NYT: The family had moved from their apartment to a relative’s home to try to escape the Russian attacks. 
  <p class="updated_time"> 12:54 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/cold-war-ukraine.html">With Us or With Them? In a New Cold War, How About Neither.</a> NYT: Old geopolitical foes are facing off after Russia’s invasion of Ukraine, but much of the world is refusing to take sides. 
- <p class="updated_time"> 12:18 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 12:41 PM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278">Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials</a> WSJ: Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials 
  <p class="updated_time"> 12:13 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/middleeast/00cairo-cemetery-city-of-dead.html">Demolishing City of the Dead Will Displace a Lively Quarter of Cairo</a> NYT: Cairo’s oldest cemetery is being razed, and thousands of families living amid the grand mausoleums face eviction. “You’re not at ease when you’re living. You’re not at ease even when you’re dead.” 
+ <p class="updated_time"> 11:41 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/livecoverage/french-election-2022-macron-le-pen">Macron and Le Pen Face Off in French Election</a> WSJ: Macron and Le Pen Face Off in French Election 
  <p class="updated_time"> 11:27 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61209761?at_medium=RSS&at_campaign=KARANGA">Shanghai: Green fences baffle locked down residents</a> BBC: Two-metre barriers have appeared all over the city as officials battle to contain a Covid outbreak. 
- <p class="updated_time"> 11:18 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/livecoverage/french-election-2022-macron-le-pen">Macron and Le Pen Face Off in French Election</a> WSJ: Macron and Le Pen Face Off in French Election 
  <p class="updated_time"> 10:54 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/france-election-voters-le-pen.html">Some Voters in a Wealthy Paris Suburb Consider Backing Le Pen</a> NYT: In Neuilly-sur-Seine, an upscale city west of Paris, Marine Le Pen may gain the votes of those who had supported Éric Zemmour. 
  <p class="updated_time"> 10:54 AM CT, Apr. 24 </p> 
@@ -33,18 +37,22 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/23/world/europe/france-election-runoff-le-pen-macron.html">Inside Le Pen Territory as France Votes in a Runoff Election</a> NYT: Whatever happens in the runoff election on Sunday, France has changed, and the winner may face a turbulent season. 
  <p class="updated_time"> 10:44 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/france-muslims-presidential-vote.html">Who Will France’s Muslims Choose for President?</a> NYT: French Muslims face a decision between Emmanuel Macron, whose presidency some of them view as harmful, and Marine Le Pen, whose far-right party has a history of anti-Muslim positions. 
- <p class="updated_time"> 10:18 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 10:41 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/saudi-royals-are-selling-homes-yachts-and-art-as-crown-prince-cuts-income-11650792780">Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income</a> WSJ: Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income 
  <p class="updated_time"> 09:43 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/marine-le-pen-france-election.html">Marine Le Pen’s Message Finds a Strong Audience in the North</a> NYT: The far-right candidate, Marine Le Pen, has focused on kitchen-table issues, crime and immigration. 
- <p class="updated_time"> 09:18 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 09:41 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/covid-19-cases-surge-in-beijing-as-deaths-triple-in-shanghai-11650788552">Covid-19 Cases Surge in Beijing as New Deaths Triple in Shanghai</a> WSJ: Covid-19 Cases Surge in Beijing as New Deaths Triple in Shanghai 
- <p class="updated_time"> 08:18 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 09:16 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/emmanuel-macron-wins-french-election-2022-11650815682">France's Macron Wins Second Term</a> WSJ: French President Emmanuel Macron was re-elected, according to projections based on early ballot counts, overcoming deep divisions among voters worried about inflation and the impact of immigration on France’s national identity. 
+ <p class="updated_time"> 08:41 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/israel-closes-gaza-border-in-effort-to-pressure-hamas-to-halt-rocket-attacks-11650808823">Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks</a> WSJ: Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks 
  <p class="updated_time"> 07:41 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/24/1093992912/the-pandemic-inspired-a-cartoonist-to-explore-their-wuhanese-roots-and-queer-ide">The pandemic inspired a cartoonist to explore their Wuhanese roots and queer identity</a> NPR: In the funny and heartfelt coming-of-age graphic memoir 'Messy Roots,' artist Laura Gao unpacks their relationship with their Asianness, queerness and their ever-changing home city of Wuhan. 
  <p class="updated_time"> 07:40 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61209550?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Celebrating Easter in the trenches outside Kyiv</a> BBC: Russian forces have moved away from Ukraine's capital, but those defending the city remain. 
+ <p class="updated_time"> 07:14 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-s-withholds-sanctions-on-a-very-close-putin-associate-his-alleged-girlfriend-11650816894">U.S. Withholds Sanctions on a Very Close Putin Associate: His Alleged Girlfriend</a> WSJ: Officials have a sanctions package ready, but they continue to weigh the potential backlash for blacklisting the 39-year-old former Olympic gymnast. The U.S. government says she is the mother of at least three of President Vladimir Putin’s children. 
  <p class="updated_time"> 06:48 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094538850/ukraine-says-russia-is-dropping-internationally-banned-cluster-munitions">Ukraine says Russia is dropping internationally banned cluster munitions </a> NPR: Ukrainian forces are struggling to neutralize bombs that scatter over a wide area and are internationally banned, known as "cluster munitions." 
  <p class="updated_time"> 06:40 AM CT, Apr. 24 </p> 
@@ -73,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/24/1094532512/french-election-macron-le-pen">President Emmanuel Macron is projected to beat far-right rival Marine Le Pen</a> NPR: The French election was a tight race that was overshadowed by the war in Ukraine and saw a surge in support for extremist ideas. 
  <p class="updated_time"> 12:51 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61204407?at_medium=RSS&at_campaign=KARANGA">The sirens alerting Ukrainians to the danger of Russia air strikes</a> BBC: The BBC's Dan Johnson looks at how Lviv's sirens alert people to possible Russia air strikes. 
- <p class="updated_time"> 12:51 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/french-voters-head-to-the-polls-as-macron-and-le-pen-face-off-11650793882">Macron and Le Pen Face Off in French Election</a> WSJ: Millions headed to the polls for the final round of a presidential election that has laid bare deep divisions among voters worried about inflation, Ukraine and the impact of immigration on France’s national identity. 
  <p class="updated_time"> 11:14 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/ukraine-poland-refugees.html">Warsaw’s Welcome Mat Risks Fraying Under Strain of a New Refugee Surge</a> NYT: Warsaw gladly and proudly accepted 300,000 Ukrainians fleeing the war. But as the Polish capital braces for a new wave of refugees, its mayor warns that the city is “at capacity.” 
  <p class="updated_time"> 09:36 PM CT, Apr. 23 </p> 
@@ -117,8 +123,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61202603?at_medium=RSS&at_campaign=KARANGA">Shanghai: Censors try to block video about lockdown conditions</a> BBC: The video features people pleading for help over a lack of food and medicine in the city's strict lockdown. 
  <p class="updated_time"> 11:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/schroder-germany-russia-gas-ukraine-war-energy.html">How the Ex-Chancellor Gerhard Schröder Became Putin’s Man in Germany</a> NYT: Gerhard Schröder, who is paid almost $1 million a year by Russian-controlled energy companies, has become a pariah. But he is also a symbol of Germany’s Russia policy. 
- <p class="updated_time"> 07:57 AM CT, Apr. 23 </p> 
- <a href="https://www.nytimes.com/2022/04/23/world/africa/bain-south-africa-jacob-zuma.html">A Boston Consulting Firm Became a Power Broker, and Then a Pariah, in South Africa</a> NYT: A new judicial inquiry found that corruption at South Africa’s tax agency was because of “collusion” between Bain & Company and South Africa’s former president. 
  <p class="updated_time"> 07:46 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/asia/japan-tattoo.html">Discreetly, the Young in Japan Chip Away at a Taboo on Tattoos</a> NYT: Exposed to body art on social media, more young Japanese are getting tattoos, even if that means hiding them at work. 
  <p class="updated_time"> 07:34 AM CT, Apr. 23 </p> 
@@ -202,7 +206,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:40 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 01:34 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/us/politics/orrin-hatch-dead.html">Orrin Hatch, Seven-Term Senator and a Republican Force, Dies at 88</a> NYT: Overcoming poverty and representing Utah, he became a powerful figure in Washington, helping to build a conservative majority on the Supreme Court. 
  <p class="updated_time"> 12:20 PM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/ukraine-putin-united-nations-00027383">‘Not good idea’: Ukrainians dump on U.N. chief’s planned Putin meeting</a> Politico: Prime Minister Denys Shmyhal said the Russians are interested in genocide, not more negotiations. 
@@ -227,9 +231,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:26 AM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/ukraine-steel-plant-bombed-00027358">Ukrainian steel plant bombed</a> Politico: Russia has been trying to take Mariupol for nearly two months. 
  <p class="updated_time"> 06:00 AM CT, Apr. 24 </p> 
- <a href="https://www.politico.com/news/2022/04/24/abortion-advocates-strategy-depends-on-pills-an-information-gap-threatens-their-efforts-00027309">Abortion advocates’ strategy depends on pills. An information gap threatens their efforts.</a> Politico: With SCOTUS decision looming, confusion and fear hinder post-Roe plans. 
- <p class="updated_time"> 06:00 AM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/swing-state-senate-dems-border-visit-enrages-left-00027355">Border visit backfires on vulnerable Senate Dem</a> Politico: New Hampshire Sen. Maggie Hassan is facing fierce criticism from all sides for her immigration stance. 
+ <p class="updated_time"> 06:00 AM CT, Apr. 24 </p> 
+ <a href="https://www.politico.com/news/2022/04/24/abortion-advocates-strategy-depends-on-pills-an-information-gap-threatens-their-efforts-00027309">Abortion advocates’ strategy depends on pills. An information gap threatens their efforts.</a> Politico: With SCOTUS decision looming, confusion and fear hinder post-Roe plans. 
  <p class="updated_time"> 04:01 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/04/24/1089786147/covid-conspiracy-theories">Their mom died of COVID. They say conspiracy theories are what really killed her</a> NPR: Stephanie was usually careful about her health and regular vaccinations. But then she got into sharing far-out videos and fringe ideas. When COVID hit, misinformation put her and her husband at risk. 
  <p class="updated_time"> 04:00 AM CT, Apr. 24 </p> 
