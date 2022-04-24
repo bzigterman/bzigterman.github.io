@@ -9,23 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:12 AM CT, Apr. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61204543?at_medium=RSS&at_campaign=KARANGA">French vote as Macron aims to beat far-right Le Pen</a> BBC: After a divisive campaign, Marine Le Pen faces an uphill battle to defeat sitting President Macron. 
+ <p class="updated_time"> 12:51 AM CT, Apr. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61204407?at_medium=RSS&at_campaign=KARANGA">The sirens alerting Ukrainians to the danger of Russia air strikes</a> BBC: The BBC's Dan Johnson looks at how Lviv's sirens alert people to possible Russia air strikes. 
+ <p class="updated_time"> 12:25 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says</a> WSJ: Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says 
  <p class="updated_time"> 12:03 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">What Happened on Day 59 of the War in Ukraine</a> NYT: The American secretaries of state and defense will make a trip to the embattled Ukrainian capital, President Volodymyr Zelensky said. Russian missiles killed at least eight people in a residential area of Odesa. 
- <p class="updated_time"> 11:55 PM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says</a> WSJ: Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says 
+ <p class="updated_time"> 11:25 PM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
  <p class="updated_time"> 11:14 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/ukraine-poland-refugees.html">Warsaw’s Welcome Mat Risks Fraying Under Strain of a New Refugee Surge</a> NYT: Warsaw gladly and proudly accepted 300,000 Ukrainians fleeing the war. But as the Polish capital braces for a new wave of refugees, its mayor warns that the city is “at capacity.” 
- <p class="updated_time"> 10:55 PM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
- <p class="updated_time"> 09:55 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 10:25 PM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
  <p class="updated_time"> 09:36 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/moldova-ukraine-russia.html">Rattled by Ukraine War, Moldova Strives to Dodge Russia’s Long Shadow</a> NYT: Moldova’s destiny has been intertwined uncomfortably with Russia’s for years, and the Ukraine invasion has accelerated its efforts to break free from Moscow. 
+ <p class="updated_time"> 09:25 PM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
  <p class="updated_time"> 08:57 PM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61202599?at_medium=RSS&at_campaign=KARANGA">Tourist boat missing off Japanese coast</a> BBC: Four of the 26 people on board are found by rescuers after the vessel sent out a distress signal. 
- <p class="updated_time"> 08:55 PM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
- <p class="updated_time"> 07:55 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 08:49 PM CT, Apr. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61205687?at_medium=RSS&at_campaign=KARANGA">Rio carnival: Brazil holds first Rio de Janeiro carnival since Covid</a> BBC: Parades fill the streets of Brazil's Rio de Janeiro for the first carnival since the pandemic began. 
+ <p class="updated_time"> 08:25 PM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
  <p class="updated_time"> 07:36 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/asia/tour-boat-missing-japan-hokkaido.html">26 Missing From Japanese Tour Boat After Distress Call off Hokkaido</a> NYT: The sightseeing vessel was on a three-hour round trip tour to the tip of Cape Shiretoko. The Japan Coast Guard had dispatched rescue boats and aircraft to the area near the Kashuni Falls. 
@@ -39,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61006503?at_medium=RSS&at_campaign=KARANGA">Cooma jail: Prison that was once 'world's only jail for gay men'</a> BBC: Set in one of the coldest and windiest small towns in Australia, Cooma prison holds a dark secret. 
  <p class="updated_time"> 06:35 PM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/blogs-trending-61176372?at_medium=RSS&at_campaign=KARANGA">The bombing survivor accused of being fake</a> BBC: The woman caught in a Chernihiv school blast had her story on Instagram targeted by pro-Kremlin accounts. 
- <p class="updated_time"> 06:25 PM CT, Apr. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61204543?at_medium=RSS&at_campaign=KARANGA">French vote as Macron aims to beat far-right Le Pen</a> BBC: After a divisive campaign, Marine Le Pen faces an uphill battle to defeat sitting President Macron. 
  <p class="updated_time"> 06:00 PM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61162562?at_medium=RSS&at_campaign=KARANGA">Colombia election: How TikTok is defining the presidential race</a> BBC: The social media platform has become a battleground as candidates reach out to young voters. 
  <p class="updated_time"> 06:00 PM CT, Apr. 23 </p> 
@@ -167,12 +171,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/world/zelensky-ukraine-support.html">Zelensky Says Ukraine Needs $7 Billion in Support per Month</a> NYT: Ukraine has suffered $550 billion in losses from the war, President Volodymyr Zelensky told the World Bank on Thursday. 
  <p class="updated_time"> 08:53 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/us-weapons-ukraine.html">What to Know About the Weapons Being Sent to Ukraine</a> NYT: The Biden administration is sending dozens of howitzers and 120 drones in the latest $800 million package of military aid. 
- <p class="updated_time"> 08:48 PM CT, Apr. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61156743?at_medium=RSS&at_campaign=KARANGA">Johnny Depp and Amber Heard face off in court</a> BBC: Depp says she stubbed a cigarette on his face. The court sees a Depp text saying: "Lets burn Amber!!!" 
  <p class="updated_time"> 07:29 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/russia-ukraine-military-biden.html">Next Phase of War Will Be Pivotal for Russia and Ukraine, U.S. Says</a> NYT: Reflecting a renewed sense of urgency, President Biden announced that the United States would send the Ukrainians $800 million more in military aid. 
- <p class="updated_time"> 06:25 PM CT, Apr. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61184479?at_medium=RSS&at_campaign=KARANGA">The German towns in Paraguay with a surge in European immigrants</a> BBC: Thousands of German nationals have migrated to Paraguay to escape Covid restrictions and immigration in Europe. 
  <p class="updated_time"> 06:19 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/russia-moskva-warship-disinformation.html">With Moskva Warship Sunken, Russia Disinformation Faces a Test</a> NYT: Families of missing crew members say the Russian authorities are giving them the runaround after a flagship sank last week in the Black Sea. 
  <p class="updated_time"> 05:14 PM CT, Apr. 21 </p> 
@@ -198,8 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:50 AM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/2022/04/23/us/politics/orrin-hatch-dead.html">Orrin Hatch, Seven-Term Senator and a Republican Force, Dies at 88</a> NYT: Overcoming poverty and representing Utah, he become a powerful figure in Washington, helping to build a conservative majority on the Supreme Court. 
+ <p class="updated_time"> 01:11 AM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/2022/04/23/us/politics/orrin-hatch-dead.html">Orrin Hatch, Seven-Term Senator and a Republican Force, Dies at 88</a> NYT: Overcoming poverty and representing Utah, he became a powerful figure in Washington, helping to build a conservative majority on the Supreme Court. 
  <p class="updated_time"> 08:13 PM CT, Apr. 23 </p> 
  <a href="https://www.politico.com/news/2022/04/23/utah-senator-orrin-hatch-dies-00027357">Long-serving Utah Senator Orrin Hatch dies at age 88</a> Politico: His death was announced in a statement from his foundation, which did not specify a cause. 
  <p class="updated_time"> 08:10 PM CT, Apr. 23 </p> 
