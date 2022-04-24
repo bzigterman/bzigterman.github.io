@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:56 AM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">Live Updates: Voting Underway as France Chooses Between Macron and Le Pen</a> NYT: Turnout, which could be key in determining the French presidential election, was 26.41 percent at noon on Sunday, according to the Interior Ministry, slightly higher than at the same time for the first round two weeks ago. 
+ <p class="updated_time"> 06:48 AM CT, Apr. 24 </p> 
+ <a href="https://www.npr.org/2022/04/24/1094538850/ukraine-says-russia-is-dropping-internationally-banned-cluster-munitions">Ukraine says Russia is dropping internationally banned cluster munitions </a> NPR: Ukrainian forces are struggling to neutralize bombs that scatter over a wide area and are internationally banned, known as "cluster munitions." 
  <p class="updated_time"> 06:42 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Top U.S. Officials Expected in Kyiv as Fight Rages in East</a> NYT: Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III would be the highest-ranking American officials to visit Ukraine since Russia invaded. 
  <p class="updated_time"> 06:40 AM CT, Apr. 24 </p> 
@@ -17,8 +21,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/24/1094538498/how-the-war-in-ukraine-affects-the-environment">How the war in Ukraine affects the environment</a> NPR: NPR's Ayesha Rascoe speaks with Carroll Muffett of the Center for International Environmental Law about the environmental effects of the war in Ukraine. 
  <p class="updated_time"> 06:31 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094538467/france-votes-today-between-incumbent-president-macron-or-populist-candidate-le-p">France votes today between incumbent president Macron or populist candidate Le Pen</a> NPR: French voters choose between incumbent president Emmanuel Macron and populist candidate Marine Le Pen in Sunday's runoff election. 
- <p class="updated_time"> 06:27 AM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">Live Updates: Voting Underway as France Chooses Between Macron and Le Pen</a> NYT: Turnout, which could be key in determining the French presidential election, was 26.41 percent at noon on Sunday, according to the Interior Ministry, slightly higher than at the same time for the first round two weeks ago. 
  <p class="updated_time"> 06:26 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094538340/what-is-russias-place-on-the-u-n-security-council">What is Russia's place on the U.N. Security Council?</a> NPR: NPR's Ayesha Rascoe talks with Richard Gowan of the International Crisis Group about Russia's place on the U.N. Security Council. 
  <p class="updated_time"> 06:25 AM CT, Apr. 24 </p> 
@@ -27,9 +29,9 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61207441?at_medium=RSS&at_campaign=KARANGA">Nigeria oil blast: Police hunt illegal refinery owner after deadly explosion</a> BBC: More than 100 were killed in an explosion at a hazardous site in Imo state, the authorities say. 
  <p class="updated_time"> 06:15 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61204543?at_medium=RSS&at_campaign=KARANGA">French vote as Macron aims to beat far-right Le Pen</a> BBC: After a divisive campaign, Marine Le Pen faces an uphill battle to defeat sitting President Macron. 
- <p class="updated_time"> 05:47 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 05:59 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says</a> WSJ: Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says 
- <p class="updated_time"> 04:47 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 04:59 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
  <p class="updated_time"> 04:11 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094535890/explosion-at-illegal-oil-refinery-in-nigeria-kills-over-50">Explosion at illegal oil refinery in Nigeria kills over 50</a> NPR: More than 50 people were killed and many injured when an explosion rocked an illegal oil refinery in southeastern Nigeria, state officials and police said Saturday. 
@@ -39,15 +41,15 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/24/1094535365/ukraine-marks-orthodox-easter-with-prayers-for-those-trapped">Ukraine marks Orthodox Easter with prayers for those trapped</a> NPR: The sun came out as Ukrainians marked Orthodox Easter in the capital, Kyiv, on Sunday with prayers for those fighting on the front lines and others trapped beyond them. 
  <p class="updated_time"> 04:08 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/japan-boat-sinks.html">At Least 10 Dead After Tour Boat Sinks in Japan</a> NYT: Sixteen people were still missing, more than 24 hours after the sightseeing vessel was lost off the coast of Hokkaido island. 
+ <p class="updated_time"> 03:59 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
  <p class="updated_time"> 03:58 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094534876/ukrainian-steel-plant-bombed-zelenskyy-to-meet-us-officials">Ukrainian steel plant bombed; Zelenskyy to meet US officials</a> NPR: Russian forces called in airstrikes on a besieged steel factory in the southern city of Mariupol, while President Volodymyr Zelenskyy said he would meet in Kyiv with two top American officials. 
- <p class="updated_time"> 03:47 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
- <p class="updated_time"> 02:47 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 02:59 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
  <p class="updated_time"> 02:05 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/france-election-runoff-le-pen-macron.html">Inside Le Pen Territory as France Votes in a Runoff Election</a> NYT: Whatever happens in the runoff election on Sunday, France has changed, and the winner may face a turbulent season. 
- <p class="updated_time"> 01:47 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 01:59 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
  <p class="updated_time"> 01:38 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094532512/voting-opens-in-france-runoff-between-macron-and-le-pen">Macron vs Le Pen: France votes in tense presidential runoff</a> NPR: France began voting in a presidential runoff election Sunday in a race between between incumbent Emmanuel Macron and far-right politician Marine Le Pen. 
@@ -93,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/23/health/covid-vaccines-world-africa.html">The Drive to Vaccinate the World Against Covid Is Losing Steam</a> NYT: Rates are stalling in most low-income countries well short of the W.H.O.’s goal to immunize 70 percent of people in every nation. Some public health experts believe the momentum is gone forever. 
  <p class="updated_time"> 01:29 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/ukrainian-easter-traditions.html">Ukrainians Cling to Easter Traditions in the Shadow of a Devastating War</a> NYT: In Lviv, residents had laid bouquets of flowers at the feet of a statue of the Virgin Mary, next to piles of white sandbags protecting the statue from bombings. 
- <p class="updated_time"> 01:18 PM CT, Apr. 23 </p> 
- <a href="https://www.npr.org/2022/04/23/1094494437/ukraine-zelenskyy-blinken-austin-meeting-kyiv">2 U.S. Cabinet officials will meet with Zelenskyy in Kyiv</a> NPR: Ukrainian President Volodymyr Zelenskyy plans to meet with Secretary of State Antony Blinken and Secretary of Defense Lloyd Austin on Sunday. The State Department declined to comment to NPR. 
  <p class="updated_time"> 11:29 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61202603?at_medium=RSS&at_campaign=KARANGA">Shanghai: Censors try to block video about lockdown conditions</a> BBC: The video features people pleading for help over a lack of food and medicine in the city's strict lockdown. 
  <p class="updated_time"> 11:00 AM CT, Apr. 23 </p> 
@@ -204,6 +204,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:49 AM CT, Apr. 24 </p> 
+ <a href="https://www.npr.org/2022/04/24/1094538874/political-donations-by-cryptocurrency-are-on-the-rise">Political donations by cryptocurrency are on the rise</a> NPR: NPR's Ayesha Rascoe speaks with Washington Post reporter Tory Newmyer about cryptocurrency advocates donating to candidates in the midterm elections. 
  <p class="updated_time"> 06:41 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094538569/politics-chat-more-details-about-the-insurrection-emerge">Politics Chat: More details about the insurrection emerge</a> NPR: Details about high-ranking Republicans and the January 6, 2021, attack on the U.S. Capitol continue to emerge. 
  <p class="updated_time"> 06:26 AM CT, Apr. 24 </p> 
@@ -292,8 +294,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094390341/what-this-sundays-election-means-for-the-future-of-france">What this Sunday's election means for the future of France</a> NPR: NPR's Daniel Estrin talks with Sylvie Kauffmann, editorial director at Le Monde, about what France's election means for the future of the country. 
  <p class="updated_time"> 03:29 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094390276/florida-is-ending-disneys-special-tax-district-heres-what-comes-next">Florida is ending Disney's special tax district. Here's what comes next</a> NPR: NPR's Ari Shapiro talks to reporter Nick Papantonis of WFTV about the effect that revoking Disney's special tax district will have on local taxpayers. 
- <p class="updated_time"> 03:29 PM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1094390228/newly-released-audio-reveals-that-kevin-mccarthy-supported-ousting-trump-after-j">Newly-released audio reveals that Kevin McCarthy supported ousting Trump after Jan. 6</a> NPR: House GOP minority leader Kevin McCarthy was recorded in January saying he'd advise then-President Trump to resign after Jan. 6. It raises questions about his future and relationship with Trump. 
  <p class="updated_time"> 12:59 PM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/florida-quickly-sued-over-new-map-that-gives-big-wins-to-republicans-00027203">DeSantis signs new congressional map into law as groups sue over redistricting</a> Politico: The suit was filed less than 24 hours after the GOP-controlled Legislature passed the bill as Black Democrats were loudly protesting on the House floor. 
  <p class="updated_time"> 08:00 AM CT, Apr. 22 </p> 
