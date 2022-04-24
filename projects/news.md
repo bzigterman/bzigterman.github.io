@@ -9,38 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:55 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 11:32 AM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Top U.S. Officials Expected in Kyiv as Fight Rages in East</a> NYT: Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III would be the highest-ranking American officials to visit Ukraine since Russia invaded. 
+ <p class="updated_time"> 11:19 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">Live Updates: Voting Underway as France Chooses Between Macron and Le Pen</a> NYT: Turnout, which could be key in determining the French presidential election, was 26.41 percent at noon on Sunday, according to the Interior Ministry, slightly higher than at the same time for the first round two weeks ago. 
+ <p class="updated_time"> 11:05 AM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/2022/04/24/world/europe/mother-baby-odesa-missile-attack.html">Mother and Baby Among Those Killed in Odesa Attack</a> NYT: The family had moved from their apartment to a relative’s home to try to escape the Russian attacks. 
  <p class="updated_time"> 10:54 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/france-election-voters-le-pen.html">Some Voters in a Wealthy Paris Suburb Consider Backing Le Pen</a> NYT: In Neuilly-sur-Seine, an upscale city west of Paris, Marine Le Pen may gain the votes of those who had supported Éric Zemmour. 
  <p class="updated_time"> 10:54 AM CT, Apr. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61207441?at_medium=RSS&at_campaign=KARANGA">Nigeria oil blast: Nation in trauma after illegal refinery deaths - president</a> BBC: President Buhari calls the deaths of more than 100 people in an explosion "a national disaster". 
+ <a href="https://www.bbc.co.uk/news/world-africa-61207441?at_medium=RSS&at_campaign=KARANGA">Nigeria oil blast: Nation in trauma after refinery deaths - President Buhari</a> BBC: President Buhari calls the deaths of more than 100 people in an explosion "a national disaster". 
  <p class="updated_time"> 10:44 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/france-election-runoff-le-pen-macron.html">Inside Le Pen Territory as France Votes in a Runoff Election</a> NYT: Whatever happens in the runoff election on Sunday, France has changed, and the winner may face a turbulent season. 
  <p class="updated_time"> 10:44 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/france-muslims-presidential-vote.html">Who Will France’s Muslims Choose for President?</a> NYT: French Muslims face a decision between Emmanuel Macron, whose presidency some of them view as harmful, and Marine Le Pen, whose far-right party has a history of anti-Muslim positions. 
- <p class="updated_time"> 10:43 AM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Top U.S. Officials Expected in Kyiv as Fight Rages in East</a> NYT: Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III would be the highest-ranking American officials to visit Ukraine since Russia invaded. 
- <p class="updated_time"> 10:15 AM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/2022/04/24/world/europe/mother-baby-odesa-missile-attack.html">Mother and Baby Among Those Killed in Odesa Attack</a> NYT: The family had moved from their apartment to a relative’s home to try to escape the Russian attacks. 
- <p class="updated_time"> 10:01 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 10:35 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278">Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials</a> WSJ: Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials 
  <p class="updated_time"> 09:43 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/marine-le-pen-france-election.html">Marine Le Pen’s Message Finds a Strong Audience in the North</a> NYT: The far-right candidate, Marine Le Pen, has focused on kitchen-table issues, crime and immigration. 
- <p class="updated_time"> 09:01 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 09:35 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/livecoverage/french-election-2022-macron-le-pen">Macron and Le Pen Face Off in French Election</a> WSJ: Macron and Le Pen Face Off in French Election 
- <p class="updated_time"> 08:01 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 08:35 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/saudi-royals-are-selling-homes-yachts-and-art-as-crown-prince-cuts-income-11650792780">Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income</a> WSJ: Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income 
  <p class="updated_time"> 07:41 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/24/1093992912/the-pandemic-inspired-a-cartoonist-to-explore-their-wuhanese-roots-and-queer-ide">The pandemic inspired a cartoonist to explore their Wuhanese roots and queer identity</a> NPR: In the funny and heartfelt coming-of-age graphic memoir 'Messy Roots,' artist Laura Gao unpacks their relationship with their Asianness, queerness and their ever-changing home city of Wuhan. 
  <p class="updated_time"> 07:40 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61209550?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Celebrating Easter in the trenches outside Kyiv</a> BBC: Russian forces have moved away from Ukraine's capital, but those defending the city remain. 
- <p class="updated_time"> 07:01 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 07:35 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/covid-19-cases-surge-in-beijing-as-deaths-triple-in-shanghai-11650788552">Covid-19 Cases Surge in Beijing as New Deaths Triple in Shanghai</a> WSJ: Covid-19 Cases Surge in Beijing as New Deaths Triple in Shanghai 
  <p class="updated_time"> 06:48 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094538850/ukraine-says-russia-is-dropping-internationally-banned-cluster-munitions">Ukraine says Russia is dropping internationally banned cluster munitions </a> NPR: Ukrainian forces are struggling to neutralize bombs that scatter over a wide area and are internationally banned, known as "cluster munitions." 
  <p class="updated_time"> 06:40 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094538554/finding-joy-on-easter-sunday-in-ukraine">Finding joy on Easter Sunday in Ukraine</a> NPR: Ukrainian women marked Orthodox Easter by preparing special bread for troops defending Mykolaiv from the advancing Russian army. 
+ <p class="updated_time"> 06:35 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/israel-closes-gaza-border-in-effort-to-pressure-hamas-to-halt-rocket-attacks-11650808823">Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks</a> WSJ: Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks 
  <p class="updated_time"> 06:34 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094538498/how-the-war-in-ukraine-affects-the-environment">How the war in Ukraine affects the environment</a> NPR: NPR's Ayesha Rascoe speaks with Carroll Muffett of the Center for International Environmental Law about the environmental effects of the war in Ukraine. 
  <p class="updated_time"> 06:31 AM CT, Apr. 24 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/24/1094538340/what-is-russias-place-on-the-u-n-security-council">What is Russia's place on the U.N. Security Council?</a> NPR: NPR's Ayesha Rascoe talks with Richard Gowan of the International Crisis Group about Russia's place on the U.N. Security Council. 
  <p class="updated_time"> 06:25 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094538302/ukraine-president-says-he-will-meet-with-u-s-secretaries-of-state-and-defense">Ukraine President says he will meet with U.S. Secretaries of State and Defense</a> NPR: Ukrainian President Volodymyr Zelenskyy spoke at a press conference about the ongoing Russian assault on his country and announced a visit by U.S. officials. 
- <p class="updated_time"> 06:01 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/israel-closes-gaza-border-in-effort-to-pressure-hamas-to-halt-rocket-attacks-11650808823">Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks</a> WSJ: Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks 
  <p class="updated_time"> 04:11 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094535890/explosion-at-illegal-oil-refinery-in-nigeria-kills-over-50">Explosion at illegal oil refinery in Nigeria kills over 50</a> NPR: More than 50 people were killed and many injured when an explosion rocked an illegal oil refinery in southeastern Nigeria, state officials and police said Saturday. 
  <p class="updated_time"> 04:09 AM CT, Apr. 24 </p> 
@@ -61,6 +61,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/24/world/asia/japan-boat-sinks.html">At Least 10 Dead After Tour Boat Sinks in Japan</a> NYT: Sixteen people were still missing, more than 24 hours after the sightseeing vessel was lost off the coast of Hokkaido island. 
  <p class="updated_time"> 03:58 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094534876/ukrainian-steel-plant-bombed-zelenskyy-to-meet-us-officials">Ukrainian steel plant bombed; Zelenskyy to meet US officials</a> NPR: Russian forces called in airstrikes on a besieged steel factory in the southern city of Mariupol, while President Volodymyr Zelenskyy said he would meet in Kyiv with two top American officials. 
+ <p class="updated_time"> 03:54 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/yoon-suk-yeol-south-koreas-prosecutor-turned-president-wants-a-world-that-follows-the-rules-11650804848">Yoon Suk-yeol, South Korea's Prosecutor-Turned-President, Wants a World That Follows the Rules</a> WSJ: The president-elect takes office at a time of significant friction between Washington, a longtime military ally, and Beijing, the country’s largest trading partner, and will have to contend with a North Korea that has embarked on a new round of weapons tests. 
  <p class="updated_time"> 01:38 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094532512/french-election-macron-le-pen">France votes in tense presidential runoff between Emmanuel Macron and Marine Le Pen</a> NPR: France began voting in a presidential runoff election Sunday in a race between Macron, the incumbent president, and far-right politician Le Pen. 
  <p class="updated_time"> 12:51 AM CT, Apr. 24 </p> 
@@ -204,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:23 AM CT, Apr. 24 </p> 
+ <a href="https://www.politico.com/news/2022/04/24/putin-invade-moldova-ukraine-00027380">U.S., Ukrainian officials weigh ‘high possibility’ of Putin invading Moldova</a> Politico: Ukrainian President Volodymyr Zelenskyy has warned that Russia’s assault on Ukraine “was intended only as a beginning.” 
  <p class="updated_time"> 09:44 AM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/mccaul-mccarthy-audio-controversy-trump-00027372">‘Kevin is in very good shape’: House Republican shrugs off McCarthy audio controversy</a> Politico: “President Trump said yesterday that he fully supports Kevin McCarthy for speaker, as do I,” said Rep. Michael McCaul. 
  <p class="updated_time"> 09:14 AM CT, Apr. 24 </p> 
@@ -302,8 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094390341/what-this-sundays-election-means-for-the-future-of-france">What this Sunday's election means for the future of France</a> NPR: NPR's Daniel Estrin talks with Sylvie Kauffmann, editorial director at Le Monde, about what France's election means for the future of the country. 
  <p class="updated_time"> 03:29 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094390276/florida-is-ending-disneys-special-tax-district-heres-what-comes-next">Florida is ending Disney's special tax district. Here's what comes next</a> NPR: NPR's Ari Shapiro talks to reporter Nick Papantonis of WFTV about the effect that revoking Disney's special tax district will have on local taxpayers. 
- <p class="updated_time"> 12:59 PM CT, Apr. 22 </p> 
- <a href="https://www.politico.com/news/2022/04/22/florida-quickly-sued-over-new-map-that-gives-big-wins-to-republicans-00027203">DeSantis signs new congressional map into law as groups sue over redistricting</a> Politico: The suit was filed less than 24 hours after the GOP-controlled Legislature passed the bill as Black Democrats were loudly protesting on the House floor. 
  <p class="updated_time"> 08:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/theater/potus-selina-fillinger-broadway.html">The ‘POTUS’ Playwright Is Making a Farce of the Patriarchy </a> NYT: “POTUS” will be the writer Selina Fillinger’s Broadway debut. “I really didn’t feel like I needed to do any research. I have been all of those women,” she said. 
  <p class="updated_time"> 03:30 AM CT, Apr. 22 </p> 
