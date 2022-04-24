@@ -9,30 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:38 AM CT, Apr. 24 </p> 
+ <a href="https://www.npr.org/2022/04/24/1094532512/voting-opens-in-france-runoff-between-macron-and-le-pen">Voting opens in France runoff between Macron and Le Pen</a> NPR: France began voting in a presidential runoff election Sunday in a race between between incumbent Emmanuel Macron and far-right politician Marine Le Pen. 
  <p class="updated_time"> 01:12 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61204543?at_medium=RSS&at_campaign=KARANGA">French vote as Macron aims to beat far-right Le Pen</a> BBC: After a divisive campaign, Marine Le Pen faces an uphill battle to defeat sitting President Macron. 
  <p class="updated_time"> 12:51 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61204407?at_medium=RSS&at_campaign=KARANGA">The sirens alerting Ukrainians to the danger of Russia air strikes</a> BBC: The BBC's Dan Johnson looks at how Lviv's sirens alert people to possible Russia air strikes. 
- <p class="updated_time"> 12:25 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 12:49 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says</a> WSJ: Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says 
  <p class="updated_time"> 12:03 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">What Happened on Day 59 of the War in Ukraine</a> NYT: The American secretaries of state and defense will make a trip to the embattled Ukrainian capital, President Volodymyr Zelensky said. Russian missiles killed at least eight people in a residential area of Odesa. 
- <p class="updated_time"> 11:25 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 11:49 PM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
  <p class="updated_time"> 11:14 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/ukraine-poland-refugees.html">Warsaw’s Welcome Mat Risks Fraying Under Strain of a New Refugee Surge</a> NYT: Warsaw gladly and proudly accepted 300,000 Ukrainians fleeing the war. But as the Polish capital braces for a new wave of refugees, its mayor warns that the city is “at capacity.” 
- <p class="updated_time"> 10:25 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 10:49 PM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
+ <p class="updated_time"> 09:49 PM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
  <p class="updated_time"> 09:36 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/moldova-ukraine-russia.html">Rattled by Ukraine War, Moldova Strives to Dodge Russia’s Long Shadow</a> NYT: Moldova’s destiny has been intertwined uncomfortably with Russia’s for years, and the Ukraine invasion has accelerated its efforts to break free from Moscow. 
- <p class="updated_time"> 09:25 PM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
  <p class="updated_time"> 08:57 PM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61202599?at_medium=RSS&at_campaign=KARANGA">Tourist boat missing off Japanese coast</a> BBC: Four of the 26 people on board are found by rescuers after the vessel sent out a distress signal. 
  <p class="updated_time"> 08:49 PM CT, Apr. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61205687?at_medium=RSS&at_campaign=KARANGA">Rio carnival: Brazil holds first Rio de Janeiro carnival since Covid</a> BBC: Parades fill the streets of Brazil's Rio de Janeiro for the first carnival since the pandemic began. 
- <p class="updated_time"> 08:25 PM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
+ <p class="updated_time"> 08:49 PM CT, Apr. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61205687?at_medium=RSS&at_campaign=KARANGA">Rio carnival: Brazil holds first Rio de Janeiro carnival since Covid</a> BBC: Parades fill the streets of Brazil's Rio de Janeiro for the first carnival since the pandemic began. 
  <p class="updated_time"> 07:36 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/asia/tour-boat-missing-japan-hokkaido.html">26 Missing From Japanese Tour Boat After Distress Call off Hokkaido</a> NYT: The sightseeing vessel was on a three-hour round trip tour to the tip of Cape Shiretoko. The Japan Coast Guard had dispatched rescue boats and aircraft to the area near the Kashuni Falls. 
  <p class="updated_time"> 07:05 PM CT, Apr. 23 </p> 
@@ -62,7 +64,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:29 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/climate/climate-change-rally-white-house.html">Climate Activists Rally at the White House to Demand Action</a> NYT: In Washington, D.C., as well as Phoenix, Atlanta and scores of other cities across the country, demonstrators called on the government to enact bold climate action. 
  <p class="updated_time"> 02:09 PM CT, Apr. 23 </p> 
- <a href="https://www.npr.org/2022/04/23/1094500394/japan-missing-tour-boat-26-people">4 people from missing tour boat in northern Japan have been found</a> NPR: The vessel sent a distress call that it was sinking, the coast guard said. After 19 hours of intense search, four of the 26 who went missing have been found but their condition is unknown. 
+ <a href="https://www.npr.org/2022/04/23/1094500394/japan-missing-tour-boat-26-people">Rescue operation for missing tour boat in Japan intensifies</a> NPR: The Japanese Coast Guard said Sunday that rescue helicopters found nine of the 26 people from a tour boat missing in the waters of northern Japan since the day before. 
  <p class="updated_time"> 01:45 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/health/covid-vaccines-world-africa.html">The Drive to Vaccinate the World Against Covid Is Losing Steam</a> NYT: Rates are stalling in most low-income countries well short of the W.H.O.’s goal to immunize 70 percent of people in every nation. Some public health experts believe the momentum is gone forever. 
  <p class="updated_time"> 01:29 PM CT, Apr. 23 </p> 
@@ -117,8 +119,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094257492/russia-ukraine-war-what-happened-today-april-22">Russia-Ukraine war: What happened today (April 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:49 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/ukraine-front-line-zaporizhzhya.html">Ukraine’s Forces, Dug In on Front Line, Fight to Repel Russia</a> NYT: After near-annihilation, and a marriage proposal, a Ukrainian unit has become a group of hardened veterans, dug in and determined. 
- <p class="updated_time"> 03:40 PM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1094390305/macron-is-beating-le-pen-in-frances-polls-but-not-by-as-much-as-5-years-ago">Macron is beating Le Pen in France's polls — but not by as much as 5 years ago</a> NPR: French voters cast their ballots Sunday. Polls show incumbent president Emmanuel Macron ahead of his rival, populist candidate Marine Le Pen. 
  <p class="updated_time"> 03:21 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/africa/mwai-kibaki-kenya-dead.html">Mwai Kibaki, Former President of Kenya, Dies at 90</a> NYT: He came to power promising to root out corruption and improve government transparency. But his tenure was blighted by widespread graft and a violent upheaval. 
  <p class="updated_time"> 03:00 PM CT, Apr. 22 </p> 
