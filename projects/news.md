@@ -9,36 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:55 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 04:24 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">French Election Live Updates: Gloves Come Off as Voters Pick Macron or Le Pen</a> NYT: Emmanuel Macron easily defeated the far-right leader Marine Le Pen in the 2017 battle for president, but the race this time around is expected to be much tighter. 
+ <p class="updated_time"> 04:11 AM CT, Apr. 24 </p> 
+ <a href="https://www.npr.org/2022/04/24/1094535890/explosion-at-illegal-oil-refinery-in-nigeria-kills-over-50">Explosion at illegal oil refinery in Nigeria kills over 50</a> NPR: More than 50 people were killed and many injured when an explosion rocked an illegal oil refinery in southeastern Nigeria, state officials and police said Saturday. 
+ <p class="updated_time"> 04:09 AM CT, Apr. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61202599?at_medium=RSS&at_campaign=KARANGA">Japan: Ten confirmed dead from missing tourist boat</a> BBC: The search continues in frigid waters off the Hokkaido island for 16 others who were on board. 
+ <p class="updated_time"> 04:09 AM CT, Apr. 24 </p> 
+ <a href="https://www.npr.org/2022/04/24/1094535365/ukraine-marks-orthodox-easter-with-prayers-for-those-trapped">Ukraine marks Orthodox Easter with prayers for those trapped</a> NPR: The sun came out as Ukrainians marked Orthodox Easter in the capital, Kyiv, on Sunday with prayers for those fighting on the front lines and others trapped beyond them. 
+ <p class="updated_time"> 04:08 AM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/2022/04/24/world/asia/japan-boat-sinks.html">At Least 10 Dead After Tour Boat Sinks in Japan</a> NYT: Sixteen people were still missing, more than 24 hours after the sightseeing vessel was lost off the coast of Hokkaido island. 
+ <p class="updated_time"> 04:03 AM CT, Apr. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61207441?at_medium=RSS&at_campaign=KARANGA">Nigeria oil blast: Dozens die after explosion at illegal refinery</a> BBC: Bodies were burnt beyond recognition after the explosion at a hazardous site in Imo state. 
+ <p class="updated_time"> 03:58 AM CT, Apr. 24 </p> 
+ <a href="https://www.npr.org/2022/04/24/1094534876/ukrainian-steel-plant-bombed-zelenskyy-to-meet-us-officials">Ukrainian steel plant bombed; Zelenskyy to meet US officials</a> NPR: Russian forces called in airstrikes on a besieged steel factory in the southern city of Mariupol, while President Volodymyr Zelenskyy said he would meet in Kyiv with two top American officials. 
  <p class="updated_time"> 03:48 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Zelensky Strikes Optimistic Note on Eve of High-Level U.S. Visit</a> NYT: President Volodymyr Zelensky said Ukraine was finally getting the weapons it needed to repel Russian forces. He said he would meet with the U.S. secretaries of state and defense in Kyiv on Sunday. 
- <p class="updated_time"> 03:31 AM CT, Apr. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61207441?at_medium=RSS&at_campaign=KARANGA">Nigeria oil blast: Dozens die after explosion at illegal refinery</a> BBC: Bodies were burnt beyond recognition after the explosion at a hazardous site in Imo state. 
- <p class="updated_time"> 03:00 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 03:25 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says</a> WSJ: Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says 
  <p class="updated_time"> 02:30 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61204543?at_medium=RSS&at_campaign=KARANGA">French vote as Macron aims to beat far-right Le Pen</a> BBC: After a divisive campaign, Marine Le Pen faces an uphill battle to defeat sitting President Macron. 
+ <p class="updated_time"> 02:25 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
  <p class="updated_time"> 02:05 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/france-election-runoff-le-pen-macron.html">Inside Le Pen Territory as France Votes in a Runoff Election</a> NYT: Whatever happens in the runoff election on Sunday, France has changed, and the winner may face a turbulent season. 
- <p class="updated_time"> 02:00 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
  <p class="updated_time"> 01:38 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094532512/voting-opens-in-france-runoff-between-macron-and-le-pen">Voting opens in France runoff between Macron and Le Pen</a> NPR: France began voting in a presidential runoff election Sunday in a race between between incumbent Emmanuel Macron and far-right politician Marine Le Pen. 
- <p class="updated_time"> 01:00 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 01:25 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
  <p class="updated_time"> 12:51 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61204407?at_medium=RSS&at_campaign=KARANGA">The sirens alerting Ukrainians to the danger of Russia air strikes</a> BBC: The BBC's Dan Johnson looks at how Lviv's sirens alert people to possible Russia air strikes. 
- <p class="updated_time"> 12:00 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 12:25 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
+ <p class="updated_time"> 11:25 PM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
  <p class="updated_time"> 11:14 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/ukraine-poland-refugees.html">Warsaw’s Welcome Mat Risks Fraying Under Strain of a New Refugee Surge</a> NYT: Warsaw gladly and proudly accepted 300,000 Ukrainians fleeing the war. But as the Polish capital braces for a new wave of refugees, its mayor warns that the city is “at capacity.” 
- <p class="updated_time"> 11:00 PM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
  <p class="updated_time"> 09:36 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/moldova-ukraine-russia.html">Rattled by Ukraine War, Moldova Strives to Dodge Russia’s Long Shadow</a> NYT: Moldova’s destiny has been intertwined uncomfortably with Russia’s for years, and the Ukraine invasion has accelerated its efforts to break free from Moscow. 
- <p class="updated_time"> 08:57 PM CT, Apr. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61202599?at_medium=RSS&at_campaign=KARANGA">Tourist boat missing off Japanese coast</a> BBC: Four of the 26 people on board are found by rescuers after the vessel sent out a distress signal. 
  <p class="updated_time"> 08:49 PM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61205687?at_medium=RSS&at_campaign=KARANGA">Rio carnival: Brazil holds first Rio de Janeiro carnival since Covid</a> BBC: Parades fill the streets of Brazil's Rio de Janeiro for the first carnival since the pandemic began. 
  <p class="updated_time"> 07:36 PM CT, Apr. 23 </p> 
@@ -101,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/23/world/canada/nhl-stanley-cup-leafs-penguins-crosby.html">Canada’s Stanley Cup Hopes Rest on Leafs, Flames, Oilers</a> NYT: The N.H.L. playoffs are a beloved routine of Canadian springtime that can make fans as crazy as the season’s mercurial weather. 
  <p class="updated_time"> 04:31 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/france-muslims-presidential-vote.html">Who Will France’s Muslims Choose for President?</a> NYT: French Muslims face a decision between Emmanuel Macron, whose presidency some of them view as harmful, and Marine Le Pen, whose far-right party has a history of anti-Muslim positions. 
- <p class="updated_time"> 04:00 AM CT, Apr. 23 </p> 
- <a href="https://www.npr.org/2022/04/23/1094239527/orthodox-easter-will-be-very-different-this-year-for-thousands-of-ukrainian-refu">Orthodox Easter will be very different this year for thousands of Ukrainian refugees</a> NPR: This weekend would normally be a celebratory one for Ukrainians. But Easter Sunday marks two months since the latest Russian invasion. More than 40,000 refugees have found themselves in Bulgaria. 
  <p class="updated_time"> 02:48 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/european-union-social-media-law.html">E.U. Takes Aim at Social Media’s Harms With Landmark New Law</a> NYT: The Digital Services Act would force Meta, Google and others to combat misinformation and restrict certain online ads. How European officials will wield it remains to be seen. 
  <p class="updated_time"> 12:30 AM CT, Apr. 23 </p> 
@@ -115,12 +121,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/22/world/skepticism-greets-a-bold-russian-claim-about-war-aims-based-on-its-source.html">Russian General Says Kremlin Aims to Seize Southern Ukraine</a> NYT: A major shift in policy came from an obscure general and not the president or top commander. 
  <p class="updated_time"> 05:43 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/middleeast/israel-palestinians-aqsa-temple-mount.html">A Site Holy to Jews and Muslims Returns as the Nexus of Conflict</a> NYT: The skirmishes between Palestinians and Israeli police at the Aqsa Mosque, known to Jews as Temple Mount, are laden with national and religious symbolism. 
- <p class="updated_time"> 05:20 PM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/04/22/1094271807/photos-russia-invasion-ukraine-military-mala-rohan-kharkiv">Photos: Russian forces were driven out of this village outside Kharkiv, Ukraine</a> NPR: Last month, Ukrainian forces pushed the Russians out of the village of Mala Rohan. NPR goes inside the warehouse Russia had used as temporary barracks. 
  <p class="updated_time"> 04:45 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/hackers-russia-cyberattacks.html">Hackers Claim to Target Russia With Cyberattacks and Leaks</a> NYT: While the authenticity of leaked data could not be verified, the effort appears to be part of a campaign by hackers opposed to the Kremlin. 
- <p class="updated_time"> 03:58 PM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1094257492/russia-ukraine-war-what-happened-today-april-22">Russia-Ukraine war: What happened today (April 22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:49 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/ukraine-front-line-zaporizhzhya.html">Ukraine’s Forces, Dug In on Front Line, Fight to Repel Russia</a> NYT: After near-annihilation, and a marriage proposal, a Ukrainian unit has become a group of hardened veterans, dug in and determined. 
  <p class="updated_time"> 03:21 PM CT, Apr. 22 </p> 
@@ -200,6 +202,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Apr. 24 </p> 
+ <a href="https://www.npr.org/sections/health-shots/2022/04/24/1089786147/covid-conspiracy-theories">Their mom died of COVID. They say conspiracy theories are what really killed her</a> NPR: Stephanie was usually careful about her health and regular vaccinations. But then she got into sharing far-out videos and fringe ideas. When COVID hit, misinformation put her and her husband at risk. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 24 </p> 
+ <a href="https://www.npr.org/2022/04/24/1094070784/title-42-policy-meaning">What to know about Title 42, the Trump-era policy now central to the border debate</a> NPR: A decades-old public health order is back in the spotlight as it's set to expire next month — a move that is long-overdue for immigration advocates. Here are some Title 42 basics, and some history. 
  <p class="updated_time"> 02:00 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/us/politics/christopher-rufo-crt-lgbtq-florida.html">Christopher Rufo Fuels the Right’s Cultural Fires in Florida</a> NYT: Christopher Rufo helped make critical race theory a conservative rallying cry. Now he sees L.G.B.T.Q. issues as an even more potent line of attack. 
  <p class="updated_time"> 01:54 AM CT, Apr. 24 </p> 
@@ -243,9 +249,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:36 PM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/gop-lawmakers-deeply-involved-in-trump-plans-to-overturn-election-new-evidence-suggests-00027340">GOP lawmakers were deeply involved in Trump plans to overturn election, new evidence suggests</a> Politico: Deposition excerpts filed by the Jan 6. select committee underscore the expansive cast of elected Republicans who had enlisted themselves in Trump’s effort to cling to power. 
  <p class="updated_time"> 08:52 PM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/us/politics/mccarthy-trump-republicans.html">McCarthy’s Lie Puts G.O.P. Hypocrisy on Trump on Display</a> NYT: The Republican leader’s false claim that he never urged President Donald J. Trump to resign — disproved by an audio recording of the comments — drew little outrage from members of his party. 
+ <a href="https://www.nytimes.com/2022/04/22/us/politics/mccarthy-trump-republicans.html">How Audio of McCarthy’s Lie Reveals GOP Hypocrisy on Trump</a> NYT: The Republican leader’s false claim that he never urged President Donald J. Trump to resign — disproved by an audio recording of the comments — drew little outrage from members of his party. 
  <p class="updated_time"> 08:38 PM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/us/politics/mccarthy-trump-jan-6-recording.html">McCarthy Said Trump Acknowledged ‘Some Responsibility’ for Jan. 6</a> NYT: New audio captures what Representative Kevin McCarthy said to Republicans shortly after the Jan. 6 attack on the Capitol. 
+ <a href="https://www.nytimes.com/2022/04/22/us/politics/mccarthy-trump-jan-6-recording.html">New Audio: McCarthy Said Trump Acknowledged ‘Some Responsibility’ for Jan. 6 </a> NYT: New audio captures what Representative Kevin McCarthy said to Republicans shortly after the Jan. 6 attack on the Capitol. 
  <p class="updated_time"> 07:22 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html">As Europe Approves New Tech Laws, the U.S. Falls Further Behind</a> NYT: Federal privacy bills, security legislation and antitrust laws to address the power of the tech giants have all failed to advance in Congress, despite hand wringing and shows of bipartisan support. 
  <p class="updated_time"> 07:12 PM CT, Apr. 22 </p> 
@@ -280,12 +286,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094390228/newly-released-audio-reveals-that-kevin-mccarthy-supported-ousting-trump-after-j">Newly-released audio reveals that Kevin McCarthy supported ousting Trump after Jan. 6</a> NPR: House GOP minority leader Kevin McCarthy was recorded in January saying he'd advise then-President Trump to resign after Jan. 6. It raises questions about his future and relationship with Trump. 
  <p class="updated_time"> 03:04 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094324215/how-kentucky-republicans-blocked-all-abortions-for-more-than-a-week">How Kentucky Republicans blocked all abortions for more than a week</a> NPR: Even without a Supreme Court ruling, a new Kentucky law shut down abortions for several days before a federal court stepped in. Abortion rights groups fear it's just the beginning. 
- <p class="updated_time"> 01:31 PM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1094316591/disney-world-desantis-florida-counties-taxes">DeSantis wanted to punish Disney. Repealing its tax status may hurt taxpayers instead</a> NPR: Orange and Osceola counties could take on a massive debt held by Disney now that Gov. Ron DeSantis has signed a bill revoking Disney World's special regulatory status. 
  <p class="updated_time"> 12:59 PM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/florida-quickly-sued-over-new-map-that-gives-big-wins-to-republicans-00027203">DeSantis signs new congressional map into law as groups sue over redistricting</a> Politico: The suit was filed less than 24 hours after the GOP-controlled Legislature passed the bill as Black Democrats were loudly protesting on the House floor. 
- <p class="updated_time"> 12:29 PM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1093550060/this-weekends-michigan-gop-convention-marks-a-key-moment-for-election-denialism">This weekend's Michigan GOP convention marks a key moment for election denialism</a> NPR: Republicans in Michigan will decide whether to nominate candidates for secretary of state and state attorney general who believe the 2020 election was stolen. 
  <p class="updated_time"> 12:21 PM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/chippendales-lobbying-covid-relief-00027202">The Chippendales are stripping down and lobbying up</a> Politico: The iconic male stripper group has hired a lobby shop for the first time. It wants pandemic relief. 
  <p class="updated_time"> 08:00 AM CT, Apr. 22 </p> 
