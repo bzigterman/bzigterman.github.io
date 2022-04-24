@@ -9,37 +9,37 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:48 PM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">Live Updates: Voting Underway as France Chooses Between Macron and Le Pen</a> NYT: A bruising gloves-off battle is coming to an end, and the outcome will have profound consequences. 
- <p class="updated_time"> 12:45 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 01:13 PM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">Live Updates: Macron Holds Off Far-Right Push in France</a> NYT: Early projections at the close of voting showed Emmanuel Macron triumphing over Marine Le Pen and her anti-NATO, anti-immigrant platform. 
+ <p class="updated_time"> 12:56 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Top U.S. Officials Expected in Kyiv as Fight Rages in East</a> NYT: Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III would be the highest-ranking American officials to visit Ukraine since Russia invaded. 
- <p class="updated_time"> 12:29 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 12:56 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/mother-baby-odesa-missile-attack.html">Mother and Baby Among Those Killed in Odesa Attack</a> NYT: The family had moved from their apartment to a relative’s home to try to escape the Russian attacks. 
+ <p class="updated_time"> 12:54 PM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/2022/04/24/world/asia/cold-war-ukraine.html">With Us or With Them? In a New Cold War, How About Neither.</a> NYT: Old geopolitical foes are facing off after Russia’s invasion of Ukraine, but much of the world is refusing to take sides. 
+ <p class="updated_time"> 12:18 PM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278">Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials</a> WSJ: Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials 
  <p class="updated_time"> 12:13 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/middleeast/00cairo-cemetery-city-of-dead.html">Demolishing City of the Dead Will Displace a Lively Quarter of Cairo</a> NYT: Cairo’s oldest cemetery is being razed, and thousands of families living amid the grand mausoleums face eviction. “You’re not at ease when you’re living. You’re not at ease even when you’re dead.” 
- <p class="updated_time"> 12:07 PM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/2022/04/24/world/asia/cold-war-ukraine.html">With Us or With Them? In a New Cold War, How About Neither.</a> NYT: Old geopolitical foes are facing off after Russia’s invasion of Ukraine, but much of the world is refusing to take sides. 
- <p class="updated_time"> 11:54 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278">Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials</a> WSJ: Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials 
  <p class="updated_time"> 11:27 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61209761?at_medium=RSS&at_campaign=KARANGA">Shanghai: Green fences baffle locked down residents</a> BBC: Two-metre barriers have appeared all over the city as officials battle to contain a Covid outbreak. 
+ <p class="updated_time"> 11:18 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/livecoverage/french-election-2022-macron-le-pen">Macron and Le Pen Face Off in French Election</a> WSJ: Macron and Le Pen Face Off in French Election 
  <p class="updated_time"> 10:54 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/france-election-voters-le-pen.html">Some Voters in a Wealthy Paris Suburb Consider Backing Le Pen</a> NYT: In Neuilly-sur-Seine, an upscale city west of Paris, Marine Le Pen may gain the votes of those who had supported Éric Zemmour. 
- <p class="updated_time"> 10:54 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/livecoverage/french-election-2022-macron-le-pen">Macron and Le Pen Face Off in French Election</a> WSJ: Macron and Le Pen Face Off in French Election 
  <p class="updated_time"> 10:54 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61207441?at_medium=RSS&at_campaign=KARANGA">Nigeria in trauma after Imo refinery deaths - President Buhari</a> BBC: President Buhari calls the deaths of more than 100 people in an explosion "a national disaster". 
  <p class="updated_time"> 10:44 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/france-election-runoff-le-pen-macron.html">Inside Le Pen Territory as France Votes in a Runoff Election</a> NYT: Whatever happens in the runoff election on Sunday, France has changed, and the winner may face a turbulent season. 
  <p class="updated_time"> 10:44 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/france-muslims-presidential-vote.html">Who Will France’s Muslims Choose for President?</a> NYT: French Muslims face a decision between Emmanuel Macron, whose presidency some of them view as harmful, and Marine Le Pen, whose far-right party has a history of anti-Muslim positions. 
- <p class="updated_time"> 09:54 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 10:18 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/saudi-royals-are-selling-homes-yachts-and-art-as-crown-prince-cuts-income-11650792780">Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income</a> WSJ: Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income 
  <p class="updated_time"> 09:43 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/marine-le-pen-france-election.html">Marine Le Pen’s Message Finds a Strong Audience in the North</a> NYT: The far-right candidate, Marine Le Pen, has focused on kitchen-table issues, crime and immigration. 
- <p class="updated_time"> 08:54 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 09:18 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/covid-19-cases-surge-in-beijing-as-deaths-triple-in-shanghai-11650788552">Covid-19 Cases Surge in Beijing as New Deaths Triple in Shanghai</a> WSJ: Covid-19 Cases Surge in Beijing as New Deaths Triple in Shanghai 
- <p class="updated_time"> 07:54 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 08:18 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/israel-closes-gaza-border-in-effort-to-pressure-hamas-to-halt-rocket-attacks-11650808823">Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks</a> WSJ: Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks 
  <p class="updated_time"> 07:41 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/24/1093992912/the-pandemic-inspired-a-cartoonist-to-explore-their-wuhanese-roots-and-queer-ide">The pandemic inspired a cartoonist to explore their Wuhanese roots and queer identity</a> NPR: In the funny and heartfelt coming-of-age graphic memoir 'Messy Roots,' artist Laura Gao unpacks their relationship with their Asianness, queerness and their ever-changing home city of Wuhan. 
@@ -56,7 +56,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:26 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094538340/what-is-russias-place-on-the-u-n-security-council">What is Russia's place on the U.N. Security Council?</a> NPR: NPR's Ayesha Rascoe talks with Richard Gowan of the International Crisis Group about Russia's place on the U.N. Security Council. 
  <p class="updated_time"> 06:25 AM CT, Apr. 24 </p> 
- <a href="https://www.npr.org/2022/04/24/1094538302/ukraine-president-says-he-will-meet-with-u-s-secretaries-of-state-and-defense">Ukraine President says he will meet with U.S. Secretaries of State and Defense</a> NPR: Ukrainian President Volodymyr Zelenskyy spoke at a press conference about the ongoing Russian assault on his country and announced a visit by U.S. officials. 
+ <a href="https://www.npr.org/2022/04/24/1094538302/ukraine-president-says-he-will-meet-with-u-s-secretaries-of-state-and-defense">Ukraine's president says he will meet with U.S. secretaries of state and defense</a> NPR: Ukrainian President Volodymyr Zelenskyy spoke at a press conference about the ongoing Russian assault on his country and announced a visit by U.S. officials. 
  <p class="updated_time"> 04:11 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094535890/explosion-at-illegal-oil-refinery-in-nigeria-kills-over-50">Explosion at illegal oil refinery in Nigeria kills over 50</a> NPR: More than 50 people were killed and many injured when an explosion rocked an illegal oil refinery in southeastern Nigeria, state officials and police said Saturday. 
  <p class="updated_time"> 04:09 AM CT, Apr. 24 </p> 
@@ -70,7 +70,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:54 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/yoon-suk-yeol-south-koreas-prosecutor-turned-president-wants-a-world-that-follows-the-rules-11650804848">Yoon Suk-yeol, South Korea's Prosecutor-Turned-President, Wants a World That Follows the Rules</a> WSJ: The president-elect takes office at a time of significant friction between Washington, a longtime military ally, and Beijing, the country’s largest trading partner, and will have to contend with a North Korea that has embarked on a new round of weapons tests. 
  <p class="updated_time"> 01:38 AM CT, Apr. 24 </p> 
- <a href="https://www.npr.org/2022/04/24/1094532512/french-election-macron-le-pen">France votes in tense presidential runoff between Emmanuel Macron and Marine Le Pen</a> NPR: France began voting in a presidential runoff election Sunday in a race between Macron, the incumbent president, and far-right politician Le Pen. 
+ <a href="https://www.npr.org/2022/04/24/1094532512/french-election-macron-le-pen">President Emmanuel Macron is projected to beat far-right rival Marine Le Pen</a> NPR: The French election was a tight race that was overshadowed by the war in Ukraine and saw a surge in support for extremist ideas. 
  <p class="updated_time"> 12:51 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61204407?at_medium=RSS&at_campaign=KARANGA">The sirens alerting Ukrainians to the danger of Russia air strikes</a> BBC: The BBC's Dan Johnson looks at how Lviv's sirens alert people to possible Russia air strikes. 
  <p class="updated_time"> 12:51 AM CT, Apr. 24 </p> 
@@ -179,8 +179,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/22/world/australia/tourists-return-australia-new-zealand.html">When Will the Tourists Be Back?</a> NYT: An industry weathering a long winter looks warily ahead. 
  <p class="updated_time"> 09:56 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/asia/south-korea-gay-sex-military.html">S​outh Korea’s Supreme Court ​Issues Landmark Ruling on Gay Sex</a> NYT: ​The court said that the military should not punish consensual sex acts that had taken place in a nonmilitary setting. 
- <p class="updated_time"> 09:56 PM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/world/europe/uruena-spain-book-hub.html">This Spanish Village Has More Booksellers Than School Pupils</a> NYT: Urueña, in northwestern Spain, has fought depopulation by reinventing itself as a literary hub. The full-time population is still just 100, but there are 11 shops selling books. 
  <p class="updated_time"> 09:48 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/putin-mariupol-steel-plant.html">Putin Claims Victory in Mariupol, Calling Off Steel Plant Assault</a> NYT: With casualties mounting and progress slow in his war on Ukraine, Vladimir V. Putin is eager to present it to the Russian people as a success. 
  <p class="updated_time"> 09:06 PM CT, Apr. 21 </p> 
@@ -197,10 +195,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/world/europe/mikhail-vasenkov-dead.html">Mikhail Vasenkov Dies at 79; His Spy Ring Inspired ‘The Americans’</a> NYT: He and his wife were among 10 Soviet sleeper agents who blended into American society before being exposed and deported in 2010. The TV series sprung from the episode. 
  <p class="updated_time"> 02:15 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/world/europe/biden-ukraine-aid.html">Biden Announces $800 Million in Military Aid and Questions Russia’s Hold of Mariupol</a> NYT: President Biden said President Vladimir V. Putin of Russia would “never succeed in dominating” Ukraine. 
- <p class="updated_time"> 01:16 PM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/us/politics/us-vaccine-international-land-borders.html">U.S. Is Extending a Vaccine Rule for International Travelers at Land Borders</a> NYT: Unlike air travelers entering the United States, land and ferry travelers will still not have to show a recent negative coronavirus test to cross the border. 
- <p class="updated_time"> 01:04 PM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/world/asia/afghanistan-mosque-bombing.html">Explosion at Afghan Mosque Kills at Least 10</a> NYT: The blast in Mazar-i-Sharif, one of Afghanistan’s economic hubs, was the latest in a series of attacks on one of its religious minorities and was claimed by an ISIS affiliate. 
 
 
 </details>
