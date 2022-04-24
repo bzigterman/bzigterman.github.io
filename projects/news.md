@@ -9,16 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:53 PM CT, Apr. 23 </p> 
+ <p class="updated_time"> 09:36 PM CT, Apr. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: Zelensky Says U.S. Officials to Visit Kyiv and Expresses Confidence on Fight in East</a> NYT: The American secretaries of state and defense will make a trip to the embattled Ukrainian capital, President Volodymyr Zelensky said. Russian missiles killed at least eight people in a residential area of Odesa. 
+ <p class="updated_time"> 09:36 PM CT, Apr. 23 </p> 
+ <a href="https://www.nytimes.com/2022/04/23/world/europe/moldova-ukraine-russia.html">Rattled by Ukraine War, Moldova Strives to Dodge Russia’s Long Shadow</a> NYT: Moldova’s destiny has been intertwined uncomfortably with Russia’s for years, and the Ukraine invasion has accelerated its efforts to break free from Moscow. 
+ <p class="updated_time"> 08:57 PM CT, Apr. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61202599?at_medium=RSS&at_campaign=KARANGA">Tourist boat missing off Japanese coast</a> BBC: Four of the 26 people on board are found by rescuers after the vessel sent out a distress signal. 
+ <p class="updated_time"> 08:52 PM CT, Apr. 23 </p> 
  <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Blinken, Austin to Visit Ukraine, Zelensky Says</a> WSJ: Blinken, Austin to Visit Ukraine, Zelensky Says 
+ <p class="updated_time"> 07:52 PM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
  <p class="updated_time"> 07:36 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/asia/tour-boat-missing-japan-hokkaido.html">26 Missing From Japanese Tour Boat After Distress Call off Hokkaido</a> NYT: The sightseeing vessel was on a three-hour round trip tour to the tip of Cape Shiretoko. The Japan Coast Guard had dispatched rescue boats and aircraft to the area near the Kashuni Falls. 
  <p class="updated_time"> 07:05 PM CT, Apr. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/04/23/world/ukraine-russia-war-news">Live Updates: Zelensky Says U.S. Officials to Visit Kyiv and Expresses Confidence on Fight in East</a> NYT: The American secretaries of state and defense will make a trip to the embattled Ukrainian capital, President Volodymyr Zelensky said. Russian missiles killed at least eight people in a residential area of Odesa. 
- <p class="updated_time"> 07:05 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/zelensky-donbas-ukraine-russia.html">As Western Arms Pour Into Ukraine, Zelensky Promises Victory</a> NYT: “The day when they will be forced to leave Ukraine is approaching,” the Ukrainian president said of the Russians, in a sharp change of tone. 
- <p class="updated_time"> 06:53 PM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
+ <p class="updated_time"> 06:52 PM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
  <p class="updated_time"> 06:45 PM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61105532?at_medium=RSS&at_campaign=KARANGA">Rwanda genocide: 'I forgave my husband's killer - our children married'</a> BBC: The love story of a couple is being used to reconcile Rwandans 28 years after the genocide. 
  <p class="updated_time"> 06:39 PM CT, Apr. 23 </p> 
@@ -33,16 +39,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61162562?at_medium=RSS&at_campaign=KARANGA">Colombia election: How TikTok is defining the presidential race</a> BBC: The social media platform has become a battleground as candidates reach out to young voters. 
  <p class="updated_time"> 06:00 PM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61188529?at_medium=RSS&at_campaign=KARANGA">Puducherry prison uses dance therapy to rehabilitate inmates</a> BBC: A prison in India's Puducherry is using dance therapy to help convicts deal with stress. 
- <p class="updated_time"> 05:53 PM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
+ <p class="updated_time"> 05:52 PM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
  <p class="updated_time"> 05:30 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/missile-strikes-odesa-ukraine.html">Missile Strikes Hit Odesa, Killing at Least Eight, Officials Say</a> NYT: The local authorities said at least 18 people were wounded in the strike, the first to hit Odesa since early April. 
- <p class="updated_time"> 04:53 PM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
+ <p class="updated_time"> 04:52 PM CT, Apr. 23 </p> 
+ <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
  <p class="updated_time"> 03:59 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094507838/russia-ukraine-war-what-happened-today-april-23">Russia-Ukraine war: What happened today (April 23)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:53 PM CT, Apr. 23 </p> 
- <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
  <p class="updated_time"> 03:52 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094510445/china-looks-to-learn-from-russias-shortcomings-in-ukraine">China looks to learn from Russia's shortcomings in Ukraine</a> NPR: Russia's military has not performed as expected in Ukraine. The Chinese People's Liberation Army, which regularly drills with Russia, is watching closely. 
  <p class="updated_time"> 03:52 PM CT, Apr. 23 </p> 
@@ -52,7 +56,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:29 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/climate/climate-change-rally-white-house.html">Climate Activists Rally at the White House to Demand Action</a> NYT: In Washington, D.C., as well as Phoenix, Atlanta and scores of other cities across the country, demonstrators called on the government to enact bold climate action. 
  <p class="updated_time"> 02:09 PM CT, Apr. 23 </p> 
- <a href="https://www.npr.org/2022/04/23/1094500394/japan-missing-tour-boat-26-people">A tour boat with 26 people aboard has gone missing in northern Japan</a> NPR: The vessel sent a distress call that it was sinking, the coast guard said. No survivors have been found after more than 10 hours of intense search involving patrol boats, aircraft and divers. 
+ <a href="https://www.npr.org/2022/04/23/1094500394/japan-missing-tour-boat-26-people">4 people from missing tour boat in northern Japan have been found</a> NPR: The vessel sent a distress call that it was sinking, the coast guard said. After 19 hours of intense search, four of the 26 who went missing have been found but their condition is unknown. 
  <p class="updated_time"> 01:45 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/health/covid-vaccines-world-africa.html">The Drive to Vaccinate the World Against Covid Is Losing Steam</a> NYT: Rates are stalling in most low-income countries well short of the W.H.O.’s goal to immunize 70 percent of people in every nation. Some public health experts believe the momentum is gone forever. 
  <p class="updated_time"> 01:29 PM CT, Apr. 23 </p> 
@@ -61,14 +65,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/23/1094494437/ukraine-zelenskyy-blinken-austin-meeting-kyiv">2 U.S. Cabinet officials will meet with Zelenskyy in Kyiv</a> NPR: Ukrainian President Volodymyr Zelenskyy plans to meet with Secretary of State Antony Blinken and Secretary of Defense Lloyd Austin on Sunday. The State Department declined to comment to NPR. 
  <p class="updated_time"> 12:29 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/france-election-runoff-le-pen-macron.html">Inside Le Pen Territory as France Votes in a Runoff Election</a> NYT: Whatever happens in the runoff election on Sunday, France has changed, and the winner may face a turbulent season. 
- <p class="updated_time"> 12:00 PM CT, Apr. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61202599?at_medium=RSS&at_campaign=KARANGA">Japan: Tourist boat missing off coast</a> BBC: Coast guards are searching for the 26 people on board after the vessel sent out a distress signal. 
  <p class="updated_time"> 11:29 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61202603?at_medium=RSS&at_campaign=KARANGA">Shanghai: Censors try to block video about lockdown conditions</a> BBC: The video features people pleading for help over a lack of food and medicine in the city's strict lockdown. 
  <p class="updated_time"> 11:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/schroder-germany-russia-gas-ukraine-war-energy.html">How the Ex-Chancellor Gerhard Schröder Became Putin’s Man in Germany</a> NYT: Gerhard Schröder, who is paid almost $1 million a year by Russian-controlled energy companies, has become a pariah. But he is also a symbol of Germany’s Russia policy. 
- <p class="updated_time"> 09:25 AM CT, Apr. 23 </p> 
- <a href="https://www.nytimes.com/2022/04/23/world/europe/moldova-ukraine-russia.html">Rattled by Ukraine War, Moldova Strives to Dodge Russia’s Long Shadow</a> NYT: Moldova’s destiny has been intertwined uncomfortably with Russia’s for years, and the Ukraine invasion has accelerated its efforts to break free from Moscow. 
  <p class="updated_time"> 07:57 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/africa/bain-south-africa-jacob-zuma.html">A Boston Consulting Firm Became a Power Broker, and Then a Pariah, in South Africa</a> NYT: A new judicial inquiry found that corruption at South Africa’s tax agency was because of “collusion” between Bain & Company and South Africa’s former president. 
  <p class="updated_time"> 07:53 AM CT, Apr. 23 </p> 
