@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:42 AM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Top U.S. Officials Expected in Kyiv as Fight Rages in East</a> NYT: Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III would be the highest-ranking American officials to visit Ukraine since Russia invaded. 
+ <p class="updated_time"> 06:40 AM CT, Apr. 24 </p> 
+ <a href="https://www.npr.org/2022/04/24/1094538554/finding-joy-on-easter-sunday-in-ukraine">Finding joy on Easter Sunday in Ukraine</a> NPR: Ukrainian women marked Orthodox Easter by preparing special bread for troops defending Mykolaiv from the advancing Russian army. 
+ <p class="updated_time"> 06:34 AM CT, Apr. 24 </p> 
+ <a href="https://www.npr.org/2022/04/24/1094538498/how-the-war-in-ukraine-affects-the-environment">How the war in Ukraine affects the environment</a> NPR: NPR's Ayesha Rascoe speaks with Carroll Muffett of the Center for International Environmental Law about the environmental effects of the war in Ukraine. 
  <p class="updated_time"> 06:31 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094538467/france-votes-today-between-incumbent-president-macron-or-populist-candidate-le-p">France votes today between incumbent president Macron or populist candidate Le Pen</a> NPR: French voters choose between incumbent president Emmanuel Macron and populist candidate Marine Le Pen in Sunday's runoff election. 
  <p class="updated_time"> 06:27 AM CT, Apr. 24 </p> 
@@ -16,16 +22,14 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:26 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094538340/what-is-russias-place-on-the-u-n-security-council">What is Russia's place on the U.N. Security Council?</a> NPR: NPR's Ayesha Rascoe talks with Richard Gowan of the International Crisis Group about Russia's place on the U.N. Security Council. 
  <p class="updated_time"> 06:25 AM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Top U.S. Officials Expected in Kyiv as Fight Rages in East</a> NYT: Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III would be the highest-ranking American officials to visit Ukraine since Russia invaded. 
- <p class="updated_time"> 06:25 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094538302/ukraine-president-says-he-will-meet-with-u-s-secretaries-of-state-and-defense">Ukraine President says he will meet with U.S. Secretaries of State and Defense</a> NPR: Ukrainian President Volodymyr Zelenskyy spoke at a press conference about the ongoing Russian assault on his country and announced a visit by U.S. officials. 
  <p class="updated_time"> 06:23 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61207441?at_medium=RSS&at_campaign=KARANGA">Nigeria oil blast: Police hunt illegal refinery owner after deadly explosion</a> BBC: More than 100 were killed in an explosion at a hazardous site in Imo state, the authorities say. 
  <p class="updated_time"> 06:15 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61204543?at_medium=RSS&at_campaign=KARANGA">French vote as Macron aims to beat far-right Le Pen</a> BBC: After a divisive campaign, Marine Le Pen faces an uphill battle to defeat sitting President Macron. 
- <p class="updated_time"> 05:35 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 05:47 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says</a> WSJ: Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says 
- <p class="updated_time"> 04:35 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 04:47 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
  <p class="updated_time"> 04:11 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094535890/explosion-at-illegal-oil-refinery-in-nigeria-kills-over-50">Explosion at illegal oil refinery in Nigeria kills over 50</a> NPR: More than 50 people were killed and many injured when an explosion rocked an illegal oil refinery in southeastern Nigeria, state officials and police said Saturday. 
@@ -37,16 +41,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/24/world/asia/japan-boat-sinks.html">At Least 10 Dead After Tour Boat Sinks in Japan</a> NYT: Sixteen people were still missing, more than 24 hours after the sightseeing vessel was lost off the coast of Hokkaido island. 
  <p class="updated_time"> 03:58 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094534876/ukrainian-steel-plant-bombed-zelenskyy-to-meet-us-officials">Ukrainian steel plant bombed; Zelenskyy to meet US officials</a> NPR: Russian forces called in airstrikes on a besieged steel factory in the southern city of Mariupol, while President Volodymyr Zelenskyy said he would meet in Kyiv with two top American officials. 
- <p class="updated_time"> 03:35 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 03:47 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
- <p class="updated_time"> 02:35 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 02:47 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
  <p class="updated_time"> 02:05 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/france-election-runoff-le-pen-macron.html">Inside Le Pen Territory as France Votes in a Runoff Election</a> NYT: Whatever happens in the runoff election on Sunday, France has changed, and the winner may face a turbulent season. 
+ <p class="updated_time"> 01:47 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
  <p class="updated_time"> 01:38 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094532512/voting-opens-in-france-runoff-between-macron-and-le-pen">Macron vs Le Pen: France votes in tense presidential runoff</a> NPR: France began voting in a presidential runoff election Sunday in a race between between incumbent Emmanuel Macron and far-right politician Marine Le Pen. 
- <p class="updated_time"> 01:35 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
  <p class="updated_time"> 12:51 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61204407?at_medium=RSS&at_campaign=KARANGA">The sirens alerting Ukrainians to the danger of Russia air strikes</a> BBC: The BBC's Dan Johnson looks at how Lviv's sirens alert people to possible Russia air strikes. 
  <p class="updated_time"> 11:14 PM CT, Apr. 23 </p> 
@@ -99,10 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/23/world/africa/bain-south-africa-jacob-zuma.html">A Boston Consulting Firm Became a Power Broker, and Then a Pariah, in South Africa</a> NYT: A new judicial inquiry found that corruption at South Africa’s tax agency was because of “collusion” between Bain & Company and South Africa’s former president. 
  <p class="updated_time"> 07:46 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/asia/japan-tattoo.html">Discreetly, the Young in Japan Chip Away at a Taboo on Tattoos</a> NYT: Exposed to body art on social media, more young Japanese are getting tattoos, even if that means hiding them at work. 
- <p class="updated_time"> 07:46 AM CT, Apr. 23 </p> 
- <a href="https://www.npr.org/2022/04/23/1094471660/ukraine-russia-mariupol-steel-plant">Ukraine says Russian forces try to storm Mariupol steel plant</a> NPR: Ukrainian officials have estimated that about 2,000 of their troops are inside the plant along with the civilians sheltering in the facility's underground tunnels. 
- <p class="updated_time"> 07:43 AM CT, Apr. 23 </p> 
- <a href="https://www.npr.org/2022/04/23/1094470453/jerusalem-unrest">Clashes between Israeli police and Palestinians continue at the Al-Aqsa mosque</a> NPR: Repeated clashes between Israeli police and Palestinians have taken place this week at the most sensitive site in Jerusalem: the Al-Aqsa mosque compound. 
  <p class="updated_time"> 07:34 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61201548?at_medium=RSS&at_campaign=KARANGA">Mariupol steelworks: Video appears to show children in Azovstal bunker</a> BBC: Ukrainian fighters post a video of civilians who they say have been hiding under a steel plant for weeks. 
  <p class="updated_time"> 06:31 AM CT, Apr. 23 </p> 
@@ -204,6 +204,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:41 AM CT, Apr. 24 </p> 
+ <a href="https://www.npr.org/2022/04/24/1094538569/politics-chat-more-details-about-the-insurrection-emerge">Politics Chat: More details about the insurrection emerge</a> NPR: Details about high-ranking Republicans and the January 6, 2021, attack on the U.S. Capitol continue to emerge. 
  <p class="updated_time"> 06:26 AM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/ukraine-steel-plant-bombed-00027358">Ukrainian steel plant bombed</a> Politico: Russia has been trying to take Mariupol for nearly two months. 
  <p class="updated_time"> 06:00 AM CT, Apr. 24 </p> 
@@ -292,8 +294,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094390276/florida-is-ending-disneys-special-tax-district-heres-what-comes-next">Florida is ending Disney's special tax district. Here's what comes next</a> NPR: NPR's Ari Shapiro talks to reporter Nick Papantonis of WFTV about the effect that revoking Disney's special tax district will have on local taxpayers. 
  <p class="updated_time"> 03:29 PM CT, Apr. 22 </p> 
  <a href="https://www.npr.org/2022/04/22/1094390228/newly-released-audio-reveals-that-kevin-mccarthy-supported-ousting-trump-after-j">Newly-released audio reveals that Kevin McCarthy supported ousting Trump after Jan. 6</a> NPR: House GOP minority leader Kevin McCarthy was recorded in January saying he'd advise then-President Trump to resign after Jan. 6. It raises questions about his future and relationship with Trump. 
- <p class="updated_time"> 03:04 PM CT, Apr. 22 </p> 
- <a href="https://www.npr.org/2022/04/22/1094324215/how-kentucky-republicans-blocked-all-abortions-for-more-than-a-week">How Kentucky Republicans blocked all abortions for more than a week</a> NPR: Even without a Supreme Court ruling, a new Kentucky law shut down abortions for several days before a federal court stepped in. Abortion rights groups fear it's just the beginning. 
  <p class="updated_time"> 12:59 PM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/florida-quickly-sued-over-new-map-that-gives-big-wins-to-republicans-00027203">DeSantis signs new congressional map into law as groups sue over redistricting</a> Politico: The suit was filed less than 24 hours after the GOP-controlled Legislature passed the bill as Black Democrats were loudly protesting on the House floor. 
  <p class="updated_time"> 08:00 AM CT, Apr. 22 </p> 
