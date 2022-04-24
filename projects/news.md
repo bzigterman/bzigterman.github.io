@@ -9,40 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:32 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 11:58 AM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">Live Updates: Voting Underway as France Chooses Between Macron and Le Pen</a> NYT: A bruising gloves-off battle is coming to an end, and the outcome will have profound consequences. 
+ <p class="updated_time"> 11:39 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Top U.S. Officials Expected in Kyiv as Fight Rages in East</a> NYT: Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III would be the highest-ranking American officials to visit Ukraine since Russia invaded. 
- <p class="updated_time"> 11:19 AM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">Live Updates: Voting Underway as France Chooses Between Macron and Le Pen</a> NYT: Turnout, which could be key in determining the French presidential election, was 26.41 percent at noon on Sunday, according to the Interior Ministry, slightly higher than at the same time for the first round two weeks ago. 
+ <p class="updated_time"> 11:27 AM CT, Apr. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61209761?at_medium=RSS&at_campaign=KARANGA">Shanghai: Green fences baffle locked down residents</a> BBC: Two-metre barriers have appeared all over the city as officials battle to contain a Covid outbreak. 
  <p class="updated_time"> 11:05 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/mother-baby-odesa-missile-attack.html">Mother and Baby Among Those Killed in Odesa Attack</a> NYT: The family had moved from their apartment to a relative’s home to try to escape the Russian attacks. 
+ <p class="updated_time"> 11:00 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278">Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials</a> WSJ: Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials 
  <p class="updated_time"> 10:54 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/france-election-voters-le-pen.html">Some Voters in a Wealthy Paris Suburb Consider Backing Le Pen</a> NYT: In Neuilly-sur-Seine, an upscale city west of Paris, Marine Le Pen may gain the votes of those who had supported Éric Zemmour. 
  <p class="updated_time"> 10:54 AM CT, Apr. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61207441?at_medium=RSS&at_campaign=KARANGA">Nigeria oil blast: Nation in trauma after refinery deaths - President Buhari</a> BBC: President Buhari calls the deaths of more than 100 people in an explosion "a national disaster". 
+ <a href="https://www.bbc.co.uk/news/world-africa-61207441?at_medium=RSS&at_campaign=KARANGA">Nigeria in trauma after Imo refinery deaths - President Buhari</a> BBC: President Buhari calls the deaths of more than 100 people in an explosion "a national disaster". 
  <p class="updated_time"> 10:44 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/france-election-runoff-le-pen-macron.html">Inside Le Pen Territory as France Votes in a Runoff Election</a> NYT: Whatever happens in the runoff election on Sunday, France has changed, and the winner may face a turbulent season. 
  <p class="updated_time"> 10:44 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/france-muslims-presidential-vote.html">Who Will France’s Muslims Choose for President?</a> NYT: French Muslims face a decision between Emmanuel Macron, whose presidency some of them view as harmful, and Marine Le Pen, whose far-right party has a history of anti-Muslim positions. 
- <p class="updated_time"> 10:35 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278">Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials</a> WSJ: Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials 
+ <p class="updated_time"> 10:00 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/livecoverage/french-election-2022-macron-le-pen">Macron and Le Pen Face Off in French Election</a> WSJ: Macron and Le Pen Face Off in French Election 
  <p class="updated_time"> 09:43 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/marine-le-pen-france-election.html">Marine Le Pen’s Message Finds a Strong Audience in the North</a> NYT: The far-right candidate, Marine Le Pen, has focused on kitchen-table issues, crime and immigration. 
- <p class="updated_time"> 09:35 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/livecoverage/french-election-2022-macron-le-pen">Macron and Le Pen Face Off in French Election</a> WSJ: Macron and Le Pen Face Off in French Election 
- <p class="updated_time"> 08:35 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 09:00 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/saudi-royals-are-selling-homes-yachts-and-art-as-crown-prince-cuts-income-11650792780">Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income</a> WSJ: Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income 
+ <p class="updated_time"> 08:00 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-cases-surge-in-beijing-as-deaths-triple-in-shanghai-11650788552">Covid-19 Cases Surge in Beijing as New Deaths Triple in Shanghai</a> WSJ: Covid-19 Cases Surge in Beijing as New Deaths Triple in Shanghai 
  <p class="updated_time"> 07:41 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/24/1093992912/the-pandemic-inspired-a-cartoonist-to-explore-their-wuhanese-roots-and-queer-ide">The pandemic inspired a cartoonist to explore their Wuhanese roots and queer identity</a> NPR: In the funny and heartfelt coming-of-age graphic memoir 'Messy Roots,' artist Laura Gao unpacks their relationship with their Asianness, queerness and their ever-changing home city of Wuhan. 
  <p class="updated_time"> 07:40 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61209550?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Celebrating Easter in the trenches outside Kyiv</a> BBC: Russian forces have moved away from Ukraine's capital, but those defending the city remain. 
- <p class="updated_time"> 07:35 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/covid-19-cases-surge-in-beijing-as-deaths-triple-in-shanghai-11650788552">Covid-19 Cases Surge in Beijing as New Deaths Triple in Shanghai</a> WSJ: Covid-19 Cases Surge in Beijing as New Deaths Triple in Shanghai 
+ <p class="updated_time"> 07:00 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/israel-closes-gaza-border-in-effort-to-pressure-hamas-to-halt-rocket-attacks-11650808823">Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks</a> WSJ: Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks 
  <p class="updated_time"> 06:48 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094538850/ukraine-says-russia-is-dropping-internationally-banned-cluster-munitions">Ukraine says Russia is dropping internationally banned cluster munitions </a> NPR: Ukrainian forces are struggling to neutralize bombs that scatter over a wide area and are internationally banned, known as "cluster munitions." 
  <p class="updated_time"> 06:40 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094538554/finding-joy-on-easter-sunday-in-ukraine">Finding joy on Easter Sunday in Ukraine</a> NPR: Ukrainian women marked Orthodox Easter by preparing special bread for troops defending Mykolaiv from the advancing Russian army. 
- <p class="updated_time"> 06:35 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/israel-closes-gaza-border-in-effort-to-pressure-hamas-to-halt-rocket-attacks-11650808823">Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks</a> WSJ: Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks 
  <p class="updated_time"> 06:34 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094538498/how-the-war-in-ukraine-affects-the-environment">How the war in Ukraine affects the environment</a> NPR: NPR's Ayesha Rascoe speaks with Carroll Muffett of the Center for International Environmental Law about the environmental effects of the war in Ukraine. 
  <p class="updated_time"> 06:31 AM CT, Apr. 24 </p> 
@@ -58,7 +60,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:09 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094535365/ukraine-marks-orthodox-easter-with-prayers-for-those-trapped">Ukraine marks Orthodox Easter with prayers for those trapped</a> NPR: The sun came out as Ukrainians marked Orthodox Easter in the capital, Kyiv, on Sunday with prayers for those fighting on the front lines and others trapped beyond them. 
  <p class="updated_time"> 04:08 AM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/2022/04/24/world/asia/japan-boat-sinks.html">At Least 10 Dead After Tour Boat Sinks in Japan</a> NYT: Sixteen people were still missing, more than 24 hours after the sightseeing vessel was lost off the coast of Hokkaido island. 
+ <a href="https://www.nytimes.com/2022/04/24/world/asia/japan-tour-boat-sinks.html">At Least 10 Dead After Tour Boat Sinks in Japan</a> NYT: Sixteen people were still missing, more than 24 hours after the sightseeing vessel was lost off the coast of Hokkaido island. 
  <p class="updated_time"> 03:58 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094534876/ukrainian-steel-plant-bombed-zelenskyy-to-meet-us-officials">Ukrainian steel plant bombed; Zelenskyy to meet US officials</a> NPR: Russian forces called in airstrikes on a besieged steel factory in the southern city of Mariupol, while President Volodymyr Zelenskyy said he would meet in Kyiv with two top American officials. 
  <p class="updated_time"> 03:54 AM CT, Apr. 24 </p> 
