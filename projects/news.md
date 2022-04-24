@@ -9,26 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:39 PM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Top U.S. Officials Expected in Kyiv as Fight Rages in East</a> NYT: Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III would be the highest-ranking American officials to visit Ukraine since Russia invaded. 
- <p class="updated_time"> 01:35 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 02:07 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">Live Updates: Macron Holds Off Far-Right Push in France</a> NYT: Marine Le Pen concedes defeat to President Emmanuel Macron, the first French leader to be re-elected since 2002. 
+ <p class="updated_time"> 01:57 PM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Commander Says Mariupol Steel Plant Hasn’t Fallen</a> NYT: A Ukrainian commander inside the plant spoke to The Times, as Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III were expected in Kyiv on Sunday. Details of their trip had not yet been released. 
+ <p class="updated_time"> 01:48 PM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/2022/04/24/world/middleeast/00cairo-cemetery-city-of-dead.html">Demolishing City of the Dead Will Displace a Lively Quarter of Cairo</a> NYT: Cairo’s oldest cemetery is being razed, and thousands of families living amid the grand mausoleums face eviction. “You’re not at ease when you’re living. You’re not at ease even when you’re dead.” 
+ <p class="updated_time"> 01:43 PM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/2022/04/24/world/europe/emmanuel-macron-france-election-marine-le-pen.html">Emmanuel Macron Defeats Marine Le Pen in French Presidential Election</a> NYT: Mr. Macron, who held off a challenge from the far right, is the first incumbent president to win re-election in France since 2002. 
+ <p class="updated_time"> 01:40 PM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/2022/04/24/world/europe/ukrainian-forces-mariupol-steel-plant.html">Ukrainians in Mariupol’s Steel Plant Are Holding On, a Commander Tells the Times</a> NYT: Capt. Svyatoslav Palamar says he and others would give up the factory if they could leave safely. 
  <p class="updated_time"> 01:21 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/africa/bain-south-africa-jacob-zuma.html">An American Consulting Firm Became a Power Broker, and Then a Pariah, in South Africa</a> NYT: A new judicial inquiry found that corruption at South Africa’s tax agency was because of “collusion” between Bain & Company and South Africa’s former president. 
- <p class="updated_time"> 01:20 PM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/2022/04/24/world/europe/emmanuel-macron-france-election-marine-le-pen.html">Emmanuel Macron Defeats Marine Le Pen in French Presidential Election</a> NYT: Mr. Macron, who held off a challenge from the far right, is the first incumbent president to win re-election in France since 2002. 
+ <p class="updated_time"> 01:14 PM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278">Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials</a> WSJ: Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials 
  <p class="updated_time"> 12:56 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/mother-baby-odesa-missile-attack.html">Mother and Baby Among Those Killed in Odesa Attack</a> NYT: The family had moved from their apartment to a relative’s home to try to escape the Russian attacks. 
  <p class="updated_time"> 12:54 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/cold-war-ukraine.html">With Us or With Them? In a New Cold War, How About Neither.</a> NYT: Old geopolitical foes are facing off after Russia’s invasion of Ukraine, but much of the world is refusing to take sides. 
- <p class="updated_time"> 12:41 PM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278">Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials</a> WSJ: Ukraine’s Zelensky Awaits Easter Visit From Top U.S. Officials 
- <p class="updated_time"> 12:13 PM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/2022/04/24/world/middleeast/00cairo-cemetery-city-of-dead.html">Demolishing City of the Dead Will Displace a Lively Quarter of Cairo</a> NYT: Cairo’s oldest cemetery is being razed, and thousands of families living amid the grand mausoleums face eviction. “You’re not at ease when you’re living. You’re not at ease even when you’re dead.” 
- <p class="updated_time"> 11:41 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 12:14 PM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/livecoverage/french-election-2022-macron-le-pen">Macron and Le Pen Face Off in French Election</a> WSJ: Macron and Le Pen Face Off in French Election 
  <p class="updated_time"> 11:27 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61209761?at_medium=RSS&at_campaign=KARANGA">Shanghai: Green fences baffle locked down residents</a> BBC: Two-metre barriers have appeared all over the city as officials battle to contain a Covid outbreak. 
+ <p class="updated_time"> 11:14 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/saudi-royals-are-selling-homes-yachts-and-art-as-crown-prince-cuts-income-11650792780">Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income</a> WSJ: Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income 
  <p class="updated_time"> 10:54 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/france-election-voters-le-pen.html">Some Voters in a Wealthy Paris Suburb Consider Backing Le Pen</a> NYT: In Neuilly-sur-Seine, an upscale city west of Paris, Marine Le Pen may gain the votes of those who had supported Éric Zemmour. 
  <p class="updated_time"> 10:54 AM CT, Apr. 24 </p> 
@@ -37,15 +41,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/23/world/europe/france-election-runoff-le-pen-macron.html">Inside Le Pen Territory as France Votes in a Runoff Election</a> NYT: Whatever happens in the runoff election on Sunday, France has changed, and the winner may face a turbulent season. 
  <p class="updated_time"> 10:44 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/europe/france-muslims-presidential-vote.html">Who Will France’s Muslims Choose for President?</a> NYT: French Muslims face a decision between Emmanuel Macron, whose presidency some of them view as harmful, and Marine Le Pen, whose far-right party has a history of anti-Muslim positions. 
- <p class="updated_time"> 10:41 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/saudi-royals-are-selling-homes-yachts-and-art-as-crown-prince-cuts-income-11650792780">Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income</a> WSJ: Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income 
+ <p class="updated_time"> 10:14 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-cases-surge-in-beijing-as-deaths-triple-in-shanghai-11650788552">Covid-19 Cases Surge in Beijing as New Deaths Triple in Shanghai</a> WSJ: Covid-19 Cases Surge in Beijing as New Deaths Triple in Shanghai 
  <p class="updated_time"> 09:43 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/marine-le-pen-france-election.html">Marine Le Pen’s Message Finds a Strong Audience in the North</a> NYT: The far-right candidate, Marine Le Pen, has focused on kitchen-table issues, crime and immigration. 
- <p class="updated_time"> 09:41 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/covid-19-cases-surge-in-beijing-as-deaths-triple-in-shanghai-11650788552">Covid-19 Cases Surge in Beijing as New Deaths Triple in Shanghai</a> WSJ: Covid-19 Cases Surge in Beijing as New Deaths Triple in Shanghai 
  <p class="updated_time"> 09:16 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/emmanuel-macron-wins-french-election-2022-11650815682">France's Macron Wins Second Term</a> WSJ: French President Emmanuel Macron was re-elected, according to projections based on early ballot counts, overcoming deep divisions among voters worried about inflation and the impact of immigration on France’s national identity. 
- <p class="updated_time"> 08:41 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 09:14 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/israel-closes-gaza-border-in-effort-to-pressure-hamas-to-halt-rocket-attacks-11650808823">Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks</a> WSJ: Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks 
  <p class="updated_time"> 07:41 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/24/1093992912/the-pandemic-inspired-a-cartoonist-to-explore-their-wuhanese-roots-and-queer-ide">The pandemic inspired a cartoonist to explore their Wuhanese roots and queer identity</a> NPR: In the funny and heartfelt coming-of-age graphic memoir 'Messy Roots,' artist Laura Gao unpacks their relationship with their Asianness, queerness and their ever-changing home city of Wuhan. 
@@ -78,7 +80,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:54 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/yoon-suk-yeol-south-koreas-prosecutor-turned-president-wants-a-world-that-follows-the-rules-11650804848">Yoon Suk-yeol, South Korea's Prosecutor-Turned-President, Wants a World That Follows the Rules</a> WSJ: The president-elect takes office at a time of significant friction between Washington, a longtime military ally, and Beijing, the country’s largest trading partner, and will have to contend with a North Korea that has embarked on a new round of weapons tests. 
  <p class="updated_time"> 01:38 AM CT, Apr. 24 </p> 
- <a href="https://www.npr.org/2022/04/24/1094532512/french-election-macron-le-pen">President Emmanuel Macron is projected to beat far-right rival Marine Le Pen</a> NPR: The French election was a tight race that was overshadowed by the war in Ukraine and saw a surge in support for extremist ideas. 
+ <a href="https://www.npr.org/2022/04/24/1094532512/french-election-macron-le-pen">President Emmanuel Macron is projected to his beat far-right rival Marine Le Pen</a> NPR: The French election was a tight race that was overshadowed by the war in Ukraine and saw a surge in support for extremist ideas. 
  <p class="updated_time"> 12:51 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61204407?at_medium=RSS&at_campaign=KARANGA">The sirens alerting Ukrainians to the danger of Russia air strikes</a> BBC: The BBC's Dan Johnson looks at how Lviv's sirens alert people to possible Russia air strikes. 
  <p class="updated_time"> 11:14 PM CT, Apr. 23 </p> 
@@ -191,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/21/world/europe/us-weapons-ukraine.html">What to Know About the Weapons Being Sent to Ukraine</a> NYT: The Biden administration is sending dozens of howitzers and 120 drones in the latest $800 million package of military aid. 
  <p class="updated_time"> 07:29 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/russia-ukraine-military-biden.html">Next Phase of War Will Be Pivotal for Russia and Ukraine, U.S. Says</a> NYT: Reflecting a renewed sense of urgency, President Biden announced that the United States would send the Ukrainians $800 million more in military aid. 
- <p class="updated_time"> 06:19 PM CT, Apr. 21 </p> 
- <a href="https://www.nytimes.com/2022/04/21/world/europe/russia-moskva-warship-disinformation.html">With Moskva Warship Sunken, Russia Disinformation Faces a Test</a> NYT: Families of missing crew members say the Russian authorities are giving them the runaround after a flagship sank last week in the Black Sea. 
  <p class="updated_time"> 04:13 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/21/us/politics/france-election-biden.html">US Braces for Potential French Election Shockwave</a> NYT: An upset victory by the right-wing nationalist Marine Le Pen in the presidential election on Sunday could scramble President Biden’s foreign policy. 
  <p class="updated_time"> 03:19 PM CT, Apr. 21 </p> 
@@ -206,7 +206,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:34 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 01:48 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/us/politics/orrin-hatch-dead.html">Orrin Hatch, Seven-Term Senator and a Republican Force, Dies at 88</a> NYT: Overcoming poverty and representing Utah, he became a powerful figure in Washington, helping to build a conservative majority on the Supreme Court. 
  <p class="updated_time"> 12:20 PM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/ukraine-putin-united-nations-00027383">‘Not good idea’: Ukrainians dump on U.N. chief’s planned Putin meeting</a> Politico: Prime Minister Denys Shmyhal said the Russians are interested in genocide, not more negotiations. 
@@ -338,8 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/21/mystery-drone-air-force-new-weapon-ukraine-00026970">Mystery drone: How the Air Force fast-tracked a new weapon for Ukraine</a> Politico: The “Phoenix Ghost” drones were developed by California-based Aevex Aerospace. 
  <p class="updated_time"> 02:47 PM CT, Apr. 21 </p> 
  <a href="https://www.cnn.com/2022/04/21/politics/biden-student-loan-debt-forgiveness-eligibility/index.html">Here's who is eligible for student loan debt relief after Biden's latest actions</a> CNN: The Biden administration has taken multiple actions to make it easier for federal student loan borrowers to receive debt forgiveness that they may already be entitled to under existing programs. 
- <p class="updated_time"> 01:50 PM CT, Apr. 21 </p> 
- <a href="https://www.politico.com/news/2022/04/21/yellen-biden-ukraine-economic-aid-00026925">Yellen says Biden will press Congress for more economic aid to Ukraine</a> Politico: The Treasury Department will send $500 million to help Ukraine cover urgent government financing needs. 
 
 
 </details>
