@@ -9,14 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:56 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 06:31 AM CT, Apr. 24 </p> 
+ <a href="https://www.npr.org/2022/04/24/1094538467/france-votes-today-between-incumbent-president-macron-or-populist-candidate-le-p">France votes today between incumbent president Macron or populist candidate Le Pen</a> NPR: French voters choose between incumbent president Emmanuel Macron and populist candidate Marine Le Pen in Sunday's runoff election. 
+ <p class="updated_time"> 06:27 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">Live Updates: Voting Underway as France Chooses Between Macron and Le Pen</a> NYT: Turnout, which could be key in determining the French presidential election, was 26.41 percent at noon on Sunday, according to the Interior Ministry, slightly higher than at the same time for the first round two weeks ago. 
- <p class="updated_time"> 05:55 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 06:26 AM CT, Apr. 24 </p> 
+ <a href="https://www.npr.org/2022/04/24/1094538340/what-is-russias-place-on-the-u-n-security-council">What is Russia's place on the U.N. Security Council?</a> NPR: NPR's Ayesha Rascoe talks with Richard Gowan of the International Crisis Group about Russia's place on the U.N. Security Council. 
+ <p class="updated_time"> 06:25 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: Top U.S. Officials Expected in Kyiv as Fight Rages in East</a> NYT: Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III would be the highest-ranking American officials to visit Ukraine since Russia invaded. 
- <p class="updated_time"> 05:51 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 06:25 AM CT, Apr. 24 </p> 
+ <a href="https://www.npr.org/2022/04/24/1094538302/ukraine-president-says-he-will-meet-with-u-s-secretaries-of-state-and-defense">Ukraine President says he will meet with U.S. Secretaries of State and Defense</a> NPR: Ukrainian President Volodymyr Zelenskyy spoke at a press conference about the ongoing Russian assault on his country and announced a visit by U.S. officials. 
+ <p class="updated_time"> 06:23 AM CT, Apr. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61207441?at_medium=RSS&at_campaign=KARANGA">Nigeria oil blast: Police hunt illegal refinery owner after deadly explosion</a> BBC: More than 100 were killed in an explosion at a hazardous site in Imo state, the authorities say. 
+ <p class="updated_time"> 06:15 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61204543?at_medium=RSS&at_campaign=KARANGA">French vote as Macron aims to beat far-right Le Pen</a> BBC: After a divisive campaign, Marine Le Pen faces an uphill battle to defeat sitting President Macron. 
- <p class="updated_time"> 05:01 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 05:35 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/zelensky-warns-that-russian-ambitions-dont-end-with-ukraine-11650704243">Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says</a> WSJ: Antony Blinken and Lloyd Austin to Visit Ukraine, President Zelensky Says 
+ <p class="updated_time"> 04:35 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
  <p class="updated_time"> 04:11 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094535890/explosion-at-illegal-oil-refinery-in-nigeria-kills-over-50">Explosion at illegal oil refinery in Nigeria kills over 50</a> NPR: More than 50 people were killed and many injured when an explosion rocked an illegal oil refinery in southeastern Nigeria, state officials and police said Saturday. 
  <p class="updated_time"> 04:09 AM CT, Apr. 24 </p> 
@@ -25,21 +35,17 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/24/1094535365/ukraine-marks-orthodox-easter-with-prayers-for-those-trapped">Ukraine marks Orthodox Easter with prayers for those trapped</a> NPR: The sun came out as Ukrainians marked Orthodox Easter in the capital, Kyiv, on Sunday with prayers for those fighting on the front lines and others trapped beyond them. 
  <p class="updated_time"> 04:08 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/japan-boat-sinks.html">At Least 10 Dead After Tour Boat Sinks in Japan</a> NYT: Sixteen people were still missing, more than 24 hours after the sightseeing vessel was lost off the coast of Hokkaido island. 
- <p class="updated_time"> 04:03 AM CT, Apr. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61207441?at_medium=RSS&at_campaign=KARANGA">Nigeria oil blast: Dozens die after explosion at illegal refinery</a> BBC: Bodies were burnt beyond recognition after the explosion at a hazardous site in Imo state. 
- <p class="updated_time"> 04:01 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraines-grim-economic-toll-from-war-confronts-world-governments-11650722401">World Governments Confront Grim Ukraine Toll</a> WSJ: World Governments Confront Grim Ukraine Toll 
  <p class="updated_time"> 03:58 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094534876/ukrainian-steel-plant-bombed-zelenskyy-to-meet-us-officials">Ukrainian steel plant bombed; Zelenskyy to meet US officials</a> NPR: Russian forces called in airstrikes on a besieged steel factory in the southern city of Mariupol, while President Volodymyr Zelenskyy said he would meet in Kyiv with two top American officials. 
- <p class="updated_time"> 03:01 AM CT, Apr. 24 </p> 
+ <p class="updated_time"> 03:35 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/russia-turned-a-bucha-building-into-an-execution-site-and-underground-prison-11650715201">Russia Turned a Bucha Building Into an Execution Site and Underground Prison</a> WSJ: Russia Turned a Bucha Building Into an Execution Site and Underground Prison 
+ <p class="updated_time"> 02:35 AM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
  <p class="updated_time"> 02:05 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/france-election-runoff-le-pen-macron.html">Inside Le Pen Territory as France Votes in a Runoff Election</a> NYT: Whatever happens in the runoff election on Sunday, France has changed, and the winner may face a turbulent season. 
- <p class="updated_time"> 02:01 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/japan-tourist-boat-missing-with-26-aboard-11650719078">Japan Tourist Boat Missing With 26 Aboard</a> WSJ: Japan Tourist Boat Missing With 26 Aboard 
  <p class="updated_time"> 01:38 AM CT, Apr. 24 </p> 
- <a href="https://www.npr.org/2022/04/24/1094532512/voting-opens-in-france-runoff-between-macron-and-le-pen">Voting opens in France runoff between Macron and Le Pen</a> NPR: France began voting in a presidential runoff election Sunday in a race between between incumbent Emmanuel Macron and far-right politician Marine Le Pen. 
- <p class="updated_time"> 01:01 AM CT, Apr. 24 </p> 
+ <a href="https://www.npr.org/2022/04/24/1094532512/voting-opens-in-france-runoff-between-macron-and-le-pen">Macron vs Le Pen: France votes in tense presidential runoff</a> NPR: France began voting in a presidential runoff election Sunday in a race between between incumbent Emmanuel Macron and far-right politician Marine Le Pen. 
+ <p class="updated_time"> 01:35 AM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/story/drug-fueled-violence-hits-mexicos-riviera-maya-c32ddcd1">Drug-Fueled Violence Hits Mexico’s Riviera Maya</a> WSJ: Drug-Fueled Violence Hits Mexico’s Riviera Maya 
  <p class="updated_time"> 12:51 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61204407?at_medium=RSS&at_campaign=KARANGA">The sirens alerting Ukrainians to the danger of Russia air strikes</a> BBC: The BBC's Dan Johnson looks at how Lviv's sirens alert people to possible Russia air strikes. 
@@ -97,10 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/23/1094471660/ukraine-russia-mariupol-steel-plant">Ukraine says Russian forces try to storm Mariupol steel plant</a> NPR: Ukrainian officials have estimated that about 2,000 of their troops are inside the plant along with the civilians sheltering in the facility's underground tunnels. 
  <p class="updated_time"> 07:43 AM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094470453/jerusalem-unrest">Clashes between Israeli police and Palestinians continue at the Al-Aqsa mosque</a> NPR: Repeated clashes between Israeli police and Palestinians have taken place this week at the most sensitive site in Jerusalem: the Al-Aqsa mosque compound. 
- <p class="updated_time"> 07:43 AM CT, Apr. 23 </p> 
- <a href="https://www.npr.org/2022/04/23/1094471684/mexico-debanhi-escobar-dead-disappearance">13 days after Debanhi Escobar disappeared near Monterrey, her body has been found</a> NPR: The case made headlines because of a haunting photo taken by a driver who was supposed to take her home on April 8.  Killings of women have increased in Mexico, rising to 1,015 cases last year. 
- <p class="updated_time"> 07:39 AM CT, Apr. 23 </p> 
- <a href="https://www.npr.org/2022/04/23/1094470383/ukrainian-city-prepares-for-a-seige">Residents of a Ukrainian city prepare for a seige</a> NPR: As Russia renews its offensive on southern and eastern Ukraine, the city of Mykolaiv, near the Black Sea, are preparing for a siege. 
  <p class="updated_time"> 07:34 AM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61201548?at_medium=RSS&at_campaign=KARANGA">Mariupol steelworks: Video appears to show children in Azovstal bunker</a> BBC: Ukrainian fighters post a video of civilians who they say have been hiding under a steel plant for weeks. 
  <p class="updated_time"> 06:31 AM CT, Apr. 23 </p> 
@@ -202,6 +204,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:26 AM CT, Apr. 24 </p> 
+ <a href="https://www.politico.com/news/2022/04/24/ukraine-steel-plant-bombed-00027358">Ukrainian steel plant bombed</a> Politico: Russia has been trying to take Mariupol for nearly two months. 
+ <p class="updated_time"> 06:00 AM CT, Apr. 24 </p> 
+ <a href="https://www.politico.com/news/2022/04/24/swing-state-senate-dems-border-visit-enrages-left-00027355">Border visit backfires on vulnerable Senate Dem</a> Politico: New Hampshire Sen. Maggie Hassan is facing fierce criticism from all sides for her immigration stance. 
+ <p class="updated_time"> 06:00 AM CT, Apr. 24 </p> 
+ <a href="https://www.politico.com/news/2022/04/24/abortion-advocates-strategy-depends-on-pills-an-information-gap-threatens-their-efforts-00027309">Abortion advocates’ strategy depends on pills. An information gap threatens their efforts.</a> Politico: With SCOTUS decision looming, confusion and fear hinder post-Roe plans. 
  <p class="updated_time"> 04:01 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/04/24/1089786147/covid-conspiracy-theories">Their mom died of COVID. They say conspiracy theories are what really killed her</a> NPR: Stephanie was usually careful about her health and regular vaccinations. But then she got into sharing far-out videos and fringe ideas. When COVID hit, misinformation put her and her husband at risk. 
  <p class="updated_time"> 04:00 AM CT, Apr. 24 </p> 
@@ -211,7 +219,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:54 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/us/politics/orrin-hatch-dead.html">Orrin Hatch, Seven-Term Senator and a Republican Force, Dies at 88</a> NYT: Overcoming poverty and representing Utah, he became a powerful figure in Washington, helping to build a conservative majority on the Supreme Court. 
  <p class="updated_time"> 08:13 PM CT, Apr. 23 </p> 
- <a href="https://www.politico.com/news/2022/04/23/utah-senator-orrin-hatch-dies-00027357">Long-serving Utah Senator Orrin Hatch dies at age 88</a> Politico: His death was announced in a statement from his foundation, which did not specify a cause. 
+ <a href="https://www.politico.com/news/2022/04/23/utah-senator-orrin-hatch-dies-00027357">Orrin Hatch, long-serving Utah senator, dies at age 88</a> Politico: His death was announced in a statement from his foundation, which did not specify a cause. 
  <p class="updated_time"> 08:10 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094526516/orrin-hatch-longtime-republican-utah-u-s-senator-dies-at-88">Orrin Hatch, longtime Republican Utah senator, dies at 88</a> NPR: Hatch, the longest-serving Republican senator in history, was known for working across party lines. 
  <p class="updated_time"> 07:42 PM CT, Apr. 23 </p> 
@@ -228,8 +236,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/23/us/politics/trump-mccarthy-gop.html">For Trump’s G.O.P., Crossing Lines Has Few Consequences</a> NYT: A dizzying week featured Kevin McCarthy, the House Republican leader, caught lying and another lawmaker, Marjorie Taylor Greene, grilled under oath about her role in the Jan. 6 attack. 
  <p class="updated_time"> 11:31 AM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094480415/illegal-voter-registration-case-dropped">A woman charged with illegal voter registration won't be prosecuted in 2nd trial</a> NPR: Pamela Moses was convicted of registering to vote illegally in Memphis, Tenn., in 2019 and was sentenced to six years in prison. She has said she was unaware that she was ineligible to vote. 
- <p class="updated_time"> 11:07 AM CT, Apr. 23 </p> 
- <a href="https://www.politico.com/news/2022/04/23/russians-try-to-storm-mariupol-plant-strike-odesa-00027346">Russians try to storm Mariupol plant, strike Odesa</a> Politico: The reported assault on the eve of Orthodox Easter came after the Kremlin claimed its military had seized all of Mariupol except for the Azovstal plant. 
  <p class="updated_time"> 10:50 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/tennessee-drunk-driving-child-support.html">Tennessee Bill Would Force Drunken Drivers to Support Victims’ Children</a> NYT: The state’s legislature is believed to be the first to pass such a measure, covering cases in which the parent of a minor is killed. It will go to the governor for his signature. 
  <p class="updated_time"> 09:31 AM CT, Apr. 23 </p> 
@@ -250,6 +256,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/22/gop-lawmakers-deeply-involved-in-trump-plans-to-overturn-election-new-evidence-suggests-00027340">GOP lawmakers were deeply involved in Trump plans to overturn election, new evidence suggests</a> Politico: Deposition excerpts filed by the Jan 6. select committee underscore the expansive cast of elected Republicans who had enlisted themselves in Trump’s effort to cling to power. 
  <p class="updated_time"> 08:52 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/mccarthy-trump-republicans.html">How Audio of McCarthy’s Lie Reveals GOP Hypocrisy on Trump</a> NYT: The Republican leader’s false claim that he never urged President Donald J. Trump to resign — disproved by an audio recording of the comments — drew little outrage from members of his party. 
+ <p class="updated_time"> 08:38 PM CT, Apr. 22 </p> 
+ <a href="https://www.politico.com/news/2022/04/22/trump-responsibility-for-jan-6-attack-mccarthy-00027335">Trump says he 'never claimed responsibility' for Jan. 6 attack, contradicting McCarthy</a> Politico: “No, that’s false. I never claimed responsibility,” Trump said in an interview with the Wall Street Journal. 
  <p class="updated_time"> 08:38 PM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/us/politics/mccarthy-trump-jan-6-recording.html">New Audio: McCarthy Said Trump Acknowledged ‘Some Responsibility’ for Jan. 6 </a> NYT: New audio captures what Representative Kevin McCarthy said to Republicans shortly after the Jan. 6 attack on the Capitol. 
  <p class="updated_time"> 07:22 PM CT, Apr. 22 </p> 
@@ -288,16 +296,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/22/1094324215/how-kentucky-republicans-blocked-all-abortions-for-more-than-a-week">How Kentucky Republicans blocked all abortions for more than a week</a> NPR: Even without a Supreme Court ruling, a new Kentucky law shut down abortions for several days before a federal court stepped in. Abortion rights groups fear it's just the beginning. 
  <p class="updated_time"> 12:59 PM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/florida-quickly-sued-over-new-map-that-gives-big-wins-to-republicans-00027203">DeSantis signs new congressional map into law as groups sue over redistricting</a> Politico: The suit was filed less than 24 hours after the GOP-controlled Legislature passed the bill as Black Democrats were loudly protesting on the House floor. 
- <p class="updated_time"> 12:21 PM CT, Apr. 22 </p> 
- <a href="https://www.politico.com/news/2022/04/22/chippendales-lobbying-covid-relief-00027202">The Chippendales are stripping down and lobbying up</a> Politico: The iconic male stripper group has hired a lobby shop for the first time. It wants pandemic relief. 
  <p class="updated_time"> 08:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/business/stocks-elections-midterm-biden.html">Why Midterm Election Years Are Tough for the Stock Market</a> NYT: These months are historically the weakest for the market in a presidential term. Aside from coincidence, there are several possible explanations. 
  <p class="updated_time"> 08:00 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/theater/potus-selina-fillinger-broadway.html">The ‘POTUS’ Playwright Is Making a Farce of the Patriarchy </a> NYT: “POTUS” will be the writer Selina Fillinger’s Broadway debut. “I really didn’t feel like I needed to do any research. I have been all of those women,” she said. 
- <p class="updated_time"> 06:13 AM CT, Apr. 22 </p> 
- <a href="https://www.politico.com/news/2022/04/22/zero-waste-new-yorkers-recycle-00026708">New York City fails zero waste pledge. Why it’s going backward.</a> Politico: During his first “Earth Week” as the city's mayor, Eric Adams is confronting a growing waste crisis he inherited with no end in sight. 
- <p class="updated_time"> 03:31 AM CT, Apr. 22 </p> 
- <a href="https://www.politico.com/gallery/2022/04/22/the-nations-cartoonists-on-the-week-in-politics-00026851">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 03:30 AM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/boozman-bequette-republican-donor-arkansas-00027089">A New England Patriot and a conservative billionaire are trying to take down a GOP senator</a> Politico: The challenge against Sen. John Boozman has one of the biggest Republican donors on one side and Donald Trump on the other. 
  <p class="updated_time"> 03:30 AM CT, Apr. 22 </p> 
