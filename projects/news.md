@@ -19,13 +19,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/world/europe/macron-le-pen-orban.html">Macron’s Win Is Also a Blow to Orban’s Nationalist Crusade in Europe</a> NYT: The Hungarian leader had cast his own victory as the start of a nationalist wave in Europe — one that Marine Le Pen would have joined. Instead, Mr. Macron’s victory in France is a win for the European Union’s approach. 
  <p class="updated_time"> 02:49 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/04/25/world/macron-french-election">Live Updates: As Allies Hail Macron’s Re-election, Challenges Loom in France</a> NYT: Emmanuel Macron’s 17-point margin over the far-right challenger Marine Le Pen was greeted with relief in Western capitals. Economic issues are expected to be a priority of his second term. 
- <p class="updated_time"> 02:36 PM CT, Apr. 25 </p> 
+ <p class="updated_time"> 02:48 PM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit 
  <p class="updated_time"> 02:00 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61217528?at_medium=RSS&at_campaign=KARANGA">Ukraine: Facing the Russian Army on the frontline in Donbas</a> BBC: Ukrainian forces have been holding the line in Donbas since 2014, but what was sporadic fighting has now turned into a full-blown war. 
  <p class="updated_time"> 01:57 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/africa/bain-south-africa-jacob-zuma.html">An American Consulting Firm Became a Power Broker, and Then a Pariah, in South Africa</a> NYT: A new judicial inquiry found that corruption at South Africa’s tax agency was because of “collusion” between Bain & Company and South Africa’s former president. 
- <p class="updated_time"> 01:36 PM CT, Apr. 25 </p> 
+ <p class="updated_time"> 01:48 PM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002">Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</a> WSJ: Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine 
  <p class="updated_time"> 01:23 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61221860?at_medium=RSS&at_campaign=KARANGA">Donald Trump held in contempt in New York legal battle</a> BBC: The former president will be fined $10,000 (£7,850) every day until he turns over requested files. 
@@ -37,28 +37,28 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/25/1094633961/z-movie-name-ukraine-russia">French zombie comedy 'Z' changes its name ahead of Cannes, at Ukrainians' urging</a> NPR: Director Michel Hazanavicius changed the name for the Cannes opener after Ukrainian protesters noted that the letter Z has come to symbolize support for Russia's war in Ukraine. 
  <p class="updated_time"> 01:04 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/ukraine-zelenksy-government.html">How Zelensky Tamed Ukraine’s Fractious Politics and Stood Up to Putin</a> NYT: Ukrainian politics were known for sharp-elbowed infighting. But as he defends his country against the Russian invasion, President Volodymyr Zelensky has his government presenting a unified front. 
+ <p class="updated_time"> 12:48 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090">Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power</a> WSJ: Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power 
  <p class="updated_time"> 12:37 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094632903/bridget-brink-ambassador-ukraine-us">Biden plans to nominate Bridget Brink as the next ambassador to Ukraine. Who is she?</a> NPR: Brink has served as the U.S. ambassador to Slovakia since 2019. She has more than two decades of experience in the Foreign Service, including stints in Georgia and Uzbekistan. 
- <p class="updated_time"> 12:36 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090">Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power</a> WSJ: Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power 
  <p class="updated_time"> 12:03 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61218241?at_medium=RSS&at_campaign=KARANGA">Osman Kavala: Turkish activist sentenced to life in prison</a> BBC: Osman Kavala is found guilty on coup plot charges in a case criticised as politically motivated. 
  <p class="updated_time"> 12:02 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61218611?at_medium=RSS&at_campaign=KARANGA">Number of US police officers murdered up by 59% - FBI</a> BBC: The head of the FBI says violence against police is a "phenomena" that "doesn't get enough attention". 
+ <p class="updated_time"> 11:48 AM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/erdogan-critic-given-life-sentence-in-ruling-likely-to-stoke-tensions-with-west-11650904728">Erdogan Critic Given Life Sentence in Turkey</a> WSJ: Erdogan Critic Given Life Sentence in Turkey 
  <p class="updated_time"> 11:44 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61214460?at_medium=RSS&at_campaign=KARANGA">France election: Macron faces immediate challenges to power after victory</a> BBC: A day after his election success, the French president has to focus on a new set of problems. 
- <p class="updated_time"> 11:36 AM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/erdogan-critic-given-life-sentence-in-ruling-likely-to-stoke-tensions-with-west-11650904728">Erdogan Critic Given Life Sentence in Turkey</a> WSJ: Erdogan Critic Given Life Sentence in Turkey 
  <p class="updated_time"> 11:04 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61218239?at_medium=RSS&at_campaign=KARANGA">Kane Tanaka: Japanese woman certified world's oldest person dies</a> BBC: Kane Tanaka was born in 1903, the same year as George Orwell and when Roosevelt was US president. 
  <p class="updated_time"> 10:54 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/covid-beijing-shanghai.html">Covid Outbreak in Beijing Prompts Panic Buying and Lockdown Fears</a> NYT: Supermarkets stocked up as long lines formed. The Chinese authorities ordered mass testing to contain a rising number of cases in an affluent district of the capital. 
  <p class="updated_time"> 10:48 AM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying</a> WSJ: Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying 
+ <p class="updated_time"> 10:48 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61222500?at_medium=RSS&at_campaign=KARANGA">French election: I did not vote because nothing will change</a> BBC: Many French people were left disappointed by the options in the presidential run-off. 
  <p class="updated_time"> 10:42 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61214176?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US wants to see a weakened Russia</a> BBC: US Defence Secretary Lloyd Austin says he hopes to see the Russian military depleted in Ukraine. 
- <p class="updated_time"> 10:36 AM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying</a> WSJ: Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying 
  <p class="updated_time"> 10:17 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-61215194?at_medium=RSS&at_campaign=KARANGA">Stock markets tumble over China lockdown fears</a> BBC: Shares drop as Covid cases in Beijing raise the prospect of supply chain disruption. 
  <p class="updated_time"> 09:59 AM CT, Apr. 25 </p> 
@@ -198,6 +198,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:37 PM CT, Apr. 25 </p> 
+ <a href="https://www.npr.org/2022/04/25/1094680359/voting-groups-sue-florida-saying-congressional-map-violates-state-constitution">Voting groups sue Florida, saying congressional map violates state constitution</a> NPR: Voting Rights groups are suing Florida over congressional maps that eliminate two Black voting districts. Even if successful, it's uncertain whether new maps will be imposed before the election. 
+ <p class="updated_time"> 03:26 PM CT, Apr. 25 </p> 
+ <a href="https://www.politico.com/news/2022/04/25/white-house-title-42-congress-00027588">White House doubles down on Title 42, sends new defense to the Hill</a> Politico: A memo is being prepared to explain to skeptical lawmakers just what happens if a migrant surge follows the rescinding of the policy. Lawmakers briefings are coming too. 
  <p class="updated_time"> 03:16 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/business/trump-media-truth-social.html">Trump Media Adds Former Nunes Aides, Donald Jr., and ‘Apprentice’ Contestant to Board</a> NYT: Mr. Nunes stepped down from his House seat in January to become chief executive of Trump Media. Wes Moss, a financial adviser and a contestant on “The Apprentice,” is also now a director. 
  <p class="updated_time"> 03:04 PM CT, Apr. 25 </p> 
@@ -259,7 +263,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:23 AM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/putin-invade-moldova-ukraine-00027380">U.S., Ukrainian officials weigh ‘high possibility’ of Putin invading Moldova</a> Politico: Ukrainian President Volodymyr Zelenskyy has warned that Russia’s assault on Ukraine “was intended only as a beginning.” 
  <p class="updated_time"> 09:44 AM CT, Apr. 24 </p> 
- <a href="https://www.politico.com/news/2022/04/24/mccaul-mccarthy-audio-controversy-trump-00027372">‘Kevin is in very good shape’: House Republican shrugs off McCarthy audio controversy</a> Politico: “President Trump said yesterday that he fully supports Kevin McCarthy for speaker, as do I,”  Rep. Michael McCaul said. 
+ <a href="https://www.politico.com/news/2022/04/24/mccaul-mccarthy-audio-controversy-trump-00027372">‘Kevin is in very good shape’: House Republican shrugs off McCarthy audio controversy</a> Politico: “President Trump said yesterday that he fully supports Kevin McCarthy for speaker, as do I,” said Rep. Michael McCaul. 
  <p class="updated_time"> 09:14 AM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/cuellar-biden-immigration-activists-title-42-00027362">Cuellar: White House listening to ‘immigration activists’ on Title 42</a> Politico: A growing number of Democrats oppose Biden’s plan to end the Trump-era public health order. 
  <p class="updated_time"> 09:09 AM CT, Apr. 24 </p> 
@@ -302,8 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/23/1094470376/week-in-politics">Week in Politics: Some Democrats question plans to lift immigration restrictions</a> NPR: Even Democrats from non-border states are beginning to question President Biden's plans to lift pandemic-era immigration restrictions. And year-old audio from a Republican leader makes waves. 
  <p class="updated_time"> 06:42 AM CT, Apr. 23 </p> 
  <a href="https://www.cnn.com/2022/04/22/politics/marjorie-taylor-greene-disqualification-takeaways/index.html">Takeaways from the January 6-focused hearing on the bid to disqualify Marjorie Taylor Greene </a> CNN: A hearing Friday on the longshot bid to remove Rep. Marjorie Taylor Greene from the ballot forced the far-right lawmaker to confront some of the incendiary rhetoric she's used in the past, even as she denied vehemently that she encouraged the violent January 6 attack on the Capitol. 
- <p class="updated_time"> 04:00 AM CT, Apr. 23 </p> 
- <a href="https://www.npr.org/2022/04/23/1094396209/republicans-face-a-new-reckoning-over-what-gop-house-leader-mccarthy-said-about-">Republicans face a new reckoning over what GOP House leader McCarthy said about Trump</a> NPR: McCarthy faces a tricky conversation with his conference over what he said, which could come when the House returns from recess next week, but the ultimate judge is likely former President Trump. 
  <p class="updated_time"> 10:36 PM CT, Apr. 22 </p> 
  <a href="https://www.politico.com/news/2022/04/22/gop-lawmakers-deeply-involved-in-trump-plans-to-overturn-election-new-evidence-suggests-00027340">GOP lawmakers were deeply involved in Trump plans to overturn election, new evidence suggests</a> Politico: Deposition excerpts filed by the Jan 6. select committee underscore the expansive cast of elected Republicans who had enlisted themselves in Trump’s effort to cling to power. 
  <p class="updated_time"> 08:52 PM CT, Apr. 22 </p> 
