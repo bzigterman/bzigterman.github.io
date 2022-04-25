@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:21 PM CT, Apr. 25 </p> 
+ <p class="updated_time"> 05:38 PM CT, Apr. 25 </p> 
+ <a href="https://www.npr.org/2022/04/25/1094721838/beijing-china-covid-mass-testing">Beijing will mass-test most of the city as COVID-19 cases mount</a> NPR: Beijing will conduct mass testing of most of its 21 million people, authorities announced, as a new COVID-19 outbreak sparked stockpiling of food by residents. 
+ <p class="updated_time"> 05:26 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: U.S. Says It Wants Russian Military Weakened</a> NYT: President Biden nominated a new ambassador to Ukraine after a high-stakes trip to Kyiv by two top U.S. officials. Within hours of the visit, Russian missiles struck at least five railway stations across the country. 
  <p class="updated_time"> 05:21 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/emmanuel-macron-france-reelection-reinvention.html">Emmanuel Macron Tries to Reinvent Himself After Re-election</a> NYT: France seems in search of a kinder, gentler, greener President Macron. He says he will listen. 
+ <p class="updated_time"> 04:44 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit 
  <p class="updated_time"> 04:43 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-61222470?at_medium=RSS&at_campaign=KARANGA">Elon Musk strikes deal to buy Twitter for $44bn</a> BBC: Mr Musk, who made the shock bid just over a week ago, said he would "unlock" the social media firm's potential. 
- <p class="updated_time"> 04:27 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit 
  <p class="updated_time"> 04:04 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094680464/a-new-documentary-focuses-on-the-near-fatal-poisoning-of-russian-opposition-lead">A new documentary focuses on the near-fatal poisoning of Russian opposition leader</a> NPR: NPR's Rob Schmitz talks with Daniel Roher, director of the documentary Navalny, about the poisoning of the Russian opposition leader. 
  <p class="updated_time"> 04:01 PM CT, Apr. 25 </p> 
@@ -27,23 +29,23 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/25/1094680380/with-lockdown-fears-looming-beijing-is-testing-millions-for-covid">With lockdown fears looming, Beijing is testing millions for COVID</a> NPR: Beijing says it will test all 3.6 million residents in its largest district after finding about four dozen COVID cases. Residents fear a city-wide lockdown is imminent. 
  <p class="updated_time"> 03:53 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094680373/u-s-defense-secretary-wants-to-see-russia-weakened-as-ukraines-railways-are-hit">U.S. defense secretary 'wants to see Russia weakened' as Ukraine's railways are hit</a> NPR: Secretary of Defense Lloyd Austin said the U.S. wants to see the Russian military weakened on the battlefield. Meanwhile, Russian missiles struck railway infrastructure in central and western Ukraine. 
+ <p class="updated_time"> 03:44 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002">Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</a> WSJ: Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine 
  <p class="updated_time"> 03:38 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61220570?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Russia hits railways as US pledges extra weapons</a> BBC: A chilling account of a Russian filtration camp and US hopes for Russia to be "weakened". 
- <p class="updated_time"> 03:27 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002">Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</a> WSJ: Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine 
  <p class="updated_time"> 03:22 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61221859?at_medium=RSS&at_campaign=KARANGA">Johnny Depp blames 'burn Amber' text on Monty Python</a> BBC: Mr Depp defends messages sent to fellow actor Paul Bettany saying he would burn his then-girlfriend. 
  <p class="updated_time"> 02:50 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/macron-le-pen-orban.html">Macron’s Win Is Also a Blow to Orban’s Nationalist Crusade in Europe</a> NYT: The Hungarian leader had cast his own victory as the start of a nationalist wave in Europe — one that Marine Le Pen would have joined. Instead, Mr. Macron’s victory in France is a win for the European Union’s approach. 
  <p class="updated_time"> 02:49 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/04/25/world/macron-french-election">Live Updates: As Allies Hail Macron’s Re-election, Challenges Loom in France</a> NYT: Emmanuel Macron’s 17-point margin over the far-right challenger Marine Le Pen was greeted with relief in Western capitals. Economic issues are expected to be a priority of his second term. 
- <p class="updated_time"> 02:27 PM CT, Apr. 25 </p> 
+ <p class="updated_time"> 02:44 PM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090">Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power</a> WSJ: Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power 
  <p class="updated_time"> 02:00 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61217528?at_medium=RSS&at_campaign=KARANGA">Ukraine: Facing the Russian Army on the front line in Donbas</a> BBC: Ukrainian forces have been holding the line in Donbas since 2014, but what was sporadic fighting has now turned into a full-blown war. 
  <p class="updated_time"> 01:57 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/africa/bain-south-africa-jacob-zuma.html">An American Consulting Firm Became a Power Broker, and Then a Pariah, in South Africa</a> NYT: A new judicial inquiry found that corruption at South Africa’s tax agency was because of “collusion” between Bain & Company and South Africa’s former president. 
- <p class="updated_time"> 01:27 PM CT, Apr. 25 </p> 
+ <p class="updated_time"> 01:44 PM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/erdogan-critic-given-life-sentence-in-ruling-likely-to-stoke-tensions-with-west-11650904728">Erdogan Critic Given Life Sentence in Turkey</a> WSJ: Erdogan Critic Given Life Sentence in Turkey 
  <p class="updated_time"> 01:23 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61221860?at_medium=RSS&at_campaign=KARANGA">Donald Trump held in contempt in New York legal battle</a> BBC: The former president will be fined $10,000 (£7,850) every day until he turns over requested files. 
@@ -55,10 +57,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/25/1094633961/z-movie-name-ukraine-russia">French zombie comedy 'Z' changes its name ahead of Cannes, at Ukrainians' urging</a> NPR: Director Michel Hazanavicius changed the name for the Cannes opener after Ukrainian protesters noted that the letter Z has come to symbolize support for Russia's war in Ukraine. 
  <p class="updated_time"> 01:04 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/ukraine-zelenksy-government.html">How Zelensky Tamed Ukraine’s Fractious Politics and Stood Up to Putin</a> NYT: Ukrainian politics were known for sharp-elbowed infighting. But as he defends his country against the Russian invasion, President Volodymyr Zelensky has his government presenting a unified front. 
+ <p class="updated_time"> 12:44 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying</a> WSJ: Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying 
  <p class="updated_time"> 12:37 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094632903/bridget-brink-ambassador-ukraine-us">Biden plans to nominate Bridget Brink as the next ambassador to Ukraine. Who is she?</a> NPR: Brink has served as the U.S. ambassador to Slovakia since 2019. She has more than two decades of experience in the Foreign Service, including stints in Georgia and Uzbekistan. 
- <p class="updated_time"> 12:27 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying</a> WSJ: Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying 
  <p class="updated_time"> 12:03 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61218241?at_medium=RSS&at_campaign=KARANGA">Osman Kavala: Turkish activist sentenced to life in prison</a> BBC: Osman Kavala is found guilty on coup plot charges in a case criticised as politically motivated. 
  <p class="updated_time"> 12:02 PM CT, Apr. 25 </p> 
@@ -135,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/24/1094567906/the-war-has-many-ukrainians-who-speak-russian-abandoning-the-language">The war has many Ukrainians who speak Russian abandoning the language</a> NPR: A third of Ukrainians speak Russian as their first language. But Russia's invasion has led several people to distance themselves from the language. 
  <p class="updated_time"> 03:58 PM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094567892/french-president-macron-is-staying-in-power-with-sundays-win">French President Macron is staying in power with Sunday's win</a> NPR: President Emmanuel Macron has won reelection, beating Marine Le Pen, his far-right rival, in a presidential election runoff. 
- <p class="updated_time"> 03:48 PM CT, Apr. 24 </p> 
- <a href="https://www.npr.org/2022/04/24/1094550020/antarcticas-penguin-post-office-is-hiring">Antarctica's 'Penguin Post Office' is hiring</a> NPR: If you can sort mail, sell postage stamps and count penguins, this could be the job for you. 
  <p class="updated_time"> 03:43 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/ukrainian-forces-mariupol-steel-plant.html">Ukrainians in Mariupol’s Steel Plant Are Holding On, a Commander Tells the Times</a> NYT: Capt. Svyatoslav Palamar says he and others would give up the factory if they could leave safely. 
  <p class="updated_time"> 03:24 PM CT, Apr. 24 </p> 
