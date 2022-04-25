@@ -388,6 +388,15 @@ html {
   font-size: 65%;
 }
 
+#cu_covid_table .gt_two_val_uncert {
+  display: inline-block;
+  line-height: 1em;
+  text-align: right;
+  font-size: 60%;
+  vertical-align: -0.25em;
+  margin-left: 0.1em;
+}
+
 #cu_covid_table .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
@@ -864,6 +873,15 @@ html {
   font-size: 65%;
 }
 
+#il_table .gt_two_val_uncert {
+  display: inline-block;
+  line-height: 1em;
+  text-align: right;
+  font-size: 60%;
+  vertical-align: -0.25em;
+  margin-left: 0.1em;
+}
+
 #il_table .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
@@ -1317,6 +1335,15 @@ html {
 
 #usa_table .gt_super {
   font-size: 65%;
+}
+
+#usa_table .gt_two_val_uncert {
+  display: inline-block;
+  line-height: 1em;
+  text-align: right;
+  font-size: 60%;
+  vertical-align: -0.25em;
+  margin-left: 0.1em;
 }
 
 #usa_table .gt_footnote_marks {
@@ -1790,6 +1817,15 @@ html {
 
 #world_table .gt_super {
   font-size: 65%;
+}
+
+#world_table .gt_two_val_uncert {
+  display: inline-block;
+  line-height: 1em;
+  text-align: right;
+  font-size: 60%;
+  vertical-align: -0.25em;
+  margin-left: 0.1em;
 }
 
 #world_table .gt_footnote_marks {
