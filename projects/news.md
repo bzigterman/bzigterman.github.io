@@ -15,7 +15,9 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">French Election: Macron Holds Off Far-Right Push</a> NYT: Marine Le Pen concedes defeat to President Emmanuel Macron, the first French leader to be re-elected since 2002. 
  <p class="updated_time"> 11:49 PM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/25/1094586702/china-promotes-coal-in-setback-for-efforts-to-cut-emissions">China promotes coal in setback for efforts to cut emissions</a> NPR: Officials in the country face political pressure to ensure stability as President Xi Jinping prepares to try and award himself a third five-year term as ruling party leader. 
- <p class="updated_time"> 11:23 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 11:44 PM CT, Apr. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61212757?at_medium=RSS&at_campaign=KARANGA">Beijing kicks off mass testing after spike in Covid cases</a> BBC: Dozens of cases were reported, sparking fears that Beijing could face a similar situation to Shanghai. 
+ <p class="updated_time"> 11:38 PM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/emmanuel-macron-wins-french-election-2022-11650815682">France’s Macron Wins Second Term</a> WSJ: France’s Macron Wins Second Term 
  <p class="updated_time"> 10:55 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/covid-beijing-shanghai.html">Covid Outbreak in Beijing Prompts Panic Buying and Fears of a Lockdown</a> NYT: Supermarkets stocked up as long lines formed. The Chinese authorities ordered mass testing to contain a rising number of coronavirus cases in an affluent district of the capital. 
@@ -23,15 +25,15 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61209058?at_medium=RSS&at_campaign=KARANGA">Macron defeats Le Pen and vows to unite divided France</a> BBC: He triumphs over his far-right rival and becomes the first president to win re-election in 20 years. 
  <p class="updated_time"> 10:41 PM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094553107/the-u-s-promises-to-gradually-reopen-its-embassy-in-ukraine">The U.S. promises to gradually reopen its embassy in Ukraine</a> NPR: Signaling renewed support for Ukraine, the U.S. says it will slowly return diplomats back to the Ukrainian capital. It also promised new military aid for the besieged country. 
+ <p class="updated_time"> 10:38 PM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278">Top U.S. Officials Meet With Zelensky in Kyiv</a> WSJ: Top U.S. Officials Meet With Zelensky in Kyiv 
  <p class="updated_time"> 10:29 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/slovenia-election-results-janez-jansa.html">Another Setback for Europe’s Far-Right Populists on Sunday, in Slovenia</a> NYT: The country’s prime minister, Janez Jansa, a Trump admirer, appears to have lost to centrist rivals. 
- <p class="updated_time"> 10:23 PM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278">Top U.S. Officials Meet With Zelensky in Kyiv</a> WSJ: Top U.S. Officials Meet With Zelensky in Kyiv 
  <p class="updated_time"> 10:19 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/blinken-austin-ukraine-visit.html">U.S. Officials Make Top-Secret Visit to Ukraine</a> NYT: The American government refused to comment on reports that Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III had traveled to Ukraine to meet with its leaders. 
  <p class="updated_time"> 10:12 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/modi-kashmir-india.html">Modi Stresses Growth, Sidestepping Politics, in Visit to Restive Territory</a> NYT: The Indian prime minister aims to ease decades of turmoil in Jammu and Kashmir through projects like a solar plant. 
- <p class="updated_time"> 09:23 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 09:38 PM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/u-s-withholds-sanctions-on-a-very-close-putin-associate-his-alleged-girlfriend-11650816894">U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend</a> WSJ: U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend 
  <p class="updated_time"> 08:55 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/climate/climate-change-rally-white-house.html">Climate Activists Rally at the White House to Demand Action</a> NYT: In Washington, D.C., as well as Phoenix, Atlanta and scores of other cities across the country, demonstrators called on the government to enact bold climate action. 
@@ -39,13 +41,13 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/60867414?at_medium=RSS&at_campaign=KARANGA">Ukraine war: False TikTok videos draw millions of views</a> BBC: Misleading videos have been viewed by millions as it struggles to deal with so much false material. 
  <p class="updated_time"> 08:41 PM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61116018?at_medium=RSS&at_campaign=KARANGA">SpaceX: Can meat be grown in space?</a> BBC: An experiment to find out has just finished on the International Space Station. 
- <p class="updated_time"> 08:23 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 08:38 PM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/saudi-royals-are-selling-homes-yachts-and-art-as-crown-prince-cuts-income-11650792780">Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income</a> WSJ: Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income 
  <p class="updated_time"> 08:19 PM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094582459/168-people-were-killed-in-violence-in-darfur-sudan-an-aid-group-says">168 people were killed in violence in Darfur, Sudan, an aid group says</a> NPR: Tribal clashes between Arabs and non-Arabs in Sudan's war-ravaged Darfur region killed 168 people, a local aid group said. 
  <p class="updated_time"> 08:02 PM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61208404?at_medium=RSS&at_campaign=KARANGA">'You can't imagine the conditions' - Mariupol refugees share trauma of civilian camps</a> BBC: Those who have fled the Ukrainian city say people are being held in cramped, unclean, camps. 
- <p class="updated_time"> 07:23 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 07:38 PM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/israel-closes-gaza-border-in-effort-to-pressure-hamas-to-halt-rocket-attacks-11650808823">Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks</a> WSJ: Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks 
  <p class="updated_time"> 06:55 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/africa/sudan-darfur-janjaweed.html">Arab Militia Kills Scores in Sweeping Attack in Sudan’s Darfur</a> NYT: The assault by hundreds of Janjaweed fighters, the latest in a series of clashes, was another sign of Sudan's deepening security and political crisis. 
@@ -155,8 +157,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/23/world/europe/schroder-germany-russia-gas-ukraine-war-energy.html">How the Ex-Chancellor Gerhard Schröder Became Putin’s Man in Germany</a> NYT: Gerhard Schröder, who is paid almost $1 million a year by Russian-controlled energy companies, has become a pariah. But he is also a symbol of Germany’s Russia policy. 
  <p class="updated_time"> 07:46 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/asia/japan-tattoo.html">Discreetly, the Young in Japan Chip Away at a Taboo on Tattoos</a> NYT: Exposed to body art on social media, more young Japanese are getting tattoos, even if that means hiding them at work. 
- <p class="updated_time"> 07:34 AM CT, Apr. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61201548?at_medium=RSS&at_campaign=KARANGA">Mariupol steelworks: Video appears to show children in Azovstal bunker</a> BBC: Ukrainian fighters post a video of civilians who they say have been hiding under a steel plant for weeks. 
  <p class="updated_time"> 05:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/canada/nhl-stanley-cup-leafs-penguins-crosby.html">Canada’s Stanley Cup Hopes Rest on Leafs, Flames, Oilers</a> NYT: The N.H.L. playoffs are a beloved routine of Canadian springtime that can make fans as crazy as the season’s mercurial weather. 
  <p class="updated_time"> 08:57 PM CT, Apr. 22 </p> 
