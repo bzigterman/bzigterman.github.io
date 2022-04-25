@@ -9,21 +9,23 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:25 PM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">What Happened on Day 60 of the War in Ukraine</a> NYT: The U.S. secretaries of state and defense were the highest-level American officials to go to Ukraine. A Ukrainian commander told The Times that the steel plant in Mariupol hasn’t fallen, but that he and others would give up if they could leave the factory safely. 
+ <p class="updated_time"> 10:55 PM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/2022/04/24/world/asia/covid-beijing-shanghai.html">Covid Outbreak in Beijing Prompts Panic Buying and Fears of a Lockdown</a> NYT: Supermarkets stocked up as long lines formed. The Chinese authorities ordered mass testing to contain a rising number of coronavirus cases in an affluent district of the capital. 
  <p class="updated_time"> 10:54 PM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61209058?at_medium=RSS&at_campaign=KARANGA">Macron defeats Le Pen and vows to unite divided France</a> BBC: He triumphs over his far-right rival and becomes the first president to win re-election in 20 years. 
- <p class="updated_time"> 10:51 PM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">What Happened on Day 60 of the War in Ukraine</a> NYT: The U.S. secretaries of state and defense were the highest-level American officials to go to Ukraine. A Ukrainian commander told The Times that the steel plant in Mariupol hasn’t fallen, but that he and others would give up if they could leave the factory safely. 
  <p class="updated_time"> 10:41 PM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094553107/the-u-s-promises-to-gradually-reopen-its-embassy-in-ukraine">The U.S. promises to gradually reopen its embassy in Ukraine</a> NPR: Signaling renewed support for Ukraine, the U.S. says it will slowly return diplomats back to the Ukrainian capital. It also promised new military aid for the besieged country. 
+ <p class="updated_time"> 10:33 PM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/emmanuel-macron-wins-french-election-2022-11650815682">France’s Macron Wins Second Term</a> WSJ: France’s Macron Wins Second Term 
  <p class="updated_time"> 10:29 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/slovenia-election-results-janez-jansa.html">Another Setback for Europe’s Far-Right Populists on Sunday, in Slovenia</a> NYT: The country’s prime minister, Janez Jansa, a Trump admirer, appears to have lost to centrist rivals. 
  <p class="updated_time"> 10:19 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/blinken-austin-ukraine-visit.html">U.S. Officials Make Top-Secret Visit to Ukraine</a> NYT: The American government refused to comment on reports that Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III had traveled to Ukraine to meet with its leaders. 
  <p class="updated_time"> 10:12 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/modi-kashmir-india.html">Modi Stresses Growth, Sidestepping Politics, in Visit to Restive Territory</a> NYT: The Indian prime minister aims to ease decades of turmoil in Jammu and Kashmir through projects like a solar plant. 
- <p class="updated_time"> 09:59 PM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/emmanuel-macron-wins-french-election-2022-11650815682">France’s Macron Wins Second Term</a> WSJ: France’s Macron Wins Second Term 
- <p class="updated_time"> 08:59 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 09:33 PM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278">Top U.S. Officials Meet With Zelensky in Kyiv</a> WSJ: Top U.S. Officials Meet With Zelensky in Kyiv 
  <p class="updated_time"> 08:55 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/climate/climate-change-rally-white-house.html">Climate Activists Rally at the White House to Demand Action</a> NYT: In Washington, D.C., as well as Phoenix, Atlanta and scores of other cities across the country, demonstrators called on the government to enact bold climate action. 
@@ -33,22 +35,22 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/60867414?at_medium=RSS&at_campaign=KARANGA">Ukraine war: False TikTok videos draw millions of views</a> BBC: Misleading videos have been viewed by millions as it struggles to deal with so much false material. 
  <p class="updated_time"> 08:41 PM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61116018?at_medium=RSS&at_campaign=KARANGA">SpaceX: Can meat be grown in space?</a> BBC: An experiment to find out has just finished on the International Space Station. 
+ <p class="updated_time"> 08:33 PM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-s-withholds-sanctions-on-a-very-close-putin-associate-his-alleged-girlfriend-11650816894">U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend</a> WSJ: U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend 
  <p class="updated_time"> 08:19 PM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094582459/168-people-were-killed-in-violence-in-darfur-sudan-an-aid-group-says">168 people were killed in violence in Darfur, Sudan, an aid group says</a> NPR: Tribal clashes between Arabs and non-Arabs in Sudan's war-ravaged Darfur region killed 168 people, a local aid group said. 
  <p class="updated_time"> 08:02 PM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61208404?at_medium=RSS&at_campaign=KARANGA">'You can't imagine the conditions' - Mariupol refugees share trauma of civilian camps</a> BBC: Those who have fled the Ukrainian city say people are being held in cramped, unclean, camps. 
- <p class="updated_time"> 07:59 PM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/u-s-withholds-sanctions-on-a-very-close-putin-associate-his-alleged-girlfriend-11650816894">U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend</a> WSJ: U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend 
- <p class="updated_time"> 06:59 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 07:33 PM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/saudi-royals-are-selling-homes-yachts-and-art-as-crown-prince-cuts-income-11650792780">Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income</a> WSJ: Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income 
  <p class="updated_time"> 06:55 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/africa/sudan-darfur-janjaweed.html">Arab Militia Kills Scores in Sweeping Attack in Sudan’s Darfur</a> NYT: The assault by hundreds of Janjaweed fighters, the latest in a series of clashes, was another sign of Sudan's deepening security and political crisis. 
+ <p class="updated_time"> 06:33 PM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/israel-closes-gaza-border-in-effort-to-pressure-hamas-to-halt-rocket-attacks-11650808823">Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks</a> WSJ: Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks 
  <p class="updated_time"> 06:03 PM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61196572?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Lalibela struggles as war and Covid-19 keep tourists away</a> BBC: In the historic Ethiopian town of Lalibela, civil war and Covid-19 have left many without livelihoods. 
  <p class="updated_time"> 06:01 PM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61192215?at_medium=RSS&at_campaign=KARANGA">The Olympic hopeful turned bike-riding bank robber</a> BBC: When Tom Justice failed to make the Olympics he decided to use his cycling skills to rob banks instead. 
- <p class="updated_time"> 05:59 PM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/israel-closes-gaza-border-in-effort-to-pressure-hamas-to-halt-rocket-attacks-11650808823">Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks</a> WSJ: Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks 
  <p class="updated_time"> 05:50 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/french-election-results-macron-le-pen.html">Emmanuel Macron Defeats Marine Le Pen for Second Term as French President</a> NYT: The result was a relief to allies in Europe and Washington wary of a far-right challenger who was hostile to the European Union and NATO. 
  <p class="updated_time"> 05:49 PM CT, Apr. 24 </p> 
@@ -185,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/22/world/europe/1922-women-smoking-cigars.html">1922: Sight of Women Smoking A Cigar Shocks Paris</a> NYT: Two women who shared a Havana cigar in a Parisian restaurant reportedly caused a stir. 
  <p class="updated_time"> 02:37 AM CT, Apr. 22 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/asia/new-zealand-japan-intelligence.html">New Zealand Deal May Put Japan Closer to Intelligence Alliance</a> NYT: The two countries announced a goal of “seamless” sharing of classified information as China moves to expand its influence in the Asia-Pacific region. 
- <p class="updated_time"> 02:00 AM CT, Apr. 22 </p> 
- <a href="https://www.nytimes.com/2022/04/22/world/europe/le-pen-putin-france-election.html">As Marine Le Pen Moves Closer to French Presidency, Putin Ties Persist</a> NYT: As elections approach Sunday, the far-right candidate is linked to the Russian president by a web of financial ties and a history of support that has hardly dimmed despite the war in Ukraine. 
  <p class="updated_time"> 11:39 PM CT, Apr. 21 </p> 
  <a href="https://www.nytimes.com/2022/04/22/world/asia/north-korea-kim-moon-letters.html">President Moon Exchanges Farewell Letters With Kim Jong-un</a> NYT: President Moon Jae-in, who is barred from seeking re-election after his five-year term, and the North’s leader had warm parting words amid a diplomatic stalemate. 
 
