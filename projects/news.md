@@ -9,24 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:16 AM CT, Apr. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: U.S. Says It Wants Russian Military ‘Weakened’</a> NYT: After a high-stakes visit to Kyiv, Defense Secretary Lloyd J. Austin III said he wanted to make sure that Russia would not be able to “do the kinds of things that it has done” in the invasion. Hours after he left the capital, Russian missiles struck at least five railway stations across Ukraine. 
+ <p class="updated_time"> 06:13 AM CT, Apr. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/25/world/macron-french-election">Live Updates: Allies Hail Macron’s Re-Election in France</a> NYT: Emmanuel Macron’s 17-point margin over the far-right challenger Marine Le Pen, though narrower than five years ago, was greeted with relief by his supporters and in Western capitals. 
+ <p class="updated_time"> 05:54 AM CT, Apr. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61214176?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US wants to see a weakened Russia</a> BBC: US Defence Secretary Lloyd Austin said he hoped to see the Russian military depleted in Ukraine. 
  <p class="updated_time"> 05:51 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-61212573?at_medium=RSS&at_campaign=KARANGA">Nissan signals the end of the road for Datsun cars</a> BBC: The Japanese firm previously called the range of cars "an important part of Nissan's DNA". 
- <p class="updated_time"> 05:48 AM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: U.S. Says It Wants Russian Military ‘Weakened’</a> NYT: After a high-stakes visit to Kyiv, Defense Secretary Lloyd J. Austin III said he wanted to make sure that Russia would not be able to “do the kinds of things that it has done” in the invasion. Hours after he left the capital, Russian missiles struck at least five railway stations across Ukraine. 
  <p class="updated_time"> 05:38 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/04/25/world/ukraine-russia-war-news/ukraine-zelenksy-government">How Zelensky Ended Political Discord and Put Ukraine on a War Footing</a> NYT: Ukrainian politics were known for sharp-elbowed infighting. But as he defends his country against the Russian invasion, President Volodymyr Zelensky has his government presenting a unified front. 
- <p class="updated_time"> 05:34 AM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/04/25/world/macron-french-election">Live Updates: Allies Hail Macron’s Re-Election in France</a> NYT: Emmanuel Macron’s 17-point margin over the far-right challenger Marine Le Pen, though narrower than five years ago, was greeted with relief by his supporters and in Western capitals. 
  <p class="updated_time"> 05:34 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/putin-macron-french-election.html">Putin Congratulates Macron on French Election Victory</a> NYT: Mr. Macron’s opponent, Marine Le Pen, was seen in Russia as a potential game-changing option, amid the threat of new sanctions over the war in Ukraine. 
  <p class="updated_time"> 05:31 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/london-stabbing-deaths.html">Four People Fatally Stabbed in London</a> NYT: A suspect was in custody Monday morning, and the police say they believe the attacker and the victims knew each other. 
- <p class="updated_time"> 04:58 AM CT, Apr. 25 </p> 
+ <p class="updated_time"> 05:22 AM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Austin</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Austin 
  <p class="updated_time"> 04:32 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/slovenia-election-results-janez-jansa.html">Slovenia Election: Europe’s Far-Right Populists Suffer Another Setback</a> NYT: The country’s prime minister, Janez Jansa, a Trump admirer, appears to have lost to centrist rivals. 
  <p class="updated_time"> 04:22 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61209058?at_medium=RSS&at_campaign=KARANGA">French election result: Macron defeats Le Pen and vows to unite divided France</a> BBC: He triumphs over his far-right rival and becomes the first president to win re-election in 20 years. 
+ <p class="updated_time"> 04:22 AM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/israel-strikes-lebanon-in-response-to-rocket-attack-11650876064">Israel Strikes Lebanon in Response to Rocket Attack</a> WSJ: Israel Strikes Lebanon in Response to Rocket Attack 
  <p class="updated_time"> 04:09 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/ukraine-shelling-kharkiv.html">In a Ukrainian School, 12 People Await the War’s End, or Their Own</a> NYT: In the basement of a battered school in Kharkiv, a dozen residents have taken shelter. In a neighborhood not far away, life has returned to some sense of normalcy. But they choose to stay. 
  <p class="updated_time"> 04:01 AM CT, Apr. 25 </p> 
@@ -35,20 +39,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/travel/japan-kii-peninsula-pilgrimage-routes.html">A Long Walk in a Fading Corner of Japan</a> NYT: As is true throughout rural Japan, many of the once-vibrant villages on Honshu’s Kii Peninsula are aging into nothingness. 
  <p class="updated_time"> 04:00 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/business/china-covid-zero-economy.html">China’s Covid Lockdowns Stir Memories of a Planned Economy</a> NYT: China is meddling with free enterprise as it hasn’t in decades. The results are familiar to those old enough to remember: scarcity, and the rise of black markets. 
- <p class="updated_time"> 03:58 AM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/israel-strikes-lebanon-in-response-to-rocket-attack-11650876064">Israel Strikes Lebanon in Response to Rocket Attack</a> WSJ: Israel Strikes Lebanon in Response to Rocket Attack 
  <p class="updated_time"> 03:28 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61214175?at_medium=RSS&at_campaign=KARANGA">Janez Jansa: Slovenia votes out pro-Trump populist</a> BBC: Janez Jansa was defeated by the Freedom Movement, a new liberal party launched just four months ago. 
- <p class="updated_time"> 02:58 AM CT, Apr. 25 </p> 
+ <p class="updated_time"> 03:22 AM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/worlds-oldest-person-japans-kane-tanaka-dies-at-119-11650877349">World’s Oldest Person, Japan’s Kane Tanaka, Dies at 119</a> WSJ: World’s Oldest Person, Japan’s Kane Tanaka, Dies at 119 
- <p class="updated_time"> 01:58 AM CT, Apr. 25 </p> 
+ <p class="updated_time"> 02:22 AM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Braces for Omicron Wave With Hoarding and Testing</a> WSJ: Beijing Braces for Omicron Wave With Hoarding and Testing 
  <p class="updated_time"> 01:55 AM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094588767/u-s-promises-new-aid-to-ukraine-in-fight-against-russia">U.S. promises new aid to Ukraine in fight against Russia</a> NPR: U.S. officials say Washington had approved a $165 million sale of ammunition for Ukraine's war effort, along with more than $300 million in foreign military financing. 
  <p class="updated_time"> 01:34 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/ukraine-pentagon-arms-buyers.html">Seeking Arms for Ukraine, Pentagon Buyers Scour Eastern European Factories</a> NYT: Soviet-designed ammunition is part of the ‘life blood’ for Ukrainian troops fighting Russia, and the United States is keeping it flowing. 
- <p class="updated_time"> 12:58 AM CT, Apr. 25 </p> 
+ <p class="updated_time"> 01:22 AM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/u-s-withholds-sanctions-on-a-very-close-putin-associate-his-alleged-girlfriend-11650816894">U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend</a> WSJ: U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend 
+ <p class="updated_time"> 12:30 AM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002">Russian Military's Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</a> WSJ: Moscow’s heavy use and loss of weapons in Ukraine, combined with severe Western sanctions, will crimp its military might and lucrative arms exports for years, hindering its ability to produce everything from new weapons systems to spare parts. 
  <p class="updated_time"> 11:49 PM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/25/1094586702/china-promotes-coal-in-setback-for-efforts-to-cut-emissions">China promotes coal in setback for efforts to cut emissions</a> NPR: Officials in the country face political pressure to ensure stability as President Xi Jinping prepares to try and award himself a third five-year term as ruling party leader. 
  <p class="updated_time"> 11:44 PM CT, Apr. 24 </p> 
@@ -109,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/24/world/asia/cold-war-ukraine.html">With Us or With Them? In a New Cold War, How About Neither.</a> NYT: Old geopolitical foes are facing off after Russia’s invasion of Ukraine, but much of the world is refusing to take sides. 
  <p class="updated_time"> 11:27 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61209761?at_medium=RSS&at_campaign=KARANGA">Shanghai: Green fences baffle locked down residents</a> BBC: Two-metre barriers have appeared all over the city as officials battle to contain a Covid outbreak. 
- <p class="updated_time"> 10:58 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/emmanuel-macron-wins-french-election-2022-11650815682">France's Macron Wins Second Term</a> WSJ: French President Emmanuel Macron was re-elected, according to projections based on early ballot counts, overcoming deep divisions among voters worried about inflation and immigration. 
  <p class="updated_time"> 10:54 AM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/france-election-voters-le-pen.html">Some Voters in a Wealthy Paris Suburb Consider Backing Le Pen</a> NYT: In Neuilly-sur-Seine, an upscale city west of Paris, Marine Le Pen may gain the votes of those who had supported Éric Zemmour. 
  <p class="updated_time"> 10:54 AM CT, Apr. 24 </p> 
@@ -147,8 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/24/business/akihiko-kondo-fictional-character-relationships.html">This Man Married a Fictional Character. He’d Like You to Hear Him Out.</a> NYT: Akihiko Kondo and thousands of others are in devoted fictional relationships, served by a vast industry aimed at satisfying the desires of a fervent fan culture. 
  <p class="updated_time"> 12:51 AM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61204407?at_medium=RSS&at_campaign=KARANGA">The sirens alerting Ukrainians to the danger of Russia air strikes</a> BBC: The BBC's Dan Johnson looks at how Lviv's sirens alert people to possible Russia air strikes. 
- <p class="updated_time"> 12:33 AM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/saudi-royals-are-selling-homes-yachts-and-art-as-crown-prince-cuts-income-11650792780">Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income</a> WSJ: Saudi Arabia’s senior princes have sold more than $600 million worth of real estate, yachts and artwork as they try to raise cash and avoid scrutiny from de facto ruler Crown Prince Mohammed bin Salman. 
  <p class="updated_time"> 11:14 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/ukraine-poland-refugees.html">Warsaw’s Welcome Mat Risks Fraying Under Strain of a New Refugee Surge</a> NYT: Warsaw gladly and proudly accepted 300,000 Ukrainians fleeing the war. But as the Polish capital braces for a new wave of refugees, its mayor warns that the city is “at capacity.” 
  <p class="updated_time"> 09:36 PM CT, Apr. 23 </p> 
@@ -157,8 +157,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/23/world/asia/tour-boat-missing-japan-hokkaido.html">26 Missing From Japanese Tour Boat After Distress Call off Hokkaido</a> NYT: The sightseeing vessel was on a three-hour round trip tour to the tip of Cape Shiretoko. The Japan Coast Guard had dispatched rescue boats and aircraft to the area near the Kashuni Falls. 
  <p class="updated_time"> 07:05 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/zelensky-donbas-ukraine-russia.html">As Western Arms Pour Into Ukraine, Zelensky Promises Victory</a> NYT: “The day when they will be forced to leave Ukraine is approaching,” the Ukrainian president said of the Russians, in a sharp change of tone. 
- <p class="updated_time"> 06:45 PM CT, Apr. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61105532?at_medium=RSS&at_campaign=KARANGA">Rwanda genocide: 'I forgave my husband's killer - our children married'</a> BBC: The love story of a couple is being used to reconcile Rwandans 28 years after the genocide. 
  <p class="updated_time"> 06:39 PM CT, Apr. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61195923?at_medium=RSS&at_campaign=KARANGA">David Nott: The war surgeon helping doctors save lives in Ukraine</a> BBC: David Nott worked in conflict zones around the world - now he's sharing his expertise to help doctors in Ukraine. 
  <p class="updated_time"> 06:00 PM CT, Apr. 23 </p> 
