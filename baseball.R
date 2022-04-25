@@ -1,4 +1,3 @@
-install.packages("svglite")
 library(tidyverse)
 library(lubridate)
 library(scales)
