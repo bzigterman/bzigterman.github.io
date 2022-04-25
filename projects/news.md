@@ -9,72 +9,74 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:49 AM CT, Apr. 25 </p> 
+ <p class="updated_time"> 12:20 PM CT, Apr. 25 </p> 
+ <a href="https://www.nytimes.com/2022/04/25/world/europe/ukraine-zelenksy-government.html">How Zelensky Tamed Ukraine’s Fractious Politics and Stood Up to Putin</a> NYT: Ukrainian politics were known for sharp-elbowed infighting. But as he defends his country against the Russian invasion, President Volodymyr Zelensky has his government presenting a unified front. 
+ <p class="updated_time"> 12:14 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: U.S. Says It Wants Russian Military Weakened</a> NYT: President Biden nominated a new ambassador to Ukraine after a high-stakes trip to Kyiv by two top U.S. officials. Within hours of the visit, Russian missiles struck at least five railway stations across the country. 
- <p class="updated_time"> 11:48 AM CT, Apr. 25 </p> 
+ <p class="updated_time"> 12:14 PM CT, Apr. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/25/world/macron-french-election">Live Updates: As Allies Hail Macron’s Re-election, Challenges Loom in France</a> NYT: Emmanuel Macron’s 17-point margin over the far-right challenger Marine Le Pen was greeted with relief in Western capitals. Economic issues are expected to be a priority of his second term. 
+ <p class="updated_time"> 12:11 PM CT, Apr. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61221860?at_medium=RSS&at_campaign=KARANGA">Donald Trump held in contempt in New York legal battle</a> BBC: The former president will be fined $10,000 (£7,850) every day until he turns over requested files. 
+ <p class="updated_time"> 12:10 PM CT, Apr. 25 </p> 
+ <a href="https://www.nytimes.com/2022/04/25/world/europe/turkey-court-conviction-osman-kavala-mucella-yapici.html">Turkey Convicts Erdogan Critics Kavala and Yapici</a> NYT: Osman Kavala, a well-known philanthropist, was found guilty of charges related to popular protests in 2013. 
+ <p class="updated_time"> 12:03 PM CT, Apr. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61218241?at_medium=RSS&at_campaign=KARANGA">Osman Kavala: Turkish activist sentenced to life in prison</a> BBC: Osman Kavala is found guilty on coup plot charges in a case criticised as politically motivated. 
+ <p class="updated_time"> 12:02 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61218611?at_medium=RSS&at_campaign=KARANGA">Number of US police officers murdered up by 59% - FBI</a> BBC: The head of the FBI says violence against police is a "phenomena" that "doesn't get enough attention". 
  <p class="updated_time"> 11:44 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61214460?at_medium=RSS&at_campaign=KARANGA">France election: Macron faces immediate challenges to power after victory</a> BBC: A day after his election success, the French president has to focus on a new set of problems. 
- <p class="updated_time"> 11:20 AM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/04/25/world/macron-french-election">Live Updates: As Allies Hail Macron’s Re-election, Challenges Loom in France</a> NYT: Emmanuel Macron’s 17-point margin over the far-right challenger Marine Le Pen was greeted with relief in Western capitals. Economic issues are expected to be a priority of his second term. 
- <p class="updated_time"> 11:17 AM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/world/europe/turkey-court-conviction-osman-kavala-mucella-yapici.html">Turkey Convicts Erdogan Critics Kavala and Yapici</a> NYT: Osman Kavala, a well-known philanthropist, was found guilty of charges related to popular protests in 2013. 
+ <p class="updated_time"> 11:29 AM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit 
  <p class="updated_time"> 11:04 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61218239?at_medium=RSS&at_campaign=KARANGA">Kane Tanaka: Japanese woman certified world's oldest person dies</a> BBC: Kane Tanaka was born in 1903, the same year as George Orwell and when Roosevelt was US president. 
- <p class="updated_time"> 11:01 AM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit 
  <p class="updated_time"> 10:54 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/covid-beijing-shanghai.html">Covid Outbreak in Beijing Prompts Panic Buying and Lockdown Fears</a> NYT: Supermarkets stocked up as long lines formed. The Chinese authorities ordered mass testing to contain a rising number of cases in an affluent district of the capital. 
+ <p class="updated_time"> 10:48 AM CT, Apr. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61222500?at_medium=RSS&at_campaign=KARANGA">French election: I did not vote because nothing will change</a> BBC: Many French people were left disappointed by the options in the presidential run-off. 
  <p class="updated_time"> 10:42 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61214176?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US wants to see a weakened Russia</a> BBC: US Defence Secretary Lloyd Austin says he hopes to see the Russian military depleted in Ukraine. 
- <p class="updated_time"> 10:41 AM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/world/europe/ukraine-zelenksy-government.html">How Zelensky Tamed Ukraine’s Fractious Politics and Stood Up to Putin</a> NYT: Ukrainian politics were known for sharp-elbowed infighting. But as he defends his country against the Russian invasion, President Volodymyr Zelensky has his government presenting a unified front. 
+ <p class="updated_time"> 10:29 AM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002">Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</a> WSJ: Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine 
  <p class="updated_time"> 10:17 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-61215194?at_medium=RSS&at_campaign=KARANGA">Stock markets tumble over China lockdown fears</a> BBC: Shares drop as Covid cases in Beijing raise the prospect of supply chain disruption. 
- <p class="updated_time"> 10:01 AM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002">Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</a> WSJ: Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine 
  <p class="updated_time"> 09:59 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/us/politics/russia-ukraine-diplomacy.html">America’s Road to the Ukraine War</a> NYT: For years, the United States sent mixed signals about its interests in the country. Then Vladimir V. Putin made his move. 
  <p class="updated_time"> 09:58 AM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094606299/ukraine-russia-mariupol-corridor">Russia says civilians can leave the Mariupol steel plant, but Ukraine disagrees</a> NPR: The Russian Defense Ministry said it will open a humanitarian corridor for civilians on Monday, but Ukrainian officials said they had not agreed with Russia on a route and leaving would not be safe. 
  <p class="updated_time"> 09:49 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/blinken-austin-kyiv-ukraine.html">How Blinken and Austin Entered Ukraine Despite Security Risks</a> NYT: After President Volodymyr Zelensky of Ukraine spilled the secret that the secretaries of state and defense would visit, the two cabinet members decided to press onward regardless. 
+ <p class="updated_time"> 09:29 AM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090">Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power</a> WSJ: Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power 
  <p class="updated_time"> 09:20 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/russian-oil-facility-fire-ukraine.html">Fires Rip Through Russian Oil Facility in Bryansk, Close to Ukrainian Border</a> NYT: Russian state television reported two separate explosions, but officials acknowledged only one. 
  <p class="updated_time"> 09:16 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61218171?at_medium=RSS&at_campaign=KARANGA">France election: Marine Le Pen concedes election but still counts a win</a> BBC: She did not become president - yet this result still counts as a win for her and the far right. 
  <p class="updated_time"> 09:14 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/london-stabbing-deaths.html">Four People Fatally Stabbed in London</a> NYT: A suspect was in custody Monday morning, and the police say they believe the attacker and the victims knew each other. 
- <p class="updated_time"> 09:01 AM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090">Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power</a> WSJ: Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power 
  <p class="updated_time"> 08:57 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61218421?at_medium=RSS&at_campaign=KARANGA">Bishop Evans: Guard missing after trying to save drowning migrants</a> BBC: Bishop Evans jumped into the Rio Grande on the US-Mexico border when he saw two people in distress. 
  <p class="updated_time"> 08:37 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/business/china-covid-zero-economy.html">China’s Covid Lockdowns Stir Memories of a Planned Economy</a> NYT: China is meddling with free enterprise as it hasn’t in decades. The results are familiar to those old enough to remember: scarcity, and the rise of black markets. 
- <p class="updated_time"> 08:01 AM CT, Apr. 25 </p> 
+ <p class="updated_time"> 08:29 AM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/erdogan-critic-given-life-sentence-in-ruling-likely-to-stoke-tensions-with-west-11650904728">Erdogan Critic Given Life Sentence in Turkey</a> WSJ: Erdogan Critic Given Life Sentence in Turkey 
+ <p class="updated_time"> 08:00 AM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying</a> WSJ: Beijing residents stocked up on essentials in anticipation of a possible lockdown as China’s capital began mass Covid-19 tests of people living or working in the city’s Chaoyang district. 
  <p class="updated_time"> 07:15 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/blinken-austin-ukraine-visit.html">U.S. Officials Make Top-Secret Visit to Ukraine</a> NYT: The American government refused to comment on reports that Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III had traveled to Ukraine to meet with its leaders. 
  <p class="updated_time"> 07:13 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/bridget-brink-ukraine-ambassador.html">Biden Nominates Bridget Brink as U.S. Ambassador to Ukraine</a> NYT: President Biden nominated Bridget Brink, the current U.S. ambassador to Slovakia, as ambassador to Ukraine. The position has been empty for more than a year. 
  <p class="updated_time"> 07:12 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61216250?at_medium=RSS&at_campaign=KARANGA">Brazil Carnival: 'Bolsonaro' dancer turned into crocodile</a> BBC: Brazil's famous Carnival returned this year for the first time since the Covid pandemic. 
- <p class="updated_time"> 07:01 AM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Braces for Omicron Wave With Stockpiling, Testing</a> WSJ: Beijing Braces for Omicron Wave With Stockpiling, Testing 
  <p class="updated_time"> 06:58 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61208404?at_medium=RSS&at_campaign=KARANGA">'You can't imagine the conditions' - Accounts emerge of Russian detention camps</a> BBC: Those who have fled the Ukrainian city say people are being held in cramped, unclean camps. 
  <p class="updated_time"> 06:40 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/travel/japan-kii-peninsula-pilgrimage-routes.html">A Long Walk Through Japan’s Kii Peninsula</a> NYT: As is true throughout rural Japan, many of the once-vibrant villages on Honshu’s Kii Peninsula are aging into nothingness. 
- <p class="updated_time"> 05:51 AM CT, Apr. 25 </p> 
- <a href="https://www.bbc.co.uk/news/business-61212573?at_medium=RSS&at_campaign=KARANGA">Nissan signals the end of the road for Datsun cars</a> BBC: The Japanese firm previously called the range of cars "an important part of Nissan's DNA". 
  <p class="updated_time"> 05:34 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/putin-macron-french-election.html">Putin Congratulates Macron on French Election Victory</a> NYT: Mr. Macron’s opponent, Marine Le Pen, was seen in Russia as a potential game-changing option, amid the threat of new sanctions over the war in Ukraine. 
  <p class="updated_time"> 04:32 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/slovenia-election-results-janez-jansa.html">Slovenia Election: Europe’s Far-Right Populists Suffer Another Setback</a> NYT: The country’s prime minister, Janez Jansa, a Trump admirer, appears to have lost to centrist rivals. 
  <p class="updated_time"> 04:09 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/ukraine-shelling-kharkiv.html">In a Ukrainian School, 12 People Await the War’s End, or Their Own</a> NYT: In the basement of a battered school in Kharkiv, a dozen residents have taken shelter. In a neighborhood not far away, life has returned to some sense of normalcy. But they choose to stay. 
- <p class="updated_time"> 03:28 AM CT, Apr. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61214175?at_medium=RSS&at_campaign=KARANGA">Janez Jansa: Slovenia votes out pro-Trump populist</a> BBC: Janez Jansa was defeated by the Freedom Movement, a new liberal party launched just four months ago. 
  <p class="updated_time"> 01:55 AM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094588767/u-s-promises-new-aid-to-ukraine-in-fight-against-russia">U.S. promises new aid to Ukraine in fight against Russia</a> NPR: U.S. officials say Washington had approved a $165 million sale of ammunition for Ukraine's war effort, along with more than $300 million in foreign military financing. 
  <p class="updated_time"> 01:34 AM CT, Apr. 25 </p> 
@@ -119,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/24/world/europe/mariupol-ukraine-family-escape.html">A Family of Six Walks for Days to Escape Mariupol</a> NYT: At times, Russian soldiers were almost friendly, advising them how to avoid shelling and showing them pictures of their own children. 
  <p class="updated_time"> 03:01 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/economic-programs-are-front-and-center-in-the-campaign.html">Economic programs were front and center in the campaign.</a> NYT: Workers in restless blue-collar bastions may yet prove a liability for Mr. Macron. Despite a robust recovery in France after Covid lockdowns — the economy is now growing at around 7 percent, and unemployment has fallen to a 10-year low of 7.4 percent — many feel inequality has widened, rather than narrowed, as he pledged, in the five years since Mr. Macron took office. 
- <p class="updated_time"> 02:24 PM CT, Apr. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61209765?at_medium=RSS&at_campaign=KARANGA">French election: Historic win but Macron has polarised France</a> BBC: The 44-year-old will now serve for another five years, but he is facing a polarised France. 
  <p class="updated_time"> 01:48 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/middleeast/cairo-city-of-dead-cemetery.html">Demolishing City of the Dead Will Displace a Lively Quarter of Cairo</a> NYT: Cairo’s oldest cemetery is being razed, and thousands of families living amid the grand mausoleums face eviction. “You’re not at ease when you’re living. You’re not at ease even when you’re dead.” 
  <p class="updated_time"> 01:21 PM CT, Apr. 24 </p> 
@@ -196,6 +196,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:10 PM CT, Apr. 25 </p> 
+ <a href="https://www.politico.com/news/2022/04/25/tibet-china-cultural-eradication-00027493">Tibet’s leader seeks U.S. action to end China’s 'cultural eradication'</a> Politico: Tibetans are “dying a slow death” under oppressive Chinese rule, Sikyong Penpa Tsering says. 
+ <p class="updated_time"> 11:29 AM CT, Apr. 25 </p> 
+ <a href="https://www.politico.com/news/2022/04/25/kansas-judge-rejects-congressional-map-00027508">Kansas judge rejects congressional map; appeal expected</a> Politico: It was the first time a court has declared that the Kansas Constitution prohibits political gerrymandering. The state is expected to appeal to the Kansas Supreme Court. 
  <p class="updated_time"> 11:17 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/politics/kansas-congressional-map-unconstitutional.html">State Court Rejects Kansas Congressional Map as a Gerrymander</a> NYT: The Republican-drawn map intentionally split strongholds of Democratic and Black voters, a judge ruled. The State Supreme Court will review the decision. 
  <p class="updated_time"> 09:59 AM CT, Apr. 25 </p> 
@@ -214,8 +218,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/insider/crisis-actors-russia-ukraine.html">‘Crisis Actors’? Where Have I Heard That Before?</a> NYT: A journalist in The Times’s Washington bureau explains how some terms used by the Kremlin to deny evidence of atrocities in Ukraine originated here at home. 
  <p class="updated_time"> 03:30 AM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/ukraine-weaponry-russia-war-00027406">Heavy weaponry pours into Ukraine as commanders become more desperate</a> Politico: Russian forces are attempting a pincer movement on Ukrainian forces in the Donbas. Will Western artillery, tanks and drones get there in time?   
- <p class="updated_time"> 03:30 AM CT, Apr. 25 </p> 
- <a href="https://www.politico.com/news/2022/04/25/fcc-taking-a-new-look-at-one-cause-of-spectrum-squabbles-shoddy-receivers-00026674">FCC taking a new look at one cause of spectrum squabbles: shoddy receivers</a> Politico: Months after a messy standoff between 5G service and aviation safety, the agency is reconsidering ways to make sure radio devices are built to withstand interference from the newest generation of wireless service. 
  <p class="updated_time"> 03:30 AM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/china-tariffs-west-coast-trade-00027308">Progressive and export-dependent: Oregon is a test for Democrats on trade</a> Politico: Two of the state's leading Democrats have taken different positions in a debate over tariffs and China policy that's playing out on Capitol Hill. 
  <p class="updated_time"> 02:00 AM CT, Apr. 25 </p> 
@@ -248,8 +250,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/24/1094538569/politics-chat-more-details-about-the-insurrection-emerge">Politics Chat: More details about the insurrection emerge</a> NPR: Details about high-ranking Republicans and the January 6, 2021, attack on the U.S. Capitol continue to emerge. 
  <p class="updated_time"> 06:00 AM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/swing-state-senate-dems-border-visit-enrages-left-00027355">Border visit backfires on vulnerable Senate Dem</a> Politico: New Hampshire Sen. Maggie Hassan is facing fierce criticism from all sides for her immigration stance. 
- <p class="updated_time"> 06:00 AM CT, Apr. 24 </p> 
- <a href="https://www.politico.com/news/2022/04/24/abortion-advocates-strategy-depends-on-pills-an-information-gap-threatens-their-efforts-00027309">Abortion advocates’ strategy depends on pills. An information gap threatens their efforts.</a> Politico: With SCOTUS decision looming, confusion and fear hinder post-Roe plans. 
  <p class="updated_time"> 05:02 AM CT, Apr. 24 </p> 
  <a href="https://www.cnn.com/2022/04/24/politics/white-house-crystal/index.html">A crystal-clear issue: The White House is in desperate need of new glassware</a> CNN: It was during the George W. Bush administration that it was first noticed in earnest, and the massive state dinners of the Barack Obama era only solidified the situation: The White House was desperately in need of crystal. 
  <p class="updated_time"> 04:01 AM CT, Apr. 24 </p> 
