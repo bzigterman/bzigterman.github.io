@@ -11,28 +11,28 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 02:35 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">What Happened on Day 60 of the War in Ukraine</a> NYT: The U.S. secretaries of state and defense were the highest-level American officials to go to Ukraine. A Ukrainian commander told The Times that the steel plant in Mariupol hasn’t fallen, but that he and others would give up if they could leave the factory safely. 
+ <p class="updated_time"> 01:59 AM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/emmanuel-macron-wins-french-election-2022-11650815682">France’s Macron Wins Second Term</a> WSJ: France’s Macron Wins Second Term 
  <p class="updated_time"> 01:57 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/french-election-runoff-results">French Election: Macron Holds Off Far-Right Push</a> NYT: Marine Le Pen concedes defeat to President Emmanuel Macron, the first French leader to be re-elected since 2002. 
  <p class="updated_time"> 01:55 AM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094588767/u-s-promises-new-aid-to-ukraine-in-fight-against-russia">U.S. promises new aid to Ukraine in fight against Russia</a> NPR: U.S. officials say Washington had approved a $165 million sale of ammunition for Ukraine's war effort, along with more than $300 million in foreign military financing. 
- <p class="updated_time"> 01:51 AM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/emmanuel-macron-wins-french-election-2022-11650815682">France’s Macron Wins Second Term</a> WSJ: France’s Macron Wins Second Term 
  <p class="updated_time"> 01:34 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/ukraine-pentagon-arms-buyers.html">Seeking Arms for Ukraine, Pentagon Buyers Scour Eastern European Factories</a> NYT: Soviet-designed ammunition is part of the ‘life blood’ for Ukrainian troops fighting Russia, and the United States is keeping it flowing. 
- <p class="updated_time"> 12:51 AM CT, Apr. 25 </p> 
+ <p class="updated_time"> 12:59 AM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/ukraines-volodymyr-zelensky-awaits-easter-visit-from-top-u-s-officials-11650794278">Top U.S. Officials Meet With Zelensky in Kyiv</a> WSJ: Top U.S. Officials Meet With Zelensky in Kyiv 
- <p class="updated_time"> 11:51 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 11:59 PM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/u-s-withholds-sanctions-on-a-very-close-putin-associate-his-alleged-girlfriend-11650816894">U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend</a> WSJ: U.S. Withholds Sanctions on a Very Close Putin Associate: His Reputed Girlfriend 
  <p class="updated_time"> 11:49 PM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/25/1094586702/china-promotes-coal-in-setback-for-efforts-to-cut-emissions">China promotes coal in setback for efforts to cut emissions</a> NPR: Officials in the country face political pressure to ensure stability as President Xi Jinping prepares to try and award himself a third five-year term as ruling party leader. 
  <p class="updated_time"> 11:44 PM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61212757?at_medium=RSS&at_campaign=KARANGA">Beijing kicks off mass testing after spike in Covid cases</a> BBC: Dozens of cases were reported, sparking fears that Beijing could face a similar situation to Shanghai. 
+ <p class="updated_time"> 10:59 PM CT, Apr. 24 </p> 
+ <a href="https://www.wsj.com/articles/saudi-royals-are-selling-homes-yachts-and-art-as-crown-prince-cuts-income-11650792780">Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income</a> WSJ: Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income 
  <p class="updated_time"> 10:55 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/covid-beijing-shanghai.html">Covid Outbreak in Beijing Prompts Panic Buying and Fears of a Lockdown</a> NYT: Supermarkets stocked up as long lines formed. The Chinese authorities ordered mass testing to contain a rising number of coronavirus cases in an affluent district of the capital. 
  <p class="updated_time"> 10:54 PM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61209058?at_medium=RSS&at_campaign=KARANGA">French election result: Macron defeats Le Pen and vows to unite divided France</a> BBC: He triumphs over his far-right rival and becomes the first president to win re-election in 20 years. 
- <p class="updated_time"> 10:51 PM CT, Apr. 24 </p> 
- <a href="https://www.wsj.com/articles/saudi-royals-are-selling-homes-yachts-and-art-as-crown-prince-cuts-income-11650792780">Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income</a> WSJ: Saudi Royals Are Selling Homes, Yachts and Art as Crown Prince Cuts Income 
  <p class="updated_time"> 10:42 PM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. to Return Embassy to Ukraine, Boost Military Aid</a> WSJ: The U.S. will return an embassy presence to Ukraine and increase military support for the country, Secretary of State Antony Blinken and Defense Secretary Lloyd Austin told Ukrainian President Volodymyr Zelensky during a meeting in Kyiv. 
  <p class="updated_time"> 10:41 PM CT, Apr. 24 </p> 
@@ -43,7 +43,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/24/world/europe/blinken-austin-ukraine-visit.html">U.S. Officials Make Top-Secret Visit to Ukraine</a> NYT: The American government refused to comment on reports that Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III had traveled to Ukraine to meet with its leaders. 
  <p class="updated_time"> 10:12 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/modi-kashmir-india.html">Modi Stresses Growth, Sidestepping Politics, in Visit to Restive Territory</a> NYT: The Indian prime minister aims to ease decades of turmoil in Jammu and Kashmir through projects like a solar plant. 
- <p class="updated_time"> 09:51 PM CT, Apr. 24 </p> 
+ <p class="updated_time"> 09:59 PM CT, Apr. 24 </p> 
  <a href="https://www.wsj.com/articles/israel-closes-gaza-border-in-effort-to-pressure-hamas-to-halt-rocket-attacks-11650808823">Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks</a> WSJ: Israel Closes Gaza Border in Effort to Pressure Hamas to Halt Rocket Attacks 
  <p class="updated_time"> 08:55 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/climate/climate-change-rally-white-house.html">Climate Activists Rally at the White House to Demand Action</a> NYT: In Washington, D.C., as well as Phoenix, Atlanta and scores of other cities across the country, demonstrators called on the government to enact bold climate action. 
