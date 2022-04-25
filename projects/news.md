@@ -9,27 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:30 AM CT, Apr. 25 </p> 
+ <p class="updated_time"> 09:49 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/04/25/world/macron-french-election">Live Updates: As Allies Hail Macron’s Re-election, Challenges Loom in France</a> NYT: Emmanuel Macron’s 17-point margin over the far-right challenger Marine Le Pen was greeted with relief in Western capitals. Economic issues are expected to be a priority of his second term. 
+ <p class="updated_time"> 09:49 AM CT, Apr. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: U.S. Says It Wants Russian Military Weakened</a> NYT: President Biden nominated a new ambassador to Ukraine after a high-stakes trip to Kyiv by two top U.S. officials. Within hours of the visit, Russian missiles struck at least five railway stations across the country. 
+ <p class="updated_time"> 09:49 AM CT, Apr. 25 </p> 
+ <a href="https://www.nytimes.com/2022/04/24/world/europe/blinken-austin-kyiv-ukraine.html">How Blinken and Austin Entered Ukraine Despite Security Risks</a> NYT: After President Volodymyr Zelensky of Ukraine spilled the secret that the secretaries of state and defense would visit, the two cabinet members decided to press onward regardless. 
  <p class="updated_time"> 09:24 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61214176?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US wants to see a weakened Russia</a> BBC: US Defence Secretary Lloyd Austin said he hoped to see the Russian military depleted in Ukraine. 
- <p class="updated_time"> 09:21 AM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: U.S. Says It Wants Russian Military Weakened</a> NYT: President Biden nominated a new ambassador to Ukraine after a high-stakes trip to Kyiv by two top U.S. officials. Within hours of the visit, Russian missiles struck at least five railway stations across the country. 
  <p class="updated_time"> 09:20 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/russian-oil-facility-fire-ukraine.html">Fires Rip Through Russian Oil Facility in Bryansk, Close to Ukrainian Border</a> NYT: Russian state television reported two separate explosions, but officials acknowledged only one. 
  <p class="updated_time"> 09:16 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61218171?at_medium=RSS&at_campaign=KARANGA">France election: Marine Le Pen concedes election but still counts a win</a> BBC: She did not become president - yet this result still counts as a win for her and the far right. 
  <p class="updated_time"> 09:14 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/london-stabbing-deaths.html">Four People Fatally Stabbed in London</a> NYT: A suspect was in custody Monday morning, and the police say they believe the attacker and the victims knew each other. 
- <p class="updated_time"> 08:40 AM CT, Apr. 25 </p> 
+ <p class="updated_time"> 08:57 AM CT, Apr. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61218421?at_medium=RSS&at_campaign=KARANGA">Bishop Evans: Guard missing after trying to save drowning migrants</a> BBC: Bishop Evans jumped into the Rio Grande on the US-Mexico border when he saw two people in distress. 
+ <p class="updated_time"> 08:53 AM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit 
  <p class="updated_time"> 08:37 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/business/china-covid-zero-economy.html">China’s Covid Lockdowns Stir Memories of a Planned Economy</a> NYT: China is meddling with free enterprise as it hasn’t in decades. The results are familiar to those old enough to remember: scarcity, and the rise of black markets. 
  <p class="updated_time"> 08:05 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/covid-beijing-shanghai.html">Covid Outbreak in Beijing Prompts Panic Buying and Lockdown Fears</a> NYT: Supermarkets stocked up as long lines formed. The Chinese authorities ordered mass testing to contain a rising number of cases in an affluent district of the capital. 
- <p class="updated_time"> 08:02 AM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/24/world/europe/blinken-austin-kyiv-ukraine.html">How Blinken and Austin Entered Ukraine Despite Security Risks</a> NYT: After President Volodymyr Zelensky of Ukraine spilled the secret that the secretaries of state and defense would visit, the two cabinet members decided to press onward regardless. 
- <p class="updated_time"> 07:40 AM CT, Apr. 25 </p> 
+ <p class="updated_time"> 07:53 AM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/worlds-oldest-person-japans-kane-tanaka-dies-at-119-11650877349">World’s Oldest Person, Japan’s Kane Tanaka, Dies at 119</a> WSJ: World’s Oldest Person, Japan’s Kane Tanaka, Dies at 119 
  <p class="updated_time"> 07:15 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/blinken-austin-ukraine-visit.html">U.S. Officials Make Top-Secret Visit to Ukraine</a> NYT: The American government refused to comment on reports that Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III had traveled to Ukraine to meet with its leaders. 
@@ -41,19 +43,19 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61208404?at_medium=RSS&at_campaign=KARANGA">'You can't imagine the conditions' - Accounts emerge of Russian detention camps</a> BBC: Those who have fled the Ukrainian city say people are being held in cramped, unclean camps. 
  <p class="updated_time"> 06:56 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61212757?at_medium=RSS&at_campaign=KARANGA">Beijing kicks off mass testing after spike in Covid cases</a> BBC: Dozens of cases were reported, sparking fears that Beijing could face a similar situation to Shanghai. 
- <p class="updated_time"> 06:40 AM CT, Apr. 25 </p> 
+ <p class="updated_time"> 06:53 AM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002">Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</a> WSJ: Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine 
  <p class="updated_time"> 06:40 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/travel/japan-kii-peninsula-pilgrimage-routes.html">A Long Walk Through Japan’s Kii Peninsula</a> NYT: As is true throughout rural Japan, many of the once-vibrant villages on Honshu’s Kii Peninsula are aging into nothingness. 
+ <p class="updated_time"> 05:53 AM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/israel-strikes-lebanon-in-response-to-rocket-attack-11650876064">Israel Strikes Lebanon in Response to Rocket Attack</a> WSJ: Israel Strikes Lebanon in Response to Rocket Attack 
  <p class="updated_time"> 05:51 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-61212573?at_medium=RSS&at_campaign=KARANGA">Nissan signals the end of the road for Datsun cars</a> BBC: The Japanese firm previously called the range of cars "an important part of Nissan's DNA". 
- <p class="updated_time"> 05:40 AM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/israel-strikes-lebanon-in-response-to-rocket-attack-11650876064">Israel Strikes Lebanon in Response to Rocket Attack</a> WSJ: Israel Strikes Lebanon in Response to Rocket Attack 
  <p class="updated_time"> 05:38 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/ukraine-zelenksy-government.html">How Zelensky Ended Political Discord and Put Ukraine on a War Footing</a> NYT: Ukrainian politics were known for sharp-elbowed infighting. But as he defends his country against the Russian invasion, President Volodymyr Zelensky has his government presenting a unified front. 
  <p class="updated_time"> 05:34 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/putin-macron-french-election.html">Putin Congratulates Macron on French Election Victory</a> NYT: Mr. Macron’s opponent, Marine Le Pen, was seen in Russia as a potential game-changing option, amid the threat of new sanctions over the war in Ukraine. 
- <p class="updated_time"> 04:40 AM CT, Apr. 25 </p> 
+ <p class="updated_time"> 04:53 AM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Braces for Omicron Wave With Stockpiling, Testing</a> WSJ: Beijing Braces for Omicron Wave With Stockpiling, Testing 
  <p class="updated_time"> 04:32 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/slovenia-election-results-janez-jansa.html">Slovenia Election: Europe’s Far-Right Populists Suffer Another Setback</a> NYT: The country’s prime minister, Janez Jansa, a Trump admirer, appears to have lost to centrist rivals. 
@@ -83,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/23/climate/climate-change-rally-white-house.html">Climate Activists Rally at the White House to Demand Action</a> NYT: In Washington, D.C., as well as Phoenix, Atlanta and scores of other cities across the country, demonstrators called on the government to enact bold climate action. 
  <p class="updated_time"> 08:42 PM CT, Apr. 24 </p> 
  <a href="https://www.bbc.co.uk/news/60867414?at_medium=RSS&at_campaign=KARANGA">Ukraine war: False TikTok videos draw millions of views</a> BBC: Misleading videos have been viewed by millions as it struggles to deal with so much false material. 
- <p class="updated_time"> 08:41 PM CT, Apr. 24 </p> 
- <a href="https://www.bbc.co.uk/news/technology-61116018?at_medium=RSS&at_campaign=KARANGA">SpaceX: Can meat be grown in space?</a> BBC: An experiment to find out has just finished on the International Space Station. 
  <p class="updated_time"> 08:19 PM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094582459/168-people-were-killed-in-violence-in-darfur-sudan-an-aid-group-says">168 people were killed in violence in Darfur, Sudan, an aid group says</a> NPR: Tribal clashes between Arabs and non-Arabs in Sudan's war-ravaged Darfur region killed 168 people, a local aid group said. 
  <p class="updated_time"> 06:55 PM CT, Apr. 24 </p> 
@@ -198,6 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:45 AM CT, Apr. 25 </p> 
+ <a href="https://www.nytimes.com/2022/04/25/us/politics/evangelical-churches-trump-election.html">A Crusade to Challenge the 2020 Election, Blessed by Church Leaders</a> NYT: Some evangelical pastors are hosting events dedicated to Trump’s election falsehoods and promoting the cause to their congregations. 
  <p class="updated_time"> 08:01 AM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/hawley-endorses-masters-arizona-senate-00027415">Hawley endorses Thiel-backed Arizona Senate candidate</a> Politico: The Missouri senator is backing Blake Masters and Ohio's J.D. Vance, two more Peter Thiel allies, to join him in Washington 
  <p class="updated_time"> 07:13 AM CT, Apr. 25 </p> 
@@ -224,8 +226,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/23/us/politics/orrin-hatch-dead.html">Orrin Hatch, Seven-Term Senator and a Republican Force, Dies at 88</a> NYT: Overcoming poverty and representing Utah, he became a powerful figure in Washington, helping to build a conservative majority on the Supreme Court. 
  <p class="updated_time"> 09:07 PM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/georgia-republican-governor-debate-kemp-perdue-00027430">Election fraud claims dominate Georgia GOP governor’s debate</a> Politico: David Perdue blamed rising gas prices, inflation, illegal immigration and the "brink of war" on Gov. Brian Kemp's refusal to overturn the November election results. 
- <p class="updated_time"> 07:58 PM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/2022/04/25/us/politics/evangelical-churches-trump-election.html">A Crusade to Challenge the 2020 Election, Blessed by Church Leaders</a> NYT: Some evangelical pastors are hosting events dedicated to Trump’s election falsehoods and promoting the cause to their congregations. 
  <p class="updated_time"> 04:53 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/us/politics/russia-ukraine-diplomacy.html">America’s Road to the Ukraine War</a> NYT: For years, the United States sent mixed signals about its interests in the country. Then Vladimir V. Putin made his move. 
  <p class="updated_time"> 04:05 PM CT, Apr. 24 </p> 
