@@ -9,20 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:32 PM CT, Apr. 25 </p> 
+ <p class="updated_time"> 09:40 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: U.S. Says It Wants Russian Military Weakened</a> NYT: President Biden nominated a new ambassador to Ukraine after a high-stakes trip to Kyiv by two top U.S. officials. Within hours of the visit, Russian missiles struck at least five railway stations across the country. 
+ <p class="updated_time"> 09:40 PM CT, Apr. 25 </p> 
+ <a href="https://www.nytimes.com/2022/04/25/world/europe/ukraine-russia-war-us.html">Emboldened by Ukraine’s Grit, U.S. Wants to See Russia Weakened</a> NYT: Hours after the American secretaries of defense and state met with Ukraine’s president in Kyiv, Russia hit at least five Ukrainian railway stations in rocket attacks. 
+ <p class="updated_time"> 09:04 PM CT, Apr. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61218241?at_medium=RSS&at_campaign=KARANGA">Osman Kavala: Turkish activist sentenced to life in prison</a> BBC: Osman Kavala is found guilty on coup plot charges in a case criticised as politically motivated. 
+ <p class="updated_time"> 08:50 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit 
+ <p class="updated_time"> 08:25 PM CT, Apr. 25 </p> 
+ <a href="https://www.nytimes.com/2022/04/25/us/politics/ukraine-ambassador-embassy-biden.html">Biden Picks Bridget Brink to Be Ambassador to Ukraine</a> NYT: The U.S. Embassy, which closed just before Russia’s invasion, could reopen “over a couple of weeks,” Secretary of State Antony Blinken said. 
+ <p class="updated_time"> 07:50 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002">Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</a> WSJ: Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine 
  <p class="updated_time"> 07:24 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61212761?at_medium=RSS&at_campaign=KARANGA">How a Japanese boat trip ended in tragedy</a> BBC: A catalogue of errors appears to have led to the sinking of a boat carrying sightseers off northern Japan. 
  <p class="updated_time"> 06:56 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/covid-beijing-shanghai.html">Covid Outbreak in Beijing Prompts Order for Nearly Citywide Testing</a> NYT: Supermarkets stocked up as panic buying began. Municipal authorities ordered that almost all residents be tested three times this week to contain a rising number of cases. 
- <p class="updated_time"> 06:40 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit 
- <p class="updated_time"> 06:37 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/world/europe/ukraine-russia-war-us.html">Emboldened by Ukraine’s Grit, U.S. Wants to See Russia Weakened</a> NYT: Hours after the American secretaries of defense and state met with Ukraine’s president in Kyiv, Russia hit at least five Ukrainian railway stations in rocket attacks. 
+ <p class="updated_time"> 06:50 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090">Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power</a> WSJ: Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power 
  <p class="updated_time"> 06:31 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094730176/ancient-egypt-temple-zeus-archaeology">Ruins of an ancient temple for Zeus were unearthed in Egypt</a> NPR: Tell el-Farma, also known by its ancient name Pelusium, dates back thousands of years to the late Pharaonic period and was also used during Greco-Roman and Byzantine times. 
- <p class="updated_time"> 06:28 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/us/politics/ukraine-ambassador-embassy-biden.html">Biden Picks Bridget Brink to Be Ambassador to Ukraine</a> NYT: The U.S. Embassy, which closed just before Russia’s invasion, could reopen “over a couple of weeks,” Secretary of State Antony Blinken said. 
  <p class="updated_time"> 06:15 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/mother-baby-odesa-missile-attack.html">Mother and Baby Among Those Killed in Odesa Attack</a> NYT: The family had moved from their apartment to a relative’s home to try to escape the Russian attacks. 
  <p class="updated_time"> 06:13 PM CT, Apr. 25 </p> 
@@ -34,21 +40,21 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:07 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61213761?at_medium=RSS&at_campaign=KARANGA">Viola Davis responds to critics of her Michelle Obama portrayal</a> BBC: The actress had been criticised by viewers for overly pursing her lips when playing Michelle Obama. 
  <p class="updated_time"> 06:06 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/us/politics/ukraine-russia-us-dynamic.html">Behind Austin’s Call for a ‘Weakened’ Russia, Hints of a Shift</a> NYT: The United States is edging toward a dynamic that pits Washington more directly against Moscow, and one that U.S. officials see as likely to play out for years. 
+ <a href="https://www.nytimes.com/2022/04/25/us/politics/ukraine-russia-us-dynamic.html">How the U.S. Is Shifting Its Approach on Russia’s War in Ukraine</a> NYT: The United States is edging toward a dynamic that pits Washington more directly against Moscow, and one that U.S. officials see as likely to play out for years. 
  <p class="updated_time"> 06:02 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61216620?at_medium=RSS&at_campaign=KARANGA">Sex for Water in Kenya: What price are women and girls paying?</a> BBC: Women and girls are exposed to sexual violence as private vendors control the water supply in Kenya. 
  <p class="updated_time"> 06:02 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/explosions-transnistria-moldova-ukraine.html">Explosions Hit Transnistria, a Region of Moldova in Ukraine</a> NYT: No injuries were reported in the area that has a large ethnic Russian population. 
+ <p class="updated_time"> 05:50 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/erdogan-critic-given-life-sentence-in-ruling-likely-to-stoke-tensions-with-west-11650904728">Erdogan Critic Given Life Sentence in Turkey</a> WSJ: Erdogan Critic Given Life Sentence in Turkey 
  <p class="updated_time"> 05:42 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-61222470?at_medium=RSS&at_campaign=KARANGA">Elon Musk strikes deal to buy Twitter for $44bn</a> BBC: Mr Musk, who made the shock bid just over a week ago, said he would "unlock" the social media firm's potential. 
- <p class="updated_time"> 05:40 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002">Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</a> WSJ: Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine 
  <p class="updated_time"> 05:38 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094721838/beijing-china-covid-mass-testing">Beijing will mass-test most of the city as COVID-19 cases mount</a> NPR: Beijing will conduct mass testing of most of its 21 million people, authorities announced, as a new COVID-19 outbreak sparked stockpiling of food by residents. 
  <p class="updated_time"> 05:21 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/emmanuel-macron-france-reelection-reinvention.html">Emmanuel Macron Tries to Reinvent Himself After Re-election</a> NYT: France seems in search of a kinder, gentler, greener President Macron. He says he will listen. 
- <p class="updated_time"> 04:40 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090">Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power</a> WSJ: Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power 
+ <p class="updated_time"> 04:50 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying</a> WSJ: Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying 
  <p class="updated_time"> 04:04 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094680464/a-new-documentary-focuses-on-the-near-fatal-poisoning-of-russian-opposition-lead">A new documentary focuses on the near-fatal poisoning of Russian opposition leader</a> NPR: NPR's Rob Schmitz talks with Daniel Roher, director of the documentary Navalny, about the poisoning of the Russian opposition leader. 
  <p class="updated_time"> 03:54 PM CT, Apr. 25 </p> 
@@ -57,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/25/1094680380/with-lockdown-fears-looming-beijing-is-testing-millions-for-covid">With lockdown fears looming, Beijing is testing millions for COVID</a> NPR: Beijing says it will test all 3.6 million residents in its largest district after finding about four dozen COVID cases. Residents fear a city-wide lockdown is imminent. 
  <p class="updated_time"> 03:53 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094680373/u-s-defense-secretary-wants-to-see-russia-weakened-as-ukraines-railways-are-hit">U.S. defense secretary 'wants to see Russia weakened' as Ukraine's railways are hit</a> NPR: Secretary of Defense Lloyd Austin said the U.S. wants to see the Russian military weakened on the battlefield. Meanwhile, Russian missiles struck railway infrastructure in central and western Ukraine. 
- <p class="updated_time"> 03:40 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/erdogan-critic-given-life-sentence-in-ruling-likely-to-stoke-tensions-with-west-11650904728">Erdogan Critic Given Life Sentence in Turkey</a> WSJ: Erdogan Critic Given Life Sentence in Turkey 
  <p class="updated_time"> 03:38 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61220570?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Russia hits railways as US pledges extra weapons</a> BBC: A chilling account of a Russian filtration camp and US hopes for Russia to be "weakened". 
  <p class="updated_time"> 03:22 PM CT, Apr. 25 </p> 
@@ -67,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/world/europe/macron-le-pen-orban.html">Macron’s Win Is Also a Blow to Orban’s Nationalist Crusade in Europe</a> NYT: The Hungarian leader had cast his own victory as the start of a nationalist wave in Europe — one that Marine Le Pen would have joined. Instead, Mr. Macron’s victory in France is a win for the European Union’s approach. 
  <p class="updated_time"> 02:49 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/04/25/world/macron-french-election">Live Updates: As Allies Hail Macron’s Re-election, Challenges Loom in France</a> NYT: Emmanuel Macron’s 17-point margin over the far-right challenger Marine Le Pen was greeted with relief in Western capitals. Economic issues are expected to be a priority of his second term. 
- <p class="updated_time"> 02:40 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying</a> WSJ: Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying 
  <p class="updated_time"> 02:00 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61217528?at_medium=RSS&at_campaign=KARANGA">Ukraine: Facing the Russian Army on the front line in Donbas</a> BBC: Ukrainian forces have been holding the line in Donbas since 2014, but what was sporadic fighting has now turned into a full-blown war. 
  <p class="updated_time"> 01:57 PM CT, Apr. 25 </p> 
@@ -85,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/world/europe/ukraine-zelenksy-government.html">How Zelensky Tamed Ukraine’s Fractious Politics and Stood Up to Putin</a> NYT: Ukrainian politics were known for sharp-elbowed infighting. But as he defends his country against the Russian invasion, President Volodymyr Zelensky has his government presenting a unified front. 
  <p class="updated_time"> 12:37 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094632903/bridget-brink-ambassador-ukraine-us">Biden plans to nominate Bridget Brink as the next ambassador to Ukraine. Who is she?</a> NPR: Brink has served as the U.S. ambassador to Slovakia since 2019. She has more than two decades of experience in the Foreign Service, including stints in Georgia and Uzbekistan. 
- <p class="updated_time"> 12:03 PM CT, Apr. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61218241?at_medium=RSS&at_campaign=KARANGA">Osman Kavala: Turkish activist sentenced to life in prison</a> BBC: Osman Kavala is found guilty on coup plot charges in a case criticised as politically motivated. 
  <p class="updated_time"> 12:02 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61218611?at_medium=RSS&at_campaign=KARANGA">Number of US police officers murdered up by 59% - FBI</a> BBC: The head of the FBI says violence against police is a "phenomena" that "doesn't get enough attention". 
  <p class="updated_time"> 11:44 AM CT, Apr. 25 </p> 
@@ -196,7 +196,17 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:06 PM CT, Apr. 25 </p> 
+ <p class="updated_time"> 09:42 PM CT, Apr. 25 </p> 
+ <a href="https://www.nytimes.com/2022/04/25/us/politics/mehmet-oz-dave-mccormick-senate.html">Front-Runners in G.O.P. Pennsylvania Senate Race Are Put on Spot at Debate</a> NYT: Dr. Mehmet Oz and David McCormick, when not sparring with each other, faced attacks from three other challengers. 
+ <p class="updated_time"> 09:22 PM CT, Apr. 25 </p> 
+ <a href="https://www.nytimes.com/2022/04/25/us/politics/cedric-richmond-biden-white-house.html">Biden Adviser Cedric Richmond Is Leaving the White House</a> NYT: The former Louisiana congressman is expected to step down next month. He will be one of the first White House senior advisers to leave as Democrats brace for a difficult midterm election. 
+ <p class="updated_time"> 09:12 PM CT, Apr. 25 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 08:25 PM CT, Apr. 25 </p> 
+ <a href="https://www.nytimes.com/2022/04/25/us/politics/ukraine-ambassador-embassy-biden.html">Biden Picks Bridget Brink to Be Ambassador to Ukraine</a> NYT: The U.S. Embassy, which closed just before Russia’s invasion, could reopen “over a couple of weeks,” Secretary of State Antony Blinken said. 
+ <p class="updated_time"> 08:17 PM CT, Apr. 25 </p> 
+ <a href="https://www.nytimes.com/2022/04/25/us/politics/americans-sponsor-ukrainians.html">How Americans Can Sponsor Ukrainian Refugees</a> NYT: Most people in the United States are eligible to sponsor Ukrainian migrants under a program the Biden administration established on Monday. Here’s how it works. 
+ <p class="updated_time"> 07:56 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/travel/mask-mandate-overturn.html">Who Helped End the Travel Mask Mandate? </a> NYT: The mask rule on planes and public transportation has been targeted by the travel industry and Republican lawmakers. In the end, it was brought down by a little-known nonprofit, a conservative judge and chance. 
  <p class="updated_time"> 07:05 PM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/russia-western-weapons-shipments-ukraine-donbas-00027663">Russia targeting Western weapons shipments in Ukraine as Donbas assault begins</a> Politico: "The fight for Donbas will be won or lost primarily on logistics," a former Pentagon official said. 
@@ -204,12 +214,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/25/1094630152/the-u-s-army-expands-benefits-for-soldiers-who-are-parents">The U.S. Army expands benefits for soldiers who are parents</a> NPR: The U.S. Army is expanding benefits for both birth and non-birth parents in its force. 
  <p class="updated_time"> 06:40 PM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/elon-musk-is-buying-into-a-new-kind-of-fight-in-washington-00027654">What Elon Musk’s battles with Washington might mean for Twitter</a> Politico: The world’s richest man has a lot of experience getting his way in Washington. But doing it as Twitter's owner may be different. 
- <p class="updated_time"> 06:28 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/us/politics/ukraine-ambassador-embassy-biden.html">Biden Picks Bridget Brink to Be Ambassador to Ukraine</a> NYT: The U.S. Embassy, which closed just before Russia’s invasion, could reopen “over a couple of weeks,” Secretary of State Antony Blinken said. 
  <p class="updated_time"> 06:06 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/us/politics/ukraine-russia-us-dynamic.html">Behind Austin’s Call for a ‘Weakened’ Russia, Hints of a Shift</a> NYT: The United States is edging toward a dynamic that pits Washington more directly against Moscow, and one that U.S. officials see as likely to play out for years. 
+ <a href="https://www.nytimes.com/2022/04/25/us/politics/ukraine-russia-us-dynamic.html">How the U.S. Is Shifting Its Approach on Russia’s War in Ukraine</a> NYT: The United States is edging toward a dynamic that pits Washington more directly against Moscow, and one that U.S. officials see as likely to play out for years. 
  <p class="updated_time"> 06:00 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/us/politics/mallory-mcmorrow-michigan.html">Mallory McMorrow Goes on Offense After a Smear</a> NYT: Mallory McMorrow’s viral speech attacking what she called Republicans’ “hollow, hateful scheme” against L.G.T.B.Q. rights has made her an instant hero on the left. 
+ <a href="https://www.nytimes.com/2022/04/25/us/politics/mallory-mcmorrow-michigan.html">Smeared as a Groomer, a Michigan Democrat Goes on Offense</a> NYT: Mallory McMorrow’s viral speech attacking what she called Republicans’ “hollow, hateful scheme” against L.G.T.B.Q. rights has made her an instant hero on the left. 
  <p class="updated_time"> 05:24 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/politics/kansas-congressional-map-unconstitutional.html">State Court Rejects Kansas Congressional Map as a Gerrymander</a> NYT: The Republican-drawn map intentionally split strongholds of Democratic and Black voters, a judge ruled. The State Supreme Court will review the decision. 
  <p class="updated_time"> 05:19 PM CT, Apr. 25 </p> 
@@ -234,8 +242,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/business/trump-media-truth-social.html">Trump Media Adds Former Nunes Aides, Donald Jr., and ‘Apprentice’ Contestant to Board</a> NYT: Mr. Nunes stepped down from his House seat in January to become chief executive of Trump Media. Wes Moss, a financial adviser and a contestant on “The Apprentice,” is also now a director. 
  <p class="updated_time"> 03:04 PM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/west-point-grads-rally-behind-mccormick-00027574">West Point grads rally behind McCormick</a> Politico: The support comes hours before the first televised Pennsylvania GOP Senate primary debate where the former hedge fund CEO will square off against his chief primary opponent, Mehmet Oz. 
- <p class="updated_time"> 03:00 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/us/politics/cedric-richmond-biden-white-house.html">Biden Adviser Cedric Richmond Is Leaving the White House</a> NYT: The former Louisiana congressman is expected to step down next month. He will be one of the first White House senior advisers to leave as Democrats brace for a difficult midterm election. 
  <p class="updated_time"> 02:51 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094648443/a-judge-holds-donald-trump-in-contempt-of-court">A judge holds Donald Trump in contempt of court and fines him $10,000 per day</a> NPR: Trump has been ordered to pay $10,000 for each day he does not turn over documents sought by the N.Y. attorney general in connection with a civil probe of the Trump Organization. 
  <p class="updated_time"> 02:19 PM CT, Apr. 25 </p> 
@@ -249,7 +255,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:35 PM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/canada-emergency-laws-inquiry-trucker-convoy-00027520">Trudeau launches official inquiry into use of emergency laws to end trucker convoy</a> Politico: Justice Paul S. Rouleau will lead investigation into all aspects of the protest that disrupted downtown Ottawa. 
  <p class="updated_time"> 12:35 PM CT, Apr. 25 </p> 
- <a href="https://www.politico.com/news/2022/04/25/justices-sympathetic-coach-fired-prayers-00027534">Justices seem sympathetic to coach fired for on-field prayers</a> Politico: While Joseph Kennedy and religious freedom advocates contend he was simply exercising his right to express his devotion to God, the school district maintains that his actions were coercive and that players’ parents complained that their children on the team felt compelled to participate. 
+ <a href="https://www.politico.com/news/2022/04/25/justices-sympathetic-coach-fired-prayers-00027534">Justices seem sympathetic to coach suspended for on-field prayers</a> Politico: While Joseph Kennedy and religious freedom advocates contend he was simply exercising his right to express his devotion to God, the school district maintains that his actions were coercive. 
  <p class="updated_time"> 12:10 PM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/tibet-china-cultural-eradication-00027493">Tibet’s leader seeks U.S. action to end China’s 'cultural eradication'</a> Politico: Tibetans are “dying a slow death” under oppressive Chinese rule, Sikyong Penpa Tsering says. 
  <p class="updated_time"> 11:57 AM CT, Apr. 25 </p> 
@@ -273,25 +279,19 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/ukraine-weaponry-russia-war-00027406">Heavy weaponry pours into Ukraine as commanders become more desperate</a> Politico: Russian forces are attempting a pincer movement on Ukrainian forces in the Donbas. Will Western artillery, tanks and drones get there in time?   
  <p class="updated_time"> 02:00 AM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/us/politics/merrick-garland-attorney-general.html">After a Rocky First Year, a Cautious Garland Finds His Footing</a> NYT: For all of the attention on the Justice Department’s investigation into the Jan. 6 attack, Mr. Garland has focused on the everyday work of being the attorney general. 
+ <a href="https://www.nytimes.com/2022/04/25/us/politics/merrick-garland-attorney-general.html">Merrick Garland Finds His Footing as Attorney General</a> NYT: For all of the attention on the Justice Department’s investigation into the Jan. 6 attack, Mr. Garland has focused on the everyday work of being the attorney general. 
  <p class="updated_time"> 10:41 PM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094553107/the-u-s-promises-to-gradually-reopen-its-embassy-in-ukraine">The U.S. promises to gradually reopen its embassy in Ukraine</a> NPR: Signaling renewed support for Ukraine, the U.S. says it will slowly return diplomats back to the Ukrainian capital. It also promised new military aid for the besieged country. 
  <p class="updated_time"> 10:04 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/us/elections/kemp-perdue-debate-georgia.html">Kemp and Perdue Debate, Looking Back at 2020 and Ahead to Abrams</a> NYT: Gov. Brian Kemp of Georgia and his Republican primary opponent, former Senator David Perdue, bickered over the previous election — and over who would be more likely to defeat Stacey Abrams in November. 
- <p class="updated_time"> 09:48 PM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/2022/04/23/us/politics/orrin-hatch-dead.html">Orrin Hatch, Seven-Term Senator and a Republican Force, Dies at 88</a> NYT: Overcoming poverty and representing Utah, he became a powerful figure in Washington, helping to build a conservative majority on the Supreme Court. 
  <p class="updated_time"> 09:07 PM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/georgia-republican-governor-debate-kemp-perdue-00027430">Election fraud claims dominate Georgia GOP governor’s debate</a> Politico: David Perdue blamed rising gas prices, inflation, illegal immigration and the "brink of war" on Gov. Brian Kemp's refusal to overturn the November election results. 
  <p class="updated_time"> 04:05 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/us/politics/climate-activist-self-immolation-supreme-court.html">Climate Activist Dies After Setting Himself on Fire at Supreme Court</a> NYT: A friend described the actions of Wynn Bruce, of Boulder, Colo., as “a deeply fearless act of compassion to bring attention to climate crisis.” 
- <p class="updated_time"> 11:23 AM CT, Apr. 24 </p> 
- <a href="https://www.politico.com/news/2022/04/24/putin-invade-moldova-ukraine-00027380">U.S., Ukrainian officials weigh ‘high possibility’ of Putin invading Moldova</a> Politico: Ukrainian President Volodymyr Zelenskyy has warned that Russia’s assault on Ukraine “was intended only as a beginning.” 
  <p class="updated_time"> 09:44 AM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/mccaul-mccarthy-audio-controversy-trump-00027372">‘Kevin is in very good shape’: House Republican shrugs off McCarthy audio controversy</a> Politico: “President Trump said yesterday that he fully supports Kevin McCarthy for speaker, as do I,” said Rep. Michael McCaul. 
  <p class="updated_time"> 09:14 AM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/cuellar-biden-immigration-activists-title-42-00027362">Cuellar: White House listening to ‘immigration activists’ on Title 42</a> Politico: A growing number of Democrats oppose Biden’s plan to end the Trump-era public health order. 
- <p class="updated_time"> 09:09 AM CT, Apr. 24 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:49 AM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094538874/political-donations-by-cryptocurrency-are-on-the-rise">Political donations by cryptocurrency are on the rise</a> NPR: NPR's Ayesha Rascoe speaks with Washington Post reporter Tory Newmyer about cryptocurrency advocates donating to candidates in the midterm elections. 
  <p class="updated_time"> 06:41 AM CT, Apr. 24 </p> 
@@ -314,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/23/trump-jd-vance-ohio-rally-00027356">Trump lays down marker for Vance in Ohio rally: 'This man is going to win'</a> Politico: The former president endorsed in Ohio's crowded GOP Senate primary the week before his scheduled rally in the state. 
  <p class="updated_time"> 06:27 PM CT, Apr. 23 </p> 
  <a href="https://www.npr.org/2022/04/23/1094474805/michigan-gop-karamo-secretary-of-state">Michigan GOP moves forward with 2020 election-denying secretary of state and AG</a> NPR: The party voted resoundingly to support former President Trump's false claims about the 2020 election in their picks for state's next top elections officer and top law enforcement official. 
- <p class="updated_time"> 05:52 PM CT, Apr. 23 </p> 
- <a href="https://www.nytimes.com/2022/04/23/us/politics/trump-meadows-freedom-caucus-jan-6.html">Filing Provides New Details on Trump White House Planning for Jan. 6</a> NYT: Testimony disclosed by the House committee investigating the attack showed that Mark Meadows and Freedom Caucus members discussed directing marchers to the Capitol as Congress certified the election results. 
  <p class="updated_time"> 06:01 AM CT, Apr. 23 </p> 
  <a href="https://www.politico.com/news/2022/04/23/california-democrats-eyeing-feinsteins-seat-00026722">California Dems are eyeing Feinstein's seat — but they're not talking about it</a> Politico: Most everyone is operating under the assumption that Feinstein will not run for reelection in 2024. 
  <p class="updated_time"> 10:36 PM CT, Apr. 22 </p> 
