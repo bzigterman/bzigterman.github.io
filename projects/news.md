@@ -9,47 +9,49 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:41 AM CT, Apr. 26 </p> 
+ <p class="updated_time"> 08:31 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/04/26/world/ukraine-russia-war-news">Ukraine Live Updates: U.S. Military Leaders Meet With Allies in Germany</a> NYT: Germany said it would send air-defense tanks to Ukraine, a reversal of policy, as Defense Secretary Lloyd Austin gathered officials from over 40 countries to discuss supplying more arms. 
+ <p class="updated_time"> 08:15 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/26/world/asia/brownface-barrack-okarma-1968-hong-kong.html">Brownface in Hong Kong TV Show Draws Outrage and Shrugs</a> NYT: The TV show “Barrack O’Karma 1968” fueled debate online. To many Filipinos, it was about racism and classism. Other viewers jumped to the actress’s defense. 
+ <p class="updated_time"> 08:11 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/26/world/middleeast/dubai-jewish-community.html">Baking Challah in Dubai: A Jewish Community Heads Out Into the Open</a> NYT: The increasing openness of Jewish life in the Persian Gulf emirate of Dubai is another sign of an emerging new reality in the Middle East, where Israel’s isolation by the Arab world is ebbing. 
+ <p class="updated_time"> 07:36 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583">Russia’s Lavrov Says NATO Risks Turning Ukraine Conflict Into a World War</a> WSJ: Russia’s Lavrov Says NATO Risks Turning Ukraine Conflict Into a World War 
  <p class="updated_time"> 07:31 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/americas/kenneth-roth-human-rights-watch.html">Kenneth Roth, ‘Godfather’ of Human Rights Work, to Step Down</a> NYT: Mr. Roth joined Human Rights Watch when it was a fledgling organization. It has expanded into one of the most influential human rights advocacy groups. 
  <p class="updated_time"> 07:17 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/turkey-court-conviction-osman-kavala-mucella-yapici.html">Turkish Activist Osman Kavala Sentenced to Life Over Protests</a> NYT: Osman Kavala, a well-known activist, was found guilty of charges related to popular protests in 2013. 
+ <p class="updated_time"> 07:17 AM CT, Apr. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61229589?at_medium=RSS&at_campaign=KARANGA">Blast kills Chinese nationals in Pakistani city</a> BBC: Three Chinese nationals and their driver were killed in an explosion which is being investigated. 
  <p class="updated_time"> 06:57 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61226640?at_medium=RSS&at_campaign=KARANGA">Nato expansion: No set date for Finland application - minister</a> BBC: Comments come as local media reported that Sweden and Finland could bid for membership next month. 
- <p class="updated_time"> 06:52 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583">Russia’s Lavrov Says NATO Risks Turning Ukraine Conflict Into a World War</a> WSJ: Russia’s Lavrov Says NATO Risks Turning Ukraine Conflict Into a World War 
  <p class="updated_time"> 06:44 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/asia/china-covid-beijing-shanghai.html">China’s Covid Strategy: Test 20 Million in Beijing Amid Lockdown Fears</a> NYT: China’s capital reported 22 cases as it kicked off an ambitious mandatory testing campaign across the city and reassured residents that food and other supplies were plentiful. 
+ <p class="updated_time"> 06:36 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/emmanuel-macron-grapples-with-a-deeply-divided-france-11650968378">Emmanuel Macron Grapples With a Deeply Divided France</a> WSJ: Emmanuel Macron Grapples With a Deeply Divided France 
  <p class="updated_time"> 06:22 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/tony-blair-russia-ukraine-event.html">Tony Blair on Russia’s War in Ukraine: A Virtual Event</a> NYT: The former British prime minister will speak with Peter Baker of The New York Times on May 2. 
- <p class="updated_time"> 06:21 AM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/2022/04/26/world/asia/brownface-barrack-okarma-1968-hong-kong.html">Brownface in Hong Kong TV Show Draws Outrage and Shrugs</a> NYT: The TV show “Barrack O’Karma 1968” fueled debate online. To many Filipinos, it was about racism and classism. Other viewers jumped to the actress’s defense. 
  <p class="updated_time"> 06:19 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/french-presidential-election-le-pen-macron.html">Convincing Victory Disguises  Challenges for France’s Macron</a> NYT: France’s runoff election was marked by a record level of abstention, and many cast a ballot only to keep the far right from power — a testament to a growing disillusionment. 
  <p class="updated_time"> 06:03 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61226637?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin: Rust film set shooting aftermath footage released</a> BBC: Authorities also published crime scene photos after cinematographer Halyna Hutchins was fatally shot. 
- <p class="updated_time"> 05:52 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/emmanuel-macron-grapples-with-a-deeply-divided-france-11650968378">Emmanuel Macron Grapples With a Deeply Divided France</a> WSJ: Emmanuel Macron Grapples With a Deeply Divided France 
+ <p class="updated_time"> 05:36 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/germany-to-send-heavy-weapons-to-ukraine-following-allied-pressure-11650965385">Germany to Send Heavy Weapons to Ukraine Following Allied Pressure</a> WSJ: Germany to Send Heavy Weapons to Ukraine Following Allied Pressure 
  <p class="updated_time"> 05:24 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61154374?at_medium=RSS&at_campaign=KARANGA">Iran arrests man after brown bear is beaten to death</a> BBC: The endangered animal suffered fatal injuries after being beaten and restrained with a tractor. 
  <p class="updated_time"> 05:01 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61225675?at_medium=RSS&at_campaign=KARANGA">North Korea: Kim Jong-un vows to step up nuclear weapons programme</a> BBC: North Korea's leader spoke at a military parade which also saw banned missiles displayed. 
- <p class="updated_time"> 04:52 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/germany-to-send-heavy-weapons-to-ukraine-following-allied-pressure-11650965385">Germany to Send Heavy Weapons to Ukraine Following Allied Pressure</a> WSJ: Germany to Send Heavy Weapons to Ukraine Following Allied Pressure 
  <p class="updated_time"> 04:51 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/asia/north-korea-military-parade-kim.html">North Korea Holds Military Parade With Nuclear Threat</a> NYT: In a speech, Kim Jong-un, the country’s leader, vowed to expand his nuclear arsenal ​“at the fastest possible speed​.” 
- <p class="updated_time"> 04:44 AM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/2022/04/26/world/middleeast/dubai-jewish-community.html">Baking Challah in Dubai: A Jewish Community Heads Out Into the Open</a> NYT: The increasing openness of Jewish life in the Persian Gulf emirate of Dubai is another sign of an emerging new reality in the Middle East, where Israel’s isolation by the Arab world is ebbing. 
  <p class="updated_time"> 04:36 AM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094770364/russias-invasion-of-ukraine-heats-up-cooking-oil-prices-in-global-squeeze">Russia's invasion of Ukraine heats up cooking oil prices in global squeeze</a> NPR: The Russian invasion of Ukraine has further fueled already high food and energy costs, hitting the poorest people hardest. 
+ <p class="updated_time"> 04:36 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/japan-and-south-korea-seek-diplomatic-reset-with-change-of-leadership-in-seoul-11650966395">Japan and South Korea Seek Diplomatic Reset With Change of Leadership in Seoul</a> WSJ: Japan and South Korea Seek Diplomatic Reset With Change of Leadership in Seoul 
  <p class="updated_time"> 04:01 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/business/shanghai-volunteers-covid.html">Amid Virus Chaos, Shanghai Residents Band Together</a> NYT: As the authorities in China’s biggest city fight to stamp out an Omicron outbreak, neighbors are turning to one another for support. 
  <p class="updated_time"> 04:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/article/long-covid-vaccines.html">Do Vaccines Protect Against Long Covid?</a> NYT: Maybe, according to a growing number of studies, but there’s not yet a definitive answer. 
- <p class="updated_time"> 03:52 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/japan-and-south-korea-seek-diplomatic-reset-with-change-of-leadership-in-seoul-11650966395">Japan and South Korea Seek Diplomatic Reset With Change of Leadership in Seoul</a> WSJ: Japan and South Korea Seek Diplomatic Reset With Change of Leadership in Seoul 
- <p class="updated_time"> 02:52 AM CT, Apr. 26 </p> 
+ <p class="updated_time"> 03:36 AM CT, Apr. 26 </p> 
  <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-vows-to-speed-up-nuclear-weapons-program-11650963813">North Korea’s Kim Jong Un Vows to Speed Up Nuclear-Weapons Program</a> WSJ: North Korea’s Kim Jong Un Vows to Speed Up Nuclear-Weapons Program 
  <p class="updated_time"> 02:41 AM CT, Apr. 26 </p> 
  <a href="https://www.wsj.com/articles/indias-neutrality-on-ukraine-rooted-in-deep-ties-to-russia-lingering-mistrust-of-u-s-11650973280">India's Neutrality on Ukraine Rooted in Deep Ties to Russia, Lingering Mistrust of U.S.</a> WSJ: U.S. officials have struggled to overcome the dynamics of India’s relationships with both countries, built over decades, as they try to persuade New Delhi to take a tougher stand against Moscow. 
@@ -198,8 +200,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:25 AM CT, Apr. 26 </p> 
+ <p class="updated_time"> 08:23 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/26/us/politics/jan-6-texts-mark-meadows.html">New Details Underscore House G.O.P. Role in Jan. 6 Planning</a> NYT: A court filing and newly disclosed text messages provide additional evidence of how closely some fervent pro-Trump lawmakers worked with the White House on efforts to overturn the election. 
+ <p class="updated_time"> 08:00 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/26/business/zelle-fraud.html">Senators question Zelle over how it is responding to reports of rising fraud.</a> NYT: Two Democrats called the reports “disturbing” and blasted Zelle’s operator, Early Warning, and its owners for creating a “confusing and unfair” situation for consumers. 
+ <p class="updated_time"> 08:00 AM CT, Apr. 26 </p> 
+ <a href="https://www.politico.com/news/2022/04/26/talks-of-suspending-californias-gas-tax-increase-fizzle-out-00027678">Talks of suspending California's gas tax increase fizzle out</a> Politico: The governor's office said it's "clear" the Legislature won't act in time to stop the scheduled annual increase. 
+ <p class="updated_time"> 07:51 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/25/travel/mask-mandate-overturn.html">Who Helped End the Travel Mask Mandate? </a> NYT: The mask rule on planes and public transportation has been targeted by the travel industry and Republican lawmakers. In the end, it was brought down by a little-known nonprofit, a conservative judge and chance. 
+ <p class="updated_time"> 07:46 AM CT, Apr. 26 </p> 
+ <a href="https://www.politico.com/news/2022/04/26/austin-ukraine-victory-russia-war-00027737">Austin: U.S. believes Ukraine ‘can win’ war against Russia</a> Politico: The Pentagon’s spokesperson also said a Ukrainian victory “is certainly in the cards.” 
  <p class="updated_time"> 06:22 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/tony-blair-russia-ukraine-event.html">Tony Blair on Russia’s War in Ukraine: A Virtual Event</a> NYT: The former British prime minister will speak with Peter Baker of The New York Times on May 2. 
  <p class="updated_time"> 06:13 AM CT, Apr. 26 </p> 
@@ -224,10 +234,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/26/us/politics/paxlovid-test-to-treat.html">Pharmacies Struggle to Use Up Supply of Paxlovid Covid Pills</a> NYT: The White House on Tuesday announced new steps to expand access to Paxlovid, the Covid-19 antiviral pill. But experts say that efforts to reach at-risk Americans remain complex and inefficient. 
  <p class="updated_time"> 04:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/us/politics/abbott-immigration-texas-dc-biden.html">Texas’ Busing of Migrants to D.C. Isn’t Having Abbott’s Intended Effect Yet</a> NYT: The plan, meant to rattle President Biden, fits into his strategy for addressing record numbers of border crossings. The migrants said they were grateful for the chartered bus ride. 
- <p class="updated_time"> 04:00 AM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/2022/04/26/us/politics/jan-6-texts-mark-meadows.html">New Details Underscore House G.O.P. Role in Jan. 6 Planning</a> NYT: A court filing and newly disclosed text messages provide additional evidence of how closely some fervent pro-Trump lawmakers worked with the White House on efforts to overturn the election. 
  <p class="updated_time"> 03:31 AM CT, Apr. 26 </p> 
- <a href="https://www.politico.com/news/2022/04/26/court-democrats-immigration-biden-00027659">Courts could short-circuit Democrats' border battle with Biden</a> Politico: The brewing bipartisan frustration over the White House's ending of pandemic-era immigration curbs was threatening to imperil much of the Senate's agenda. 
+ <a href="https://www.politico.com/news/2022/04/26/court-democrats-immigration-biden-00027659">Dems may get reprieve from internal tension over immigration</a> Politico: The brewing bipartisan frustration over the White House's ending of pandemic-era immigration curbs was threatening to imperil much of the Senate's agenda. 
  <p class="updated_time"> 03:30 AM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/global-covid-fight-is-slowing-00027623">Global fight against Covid hitting a snag</a> Politico: The world health community is at odds over how to handle the next phase of the pandemic battle. 
  <p class="updated_time"> 03:30 AM CT, Apr. 26 </p> 
@@ -298,8 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/25/kansas-judge-rejects-congressional-map-00027508">Kansas judge rejects congressional map; appeal expected</a> Politico: It was the first time a court has declared that the Kansas Constitution prohibits political gerrymandering. The state is expected to appeal to the Kansas Supreme Court. 
  <p class="updated_time"> 08:01 AM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/hawley-endorses-masters-arizona-senate-00027415">Hawley endorses Thiel-backed Arizona Senate candidate</a> Politico: The Missouri senator is backing Blake Masters and Ohio's J.D. Vance, two more Peter Thiel allies, to join him in Washington 
- <p class="updated_time"> 07:13 AM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/world/europe/bridget-brink-ukraine-ambassador.html">Biden Nominates Bridget Brink as U.S. Ambassador to Ukraine</a> NYT: President Biden nominated Bridget Brink, the current U.S. ambassador to Slovakia, as ambassador to Ukraine. The position has been empty for more than a year. 
  <p class="updated_time"> 06:00 AM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/kyiv-austin-blinken-diplomatic-presence-ukraine-00027440">Visiting Kyiv, Austin and Blinken share plans to step up diplomatic presence in Ukraine</a> Politico: The two Cabinet members also said the United States will provide more security assistance and expand military training. 
  <p class="updated_time"> 04:00 AM CT, Apr. 25 </p> 
@@ -316,6 +322,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/24/mccaul-mccarthy-audio-controversy-trump-00027372">‘Kevin is in very good shape’: House Republican shrugs off McCarthy audio controversy</a> Politico: “President Trump said yesterday that he fully supports Kevin McCarthy for speaker, as do I,” said Rep. Michael McCaul. 
  <p class="updated_time"> 09:14 AM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/cuellar-biden-immigration-activists-title-42-00027362">Cuellar: White House listening to ‘immigration activists’ on Title 42</a> Politico: A growing number of Democrats oppose Biden’s plan to end the Trump-era public health order. 
+ <p class="updated_time"> 06:56 AM CT, Apr. 24 </p> 
+ <a href="https://www.cnn.com/2022/04/21/politics/us-politics-anti-woke-what-matters/index.html">GOP politicians are choosing anti-wokeness over friendliness to big business</a> CNN: There's a bizarre metamorphosis happening in American politics as culture takes over the conversation: Republican politicians are choosing the war on "wokeness" over the friendliness to big business that was their guiding light for decades. 
  <p class="updated_time"> 06:00 AM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/swing-state-senate-dems-border-visit-enrages-left-00027355">Border visit backfires on vulnerable Senate Dem</a> Politico: New Hampshire Sen. Maggie Hassan is facing fierce criticism from all sides for her immigration stance. 
  <p class="updated_time"> 08:13 PM CT, Apr. 23 </p> 
