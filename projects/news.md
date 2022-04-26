@@ -9,52 +9,52 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:57 AM CT, Apr. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61226640?at_medium=RSS&at_campaign=KARANGA">Nato expansion: No set date for Finland application - minister</a> BBC: Comments come as local media reported that Sweden and Finland could bid for membership next month. 
+ <p class="updated_time"> 06:50 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/26/world/ukraine-russia-war-news">Ukraine Live Updates: U.S. Military Leaders Meet With Allies in Germany</a> NYT: Germany said it would send air-defense tanks to Ukraine, a reversal of policy, as Defense Secretary Lloyd Austin gathered officials from over 40 countries to discuss supplying more arms. 
+ <p class="updated_time"> 06:44 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/26/world/asia/china-covid-beijing-shanghai.html">China’s Covid Strategy: Test 20 Million in Beijing Amid Lockdown Fears</a> NYT: China’s capital reported 22 cases as it kicked off an ambitious mandatory testing campaign across the city and reassured residents that food and other supplies were plentiful. 
  <p class="updated_time"> 06:22 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/tony-blair-russia-ukraine-event.html">Tony Blair on Russia’s War in Ukraine: A Virtual Event</a> NYT: The former British prime minister will speak with Peter Baker of The New York Times on May 2. 
  <p class="updated_time"> 06:21 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/asia/brownface-barrack-okarma-1968-hong-kong.html">Brownface in Hong Kong TV Show Draws Outrage and Shrugs</a> NYT: The TV show “Barrack O’Karma 1968” fueled debate online. To many Filipinos, it was about racism and classism. Other viewers jumped to the actress’s defense. 
  <p class="updated_time"> 06:19 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/french-presidential-election-le-pen-macron.html">Convincing Victory Disguises  Challenges for France’s Macron</a> NYT: France’s runoff election was marked by a record level of abstention, and many cast a ballot only to keep the far right from power — a testament to a growing disillusionment. 
- <p class="updated_time"> 06:16 AM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/04/26/world/ukraine-russia-war-news">Ukraine Live Updates: U.S. Military Leaders Meet With Allies in Germany</a> NYT: Germany said it would send air-defense tanks to Ukraine, a reversal of policy, as Defense Secretary Lloyd Austin gathered officials from over 40 countries to discuss supplying more arms. 
- <p class="updated_time"> 06:13 AM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/2022/04/26/world/as-mask-mandates-end-canadas-atlantic-provinces-see-a-virus-resurgence.html">As mask mandates end, Canada’s Atlantic provinces see a virus resurgence.</a> NYT: Once relatively shielded from the Covid waves that flooded the rest of Canada, infections are rising in the easternmost provinces. 
  <p class="updated_time"> 06:03 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61226637?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin: Rust film set shooting aftermath footage released</a> BBC: Authorities also published crime scene photos after cinematographer Halyna Hutchins was fatally shot. 
- <p class="updated_time"> 05:56 AM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/2022/04/26/world/asia/china-covid-beijing-shanghai.html">China’s Covid Strategy: Test 20 Million in Beijing Amid Lockdown Fears</a> NYT: China’s capital reported 22 cases as it kicked off an ambitious mandatory testing campaign across the city and reassured residents that food and other supplies were plentiful. 
- <p class="updated_time"> 05:36 AM CT, Apr. 26 </p> 
+ <p class="updated_time"> 05:59 AM CT, Apr. 26 </p> 
  <a href="https://www.wsj.com/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583">Russia’s Lavrov Says NATO Risks Turning Ukraine Conflict Into a World War</a> WSJ: Russia’s Lavrov Says NATO Risks Turning Ukraine Conflict Into a World War 
+ <p class="updated_time"> 05:24 AM CT, Apr. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61154374?at_medium=RSS&at_campaign=KARANGA">Iran arrests man after brown bear is beaten to death</a> BBC: The endangered animal suffered fatal injuries after being beaten and restrained with a tractor. 
  <p class="updated_time"> 05:01 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61225675?at_medium=RSS&at_campaign=KARANGA">North Korea: Kim Jong-un vows to step up nuclear weapons programme</a> BBC: North Korea's leader spoke at a military parade which also saw banned missiles displayed. 
+ <p class="updated_time"> 04:59 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/emmanuel-macron-grapples-with-a-deeply-divided-france-11650968378">Emmanuel Macron Grapples With a Deeply Divided France</a> WSJ: Emmanuel Macron Grapples With a Deeply Divided France 
  <p class="updated_time"> 04:51 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/asia/north-korea-military-parade-kim.html">North Korea Holds Military Parade With Nuclear Threat</a> NYT: In a speech, Kim Jong-un, the country’s leader, vowed to expand his nuclear arsenal ​“at the fastest possible speed​.” 
- <p class="updated_time"> 04:49 AM CT, Apr. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61226640?at_medium=RSS&at_campaign=KARANGA">Nato expansion: Finland and Sweden set to announce plans to join bloc</a> BBC: The US and UK will reportedly provide security support to the nations during the application process. 
  <p class="updated_time"> 04:44 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/middleeast/dubai-jewish-community.html">Baking Challah in Dubai: A Jewish Community Heads Out Into the Open</a> NYT: The increasing openness of Jewish life in the Persian Gulf emirate of Dubai is another sign of an emerging new reality in the Middle East, where Israel’s isolation by the Arab world is ebbing. 
  <p class="updated_time"> 04:36 AM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094770364/russias-invasion-of-ukraine-heats-up-cooking-oil-prices-in-global-squeeze">Russia's invasion of Ukraine heats up cooking oil prices in global squeeze</a> NPR: The Russian invasion of Ukraine has further fueled already high food and energy costs, hitting the poorest people hardest. 
- <p class="updated_time"> 04:36 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/emmanuel-macron-grapples-with-a-deeply-divided-france-11650968378">Emmanuel Macron Grapples With a Deeply Divided France</a> WSJ: Emmanuel Macron Grapples With a Deeply Divided France 
  <p class="updated_time"> 04:01 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/business/shanghai-volunteers-covid.html">Amid Virus Chaos, Shanghai Residents Band Together</a> NYT: As the authorities in China’s biggest city fight to stamp out an Omicron outbreak, neighbors are turning to one another for support. 
  <p class="updated_time"> 04:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/article/long-covid-vaccines.html">Do Vaccines Protect Against Long Covid?</a> NYT: Maybe, according to a growing number of studies, but there’s not yet a definitive answer. 
- <p class="updated_time"> 03:36 AM CT, Apr. 26 </p> 
+ <p class="updated_time"> 03:59 AM CT, Apr. 26 </p> 
  <a href="https://www.wsj.com/articles/germany-to-send-heavy-weapons-to-ukraine-following-allied-pressure-11650965385">Germany to Send Heavy Weapons to Ukraine Following Allied Pressure</a> WSJ: Germany to Send Heavy Weapons to Ukraine Following Allied Pressure 
  <p class="updated_time"> 03:11 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/turkey-court-conviction-osman-kavala-mucella-yapici.html">Turkish Activist Osman Kavala Sentenced to Life Over Protests</a> NYT: Osman Kavala, a well-known activist, was found guilty of charges related to popular protests in 2013. 
- <p class="updated_time"> 02:36 AM CT, Apr. 26 </p> 
+ <p class="updated_time"> 02:59 AM CT, Apr. 26 </p> 
  <a href="https://www.wsj.com/articles/japan-and-south-korea-seek-diplomatic-reset-with-change-of-leadership-in-seoul-11650966395">Japan and South Korea Seek Diplomatic Reset With Change of Leadership in Seoul</a> WSJ: Japan and South Korea Seek Diplomatic Reset With Change of Leadership in Seoul 
  <p class="updated_time"> 02:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/americas/kenneth-roth-human-rights-watch.html">Kenneth Roth, ‘Godfather’ of Human Rights Work, to Step Down</a> NYT: Mr. Roth joined Human Rights Watch when it was a fledgling organization. It has expanded into one of the most influential human rights advocacy groups. 
+ <p class="updated_time"> 01:59 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-vows-to-speed-up-nuclear-weapons-program-11650963813">North Korea’s Kim Jong Un Vows to Speed Up Nuclear-Weapons Program</a> WSJ: North Korea’s Kim Jong Un Vows to Speed Up Nuclear-Weapons Program 
  <p class="updated_time"> 01:53 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-61225355?at_medium=RSS&at_campaign=KARANGA">Musk buys Twitter: What's changing? </a> BBC: Questions have been raised over how the platform will change after being bought by the Tesla boss. 
  <p class="updated_time"> 01:51 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61227047?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin shooting: New video shows actor rehearsing with gun</a> BBC: In new footage, the actor is seen rehearsing with a gun on set moments before Halyna Hutchins' fatal injury. 
- <p class="updated_time"> 01:36 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-vows-to-speed-up-nuclear-weapons-program-11650963813">North Korea’s Kim Jong Un Vows to Speed Up Nuclear-Weapons Program</a> WSJ: North Korea’s Kim Jong Un Vows to Speed Up Nuclear-Weapons Program 
  <p class="updated_time"> 01:14 AM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094760249/australian-opposition-party-vows-to-train-pacific-armies">Australian opposition party vows to train Pacific armies</a> NPR: The announcement comes amid concerns that other Pacific island countries financially weakened by the pandemic and its impact on tourism could be lured by China into similar deals. 
  <p class="updated_time"> 12:03 AM CT, Apr. 26 </p> 
@@ -107,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/world/europe/macron-le-pen-orban.html">Macron’s Win Is Also a Blow to Orban’s Nationalist Crusade in Europe</a> NYT: The Hungarian leader had cast his own victory as the start of a nationalist wave in Europe — one that Marine Le Pen would have joined. Instead, Mr. Macron’s victory in France is a win for the European Union’s approach. 
  <p class="updated_time"> 02:00 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61217528?at_medium=RSS&at_campaign=KARANGA">Ukraine: Facing the Russian Army on the front line in Donbas</a> BBC: Ukrainian forces have been holding the line in Donbas since 2014, but what was sporadic fighting has now turned into a full-blown war. 
- <p class="updated_time"> 01:23 PM CT, Apr. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61221860?at_medium=RSS&at_campaign=KARANGA">Donald Trump held in contempt in New York legal battle</a> BBC: The former president will be fined $10,000 (£7,850) every day until he turns over requested files. 
  <p class="updated_time"> 01:22 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/business/china-covid-zero-economy.html">China’s Covid Lockdowns Stir Memories of a Planned Economy</a> NYT: China is meddling with free enterprise as it hadn’t in decades. The results are familiar to those old enough to remember: scarcity, and the rise of black markets. 
  <p class="updated_time"> 01:06 PM CT, Apr. 25 </p> 
@@ -155,6 +153,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/24/1094553107/the-u-s-promises-to-gradually-reopen-its-embassy-in-ukraine">The U.S. promises to gradually reopen its embassy in Ukraine</a> NPR: Signaling renewed support for Ukraine, the U.S. says it will slowly return diplomats back to the Ukrainian capital. It also promised new military aid for the besieged country. 
  <p class="updated_time"> 10:12 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/modi-kashmir-india.html">Modi Stresses Growth, Sidestepping Politics, in Visit to Restive Territory</a> NYT: The Indian prime minister aims to ease decades of turmoil in Jammu and Kashmir through projects like a solar plant. 
+ <p class="updated_time"> 08:55 PM CT, Apr. 24 </p> 
+ <a href="https://www.nytimes.com/2022/04/23/climate/climate-change-rally-white-house.html">Climate Activists Rally at the White House to Demand Action</a> NYT: In Washington, D.C., as well as Phoenix, Atlanta and scores of other cities across the country, demonstrators called on the government to enact bold climate action. 
  <p class="updated_time"> 08:19 PM CT, Apr. 24 </p> 
  <a href="https://www.npr.org/2022/04/24/1094582459/168-people-were-killed-in-violence-in-darfur-sudan-an-aid-group-says">More troops were deployed after 175 people were killed in violence in Darfur, Sudan</a> NPR: Tribal clashes between Arabs and non-Arabs in Sudan's war-ravaged Darfur region have killed more than 175 people in five days. 
  <p class="updated_time"> 06:55 PM CT, Apr. 24 </p> 
