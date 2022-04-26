@@ -9,41 +9,47 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:59 AM CT, Apr. 26 </p> 
+ <p class="updated_time"> 04:14 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/26/world/asia/brownface-barrack-okarma-1968-hong-kong.html">Brownface in Hong Kong TV Show Draws Outrage and Shrugs</a> NYT: The TV show “Barrack O’Karma 1968” fueled debate about whether the practice is ever acceptable. Some viewers were outraged. Others simply shrugged. 
+ <p class="updated_time"> 04:01 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/business/shanghai-volunteers-covid.html">Amid Virus Chaos, Shanghai Residents Band Together</a> NYT: As the authorities in China’s biggest city fight to stamp out an Omicron outbreak, neighbors are turning to one another for support. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/26/world/middleeast/dubai-jewish-community.html">Baking Challah in Dubai: A Jewish Community Heads Out Into the Open</a> NYT: The increasing openness of Jewish life in the Persian Gulf emirate of Dubai is another sign of an emerging new reality in the Middle East, where Israel’s isolation by the Arab world is ebbing. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/article/long-covid-vaccines.html">Do Vaccines Protect Against Long Covid?</a> NYT: Maybe, according to a growing number of studies, but there’s not yet a definitive answer. 
  <p class="updated_time"> 03:56 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">What Happened on Day 61 of the War in Ukraine</a> NYT: President Biden nominated a new ambassador to Ukraine after a high-stakes trip to Kyiv by two top U.S. officials. Within hours of the visit, Russian missiles struck at least five railway stations across the country. 
+ <p class="updated_time"> 03:29 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit 
  <p class="updated_time"> 03:11 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/turkey-court-conviction-osman-kavala-mucella-yapici.html">Turkish Activist Osman Kavala Sentenced to Life Over Protests</a> NYT: Osman Kavala, a well-known activist, was found guilty of charges related to popular protests in 2013. 
- <p class="updated_time"> 03:01 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit 
  <p class="updated_time"> 03:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/04/25/world/macron-french-election">French Election: As Allies Hail Macron’s Victory, Challenges Loom</a> NYT: Emmanuel Macron’s 17-point margin over the far-right challenger Marine Le Pen was greeted with relief in Western capitals. Economic issues are expected to be a priority of his second term. 
- <p class="updated_time"> 02:13 AM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/2022/04/26/world/asia/brownface-barrack-okarma-1968-hong-kong.html">Brownface in Hong Kong TV Show Draws Outrage and Shrugs</a> NYT: The TV show “Barrack O’Karma 1968” fueled debate about whether the practice is ever acceptable. Some viewers were outraged. Others simply shrugged. 
+ <p class="updated_time"> 02:29 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002">Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</a> WSJ: Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine 
  <p class="updated_time"> 02:12 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61226637?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin: Police release footage from set of Rust shooting</a> BBC: Authorities also released crime scene photos and interviews with witnesses, including Mr Baldwin's. 
- <p class="updated_time"> 02:01 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002">Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</a> WSJ: Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine 
  <p class="updated_time"> 02:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/americas/kenneth-roth-human-rights-watch.html">Kenneth Roth, ‘Godfather’ of Human Rights Work, to Step Down</a> NYT: Mr. Roth joined Human Rights Watch when it was a fledgling organization. It has expanded into one of the most influential human rights advocacy groups. 
  <p class="updated_time"> 01:53 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-61225355?at_medium=RSS&at_campaign=KARANGA">Musk buys Twitter: What's changing? </a> BBC: Questions have been raised over how the platform will change after being bought by the Tesla boss. 
  <p class="updated_time"> 01:51 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61227047?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin shooting: New video shows actor rehearsing with gun</a> BBC: Newly released video from police shows the moments leading up to the shooting on set of "Rust". 
+ <p class="updated_time"> 01:29 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090">Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power</a> WSJ: Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power 
  <p class="updated_time"> 01:14 AM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094760249/australian-opposition-party-vows-to-train-pacific-armies">Australian opposition party vows to train Pacific armies</a> NPR: The announcement comes amid concerns that other Pacific island countries financially weakened by the pandemic and its impact on tourism could be lured by China into similar deals. 
- <p class="updated_time"> 01:01 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090">Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power</a> WSJ: Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power 
  <p class="updated_time"> 12:32 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61225675?at_medium=RSS&at_campaign=KARANGA">North Korea: Kim Jong-un vows to step up nuclear weapons programme</a> BBC: North Korea's leader spoke at a military parade which also saw banned missiles displayed. 
+ <p class="updated_time"> 12:29 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/erdogan-critic-given-life-sentence-in-ruling-likely-to-stoke-tensions-with-west-11650904728">Erdogan Critic Given Life Sentence in Turkey</a> WSJ: Erdogan Critic Given Life Sentence in Turkey 
  <p class="updated_time"> 12:03 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61220296?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: The village with Russia and Belarus on its doorstep</a> BBC: Yogita Limaye visits a Ukrainian village on the border of Russia and Belarus that has been torn apart by war. 
- <p class="updated_time"> 12:01 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/erdogan-critic-given-life-sentence-in-ruling-likely-to-stoke-tensions-with-west-11650904728">Erdogan Critic Given Life Sentence in Turkey</a> WSJ: Erdogan Critic Given Life Sentence in Turkey 
+ <p class="updated_time"> 12:03 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-vows-to-speed-up-nuclear-weapons-program-11650963813">North Korea's Kim Jong Un Vows to Speed Up Nuclear-Weapons Program</a> WSJ: At a military parade, the dictator didn’t call out the U.S. or South Korea in a speech—but a trio of Hwasong-17 missiles rolled through the streets. 
  <p class="updated_time"> 12:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/emmanuel-macron-france-reelection-reinvention.html">Emmanuel Macron Tries to Reinvent Himself After Re-election</a> NYT: France seems in search of a kinder, gentler, greener President Macron. He says he will listen. 
- <p class="updated_time"> 11:01 PM CT, Apr. 25 </p> 
+ <p class="updated_time"> 11:29 PM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying</a> WSJ: Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying 
  <p class="updated_time"> 10:04 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61218421?at_medium=RSS&at_campaign=KARANGA">Bishop Evans: Body of guard found after he tried to save migrants</a> BBC: Bishop Evans jumped into the Rio Grande on the US-Mexico border when he saw two people in distress. 
@@ -127,6 +133,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/24/world/slovenia-election-results-janez-jansa.html">Slovenia Election: Europe’s Far-Right Populists Suffer Another Setback</a> NYT: The country’s prime minister, Janez Jansa, a Trump admirer, appears to have lost to centrist rivals. 
  <p class="updated_time"> 04:09 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/ukraine-shelling-kharkiv.html">In a Ukrainian School, 12 People Await the War’s End, or Their Own</a> NYT: In the basement of a battered school in Kharkiv, a dozen residents have taken shelter. In a neighborhood not far away, life has returned to some sense of normalcy. But they choose to stay. 
+ <p class="updated_time"> 02:00 AM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/scale-of-refugees-from-ukraine-war-on-display-in-polands-public-schools-11650884400">Scale of Refugees From Ukraine War on Display in Poland's Public Schools</a> WSJ: Around 200,000 children have enrolled in schools since Russia invaded Ukraine. An estimated half-million are living in Poland and not yet enrolled. 
  <p class="updated_time"> 01:55 AM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094588767/u-s-promises-new-aid-to-ukraine-in-fight-against-russia">U.S. promises new aid to Ukraine in fight against Russia</a> NPR: U.S. officials say Washington had approved a $165 million sale of ammunition for Ukraine's war effort, along with more than $300 million in foreign military financing. 
  <p class="updated_time"> 01:34 AM CT, Apr. 25 </p> 
@@ -181,10 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/24/business/akihiko-kondo-fictional-character-relationships.html">This Man Married a Fictional Character. He’d Like You to Hear Him Out.</a> NYT: Akihiko Kondo and thousands of others are in devoted fictional relationships, served by a vast industry aimed at satisfying the desires of a fervent fan culture. 
  <p class="updated_time"> 07:05 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/zelensky-donbas-ukraine-russia.html">As Western Arms Pour Into Ukraine, Zelensky Promises Victory</a> NYT: “The day when they will be forced to leave Ukraine is approaching,” the Ukrainian president said of the Russians, in a sharp change of tone. 
- <p class="updated_time"> 05:30 PM CT, Apr. 23 </p> 
- <a href="https://www.nytimes.com/2022/04/23/world/europe/missile-strikes-odesa-ukraine.html">Missile Strikes Hit Odesa, Killing at Least Eight, Officials Say</a> NYT: The local authorities said at least 18 people were wounded in the strike, the first to hit Odesa since early April. 
- <p class="updated_time"> 01:29 PM CT, Apr. 23 </p> 
- <a href="https://www.nytimes.com/2022/04/23/world/europe/ukrainian-easter-traditions.html">Ukrainians Cling to Easter Traditions in the Shadow of a Devastating War</a> NYT: In Lviv, residents had laid bouquets of flowers at the feet of a statue of the Virgin Mary, next to piles of white sandbags protecting the statue from bombings. 
  <p class="updated_time"> 11:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/schroder-germany-russia-gas-ukraine-war-energy.html">How the Ex-Chancellor Gerhard Schröder Became Putin’s Man in Germany</a> NYT: Gerhard Schröder, who is paid almost $1 million a year by Russian-controlled energy companies, has become a pariah. But he is also a symbol of Germany’s Russia policy. 
 
@@ -194,6 +198,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:08 AM CT, Apr. 26 </p> 
+ <a href="https://www.npr.org/2022/04/26/1094766111/new-york-judge-holds-trump-in-contempt-of-court-and-fines-him-10-000-per-day">New York judge holds Trump in contempt of court and fines him $10,000 per day</a> NPR: A judge has found former President Donald Trump in contempt of court. Trump was ordered to pay $10,000 a day for failure to respond to a subpoena during a probe into the Trump Organization. 
+ <p class="updated_time"> 04:08 AM CT, Apr. 26 </p> 
+ <a href="https://www.npr.org/2022/04/26/1094766097/judge-temporarily-blocks-biden-administration-from-lifting-covid-border-rules">Judge temporarily blocks Biden administration from lifting COVID border rules</a> NPR: NPR's A Martinez talks to Democratic Rep. Tony Cardenas of California about White House plans to end Title 42, which restricts migrants entering from the southern border due to the pandemic. 
+ <p class="updated_time"> 04:08 AM CT, Apr. 26 </p> 
+ <a href="https://www.npr.org/2022/04/26/1094766055/paxlovid-a-highly-effective-covid-drug-will-be-made-available-to-more-pharmacies">Paxlovid, a highly effective COVID drug, will be made available to more pharmacies</a> NPR: The White House is unveiling a new push to make more people aware of COVID-19 treatments like Paxlovid — because stockpiles of the life-saving antiviral have been sitting on shelves, unused. 
+ <p class="updated_time"> 04:08 AM CT, Apr. 26 </p> 
+ <a href="https://www.npr.org/2022/04/26/1094766034/morning-news-brief">Morning news brief</a> NPR: Elon Musk is buying Twitter for $44 billion. An effective COVID drug will be made available to more pharmacies. Ex-President Trump is held in contempt of court for failing to turn over documents. 
+ <p class="updated_time"> 04:08 AM CT, Apr. 26 </p> 
+ <a href="https://www.npr.org/2022/04/26/1092557886/will-the-supreme-court-be-as-deferential-to-biden-on-immigration-as-it-was-to-tr">Will the Supreme Court be as deferential to Biden on immigration as it was to Trump?</a> NPR: The court is weighing whether the Biden administration must continue to enforce the Trump-era "Remain in Mexico" program, which keeps some asylum-seekers in Mexico while they await a U.S. hearing. 
+ <p class="updated_time"> 04:01 AM CT, Apr. 26 </p> 
+ <a href="https://www.npr.org/2022/04/26/1094735822/biden-will-make-paxlovid-a-highly-effective-covid-drug-available-to-more-pharmac">Biden will make Paxlovid, a highly effective COVID drug, available to more pharmacies</a> NPR: The antiviral pill is available to patients older than 12 who have tested positive for COVID and are at risk for developing a severe case of the disease. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/26/us/politics/paxlovid-test-to-treat.html">With Supply More Abundant, Pharmacies Struggle to Use Up Covid Pills</a> NYT: The White House on Tuesday announced new steps to expand access to Paxlovid, the Covid-19 antiviral pill. But experts say that efforts to reach at-risk Americans remain complex and inefficient. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/26/us/politics/abbott-immigration-texas-dc-biden.html">Texas’ Busing of Migrants to D.C. Isn’t Having Abbott’s Intended Effect Yet</a> NYT: The plan, meant to rattle President Biden, fits into his strategy for addressing record numbers of border crossings. The migrants said they were grateful for the chartered bus ride. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/26/us/politics/jan-6-texts-freedom-caucus.html">New Details Underscore House G.O.P. Role in Jan. 6 Planning</a> NYT: A court filing and newly disclosed text messages provide additional evidence of how closely some fervent pro-Trump lawmakers worked with the White House on efforts to overturn the election. 
  <p class="updated_time"> 03:31 AM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/court-democrats-immigration-biden-00027659">Courts could short-circuit Democrats' border battle with Biden</a> Politico: The brewing bipartisan frustration over the White House's ending of pandemic-era immigration curbs was threatening to imperil much of the Senate's agenda. 
  <p class="updated_time"> 09:45 PM CT, Apr. 25 </p> 
@@ -266,8 +288,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/04/25/politics/read-mark-meadows-texts-sean-hannity-ivanka-trump-marjorie-taylor-greene/index.html">READ: Text messages Sean Hannity, Marjorie Taylor Greene, Ivanka Trump and others sent to Mark Meadows</a> CNN: CNN has obtained 2,319 text messages that former President Donald Trump's White House chief of staff Mark Meadows sent and received between Election Day 2020 and President Joe Biden's January 20, 2021 inauguration. 
  <p class="updated_time"> 11:29 AM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/kansas-judge-rejects-congressional-map-00027508">Kansas judge rejects congressional map; appeal expected</a> Politico: It was the first time a court has declared that the Kansas Constitution prohibits political gerrymandering. The state is expected to appeal to the Kansas Supreme Court. 
- <p class="updated_time"> 09:59 AM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/24/us/politics/russia-ukraine-diplomacy.html">America’s Road to the Ukraine War</a> NYT: For years, the United States sent mixed signals about its interests in the country. Then Vladimir V. Putin made his move. 
  <p class="updated_time"> 09:45 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/politics/evangelical-churches-trump-election.html">A Crusade to Challenge the 2020 Election, Blessed by Church Leaders</a> NYT: Some evangelical pastors are hosting events dedicated to Trump’s election falsehoods and promoting the cause to their congregations. 
  <p class="updated_time"> 08:01 AM CT, Apr. 25 </p> 
@@ -290,34 +310,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/24/us/elections/kemp-perdue-debate-georgia.html">Kemp and Perdue Debate, Looking Back at 2020 and Ahead to Abrams</a> NYT: Gov. Brian Kemp of Georgia and his Republican primary opponent, former Senator David Perdue, bickered over the previous election — and over who would be more likely to defeat Stacey Abrams in November. 
  <p class="updated_time"> 09:07 PM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/georgia-republican-governor-debate-kemp-perdue-00027430">Election fraud claims dominate Georgia GOP governor’s debate</a> Politico: David Perdue blamed rising gas prices, inflation, illegal immigration and the "brink of war" on Gov. Brian Kemp's refusal to overturn the November election results. 
- <p class="updated_time"> 04:05 PM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/2022/04/24/us/politics/climate-activist-self-immolation-supreme-court.html">Climate Activist Dies After Setting Himself on Fire at Supreme Court</a> NYT: A friend described the actions of Wynn Bruce, of Boulder, Colo., as “a deeply fearless act of compassion to bring attention to climate crisis.” 
  <p class="updated_time"> 09:44 AM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/mccaul-mccarthy-audio-controversy-trump-00027372">‘Kevin is in very good shape’: House Republican shrugs off McCarthy audio controversy</a> Politico: “President Trump said yesterday that he fully supports Kevin McCarthy for speaker, as do I,” said Rep. Michael McCaul. 
  <p class="updated_time"> 09:14 AM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/cuellar-biden-immigration-activists-title-42-00027362">Cuellar: White House listening to ‘immigration activists’ on Title 42</a> Politico: A growing number of Democrats oppose Biden’s plan to end the Trump-era public health order. 
- <p class="updated_time"> 06:49 AM CT, Apr. 24 </p> 
- <a href="https://www.npr.org/2022/04/24/1094538874/political-donations-by-cryptocurrency-are-on-the-rise">Political donations by cryptocurrency are on the rise</a> NPR: NPR's Ayesha Rascoe speaks with Washington Post reporter Tory Newmyer about cryptocurrency advocates donating to candidates in the midterm elections. 
- <p class="updated_time"> 06:41 AM CT, Apr. 24 </p> 
- <a href="https://www.npr.org/2022/04/24/1094538569/politics-chat-more-details-about-the-insurrection-emerge">Politics Chat: More details about the insurrection emerge</a> NPR: Details about high-ranking Republicans and the January 6, 2021, attack on the U.S. Capitol continue to emerge. 
  <p class="updated_time"> 06:00 AM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/swing-state-senate-dems-border-visit-enrages-left-00027355">Border visit backfires on vulnerable Senate Dem</a> Politico: New Hampshire Sen. Maggie Hassan is facing fierce criticism from all sides for her immigration stance. 
  <p class="updated_time"> 05:02 AM CT, Apr. 24 </p> 
  <a href="https://www.cnn.com/2022/04/24/politics/white-house-crystal/index.html">A crystal-clear issue: The White House is in desperate need of new glassware</a> CNN: It was during the George W. Bush administration that it was first noticed in earnest, and the massive state dinners of the Barack Obama era only solidified the situation: The White House was desperately in need of crystal. 
- <p class="updated_time"> 04:01 AM CT, Apr. 24 </p> 
- <a href="https://www.npr.org/sections/health-shots/2022/04/24/1089786147/covid-conspiracy-theories">Their mom died of COVID. They say conspiracy theories are what really killed her</a> NPR: Stephanie was usually careful about her health and regular vaccinations. But then she got into sharing far-out videos and fringe ideas. When COVID hit, misinformation put her and her husband at risk. 
- <p class="updated_time"> 04:00 AM CT, Apr. 24 </p> 
- <a href="https://www.npr.org/2022/04/24/1094070784/title-42-policy-meaning">What to know about Title 42, the Trump-era policy now central to the border debate</a> NPR: A decades-old public health order is back in the spotlight as it's set to expire next month — a move that is long-overdue for immigration advocates. Here are some Title 42 basics, and some history. 
- <p class="updated_time"> 02:00 AM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/2022/04/24/us/politics/christopher-rufo-crt-lgbtq-florida.html">Christopher Rufo Fuels the Right’s Cultural Fires in Florida</a> NYT: Christopher Rufo helped make critical race theory a conservative rallying cry. Now he sees L.G.B.T.Q. issues as an even more potent line of attack. 
  <p class="updated_time"> 08:13 PM CT, Apr. 23 </p> 
  <a href="https://www.politico.com/news/2022/04/23/utah-senator-orrin-hatch-dies-00027357">Orrin Hatch, long-serving Utah senator, dies at age 88</a> Politico: His death was announced in a statement from his foundation, which did not specify a cause. 
- <p class="updated_time"> 08:10 PM CT, Apr. 23 </p> 
- <a href="https://www.npr.org/2022/04/23/1094526516/orrin-hatch-longtime-republican-utah-u-s-senator-dies-at-88">Orrin Hatch, longtime Republican Utah senator, dies at 88</a> NPR: Hatch, the longest-serving Republican senator in history, was known for working across party lines. 
  <p class="updated_time"> 07:42 PM CT, Apr. 23 </p> 
  <a href="https://www.politico.com/news/2022/04/23/trump-jd-vance-ohio-rally-00027356">Trump lays down marker for Vance in Ohio rally: 'This man is going to win'</a> Politico: The former president endorsed in Ohio's crowded GOP Senate primary the week before his scheduled rally in the state. 
- <p class="updated_time"> 06:27 PM CT, Apr. 23 </p> 
- <a href="https://www.npr.org/2022/04/23/1094474805/michigan-gop-karamo-secretary-of-state">Michigan GOP moves forward with 2020 election-denying secretary of state and AG</a> NPR: The party voted resoundingly to support former President Trump's false claims about the 2020 election in their picks for state's next top elections officer and top law enforcement official. 
  <p class="updated_time"> 06:01 AM CT, Apr. 23 </p> 
  <a href="https://www.politico.com/news/2022/04/23/california-democrats-eyeing-feinsteins-seat-00026722">California Dems are eyeing Feinstein's seat — but they're not talking about it</a> Politico: Most everyone is operating under the assumption that Feinstein will not run for reelection in 2024. 
 
