@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:31 AM CT, Apr. 26 </p> 
+ <p class="updated_time"> 08:46 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/04/26/world/ukraine-russia-war-news">Ukraine Live Updates: U.S. Military Leaders Meet With Allies in Germany</a> NYT: Germany said it would send air-defense tanks to Ukraine, a reversal of policy, as Defense Secretary Lloyd Austin gathered officials from over 40 countries to discuss supplying more arms. 
+ <p class="updated_time"> 08:27 AM CT, Apr. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61232241?at_medium=RSS&at_campaign=KARANGA">Biden pardons black ex-Secret Service agent and two others</a> BBC: In his first grants of clemency, the US president pardons three people and commutes 75 sentences. 
  <p class="updated_time"> 08:15 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/asia/brownface-barrack-okarma-1968-hong-kong.html">Brownface in Hong Kong TV Show Draws Outrage and Shrugs</a> NYT: The TV show “Barrack O’Karma 1968” fueled debate online. To many Filipinos, it was about racism and classism. Other viewers jumped to the actress’s defense. 
  <p class="updated_time"> 08:11 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/middleeast/dubai-jewish-community.html">Baking Challah in Dubai: A Jewish Community Heads Out Into the Open</a> NYT: The increasing openness of Jewish life in the Persian Gulf emirate of Dubai is another sign of an emerging new reality in the Middle East, where Israel’s isolation by the Arab world is ebbing. 
- <p class="updated_time"> 07:36 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583">Russia’s Lavrov Says NATO Risks Turning Ukraine Conflict Into a World War</a> WSJ: Russia’s Lavrov Says NATO Risks Turning Ukraine Conflict Into a World War 
+ <p class="updated_time"> 07:57 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583">Russia’s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against World War III</a> WSJ: Russia’s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against World War III 
  <p class="updated_time"> 07:31 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/americas/kenneth-roth-human-rights-watch.html">Kenneth Roth, ‘Godfather’ of Human Rights Work, to Step Down</a> NYT: Mr. Roth joined Human Rights Watch when it was a fledgling organization. It has expanded into one of the most influential human rights advocacy groups. 
  <p class="updated_time"> 07:17 AM CT, Apr. 26 </p> 
@@ -25,36 +27,34 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61229589?at_medium=RSS&at_campaign=KARANGA">Blast kills Chinese nationals in Pakistani city</a> BBC: Three Chinese nationals and their driver were killed in an explosion which is being investigated. 
  <p class="updated_time"> 06:57 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61226640?at_medium=RSS&at_campaign=KARANGA">Nato expansion: No set date for Finland application - minister</a> BBC: Comments come as local media reported that Sweden and Finland could bid for membership next month. 
+ <p class="updated_time"> 06:57 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/germany-to-send-heavy-weapons-to-ukraine-following-allied-pressure-11650965385">Germany to Send Heavy Weapons to Ukraine Following Allied Pressure</a> WSJ: Germany to Send Heavy Weapons to Ukraine Following Allied Pressure 
  <p class="updated_time"> 06:44 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/asia/china-covid-beijing-shanghai.html">China’s Covid Strategy: Test 20 Million in Beijing Amid Lockdown Fears</a> NYT: China’s capital reported 22 cases as it kicked off an ambitious mandatory testing campaign across the city and reassured residents that food and other supplies were plentiful. 
- <p class="updated_time"> 06:36 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/emmanuel-macron-grapples-with-a-deeply-divided-france-11650968378">Emmanuel Macron Grapples With a Deeply Divided France</a> WSJ: Emmanuel Macron Grapples With a Deeply Divided France 
  <p class="updated_time"> 06:22 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/tony-blair-russia-ukraine-event.html">Tony Blair on Russia’s War in Ukraine: A Virtual Event</a> NYT: The former British prime minister will speak with Peter Baker of The New York Times on May 2. 
  <p class="updated_time"> 06:19 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/french-presidential-election-le-pen-macron.html">Convincing Victory Disguises  Challenges for France’s Macron</a> NYT: France’s runoff election was marked by a record level of abstention, and many cast a ballot only to keep the far right from power — a testament to a growing disillusionment. 
  <p class="updated_time"> 06:03 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61226637?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin: Rust film set shooting aftermath footage released</a> BBC: Authorities also published crime scene photos after cinematographer Halyna Hutchins was fatally shot. 
- <p class="updated_time"> 05:36 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/germany-to-send-heavy-weapons-to-ukraine-following-allied-pressure-11650965385">Germany to Send Heavy Weapons to Ukraine Following Allied Pressure</a> WSJ: Germany to Send Heavy Weapons to Ukraine Following Allied Pressure 
+ <p class="updated_time"> 05:57 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/emmanuel-macron-grapples-with-a-deeply-divided-france-11650968378">Emmanuel Macron Grapples With a Deeply Divided France</a> WSJ: Emmanuel Macron Grapples With a Deeply Divided France 
  <p class="updated_time"> 05:24 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61154374?at_medium=RSS&at_campaign=KARANGA">Iran arrests man after brown bear is beaten to death</a> BBC: The endangered animal suffered fatal injuries after being beaten and restrained with a tractor. 
  <p class="updated_time"> 05:01 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61225675?at_medium=RSS&at_campaign=KARANGA">North Korea: Kim Jong-un vows to step up nuclear weapons programme</a> BBC: North Korea's leader spoke at a military parade which also saw banned missiles displayed. 
+ <p class="updated_time"> 04:57 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/indias-neutrality-on-ukraine-rooted-in-deep-ties-to-russia-lingering-mistrust-of-u-s-11650973280">India’s Neutrality on Ukraine Rooted in Deep Ties to Russia, Lingering Mistrust of U.S.</a> WSJ: India’s Neutrality on Ukraine Rooted in Deep Ties to Russia, Lingering Mistrust of U.S. 
  <p class="updated_time"> 04:51 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/asia/north-korea-military-parade-kim.html">North Korea Holds Military Parade With Nuclear Threat</a> NYT: In a speech, Kim Jong-un, the country’s leader, vowed to expand his nuclear arsenal ​“at the fastest possible speed​.” 
  <p class="updated_time"> 04:36 AM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094770364/russias-invasion-of-ukraine-heats-up-cooking-oil-prices-in-global-squeeze">Russia's invasion of Ukraine heats up cooking oil prices in global squeeze</a> NPR: The Russian invasion of Ukraine has further fueled already high food and energy costs, hitting the poorest people hardest. 
- <p class="updated_time"> 04:36 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/japan-and-south-korea-seek-diplomatic-reset-with-change-of-leadership-in-seoul-11650966395">Japan and South Korea Seek Diplomatic Reset With Change of Leadership in Seoul</a> WSJ: Japan and South Korea Seek Diplomatic Reset With Change of Leadership in Seoul 
  <p class="updated_time"> 04:01 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/business/shanghai-volunteers-covid.html">Amid Virus Chaos, Shanghai Residents Band Together</a> NYT: As the authorities in China’s biggest city fight to stamp out an Omicron outbreak, neighbors are turning to one another for support. 
  <p class="updated_time"> 04:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/article/long-covid-vaccines.html">Do Vaccines Protect Against Long Covid?</a> NYT: Maybe, according to a growing number of studies, but there’s not yet a definitive answer. 
- <p class="updated_time"> 03:36 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-vows-to-speed-up-nuclear-weapons-program-11650963813">North Korea’s Kim Jong Un Vows to Speed Up Nuclear-Weapons Program</a> WSJ: North Korea’s Kim Jong Un Vows to Speed Up Nuclear-Weapons Program 
- <p class="updated_time"> 02:41 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/indias-neutrality-on-ukraine-rooted-in-deep-ties-to-russia-lingering-mistrust-of-u-s-11650973280">India's Neutrality on Ukraine Rooted in Deep Ties to Russia, Lingering Mistrust of U.S.</a> WSJ: U.S. officials have struggled to overcome the dynamics of India’s relationships with both countries, built over decades, as they try to persuade New Delhi to take a tougher stand against Moscow. 
+ <p class="updated_time"> 03:57 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/japan-and-south-korea-seek-diplomatic-reset-with-change-of-leadership-in-seoul-11650966395">Japan and South Korea Seek Diplomatic Reset With Change of Leadership in Seoul</a> WSJ: Japan and South Korea Seek Diplomatic Reset With Change of Leadership in Seoul 
  <p class="updated_time"> 01:53 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-61225355?at_medium=RSS&at_campaign=KARANGA">Musk buys Twitter: What's changing? </a> BBC: Questions have been raised over how the platform will change after being bought by the Tesla boss. 
  <p class="updated_time"> 01:51 AM CT, Apr. 26 </p> 
@@ -63,6 +63,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/26/1094760249/australian-opposition-party-vows-to-train-pacific-armies">Australian opposition party vows to train Pacific armies</a> NPR: The announcement comes amid concerns that other Pacific island countries financially weakened by the pandemic and its impact on tourism could be lured by China into similar deals. 
  <p class="updated_time"> 12:03 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61220296?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: The village with Russia and Belarus on its doorstep</a> BBC: Yogita Limaye visits a Ukrainian village on the border of Russia and Belarus that has been torn apart by war. 
+ <p class="updated_time"> 12:03 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-vows-to-speed-up-nuclear-weapons-program-11650963813">North Korea's Kim Jong Un Vows to Speed Up Nuclear-Weapons Program</a> WSJ: At a military parade, the dictator didn’t call out the U.S. or South Korea in a speech—but a trio of Hwasong-17 missiles rolled through the streets. 
  <p class="updated_time"> 12:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/emmanuel-macron-france-reelection-reinvention.html">Emmanuel Macron Tries to Reinvent Himself After Re-election</a> NYT: France seems in search of a kinder, gentler, greener President Macron. He says he will listen. 
  <p class="updated_time"> 10:04 PM CT, Apr. 25 </p> 
@@ -119,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/world/europe/ukraine-zelenksy-government.html">How Zelensky Tamed Ukraine’s Fractious Politics and Stood Up to Putin</a> NYT: Ukrainian politics were known for sharp-elbowed infighting. But as he defends his country against the Russian invasion, President Volodymyr Zelensky has his government presenting a unified front. 
  <p class="updated_time"> 12:37 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094632903/bridget-brink-ambassador-ukraine-us">Biden plans to nominate Bridget Brink as the next ambassador to Ukraine. Who is she?</a> NPR: Brink has served as the U.S. ambassador to Slovakia since 2019. She has more than two decades of experience in the Foreign Service, including stints in Georgia and Uzbekistan. 
- <p class="updated_time"> 11:44 AM CT, Apr. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61214460?at_medium=RSS&at_campaign=KARANGA">France election: Macron faces immediate challenges to power after victory</a> BBC: The re-elected French president has to focus on a new set of problems, beginning with a general election. 
  <p class="updated_time"> 09:59 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/us/politics/russia-ukraine-diplomacy.html">America’s Road to the Ukraine War</a> NYT: For years, the United States sent mixed signals about its interests in the country. Then Vladimir V. Putin made his move. 
  <p class="updated_time"> 09:58 AM CT, Apr. 25 </p> 
@@ -200,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:32 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/25/us/politics/mallory-mcmorrow-michigan.html">Smeared as a Groomer, a Michigan Democrat Goes on Offense</a> NYT: Mallory McMorrow’s viral speech attacking what she called Republicans’ “hollow, hateful scheme” against L.G.B.T.Q. rights has made her an instant hero on the left. 
  <p class="updated_time"> 08:23 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/us/politics/jan-6-texts-mark-meadows.html">New Details Underscore House G.O.P. Role in Jan. 6 Planning</a> NYT: A court filing and newly disclosed text messages provide additional evidence of how closely some fervent pro-Trump lawmakers worked with the White House on efforts to overturn the election. 
  <p class="updated_time"> 08:00 AM CT, Apr. 26 </p> 
@@ -218,6 +220,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/26/biden-pardons-former-secret-service-agent-00027727">Biden pardons former Secret Service agent and 2 others</a> Politico: The president also commuted the sentences of 75 others for nonviolent, drug-related convictions. 
  <p class="updated_time"> 05:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/us/politics/biden-pardons.html">Biden to Use Clemency Powers for First Time</a> NYT: The president said he would commute the sentences of 75 nonviolent drug offenders and issue three pardons, part of what aides described as a broader strategy to overhaul the criminal justice system. 
+ <p class="updated_time"> 05:00 AM CT, Apr. 26 </p> 
+ <a href="https://www.npr.org/2022/04/26/1094755907/reentry-recidivism-biden-formerly-incarcerated-jobs-housing-healthcare-loans">Biden says he will grant millions to jobs, housing for formerly incarcerated people</a> NPR: Reentry plans should begin as soon as a person is incarcerated and no later than 18 months before a person's sentence is complete, Biden's office said. 
  <p class="updated_time"> 04:08 AM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094766111/new-york-judge-holds-trump-in-contempt-of-court-and-fines-him-10-000-per-day">New York judge holds Trump in contempt of court and fines him $10,000 per day</a> NPR: A judge has found former President Donald Trump in contempt of court. Trump was ordered to pay $10,000 a day for failure to respond to a subpoena during a probe into the Trump Organization. 
  <p class="updated_time"> 04:08 AM CT, Apr. 26 </p> 
@@ -264,8 +268,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/25/elon-musk-is-buying-into-a-new-kind-of-fight-in-washington-00027654">What Elon Musk’s battles with Washington might mean for Twitter</a> Politico: The world’s richest man has a lot of experience getting his way in Washington. But doing it as Twitter's owner may be different. 
  <p class="updated_time"> 06:06 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/politics/ukraine-russia-us-dynamic.html">How the U.S. Is Shifting Its Approach on Russia’s War in Ukraine</a> NYT: The United States is edging toward a dynamic that pits Washington more directly against Moscow, and one that U.S. officials see as likely to play out for years. 
- <p class="updated_time"> 06:00 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/us/politics/mallory-mcmorrow-michigan.html">Smeared as a Groomer, a Michigan Democrat Goes on Offense</a> NYT: Mallory McMorrow’s viral speech attacking what she called Republicans’ “hollow, hateful scheme” against L.G.T.B.Q. rights has made her an instant hero on the left. 
  <p class="updated_time"> 05:24 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/politics/kansas-congressional-map-unconstitutional.html">State Court Rejects Kansas Congressional Map as a Gerrymander</a> NYT: The Republican-drawn map intentionally split strongholds of Democratic and Black voters, a judge ruled. The State Supreme Court will review the decision. 
  <p class="updated_time"> 05:19 PM CT, Apr. 25 </p> 
@@ -308,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/25/hawley-endorses-masters-arizona-senate-00027415">Hawley endorses Thiel-backed Arizona Senate candidate</a> Politico: The Missouri senator is backing Blake Masters and Ohio's J.D. Vance, two more Peter Thiel allies, to join him in Washington 
  <p class="updated_time"> 06:00 AM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/kyiv-austin-blinken-diplomatic-presence-ukraine-00027440">Visiting Kyiv, Austin and Blinken share plans to step up diplomatic presence in Ukraine</a> Politico: The two Cabinet members also said the United States will provide more security assistance and expand military training. 
- <p class="updated_time"> 04:00 AM CT, Apr. 25 </p> 
- <a href="https://www.npr.org/2022/04/25/1094234568/redistricting-and-democrats-stalled-agenda-put-this-blue-arizona-house-seat-in-p">Redistricting and Democrats' stalled agenda put this blue Arizona House seat in play</a> NPR: A redrawn Phoenix-area district represented by Rep. Greg Stanton is ground zero for the kind of race Democrats need to win in order to keep control of the House. 
  <p class="updated_time"> 04:00 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/insider/crisis-actors-russia-ukraine.html">‘Crisis Actors’? Where Have I Heard That Before?</a> NYT: A journalist in The Times’s Washington bureau explains how some terms used by the Kremlin to deny evidence of atrocities in Ukraine originated here at home. 
  <p class="updated_time"> 03:30 AM CT, Apr. 25 </p> 
