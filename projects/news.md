@@ -9,8 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:37 PM CT, Apr. 25 </p> 
+ <p class="updated_time"> 07:32 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: U.S. Says It Wants Russian Military Weakened</a> NYT: President Biden nominated a new ambassador to Ukraine after a high-stakes trip to Kyiv by two top U.S. officials. Within hours of the visit, Russian missiles struck at least five railway stations across the country. 
+ <p class="updated_time"> 07:24 PM CT, Apr. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61212761?at_medium=RSS&at_campaign=KARANGA">How a Japanese boat trip ended in tragedy</a> BBC: A catalogue of errors appears to have led to the sinking of a boat carrying sightseers off northern Japan. 
+ <p class="updated_time"> 06:56 PM CT, Apr. 25 </p> 
+ <a href="https://www.nytimes.com/2022/04/24/world/asia/covid-beijing-shanghai.html">Covid Outbreak in Beijing Prompts Order for Nearly Citywide Testing</a> NYT: Supermarkets stocked up as panic buying began. Municipal authorities ordered that almost all residents be tested three times this week to contain a rising number of cases. 
+ <p class="updated_time"> 06:40 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit 
  <p class="updated_time"> 06:37 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/ukraine-russia-war-us.html">Emboldened by Ukraine’s Grit, U.S. Wants to See Russia Weakened</a> NYT: Hours after the American secretaries of defense and state met with Ukraine’s president in Kyiv, Russia hit at least five Ukrainian railway stations in rocket attacks. 
  <p class="updated_time"> 06:31 PM CT, Apr. 25 </p> 
@@ -33,44 +39,40 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61216620?at_medium=RSS&at_campaign=KARANGA">Sex for Water in Kenya: What price are women and girls paying?</a> BBC: Women and girls are exposed to sexual violence as private vendors control the water supply in Kenya. 
  <p class="updated_time"> 06:02 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/explosions-transnistria-moldova-ukraine.html">Explosions Hit Transnistria, a Region of Moldova in Ukraine</a> NYT: No injuries were reported in the area that has a large ethnic Russian population. 
- <p class="updated_time"> 05:55 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit 
  <p class="updated_time"> 05:42 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-61222470?at_medium=RSS&at_campaign=KARANGA">Elon Musk strikes deal to buy Twitter for $44bn</a> BBC: Mr Musk, who made the shock bid just over a week ago, said he would "unlock" the social media firm's potential. 
+ <p class="updated_time"> 05:40 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002">Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</a> WSJ: Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine 
  <p class="updated_time"> 05:38 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094721838/beijing-china-covid-mass-testing">Beijing will mass-test most of the city as COVID-19 cases mount</a> NPR: Beijing will conduct mass testing of most of its 21 million people, authorities announced, as a new COVID-19 outbreak sparked stockpiling of food by residents. 
  <p class="updated_time"> 05:21 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/emmanuel-macron-france-reelection-reinvention.html">Emmanuel Macron Tries to Reinvent Himself After Re-election</a> NYT: France seems in search of a kinder, gentler, greener President Macron. He says he will listen. 
- <p class="updated_time"> 04:55 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002">Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</a> WSJ: Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine 
+ <p class="updated_time"> 04:40 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090">Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power</a> WSJ: Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power 
  <p class="updated_time"> 04:04 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094680464/a-new-documentary-focuses-on-the-near-fatal-poisoning-of-russian-opposition-lead">A new documentary focuses on the near-fatal poisoning of Russian opposition leader</a> NPR: NPR's Rob Schmitz talks with Daniel Roher, director of the documentary Navalny, about the poisoning of the Russian opposition leader. 
- <p class="updated_time"> 04:01 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/24/world/asia/covid-beijing-shanghai.html">Covid Outbreak in Beijing Prompts Order for Nearly Citywide Testing</a> NYT: Supermarkets stocked up as panic buying began. Municipal authorities ordered that almost all residents be tested three times this week to contain a rising number of cases. 
- <p class="updated_time"> 03:55 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090">Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power</a> WSJ: Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power 
  <p class="updated_time"> 03:54 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094609365/russia-ukraine-war-what-happened-today-april-25">Russia-Ukraine war: What happened today (April 25)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:53 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094680380/with-lockdown-fears-looming-beijing-is-testing-millions-for-covid">With lockdown fears looming, Beijing is testing millions for COVID</a> NPR: Beijing says it will test all 3.6 million residents in its largest district after finding about four dozen COVID cases. Residents fear a city-wide lockdown is imminent. 
  <p class="updated_time"> 03:53 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094680373/u-s-defense-secretary-wants-to-see-russia-weakened-as-ukraines-railways-are-hit">U.S. defense secretary 'wants to see Russia weakened' as Ukraine's railways are hit</a> NPR: Secretary of Defense Lloyd Austin said the U.S. wants to see the Russian military weakened on the battlefield. Meanwhile, Russian missiles struck railway infrastructure in central and western Ukraine. 
+ <p class="updated_time"> 03:40 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/erdogan-critic-given-life-sentence-in-ruling-likely-to-stoke-tensions-with-west-11650904728">Erdogan Critic Given Life Sentence in Turkey</a> WSJ: Erdogan Critic Given Life Sentence in Turkey 
  <p class="updated_time"> 03:38 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61220570?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Russia hits railways as US pledges extra weapons</a> BBC: A chilling account of a Russian filtration camp and US hopes for Russia to be "weakened". 
  <p class="updated_time"> 03:22 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61221859?at_medium=RSS&at_campaign=KARANGA">Johnny Depp blames 'burn Amber' text on Monty Python</a> BBC: Mr Depp defends messages sent to fellow actor Paul Bettany saying he would burn his then-girlfriend. 
- <p class="updated_time"> 02:55 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/erdogan-critic-given-life-sentence-in-ruling-likely-to-stoke-tensions-with-west-11650904728">Erdogan Critic Given Life Sentence in Turkey</a> WSJ: Erdogan Critic Given Life Sentence in Turkey 
  <p class="updated_time"> 02:50 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/macron-le-pen-orban.html">Macron’s Win Is Also a Blow to Orban’s Nationalist Crusade in Europe</a> NYT: The Hungarian leader had cast his own victory as the start of a nationalist wave in Europe — one that Marine Le Pen would have joined. Instead, Mr. Macron’s victory in France is a win for the European Union’s approach. 
  <p class="updated_time"> 02:49 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/04/25/world/macron-french-election">Live Updates: As Allies Hail Macron’s Re-election, Challenges Loom in France</a> NYT: Emmanuel Macron’s 17-point margin over the far-right challenger Marine Le Pen was greeted with relief in Western capitals. Economic issues are expected to be a priority of his second term. 
+ <p class="updated_time"> 02:40 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying</a> WSJ: Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying 
  <p class="updated_time"> 02:00 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61217528?at_medium=RSS&at_campaign=KARANGA">Ukraine: Facing the Russian Army on the front line in Donbas</a> BBC: Ukrainian forces have been holding the line in Donbas since 2014, but what was sporadic fighting has now turned into a full-blown war. 
  <p class="updated_time"> 01:57 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/africa/bain-south-africa-jacob-zuma.html">An American Consulting Firm Became a Power Broker, and Then a Pariah, in South Africa</a> NYT: A new judicial inquiry found that corruption at South Africa’s tax agency was because of “collusion” between Bain & Company and South Africa’s former president. 
- <p class="updated_time"> 01:55 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying</a> WSJ: Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying 
  <p class="updated_time"> 01:23 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61221860?at_medium=RSS&at_campaign=KARANGA">Donald Trump held in contempt in New York legal battle</a> BBC: The former president will be fined $10,000 (£7,850) every day until he turns over requested files. 
  <p class="updated_time"> 01:22 PM CT, Apr. 25 </p> 
@@ -91,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61214460?at_medium=RSS&at_campaign=KARANGA">France election: Macron faces immediate challenges to power after victory</a> BBC: A day after his election success, the French president has to focus on a new set of problems. 
  <p class="updated_time"> 11:04 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61218239?at_medium=RSS&at_campaign=KARANGA">Kane Tanaka: Japanese woman certified world's oldest person dies</a> BBC: Kane Tanaka was born in 1903, the same year as George Orwell and when Roosevelt was US president. 
- <p class="updated_time"> 10:48 AM CT, Apr. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61222500?at_medium=RSS&at_campaign=KARANGA">French election: I did not vote because nothing will change</a> BBC: Many French people were left disappointed by the options in the presidential run-off. 
  <p class="updated_time"> 10:17 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-61215194?at_medium=RSS&at_campaign=KARANGA">Stock markets tumble over China lockdown fears</a> BBC: Shares drop as Covid cases in Beijing raise the prospect of supply chain disruption. 
  <p class="updated_time"> 09:59 AM CT, Apr. 25 </p> 
@@ -132,7 +132,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:55 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/23/climate/climate-change-rally-white-house.html">Climate Activists Rally at the White House to Demand Action</a> NYT: In Washington, D.C., as well as Phoenix, Atlanta and scores of other cities across the country, demonstrators called on the government to enact bold climate action. 
  <p class="updated_time"> 08:19 PM CT, Apr. 24 </p> 
- <a href="https://www.npr.org/2022/04/24/1094582459/168-people-were-killed-in-violence-in-darfur-sudan-an-aid-group-says">168 people were killed in violence in Darfur, Sudan, an aid group says</a> NPR: Tribal clashes between Arabs and non-Arabs in Sudan's war-ravaged Darfur region killed 168 people, a local aid group said. 
+ <a href="https://www.npr.org/2022/04/24/1094582459/168-people-were-killed-in-violence-in-darfur-sudan-an-aid-group-says">More troops were deployed after 175 people were killed in violence in Darfur, Sudan</a> NPR: Tribal clashes between Arabs and non-Arabs in Sudan's war-ravaged Darfur region have killed more than 175 people in five days. 
  <p class="updated_time"> 06:55 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/africa/sudan-darfur-janjaweed.html">Arab Militia Kills Scores in Sweeping Attack in Sudan’s Darfur</a> NYT: The assault by hundreds of Janjaweed fighters, the latest in a series of clashes, was another sign of Sudan's deepening security and political crisis. 
  <p class="updated_time"> 06:03 PM CT, Apr. 24 </p> 
@@ -196,16 +196,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:06 PM CT, Apr. 25 </p> 
+ <a href="https://www.nytimes.com/2022/04/25/travel/mask-mandate-overturn.html">Who Helped End the Travel Mask Mandate? </a> NYT: The mask rule on planes and public transportation has been targeted by the travel industry and Republican lawmakers. In the end, it was brought down by a little-known nonprofit, a conservative judge and chance. 
+ <p class="updated_time"> 07:05 PM CT, Apr. 25 </p> 
+ <a href="https://www.politico.com/news/2022/04/25/russia-western-weapons-shipments-ukraine-donbas-00027663">Russia targeting Western weapons shipments in Ukraine as Donbas assault begins</a> Politico: "The fight for Donbas will be won or lost primarily on logistics," a former Pentagon official said. 
  <p class="updated_time"> 06:45 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094630152/the-u-s-army-expands-benefits-for-soldiers-who-are-parents">The U.S. Army expands benefits for soldiers who are parents</a> NPR: The U.S. Army is expanding benefits for both birth and non-birth parents in its force. 
+ <p class="updated_time"> 06:40 PM CT, Apr. 25 </p> 
+ <a href="https://www.politico.com/news/2022/04/25/elon-musk-is-buying-into-a-new-kind-of-fight-in-washington-00027654">What Elon Musk’s battles with Washington might mean for Twitter</a> Politico: The world’s richest man has a lot of experience getting his way in Washington. But doing it as Twitter's owner may be different. 
  <p class="updated_time"> 06:28 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/politics/ukraine-ambassador-embassy-biden.html">Biden Picks Bridget Brink to Be Ambassador to Ukraine</a> NYT: The U.S. Embassy, which closed just before Russia’s invasion, could reopen “over a couple of weeks,” Secretary of State Antony Blinken said. 
  <p class="updated_time"> 06:06 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/politics/ukraine-russia-us-dynamic.html">Behind Austin’s Call for a ‘Weakened’ Russia, Hints of a Shift</a> NYT: The United States is edging toward a dynamic that pits Washington more directly against Moscow, and one that U.S. officials see as likely to play out for years. 
  <p class="updated_time"> 06:00 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/politics/mallory-mcmorrow-michigan.html">Mallory McMorrow Goes on Offense After a Smear</a> NYT: Mallory McMorrow’s viral speech attacking what she called Republicans’ “hollow, hateful scheme” against L.G.T.B.Q. rights has made her an instant hero on the left. 
- <p class="updated_time"> 05:54 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/travel/mask-mandate-overturn.html">Who Helped End the Travel Mask Mandate? </a> NYT: The mask rule on planes and public transportation has been targeted by the travel industry and Republican lawmakers. In the end, it was brought down by a little-known nonprofit, a conservative judge and chance. 
  <p class="updated_time"> 05:24 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/politics/kansas-congressional-map-unconstitutional.html">State Court Rejects Kansas Congressional Map as a Gerrymander</a> NYT: The Republican-drawn map intentionally split strongholds of Democratic and Black voters, a judge ruled. The State Supreme Court will review the decision. 
  <p class="updated_time"> 05:19 PM CT, Apr. 25 </p> 
@@ -216,8 +220,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/us/politics/supreme-court-admissions-race.html">Supreme Court Allows Elite High School’s New Admissions Rules</a> NYT: A group including parents of Asian American students challenged the new criteria at Thomas Jefferson High School for Science and Technology in Virginia. 
  <p class="updated_time"> 04:22 PM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/desantis-florida-election-police-units-00027577">DeSantis signs bill creating one of the nation’s only election police units</a> Politico: The measure was watered down from one that initially had local election officials warning it was a “recipe for disaster.” 
- <p class="updated_time"> 04:15 PM CT, Apr. 25 </p> 
- <a href="https://www.politico.com/news/2022/04/25/russia-rail-fuel-targets-ukraine-00027608">Russia hits rail and fuel targets far from the eastern front</a> Politico: The strikes were a bid to thwart Ukrainian efforts to marshal supplies for the fight. 
  <p class="updated_time"> 04:01 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094680401/trump-is-being-held-in-contempt-of-court-for-failing-to-comply-with-subpoena">Trump is being held in contempt of court for failing to comply with subpoena</a> NPR: A judge has held former President Trump in contempt of court for failing to comply with a subpoena from New York's attorney general. He's being fined $10,000 per day for failing to produce documents. 
  <p class="updated_time"> 04:01 PM CT, Apr. 25 </p> 
@@ -239,7 +241,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:19 PM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/california-discrimination-case-against-activision-00027385">What we know about California’s discrimination case against Activision</a> Politico: One state attorney was fired and another resigned, accusing Gov. Gavin Newsom of meddling. 
  <p class="updated_time"> 02:03 PM CT, Apr. 25 </p> 
- <a href="https://www.politico.com/news/2022/04/25/twitter-elon-musk-company-00027556">Musk is buying Twitter, and its political speech problem</a> Politico: Elon Musk didn’t like how Twitter moderates speech. So he bought it. 
+ <a href="https://www.politico.com/news/2022/04/25/twitter-elon-musk-company-00027556">World's richest man buys ‘free speech’ for $44 billion</a> Politico: Elon Musk didn’t like how Twitter moderates speech. So he bought it. 
  <p class="updated_time"> 12:56 PM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/trump-contempt-new-york-subpoena-00027537">Trump held in contempt for failing to comply with New York AG's subpoena</a> Politico: A state judge ordered the former president to pay $10,000 every day until he respects the subpoena for documents as part of an ongoing civil investigation into his business dealings. 
  <p class="updated_time"> 12:37 PM CT, Apr. 25 </p> 
