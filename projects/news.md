@@ -9,50 +9,52 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:01 AM CT, Apr. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61225675?at_medium=RSS&at_campaign=KARANGA">North Korea: Kim Jong-un vows to step up nuclear weapons programme</a> BBC: North Korea's leader spoke at a military parade which also saw banned missiles displayed. 
+ <p class="updated_time"> 04:57 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/26/world/asia/brownface-barrack-okarma-1968-hong-kong.html">Brownface in Hong Kong TV Show Draws Outrage and Shrugs</a> NYT: The TV show “Barrack O’Karma 1968” fueled debate about whether the practice is ever acceptable. Some viewers were outraged. Others simply shrugged. 
+ <p class="updated_time"> 04:56 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">What Happened on Day 61 of the War in Ukraine</a> NYT: President Biden nominated a new ambassador to Ukraine after a high-stakes trip to Kyiv by two top U.S. officials. Within hours of the visit, Russian missiles struck at least five railway stations across the country. 
+ <p class="updated_time"> 04:56 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/25/world/macron-french-election">French Election: As Allies Hail Macron’s Victory, Challenges Loom</a> NYT: Emmanuel Macron’s 17-point margin over the far-right challenger Marine Le Pen was greeted with relief in Western capitals. Economic issues are expected to be a priority of his second term. 
  <p class="updated_time"> 04:51 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/asia/north-korea-military-parade-kim.html">North Korea Holds Military Parade With Nuclear Threat</a> NYT: In a speech, Kim Jong-un, the country’s leader, vowed to expand his nuclear arsenal ​“at the fastest possible speed​.” 
+ <p class="updated_time"> 04:49 AM CT, Apr. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61226640?at_medium=RSS&at_campaign=KARANGA">Nato expansion: Finland and Sweden set to announce plans to join bloc</a> BBC: The US and UK will reportedly provide security support to the nations during the application process. 
  <p class="updated_time"> 04:44 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/middleeast/dubai-jewish-community.html">Baking Challah in Dubai: A Jewish Community Heads Out Into the Open</a> NYT: The increasing openness of Jewish life in the Persian Gulf emirate of Dubai is another sign of an emerging new reality in the Middle East, where Israel’s isolation by the Arab world is ebbing. 
  <p class="updated_time"> 04:36 AM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094770364/russias-invasion-of-ukraine-heats-up-cooking-oil-prices-in-global-squeeze">Russia's invasion of Ukraine heats up cooking oil prices in global squeeze</a> NPR: The Russian invasion of Ukraine has further fueled already high food and energy costs, hitting the poorest people hardest. 
- <p class="updated_time"> 04:14 AM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/2022/04/26/world/asia/brownface-barrack-okarma-1968-hong-kong.html">Brownface in Hong Kong TV Show Draws Outrage and Shrugs</a> NYT: The TV show “Barrack O’Karma 1968” fueled debate about whether the practice is ever acceptable. Some viewers were outraged. Others simply shrugged. 
+ <p class="updated_time"> 04:26 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit 
  <p class="updated_time"> 04:01 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/business/shanghai-volunteers-covid.html">Amid Virus Chaos, Shanghai Residents Band Together</a> NYT: As the authorities in China’s biggest city fight to stamp out an Omicron outbreak, neighbors are turning to one another for support. 
  <p class="updated_time"> 04:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/article/long-covid-vaccines.html">Do Vaccines Protect Against Long Covid?</a> NYT: Maybe, according to a growing number of studies, but there’s not yet a definitive answer. 
- <p class="updated_time"> 03:56 AM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">What Happened on Day 61 of the War in Ukraine</a> NYT: President Biden nominated a new ambassador to Ukraine after a high-stakes trip to Kyiv by two top U.S. officials. Within hours of the visit, Russian missiles struck at least five railway stations across the country. 
- <p class="updated_time"> 03:56 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit 
+ <p class="updated_time"> 03:26 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-vows-to-speed-up-nuclear-weapons-program-11650963813">North Korea’s Kim Jong Un Vows to Speed Up Nuclear-Weapons Program</a> WSJ: North Korea’s Kim Jong Un Vows to Speed Up Nuclear-Weapons Program 
  <p class="updated_time"> 03:11 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/turkey-court-conviction-osman-kavala-mucella-yapici.html">Turkish Activist Osman Kavala Sentenced to Life Over Protests</a> NYT: Osman Kavala, a well-known activist, was found guilty of charges related to popular protests in 2013. 
- <p class="updated_time"> 03:00 AM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/04/25/world/macron-french-election">French Election: As Allies Hail Macron’s Victory, Challenges Loom</a> NYT: Emmanuel Macron’s 17-point margin over the far-right challenger Marine Le Pen was greeted with relief in Western capitals. Economic issues are expected to be a priority of his second term. 
- <p class="updated_time"> 02:56 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-vows-to-speed-up-nuclear-weapons-program-11650963813">North Korea’s Kim Jong Un Vows to Speed Up Nuclear-Weapons Program</a> WSJ: North Korea’s Kim Jong Un Vows to Speed Up Nuclear-Weapons Program 
+ <p class="updated_time"> 02:26 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/scale-of-refugees-from-ukraine-war-on-display-in-polands-public-schools-11650884400">Scale of Refugees From Ukraine War on Display in Poland’s Public Schools</a> WSJ: Scale of Refugees From Ukraine War on Display in Poland’s Public Schools 
  <p class="updated_time"> 02:12 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61226637?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin: Police release footage from set of Rust shooting</a> BBC: Authorities also released crime scene photos and interviews with witnesses, including Mr Baldwin's. 
  <p class="updated_time"> 02:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/americas/kenneth-roth-human-rights-watch.html">Kenneth Roth, ‘Godfather’ of Human Rights Work, to Step Down</a> NYT: Mr. Roth joined Human Rights Watch when it was a fledgling organization. It has expanded into one of the most influential human rights advocacy groups. 
- <p class="updated_time"> 01:56 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/scale-of-refugees-from-ukraine-war-on-display-in-polands-public-schools-11650884400">Scale of Refugees From Ukraine War on Display in Poland’s Public Schools</a> WSJ: Scale of Refugees From Ukraine War on Display in Poland’s Public Schools 
  <p class="updated_time"> 01:53 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-61225355?at_medium=RSS&at_campaign=KARANGA">Musk buys Twitter: What's changing? </a> BBC: Questions have been raised over how the platform will change after being bought by the Tesla boss. 
  <p class="updated_time"> 01:51 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61227047?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin shooting: New video shows actor rehearsing with gun</a> BBC: Newly released video from police shows the moments leading up to the shooting on set of "Rust". 
+ <p class="updated_time"> 01:26 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/erdogan-critic-given-life-sentence-in-ruling-likely-to-stoke-tensions-with-west-11650904728">Erdogan Critic Given Life Sentence in Turkey</a> WSJ: Erdogan Critic Given Life Sentence in Turkey 
  <p class="updated_time"> 01:14 AM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094760249/australian-opposition-party-vows-to-train-pacific-armies">Australian opposition party vows to train Pacific armies</a> NPR: The announcement comes amid concerns that other Pacific island countries financially weakened by the pandemic and its impact on tourism could be lured by China into similar deals. 
- <p class="updated_time"> 12:56 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/erdogan-critic-given-life-sentence-in-ruling-likely-to-stoke-tensions-with-west-11650904728">Erdogan Critic Given Life Sentence in Turkey</a> WSJ: Erdogan Critic Given Life Sentence in Turkey 
- <p class="updated_time"> 12:32 AM CT, Apr. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61225675?at_medium=RSS&at_campaign=KARANGA">North Korea: Kim Jong-un vows to step up nuclear weapons programme</a> BBC: North Korea's leader spoke at a military parade which also saw banned missiles displayed. 
+ <p class="updated_time"> 12:26 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying</a> WSJ: Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying 
  <p class="updated_time"> 12:03 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61220296?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: The village with Russia and Belarus on its doorstep</a> BBC: Yogita Limaye visits a Ukrainian village on the border of Russia and Belarus that has been torn apart by war. 
  <p class="updated_time"> 12:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/emmanuel-macron-france-reelection-reinvention.html">Emmanuel Macron Tries to Reinvent Himself After Re-election</a> NYT: France seems in search of a kinder, gentler, greener President Macron. He says he will listen. 
- <p class="updated_time"> 11:56 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying</a> WSJ: Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying 
  <p class="updated_time"> 10:04 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61218421?at_medium=RSS&at_campaign=KARANGA">Bishop Evans: Body of guard found after he tried to save migrants</a> BBC: Bishop Evans jumped into the Rio Grande on the US-Mexico border when he saw two people in distress. 
  <p class="updated_time"> 09:40 PM CT, Apr. 25 </p> 
@@ -189,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/24/business/akihiko-kondo-fictional-character-relationships.html">This Man Married a Fictional Character. He’d Like You to Hear Him Out.</a> NYT: Akihiko Kondo and thousands of others are in devoted fictional relationships, served by a vast industry aimed at satisfying the desires of a fervent fan culture. 
  <p class="updated_time"> 07:05 PM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/zelensky-donbas-ukraine-russia.html">As Western Arms Pour Into Ukraine, Zelensky Promises Victory</a> NYT: “The day when they will be forced to leave Ukraine is approaching,” the Ukrainian president said of the Russians, in a sharp change of tone. 
- <p class="updated_time"> 11:00 AM CT, Apr. 23 </p> 
- <a href="https://www.nytimes.com/2022/04/23/world/europe/schroder-germany-russia-gas-ukraine-war-energy.html">How the Ex-Chancellor Gerhard Schröder Became Putin’s Man in Germany</a> NYT: Gerhard Schröder, who is paid almost $1 million a year by Russian-controlled energy companies, has become a pariah. But he is also a symbol of Germany’s Russia policy. 
 
 
 </details>
@@ -198,6 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:00 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/26/us/politics/biden-pardons.html">Biden to Use Clemency Powers for First Time</a> NYT: The president said he would commute the sentences of 75 nonviolent drug offenders and issue three pardons, part of what aides described as a broader strategy to overhaul the criminal justice system. 
  <p class="updated_time"> 04:08 AM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094766111/new-york-judge-holds-trump-in-contempt-of-court-and-fines-him-10-000-per-day">New York judge holds Trump in contempt of court and fines him $10,000 per day</a> NPR: A judge has found former President Donald Trump in contempt of court. Trump was ordered to pay $10,000 a day for failure to respond to a subpoena during a probe into the Trump Organization. 
  <p class="updated_time"> 04:08 AM CT, Apr. 26 </p> 
@@ -219,7 +221,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/court-democrats-immigration-biden-00027659">Courts could short-circuit Democrats' border battle with Biden</a> Politico: The brewing bipartisan frustration over the White House's ending of pandemic-era immigration curbs was threatening to imperil much of the Senate's agenda. 
  <p class="updated_time"> 03:30 AM CT, Apr. 26 </p> 
- <a href="https://www.politico.com/news/2022/04/26/global-covid-fight-is-slowing-00027623">‘Critical juncture’: Global Covid fight is slowing</a> Politico: The world health community is at odds over how to handle the next phase of the pandemic battle. 
+ <a href="https://www.politico.com/news/2022/04/26/global-covid-fight-is-slowing-00027623">Global fight against Covid hitting a snag</a> Politico: The world health community is at odds over how to handle the next phase of the pandemic battle. 
  <p class="updated_time"> 03:30 AM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/sununu-bucks-trump-in-2024-00027612">The one Republican Trump can't touch</a> Politico: New Hampshire Gov. Chris Sununu remains a thorn in the former president's side. 
  <p class="updated_time"> 09:45 PM CT, Apr. 25 </p> 
@@ -286,8 +288,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/04/25/politics/read-mark-meadows-texts-sean-hannity-ivanka-trump-marjorie-taylor-greene/index.html">READ: Text messages Sean Hannity, Marjorie Taylor Greene, Ivanka Trump and others sent to Mark Meadows</a> CNN: CNN has obtained 2,319 text messages that former President Donald Trump's White House chief of staff Mark Meadows sent and received between Election Day 2020 and President Joe Biden's January 20, 2021 inauguration. 
  <p class="updated_time"> 11:29 AM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/kansas-judge-rejects-congressional-map-00027508">Kansas judge rejects congressional map; appeal expected</a> Politico: It was the first time a court has declared that the Kansas Constitution prohibits political gerrymandering. The state is expected to appeal to the Kansas Supreme Court. 
- <p class="updated_time"> 09:45 AM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/us/politics/evangelical-churches-trump-election.html">A Crusade to Challenge the 2020 Election, Blessed by Church Leaders</a> NYT: Some evangelical pastors are hosting events dedicated to Trump’s election falsehoods and promoting the cause to their congregations. 
  <p class="updated_time"> 08:01 AM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/hawley-endorses-masters-arizona-senate-00027415">Hawley endorses Thiel-backed Arizona Senate candidate</a> Politico: The Missouri senator is backing Blake Masters and Ohio's J.D. Vance, two more Peter Thiel allies, to join him in Washington 
  <p class="updated_time"> 07:13 AM CT, Apr. 25 </p> 
