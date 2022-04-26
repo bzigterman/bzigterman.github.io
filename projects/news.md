@@ -9,34 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:58 PM CT, Apr. 25 </p> 
+ <p class="updated_time"> 12:10 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">What Happened on Day 61 of the War in Ukraine</a> NYT: President Biden nominated a new ambassador to Ukraine after a high-stakes trip to Kyiv by two top U.S. officials. Within hours of the visit, Russian missiles struck at least five railway stations across the country. 
+ <p class="updated_time"> 12:03 AM CT, Apr. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61220296?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: The village with Russia and Belarus on its doorstep</a> BBC: Yogita Limaye visits a Ukrainian village on the border of Russia and Belarus that has been torn apart by war. 
+ <p class="updated_time"> 12:00 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/25/world/macron-french-election">Live Updates: As Allies Hail Macron’s Re-election, Challenges Loom in France</a> NYT: Emmanuel Macron’s 17-point margin over the far-right challenger Marine Le Pen was greeted with relief in Western capitals. Economic issues are expected to be a priority of his second term. 
+ <p class="updated_time"> 12:00 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/25/world/europe/emmanuel-macron-france-reelection-reinvention.html">Emmanuel Macron Tries to Reinvent Himself After Re-election</a> NYT: France seems in search of a kinder, gentler, greener President Macron. He says he will listen. 
+ <p class="updated_time"> 11:30 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61225675?at_medium=RSS&at_campaign=KARANGA">North Korea: Kim Jong-un vows to step up nuclear weapons programme</a> BBC: North Korea's leader spoke at a military parade which also saw banned missiles displayed. 
- <p class="updated_time"> 10:26 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">Ukraine Live Updates: U.S. Says It Wants Russian Military Weakened</a> NYT: President Biden nominated a new ambassador to Ukraine after a high-stakes trip to Kyiv by two top U.S. officials. Within hours of the visit, Russian missiles struck at least five railway stations across the country. 
- <p class="updated_time"> 10:16 PM CT, Apr. 25 </p> 
+ <p class="updated_time"> 11:18 PM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit 
+ <p class="updated_time"> 10:18 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002">Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</a> WSJ: Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine 
  <p class="updated_time"> 10:04 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61218421?at_medium=RSS&at_campaign=KARANGA">Bishop Evans: Body of guard found after he tried to save migrants</a> BBC: Bishop Evans jumped into the Rio Grande on the US-Mexico border when he saw two people in distress. 
  <p class="updated_time"> 09:40 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/ukraine-russia-war-us.html">Emboldened by Ukraine’s Grit, U.S. Wants to See Russia Weakened</a> NYT: Hours after the American secretaries of defense and state met with Ukraine’s president in Kyiv, Russia hit at least five Ukrainian railway stations in rocket attacks. 
- <p class="updated_time"> 09:16 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002">Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</a> WSJ: Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine 
+ <p class="updated_time"> 09:18 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090">Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power</a> WSJ: Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power 
  <p class="updated_time"> 09:04 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61218241?at_medium=RSS&at_campaign=KARANGA">Osman Kavala: Turkish activist sentenced to life in prison</a> BBC: Osman Kavala is found guilty on coup plot charges in a case criticised as politically motivated. 
  <p class="updated_time"> 08:25 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/politics/ukraine-ambassador-embassy-biden.html">Biden Picks Bridget Brink to Be Ambassador to Ukraine</a> NYT: The U.S. Embassy, which closed just before Russia’s invasion, could reopen “over a couple of weeks,” Secretary of State Antony Blinken said. 
- <p class="updated_time"> 08:16 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090">Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power</a> WSJ: Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power 
+ <p class="updated_time"> 08:18 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/erdogan-critic-given-life-sentence-in-ruling-likely-to-stoke-tensions-with-west-11650904728">Erdogan Critic Given Life Sentence in Turkey</a> WSJ: Erdogan Critic Given Life Sentence in Turkey 
  <p class="updated_time"> 07:24 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61212761?at_medium=RSS&at_campaign=KARANGA">How a Japanese boat trip ended in tragedy</a> BBC: A catalogue of errors appears to have led to the sinking of a boat carrying sightseers off northern Japan. 
- <p class="updated_time"> 07:16 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/erdogan-critic-given-life-sentence-in-ruling-likely-to-stoke-tensions-with-west-11650904728">Erdogan Critic Given Life Sentence in Turkey</a> WSJ: Erdogan Critic Given Life Sentence in Turkey 
+ <p class="updated_time"> 07:18 PM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying</a> WSJ: Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying 
  <p class="updated_time"> 06:56 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/covid-beijing-shanghai.html">Covid Outbreak in Beijing Prompts Order for Nearly Citywide Testing</a> NYT: Supermarkets stocked up as panic buying began. Municipal authorities ordered that almost all residents be tested three times this week to contain a rising number of cases. 
  <p class="updated_time"> 06:31 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094730176/ancient-egypt-temple-zeus-archaeology">Ruins of an ancient temple for Zeus were unearthed in Egypt</a> NPR: Tell el-Farma, also known by its ancient name Pelusium, dates back thousands of years to the late Pharaonic period and was also used during Greco-Roman and Byzantine times. 
- <p class="updated_time"> 06:16 PM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying</a> WSJ: Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying 
  <p class="updated_time"> 06:15 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/mother-baby-odesa-missile-attack.html">Mother and Baby Among Those Killed in Odesa Attack</a> NYT: The family had moved from their apartment to a relative’s home to try to escape the Russian attacks. 
  <p class="updated_time"> 06:13 PM CT, Apr. 25 </p> 
@@ -57,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61222470?at_medium=RSS&at_campaign=KARANGA">Elon Musk strikes deal to buy Twitter for $44bn</a> BBC: Mr Musk, who made the shock bid just over a week ago, said he would "unlock" the social media firm's potential. 
  <p class="updated_time"> 05:38 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094721838/beijing-china-covid-mass-testing">Beijing will mass-test most of the city as COVID-19 cases mount</a> NPR: Beijing will conduct mass testing of most of its 21 million people, authorities announced, as a new COVID-19 outbreak sparked stockpiling of food by residents. 
- <p class="updated_time"> 05:21 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/world/europe/emmanuel-macron-france-reelection-reinvention.html">Emmanuel Macron Tries to Reinvent Himself After Re-election</a> NYT: France seems in search of a kinder, gentler, greener President Macron. He says he will listen. 
  <p class="updated_time"> 04:04 PM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094680464/a-new-documentary-focuses-on-the-near-fatal-poisoning-of-russian-opposition-lead">A new documentary focuses on the near-fatal poisoning of Russian opposition leader</a> NPR: NPR's Rob Schmitz talks with Daniel Roher, director of the documentary Navalny, about the poisoning of the Russian opposition leader. 
  <p class="updated_time"> 03:54 PM CT, Apr. 25 </p> 
@@ -73,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61221859?at_medium=RSS&at_campaign=KARANGA">Johnny Depp blames 'burn Amber' text on Monty Python</a> BBC: Mr Depp defends messages sent to fellow actor Paul Bettany saying he would burn his then-girlfriend. 
  <p class="updated_time"> 02:50 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/macron-le-pen-orban.html">Macron’s Win Is Also a Blow to Orban’s Nationalist Crusade in Europe</a> NYT: The Hungarian leader had cast his own victory as the start of a nationalist wave in Europe — one that Marine Le Pen would have joined. Instead, Mr. Macron’s victory in France is a win for the European Union’s approach. 
- <p class="updated_time"> 02:49 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/04/25/world/macron-french-election">Live Updates: As Allies Hail Macron’s Re-election, Challenges Loom in France</a> NYT: Emmanuel Macron’s 17-point margin over the far-right challenger Marine Le Pen was greeted with relief in Western capitals. Economic issues are expected to be a priority of his second term. 
  <p class="updated_time"> 02:00 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61217528?at_medium=RSS&at_campaign=KARANGA">Ukraine: Facing the Russian Army on the front line in Donbas</a> BBC: Ukrainian forces have been holding the line in Donbas since 2014, but what was sporadic fighting has now turned into a full-blown war. 
  <p class="updated_time"> 01:57 PM CT, Apr. 25 </p> 
@@ -93,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/25/1094632903/bridget-brink-ambassador-ukraine-us">Biden plans to nominate Bridget Brink as the next ambassador to Ukraine. Who is she?</a> NPR: Brink has served as the U.S. ambassador to Slovakia since 2019. She has more than two decades of experience in the Foreign Service, including stints in Georgia and Uzbekistan. 
  <p class="updated_time"> 11:44 AM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61214460?at_medium=RSS&at_campaign=KARANGA">France election: Macron faces immediate challenges to power after victory</a> BBC: A day after his election success, the French president has to focus on a new set of problems. 
- <p class="updated_time"> 10:17 AM CT, Apr. 25 </p> 
- <a href="https://www.bbc.co.uk/news/business-61215194?at_medium=RSS&at_campaign=KARANGA">Stock markets tumble over China lockdown fears</a> BBC: Shares drop as Covid cases in Beijing raise the prospect of supply chain disruption. 
  <p class="updated_time"> 09:59 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/us/politics/russia-ukraine-diplomacy.html">America’s Road to the Ukraine War</a> NYT: For years, the United States sent mixed signals about its interests in the country. Then Vladimir V. Putin made his move. 
  <p class="updated_time"> 09:58 AM CT, Apr. 25 </p> 
@@ -187,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/23/world/europe/ukrainian-easter-traditions.html">Ukrainians Cling to Easter Traditions in the Shadow of a Devastating War</a> NYT: In Lviv, residents had laid bouquets of flowers at the feet of a statue of the Virgin Mary, next to piles of white sandbags protecting the statue from bombings. 
  <p class="updated_time"> 11:00 AM CT, Apr. 23 </p> 
  <a href="https://www.nytimes.com/2022/04/23/world/europe/schroder-germany-russia-gas-ukraine-war-energy.html">How the Ex-Chancellor Gerhard Schröder Became Putin’s Man in Germany</a> NYT: Gerhard Schröder, who is paid almost $1 million a year by Russian-controlled energy companies, has become a pariah. But he is also a symbol of Germany’s Russia policy. 
- <p class="updated_time"> 07:46 AM CT, Apr. 23 </p> 
- <a href="https://www.nytimes.com/2022/04/23/world/asia/japan-tattoo.html">Discreetly, the Young in Japan Chip Away at a Taboo on Tattoos</a> NYT: Exposed to body art on social media, more young Japanese are getting tattoos, even if that means hiding them at work. 
 
 
 </details>
