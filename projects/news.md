@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:51 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/26/world/asia/north-korea-military-parade-kim.html">North Korea Holds Military Parade With Nuclear Threat</a> NYT: In a speech, Kim Jong-un, the country’s leader, vowed to expand his nuclear arsenal ​“at the fastest possible speed​.” 
+ <p class="updated_time"> 04:44 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/26/world/middleeast/dubai-jewish-community.html">Baking Challah in Dubai: A Jewish Community Heads Out Into the Open</a> NYT: The increasing openness of Jewish life in the Persian Gulf emirate of Dubai is another sign of an emerging new reality in the Middle East, where Israel’s isolation by the Arab world is ebbing. 
  <p class="updated_time"> 04:36 AM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094770364/russias-invasion-of-ukraine-heats-up-cooking-oil-prices-in-global-squeeze">Russia's invasion of Ukraine heats up cooking oil prices in global squeeze</a> NPR: The Russian invasion of Ukraine has further fueled already high food and energy costs, hitting the poorest people hardest. 
- <p class="updated_time"> 04:35 AM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/2022/04/26/world/middleeast/dubai-jewish-community.html">Baking Challah in Dubai: A Jewish Community Heads Out Into the Open</a> NYT: The increasing openness of Jewish life in the Persian Gulf emirate of Dubai is another sign of an emerging new reality in the Middle East, where Israel’s isolation by the Arab world is ebbing. 
  <p class="updated_time"> 04:14 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/asia/brownface-barrack-okarma-1968-hong-kong.html">Brownface in Hong Kong TV Show Draws Outrage and Shrugs</a> NYT: The TV show “Barrack O’Karma 1968” fueled debate about whether the practice is ever acceptable. Some viewers were outraged. Others simply shrugged. 
  <p class="updated_time"> 04:01 AM CT, Apr. 26 </p> 
@@ -21,37 +23,35 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/article/long-covid-vaccines.html">Do Vaccines Protect Against Long Covid?</a> NYT: Maybe, according to a growing number of studies, but there’s not yet a definitive answer. 
  <p class="updated_time"> 03:56 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/04/24/world/ukraine-russia-war-news">What Happened on Day 61 of the War in Ukraine</a> NYT: President Biden nominated a new ambassador to Ukraine after a high-stakes trip to Kyiv by two top U.S. officials. Within hours of the visit, Russian missiles struck at least five railway stations across the country. 
- <p class="updated_time"> 03:44 AM CT, Apr. 26 </p> 
+ <p class="updated_time"> 03:56 AM CT, Apr. 26 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-return-embassy-to-ukraine-boost-military-aid-blinken-and-austin-tell-zelensky-in-visit-to-kyiv-11650859391">U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit</a> WSJ: U.S. Wants to See Russia Weakened, Says Defense Secretary Lloyd Austin After Ukraine Visit 
  <p class="updated_time"> 03:11 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/turkey-court-conviction-osman-kavala-mucella-yapici.html">Turkish Activist Osman Kavala Sentenced to Life Over Protests</a> NYT: Osman Kavala, a well-known activist, was found guilty of charges related to popular protests in 2013. 
  <p class="updated_time"> 03:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/04/25/world/macron-french-election">French Election: As Allies Hail Macron’s Victory, Challenges Loom</a> NYT: Emmanuel Macron’s 17-point margin over the far-right challenger Marine Le Pen was greeted with relief in Western capitals. Economic issues are expected to be a priority of his second term. 
- <p class="updated_time"> 02:44 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/russian-militarys-next-front-line-replacing-battlefield-equipment-destroyed-in-ukraine-11650879002">Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine</a> WSJ: Russian Military’s Next Front Line: Replacing Battlefield Equipment Destroyed in Ukraine 
+ <p class="updated_time"> 02:56 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-vows-to-speed-up-nuclear-weapons-program-11650963813">North Korea’s Kim Jong Un Vows to Speed Up Nuclear-Weapons Program</a> WSJ: North Korea’s Kim Jong Un Vows to Speed Up Nuclear-Weapons Program 
  <p class="updated_time"> 02:12 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61226637?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin: Police release footage from set of Rust shooting</a> BBC: Authorities also released crime scene photos and interviews with witnesses, including Mr Baldwin's. 
  <p class="updated_time"> 02:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/americas/kenneth-roth-human-rights-watch.html">Kenneth Roth, ‘Godfather’ of Human Rights Work, to Step Down</a> NYT: Mr. Roth joined Human Rights Watch when it was a fledgling organization. It has expanded into one of the most influential human rights advocacy groups. 
+ <p class="updated_time"> 01:56 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/scale-of-refugees-from-ukraine-war-on-display-in-polands-public-schools-11650884400">Scale of Refugees From Ukraine War on Display in Poland’s Public Schools</a> WSJ: Scale of Refugees From Ukraine War on Display in Poland’s Public Schools 
  <p class="updated_time"> 01:53 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-61225355?at_medium=RSS&at_campaign=KARANGA">Musk buys Twitter: What's changing? </a> BBC: Questions have been raised over how the platform will change after being bought by the Tesla boss. 
  <p class="updated_time"> 01:51 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61227047?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin shooting: New video shows actor rehearsing with gun</a> BBC: Newly released video from police shows the moments leading up to the shooting on set of "Rust". 
- <p class="updated_time"> 01:44 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090">Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power</a> WSJ: Even in Defeat, Marine Le Pen Leads France’s Far Right Closer to Power 
  <p class="updated_time"> 01:14 AM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094760249/australian-opposition-party-vows-to-train-pacific-armies">Australian opposition party vows to train Pacific armies</a> NPR: The announcement comes amid concerns that other Pacific island countries financially weakened by the pandemic and its impact on tourism could be lured by China into similar deals. 
- <p class="updated_time"> 12:44 AM CT, Apr. 26 </p> 
+ <p class="updated_time"> 12:56 AM CT, Apr. 26 </p> 
  <a href="https://www.wsj.com/articles/erdogan-critic-given-life-sentence-in-ruling-likely-to-stoke-tensions-with-west-11650904728">Erdogan Critic Given Life Sentence in Turkey</a> WSJ: Erdogan Critic Given Life Sentence in Turkey 
  <p class="updated_time"> 12:32 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61225675?at_medium=RSS&at_campaign=KARANGA">North Korea: Kim Jong-un vows to step up nuclear weapons programme</a> BBC: North Korea's leader spoke at a military parade which also saw banned missiles displayed. 
  <p class="updated_time"> 12:03 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61220296?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: The village with Russia and Belarus on its doorstep</a> BBC: Yogita Limaye visits a Ukrainian village on the border of Russia and Belarus that has been torn apart by war. 
- <p class="updated_time"> 12:03 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-vows-to-speed-up-nuclear-weapons-program-11650963813">North Korea's Kim Jong Un Vows to Speed Up Nuclear-Weapons Program</a> WSJ: At a military parade, the dictator didn’t call out the U.S. or South Korea in a speech—but a trio of Hwasong-17 missiles rolled through the streets. 
  <p class="updated_time"> 12:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/emmanuel-macron-france-reelection-reinvention.html">Emmanuel Macron Tries to Reinvent Himself After Re-election</a> NYT: France seems in search of a kinder, gentler, greener President Macron. He says he will listen. 
- <p class="updated_time"> 11:44 PM CT, Apr. 25 </p> 
+ <p class="updated_time"> 11:56 PM CT, Apr. 25 </p> 
  <a href="https://www.wsj.com/articles/beijing-braces-for-omicron-wave-with-hoarding-and-testing-11650866581">Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying</a> WSJ: Beijing Orders Citywide Covid-19 Testing as Fears of Lockdown Spark Panic-Buying 
  <p class="updated_time"> 10:04 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61218421?at_medium=RSS&at_campaign=KARANGA">Bishop Evans: Body of guard found after he tried to save migrants</a> BBC: Bishop Evans jumped into the Rio Grande on the US-Mexico border when he saw two people in distress. 
@@ -135,8 +135,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/24/world/slovenia-election-results-janez-jansa.html">Slovenia Election: Europe’s Far-Right Populists Suffer Another Setback</a> NYT: The country’s prime minister, Janez Jansa, a Trump admirer, appears to have lost to centrist rivals. 
  <p class="updated_time"> 04:09 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/ukraine-shelling-kharkiv.html">In a Ukrainian School, 12 People Await the War’s End, or Their Own</a> NYT: In the basement of a battered school in Kharkiv, a dozen residents have taken shelter. In a neighborhood not far away, life has returned to some sense of normalcy. But they choose to stay. 
- <p class="updated_time"> 02:00 AM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/scale-of-refugees-from-ukraine-war-on-display-in-polands-public-schools-11650884400">Scale of Refugees From Ukraine War on Display in Poland's Public Schools</a> WSJ: Around 200,000 children have enrolled in schools since Russia invaded Ukraine. An estimated half-million are living in Poland and not yet enrolled. 
+ <p class="updated_time"> 02:11 AM CT, Apr. 25 </p> 
+ <a href="https://www.wsj.com/articles/even-in-defeat-marine-le-pen-leads-frances-far-right-closer-to-power-11650885090">Even in Defeat, Marine Le Pen Leads France's Far Right Closer to Power</a> WSJ: The candidate won 41.5% of the vote, showing that her once-fringe party is a political contender. 
  <p class="updated_time"> 01:55 AM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094588767/u-s-promises-new-aid-to-ukraine-in-fight-against-russia">U.S. promises new aid to Ukraine in fight against Russia</a> NPR: U.S. officials say Washington had approved a $165 million sale of ammunition for Ukraine's war effort, along with more than $300 million in foreign military financing. 
  <p class="updated_time"> 01:34 AM CT, Apr. 25 </p> 
@@ -284,6 +284,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/25/tibet-china-cultural-eradication-00027493">Tibet’s leader seeks U.S. action to end China’s 'cultural eradication'</a> Politico: Tibetans are “dying a slow death” under oppressive Chinese rule, Sikyong Penpa Tsering says. 
  <p class="updated_time"> 11:57 AM CT, Apr. 25 </p> 
  <a href="https://www.cnn.com/2022/04/25/politics/read-mark-meadows-texts-sean-hannity-ivanka-trump-marjorie-taylor-greene/index.html">READ: Text messages Sean Hannity, Marjorie Taylor Greene, Ivanka Trump and others sent to Mark Meadows</a> CNN: CNN has obtained 2,319 text messages that former President Donald Trump's White House chief of staff Mark Meadows sent and received between Election Day 2020 and President Joe Biden's January 20, 2021 inauguration. 
+ <p class="updated_time"> 11:29 AM CT, Apr. 25 </p> 
+ <a href="https://www.politico.com/news/2022/04/25/kansas-judge-rejects-congressional-map-00027508">Kansas judge rejects congressional map; appeal expected</a> Politico: It was the first time a court has declared that the Kansas Constitution prohibits political gerrymandering. The state is expected to appeal to the Kansas Supreme Court. 
  <p class="updated_time"> 09:45 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/politics/evangelical-churches-trump-election.html">A Crusade to Challenge the 2020 Election, Blessed by Church Leaders</a> NYT: Some evangelical pastors are hosting events dedicated to Trump’s election falsehoods and promoting the cause to their congregations. 
  <p class="updated_time"> 08:01 AM CT, Apr. 25 </p> 
@@ -296,6 +298,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/25/1094234568/redistricting-and-democrats-stalled-agenda-put-this-blue-arizona-house-seat-in-p">Redistricting and Democrats' stalled agenda put this blue Arizona House seat in play</a> NPR: A redrawn Phoenix-area district represented by Rep. Greg Stanton is ground zero for the kind of race Democrats need to win in order to keep control of the House. 
  <p class="updated_time"> 04:00 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/insider/crisis-actors-russia-ukraine.html">‘Crisis Actors’? Where Have I Heard That Before?</a> NYT: A journalist in The Times’s Washington bureau explains how some terms used by the Kremlin to deny evidence of atrocities in Ukraine originated here at home. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 25 </p> 
+ <a href="https://www.politico.com/news/2022/04/25/ukraine-weaponry-russia-war-00027406">Heavy weaponry pours into Ukraine as commanders become more desperate</a> Politico: Russian forces are attempting a pincer movement on Ukrainian forces in the Donbas. Will Western artillery, tanks and drones get there in time?   
  <p class="updated_time"> 02:00 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/politics/merrick-garland-attorney-general.html">Merrick Garland Finds His Footing as Attorney General</a> NYT: For all of the attention on the Justice Department’s investigation into the Jan. 6 attack, Mr. Garland has focused on the everyday work of being the attorney general. 
  <p class="updated_time"> 10:41 PM CT, Apr. 24 </p> 
@@ -314,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/04/24/politics/white-house-crystal/index.html">A crystal-clear issue: The White House is in desperate need of new glassware</a> CNN: It was during the George W. Bush administration that it was first noticed in earnest, and the massive state dinners of the Barack Obama era only solidified the situation: The White House was desperately in need of crystal. 
  <p class="updated_time"> 08:13 PM CT, Apr. 23 </p> 
  <a href="https://www.politico.com/news/2022/04/23/utah-senator-orrin-hatch-dies-00027357">Orrin Hatch, long-serving Utah senator, dies at age 88</a> Politico: His death was announced in a statement from his foundation, which did not specify a cause. 
- <p class="updated_time"> 07:42 PM CT, Apr. 23 </p> 
- <a href="https://www.politico.com/news/2022/04/23/trump-jd-vance-ohio-rally-00027356">Trump lays down marker for Vance in Ohio rally: 'This man is going to win'</a> Politico: The former president endorsed in Ohio's crowded GOP Senate primary the week before his scheduled rally in the state. 
  <p class="updated_time"> 06:01 AM CT, Apr. 23 </p> 
  <a href="https://www.politico.com/news/2022/04/23/california-democrats-eyeing-feinsteins-seat-00026722">California Dems are eyeing Feinstein's seat — but they're not talking about it</a> Politico: Most everyone is operating under the assumption that Feinstein will not run for reelection in 2024. 
 
