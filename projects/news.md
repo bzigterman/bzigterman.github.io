@@ -9,10 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:41 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/26/world/ukraine-russia-war-news">Ukraine Live Updates: U.S. Military Leaders Meet With Allies in Germany</a> NYT: Germany said it would send air-defense tanks to Ukraine, a reversal of policy, as Defense Secretary Lloyd Austin gathered officials from over 40 countries to discuss supplying more arms. 
+ <p class="updated_time"> 07:31 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/26/world/americas/kenneth-roth-human-rights-watch.html">Kenneth Roth, ‘Godfather’ of Human Rights Work, to Step Down</a> NYT: Mr. Roth joined Human Rights Watch when it was a fledgling organization. It has expanded into one of the most influential human rights advocacy groups. 
+ <p class="updated_time"> 07:17 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/25/world/europe/turkey-court-conviction-osman-kavala-mucella-yapici.html">Turkish Activist Osman Kavala Sentenced to Life Over Protests</a> NYT: Osman Kavala, a well-known activist, was found guilty of charges related to popular protests in 2013. 
  <p class="updated_time"> 06:57 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61226640?at_medium=RSS&at_campaign=KARANGA">Nato expansion: No set date for Finland application - minister</a> BBC: Comments come as local media reported that Sweden and Finland could bid for membership next month. 
- <p class="updated_time"> 06:50 AM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/04/26/world/ukraine-russia-war-news">Ukraine Live Updates: U.S. Military Leaders Meet With Allies in Germany</a> NYT: Germany said it would send air-defense tanks to Ukraine, a reversal of policy, as Defense Secretary Lloyd Austin gathered officials from over 40 countries to discuss supplying more arms. 
+ <p class="updated_time"> 06:52 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583">Russia’s Lavrov Says NATO Risks Turning Ukraine Conflict Into a World War</a> WSJ: Russia’s Lavrov Says NATO Risks Turning Ukraine Conflict Into a World War 
  <p class="updated_time"> 06:44 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/asia/china-covid-beijing-shanghai.html">China’s Covid Strategy: Test 20 Million in Beijing Amid Lockdown Fears</a> NYT: China’s capital reported 22 cases as it kicked off an ambitious mandatory testing campaign across the city and reassured residents that food and other supplies were plentiful. 
  <p class="updated_time"> 06:22 AM CT, Apr. 26 </p> 
@@ -23,14 +29,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/26/world/europe/french-presidential-election-le-pen-macron.html">Convincing Victory Disguises  Challenges for France’s Macron</a> NYT: France’s runoff election was marked by a record level of abstention, and many cast a ballot only to keep the far right from power — a testament to a growing disillusionment. 
  <p class="updated_time"> 06:03 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61226637?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin: Rust film set shooting aftermath footage released</a> BBC: Authorities also published crime scene photos after cinematographer Halyna Hutchins was fatally shot. 
- <p class="updated_time"> 05:59 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583">Russia’s Lavrov Says NATO Risks Turning Ukraine Conflict Into a World War</a> WSJ: Russia’s Lavrov Says NATO Risks Turning Ukraine Conflict Into a World War 
+ <p class="updated_time"> 05:52 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/emmanuel-macron-grapples-with-a-deeply-divided-france-11650968378">Emmanuel Macron Grapples With a Deeply Divided France</a> WSJ: Emmanuel Macron Grapples With a Deeply Divided France 
  <p class="updated_time"> 05:24 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61154374?at_medium=RSS&at_campaign=KARANGA">Iran arrests man after brown bear is beaten to death</a> BBC: The endangered animal suffered fatal injuries after being beaten and restrained with a tractor. 
  <p class="updated_time"> 05:01 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61225675?at_medium=RSS&at_campaign=KARANGA">North Korea: Kim Jong-un vows to step up nuclear weapons programme</a> BBC: North Korea's leader spoke at a military parade which also saw banned missiles displayed. 
- <p class="updated_time"> 04:59 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/emmanuel-macron-grapples-with-a-deeply-divided-france-11650968378">Emmanuel Macron Grapples With a Deeply Divided France</a> WSJ: Emmanuel Macron Grapples With a Deeply Divided France 
+ <p class="updated_time"> 04:52 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/germany-to-send-heavy-weapons-to-ukraine-following-allied-pressure-11650965385">Germany to Send Heavy Weapons to Ukraine Following Allied Pressure</a> WSJ: Germany to Send Heavy Weapons to Ukraine Following Allied Pressure 
  <p class="updated_time"> 04:51 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/asia/north-korea-military-parade-kim.html">North Korea Holds Military Parade With Nuclear Threat</a> NYT: In a speech, Kim Jong-un, the country’s leader, vowed to expand his nuclear arsenal ​“at the fastest possible speed​.” 
  <p class="updated_time"> 04:44 AM CT, Apr. 26 </p> 
@@ -41,16 +47,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/26/business/shanghai-volunteers-covid.html">Amid Virus Chaos, Shanghai Residents Band Together</a> NYT: As the authorities in China’s biggest city fight to stamp out an Omicron outbreak, neighbors are turning to one another for support. 
  <p class="updated_time"> 04:00 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/article/long-covid-vaccines.html">Do Vaccines Protect Against Long Covid?</a> NYT: Maybe, according to a growing number of studies, but there’s not yet a definitive answer. 
- <p class="updated_time"> 03:59 AM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/germany-to-send-heavy-weapons-to-ukraine-following-allied-pressure-11650965385">Germany to Send Heavy Weapons to Ukraine Following Allied Pressure</a> WSJ: Germany to Send Heavy Weapons to Ukraine Following Allied Pressure 
- <p class="updated_time"> 03:11 AM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/2022/04/25/world/europe/turkey-court-conviction-osman-kavala-mucella-yapici.html">Turkish Activist Osman Kavala Sentenced to Life Over Protests</a> NYT: Osman Kavala, a well-known activist, was found guilty of charges related to popular protests in 2013. 
- <p class="updated_time"> 02:59 AM CT, Apr. 26 </p> 
+ <p class="updated_time"> 03:52 AM CT, Apr. 26 </p> 
  <a href="https://www.wsj.com/articles/japan-and-south-korea-seek-diplomatic-reset-with-change-of-leadership-in-seoul-11650966395">Japan and South Korea Seek Diplomatic Reset With Change of Leadership in Seoul</a> WSJ: Japan and South Korea Seek Diplomatic Reset With Change of Leadership in Seoul 
- <p class="updated_time"> 02:00 AM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/2022/04/26/world/americas/kenneth-roth-human-rights-watch.html">Kenneth Roth, ‘Godfather’ of Human Rights Work, to Step Down</a> NYT: Mr. Roth joined Human Rights Watch when it was a fledgling organization. It has expanded into one of the most influential human rights advocacy groups. 
- <p class="updated_time"> 01:59 AM CT, Apr. 26 </p> 
+ <p class="updated_time"> 02:52 AM CT, Apr. 26 </p> 
  <a href="https://www.wsj.com/articles/north-koreas-kim-jong-un-vows-to-speed-up-nuclear-weapons-program-11650963813">North Korea’s Kim Jong Un Vows to Speed Up Nuclear-Weapons Program</a> WSJ: North Korea’s Kim Jong Un Vows to Speed Up Nuclear-Weapons Program 
+ <p class="updated_time"> 02:41 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/indias-neutrality-on-ukraine-rooted-in-deep-ties-to-russia-lingering-mistrust-of-u-s-11650973280">India's Neutrality on Ukraine Rooted in Deep Ties to Russia, Lingering Mistrust of U.S.</a> WSJ: U.S. officials have struggled to overcome the dynamics of India’s relationships with both countries, built over decades, as they try to persuade New Delhi to take a tougher stand against Moscow. 
  <p class="updated_time"> 01:53 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-61225355?at_medium=RSS&at_campaign=KARANGA">Musk buys Twitter: What's changing? </a> BBC: Questions have been raised over how the platform will change after being bought by the Tesla boss. 
  <p class="updated_time"> 01:51 AM CT, Apr. 26 </p> 
@@ -141,8 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/24/world/slovenia-election-results-janez-jansa.html">Slovenia Election: Europe’s Far-Right Populists Suffer Another Setback</a> NYT: The country’s prime minister, Janez Jansa, a Trump admirer, appears to have lost to centrist rivals. 
  <p class="updated_time"> 04:09 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/europe/ukraine-shelling-kharkiv.html">In a Ukrainian School, 12 People Await the War’s End, or Their Own</a> NYT: In the basement of a battered school in Kharkiv, a dozen residents have taken shelter. In a neighborhood not far away, life has returned to some sense of normalcy. But they choose to stay. 
- <p class="updated_time"> 02:00 AM CT, Apr. 25 </p> 
- <a href="https://www.wsj.com/articles/scale-of-refugees-from-ukraine-war-on-display-in-polands-public-schools-11650884400">Scale of Refugees From Ukraine War on Display in Poland's Public Schools</a> WSJ: Around 200,000 children have enrolled in schools since Russia invaded Ukraine. An estimated half-million are living in Poland and not yet enrolled. 
  <p class="updated_time"> 01:55 AM CT, Apr. 25 </p> 
  <a href="https://www.npr.org/2022/04/25/1094588767/u-s-promises-new-aid-to-ukraine-in-fight-against-russia">U.S. promises new aid to Ukraine in fight against Russia</a> NPR: U.S. officials say Washington had approved a $165 million sale of ammunition for Ukraine's war effort, along with more than $300 million in foreign military financing. 
  <p class="updated_time"> 01:34 AM CT, Apr. 25 </p> 
@@ -198,6 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:25 AM CT, Apr. 26 </p> 
+ <a href="https://www.nytimes.com/2022/04/25/travel/mask-mandate-overturn.html">Who Helped End the Travel Mask Mandate? </a> NYT: The mask rule on planes and public transportation has been targeted by the travel industry and Republican lawmakers. In the end, it was brought down by a little-known nonprofit, a conservative judge and chance. 
  <p class="updated_time"> 06:22 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/tony-blair-russia-ukraine-event.html">Tony Blair on Russia’s War in Ukraine: A Virtual Event</a> NYT: The former British prime minister will speak with Peter Baker of The New York Times on May 2. 
  <p class="updated_time"> 06:13 AM CT, Apr. 26 </p> 
@@ -246,8 +248,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/us/politics/ukraine-ambassador-embassy-biden.html">Biden Picks Bridget Brink to Be Ambassador to Ukraine</a> NYT: The U.S. Embassy, which closed just before Russia’s invasion, could reopen “over a couple of weeks,” Secretary of State Antony Blinken said. 
  <p class="updated_time"> 08:17 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/politics/americans-sponsor-ukrainians.html">How Americans Can Sponsor Ukrainian Refugees</a> NYT: Most people in the United States are eligible to sponsor Ukrainian migrants under a program the Biden administration established on Monday. Here’s how it works. 
- <p class="updated_time"> 07:56 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/travel/mask-mandate-overturn.html">Who Helped End the Travel Mask Mandate? </a> NYT: The mask rule on planes and public transportation has been targeted by the travel industry and Republican lawmakers. In the end, it was brought down by a little-known nonprofit, a conservative judge and chance. 
  <p class="updated_time"> 07:05 PM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/russia-western-weapons-shipments-ukraine-donbas-00027663">Russia targeting Western weapons shipments in Ukraine as Donbas assault begins</a> Politico: "The fight for Donbas will be won or lost primarily on logistics," a former Pentagon official said. 
  <p class="updated_time"> 06:45 PM CT, Apr. 25 </p> 
