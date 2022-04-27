@@ -465,13 +465,15 @@ html {
 </table>
 </div>
 
-[![Population]({{ site.baseurl }}/plots/champaign_population.png)](https://fred.stlouisfed.org/series/ILCHAM9POP)
+<iframe src="/interactive/champaign_county_population.html" width="100%" height="300"> 
+</iframe>
 
 ## Illinois
 
 [![Flash Index]({{ site.baseurl }}/plots/il_flash_index.png)](https://igpa.uillinois.edu/page/flash-index-archive)
 
-[![Population]({{ site.baseurl }}/plots/il_population.png)](https://fred.stlouisfed.org/series/ILPOP)
+<iframe src="/interactive/il_population.html" width="100%" height="300"> 
+</iframe>
 
 ## United States
 

@@ -733,6 +733,22 @@ champaign_population
 ggsave("plots/champaign_population.png", plot = champaign_population,
        width = 8, height = 8*(628/1200), dpi = 320)
 
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = value*1000)) %>%
+  hc_title(text = "Population") %>%
+  hc_caption(
+    text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+                 tail(recent_data$short_date,1))) %>%
+  hc_yAxis(title = "") %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )
+fig
+saveWidget(widget = fig, file = "interactive/champaign_county_population.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+
 ## housing ----
 active_listings <- fredr(series_id = "ACTLISCOU17019") %>%
   mutate(name = "Active Listings")
@@ -987,6 +1003,21 @@ il_population
 ggsave("plots/il_population.png", plot = il_population,
        width = 8, height = 8*(628/1200), dpi = 320)
 
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = value*1000)) %>%
+  hc_title(text = "Population") %>%
+  hc_caption(
+    text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+                 tail(recent_data$short_date,1))) %>%
+  hc_yAxis(title = "") %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )
+fig
+saveWidget(widget = fig, file = "interactive/il_population.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
 
 # make web page ----
 ## image references ----
@@ -1015,13 +1046,15 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 
 ",better_cu_housing_table_html,"
 
-[![Population]({{ site.baseurl }}/plots/champaign_population.png)](https://fred.stlouisfed.org/series/ILCHAM9POP)
+<iframe src=\"/interactive/champaign_county_population.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 ## Illinois
 
 [![Flash Index]({{ site.baseurl }}/plots/il_flash_index.png)](https://igpa.uillinois.edu/page/flash-index-archive)
 
-[![Population]({{ site.baseurl }}/plots/il_population.png)](https://fred.stlouisfed.org/series/ILPOP)
+<iframe src=\"/interactive/il_population.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 ## United States
 
