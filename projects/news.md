@@ -9,10 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:39 AM CT, Apr. 27 </p> 
+ <p class="updated_time"> 09:20 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/04/27/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Suspends Gas Supply to Poland and Bulgaria</a> NYT: The move by state-run Gazprom was Russia’s toughest retaliation yet against European sanctions and aid for Ukraine. As the U.S. and allies pledge to continue sending arms, a series of blasts inside Russia raised fears that the conflict could spread. 
+ <p class="updated_time"> 09:13 AM CT, Apr. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61239221?at_medium=RSS&at_campaign=KARANGA">Singapore executes man on drugs charge, rejecting mental disability plea</a> BBC: Nagaenthran Dharmalingam was on death row for years for trying to bring in a small amount of heroin. 
+ <p class="updated_time"> 09:12 AM CT, Apr. 27 </p> 
+ <a href="https://www.npr.org/2022/04/27/1094999989/former-u-s-marine-trevor-reed-freed-from-russia-in-prisoner-swap">Former U.S. Marine Trevor Reed freed from Russia in prisoner swap</a> NPR: A former U.S. Marine is on his way back to the United States after being released from Russian detention. Trevor Reed's release was part of a prisoner swap between the U.S. and Russia. 
+ <p class="updated_time"> 08:57 AM CT, Apr. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61240499?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Russia trying to divide allies using gas - Poland</a> BBC: Russian energy giant Gazprom cuts supply to Poland and Bulgaria for refusal to pay in roubles. 
  <p class="updated_time"> 08:33 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61156745?at_medium=RSS&at_campaign=KARANGA">Trevor Reed: US marine released in prisoner swap with Russia</a> BBC: Held in a Russian prison since 2019, Trevor Reed is safely on his way back to the US. 
+ <p class="updated_time"> 08:26 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494">Russia Suffers Another Fire at a Supply Depot as Its Ukraine Offensive Pushes West</a> WSJ: Russia Suffers Another Fire at a Supply Depot as Its Ukraine Offensive Pushes West 
  <p class="updated_time"> 08:19 AM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1094988296/trevor-reed-russia-prisoner-exchange">U.S. Marine veteran Trevor Reed is released from Russia in a prisoner swap</a> NPR: Reed had been held in Russia since 2019. He was exchanged for pilot Konstantin Yaroshenko, who was serving a 20-year sentence for conspiring to import cocaine into the U.S. 
  <p class="updated_time"> 08:15 AM CT, Apr. 27 </p> 
@@ -25,26 +33,24 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61239181?at_medium=RSS&at_campaign=KARANGA">Tesla shares slide could put Musk's Twitter takeover at risk</a> BBC: The fall in Tesla's shares highlights the issues Elon Musk faces as he tries to run five companies. 
  <p class="updated_time"> 07:45 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/trevor-reed-russia-prisoner-swap.html">Russia Releases Trevor Reed, Former U.S. Marine, in Prisoner Swap</a> NYT: Trevor Reed had been detained since 2019, after he was accused of assaulting and endangering the lives of two police officers. 
- <p class="updated_time"> 07:44 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494">Russia Suffers Another Fire at a Supply Depot as Its Ukraine Offensive Pushes West</a> WSJ: Russia Suffers Another Fire at a Supply Depot as Its Ukraine Offensive Pushes West 
- <p class="updated_time"> 06:44 AM CT, Apr. 27 </p> 
+ <p class="updated_time"> 07:26 AM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/russia-halting-gas-flows-to-poland-bulgaria-over-payment-terms-11651007170">Russia Halting Gas Flows to Poland, Bulgaria Over Payment Terms</a> WSJ: Russia Halting Gas Flows to Poland, Bulgaria Over Payment Terms 
- <p class="updated_time"> 06:23 AM CT, Apr. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61240499?at_medium=RSS&at_campaign=KARANGA">Gazprom halts gas supply to Poland and Bulgaria as Russia accused of blackmail</a> BBC: Russian energy giant Gazprom cuts supply to Poland and Bulgaria for refusal to pay in roubles. 
- <p class="updated_time"> 05:44 AM CT, Apr. 27 </p> 
+ <p class="updated_time"> 06:26 AM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/chinese-drone-giant-dji-suspends-business-in-russia-ukraine-11651058738">Chinese Drone Giant DJI Suspends Business in Russia, Ukraine</a> WSJ: Chinese Drone Giant DJI Suspends Business in Russia, Ukraine 
  <p class="updated_time"> 05:36 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/kane-tanaka-japan-worlds-oldest-person.html">Kane Tanaka, World’s Oldest Person, Dies at 119 in Japan</a> NYT: Kane Tanaka, who died in Japan this month, survived two world wars, the 1918 influenza outbreak, paratyphoid and two rounds of cancer. She loved chocolate and hated losing at board games. 
  <p class="updated_time"> 05:26 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
+ <p class="updated_time"> 05:26 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61233095?at_medium=RSS&at_campaign=KARANGA">Transnistria and Ukraine conflict: Is war spreading?</a> BBC: Mysterious explosions in Transnistria raise fears that the Ukraine conflict may spread to Moldova. 
  <p class="updated_time"> 05:20 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61226282?at_medium=RSS&at_campaign=KARANGA">What changes could Elon Musk make to Twitter?</a> BBC: After the billionaire struck a deal to buy the site, speculation has begun over what the future holds. 
- <p class="updated_time"> 04:44 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 04:38 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61241879?at_medium=RSS&at_campaign=KARANGA">Rio carnival: Tribute to Afro-Brazilian god wins title</a> BBC: The Grande Rio samba group has won the top prize with a parade promoting religious tolerance. 
  <p class="updated_time"> 04:33 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/india-hindu-festival-electrocution.html">11 Electrocuted When Religious Chariot Hits Transmission Wires in India</a> NYT: Two of the 11 killed were children, and more than a dozen people were hurt as they fell or jumped from the vehicle, which was being pulled by devotees at a Hindu religious festival in southern India. 
+ <p class="updated_time"> 04:26 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/brazils-central-bank-intensifies-battle-against-sky-high-borrowing-costs-11651051801">Brazil’s Central Bank Intensifies Battle Against Sky-High Borrowing Costs</a> WSJ: Brazil’s Central Bank Intensifies Battle Against Sky-High Borrowing Costs 
  <p class="updated_time"> 04:17 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/front-line-town-orikhiv.html">Under Fire, a Ukrainian Town Braces for a Russian Onslaught</a> NYT: In Orikhiv, near the front lines, most residents have fled and those who remain endure constant shelling and the fear of what comes next. 
  <p class="updated_time"> 04:13 AM CT, Apr. 27 </p> 
@@ -57,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/27/arts/design/victoria-reed-museum-of-fine-arts-stolen-artwork.html">A Long Way Home for ‘Looted’ Art Is Getting Shorter</a> NYT: Curators at major museums are increasingly grappling with a thorny topic: restitution. 
  <p class="updated_time"> 04:00 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/business/japan-energy-ukraine-war.html">Can Japan Keep the Lights On? The Ukraine War Upends a Big Energy Bet.</a> NYT: The world’s third-largest economy has counted on imported liquefied natural gas as it shuts coal-fired plants and keeps nuclear sites closed. But Russia’s invasion has pushed prices sharply higher. 
- <p class="updated_time"> 03:44 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/brazils-central-bank-intensifies-battle-against-sky-high-borrowing-costs-11651051801">Brazil’s Central Bank Intensifies Battle Against Sky-High Borrowing Costs</a> WSJ: Brazil’s Central Bank Intensifies Battle Against Sky-High Borrowing Costs 
  <p class="updated_time"> 03:21 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/russia-cuts-gas-poland-bulgaria.html">Russia Cuts Gas Supplies to Poland and Bulgaria</a> NYT: The market reaction underscored that a dreaded moment in the war had arrived: the severe disruption of Russian natural gas exports to the E.U. 
  <p class="updated_time"> 03:07 AM CT, Apr. 27 </p> 
@@ -79,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61239881?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar sentences ex-leader to jail for corruption</a> BBC: The former leader was found guilty in the latest of several heavily criticised secret trials. 
  <p class="updated_time"> 11:31 PM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/27/1094965375/singapore-executes-disabled-malaysian-convicted-in-drug-case">Singapore executes disabled Malaysian convicted in drug case</a> NPR: Supporters and lawyers of the man said he had an IQ of 69 and was intellectually disabled, and that the execution of a mentally ill person was prohibited under international human rights law. 
- <p class="updated_time"> 10:58 PM CT, Apr. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61239221?at_medium=RSS&at_campaign=KARANGA">Singapore executes man on drugs charge, rejecting mental disability plea</a> BBC: Nagaenthran Dharmalingam was on death row for years for trying to bring in a small amount of heroin. 
  <p class="updated_time"> 10:52 PM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/russia-ukraine-war-germany-weapons.html">As Diplomacy Hopes Dim, U.S. Marshals Allies to Furnish Long-Term Military Aid to Ukraine</a> NYT: Germany said it would send Ukraine dozens of armored antiaircraft vehicles, a major shift for a country that has been reluctant to escalate the conflict with Russia. 
  <p class="updated_time"> 08:38 PM CT, Apr. 26 </p> 
@@ -141,8 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61237116?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… Finland, Nato and Russia</a> BBC: Ros Atkins looks why Nato’s border with Russia looks likely to expand significantly. 
  <p class="updated_time"> 01:24 PM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61217999?at_medium=RSS&at_campaign=KARANGA">Darfur: Why are Sudan's Janjaweed on the attack again?</a> BBC: Two decades since the conflict began, deadly raids by Arab militia are becoming more frequent. 
- <p class="updated_time"> 12:34 PM CT, Apr. 26 </p> 
- <a href="https://www.npr.org/2022/04/26/1094656395/how-does-ukraine-keep-intercepting-russian-military-communications">How does Ukraine keep intercepting Russian military communications? </a> NPR: Russia had a reputation for being highly skilled in secretive military communications. That notion has been largely shattered by the bumbling way it has been operating in Ukraine. 
  <p class="updated_time"> 11:36 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61236842?at_medium=RSS&at_campaign=KARANGA">North Korea: Banned missiles showcased in military parade</a> BBC: State media broadcast footage from a military parade attended by leader Kim Jong-un. 
  <p class="updated_time"> 10:31 AM CT, Apr. 26 </p> 
@@ -212,6 +212,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:11 AM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/us/politics/pandemic-loan-yrc-yellow-trump.html">Trump Officials Awarded $700 Million Pandemic Loan Despite Objections</a> NYT: A congressional report raises new questions about a pandemic relief loan to a troubled trucking company with close ties to the Trump administration. 
  <p class="updated_time"> 08:19 AM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1094988296/trevor-reed-russia-prisoner-exchange">U.S. Marine veteran Trevor Reed is released from Russia in a prisoner swap</a> NPR: Reed had been held in Russia since 2019. He was exchanged for pilot Konstantin Yaroshenko, who was serving a 20-year sentence for conspiring to import cocaine into the U.S. 
  <p class="updated_time"> 07:32 AM CT, Apr. 27 </p> 
@@ -237,9 +239,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, Apr. 27 </p> 
  <a href="https://www.politico.com/news/2022/04/27/muslim-voter-turnout-2020-00028078">Muslim voter turnout grew in 2020</a> Politico: Nearly three-quarters of registered Muslim Americans voted in 2020, according to a new report. 
  <p class="updated_time"> 03:30 AM CT, Apr. 27 </p> 
- <a href="https://www.politico.com/news/2022/04/27/congressional-redistricting-court-challenges-00027946">This year’s House battlefield is almost locked in. The next decade is still wide open.</a> Politico: Operatives expect the fight over district lines to extend over the next decade as courts continue hearing challenges to new maps. 
- <p class="updated_time"> 03:30 AM CT, Apr. 27 </p> 
  <a href="https://www.politico.com/news/2022/04/27/elizabeth-warren-midterm-elections-00028068">Warren tries to 'light the fire of urgency' for Democrats</a> Politico: The Massachusetts progressive is going all-out to try to push her party to emerge from a morass of bad polling and stalled priorities before Election Day. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 27 </p> 
+ <a href="https://www.politico.com/news/2022/04/27/congressional-redistricting-court-challenges-00027946">This year’s House battlefield is almost locked in. The next decade is still wide open.</a> Politico: Operatives expect the fight over district lines to extend over the next decade as courts continue hearing challenges to new maps. 
  <p class="updated_time"> 03:30 AM CT, Apr. 27 </p> 
  <a href="https://www.politico.com/news/2022/04/27/providers-end-covid-care-uninsured-congression-inaction-00027988">‘It's insanity’: Providers end Covid care for uninsured in the wake of congressional inaction</a> Politico: Less access could also prolong the pandemic, allowing the virus to circulate and perhaps provide a haven for new, more dangerous variants. 
  <p class="updated_time"> 03:30 AM CT, Apr. 27 </p> 
@@ -330,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/26/court-democrats-immigration-biden-00027659">Dems may get reprieve from internal tension over immigration</a> Politico: The brewing bipartisan frustration over the White House's ending of pandemic-era immigration curbs was threatening to imperil much of the Senate's agenda. 
  <p class="updated_time"> 03:30 AM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/sununu-bucks-trump-in-2024-00027612">The one Republican Trump can't touch</a> Politico: New Hampshire Gov. Chris Sununu remains a thorn in the former president's side. 
- <p class="updated_time"> 09:42 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/us/politics/mehmet-oz-dave-mccormick-senate.html">Front-Runners in G.O.P. Pennsylvania Senate Race Are Put on Spot at Debate</a> NYT: Dr. Mehmet Oz and David McCormick, when not sparring with each other, faced attacks from three other challengers. 
  <p class="updated_time"> 09:12 PM CT, Apr. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:29 AM CT, Apr. 25 </p> 
@@ -342,8 +342,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/25/ukraine-weaponry-russia-war-00027406">Heavy weaponry pours into Ukraine as commanders become more desperate</a> Politico: Russian forces are attempting a pincer movement on Ukrainian forces in the Donbas. Will Western artillery, tanks and drones get there in time?   
  <p class="updated_time"> 09:44 AM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/mccaul-mccarthy-audio-controversy-trump-00027372">‘Kevin is in very good shape’: House Republican shrugs off McCarthy audio controversy</a> Politico: “President Trump said yesterday that he fully supports Kevin McCarthy for speaker, as do I,” said Rep. Michael McCaul. 
- <p class="updated_time"> 09:14 AM CT, Apr. 24 </p> 
- <a href="https://www.politico.com/news/2022/04/24/cuellar-biden-immigration-activists-title-42-00027362">Cuellar: White House listening to ‘immigration activists’ on Title 42</a> Politico: A growing number of Democrats oppose Biden’s plan to end the Trump-era public health order. 
 
 
 </details>
