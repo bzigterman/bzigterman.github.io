@@ -17,6 +17,8 @@ install.packages("cowplot")
 install.packages("fredr")
 install.packages("tidyRSS")
 install.packages("svglite")
+install.packages("htmlwidgets")
+install.packages("highcharter")
 
 install.packages("remotes")
 remotes::install_github("rstudio/webshot2")

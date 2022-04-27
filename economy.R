@@ -8,6 +8,8 @@ library(gt)
 library(gtExtras)
 library(zoo)
 library(rvest)
+library(highcharter)
+library(htmlwidgets)
 
 fredr_set_key(Sys.getenv("FRED_API_KEY"))
 
@@ -25,6 +27,17 @@ recent_data <- data %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = TRUE),
                             day(date)))
 
+
+fig <- hchart(data, "line", hcaes(x = date,
+                           y = value)) %>%
+  hc_title(text = "Initial Unemployment Claims") %>%
+  hc_caption(
+    text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+                 tail(recent_data$short_date,1)))
+fig
+saveWidget(widget = fig, file = "interactive/initial_claims.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
 
 ggplot(data = data,
        aes(x = date,
