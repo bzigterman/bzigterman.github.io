@@ -8,6 +8,8 @@ library(cowplot)
 library(htmltools)
 library(RColorBrewer)
 library(gtExtras)
+library(highcharter)
+library(htmlwidgets)
 
 # get data ----
 fivethirtyeight_data_url <- "https://projects.fivethirtyeight.com/mlb-api/mlb_elo_latest.csv"
