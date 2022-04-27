@@ -34,6 +34,8 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_caption(
     text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
+  hc_yAxis(title = "") %>%
+  hc_xAxis(title = "") %>%
   hc_add_theme(
     hc_theme_bloom()
   )
@@ -109,6 +111,8 @@ ggsave("plots/unemployment_rate.png", plot = unemployment_rate,
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value)) %>%
   hc_title(text = "Unemployment Rate") %>%
+  hc_yAxis(title = "") %>%
+  hc_xAxis(title = "") %>%
   hc_caption(
     text = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
@@ -740,6 +744,7 @@ fig <- hchart(data, "line", hcaes(x = date,
     text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = "") %>%
+  hc_xAxis(title = "") %>%
   hc_add_theme(
     hc_theme_bloom()
   )
@@ -1010,6 +1015,7 @@ fig <- hchart(data, "line", hcaes(x = date,
     text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = "") %>%
+  hc_xAxis(title = "") %>%
   hc_add_theme(
     hc_theme_bloom()
   )
