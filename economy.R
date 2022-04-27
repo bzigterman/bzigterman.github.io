@@ -33,7 +33,10 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_title(text = "Initial Unemployment Claims") %>%
   hc_caption(
     text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
-                 tail(recent_data$short_date,1)))
+                 tail(recent_data$short_date,1))) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )
 fig
 saveWidget(widget = fig, file = "interactive/initial_claims.html",
            selfcontained = FALSE,
