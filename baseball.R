@@ -1001,10 +1001,6 @@ fig1 <- hchart(hc_al_games, "line", hcaes(x = game_n,
   hc_xAxis(title = "") %>%
   hc_add_theme(
     hc_theme_bloom()
-  ) %>%
-  hc_tooltip(
-    shared = TRUE,
-    sort = TRUE
   )
 fig1
 saveWidget(widget = fig1, file = "interactive/al_standings.html",
@@ -1019,10 +1015,6 @@ fig2 <- hchart(hc_nl_games, "line", hcaes(x = game_n,
   hc_xAxis(title = "") %>%
   hc_add_theme(
     hc_theme_bloom()
-  ) %>%
-  hc_tooltip(
-    shared = TRUE,
-    sort = TRUE
   )
 fig2
 saveWidget(widget = fig2, file = "interactive/nl_standings.html",
