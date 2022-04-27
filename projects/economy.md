@@ -478,9 +478,8 @@ html {
 <iframe src="/interactive/initial_claims.html" width="100%" height="300"> 
 </iframe>
 
-[![Initial Claims]({{ site.baseurl }}/plots/initial_claims.png)](https://fred.stlouisfed.org/series/ICSA)
-
-[![Unemployment Rate]({{ site.baseurl }}/plots/unemployment_rate.png)](https://fred.stlouisfed.org/series/UNRATE)
+<iframe src="/interactive/us_unemployment_rate.html" width="100%" height="300"> 
+</iframe>
 
 [![Employment]({{ site.baseurl }}/plots/employment.png)](https://fred.stlouisfed.org/series/PAYEMS)
 

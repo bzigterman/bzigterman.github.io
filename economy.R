@@ -105,6 +105,22 @@ unemployment_rate
 ggsave("plots/unemployment_rate.png", plot = unemployment_rate,
        width = 8, height = 8*(628/1200), dpi = 320)
 
+
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = value)) %>%
+  hc_title(text = "Unemployment Rate") %>%
+  hc_caption(
+    text = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+                 tail(recent_data$short_date,1))) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )
+fig
+saveWidget(widget = fig, file = "interactive/us_unemployment_rate.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+
 ## employment -----
 data <- fredr(series_id = "PAYEMS")
 recent_data <- data %>%
@@ -1012,9 +1028,8 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 <iframe src=\"/interactive/initial_claims.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-[![Initial Claims]({{ site.baseurl }}/plots/initial_claims.png)](https://fred.stlouisfed.org/series/ICSA)
-
-[![Unemployment Rate]({{ site.baseurl }}/plots/unemployment_rate.png)](https://fred.stlouisfed.org/series/UNRATE)
+<iframe src=\"/interactive/us_unemployment_rate.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 [![Employment]({{ site.baseurl }}/plots/employment.png)](https://fred.stlouisfed.org/series/PAYEMS)
 
