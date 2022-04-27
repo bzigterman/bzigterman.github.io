@@ -9,16 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:29 PM CT, Apr. 27 </p> 
+ <p class="updated_time"> 03:51 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/04/27/world/ukraine-russia-war-news">Ukraine Live Updates: War’s Effects Widen as Russia Cuts Gas Supplies</a> NYT: The Kremlin halted natural gas shipments to Poland and Bulgaria in its toughest response yet to European sanctions. Explosions inside Russia near the Ukraine border raised fears that the war might spread. 
+ <p class="updated_time"> 03:35 PM CT, Apr. 27 </p> 
+ <a href="https://www.npr.org/2022/04/27/1095100311/kuwaiti-bidoons-went-on-hunger-strike-for-19-days-has-anything-changed">Kuwaiti Bidoons went on hunger strike for 19 days. Has anything changed?</a> NPR: For 19 days, activists have camped outside a police station in Sulaibiya, Kuwait, on hunger strike. They're asking the Kuwaiti government for citizenship. 
+ <p class="updated_time"> 03:35 PM CT, Apr. 27 </p> 
+ <a href="https://www.npr.org/2022/04/27/1095099697/an-update-on-the-global-covid-19-vaccination-effort">An update on the global COVID-19 vaccination effort</a> NPR: The U.S. has pulled back funding for global vaccinations. Some countries — like Brazil — don't need the help. Vaccination rates remain low in other countries such as Iraq due to issues of mistrust. 
+ <p class="updated_time"> 03:35 PM CT, Apr. 27 </p> 
+ <a href="https://www.npr.org/2022/04/27/1095099693/state-dept-spokesperson-on-the-prisoner-exchange-that-returned-marine-vet-trevor">State Dept spokesperson on the prisoner exchange that returned Marine vet Trevor Reed</a> NPR: NPR's Mary Louise Kelly speaks with State Department spokesperson Ned Price about the return of Marine veteran Trevor Reed in a prisoner exchange between the U.S. and Russia. 
+ <p class="updated_time"> 03:35 PM CT, Apr. 27 </p> 
+ <a href="https://www.npr.org/2022/04/27/1095099692/russia-cuts-gas-supplies-to-poland-and-bulgaria">Russia cuts gas supplies to Poland and Bulgaria</a> NPR: Russia's state-run gas company has cut supplies to Poland and Bulgaria. At the heart of this move: the war in Ukraine, the sanctions imposed by the West, and Russia's attempts to wriggle free of them. 
  <p class="updated_time"> 03:04 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/explosions-transnistria-moldova-war.html">Explosions in Separatist Region of Moldova Raise Fears of Wider War</a> NYT: The blasts in Transnistria, a region bordering Ukraine that is run by Russia-backed separatists, have fueled talk of Moldova being dragged into the war. 
  <p class="updated_time"> 03:00 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/covid-hot-spot-new-york-counties.html">The Largest U.S. Coronavirus Hot Spot Swells Beyond Central New York</a> NYT: Health experts say that people in the hot spot, which includes cities like Buffalo, Rochester and Syracuse, should be increasing their precautions. 
+ <p class="updated_time"> 02:59 PM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-stops-gas-flow-to-poland-and-bulgaria-deepening-economic-conflict-with-europe-11651054313">Russian Gas Stoppages Spur Europe’s Race for New Energy Supplies</a> WSJ: Russian Gas Stoppages Spur Europe’s Race for New Energy Supplies 
  <p class="updated_time"> 02:54 PM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61156745?at_medium=RSS&at_campaign=KARANGA">Trevor Reed: US marine released in prisoner swap with Russia</a> BBC: Held in a Russian prison since 2019, Trevor Reed is safely on his way back to the US. 
- <p class="updated_time"> 02:35 PM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-stops-gas-flow-to-poland-and-bulgaria-deepening-economic-conflict-with-europe-11651054313">Russian Gas Stoppages Spur Europe’s Race for New Energy Supplies</a> WSJ: Russian Gas Stoppages Spur Europe’s Race for New Energy Supplies 
  <p class="updated_time"> 02:33 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/covid-britain-hospital-patients-nursing-homes.html">Britain Broke the Law by Moving Hospital Patients to Nursing Homes Early in Pandemic, Court Rules</a> NYT: The court’s ruling came in a lawsuit brought by two women whose fathers died in nursing homes in 2020. 
  <p class="updated_time"> 02:24 PM CT, Apr. 27 </p> 
@@ -27,34 +35,34 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61248809?at_medium=RSS&at_campaign=KARANGA">Bitcoin becomes official currency in Central African Republic</a> BBC: The Central Africa Republic is one of the world's poorest countries, and is a close Russian ally. 
  <p class="updated_time"> 02:16 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/italy-children-surnames-mother-father.html">Italian Children to Be Given Mother’s and Father’s Surnames, Court Rules</a> NYT: The ruling overturns decades of patriarchal family legacy, which largely left women out of the decision-making process. 
+ <p class="updated_time"> 01:59 PM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494">Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine</a> WSJ: Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine 
  <p class="updated_time"> 01:37 PM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1094873072/russia-ukraine-war-chechen-leader-ramzan-kadyrov">Chechnya once resisted Russia. Now, its leader is Putin's brutal ally in Ukraine</a> NPR: Chechen leader Ramzan Kadyrov has long been seen as a key ally to Russian President Vladimir Putin. That commitment has now extended to the war in Ukraine. 
- <p class="updated_time"> 01:35 PM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494">Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine</a> WSJ: Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine 
  <p class="updated_time"> 01:15 PM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61240499?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Russia trying to divide allies using gas - Poland</a> BBC: Russian energy giant Gazprom cuts supply to Poland and Bulgaria for refusal to pay in roubles. 
+ <p class="updated_time"> 12:59 PM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/hackers-linked-to-russia-launched-hundreds-of-cyberattacks-in-ukraine-microsoft-says-11651078821">Hackers Linked to Russia Launched Hundreds of Cyberattacks in Ukraine</a> WSJ: Hackers Linked to Russia Launched Hundreds of Cyberattacks in Ukraine 
  <p class="updated_time"> 12:43 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/ukraine-russia-war-flood-infrastructure.html">Ukrainians Flood Village of Demydiv to Keep Russians at Bay</a> NYT: The waters that poured into Demydiv were one of many instances of Ukraine wreaking havoc on its own territory to slow Russia’s advance. Residents couldn’t be happier. “We saved Kyiv,” one said. 
- <p class="updated_time"> 12:35 PM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/hackers-linked-to-russia-launched-hundreds-of-cyberattacks-in-ukraine-microsoft-says-11651078821">Hackers Linked to Russia Launched Hundreds of Cyberattacks in Ukraine</a> WSJ: Hackers Linked to Russia Launched Hundreds of Cyberattacks in Ukraine 
  <p class="updated_time"> 12:34 PM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61250667?at_medium=RSS&at_campaign=KARANGA">Boeing: Plane-maker reveals losses from Trump Air Force One deal</a> BBC: The US plane-maker reveals costs from the deal former US President Donald Trump renegotiated. 
+ <p class="updated_time"> 11:59 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/eu-targets-hungarys-funding-amid-russia-sanctions-fight-11651069702">EU Targets Hungary’s Funding Amid Russia Sanctions Fight</a> WSJ: EU Targets Hungary’s Funding Amid Russia Sanctions Fight 
  <p class="updated_time"> 11:44 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/middleeast/ayman-hadhoud-egypt-death.html">Questions Over Death of Ayman Hadhoud, an Egyptian Economist</a> NYT: Ayman Hadhoud, a well-known liberal economist and critic of the government, was researching corruption before he disappeared under mysterious circumstances. 
  <p class="updated_time"> 11:40 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/americas/debanhi-escobar-mexico.html">A Woman’s Disappearance Sparks Outrage in Mexico Over Gender Violence</a> NYT: The case of Debanhi Escobar, 18, in Monterrey has ignited a national outcry over the government’s failure to deliver justice for missing women. 
- <p class="updated_time"> 11:35 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/eu-targets-hungarys-funding-amid-russia-sanctions-fight-11651069702">EU Targets Hungary’s Funding Amid Russia Sanctions Fight</a> WSJ: EU Targets Hungary’s Funding Amid Russia Sanctions Fight 
  <p class="updated_time"> 11:10 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-61247254?at_medium=RSS&at_campaign=KARANGA">Critically endangered monkey born in Colombian zoo</a> BBC: A cotton-top tamarin monkey has made its first public appearance at Cali Zoo in Colombia. 
  <p class="updated_time"> 11:02 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/trevor-reed-russia-prisoner-swap.html">Russia Releases Trevor Reed, Former U.S. Marine, in Prisoner Swap</a> NYT: Trevor Reed had been detained since 2019, after he was accused of assaulting and endangering the lives of two police officers. 
  <p class="updated_time"> 11:01 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/climate/reptiles-extinction-biodiversity.html">20 Percent of Reptiles Risk Extinction, From King Cobras to Geckos</a> NYT: The first global analysis of its kind found that logging and farming are taking away reptile habitat at an unsustainable pace, exacerbating a worldwide decline in biodiversity. 
+ <p class="updated_time"> 10:59 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 10:35 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/61243038?at_medium=RSS&at_campaign=KARANGA">Naftali Bennett: Israeli PM to pay for family's food after criticism</a> BBC: Naftali Bennett will now cover the $7,400 monthly bill, which he insists was within the rules. 
- <p class="updated_time"> 10:35 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 10:25 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61221666?at_medium=RSS&at_campaign=KARANGA">Nature loss: 'Insatiable greed' degrading land around the world</a> BBC: Modern agriculture and consumption patterns have devalued around 40% of global lands, according to the UN. 
  <p class="updated_time"> 10:20 AM CT, Apr. 27 </p> 
@@ -143,14 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/26/1094885971/russia-poland-bulgaria-natural-gas">Poland and Bulgaria say Russia is suspending their natural gas supplies </a> NPR: The governments of the two European countries said Russian energy giant Gazprom informed them it was halting gas supplies starting Wednesday. 
  <p class="updated_time"> 03:44 PM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094782766/russia-ukraine-war-what-happened-today-april-26">Russia-Ukraine war: What happened today (April 26)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:26 PM CT, Apr. 26 </p> 
- <a href="https://www.npr.org/2022/04/26/1094870350/un-chief-met-with-putin-to-bridge-differences-with-russia-over-its-actions-in-uk">UN chief met with Putin to bridge differences with Russia over its actions in Ukraine</a> NPR: The United Nations secretary general met with Russian President Vladimir Putin and his foreign minister. He came to Moscow as a "messenger of peace." 
- <p class="updated_time"> 03:26 PM CT, Apr. 26 </p> 
- <a href="https://www.npr.org/2022/04/26/1094870336/encore-new-musical-bhangin-it-centers-a-competitive-college-bhangra-dancer">Encore: New musical 'Bhangin' It' centers a competitive college bhangra dancer</a> NPR: A new musical at San Diego's La Jolla Playhouse celebrates bhangra, one of India's traditional styles of dancing. 
- <p class="updated_time"> 03:26 PM CT, Apr. 26 </p> 
- <a href="https://www.npr.org/2022/04/26/1094870329/a-shanghai-resident-shares-her-views-on-the-citys-lockdown">A Shanghai resident shares her views on the city's lockdown</a> NPR: NPR's Rob Schmitz talks with a former nanny from Shanghai about what life has been like since returning to the city during pandemic restrictions. 
- <p class="updated_time"> 03:26 PM CT, Apr. 26 </p> 
- <a href="https://www.npr.org/2022/04/26/1094870322/chechnya-once-resisted-russia-now-its-leader-is-putins-close-ally">Chechnya once resisted Russia. Now, its leader is Putin's close ally</a> NPR: NPR's Ari Shapiro talks with Rachel Denber, deputy director of the Europe and Central Asia division for Human Rights Watch, about the role of Chechen leader Ramzan Kadyrov in the Russia-Ukraine war. 
  <p class="updated_time"> 02:50 PM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/asia/north-korea-military-parade-kim.html">North Korea Holds Military Parade With Nuclear Threat</a> NYT: In a speech, Kim Jong-un, the country’s leader, vowed to expand his nuclear arsenal ​“at the fastest possible speed​.” 
  <p class="updated_time"> 02:34 PM CT, Apr. 26 </p> 
@@ -201,8 +201,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61217528?at_medium=RSS&at_campaign=KARANGA">Ukraine: Facing the Russian Army on the front line in Donbas</a> BBC: Ukrainian forces have been holding the line in Donbas since 2014, but what was sporadic fighting has now turned into a full-blown war. 
  <p class="updated_time"> 09:20 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/russian-oil-facility-fire-ukraine.html">Fires Rip Through Russian Oil Facility in Bryansk, Close to Ukrainian Border</a> NYT: Russian state television reported two separate explosions, but officials acknowledged only one. 
- <p class="updated_time"> 05:34 AM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/world/europe/putin-macron-french-election.html">Putin Congratulates Macron on French Election Victory</a> NYT: Mr. Macron’s opponent, Marine Le Pen, was seen in Russia as a potential game-changing option, amid the threat of new sanctions over the war in Ukraine. 
 
 
 </details>
