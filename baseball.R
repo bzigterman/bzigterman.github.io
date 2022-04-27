@@ -982,6 +982,53 @@ ggsave("plots/mlb_wild_card_mobile.png",
        width = 4, height = 4, dpi = 320)
 
 
+hc_al_games <- al_games_plus %>%
+  select(team, game_n, net_wins) %>%
+  group_by(team) %>%
+  arrange(game_n)
+
+hc_nl_games <- nl_games_plus %>%
+  select(team, game_n, net_wins) %>%
+  group_by(team) %>%
+  arrange(game_n)
+
+
+fig1 <- hchart(hc_al_games, "line", hcaes(x = game_n,
+                                           y = net_wins,
+                                           group = team)) %>%
+  hc_title(text = "AL") %>%
+  hc_yAxis(title = "") %>%
+  hc_xAxis(title = "") %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) %>%
+  hc_tooltip(
+    shared = TRUE,
+    sort = TRUE
+  )
+fig1
+saveWidget(widget = fig1, file = "interactive/al_standings.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+fig2 <- hchart(hc_nl_games, "line", hcaes(x = game_n,
+                                         y = net_wins,
+                                         group = team)) %>%
+  hc_title(text = "NL") %>%
+  hc_yAxis(title = "") %>%
+  hc_xAxis(title = "") %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) %>%
+  hc_tooltip(
+    shared = TRUE,
+    sort = TRUE
+  )
+fig2
+saveWidget(widget = fig2, file = "interactive/nl_standings.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
 # web text ----
 now <- as_datetime(now())
 now_formatted <- strftime(x = now, 
@@ -1031,6 +1078,13 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
           media=\"(min-width: 750px)\">
   <img src=\"{{ site.baseurl }}/plots/mlb_wild_card_mobile.png\" alt=\"\" />
 </picture>
+
+<iframe src=\"/interactive/al_standings.html\" width=\"100%\" height=\"300\"> 
+</iframe>
+
+<iframe src=\"/interactive/nl_standings.html\" width=\"100%\" height=\"300\"> 
+</iframe>
+
 
 <p class=\"updated_time\">Source: <a href=\"https://github.com/fivethirtyeight/data/tree/master/mlb-elo\">FiveThirtyEight</a>. <a href=\"https://github.com/fivethirtyeight/data/blob/master/LICENSE\">CC-BY-4.0 License</a>.</p> 
 

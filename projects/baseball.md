@@ -5,7 +5,7 @@ permalink: /projects/baseball
 imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 ---
 
-<p class="updated_time"> Latest data: 12:08 AM CT, April 27</p> 
+<p class="updated_time"> Latest data: 09:10 AM CT, April 27</p> 
 
 ### Games Above .500
 
@@ -1339,6 +1339,13 @@ html {
           media="(min-width: 750px)">
   <img src="{{ site.baseurl }}/plots/mlb_wild_card_mobile.png" alt="" />
 </picture>
+
+<iframe src="/interactive/al_standings.html" width="100%" height="300"> 
+</iframe>
+
+<iframe src="/interactive/nl_standings.html" width="100%" height="300"> 
+</iframe>
+
 
 <p class="updated_time">Source: <a href="https://github.com/fivethirtyeight/data/tree/master/mlb-elo">FiveThirtyEight</a>. <a href="https://github.com/fivethirtyeight/data/blob/master/LICENSE">CC-BY-4.0 License</a>.</p> 
 
