@@ -9,47 +9,49 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:26 AM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/26/world/ukraine-russia-war-news">What Happened on Day 62 of the War in Ukraine</a> NYT: Officials from over 40 countries planned arms shipments, and Germany, in a policy reversal, pledged heavy weapons for Ukraine. Russia is cutting off natural gas supplies to Poland and Bulgaria. 
+ <p class="updated_time"> 05:20 AM CT, Apr. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61226282?at_medium=RSS&at_campaign=KARANGA">How might Elon Musk change Twitter?</a> BBC: After the billionaire struck a deal to buy the site, speculation has begun over what the future holds. 
+ <p class="updated_time"> 05:11 AM CT, Apr. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61240499?at_medium=RSS&at_campaign=KARANGA">Gazprom halts gas supply to Poland and Bulgaria as Russia accused of blackmail</a> BBC: Russian energy giant Gazprom cuts supply to Poland and Bulgaria for refusal to pay in roubles. 
  <p class="updated_time"> 04:51 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/kane-tanaka-japan-worlds-oldest-person.html">Kane Tanaka, World’s Oldest Person, Dies at 119 in Japan</a> NYT: Kane Tanaka, who died in Japan this month, survived two world wars, the 1918 influenza outbreak, paratyphoid and two rounds of cancer. She loved chocolate and hated losing at board games. 
  <p class="updated_time"> 04:38 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61241879?at_medium=RSS&at_campaign=KARANGA">Rio carnival: Tribute to Afro-Brazilian god wins title</a> BBC: The Grande Rio samba group has won the top prize with a parade promoting religious tolerance. 
+ <p class="updated_time"> 04:35 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/in-liberated-ukrainian-villages-fears-grow-for-men-taken-to-russia-11650981966">In Ukrainian Villages, Fears Grow for Men Taken to Russia</a> WSJ: In Ukrainian Villages, Fears Grow for Men Taken to Russia 
  <p class="updated_time"> 04:33 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/india-hindu-festival-electrocution.html">11 Electrocuted When Religious Chariot Hits Transmission Wires in India</a> NYT: Two of the 11 killed were children, and more than a dozen people were hurt as they fell or jumped from the vehicle, which was being pulled by devotees at a Hindu religious festival in southern India. 
- <p class="updated_time"> 04:28 AM CT, Apr. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61240499?at_medium=RSS&at_campaign=KARANGA">Gazprom halts gas supply to Poland and Bulgaria as Russia accused of blackmail</a> BBC: Russian energy giant Gazprom cuts supply to Poland and Bulgaria for refusal to pay in roubles. 
- <p class="updated_time"> 04:17 AM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/04/26/world/ukraine-russia-war-news">What Happened on Day 62 of the War in Ukraine</a> NYT: Officials from over 40 countries planned arms shipments, and Germany, in a policy reversal, pledged heavy weapons for Ukraine. Russia is cutting off natural gas supplies to Poland and Bulgaria. 
  <p class="updated_time"> 04:17 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/front-line-town-orikhiv.html">Under Fire, a Ukrainian Town Braces for a Russian Onslaught</a> NYT: In Orikhiv, near the front lines, most residents have fled and those who remain endure constant shelling and the fear of what comes next. 
  <p class="updated_time"> 04:13 AM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1094971703/u-n-takes-step-to-put-veto-users-under-global-spotlight">U.N. takes step to put veto users under global spotlight</a> NPR: For the first time, the General Assembly will be required "to hold a debate on the situation" that sparks a veto in the Security Council within 10 working days. 
- <p class="updated_time"> 04:09 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/in-liberated-ukrainian-villages-fears-grow-for-men-taken-to-russia-11650981966">In Ukrainian Villages, Fears Grow for Men Taken to Russia</a> WSJ: In Ukrainian Villages, Fears Grow for Men Taken to Russia 
  <p class="updated_time"> 04:06 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/china-covid-propaganda.html">China’s Covid Lockdown Outrage Tests Limits of Propaganda</a> NYT: Public anger and grief over the bungled lockdown in Shanghai is creating a credibility crisis for the country’s leader, Xi Jinping, and his zero Covid policies. 
  <p class="updated_time"> 04:03 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/americas/debanhi-escobar-mexico.html">A Woman’s Disappearance Sparks Outrage in Mexico Over Gender Violence</a> NYT: The case of Debanhi Escobar, 18, in Monterrey has ignited a national outcry over the government’s failure to deliver justice for missing women. 
  <p class="updated_time"> 04:02 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/arts/design/victoria-reed-museum-of-fine-arts-stolen-artwork.html">A Long Way Home for ‘Looted’ Art Is Getting Shorter</a> NYT: Curators at major museums are increasingly grappling with a thorny topic: restitution. 
+ <p class="updated_time"> 03:35 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583">Russia’s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against Global Conflict</a> WSJ: Russia’s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against Global Conflict 
  <p class="updated_time"> 03:21 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/russia-cuts-gas-poland-bulgaria.html">Russia Cuts Gas Supplies to Poland and Bulgaria</a> NYT: The market reaction underscored that a dreaded moment in the war had arrived: the severe disruption of Russian natural gas exports to the E.U. 
- <p class="updated_time"> 03:09 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583">Russia’s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against Global Conflict</a> WSJ: Russia’s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against Global Conflict 
  <p class="updated_time"> 03:07 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61228552?at_medium=RSS&at_campaign=KARANGA">Anti-Semitism in worldwide surge, Israeli report says</a> BBC: The Israeli study says social media and conspiracy theories about Covid are among factors to blame. 
  <p class="updated_time"> 02:42 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/angela-rayner-boris-johnson-the-mail-on-sunday.html">U.K. Tabloid Accuses Lawmaker of ‘Basic Instinct’ Move</a> NYT: Citing an unnamed Conservative lawmaker, the paper claimed that Angela Rayner, a Labour leader, tried to distract Boris Johnson with her body. Fury has ensued. 
- <p class="updated_time"> 02:09 AM CT, Apr. 27 </p> 
+ <p class="updated_time"> 02:35 AM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/moldovaplacessecurity-forces-on-alertafter-blasts-in-breakaway-state-of-transnistria-11650990230">Moldova Places Security Forces on Alert After Blasts in Breakaway State of Transnistria</a> WSJ: Moldova Places Security Forces on Alert After Blasts in Breakaway State of Transnistria 
  <p class="updated_time"> 01:58 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61239181?at_medium=RSS&at_campaign=KARANGA">Tesla shares slide could put Musk's Twitter takeover at risk</a> BBC: The fall in Tesla's shares highlights the issues Elon Musk faces as he tries to run five companies. 
+ <p class="updated_time"> 01:35 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/lawmakers-prepare-to-tackle-more-aid-for-ukraine-in-shift-to-long-term-support-11651009193">Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support</a> WSJ: Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support 
  <p class="updated_time"> 01:24 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/singapore-execution-disability.html">Singapore Executes Drug Smuggler Despite Concerns Over Mental Disability</a> NYT: Defense lawyers had argued that the Malaysian man should not be executed because he was not fully capable of understanding his actions and had been coerced. 
- <p class="updated_time"> 01:09 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/lawmakers-prepare-to-tackle-more-aid-for-ukraine-in-shift-to-long-term-support-11651009193">Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support</a> WSJ: Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support 
  <p class="updated_time"> 12:57 AM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/2022/04/27/world/asia/myanmar-coup-trial-asean-biden.html">Aung San Suu Kyi Found Guilty in Myanmar Ahead of Biden Summit</a> NYT: The elected civilian leader, who was detained in a military coup last year, was sentenced to five years in prison in a corruption trial that was closed to the public. 
- <p class="updated_time"> 12:09 AM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/world/asia/myanmar-coup-trial-aung-san-suu-kyi.html">Aung San Suu Kyi Found Guilty in Myanmar Ahead of Biden Summit</a> NYT: The elected civilian leader, who was detained in a military coup last year, was sentenced to five years in prison in a corruption trial that was closed to the public. 
+ <p class="updated_time"> 12:35 AM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/chinas-xi-pushing-to-beat-the-u-s-in-gdp-growth-despite-covid-lockdowns-11650976212">Xi Pushing to Beat U.S. in GDP Growth Despite Lockdowns</a> WSJ: Xi Pushing to Beat U.S. in GDP Growth Despite Lockdowns 
  <p class="updated_time"> 12:08 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/ukraine-refugees-us-gallup-poll.html">Americans’ Support for Admitting Refugees Hits Record, Poll Finds</a> NYT: Gallup reported the record high after its new poll found that 78 percent of adults in the United States approve of allowing up to 100,000 Ukrainian refugees into the country. 
@@ -127,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/26/1094656395/how-does-ukraine-keep-intercepting-russian-military-communications">How does Ukraine keep intercepting Russian military communications? </a> NPR: Russia had a reputation for being highly skilled in secretive military communications. That notion has been largely shattered by the bumbling way it has been operating in Ukraine. 
  <p class="updated_time"> 12:10 PM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094814254/moldova-explosions-ukraine-russia">Russian-occupied area of Moldova blames Ukrainian militants for explosions</a> NPR: Trans-Dniester doesn't usually get much attention. But European leaders are watching it closely because it hosts about 1,500 Russian troops and shares a 250-mile border with Ukraine. 
- <p class="updated_time"> 11:58 AM CT, Apr. 26 </p> 
- <a href="https://www.bbc.co.uk/news/business-61226282?at_medium=RSS&at_campaign=KARANGA">Four ways Elon Musk might change Twitter</a> BBC: After the billionaire struck a deal to buy the site, speculation has begun over what the future holds. 
  <p class="updated_time"> 11:36 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61236842?at_medium=RSS&at_campaign=KARANGA">North Korea: Banned missiles showcased in military parade</a> BBC: State media broadcast footage from a military parade attended by leader Kim Jong-un. 
  <p class="updated_time"> 10:31 AM CT, Apr. 26 </p> 
@@ -183,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/world/europe/russian-oil-facility-fire-ukraine.html">Fires Rip Through Russian Oil Facility in Bryansk, Close to Ukrainian Border</a> NYT: Russian state television reported two separate explosions, but officials acknowledged only one. 
  <p class="updated_time"> 09:14 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/london-stabbing-deaths.html">Four People Fatally Stabbed in London</a> NYT: A suspect was in custody Monday morning, and the police say they believe the attacker and the victims knew each other. 
- <p class="updated_time"> 07:13 AM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/world/europe/bridget-brink-ukraine-ambassador.html">Biden Nominates Bridget Brink as U.S. Ambassador to Ukraine</a> NYT: President Biden nominated Bridget Brink, the current U.S. ambassador to Slovakia, as ambassador to Ukraine. The position has been empty for more than a year. 
  <p class="updated_time"> 06:40 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/travel/japan-kii-peninsula-pilgrimage-routes.html">A Long Walk Through Japan’s Kii Peninsula</a> NYT: As is true throughout rural Japan, many of the once-vibrant villages on Honshu’s Kii Peninsula are aging into nothingness. 
  <p class="updated_time"> 05:34 AM CT, Apr. 25 </p> 
