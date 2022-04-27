@@ -9,13 +9,13 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:50 AM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/27/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Suspends Gas Supply to Poland and Bulgaria</a> NYT: The move by state-run Gazprom was Russia’s toughest retaliation yet against European sanctions and aid for Ukraine. As the U.S. and allies pledge to continue arming Ukraine, a series of blasts inside Russia raised fears that the conflict could spread. 
  <p class="updated_time"> 06:23 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61240499?at_medium=RSS&at_campaign=KARANGA">Gazprom halts gas supply to Poland and Bulgaria as Russia accused of blackmail</a> BBC: Russian energy giant Gazprom cuts supply to Poland and Bulgaria for refusal to pay in roubles. 
- <p class="updated_time"> 06:14 AM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/04/27/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Suspends Gas Supply to Poland and Bulgaria</a> NYT: The move by state-run Gazprom stoked concern that Russia would try to reduce supplies to other parts of Europe. As the U.S. and allies pledge to continue arming Ukraine, a series of blasts inside Russia raised fears that the conflict could spread. 
  <p class="updated_time"> 05:59 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/beijijng-shanghai-covid-cases.html">New Covid Cases Slow in Shanghai, but Increase in Beijing</a> NYT: Beijing residents face mandatory P.C.R. tests but no mass lockdown yet, while large inland cities may be closed down in response to as few as two infections. 
- <p class="updated_time"> 05:39 AM CT, Apr. 27 </p> 
+ <p class="updated_time"> 05:54 AM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/in-liberated-ukrainian-villages-fears-grow-for-men-taken-to-russia-11650981966">In Ukrainian Villages, Fears Grow for Men Taken to Russia</a> WSJ: In Ukrainian Villages, Fears Grow for Men Taken to Russia 
  <p class="updated_time"> 05:36 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/kane-tanaka-japan-worlds-oldest-person.html">Kane Tanaka, World’s Oldest Person, Dies at 119 in Japan</a> NYT: Kane Tanaka, who died in Japan this month, survived two world wars, the 1918 influenza outbreak, paratyphoid and two rounds of cancer. She loved chocolate and hated losing at board games. 
@@ -23,7 +23,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61233095?at_medium=RSS&at_campaign=KARANGA">Transnistria and Ukraine conflict: Is war spreading?</a> BBC: Mysterious explosions in Transnistria raise fears that the Ukraine conflict may spread to Moldova. 
  <p class="updated_time"> 05:20 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61226282?at_medium=RSS&at_campaign=KARANGA">What changes could Elon Musk make to Twitter?</a> BBC: After the billionaire struck a deal to buy the site, speculation has begun over what the future holds. 
- <p class="updated_time"> 04:39 AM CT, Apr. 27 </p> 
+ <p class="updated_time"> 04:54 AM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583">Russia’s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against Global Conflict</a> WSJ: Russia’s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against Global Conflict 
  <p class="updated_time"> 04:38 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61241879?at_medium=RSS&at_campaign=KARANGA">Rio carnival: Tribute to Afro-Brazilian god wins title</a> BBC: The Grande Rio samba group has won the top prize with a parade promoting religious tolerance. 
@@ -39,19 +39,19 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/27/world/americas/debanhi-escobar-mexico.html">A Woman’s Disappearance Sparks Outrage in Mexico Over Gender Violence</a> NYT: The case of Debanhi Escobar, 18, in Monterrey has ignited a national outcry over the government’s failure to deliver justice for missing women. 
  <p class="updated_time"> 04:02 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/arts/design/victoria-reed-museum-of-fine-arts-stolen-artwork.html">A Long Way Home for ‘Looted’ Art Is Getting Shorter</a> NYT: Curators at major museums are increasingly grappling with a thorny topic: restitution. 
- <p class="updated_time"> 03:39 AM CT, Apr. 27 </p> 
+ <p class="updated_time"> 03:54 AM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/moldovaplacessecurity-forces-on-alertafter-blasts-in-breakaway-state-of-transnistria-11650990230">Moldova Places Security Forces on Alert After Blasts in Breakaway State of Transnistria</a> WSJ: Moldova Places Security Forces on Alert After Blasts in Breakaway State of Transnistria 
  <p class="updated_time"> 03:21 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/russia-cuts-gas-poland-bulgaria.html">Russia Cuts Gas Supplies to Poland and Bulgaria</a> NYT: The market reaction underscored that a dreaded moment in the war had arrived: the severe disruption of Russian natural gas exports to the E.U. 
  <p class="updated_time"> 03:07 AM CT, Apr. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61228552?at_medium=RSS&at_campaign=KARANGA">Anti-Semitism in worldwide surge, Israeli report says</a> BBC: The Israeli study says social media and conspiracy theories about Covid are among factors to blame. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61228552?at_medium=RSS&at_campaign=KARANGA">Anti-Semitism: Dramatic rise in 2021, Israeli report says</a> BBC: The Israeli study says social media and conspiracy theories about Covid are among factors to blame. 
+ <p class="updated_time"> 02:54 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/lawmakers-prepare-to-tackle-more-aid-for-ukraine-in-shift-to-long-term-support-11651009193">Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support</a> WSJ: Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support 
  <p class="updated_time"> 02:42 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/angela-rayner-boris-johnson-the-mail-on-sunday.html">U.K. Tabloid Accuses Lawmaker of ‘Basic Instinct’ Move</a> NYT: Citing an unnamed Conservative lawmaker, the paper claimed that Angela Rayner, a Labour leader, tried to distract Boris Johnson with her body. Fury has ensued. 
- <p class="updated_time"> 02:39 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/lawmakers-prepare-to-tackle-more-aid-for-ukraine-in-shift-to-long-term-support-11651009193">Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support</a> WSJ: Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support 
  <p class="updated_time"> 01:58 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61239181?at_medium=RSS&at_campaign=KARANGA">Tesla shares slide could put Musk's Twitter takeover at risk</a> BBC: The fall in Tesla's shares highlights the issues Elon Musk faces as he tries to run five companies. 
- <p class="updated_time"> 01:39 AM CT, Apr. 27 </p> 
+ <p class="updated_time"> 01:54 AM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/chinas-xi-pushing-to-beat-the-u-s-in-gdp-growth-despite-covid-lockdowns-11650976212">Xi Pushing to Beat U.S. in GDP Growth Despite Lockdowns</a> WSJ: Xi Pushing to Beat U.S. in GDP Growth Despite Lockdowns 
  <p class="updated_time"> 01:24 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/singapore-execution-disability.html">Singapore Executes Drug Smuggler Despite Concerns Over Mental Disability</a> NYT: Defense lawyers had argued that the Malaysian man should not be executed because he was not fully capable of understanding his actions and had been coerced. 
@@ -68,7 +68,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:31 PM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/27/1094965375/singapore-executes-disabled-malaysian-convicted-in-drug-case">Singapore executes disabled Malaysian convicted in drug case</a> NPR: Supporters and lawyers of the man said he had an IQ of 69 and was intellectually disabled, and that the execution of a mentally ill person was prohibited under international human rights law. 
  <p class="updated_time"> 10:58 PM CT, Apr. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61239221?at_medium=RSS&at_campaign=KARANGA">Nagaenthran: Singapore executes man with learning disabilities on drugs charge</a> BBC: Nagaenthran Dharmalingam was on death row for years for trying to bring in a small amount of heroin. 
+ <a href="https://www.bbc.co.uk/news/world-asia-61239221?at_medium=RSS&at_campaign=KARANGA">Singapore executes man on drugs charge, rejecting mental disability plea</a> BBC: Nagaenthran Dharmalingam was on death row for years for trying to bring in a small amount of heroin. 
  <p class="updated_time"> 10:52 PM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/russia-ukraine-war-germany-weapons.html">As Diplomacy Hopes Dim, U.S. Marshals Allies to Furnish Long-Term Military Aid to Ukraine</a> NYT: Germany said it would send Ukraine dozens of armored antiaircraft vehicles, a major shift for a country that has been reluctant to escalate the conflict with Russia. 
  <p class="updated_time"> 08:38 PM CT, Apr. 26 </p> 
@@ -198,6 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:47 AM CT, Apr. 27 </p> 
+ <a href="https://www.npr.org/2022/04/27/1094798190/immigration-advocates-warn-of-midterm-risks-for-democrats-if-title-42-isnt-lifte">Immigration advocates warn of midterm risks for Democrats if Title 42 isn't lifted</a> NPR: With voter enthusiasm among Democrats already lagging going into the midterms, immigration advocates say they will dampen it more by not calling for the 2020 public health order to be lifted. 
  <p class="updated_time"> 04:12 AM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1094970676/rep-madison-cawthorn-is-caught-again-with-a-gun-at-a-north-carolina-airport">Rep. Madison Cawthorn is caught again with a gun at a North Carolina airport</a> NPR: North Carolina Rep. Madison Cawthorn was stopped at the Charlotte airport for carrying a loaded gun. The Republican's gun was confiscated and he was cited, but he was not arrested. 
  <p class="updated_time"> 04:12 AM CT, Apr. 27 </p> 
@@ -310,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/26/1094755907/reentry-recidivism-biden-formerly-incarcerated-jobs-housing-healthcare-loans">Biden takes his first actions on clemency with 3 pardons and 75 commutations</a> NPR: Tuesday's pardons and commutations are part of a broader White House effort to make the criminal justice system more fair – a goal Biden made part of his 2020 presidential campaign. 
  <p class="updated_time"> 04:08 AM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094766111/new-york-judge-holds-trump-in-contempt-of-court-and-fines-him-10-000-per-day">New York judge holds Trump in contempt of court and fines him $10,000 per day</a> NPR: A judge has found former President Donald Trump in contempt of court. Trump was ordered to pay $10,000 a day for failure to respond to a subpoena during a probe into the Trump Organization. 
- <p class="updated_time"> 04:08 AM CT, Apr. 26 </p> 
- <a href="https://www.npr.org/2022/04/26/1094766097/judge-temporarily-blocks-biden-administration-from-lifting-covid-border-rules">Judge temporarily blocks Biden administration from lifting COVID border rules</a> NPR: NPR's A Martinez talks to Democratic Rep. Tony Cardenas of California about White House plans to end Title 42, which restricts migrants entering from the southern border due to the pandemic. 
  <p class="updated_time"> 03:31 AM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/court-democrats-immigration-biden-00027659">Dems may get reprieve from internal tension over immigration</a> Politico: The brewing bipartisan frustration over the White House's ending of pandemic-era immigration curbs was threatening to imperil much of the Senate's agenda. 
  <p class="updated_time"> 03:30 AM CT, Apr. 26 </p> 
