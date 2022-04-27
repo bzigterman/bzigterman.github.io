@@ -984,6 +984,30 @@ ggplot(data = data,
 
 ggsave("plots/il_flash_index.png", width = 8, height = 8*(628/1200), dpi = 320)
 
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = value)) %>%
+  hc_title(text = "Flash Index") %>%
+  hc_caption(
+    text = paste("Source: <a href = \"https://igpa.uillinois.edu/page/flash-index-archive\">Institute of Government and Public Affairs at the University of Illinois</a>. Latest data:",
+                 tail(recent_data$short_date,1)),
+    useHTML = TRUE) %>%
+  hc_yAxis(title = "",
+           plotLines = list(
+             list(
+               color = "green",
+               width = 2,
+               value = 100,
+               zIndex = 1))) %>%
+  hc_xAxis(title = "") %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )
+fig
+saveWidget(widget = fig, file = "interactive/il_flash_index.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+
 ## population ----
 data <-fredr(series_id = "ILPOP")
 recent_data <- data %>%
@@ -1074,7 +1098,8 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 
 ## Illinois
 
-[![Flash Index]({{ site.baseurl }}/plots/il_flash_index.png)](https://igpa.uillinois.edu/page/flash-index-archive)
+<iframe src=\"/interactive/il_flash_index.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 <iframe src=\"/interactive/il_population.html\" width=\"100%\" height=\"300\"> 
 </iframe>

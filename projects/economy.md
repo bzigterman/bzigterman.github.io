@@ -470,7 +470,8 @@ html {
 
 ## Illinois
 
-[![Flash Index]({{ site.baseurl }}/plots/il_flash_index.png)](https://igpa.uillinois.edu/page/flash-index-archive)
+<iframe src="/interactive/il_flash_index.html" width="100%" height="300"> 
+</iframe>
 
 <iframe src="/interactive/il_population.html" width="100%" height="300"> 
 </iframe>
