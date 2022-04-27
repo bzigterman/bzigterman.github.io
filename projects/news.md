@@ -9,30 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:54 AM CT, Apr. 27 </p> 
+ <p class="updated_time"> 08:39 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/04/27/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Suspends Gas Supply to Poland and Bulgaria</a> NYT: The move by state-run Gazprom was Russia’s toughest retaliation yet against European sanctions and aid for Ukraine. As the U.S. and allies pledge to continue sending arms, a series of blasts inside Russia raised fears that the conflict could spread. 
+ <p class="updated_time"> 08:33 AM CT, Apr. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61156745?at_medium=RSS&at_campaign=KARANGA">Trevor Reed: US marine released in prisoner swap with Russia</a> BBC: Held in a Russian prison since 2019, Trevor Reed is safely on his way back to the US. 
+ <p class="updated_time"> 08:19 AM CT, Apr. 27 </p> 
+ <a href="https://www.npr.org/2022/04/27/1094988296/trevor-reed-russia-prisoner-exchange">U.S. Marine veteran Trevor Reed is released from Russia in a prisoner swap</a> NPR: Reed had been held in Russia since 2019. He was exchanged for pilot Konstantin Yaroshenko, who was serving a 20-year sentence for conspiring to import cocaine into the U.S. 
+ <p class="updated_time"> 08:15 AM CT, Apr. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61244761?at_medium=RSS&at_campaign=KARANGA">India: Huge blaze breaks out at landfill site</a> BBC: Smoke from the fire caused people in the surrounding area to suffer breathing difficulties. 
+ <p class="updated_time"> 08:06 AM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/world/beijijng-shanghai-covid-cases.html">Beijing Has 138 Covid Cases. It Musters 139,000 Workers to Test Residents.</a> NYT: Residents of the Chinese capital face mandatory P.C.R. tests but no mass lockdown yet, while large inland cities may be closed down in response to as few as two infections. 
+ <p class="updated_time"> 08:01 AM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/world/european-union-covid.html">E.U. Says the Emergency Phase of the Pandemic Is Over</a> NYT: The bloc recommended focusing on vaccination, surveillance and testing in preparation for a possible fall wave. E.U. states can still make their own policies. 
  <p class="updated_time"> 07:50 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61239181?at_medium=RSS&at_campaign=KARANGA">Tesla shares slide could put Musk's Twitter takeover at risk</a> BBC: The fall in Tesla's shares highlights the issues Elon Musk faces as he tries to run five companies. 
  <p class="updated_time"> 07:45 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/trevor-reed-russia-prisoner-swap.html">Russia Releases Trevor Reed, Former U.S. Marine, in Prisoner Swap</a> NYT: Trevor Reed had been detained since 2019, after he was accused of assaulting and endangering the lives of two police officers. 
- <p class="updated_time"> 07:42 AM CT, Apr. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61156745?at_medium=RSS&at_campaign=KARANGA">Trevor Reed: US marine released in prisoner swap with Russia</a> BBC: Held in a Russian prison since 2019, Trevor Reed is safely on his way back to the US. 
- <p class="updated_time"> 07:03 AM CT, Apr. 27 </p> 
+ <p class="updated_time"> 07:44 AM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494">Russia Suffers Another Fire at a Supply Depot as Its Ukraine Offensive Pushes West</a> WSJ: Russia Suffers Another Fire at a Supply Depot as Its Ukraine Offensive Pushes West 
+ <p class="updated_time"> 06:44 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-halting-gas-flows-to-poland-bulgaria-over-payment-terms-11651007170">Russia Halting Gas Flows to Poland, Bulgaria Over Payment Terms</a> WSJ: Russia Halting Gas Flows to Poland, Bulgaria Over Payment Terms 
  <p class="updated_time"> 06:23 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61240499?at_medium=RSS&at_campaign=KARANGA">Gazprom halts gas supply to Poland and Bulgaria as Russia accused of blackmail</a> BBC: Russian energy giant Gazprom cuts supply to Poland and Bulgaria for refusal to pay in roubles. 
- <p class="updated_time"> 06:03 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-halting-gas-flows-to-poland-bulgaria-over-payment-terms-11651007170">Russia Halting Gas Flows to Poland, Bulgaria Over Payment Terms</a> WSJ: Russia Halting Gas Flows to Poland, Bulgaria Over Payment Terms 
- <p class="updated_time"> 05:59 AM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/2022/04/27/world/beijijng-shanghai-covid-cases.html">New Covid Cases Slow in Shanghai, but Increase in Beijing</a> NYT: Beijing residents face mandatory P.C.R. tests but no mass lockdown yet, while large inland cities may be closed down in response to as few as two infections. 
+ <p class="updated_time"> 05:44 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/chinese-drone-giant-dji-suspends-business-in-russia-ukraine-11651058738">Chinese Drone Giant DJI Suspends Business in Russia, Ukraine</a> WSJ: Chinese Drone Giant DJI Suspends Business in Russia, Ukraine 
  <p class="updated_time"> 05:36 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/kane-tanaka-japan-worlds-oldest-person.html">Kane Tanaka, World’s Oldest Person, Dies at 119 in Japan</a> NYT: Kane Tanaka, who died in Japan this month, survived two world wars, the 1918 influenza outbreak, paratyphoid and two rounds of cancer. She loved chocolate and hated losing at board games. 
  <p class="updated_time"> 05:26 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61233095?at_medium=RSS&at_campaign=KARANGA">Transnistria and Ukraine conflict: Is war spreading?</a> BBC: Mysterious explosions in Transnistria raise fears that the Ukraine conflict may spread to Moldova. 
  <p class="updated_time"> 05:20 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61226282?at_medium=RSS&at_campaign=KARANGA">What changes could Elon Musk make to Twitter?</a> BBC: After the billionaire struck a deal to buy the site, speculation has begun over what the future holds. 
- <p class="updated_time"> 05:03 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/chinese-drone-giant-dji-suspends-business-in-russia-ukraine-11651058738">Chinese Drone Giant DJI Suspends Business in Russia, Ukraine</a> WSJ: Chinese Drone Giant DJI Suspends Business in Russia, Ukraine 
+ <p class="updated_time"> 04:44 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 04:38 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61241879?at_medium=RSS&at_campaign=KARANGA">Rio carnival: Tribute to Afro-Brazilian god wins title</a> BBC: The Grande Rio samba group has won the top prize with a parade promoting religious tolerance. 
  <p class="updated_time"> 04:33 AM CT, Apr. 27 </p> 
@@ -45,18 +53,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/27/world/asia/china-covid-propaganda.html">China’s Covid Lockdown Outrage Tests Limits of Propaganda</a> NYT: Public anger and grief over the bungled lockdown in Shanghai is creating a credibility crisis for the country’s leader, Xi Jinping, and his zero Covid policies. 
  <p class="updated_time"> 04:03 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/americas/debanhi-escobar-mexico.html">A Woman’s Disappearance Sparks Outrage in Mexico Over Gender Violence</a> NYT: The case of Debanhi Escobar, 18, in Monterrey has ignited a national outcry over the government’s failure to deliver justice for missing women. 
- <p class="updated_time"> 04:03 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 04:02 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/arts/design/victoria-reed-museum-of-fine-arts-stolen-artwork.html">A Long Way Home for ‘Looted’ Art Is Getting Shorter</a> NYT: Curators at major museums are increasingly grappling with a thorny topic: restitution. 
  <p class="updated_time"> 04:00 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/business/japan-energy-ukraine-war.html">Can Japan Keep the Lights On? The Ukraine War Upends a Big Energy Bet.</a> NYT: The world’s third-largest economy has counted on imported liquefied natural gas as it shuts coal-fired plants and keeps nuclear sites closed. But Russia’s invasion has pushed prices sharply higher. 
+ <p class="updated_time"> 03:44 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/brazils-central-bank-intensifies-battle-against-sky-high-borrowing-costs-11651051801">Brazil’s Central Bank Intensifies Battle Against Sky-High Borrowing Costs</a> WSJ: Brazil’s Central Bank Intensifies Battle Against Sky-High Borrowing Costs 
  <p class="updated_time"> 03:21 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/russia-cuts-gas-poland-bulgaria.html">Russia Cuts Gas Supplies to Poland and Bulgaria</a> NYT: The market reaction underscored that a dreaded moment in the war had arrived: the severe disruption of Russian natural gas exports to the E.U. 
  <p class="updated_time"> 03:07 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61228552?at_medium=RSS&at_campaign=KARANGA">Anti-Semitism: Dramatic rise in 2021, Israeli report says</a> BBC: The Israeli study says social media and conspiracy theories about Covid are among factors to blame. 
- <p class="updated_time"> 03:03 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/brazils-central-bank-intensifies-battle-against-sky-high-borrowing-costs-11651051801">Brazil’s Central Bank Intensifies Battle Against Sky-High Borrowing Costs</a> WSJ: Brazil’s Central Bank Intensifies Battle Against Sky-High Borrowing Costs 
  <p class="updated_time"> 02:42 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/angela-rayner-boris-johnson-the-mail-on-sunday.html">U.K. Tabloid Accuses Lawmaker of ‘Basic Instinct’ Move</a> NYT: Citing an unnamed Conservative lawmaker, the paper claimed that Angela Rayner, a Labour leader, tried to distract Boris Johnson with her body. Fury has ensued. 
  <p class="updated_time"> 01:24 AM CT, Apr. 27 </p> 
@@ -137,8 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61217999?at_medium=RSS&at_campaign=KARANGA">Darfur: Why are Sudan's Janjaweed on the attack again?</a> BBC: Two decades since the conflict began, deadly raids by Arab militia are becoming more frequent. 
  <p class="updated_time"> 12:34 PM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094656395/how-does-ukraine-keep-intercepting-russian-military-communications">How does Ukraine keep intercepting Russian military communications? </a> NPR: Russia had a reputation for being highly skilled in secretive military communications. That notion has been largely shattered by the bumbling way it has been operating in Ukraine. 
- <p class="updated_time"> 12:10 PM CT, Apr. 26 </p> 
- <a href="https://www.npr.org/2022/04/26/1094814254/moldova-explosions-ukraine-russia">Russian-occupied area of Moldova blames Ukrainian militants for explosions</a> NPR: Trans-Dniester doesn't usually get much attention. But European leaders are watching it closely because it hosts about 1,500 Russian troops and shares a 250-mile border with Ukraine. 
  <p class="updated_time"> 11:36 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61236842?at_medium=RSS&at_campaign=KARANGA">North Korea: Banned missiles showcased in military parade</a> BBC: State media broadcast footage from a military parade attended by leader Kim Jong-un. 
  <p class="updated_time"> 10:31 AM CT, Apr. 26 </p> 
@@ -173,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61212761?at_medium=RSS&at_campaign=KARANGA">How a Japanese boat trip ended in tragedy</a> BBC: A catalogue of errors appears to have led to the sinking of a boat carrying sightseers off northern Japan. 
  <p class="updated_time"> 06:56 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/asia/covid-beijing-shanghai.html">Covid Outbreak in Beijing Prompts Order for Nearly Citywide Testing</a> NYT: Supermarkets stocked up as panic buying began. Municipal authorities ordered that almost all residents be tested three times this week to contain a rising number of cases. 
- <p class="updated_time"> 06:08 PM CT, Apr. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61186402?at_medium=RSS&at_campaign=KARANGA">Australia election: Why is there compulsory voting?</a> BBC: It is one of the only English-speaking nations to have mandatory voting, and people widely support it. 
  <p class="updated_time"> 06:07 PM CT, Apr. 25 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61213761?at_medium=RSS&at_campaign=KARANGA">Viola Davis responds to critics of her Michelle Obama portrayal</a> BBC: The actress had been criticised by viewers for overly pursing her lips when playing Michelle Obama. 
  <p class="updated_time"> 06:06 PM CT, Apr. 25 </p> 
@@ -197,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/world/europe/russian-oil-facility-fire-ukraine.html">Fires Rip Through Russian Oil Facility in Bryansk, Close to Ukrainian Border</a> NYT: Russian state television reported two separate explosions, but officials acknowledged only one. 
  <p class="updated_time"> 09:14 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/london-stabbing-deaths.html">Four People Fatally Stabbed in London</a> NYT: A suspect was in custody Monday morning, and the police say they believe the attacker and the victims knew each other. 
- <p class="updated_time"> 07:13 AM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/world/europe/bridget-brink-ukraine-ambassador.html">Biden Nominates Bridget Brink as U.S. Ambassador to Ukraine</a> NYT: President Biden nominated Bridget Brink, the current U.S. ambassador to Slovakia, as ambassador to Ukraine. The position has been empty for more than a year. 
  <p class="updated_time"> 06:40 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/travel/japan-kii-peninsula-pilgrimage-routes.html">A Long Walk Through Japan’s Kii Peninsula</a> NYT: As is true throughout rural Japan, many of the once-vibrant villages on Honshu’s Kii Peninsula are aging into nothingness. 
  <p class="updated_time"> 05:34 AM CT, Apr. 25 </p> 
@@ -212,6 +212,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:19 AM CT, Apr. 27 </p> 
+ <a href="https://www.npr.org/2022/04/27/1094988296/trevor-reed-russia-prisoner-exchange">U.S. Marine veteran Trevor Reed is released from Russia in a prisoner swap</a> NPR: Reed had been held in Russia since 2019. He was exchanged for pilot Konstantin Yaroshenko, who was serving a 20-year sentence for conspiring to import cocaine into the U.S. 
  <p class="updated_time"> 07:32 AM CT, Apr. 27 </p> 
  <a href="https://www.politico.com/news/2022/04/27/trevor-reed-russia-prison-00028138">Trevor Reed released from Russia in prisoner swap</a> Politico: The former U.S. Marine was traded for Konstantin Yaroshenko, a Russian pilot and convicted drug trafficker. 
  <p class="updated_time"> 07:00 AM CT, Apr. 27 </p> 
@@ -271,7 +273,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:08 PM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/us/politics/supreme-court-remain-in-mexico.html">‘Remain in Mexico’ Program Confounds Supreme Court</a> NYT: Known formally as the Migrant Protection Protocols, the program, adopted during the Trump administration, requires some migrants to wait in Mexico while their cases are heard. 
  <p class="updated_time"> 05:03 PM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/2022/04/26/us/politics/madison-cawthorn-gun-airport.html">Madison Cawthorn Again Brought a Loaded Gun to the Airport, Officials Say</a> NYT: Mr. Cawthorn, 26, a pro-Trump North Carolina congressman, was cited for possession of a dangerous weapon on city property, police in Charlotte said. 
+ <a href="https://www.nytimes.com/2022/04/26/us/politics/madison-cawthorn-gun-airport.html">Madison Cawthorn Brought a Loaded Gun to the Airport Again, Officials Say</a> NYT: Mr. Cawthorn, 26, a pro-Trump North Carolina congressman, was cited for possession of a dangerous weapon on city property, police in Charlotte said. 
  <p class="updated_time"> 04:41 PM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/kevin-mccarthy-donald-trump-tape-00027986">McCarthy’s Trump tape was a ’nothingburger.’ Can the House GOP shrug off more audio?</a> Politico: Republicans mostly shrugged off their leader's contortions over a recorded suggestion that the then-president resign, but Rep. Matt Gaetz called McCarthy "weak." 
  <p class="updated_time"> 04:32 PM CT, Apr. 26 </p> 
@@ -324,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/26/1094766048/as-the-russia-ukraine-war-drags-on-what-is-the-endgame-for-sanctions">As the Russia-Ukraine war drags on, what is the endgame for sanctions? </a> NPR: Before Russia invaded Ukraine, the threat of harsh economic sanctions was wielded as a deterrent. But the White House message has evolved. 
  <p class="updated_time"> 05:00 AM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094755907/reentry-recidivism-biden-formerly-incarcerated-jobs-housing-healthcare-loans">Biden takes his first actions on clemency with 3 pardons and 75 commutations</a> NPR: Tuesday's pardons and commutations are part of a broader White House effort to make the criminal justice system more fair – a goal Biden made part of his 2020 presidential campaign. 
- <p class="updated_time"> 04:08 AM CT, Apr. 26 </p> 
- <a href="https://www.npr.org/2022/04/26/1094766111/new-york-judge-holds-trump-in-contempt-of-court-and-fines-him-10-000-per-day">New York judge holds Trump in contempt of court and fines him $10,000 per day</a> NPR: A judge has found former President Donald Trump in contempt of court. Trump was ordered to pay $10,000 a day for failure to respond to a subpoena during a probe into the Trump Organization. 
  <p class="updated_time"> 03:31 AM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/court-democrats-immigration-biden-00027659">Dems may get reprieve from internal tension over immigration</a> Politico: The brewing bipartisan frustration over the White House's ending of pandemic-era immigration curbs was threatening to imperil much of the Senate's agenda. 
  <p class="updated_time"> 03:30 AM CT, Apr. 26 </p> 
