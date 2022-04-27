@@ -9,17 +9,17 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:57 PM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/27/world/ukraine-russia-war-news">Ukraine Live Updates: War’s Effects Widen as Russia Cuts Gas Supplies</a> NYT: The Kremlin halted natural gas shipments to Poland and Bulgaria in its toughest response yet to European sanctions. Explosions inside Russia near the Ukraine border raised fears that the war might spread. 
  <p class="updated_time"> 12:43 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/ukraine-russia-war-flood-infrastructure.html">Ukrainians Flood Village of Demydiv to Keep Russians at Bay</a> NYT: The waters that poured into Demydiv were one of many instances of Ukraine wreaking havoc on its own territory to slow Russia’s advance. Residents couldn’t be happier. “We saved Kyiv,” one said. 
- <p class="updated_time"> 12:35 PM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/04/27/world/ukraine-russia-war-news">Ukraine Live Updates: War’s Effects Widen as Russia Cuts Gas Supplies</a> NYT: The Kremlin halted natural gas shipments to Poland and Bulgaria in its toughest response yet to European sanctions. Explosions inside Russia near the Ukraine border raised fears that the war might spread. 
  <p class="updated_time"> 12:34 PM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61250667?at_medium=RSS&at_campaign=KARANGA">Boeing: Plane-maker reveals losses from Trump Air Force One deal</a> BBC: The US plane-maker reveals costs from the deal former US President Donald Trump renegotiated. 
  <p class="updated_time"> 12:31 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/us/politics/russia-cyberattacks-ukraine.html">Russia Uses Cyberattacks in Ukraine to Support Military Strikes, Report Finds</a> NYT: A new study by Microsoft shows that Russian cyberattacks often happened within days or even hours of missile strikes. 
  <p class="updated_time"> 12:26 PM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61248809?at_medium=RSS&at_campaign=KARANGA">Bitcoin becomes official currency in Central African Republic</a> BBC: The Central Africa Republic is one of the world's poorest countries, and is a close Russian ally. 
- <p class="updated_time"> 11:49 AM CT, Apr. 27 </p> 
+ <p class="updated_time"> 12:01 PM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/russia-stops-gas-flow-to-poland-and-bulgaria-deepening-economic-conflict-with-europe-11651054313">Russian Gas Stoppages Spur Europe’s Race for New Energy Supplies</a> WSJ: Russian Gas Stoppages Spur Europe’s Race for New Energy Supplies 
  <p class="updated_time"> 11:44 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/middleeast/ayman-hadhoud-egypt-death.html">Questions Over Death of Ayman Hadhoud, an Egyptian Economist</a> NYT: Ayman Hadhoud, a well-known liberal economist and critic of the government, was researching corruption before he disappeared under mysterious circumstances. 
@@ -31,7 +31,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/27/world/europe/trevor-reed-russia-prisoner-swap.html">Russia Releases Trevor Reed, Former U.S. Marine, in Prisoner Swap</a> NYT: Trevor Reed had been detained since 2019, after he was accused of assaulting and endangering the lives of two police officers. 
  <p class="updated_time"> 11:01 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/climate/reptiles-extinction-biodiversity.html">20 Percent of Reptiles Risk Extinction, From King Cobras to Geckos</a> NYT: The first global analysis of its kind found that logging and farming are taking away reptile habitat at an unsustainable pace, exacerbating a worldwide decline in biodiversity. 
- <p class="updated_time"> 10:49 AM CT, Apr. 27 </p> 
+ <p class="updated_time"> 11:01 AM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494">Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine</a> WSJ: Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine 
  <p class="updated_time"> 10:35 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/61243038?at_medium=RSS&at_campaign=KARANGA">Naftali Bennett: Israeli PM to pay for family's food after criticism</a> BBC: Naftali Bennett will now cover the $7,400 monthly bill, which he insists was within the rules. 
@@ -47,10 +47,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61240499?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Russia trying to divide allies using gas - Poland</a> BBC: Russian energy giant Gazprom cuts supply to Poland and Bulgaria for refusal to pay in roubles. 
  <p class="updated_time"> 10:14 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/ukraine-refugees-us-gallup-poll.html">Americans’ Support for Admitting Refugees Hits Record, Poll Finds</a> NYT: Gallup reported the record high after its new poll found that 78 percent of adults in the United States approve of allowing up to 100,000 Ukrainian refugees into the country. 
+ <p class="updated_time"> 10:01 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-citizen-trevor-reed-released-in-russian-prisoner-swap-11651066793">Trevor Reed Released in Russian Prisoner Swap</a> WSJ: Trevor Reed Released in Russian Prisoner Swap 
  <p class="updated_time"> 10:00 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61226282?at_medium=RSS&at_campaign=KARANGA">How Elon Musk might change Twitter</a> BBC: Since the billionaire struck a deal to buy the site, there's been intense speculation over what the future holds. 
- <p class="updated_time"> 09:49 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/u-s-citizen-trevor-reed-released-in-russian-prisoner-swap-11651066793">Trevor Reed Released in Russian Prisoner Swap</a> WSJ: Trevor Reed Released in Russian Prisoner Swap 
  <p class="updated_time"> 09:45 AM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1094995330/putin-gas-rubles-poland-bulgaria">Russia halts gas exports to Poland and Bulgaria, hitting back at Europe over sanctions</a> NPR: The move was widely seen as an effort to prop up the ruble and strike back at Europe amid an onslaught of Western penalties levied against Russian banks. 
  <p class="updated_time"> 09:36 AM CT, Apr. 27 </p> 
@@ -59,7 +59,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61239221?at_medium=RSS&at_campaign=KARANGA">Singapore executes man on drugs charge, rejecting mental disability plea</a> BBC: Nagaenthran Dharmalingam was on death row for years for trying to bring in a small amount of heroin. 
  <p class="updated_time"> 09:12 AM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1094999989/former-u-s-marine-trevor-reed-freed-from-russia-in-prisoner-swap">Former U.S. Marine Trevor Reed freed from Russia in prisoner swap</a> NPR: A former U.S. Marine is on his way back to the United States after being released from Russian detention. Trevor Reed's release was part of a prisoner swap between the U.S. and Russia. 
- <p class="updated_time"> 08:49 AM CT, Apr. 27 </p> 
+ <p class="updated_time"> 09:01 AM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/eu-targets-hungarys-funding-amid-russia-sanctions-fight-11651069702">EU Targets Hungary’s Funding Amid Russia Sanctions Fight</a> WSJ: EU Targets Hungary’s Funding Amid Russia Sanctions Fight 
  <p class="updated_time"> 08:19 AM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1094988296/trevor-reed-russia-prisoner-exchange">U.S. Marine veteran Trevor Reed is released from Russia in a prisoner swap</a> NPR: Reed had been held in Russia since 2019. He was exchanged for pilot Konstantin Yaroshenko, who was serving a 20-year sentence for conspiring to import cocaine into the U.S. 
@@ -68,13 +68,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:06 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/beijijng-shanghai-covid-cases.html">Beijing Has 138 Covid Cases. It Musters 139,000 Workers to Test Residents.</a> NYT: Residents of the Chinese capital face mandatory P.C.R. tests but no mass lockdown yet, while large inland cities may be closed down in response to as few as two infections. 
  <p class="updated_time"> 08:01 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
+ <p class="updated_time"> 08:01 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/european-union-covid.html">E.U. Says the Emergency Phase of the Pandemic Is Over</a> NYT: The bloc recommended focusing on vaccination, surveillance and testing in preparation for a possible fall wave. E.U. states can still make their own policies. 
  <p class="updated_time"> 08:00 AM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/hackers-linked-to-russia-launched-hundreds-of-cyberattacks-in-ukraine-microsoft-says-11651078821">Hackers Linked to Russia Launched Hundreds of Cyberattacks in Ukraine</a> WSJ: At least six hacking groups linked to the Russian government have attempted hundreds of cyberattacks in Ukraine since Russia’s invasion in February, according to Microsoft. 
  <p class="updated_time"> 07:50 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61239181?at_medium=RSS&at_campaign=KARANGA">Tesla shares slide could put Musk's Twitter takeover at risk</a> BBC: The fall in Tesla's shares highlights the issues Elon Musk faces as he tries to run five companies. 
- <p class="updated_time"> 07:49 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 05:36 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/kane-tanaka-japan-worlds-oldest-person.html">Kane Tanaka, World’s Oldest Person, Dies at 119 in Japan</a> NYT: Kane Tanaka, who died in Japan this month, survived two world wars, the 1918 influenza outbreak, paratyphoid and two rounds of cancer. She loved chocolate and hated losing at board games. 
  <p class="updated_time"> 05:26 AM CT, Apr. 27 </p> 
@@ -212,6 +212,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:46 PM CT, Apr. 27 </p> 
+ <a href="https://www.npr.org/2022/04/27/1095003135/bidens-atf-nominee-picks-up-endorsement-from-pediatric-surgical-association">Biden's ATF nominee picks up endorsement from pediatric surgical association</a> NPR: The American Pediatric Surgical Association's endorsement stands out because it comes from surgeons who treat some of the youngest victims of gun violence in the United States. 
  <p class="updated_time"> 12:41 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/business/economy/china-trade-intellectual-property.html">China Falls Short of Promises to Protect Intellectual Property, U.S. Says</a> NYT: American officials said that they were continuing to monitor China’s progress in meeting the terms of the 2020 trade deal, but that intellectual property owners had continued to express concerns 
  <p class="updated_time"> 12:41 PM CT, Apr. 27 </p> 
@@ -324,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/26/shes-seen-the-war-what-awaits-bidens-ukraine-ambassador-pick-00027761">'She's seen the war': What awaits Biden's Ukraine ambassador pick</a> Politico: Bridget Brink faces a tough job ahead, but at least it looks an easy road to Senate confirmation. 
  <p class="updated_time"> 09:26 AM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/ukraine-war-russia-pr-firms-00027756">Amid the war in Ukraine, PR firms defend Russian-tied clients</a> Politico: Wealthy businessmen rely on the firms to avoid an "oligarch" label. 
- <p class="updated_time"> 06:13 AM CT, Apr. 26 </p> 
- <a href="https://www.npr.org/2022/04/26/1094766048/as-the-russia-ukraine-war-drags-on-what-is-the-endgame-for-sanctions">As the Russia-Ukraine war drags on, what is the endgame for sanctions? </a> NPR: Before Russia invaded Ukraine, the threat of harsh economic sanctions was wielded as a deterrent. But the White House message has evolved. 
  <p class="updated_time"> 03:31 AM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/court-democrats-immigration-biden-00027659">Courts could short-circuit Democrats' border battle with Biden</a> Politico: The brewing bipartisan frustration over the White House's ending of pandemic-era immigration curbs was threatening to imperil much of the Senate's agenda. 
  <p class="updated_time"> 03:30 AM CT, Apr. 26 </p> 
