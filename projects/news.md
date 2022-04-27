@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:51 AM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/world/asia/kane-tanaka-japan-worlds-oldest-person.html">Kane Tanaka, World’s Oldest Person, Dies at 119 in Japan</a> NYT: Kane Tanaka, who died in Japan this month, survived two world wars, the 1918 influenza outbreak, paratyphoid and two rounds of cancer. She loved chocolate and hated losing at board games. 
+ <p class="updated_time"> 04:38 AM CT, Apr. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61241879?at_medium=RSS&at_campaign=KARANGA">Rio carnival: Tribute to Afro-Brazilian god wins title</a> BBC: The Grande Rio samba group has won the top prize with a parade promoting religious tolerance. 
  <p class="updated_time"> 04:33 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/india-hindu-festival-electrocution.html">11 Electrocuted When Religious Chariot Hits Transmission Wires in India</a> NYT: Two of the 11 killed were children, and more than a dozen people were hurt as they fell or jumped from the vehicle, which was being pulled by devotees at a Hindu religious festival in southern India. 
  <p class="updated_time"> 04:28 AM CT, Apr. 27 </p> 
@@ -19,36 +23,36 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/26/world/europe/front-line-town-orikhiv.html">Under Fire, a Ukrainian Town Braces for a Russian Onslaught</a> NYT: In Orikhiv, near the front lines, most residents have fled and those who remain endure constant shelling and the fear of what comes next. 
  <p class="updated_time"> 04:13 AM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1094971703/u-n-takes-step-to-put-veto-users-under-global-spotlight">U.N. takes step to put veto users under global spotlight</a> NPR: For the first time, the General Assembly will be required "to hold a debate on the situation" that sparks a veto in the Security Council within 10 working days. 
+ <p class="updated_time"> 04:09 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/in-liberated-ukrainian-villages-fears-grow-for-men-taken-to-russia-11650981966">In Ukrainian Villages, Fears Grow for Men Taken to Russia</a> WSJ: In Ukrainian Villages, Fears Grow for Men Taken to Russia 
  <p class="updated_time"> 04:06 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/china-covid-propaganda.html">China’s Covid Lockdown Outrage Tests Limits of Propaganda</a> NYT: Public anger and grief over the bungled lockdown in Shanghai is creating a credibility crisis for the country’s leader, Xi Jinping, and his zero Covid policies. 
  <p class="updated_time"> 04:03 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/americas/debanhi-escobar-mexico.html">A Woman’s Disappearance Sparks Outrage in Mexico Over Gender Violence</a> NYT: The case of Debanhi Escobar, 18, in Monterrey has ignited a national outcry over the government’s failure to deliver justice for missing women. 
  <p class="updated_time"> 04:02 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/arts/design/victoria-reed-museum-of-fine-arts-stolen-artwork.html">A Long Way Home for ‘Looted’ Art Is Getting Shorter</a> NYT: Curators at major museums are increasingly grappling with a thorny topic: restitution. 
- <p class="updated_time"> 03:52 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/in-liberated-ukrainian-villages-fears-grow-for-men-taken-to-russia-11650981966">In Ukrainian Villages, Fears Grow for Men Taken to Russia</a> WSJ: In Ukrainian Villages, Fears Grow for Men Taken to Russia 
  <p class="updated_time"> 03:21 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/russia-cuts-gas-poland-bulgaria.html">Russia Cuts Gas Supplies to Poland and Bulgaria</a> NYT: The market reaction underscored that a dreaded moment in the war had arrived: the severe disruption of Russian natural gas exports to the E.U. 
+ <p class="updated_time"> 03:09 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583">Russia’s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against Global Conflict</a> WSJ: Russia’s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against Global Conflict 
  <p class="updated_time"> 03:07 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61228552?at_medium=RSS&at_campaign=KARANGA">Anti-Semitism in worldwide surge, Israeli report says</a> BBC: The Israeli study says social media and conspiracy theories about Covid are among factors to blame. 
- <p class="updated_time"> 02:52 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583">Russia’s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against Global Conflict</a> WSJ: Russia’s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against Global Conflict 
  <p class="updated_time"> 02:42 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/angela-rayner-boris-johnson-the-mail-on-sunday.html">U.K. Tabloid Accuses Lawmaker of ‘Basic Instinct’ Move</a> NYT: Citing an unnamed Conservative lawmaker, the paper claimed that Angela Rayner, a Labour leader, tried to distract Boris Johnson with her body. Fury has ensued. 
+ <p class="updated_time"> 02:09 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/moldovaplacessecurity-forces-on-alertafter-blasts-in-breakaway-state-of-transnistria-11650990230">Moldova Places Security Forces on Alert After Blasts in Breakaway State of Transnistria</a> WSJ: Moldova Places Security Forces on Alert After Blasts in Breakaway State of Transnistria 
  <p class="updated_time"> 01:58 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61239181?at_medium=RSS&at_campaign=KARANGA">Tesla shares slide could put Musk's Twitter takeover at risk</a> BBC: The fall in Tesla's shares highlights the issues Elon Musk faces as he tries to run five companies. 
- <p class="updated_time"> 01:52 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/moldovaplacessecurity-forces-on-alertafter-blasts-in-breakaway-state-of-transnistria-11650990230">Moldova Places Security Forces on Alert After Blasts in Breakaway State of Transnistria</a> WSJ: Moldova Places Security Forces on Alert After Blasts in Breakaway State of Transnistria 
  <p class="updated_time"> 01:24 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/singapore-execution-disability.html">Singapore Executes Drug Smuggler Despite Concerns Over Mental Disability</a> NYT: Defense lawyers had argued that the Malaysian man should not be executed because he was not fully capable of understanding his actions and had been coerced. 
+ <p class="updated_time"> 01:09 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/lawmakers-prepare-to-tackle-more-aid-for-ukraine-in-shift-to-long-term-support-11651009193">Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support</a> WSJ: Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support 
  <p class="updated_time"> 12:57 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/myanmar-coup-trial-asean-biden.html">Aung San Suu Kyi Found Guilty in Myanmar Ahead of Biden Summit</a> NYT: The elected civilian leader, who was detained in a military coup last year, was sentenced to five years in prison in a corruption trial that was closed to the public. 
- <p class="updated_time"> 12:52 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/lawmakers-prepare-to-tackle-more-aid-for-ukraine-in-shift-to-long-term-support-11651009193">Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support</a> WSJ: Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support 
+ <p class="updated_time"> 12:09 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/chinas-xi-pushing-to-beat-the-u-s-in-gdp-growth-despite-covid-lockdowns-11650976212">Xi Pushing to Beat U.S. in GDP Growth Despite Lockdowns</a> WSJ: Xi Pushing to Beat U.S. in GDP Growth Despite Lockdowns 
  <p class="updated_time"> 12:08 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/ukraine-refugees-us-gallup-poll.html">Americans’ Support for Admitting Refugees Hits Record, Poll Finds</a> NYT: Gallup reported the record high after its new poll found that 78 percent of adults in the United States approve of allowing up to 100,000 Ukrainian refugees into the country. 
- <p class="updated_time"> 11:52 PM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/chinas-xi-pushing-to-beat-the-u-s-in-gdp-growth-despite-covid-lockdowns-11650976212">Xi Pushing to Beat U.S. in GDP Growth Despite Lockdowns</a> WSJ: Xi Pushing to Beat U.S. in GDP Growth Despite Lockdowns 
  <p class="updated_time"> 11:49 PM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/27/1094965687/myanmar-sentences-suu-kyi-to-5-years">Myanmar court sentences Suu Kyi to 5 years for corruption</a> NPR: Her supporters and independent legal experts consider her prosecution an unjust move to discredit Suu Kyi and legitimize the military's 2021 seizure of power. 
  <p class="updated_time"> 11:49 PM CT, Apr. 26 </p> 
@@ -101,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/26/1094870322/chechnya-once-resisted-russia-now-its-leader-is-putins-close-ally">Chechnya once resisted Russia. Now, its leader is Putin's close ally</a> NPR: NPR's Ari Shapiro talks with Rachel Denber, deputy director of the Europe and Central Asia division for Human Rights Watch, about the role of Chechen leader Ramzan Kadyrov in the Russia-Ukraine war. 
  <p class="updated_time"> 03:26 PM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094870287/ukraines-prosecutor-general-is-determined-to-hold-russia-accountable-for-atrocit">Ukraine's prosecutor general is determined to hold Russia accountable for atrocities</a> NPR: Ukraine's prosecutor general, Iryna Venediktova, is determined to hold Russian President Vladimir Putin accountable for what she says are war crimes. Reviewing the evidence has taken a toll on her. 
- <p class="updated_time"> 03:24 PM CT, Apr. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61233794?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: UN chief appeals to Putin while Russia cuts gas to Poland</a> BBC: The UN secretary general meets Russia's president as Western defence ministers discuss weapons aid. 
  <p class="updated_time"> 02:50 PM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/asia/north-korea-military-parade-kim.html">North Korea Holds Military Parade With Nuclear Threat</a> NYT: In a speech, Kim Jong-un, the country’s leader, vowed to expand his nuclear arsenal ​“at the fastest possible speed​.” 
  <p class="updated_time"> 02:36 PM CT, Apr. 26 </p> 
@@ -189,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/world/europe/putin-macron-french-election.html">Putin Congratulates Macron on French Election Victory</a> NYT: Mr. Macron’s opponent, Marine Le Pen, was seen in Russia as a potential game-changing option, amid the threat of new sanctions over the war in Ukraine. 
  <p class="updated_time"> 01:34 AM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/ukraine-pentagon-arms-buyers.html">Seeking Arms for Ukraine, Pentagon Buyers Scour Eastern European Factories</a> NYT: Soviet-designed ammunition is part of the ‘life blood’ for Ukrainian troops fighting Russia, and the United States is keeping it flowing. 
- <p class="updated_time"> 06:55 PM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/2022/04/24/world/africa/sudan-darfur-janjaweed.html">Arab Militia Kills Scores in Sweeping Attack in Sudan’s Darfur</a> NYT: The assault by hundreds of Janjaweed fighters, the latest in a series of clashes, was another sign of Sudan's deepening security and political crisis. 
 
 
 </details>
@@ -264,6 +264,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/26/1094870350/un-chief-met-with-putin-to-bridge-differences-with-russia-over-its-actions-in-uk">UN chief met with Putin to bridge differences with Russia over its actions in Ukraine</a> NPR: The United Nations secretary general met with Russian President Vladimir Putin and his foreign minister. He came to Moscow as a "messenger of peace." 
  <p class="updated_time"> 03:26 PM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094870308/democratic-pollsters-sounds-the-alarm-as-young-voters-support-of-biden-plummets">Democratic pollsters sounds the alarm as young voters' support of Biden plummets</a> NPR: NPR's Mary Louise Kelly Louise Kelly speaks with Cristina Tzintzún Ramirez of NextGen America about President Biden's approval ratings dip among GenZ and Millennial voters. 
+ <p class="updated_time"> 03:06 PM CT, Apr. 26 </p> 
+ <a href="https://www.politico.com/news/2022/04/26/bernie-pressures-biden-on-amazon-unions-the-time-for-talk-is-over-00027872">Sanders pressures Biden on Amazon unions: ‘The time for talk is over’</a> Politico: While Sen. Bernie Sanders’ Amazon antagonism is no surprise, his squeeze on Biden signals a new phase of his pro-union strategy. 
  <p class="updated_time"> 02:49 PM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/twitters-top-lawyer-reassures-staff-cries-during-meeting-about-musk-takeover-00027931">Twitter’s top lawyer reassures staff, cries during meeting about Musk takeover</a> Politico: Vijaya Gadde, a key executive involved in decisions to remove former President Donald Trump and ban political advertising, expressed uncertainty about the future of the platform. 
  <p class="updated_time"> 02:15 PM CT, Apr. 26 </p> 
@@ -282,20 +284,20 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/26/1061867530/kamala-harris-test-positive-covid-vice-president">Vice President Harris has tested positive for COVID-19</a> NPR: Vice President Harris has tested positive for COVID-19 and has exhibited no symptoms, the White House announced on Tuesday. She's not considered a close contact to President Biden or the first lady. 
  <p class="updated_time"> 11:17 AM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094789618/supreme-court-weighs-biden-admins-cancellation-of-remain-in-mexico-policy">Supreme Court's conservatives divided over 'Remain in Mexico' policy</a> NPR: The Trump-era policy required asylum seekers to wait for their immigration hearing in Mexico. The Biden administration suspended the program, but was blocked by the 5th U.S. Circuit Court of Appeals. 
- <p class="updated_time"> 11:00 AM CT, Apr. 26 </p> 
- <a href="https://www.politico.com/news/2022/04/26/greens-push-climate-compromise-manchin-00027511">'Last chance': Greens push climate compromise with Manchin</a> Politico: Many environmentalists say it's time to toss in the towel on some of the progressives' social policies in order to secure a narrower deal on Manchin’s terms. 
  <p class="updated_time"> 10:32 AM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/supreme-court-asylum-seekers-mexico-00027791">Justices hear fight over asylum-seekers waiting in Mexico</a> Politico: The Biden administration is seeking the Supreme Court’s go-ahead to end a controversial Trump-era immigration program. 
  <p class="updated_time"> 10:22 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/tony-blair-russia-ukraine-event.html">Tony Blair on Russia’s War in Ukraine: A Virtual Event</a> NYT: The former British prime minister will speak with Peter Baker of The New York Times on May 2. 
  <p class="updated_time"> 10:18 AM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/birx-trump-disinfectant-coronavirus-00027776">Birx: Trump’s disinfectant comments were a 'tragedy on many levels'</a> Politico: The former White House coronavirus response coordinator made her most critical remarks yet ahead of the release of a new book. 
+ <p class="updated_time"> 10:00 AM CT, Apr. 26 </p> 
+ <a href="https://www.politico.com/news/2022/04/26/shes-seen-the-war-what-awaits-bidens-ukraine-ambassador-pick-00027761">'She's seen the war': What awaits Biden's Ukraine ambassador pick</a> Politico: Bridget Brink faces a tough job ahead, but at least it looks an easy road to Senate confirmation. 
  <p class="updated_time"> 09:33 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/us/politics/jan-6-texts-mark-meadows.html">New Details Underscore House G.O.P. Role in Jan. 6 Planning</a> NYT: A court filing and newly disclosed text messages provide additional evidence of how closely some fervent pro-Trump lawmakers worked with the White House on efforts to overturn the election. 
+ <p class="updated_time"> 09:26 AM CT, Apr. 26 </p> 
+ <a href="https://www.politico.com/news/2022/04/26/ukraine-war-russia-pr-firms-00027756">Amid the war in Ukraine, PR firms defend Russian-tied clients</a> Politico: Wealthy businessmen rely on the firms to avoid an "oligarch" label. 
  <p class="updated_time"> 08:00 AM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/talks-of-suspending-californias-gas-tax-increase-fizzle-out-00027678">Talks of suspending California's gas tax increase fizzle out</a> Politico: The governor's office said it's "clear" the Legislature won't act in time to stop the scheduled annual increase. 
- <p class="updated_time"> 07:46 AM CT, Apr. 26 </p> 
- <a href="https://www.politico.com/news/2022/04/26/austin-ukraine-victory-russia-war-00027737">Austin: U.S. believes Ukraine ‘can win’ war against Russia</a> Politico: The Pentagon’s spokesperson also said a Ukrainian victory “is certainly in the cards.” 
  <p class="updated_time"> 06:13 AM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094766048/as-the-russia-ukraine-war-drags-on-what-is-the-endgame-for-sanctions">As the Russia-Ukraine war drags on, what is the endgame for sanctions? </a> NPR: Before Russia invaded Ukraine, the threat of harsh economic sanctions was wielded as a deterrent. But the White House message has evolved. 
  <p class="updated_time"> 05:00 AM CT, Apr. 26 </p> 
@@ -324,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/25/kansas-judge-rejects-congressional-map-00027508">Kansas judge rejects congressional map; appeal expected</a> Politico: It was the first time a court has declared that the Kansas Constitution prohibits political gerrymandering. The state is expected to appeal to the Kansas Supreme Court. 
  <p class="updated_time"> 08:01 AM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/hawley-endorses-masters-arizona-senate-00027415">Hawley endorses Thiel-backed Arizona Senate candidate</a> Politico: The Missouri senator is backing Blake Masters and Ohio's J.D. Vance, two more Peter Thiel allies, to join him in Washington 
- <p class="updated_time"> 06:00 AM CT, Apr. 25 </p> 
- <a href="https://www.politico.com/news/2022/04/25/kyiv-austin-blinken-diplomatic-presence-ukraine-00027440">Visiting Kyiv, Austin and Blinken share plans to step up diplomatic presence in Ukraine</a> Politico: The two Cabinet members also said the United States will provide more security assistance and expand military training. 
  <p class="updated_time"> 03:30 AM CT, Apr. 25 </p> 
  <a href="https://www.politico.com/news/2022/04/25/ukraine-weaponry-russia-war-00027406">Heavy weaponry pours into Ukraine as commanders become more desperate</a> Politico: Russian forces are attempting a pincer movement on Ukrainian forces in the Donbas. Will Western artillery, tanks and drones get there in time?   
  <p class="updated_time"> 09:44 AM CT, Apr. 24 </p> 
