@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:42 PM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/us/politics/ukraine-war-expansion.html">Fears Mount That Ukraine War Will Become a Broader Conflict</a> NYT: American and European officials say their concern is based in part on a growing conviction that the war will not end any time soon. 
  <p class="updated_time"> 06:07 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/ukraine-russia-war-flood-infrastructure.html">Ukrainians Flood Village of Demydiv to Keep Russians at Bay</a> NYT: The waters that poured into Demydiv were one of many instances of Ukraine wreaking havoc on its own territory to slow Russia’s advance. Residents couldn’t be happier. “We saved Kyiv,” one said. 
  <p class="updated_time"> 06:07 PM CT, Apr. 27 </p> 
@@ -19,17 +21,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/27/world/americas/colombia-war-crimes.html">Colombian General and 10 Others Admit to Crimes Against Humanity</a> NYT: In the first hearing of its kind, officials admitted to orchestrating extrajudicial killings. But victims asked for more. “We know that there are powerful people behind you,” said one woman. “We need names.” 
  <p class="updated_time"> 06:00 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/04/27/world/ukraine-russia-war-news">Ukraine Live Updates: War’s Effects Widen as Russia Vows More Reprisals</a> NYT: The Kremlin halted natural gas shipments to Poland and Bulgaria in its toughest response yet to European sanctions. Explosions inside Russia near the Ukraine border raised fears that the war might spread. 
+ <p class="updated_time"> 05:59 PM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-stops-gas-flow-to-poland-and-bulgaria-deepening-economic-conflict-with-europe-11651054313">Russian Gas Stoppages Spur Europe’s Race for Energy Supplies</a> WSJ: Russian Gas Stoppages Spur Europe’s Race for Energy Supplies 
  <p class="updated_time"> 05:54 PM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61252320?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin warns against foreign intervention</a> BBC: Russia's president says any nation meddling in the Ukraine war will face a "lightning-fast" response. 
  <p class="updated_time"> 05:44 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/russia-ukraine-gas-flow-europe.html">Ukraine War Impact Widens: Russia Cuts Gas Flow and Vows More Reprisals</a> NYT: New explosions across Ukraine’s borders, Russia’s shut-off of natural gas to two European nations and Moscow’s warning of additional “counterstrikes” pointed to escalating hostilities. 
- <p class="updated_time"> 05:28 PM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-stops-gas-flow-to-poland-and-bulgaria-deepening-economic-conflict-with-europe-11651054313">Russian Gas Stoppages Spur Europe’s Race for Energy Supplies</a> WSJ: Russian Gas Stoppages Spur Europe’s Race for Energy Supplies 
  <p class="updated_time"> 05:21 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/americas/debanhi-escobar-mexico.html">A Woman’s Disappearance Sparks Outrage in Mexico Over Gender Violence</a> NYT: The case of Debanhi Escobar, 18, in Monterrey has ignited a national outcry over the government’s failure to deliver justice for missing women. 
  <p class="updated_time"> 05:16 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/trevor-reed-russia-prisoner-swap.html">Russia Releases Trevor Reed, Former U.S. Marine, in Prisoner Swap</a> NYT: Trevor Reed had been detained since 2019, after he was accused of assaulting and endangering the lives of two police officers. 
- <p class="updated_time"> 04:28 PM CT, Apr. 27 </p> 
+ <p class="updated_time"> 04:59 PM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494">Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine</a> WSJ: Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine 
  <p class="updated_time"> 04:25 PM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1095100365/tennis-legend-martina-navratilova-talks-about-wimbledons-ban-on-russian-players">Tennis legend Martina Navratilova talks about Wimbledon's ban on Russian players</a> NPR: NPR's Rob Schmitz talks with nine-time Wimbledon singles champion Martina Navratilova about why she's upset about Wimbledon's decision to ban Russian tennis players. 
@@ -41,6 +43,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/27/1095100304/after-atrocities-many-ukrainians-arent-interested-in-negotiating-peace-with-russ">After atrocities, many Ukrainians aren't interested in negotiating peace with Russia</a> NPR: For many Ukrainians, there can be no negotiated peace with Russia. Evidence and accounts of atrocities committed by Russian forces have left them unwilling to consider a diplomatic solution. 
  <p class="updated_time"> 04:03 PM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1095025059/russia-ukraine-war-what-happened-today-april-27">Russia-Ukraine war: What happened today (April 27)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:59 PM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/russias-economic-data-dont-reflect-impact-of-ukraine-war-and-western-sanctions-11651085516">Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions</a> WSJ: Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions 
  <p class="updated_time"> 03:35 PM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1095100311/kuwaiti-bidoons-went-on-hunger-strike-for-19-days-has-anything-changed">Kuwaiti Bidoons went on hunger strike for 19 days. Has anything changed?</a> NPR: For 19 days, activists have camped outside a police station in Sulaibiya, Kuwait, on hunger strike. They're asking the Kuwaiti government for citizenship. 
  <p class="updated_time"> 03:35 PM CT, Apr. 27 </p> 
@@ -49,26 +53,24 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/27/1095099693/state-dept-spokesperson-on-the-prisoner-exchange-that-returned-marine-vet-trevor">State Dept spokesperson on the prisoner exchange that returned Marine vet Trevor Reed</a> NPR: NPR's Mary Louise Kelly speaks with State Department spokesperson Ned Price about the return of Marine veteran Trevor Reed in a prisoner exchange between the U.S. and Russia. 
  <p class="updated_time"> 03:35 PM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1095099692/russia-cuts-gas-supplies-to-poland-and-bulgaria">Russia cuts gas supplies to Poland and Bulgaria</a> NPR: Russia's state-run gas company has cut supplies to Poland and Bulgaria. At the heart of this move: the war in Ukraine, the sanctions imposed by the West, and Russia's attempts to wriggle free of them. 
- <p class="updated_time"> 03:28 PM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/russias-economic-data-dont-reflect-impact-of-ukraine-war-and-western-sanctions-11651085516">Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions</a> WSJ: Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions 
  <p class="updated_time"> 03:04 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/explosions-transnistria-moldova-war.html">Explosions in Separatist Region of Moldova Raise Fears of Wider War</a> NYT: The blasts in Transnistria, a region bordering Ukraine that is run by Russia-backed separatists, have fueled talk of Moldova being dragged into the war. 
  <p class="updated_time"> 03:00 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/covid-hot-spot-new-york-counties.html">The Largest U.S. Coronavirus Hot Spot Swells Beyond Central New York</a> NYT: Health experts say that people in the hot spot, which includes cities like Buffalo, Rochester and Syracuse, should be increasing their precautions. 
+ <p class="updated_time"> 02:59 PM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/eu-targets-hungarys-funding-amid-russia-sanctions-fight-11651069702">EU Targets Hungary’s Funding Amid Russia Sanctions Fight</a> WSJ: EU Targets Hungary’s Funding Amid Russia Sanctions Fight 
  <p class="updated_time"> 02:33 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/covid-britain-hospital-patients-nursing-homes.html">Britain Broke the Law by Moving Hospital Patients to Nursing Homes Early in Pandemic, Court Rules</a> NYT: The court’s ruling came in a lawsuit brought by two women whose fathers died in nursing homes in 2020. 
- <p class="updated_time"> 02:28 PM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/eu-targets-hungarys-funding-amid-russia-sanctions-fight-11651069702">EU Targets Hungary’s Funding Amid Russia Sanctions Fight</a> WSJ: EU Targets Hungary’s Funding Amid Russia Sanctions Fight 
  <p class="updated_time"> 02:24 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/us/politics/russia-cyberattacks-ukraine.html">Russia Uses Cyberattacks in Ukraine to Support Military Strikes, Report Finds</a> NYT: A new study by Microsoft shows that Russian cyberattacks often happened within days or even hours of missile strikes. 
  <p class="updated_time"> 02:20 PM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61248809?at_medium=RSS&at_campaign=KARANGA">Bitcoin becomes official currency in Central African Republic</a> BBC: The Central Africa Republic is one of the world's poorest countries, and is a close Russian ally. 
  <p class="updated_time"> 02:16 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/italy-children-surnames-mother-father.html">Italian Children to Be Given Mother’s and Father’s Surnames, Court Rules</a> NYT: The ruling overturns decades of patriarchal family legacy, which largely left women out of the decision-making process. 
+ <p class="updated_time"> 01:59 PM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 01:37 PM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1094873072/russia-ukraine-war-chechen-leader-ramzan-kadyrov">Chechnya once resisted Russia. Now, its leader is Putin's brutal ally in Ukraine</a> NPR: Chechen leader Ramzan Kadyrov has long been seen as a key ally to Russian President Vladimir Putin. That commitment has now extended to the war in Ukraine. 
- <p class="updated_time"> 01:28 PM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 01:15 PM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61240499?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Russia trying to divide allies using gas - Poland</a> BBC: Russian energy giant Gazprom cuts supply to Poland and Bulgaria for refusal to pay in roubles. 
  <p class="updated_time"> 12:34 PM CT, Apr. 27 </p> 
@@ -181,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/26/world/middleeast/dubai-jewish-community.html">Baking Challah in Dubai: A Jewish Community Heads Out Into the Open</a> NYT: The increasing openness of Jewish life in the Persian Gulf emirate of Dubai is another sign of an emerging new reality in the Middle East, where Israel’s isolation by the Arab world is ebbing. 
  <p class="updated_time"> 07:31 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/americas/kenneth-roth-human-rights-watch.html">Kenneth Roth, ‘Godfather’ of Human Rights Work, to Step Down</a> NYT: Mr. Roth joined Human Rights Watch when it was a fledgling organization. It has expanded into one of the most influential human rights advocacy groups. 
- <p class="updated_time"> 07:17 AM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/2022/04/25/world/europe/turkey-court-conviction-osman-kavala-mucella-yapici.html">Turkish Activist Osman Kavala Sentenced to Life Over Protests</a> NYT: Osman Kavala, a well-known activist, was found guilty of charges related to popular protests in 2013. 
  <p class="updated_time"> 06:19 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/french-presidential-election-le-pen-macron.html">Convincing Victory Disguises  Challenges for France’s Macron</a> NYT: France’s runoff election was marked by a record level of abstention, and many cast a ballot only to keep the far right from power — a testament to a growing disillusionment. 
  <p class="updated_time"> 12:03 AM CT, Apr. 26 </p> 
@@ -210,12 +210,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:42 PM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/us/politics/ukraine-war-expansion.html">Fears Mount That Ukraine War Will Become a Broader Conflict</a> NYT: American and European officials say their concern is based in part on a growing conviction that the war will not end any time soon. 
+ <p class="updated_time"> 06:28 PM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/us/politics/madeleine-albright-memorial.html">At Madeleine Albright’s Service, a Reminder of the Fight for Freedom</a> NYT: The former secretary of state, who died last month, was honored at Washington National Cathedral as America faces the kind of struggle between democracy and autocracy that she warned about. 
  <p class="updated_time"> 06:15 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/us/politics/democrats-mallory-mcmorrow-cultural-issues.html">Democrats Ask if They Should Hit Back Harder Against the G.O.P.</a> NYT: Many of the party’s voters are hungry for their candidates to go on offense against Republican cultural attacks, even if it puts them on less comfortable political terrain. 
  <p class="updated_time"> 06:07 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/us/politics/ambassador-richard-olson-qatar-lobbying.html">Former U.S. Ambassador to Plead Guilty to Illegal Lobbying and Hiding Gifts</a> NYT: Richard Olson lobbied for the government of Qatar soon after retiring and took gifts from a businessman while serving as ambassador to Pakistan, according to prosecutors. 
- <p class="updated_time"> 05:34 PM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/2022/04/27/us/politics/madeleine-albright-memorial.html">Biden Leads Tributes to Madeleine Albright</a> NYT: The former secretary of state, who died last month, is being honored at a memorial service at Washington National Cathedral drawing much of the nation’s top leadership. 
  <p class="updated_time"> 05:19 PM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1095064301/grand-jury-investigating-trump-is-expected-to-expire-by-friday-sources-say">Grand jury investigating Trump is expected to expire by Friday, sources say</a> NPR: A spokeswoman for Manhattan District Attorney Alvin Bragg declined to comment, pointing to Bragg's statement from this month that "There is no magic at all to any previously reported dates." 
  <p class="updated_time"> 05:16 PM CT, Apr. 27 </p> 
@@ -294,8 +296,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/26/us/politics/kamala-harris-positive-coronavirus.html">Vice President Kamala Harris Tests Positive for Covid-19</a> NYT: While Kamala Harris had not seen President Biden for eight days, her positive test renewed concerns about his vulnerability to the virus. 
  <p class="updated_time"> 08:12 PM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/us/politics/kay-ivey-trump-alabama.html">Kay Ivey Races to the Right in Alabama Governor Race</a> NYT: The governor has a conservative track record, but in the face of a primary challenge, she is increasingly wading into divisive cultural issues. 
- <p class="updated_time"> 07:58 PM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/2022/04/26/us/politics/mccarthy-republican-lawmakers.html">McCarthy Feared G.O.P. Lawmakers Put ‘People in Jeopardy’ After Jan. 6</a> NYT: New audio recordings reveal Kevin McCarthy worried that comments by his far-right colleagues could incite violence. He said he would try to rein in the lawmakers, but has instead defended them. 
  <p class="updated_time"> 07:06 PM CT, Apr. 26 </p> 
  <a href="https://www.cnn.com/2022/04/26/politics/january-six-meadows-mccarthy-marjorie-taylor-greene/index.html">Here's everything we've learned about January 6 this week (and what comes next)</a> CNN: The farther away we get from January 6, 2021, the more we learn about the circumstances surrounding it. 
  <p class="updated_time"> 06:11 PM CT, Apr. 26 </p> 
