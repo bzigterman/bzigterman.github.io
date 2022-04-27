@@ -3,7 +3,7 @@ name: autoecon
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/14 * * * *'
+    - cron: '*/33 * * * *'
 
 jobs:
   run-autoecon:
