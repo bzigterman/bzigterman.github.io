@@ -662,7 +662,7 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
   hc_caption(
-    text = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Not seasonally adjusted. Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_add_theme(
     hc_theme_bloom()
