@@ -9,26 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:50 AM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/04/27/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Suspends Gas Supply to Poland and Bulgaria</a> NYT: The move by state-run Gazprom was Russia’s toughest retaliation yet against European sanctions and aid for Ukraine. As the U.S. and allies pledge to continue arming Ukraine, a series of blasts inside Russia raised fears that the conflict could spread. 
+ <p class="updated_time"> 07:15 AM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/27/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Suspends Gas Supply to Poland and Bulgaria</a> NYT: The move by state-run Gazprom was Russia’s toughest retaliation yet against European sanctions and aid for Ukraine. As the U.S. and allies pledge to continue sending arms, a series of blasts inside Russia raised fears that the conflict could spread. 
  <p class="updated_time"> 06:23 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61240499?at_medium=RSS&at_campaign=KARANGA">Gazprom halts gas supply to Poland and Bulgaria as Russia accused of blackmail</a> BBC: Russian energy giant Gazprom cuts supply to Poland and Bulgaria for refusal to pay in roubles. 
+ <p class="updated_time"> 06:18 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494">Russia Suffers Another Fire at a Supply Depot as Its Ukraine Offensive Pushes West</a> WSJ: Russia Suffers Another Fire at a Supply Depot as Its Ukraine Offensive Pushes West 
  <p class="updated_time"> 05:59 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/beijijng-shanghai-covid-cases.html">New Covid Cases Slow in Shanghai, but Increase in Beijing</a> NYT: Beijing residents face mandatory P.C.R. tests but no mass lockdown yet, while large inland cities may be closed down in response to as few as two infections. 
- <p class="updated_time"> 05:54 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/in-liberated-ukrainian-villages-fears-grow-for-men-taken-to-russia-11650981966">In Ukrainian Villages, Fears Grow for Men Taken to Russia</a> WSJ: In Ukrainian Villages, Fears Grow for Men Taken to Russia 
  <p class="updated_time"> 05:36 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/kane-tanaka-japan-worlds-oldest-person.html">Kane Tanaka, World’s Oldest Person, Dies at 119 in Japan</a> NYT: Kane Tanaka, who died in Japan this month, survived two world wars, the 1918 influenza outbreak, paratyphoid and two rounds of cancer. She loved chocolate and hated losing at board games. 
  <p class="updated_time"> 05:26 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61233095?at_medium=RSS&at_campaign=KARANGA">Transnistria and Ukraine conflict: Is war spreading?</a> BBC: Mysterious explosions in Transnistria raise fears that the Ukraine conflict may spread to Moldova. 
  <p class="updated_time"> 05:20 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61226282?at_medium=RSS&at_campaign=KARANGA">What changes could Elon Musk make to Twitter?</a> BBC: After the billionaire struck a deal to buy the site, speculation has begun over what the future holds. 
- <p class="updated_time"> 04:54 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583">Russia’s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against Global Conflict</a> WSJ: Russia’s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against Global Conflict 
+ <p class="updated_time"> 05:18 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-halting-gas-flows-to-poland-bulgaria-over-payment-terms-11651007170">Russia Halting Gas Flows to Poland, Bulgaria Over Payment Terms</a> WSJ: Russia Halting Gas Flows to Poland, Bulgaria Over Payment Terms 
  <p class="updated_time"> 04:38 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61241879?at_medium=RSS&at_campaign=KARANGA">Rio carnival: Tribute to Afro-Brazilian god wins title</a> BBC: The Grande Rio samba group has won the top prize with a parade promoting religious tolerance. 
  <p class="updated_time"> 04:33 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/india-hindu-festival-electrocution.html">11 Electrocuted When Religious Chariot Hits Transmission Wires in India</a> NYT: Two of the 11 killed were children, and more than a dozen people were hurt as they fell or jumped from the vehicle, which was being pulled by devotees at a Hindu religious festival in southern India. 
+ <p class="updated_time"> 04:18 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/chinese-drone-giant-dji-suspends-business-in-russia-ukraine-11651058738">Chinese Drone Giant DJI Suspends Business in Russia, Ukraine</a> WSJ: Chinese Drone Giant DJI Suspends Business in Russia, Ukraine 
  <p class="updated_time"> 04:17 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/front-line-town-orikhiv.html">Under Fire, a Ukrainian Town Braces for a Russian Onslaught</a> NYT: In Orikhiv, near the front lines, most residents have fled and those who remain endure constant shelling and the fear of what comes next. 
  <p class="updated_time"> 04:13 AM CT, Apr. 27 </p> 
@@ -39,20 +41,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/27/world/americas/debanhi-escobar-mexico.html">A Woman’s Disappearance Sparks Outrage in Mexico Over Gender Violence</a> NYT: The case of Debanhi Escobar, 18, in Monterrey has ignited a national outcry over the government’s failure to deliver justice for missing women. 
  <p class="updated_time"> 04:02 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/arts/design/victoria-reed-museum-of-fine-arts-stolen-artwork.html">A Long Way Home for ‘Looted’ Art Is Getting Shorter</a> NYT: Curators at major museums are increasingly grappling with a thorny topic: restitution. 
- <p class="updated_time"> 03:54 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/moldovaplacessecurity-forces-on-alertafter-blasts-in-breakaway-state-of-transnistria-11650990230">Moldova Places Security Forces on Alert After Blasts in Breakaway State of Transnistria</a> WSJ: Moldova Places Security Forces on Alert After Blasts in Breakaway State of Transnistria 
  <p class="updated_time"> 03:21 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/russia-cuts-gas-poland-bulgaria.html">Russia Cuts Gas Supplies to Poland and Bulgaria</a> NYT: The market reaction underscored that a dreaded moment in the war had arrived: the severe disruption of Russian natural gas exports to the E.U. 
+ <p class="updated_time"> 03:18 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 03:07 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61228552?at_medium=RSS&at_campaign=KARANGA">Anti-Semitism: Dramatic rise in 2021, Israeli report says</a> BBC: The Israeli study says social media and conspiracy theories about Covid are among factors to blame. 
- <p class="updated_time"> 02:54 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/lawmakers-prepare-to-tackle-more-aid-for-ukraine-in-shift-to-long-term-support-11651009193">Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support</a> WSJ: Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support 
  <p class="updated_time"> 02:42 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/angela-rayner-boris-johnson-the-mail-on-sunday.html">U.K. Tabloid Accuses Lawmaker of ‘Basic Instinct’ Move</a> NYT: Citing an unnamed Conservative lawmaker, the paper claimed that Angela Rayner, a Labour leader, tried to distract Boris Johnson with her body. Fury has ensued. 
+ <p class="updated_time"> 02:18 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/brazils-central-bank-intensifies-battle-against-sky-high-borrowing-costs-11651051801">Brazil’s Central Bank Intensifies Battle Against Sky-High Borrowing Costs</a> WSJ: Brazil’s Central Bank Intensifies Battle Against Sky-High Borrowing Costs 
  <p class="updated_time"> 01:58 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61239181?at_medium=RSS&at_campaign=KARANGA">Tesla shares slide could put Musk's Twitter takeover at risk</a> BBC: The fall in Tesla's shares highlights the issues Elon Musk faces as he tries to run five companies. 
- <p class="updated_time"> 01:54 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/chinas-xi-pushing-to-beat-the-u-s-in-gdp-growth-despite-covid-lockdowns-11650976212">Xi Pushing to Beat U.S. in GDP Growth Despite Lockdowns</a> WSJ: Xi Pushing to Beat U.S. in GDP Growth Despite Lockdowns 
  <p class="updated_time"> 01:24 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/singapore-execution-disability.html">Singapore Executes Drug Smuggler Despite Concerns Over Mental Disability</a> NYT: Defense lawyers had argued that the Malaysian man should not be executed because he was not fully capable of understanding his actions and had been coerced. 
  <p class="updated_time"> 12:57 AM CT, Apr. 27 </p> 
@@ -149,6 +149,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/world/europe/turkey-court-conviction-osman-kavala-mucella-yapici.html">Turkish Activist Osman Kavala Sentenced to Life Over Protests</a> NYT: Osman Kavala, a well-known activist, was found guilty of charges related to popular protests in 2013. 
  <p class="updated_time"> 06:19 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/french-presidential-election-le-pen-macron.html">Convincing Victory Disguises  Challenges for France’s Macron</a> NYT: France’s runoff election was marked by a record level of abstention, and many cast a ballot only to keep the far right from power — a testament to a growing disillusionment. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 26 </p> 
+ <a href="https://www.wsj.com/articles/chinas-xi-pushing-to-beat-the-u-s-in-gdp-growth-despite-covid-lockdowns-11650976212">Xi Pushing to Beat U.S. in GDP Growth Despite Lockdowns</a> WSJ: President Xi Jinping has told officials to ensure that China’s growth outpaces the U.S. this year, even as its economy sags under its worst Covid outbreak since the pandemic began. 
  <p class="updated_time"> 01:51 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61227047?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin shooting: New video shows actor rehearsing with gun</a> BBC: In new footage, the actor is seen rehearsing with a gun on set moments before Halyna Hutchins' fatal injury. 
  <p class="updated_time"> 12:03 AM CT, Apr. 26 </p> 
@@ -198,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/us/politics/white-house-correspondents-dinner.html">Before White House Correspondents’ Dinner, Lots of Risk-Benefit Calculation</a> NYT: Dr. Anthony S. Fauci won’t attend the White House Correspondents’ Association Dinner, but President Biden has concluded it is worth the risk. 
  <p class="updated_time"> 06:47 AM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1094798190/immigration-advocates-warn-of-midterm-risks-for-democrats-if-title-42-isnt-lifte">Immigration advocates warn of midterm risks for Democrats if Title 42 isn't lifted</a> NPR: With voter enthusiasm among Democrats already lagging going into the midterms, immigration advocates say they will dampen it more by not calling for the 2020 public health order to be lifted. 
  <p class="updated_time"> 04:12 AM CT, Apr. 27 </p> 
@@ -210,8 +214,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/26/us/politics/senate-democrats-covid-murphy-wyden.html">Three Virus Cases Temporarily Sideline Senate Democrats’ Plans</a> NYT: In an evenly divided Senate, neither party can afford to be without a single member. 
  <p class="updated_time"> 04:00 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/us/politics/madeleine-albright-memorial.html">Biden to Lead Tributes to Madeleine Albright</a> NYT: The former secretary of state, who died last month, will be honored at a memorial service at Washington National Cathedral drawing much of nation’s top leadership. 
- <p class="updated_time"> 04:00 AM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/2022/04/27/us/politics/white-house-correspondents-dinner.html">Before White House Correspondents’ Dinner, Lots of Risk-Benefit Calculation</a> NYT: Dr. Anthony S. Fauci won’t attend the White House Correspondents’ Association Dinner, but President Biden has concluded it is worth the risk. 
  <p class="updated_time"> 04:00 AM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1094833774/danica-roem-book-burn-the-page">Danica Roem did opposition research on herself. It's one way she reclaimed her story</a> NPR: The Virginia lawmaker is the first openly transgender U.S. state legislator. In her new memoir, she embraces the idea of using what was written about her to empower her to tell her story. 
  <p class="updated_time"> 03:31 AM CT, Apr. 27 </p> 
@@ -332,8 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/24/mccaul-mccarthy-audio-controversy-trump-00027372">‘Kevin is in very good shape’: House Republican shrugs off McCarthy audio controversy</a> Politico: “President Trump said yesterday that he fully supports Kevin McCarthy for speaker, as do I,” said Rep. Michael McCaul. 
  <p class="updated_time"> 09:14 AM CT, Apr. 24 </p> 
  <a href="https://www.politico.com/news/2022/04/24/cuellar-biden-immigration-activists-title-42-00027362">Cuellar: White House listening to ‘immigration activists’ on Title 42</a> Politico: A growing number of Democrats oppose Biden’s plan to end the Trump-era public health order. 
- <p class="updated_time"> 06:56 AM CT, Apr. 24 </p> 
- <a href="https://www.cnn.com/2022/04/21/politics/us-politics-anti-woke-what-matters/index.html">GOP politicians are choosing anti-wokeness over friendliness to big business</a> CNN: There's a bizarre metamorphosis happening in American politics as culture takes over the conversation: Republican politicians are choosing the war on "wokeness" over the friendliness to big business that was their guiding light for decades. 
 
 
 </details>
