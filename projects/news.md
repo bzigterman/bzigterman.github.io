@@ -9,32 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:44 AM CT, Apr. 27 </p> 
+ <p class="updated_time"> 04:13 AM CT, Apr. 27 </p> 
+ <a href="https://www.npr.org/2022/04/27/1094971703/u-n-takes-step-to-put-veto-users-under-global-spotlight">U.N. takes step to put veto users under global spotlight</a> NPR: For the first time, the General Assembly will be required "to hold a debate on the situation" that sparks a veto in the Security Council within 10 working days. 
+ <p class="updated_time"> 04:09 AM CT, Apr. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61237519?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia halts gas exports to Poland and Bulgaria</a> BBC: Moscow says 'unfriendly' countries must start paying for its gas in roubles. 
+ <p class="updated_time"> 04:06 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/china-covid-propaganda.html">China’s Covid Lockdown Outrage Tests Limits of Propaganda</a> NYT: Public anger and grief over the bungled lockdown in Shanghai is creating a credibility crisis for the country’s leader, Xi Jinping, and his zero Covid policies. 
+ <p class="updated_time"> 04:03 AM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/world/americas/debanhi-escobar-mexico.html">A Woman’s Disappearance Sparks Outrage in Mexico Over Gender Violence</a> NYT: The case of Debanhi Escobar, 18, in Monterrey has ignited a national outcry over the government’s failure to deliver justice for missing women. 
+ <p class="updated_time"> 04:02 AM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/arts/design/victoria-reed-museum-of-fine-arts-stolen-artwork.html">A Long Way Home for ‘Looted’ Art Is Getting Shorter</a> NYT: Curators at major museums are increasingly grappling with a thorny topic: restitution. 
  <p class="updated_time"> 03:21 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/russia-cuts-gas-poland-bulgaria.html">Russia Cuts Gas Supplies to Poland and Bulgaria</a> NYT: The market reaction underscored that a dreaded moment in the war had arrived: the severe disruption of Russian natural gas exports to the E.U. 
- <p class="updated_time"> 03:13 AM CT, Apr. 27 </p> 
- <a href="https://www.bbc.co.uk/news/business-61237519?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia halts gas exports to Poland and Bulgaria</a> BBC: Moscow said 'unfriendly' countries must start paying for its gas in roubles. 
- <p class="updated_time"> 02:59 AM CT, Apr. 27 </p> 
+ <p class="updated_time"> 03:20 AM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/in-liberated-ukrainian-villages-fears-grow-for-men-taken-to-russia-11650981966">In Ukrainian Villages, Fears Grow for Men Taken to Russia</a> WSJ: In Ukrainian Villages, Fears Grow for Men Taken to Russia 
  <p class="updated_time"> 02:45 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/04/26/world/ukraine-russia-war-news">What Happened on Day 62 of the War in Ukraine</a> NYT: Officials from over 40 countries planned arms shipments, and Germany, in a policy reversal, pledged heavy weapons for Ukraine. Russia is cutting off natural gas supplies to Poland and Bulgaria. 
  <p class="updated_time"> 02:42 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/angela-rayner-boris-johnson-the-mail-on-sunday.html">U.K. Tabloid Accuses Lawmaker of ‘Basic Instinct’ Move</a> NYT: Citing an unnamed Conservative lawmaker, the paper claimed that Angela Rayner, a Labour leader, tried to distract Boris Johnson with her body. Fury has ensued. 
- <p class="updated_time"> 01:59 AM CT, Apr. 27 </p> 
+ <p class="updated_time"> 02:20 AM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/russias-lavrov-says-nato-is-in-proxy-war-in-ukraine-11650965583">Russia’s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against Global Conflict</a> WSJ: Russia’s Lavrov Says NATO Is Using Ukraine as a Proxy, Warns Against Global Conflict 
  <p class="updated_time"> 01:24 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/singapore-execution-disability.html">Singapore Executes Drug Smuggler Despite Concerns Over Mental Disability</a> NYT: Defense lawyers had argued that the Malaysian man should not be executed because he was not fully capable of understanding his actions and had been coerced. 
+ <p class="updated_time"> 01:20 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/moldovaplacessecurity-forces-on-alertafter-blasts-in-breakaway-state-of-transnistria-11650990230">Moldova Places Security Forces on Alert After Blasts in Breakaway State of Transnistria</a> WSJ: Moldova Places Security Forces on Alert After Blasts in Breakaway State of Transnistria 
  <p class="updated_time"> 01:19 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/front-line-town-orikhiv.html">Under Fire, a Ukrainian Town Braces for a Russian Onslaught</a> NYT: In Orikhiv, near the front lines, most residents have fled and those who remain endure constant shelling and the fear of what comes next. 
- <p class="updated_time"> 12:59 AM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/moldovaplacessecurity-forces-on-alertafter-blasts-in-breakaway-state-of-transnistria-11650990230">Moldova Places Security Forces on Alert After Blasts in Breakaway State of Transnistria</a> WSJ: Moldova Places Security Forces on Alert After Blasts in Breakaway State of Transnistria 
  <p class="updated_time"> 12:57 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/myanmar-coup-trial-asean-biden.html">Aung San Suu Kyi Found Guilty in Myanmar Ahead of Biden Summit</a> NYT: The elected civilian leader, who was detained in a military coup last year, was sentenced to five years in prison in a corruption trial that was closed to the public. 
+ <p class="updated_time"> 12:20 AM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/lawmakers-prepare-to-tackle-more-aid-for-ukraine-in-shift-to-long-term-support-11651009193">Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support</a> WSJ: Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support 
  <p class="updated_time"> 12:08 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/ukraine-refugees-us-gallup-poll.html">Americans’ Support for Admitting Refugees Hits Record, Poll Finds</a> NYT: Gallup reported the record high after its new poll found that 78 percent of adults in the United States approve of allowing up to 100,000 Ukrainian refugees into the country. 
- <p class="updated_time"> 11:59 PM CT, Apr. 26 </p> 
- <a href="https://www.wsj.com/articles/lawmakers-prepare-to-tackle-more-aid-for-ukraine-in-shift-to-long-term-support-11651009193">Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support</a> WSJ: Lawmakers Prepare to Tackle More Aid for Ukraine in Shift to Long-Term Support 
  <p class="updated_time"> 11:49 PM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/27/1094965687/myanmar-sentences-suu-kyi-to-5-years">Myanmar court sentences Suu Kyi to 5 years for corruption</a> NPR: Her supporters and independent legal experts consider her prosecution an unjust move to discredit Suu Kyi and legitimize the military's 2021 seizure of power. 
  <p class="updated_time"> 11:49 PM CT, Apr. 26 </p> 
@@ -43,7 +49,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61239881?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi: Myanmar sentences ex-leader to jail for corruption</a> BBC: The former leader was found guilty in the latest of several heavily criticised secret trials. 
  <p class="updated_time"> 11:31 PM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/27/1094965375/singapore-executes-disabled-malaysian-convicted-in-drug-case">Singapore executes disabled Malaysian convicted in drug case</a> NPR: Supporters and lawyers of the man said he had an IQ of 69 and was intellectually disabled, and that the execution of a mentally ill person was prohibited under international human rights law. 
- <p class="updated_time"> 10:59 PM CT, Apr. 26 </p> 
+ <p class="updated_time"> 11:20 PM CT, Apr. 26 </p> 
  <a href="https://www.wsj.com/articles/chinas-xi-pushing-to-beat-the-u-s-in-gdp-growth-despite-covid-lockdowns-11650976212">Xi Pushing to Beat U.S. in GDP Growth Despite Lockdowns</a> WSJ: Xi Pushing to Beat U.S. in GDP Growth Despite Lockdowns 
  <p class="updated_time"> 10:58 PM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61239221?at_medium=RSS&at_campaign=KARANGA">Nagaenthran: Singapore executes low IQ Malaysian man on drugs charge</a> BBC: Nagaenthran Dharmalingam was on death row for years for trying to bring in a small amount of heroin. 
@@ -119,8 +125,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61226282?at_medium=RSS&at_campaign=KARANGA">Four ways Elon Musk might change Twitter</a> BBC: After the billionaire struck a deal to buy the site, speculation has begun over what the future holds. 
  <p class="updated_time"> 11:36 AM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61236842?at_medium=RSS&at_campaign=KARANGA">North Korea: Banned missiles showcased in military parade</a> BBC: State media broadcast footage from a military parade attended by leader Kim Jong-un. 
- <p class="updated_time"> 11:30 AM CT, Apr. 26 </p> 
- <a href="https://www.npr.org/2022/04/26/1094796253/ukraine-russia-refugees">The U.N. now projects more than 8 million people will flee Ukraine as refugees</a> NPR: The number is more than double what the U.N.'s refugee agency projected in February when Russia invaded the country. The vast majority of those who have already left are women and children. 
  <p class="updated_time"> 10:31 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/canada/canadas-atlantic-provinces-covid-masks.html">As Mask Mandates End, Canada’s Atlantic Provinces See Rise in Covid Cases</a> NYT: Once relatively shielded from the virus transmission waves that flooded the rest of Canada, coronavirus infections are rising in the easternmost provinces. 
  <p class="updated_time"> 10:22 AM CT, Apr. 26 </p> 
@@ -185,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/us/ukraine-pentagon-arms-buyers.html">Seeking Arms for Ukraine, Pentagon Buyers Scour Eastern European Factories</a> NYT: Soviet-designed ammunition is part of the ‘life blood’ for Ukrainian troops fighting Russia, and the United States is keeping it flowing. 
  <p class="updated_time"> 06:55 PM CT, Apr. 24 </p> 
  <a href="https://www.nytimes.com/2022/04/24/world/africa/sudan-darfur-janjaweed.html">Arab Militia Kills Scores in Sweeping Attack in Sudan’s Darfur</a> NYT: The assault by hundreds of Janjaweed fighters, the latest in a series of clashes, was another sign of Sudan's deepening security and political crisis. 
- <p class="updated_time"> 05:49 PM CT, Apr. 24 </p> 
- <a href="https://www.nytimes.com/2022/04/24/world/europe/zelensky-austin-blinken-ukraine.html">Blinken and Austin Arrive in Kyiv to Show Support for Ukraine</a> NYT: Secretary of State Antony J. Blinken and Defense Secretary Lloyd J. Austin III met Sunday with President Volodymyr Zelensky, the first senior U.S. officials known to have visited Ukraine since the invasion. 
 
 
 </details>
@@ -194,6 +196,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:12 AM CT, Apr. 27 </p> 
+ <a href="https://www.npr.org/2022/04/27/1094970676/rep-madison-cawthorn-is-caught-again-with-a-gun-at-a-north-carolina-airport">Rep. Madison Cawthorn is caught again with a gun at a North Carolina airport</a> NPR: North Carolina Rep. Madison Cawthorn was stopped at the Charlotte airport for carrying a loaded gun. The Republican's gun was confiscated and he was cited, but he was not arrested. 
+ <p class="updated_time"> 04:12 AM CT, Apr. 27 </p> 
+ <a href="https://www.npr.org/2022/04/27/1094970627/2-progressive-house-lawmakers-are-working-on-a-strategy-to-keep-their-seats">2 progressive House lawmakers are working on a strategy to keep their seats </a> NPR: House Democratic progressives Jamie Raskin and Ro Khanna say they have a midterm campaign strategy to ward off the looming threat that Republicans could seize control of Congress. 
+ <p class="updated_time"> 04:03 AM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/26/us/politics/senate-democrats-covid-murphy-wyden.html">Three Virus Cases Temporarily Sideline Senate Democrats’ Plans</a> NYT: In an evenly divided Senate, neither party can afford to be without a single member. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/us/politics/madeleine-albright-memorial.html">Biden to Lead Tributes to Madeleine Albright</a> NYT: The former secretary of state, who died last month, will be honored at a memorial service at Washington National Cathedral drawing much of nation’s top leadership. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/us/politics/before-washingtons-nerd-prom-lots-of-risk-benefit-calculation.html">Before Washington’s ‘Nerd Prom,’ Lots of Risk-Benefit Calculation</a> NYT: Dr. Anthony S. Fauci won’t attend the White House Correspondents’ Association Dinner, but President Biden has concluded it is worth the risk. 
+ <p class="updated_time"> 04:00 AM CT, Apr. 27 </p> 
+ <a href="https://www.npr.org/2022/04/27/1094833774/danica-roem-book-burn-the-page">Danica Roem did opposition research on herself. It's one way she reclaimed her story</a> NPR: The Virginia lawmaker is the first openly transgender U.S. state legislator. In her new memoir, she embraces the idea of using what was written about her to empower her to tell her story. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 27 </p> 
+ <a href="https://www.politico.com/news/2022/04/27/elizabeth-warren-midterm-elections-00028068">Warren tries to 'light the fire of urgency' for Democrats</a> Politico: The Massachusetts progressive is going all-out to try to push her party to emerge from a morass of bad polling and stalled priorities before Election Day. 
  <p class="updated_time"> 01:24 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/us/politics/covid-infections-ashish-jha.html">White House Covid Czar Says Avoiding All Virus Cases Isn’t U.S. Policy Goal</a> NYT: The more important reflections of progress, Dr. Ashish K. Jha said, would be whether health care systems are strained, and whether people are hospitalized with and dying from Covid-19. 
  <p class="updated_time"> 10:41 PM CT, Apr. 26 </p> 
@@ -216,8 +232,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/26/us/politics/gitmo-youngest-detainee.html">Youngest Guantánamo Detainee Is Cleared for Release</a> NYT: Hassan bin Attash, who has been held since 2002 without charge, now needs a transfer deal. His brother, also at Guantánamo, is accused of conspiring in the Sept. 11 attacks. 
  <p class="updated_time"> 05:53 PM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/musks-contentious-history-on-twitter-in-tweets-00027902">Musk's contentious history on Twitter, in tweets</a> Politico: The world's richest person has used the platform to poke politicians and test his legal boundaries. 
- <p class="updated_time"> 05:20 PM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/2022/04/26/us/politics/senate-democrats-covid-murphy-wyden.html">Three Virus Cases Temporarily Sideline Senate Democrats’ Plans</a> NYT: In an evenly divided Senate, neither party can afford to be without a single member. 
  <p class="updated_time"> 05:08 PM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/us/politics/supreme-court-remain-in-mexico.html">‘Remain in Mexico’ Program Confounds Supreme Court</a> NYT: Known formally as the Migrant Protection Protocols, the program, adopted during the Trump administration, requires some migrants to wait in Mexico while their cases are heard. 
  <p class="updated_time"> 05:03 PM CT, Apr. 26 </p> 
@@ -296,12 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/26/1094766097/judge-temporarily-blocks-biden-administration-from-lifting-covid-border-rules">Judge temporarily blocks Biden administration from lifting COVID border rules</a> NPR: NPR's A Martinez talks to Democratic Rep. Tony Cardenas of California about White House plans to end Title 42, which restricts migrants entering from the southern border due to the pandemic. 
  <p class="updated_time"> 04:08 AM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094766055/paxlovid-a-highly-effective-covid-drug-will-be-made-available-to-more-pharmacies">Paxlovid, a highly effective COVID drug, will be made available to more pharmacies</a> NPR: The White House is unveiling a new push to make more people aware of COVID-19 treatments like Paxlovid — because stockpiles of the life-saving antiviral have been sitting on shelves, unused. 
- <p class="updated_time"> 04:08 AM CT, Apr. 26 </p> 
- <a href="https://www.npr.org/2022/04/26/1092557886/will-the-supreme-court-be-as-deferential-to-biden-on-immigration-as-it-was-to-tr">Will the Supreme Court be as deferential to Biden on immigration as it was to Trump?</a> NPR: The court is weighing whether the Biden administration must continue to enforce the Trump-era "Remain in Mexico" program, which keeps some asylum-seekers in Mexico while they await a U.S. hearing. 
- <p class="updated_time"> 04:08 AM CT, Apr. 26 </p> 
- <a href="https://www.npr.org/2022/04/26/1094766034/morning-news-brief">News brief: Musk to take Twitter private, Paxlovid's availability, Trump civil probe</a> NPR: Elon Musk is buying Twitter for $44 billion. An effective COVID drug will be made available to more pharmacies. Ex-President Trump is held in contempt of court for failing to turn over documents. 
- <p class="updated_time"> 04:01 AM CT, Apr. 26 </p> 
- <a href="https://www.npr.org/2022/04/26/1094735822/biden-will-make-paxlovid-a-highly-effective-covid-drug-available-to-more-pharmac">Biden will make Paxlovid, a highly effective COVID drug, available to more pharmacies</a> NPR: The antiviral pill is available to patients older than 12 who have tested positive for COVID and are at risk for developing a severe case of the disease. 
  <p class="updated_time"> 03:31 AM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/court-democrats-immigration-biden-00027659">Dems may get reprieve from internal tension over immigration</a> Politico: The brewing bipartisan frustration over the White House's ending of pandemic-era immigration curbs was threatening to imperil much of the Senate's agenda. 
  <p class="updated_time"> 03:30 AM CT, Apr. 26 </p> 
@@ -312,10 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:43 PM CT, Apr. 25 </p> 
  <a href="https://www.cnn.com/2022/04/25/politics/mark-meadows-texts-2319/index.html">Mark Meadows' 2,319 text messages reveal Trump's inner circle communications before and after January 6</a> CNN: CNN has obtained 2,319 text messages that former President Donald Trump's White House chief of staff Mark Meadows sent and received between Election Day 2020 and President Joe Biden's January 20, 2021 inauguration. 
- <p class="updated_time"> 08:25 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/us/politics/ukraine-ambassador-embassy-biden.html">Biden Picks Bridget Brink to Be Ambassador to Ukraine</a> NYT: The U.S. Embassy, which closed just before Russia’s invasion, could reopen “over a couple of weeks,” Secretary of State Antony Blinken said. 
- <p class="updated_time"> 08:17 PM CT, Apr. 25 </p> 
- <a href="https://www.nytimes.com/2022/04/25/us/politics/americans-sponsor-ukrainians.html">How Americans Can Sponsor Ukrainian Refugees</a> NYT: Most people in the United States are eligible to sponsor Ukrainian migrants under a program the Biden administration established on Monday. Here’s how it works. 
  <p class="updated_time"> 11:57 AM CT, Apr. 25 </p> 
  <a href="https://www.cnn.com/2022/04/25/politics/read-mark-meadows-texts-sean-hannity-ivanka-trump-marjorie-taylor-greene/index.html">READ: Text messages Sean Hannity, Marjorie Taylor Greene, Ivanka Trump and others sent to Mark Meadows</a> CNN: CNN has obtained 2,319 text messages that former President Donald Trump's White House chief of staff Mark Meadows sent and received between Election Day 2020 and President Joe Biden's January 20, 2021 inauguration. 
  <p class="updated_time"> 11:29 AM CT, Apr. 25 </p> 
