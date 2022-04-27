@@ -497,7 +497,8 @@ html {
 
 [![Real GDP]({{ site.baseurl }}/plots/gdp.png)](https://fred.stlouisfed.org/series/GDPC1)
 
-[![Population]({{ site.baseurl }}/plots/us_population.png)](https://fred.stlouisfed.org/series/POPTHM)
+<iframe src="/interactive/us_population.html" width="100%" height="300"> 
+</iframe>
 
 Data retrieved from the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org)
 

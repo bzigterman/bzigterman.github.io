@@ -603,6 +603,23 @@ us_population
 ggsave("plots/us_population.png", plot = us_population,
        width = 8, height = 8*(628/1200), dpi = 320)
 
+
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = value*1000)) %>%
+  hc_title(text = "Population") %>%
+  hc_caption(
+    text = paste("Source: U.S. Bureau of Economic Analysis, retrieved from the St. Louis Fed. Latest data:",
+                 tail(recent_data$short_date,1))) %>%
+  hc_yAxis(title = "") %>%
+  hc_xAxis(title = "") %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )
+fig
+saveWidget(widget = fig, file = "interactive/us_population.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
 # Champaign ----
 ## unemployment rate ----
 data <- fredr(series_id = "ILCHAM9URN")
@@ -1084,7 +1101,8 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 
 [![Real GDP]({{ site.baseurl }}/plots/gdp.png)](https://fred.stlouisfed.org/series/GDPC1)
 
-[![Population]({{ site.baseurl }}/plots/us_population.png)](https://fred.stlouisfed.org/series/POPTHM)
+<iframe src=\"/interactive/us_population.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 Data retrieved from the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org)
 
