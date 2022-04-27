@@ -7,7 +7,8 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 
 ## Champaign County
 
-[![Unemployment Rate]({{ site.baseurl }}/plots/champaign_unemployment_rate.png)](https://fred.stlouisfed.org/series/ILCHAM9URN)
+<iframe src="/interactive/champaign_unemployment_rate.html" width="100%" height="300"> 
+</iframe>
 
 [![Employment]({{ site.baseurl }}/plots/champaign_employment.png)](https://fred.stlouisfed.org/series/LAUCN170190000000005)
 

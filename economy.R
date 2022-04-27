@@ -38,7 +38,9 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_xAxis(title = "") %>%
   hc_add_theme(
     hc_theme_bloom()
-  )
+  )%>%
+  hc_rangeSelector(enabled = TRUE) %>%
+  hc_navigator(enabled = TRUE)
 fig
 saveWidget(widget = fig, file = "interactive/initial_claims.html",
            selfcontained = FALSE,
@@ -118,7 +120,9 @@ fig <- hchart(data, "line", hcaes(x = date,
                  tail(recent_data$short_date,1))) %>%
   hc_add_theme(
     hc_theme_bloom()
-  )
+  )%>%
+  hc_rangeSelector(enabled = TRUE) %>%
+  hc_navigator(enabled = TRUE)
 fig
 saveWidget(widget = fig, file = "interactive/us_unemployment_rate.html",
            selfcontained = FALSE,
@@ -614,7 +618,7 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_xAxis(title = "") %>%
   hc_add_theme(
     hc_theme_bloom()
-  )
+  ) 
 fig
 saveWidget(widget = fig, file = "interactive/us_population.html",
            selfcontained = FALSE,
@@ -651,6 +655,24 @@ unemployment_rate <- ggplot(data = data,
 unemployment_rate
 ggsave("plots/champaign_unemployment_rate.png", plot = unemployment_rate,
        width = 8, height = 8*(628/1200), dpi = 320)
+
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = value)) %>%
+  hc_title(text = "Unemployment Rate") %>%
+  hc_yAxis(title = "") %>%
+  hc_xAxis(title = "") %>%
+  hc_caption(
+    text = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+                 tail(recent_data$short_date,1))) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )%>%
+  hc_rangeSelector(enabled = TRUE) %>%
+  hc_navigator(enabled = TRUE)
+fig
+saveWidget(widget = fig, file = "interactive/champaign_unemployment_rate.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
 
 ## employment -----
 data <- fredr(series_id = "LAUCN170190000000005") %>%
@@ -988,7 +1010,7 @@ fig <- hchart(data, "line", hcaes(x = date,
                                   y = value)) %>%
   hc_title(text = "Flash Index") %>%
   hc_caption(
-    text = paste("Source: <a href = \"https://igpa.uillinois.edu/page/flash-index-archive\">Institute of Government and Public Affairs at the University of Illinois</a>. Latest data:",
+    text = paste("Source: Institute of Government and Public Affairs at the University of Illinois. Latest data:",
                  tail(recent_data$short_date,1)),
     useHTML = TRUE) %>%
   hc_yAxis(title = "",
@@ -1001,7 +1023,9 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_xAxis(title = "") %>%
   hc_add_theme(
     hc_theme_bloom()
-  )
+  )%>%
+  hc_rangeSelector(enabled = TRUE) %>%
+  hc_navigator(enabled = TRUE)
 fig
 saveWidget(widget = fig, file = "interactive/il_flash_index.html",
            selfcontained = FALSE,
@@ -1079,7 +1103,8 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 
 ## Champaign County
 
-[![Unemployment Rate]({{ site.baseurl }}/plots/champaign_unemployment_rate.png)](https://fred.stlouisfed.org/series/ILCHAM9URN)
+<iframe src=\"/interactive/champaign_unemployment_rate.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 [![Employment]({{ site.baseurl }}/plots/champaign_employment.png)](https://fred.stlouisfed.org/series/LAUCN170190000000005)
 
