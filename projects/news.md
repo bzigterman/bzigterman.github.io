@@ -9,24 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:56 AM CT, Apr. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/04/28/world/ukraine-russia-war-news">Live Updates: U.N. Chief Travels to Ukraine After Meeting With Putin</a> NYT: European leaders accused Russia of engaging in blackmail by suspending natural gas supplies to two countries. There are growing fears that the war could spread beyond Ukraine’s borders after days of explosions in Russia. 
+ <p class="updated_time"> 06:17 AM CT, Apr. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/28/world/ukraine-russia-war-news">Live Updates: Biden to Speak on Ukraine as Nations Gird for Long Conflict</a> NYT: President Biden is scheduled to deliver a speech on Thursday morning from the White House. Russia and the West are preparing for a protracted struggle, after Moscow cut off gas supplies to two countries and as the U.S. and allies rush heavy arms to Ukraine. 
+ <p class="updated_time"> 06:07 AM CT, Apr. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61255779?at_medium=RSS&at_campaign=KARANGA">South Korea: Two arrested for leaking military secrets</a> BBC: A businessman and an officer are charged with leaking secrets to a presumed agent from the North. 
  <p class="updated_time"> 05:36 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/asia/india-extreme-heat-wave.html">India’s Extreme Heat Is Expected to Worsen</a> NYT: The Indian subcontinent has recorded above-average temperatures for weeks. Heat-related weather watches or alerts are now in effect for hundreds of millions of people. 
  <p class="updated_time"> 05:33 AM CT, Apr. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61156745?at_medium=RSS&at_campaign=KARANGA">Trevor Reed: Parents overjoyed at release of US Marine in Russia</a> BBC: Held in a Russian prison since 2019, Trevor Reed has landed back in the US. 
+ <p class="updated_time"> 05:21 AM CT, Apr. 28 </p> 
+ <a href="https://www.wsj.com/articles/russia-stops-gas-flow-to-poland-and-bulgaria-deepening-economic-conflict-with-europe-11651054313">Russian Gas Stoppages Spur Europe’s Race for Energy Supplies</a> WSJ: Russian Gas Stoppages Spur Europe’s Race for Energy Supplies 
  <p class="updated_time"> 05:14 AM CT, Apr. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61255423?at_medium=RSS&at_campaign=KARANGA">Sirens ring out in Israel to honour Holocaust victims</a> BBC: Streets came to a standstill as people paused to pay tribute to the millions killed in the Holocaust. 
- <p class="updated_time"> 05:00 AM CT, Apr. 28 </p> 
- <a href="https://www.wsj.com/articles/russia-stops-gas-flow-to-poland-and-bulgaria-deepening-economic-conflict-with-europe-11651054313">Russian Gas Stoppages Spur Europe’s Race for Energy Supplies</a> WSJ: Russian Gas Stoppages Spur Europe’s Race for Energy Supplies 
- <p class="updated_time"> 04:54 AM CT, Apr. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61255779?at_medium=RSS&at_campaign=KARANGA">South Korea: Two arrested for leaking military secrets</a> BBC: A businessman and an officer are charged with leaking secrets to a presumed agent from the North. 
  <p class="updated_time"> 04:43 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/russia-ukraine-gas-flow-europe.html">Ukraine War Impact Widens: Russia Cuts Gas Flow and Vows More Reprisals</a> NYT: New explosions across Ukraine’s borders, Russia’s shut-off of natural gas to two European nations and Moscow’s warning of additional “counterstrikes” pointed to escalating hostilities. 
+ <p class="updated_time"> 04:21 AM CT, Apr. 28 </p> 
+ <a href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494">Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine</a> WSJ: Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine 
  <p class="updated_time"> 04:13 AM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1094609544/colombia-election-candidate-gustavo-petro">He's running to be Colombia's 1st left-wing president. Here's what he plans to do</a> NPR: Colombian presidential candidate Gustavo Petro sits down with NPR and talks about his time in a guerrilla group and proposals to tackle poverty and climate change. 
- <p class="updated_time"> 04:00 AM CT, Apr. 28 </p> 
- <a href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494">Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine</a> WSJ: Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine 
  <p class="updated_time"> 04:00 AM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095113387/what-russia-cutting-off-energy-to-poland-and-bulgaria-means-for-the-world">What Russia cutting off energy to Poland and Bulgaria means for the world</a> NPR: It was seen as a way for Russia to prop up its currency and retaliate for Western sanctions, but it could cause global energy prices to spike. One analyst sees it as a warning to the rest of Europe. 
  <p class="updated_time"> 04:00 AM CT, Apr. 28 </p> 
@@ -35,15 +35,15 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61254476?at_medium=RSS&at_campaign=KARANGA">War in Ukraine absurd and evil, says UN chief</a> BBC: Antonio Guterres addresses reporters outside a wreckage of apartment blocks north west of Kyiv. 
  <p class="updated_time"> 03:45 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/ukraine-russia-war-flood-infrastructure.html">Ukrainians Flood Village of Demydiv to Keep Russians at Bay</a> NYT: The waters that poured into Demydiv were one of many instances of Ukraine wreaking havoc on its own territory to slow Russia’s advance. Residents couldn’t be happier. “We saved Kyiv,” one said. 
- <p class="updated_time"> 03:00 AM CT, Apr. 28 </p> 
+ <p class="updated_time"> 03:21 AM CT, Apr. 28 </p> 
  <a href="https://www.wsj.com/articles/russias-economic-data-dont-reflect-impact-of-ukraine-war-and-western-sanctions-11651085516">Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions</a> WSJ: Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions 
  <p class="updated_time"> 03:00 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/climate/deforestation-tree-loss.html">Deforestation Is High, Despite COP26 Promises</a> NYT: Brazil had the largest share of tree loss last year, followed by the Democratic Republic of Congo and Bolivia. Indonesia showed improvement. 
- <p class="updated_time"> 02:00 AM CT, Apr. 28 </p> 
+ <p class="updated_time"> 02:21 AM CT, Apr. 28 </p> 
  <a href="https://www.wsj.com/articles/eu-targets-hungarys-funding-amid-russia-sanctions-fight-11651069702">EU Targets Hungary’s Funding Amid Russia Sanctions Fight</a> WSJ: EU Targets Hungary’s Funding Amid Russia Sanctions Fight 
  <p class="updated_time"> 01:46 AM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095186509/a-political-reckoning-in-sri-lanka-as-economic-crisis-grows">A political reckoning in Sri Lanka as economic crisis grows</a> NPR: The ongoing protests highlight the dramatic fall of Sri Lanka's most powerful political dynasty in decades to a family grasping to retain power. 
- <p class="updated_time"> 01:00 AM CT, Apr. 28 </p> 
+ <p class="updated_time"> 01:21 AM CT, Apr. 28 </p> 
  <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 12:01 AM CT, Apr. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61248436?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Ukrainians deported to Russia beaten and mistreated</a> BBC: One man says he was captured and taken over the border, where he was blindfolded and beaten. 
@@ -204,6 +204,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:00 AM CT, Apr. 28 </p> 
+ <a href="https://www.nytimes.com/2022/04/28/technology/open-internet.html">U.S. and more than 55 other countries pledge to keep an open internet.</a> NYT: The document, which isn’t legally binding, aims to be a reference “for public policymakers, as well as citizens, businesses and civil society organizations.” 
  <p class="updated_time"> 04:13 AM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095196800/plans-by-florida-republicans-to-end-disney-worlds-special-status-may-not-be-lega">Plans by Florida Republicans to end Disney World's special status may not be legal</a> NPR: A pledge by Florida's governor to end Disney World's status as an independent district may not be easy to carry out. A law may prevent the governor from dissolving the independent district. 
  <p class="updated_time"> 04:13 AM CT, Apr. 28 </p> 
@@ -302,8 +304,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/27/elizabeth-warren-midterm-elections-00028068">Warren tries to 'light the fire of urgency' for Democrats</a> Politico: The Massachusetts progressive is going all-out to try to push her party to emerge from a morass of bad polling and stalled priorities before Election Day. 
  <p class="updated_time"> 09:42 PM CT, Apr. 26 </p> 
  <a href="https://www.cnn.com/2022/04/26/politics/mark-meadows-texts-scott-perry-key-role-overturn-election/index.html">Meadows' texts reveal new details about the key role a little-known GOP congressman played in efforts to overturn election  </a> CNN: Newly obtained text messages and recent court filings fill in significant gaps about the key role a little-known Pennsylvania Republican congressman played at almost every turn in scheming to reverse or delay certification of the 2020 election. 
- <p class="updated_time"> 08:28 PM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/2022/04/26/us/politics/kamala-harris-positive-coronavirus.html">Vice President Kamala Harris Tests Positive for Covid-19</a> NYT: While Kamala Harris had not seen President Biden for eight days, her positive test renewed concerns about his vulnerability to the virus. 
  <p class="updated_time"> 08:12 PM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/us/politics/kay-ivey-trump-alabama.html">Kay Ivey Races to the Right in Alabama Governor Race</a> NYT: The governor has a conservative track record, but in the face of a primary challenge, she is increasingly wading into divisive cultural issues. 
  <p class="updated_time"> 07:06 PM CT, Apr. 26 </p> 
