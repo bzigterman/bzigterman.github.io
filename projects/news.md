@@ -9,20 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:18 AM CT, Apr. 28 </p> 
+ <p class="updated_time"> 09:15 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/04/28/world/ukraine-russia-war-news">Live Updates: Biden to Speak on Ukraine as Nations Gird for Long Conflict</a> NYT: President Biden is scheduled to deliver a speech on Thursday morning from the White House. Russia and the West are preparing for a protracted struggle, after Moscow cut off gas supplies to two countries and as the U.S. and allies rush heavy arms to Ukraine. 
+ <p class="updated_time"> 09:03 AM CT, Apr. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61228558?at_medium=RSS&at_campaign=KARANGA">Egypt criticised after singers jailed for belly dancing video</a> BBC: Human rights groups criticise a court that convicted the two stars of "violating family values". 
+ <p class="updated_time"> 09:02 AM CT, Apr. 28 </p> 
+ <a href="https://www.nytimes.com/2022/04/28/world/europe/france-socialists-republicains.html">Are Traditional Political Parties Dead in France?</a> NYT: Presidents, prime ministers, Parliament — France’s mainstream left and right-wing parties used to have it all. In the first round of April’s presidential elections, they got less than 7 percent of the vote. 
+ <p class="updated_time"> 08:54 AM CT, Apr. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61257846?at_medium=RSS&at_campaign=KARANGA">German energy giant Uniper gives in to Russian rouble demand</a> BBC: Uniper is preparing to buy Russian gas using a payment system that critics say will undermine EU sanctions. 
+ <p class="updated_time"> 08:51 AM CT, Apr. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61260511?at_medium=RSS&at_campaign=KARANGA">US to seize and sell Russian oligarchs' property</a> BBC: The White House wants to seize and freeze more assets, and transfer their proceeds to Ukraine. 
+ <p class="updated_time"> 08:45 AM CT, Apr. 28 </p> 
+ <a href="https://www.nytimes.com/2022/04/28/world/americas/el-salvador-bukele-gangs.html">In El Salvador, the President Cracks Down on Civil Liberties</a> NYT: Much of the country’s population is willing to tolerate an autocratic leader, if it means that someone will finally solve their most pressing problem: gang violence. 
+ <p class="updated_time"> 08:19 AM CT, Apr. 28 </p> 
+ <a href="https://www.wsj.com/articles/russia-stops-gas-flow-to-poland-and-bulgaria-deepening-economic-conflict-with-europe-11651054313">Russian Gas Stoppages Spur Europe’s Race for Energy Supplies</a> WSJ: Russian Gas Stoppages Spur Europe’s Race for Energy Supplies 
  <p class="updated_time"> 08:15 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/asia/afghanistan-iran-refugees-migrants.html">Tensions Flare Between Neighbors After Afghan Man Kills Iranian Clerics</a> NYT: The attack led to ethnic tensions in both countries, which each sent troops to the border. 
  <p class="updated_time"> 08:14 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/un-antonio-guterres-kyiv.html">Top U.N. Official Tours Kyiv, Declaring the War ‘An Absurdity’  </a> NYT: António Guterres’ goals include securing evacuation routes for besieged civilians and supporting the prosecution of war crimes. 
- <p class="updated_time"> 07:50 AM CT, Apr. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61260511?at_medium=RSS&at_campaign=KARANGA">US to seize and sell Russian oligarchs' property</a> BBC: The White House wants to seize and freeze more assets, and transfer their proceeds to Ukraine. 
- <p class="updated_time"> 07:30 AM CT, Apr. 28 </p> 
- <a href="https://www.wsj.com/articles/russia-stops-gas-flow-to-poland-and-bulgaria-deepening-economic-conflict-with-europe-11651054313">Russian Gas Stoppages Spur Europe’s Race for Energy Supplies</a> WSJ: Russian Gas Stoppages Spur Europe’s Race for Energy Supplies 
- <p class="updated_time"> 07:17 AM CT, Apr. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-61257846?at_medium=RSS&at_campaign=KARANGA">German energy giant Uniper gives in to Russian rouble demand</a> BBC: Uniper is preparing to buy Russian gas using a payment system that critics say will undermine EU sanctions. 
- <p class="updated_time"> 06:30 AM CT, Apr. 28 </p> 
+ <p class="updated_time"> 07:19 AM CT, Apr. 28 </p> 
  <a href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494">Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine</a> WSJ: Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine 
+ <p class="updated_time"> 06:20 AM CT, Apr. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61256213?at_medium=RSS&at_campaign=KARANGA">Iran executions: Alarming rise in use of death penalty in 2021 - report</a> BBC: At least 333 people were put to death, a 25% increase compared with 2020, two campaign groups say. 
+ <p class="updated_time"> 06:19 AM CT, Apr. 28 </p> 
+ <a href="https://www.wsj.com/articles/russias-economic-data-dont-reflect-impact-of-ukraine-war-and-western-sanctions-11651085516">Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions</a> WSJ: Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions 
  <p class="updated_time"> 06:18 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/asia/north-korea-crypto-spy-arrest.html">South Korea Arrests 2 Accused of Spying for North Korea</a> NYT: The men were paid in cryptocurrency by a man suspected of being a North Korean spy agent, the South Korean national police agency said. 
  <p class="updated_time"> 06:07 AM CT, Apr. 28 </p> 
@@ -31,26 +41,22 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/28/world/asia/india-extreme-heat-wave.html">India’s Extreme Heat Is Expected to Worsen</a> NYT: The Indian subcontinent has recorded above-average temperatures for weeks. Heat-related weather watches or alerts are now in effect for hundreds of millions of people. 
  <p class="updated_time"> 05:33 AM CT, Apr. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61156745?at_medium=RSS&at_campaign=KARANGA">Trevor Reed: Parents overjoyed at release of US Marine in Russia</a> BBC: Held in a Russian prison since 2019, Trevor Reed has landed back in the US. 
- <p class="updated_time"> 05:30 AM CT, Apr. 28 </p> 
- <a href="https://www.wsj.com/articles/russias-economic-data-dont-reflect-impact-of-ukraine-war-and-western-sanctions-11651085516">Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions</a> WSJ: Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions 
+ <p class="updated_time"> 05:19 AM CT, Apr. 28 </p> 
+ <a href="https://www.wsj.com/articles/eu-targets-hungarys-funding-amid-russia-sanctions-fight-11651069702">EU Targets Hungary’s Funding Amid Russia Sanctions Fight</a> WSJ: EU Targets Hungary’s Funding Amid Russia Sanctions Fight 
  <p class="updated_time"> 05:14 AM CT, Apr. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61255423?at_medium=RSS&at_campaign=KARANGA">Sirens ring out in Israel to honour Holocaust victims</a> BBC: Streets came to a standstill as people paused to pay tribute to the millions killed in the Holocaust. 
  <p class="updated_time"> 04:43 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/russia-ukraine-gas-flow-europe.html">Ukraine War Impact Widens: Russia Cuts Gas Flow and Vows More Reprisals</a> NYT: New explosions across Ukraine’s borders, Russia’s shut-off of natural gas to two European nations and Moscow’s warning of additional “counterstrikes” pointed to escalating hostilities. 
- <p class="updated_time"> 04:30 AM CT, Apr. 28 </p> 
- <a href="https://www.wsj.com/articles/eu-targets-hungarys-funding-amid-russia-sanctions-fight-11651069702">EU Targets Hungary’s Funding Amid Russia Sanctions Fight</a> WSJ: EU Targets Hungary’s Funding Amid Russia Sanctions Fight 
+ <p class="updated_time"> 04:19 AM CT, Apr. 28 </p> 
+ <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 04:13 AM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1094609544/colombia-election-candidate-gustavo-petro">He's running to be Colombia's 1st left-wing president. Here's what he plans to do</a> NPR: Colombian presidential candidate Gustavo Petro sits down with NPR and talks about his time in a guerrilla group and proposals to tackle poverty and climate change. 
  <p class="updated_time"> 04:00 AM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095113387/what-russia-cutting-off-energy-to-poland-and-bulgaria-means-for-the-world">What Russia cutting off energy to Poland and Bulgaria means for the world</a> NPR: It was seen as a way for Russia to prop up its currency and retaliate for Western sanctions, but it could cause global energy prices to spike. One analyst sees it as a warning to the rest of Europe. 
- <p class="updated_time"> 04:00 AM CT, Apr. 28 </p> 
- <a href="https://www.nytimes.com/2022/04/28/world/americas/el-salvador-bukele-gangs.html">In El Salvador, the President Cracks Down on Civil Liberties</a> NYT: Much of the country’s population is willing to tolerate an autocratic leader, if it means that someone will finally solve their most pressing problem: gang violence. 
  <p class="updated_time"> 03:57 AM CT, Apr. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61254476?at_medium=RSS&at_campaign=KARANGA">War in Ukraine absurd and evil, says UN chief</a> BBC: Antonio Guterres addresses reporters outside a wreckage of apartment blocks north west of Kyiv. 
  <p class="updated_time"> 03:45 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/ukraine-russia-war-flood-infrastructure.html">Ukrainians Flood Village of Demydiv to Keep Russians at Bay</a> NYT: The waters that poured into Demydiv were one of many instances of Ukraine wreaking havoc on its own territory to slow Russia’s advance. Residents couldn’t be happier. “We saved Kyiv,” one said. 
- <p class="updated_time"> 03:30 AM CT, Apr. 28 </p> 
- <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 03:00 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/climate/deforestation-tree-loss.html">Deforestation Is High, Despite COP26 Promises</a> NYT: Brazil had the largest share of tree loss last year, followed by the Democratic Republic of Congo and Bolivia. Indonesia showed improvement. 
  <p class="updated_time"> 01:46 AM CT, Apr. 28 </p> 
@@ -82,7 +88,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:12 PM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61097386?at_medium=RSS&at_campaign=KARANGA">The deadly accordion wars of Lesotho</a> BBC: Rivalry between stars of Famo, a popular style of music in Lesotho, has sparked years of gang warfare. 
  <p class="updated_time"> 06:54 PM CT, Apr. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61240499?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Russia gas supply cuts 'blackmail', says EU</a> BBC: Russian energy giant Gazprom cuts supply to Poland and Bulgaria for refusal to pay in roubles. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61240499?at_medium=RSS&at_campaign=KARANGA">Russia gas supply cuts blackmail, says EU</a> BBC: Russian energy giant Gazprom cuts supply to Poland and Bulgaria for refusal to pay in roubles. 
  <p class="updated_time"> 06:07 PM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61227552?at_medium=RSS&at_campaign=KARANGA">Do you want to find out how much your colleagues earn?</a> BBC: Driven by demand from their staff a growing number of companies are introducing transparency on pay. 
  <p class="updated_time"> 06:07 PM CT, Apr. 27 </p> 
@@ -131,16 +137,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-politics-61247254?at_medium=RSS&at_campaign=KARANGA">Critically endangered monkey born in Colombian zoo</a> BBC: A cotton-top tamarin monkey has made its first public appearance at Cali Zoo in Colombia. 
  <p class="updated_time"> 11:01 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/climate/reptiles-extinction-biodiversity.html">20 Percent of Reptiles Risk Extinction, From King Cobras to Geckos</a> NYT: The first global analysis of its kind found that logging and farming are taking away reptile habitat at an unsustainable pace, exacerbating a worldwide decline in biodiversity. 
- <p class="updated_time"> 10:35 AM CT, Apr. 27 </p> 
- <a href="https://www.bbc.co.uk/news/61243038?at_medium=RSS&at_campaign=KARANGA">Naftali Bennett: Israeli PM to pay for family's food after criticism</a> BBC: Naftali Bennett will now cover the $7,400 monthly bill, which he insists was within the rules. 
  <p class="updated_time"> 10:18 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/singapore-execution-disability.html">Singapore Executes Drug Smuggler Despite Concerns Over Mental Disability</a> NYT: Defense lawyers had argued that the Malaysian man should not be executed because he was not fully capable of understanding his actions and had been coerced. 
  <p class="updated_time"> 10:14 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/ukraine-refugees-us-gallup-poll.html">Americans’ Support for Admitting Refugees Hits Record, Poll Finds</a> NYT: Gallup reported the record high after its new poll found that 78 percent of adults in the United States approve of allowing up to 100,000 Ukrainian refugees into the country. 
  <p class="updated_time"> 09:45 AM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1094995330/putin-gas-rubles-poland-bulgaria">Russia halts gas exports to Poland and Bulgaria, hitting back at Europe over sanctions</a> NPR: The move was widely seen as an effort to prop up the ruble and strike back at Europe amid an onslaught of Western penalties levied against Russian banks. 
- <p class="updated_time"> 09:36 AM CT, Apr. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61241880?at_medium=RSS&at_campaign=KARANGA">Colombia conflict: Soldiers passed off killed civilians as rebels</a> BBC: More than 6,400 civilians were killed by the Colombian military and passed off as enemy combatants. 
  <p class="updated_time"> 09:12 AM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1094999989/former-u-s-marine-trevor-reed-freed-from-russia-in-prisoner-swap">Former U.S. Marine Trevor Reed freed from Russia in prisoner swap</a> NPR: A former U.S. Marine is on his way back to the United States after being released from Russian detention. Trevor Reed's release was part of a prisoner swap between the U.S. and Russia. 
  <p class="updated_time"> 08:19 AM CT, Apr. 27 </p> 
@@ -206,14 +208,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:14 AM CT, Apr. 28 </p> 
+ <p class="updated_time"> 08:49 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/us/politics/gun-shops-weapons-resell.html">6 Gun Shops, 11,000 ‘Crime Guns’: A Rare Peek at the Pipeline</a> NYT: In Philadelphia, the most comprehensive study in decades found a handful of dealers selling a huge number of guns used illegally. A House panel is uncovering similar patterns elsewhere. 
  <p class="updated_time"> 07:54 AM CT, Apr. 28 </p> 
  <a href="https://www.politico.com/news/2022/04/28/us-economy-shrank-consumers-spending-00028521">U.S. economy shrank by 1.4 percent in Q1 but consumers kept spending</a> Politico: The steady spending suggested the economy could keep expanding this year even though the Federal Reserve plans to raise rates aggressively to fight the inflation surge. 
  <p class="updated_time"> 07:22 AM CT, Apr. 28 </p> 
  <a href="https://www.cnn.com/2022/04/28/politics/ukraine-war-world-costs-analysis/index.html">How the widening war in Ukraine will cost the world </a> CNN: The vicious epicenter of the war in Ukraine now rests in the scorched cities of the east and the south. But the conflict's reverberations are widening in a way that will leave few people on Earth -- from small-town America to poverty-stricken Africa -- untouched. 
  <p class="updated_time"> 06:00 AM CT, Apr. 28 </p> 
- <a href="https://www.nytimes.com/2022/04/28/technology/open-internet.html">U.S. and more than 55 other countries pledge to keep an open internet.</a> NYT: The document, which isn’t legally binding, aims to be a reference “for public policymakers, as well as citizens, businesses and civil society organizations.” 
+ <a href="https://www.nytimes.com/2022/04/28/technology/open-internet.html">U.S. and More Than 55 Other Countries Pledge to Keep an Open Internet</a> NYT: The document, which isn’t legally binding, aims to be a reference “for public policymakers, as well as citizens, businesses and civil society organizations.” 
  <p class="updated_time"> 04:13 AM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095196835/12-months-after-an-fbi-raid-how-much-legal-trouble-does-rudy-giuliani-face">12 months after an FBI raid, how much legal trouble does Rudy Giuliani face? </a> NPR: One year after the raid on Rudy Giuliani's home and office, we look at his career from prosecutor, to mayor, to Donald Trump's lawyer, to target of an investigation by the office he used to lead. 
  <p class="updated_time"> 04:13 AM CT, Apr. 28 </p> 
@@ -225,7 +227,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:01 AM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1094288815/two-democratic-progressives-plot-new-ways-to-fight-back-against-republican-gains">Two Democratic progressives plot new ways to fight back against Republican gains</a> NPR: Reps. Khanna and Raskin say Democrats should reclaim issues of patriotism, stay out of the political correctness business and improve their dialogue on racial divisions to reach out to all Americans. 
  <p class="updated_time"> 04:00 AM CT, Apr. 28 </p> 
- <a href="https://www.npr.org/2022/04/28/1095115181/dhs-secretary-mayorkas-faces-a-partisan-divide-over-title-42-in-capitol-hill-hea">DHS Secretary Mayorkas faces a partisan divide over Title 42 in Capitol Hill hearings</a> NPR: Homeland Security Secretary Alejandro Mayorkas testifies today before the House Judiciary Committee where he's expected to face another heated round of questioning on Title 42. 
+ <a href="https://www.npr.org/2022/04/28/1095115181/dhs-secretary-mayorkas-faces-a-partisan-divide-over-title-42-in-capitol-hill-hea">DHS Secretary Mayorkas faces a partisan divide over Title 42 in Capitol Hill hearings</a> NPR: Homeland Security Secretary Alejandro Mayorkas testifies before the House Judiciary Committee, where he's expected to face another heated round of questioning on Title 42. 
  <p class="updated_time"> 04:00 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/us/politics/labor-unions-ohio-democrats.html">Labor’s Disenchantment in Ohio Puts Even Democratic Veterans at Risk</a> NYT: As unions decline and their members maintain their affections for Donald J. Trump, Democrats like Representative Marcy Kaptur find their base of support eroding quickly. 
  <p class="updated_time"> 03:31 AM CT, Apr. 28 </p> 
