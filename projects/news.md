@@ -9,20 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:42 PM CT, Apr. 27 </p> 
+ <p class="updated_time"> 09:22 PM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/us/politics/ambassador-richard-olson-qatar-lobbying.html">Former U.S. Ambassador to Plead Guilty to Illegal Lobbying and Hiding Gifts</a> NYT: Richard Olson lobbied for the government of Qatar soon after retiring and took gifts from a businessman while serving as ambassador to Pakistan, according to prosecutors. 
+ <p class="updated_time"> 08:56 PM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-stops-gas-flow-to-poland-and-bulgaria-deepening-economic-conflict-with-europe-11651054313">Russian Gas Stoppages Spur Europe’s Race for Energy Supplies</a> WSJ: Russian Gas Stoppages Spur Europe’s Race for Energy Supplies 
+ <p class="updated_time"> 08:53 PM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/27/world/ukraine-russia-war-news">Ukraine Live Updates: War’s Effects Widen as Russia Vows More Reprisals</a> NYT: The Kremlin halted natural gas shipments to Poland and Bulgaria in its toughest response yet to European sanctions. Explosions inside Russia near the Ukraine border raised fears that the war might spread. 
+ <p class="updated_time"> 07:56 PM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494">Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine</a> WSJ: Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine 
+ <p class="updated_time"> 07:31 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/us/politics/ukraine-war-expansion.html">Fears Mount That Ukraine War Will Become a Broader Conflict</a> NYT: American and European officials say their concern is based in part on a growing conviction that the war will not end any time soon. 
+ <p class="updated_time"> 07:25 PM CT, Apr. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61245177?at_medium=RSS&at_campaign=KARANGA">Viewpoint: The privilege of being the child of immigrants</a> BBC: Maher Mezahi reflects on moving between his two "home countries" - Algeria and Canada. 
+ <p class="updated_time"> 07:23 PM CT, Apr. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61235777?at_medium=RSS&at_campaign=KARANGA">Denial of bail is silencing Hong Kong's democrats</a> BBC: Pre-trial detention under China's security law aims to break the will of those accused, critics say. 
+ <p class="updated_time"> 07:22 PM CT, Apr. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61241849?at_medium=RSS&at_campaign=KARANGA">Why the West is reckoning with caste bias now</a> BBC: As caste discrimination gains visibility in the US, Indian-Americans grapple with their privilege. 
+ <p class="updated_time"> 07:21 PM CT, Apr. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61076349?at_medium=RSS&at_campaign=KARANGA">What Singapore's move to legalise egg freezing says about its society</a> BBC: Singapore is set to lift a ban on egg freezing, but only married couples will be able to access their eggs. 
+ <p class="updated_time"> 07:12 PM CT, Apr. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61097386?at_medium=RSS&at_campaign=KARANGA">The deadly accordion wars of Lesotho</a> BBC: Rivalry between stars of Famo, a popular style of music in Lesotho, has sparked years of gang warfare. 
+ <p class="updated_time"> 07:00 PM CT, Apr. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61156745?at_medium=RSS&at_campaign=KARANGA">Trevor Reed: Parents overjoyed at release of US Marine in Russia</a> BBC: Held in a Russian prison since 2019, Trevor Reed is safely on his way back to the US. 
+ <p class="updated_time"> 06:56 PM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/russias-economic-data-dont-reflect-impact-of-ukraine-war-and-western-sanctions-11651085516">Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions</a> WSJ: Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions 
+ <p class="updated_time"> 06:54 PM CT, Apr. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61240499?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Russia gas supply cuts 'blackmail', says EU</a> BBC: Russian energy giant Gazprom cuts supply to Poland and Bulgaria for refusal to pay in roubles. 
+ <p class="updated_time"> 06:07 PM CT, Apr. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61227552?at_medium=RSS&at_campaign=KARANGA">Do you want to find out how much your colleagues earn?</a> BBC: Driven by demand from their staff a growing number of companies are introducing transparency on pay. 
  <p class="updated_time"> 06:07 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/ukraine-russia-war-flood-infrastructure.html">Ukrainians Flood Village of Demydiv to Keep Russians at Bay</a> NYT: The waters that poured into Demydiv were one of many instances of Ukraine wreaking havoc on its own territory to slow Russia’s advance. Residents couldn’t be happier. “We saved Kyiv,” one said. 
- <p class="updated_time"> 06:07 PM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/2022/04/27/us/politics/ambassador-richard-olson-qatar-lobbying.html">Former U.S. Ambassador to Plead Guilty to Illegal Lobbying and Hiding Gifts</a> NYT: Richard Olson lobbied for the government of Qatar soon after retiring and took gifts from a businessman while serving as ambassador to Pakistan, according to prosecutors. 
  <p class="updated_time"> 06:07 PM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61251308?at_medium=RSS&at_campaign=KARANGA">Ukrainians flock to get patriotic tattoos</a> BBC: People headed to the front line, and their supporters, are having the country's war with Russia memorialise. 
  <p class="updated_time"> 06:03 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/americas/colombia-war-crimes.html">Colombian General and 10 Others Admit to Crimes Against Humanity</a> NYT: In the first hearing of its kind, officials admitted to orchestrating extrajudicial killings. But victims asked for more. “We know that there are powerful people behind you,” said one woman. “We need names.” 
- <p class="updated_time"> 06:00 PM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/04/27/world/ukraine-russia-war-news">Ukraine Live Updates: War’s Effects Widen as Russia Vows More Reprisals</a> NYT: The Kremlin halted natural gas shipments to Poland and Bulgaria in its toughest response yet to European sanctions. Explosions inside Russia near the Ukraine border raised fears that the war might spread. 
- <p class="updated_time"> 05:59 PM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-stops-gas-flow-to-poland-and-bulgaria-deepening-economic-conflict-with-europe-11651054313">Russian Gas Stoppages Spur Europe’s Race for Energy Supplies</a> WSJ: Russian Gas Stoppages Spur Europe’s Race for Energy Supplies 
+ <p class="updated_time"> 05:56 PM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/eu-targets-hungarys-funding-amid-russia-sanctions-fight-11651069702">EU Targets Hungary’s Funding Amid Russia Sanctions Fight</a> WSJ: EU Targets Hungary’s Funding Amid Russia Sanctions Fight 
  <p class="updated_time"> 05:54 PM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61252320?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin warns against foreign intervention</a> BBC: Russia's president says any nation meddling in the Ukraine war will face a "lightning-fast" response. 
  <p class="updated_time"> 05:44 PM CT, Apr. 27 </p> 
@@ -31,20 +53,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/27/world/americas/debanhi-escobar-mexico.html">A Woman’s Disappearance Sparks Outrage in Mexico Over Gender Violence</a> NYT: The case of Debanhi Escobar, 18, in Monterrey has ignited a national outcry over the government’s failure to deliver justice for missing women. 
  <p class="updated_time"> 05:16 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/trevor-reed-russia-prisoner-swap.html">Russia Releases Trevor Reed, Former U.S. Marine, in Prisoner Swap</a> NYT: Trevor Reed had been detained since 2019, after he was accused of assaulting and endangering the lives of two police officers. 
- <p class="updated_time"> 04:59 PM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494">Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine</a> WSJ: Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine 
+ <p class="updated_time"> 04:56 PM CT, Apr. 27 </p> 
+ <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 04:25 PM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1095100365/tennis-legend-martina-navratilova-talks-about-wimbledons-ban-on-russian-players">Tennis legend Martina Navratilova talks about Wimbledon's ban on Russian players</a> NPR: NPR's Rob Schmitz talks with nine-time Wimbledon singles champion Martina Navratilova about why she's upset about Wimbledon's decision to ban Russian tennis players. 
  <p class="updated_time"> 04:21 PM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1095100358/germany-to-send-anti-aircraft-systems-to-ukraine-despite-worry-of-provoking-conf">Germany to send anti-aircraft systems to Ukraine, despite worry of provoking conflict</a> NPR: Germany says it will send anti-aircraft systems to Ukraine — a decision that breaks with Berlin's traditional refusal to export heavy weapons to war zones. 
- <p class="updated_time"> 04:11 PM CT, Apr. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61156745?at_medium=RSS&at_campaign=KARANGA">Trevor Reed: US Marine released in prisoner swap with Russia</a> BBC: Held in a Russian prison since 2019, Trevor Reed is safely on his way back to the US. 
  <p class="updated_time"> 04:08 PM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1095100304/after-atrocities-many-ukrainians-arent-interested-in-negotiating-peace-with-russ">After atrocities, many Ukrainians aren't interested in negotiating peace with Russia</a> NPR: For many Ukrainians, there can be no negotiated peace with Russia. Evidence and accounts of atrocities committed by Russian forces have left them unwilling to consider a diplomatic solution. 
  <p class="updated_time"> 04:03 PM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1095025059/russia-ukraine-war-what-happened-today-april-27">Russia-Ukraine war: What happened today (April 27)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:59 PM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/russias-economic-data-dont-reflect-impact-of-ukraine-war-and-western-sanctions-11651085516">Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions</a> WSJ: Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions 
  <p class="updated_time"> 03:35 PM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1095100311/kuwaiti-bidoons-went-on-hunger-strike-for-19-days-has-anything-changed">Kuwaiti Bidoons went on hunger strike for 19 days. Has anything changed?</a> NPR: For 19 days, activists have camped outside a police station in Sulaibiya, Kuwait, on hunger strike. They're asking the Kuwaiti government for citizenship. 
  <p class="updated_time"> 03:35 PM CT, Apr. 27 </p> 
@@ -57,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/26/world/europe/explosions-transnistria-moldova-war.html">Explosions in Separatist Region of Moldova Raise Fears of Wider War</a> NYT: The blasts in Transnistria, a region bordering Ukraine that is run by Russia-backed separatists, have fueled talk of Moldova being dragged into the war. 
  <p class="updated_time"> 03:00 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/covid-hot-spot-new-york-counties.html">The Largest U.S. Coronavirus Hot Spot Swells Beyond Central New York</a> NYT: Health experts say that people in the hot spot, which includes cities like Buffalo, Rochester and Syracuse, should be increasing their precautions. 
- <p class="updated_time"> 02:59 PM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/eu-targets-hungarys-funding-amid-russia-sanctions-fight-11651069702">EU Targets Hungary’s Funding Amid Russia Sanctions Fight</a> WSJ: EU Targets Hungary’s Funding Amid Russia Sanctions Fight 
  <p class="updated_time"> 02:33 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/covid-britain-hospital-patients-nursing-homes.html">Britain Broke the Law by Moving Hospital Patients to Nursing Homes Early in Pandemic, Court Rules</a> NYT: The court’s ruling came in a lawsuit brought by two women whose fathers died in nursing homes in 2020. 
  <p class="updated_time"> 02:24 PM CT, Apr. 27 </p> 
@@ -67,12 +83,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61248809?at_medium=RSS&at_campaign=KARANGA">Bitcoin becomes official currency in Central African Republic</a> BBC: The Central Africa Republic is one of the world's poorest countries, and is a close Russian ally. 
  <p class="updated_time"> 02:16 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/italy-children-surnames-mother-father.html">Italian Children to Be Given Mother’s and Father’s Surnames, Court Rules</a> NYT: The ruling overturns decades of patriarchal family legacy, which largely left women out of the decision-making process. 
- <p class="updated_time"> 01:59 PM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 01:37 PM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1094873072/russia-ukraine-war-chechen-leader-ramzan-kadyrov">Chechnya once resisted Russia. Now, its leader is Putin's brutal ally in Ukraine</a> NPR: Chechen leader Ramzan Kadyrov has long been seen as a key ally to Russian President Vladimir Putin. That commitment has now extended to the war in Ukraine. 
- <p class="updated_time"> 01:15 PM CT, Apr. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61240499?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Russia trying to divide allies using gas - Poland</a> BBC: Russian energy giant Gazprom cuts supply to Poland and Bulgaria for refusal to pay in roubles. 
  <p class="updated_time"> 12:34 PM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61250667?at_medium=RSS&at_campaign=KARANGA">Boeing: Plane-maker reveals losses from Trump Air Force One deal</a> BBC: The US plane-maker reveals costs from the deal former US President Donald Trump renegotiated. 
  <p class="updated_time"> 12:25 PM CT, Apr. 27 </p> 
@@ -149,8 +161,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/world/europe/emmanuel-macron-france-reelection-reinvention.html">Emmanuel Macron Tries to Reinvent Himself After Re-election</a> NYT: France seems in search of a kinder, gentler, greener President Macron. He says he will listen. 
  <p class="updated_time"> 06:34 PM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/russia-poland-natural-gas.html">Russia Cuts Off a Major Supply of Natural Gas to Poland</a> NYT: The moves are Moscow’s first open targeting of Europe with denial of energy. 
- <p class="updated_time"> 06:12 PM CT, Apr. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61233582?at_medium=RSS&at_campaign=KARANGA">Unqualified Botox, filler and laser 'doctors' revealed in Egypt</a> BBC: A BBC News investigation has exposed serious flaws in the Egyptian beauty industry that are endangering lives and leaving women scarred for life. 
  <p class="updated_time"> 06:09 PM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61216157?at_medium=RSS&at_campaign=KARANGA">Nigeria's illegal oil refineries: Dirty, dangerous, lucrative</a> BBC: A look into the murky business of the stolen oil, days after a deadly refining accident. 
  <p class="updated_time"> 05:51 PM CT, Apr. 26 </p> 
@@ -171,38 +181,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/26/world/asia/china-covid-beijing-shanghai.html">China’s Covid Strategy: Test Most Residents in Beijing Amid Lockdown Fears</a> NYT: China’s capital reported 22 cases as it kicked off an ambitious mandatory testing campaign across the city and reassured residents that food and other supplies were plentiful. 
  <p class="updated_time"> 02:03 PM CT, Apr. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-61237116?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… Finland, Nato and Russia</a> BBC: Ros Atkins looks why Nato’s border with Russia looks likely to expand significantly. 
- <p class="updated_time"> 01:24 PM CT, Apr. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61217999?at_medium=RSS&at_campaign=KARANGA">Darfur: Why are Sudan's Janjaweed on the attack again?</a> BBC: Two decades since the conflict began, deadly raids by Arab militia are becoming more frequent. 
  <p class="updated_time"> 10:31 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/canada/canadas-atlantic-provinces-covid-masks.html">As Mask Mandates End, Canada’s Atlantic Provinces See Rise in Covid Cases</a> NYT: Once relatively shielded from the virus transmission waves that flooded the rest of Canada, coronavirus infections are rising in the easternmost provinces. 
  <p class="updated_time"> 10:22 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/tony-blair-russia-ukraine-event.html">Tony Blair on Russia’s War in Ukraine: A Virtual Event</a> NYT: The former British prime minister will speak with Peter Baker of The New York Times on May 2. 
- <p class="updated_time"> 09:41 AM CT, Apr. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-60783874?at_medium=RSS&at_campaign=KARANGA">Why India's oil purchases from Russia are growing</a> BBC: Imports of cheaper Russian oil by India are rising, despite calls for Delhi to help isolate Russia economically. 
  <p class="updated_time"> 09:26 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/middleeast/dubai-jewish-community.html">Baking Challah in Dubai: A Jewish Community Heads Out Into the Open</a> NYT: The increasing openness of Jewish life in the Persian Gulf emirate of Dubai is another sign of an emerging new reality in the Middle East, where Israel’s isolation by the Arab world is ebbing. 
  <p class="updated_time"> 07:31 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/americas/kenneth-roth-human-rights-watch.html">Kenneth Roth, ‘Godfather’ of Human Rights Work, to Step Down</a> NYT: Mr. Roth joined Human Rights Watch when it was a fledgling organization. It has expanded into one of the most influential human rights advocacy groups. 
  <p class="updated_time"> 06:19 AM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/french-presidential-election-le-pen-macron.html">Convincing Victory Disguises  Challenges for France’s Macron</a> NYT: France’s runoff election was marked by a record level of abstention, and many cast a ballot only to keep the far right from power — a testament to a growing disillusionment. 
- <p class="updated_time"> 12:03 AM CT, Apr. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61220296?at_medium=RSS&at_campaign=KARANGA">The border village where rockets litter roads</a> BBC: Yogita Limaye visits a Ukrainian village on the border of Russia and Belarus that has been torn apart by war. 
  <p class="updated_time"> 09:40 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/ukraine-russia-war-us.html">Emboldened by Ukraine’s Grit, U.S. Wants to See Russia Weakened</a> NYT: Hours after the American secretaries of defense and state met with Ukraine’s president in Kyiv, Russia hit at least five Ukrainian railway stations in rocket attacks. 
  <p class="updated_time"> 08:25 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/politics/ukraine-ambassador-embassy-biden.html">Biden Picks Bridget Brink to Be Ambassador to Ukraine</a> NYT: The U.S. Embassy, which closed just before Russia’s invasion, could reopen “over a couple of weeks,” Secretary of State Antony Blinken said. 
- <p class="updated_time"> 07:24 PM CT, Apr. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61212761?at_medium=RSS&at_campaign=KARANGA">How a Japanese boat trip ended in tragedy</a> BBC: A catalogue of errors appears to have led to the sinking of a boat carrying sightseers off northern Japan. 
- <p class="updated_time"> 06:07 PM CT, Apr. 25 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61213761?at_medium=RSS&at_campaign=KARANGA">Viola Davis responds to critics of her Michelle Obama portrayal</a> BBC: The actress had been criticised by viewers for overly pursing her lips when playing Michelle Obama. 
  <p class="updated_time"> 06:06 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/us/politics/ukraine-russia-us-dynamic.html">How the U.S. Is Shifting Its Approach on Russia’s War in Ukraine</a> NYT: The United States is edging toward a dynamic that pits Washington more directly against Moscow, and one that U.S. officials see as likely to play out for years. 
  <p class="updated_time"> 06:02 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/explosions-transnistria-moldova-ukraine.html">Explosions Hit Transnistria, a Region of Moldova in Ukraine</a> NYT: No injuries were reported in the area that has a large ethnic Russian population. 
  <p class="updated_time"> 02:50 PM CT, Apr. 25 </p> 
  <a href="https://www.nytimes.com/2022/04/25/world/europe/macron-le-pen-orban.html">Macron’s Win Is Also a Blow to Orban’s Nationalist Crusade in Europe</a> NYT: The Hungarian leader had cast his own victory as the start of a nationalist wave in Europe — one that Marine Le Pen would have joined. Instead, Mr. Macron’s victory in France is a win for the European Union’s approach. 
- <p class="updated_time"> 02:00 PM CT, Apr. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61217528?at_medium=RSS&at_campaign=KARANGA">Ukraine: Facing the Russian Army on the front line in Donbas</a> BBC: Ukrainian forces have been holding the line in Donbas since 2014, but what was sporadic fighting has now turned into a full-blown war. 
 
 
 </details>
@@ -210,14 +208,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:42 PM CT, Apr. 27 </p> 
+ <p class="updated_time"> 09:23 PM CT, Apr. 27 </p> 
+ <a href="https://www.politico.com/news/2022/04/27/moderna-authorize-covid-19-vaccine-kids-00028481">Moderna to ask FDA to authorize Covid-19 vaccine for young kids</a> Politico: The request comes a month after the drug company signaled its two-dose regimen generated immune protection in the youngest children comparable to young adults. 
+ <p class="updated_time"> 09:22 PM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/us/politics/ambassador-richard-olson-qatar-lobbying.html">Former U.S. Ambassador to Plead Guilty to Illegal Lobbying and Hiding Gifts</a> NYT: Richard Olson lobbied for the government of Qatar soon after retiring and took gifts from a businessman while serving as ambassador to Pakistan, according to prosecutors. 
+ <p class="updated_time"> 08:36 PM CT, Apr. 27 </p> 
+ <a href="https://www.politico.com/news/2022/04/27/trump-endorses-lombardo-in-nevadas-governor-race-00028473">Trump endorses Lombardo in Nevada's governor race</a> Politico: Republicans are seeking to topple Gov. Steve Sisolak. 
+ <p class="updated_time"> 07:31 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/us/politics/ukraine-war-expansion.html">Fears Mount That Ukraine War Will Become a Broader Conflict</a> NYT: American and European officials say their concern is based in part on a growing conviction that the war will not end any time soon. 
+ <p class="updated_time"> 07:17 PM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/us/politics/cawthorn-gun-charge-capitol.html">After Cawthorn Charge, Democrats Are Split Over Capitol Gun Ban</a> NYT: The first-term congressman’s second gun charge fueled a push by House Democrats to bar lawmakers from carrying firearms at the Capitol. But they say Senate Democrats are resisting the move. 
+ <p class="updated_time"> 07:16 PM CT, Apr. 27 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/us/politics/alex-jones-bankrupt.html">Facing Judgment, Alex Jones Pleads for Help From the ‘Deep State’</a> NYT: Scrambling to shield a fortune built on misinformation, the Infowars broadcaster is seeking legal protection from the federal government he scorns. 
  <p class="updated_time"> 06:28 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/us/politics/madeleine-albright-memorial.html">At Madeleine Albright’s Service, a Reminder of the Fight for Freedom</a> NYT: The former secretary of state, who died last month, was honored at Washington National Cathedral as America faces the kind of struggle between democracy and autocracy that she warned about. 
  <p class="updated_time"> 06:15 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/us/politics/democrats-mallory-mcmorrow-cultural-issues.html">Democrats Ask if They Should Hit Back Harder Against the G.O.P.</a> NYT: Many of the party’s voters are hungry for their candidates to go on offense against Republican cultural attacks, even if it puts them on less comfortable political terrain. 
- <p class="updated_time"> 06:07 PM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/2022/04/27/us/politics/ambassador-richard-olson-qatar-lobbying.html">Former U.S. Ambassador to Plead Guilty to Illegal Lobbying and Hiding Gifts</a> NYT: Richard Olson lobbied for the government of Qatar soon after retiring and took gifts from a businessman while serving as ambassador to Pakistan, according to prosecutors. 
  <p class="updated_time"> 05:19 PM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1095064301/grand-jury-investigating-trump-is-expected-to-expire-by-friday-sources-say">Grand jury investigating Trump is expected to expire by Friday, sources say</a> NPR: A spokeswoman for Manhattan District Attorney Alvin Bragg declined to comment, pointing to Bragg's statement from this month that "There is no magic at all to any previously reported dates." 
  <p class="updated_time"> 05:16 PM CT, Apr. 27 </p> 
@@ -281,15 +287,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, Apr. 27 </p> 
  <a href="https://www.politico.com/news/2022/04/27/muslim-voter-turnout-2020-00028078">Muslim voter turnout grew in 2020</a> Politico: Nearly three-quarters of registered Muslim Americans voted in 2020, according to a new report. 
  <p class="updated_time"> 03:30 AM CT, Apr. 27 </p> 
- <a href="https://www.politico.com/news/2022/04/27/elizabeth-warren-midterm-elections-00028068">Warren tries to 'light the fire of urgency' for Democrats</a> Politico: The Massachusetts progressive is going all-out to try to push her party to emerge from a morass of bad polling and stalled priorities before Election Day. 
- <p class="updated_time"> 03:30 AM CT, Apr. 27 </p> 
  <a href="https://www.politico.com/news/2022/04/27/congressional-redistricting-court-challenges-00027946">This year’s House battlefield is almost locked in. The next decade is still wide open.</a> Politico: Operatives expect the fight over district lines to extend over the next decade as courts continue hearing challenges to new maps. 
  <p class="updated_time"> 03:30 AM CT, Apr. 27 </p> 
- <a href="https://www.politico.com/news/2022/04/27/california-lawmakers-retreat-vaccine-fight-00027280">California lawmakers retreat from vaccine fight</a> Politico: Until recently, the state looked ready to reprise its familiar role on vaccine requirements. 
- <p class="updated_time"> 03:30 AM CT, Apr. 27 </p> 
  <a href="https://www.politico.com/news/2022/04/27/providers-end-covid-care-uninsured-congression-inaction-00027988">‘It's insanity’: Providers end Covid care for uninsured in the wake of congressional inaction</a> Politico: Less access could also prolong the pandemic, allowing the virus to circulate and perhaps provide a haven for new, more dangerous variants. 
- <p class="updated_time"> 01:24 AM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/2022/04/26/us/politics/covid-infections-ashish-jha.html">White House Covid Czar Says Avoiding All Virus Cases Isn’t U.S. Policy Goal</a> NYT: The more important reflections of progress, Dr. Ashish K. Jha said, would be whether health care systems are strained, and whether people are hospitalized with and dying from Covid-19. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 27 </p> 
+ <a href="https://www.politico.com/news/2022/04/27/elizabeth-warren-midterm-elections-00028068">Warren tries to 'light the fire of urgency' for Democrats</a> Politico: The Massachusetts progressive is going all-out to try to push her party to emerge from a morass of bad polling and stalled priorities before Election Day. 
  <p class="updated_time"> 09:42 PM CT, Apr. 26 </p> 
  <a href="https://www.cnn.com/2022/04/26/politics/mark-meadows-texts-scott-perry-key-role-overturn-election/index.html">Meadows' texts reveal new details about the key role a little-known GOP congressman played in efforts to overturn election  </a> CNN: Newly obtained text messages and recent court filings fill in significant gaps about the key role a little-known Pennsylvania Republican congressman played at almost every turn in scheming to reverse or delay certification of the 2020 election. 
  <p class="updated_time"> 08:28 PM CT, Apr. 26 </p> 
@@ -302,12 +304,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/26/us/politics/ohio-senate-race-trump.html">Ohio Senate Race Pits Trump and Son Against Big G.O.P. Group</a> NYT: The Club for Growth has lined up behind Josh Mandel. Donald J. Trump and his eldest son, Donald Jr., are backing J.D. Vance. Tuesday’s outcome will be a crucial test of the former president’s sway. 
  <p class="updated_time"> 05:56 PM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/us/politics/gitmo-youngest-detainee.html">Youngest Guantánamo Detainee Is Cleared for Release</a> NYT: Hassan bin Attash, who has been held since 2002 without charge, now needs a transfer deal. His brother, also at Guantánamo, is accused of conspiring in the Sept. 11 attacks. 
+ <p class="updated_time"> 05:53 PM CT, Apr. 26 </p> 
+ <a href="https://www.politico.com/news/2022/04/26/musks-contentious-history-on-twitter-in-tweets-00027902">Musk's contentious history on Twitter, in tweets</a> Politico: The world's richest person has used the platform to poke politicians and test his legal boundaries. 
  <p class="updated_time"> 05:03 PM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/us/politics/madison-cawthorn-gun-airport.html">Madison Cawthorn Brought a Loaded Gun to the Airport Again, Officials Say</a> NYT: Mr. Cawthorn, 26, a pro-Trump North Carolina congressman, was cited for possession of a dangerous weapon on city property, police in Charlotte said. 
  <p class="updated_time"> 04:41 PM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/kevin-mccarthy-donald-trump-tape-00027986">McCarthy’s Trump tape was a ’nothingburger.’ Can the House GOP shrug off more audio?</a> Politico: Republicans mostly shrugged off their leader's contortions over a recorded suggestion that the then-president resign, but Rep. Matt Gaetz called McCarthy "weak." 
- <p class="updated_time"> 04:32 PM CT, Apr. 26 </p> 
- <a href="https://www.nytimes.com/2022/04/26/us/politics/jan-6-trial-thomas-webster.html">Jan. 6 Trial Begins for Thomas Webster, Former N.Y.P.D. Officer</a> NYT: A onetime member of Mayor Michael R. Bloomberg’s security detail is accused of assaulting a Washington police officer during the Capitol riot. 
  <p class="updated_time"> 04:06 PM CT, Apr. 26 </p> 
  <a href="https://www.npr.org/2022/04/26/1094870364/a-civil-war-era-measure-could-keep-rep-marjorie-taylor-greene-off-the-ballot">A Civil War-era measure could keep Rep. Marjorie Taylor Greene off the ballot</a> NPR: Liberal activists are hoping to use part of the 14th Amendment to the Constitution to keep Rep. Marjorie Taylor Greene off the ballot in Georgia. We look at the history of the provision. 
  <p class="updated_time"> 03:58 PM CT, Apr. 26 </p> 
