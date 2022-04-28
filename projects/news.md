@@ -9,36 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:16 AM CT, Apr. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/28/world/ukraine-russia-war-news">Live Updates: U.N. Chief Travels to Ukraine After Meeting With Putin</a> NYT: European leaders accused Russia of engaging in blackmail by suspending natural gas supplies to two countries. There are growing fears that the war could spread beyond Ukraine’s borders after days of explosions in Russia. 
+ <p class="updated_time"> 05:14 AM CT, Apr. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61255423?at_medium=RSS&at_campaign=KARANGA">Sirens ring out in Israel to honour Holocaust victims</a> BBC: Streets came to a standstill as people paused to pay tribute to the millions killed in the Holocaust. 
  <p class="updated_time"> 04:54 AM CT, Apr. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/04/27/world/ukraine-russia-war-news">What Happened on Day 63 of the War in Ukraine</a> NYT: The Kremlin halted natural gas shipments to Poland and Bulgaria in its toughest response yet to European sanctions. Explosions inside Russia near the Ukraine border raised fears that the war might spread. 
+ <a href="https://www.bbc.co.uk/news/world-asia-61255779?at_medium=RSS&at_campaign=KARANGA">South Korea: Two arrested for leaking military secrets</a> BBC: A businessman and an officer are charged with leaking secrets to a presumed agent from the North. 
  <p class="updated_time"> 04:43 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/russia-ukraine-gas-flow-europe.html">Ukraine War Impact Widens: Russia Cuts Gas Flow and Vows More Reprisals</a> NYT: New explosions across Ukraine’s borders, Russia’s shut-off of natural gas to two European nations and Moscow’s warning of additional “counterstrikes” pointed to escalating hostilities. 
+ <p class="updated_time"> 04:30 AM CT, Apr. 28 </p> 
+ <a href="https://www.wsj.com/articles/russia-stops-gas-flow-to-poland-and-bulgaria-deepening-economic-conflict-with-europe-11651054313">Russian Gas Stoppages Spur Europe’s Race for Energy Supplies</a> WSJ: Russian Gas Stoppages Spur Europe’s Race for Energy Supplies 
  <p class="updated_time"> 04:13 AM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1094609544/colombia-election-candidate-gustavo-petro">He's running to be Colombia's 1st left-wing president. Here's what he plans to do</a> NPR: Colombian presidential candidate Gustavo Petro sits down with NPR and talks about his time in a guerrilla group and proposals to tackle poverty and climate change. 
  <p class="updated_time"> 04:00 AM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095113387/what-russia-cutting-off-energy-to-poland-and-bulgaria-means-for-the-world">What Russia cutting off energy to Poland and Bulgaria means for the world</a> NPR: It was seen as a way for Russia to prop up its currency and retaliate for Western sanctions, but it could cause global energy prices to spike. One analyst sees it as a warning to the rest of Europe. 
  <p class="updated_time"> 04:00 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/americas/el-salvador-bukele-gangs.html">In El Salvador, the President Cracks Down on Civil Liberties</a> NYT: Much of the country’s population is willing to tolerate an autocratic leader, if it means that someone will finally solve their most pressing problem: gang violence. 
- <p class="updated_time"> 03:59 AM CT, Apr. 28 </p> 
- <a href="https://www.wsj.com/articles/russia-stops-gas-flow-to-poland-and-bulgaria-deepening-economic-conflict-with-europe-11651054313">Russian Gas Stoppages Spur Europe’s Race for Energy Supplies</a> WSJ: Russian Gas Stoppages Spur Europe’s Race for Energy Supplies 
  <p class="updated_time"> 03:57 AM CT, Apr. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61254476?at_medium=RSS&at_campaign=KARANGA">War in Ukraine absurd and evil, says UN chief</a> BBC: Antonio Guterres addresses reporters outside a wreckage of apartment blocks north west of Kyiv. 
  <p class="updated_time"> 03:45 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/ukraine-russia-war-flood-infrastructure.html">Ukrainians Flood Village of Demydiv to Keep Russians at Bay</a> NYT: The waters that poured into Demydiv were one of many instances of Ukraine wreaking havoc on its own territory to slow Russia’s advance. Residents couldn’t be happier. “We saved Kyiv,” one said. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 28 </p> 
+ <a href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494">Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine</a> WSJ: Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine 
  <p class="updated_time"> 03:00 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/climate/deforestation-tree-loss.html">Deforestation Is High, Despite COP26 Promises</a> NYT: Brazil had the largest share of tree loss last year, followed by the Democratic Republic of Congo and Bolivia. Indonesia showed improvement. 
- <p class="updated_time"> 02:59 AM CT, Apr. 28 </p> 
- <a href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494">Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine</a> WSJ: Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine 
- <p class="updated_time"> 01:59 AM CT, Apr. 28 </p> 
+ <p class="updated_time"> 02:30 AM CT, Apr. 28 </p> 
  <a href="https://www.wsj.com/articles/russias-economic-data-dont-reflect-impact-of-ukraine-war-and-western-sanctions-11651085516">Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions</a> WSJ: Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions 
  <p class="updated_time"> 01:46 AM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095186509/a-political-reckoning-in-sri-lanka-as-economic-crisis-grows">A political reckoning in Sri Lanka as economic crisis grows</a> NPR: The ongoing protests highlight the dramatic fall of Sri Lanka's most powerful political dynasty in decades to a family grasping to retain power. 
- <p class="updated_time"> 12:59 AM CT, Apr. 28 </p> 
+ <p class="updated_time"> 01:30 AM CT, Apr. 28 </p> 
  <a href="https://www.wsj.com/articles/eu-targets-hungarys-funding-amid-russia-sanctions-fight-11651069702">EU Targets Hungary’s Funding Amid Russia Sanctions Fight</a> WSJ: EU Targets Hungary’s Funding Amid Russia Sanctions Fight 
+ <p class="updated_time"> 12:30 AM CT, Apr. 28 </p> 
+ <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 12:01 AM CT, Apr. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61248436?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Ukrainians deported to Russia beaten and mistreated</a> BBC: One man says he was captured and taken over the border, where he was blindfolded and beaten. 
- <p class="updated_time"> 11:59 PM CT, Apr. 27 </p> 
- <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 11:01 PM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61242341?at_medium=RSS&at_campaign=KARANGA">Heatwave in India leaves millions struggling to cope</a> BBC: Experts say India is now recording more intense, frequent heatwaves that are also longer in duration. 
  <p class="updated_time"> 10:34 PM CT, Apr. 27 </p> 
@@ -117,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/27/climate/reptiles-extinction-biodiversity.html">20 Percent of Reptiles Risk Extinction, From King Cobras to Geckos</a> NYT: The first global analysis of its kind found that logging and farming are taking away reptile habitat at an unsustainable pace, exacerbating a worldwide decline in biodiversity. 
  <p class="updated_time"> 10:35 AM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/61243038?at_medium=RSS&at_campaign=KARANGA">Naftali Bennett: Israeli PM to pay for family's food after criticism</a> BBC: Naftali Bennett will now cover the $7,400 monthly bill, which he insists was within the rules. 
- <p class="updated_time"> 10:25 AM CT, Apr. 27 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-61221666?at_medium=RSS&at_campaign=KARANGA">Nature loss: Insatiable greed degrading land around the world - UN</a> BBC: Modern agriculture and consumption patterns have devalued around 40% of global lands, according to the UN. 
  <p class="updated_time"> 10:18 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/singapore-execution-disability.html">Singapore Executes Drug Smuggler Despite Concerns Over Mental Disability</a> NYT: Defense lawyers had argued that the Malaysian man should not be executed because he was not fully capable of understanding his actions and had been coerced. 
  <p class="updated_time"> 10:14 AM CT, Apr. 27 </p> 
@@ -167,8 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/25/world/europe/emmanuel-macron-france-reelection-reinvention.html">Emmanuel Macron Tries to Reinvent Himself After Re-election</a> NYT: France seems in search of a kinder, gentler, greener President Macron. He says he will listen. 
  <p class="updated_time"> 06:34 PM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/world/europe/russia-poland-natural-gas.html">Russia Cuts Off a Major Supply of Natural Gas to Poland</a> NYT: The moves are Moscow’s first open targeting of Europe with denial of energy. 
- <p class="updated_time"> 05:51 PM CT, Apr. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-61238941?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Statue symbolic of Ukraine-Russia friendship destroyed</a> BBC: A statue that once represented friendship between the two countries is pulled down in Kyiv. 
  <p class="updated_time"> 04:32 PM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/business/shanghai-volunteers-covid.html">Amid Virus Chaos, Shanghai Residents Band Together</a> NYT: As the authorities in China’s biggest city fight to stamp out an Omicron outbreak, neighbors are turning to one another for support. 
  <p class="updated_time"> 02:50 PM CT, Apr. 26 </p> 
@@ -206,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:13 AM CT, Apr. 28 </p> 
+ <a href="https://www.npr.org/2022/04/28/1095196772/morning-news-brief">News brief: Russia cuts gas exports, Title 42 hearing, GDP preview</a> NPR: Moscow cut off all energy supplies to Poland and Bulgaria. A federal judge blocks Title 42, a pandemic immigration policy, from being rolled back. New economic data is released Thursday morning. 
  <p class="updated_time"> 04:09 AM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/04/28/1094807567/orrin-hatch-health-policy">Sen. Orrin Hatch's legacy tracks the GOP's evolution on health</a> NPR: The man who forged successful alliances with Democratic health giants, such as Sen. Kennedy and Rep. Waxman, fell back on his deep conservative roots as opposition grew to the Affordable Care Act. 
  <p class="updated_time"> 04:01 AM CT, Apr. 28 </p> 
@@ -312,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/26/us/politics/gitmo-youngest-detainee.html">Youngest Guantánamo Detainee Is Cleared for Release</a> NYT: Hassan bin Attash, who has been held since 2002 without charge, now needs a transfer deal. His brother, also at Guantánamo, is accused of conspiring in the Sept. 11 attacks. 
  <p class="updated_time"> 04:41 PM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/kevin-mccarthy-donald-trump-tape-00027986">McCarthy’s Trump tape was a ’nothingburger.’ Can the House GOP shrug off more audio?</a> Politico: Republicans mostly shrugged off their leader's contortions over a recorded suggestion that the then-president resign, but Rep. Matt Gaetz called McCarthy "weak." 
- <p class="updated_time"> 04:06 PM CT, Apr. 26 </p> 
- <a href="https://www.npr.org/2022/04/26/1094870364/a-civil-war-era-measure-could-keep-rep-marjorie-taylor-greene-off-the-ballot">A Civil War-era measure could keep Rep. Marjorie Taylor Greene off the ballot</a> NPR: Liberal activists are hoping to use part of the 14th Amendment to the Constitution to keep Rep. Marjorie Taylor Greene off the ballot in Georgia. We look at the history of the provision. 
  <p class="updated_time"> 03:37 PM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/cawthorn-loaded-gun-north-carolina-airport-00027950">Cawthorn cited for having loaded gun in North Carolina airport</a> Politico: It is not the first time the embattled Republican lawmaker was found to have a weapon before boarding a plane. 
  <p class="updated_time"> 03:06 PM CT, Apr. 26 </p> 
