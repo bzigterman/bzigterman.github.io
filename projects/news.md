@@ -9,33 +9,35 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:54 AM CT, Apr. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/27/world/ukraine-russia-war-news">What Happened on Day 63 of the War in Ukraine</a> NYT: The Kremlin halted natural gas shipments to Poland and Bulgaria in its toughest response yet to European sanctions. Explosions inside Russia near the Ukraine border raised fears that the war might spread. 
+ <p class="updated_time"> 04:43 AM CT, Apr. 28 </p> 
+ <a href="https://www.nytimes.com/2022/04/27/world/europe/russia-ukraine-gas-flow-europe.html">Ukraine War Impact Widens: Russia Cuts Gas Flow and Vows More Reprisals</a> NYT: New explosions across Ukraine’s borders, Russia’s shut-off of natural gas to two European nations and Moscow’s warning of additional “counterstrikes” pointed to escalating hostilities. 
  <p class="updated_time"> 04:13 AM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1094609544/colombia-election-candidate-gustavo-petro">He's running to be Colombia's 1st left-wing president. Here's what he plans to do</a> NPR: Colombian presidential candidate Gustavo Petro sits down with NPR and talks about his time in a guerrilla group and proposals to tackle poverty and climate change. 
  <p class="updated_time"> 04:00 AM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095113387/what-russia-cutting-off-energy-to-poland-and-bulgaria-means-for-the-world">What Russia cutting off energy to Poland and Bulgaria means for the world</a> NPR: It was seen as a way for Russia to prop up its currency and retaliate for Western sanctions, but it could cause global energy prices to spike. One analyst sees it as a warning to the rest of Europe. 
  <p class="updated_time"> 04:00 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/americas/el-salvador-bukele-gangs.html">In El Salvador, the President Cracks Down on Civil Liberties</a> NYT: Much of the country’s population is willing to tolerate an autocratic leader, if it means that someone will finally solve their most pressing problem: gang violence. 
+ <p class="updated_time"> 03:59 AM CT, Apr. 28 </p> 
+ <a href="https://www.wsj.com/articles/russia-stops-gas-flow-to-poland-and-bulgaria-deepening-economic-conflict-with-europe-11651054313">Russian Gas Stoppages Spur Europe’s Race for Energy Supplies</a> WSJ: Russian Gas Stoppages Spur Europe’s Race for Energy Supplies 
  <p class="updated_time"> 03:57 AM CT, Apr. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61254476?at_medium=RSS&at_campaign=KARANGA">War in Ukraine absurd and evil, says UN chief</a> BBC: Antonio Guterres addresses reporters outside a wreckage of apartment blocks north west of Kyiv. 
- <p class="updated_time"> 03:48 AM CT, Apr. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/04/27/world/ukraine-russia-war-news">What Happened on Day 63 of the War in Ukraine</a> NYT: The Kremlin halted natural gas shipments to Poland and Bulgaria in its toughest response yet to European sanctions. Explosions inside Russia near the Ukraine border raised fears that the war might spread. 
  <p class="updated_time"> 03:45 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/ukraine-russia-war-flood-infrastructure.html">Ukrainians Flood Village of Demydiv to Keep Russians at Bay</a> NYT: The waters that poured into Demydiv were one of many instances of Ukraine wreaking havoc on its own territory to slow Russia’s advance. Residents couldn’t be happier. “We saved Kyiv,” one said. 
- <p class="updated_time"> 03:32 AM CT, Apr. 28 </p> 
- <a href="https://www.wsj.com/articles/russia-stops-gas-flow-to-poland-and-bulgaria-deepening-economic-conflict-with-europe-11651054313">Russian Gas Stoppages Spur Europe’s Race for Energy Supplies</a> WSJ: Russian Gas Stoppages Spur Europe’s Race for Energy Supplies 
  <p class="updated_time"> 03:00 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/climate/deforestation-tree-loss.html">Deforestation Is High, Despite COP26 Promises</a> NYT: Brazil had the largest share of tree loss last year, followed by the Democratic Republic of Congo and Bolivia. Indonesia showed improvement. 
- <p class="updated_time"> 02:32 AM CT, Apr. 28 </p> 
+ <p class="updated_time"> 02:59 AM CT, Apr. 28 </p> 
  <a href="https://www.wsj.com/articles/russia-suffers-another-fire-at-a-supply-depot-as-its-ukraine-offensive-pushes-west-11651057494">Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine</a> WSJ: Russia Suffers Another Fire at a Supply Depot as It Advances in Eastern Ukraine 
+ <p class="updated_time"> 01:59 AM CT, Apr. 28 </p> 
+ <a href="https://www.wsj.com/articles/russias-economic-data-dont-reflect-impact-of-ukraine-war-and-western-sanctions-11651085516">Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions</a> WSJ: Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions 
  <p class="updated_time"> 01:46 AM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095186509/a-political-reckoning-in-sri-lanka-as-economic-crisis-grows">A political reckoning in Sri Lanka as economic crisis grows</a> NPR: The ongoing protests highlight the dramatic fall of Sri Lanka's most powerful political dynasty in decades to a family grasping to retain power. 
- <p class="updated_time"> 01:32 AM CT, Apr. 28 </p> 
- <a href="https://www.wsj.com/articles/russias-economic-data-dont-reflect-impact-of-ukraine-war-and-western-sanctions-11651085516">Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions</a> WSJ: Russia’s New Economic Data Is Inconsistent on Impact of War and Sanctions 
- <p class="updated_time"> 12:32 AM CT, Apr. 28 </p> 
+ <p class="updated_time"> 12:59 AM CT, Apr. 28 </p> 
  <a href="https://www.wsj.com/articles/eu-targets-hungarys-funding-amid-russia-sanctions-fight-11651069702">EU Targets Hungary’s Funding Amid Russia Sanctions Fight</a> WSJ: EU Targets Hungary’s Funding Amid Russia Sanctions Fight 
  <p class="updated_time"> 12:01 AM CT, Apr. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61248436?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Ukrainians deported to Russia beaten and mistreated</a> BBC: One man says he was captured and taken over the border, where he was blindfolded and beaten. 
- <p class="updated_time"> 11:32 PM CT, Apr. 27 </p> 
+ <p class="updated_time"> 11:59 PM CT, Apr. 27 </p> 
  <a href="https://www.wsj.com/articles/myanmars-aung-san-suu-kyi-sentenced-to-five-more-years-in-prison-11651051263">Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison</a> WSJ: Myanmar’s Aung San Suu Kyi Sentenced to Five More Years in Prison 
  <p class="updated_time"> 11:01 PM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61242341?at_medium=RSS&at_campaign=KARANGA">Heatwave in India leaves millions struggling to cope</a> BBC: Experts say India is now recording more intense, frequent heatwaves that are also longer in duration. 
@@ -73,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/27/world/americas/colombia-war-crimes.html">Colombian General and 10 Others Admit to Crimes Against Humanity</a> NYT: In the first hearing of its kind, officials admitted to orchestrating extrajudicial killings. But victims asked for more. “We know that there are powerful people behind you,” said one woman. “We need names.” 
  <p class="updated_time"> 05:54 PM CT, Apr. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61252320?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin warns against foreign intervention</a> BBC: Russia's president says any nation meddling in the Ukraine war will face a "lightning-fast" response. 
- <p class="updated_time"> 05:44 PM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/2022/04/27/world/europe/russia-ukraine-gas-flow-europe.html">Ukraine War Impact Widens: Russia Cuts Gas Flow and Vows More Reprisals</a> NYT: New explosions across Ukraine’s borders, Russia’s shut-off of natural gas to two European nations and Moscow’s warning of additional “counterstrikes” pointed to escalating hostilities. 
  <p class="updated_time"> 05:21 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/americas/debanhi-escobar-mexico.html">A Woman’s Disappearance Sparks Outrage in Mexico Over Gender Violence</a> NYT: The case of Debanhi Escobar, 18, in Monterrey has ignited a national outcry over the government’s failure to deliver justice for missing women. 
  <p class="updated_time"> 04:25 PM CT, Apr. 27 </p> 
@@ -214,8 +214,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/28/1095115181/dhs-secretary-mayorkas-faces-a-partisan-divide-over-title-42-in-capitol-hill-hea">DHS Secretary Mayorkas faces a partisan divide over Title 42 in Capitol Hill hearings</a> NPR: Homeland Security Secretary Alejandro Mayorkas testifies today before the House Judiciary Committee where he's expected to face another heated round of questioning on Title 42. 
  <p class="updated_time"> 04:00 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/us/politics/labor-unions-ohio-democrats.html">Labor’s Disenchantment in Ohio Puts Even Democratic Veterans at Risk</a> NYT: As unions decline and their members maintain their affections for Donald J. Trump, Democrats like Representative Marcy Kaptur find their base of support eroding quickly. 
+ <p class="updated_time"> 03:31 AM CT, Apr. 28 </p> 
+ <a href="https://www.politico.com/news/2022/04/28/mccarthy-super-pac-ad-buy-flip-house-00028448">McCarthy-aligned super PAC plans $125M ad buy to win the House</a> Politico: Congressional Leadership Fund's initial ad buy is trained almost exclusively on Democratic-held districts in a bid to flip the majority. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 28 </p> 
+ <a href="https://www.politico.com/news/2022/04/28/cruz-trump-gop-endorsements-senate-00028381">It's Trump vs. Cruz in Ohio and Pa. Senate races</a> Politico: As the former president makes endorsements directly at odds with the Texas senator, there's plenty of GOP intrigue over how that affects those races — and the futures of the once political rivals. 
  <p class="updated_time"> 03:30 AM CT, Apr. 28 </p> 
  <a href="https://www.politico.com/news/2022/04/28/white-houses-ukraine-aid-bid-00028430">White House's Ukraine aid bid heads straight for Hill morass</a> Politico: Congressional jousting over immigration could end up delaying urgently needed help for the war-ravaged nation, despite overwhelming bipartisan support. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 28 </p> 
+ <a href="https://www.politico.com/news/2022/04/28/pro-bernie-endorses-dem-senate-primary-00028474">Pro-Bernie group endorses in key Dem Senate primary</a> Politico: Our Wisconsin Revolution is backing Tom Nelson in the crowded race to take on GOP Sen. Ron Johnson. 
  <p class="updated_time"> 02:00 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/us/politics/lisa-murkowski-alaska.html">Lisa Murkowski Bets Big on the Center in Alaska</a> NYT: The Republican senator is leaning into her centrist credentials and bipartisan ties in her re-election race, hoping that voters will reward moderation as the G.O.P. has lurched to the right. 
  <p class="updated_time"> 11:32 PM CT, Apr. 27 </p> 
@@ -248,8 +254,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/27/1095100297/the-future-of-title-42">The future of Title 42</a> NPR: The future of the pandemic order Title 42 that gave the government power to quickly expel migrants remains in limbo in the courts. DHS Secretary Mayorkas is testifying on Capitol Hill this week. 
  <p class="updated_time"> 04:00 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/theater/potus-review-broadway.html">Review: In ‘POTUS,’ White House Enablers Gone Wild</a> NYT: Seven female farceurs bring Selina Fillinger’s new Broadway comedy about the president’s protectors to life. 
- <p class="updated_time"> 03:58 PM CT, Apr. 27 </p> 
- <a href="https://www.politico.com/news/2022/04/27/multiple-rnc-staffers-have-spoken-to-jan-6-panel-sources-say-00028349">Multiple RNC staffers have spoken to Jan. 6 panel, sources say</a> Politico: House investigators have questions about the party’s messaging and fundraising in the weeks after the 2020 election. 
  <p class="updated_time"> 03:43 PM CT, Apr. 27 </p> 
  <a href="https://www.politico.com/news/2022/04/27/scalise-and-gaetz-meet-privately-after-tension-over-leaked-audio-00028344">Scalise and Gaetz meet privately after tension over leaked audio</a> Politico: “I said: ‘I'm sorry if this caused you problems,’” the Louisiana Republican told POLITICO after the sitdown with the Florida firebrand. 
  <p class="updated_time"> 03:42 PM CT, Apr. 27 </p> 
@@ -262,8 +266,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/27/meatpacking-ceos-congress-hearing-00028238">Meatpacking CEOs deny anti-competitive accusations during grilling on Capitol Hill</a> Politico: Top executives of the “Big Four” meat conglomerates provided congressional testimony for the first time since the president and some lawmakers accused the companies of unfairly hiking meat prices. 
  <p class="updated_time"> 02:24 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/us/politics/russia-cyberattacks-ukraine.html">Russia Uses Cyberattacks in Ukraine to Support Military Strikes, Report Finds</a> NYT: A new study by Microsoft shows that Russian cyberattacks often happened within days or even hours of missile strikes. 
- <p class="updated_time"> 01:45 PM CT, Apr. 27 </p> 
- <a href="https://www.politico.com/news/2022/04/27/new-yorks-top-court-throws-out-district-lines-and-delays-primary-00028274">New York’s top court throws out district lines and delays primary</a> Politico: The ruling will likely lead to a delay to at least some of the primaries that were due to be held on June 28. 
  <p class="updated_time"> 01:38 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/us/politics/white-house-correspondents-dinner.html">Before White House Correspondents’ Dinner, Lots of Risk-Benefit Calculation</a> NYT: Dr. Anthony S. Fauci will not attend the White House Correspondents’ Association Dinner, but President Biden has concluded it is worth the risk. 
  <p class="updated_time"> 01:13 PM CT, Apr. 27 </p> 
@@ -294,12 +296,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/27/1094970592/morning-news-brief">News brief: Kids' COVID vaccines, Russia-Ukraine war, Rep. Cawthorn cited </a> NPR: CDC data show 3 out of 4 U.S. children have had COVID. The head of the U.N. was in Moscow Tuesday, meeting with Russian President Putin. Rep. Madison Cawthorn cited for a loaded handgun at an airport. 
  <p class="updated_time"> 04:00 AM CT, Apr. 27 </p> 
  <a href="https://www.npr.org/2022/04/27/1094833774/danica-roem-book-burn-the-page">Danica Roem did opposition research on herself. It's one way she reclaimed her story</a> NPR: The Virginia lawmaker is the first openly transgender U.S. state legislator. In her new memoir, she embraces the idea of using what was written about her to empower her to tell her story. 
- <p class="updated_time"> 03:31 AM CT, Apr. 27 </p> 
- <a href="https://www.politico.com/news/2022/04/27/muslim-voter-turnout-2020-00028078">Muslim voter turnout grew in 2020</a> Politico: Nearly three-quarters of registered Muslim Americans voted in 2020, according to a new report. 
  <p class="updated_time"> 03:30 AM CT, Apr. 27 </p> 
  <a href="https://www.politico.com/news/2022/04/27/congressional-redistricting-court-challenges-00027946">This year’s House battlefield is almost locked in. The next decade is still wide open.</a> Politico: Operatives expect the fight over district lines to extend over the next decade as courts continue hearing challenges to new maps. 
- <p class="updated_time"> 03:30 AM CT, Apr. 27 </p> 
- <a href="https://www.politico.com/news/2022/04/27/providers-end-covid-care-uninsured-congression-inaction-00027988">‘It's insanity’: Providers end Covid care for uninsured in the wake of congressional inaction</a> Politico: Less access could also prolong the pandemic, allowing the virus to circulate and perhaps provide a haven for new, more dangerous variants. 
  <p class="updated_time"> 03:30 AM CT, Apr. 27 </p> 
  <a href="https://www.politico.com/news/2022/04/27/elizabeth-warren-midterm-elections-00028068">Warren tries to 'light the fire of urgency' for Democrats</a> Politico: The Massachusetts progressive is going all-out to try to push her party to emerge from a morass of bad polling and stalled priorities before Election Day. 
  <p class="updated_time"> 09:42 PM CT, Apr. 26 </p> 
@@ -312,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/04/26/politics/january-six-meadows-mccarthy-marjorie-taylor-greene/index.html">Here's everything we've learned about January 6 this week (and what comes next)</a> CNN: The farther away we get from January 6, 2021, the more we learn about the circumstances surrounding it. 
  <p class="updated_time"> 05:56 PM CT, Apr. 26 </p> 
  <a href="https://www.nytimes.com/2022/04/26/us/politics/gitmo-youngest-detainee.html">Youngest Guantánamo Detainee Is Cleared for Release</a> NYT: Hassan bin Attash, who has been held since 2002 without charge, now needs a transfer deal. His brother, also at Guantánamo, is accused of conspiring in the Sept. 11 attacks. 
- <p class="updated_time"> 05:53 PM CT, Apr. 26 </p> 
- <a href="https://www.politico.com/news/2022/04/26/musks-contentious-history-on-twitter-in-tweets-00027902">Musk's contentious history on Twitter, in tweets</a> Politico: The world's richest person has used the platform to poke politicians and test his legal boundaries. 
  <p class="updated_time"> 04:41 PM CT, Apr. 26 </p> 
  <a href="https://www.politico.com/news/2022/04/26/kevin-mccarthy-donald-trump-tape-00027986">McCarthy’s Trump tape was a ’nothingburger.’ Can the House GOP shrug off more audio?</a> Politico: Republicans mostly shrugged off their leader's contortions over a recorded suggestion that the then-president resign, but Rep. Matt Gaetz called McCarthy "weak." 
  <p class="updated_time"> 04:06 PM CT, Apr. 26 </p> 
