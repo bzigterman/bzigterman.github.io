@@ -632,7 +632,16 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_xAxis(title = "") %>%
   hc_add_theme(
     hc_theme_bloom()
-  ) 
+  ) %>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 4)# %>%
+#hc_navigator(enabled = TRUE) 
 fig
 saveWidget(widget = fig, file = "interactive/us_population.html",
            selfcontained = FALSE,
@@ -681,8 +690,15 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_add_theme(
     hc_theme_bloom()
   )%>%
-  hc_rangeSelector(enabled = TRUE) %>%
-  hc_navigator(enabled = TRUE)
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 3)# %>%
+#hc_navigator(enabled = TRUE) 
 fig
 saveWidget(widget = fig, file = "interactive/champaign_unemployment_rate.html",
            selfcontained = FALSE,
@@ -800,7 +816,16 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_xAxis(title = "") %>%
   hc_add_theme(
     hc_theme_bloom()
-  )
+  ) %>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 4)# %>%
+#hc_navigator(enabled = TRUE) 
 fig
 saveWidget(widget = fig, file = "interactive/champaign_county_population.html",
            selfcontained = FALSE,
@@ -1038,8 +1063,15 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_add_theme(
     hc_theme_bloom()
   )%>%
-  hc_rangeSelector(enabled = TRUE) %>%
-  hc_navigator(enabled = TRUE)
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 3)# %>%
+#hc_navigator(enabled = TRUE) 
 fig
 saveWidget(widget = fig, file = "interactive/il_flash_index.html",
            selfcontained = FALSE,
@@ -1097,7 +1129,16 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_xAxis(title = "") %>%
   hc_add_theme(
     hc_theme_bloom()
-  )
+  ) %>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 4)# %>%
+#hc_navigator(enabled = TRUE) 
 fig
 saveWidget(widget = fig, file = "interactive/il_population.html",
            selfcontained = FALSE,
