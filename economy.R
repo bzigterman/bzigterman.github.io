@@ -144,11 +144,50 @@ saveWidget(widget = fig, file = "interactive/us_unemployment_rate.html",
 
 
 ## employment -----
-data <- fredr(series_id = "PAYEMS")
+data <- fredr(series_id = "PAYEMS")%>%
+  mutate(change = value - lag(value))
 recent_data <- data %>%
   filter(date > recent_years) %>%
-  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE))) %>%
-  mutate(change = value - lag(value))
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE))) 
+
+fig <- hchart(data,
+              type = "line", 
+              hcaes(x = date,
+                    y = value*1000),
+              name = "Total",
+              yAxis = 0) %>%
+  hc_yAxis_multiples(create_axis(naxis = 2, heights = c(2, 1),
+                                 title = list(text = NULL))) %>%
+  hc_add_series(
+    data = data,
+    hcaes(x = date,
+          y = change*1000),
+    name = "Change",
+    type = "column",
+    yAxis = 1) %>%
+  hc_title(text = "Nonfarm Payroll") %>%
+  hc_caption(
+    text = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+                 tail(recent_data$short_date,1))) %>%
+  hc_tooltip(
+    shared = TRUE
+  ) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) %>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 1)
+
+fig
+saveWidget(widget = fig, file = "interactive/us_employment.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
 
 employment <- ggplot(data, aes(x = date,
                                y = value/1000)) +
@@ -1050,8 +1089,7 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_title(text = "Flash Index") %>%
   hc_caption(
     text = paste("Source: Institute of Government and Public Affairs at the University of Illinois. Latest data:",
-                 tail(recent_data$short_date,1)),
-    useHTML = TRUE) %>%
+                 tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = "",
            plotLines = list(
              list(
@@ -1192,7 +1230,8 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 <iframe src=\"/interactive/us_unemployment_rate.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-[![Employment]({{ site.baseurl }}/plots/employment.png)](https://fred.stlouisfed.org/series/PAYEMS)
+<iframe src=\"/interactive/us_employment.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 [![Disposable Income]({{ site.baseurl }}/plots/disposable_income.png)](https://fred.stlouisfed.org/series/A229RX0)
 
