@@ -169,6 +169,7 @@ fig <- hchart(data,
   hc_caption(
     text = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
+  hc_xAxis(title = list(text = NULL)) %>%
   hc_tooltip(
     shared = TRUE
   ) %>%
@@ -182,7 +183,7 @@ fig <- hchart(data,
                      list(type = 'year', count = 5, text = '5y'),
                      list(type = 'year', count = 10, text = '10y'),
                      list(type = 'all', text = 'All')),
-                   selected = 1)
+                   selected = 2)
 
 fig
 saveWidget(widget = fig, file = "interactive/us_employment.html",
@@ -746,11 +747,12 @@ saveWidget(widget = fig, file = "interactive/champaign_unemployment_rate.html",
 ## employment -----
 data <- fredr(series_id = "LAUCN170190000000005") %>%
   mutate(annual_avg = rollmean(value, k = 12, 
-                               fill = NA, align = "right"))
+                               fill = NA, align = "right")) %>%
+  mutate(change = value - lag(value, n = 12))
+
 recent_data <- data %>%
   filter(date > less_recent_years) %>%
-  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE))) %>%
-  mutate(change = value - lag(value, n = 12))
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
 
 employment <- ggplot(data, aes(x = date)) +
   geom_line(aes(y = value),
@@ -804,6 +806,54 @@ plot_grid(employment, employment_change,
 
 ggsave("plots/champaign_employment.png",
        width = 8, height = 6, dpi = 320)
+
+fig <- hchart(data,
+              type = "line", 
+              hcaes(x = date,
+                    y = value),
+              name = "Total",
+              yAxis = 0) %>%
+  hc_yAxis_multiples(create_axis(naxis = 2, heights = c(2, 1),
+                                 title = list(text = NULL))) %>%
+  hc_add_series(
+    data = data,
+    hcaes(x = date,
+          y = annual_avg),
+    name = "Average",
+    type = "line",
+    yAxis = 0) %>%
+  hc_add_series(
+    data = data,
+    hcaes(x = date,
+          y = change),
+    name = "Change",
+    type = "column",
+    yAxis = 1) %>%
+  hc_title(text = "Nonfarm Payroll") %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_caption(
+    text = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+                 tail(recent_data$short_date,1))) %>%
+  hc_tooltip(
+    shared = TRUE
+  ) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) %>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
+
+fig
+saveWidget(widget = fig, file = "interactive/champaign_employment.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
 
 ## population ----
 data <-fredr(series_id = "ILCHAM9POP")
@@ -1199,7 +1249,8 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 <iframe src=\"/interactive/champaign_unemployment_rate.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-[![Employment]({{ site.baseurl }}/plots/champaign_employment.png)](https://fred.stlouisfed.org/series/LAUCN170190000000005)
+<iframe src=\"/interactive/champaign_employment.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 ### Housing Metrics
 

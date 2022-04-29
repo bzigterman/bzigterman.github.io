@@ -10,7 +10,8 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 <iframe src="/interactive/champaign_unemployment_rate.html" width="100%" height="300"> 
 </iframe>
 
-[![Employment]({{ site.baseurl }}/plots/champaign_employment.png)](https://fred.stlouisfed.org/series/LAUCN170190000000005)
+<iframe src="/interactive/champaign_employment.html" width="100%" height="300"> 
+</iframe>
 
 ### Housing Metrics
 
