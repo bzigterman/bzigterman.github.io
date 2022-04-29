@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:30 AM CT, Apr. 29 </p> 
+ <a href="https://www.nytimes.com/2022/04/29/world/europe/anglo-saxon-kings-diet.html">Anglo-Saxon Kings Made Sure to Eat Their Vegetables, Study Shows</a> NYT: Contrary to popular belief, the ruling classes gorged on meat only on rare occasions, according to an analysis of more than 2,000 skeletons buried during medieval times. 
  <p class="updated_time"> 06:23 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/live/2022/04/29/world/ukraine-russia-war-news">Live Updates: West’s Resolve to Block Russia Grows Amid Fears of a Protracted War</a> NYT: Britain said on Friday it would deploy 8,000 soldiers to Europe to join tens of thousands of troops from NATO countries in exercises meant to deter further Russian aggression. The announcement came a day after President Biden asked Congress to authorize $33 billion more in aid for Ukraine. 
  <p class="updated_time"> 06:12 AM CT, Apr. 29 </p> 
@@ -21,35 +23,35 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61270024?at_medium=RSS&at_campaign=KARANGA">Foul-smelling foam clogs up Colombian town of Mosquera</a> BBC: Detergents dumped in a local river are being linked to the filthy white phenomenon. 
  <p class="updated_time"> 05:44 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61267036?at_medium=RSS&at_campaign=KARANGA">James Corden leaving Late Late Show after eight years</a> BBC: The British comedian and actor turned talk show host announced the decision on Thursday. 
- <p class="updated_time"> 05:27 AM CT, Apr. 29 </p> 
+ <p class="updated_time"> 05:42 AM CT, Apr. 29 </p> 
  <a href="https://www.wsj.com/articles/eurozone-economy-keeps-growing-but-recession-risk-looms-11651225720">Eurozone Economy Keeps Growing but Recession Risk Looms</a> WSJ: Eurozone Economy Keeps Growing but Recession Risk Looms 
  <p class="updated_time"> 05:22 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61270616?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Residents protest after five weeks of strict zero-Covid measures</a> BBC: Some residents have been under strict lockdown for five weeks, and struggled to access food supplies. 
  <p class="updated_time"> 04:43 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095445314/u-s-officials-arrest-british-virgin-islands-premier-on-drug-charges">U.S. officials arrest British Virgin Islands premier on drug charges</a> NPR: The premier, Andrew Fahie, was charged with conspiracy to import cocaine and conspiracy to launder money, according to a criminal complaint. 
+ <p class="updated_time"> 04:42 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/russia-making-slow-progress-in-bid-to-cut-off-ukrainian-forces-11651143367">Biden Seeks New Aid for Ukraine as Russia Makes Slow Progress in Seizing East</a> WSJ: Biden Seeks New Aid for Ukraine as Russia Makes Slow Progress in Seizing East 
  <p class="updated_time"> 04:36 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/on-the-trail-of-russian-war-crimes.html">On the Trail of Russian War Crimes</a> NYT: Lyudmyla Denisova, Ukraine’s top human rights official, is determined to right historical wrongs and make sure Russians are held to account. 
- <p class="updated_time"> 04:27 AM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/russia-making-slow-progress-in-bid-to-cut-off-ukrainian-forces-11651143367">Biden Seeks New Aid for Ukraine as Russia Makes Slow Progress in Seizing East</a> WSJ: Biden Seeks New Aid for Ukraine as Russia Makes Slow Progress in Seizing East 
  <p class="updated_time"> 04:01 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1094891439/ramadan-haleem-hyderabad-india-food">This goat and lentil stew is a beloved Ramadan tradition in Hyderabad, India</a> NPR: The Ramadan fast is usually followed by a feast. In Hyderabad, India, that feast is dominated by haleem, a meat and lentil stew pounded into paste and flavored with rose petals, cinnamon and cardamom. 
  <p class="updated_time"> 04:00 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/asia/south-korea-age-yoon.html">Millions of South Koreans Could Soon Get Younger (on Paper)</a> NYT: South Korea has three ways of calculating age, often adding a year or two to the international standard. The incoming president wants to change that. 
  <p class="updated_time"> 03:42 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ukraine-singles-out-russian-soldiers-for-atrocities-in-bucha.html">Ukraine singles out Russian soldiers for atrocities in Bucha.</a> NYT: In the first detailed set of allegations since the invasion, Ukrainian officials published the names and photos of Russian soldiers they say tortured civilians in a suburb of Kyiv. 
+ <p class="updated_time"> 03:42 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-get-crash-course-on-javelin-missiles-from-u-s-volunteers-11651224602">Ukrainian Forces Get Crash Course on Javelin Missiles from U.S. Volunteers</a> WSJ: Ukrainian Forces Get Crash Course on Javelin Missiles from U.S. Volunteers 
  <p class="updated_time"> 03:33 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61267265?at_medium=RSS&at_campaign=KARANGA">Israel airport chaos as family brings unexploded shell</a> BBC: Chaos erupts as Americans bring a 'souvenir' unexploded shell into Israel's international airport. 
- <p class="updated_time"> 03:27 AM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-get-crash-course-on-javelin-missiles-from-u-s-volunteers-11651224602">Ukrainian Forces Get Crash Course on Javelin Missiles from U.S. Volunteers</a> WSJ: Ukrainian Forces Get Crash Course on Javelin Missiles from U.S. Volunteers 
  <p class="updated_time"> 02:44 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ireland-census-time-capsule.html">Ireland’s Census Collects Time Capsules to Be Opened in 100 Years</a> NYT: The makers of the survey included a space for people to write or draw a message. The contents of these so-called time capsules will be revealed in 100 years. 
- <p class="updated_time"> 02:27 AM CT, Apr. 29 </p> 
+ <p class="updated_time"> 02:42 AM CT, Apr. 29 </p> 
  <a href="https://www.wsj.com/articles/after-russian-retreat-ukraines-farmers-discover-fields-full-of-mines-11651150800">After Russian Retreat, Ukraine’s Farmers Discover Fields Full of Mines</a> WSJ: After Russian Retreat, Ukraine’s Farmers Discover Fields Full of Mines 
  <p class="updated_time"> 02:00 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ukraine-holocaust-survivors-rescue-germany.html">They Survived the Holocaust. Now, They Are Fleeing to Germany.</a> NYT: A complex operation is underway to evacuate Holocaust survivors from Ukraine. For rescuers and evacuees alike, it means confronting the past. 
  <p class="updated_time"> 02:00 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/insider/weighing-risk-when-the-reporting-is-dangerous.html">Weighing Risk When the Reporting Is Dangerous</a> NYT: A security team watches out for Times journalists abroad. There are strategies in place, but sometimes there’s no other choice but to leave a country. 
- <p class="updated_time"> 01:27 AM CT, Apr. 29 </p> 
+ <p class="updated_time"> 01:42 AM CT, Apr. 29 </p> 
  <a href="https://www.wsj.com/articles/turkeys-erdogan-heads-to-saudi-arabia-in-effort-to-thaw-relations-11651159054">Turkish Leader Visits Saudi Arabia to Mend Ties Marred by Khashoggi Killing</a> WSJ: Turkish Leader Visits Saudi Arabia to Mend Ties Marred by Khashoggi Killing 
  <p class="updated_time"> 12:01 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095440624/u-s-soldiers-return-cake-to-italian-woman-for-90th-birthday">U.S. soldiers 'return' cake to Italian woman for 90th birthday</a> NPR: A woman was 13 years old when U.S. soldiers grabbed her birthday cake from a windowsill. 
@@ -191,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/27/arts/design/victoria-reed-museum-of-fine-arts-stolen-artwork.html">How a Museum Curator Handles Restitution for ‘Looted’ Art</a> NYT: Curators at major museums are increasingly grappling with a thorny topic: restitution. 
  <p class="updated_time"> 03:21 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/russia-cuts-gas-poland-bulgaria.html">Russia Cuts Gas Supplies to Poland and Bulgaria</a> NYT: The market reaction underscored that a dreaded moment in the war had arrived: the severe disruption of Russian natural gas exports to the E.U. 
- <p class="updated_time"> 12:57 AM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/2022/04/27/world/asia/myanmar-coup-trial-aung-san-suu-kyi.html">Aung San Suu Kyi Found Guilty in Myanmar Ahead of Biden Summit</a> NYT: The elected civilian leader, who was detained in a military coup last year, was sentenced to five years in prison in a corruption trial that was closed to the public. 
 
 
 </details>
@@ -205,7 +205,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095128153/missouri-republican-senate-primary-eric-greitens">Why many Missouri Republicans fear Eric Greitens could win the state's Senate primary</a> NPR: Some Republicans worry that if the scandal-plagued former governor were to win the primary, it would place a Senate seat considered to be safely GOP in jeopardy. 
  <p class="updated_time"> 04:00 AM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/us/politics/georgia-redistricting-greene.html">Marjorie Taylor Greene Could Represent 2 Largely Black Atlanta Suburbs</a> NYT: Powder Springs is one of two predominantly Black suburbs drawn into the far-right Republican’s district. If Ms. Greene is their voice in Congress, will she speak for them? 
+ <a href="https://www.nytimes.com/2022/04/29/us/politics/georgia-redistricting-greene.html">A Georgia City Reckons With a New District, Led by Marjorie Taylor Greene</a> NYT: Powder Springs is one of two predominantly Black suburbs drawn into the far-right Republican’s district. If Ms. Greene is their voice in Congress, will she speak for them? 
  <p class="updated_time"> 04:00 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/04/29/1095227346/rachel-levine-calls-state-anti-lgbtq-bills-disturbing-and-dangerous-to-trans-you">Rachel Levine calls state anti-LGBTQ bills disturbing and dangerous to trans youth</a> NPR: The U.S. assistant secretary for health, who will speak at Texas Christian University, says physicians need to be more vocal in fighting politically motivated attacks on vulnerable trans youth. 
  <p class="updated_time"> 04:00 AM CT, Apr. 29 </p> 
