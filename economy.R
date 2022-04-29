@@ -29,7 +29,8 @@ recent_data <- data %>%
 
 
 fig <- hchart(data, "line", hcaes(x = date,
-                           y = value)) %>%
+                           y = value),
+              name = "Claims") %>%
   hc_title(text = "Initial Unemployment Claims") %>%
   hc_caption(
     text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
@@ -46,7 +47,7 @@ fig <- hchart(data, "line", hcaes(x = date,
                      list(type = 'year', count = 5, text = '5y'),
                      list(type = 'year', count = 10, text = '10y'),
                      list(type = 'all', text = 'All')),
-                   selected = 3)# %>%
+                   selected = 0)# %>%
   #hc_navigator(enabled = TRUE) 
 fig
 saveWidget(widget = fig, file = "interactive/initial_claims.html",
@@ -663,7 +664,8 @@ ggsave("plots/us_population.png", plot = us_population,
 
 
 fig <- hchart(data, "line", hcaes(x = date,
-                                  y = value*1000)) %>%
+                                  y = value*1000),
+              name = "Population") %>%
   hc_title(text = "Population") %>%
   hc_caption(
     text = paste("Source: U.S. Bureau of Economic Analysis, retrieved from the St. Louis Fed. Latest data:",
@@ -675,12 +677,11 @@ fig <- hchart(data, "line", hcaes(x = date,
   ) %>%
   hc_rangeSelector(enabled = TRUE,
                    buttons = list(
-                     list(type = 'year', count = 1, text = '1y'),
-                     list(type = 'year', count = 2, text = '2y'),
-                     list(type = 'year', count = 5, text = '5y'),
                      list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'year', count = 25, text = '25y'),
+                     list(type = 'year', count = 50, text = '50y'),
                      list(type = 'all', text = 'All')),
-                   selected = 4)# %>%
+                   selected = 3)# %>%
 #hc_navigator(enabled = TRUE) 
 fig
 saveWidget(widget = fig, file = "interactive/us_population.html",
@@ -818,15 +819,15 @@ fig <- hchart(data,
   hc_add_series(
     data = data,
     hcaes(x = date,
-          y = annual_avg),
-    name = "Average",
+          y = round(annual_avg)),
+    name = "Annual Avg.",
     type = "line",
     yAxis = 0) %>%
   hc_add_series(
     data = data,
     hcaes(x = date,
           y = change),
-    name = "Change",
+    name = "Annual Change",
     type = "column",
     yAxis = 1) %>%
   hc_title(text = "Nonfarm Payroll") %>%
@@ -908,12 +909,11 @@ fig <- hchart(data, "line", hcaes(x = date,
   ) %>%
   hc_rangeSelector(enabled = TRUE,
                    buttons = list(
-                     list(type = 'year', count = 1, text = '1y'),
-                     list(type = 'year', count = 2, text = '2y'),
-                     list(type = 'year', count = 5, text = '5y'),
                      list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'year', count = 25, text = '25y'),
+                     list(type = 'year', count = 50, text = '50y'),
                      list(type = 'all', text = 'All')),
-                   selected = 4)# %>%
+                   selected = 3)# %>%
 #hc_navigator(enabled = TRUE) 
 fig
 saveWidget(widget = fig, file = "interactive/champaign_county_population.html",
@@ -1135,7 +1135,8 @@ ggplot(data = data,
 ggsave("plots/il_flash_index.png", width = 8, height = 8*(628/1200), dpi = 320)
 
 fig <- hchart(data, "line", hcaes(x = date,
-                                  y = value)) %>%
+                                  y = value),
+              name = "Index") %>%
   hc_title(text = "Flash Index") %>%
   hc_caption(
     text = paste("Source: Institute of Government and Public Affairs at the University of Illinois. Latest data:",
@@ -1208,7 +1209,8 @@ ggsave("plots/il_population.png", plot = il_population,
        width = 8, height = 8*(628/1200), dpi = 320)
 
 fig <- hchart(data, "line", hcaes(x = date,
-                                  y = value*1000)) %>%
+                                  y = value*1000),
+              name = "Population") %>%
   hc_title(text = "Population") %>%
   hc_caption(
     text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
@@ -1220,12 +1222,11 @@ fig <- hchart(data, "line", hcaes(x = date,
   ) %>%
   hc_rangeSelector(enabled = TRUE,
                    buttons = list(
-                     list(type = 'year', count = 1, text = '1y'),
-                     list(type = 'year', count = 2, text = '2y'),
-                     list(type = 'year', count = 5, text = '5y'),
                      list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'year', count = 25, text = '25y'),
+                     list(type = 'year', count = 50, text = '50y'),
                      list(type = 'all', text = 'All')),
-                   selected = 4)# %>%
+                   selected = 3)# %>%
 #hc_navigator(enabled = TRUE) 
 fig
 saveWidget(widget = fig, file = "interactive/il_population.html",
