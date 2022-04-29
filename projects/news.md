@@ -9,42 +9,50 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:16 AM CT, Apr. 29 </p> 
+ <p class="updated_time"> 10:36 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/live/2022/04/29/world/ukraine-russia-war-news">Live Updates: West’s Resolve to Block Russia Grows Amid Fears of a Protracted War</a> NYT: Britain said on Friday it would deploy 8,000 soldiers to Europe to join tens of thousands of troops from NATO countries in exercises meant to deter further Russian aggression. The announcement came a day after President Biden asked Congress to authorize $33 billion more in aid for Ukraine. 
+ <p class="updated_time"> 10:23 AM CT, Apr. 29 </p> 
+ <a href="https://www.npr.org/2022/04/29/1095494581/wimbledon-champion-boris-becker-gets-2-1-2-years-in-prison-for-bankruptcy-offens">Wimbledon champion Boris Becker gets 2 1/2 years in prison for bankruptcy offenses</a> NPR: The 54-year-old German tennis great was sentenced for illicitly transferring large amounts of money and hiding assets after he was declared bankrupt. 
+ <p class="updated_time"> 10:23 AM CT, Apr. 29 </p> 
+ <a href="https://www.nytimes.com/2022/04/29/world/europe/ukraine-war-battle-corpses.html">A Body Bag and a Sister in Denial</a> NYT: The war in Ukraine is so big that it has shaken the world. But for a sister looking for her missing older brother, it was reduced to a visit to a morgue. 
+ <p class="updated_time"> 10:20 AM CT, Apr. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61266526?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands: Premier Andrew Fahie arrested in US drug sting</a> BBC: The British overseas territory's premier, Andrew Fahie, is detained by agents posing as cartel traffickers. 
  <p class="updated_time"> 10:13 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/boris-becker-sentenced-bankruptcy.html">Boris Becker Sentenced to Two and a Half Years for Hiding Assets in Bankruptcy</a> NYT: The former tennis champion was found guilty by a London court on charges related to his 2017 insolvency. 
+ <p class="updated_time"> 10:10 AM CT, Apr. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61274997?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian strike on Kyiv kills reporter Vira Hyrych</a> BBC: Vira Hyrych, who worked for Radio Liberty, died after her residential building was hit on Thursday. 
  <p class="updated_time"> 10:08 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61263794?at_medium=RSS&at_campaign=KARANGA">Depp v Heard: What you might have missed this week</a> BBC: The court hears evidence of personality disorders, drug abuse and a relationship with Elon Musk. 
  <p class="updated_time"> 09:54 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/asia/beijing-covid-outbreak-schools.html">Beijing Closes Schools as It Tries to Contain an Outbreak</a> NYT: The city is heading into a long holiday weekend, and officials are discouraging travel and unnecessary gatherings. 
  <p class="updated_time"> 09:50 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095465857/russia-kyiv-rocket-guterres">Why Russia's rocket attack on Kyiv is seen as an insult to the U.N.</a> NPR: "It is a war zone but it is shocking that it happened close to us," Saviano Abreu, a spokesman for the U.N.'s humanitarian office, was quoted saying. The attack killed one person: a journalist. 
+ <p class="updated_time"> 09:42 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665">Rescuers Look for Survivors at Kyiv Apartment Block Hit by Russia</a> WSJ: Rescuers Look for Survivors at Kyiv Apartment Block Hit by Russia 
  <p class="updated_time"> 09:41 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/ukraine-rape-war-crimes.html">In Ukraine War, a Long Journey Begins in Prosecuting Rape</a> NYT: U.N. officials and human rights investigators are rushing more resources to authorities in Ukraine to help prosecute sex crimes. 
- <p class="updated_time"> 09:22 AM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665">Rescuers Look for Survivors at Kyiv Apartment Block Hit by Russia</a> WSJ: Rescuers Look for Survivors at Kyiv Apartment Block Hit by Russia 
  <p class="updated_time"> 09:14 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/asia/south-korea-age-yoon.html">Millions of South Koreans Could Soon Get Younger (on Paper)</a> NYT: South Korea has three ways of calculating age, often adding a year or two to the international standard. The incoming president wants to change that. 
+ <p class="updated_time"> 08:42 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/eurozone-economy-keeps-growing-but-recession-risk-looms-11651225720">Eurozone Economy Keeps Growing but Recession Risk Looms</a> WSJ: Eurozone Economy Keeps Growing but Recession Risk Looms 
  <p class="updated_time"> 08:33 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/insider/nyt-journalists-abroad.html">Weighing Risk When the Reporting Is Dangerous</a> NYT: A security team watches out for Times journalists abroad. There are strategies in place, but sometimes there’s no other choice but to leave a country. 
  <p class="updated_time"> 08:23 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1094943529/shabana-basij-rasikh-the-ongoing-fight-to-educate-afghan-girls">Shabana Basij-Rasikh: The ongoing fight to educate Afghan girls</a> NPR: In 2016, Shabana Basij-Rasikh created Afghanistan's School of Leadership for girls. When the Taliban took control in 2021, she helped her students flee and continued their education abroad. 
  <p class="updated_time"> 08:23 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1094942180/nicola-sturgeon-how-can-small-countries-have-a-global-impact">Nicola Sturgeon: How can small countries have a global impact?</a> NPR: Scotland's First Minister Nicola Sturgeon shares ideas on leading Scotland, from her approach to climate change and wellness, to the challenges she's faced as a female leader. 
- <p class="updated_time"> 08:22 AM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/eurozone-economy-keeps-growing-but-recession-risk-looms-11651225720">Eurozone Economy Keeps Growing but Recession Risk Looms</a> WSJ: Eurozone Economy Keeps Growing but Recession Risk Looms 
  <p class="updated_time"> 07:55 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/27/us/politics/ukraine-war-expansion.html">Fears Mount That Ukraine War Will Become a Broader Conflict</a> NYT: American and European officials say their concern is based in part on a growing conviction that the war will not end any time soon. 
+ <p class="updated_time"> 07:42 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Including Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Including Delay of New Rules 
  <p class="updated_time"> 07:23 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61269480?at_medium=RSS&at_campaign=KARANGA">Ukraine launches hunt for Russian soldiers accused of Bucha war crimes</a> BBC: The 10 Russian soldiers are wanted for alleged war crimes - but at home, they have been hailed as heroes. 
- <p class="updated_time"> 07:22 AM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Including Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Including Delay of New Rules 
  <p class="updated_time"> 07:09 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/movies/russia-movie-theaters-piracy.html">In Echo of Soviet Era, Russia’s Movie Theaters Turn to Pirate Screenings</a> NYT: In a Cold War throwback, some venues are showing bootleg versions after Hollywood studios pulled films from the country. Still, viewer numbers have tanked. 
+ <p class="updated_time"> 06:42 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-get-crash-course-on-javelin-missiles-from-u-s-volunteers-11651224602">Ukrainian Forces Get Crash Course on Javelin Missiles from U.S. Volunteers</a> WSJ: Ukrainian Forces Get Crash Course on Javelin Missiles from U.S. Volunteers 
  <p class="updated_time"> 06:30 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/anglo-saxon-kings-diet.html">Anglo-Saxon Kings Made Sure to Eat Their Vegetables, Study Shows</a> NYT: Contrary to popular belief, the ruling classes gorged on meat only on rare occasions, according to an analysis of more than 2,000 skeletons buried during medieval times. 
- <p class="updated_time"> 06:22 AM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-get-crash-course-on-javelin-missiles-from-u-s-volunteers-11651224602">Ukrainian Forces Get Crash Course on Javelin Missiles from U.S. Volunteers</a> WSJ: Ukrainian Forces Get Crash Course on Javelin Missiles from U.S. Volunteers 
  <p class="updated_time"> 06:12 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/climate/solar-industry-imports.html">Solar Industry ‘Frozen’ as Biden Administration Investigates China</a> NYT: More than 300 solar projects in the United States have been canceled or delayed in recent weeks because of an investigation by the Commerce Department. 
  <p class="updated_time"> 05:52 AM CT, Apr. 29 </p> 
@@ -55,10 +63,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61270024?at_medium=RSS&at_campaign=KARANGA">Foul-smelling foam clogs up Colombian town of Mosquera</a> BBC: Detergents dumped in a local river are being linked to the filthy white phenomenon. 
  <p class="updated_time"> 05:44 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61267036?at_medium=RSS&at_campaign=KARANGA">James Corden leaving Late Late Show after eight years</a> BBC: The British comedian and actor turned talk show host announced the decision on Thursday. 
+ <p class="updated_time"> 05:42 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions 
  <p class="updated_time"> 05:22 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61270616?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Residents protest after five weeks of strict zero-Covid measures</a> BBC: Some residents have been under strict lockdown for five weeks, and struggled to access food supplies. 
- <p class="updated_time"> 05:22 AM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions 
  <p class="updated_time"> 04:43 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095445314/u-s-officials-arrest-british-virgin-islands-premier-on-drug-charges">U.S. officials arrest British Virgin Islands premier on drug charges</a> NPR: The premier, Andrew Fahie, was charged with conspiracy to import cocaine and conspiracy to launder money, according to a criminal complaint. 
  <p class="updated_time"> 04:36 AM CT, Apr. 29 </p> 
@@ -79,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/britain-troops-europe.html">8,000 British Troops to Join Allied Exercises in Eastern Europe, Official Says</a> NYT: The troops will serve in the British-led Joint Expeditionary Force, created in 2014 in response to Russia’s seizure of Crimea from Ukraine. 
  <p class="updated_time"> 12:00 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61249158?at_medium=RSS&at_campaign=KARANGA">A Ukrainian father's terrifying journey to a Russian prison and back</a> BBC: Nikita Horban was abducted from his village and taken to Russia. He would come back without any toes. 
- <p class="updated_time"> 10:59 PM CT, Apr. 28 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61266526?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands: Premier Andrew Fahie arrested in US drug sting</a> BBC: The British overseas territory's premier, Andrew Fahie, is detained by agents posing as cartel traffickers. 
  <p class="updated_time"> 10:15 PM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/americas/el-salvador-bukele-gangs.html">In El Salvador, the President Cracks Down on Civil Liberties</a> NYT: Much of the country’s population is willing to tolerate an autocratic leader, if it means that someone will finally solve their most pressing problem: gang violence. 
  <p class="updated_time"> 10:09 PM CT, Apr. 28 </p> 
@@ -123,14 +129,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/28/1095365226/what-an-election-in-slovenia-could-mean-for-europe">What an election in Slovenia could mean for Europe</a> NPR: Slovenia voted last weekend to oust Janez Jansa as their Prime Minister. NPR's Rob Schmitz talks with Judy Dempsey of Carnegie Europe on how that election reflects on European politics. 
  <p class="updated_time"> 04:05 PM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095365212/leaked-draft-of-an-agreement-between-china-and-the-solomon-islands-has-u-s-conce">Leaked draft of an agreement between China and the Solomon Islands has U.S. concerned</a> NPR: A pact between China and the Solomon Islands could help Beijing expand its naval presence in the Western Pacific. That has officials in the U.S. and Australia on edge. 
- <p class="updated_time"> 03:58 PM CT, Apr. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61261925?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: UN visit and a Russian roubles row</a> BBC: Blasts hit Kyiv while the UN chief is in the city, and there's a dispute over who is buying gas from Russia. 
  <p class="updated_time"> 03:54 PM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095347248/russia-ukraine-war-what-happened-today-april-28">Russia-Ukraine war: What happened today (April 28)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:51 PM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095365198/georgias-president-wants-the-world-to-remember-the-countries-near-ukraine-during">Georgia's President wants the world to remember the countries near Ukraine during war</a> NPR: NPR's Mary Louise Kelly speaks with the president of Georgia, Salome Zourabichvili, about the role of women leaders in peace and security and her country's role in the world right now. 
- <p class="updated_time"> 03:51 PM CT, Apr. 28 </p> 
- <a href="https://www.npr.org/2022/04/28/1095365184/2-shanghai-residents-share-how-theyve-handled-the-citys-lockdown">2 Shanghai residents share how they've handled the city's lockdown</a> NPR: NPR's Rob Schmitz speaks with two residents of a housing complex in Shanghai about how they have experienced the city's lockdown — which is approaching its sixth week. 
  <p class="updated_time"> 03:42 PM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/middleeast/turkey-erdogan-saudi-arabia.html">Turkey’s Erdogan Heads to Saudi Arabia to Ease Tensions</a> NYT: President Recep Tayyip Erdogan is visiting the kingdom for the first time in nearly five years, signaling a mending of relations over the killing of the journalist Jamal Khashoggi. 
  <p class="updated_time"> 03:12 PM CT, Apr. 28 </p> 
@@ -143,8 +145,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61260511?at_medium=RSS&at_campaign=KARANGA">Biden proposes $33bn to help Ukraine in war</a> BBC: The major increase in US support would include $20bn in military assistance, plus economic aid. 
  <p class="updated_time"> 11:23 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/covid-hot-spot-new-york-counties.html">The Largest U.S. Coronavirus Hot Spot Swells Beyond Central New York</a> NYT: Health experts say that people in the hot spot, which includes cities like Buffalo, Rochester and Syracuse, should be increasing their precautions. 
- <p class="updated_time"> 11:05 AM CT, Apr. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-61222653?at_medium=RSS&at_campaign=KARANGA">Who owns the Arctic and should they drill for oil and gas?</a> BBC: Environmental campaigners are taking Norway to court over drilling in the Arctic. 
  <p class="updated_time"> 10:42 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/americas/colombia-war-crimes.html">Colombian General and 10 Others Admit to Crimes Against Humanity</a> NYT: In the first hearing of its kind, officials admitted to orchestrating extrajudicial killings. But victims asked for more. “We know that there are powerful people behind you,” said one woman. “We need names.” 
  <p class="updated_time"> 10:30 AM CT, Apr. 28 </p> 
@@ -163,8 +163,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61254476?at_medium=RSS&at_campaign=KARANGA">War in Ukraine absurd and evil, says UN chief</a> BBC: Antonio Guterres addresses reporters outside a wreckage of apartment blocks north west of Kyiv. 
  <p class="updated_time"> 03:45 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/ukraine-russia-war-flood-infrastructure.html">Ukrainians Flood Village of Demydiv to Keep Russians at Bay</a> NYT: The waters that poured into Demydiv were one of many instances of Ukraine wreaking havoc on its own territory to slow Russia’s advance. Residents couldn’t be happier. “We saved Kyiv,” one said. 
- <p class="updated_time"> 12:01 AM CT, Apr. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61248436?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Ukrainians deported to Russia beaten and mistreated</a> BBC: One man says he was captured and taken over the border, where he was blindfolded and beaten. 
  <p class="updated_time"> 10:33 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/france-election-macron-le-pen.html">The Unsettling Warning in France’s Election</a> NYT: A record number of abstentions, and a strictly binary choice for voters — many of whom said they were picking the lesser of two evils — are trouble signs even within a mature democracy. 
  <p class="updated_time"> 10:32 PM CT, Apr. 27 </p> 
@@ -191,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/27/world/european-union-covid.html">E.U. Says the Emergency Phase of the Pandemic Is Over</a> NYT: The bloc recommended focusing on vaccination, surveillance and testing in preparation for a possible fall wave. E.U. states can still make their own policies. 
  <p class="updated_time"> 05:36 AM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/asia/kane-tanaka-japan-worlds-oldest-person.html">Kane Tanaka, World’s Oldest Person, Dies at 119 in Japan</a> NYT: Kane Tanaka, who died in Japan this month, survived two world wars, the 1918 influenza outbreak, paratyphoid and two rounds of cancer. She loved chocolate and hated losing at board games. 
- <p class="updated_time"> 04:33 AM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/2022/04/27/world/asia/india-hindu-festival-electrocution.html">11 Electrocuted When Religious Chariot Hits Transmission Wires in India</a> NYT: Two of the 11 killed were children, and more than a dozen people were hurt as they fell or jumped from the vehicle, which was being pulled by devotees at a Hindu religious festival in southern India. 
 
 
 </details>
@@ -200,6 +196,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:37 AM CT, Apr. 29 </p> 
+ <a href="https://www.nytimes.com/2022/04/29/us/politics/republican-governor-election-trump.html">Why Republican Insurgents Are Struggling to Topple G.O.P. Governors</a> NYT: Republicans in several states are trying to oust conservative governors by harnessing anti-establishment energy. But in battles for a state’s top job, it’s hard to beat the establishment. 
  <p class="updated_time"> 09:41 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/ukraine-rape-war-crimes.html">In Ukraine War, a Long Journey Begins in Prosecuting Rape</a> NYT: U.N. officials and human rights investigators are rushing more resources to authorities in Ukraine to help prosecute sex crimes. 
  <p class="updated_time"> 09:36 AM CT, Apr. 29 </p> 
@@ -320,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/28/us/politics/lisa-murkowski-alaska.html">Lisa Murkowski Bets Big on the Center in Alaska</a> NYT: The Republican senator is leaning into her centrist credentials and bipartisan ties in her re-election race, hoping that voters will reward moderation as the G.O.P. has lurched to the right. 
  <p class="updated_time"> 09:23 PM CT, Apr. 27 </p> 
  <a href="https://www.politico.com/news/2022/04/27/moderna-authorize-covid-19-vaccine-kids-00028481">Moderna asks FDA to authorize Covid-19 vaccine for young kids</a> Politico: The request comes a month after the drug company signaled its two-dose regimen generated immune protection in the youngest children comparable to young adults. 
- <p class="updated_time"> 07:17 PM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/2022/04/27/us/politics/cawthorn-gun-charge-capitol.html">After Cawthorn Charge, Democrats Are Split Over Capitol Gun Ban</a> NYT: The first-term congressman’s second gun charge fueled a push by House Democrats to bar lawmakers from carrying firearms at the Capitol. But they say Senate Democrats are resisting the move. 
  <p class="updated_time"> 03:43 PM CT, Apr. 27 </p> 
  <a href="https://www.politico.com/news/2022/04/27/scalise-and-gaetz-meet-privately-after-tension-over-leaked-audio-00028344">Scalise and Gaetz meet privately after tension over leaked audio</a> Politico: “I said: ‘I'm sorry if this caused you problems,’” the Louisiana Republican told POLITICO after the sitdown with the Florida firebrand. 
  <p class="updated_time"> 12:50 PM CT, Apr. 27 </p> 
