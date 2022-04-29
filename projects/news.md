@@ -9,58 +9,62 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:57 AM CT, Apr. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/29/world/ukraine-russia-war-news">Live Updates: E.U. Nears Ban on Russian Oil, as West’s Resolve Grows</a> NYT: An oil embargo, expected to be difficult and costly to Europe, was considered unlikely when the war began. But positions have hardened, and NATO countries are sending more weapons to Ukraine and more troops to its neighbors. 
+ <p class="updated_time"> 11:48 AM CT, Apr. 29 </p> 
+ <a href="https://www.nytimes.com/2022/04/29/world/europe/ukraine-war-casualties-grief.html">In Ukraine, A Body Bag and a Sister in Denial</a> NYT: The war in Ukraine is so big that it has shaken the world. But for a sister looking for her missing older brother, it was reduced to a visit to a morgue. 
+ <p class="updated_time"> 11:47 AM CT, Apr. 29 </p> 
+ <a href="https://www.nytimes.com/2022/04/29/world/europe/boris-becker-sentenced-bankruptcy.html">Boris Becker Sentenced to Two and a Half Years for Hiding Assets in Bankruptcy</a> NYT: The former tennis champion was found guilty by a London court on charges related to his 2017 insolvency. 
+ <p class="updated_time"> 11:31 AM CT, Apr. 29 </p> 
+ <a href="https://www.npr.org/2022/04/29/1095458518/russia-ukraine-us-military-aid">Russia sharpens warnings as the U.S. and Europe send more weapons to Ukraine</a> NPR: Russian criticism of Western military aid to Ukraine is not new. But recent rhetoric reflects efforts to build public consensus for the need of a protracted — if not existential — war with the West. 
+ <p class="updated_time"> 11:30 AM CT, Apr. 29 </p> 
+ <a href="https://www.nytimes.com/2022/04/29/climate/solar-industry-imports.html">Solar Industry ‘Frozen’ as Biden Administration Investigates China</a> NYT: More than 300 solar projects in the United States have been canceled or delayed in recent weeks because of an investigation by the Commerce Department. 
  <p class="updated_time"> 11:21 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/anglo-saxon-kings-diet.html">Anglo-Saxon Kings Made Sure to Eat Their Vegetables, Study Shows</a> NYT: Contrary to popular belief, the ruling classes gorged on meat only on rare occasions, according to an analysis of more than 2,000 skeletons buried during medieval times. 
- <p class="updated_time"> 11:18 AM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/04/29/world/ukraine-russia-war-news">Live Updates: West’s Resolve to Block Russia Grows Amid Fears of a Protracted War</a> NYT: Britain said on Friday it would deploy 8,000 soldiers to Europe to join tens of thousands of troops from NATO countries in exercises meant to deter further Russian aggression. The announcement came a day after President Biden asked Congress to authorize $33 billion more in aid for Ukraine. 
  <p class="updated_time"> 11:04 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61277623?at_medium=RSS&at_campaign=KARANGA">Liberia war crimes: Sierra Leone rebel commander acquitted by court in Finland</a> BBC: Gibril Massaquoi was a school teacher but then became the spokesman of a notorious rebel group. 
- <p class="updated_time"> 10:45 AM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/world/europe/ukraine-war-casualties-grief.html">In Ukraine, A Body Bag and a Sister in Denial</a> NYT: The war in Ukraine is so big that it has shaken the world. But for a sister looking for her missing older brother, it was reduced to a visit to a morgue. 
+ <p class="updated_time"> 11:02 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665">Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia</a> WSJ: Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia 
  <p class="updated_time"> 10:41 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/middleeast/israel-palestine-aqsa-mosque.html">Palestinians Denied Access to Aqsa Mosque Turn to Smugglers</a> NYT: For Palestinian Muslims, praying at the Aqsa Mosque in Jerusalem is an important part of Ramadan. Those barred by Israel are finding ways to get there anyway. 
- <p class="updated_time"> 10:28 AM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665">Rescuers Look for Survivors at Kyiv Apartment Block Hit by Russia</a> WSJ: Rescuers Look for Survivors at Kyiv Apartment Block Hit by Russia 
  <p class="updated_time"> 10:23 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095494581/wimbledon-champion-boris-becker-gets-2-1-2-years-in-prison-for-bankruptcy-offens">Wimbledon champion Boris Becker gets 2 1/2 years in prison for bankruptcy offenses</a> NPR: The 54-year-old German tennis great was sentenced for illicitly transferring large amounts of money and hiding assets after he was declared bankrupt. 
  <p class="updated_time"> 10:20 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61266526?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands: Premier Andrew Fahie arrested in US drug sting</a> BBC: The British overseas territory's premier, Andrew Fahie, is detained by agents posing as cartel traffickers. 
- <p class="updated_time"> 10:13 AM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/world/europe/boris-becker-sentenced-bankruptcy.html">Boris Becker Sentenced to Two and a Half Years for Hiding Assets in Bankruptcy</a> NYT: The former tennis champion was found guilty by a London court on charges related to his 2017 insolvency. 
  <p class="updated_time"> 10:10 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61274997?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian strike on Kyiv kills reporter Vira Hyrych</a> BBC: Vira Hyrych, who worked for Radio Liberty, died after her residential building was hit on Thursday. 
  <p class="updated_time"> 10:08 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61263794?at_medium=RSS&at_campaign=KARANGA">Depp v Heard: What you might have missed this week</a> BBC: The court hears evidence of personality disorders, drug abuse and a relationship with Elon Musk. 
+ <p class="updated_time"> 10:02 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/eurozone-economy-keeps-growing-but-recession-risk-looms-11651225720">Eurozone Economy Keeps Growing but Recession Risk Looms</a> WSJ: Eurozone Economy Keeps Growing but Recession Risk Looms 
  <p class="updated_time"> 09:54 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/asia/beijing-covid-outbreak-schools.html">Beijing Closes Schools as It Tries to Contain an Outbreak</a> NYT: The city is heading into a long holiday weekend, and officials are discouraging travel and unnecessary gatherings. 
  <p class="updated_time"> 09:50 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095465857/russia-kyiv-rocket-guterres">Why Russia's rocket attack on Kyiv is seen as an insult to the U.N.</a> NPR: "It is a war zone but it is shocking that it happened close to us," Saviano Abreu, a spokesman for the U.N.'s humanitarian office, was quoted saying. The attack killed one person: a journalist. 
  <p class="updated_time"> 09:41 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/ukraine-rape-war-crimes.html">In Ukraine War, a Long Journey Begins in Prosecuting Rape</a> NYT: U.N. officials and human rights investigators are rushing more resources to authorities in Ukraine to help prosecute sex crimes. 
- <p class="updated_time"> 09:28 AM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/eurozone-economy-keeps-growing-but-recession-risk-looms-11651225720">Eurozone Economy Keeps Growing but Recession Risk Looms</a> WSJ: Eurozone Economy Keeps Growing but Recession Risk Looms 
  <p class="updated_time"> 09:14 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/asia/south-korea-age-yoon.html">Millions of South Koreans Could Soon Get Younger (on Paper)</a> NYT: South Korea has three ways of calculating age, often adding a year or two to the international standard. The incoming president wants to change that. 
+ <p class="updated_time"> 09:02 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/hong-kongs-next-leader-touts-citys-global-role-but-no-policy-on-reopening-11651236355">Hong Kong’s Next Leader Touts City’s Global Role but No Policy on Reopening</a> WSJ: Hong Kong’s Next Leader Touts City’s Global Role but No Policy on Reopening 
  <p class="updated_time"> 08:33 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/insider/nyt-journalists-abroad.html">Weighing Risk When the Reporting Is Dangerous</a> NYT: A security team watches out for Times journalists abroad. There are strategies in place, but sometimes there’s no other choice but to leave a country. 
- <p class="updated_time"> 08:28 AM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Including Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Including Delay of New Rules 
  <p class="updated_time"> 08:23 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1094943529/shabana-basij-rasikh-the-ongoing-fight-to-educate-afghan-girls">Shabana Basij-Rasikh: The ongoing fight to educate Afghan girls</a> NPR: In 2016, Shabana Basij-Rasikh created Afghanistan's School of Leadership for girls. When the Taliban took control in 2021, she helped her students flee and continued their education abroad. 
  <p class="updated_time"> 08:23 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1094942180/nicola-sturgeon-how-can-small-countries-have-a-global-impact">Nicola Sturgeon: How can small countries have a global impact?</a> NPR: Scotland's First Minister Nicola Sturgeon shares ideas on leading Scotland, from her approach to climate change and wellness, to the challenges she's faced as a female leader. 
+ <p class="updated_time"> 08:02 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/poland-supplies-ukraine-with-hundreds-of-soviet-style-tanks-11651240293">Poland Supplies Ukraine With Hundreds of Soviet-Style Tanks</a> WSJ: Poland Supplies Ukraine With Hundreds of Soviet-Style Tanks 
  <p class="updated_time"> 07:55 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/27/us/politics/ukraine-war-expansion.html">Fears Mount That Ukraine War Will Become a Broader Conflict</a> NYT: American and European officials say their concern is based in part on a growing conviction that the war will not end any time soon. 
- <p class="updated_time"> 07:28 AM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-get-crash-course-on-javelin-missiles-from-u-s-volunteers-11651224602">Ukrainian Forces Get Crash Course on Javelin Missiles from U.S. Volunteers</a> WSJ: Ukrainian Forces Get Crash Course on Javelin Missiles from U.S. Volunteers 
  <p class="updated_time"> 07:23 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61269480?at_medium=RSS&at_campaign=KARANGA">Ukraine launches hunt for Russian soldiers accused of Bucha war crimes</a> BBC: The 10 Russian soldiers are wanted for alleged war crimes - but at home, they have been hailed as heroes. 
  <p class="updated_time"> 07:09 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/movies/russia-movie-theaters-piracy.html">In Echo of Soviet Era, Russia’s Movie Theaters Turn to Pirate Screenings</a> NYT: In a Cold War throwback, some venues are showing bootleg versions after Hollywood studios pulled films from the country. Still, viewer numbers have tanked. 
- <p class="updated_time"> 06:28 AM CT, Apr. 29 </p> 
+ <p class="updated_time"> 07:02 AM CT, Apr. 29 </p> 
  <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions 
- <p class="updated_time"> 06:12 AM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/climate/solar-industry-imports.html">Solar Industry ‘Frozen’ as Biden Administration Investigates China</a> NYT: More than 300 solar projects in the United States have been canceled or delayed in recent weeks because of an investigation by the Commerce Department. 
+ <p class="updated_time"> 06:33 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Including Delay of New Rules</a> WSJ: China is preparing to hit pause on its monthslong campaign against technology companies, according to people familiar with the matter, as officials seek to arrest a rapid deterioration in the country’s economic outlook. 
  <p class="updated_time"> 05:52 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/un-antonio-guterres-kyiv.html">Top U.N. Official Tours Kyiv, Declaring the War ‘An Absurdity’  </a> NYT: António Guterres’ goals include securing evacuation routes for besieged civilians and supporting the prosecution of war crimes. 
  <p class="updated_time"> 05:50 AM CT, Apr. 29 </p> 
@@ -85,6 +89,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ireland-census-time-capsule.html">Ireland’s Census Collects Time Capsules to Be Opened in 100 Years</a> NYT: The makers of the survey included a space for people to write or draw a message. The contents of these so-called time capsules will be revealed in 100 years. 
  <p class="updated_time"> 02:00 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ukraine-holocaust-survivors-rescue-germany.html">They Survived the Holocaust. Now, They Are Fleeing to Germany.</a> NYT: A complex operation is underway to evacuate Holocaust survivors from Ukraine. For rescuers and evacuees alike, it means confronting the past. 
+ <p class="updated_time"> 12:30 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-get-crash-course-on-javelin-missiles-from-u-s-volunteers-11651224602">Ukrainian Forces Get Crash Course on Javelin Missiles from U.S. Volunteers</a> WSJ: Weapons supplied by the U.S. and other Western allies are playing a critical role in enabling Ukrainian forces to repel the massive onslaught of Russian armor; a bottleneck is training. 
  <p class="updated_time"> 12:01 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095440624/u-s-soldiers-return-cake-to-italian-woman-for-90th-birthday">U.S. soldiers 'return' cake to Italian woman for 90th birthday</a> NPR: A woman was 13 years old when U.S. soldiers grabbed her birthday cake from a windowsill. 
  <p class="updated_time"> 12:00 AM CT, Apr. 29 </p> 
@@ -135,8 +141,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/28/1095365212/leaked-draft-of-an-agreement-between-china-and-the-solomon-islands-has-u-s-conce">Leaked draft of an agreement between China and the Solomon Islands has U.S. concerned</a> NPR: A pact between China and the Solomon Islands could help Beijing expand its naval presence in the Western Pacific. That has officials in the U.S. and Australia on edge. 
  <p class="updated_time"> 03:54 PM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095347248/russia-ukraine-war-what-happened-today-april-28">Russia-Ukraine war: What happened today (April 28)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:51 PM CT, Apr. 28 </p> 
- <a href="https://www.npr.org/2022/04/28/1095365198/georgias-president-wants-the-world-to-remember-the-countries-near-ukraine-during">Georgia's President wants the world to remember the countries near Ukraine during war</a> NPR: NPR's Mary Louise Kelly speaks with the president of Georgia, Salome Zourabichvili, about the role of women leaders in peace and security and her country's role in the world right now. 
  <p class="updated_time"> 03:42 PM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/middleeast/turkey-erdogan-saudi-arabia.html">Turkey’s Erdogan Heads to Saudi Arabia to Ease Tensions</a> NYT: President Recep Tayyip Erdogan is visiting the kingdom for the first time in nearly five years, signaling a mending of relations over the killing of the journalist Jamal Khashoggi. 
  <p class="updated_time"> 03:12 PM CT, Apr. 28 </p> 
