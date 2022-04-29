@@ -119,7 +119,8 @@ ggsave("plots/unemployment_rate.png", plot = unemployment_rate,
 
 
 fig <- hchart(data, "line", hcaes(x = date,
-                                  y = value)) %>%
+                                  y = value),
+              name = "Rate") %>%
   hc_title(text = "Unemployment Rate") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
@@ -254,6 +255,32 @@ data <-fredr(series_id = "A229RX0")
 recent_data <- data %>%
   filter(date > recent_years) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
+
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = value),
+              name = "Income") %>%
+  hc_title(text = "Real Disposable Personal Income: Per Capita") %>%
+  hc_caption(
+    text = paste("Source: U.S. Bureau of Economic Analysis, retrieved from the St. Louis Fed. Latest data:",
+                 tail(recent_data$short_date,1))) %>%
+  hc_yAxis(title = list(text = "")) %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )%>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
+fig
+saveWidget(widget = fig, file = "interactive/disposable_income.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
 
 ggplot(data = data,
        aes(x = date,
@@ -721,7 +748,8 @@ ggsave("plots/champaign_unemployment_rate.png", plot = unemployment_rate,
        width = 8, height = 8*(628/1200), dpi = 320)
 
 fig <- hchart(data, "line", hcaes(x = date,
-                                  y = value)) %>%
+                                  y = value),
+              name = "Rate") %>%
   hc_title(text = "Unemployment Rate") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
@@ -897,7 +925,8 @@ ggsave("plots/champaign_population.png", plot = champaign_population,
        width = 8, height = 8*(628/1200), dpi = 320)
 
 fig <- hchart(data, "line", hcaes(x = date,
-                                  y = value*1000)) %>%
+                                  y = value*1000),
+              name = "Population") %>%
   hc_title(text = "Population") %>%
   hc_caption(
     text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
@@ -1285,7 +1314,8 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 <iframe src=\"/interactive/us_employment.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-[![Disposable Income]({{ site.baseurl }}/plots/disposable_income.png)](https://fred.stlouisfed.org/series/A229RX0)
+<iframe src=\"/interactive/disposable_income.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 [![Inflation]({{ site.baseurl }}/plots/consumer_price_index.png)](https://fred.stlouisfed.org/series/CPIAUCSL)
 

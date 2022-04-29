@@ -489,7 +489,8 @@ html {
 <iframe src="/interactive/us_employment.html" width="100%" height="300"> 
 </iframe>
 
-[![Disposable Income]({{ site.baseurl }}/plots/disposable_income.png)](https://fred.stlouisfed.org/series/A229RX0)
+<iframe src="/interactive/disposable_income.html" width="100%" height="300"> 
+</iframe>
 
 [![Inflation]({{ site.baseurl }}/plots/consumer_price_index.png)](https://fred.stlouisfed.org/series/CPIAUCSL)
 
