@@ -9,16 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:44 AM CT, Apr. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61267036?at_medium=RSS&at_campaign=KARANGA">James Corden leaving Late Late Show after eight years</a> BBC: The British comedian and actor turned talk show host announced the decision on Thursday. 
+ <p class="updated_time"> 05:44 AM CT, Apr. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/29/world/ukraine-russia-war-news">Live Updates: West’s Commitment to Ukraine Grows Amid Fears of a Protracted War</a> NYT: Britain said on Friday it would deploy 8,000 soldiers to Europe to join tens of thousands of troops from NATO countries in exercises meant to deter further Russian aggression. The announcement came a day after President Biden asked Congress to authorize $33 billion more in aid for Ukraine. 
  <p class="updated_time"> 05:22 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61270616?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Residents protest after five weeks of strict zero-Covid measures</a> BBC: Some residents have been under strict lockdown for five weeks, and struggled to access food supplies. 
- <p class="updated_time"> 05:17 AM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/04/29/world/ukraine-russia-war-news">Live Updates: Russia Strikes Kyiv as Fighting Rages in Eastern Ukraine</a> NYT: Missiles landed in the capital on a day when Ukraine’s president hosted the U.N. secretary general. President Biden asked Congress to authorize $33 billion more in aid for the country. 
- <p class="updated_time"> 04:59 AM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61267036?at_medium=RSS&at_campaign=KARANGA">James Corden leaving Late Late Show after eight years</a> BBC: The British comedian and actor turned talk show host announced the decision on Thursday. 
+ <p class="updated_time"> 04:50 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/russia-making-slow-progress-in-bid-to-cut-off-ukrainian-forces-11651143367">Biden Seeks New Aid for Ukraine as Russia Makes Slow Progress in Seizing East</a> WSJ: Biden Seeks New Aid for Ukraine as Russia Makes Slow Progress in Seizing East 
  <p class="updated_time"> 04:43 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095445314/u-s-officials-arrest-british-virgin-islands-premier-on-drug-charges">U.S. officials arrest British Virgin Islands premier on drug charges</a> NPR: The premier, Andrew Fahie, was charged with conspiracy to import cocaine and conspiracy to launder money, according to a criminal complaint. 
- <p class="updated_time"> 04:37 AM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/russia-making-slow-progress-in-bid-to-cut-off-ukrainian-forces-11651143367">Biden Seeks New Aid for Ukraine as Russia Makes Slow Progress in Seizing East</a> WSJ: Biden Seeks New Aid for Ukraine as Russia Makes Slow Progress in Seizing East 
  <p class="updated_time"> 04:36 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/on-the-trail-of-russian-war-crimes.html">On the Trail of Russian War Crimes</a> NYT: Lyudmyla Denisova, Ukraine’s top human rights official, is determined to right historical wrongs and make sure Russians are held to account. 
  <p class="updated_time"> 04:01 AM CT, Apr. 29 </p> 
@@ -27,23 +27,23 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/climate/solar-industry-imports.html">Solar Industry ‘Frozen’ As Biden Administration Investigates China</a> NYT: More than 300 solar projects in the United States have been canceled or delayed in recent weeks because of an investigation by the Commerce Department. 
  <p class="updated_time"> 04:00 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/asia/south-korea-age-yoon.html">Millions of South Koreans Could Soon Get Younger (on Paper)</a> NYT: South Korea has three ways of calculating age, often adding a year or two to the international standard. The incoming president wants to change that. 
+ <p class="updated_time"> 03:50 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/germany-drops-opposition-to-russian-oil-embargo-11651155915">Germany Drops Opposition to Embargo on Russian Oil</a> WSJ: Germany Drops Opposition to Embargo on Russian Oil 
  <p class="updated_time"> 03:42 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ukraine-singles-out-russian-soldiers-for-atrocities-in-bucha.html">Ukraine singles out Russian soldiers for atrocities in Bucha.</a> NYT: In the first detailed set of allegations since the invasion, Ukrainian officials published the names and photos of Russian soldiers they say tortured civilians in a suburb of Kyiv. 
- <p class="updated_time"> 03:37 AM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/germany-drops-opposition-to-russian-oil-embargo-11651155915">Germany Drops Opposition to Embargo on Russian Oil</a> WSJ: Germany Drops Opposition to Embargo on Russian Oil 
  <p class="updated_time"> 03:33 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61267265?at_medium=RSS&at_campaign=KARANGA">Israel airport chaos as family brings unexploded shell</a> BBC: Chaos erupts as Americans bring a 'souvenir' unexploded shell into Israel's international airport. 
+ <p class="updated_time"> 02:50 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/after-russian-retreat-ukraines-farmers-discover-fields-full-of-mines-11651150800">After Russian Retreat, Ukraine’s Farmers Discover Fields Full of Mines</a> WSJ: After Russian Retreat, Ukraine’s Farmers Discover Fields Full of Mines 
  <p class="updated_time"> 02:44 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ireland-census-time-capsule.html">Ireland’s Census Collects Time Capsules to Be Opened in 100 Years</a> NYT: The makers of the survey included a space for people to write or draw a message. The contents of these so-called time capsules will be revealed in 100 years. 
- <p class="updated_time"> 02:37 AM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/after-russian-retreat-ukraines-farmers-discover-fields-full-of-mines-11651150800">After Russian Retreat, Ukraine’s Farmers Discover Fields Full of Mines</a> WSJ: After Russian Retreat, Ukraine’s Farmers Discover Fields Full of Mines 
  <p class="updated_time"> 02:00 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ukraine-holocaust-survivors-rescue-germany.html">They Survived the Holocaust. Now, They Are Fleeing to Germany.</a> NYT: A complex operation is underway to evacuate Holocaust survivors from Ukraine. For rescuers and evacuees alike, it means confronting the past. 
  <p class="updated_time"> 02:00 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/insider/weighing-risk-when-the-reporting-is-dangerous.html">Weighing Risk When the Reporting Is Dangerous</a> NYT: A security team watches out for Times journalists abroad. There are strategies in place, but sometimes there’s no other choice but to leave a country. 
- <p class="updated_time"> 01:37 AM CT, Apr. 29 </p> 
+ <p class="updated_time"> 01:50 AM CT, Apr. 29 </p> 
  <a href="https://www.wsj.com/articles/turkeys-erdogan-heads-to-saudi-arabia-in-effort-to-thaw-relations-11651159054">Turkish Leader Visits Saudi Arabia to Mend Ties Marred by Khashoggi Killing</a> WSJ: Turkish Leader Visits Saudi Arabia to Mend Ties Marred by Khashoggi Killing 
- <p class="updated_time"> 12:37 AM CT, Apr. 29 </p> 
+ <p class="updated_time"> 12:50 AM CT, Apr. 29 </p> 
  <a href="https://www.wsj.com/articles/pakistani-militants-test-taliban-promise-not-to-host-terror-groups-11651150686">Pakistani Militants Test Taliban Promise Not to Host Terror Groups</a> WSJ: Pakistani Militants Test Taliban Promise Not to Host Terror Groups 
  <p class="updated_time"> 12:01 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095440624/u-s-soldiers-return-cake-to-italian-woman-for-90th-birthday">U.S. soldiers 'return' cake to Italian woman for 90th birthday</a> NPR: A woman was 13 years old when U.S. soldiers grabbed her birthday cake from a windowsill. 
@@ -211,11 +211,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1094782769/parent-poll-school-culture-wars">The education culture war is raging. But for most parents, it's background noise</a> NPR: By wide margins, parents across the political spectrum are satisfied with how their children's schools teach about race, gender and history. That's according to a new national poll by NPR and Ipsos. 
  <p class="updated_time"> 03:31 AM CT, Apr. 29 </p> 
- <a href="https://www.politico.com/news/2022/04/29/trump-says-matt-dolan-is-not-fit-for-ohios-senate-seat-hes-gaining-ground-anyway-00028824">Trump says Matt Dolan is ‘not fit’ for Ohio’s Senate seat. He’s gaining ground anyway.</a> Politico: The Republican who wants the former president to stop pushing "lies about the outcome" of the 2020 election is showing a late burst of momentum. 
+ <a href="https://www.politico.com/news/2022/04/29/trump-says-matt-dolan-is-not-fit-for-ohios-senate-seat-hes-gaining-ground-anyway-00028824">Republican who refuses to bend the knee to Trump surges in Ohio Senate race</a> Politico: Matt Dolan, who wants the former president to stop pushing "lies about the outcome" of the 2020 election, is showing a late burst of momentum. 
  <p class="updated_time"> 03:31 AM CT, Apr. 29 </p> 
  <a href="https://www.politico.com/news/2022/04/29/dscc-democrats-campaign-advertisements-senate-00028721">Dems reserve $33M in bid to hold Senate</a> Politico: The caucus' campaign arm is focusing on four embattled incumbents. 
  <p class="updated_time"> 03:30 AM CT, Apr. 29 </p> 
- <a href="https://www.politico.com/news/2022/04/29/house-republican-freedom-caucus-challenges-00023071">How the House Freedom Caucus shapeshifted into an identity crisis</a> Politico: The conservatives who built their political brand on challenging GOP leaders are starting to struggle with problems of their own. 
+ <a href="https://www.politico.com/news/2022/04/29/house-republican-freedom-caucus-challenges-00023071">Inside the House Freedom Caucus' identity crisis</a> Politico: The conservatives who built their political brand on challenging GOP leaders are starting to struggle with problems of their own. 
  <p class="updated_time"> 03:30 AM CT, Apr. 29 </p> 
  <a href="https://www.politico.com/news/2022/04/29/how-elon-musk-takes-on-washington-00028751">‘Cult of personality’: How Elon Musk takes on Washington</a> Politico: When the Tesla and SpaceX founder takes the helm of Twitter, the company’s presence in Washington is likely to change quickly, lobbyists and government officials say. 
  <p class="updated_time"> 03:30 AM CT, Apr. 29 </p> 
