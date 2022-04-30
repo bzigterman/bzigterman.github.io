@@ -1264,13 +1264,13 @@ saveWidget(widget = fig, file = "interactive/il_population.html",
 
 
 # make web page ----
-## image references ----
 
+## Champaign ----
 web_text <- paste(
   "---
 layout: page
-title: Economic Indicators
-permalink: /projects/economy
+title: Champaign Economic Indicators
+permalink: /projects/economy/champaign
 imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 ---
 
@@ -1295,6 +1295,22 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 <iframe src=\"/interactive/champaign_county_population.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
+Data retrieved from the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org)
+
+",
+sep = ""
+)
+write_lines(web_text,"projects/economy/champaign.md")
+
+## IL ----
+web_text <- paste(
+  "---
+layout: page
+title: Illinois Economic Indicators
+permalink: /projects/economy/illinois
+imageurl: https://bzigterman.com/plots/il_flash_index.png
+---
+
 ## Illinois
 
 <iframe src=\"/interactive/il_flash_index.html\" width=\"100%\" height=\"300\"> 
@@ -1302,6 +1318,22 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 
 <iframe src=\"/interactive/il_population.html\" width=\"100%\" height=\"300\"> 
 </iframe>
+
+Data retrieved from the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org)
+
+",
+sep = ""
+)
+write_lines(web_text,"projects/economy/illinois.md")
+
+## US ----
+web_text <- paste(
+  "---
+layout: page
+title: U.S. Economic Indicators
+permalink: /projects/economy/usa
+imageurl: https://bzigterman.com/plots/unemployment_rate.png
+---
 
 ## United States
 
@@ -1335,5 +1367,5 @@ Data retrieved from the [Federal Reserve Bank of St. Louis](https://fred.stlouis
 ",
 sep = ""
 )
-write_lines(web_text,"projects/economy.md")
+write_lines(web_text,"projects/economy/usa.md")
 
