@@ -137,7 +137,7 @@ fig <- hchart(data, "line", hcaes(x = date,
                      list(type = 'year', count = 5, text = '5y'),
                      list(type = 'year', count = 10, text = '10y'),
                      list(type = 'all', text = 'All')),
-                   selected = 3)# %>%
+                   selected = 2)# %>%
 #hc_navigator(enabled = TRUE) 
 fig
 saveWidget(widget = fig, file = "interactive/us_unemployment_rate.html",
@@ -766,7 +766,7 @@ fig <- hchart(data, "line", hcaes(x = date,
                      list(type = 'year', count = 5, text = '5y'),
                      list(type = 'year', count = 10, text = '10y'),
                      list(type = 'all', text = 'All')),
-                   selected = 3)# %>%
+                   selected = 2)# %>%
 #hc_navigator(enabled = TRUE) 
 fig
 saveWidget(widget = fig, file = "interactive/champaign_unemployment_rate.html",
@@ -1188,7 +1188,7 @@ fig <- hchart(data, "line", hcaes(x = date,
                      list(type = 'year', count = 5, text = '5y'),
                      list(type = 'year', count = 10, text = '10y'),
                      list(type = 'all', text = 'All')),
-                   selected = 3)# %>%
+                   selected = 2)# %>%
 #hc_navigator(enabled = TRUE) 
 fig
 saveWidget(widget = fig, file = "interactive/il_flash_index.html",
@@ -1269,12 +1269,10 @@ saveWidget(widget = fig, file = "interactive/il_population.html",
 web_text <- paste(
   "---
 layout: page
-title: Champaign Economic Indicators
+title: Champaign County Economic Indicators
 permalink: /projects/economy/champaign
 imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 ---
-
-## Champaign County
 
 <iframe src=\"/interactive/champaign_unemployment_rate.html\" width=\"100%\" height=\"300\"> 
 </iframe>
@@ -1311,8 +1309,6 @@ permalink: /projects/economy/illinois
 imageurl: https://bzigterman.com/plots/il_flash_index.png
 ---
 
-## Illinois
-
 <iframe src=\"/interactive/il_flash_index.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
@@ -1330,12 +1326,10 @@ write_lines(web_text,"projects/economy/illinois.md")
 web_text <- paste(
   "---
 layout: page
-title: U.S. Economic Indicators
+title: United States Economic Indicators
 permalink: /projects/economy/usa
 imageurl: https://bzigterman.com/plots/unemployment_rate.png
 ---
-
-## United States
 
 <iframe src=\"/interactive/initial_claims.html\" width=\"100%\" height=\"300\"> 
 </iframe>
