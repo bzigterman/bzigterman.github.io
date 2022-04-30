@@ -925,12 +925,12 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Average New Cases</td>
 <td class="gt_row gt_right">2K</td>
-<td class="gt_row gt_right">3K</td>
-<td class="gt_row gt_right">+61%</td></tr>
+<td class="gt_row gt_right">4K</td>
+<td class="gt_row gt_right">+75%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">355</td>
-<td class="gt_row gt_right gt_striped">461</td>
-<td class="gt_row gt_right gt_striped">+30%</td></tr>
+<td class="gt_row gt_right gt_striped">348</td>
+<td class="gt_row gt_right gt_striped">481</td>
+<td class="gt_row gt_right gt_striped">+38%</td></tr>
     <tr><td class="gt_row gt_left">Average New Deaths</td>
 <td class="gt_row gt_right">7</td>
 <td class="gt_row gt_right">5</td>
@@ -942,7 +942,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
     </tr>
   </tfoot>
   
@@ -1904,7 +1904,7 @@ html {
 As of Friday, the 14-day percent change in average new cases was:
   
 - -22% in Champaign County
-- 61% in Illinois
+- 75% in Illinois
 - 66% in the United States
 - -29% worldwide
 
