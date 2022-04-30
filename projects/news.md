@@ -9,44 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:48 PM CT, Apr. 30 </p> 
+ <p class="updated_time"> 03:07 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news">Live Updates: Russia Moves More Troops to Front; Ukraine Faces Fuel Shortages</a> NYT: Ukraine said Russia was shifting troops from its far-eastern regions to the front in Donbas. About 20 women and children were evacuated from Mariupol’s embattled Azovstal steel plant, a Ukrainian commander and Russian state media said. 
+ <p class="updated_time"> 03:04 PM CT, Apr. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61285178?at_medium=RSS&at_campaign=KARANGA">Mariupol civilians leave besieged Azovstal steelworks</a> BBC: Despite an order from Vladimir Putin to completely seal off the area, 20 civilians escape Azovstal. 
  <p class="updated_time"> 02:48 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/mariupol-evacuation-steel-plant-ukraine.html">Women and Children Evacuated Out of Mariupol’s Azovstal Steel Plant</a> NYT: A Ukrainian commander and Russian news agencies said about 20 civilians were able to leave the steel factory in the besieged city of Mariupol. An unknown number of civilians remains at the plant. 
  <p class="updated_time"> 02:23 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-scythia-gold-museum-russia.html">Ukraine Says Russia Looted Ancient Gold Artifacts From a Museum</a> NYT: According to Ukrainian officials, Russian soldiers, aided by a mysterious expert, broke into a museum and spirited away priceless artifacts from the Scythian empire. 
+ <p class="updated_time"> 02:13 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages After Russian Strikes</a> WSJ: Ukrainians Suffer Fuel Shortages After Russian Strikes 
  <p class="updated_time"> 01:58 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61285290?at_medium=RSS&at_campaign=KARANGA">Sri Lanka hikes price of medicines 40% amid economic crisis</a> BBC: Prices rise 40% as an economic crisis bites, leaving some Sri Lankans cutting short treatments. 
- <p class="updated_time"> 01:53 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages After Russian Strikes</a> WSJ: Ukrainians Suffer Fuel Shortages After Russian Strikes 
  <p class="updated_time"> 01:36 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/books/review/dead-in-the-water-matthew-campbell-kit-chellel.html">Review: ‘Dead in the Water,’ by Matthew Campbell & Kit Chellel</a> NYT: In Matthew Campbell and Kit Chellel’s real-life whodunit “Dead in the Water,” Big Oil, Big Insurance and global corruption clash on a giant scale. 
  <p class="updated_time"> 01:13 PM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/30/world/middleeast/muslims-digital-prayer-rings.html">Some Muslims Are Using Digital Rings to Count Recitations</a> NYT: Much like the fitness tools that count steps, these electronic devices help keep a record of the day’s religious recitations. 
- <p class="updated_time"> 12:53 PM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
+ <p class="updated_time"> 01:13 PM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/2022/04/30/world/middleeast/muslims-digital-prayer-rings.html">Some Muslims Are Using Digital Rings to Count Recitations</a> NYT: Much like the fitness tools that count steps, these electronic devices help keep a record of the day’s religious recitations. 
  <p class="updated_time"> 12:24 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/biden-russia-scientists.html">Biden Seeks to Lure Russia’s Top Scientists to the U.S.</a> NYT: Legislation proposed by the president would suspend the requirement that Russian scientists have a sponsoring employer to gain a visa. 
+ <p class="updated_time"> 12:13 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
  <p class="updated_time"> 12:00 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
  <p class="updated_time"> 11:58 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61259954?at_medium=RSS&at_campaign=KARANGA">Football agent Mino Raiola dies at 54</a> BBC: Football agent Mino Raiola - whose clients included Borussia Dortmund striker Erling Haaland and Manchester United midfielder Paul Pogba - dies at the age of 54. 
- <p class="updated_time"> 11:53 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
  <p class="updated_time"> 11:43 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-russia-attack-denials.html">Ukrainian Official Outlines Intentional Ambiguity on Strikes Inside Russia</a> NYT: The strikes have been one of the most intriguing, and opaque, new elements of the recent fighting. But when it comes to confirming their origins, “we don’t say yes and we don’t say no,’’ said the official. 
- <p class="updated_time"> 10:53 AM CT, Apr. 30 </p> 
+ <p class="updated_time"> 11:13 AM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 10:41 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61286257?at_medium=RSS&at_campaign=KARANGA">Rescue efforts under way after China building collapse</a> BBC: Eighteen people are believed to be trapped after the building fell in China's Hunan Province. 
  <p class="updated_time"> 10:26 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61285285?at_medium=RSS&at_campaign=KARANGA">Germany takes Italy to UN court over Nazi-era compensation claims</a> BBC: Germany wants to stop property it owns in Italy being seized to finance compensation for Nazi war crimes 
+ <p class="updated_time"> 10:13 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/russias-war-in-ukraine-is-straining-global-economic-cooperation-11651318201">Russia’s Ukraine War Strains Global Economic Cooperation</a> WSJ: Russia’s Ukraine War Strains Global Economic Cooperation 
  <p class="updated_time"> 09:57 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1095759573/british-mp-porn-house-of-commons-neil-parish-resigns">British lawmaker Neil Parish resigning after watching porn in the House of Commons</a> NPR: The member of Parliament says he watched pornography twice in the House of Commons in a "moment of madness." The Conservative Party suspended him Friday over the allegations. 
  <p class="updated_time"> 09:53 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61281692?at_medium=RSS&at_campaign=KARANGA">Kansas tornado inflicts heavy damage and leaves thousands without power</a> BBC: Shocking footage shows a large twister snaking through the city of Wichita. 
- <p class="updated_time"> 09:53 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/russias-war-in-ukraine-is-straining-global-economic-cooperation-11651318201">Russia’s Ukraine War Strains Global Economic Cooperation</a> WSJ: Russia’s Ukraine War Strains Global Economic Cooperation 
  <p class="updated_time"> 09:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/ukraine-fuel-shortages-russia.html">Ukraine Grapples With Fuel Shortages After Russian Attacks</a> NYT: Officials in Kyiv have urged residents to use public transportation rather than private vehicles in an effort to save fuel for the military. 
  <p class="updated_time"> 08:16 AM CT, Apr. 30 </p> 
@@ -69,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/europe/mariupol-steel-plant-video.html">Fighters Share Desperate Videos From Mariupol Steel Plant to Promote Story</a> NYT: With independent media unable to access this last military holdout, videos from inside function as pleas for help and publicity on social media. 
  <p class="updated_time"> 05:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/canada/hudsons-bay-winnipeg.html">Flagship Hudson’s Bay Store Turned Over to Indigenous Group</a> NYT: The Hudson’s Bay Company has turned over its former flagship store to an Indigenous group with big ambitions for the space. 
- <p class="updated_time"> 04:54 AM CT, Apr. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61280409?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US accuses Russia of depravity and brutality</a> BBC: Pentagon spokesman John Kirby appeared emotional as he described Russia's "cruelty" in Ukraine. 
  <p class="updated_time"> 04:30 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61259569?at_medium=RSS&at_campaign=KARANGA">Venus and Jupiter Conjunction: Planets to almost touch in night sky</a> BBC: The dazzlingly bright planets appear extremely close together in the dark sky this weekend. 
  <p class="updated_time"> 04:19 AM CT, Apr. 30 </p> 
