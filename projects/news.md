@@ -9,40 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:42 PM CT, Apr. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61281422?at_medium=RSS&at_campaign=KARANGA">Ecuador declares emergency over gang crime</a> BBC: A curfew is imposed and thousands of police and soldiers are deployed to restore "peace and order". 
+ <p class="updated_time"> 09:52 PM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665">Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia</a> WSJ: Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia 
  <p class="updated_time"> 09:35 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/middleeast/israel-palestine-aqsa-mosque.html">During Ramadan, Palestinians Barred From Aqsa Turn to Smugglers</a> NYT: For Palestinian Muslims, praying at the Aqsa Mosque in Jerusalem is an important part of Ramadan. Those barred by Israel are finding ways to get there anyway. 
  <p class="updated_time"> 09:33 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ireland-census-time-capsule.html">Ireland’s Census Collects Time Capsules to Be Opened in 100 Years</a> NYT: The makers of the survey included a space for people to write or draw a message. The contents of these so-called time capsules will be revealed in 100 years. 
  <p class="updated_time"> 09:31 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/live/2022/04/29/world/ukraine-russia-war-news">Ukraine Live Updates: Amid Hardening Western Resolve, Russia’s Eastern Drive Seems to Stall</a> NYT: The E.U. nears a ban on Russian oil as NATO countries send more weapons to Ukraine and commit more troops to its neighbors. 
- <p class="updated_time"> 09:11 PM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665">Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia</a> WSJ: Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia 
  <p class="updated_time"> 09:07 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/civilians-mariupol-azovstal.html">Civilians Keep Arriving at Besieged Steel Complex in Mariupol, Fighters Say</a> NYT: That citizens are still seeking to shelter at the plant, where there is no prospect of escape or rescue, offers a testament to what they must be facing elsewhere in the devastated city. 
  <p class="updated_time"> 08:56 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61280587?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands: UK Minister dispatched for governance talks</a> BBC: British overseas territory minister Amanda Milling will meet with officials over home rule recommendations. 
+ <p class="updated_time"> 08:52 PM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Delay of New Rules 
  <p class="updated_time"> 08:52 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61280409?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US accuses Russia of depravity and brutality</a> BBC: Pentagon spokesman John Kirby appeared emotional as he described Russia's "cruelty" in Ukraine. 
  <p class="updated_time"> 08:34 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/europe-ratchets-up-preparation-for-russian-oil-embargo-next-week.html">Amid Hardening Western Resolve, Signs of Russia’s Stalling in Eastern Ukraine</a> NYT: Pentagon officials say the Russian drive in Donbas is being hampered by poor logistics and stiff Ukrainian resistance. 
  <p class="updated_time"> 08:20 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html">Started Out as a Fish. How Did It End Up Like This?</a> NYT: A meme about the transitional fossil Tiktaalik argues that although we did come out of the sea, we aren’t doing just fine. 
- <p class="updated_time"> 08:11 PM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Delay of New Rules 
  <p class="updated_time"> 08:01 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/american-killed-ukraine-cancel.html">Death of American Fighting in Ukraine Confirmed by Family</a> NYT: Willy Joseph Cancel Jr., 22, died in combat earlier this week, according to his uncle. He is believed to be the first American killed while fighting in Ukraine. 
- <p class="updated_time"> 07:11 PM CT, Apr. 29 </p> 
+ <p class="updated_time"> 07:52 PM CT, Apr. 29 </p> 
  <a href="https://www.wsj.com/articles/eurozone-economy-keeps-growing-but-recession-risk-looms-11651225720">Eurozone Economy Keeps Growing but Recession Risk Looms</a> WSJ: Eurozone Economy Keeps Growing but Recession Risk Looms 
  <p class="updated_time"> 06:59 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/biden-russia-scientists.html">Biden Seeks to Lure Russia’s Top Scientists to the U.S.</a> NYT: Legislation proposed by the president would suspend the requirement that Russian scientists have a sponsoring employer to gain a visa. 
+ <p class="updated_time"> 06:52 PM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/west-ramps-up-ukraine-weapons-aid-as-expectations-about-wars-outcome-shift-11651251919">West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift</a> WSJ: West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift 
  <p class="updated_time"> 06:41 PM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095623383/marine-veteran-killed-fighting-in-ukraine">A former U.S. Marine was killed fighting in Ukraine, his family says</a> NPR: An American citizen was killed while fighting alongside the Ukrainian military, according to his family. He is believed to be the first American to be killed while fighting in the war in Ukraine. 
  <p class="updated_time"> 06:20 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/health-61242471?at_medium=RSS&at_campaign=KARANGA">Child hepatitis cases falsely linked to Covid vaccine</a> BBC: None of the affected children in the UK had been vaccinated because they were too young to be eligible. 
  <p class="updated_time"> 06:20 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61215836?at_medium=RSS&at_campaign=KARANGA">'Rise in Muslim families' seeking Ramadan food help</a> BBC: Some Muslims have been struggling to afford food to break their fasts amid the soaring cost of living. 
- <p class="updated_time"> 06:11 PM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/west-ramps-up-ukraine-weapons-aid-as-expectations-about-wars-outcome-shift-11651251919">West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift</a> WSJ: West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift 
  <p class="updated_time"> 06:10 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61268090?at_medium=RSS&at_campaign=KARANGA">China: The elderly people struggling in Shanghai's quarantine centres</a> BBC: One woman told the BBC that her 90-year-old grandmother has been left alone to fend for herself. 
  <p class="updated_time"> 06:08 PM CT, Apr. 29 </p> 
@@ -53,7 +55,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61271576?at_medium=RSS&at_campaign=KARANGA">James Corden: How his viral success divided the internet</a> BBC: The host is credited with reinventing late night US TV but also courted controversy - so what's next? 
  <p class="updated_time"> 06:00 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61278445?at_medium=RSS&at_campaign=KARANGA">Clearing bombs with their hands: The bomb disposal unit saving a city</a> BBC: As the city of Mykolaiv is shelled, the pieces of artillery left behind can be just as fatal. 
- <p class="updated_time"> 05:11 PM CT, Apr. 29 </p> 
+ <p class="updated_time"> 05:52 PM CT, Apr. 29 </p> 
  <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions 
  <p class="updated_time"> 05:10 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/mariupol-steel-plant-video.html">Fighters Share Desperate Videos From Mariupol Steel Plant to Promote Story</a> NYT: With independent media unable to access this last military holdout, videos from inside function as pleas for help and publicity on social media. 
@@ -75,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/29/1095642310/afghans-unite-in-demanding-that-the-taliban-let-girls-attend-secondary-school">Afghans unite in demanding that the Taliban let girls attend secondary school</a> NPR: Afghans are protesting the Taliban's ban on girls attending secondary school, including a surprising cohort: pro-Taliban clerics. 
  <p class="updated_time"> 03:24 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/measles-cases-are-surging-because-the-pandemic-disrupted-childhood-vaccinations-global-agencies-say.html">Measles cases are surging because the pandemic disrupted childhood vaccinations, global agencies say.</a> NYT: A rise of nearly 80 percent in reported measles cases in the first two months of 2022 is the result of millions of children missing out on routine shots, the U.N. and W.H.O. said. 
- <p class="updated_time"> 03:09 PM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61274332?at_medium=RSS&at_campaign=KARANGA">Alexanda Kotey: IS 'Beatle' sentenced to life in US for murders in Syria</a> BBC: Alexanda Kotey, 38, pleaded guilty last September to the beheading of IS hostages in Syria. 
  <p class="updated_time"> 02:59 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61263360?at_medium=RSS&at_campaign=KARANGA">Dexter Jackson: How it feels to be pardoned by the US president</a> BBC: Dexter Jackson knew he had "a one in a million chance" of being pardoned - but "never lost faith". 
  <p class="updated_time"> 02:22 PM CT, Apr. 29 </p> 
