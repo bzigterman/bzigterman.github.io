@@ -9,40 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:08 PM CT, Apr. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61047921?at_medium=RSS&at_campaign=KARANGA">Megayachts and oligarchs: ‘We’re scared of getting close to wrong money’</a> BBC: As the West goes after the assets of Russian oligarchs, the ripples are being felt across the industry. 
  <p class="updated_time"> 06:01 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61273433?at_medium=RSS&at_campaign=KARANGA">Asylum in Denmark: Is the country guilty of double standards?</a> BBC: While Ukrainians are being welcomed in their thousands, the government is trying to reduce the number of non-European refugees. 
  <p class="updated_time"> 06:01 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61262757?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… China’s zero-Covid lockdowns</a> BBC: Ros Atkins looks at why the Chinese government remains committed to its policy of eliminating all outbreaks of coronavirus. 
  <p class="updated_time"> 05:43 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61288030?at_medium=RSS&at_campaign=KARANGA">Paul Rusesabagina: Hotel Rwanda hero's family files $400m US lawsuit</a> BBC: Paul Rusesabagina's family accuse the Rwandan government of abduction and torture. 
+ <p class="updated_time"> 05:39 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages</a> WSJ: Ukrainians Suffer Fuel Shortages 
  <p class="updated_time"> 05:34 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news">Live Updates: Russia Moves More Troops to Front; Ukraine Faces Fuel Shortages</a> NYT: Ukraine said Russia was shifting troops from its far-eastern regions to the front in Donbas. About 20 women and children were evacuated from Mariupol’s embattled Azovstal steel plant, a Ukrainian commander and Russian state media said. 
- <p class="updated_time"> 05:21 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages</a> WSJ: Ukrainians Suffer Fuel Shortages 
  <p class="updated_time"> 05:00 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/kremlin-deploys-new-troops-to-ukraine-as-both-sides-gird-for-a-war-of-attrition.html">Kremlin Deploys New Troops to Ukraine as Both Sides Gird for a War of Attrition</a> NYT: Moscow is hitting fuel refineries and imperiling critical harvests, while Ukrainian forces are being buoyed by an influx of heavy weapons. 
+ <p class="updated_time"> 04:39 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 04:25 PM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1095768821/russia-ukraine-war-what-happened-today-april-30">Russia-Ukraine war: What happened today (April 30)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:21 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 03:47 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/pope-francis-kyiv-ambassadors.html">As Ambassadors Left Town, the Pope’s Emissary Remained in Kyiv</a> NYT: Through shelling, street fights in the suburbs and the flight of thousands through Ukraine’s capital, the Vatican’s diplomatic mission stayed put. 
- <p class="updated_time"> 03:21 PM CT, Apr. 30 </p> 
+ <p class="updated_time"> 03:39 PM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
  <p class="updated_time"> 03:04 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61285178?at_medium=RSS&at_campaign=KARANGA">Mariupol civilians leave besieged Azovstal steelworks</a> BBC: Despite an order from Vladimir Putin to completely seal off the area, 20 civilians escape Azovstal. 
  <p class="updated_time"> 02:48 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/mariupol-evacuation-steel-plant-ukraine.html">Women and Children Evacuated Out of Mariupol’s Azovstal Steel Plant</a> NYT: A Ukrainian commander and Russian news agencies said about 20 civilians were able to leave the steel factory in the besieged city of Mariupol. An unknown number of civilians remains at the plant. 
+ <p class="updated_time"> 02:39 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 02:23 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-scythia-gold-museum-russia.html">Ukraine Says Russia Looted Ancient Gold Artifacts From a Museum</a> NYT: According to Ukrainian officials, Russian soldiers, aided by a mysterious expert, broke into a museum and spirited away priceless artifacts from the Scythian empire. 
- <p class="updated_time"> 02:21 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 01:58 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61285290?at_medium=RSS&at_campaign=KARANGA">Sri Lanka hikes price of medicines 40% amid economic crisis</a> BBC: Prices rise 40% as an economic crisis bites, leaving some Sri Lankans cutting short treatments. 
+ <p class="updated_time"> 01:39 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/russias-war-in-ukraine-is-straining-global-economic-cooperation-11651318201">Russia’s Ukraine War Strains Global Economic Cooperation</a> WSJ: Russia’s Ukraine War Strains Global Economic Cooperation 
  <p class="updated_time"> 01:36 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/books/review/dead-in-the-water-matthew-campbell-kit-chellel.html">Review: ‘Dead in the Water,’ by Matthew Campbell & Kit Chellel</a> NYT: In Matthew Campbell and Kit Chellel’s real-life whodunit “Dead in the Water,” Big Oil, Big Insurance and global corruption clash on a giant scale. 
- <p class="updated_time"> 01:21 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/russias-war-in-ukraine-is-straining-global-economic-cooperation-11651318201">Russia’s Ukraine War Strains Global Economic Cooperation</a> WSJ: Russia’s Ukraine War Strains Global Economic Cooperation 
  <p class="updated_time"> 01:13 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/middleeast/muslims-digital-prayer-rings.html">Some Muslims Are Using Digital Rings to Count Recitations</a> NYT: Much like the fitness tools that count steps, these electronic devices help keep a record of the day’s religious recitations. 
  <p class="updated_time"> 12:24 PM CT, Apr. 30 </p> 
@@ -97,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/30/1092639702/russia-norway-nato-arctic-council">A new Iron Curtain is eroding Norway's hard-won ties with Russia on Arctic issues</a> NPR: The countries share a border. Along the frontier, residents say a new barrier has disrupted everything from Arctic climate action and nuclear waste control to trade and cross-border sports leagues. 
  <p class="updated_time"> 04:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/middleeast/miilya-israel-archaeology-crusaders-byzantine.html">Mi’ilya, Christian Village in Israel, Digs Into Crusader Past</a> NYT: The residents of Mi’ilya long wondered what archaeological treasures lay beneath a crumbling castle. Now, some are excavating their homes to find out. 
- <p class="updated_time"> 02:18 AM CT, Apr. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61280587?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands: UK minister dispatched for governance talks</a> BBC: But the British overseas territory's acting leader says it opposes calls for the UK to impose direct rule. 
  <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Trade Barriers From the Ukraine War Are Sending Food Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
  <p class="updated_time"> 10:58 PM CT, Apr. 29 </p> 
@@ -171,6 +171,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/insider/nyt-journalists-abroad.html">Weighing Risk When the Reporting Is Dangerous</a> NYT: A security team watches out for Times journalists abroad. There are strategies in place, but sometimes there’s no other choice but to leave a country. 
  <p class="updated_time"> 07:09 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/movies/russia-movie-theaters-piracy.html">In Echo of Soviet Era, Russia’s Movie Theaters Turn to Pirate Screenings</a> NYT: In a Cold War throwback, some venues are showing bootleg versions after Hollywood studios pulled films from the country. Still, viewer numbers have tanked. 
+ <p class="updated_time"> 05:22 AM CT, Apr. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61270616?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Residents protest after five weeks of strict zero-Covid measures</a> BBC: Some residents have been under strict lockdown for five weeks, and struggled to access food supplies. 
  <p class="updated_time"> 05:15 AM CT, Apr. 29 </p> 
  <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Israeli police clashed with Palestinians at Jerusalem’s most contested site as large crowds of Muslims gathered for Friday prayers, ending a weeklong period of relative calm. 
  <p class="updated_time"> 04:36 AM CT, Apr. 29 </p> 
