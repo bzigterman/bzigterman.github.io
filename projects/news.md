@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:34 AM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news">Live Updates: Russia Moving More Troops to Front as Offensive Appears to Falter</a> NYT: The Ukrainian military said that troops normally stationed in far-eastern Russia are being moved to the battle front in eastern Ukraine. Moscow is trying to gain momentum in what the Pentagon has described as a “plodding” offensive. 
  <p class="updated_time"> 06:00 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/30/1094677166/we-asked-you-answered-have-you-taught-your-children-to-run-errands-on-their-own">We asked, you answered: Have you taught your children to run errands on their own?</a> NPR: Nearly 100 NPR readers gave their views on encouraging kids to do tasks on their own at home and in the community. Some are opposed to the practice for safety reasons. Others shared personal stories. 
- <p class="updated_time"> 05:52 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news">Live Updates: Russia Moving More Troops to Front as Offensive Appears to Falter</a> NYT: The Ukrainian military said that troops normally stationed in far-eastern Russia are being moved to the battle front in eastern Ukraine. Moscow is trying to gain momentum in what the Pentagon has described as a “plodding” offensive. 
  <p class="updated_time"> 05:50 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/asia/pakistan-airstrikes-afghanistan-taliban.html">‘I Lost Everything’: Pakistani Airstrikes Escalate Conflict on Afghan Border</a> NYT: The airstrikes killed at least 45 people, stoking fears of a violent resurgence of the conflict in eastern Afghanistan, which has become a base for Pakistani militants. 
- <p class="updated_time"> 05:23 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665">Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia</a> WSJ: Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia 
+ <p class="updated_time"> 05:47 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages After Russian Strikes</a> WSJ: Ukrainians Suffer Fuel Shortages After Russian Strikes 
  <p class="updated_time"> 05:15 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
  <p class="updated_time"> 05:11 AM CT, Apr. 30 </p> 
@@ -25,12 +25,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/30/world/canada/hudsons-bay-winnipeg.html">Flagship Hudson’s Bay Store Turned Over to Indigenous Group</a> NYT: The Hudson’s Bay Company has turned over its former flagship store to an Indigenous group with big ambitions for the space. 
  <p class="updated_time"> 04:54 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61280409?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US accuses Russia of depravity and brutality</a> BBC: Pentagon spokesman John Kirby appeared emotional as he described Russia's "cruelty" in Ukraine. 
+ <p class="updated_time"> 04:47 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 04:30 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61259569?at_medium=RSS&at_campaign=KARANGA">Venus and Jupiter Conjunction: Planets to almost touch in night sky</a> BBC: The dazzlingly bright planets appear extremely close together in the dark sky this weekend. 
  <p class="updated_time"> 04:23 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/biden-russia-scientists.html">Biden Seeks to Lure Russia’s Top Scientists to the U.S.</a> NYT: Legislation proposed by the president would suspend the requirement that Russian scientists have a sponsoring employer to gain a visa. 
- <p class="updated_time"> 04:23 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Delay of New Rules 
  <p class="updated_time"> 04:19 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/american-killed-ukraine-cancel.html">Death of American Fighting in Ukraine Confirmed by Family</a> NYT: Willy Joseph Cancel Jr., 22, died in combat earlier this week, according to his uncle. He is believed to be the first American killed while fighting in Ukraine. 
  <p class="updated_time"> 04:08 AM CT, Apr. 30 </p> 
@@ -41,18 +41,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/30/1092639702/russia-norway-nato-arctic-council">A new Iron Curtain is eroding Norway's hard-won ties with Russia on Arctic issues</a> NPR: The countries share a border. Along the frontier, residents say a new barrier has disrupted everything from Arctic climate action and nuclear waste control to trade and cross-border sports leagues. 
  <p class="updated_time"> 04:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/middleeast/miilya-israel-archaeology-crusaders-byzantine.html">Mi’ilya, Christian Village in Israel, Digs Into Crusader Past</a> NYT: The residents of Mi’ilya long wondered what archaeological treasures lay beneath a crumbling castle. Now, some are excavating their homes to find out. 
- <p class="updated_time"> 03:23 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/eurozone-economy-keeps-growing-but-recession-risk-looms-11651225720">Eurozone Economy Keeps Growing but Recession Risk Looms</a> WSJ: Eurozone Economy Keeps Growing but Recession Risk Looms 
- <p class="updated_time"> 02:23 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/west-ramps-up-ukraine-weapons-aid-as-expectations-about-wars-outcome-shift-11651251919">West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift</a> WSJ: West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift 
+ <p class="updated_time"> 03:47 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
+ <p class="updated_time"> 02:47 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Delay of New Rules 
  <p class="updated_time"> 02:18 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61280587?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands: UK minister dispatched for governance talks</a> BBC: But the British overseas territory's acting leader says it opposes calls for the UK to impose direct rule. 
  <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Governments Tighten Grip on Global Food Stocks, Sending Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
- <p class="updated_time"> 01:23 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions 
- <p class="updated_time"> 01:11 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages After Russian Strikes</a> WSJ: Recent Russian missile strikes on oil refineries and storage depots in Ukraine have resulted in shortages of gasoline and rising prices, and officials have pledged to resolve the crisis with new contracts from Western Europe. 
+ <p class="updated_time"> 01:47 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/eurozone-economy-keeps-growing-but-recession-risk-looms-11651225720">Eurozone Economy Keeps Growing but Recession Risk Looms</a> WSJ: Eurozone Economy Keeps Growing but Recession Risk Looms 
  <p class="updated_time"> 11:46 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61281692?at_medium=RSS&at_campaign=KARANGA">Kansas tornado inflicts heavy damage and leaves thousands without power</a> BBC: Shocking footage shows a large twister snaking through the city of Wichita. 
  <p class="updated_time"> 10:58 PM CT, Apr. 29 </p> 
@@ -73,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61280068?at_medium=RSS&at_campaign=KARANGA">Daughter of IS victim: 'I will never forgive'</a> BBC: Facing her father's killers in court, Bethany Haines read her impact statement and detailed her trauma. 
  <p class="updated_time"> 06:41 PM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095623383/marine-veteran-killed-fighting-in-ukraine">A former U.S. Marine was killed fighting in Ukraine, his family says</a> NPR: An American citizen was killed while fighting alongside the Ukrainian military, according to his family. He is believed to be the first American to be killed while fighting in the war in Ukraine. 
- <p class="updated_time"> 06:35 PM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China's Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: A contraction in China’s factory and service-sector activity worsened for a second straight month, as strict lockdowns in dozens of cities shut down production and pummeled consumer spending. 
  <p class="updated_time"> 06:20 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/health-61242471?at_medium=RSS&at_campaign=KARANGA">Child hepatitis cases falsely linked to Covid vaccine</a> BBC: None of the affected children in the UK had been vaccinated because they were too young to be eligible. 
  <p class="updated_time"> 06:20 PM CT, Apr. 29 </p> 
@@ -153,6 +149,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/28/world/un-antonio-guterres-kyiv.html">Top U.N. Official Tours Kyiv, Declaring the War ‘An Absurdity’  </a> NYT: António Guterres’ goals include securing evacuation routes for besieged civilians and supporting the prosecution of war crimes. 
  <p class="updated_time"> 05:22 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61270616?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Residents protest after five weeks of strict zero-Covid measures</a> BBC: Some residents have been under strict lockdown for five weeks, and struggled to access food supplies. 
+ <p class="updated_time"> 05:15 AM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Israeli police clashed with Palestinians at Jerusalem’s most contested site as large crowds of Muslims gathered for Friday prayers, ending a weeklong period of relative calm. 
  <p class="updated_time"> 04:36 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/on-the-trail-of-russian-war-crimes.html">On the Trail of Russian War Crimes</a> NYT: Lyudmyla Denisova, Ukraine’s top human rights official, is determined to right historical wrongs and make sure Russians are held to account. 
  <p class="updated_time"> 03:42 AM CT, Apr. 29 </p> 
@@ -200,6 +198,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:01 AM CT, Apr. 30 </p> 
+ <a href="https://www.politico.com/news/2022/04/29/oregon-kentucky-dust-off-an-obama-era-policy-to-expand-health-insurance-00029111">Oregon, Kentucky dust off an Obama-era policy to expand health insurance</a> Politico: Oregon and Kentucky are pursuing an Obama-era policy that uses federal dollars to establish a health insurance plan for people who make too much money to qualify for their state’s Medicaid programs. 
+ <p class="updated_time"> 06:00 AM CT, Apr. 30 </p> 
+ <a href="https://www.politico.com/news/2022/04/30/governors-covid-mask-mandates-00028187">Officials are nervous about mask mandates — even in Covid hot spots</a> Politico: In an election year where more than 30 governors, Congress and many state legislatures are on the ballot, politicians have been loathe to consider mandates. 
  <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/us/politics/ohio-senate-primary-vance-trump.html">Once Soft-Spoken, Ohio Conservatives Embrace the Bombast</a> NYT: The slugfest for the Republican nomination for Ohio’s open Senate seat has buried the brand of good-natured, country-club conservatism that was once a hallmark of the state. 
  <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
@@ -265,11 +267,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, Apr. 29 </p> 
  <a href="https://www.politico.com/news/2022/04/29/dscc-democrats-campaign-advertisements-senate-00028721">Dems reserve $33M in bid to hold Senate</a> Politico: The caucus' campaign arm is focusing on four embattled incumbents. 
  <p class="updated_time"> 03:30 AM CT, Apr. 29 </p> 
- <a href="https://www.politico.com/news/2022/04/29/how-elon-musk-takes-on-washington-00028751">A much brasher Twitter could be coming to Washington</a> Politico: When the Tesla and SpaceX founder takes the helm of Twitter, the company’s presence in Washington is likely to change quickly, lobbyists and government officials say. 
- <p class="updated_time"> 03:30 AM CT, Apr. 29 </p> 
- <a href="https://www.politico.com/news/2022/04/29/house-republican-freedom-caucus-challenges-00023071">Inside the House Freedom Caucus’ identity crisis</a> Politico: The conservatives who built their political brand on challenging GOP leaders are starting to struggle with problems of their own. 
- <p class="updated_time"> 03:30 AM CT, Apr. 29 </p> 
  <a href="https://www.politico.com/gallery/2022/04/29/the-nations-cartoonists-on-the-week-in-politics-00028851">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
+ <p class="updated_time"> 03:30 AM CT, Apr. 29 </p> 
+ <a href="https://www.politico.com/news/2022/04/29/house-republican-freedom-caucus-challenges-00023071">How the House Freedom Caucus shapeshifted into an identity crisis</a> Politico: The conservatives who built their political brand on challenging GOP leaders are starting to struggle with problems of their own. 
  <p class="updated_time"> 02:39 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095444475/some-democrats-are-joining-with-republicans-lobbying-to-keep-title-42">Some Democrats are joining with Republicans lobbying to keep Title 42</a> NPR: NPR's A Martinez asks Democratic analyst Maria Cardona about moderate Democrats, who have broken with the White House over plans to lift Title 42 restrictions on migrant border crossings. 
  <p class="updated_time"> 10:26 PM CT, Apr. 28 </p> 
