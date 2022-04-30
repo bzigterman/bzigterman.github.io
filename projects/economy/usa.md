@@ -17,7 +17,8 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src="/interactive/disposable_income.html" width="100%" height="300"> 
 </iframe>
 
-[![Inflation]({{ site.baseurl }}/plots/consumer_price_index.png)](https://fred.stlouisfed.org/series/CPIAUCSL)
+<iframe src="/interactive/inflation.html" width="100%" height="300"> 
+</iframe>
 
 [![Retail Sales]({{ site.baseurl }}/plots/retail_sales.png)](https://fred.stlouisfed.org/series/RSAFS)
 

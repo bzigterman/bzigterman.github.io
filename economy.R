@@ -596,25 +596,30 @@ recent_data <- data %>%
   filter(date > recent_years) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
 
-ggplot(recent_data, aes(x = date,
-                        y = change)) +
-  geom_line() +
-  labs(title = "Inflation",
-       subtitle = "Consumer Price Index",
-       caption = paste("Source: University of Michigan Consumer Survey, retrieved from the St. Louis Fed. Latest data:",
-                       tail(recent_data$short_date,1))) +
-  xlab(NULL) +
-  ylab(NULL) +
-  scale_x_date(expand = expansion(mult = c(0, .01))) +
-  scale_y_continuous(position = "right") +
-  theme(axis.text.y = element_text(size = 10),
-        axis.text.x = element_text(size = 8),
-        panel.grid.minor = element_blank(),
-        panel.background = element_blank(),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        strip.text = element_text(size = 11),
-        strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = round(change*100, digits = 1)),
+              name = "Rate") %>%
+  hc_title(text = "Inflation: Consumer Price Index") %>%
+  hc_caption(
+    text = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+                 tail(recent_data$short_date,1))) %>%
+  hc_yAxis(title = list(text = "")) %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )%>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
+fig
+saveWidget(widget = fig, file = "interactive/inflation.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
 
 cpi <- ggplot(data = data,
               aes(x = date,
@@ -1343,7 +1348,8 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src=\"/interactive/disposable_income.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-[![Inflation]({{ site.baseurl }}/plots/consumer_price_index.png)](https://fred.stlouisfed.org/series/CPIAUCSL)
+<iframe src=\"/interactive/inflation.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 [![Retail Sales]({{ site.baseurl }}/plots/retail_sales.png)](https://fred.stlouisfed.org/series/RSAFS)
 
