@@ -9,24 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:34 AM CT, Apr. 30 </p> 
+ <p class="updated_time"> 08:37 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news">Live Updates: Russia Moving More Troops to Front as Offensive Appears to Falter</a> NYT: The Ukrainian military said that troops normally stationed in far-eastern Russia are being moved to the battle front in eastern Ukraine. Moscow is trying to gain momentum in what the Pentagon has described as a “plodding” offensive. 
+ <p class="updated_time"> 08:16 AM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/2022/04/30/world/europe/northern-ireland-elections-sinn-fein.html">Sinn Fein Poised to Make Historic Gains in Northern Ireland</a> NYT: But Sinn Fein, which is leading in polls ahead of next week’s elections, hasn’t focused its campaign on unification with Ireland. 
+ <p class="updated_time"> 08:00 AM CT, Apr. 30 </p> 
+ <a href="https://www.npr.org/2022/04/30/1093339262/ukraine-russia-rape-war-crimes">Rape has reportedly become a weapon in Ukraine. Finding justice may be difficult</a> NPR: Widespread allegations of rape at the hands of Russian soldiers have been coming out of Ukraine. Experts say rape in conflict is often used to pursue strategic aims. 
+ <p class="updated_time"> 07:49 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages After Russian Strikes</a> WSJ: Ukrainians Suffer Fuel Shortages After Russian Strikes 
+ <p class="updated_time"> 07:44 AM CT, Apr. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61283614?at_medium=RSS&at_campaign=KARANGA">China Covid outbreak: Beijing residents must test negative to enter public spaces</a> BBC: China's capital imposes major new restrictions in a bid to curb a spike in cases. 
+ <p class="updated_time"> 07:14 AM CT, Apr. 30 </p> 
+ <a href="https://www.npr.org/2022/04/30/1095750152/outspoken-putin-critic-garry-kasparov-says-ukraine-is-just-putins-first-stop">Outspoken Putin critic Garry Kasparov says Ukraine is just Putin's first stop</a> NPR: Scott Simon speaks with former chess champion and Russian President Vladimir Putin's outspoken critic, Garry Kasparov, about the conflict in Ukraine after an event at Goucher College in Maryland. 
+ <p class="updated_time"> 07:06 AM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/2022/04/30/world/ukraine-fuel-shortages-russia.html">Ukraine Grapples With Fuel Shortages After Russian Attacks</a> NYT: Officials in Kyiv have urged residents to use public transportation rather than private vehicles in an effort to save fuel for the military. 
+ <p class="updated_time"> 07:06 AM CT, Apr. 30 </p> 
+ <a href="https://www.npr.org/2022/04/30/1095729592/what-is-may-day-history">What is May Day? For the most part, the opposite of capitalism</a> NPR: What springs to mind when you hear May Day? In the U.S. and abroad, the day has grown to encompass a spectrum of meanings. But the themes have remained the same: worker unity, suppression and rebirth. 
+ <p class="updated_time"> 07:00 AM CT, Apr. 30 </p> 
+ <a href="https://www.npr.org/2022/04/30/1095750117/after-three-months-of-conflict-the-ukrainian-city-of-mariupol-is-devastated">After three months of conflict, the Ukrainian city of Mariupol is devastated</a> NPR: Heavy fighting continues in the north and south of Ukraine. The U.N. Secretary General was in Kyiv this week to try to set up evacuation routes from the besieged city of Mariupol. 
+ <p class="updated_time"> 06:57 AM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/2022/04/30/world/asia/pakistan-airstrikes-afghanistan-taliban.html">‘I Lost Everything’: Pakistani Airstrikes Escalate Conflict on Afghan Border</a> NYT: The airstrikes killed at least 45 people, stoking fears of a violent resurgence of the conflict in eastern Afghanistan, which has become a base for Pakistani militants. 
+ <p class="updated_time"> 06:49 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 06:00 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/30/1094677166/we-asked-you-answered-have-you-taught-your-children-to-run-errands-on-their-own">We asked, you answered: Have you taught your children to run errands on their own?</a> NPR: Nearly 100 NPR readers gave their views on encouraging kids to do tasks on their own at home and in the community. Some are opposed to the practice for safety reasons. Others shared personal stories. 
- <p class="updated_time"> 05:59 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages After Russian Strikes</a> WSJ: Ukrainians Suffer Fuel Shortages After Russian Strikes 
- <p class="updated_time"> 05:50 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/30/world/asia/pakistan-airstrikes-afghanistan-taliban.html">‘I Lost Everything’: Pakistani Airstrikes Escalate Conflict on Afghan Border</a> NYT: The airstrikes killed at least 45 people, stoking fears of a violent resurgence of the conflict in eastern Afghanistan, which has become a base for Pakistani militants. 
+ <p class="updated_time"> 05:49 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 05:15 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
  <p class="updated_time"> 05:11 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/mariupol-steel-plant-video.html">Fighters Share Desperate Videos From Mariupol Steel Plant to Promote Story</a> NYT: With independent media unable to access this last military holdout, videos from inside function as pleas for help and publicity on social media. 
  <p class="updated_time"> 05:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/canada/hudsons-bay-winnipeg.html">Flagship Hudson’s Bay Store Turned Over to Indigenous Group</a> NYT: The Hudson’s Bay Company has turned over its former flagship store to an Indigenous group with big ambitions for the space. 
- <p class="updated_time"> 04:59 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 04:54 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61280409?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US accuses Russia of depravity and brutality</a> BBC: Pentagon spokesman John Kirby appeared emotional as he described Russia's "cruelty" in Ukraine. 
+ <p class="updated_time"> 04:49 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Delay of New Rules 
  <p class="updated_time"> 04:30 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61259569?at_medium=RSS&at_campaign=KARANGA">Venus and Jupiter Conjunction: Planets to almost touch in night sky</a> BBC: The dazzlingly bright planets appear extremely close together in the dark sky this weekend. 
  <p class="updated_time"> 04:23 AM CT, Apr. 30 </p> 
@@ -41,16 +59,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/30/1092639702/russia-norway-nato-arctic-council">A new Iron Curtain is eroding Norway's hard-won ties with Russia on Arctic issues</a> NPR: The countries share a border. Along the frontier, residents say a new barrier has disrupted everything from Arctic climate action and nuclear waste control to trade and cross-border sports leagues. 
  <p class="updated_time"> 04:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/middleeast/miilya-israel-archaeology-crusaders-byzantine.html">Mi’ilya, Christian Village in Israel, Digs Into Crusader Past</a> NYT: The residents of Mi’ilya long wondered what archaeological treasures lay beneath a crumbling castle. Now, some are excavating their homes to find out. 
- <p class="updated_time"> 03:59 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
- <p class="updated_time"> 02:59 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Delay of New Rules 
+ <p class="updated_time"> 03:49 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions 
  <p class="updated_time"> 02:18 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61280587?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands: UK minister dispatched for governance talks</a> BBC: But the British overseas territory's acting leader says it opposes calls for the UK to impose direct rule. 
  <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Governments Tighten Grip on Global Food Stocks, Sending Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
- <p class="updated_time"> 01:59 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/eurozone-economy-keeps-growing-but-recession-risk-looms-11651225720">Eurozone Economy Keeps Growing but Recession Risk Looms</a> WSJ: Eurozone Economy Keeps Growing but Recession Risk Looms 
  <p class="updated_time"> 11:46 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61281692?at_medium=RSS&at_campaign=KARANGA">Kansas tornado inflicts heavy damage and leaves thousands without power</a> BBC: Shocking footage shows a large twister snaking through the city of Wichita. 
  <p class="updated_time"> 10:58 PM CT, Apr. 29 </p> 
@@ -79,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61268090?at_medium=RSS&at_campaign=KARANGA">China: The elderly people struggling in Shanghai's quarantine centres</a> BBC: One woman told the BBC that her 90-year-old grandmother has been left alone to fend for herself. 
  <p class="updated_time"> 06:08 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/health-61184400?at_medium=RSS&at_campaign=KARANGA">The impact of miscarriage on families around the world</a> BBC: The grief is universal, but the care women receive during pregnancy loss can depend on where they live. 
- <p class="updated_time"> 06:05 PM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-61260550?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 23 - 29 April 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 06:03 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61271576?at_medium=RSS&at_campaign=KARANGA">James Corden: How his viral success divided the internet</a> BBC: The host is credited with reinventing late night US TV but also courted controversy - so what's next? 
  <p class="updated_time"> 06:00 PM CT, Apr. 29 </p> 
@@ -119,38 +131,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/europe/boris-becker-sentenced-bankruptcy.html">Boris Becker Sentenced to Prison for Hiding Assets in Bankruptcy</a> NYT: The former tennis champion was found guilty by a London court on charges related to his 2017 insolvency. 
  <p class="updated_time"> 11:48 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ukraine-war-casualties-grief.html">In Ukraine, A Body Bag and a Sister in Denial</a> NYT: The war in Ukraine is so big that it has shaken the world. But for a sister looking for her missing older brother, it was reduced to a visit to a morgue. 
- <p class="updated_time"> 11:31 AM CT, Apr. 29 </p> 
- <a href="https://www.npr.org/2022/04/29/1095458518/russia-ukraine-us-military-aid">Russia sharpens warnings as the U.S. and Europe send more weapons to Ukraine</a> NPR: Russian criticism of Western military aid to Ukraine is not new. But recent rhetoric reflects efforts to build public consensus for the need of a protracted — if not existential — war with the West. 
  <p class="updated_time"> 11:30 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/climate/solar-industry-imports.html">Solar Industry ‘Frozen’ as Biden Administration Investigates China</a> NYT: More than 300 solar projects in the United States have been canceled or delayed in recent weeks because of an investigation by the Commerce Department. 
  <p class="updated_time"> 11:21 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/anglo-saxon-kings-diet.html">Anglo-Saxon Kings Made Sure to Eat Their Vegetables, Study Shows</a> NYT: Contrary to popular belief, the ruling classes gorged on meat only on rare occasions, according to an analysis of more than 2,000 skeletons buried during medieval times. 
- <p class="updated_time"> 10:23 AM CT, Apr. 29 </p> 
- <a href="https://www.npr.org/2022/04/29/1095494581/wimbledon-champion-boris-becker-gets-2-1-2-years-in-prison-for-bankruptcy-offens">Wimbledon champion Boris Becker gets 2 1/2 years in prison for bankruptcy offenses</a> NPR: The 54-year-old German tennis great was sentenced for illicitly transferring large amounts of money and hiding assets after he was declared bankrupt. 
  <p class="updated_time"> 10:08 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61263794?at_medium=RSS&at_campaign=KARANGA">Depp v Heard: What you might have missed this week</a> BBC: The court hears evidence of personality disorders, drug abuse and a relationship with Elon Musk. 
  <p class="updated_time"> 09:54 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/asia/beijing-covid-outbreak-schools.html">Beijing Closes Schools as It Tries to Contain an Outbreak</a> NYT: The city is heading into a long holiday weekend, and officials are discouraging travel and unnecessary gatherings. 
- <p class="updated_time"> 09:50 AM CT, Apr. 29 </p> 
- <a href="https://www.npr.org/2022/04/29/1095465857/russia-kyiv-rocket-guterres">Why Russia's rocket attack on Kyiv is seen as an insult to the U.N.</a> NPR: "It is a war zone, but it is shocking that it happened close to us," Saviano Abreu, a spokesman for the U.N.'s humanitarian office, was quoted as saying. The attack killed one person: a journalist. 
  <p class="updated_time"> 09:41 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/ukraine-rape-war-crimes.html">In Ukraine War, a Long Journey Begins in Prosecuting Rape</a> NYT: U.N. officials and human rights investigators are rushing more resources to authorities in Ukraine to help prosecute sex crimes. 
  <p class="updated_time"> 09:14 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/asia/south-korea-age-yoon.html">Millions of South Koreans Could Soon Get Younger (on Paper)</a> NYT: South Korea has three ways of calculating age, often adding a year or two to the international standard. The incoming president wants to change that. 
  <p class="updated_time"> 08:33 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/insider/nyt-journalists-abroad.html">Weighing Risk When the Reporting Is Dangerous</a> NYT: A security team watches out for Times journalists abroad. There are strategies in place, but sometimes there’s no other choice but to leave a country. 
- <p class="updated_time"> 08:23 AM CT, Apr. 29 </p> 
- <a href="https://www.npr.org/2022/04/29/1094943529/shabana-basij-rasikh-the-ongoing-fight-to-educate-afghan-girls">Shabana Basij-Rasikh: The ongoing fight to educate Afghan girls</a> NPR: In 2016, Shabana Basij-Rasikh created Afghanistan's School of Leadership for girls. When the Taliban took control in 2021, she helped her students flee and continued their education abroad. 
- <p class="updated_time"> 07:55 AM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/27/us/politics/ukraine-war-expansion.html">Fears Mount That Ukraine War Will Become a Broader Conflict</a> NYT: American and European officials say their concern is based in part on a growing conviction that the war will not end any time soon. 
  <p class="updated_time"> 07:09 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/movies/russia-movie-theaters-piracy.html">In Echo of Soviet Era, Russia’s Movie Theaters Turn to Pirate Screenings</a> NYT: In a Cold War throwback, some venues are showing bootleg versions after Hollywood studios pulled films from the country. Still, viewer numbers have tanked. 
  <p class="updated_time"> 05:52 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/un-antonio-guterres-kyiv.html">Top U.N. Official Tours Kyiv, Declaring the War ‘An Absurdity’  </a> NYT: António Guterres’ goals include securing evacuation routes for besieged civilians and supporting the prosecution of war crimes. 
  <p class="updated_time"> 05:22 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61270616?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Residents protest after five weeks of strict zero-Covid measures</a> BBC: Some residents have been under strict lockdown for five weeks, and struggled to access food supplies. 
- <p class="updated_time"> 05:15 AM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Israeli police clashed with Palestinians at Jerusalem’s most contested site as large crowds of Muslims gathered for Friday prayers, ending a weeklong period of relative calm. 
  <p class="updated_time"> 04:36 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/on-the-trail-of-russian-war-crimes.html">On the Trail of Russian War Crimes</a> NYT: Lyudmyla Denisova, Ukraine’s top human rights official, is determined to right historical wrongs and make sure Russians are held to account. 
  <p class="updated_time"> 03:42 AM CT, Apr. 29 </p> 
@@ -198,6 +198,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:26 AM CT, Apr. 30 </p> 
+ <a href="https://www.npr.org/2022/04/30/1095750165/title-42-was-meant-to-slow-covid-at-the-border-its-being-used-to-manage-migratio">Title 42 was meant to slow COVID at the border. It's being used to manage migration</a> NPR: The pandemic border restrictions known as Title 42 are technically a public health policy. But the debate in Washington has shifted to whether or not they're an effective tool for managing the border. 
+ <p class="updated_time"> 07:00 AM CT, Apr. 30 </p> 
+ <a href="https://www.npr.org/2022/04/30/1095750110/week-in-politics-trump-under-investigation-ukraine-and-covid-funds-up-in-the-air">Week in politics: Trump under investigation; Ukraine and COVID funds up in the air</a> NPR: We'll take a look at two grand jury investigations into former President Donald Trump, as well as the fate of the Ukraine aid and COVID spending bills currently in Congress. 
  <p class="updated_time"> 06:51 AM CT, Apr. 30 </p> 
  <a href="https://www.politico.com/news/2022/04/30/eastman-trump-related-emails-00029141">Eastman to produce 10,000 pages of Trump-related emails as broader legal fight looms</a> Politico: Obtaining the attorney's records has been a top priority for the committee probing the events of Jan. 6. 
  <p class="updated_time"> 06:01 AM CT, Apr. 30 </p> 
@@ -292,10 +296,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/28/1095365226/what-an-election-in-slovenia-could-mean-for-europe">What an election in Slovenia could mean for Europe</a> NPR: Slovenia voted last weekend to oust Janez Jansa as their Prime Minister. NPR's Rob Schmitz talks with Judy Dempsey of Carnegie Europe on how that election reflects on European politics. 
  <p class="updated_time"> 04:05 PM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095365219/california-is-considering-safe-injection-centers-to-help-alleviate-overdose-cris">California is considering safe injection centers to help alleviate overdose crisis</a> NPR: California lawmakers are debating whether safe injection centers will help combat the overdose crisis. A new bill would establish facilities for drug use under the supervision of a health care worker. 
- <p class="updated_time"> 04:05 PM CT, Apr. 28 </p> 
- <a href="https://www.npr.org/2022/04/28/1095365205/giuliani-is-still-under-investigation-a-year-after-the-fbi-raided-his-home-and-o">Giuliani is still under investigation a year after the FBI raided his home and office</a> NPR: It's been one year since the FBI raided Rudy Giuliani's Manhattan home and office. He has not been charged with any crimes, but investigators are looking at his activities in Ukraine. 
- <p class="updated_time"> 03:54 PM CT, Apr. 28 </p> 
- <a href="https://www.npr.org/2022/04/28/1095347248/russia-ukraine-war-what-happened-today-april-28">Russia-Ukraine war: What happened today (April 28)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:32 PM CT, Apr. 28 </p> 
  <a href="https://www.politico.com/news/2022/04/28/democrats-border-immigration-battle-dhs-00028702">Biden admin struggles to calm the Democratic storm over immigration</a> Politico: The Department of Homeland Security's plan for a reversal of Covid-era border curbs isn't stopping an internal rebellion by purple-state lawmakers. 
  <p class="updated_time"> 03:10 PM CT, Apr. 28 </p> 
