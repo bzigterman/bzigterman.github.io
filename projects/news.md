@@ -9,42 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:56 AM CT, Apr. 30 </p> 
+ <p class="updated_time"> 09:42 AM CT, Apr. 30 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/61259954?at_medium=RSS&at_campaign=KARANGA">Football agent Mino Raiola dies at 54</a> BBC: Football agent Mino Raiola - whose clients included Borussia Dortmund striker Erling Haaland and Manchester United midfielder Paul Pogba - dies at the age of 54. 
+ <p class="updated_time"> 09:30 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news">Live Updates: Russia Moving More Troops to Front as Offensive Appears to Falter</a> NYT: The Ukrainian military said that troops normally stationed in far-eastern Russia are being moved to the battle front in eastern Ukraine. Moscow is trying to gain momentum in what the Pentagon has described as a “plodding” offensive. 
+ <p class="updated_time"> 09:00 AM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/2022/04/30/world/ukraine-fuel-shortages-russia.html">Ukraine Grapples With Fuel Shortages After Russian Attacks</a> NYT: Officials in Kyiv have urged residents to use public transportation rather than private vehicles in an effort to save fuel for the military. 
+ <p class="updated_time"> 08:50 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages After Russian Strikes</a> WSJ: Ukrainians Suffer Fuel Shortages After Russian Strikes 
  <p class="updated_time"> 08:16 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/northern-ireland-elections-sinn-fein.html">Sinn Fein Poised to Make Historic Gains in Northern Ireland</a> NYT: But Sinn Fein, which is leading in polls ahead of next week’s elections, hasn’t focused its campaign on unification with Ireland. 
- <p class="updated_time"> 08:01 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages After Russian Strikes</a> WSJ: Ukrainians Suffer Fuel Shortages After Russian Strikes 
  <p class="updated_time"> 08:00 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1093339262/ukraine-russia-rape-war-crimes">Rape has reportedly become a weapon in Ukraine. Finding justice may be difficult</a> NPR: Widespread allegations of rape at the hands of Russian soldiers have been coming out of Ukraine. Experts say rape in conflict is often used to pursue strategic aims. 
+ <p class="updated_time"> 07:50 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 07:44 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61283614?at_medium=RSS&at_campaign=KARANGA">China Covid outbreak: Beijing residents must test negative to enter public spaces</a> BBC: China's capital imposes major new restrictions in a bid to curb a spike in cases. 
  <p class="updated_time"> 07:14 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1095750152/outspoken-putin-critic-garry-kasparov-says-ukraine-is-just-putins-first-stop">Outspoken Putin critic Garry Kasparov says Ukraine is just Putin's first stop</a> NPR: Scott Simon speaks with former chess champion and Russian President Vladimir Putin's outspoken critic, Garry Kasparov, about the conflict in Ukraine after an event at Goucher College in Maryland. 
  <p class="updated_time"> 07:06 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/30/world/ukraine-fuel-shortages-russia.html">Ukraine Grapples With Fuel Shortages After Russian Attacks</a> NYT: Officials in Kyiv have urged residents to use public transportation rather than private vehicles in an effort to save fuel for the military. 
- <p class="updated_time"> 07:06 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1095729592/what-is-may-day-history">What is May Day? For the most part, the opposite of capitalism</a> NPR: What springs to mind when you hear May Day? In the U.S. and abroad, the day has grown to encompass a spectrum of meanings. But the themes have remained the same: worker unity, suppression and rebirth. 
- <p class="updated_time"> 07:01 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 07:00 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1095750117/after-three-months-of-conflict-the-ukrainian-city-of-mariupol-is-devastated">After three months of conflict, the Ukrainian city of Mariupol is devastated</a> NPR: Heavy fighting continues in the north and south of Ukraine. The U.N. Secretary General was in Kyiv this week to try to set up evacuation routes from the besieged city of Mariupol. 
  <p class="updated_time"> 06:57 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/asia/pakistan-airstrikes-afghanistan-taliban.html">‘I Lost Everything’: Pakistani Airstrikes Escalate Conflict on Afghan Border</a> NYT: The airstrikes killed at least 45 people, stoking fears of a violent resurgence of the conflict in eastern Afghanistan, which has become a base for Pakistani militants. 
- <p class="updated_time"> 06:01 AM CT, Apr. 30 </p> 
+ <p class="updated_time"> 06:50 AM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 06:00 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/30/1094677166/we-asked-you-answered-have-you-taught-your-children-to-run-errands-on-their-own">We asked, you answered: Have you taught your children to run errands on their own?</a> NPR: Nearly 100 NPR readers gave their views on encouraging kids to do tasks on their own at home and in the community. Some are opposed to the practice for safety reasons. Others shared personal stories. 
+ <p class="updated_time"> 05:50 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Delay of New Rules 
  <p class="updated_time"> 05:15 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
  <p class="updated_time"> 05:11 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/mariupol-steel-plant-video.html">Fighters Share Desperate Videos From Mariupol Steel Plant to Promote Story</a> NYT: With independent media unable to access this last military holdout, videos from inside function as pleas for help and publicity on social media. 
- <p class="updated_time"> 05:01 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Delay of New Rules 
  <p class="updated_time"> 05:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/canada/hudsons-bay-winnipeg.html">Flagship Hudson’s Bay Store Turned Over to Indigenous Group</a> NYT: The Hudson’s Bay Company has turned over its former flagship store to an Indigenous group with big ambitions for the space. 
  <p class="updated_time"> 04:54 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61280409?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US accuses Russia of depravity and brutality</a> BBC: Pentagon spokesman John Kirby appeared emotional as he described Russia's "cruelty" in Ukraine. 
+ <p class="updated_time"> 04:50 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions 
  <p class="updated_time"> 04:30 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61259569?at_medium=RSS&at_campaign=KARANGA">Venus and Jupiter Conjunction: Planets to almost touch in night sky</a> BBC: The dazzlingly bright planets appear extremely close together in the dark sky this weekend. 
  <p class="updated_time"> 04:23 AM CT, Apr. 30 </p> 
@@ -55,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/europe/civilians-mariupol-azovstal.html">Civilians Keep Arriving at Besieged Steel Complex in Mariupol, Fighters Say</a> NYT: That citizens are still seeking to shelter at the plant, where there is no prospect of escape or rescue, offers a testament to what they must be facing elsewhere in the devastated city. 
  <p class="updated_time"> 04:01 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1095504456/shanghai-china-covid-lockdown">When this Shanghai building went into COVID lockdown, my WeChat message group blew up</a> NPR: For nine years, I lived in a giant apartment complex called the Summit with hundreds of other people in the city of Shanghai. Now my old neighbors are entering week six stuck inside. 
- <p class="updated_time"> 04:01 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions 
  <p class="updated_time"> 04:00 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1092639702/russia-norway-nato-arctic-council">A new Iron Curtain is eroding Norway's hard-won ties with Russia on Arctic issues</a> NPR: The countries share a border. Along the frontier, residents say a new barrier has disrupted everything from Arctic climate action and nuclear waste control to trade and cross-border sports leagues. 
  <p class="updated_time"> 04:00 AM CT, Apr. 30 </p> 
@@ -64,7 +66,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:18 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61280587?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands: UK minister dispatched for governance talks</a> BBC: But the British overseas territory's acting leader says it opposes calls for the UK to impose direct rule. 
  <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Governments Tighten Grip on Global Food Stocks, Sending Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
+ <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Trade Barriers Due to Ukraine War Are Sending Food Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
  <p class="updated_time"> 11:46 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61281692?at_medium=RSS&at_campaign=KARANGA">Kansas tornado inflicts heavy damage and leaves thousands without power</a> BBC: Shocking footage shows a large twister snaking through the city of Wichita. 
  <p class="updated_time"> 10:58 PM CT, Apr. 29 </p> 
@@ -155,8 +157,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/europe/on-the-trail-of-russian-war-crimes.html">On the Trail of Russian War Crimes</a> NYT: Lyudmyla Denisova, Ukraine’s top human rights official, is determined to right historical wrongs and make sure Russians are held to account. 
  <p class="updated_time"> 03:42 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/bucha-russian-soliders-atrocities.html">Ukraine Identifies Russian Soldiers in Bucha Atrocities</a> NYT: In the first detailed set of allegations since the invasion, Ukrainian officials published the names and photos of Russian soldiers they say tortured civilians in a suburb of Kyiv. 
- <p class="updated_time"> 03:33 AM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61267265?at_medium=RSS&at_campaign=KARANGA">Israel airport chaos as family brings unexploded shell</a> BBC: Chaos erupts as Americans bring a 'souvenir' unexploded shell into Israel's international airport. 
  <p class="updated_time"> 12:00 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/britain-troops-europe.html">8,000 British Troops to Join Allied Exercises in Eastern Europe, Official Says</a> NYT: The troops will serve in the British-led Joint Expeditionary Force, created in 2014 in response to Russia’s seizure of Crimea from Ukraine. 
  <p class="updated_time"> 10:15 PM CT, Apr. 28 </p> 
@@ -198,6 +198,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:49 AM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/2022/04/30/us/tucker-carlson-gop-republican-party.html">How Tucker Carlson Stoked White Fear to Conquer Cable</a> NYT: A string of setbacks made the pundit flee television, the Republican establishment and even his home. He re-emerged with what may be the most racist, and successful, show in the history of cable news. 
+ <p class="updated_time"> 09:45 AM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/2022/04/30/us/tucker-carlson-fox-news.html">How Tucker Carlson Reshaped Fox News — and Became Trump’s Heir</a> NYT: As the host turned a civil war at Fox to his advantage, he found himself at the forefront of the nativist forces transforming conservative politics. 
+ <p class="updated_time"> 09:37 AM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/2022/04/30/us/politics/documented-dreamers.html">They Grew Up Legally in the U.S., but Can’t Stay After They Turn 21</a> NYT: Children of temporary visa holders who can’t gain permanent residency are one of several groups urging the Biden administration to act on an immigration overhaul. 
  <p class="updated_time"> 07:26 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1095750165/title-42-was-meant-to-slow-covid-at-the-border-its-being-used-to-manage-migratio">Title 42 was meant to slow COVID at the border. It's being used to manage migration</a> NPR: The pandemic border restrictions known as Title 42 are technically a public health policy. But the debate in Washington has shifted to whether or not they're an effective tool for managing the border. 
  <p class="updated_time"> 07:00 AM CT, Apr. 30 </p> 
@@ -211,7 +217,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/us/politics/ohio-senate-primary-vance-trump.html">Once Soft-Spoken, Ohio Conservatives Embrace the Bombast</a> NYT: The slugfest for the Republican nomination for Ohio’s open Senate seat has buried the brand of good-natured, country-club conservatism that was once a hallmark of the state. 
  <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Governments Tighten Grip on Global Food Stocks, Sending Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
+ <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Trade Barriers Due to Ukraine War Are Sending Food Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
  <p class="updated_time"> 09:38 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/georgia-redistricting-greene.html">Why 2 Largely Black Cities May Land in Marjorie Taylor Greene’s District</a> NYT: Powder Springs is one of two predominantly Black suburbs drawn into the far-right Republican’s district. If Ms. Greene is their voice in Congress, will she speak for them? 
  <p class="updated_time"> 08:21 PM CT, Apr. 29 </p> 
@@ -256,8 +262,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/us/politics/ukraine-rape-war-crimes.html">In Ukraine War, a Long Journey Begins in Prosecuting Rape</a> NYT: U.N. officials and human rights investigators are rushing more resources to authorities in Ukraine to help prosecute sex crimes. 
  <p class="updated_time"> 09:01 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095366671/npr-pbs-newshour-marist-survey-republicans-biden-democrats-midterms">Republicans have the advantage with voters in 2022 elections, poll finds</a> NPR: Of voters surveyed, 47% said they are more likely to vote for the Republican in their district, as opposed to 44% who said Democrats. The GOP is also favored on a raft of issues. 
- <p class="updated_time"> 08:41 AM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/28/us/politics/trump-michigan-republican-party.html">After Elevation of Trump Allies, Revolt Brews in Michigan G.O.P.</a> NYT: The Republican old guard is protesting the direction of the party after it put forward two champions of Donald Trump’s election falsehoods for attorney general and secretary of state. 
  <p class="updated_time"> 08:23 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1094942180/nicola-sturgeon-how-can-small-countries-have-a-global-impact">Nicola Sturgeon: How can small countries have a global impact?</a> NPR: Scotland's First Minister Nicola Sturgeon shares ideas on leading Scotland, from her approach to climate change and wellness, to the challenges she's faced as a female leader. 
  <p class="updated_time"> 04:12 AM CT, Apr. 29 </p> 
@@ -304,10 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/28/us/politics/biden-student-loan-relief.html">Biden Says He Is Taking a ‘Hard Look’ at Student Loan Relief</a> NYT: President Biden said the amount would not be $50,000 per borrower, which some Democrats and advocates are pushing for as a way to address economic and racial disparities. 
  <p class="updated_time"> 12:14 PM CT, Apr. 28 </p> 
  <a href="https://www.politico.com/news/2022/04/28/trumps-risky-primary-play-rallying-for-a-longtime-ally-accused-of-sexual-misconduct-00028611">Trump goes all in for candidate accused of sexual assault</a> Politico: The former president is holding a rally in Nebraska Friday for his candidate for governor, Charles Herbster. 
- <p class="updated_time"> 12:12 PM CT, Apr. 28 </p> 
- <a href="https://www.nytimes.com/2022/04/28/us/politics/supreme-court-discrimination-emotional-harm.html">Supreme Court Bans Recovery for Emotional Harm in Discrimination Suits</a> NYT: Splitting 6 to 3, the court ruled that facilities receiving federal money cannot be sued under four federal laws for discrimination that causes emotional distress. 
- <p class="updated_time"> 11:22 AM CT, Apr. 28 </p> 
- <a href="https://www.nytimes.com/2022/04/28/us/politics/john-distaso-star-reporter-of-new-hampshire-primaries-dies-at-68.html">John DiStaso, Star Reporter of New Hampshire Primaries, Dies at 68</a> NYT: The dean of the state’s political press corps, he was well positioned to grill, vet and analyze a new crop of presidential candidates every four years. 
  <p class="updated_time"> 11:09 AM CT, Apr. 28 </p> 
  <a href="https://www.politico.com/news/2022/04/28/gdp-slump-white-house-recovery-story-00028536">The Biden boom turns into a GDP bust</a> Politico: The government said gross domestic product shrank at a 1.4 percent annualized rate in the first quarter. 
  <p class="updated_time"> 03:30 AM CT, Apr. 28 </p> 
