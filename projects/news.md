@@ -9,34 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:37 AM CT, Apr. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61280587?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands: UK minister dispatched for governance talks</a> BBC: British overseas territory minister Amanda Milling will meet with officials over home-rule recommendations. 
- <p class="updated_time"> 12:41 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665">Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia</a> WSJ: Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia 
- <p class="updated_time"> 12:01 AM CT, Apr. 30 </p> 
+ <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Governments Tighten Grip on Global Food Stocks, Sending Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
+ <p class="updated_time"> 01:59 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/04/29/world/ukraine-russia-war-news">What Happened on Day 65 of the War in Ukraine</a> NYT: Russia’s eastern offensive appears to be faltering. The E.U. is poised to ban on Russian oil. NATO countries are sending more weapons to Ukraine and committing more troops to its neighbors. 
+ <p class="updated_time"> 01:37 AM CT, Apr. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61280587?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands: UK minister dispatched for governance talks</a> BBC: British overseas territory minister Amanda Milling will meet officials over home-rule recommendations. 
+ <p class="updated_time"> 01:20 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665">Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia</a> WSJ: Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia 
+ <p class="updated_time"> 12:20 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Delay of New Rules 
  <p class="updated_time"> 11:46 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61281692?at_medium=RSS&at_campaign=KARANGA">Widespread damage as tornado tears through Kansas</a> BBC: Shocking footage shows a large twister snaking through the city of Wichita. 
- <p class="updated_time"> 11:41 PM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Delay of New Rules 
+ <p class="updated_time"> 11:20 PM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/eurozone-economy-keeps-growing-but-recession-risk-looms-11651225720">Eurozone Economy Keeps Growing but Recession Risk Looms</a> WSJ: Eurozone Economy Keeps Growing but Recession Risk Looms 
  <p class="updated_time"> 10:47 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61281559?at_medium=RSS&at_campaign=KARANGA">Bolsonaro hits out at DiCaprio after election plea</a> BBC: The Hollywood star urged Brazil's youth to vote in October's elections to save the Amazon. 
  <p class="updated_time"> 10:42 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61281422?at_medium=RSS&at_campaign=KARANGA">Ecuador declares emergency over gang crime</a> BBC: A curfew is imposed and thousands of police and soldiers are deployed to restore "peace and order". 
- <p class="updated_time"> 10:41 PM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/eurozone-economy-keeps-growing-but-recession-risk-looms-11651225720">Eurozone Economy Keeps Growing but Recession Risk Looms</a> WSJ: Eurozone Economy Keeps Growing but Recession Risk Looms 
- <p class="updated_time"> 09:41 PM CT, Apr. 29 </p> 
+ <p class="updated_time"> 10:20 PM CT, Apr. 29 </p> 
  <a href="https://www.wsj.com/articles/west-ramps-up-ukraine-weapons-aid-as-expectations-about-wars-outcome-shift-11651251919">West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift</a> WSJ: West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift 
  <p class="updated_time"> 09:35 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/middleeast/israel-palestine-aqsa-mosque.html">During Ramadan, Palestinians Barred From Aqsa Turn to Smugglers</a> NYT: For Palestinian Muslims, praying at the Aqsa Mosque in Jerusalem is an important part of Ramadan. Those barred by Israel are finding ways to get there anyway. 
  <p class="updated_time"> 09:33 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ireland-census-time-capsule.html">Ireland’s Census Collects Time Capsules to Be Opened in 100 Years</a> NYT: The makers of the survey included a space for people to write or draw a message. The contents of these so-called time capsules will be revealed in 100 years. 
+ <p class="updated_time"> 09:20 PM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions 
  <p class="updated_time"> 09:07 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/civilians-mariupol-azovstal.html">Civilians Keep Arriving at Besieged Steel Complex in Mariupol, Fighters Say</a> NYT: That citizens are still seeking to shelter at the plant, where there is no prospect of escape or rescue, offers a testament to what they must be facing elsewhere in the devastated city. 
  <p class="updated_time"> 08:52 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61280409?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US accuses Russia of depravity and brutality</a> BBC: Pentagon spokesman John Kirby appeared emotional as he described Russia's "cruelty" in Ukraine. 
- <p class="updated_time"> 08:41 PM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions 
  <p class="updated_time"> 08:34 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/europe-ratchets-up-preparation-for-russian-oil-embargo-next-week.html">Amid Hardening Western Resolve, Signs of Russia’s Stalling in Eastern Ukraine</a> NYT: Pentagon officials say the Russian drive in Donbas is being hampered by poor logistics and stiff Ukrainian resistance. 
  <p class="updated_time"> 08:20 PM CT, Apr. 29 </p> 
@@ -194,6 +196,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/2022/04/30/us/politics/ohio-senate-primary-vance-trump.html">Ohio Republicans Embrace the Bombast Ahead of Senate Primary Election</a> NYT: The slugfest for the Republican nomination for Ohio’s open Senate seat has buried the brand of good-natured, country-club conservatism that was once a hallmark of the state. 
+ <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Governments Tighten Grip on Global Food Stocks, Sending Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
  <p class="updated_time"> 09:38 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/georgia-redistricting-greene.html">Why 2 Largely Black Cities May Land in Marjorie Taylor Greene’s District</a> NYT: Powder Springs is one of two predominantly Black suburbs drawn into the far-right Republican’s district. If Ms. Greene is their voice in Congress, will she speak for them? 
  <p class="updated_time"> 08:21 PM CT, Apr. 29 </p> 
@@ -266,8 +272,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/29/1095444475/some-democrats-are-joining-with-republicans-lobbying-to-keep-title-42">Some Democrats are joining with Republicans lobbying to keep Title 42</a> NPR: NPR's A Martinez asks Democratic analyst Maria Cardona about moderate Democrats, who have broken with the White House over plans to lift Title 42 restrictions on migrant border crossings. 
  <p class="updated_time"> 10:26 PM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/us/politics/ukraine-lend-lease-arms.html">Congress Clears Bill to Allow Lending Arms to Ukraine</a> NYT: House passage of the measure, which invoked the World War II-era Lend-Lease Act, sent it to President Biden for his signature. 
- <p class="updated_time"> 09:36 PM CT, Apr. 28 </p> 
- <a href="https://www.nytimes.com/2022/04/28/us/politics/ron-desantis-florida-politics.html">How DeSantis Transformed Florida’s Political Identity</a> NYT: The state has become an unlikely laboratory for right-wing policy, pushed by a governor with presidential ambitions. 
  <p class="updated_time"> 07:36 PM CT, Apr. 28 </p> 
  <a href="https://www.politico.com/news/2022/04/28/new-york-redistricting-spooks-house-dems-00028753">‘Egg on our face’: New York redistricting mess spooks House Dems</a> Politico: Democrats' House majority was already slipping away, but Wednesday's court decision in New York was potentially devastating. 
  <p class="updated_time"> 07:31 PM CT, Apr. 28 </p> 
@@ -298,8 +302,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/28/trumps-risky-primary-play-rallying-for-a-longtime-ally-accused-of-sexual-misconduct-00028611">Trump goes all in for candidate accused of sexual assault</a> Politico: The former president is holding a rally in Nebraska Friday for his candidate for governor, Charles Herbster. 
  <p class="updated_time"> 12:12 PM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/us/politics/supreme-court-discrimination-emotional-harm.html">Supreme Court Bans Recovery for Emotional Harm in Discrimination Suits</a> NYT: Splitting 6 to 3, the court ruled that facilities receiving federal money cannot be sued under four federal laws for discrimination that causes emotional distress. 
- <p class="updated_time"> 11:37 AM CT, Apr. 28 </p> 
- <a href="https://www.nytimes.com/2022/04/28/us/politics/john-carlin-justice-department.html">John Carlin, Key Justice Dept. Official, Expected to Step Down</a> NYT: John Carlin, who occupies one of the most powerful and under-the-radar posts in the department, has dealt with major matters including the Jan. 6 investigation. 
  <p class="updated_time"> 11:22 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/us/politics/john-distaso-star-reporter-of-new-hampshire-primaries-dies-at-68.html">John DiStaso, Star Reporter of New Hampshire Primaries, Dies at 68</a> NYT: The dean of the state’s political press corps, he was well positioned to grill, vet and analyze a new crop of presidential candidates every four years. 
  <p class="updated_time"> 11:09 AM CT, Apr. 28 </p> 
