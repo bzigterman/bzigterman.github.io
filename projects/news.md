@@ -9,42 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:07 PM CT, Apr. 30 </p> 
+ <p class="updated_time"> 03:45 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news">Live Updates: Russia Moves More Troops to Front; Ukraine Faces Fuel Shortages</a> NYT: Ukraine said Russia was shifting troops from its far-eastern regions to the front in Donbas. About 20 women and children were evacuated from Mariupol’s embattled Azovstal steel plant, a Ukrainian commander and Russian state media said. 
  <p class="updated_time"> 03:04 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61285178?at_medium=RSS&at_campaign=KARANGA">Mariupol civilians leave besieged Azovstal steelworks</a> BBC: Despite an order from Vladimir Putin to completely seal off the area, 20 civilians escape Azovstal. 
  <p class="updated_time"> 02:48 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/mariupol-evacuation-steel-plant-ukraine.html">Women and Children Evacuated Out of Mariupol’s Azovstal Steel Plant</a> NYT: A Ukrainian commander and Russian news agencies said about 20 civilians were able to leave the steel factory in the besieged city of Mariupol. An unknown number of civilians remains at the plant. 
+ <p class="updated_time"> 02:47 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages After Russian Strikes</a> WSJ: Ukrainians Suffer Fuel Shortages After Russian Strikes 
  <p class="updated_time"> 02:23 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-scythia-gold-museum-russia.html">Ukraine Says Russia Looted Ancient Gold Artifacts From a Museum</a> NYT: According to Ukrainian officials, Russian soldiers, aided by a mysterious expert, broke into a museum and spirited away priceless artifacts from the Scythian empire. 
- <p class="updated_time"> 02:13 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages After Russian Strikes</a> WSJ: Ukrainians Suffer Fuel Shortages After Russian Strikes 
  <p class="updated_time"> 01:58 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61285290?at_medium=RSS&at_campaign=KARANGA">Sri Lanka hikes price of medicines 40% amid economic crisis</a> BBC: Prices rise 40% as an economic crisis bites, leaving some Sri Lankans cutting short treatments. 
+ <p class="updated_time"> 01:47 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 01:36 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/books/review/dead-in-the-water-matthew-campbell-kit-chellel.html">Review: ‘Dead in the Water,’ by Matthew Campbell & Kit Chellel</a> NYT: In Matthew Campbell and Kit Chellel’s real-life whodunit “Dead in the Water,” Big Oil, Big Insurance and global corruption clash on a giant scale. 
  <p class="updated_time"> 01:13 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
- <p class="updated_time"> 01:13 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/middleeast/muslims-digital-prayer-rings.html">Some Muslims Are Using Digital Rings to Count Recitations</a> NYT: Much like the fitness tools that count steps, these electronic devices help keep a record of the day’s religious recitations. 
+ <p class="updated_time"> 12:47 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
  <p class="updated_time"> 12:24 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/biden-russia-scientists.html">Biden Seeks to Lure Russia’s Top Scientists to the U.S.</a> NYT: Legislation proposed by the president would suspend the requirement that Russian scientists have a sponsoring employer to gain a visa. 
- <p class="updated_time"> 12:13 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
  <p class="updated_time"> 12:00 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
  <p class="updated_time"> 11:58 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61259954?at_medium=RSS&at_campaign=KARANGA">Football agent Mino Raiola dies at 54</a> BBC: Football agent Mino Raiola - whose clients included Borussia Dortmund striker Erling Haaland and Manchester United midfielder Paul Pogba - dies at the age of 54. 
+ <p class="updated_time"> 11:47 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 11:43 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-russia-attack-denials.html">Ukrainian Official Outlines Intentional Ambiguity on Strikes Inside Russia</a> NYT: The strikes have been one of the most intriguing, and opaque, new elements of the recent fighting. But when it comes to confirming their origins, “we don’t say yes and we don’t say no,’’ said the official. 
- <p class="updated_time"> 11:13 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
+ <p class="updated_time"> 10:47 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/russias-war-in-ukraine-is-straining-global-economic-cooperation-11651318201">Russia’s Ukraine War Strains Global Economic Cooperation</a> WSJ: Russia’s Ukraine War Strains Global Economic Cooperation 
  <p class="updated_time"> 10:41 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61286257?at_medium=RSS&at_campaign=KARANGA">Rescue efforts under way after China building collapse</a> BBC: Eighteen people are believed to be trapped after the building fell in China's Hunan Province. 
  <p class="updated_time"> 10:26 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61285285?at_medium=RSS&at_campaign=KARANGA">Germany takes Italy to UN court over Nazi-era compensation claims</a> BBC: Germany wants to stop property it owns in Italy being seized to finance compensation for Nazi war crimes 
- <p class="updated_time"> 10:13 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/russias-war-in-ukraine-is-straining-global-economic-cooperation-11651318201">Russia’s Ukraine War Strains Global Economic Cooperation</a> WSJ: Russia’s Ukraine War Strains Global Economic Cooperation 
  <p class="updated_time"> 09:57 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1095759573/british-mp-porn-house-of-commons-neil-parish-resigns">British lawmaker Neil Parish resigning after watching porn in the House of Commons</a> NPR: The member of Parliament says he watched pornography twice in the House of Commons in a "moment of madness." The Conservative Party suspended him Friday over the allegations. 
  <p class="updated_time"> 09:53 AM CT, Apr. 30 </p> 
@@ -193,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/28/climate/usps-gas-electric-vehicles-lawsuit.html">States Sue Postal Service Over New Gas-Powered Mail Trucks</a> NYT: Sixteen states argue the Postal Service failed to properly vet clean alternatives to polluting trucks that could get as little as 8.6 miles to the gallon. 
  <p class="updated_time"> 09:02 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/europe/france-socialists-republicains.html">Are Traditional Political Parties Dead in France?</a> NYT: Presidents, prime ministers, Parliament — France’s mainstream left and right-wing parties used to have it all. In the first round of April’s presidential elections, they got less than 7 percent of the vote. 
- <p class="updated_time"> 06:18 AM CT, Apr. 28 </p> 
- <a href="https://www.nytimes.com/2022/04/28/world/asia/north-korea-crypto-spy-arrest.html">South Korea Arrests 2 Accused of Spying for North Korea</a> NYT: The men were paid in cryptocurrency by a man suspected of being a North Korean spy agent, the South Korean national police agency said. 
 
 
 </details>
@@ -202,14 +200,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:35 PM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/2022/04/30/us/tucker-carlson-gop-republican-party.html">How Tucker Carlson Stoked White Fear to Conquer Cable</a> NYT: A string of setbacks made the pundit flee television, the Republican establishment and even his home. He re-emerged with what may be the most racist, and successful, show in the history of cable news. 
  <p class="updated_time"> 02:39 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/us/tucker-carlson-fox-news.html">How Tucker Carlson Reshaped Fox News — and Became Trump’s Heir</a> NYT: As the host turned a civil war at Fox to his advantage, he found himself at the forefront of the nativist forces transforming conservative politics. 
  <p class="updated_time"> 12:55 PM CT, Apr. 30 </p> 
  <a href="https://www.cnn.com/2022/04/29/politics/hannity-text-messages-meadows-trump-white-house/index.html">New text messages reveal Fox's Hannity advising Trump White House and seeking direction</a> CNN: Former White House chief of staff Mark Meadows and Fox's Sean Hannity exchanged more than 80 text messages between Election Day 2020 and Joe Biden's January 2021 inauguration, communications that show Hannity's evolution from staunch supporter of former President Donald Trump's election lies to being "fed up" with the "lunatics" hurting Trump's cause in the days before January 6. 
  <p class="updated_time"> 12:50 PM CT, Apr. 30 </p> 
  <a href="https://www.politico.com/news/2022/04/30/dr-oz-won-trumps-endorsement-conservatives-are-still-suspicious-00029148">Dr. Oz won Trump’s endorsement. Conservatives are still suspicious.</a> Politico: The celebrity doctor has taken steps to tamp down concerns that he isn't a true believer. 
- <p class="updated_time"> 12:28 PM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/30/us/tucker-carlson-gop-republican-party.html">How Tucker Carlson Stoked White Fear to Conquer Cable</a> NYT: A string of setbacks made the pundit flee television, the Republican establishment and even his home. He re-emerged with what may be the most racist, and successful, show in the history of cable news. 
  <p class="updated_time"> 11:04 AM CT, Apr. 30 </p> 
  <a href="https://www.politico.com/news/2022/04/30/twitter-loses-bid-to-toss-alex-berenson-lawsuit-00029131">Twitter loses bid to toss Alex Berenson lawsuit</a> Politico: The free speech complaint against Twitter will be allowed to proceed. 
  <p class="updated_time"> 10:44 AM CT, Apr. 30 </p> 
@@ -320,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/28/pro-bernie-endorses-dem-senate-primary-00028474">Pro-Bernie group endorses in key Dem Senate primary</a> Politico: Our Wisconsin Revolution is backing Tom Nelson in the crowded race to take on GOP Sen. Ron Johnson. 
  <p class="updated_time"> 03:30 AM CT, Apr. 28 </p> 
  <a href="https://www.politico.com/news/2022/04/28/white-houses-ukraine-aid-bid-00028430">White House's $33B Ukraine aid bid already tangled up in Congress</a> Politico: Congressional jousting over immigration could end up delaying Biden's request for aid for the war-ravaged nation, despite overwhelming bipartisan support. 
- <p class="updated_time"> 03:43 PM CT, Apr. 27 </p> 
- <a href="https://www.politico.com/news/2022/04/27/scalise-and-gaetz-meet-privately-after-tension-over-leaked-audio-00028344">Scalise and Gaetz meet privately after tension over leaked audio</a> Politico: “I said: ‘I'm sorry if this caused you problems,’” the Louisiana Republican told POLITICO after the sitdown with the Florida firebrand. 
 
 
 </details>
