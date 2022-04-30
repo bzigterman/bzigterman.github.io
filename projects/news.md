@@ -9,8 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:41 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news">Live Updates: Russia’s Eastern Offensive Appears to Falter</a> NYT: Russian forces in eastern Ukraine face logistical and morale problems like those seen earlier in the war, analysts say. The E.U. is poised to approve a ban on Russian oil. 
+ <p class="updated_time"> 05:33 AM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news">Live Updates: Russia Moving More Troops to Front as Offensive Appears to Falter</a> NYT: The Ukrainian military said that troops normally stationed in far-eastern Russia are being moved to the battle front in eastern Ukraine. Moscow is trying to gain momentum in what the Pentagon has described as a “plodding” offensive. 
+ <p class="updated_time"> 05:15 AM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
+ <p class="updated_time"> 05:11 AM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/2022/04/29/world/europe/mariupol-steel-plant-video.html">Fighters Share Desperate Videos From Mariupol Steel Plant to Promote Story</a> NYT: With independent media unable to access this last military holdout, videos from inside function as pleas for help and publicity on social media. 
+ <p class="updated_time"> 05:00 AM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/2022/04/30/world/canada/hudsons-bay-winnipeg.html">Flagship Hudson’s Bay Store Turned Over to Indigenous Group</a> NYT: The Hudson’s Bay Company has turned over its former flagship store to an Indigenous group with big ambitions for the space. 
+ <p class="updated_time"> 04:54 AM CT, Apr. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61280409?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US accuses Russia of depravity and brutality</a> BBC: Pentagon spokesman John Kirby appeared emotional as he described Russia's "cruelty" in Ukraine. 
+ <p class="updated_time"> 04:49 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665">Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia</a> WSJ: Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia 
  <p class="updated_time"> 04:30 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61259569?at_medium=RSS&at_campaign=KARANGA">Venus and Jupiter Conjunction: Planets to almost touch in night sky</a> BBC: The dazzlingly bright planets appear extremely close together in the dark sky this weekend. 
  <p class="updated_time"> 04:23 AM CT, Apr. 30 </p> 
@@ -25,19 +35,19 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/30/1092639702/russia-norway-nato-arctic-council">A new Iron Curtain is eroding Norway's hard-won ties with Russia on Arctic issues</a> NPR: The countries share a border. Along the frontier, residents say a new barrier has disrupted everything from Arctic climate action and nuclear waste control to trade and cross-border sports leagues. 
  <p class="updated_time"> 04:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/middleeast/miilya-israel-archaeology-crusaders-byzantine.html">Mi’ilya, Christian Village in Israel, Digs Into Crusader Past</a> NYT: The residents of Mi’ilya long wondered what archaeological treasures lay beneath a crumbling castle. Now, some are excavating their homes to find out. 
- <p class="updated_time"> 03:53 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665">Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia</a> WSJ: Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia 
- <p class="updated_time"> 02:53 AM CT, Apr. 30 </p> 
+ <p class="updated_time"> 03:49 AM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Delay of New Rules 
+ <p class="updated_time"> 02:49 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/eurozone-economy-keeps-growing-but-recession-risk-looms-11651225720">Eurozone Economy Keeps Growing but Recession Risk Looms</a> WSJ: Eurozone Economy Keeps Growing but Recession Risk Looms 
  <p class="updated_time"> 02:18 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61280587?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands: UK minister dispatched for governance talks</a> BBC: But the British overseas territory's acting leader says it opposes calls for the UK to impose direct rule. 
  <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Governments Tighten Grip on Global Food Stocks, Sending Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
- <p class="updated_time"> 01:53 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/eurozone-economy-keeps-growing-but-recession-risk-looms-11651225720">Eurozone Economy Keeps Growing but Recession Risk Looms</a> WSJ: Eurozone Economy Keeps Growing but Recession Risk Looms 
- <p class="updated_time"> 12:53 AM CT, Apr. 30 </p> 
+ <p class="updated_time"> 01:49 AM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/west-ramps-up-ukraine-weapons-aid-as-expectations-about-wars-outcome-shift-11651251919">West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift</a> WSJ: West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift 
- <p class="updated_time"> 11:53 PM CT, Apr. 29 </p> 
+ <p class="updated_time"> 01:11 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages After Russian Strikes</a> WSJ: Recent Russian missile strikes on oil refineries and storage depots in Ukraine have resulted in shortages of gasoline and rising prices, and officials have pledged to resolve the crisis with new contracts from Western Europe. 
+ <p class="updated_time"> 12:49 AM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions 
  <p class="updated_time"> 11:46 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61281692?at_medium=RSS&at_campaign=KARANGA">Widespread damage as tornado tears through Kansas</a> BBC: Shocking footage shows a large twister snaking through the city of Wichita. 
@@ -51,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/middleeast/israel-palestine-aqsa-mosque.html">During Ramadan, Palestinians Barred From Aqsa Turn to Smugglers</a> NYT: For Palestinian Muslims, praying at the Aqsa Mosque in Jerusalem is an important part of Ramadan. Those barred by Israel are finding ways to get there anyway. 
  <p class="updated_time"> 09:33 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ireland-census-time-capsule.html">Ireland’s Census Collects Time Capsules to Be Opened in 100 Years</a> NYT: The makers of the survey included a space for people to write or draw a message. The contents of these so-called time capsules will be revealed in 100 years. 
- <p class="updated_time"> 08:52 PM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61280409?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US accuses Russia of depravity and brutality</a> BBC: Pentagon spokesman John Kirby appeared emotional as he described Russia's "cruelty" in Ukraine. 
  <p class="updated_time"> 08:34 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/europe-ratchets-up-preparation-for-russian-oil-embargo-next-week.html">Amid Hardening Western Resolve, Signs of Russia’s Stalling in Eastern Ukraine</a> NYT: Pentagon officials say the Russian drive in Donbas is being hampered by poor logistics and stiff Ukrainian resistance. 
  <p class="updated_time"> 08:20 PM CT, Apr. 29 </p> 
@@ -61,6 +69,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61280068?at_medium=RSS&at_campaign=KARANGA">Daughter of IS victim: 'I will never forgive'</a> BBC: Facing her father's killers in court, Bethany Haines read her impact statement and detailed her trauma. 
  <p class="updated_time"> 06:41 PM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095623383/marine-veteran-killed-fighting-in-ukraine">A former U.S. Marine was killed fighting in Ukraine, his family says</a> NPR: An American citizen was killed while fighting alongside the Ukrainian military, according to his family. He is believed to be the first American to be killed while fighting in the war in Ukraine. 
+ <p class="updated_time"> 06:35 PM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China's Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: A contraction in China’s factory and service-sector activity worsened for a second straight month, as strict lockdowns in dozens of cities shut down production and pummeled consumer spending. 
  <p class="updated_time"> 06:20 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/health-61242471?at_medium=RSS&at_campaign=KARANGA">Child hepatitis cases falsely linked to Covid vaccine</a> BBC: None of the affected children in the UK had been vaccinated because they were too young to be eligible. 
  <p class="updated_time"> 06:20 PM CT, Apr. 29 </p> 
@@ -75,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61271576?at_medium=RSS&at_campaign=KARANGA">James Corden: How his viral success divided the internet</a> BBC: The host is credited with reinventing late night US TV but also courted controversy - so what's next? 
  <p class="updated_time"> 06:00 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61278445?at_medium=RSS&at_campaign=KARANGA">Clearing bombs with their hands: The bomb disposal unit saving a city</a> BBC: As the city of Mykolaiv is shelled, the pieces of artillery left behind can be just as fatal. 
- <p class="updated_time"> 05:10 PM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/world/europe/mariupol-steel-plant-video.html">Fighters Share Desperate Videos From Mariupol Steel Plant to Promote Story</a> NYT: With independent media unable to access this last military holdout, videos from inside function as pleas for help and publicity on social media. 
  <p class="updated_time"> 04:52 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/coronavirus-cases-us.html">Coronavirus Cases Are Rising Across the U.S., but Most Are Mild</a> NYT: Hospitalizations remain low, partly a reflection of greater immunity in the population. 
  <p class="updated_time"> 04:06 PM CT, Apr. 29 </p> 
@@ -141,8 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/movies/russia-movie-theaters-piracy.html">In Echo of Soviet Era, Russia’s Movie Theaters Turn to Pirate Screenings</a> NYT: In a Cold War throwback, some venues are showing bootleg versions after Hollywood studios pulled films from the country. Still, viewer numbers have tanked. 
  <p class="updated_time"> 05:52 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/un-antonio-guterres-kyiv.html">Top U.N. Official Tours Kyiv, Declaring the War ‘An Absurdity’  </a> NYT: António Guterres’ goals include securing evacuation routes for besieged civilians and supporting the prosecution of war crimes. 
- <p class="updated_time"> 05:50 AM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/27/world/europe/russia-ukraine-gas-flow-europe.html">Ukraine War Impact Widens: Russia Cuts Gas Flow and Vows More Reprisals</a> NYT: New explosions across Ukraine’s borders, Russia’s shut-off of natural gas to two European nations and Moscow’s warning of additional “counterstrikes” pointed to escalating hostilities. 
  <p class="updated_time"> 05:22 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61270616?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Residents protest after five weeks of strict zero-Covid measures</a> BBC: Some residents have been under strict lockdown for five weeks, and struggled to access food supplies. 
  <p class="updated_time"> 04:36 AM CT, Apr. 29 </p> 
@@ -177,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/28/climate/usps-gas-electric-vehicles-lawsuit.html">States Sue Postal Service Over New Gas-Powered Mail Trucks</a> NYT: Sixteen states argue the Postal Service failed to properly vet clean alternatives to polluting trucks that could get as little as 8.6 miles to the gallon. 
  <p class="updated_time"> 01:20 PM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/climate/deforestation-tree-loss.html">Deforestation Remains High, Despite COP 26 Pledges</a> NYT: Brazil had the largest share of tree loss last year, followed by the Democratic Republic of Congo and Bolivia. Indonesia showed improvement. 
- <p class="updated_time"> 10:42 AM CT, Apr. 28 </p> 
- <a href="https://www.nytimes.com/2022/04/27/world/americas/colombia-war-crimes.html">Colombian General and 10 Others Admit to Crimes Against Humanity</a> NYT: In the first hearing of its kind, officials admitted to orchestrating extrajudicial killings. But victims asked for more. “We know that there are powerful people behind you,” said one woman. “We need names.” 
  <p class="updated_time"> 09:02 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/europe/france-socialists-republicains.html">Are Traditional Political Parties Dead in France?</a> NYT: Presidents, prime ministers, Parliament — France’s mainstream left and right-wing parties used to have it all. In the first round of April’s presidential elections, they got less than 7 percent of the vote. 
  <p class="updated_time"> 06:18 AM CT, Apr. 28 </p> 
@@ -187,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/28/world/asia/india-extreme-heat-wave.html">India’s Extreme Heat Is Expected to Worsen</a> NYT: The Indian subcontinent has recorded above-average temperatures for weeks. Heat-related weather watches or alerts are now in effect for hundreds of millions of people. 
  <p class="updated_time"> 05:14 AM CT, Apr. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61255423?at_medium=RSS&at_campaign=KARANGA">Sirens ring out in Israel to honour Holocaust victims</a> BBC: Streets came to a standstill as people paused to pay tribute to the millions killed in the Holocaust. 
- <p class="updated_time"> 09:22 PM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/2022/04/27/us/politics/ambassador-richard-olson-qatar-lobbying.html">Former U.S. Ambassador to Plead Guilty to Illegal Lobbying and Hiding Gifts</a> NYT: Richard Olson lobbied for the government of Qatar soon after retiring and took gifts from a businessman while serving as ambassador to Pakistan, according to prosecutors. 
 
 
 </details>
@@ -197,7 +199,7 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/30/us/politics/ohio-senate-primary-vance-trump.html">Ohio Republicans Embrace the Bombast Ahead of Senate Primary Election</a> NYT: The slugfest for the Republican nomination for Ohio’s open Senate seat has buried the brand of good-natured, country-club conservatism that was once a hallmark of the state. 
+ <a href="https://www.nytimes.com/2022/04/30/us/politics/ohio-senate-primary-vance-trump.html">Once Soft-Spoken, Ohio Conservatives Embrace the Bombast</a> NYT: The slugfest for the Republican nomination for Ohio’s open Senate seat has buried the brand of good-natured, country-club conservatism that was once a hallmark of the state. 
  <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Governments Tighten Grip on Global Food Stocks, Sending Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
  <p class="updated_time"> 09:38 PM CT, Apr. 29 </p> 
