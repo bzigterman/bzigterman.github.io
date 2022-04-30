@@ -9,8 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:34 PM CT, Apr. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/29/world/ukraine-russia-war-news">Ukraine Live Updates: Amid Hardening Western Resolve, Russia’s Eastern Drive Seems to Stall</a> NYT: The E.U. nears a ban on Russian oil as NATO countries send more weapons to Ukraine and commit more troops to its neighbors. 
+ <p class="updated_time"> 08:34 PM CT, Apr. 29 </p> 
+ <a href="https://www.nytimes.com/2022/04/29/world/europe/europe-ratchets-up-preparation-for-russian-oil-embargo-next-week.html">Amid Hardening Western Resolve, Signs of Russia’s Stalling in Eastern Ukraine</a> NYT: Pentagon officials say the Russian drive in Donbas is being hampered by poor logistics and stiff Ukrainian resistance. 
+ <p class="updated_time"> 08:33 PM CT, Apr. 29 </p> 
+ <a href="https://www.nytimes.com/2022/04/29/world/civilians-mariupol-azovstal.html">Civilians Keep Arriving at Besieged Steel Complex in Mariupol, Fighters Say</a> NYT: That citizens are still seeking to shelter at the plant, where there is no prospect of escape or rescue, offers a testament to what they must be facing elsewhere in the devastated city. 
+ <p class="updated_time"> 08:20 PM CT, Apr. 29 </p> 
+ <a href="https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html">Started Out as a Fish. How Did It End Up Like This?</a> NYT: A meme about the transitional fossil Tiktaalik argues that although we did come out of the sea, we aren’t doing just fine. 
+ <p class="updated_time"> 08:01 PM CT, Apr. 29 </p> 
+ <a href="https://www.nytimes.com/2022/04/29/world/american-killed-ukraine-cancel.html">Death of American Fighting in Ukraine Confirmed by Family</a> NYT: Willy Joseph Cancel Jr., 22, died in combat earlier this week, according to his uncle. He is believed to be the first American killed while fighting in Ukraine. 
+ <p class="updated_time"> 07:46 PM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665">Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia</a> WSJ: Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia 
+ <p class="updated_time"> 06:59 PM CT, Apr. 29 </p> 
+ <a href="https://www.nytimes.com/2022/04/29/world/europe/biden-russia-scientists.html">Biden Seeks to Lure Russia’s Top Scientists to the U.S.</a> NYT: Legislation proposed by the president would suspend the requirement that Russian scientists have a sponsoring employer to gain a visa. 
+ <p class="updated_time"> 06:46 PM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Delay of New Rules 
+ <p class="updated_time"> 06:41 PM CT, Apr. 29 </p> 
+ <a href="https://www.npr.org/2022/04/29/1095623383/marine-veteran-killed-fighting-in-ukraine">A former U.S. Marine was killed fighting in Ukraine, his family says</a> NPR: An American citizen was killed while fighting alongside the Ukrainian military, according to his family. He is believed to be the first American to be killed while fighting in the war in Ukraine. 
+ <p class="updated_time"> 06:20 PM CT, Apr. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/health-61242471?at_medium=RSS&at_campaign=KARANGA">Child hepatitis cases falsely linked to Covid vaccine</a> BBC: None of the affected children in the UK had been vaccinated because they were too young to be eligible. 
+ <p class="updated_time"> 06:20 PM CT, Apr. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61215836?at_medium=RSS&at_campaign=KARANGA">'Rise in Muslim families' seeking Ramadan food help</a> BBC: Some Muslims have been struggling to afford food to break their fasts amid the soaring cost of living. 
+ <p class="updated_time"> 06:14 PM CT, Apr. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61280409?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US accuses Russia of depravity and brutality</a> BBC: Pentagon spokesman John Kirby appeared emotional as he described Russia's "cruelty" in Ukraine. 
  <p class="updated_time"> 06:14 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61276109?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands: UK should take back rule - report</a> BBC: The British overseas territory's government should be dissolved for two years, a report recommends. 
+ <p class="updated_time"> 06:10 PM CT, Apr. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61268090?at_medium=RSS&at_campaign=KARANGA">China: The elderly people struggling in Shanghai's quarantine centres</a> BBC: One woman told the BBC that her 90-year-old grandmother has been left alone to fend for herself. 
  <p class="updated_time"> 06:08 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/health-61184400?at_medium=RSS&at_campaign=KARANGA">The impact of miscarriage on families around the world</a> BBC: The grief is universal, but the care women receive during pregnancy loss can depend on where they live. 
  <p class="updated_time"> 06:05 PM CT, Apr. 29 </p> 
@@ -18,21 +44,15 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:03 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61271576?at_medium=RSS&at_campaign=KARANGA">James Corden: How his viral success divided the internet</a> BBC: The host is credited with reinventing late night US TV but also courted controversy - so what's next? 
  <p class="updated_time"> 06:00 PM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61278445?at_medium=RSS&at_campaign=KARANGA">Clearing bombs with their hands: The bomb disposal unit saving a city</a> BBC: The city of Mykolaiv is being shelled almost daily. But the attacks themselves aren’t the only threat because the pieces of artillery left behind can be just as fatal. 
- <p class="updated_time"> 05:55 PM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/04/29/world/ukraine-russia-war-news">Ukraine Live Updates: Amid Hardening Western Resolve, Russia’s Eastern Drive Seems to Stall</a> NYT: The E.U. nears a ban on Russian oil as NATO countries send more weapons to Ukraine and commit more troops to its neighbors. 
- <p class="updated_time"> 05:27 PM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665">Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia</a> WSJ: Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia 
+ <a href="https://www.bbc.co.uk/news/world-europe-61278445?at_medium=RSS&at_campaign=KARANGA">Clearing bombs with their hands: The bomb disposal unit saving a city</a> BBC: As the city of Mykolaiv is shelled, the pieces of artillery left behind can be just as fatal. 
+ <p class="updated_time"> 05:46 PM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/eurozone-economy-keeps-growing-but-recession-risk-looms-11651225720">Eurozone Economy Keeps Growing but Recession Risk Looms</a> WSJ: Eurozone Economy Keeps Growing but Recession Risk Looms 
  <p class="updated_time"> 05:10 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/mariupol-steel-plant-video.html">Fighters Share Desperate Videos From Mariupol Steel Plant to Promote Story</a> NYT: With independent media unable to access this last military holdout, videos from inside function as pleas for help and publicity on social media. 
- <p class="updated_time"> 05:10 PM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/world/europe/europe-ratchets-up-preparation-for-russian-oil-embargo-next-week.html">Amid Hardening Western Resolve, Signs of Russia’s Stalling in Eastern Ukraine</a> NYT: Pentagon officials say the Russian drive in Donbas is being hampered by poor logistics and stiff Ukrainian resistance. 
- <p class="updated_time"> 05:02 PM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html">Started Out as a Fish. How Did It End Up Like This?</a> NYT: A meme about the transitional fossil Tiktaalik argues that although we did emerge from the sea, we aren’t doing just fine. 
  <p class="updated_time"> 04:52 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/coronavirus-cases-us.html">Coronavirus Cases Are Rising Across the U.S., but Most Are Mild</a> NYT: Hospitalizations remain low, partly a reflection of greater immunity in the population. 
- <p class="updated_time"> 04:27 PM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Delay of New Rules 
+ <p class="updated_time"> 04:46 PM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/west-ramps-up-ukraine-weapons-aid-as-expectations-about-wars-outcome-shift-11651251919">West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift</a> WSJ: West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift 
  <p class="updated_time"> 04:06 PM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095642556/a-palestinian-syrian-chefs-cookbook-invites-people-to-see-any-meal-as-a-celebrat">A Palestinian-Syrian chef's cookbook invites people to see any meal as a celebration</a> NPR: NPR's Mary Louise Kelly speaks with chef Reem Assil about her debut cookbook Arabiyya: Recipes from the Life of an Arab in Diaspora. 
  <p class="updated_time"> 04:03 PM CT, Apr. 29 </p> 
@@ -41,28 +61,26 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/29/1095480965/russia-ukraine-war-what-happened-today-april-29">Russia-Ukraine war: What happened today (April 29)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:47 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/climate/gas-prices-america.html">Why Americans Became More Vulnerable to Oil Price Spikes</a> NYT: When prices soared years ago, Americans launched broad efforts to wean the nation off oil and gas to protect households from price swings. But then supply rose and plans fizzled. 
+ <p class="updated_time"> 03:46 PM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions 
+ <p class="updated_time"> 03:42 PM CT, Apr. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-61259569?at_medium=RSS&at_campaign=KARANGA">Venus and Jupiter Conjunction: Planets to almost touch in night sky</a> BBC: The dazzlingly bright planets will appear extremely close together in the dark sky on Saturday. 
  <p class="updated_time"> 03:37 PM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095642332/sri-lanka-is-facing-economic-crisis-and-the-u-s-dollar-is-partly-to-blame">Sri Lanka is facing economic crisis — and the U.S. dollar is partly to blame </a> NPR: Sri Lanka is in a deep economic and humanitarian crisis. A big contributing factor? Its central bank is running dangerously low on foreign currency reserves. 
  <p class="updated_time"> 03:37 PM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095642310/afghans-unite-in-demanding-that-the-taliban-let-girls-attend-secondary-school">Afghans unite in demanding that the Taliban let girls attend secondary school</a> NPR: Afghans are protesting the Taliban's ban on girls attending secondary school, including a surprising cohort: pro-Taliban clerics. 
  <p class="updated_time"> 03:32 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/middleeast/israel-palestine-aqsa-mosque.html">During Ramadan, Palestinians Barred From Aqsa Turn to Smugglers</a> NYT: For Palestinian Muslims, praying at the Aqsa Mosque in Jerusalem is an important part of Ramadan. Those barred by Israel are finding ways to get there anyway. 
- <p class="updated_time"> 03:27 PM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/eurozone-economy-keeps-growing-but-recession-risk-looms-11651225720">Eurozone Economy Keeps Growing but Recession Risk Looms</a> WSJ: Eurozone Economy Keeps Growing but Recession Risk Looms 
  <p class="updated_time"> 03:24 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/measles-cases-are-surging-because-the-pandemic-disrupted-childhood-vaccinations-global-agencies-say.html">Measles cases are surging because the pandemic disrupted childhood vaccinations, global agencies say.</a> NYT: A rise of nearly 80 percent in reported measles cases in the first two months of 2022 is the result of millions of children missing out on routine shots, the U.N. and W.H.O. said. 
  <p class="updated_time"> 03:09 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61274332?at_medium=RSS&at_campaign=KARANGA">Alexanda Kotey: IS 'Beatle' sentenced to life in US for murders in Syria</a> BBC: Alexanda Kotey, 38, pleaded guilty last September to the beheading of IS hostages in Syria. 
  <p class="updated_time"> 02:59 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61263360?at_medium=RSS&at_campaign=KARANGA">Dexter Jackson: How it feels to be pardoned by the US president</a> BBC: Dexter Jackson knew he had "a one in a million chance" of being pardoned - but "never lost faith". 
- <p class="updated_time"> 02:27 PM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/west-ramps-up-ukraine-weapons-aid-as-expectations-about-wars-outcome-shift-11651251919">West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift</a> WSJ: West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift 
  <p class="updated_time"> 02:22 PM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095549251/russia-dolphins-black-sea-naval-base">A Russian naval base is defended by dolphins. It's not as unusual as it sounds</a> NPR: Citing satellite imagery, a submarine analyst says Russia's navy is deploying dolphins to defend a crucial base off Crimea. Russia and the U.S. have run marine-mammal training programs for decades. 
  <p class="updated_time"> 01:57 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/africa/sudan-ramadan-protests.html">Ramadan Nights Provide Cherished Pause in Tense Sudan</a> NYT: “We come here to forget it all,” one young musician said during the daily end of the fast. “The heat, the electricity cuts, the protests. Here, at least, we can sing.” 
- <p class="updated_time"> 01:27 PM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions 
  <p class="updated_time"> 01:01 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ukraine-holocaust-survivors-rescue-germany.html">They Survived the Holocaust. Now, They Are Fleeing to Germany.</a> NYT: A complex operation is underway to evacuate Holocaust survivors from Ukraine. For rescuers and evacuees alike, it means confronting the past. 
  <p class="updated_time"> 01:01 PM CT, Apr. 29 </p> 
@@ -83,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/climate/solar-industry-imports.html">Solar Industry ‘Frozen’ as Biden Administration Investigates China</a> NYT: More than 300 solar projects in the United States have been canceled or delayed in recent weeks because of an investigation by the Commerce Department. 
  <p class="updated_time"> 11:21 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/anglo-saxon-kings-diet.html">Anglo-Saxon Kings Made Sure to Eat Their Vegetables, Study Shows</a> NYT: Contrary to popular belief, the ruling classes gorged on meat only on rare occasions, according to an analysis of more than 2,000 skeletons buried during medieval times. 
- <p class="updated_time"> 11:04 AM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61277623?at_medium=RSS&at_campaign=KARANGA">Liberia war crimes: Sierra Leone rebel commander acquitted by court in Finland</a> BBC: Gibril Massaquoi was a school teacher but then became the spokesman of a notorious rebel group. 
  <p class="updated_time"> 10:23 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095494581/wimbledon-champion-boris-becker-gets-2-1-2-years-in-prison-for-bankruptcy-offens">Wimbledon champion Boris Becker gets 2 1/2 years in prison for bankruptcy offenses</a> NPR: The 54-year-old German tennis great was sentenced for illicitly transferring large amounts of money and hiding assets after he was declared bankrupt. 
  <p class="updated_time"> 10:10 AM CT, Apr. 29 </p> 
@@ -113,8 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/28/world/un-antonio-guterres-kyiv.html">Top U.N. Official Tours Kyiv, Declaring the War ‘An Absurdity’  </a> NYT: António Guterres’ goals include securing evacuation routes for besieged civilians and supporting the prosecution of war crimes. 
  <p class="updated_time"> 05:50 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/europe/russia-ukraine-gas-flow-europe.html">Ukraine War Impact Widens: Russia Cuts Gas Flow and Vows More Reprisals</a> NYT: New explosions across Ukraine’s borders, Russia’s shut-off of natural gas to two European nations and Moscow’s warning of additional “counterstrikes” pointed to escalating hostilities. 
- <p class="updated_time"> 05:44 AM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61267036?at_medium=RSS&at_campaign=KARANGA">James Corden leaving Late Late Show after eight years</a> BBC: The British comedian and actor turned talk show host announced the decision on Thursday. 
  <p class="updated_time"> 05:22 AM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61270616?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Residents protest after five weeks of strict zero-Covid measures</a> BBC: Some residents have been under strict lockdown for five weeks, and struggled to access food supplies. 
  <p class="updated_time"> 04:43 AM CT, Apr. 29 </p> 
@@ -129,16 +143,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61267265?at_medium=RSS&at_campaign=KARANGA">Israel airport chaos as family brings unexploded shell</a> BBC: Chaos erupts as Americans bring a 'souvenir' unexploded shell into Israel's international airport. 
  <p class="updated_time"> 02:44 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ireland-census-time-capsule.html">Ireland’s Census Collects Time Capsules to Be Opened in 100 Years</a> NYT: The makers of the survey included a space for people to write or draw a message. The contents of these so-called time capsules will be revealed in 100 years. 
- <p class="updated_time"> 12:01 AM CT, Apr. 29 </p> 
- <a href="https://www.npr.org/2022/04/29/1095440624/u-s-soldiers-return-cake-to-italian-woman-for-90th-birthday">U.S. soldiers 'return' cake to Italian woman for 90th birthday</a> NPR: A woman was 13 years old when U.S. soldiers grabbed her birthday cake from a windowsill. 
  <p class="updated_time"> 12:00 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/britain-troops-europe.html">8,000 British Troops to Join Allied Exercises in Eastern Europe, Official Says</a> NYT: The troops will serve in the British-led Joint Expeditionary Force, created in 2014 in response to Russia’s seizure of Crimea from Ukraine. 
- <p class="updated_time"> 12:00 AM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61249158?at_medium=RSS&at_campaign=KARANGA">A Ukrainian father's terrifying journey to a Russian prison and back</a> BBC: Nikita Horban was abducted from his village and taken to Russia. He would come back without any toes. 
  <p class="updated_time"> 10:15 PM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/americas/el-salvador-bukele-gangs.html">In El Salvador, the President Cracks Down on Civil Liberties</a> NYT: Much of the country’s population is willing to tolerate an autocratic leader, if it means that someone will finally solve their most pressing problem: gang violence. 
- <p class="updated_time"> 10:09 PM CT, Apr. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61242341?at_medium=RSS&at_campaign=KARANGA">Heat wave in India leaves millions struggling to cope</a> BBC: Experts say India is now recording more intense, frequent heatwaves that are also longer in duration. 
  <p class="updated_time"> 09:43 PM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/climate/global-warming-ocean-extinctions.html">In Warming World Oceans Risk Mass Extinctions, Model Shows</a> NYT: A new study finds that if fossil fuel emissions continue apace, the oceans could experience a mass extinction by 2300. There is still time to avoid it. 
  <p class="updated_time"> 08:18 PM CT, Apr. 28 </p> 
@@ -161,8 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/28/climate/usps-gas-electric-vehicles-lawsuit.html">States Sue Postal Service Over New Gas-Powered Mail Trucks</a> NYT: Sixteen states argue the Postal Service failed to properly vet clean alternatives to polluting trucks that could get as little as 8.6 miles to the gallon. 
  <p class="updated_time"> 01:20 PM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/climate/deforestation-tree-loss.html">Deforestation Remains High, Despite COP 26 Pledges</a> NYT: Brazil had the largest share of tree loss last year, followed by the Democratic Republic of Congo and Bolivia. Indonesia showed improvement. 
- <p class="updated_time"> 11:23 AM CT, Apr. 28 </p> 
- <a href="https://www.nytimes.com/2022/04/27/world/covid-hot-spot-new-york-counties.html">The Largest U.S. Coronavirus Hot Spot Swells Beyond Central New York</a> NYT: Health experts say that people in the hot spot, which includes cities like Buffalo, Rochester and Syracuse, should be increasing their precautions. 
  <p class="updated_time"> 10:42 AM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/americas/colombia-war-crimes.html">Colombian General and 10 Others Admit to Crimes Against Humanity</a> NYT: In the first hearing of its kind, officials admitted to orchestrating extrajudicial killings. But victims asked for more. “We know that there are powerful people behind you,” said one woman. “We need names.” 
  <p class="updated_time"> 09:02 AM CT, Apr. 28 </p> 
@@ -181,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61251308?at_medium=RSS&at_campaign=KARANGA">Ukrainians flock to get patriotic tattoos</a> BBC: People headed to the front line, and their supporters, are having the country's war with Russia memorialise. 
  <p class="updated_time"> 05:21 PM CT, Apr. 27 </p> 
  <a href="https://www.nytimes.com/2022/04/27/world/americas/debanhi-escobar-mexico.html">A Woman’s Disappearance Sparks Outrage in Mexico Over Gender Violence</a> NYT: The case of Debanhi Escobar, 18, in Monterrey has ignited a national outcry over the government’s failure to deliver justice for missing women. 
- <p class="updated_time"> 02:33 PM CT, Apr. 27 </p> 
- <a href="https://www.nytimes.com/2022/04/27/world/covid-britain-hospital-patients-nursing-homes.html">Britain Broke the Law by Moving Hospital Patients to Nursing Homes Early in Pandemic, Court Rules</a> NYT: The court’s ruling came in a lawsuit brought by two women whose fathers died in nursing homes in 2020. 
 
 
 </details>
@@ -190,16 +194,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:00 PM CT, Apr. 29 </p> 
+ <p class="updated_time"> 08:21 PM CT, Apr. 29 </p> 
+ <a href="https://www.nytimes.com/2022/04/29/us/politics/fda-covid-vaccine-under-5.html">F.D.A. Sets Aside June for Potential Decisions on Vaccines for Children Under 5</a> NYT: Both Moderna and Pfizer-BioNTech have asked the agency to approve their vaccines for the youngest children. 
+ <p class="updated_time"> 07:44 PM CT, Apr. 29 </p> 
+ <a href="https://www.nytimes.com/2022/04/29/us/politics/madison-cawthorn.html">Pressure Mounts on Cawthorn as Scandals Pile Up</a> NYT: Representative Madison Cawthorn of North Carolina, once a bright young star in the conservative firmament, finds himself besieged by accusations and insinuations. 
+ <p class="updated_time"> 06:35 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/us-democracy.html">Is American Democracy Built to Last?</a> NYT: Yascha Mounk’s new book questions deeply held beliefs about the stability of Western societies. 
- <p class="updated_time"> 05:36 PM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/us/politics/madison-cawthorn.html">Madison Cawthorn is Under Pressure as Scandals Pile Up</a> NYT: Representative Madison Cawthorn of North Carolina, once a bright young star in the conservative firmament, finds himself besieged by accusations and insinuations. 
  <p class="updated_time"> 04:45 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/republican-governor-election-trump.html">Why Republican Insurgents Are Struggling to Topple G.O.P. Governors</a> NYT: Republicans in several states are trying to oust conservative governors by harnessing anti-establishment energy. But in battles for a state’s top job, it’s hard to beat the establishment. 
  <p class="updated_time"> 04:13 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/national-security-surveillance-2021.html">National Security Surveillance on U.S. Soil Dropped Again in 2021, Report Says</a> NYT: The F.B.I. also tried to estimate the number of its searches for U.S. data in messages gathered without a warrant. But the estimate — fewer than 3.4 million — was murky. 
- <p class="updated_time"> 04:04 PM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/us/politics/fda-covid-vaccine-under-5.html">F.D.A. Sets Aside June for Potential Decisions on Vaccines for Children Under 5</a> NYT: Both Moderna and Pfizer-BioNTech have asked the agency to approve their vaccines for the youngest children. 
+ <p class="updated_time"> 03:47 PM CT, Apr. 29 </p> 
+ <a href="https://www.cnn.com/2022/04/29/politics/hannity-text-messages-meadows-trump-white-house/index.html">New text messages reveal Fox's Hannity advising Trump White House and seeking direction</a> CNN: Former White House chief of staff Mark Meadows and Fox's Sean Hannity exchanged more than 80 text messages between Election Day 2020 and Joe Biden's January 2021 inauguration, communications that show Hannity's evolution from staunch supporter of former President Donald Trump's election lies to being "fed up" with the "lunatics" hurting Trump's cause in the days before January 6. 
  <p class="updated_time"> 03:37 PM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095642347/election-denialism-beliefs-animate-some-gop-candidates-in-michigan">Election denialism beliefs animate some GOP candidates in Michigan</a> NPR: Michigan was a focal point in Trump's effort to overturn the 2020 election. Zach Gorchow of Gongwer News Service tells NPR's Ailsa Chang that election misinformation still looms large there. 
  <p class="updated_time"> 03:30 PM CT, Apr. 29 </p> 
@@ -207,7 +213,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:40 PM CT, Apr. 29 </p> 
  <a href="https://www.politico.com/news/2022/04/29/rolling-thunder-protest-canada-00029074">‘Rolling Thunder’ has downtown Ottawa on edge</a> Politico: Barricades are back up in Canada’s capital as motorcyclists pull into a city still recovering from the “freedom convoy.” 
  <p class="updated_time"> 02:21 PM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/us/politics/isis-beatles-kotey-sentenced.html">British Terrorist Receives Life Sentence for Role in Americans’ Deaths</a> NYT: Alexanda Kotey, 38, was part of a brutal Islamic State cell known as the Beatles that kidnapped and tortured Western hostages in Syria. 
+ <a href="https://www.nytimes.com/2022/04/29/us/politics/isis-beatles-kotey-sentenced.html">British ISIS Member Sentenced for Role in Americans’ Deaths</a> NYT: Alexanda Kotey, 38, was part of a brutal Islamic State cell known as the Beatles that kidnapped and tortured Western hostages in Syria. 
  <p class="updated_time"> 02:16 PM CT, Apr. 29 </p> 
  <a href="https://www.politico.com/news/2022/04/29/evidence-of-trump-officials-meddling-puts-spotlight-on-trust-in-cdc-00029058">Evidence of Trump officials’ meddling puts trust spotlight on CDC</a> Politico: Public opinion in the federal government’s leading public health agency remains low. 
  <p class="updated_time"> 01:44 PM CT, Apr. 29 </p> 
@@ -224,6 +230,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/29/inside-the-forecast-ohio-and-indiana-kick-off-blitz-of-primary-elections-00028948">Inside the Forecast: Ohio and Indiana kick off blitz of primary elections</a> Politico: POLITICO’s Steve Shepard demystifies this week’s election data in a video series. 
  <p class="updated_time"> 11:49 AM CT, Apr. 29 </p> 
  <a href="https://www.politico.com/news/2022/04/29/pentagon-russia-behind-objectives-donbas-ukraine-00028947">Pentagon says Russia ‘several days’ behind objectives in Donbas</a> Politico: “They meant to be much further along in the total encirclement,” a senior Defense Department official said. 
+ <p class="updated_time"> 11:37 AM CT, Apr. 29 </p> 
+ <a href="https://www.cnn.com/2022/04/29/politics/gallery/white-house-correspondents-dinner-history/index.html">In pictures: The history of the White House Correspondents' Dinner</a> CNN: After a two-year hiatus due to the Covid-19 pandemic, the White House Correspondents' Dinner returns on Saturday night. 
  <p class="updated_time"> 09:41 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/ukraine-rape-war-crimes.html">In Ukraine War, a Long Journey Begins in Prosecuting Rape</a> NYT: U.N. officials and human rights investigators are rushing more resources to authorities in Ukraine to help prosecute sex crimes. 
  <p class="updated_time"> 09:01 AM CT, Apr. 29 </p> 
@@ -272,8 +280,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/28/us/politics/homeland-security-secretary-migration.html">Republicans Blame Homeland Security Secretary for Spike in Migration</a> NYT: Congressional hearings this week offered a preview of Republican attacks on the Biden administration’s immigration policies as the midterm elections approach. 
  <p class="updated_time"> 05:35 PM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095355274/sage-steele-suing-espn-disney">Anchor Sage Steele is suing ESPN over free speech claims</a> NPR: Steele's lawyers accuse ESPN and Disney of violating her First Amendment rights and breaching her contract after she made comments on a podcast last September. 
- <p class="updated_time"> 05:23 PM CT, Apr. 28 </p> 
- <a href="https://www.cnn.com/2022/04/28/politics/biden-student-loan-debt-forgiveness-problem/index.html">Why Biden is resisting the pressure to cancel $50,000 in student loan debt per borrower</a> CNN: President Joe Biden has a student loan debt forgiveness problem. 
  <p class="updated_time"> 04:05 PM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095365226/what-an-election-in-slovenia-could-mean-for-europe">What an election in Slovenia could mean for Europe</a> NPR: Slovenia voted last weekend to oust Janez Jansa as their Prime Minister. NPR's Rob Schmitz talks with Judy Dempsey of Carnegie Europe on how that election reflects on European politics. 
  <p class="updated_time"> 04:05 PM CT, Apr. 28 </p> 
@@ -298,8 +304,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/28/us/politics/john-distaso-star-reporter-of-new-hampshire-primaries-dies-at-68.html">John DiStaso, Star Reporter of New Hampshire Primaries, Dies at 68</a> NYT: The dean of the state’s political press corps, he was well positioned to grill, vet and analyze a new crop of presidential candidates every four years. 
  <p class="updated_time"> 11:09 AM CT, Apr. 28 </p> 
  <a href="https://www.politico.com/news/2022/04/28/gdp-slump-white-house-recovery-story-00028536">The Biden boom turns into a GDP bust</a> Politico: The government said gross domestic product shrank at a 1.4 percent annualized rate in the first quarter. 
- <p class="updated_time"> 08:04 AM CT, Apr. 28 </p> 
- <a href="https://www.cnn.com/2022/04/27/politics/recession-us-economy-what-matters/index.html">What a recession actually is and when to be worried</a> CNN: The number of relatively frightening headlines about the economy and the likelihood of a recession is on the rise, especially after government data released Thursday showed the economy shrank in the first quarter of 2022. 
  <p class="updated_time"> 03:30 AM CT, Apr. 28 </p> 
  <a href="https://www.politico.com/news/2022/04/28/cruz-trump-gop-endorsements-senate-00028381">It's Trump vs. Cruz in Ohio and Pa. Senate races</a> Politico: As the former president makes endorsements directly at odds with the Texas senator, there's plenty of GOP intrigue over how that affects those races — and the futures of the once political rivals. 
  <p class="updated_time"> 03:30 AM CT, Apr. 28 </p> 
