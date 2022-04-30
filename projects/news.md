@@ -15,21 +15,21 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-61280587?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands: UK minister dispatched for governance talks</a> BBC: But the British overseas territory's acting leader says it opposes calls for the UK to impose direct rule. 
  <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Governments Tighten Grip on Global Food Stocks, Sending Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
- <p class="updated_time"> 01:47 AM CT, Apr. 30 </p> 
+ <p class="updated_time"> 01:58 AM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/rescuers-look-for-survivors-at-kyiv-apartment-block-hit-during-u-n-chiefs-visit-to-ukraine-11651232665">Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia</a> WSJ: Rescuers Look for Survivors at Kyiv Apartment Building Hit by Russia 
- <p class="updated_time"> 12:47 AM CT, Apr. 30 </p> 
+ <p class="updated_time"> 12:58 AM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Delay of New Rules 
- <p class="updated_time"> 11:47 PM CT, Apr. 29 </p> 
+ <p class="updated_time"> 11:58 PM CT, Apr. 29 </p> 
  <a href="https://www.wsj.com/articles/eurozone-economy-keeps-growing-but-recession-risk-looms-11651225720">Eurozone Economy Keeps Growing but Recession Risk Looms</a> WSJ: Eurozone Economy Keeps Growing but Recession Risk Looms 
  <p class="updated_time"> 11:46 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61281692?at_medium=RSS&at_campaign=KARANGA">Widespread damage as tornado tears through Kansas</a> BBC: Shocking footage shows a large twister snaking through the city of Wichita. 
+ <p class="updated_time"> 10:58 PM CT, Apr. 29 </p> 
+ <a href="https://www.wsj.com/articles/west-ramps-up-ukraine-weapons-aid-as-expectations-about-wars-outcome-shift-11651251919">West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift</a> WSJ: West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift 
  <p class="updated_time"> 10:47 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61281559?at_medium=RSS&at_campaign=KARANGA">Bolsonaro hits out at DiCaprio after election plea</a> BBC: The Hollywood star urged Brazil's youth to vote in October's elections to save the Amazon. 
- <p class="updated_time"> 10:47 PM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/west-ramps-up-ukraine-weapons-aid-as-expectations-about-wars-outcome-shift-11651251919">West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift</a> WSJ: West Ramps Up Ukraine Aid as Expectations About War’s Outcome Shift 
  <p class="updated_time"> 10:42 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61281422?at_medium=RSS&at_campaign=KARANGA">Ecuador declares emergency over gang crime</a> BBC: A curfew is imposed and thousands of police and soldiers are deployed to restore "peace and order". 
- <p class="updated_time"> 09:47 PM CT, Apr. 29 </p> 
+ <p class="updated_time"> 09:58 PM CT, Apr. 29 </p> 
  <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions 
  <p class="updated_time"> 09:35 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/middleeast/israel-palestine-aqsa-mosque.html">During Ramadan, Palestinians Barred From Aqsa Turn to Smugglers</a> NYT: For Palestinian Muslims, praying at the Aqsa Mosque in Jerusalem is an important part of Ramadan. Those barred by Israel are finding ways to get there anyway. 
