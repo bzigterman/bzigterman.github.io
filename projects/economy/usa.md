@@ -1,11 +1,9 @@
 ---
 layout: page
-title: U.S. Economic Indicators
+title: United States Economic Indicators
 permalink: /projects/economy/usa
 imageurl: https://bzigterman.com/plots/unemployment_rate.png
 ---
-
-## United States
 
 <iframe src="/interactive/initial_claims.html" width="100%" height="300"> 
 </iframe>

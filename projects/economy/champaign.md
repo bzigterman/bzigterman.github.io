@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Champaign Economic Indicators
+title: Champaign County Economic Indicators
 permalink: /projects/economy/champaign
 imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 ---
-
-## Champaign County
 
 <iframe src="/interactive/champaign_unemployment_rate.html" width="100%" height="300"> 
 </iframe>

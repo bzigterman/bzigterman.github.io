@@ -5,8 +5,6 @@ permalink: /projects/economy/illinois
 imageurl: https://bzigterman.com/plots/il_flash_index.png
 ---
 
-## Illinois
-
 <iframe src="/interactive/il_flash_index.html" width="100%" height="300"> 
 </iframe>
 
