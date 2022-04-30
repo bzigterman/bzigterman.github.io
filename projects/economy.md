@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Economic Indicators
-permalink: /projects/economy
+permalink: /projects/economy/
 imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 ---
 
