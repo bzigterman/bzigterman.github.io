@@ -9,31 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:28 AM CT, Apr. 30 </p> 
+ <p class="updated_time"> 08:37 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news">Live Updates: Russia Moving More Troops to Front as Offensive Appears to Falter</a> NYT: The Ukrainian military said that troops normally stationed in far-eastern Russia are being moved to the battle front in eastern Ukraine. Moscow is trying to gain momentum in what the Pentagon has described as a “plodding” offensive. 
  <p class="updated_time"> 08:16 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/northern-ireland-elections-sinn-fein.html">Sinn Fein Poised to Make Historic Gains in Northern Ireland</a> NYT: But Sinn Fein, which is leading in polls ahead of next week’s elections, hasn’t focused its campaign on unification with Ireland. 
  <p class="updated_time"> 08:00 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1093339262/ukraine-russia-rape-war-crimes">Rape has reportedly become a weapon in Ukraine. Finding justice may be difficult</a> NPR: Widespread allegations of rape at the hands of Russian soldiers have been coming out of Ukraine. Experts say rape in conflict is often used to pursue strategic aims. 
+ <p class="updated_time"> 07:49 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages After Russian Strikes</a> WSJ: Ukrainians Suffer Fuel Shortages After Russian Strikes 
  <p class="updated_time"> 07:44 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61283614?at_medium=RSS&at_campaign=KARANGA">China Covid outbreak: Beijing residents must test negative to enter public spaces</a> BBC: China's capital imposes major new restrictions in a bid to curb a spike in cases. 
- <p class="updated_time"> 07:36 AM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages After Russian Strikes</a> WSJ: Ukrainians Suffer Fuel Shortages After Russian Strikes 
  <p class="updated_time"> 07:14 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1095750152/outspoken-putin-critic-garry-kasparov-says-ukraine-is-just-putins-first-stop">Outspoken Putin critic Garry Kasparov says Ukraine is just Putin's first stop</a> NPR: Scott Simon speaks with former chess champion and Russian President Vladimir Putin's outspoken critic, Garry Kasparov, about the conflict in Ukraine after an event at Goucher College in Maryland. 
  <p class="updated_time"> 07:06 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/30/world/ukraine-grapples-with-fuel-shortages-after-russian-attacks.html">Ukraine grapples with fuel shortages after Russian attacks on oil infrastructure.</a> NYT: Officials in Kyiv have urged residents to use public transportation rather than private vehicles in an effort to save fuel for the military. 
+ <a href="https://www.nytimes.com/2022/04/30/world/ukraine-fuel-shortages-russia.html">Ukraine Grapples With Fuel Shortages After Russian Attacks</a> NYT: Officials in Kyiv have urged residents to use public transportation rather than private vehicles in an effort to save fuel for the military. 
  <p class="updated_time"> 07:06 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1095729592/what-is-may-day-history">What is May Day? For the most part, the opposite of capitalism</a> NPR: What springs to mind when you hear May Day? In the U.S. and abroad, the day has grown to encompass a spectrum of meanings. But the themes have remained the same: worker unity, suppression and rebirth. 
  <p class="updated_time"> 07:00 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1095750117/after-three-months-of-conflict-the-ukrainian-city-of-mariupol-is-devastated">After three months of conflict, the Ukrainian city of Mariupol is devastated</a> NPR: Heavy fighting continues in the north and south of Ukraine. The U.N. Secretary General was in Kyiv this week to try to set up evacuation routes from the besieged city of Mariupol. 
  <p class="updated_time"> 06:57 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/asia/pakistan-airstrikes-afghanistan-taliban.html">‘I Lost Everything’: Pakistani Airstrikes Escalate Conflict on Afghan Border</a> NYT: The airstrikes killed at least 45 people, stoking fears of a violent resurgence of the conflict in eastern Afghanistan, which has become a base for Pakistani militants. 
- <p class="updated_time"> 06:36 AM CT, Apr. 30 </p> 
+ <p class="updated_time"> 06:49 AM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 06:00 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/04/30/1094677166/we-asked-you-answered-have-you-taught-your-children-to-run-errands-on-their-own">We asked, you answered: Have you taught your children to run errands on their own?</a> NPR: Nearly 100 NPR readers gave their views on encouraging kids to do tasks on their own at home and in the community. Some are opposed to the practice for safety reasons. Others shared personal stories. 
- <p class="updated_time"> 05:36 AM CT, Apr. 30 </p> 
+ <p class="updated_time"> 05:49 AM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 05:15 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
@@ -43,7 +43,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/30/world/canada/hudsons-bay-winnipeg.html">Flagship Hudson’s Bay Store Turned Over to Indigenous Group</a> NYT: The Hudson’s Bay Company has turned over its former flagship store to an Indigenous group with big ambitions for the space. 
  <p class="updated_time"> 04:54 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61280409?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US accuses Russia of depravity and brutality</a> BBC: Pentagon spokesman John Kirby appeared emotional as he described Russia's "cruelty" in Ukraine. 
- <p class="updated_time"> 04:36 AM CT, Apr. 30 </p> 
+ <p class="updated_time"> 04:49 AM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/china-plans-reprieve-for-tech-giants-including-delaying-new-rules-as-economy-slows-11651230087">China Plans Reprieve for Tech Giants, Delay of New Rules</a> WSJ: China Plans Reprieve for Tech Giants, Delay of New Rules 
  <p class="updated_time"> 04:30 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61259569?at_medium=RSS&at_campaign=KARANGA">Venus and Jupiter Conjunction: Planets to almost touch in night sky</a> BBC: The dazzlingly bright planets appear extremely close together in the dark sky this weekend. 
@@ -59,7 +59,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/30/1092639702/russia-norway-nato-arctic-council">A new Iron Curtain is eroding Norway's hard-won ties with Russia on Arctic issues</a> NPR: The countries share a border. Along the frontier, residents say a new barrier has disrupted everything from Arctic climate action and nuclear waste control to trade and cross-border sports leagues. 
  <p class="updated_time"> 04:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/middleeast/miilya-israel-archaeology-crusaders-byzantine.html">Mi’ilya, Christian Village in Israel, Digs Into Crusader Past</a> NYT: The residents of Mi’ilya long wondered what archaeological treasures lay beneath a crumbling castle. Now, some are excavating their homes to find out. 
- <p class="updated_time"> 03:36 AM CT, Apr. 30 </p> 
+ <p class="updated_time"> 03:49 AM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions 
  <p class="updated_time"> 02:18 AM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61280587?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands: UK minister dispatched for governance talks</a> BBC: But the British overseas territory's acting leader says it opposes calls for the UK to impose direct rule. 
