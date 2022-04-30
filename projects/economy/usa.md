@@ -24,7 +24,8 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 
 [![Durable Goods]({{ site.baseurl }}/plots/durable_goods.png)](https://fred.stlouisfed.org/series/DGORDER)
 
-[![Consumer Sentiment]({{ site.baseurl }}/plots/consumer_sentiment.png)](https://fred.stlouisfed.org/series/UMCSENT)
+<iframe src="/interactive/consumer_sentiment.html" width="100%" height="300"> 
+</iframe>
 
 [![Real GDP]({{ site.baseurl }}/plots/gdp.png)](https://fred.stlouisfed.org/series/GDPC1)
 

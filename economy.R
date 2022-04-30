@@ -538,6 +538,31 @@ recent_data <- data %>%
   filter(date > recent_years) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE))) 
 
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = value),
+              name = "Index") %>%
+  hc_title(text = "Consumer Sentiment Index") %>%
+  hc_caption(
+    text = paste("Source: University of Michigan Consumer Survey, retrieved from the St. Louis Fed. Latest data:",
+                 tail(recent_data$short_date,1))) %>%
+  hc_yAxis(title = list(text = "")) %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )%>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
+fig
+saveWidget(widget = fig, file = "interactive/consumer_sentiment.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
 ggplot(recent_data, aes(x = date,
                         y = value)) +
   geom_line() +
@@ -1355,7 +1380,8 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 
 [![Durable Goods]({{ site.baseurl }}/plots/durable_goods.png)](https://fred.stlouisfed.org/series/DGORDER)
 
-[![Consumer Sentiment]({{ site.baseurl }}/plots/consumer_sentiment.png)](https://fred.stlouisfed.org/series/UMCSENT)
+<iframe src=\"/interactive/consumer_sentiment.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 [![Real GDP]({{ site.baseurl }}/plots/gdp.png)](https://fred.stlouisfed.org/series/GDPC1)
 
