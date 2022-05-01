@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:49 PM CT, May. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61270253?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: The hard life of a homeless deliveryman</a> BBC: Many riders face a lack of shelter and safety while delivering supplies in a locked down city. 
+ <p class="updated_time"> 06:46 PM CT, May. 01 </p> 
+ <a href="https://www.npr.org/2022/05/01/1095826996/family-of-hotel-rwanda-hero-sues-rwandan-government-for-kidnapping-and-torture">Family of 'Hotel Rwanda' hero sues Rwandan government for kidnapping and torture</a> NPR: Paul Rusesabagina saved more than 1,200 people during the 1994 Rwandan genocide. The Rwandan government convicted him of terrorism in a trial that human rights groups call a sham. 
  <p class="updated_time"> 06:29 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61292951?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Mariupol civilians evacuated from steelworks bunker</a> BBC: Trapped underground for weeks, dozens of people have now been taken to both Ukraine-held and Russia-held territory. 
  <p class="updated_time"> 06:21 PM CT, May. 01 </p> 
@@ -20,35 +24,33 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:09 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/mariupol-steel-plant-evacuation.html">100 Civilians Evacuated From Mariupol Steel Factory, Officials Say</a> NYT: The Ukrainian president said that civilians were being evacuated from the Azovstal steel factory and are headed to a “controlled area.” 
  <p class="updated_time"> 06:01 PM CT, May. 01 </p> 
- <a href="https://www.bbc.co.uk/news/stories-61272009?at_medium=RSS&at_campaign=KARANGA">The opera singer who survived the sinking of the General Belgrano</a> BBC: In May 1982, the Argentine cruiser the General Belgrano was sunk by British torpedoes during the war over the Falkland or Malvinas Islands. 
+ <a href="https://www.bbc.co.uk/news/stories-61272009?at_medium=RSS&at_campaign=KARANGA">General Belgrano: The opera singer who survived the sinking of the Argentine cruiser</a> BBC: In May 1982, the Argentine cruiser the General Belgrano was sunk by British torpedoes during the war over the Falkland or Malvinas Islands. 
+ <p class="updated_time"> 05:58 PM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876">Russia Recasts Ukraine Fight as War With West</a> WSJ: Russia Recasts Ukraine Fight as War With West 
  <p class="updated_time"> 05:52 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/ukraine-russia-war-pelosi.html">U.S. Talk of ‘Victory’ Against Russia Has Some Allies Nervous</a> NYT: Europeans focused on helping Ukraine withstand the invasion worry that the United States may be “dragging everyone into a different war.” 
- <p class="updated_time"> 05:47 PM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876">Russia Recasts Ukraine Fight as War With West</a> WSJ: Russia Recasts Ukraine Fight as War With West 
  <p class="updated_time"> 05:29 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/arts/regine-dead.html">Régine, Whose Discotheque Gave Nightlife a New Dawn, Dies at 92</a> NYT: Credited with opening the first disco, she built an empire of glittering playgrounds for the Beautiful People in Paris, New York and beyond. 
  <p class="updated_time"> 05:04 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61294584?at_medium=RSS&at_campaign=KARANGA">Dutch boy, 4, takes mother's car for a joyride</a> BBC: Despite crashing into two parked cars, no one was injured in the youngster's early morning escapade. 
+ <p class="updated_time"> 04:58 PM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/china-economy-recession-covid-lockdowns-11651434168">China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth</a> WSJ: China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth 
  <p class="updated_time"> 04:54 PM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095839381/new-techno-music-exhibit-transcends-borders">New techno music exhibit transcends borders</a> NPR: A new exhibit set to travel to several cities in the U.S., Canada and Latin America puts a spotlight on techno music, its roots and historical significance. 
- <p class="updated_time"> 04:47 PM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/europe-to-make-fresh-push-to-revive-iran-nuclear-deal-by-offering-to-send-top-negotiator-back-to-tehran-11651419295">Europe to Make Fresh Push to Revive Iran Nuclear Deal</a> WSJ: Europe to Make Fresh Push to Revive Iran Nuclear Deal 
  <p class="updated_time"> 04:30 PM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095830805/russia-ukraine-war-what-happened-today-may-1">Russia-Ukraine war: What happened today (May 1)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:01 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/russian-general-dead-valery-gerasimov.html">U.S. and Ukraine Officials: Top Russian Officer Went to War’s Frontline</a> NYT: The presence of such a high-ranking official on the front lines is highly unusual and comes amid what Western military analysts describe as increasing disarray within Russian forces. 
- <p class="updated_time"> 03:47 PM CT, May. 01 </p> 
+ <p class="updated_time"> 03:58 PM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/europe-to-make-fresh-push-to-revive-iran-nuclear-deal-by-offering-to-send-top-negotiator-back-to-tehran-11651419295">Europe to Make Fresh Push to Revive Iran Nuclear Deal</a> WSJ: Europe to Make Fresh Push to Revive Iran Nuclear Deal 
+ <p class="updated_time"> 02:58 PM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 02:49 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/afghanistan-isis-attacks.html">ISIS Launches Bloody New Chapter in Afghanistan</a> NYT: At least 100 people have died in terrorist attacks over the past two weeks, as the Islamic State targets minorities in Afghanistan and aims to undermine the Taliban government. 
- <p class="updated_time"> 02:47 PM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 02:22 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/philippines-election-marcos-robredo.html">Ahead of Philippines Election, Young People Rally Around Leni Robredo</a> NYT: As the election in the Philippines nears, tens of thousands of young people who fear another Marcos presidency are rallying around Leni Robredo, the country’s vice president. 
- <p class="updated_time"> 01:47 PM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/as-inflation-eases-public-debt-load-economists-sound-cautionary-note-11651397401">Economists Leery as Inflation Eases Public Debt Load</a> WSJ: Economists Leery as Inflation Eases Public Debt Load 
- <p class="updated_time"> 01:42 PM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/china-economy-recession-covid-lockdowns-11651434168">China's Economy Appears to Be Stalling, Threatening to Drag Down Global Growth</a> WSJ: While a traditional recession of two straight quarters of contraction remains unlikely for the country, economists see worrisome signs of a spell of slower growth. 
+ <p class="updated_time"> 01:58 PM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 12:02 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-61292334?at_medium=RSS&at_campaign=KARANGA">Iraq dust storm: Flights grounded in Baghdad and Najaf as skies turn orange</a> BBC: A dust storm that has covered Iraq in an orange sheet is expected to continue into Monday. 
  <p class="updated_time"> 11:35 AM CT, May. 01 </p> 
@@ -103,6 +105,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/01/1095802509/nancy-pelosi-meets-zelenskyy-kyiv-civilians-leave-mariupol-steel-plant">About 100 civilians escape Mariupol steel plant as Pelosi visits Zelenskyy in Kyiv</a> NPR: The U.N. is helping to evacuate the remaining civilians, officials said Sunday. House Speaker Nancy Pelosi is the most senior U.S. official to visit Kyiv since the war began in February. 
  <p class="updated_time"> 01:03 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/foreign-legion-volunteers.html">Deaths of Foreign Fighters Renew Attention on Ukraine War Volunteers</a> NYT: At least three foreigners have been killed fighting with Ukraine’s International Legion. One analyst said many would-be volunteers underestimated the danger from Russian forces. 
+ <p class="updated_time"> 12:30 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/as-inflation-eases-public-debt-load-economists-sound-cautionary-note-11651397401">Economists Leery as Inflation Eases Public Debt Load</a> WSJ: Excessive reliance by governments on rising prices is seen possibly triggering an upward spiral in interest rates. 
  <p class="updated_time"> 09:39 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-scythia-gold-museum-russia.html">Ukraine Says Russia Looted Ancient Gold Artifacts From a Museum</a> NYT: According to Ukrainian officials, Russian soldiers, aided by a mysterious expert, broke into a museum and spirited away priceless artifacts from the Scythian empire. 
  <p class="updated_time"> 09:31 PM CT, Apr. 30 </p> 
@@ -149,8 +153,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/30/1093339262/ukraine-russia-rape-war-crimes">Rape has reportedly become a weapon in Ukraine. Finding justice may be difficult</a> NPR: Widespread allegations of rape at the hands of Russian soldiers have been coming out of Ukraine. Experts say rape in conflict is often used to pursue strategic aims. 
  <p class="updated_time"> 07:14 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1095750152/outspoken-putin-critic-garry-kasparov-says-ukraine-is-just-putins-first-stop">Outspoken Putin critic Garry Kasparov says Ukraine is just Putin's first stop</a> NPR: Scott Simon speaks with former chess champion and Russian President Vladimir Putin's outspoken critic, Garry Kasparov, about the conflict in Ukraine after an event at Goucher College in Maryland. 
- <p class="updated_time"> 07:06 AM CT, Apr. 30 </p> 
- <a href="https://www.npr.org/2022/04/30/1095729592/what-is-may-day-history">What is May Day? For the most part, the opposite of capitalism</a> NPR: What springs to mind when you hear May Day? In the U.S. and abroad, the day has grown to encompass a spectrum of meanings. But the themes have remained the same: worker unity, suppression and rebirth. 
  <p class="updated_time"> 06:57 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/asia/pakistan-airstrikes-afghanistan-taliban.html">Pakistani Airstrikes Escalate Conflict on Afghan Border</a> NYT: The airstrikes killed at least 45 people, stoking fears of a violent resurgence of the conflict in eastern Afghanistan, which has become a base for Pakistani militants. 
  <p class="updated_time"> 05:11 AM CT, Apr. 30 </p> 
@@ -173,6 +175,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ireland-census-time-capsule.html">Ireland’s Census Collects Time Capsules to Be Opened in 100 Years</a> NYT: The makers of the survey included a space for people to write or draw a message. The contents of these so-called time capsules will be revealed in 100 years. 
  <p class="updated_time"> 08:34 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/europe-ratchets-up-preparation-for-russian-oil-embargo-next-week.html">Amid Hardening Western Resolve, Signs of Russia’s Stalling in Eastern Ukraine</a> NYT: Pentagon officials say the Russian drive in Donbas is being hampered by poor logistics and stiff Ukrainian resistance. 
+ <p class="updated_time"> 07:11 PM CT, Apr. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61280068?at_medium=RSS&at_campaign=KARANGA">Daughter of IS victim: 'I will never forgive'</a> BBC: Facing her father's killers in court, Bethany Haines read her impact statement and detailed her trauma. 
  <p class="updated_time"> 06:08 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/health-61184400?at_medium=RSS&at_campaign=KARANGA">The impact of miscarriage on families around the world</a> BBC: The grief is universal, but the care women receive during pregnancy loss can depend on where they live. 
  <p class="updated_time"> 06:03 PM CT, Apr. 29 </p> 
@@ -263,9 +267,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:01 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/florida-lost-70-000-people-to-covid-its-still-not-prepared-for-the-next-wave-00029091">Florida lost 70,000 people to Covid. It’s still not prepared for the next wave.</a> Politico: A report by the Florida Hospital Association estimates 70 percent of Florida hospitals are facing a critical staffing shortage, and the state will be short 60,000 nurses by 2035. 
  <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
- <a href="https://www.politico.com/news/2022/05/01/trump-republicans-first-step-act-00029104">Trump’s criminal justice reform bill becomes persona non grata among GOPers</a> Politico: With rising crime and the approaching midterms, Republicans have moved far past the First Step Act. 
- <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/democrats-immigration-reform-infighting-00029087">Immigration reform withers as Democrats descend into border infighting</a> Politico: There's now "zero" chance for a comprehensive bill this Congress, one key senator said. But the party has some smaller ideas to fall back on. 
+ <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
+ <a href="https://www.politico.com/news/2022/05/01/trump-republicans-first-step-act-00029104">Trump’s criminal justice reform bill becomes persona non grata among GOPers</a> Politico: With rising crime and the approaching midterms, Republicans have moved far past the First Step Act. 
  <p class="updated_time"> 05:47 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/pelosi-concludes-secret-visit-to-ukraine-00029154">Pelosi concludes secret visit to Ukraine</a> Politico: The House speaker, who is second in line to the presidency, is now the highest-ranking U.S. official to visit the war-battered nation since Russia’s invasion began. 
  <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
