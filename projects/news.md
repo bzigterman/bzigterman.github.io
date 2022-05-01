@@ -11,23 +11,25 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 03:18 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">Ukraine Live Updates: Pelosi Travels to Kyiv to Meet Zelensky</a> NYT: Speaker Nancy Pelosi appeared in a video from Kyiv with President Volodymyr Zelensky. She is the highest-ranking U.S. official to travel to Ukraine since the war started. 
- <p class="updated_time"> 02:21 AM CT, May. 01 </p> 
+ <p class="updated_time"> 02:54 AM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages</a> WSJ: Ukrainians Suffer Fuel Shortages 
+ <p class="updated_time"> 01:54 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 01:42 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095802509/nancy-pelosi-meets-zelenskyy-kyiv-civilians-leave-mariupol-steel-plant">Nancy Pelosi meets Zelenskyy in Kyiv, civilians leave Mariupol steel plant</a> NPR: U.S. Speaker of the House of Representatives Nancy Pelosi has met with Ukraine's president during a visit to the country's embattled capital, Kyiv. 
- <p class="updated_time"> 01:21 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 01:03 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/foreign-legion-volunteers.html">Deaths of Foreign Fighters Draw Renewed Attention to Volunteers in Ukraine</a> NYT: At least three foreigners have been killed fighting with Ukraine’s International Legion. One analyst said many would-be volunteers underestimated the danger from Russian forces. 
- <p class="updated_time"> 12:21 AM CT, May. 01 </p> 
+ <p class="updated_time"> 12:54 AM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
- <p class="updated_time"> 11:21 PM CT, Apr. 30 </p> 
+ <p class="updated_time"> 11:54 PM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 11:11 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/boxing/61263902?at_medium=RSS&at_campaign=KARANGA">Taylor beats Serrano in historic NY fight</a> BBC: Katie Taylor edges Amanda Serrano on points with a split-decision win in an instant classic at Madison Square Garden in New York. 
+ <p class="updated_time"> 11:11 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Visits Ukraine's President Zelensky in Kyiv</a> WSJ: The House speaker led a delegation of U.S. lawmakers on a trip to Ukraine’s capital on Saturday night, as Russia’s military advance stalled in the country’s east. 
  <p class="updated_time"> 11:01 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61288670?at_medium=RSS&at_campaign=KARANGA">White House press dinner returns after two years</a> BBC: The event, which Donald Trump boycotted during his presidency, had been cancelled due to Covid. 
- <p class="updated_time"> 10:21 PM CT, Apr. 30 </p> 
+ <p class="updated_time"> 10:54 PM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/russias-war-in-ukraine-is-straining-global-economic-cooperation-11651318201">Russia’s Ukraine War Strains Global Economic Cooperation</a> WSJ: Russia’s Ukraine War Strains Global Economic Cooperation 
  <p class="updated_time"> 09:39 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-scythia-gold-museum-russia.html">Ukraine Says Russia Looted Ancient Gold Artifacts From a Museum</a> NYT: According to Ukrainian officials, Russian soldiers, aided by a mysterious expert, broke into a museum and spirited away priceless artifacts from the Scythian empire. 
@@ -328,12 +330,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/28/trumps-risky-primary-play-rallying-for-a-longtime-ally-accused-of-sexual-misconduct-00028611">Trump goes all in for candidate accused of sexual assault</a> Politico: The former president is holding a rally in Nebraska Friday for his candidate for governor, Charles Herbster. 
  <p class="updated_time"> 11:09 AM CT, Apr. 28 </p> 
  <a href="https://www.politico.com/news/2022/04/28/gdp-slump-white-house-recovery-story-00028536">The Biden boom turns into a GDP bust</a> Politico: The government said gross domestic product shrank at a 1.4 percent annualized rate in the first quarter. 
- <p class="updated_time"> 03:30 AM CT, Apr. 28 </p> 
- <a href="https://www.politico.com/news/2022/04/28/cruz-trump-gop-endorsements-senate-00028381">It's Trump vs. Cruz in Ohio and Pa. Senate races</a> Politico: As the former president makes endorsements directly at odds with the Texas senator, there's plenty of GOP intrigue over how that affects those races — and the futures of the once political rivals. 
- <p class="updated_time"> 03:30 AM CT, Apr. 28 </p> 
- <a href="https://www.politico.com/news/2022/04/28/pro-bernie-endorses-dem-senate-primary-00028474">Pro-Bernie group endorses in key Dem Senate primary</a> Politico: Our Wisconsin Revolution is backing Tom Nelson in the crowded race to take on GOP Sen. Ron Johnson. 
- <p class="updated_time"> 03:30 AM CT, Apr. 28 </p> 
- <a href="https://www.politico.com/news/2022/04/28/white-houses-ukraine-aid-bid-00028430">White House's $33B Ukraine aid bid already tangled up in Congress</a> Politico: Congressional jousting over immigration could end up delaying Biden's request for aid for the war-ravaged nation, despite overwhelming bipartisan support. 
 
 
 </details>
