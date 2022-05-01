@@ -390,6 +390,30 @@ recent_data <- data %>%
   filter(date > recent_years) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
 
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = value*1000000),
+              name = "Sales") %>%
+  hc_title(text = "Retail Trade and Food Services") %>%
+  hc_caption(
+    text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+                 tail(recent_data$short_date,1))) %>%
+  hc_yAxis(title = list(text = "")) %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )%>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
+fig
+saveWidget(widget = fig, file = "interactive/retail_sales.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
 
 ggplot(data, aes(x = date,
                  y = value/1000)) +
@@ -639,6 +663,8 @@ fig <- hchart(data2, "line", hcaes(x = date,
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = list(text = "")) %>%
   hc_xAxis(title = list(text = NULL)) %>%
+  hc_legend(floating = TRUE,
+            layout = "vertical") %>%
   hc_tooltip(shared = TRUE,
              sort = TRUE) %>%
   hc_add_theme(
