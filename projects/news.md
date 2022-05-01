@@ -9,36 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:18 AM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">Ukraine Live Updates: Pelosi Travels to Kyiv to Meet Zelensky</a> NYT: Speaker Nancy Pelosi appeared in a video from Kyiv with President Volodymyr Zelensky. She is the highest-ranking U.S. official to travel to Ukraine since the war started. 
- <p class="updated_time"> 02:54 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages</a> WSJ: Ukrainians Suffer Fuel Shortages 
- <p class="updated_time"> 01:54 AM CT, May. 01 </p> 
+ <p class="updated_time"> 04:48 AM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">Live Updates: Pelosi Meets Zelensky in Kyiv, as U.S. Support for Ukraine Grows</a> NYT: The House speaker announced that she had met with President Volodymyr Zelensky on Saturday in Kyiv. She is the highest ranking U.S. official to travel to Ukraine since the war began. 
+ <p class="updated_time"> 04:34 AM CT, May. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61248366?at_medium=RSS&at_campaign=KARANGA">Ghana's e-levy adds 1.5% tax to electronic payments</a> BBC: A new e-levy of 1.5% on all electronic payments comes into force despite widespread opposition. 
+ <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Visits Ukraine’s President Zelensky in Kyiv</a> WSJ: Nancy Pelosi Visits Ukraine’s President Zelensky in Kyiv 
+ <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/2022/05/01/world/asia/china-covid-zero-xi-jinping.html">Inside China’s Zero-Covid Fortress, Xi Admits No Doubts</a> NYT: As the lockdown of Shanghai and outbreaks in Beijing and elsewhere batter the economy, China’s leader keeps a distance from the politically charged issue. 
+ <p class="updated_time"> 03:00 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/british-virgin-islands-premier-arrested-in-florida-on-drug-trafficking-money-laundering-charges-11651251613">British Virgin Islands Premier Arrested in Florida</a> WSJ: British Virgin Islands Premier Arrested in Florida 
+ <p class="updated_time"> 02:00 AM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 01:42 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095802509/nancy-pelosi-meets-zelenskyy-kyiv-civilians-leave-mariupol-steel-plant">Nancy Pelosi meets Zelenskyy in Kyiv, civilians leave Mariupol steel plant</a> NPR: U.S. Speaker of the House of Representatives Nancy Pelosi has met with Ukraine's president during a visit to the country's embattled capital, Kyiv. 
  <p class="updated_time"> 01:03 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/foreign-legion-volunteers.html">Deaths of Foreign Fighters Draw Renewed Attention to Volunteers in Ukraine</a> NYT: At least three foreigners have been killed fighting with Ukraine’s International Legion. One analyst said many would-be volunteers underestimated the danger from Russian forces. 
- <p class="updated_time"> 12:54 AM CT, May. 01 </p> 
+ <p class="updated_time"> 01:00 AM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
- <p class="updated_time"> 11:54 PM CT, Apr. 30 </p> 
+ <p class="updated_time"> 12:00 AM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 11:11 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/boxing/61263902?at_medium=RSS&at_campaign=KARANGA">Taylor beats Serrano in historic NY fight</a> BBC: Katie Taylor edges Amanda Serrano on points with a split-decision win in an instant classic at Madison Square Garden in New York. 
- <p class="updated_time"> 11:11 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Visits Ukraine's President Zelensky in Kyiv</a> WSJ: The House speaker led a delegation of U.S. lawmakers on a trip to Ukraine’s capital on Saturday night, as Russia’s military advance stalled in the country’s east. 
  <p class="updated_time"> 11:01 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61288670?at_medium=RSS&at_campaign=KARANGA">White House press dinner returns after two years</a> BBC: The event, which Donald Trump boycotted during his presidency, had been cancelled due to Covid. 
- <p class="updated_time"> 10:54 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/russias-war-in-ukraine-is-straining-global-economic-cooperation-11651318201">Russia’s Ukraine War Strains Global Economic Cooperation</a> WSJ: Russia’s Ukraine War Strains Global Economic Cooperation 
  <p class="updated_time"> 09:39 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-scythia-gold-museum-russia.html">Ukraine Says Russia Looted Ancient Gold Artifacts From a Museum</a> NYT: According to Ukrainian officials, Russian soldiers, aided by a mysterious expert, broke into a museum and spirited away priceless artifacts from the Scythian empire. 
  <p class="updated_time"> 09:31 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61288641?at_medium=RSS&at_campaign=KARANGA">Guinea to move to civilian rule in three years</a> BBC: The military junta, which took power in a coup last year, gives a timeline for civilian rule. 
  <p class="updated_time"> 07:00 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61286505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Resistance to Russian rouble in Kherson</a> BBC: Russian forces say the currency will be used there from Sunday. But many residents have other ideas. 
- <p class="updated_time"> 06:50 PM CT, Apr. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61248366?at_medium=RSS&at_campaign=KARANGA">Ghana's e-levy adds 1.5% tax to electronic payments</a> BBC: A new e-levy of 1.5% on all electronic payments comes into force despite widespread opposition. 
  <p class="updated_time"> 06:48 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61251228?at_medium=RSS&at_campaign=KARANGA">Afghan interpreters fear families 'forgotten' by Canada</a> BBC: Former interpreters say their families face major bureaucratic hurdles in effort to reach Canada. 
  <p class="updated_time"> 06:47 PM CT, Apr. 30 </p> 
@@ -214,6 +214,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
+ <a href="https://www.npr.org/2022/05/01/1095466871/biden-polls-democrats-gen-z-midterms">Polls show Biden is losing support from Gen Z. These young voters aren't surprised</a> NPR: As the political calendar inches towards the midterm elections in November, a run of recent polling all points to one thing: President Biden has a problem with young voters. 
+ <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/2022/05/01/us/politics/josh-mandel-vance-ohio-senate.html">In Trump’s Shadow, Ohio Republicans Campaign Ahead of Tuesday’s Primary.</a> NYT: Donald Trump’s endorsement of the author and venture capitalist J.D. Vance has shaken up the Republican race for the first major Senate midterm election. 
+ <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/2022/05/01/us/politics/covid-aid-hospitals-uninsured.html">Loss of Pandemic Aid Stresses Hospitals That Treat the Uninsured</a> NYT: Hospitalizations from Covid-19 are receding, but safety-net providers are facing tremendous unmet needs from poor and uninsured patients who delayed seeking care during the pandemic. 
  <p class="updated_time"> 01:33 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095801502/president-biden-mocks-trump-at-white-house-correspondents-dinner">President Biden mocks Trump at White House Correspondents' Dinner</a> NPR: Joe Biden addressed the White House Correspondents' Association dinner on Saturday night, the first time a president has spoken at the event in six years. 
  <p class="updated_time"> 01:04 AM CT, May. 01 </p> 
@@ -263,7 +269,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:21 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/fda-covid-vaccine-under-5.html">F.D.A. Sets Aside June for Potential Decisions on Vaccines for Children Under 5</a> NYT: Both Moderna and Pfizer-BioNTech have asked the agency to approve their vaccines for the youngest children. 
  <p class="updated_time"> 07:44 PM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/us/politics/madison-cawthorn.html">Pressure Mounts on Cawthorn as Scandals Pile Up</a> NYT: Representative Madison Cawthorn of North Carolina, once a bright young star in the conservative firmament, finds himself besieged by accusations and insinuations. 
+ <a href="https://www.nytimes.com/2022/04/29/us/politics/madison-cawthorn.html">Madison Cawthorn is Under Pressure as Scandals Pile Up</a> NYT: Representative Madison Cawthorn of North Carolina, once a bright young star in the conservative firmament, finds himself besieged by accusations and insinuations. 
  <p class="updated_time"> 06:35 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/us-democracy.html">Is American Democracy Built to Last?</a> NYT: Yascha Mounk’s new book questions deeply held beliefs about the stability of Western societies. 
  <p class="updated_time"> 04:45 PM CT, Apr. 29 </p> 
@@ -316,16 +322,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/gallery/2022/04/29/the-nations-cartoonists-on-the-week-in-politics-00028851">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 03:30 AM CT, Apr. 29 </p> 
  <a href="https://www.politico.com/news/2022/04/29/house-republican-freedom-caucus-challenges-00023071">Inside the House Freedom Caucus’ identity crisis</a> Politico: The conservatives who built their political brand on challenging GOP leaders are starting to struggle with problems of their own. 
- <p class="updated_time"> 02:39 AM CT, Apr. 29 </p> 
- <a href="https://www.npr.org/2022/04/29/1095444475/some-democrats-are-joining-with-republicans-lobbying-to-keep-title-42">Some Democrats are joining with Republicans lobbying to keep Title 42</a> NPR: NPR's A Martinez asks Democratic analyst Maria Cardona about moderate Democrats, who have broken with the White House over plans to lift Title 42 restrictions on migrant border crossings. 
  <p class="updated_time"> 07:36 PM CT, Apr. 28 </p> 
  <a href="https://www.politico.com/news/2022/04/28/new-york-redistricting-spooks-house-dems-00028753">‘Egg on our face’: New York redistricting mess spooks House Dems</a> Politico: Democrats' House majority was already slipping away, but Wednesday's court decision in New York was potentially devastating. 
  <p class="updated_time"> 06:31 PM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/us/politics/ukraine-biden-aid.html">Biden Seeks $33 Billion More in Aid for Ukraine</a> NYT: “The cost of this fight is not cheap,” President Biden said. He also sent Congress a plan to increase the government’s power to seize luxury yachts, aircraft and other assets of Russian oligarchs. 
- <p class="updated_time"> 06:00 PM CT, Apr. 28 </p> 
- <a href="https://www.nytimes.com/2022/04/28/us/politics/trump-primary-endorsements.html">Republican Primaries in May Will Test Trump’s Continued Pull</a> NYT: The upcoming Republican primaries are a critical test of the former president’s grip on the G.O.P. Here are the key races to watch. 
- <p class="updated_time"> 05:54 PM CT, Apr. 28 </p> 
- <a href="https://www.nytimes.com/2022/04/28/us/politics/homeland-security-secretary-migration.html">Republicans Blame Homeland Security Secretary for Spike in Migration</a> NYT: Congressional hearings this week offered a preview of Republican attacks on the Biden administration’s immigration policies as the midterm elections approach. 
  <p class="updated_time"> 12:14 PM CT, Apr. 28 </p> 
  <a href="https://www.politico.com/news/2022/04/28/trumps-risky-primary-play-rallying-for-a-longtime-ally-accused-of-sexual-misconduct-00028611">Trump goes all in for candidate accused of sexual assault</a> Politico: The former president is holding a rally in Nebraska Friday for his candidate for governor, Charles Herbster. 
  <p class="updated_time"> 11:09 AM CT, Apr. 28 </p> 
