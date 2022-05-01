@@ -9,27 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:42 AM CT, May. 01 </p> 
+ <a href="https://www.npr.org/2022/05/01/1095802509/some-ukrainians-evacuated-from-ruins-of-mariupol-steel-plant">Some Ukrainians evacuated from ruins of Mariupol steel plant</a> NPR: Some women and children were evacuated from a steel plant that is the last defensive stronghold in the bombed-out ruins of the port city of Mariupol, but hundreds are believed to remain trapped. 
  <p class="updated_time"> 01:03 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news">What Happened on Day 66 of the War in Ukraine</a> NYT: About 20 women and children evacuated from Mariupol’s embattled Azovstal steel plant, a Ukrainian fighter at the plant said. Grain harvests in Ukraine, known as Europe’s breadbasket, are paralyzed, worsening a food crisis in East Africa. 
  <p class="updated_time"> 01:03 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/foreign-legion-volunteers.html">Deaths of Foreign Fighters Draw Renewed Attention to Volunteers in Ukraine</a> NYT: At least three foreigners have been killed fighting with Ukraine’s International Legion. One analyst said many would-be volunteers underestimated the danger from Russian forces. 
- <p class="updated_time"> 12:30 AM CT, May. 01 </p> 
+ <p class="updated_time"> 12:52 AM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages</a> WSJ: Ukrainians Suffer Fuel Shortages 
- <p class="updated_time"> 11:30 PM CT, Apr. 30 </p> 
+ <p class="updated_time"> 11:52 PM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 11:11 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/boxing/61263902?at_medium=RSS&at_campaign=KARANGA">Taylor beats Serrano in historic NY fight</a> BBC: Katie Taylor edges Amanda Serrano on points with a split-decision win in an instant classic at Madison Square Garden in New York. 
  <p class="updated_time"> 11:01 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61288670?at_medium=RSS&at_campaign=KARANGA">White House press dinner returns after two years</a> BBC: The event, which Donald Trump boycotted during his presidency, had been cancelled due to Covid. 
- <p class="updated_time"> 10:30 PM CT, Apr. 30 </p> 
+ <p class="updated_time"> 10:52 PM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
+ <p class="updated_time"> 09:52 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 09:39 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-scythia-gold-museum-russia.html">Ukraine Says Russia Looted Ancient Gold Artifacts From a Museum</a> NYT: According to Ukrainian officials, Russian soldiers, aided by a mysterious expert, broke into a museum and spirited away priceless artifacts from the Scythian empire. 
  <p class="updated_time"> 09:31 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61288641?at_medium=RSS&at_campaign=KARANGA">Guinea to move to civilian rule in three years</a> BBC: The military junta, which took power in a coup last year, gives a timeline for civilian rule. 
- <p class="updated_time"> 09:30 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
- <p class="updated_time"> 08:30 PM CT, Apr. 30 </p> 
+ <p class="updated_time"> 08:52 PM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/russias-war-in-ukraine-is-straining-global-economic-cooperation-11651318201">Russia’s Ukraine War Strains Global Economic Cooperation</a> WSJ: Russia’s Ukraine War Strains Global Economic Cooperation 
  <p class="updated_time"> 07:00 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61286505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Resistance to Russian rouble in Kherson</a> BBC: Russian forces say the currency will be used there from Sunday. But many residents have other ideas. 
@@ -147,8 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/climate/gas-prices-america.html">Why Americans Became More Vulnerable to Oil Price Spikes</a> NYT: When prices soared years ago, Americans launched broad efforts to wean the nation off oil and gas to protect households from price swings. But then supply rose and plans fizzled. 
  <p class="updated_time"> 03:37 PM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095642332/sri-lanka-is-facing-economic-crisis-and-the-u-s-dollar-is-partly-to-blame">Sri Lanka is facing economic crisis — and the U.S. dollar is partly to blame </a> NPR: Sri Lanka is in a deep economic and humanitarian crisis. A big contributing factor? Its central bank is running dangerously low on foreign currency reserves. 
- <p class="updated_time"> 03:37 PM CT, Apr. 29 </p> 
- <a href="https://www.npr.org/2022/04/29/1095642310/afghans-unite-in-demanding-that-the-taliban-let-girls-attend-secondary-school">Afghans unite in demanding that the Taliban let girls attend secondary school</a> NPR: Afghans are protesting the Taliban's ban on girls attending secondary school, including a surprising cohort: pro-Taliban clerics. 
  <p class="updated_time"> 03:24 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/measles-cases-are-surging-because-the-pandemic-disrupted-childhood-vaccinations-global-agencies-say.html">Measles cases are surging because the pandemic disrupted childhood vaccinations, global agencies say.</a> NYT: A rise of nearly 80 percent in reported measles cases in the first two months of 2022 is the result of millions of children missing out on routine shots, the U.N. and W.H.O. said. 
  <p class="updated_time"> 02:59 PM CT, Apr. 29 </p> 
@@ -212,8 +212,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:33 AM CT, May. 01 </p> 
+ <a href="https://www.npr.org/2022/05/01/1095801502/president-biden-mocks-trump-at-white-house-correspondents-dinner">President Biden mocks Trump at White House Correspondents' Dinner</a> NPR: Joe Biden addressed the White House Correspondents' Association dinner on Saturday night, the first time a president has spoken at the event in six years. 
  <p class="updated_time"> 01:04 AM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/2022/05/01/us/politics/white-house-correspondents-dinner.html">White House Correspondents’ Dinner Returns With Jokes and a Try for Normalcy</a> NYT: Amid concerns about Covid, President Biden offered some humor and received his own ribbing at the White House Correspondents’ Dinner, a ritual that had gone on hiatus during the pandemic. 
+ <a href="https://www.nytimes.com/2022/05/01/us/politics/white-house-correspondents-dinner.html">Jokes, Glamour and a Try for Normalcy as Correspondents’ Dinner Returns</a> NYT: Amid concerns about Covid, President Biden offered some humor and received his own ribbing at the White House Correspondents’ Dinner, a ritual that had gone on hiatus during the pandemic. 
  <p class="updated_time"> 11:25 PM CT, Apr. 30 </p> 
  <a href="https://www.politico.com/news/2022/05/01/trevor-noah-white-house-correspondents-highlights-best-moments-00029073">Trevor Noah's best jokes at the WHCD</a> Politico: The headliner quipped that it was his “great honor” to speak at the “nation’s most distinguished super-spreader event.” 
  <p class="updated_time"> 10:33 PM CT, Apr. 30 </p> 
@@ -322,8 +324,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/28/us/politics/trump-primary-endorsements.html">Republican Primaries in May Will Test Trump’s Continued Pull</a> NYT: The upcoming Republican primaries are a critical test of the former president’s grip on the G.O.P. Here are the key races to watch. 
  <p class="updated_time"> 05:54 PM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/us/politics/homeland-security-secretary-migration.html">Republicans Blame Homeland Security Secretary for Spike in Migration</a> NYT: Congressional hearings this week offered a preview of Republican attacks on the Biden administration’s immigration policies as the midterm elections approach. 
- <p class="updated_time"> 05:35 PM CT, Apr. 28 </p> 
- <a href="https://www.npr.org/2022/04/28/1095355274/sage-steele-suing-espn-disney">Anchor Sage Steele is suing ESPN over free speech claims</a> NPR: Steele's lawyers accuse ESPN and Disney of violating her First Amendment rights and breaching her contract after she made comments on a podcast last September. 
  <p class="updated_time"> 12:14 PM CT, Apr. 28 </p> 
  <a href="https://www.politico.com/news/2022/04/28/trumps-risky-primary-play-rallying-for-a-longtime-ally-accused-of-sexual-misconduct-00028611">Trump goes all in for candidate accused of sexual assault</a> Politico: The former president is holding a rally in Nebraska Friday for his candidate for governor, Charles Herbster. 
  <p class="updated_time"> 11:09 AM CT, Apr. 28 </p> 
