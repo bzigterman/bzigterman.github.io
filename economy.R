@@ -614,7 +614,7 @@ ggsave("plots/consumer_sentiment.png", plot = sentiment,
        width = 8, height = 8*(628/1200), dpi = 320)
 
 ## inflation ----
-data <- fredr(series_id = "CPIAUCSL") %>%
+data <- fredr(series_id = "CPIAUCNS") %>%
   mutate(change = ((value - lag(value, 12))/lag(value, 12))) %>%
   drop_na()
 recent_data <- data %>%
