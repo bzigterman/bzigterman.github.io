@@ -1162,9 +1162,7 @@ fig <- hchart(housing_data,
     text = paste("Source: Realtor.com, retrieved from the St. Louis Fed. Latest data:",
                  tail(housing_data$short_date,1))) %>%
   hc_xAxis(title = list(text = NULL)) %>%
-  hc_tooltip(
-    shared = TRUE
-  ) %>%
+  #hc_tooltip(shared = TRUE) %>%
   hc_add_theme(
     hc_theme_bloom()
   ) %>%
