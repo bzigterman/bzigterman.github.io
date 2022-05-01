@@ -378,6 +378,55 @@ plot_grid(gdp, gdp_change,
 ggsave("plots/gdp.png",
        width = 8, height = 6, dpi = 320)
 
+gdp_data <-fredr(series_id = "GDPC1")
+gdp_growth_data <- fredr(series_id = "A191RL1Q225SBEA") %>%
+  mutate(change = value) %>%
+  select(date, change)
+
+data <- full_join(gdp_data, gdp_growth_data) %>%
+  select(date, value, change) %>%
+  mutate(short_date = paste0("Q",quarter(date)))
+
+fig <- hchart(data,
+              type = "line", 
+              hcaes(x = date,
+                    y = value*1000000000),
+              name = "Total",
+              yAxis = 0) %>%
+  hc_yAxis_multiples(create_axis(naxis = 2, heights = c(2, 1),
+                                 title = list(text = NULL))) %>%
+  hc_add_series(
+    data = data,
+    hcaes(x = date,
+          y = change),
+    name = "Change",
+    type = "column",
+    yAxis = 1) %>%
+  hc_title(text = "Real GDP") %>%
+  hc_caption(
+    text = paste("Source: U.S. Bureau of Economic Analysis, retrieved from the St. Louis Fed. Latest data:",
+                 tail(data$short_date,1))) %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_tooltip(
+    shared = TRUE
+  ) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) %>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'year', count = 25, text = '25y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 1)
+
+fig
+saveWidget(widget = fig, file = "interactive/gdp.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
 # ## combined employment and gdp ----
 # us_employment_gdp_grid <- plot_grid(employment, gdp, employment_change, gdp_change,
 #           align = "hv",
@@ -1457,7 +1506,8 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src=\"/interactive/consumer_sentiment.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-[![Real GDP]({{ site.baseurl }}/plots/gdp.png)](https://fred.stlouisfed.org/series/GDPC1)
+<iframe src=\"/interactive/gdp.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 <iframe src=\"/interactive/us_population.html\" width=\"100%\" height=\"300\"> 
 </iframe>

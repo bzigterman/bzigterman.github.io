@@ -29,7 +29,8 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src="/interactive/consumer_sentiment.html" width="100%" height="300"> 
 </iframe>
 
-[![Real GDP]({{ site.baseurl }}/plots/gdp.png)](https://fred.stlouisfed.org/series/GDPC1)
+<iframe src="/interactive/gdp.html" width="100%" height="300"> 
+</iframe>
 
 <iframe src="/interactive/us_population.html" width="100%" height="300"> 
 </iframe>
