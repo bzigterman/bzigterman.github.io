@@ -616,20 +616,31 @@ ggsave("plots/consumer_sentiment.png", plot = sentiment,
 ## inflation ----
 data <- fredr(series_id = "CPIAUCNS") %>%
   mutate(change = ((value - lag(value, 12))/lag(value, 12))) %>%
+  mutate(series_id = "CPI") %>%
   drop_na()
 recent_data <- data %>%
   filter(date > recent_years) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
 
-fig <- hchart(data, "line", hcaes(x = date,
-                                  y = round(change*100, digits = 1)),
-              name = "Rate") %>%
+core <- fredr(series_id = "CPILFENS") %>%
+  mutate(change = ((value - lag(value, 12))/lag(value, 12))) %>%
+  mutate(series_id = "Core CPI") %>%
+  drop_na()
+data2 <- full_join(data,core) %>%
+  select(date,series_id,change) %>%
+  pivot_longer(cols = c(change))
+
+fig <- hchart(data2, "line", hcaes(x = date,
+                                  y = round(value*100, digits = 1),
+                                  group = series_id)) %>%
   hc_title(text = "Inflation: Consumer Price Index") %>%
   hc_caption(
-    text = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Not seasonally adjusted. Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = list(text = "")) %>%
   hc_xAxis(title = list(text = NULL)) %>%
+  hc_tooltip(shared = TRUE,
+             sort = TRUE) %>%
   hc_add_theme(
     hc_theme_bloom()
   )%>%
