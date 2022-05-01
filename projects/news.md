@@ -9,34 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:19 AM CT, May. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61290444?at_medium=RSS&at_campaign=KARANGA">Nine people arrested in China over Changsha building collapse</a> BBC: At least 18 people are trapped inside the largely-residential building, which collapsed on Friday. 
- <p class="updated_time"> 06:16 AM CT, May. 01 </p> 
+ <p class="updated_time"> 06:36 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">Live Updates: Pelosi Meets Zelensky in Kyiv, as U.S. Support for Ukraine Grows</a> NYT: The House speaker announced that she had met with President Volodymyr Zelensky on Saturday in Kyiv. She is the highest ranking U.S. official to travel to Ukraine since the war began. 
+ <p class="updated_time"> 06:33 AM CT, May. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61290444?at_medium=RSS&at_campaign=KARANGA">Nine people arrested in China over Changsha building collapse</a> BBC: At least 18 people are trapped inside the largely-residential building, which collapsed on Friday. 
  <p class="updated_time"> 06:14 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61285833?at_medium=RSS&at_campaign=KARANGA">How Ukraine's 'Ghost of Kyiv' legendary pilot was born</a> BBC: The "Ghost of Kyiv" story about a heroic pilot downing many Russian planes turns out to be a legend. 
  <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1094616486/pablo-neruda-question-poems-translated-illustrated-children">Pablo Neruda's question poems, now translated and illustrated for children</a> NPR: Neruda's Book of Questions is well known in Latin American literature. A new bilingual, illustrated selection of his poems gives English-speaking children an opportunity to interrogate the world. 
+ <p class="updated_time"> 05:45 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Visits Ukraine’s President Zelensky in Kyiv</a> WSJ: Nancy Pelosi Visits Ukraine’s President Zelensky in Kyiv 
  <p class="updated_time"> 05:42 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/beijing-china-covid.html">Beijing Covid Outbreak: New Restrictions Imposed, but No Full Lockdown</a> NYT: Officials in China’s capital are striving to contain a coronavirus outbreak while avoiding public anger of the kind that has erupted in Shanghai. 
- <p class="updated_time"> 05:34 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Visits Ukraine’s President Zelensky in Kyiv</a> WSJ: Nancy Pelosi Visits Ukraine’s President Zelensky in Kyiv 
  <p class="updated_time"> 05:03 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61290443?at_medium=RSS&at_campaign=KARANGA">Tributes paid after death of country music star Naomi Judd, 76</a> BBC: Ms Judd, 76, had a string of hits and awards with her daughter in the country music duo, The Judds. 
+ <p class="updated_time"> 04:45 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/british-virgin-islands-premier-arrested-in-florida-on-drug-trafficking-money-laundering-charges-11651251613">British Virgin Islands Premier Arrested in Florida</a> WSJ: British Virgin Islands Premier Arrested in Florida 
  <p class="updated_time"> 04:34 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61248366?at_medium=RSS&at_campaign=KARANGA">Ghana's e-levy adds 1.5% tax to electronic payments</a> BBC: A new e-levy of 1.5% on all electronic payments comes into force despite widespread opposition. 
- <p class="updated_time"> 04:34 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/british-virgin-islands-premier-arrested-in-florida-on-drug-trafficking-money-laundering-charges-11651251613">British Virgin Islands Premier Arrested in Florida</a> WSJ: British Virgin Islands Premier Arrested in Florida 
  <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/china-covid-zero-xi-jinping.html">Inside China’s Zero-Covid Fortress, Xi Admits No Doubts</a> NYT: As the lockdown of Shanghai and outbreaks in Beijing and elsewhere batter the economy, China’s leader keeps a distance from the politically charged issue. 
- <p class="updated_time"> 03:34 AM CT, May. 01 </p> 
+ <p class="updated_time"> 03:45 AM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
- <p class="updated_time"> 02:34 AM CT, May. 01 </p> 
+ <p class="updated_time"> 02:45 AM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
+ <p class="updated_time"> 01:45 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 01:42 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095802509/nancy-pelosi-meets-zelenskyy-kyiv-civilians-leave-mariupol-steel-plant">Nancy Pelosi meets Zelenskyy in Kyiv, civilians leave Mariupol steel plant</a> NPR: U.S. Speaker of the House of Representatives Nancy Pelosi has met with Ukraine's president during a visit to the country's embattled capital, Kyiv. 
- <p class="updated_time"> 01:34 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 01:03 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/foreign-legion-volunteers.html">Deaths of Foreign Fighters Draw Renewed Attention to Volunteers in Ukraine</a> NYT: At least three foreigners have been killed fighting with Ukraine’s International Legion. One analyst said many would-be volunteers underestimated the danger from Russian forces. 
  <p class="updated_time"> 11:11 PM CT, Apr. 30 </p> 
