@@ -9,28 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:43 AM CT, May. 01 </p> 
+ <p class="updated_time"> 06:19 AM CT, May. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61290444?at_medium=RSS&at_campaign=KARANGA">Nine people arrested in China over Changsha building collapse</a> BBC: At least 18 people are trapped inside the largely-residential building, which collapsed on Friday. 
+ <p class="updated_time"> 06:16 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">Live Updates: Pelosi Meets Zelensky in Kyiv, as U.S. Support for Ukraine Grows</a> NYT: The House speaker announced that she had met with President Volodymyr Zelensky on Saturday in Kyiv. She is the highest ranking U.S. official to travel to Ukraine since the war began. 
+ <p class="updated_time"> 06:14 AM CT, May. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61285833?at_medium=RSS&at_campaign=KARANGA">How Ukraine's 'Ghost of Kyiv' legendary pilot was born</a> BBC: The "Ghost of Kyiv" story about a heroic pilot downing many Russian planes turns out to be a legend. 
+ <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
+ <a href="https://www.npr.org/2022/05/01/1094616486/pablo-neruda-question-poems-translated-illustrated-children">Pablo Neruda's question poems, now translated and illustrated for children</a> NPR: Neruda's Book of Questions is well known in Latin American literature. A new bilingual, illustrated selection of his poems gives English-speaking children an opportunity to interrogate the world. 
  <p class="updated_time"> 05:42 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/beijing-china-covid.html">Beijing Covid Outbreak: New Restrictions Imposed, but No Full Lockdown</a> NYT: Officials in China’s capital are striving to contain a coronavirus outbreak while avoiding public anger of the kind that has erupted in Shanghai. 
- <p class="updated_time"> 04:58 AM CT, May. 01 </p> 
+ <p class="updated_time"> 05:24 AM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Visits Ukraine’s President Zelensky in Kyiv</a> WSJ: Nancy Pelosi Visits Ukraine’s President Zelensky in Kyiv 
+ <p class="updated_time"> 05:03 AM CT, May. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61290443?at_medium=RSS&at_campaign=KARANGA">Tributes paid after death of country music star Naomi Judd, 76</a> BBC: Ms Judd, 76, had a string of hits and awards with her daughter in the country music duo, The Judds. 
  <p class="updated_time"> 04:34 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61248366?at_medium=RSS&at_campaign=KARANGA">Ghana's e-levy adds 1.5% tax to electronic payments</a> BBC: A new e-levy of 1.5% on all electronic payments comes into force despite widespread opposition. 
+ <p class="updated_time"> 04:24 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/british-virgin-islands-premier-arrested-in-florida-on-drug-trafficking-money-laundering-charges-11651251613">British Virgin Islands Premier Arrested in Florida</a> WSJ: British Virgin Islands Premier Arrested in Florida 
  <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/china-covid-zero-xi-jinping.html">Inside China’s Zero-Covid Fortress, Xi Admits No Doubts</a> NYT: As the lockdown of Shanghai and outbreaks in Beijing and elsewhere batter the economy, China’s leader keeps a distance from the politically charged issue. 
- <p class="updated_time"> 03:58 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/british-virgin-islands-premier-arrested-in-florida-on-drug-trafficking-money-laundering-charges-11651251613">British Virgin Islands Premier Arrested in Florida</a> WSJ: British Virgin Islands Premier Arrested in Florida 
- <p class="updated_time"> 02:58 AM CT, May. 01 </p> 
+ <p class="updated_time"> 03:24 AM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
- <p class="updated_time"> 01:58 AM CT, May. 01 </p> 
+ <p class="updated_time"> 02:24 AM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
  <p class="updated_time"> 01:42 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095802509/nancy-pelosi-meets-zelenskyy-kyiv-civilians-leave-mariupol-steel-plant">Nancy Pelosi meets Zelenskyy in Kyiv, civilians leave Mariupol steel plant</a> NPR: U.S. Speaker of the House of Representatives Nancy Pelosi has met with Ukraine's president during a visit to the country's embattled capital, Kyiv. 
+ <p class="updated_time"> 01:24 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 01:03 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/foreign-legion-volunteers.html">Deaths of Foreign Fighters Draw Renewed Attention to Volunteers in Ukraine</a> NYT: At least three foreigners have been killed fighting with Ukraine’s International Legion. One analyst said many would-be volunteers underestimated the danger from Russian forces. 
- <p class="updated_time"> 12:58 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 11:11 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/boxing/61263902?at_medium=RSS&at_campaign=KARANGA">Taylor beats Serrano in historic NY fight</a> BBC: Katie Taylor edges Amanda Serrano on points with a split-decision win in an instant classic at Madison Square Garden in New York. 
  <p class="updated_time"> 11:01 PM CT, Apr. 30 </p> 
@@ -75,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/europe/biden-russia-scientists.html">Biden Seeks to Lure Russia’s Top Scientists to the U.S.</a> NYT: Legislation proposed by the president would suspend the requirement that Russian scientists have a sponsoring employer to gain a visa. 
  <p class="updated_time"> 12:00 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
- <p class="updated_time"> 11:58 AM CT, Apr. 30 </p> 
- <a href="https://www.bbc.co.uk/sport/football/61259954?at_medium=RSS&at_campaign=KARANGA">Football agent Mino Raiola dies at 54</a> BBC: Football agent Mino Raiola - whose clients included Borussia Dortmund striker Erling Haaland and Manchester United midfielder Paul Pogba - dies at the age of 54. 
  <p class="updated_time"> 11:43 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-russia-attack-denials.html">Ukrainian Official Outlines Intentional Ambiguity on Strikes Inside Russia</a> NYT: The strikes have been one of the most intriguing, and opaque, new elements of the recent fighting. But when it comes to confirming their origins, “we don’t say yes and we don’t say no,’’ said the official. 
  <p class="updated_time"> 10:41 AM CT, Apr. 30 </p> 
@@ -121,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Trade Barriers From the Ukraine War Are Sending Food Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
  <p class="updated_time"> 10:58 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-61281895?at_medium=RSS&at_campaign=KARANGA">Tornado captured tearing through city in Kansas</a> BBC: Shocking footage shows a tornado weaving in and out of streets near Andover in the US state of Kansas. 
- <p class="updated_time"> 10:42 PM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61281422?at_medium=RSS&at_campaign=KARANGA">Ecuador declares emergency over gang crime</a> BBC: A curfew is imposed and thousands of police and soldiers are deployed to restore "peace and order". 
  <p class="updated_time"> 09:35 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/middleeast/israel-palestine-aqsa-mosque.html">During Ramadan, Palestinians Barred From Aqsa Turn to Smugglers</a> NYT: For Palestinian Muslims, praying at the Aqsa Mosque in Jerusalem is an important part of Ramadan. Those barred by Israel are finding ways to get there anyway. 
  <p class="updated_time"> 09:33 PM CT, Apr. 29 </p> 
@@ -151,8 +155,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/29/1095480965/russia-ukraine-war-what-happened-today-april-29">Russia-Ukraine war: What happened today (April 29)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:47 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/climate/gas-prices-america.html">Why Americans Became More Vulnerable to Oil Price Spikes</a> NYT: When prices soared years ago, Americans launched broad efforts to wean the nation off oil and gas to protect households from price swings. But then supply rose and plans fizzled. 
- <p class="updated_time"> 03:37 PM CT, Apr. 29 </p> 
- <a href="https://www.npr.org/2022/04/29/1095642332/sri-lanka-is-facing-economic-crisis-and-the-u-s-dollar-is-partly-to-blame">Sri Lanka is facing economic crisis — and the U.S. dollar is partly to blame </a> NPR: Sri Lanka is in a deep economic and humanitarian crisis. A big contributing factor? Its central bank is running dangerously low on foreign currency reserves. 
  <p class="updated_time"> 03:24 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/measles-cases-are-surging-because-the-pandemic-disrupted-childhood-vaccinations-global-agencies-say.html">Measles cases are surging because the pandemic disrupted childhood vaccinations, global agencies say.</a> NYT: A rise of nearly 80 percent in reported measles cases in the first two months of 2022 is the result of millions of children missing out on routine shots, the U.N. and W.H.O. said. 
  <p class="updated_time"> 02:59 PM CT, Apr. 29 </p> 
@@ -183,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/insider/nyt-journalists-abroad.html">Weighing Risk When the Reporting Is Dangerous</a> NYT: A security team watches out for Times journalists abroad. There are strategies in place, but sometimes there’s no other choice but to leave a country. 
  <p class="updated_time"> 07:09 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/movies/russia-movie-theaters-piracy.html">In Echo of Soviet Era, Russia’s Movie Theaters Turn to Pirate Screenings</a> NYT: In a Cold War throwback, some venues are showing bootleg versions after Hollywood studios pulled films from the country. Still, viewer numbers have tanked. 
- <p class="updated_time"> 05:22 AM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61270616?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: Residents protest after five weeks of strict zero-Covid measures</a> BBC: Some residents have been under strict lockdown for five weeks, and struggled to access food supplies. 
  <p class="updated_time"> 05:15 AM CT, Apr. 29 </p> 
  <a href="https://www.wsj.com/articles/clashes-at-jerusalems-al-aqsa-mosque-renew-israeli-palestinian-tensions-11651234644">Clashes at Jerusalem Mosque Renew Israeli-Palestinian Tensions</a> WSJ: Israeli police clashed with Palestinians at Jerusalem’s most contested site as large crowds of Muslims gathered for Friday prayers, ending a weeklong period of relative calm. 
  <p class="updated_time"> 04:36 AM CT, Apr. 29 </p> 
@@ -214,6 +214,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:01 AM CT, May. 01 </p> 
+ <a href="https://www.politico.com/news/2022/05/01/ukraine-women-children-evacuated-mariupol-00029157">Some women and children evacuated from Mariupol</a> Politico: The United Nations was working to evacuate residents from blockaded Mariupol, which has been under constant attack. 
+ <p class="updated_time"> 05:47 AM CT, May. 01 </p> 
+ <a href="https://www.politico.com/news/2022/05/01/pelosi-concludes-secret-visit-to-ukraine-00029154">Pelosi concludes secret visit to Ukraine</a> Politico: The House speaker, who is second in line to the presidency, is now the highest-ranking U.S. official to visit the war-battered nation since Russia’s invasion began. 
  <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095466871/biden-polls-democrats-gen-z-midterms">Polls show Biden is losing support from Gen Z. These young voters aren't surprised</a> NPR: As the political calendar inches towards the midterm elections in November, a run of recent polling all points to one thing: President Biden has a problem with young voters. 
  <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
