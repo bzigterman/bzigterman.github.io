@@ -1237,7 +1237,7 @@ cu_housing_table <-   ungroup(latest_data_for_table) %>%
   #   columns = lists
   # ) %>%
   cols_label(
-    name = "Housing Indicators",
+    name = "Metric",
     latest = "Latest",
     year_ago = "Year Ago",
     pct_change = html("Year %<br>Change"),
@@ -1490,8 +1490,6 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 
 <iframe src=\"/interactive/champaign_employment.html\" width=\"100%\" height=\"500\"> 
 </iframe>
-
-### Housing Metrics
 
 <iframe src=\"/interactive/champaign_housing.html\" width=\"100%\" height=\"800\"> 
 </iframe>
