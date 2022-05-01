@@ -13,11 +13,8 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 
 ### Housing Metrics
 
-<picture>
-  <source srcset="{{ site.baseurl }}/plots/champaign_housing.png"
-          media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/champaign_housing_mobile.png" alt="" />
-</picture>
+<iframe src="/interactive/champaign_housing.html" width="100%" height="300"> 
+</iframe>
 
 <div id="cu_housing_table" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   <style>@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");

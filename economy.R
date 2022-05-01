@@ -1103,13 +1103,17 @@ saveWidget(widget = fig, file = "interactive/champaign_county_population.html",
 
 ## housing ----
 active_listings <- fredr(series_id = "ACTLISCOU17019") %>%
-  mutate(name = "Active Listings")
+  mutate(name = "Active Listings") %>%
+  mutate(series_idd = "listings")
 median_listing_price <- fredr(series_id = "MEDLISPRI17019") %>%
-  mutate(name = "Median List Price ($)")
+  mutate(name = "Median List Price ($)") %>%
+  mutate(series_idd = "price")
 median_days_on_market <- fredr(series_id = "MEDDAYONMAR17019") %>%
-  mutate(name = "Median Days on Market")
+  mutate(name = "Median Days on Market")%>%
+  mutate(series_idd = "days")
 pending_ratio <- fredr(series_id = "PENRAT17019") %>%
-  mutate(name = "Pending-to-Active Ratio")
+  mutate(name = "Pending-to-Active Ratio")%>%
+  mutate(series_idd = "ratio")
 
 
 data <- full_join(active_listings, median_listing_price) %>%
@@ -1118,8 +1122,64 @@ data <- full_join(active_listings, median_listing_price) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE))) %>%
   mutate(shorter_date = paste(month(date, label = TRUE, abbr = TRUE)))
 
+housing_data <- data %>%
+  select(date,series_idd, value) %>%
+  pivot_wider(names_from = series_idd) %>%
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE))) %>%
+  mutate(shorter_date = paste(month(date, label = TRUE, abbr = TRUE)))
 
+fig <- hchart(housing_data,
+              type = "line", 
+              hcaes(x = date,
+                    y = listings),
+              name = "Active Listings",
+              yAxis = 0) %>%
+  hc_yAxis_multiples(create_axis(naxis = 4, heights = c(1,1,1,1),
+                                 title = list(text = NULL))) %>%
+  hc_add_series(
+    data = housing_data,
+    hcaes(x = date,
+          y = price),
+    name = "Median List Price ($)",
+    type = "line",
+    yAxis = 1) %>%
+  hc_add_series(
+    data = housing_data,
+    hcaes(x = date,
+          y = days),
+    name = "Median Days on Market",
+    type = "line",
+    yAxis = 2) %>%
+  hc_add_series(
+    data = housing_data,
+    hcaes(x = date,
+          y = ratio),
+    name = "Pending-to-Active Ratio",
+    type = "line",
+    yAxis = 3) %>%
+  hc_title(text = "Housing Metrics") %>%
+  hc_caption(
+    text = paste("Source: Realtor.com, retrieved from the St. Louis Fed. Latest data:",
+                 tail(housing_data$short_date,1))) %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_tooltip(
+    shared = TRUE
+  ) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) %>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
 
+fig
+saveWidget(widget = fig, file = "interactive/champaign_housing.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
 
 lists <- data %>%
   select(name,date,shorter_date,value) %>%
@@ -1433,11 +1493,8 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 
 ### Housing Metrics
 
-<picture>
-  <source srcset=\"{{ site.baseurl }}/plots/champaign_housing.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"{{ site.baseurl }}/plots/champaign_housing_mobile.png\" alt=\"\" />
-</picture>
+<iframe src=\"/interactive/champaign_housing.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 ",better_cu_housing_table_html,"
 
