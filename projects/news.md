@@ -9,44 +9,50 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:31 PM CT, Apr. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61288641?at_medium=RSS&at_campaign=KARANGA">Guinea to move to civilian rule in three years</a> BBC: The military junta, which took power in a coup last year, gives a timeline for civilian rule. 
+ <p class="updated_time"> 09:21 PM CT, Apr. 30 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news">Live Updates: Russia Moves More Troops to Front; Ukraine Faces Fuel Shortages</a> NYT: About 20 women and children evacuated from Mariupol’s embattled Azovstal steel plant, a Ukrainian fighter at the plant said. Grain harvests in Ukraine, known as Europe’s breadbasket, are paralyzed, worsening a food crisis in East Africa. 
+ <p class="updated_time"> 08:39 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages</a> WSJ: Ukrainians Suffer Fuel Shortages 
+ <p class="updated_time"> 07:39 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
+ <p class="updated_time"> 07:00 PM CT, Apr. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61286505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Resistance to Russian rouble in Kherson</a> BBC: Russian forces say the currency will be used there from Sunday. But many residents have other ideas. 
  <p class="updated_time"> 06:50 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61248366?at_medium=RSS&at_campaign=KARANGA">Ghana's e-levy adds 1.5% tax to electronic payments</a> BBC: A new e-levy of 1.5% on all electronic payments comes into force despite widespread opposition. 
  <p class="updated_time"> 06:48 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61251228?at_medium=RSS&at_campaign=KARANGA">Afghan interpreters fear families 'forgotten' by Canada</a> BBC: Former interpreters say their families face major bureaucratic hurdles in effort to reach Canada. 
  <p class="updated_time"> 06:47 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/canada/ontario-cadets-dead-royal-military-college.html">4 Canadian Military Cadets Die After Car Plunges Into River</a> NYT: The men were set to graduate from the Royal Military College in a few weeks, the authorities said. 
+ <p class="updated_time"> 06:46 PM CT, Apr. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/blogs-trending-61243316?at_medium=RSS&at_campaign=KARANGA">Defecting online: How Myanmar’s soldiers are deserting the army</a> BBC: An underground network armed with Facebook and Telegram accounts is helping those who want to leave. 
+ <p class="updated_time"> 06:39 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
  <p class="updated_time"> 06:08 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61047921?at_medium=RSS&at_campaign=KARANGA">Megayachts and oligarchs: ‘We’re scared of getting close to wrong money’</a> BBC: As the West goes after the assets of Russian oligarchs, the ripples are being felt across the industry. 
- <p class="updated_time"> 06:01 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages</a> WSJ: Ukrainians Suffer Fuel Shortages 
  <p class="updated_time"> 06:01 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61273433?at_medium=RSS&at_campaign=KARANGA">Asylum in Denmark: Is the country guilty of double standards?</a> BBC: As thousands of Ukrainians are welcomed, the government plans to reduce the number of non-European refugees. 
  <p class="updated_time"> 06:01 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61262757?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… China’s zero-Covid lockdowns</a> BBC: Ros Atkins looks at why the Chinese government remains committed to its policy of eliminating all outbreaks of coronavirus. 
  <p class="updated_time"> 05:43 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61288030?at_medium=RSS&at_campaign=KARANGA">Paul Rusesabagina: Hotel Rwanda hero's family files $400m US lawsuit</a> BBC: Paul Rusesabagina's family accuse the Rwandan government of abduction and torture. 
- <p class="updated_time"> 05:34 PM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news">Live Updates: Russia Moves More Troops to Front; Ukraine Faces Fuel Shortages</a> NYT: Ukraine said Russia was shifting troops from its far-eastern regions to the front in Donbas. About 20 women and children were evacuated from Mariupol’s embattled Azovstal steel plant, a Ukrainian commander and Russian state media said. 
- <p class="updated_time"> 05:01 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
+ <p class="updated_time"> 05:39 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 05:00 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/kremlin-deploys-new-troops-to-ukraine-as-both-sides-gird-for-a-war-of-attrition.html">Kremlin Deploys New Troops to Ukraine as Both Sides Gird for a War of Attrition</a> NYT: Moscow is hitting fuel refineries and imperiling critical harvests, while Ukrainian forces are being buoyed by an influx of heavy weapons. 
+ <p class="updated_time"> 04:39 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/russias-war-in-ukraine-is-straining-global-economic-cooperation-11651318201">Russia’s Ukraine War Strains Global Economic Cooperation</a> WSJ: Russia’s Ukraine War Strains Global Economic Cooperation 
  <p class="updated_time"> 04:25 PM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1095768821/russia-ukraine-war-what-happened-today-april-30">Russia-Ukraine war: What happened today (April 30)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:01 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
  <p class="updated_time"> 03:47 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/pope-francis-kyiv-ambassadors.html">As Ambassadors Left Town, the Pope’s Emissary Remained in Kyiv</a> NYT: Through shelling, street fights in the suburbs and the flight of thousands through Ukraine’s capital, the Vatican’s diplomatic mission stayed put. 
  <p class="updated_time"> 03:04 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61285178?at_medium=RSS&at_campaign=KARANGA">Mariupol civilians leave besieged Azovstal steelworks</a> BBC: Despite an order from Vladimir Putin to completely seal off the area, 20 civilians escape Azovstal. 
- <p class="updated_time"> 03:01 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 02:48 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/mariupol-evacuation-steel-plant-ukraine.html">Women and Children Evacuated Out of Mariupol’s Azovstal Steel Plant</a> NYT: A Ukrainian commander and Russian news agencies said about 20 civilians were able to leave the steel factory in the besieged city of Mariupol. An unknown number of civilians remains at the plant. 
  <p class="updated_time"> 02:23 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-scythia-gold-museum-russia.html">Ukraine Says Russia Looted Ancient Gold Artifacts From a Museum</a> NYT: According to Ukrainian officials, Russian soldiers, aided by a mysterious expert, broke into a museum and spirited away priceless artifacts from the Scythian empire. 
- <p class="updated_time"> 02:01 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/russias-war-in-ukraine-is-straining-global-economic-cooperation-11651318201">Russia’s Ukraine War Strains Global Economic Cooperation</a> WSJ: Russia’s Ukraine War Strains Global Economic Cooperation 
  <p class="updated_time"> 01:58 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61285290?at_medium=RSS&at_campaign=KARANGA">Sri Lanka hikes price of medicines 40% amid economic crisis</a> BBC: Prices rise 40% as an economic crisis bites, leaving some Sri Lankans cutting short treatments. 
  <p class="updated_time"> 01:36 PM CT, Apr. 30 </p> 
@@ -71,14 +77,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61281692?at_medium=RSS&at_campaign=KARANGA">Kansas tornado inflicts heavy damage and leaves thousands without power</a> BBC: Shocking footage shows a large twister snaking through the city of Wichita. 
  <p class="updated_time"> 09:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/ukraine-fuel-shortages-russia.html">Ukraine Grapples With Fuel Shortages After Russian Attacks</a> NYT: Officials in Kyiv have urged residents to use public transportation rather than private vehicles in an effort to save fuel for the military. 
- <p class="updated_time"> 08:30 AM CT, Apr. 30 </p> 
- <a href="https://www.bbc.co.uk/sport/boxing/61251842?at_medium=RSS&at_campaign=KARANGA">Katie Taylor v Amanda Serrano: Charting the remarkable story of the rise of women's boxing</a> BBC: Women's boxing was banned in England for 116 years. This weekend, Katie Taylor will headline at Madison Square Garden. This is the story of the sport's rise - and one woman who made all the difference. 
  <p class="updated_time"> 08:16 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/northern-ireland-elections-sinn-fein.html">Sinn Fein Poised to Make Historic Gains in Northern Ireland Elections</a> NYT: But Sinn Fein, which is leading in polls ahead of next week’s elections, hasn’t focused its campaign on unification with Ireland. 
  <p class="updated_time"> 08:00 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1093339262/ukraine-russia-rape-war-crimes">Rape has reportedly become a weapon in Ukraine. Finding justice may be difficult</a> NPR: Widespread allegations of rape at the hands of Russian soldiers have been coming out of Ukraine. Experts say rape in conflict is often used to pursue strategic aims. 
- <p class="updated_time"> 07:44 AM CT, Apr. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61283614?at_medium=RSS&at_campaign=KARANGA">China Covid outbreak: Beijing residents must test negative to enter public spaces</a> BBC: China's capital imposes major new restrictions in a bid to curb a spike in cases. 
  <p class="updated_time"> 07:14 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1095750152/outspoken-putin-critic-garry-kasparov-says-ukraine-is-just-putins-first-stop">Outspoken Putin critic Garry Kasparov says Ukraine is just Putin's first stop</a> NPR: Scott Simon speaks with former chess champion and Russian President Vladimir Putin's outspoken critic, Garry Kasparov, about the conflict in Ukraine after an event at Goucher College in Maryland. 
  <p class="updated_time"> 07:06 AM CT, Apr. 30 </p> 
@@ -109,8 +111,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Trade Barriers From the Ukraine War Are Sending Food Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
  <p class="updated_time"> 10:58 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-61281895?at_medium=RSS&at_campaign=KARANGA">Tornado captured tearing through city in Kansas</a> BBC: Shocking footage shows a tornado weaving in and out of streets near Andover in the US state of Kansas. 
- <p class="updated_time"> 10:47 PM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61281559?at_medium=RSS&at_campaign=KARANGA">Bolsonaro hits out at DiCaprio after election plea</a> BBC: The Hollywood star urged Brazil's youth to vote in October's elections to save the Amazon. 
  <p class="updated_time"> 10:42 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61281422?at_medium=RSS&at_campaign=KARANGA">Ecuador declares emergency over gang crime</a> BBC: A curfew is imposed and thousands of police and soldiers are deployed to restore "peace and order". 
  <p class="updated_time"> 09:35 PM CT, Apr. 29 </p> 
@@ -210,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:51 PM CT, Apr. 30 </p> 
+ <a href="https://www.politico.com/gallery/2022/04/30/in-photos-2022-white-house-correspondents-dinner-arrivals-00029151">In Photos: 2022 White House Correspondents' Dinner arrivals</a> Politico: The White House Correspondents' Dinner is back after a 2-year absence, with politicos, celebrities and media stars bringing a touch of glam to the Washington Hilton red carpet ahead of remarks by President Joe Biden and comedian Trevor Noah. 
  <p class="updated_time"> 04:34 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/us/politics/documented-dreamers.html">They Grew Up Legally in the U.S., but Can’t Stay After They Turn 21</a> NYT: Children of temporary visa holders who can’t gain permanent residency are one of several groups urging the Biden administration to act on an immigration overhaul. 
  <p class="updated_time"> 03:35 PM CT, Apr. 30 </p> 
@@ -316,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/28/us/politics/homeland-security-secretary-migration.html">Republicans Blame Homeland Security Secretary for Spike in Migration</a> NYT: Congressional hearings this week offered a preview of Republican attacks on the Biden administration’s immigration policies as the midterm elections approach. 
  <p class="updated_time"> 05:35 PM CT, Apr. 28 </p> 
  <a href="https://www.npr.org/2022/04/28/1095355274/sage-steele-suing-espn-disney">Anchor Sage Steele is suing ESPN over free speech claims</a> NPR: Steele's lawyers accuse ESPN and Disney of violating her First Amendment rights and breaching her contract after she made comments on a podcast last September. 
- <p class="updated_time"> 03:10 PM CT, Apr. 28 </p> 
- <a href="https://www.politico.com/news/2022/04/28/desantis-florida-disney-world-debt-00028619">DeSantis officials say Florida won’t pay Disney’s debt — but there's no plan yet</a> Politico: Democrats and the special district say $1 billion in outstanding debt could be unloaded on nearby Orange and Osceola counties. 
  <p class="updated_time"> 12:14 PM CT, Apr. 28 </p> 
  <a href="https://www.politico.com/news/2022/04/28/trumps-risky-primary-play-rallying-for-a-longtime-ally-accused-of-sexual-misconduct-00028611">Trump goes all in for candidate accused of sexual assault</a> Politico: The former president is holding a rally in Nebraska Friday for his candidate for governor, Charles Herbster. 
  <p class="updated_time"> 11:09 AM CT, Apr. 28 </p> 
