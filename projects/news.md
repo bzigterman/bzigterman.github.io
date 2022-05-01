@@ -9,14 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:49 AM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">Ukraine Live Updates: Evacuation of Civilians From Mariupol Steel Plant Underway</a> NYT: The long-awaited rescue came as U.S. Speaker Nancy Pelosi visited Ukraine and pledged U.S. support ‘until victory is won.’ 
+ <p class="updated_time"> 10:49 AM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/2022/05/01/world/europe/mariupol-steel-plant-evacuation.html">100 Civilians Evacuated From Mariupol Steel Factory, Officials Say</a> NYT: The Ukrainian president said that civilians were being evacuated from the Azovstal steel factory and are headed to a “controlled area.” 
+ <p class="updated_time"> 10:16 AM CT, May. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61292951?at_medium=RSS&at_campaign=KARANGA">Mariupol civilian evacuation begins to Ukraine and Russia-held territories</a> BBC: Evacuation operations begin at the last hold-out of Ukrainian fighters in southern Mariupol. 
  <p class="updated_time"> 10:10 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/middleeast/egypt-ramadan-tv-el-sisi.html">In Egypt’s Big Ramadan TV Drama, the President Is the Hero</a> NYT: President Abdel Fattah el-Sisi says “The Choice” tells the truth about his rise. Critics say it’s a rewriting of recent history from an industry increasingly cowed under his rule. 
  <p class="updated_time"> 10:05 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html">Started Out as a Fish. How Did It End Up Like This?</a> NYT: A meme about the transitional fossil Tiktaalik argues that although we did come out of the sea, we aren’t doing just fine. 
- <p class="updated_time"> 10:03 AM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">Ukraine Live Updates: Evacuation of Civilians From Mariupol Steel Plant Underway</a> NYT: The long-awaited rescue came as U.S. Speaker Nancy Pelosi visited Ukraine and pledged U.S. support ‘until victory is won.’ 
- <p class="updated_time"> 10:03 AM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/2022/05/01/world/europe/an-evacuation-from-mariupol-is-underway-according-to-ukrainian-and-international-observers.html">100 Civilians Evacuated From Mariupol Steel Factory, Officials Say</a> NYT: The Ukrainian president said that civilians were being evacuated from the Azovstal steel factory, and are headed to a “controlled area.” 
+ <p class="updated_time"> 09:53 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-puts-spy-satellites-for-hire-in-the-spotlight-11651410002">Ukraine War Puts Spy Satellites for Hire in Spotlight</a> WSJ: Ukraine War Puts Spy Satellites for Hire in Spotlight 
  <p class="updated_time"> 09:48 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/americas/honduras-xiomara-castro-womens-rights.html">She Promised to Empower Women. Will Honduras’s President Succeed?</a> NYT: The country’s first female leader, Xiomara Castro, is struggling to advance her feminist agenda 14 years after a coup ended the presidency of her husband, who pursued similar causes. 
  <p class="updated_time"> 09:33 AM CT, May. 01 </p> 
@@ -25,44 +29,42 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Trade Barriers From the Ukraine War Are Sending Food Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
  <p class="updated_time"> 09:21 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
- <p class="updated_time"> 09:18 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-puts-spy-satellites-for-hire-in-the-spotlight-11651410002">Ukraine War Puts Spy Satellites for Hire in Spotlight</a> WSJ: Ukraine War Puts Spy Satellites for Hire in Spotlight 
  <p class="updated_time"> 09:03 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-61292332?at_medium=RSS&at_campaign=KARANGA">Regine: Singer, actress and self-proclaimed discotheque inventor dies</a> BBC: Regine, known as the "queen of the night", owned nightclubs across the world. 
+ <p class="updated_time"> 08:53 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 08:44 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61292290?at_medium=RSS&at_campaign=KARANGA">Kylie Minogue and Jason Donovan return to Neighbours</a> BBC: The pair will resume their roles as Scott Robinson and Charlene Mitchell for the soap's final episode. 
  <p class="updated_time"> 08:24 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61290695?at_medium=RSS&at_campaign=KARANGA">Biden mocks Trump at White House press dinner</a> BBC: Joe Biden jokes about former president Donald Trump at the prestigious event hosted by Trevor Noah. 
- <p class="updated_time"> 08:18 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 08:09 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809188/italy-is-launching-a-digital-nomad-visa">Italy is launching a digital nomad visa</a> NPR: Italy will soon roll out a new visa that allows remote workers to live in Italy even though their jobs are based abroad. Supporters hope it will attract high-earning workers and spark innovation. 
  <p class="updated_time"> 08:03 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809174/with-title-42-in-flux-migrants-take-over-mexican-cities-across-the-border">With Title 42 in flux, migrants take over Mexican cities across the border </a> NPR: Ayesha Rascoe speaks with Pedro Rios of the American Friends Services Committee about how Tijuana, Mexico, is grappling with the continuing influx of migrants. 
  <p class="updated_time"> 07:54 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/three-men-dead-bucha-ukraine-war.html">Bodies of Three Men Found in Bucha, Ukrainian Officials Say </a> NYT: A police chief said that victims’ bodies were discovered in a forest, and showed signs of mutilation. 
+ <p class="updated_time"> 07:53 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 07:19 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809132/cowboys-in-colombia-are-barefoot-legends">Cowboys in Colombia are barefoot legends</a> NPR: Cowboys in the South American country of Colombia have a storied history. To this day, they continue to ride the plains, keeping an eye on cattle. And usually, they do so barefoot. 
- <p class="updated_time"> 07:18 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 07:16 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809125/europe-has-to-monitor-hate-speech-and-illegal-content-on-social-media-more-close">Europe has to monitor hate speech and illegal content on social media more closely</a> NPR: New rules will require social media networks in the European Union to more closely monitor hate speech and other illegal content posted on their platforms. 
  <p class="updated_time"> 07:04 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809111/russia-is-starting-to-cut-natural-gas-supplies-off">Russia is starting to cut natural gas supplies off</a> NPR: Ayesha Rascoe discusses Russia's threats against NATO countries and the decision to cut off natural gas to Poland and Bulgaria with Agnia Grigas, a nonresident senior fellow at the Atlantic Council. 
  <p class="updated_time"> 07:04 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809104/what-its-like-living-in-ukraines-warzone">What it's like living in Ukraine's warzone</a> NPR: Ukraine's army is slowing Russia's invasion to a crawl, but there is still heavy fighting in the south. For those living there, the war has started to feel like a deadly kind of normal. 
+ <p class="updated_time"> 06:53 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 06:33 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61290444?at_medium=RSS&at_campaign=KARANGA">Nine people arrested in China over Changsha building collapse</a> BBC: At least 18 people are trapped inside the largely-residential building, which collapsed on Friday. 
- <p class="updated_time"> 06:18 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 06:14 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61285833?at_medium=RSS&at_campaign=KARANGA">How Ukraine's 'Ghost of Kyiv' legendary pilot was born</a> BBC: The "Ghost of Kyiv" story about a heroic pilot downing many Russian planes turns out to be a legend. 
  <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1094616486/pablo-neruda-question-poems-translated-illustrated-children">Pablo Neruda's question poems, now translated and illustrated for children</a> NPR: Neruda's Book of Questions is well known in Latin American literature. A new bilingual, illustrated selection of his poems gives English-speaking children an opportunity to interrogate the world. 
+ <p class="updated_time"> 05:53 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
  <p class="updated_time"> 05:42 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/beijing-china-covid.html">Beijing Covid Outbreak: New Restrictions Imposed, but No Full Lockdown</a> NYT: Officials in China’s capital are striving to contain a coronavirus outbreak while avoiding public anger of the kind that has erupted in Shanghai. 
- <p class="updated_time"> 05:18 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
  <p class="updated_time"> 05:03 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61290443?at_medium=RSS&at_campaign=KARANGA">Tributes paid after death of country music star Naomi Judd, 76</a> BBC: Ms Judd, 76, had a string of hits and awards with her daughter in the country music duo, The Judds. 
  <p class="updated_time"> 04:34 AM CT, May. 01 </p> 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/30/1095768821/russia-ukraine-war-what-happened-today-april-30">Russia-Ukraine war: What happened today (April 30)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:47 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/pope-francis-kyiv-ambassadors.html">As Ambassadors Left Town, the Pope’s Emissary Remained in Kyiv</a> NYT: Through shelling, street fights in the suburbs and the flight of thousands through Ukraine’s capital, the Vatican’s diplomatic mission stayed put. 
- <p class="updated_time"> 03:04 PM CT, Apr. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61285178?at_medium=RSS&at_campaign=KARANGA">Mariupol civilians leave besieged Azovstal steelworks</a> BBC: Despite an order from Vladimir Putin to completely seal off the area, 20 civilians escape Azovstal. 
  <p class="updated_time"> 02:48 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/mariupol-evacuation-steel-plant-ukraine.html">Women and Children Evacuated Out of Mariupol’s Azovstal Steel Plant</a> NYT: A Ukrainian commander and Russian news agencies said about 20 civilians were able to leave the steel factory in the besieged city of Mariupol. An unknown number of civilians remains at the plant. 
  <p class="updated_time"> 01:58 PM CT, Apr. 30 </p> 
@@ -140,7 +140,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/canada/hudsons-bay-winnipeg.html">Flagship Hudson’s Bay Store Turned Over to Indigenous Group</a> NYT: The Hudson’s Bay Company has turned over its former flagship store to an Indigenous group with big ambitions for the space. 
  <p class="updated_time"> 04:19 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/29/world/europe/american-killed-ukraine-cancel.html">Death of American Fighting in Ukraine Confirmed by Family</a> NYT: Willy Joseph Cancel Jr., 22, died in combat earlier this week, according to his uncle. He is believed to be the first American killed while fighting in Ukraine. 
+ <a href="https://www.nytimes.com/2022/04/29/world/europe/american-killed-ukraine-cancel.html">Death of Former Marine Fighting in Ukraine Confirmed by Family</a> NYT: Willy Joseph Cancel Jr., 22, died in combat earlier this week, according to his uncle. He is believed to be the first American killed while fighting in Ukraine. 
  <p class="updated_time"> 04:08 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/civilians-mariupol-azovstal.html">Civilians Keep Arriving at Besieged Steel Complex in Mariupol, Fighters Say</a> NYT: That citizens are still seeking to shelter at the plant, where there is no prospect of escape or rescue, offers a testament to what they must be facing elsewhere in the devastated city. 
  <p class="updated_time"> 04:00 AM CT, Apr. 30 </p> 
@@ -214,6 +214,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:27 AM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/2022/05/01/us/politics/white-house-correspondents-dinner.html">Jokes, Glamour and a Try for Normalcy as Correspondents’ Dinner Returns</a> NYT: Amid concerns about Covid, President Biden offered some humor and received his own ribbing at the White House Correspondents’ Dinner, a ritual that had gone on hiatus during the pandemic. 
+ <p class="updated_time"> 10:24 AM CT, May. 01 </p> 
+ <a href="https://www.politico.com/news/2022/05/01/ukrainian-ambassador-nancy-pelosi-00029172">Ukrainian ambassador calls Pelosi's visit 'very symbolic'</a> Politico: "It was a special delight to see Madam Speaker with the delegation in Kyiv," she said. 
+ <p class="updated_time"> 10:17 AM CT, May. 01 </p> 
+ <a href="https://www.politico.com/news/2022/05/01/menendez-iran-nuclear-weapons-deal-00029168">Menendez doubtful that talks with Iran will yield a good deal</a> Politico: "I want the administration to understand that no deal is better than a bad deal," he said. 
  <p class="updated_time"> 09:33 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/mayorkas-migrants-homeland-security-00029164">Mayorkas’ message to migrants remains: ‘Do not come’</a> Politico: The head of Homeland Security spoke about the Biden administration's immigration policy. 
  <p class="updated_time"> 09:29 AM CT, May. 01 </p> 
@@ -229,9 +235,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:01 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/florida-lost-70-000-people-to-covid-its-still-not-prepared-for-the-next-wave-00029091">Florida lost 70,000 people to Covid. It’s still not prepared for the next wave.</a> Politico: A report by the Florida Hospital Association estimates 70 percent of Florida hospitals are facing a critical staffing shortage, and the state will be short 60,000 nurses by 2035. 
  <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
- <a href="https://www.politico.com/news/2022/05/01/trump-republicans-first-step-act-00029104">Trump’s criminal justice reform bill becomes persona non grata among GOPers</a> Politico: With rising crime and the approaching midterms, Republicans have moved far past the First Step Act. 
- <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/democrats-immigration-reform-infighting-00029087">Immigration reform withers as Democrats descend into border infighting</a> Politico: There's now "zero" chance for a comprehensive bill this Congress, one key senator said. But the party has some smaller ideas to fall back on. 
+ <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
+ <a href="https://www.politico.com/news/2022/05/01/trump-republicans-first-step-act-00029104">Trump’s criminal justice reform bill becomes persona non grata among GOPers</a> Politico: With rising crime and the approaching midterms, Republicans have moved far past the First Step Act. 
  <p class="updated_time"> 05:47 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/pelosi-concludes-secret-visit-to-ukraine-00029154">Pelosi concludes secret visit to Ukraine</a> Politico: The House speaker, who is second in line to the presidency, is now the highest-ranking U.S. official to visit the war-battered nation since Russia’s invasion began. 
  <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
@@ -242,8 +248,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/01/us/politics/covid-aid-hospitals-uninsured.html">Loss of Pandemic Aid Stresses Hospitals That Treat the Uninsured</a> NYT: Hospitalizations from Covid-19 are receding, but safety-net providers are facing tremendous unmet needs from poor and uninsured patients who delayed seeking care during the pandemic. 
  <p class="updated_time"> 01:33 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095801502/president-biden-mocks-trump-at-white-house-correspondents-dinner">President Biden mocks Trump at White House Correspondents' Dinner</a> NPR: Joe Biden addressed the White House Correspondents' Association dinner on Saturday night, the first time a president has spoken at the event in six years. 
- <p class="updated_time"> 01:04 AM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/2022/05/01/us/politics/white-house-correspondents-dinner.html">Jokes, Glamour and a Try for Normalcy as Correspondents’ Dinner Returns</a> NYT: Amid concerns about Covid, President Biden offered some humor and received his own ribbing at the White House Correspondents’ Dinner, a ritual that had gone on hiatus during the pandemic. 
  <p class="updated_time"> 11:25 PM CT, Apr. 30 </p> 
  <a href="https://www.politico.com/news/2022/05/01/trevor-noah-white-house-correspondents-highlights-best-moments-00029073">Trevor Noah's best jokes at the WHCD</a> Politico: The headliner quipped that it was his “great honor” to speak at the “nation’s most distinguished superspreader event.” 
  <p class="updated_time"> 10:33 PM CT, Apr. 30 </p> 
@@ -321,9 +325,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095128153/missouri-republican-senate-primary-eric-greitens">Why many Missouri Republicans fear Eric Greitens could win the state's Senate primary</a> NPR: Some Republicans worry that if the scandal-plagued former governor were to win the primary, it would place a Senate seat considered to be safely GOP in jeopardy. 
  <p class="updated_time"> 03:31 AM CT, Apr. 29 </p> 
- <a href="https://www.politico.com/news/2022/04/29/trump-says-matt-dolan-is-not-fit-for-ohios-senate-seat-hes-gaining-ground-anyway-00028824">Republican who refuses to bend the knee to Trump surges in Ohio Senate race</a> Politico: Matt Dolan, who wants the former president to stop pushing “lies about the outcome” of the 2020 election, is showing a late burst of momentum. 
- <p class="updated_time"> 03:31 AM CT, Apr. 29 </p> 
  <a href="https://www.politico.com/news/2022/04/29/dscc-democrats-campaign-advertisements-senate-00028721">Dems reserve $33M in bid to hold Senate</a> Politico: The caucus' campaign arm is focusing on four embattled incumbents. 
+ <p class="updated_time"> 03:31 AM CT, Apr. 29 </p> 
+ <a href="https://www.politico.com/news/2022/04/29/trump-says-matt-dolan-is-not-fit-for-ohios-senate-seat-hes-gaining-ground-anyway-00028824">Republican who refuses to bend the knee to Trump surges in Ohio Senate race</a> Politico: Matt Dolan, who wants the former president to stop pushing “lies about the outcome” of the 2020 election, is showing a late burst of momentum. 
  <p class="updated_time"> 03:30 AM CT, Apr. 29 </p> 
  <a href="https://www.politico.com/news/2022/04/29/house-republican-freedom-caucus-challenges-00023071">Inside the House Freedom Caucus’ identity crisis</a> Politico: The conservatives who built their political brand on challenging GOP leaders are starting to struggle with problems of their own. 
  <p class="updated_time"> 07:36 PM CT, Apr. 28 </p> 
