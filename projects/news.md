@@ -9,29 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">Ukraine Live Updates: Pelosi Travels to Kyiv to Meet Zelensky</a> NYT: House Speaker Nancy Pelosi appeared in a video from Kyiv with President Volodymyr Zelensky. She is the highest ranking U.S. official to travel to Ukraine since the war started. 
  <p class="updated_time"> 01:42 AM CT, May. 01 </p> 
- <a href="https://www.npr.org/2022/05/01/1095802509/some-ukrainians-evacuated-from-ruins-of-mariupol-steel-plant">Some Ukrainians evacuated from ruins of Mariupol steel plant</a> NPR: Some women and children were evacuated from a steel plant that is the last defensive stronghold in the bombed-out ruins of the port city of Mariupol, but hundreds are believed to remain trapped. 
- <p class="updated_time"> 01:03 AM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news">What Happened on Day 66 of the War in Ukraine</a> NYT: About 20 women and children evacuated from Mariupol’s embattled Azovstal steel plant, a Ukrainian fighter at the plant said. Grain harvests in Ukraine, known as Europe’s breadbasket, are paralyzed, worsening a food crisis in East Africa. 
+ <a href="https://www.npr.org/2022/05/01/1095802509/some-ukrainians-evacuated-from-ruins-of-mariupol-steel-plant">Nancy Pelosi meets with Ukraine president Zelenskyy in Kyiv</a> NPR: U.S. Speaker of the House of Representatives Nancy Pelosi has met with Ukraine's president during a visit to the country's embattled capital, Kyiv. 
+ <p class="updated_time"> 01:12 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages</a> WSJ: Ukrainians Suffer Fuel Shortages 
  <p class="updated_time"> 01:03 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/foreign-legion-volunteers.html">Deaths of Foreign Fighters Draw Renewed Attention to Volunteers in Ukraine</a> NYT: At least three foreigners have been killed fighting with Ukraine’s International Legion. One analyst said many would-be volunteers underestimated the danger from Russian forces. 
- <p class="updated_time"> 12:52 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages</a> WSJ: Ukrainians Suffer Fuel Shortages 
- <p class="updated_time"> 11:52 PM CT, Apr. 30 </p> 
+ <p class="updated_time"> 12:12 AM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
+ <p class="updated_time"> 11:12 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
  <p class="updated_time"> 11:11 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/boxing/61263902?at_medium=RSS&at_campaign=KARANGA">Taylor beats Serrano in historic NY fight</a> BBC: Katie Taylor edges Amanda Serrano on points with a split-decision win in an instant classic at Madison Square Garden in New York. 
  <p class="updated_time"> 11:01 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61288670?at_medium=RSS&at_campaign=KARANGA">White House press dinner returns after two years</a> BBC: The event, which Donald Trump boycotted during his presidency, had been cancelled due to Covid. 
- <p class="updated_time"> 10:52 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
- <p class="updated_time"> 09:52 PM CT, Apr. 30 </p> 
+ <p class="updated_time"> 10:12 PM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
  <p class="updated_time"> 09:39 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-scythia-gold-museum-russia.html">Ukraine Says Russia Looted Ancient Gold Artifacts From a Museum</a> NYT: According to Ukrainian officials, Russian soldiers, aided by a mysterious expert, broke into a museum and spirited away priceless artifacts from the Scythian empire. 
  <p class="updated_time"> 09:31 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61288641?at_medium=RSS&at_campaign=KARANGA">Guinea to move to civilian rule in three years</a> BBC: The military junta, which took power in a coup last year, gives a timeline for civilian rule. 
- <p class="updated_time"> 08:52 PM CT, Apr. 30 </p> 
+ <p class="updated_time"> 09:12 PM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/russias-war-in-ukraine-is-straining-global-economic-cooperation-11651318201">Russia’s Ukraine War Strains Global Economic Cooperation</a> WSJ: Russia’s Ukraine War Strains Global Economic Cooperation 
  <p class="updated_time"> 07:00 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61286505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Resistance to Russian rouble in Kherson</a> BBC: Russian forces say the currency will be used there from Sunday. But many residents have other ideas. 
