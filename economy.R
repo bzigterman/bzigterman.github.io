@@ -1488,7 +1488,7 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 <iframe src=\"/interactive/champaign_unemployment_rate.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-<iframe src=\"/interactive/champaign_employment.html\" width=\"100%\" height=\"300\"> 
+<iframe src=\"/interactive/champaign_employment.html\" width=\"100%\" height=\"500\"> 
 </iframe>
 
 ### Housing Metrics
@@ -1545,7 +1545,7 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src=\"/interactive/us_unemployment_rate.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-<iframe src=\"/interactive/us_employment.html\" width=\"100%\" height=\"300\"> 
+<iframe src=\"/interactive/us_employment.html\" width=\"100%\" height=\"500\"> 
 </iframe>
 
 <iframe src=\"/interactive/disposable_income.html\" width=\"100%\" height=\"300\"> 
@@ -1563,7 +1563,7 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src=\"/interactive/consumer_sentiment.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-<iframe src=\"/interactive/gdp.html\" width=\"100%\" height=\"300\"> 
+<iframe src=\"/interactive/gdp.html\" width=\"100%\" height=\"500\"> 
 </iframe>
 
 <iframe src=\"/interactive/us_population.html\" width=\"100%\" height=\"300\"> 
