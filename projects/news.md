@@ -9,45 +9,51 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:37 AM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">Ukraine Live Updates: Pelosi Pledges U.S. Support ‘Until Victory Is Won’</a> NYT: Speaker Nancy Pelosi signaled the deepening U.S. commitment to Ukraine after a secret meeting in Kyiv with President Volodymyr Zelensky. 
+ <p class="updated_time"> 08:31 AM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/2022/05/01/world/asia/philippines-election-marcos-robredo.html">Ahead of Election, Young People in the Philippines Rally Around Leni Robredo</a> NYT: As the election in the Philippines nears, tens of thousands of young people who fear another Marcos presidency are rallying around Leni Robredo, the country’s vice president. 
+ <p class="updated_time"> 08:24 AM CT, May. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61290695?at_medium=RSS&at_campaign=KARANGA">Biden mocks Trump at White House press dinner</a> BBC: Joe Biden jokes about former president Donald Trump at the prestigious event hosted by Trevor Noah. 
  <p class="updated_time"> 08:09 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809188/italy-is-launching-a-digital-nomad-visa">Italy is launching a digital nomad visa</a> NPR: Italy will soon roll out a new visa that allows remote workers to live in Italy even though their jobs are based abroad. Supporters hope it will attract high-earning workers and spark innovation. 
  <p class="updated_time"> 08:03 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809174/with-title-42-in-flux-migrants-take-over-mexican-cities-across-the-border">With Title 42 in flux, migrants take over Mexican cities across the border </a> NPR: Ayesha Rascoe speaks with Pedro Rios of the American Friends Services Committee about how Tijuana, Mexico, is grappling with the continuing influx of migrants. 
- <p class="updated_time"> 07:58 AM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">Ukraine Live Updates: Pelosi Pledges U.S. Support ‘Until Victory Is Won’</a> NYT: Speaker Nancy Pelosi signaled the deepening U.S. commitment to Ukraine after a secret meeting in Kyiv with President Volodymyr Zelensky. 
  <p class="updated_time"> 07:54 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/three-men-dead-bucha-ukraine-war.html">Bodies of Three Men Found in Bucha, Ukrainian Officials Say </a> NYT: A police chief said that victims’ bodies were discovered in a forest, and showed signs of mutilation. 
+ <p class="updated_time"> 07:40 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 07:19 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809132/cowboys-in-colombia-are-barefoot-legends">Cowboys in Colombia are barefoot legends</a> NPR: Cowboys in the South American country of Colombia have a storied history. To this day, they continue to ride the plains, keeping an eye on cattle. And usually, they do so barefoot. 
  <p class="updated_time"> 07:16 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809125/europe-has-to-monitor-hate-speech-and-illegal-content-on-social-media-more-close">Europe has to monitor hate speech and illegal content on social media more closely</a> NPR: New rules will require social media networks in the European Union to more closely monitor hate speech and other illegal content posted on their platforms. 
- <p class="updated_time"> 07:12 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 07:04 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809111/russia-is-starting-to-cut-natural-gas-supplies-off">Russia is starting to cut natural gas supplies off</a> NPR: Ayesha Rascoe discusses Russia's threats against NATO countries and the decision to cut off natural gas to Poland and Bulgaria with Agnia Grigas, a nonresident senior fellow at the Atlantic Council. 
  <p class="updated_time"> 07:04 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809104/what-its-like-living-in-ukraines-warzone">What it's like living in Ukraine's warzone</a> NPR: Ukraine's army is slowing Russia's invasion to a crawl, but there is still heavy fighting in the south. For those living there, the war has started to feel like a deadly kind of normal. 
+ <p class="updated_time"> 06:40 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 06:33 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61290444?at_medium=RSS&at_campaign=KARANGA">Nine people arrested in China over Changsha building collapse</a> BBC: At least 18 people are trapped inside the largely-residential building, which collapsed on Friday. 
  <p class="updated_time"> 06:14 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61285833?at_medium=RSS&at_campaign=KARANGA">How Ukraine's 'Ghost of Kyiv' legendary pilot was born</a> BBC: The "Ghost of Kyiv" story about a heroic pilot downing many Russian planes turns out to be a legend. 
- <p class="updated_time"> 06:12 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1094616486/pablo-neruda-question-poems-translated-illustrated-children">Pablo Neruda's question poems, now translated and illustrated for children</a> NPR: Neruda's Book of Questions is well known in Latin American literature. A new bilingual, illustrated selection of his poems gives English-speaking children an opportunity to interrogate the world. 
  <p class="updated_time"> 05:42 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/beijing-china-covid.html">Beijing Covid Outbreak: New Restrictions Imposed, but No Full Lockdown</a> NYT: Officials in China’s capital are striving to contain a coronavirus outbreak while avoiding public anger of the kind that has erupted in Shanghai. 
- <p class="updated_time"> 05:12 AM CT, May. 01 </p> 
+ <p class="updated_time"> 05:40 AM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/british-virgin-islands-premier-arrested-in-florida-on-drug-trafficking-money-laundering-charges-11651251613">British Virgin Islands Premier Arrested in Florida</a> WSJ: British Virgin Islands Premier Arrested in Florida 
  <p class="updated_time"> 05:03 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61290443?at_medium=RSS&at_campaign=KARANGA">Tributes paid after death of country music star Naomi Judd, 76</a> BBC: Ms Judd, 76, had a string of hits and awards with her daughter in the country music duo, The Judds. 
+ <p class="updated_time"> 04:40 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
  <p class="updated_time"> 04:34 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61248366?at_medium=RSS&at_campaign=KARANGA">Ghana's e-levy adds 1.5% tax to electronic payments</a> BBC: A new e-levy of 1.5% on all electronic payments comes into force despite widespread opposition. 
- <p class="updated_time"> 04:12 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
  <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/china-covid-zero-xi-jinping.html">Inside China’s Zero-Covid Fortress, Xi Admits No Doubts</a> NYT: As the lockdown of Shanghai and outbreaks in Beijing and elsewhere batter the economy, China’s leader keeps a distance from the politically charged issue. 
- <p class="updated_time"> 03:12 AM CT, May. 01 </p> 
+ <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-puts-spy-satellites-for-hire-in-the-spotlight-11651410002">Ukraine War Puts Spy Satellites for Hire in Spotlight</a> WSJ: From Russian tanks to mass burial sites, commercial imaging spacecraft are shedding light on the Kremlin’s war on its neighbor. 
+ <p class="updated_time"> 03:40 AM CT, May. 01 </p> 
  <a href="https://www.wsj.com/story/sprawling-underground-city-in-turkey-discovered-5f3626b9">Sprawling Underground City in Turkey Discovered</a> WSJ: Sprawling Underground City in Turkey Discovered 
  <p class="updated_time"> 01:42 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095802509/nancy-pelosi-meets-zelenskyy-kyiv-civilians-leave-mariupol-steel-plant">Nancy Pelosi meets Zelenskyy in Kyiv, civilians leave Mariupol steel plant</a> NPR: U.S. Speaker of the House of Representatives Nancy Pelosi has met with Ukraine's president during a visit to the country's embattled capital, Kyiv. 
@@ -55,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/01/world/europe/foreign-legion-volunteers.html">Deaths of Foreign Fighters Renew Attention on Ukraine War Volunteers</a> NYT: At least three foreigners have been killed fighting with Ukraine’s International Legion. One analyst said many would-be volunteers underestimated the danger from Russian forces. 
  <p class="updated_time"> 11:11 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/boxing/61263902?at_medium=RSS&at_campaign=KARANGA">Taylor beats Serrano in historic NY fight</a> BBC: Katie Taylor edges Amanda Serrano on points with a split-decision win in an instant classic at Madison Square Garden in New York. 
- <p class="updated_time"> 11:01 PM CT, Apr. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61288670?at_medium=RSS&at_campaign=KARANGA">White House press dinner returns after two years</a> BBC: The event, which Donald Trump boycotted during his presidency, had been cancelled due to Covid. 
  <p class="updated_time"> 09:39 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-scythia-gold-museum-russia.html">Ukraine Says Russia Looted Ancient Gold Artifacts From a Museum</a> NYT: According to Ukrainian officials, Russian soldiers, aided by a mysterious expert, broke into a museum and spirited away priceless artifacts from the Scythian empire. 
  <p class="updated_time"> 09:31 PM CT, Apr. 30 </p> 
@@ -135,6 +139,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/30/world/middleeast/miilya-israel-archaeology-crusaders-byzantine.html">Mi’ilya, Christian Village in Israel, Digs Into Crusader Past</a> NYT: The residents of Mi’ilya long wondered what archaeological treasures lay beneath a crumbling castle. Now, some are excavating their homes to find out. 
  <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Trade Barriers From the Ukraine War Are Sending Food Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
+ <p class="updated_time"> 12:30 AM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens' Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Civilian efforts to document alleged war crimes have helped keep the world’s attention on Ukraine, but it remains an open question whether any of the evidence will hold up in court. 
  <p class="updated_time"> 10:58 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-61281895?at_medium=RSS&at_campaign=KARANGA">Tornado captured tearing through city in Kansas</a> BBC: Shocking footage shows a tornado weaving in and out of streets near Andover in the US state of Kansas. 
  <p class="updated_time"> 09:35 PM CT, Apr. 29 </p> 
@@ -147,8 +153,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html">Started Out as a Fish. How Did It End Up Like This?</a> NYT: A meme about the transitional fossil Tiktaalik argues that although we did come out of the sea, we aren’t doing just fine. 
  <p class="updated_time"> 07:11 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61280068?at_medium=RSS&at_campaign=KARANGA">Daughter of IS victim: 'I will never forgive'</a> BBC: Facing her father's killers in court, Bethany Haines read her impact statement and detailed her trauma. 
- <p class="updated_time"> 06:35 PM CT, Apr. 29 </p> 
- <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China's Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: A contraction in China’s factory and service-sector activity worsened for a second straight month, as strict lockdowns in dozens of cities shut down production and pummeled consumer spending. 
  <p class="updated_time"> 06:08 PM CT, Apr. 29 </p> 
  <a href="https://www.bbc.co.uk/news/health-61184400?at_medium=RSS&at_campaign=KARANGA">The impact of miscarriage on families around the world</a> BBC: The grief is universal, but the care women receive during pregnancy loss can depend on where they live. 
  <p class="updated_time"> 06:03 PM CT, Apr. 29 </p> 
@@ -193,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/europe/bucha-russian-soliders-atrocities.html">Ukraine Identifies Russian Soldiers in Bucha Atrocities</a> NYT: In the first detailed set of allegations since the invasion, Ukrainian officials published the names and photos of Russian soldiers they say tortured civilians in a suburb of Kyiv. 
  <p class="updated_time"> 12:00 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/britain-troops-europe.html">8,000 British Troops to Join Allied Exercises in Eastern Europe, Official Says</a> NYT: The troops will serve in the British-led Joint Expeditionary Force, created in 2014 in response to Russia’s seizure of Crimea from Ukraine. 
- <p class="updated_time"> 09:43 PM CT, Apr. 28 </p> 
- <a href="https://www.nytimes.com/2022/04/28/climate/global-warming-ocean-extinctions.html">In Warming World Oceans Risk Mass Extinctions, Model Shows</a> NYT: A new study finds that if fossil fuel emissions continue apace, the oceans could experience a mass extinction by 2300. There is still time to avoid it. 
  <p class="updated_time"> 08:18 PM CT, Apr. 28 </p> 
  <a href="https://www.nytimes.com/2022/04/28/world/australia/democracy-elections.html">Is Australian Democracy in Decline?</a> NYT: With a federal election just a few weeks away, it’s time to put Australia’s system and political flaws into context. 
  <p class="updated_time"> 07:43 PM CT, Apr. 28 </p> 
