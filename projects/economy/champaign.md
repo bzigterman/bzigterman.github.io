@@ -11,8 +11,6 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 <iframe src="/interactive/champaign_employment.html" width="100%" height="500"> 
 </iframe>
 
-### Housing Metrics
-
 <iframe src="/interactive/champaign_housing.html" width="100%" height="800"> 
 </iframe>
 
@@ -433,7 +431,7 @@ html {
   
   <thead class="gt_col_headings">
     <tr>
-      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Housing Indicators</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Metric</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">Year Ago</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">Latest</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">Year %<br>Change</th>
