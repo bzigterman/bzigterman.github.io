@@ -9,26 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:38 AM CT, May. 01 </p> 
+ <p class="updated_time"> 12:26 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">Ukraine Live Updates: Evacuation of Civilians From Mariupol Steel Plant Underway</a> NYT: The long-awaited rescue came as U.S. Speaker Nancy Pelosi visited Ukraine and pledged U.S. support ‘until victory is won.’ 
+ <p class="updated_time"> 12:02 PM CT, May. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61292334?at_medium=RSS&at_campaign=KARANGA">Iraq dust storm: Flights grounded in Baghdad and Najaf as skies turn orange</a> BBC: A dust storm that has covered Iraq in an orange sheet is expected to continue into Monday. 
+ <p class="updated_time"> 11:53 AM CT, May. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61292951?at_medium=RSS&at_campaign=KARANGA">Mariupol civilian evacuation begins to Ukraine and Russia-held territories</a> BBC: Evacuation operations begin at the last hold-out of Ukrainian fighters in southern Mariupol. 
+ <p class="updated_time"> 11:36 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-puts-spy-satellites-for-hire-in-the-spotlight-11651410002">Ukraine War Puts Spy Satellites for Hire in Spotlight</a> WSJ: Ukraine War Puts Spy Satellites for Hire in Spotlight 
  <p class="updated_time"> 11:35 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/ghost-kyiv-ukraine-myth.html">The ‘Ghost of Kyiv’ Is a Myth, Ukraine Acknowledges</a> NYT: The legend of a pilot who shot down numerous Russian aircraft was one of the more successful pieces of propaganda in Ukraine’s information war. 
  <p class="updated_time"> 11:07 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/pope-francis-kyiv-ambassadors.html">As Ambassadors Left Town, the Pope’s Emissary Remained in Kyiv</a> NYT: Through shelling, street fights in the suburbs and the flight of thousands through Ukraine’s capital, the Vatican’s diplomatic mission stayed put. 
- <p class="updated_time"> 10:52 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-puts-spy-satellites-for-hire-in-the-spotlight-11651410002">Ukraine War Puts Spy Satellites for Hire in Spotlight</a> WSJ: Ukraine War Puts Spy Satellites for Hire in Spotlight 
  <p class="updated_time"> 10:49 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/mariupol-steel-plant-evacuation.html">100 Civilians Evacuated From Mariupol Steel Factory, Officials Say</a> NYT: The Ukrainian president said that civilians were being evacuated from the Azovstal steel factory and are headed to a “controlled area.” 
- <p class="updated_time"> 10:16 AM CT, May. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61292951?at_medium=RSS&at_campaign=KARANGA">Mariupol civilian evacuation begins to Ukraine and Russia-held territories</a> BBC: Evacuation operations begin at the last hold-out of Ukrainian fighters in southern Mariupol. 
+ <p class="updated_time"> 10:36 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 10:10 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/middleeast/egypt-ramadan-tv-el-sisi.html">In Egypt’s Big Ramadan TV Drama, the President Is the Hero</a> NYT: President Abdel Fattah el-Sisi says “The Choice” tells the truth about his rise. Critics say it’s a rewriting of recent history from an industry increasingly cowed under his rule. 
  <p class="updated_time"> 10:05 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html">Started Out as a Fish. How Did It End Up Like This?</a> NYT: A meme about the transitional fossil Tiktaalik argues that although we did come out of the sea, we aren’t doing just fine. 
- <p class="updated_time"> 09:52 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 09:48 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/americas/honduras-xiomara-castro-womens-rights.html">She Promised to Empower Women. Will Honduras’s President Succeed?</a> NYT: The country’s first female leader, Xiomara Castro, is struggling to advance her feminist agenda 14 years after a coup ended the presidency of her husband, who pursued similar causes. 
+ <p class="updated_time"> 09:36 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 09:33 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/philippines-election-marcos-robredo.html">Ahead of Philippines Election, Young People Rally Around Leni Robredo</a> NYT: As the election in the Philippines nears, tens of thousands of young people who fear another Marcos presidency are rallying around Leni Robredo, the country’s vice president. 
  <p class="updated_time"> 09:29 AM CT, May. 01 </p> 
@@ -37,10 +41,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
  <p class="updated_time"> 09:03 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-61292332?at_medium=RSS&at_campaign=KARANGA">Regine: Singer, actress and self-proclaimed discotheque inventor dies</a> BBC: Regine, known as the "queen of the night", owned nightclubs across the world. 
- <p class="updated_time"> 08:52 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 08:44 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61292290?at_medium=RSS&at_campaign=KARANGA">Kylie Minogue and Jason Donovan return to Neighbours</a> BBC: The pair will resume their roles as Scott Robinson and Charlene Mitchell for the soap's final episode. 
+ <p class="updated_time"> 08:36 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 08:24 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61290695?at_medium=RSS&at_campaign=KARANGA">Biden mocks Trump at White House press dinner</a> BBC: Joe Biden jokes about former president Donald Trump at the prestigious event hosted by Trevor Noah. 
  <p class="updated_time"> 08:09 AM CT, May. 01 </p> 
@@ -49,8 +53,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/01/1095809174/with-title-42-in-flux-migrants-take-over-mexican-cities-across-the-border">With Title 42 in flux, migrants take over Mexican cities across the border </a> NPR: Ayesha Rascoe speaks with Pedro Rios of the American Friends Services Committee about how Tijuana, Mexico, is grappling with the continuing influx of migrants. 
  <p class="updated_time"> 07:54 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/three-men-dead-bucha-ukraine-war.html">Bodies of Three Men Found in Bucha, Ukrainian Officials Say </a> NYT: A police chief said that victims’ bodies were discovered in a forest, and showed signs of mutilation. 
- <p class="updated_time"> 07:52 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
+ <p class="updated_time"> 07:51 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876">Russia Recasts Ukraine Fight as War With West</a> WSJ: Moscow links the conflict to the Soviet defeat of Nazi Germany ahead of Russia’s May 9 holiday. There has been a crescendo of hardline comments from the Kremlin and state-controlled media. 
+ <p class="updated_time"> 07:36 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
  <p class="updated_time"> 07:19 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809132/cowboys-in-colombia-are-barefoot-legends">Cowboys in Colombia are barefoot legends</a> NPR: Cowboys in the South American country of Colombia have a storied history. To this day, they continue to ride the plains, keeping an eye on cattle. And usually, they do so barefoot. 
  <p class="updated_time"> 07:16 AM CT, May. 01 </p> 
@@ -59,8 +65,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/01/1095809111/russia-is-starting-to-cut-natural-gas-supplies-off">Russia is starting to cut natural gas supplies off</a> NPR: Ayesha Rascoe discusses Russia's threats against NATO countries and the decision to cut off natural gas to Poland and Bulgaria with Agnia Grigas, a nonresident senior fellow at the Atlantic Council. 
  <p class="updated_time"> 07:04 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809104/what-its-like-living-in-ukraines-warzone">What it's like living in Ukraine's warzone</a> NPR: Ukraine's army is slowing Russia's invasion to a crawl, but there is still heavy fighting in the south. For those living there, the war has started to feel like a deadly kind of normal. 
- <p class="updated_time"> 06:52 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
+ <p class="updated_time"> 06:34 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/europe-to-make-fresh-push-to-revive-iran-nuclear-deal-by-offering-to-send-top-negotiator-back-to-tehran-11651419295">Europe to Make Fresh Push to Revive Iran Nuclear Deal</a> WSJ: Talks have hit a deadlock over Iran’s demand that Washington lift its terror designation on Iran’s Revolutionary Guards. 
  <p class="updated_time"> 06:33 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61290444?at_medium=RSS&at_campaign=KARANGA">Nine people arrested in China over Changsha building collapse</a> BBC: At least 18 people are trapped inside the largely-residential building, which collapsed on Friday. 
  <p class="updated_time"> 06:14 AM CT, May. 01 </p> 
@@ -76,15 +82,15 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/china-covid-zero-xi-jinping.html">Inside China’s Zero-Covid Fortress, Xi Admits No Doubts</a> NYT: As the lockdown of Shanghai and outbreaks in Beijing and elsewhere batter the economy, China’s leader keeps a distance from the politically charged issue. 
  <p class="updated_time"> 01:42 AM CT, May. 01 </p> 
- <a href="https://www.npr.org/2022/05/01/1095802509/nancy-pelosi-meets-zelenskyy-kyiv-civilians-leave-mariupol-steel-plant">Nancy Pelosi meets Zelenskyy in Kyiv, civilians leave Mariupol steel plant</a> NPR: U.S. Speaker of the House of Representatives Nancy Pelosi has met with Ukraine's president during a visit to the country's embattled capital, Kyiv. 
+ <a href="https://www.npr.org/2022/05/01/1095802509/nancy-pelosi-meets-zelenskyy-kyiv-civilians-leave-mariupol-steel-plant">About 100 civilians escape Mariupol steel plant as Pelosi visits Zelenskyy in Kyiv</a> NPR: The U.N. is helping to evacuate the remaining civilians, officials said Sunday. House Speaker Nancy Pelosi is the most senior U.S. official to visit Kyiv since the war began in February. 
  <p class="updated_time"> 01:03 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/foreign-legion-volunteers.html">Deaths of Foreign Fighters Renew Attention on Ukraine War Volunteers</a> NYT: At least three foreigners have been killed fighting with Ukraine’s International Legion. One analyst said many would-be volunteers underestimated the danger from Russian forces. 
+ <p class="updated_time"> 12:30 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/as-inflation-eases-public-debt-load-economists-sound-cautionary-note-11651397401">Economists Leery as Inflation Eases Public Debt Load</a> WSJ: Excessive reliance by governments on rising prices is seen possibly triggering an upward spiral in interest rates. 
  <p class="updated_time"> 09:39 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-scythia-gold-museum-russia.html">Ukraine Says Russia Looted Ancient Gold Artifacts From a Museum</a> NYT: According to Ukrainian officials, Russian soldiers, aided by a mysterious expert, broke into a museum and spirited away priceless artifacts from the Scythian empire. 
  <p class="updated_time"> 09:31 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61288641?at_medium=RSS&at_campaign=KARANGA">Guinea to move to civilian rule in three years</a> BBC: The military junta, which took power in a coup last year, gives a timeline for civilian rule. 
- <p class="updated_time"> 07:00 PM CT, Apr. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61286505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Resistance to Russian rouble in Kherson</a> BBC: Russian forces say the currency will be used there from Sunday. But many residents have other ideas. 
  <p class="updated_time"> 06:48 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61251228?at_medium=RSS&at_campaign=KARANGA">Afghan interpreters fear families 'forgotten' by Canada</a> BBC: Former interpreters say their families face major bureaucratic hurdles in effort to reach Canada. 
  <p class="updated_time"> 06:47 PM CT, Apr. 30 </p> 
@@ -216,20 +222,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:31 PM CT, May. 01 </p> 
+ <a href="https://www.npr.org/2022/05/01/1095813226/connecticut-abortion-bill-roe-v-wade">Connecticut looks to expand abortion rights in response to out-of-state restrictions</a> NPR: The legislation is partly a reaction to the wave of new measures in conservative states restricting abortions and in some cases levying civil and criminal penalties on people who perform them. 
+ <p class="updated_time"> 12:24 PM CT, May. 01 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 12:20 PM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/2022/05/01/style/kim-kardashian-pete-davidson-white-house-correspondents-dinner.html">Kim Kardashian and Pete Davidson Star in the White House Correspondents’ Dinner: The Reality Show</a> NYT: An interesting event to choose to make an entrance. 
+ <p class="updated_time"> 12:03 PM CT, May. 01 </p> 
+ <a href="https://www.politico.com/news/2022/05/01/mayorkas-defends-dhs-disinformation-board-00029182">Mayorkas cites misinformation about Homeland Security's disinformation board</a> Politico: He says the comparisons to George Orwell's "1984" are wrong. 
+ <p class="updated_time"> 12:02 PM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/2022/05/01/us/politics/josh-mandel-vance-ohio-senate.html">In Trump’s Shadow, Ohio Republicans Campaign Ahead of Tuesday’s Primary</a> NYT: Donald Trump’s endorsement of the author and venture capitalist J.D. Vance has shaken up the Republican race for the first major Senate midterm election. 
  <p class="updated_time"> 11:03 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/us/politics/afghanistan-war-crimes-uss-cole.html">War Crimes Hearing Revisits U.S. Soldiers’ Abuse of Detainees</a> NYT: An Army judge is hearing pretrial testimony to determine what evidence can be used at the eventual destroyer Cole death penalty trial. 
  <p class="updated_time"> 10:27 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/us/politics/white-house-correspondents-dinner.html">Jokes, Glamour and a Try for Normalcy as Correspondents’ Dinner Returns</a> NYT: Amid concerns about Covid, President Biden offered some humor and received his own ribbing at the White House Correspondents’ Dinner, a ritual that had gone on hiatus during the pandemic. 
  <p class="updated_time"> 10:24 AM CT, May. 01 </p> 
- <a href="https://www.politico.com/news/2022/05/01/ukrainian-ambassador-nancy-pelosi-00029172">Ukrainian ambassador calls Pelosi's visit 'very symbolic'</a> Politico: "It was a special delight to see Madam Speaker with the delegation in Kyiv," she said. 
+ <a href="https://www.politico.com/news/2022/05/01/ukrainian-ambassador-nancy-pelosi-00029172">Ukrainian ambassador praises Pelosi's visit as 'very symbolic'</a> Politico: "It was a special delight to see Madam Speaker with the delegation in Kyiv," she said. 
  <p class="updated_time"> 10:17 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/menendez-iran-nuclear-weapons-deal-00029168">Menendez doubtful that talks with Iran will yield a good deal</a> Politico: "I want the administration to understand that no deal is better than a bad deal," he said. 
  <p class="updated_time"> 09:33 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/mayorkas-migrants-homeland-security-00029164">Mayorkas’ message to migrants remains: ‘Do not come’</a> Politico: The head of Homeland Security spoke about the Biden administration's immigration policy. 
  <p class="updated_time"> 09:29 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Trade Barriers From the Ukraine War Are Sending Food Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
- <p class="updated_time"> 08:40 AM CT, May. 01 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:37 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809160/politics-chat-bidens-ratings-down-over-ukraine-midterms-begin-in-indiana-and-ohi">Politics chat: Biden's ratings down over Ukraine; midterms begin in Indiana and Ohio</a> NPR: An NPR/PBS NewsHour/Marist poll shows that ratings for President Biden's handling of the Ukraine crisis has declined. Also, election primaries begin in Indiana and Ohio this week. 
  <p class="updated_time"> 07:06 AM CT, May. 01 </p> 
@@ -246,8 +260,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/01/pelosi-concludes-secret-visit-to-ukraine-00029154">Pelosi concludes secret visit to Ukraine</a> Politico: The House speaker, who is second in line to the presidency, is now the highest-ranking U.S. official to visit the war-battered nation since Russia’s invasion began. 
  <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095466871/biden-polls-democrats-gen-z-midterms">Polls show Biden is losing support from Gen Z. These young voters aren't surprised</a> NPR: As the political calendar inches towards the midterm elections in November, a run of recent polling all points to one thing: President Biden has a problem with young voters. 
- <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/2022/05/01/us/politics/josh-mandel-vance-ohio-senate.html">In Trump’s Shadow, Ohio Republicans Campaign Ahead of Tuesday’s Primary.</a> NYT: Donald Trump’s endorsement of the author and venture capitalist J.D. Vance has shaken up the Republican race for the first major Senate midterm election. 
  <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/us/politics/covid-aid-hospitals-uninsured.html">Loss of Pandemic Aid Stresses Hospitals That Treat the Uninsured</a> NYT: Hospitalizations from Covid-19 are receding, but safety-net providers are facing tremendous unmet needs from poor and uninsured patients who delayed seeking care during the pandemic. 
  <p class="updated_time"> 01:33 AM CT, May. 01 </p> 
@@ -284,8 +296,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/30/governors-covid-mask-mandates-00028187">Officials are nervous about mask mandates — even in Covid hot spots</a> Politico: In an election year where more than 30 governors, Congress and many state legislatures are on the ballot, politicians have been loathe to consider mandates. 
  <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/us/politics/ohio-senate-primary-vance-trump.html">Ahead of Senate Primary Election, Ohio Republicans Embrace the Bombast </a> NYT: The slugfest for the Republican nomination for Ohio’s open Senate seat has buried the brand of good-natured, country-club conservatism that was once a hallmark of the state. 
- <p class="updated_time"> 09:38 PM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/us/politics/georgia-redistricting-greene.html">Why 2 Largely Black Cities May Land in Marjorie Taylor Greene’s District</a> NYT: Powder Springs is one of two predominantly Black suburbs drawn into the far-right Republican’s district. If Ms. Greene is their voice in Congress, will she speak for them? 
  <p class="updated_time"> 08:21 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/fda-covid-vaccine-under-5.html">F.D.A. Sets Aside June for Potential Decisions on Vaccines for Children Under 5</a> NYT: Both Moderna and Pfizer-BioNTech have asked the agency to approve their vaccines for the youngest children. 
  <p class="updated_time"> 07:44 PM CT, Apr. 29 </p> 
@@ -326,8 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/29/1094942180/nicola-sturgeon-how-can-small-countries-have-a-global-impact">Nicola Sturgeon: How can small countries have a global impact?</a> NPR: Scotland's First Minister Nicola Sturgeon shares ideas on leading Scotland, from her approach to climate change and wellness, to the challenges she's faced as a female leader. 
  <p class="updated_time"> 04:12 AM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095444398/morning-news-brief">News brief: missile strike, Biden wants more Ukraine funding, education poll</a> NPR: A missile hit Kyiv after the U.N. chief finished a news conference. President Biden urges lawmakers to send more money to Ukraine. NPR poll: most parents are happy with what schools are teaching. 
- <p class="updated_time"> 04:00 AM CT, Apr. 29 </p> 
- <a href="https://www.npr.org/2022/04/29/1095128153/missouri-republican-senate-primary-eric-greitens">Why many Missouri Republicans fear Eric Greitens could win the state's Senate primary</a> NPR: Some Republicans worry that if the scandal-plagued former governor were to win the primary, it would place a Senate seat considered to be safely GOP in jeopardy. 
  <p class="updated_time"> 03:31 AM CT, Apr. 29 </p> 
  <a href="https://www.politico.com/news/2022/04/29/dscc-democrats-campaign-advertisements-senate-00028721">Dems reserve $33M in bid to hold Senate</a> Politico: The caucus' campaign arm is focusing on four embattled incumbents. 
  <p class="updated_time"> 03:31 AM CT, Apr. 29 </p> 
@@ -336,8 +344,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/29/house-republican-freedom-caucus-challenges-00023071">Inside the House Freedom Caucus’ identity crisis</a> Politico: The conservatives who built their political brand on challenging GOP leaders are starting to struggle with problems of their own. 
  <p class="updated_time"> 07:36 PM CT, Apr. 28 </p> 
  <a href="https://www.politico.com/news/2022/04/28/new-york-redistricting-spooks-house-dems-00028753">‘Egg on our face’: New York redistricting mess spooks House Dems</a> Politico: Democrats' House majority was already slipping away, but Wednesday's court decision in New York was potentially devastating. 
- <p class="updated_time"> 12:14 PM CT, Apr. 28 </p> 
- <a href="https://www.politico.com/news/2022/04/28/trumps-risky-primary-play-rallying-for-a-longtime-ally-accused-of-sexual-misconduct-00028611">Trump goes all in for candidate accused of sexual assault</a> Politico: The former president is holding a rally in Nebraska Friday for his candidate for governor, Charles Herbster. 
 
 
 </details>
