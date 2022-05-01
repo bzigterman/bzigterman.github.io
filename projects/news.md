@@ -9,44 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:30 PM CT, May. 01 </p> 
+ <p class="updated_time"> 02:00 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">Ukraine Live Updates: Evacuation of Civilians From Mariupol Steel Plant Underway</a> NYT: The long-awaited rescue came as U.S. Speaker Nancy Pelosi visited Ukraine and pledged U.S. support ‘until victory is won.’ 
- <p class="updated_time"> 12:35 PM CT, May. 01 </p> 
+ <p class="updated_time"> 01:43 PM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/2022/05/01/world/asia/with-spate-of-attacks-isis-begins-bloody-new-chapter-in-afghanistan.html">ISIS Launches Bloody New Chapter in Afghanistan</a> NYT: At least 100 people have died in terrorist attacks over the past two weeks, as the Islamic State targets minorities in Afghanistan and aims to undermine the Taliban government. 
+ <p class="updated_time"> 01:06 PM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876">Russia Recasts Ukraine Fight as War With West</a> WSJ: Russia Recasts Ukraine Fight as War With West 
+ <p class="updated_time"> 12:06 PM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/europe-to-make-fresh-push-to-revive-iran-nuclear-deal-by-offering-to-send-top-negotiator-back-to-tehran-11651419295">Europe to Make Fresh Push to Revive Iran Nuclear Deal</a> WSJ: Europe to Make Fresh Push to Revive Iran Nuclear Deal 
  <p class="updated_time"> 12:02 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-61292334?at_medium=RSS&at_campaign=KARANGA">Iraq dust storm: Flights grounded in Baghdad and Najaf as skies turn orange</a> BBC: A dust storm that has covered Iraq in an orange sheet is expected to continue into Monday. 
  <p class="updated_time"> 11:53 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61292951?at_medium=RSS&at_campaign=KARANGA">Mariupol civilian evacuation begins to Ukraine and Russia-held territories</a> BBC: Evacuation operations begin at the last hold-out of Ukrainian fighters in southern Mariupol. 
  <p class="updated_time"> 11:35 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/ghost-kyiv-ukraine-myth.html">The ‘Ghost of Kyiv’ Is a Myth, Ukraine Acknowledges</a> NYT: The legend of a pilot who shot down numerous Russian aircraft was one of the more successful pieces of propaganda in Ukraine’s information war. 
- <p class="updated_time"> 11:35 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/europe-to-make-fresh-push-to-revive-iran-nuclear-deal-by-offering-to-send-top-negotiator-back-to-tehran-11651419295">Europe to Make Fresh Push to Revive Iran Nuclear Deal</a> WSJ: Europe to Make Fresh Push to Revive Iran Nuclear Deal 
  <p class="updated_time"> 11:07 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/pope-francis-kyiv-ambassadors.html">As Ambassadors Left Town, the Pope’s Emissary Remained in Kyiv</a> NYT: Through shelling, street fights in the suburbs and the flight of thousands through Ukraine’s capital, the Vatican’s diplomatic mission stayed put. 
+ <p class="updated_time"> 11:06 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 10:49 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/mariupol-steel-plant-evacuation.html">100 Civilians Evacuated From Mariupol Steel Factory, Officials Say</a> NYT: The Ukrainian president said that civilians were being evacuated from the Azovstal steel factory and are headed to a “controlled area.” 
- <p class="updated_time"> 10:35 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 10:10 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/middleeast/egypt-ramadan-tv-el-sisi.html">In Egypt’s Big Ramadan TV Drama, the President Is the Hero</a> NYT: President Abdel Fattah el-Sisi says “The Choice” tells the truth about his rise. Critics say it’s a rewriting of recent history from an industry increasingly cowed under his rule. 
+ <p class="updated_time"> 10:06 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 10:05 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html">Started Out as a Fish. How Did It End Up Like This?</a> NYT: A meme about the transitional fossil Tiktaalik argues that although we did come out of the sea, we aren’t doing just fine. 
  <p class="updated_time"> 09:48 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/americas/honduras-xiomara-castro-womens-rights.html">She Promised to Empower Women. Will Honduras’s President Succeed?</a> NYT: The country’s first female leader, Xiomara Castro, is struggling to advance her feminist agenda 14 years after a coup ended the presidency of her husband, who pursued similar causes. 
- <p class="updated_time"> 09:35 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 09:33 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/philippines-election-marcos-robredo.html">Ahead of Philippines Election, Young People Rally Around Leni Robredo</a> NYT: As the election in the Philippines nears, tens of thousands of young people who fear another Marcos presidency are rallying around Leni Robredo, the country’s vice president. 
  <p class="updated_time"> 09:29 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Trade Barriers From the Ukraine War Are Sending Food Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
  <p class="updated_time"> 09:21 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
+ <p class="updated_time"> 09:06 AM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/as-inflation-eases-public-debt-load-economists-sound-cautionary-note-11651397401">Economists Leery as Inflation Eases Public Debt Load</a> WSJ: Economists Leery as Inflation Eases Public Debt Load 
  <p class="updated_time"> 09:03 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-61292332?at_medium=RSS&at_campaign=KARANGA">Regine: Singer, actress and self-proclaimed discotheque inventor dies</a> BBC: Regine, known as the "queen of the night", owned nightclubs across the world. 
  <p class="updated_time"> 08:44 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61292290?at_medium=RSS&at_campaign=KARANGA">Kylie Minogue and Jason Donovan return to Neighbours</a> BBC: The pair will resume their roles as Scott Robinson and Charlene Mitchell for the soap's final episode. 
- <p class="updated_time"> 08:35 AM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/as-inflation-eases-public-debt-load-economists-sound-cautionary-note-11651397401">Economists Leery as Inflation Eases Public Debt Load</a> WSJ: Economists Leery as Inflation Eases Public Debt Load 
  <p class="updated_time"> 08:24 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61290695?at_medium=RSS&at_campaign=KARANGA">Biden mocks Trump at White House press dinner</a> BBC: Joe Biden jokes about former president Donald Trump at the prestigious event hosted by Trevor Noah. 
  <p class="updated_time"> 08:09 AM CT, May. 01 </p> 
@@ -216,6 +218,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:45 PM CT, May. 01 </p> 
+ <a href="https://www.politico.com/news/2022/05/01/taiwan-china-ukraine-invasion-zakaria-00029186">Taiwan learning lessons from Ukraine's stout resistance, foreign minister says</a> Politico: "That kind of spirit is enviable for the Taiwanese people," Joseph Wu said. 
  <p class="updated_time"> 12:45 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/style/kim-kardashian-pete-davidson-white-house-correspondents-dinner.html">Kim Kardashian and Pete Davidson Attend the White House Correspondents’ Dinner</a> NYT: An interesting event to choose to make an entrance. 
  <p class="updated_time"> 12:31 PM CT, May. 01 </p> 
@@ -247,9 +251,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:01 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/florida-lost-70-000-people-to-covid-its-still-not-prepared-for-the-next-wave-00029091">Florida lost 70,000 people to Covid. It’s still not prepared for the next wave.</a> Politico: A report by the Florida Hospital Association estimates 70 percent of Florida hospitals are facing a critical staffing shortage, and the state will be short 60,000 nurses by 2035. 
  <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
- <a href="https://www.politico.com/news/2022/05/01/democrats-immigration-reform-infighting-00029087">Immigration reform withers as Democrats descend into border infighting</a> Politico: There's now "zero" chance for a comprehensive bill this Congress, one key senator said. But the party has some smaller ideas to fall back on. 
- <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/trump-republicans-first-step-act-00029104">Trump’s criminal justice reform bill becomes persona non grata among GOPers</a> Politico: With rising crime and the approaching midterms, Republicans have moved far past the First Step Act. 
+ <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
+ <a href="https://www.politico.com/news/2022/05/01/democrats-immigration-reform-infighting-00029087">Immigration reform withers as Democrats descend into border infighting</a> Politico: There's now "zero" chance for a comprehensive bill this Congress, one key senator said. But the party has some smaller ideas to fall back on. 
  <p class="updated_time"> 05:47 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/pelosi-concludes-secret-visit-to-ukraine-00029154">Pelosi concludes secret visit to Ukraine</a> Politico: The House speaker, who is second in line to the presidency, is now the highest-ranking U.S. official to visit the war-battered nation since Russia’s invasion began. 
  <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
@@ -314,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/29/1095538077/a-second-oath-keeper-pleaded-guilty-to-seditious-conspiracy-in-the-jan-6-riot">A second Oath Keeper pleaded guilty to seditious conspiracy in the Jan. 6 riot</a> NPR: Brian Ulrich pleaded guilty to seditious conspiracy and obstruction, and agreed to cooperate with government investigators. 
  <p class="updated_time"> 01:30 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/congress-drug-sentencing-bill.html">Drug Sentencing Bill Is in Limbo as Midterm Politics Paralyze Congress</a> NYT: A broadly supported bipartisan measure to eliminate a racial disparity in drug sentencing faces a difficult road as Republicans seek to weaponize the issue of crime against Democrats. 
- <p class="updated_time"> 12:43 PM CT, Apr. 29 </p> 
- <a href="https://www.politico.com/news/2022/04/29/second-oath-keeper-pleads-to-seditious-conspiracy-00028982">Second Oath Keeper pleads to seditious conspiracy</a> Politico: Brian Ulrich is one of 11 Oath Keepers facing the gravest charges to emerge from the Jan. 6 attack. 
  <p class="updated_time"> 11:57 AM CT, Apr. 29 </p> 
  <a href="https://www.politico.com/news/2022/04/29/inside-the-forecast-ohio-and-indiana-kick-off-blitz-of-primary-elections-00028948">Inside the Forecast: Ohio and Indiana kick off blitz of primary elections</a> Politico: POLITICO’s Steve Shepard demystifies this week’s election data in a video series. 
  <p class="updated_time"> 11:49 AM CT, Apr. 29 </p> 
