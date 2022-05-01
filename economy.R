@@ -736,7 +736,8 @@ core <- fredr(series_id = "CPILFENS") %>%
   drop_na()
 data2 <- full_join(data,core) %>%
   select(date,series_id,change) %>%
-  pivot_longer(cols = c(change))
+  pivot_longer(cols = c(change)) %>%
+  select(date, series_id, value)
 
 fig <- hchart(data2, "line", hcaes(x = date,
                                   y = round(value*100, digits = 1),
