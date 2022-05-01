@@ -20,9 +20,11 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src="/interactive/inflation.html" width="100%" height="300"> 
 </iframe>
 
-[![Retail Sales]({{ site.baseurl }}/plots/retail_sales.png)](https://fred.stlouisfed.org/series/RSAFS)
+<iframe src="/interactive/retail_sales.html" width="100%" height="300"> 
+</iframe>
 
-[![Durable Goods]({{ site.baseurl }}/plots/durable_goods.png)](https://fred.stlouisfed.org/series/DGORDER)
+<iframe src="/interactive/durable_goods.html" width="100%" height="300"> 
+</iframe>
 
 <iframe src="/interactive/consumer_sentiment.html" width="100%" height="300"> 
 </iframe>
