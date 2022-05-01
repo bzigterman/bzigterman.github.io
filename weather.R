@@ -264,6 +264,11 @@ daylight <- champaign_forecast_longer %>%
   mutate(sunrise = force_tz(sunrise, tzone = "America/Chicago")) %>%
   mutate(sunset = force_tz(sunset, tzone = "America/Chicago"))
 
+
+champaign_forecast_wider <- all_days %>%
+  select(central_time, sunrise, sunset) %>%
+  full_join(remove_no_precip) 
+
 # facet ----
 ggplot() +
   geom_rect(data = daylight,
