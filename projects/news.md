@@ -9,33 +9,35 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:45 PM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">Ukraine Live Updates: Russia’s Top Officer Visited the East’s Front Line</a> NYT: Speaker Nancy Pelosi visited Ukraine and pledged U.S. support ‘until victory is won.’ An evacuation of civilians from Mariupol was underway. 
+ <p class="updated_time"> 05:29 PM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/2022/05/01/obituaries/regine-dead.html">Régine, Whose Discotheque Gave Nightlife a New Dawn, Dies at 92</a> NYT: Credited with opening the first disco, she built an empire of glittering playgrounds for the Beautiful People in Paris, New York and beyond. 
+ <p class="updated_time"> 05:23 PM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/2022/05/01/world/europe/ukraine-russia-war-pelosi.html">U.S. Talk of ‘Victory’ Against Russia Has Some Allies Nervous</a> NYT: Europeans focused on helping Ukraine withstand the invasion worry that the United States may be “dragging everyone into a different war.” 
  <p class="updated_time"> 05:04 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61294584?at_medium=RSS&at_campaign=KARANGA">Dutch boy, 4, takes mother's car for a joyride</a> BBC: Despite crashing into two parked cars, no one was injured in the youngster's early morning escapade. 
  <p class="updated_time"> 04:54 PM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095839381/new-techno-music-exhibit-transcends-borders">New techno music exhibit transcends borders</a> NPR: A new exhibit set to travel to several cities in the U.S., Canada and Latin America puts a spotlight on techno music, its roots and historical significance. 
- <p class="updated_time"> 04:34 PM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">Ukraine Live Updates: Russia’s Top Officer Visited the East’s Front Line</a> NYT: Speaker Nancy Pelosi visited Ukraine and pledged U.S. support ‘until victory is won.’ An evacuation of civilians from Mariupol was underway. 
+ <p class="updated_time"> 04:53 PM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876">Russia Recasts Ukraine Fight as War With West</a> WSJ: Russia Recasts Ukraine Fight as War With West 
  <p class="updated_time"> 04:30 PM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095830805/russia-ukraine-war-what-happened-today-may-1">Russia-Ukraine war: What happened today (May 1)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:25 PM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876">Russia Recasts Ukraine Fight as War With West</a> WSJ: Russia Recasts Ukraine Fight as War With West 
  <p class="updated_time"> 04:01 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/russian-general-dead-valery-gerasimov.html">U.S. and Ukraine Officials: Top Russian Officer Went to War’s Frontline</a> NYT: The presence of such a high-ranking official on the front lines is highly unusual and comes amid what Western military analysts describe as increasing disarray within Russian forces. 
- <p class="updated_time"> 03:25 PM CT, May. 01 </p> 
+ <p class="updated_time"> 03:53 PM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/europe-to-make-fresh-push-to-revive-iran-nuclear-deal-by-offering-to-send-top-negotiator-back-to-tehran-11651419295">Europe to Make Fresh Push to Revive Iran Nuclear Deal</a> WSJ: Europe to Make Fresh Push to Revive Iran Nuclear Deal 
- <p class="updated_time"> 03:18 PM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/2022/05/01/obituaries/regine-dead.html">Régine, Whose Discotheque Gave Nightlife a New Dawn, Dies at 92</a> NYT: Credited with opening the first disco, she built an empire of glittering playgrounds for the Beautiful People in Paris, New York and beyond. 
+ <p class="updated_time"> 02:53 PM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 02:49 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/afghanistan-isis-attacks.html">ISIS Launches Bloody New Chapter in Afghanistan</a> NYT: At least 100 people have died in terrorist attacks over the past two weeks, as the Islamic State targets minorities in Afghanistan and aims to undermine the Taliban government. 
- <p class="updated_time"> 02:25 PM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 02:22 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/philippines-election-marcos-robredo.html">Ahead of Philippines Election, Young People Rally Around Leni Robredo</a> NYT: As the election in the Philippines nears, tens of thousands of young people who fear another Marcos presidency are rallying around Leni Robredo, the country’s vice president. 
  <p class="updated_time"> 02:18 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61292951?at_medium=RSS&at_campaign=KARANGA">Mariupol civilian evacuation begins to Ukraine and Russia-held territories</a> BBC: Dozens of trapped civilians have been taken to both Ukraine-held and Russia-held territories. 
- <p class="updated_time"> 01:25 PM CT, May. 01 </p> 
+ <p class="updated_time"> 01:53 PM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
- <p class="updated_time"> 12:25 PM CT, May. 01 </p> 
+ <p class="updated_time"> 12:53 PM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/as-inflation-eases-public-debt-load-economists-sound-cautionary-note-11651397401">Economists Leery as Inflation Eases Public Debt Load</a> WSJ: Economists Leery as Inflation Eases Public Debt Load 
  <p class="updated_time"> 12:02 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-61292334?at_medium=RSS&at_campaign=KARANGA">Iraq dust storm: Flights grounded in Baghdad and Najaf as skies turn orange</a> BBC: A dust storm that has covered Iraq in an orange sheet is expected to continue into Monday. 
@@ -46,7 +48,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:49 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/mariupol-steel-plant-evacuation.html">100 Civilians Evacuated From Mariupol Steel Factory, Officials Say</a> NYT: The Ukrainian president said that civilians were being evacuated from the Azovstal steel factory and are headed to a “controlled area.” 
  <p class="updated_time"> 10:10 AM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/2022/05/01/world/middleeast/egypt-ramadan-tv-el-sisi.html">In Egypt’s Big Ramadan TV Drama, the President Is the Hero</a> NYT: President Abdel Fattah el-Sisi says “The Choice” tells the truth about his rise. Critics say it’s a rewriting of recent history from an industry increasingly cowed under his rule. 
+ <a href="https://www.nytimes.com/2022/05/01/world/middleeast/egypt-ramadan-tv-el-sisi.html">In Egypt’s Big Ramadan TV Drama ‘The Choice’, the President Is the Hero</a> NYT: President Abdel Fattah el-Sisi says “The Choice” tells the truth about his rise. Critics say it’s a rewriting of recent history from an industry increasingly cowed under his rule. 
  <p class="updated_time"> 10:05 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html">Started Out as a Fish. How Did It End Up Like This?</a> NYT: A meme about the transitional fossil Tiktaalik argues that although we did come out of the sea, we aren’t doing just fine. 
  <p class="updated_time"> 09:48 AM CT, May. 01 </p> 
@@ -88,7 +90,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:34 AM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61248366?at_medium=RSS&at_campaign=KARANGA">Ghana's e-levy adds 1.5% tax to electronic payments</a> BBC: A new e-levy of 1.5% on all electronic payments comes into force despite widespread opposition. 
  <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/2022/05/01/world/asia/china-covid-zero-xi-jinping.html">Inside China’s Zero-Covid Fortress, Xi Admits No Doubts</a> NYT: As the lockdown of Shanghai and outbreaks in Beijing and elsewhere batter the economy, China’s leader keeps a distance from the politically charged issue. 
+ <a href="https://www.nytimes.com/2022/05/01/world/asia/china-covid-zero-xi-jinping.html">Inside China’s Zero-Covid Fortress, Xi Jinping Admits No Doubts</a> NYT: As the lockdown of Shanghai and outbreaks in Beijing and elsewhere batter the economy, China’s leader keeps a distance from the politically charged issue. 
  <p class="updated_time"> 01:42 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095802509/nancy-pelosi-meets-zelenskyy-kyiv-civilians-leave-mariupol-steel-plant">About 100 civilians escape Mariupol steel plant as Pelosi visits Zelenskyy in Kyiv</a> NPR: The U.N. is helping to evacuate the remaining civilians, officials said Sunday. House Speaker Nancy Pelosi is the most senior U.S. official to visit Kyiv since the war began in February. 
  <p class="updated_time"> 01:03 AM CT, May. 01 </p> 
@@ -209,8 +211,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/europe/bucha-russian-soliders-atrocities.html">Ukraine Identifies Russian Soldiers in Bucha Atrocities</a> NYT: In the first detailed set of allegations since the invasion, Ukrainian officials published the names and photos of Russian soldiers they say tortured civilians in a suburb of Kyiv. 
  <p class="updated_time"> 12:00 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/britain-troops-europe.html">8,000 British Troops to Join Allied Exercises in Eastern Europe, Official Says</a> NYT: The troops will serve in the British-led Joint Expeditionary Force, created in 2014 in response to Russia’s seizure of Crimea from Ukraine. 
- <p class="updated_time"> 08:18 PM CT, Apr. 28 </p> 
- <a href="https://www.nytimes.com/2022/04/28/world/australia/democracy-elections.html">Is Australian Democracy in Decline?</a> NYT: With a federal election just a few weeks away, it’s time to put Australia’s system and political flaws into context. 
 
 
 </details>
@@ -272,8 +272,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/01/trevor-noah-white-house-correspondents-highlights-best-moments-00029073">Trevor Noah's best jokes at the WHCD</a> Politico: The headliner quipped that it was his “great honor” to speak at the “nation’s most distinguished superspreader event.” 
  <p class="updated_time"> 10:33 PM CT, Apr. 30 </p> 
  <a href="https://www.politico.com/news/2022/04/30/american-democracy-is-not-a-reality-show-biden-roasts-and-reflects-at-whcd-00029153">‘American democracy is not a reality show’: Biden roasts, and reflects, at WHCD</a> Politico: Amid the jokes, the president often struck a serious tone. 
- <p class="updated_time"> 06:51 PM CT, Apr. 30 </p> 
- <a href="https://www.politico.com/gallery/2022/04/30/in-photos-2022-white-house-correspondents-dinner-arrivals-00029151">In Photos: 2022 White House Correspondents' Dinner arrivals</a> Politico: The White House Correspondents' Dinner is back after a 2-year absence, with politicos, celebrities and media stars bringing a touch of glam to the Washington Hilton red carpet ahead of remarks by President Joe Biden and comedian Trevor Noah. 
  <p class="updated_time"> 04:34 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/us/politics/documented-dreamers.html">They Grew Up Legally in the U.S., but Can’t Stay After They Turn 21</a> NYT: Children of temporary visa holders who can’t gain permanent residency are one of several groups urging the Biden administration to act on an immigration overhaul. 
  <p class="updated_time"> 03:35 PM CT, Apr. 30 </p> 
