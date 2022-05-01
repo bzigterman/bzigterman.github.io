@@ -9,25 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:15 PM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news">Live Updates: Russia Moves More Troops to Front; Ukraine Faces Fuel Shortages</a> NYT: About 20 women and children evacuated from Mariupol’s embattled Azovstal steel plant, a Ukrainian fighter at the plant said. Grain harvests in Ukraine, known as Europe’s breadbasket, are paralyzed, worsening a food crisis in East Africa. 
+ <p class="updated_time"> 12:09 AM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/live/2022/04/30/world/ukraine-russia-war-news">What Happened on Day 66 of the War in Ukraine</a> NYT: About 20 women and children evacuated from Mariupol’s embattled Azovstal steel plant, a Ukrainian fighter at the plant said. Grain harvests in Ukraine, known as Europe’s breadbasket, are paralyzed, worsening a food crisis in East Africa. 
+ <p class="updated_time"> 11:31 PM CT, Apr. 30 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages</a> WSJ: Ukrainians Suffer Fuel Shortages 
  <p class="updated_time"> 11:11 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/sport/boxing/61263902?at_medium=RSS&at_campaign=KARANGA">Taylor beats Serrano in historic NY fight</a> BBC: Katie Taylor edges Amanda Serrano on points with a split-decision win in an instant classic at Madison Square Garden in New York. 
- <p class="updated_time"> 11:05 PM CT, Apr. 30 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-suffer-gasoline-shortages-after-russian-strikes-on-fuel-infrastructure-11651313479">Ukrainians Suffer Fuel Shortages</a> WSJ: Ukrainians Suffer Fuel Shortages 
  <p class="updated_time"> 11:01 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61288670?at_medium=RSS&at_campaign=KARANGA">White House press dinner returns after two years</a> BBC: The event, which Donald Trump boycotted during his presidency, had been cancelled due to Covid. 
- <p class="updated_time"> 10:05 PM CT, Apr. 30 </p> 
+ <p class="updated_time"> 10:31 PM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/citizens-images-of-potential-war-crimes-in-ukraine-flood-the-internet-but-might-not-hold-up-in-court-11651311001">Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court</a> WSJ: Citizens’ Images of Potential War Crimes in Ukraine Might Not Hold Up in Court 
  <p class="updated_time"> 09:39 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-scythia-gold-museum-russia.html">Ukraine Says Russia Looted Ancient Gold Artifacts From a Museum</a> NYT: According to Ukrainian officials, Russian soldiers, aided by a mysterious expert, broke into a museum and spirited away priceless artifacts from the Scythian empire. 
  <p class="updated_time"> 09:31 PM CT, Apr. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61288641?at_medium=RSS&at_campaign=KARANGA">Guinea to move to civilian rule in three years</a> BBC: The military junta, which took power in a coup last year, gives a timeline for civilian rule. 
- <p class="updated_time"> 09:05 PM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/scarcity-of-medicines-in-mexico-leaves-trail-of-suffering-11651327200">Scarcity of Medicines in Mexico Leaves Trail of Suffering</a> WSJ: Scarcity of Medicines in Mexico Leaves Trail of Suffering 
- <p class="updated_time"> 08:05 PM CT, Apr. 30 </p> 
+ <p class="updated_time"> 09:31 PM CT, Apr. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61288641?at_medium=RSS&at_campaign=KARANGA">Guinea to move to civilian rule in three years</a> BBC: The military junta, which took power in a coup last year, gives a timeline for civilian rule. 
+ <p class="updated_time"> 08:31 PM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracted-further-in-april-11651285563">China’s Manufacturing Activity Pummeled by Covid Restrictions</a> WSJ: China’s Manufacturing Activity Pummeled by Covid Restrictions 
- <p class="updated_time"> 07:05 PM CT, Apr. 30 </p> 
+ <p class="updated_time"> 07:31 PM CT, Apr. 30 </p> 
  <a href="https://www.wsj.com/articles/russias-war-in-ukraine-is-straining-global-economic-cooperation-11651318201">Russia’s Ukraine War Strains Global Economic Cooperation</a> WSJ: Russia’s Ukraine War Strains Global Economic Cooperation 
  <p class="updated_time"> 07:00 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61286505?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Resistance to Russian rouble in Kherson</a> BBC: Russian forces say the currency will be used there from Sunday. But many residents have other ideas. 
@@ -212,6 +212,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:22 AM CT, May. 01 </p> 
+ <a href="https://www.nytimes.com/2022/05/01/us/politics/white-house-correspondents-dinner.html">White House Correspondents’ Dinner Returns With Jokes and a Try for Normalcy</a> NYT: Amid concerns about Covid, President Biden offered some humor and received his own ribbing at the White House Correspondents’ Dinner, a ritual that had gone on hiatus during the pandemic. 
  <p class="updated_time"> 11:25 PM CT, Apr. 30 </p> 
  <a href="https://www.politico.com/news/2022/05/01/trevor-noah-white-house-correspondents-highlights-best-moments-00029073">Trevor Noah's best jokes at the WHCD</a> Politico: The headliner quipped that it was his “great honor” to speak at the “nation’s most distinguished super-spreader event.” 
  <p class="updated_time"> 10:33 PM CT, Apr. 30 </p> 
@@ -278,8 +280,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/29/1095538077/a-second-oath-keeper-pleaded-guilty-to-seditious-conspiracy-in-the-jan-6-riot">A second Oath Keeper pleaded guilty to seditious conspiracy in the Jan. 6 riot</a> NPR: Brian Ulrich pleaded guilty to seditious conspiracy and obstruction, and agreed to cooperate with government investigators. 
  <p class="updated_time"> 01:30 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/congress-drug-sentencing-bill.html">Drug Sentencing Bill Is in Limbo as Midterm Politics Paralyze Congress</a> NYT: A broadly supported bipartisan measure to eliminate a racial disparity in drug sentencing faces a difficult road as Republicans seek to weaponize the issue of crime against Democrats. 
- <p class="updated_time"> 01:17 PM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/28/us/politics/earl-e-devaney-dead.html">Earl E. Devaney, Scourge of Waste and Corruption, Dies at 74</a> NYT: A former football lineman, he pushed back against abuse in federal agencies as one of the government’s most aggressive internal watchdogs. 
  <p class="updated_time"> 01:04 PM CT, Apr. 29 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:43 PM CT, Apr. 29 </p> 
