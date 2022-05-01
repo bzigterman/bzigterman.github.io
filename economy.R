@@ -390,6 +390,11 @@ recent_data <- data %>%
   filter(date > recent_years) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
 
+lang <- getOption("highcharter.lang")
+lang$numericSymbols <- list("k", "M", "B", "T", "P", "E")
+options(highcharter.lang = lang)
+
+
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value*1000000),
               name = "Sales") %>%
@@ -472,6 +477,36 @@ data <- fredr(series_id = "DGORDER") %>%
 recent_data <- data %>%
   filter(date > recent_years) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
+
+lang <- getOption("highcharter.lang")
+lang$numericSymbols <- list("k", "M", "B", "T", "P", "E")
+options(highcharter.lang = lang)
+
+
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = value*1000000),
+              name = "Orders") %>%
+  hc_title(text = "Durable Goods Orders") %>%
+  hc_caption(
+    text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+                 tail(recent_data$short_date,1))) %>%
+  hc_yAxis(title = list(text = "")) %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )%>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
+fig
+saveWidget(widget = fig, file = "interactive/durable_goods.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
 
 ggplot(data, aes(x = date,
                  y = value/1000)) +
@@ -1413,9 +1448,11 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src=\"/interactive/inflation.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-[![Retail Sales]({{ site.baseurl }}/plots/retail_sales.png)](https://fred.stlouisfed.org/series/RSAFS)
+<iframe src=\"/interactive/retail_sales.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
-[![Durable Goods]({{ site.baseurl }}/plots/durable_goods.png)](https://fred.stlouisfed.org/series/DGORDER)
+<iframe src=\"/interactive/durable_goods.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 <iframe src=\"/interactive/consumer_sentiment.html\" width=\"100%\" height=\"300\"> 
 </iframe>
