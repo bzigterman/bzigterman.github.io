@@ -994,7 +994,7 @@ fig <- hchart(data,
                     y = value),
               name = "Total",
               yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 2, heights = c(2, 1),
+  hc_yAxis_multiples(create_axis(naxis = 2, heights = c(1, 1),
                                  title = list(text = NULL))) %>%
   hc_add_series(
     data = data,
@@ -1028,7 +1028,7 @@ fig <- hchart(data,
                      list(type = 'year', count = 5, text = '5y'),
                      list(type = 'year', count = 10, text = '10y'),
                      list(type = 'all', text = 'All')),
-                   selected = 2)
+                   selected = 1)
 
 fig
 saveWidget(widget = fig, file = "interactive/champaign_employment.html",
@@ -1154,7 +1154,7 @@ fig <- hchart(housing_data,
   hc_add_series(
     data = housing_data,
     hcaes(x = date,
-          y = ratio),
+          y = round(ratio, digits = 2)),
     name = "Pending-to-Active Ratio",
     type = "line",
     yAxis = 3) %>%
