@@ -17,27 +17,29 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61294585?at_medium=RSS&at_campaign=KARANGA">Alabama hunt for missing prison inmate and guard</a> BBC: Charged with murder, officials warn the prisoner is considered "armed and extremely dangerous". 
  <p class="updated_time"> 02:59 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/philippines-election-marcos-robredo.html">Ahead of Philippines Election, Young People Rally Around Leni Robredo</a> NYT: As the election in the Philippines nears, tens of thousands of young people who fear another Marcos presidency are rallying around Leni Robredo, the country’s vice president. 
+ <p class="updated_time"> 02:56 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876">Russia Recasts Ukraine Fight as War With West</a> WSJ: Russia Recasts Ukraine Fight as War With West 
  <p class="updated_time"> 02:53 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095860750/new-zealand-welcomes-back-tourists-as-it-eases-pandemic-rules">New Zealand welcomes back tourists as it eases pandemic rules</a> NPR: New Zealand welcomed tourists from the U.S., Canada, Britain, Japan and more than 50 other countries for the first time in more than two years. 
- <p class="updated_time"> 02:43 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876">Russia Recasts Ukraine Fight as War With West</a> WSJ: Russia Recasts Ukraine Fight as War With West 
+ <p class="updated_time"> 02:38 AM CT, May. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61296452?at_medium=RSS&at_campaign=KARANGA">India heatwave: Scorching temperatures affecting poor the most</a> BBC: The heatwave has led to school closures and power shortages in many parts of India. 
  <p class="updated_time"> 02:00 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/uk-asylum-rwanda.html">U.K. Plan to Send Asylum Seekers to Rwanda Stokes Anger and Dread</a> NYT: The government’s proposal has led to recriminations from rights groups, and anxiety among migrants who fear being sent away. 
- <p class="updated_time"> 01:43 AM CT, May. 02 </p> 
+ <p class="updated_time"> 01:56 AM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/china-economy-recession-covid-lockdowns-11651434168">China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth</a> WSJ: China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth 
- <p class="updated_time"> 12:43 AM CT, May. 02 </p> 
+ <p class="updated_time"> 12:56 AM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/europe-to-make-fresh-push-to-revive-iran-nuclear-deal-by-offering-to-send-top-negotiator-back-to-tehran-11651419295">Europe to Make Fresh Push to Revive Iran Nuclear Deal</a> WSJ: Europe to Make Fresh Push to Revive Iran Nuclear Deal 
  <p class="updated_time"> 12:13 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/russian-general-dead-valery-gerasimov.html">U.S. and Ukraine Officials: Top Russian Officer Went to War’s Frontline</a> NYT: The presence of such a high-ranking official on the front lines is highly unusual and comes amid what Western military analysts describe as increasing disarray within Russian forces. 
  <p class="updated_time"> 11:57 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61284964?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Families hide in cellars as Russia targets Donbas region</a> BBC: Those remaining in the Ukrainian city of Lysychansk near the front line live under constant shelling. 
+ <p class="updated_time"> 11:56 PM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 11:44 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61295550?at_medium=RSS&at_campaign=KARANGA">Philippines fire kills eight, including children</a> BBC: The blaze destroyed 80 homes after tearing through a crowded settlement near the capital Manila. 
- <p class="updated_time"> 11:43 PM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 11:40 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61294988?at_medium=RSS&at_campaign=KARANGA">New Zealand reopens to tourists after two-year pandemic lockout</a> BBC: Visitors from 60 countries can now enter the Pacific nation which had sealed its borders since March 2020. 
- <p class="updated_time"> 10:43 PM CT, May. 01 </p> 
+ <p class="updated_time"> 10:56 PM CT, May. 01 </p> 
  <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 10:27 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/29/movies/russia-movie-theaters-piracy.html">In Echo of Soviet Era, Russia’s Movie Theaters Turn to Pirate Screenings</a> NYT: In a Cold War throwback, some venues are showing bootleg versions after Hollywood studios pulled films from the country. Still, viewer numbers have tanked. 
@@ -113,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/01/1094616486/pablo-neruda-question-poems-translated-illustrated-children">Pablo Neruda's question poems, now translated and illustrated for children</a> NPR: Neruda's Book of Questions is well known in Latin American literature. A new bilingual, illustrated selection of his poems gives English-speaking children an opportunity to interrogate the world. 
  <p class="updated_time"> 05:42 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/beijing-china-covid.html">Beijing Escalates Restrictions After Covid Outbreak, but No Full Lockdown</a> NYT: Officials in China’s capital are striving to contain a coronavirus outbreak while avoiding public anger of the kind that has erupted in Shanghai. 
- <p class="updated_time"> 04:34 AM CT, May. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61248366?at_medium=RSS&at_campaign=KARANGA">Ghana's e-levy adds 1.5% tax to electronic payments</a> BBC: A new e-levy of 1.5% on all electronic payments comes into force despite widespread opposition. 
  <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/china-covid-zero-xi-jinping.html">Inside China’s Zero-Covid Fortress, Xi Jinping Admits No Doubts</a> NYT: As the lockdown of Shanghai and outbreaks in Beijing and elsewhere batter the economy, China’s leader keeps a distance from the politically charged issue. 
  <p class="updated_time"> 01:42 AM CT, May. 01 </p> 
@@ -125,12 +125,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/as-inflation-eases-public-debt-load-economists-sound-cautionary-note-11651397401">Economists Leery as Inflation Eases Public Debt Load</a> WSJ: Excessive reliance by governments on rising prices is seen possibly triggering an upward spiral in interest rates. 
  <p class="updated_time"> 09:39 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-scythia-gold-museum-russia.html">Ukraine Says Russia Looted Ancient Gold Artifacts From a Museum</a> NYT: According to Ukrainian officials, Russian soldiers, aided by a mysterious expert, broke into a museum and spirited away priceless artifacts from the Scythian empire. 
- <p class="updated_time"> 06:48 PM CT, Apr. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61251228?at_medium=RSS&at_campaign=KARANGA">Afghan interpreters fear families 'forgotten' by Canada</a> BBC: Former interpreters say their families face major bureaucratic hurdles in effort to reach Canada. 
  <p class="updated_time"> 06:47 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/canada/ontario-cadets-dead-royal-military-college.html">4 Canadian Military Cadets Die After Car Plunges Into River</a> NYT: The men were set to graduate from the Royal Military College in a few weeks, the authorities said. 
- <p class="updated_time"> 06:46 PM CT, Apr. 30 </p> 
- <a href="https://www.bbc.co.uk/news/blogs-trending-61243316?at_medium=RSS&at_campaign=KARANGA">Defecting online: How Myanmar’s soldiers are deserting the army</a> BBC: An underground network armed with Facebook and Telegram accounts is helping those who want to leave. 
  <p class="updated_time"> 06:08 PM CT, Apr. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61047921?at_medium=RSS&at_campaign=KARANGA">Megayachts and oligarchs: ‘We’re scared of getting close to wrong money’</a> BBC: As the West goes after the assets of Russian oligarchs, the ripples are being felt across the industry. 
  <p class="updated_time"> 06:01 PM CT, Apr. 30 </p> 
@@ -151,8 +147,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/europe/biden-russia-scientists.html">Biden Seeks to Lure Russia’s Top Scientists to the U.S.</a> NYT: Legislation proposed by the president would suspend the requirement that Russian scientists have a sponsoring employer to gain a visa. 
  <p class="updated_time"> 11:43 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-russia-attack-denials.html">Ukrainian Official Outlines Intentional Ambiguity on Strikes Inside Russia</a> NYT: The strikes have been one of the most intriguing, and opaque, new elements of the recent fighting. But when it comes to confirming their origins, “we don’t say yes and we don’t say no,’’ said the official. 
- <p class="updated_time"> 10:41 AM CT, Apr. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61286257?at_medium=RSS&at_campaign=KARANGA">Rescue efforts under way after China building collapse</a> BBC: Eighteen people are believed to be trapped after the building fell in China's Hunan Province. 
  <p class="updated_time"> 09:57 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1095759573/british-mp-porn-house-of-commons-neil-parish-resigns">British lawmaker Neil Parish resigning after watching porn in the House of Commons</a> NPR: The member of Parliament says he watched pornography twice in the House of Commons in a "moment of madness." The Conservative Party suspended him Friday over the allegations. 
  <p class="updated_time"> 09:00 AM CT, Apr. 30 </p> 
@@ -173,28 +167,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/europe/civilians-mariupol-azovstal.html">Civilians Keep Arriving at Besieged Steel Complex in Mariupol, Fighters Say</a> NYT: That citizens are still seeking to shelter at the plant, where there is no prospect of escape or rescue, offers a testament to what they must be facing elsewhere in the devastated city. 
  <p class="updated_time"> 04:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/middleeast/miilya-israel-archaeology-crusaders-byzantine.html">Mi’ilya, Christian Village in Israel, Digs Into Crusader Past</a> NYT: The residents of Mi’ilya long wondered what archaeological treasures lay beneath a crumbling castle. Now, some are excavating their homes to find out. 
- <p class="updated_time"> 10:58 PM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-61281895?at_medium=RSS&at_campaign=KARANGA">Tornado captured tearing through city in Kansas</a> BBC: Shocking footage shows a tornado weaving in and out of streets near Andover in the US state of Kansas. 
  <p class="updated_time"> 09:35 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/middleeast/israel-palestine-aqsa-mosque.html">During Ramadan, Palestinians Barred From Aqsa Turn to Smugglers</a> NYT: For Palestinian Muslims, praying at the Aqsa Mosque in Jerusalem is an important part of Ramadan. Those barred by Israel are finding ways to get there anyway. 
  <p class="updated_time"> 08:34 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/europe-ratchets-up-preparation-for-russian-oil-embargo-next-week.html">Amid Hardening Western Resolve, Signs of Russia’s Stalling in Eastern Ukraine</a> NYT: Pentagon officials say the Russian drive in Donbas is being hampered by poor logistics and stiff Ukrainian resistance. 
- <p class="updated_time"> 06:08 PM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/health-61184400?at_medium=RSS&at_campaign=KARANGA">The impact of miscarriage on families around the world</a> BBC: The grief is universal, but the care women receive during pregnancy loss can depend on where they live. 
- <p class="updated_time"> 06:03 PM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61271576?at_medium=RSS&at_campaign=KARANGA">James Corden: How his viral success divided the internet</a> BBC: The host is credited with reinventing late night US TV but also courted controversy - so what's next? 
  <p class="updated_time"> 04:52 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/coronavirus-cases-us.html">Coronavirus Cases Are Rising Across the U.S., but Most Are Mild</a> NYT: Hospitalizations remain low, partly a reflection of greater immunity in the population. 
  <p class="updated_time"> 03:47 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/climate/gas-prices-america.html">Why Americans Became More Vulnerable to Oil Price Spikes</a> NYT: When prices soared years ago, Americans launched broad efforts to wean the nation off oil and gas to protect households from price swings. But then supply rose and plans fizzled. 
- <p class="updated_time"> 02:59 PM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61263360?at_medium=RSS&at_campaign=KARANGA">Dexter Jackson: How it feels to be pardoned by the US president</a> BBC: Dexter Jackson knew he had "a one in a million chance" of being pardoned - but "never lost faith". 
  <p class="updated_time"> 01:01 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ukraine-holocaust-survivors-rescue-germany.html">They Survived the Holocaust. Now, They Are Fleeing to Germany.</a> NYT: A complex operation is underway to evacuate Holocaust survivors from Ukraine. For rescuers and evacuees alike, it means confronting the past. 
  <p class="updated_time"> 12:43 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/frontex-eu-border-agency-fabrice-leggeri.html">Leader of E.U. Border Agency Departs After Accusations of Abuses During His Tenure</a> NYT: The head of the agency, which became emblematic of the bloc’s hardening migration policy, has faced mounting allegations of mismanagement, harassment and human rights abuses at Europe’s borders. 
- <p class="updated_time"> 12:36 PM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61084161?at_medium=RSS&at_campaign=KARANGA">How big are Donald Trump's legal problems?</a> BBC: As he plots his political future, two criminal probes and multiple lawsuits could spell trouble. 
  <p class="updated_time"> 12:09 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/boris-becker-sentenced-bankruptcy.html">Boris Becker Sentenced to Prison for Hiding Assets in Bankruptcy</a> NYT: The former tennis champion was found guilty by a London court on charges related to his 2017 insolvency. 
  <p class="updated_time"> 11:48 AM CT, Apr. 29 </p> 
@@ -203,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/climate/solar-industry-imports.html">Solar Industry ‘Frozen’ as Biden Administration Investigates China</a> NYT: More than 300 solar projects in the United States have been canceled or delayed in recent weeks because of an investigation by the Commerce Department. 
  <p class="updated_time"> 11:21 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/anglo-saxon-kings-diet.html">Anglo-Saxon Kings Made Sure to Eat Their Vegetables, Study Shows</a> NYT: Contrary to popular belief, the ruling classes gorged on meat only on rare occasions, according to an analysis of more than 2,000 skeletons buried during medieval times. 
- <p class="updated_time"> 10:08 AM CT, Apr. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61263794?at_medium=RSS&at_campaign=KARANGA">Depp v Heard: What you might have missed this week</a> BBC: The court hears evidence of personality disorders, drug abuse and a relationship with Elon Musk. 
  <p class="updated_time"> 09:54 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/asia/beijing-covid-outbreak-schools.html">Beijing Closes Schools as It Tries to Contain an Outbreak</a> NYT: The city is heading into a long holiday weekend, and officials are discouraging travel and unnecessary gatherings. 
  <p class="updated_time"> 09:41 AM CT, Apr. 29 </p> 
