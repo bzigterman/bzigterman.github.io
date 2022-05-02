@@ -21,46 +21,46 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61296682?at_medium=RSS&at_campaign=KARANGA">Israel outrage at Sergei Lavrov's claim that Hitler was part Jewish</a> BBC: The Russian foreign minister's claim that Hitler "had Jewish blood" is denounced as unforgiveable. 
  <p class="updated_time"> 04:00 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095963637/russia-ukraine-war-what-happened-today-may-2">Russia-Ukraine war: What happened today (May 2)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:54 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 03:51 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095988641/the-war-in-ukraine-has-the-cost-of-bread-skyrocketing-in-places-like-the-middle-">The war in Ukraine has the cost of bread skyrocketing in places like the Middle East</a> NPR: The war in Ukraine has exacerbated inflation in the Middle East, where countries rely on Russia and Ukraine for imported wheat. 
- <p class="updated_time"> 03:42 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 03:38 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/pelosi-ukraine-russia-sanctions.html">Pelosi Says Russia’s War Merits the Strongest Military Response and Sanctions</a> NYT: Following a visit to Kyiv over the weekend, Speaker Nancy Pelosi held talks in Poland with President Andrzej Duda, a meeting aimed at deepening Washington’s partnership with a key NATO ally. 
  <p class="updated_time"> 03:36 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095988620/why-it-took-nearly-100-years-for-umami-to-be-globally-accepted-as-a-distinct-fla">Why it took nearly 100 years for umami to be globally accepted as a distinct flavor</a> NPR: A Japanese chemist identified umami in the early 1900s, but it took a century for his work to be translated into English. NPR's Short Wave podcast looked into why it took so long to be recognized. 
  <p class="updated_time"> 03:28 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095988599/civilians-and-soldiers-remain-trapped-in-a-mariupol-steel-plant">Civilians and soldiers remain trapped in a Mariupol steel plant</a> NPR: More civilians are being evacuated Monday from a steel facility in Mariupol, Ukraine. But thousands of soldiers remain, many of whom are injured and have been holed up for weeks. 
+ <p class="updated_time"> 02:54 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 02:50 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/ukraine-war-mariupol-escape.html">Sisters Recount Escape From Mariupol as Russians Closed In</a> NYT: The women say they were forced onto a bus to Russian-controlled territory, then escaped what Ukrainian and U.S. officials have described as “filtration” centers for a system of forced expulsions to Russia. 
- <p class="updated_time"> 02:42 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 02:04 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61301911?at_medium=RSS&at_campaign=KARANGA">Amazon will pay US staff travel expenses for abortions and other treatments</a> BBC: The firm will reimburse travel costs for various treatments in the US, including abortion. 
+ <p class="updated_time"> 01:54 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
  <p class="updated_time"> 01:45 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/kyiv-ukraine-russia-war.html">In Kyiv, Residents Cautiously Embrace a Sense of Normalcy</a> NYT: A month after the Ukrainian Army defeated the Russian forces that had partly encircled Ukraine’s capital, tension is slowly seeping out of the city. 
- <p class="updated_time"> 01:42 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
  <p class="updated_time"> 01:29 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-61298791?at_medium=RSS&at_campaign=KARANGA">EU divided over how to step away from Russian energy</a> BBC: EU energy ministers met to discuss a possible ban on Russian oil, but members remain split. 
  <p class="updated_time"> 01:16 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
+ <p class="updated_time"> 12:54 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 12:52 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/hong-kong-inexpensive-dining.html">In Hong Kong, Cheap Dining Options Are All the Rage</a> NYT: In a city pummeled by political upheaval, economic downturn and the pandemic, bare-bones ‘two dishes and rice’ restaurants have become a go-to destination across all social classes. 
- <p class="updated_time"> 12:42 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 12:35 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61301238?at_medium=RSS&at_campaign=KARANGA">Uefa announces further sanctions on Russian clubs and national teams amid Ukraine invasion</a> BBC: Russia is barred from competing in this summer's women's Euro 2022 while Russian clubs will also be banned from Uefa competitions next season. 
  <p class="updated_time"> 12:25 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/asia/pakistan-airstrikes-afghanistan-taliban.html">Pakistani Airstrikes Escalate Conflict on Afghan Border</a> NYT: The airstrikes killed at least 45 people, stoking fears of a violent resurgence of the conflict in eastern Afghanistan, which has become a base for Pakistani militants. 
  <p class="updated_time"> 12:16 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/rohingya-bangladesh-school-closings.html">Bangladesh Shutters Dozens of Schools Set Up by Rohingya in Camps</a> NYT: More than 30 schools, teaching tens of thousands of Rohingya students, were closed in Bangladesh, where officials are said to have feared the schools would encourage the refugees to stay permanently. 
+ <p class="updated_time"> 11:54 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 11:46 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095926607/lavrov-israel-zelenskyy-hitler">Israel slams Russia's foreign minister for comparing Zelenskyy to Hitler</a> NPR: Israeli officials are calling for an apology after Sergey Lavrov said the Hitler "had Jewish origins." It's the strongest condemnation of Russia by Israel since the war in Ukraine began in February. 
  <p class="updated_time"> 11:44 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61294585?at_medium=RSS&at_campaign=KARANGA">Alabama hunt for missing prison inmate and guard</a> BBC: Police now believe the guard helped organise the escape and have issued a warrant for her arrest. 
- <p class="updated_time"> 11:42 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 11:38 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-61300874?at_medium=RSS&at_campaign=KARANGA">EU accuses Apple of breaking competition law over contactless payments</a> BBC: The US tech giant denies it is restricting rivals' access to its mobile payments technology. 
  <p class="updated_time"> 11:34 AM CT, May. 02 </p> 
@@ -187,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/europe/civilians-mariupol-azovstal.html">Civilians Keep Arriving at Besieged Steel Complex in Mariupol, Fighters Say</a> NYT: That citizens are still seeking to shelter at the plant, where there is no prospect of escape or rescue, offers a testament to what they must be facing elsewhere in the devastated city. 
  <p class="updated_time"> 04:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/middleeast/miilya-israel-archaeology-crusaders-byzantine.html">Mi’ilya, Christian Village in Israel, Digs Into Crusader Past</a> NYT: The residents of Mi’ilya long wondered what archaeological treasures lay beneath a crumbling castle. Now, some are excavating their homes to find out. 
- <p class="updated_time"> 04:52 PM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/world/coronavirus-cases-us.html">Coronavirus Cases Are Rising Across the U.S., but Most Are Mild</a> NYT: Hospitalizations remain low, partly a reflection of greater immunity in the population. 
 
 
 </details>
