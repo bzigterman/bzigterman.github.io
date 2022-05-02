@@ -1871,7 +1871,7 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">823K</td>
-<td class="gt_row gt_right">601K</td>
+<td class="gt_row gt_right">600K</td>
 <td class="gt_row gt_right">&minus;27%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">3K</td>
@@ -1905,7 +1905,7 @@ As of Sunday, the 14-day percent change in average new cases was:
   
 - -22% in Champaign County
 - 75% in Illinois
-- 71% in the United States
+- 69% in the United States
 - -27% worldwide
 
 <picture>
