@@ -9,8 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:20 PM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">Live Updates: West Works to Put Ukraine Pledges Into Action</a> NYT: Europe was discussing moving away from Russian energy sources, while in Washington, the Senate was expected soon to take up President Biden’s $33 billion aid package for Ukraine. Speaker Nancy Pelosi, visiting Poland, said Russia’s war required the “strongest possible” response. 
+ <p class="updated_time"> 04:40 PM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">Live Updates: West Works to Put Ukraine Pledges Into Action</a> NYT: Civilians continued evacuating from Mariupol with accounts of life under siege. A senior U.S. diplomat warned that Russia appeared to be preparing to annex two regions in eastern Ukraine and possibly a third in the south. 
+ <p class="updated_time"> 04:38 PM CT, May. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61296851?at_medium=RSS&at_campaign=KARANGA">Russia attacking Mariupol steelworks after evacuations, says Ukraine commander</a> BBC: A Ukrainian commander at the Azovstal plant says hundreds are stuck there, despite evacuations on Sunday. 
+ <p class="updated_time"> 04:33 PM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/world/europe/mariupol-evacuation-annex-donbas.html">Painful Stories Emerge From Mariupol, While Combat Rages to the East</a> NYT: With its forces making only slow progress and enduring heavy losses, Russia now plans to annex eastern parts of Ukraine after a sham election, the U.S. says. 
  <p class="updated_time"> 04:15 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/russia-invasion-ukraine-elections.html">Russia Plans to Annex Parts of Ukraine with ‘Sham’ Elections, U.S. Diplomat Says</a> NYT: The official said that Russia may also try to take over parts of Ukraine by imposing “puppets and proxies” in local governments and forcing out democratically elected officials. 
  <p class="updated_time"> 04:07 PM CT, May. 02 </p> 
@@ -19,36 +23,34 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/02/1095963637/russia-ukraine-war-what-happened-today-may-2">Russia-Ukraine war: What happened today (May 2)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:51 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095988641/the-war-in-ukraine-has-the-cost-of-bread-skyrocketing-in-places-like-the-middle-">The war in Ukraine has the cost of bread skyrocketing in places like the Middle East</a> NPR: The war in Ukraine has exacerbated inflation in the Middle East, where countries rely on Russia and Ukraine for imported wheat. 
- <p class="updated_time"> 03:39 PM CT, May. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61296851?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Hundreds trapped in Mariupol steelworks despite evacuations</a> BBC: A Ukrainian commander at the Azovstal plant says hundreds are stuck and Russia has resumed shelling. 
+ <p class="updated_time"> 03:42 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 03:38 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/pelosi-ukraine-russia-sanctions.html">Pelosi Says Russia’s War Merits the Strongest Military Response and Sanctions</a> NYT: Following a visit to Kyiv over the weekend, Speaker Nancy Pelosi held talks in Poland with President Andrzej Duda, a meeting aimed at deepening Washington’s partnership with a key NATO ally. 
  <p class="updated_time"> 03:36 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095988620/why-it-took-nearly-100-years-for-umami-to-be-globally-accepted-as-a-distinct-fla">Why it took nearly 100 years for umami to be globally accepted as a distinct flavor</a> NPR: A Japanese chemist identified umami in the early 1900s, but it took a century for his work to be translated into English. NPR's Short Wave podcast looked into why it took so long to be recognized. 
  <p class="updated_time"> 03:28 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
- <p class="updated_time"> 03:28 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095988599/civilians-and-soldiers-remain-trapped-in-a-mariupol-steel-plant">Civilians and soldiers remain trapped in a Mariupol steel plant</a> NPR: More civilians are being evacuated Monday from a steel facility in Mariupol, Ukraine. But thousands of soldiers remain, many of whom are injured and have been holed up for weeks. 
  <p class="updated_time"> 02:50 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/ukraine-war-mariupol-escape.html">Sisters Recount Escape From Mariupol as Russians Closed In</a> NYT: The women say they were forced onto a bus to Russian-controlled territory, then escaped what Ukrainian and U.S. officials have described as “filtration” centers for a system of forced expulsions to Russia. 
- <p class="updated_time"> 02:28 PM CT, May. 02 </p> 
+ <p class="updated_time"> 02:42 PM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 02:04 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61301911?at_medium=RSS&at_campaign=KARANGA">Amazon will pay US staff travel expenses for abortions and other treatments</a> BBC: The firm will reimburse travel costs for various treatments in the US, including abortion. 
  <p class="updated_time"> 01:45 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/kyiv-ukraine-russia-war.html">In Kyiv, Residents Cautiously Embrace a Sense of Normalcy</a> NYT: A month after the Ukrainian Army defeated the Russian forces that had partly encircled Ukraine’s capital, tension is slowly seeping out of the city. 
+ <p class="updated_time"> 01:42 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
  <p class="updated_time"> 01:29 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-61298791?at_medium=RSS&at_campaign=KARANGA">EU divided over how to step away from Russian energy</a> BBC: EU energy ministers met to discuss a possible ban on Russian oil, but members remain split. 
- <p class="updated_time"> 01:28 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
  <p class="updated_time"> 01:16 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
  <p class="updated_time"> 12:52 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/hong-kong-inexpensive-dining.html">In Hong Kong, Cheap Dining Options Are All the Rage</a> NYT: In a city pummeled by political upheaval, economic downturn and the pandemic, bare-bones ‘two dishes and rice’ restaurants have become a go-to destination across all social classes. 
+ <p class="updated_time"> 12:42 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 12:35 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61301238?at_medium=RSS&at_campaign=KARANGA">Uefa announces further sanctions on Russian clubs and national teams amid Ukraine invasion</a> BBC: Russia is barred from competing in this summer's women's Euro 2022 while Russian clubs will also be banned from Uefa competitions next season. 
- <p class="updated_time"> 12:28 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 12:25 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/asia/pakistan-airstrikes-afghanistan-taliban.html">Pakistani Airstrikes Escalate Conflict on Afghan Border</a> NYT: The airstrikes killed at least 45 people, stoking fears of a violent resurgence of the conflict in eastern Afghanistan, which has become a base for Pakistani militants. 
  <p class="updated_time"> 12:16 PM CT, May. 02 </p> 
@@ -57,12 +59,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/02/1095926607/lavrov-israel-zelenskyy-hitler">Israel slams Russia's foreign minister for comparing Zelenskyy to Hitler</a> NPR: Israeli officials are calling for an apology after Sergey Lavrov said the Hitler "had Jewish origins." It's the strongest condemnation of Russia by Israel since the war in Ukraine began in February. 
  <p class="updated_time"> 11:44 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61294585?at_medium=RSS&at_campaign=KARANGA">Alabama hunt for missing prison inmate and guard</a> BBC: Police now believe the guard helped organise the escape and have issued a warrant for her arrest. 
+ <p class="updated_time"> 11:42 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 11:38 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-61300874?at_medium=RSS&at_campaign=KARANGA">EU accuses Apple of breaking competition law over contactless payments</a> BBC: The US tech giant denies it is restricting rivals' access to its mobile payments technology. 
  <p class="updated_time"> 11:34 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/ukraine-bucha-russia-atrocities.html">They Fell Deeply in Love in Bucha. One Russian Bullet Ended It All.</a> NYT: Over nearly two decades, Iryna Abramova and her husband, Oleh, built a life of love and happiness. Now, she says, she wishes the Russian soldiers had shot her, too. 
- <p class="updated_time"> 11:28 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 11:09 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-russia-attack-denials.html">Ukrainian Official Outlines Intentional Ambiguity on Strikes Inside Russia</a> NYT: The strikes have been one of the most intriguing, and opaque, new elements of the recent fighting. But when it comes to confirming their origins, “we don’t say yes and we don’t say no,’’ said the official. 
  <p class="updated_time"> 11:02 AM CT, May. 02 </p> 
@@ -73,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/02/world/beijing-isolation-center-lockdown.html">Beijing Reopens Mass Isolation Center In Attempt to Avoid Broad Lockdown</a> NYT: While the Chinese capital has recorded only a few hundred cases in recent weeks, the move to reopen the facility appears to be aimed at avoiding the fate of Shanghai. 
  <p class="updated_time"> 09:30 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/spain-prime-minister-pegasus-spyware.html">Spain Says Cellphones of Prime Minister and Defense Minister Were Hacked</a> NYT: Officials said the devices were breached by the Pegasus spyware, made by an Israeli company, which is intended to track illegal behavior but has been misused by some governments. 
- <p class="updated_time"> 09:01 AM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html">Started Out as a Fish. How Did It End Up Like This?</a> NYT: A meme about the transitional fossil Tiktaalik argues that although we did come out of the sea, we aren’t doing just fine. 
  <p class="updated_time"> 08:54 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/mariupol-evacuation-steel-plant-ukraine.html">Women and Children Evacuated Out of Mariupol’s Azovstal Steel Plant</a> NYT: A Ukrainian commander and Russian news agencies said about 20 civilians were able to leave the steel factory in the besieged city of Mariupol. An unknown number of civilians remains at the plant. 
  <p class="updated_time"> 08:42 AM CT, May. 02 </p> 
@@ -282,8 +282,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/01/1095809160/politics-chat-bidens-ratings-down-over-ukraine-midterms-begin-in-indiana-and-ohi">Politics chat: Biden's ratings down over Ukraine; midterms begin in Indiana and Ohio</a> NPR: An NPR/PBS NewsHour/Marist poll shows that ratings for President Biden's handling of the Ukraine crisis has declined. Also, election primaries begin in Indiana and Ohio this week. 
  <p class="updated_time"> 07:06 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809118/primary-season-begins-with-indiana-and-ohio">Primary season begins with Indiana and Ohio</a> NPR: As Congressional primaries begin in earnest this month, both centrist and progressive Democrats argue they will have a better chance of winning against Republicans in November. 
- <p class="updated_time"> 06:01 AM CT, May. 01 </p> 
- <a href="https://www.politico.com/news/2022/05/01/florida-lost-70-000-people-to-covid-its-still-not-prepared-for-the-next-wave-00029091">Florida lost 70,000 people to Covid. It’s still not prepared for the next wave.</a> Politico: A report by the Florida Hospital Association estimates 70 percent of Florida hospitals are facing a critical staffing shortage, and the state will be short 60,000 nurses by 2035. 
  <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/democrats-immigration-reform-infighting-00029087">Immigration reform withers as Democrats descend into border infighting</a> Politico: There's now "zero" chance for a comprehensive bill this Congress, one key senator said. But the party has some smaller ideas to fall back on. 
  <p class="updated_time"> 05:47 AM CT, May. 01 </p> 
