@@ -9,34 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:55 PM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">Live Updates: West Works to Put Ukraine Pledges Into Action</a> NYT: Europe was discussing moving away from Russian energy sources, while in Washington, the Senate was expected soon to take up President Biden’s $33 billion aid package for Ukraine. Speaker Nancy Pelosi, visiting Poland, said Russia’s war required the “strongest possible” response. 
+ <p class="updated_time"> 02:50 PM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/world/europe/ukraine-war-mariupol-escape.html">Sisters Recount Escape From Mariupol as Russians Closed In</a> NYT: The women say they were forced onto a bus to Russian-controlled territory, then escaped what Ukrainian and U.S. officials have described as “filtration” centers for a system of forced expulsions to Russia. 
  <p class="updated_time"> 02:04 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61301911?at_medium=RSS&at_campaign=KARANGA">Amazon will pay US staff travel expenses for abortions and other treatments</a> BBC: The firm will reimburse travel costs for various treatments in the US, including abortion. 
- <p class="updated_time"> 01:48 PM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">Live Updates: West Works to Put Ukraine Pledges Into Action</a> NYT: Europe was discussing moving away from Russian energy sources, while in Washington, the Senate was expected soon to take up President Biden’s $33 billion aid package for Ukraine. Speaker Nancy Pelosi, visiting Poland, said Russia’s war required the “strongest possible” response. 
+ <p class="updated_time"> 01:56 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 01:45 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/kyiv-ukraine-russia-war.html">In Kyiv, Residents Cautiously Embrace a Sense of Normalcy</a> NYT: A month after the Ukrainian Army defeated the Russian forces that had partly encircled Ukraine’s capital, tension is slowly seeping out of the city. 
- <p class="updated_time"> 01:43 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 01:29 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-61298791?at_medium=RSS&at_campaign=KARANGA">EU divided over how to step away from Russian energy</a> BBC: EU energy ministers met to discuss a possible ban on Russian oil, but members remain split. 
  <p class="updated_time"> 01:16 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
+ <p class="updated_time"> 12:56 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 12:52 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/hong-kong-inexpensive-dining.html">In Epicurean Hong Kong, a Humble $4 Lunchbox Is Now All the Rage</a> NYT: In a city pummeled by political upheaval, economic downturn and the pandemic, bare-bones ‘two dishes and rice’ restaurants have become a go-to destination across all social classes. 
- <p class="updated_time"> 12:43 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 12:35 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61301238?at_medium=RSS&at_campaign=KARANGA">Uefa announces further sanctions on Russian clubs and national teams amid Ukraine invasion</a> BBC: Russia is barred from competing in this summer's women's Euro 2022 while Russian clubs will also be banned from Uefa competitions next season. 
  <p class="updated_time"> 12:25 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/asia/pakistan-airstrikes-afghanistan-taliban.html">Pakistani Airstrikes Escalate Conflict on Afghan Border</a> NYT: The airstrikes killed at least 45 people, stoking fears of a violent resurgence of the conflict in eastern Afghanistan, which has become a base for Pakistani militants. 
  <p class="updated_time"> 12:16 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/rohingya-bangladesh-school-closings.html">Bangladesh Shutters Dozens of Schools Set Up by Rohingya in Camps</a> NYT: More than 30 schools, teaching tens of thousands of Rohingya students, were closed in Bangladesh, where officials are said to have feared the schools would encourage the refugees to stay permanently. 
+ <p class="updated_time"> 11:56 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
  <p class="updated_time"> 11:46 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095926607/lavrov-israel-zelenskyy-hitler">Israel slams Russia's foreign minister for comparing Zelenskyy to Hitler</a> NPR: Israeli officials are calling for an apology after Sergey Lavrov said the Hitler "had Jewish origins." It's the strongest condemnation of Russia by Israel since the war in Ukraine began in February. 
  <p class="updated_time"> 11:44 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61294585?at_medium=RSS&at_campaign=KARANGA">Alabama hunt for missing prison inmate and guard</a> BBC: Police now believe the guard helped organise the escape and have issued a warrant for her arrest. 
- <p class="updated_time"> 11:43 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/israel-condemns-russian-foreign-ministers-comparison-of-zelensky-to-hitler-11651490079">Russia-Israel Ties Strained After Moscow’s Top Diplomat Accuses Jews of Anti-Semitism</a> WSJ: Russia-Israel Ties Strained After Moscow’s Top Diplomat Accuses Jews of Anti-Semitism 
  <p class="updated_time"> 11:38 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-61300874?at_medium=RSS&at_campaign=KARANGA">EU accuses Apple of breaking competition law over contactless payments</a> BBC: The US tech giant denies it is restricting rivals' access to its mobile payments technology. 
  <p class="updated_time"> 11:34 AM CT, May. 02 </p> 
@@ -45,19 +47,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-russia-attack-denials.html">Ukrainian Official Outlines Intentional Ambiguity on Strikes Inside Russia</a> NYT: The strikes have been one of the most intriguing, and opaque, new elements of the recent fighting. But when it comes to confirming their origins, “we don’t say yes and we don’t say no,’’ said the official. 
  <p class="updated_time"> 11:02 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61300036?at_medium=RSS&at_campaign=KARANGA">Weather students die in crash after tornado chase</a> BBC: The three students crashed in wet weather, shortly after posting videos of a tornado in Kansas. 
+ <p class="updated_time"> 10:56 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 10:55 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61296851?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Hundreds trapped in Mariupol steelworks despite evacuations</a> BBC: A Ukrainian commander at the Azovstal plant says hundreds are stuck and Russia has resumed shelling. 
  <p class="updated_time"> 10:46 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095921716/angelina-jolie-lviv-ukraine-refugees-volunteers-children">Angelina Jolie met with refugees and volunteers during a surprise visit to Lviv</a> NPR: The actress and U.N. Special Envoy for refugees spoke with recent evacuees arriving by train in the western Ukraine city, as well as children being treated for injuries from a recent Russian attack. 
  <p class="updated_time"> 10:43 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/pelosi-ukraine-russia-sanctions.html">Pelosi Says Russia’s War Merits the Strongest Military Response and Sanctions</a> NYT: Following a visit to Kyiv over the weekend, Nancy Pelosi held talks in Poland with President Andrzej Duda, a meeting aimed at deepening Washington’s partnership with a key NATO ally. 
- <p class="updated_time"> 10:43 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 10:25 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/beijing-isolation-center-lockdown.html">Beijing Reopens Mass Isolation Center In Attempt to Avoid Broad Lockdown</a> NYT: While the Chinese capital has recorded only a few hundred cases in recent weeks, the move to reopen the facility appears to be aimed at avoiding the fate of Shanghai. 
- <p class="updated_time"> 09:58 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: The Palestinian militant group has stepped up a campaign urging Palestinians in the West Bank and Israel to attack Jews in the wake of clashes between Israeli security forces and Muslims around the Al Aqsa mosque in Jerusalem’s Old City. 
- <p class="updated_time"> 09:43 AM CT, May. 02 </p> 
+ <p class="updated_time"> 09:56 AM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 09:30 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/spain-prime-minister-pegasus-spyware.html">Spain Says Cellphones of Prime Minister and Defense Minister Were Hacked</a> NYT: Officials said the devices were breached by the Pegasus spyware, made by an Israeli company, which is intended to track illegal behavior but has been misused by some governments. 
@@ -91,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61297292?at_medium=RSS&at_campaign=KARANGA">Orange skies as Iraq hit by dust storm</a> BBC: Experts say the storms are increasing in frequency due to drought and declining rainfall. 
  <p class="updated_time"> 04:00 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1094894360/mazel-tov-cocktail-party-take-an-ounce-of-hip-hop-dash-of-polka-then-square-danc">Mazel Tov Cocktail Party: Take an ounce of hip hop, dash of polka, then square dance</a> NPR: Finding a thriving dance culture in the Adirondacks Mountains inspired the band to take its sound in an unexpected direction. 
- <p class="updated_time"> 04:00 AM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/world/europe/ukraine-war-mariupol-escape.html">Sisters Recount Escape From Mariupol as Russians Closed In</a> NYT: The women say they were forced onto a bus to Russian-controlled territory, then escaped what Ukrainian and U.S. officials have described as “filtration” centers for a system of forced expulsions to Russia. 
  <p class="updated_time"> 03:11 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61297026?at_medium=RSS&at_campaign=KARANGA">Emotional reunions as New Zealand reopens to tourists</a> BBC: The country has reopened its borders to visitors after a pandemic lockout of more than two years. 
  <p class="updated_time"> 02:59 AM CT, May. 02 </p> 
