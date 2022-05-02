@@ -9,52 +9,56 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:37 AM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">Live Updates: West Works to Put Ukraine Pledges Into Action</a> NYT: Europe was discussing moving away from Russian energy sources, while in Washington, the Senate was expected soon to take up President Biden’s $33 billion aid package for Ukraine. Speaker Nancy Pelosi, visiting Poland, said Russia’s war required the “strongest possible” response. 
+ <p class="updated_time"> 11:34 AM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/world/asia/ukraine-bucha-russia-atrocities.html">They Fell Deeply in Love in Bucha. One Russian Bullet Ended It All.</a> NYT: Over nearly two decades, Iryna Abramova and her husband, Oleh, built a life of love and happiness. Now, she says, she wishes the Russian soldiers had shot her, too. 
+ <p class="updated_time"> 11:31 AM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/world/asia/rohingya-bangladesh-school-closings.html">Bangladesh Shutters Dozens of Schools Set Up by Rohingya in Camps</a> NYT: More than 30 schools, teaching tens of thousands of Rohingya students, were closed in Bangladesh, where officials are said to have feared the schools would encourage the refugees to stay permanently. 
+ <p class="updated_time"> 11:09 AM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-russia-attack-denials.html">Ukrainian Official Outlines Intentional Ambiguity on Strikes Inside Russia</a> NYT: The strikes have been one of the most intriguing, and opaque, new elements of the recent fighting. But when it comes to confirming their origins, “we don’t say yes and we don’t say no,’’ said the official. 
+ <p class="updated_time"> 11:02 AM CT, May. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61300036?at_medium=RSS&at_campaign=KARANGA">Weather students die in crash after tornado chase</a> BBC: The three students crashed in wet weather, shortly after posting videos of a tornado in Kansas. 
  <p class="updated_time"> 10:55 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61296851?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Hundreds trapped in Mariupol steelworks despite evacuations</a> BBC: A Ukrainian commander at the Azovstal plant says hundreds are stuck and Russia has resumed shelling. 
- <p class="updated_time"> 10:48 AM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">Live Updates: West Works to Put Ukraine Pledges Into Action</a> NYT: Europe was discussing moving away from Russian energy sources, while in Washington, the Senate was expected soon to take up President Biden’s $33 billion aid package for Ukraine. Speaker Nancy Pelosi, visiting Poland, said Russia’s war required the “strongest possible” response. 
  <p class="updated_time"> 10:46 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095921716/angelina-jolie-lviv-ukraine-refugees-volunteers-children">Angelina Jolie met with refugees and volunteers during a surprise visit to Lviv</a> NPR: The actress and U.N. Special Envoy for refugees spoke with recent evacuees arriving by train in the western Ukraine city, as well as children being treated for injuries from a recent Russian attack. 
+ <p class="updated_time"> 10:45 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 10:43 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/pelosi-ukraine-russia-sanctions.html">Pelosi Says Russia’s War Merits the Strongest Military Response and Sanctions</a> NYT: Following a visit to Kyiv over the weekend, Nancy Pelosi held talks in Poland with President Andrzej Duda, a meeting aimed at deepening Washington’s partnership with a key NATO ally. 
  <p class="updated_time"> 10:25 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/beijing-isolation-center-lockdown.html">Beijing Reopens Mass Isolation Center In Attempt to Avoid Broad Lockdown</a> NYT: While the Chinese capital has recorded only a few hundred cases in recent weeks, the move to reopen the facility appears to be aimed at avoiding the fate of Shanghai. 
- <p class="updated_time"> 10:03 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
- <p class="updated_time"> 09:50 AM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/world/asia/ukraine-bucha-russia-atrocities.html">They Fell Deeply in Love in Bucha. One Russian Bullet Ended It All.</a> NYT: Over nearly two decades, Iryna Abramova and her husband, Oleh, built a life of love and happiness. Now, she says, she wishes the Russian soldiers had shot her, too. 
- <p class="updated_time"> 09:36 AM CT, May. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61300036?at_medium=RSS&at_campaign=KARANGA">Weather students die in crash after tornado chase</a> BBC: The three students crashed in wet weather, shortly after posting videos of a tornado in Kansas. 
+ <p class="updated_time"> 09:45 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/china-economy-recession-covid-lockdowns-11651434168">China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth</a> WSJ: China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth 
  <p class="updated_time"> 09:30 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/spain-prime-minister-pegasus-spyware.html">Spain Says Cellphones of Prime Minister and Defense Minister Were Hacked</a> NYT: Officials said the devices were breached by the Pegasus spyware, made by an Israeli company, which is intended to track illegal behavior but has been misused by some governments. 
- <p class="updated_time"> 09:03 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/china-economy-recession-covid-lockdowns-11651434168">China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth</a> WSJ: China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth 
  <p class="updated_time"> 09:01 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html">Started Out as a Fish. How Did It End Up Like This?</a> NYT: A meme about the transitional fossil Tiktaalik argues that although we did come out of the sea, we aren’t doing just fine. 
  <p class="updated_time"> 08:54 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/mariupol-evacuation-steel-plant-ukraine.html">Women and Children Evacuated Out of Mariupol’s Azovstal Steel Plant</a> NYT: A Ukrainian commander and Russian news agencies said about 20 civilians were able to leave the steel factory in the besieged city of Mariupol. An unknown number of civilians remains at the plant. 
  <p class="updated_time"> 08:54 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61296682?at_medium=RSS&at_campaign=KARANGA">Israel outrage at Sergei Lavrov's claim that Hitler was part Jewish</a> BBC: The Russian foreign minister's claim that Hitler "had Jewish blood" is denounced as unforgiveable. 
+ <p class="updated_time"> 08:45 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 08:42 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/israel-russian-foreign-minister-sergey-lavrov.html">Israel Condemns Russian Foreign Minister Lavrov’s Comments as Antisemitic</a> NYT: Israel’s response is among the fiercest criticism it has leveled at the Russian government since the invasion of Ukraine. 
  <p class="updated_time"> 08:21 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095844331/ukraine-is-the-focus-but-russian-troops-are-in-several-ex-soviet-republics">Ukraine is the focus, but Russian troops are in several ex-Soviet republics</a> NPR: Russian forces have been active in multiple former Soviet republics this year, a reflection of Russian leader Vladimir Putin's desire to maintain a 'sphere of influence' beyond Russia's borders. 
  <p class="updated_time"> 08:15 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61294894?at_medium=RSS&at_campaign=KARANGA">Qantas promises direct flights from Sydney to London and New York</a> BBC: Australia's carrier says its new fleet will be capable of direct flights to any city in the world. 
- <p class="updated_time"> 08:03 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
+ <p class="updated_time"> 07:45 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 07:33 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/oligarch-putin-oleg-tinkov.html">Russian Tycoon Criticized Putin’s War. Retribution Was Swift.</a> NYT: Oleg Tinkov spoke out against his country’s war in Ukraine. Now he is in hiding. In an exclusive interview he said, “I don’t believe in Russia’s future’’ under Vladimir Putin. 
  <p class="updated_time"> 07:27 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095008257/estonia-nato-cyber-war-games-russia">Estonia hosts NATO-led cyber war games, with one eye on Russia</a> NPR: Estonia is host to one of the world's largest annual interactive cybersecurity drills. Russia is always considered the main threat, but this year, the war in Ukraine has only added to the stakes. 
  <p class="updated_time"> 07:10 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/africa/south-africa-surge-variants.html">South Africa’s latest surge is a possible preview of the pandemic’s next chapter.</a> NYT: The spread of two newly discovered subvariants has doctors watching closely. 
- <p class="updated_time"> 07:03 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
+ <p class="updated_time"> 06:45 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-residents-protest-lockdown-with-marches-smashed-vegetables-and-art-projects-11651483851">Shanghai Residents Protest Lockdown With Marches, Smashed Vegetables and Art Projects</a> WSJ: Shanghai Residents Protest Lockdown With Marches, Smashed Vegetables and Art Projects 
  <p class="updated_time"> 06:42 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61297538?at_medium=RSS&at_campaign=KARANGA">Haiti gang holding kidnapped diplomat for ransom</a> BBC: A gang infamous for kidnapping foreigners has seized a diplomat from the Dominican Republic. 
- <p class="updated_time"> 06:03 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/shanghai-residents-protest-lockdown-with-marches-smashed-vegetables-and-art-projects-11651483851">Shanghai Residents Protest Lockdown With Marches, Smashed Vegetables and Art Projects</a> WSJ: Shanghai Residents Protest Lockdown With Marches, Smashed Vegetables and Art Projects 
  <p class="updated_time"> 05:45 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61296810?at_medium=RSS&at_campaign=KARANGA">South Africa's Cyril Ramaphosa abandons May Day rally after booing</a> BBC: President Ramaphosa was forced to leave a May Day event after angry workers stormed the stage. 
  <p class="updated_time"> 05:16 AM CT, May. 02 </p> 
@@ -161,8 +165,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/30/world/middleeast/muslims-digital-prayer-rings.html">Some Muslims Are Using Digital Rings to Count Recitations</a> NYT: Much like the fitness tools that count steps, these electronic devices help keep a record of the day’s religious recitations. 
  <p class="updated_time"> 12:24 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/biden-russia-scientists.html">Biden Seeks to Lure Russia’s Top Scientists to the U.S.</a> NYT: Legislation proposed by the president would suspend the requirement that Russian scientists have a sponsoring employer to gain a visa. 
- <p class="updated_time"> 11:43 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-russia-attack-denials.html">Ukrainian Official Outlines Intentional Ambiguity on Strikes Inside Russia</a> NYT: The strikes have been one of the most intriguing, and opaque, new elements of the recent fighting. But when it comes to confirming their origins, “we don’t say yes and we don’t say no,’’ said the official. 
  <p class="updated_time"> 09:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/ukraine-fuel-shortages-russia.html">Ukraine Grapples With Fuel Shortages After Russian Attacks</a> NYT: Officials in Kyiv have urged residents to use public transportation rather than private vehicles in an effort to save fuel for the military. 
  <p class="updated_time"> 08:16 AM CT, Apr. 30 </p> 
@@ -200,14 +202,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:38 AM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/business/spirit-airlines-rejects-jetblue-offer.html">Spirit Airlines Rejects JetBlue’s Offer</a> NYT: The airline said regulators would be skeptical of letting the companies merge as long as JetBlue is in a partnership with American Airlines. 
+ <p class="updated_time"> 11:14 AM CT, May. 02 </p> 
+ <a href="https://www.politico.com/news/2022/05/02/ufo-briefings-congress-pentagon-00029315">The UFO briefings on Capitol Hill have begun. Lawmakers aren’t impressed.</a> Politico: Agencies need to “take this issue much more seriously,” one aide said. 
+ <p class="updated_time"> 11:00 AM CT, May. 02 </p> 
+ <a href="https://www.npr.org/2022/05/02/1095521376/jan-6-panel-asks-three-new-house-republicans-to-testify-voluntarily">Jan. 6 panel asks three new House Republicans to testify voluntarily</a> NPR: The panel investigating the attack on the Capitol asked U.S. Reps. Andy Biggs of Arizona, Mo Brooks of Alabama and Ronny Jackson of Texas to appear. 
  <p class="updated_time"> 10:57 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/gop-lawmakers-testimony-capitol-riot-00029322">Jan. 6 committee asks three pro-Trump GOP lawmakers for testimony</a> Politico: Reps. Andy Biggs (R-Ariz.), Ronny Jackson (R-Texas) and Mo Brooks (R-Ala.) all voted to object to certifying the former president's loss to Joe Biden. 
  <p class="updated_time"> 08:56 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095770735/madison-cawthorn-allegations">Rep. Madison Cawthorn is under mounting pressure from scandals ahead of midterms</a> NPR: In the wake of scandals following the far-right North Carolina congressman, from salacious pictures to alleged insider trading, Cawthorn's star seems to be falling almost as fast as it rose. 
  <p class="updated_time"> 08:50 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/midterm-red-wave-gop-00029278">The Midterm View: A red wave? Oh yeah. These GOP strategists are sure of it.</a> Politico: Republican strategists say that the GOP will pick up “30 or 40” congressional seats in the 2022 midterm elections. Watch this new videos series to learn what else they said. 
- <p class="updated_time"> 08:21 AM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/business/spirit-airlines-rejects-jetblue-offer.html">Spirit Airlines Rejects JetBlue’s Offer</a> NYT: The airline said regulators would be skeptical of letting the companies merge as long as JetBlue is in a partnership with American Airlines. 
  <p class="updated_time"> 08:00 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/poll-mayra-flores-texas-special-election-00029187">Internal poll: GOP candidate ahead in Texas special election</a> Politico: The race to replace former Democratic Rep. Filemon Vela, who resigned earlier this year, is slated for June 14. 
  <p class="updated_time"> 07:46 AM CT, May. 02 </p> 
@@ -233,9 +239,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/bidenworld-midterms-trump-elon-musk-00029106">Bidenworld wants to make the midterms more about Trump and hopes Elon Musk helps</a> Politico: The election will be either a referendum or a contrast. The president’s team prefers the latter. 
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
- <a href="https://www.politico.com/news/2022/05/02/house-progressives-not-rebooting-00029075">Strength in numbers – maybe? House liberals mull their future</a> Politico: Centrists derailed their $1.7 trillion dream. They've seen only small wins. But "the strategy doesn't change" next year, as one top liberal put it. 
- <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/arizona-gop-senate-mark-brnovich-00029241">Arizona GOP Senate frontrunner loses lead amid air assault</a> Politico: Trump has criticized state Attorney General Mark Brnovich for declining to overturn the 2020 election results. 
+ <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
+ <a href="https://www.politico.com/news/2022/05/02/house-progressives-not-rebooting-00029075">House progressives not rebooting yet after a year of glitches</a> Politico: Centrists derailed their $1.7 trillion dream. They've seen only small wins. But "the strategy doesn't change" next year, as one top liberal put it. 
  <p class="updated_time"> 10:37 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/30/us/tucker-carlson-fox-news.html">How Tucker Carlson Reshaped Fox News — and Became Trump’s Heir</a> NYT: As the host turned a civil war at Fox to his advantage, he found himself at the forefront of the nativist forces transforming conservative politics. 
  <p class="updated_time"> 06:00 PM CT, May. 01 </p> 
@@ -244,8 +250,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/01/biden-mondale-memorial-dark-days-00029194">Biden: Mondale rescued me from darkness</a> Politico: At a much-delayed memorial service, Biden described the aftermath of a family tragedy in 1972. 
  <p class="updated_time"> 04:11 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/us/politics/biden-approval-inflation-immigration.html">Biden Received Early Warnings That Immigration and Inflation Could Erode His Support</a> NYT: Confidential polling data obtained by The New York Times underscores the biggest challenges for President Biden and his party as they face the prospect of losing power to Republicans on Capitol Hill. 
- <p class="updated_time"> 03:56 PM CT, May. 01 </p> 
- <a href="https://www.politico.com/news/2022/05/01/marine-ukraine-killed-willy-cancel-00029197">Combat death puts spotlight on Americans fighting in Ukraine</a> Politico: A former U.S. Marine who died last week was believed to be the first American citizen killed while fighting in Ukraine. 
  <p class="updated_time"> 12:45 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/style/kim-kardashian-pete-davidson-white-house-correspondents-dinner.html">Kim Kardashian and Pete Davidson Attend the White House Correspondents’ Dinner</a> NYT: An interesting event to choose to make an entrance. 
  <p class="updated_time"> 12:31 PM CT, May. 01 </p> 
@@ -318,8 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/29/1095657939/new-york-voting-august">N.Y. moves some primaries to August after a judge tosses maps</a> NPR: New York will hold its congressional and state Senate primaries not in June as planned but on Aug. 23, a state judge has ordered. 
  <p class="updated_time"> 02:40 PM CT, Apr. 29 </p> 
  <a href="https://www.politico.com/news/2022/04/29/rolling-thunder-protest-canada-00029074">‘Rolling Thunder’ has downtown Ottawa on edge</a> Politico: Barricades are back up in Canada’s capital as motorcyclists pull into a city still recovering from the “freedom convoy.” 
- <p class="updated_time"> 01:44 PM CT, Apr. 29 </p> 
- <a href="https://www.npr.org/2022/04/29/1095538077/a-second-oath-keeper-pleaded-guilty-to-seditious-conspiracy-in-the-jan-6-riot">A second Oath Keeper pleaded guilty to seditious conspiracy in the Jan. 6 riot</a> NPR: Brian Ulrich pleaded guilty to seditious conspiracy and obstruction, and agreed to cooperate with government investigators. 
  <p class="updated_time"> 11:57 AM CT, Apr. 29 </p> 
  <a href="https://www.politico.com/news/2022/04/29/inside-the-forecast-ohio-and-indiana-kick-off-blitz-of-primary-elections-00028948">Inside the Forecast: Ohio and Indiana kick off blitz of primary elections</a> Politico: POLITICO’s Steve Shepard demystifies this week’s election data in a video series. 
  <p class="updated_time"> 11:49 AM CT, Apr. 29 </p> 
