@@ -9,50 +9,58 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:57 AM CT, May. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61294894?at_medium=RSS&at_campaign=KARANGA">Qantas promises direct flights from Sydney to London and New York</a> BBC: Australia's carrier says its new fleet will be capable of direct flights to any city in the world. 
- <p class="updated_time"> 07:48 AM CT, May. 02 </p> 
+ <p class="updated_time"> 08:43 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">Ukraine Live Updates: Desperate Civilians Gather for Evacuation From Mariupol</a> NYT: Reports of renewed Russian shelling threatened an effort to rescue civilians sheltering under a steel plant. A British intelligence assessment pointed to huge military losses for Moscow. 
+ <p class="updated_time"> 08:42 AM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/world/europe/israel-russian-foreign-minister-sergey-lavrov.html">Israel Condemns Russian Foreign Minister Lavrov’s Comments as Antisemitic</a> NYT: Israel’s response is among the fiercest criticism it has leveled at the Russian government since the invasion of Ukraine. 
+ <p class="updated_time"> 08:20 AM CT, May. 02 </p> 
+ <a href="https://www.npr.org/2022/05/02/1095844331/ukraine-is-the-focus-but-russian-troops-are-in-several-ex-soviet-republics">Ukraine is the focus, but Russian troops are in several ex-Soviet republics</a> NPR: Russian forces have been active in multiple former Soviet republics this year, a reflection of Russian leader Vladimir Putin's desire to maintain a 'sphere of influence' beyond Russia's borders. 
+ <p class="updated_time"> 08:15 AM CT, May. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61294894?at_medium=RSS&at_campaign=KARANGA">Qantas promises direct flights from Sydney to London and New York</a> BBC: Australia's carrier says its new fleet will be capable of direct flights to any city in the world. 
+ <p class="updated_time"> 07:53 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876">Russia Recasts Ukraine Fight as War With West</a> WSJ: Russia Recasts Ukraine Fight as War With West 
  <p class="updated_time"> 07:33 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/oligarch-putin-oleg-tinkov.html">Russian Tycoon Criticized Putin’s War. Retribution Was Swift.</a> NYT: Oleg Tinkov spoke out against his country’s war in Ukraine. Now he is in hiding. In an exclusive interview he said, “I don’t believe in Russia’s future’’ under Vladimir Putin. 
  <p class="updated_time"> 07:27 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095008257/estonia-nato-cyber-war-games-russia">Estonia hosts NATO-led cyber war games, with one eye on Russia</a> NPR: Estonia is host to one of the world's largest annual interactive cybersecurity drills. Russia is always considered the main threat, but this year, the war in Ukraine has only added to the stakes. 
- <p class="updated_time"> 07:22 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 07:12 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61296851?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Hundreds trapped in Mariupol steelworks despite evacuations</a> BBC: A commander at the Mariupol steel plant says hundreds are stuck and Russia has resumed shelling. 
  <p class="updated_time"> 07:10 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/africa/south-africa-surge-variants.html">South Africa’s latest surge is a possible preview of the pandemic’s next chapter.</a> NYT: The spread of two newly discovered subvariants has doctors watching closely. 
  <p class="updated_time"> 07:08 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61296682?at_medium=RSS&at_campaign=KARANGA">Israel outrage at Sergei Lavrov's claim that Hitler was part Jewish</a> BBC: The Russian foreign minister's claim that Hitler "had Jewish blood" is denounced as unforgiveable. 
- <p class="updated_time"> 06:22 AM CT, May. 02 </p> 
+ <p class="updated_time"> 06:53 AM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/china-economy-recession-covid-lockdowns-11651434168">China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth</a> WSJ: China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth 
+ <p class="updated_time"> 05:53 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/europe-to-make-fresh-push-to-revive-iran-nuclear-deal-by-offering-to-send-top-negotiator-back-to-tehran-11651419295">Europe to Make Fresh Push to Revive Iran Nuclear Deal</a> WSJ: Europe to Make Fresh Push to Revive Iran Nuclear Deal 
  <p class="updated_time"> 05:45 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61296810?at_medium=RSS&at_campaign=KARANGA">South Africa's Cyril Ramaphosa abandons May Day rally after booing</a> BBC: President Ramaphosa was forced to leave a May Day event after angry workers stormed the stage. 
- <p class="updated_time"> 05:22 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 05:16 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61294958?at_medium=RSS&at_campaign=KARANGA">Falklands War remains 'an open wound' in Argentina, says ambassador</a> BBC: The conflict is a "deeply emotional issue" for politicians and the public at home, the diplomat says. 
  <p class="updated_time"> 05:11 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/pope-francis-kyiv-ambassadors.html">As Ambassadors Left Town, the Pope’s Emissary Remained in Kyiv</a> NYT: Through shelling, street fights in the suburbs and the flight of thousands through Ukraine’s capital, the Vatican’s diplomatic mission stayed put. 
  <p class="updated_time"> 05:08 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/beijing-isolation-center-lockdown.html">Beijing Reopens Mass Isolation Center In Attempt to Avoid Broad Lockdown</a> NYT: While the Chinese capital has recorded only a few hundred cases in recent weeks, the move to reopen the facility appears to be aimed at avoiding the fate of Shanghai. 
+ <p class="updated_time"> 04:53 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 04:42 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095864233/australian-man-admits-to-pushing-a-gay-american-off-a-cliff">Sydney man admits to pushing a gay American off a cliff in 1988</a> NPR: The defendant faces a potential sentence of life in prison on sentencing scheduled for Tuesday. 
- <p class="updated_time"> 04:22 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
+ <p class="updated_time"> 04:17 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine said it sank the boats in the Black Sea with drone strikes, as explosions rang out once again in Russia’s border region of Belgorod and heavy fighting continued in eastern Ukraine. Ukrainian authorities Monday began welcoming civilians evacuated from Mariupol. 
  <p class="updated_time"> 04:06 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-61297292?at_medium=RSS&at_campaign=KARANGA">Orange skies as Iraq hit by dust storm</a> BBC: Experts say the storms are increasing in frequency due to drought and declining rainfall. 
  <p class="updated_time"> 04:00 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1094894360/mazel-tov-cocktail-party-take-an-ounce-of-hip-hop-dash-of-polka-then-square-danc">Mazel Tov Cocktail Party: Take an ounce of hip hop, dash of polka, then square dance</a> NPR: Finding a thriving dance culture in the Adirondacks Mountains inspired the band to take its sound in an unexpected direction. 
  <p class="updated_time"> 04:00 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/ukraine-war-mariupol-escape.html">Sisters Recount Escape From Mariupol as Russians Closed In</a> NYT: The women say they were forced onto a bus to Russian-controlled territory, then escaped what Ukrainian and U.S. officials have described as “filtration” centers for a system of forced expulsions to Russia. 
- <p class="updated_time"> 03:22 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/shanghai-residents-protest-lockdown-with-marches-smashed-vegetables-and-art-projects-11651483851">Shanghai Residents Protest Lockdown With Marches, Smashed Vegetables and Art Projects</a> WSJ: Shanghai Residents Protest Lockdown With Marches, Smashed Vegetables and Art Projects 
+ <p class="updated_time"> 03:53 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 03:11 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61297026?at_medium=RSS&at_campaign=KARANGA">Emotional reunions as New Zealand reopens to tourists</a> BBC: The country has reopened its borders to visitors after a pandemic lockout of more than two years. 
  <p class="updated_time"> 03:02 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61294585?at_medium=RSS&at_campaign=KARANGA">Alabama hunt for missing prison inmate and guard</a> BBC: Charged with murder, officials warn the prisoner is considered "armed and extremely dangerous". 
+ <p class="updated_time"> 03:01 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia's Vladimir Putin for the Ukraine War</a> WSJ: One proposal, to prosecute the Russian president for the crime of aggression, harks back to Nuremberg, where Nazi officials were tried by a special tribunal after World War II. The idea is contentious. 
  <p class="updated_time"> 02:59 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/philippines-election-marcos-robredo.html">Ahead of Philippines Election, Young People Rally Around Leni Robredo</a> NYT: As the election in the Philippines nears, tens of thousands of young people who fear another Marcos presidency are rallying around Leni Robredo, the country’s vice president. 
  <p class="updated_time"> 02:53 AM CT, May. 02 </p> 
@@ -61,8 +69,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61296452?at_medium=RSS&at_campaign=KARANGA">India heatwave: Scorching temperatures affecting poor the most</a> BBC: The heatwave has led to school closures and power shortages in many parts of India. 
  <p class="updated_time"> 02:00 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/uk-asylum-rwanda.html">U.K. Plan to Send Asylum Seekers to Rwanda Stokes Anger and Dread</a> NYT: The government’s proposal has led to recriminations from rights groups, and anxiety among migrants who fear being sent away. 
- <p class="updated_time"> 01:46 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/germany-calls-for-russian-oil-embargo-as-eu-prepares-new-sanctions-11651488395">Germany Calls for Russian Oil Embargo as EU Prepares New Sanctions</a> WSJ: Momentum in Europe is building for a phased-in embargo in response to the invasion of Ukraine, although Hungary and some others remain wary of energy sanctions. 
+ <p class="updated_time"> 12:30 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-residents-protest-lockdown-with-marches-smashed-vegetables-and-art-projects-11651483851">Shanghai Residents Protest Lockdown With Marches, Smashed Vegetables and Art Projects</a> WSJ: Discontent has been widespread on Chinese social media ever since Shanghai started a rigid lockdown in late March. Now, it is moving into the real world. 
  <p class="updated_time"> 12:13 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/russian-general-dead-valery-gerasimov.html">U.S. and Ukraine Officials: Top Russian Officer Went to War’s Frontline</a> NYT: The presence of such a high-ranking official on the front lines is highly unusual and comes amid what Western military analysts describe as increasing disarray within Russian forces. 
  <p class="updated_time"> 12:08 AM CT, May. 02 </p> 
@@ -127,8 +135,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/01/1095809111/russia-is-starting-to-cut-natural-gas-supplies-off">Russia is starting to cut natural gas supplies off</a> NPR: Ayesha Rascoe discusses Russia's threats against NATO countries and the decision to cut off natural gas to Poland and Bulgaria with Agnia Grigas, a nonresident senior fellow at the Atlantic Council. 
  <p class="updated_time"> 07:04 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809104/what-its-like-living-in-ukraines-warzone">What it's like living in Ukraine's warzone</a> NPR: Ukraine's army is slowing Russia's invasion to a crawl, but there is still heavy fighting in the south. For those living there, the war has started to feel like a deadly kind of normal. 
- <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
- <a href="https://www.npr.org/2022/05/01/1094616486/pablo-neruda-question-poems-translated-illustrated-children">Pablo Neruda's question poems, now translated and illustrated for children</a> NPR: Neruda's Book of Questions is well known in Latin American literature. A new bilingual, illustrated selection of his poems gives English-speaking children an opportunity to interrogate the world. 
  <p class="updated_time"> 05:42 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/beijing-china-covid.html">Beijing Escalates Restrictions After Covid Outbreak, but No Full Lockdown</a> NYT: Officials in China’s capital are striving to contain a coronavirus outbreak while avoiding public anger of the kind that has erupted in Shanghai. 
  <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
@@ -200,6 +206,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:21 AM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/business/spirit-airlines-rejects-jetblue-offer.html">Spirit Airlines Rejects JetBlue’s Offer</a> NYT: The airline said regulators would be skeptical of letting the companies merge as long as JetBlue is in a partnership with American Airlines. 
+ <p class="updated_time"> 08:00 AM CT, May. 02 </p> 
+ <a href="https://www.politico.com/news/2022/05/02/poll-mayra-flores-texas-special-election-00029187">Internal poll: GOP candidate ahead in Texas special election</a> Politico: The race to replace former Democratic Rep. Filemon Vela, who resigned earlier this year, is slated for June 14. 
  <p class="updated_time"> 07:46 AM CT, May. 02 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:53 AM CT, May. 02 </p> 
@@ -217,13 +227,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/democrats-manchin-bipartisan-energy-00028966">Dems grimace at Manchin’s bipartisan energy detour</a> Politico: Republicans want to break the majority's resolve to pass another party-line bill. But the West Virginia centrist is still talking across the aisle. 
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
- <a href="https://www.politico.com/news/2022/05/02/may-primaries-republican-donald-trump-ohio-00029149">Trumpworld braces for ‘a couple of ugly nights’ in May</a> Politico: The upcoming stretch of primaries could put a serious dent in the Trump brand. 
- <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/todd-young-indiana-senate-trump-00029217">The GOP senator who faulted Trump for Jan. 6 — and lived to tell about it</a> Politico: Indiana Sen. Todd Young is one of only four Senate GOP incumbents whom the former president has not endorsed for reelection. 
+ <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
+ <a href="https://www.politico.com/news/2022/05/02/may-primaries-republican-donald-trump-ohio-00029149">Trumpworld braces for ‘a couple of ugly nights’ in May</a> Politico: The upcoming stretch of primaries could put a serious dent in the Trump brand. 
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/bidenworld-midterms-trump-elon-musk-00029106">Bidenworld wants to make the midterms more about Trump and hopes Elon Musk helps</a> Politico: The election will be either a referendum or a contrast. The president’s team prefers the latter. 
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
- <a href="https://www.politico.com/news/2022/05/02/house-progressives-not-rebooting-00029075">House progressives not rebooting yet after a year of glitches</a> Politico: Centrists derailed their $1.7 trillion dream. They've seen only small wins. But "the strategy doesn't change" next year, as one top liberal put it. 
+ <a href="https://www.politico.com/news/2022/05/02/house-progressives-not-rebooting-00029075">Strength in numbers – maybe? House liberals mull their future</a> Politico: Centrists derailed their $1.7 trillion dream. They've seen only small wins. But "the strategy doesn't change" next year, as one top liberal put it. 
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/arizona-gop-senate-mark-brnovich-00029241">Arizona GOP Senate frontrunner loses lead amid air assault</a> Politico: Trump has criticized state Attorney General Mark Brnovich for declining to overturn the 2020 election results. 
  <p class="updated_time"> 10:37 PM CT, May. 01 </p> 
@@ -248,12 +258,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/01/us/politics/afghanistan-war-crimes-uss-cole.html">War Crimes Hearing Revisits U.S. Soldiers’ Abuse of Detainees</a> NYT: An Army judge is hearing pretrial testimony to determine what evidence can be used at the eventual destroyer Cole death penalty trial. 
  <p class="updated_time"> 10:27 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/us/politics/white-house-correspondents-dinner.html">Biden Jokes About G.O.P. and Covid at White House Correspondents’ Dinner </a> NYT: Amid concerns about Covid, President Biden offered some humor and received his own ribbing at the White House Correspondents’ Dinner, a ritual that had gone on hiatus during the pandemic. 
- <p class="updated_time"> 10:24 AM CT, May. 01 </p> 
- <a href="https://www.politico.com/news/2022/05/01/ukrainian-ambassador-nancy-pelosi-00029172">Ukrainian ambassador praises Pelosi's visit as 'very symbolic'</a> Politico: "It was a special delight to see Madam Speaker with the delegation in Kyiv," she said. 
  <p class="updated_time"> 10:17 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/menendez-iran-nuclear-weapons-deal-00029168">Iran talks unlikely to yield good deal, Menendez says</a> Politico: "I want the administration to understand that no deal is better than a bad deal," he said. 
- <p class="updated_time"> 09:33 AM CT, May. 01 </p> 
- <a href="https://www.politico.com/news/2022/05/01/mayorkas-migrants-homeland-security-00029164">Mayorkas’ message to migrants remains: ‘Do not come’</a> Politico: The head of Homeland Security spoke about the Biden administration's immigration policy. 
  <p class="updated_time"> 09:29 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Trade Barriers From the Ukraine War Are Sending Food Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
  <p class="updated_time"> 07:37 AM CT, May. 01 </p> 
@@ -312,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/04/29/1095657939/new-york-voting-august">N.Y. moves some primaries to August after a judge tosses maps</a> NPR: New York will hold its congressional and state Senate primaries not in June as planned but on Aug. 23, a state judge has ordered. 
  <p class="updated_time"> 02:40 PM CT, Apr. 29 </p> 
  <a href="https://www.politico.com/news/2022/04/29/rolling-thunder-protest-canada-00029074">‘Rolling Thunder’ has downtown Ottawa on edge</a> Politico: Barricades are back up in Canada’s capital as motorcyclists pull into a city still recovering from the “freedom convoy.” 
- <p class="updated_time"> 02:21 PM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/us/politics/isis-beatles-kotey-sentenced.html">British ISIS Member Sentenced for Role in Americans’ Deaths</a> NYT: Alexanda Kotey, 38, was part of a brutal Islamic State cell known as the Beatles that kidnapped and tortured Western hostages in Syria. 
  <p class="updated_time"> 01:44 PM CT, Apr. 29 </p> 
  <a href="https://www.npr.org/2022/04/29/1095538077/a-second-oath-keeper-pleaded-guilty-to-seditious-conspiracy-in-the-jan-6-riot">A second Oath Keeper pleaded guilty to seditious conspiracy in the Jan. 6 riot</a> NPR: Brian Ulrich pleaded guilty to seditious conspiracy and obstruction, and agreed to cooperate with government investigators. 
  <p class="updated_time"> 11:57 AM CT, Apr. 29 </p> 
