@@ -9,50 +9,56 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:28 AM CT, May. 02 </p> 
+ <p class="updated_time"> 09:52 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">Live Updates: West Works to Put Ukraine Pledges Into Action</a> NYT: Europe was discussing moving away from Russian energy sources, while in Washington, the Senate was expected soon to take up President Biden’s $33 billion aid package for Ukraine. Speaker Nancy Pelosi, visiting Poland, said Russia’s war required the “strongest possible” response. 
+ <p class="updated_time"> 09:50 AM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/world/asia/ukraine-bucha-russia-atrocities.html">They Fell Deeply in Love in Bucha. One Russian Bullet Ended It All.</a> NYT: Over nearly two decades, Iryna Abramova and her husband, Oleh, built a life of love and happiness. Now, she says, she wishes the Russian soldiers had shot her, too. 
+ <p class="updated_time"> 09:36 AM CT, May. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61300036?at_medium=RSS&at_campaign=KARANGA">Weather students die in crash after tornado chase</a> BBC: The three students crashed in wet weather, shortly after posting videos of a tornado in Kansas. 
+ <p class="updated_time"> 09:30 AM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/world/europe/spain-pegasus-prime-minister-cellphone-hacked.html">Spain Says Cellphones of Prime Minister and Defense Minister Were Hacked</a> NYT: Officials said the devices were breached by the Pegasus spyware, made by an Israeli company, which is intended to track illegal behavior but has been misused by some governments. 
  <p class="updated_time"> 09:02 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61296851?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Hundreds trapped in Mariupol steelworks despite evacuations</a> BBC: A commander at the Mariupol steel plant says hundreds are stuck and Russia has resumed shelling. 
  <p class="updated_time"> 09:01 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/29/science/tiktaalik-fish-fossil-meme.html">Started Out as a Fish. How Did It End Up Like This?</a> NYT: A meme about the transitional fossil Tiktaalik argues that although we did come out of the sea, we aren’t doing just fine. 
+ <p class="updated_time"> 08:57 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 08:54 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/mariupol-evacuation-steel-plant-ukraine.html">Women and Children Evacuated Out of Mariupol’s Azovstal Steel Plant</a> NYT: A Ukrainian commander and Russian news agencies said about 20 civilians were able to leave the steel factory in the besieged city of Mariupol. An unknown number of civilians remains at the plant. 
  <p class="updated_time"> 08:54 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61296682?at_medium=RSS&at_campaign=KARANGA">Israel outrage at Sergei Lavrov's claim that Hitler was part Jewish</a> BBC: The Russian foreign minister's claim that Hitler "had Jewish blood" is denounced as unforgiveable. 
  <p class="updated_time"> 08:42 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/israel-russian-foreign-minister-sergey-lavrov.html">Israel Condemns Russian Foreign Minister Lavrov’s Comments as Antisemitic</a> NYT: Israel’s response is among the fiercest criticism it has leveled at the Russian government since the invasion of Ukraine. 
- <p class="updated_time"> 08:33 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
- <p class="updated_time"> 08:20 AM CT, May. 02 </p> 
+ <p class="updated_time"> 08:21 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095844331/ukraine-is-the-focus-but-russian-troops-are-in-several-ex-soviet-republics">Ukraine is the focus, but Russian troops are in several ex-Soviet republics</a> NPR: Russian forces have been active in multiple former Soviet republics this year, a reflection of Russian leader Vladimir Putin's desire to maintain a 'sphere of influence' beyond Russia's borders. 
  <p class="updated_time"> 08:15 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61294894?at_medium=RSS&at_campaign=KARANGA">Qantas promises direct flights from Sydney to London and New York</a> BBC: Australia's carrier says its new fleet will be capable of direct flights to any city in the world. 
+ <p class="updated_time"> 07:57 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/china-economy-recession-covid-lockdowns-11651434168">China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth</a> WSJ: China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth 
  <p class="updated_time"> 07:33 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/oligarch-putin-oleg-tinkov.html">Russian Tycoon Criticized Putin’s War. Retribution Was Swift.</a> NYT: Oleg Tinkov spoke out against his country’s war in Ukraine. Now he is in hiding. In an exclusive interview he said, “I don’t believe in Russia’s future’’ under Vladimir Putin. 
- <p class="updated_time"> 07:33 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/china-economy-recession-covid-lockdowns-11651434168">China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth</a> WSJ: China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth 
  <p class="updated_time"> 07:27 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095008257/estonia-nato-cyber-war-games-russia">Estonia hosts NATO-led cyber war games, with one eye on Russia</a> NPR: Estonia is host to one of the world's largest annual interactive cybersecurity drills. Russia is always considered the main threat, but this year, the war in Ukraine has only added to the stakes. 
  <p class="updated_time"> 07:10 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/africa/south-africa-surge-variants.html">South Africa’s latest surge is a possible preview of the pandemic’s next chapter.</a> NYT: The spread of two newly discovered subvariants has doctors watching closely. 
+ <p class="updated_time"> 06:57 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 06:42 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61297538?at_medium=RSS&at_campaign=KARANGA">Haiti gang holding kidnapped diplomat for ransom</a> BBC: A gang infamous for kidnapping foreigners has seized a diplomat from the Dominican Republic. 
- <p class="updated_time"> 06:33 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
+ <p class="updated_time"> 05:57 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 05:45 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61296810?at_medium=RSS&at_campaign=KARANGA">South Africa's Cyril Ramaphosa abandons May Day rally after booing</a> BBC: President Ramaphosa was forced to leave a May Day event after angry workers stormed the stage. 
- <p class="updated_time"> 05:33 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 05:16 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61294958?at_medium=RSS&at_campaign=KARANGA">Falklands War remains 'an open wound' in Argentina, says ambassador</a> BBC: The conflict is a "deeply emotional issue" for politicians and the public at home, the diplomat says. 
  <p class="updated_time"> 05:11 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/pope-francis-kyiv-ambassadors.html">As Ambassadors Left Town, the Pope’s Emissary Remained in Kyiv</a> NYT: Through shelling, street fights in the suburbs and the flight of thousands through Ukraine’s capital, the Vatican’s diplomatic mission stayed put. 
  <p class="updated_time"> 05:08 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/beijing-isolation-center-lockdown.html">Beijing Reopens Mass Isolation Center In Attempt to Avoid Broad Lockdown</a> NYT: While the Chinese capital has recorded only a few hundred cases in recent weeks, the move to reopen the facility appears to be aimed at avoiding the fate of Shanghai. 
+ <p class="updated_time"> 04:57 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-residents-protest-lockdown-with-marches-smashed-vegetables-and-art-projects-11651483851">Shanghai Residents Protest Lockdown With Marches, Smashed Vegetables and Art Projects</a> WSJ: Shanghai Residents Protest Lockdown With Marches, Smashed Vegetables and Art Projects 
  <p class="updated_time"> 04:42 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095864233/australian-man-admits-to-pushing-a-gay-american-off-a-cliff">Sydney man admits to pushing a gay American off a cliff in 1988</a> NPR: The defendant faces a potential sentence of life in prison on sentencing scheduled for Tuesday. 
- <p class="updated_time"> 04:33 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/shanghai-residents-protest-lockdown-with-marches-smashed-vegetables-and-art-projects-11651483851">Shanghai Residents Protest Lockdown With Marches, Smashed Vegetables and Art Projects</a> WSJ: Shanghai Residents Protest Lockdown With Marches, Smashed Vegetables and Art Projects 
  <p class="updated_time"> 04:06 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-61297292?at_medium=RSS&at_campaign=KARANGA">Orange skies as Iraq hit by dust storm</a> BBC: Experts say the storms are increasing in frequency due to drought and declining rainfall. 
  <p class="updated_time"> 04:00 AM CT, May. 02 </p> 
@@ -189,12 +195,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/europe/boris-becker-sentenced-bankruptcy.html">Boris Becker Sentenced to Prison for Hiding Assets in Bankruptcy</a> NYT: The former tennis champion was found guilty by a London court on charges related to his 2017 insolvency. 
  <p class="updated_time"> 11:48 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/ukraine-war-casualties-grief.html">In Ukraine, A Body Bag and a Sister in Denial</a> NYT: The war in Ukraine is so big that it has shaken the world. But for a sister looking for her missing older brother, it was reduced to a visit to a morgue. 
- <p class="updated_time"> 11:21 AM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/world/europe/anglo-saxon-kings-diet.html">Anglo-Saxon Kings Made Sure to Eat Their Vegetables, Study Shows</a> NYT: Contrary to popular belief, the ruling classes gorged on meat only on rare occasions, according to an analysis of more than 2,000 skeletons buried during medieval times. 
- <p class="updated_time"> 09:54 AM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/world/asia/beijing-covid-outbreak-schools.html">Beijing Closes Schools as It Tries to Contain an Outbreak</a> NYT: The city is heading into a long holiday weekend, and officials are discouraging travel and unnecessary gatherings. 
- <p class="updated_time"> 09:41 AM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/us/politics/ukraine-rape-war-crimes.html">In Ukraine War, a Long Journey Begins in Prosecuting Rape</a> NYT: U.N. officials and human rights investigators are rushing more resources to authorities in Ukraine to help prosecute sex crimes. 
 
 
 </details>
@@ -219,7 +219,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:08 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095861489/lawmakers-call-for-greater-security-funding-and-oversight-for-u-s-transit-system">Lawmakers call for greater security funding and oversight for U.S. transit systems</a> NPR: Open drug use and the threat of mass violence have prompted calls for more security funding for mass transit. Congress also says better oversight of existing security is needed. 
  <p class="updated_time"> 04:00 AM CT, May. 02 </p> 
- <a href="https://www.npr.org/2022/05/02/1095599808/primaries-in-14-states-in-may-trump-effect">Campaign season kicks off in earnest with primaries in 14 states in May</a> NPR: This month's primaries and runoffs will serve as a test of the power of former President Trump's endorsements up and down the ballot. 
+ <a href="https://www.npr.org/2022/05/02/1095599808/primaries-in-14-states-in-may-trump-effect">Campaign season kicks off in earnest with primaries in 13 states in May</a> NPR: This month's primaries and runoffs will serve as a test of the power of former President Donald Trump's endorsements up and down the ballot. 
  <p class="updated_time"> 04:00 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/us/politics/democrats-midterms-ohio.html">Democrats’ Mystery: How to Brighten a Presidency and a National Mood</a> NYT: Crucial left-leaning voters have soured on President Biden, and Americans of all stripes are angry. Democratic leaders can’t agree on what to tell them. 
  <p class="updated_time"> 04:00 AM CT, May. 02 </p> 
