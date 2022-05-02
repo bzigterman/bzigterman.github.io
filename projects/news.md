@@ -9,36 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:44 AM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">What Happened on Day 67 of the War in Ukraine</a> NYT: Speaker Nancy Pelosi visited Ukraine and pledged U.S. support ‘until victory is won.’ An evacuation of civilians from Mariupol was underway. 
  <p class="updated_time"> 02:00 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/uk-asylum-rwanda.html">U.K. Plan to Send Asylum Seekers to Rwanda Stokes Anger and Dread</a> NYT: The government’s proposal has led to recriminations from rights groups, and anxiety among migrants who fear being sent away. 
- <p class="updated_time"> 01:25 AM CT, May. 02 </p> 
+ <p class="updated_time"> 01:52 AM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876">Russia Recasts Ukraine Fight as War With West</a> WSJ: Russia Recasts Ukraine Fight as War With West 
- <p class="updated_time"> 12:25 AM CT, May. 02 </p> 
+ <p class="updated_time"> 12:52 AM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/china-economy-recession-covid-lockdowns-11651434168">China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth</a> WSJ: China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth 
- <p class="updated_time"> 12:13 AM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">What Happened on Day 67 of the War in Ukraine</a> NYT: Speaker Nancy Pelosi visited Ukraine and pledged U.S. support ‘until victory is won.’ An evacuation of civilians from Mariupol was underway. 
  <p class="updated_time"> 12:13 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/russian-general-dead-valery-gerasimov.html">U.S. and Ukraine Officials: Top Russian Officer Went to War’s Frontline</a> NYT: The presence of such a high-ranking official on the front lines is highly unusual and comes amid what Western military analysts describe as increasing disarray within Russian forces. 
  <p class="updated_time"> 11:57 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61284964?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Families hide in cellars as Russia targets Donbas region</a> BBC: Those remaining in the Ukrainian city of Lysychansk near the front line live under constant shelling. 
+ <p class="updated_time"> 11:52 PM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/europe-to-make-fresh-push-to-revive-iran-nuclear-deal-by-offering-to-send-top-negotiator-back-to-tehran-11651419295">Europe to Make Fresh Push to Revive Iran Nuclear Deal</a> WSJ: Europe to Make Fresh Push to Revive Iran Nuclear Deal 
  <p class="updated_time"> 11:44 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61295550?at_medium=RSS&at_campaign=KARANGA">Philippines fire kills eight, including children</a> BBC: The blaze destroyed 80 homes after tearing through a crowded settlement near the capital Manila. 
  <p class="updated_time"> 11:40 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61294988?at_medium=RSS&at_campaign=KARANGA">New Zealand reopens to tourists after two-year pandemic lockout</a> BBC: Visitors from 60 countries can now enter the Pacific nation which had sealed its borders since March 2020. 
- <p class="updated_time"> 11:25 PM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/europe-to-make-fresh-push-to-revive-iran-nuclear-deal-by-offering-to-send-top-negotiator-back-to-tehran-11651419295">Europe to Make Fresh Push to Revive Iran Nuclear Deal</a> WSJ: Europe to Make Fresh Push to Revive Iran Nuclear Deal 
+ <p class="updated_time"> 10:52 PM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 10:27 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/29/movies/russia-movie-theaters-piracy.html">In Echo of Soviet Era, Russia’s Movie Theaters Turn to Pirate Screenings</a> NYT: In a Cold War throwback, some venues are showing bootleg versions after Hollywood studios pulled films from the country. Still, viewer numbers have tanked. 
- <p class="updated_time"> 10:25 PM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
+ <p class="updated_time"> 09:52 PM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 09:47 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-61294978?at_medium=RSS&at_campaign=KARANGA">Netflix cancels Meghan Markle animated series Pearl</a> BBC: The announcement comes as the streaming giant makes cost cuts after subscriber numbers fell. 
  <p class="updated_time"> 09:36 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61294894?at_medium=RSS&at_campaign=KARANGA">Qantas promises direct flights from Sydney to London and New York</a> BBC: Australia's carrier says its new fleet will be capable of direct flights to any city in the world. 
  <p class="updated_time"> 09:27 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61294958?at_medium=RSS&at_campaign=KARANGA">Falklands War remains 'an open wound' in Argentina, says ambassador</a> BBC: The conflict is a "deeply emotional issue" for politicians and the public at home, the diplomat says. 
- <p class="updated_time"> 09:25 PM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 08:41 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61294585?at_medium=RSS&at_campaign=KARANGA">Alabama hunt for missing prison inmate and guard</a> BBC: Charged with murder, officials warn the prisoner is considered "armed and extremely dangerous". 
  <p class="updated_time"> 08:25 PM CT, May. 01 </p> 
