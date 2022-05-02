@@ -9,32 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:14 PM CT, May. 02 </p> 
+ <p class="updated_time"> 03:39 PM CT, May. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61296851?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Hundreds trapped in Mariupol steelworks despite evacuations</a> BBC: A Ukrainian commander at the Azovstal plant says hundreds are stuck and Russia has resumed shelling. 
+ <p class="updated_time"> 03:38 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">Live Updates: West Works to Put Ukraine Pledges Into Action</a> NYT: Europe was discussing moving away from Russian energy sources, while in Washington, the Senate was expected soon to take up President Biden’s $33 billion aid package for Ukraine. Speaker Nancy Pelosi, visiting Poland, said Russia’s war required the “strongest possible” response. 
+ <p class="updated_time"> 03:38 PM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/world/europe/pelosi-ukraine-russia-sanctions.html">Pelosi Says Russia’s War Merits the Strongest Military Response and Sanctions</a> NYT: Following a visit to Kyiv over the weekend, Speaker Nancy Pelosi held talks in Poland with President Andrzej Duda, a meeting aimed at deepening Washington’s partnership with a key NATO ally. 
+ <p class="updated_time"> 03:36 PM CT, May. 02 </p> 
+ <a href="https://www.npr.org/2022/05/02/1095988620/why-it-took-nearly-100-years-for-umami-to-be-globally-accepted-as-a-distinct-fla">Why it took nearly 100 years for umami to be globally accepted as a distinct flavor</a> NPR: A Japanese chemist identified umami in the early 1900s, but it took a century for his work to be translated into English. NPR's Short Wave podcast looked into why it took so long to be recognized. 
+ <p class="updated_time"> 03:28 PM CT, May. 02 </p> 
+ <a href="https://www.npr.org/2022/05/02/1095988599/civilians-and-soldiers-remain-trapped-in-a-mariupol-steel-plant">Civilians and soldiers remain trapped in a Mariupol steel plant</a> NPR: More civilians are being evacuated Monday from a steel facility in Mariupol, Ukraine. But thousands of soldiers remain, many of whom are injured and have been holed up for weeks. 
  <p class="updated_time"> 02:50 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/ukraine-war-mariupol-escape.html">Sisters Recount Escape From Mariupol as Russians Closed In</a> NYT: The women say they were forced onto a bus to Russian-controlled territory, then escaped what Ukrainian and U.S. officials have described as “filtration” centers for a system of forced expulsions to Russia. 
- <p class="updated_time"> 02:16 PM CT, May. 02 </p> 
+ <p class="updated_time"> 02:46 PM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 02:04 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61301911?at_medium=RSS&at_campaign=KARANGA">Amazon will pay US staff travel expenses for abortions and other treatments</a> BBC: The firm will reimburse travel costs for various treatments in the US, including abortion. 
+ <p class="updated_time"> 01:46 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 01:45 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/kyiv-ukraine-russia-war.html">In Kyiv, Residents Cautiously Embrace a Sense of Normalcy</a> NYT: A month after the Ukrainian Army defeated the Russian forces that had partly encircled Ukraine’s capital, tension is slowly seeping out of the city. 
  <p class="updated_time"> 01:29 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-61298791?at_medium=RSS&at_campaign=KARANGA">EU divided over how to step away from Russian energy</a> BBC: EU energy ministers met to discuss a possible ban on Russian oil, but members remain split. 
  <p class="updated_time"> 01:16 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
- <p class="updated_time"> 01:16 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
  <p class="updated_time"> 12:52 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/hong-kong-inexpensive-dining.html">In Hong Kong, Cheap Dining Options Are All the Rage</a> NYT: In a city pummeled by political upheaval, economic downturn and the pandemic, bare-bones ‘two dishes and rice’ restaurants have become a go-to destination across all social classes. 
+ <p class="updated_time"> 12:46 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
  <p class="updated_time"> 12:35 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61301238?at_medium=RSS&at_campaign=KARANGA">Uefa announces further sanctions on Russian clubs and national teams amid Ukraine invasion</a> BBC: Russia is barred from competing in this summer's women's Euro 2022 while Russian clubs will also be banned from Uefa competitions next season. 
  <p class="updated_time"> 12:25 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/asia/pakistan-airstrikes-afghanistan-taliban.html">Pakistani Airstrikes Escalate Conflict on Afghan Border</a> NYT: The airstrikes killed at least 45 people, stoking fears of a violent resurgence of the conflict in eastern Afghanistan, which has become a base for Pakistani militants. 
  <p class="updated_time"> 12:16 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/rohingya-bangladesh-school-closings.html">Bangladesh Shutters Dozens of Schools Set Up by Rohingya in Camps</a> NYT: More than 30 schools, teaching tens of thousands of Rohingya students, were closed in Bangladesh, where officials are said to have feared the schools would encourage the refugees to stay permanently. 
- <p class="updated_time"> 12:16 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
+ <p class="updated_time"> 11:46 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 11:46 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095926607/lavrov-israel-zelenskyy-hitler">Israel slams Russia's foreign minister for comparing Zelenskyy to Hitler</a> NPR: Israeli officials are calling for an apology after Sergey Lavrov said the Hitler "had Jewish origins." It's the strongest condemnation of Russia by Israel since the war in Ukraine began in February. 
  <p class="updated_time"> 11:44 AM CT, May. 02 </p> 
@@ -43,22 +53,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61300874?at_medium=RSS&at_campaign=KARANGA">EU accuses Apple of breaking competition law over contactless payments</a> BBC: The US tech giant denies it is restricting rivals' access to its mobile payments technology. 
  <p class="updated_time"> 11:34 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/ukraine-bucha-russia-atrocities.html">They Fell Deeply in Love in Bucha. One Russian Bullet Ended It All.</a> NYT: Over nearly two decades, Iryna Abramova and her husband, Oleh, built a life of love and happiness. Now, she says, she wishes the Russian soldiers had shot her, too. 
- <p class="updated_time"> 11:16 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 11:09 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-russia-attack-denials.html">Ukrainian Official Outlines Intentional Ambiguity on Strikes Inside Russia</a> NYT: The strikes have been one of the most intriguing, and opaque, new elements of the recent fighting. But when it comes to confirming their origins, “we don’t say yes and we don’t say no,’’ said the official. 
  <p class="updated_time"> 11:02 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61300036?at_medium=RSS&at_campaign=KARANGA">Weather students die in crash after tornado chase</a> BBC: The three students crashed in wet weather, shortly after posting videos of a tornado in Kansas. 
- <p class="updated_time"> 10:55 AM CT, May. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61296851?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Hundreds trapped in Mariupol steelworks despite evacuations</a> BBC: A Ukrainian commander at the Azovstal plant says hundreds are stuck and Russia has resumed shelling. 
  <p class="updated_time"> 10:46 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095921716/angelina-jolie-lviv-ukraine-refugees-volunteers-children">Angelina Jolie met with refugees and volunteers during a surprise visit to Lviv</a> NPR: The actress and U.N. Special Envoy for refugees spoke with recent evacuees arriving by train in the western Ukraine city, as well as children being treated for injuries from a recent Russian attack. 
- <p class="updated_time"> 10:43 AM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/world/europe/pelosi-ukraine-russia-sanctions.html">Pelosi Says Russia’s War Merits the Strongest Military Response and Sanctions</a> NYT: Following a visit to Kyiv over the weekend, Nancy Pelosi held talks in Poland with President Andrzej Duda, a meeting aimed at deepening Washington’s partnership with a key NATO ally. 
+ <p class="updated_time"> 10:46 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 10:25 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/beijing-isolation-center-lockdown.html">Beijing Reopens Mass Isolation Center In Attempt to Avoid Broad Lockdown</a> NYT: While the Chinese capital has recorded only a few hundred cases in recent weeks, the move to reopen the facility appears to be aimed at avoiding the fate of Shanghai. 
- <p class="updated_time"> 10:16 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 09:30 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/spain-prime-minister-pegasus-spyware.html">Spain Says Cellphones of Prime Minister and Defense Minister Were Hacked</a> NYT: Officials said the devices were breached by the Pegasus spyware, made by an Israeli company, which is intended to track illegal behavior but has been misused by some governments. 
  <p class="updated_time"> 09:01 AM CT, May. 02 </p> 
@@ -145,10 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/01/1095809174/with-title-42-in-flux-migrants-take-over-mexican-cities-across-the-border">With Title 42 in flux, migrants take over Mexican cities across the border </a> NPR: Ayesha Rascoe speaks with Pedro Rios of the American Friends Services Committee about how Tijuana, Mexico, is grappling with the continuing influx of migrants. 
  <p class="updated_time"> 07:54 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/three-men-dead-bucha-ukraine-war.html">Bodies of Three Men Found in Bucha, Ukrainian Officials Say </a> NYT: A police chief said that victims’ bodies were discovered in a forest, and showed signs of mutilation. 
- <p class="updated_time"> 07:19 AM CT, May. 01 </p> 
- <a href="https://www.npr.org/2022/05/01/1095809132/cowboys-in-colombia-are-barefoot-legends">Cowboys in Colombia are barefoot legends</a> NPR: Cowboys in the South American country of Colombia have a storied history. To this day, they continue to ride the plains, keeping an eye on cattle. And usually, they do so barefoot. 
- <p class="updated_time"> 07:16 AM CT, May. 01 </p> 
- <a href="https://www.npr.org/2022/05/01/1095809125/europe-has-to-monitor-hate-speech-and-illegal-content-on-social-media-more-close">Europe has to monitor hate speech and illegal content on social media more closely</a> NPR: New rules will require social media networks in the European Union to more closely monitor hate speech and other illegal content posted on their platforms. 
  <p class="updated_time"> 05:42 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/beijing-china-covid.html">Beijing Escalates Restrictions After Covid Outbreak, but No Full Lockdown</a> NYT: Officials in China’s capital are striving to contain a coronavirus outbreak while avoiding public anger of the kind that has erupted in Shanghai. 
  <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
@@ -185,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/europe/civilians-mariupol-azovstal.html">Civilians Keep Arriving at Besieged Steel Complex in Mariupol, Fighters Say</a> NYT: That citizens are still seeking to shelter at the plant, where there is no prospect of escape or rescue, offers a testament to what they must be facing elsewhere in the devastated city. 
  <p class="updated_time"> 04:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/middleeast/miilya-israel-archaeology-crusaders-byzantine.html">Mi’ilya, Christian Village in Israel, Digs Into Crusader Past</a> NYT: The residents of Mi’ilya long wondered what archaeological treasures lay beneath a crumbling castle. Now, some are excavating their homes to find out. 
- <p class="updated_time"> 08:34 PM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/world/europe/europe-ratchets-up-preparation-for-russian-oil-embargo-next-week.html">Amid Hardening Western Resolve, Signs of Russia’s Stalling in Eastern Ukraine</a> NYT: Pentagon officials say the Russian drive in Donbas is being hampered by poor logistics and stiff Ukrainian resistance. 
  <p class="updated_time"> 04:52 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/coronavirus-cases-us.html">Coronavirus Cases Are Rising Across the U.S., but Most Are Mild</a> NYT: Hospitalizations remain low, partly a reflection of greater immunity in the population. 
  <p class="updated_time"> 03:47 PM CT, Apr. 29 </p> 
@@ -198,8 +196,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:37 PM CT, May. 02 </p> 
+ <a href="https://www.npr.org/2022/05/02/1095988648/preparing-the-election-system-for-poll-workers-who-think-its-rigged">Preparing the election system for poll workers who think it's rigged</a> NPR: In Michigan, election administrators are preparing for the possibility of new poll workers who believe President Trump's lies about a stolen election. 
+ <p class="updated_time"> 03:28 PM CT, May. 02 </p> 
+ <a href="https://www.npr.org/2022/05/02/1095988592/they-played-a-crucial-role-in-confirming-bidens-2020-win-now-theyre-out-of-a-job">They played a crucial role in confirming Biden's 2020 win. Now, they're out of a job</a> NPR: After the 2020 election, then-President Trump told Republican canvassers not to certify the results giving Biden a victory. Some say they've been removed from their posts for resisting that pressure. 
+ <p class="updated_time"> 02:51 PM CT, May. 02 </p> 
+ <a href="https://www.politico.com/news/2022/05/02/biden-33b-ukraine-skimps-humanitarian-needs-00029382">Aid groups: Biden’s $33B for Ukraine skimps on humanitarian needs</a> Politico: The organizations are asking Congress to beef up aid spending, arguing that fuel and food shortages are making such work more expensive. 
  <p class="updated_time"> 01:53 PM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/us/politics/house-jan-6-panel-gop-lawmakers.html">Jan. 6 Panel Seeks to Interview Three More G.O.P. Lawmakers</a> NYT: The committee also said it had evidence that some House Republicans sought pardons from President Donald J. Trump in connection with the effort to overturn the election. 
+ <a href="https://www.nytimes.com/2022/05/02/us/politics/house-jan-6-panel-gop-lawmakers.html">House Jan. 6 Panel Seeks Interviews With Three More G.O.P. Lawmakers</a> NYT: The committee also said it had evidence that some House Republicans sought pardons from President Donald J. Trump in connection with the effort to overturn the election. 
  <p class="updated_time"> 01:32 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/business/spirit-airlines-rejects-jetblue-offer.html">Spirit Airlines Rejects JetBlue’s Offer</a> NYT: The airline said regulators would be skeptical of letting the companies merge as long as JetBlue was in a partnership with American Airlines. 
  <p class="updated_time"> 01:28 PM CT, May. 02 </p> 
@@ -277,8 +281,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:01 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/florida-lost-70-000-people-to-covid-its-still-not-prepared-for-the-next-wave-00029091">Florida lost 70,000 people to Covid. It’s still not prepared for the next wave.</a> Politico: A report by the Florida Hospital Association estimates 70 percent of Florida hospitals are facing a critical staffing shortage, and the state will be short 60,000 nurses by 2035. 
  <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
- <a href="https://www.politico.com/news/2022/05/01/trump-republicans-first-step-act-00029104">Trump’s criminal justice reform bill becomes persona non grata among GOPers</a> Politico: With rising crime and the approaching midterms, Republicans have moved far past the First Step Act. 
- <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/democrats-immigration-reform-infighting-00029087">Immigration reform withers as Democrats descend into border infighting</a> Politico: There's now "zero" chance for a comprehensive bill this Congress, one key senator said. But the party has some smaller ideas to fall back on. 
  <p class="updated_time"> 05:47 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/pelosi-concludes-secret-visit-to-ukraine-00029154">Pelosi concludes secret visit to Ukraine</a> Politico: The House speaker, who is second in line to the presidency, is now the highest-ranking U.S. official to visit the war-battered nation since Russia’s invasion began. 
@@ -310,16 +312,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/30/business/media/tucker-carlson-fox-news-takeaways.html">What to Know About Tucker Carlson’s Rise</a> NYT: A Times examination of the host’s career and singular influence at Fox News shows how his trajectory traces the transformation of American conservatism itself. 
  <p class="updated_time"> 07:26 AM CT, Apr. 30 </p> 
  <a href="https://www.npr.org/2022/04/30/1095750165/title-42-was-meant-to-slow-covid-at-the-border-its-being-used-to-manage-migratio">Title 42 was meant to slow COVID at the border. It's being used to manage migration</a> NPR: The pandemic border restrictions known as Title 42 are technically a public health policy. But the debate in Washington has shifted to whether or not they're an effective tool for managing the border. 
- <p class="updated_time"> 07:00 AM CT, Apr. 30 </p> 
- <a href="https://www.npr.org/2022/04/30/1095750110/week-in-politics-trump-under-investigation-ukraine-and-covid-funds-up-in-the-air">Week in politics: Trump under investigation; Ukraine and COVID funds up in the air</a> NPR: We'll take a look at two grand jury investigations into former President Donald Trump, as well as the fate of the Ukraine aid and COVID spending bills currently in Congress. 
  <p class="updated_time"> 06:01 AM CT, Apr. 30 </p> 
  <a href="https://www.politico.com/news/2022/04/29/oregon-kentucky-dust-off-an-obama-era-policy-to-expand-health-insurance-00029111">Oregon, Kentucky dust off an Obama-era policy to expand health insurance</a> Politico: Oregon and Kentucky are pursuing an Obama-era policy that uses federal dollars to establish a health insurance plan for people who make too much money to qualify for their state’s Medicaid programs. 
  <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/us/politics/ohio-senate-primary-vance-trump.html">Ahead of Senate Primary Election, Ohio Republicans Embrace the Bombast </a> NYT: The slugfest for the Republican nomination for Ohio’s open Senate seat has buried the brand of good-natured, country-club conservatism that was once a hallmark of the state. 
  <p class="updated_time"> 06:35 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/us-democracy.html">Is American Democracy Built to Last?</a> NYT: Yascha Mounk’s new book questions deeply held beliefs about the stability of Western societies. 
- <p class="updated_time"> 03:37 PM CT, Apr. 29 </p> 
- <a href="https://www.npr.org/2022/04/29/1095642347/election-denialism-beliefs-animate-some-gop-candidates-in-michigan">Election denialism beliefs animate some GOP candidates in Michigan</a> NPR: Michigan was a focal point in Trump's effort to overturn the 2020 election. Zach Gorchow of Gongwer News Service tells NPR's Ailsa Chang that election misinformation still looms large there. 
 
 
 </details>
