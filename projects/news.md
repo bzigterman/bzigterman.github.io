@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:52 AM CT, May. 02 </p> 
+ <p class="updated_time"> 06:08 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">Ukraine Live Updates: Desperate Civilians Gather for Evacuation From Mariupol</a> NYT: Reports of renewed Russian shelling threatened an effort to rescue civilians sheltering under a steel plant. A British intelligence assessment pointed to huge military losses for Moscow. 
  <p class="updated_time"> 05:49 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61294894?at_medium=RSS&at_campaign=KARANGA">Qantas promises direct flights from Sydney to London and New York</a> BBC: Australia's carrier says its new fleet will be capable of direct flights to any city in the world. 
@@ -21,22 +21,24 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/02/world/africa/south-africa-surge-variants.html">South Africa’s latest surge is a possible preview of the pandemic’s next chapter.</a> NYT: The spread of two newly discovered subvariants has doctors watching closely. 
  <p class="updated_time"> 05:16 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61294958?at_medium=RSS&at_campaign=KARANGA">Falklands War remains 'an open wound' in Argentina, says ambassador</a> BBC: The conflict is a "deeply emotional issue" for politicians and the public at home, the diplomat says. 
+ <p class="updated_time"> 05:12 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876">Russia Recasts Ukraine Fight as War With West</a> WSJ: Russia Recasts Ukraine Fight as War With West 
  <p class="updated_time"> 05:11 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/pope-francis-kyiv-ambassadors.html">As Ambassadors Left Town, the Pope’s Emissary Remained in Kyiv</a> NYT: Through shelling, street fights in the suburbs and the flight of thousands through Ukraine’s capital, the Vatican’s diplomatic mission stayed put. 
  <p class="updated_time"> 05:08 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/beijing-isolation.html">Beijing Reopens Mass Isolation Center In Attempt to Avoid Broad Lockdown</a> NYT: While the Chinese capital has recorded only a few hundred cases in recent weeks, the move to reopen the facility appears to be aimed at avoiding the fate of Shanghai. 
- <p class="updated_time"> 04:53 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876">Russia Recasts Ukraine Fight as War With West</a> WSJ: Russia Recasts Ukraine Fight as War With West 
  <p class="updated_time"> 04:42 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095864233/australian-man-admits-to-pushing-a-gay-american-off-a-cliff">Sydney man admits to pushing a gay American off a cliff in 1988</a> NPR: The defendant faces a potential sentence of life in prison on sentencing scheduled for Tuesday. 
+ <p class="updated_time"> 04:12 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/china-economy-recession-covid-lockdowns-11651434168">China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth</a> WSJ: China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth 
  <p class="updated_time"> 04:06 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-61297292?at_medium=RSS&at_campaign=KARANGA">Orange skies as Iraq hit by dust storm</a> BBC: Experts say the storms are increasing in frequency due to drought and declining rainfall. 
  <p class="updated_time"> 04:00 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1094894360/mazel-tov-cocktail-party-take-an-ounce-of-hip-hop-dash-of-polka-then-square-danc">Mazel Tov Cocktail Party: Take an ounce of hip hop, dash of polka, then square dance</a> NPR: Finding a thriving dance culture in the Adirondacks Mountains inspired the band to take its sound in an unexpected direction. 
  <p class="updated_time"> 04:00 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/ukraine-war-mariupol-escape.html">Sisters Recount Escape From Mariupol as Russians Closed In</a> NYT: The women say they were forced onto a bus to Russian-controlled territory, then escaped what Ukrainian and U.S. officials have described as “filtration” centers for a system of forced expulsions to Russia. 
- <p class="updated_time"> 03:53 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/china-economy-recession-covid-lockdowns-11651434168">China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth</a> WSJ: China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth 
+ <p class="updated_time"> 03:12 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/europe-to-make-fresh-push-to-revive-iran-nuclear-deal-by-offering-to-send-top-negotiator-back-to-tehran-11651419295">Europe to Make Fresh Push to Revive Iran Nuclear Deal</a> WSJ: Europe to Make Fresh Push to Revive Iran Nuclear Deal 
  <p class="updated_time"> 03:11 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61297026?at_medium=RSS&at_campaign=KARANGA">Emotional reunions as New Zealand reopens to tourists</a> BBC: The country has reopened its borders to visitors after a pandemic lockout of more than two years. 
  <p class="updated_time"> 03:02 AM CT, May. 02 </p> 
@@ -44,16 +46,14 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:59 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/philippines-election-marcos-robredo.html">Ahead of Philippines Election, Young People Rally Around Leni Robredo</a> NYT: As the election in the Philippines nears, tens of thousands of young people who fear another Marcos presidency are rallying around Leni Robredo, the country’s vice president. 
  <p class="updated_time"> 02:53 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/europe-to-make-fresh-push-to-revive-iran-nuclear-deal-by-offering-to-send-top-negotiator-back-to-tehran-11651419295">Europe to Make Fresh Push to Revive Iran Nuclear Deal</a> WSJ: Europe to Make Fresh Push to Revive Iran Nuclear Deal 
- <p class="updated_time"> 02:53 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095860750/new-zealand-welcomes-back-tourists-as-it-eases-pandemic-rules">New Zealand welcomes back tourists as it eases pandemic rules</a> NPR: New Zealand welcomed tourists from the U.S., Canada, Britain, Japan and more than 50 other countries for the first time in more than two years. 
  <p class="updated_time"> 02:38 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61296452?at_medium=RSS&at_campaign=KARANGA">India heatwave: Scorching temperatures affecting poor the most</a> BBC: The heatwave has led to school closures and power shortages in many parts of India. 
+ <p class="updated_time"> 02:12 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 02:00 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/uk-asylum-rwanda.html">U.K. Plan to Send Asylum Seekers to Rwanda Stokes Anger and Dread</a> NYT: The government’s proposal has led to recriminations from rights groups, and anxiety among migrants who fear being sent away. 
- <p class="updated_time"> 01:53 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
- <p class="updated_time"> 12:53 AM CT, May. 02 </p> 
+ <p class="updated_time"> 01:12 AM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 12:13 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/russian-general-dead-valery-gerasimov.html">U.S. and Ukraine Officials: Top Russian Officer Went to War’s Frontline</a> NYT: The presence of such a high-ranking official on the front lines is highly unusual and comes amid what Western military analysts describe as increasing disarray within Russian forces. 
@@ -68,7 +68,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:59 PM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095824437/may-day-workers-rights-protests">Workers around the world mark May Day with rallies for better working conditions</a> NPR: From New York City to Turkey, activists and workers seized this International Workers' Day as a moment to push for greater worker protections and changes to immigration policies. 
  <p class="updated_time"> 07:01 PM CT, May. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61263834?at_medium=RSS&at_campaign=KARANGA">Angola's Joice Zau: The performance poet who hates peace</a> BBC: Angolan Joice Zau gained notoriety by criticising her government and she is not staying quiet. 
+ <a href="https://www.bbc.co.uk/news/world-africa-61263834?at_medium=RSS&at_campaign=KARANGA">Angola's Joice Zau: The prize-winning poet who refuses to stay quiet</a> BBC: Joice Zau is determined to carry on despite being threatened for "telling the truth" in Angola. 
  <p class="updated_time"> 06:49 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61270253?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: The hard life of a homeless deliveryman</a> BBC: Many riders face a lack of shelter and safety while delivering supplies in a locked down city. 
  <p class="updated_time"> 06:46 PM CT, May. 01 </p> 
