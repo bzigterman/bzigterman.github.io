@@ -158,7 +158,7 @@ fig <- hchart(data,
                     y = value*1000),
               name = "Total",
               yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 2, heights = c(2, 1),
+  hc_yAxis_multiples(create_axis(naxis = 2, heights = c(1, 1),
                                  title = list(text = NULL))) %>%
   hc_add_series(
     data = data,
@@ -393,7 +393,7 @@ fig <- hchart(data,
                     y = value*1000000000),
               name = "Total",
               yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 2, heights = c(2, 1),
+  hc_yAxis_multiples(create_axis(naxis = 2, heights = c(1, 1),
                                  title = list(text = NULL))) %>%
   hc_add_series(
     data = data,
@@ -1028,7 +1028,7 @@ fig <- hchart(data,
                      list(type = 'year', count = 5, text = '5y'),
                      list(type = 'year', count = 10, text = '10y'),
                      list(type = 'all', text = 'All')),
-                   selected = 1)
+                   selected = 2)
 
 fig
 saveWidget(widget = fig, file = "interactive/champaign_employment.html",
@@ -1490,7 +1490,7 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 <iframe src=\"/interactive/champaign_employment.html\" width=\"100%\" height=\"500\"> 
 </iframe>
 
-<iframe src=\"/interactive/champaign_housing.html\" width=\"100%\" height=\"800\"> 
+<iframe src=\"/interactive/champaign_housing.html\" width=\"100%\" height=\"700\"> 
 </iframe>
 
 ",better_cu_housing_table_html,"
