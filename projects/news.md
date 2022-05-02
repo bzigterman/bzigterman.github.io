@@ -9,28 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:31 PM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">Live Updates: West Works to Put Ukraine Pledges Into Action</a> NYT: Civilians continued evacuating from Mariupol with accounts of life under siege. A senior U.S. diplomat warned that Russia appeared to be preparing to annex two regions in eastern Ukraine and possibly a third in the south. 
+ <p class="updated_time"> 06:31 PM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/world/europe/mariupol-evacuation-annex-donbas.html">Painful Stories Emerge From Mariupol, While Combat Rages to the East</a> NYT: With its forces making only slow progress and enduring heavy losses, Russia now plans to annex eastern parts of Ukraine after a sham election, the U.S. says. 
  <p class="updated_time"> 06:02 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61273431?at_medium=RSS&at_campaign=KARANGA">Why does water flow from a tree in Montenegro?</a> BBC: Each year in the Montenegran village of Dinosa, water can be seen gushing from the trunk of a mulberry tree. 
  <p class="updated_time"> 06:00 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61302025?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The southern villages holding back the Russians</a> BBC: Ukraine's south has seen heavy fighting as Russia seeks to take key port areas around the Black Sea. 
+ <p class="updated_time"> 05:56 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 05:52 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61296682?at_medium=RSS&at_campaign=KARANGA">Israel outrage at Sergei Lavrov's claim that Hitler was part Jewish</a> BBC: The Russian foreign minister's claim that Hitler "had Jewish blood" is denounced as unforgiveable. 
- <p class="updated_time"> 05:28 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 04:56 PM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">Live Updates: West Works to Put Ukraine Pledges Into Action</a> NYT: Civilians continued evacuating from Mariupol with accounts of life under siege. A senior U.S. diplomat warned that Russia appeared to be preparing to annex two regions in eastern Ukraine and possibly a third in the south. 
- <p class="updated_time"> 04:56 PM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/world/europe/mariupol-evacuation-annex-donbas.html">Painful Stories Emerge From Mariupol, While Combat Rages to the East</a> NYT: With its forces making only slow progress and enduring heavy losses, Russia now plans to annex eastern parts of Ukraine after a sham election, the U.S. says. 
+ <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 04:38 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61299527?at_medium=RSS&at_campaign=KARANGA">Jacky Hunt-Broersma: The cancer survivor who ran 104 marathons in 104 days</a> BBC: Jacky Hunt-Broersma, who lost her leg to cancer, set an unofficial record for consecutive marathons. 
  <p class="updated_time"> 04:38 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61296851?at_medium=RSS&at_campaign=KARANGA">Russia attacking Mariupol steelworks after evacuations, says Ukraine commander</a> BBC: A Ukrainian commander at the Azovstal plant says hundreds are stuck there, despite evacuations on Sunday. 
- <p class="updated_time"> 04:28 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 04:15 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/russia-invasion-ukraine-elections.html">Russia Plans to Annex Parts of Ukraine with ‘Sham’ Elections, U.S. Diplomat Says</a> NYT: The official said that Russia may also try to take over parts of Ukraine by imposing “puppets and proxies” in local governments and forcing out democratically elected officials. 
  <p class="updated_time"> 04:00 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095963637/russia-ukraine-war-what-happened-today-may-2">Russia-Ukraine war: What happened today (May 2)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:56 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
  <p class="updated_time"> 03:51 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095988641/the-war-in-ukraine-has-the-cost-of-bread-skyrocketing-in-places-like-the-middle-">The war in Ukraine has the cost of bread skyrocketing in places like the Middle East</a> NPR: The war in Ukraine has exacerbated inflation in the Middle East, where countries rely on Russia and Ukraine for imported wheat. 
  <p class="updated_time"> 03:38 PM CT, May. 02 </p> 
@@ -38,21 +40,19 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:36 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095988620/why-it-took-nearly-100-years-for-umami-to-be-globally-accepted-as-a-distinct-fla">Why it took nearly 100 years for umami to be globally accepted as a distinct flavor</a> NPR: A Japanese chemist identified umami in the early 1900s, but it took a century for his work to be translated into English. NPR's Short Wave podcast looked into why it took so long to be recognized. 
  <p class="updated_time"> 03:28 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
- <p class="updated_time"> 03:28 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095988599/civilians-and-soldiers-remain-trapped-in-a-mariupol-steel-plant">Civilians and soldiers remain trapped in a Mariupol steel plant</a> NPR: More civilians are being evacuated Monday from a steel facility in Mariupol, Ukraine. But thousands of soldiers remain, many of whom are injured and have been holed up for weeks. 
+ <p class="updated_time"> 02:56 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 02:50 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/ukraine-war-mariupol-escape.html">Sisters Recount Escape From Mariupol as Russians Closed In</a> NYT: The women say they were forced onto a bus to Russian-controlled territory, then escaped what Ukrainian and U.S. officials have described as “filtration” centers for a system of forced expulsions to Russia. 
- <p class="updated_time"> 02:28 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 02:04 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61301911?at_medium=RSS&at_campaign=KARANGA">Amazon will pay US staff travel expenses for abortions and other treatments</a> BBC: The firm will reimburse travel costs for various treatments in the US, including abortion. 
+ <p class="updated_time"> 01:56 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 01:45 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/kyiv-ukraine-russia-war.html">In Kyiv, Residents Cautiously Embrace a Sense of Normalcy</a> NYT: A month after the Ukrainian Army defeated the Russian forces that had partly encircled Ukraine’s capital, tension is slowly seeping out of the city. 
  <p class="updated_time"> 01:29 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-61298791?at_medium=RSS&at_campaign=KARANGA">EU divided over how to step away from Russian energy</a> BBC: EU energy ministers met to discuss a possible ban on Russian oil, but members remain split. 
- <p class="updated_time"> 01:28 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 01:16 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
  <p class="updated_time"> 12:52 PM CT, May. 02 </p> 
@@ -196,8 +196,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:35 PM CT, May. 02 </p> 
+ <a href="https://www.politico.com/news/2022/05/02/george-w-bush-brian-kemp-event-trump-00029476">George W. Bush to appear at fundraiser for Trump nemesis Kemp</a> Politico: Kemp has been sharply criticized by Trump for his resistance to the former president’s efforts to overturn the results of the 2020 election. 
+ <p class="updated_time"> 06:21 PM CT, May. 02 </p> 
+ <a href="https://www.politico.com/news/2022/05/02/ukraine-civilians-rescued-mariupol-00029478">Civilians rescued from Mariupol steel plant head for safety</a> Politico: Russia resumed attacks on the plant. 
  <p class="updated_time"> 06:00 PM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/us/politics/ohio-map-jd-vance.html">How Ohio’s Map Will Test J.D. Vance’s Political Allure</a> NYT: Behind the wild language, the “Hillbilly Elegy” author’s bid for a Senate seat follows a traditional Republican playbook. 
+ <a href="https://www.nytimes.com/2022/05/02/us/politics/ohio-jd-vance.html">How Ohio’s Map Will Test J.D. Vance’s Political Allure</a> NYT: Behind the wild language, the “Hillbilly Elegy” author’s bid for a Senate seat follows a traditional Republican playbook. 
  <p class="updated_time"> 05:47 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/us/politics/alexandria-ocasio-cortez-nina-turner.html">Alexandria Ocasio-Cortez Endorses Nina Turner for Ohio House Seat</a> NYT: Ms. Turner is challenging Representative Shontel Brown for a second time in Tuesday’s primary election, after Ms. Brown won a special election last year. 
  <p class="updated_time"> 05:31 PM CT, May. 02 </p> 
@@ -205,7 +209,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:05 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1096019099/special-grand-jury-georgia-trump-2020-election">A special grand jury was picked to probe Trump's actions in the 2020 Georgia election</a> NPR: A special grand jury was selected for the investigation into whether former President Donald Trump and others illegally tried to influence the 2020 election in Georgia. 
  <p class="updated_time"> 04:55 PM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/us/politics/dianne-feinstein-memory-issues.html">As Dianne Feinstein Declines, Democrats Wrestle With Open Secret</a> NYT: Democrats have quietly accepted the California senator’s memory issues as the status quo, even as her inner circle frets that the spectacle of her difficulties on the job could tarnish her legacy. 
+ <a href="https://www.nytimes.com/2022/05/02/us/politics/dianne-feinstein-memory-issues.html">As Feinstein Declines, Democrats Struggle to Manage an Open Secret</a> NYT: Democrats have quietly accepted the California senator’s memory issues as the status quo, even as her inner circle frets that the spectacle of her difficulties on the job could tarnish her legacy. 
  <p class="updated_time"> 03:51 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095988627/upcoming-primaries-will-gauge-trumps-influence-over-gop-voters">Upcoming primaries will gauge Trump's influence over GOP voters</a> NPR: President Trump has endorsed over 140 Republican candidates in this year's primaries. Tuesday will mark the first big test of his influence in Ohio's GOP Senate primary. 
  <p class="updated_time"> 03:51 PM CT, May. 02 </p> 
@@ -231,7 +235,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:00 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095521376/jan-6-panel-asks-three-new-house-republicans-to-testify-voluntarily">Jan. 6 panel asks three new House Republicans to testify voluntarily</a> NPR: The panel investigating the attack on the Capitol asked U.S. Reps. Andy Biggs of Arizona, Mo Brooks of Alabama and Ronny Jackson of Texas to appear. 
  <p class="updated_time"> 10:57 AM CT, May. 02 </p> 
- <a href="https://www.politico.com/news/2022/05/02/gop-lawmakers-testimony-capitol-riot-00029322">Jan. 6 committee asks three pro-Trump GOP lawmakers for testimony</a> Politico: Reps. Andy Biggs (R-Ariz.), Ronny Jackson (R-Texas) and Mo Brooks (R-Ala.) all voted to object to certifying the former president's loss to Joe Biden. 
+ <a href="https://www.politico.com/news/2022/05/02/gop-lawmakers-testimony-capitol-riot-00029322">3 pro-Trump GOP lawmakers reject Jan. 6 committee's requests for testimony</a> Politico: Reps. Andy Biggs (R-Ariz.), Ronny Jackson (R-Texas) and Mo Brooks (R-Ala.) all voted to object to certifying the former president's loss to Joe Biden. 
  <p class="updated_time"> 08:56 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095770735/madison-cawthorn-allegations">Rep. Madison Cawthorn is under mounting pressure from scandals ahead of midterms</a> NPR: In the wake of scandals following the far-right North Carolina congressman, from salacious pictures to alleged insider trading, Cawthorn's star seems to be falling almost as fast as it rose. 
  <p class="updated_time"> 08:50 AM CT, May. 02 </p> 
@@ -259,21 +263,19 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/may-primaries-republican-donald-trump-ohio-00029149">Trumpworld braces for ‘a couple of ugly nights’ in May</a> Politico: The upcoming stretch of primaries could put a serious dent in the Trump brand. 
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
- <a href="https://www.politico.com/news/2022/05/02/todd-young-indiana-senate-trump-00029217">The GOP senator who faulted Trump for Jan. 6 — and lived to tell about it</a> Politico: Indiana Sen. Todd Young is one of only four Senate GOP incumbents whom the former president has not endorsed for reelection. 
- <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/arizona-gop-senate-mark-brnovich-00029241">Arizona GOP Senate frontrunner loses lead amid air assault</a> Politico: Trump has criticized state Attorney General Mark Brnovich for declining to overturn the 2020 election results. 
+ <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
+ <a href="https://www.politico.com/news/2022/05/02/todd-young-indiana-senate-trump-00029217">The GOP senator who faulted Trump for Jan. 6 — and lived to tell about it</a> Politico: Indiana Sen. Todd Young is one of only four Senate GOP incumbents whom the former president has not endorsed for reelection. 
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/bidenworld-midterms-trump-elon-musk-00029106">Bidenworld wants to make the midterms more about Trump and hopes Elon Musk helps</a> Politico: The election will be either a referendum or a contrast. The president’s team prefers the latter. 
  <p class="updated_time"> 10:37 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/30/us/tucker-carlson-fox-news.html">How Tucker Carlson Reshaped Fox News — and Became Trump’s Heir</a> NYT: As the host turned a civil war at Fox to his advantage, he found himself at the forefront of the nativist forces transforming conservative politics. 
  <p class="updated_time"> 06:00 PM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/2022/05/01/us/politics/walter-mondale-memorial.html">Biden Extols Mondale as ‘One of the Great Giants of American History’</a> NYT: President Biden paid tribute to Walter F. Mondale, his former colleague in the Senate who went on to transform the office of vice president and died in 2021. 
+ <a href="https://www.nytimes.com/2022/05/01/us/politics/walter-mondale-memorial.html">Biden Eulogizes Walter F. Mondale at Memorial</a> NYT: President Biden paid tribute to Walter F. Mondale, his former colleague in the Senate who went on to transform the office of vice president and died in 2021. 
  <p class="updated_time"> 04:25 PM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/biden-mondale-memorial-dark-days-00029194">Biden: Mondale rescued me from darkness</a> Politico: At a much-delayed memorial service, Biden described the aftermath of a family tragedy in 1972. 
  <p class="updated_time"> 04:11 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/us/politics/biden-approval-inflation-immigration.html">Biden Received Early Warnings That Immigration and Inflation Could Erode His Support</a> NYT: Confidential polling data obtained by The New York Times underscores the biggest challenges for President Biden and his party as they face the prospect of losing power to Republicans on Capitol Hill. 
- <p class="updated_time"> 03:56 PM CT, May. 01 </p> 
- <a href="https://www.politico.com/news/2022/05/01/marine-ukraine-killed-willy-cancel-00029197">Combat death puts spotlight on Americans fighting in Ukraine</a> Politico: A former U.S. Marine who died last week was believed to be the first American citizen killed while fighting in Ukraine. 
  <p class="updated_time"> 12:45 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/style/kim-kardashian-pete-davidson-white-house-correspondents-dinner.html">Kim Kardashian and Pete Davidson Attend the White House Correspondents’ Dinner</a> NYT: An interesting event to choose to make an entrance. 
  <p class="updated_time"> 12:31 PM CT, May. 01 </p> 
@@ -302,8 +304,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/01/us/politics/covid-aid-hospitals-uninsured.html">Loss of Pandemic Aid Stresses Hospitals That Treat the Uninsured</a> NYT: Hospitalizations from Covid-19 are receding, but safety-net providers are facing tremendous unmet needs from poor and uninsured patients who delayed seeking care during the pandemic. 
  <p class="updated_time"> 01:33 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095801502/president-biden-mocks-trump-at-white-house-correspondents-dinner">President Biden mocks Trump at White House Correspondents' Dinner</a> NPR: Joe Biden addressed the White House Correspondents' Association dinner on Saturday night, the first time a president has spoken at the event in six years. 
- <p class="updated_time"> 11:25 PM CT, Apr. 30 </p> 
- <a href="https://www.politico.com/news/2022/05/01/trevor-noah-white-house-correspondents-highlights-best-moments-00029073">Trevor Noah's best jokes at the WHCD</a> Politico: The headliner quipped that it was his “great honor” to speak at the “nation’s most distinguished superspreader event.” 
  <p class="updated_time"> 10:42 PM CT, Apr. 30 </p> 
  <a href="https://www.cnn.com/2022/04/30/politics/gallery/2022-white-house-correspondents-dinner/index.html">In pictures: The 2022 White House Correspondents' Dinner</a> CNN: After a two-year hiatus due to the Covid-19 pandemic, the White House Correspondents' Dinner returned in full force Saturday night. 
  <p class="updated_time"> 10:33 PM CT, Apr. 30 </p> 
