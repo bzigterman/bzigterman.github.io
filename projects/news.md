@@ -12,7 +12,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:20 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/05/01/world/ukraine-russia-war-news">What Happened on Day 67 of the War in Ukraine</a> NYT: Speaker Nancy Pelosi visited Ukraine and pledged U.S. support ‘until victory is won.’ An evacuation of civilians from Mariupol was underway. 
  <p class="updated_time"> 04:16 AM CT, May. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61296682?at_medium=RSS&at_campaign=KARANGA">Israel outrage at Russian claim that Hitler was Jewish</a> BBC: The Russian foreign minister's claim that Hitler "had Jewish blood" is denounced as unforgiveable. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61296682?at_medium=RSS&at_campaign=KARANGA">Israel outrage at Russian claim that Hitler was part Jewish</a> BBC: The Russian foreign minister's claim that Hitler "had Jewish blood" is denounced as unforgiveable. 
  <p class="updated_time"> 04:10 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61294894?at_medium=RSS&at_campaign=KARANGA">Qantas promises direct flights from Sydney to London and New York</a> BBC: Australia's carrier says its new fleet will be capable of direct flights to any city in the world. 
  <p class="updated_time"> 04:06 AM CT, May. 02 </p> 
@@ -23,7 +23,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/02/world/europe/ukraine-war-mariupol-escape.html">Sisters Recount Escape From Mariupol as Russians Closed In</a> NYT: The women say they were forced onto a bus to Russian-controlled territory, then escaped what Ukrainian and U.S. officials have described as “filtration” centers for a system of forced expulsions to Russia. 
  <p class="updated_time"> 03:53 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/africa/south-africa-surge-variants.html">South Africa’s latest surge is a possible preview of the pandemic’s next chapter.</a> NYT: The spread of two newly discovered subvariants has doctors watching closely. 
- <p class="updated_time"> 03:21 AM CT, May. 02 </p> 
+ <p class="updated_time"> 03:41 AM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/russia-recasts-fight-in-ukraine-as-war-with-the-west-11651423876">Russia Recasts Ukraine Fight as War With West</a> WSJ: Russia Recasts Ukraine Fight as War With West 
  <p class="updated_time"> 03:11 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61297026?at_medium=RSS&at_campaign=KARANGA">Emotional reunions as New Zealand reopens to tourists</a> BBC: The country has reopened its borders to visitors after a pandemic lockout of more than two years. 
@@ -33,15 +33,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/01/world/asia/philippines-election-marcos-robredo.html">Ahead of Philippines Election, Young People Rally Around Leni Robredo</a> NYT: As the election in the Philippines nears, tens of thousands of young people who fear another Marcos presidency are rallying around Leni Robredo, the country’s vice president. 
  <p class="updated_time"> 02:53 AM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095860750/new-zealand-welcomes-back-tourists-as-it-eases-pandemic-rules">New Zealand welcomes back tourists as it eases pandemic rules</a> NPR: New Zealand welcomed tourists from the U.S., Canada, Britain, Japan and more than 50 other countries for the first time in more than two years. 
+ <p class="updated_time"> 02:41 AM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/china-economy-recession-covid-lockdowns-11651434168">China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth</a> WSJ: China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth 
  <p class="updated_time"> 02:38 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61296452?at_medium=RSS&at_campaign=KARANGA">India heatwave: Scorching temperatures affecting poor the most</a> BBC: The heatwave has led to school closures and power shortages in many parts of India. 
- <p class="updated_time"> 02:21 AM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/china-economy-recession-covid-lockdowns-11651434168">China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth</a> WSJ: China’s Economy Appears to Be Stalling, Threatening to Drag Down Global Growth 
  <p class="updated_time"> 02:00 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/uk-asylum-rwanda.html">U.K. Plan to Send Asylum Seekers to Rwanda Stokes Anger and Dread</a> NYT: The government’s proposal has led to recriminations from rights groups, and anxiety among migrants who fear being sent away. 
- <p class="updated_time"> 01:21 AM CT, May. 02 </p> 
+ <p class="updated_time"> 01:41 AM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/europe-to-make-fresh-push-to-revive-iran-nuclear-deal-by-offering-to-send-top-negotiator-back-to-tehran-11651419295">Europe to Make Fresh Push to Revive Iran Nuclear Deal</a> WSJ: Europe to Make Fresh Push to Revive Iran Nuclear Deal 
- <p class="updated_time"> 12:21 AM CT, May. 02 </p> 
+ <p class="updated_time"> 12:41 AM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/nancy-pelosi-visits-ukraine-president-zelensky-in-kyiv-11651392666">Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support</a> WSJ: Nancy Pelosi Leads U.S. Delegation to Ukraine in Show of Support 
  <p class="updated_time"> 12:13 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/russian-general-dead-valery-gerasimov.html">U.S. and Ukraine Officials: Top Russian Officer Went to War’s Frontline</a> NYT: The presence of such a high-ranking official on the front lines is highly unusual and comes amid what Western military analysts describe as increasing disarray within Russian forces. 
@@ -49,10 +49,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61284964?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Families hide in cellars as Russia targets Donbas region</a> BBC: Those remaining in the Ukrainian city of Lysychansk near the front line live under constant shelling. 
  <p class="updated_time"> 11:44 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61295550?at_medium=RSS&at_campaign=KARANGA">Philippines fire kills eight, including children</a> BBC: The blaze destroyed 80 homes after tearing through a crowded settlement near the capital Manila. 
+ <p class="updated_time"> 11:41 PM CT, May. 01 </p> 
+ <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 11:40 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61294988?at_medium=RSS&at_campaign=KARANGA">New Zealand reopens to tourists after two-year pandemic lockout</a> BBC: Visitors from 60 countries can now enter the Pacific nation which had sealed its borders since March 2020. 
- <p class="updated_time"> 11:21 PM CT, May. 01 </p> 
- <a href="https://www.wsj.com/articles/russias-occupation-of-southern-ukraine-hardens-with-rubles-russian-schools-and-lenin-statues-11651403176">Russia’s Occupation of Southern Ukraine Hardens</a> WSJ: Russia’s Occupation of Southern Ukraine Hardens 
  <p class="updated_time"> 10:27 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/04/29/movies/russia-movie-theaters-piracy.html">In Echo of Soviet Era, Russia’s Movie Theaters Turn to Pirate Screenings</a> NYT: In a Cold War throwback, some venues are showing bootleg versions after Hollywood studios pulled films from the country. Still, viewer numbers have tanked. 
  <p class="updated_time"> 09:47 PM CT, May. 01 </p> 
@@ -195,8 +195,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/asia/beijing-covid-outbreak-schools.html">Beijing Closes Schools as It Tries to Contain an Outbreak</a> NYT: The city is heading into a long holiday weekend, and officials are discouraging travel and unnecessary gatherings. 
  <p class="updated_time"> 09:41 AM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/ukraine-rape-war-crimes.html">In Ukraine War, a Long Journey Begins in Prosecuting Rape</a> NYT: U.N. officials and human rights investigators are rushing more resources to authorities in Ukraine to help prosecute sex crimes. 
- <p class="updated_time"> 04:36 AM CT, Apr. 29 </p> 
- <a href="https://www.nytimes.com/2022/04/29/world/europe/on-the-trail-of-russian-war-crimes.html">On the Trail of Russian War Crimes</a> NYT: Lyudmyla Denisova, Ukraine’s top human rights official, is determined to right historical wrongs and make sure Russians are held to account. 
 
 
 </details>
@@ -237,7 +235,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:03 PM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/mayorkas-defends-dhs-disinformation-board-00029182">Mayorkas cites misinformation about Homeland Security's disinformation board</a> Politico: He says the comparisons to George Orwell's "1984" are wrong. 
  <p class="updated_time"> 12:02 PM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/2022/05/01/us/politics/josh-mandel-vance-ohio-senate.html">In Trump’s Shadow, Republicans Campaign Ahead of Ohio Primary</a> NYT: Donald Trump’s endorsement of the author and venture capitalist J.D. Vance has shaken up the Republican race for the first major Senate midterm election. 
+ <a href="https://www.nytimes.com/2022/05/01/us/politics/josh-mandel-vance-ohio-senate.html">In Trump’s Shadow, Ohio Republicans Campaign Ahead of Tuesday’s Primary</a> NYT: Donald Trump’s endorsement of the author and venture capitalist J.D. Vance has shaken up the Republican race for the first major Senate midterm election. 
  <p class="updated_time"> 11:03 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/us/politics/afghanistan-war-crimes-uss-cole.html">War Crimes Hearing Revisits U.S. Soldiers’ Abuse of Detainees</a> NYT: An Army judge is hearing pretrial testimony to determine what evidence can be used at the eventual destroyer Cole death penalty trial. 
  <p class="updated_time"> 10:27 AM CT, May. 01 </p> 
@@ -293,7 +291,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:00 AM CT, Apr. 30 </p> 
  <a href="https://www.politico.com/news/2022/04/30/governors-covid-mask-mandates-00028187">Officials are nervous about mask mandates — even in Covid hot spots</a> Politico: In an election year where more than 30 governors, Congress and many state legislatures are on the ballot, politicians have been loath to consider mandates. 
  <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/30/us/politics/ohio-senate-primary-vance-trump.html">Once Soft-Spoken, Ohio Conservatives Embrace the Bombast</a> NYT: The slugfest for the Republican nomination for Ohio’s open Senate seat has buried the brand of good-natured, country-club conservatism that was once a hallmark of the state. 
+ <a href="https://www.nytimes.com/2022/04/30/us/politics/ohio-senate-primary-vance-trump.html">Ahead of Senate Primary Election, Ohio Republicans Embrace the Bombast </a> NYT: The slugfest for the Republican nomination for Ohio’s open Senate seat has buried the brand of good-natured, country-club conservatism that was once a hallmark of the state. 
  <p class="updated_time"> 08:21 PM CT, Apr. 29 </p> 
  <a href="https://www.nytimes.com/2022/04/29/us/politics/fda-covid-vaccine-under-5.html">F.D.A. Sets Aside June for Potential Decisions on Vaccines for Children Under 5</a> NYT: Both Moderna and Pfizer-BioNTech have asked the agency to approve their vaccines for the youngest children. 
  <p class="updated_time"> 07:44 PM CT, Apr. 29 </p> 
