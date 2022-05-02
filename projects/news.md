@@ -9,16 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:03 PM CT, May. 02 </p> 
+ <p class="updated_time"> 06:02 PM CT, May. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61273431?at_medium=RSS&at_campaign=KARANGA">Why does water flow from a tree in Montenegro?</a> BBC: Each year in the Montenegran village of Dinosa, water can be seen gushing from the trunk of a mulberry tree. 
+ <p class="updated_time"> 06:00 PM CT, May. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61302025?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The southern villages holding back the Russians</a> BBC: Ukraine's south has seen heavy fighting as Russia seeks to take key port areas around the Black Sea. 
+ <p class="updated_time"> 05:52 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61296682?at_medium=RSS&at_campaign=KARANGA">Israel outrage at Sergei Lavrov's claim that Hitler was part Jewish</a> BBC: The Russian foreign minister's claim that Hitler "had Jewish blood" is denounced as unforgiveable. 
+ <p class="updated_time"> 05:28 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 04:56 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">Live Updates: West Works to Put Ukraine Pledges Into Action</a> NYT: Civilians continued evacuating from Mariupol with accounts of life under siege. A senior U.S. diplomat warned that Russia appeared to be preparing to annex two regions in eastern Ukraine and possibly a third in the south. 
  <p class="updated_time"> 04:56 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/mariupol-evacuation-annex-donbas.html">Painful Stories Emerge From Mariupol, While Combat Rages to the East</a> NYT: With its forces making only slow progress and enduring heavy losses, Russia now plans to annex eastern parts of Ukraine after a sham election, the U.S. says. 
  <p class="updated_time"> 04:38 PM CT, May. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61299527?at_medium=RSS&at_campaign=KARANGA">Jacky Hunt-Broersma: The cancer survivor who ran 104 marathons in 104 days</a> BBC: Jacky Hunt-Broersma, who lost her leg to cancer, set an unofficial record for consecutive marathons. 
+ <p class="updated_time"> 04:38 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61296851?at_medium=RSS&at_campaign=KARANGA">Russia attacking Mariupol steelworks after evacuations, says Ukraine commander</a> BBC: A Ukrainian commander at the Azovstal plant says hundreds are stuck there, despite evacuations on Sunday. 
- <p class="updated_time"> 04:37 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
+ <p class="updated_time"> 04:28 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 04:15 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/russia-invasion-ukraine-elections.html">Russia Plans to Annex Parts of Ukraine with ‘Sham’ Elections, U.S. Diplomat Says</a> NYT: The official said that Russia may also try to take over parts of Ukraine by imposing “puppets and proxies” in local governments and forcing out democratically elected officials. 
  <p class="updated_time"> 04:00 PM CT, May. 02 </p> 
@@ -27,30 +35,28 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/02/1095988641/the-war-in-ukraine-has-the-cost-of-bread-skyrocketing-in-places-like-the-middle-">The war in Ukraine has the cost of bread skyrocketing in places like the Middle East</a> NPR: The war in Ukraine has exacerbated inflation in the Middle East, where countries rely on Russia and Ukraine for imported wheat. 
  <p class="updated_time"> 03:38 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/pelosi-ukraine-russia-sanctions.html">Pelosi Says Russia’s War Merits the Strongest Military Response and Sanctions</a> NYT: Following a visit to Kyiv over the weekend, Speaker Nancy Pelosi held talks in Poland with President Andrzej Duda, a meeting aimed at deepening Washington’s partnership with a key NATO ally. 
- <p class="updated_time"> 03:37 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 03:36 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095988620/why-it-took-nearly-100-years-for-umami-to-be-globally-accepted-as-a-distinct-fla">Why it took nearly 100 years for umami to be globally accepted as a distinct flavor</a> NPR: A Japanese chemist identified umami in the early 1900s, but it took a century for his work to be translated into English. NPR's Short Wave podcast looked into why it took so long to be recognized. 
+ <p class="updated_time"> 03:28 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
  <p class="updated_time"> 03:28 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095988599/civilians-and-soldiers-remain-trapped-in-a-mariupol-steel-plant">Civilians and soldiers remain trapped in a Mariupol steel plant</a> NPR: More civilians are being evacuated Monday from a steel facility in Mariupol, Ukraine. But thousands of soldiers remain, many of whom are injured and have been holed up for weeks. 
  <p class="updated_time"> 02:50 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/ukraine-war-mariupol-escape.html">Sisters Recount Escape From Mariupol as Russians Closed In</a> NYT: The women say they were forced onto a bus to Russian-controlled territory, then escaped what Ukrainian and U.S. officials have described as “filtration” centers for a system of forced expulsions to Russia. 
- <p class="updated_time"> 02:37 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
+ <p class="updated_time"> 02:28 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 02:04 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61301911?at_medium=RSS&at_campaign=KARANGA">Amazon will pay US staff travel expenses for abortions and other treatments</a> BBC: The firm will reimburse travel costs for various treatments in the US, including abortion. 
  <p class="updated_time"> 01:45 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/kyiv-ukraine-russia-war.html">In Kyiv, Residents Cautiously Embrace a Sense of Normalcy</a> NYT: A month after the Ukrainian Army defeated the Russian forces that had partly encircled Ukraine’s capital, tension is slowly seeping out of the city. 
- <p class="updated_time"> 01:37 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 01:29 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-61298791?at_medium=RSS&at_campaign=KARANGA">EU divided over how to step away from Russian energy</a> BBC: EU energy ministers met to discuss a possible ban on Russian oil, but members remain split. 
+ <p class="updated_time"> 01:28 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 01:16 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/cooking-oil-shortage-ukraine.html">Sunflower Oil ‘Vanishes’ as Ukraine War Grinds On</a> NYT: Several British supermarkets have joined other chains around the world in asking shoppers to limit their cooking oil purchases, as supplies dwindle and prices rise. 
  <p class="updated_time"> 12:52 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/hong-kong-inexpensive-dining.html">In Hong Kong, Cheap Dining Options Are All the Rage</a> NYT: In a city pummeled by political upheaval, economic downturn and the pandemic, bare-bones ‘two dishes and rice’ restaurants have become a go-to destination across all social classes. 
- <p class="updated_time"> 12:37 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 12:35 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61301238?at_medium=RSS&at_campaign=KARANGA">Uefa announces further sanctions on Russian clubs and national teams amid Ukraine invasion</a> BBC: Russia is barred from competing in this summer's women's Euro 2022 while Russian clubs will also be banned from Uefa competitions next season. 
  <p class="updated_time"> 12:25 PM CT, May. 02 </p> 
@@ -161,10 +167,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-scythia-gold-museum-russia.html">Ukraine Says Russia Looted Ancient Gold Artifacts From a Museum</a> NYT: According to Ukrainian officials, Russian soldiers, aided by a mysterious expert, broke into a museum and spirited away priceless artifacts from the Scythian empire. 
  <p class="updated_time"> 06:47 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/canada/ontario-cadets-dead-royal-military-college.html">4 Canadian Military Cadets Die After Car Plunges Into River</a> NYT: The men were set to graduate from the Royal Military College in a few weeks, the authorities said. 
- <p class="updated_time"> 06:01 PM CT, Apr. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61273433?at_medium=RSS&at_campaign=KARANGA">Asylum in Denmark: Is the country guilty of double standards?</a> BBC: As thousands of Ukrainians are welcomed, the government plans to reduce the number of non-European refugees. 
- <p class="updated_time"> 06:01 PM CT, Apr. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61262757?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… China’s zero-Covid lockdowns</a> BBC: Ros Atkins looks at why the Chinese government remains committed to its policy of eliminating all outbreaks of coronavirus. 
  <p class="updated_time"> 05:00 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/russia-oil-ukraine-weapons.html">Kremlin Deploys New Troops to Ukraine as Both Sides Gird for a War of Attrition</a> NYT: Moscow is hitting fuel refineries and imperiling critical harvests, while Ukrainian forces are being buoyed by an influx of heavy weapons. 
  <p class="updated_time"> 01:36 PM CT, Apr. 30 </p> 
@@ -194,12 +196,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:00 PM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/us/politics/ohio-map-jd-vance.html">How Ohio’s Map Will Test J.D. Vance’s Political Allure</a> NYT: Behind the wild language, the “Hillbilly Elegy” author’s bid for a Senate seat follows a traditional Republican playbook. 
+ <p class="updated_time"> 05:47 PM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/us/politics/alexandria-ocasio-cortez-nina-turner.html">Alexandria Ocasio-Cortez Endorses Nina Turner for Ohio House Seat</a> NYT: Ms. Turner is challenging Representative Shontel Brown for a second time in Tuesday’s primary election, after Ms. Brown won a special election last year. 
  <p class="updated_time"> 05:31 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/us/politics/house-jan-6-panel-gop-lawmakers.html">House Jan. 6 Panel Seeks Interviews With Three More G.O.P. Lawmakers</a> NYT: The committee also said it had evidence that some House Republicans sought pardons from President Donald J. Trump in connection with the effort to overturn the election. 
  <p class="updated_time"> 05:05 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1096019099/special-grand-jury-georgia-trump-2020-election">A special grand jury was picked to probe Trump's actions in the 2020 Georgia election</a> NPR: A special grand jury was selected for the investigation into whether former President Donald Trump and others illegally tried to influence the 2020 election in Georgia. 
  <p class="updated_time"> 04:55 PM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/us/politics/dianne-feinstein-memory-issues.html">As Feinstein Declines, Democrats Struggle to Manage an Open Secret</a> NYT: Democrats have quietly accepted the California senator’s memory issues as the status quo, even as her inner circle frets that the spectacle of her difficulties on the job could tarnish her legacy. 
+ <a href="https://www.nytimes.com/2022/05/02/us/politics/dianne-feinstein-memory-issues.html">As Dianne Feinstein Declines, Democrats Wrestle With Open Secret</a> NYT: Democrats have quietly accepted the California senator’s memory issues as the status quo, even as her inner circle frets that the spectacle of her difficulties on the job could tarnish her legacy. 
  <p class="updated_time"> 03:51 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1095988627/upcoming-primaries-will-gauge-trumps-influence-over-gop-voters">Upcoming primaries will gauge Trump's influence over GOP voters</a> NPR: President Trump has endorsed over 140 Republican candidates in this year's primaries. Tuesday will mark the first big test of his influence in Ohio's GOP Senate primary. 
  <p class="updated_time"> 03:51 PM CT, May. 02 </p> 
@@ -280,8 +286,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/01/us/politics/white-house-correspondents-dinner.html">Biden Jokes About G.O.P. and Covid at White House Correspondents’ Dinner </a> NYT: Amid concerns about Covid, President Biden offered some humor and received his own ribbing at the White House Correspondents’ Dinner, a ritual that had gone on hiatus during the pandemic. 
  <p class="updated_time"> 10:17 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/menendez-iran-nuclear-weapons-deal-00029168">Menendez doubtful that talks with Iran will yield a good deal</a> Politico: "I want the administration to understand that no deal is better than a bad deal," he said. 
- <p class="updated_time"> 09:29 AM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/30/business/economy/global-food-prices-ukraine.html">Trade Barriers From the Ukraine War Are Sending Food Prices Higher</a> NYT: Dozens of countries have thrown up trade barriers in the past two months to protect scarce supplies of food and commodities, but experts say the policies will only exacerbate a global food crisis. 
  <p class="updated_time"> 07:37 AM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095809160/politics-chat-bidens-ratings-down-over-ukraine-midterms-begin-in-indiana-and-ohi">Politics chat: Biden's ratings down over Ukraine; midterms begin in Indiana and Ohio</a> NPR: An NPR/PBS NewsHour/Marist poll shows that ratings for President Biden's handling of the Ukraine crisis has declined. Also, election primaries begin in Indiana and Ohio this week. 
  <p class="updated_time"> 07:06 AM CT, May. 01 </p> 
@@ -318,8 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/30/business/media/tucker-carlson-fox-news-takeaways.html">What to Know About Tucker Carlson’s Rise</a> NYT: A Times examination of the host’s career and singular influence at Fox News shows how his trajectory traces the transformation of American conservatism itself. 
  <p class="updated_time"> 06:01 AM CT, Apr. 30 </p> 
  <a href="https://www.politico.com/news/2022/04/29/oregon-kentucky-dust-off-an-obama-era-policy-to-expand-health-insurance-00029111">Oregon, Kentucky dust off an Obama-era policy to expand health insurance</a> Politico: Oregon and Kentucky are pursuing an Obama-era policy that uses federal dollars to establish a health insurance plan for people who make too much money to qualify for their state’s Medicaid programs. 
- <p class="updated_time"> 02:00 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/30/us/politics/ohio-senate-primary-vance-trump.html">Ahead of Senate Primary Election, Ohio Republicans Embrace the Bombast </a> NYT: The slugfest for the Republican nomination for Ohio’s open Senate seat has buried the brand of good-natured, country-club conservatism that was once a hallmark of the state. 
 
 
 </details>
