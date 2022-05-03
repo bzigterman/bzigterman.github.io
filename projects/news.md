@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:21 AM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/world/middleeast/israel-jerusalem-zip-line.html">Israel Plans Zip Line for Ancient Jerusalem</a> NYT: A Jewish settler group is promoting projects that opponents say will change the delicate historic, religious and political balance in highly symbolic areas around Jerusalem’s Old City. 
  <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1095475495/quandt-volkswagen-bmw-porshe-stefanquandt-guntherquandt-herbertquandt-quandt">Germany pledged to 'never forget' the Holocaust. Its car companies complicate that</a> NPR: The Nazi legacies of Germany's wealthiest families highlight the country's challenge to make good on its commitment to "never forget" the Holocaust, according to author David de Jong. 
  <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
@@ -17,34 +19,34 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/climate/las-vegas-lawn-grass-ban.html">To Save Water Amid a Megadrought, Las Vegas Outlaws Grass</a> NYT: With drought and growth taking a toll on the Colorado River, the source of 90 percent of the region’s water, a new law mandates the removal of turf, patch by patch. 
  <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/climate/lake-powell-mead-water-drought.html">Colorado River Reservoirs Are So Low, Government Is Delaying Releases</a> NYT: The anticipated decision will keep more water in Lake Powell on the Arizona-Utah border, instead of releasing it downstream to Lake Mead. Both reservoirs are at their lowest points. 
+ <p class="updated_time"> 03:34 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 03:31 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61302738?at_medium=RSS&at_campaign=KARANGA">Met Gala 2022: Celebrities show off lavish outfits in New York</a> BBC: Hundreds of famous names gather in New York for one of fashion's biggest events. 
- <p class="updated_time"> 03:07 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 03:04 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/ukraine-bucha-russia-atrocities.html">They Fell Deeply in Love in Bucha. One Russian Bullet Ended It All.</a> NYT: Over nearly two decades, Iryna Abramova and her husband, Oleh, built a life of love and happiness. Now, she says, she wishes the Russian soldiers had shot her, too. 
  <p class="updated_time"> 02:47 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">What Happened on Day 68 of the War in Ukraine</a> NYT: Civilians continued evacuating from Mariupol with accounts of life under siege. A senior U.S. diplomat warned that Russia appeared to be preparing to annex two regions in eastern Ukraine and possibly a third in the south. 
- <p class="updated_time"> 02:07 AM CT, May. 03 </p> 
+ <p class="updated_time"> 02:34 AM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 01:59 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61304033?at_medium=RSS&at_campaign=KARANGA">Shanghai: Authorities fire four officials after elderly patient blunder</a> BBC: A viral video shows an elderly patient being loaded into a hearse into a body bag. 
+ <p class="updated_time"> 01:34 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
  <p class="updated_time"> 01:12 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/australia/scott-johnson-antigay-killing.html">Australian Gets 12 Years for Anti-Gay Killing of an American in 1988</a> NYT: Scott Johnson, a U.S. graduate student, was pushed off a cliff, in a case that was first ruled a suicide but that his brother refused to let go of. 
- <p class="updated_time"> 01:07 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
  <p class="updated_time"> 01:05 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61302740?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US Supreme Court may overturn abortion law, leak suggests</a> BBC: The nationwide legal right to abortion is described as "egregiously wrong" in a leaked document. 
+ <p class="updated_time"> 12:34 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 12:25 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61303012?at_medium=RSS&at_campaign=KARANGA">Gay US student's killer jailed after 33 years</a> BBC: A Sydney man murdered the Cambridge University graduate at a gay cruising ground in 1988. 
- <p class="updated_time"> 12:07 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 11:46 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/03/1096062765/more-survivors-are-found-3-days-after-china-building-collapse">More survivors are found 3 days after China building collapse</a> NPR: Police have arrested nine people, including the building owner, on suspicion of ignoring building codes or committing other violations. 
+ <p class="updated_time"> 11:34 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 11:15 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/hong-kong-inexpensive-dining.html">In Hong Kong, Cheap Dining Options Are All the Rage</a> NYT: In a city pummeled by political upheaval, economic downturn and the pandemic, bare-bones ‘two dishes and rice’ restaurants have become a go-to destination across all social classes. 
- <p class="updated_time"> 11:07 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 11:01 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-61303217?at_medium=RSS&at_campaign=KARANGA">Trader made error in 'flash crash', Citigroup says</a> BBC: The benchmark Stockholm OMX 30 share index fell by 8% at one point on Monday morning. 
  <p class="updated_time"> 10:35 PM CT, May. 02 </p> 
@@ -183,10 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/30/world/europe/northern-ireland-elections-sinn-fein.html">Sinn Fein Poised to Make Historic Gains in Northern Ireland Elections</a> NYT: But Sinn Fein, which is leading in polls ahead of next week’s elections, hasn’t focused its campaign on unification with Ireland. 
  <p class="updated_time"> 05:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/canada/hudsons-bay-winnipeg.html">Flagship Hudson’s Bay Store Turned Over to Indigenous Group</a> NYT: The Hudson’s Bay Company has turned over its former flagship store to an Indigenous group with big ambitions for the space. 
- <p class="updated_time"> 04:19 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/29/world/europe/american-killed-ukraine-cancel.html">Death of Former Marine Fighting in Ukraine Confirmed by Family</a> NYT: Willy Joseph Cancel Jr., 22, died in combat earlier this week, according to his uncle. He is believed to be the first American killed while fighting in Ukraine. 
- <p class="updated_time"> 04:08 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/29/world/europe/civilians-mariupol-azovstal.html">Civilians Keep Arriving at Besieged Steel Complex in Mariupol, Fighters Say</a> NYT: That citizens are still seeking to shelter at the plant, where there is no prospect of escape or rescue, offers a testament to what they must be facing elsewhere in the devastated city. 
 
 
 </details>
@@ -194,6 +192,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:25 AM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/us/politics/abortion-supreme-court-roe-wade.html">Could the Supreme Court Overturn Roe v. Wade? Here’s What to Know.</a> NYT: The landmark decision that established a constitutional right to an abortion has been contentious since it was made in 1973. 
+ <p class="updated_time"> 04:10 AM CT, May. 03 </p> 
+ <a href="https://www.npr.org/2022/05/03/1096075571/voters-in-13-states-head-to-the-polls-in-may-starting-with-ohio-and-indiana">Voters in 13 states head to the polls in May starting with Ohio and Indiana</a> NPR: Primary season kicks off in earnest Tuesday with contests in Ohio and Indiana. Ohio's Republican Senate primary has top billing. 
+ <p class="updated_time"> 04:10 AM CT, May. 03 </p> 
+ <a href="https://www.npr.org/2022/05/03/1096075543/rep-adam-schiff-was-among-the-u-s-lawmakers-who-met-with-ukraines-president">Rep. Adam Schiff was among the U.S. lawmakers who met with Ukraine's president</a> NPR: House Speaker Nancy Pelosi led a congressional delegation to meet with the leaders of Ukraine and Poland. NPR's Rachel Martin talks to House Intelligence Committee Chair Adam Schiff about the trip. 
+ <p class="updated_time"> 04:10 AM CT, May. 03 </p> 
+ <a href="https://www.npr.org/2022/05/03/1096075515/far-right-militant-groups-align-with-issue-oriented-groups-ahead-of-midterms">Far-right militant groups align with issue oriented groups ahead of midterms </a> NPR: A report says instances of political violence were down slightly in 2021 from the year before. But militant groups were recruiting and shifting tactics to lay the groundwork for increased violence. 
  <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/05/03/1095946813/medicare-drug-costs-spike">Drug plan prices touted during Medicare open enrollment can rise within a month</a> NPR: Even the savviest Medicare drug plan shoppers can get a shock when they fill prescriptions: That great deal on medications in fall is no bargain after prices go up as much as 8% by winter. 
  <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
@@ -210,8 +216,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 01:23 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/02/us/politics/supreme-court-protests-abortion.html">Demonstrators Flock to Supreme Court to Promote Abortion Rights</a> NYT: The mood outside the court was a mix of anger and mourning, with some demonstrators sitting silently in front of a long line of candles.  Others shouted defiant chants. 
- <p class="updated_time"> 11:51 PM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/us/politics/abortion-supreme-court-roe-wade.html">Could the Supreme Court Overturn Roe v. Wade? Here’s What to Know.</a> NYT: The landmark decision that established a constitutional right to an abortion has been contentious since it was made in 1973. 
  <p class="updated_time"> 11:01 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/ohio-indiana-primary-elections.html">What to Watch in Ohio and Indiana Primary Elections Tuesday</a> NYT: The second election night of the 2022 midterms has some national implications for Republicans. Here’s a breakdown. 
  <p class="updated_time"> 10:46 PM CT, May. 02 </p> 
@@ -260,8 +264,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/02/biden-33b-ukraine-skimps-humanitarian-needs-00029382">Aid groups: Biden’s $33B for Ukraine skimps on humanitarian needs</a> Politico: The organizations are asking Congress to beef up aid spending, arguing that fuel and food shortages are making such work more expensive. 
  <p class="updated_time"> 01:32 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/business/spirit-airlines-rejects-jetblue-offer.html">Spirit Airlines Rejects JetBlue’s Offer</a> NYT: The airline said regulators would be skeptical of letting the companies merge as long as JetBlue was in a partnership with American Airlines. 
- <p class="updated_time"> 01:28 PM CT, May. 02 </p> 
- <a href="https://www.npr.org/2022/05/02/1095940064/nypd-thomas-webster-assault-january-6-assault-officer">NYPD veteran convicted of assaulting an officer in Capitol riot</a> NPR: Thomas Webster, a 20-year NYPD veteran, was the first Capitol riot defendant to be tried on an assault charge and the first to present a jury with a self-defense argument. 
  <p class="updated_time"> 12:54 PM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/desantis-invite-white-house-correspondents-dinner-00029335">DeSantis says he 'rejected' invite to White House Correspondents' Dinner</a> Politico: The host, Trevor Noah, took shots at DeSantis during the event. 
  <p class="updated_time"> 12:46 PM CT, May. 02 </p> 
@@ -270,12 +272,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/02/us/former-nypd-officer-convicted-jan-6.html">Ex-NYPD Officer Thomas Webster Convicted of Assault in Jan. 6 Case</a> NYT: Thomas Webster was found guilty in federal court after assaulting a Washington, D.C., police officer with a metal flagpole during the riot at the Capitol last year. 
  <p class="updated_time"> 11:14 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/ufo-briefings-congress-pentagon-00029315">The UFO briefings on Capitol Hill have begun. Lawmakers aren’t impressed.</a> Politico: Agencies need to “take this issue much more seriously,” one aide said. 
- <p class="updated_time"> 11:00 AM CT, May. 02 </p> 
- <a href="https://www.npr.org/2022/05/02/1095521376/jan-6-panel-asks-three-new-house-republicans-to-testify-voluntarily">Three more House Republicans reject Jan. 6 committee request to testify voluntarily</a> NPR: The panel investigating the attack on the Capitol asked U.S. Reps. Andy Biggs of Arizona, Mo Brooks of Alabama and Ronny Jackson of Texas to appear. They all said no. 
  <p class="updated_time"> 10:57 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/gop-lawmakers-testimony-capitol-riot-00029322">3 pro-Trump GOP lawmakers reject Jan. 6 committee's requests for testimony</a> Politico: Reps. Andy Biggs (R-Ariz.), Ronny Jackson (R-Texas) and Mo Brooks (R-Ala.) all voted to object to certifying the former president's loss to Joe Biden. 
- <p class="updated_time"> 08:56 AM CT, May. 02 </p> 
- <a href="https://www.npr.org/2022/05/02/1095770735/madison-cawthorn-allegations">Rep. Madison Cawthorn is under mounting pressure from scandals ahead of midterms</a> NPR: In the wake of scandals following the far-right North Carolina congressman, from salacious pictures to alleged insider trading, Cawthorn's star seems to be falling almost as fast as it rose. 
  <p class="updated_time"> 08:50 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/midterm-red-wave-gop-00029278">The Midterm View: A red wave? Oh yeah. These GOP strategists are sure of it.</a> Politico: Republican strategists say that the GOP will pick up “30 or 40” congressional seats in the 2022 midterm elections. Watch this new videos series to learn what else they said. 
  <p class="updated_time"> 08:00 AM CT, May. 02 </p> 
@@ -301,7 +299,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/bidenworld-midterms-trump-elon-musk-00029106">Bidenworld wants to make the midterms more about Trump and hopes Elon Musk helps</a> Politico: The election will be either a referendum or a contrast. The president’s team prefers the latter. 
  <p class="updated_time"> 06:00 PM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/2022/05/01/us/politics/walter-mondale-memorial.html">Biden Extols Mondale as ‘One of the Great Giants of American History’</a> NYT: President Biden paid tribute to Walter F. Mondale, his former colleague in the Senate who went on to transform the office of vice president and died in 2021. 
+ <a href="https://www.nytimes.com/2022/05/01/us/politics/walter-mondale-memorial.html">Biden Eulogizes Walter F. Mondale at Memorial</a> NYT: President Biden paid tribute to Walter F. Mondale, his former colleague in the Senate who went on to transform the office of vice president and died in 2021. 
  <p class="updated_time"> 04:25 PM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/biden-mondale-memorial-dark-days-00029194">Biden: Mondale rescued me from darkness</a> Politico: At a much-delayed memorial service, Biden described the aftermath of a family tragedy in 1972. 
  <p class="updated_time"> 04:11 PM CT, May. 01 </p> 
