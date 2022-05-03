@@ -6,6 +6,7 @@ library(zoo)
 library(gt)
 library(gtExtras)
 library(highcharter)
+library(RColorBrewer)
 
 # interactive maps ----
 # hcmap("countries/us/us-all-all")
