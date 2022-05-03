@@ -9,19 +9,19 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:33 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/03/world/ukraine-russia-war-news">Ukraine Live Updates: Seeing a Stalled Russia, West Adds Support and Arms for Ukraine</a> NYT: Western leaders, including President Biden, Boris Johnson and Emmanuel Macron, sought to capitalize on Russia’s apparent lack of battlefield momentum to show Ukraine support and strengthen its resolve, and its arsenal. 
+ <p class="updated_time"> 05:33 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/world/europe/russia-ukraine-western-support.html">Sensing a Stalled Russia, West Adds Support and Arms for Ukraine</a> NYT: ‘You have exploded the myth of Putin’s invincibility,’ Prime Minister Boris Johnson of Britain told Ukrainian lawmakers, one of several Western sources of cheerleading on Tuesday. 
  <p class="updated_time"> 05:28 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/middleeast/israel-jerusalem-zip-line.html">Israel Plans Zip Line for Ancient Jerusalem</a> NYT: A Jewish settler group is promoting projects that opponents say will change the delicate historic, religious and political balance in highly symbolic areas around Jerusalem’s Old City. 
- <p class="updated_time"> 05:10 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/05/03/world/ukraine-russia-war-news">Ukraine Live Updates: Seeing a Stalled Russia, West Adds Support and Arms for Ukraine</a> NYT: Western leaders, including President Biden, Boris Johnson and Emmanuel Macron, sought to capitalize on Russia’s apparent lack of battlefield momentum to show Ukraine support and strengthen its resolve, and its arsenal. 
  <p class="updated_time"> 05:06 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/britains-parliament-is-rocked-by-sexist-episodes-again.html">Britain’s Parliament Is Rocked by Sexist Episodes. Again.</a> NYT: Encouraging more women to run for office, critics say, is just one way to counter pervasive misogyny and sexual harassment in Parliament. 
  <p class="updated_time"> 04:59 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/mariupol-azovstal-survivors-evacuated.html">Evacuees From Mariupol’s Steel Plant Tell of Horrors and Survival</a> NYT: Nearly 130 people reached relative safety after sheltering for weeks in dark bunkers under the Azovstal plant, under constant bombardment, with dwindling food. 
- <p class="updated_time"> 04:58 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/world/europe/russia-ukraine-western-support.html">Sensing a Stalled Russia, West Adds Support and Arms for Ukraine</a> NYT: “You have exploded the myth of Putin’s invincibility,” Prime Minister Boris Johnson of Britain told Ukrainian lawmakers, one of several Western sources of cheerleading on Tuesday. 
  <p class="updated_time"> 04:49 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/lviv-ukraine-russia-missiles.html">Russian Missiles Hit Power Stations in Lviv and Along Crucial Railways</a> NYT: Altogether, six electrical substations were struck along the railways in central and western Ukraine, according to a top rail official. The rail system is the country’s lifeline for humanitarian and military supplies. 
- <p class="updated_time"> 04:28 PM CT, May. 03 </p> 
+ <p class="updated_time"> 04:44 PM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 04:23 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/biden-alabama-ukraine-aid.html">Biden Visits an Alabama Missile Factory, Highlighting Aid to Ukraine</a> NYT: “You are making it possible for the Ukrainian people to defend themselves” without “sending American soldiers to fight Russian soldiers,” which would risk world war, the president said. 
@@ -37,27 +37,27 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61315333?at_medium=RSS&at_campaign=KARANGA">Missing Alabama guard and inmate had 'special relationship'</a> BBC: A massive manhunt is underway for murder suspect Casey White and guard Vicky White. 
  <p class="updated_time"> 03:52 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096398283/in-south-korea-k-pop-fans-have-something-to-cheer-about">In South Korea, K-Pop fans have something to cheer about</a> NPR: Although concerts have been back in South Korea since the beginning of the year, cheering was prohibited. With COVID restrictions lifting in South Korea, fans are finally allowed to cheer again. 
+ <p class="updated_time"> 03:44 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/europe-moves-to-sanction-russia-again-closing-in-on-oil-embargo-11651597785">Europe Moves to Sanction Russia Again</a> WSJ: Europe Moves to Sanction Russia Again 
  <p class="updated_time"> 03:36 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61313517?at_medium=RSS&at_campaign=KARANGA">Abortion ruling: US Supreme Court says leak is real as investigation launched</a> BBC: The leak has stirred expectations that the 1973 decision legalising US abortion could be overturned. 
  <p class="updated_time"> 03:32 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096398246/as-unsc-chair-u-s-plans-to-focus-on-russias-war-in-ukraine-and-rising-food-price">As UNSC chair, U.S. plans to focus on Russia's war in Ukraine and rising food prices</a> NPR: The U.S. plans to use its presidency of the Security Council this month to keep the spotlight on food security, as Russia's war in Ukraine has ripple effects in global food markets. 
- <p class="updated_time"> 03:28 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/europe-moves-to-sanction-russia-again-closing-in-on-oil-embargo-11651597785">Europe Moves to Sanction Russia Again</a> WSJ: Europe Moves to Sanction Russia Again 
  <p class="updated_time"> 03:21 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61313732?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin tells Macron West should stop sending arms</a> BBC: The Russian and French leaders speak by phone for the first time in more than a month. 
  <p class="updated_time"> 03:13 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096398193/retired-colonel-on-the-rise-of-javelin-missiles-as-biden-seeks-to-aid-ukraine">Retired colonel on the rise of javelin missiles, as Biden seeks to aid Ukraine</a> NPR: NPR's Ari Shapiro talks with Mark Cancian, a former Marine colonel and expert on military procurement, about Biden's request to Congress for billions of dollars to buy javelin missiles to aid Ukraine. 
- <p class="updated_time"> 02:28 PM CT, May. 03 </p> 
+ <p class="updated_time"> 02:44 PM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 02:07 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/climate/lake-powell-mead-water-drought.html">Colorado River Reservoirs Are So Low, Government Will Delay Releases</a> NYT: The decision will keep more water in Lake Powell on the Arizona-Utah border, instead of releasing it downstream to Lake Mead. Both reservoirs are at their lowest points. 
+ <p class="updated_time"> 01:44 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/yellen-zelensky-among-speakers-set-to-discuss-ukraine-war-at-wsj-ceo-council-11651570363">Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council</a> WSJ: Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council 
  <p class="updated_time"> 01:37 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096094936/ukraine-russia-war-crimes-investigations">The complex effort to hold Vladimir Putin accountable for war crimes </a> NPR: Ukrainian and international experts believe it will take years, if not decades, to build cases and prosecute people. Ukraine's prosecutor general's office has opened more than 9,000 investigations. 
- <p class="updated_time"> 01:28 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/yellen-zelensky-among-speakers-set-to-discuss-ukraine-war-at-wsj-ceo-council-11651570363">Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council</a> WSJ: Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council 
  <p class="updated_time"> 01:15 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096141606/brittney-griner-russia-wrongfully-detained-wnba">The U.S. now says Russia is wrongfully detaining WNBA star Brittney Griner</a> NPR: Griner was arrested after authorities reportedly found vape cartridges with hashish oil in her luggage. The shift in language indicates the U.S. will work more aggressively to secure her release. 
- <p class="updated_time"> 12:28 PM CT, May. 03 </p> 
+ <p class="updated_time"> 12:44 PM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 12:13 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61309545?at_medium=RSS&at_campaign=KARANGA">People can now get contact info cut from Google search results</a> BBC: The web giant makes it easier to request that results linking to contact information are removed. 
@@ -190,6 +190,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:43 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/us/conservative-legal-movement-roe-v-wade.html">For Conservative Legal Movement, a Long-Sought Triumph Appears at Hand</a> NYT: For half a century, right-wing legal thinkers have been working toward the moment foretold by a leaked draft of a Supreme Court opinion. 
  <p class="updated_time"> 05:25 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096389328/senate-republicans-zero-in-on-the-abortion-decision-leak-not-its-impact">Senate Republicans zero in on the abortion decision leak, not its impact </a> NPR: Top GOP lawmakers emphasized the unprecedented nature of the unauthorized disclosure of the high court's draft ruling on an abortion case instead of the possible impact on women or on the midterms. 
  <p class="updated_time"> 05:22 PM CT, May. 03 </p> 
@@ -198,6 +200,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/us/politics/democrats-abortion.html">Democrats Vow Response to Roe v. Wade Ruling but Have Few Options</a> NYT: With neither the 60 votes needed to break a filibuster of legislation to protect abortion rights nor the 50 votes to pass it, Senate Democrats said they would try anyway. 
  <p class="updated_time"> 05:08 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/norman-y-mineta-who-served-two-presidents-in-cabinet-dies-at-90.html">Norman Y. Mineta, Who Served Two Presidents in Cabinet, Dies at 90</a> NYT: Interned in wartime as a Japanese American, he went to Congress and became the first Japanese American cabinet officer, serving Bill Clinton and George W. Bush. 
+ <p class="updated_time"> 05:02 PM CT, May. 03 </p> 
+ <a href="https://www.politico.com/news/2022/05/03/mcconnell-on-verge-of-winning-long-term-battle-against-roe-00029752">McConnell closes in on Roe after years of pushing the courts rightward</a> Politico: There’s a direct line from the Senate GOP leader's decision to hold a high court vacancy open in 2016 to the potential demise of Supreme Court precedent. 
  <p class="updated_time"> 04:55 PM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/norman-mineta-transportation-secretary-dies-00029791">Norman Mineta, Transportation secretary in 9/11 era, dies</a> Politico: He served in the Cabinets of both President Bill Clinton and President George W. Bush. 
  <p class="updated_time"> 04:48 PM CT, May. 03 </p> 
@@ -288,6 +292,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/02/read-justice-alito-initial-abortion-opinion-overturn-roe-v-wade-pdf-00029504">Read Justice Alito's initial draft abortion opinion which would overturn Roe v. Wade</a> Politico: Read the full 98-page initial draft majority opinion. 
  <p class="updated_time"> 07:34 PM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/abortion-draft-supreme-court-opinion-key-passages-00029470">10 key passages from Alito’s draft opinion, which would overturn Roe v. Wade</a> Politico: The wording of the court’s ultimate ruling and the line-up of justices who support it could change. Here are 10 important passages in the draft opinion. 
+ <p class="updated_time"> 07:32 PM CT, May. 02 </p> 
+ <a href="https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473">Supreme Court has voted to overturn abortion rights, draft opinion shows</a> Politico: “We hold that Roe and Casey must be overruled,” Justice Alito writes in an initial majority draft circulated inside the court. 
  <p class="updated_time"> 07:08 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/us/politics/house-jan-6-panel-gop-lawmakers.html">Jan. 6 Panel Seeks to Interview Three More G.O.P. Lawmakers</a> NYT: All three quickly declined. The panel also said it had evidence that some House Republicans sought pardons from President Donald J. Trump in connection with the effort to overturn the election. 
  <p class="updated_time"> 06:43 PM CT, May. 02 </p> 
@@ -308,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/02/ufo-briefings-congress-pentagon-00029315">The UFO briefings on Capitol Hill have begun. Lawmakers aren’t impressed.</a> Politico: Agencies need to “take this issue much more seriously,” one aide said. 
  <p class="updated_time"> 10:57 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/gop-lawmakers-testimony-capitol-riot-00029322">3 pro-Trump GOP lawmakers reject Jan. 6 committee's requests for testimony</a> Politico: Reps. Andy Biggs (R-Ariz.), Ronny Jackson (R-Texas) and Mo Brooks (R-Ala.) all voted to object to certifying the former president's loss to Joe Biden. 
- <p class="updated_time"> 04:00 AM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/us/politics/gorsuch-supreme-court-insular-cases.html">Gorsuch Calls for Overruling ‘Shameful’ Cases on U.S. Territories</a> NYT: The justice urged his colleagues to revisit the Insular Cases, which denied full constitutional protection to unincorporated territories. A petition filed last week gives them a chance. 
  <p class="updated_time"> 03:31 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/democrats-manchin-bipartisan-energy-00028966">Dems grimace at Manchin’s bipartisan energy detour</a> Politico: Republicans want to break the majority's resolve to pass another party-line bill. But the West Virginia centrist is still talking across the aisle. 
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
