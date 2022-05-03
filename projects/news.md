@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:19 PM CT, May. 03 </p> 
+ <p class="updated_time"> 06:32 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/05/03/world/ukraine-russia-war-news">Ukraine Live Updates: Seeing a Stalled Russia, West Adds Support and Arms for Ukraine</a> NYT: Western leaders, including President Biden, Boris Johnson and Emmanuel Macron, sought to capitalize on Russia’s apparent lack of battlefield momentum to show Ukraine support and strengthen its resolve, and its arsenal. 
  <p class="updated_time"> 06:19 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/climate/lake-powell-mead-water-drought.html">Colorado River Reservoirs Are So Low, Government Will Delay Releases</a> NYT: The decision will keep more water in Lake Powell on the Arizona-Utah border, instead of releasing it downstream to Lake Mead. Both reservoirs are at their lowest points. 
@@ -19,7 +19,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61315533?at_medium=RSS&at_campaign=KARANGA">Haiti 400 Mawozo gang leader extradited to US</a> BBC: Haitian authorities say leader of 400 Mawozo gang was extradited to the US for kidnapping Americans. 
  <p class="updated_time"> 06:09 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61315483?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… Could Ukraine’s war spread to Moldova?</a> BBC: Ros Atkins looks at why there is concern Moldova could be drawn into war, like its neighbour Ukraine. 
- <p class="updated_time"> 05:36 PM CT, May. 03 </p> 
+ <p class="updated_time"> 05:51 PM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 05:33 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/russia-ukraine-western-support.html">Sensing a Stalled Russia, West Adds Support and Arms for Ukraine</a> NYT: ‘You have exploded the myth of Putin’s invincibility,’ Prime Minister Boris Johnson of Britain told Ukrainian lawmakers, one of several Western sources of cheerleading on Tuesday. 
@@ -29,10 +29,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/world/europe/britain-parliament-sexual-harassment.html">Britain’s Parliament Is Rocked by Sexist Episodes. Again.</a> NYT: Encouraging more women to run for office, critics say, is just one way to counter pervasive misogyny and sexual harassment in Parliament. 
  <p class="updated_time"> 04:59 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/mariupol-azovstal-survivors-evacuated.html">Evacuees From Mariupol’s Steel Plant Tell of Horrors and Survival</a> NYT: Nearly 130 people reached relative safety after sheltering for weeks in dark bunkers under the Azovstal plant, under constant bombardment, with dwindling food. 
+ <p class="updated_time"> 04:51 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/europe-moves-to-sanction-russia-again-closing-in-on-oil-embargo-11651597785">Europe Moves to Sanction Russia Again</a> WSJ: Europe Moves to Sanction Russia Again 
  <p class="updated_time"> 04:49 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/lviv-ukraine-russia-missiles.html">Russian Missiles Hit Power Stations in Lviv and Along Crucial Railways</a> NYT: Altogether, six electrical substations were struck along the railways in central and western Ukraine, according to a top rail official. The rail system is the country’s lifeline for humanitarian and military supplies. 
- <p class="updated_time"> 04:36 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/europe-moves-to-sanction-russia-again-closing-in-on-oil-embargo-11651597785">Europe Moves to Sanction Russia Again</a> WSJ: Europe Moves to Sanction Russia Again 
  <p class="updated_time"> 04:23 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/biden-alabama-ukraine-aid.html">Biden Visits an Alabama Missile Factory, Highlighting Aid to Ukraine</a> NYT: “You are making it possible for the Ukrainian people to defend themselves” without “sending American soldiers to fight Russian soldiers,” which would risk world war, the president said. 
  <p class="updated_time"> 04:13 PM CT, May. 03 </p> 
@@ -47,22 +47,22 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61315333?at_medium=RSS&at_campaign=KARANGA">Missing Alabama guard and inmate had 'special relationship'</a> BBC: A massive manhunt is underway for murder suspect Casey White and guard Vicky White. 
  <p class="updated_time"> 03:52 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096398283/in-south-korea-k-pop-fans-have-something-to-cheer-about">In South Korea, K-Pop fans have something to cheer about</a> NPR: Although concerts have been back in South Korea since the beginning of the year, cheering was prohibited. With COVID restrictions lifting in South Korea, fans are finally allowed to cheer again. 
+ <p class="updated_time"> 03:51 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 03:36 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61313517?at_medium=RSS&at_campaign=KARANGA">Abortion ruling: US Supreme Court says leak is real as investigation launched</a> BBC: The leak has stirred expectations that the 1973 decision legalising US abortion could be overturned. 
- <p class="updated_time"> 03:36 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 03:32 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096398246/as-unsc-chair-u-s-plans-to-focus-on-russias-war-in-ukraine-and-rising-food-price">As UNSC chair, U.S. plans to focus on Russia's war in Ukraine and rising food prices</a> NPR: The U.S. plans to use its presidency of the Security Council this month to keep the spotlight on food security, as Russia's war in Ukraine has ripple effects in global food markets. 
  <p class="updated_time"> 03:21 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61313732?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin tells Macron West should stop sending arms</a> BBC: The Russian and French leaders speak by phone for the first time in more than a month. 
  <p class="updated_time"> 03:13 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096398193/retired-colonel-on-the-rise-of-javelin-missiles-as-biden-seeks-to-aid-ukraine">Retired colonel on the rise of javelin missiles, as Biden seeks to aid Ukraine</a> NPR: NPR's Ari Shapiro talks with Mark Cancian, a former Marine colonel and expert on military procurement, about Biden's request to Congress for billions of dollars to buy javelin missiles to aid Ukraine. 
- <p class="updated_time"> 02:36 PM CT, May. 03 </p> 
+ <p class="updated_time"> 02:51 PM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/yellen-zelensky-among-speakers-set-to-discuss-ukraine-war-at-wsj-ceo-council-11651570363">Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council</a> WSJ: Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council 
+ <p class="updated_time"> 01:51 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 01:37 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096094936/ukraine-russia-war-crimes-investigations">The complex effort to hold Vladimir Putin accountable for war crimes </a> NPR: Ukrainian and international experts believe it will take years, if not decades, to build cases and prosecute people. Ukraine's prosecutor general's office has opened more than 9,000 investigations. 
- <p class="updated_time"> 01:36 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 01:15 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096141606/brittney-griner-russia-wrongfully-detained-wnba">The U.S. now says Russia is wrongfully detaining WNBA star Brittney Griner</a> NPR: Griner was arrested after authorities reportedly found vape cartridges with hashish oil in her luggage. The shift in language indicates the U.S. will work more aggressively to secure her release. 
  <p class="updated_time"> 12:13 PM CT, May. 03 </p> 
@@ -183,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/01/world/asia/china-covid-zero-xi-jinping.html">Inside China’s Zero-Covid Fortress, Xi Jinping Admits No Doubts</a> NYT: As the lockdown of Shanghai and outbreaks in Beijing and elsewhere batter the economy, China’s leader keeps a distance from the politically charged issue. 
  <p class="updated_time"> 01:03 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/europe/foreign-legion-volunteers.html">Deaths of Foreign Fighters Renew Attention on Ukraine War Volunteers</a> NYT: At least three foreigners have been killed fighting with Ukraine’s International Legion. One analyst said many would-be volunteers underestimated the danger from Russian forces. 
- <p class="updated_time"> 06:47 PM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/30/world/canada/ontario-cadets-dead-royal-military-college.html">4 Canadian Military Cadets Die After Car Plunges Into River</a> NYT: The men were set to graduate from the Royal Military College in a few weeks, the authorities said. 
 
 
 </details>
@@ -192,8 +190,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:32 PM CT, May. 03 </p> 
+ <p class="updated_time"> 06:46 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/us/politics/supreme-court-leak-roe-v-wade-abortion.html">A Supreme Court in Disarray After an Extraordinary Breach</a> NYT: The leak of a draft majority opinion overruling Roe v. Wade raises questions about motives, methods and whether defections are still possible. 
+ <p class="updated_time"> 06:44 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/uss-cole-waterboarding-torture.html">C.I.A. Captive Was Too Small for Waterboard, Interrogator Testifies</a> NYT: The former C.I.A. contract psychologist described both approved and unapproved interrogation techniques that he observed and carried out in the black sites. 
+ <p class="updated_time"> 06:35 PM CT, May. 03 </p> 
+ <a href="https://www.politico.com/news/2022/05/03/kamala-harris-supreme-court-abortion-00029813">Harris on GOP’s anti-abortion push: ‘How dare they’</a> Politico: The vice president's speech comes after POLITICO reported on a draft majority opinion showing the Supreme Court has voted to strike down Roe v. Wade. 
  <p class="updated_time"> 06:21 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/conservative-legal-movement-roe-v-wade.html">For Conservative Legal Movement, a Long-Sought Triumph Appears at Hand</a> NYT: For half a century, right-wing legal thinkers have been working toward the moment foretold by a leaked draft of a Supreme Court opinion. 
  <p class="updated_time"> 06:08 PM CT, May. 03 </p> 
@@ -204,8 +206,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/us/politics/roe-supreme-court-politics.html">Roe’s Fall Would Alter Political Battle Lines. But in What Way?</a> NYT: Democrats hope abortion rights will motivate the party’s base. Republican strategists are skeptical, though they are privately unsure how the issue might affect the midterms. 
  <p class="updated_time"> 05:25 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096389328/senate-republicans-zero-in-on-the-abortion-decision-leak-not-its-impact">Senate Republicans zero in on the abortion decision leak, not its impact </a> NPR: Top GOP lawmakers emphasized the unprecedented nature of the unauthorized disclosure of the high court's draft ruling on an abortion case instead of the possible impact on women or on the midterms. 
- <p class="updated_time"> 05:22 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/us/politics/supreme-court-leak-roe-v-wade-abortion.html">A Supreme Court in Disarray After an Extraordinary Breach</a> NYT: The leak of a draft majority opinion overruling Roe v. Wade raises questions about motives, methods and whether defections are still possible. 
  <p class="updated_time"> 05:16 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/democrats-abortion.html">Democrats Vow Response to Roe v. Wade Ruling but Have Few Options</a> NYT: With neither the 60 votes needed to break a filibuster of legislation to protect abortion rights nor the 50 votes to pass it, Senate Democrats said they would try anyway. 
  <p class="updated_time"> 05:08 PM CT, May. 03 </p> 
@@ -309,7 +309,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/todd-young-indiana-senate-trump-00029217">The GOP senator who faulted Trump for Jan. 6 — and lived to tell about it</a> Politico: Indiana Sen. Todd Young is one of only four Senate GOP incumbents whom the former president has not endorsed for reelection. 
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
- <a href="https://www.politico.com/news/2022/05/02/house-progressives-not-rebooting-00029075">Strength in numbers — maybe? House liberals mull their future</a> Politico: Centrists derailed their $1.7 trillion dream. They've seen only small wins. But "the strategy doesn't change" next year, as one top liberal put it. 
+ <a href="https://www.politico.com/news/2022/05/02/house-progressives-not-rebooting-00029075">House progressives not rebooting yet after a year of glitches</a> Politico: Centrists derailed their $1.7 trillion dream. They've seen only small wins. But "the strategy doesn't change" next year, as one top liberal put it. 
  <p class="updated_time"> 10:17 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/menendez-iran-nuclear-weapons-deal-00029168">Menendez doubtful that talks with Iran will yield a good deal</a> Politico: "I want the administration to understand that no deal is better than a bad deal," he said. 
  <p class="updated_time"> 05:47 AM CT, May. 01 </p> 
