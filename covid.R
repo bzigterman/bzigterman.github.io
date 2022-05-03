@@ -7,6 +7,7 @@ library(gt)
 library(gtExtras)
 library(highcharter)
 library(RColorBrewer)
+library(htmlwidgets)
 
 # interactive maps ----
 # hcmap("countries/us/us-all-all")
