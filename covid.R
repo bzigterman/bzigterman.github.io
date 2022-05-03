@@ -71,7 +71,7 @@ fig <- hcmap("countries/us/us-il-all",
                                 colors = c(brewer.pal(8,"Oranges")))
   ) %>%
   hc_legend(
-    floating = TRUE,
+    #floating = TRUE,
     align = "right",
     verticalAlign = "bottom",
     layout = "vertical",
