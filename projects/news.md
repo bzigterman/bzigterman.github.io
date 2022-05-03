@@ -9,36 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:12 AM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/world/australia/scott-johnson-antigay-killing.html">Australian Gets 12 Years for Anti-Gay Killing of an American in 1988</a> NYT: Scott Johnson, a U.S. graduate student, was pushed off a cliff, in a case that was first ruled a suicide but that his brother refused to let go of. 
+ <p class="updated_time"> 01:05 AM CT, May. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61302740?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US Supreme Court leak suggests abortion law repeal</a> BBC: Law that guarantees right to abortion described as "egregiously wrong" in document leaked to Politico. 
+ <p class="updated_time"> 12:33 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 12:25 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61303012?at_medium=RSS&at_campaign=KARANGA">Gay US student's killer jailed after 33 years</a> BBC: A Sydney man murdered the Cambridge University graduate at a gay cruising ground in 1988. 
- <p class="updated_time"> 12:09 AM CT, May. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61302740?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US Supreme Court leak suggests abortion law repeal</a> BBC: Law that guarantees right to abortion described as "egregiously wrong" in document leaked to Politico. 
- <p class="updated_time"> 12:01 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 12:00 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">What Happened on Day 68 of the War in Ukraine</a> NYT: Civilians continued evacuating from Mariupol with accounts of life under siege. A senior U.S. diplomat warned that Russia appeared to be preparing to annex two regions in eastern Ukraine and possibly a third in the south. 
  <p class="updated_time"> 11:46 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/03/1096062765/more-survivors-are-found-3-days-after-china-building-collapse">More survivors are found 3 days after China building collapse</a> NPR: Police have arrested nine people, including the building owner, on suspicion of ignoring building codes or committing other violations. 
+ <p class="updated_time"> 11:33 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 11:15 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/hong-kong-inexpensive-dining.html">In Hong Kong, Cheap Dining Options Are All the Rage</a> NYT: In a city pummeled by political upheaval, economic downturn and the pandemic, bare-bones ‘two dishes and rice’ restaurants have become a go-to destination across all social classes. 
- <p class="updated_time"> 11:01 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 11:01 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-61303217?at_medium=RSS&at_campaign=KARANGA">Trader made error in 'flash crash', Citigroup says</a> BBC: The benchmark Stockholm OMX 30 share index fell by 8% at one point on Monday morning. 
  <p class="updated_time"> 10:35 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/mariupol-evacuation-annex-donbas.html">Painful Stories Emerge From Mariupol, While Combat Rages to the East</a> NYT: With its forces making only slow progress and enduring heavy losses, Russia now plans to annex eastern parts of Ukraine after a sham election, the U.S. says. 
- <p class="updated_time"> 10:01 PM CT, May. 02 </p> 
+ <p class="updated_time"> 10:33 PM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
- <p class="updated_time"> 09:01 PM CT, May. 02 </p> 
+ <p class="updated_time"> 09:33 PM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
+ <p class="updated_time"> 08:33 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 08:25 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61301916?at_medium=RSS&at_campaign=KARANGA">Former US police officer charged with murder in death of 12-year-old</a> BBC: Authorities believe Thomas "TJ" Siderio was unarmed and posed no threat to officers when shot dead. 
  <p class="updated_time"> 08:14 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61294585?at_medium=RSS&at_campaign=KARANGA">Alabama hunt for missing prison inmate and guard</a> BBC: Police now believe the guard helped organise the escape and have issued a warrant for her arrest. 
  <p class="updated_time"> 08:06 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61302738?at_medium=RSS&at_campaign=KARANGA">Met Gala 2022: Celebrities show off lavish outfits in New York</a> BBC: Hundreds of famous names strike a pose on the museum steps for the over-the-top costume parade. 
- <p class="updated_time"> 08:01 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 07:13 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1096045592/biden-austin-tice-parents-syria-kidnapped">Biden meets with parents of abducted journalist Austin Tice</a> NPR: President Biden met with the parents of American journalist Austin Tice, who was abducted in Syria nearly 10 years ago. He has not been heard from since. Syria has never acknowledged holding him. 
  <p class="updated_time"> 06:42 PM CT, May. 02 </p> 
@@ -175,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/30/world/ukraine-fuel-shortages-russia.html">Ukraine Grapples With Fuel Shortages After Russian Attacks</a> NYT: Officials in Kyiv have urged residents to use public transportation rather than private vehicles in an effort to save fuel for the military. 
  <p class="updated_time"> 08:16 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/northern-ireland-elections-sinn-fein.html">Sinn Fein Poised to Make Historic Gains in Northern Ireland Elections</a> NYT: But Sinn Fein, which is leading in polls ahead of next week’s elections, hasn’t focused its campaign on unification with Ireland. 
- <p class="updated_time"> 05:11 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/29/world/europe/mariupol-steel-plant-video.html">Fighters Share Desperate Videos From Mariupol Steel Plant to Promote Story</a> NYT: With independent media unable to access this last military holdout, videos from inside function as pleas for help and publicity on social media. 
  <p class="updated_time"> 05:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/canada/hudsons-bay-winnipeg.html">Flagship Hudson’s Bay Store Turned Over to Indigenous Group</a> NYT: The Hudson’s Bay Company has turned over its former flagship store to an Indigenous group with big ambitions for the space. 
  <p class="updated_time"> 04:19 AM CT, Apr. 30 </p> 
@@ -192,6 +192,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:23 AM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/us/politics/supreme-court-protests-abortion.html">Demonstrators Flock to Supreme Court to Promote Abortion Rights</a> NYT: The mood outside the court was a mix of anger and mourning, with some demonstrators sitting silently in front of a long line of candles.  Others shouted defiant chants. 
  <p class="updated_time"> 11:51 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/us/politics/abortion-supreme-court-roe-wade.html">Could the Supreme Court Overturn Roe v. Wade? Here’s What to Know.</a> NYT: The landmark decision that established a constitutional right to an abortion has been contentious since it was made in 1973. 
  <p class="updated_time"> 11:01 PM CT, May. 02 </p> 
@@ -324,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/04/30/politics/crown-act-hair-discrimination/index.html">What is the CROWN Act and what do advocates say it will do?</a> CNN: A Texas high school policy banning braided or twisted hair has stopped a teenager from attending school, according to his mother, and brought renewed attention to the CROWN Act. 
  <p class="updated_time"> 10:03 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/us/politics/charles-herbster-groping.html">Nebraska Candidate for Governor Accused of Second Groping Incident at 2019 Dinner</a> NYT: Charles W. Herbster, who has been endorsed by Donald Trump for Nebraska governor, was accused of groping a second woman at a 2019 Republican fund-raising event. He denies both allegations. 
- <p class="updated_time"> 09:57 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/30/business/media/tucker-carlson-fox-news-takeaways.html">What to Know About Tucker Carlson’s Rise</a> NYT: A Times examination of the host’s career and singular influence at Fox News shows how his trajectory traces the transformation of American conservatism itself. 
 
 
 </details>
