@@ -9,32 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:02 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/05/03/world/ukraine-russia-war-news">Ukraine Live Updates: ‘Slammed From All Sides.’ Survivors of Steel Plant Siege Reach Safety</a> NYT: Just over 150 women and children who hid for weeks in bunkers below the Azovstal factory in Mariupol arrived in Ukrainian-held territory. President Biden was expected to speak at a missile factory in Alabama. 
+ <p class="updated_time"> 02:20 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/03/world/ukraine-russia-war-news">Ukraine Live Updates: Biden Speaks at Missile Factory, as Evacuees from Mariupol Steel Plant Reach Safety</a> NYT: The president said the workers, who make Javelin missiles, were allowing Ukrainians to defend themselves in what he called “an ongoing battle in the world between autocracy and democracy.” 
+ <p class="updated_time"> 02:07 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/climate/lake-powell-mead-water-drought.html">Colorado River Reservoirs Are So Low, Government Will Delay Releases</a> NYT: The decision will keep more water in Lake Powell on the Arizona-Utah border, instead of releasing it downstream to Lake Mead. Both reservoirs are at their lowest points. 
  <p class="updated_time"> 01:37 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096094936/ukraine-russia-war-crimes-investigations">The complex effort to hold Vladimir Putin accountable for war crimes </a> NPR: Ukrainian and international experts believe it will take years, if not decades, to build cases and prosecute people. Ukraine's prosecutor general's office has opened more than 9,000 investigations. 
- <p class="updated_time"> 01:29 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/climate/lake-powell-mead-water-drought.html">Colorado River Reservoirs Are So Low, Government Will Delay Releases</a> NYT: The decision will keep more water in Lake Powell on the Arizona-Utah border, instead of releasing it downstream to Lake Mead. Both reservoirs are at their lowest points. 
+ <p class="updated_time"> 01:25 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 01:15 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096141606/brittney-griner-russia-wrongfully-detained-wnba">The U.S. now says Russia is wrongfully detaining WNBA star Brittney Griner</a> NPR: Griner was arrested after authorities reportedly found vape cartridges with hashish oil in her luggage. The shift in language indicates the U.S. will work more aggressively to secure her release. 
- <p class="updated_time"> 01:07 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
- <p class="updated_time"> 12:07 PM CT, May. 03 </p> 
+ <p class="updated_time"> 12:25 PM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/europe-moves-to-sanction-russia-again-closing-in-on-oil-embargo-11651597785">Europe Moves to Sanction Russia Again</a> WSJ: Europe Moves to Sanction Russia Again 
+ <p class="updated_time"> 12:13 PM CT, May. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-61309545?at_medium=RSS&at_campaign=KARANGA">People can now get contact info cut from Google search results</a> BBC: The web giant makes it easier to request that results linking to contact information are removed. 
  <p class="updated_time"> 12:00 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/middleeast/israel-jerusalem-zip-line.html">Israel Plans Zip Line for Ancient Jerusalem</a> NYT: A Jewish settler group is promoting projects that opponents say will change the delicate historic, religious and political balance in highly symbolic areas around Jerusalem’s Old City. 
  <p class="updated_time"> 12:00 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/boris-johnson-ukraine-russia.html">Boris Johnson Calls Russia War ‘Ukraine’s Finest Hour’</a> NYT: In the first address by a foreign leader to Ukraine’s Parliament, Britain’s prime minister burnished his credentials as a supporter of the resistance to Russia. 
  <p class="updated_time"> 11:53 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-61313296?at_medium=RSS&at_campaign=KARANGA">Russia beats final deadline to avoid debt default</a> BBC: Russia has drawn on US dollar reserves in order to make payments to international investors. 
- <p class="updated_time"> 11:07 AM CT, May. 03 </p> 
+ <p class="updated_time"> 11:50 AM CT, May. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61311272?at_medium=RSS&at_campaign=KARANGA">Russian mercenaries behind Central African Republic atrocities - HRW</a> BBC: Witnesses tell Human Rights Watch about summary executions, torture and the beating of civilians. 
+ <p class="updated_time"> 11:25 AM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 10:43 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/asia/beijing-china-lockdown-covid.html">Beijing Tightens Measures as Some Residents Grow Weary</a> NYT: Authorities are trying to avoid a lockdown like the one imposed in Shanghai. 
+ <p class="updated_time"> 10:25 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/yellen-zelensky-among-speakers-set-to-discuss-ukraine-war-at-wsj-ceo-council-11651570363">Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council</a> WSJ: Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council 
  <p class="updated_time"> 10:14 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/russia-ukraine-war-nato.html">Russia’s War Has Been Brutal, but Putin Has Shown Some Restraint. Why?</a> NYT: Western officials are debating the Kremlin’s calculations in not trying harder to halt weapons shipments in Ukraine. Analysts wonder whether a bigger mobilization by Moscow is on the horizon. 
- <p class="updated_time"> 10:07 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/yellen-zelensky-among-speakers-set-to-discuss-ukraine-war-at-wsj-ceo-council-11651570363">Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council</a> WSJ: Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council 
  <p class="updated_time"> 10:00 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/arts/podcasts-ukraine-tulsa-boyland.html">6 Podcasts That Go Deeper on the Headlines</a> NYT: These series, on subjects like the war in Ukraine, the storming of the U.S. Capitol and the 1921 Tulsa race massacre, can help combat news fatigue. 
  <p class="updated_time"> 09:56 AM CT, May. 03 </p> 
@@ -43,7 +47,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/climate/las-vegas-lawn-grass-ban.html">To Save Water Amid a Megadrought, Las Vegas Outlaws Grass</a> NYT: With drought and growth taking a toll on the Colorado River, the source of 90 percent of the region’s water, a new law in Las Vegas mandates the removal of turf, patch by patch. 
  <p class="updated_time"> 09:39 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61308809?at_medium=RSS&at_campaign=KARANGA">Antytila: Ed Sheeran collaboration written on front line</a> BBC: Antytila, one of the biggest acts in Ukraine, are fighting Russian troops following the invasion. 
- <p class="updated_time"> 09:07 AM CT, May. 03 </p> 
+ <p class="updated_time"> 09:25 AM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 09:00 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/arts/design/smithsonian-ethical-returns.html">Smithsonian Adopts Policy on Ethical Returns in a Nod to Changing Norms</a> NYT: The institution’s leaders hope other cultural centers will follow its lead. It has already announced plans to return most of its collection of Benin Bronzes to Nigeria under the new policy. 
@@ -87,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/02/world/europe/mariupol-evacuation-annex-donbas.html">Painful Stories Emerge From Mariupol, While Combat Rages to the East</a> NYT: With its forces making only slow progress and enduring heavy losses, Russia now plans to annex eastern parts of Ukraine after a sham election, the U.S. says. 
  <p class="updated_time"> 08:25 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61301916?at_medium=RSS&at_campaign=KARANGA">Former US police officer charged with murder in death of 12-year-old</a> BBC: Authorities believe Thomas "TJ" Siderio was unarmed and posed no threat to officers when shot dead. 
- <p class="updated_time"> 08:14 PM CT, May. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61294585?at_medium=RSS&at_campaign=KARANGA">Alabama hunt for missing prison inmate and guard</a> BBC: Police now believe the guard helped organise the escape and have issued a warrant for her arrest. 
  <p class="updated_time"> 07:13 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1096045592/biden-austin-tice-parents-syria-kidnapped">Biden meets with parents of abducted journalist Austin Tice</a> NPR: President Biden met with the parents of American journalist Austin Tice, who was abducted in Syria nearly 10 years ago. He has not been heard from since. Syria has never acknowledged holding him. 
  <p class="updated_time"> 06:42 PM CT, May. 02 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61273431?at_medium=RSS&at_campaign=KARANGA">Why does water flow from a tree in Montenegro?</a> BBC: Each year in the Montenegran village of Dinosa, water can be seen gushing from the trunk of a mulberry tree. 
  <p class="updated_time"> 06:00 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61302025?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The southern villages holding back the Russians</a> BBC: Ukraine's south has seen heavy fighting as Russia seeks to take key port areas around the Black Sea. 
- <p class="updated_time"> 04:38 PM CT, May. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61299527?at_medium=RSS&at_campaign=KARANGA">Jacky Hunt-Broersma: The cancer survivor who ran 104 marathons in 104 days</a> BBC: Jacky Hunt-Broersma, who lost her leg to cancer, set an unofficial record for consecutive marathons. 
  <p class="updated_time"> 04:15 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/russia-invasion-ukraine-elections.html">Russia Plans to Annex Parts of Ukraine with ‘Sham’ Elections, U.S. Diplomat Says</a> NYT: The official said that Russia may also try to take over parts of Ukraine by imposing “puppets and proxies” in local governments and forcing out democratically elected officials. 
  <p class="updated_time"> 04:00 PM CT, May. 02 </p> 
