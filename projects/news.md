@@ -9,22 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:52 AM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/05/03/world/ukraine-russia-war-news">Ukraine Live Updates: Mariupol Evacuees Tell Grim Tales of Survival</a> NYT: The U.S. State Department warned that Russia, though bogged down in fighting, plans to annex two separatist regions of eastern Ukraine. Western nations are working on a new round of penalties. 
+ <p class="updated_time"> 06:01 AM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/03/world/ukraine-russia-war-news">Ukraine Live Updates: Mariupol Evacuations Continue Amid Shelling</a> NYT: About 200 civilians are still sheltering beneath a sprawling steel plant in the ruined southeastern city, the mayor said. As Western leaders escalate support for Ukraine, President Biden was scheduled to speak at a missile factory in Alabama. 
  <p class="updated_time"> 05:47 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61308012?at_medium=RSS&at_campaign=KARANGA">Met Gala 2022: Blake Lively, Kim Kardashian and others showcase lavish outfits</a> BBC: One of fashion's biggest events has rolled out the red carpet in New York for some of the world's stars. 
  <p class="updated_time"> 05:30 AM CT, May. 03 </p> 
  <a href="https://www.npr.org/sections/money/2022/05/03/1096044152/how-palm-oil-prices-are-affecting-the-global-economy">How palm oil prices are affecting the global economy</a> NPR: The prices of cooking oil are rising. Why that could put global security at risk. 
+ <p class="updated_time"> 05:09 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 05:08 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61302740?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US Supreme Court may overturn abortion rights, leak suggests</a> BBC: Millions could lose legal rights to abortion this summer, a leaked Supreme Court document shows. 
  <p class="updated_time"> 05:04 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/russia-sanctions-ukraine.html">What Sanctions Have Been Imposed on Russia?</a> NYT: Our reporters answer readers’ questions about Russia’s invasion of Ukraine. Many of you asked about economic penalties and how Putin could respond. 
- <p class="updated_time"> 04:54 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 04:38 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61037393?at_medium=RSS&at_campaign=KARANGA">Met Gala: 22 of the hottest looks from the 2022 red carpet</a> BBC: Gwen Stefani, Billie Eilish, Nicki Minaj and many more walked the red carpet at the New York event. 
  <p class="updated_time"> 04:21 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/middleeast/israel-jerusalem-zip-line.html">Israel Plans Zip Line for Ancient Jerusalem</a> NYT: A Jewish settler group is promoting projects that opponents say will change the delicate historic, religious and political balance in highly symbolic areas around Jerusalem’s Old City. 
+ <p class="updated_time"> 04:09 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1095475495/quandt-volkswagen-bmw-porshe-stefanquandt-guntherquandt-herbertquandt-quandt">Germany pledged to 'never forget' the Holocaust. Its car companies complicate that</a> NPR: The Nazi legacies of Germany's wealthiest families highlight the country's challenge to make good on its commitment to "never forget" the Holocaust, according to author David de Jong. 
  <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
@@ -33,19 +35,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/climate/las-vegas-lawn-grass-ban.html">To Save Water Amid a Megadrought, Las Vegas Outlaws Grass</a> NYT: With drought and growth taking a toll on the Colorado River, the source of 90 percent of the region’s water, a new law mandates the removal of turf, patch by patch. 
  <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/climate/lake-powell-mead-water-drought.html">Colorado River Reservoirs Are So Low, Government Is Delaying Releases</a> NYT: The anticipated decision will keep more water in Lake Powell on the Arizona-Utah border, instead of releasing it downstream to Lake Mead. Both reservoirs are at their lowest points. 
- <p class="updated_time"> 03:54 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
+ <p class="updated_time"> 03:09 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
  <p class="updated_time"> 03:04 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/ukraine-bucha-russia-atrocities.html">They Fell Deeply in Love in Bucha. One Russian Bullet Ended It All.</a> NYT: Over nearly two decades, Iryna Abramova and her husband, Oleh, built a life of love and happiness. Now, she says, she wishes the Russian soldiers had shot her, too. 
- <p class="updated_time"> 02:54 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
+ <p class="updated_time"> 02:09 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 01:59 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61304033?at_medium=RSS&at_campaign=KARANGA">Shanghai: Authorities fire four officials after elderly patient blunder</a> BBC: A viral video shows an elderly patient being loaded into a hearse into a body bag. 
- <p class="updated_time"> 01:54 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 01:12 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/australia/scott-johnson-antigay-killing.html">Australian Gets 12 Years for Anti-Gay Killing of an American in 1988</a> NYT: Scott Johnson, a U.S. graduate student, was pushed off a cliff, in a case that was first ruled a suicide but that his brother refused to let go of. 
- <p class="updated_time"> 12:54 AM CT, May. 03 </p> 
+ <p class="updated_time"> 01:09 AM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 12:25 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61303012?at_medium=RSS&at_campaign=KARANGA">Gay US student's killer jailed after 33 years</a> BBC: A Sydney man murdered the Cambridge University graduate at a gay cruising ground in 1988. 
