@@ -9,17 +9,17 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:20 PM CT, May. 03 </p> 
+ <p class="updated_time"> 02:46 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/05/03/world/ukraine-russia-war-news">Ukraine Live Updates: Biden Speaks at Missile Factory, as Evacuees from Mariupol Steel Plant Reach Safety</a> NYT: The president said the workers, who make Javelin missiles, were allowing Ukrainians to defend themselves in what he called “an ongoing battle in the world between autocracy and democracy.” 
  <p class="updated_time"> 02:07 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/climate/lake-powell-mead-water-drought.html">Colorado River Reservoirs Are So Low, Government Will Delay Releases</a> NYT: The decision will keep more water in Lake Powell on the Arizona-Utah border, instead of releasing it downstream to Lake Mead. Both reservoirs are at their lowest points. 
+ <p class="updated_time"> 01:49 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 01:37 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096094936/ukraine-russia-war-crimes-investigations">The complex effort to hold Vladimir Putin accountable for war crimes </a> NPR: Ukrainian and international experts believe it will take years, if not decades, to build cases and prosecute people. Ukraine's prosecutor general's office has opened more than 9,000 investigations. 
- <p class="updated_time"> 01:25 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 01:15 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096141606/brittney-griner-russia-wrongfully-detained-wnba">The U.S. now says Russia is wrongfully detaining WNBA star Brittney Griner</a> NPR: Griner was arrested after authorities reportedly found vape cartridges with hashish oil in her luggage. The shift in language indicates the U.S. will work more aggressively to secure her release. 
- <p class="updated_time"> 12:25 PM CT, May. 03 </p> 
+ <p class="updated_time"> 12:49 PM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/europe-moves-to-sanction-russia-again-closing-in-on-oil-embargo-11651597785">Europe Moves to Sanction Russia Again</a> WSJ: Europe Moves to Sanction Russia Again 
  <p class="updated_time"> 12:13 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61309545?at_medium=RSS&at_campaign=KARANGA">People can now get contact info cut from Google search results</a> BBC: The web giant makes it easier to request that results linking to contact information are removed. 
@@ -31,12 +31,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61313296?at_medium=RSS&at_campaign=KARANGA">Russia beats final deadline to avoid debt default</a> BBC: Russia has drawn on US dollar reserves in order to make payments to international investors. 
  <p class="updated_time"> 11:50 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61311272?at_medium=RSS&at_campaign=KARANGA">Russian mercenaries behind Central African Republic atrocities - HRW</a> BBC: Witnesses tell Human Rights Watch about summary executions, torture and the beating of civilians. 
- <p class="updated_time"> 11:25 AM CT, May. 03 </p> 
+ <p class="updated_time"> 11:49 AM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
+ <p class="updated_time"> 10:49 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/yellen-zelensky-among-speakers-set-to-discuss-ukraine-war-at-wsj-ceo-council-11651570363">Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council</a> WSJ: Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council 
  <p class="updated_time"> 10:43 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/asia/beijing-china-lockdown-covid.html">Beijing Tightens Measures as Some Residents Grow Weary</a> NYT: Authorities are trying to avoid a lockdown like the one imposed in Shanghai. 
- <p class="updated_time"> 10:25 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/yellen-zelensky-among-speakers-set-to-discuss-ukraine-war-at-wsj-ceo-council-11651570363">Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council</a> WSJ: Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council 
  <p class="updated_time"> 10:14 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/russia-ukraine-war-nato.html">Russia’s War Has Been Brutal, but Putin Has Shown Some Restraint. Why?</a> NYT: Western officials are debating the Kremlin’s calculations in not trying harder to halt weapons shipments in Ukraine. Analysts wonder whether a bigger mobilization by Moscow is on the horizon. 
  <p class="updated_time"> 10:00 AM CT, May. 03 </p> 
@@ -45,10 +45,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61309874?at_medium=RSS&at_campaign=KARANGA">China building collapse: Two dead and more missing in Changsha</a> BBC: Nine people are rescued from the building which fell down on Friday but others are trapped inside. 
  <p class="updated_time"> 09:51 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/climate/las-vegas-lawn-grass-ban.html">To Save Water Amid a Megadrought, Las Vegas Outlaws Grass</a> NYT: With drought and growth taking a toll on the Colorado River, the source of 90 percent of the region’s water, a new law in Las Vegas mandates the removal of turf, patch by patch. 
+ <p class="updated_time"> 09:49 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 09:39 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61308809?at_medium=RSS&at_campaign=KARANGA">Antytila: Ed Sheeran collaboration written on front line</a> BBC: Antytila, one of the biggest acts in Ukraine, are fighting Russian troops following the invasion. 
- <p class="updated_time"> 09:25 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 09:00 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/arts/design/smithsonian-ethical-returns.html">Smithsonian Adopts Policy on Ethical Returns in a Nod to Changing Norms</a> NYT: The institution’s leaders hope other cultural centers will follow its lead. It has already announced plans to return most of its collection of Benin Bronzes to Nigeria under the new policy. 
  <p class="updated_time"> 08:49 AM CT, May. 03 </p> 
@@ -188,6 +188,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:28 PM CT, May. 03 </p> 
+ <a href="https://www.politico.com/news/2022/05/03/jonathan-karl-positive-covid-kim-kardashian-00029712">Jonathan Karl tests positive for Covid after sitting next to Kim Kardashian</a> Politico: The longtime ABC correspondent also shook hands with the president that evening. 
  <p class="updated_time"> 01:37 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096094936/ukraine-russia-war-crimes-investigations">The complex effort to hold Vladimir Putin accountable for war crimes </a> NPR: Ukrainian and international experts believe it will take years, if not decades, to build cases and prosecute people. Ukraine's prosecutor general's office has opened more than 9,000 investigations. 
  <p class="updated_time"> 01:30 PM CT, May. 03 </p> 
@@ -268,6 +270,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/02/technology/partisan-dhs-disinformation-board.html">In Homeland Security, Partisan Fight Breaks Out Over Disinformation Board</a> NYT: The board, an advisory group with the Department of Homeland Security, has become embroiled in the debate over the government’s role in policing online content. 
  <p class="updated_time"> 07:34 PM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/abortion-draft-supreme-court-opinion-key-passages-00029470">10 key passages from Alito’s draft opinion, which would overturn Roe v. Wade</a> Politico: The wording of the court’s ultimate ruling and the line-up of justices who support it could change. Here are 10 important passages in the draft opinion. 
+ <p class="updated_time"> 07:32 PM CT, May. 02 </p> 
+ <a href="https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473">Supreme Court has voted to overturn abortion rights, draft opinion shows</a> Politico: “We hold that Roe and Casey must be overruled,” Justice Alito writes in an initial majority draft circulated inside the court. 
  <p class="updated_time"> 07:08 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/us/politics/house-jan-6-panel-gop-lawmakers.html">House Jan. 6 Panel Seeks Interviews With Three More G.O.P. Lawmakers</a> NYT: All three quickly declined. The panel also said it had evidence that some House Republicans sought pardons from President Donald J. Trump in connection with the effort to overturn the election. 
  <p class="updated_time"> 06:43 PM CT, May. 02 </p> 
@@ -300,8 +304,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/02/us/politics/gorsuch-supreme-court-insular-cases.html">Gorsuch Calls for Overruling ‘Shameful’ Cases on U.S. Territories</a> NYT: The justice urged his colleagues to revisit the Insular Cases, which denied full constitutional protection to unincorporated territories. A petition filed last week gives them a chance. 
  <p class="updated_time"> 03:31 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/democrats-manchin-bipartisan-energy-00028966">Dems grimace at Manchin’s bipartisan energy detour</a> Politico: Republicans want to break the majority's resolve to pass another party-line bill. But the West Virginia centrist is still talking across the aisle. 
- <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
- <a href="https://www.politico.com/news/2022/05/02/may-primaries-republican-donald-trump-ohio-00029149">Trumpworld braces for ‘a couple of ugly nights’ in May</a> Politico: The upcoming stretch of primaries could put a serious dent in the Trump brand. 
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/house-progressives-not-rebooting-00029075">House progressives not rebooting yet after a year of glitches</a> Politico: Centrists derailed their $1.7 trillion dream. They've seen only small wins. But "the strategy doesn't change" next year, as one top liberal put it. 
  <p class="updated_time"> 06:00 PM CT, May. 01 </p> 
