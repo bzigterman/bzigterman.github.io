@@ -9,36 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
+ <a href="https://www.npr.org/2022/05/03/1095475495/quandt-volkswagen-bmw-porshe-stefanquandt-guntherquandt-herbertquandt-quandt">Germany pledged to 'never forget' the Holocaust. Its car companies complicate that</a> NPR: The Nazi legacies of Germany's wealthiest families highlight the country's challenge to make good on its commitment to "never forget" the Holocaust, according to author David de Jong. 
+ <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/world/americas/cuban-migration-united-states.html">Cuban Migrants Arrive to U.S. in Record Numbers, on Foot, Not by Boat</a> NYT: Political repression and escalating economic difficulties on the island, along with a new visa-free travel policy in Nicaragua, are some of the factors driving the change. 
+ <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/climate/las-vegas-lawn-grass-ban.html">To Save Water Amid a Megadrought, Las Vegas Outlaws Grass</a> NYT: With drought and growth taking a toll on the Colorado River, the source of 90 percent of the region’s water, a new law mandates the removal of turf, patch by patch. 
+ <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/climate/lake-powell-mead-water-drought.html">Colorado River Reservoirs Are So Low, Government Is Delaying Releases</a> NYT: The anticipated decision will keep more water in Lake Powell on the Arizona-Utah border, instead of releasing it downstream to Lake Mead. Both reservoirs are at their lowest points. 
+ <p class="updated_time"> 03:31 AM CT, May. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61302738?at_medium=RSS&at_campaign=KARANGA">Met Gala 2022: Celebrities show off lavish outfits in New York</a> BBC: Hundreds of famous names gather in New York for one of fashion's biggest events. 
+ <p class="updated_time"> 03:07 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
+ <p class="updated_time"> 03:04 AM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/world/asia/ukraine-bucha-russia-atrocities.html">They Fell Deeply in Love in Bucha. One Russian Bullet Ended It All.</a> NYT: Over nearly two decades, Iryna Abramova and her husband, Oleh, built a life of love and happiness. Now, she says, she wishes the Russian soldiers had shot her, too. 
  <p class="updated_time"> 02:47 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">What Happened on Day 68 of the War in Ukraine</a> NYT: Civilians continued evacuating from Mariupol with accounts of life under siege. A senior U.S. diplomat warned that Russia appeared to be preparing to annex two regions in eastern Ukraine and possibly a third in the south. 
- <p class="updated_time"> 02:03 AM CT, May. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61302738?at_medium=RSS&at_campaign=KARANGA">Met Gala 2022: Celebrities show off lavish outfits in New York</a> BBC: Hundreds of famous names gather in New York for one of fashion's biggest events. 
+ <p class="updated_time"> 02:07 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 01:59 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61304033?at_medium=RSS&at_campaign=KARANGA">Shanghai: Authorities fire four officials after elderly patient blunder</a> BBC: A viral video shows an elderly patient being loaded into a hearse into a body bag. 
- <p class="updated_time"> 01:58 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 01:12 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/australia/scott-johnson-antigay-killing.html">Australian Gets 12 Years for Anti-Gay Killing of an American in 1988</a> NYT: Scott Johnson, a U.S. graduate student, was pushed off a cliff, in a case that was first ruled a suicide but that his brother refused to let go of. 
+ <p class="updated_time"> 01:07 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
  <p class="updated_time"> 01:05 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61302740?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US Supreme Court may overturn abortion law, leak suggests</a> BBC: The nationwide legal right to abortion is described as "egregiously wrong" in a leaked document. 
- <p class="updated_time"> 12:58 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 12:25 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61303012?at_medium=RSS&at_campaign=KARANGA">Gay US student's killer jailed after 33 years</a> BBC: A Sydney man murdered the Cambridge University graduate at a gay cruising ground in 1988. 
- <p class="updated_time"> 11:58 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
+ <p class="updated_time"> 12:07 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 11:46 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/03/1096062765/more-survivors-are-found-3-days-after-china-building-collapse">More survivors are found 3 days after China building collapse</a> NPR: Police have arrested nine people, including the building owner, on suspicion of ignoring building codes or committing other violations. 
  <p class="updated_time"> 11:15 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/hong-kong-inexpensive-dining.html">In Hong Kong, Cheap Dining Options Are All the Rage</a> NYT: In a city pummeled by political upheaval, economic downturn and the pandemic, bare-bones ‘two dishes and rice’ restaurants have become a go-to destination across all social classes. 
+ <p class="updated_time"> 11:07 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 11:01 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-61303217?at_medium=RSS&at_campaign=KARANGA">Trader made error in 'flash crash', Citigroup says</a> BBC: The benchmark Stockholm OMX 30 share index fell by 8% at one point on Monday morning. 
- <p class="updated_time"> 10:58 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 10:35 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/mariupol-evacuation-annex-donbas.html">Painful Stories Emerge From Mariupol, While Combat Rages to the East</a> NYT: With its forces making only slow progress and enduring heavy losses, Russia now plans to annex eastern parts of Ukraine after a sham election, the U.S. says. 
- <p class="updated_time"> 09:58 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 08:25 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61301916?at_medium=RSS&at_campaign=KARANGA">Former US police officer charged with murder in death of 12-year-old</a> BBC: Authorities believe Thomas "TJ" Siderio was unarmed and posed no threat to officers when shot dead. 
  <p class="updated_time"> 08:14 PM CT, May. 02 </p> 
@@ -89,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/02/1095926607/lavrov-israel-zelenskyy-hitler">Israel slams Russia's foreign minister for comparing Zelenskyy to Hitler</a> NPR: Israeli officials are calling for an apology after Sergey Lavrov said the Hitler "had Jewish origins." It's the strongest condemnation of Russia by Israel since the war in Ukraine began in February. 
  <p class="updated_time"> 11:38 AM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-61300874?at_medium=RSS&at_campaign=KARANGA">EU accuses Apple of breaking competition law over contactless payments</a> BBC: The US tech giant denies it is restricting rivals' access to its mobile payments technology. 
- <p class="updated_time"> 11:34 AM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/world/asia/ukraine-bucha-russia-atrocities.html">They Fell Deeply in Love in Bucha. One Russian Bullet Ended It All.</a> NYT: Over nearly two decades, Iryna Abramova and her husband, Oleh, built a life of love and happiness. Now, she says, she wishes the Russian soldiers had shot her, too. 
  <p class="updated_time"> 11:09 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/ukraine-russia-attack-denials.html">Ukrainian Official Outlines Intentional Ambiguity on Strikes Inside Russia</a> NYT: The strikes have been one of the most intriguing, and opaque, new elements of the recent fighting. But when it comes to confirming their origins, “we don’t say yes and we don’t say no,’’ said the official. 
  <p class="updated_time"> 10:46 AM CT, May. 02 </p> 
@@ -135,8 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/01/world/europe/ukraine-russia-war-pelosi.html">Pelosi Visit to Ukraine Signals Growing U.S. Resolve Against Russia</a> NYT: In Mariupol, the scene of intense fighting, civilians who had taken refuge at a steel plant were at least able to begin evacuating. 
  <p class="updated_time"> 07:59 PM CT, May. 01 </p> 
  <a href="https://www.npr.org/2022/05/01/1095824437/may-day-workers-rights-protests">Workers around the world mark May Day with rallies for better working conditions</a> NPR: From New York City to Turkey, activists and workers seized this International Workers' Day as a moment to push for greater worker protections and changes to immigration policies. 
- <p class="updated_time"> 06:46 PM CT, May. 01 </p> 
- <a href="https://www.npr.org/2022/05/01/1095826996/family-of-hotel-rwanda-hero-sues-rwandan-government-for-kidnapping-and-torture">Family of 'Hotel Rwanda' hero sues Rwandan government for kidnapping and torture</a> NPR: Paul Rusesabagina saved more than 1,200 people during the 1994 Rwandan genocide. The Rwandan government convicted him of terrorism in a trial that human rights groups call a sham. 
  <p class="updated_time"> 06:17 PM CT, May. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61294744?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Evacuation of Mariupol civilians under way</a> BBC: The UN says an operation to evacuate civilians trapped in a steelworks in Mariupol is under way. 
  <p class="updated_time"> 06:09 PM CT, May. 01 </p> 
@@ -171,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/30/books/review/dead-in-the-water-matthew-campbell-kit-chellel.html">Review: ‘Dead in the Water,’ by Matthew Campbell & Kit Chellel</a> NYT: In Matthew Campbell and Kit Chellel’s real-life whodunit “Dead in the Water,” Big Oil, Big Insurance and global corruption clash on a giant scale. 
  <p class="updated_time"> 01:13 PM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/middleeast/muslims-digital-prayer-rings.html">Some Muslims Are Using Digital Rings to Count Recitations</a> NYT: Much like the fitness tools that count steps, these electronic devices help keep a record of the day’s religious recitations. 
- <p class="updated_time"> 12:24 PM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/29/world/europe/biden-russia-scientists.html">Biden Seeks to Lure Russia’s Top Scientists to the U.S.</a> NYT: Legislation proposed by the president would suspend the requirement that Russian scientists have a sponsoring employer to gain a visa. 
  <p class="updated_time"> 09:00 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/ukraine-fuel-shortages-russia.html">Ukraine Grapples With Fuel Shortages After Russian Attacks</a> NYT: Officials in Kyiv have urged residents to use public transportation rather than private vehicles in an effort to save fuel for the military. 
  <p class="updated_time"> 08:16 AM CT, Apr. 30 </p> 
@@ -183,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/04/29/world/europe/american-killed-ukraine-cancel.html">Death of Former Marine Fighting in Ukraine Confirmed by Family</a> NYT: Willy Joseph Cancel Jr., 22, died in combat earlier this week, according to his uncle. He is believed to be the first American killed while fighting in Ukraine. 
  <p class="updated_time"> 04:08 AM CT, Apr. 30 </p> 
  <a href="https://www.nytimes.com/2022/04/29/world/europe/civilians-mariupol-azovstal.html">Civilians Keep Arriving at Besieged Steel Complex in Mariupol, Fighters Say</a> NYT: That citizens are still seeking to shelter at the plant, where there is no prospect of escape or rescue, offers a testament to what they must be facing elsewhere in the devastated city. 
- <p class="updated_time"> 04:00 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/30/world/middleeast/miilya-israel-archaeology-crusaders-byzantine.html">Mi’ilya, Christian Village in Israel, Digs Into Crusader Past</a> NYT: The residents of Mi’ilya long wondered what archaeological treasures lay beneath a crumbling castle. Now, some are excavating their homes to find out. 
 
 
 </details>
@@ -192,6 +194,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
+ <a href="https://www.npr.org/sections/health-shots/2022/05/03/1095946813/medicare-drug-costs-spike">Drug plan prices touted during Medicare open enrollment can rise within a month</a> NPR: Even the savviest Medicare drug plan shoppers can get a shock when they fill prescriptions: That great deal on medications in fall is no bargain after prices go up as much as 8% by winter. 
+ <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
+ <a href="https://www.npr.org/2022/05/03/1095615884/7-primary-contests-to-watch-tuesday-in-ohio-and-indiana">7 primary contests to watch Tuesday in Ohio and Indiana</a> NPR: Tuesday's top race is in Ohio, where voters are set to pick nominees for an open U.S. Senate seat. Redistricting has also affected some of the state's closely watched House races. 
+ <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
+ <a href="https://www.npr.org/2022/05/03/1095387687/ohio-primary-election-results">Here are the key primary election results from Ohio</a> NPR: Voters head to the polls Tuesday for statewide primaries in Ohio and Indiana. In Ohio, an open Senate contest has top billing. 
+ <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
+ <a href="https://www.npr.org/2022/05/03/1095386038/indiana-primary-election-results">Here are the key primary election results from Indiana</a> NPR: Indiana is one of two states holding primaries Tuesday. Find results for federal races here. 
+ <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
+ <a href="https://www.npr.org/2022/05/03/1095334092/in-ohio-trump-endorses-an-election-official-who-doesnt-think-2020-was-stolen">In Ohio, Trump endorses an election official who doesn't think 2020 was stolen</a> NPR: Trump endorsed Ohio Secretary of State Frank LaRose ahead of Ohio's primaries on Tuesday. LaRose told NPR in January that candidates not conceding was a "really dangerous thing." 
+ <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/business/energy-environment/high-electric-bills-summer.html">High Electric Bills Get Ready for Another Energy Price Spike: High Electric Bills</a> NYT: Rates have jumped because of a surge in natural gas prices and could keep rising rapidly for years as utilities invest in electric grids. 
  <p class="updated_time"> 01:56 AM CT, May. 03 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 01:23 AM CT, May. 03 </p> 
@@ -270,10 +284,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/01/us/politics/josh-mandel-vance-ohio-senate.html">In Trump’s Shadow, Republicans Campaign Ahead of Ohio Primary</a> NYT: Donald Trump’s endorsement of the author and venture capitalist J.D. Vance has shaken up the Republican race for the first major Senate midterm election. 
  <p class="updated_time"> 05:53 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/subpoena-rnc-records-capitol-riot-00029265">Judge upholds Jan. 6 committee subpoena for RNC records</a> Politico: U.S. District Court Judge Tim Kelly said the select committee had demonstrated its need for the party’s data on its fundraising emails. 
- <p class="updated_time"> 04:08 AM CT, May. 02 </p> 
- <a href="https://www.npr.org/2022/05/02/1095861489/lawmakers-call-for-greater-security-funding-and-oversight-for-u-s-transit-system">Lawmakers call for greater security funding and oversight for U.S. transit systems</a> NPR: Open drug use and the threat of mass violence have prompted calls for more security funding for mass transit. Congress also says better oversight of existing security is needed. 
- <p class="updated_time"> 04:00 AM CT, May. 02 </p> 
- <a href="https://www.npr.org/2022/05/02/1095599808/gop-primary-candidates-trump-endorsements">Campaign season kicks off in earnest with primaries in 13 states in May</a> NPR: This month's primaries and runoffs will serve as a test of the power of former President Donald Trump's endorsements up and down the ballot. 
  <p class="updated_time"> 04:00 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/us/politics/democrats-midterms-ohio.html">Democrats’ Mystery: How to Brighten a Presidency and a National Mood</a> NYT: Crucial left-leaning voters have soured on President Biden, and Americans of all stripes are angry. Democratic leaders can’t agree on what to tell them. 
  <p class="updated_time"> 04:00 AM CT, May. 02 </p> 
@@ -298,8 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/01/us/politics/biden-approval-inflation-immigration.html">Biden Received Early Warnings That Immigration and Inflation Could Erode His Support</a> NYT: Confidential polling data obtained by The New York Times underscores the biggest challenges for President Biden and his party as they face the prospect of losing power to Republicans on Capitol Hill. 
  <p class="updated_time"> 12:45 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/style/kim-kardashian-pete-davidson-white-house-correspondents-dinner.html">Kim Kardashian and Pete Davidson Attend the White House Correspondents’ Dinner</a> NYT: An interesting event to choose to make an entrance. 
- <p class="updated_time"> 12:31 PM CT, May. 01 </p> 
- <a href="https://www.npr.org/2022/05/01/1095813226/connecticut-abortion-bill-roe-v-wade">Connecticut looks to expand abortion rights in response to out-of-state restrictions</a> NPR: The legislation is partly a reaction to the wave of new measures in conservative states restricting abortions and in some cases levying civil and criminal penalties on people who perform them. 
  <p class="updated_time"> 12:01 PM CT, May. 01 </p> 
  <a href="https://www.cnn.com/2022/05/01/politics/senate-race-rankings-may-elections/index.html">The 10 Senate seats most likely to flip in 2022</a> CNN: The month of May brings the first Senate primaries of the year. Ohio votes on Tuesday, followed by a near weekly stream of contests that will shape the midterm battle for control of the chamber. By the end of the month, the general election matchups in almost half of this year's most competitive races will be set. 
  <p class="updated_time"> 11:03 AM CT, May. 01 </p> 
@@ -308,10 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/01/us/politics/white-house-correspondents-dinner.html">Biden Jokes About G.O.P. and Covid at White House Correspondents’ Dinner </a> NYT: Amid concerns about Covid, President Biden offered some humor and received his own ribbing at the White House Correspondents’ Dinner, a ritual that had gone on hiatus during the pandemic. 
  <p class="updated_time"> 10:17 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/menendez-iran-nuclear-weapons-deal-00029168">Menendez doubtful that talks with Iran will yield a good deal</a> Politico: "I want the administration to understand that no deal is better than a bad deal," he said. 
- <p class="updated_time"> 07:37 AM CT, May. 01 </p> 
- <a href="https://www.npr.org/2022/05/01/1095809160/politics-chat-bidens-ratings-down-over-ukraine-midterms-begin-in-indiana-and-ohi">Politics chat: Biden's ratings down over Ukraine; midterms begin in Indiana and Ohio</a> NPR: An NPR/PBS NewsHour/Marist poll shows that ratings for President Biden's handling of the Ukraine crisis has declined. Also, election primaries begin in Indiana and Ohio this week. 
- <p class="updated_time"> 07:06 AM CT, May. 01 </p> 
- <a href="https://www.npr.org/2022/05/01/1095809118/primary-season-begins-with-indiana-and-ohio">Primary season begins with Indiana and Ohio</a> NPR: As Congressional primaries begin in earnest this month, both centrist and progressive Democrats argue they will have a better chance of winning against Republicans in November. 
  <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/democrats-immigration-reform-infighting-00029087">Immigration reform withers as Democrats descend into border infighting</a> Politico: There's now "zero" chance for a comprehensive bill this Congress, one key senator said. But the party has some smaller ideas to fall back on. 
  <p class="updated_time"> 05:47 AM CT, May. 01 </p> 
@@ -324,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/04/30/american-democracy-is-not-a-reality-show-biden-roasts-and-reflects-at-whcd-00029153">‘American democracy is not a reality show’: Biden roasts, and reflects, at WHCD</a> Politico: Amid the jokes, the president often struck a serious tone. 
  <p class="updated_time"> 05:25 PM CT, Apr. 30 </p> 
  <a href="https://www.cnn.com/2022/04/30/politics/crown-act-hair-discrimination/index.html">What is the CROWN Act and what do advocates say it will do?</a> CNN: A Texas high school policy banning braided or twisted hair has stopped a teenager from attending school, according to his mother, and brought renewed attention to the CROWN Act. 
- <p class="updated_time"> 10:03 AM CT, Apr. 30 </p> 
- <a href="https://www.nytimes.com/2022/04/30/us/politics/charles-herbster-groping.html">Nebraska Candidate for Governor Accused of Second Groping Incident at 2019 Dinner</a> NYT: Charles W. Herbster, who has been endorsed by Donald Trump for Nebraska governor, was accused of groping a second woman at a 2019 Republican fund-raising event. He denies both allegations. 
 
 
 </details>
