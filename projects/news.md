@@ -9,25 +9,27 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:25 AM CT, May. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61303012?at_medium=RSS&at_campaign=KARANGA">Gay US student's killer jailed after 33 years</a> BBC: A Sydney man murdered the Cambridge University graduate at a gay cruising ground in 1988. 
  <p class="updated_time"> 12:09 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61302740?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US Supreme Court leak suggests abortion law repeal</a> BBC: Law that guarantees right to abortion described as "egregiously wrong" in document leaked to Politico. 
  <p class="updated_time"> 12:00 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/05/02/world/ukraine-russia-war-news">What Happened on Day 68 of the War in Ukraine</a> NYT: Civilians continued evacuating from Mariupol with accounts of life under siege. A senior U.S. diplomat warned that Russia appeared to be preparing to annex two regions in eastern Ukraine and possibly a third in the south. 
+ <p class="updated_time"> 11:49 PM CT, May. 02 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 11:46 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/03/1096062765/more-survivors-are-found-3-days-after-china-building-collapse">More survivors are found 3 days after China building collapse</a> NPR: Police have arrested nine people, including the building owner, on suspicion of ignoring building codes or committing other violations. 
- <p class="updated_time"> 11:37 PM CT, May. 02 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-it-sank-two-russian-boats-as-new-blasts-hit-russian-border-city-11651482072">Ukraine Says It Sank Two Russian Naval Vessels</a> WSJ: Ukraine Says It Sank Two Russian Naval Vessels 
  <p class="updated_time"> 11:15 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/hong-kong-inexpensive-dining.html">In Hong Kong, Cheap Dining Options Are All the Rage</a> NYT: In a city pummeled by political upheaval, economic downturn and the pandemic, bare-bones ‘two dishes and rice’ restaurants have become a go-to destination across all social classes. 
  <p class="updated_time"> 11:01 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-61303217?at_medium=RSS&at_campaign=KARANGA">Trader made error in 'flash crash', Citigroup says</a> BBC: The benchmark Stockholm OMX 30 share index fell by 8% at one point on Monday morning. 
- <p class="updated_time"> 10:37 PM CT, May. 02 </p> 
+ <p class="updated_time"> 10:49 PM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-wheat-shortfalls-high-prices-11651503940">Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly</a> WSJ: Facing a Wheat Crisis, Countries Race to Remake an Entire Market on the Fly 
  <p class="updated_time"> 10:35 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/mariupol-evacuation-annex-donbas.html">Painful Stories Emerge From Mariupol, While Combat Rages to the East</a> NYT: With its forces making only slow progress and enduring heavy losses, Russia now plans to annex eastern parts of Ukraine after a sham election, the U.S. says. 
- <p class="updated_time"> 09:37 PM CT, May. 02 </p> 
+ <p class="updated_time"> 09:49 PM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/hamas-media-campaign-urges-attacks-on-jews-by-palestinians-in-israel-and-west-bank-11651511641">Hamas Media Campaign Urges Attacks on Jews by Palestinians</a> WSJ: Hamas Media Campaign Urges Attacks on Jews by Palestinians 
- <p class="updated_time"> 08:37 PM CT, May. 02 </p> 
+ <p class="updated_time"> 08:49 PM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/russia-turns-on-spending-taps-to-blunt-economic-impact-of-war-and-sanctions-11651450784">Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions</a> WSJ: Russia Turns on Spending Taps to Blunt Economic Impact of War and Sanctions 
  <p class="updated_time"> 08:25 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61301916?at_medium=RSS&at_campaign=KARANGA">Former US police officer charged with murder in death of 12-year-old</a> BBC: Authorities believe Thomas "TJ" Siderio was unarmed and posed no threat to officers when shot dead. 
@@ -35,7 +37,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61294585?at_medium=RSS&at_campaign=KARANGA">Alabama hunt for missing prison inmate and guard</a> BBC: Police now believe the guard helped organise the escape and have issued a warrant for her arrest. 
  <p class="updated_time"> 08:06 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61302738?at_medium=RSS&at_campaign=KARANGA">Met Gala 2022: Celebrities show off lavish outfits in New York</a> BBC: Hundreds of famous names strike a pose on the museum steps for the over-the-top costume parade. 
- <p class="updated_time"> 07:37 PM CT, May. 02 </p> 
+ <p class="updated_time"> 07:49 PM CT, May. 02 </p> 
  <a href="https://www.wsj.com/articles/the-push-to-prosecute-russias-vladimir-putin-for-the-ukraine-war-11651492870">The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War</a> WSJ: The Push to Prosecute Russia’s Vladimir Putin for the Ukraine War 
  <p class="updated_time"> 07:13 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/02/1096045592/biden-austin-tice-parents-syria-kidnapped">Biden meets with parents of abducted journalist Austin Tice</a> NPR: President Biden met with the parents of American journalist Austin Tice, who was abducted in Syria nearly 10 years ago. He has not been heard from since. Syria has never acknowledged holding him. 
@@ -107,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/02/1095008257/estonia-nato-cyber-war-games-russia">Estonia hosts NATO-led cyber war games, with one eye on Russia</a> NPR: Estonia is host to one of the world's largest annual interactive cybersecurity drills. Russia is always considered the main threat, but this year, the war in Ukraine has only added to the stakes. 
  <p class="updated_time"> 07:10 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/africa/south-africa-surge-variants.html">South Africa’s latest surge is a possible preview of the pandemic’s next chapter.</a> NYT: The spread of two newly discovered subvariants has doctors watching closely. 
- <p class="updated_time"> 06:42 AM CT, May. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61297538?at_medium=RSS&at_campaign=KARANGA">Haiti gang holding kidnapped diplomat for ransom</a> BBC: A gang infamous for kidnapping foreigners has seized a diplomat from the Dominican Republic. 
  <p class="updated_time"> 05:11 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/04/30/world/europe/pope-francis-kyiv-ambassadors.html">As Ambassadors Left Town, the Pope’s Emissary Remained in Kyiv</a> NYT: Through shelling, street fights in the suburbs and the flight of thousands through Ukraine’s capital, the Vatican’s diplomatic mission stayed put. 
  <p class="updated_time"> 04:42 AM CT, May. 02 </p> 
@@ -192,6 +192,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:51 PM CT, May. 02 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/us/politics/abortion-supreme-court-roe-wade.html">Could the Supreme Court Overturn Roe v. Wade? Here’s What to Know.</a> NYT: The landmark decision that established a constitutional right to an abortion has been contentious since it was made in 1973. 
  <p class="updated_time"> 11:01 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/ohio-indiana-primary-elections.html">What to Watch in Ohio and Indiana Primary Elections Tuesday</a> NYT: The second election night of the 2022 midterms has some national implications for Republicans. Here’s a breakdown. 
  <p class="updated_time"> 10:46 PM CT, May. 02 </p> 
@@ -286,8 +288,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/02/house-progressives-not-rebooting-00029075">Strength in numbers — maybe? House liberals mull their future</a> Politico: Centrists derailed their $1.7 trillion dream. They've seen only small wins. But "the strategy doesn't change" next year, as one top liberal put it. 
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/bidenworld-midterms-trump-elon-musk-00029106">Bidenworld wants to make the midterms more about Trump and hopes Elon Musk helps</a> Politico: The election will be either a referendum or a contrast. The president’s team prefers the latter. 
- <p class="updated_time"> 10:37 PM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/2022/04/30/us/tucker-carlson-fox-news.html">How Tucker Carlson Reshaped Fox News — and Became Trump’s Heir</a> NYT: As the host turned a civil war at Fox to his advantage, he found himself at the forefront of the nativist forces transforming conservative politics. 
  <p class="updated_time"> 06:00 PM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/us/politics/walter-mondale-memorial.html">Biden Extols Mondale as ‘One of the Great Giants of American History’</a> NYT: President Biden paid tribute to Walter F. Mondale, his former colleague in the Senate who went on to transform the office of vice president and died in 2021. 
  <p class="updated_time"> 04:25 PM CT, May. 01 </p> 
