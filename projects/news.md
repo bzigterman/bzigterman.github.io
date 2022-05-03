@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:18 AM CT, May. 03 </p> 
+ <p class="updated_time"> 10:46 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/05/03/world/ukraine-russia-war-news">Ukraine Live Updates: First Mariupol Steel Plant Evacuees Reach Relative Safety</a> NYT: Just over 150 women and children who hid for weeks in bunkers below the Azovstal factory are evacuated. As Western leaders escalate support for Ukraine, President Biden was scheduled to speak at a missile factory in Alabama. 
+ <p class="updated_time"> 10:43 AM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/world/asia/beijing-china-lockdown-covid.html">Beijing Tightens Measures as Some Residents Grow Weary</a> NYT: Authorities are trying to avoid a lockdown like the one imposed in Shanghai. 
  <p class="updated_time"> 10:14 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/russia-ukraine-war-nato.html">Russia’s War Has Been Brutal, but Putin Has Shown Some Restraint. Why?</a> NYT: Western officials are debating the Kremlin’s calculations in not trying harder to halt weapons shipments in Ukraine. Analysts wonder whether a bigger mobilization by Moscow is on the horizon. 
  <p class="updated_time"> 10:05 AM CT, May. 03 </p> 
@@ -21,38 +23,38 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61309874?at_medium=RSS&at_campaign=KARANGA">China building collapse: Two dead and more missing in Changsha</a> BBC: Nine people are rescued from the building which fell down on Friday but others are trapped inside. 
  <p class="updated_time"> 09:51 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/climate/las-vegas-lawn-grass-ban.html">To Save Water Amid a Megadrought, Las Vegas Outlaws Grass</a> NYT: With drought and growth taking a toll on the Colorado River, the source of 90 percent of the region’s water, a new law mandates the removal of turf, patch by patch. 
+ <p class="updated_time"> 09:48 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 09:39 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61308809?at_medium=RSS&at_campaign=KARANGA">Antytila: Ed Sheeran collaboration written on front line</a> BBC: Antytila, one of the biggest acts in Ukraine, are fighting Russian troops following the invasion. 
- <p class="updated_time"> 09:28 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 09:20 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/boris-johnson-ukraine-russia.html">Boris Johnson Calls Russia War ‘Ukraine’s Finest Hour’</a> NYT: In the first address by a foreign leader to Ukraine’s Parliament, Britain’s prime minister burnished his credentials as a supporter of the resistance to Russia. 
  <p class="updated_time"> 09:00 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/arts/design/smithsonian-ethical-returns.html">Smithsonian Adopts Policy on Ethical Returns in a Nod to Changing Norms</a> NYT: The institution’s leaders hope other cultural centers will follow its lead. It has already announced plans to return most of its collection of Benin Bronzes to Nigeria under the new policy. 
  <p class="updated_time"> 08:49 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61308017?at_medium=RSS&at_campaign=KARANGA">Ukraine war: A 64-year-old Mariupol resident lost her home, but has nowhere to go</a> BBC: 64-year-old Tatyana is one of many Ukrainians who have lost their homes to Russian attacks. 
- <p class="updated_time"> 08:28 AM CT, May. 03 </p> 
+ <p class="updated_time"> 08:48 AM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 08:18 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/middleeast/israel-jerusalem-zip-line.html">Israel Plans Zip Line for Ancient Jerusalem</a> NYT: A Jewish settler group is promoting projects that opponents say will change the delicate historic, religious and political balance in highly symbolic areas around Jerusalem’s Old City. 
+ <p class="updated_time"> 07:48 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/russia-reiterates-accusations-of-neo-nazism-in-ukraine-11651579622">Russia Ramps Up Accusations of Neo-Nazism in Ukraine</a> WSJ: Russia Ramps Up Accusations of Neo-Nazism in Ukraine 
  <p class="updated_time"> 07:34 AM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096085028/climate-scientists-say-south-asias-heat-wave-120f-is-a-sign-of-whats-to-come">Climate scientists say South Asia's heat wave (120F!) is a sign of what's to come</a> NPR: Some schools have closed early for summer. More than a billion people are in danger of heat stroke. Summer's early arrival in South Asia also threatens global grain supplies. 
- <p class="updated_time"> 07:28 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/russia-reiterates-accusations-of-neo-nazism-in-ukraine-11651579622">Russia Ramps Up Accusations of Neo-Nazism in Ukraine</a> WSJ: Russia Ramps Up Accusations of Neo-Nazism in Ukraine 
  <p class="updated_time"> 06:53 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61306008?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Nurse who lost her legs has first dance with husband in hospital</a> BBC: Oksana lost her legs, and four fingers, in a landmine explosion when returning home. 
- <p class="updated_time"> 06:28 AM CT, May. 03 </p> 
+ <p class="updated_time"> 06:48 AM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/yellen-zelensky-among-speakers-set-to-discuss-ukraine-war-at-wsj-ceo-council-11651570363">Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council</a> WSJ: Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council 
  <p class="updated_time"> 06:26 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61307340?at_medium=RSS&at_campaign=KARANGA">Óscar Denis: Former Paraguay VP's family marks his 600 days in captivity</a> BBC: Paraguay's ex-Vice President Óscar Denis is being held by EPP rebels who kidnapped him in 2020. 
+ <p class="updated_time"> 05:48 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 05:47 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61308012?at_medium=RSS&at_campaign=KARANGA">Met Gala 2022: Blake Lively, Kim Kardashian and others showcase lavish outfits</a> BBC: One of fashion's biggest events has rolled out the red carpet in New York for some of the world's stars. 
  <p class="updated_time"> 05:30 AM CT, May. 03 </p> 
  <a href="https://www.npr.org/sections/money/2022/05/03/1096044152/how-palm-oil-prices-are-affecting-the-global-economy">How palm oil prices are affecting the global economy</a> NPR: The prices of cooking oil are rising. Why that could put global security at risk. 
  <p class="updated_time"> 05:29 AM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/fearful-of-getting-cut-off-china-pushes-for-self-reliance-11651588187">Fearful of Getting Cut Off, China Pushes for Self-Reliance</a> WSJ: China has pumped billions of dollars into semiconductor production, stockpiled grains and oil, and established international links to its financial system. At the root of the push is the fear of getting blocked out of Western economies by heavy penalties of the sort the U.S. and European Union have thrust at Russia. 
- <p class="updated_time"> 05:28 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 05:04 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/russia-sanctions-ukraine.html">What Sanctions Have Been Imposed on Russia?</a> NYT: Our reporters answer readers’ questions about Russia’s invasion of Ukraine. Many of you asked about economic penalties and how Putin could respond. 
  <p class="updated_time"> 04:38 AM CT, May. 03 </p> 
@@ -119,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/02/world/europe/kyiv-ukraine-russia-war.html">In Kyiv, Residents Cautiously Embrace a Sense of Normalcy</a> NYT: A month after the Ukrainian Army defeated the Russian forces that had partly encircled Ukraine’s capital, tension is slowly seeping out of the city. 
  <p class="updated_time"> 01:29 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-61298791?at_medium=RSS&at_campaign=KARANGA">EU divided over how to step away from Russian energy</a> BBC: EU energy ministers met to discuss a possible ban on Russian oil, but members remain split. 
- <p class="updated_time"> 12:25 PM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/04/30/world/asia/pakistan-airstrikes-afghanistan-taliban.html">Pakistani Airstrikes Escalate Conflict on Afghan Border</a> NYT: The airstrikes killed at least 45 people, stoking fears of a violent resurgence of the conflict in eastern Afghanistan, which has become a base for Pakistani militants. 
  <p class="updated_time"> 12:16 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/rohingya-bangladesh-school-closings.html">Bangladesh Shutters Dozens of Schools Set Up by Rohingya in Camps</a> NYT: More than 30 schools, teaching tens of thousands of Rohingya students, were closed in Bangladesh, where officials are said to have feared the schools would encourage the refugees to stay permanently. 
  <p class="updated_time"> 11:46 AM CT, May. 02 </p> 
@@ -196,6 +196,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:38 AM CT, May. 03 </p> 
+ <a href="https://www.politico.com/news/2022/05/03/chief-justice-roberts-draft-abortion-opinion-00029593">‘Betrayal’: Chief Justice Roberts blasts disclosure of draft abortion opinion</a> Politico: He also announced a probe by the Marshal of the Court. 
  <p class="updated_time"> 10:11 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/trump-hotel-lawsuit-settlement.html">Trump Settles Suit Over Payments to Hotel for 2017 Inauguration</a> NYT: The lawsuit brought by the attorney general in Washington, D.C., claimed that the Trump hotel accepted excessive payments from the inaugural committee. 
  <p class="updated_time"> 10:00 AM CT, May. 03 </p> 
@@ -258,6 +260,8 @@ webappicon: /plots/news.png
  <a href="https://subscriber.politicopro.com/article/2022/05/supreme-court-abortion-draft-opinion-00029473">Supreme Court has voted to overturn abortion rights, draft opinion shows</a> Politico: “We hold that Roe and Casey must be overruled,” Justice Alito writes in an initial majority draft circulated inside the court. 
  <p class="updated_time"> 07:50 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/us/politics/alexandria-ocasio-cortez-nina-turner.html">Alexandria Ocasio-Cortez Endorses Nina Turner for Ohio House Seat</a> NYT: Ms. Turner is challenging Representative Shontel Brown for a second time in Tuesday’s primary election, after Ms. Brown won a special election last year. 
+ <p class="updated_time"> 07:36 PM CT, May. 02 </p> 
+ <a href="https://www.politico.com/news/2022/05/02/supreme-court-draft-opinion-00029475">How rare is a Supreme Court breach? Very rare</a> Politico: Court watchers can’t recall a previous time when a draft opinion was publicly disclosed before a decision. 
  <p class="updated_time"> 07:32 PM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473">Supreme Court has voted to overturn abortion rights, draft opinion shows</a> Politico: “We hold that Roe and Casey must be overruled,” Justice Alito writes in an initial majority draft circulated inside the court. 
  <p class="updated_time"> 07:08 PM CT, May. 02 </p> 
