@@ -9,12 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:00 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/world/middleeast/israel-jerusalem-zip-line.html">Israel Plans Zip Line for Ancient Jerusalem</a> NYT: A Jewish settler group is promoting projects that opponents say will change the delicate historic, religious and political balance in highly symbolic areas around Jerusalem’s Old City. 
+ <p class="updated_time"> 12:00 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/03/world/ukraine-russia-war-news">Ukraine Live Updates: ‘Slammed From All Sides.’ Survivors of Steel Plant Siege Reach Safety</a> NYT: Just over 150 women and children who hid for weeks in bunkers below the Azovstal factory in Mariupol arrived in Ukrainian-held territory. As Western leaders stiffened their support for Ukraine, President Biden was expected to speak at a missile factory in Alabama. 
+ <p class="updated_time"> 12:00 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/world/europe/boris-johnson-ukraine-russia.html">Boris Johnson Calls Russia War ‘Ukraine’s Finest Hour’</a> NYT: In the first address by a foreign leader to Ukraine’s Parliament, Britain’s prime minister burnished his credentials as a supporter of the resistance to Russia. 
+ <p class="updated_time"> 11:53 AM CT, May. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61313296?at_medium=RSS&at_campaign=KARANGA">Russia beats final deadline to avoid debt default</a> BBC: Russia has drawn on US dollar reserves in order to make payments to international investors. 
  <p class="updated_time"> 11:18 AM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/live/2022/05/03/world/ukraine-russia-war-news">Ukraine Live Updates: First Mariupol Steel Plant Evacuees Reach Relative Safety</a> NYT: Just over 150 women and children who hid for weeks in bunkers below the Azovstal factory are evacuated. As Western leaders escalate support for Ukraine, President Biden was scheduled to speak at a missile factory in Alabama. 
- <p class="updated_time"> 10:45 AM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 10:43 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/asia/beijing-china-lockdown-covid.html">Beijing Tightens Measures as Some Residents Grow Weary</a> NYT: Authorities are trying to avoid a lockdown like the one imposed in Shanghai. 
+ <p class="updated_time"> 10:18 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 10:14 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/russia-ukraine-war-nato.html">Russia’s War Has Been Brutal, but Putin Has Shown Some Restraint. Why?</a> NYT: Western officials are debating the Kremlin’s calculations in not trying harder to halt weapons shipments in Ukraine. Analysts wonder whether a bigger mobilization by Moscow is on the horizon. 
  <p class="updated_time"> 10:05 AM CT, May. 03 </p> 
@@ -25,36 +33,30 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61309874?at_medium=RSS&at_campaign=KARANGA">China building collapse: Two dead and more missing in Changsha</a> BBC: Nine people are rescued from the building which fell down on Friday but others are trapped inside. 
  <p class="updated_time"> 09:51 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/climate/las-vegas-lawn-grass-ban.html">To Save Water Amid a Megadrought, Las Vegas Outlaws Grass</a> NYT: With drought and growth taking a toll on the Colorado River, the source of 90 percent of the region’s water, a new law mandates the removal of turf, patch by patch. 
- <p class="updated_time"> 09:45 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 09:39 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61308809?at_medium=RSS&at_campaign=KARANGA">Antytila: Ed Sheeran collaboration written on front line</a> BBC: Antytila, one of the biggest acts in Ukraine, are fighting Russian troops following the invasion. 
- <p class="updated_time"> 09:20 AM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/world/europe/boris-johnson-ukraine-russia.html">Boris Johnson Calls Russia War ‘Ukraine’s Finest Hour’</a> NYT: In the first address by a foreign leader to Ukraine’s Parliament, Britain’s prime minister burnished his credentials as a supporter of the resistance to Russia. 
+ <p class="updated_time"> 09:18 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/russia-reiterates-accusations-of-neo-nazism-in-ukraine-11651579622">Russia Ramps Up Accusations of Neo-Nazism in Ukraine</a> WSJ: Russia Ramps Up Accusations of Neo-Nazism in Ukraine 
  <p class="updated_time"> 09:00 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/arts/design/smithsonian-ethical-returns.html">Smithsonian Adopts Policy on Ethical Returns in a Nod to Changing Norms</a> NYT: The institution’s leaders hope other cultural centers will follow its lead. It has already announced plans to return most of its collection of Benin Bronzes to Nigeria under the new policy. 
  <p class="updated_time"> 08:49 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61308017?at_medium=RSS&at_campaign=KARANGA">Ukraine war: A 64-year-old Mariupol resident lost her home, but has nowhere to go</a> BBC: 64-year-old Tatyana is one of many Ukrainians who have lost their homes to Russian attacks. 
- <p class="updated_time"> 08:45 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/russia-reiterates-accusations-of-neo-nazism-in-ukraine-11651579622">Russia Ramps Up Accusations of Neo-Nazism in Ukraine</a> WSJ: Russia Ramps Up Accusations of Neo-Nazism in Ukraine 
  <p class="updated_time"> 08:18 AM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/world/middleeast/israel-jerusalem-zip-line.html">Israel Plans Zip Line for Ancient Jerusalem</a> NYT: A Jewish settler group is promoting projects that opponents say will change the delicate historic, religious and political balance in highly symbolic areas around Jerusalem’s Old City. 
- <p class="updated_time"> 07:45 AM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/yellen-zelensky-among-speakers-set-to-discuss-ukraine-war-at-wsj-ceo-council-11651570363">Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council</a> WSJ: Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council 
+ <p class="updated_time"> 07:49 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/fearful-of-getting-cut-off-china-pushes-for-self-reliance-11651588187">Fearful of Getting Cut Off, China Pushes for Self-Reliance</a> WSJ: China has pumped billions of dollars into semiconductor production, stockpiled grains and oil, and established international links to its financial system. At the root of the push is the fear of getting blocked out of Western economies by heavy penalties of the sort the U.S. and European Union have thrust at Russia. 
  <p class="updated_time"> 07:34 AM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096085028/climate-scientists-say-south-asias-heat-wave-120f-is-a-sign-of-whats-to-come">Climate scientists say South Asia's heat wave (120F!) is a sign of what's to come</a> NPR: Some schools have closed early for summer. More than a billion people are in danger of heat stroke. Summer's early arrival in South Asia also threatens global grain supplies. 
+ <p class="updated_time"> 07:18 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 06:53 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61306008?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Nurse who lost her legs has first dance with husband in hospital</a> BBC: Oksana lost her legs, and four fingers, in a landmine explosion when returning home. 
- <p class="updated_time"> 06:45 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 06:26 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61307340?at_medium=RSS&at_campaign=KARANGA">Óscar Denis: Former Paraguay VP's family marks his 600 days in captivity</a> BBC: Paraguay's ex-Vice President Óscar Denis is being held by EPP rebels who kidnapped him in 2020. 
  <p class="updated_time"> 05:47 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61308012?at_medium=RSS&at_campaign=KARANGA">Met Gala 2022: Blake Lively, Kim Kardashian and others showcase lavish outfits</a> BBC: One of fashion's biggest events has rolled out the red carpet in New York for some of the world's stars. 
  <p class="updated_time"> 05:30 AM CT, May. 03 </p> 
  <a href="https://www.npr.org/sections/money/2022/05/03/1096044152/how-palm-oil-prices-are-affecting-the-global-economy">How palm oil prices are affecting the global economy</a> NPR: The prices of cooking oil are rising. Why that could put global security at risk. 
- <p class="updated_time"> 05:29 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/fearful-of-getting-cut-off-china-pushes-for-self-reliance-11651588187">Fearful of Getting Cut Off, China Pushes for Self-Reliance</a> WSJ: China has pumped billions of dollars into semiconductor production, stockpiled grains and oil, and established international links to its financial system. At the root of the push is the fear of getting blocked out of Western economies by heavy penalties of the sort the U.S. and European Union have thrust at Russia. 
  <p class="updated_time"> 05:04 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/russia-sanctions-ukraine.html">What Sanctions Have Been Imposed on Russia?</a> NYT: Our reporters answer readers’ questions about Russia’s invasion of Ukraine. Many of you asked about economic penalties and how Putin could respond. 
  <p class="updated_time"> 04:38 AM CT, May. 03 </p> 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61273431?at_medium=RSS&at_campaign=KARANGA">Why does water flow from a tree in Montenegro?</a> BBC: Each year in the Montenegran village of Dinosa, water can be seen gushing from the trunk of a mulberry tree. 
  <p class="updated_time"> 06:00 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61302025?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The southern villages holding back the Russians</a> BBC: Ukraine's south has seen heavy fighting as Russia seeks to take key port areas around the Black Sea. 
- <p class="updated_time"> 05:52 PM CT, May. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61296682?at_medium=RSS&at_campaign=KARANGA">Israel outrage at Sergei Lavrov's claim that Hitler was part Jewish</a> BBC: The Russian foreign minister's claim that Hitler "had Jewish blood" is denounced as unforgiveable. 
  <p class="updated_time"> 04:38 PM CT, May. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61299527?at_medium=RSS&at_campaign=KARANGA">Jacky Hunt-Broersma: The cancer survivor who ran 104 marathons in 104 days</a> BBC: Jacky Hunt-Broersma, who lost her leg to cancer, set an unofficial record for consecutive marathons. 
  <p class="updated_time"> 04:15 PM CT, May. 02 </p> 
@@ -196,8 +196,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:36 AM CT, May. 03 </p> 
+ <p class="updated_time"> 12:16 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/us/politics/ohio-indiana-primary-elections.html">What to Watch in Ohio and Indiana Primary Elections Tuesday</a> NYT: The second election night of the 2022 midterms has some national implications for Republicans. Here’s a breakdown. 
+ <p class="updated_time"> 12:11 PM CT, May. 03 </p> 
+ <a href="https://www.npr.org/2022/05/03/1096135394/supreme-court-abortion-leak-biden-reaction">Biden says abortion decision would be 'radical' and threaten other rights</a> NPR: Biden says the reasoning in the leaked Supreme Court draft would mean "every other decision related to the notion of privacy is thrown into question," including contraception and gay marriage. 
+ <p class="updated_time"> 12:03 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/supreme-court-leak-roe-v-wade-abortion.html">A Supreme Court in Disarray After an Extraordinary Breach</a> NYT: The leak of a draft majority opinion overruling Roe v. Wade raises questions about motives, methods and whether defections are still possible. 
+ <p class="updated_time"> 11:55 AM CT, May. 03 </p> 
+ <a href="https://www.politico.com/news/2022/05/03/republicans-rage-draft-roe-abortion-opinion-00029644">Republicans rage about breach of draft Roe opinion</a> Politico: Rather than reveling in a document that supports their anti-abortion views, most of the GOP trained its fire on the source of the breach. 
+ <p class="updated_time"> 11:44 AM CT, May. 03 </p> 
+ <a href="https://www.npr.org/2022/05/03/1096131690/schumer-abortion-rights-senate-supreme-court-leak">The Senate will vote on a bill creating a federal right to an abortion, Schumer says</a> NPR: Though Democrats don't have the votes to pass such a bill, the Senate majority leader insisted voting on it wouldn't be "an abstract exercise," putting every senator's stance on the record. 
  <p class="updated_time"> 11:26 AM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096123493/trump-inauguration-dc-hotel-lawsuit-settlement">Trump inaugural committee settles D.C. lawsuit related to hotel overpayments</a> NPR: Donald Trump's businesses and inaugural committee have reached a $750,000 deal to resolve a lawsuit that alleged the committee overpaid for events at his hotel and enriched his family in the process. 
  <p class="updated_time"> 11:25 AM CT, May. 03 </p> 
@@ -220,8 +228,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/03/schumer-abortion-rights-roe-draft-opinion-00029573">Schumer vows abortion rights floor fight in wake of Roe draft opinion</a> Politico: There's no serious path forward in the Senate right now for Democrats' calls to codify abortion rights. Many in the party want to try anyway. 
  <p class="updated_time"> 09:45 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/business/economy/job-openings-quits.html">Job Openings in U.S. Rose to Record in March</a> NYT: New government data suggests that the economy remains far from normal as employers struggle to fill jobs and workers seek better positions. 
- <p class="updated_time"> 09:42 AM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/us/politics/ohio-indiana-primary-elections.html">What to Watch in Ohio and Indiana Primary Elections Tuesday</a> NYT: The second election night of the 2022 midterms has some national implications for Republicans. Here’s a breakdown. 
  <p class="updated_time"> 09:34 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/02/us/politics/supreme-court-protests-abortion.html">Demonstrators Flock to Supreme Court to Promote Abortion Rights</a> NYT: The mood outside the court was a mix of anger and mourning, with some demonstrators sitting silently in front of a long line of candles.  Others shouted defiant chants. 
  <p class="updated_time"> 09:25 AM CT, May. 03 </p> 
@@ -248,10 +254,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/health-shots/2022/05/03/1095946813/medicare-drug-costs-spike">Drug plan prices touted during Medicare open enrollment can rise within a month</a> NPR: Even the savviest Medicare drug plan shoppers can get a shock when they fill prescriptions: That great deal on medications in fall is no bargain after prices go up as much as 8% by winter. 
  <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1095615884/7-primary-contests-to-watch-tuesday-in-ohio-and-indiana">7 primary contests to watch Tuesday in Ohio and Indiana</a> NPR: Tuesday's top race is in Ohio, where voters are set to pick nominees for an open U.S. Senate seat. Redistricting has also affected some of the state's closely watched House races. 
- <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
- <a href="https://www.npr.org/2022/05/03/1095387687/ohio-primary-election-results">Here are the key primary election results from Ohio</a> NPR: Voters head to the polls Tuesday for statewide primaries in Ohio and Indiana. In Ohio, an open Senate contest has top billing. 
- <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
- <a href="https://www.npr.org/2022/05/03/1095386038/indiana-primary-election-results">Here are the key primary election results from Indiana</a> NPR: Indiana is one of two states holding primaries Tuesday. Find results for federal races here. 
  <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/business/energy-environment/high-electric-bills-summer.html">High Electric Bills Get Ready for Another Energy Price Spike: High Electric Bills</a> NYT: Rates have jumped because of a surge in natural gas prices and could keep rising rapidly for years as utilities invest in electric grids. 
  <p class="updated_time"> 01:56 AM CT, May. 03 </p> 
