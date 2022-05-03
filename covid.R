@@ -58,14 +58,26 @@ il_cases <- usa_cases %>%
   #mutate(value = CCL_community_burden_level_integer) %>%
   select(fips, value,County) 
 
+champaign_point <- data.frame(
+  name = "Champaign",
+  lat = 40.116421,
+  lon =-88.243385,
+  z = 1
+)
+
 fig <- hcmap("countries/us/us-il-all",
   data = il_cases,
   value = "value",
   joinBy = "fips",
   nullColor = "#d3d3d3",
-  dataLabels = list(enabled = TRUE, format = "{point.name}"),
+  #dataLabels = list(enabled = TRUE, format = "{point.name}"),
   name = "Per 100k"
 ) %>%
+  hc_add_series(
+    data = champaign_point,
+    type = "mappoint",
+    enableMouseTracking = FALSE
+  )  %>%
   hc_title(text = "Avg. New Cases")%>%
   hc_caption(text = "Source: CDC") %>%
   hc_colorAxis(
