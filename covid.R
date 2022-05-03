@@ -60,7 +60,7 @@ fig <- hcmap("countries/us/us-il-all",
   value = "value",
   joinBy = "fips",
   nullColor = "#d3d3d3",
-  name = "Per 100K"
+  name = "Per 100k"
 ) %>%
   hc_title(text = "Avg. New Cases")%>%
   hc_caption(text = "Source: CDC") %>%
@@ -72,7 +72,8 @@ fig <- hcmap("countries/us/us-il-all",
     floating = TRUE,
     align = "right",
     verticalAlign = "bottom",
-    layout = "vertical"
+    layout = "vertical",
+    valueDecimals = 0
   )
 fig
 saveWidget(widget = fig, file = "interactive/il_new_cases.html",
