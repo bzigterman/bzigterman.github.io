@@ -52,7 +52,8 @@ il_cases <- usa_cases %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE),
                             mday(date))) %>%
   filter(State == "IL") %>%
-  mutate(value = round(as.numeric(  cases_per_100K_7_day_count_change)/7) )#%>%
+  mutate(
+    value = round(as.numeric(  cases_per_100K_7_day_count_change)/7) ) %>%
   #mutate(value = new_cases_class) %>%
   #mutate(value = CCL_community_burden_level_integer) %>%
   select(fips, value,County) 
