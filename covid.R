@@ -5,6 +5,79 @@ library(lubridate)
 library(zoo)
 library(gt)
 library(gtExtras)
+library(highcharter)
+
+# interactive maps ----
+# hcmap("countries/us/us-all-all")
+# hcmap("countries/us/us-il-all")
+# 
+# mapdata <- get_data_from_map(download_map_data("countries/us/us-il-all"))
+# 
+# glimpse(mapdata)
+
+usa_cases_url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=integrated_county_latest_external_data"
+usa_cases <- rio::import(usa_cases_url,
+                         format = "json")
+usa_cases <- usa_cases$integrated_county_latest_external_data
+usa_cases <- usa_cases %>%
+  filter(County != "Unknown County") %>%
+  filter(State_name != "Puerto Rico") %>%
+  mutate(GEOID = fips_code) %>%
+  mutate(fips = as.character(fips_code)) %>%
+  mutate(date = ymd(as_date(report_date))) %>%
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE),
+                            mday(date))) %>%
+  mutate(community_level = case_when(
+    CCL_community_burden_level_integer == 0 ~ "Low",
+    CCL_community_burden_level_integer == 1 ~ "Medium",
+    CCL_community_burden_level_integer == 2 ~ "High")) %>%
+  mutate(
+    new_cases_class = cut(x = as.numeric(cases_per_100K_7_day_count_change)/7,
+                          breaks = c(0,5,15,25,35,50,100,Inf),
+                          labels = c("0–5","5–15","15–25",
+                                     "25–35","35–50","50–100","100+"),
+                          include.lowest = TRUE,
+                          ordered_result = TRUE)) 
+
+
+
+il_cases <- usa_cases %>%
+  mutate(community_level = case_when(
+    CCL_community_burden_level_integer == 0 ~ "Low",
+    CCL_community_burden_level_integer == 1 ~ "Medium",
+    CCL_community_burden_level_integer == 2 ~ "High")) %>%
+  mutate(date = ymd(as_date(CCL_report_date))) %>%
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE),
+                            mday(date))) %>%
+  filter(State == "IL") %>%
+  mutate(value = round(as.numeric(  cases_per_100K_7_day_count_change)/7) )%>%
+  #mutate(value = new_cases_class) %>%
+  #mutate(value = CCL_community_burden_level_integer) %>%
+  select(fips, value,County) 
+
+fig <- hcmap("countries/us/us-il-all",
+  data = il_cases,
+  value = "value",
+  joinBy = "fips",
+  nullColor = "#d3d3d3",
+  name = "Per 100K"
+) %>%
+  hc_title(text = "Avg. New Cases")%>%
+  hc_caption(text = "Source: CDC") %>%
+  hc_colorAxis(
+    dataClasses = color_classes(breaks = c(0,5,15,25,35,50,100,1000),
+                                colors = c(brewer.pal(8,"Oranges")))
+  ) %>%
+  hc_legend(
+    floating = TRUE,
+    align = "right",
+    verticalAlign = "bottom",
+    layout = "vertical"
+  )
+fig
+saveWidget(widget = fig, file = "interactive/il_new_cases.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
 
 # make variables ----
 ## Champaign County ----
@@ -1033,6 +1106,9 @@ Definitions from the CDC:
 ",better_il_table_html,"
 
 ![IL CDC_cases_transmission_IL map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_cases_transmission.png)
+
+<iframe src=\"/interactive/il_new_cases.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 ![Illinois CDC_vax_combined map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_vax_combined.png)
 
