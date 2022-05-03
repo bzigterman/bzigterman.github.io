@@ -9,43 +9,45 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:13 PM CT, May. 03 </p> 
+ <p class="updated_time"> 04:33 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/05/03/world/ukraine-russia-war-news">Ukraine Live Updates: Biden Speaks at Missile Factory, as Evacuees from Mariupol Steel Plant Reach Safety</a> NYT: “You are changing peoples’ lives,” the president told workers at a Lockheed Martin factory in Alabama that makes Javelin missiles, calling their contribution critical to helping Ukraine defend itself. 
+ <p class="updated_time"> 04:32 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/world/europe/mariupol-azovstal-survivors-evacuated.html">Evacuees From Mariupol’s Steel Plant Tell of Horrors and Survival</a> NYT: Nearly 130 people reached relative safety after sheltering for weeks in dark bunkers under the Azovstal plant, under constant bombardment, with dwindling food. 
+ <p class="updated_time"> 04:23 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/world/europe/biden-alabama-ukraine-aid.html">Biden Visits an Alabama Missile Factory, Highlighting Aid to Ukraine</a> NYT: “You are making it possible for the Ukrainian people to defend themselves” without “sending American soldiers to fight Russian soldiers,” which would risk world war, the president said. 
  <p class="updated_time"> 04:13 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096122593/russia-ukraine-war-what-happened-today-may-3">Russia-Ukraine war: What happened today (May 3)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:09 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/world/europe/mariupol-azovstal-survivors-evacuated.html">Evacuees From Mariupol’s Steel Plant Tell of Horrors and Survival</a> NYT: Nearly 130 people reached relative safety after sheltering for weeks in dark bunkers under the Azovstal plant, under constant bombardment, with dwindling food. 
  <p class="updated_time"> 04:05 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096398325/newborn-twins-were-rescued-from-a-warzone-now-theyre-stuck-in-bureaucratic-limbo">Newborn twins were rescued from a warzone. Now they're stuck in bureaucratic limbo</a> NPR: For two parents from Chicago, getting their newborn twins safely out of Ukraine was difficult. Two months later, extracting them from Poland's bureaucracy has turned out to be even more arduous. 
+ <p class="updated_time"> 04:03 PM CT, May. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61314861?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US women divided on leaked abortion ruling</a> BBC: Overturning the right to an abortion would be a major win for some. For others, a devastating loss. 
  <p class="updated_time"> 03:59 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096398290/those-in-kramatorsk-ukraine-are-struggling-as-the-city-runs-out-of-food-and-gas">Those in Kramatorsk, Ukraine, are struggling as the city runs out of food and gas</a> NPR: Residents of Kramatorsk in eastern Ukraine are fleeing a Russian offensive. For the few who have stayed, life can be brutal, since the city is running out of food and fuel. 
  <p class="updated_time"> 03:58 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61315333?at_medium=RSS&at_campaign=KARANGA">Missing Alabama guard and inmate had 'special relationship'</a> BBC: A massive manhunt is underway for murder suspect Casey White and guard Vicky White. 
  <p class="updated_time"> 03:52 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096398283/in-south-korea-k-pop-fans-have-something-to-cheer-about">In South Korea, K-Pop fans have something to cheer about</a> NPR: Although concerts have been back in South Korea since the beginning of the year, cheering was prohibited. With COVID restrictions lifting in South Korea, fans are finally allowed to cheer again. 
+ <p class="updated_time"> 03:38 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 03:36 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61313517?at_medium=RSS&at_campaign=KARANGA">Abortion ruling: US Supreme Court says leak is real as investigation launched</a> BBC: The leak has stirred expectations that the 1973 decision legalising US abortion could be overturned. 
  <p class="updated_time"> 03:32 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096398246/as-unsc-chair-u-s-plans-to-focus-on-russias-war-in-ukraine-and-rising-food-price">As UNSC chair, U.S. plans to focus on Russia's war in Ukraine and rising food prices</a> NPR: The U.S. plans to use its presidency of the Security Council this month to keep the spotlight on food security, as Russia's war in Ukraine has ripple effects in global food markets. 
- <p class="updated_time"> 03:31 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/world/europe/biden-alabama-ukraine-aid.html">Biden Visits an Alabama Missile Factory, Highlighting Aid to Ukraine</a> NYT: “You are making it possible for the Ukrainian people to defend themselves” without “sending American soldiers to fight Russian soldiers,” which would risk world war, the president said. 
- <p class="updated_time"> 03:22 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 03:21 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61313732?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin tells Macron West should stop sending arms</a> BBC: The Russian and French leaders speak by phone for the first time in more than a month. 
  <p class="updated_time"> 03:13 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096398193/retired-colonel-on-the-rise-of-javelin-missiles-as-biden-seeks-to-aid-ukraine">Retired colonel on the rise of javelin missiles, as Biden seeks to aid Ukraine</a> NPR: NPR's Ari Shapiro talks with Mark Cancian, a former Marine colonel and expert on military procurement, about Biden's request to Congress for billions of dollars to buy javelin missiles to aid Ukraine. 
- <p class="updated_time"> 02:22 PM CT, May. 03 </p> 
+ <p class="updated_time"> 02:38 PM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/europe-moves-to-sanction-russia-again-closing-in-on-oil-embargo-11651597785">Europe Moves to Sanction Russia Again</a> WSJ: Europe Moves to Sanction Russia Again 
  <p class="updated_time"> 02:07 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/climate/lake-powell-mead-water-drought.html">Colorado River Reservoirs Are So Low, Government Will Delay Releases</a> NYT: The decision will keep more water in Lake Powell on the Arizona-Utah border, instead of releasing it downstream to Lake Mead. Both reservoirs are at their lowest points. 
+ <p class="updated_time"> 01:38 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 01:37 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096094936/ukraine-russia-war-crimes-investigations">The complex effort to hold Vladimir Putin accountable for war crimes </a> NPR: Ukrainian and international experts believe it will take years, if not decades, to build cases and prosecute people. Ukraine's prosecutor general's office has opened more than 9,000 investigations. 
- <p class="updated_time"> 01:22 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 01:15 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096141606/brittney-griner-russia-wrongfully-detained-wnba">The U.S. now says Russia is wrongfully detaining WNBA star Brittney Griner</a> NPR: Griner was arrested after authorities reportedly found vape cartridges with hashish oil in her luggage. The shift in language indicates the U.S. will work more aggressively to secure her release. 
- <p class="updated_time"> 12:22 PM CT, May. 03 </p> 
+ <p class="updated_time"> 12:38 PM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/yellen-zelensky-among-speakers-set-to-discuss-ukraine-war-at-wsj-ceo-council-11651570363">Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council</a> WSJ: Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council 
  <p class="updated_time"> 12:13 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61309545?at_medium=RSS&at_campaign=KARANGA">People can now get contact info cut from Google search results</a> BBC: The web giant makes it easier to request that results linking to contact information are removed. 
@@ -57,7 +59,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61313296?at_medium=RSS&at_campaign=KARANGA">Russia beats final deadline to avoid debt default</a> BBC: Russia has drawn on US dollar reserves in order to make payments to international investors. 
  <p class="updated_time"> 11:50 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61311272?at_medium=RSS&at_campaign=KARANGA">Russian mercenaries behind Central African Republic atrocities - HRW</a> BBC: Witnesses tell Human Rights Watch about summary executions, torture and the beating of civilians. 
- <p class="updated_time"> 11:22 AM CT, May. 03 </p> 
+ <p class="updated_time"> 11:38 AM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 10:43 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/asia/beijing-china-lockdown-covid.html">Beijing Tightens Measures as Some Residents Grow Weary</a> NYT: Authorities are trying to avoid a lockdown like the one imposed in Shanghai. 
@@ -133,8 +135,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/02/world/europe/ukraine-war-mariupol-escape.html">Sisters Recount Escape From Mariupol as Russians Closed In</a> NYT: The women say they were forced onto a bus to Russian-controlled territory, then escaped what Ukrainian and U.S. officials have described as “filtration” centers for a system of forced expulsions to Russia. 
  <p class="updated_time"> 01:45 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/kyiv-ukraine-russia-war.html">In Kyiv, Residents Cautiously Embrace a Sense of Normalcy</a> NYT: A month after the Ukrainian Army defeated the Russian forces that had partly encircled Ukraine’s capital, tension is slowly seeping out of the city. 
- <p class="updated_time"> 01:29 PM CT, May. 02 </p> 
- <a href="https://www.bbc.co.uk/news/business-61298791?at_medium=RSS&at_campaign=KARANGA">EU divided over how to step away from Russian energy</a> BBC: EU energy ministers met to discuss a possible ban on Russian oil, but members remain split. 
  <p class="updated_time"> 12:16 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/rohingya-bangladesh-school-closings.html">Bangladesh Shutters Dozens of Schools Set Up by Rohingya in Camps</a> NYT: More than 30 schools, teaching tens of thousands of Rohingya students, were closed in Bangladesh, where officials are said to have feared the schools would encourage the refugees to stay permanently. 
  <p class="updated_time"> 10:25 AM CT, May. 02 </p> 
@@ -190,6 +190,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:24 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/business/economy/job-openings-quits.html">Job Openings in U.S. Rose to Record in March</a> NYT: New government data suggests that the economy remains far from normal as employers struggle to fill jobs and workers seek better positions. 
+ <p class="updated_time"> 04:09 PM CT, May. 03 </p> 
+ <a href="https://www.politico.com/news/2022/05/03/abortion-rights-roe-v-wade-supreme-court-questions-00029570">We answered your questions about the future of Roe v. Wade</a> Politico: The Supreme Court's initial draft opinion has spurred many questions, from what this means for people seeking abortions right now to what comes next. We tapped our reporters to break it all down. 
  <p class="updated_time"> 04:06 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/supreme-court-leak-roe-v-wade-abortion.html">A Supreme Court in Disarray After an Extraordinary Breach</a> NYT: The leak of a draft majority opinion overruling Roe v. Wade raises questions about motives, methods and whether defections are still possible. 
  <p class="updated_time"> 03:59 PM CT, May. 03 </p> 
@@ -204,10 +208,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/us/politics/trump-hotel-lawsuit-settlement.html">Trump Settles Suit Over Payments to Hotel for 2017 Inauguration</a> NYT: The lawsuit brought by the attorney general in Washington, D.C., claimed that the Trump hotel accepted excessive payments from the inaugural committee. 
  <p class="updated_time"> 03:32 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096398207/republicans-face-off-in-the-ohio-primary">Republicans face off in the Ohio primary</a> NPR: Political primary season is beginning in earnest, as voters head to the polls in Ohio and Indiana. The marquee races are in Ohio, led by that state's open U.S. Senate seat. 
- <p class="updated_time"> 03:30 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/business/economy/job-openings-quits.html">Job Openings in U.S. Rose to Record in March</a> NYT: New government data suggests that the economy remains far from normal as employers struggle to fill jobs and workers seek better positions. 
  <p class="updated_time"> 03:28 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/us/politics/supreme-court-protests-abortion.html">Demonstrators Gathered in Front of Supreme Court After Leaked Draft</a> NYT: Armed with megaphones, signs, buttons and at least one letterpress for speedy poster production, groups supporting and opposing abortion rights demonstrated. 
+ <a href="https://www.nytimes.com/2022/05/03/us/politics/supreme-court-protests-abortion.html">Demonstrators Gathered at Supreme Court Lament, and Celebrate, Leaked Draft</a> NYT: Armed with megaphones, signs, buttons and at least one letterpress for speedy poster production, groups supporting and opposing abortion rights demonstrated. 
  <p class="updated_time"> 03:20 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/rob-stein-dead.html">Rob Stein, Who Changed How Politics Is Funded, Dies at 78</a> NYT: In the wake of Republican electoral victories in 2004, he convened major liberal donors to finance a network of political groups aligned with Democrats. 
  <p class="updated_time"> 03:13 PM CT, May. 03 </p> 
@@ -283,7 +285,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:34 PM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/abortion-draft-supreme-court-opinion-key-passages-00029470">10 key passages from Alito’s draft opinion, which would overturn Roe v. Wade</a> Politico: The wording of the court’s ultimate ruling and the line-up of justices who support it could change. Here are 10 important passages in the draft opinion. 
  <p class="updated_time"> 07:08 PM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/us/politics/house-jan-6-panel-gop-lawmakers.html">House Jan. 6 Panel Seeks Interviews With Three More G.O.P. Lawmakers</a> NYT: All three quickly declined. The panel also said it had evidence that some House Republicans sought pardons from President Donald J. Trump in connection with the effort to overturn the election. 
+ <a href="https://www.nytimes.com/2022/05/02/us/politics/house-jan-6-panel-gop-lawmakers.html">Jan. 6 Panel Seeks to Interview Three More G.O.P. Lawmakers</a> NYT: All three quickly declined. The panel also said it had evidence that some House Republicans sought pardons from President Donald J. Trump in connection with the effort to overturn the election. 
  <p class="updated_time"> 06:43 PM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/biden-atf-steve-dettelbach-senate-00029467">Biden races to achieve the near-impossible: A permanent point man on guns</a> Politico: The Senate has only ever confirmed one ATF director. The White House is hoping Steve Dettelbach will change that — but several Democrats are undecided. 
  <p class="updated_time"> 06:35 PM CT, May. 02 </p> 
@@ -291,7 +293,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:00 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/us/politics/ohio-jd-vance.html">How Ohio’s Map Will Test J.D. Vance’s Political Allure</a> NYT: Behind the wild language, the “Hillbilly Elegy” author’s bid for a Senate seat follows a traditional Republican playbook. 
  <p class="updated_time"> 04:55 PM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/us/politics/dianne-feinstein-memory-issues.html">As Feinstein Declines, Democrats Struggle to Manage an Open Secret</a> NYT: Democrats have quietly accepted the California senator’s memory issues as the status quo, even as her inner circle frets that the spectacle of her difficulties on the job could tarnish her legacy. 
+ <a href="https://www.nytimes.com/2022/05/02/us/politics/dianne-feinstein-memory-issues.html">As Dianne Feinstein Declines, Democrats Wrestle With Open Secret</a> NYT: Democrats have quietly accepted the California senator’s memory issues as the status quo, even as her inner circle frets that the spectacle of her difficulties on the job could tarnish her legacy. 
  <p class="updated_time"> 03:51 PM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/antony-blinken-china-asean-summit-00029368">Blinken to unveil 'no surprises' China strategy pre-Asia push</a> Politico: Biden strategy is “Trump-plus, with sophistication,” one expert said. 
  <p class="updated_time"> 01:32 PM CT, May. 02 </p> 
