@@ -9,10 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:36 PM CT, May. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">Ukraine Live Updates: Fears of Expanded War Rise as Russia’s Victory Day Approaches With No Change on Battlefield</a> NYT: As Russia flexed its military might with attacks in eastern and western Ukraine, the European Union took a major step toward weakening President Vladimir Putin’s ability to finance the war. 
+ <p class="updated_time"> 05:19 PM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">Ukraine Live Updates: As Victory Day Looms in Russia, Guesswork Grows Over Putin’s War Goals</a> NYT: Ukraine and NATO see the coming Russian holiday, which celebrates the Soviet triumph over Nazi Germany, as a stage for the Russian president to proclaim a turn in the war. 
+ <p class="updated_time"> 05:12 PM CT, May. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61327638?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky plea as Russians seek Mariupol endgame</a> BBC: The Ukrainian president appeals for fresh UN help as Russians reportedly enter the city's last holdout. 
+ <p class="updated_time"> 05:05 PM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/2022/05/04/world/europe/ukraine-russia-putin-victory-day.html">Putin Could Use Russia’s Victory Day to Expand Ukraine War, Some Fear</a> NYT: The Russian holiday celebrating the Soviet triumph over Nazi Germany is viewed by Ukraine and NATO as a stage for the Russian president to proclaim a turn in the war. 
+ <p class="updated_time"> 05:01 PM CT, May. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61329067?at_medium=RSS&at_campaign=KARANGA">Amber Heard says Johnny Depp struck her when on drugs</a> BBC: Taking the stand, Amber Heard alleged a pattern of drug-fuelled violence from Johnny Depp. 
+ <p class="updated_time"> 05:00 PM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/2022/05/04/world/middleeast/turkey-syria-million-homes.html">Turkey’s Plan to Draw Refugees Back to Syria: Homes for 1 Million</a> NYT: President Recep Tayyip Erdogan says Turkey will build homes, schools, hospitals and more in northern Syria, but experts question whether refugees will return willingly. 
  <p class="updated_time"> 04:32 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/moderna-covid-vaccine.html">Moderna Reaps $5.9 Billion From Its Vaccine Sales</a> NYT: Stéphane Bancel, the company’s chief executive officer, said Moderna has $21 billion worth of advance purchase agreements for the vaccine. 
+ <p class="updated_time"> 04:24 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
  <p class="updated_time"> 04:12 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/climate/wildfire-smoke-dust-storm.html">NOAA Image Catches Wildfire Smoke and Dust on Collision Course</a> NYT: A time-lapse image of smoke from wildfires in New Mexico and dust from a storm in Colorado illustrates the scope of Western catastrophe. 
  <p class="updated_time"> 04:06 PM CT, May. 04 </p> 
@@ -21,8 +31,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/04/1096124740/the-u-s-may-soon-export-more-gas-to-the-eu-but-that-will-complicate-climate-goal">The U.S. may soon export more gas to the EU, but that will complicate climate goals</a> NPR: To help wean Europe off Russian gas, the Biden administration wants to increase U.S. natural gas exports. But critics say that's at odds with the president's climate and environmental justice goals. 
  <p class="updated_time"> 04:02 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61327082?at_medium=RSS&at_campaign=KARANGA">Anger outside Mississippi's last abortion clinic</a> BBC: Activists from both sides of the debate say they will fight on whatever the US Supreme Court rules. 
- <p class="updated_time"> 03:57 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
  <p class="updated_time"> 03:55 PM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096606111/russia-ukraine-war-what-happened-today-may-4">Russia-Ukraine war: What happened today (May 4)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:31 PM CT, May. 04 </p> 
@@ -35,7 +43,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/us/politics/covid-white-house-correspondents-dinner.html">Handful of Virus Cases Emerge After White House Correspondents’ Dinner</a> NYT: Cases are not uncommon in Washington these days, and there is no certainty that those who tested positive were infected at the dinner. 
  <p class="updated_time"> 03:25 PM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096725190/maradona-hand-of-god-world-cup-shirt-auction">Maradona's 'Hand of God' shirt fetches $9.3M at auction, a sports memorabilia record</a> NPR: The shirt was worn by the Argentine soccer legend when he scored the controversial "Hand of God" goal against England in the 1986 World Cup. 
- <p class="updated_time"> 02:57 PM CT, May. 04 </p> 
+ <p class="updated_time"> 03:24 PM CT, May. 04 </p> 
  <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
  <p class="updated_time"> 02:57 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61321799?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia denies it plans to declare war on 9 May</a> BBC: The Kremlin has so far only referred to the war in Ukraine as a "special military operation". 
@@ -43,26 +51,26 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61324482?at_medium=RSS&at_campaign=KARANGA">US makes biggest interest rate rise in 22 years</a> BBC: The Federal Reserve is under pressure as the US grapples with its worst inflation in four decades. 
  <p class="updated_time"> 02:31 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61318689?at_medium=RSS&at_campaign=KARANGA">Ukraine war: EU plans Russian oil ban and war crimes sanctions</a> BBC: The measures are some of the toughest yet but Hungary has rejected them as unacceptable. 
+ <p class="updated_time"> 02:24 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169">As Coffins Come Home, Russians Confront Toll of Ukraine Invasion</a> WSJ: As Coffins Come Home, Russians Confront Toll of Ukraine Invasion 
  <p class="updated_time"> 02:20 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-victory-day.html">What Is Russia’s May 9 Victory Day, and What Might Putin Say?</a> NYT: In the two decades that Vladimir V. Putin has led Russia, the country’s Victory Day marches, honoring Soviet sacrifices of World War II, have transformed into huge military spectacles and nostalgic celebrations. 
- <p class="updated_time"> 01:57 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169">As Coffins Come Home, Russians Confront Toll of Ukraine Invasion</a> WSJ: As Coffins Come Home, Russians Confront Toll of Ukraine Invasion 
  <p class="updated_time"> 01:31 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61319518?at_medium=RSS&at_campaign=KARANGA">Hungary will veto EU oil ban proposal - minister</a> BBC: Zoltán Kovács says the proposal is against the country's interests and would ruin the Hungarian economy. 
  <p class="updated_time"> 01:31 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61325387?at_medium=RSS&at_campaign=KARANGA">Ahmadreza Djalali: Sweden alarmed by Iran's reported plan to execute doctor</a> BBC: A semi-official news agency says dual national Ahmadreza Djalali will be put to death this month. 
  <p class="updated_time"> 01:26 PM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096658544/dave-chappelle-attacker-charged-with-assault-with-a-deadly-weapon">Dave Chappelle attacker charged with assault with a deadly weapon </a> NPR: 23-year-old Isaiah Lee has been charged with assault with a deadly weapon. 
- <p class="updated_time"> 12:57 PM CT, May. 04 </p> 
+ <p class="updated_time"> 01:24 PM CT, May. 04 </p> 
  <a href="https://www.wsj.com/articles/eu-proposes-ban-on-russian-oil-imports-11651648950">EU Proposes Ban on Russian Oil Imports</a> WSJ: EU Proposes Ban on Russian Oil Imports 
  <p class="updated_time"> 12:46 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/eu-russia-oil-embargo.html">European Union Takes a Leap With a Russian Oil Embargo</a> NYT: The ban, once seen as unlikely, is a significant tightening of the squeeze on Russia’s economy, and a financial blow to Europe, too. 
+ <p class="updated_time"> 12:45 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618">In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</a> WSJ: Taiwanese health authorities are gradually removing restrictions even as cases climb to record highs. 
  <p class="updated_time"> 12:26 PM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096413514/premature-american-twins-rescued-from-ukraine-become-stuck-in-bureaucratic-limbo">Premature American twins rescued from Ukraine become stuck in bureaucratic limbo</a> NPR: For two parents from Chicago, getting their newborn twins safely out of Ukraine was difficult. Two months later, extracting them from Poland's bureaucracy has turned out to be even more arduous. 
  <p class="updated_time"> 12:23 PM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096596286/eu-europea-russia-oil-ban">The EU just proposed a ban on oil from Russia, its main energy supplier</a> NPR: The European Union wants to sharpen its sanctions against Russia. But its leaders acknowledge Europe's economy could suffer. 
- <p class="updated_time"> 11:57 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618">In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</a> WSJ: In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns 
  <p class="updated_time"> 11:52 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61320475?at_medium=RSS&at_campaign=KARANGA">Kenya's Talai clan petitions Prince William over land eviction</a> BBC: The Talai clan say they were evicted from their land for tea plantations, some still owned by UK firms. 
  <p class="updated_time"> 11:42 AM CT, May. 04 </p> 
@@ -77,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61319922?at_medium=RSS&at_campaign=KARANGA">Ismael Borrero: Cuba's Olympic wrestling champion defects</a> BBC: The wrestling champion is the latest Cuban athlete to abscond while competing abroad. 
  <p class="updated_time"> 10:50 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/climate/john-doerr-stanford-climate.html">John Doerr Gives Stanford $1.1 Billion for Climate School</a> NYT: The billionaire venture capitalist said the study of climate change and sustainability would be the “new computer science.” 
- <p class="updated_time"> 10:48 AM CT, May. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61325607?at_medium=RSS&at_campaign=KARANGA">France elections: Left forms coalition to fight Macron</a> BBC: Four French left-wing parties agree in principle to form an alliance for June's parliamentary elections. 
  <p class="updated_time"> 10:40 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-spy-housing-warsaw.html">A Crumbling Russian ‘Spyville’ Returns to Polish Hands</a> NYT: A Warsaw housing complex built in the 1970s and rented by Russia was reputed to be a nest of spies. The city’s government has seized the site and pledged to hand it over to the Ukrainian community. 
  <p class="updated_time"> 10:06 AM CT, May. 04 </p> 
@@ -181,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/02/world/beijing-isolation-center-lockdown.html">Beijing Reopens Mass Isolation Center In Attempt to Avoid Broad Lockdown</a> NYT: While the Chinese capital has recorded only a few hundred cases in recent weeks, the move to reopen the facility appears to be aimed at avoiding the fate of Shanghai. 
  <p class="updated_time"> 09:30 AM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/spain-prime-minister-pegasus-spyware.html">Spain Says Cellphones of Prime Minister and Defense Minister Were Hacked</a> NYT: Officials said the devices were breached by the Pegasus spyware, made by an Israeli company, which is intended to track illegal behavior but has been misused by some governments. 
- <p class="updated_time"> 02:00 AM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/world/europe/uk-asylum-rwanda.html">U.K. Plan to Send Asylum Seekers to Rwanda Stokes Anger and Dread</a> NYT: The government’s proposal has led to recriminations from rights groups, and anxiety among migrants who fear being sent away. 
 
 
 </details>
@@ -190,6 +194,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:09 PM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/2022/05/04/arts/roe-v-wade-abortion-history.html">The Fight Over Abortion History</a> NYT: The leaked draft opinion that would overturn Roe v. Wade also takes aim at its version of history, challenging decades of scholarship that argues abortion was not always a crime. 
  <p class="updated_time"> 04:42 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/us/politics/antony-blinken-covid-positive.html">Secretary Blinken Tests Positive for the Coronavirus</a> NYT: A State Department spokesman said Secretary of State Antony J. Blinken had not seen President Biden in several days. 
  <p class="updated_time"> 04:30 PM CT, May. 04 </p> 
@@ -306,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/03/mcconnell-on-verge-of-winning-long-term-battle-against-roe-00029752">McConnell closes in on Roe after years of pushing the courts rightward</a> Politico: There’s a direct line from the Senate GOP leader's decision to hold a high court vacancy open in 2016 to the potential demise of Supreme Court precedent. 
  <p class="updated_time"> 04:55 PM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/norman-mineta-transportation-secretary-dies-00029791">Norman Mineta, Transportation secretary in 9/11 era, dies</a> Politico: He served in the Cabinets of both President Bill Clinton and President George W. Bush. 
- <p class="updated_time"> 04:24 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/business/economy/job-openings-quits.html">Job Openings in U.S. Rose to Record in March</a> NYT: New government data suggests that the economy remains far from normal as employers struggle to fill jobs and workers seek better positions. 
  <p class="updated_time"> 04:09 PM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/abortion-rights-roe-v-wade-supreme-court-questions-00029570">We answered your questions about the future of Roe v. Wade</a> Politico: The Supreme Court's initial draft opinion has spurred many questions, from what this means for people seeking abortions right now to what comes next. We're tapping our reporters to break it all down. 
  <p class="updated_time"> 01:18 PM CT, May. 03 </p> 
