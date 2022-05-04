@@ -9,18 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:33 AM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">Ukraine Live Updates: E.U. Proposes Russian Oil Ban; Moscow Strikes in East and West</a> NYT: As Russia flexed its military might with attacks in eastern and western Ukraine, the European Union took a major step toward weakening President Vladimir Putin’s ability to finance the war. 
+ <p class="updated_time"> 07:32 AM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/world/europe/mariupol-azovstal-survivors-evacuated.html">Evacuees From Azovstal Steel Plant Tell of Horrors and Survival</a> NYT: Nearly 130 people reached relative safety after sheltering for weeks in dark bunkers under the Azovstal plant, under constant bombardment, with dwindling food. 
+ <p class="updated_time"> 07:14 AM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/world/europe/britain-parliament-sexual-harassment.html">Britain’s Parliament Is Rocked by Sexist Episodes. Again.</a> NYT: Encouraging more women to run for office, critics say, is just one way to counter pervasive misogyny and sexual harassment in Parliament. 
+ <p class="updated_time"> 07:11 AM CT, May. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61318689?at_medium=RSS&at_campaign=KARANGA">Ukraine war: EU plans Russian oil ban and war crimes sanctions</a> BBC: Oil imports would be phased out and officers suspected of war crimes targeted under the proposals. 
+ <p class="updated_time"> 06:52 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-needs-support-of-global-business-president-zelensky-says-at-ceo-summit-11651604137">Zelensky Says Companies Are Supporting Russia’s ‘War Machine’ if They Stay There</a> WSJ: Zelensky Says Companies Are Supporting Russia’s ‘War Machine’ if They Stay There 
  <p class="updated_time"> 06:12 AM CT, May. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61318427?at_medium=RSS&at_campaign=KARANGA">Mali nonuplets in perfect health on first birthday - father</a> BBC: "They're all crawling now. Some are sitting up," the father of the world's only nonuplets tells the BBC. 
+ <a href="https://www.bbc.co.uk/news/world-africa-61318427?at_medium=RSS&at_campaign=KARANGA">Mali nonuplets in perfect health on first birthday - father</a> BBC: The nine Malian babies hold the world record for the most children delivered in a single birth to survive. 
  <p class="updated_time"> 06:10 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61315533?at_medium=RSS&at_campaign=KARANGA">Haiti kidnapping: Diplomat Carlos Guillén 'safe and sound'</a> BBC: Diplomat Carlos Guillén has been freed after four days in captivity, a Dominican official says. 
- <p class="updated_time"> 06:09 AM CT, May. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">Ukraine Live Updates: E.U. Proposes Russian Oil Ban; Moscow Strikes in East and West</a> NYT: As Russia flexed its military might with attacks in eastern and western Ukraine, the European Union took a major step toward weakening President Vladimir Putin’s ability to finance the war. 
- <p class="updated_time"> 05:46 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/ukraine-needs-support-of-global-business-president-zelensky-says-at-ceo-summit-11651604137">Zelensky Says Companies Are Supporting Russia’s ‘War Machine’ if They Stay There</a> WSJ: Zelensky Says Companies Are Supporting Russia’s ‘War Machine’ if They Stay There 
- <p class="updated_time"> 05:15 AM CT, May. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61318689?at_medium=RSS&at_campaign=KARANGA">Ukraine war: EU plans Russian oil ban and war crimes sanctions</a> BBC: Oil imports would be phased out and officers suspected of war crimes targeted under the proposals. 
- <p class="updated_time"> 04:46 AM CT, May. 04 </p> 
+ <p class="updated_time"> 05:52 AM CT, May. 04 </p> 
  <a href="https://www.wsj.com/articles/eu-proposes-ban-on-russian-oil-imports-11651648950">EU Proposes Ban on Russian Oil Imports</a> WSJ: EU Proposes Ban on Russian Oil Imports 
+ <p class="updated_time"> 04:52 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 04:42 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-spy-housing-warsaw.html">A Crumbling Russian ‘Spyville’ Returns to Polish Hands</a> NYT: A Warsaw housing complex built in the 1970s and rented by Russia was reputed to be a nest of spies. The city’s government has seized the site and pledged to hand it over to the Ukrainian community. 
  <p class="updated_time"> 04:22 AM CT, May. 04 </p> 
@@ -33,18 +39,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/04/health/covid-variants-gamma-iota-mu.html">The Vanishing Variants: Lessons from Gamma, Iota and Mu</a> NYT: Studying the coronavirus variants that have faded away could help us prepare for what comes next, scientists say. 
  <p class="updated_time"> 04:00 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096293712/85-year-old-bassist-ron-carter-has-no-plans-on-slowing-down">85-year-old bassist Ron Carter has no plans on slowing down</a> NPR: The roster of musicians Carter has worked with ranges from Ornette Coleman to Aretha Franklin, Roberta Flack and A Tribe Called Quest. 
+ <p class="updated_time"> 03:52 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-launches-unknown-projectile-11651638228">North Korea Fires Missile Days Before South’s New President Takes Office</a> WSJ: North Korea Fires Missile Days Before South’s New President Takes Office 
  <p class="updated_time"> 03:49 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/ukraine-bucha-russia-atrocities.html">They Fell Deeply in Love in Bucha. One Russian Bullet Ended It All.</a> NYT: Over nearly two decades, Iryna Abramova and her husband, Oleh, built a life of love and happiness. Now, she says, she wishes the Russian soldiers had shot her, too. 
- <p class="updated_time"> 03:46 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 03:44 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61317901?at_medium=RSS&at_campaign=KARANGA">Dave Chappelle: US comedian attacked on stage in Los Angeles</a> BBC: Videos show someone tackling Chappelle at the Netflix Is A Joke Festival at the Hollywood Bowl. 
  <p class="updated_time"> 03:08 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-61318287?at_medium=RSS&at_campaign=KARANGA">Maradona shirt: Why the 1986 World Cup kit is so special</a> BBC: Bidding for the shirt Diego Maradona wore scoring the "Hand of God" goal has already reached £4m. 
+ <p class="updated_time"> 02:52 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 02:47 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/israel-russian-foreign-minister-sergey-lavrov.html">Israel Condemns Russian Foreign Minister Lavrov’s Comments as Antisemitic</a> NYT: Israel’s response is among the fiercest criticism it has leveled at the Russian government since the invasion of Ukraine. 
- <p class="updated_time"> 02:46 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/north-korea-launches-unknown-projectile-11651638228">North Korea Fires Missile Days Before South’s New President Takes Office</a> WSJ: North Korea Fires Missile Days Before South’s New President Takes Office 
  <p class="updated_time"> 02:30 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096545061/eu-leader-calls-for-russian-oil-ban-in-new-set-of-sanctions">EU leader calls for Russian oil ban in new set of sanctions</a> NPR: The EU chief concedes that that getting all 27 member countries — some of them highly dependent on Russia for energy supplies — to agree on oil sanctions will be extremely difficult. 
  <p class="updated_time"> 02:27 AM CT, May. 04 </p> 
@@ -53,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/04/world/asia/north-korea-missile-test.html">North Korea Launches Ballistic Missile Ahead of Yoon’s Inauguration</a> NYT: Kim Jong-un has sought to improve the North’s nuclear capabilities and gain diplomatic leverage with Washington and the incoming administration of Yoon Suk-yeol. 
  <p class="updated_time"> 02:00 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61306866?at_medium=RSS&at_campaign=KARANGA">Egypt charity's shock as donated phone card raises fortune</a> BBC: A young woman's donation of $0.50 of mobile phone credit helps raise $1m for a medical charity. 
- <p class="updated_time"> 01:46 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 01:21 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096533640/as-u-s-may-restrict-abortion-other-nations-are-easing-access">As U.S. may restrict abortion, other nations are easing access</a> NPR: Recent legislative activities in countries show the U.S. risks being out of step with the progress that the rest of the world is making in protecting sexual and reproductive rights. 
  <p class="updated_time"> 09:43 PM CT, May. 03 </p> 
@@ -65,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/world/covid-white-house-correspondents-dinner.html">Handful of Covid Cases Emerge After White House Correspondents’ Dinner</a> NYT: Cases are not uncommon in Washington these days, and there is no certainty that those who tested positive were infected at the dinner. 
  <p class="updated_time"> 07:27 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61313517?at_medium=RSS&at_campaign=KARANGA">Abortion ruling: US Supreme Court says leak is real as investigation launched</a> BBC: The leak has stirred expectations that the 1973 decision legalising US abortion could be overturned. 
- <p class="updated_time"> 07:22 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/world/europe/mariupol-azovstal-survivors-evacuated.html">Evacuees From Azovstal Steel Plant Tell of Horrors and Survival</a> NYT: Nearly 130 people reached relative safety after sheltering for weeks in dark bunkers under the Azovstal plant, under constant bombardment, with dwindling food. 
  <p class="updated_time"> 06:36 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61295238?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: The divisions behind the country's united protests</a> BBC: Can protests sparked by the economic crisis bridge Sri Lanka's religious and ethnic divides? 
  <p class="updated_time"> 06:30 PM CT, May. 03 </p> 
@@ -83,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/world/europe/russia-ukraine-western-support.html">Sensing a Stalled Russia, West Adds Support and Arms for Ukraine</a> NYT: ‘You have exploded the myth of Putin’s invincibility,’ Prime Minister Boris Johnson of Britain told Ukrainian lawmakers, one of several Western sources of cheerleading on Tuesday. 
  <p class="updated_time"> 05:28 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/middleeast/israel-jerusalem-zip-line.html">Israel Plans Zip Line for Ancient Jerusalem</a> NYT: A Jewish settler group is promoting projects that opponents say will change the delicate historic, religious and political balance in highly symbolic areas around Jerusalem’s Old City. 
- <p class="updated_time"> 05:06 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/world/europe/britain-parliament-sexual-harassment.html">Britain’s Parliament Is Rocked by Sexist Episodes. Again.</a> NYT: Encouraging more women to run for office, critics say, is just one way to counter pervasive misogyny and sexual harassment in Parliament. 
  <p class="updated_time"> 04:49 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/lviv-ukraine-russia-missiles.html">Russian Missiles Hit Power Stations in Lviv and Along Crucial Railways</a> NYT: Altogether, six electrical substations were struck along the railways in central and western Ukraine, according to a top rail official. The rail system is the country’s lifeline for humanitarian and military supplies. 
  <p class="updated_time"> 04:13 PM CT, May. 03 </p> 
@@ -184,6 +184,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:11 AM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/us/politics/trump-hotel-lawsuit-settlement.html">Trump Settles Suit Over Payments to Hotel for 2017 Inauguration</a> NYT: The lawsuit brought by the attorney general in Washington, D.C., claimed that the Trump hotel accepted excessive payments from the inaugural committee. 
  <p class="updated_time"> 05:01 AM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/poll-roe-v-wade-00029889">Poll: Half of voters support maintaining Roe v. Wade</a> Politico: Only 11 percent say abortion should be “illegal in all cases.” 
  <p class="updated_time"> 05:00 AM CT, May. 04 </p> 
@@ -192,6 +194,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/04/1096545791/leaked-supreme-court-draft-opion-renews-the-political-debate-involing-abortion">Leaked Supreme Court draft opion renews the political debate involing abortion </a> NPR: The Supreme Court draft opinion that would overrule Roe v. Wade sparked outrage among abortion rights supporters, but a mix of celebration and caution among opponents crosswise with public opinion. 
  <p class="updated_time"> 04:09 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096545763/vance-and-ryan-will-face-off-in-ohios-u-s-senate-race-in-november">Vance and Ryan will face off in Ohio's U.S. Senate race in November</a> NPR: In Ohio, the field is set for what will be one of the most closely watched U.S. Senate races. On the Republican side, venture capitalist and author J.D. Vance will face Democratic Rep. Tim Ryan. 
+ <p class="updated_time"> 04:09 AM CT, May. 04 </p> 
+ <a href="https://www.npr.org/2022/05/04/1096538715/morning-news-brief">News brief: Supreme Court abortion shift, Ohio primary, Mariupol steel plant </a> NPR: What the overturning of Roe v. Wade could mean for U.S. politics. The field is set for Ohio's U.S. Senate race in November. Some civilians and Ukrainian soldiers are still trapped in a steel plant. 
  <p class="updated_time"> 04:00 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096154028/the-movement-against-abortion-rights-is-nearing-its-apex-but-it-began-way-before">The movement against abortion rights is nearing its apex. But it began way before Roe</a> NPR: Despite gaining national traction in the 1970s, the history of the anti-abortion movement in the U.S. goes back more than a century before the landmark Supreme Court decision. 
  <p class="updated_time"> 04:00 AM CT, May. 04 </p> 
@@ -201,7 +205,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/supreme-court-leak-probe-faces-slew-of-obstacles-and-unknowns-00029841">Roberts investigation could make the Supreme Court very uncomfortable</a> Politico: Separation of powers could make it hard for DOJ or FBI to investigate Supreme Court breach. 
  <p class="updated_time"> 03:30 AM CT, May. 04 </p> 
- <a href="https://www.politico.com/news/2022/05/04/democrats-divided-over-return-to-office-amid-new-yorks-recovery-00029414">Return to office sparks Democratic infighting in New York</a> Politico: The split means there’s no shared vision for the post-pandemic future of the nation’s largest metropolis, whose office workers have returned at a slower rate than in most other big cities in the U.S. 
+ <a href="https://www.politico.com/news/2022/05/04/democrats-divided-over-return-to-office-amid-new-yorks-recovery-00029414">Democrats clash over return to office as NYC cubicles sit vacant</a> Politico: The split means there’s no shared vision for the post-pandemic future of the nation’s largest metropolis, whose office workers have returned at a slower rate than in most other big cities in the U.S. 
  <p class="updated_time"> 01:21 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096533640/as-u-s-may-restrict-abortion-other-nations-are-easing-access">As U.S. may restrict abortion, other nations are easing access</a> NPR: Recent legislative activities in countries show the U.S. risks being out of step with the progress that the rest of the world is making in protecting sexual and reproductive rights. 
  <p class="updated_time"> 12:19 AM CT, May. 04 </p> 
@@ -270,16 +274,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/03/1096398304/texas-will-ban-abortion-if-roe-v-wade-is-overturned-heres-how-texans-are-feeling">Texas will ban abortion if 'Roe v. Wade' is overturned. Here's how Texans are feeling</a> NPR: If Roe v. Wade is overturned, states including Texas have laws that automatically overturn the right to abortion. That means it would be unlawful at any stage of pregnancy, with few to no exceptions. 
  <p class="updated_time"> 03:52 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096108319/roe-v-wade-alito-conservative-justices-confirmation-hearings">What conservative justices said — and didn't say — about Roe at their confirmations</a> NPR: Democrats say several conservative justices lied to the Senate in their confirmations. But nominees have long taken a careful line on Roe, acknowledging it as a precedent without saying much more. 
- <p class="updated_time"> 03:33 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/us/politics/trump-hotel-lawsuit-settlement.html">Trump Settles Suit Over Payments to Hotel for 2017 Inauguration</a> NYT: The lawsuit brought by the attorney general in Washington, D.C., claimed that the Trump hotel accepted excessive payments from the inaugural committee. 
  <p class="updated_time"> 03:32 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096398207/republicans-face-off-in-the-ohio-primary">Republicans face off in the Ohio primary</a> NPR: Political primary season is beginning in earnest, as voters head to the polls in Ohio and Indiana. The marquee races are in Ohio, led by that state's open U.S. Senate seat. 
  <p class="updated_time"> 03:20 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/rob-stein-dead.html">Rob Stein, Who Changed How Politics Is Funded, Dies at 78</a> NYT: In the wake of Republican electoral victories in 2004, he convened major liberal donors to finance a network of political groups aligned with Democrats. 
  <p class="updated_time"> 03:13 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096398193/retired-colonel-on-the-rise-of-javelin-missiles-as-biden-seeks-to-aid-ukraine">Retired colonel on the rise of javelin missiles, as Biden seeks to aid Ukraine</a> NPR: NPR's Ari Shapiro talks with Mark Cancian, a former Marine colonel and expert on military procurement, about Biden's request to Congress for billions of dollars to buy javelin missiles to aid Ukraine. 
- <p class="updated_time"> 03:13 PM CT, May. 03 </p> 
- <a href="https://www.npr.org/2022/05/03/1096398186/how-the-draft-supreme-court-opinion-overturning-roe-v-wade-could-impact-midterms">How the draft Supreme Court opinion overturning 'Roe v. Wade' could impact midterms</a> NPR: The draft Supreme Court opinion that would overturn Roe v. Wade sparked a fierce reaction in the political world, with potentially major ramifications for the midterm elections. 
  <p class="updated_time"> 02:28 PM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/jonathan-karl-positive-covid-kim-kardashian-00029712">Jonathan Karl tests positive for Covid after sitting next to Kim Kardashian</a> Politico: The longtime ABC correspondent also shook hands with the president that evening. 
  <p class="updated_time"> 01:18 PM CT, May. 03 </p> 
@@ -320,6 +320,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/02/arizona-gop-senate-mark-brnovich-00029241">Arizona GOP Senate frontrunner loses lead amid air assault</a> Politico: Trump has criticized state Attorney General Mark Brnovich for declining to overturn the 2020 election results. 
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/house-progressives-not-rebooting-00029075">Strength in numbers — maybe? House liberals mull their future</a> Politico: Centrists derailed their $1.7 trillion dream. They've seen only small wins. But "the strategy doesn't change" next year, as one top liberal put it. 
+ <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
+ <a href="https://www.politico.com/news/2022/05/02/bidenworld-midterms-trump-elon-musk-00029106">Bidenworld wants to make the midterms more about Trump and hopes Elon Musk helps</a> Politico: The election will be either a referendum or a contrast. The president’s team prefers the latter. 
+ <p class="updated_time"> 04:25 PM CT, May. 01 </p> 
+ <a href="https://www.politico.com/news/2022/05/01/biden-mondale-memorial-dark-days-00029194">Biden: Mondale rescued me from darkness</a> Politico: At a much-delayed memorial service, Biden described the aftermath of a family tragedy in 1972. 
  <p class="updated_time"> 10:17 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/menendez-iran-nuclear-weapons-deal-00029168">Menendez doubtful that talks with Iran will yield a good deal</a> Politico: "I want the administration to understand that no deal is better than a bad deal," he said. 
 
