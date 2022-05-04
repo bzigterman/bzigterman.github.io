@@ -9,22 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:11 PM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">Ukraine Live Updates: As Victory Day Looms in Russia, Guesswork Grows Over Putin’s War Goals</a> NYT: Ukraine and NATO see the coming Russian holiday, which celebrates the Soviet triumph over Nazi Germany, as a stage for the Russian president to proclaim a turn in the war. 
+ <p class="updated_time"> 06:08 PM CT, May. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61174988?at_medium=RSS&at_campaign=KARANGA">'There's power in names': Antigua unearths lost ancestors</a> BBC: A landmark genealogy project is unearthing the names of enslaved people whose stories were erased. 
+ <p class="updated_time"> 06:01 PM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/2022/05/04/world/europe/ukraine-russia-putin-victory-day.html">Putin Could Use Russia’s Victory Day to Expand Ukraine War, Some Fear</a> NYT: The Russian holiday celebrating the Soviet triumph over Nazi Germany is viewed by Ukraine and NATO as a stage for the Russian president to proclaim a turn in the war. 
+ <p class="updated_time"> 06:01 PM CT, May. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61325457?at_medium=RSS&at_campaign=KARANGA">Durban floods survivors: 'I thought the world was ending'</a> BBC: Moeketsi Manake and his family talk about losing everything, including their house, in the Durban floods. 
+ <p class="updated_time"> 06:01 PM CT, May. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61327821?at_medium=RSS&at_campaign=KARANGA">Myanmar civil war: ‘I saw my son’s body on Facebook’</a> BBC: After the Myanmar military entered his village, Joseph fled into the jungle but his 13-year-old was killed. 
  <p class="updated_time"> 05:39 PM CT, May. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61329067?at_medium=RSS&at_campaign=KARANGA">Amber Heard says Johnny Depp struck her when on drugs</a> BBC: Taking the stand, Amber Heard alleged a pattern of drug-fuelled violence from Johnny Depp. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61329067?at_medium=RSS&at_campaign=KARANGA">Amber Heard says Johnny Depp struck her when on drugs</a> BBC: Taking the stand, Amber Heard alleges a pattern of violence from the Pirates of the Caribbean star. 
  <p class="updated_time"> 05:24 PM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096699894/europe-eu-ban-russia-oil-imports-gasoline-gas-prices">What Europe's ban of Russian oil could mean for energy markets – and your gas prices</a> NPR: The EU ban on Russian oil imports will likely lead to higher crude and gasoline prices, further upending energy markets. 
- <p class="updated_time"> 05:19 PM CT, May. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">Ukraine Live Updates: As Victory Day Looms in Russia, Guesswork Grows Over Putin’s War Goals</a> NYT: Ukraine and NATO see the coming Russian holiday, which celebrates the Soviet triumph over Nazi Germany, as a stage for the Russian president to proclaim a turn in the war. 
+ <p class="updated_time"> 05:17 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
  <p class="updated_time"> 05:12 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61327638?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky plea as Russians seek Mariupol endgame</a> BBC: The Ukrainian president appeals for fresh UN help as Russians reportedly enter the city's last holdout. 
- <p class="updated_time"> 05:05 PM CT, May. 04 </p> 
- <a href="https://www.nytimes.com/2022/05/04/world/europe/ukraine-russia-putin-victory-day.html">Putin Could Use Russia’s Victory Day to Expand Ukraine War, Some Fear</a> NYT: The Russian holiday celebrating the Soviet triumph over Nazi Germany is viewed by Ukraine and NATO as a stage for the Russian president to proclaim a turn in the war. 
  <p class="updated_time"> 05:00 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/middleeast/turkey-syria-million-homes.html">Turkey’s Plan to Draw Refugees Back to Syria: Homes for 1 Million</a> NYT: President Recep Tayyip Erdogan says Turkey will build homes, schools, hospitals and more in northern Syria, but experts question whether refugees will return willingly. 
- <p class="updated_time"> 04:53 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
  <p class="updated_time"> 04:32 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/moderna-covid-vaccine.html">Moderna Reaps $5.9 Billion From Its Vaccine Sales</a> NYT: Stéphane Bancel, the company’s chief executive officer, said Moderna has $21 billion worth of advance purchase agreements for the vaccine. 
+ <p class="updated_time"> 04:17 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
  <p class="updated_time"> 04:12 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/climate/wildfire-smoke-dust-storm.html">NOAA Image Catches Wildfire Smoke and Dust on Collision Course</a> NYT: A time-lapse image of smoke from wildfires in New Mexico and dust from a storm in Colorado illustrates the scope of Western catastrophe. 
  <p class="updated_time"> 04:06 PM CT, May. 04 </p> 
@@ -35,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61327082?at_medium=RSS&at_campaign=KARANGA">Anger outside Mississippi's last abortion clinic</a> BBC: Activists from both sides of the debate say they will fight on whatever the US Supreme Court rules. 
  <p class="updated_time"> 03:55 PM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096606111/russia-ukraine-war-what-happened-today-may-4">Russia-Ukraine war: What happened today (May 4)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:53 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
  <p class="updated_time"> 03:31 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/americas/mexico-cartels-michoacan.html">In Mexico, One Cartel Is Cleared, but Others Storm In</a> NYT: In the state of Michoacán, small drug cartels compete with larger ones for territory, leaving the residents caught in the middle of a brutal turf war. 
  <p class="updated_time"> 03:29 PM CT, May. 04 </p> 
@@ -47,17 +53,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/us/politics/covid-white-house-correspondents-dinner.html">Handful of Virus Cases Emerge After White House Correspondents’ Dinner</a> NYT: Cases are not uncommon in Washington these days, and there is no certainty that those who tested positive were infected at the dinner. 
  <p class="updated_time"> 03:25 PM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096725190/maradona-hand-of-god-world-cup-shirt-auction">Maradona's 'Hand of God' shirt fetches $9.3M at auction, a sports memorabilia record</a> NPR: The shirt was worn by the Argentine soccer legend when he scored the controversial "Hand of God" goal against England in the 1986 World Cup. 
+ <p class="updated_time"> 03:17 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169">As Coffins Come Home, Russians Confront Toll of Ukraine Invasion</a> WSJ: As Coffins Come Home, Russians Confront Toll of Ukraine Invasion 
  <p class="updated_time"> 02:57 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61321799?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia denies it plans to declare war on 9 May</a> BBC: The Kremlin has so far only referred to the war in Ukraine as a "special military operation". 
  <p class="updated_time"> 02:56 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-61324482?at_medium=RSS&at_campaign=KARANGA">US makes biggest interest rate rise in 22 years</a> BBC: The Federal Reserve is under pressure as the US grapples with its worst inflation in four decades. 
- <p class="updated_time"> 02:53 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169">As Coffins Come Home, Russians Confront Toll of Ukraine Invasion</a> WSJ: As Coffins Come Home, Russians Confront Toll of Ukraine Invasion 
  <p class="updated_time"> 02:31 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61318689?at_medium=RSS&at_campaign=KARANGA">Ukraine war: EU plans Russian oil ban and war crimes sanctions</a> BBC: The measures are some of the toughest yet but Hungary has rejected them as unacceptable. 
  <p class="updated_time"> 02:20 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-victory-day.html">What Is Russia’s May 9 Victory Day, and What Might Putin Say?</a> NYT: In the two decades that Vladimir V. Putin has led Russia, the country’s Victory Day marches, honoring Soviet sacrifices of World War II, have transformed into huge military spectacles and nostalgic celebrations. 
- <p class="updated_time"> 01:53 PM CT, May. 04 </p> 
+ <p class="updated_time"> 02:17 PM CT, May. 04 </p> 
  <a href="https://www.wsj.com/articles/eu-proposes-ban-on-russian-oil-imports-11651648950">EU Proposes Ban on Russian Oil Imports</a> WSJ: EU Proposes Ban on Russian Oil Imports 
  <p class="updated_time"> 01:31 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61319518?at_medium=RSS&at_campaign=KARANGA">Hungary will veto EU oil ban proposal - minister</a> BBC: Zoltán Kovács says the proposal is against the country's interests and would ruin the Hungarian economy. 
@@ -65,7 +71,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61325387?at_medium=RSS&at_campaign=KARANGA">Ahmadreza Djalali: Sweden alarmed by Iran's reported plan to execute doctor</a> BBC: A semi-official news agency says dual national Ahmadreza Djalali will be put to death this month. 
  <p class="updated_time"> 01:26 PM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096658544/dave-chappelle-attacker-charged-with-assault-with-a-deadly-weapon">Dave Chappelle attacker charged with assault with a deadly weapon </a> NPR: 23-year-old Isaiah Lee has been charged with assault with a deadly weapon. 
- <p class="updated_time"> 12:53 PM CT, May. 04 </p> 
+ <p class="updated_time"> 01:17 PM CT, May. 04 </p> 
  <a href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618">In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</a> WSJ: In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns 
  <p class="updated_time"> 12:46 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/eu-russia-oil-embargo.html">European Union Takes a Leap With a Russian Oil Embargo</a> NYT: The ban, once seen as unlikely, is a significant tightening of the squeeze on Russia’s economy, and a financial blow to Europe, too. 
@@ -163,8 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/arts/podcasts-ukraine-tulsa-boyland.html">6 Podcasts That Go Deeper on the Headlines</a> NYT: These series, on subjects like the war in Ukraine, the storming of the U.S. Capitol and the 1921 Tulsa race massacre, can help combat news fatigue. 
  <p class="updated_time"> 09:51 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/climate/las-vegas-lawn-grass-ban.html">To Save Water Amid a Megadrought, Las Vegas Outlaws Grass</a> NYT: With drought and growth taking a toll on the Colorado River, the source of 90 percent of the region’s water, a new law in Las Vegas mandates the removal of turf, patch by patch. 
- <p class="updated_time"> 08:49 AM CT, May. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61308017?at_medium=RSS&at_campaign=KARANGA">Ukraine war: A 64-year-old Mariupol resident lost her home, but has nowhere to go</a> BBC: 64-year-old Tatyana is one of many Ukrainians who have lost their homes to Russian attacks. 
  <p class="updated_time"> 05:04 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/russia-sanctions-ukraine.html">What Sanctions Have Been Imposed on Russia?</a> NYT: Our reporters answer readers’ questions about Russia’s invasion of Ukraine. Many of you asked about economic penalties and how Putin could respond. 
  <p class="updated_time"> 01:12 AM CT, May. 03 </p> 
@@ -194,14 +198,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:10 PM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/2022/05/04/us/politics/antony-blinken-covid-positive.html">Secretary Blinken Tests Positive for the Coronavirus</a> NYT: A State Department spokesman said Secretary of State Antony J. Blinken had not seen President Biden in several days. 
+ <p class="updated_time"> 06:00 PM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/2022/05/04/us/politics/larry-hogan-trump-gop.html">Larry Hogan Takes the Fight to Trump From Within the G.O.P.</a> NYT: The Maryland governor, a rare Republican who speaks out publicly against Donald Trump, is trying to defend G.O.P. lawmakers targeted by the former president. 
+ <p class="updated_time"> 05:58 PM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/2022/05/04/us/politics/roberts-alito-abortion-roe-v-wade.html">Roberts and Alito, Once Close Allies, Have Taken Divergent Paths</a> NYT: Chief Justice John G. Roberts Jr. and Justice Samuel A. Alito Jr. have become emblems of a stark divide at the Supreme Court as it confronts whether to overturn Roe v. Wade. 
+ <p class="updated_time"> 05:58 PM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/us/politics/democrats-abortion.html">Democrats Vow Response to Roe v. Wade Ruling but Have Few Options</a> NYT: With neither the 60 votes needed to break a filibuster of legislation to protect abortion rights nor the 50 votes to pass it, Senate Democrats said they would try anyway. 
+ <p class="updated_time"> 05:54 PM CT, May. 04 </p> 
+ <a href="https://www.politico.com/news/2022/05/04/gop-primaries-00030152">'Are you going to cave?' GOP primaries pit 'fighters' against 'governing wing'</a> Politico: Primary clashes in states across the country will shape the potential GOP House majority. 
  <p class="updated_time"> 05:51 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/us/politics/oath-keepers-jan-6-riot.html">Oath Keepers Leader Sought to Ask Trump to Unleash His Militia</a> NYT: A dramatic account of how the militia leader, Stewart Rhodes, tried to reach Donald J. Trump on Jan. 6 with a message that the group could help keep him in power was revealed in federal court. 
- <p class="updated_time"> 05:51 PM CT, May. 04 </p> 
- <a href="https://www.nytimes.com/2022/05/04/us/politics/antony-blinken-covid-positive.html">Secretary Blinken Tests Positive for the Coronavirus</a> NYT: A State Department spokesman said Secretary of State Antony J. Blinken had not seen President Biden in several days. 
  <p class="updated_time"> 05:50 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/us/politics/supreme-court-marshal-leak-investigation.html">Supreme Court Marshal Takes Up Leak Investigation as Theories Swirl</a> NYT: Not since Bob Woodward and Carl Bernstein refused for decades to disclose the identity of their Watergate source has Washington been as eager to unmask a leaker. 
  <p class="updated_time"> 05:47 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/arts/roe-v-wade-abortion-history.html">The Fight Over Abortion History</a> NYT: The leaked draft opinion that would overturn Roe v. Wade also takes aim at its version of history, challenging decades of scholarship that argues abortion was not always a crime. 
+ <p class="updated_time"> 05:43 PM CT, May. 04 </p> 
+ <a href="https://www.politico.com/news/2022/05/04/cisneros-calls-out-house-democrat-leadership-for-supporting-anti-abortion-cuellar-00030124">Cisneros calls out House Democratic leadership for supporting anti-abortion Cuellar</a> Politico: With three weeks until the Democratic runoff, recent abortion news could be a catalyst for Cisneros' campaign. 
  <p class="updated_time"> 05:35 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/rob-stein-dead.html">Rob Stein, Who Changed How Politics Is Funded, Dies at 78</a> NYT: In the wake of Republican electoral victories in 2002 and 2004, he convened major liberal donors to finance a network of political groups aligned with Democrats. 
  <p class="updated_time"> 05:30 PM CT, May. 04 </p> 
@@ -296,8 +310,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/us/politics/biden-alabama-ukraine-aid.html">Biden Visits an Alabama Missile Factory, Highlighting Aid to Ukraine</a> NYT: The president’s call came as Republicans worried that the aid was harming U.S. military readiness and progressives fretted over his stalled domestic agenda. 
  <p class="updated_time"> 08:36 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1095662187/ohio-republican-senate-primary-results-vance-trump">After Trump's endorsement, J.D. Vance wins a crowded Ohio GOP Senate race, the AP says</a> NPR: Author J.D. Vance emerged from a crowded Republican primary in Ohio, and now becomes the favorite in the general election in the GOP-leaning state. 
- <p class="updated_time"> 08:35 PM CT, May. 03 </p> 
- <a href="https://www.politico.com/news/2022/05/03/bortion-statistics-by-state-map-00029740">Abortion statistics by state: Maps, trigger laws, and possible bans</a> Politico: If the court adopts the initial draft opinion, the retreat on abortion rights would be sweeping. 
+ <p class="updated_time"> 07:38 PM CT, May. 03 </p> 
+ <a href="https://www.politico.com/news/2022/05/03/biden-roe-abortion-00029828">Biden wants to make the Roe v. Wade decision about much more than abortion</a> Politico: Responding to reports that the Supreme Court is ready to overturn Roe, the president warned that "other basic rights" will come next. 
  <p class="updated_time"> 07:31 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/supreme-court-protests-abortion.html">Demonstrators Gathered at Supreme Court Lament, and Celebrate, Leaked Draft</a> NYT: Armed with megaphones, signs, buttons and at least one letterpress for speedy poster production, groups supporting and opposing abortion rights demonstrated. 
  <p class="updated_time"> 07:26 PM CT, May. 03 </p> 
@@ -312,12 +326,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/03/ohio-senate-tuesday-primaries-2022-00029800">Trump-backed Vance wins Ohio GOP Senate nod</a> Politico: Two key House districts in Indiana and another handful in Ohio also have big primaries. 
  <p class="updated_time"> 06:00 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/roe-supreme-court-politics.html">Roe’s Fall Would Alter Political Battle Lines. But in What Way?</a> NYT: Democrats hope abortion rights will motivate the party’s base. Republican strategists are skeptical, though they are privately unsure how the issue might affect the midterms. 
- <p class="updated_time"> 05:16 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/us/politics/democrats-abortion.html">Democrats Vow Response to Roe v. Wade Ruling but Have Few Options</a> NYT: With neither the 60 votes needed to break a filibuster of legislation to protect abortion rights nor the 50 votes to pass it, Senate Democrats said they would try anyway. 
  <p class="updated_time"> 05:02 PM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/mcconnell-on-verge-of-winning-long-term-battle-against-roe-00029752">McConnell closes in on Roe after years of pushing the courts rightward</a> Politico: There’s a direct line from the Senate GOP leader's decision to hold a high court vacancy open in 2016 to the potential demise of Supreme Court precedent. 
- <p class="updated_time"> 04:55 PM CT, May. 03 </p> 
- <a href="https://www.politico.com/news/2022/05/03/norman-mineta-transportation-secretary-dies-00029791">Norman Mineta, Transportation secretary in 9/11 era, dies</a> Politico: He served in the Cabinets of both President Bill Clinton and President George W. Bush. 
  <p class="updated_time"> 04:09 PM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/abortion-rights-roe-v-wade-supreme-court-questions-00029570">We answered your questions about the future of Roe v. Wade</a> Politico: The Supreme Court's initial draft opinion has spurred many questions, from what this means for people seeking abortions right now to what comes next. We're tapping our reporters to break it all down. 
  <p class="updated_time"> 01:18 PM CT, May. 03 </p> 
@@ -332,12 +342,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/03/schumer-abortion-rights-roe-draft-opinion-00029573">Dems vow abortion rights floor fight in wake of Roe draft opinion</a> Politico: There's no serious path forward in the Senate right now for Democrats' calls to codify abortion rights. Many in the party want to try anyway. 
  <p class="updated_time"> 08:02 AM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/klobuchar-abortion-supreme-court-00029541">Klobuchar: Abortion is a ‘decision between me and my doctor. Not Ted Cruz.’</a> Politico: The Minnesota senator warned that overturning Roe v. Wade would leave the issue of abortion rights up to politicians. 
- <p class="updated_time"> 10:46 PM CT, May. 02 </p> 
- <a href="https://www.politico.com/news/2022/05/02/supreme-court-draft-opinion-abortion-reactions-00029518">Democrats hope draft abortion opinion will jolt midterm elections</a> Politico: The Supreme Court's potential move to overturn Roe v. Wade sparked frustration and vows to protect abortion rights from governors, senators and House members. 
  <p class="updated_time"> 07:32 PM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473">Supreme Court has voted to overturn abortion rights, draft opinion shows</a> Politico: “We hold that Roe and Casey must be overruled,” Justice Alito writes in an initial majority draft circulated inside the court. 
- <p class="updated_time"> 03:51 PM CT, May. 02 </p> 
- <a href="https://www.politico.com/news/2022/05/02/antony-blinken-china-asean-summit-00029368">Blinken to unveil 'no surprises' China strategy pre-Asia push</a> Politico: Biden strategy is “Trump-plus, with sophistication,” one expert said. 
  <p class="updated_time"> 10:57 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/gop-lawmakers-testimony-capitol-riot-00029322">Jan. 6 committee asks three pro-Trump GOP lawmakers for testimony</a> Politico: Reps. Andy Biggs (R-Ariz.), Ronny Jackson (R-Texas) and Mo Brooks (R-Ala.) all voted to object to certifying the former president's loss to Joe Biden. 
  <p class="updated_time"> 03:31 AM CT, May. 02 </p> 
