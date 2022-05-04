@@ -9,16 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:47 AM CT, May. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">Ukraine Live Updates: E.U. Proposes Total Ban on Russian Oil</a> NYT: The measure would ban the import of crude oil in the next six months and refined oil product imports by the end of 2022. The European Commission president made the announcement. 
+ <p class="updated_time"> 06:10 AM CT, May. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61315533?at_medium=RSS&at_campaign=KARANGA">Haiti kidnapping: Diplomat Carlos Guillén 'safe and sound'</a> BBC: Diplomat Carlos Guillén has been freed after four days in captivity, a Dominican official says. 
+ <p class="updated_time"> 06:09 AM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">Ukraine Live Updates: E.U. Proposes Russian Oil Ban; Moscow Strikes in East and West</a> NYT: As Russia flexed its military might with attacks in eastern and western Ukraine, the European Union took a major step toward weakening President Vladimir Putin’s ability to finance the war. 
+ <p class="updated_time"> 05:21 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-needs-support-of-global-business-president-zelensky-says-at-ceo-summit-11651604137">Zelensky Says Companies Are Supporting Russia’s ‘War Machine’ if They Stay There</a> WSJ: Zelensky Says Companies Are Supporting Russia’s ‘War Machine’ if They Stay There 
  <p class="updated_time"> 05:15 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61318689?at_medium=RSS&at_campaign=KARANGA">Ukraine war: EU plans Russian oil ban and war crimes sanctions</a> BBC: Oil imports would be phased out and officers suspected of war crimes targeted under the proposals. 
- <p class="updated_time"> 04:59 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/ukraine-needs-support-of-global-business-president-zelensky-says-at-ceo-summit-11651604137">Zelensky Says Companies Are Supporting Russia’s ‘War Machine’ if They Stay There</a> WSJ: Zelensky Says Companies Are Supporting Russia’s ‘War Machine’ if They Stay There 
  <p class="updated_time"> 04:42 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-spy-housing-warsaw.html">A Crumbling Russian ‘Spyville’ Returns to Polish Hands</a> NYT: A Warsaw housing complex built in the 1970s and rented by Russia was reputed to be a nest of spies. The city’s government has seized the site and pledged to hand it over to the Ukrainian community. 
  <p class="updated_time"> 04:22 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61318629?at_medium=RSS&at_campaign=KARANGA">Abortion ruling: Overturning Roe v Wade an assault on freedom - Harris</a> BBC: The US vice president reacts angrily to abortion rights news saying it would deny women freedom. 
+ <p class="updated_time"> 04:21 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 04:00 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/japan-nuclear-power.html">Japan Says It Needs Nuclear Power. Can Host Towns Ever Trust It Again?</a> NYT: The Ukraine war has shown the fragility of Japan’s energy supplies. But the decision to restart plants after the Fukushima disaster is fraught with emotions and political calculation. 
  <p class="updated_time"> 04:00 AM CT, May. 04 </p> 
@@ -27,32 +31,30 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/04/health/covid-variants-gamma-iota-mu.html">The Vanishing Variants: Lessons from Gamma, Iota and Mu</a> NYT: Studying the coronavirus variants that have faded away could help us prepare for what comes next, scientists say. 
  <p class="updated_time"> 04:00 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096293712/85-year-old-bassist-ron-carter-has-no-plans-on-slowing-down">85-year-old bassist Ron Carter has no plans on slowing down</a> NPR: The roster of musicians Carter has worked with ranges from Ornette Coleman to Aretha Franklin, Roberta Flack and A Tribe Called Quest. 
- <p class="updated_time"> 03:59 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 03:49 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/ukraine-bucha-russia-atrocities.html">They Fell Deeply in Love in Bucha. One Russian Bullet Ended It All.</a> NYT: Over nearly two decades, Iryna Abramova and her husband, Oleh, built a life of love and happiness. Now, she says, she wishes the Russian soldiers had shot her, too. 
  <p class="updated_time"> 03:44 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61317901?at_medium=RSS&at_campaign=KARANGA">Dave Chappelle: US comedian attacked on stage in Los Angeles</a> BBC: Videos show someone tackling Chappelle at the Netflix Is A Joke Festival at the Hollywood Bowl. 
+ <p class="updated_time"> 03:21 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/europe-moves-to-sanction-russia-again-closing-in-on-oil-embargo-11651597785">Europe Moves to Sanction Russia Again</a> WSJ: Europe Moves to Sanction Russia Again 
  <p class="updated_time"> 03:08 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-61318287?at_medium=RSS&at_campaign=KARANGA">Maradona shirt: Why the 1986 World Cup kit is so special</a> BBC: Bidding for the shirt Diego Maradona wore scoring the "Hand of God" goal has already reached £4m. 
- <p class="updated_time"> 02:59 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/europe-moves-to-sanction-russia-again-closing-in-on-oil-embargo-11651597785">Europe Moves to Sanction Russia Again</a> WSJ: Europe Moves to Sanction Russia Again 
  <p class="updated_time"> 02:47 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/israel-russian-foreign-minister-sergey-lavrov.html">Israel Condemns Russian Foreign Minister Lavrov’s Comments as Antisemitic</a> NYT: Israel’s response is among the fiercest criticism it has leveled at the Russian government since the invasion of Ukraine. 
  <p class="updated_time"> 02:30 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096545061/eu-leader-calls-for-russian-oil-ban-in-new-set-of-sanctions">EU leader calls for Russian oil ban in new set of sanctions</a> NPR: The EU chief concedes that that getting all 27 member countries — some of them highly dependent on Russia for energy supplies — to agree on oil sanctions will be extremely difficult. 
  <p class="updated_time"> 02:27 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/eu-russia-oil-ban.html">E.U. to Propose Total Ban on Russian Oil Imports</a> NYT: The  proposal will be presented in detail to E.U. ambassadors Wednesday and is expected to be adopted by the end of the week. 
+ <p class="updated_time"> 02:21 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 02:05 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/north-korea-missile-test.html">North Korea Launches Ballistic Missile Ahead of Yoon’s Inauguration</a> NYT: Kim Jong-un has sought to improve the North’s nuclear capabilities and gain diplomatic leverage with Washington and the incoming administration of Yoon Suk-yeol. 
  <p class="updated_time"> 02:00 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61306866?at_medium=RSS&at_campaign=KARANGA">Egypt charity's shock as donated phone card raises fortune</a> BBC: A young woman's donation of $0.50 of mobile phone credit helps raise $1m for a medical charity. 
- <p class="updated_time"> 01:59 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
+ <p class="updated_time"> 01:21 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 01:21 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096533640/as-u-s-may-restrict-abortion-other-nations-are-easing-access">As U.S. may restrict abortion, other nations are easing access</a> NPR: Recent legislative activities in countries show the U.S. risks being out of step with the progress that the rest of the world is making in protecting sexual and reproductive rights. 
- <p class="updated_time"> 12:59 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 09:43 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61315333?at_medium=RSS&at_campaign=KARANGA">Missing Alabama guard and inmate had 'special relationship'</a> BBC: A massive manhunt is under way for murder suspect Casey White and guard Vicky White. 
  <p class="updated_time"> 09:16 PM CT, May. 03 </p> 
@@ -71,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/climate/lake-powell-mead-water-drought.html">Colorado River Reservoirs Are So Low, Government Will Delay Releases</a> NYT: The decision will keep more water in Lake Powell on the Arizona-Utah border, instead of releasing it downstream to Lake Mead. Both reservoirs are at their lowest points. 
  <p class="updated_time"> 06:17 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/arts/design/smithsonian-ethical-returns.html">Smithsonian Adopts Policy on Ethical Returns in a Nod to Changing Norms</a> NYT: The institution’s leaders hope other cultural centers will follow its lead. It has already announced plans to return most of its collection of Benin Bronzes to Nigeria under the new policy. 
- <p class="updated_time"> 06:09 PM CT, May. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61315533?at_medium=RSS&at_campaign=KARANGA">Haiti 400 Mawozo gang leader extradited to US</a> BBC: Haitian authorities say leader of 400 Mawozo gang was extradited to the US for kidnapping Americans. 
  <p class="updated_time"> 06:09 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61315483?at_medium=RSS&at_campaign=KARANGA">Could Ukraine’s war reach Moldova?</a> BBC: Ros Atkins looks at why there is concern Moldova could be drawn into war, like its neighbour Ukraine. 
  <p class="updated_time"> 06:05 PM CT, May. 03 </p> 
@@ -322,8 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/02/house-progressives-not-rebooting-00029075">Strength in numbers — maybe? House liberals mull their future</a> Politico: Centrists derailed their $1.7 trillion dream. They've seen only small wins. But "the strategy doesn't change" next year, as one top liberal put it. 
  <p class="updated_time"> 10:17 AM CT, May. 01 </p> 
  <a href="https://www.politico.com/news/2022/05/01/menendez-iran-nuclear-weapons-deal-00029168">Menendez doubtful that talks with Iran will yield a good deal</a> Politico: "I want the administration to understand that no deal is better than a bad deal," he said. 
- <p class="updated_time"> 06:00 AM CT, May. 01 </p> 
- <a href="https://www.politico.com/news/2022/05/01/democrats-immigration-reform-infighting-00029087">Immigration reform withers as Democrats descend into border infighting</a> Politico: There's now "zero" chance for a comprehensive bill this Congress, one key senator said. But the party has some smaller ideas to fall back on. 
 
 
 </details>
