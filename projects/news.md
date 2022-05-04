@@ -9,26 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:07 PM CT, May. 04 </p> 
+ <p class="updated_time"> 02:26 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">Ukraine Live Updates: Fears of Expanded War Rise as Russia’s Victory Day Approaches With No Change on Battlefield</a> NYT: As Russia flexed its military might with attacks in eastern and western Ukraine, the European Union took a major step toward weakening President Vladimir Putin’s ability to finance the war. 
- <p class="updated_time"> 02:05 PM CT, May. 04 </p> 
+ <p class="updated_time"> 02:20 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-victory-day.html">What Is Russia’s May 9 Victory Day, and What Might Putin Say?</a> NYT: In the two decades that Vladimir V. Putin has led Russia, the country’s Victory Day marches, honoring Soviet sacrifices of World War II, have transformed into huge military spectacles and nostalgic celebrations. 
+ <p class="updated_time"> 01:31 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
  <p class="updated_time"> 01:31 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61319518?at_medium=RSS&at_campaign=KARANGA">Hungary will veto EU oil ban proposal - minister</a> BBC: Zoltán Kovács says the proposal is against the country's interests and would ruin the Hungarian economy. 
  <p class="updated_time"> 01:31 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61325387?at_medium=RSS&at_campaign=KARANGA">Ahmadreza Djalali: Sweden alarmed by Iran's reported plan to execute doctor</a> BBC: A semi-official news agency says dual national Ahmadreza Djalali will be put to death this month. 
  <p class="updated_time"> 01:26 PM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096658544/dave-chappelle-attacker-charged-with-assault-with-a-deadly-weapon">Dave Chappelle attacker charged with assault with a deadly weapon </a> NPR: 23-year-old Isaiah Lee has been charged with assault with a deadly weapon. 
- <p class="updated_time"> 01:18 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
  <p class="updated_time"> 12:46 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/eu-russia-oil-embargo.html">European Union Takes a Leap With a Russian Oil Embargo</a> NYT: The ban, once seen as unlikely, is a significant tightening of the squeeze on Russia’s economy, and a financial blow to Europe, too. 
+ <p class="updated_time"> 12:31 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
  <p class="updated_time"> 12:26 PM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096413514/premature-american-twins-rescued-from-ukraine-become-stuck-in-bureaucratic-limbo">Premature American twins rescued from Ukraine become stuck in bureaucratic limbo</a> NPR: For two parents from Chicago, getting their newborn twins safely out of Ukraine was difficult. Two months later, extracting them from Poland's bureaucracy has turned out to be even more arduous. 
  <p class="updated_time"> 12:23 PM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096596286/eu-europea-russia-oil-ban">The EU just proposed a ban on oil from Russia, its main energy supplier</a> NPR: The European Union wants to sharpen its sanctions against Russia. But its leaders acknowledge Europe's economy could suffer. 
- <p class="updated_time"> 12:18 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
  <p class="updated_time"> 11:52 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61320475?at_medium=RSS&at_campaign=KARANGA">Kenya's Talai clan petitions Prince William over land eviction</a> BBC: The Talai clan say they were evicted from their land for tea plantations, some still owned by UK firms. 
  <p class="updated_time"> 11:49 AM CT, May. 04 </p> 
@@ -41,7 +41,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61325277?at_medium=RSS&at_campaign=KARANGA">Disabled children 'dumped' in Ukrainian institutions</a> BBC: Thousands of disabled Ukrainian children reportedly left in institutions that can’t care for them. 
  <p class="updated_time"> 11:37 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/americas/abortion-activists-movements.html">Roe Inspired Activists Worldwide, Who May Be Rethinking Strategy</a> NYT: Feminist movements in some countries similarly sought abortion protections in their courts, but for others, the goal was legislative change. 
- <p class="updated_time"> 11:18 AM CT, May. 04 </p> 
+ <p class="updated_time"> 11:31 AM CT, May. 04 </p> 
  <a href="https://www.wsj.com/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169">As Coffins Come Home, Russians Confront Toll of Ukraine Invasion</a> WSJ: As Coffins Come Home, Russians Confront Toll of Ukraine Invasion 
  <p class="updated_time"> 11:06 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096606667/canada-abortion-supreme-court-leak">A Canadian official says Americans can get abortions there if Roe is overturned</a> NPR: Americans accessing health care services in Canada would have to pay out of pocket, and likely would need to overcome extra travel and logistical hurdles. 
@@ -53,10 +53,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61325607?at_medium=RSS&at_campaign=KARANGA">France elections: Left forms coalition to fight Macron</a> BBC: Four French left-wing parties agree in principle to form an alliance for June's parliamentary elections. 
  <p class="updated_time"> 10:40 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-spy-housing-warsaw.html">A Crumbling Russian ‘Spyville’ Returns to Polish Hands</a> NYT: A Warsaw housing complex built in the 1970s and rented by Russia was reputed to be a nest of spies. The city’s government has seized the site and pledged to hand it over to the Ukrainian community. 
+ <p class="updated_time"> 10:31 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/eu-proposes-ban-on-russian-oil-imports-11651648950">EU Proposes Ban on Russian Oil Imports, Sending Prices Higher</a> WSJ: EU Proposes Ban on Russian Oil Imports, Sending Prices Higher 
  <p class="updated_time"> 10:23 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61321799?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia denies it plans to declare war on 9 May</a> BBC: The Kremlin has so far only referred to the war in Ukraine as a "special military operation". 
- <p class="updated_time"> 10:18 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/eu-proposes-ban-on-russian-oil-imports-11651648950">EU Proposes Ban on Russian Oil Imports, Sending Prices Higher</a> WSJ: EU Proposes Ban on Russian Oil Imports, Sending Prices Higher 
  <p class="updated_time"> 10:06 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/pakistan-baluchistan-violence.html">In Pakistan, Violence by Baluch Separatists Destabilizes Region</a> NYT: A government plagued by volatility is trying to quell a separatist movement in Baluchistan while also fighting other insurgencies and striving for economic development. 
  <p class="updated_time"> 10:03 AM CT, May. 04 </p> 
@@ -65,12 +65,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61320474?at_medium=RSS&at_campaign=KARANGA">Al-Shabab attack on African Union forces in Somalia: What we know</a> BBC: Islamist militants have carried out what may be their most deadly attacks on the African Union mission. 
  <p class="updated_time"> 09:35 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/health/covid-variants-gamma-iota-mu.html">Covid and Omicron Variants: Lessons From Gamma, Iota and Mu</a> NYT: Studying the coronavirus variants that have faded away could help us prepare for what comes next, scientists say. 
+ <p class="updated_time"> 09:31 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618">In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</a> WSJ: In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns 
  <p class="updated_time"> 09:26 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/asia/beijing-china-lockdown-covid.html">Beijing Tightens Measures as Some Residents Grow Weary</a> NYT: Authorities are trying to avoid a full-scale lockdown in the Chinese capital like the one imposed in Shanghai. 
  <p class="updated_time"> 09:24 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61323196?at_medium=RSS&at_campaign=KARANGA">Dolly Parton, Eminem and Duran Duran join Rock & Roll Hall of Fame</a> BBC: The star had asked not to be included, but will be still inducted alongside Eminem and Duran Duran. 
- <p class="updated_time"> 09:18 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618">In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</a> WSJ: In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns 
  <p class="updated_time"> 09:15 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/ukraine-nft-art.html">Saving Ukrainian Art, and Helping Artists, One NFT at a Time</a> NYT: Lika Spivakovska, the owner of two art galleries in Kyiv, Ukraine, has partnered with an NFT gallery in Puerto Rico to auction off pictures of art damaged and created during the war. The money will go to Ukrainian artists and other humanitarian aid. 
  <p class="updated_time"> 09:07 AM CT, May. 04 </p> 
@@ -254,6 +254,8 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/05/04/politics/ohio-indiana-primary-takeaways/index.html">6 takeaways from Ohio and Indiana primaries</a> CNN: Ohio's Republican Senate primary was the first major midterm test of former President Donald Trump's enduring influence over the Republican Party -- and Trump's candidate won. 
  <p class="updated_time"> 10:45 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/vance-wins-trump-senate-primary-ohio.html">Vance Wins Republican Senate Primary in Ohio After Nod From Trump</a> NYT: J.D. Vance, the author of “Hillbilly Elegy,” won a G.O.P. race that saw nearly $80 million in television advertising. 
+ <p class="updated_time"> 10:08 PM CT, May. 03 </p> 
+ <a href="https://www.politico.com/news/2022/05/03/jd-vance-win-ohio-primary-00029881">A mole hunt, a secret website and Peter Thiel's big risk: How J.D. Vance won his primary</a> Politico: The former Trump critic leaned on a super PAC and his billionaire patron to put him in position for Trump's all-important endorsement. 
  <p class="updated_time"> 10:03 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/norman-y-mineta-who-served-two-presidents-in-cabinet-dies-at-90.html">Norman Y. Mineta, First Japanese American Cabinet Member, Dies at 90</a> NYT: Interned during World War II, he went to Congress and later served in the cabinets of Presidents Bill Clinton and George W. Bush. 
  <p class="updated_time"> 09:56 PM CT, May. 03 </p> 
@@ -266,6 +268,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/03/bortion-statistics-by-state-map-00029740">Abortion statistics by state: Maps, trigger laws, and possible bans</a> Politico: If the court adopts the initial draft opinion, the retreat on abortion rights would be sweeping. 
  <p class="updated_time"> 07:44 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096504251/oklahoma-governor-texas-style-abortion-ban">Oklahoma governor signs Texas-style abortion ban into law</a> NPR: The bill signing comes on the heels of a leaked draft opinion from the U.S. Supreme Court that it is considering weakening or overturning the landmark Roe v. Wade decision. 
+ <p class="updated_time"> 07:38 PM CT, May. 03 </p> 
+ <a href="https://www.politico.com/news/2022/05/03/biden-roe-abortion-00029828">Biden wants to make the Roe v. Wade decision about much more than abortion</a> Politico: Responding to reports that the Supreme Court is ready to overturn Roe, the president warned that "other basic rights" will come next. 
  <p class="updated_time"> 07:31 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/supreme-court-protests-abortion.html">Demonstrators Gathered at Supreme Court Lament, and Celebrate, Leaked Draft</a> NYT: Armed with megaphones, signs, buttons and at least one letterpress for speedy poster production, groups supporting and opposing abortion rights demonstrated. 
  <p class="updated_time"> 07:26 PM CT, May. 03 </p> 
@@ -280,6 +284,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/03/democrats-abortion-if-roe-v-wade-is-overturned-00029794">What can Dems do if Roe v. Wade is overturned? Not much.</a> Politico: With lawmakers stymied, much of the abortion-rights response is expected to fall to medical and activist groups. 
  <p class="updated_time"> 06:08 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/abortion-midterms-supreme-court.html">Overnight, Midterms Get a White-Hot New Focus: Abortion</a> NYT: Exultant Republicans planned new bans. Democrats, who have struggled to rally around abortion rights, hoped a bruising Supreme Court loss could jolt their voters into action. 
+ <p class="updated_time"> 06:04 PM CT, May. 03 </p> 
+ <a href="https://www.politico.com/news/2022/05/03/ohio-senate-tuesday-primaries-2022-00029800">Trump-backed Vance wins Ohio GOP Senate nod</a> Politico: Two key House districts in Indiana and another handful in Ohio also have big primaries. 
  <p class="updated_time"> 06:00 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/roe-supreme-court-politics.html">Roe’s Fall Would Alter Political Battle Lines. But in What Way?</a> NYT: Democrats hope abortion rights will motivate the party’s base. Republican strategists are skeptical, though they are privately unsure how the issue might affect the midterms. 
  <p class="updated_time"> 05:16 PM CT, May. 03 </p> 
@@ -306,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/03/schumer-abortion-rights-roe-draft-opinion-00029573">Dems vow abortion rights floor fight in wake of Roe draft opinion</a> Politico: There's no serious path forward in the Senate right now for Democrats' calls to codify abortion rights. Many in the party want to try anyway. 
  <p class="updated_time"> 08:02 AM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/klobuchar-abortion-supreme-court-00029541">Klobuchar: Abortion is a ‘decision between me and my doctor. Not Ted Cruz.’</a> Politico: The Minnesota senator warned that overturning Roe v. Wade would leave the issue of abortion rights up to politicians. 
- <p class="updated_time"> 03:31 AM CT, May. 03 </p> 
- <a href="https://www.politico.com/news/2022/05/03/2022-primary-elections-ohio-indiana-00029491">7 ways Tuesday’s primaries could shake the 2022 election</a> Politico: Voters in Ohio and Indiana will nominate candidates in a key Senate race and more. 
  <p class="updated_time"> 10:46 PM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/supreme-court-draft-opinion-abortion-reactions-00029518">Democrats hope draft abortion opinion will jolt midterm elections</a> Politico: The Supreme Court's potential move to overturn Roe v. Wade sparked frustration and vows to protect abortion rights from governors, senators and House members. 
  <p class="updated_time"> 07:32 PM CT, May. 02 </p> 
@@ -318,10 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/02/gop-lawmakers-testimony-capitol-riot-00029322">Jan. 6 committee asks three pro-Trump GOP lawmakers for testimony</a> Politico: Reps. Andy Biggs (R-Ariz.), Ronny Jackson (R-Texas) and Mo Brooks (R-Ala.) all voted to object to certifying the former president's loss to Joe Biden. 
  <p class="updated_time"> 03:31 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/democrats-manchin-bipartisan-energy-00028966">Dems grimace at Manchin’s bipartisan energy detour</a> Politico: Republicans want to break the majority's resolve to pass another party-line bill. But the West Virginia centrist is still talking across the aisle. 
- <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
- <a href="https://www.politico.com/news/2022/05/02/may-primaries-republican-donald-trump-ohio-00029149">Trumpworld braces for ‘a couple of ugly nights’ in May</a> Politico: The upcoming stretch of primaries could put a serious dent in the Trump brand. 
- <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
- <a href="https://www.politico.com/news/2022/05/02/arizona-gop-senate-mark-brnovich-00029241">Arizona GOP Senate frontrunner loses lead amid air assault</a> Politico: Trump has criticized state Attorney General Mark Brnovich for declining to overturn the 2020 election results. 
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/house-progressives-not-rebooting-00029075">Strength in numbers — maybe? House liberals mull their future</a> Politico: Centrists derailed their $1.7 trillion dream. They've seen only small wins. But "the strategy doesn't change" next year, as one top liberal put it. 
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
