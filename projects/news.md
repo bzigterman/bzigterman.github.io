@@ -9,20 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:12 AM CT, May. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61318427?at_medium=RSS&at_campaign=KARANGA">Mali nonuplets in perfect health on first birthday - father</a> BBC: "They're all crawling now. Some are sitting up," the father of the world's only nonuplets tells the BBC. 
  <p class="updated_time"> 06:10 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61315533?at_medium=RSS&at_campaign=KARANGA">Haiti kidnapping: Diplomat Carlos Guillén 'safe and sound'</a> BBC: Diplomat Carlos Guillén has been freed after four days in captivity, a Dominican official says. 
  <p class="updated_time"> 06:09 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">Ukraine Live Updates: E.U. Proposes Russian Oil Ban; Moscow Strikes in East and West</a> NYT: As Russia flexed its military might with attacks in eastern and western Ukraine, the European Union took a major step toward weakening President Vladimir Putin’s ability to finance the war. 
- <p class="updated_time"> 05:21 AM CT, May. 04 </p> 
+ <p class="updated_time"> 05:46 AM CT, May. 04 </p> 
  <a href="https://www.wsj.com/articles/ukraine-needs-support-of-global-business-president-zelensky-says-at-ceo-summit-11651604137">Zelensky Says Companies Are Supporting Russia’s ‘War Machine’ if They Stay There</a> WSJ: Zelensky Says Companies Are Supporting Russia’s ‘War Machine’ if They Stay There 
  <p class="updated_time"> 05:15 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61318689?at_medium=RSS&at_campaign=KARANGA">Ukraine war: EU plans Russian oil ban and war crimes sanctions</a> BBC: Oil imports would be phased out and officers suspected of war crimes targeted under the proposals. 
+ <p class="updated_time"> 04:46 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/eu-proposes-ban-on-russian-oil-imports-11651648950">EU Proposes Ban on Russian Oil Imports</a> WSJ: EU Proposes Ban on Russian Oil Imports 
  <p class="updated_time"> 04:42 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-spy-housing-warsaw.html">A Crumbling Russian ‘Spyville’ Returns to Polish Hands</a> NYT: A Warsaw housing complex built in the 1970s and rented by Russia was reputed to be a nest of spies. The city’s government has seized the site and pledged to hand it over to the Ukrainian community. 
  <p class="updated_time"> 04:22 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61318629?at_medium=RSS&at_campaign=KARANGA">Abortion ruling: Overturning Roe v Wade an assault on freedom - Harris</a> BBC: The US vice president reacts angrily to abortion rights news saying it would deny women freedom. 
- <p class="updated_time"> 04:21 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 04:00 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/japan-nuclear-power.html">Japan Says It Needs Nuclear Power. Can Host Towns Ever Trust It Again?</a> NYT: The Ukraine war has shown the fragility of Japan’s energy supplies. But the decision to restart plants after the Fukushima disaster is fraught with emotions and political calculation. 
  <p class="updated_time"> 04:00 AM CT, May. 04 </p> 
@@ -33,26 +35,26 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/04/1096293712/85-year-old-bassist-ron-carter-has-no-plans-on-slowing-down">85-year-old bassist Ron Carter has no plans on slowing down</a> NPR: The roster of musicians Carter has worked with ranges from Ornette Coleman to Aretha Franklin, Roberta Flack and A Tribe Called Quest. 
  <p class="updated_time"> 03:49 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/ukraine-bucha-russia-atrocities.html">They Fell Deeply in Love in Bucha. One Russian Bullet Ended It All.</a> NYT: Over nearly two decades, Iryna Abramova and her husband, Oleh, built a life of love and happiness. Now, she says, she wishes the Russian soldiers had shot her, too. 
+ <p class="updated_time"> 03:46 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 03:44 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61317901?at_medium=RSS&at_campaign=KARANGA">Dave Chappelle: US comedian attacked on stage in Los Angeles</a> BBC: Videos show someone tackling Chappelle at the Netflix Is A Joke Festival at the Hollywood Bowl. 
- <p class="updated_time"> 03:21 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/europe-moves-to-sanction-russia-again-closing-in-on-oil-embargo-11651597785">Europe Moves to Sanction Russia Again</a> WSJ: Europe Moves to Sanction Russia Again 
  <p class="updated_time"> 03:08 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-61318287?at_medium=RSS&at_campaign=KARANGA">Maradona shirt: Why the 1986 World Cup kit is so special</a> BBC: Bidding for the shirt Diego Maradona wore scoring the "Hand of God" goal has already reached £4m. 
  <p class="updated_time"> 02:47 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/israel-russian-foreign-minister-sergey-lavrov.html">Israel Condemns Russian Foreign Minister Lavrov’s Comments as Antisemitic</a> NYT: Israel’s response is among the fiercest criticism it has leveled at the Russian government since the invasion of Ukraine. 
+ <p class="updated_time"> 02:46 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-launches-unknown-projectile-11651638228">North Korea Fires Missile Days Before South’s New President Takes Office</a> WSJ: North Korea Fires Missile Days Before South’s New President Takes Office 
  <p class="updated_time"> 02:30 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096545061/eu-leader-calls-for-russian-oil-ban-in-new-set-of-sanctions">EU leader calls for Russian oil ban in new set of sanctions</a> NPR: The EU chief concedes that that getting all 27 member countries — some of them highly dependent on Russia for energy supplies — to agree on oil sanctions will be extremely difficult. 
  <p class="updated_time"> 02:27 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/eu-russia-oil-ban.html">E.U. to Propose Total Ban on Russian Oil Imports</a> NYT: The  proposal will be presented in detail to E.U. ambassadors Wednesday and is expected to be adopted by the end of the week. 
- <p class="updated_time"> 02:21 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 02:05 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/north-korea-missile-test.html">North Korea Launches Ballistic Missile Ahead of Yoon’s Inauguration</a> NYT: Kim Jong-un has sought to improve the North’s nuclear capabilities and gain diplomatic leverage with Washington and the incoming administration of Yoon Suk-yeol. 
  <p class="updated_time"> 02:00 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61306866?at_medium=RSS&at_campaign=KARANGA">Egypt charity's shock as donated phone card raises fortune</a> BBC: A young woman's donation of $0.50 of mobile phone credit helps raise $1m for a medical charity. 
- <p class="updated_time"> 01:21 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
+ <p class="updated_time"> 01:46 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 01:21 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096533640/as-u-s-may-restrict-abortion-other-nations-are-easing-access">As U.S. may restrict abortion, other nations are easing access</a> NPR: Recent legislative activities in countries show the U.S. risks being out of step with the progress that the rest of the world is making in protecting sexual and reproductive rights. 
  <p class="updated_time"> 09:43 PM CT, May. 03 </p> 
@@ -76,9 +78,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:09 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61315483?at_medium=RSS&at_campaign=KARANGA">Could Ukraine’s war reach Moldova?</a> BBC: Ros Atkins looks at why there is concern Moldova could be drawn into war, like its neighbour Ukraine. 
  <p class="updated_time"> 06:05 PM CT, May. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61296182?at_medium=RSS&at_campaign=KARANGA">The Indian couple who survived war and a hijacking at sea</a> BBC: While Akhil Reghu was being held captive by rebels in Yemen, his wife was trapped by war in Ukraine. 
- <p class="updated_time"> 05:43 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/false-death-of-elderly-patient-renews-focus-on-shanghais-covid-ridden-nursing-homes-11651579940">Elderly Covid Patient Was Out in a Body Bag, Loaded for Cremation. She Was Alive.</a> WSJ: A Shanghai nursing home put an elderly resident infected with Covid-19 into a yellow body bag and loaded her into a crematorium van, only to find just before the vehicle drove away that she was still alive. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61296182?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion and Yemen conflict: The couple from Kerala who survived both</a> BBC: While Akhil Reghu was being held captive by rebels in Yemen, his wife was trapped by war in Ukraine. 
  <p class="updated_time"> 05:33 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/russia-ukraine-western-support.html">Sensing a Stalled Russia, West Adds Support and Arms for Ukraine</a> NYT: ‘You have exploded the myth of Putin’s invincibility,’ Prime Minister Boris Johnson of Britain told Ukrainian lawmakers, one of several Western sources of cheerleading on Tuesday. 
  <p class="updated_time"> 05:28 PM CT, May. 03 </p> 
@@ -111,8 +111,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-61309545?at_medium=RSS&at_campaign=KARANGA">People can now get contact info cut from Google search results</a> BBC: The web giant makes it easier to request that results linking to contact information are removed. 
  <p class="updated_time"> 12:00 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/boris-johnson-ukraine-russia.html">Boris Johnson Calls Russia War ‘Ukraine’s Finest Hour’</a> NYT: In the first address by a foreign leader to Ukraine’s Parliament, Britain’s prime minister burnished his credentials as a supporter of the resistance to Russia. 
- <p class="updated_time"> 11:50 AM CT, May. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61311272?at_medium=RSS&at_campaign=KARANGA">Russian mercenaries behind Central African Republic atrocities - HRW</a> BBC: Witnesses tell Human Rights Watch about summary executions, torture and the beating of civilians. 
  <p class="updated_time"> 10:43 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/asia/beijing-china-lockdown-covid.html">Beijing Tightens Measures as Some Residents Grow Weary</a> NYT: Authorities are trying to avoid a lockdown like the one imposed in Shanghai. 
  <p class="updated_time"> 10:14 AM CT, May. 03 </p> 
@@ -131,6 +129,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61308012?at_medium=RSS&at_campaign=KARANGA">Met Gala 2022: Blake Lively, Kim Kardashian and others showcase lavish outfits</a> BBC: One of fashion's biggest events has rolled out the red carpet in New York for some of the world's stars. 
  <p class="updated_time"> 05:30 AM CT, May. 03 </p> 
  <a href="https://www.npr.org/sections/money/2022/05/03/1096044152/how-palm-oil-prices-are-affecting-the-global-economy">How palm oil prices are affecting the global economy</a> NPR: The prices of cooking oil are rising. Why that could put global security at risk. 
+ <p class="updated_time"> 05:30 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: William Burns made an unannounced trip to Saudi Arabia last month, U.S. and Saudi officials said, with the relationship between Washington and Riyadh at its lowest point in decades. 
  <p class="updated_time"> 05:04 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/russia-sanctions-ukraine.html">What Sanctions Have Been Imposed on Russia?</a> NYT: Our reporters answer readers’ questions about Russia’s invasion of Ukraine. Many of you asked about economic penalties and how Putin could respond. 
  <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
@@ -199,7 +199,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/abortion-rights-debate-canada-00029864">‘Fortuitous timing’: U.S. fight galvanizes abortion debate in Canada</a> Politico: Abortion rights are a perennial wedge issue in Canadian elections. 
  <p class="updated_time"> 03:30 AM CT, May. 04 </p> 
- <a href="https://www.politico.com/news/2022/05/04/supreme-court-leak-probe-faces-slew-of-obstacles-and-unknowns-00029841">Supreme Court investigation of opinion breach faces multiple legal obstacles</a> Politico: The scope of the Roberts-ordered investigation is a mystery and could make justices very uncomfortable. 
+ <a href="https://www.politico.com/news/2022/05/04/supreme-court-leak-probe-faces-slew-of-obstacles-and-unknowns-00029841">Roberts investigation could make the Supreme Court very uncomfortable</a> Politico: Separation of powers could make it hard for DOJ or FBI to investigate Supreme Court breach. 
  <p class="updated_time"> 03:30 AM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/democrats-divided-over-return-to-office-amid-new-yorks-recovery-00029414">Return to office sparks Democratic infighting in New York</a> Politico: The split means there’s no shared vision for the post-pandemic future of the nation’s largest metropolis, whose office workers have returned at a slower rate than in most other big cities in the U.S. 
  <p class="updated_time"> 01:21 AM CT, May. 04 </p> 
