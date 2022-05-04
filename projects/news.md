@@ -9,22 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:03 PM CT, May. 03 </p> 
+ <p class="updated_time"> 10:24 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/live/2022/05/03/world/ukraine-russia-war-news">Ukraine Live Updates: Seeing a Stalled Russia, West Adds Support and Arms for Ukraine</a> NYT: Western leaders, including President Biden, Boris Johnson and Emmanuel Macron, sought to capitalize on Russia’s apparent lack of battlefield momentum to show Ukraine support and strengthen its resolve, and its arsenal. 
+ <p class="updated_time"> 10:05 PM CT, May. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61311527?at_medium=RSS&at_campaign=KARANGA">Mariupol steelworks evacuees: 'We were losing hope that we would ever get out'</a> BBC: Civilians evacuated from the besieged city of Mariupol finally arrive in the relative safety of Zaporizhzhia. 
+ <p class="updated_time"> 09:43 PM CT, May. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61315333?at_medium=RSS&at_campaign=KARANGA">Missing Alabama guard and inmate had 'special relationship'</a> BBC: A massive manhunt is underway for murder suspect Casey White and guard Vicky White. 
+ <p class="updated_time"> 09:39 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
+ <p class="updated_time"> 09:16 PM CT, May. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61303221?at_medium=RSS&at_campaign=KARANGA">Musk says Twitter may see 'slight cost' for businesses and governments</a> BBC: The multi-billionaire Tesla boss also said the platform "will always be free for casual users". 
  <p class="updated_time"> 08:55 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/covid-white-house-correspondents-dinner.html">Handful of Covid Cases Emerge After White House Correspondents’ Dinner</a> NYT: Cases are not uncommon in Washington these days, and there is no certainty that those who tested positive were infected at the dinner. 
- <p class="updated_time"> 08:25 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
+ <p class="updated_time"> 08:39 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/europe-moves-to-sanction-russia-again-closing-in-on-oil-embargo-11651597785">Europe Moves to Sanction Russia Again</a> WSJ: Europe Moves to Sanction Russia Again 
+ <p class="updated_time"> 07:39 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 07:27 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61313517?at_medium=RSS&at_campaign=KARANGA">Abortion ruling: US Supreme Court says leak is real as investigation launched</a> BBC: The leak has stirred expectations that the 1973 decision legalising US abortion could be overturned. 
- <p class="updated_time"> 07:25 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/europe-moves-to-sanction-russia-again-closing-in-on-oil-embargo-11651597785">Europe Moves to Sanction Russia Again</a> WSJ: Europe Moves to Sanction Russia Again 
  <p class="updated_time"> 07:22 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/mariupol-azovstal-survivors-evacuated.html">Evacuees From Mariupol’s Steel Plant Tell of Horrors and Survival</a> NYT: Nearly 130 people reached relative safety after sheltering for weeks in dark bunkers under the Azovstal plant, under constant bombardment, with dwindling food. 
+ <p class="updated_time"> 06:39 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/yellen-zelensky-among-speakers-set-to-discuss-ukraine-war-at-wsj-ceo-council-11651570363">Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council</a> WSJ: Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council 
  <p class="updated_time"> 06:30 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-61188579?at_medium=RSS&at_campaign=KARANGA">Oil prices have soared. Why won't Opec bring them down?</a> BBC: Oil prices are at an eight-year high, so why won't oil exporting countries bring them down? 
- <p class="updated_time"> 06:25 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 06:19 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/climate/lake-powell-mead-water-drought.html">Colorado River Reservoirs Are So Low, Government Will Delay Releases</a> NYT: The decision will keep more water in Lake Powell on the Arizona-Utah border, instead of releasing it downstream to Lake Mead. Both reservoirs are at their lowest points. 
  <p class="updated_time"> 06:17 PM CT, May. 03 </p> 
@@ -35,18 +43,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61315483?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… Could Ukraine’s war spread to Moldova?</a> BBC: Ros Atkins looks at why there is concern Moldova could be drawn into war, like its neighbour Ukraine. 
  <p class="updated_time"> 06:05 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61296182?at_medium=RSS&at_campaign=KARANGA">The Indian couple who survived war and a hijacking at sea</a> BBC: While Akhil Reghu was being held captive by rebels in Yemen, his wife was trapped by war in Ukraine. 
+ <p class="updated_time"> 05:43 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/false-death-of-elderly-patient-renews-focus-on-shanghais-covid-ridden-nursing-homes-11651579940">Elderly Covid Patient Was Out in a Body Bag, Loaded for Cremation. She Was Alive.</a> WSJ: A Shanghai nursing home put an elderly resident infected with Covid-19 into a yellow body bag and loaded her into a crematorium van, only to find just before the vehicle drove away that she was still alive. 
+ <p class="updated_time"> 05:39 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 05:33 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/russia-ukraine-western-support.html">Sensing a Stalled Russia, West Adds Support and Arms for Ukraine</a> NYT: ‘You have exploded the myth of Putin’s invincibility,’ Prime Minister Boris Johnson of Britain told Ukrainian lawmakers, one of several Western sources of cheerleading on Tuesday. 
  <p class="updated_time"> 05:28 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/middleeast/israel-jerusalem-zip-line.html">Israel Plans Zip Line for Ancient Jerusalem</a> NYT: A Jewish settler group is promoting projects that opponents say will change the delicate historic, religious and political balance in highly symbolic areas around Jerusalem’s Old City. 
- <p class="updated_time"> 05:25 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/yellen-zelensky-among-speakers-set-to-discuss-ukraine-war-at-wsj-ceo-council-11651570363">Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council</a> WSJ: Zelensky, Yellen Among Speakers Set to Discuss Ukraine War at WSJ CEO Council 
  <p class="updated_time"> 05:06 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/britain-parliament-sexual-harassment.html">Britain’s Parliament Is Rocked by Sexist Episodes. Again.</a> NYT: Encouraging more women to run for office, critics say, is just one way to counter pervasive misogyny and sexual harassment in Parliament. 
  <p class="updated_time"> 04:49 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/lviv-ukraine-russia-missiles.html">Russian Missiles Hit Power Stations in Lviv and Along Crucial Railways</a> NYT: Altogether, six electrical substations were struck along the railways in central and western Ukraine, according to a top rail official. The rail system is the country’s lifeline for humanitarian and military supplies. 
- <p class="updated_time"> 04:25 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 04:13 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096122593/russia-ukraine-war-what-happened-today-may-3">Russia-Ukraine war: What happened today (May 3)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:05 PM CT, May. 03 </p> 
@@ -55,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61314861?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: US women divided on leaked abortion ruling</a> BBC: Overturning the right to an abortion would be a major win for some. For others, a devastating loss. 
  <p class="updated_time"> 03:59 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096398290/those-in-kramatorsk-ukraine-are-struggling-as-the-city-runs-out-of-food-and-gas">Those in Kramatorsk, Ukraine, are struggling as the city runs out of food and gas</a> NPR: Residents of Kramatorsk in eastern Ukraine are fleeing a Russian offensive. For the few who have stayed, life can be brutal, since the city is running out of food and fuel. 
- <p class="updated_time"> 03:58 PM CT, May. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61315333?at_medium=RSS&at_campaign=KARANGA">Missing Alabama guard and inmate had 'special relationship'</a> BBC: A massive manhunt is underway for murder suspect Casey White and guard Vicky White. 
  <p class="updated_time"> 03:52 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096398283/in-south-korea-k-pop-fans-have-something-to-cheer-about">In South Korea, K-Pop fans have something to cheer about</a> NPR: Although concerts have been back in South Korea since the beginning of the year, cheering was prohibited. With COVID restrictions lifting in South Korea, fans are finally allowed to cheer again. 
  <p class="updated_time"> 03:32 PM CT, May. 03 </p> 
@@ -77,6 +83,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61313296?at_medium=RSS&at_campaign=KARANGA">Russia beats final deadline to avoid debt default</a> BBC: Russia has drawn on US dollar reserves in order to make payments to international investors. 
  <p class="updated_time"> 11:50 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61311272?at_medium=RSS&at_campaign=KARANGA">Russian mercenaries behind Central African Republic atrocities - HRW</a> BBC: Witnesses tell Human Rights Watch about summary executions, torture and the beating of civilians. 
+ <p class="updated_time"> 11:04 AM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-needs-support-of-global-business-president-zelensky-says-at-ceo-summit-11651604137">Zelensky Says Companies Are Supporting Russia's 'War Machine' if They Stay There</a> WSJ: “Leaving the Russian market is a must,” the Ukrainian leader told The Wall Street Journal’s CEO Council Summit in London, warning executives of the risks of doing business in Russia amid the war. 
  <p class="updated_time"> 10:43 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/asia/beijing-china-lockdown-covid.html">Beijing Tightens Measures as Some Residents Grow Weary</a> NYT: Authorities are trying to avoid a lockdown like the one imposed in Shanghai. 
  <p class="updated_time"> 10:14 AM CT, May. 03 </p> 
@@ -95,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/03/1096085028/climate-scientists-say-south-asias-heat-wave-120f-is-a-sign-of-whats-to-come">Climate scientists say South Asia's heat wave (120F!) is a sign of what's to come</a> NPR: Some schools have closed early for summer. More than a billion people are in danger of heatstroke. Summer's early arrival in South Asia also threatens global grain supplies. 
  <p class="updated_time"> 06:53 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61306008?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Nurse who lost her legs has first dance with husband in hospital</a> BBC: Oksana lost her legs, and four fingers, in a landmine explosion when returning home. 
- <p class="updated_time"> 06:26 AM CT, May. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61307340?at_medium=RSS&at_campaign=KARANGA">Óscar Denis: Former Paraguay VP's family marks his 600 days in captivity</a> BBC: Paraguay's ex-Vice President Óscar Denis is being held by EPP rebels who kidnapped him in 2020. 
  <p class="updated_time"> 05:47 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61308012?at_medium=RSS&at_campaign=KARANGA">Met Gala 2022: Blake Lively, Kim Kardashian and others showcase lavish outfits</a> BBC: One of fashion's biggest events has rolled out the red carpet in New York for some of the world's stars. 
  <p class="updated_time"> 05:30 AM CT, May. 03 </p> 
@@ -109,16 +115,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/03/1095475495/quandt-volkswagen-bmw-porshe-stefanquandt-guntherquandt-herbertquandt-quandt">Germany pledged to 'never forget' the Holocaust. Its car companies complicate that</a> NPR: The Nazi legacies of Germany's wealthiest families highlight the country's challenge to make good on its commitment to "never forget" the Holocaust, according to author David de Jong. 
  <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/americas/cuban-migration-united-states.html">Cuban Migrants Arrive to U.S. in Record Numbers, on Foot, Not by Boat</a> NYT: Political repression and escalating economic difficulties on the island, along with a new visa-free travel policy in Nicaragua, are some of the factors driving the change. 
- <p class="updated_time"> 03:12 AM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/false-death-of-elderly-patient-renews-focus-on-shanghais-covid-ridden-nursing-homes-11651579940">Elderly Covid Patient Was Out in a Body Bag, Loaded for Cremation. She Was Alive.</a> WSJ: A Shanghai nursing home put an elderly resident infected with Covid-19 into a yellow body bag and loaded her into a crematorium van, only to find just before the vehicle drove away that she was still alive. 
  <p class="updated_time"> 03:04 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/asia/ukraine-bucha-russia-atrocities.html">They Fell Deeply in Love in Bucha. One Russian Bullet Ended It All.</a> NYT: Over nearly two decades, Iryna Abramova and her husband, Oleh, built a life of love and happiness. Now, she says, she wishes the Russian soldiers had shot her, too. 
  <p class="updated_time"> 01:59 AM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61304033?at_medium=RSS&at_campaign=KARANGA">Shanghai: Authorities fire four officials after elderly patient blunder</a> BBC: A viral video shows an elderly patient being loaded into a hearse into a body bag. 
  <p class="updated_time"> 01:12 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/australia/scott-johnson-antigay-killing.html">Australian Gets 12 Years for Anti-Gay Killing of an American in 1988</a> NYT: Scott Johnson, a U.S. graduate student, was pushed off a cliff, in a case that was first ruled a suicide but that his brother refused to let go of. 
- <p class="updated_time"> 12:25 AM CT, May. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61303012?at_medium=RSS&at_campaign=KARANGA">Gay US student's killer jailed after 33 years</a> BBC: A Sydney man murdered the Cambridge University graduate at a gay cruising ground in 1988. 
  <p class="updated_time"> 11:46 PM CT, May. 02 </p> 
  <a href="https://www.npr.org/2022/05/03/1096062765/more-survivors-are-found-3-days-after-china-building-collapse">More survivors are found 3 days after China building collapse</a> NPR: Police have arrested nine people, including the building owner, on suspicion of ignoring building codes or committing other violations. 
  <p class="updated_time"> 11:15 PM CT, May. 02 </p> 
@@ -190,6 +192,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:15 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/us/politics/vance-wins-trump-senate-primary-ohio.html">Vance Wins Republican Senate Primary in Ohio After Nod From Trump</a> NYT: J.D. Vance, the author of “Hillbilly Elegy,” won a G.O.P. race that saw nearly $80 million in television advertising. 
+ <p class="updated_time"> 10:08 PM CT, May. 03 </p> 
+ <a href="https://www.politico.com/news/2022/05/03/jd-vance-win-ohio-primary-00029881">A mole hunt, a secret website and Peter Thiel's big risk: How J.D. Vance won his primary</a> Politico: The former Trump critic leaned on a super PAC and his billionaire patron to put him in position for Trump's all-important endorsement. 
+ <p class="updated_time"> 10:03 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/us/politics/norman-y-mineta-who-served-two-presidents-in-cabinet-dies-at-90.html">Norman Y. Mineta, First Japanese American Cabinet Member, Dies at 90</a> NYT: Interned during World War II, he went to Congress and later served in the cabinets of Presidents Bill Clinton and George W. Bush. 
+ <p class="updated_time"> 09:56 PM CT, May. 03 </p> 
+ <a href="https://www.politico.com/news/2022/05/03/supreme-court-abortion-privacy-rights-00029871">What falls after Roe? Liberals warn of a privacy rights nightmare.</a> Politico: The Alito opinion claims other cases aren't in jeopardy. 
+ <p class="updated_time"> 09:50 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/us/politics/jd-vance-ohio-senate-primary-results.html">J.D. Vance’s Rise From ‘Hillbilly Elegy’ Author to Senate Nominee</a> NYT: Now the Republican nominee for Senate in Ohio, Mr. Vance owes his ascendant political career in large part to Donald Trump, whose style he has tried to emulate. 
+ <p class="updated_time"> 09:44 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/us/politics/biden-alabama-ukraine-aid.html">Biden Visits an Alabama Missile Factory, Highlighting Aid to Ukraine</a> NYT: The president’s call came as Republicans worried that the aid was harming U.S. military readiness and progressives fretted over his stalled domestic agenda. 
+ <p class="updated_time"> 09:39 PM CT, May. 03 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:36 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1095662187/ohio-republican-senate-primary-results-vance-trump">After Trump's endorsement, J.D. Vance wins a crowded Ohio GOP Senate race, the AP says</a> NPR: Author J.D. Vance emerged from a crowded Republican primary in Ohio, and now becomes the favorite in the general election in the GOP-leaning state. 
  <p class="updated_time"> 08:35 PM CT, May. 03 </p> 
@@ -206,8 +222,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/03/1096471278/harris-warns-overturning-abortion-rights-would-threaten-freedoms-for-all-america">Harris warns overturning abortion rights would threaten freedoms for all Americans</a> NPR: Vice President Harris said in a speech Tuesday night that women's rights are under attack as the Supreme Court appears ready to overturn Roe v. Wade, according to a leaked draft opinion. 
  <p class="updated_time"> 06:57 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1095512720/ohio-democratic-senate-primary-results">Rep. Tim Ryan wins Democratic Senate primary in Ohio, the AP says</a> NPR: The Ohio congressman faces an uphill fight in the general election, as the state has trended more Republican in recent years. 
- <p class="updated_time"> 06:52 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/us/politics/biden-alabama-ukraine-aid.html">Biden Visits an Alabama Missile Factory, Highlighting Aid to Ukraine</a> NYT: The president’s call came as Republicans worried that the aid was harming U.S. military readiness and progressives fretted over his stalled domestic agenda. 
  <p class="updated_time"> 06:46 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/supreme-court-leak-roe-v-wade-abortion.html">A Supreme Court in Disarray After an Extraordinary Breach</a> NYT: The leak of a draft majority opinion overruling Roe v. Wade raises questions about motives, methods and whether defections are still possible. 
  <p class="updated_time"> 06:35 PM CT, May. 03 </p> 
@@ -224,8 +238,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/03/1096389328/senate-republicans-zero-in-on-the-abortion-decision-leak-not-its-impact">Senate Republicans zero in on the abortion decision leak, not its impact </a> NPR: Top GOP lawmakers emphasized the unprecedented nature of the unauthorized disclosure of the high court's draft ruling on an abortion case instead of the possible impact on women or on the midterms. 
  <p class="updated_time"> 05:16 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/democrats-abortion.html">Democrats Vow Response to Roe v. Wade Ruling but Have Few Options</a> NYT: With neither the 60 votes needed to break a filibuster of legislation to protect abortion rights nor the 50 votes to pass it, Senate Democrats said they would try anyway. 
- <p class="updated_time"> 05:08 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/us/politics/norman-y-mineta-who-served-two-presidents-in-cabinet-dies-at-90.html">Norman Y. Mineta, Who Served Two Presidents in Cabinet, Dies at 90</a> NYT: Interned in wartime as a Japanese American, he went to Congress and became the first Japanese American cabinet officer, serving Bill Clinton and George W. Bush. 
  <p class="updated_time"> 05:02 PM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/mcconnell-on-verge-of-winning-long-term-battle-against-roe-00029752">McConnell closes in on Roe after years of pushing the courts rightward</a> Politico: There’s a direct line from the Senate GOP leader's decision to hold a high court vacancy open in 2016 to the potential demise of Supreme Court precedent. 
  <p class="updated_time"> 04:55 PM CT, May. 03 </p> 
@@ -238,8 +250,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/03/1096398304/texas-will-ban-abortion-if-roe-v-wade-is-overturned-heres-how-texans-are-feeling">Texas will ban abortion if 'Roe v. Wade' is overturned. Here's how Texans are feeling</a> NPR: If Roe v. Wade is overturned, states including Texas have laws that automatically overturn the right to abortion. That means it would be unlawful at any stage of pregnancy, with few to no exceptions. 
  <p class="updated_time"> 03:52 PM CT, May. 03 </p> 
  <a href="https://www.npr.org/2022/05/03/1096108319/roe-v-wade-alito-conservative-justices-confirmation-hearings">What conservative justices said — and didn't say — about Roe at their confirmations</a> NPR: Democrats say several conservative justices lied to the Senate in their confirmations. But nominees have long taken a careful line on Roe, acknowledging it as a precedent without saying much more. 
- <p class="updated_time"> 03:36 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/02/us/politics/alexandria-ocasio-cortez-nina-turner.html">Alexandria Ocasio-Cortez Endorses Nina Turner for Ohio House Seat</a> NYT: Ms. Turner is challenging Representative Shontel Brown for a second time in Tuesday’s primary election, after Ms. Brown won a special election last year. 
  <p class="updated_time"> 03:33 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/trump-hotel-lawsuit-settlement.html">Trump Settles Suit Over Payments to Hotel for 2017 Inauguration</a> NYT: The lawsuit brought by the attorney general in Washington, D.C., claimed that the Trump hotel accepted excessive payments from the inaugural committee. 
  <p class="updated_time"> 03:32 PM CT, May. 03 </p> 
@@ -284,20 +294,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/03/klobuchar-abortion-supreme-court-00029541">Klobuchar: Abortion is a ‘decision between me and my doctor. Not Ted Cruz.’</a> Politico: The Minnesota senator warned that overturning Roe v. Wade would leave the issue of abortion rights up to politicians. 
  <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/business/energy-environment/high-electric-bills-summer.html">High Electric Bills Get Ready for Another Energy Price Spike: High Electric Bills</a> NYT: Rates have jumped because of a surge in natural gas prices and could keep rising rapidly for years as utilities invest in electric grids. 
- <p class="updated_time"> 03:31 AM CT, May. 03 </p> 
- <a href="https://www.politico.com/news/2022/05/03/2022-primary-elections-ohio-indiana-00029491">7 ways Tuesday’s primaries could shake the 2022 election</a> Politico: Voters in Ohio and Indiana will nominate candidates in a key Senate race and more. 
- <p class="updated_time"> 01:56 AM CT, May. 03 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:46 PM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/supreme-court-draft-opinion-abortion-reactions-00029518">Democrats hope draft abortion opinion will jolt midterm elections</a> Politico: The Supreme Court's potential move to overturn Roe v. Wade sparked frustration and vows to protect abortion rights from governors, senators and House members. 
  <p class="updated_time"> 09:11 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/technology/partisan-dhs-disinformation-board.html">In Homeland Security, Partisan Fight Breaks Out Over Disinformation Board</a> NYT: The board, an advisory group with the Department of Homeland Security, has become embroiled in the debate over the government’s role in policing online content. 
  <p class="updated_time"> 08:20 PM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/read-justice-alito-initial-abortion-opinion-overturn-roe-v-wade-pdf-00029504">Read Justice Alito's initial draft abortion opinion which would overturn Roe v. Wade</a> Politico: Read the full 98-page initial draft majority opinion. 
- <p class="updated_time"> 06:00 PM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/us/politics/ohio-jd-vance.html">How Ohio’s Map Will Test J.D. Vance’s Political Allure</a> NYT: Behind the wild language, the “Hillbilly Elegy” author’s bid for a Senate seat follows a traditional Republican playbook. 
- <p class="updated_time"> 03:51 PM CT, May. 02 </p> 
- <a href="https://www.politico.com/news/2022/05/02/antony-blinken-china-asean-summit-00029368">Blinken to unveil 'no surprises' China strategy pre-Asia push</a> Politico: Biden strategy is “Trump-plus, with sophistication,” one expert said. 
  <p class="updated_time"> 10:57 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/gop-lawmakers-testimony-capitol-riot-00029322">Jan. 6 committee asks three pro-Trump GOP lawmakers for testimony</a> Politico: Reps. Andy Biggs (R-Ariz.), Ronny Jackson (R-Texas) and Mo Brooks (R-Ala.) all voted to object to certifying the former president's loss to Joe Biden. 
  <p class="updated_time"> 03:31 AM CT, May. 02 </p> 
@@ -306,8 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/02/may-primaries-republican-donald-trump-ohio-00029149">Trumpworld braces for ‘a couple of ugly nights’ in May</a> Politico: The upcoming stretch of primaries could put a serious dent in the Trump brand. 
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/arizona-gop-senate-mark-brnovich-00029241">Arizona GOP Senate frontrunner loses lead amid air assault</a> Politico: Trump has criticized state Attorney General Mark Brnovich for declining to overturn the 2020 election results. 
- <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
- <a href="https://www.politico.com/news/2022/05/02/todd-young-indiana-senate-trump-00029217">The GOP senator who faulted Trump for Jan. 6 — and lived to tell about it</a> Politico: Indiana Sen. Todd Young is one of only four Senate GOP incumbents whom the former president has not endorsed for reelection. 
  <p class="updated_time"> 03:30 AM CT, May. 02 </p> 
  <a href="https://www.politico.com/news/2022/05/02/house-progressives-not-rebooting-00029075">Strength in numbers — maybe? House liberals mull their future</a> Politico: Centrists derailed their $1.7 trillion dream. They've seen only small wins. But "the strategy doesn't change" next year, as one top liberal put it. 
  <p class="updated_time"> 10:17 AM CT, May. 01 </p> 
