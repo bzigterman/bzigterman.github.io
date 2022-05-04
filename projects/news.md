@@ -9,14 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:12 AM CT, May. 04 </p> 
+ <p class="updated_time"> 03:49 AM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/2022/05/02/world/asia/ukraine-bucha-russia-atrocities.html">They Fell Deeply in Love in Bucha. One Russian Bullet Ended It All.</a> NYT: Over nearly two decades, Iryna Abramova and her husband, Oleh, built a life of love and happiness. Now, she says, she wishes the Russian soldiers had shot her, too. 
+ <p class="updated_time"> 03:44 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61317901?at_medium=RSS&at_campaign=KARANGA">Dave Chappelle: US comedian attacked on stage in Los Angeles</a> BBC: Videos show someone tackling Chappelle at the Netflix Is A Joke Festival at the Hollywood Bowl. 
  <p class="updated_time"> 03:08 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-61318287?at_medium=RSS&at_campaign=KARANGA">Maradona shirt: Why the 1986 World Cup kit is so special</a> BBC: Bidding for the shirt Diego Maradona wore scoring the "Hand of God" goal has already reached £4m. 
+ <p class="updated_time"> 02:51 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-needs-support-of-global-business-president-zelensky-says-at-ceo-summit-11651604137">Zelensky Says Companies Are Supporting Russia’s ‘War Machine’ if They Stay There</a> WSJ: Zelensky Says Companies Are Supporting Russia’s ‘War Machine’ if They Stay There 
  <p class="updated_time"> 02:47 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/israel-russian-foreign-minister-sergey-lavrov.html">Israel Condemns Russian Foreign Minister Lavrov’s Comments as Antisemitic</a> NYT: Israel’s response is among the fiercest criticism it has leveled at the Russian government since the invasion of Ukraine. 
- <p class="updated_time"> 02:32 AM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/ukraine-needs-support-of-global-business-president-zelensky-says-at-ceo-summit-11651604137">Zelensky Says Companies Are Supporting Russia’s ‘War Machine’ if They Stay There</a> WSJ: Zelensky Says Companies Are Supporting Russia’s ‘War Machine’ if They Stay There 
  <p class="updated_time"> 02:30 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096545061/eu-leader-calls-for-russian-oil-ban-in-new-set-of-sanctions">EU leader calls for Russian oil ban in new set of sanctions</a> NPR: The EU chief concedes that that getting all 27 member countries — some of them highly dependent on Russia for energy supplies — to agree on oil sanctions will be extremely difficult. 
  <p class="updated_time"> 02:27 AM CT, May. 04 </p> 
@@ -25,17 +27,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/04/world/asia/north-korea-missile-test.html">North Korea Launches Ballistic Missile Ahead of Yoon’s Inauguration</a> NYT: Kim Jong-un has sought to improve the North’s nuclear capabilities and gain diplomatic leverage with Washington and the incoming administration of Yoon Suk-yeol. 
  <p class="updated_time"> 02:00 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61306866?at_medium=RSS&at_campaign=KARANGA">Egypt charity's shock as donated phone card raises fortune</a> BBC: A young woman's donation of $0.50 of mobile phone credit helps raise $1m for a medical charity. 
- <p class="updated_time"> 01:32 AM CT, May. 04 </p> 
+ <p class="updated_time"> 01:51 AM CT, May. 04 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 01:21 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096533640/as-u-s-may-restrict-abortion-other-nations-are-easing-access">As U.S. may restrict abortion, other nations are easing access</a> NPR: Recent legislative activities in countries show the U.S. risks being out of step with the progress that the rest of the world is making in protecting sexual and reproductive rights. 
- <p class="updated_time"> 12:32 AM CT, May. 04 </p> 
+ <p class="updated_time"> 12:51 AM CT, May. 04 </p> 
  <a href="https://www.wsj.com/articles/europe-moves-to-sanction-russia-again-closing-in-on-oil-embargo-11651597785">Europe Moves to Sanction Russia Again</a> WSJ: Europe Moves to Sanction Russia Again 
  <p class="updated_time"> 12:01 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/05/03/world/ukraine-russia-war-news">What Happened on Day 69 of the War in Ukraine</a> NYT: Western leaders, including President Biden, Boris Johnson and Emmanuel Macron, sought to capitalize on Russia’s apparent lack of battlefield momentum to show Ukraine support and strengthen its resolve, and its arsenal. 
- <p class="updated_time"> 11:32 PM CT, May. 03 </p> 
+ <p class="updated_time"> 11:51 PM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
- <p class="updated_time"> 10:32 PM CT, May. 03 </p> 
+ <p class="updated_time"> 10:51 PM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 10:05 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61311527?at_medium=RSS&at_campaign=KARANGA">Mariupol steelworks evacuees: 'We were losing hope that we would ever get out'</a> BBC: Civilians evacuated from the besieged city of Mariupol finally arrive in the relative safety of Zaporizhzhia. 
@@ -123,8 +125,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/03/1095475495/quandt-volkswagen-bmw-porshe-stefanquandt-guntherquandt-herbertquandt-quandt">Germany pledged to 'never forget' the Holocaust. Its car companies complicate that</a> NPR: The Nazi legacies of Germany's wealthiest families highlight the country's challenge to make good on its commitment to "never forget" the Holocaust, according to author David de Jong. 
  <p class="updated_time"> 04:00 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/americas/cuban-migration-united-states.html">Cuban Migrants Arrive to U.S. in Record Numbers, on Foot, Not by Boat</a> NYT: Political repression and escalating economic difficulties on the island, along with a new visa-free travel policy in Nicaragua, are some of the factors driving the change. 
- <p class="updated_time"> 03:04 AM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/02/world/asia/ukraine-bucha-russia-atrocities.html">They Fell Deeply in Love in Bucha. One Russian Bullet Ended It All.</a> NYT: Over nearly two decades, Iryna Abramova and her husband, Oleh, built a life of love and happiness. Now, she says, she wishes the Russian soldiers had shot her, too. 
  <p class="updated_time"> 01:12 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/australia/scott-johnson-antigay-killing.html">Australian Gets 12 Years for Anti-Gay Killing of an American in 1988</a> NYT: Scott Johnson, a U.S. graduate student, was pushed off a cliff, in a case that was first ruled a suicide but that his brother refused to let go of. 
  <p class="updated_time"> 11:46 PM CT, May. 02 </p> 
