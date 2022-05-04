@@ -1187,11 +1187,13 @@ Definitions from the CDC:
 
 ",better_il_table_html,"
 
+<div class = \"hcharts\">
 <iframe src=\"/interactive/il_community_levels.html\" width=\"49%\" height=\"300\"> 
 </iframe>
 
 <iframe src=\"/interactive/il_new_cases.html\" width=\"49%\" height=\"300\"> 
 </iframe>
+</div>
 
 ![IL CDC_cases_transmission_IL map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_cases_transmission.png)
 

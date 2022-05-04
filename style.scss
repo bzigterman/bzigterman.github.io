@@ -300,8 +300,9 @@ footer {
 	}
 
 .hcharts {
-	float:left;
-    margin-right:20px;
+	column-width: 500px;
+	column-gap: 20px;
+	padding: 10px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
