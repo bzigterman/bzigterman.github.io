@@ -44,10 +44,6 @@ usa_cases <- usa_cases %>%
 
 
 il_cases <- usa_cases %>%
-  mutate(community_level = case_when(
-    CCL_community_burden_level_integer == 0 ~ "Low",
-    CCL_community_burden_level_integer == 1 ~ "Medium",
-    CCL_community_burden_level_integer == 2 ~ "High")) %>%
   mutate(date = ymd(as_date(CCL_report_date))) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE),
                             mday(date))) %>%
@@ -65,7 +61,7 @@ champaign_point <- data.frame(
   z = 1
 )
 
-fig <- hcmap("countries/us/us-il-all",
+fig1 <- hcmap("countries/us/us-il-all",
   data = il_cases,
   value = "value",
   joinBy = "fips",
@@ -91,8 +87,77 @@ fig <- hcmap("countries/us/us-il-all",
     layout = "vertical",
     valueDecimals = 0
   )
-fig
-saveWidget(widget = fig, file = "interactive/il_new_cases.html",
+fig1
+saveWidget(widget = fig1, file = "interactive/il_new_cases.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+il_community_levels <- usa_cases %>%
+  mutate(date = ymd(as_date(CCL_report_date))) %>%
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE),
+                            mday(date))) %>%
+  filter(State == "IL") %>%
+  mutate(value = CCL_community_burden_level_integer) %>%
+  #mutate(value = community_level) %>%
+  select(fips, value,County,community_level) 
+
+champaign_point <- data.frame(
+  name = "Champaign",
+  lat = 40.116421,
+  lon =-88.243385,
+  z = 1
+)
+
+fig2 <- hcmap("countries/us/us-il-all",
+             data = il_community_levels,
+             value = "value",
+             joinBy = "fips",
+             nullColor = "#d3d3d3",
+             tooltip = list(pointFormat = "{point.name}: {point.community_level}"),
+             #dataLabels = list(enabled = TRUE, format = "{point.name}"),
+             name = "Level"
+) %>%
+  hc_add_series(
+    data = champaign_point,
+    type = "mappoint",
+    enableMouseTracking = FALSE
+  )  %>%
+  hc_title(text = "Community Levels")%>%
+  hc_caption(text = "Source: CDC") %>%
+  hc_tooltip(
+    
+  ) %>%
+  hc_colorAxis(
+    dataClasses = 
+      #   list(
+      #   from = c(-.5, .5, 1.5),
+      #   to = c(.5, 1.5, 2.5),
+      #   color = c("#99d594","#ffffbf","#fc8d59"),
+      #   name = c("Low","Medium","High")
+      # )
+      list(
+        c(from = -0.5,
+          to = 0.5,
+          color = '#99d594',
+          name = 'Low'),
+        c(from = 0.5,
+          to = 1.5,
+          color = '#ffffbf',
+          name = 'Medium'),
+        c(from = 1.5,
+          to = 2.5,
+          color = '#fc8d59',
+          name = 'High'))
+  ) %>%
+  hc_legend(
+    #floating = TRUE,
+    align = "right",
+    verticalAlign = "bottom",
+    layout = "vertical",
+    valueDecimals = 0
+  )
+fig2
+saveWidget(widget = fig2, file = "interactive/il_community_levels.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
@@ -1124,8 +1189,13 @@ Definitions from the CDC:
 
 ![IL CDC_cases_transmission_IL map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_cases_transmission.png)
 
-<iframe src=\"/interactive/il_new_cases.html\" width=\"100%\" height=\"300\"> 
+<div class = \"box\">
+<iframe src=\"/interactive/il_new_cases.html\" width=\"49%\" height=\"300\"> 
 </iframe>
+
+<iframe src=\"/interactive/il_community_levels.html\" width=\"49%\" height=\"300\"> 
+</iframe>
+</div>
 
 ![Illinois CDC_vax_combined map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_vax_combined.png)
 
