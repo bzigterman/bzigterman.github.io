@@ -1189,13 +1189,11 @@ Definitions from the CDC:
 
 ![IL CDC_cases_transmission_IL map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_cases_transmission.png)
 
-<div class = \"box\">
-<iframe src=\"/interactive/il_new_cases.html\" width=\"49%\" height=\"300\"> 
-</iframe>
-
 <iframe src=\"/interactive/il_community_levels.html\" width=\"49%\" height=\"300\"> 
 </iframe>
-</div>
+
+<iframe src=\"/interactive/il_new_cases.html\" width=\"49%\" height=\"300\"> 
+</iframe>
 
 ![Illinois CDC_vax_combined map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_vax_combined.png)
 
