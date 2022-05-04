@@ -950,10 +950,10 @@ html {
 </div>
 
 <div class = "hcharts">
-<iframe src="/interactive/il_community_levels.html" width="49%" height="300"> 
+<iframe src="/interactive/il_community_levels.html" width="100%" height="300"> 
 </iframe>
 
-<iframe src="/interactive/il_new_cases.html" width="49%" height="300"> 
+<iframe src="/interactive/il_new_cases.html" width="100%" height="300"> 
 </iframe>
 </div>
 
