@@ -9,28 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:14 AM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/2022/05/04/world/eu-russia-oil-ban.html">E.U. to Propose Total Ban on Russian Oil Imports</a> NYT: The  proposal will be presented in detail to E.U. ambassadors Wednesday and is expected to be adopted by the end of the week. 
+ <p class="updated_time"> 02:05 AM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/2022/05/04/world/asia/north-korea-missile-test.html">North Korea Launches Ballistic Missile Ahead of Yoon’s Inauguration</a> NYT: Kim Jong-un has sought to improve the North’s nuclear capabilities and gain diplomatic leverage with Washington and the incoming administration of Yoon Suk-yeol. 
  <p class="updated_time"> 01:21 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096533640/as-u-s-may-restrict-abortion-other-nations-are-easing-access">As U.S. may restrict abortion, other nations are easing access</a> NPR: Recent legislative activities in countries show the U.S. risks being out of step with the progress that the rest of the world is making in protecting sexual and reproductive rights. 
- <p class="updated_time"> 01:06 AM CT, May. 04 </p> 
- <a href="https://www.nytimes.com/2022/05/04/world/asia/north-korea-missile-test.html">North Korea Launches Ballistic Missile Ahead of Yoon’s Inauguration</a> NYT: Kim Jong-un has sought to improve the North’s nuclear capabilities and gain diplomatic leverage with Washington and the incoming administration of Yoon Suk-yeol. 
- <p class="updated_time"> 12:56 AM CT, May. 04 </p> 
+ <p class="updated_time"> 01:19 AM CT, May. 04 </p> 
  <a href="https://www.wsj.com/articles/ukraine-needs-support-of-global-business-president-zelensky-says-at-ceo-summit-11651604137">Zelensky Says Companies Are Supporting Russia’s ‘War Machine’ if They Stay There</a> WSJ: Zelensky Says Companies Are Supporting Russia’s ‘War Machine’ if They Stay There 
+ <p class="updated_time"> 12:19 AM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
  <p class="updated_time"> 12:01 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/live/2022/05/03/world/ukraine-russia-war-news">What Happened on Day 69 of the War in Ukraine</a> NYT: Western leaders, including President Biden, Boris Johnson and Emmanuel Macron, sought to capitalize on Russia’s apparent lack of battlefield momentum to show Ukraine support and strengthen its resolve, and its arsenal. 
- <p class="updated_time"> 11:56 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-civilians-describe-desperate-efforts-to-flee-bombed-out-mariupol-11651572375">Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol</a> WSJ: Ukrainian Civilians Describe Desperate Efforts to Flee Bombed-Out Mariupol 
- <p class="updated_time"> 10:56 PM CT, May. 03 </p> 
+ <p class="updated_time"> 11:19 PM CT, May. 03 </p> 
  <a href="https://www.wsj.com/articles/europe-moves-to-sanction-russia-again-closing-in-on-oil-embargo-11651597785">Europe Moves to Sanction Russia Again</a> WSJ: Europe Moves to Sanction Russia Again 
+ <p class="updated_time"> 10:19 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 10:05 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61311527?at_medium=RSS&at_campaign=KARANGA">Mariupol steelworks evacuees: 'We were losing hope that we would ever get out'</a> BBC: Civilians evacuated from the besieged city of Mariupol finally arrive in the relative safety of Zaporizhzhia. 
- <p class="updated_time"> 09:56 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/russias-independent-media-battling-for-survival-defies-kremlin-crackdown-11651570206">Russia’s Independent Media Defies Kremlin Crackdown</a> WSJ: Russia’s Independent Media Defies Kremlin Crackdown 
  <p class="updated_time"> 09:43 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61315333?at_medium=RSS&at_campaign=KARANGA">Missing Alabama guard and inmate had 'special relationship'</a> BBC: A massive manhunt is underway for murder suspect Casey White and guard Vicky White. 
+ <p class="updated_time"> 09:19 PM CT, May. 03 </p> 
+ <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 09:16 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-61303221?at_medium=RSS&at_campaign=KARANGA">Musk says Twitter may see 'slight cost' for businesses and governments</a> BBC: The multi-billionaire Tesla boss also said the platform "will always be free for casual users". 
- <p class="updated_time"> 08:56 PM CT, May. 03 </p> 
- <a href="https://www.wsj.com/articles/cia-chief-met-saudi-crown-prince-last-month-in-push-to-mend-ties-11651588201">CIA Chief Met Saudi Crown Prince in Push to Mend Ties</a> WSJ: CIA Chief Met Saudi Crown Prince in Push to Mend Ties 
  <p class="updated_time"> 08:55 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/covid-white-house-correspondents-dinner.html">Handful of Covid Cases Emerge After White House Correspondents’ Dinner</a> NYT: Cases are not uncommon in Washington these days, and there is no certainty that those who tested positive were infected at the dinner. 
  <p class="updated_time"> 07:27 PM CT, May. 03 </p> 
@@ -173,8 +175,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/01/world/middleeast/egypt-ramadan-tv-el-sisi.html">In Egypt’s Big Ramadan TV Drama ‘The Choice’, the President Is the Hero</a> NYT: President Abdel Fattah el-Sisi says “The Choice” tells the truth about his rise. Critics say it’s a rewriting of recent history from an industry increasingly cowed under his rule. 
  <p class="updated_time"> 09:48 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/americas/honduras-xiomara-castro-womens-rights.html">She Promised to Empower Women. Will Honduras’s President Succeed?</a> NYT: The country’s first female leader, Xiomara Castro, is struggling to advance her feminist agenda 14 years after a coup ended the presidency of her husband, who pursued similar causes. 
- <p class="updated_time"> 05:42 AM CT, May. 01 </p> 
- <a href="https://www.nytimes.com/2022/05/01/world/asia/beijing-china-covid.html">Beijing Escalates Restrictions After Covid Outbreak, but No Full Lockdown</a> NYT: Officials in China’s capital are striving to contain a coronavirus outbreak while avoiding public anger of the kind that has erupted in Shanghai. 
  <p class="updated_time"> 04:00 AM CT, May. 01 </p> 
  <a href="https://www.nytimes.com/2022/05/01/world/asia/china-covid-zero-xi-jinping.html">Inside China’s Zero-Covid Fortress, Xi Jinping Admits No Doubts</a> NYT: As the lockdown of Shanghai and outbreaks in Beijing and elsewhere batter the economy, China’s leader keeps a distance from the politically charged issue. 
 
