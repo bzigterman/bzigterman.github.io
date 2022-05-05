@@ -9,41 +9,41 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:16 AM CT, May. 05 </p> 
+ <p class="updated_time"> 06:24 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/05/05/world/ukraine-russia-war-news">Ukraine Live Updates: ‘Bloody Battles’ as Russia Tries to Oust Last Fighters From Mariupol</a> NYT: Russian forces breached Ukrainian defenses around a steel plant where fighters and civilians have been sheltering. Gaining full control of Mariupol would allow President Vladimir Putin to claim a victory days before a highly symbolic Russian holiday. 
- <p class="updated_time"> 06:16 AM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/world/africa/elon-musk-south-africa.html">In Musk’s Past, a South Africa Rife With Misinformation and White Privilege</a> NYT: Elon Musk grew up in elite, nearly all white enclaves littered with anti-Black government propaganda and sheltered from the atrocities of apartheid. 
- <p class="updated_time"> 06:11 AM CT, May. 05 </p> 
+ <p class="updated_time"> 06:21 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/uk-local-elections-northern-ireland.html">Local Elections in Britain, Scotland and Ireland: What to Watch For</a> NYT: National politics may not be front and center in voters’ minds, but how they cast their ballots could signal their opinions of the main parties. 
+ <p class="updated_time"> 06:18 AM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/world/africa/elon-musk-south-africa.html">In Musk’s Past, a South Africa Rife With Misinformation and White Privilege</a> NYT: Elon Musk grew up in elite, nearly all white enclaves littered with anti-Black government propaganda and sheltered from the atrocities of apartheid. 
  <p class="updated_time"> 06:01 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61332272?at_medium=RSS&at_campaign=KARANGA">Turkey's cost of living soars nearly 70%</a> BBC: Everyday goods including food and transport costs have seen among the biggest annual increases. 
  <p class="updated_time"> 06:01 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/africa/senegal-faidherbe-statue.html">In Senegal’s Former Capital, a Colonial Statue in Hiding Is No Longer Welcome</a> NYT: The city of Saint-Louis was shaped by Louis Faidherbe, a French governor who also led brutal military campaigns in West Africa. What to do with his legacy has divided Senegal. 
  <p class="updated_time"> 05:53 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/russian-exiles-foreign-agents-putin.html">Anti-Putin Russians Are Leaving, With a Push From the Kremlin</a> NYT: Many Russians who are designated “foreign agents” by the government view it as another form of repression that makes living in the country, or returning to it, untenable. 
- <p class="updated_time"> 05:18 AM CT, May. 05 </p> 
+ <p class="updated_time"> 05:33 AM CT, May. 05 </p> 
  <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
  <p class="updated_time"> 04:58 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61333747?at_medium=RSS&at_campaign=KARANGA">Dust storm and wildfires seen from space</a> BBC: Satellite images show gusts of up to 60mph blowing dust across Colorado and plumes of smoke in New Mexico. 
  <p class="updated_time"> 04:50 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61332324?at_medium=RSS&at_campaign=KARANGA">China building collapse: Woman rescued from rubble after six days</a> BBC: Dozens of people are still feared missing in the debris of a fallen building in the city of Changsha. 
+ <p class="updated_time"> 04:33 AM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
  <p class="updated_time"> 04:31 AM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096738094/roe-v-wade-abortion-overturn-impact-world">What overturning Roe v. Wade could mean for the rest of the world </a> NPR: If the U.S. scraps the constitutional right to abortion, human rights advocates warn that repressive governments across the globe could use it to justify crackdowns on their citizens. 
  <p class="updated_time"> 04:27 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/05/04/world/covid-19-mandates-vaccine-cases/covid-19-has-been-a-leading-cause-of-maternal-deaths-in-latin-america-a-who-official-says">Covid-19 has been a leading cause of maternal deaths in Latin America, a W.H.O. official says.</a> NYT: Officials say pregnant women in the region face an elevated risk of developing severe disease from a coronavirus infection. 
- <p class="updated_time"> 04:18 AM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
  <p class="updated_time"> 04:00 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/business/china-shanghai-covid-lockdown-economy.html">China’s Covid Lockdowns Leave Millions Out of Work</a> NYT: Migrant workers and recent college graduates have been hit hardest by shuttered factories, closed construction sites and an anemic job market. 
  <p class="updated_time"> 04:00 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/books/carlo-rovelli-physicist-book.html">Searching for What Connects Us, Carlo Rovelli Explores Beyond Physics</a> NYT: The physicist ranges widely — from black holes to Buddhism to climate change — in his new book, “There Are Places in the World Where Rules Are Less Important Than Kindness.” 
  <p class="updated_time"> 04:00 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/climate/wildfires-prescribed-burn.html">Why Climate Change Makes It Harder to Fight Fire With Fire</a> NYT: Worsening wildfires in recent years have led officials to embrace planned fires to thin forests before disaster strikes. But the warming world is making it tougher to do safely. 
+ <p class="updated_time"> 03:33 AM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/chinas-services-sector-is-in-the-doldrums-as-covid-19-lockdowns-bite-11651739499">China’s Services Sector Is in the Doldrums as Covid-19 Lockdowns Bite</a> WSJ: China’s Services Sector Is in the Doldrums as Covid-19 Lockdowns Bite 
  <p class="updated_time"> 03:20 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61257448?at_medium=RSS&at_campaign=KARANGA">Wealthy Russians flee to Dubai to avoid sanctions</a> BBC: Property purchases by Russians in Dubai surged by 67% in the first quarter of 2022, a report says. 
- <p class="updated_time"> 03:18 AM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/chinas-services-sector-is-in-the-doldrums-as-covid-19-lockdowns-bite-11651739499">China’s Services Sector Is in the Doldrums as Covid-19 Lockdowns Bite</a> WSJ: China’s Services Sector Is in the Doldrums as Covid-19 Lockdowns Bite 
- <p class="updated_time"> 02:18 AM CT, May. 05 </p> 
+ <p class="updated_time"> 02:33 AM CT, May. 05 </p> 
  <a href="https://www.wsj.com/articles/eu-proposes-ban-on-russian-oil-imports-11651648950">EU Proposes Ban on Russian Oil Imports</a> WSJ: EU Proposes Ban on Russian Oil Imports 
  <p class="updated_time"> 02:05 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61329067?at_medium=RSS&at_campaign=KARANGA">Amber Heard says Johnny Depp struck her when on drugs</a> BBC: Taking the stand, Amber Heard alleges a pattern of violence from the Pirates of the Caribbean star. 
@@ -51,7 +51,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/05/world/europe/uk-elections-boris-johnson.html">Why Boris Johnson Will Be Tested in UK by Local Elections</a> NYT: The British prime minister is under fire for lockdown-breaking parties. But many voters are skeptical that the opposition can solve issues such as soaring prices. 
  <p class="updated_time"> 02:00 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/business/china-covid-lockdown-europe.html">China’s Covid Policies Have European Companies Wary of Investing</a> NYT: Lockdowns and supply chain issues have soured European businesses in China on the idea of further investment in the country, a survey finds. 
- <p class="updated_time"> 01:18 AM CT, May. 05 </p> 
+ <p class="updated_time"> 01:33 AM CT, May. 05 </p> 
  <a href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618">In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</a> WSJ: In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns 
  <p class="updated_time"> 01:05 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/pakistan-baluchistan-violence.html">In Pakistan, Violence by Baluch Separatists Destabilizes Region</a> NYT: A government plagued by volatility is trying to quell a separatist movement in Baluchistan while also fighting other insurgencies and striving for economic development. 
