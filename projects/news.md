@@ -9,33 +9,39 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/world/europe/russian-exiles-foreign-agents-putin.html">Anti-Putin Russians Are Leaving, With a Push From the Kremlin</a> NYT: Many Russians who are designated “foreign agents” by the government view it as another form of repression that makes living in the country, or returning to it, untenable. 
+ <p class="updated_time"> 04:00 AM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/books/carlo-rovelli-physicist-book.html">Searching for What Connects Us, Carlo Rovelli Explores Beyond Physics</a> NYT: The physicist ranges widely — from black holes to Buddhism to climate change — in his new book, “There Are Places in the World Where Rules Are Less Important Than Kindness.” 
+ <p class="updated_time"> 04:00 AM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/climate/wildfires-prescribed-burn.html">Why Climate Change Makes It Harder to Fight Fire With Fire</a> NYT: Worsening wildfires in recent years have led officials to embrace planned fires to thin forests before disaster strikes. But the warming world is making it tougher to do safely. 
+ <p class="updated_time"> 03:27 AM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
  <p class="updated_time"> 03:20 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61257448?at_medium=RSS&at_campaign=KARANGA">Wealthy Russians flee to Dubai to avoid sanctions</a> BBC: Property purchases by Russians in Dubai surged by 67% in the first quarter of 2022, a report says. 
- <p class="updated_time"> 03:01 AM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
+ <p class="updated_time"> 02:27 AM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
  <p class="updated_time"> 02:11 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">What Happened on Day 70 of the War in Ukraine</a> NYT: Some officials feared that Vladimir V. Putin would use Russia’s upcoming Victory Day holiday, which celebrates the Soviet triumph over Nazi Germany, to mobilize his people for a broader war. 
  <p class="updated_time"> 02:05 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61329067?at_medium=RSS&at_campaign=KARANGA">Amber Heard says Johnny Depp struck her when on drugs</a> BBC: Taking the stand, Amber Heard alleges a pattern of violence from the Pirates of the Caribbean star. 
- <p class="updated_time"> 02:01 AM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
  <p class="updated_time"> 02:00 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/uk-elections-boris-johnson.html">Why Boris Johnson Will Be Tested in UK by Local Elections</a> NYT: The British prime minister is under fire for lockdown-breaking parties. But many voters are skeptical that the opposition can solve issues such as soaring prices. 
  <p class="updated_time"> 02:00 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/business/china-covid-lockdown-europe.html">China’s Covid Policies Have European Companies Wary of Investing</a> NYT: Lockdowns and supply chain issues have soured European businesses in China on the idea of further investment in the country, a survey finds. 
+ <p class="updated_time"> 01:27 AM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/chinas-services-sector-is-in-the-doldrums-as-covid-19-lockdowns-bite-11651739499">China’s Services Sector Is in the Doldrums as Covid-19 Lockdowns Bite</a> WSJ: China’s Services Sector Is in the Doldrums as Covid-19 Lockdowns Bite 
  <p class="updated_time"> 01:05 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/pakistan-baluchistan-violence.html">In Pakistan, Violence by Baluch Separatists Destabilizes Region</a> NYT: A government plagued by volatility is trying to quell a separatist movement in Baluchistan while also fighting other insurgencies and striving for economic development. 
- <p class="updated_time"> 01:01 AM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169">As Coffins Come Home, Russians Confront Toll of Ukraine Invasion</a> WSJ: As Coffins Come Home, Russians Confront Toll of Ukraine Invasion 
  <p class="updated_time"> 12:40 AM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096804291/australian-prime-minister-defends-his-countrys-ties-to-solomons">Australian prime minister defends his country's ties to Solomons</a> NPR: Scott Morrison says he followed security officials' advice in managing relations with the Solomon Islands after the South Pacific neighbor's leader alleged he'd been threatened with invasion. 
- <p class="updated_time"> 12:01 AM CT, May. 05 </p> 
+ <p class="updated_time"> 12:27 AM CT, May. 05 </p> 
  <a href="https://www.wsj.com/articles/eu-proposes-ban-on-russian-oil-imports-11651648950">EU Proposes Ban on Russian Oil Imports</a> WSJ: EU Proposes Ban on Russian Oil Imports 
  <p class="updated_time"> 11:57 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61328947?at_medium=RSS&at_campaign=KARANGA">Donbas fighting: Risking capture to evacuate the vulnerable from the front line</a> BBC: Civilian volunteers are going to the front line, but some have been detained by Russian forces. 
  <p class="updated_time"> 11:47 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/india-russia-oil.html">India Finds Russian Oil an Irresistible Deal, No Matter the Diplomatic Pressure</a> NYT: A parade of emissaries have urged a harder line on Russia. But India’s political neutrality over the war in Ukraine has expanded into economic opportunism. 
- <p class="updated_time"> 11:01 PM CT, May. 04 </p> 
+ <p class="updated_time"> 11:27 PM CT, May. 04 </p> 
  <a href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618">In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</a> WSJ: In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns 
  <p class="updated_time"> 10:32 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/stanislav-shushkevich-dead.html">Stanislav Shushkevich, First Leader of Post-Soviet Belarus, Dies at 87</a> NYT: He helped formalize the breakup of the Soviet Union in 1991, led his country until 1994, then became a vocal critic of his successor, Aleksandr G. Lukashenko. 
@@ -167,16 +173,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/world/russia-sanctions-ukraine.html">What Sanctions Have Been Imposed on Russia?</a> NYT: Our reporters answer readers’ questions about Russia’s invasion of Ukraine. Many of you asked about economic penalties and how Putin could respond. 
  <p class="updated_time"> 01:12 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/australia/scott-johnson-antigay-killing.html">Australian Gets 12 Years for Anti-Gay Killing of an American in 1988</a> NYT: Scott Johnson, a U.S. graduate student, was pushed off a cliff, in a case that was first ruled a suicide but that his brother refused to let go of. 
- <p class="updated_time"> 11:15 PM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/world/asia/hong-kong-inexpensive-dining.html">In Hong Kong, Cheap Dining Options Are All the Rage</a> NYT: In a city pummeled by political upheaval, economic downturn and the pandemic, bare-bones ‘two dishes and rice’ restaurants have become a go-to destination across all social classes. 
  <p class="updated_time"> 10:35 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/mariupol-evacuation-annex-donbas.html">Painful Stories Emerge From Mariupol, While Combat Rages to the East</a> NYT: With its forces making only slow progress and enduring heavy losses, Russia now plans to annex eastern parts of Ukraine after a sham election, the U.S. says. 
  <p class="updated_time"> 04:15 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/russia-invasion-ukraine-elections.html">Russia Plans to Annex Parts of Ukraine with ‘Sham’ Elections, U.S. Diplomat Says</a> NYT: The official said that Russia may also try to take over parts of Ukraine by imposing “puppets and proxies” in local governments and forcing out democratically elected officials. 
  <p class="updated_time"> 01:45 PM CT, May. 02 </p> 
  <a href="https://www.nytimes.com/2022/05/02/world/europe/kyiv-ukraine-russia-war.html">In Kyiv, Residents Cautiously Embrace a Sense of Normalcy</a> NYT: A month after the Ukrainian Army defeated the Russian forces that had partly encircled Ukraine’s capital, tension is slowly seeping out of the city. 
- <p class="updated_time"> 12:16 PM CT, May. 02 </p> 
- <a href="https://www.nytimes.com/2022/05/02/world/asia/rohingya-bangladesh-school-closings.html">Bangladesh Shutters Dozens of Schools Set Up by Rohingya in Camps</a> NYT: More than 30 schools, teaching tens of thousands of Rohingya students, were closed in Bangladesh, where officials are said to have feared the schools would encourage the refugees to stay permanently. 
 
 
 </details>
@@ -184,6 +186,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:15 AM CT, May. 05 </p> 
+ <a href="https://www.npr.org/2022/05/05/1096809747/overturning-roe-v-wade-could-erode-other-rights-such-as-same-sex-marriage">Overturning Roe v. Wade could erode other rights such as same-sex marriage</a> NPR: Democrats are warning that the draft opinion from Justice Samuel Alito that would strike down Roe v. Wade could threaten other rights rooted in privacy — including marriage and contraception. 
+ <p class="updated_time"> 04:15 AM CT, May. 05 </p> 
+ <a href="https://www.npr.org/2022/05/05/1096809684/attention-turns-to-midterms-after-supreme-court-draft-decision-is-leaked">Attention turns to midterms after Supreme Court draft decision is leaked</a> NPR: Because abortion rights would be decided in states if the Supreme Court were to overturn Roe v. Wade, the leaked draft has brought new midterm campaign enthusiasm to Georgia and other swing states. 
+ <p class="updated_time"> 04:00 AM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/us/politics/arizona-midterms-swing.html">In Arizona, a Swing State Swings to the Far Right</a> NYT: In the run-up to an August primary, a number of Republicans on the ballot in Arizona — like those in Ohio — have rushed to embrace Donald J. Trump and his stolen-election falsehoods. 
+ <p class="updated_time"> 04:00 AM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/books/books-about-abortion.html">10 Books on Abortion to Understand the Roe v. Wade Debate</a> NYT: Nearly 50 years ago, the Supreme Court legalized abortion. The decision has since divided the country. Now that the issue is before the court again, here are 10 books that help frame the debate. 
  <p class="updated_time"> 03:30 AM CT, May. 05 </p> 
  <a href="https://www.politico.com/news/2022/05/05/trump-influence-over-gop-elections-00030161">Trump reasserts dominance over GOP</a> Politico: His Ohio romp is a strong signal that — for all the talk of his waning influence — the GOP is still in his thrall. 
  <p class="updated_time"> 02:15 AM CT, May. 05 </p> 
@@ -282,8 +292,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/04/abortion-rights-debate-canada-00029864">‘Fortuitous timing’: U.S. fight galvanizes abortion debate in Canada</a> Politico: Abortion rights are a perennial wedge issue in Canadian elections. 
  <p class="updated_time"> 03:30 AM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/supreme-court-leak-probe-faces-slew-of-obstacles-and-unknowns-00029841">Roberts investigation could make the Supreme Court very uncomfortable</a> Politico: Separation of powers concerns will likely arise should the DOJ or FBI get involved in investigating the Supreme Court's draft opinion breach. 
- <p class="updated_time"> 01:21 AM CT, May. 04 </p> 
- <a href="https://www.npr.org/2022/05/04/1096533640/as-u-s-may-restrict-abortion-other-nations-are-easing-access">As U.S. may restrict abortion, other nations are easing access</a> NPR: Recent legislative activities in countries show the U.S. risks being out of step with the progress that the rest of the world is making in protecting sexual and reproductive rights. 
  <p class="updated_time"> 12:19 AM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/trump-backed-candidates-that-won-ohio-indiana-primaries-00029645">Here are the Trump-backed candidates who won Tuesday's primaries</a> Politico: Donald Trump's endorsement record was unblemished in the Ohio and Indiana primaries. 
  <p class="updated_time"> 12:18 AM CT, May. 04 </p> 
@@ -302,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/03/jd-vance-win-ohio-primary-00029881">A mole hunt, a secret website and Peter Thiel's big risk: How J.D. Vance won his primary</a> Politico: The former Trump critic leaned on a super PAC and his billionaire patron to put him in position for Trump's all-important endorsement. 
  <p class="updated_time"> 09:56 PM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/supreme-court-abortion-privacy-rights-00029871">What falls after Roe? Liberals warn of a privacy rights nightmare.</a> Politico: The Alito opinion claims other cases aren't in jeopardy. 
- <p class="updated_time"> 08:36 PM CT, May. 03 </p> 
- <a href="https://www.npr.org/2022/05/03/1095662187/ohio-republican-senate-primary-results-vance-trump">After Trump's endorsement, J.D. Vance wins a crowded Ohio GOP Senate race, the AP says</a> NPR: Author J.D. Vance emerged from a crowded Republican primary in Ohio, and now becomes the favorite in the general election in the GOP-leaning state. 
  <p class="updated_time"> 07:38 PM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/biden-roe-abortion-00029828">Biden wants to make the Roe v. Wade decision about much more than abortion</a> Politico: Responding to reports that the Supreme Court is ready to overturn Roe, the president warned that "other basic rights" will come next. 
  <p class="updated_time"> 07:26 PM CT, May. 03 </p> 
@@ -312,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/us/politics/supreme-court-leak-roe-v-wade-abortion.html">A Supreme Court in Disarray After an Extraordinary Breach</a> NYT: The leak of a draft majority opinion overruling Roe v. Wade raises questions about motives, methods and whether defections are still possible. 
  <p class="updated_time"> 06:19 PM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/democrats-abortion-if-roe-v-wade-is-overturned-00029794">What can Dems do if Roe v. Wade is overturned? Not much.</a> Politico: With lawmakers stymied, much of the abortion-rights response is expected to fall to medical and activist groups. 
- <p class="updated_time"> 06:08 PM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/us/politics/abortion-midterms-supreme-court.html">Overnight, Midterms Get a White-Hot New Focus: Abortion</a> NYT: Exultant Republicans planned new bans. Democrats, who have struggled to rally around abortion rights, hoped a bruising Supreme Court loss could jolt their voters into action. 
  <p class="updated_time"> 06:04 PM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/ohio-senate-tuesday-primaries-2022-00029800">Trump-backed Vance wins Ohio GOP Senate nod</a> Politico: Two key House districts in Indiana and another handful in Ohio also have big primaries. 
  <p class="updated_time"> 05:02 PM CT, May. 03 </p> 
