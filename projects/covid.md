@@ -439,21 +439,21 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">122</td>
-<td class="gt_row gt_right">106</td>
-<td class="gt_row gt_right">&minus;13%</td></tr>
+<td class="gt_row gt_right">113</td>
+<td class="gt_row gt_right">124</td>
+<td class="gt_row gt_right">+10%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">8</td>
 <td class="gt_row gt_right gt_striped">12</td>
 <td class="gt_row gt_right gt_striped">+39%</td></tr>
     <tr><td class="gt_row gt_left">Monthly Deaths<sup class="gt_footnote_marks gt_asterisk">*</sup></td>
-<td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">1</td>
-<td class="gt_row gt_right">+Inf%</td></tr>
+<td class="gt_row gt_right">2</td>
+<td class="gt_row gt_right">+100%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">349</td>
-<td class="gt_row gt_right gt_striped">243</td>
-<td class="gt_row gt_right gt_striped">&minus;30%</td></tr>
+<td class="gt_row gt_right gt_striped">398</td>
+<td class="gt_row gt_right gt_striped">239</td>
+<td class="gt_row gt_right gt_striped">&minus;40%</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">134,000</td>
 <td class="gt_row gt_right">135,000</td>
@@ -465,12 +465,12 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Wednesday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
     </tr>
   </tfoot>
   <tfoot class="gt_footnotes">
     <tr>
-      <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 288  total deaths</td>
+      <td class="gt_footnote" colspan="4"><sup class="gt_footnote_marks gt_asterisk">*</sup> 289  total deaths</td>
     </tr>
   </tfoot>
 </table>
@@ -1880,8 +1880,8 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">728K</td>
-<td class="gt_row gt_right">559K</td>
-<td class="gt_row gt_right">&minus;23%</td></tr>
+<td class="gt_row gt_right">550K</td>
+<td class="gt_row gt_right">&minus;24%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">3K</td>
 <td class="gt_row gt_right gt_striped">2K</td>
@@ -1912,10 +1912,10 @@ html {
 
 As of Wednesday, the 14-day percent change in average new cases was:
   
-- -14% in Champaign County
+- 10% in Champaign County
 - 68% in Illinois
 - 57% in the United States
-- -23% worldwide
+- -24% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png"
