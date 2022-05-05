@@ -9,36 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:51 PM CT, May. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">Ukraine Live Updates: As Victory Day Looms in Russia, Guesswork Grows Over Putin’s War Goals</a> NYT: Ukraine and NATO see the coming Russian holiday, which celebrates the Soviet triumph over Nazi Germany, as a stage for the Russian president to proclaim a turn in the war. 
+ <p class="updated_time"> 12:40 AM CT, May. 05 </p> 
+ <a href="https://www.npr.org/2022/05/05/1096804291/australian-prime-minister-defends-his-countrys-ties-to-solomons">Australian prime minister defends his country's ties to Solomons</a> NPR: Scott Morrison says he followed security officials' advice in managing relations with the Solomon Islands after the South Pacific neighbor's leader alleged he'd been threatened with invasion. 
+ <p class="updated_time"> 12:04 AM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">What Happened on Day 70 of the War in Ukraine</a> NYT: Some officials feared that Vladimir V. Putin would use Russia’s upcoming Victory Day holiday, which celebrates the Soviet triumph over Nazi Germany, to mobilize his people for a broader war. 
+ <p class="updated_time"> 11:57 PM CT, May. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61328947?at_medium=RSS&at_campaign=KARANGA">Donbas fighting: Risking capture to evacuate the vulnerable from the front line</a> BBC: Civilian volunteers are going to the front line, but some have been detained by Russian forces. 
  <p class="updated_time"> 11:47 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/india-russia-oil.html">India Finds Russian Oil an Irresistible Deal, No Matter the Diplomatic Pressure</a> NYT: A parade of emissaries have urged a harder line on Russia. But India’s political neutrality over the war in Ukraine has expanded into economic opportunism. 
+ <p class="updated_time"> 11:44 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
  <p class="updated_time"> 11:26 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/pakistan-baluchistan-violence.html">In Pakistan, Violence by Baluch Separatists Destabilizes Region</a> NYT: A government plagued by volatility is trying to quell a separatist movement in Baluchistan while also fighting other insurgencies and striving for economic development. 
- <p class="updated_time"> 10:57 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
+ <p class="updated_time"> 10:44 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
  <p class="updated_time"> 10:32 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/stanislav-shushkevich-dead.html">Stanislav Shushkevich, First Leader of Post-Soviet Belarus, Dies at 87</a> NYT: He helped formalize the breakup of the Soviet Union in 1991, led his country until 1994, then became a vocal critic of his successor, Aleksandr G. Lukashenko. 
  <p class="updated_time"> 10:15 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-putin-superyacht-sanctions.html">Putin-Linked Superyacht May Elude Sanctions, by Setting Sail</a> NYT: The Italian police are in a race to finish investigating a $700 million vessel thought to be the Russian president’s — before it’s out of their reach. 
  <p class="updated_time"> 10:11 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-61329641?at_medium=RSS&at_campaign=KARANGA">Uber loses $5.9bn as Asia investment values fall</a> BBC: The firm said almost all of that loss was a due to falls in the value of investments in other companies. 
- <p class="updated_time"> 09:57 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
- <p class="updated_time"> 09:12 PM CT, May. 04 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61328842?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands: Andrew Fahie to plead not guilty in drugs case</a> BBC: Florida judge says Andrew Fahie can be released on a $500,000 bond ahead of trial for drug smuggling. 
- <p class="updated_time"> 08:57 PM CT, May. 04 </p> 
+ <p class="updated_time"> 09:44 PM CT, May. 04 </p> 
  <a href="https://www.wsj.com/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169">As Coffins Come Home, Russians Confront Toll of Ukraine Invasion</a> WSJ: As Coffins Come Home, Russians Confront Toll of Ukraine Invasion 
+ <p class="updated_time"> 08:44 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/eu-proposes-ban-on-russian-oil-imports-11651648950">EU Proposes Ban on Russian Oil Imports</a> WSJ: EU Proposes Ban on Russian Oil Imports 
  <p class="updated_time"> 08:05 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61329167?at_medium=RSS&at_campaign=KARANGA">Bill Gates on Elon Musk feud and Jeffrey Epstein meetings</a> BBC: The Microsoft tycoon talks to the BBC about divorce, conspiracy theories and Elon Musk. 
- <p class="updated_time"> 07:57 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/eu-proposes-ban-on-russian-oil-imports-11651648950">EU Proposes Ban on Russian Oil Imports</a> WSJ: EU Proposes Ban on Russian Oil Imports 
+ <p class="updated_time"> 07:44 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618">In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</a> WSJ: In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns 
  <p class="updated_time"> 07:38 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61329507?at_medium=RSS&at_campaign=KARANGA">Otoniel: Colombia drug kingpin extradited to US</a> BBC: Dairo Antonio Úsuga, better known as Otoniel, was captured in October, ending a seven-year manhunt. 
  <p class="updated_time"> 07:11 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-victory-day.html">What Is Russia’s May 9 Victory Day, and What Might Putin Say?</a> NYT: In the two decades that Vladimir V. Putin has led Russia, the country’s Victory Day marches, honoring Soviet sacrifices of World War II, have transformed into huge military spectacles and nostalgic celebrations. 
- <p class="updated_time"> 06:57 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618">In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</a> WSJ: In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns 
  <p class="updated_time"> 06:18 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61307148?at_medium=RSS&at_campaign=KARANGA">How Covid-scarred Shanghai will finally exit lockdown</a> BBC: A mass clean-up is sweeping through Shanghai, with the city's gradual reopening expected to follow. 
  <p class="updated_time"> 06:08 PM CT, May. 04 </p> 
@@ -53,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61329067?at_medium=RSS&at_campaign=KARANGA">Amber Heard says Johnny Depp struck her when on drugs</a> BBC: Taking the stand, Amber Heard alleges a pattern of violence from the Pirates of the Caribbean star. 
  <p class="updated_time"> 05:24 PM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096699894/europe-eu-ban-russia-oil-imports-gasoline-gas-prices">What Europe's ban of Russian oil could mean for energy markets – and your gas prices</a> NPR: The EU ban on Russian oil imports will likely lead to higher crude and gasoline prices, further upending energy markets. 
- <p class="updated_time"> 05:12 PM CT, May. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61327638?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Zelensky plea as Russians seek Mariupol endgame</a> BBC: The Ukrainian president appeals for fresh UN help as Russians reportedly enter the city's last holdout. 
  <p class="updated_time"> 05:00 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/middleeast/turkey-syria-million-homes.html">Turkey’s Plan to Draw Refugees Back to Syria: Homes for 1 Million</a> NYT: President Recep Tayyip Erdogan says Turkey will build homes, schools, hospitals and more in northern Syria, but experts question whether refugees will return willingly. 
  <p class="updated_time"> 04:32 PM CT, May. 04 </p> 
@@ -145,8 +145,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/04/1096545061/eu-leader-calls-for-russian-oil-ban-in-new-set-of-sanctions">EU leader calls for Russian oil ban in new set of sanctions</a> NPR: The EU chief concedes that that getting all 27 member countries — some of them highly dependent on Russia for energy supplies — to agree on oil sanctions will be extremely difficult. 
  <p class="updated_time"> 02:05 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/north-korea-missile-test.html">North Korea Launches Ballistic Missile Ahead of Yoon’s Inauguration</a> NYT: Kim Jong-un has sought to improve the North’s nuclear capabilities and gain diplomatic leverage with Washington and the incoming administration of Yoon Suk-yeol. 
- <p class="updated_time"> 01:21 AM CT, May. 04 </p> 
- <a href="https://www.npr.org/2022/05/04/1096533640/as-u-s-may-restrict-abortion-other-nations-are-easing-access">As U.S. may restrict abortion, other nations are easing access</a> NPR: Recent legislative activities in countries show the U.S. risks being out of step with the progress that the rest of the world is making in protecting sexual and reproductive rights. 
  <p class="updated_time"> 06:36 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61295238?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: The divisions behind the country's united protests</a> BBC: Can protests sparked by the economic crisis bridge Sri Lanka's religious and ethnic divides? 
  <p class="updated_time"> 06:30 PM CT, May. 03 </p> 
@@ -201,7 +199,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:01 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/us/politics/covid-white-house-correspondents-dinner.html">Virus Cases Grow After White House Correspondents Dinner</a> NYT: Secretary of State Antony J. Blinken was among the attendees reporting coronavirus infections on Wednesday. 
  <p class="updated_time"> 08:50 PM CT, May. 04 </p> 
- <a href="https://www.nytimes.com/2022/05/04/us/politics/jd-vance-trump-ohio-fox-news.html">Tucker, Thiel and Trump: How J.D. Vance Won in Ohio</a> NYT: A big endorsement was decisive, but a cable news megaphone and a huge infusion of spending helped pave the way to victory. 
+ <a href="https://www.nytimes.com/2022/05/04/us/politics/jd-vance-trump-ohio-fox-news.html">How J.D. Vance Won in Ohio: A Trump Endorsement, a Fox News Stage and Money</a> NYT: A big endorsement was decisive, but a cable news megaphone and a huge infusion of spending helped pave the way to victory. 
  <p class="updated_time"> 07:45 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/us/politics/antony-blinken-covid-positive.html">Secretary Blinken Tests Positive for the Coronavirus</a> NYT: A State Department spokesman said Secretary of State Antony J. Blinken had not seen President Biden in several days. 
  <p class="updated_time"> 07:39 PM CT, May. 04 </p> 
@@ -314,6 +312,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/03/biden-roe-abortion-00029828">Biden wants to make the Roe v. Wade decision about much more than abortion</a> Politico: Responding to reports that the Supreme Court is ready to overturn Roe, the president warned that "other basic rights" will come next. 
  <p class="updated_time"> 07:26 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/uss-cole-waterboarding-torture.html">C.I.A. Captive Was Too Small for Waterboard, Interrogator Testifies</a> NYT: The former C.I.A. contract psychologist described both approved and unapproved interrogation techniques that he observed and carried out in the black sites. 
+ <p class="updated_time"> 06:46 PM CT, May. 03 </p> 
+ <a href="https://www.nytimes.com/2022/05/03/us/politics/supreme-court-leak-roe-v-wade-abortion.html">A Supreme Court in Disarray After an Extraordinary Breach</a> NYT: The leak of a draft majority opinion overruling Roe v. Wade raises questions about motives, methods and whether defections are still possible. 
  <p class="updated_time"> 06:19 PM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/democrats-abortion-if-roe-v-wade-is-overturned-00029794">What can Dems do if Roe v. Wade is overturned? Not much.</a> Politico: With lawmakers stymied, much of the abortion-rights response is expected to fall to medical and activist groups. 
  <p class="updated_time"> 06:08 PM CT, May. 03 </p> 
