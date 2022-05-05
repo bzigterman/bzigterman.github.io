@@ -29,17 +29,13 @@ usa_cases <- usa_cases %>%
   mutate(date = ymd(as_date(report_date))) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE),
                             mday(date))) %>%
-  mutate(community_level = case_when(
-    CCL_community_burden_level_integer == 0 ~ "Low",
-    CCL_community_burden_level_integer == 1 ~ "Medium",
-    CCL_community_burden_level_integer == 2 ~ "High")) %>%
   mutate(
     new_cases_class = cut(x = as.numeric(cases_per_100K_7_day_count_change)/7,
                           breaks = c(0,5,15,25,35,50,100,Inf),
                           labels = c("0–5","5–15","15–25",
                                      "25–35","35–50","50–100","100+"),
                           include.lowest = TRUE,
-                          ordered_result = TRUE)) 
+                          ordered_result = TRUE))
 
 
 
@@ -99,7 +95,7 @@ il_community_levels <- usa_cases %>%
   filter(State == "IL") %>%
   mutate(value = CCL_community_burden_level_integer) %>%
   #mutate(value = community_level) %>%
-  select(fips, value,County,community_level) 
+  select(fips, value,County,CCL_community_burden_level) 
 
 champaign_point <- data.frame(
   name = "Champaign",
@@ -158,6 +154,77 @@ fig2 <- hcmap("countries/us/us-il-all",
   )
 fig2
 saveWidget(widget = fig2, file = "interactive/il_community_levels.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+il_transmission_levels <- usa_cases %>%
+  mutate(date = ymd(as_date(CCL_report_date))) %>%
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE),
+                            mday(date))) %>%
+  filter(State == "IL") %>%
+  mutate(value = community_transmission_level_integer) %>%
+  #mutate(value = community_level) %>%
+  select(fips, value,County,community_transmission_level, short_date) 
+
+champaign_point <- data.frame(
+  name = "Champaign",
+  lat = 40.116421,
+  lon =-88.243385,
+  z = 1
+)
+
+fig3 <- hcmap("countries/us/us-il-all",
+              data = il_transmission_levels,
+              value = "value",
+              joinBy = "fips",
+              nullColor = "#d3d3d3",
+              tooltip = list(pointFormat = "{point.name}: {point.community_transmission_level}"),
+              #dataLabels = list(enabled = TRUE, format = "{point.name}"),
+              name = "Level"
+) %>%
+  hc_add_series(
+    data = champaign_point,
+    type = "mappoint",
+    enableMouseTracking = FALSE
+  )  %>%
+  hc_title(text = "Community Transmission Levels")%>%
+  hc_caption(text = paste("Source: CDC. Latest data:",
+                          tail(il_transmission_levels$short_date,1))) %>%
+  hc_colorAxis(
+    dataClasses = 
+      #   list(
+      #   from = c(-.5, .5, 1.5),
+      #   to = c(.5, 1.5, 2.5),
+      #   color = c("#99d594","#ffffbf","#fc8d59"),
+      #   name = c("Low","Medium","High")
+      # )
+      list(
+        c(from = -0.5,
+          to = 0.5,
+          color = '#ffffd4',
+          name = 'low'),
+        c(from = 0.5,
+          to = 1.5,
+          color = '#fed98e',
+          name = 'moderate'),
+        c(from = 1.5,
+          to = 2.5,
+          color = '#fe9929',
+          name = 'substantial'),
+        c(from = 2.5,
+          to = 3.5,
+          color = '#cc4c02',
+          name = 'high'))
+  ) %>%
+  hc_legend(
+    #floating = TRUE,
+    align = "right",
+    verticalAlign = "bottom",
+    layout = "vertical",
+    valueDecimals = 0
+  )
+fig3
+saveWidget(widget = fig3, file = "interactive/il_transmission_levels.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
@@ -1191,11 +1258,12 @@ Definitions from the CDC:
 <iframe src=\"/interactive/il_community_levels.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
+<iframe src=\"/interactive/il_transmission_levels.html\" width=\"100%\" height=\"300\"> 
+</iframe>
+
 <iframe src=\"/interactive/il_new_cases.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 </div>
-
-![IL CDC_cases_transmission_IL map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_cases_transmission.png)
 
 ![Illinois CDC_vax_combined map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_vax_combined.png)
 
