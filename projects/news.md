@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:41 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/05/world/israel-attack">Live Updates: 3 People Reported Killed in Attack in Israel</a> NYT: The attack follows a wave of violence by Arab assailants that has already killed 14 people in Israel since mid-March. 
+ <p class="updated_time"> 03:39 PM CT, May. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61339174?at_medium=RSS&at_campaign=KARANGA">Jealous Depp kicked me over Franco 'affair' - Heard</a> BBC: Amber Heard says jealousy of actor James Franco sent Johnny Depp into a rage on a plane. 
+ <p class="updated_time"> 03:29 PM CT, May. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61339751?at_medium=RSS&at_campaign=KARANGA">Elad attack: Three dead in central Israeli city</a> BBC: Police say the incident is a suspected terror attack, which follows a surge in violence. 
  <p class="updated_time"> 03:29 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/americas/abortion-activists-movements.html">Roe Inspired Activists Worldwide, Who May Be Rethinking Strategy</a> NYT: Feminist movements in some countries similarly sought abortion protections in their courts, but for others, the goal was legislative change. 
  <p class="updated_time"> 03:28 PM CT, May. 05 </p> 
@@ -17,37 +23,31 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/05/1096943905/former-u-s-consul-in-rio-de-janeiro-raises-new-alarms-about-brazils-bolsonaro">Former U.S. consul in Rio de Janeiro raises new alarms about Brazil's Bolsonaro</a> NPR: The former U.S. consul in Rio de Janeiro, Scott Hamilton, speaks about his concerns about Brazilian President Jair Bolsonaro, and the implications for democratic institutions in the country. 
  <p class="updated_time"> 03:28 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096943884/some-ukrainian-refugees-in-poland-are-now-starting-to-return-home">Some Ukrainian refugees in Poland are now starting to return home</a> NPR: The war in Ukraine has forced millions of people to flee their homes. Some refugees in Poland however are now starting to return home. 
- <p class="updated_time"> 03:25 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/05/05/world/israel-attack">Live Updates: 3 People Reported Killed in Attack in Israel</a> NYT: The attack follows a wave of violence by Arab assailants that has already killed 14 people in Israel since mid-March. 
  <p class="updated_time"> 03:13 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/putin-war-mariupol-ukraine.html">Why the Battle for Mariupol Is Important for Putin</a> NYT: A victory in the predominantly Russian-speaking city could give a veneer of credibility to the Russian leader’s false claims of ridding Ukraine of “Nazis.” 
+ <p class="updated_time"> 02:48 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
  <p class="updated_time"> 02:45 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/africa/senegal-faidherbe-statue.html">In Senegal’s Former Capital, a Colonial Statue in Hiding Is No Longer Welcome</a> NYT: The city of Saint-Louis was shaped by Louis Faidherbe, a French governor who also led brutal military campaigns in West Africa. What to do with his legacy has divided Senegal. 
- <p class="updated_time"> 02:33 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
  <p class="updated_time"> 02:32 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/africa/elon-musk-south-africa.html">Elon Musk Left a South Africa That Was Rife With Misinformation and White Privilege</a> NYT: The apartheid era created all-white enclaves littered with anti-Black government propaganda and sheltered from the atrocities of apartheid. 
  <p class="updated_time"> 02:28 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/ireland-abortion-hospital.html">Ireland Abortion Rights Activists Oppose Hospital Deal</a> NYT: The government delayed a decision on the proposal, amid concerns that a private charity might follow Catholic doctrine and limit abortions at a state-funded maternity hospital. 
- <p class="updated_time"> 02:23 PM CT, May. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61339751?at_medium=RSS&at_campaign=KARANGA">Elad attack: Three dead in central Israeli city</a> BBC: Police say the incident is a suspected terror attack, which follows a surge in violence. 
- <p class="updated_time"> 02:18 PM CT, May. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61339174?at_medium=RSS&at_campaign=KARANGA">Jealous Depp kicked me over Franco 'affair' - Heard</a> BBC: Amber Heard says jealousy of actor James Franco sent Johnny Depp into a rage on a plane. 
  <p class="updated_time"> 02:09 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096880452/mariupol-steel-plant-ukraine-resistance">How a massive steel plant became the center of Ukraine's resistance in Mariupol</a> NPR: The final battle for Mariupol is taking place inside the Azovstal steel plant, a massive coastal complex in the besieged city. Hundreds of civilians are still trapped inside, officials say. 
  <p class="updated_time"> 01:51 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/business/china-shanghai-covid-lockdown-economy.html">China’s Covid Lockdowns Leave Millions Out of Work</a> NYT: Migrant workers and recent college graduates have been hit hardest by shuttered factories, closed construction sites and an anemic job market. 
+ <p class="updated_time"> 01:48 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 01:43 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/americas/nicaragua-ruling-family-us.html">Nicaragua’s Secretive Ruling Family Reaches Out Quietly to the U.S.</a> NYT: Sanctions intended to thwart the president’s dictatorial actions have hit his family and inner circle hard. More pain is expected as sanctions hit Russia, an ally. 
- <p class="updated_time"> 01:33 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 01:31 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/lviv-jan-henryk-de-rosen-mural.html">In Lviv, a hidden work by a master is discovered.</a> NYT: During the renovation of a former Catholic church, a mural by the Polish painter Jan Henryk de Rosen was uncovered. 
  <p class="updated_time"> 01:08 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/health/covid-global-deaths.html">Death Toll During Pandemic Far Exceeds Totals Reported by Countries, W.H.O. Says</a> NYT: Nearly 15 million more people died during the first two years of the pandemic than would have been expected during normal times, the organization found. The previous count of virus deaths, from countries’ reporting, was six million. 
  <p class="updated_time"> 12:55 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/business/energy-environment/natural-gas-europe-russia-ukraine.html">Europe’s Quest to Replace Russian Gas Faces Plenty of Hurdles</a> NYT: Climate concerns, investor reticence and political disputes complicate a shift to supplies from the United States, North Africa and the Mediterranean. 
- <p class="updated_time"> 12:33 PM CT, May. 05 </p> 
+ <p class="updated_time"> 12:48 PM CT, May. 05 </p> 
  <a href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818">Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs</a> WSJ: Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs 
  <p class="updated_time"> 12:29 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096617455/journalist-says-britain-has-become-a-safe-deposit-box-for-oligarchs-ill-gotten-g">Journalist says Britain has become a safe deposit box for oligarchs' ill-gotten gains</a> NPR: Butler to the Word author Oliver Bullough says the UK has developed a system of bankers, lawyers, accountants and PR managers who work to help Russian kleptocrats hide their wealth. 
@@ -61,18 +61,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61335534?at_medium=RSS&at_campaign=KARANGA">Senegal midwives go on trial in Louga over Astou Sokhna's death</a> BBC: Astou Sokhna died after reportedly being refused a Caesarean, sparking a national outcry. 
  <p class="updated_time"> 11:54 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/theater/the-47th-play-trump-london.html">This Trump Play in London Is a Comedy. Unless You’re American.</a> NYT: Mike Bartlett’s “The 47th” presents political turmoil in the United States for laughs. But some find it more like a horror story. 
+ <p class="updated_time"> 11:48 AM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/who-says-15-million-have-died-from-covid-19-pandemic-11651755496">WHO Says 15 Million Have Died From Pandemic, With Highest Toll in India</a> WSJ: WHO Says 15 Million Have Died From Pandemic, With Highest Toll in India 
  <p class="updated_time"> 11:39 AM CT, May. 05 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/05/1096842429/governments-have-undercounted-the-covid-19-death-toll-by-millions-the-who-says">Governments have undercounted the COVID-19 death toll by millions, the WHO says</a> NPR: Case in point: India, which reported 481,000 COVID-19 deaths in 2020 and 2021. The World Health Organization found 4.74 million deaths there either directly or indirectly attributable to the pandemic. 
  <p class="updated_time"> 11:34 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/americas/mexico-skulls-cave.html">They Thought the Skulls Were Murder Victims’. They Were Off by Centuries.</a> NYT: Originally thought to be the remnants of gang killings, dozens of skulls found in a cave in southern Mexico are now believed to be from sacrificial killings more than 1,000 years ago. 
- <p class="updated_time"> 11:33 AM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/who-says-15-million-have-died-from-covid-19-pandemic-11651755496">WHO Says 15 Million Have Died From Pandemic, With Highest Toll in India</a> WSJ: WHO Says 15 Million Have Died From Pandemic, With Highest Toll in India 
  <p class="updated_time"> 11:08 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/americas/ricardo-alarcon-dead.html">Ricardo Alarcon, Diplomat and Castro Confidant, Dies at 84</a> NYT: As Havana’s go-between with the U.S., he negotiated Elián González’s return to Cuba. He was also the country’s U.N. representative on two occasions. 
+ <p class="updated_time"> 10:48 AM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/russia-struggles-to-find-new-buyers-for-commodities-as-europe-severs-links-11651755434">Russia Struggles to Find New Buyers for Commodities as Europe Severs Links</a> WSJ: Russia Struggles to Find New Buyers for Commodities as Europe Severs Links 
  <p class="updated_time"> 10:34 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61337622?at_medium=RSS&at_campaign=KARANGA">Elon Musk lines up $7bn backing for Twitter deal</a> BBC: The billionaire has tapped the likes of Oracle's Larry Ellison and Sequoia to finance the takeover. 
- <p class="updated_time"> 10:33 AM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/russia-struggles-to-find-new-buyers-for-commodities-as-europe-severs-links-11651755434">Russia Struggles to Find New Buyers for Commodities as Europe Severs Links</a> WSJ: Russia Struggles to Find New Buyers for Commodities as Europe Severs Links 
  <p class="updated_time"> 10:30 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61332283?at_medium=RSS&at_campaign=KARANGA">Why 9 May Victory Day is so important for Russia</a> BBC: Vladimir Putin has made it an annual event, but amid war in Ukraine 9 May has taken on new significance. 
  <p class="updated_time"> 09:11 AM CT, May. 05 </p> 
@@ -202,10 +202,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:40 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/us/politics/karine-jean-pierre-white-house-press-secretary.html">Karine Jean-Pierre Is Named White House Press Secretary</a> NYT: Ms. Jean-Pierre will be the first Black woman and the first openly gay person to serve in the role. 
  <p class="updated_time"> 03:29 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/americas/abortion-activists-movements.html">Roe Inspired Activists Worldwide, Who May Be Rethinking Strategy</a> NYT: Feminist movements in some countries similarly sought abortion protections in their courts, but for others, the goal was legislative change. 
- <p class="updated_time"> 03:28 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/us/politics/karine-jean-pierre-white-house-press-secretary.html">Karine Jean-Pierre Is Named White House Press Secretary</a> NYT: Ms. Jean-Pierre will be the first Black woman and the first openly gay person to serve in the role. 
+ <p class="updated_time"> 03:21 PM CT, May. 05 </p> 
+ <a href="https://www.politico.com/news/2022/05/05/congress-warning-biden-iran-deal-00030448">Congress fires its first warning shot on Biden’s Iran deal</a> Politico: A bipartisan majority delivered the White House a symbolic message that any new nuclear deal better be stronger than the 2015 agreement. 
  <p class="updated_time"> 03:07 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096942696/karine-jean-pierre-is-replacing-jen-psaki-as-white-house-press-secretary">Karine Jean-Pierre is replacing Jen Psaki as White House press secretary </a> NPR: Jean-Pierre is the first Black person in the job and the first openly gay person who will have the most visible post at the White House aside from the president. 
  <p class="updated_time"> 03:03 PM CT, May. 05 </p> 
@@ -290,8 +292,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/04/oath-keepers-leader-sought-to-contact-trump-on-jan-6-court-papers-indicate-00030219">Oath Keepers leader sought to contact Trump on Jan. 6, court papers indicate</a> Politico: Prosecutors say Stewart Rhodes tried to connect with the then-president after the attack on the Capitol and urge him to ask the group to forcibly oppose the ascension of Joe Biden. 
  <p class="updated_time"> 06:19 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/us/politics/roberts-alito-abortion-roe-v-wade.html">Roberts and Alito, Once Close Allies, Have Taken Divergent Paths</a> NYT: Chief Justice John G. Roberts Jr. and Justice Samuel A. Alito Jr. have become emblems of a stark divide at the Supreme Court as it confronts whether to overturn Roe v. Wade. 
- <p class="updated_time"> 05:54 PM CT, May. 04 </p> 
- <a href="https://www.politico.com/news/2022/05/04/gop-primaries-00030152">‘Are you going to cave?’ GOP primaries pit ‘fighters’ against ‘governing wing’</a> Politico: Primary clashes in states across the country will shape the potential GOP House majority. 
  <p class="updated_time"> 05:51 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/us/politics/oath-keepers-jan-6-riot.html">Oath Keepers Leader Sought to Ask Trump to Unleash His Militia</a> NYT: A dramatic account of how the militia leader, Stewart Rhodes, tried to reach Donald J. Trump on Jan. 6 with a message that the group could help keep him in power was revealed in federal court. 
  <p class="updated_time"> 05:47 PM CT, May. 04 </p> 
