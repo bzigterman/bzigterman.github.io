@@ -9,49 +9,49 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:29 AM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/world/africa/elon-musk-south-africa.html">Elon Musk Left Behind a South Africa Rife With Misinformation and White Privilege</a> NYT: The apartheid era created all-white enclaves littered with anti-Black government propaganda and sheltered from the atrocities of apartheid. 
+ <p class="updated_time"> 09:17 AM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/05/world/ukraine-russia-war-news">Ukraine Live Updates: ‘Bloody Battles’ as Russia Tries to Oust Last Fighters From Mariupol</a> NYT: Russian forces breached Ukrainian defenses around a steel plant where fighters and civilians have been sheltering. Gaining full control of Mariupol would allow President Vladimir Putin to claim a victory days before a highly symbolic Russian holiday. 
+ <p class="updated_time"> 09:12 AM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/health/covid-global-deaths.html">Death Toll During Pandemic Far Exceeds Totals Reported by Countries, W.H.O. Says</a> NYT: Nearly 15 million more people died during the first two years of the pandemic than would have been expected during normal times, the organization found. The previous count of virus deaths, from countries’ reporting, was six million. 
  <p class="updated_time"> 09:07 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/americas/nicaragua-ruling-family-us.html">Nicaragua’s Secretive Ruling Family Reaches Out Quietly to the U.S.</a> NYT: Sanctions intended to thwart the president’s dictatorial actions have hit his family and inner circle hard. More pain is expected as sanctions hit Russia, an ally. 
- <p class="updated_time"> 09:04 AM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/world/africa/elon-musk-south-africa.html">In Musk’s Past, a South Africa Rife With Misinformation and White Privilege</a> NYT: Elon Musk grew up in elite, nearly all white enclaves littered with anti-Black government propaganda and sheltered from the atrocities of apartheid. 
- <p class="updated_time"> 09:02 AM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/05/05/world/ukraine-russia-war-news">Ukraine Live Updates: ‘Bloody Battles’ as Russia Tries to Oust Last Fighters From Mariupol</a> NYT: Russian forces breached Ukrainian defenses around a steel plant where fighters and civilians have been sheltering. Gaining full control of Mariupol would allow President Vladimir Putin to claim a victory days before a highly symbolic Russian holiday. 
  <p class="updated_time"> 08:48 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61332324?at_medium=RSS&at_campaign=KARANGA">China building collapse: Woman rescued from rubble after six days</a> BBC: The collapse of a building in the city of Changsha is now known to have killed at least 26 people. 
- <p class="updated_time"> 08:47 AM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/health/covid-global-deaths.html">Death Toll During Pandemic Far Exceeds Totals Reported by Countries, W.H.O. Says</a> NYT: Nearly 15 million more people died during the first two years of the pandemic than would have been expected during normal times, the organization found. The previous count of virus deaths, from countries’ reporting, was six million. 
+ <p class="updated_time"> 08:33 AM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
  <p class="updated_time"> 08:26 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61335124?at_medium=RSS&at_campaign=KARANGA">Iraq dust storm leaves 5,000 people needing treatment</a> BBC: It is the seventh severe dust storm in weeks, turning skies orange and causing breathing problems. 
  <p class="updated_time"> 08:24 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-victory-day.html">What Is Russia’s May 9 Victory Day, and What Might Putin Say?</a> NYT: In the two decades that Vladimir V. Putin has led Russia, the country’s Victory Day marches, honoring Soviet sacrifices of World War II, have transformed into huge military spectacles and nostalgic celebrations. 
  <p class="updated_time"> 08:15 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/americas/mexico-skulls-cave.html">They Thought the Skulls Were Murder Victims. They Were Off by Centuries.</a> NYT: Originally thought to be the remnants of gang killings, dozens of skulls found in a cave in southern Mexico are now believed to be from sacrificial killings more than 1,000 years ago. 
- <p class="updated_time"> 08:14 AM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
  <p class="updated_time"> 08:13 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61333748?at_medium=RSS&at_campaign=KARANGA">Russia rehearses World War Two victory parade</a> BBC: Military vehicles, weapons and soldiers were on display at a rehearsal for Russia's Victory Day parade. 
  <p class="updated_time"> 08:12 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61332272?at_medium=RSS&at_campaign=KARANGA">Turkey's cost of living soars nearly 70%</a> BBC: Everyday goods including food and transport costs have seen among the biggest annual increases. 
  <p class="updated_time"> 07:46 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/theater/the-47th-play-trump-london.html">This Trump Play in London Is a Comedy. Unless You’re American.</a> NYT: Mike Bartlett’s “The 47th” presents political turmoil in the United States for laughs. But some find it more like a horror story. 
+ <p class="updated_time"> 07:33 AM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 07:26 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/uk-local-elections-northern-ireland.html">Local Elections in Britain, Scotland and Ireland: What to Watch For</a> NYT: National politics may not be front and center in voters’ minds, but how they cast their ballots could signal their opinions of the main parties. 
  <p class="updated_time"> 07:18 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/uk-elections-boris-johnson.html">Why Boris Johnson Will Be Tested in UK by Local Elections</a> NYT: The British prime minister is under fire for lockdown-breaking parties. But many voters are skeptical that the opposition can solve issues such as soaring prices. 
- <p class="updated_time"> 07:14 AM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 07:00 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/health-61327778?at_medium=RSS&at_campaign=KARANGA">Covid: World’s true pandemic death toll nearly 15 million, says WHO</a> BBC: These include deaths from Covid and from the indirect effects of the pandemic over two years worldwide. 
  <p class="updated_time"> 06:53 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/climate/wildfires-prescribed-burn.html">Why Climate Change Makes It Harder to Fight Fire With Fire</a> NYT: Worsening wildfires in recent years have led officials to embrace planned fires to thin forests before disaster strikes. But the warming world is making it tougher to do safely. 
  <p class="updated_time"> 06:43 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/climate/wildfire-smoke-dust-storm.html">NOAA Image Catches Wildfire Smoke and Dust on Collision Course</a> NYT: A time-lapse image of smoke from wildfires in New Mexico and dust from a storm in Colorado illustrates the scope of Western catastrophe. 
- <p class="updated_time"> 06:14 AM CT, May. 05 </p> 
+ <p class="updated_time"> 06:33 AM CT, May. 05 </p> 
  <a href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818">Inside Ukraine’s Beseiged Azovstal Plant: Siphoning Fuel, Singing Songs</a> WSJ: Inside Ukraine’s Beseiged Azovstal Plant: Siphoning Fuel, Singing Songs 
  <p class="updated_time"> 06:01 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/africa/senegal-faidherbe-statue.html">In Senegal’s Former Capital, a Colonial Statue in Hiding Is No Longer Welcome</a> NYT: The city of Saint-Louis was shaped by Louis Faidherbe, a French governor who also led brutal military campaigns in West Africa. What to do with his legacy has divided Senegal. 
  <p class="updated_time"> 05:53 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/russian-exiles-foreign-agents-putin.html">Anti-Putin Russians Are Leaving, With a Push From the Kremlin</a> NYT: Many Russians who are designated “foreign agents” by the government view it as another form of repression that makes living in the country, or returning to it, untenable. 
- <p class="updated_time"> 05:14 AM CT, May. 05 </p> 
+ <p class="updated_time"> 05:33 AM CT, May. 05 </p> 
  <a href="https://www.wsj.com/articles/russia-struggles-to-find-new-buyers-for-commodities-as-europe-severs-links-11651755434">Russia Struggles to Find New Buyers for Commodities as Europe Severs Links</a> WSJ: Russia Struggles to Find New Buyers for Commodities as Europe Severs Links 
  <p class="updated_time"> 04:58 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61333747?at_medium=RSS&at_campaign=KARANGA">Dust storm and wildfires seen from space</a> BBC: Satellite images show gusts of up to 60mph blowing dust across Colorado and plumes of smoke in New Mexico. 
@@ -88,7 +88,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:22 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61271404?at_medium=RSS&at_campaign=KARANGA">Why Sigrid feels on top of the world</a> BBC: The pop star talks lockdown blues, singing Nirvana at school, and why she moved all her gold discs. 
  <p class="updated_time"> 06:20 PM CT, May. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61318779?at_medium=RSS&at_campaign=KARANGA">Africa's digital business: The women swapping shops for smartphones</a> BBC: Three African women explain how they have boosted their income by going digital since the start of Covid. 
+ <a href="https://www.bbc.co.uk/news/world-africa-61318779?at_medium=RSS&at_campaign=KARANGA">Africa's digital business: The women swapping shops for smartphones</a> BBC: Three African women explain how they have boosted their income by going digital since Covid. 
  <p class="updated_time"> 06:18 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61307148?at_medium=RSS&at_campaign=KARANGA">How Covid-scarred Shanghai will finally exit lockdown</a> BBC: A mass clean-up is sweeping through Shanghai, with the city's gradual reopening expected to follow. 
  <p class="updated_time"> 06:08 PM CT, May. 04 </p> 
@@ -182,7 +182,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:14 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/russia-ukraine-war-nato.html">Russia’s War Has Been Brutal, but Putin Has Shown Some Restraint. Why?</a> NYT: Western officials are debating the Kremlin’s calculations in not trying harder to halt weapons shipments in Ukraine. Analysts wonder whether a bigger mobilization by Moscow is on the horizon. 
  <p class="updated_time"> 10:00 AM CT, May. 03 </p> 
- <a href="https://www.nytimes.com/2022/05/03/arts/podcasts-ukraine-tulsa-boyland.html">6 Podcasts That Go Deeper on the Headlines</a> NYT: These series, on subjects like the war in Ukraine, the storming of the U.S. Capitol and the 1921 Tulsa race massacre, can help combat news fatigue. 
+ <a href="https://www.nytimes.com/2022/05/03/arts/news-podcasts.html">6 Podcasts That Go Deeper on the Headlines</a> NYT: These series, on subjects like the war in Ukraine, the storming of the U.S. Capitol and the 1921 Tulsa race massacre, can help combat news fatigue. 
  <p class="updated_time"> 09:51 AM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/climate/las-vegas-lawn-grass-ban.html">To Save Water Amid a Megadrought, Las Vegas Outlaws Grass</a> NYT: With drought and growth taking a toll on the Colorado River, the source of 90 percent of the region’s water, a new law in Las Vegas mandates the removal of turf, patch by patch. 
  <p class="updated_time"> 05:04 AM CT, May. 03 </p> 
@@ -196,10 +196,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:13 AM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/us/politics/democrats-abortion-state-legislative-races.html">Democrats Aim to Use Abortion Rights to Jolt State Legislative Races</a> NYT: A party group has circled a handful of states where Democrats hope to hold or flip control. The draft ruling on Roe v. Wade “has the potential to be a game-changing issue,” its leader said. 
  <p class="updated_time"> 09:08 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/us/politics/covid-white-house-correspondents-dinner.html">Virus Cases Grow After White House Correspondents Dinner</a> NYT: Secretary of State Antony J. Blinken was among the attendees reporting coronavirus infections on Wednesday. 
- <p class="updated_time"> 09:00 AM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/us/politics/democrats-abortion-state-legislative-races.html">Democrats Aim to Use Abortion Rights to Jolt State Legislative Races</a> NYT: A party group has circled a handful of states where Democrats hope to hold or flip control. The draft ruling on Roe v. Wade “has the potential to be a game-changing issue,” its leader said. 
  <p class="updated_time"> 08:41 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/books/books-about-abortion.html">10 Books on Abortion to Understand the Roe v. Wade Debate</a> NYT: Nearly 50 years ago, the Supreme Court legalized abortion. The decision has since divided the country. Now that the issue is before the court again, here are 10 books that help frame the debate. 
  <p class="updated_time"> 08:38 AM CT, May. 05 </p> 
