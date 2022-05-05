@@ -9,18 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:50 PM CT, May. 05 </p> 
+ <p class="updated_time"> 05:45 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/05/05/world/israel-attack">Live Updates: 3 People Reported Killed in Attack in Israel</a> NYT: The attack follows a wave of violence by Arab assailants that has already killed 14 people in Israel since mid-March. 
+ <p class="updated_time"> 05:44 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/05/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Presses on Eastern Front and Targets Final Fighters in Mariupol</a> NYT: Russian forces sought to destroy the last pocket of resistance at Azovstal steel plant in Mariupol, which would let President Vladimir V. Putin claim a major victory before Moscow’s military celebration on Monday. 
+ <p class="updated_time"> 05:42 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/world/europe/ukraine-russia-east-donetsk-mariupol.html">Putin’s Forces Battle in East Ukraine to Feed His Hunger for a Victory</a> NYT: The fighting has intensified ahead of Russia’s May 9 Victory Day holiday commemorating the Soviet Union’s triumph over Nazi Germany. 
+ <p class="updated_time"> 05:04 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/world/jill-biden-europe-ukraine.html">Jill Biden Embarks on Trip to Eastern Europe to Visit Ukrainian Refugees</a> NYT: The first lady is also scheduled to tour the Slovakian border with Ukraine, becoming the latest high-profile Biden administration official to come close to the conflict zone. 
+ <p class="updated_time"> 04:59 PM CT, May. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61342678?at_medium=RSS&at_campaign=KARANGA">CCTV captures Kansas tornado churning in car park</a> BBC: An surveillance camera captures a tornado forming and sweeping through Andover. 
+ <p class="updated_time"> 04:52 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/world/americas/nicaragua-ruling-family-us.html">Nicaragua’s Secretive Ruling Family Reaches Out Quietly to the U.S.</a> NYT: Sanctions intended to thwart the president’s dictatorial actions have hit his family and inner circle hard. More pain is expected as sanctions hit Russia, an ally. 
+ <p class="updated_time"> 04:51 PM CT, May. 05 </p> 
+ <a href="https://www.npr.org/2022/05/05/1096978095/israel-stabbing-attack">3 people were killed in a stabbing attack near Tel Aviv</a> NPR: Israeli authorities said a pair of Palestinian attackers went on a stabbing rampage in a town near Tel Aviv, killing at least three people and wounding four others before fleeing in a vehicle. 
+ <p class="updated_time"> 04:49 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/suspected-terror-attack-in-israel-kills-at-least-three-on-independence-day-11651786798">Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day</a> WSJ: Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day 
  <p class="updated_time"> 04:45 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/pope-kidnapped-nun-mali.html">Pope Approved Secret Deal to Free Abducted Nun, Cardinal Says</a> NYT: A formerly top-ranking cardinal testified Thursday that the pope said he could spend up to one million euros to secure the release of a nun kidnapped by Islamic militants. 
- <p class="updated_time"> 04:42 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/05/05/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Presses on Eastern Front and Targets Final Fighters in Mariupol</a> NYT: Russian forces sought to destroy the last pocket of resistance at Azovstal steel plant in Mariupol, which would let President Vladimir V. Putin claim a major victory before Moscow’s military celebration on Monday. 
- <p class="updated_time"> 04:42 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/world/jill-biden-europe-ukraine.html">Jill Biden Embarks on Trip to Eastern Europe to Visit Ukrainian Refugees</a> NYT: The first lady is also scheduled to tour the Slovakian border with Ukraine, becoming the latest high-profile Biden administration official to come close to the conflict zone. 
  <p class="updated_time"> 04:35 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61339751?at_medium=RSS&at_campaign=KARANGA">Elad attack: Three dead in central Israeli city</a> BBC: Police say the incident is a suspected terror attack, which follows a surge in violence. 
  <p class="updated_time"> 04:30 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096943991/the-status-of-iran-nuclear-deal-talks">The status of Iran nuclear deal talks</a> NPR: For weeks, talks between world powers and Iran over reviving the 2015 nuclear deal have been stalled — partly because of the war in Ukraine. But they're still a priority and could go either way. 
+ <p class="updated_time"> 04:26 PM CT, May. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61274336?at_medium=RSS&at_campaign=KARANGA">Karine Jean-Pierre: White House names first black press secretary</a> BBC: Karine Jean-Pierre will replace Jen Psaki in the top role at the end of next week. 
  <p class="updated_time"> 04:20 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/05/1095466197/whats-a-good-word-for-the-welcome-given-to-ukrainian-refugees-in-europe-generous">What's a good word for the welcome given to Ukrainian refugees in Europe? 'Generous'</a> NPR: That's how Paul Spiegel characterizes the reception — and medical services — offered by European nations. He spent 7 weeks on the scene for the World Health Organization to assess the situation. 
  <p class="updated_time"> 04:14 PM CT, May. 05 </p> 
@@ -29,7 +41,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/05/1096943949/cinco-de-mayo-is-part-of-a-deeper-story-of-2-nations-trying-to-define-themselves">Cinco de Mayo is part of a deeper story of 2 nations trying to define themselves</a> NPR: Cinco de Mayo has come to stand for a celebration of Mexican culture and heritage. On May 5, 1862, an epic battle was fought and won by Mexicans, which helped shape the future of Mexico and the U.S. 
  <p class="updated_time"> 03:58 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096920856/russia-ukraine-war-what-happened-today-may-5">Russia-Ukraine war: What happened today (May 5)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:53 PM CT, May. 05 </p> 
+ <p class="updated_time"> 03:49 PM CT, May. 05 </p> 
  <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
  <p class="updated_time"> 03:39 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61339174?at_medium=RSS&at_campaign=KARANGA">Jealous Depp kicked me over Franco 'affair' - Heard</a> BBC: Amber Heard says jealousy of actor James Franco sent Johnny Depp into a rage on a plane. 
@@ -41,8 +53,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/05/1096943884/some-ukrainian-refugees-in-poland-are-now-starting-to-return-home">Some Ukrainian refugees in Poland are now starting to return home</a> NPR: The war in Ukraine has forced millions of people to flee their homes. Some refugees in Poland however are now starting to return home. 
  <p class="updated_time"> 03:13 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/putin-war-mariupol-ukraine.html">Why the Battle for Mariupol Is Important for Putin</a> NYT: A victory in the predominantly Russian-speaking city could give a veneer of credibility to the Russian leader’s false claims of ridding Ukraine of “Nazis.” 
- <p class="updated_time"> 02:53 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
+ <p class="updated_time"> 02:49 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/suspected-colombian-drug-kingpin-extradited-to-u-s-11651787114">Suspected Colombian Drug Kingpin Extradited to U.S.</a> WSJ: Suspected Colombian Drug Kingpin Extradited to U.S. 
  <p class="updated_time"> 02:45 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/africa/senegal-faidherbe-statue.html">In Senegal’s Former Capital, a Colonial Statue in Hiding Is No Longer Welcome</a> NYT: The city of Saint-Louis was shaped by Louis Faidherbe, a French governor who also led brutal military campaigns in West Africa. What to do with his legacy has divided Senegal. 
  <p class="updated_time"> 02:32 PM CT, May. 05 </p> 
@@ -51,20 +63,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/05/world/europe/ireland-abortion-hospital.html">Ireland Abortion Rights Activists Oppose Hospital Deal</a> NYT: The government delayed a decision on the proposal, amid concerns that a private charity might follow Catholic doctrine and limit abortions at a state-funded maternity hospital. 
  <p class="updated_time"> 02:09 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096880452/mariupol-steel-plant-ukraine-resistance">How a massive steel plant became the center of Ukraine's resistance in Mariupol</a> NPR: The final battle for Mariupol is taking place inside the Azovstal steel plant, a massive coastal complex in the besieged city. Hundreds of civilians are still trapped inside, officials say. 
- <p class="updated_time"> 01:53 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818">Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs</a> WSJ: Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs 
  <p class="updated_time"> 01:51 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/business/china-shanghai-covid-lockdown-economy.html">China’s Covid Lockdowns Leave Millions Out of Work</a> NYT: Migrant workers and recent college graduates have been hit hardest by shuttered factories, closed construction sites and an anemic job market. 
- <p class="updated_time"> 01:43 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/world/americas/nicaragua-ruling-family-us.html">Nicaragua’s Secretive Ruling Family Reaches Out Quietly to the U.S.</a> NYT: Sanctions intended to thwart the president’s dictatorial actions have hit his family and inner circle hard. More pain is expected as sanctions hit Russia, an ally. 
+ <p class="updated_time"> 01:49 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 01:31 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/lviv-jan-henryk-de-rosen-mural.html">In Lviv, a hidden work by a master is discovered.</a> NYT: During the renovation of a former Catholic church, a mural by the Polish painter Jan Henryk de Rosen was uncovered. 
+ <p class="updated_time"> 01:26 PM CT, May. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61341641?at_medium=RSS&at_campaign=KARANGA">Madison Cawthorn: US lawmaker 'won't back down' after naked tape leak</a> BBC: "We were acting foolish, and joking. That's it," says Madison Cawthorn, the youngest US congressman. 
  <p class="updated_time"> 01:08 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/health/covid-global-deaths.html">Death Toll During Pandemic Far Exceeds Totals Reported by Countries, W.H.O. Says</a> NYT: Nearly 15 million more people died during the first two years of the pandemic than would have been expected during normal times, the organization found. The previous count of virus deaths, from countries’ reporting, was six million. 
  <p class="updated_time"> 12:55 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/business/energy-environment/natural-gas-europe-russia-ukraine.html">Europe’s Quest to Replace Russian Gas Faces Plenty of Hurdles</a> NYT: Climate concerns, investor reticence and political disputes complicate a shift to supplies from the United States, North Africa and the Mediterranean. 
- <p class="updated_time"> 12:53 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/who-says-15-million-have-died-from-covid-19-pandemic-11651755496">WHO Says 15 Million Have Died From Pandemic, With Highest Toll in India</a> WSJ: WHO Says 15 Million Have Died From Pandemic, With Highest Toll in India 
+ <p class="updated_time"> 12:49 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818">Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs</a> WSJ: Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs 
  <p class="updated_time"> 12:29 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096617455/journalist-says-britain-has-become-a-safe-deposit-box-for-oligarchs-ill-gotten-g">Journalist says Britain has become a safe deposit box for oligarchs' ill-gotten gains</a> NPR: Butler to the Word author Oliver Bullough says the UK has developed a system of bankers, lawyers, accountants and PR managers who work to help Russian kleptocrats hide their wealth. 
  <p class="updated_time"> 12:16 PM CT, May. 05 </p> 
@@ -77,16 +89,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61335534?at_medium=RSS&at_campaign=KARANGA">Senegal midwives go on trial in Louga over Astou Sokhna's death</a> BBC: Astou Sokhna died after reportedly being refused a Caesarean, sparking a national outcry. 
  <p class="updated_time"> 11:54 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/theater/the-47th-play-trump-london.html">This Trump Play in London Is a Comedy. Unless You’re American.</a> NYT: Mike Bartlett’s “The 47th” presents political turmoil in the United States for laughs. But some find it more like a horror story. 
- <p class="updated_time"> 11:53 AM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/russia-struggles-to-find-new-buyers-for-commodities-as-europe-severs-links-11651755434">Russia Struggles to Find New Buyers for Commodities as Europe Severs Links</a> WSJ: Russia Struggles to Find New Buyers for Commodities as Europe Severs Links 
  <p class="updated_time"> 11:39 AM CT, May. 05 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/05/1096842429/governments-have-undercounted-the-covid-19-death-toll-by-millions-the-who-says">Governments have undercounted the COVID-19 death toll by millions, the WHO says</a> NPR: Case in point: India, which reported 481,000 COVID-19 deaths in 2020 and 2021. The World Health Organization found 4.74 million deaths there either directly or indirectly attributable to the pandemic. 
  <p class="updated_time"> 11:34 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/americas/mexico-skulls-cave.html">They Thought the Skulls Were Murder Victims’. They Were Off by Centuries.</a> NYT: Originally thought to be the remnants of gang killings, dozens of skulls found in a cave in southern Mexico are now believed to be from sacrificial killings more than 1,000 years ago. 
  <p class="updated_time"> 11:08 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/americas/ricardo-alarcon-dead.html">Ricardo Alarcon, Diplomat and Castro Confidant, Dies at 84</a> NYT: As Havana’s go-between with the U.S., he negotiated Elián González’s return to Cuba. He was also the country’s U.N. representative on two occasions. 
- <p class="updated_time"> 10:34 AM CT, May. 05 </p> 
- <a href="https://www.bbc.co.uk/news/business-61337622?at_medium=RSS&at_campaign=KARANGA">Elon Musk lines up $7bn backing for Twitter deal</a> BBC: The billionaire has tapped the likes of Oracle's Larry Ellison and Sequoia to finance the takeover. 
+ <p class="updated_time"> 11:06 AM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/who-says-15-million-have-died-from-covid-19-pandemic-11651755496">WHO Says 15 Million Have Died From Pandemic, With Highest Toll in India</a> WSJ: The World Health Organization put the toll by the end of 2021 at nearly three times the number that had been officially recorded by countries. 
  <p class="updated_time"> 10:30 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61332283?at_medium=RSS&at_campaign=KARANGA">Why 9 May Victory Day is so important for Russia</a> BBC: Vladimir Putin has made it an annual event, but amid war in Ukraine 9 May has taken on new significance. 
  <p class="updated_time"> 09:11 AM CT, May. 05 </p> 
@@ -125,8 +135,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/04/world/asia/pakistan-baluchistan-violence.html">In Pakistan, Violence by Baluch Separatists Destabilizes Region</a> NYT: A government plagued by volatility is trying to quell a separatist movement in Baluchistan while also fighting other insurgencies and striving for economic development. 
  <p class="updated_time"> 12:40 AM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096804291/australian-prime-minister-defends-his-countrys-ties-to-solomons">Australian prime minister defends his country's ties to Solomons</a> NPR: Scott Morrison says he followed security officials' advice in managing relations with the Solomon Islands after the South Pacific neighbor's leader alleged he'd been threatened with invasion. 
- <p class="updated_time"> 11:57 PM CT, May. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61328947?at_medium=RSS&at_campaign=KARANGA">Donbas fighting: Risking capture to evacuate the vulnerable from the front line</a> BBC: Civilian volunteers are going to the front line, but some have been detained by Russian forces. 
  <p class="updated_time"> 11:47 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/india-russia-oil.html">India Finds Russian Oil an Irresistible Deal, No Matter the Diplomatic Pressure</a> NYT: A parade of emissaries have urged a harder line on Russia. But India’s political neutrality over the war in Ukraine has expanded into economic opportunism. 
  <p class="updated_time"> 10:32 PM CT, May. 04 </p> 
@@ -153,8 +161,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/04/world/moderna-covid-vaccine.html">Moderna Reaps $5.9 Billion From Its Vaccine Sales</a> NYT: Stéphane Bancel, the company’s chief executive officer, said Moderna has $21 billion worth of advance purchase agreements for the vaccine. 
  <p class="updated_time"> 04:04 PM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096124740/the-u-s-may-soon-export-more-gas-to-the-eu-but-that-will-complicate-climate-goal">The U.S. may soon export more gas to the EU, but that will complicate climate goals</a> NPR: To help wean Europe off Russian gas, the Biden administration wants to increase U.S. natural gas exports. But critics say that's at odds with the president's climate and environmental justice goals. 
- <p class="updated_time"> 03:55 PM CT, May. 04 </p> 
- <a href="https://www.npr.org/2022/05/04/1096606111/russia-ukraine-war-what-happened-today-may-4">Russia-Ukraine war: What happened today (May 4)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:31 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/americas/mexico-cartels-michoacan.html">In Mexico, One Cartel Is Cleared, but Others Storm In</a> NYT: In the state of Michoacán, small drug cartels compete with larger ones for territory, leaving the residents caught in the middle of a brutal turf war. 
  <p class="updated_time"> 03:28 PM CT, May. 04 </p> 
@@ -177,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/03/world/asia/beijing-china-lockdown-covid.html">Beijing Tightens Measures as Some Residents Grow Weary</a> NYT: Authorities are trying to avoid a full-scale lockdown in the Chinese capital like the one imposed in Shanghai. 
  <p class="updated_time"> 09:15 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/ukraine-nft-art.html">Saving Ukrainian Art, and Helping Artists, One NFT at a Time</a> NYT: Lika Spivakovska, the owner of two art galleries in Kyiv, Ukraine, has partnered with an NFT gallery in Puerto Rico to auction off pictures of art damaged and created during the war. The money will go to Ukrainian artists and other humanitarian aid. 
- <p class="updated_time"> 08:51 AM CT, May. 04 </p> 
- <a href="https://www.nytimes.com/2022/05/03/world/europe/mariupol-azovstal-survivors-evacuated.html">Evacuees From Azovstal Steel Plant Tell of Horrors and Survival</a> NYT: Nearly 130 people reached relative safety after sheltering for weeks in dark bunkers under the Azovstal plant, under constant bombardment, with dwindling food. 
  <p class="updated_time"> 07:14 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/britain-parliament-sexual-harassment.html">Britain’s Parliament Is Rocked by Sexist Episodes. Again.</a> NYT: Encouraging more women to run for office, critics say, is just one way to counter pervasive misogyny and sexual harassment in Parliament. 
  <p class="updated_time"> 04:00 AM CT, May. 04 </p> 
@@ -200,16 +204,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:51 PM CT, May. 05 </p> 
+ <p class="updated_time"> 05:40 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/us/politics/mark-esper-book-trump.html">Trump Proposed Launching Missiles Into Mexico to ‘Destroy the Drug Labs,’ Esper Says</a> NYT: It is one of the moments in his upcoming memoir that the former defense secretary described as leaving him all but speechless. 
+ <p class="updated_time"> 05:32 PM CT, May. 05 </p> 
+ <a href="https://www.politico.com/news/2022/05/05/trump-set-the-stage-for-roes-demise-for-now-he-doesnt-wanna-talk-about-it-00030543">Trump set the stage for Roe’s demise. For now, he doesn’t wanna talk about it.</a> Politico: A politician who never misses a chance to crow has gone quiet as a signature achievement nears. 
+ <p class="updated_time"> 05:29 PM CT, May. 05 </p> 
+ <a href="https://www.politico.com/news/2022/05/05/law-enforcement-violence-scotus-draft-roe-opinion-00030509">Law enforcement officials brace for potential violence around SCOTUS draft opinion</a> Politico: More than 150 officials nationwide joined a coordination call to prepare for possible violent attacks. 
+ <p class="updated_time"> 05:28 PM CT, May. 05 </p> 
+ <a href="https://www.politico.com/news/2022/05/05/fldoe-releases-math-textbook-reviews-00030503">Mystery solved? Florida reveals why it rejected math books over critical race theory</a> Politico: The records, nearly 6,000 pages of book examinations, show that state reviewers flagged several traces of critical race theory and inklings of “social emotional learning” in proposed texts. 
+ <p class="updated_time"> 05:01 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/us/politics/democrats-codify-roe.html">Democrats Plan a Bid to Codify Roe, but Lack the Votes to Succeed</a> NYT: In announcing a Wednesday vote on doomed legislation to enshrine abortion rights into federal law, the top Senate Democrat teed up a political fight for the midterm campaign. 
- <p class="updated_time"> 04:50 PM CT, May. 05 </p> 
+ <p class="updated_time"> 05:00 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/business/economy/biden-harris-amazon-starbucks-union.html">Biden and Harris meet with labor organizers from Amazon and Starbucks.</a> NYT: The White House visit by rank-and-file union members was an unusual show of support by an administration of either party. 
  <p class="updated_time"> 04:45 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/us/politics/arizona-midterms-swing.html">In Arizona, a Swing State Swings to the Far Right</a> NYT: In the run-up to an August primary, a number of Republicans on the ballot in Arizona — like those in Ohio — have rushed to embrace Donald J. Trump and his stolen-election falsehoods. 
  <p class="updated_time"> 04:40 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/us/politics/karine-jean-pierre-white-house-press-secretary.html">Karine Jean-Pierre Is Named White House Press Secretary</a> NYT: Ms. Jean-Pierre will be the first Black woman and the first openly gay person to serve in the role. 
- <p class="updated_time"> 04:40 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/us/politics/mark-esper-book.html">Trump Proposed Launching Missiles Into Mexico to ‘Destroy the Drug Labs,’ Esper Says</a> NYT: It is one of the moments in his upcoming memoir that the former defense secretary described as leaving him all but speechless. 
  <p class="updated_time"> 04:14 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096943963/first-lady-jill-biden-head-to-eastern-europe-to-visit-ukrainian-refugees">First Lady Jill Biden head to Eastern Europe to visit Ukrainian refugees</a> NPR: First Lady Jill Biden is departing on a trip to Eastern Europe to visit Ukrainian refugees, as well as U.S. personnel in the region. It's her most high-profile endeavor since her husband took office. 
  <p class="updated_time"> 03:52 PM CT, May. 05 </p> 
@@ -246,8 +256,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/05/books/books-about-abortion.html">10 Books on Abortion to Understand the Roe v. Wade Debate</a> NYT: Nearly 50 years ago, the Supreme Court legalized abortion. The decision has since divided the country. Now that the issue is before the court again, here are 10 books that help frame the debate. 
  <p class="updated_time"> 08:38 AM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096365879/roe-wade-abortion-transgender-scotus-marriage-contraceptives-privacy-rights">How the reversal of Roe v. Wade could impact the transgender community</a> NPR: Rights groups are afraid that reversing Roe v. Wade could have consequences for same-sex marriage, access to contraception, and transgender rights. And now they're mobilizing. 
- <p class="updated_time"> 07:00 AM CT, May. 05 </p> 
- <a href="https://www.politico.com/news/2022/05/05/canada-conservatives-abortion-00029908">338Canada: Why Canada’s conservatives are keeping quiet on abortion</a> Politico: Polling shows a majority of Canadians consider the issue settled, so pushing to restrict access would be a risky political strategy. 
  <p class="updated_time"> 06:54 AM CT, May. 05 </p> 
  <a href="https://www.cnn.com/2022/05/05/politics/behind-the-scenes-supreme-court/index.html">Behind the scenes at the secretive Supreme Court</a> CNN: Supreme Court justices take extraordinary precautions to protect their internal deliberations. They swear their law clerks to secrecy. They shred documents. They never reveal in advance when specific decisions will be announced. 
  <p class="updated_time"> 06:47 AM CT, May. 05 </p> 
