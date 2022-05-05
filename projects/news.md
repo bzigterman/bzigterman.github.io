@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:20 AM CT, May. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61257448?at_medium=RSS&at_campaign=KARANGA">Wealthy Russians flee to Dubai to avoid sanctions</a> BBC: Property purchases by Russians in Dubai surged by 67% in the first quarter of 2022, a report says. 
+ <p class="updated_time"> 02:27 AM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
  <p class="updated_time"> 02:11 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">What Happened on Day 70 of the War in Ukraine</a> NYT: Some officials feared that Vladimir V. Putin would use Russia’s upcoming Victory Day holiday, which celebrates the Soviet triumph over Nazi Germany, to mobilize his people for a broader war. 
  <p class="updated_time"> 02:05 AM CT, May. 05 </p> 
@@ -17,36 +21,36 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/05/world/europe/uk-elections-boris-johnson.html">Why Boris Johnson Will Be Tested in UK by Local Elections</a> NYT: The British prime minister is under fire for lockdown-breaking parties. But many voters are skeptical that the opposition can solve issues such as soaring prices. 
  <p class="updated_time"> 02:00 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/business/china-covid-lockdown-europe.html">China’s Covid Policies Have European Companies Wary of Investing</a> NYT: Lockdowns and supply chain issues have soured European businesses in China on the idea of further investment in the country, a survey finds. 
- <p class="updated_time"> 01:56 AM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
+ <p class="updated_time"> 01:27 AM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
  <p class="updated_time"> 01:05 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/pakistan-baluchistan-violence.html">In Pakistan, Violence by Baluch Separatists Destabilizes Region</a> NYT: A government plagued by volatility is trying to quell a separatist movement in Baluchistan while also fighting other insurgencies and striving for economic development. 
- <p class="updated_time"> 12:56 AM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
  <p class="updated_time"> 12:40 AM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096804291/australian-prime-minister-defends-his-countrys-ties-to-solomons">Australian prime minister defends his country's ties to Solomons</a> NPR: Scott Morrison says he followed security officials' advice in managing relations with the Solomon Islands after the South Pacific neighbor's leader alleged he'd been threatened with invasion. 
+ <p class="updated_time"> 12:27 AM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169">As Coffins Come Home, Russians Confront Toll of Ukraine Invasion</a> WSJ: As Coffins Come Home, Russians Confront Toll of Ukraine Invasion 
  <p class="updated_time"> 11:57 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61328947?at_medium=RSS&at_campaign=KARANGA">Donbas fighting: Risking capture to evacuate the vulnerable from the front line</a> BBC: Civilian volunteers are going to the front line, but some have been detained by Russian forces. 
- <p class="updated_time"> 11:56 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169">As Coffins Come Home, Russians Confront Toll of Ukraine Invasion</a> WSJ: As Coffins Come Home, Russians Confront Toll of Ukraine Invasion 
  <p class="updated_time"> 11:47 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/india-russia-oil.html">India Finds Russian Oil an Irresistible Deal, No Matter the Diplomatic Pressure</a> NYT: A parade of emissaries have urged a harder line on Russia. But India’s political neutrality over the war in Ukraine has expanded into economic opportunism. 
- <p class="updated_time"> 10:56 PM CT, May. 04 </p> 
+ <p class="updated_time"> 11:27 PM CT, May. 04 </p> 
  <a href="https://www.wsj.com/articles/eu-proposes-ban-on-russian-oil-imports-11651648950">EU Proposes Ban on Russian Oil Imports</a> WSJ: EU Proposes Ban on Russian Oil Imports 
  <p class="updated_time"> 10:32 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/stanislav-shushkevich-dead.html">Stanislav Shushkevich, First Leader of Post-Soviet Belarus, Dies at 87</a> NYT: He helped formalize the breakup of the Soviet Union in 1991, led his country until 1994, then became a vocal critic of his successor, Aleksandr G. Lukashenko. 
+ <p class="updated_time"> 10:27 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618">In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</a> WSJ: In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns 
  <p class="updated_time"> 10:15 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-putin-superyacht-sanctions.html">Putin-Linked Superyacht May Elude Sanctions, by Setting Sail</a> NYT: The Italian police are in a race to finish investigating a $700 million vessel thought to be the Russian president’s — before it’s out of their reach. 
  <p class="updated_time"> 10:11 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-61329641?at_medium=RSS&at_campaign=KARANGA">Uber loses $5.9bn as Asia investment values fall</a> BBC: The firm said almost all of that loss was a due to falls in the value of investments in other companies. 
- <p class="updated_time"> 09:56 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618">In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</a> WSJ: In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns 
  <p class="updated_time"> 08:05 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61329167?at_medium=RSS&at_campaign=KARANGA">Bill Gates on Elon Musk feud and Jeffrey Epstein meetings</a> BBC: The Microsoft tycoon talks to the BBC about divorce, conspiracy theories and Elon Musk. 
  <p class="updated_time"> 07:38 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61329507?at_medium=RSS&at_campaign=KARANGA">Otoniel: Colombia drug kingpin extradited to US</a> BBC: Dairo Antonio Úsuga, better known as Otoniel, was captured in October, ending a seven-year manhunt. 
  <p class="updated_time"> 07:11 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-victory-day.html">What Is Russia’s May 9 Victory Day, and What Might Putin Say?</a> NYT: In the two decades that Vladimir V. Putin has led Russia, the country’s Victory Day marches, honoring Soviet sacrifices of World War II, have transformed into huge military spectacles and nostalgic celebrations. 
+ <p class="updated_time"> 06:20 PM CT, May. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61318779?at_medium=RSS&at_campaign=KARANGA">Africa's digital business: The women swapping shops for smartphones</a> BBC: Three African women explain how they have boosted their income by going digital since the start of Covid. 
  <p class="updated_time"> 06:18 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61307148?at_medium=RSS&at_campaign=KARANGA">How Covid-scarred Shanghai will finally exit lockdown</a> BBC: A mass clean-up is sweeping through Shanghai, with the city's gradual reopening expected to follow. 
  <p class="updated_time"> 06:08 PM CT, May. 04 </p> 
@@ -85,6 +89,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61324482?at_medium=RSS&at_campaign=KARANGA">US makes biggest interest rate rise in 22 years</a> BBC: The Federal Reserve is under pressure as the US grapples with its worst inflation in four decades. 
  <p class="updated_time"> 02:31 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61318689?at_medium=RSS&at_campaign=KARANGA">Ukraine war: EU plans Russian oil ban and war crimes sanctions</a> BBC: The measures are some of the toughest yet but Hungary has rejected them as unacceptable. 
+ <p class="updated_time"> 02:30 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/brazils-central-bank-raises-key-rate-to-12-75-sees-smaller-rate-increase-at-next-meeting-11651707058">Brazil's Central Bank Raises Key Rate to 12.75%, Sees Smaller Rate Increase at Next Meeting</a> WSJ: The Central Bank of Brazil raised its benchmark Selic lending rate to the highest level in five years and said it would continue with its strategy as long as needed until the country’s rapid inflation starts to slow. 
  <p class="updated_time"> 01:31 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61319518?at_medium=RSS&at_campaign=KARANGA">Hungary will veto EU oil ban proposal - minister</a> BBC: Zoltán Kovács says the proposal is against the country's interests and would ruin the Hungarian economy. 
  <p class="updated_time"> 01:31 PM CT, May. 04 </p> 
@@ -97,26 +103,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/04/1096413514/premature-american-twins-rescued-from-ukraine-become-stuck-in-bureaucratic-limbo">Premature American twins rescued from Ukraine become stuck in bureaucratic limbo</a> NPR: For two parents from Chicago, getting their newborn twins safely out of Ukraine was difficult. Two months later, extracting them from Poland's bureaucracy has turned out to be even more arduous. 
  <p class="updated_time"> 12:23 PM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096596286/eu-europea-russia-oil-ban">The EU just proposed a ban on oil from Russia, its main energy supplier</a> NPR: The European Union wants to sharpen its sanctions against Russia. But its leaders acknowledge Europe's economy could suffer. 
- <p class="updated_time"> 11:52 AM CT, May. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61320475?at_medium=RSS&at_campaign=KARANGA">Kenya's Talai clan petitions Prince William over land eviction</a> BBC: The Talai clan say they were evicted from their land for tea plantations, some still owned by UK firms. 
- <p class="updated_time"> 11:42 AM CT, May. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61318427?at_medium=RSS&at_campaign=KARANGA">Mali nonuplets in perfect health on first birthday - father</a> BBC: The nine Malian babies hold the world record for the most children delivered in a single birth to survive. 
  <p class="updated_time"> 11:40 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61325277?at_medium=RSS&at_campaign=KARANGA">Disabled children 'dumped' in Ukrainian institutions</a> BBC: Thousands of disabled Ukrainian children reportedly left in institutions that can’t care for them. 
  <p class="updated_time"> 11:37 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/americas/abortion-activists-movements.html">Roe Inspired Activists Worldwide, Who May Be Rethinking Strategy</a> NYT: Feminist movements in some countries similarly sought abortion protections in their courts, but for others, the goal was legislative change. 
  <p class="updated_time"> 11:06 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096606667/canada-abortion-supreme-court-leak">A Canadian official says Americans can get abortions there if Roe is overturned</a> NPR: Americans accessing health care services in Canada would have to pay out of pocket, and likely would need to overcome extra travel and logistical hurdles. 
- <p class="updated_time"> 10:53 AM CT, May. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61319922?at_medium=RSS&at_campaign=KARANGA">Ismael Borrero: Cuba's Olympic wrestling champion defects</a> BBC: The wrestling champion is the latest Cuban athlete to abscond while competing abroad. 
  <p class="updated_time"> 10:50 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/climate/john-doerr-stanford-climate.html">John Doerr Gives Stanford $1.1 Billion for Climate School</a> NYT: The billionaire venture capitalist said the study of climate change and sustainability would be the “new computer science.” 
  <p class="updated_time"> 10:40 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-spy-housing-warsaw.html">A Crumbling Russian ‘Spyville’ Returns to Polish Hands</a> NYT: A Warsaw housing complex built in the 1970s and rented by Russia was reputed to be a nest of spies. The city’s government has seized the site and pledged to hand it over to the Ukrainian community. 
  <p class="updated_time"> 10:03 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/eu-russia-oil-ban.html">E.U. to Propose Total Ban on Russian Oil Imports</a> NYT: The  proposal will be presented in detail to E.U. ambassadors Wednesday and is expected to be adopted by the end of the week. 
- <p class="updated_time"> 09:44 AM CT, May. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61320474?at_medium=RSS&at_campaign=KARANGA">Al-Shabab attack on African Union forces in Somalia: What we know</a> BBC: Islamist militants have carried out what may be their most deadly attacks on the African Union mission. 
  <p class="updated_time"> 09:35 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/health/covid-variants-gamma-iota-mu.html">Covid and Omicron Variants: Lessons From Gamma, Iota and Mu</a> NYT: Studying the coronavirus variants that have faded away could help us prepare for what comes next, scientists say. 
  <p class="updated_time"> 09:26 AM CT, May. 04 </p> 
@@ -147,18 +145,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/04/1096545061/eu-leader-calls-for-russian-oil-ban-in-new-set-of-sanctions">EU leader calls for Russian oil ban in new set of sanctions</a> NPR: The EU chief concedes that that getting all 27 member countries — some of them highly dependent on Russia for energy supplies — to agree on oil sanctions will be extremely difficult. 
  <p class="updated_time"> 02:05 AM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/north-korea-missile-test.html">North Korea Launches Ballistic Missile Ahead of Yoon’s Inauguration</a> NYT: Kim Jong-un has sought to improve the North’s nuclear capabilities and gain diplomatic leverage with Washington and the incoming administration of Yoon Suk-yeol. 
- <p class="updated_time"> 06:36 PM CT, May. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61295238?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: The divisions behind the country's united protests</a> BBC: Can protests sparked by the economic crisis bridge Sri Lanka's religious and ethnic divides? 
- <p class="updated_time"> 06:30 PM CT, May. 03 </p> 
- <a href="https://www.bbc.co.uk/news/business-61188579?at_medium=RSS&at_campaign=KARANGA">Oil prices have soared. Why won't Opec bring them down?</a> BBC: Oil prices are at an eight-year high, so why won't oil exporting countries bring them down? 
  <p class="updated_time"> 06:19 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/climate/lake-powell-mead-water-drought.html">Colorado River Reservoirs Are So Low, Government Will Delay Releases</a> NYT: The decision will keep more water in Lake Powell on the Arizona-Utah border, instead of releasing it downstream to Lake Mead. Both reservoirs are at their lowest points. 
  <p class="updated_time"> 06:17 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/arts/design/smithsonian-ethical-returns.html">Smithsonian Adopts Policy on Ethical Returns in a Nod to Changing Norms</a> NYT: The institution’s leaders hope other cultural centers will follow its lead. It has already announced plans to return most of its collection of Benin Bronzes to Nigeria under the new policy. 
  <p class="updated_time"> 06:09 PM CT, May. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61315483?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… Could Ukraine’s war spread to Moldova?</a> BBC: Ros Atkins looks at why there is concern Moldova could be drawn into war, like its neighbour Ukraine. 
- <p class="updated_time"> 06:05 PM CT, May. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61296182?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion and Yemen conflict: India couple from Kerala who survived both</a> BBC: While Akhil Reghu was being held captive by rebels in Yemen, his wife was trapped by war in Ukraine. 
  <p class="updated_time"> 05:33 PM CT, May. 03 </p> 
  <a href="https://www.nytimes.com/2022/05/03/world/europe/russia-ukraine-western-support.html">Sensing a Stalled Russia, West Adds Support and Arms for Ukraine</a> NYT: ‘You have exploded the myth of Putin’s invincibility,’ Prime Minister Boris Johnson of Britain told Ukrainian lawmakers, one of several Western sources of cheerleading on Tuesday. 
  <p class="updated_time"> 05:28 PM CT, May. 03 </p> 
