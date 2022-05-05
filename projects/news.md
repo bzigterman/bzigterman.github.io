@@ -9,32 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:40 PM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">Ukraine Live Updates: As Victory Day Looms in Russia, Guesswork Grows Over Putin’s War Goals</a> NYT: Ukraine and NATO see the coming Russian holiday, which celebrates the Soviet triumph over Nazi Germany, as a stage for the Russian president to proclaim a turn in the war. 
  <p class="updated_time"> 10:32 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/stanislav-shushkevich-dead.html">Stanislav Shushkevich, First Leader of Post-Soviet Belarus, Dies at 87</a> NYT: He helped formalize the breakup of the Soviet Union in 1991, led his country until 1994, then became a vocal critic of his successor, Aleksandr G. Lukashenko. 
- <p class="updated_time"> 10:21 PM CT, May. 04 </p> 
- <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">Ukraine Live Updates: As Victory Day Looms in Russia, Guesswork Grows Over Putin’s War Goals</a> NYT: Ukraine and NATO see the coming Russian holiday, which celebrates the Soviet triumph over Nazi Germany, as a stage for the Russian president to proclaim a turn in the war. 
+ <p class="updated_time"> 10:18 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
  <p class="updated_time"> 10:15 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-putin-superyacht-sanctions.html">Putin-Linked Superyacht May Elude Sanctions, by Setting Sail</a> NYT: The Italian police are in a race to finish investigating a $700 million vessel thought to be the Russian president’s — before it’s out of their reach. 
  <p class="updated_time"> 10:11 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/india-russia-oil.html">India Finds Russian Oil an Irresistible Deal, No Matter the Diplomatic Cost</a> NYT: A parade of emissaries have urged a harder line on Russia. But India’s political neutrality over the war in Ukraine has expanded into economic opportunism. 
  <p class="updated_time"> 10:11 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-61329641?at_medium=RSS&at_campaign=KARANGA">Uber loses $5.9bn as Asia investment values fall</a> BBC: The firm said almost all of that loss was a due to falls in the value of investments in other companies. 
- <p class="updated_time"> 09:39 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
+ <p class="updated_time"> 09:18 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
  <p class="updated_time"> 09:12 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61328842?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands: Andrew Fahie to plead not guilty in drugs case</a> BBC: Florida judge says Andrew Fahie can be released on a $500,000 bond ahead of trial for drug smuggling. 
- <p class="updated_time"> 08:39 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
+ <p class="updated_time"> 08:18 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169">As Coffins Come Home, Russians Confront Toll of Ukraine Invasion</a> WSJ: As Coffins Come Home, Russians Confront Toll of Ukraine Invasion 
  <p class="updated_time"> 08:05 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61329167?at_medium=RSS&at_campaign=KARANGA">Bill Gates on Elon Musk feud and Jeffrey Epstein meetings</a> BBC: The Microsoft tycoon talks to the BBC about divorce, conspiracy theories and Elon Musk. 
- <p class="updated_time"> 07:39 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169">As Coffins Come Home, Russians Confront Toll of Ukraine Invasion</a> WSJ: As Coffins Come Home, Russians Confront Toll of Ukraine Invasion 
  <p class="updated_time"> 07:38 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61329507?at_medium=RSS&at_campaign=KARANGA">Otoniel: Colombia drug kingpin extradited to US</a> BBC: Dairo Antonio Úsuga, better known as Otoniel, was captured in October, ending a seven-year manhunt. 
+ <p class="updated_time"> 07:18 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/eu-proposes-ban-on-russian-oil-imports-11651648950">EU Proposes Ban on Russian Oil Imports</a> WSJ: EU Proposes Ban on Russian Oil Imports 
  <p class="updated_time"> 07:11 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-victory-day.html">What Is Russia’s May 9 Victory Day, and What Might Putin Say?</a> NYT: In the two decades that Vladimir V. Putin has led Russia, the country’s Victory Day marches, honoring Soviet sacrifices of World War II, have transformed into huge military spectacles and nostalgic celebrations. 
- <p class="updated_time"> 06:39 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/eu-proposes-ban-on-russian-oil-imports-11651648950">EU Proposes Ban on Russian Oil Imports</a> WSJ: EU Proposes Ban on Russian Oil Imports 
+ <p class="updated_time"> 06:18 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618">In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</a> WSJ: In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns 
  <p class="updated_time"> 06:18 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61307148?at_medium=RSS&at_campaign=KARANGA">How Covid-scarred Shanghai will finally exit lockdown</a> BBC: A mass clean-up is sweeping through Shanghai, with the city's gradual reopening expected to follow. 
  <p class="updated_time"> 06:08 PM CT, May. 04 </p> 
@@ -45,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61325457?at_medium=RSS&at_campaign=KARANGA">Durban floods survivors: 'I thought the world was ending'</a> BBC: Moeketsi Manake and his family talk about losing everything, including their house, in the Durban floods. 
  <p class="updated_time"> 06:01 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61327821?at_medium=RSS&at_campaign=KARANGA">Myanmar civil war: ‘I saw my son’s body on Facebook’</a> BBC: After the Myanmar military entered his village, Joseph fled into the jungle but his 13-year-old was killed. 
- <p class="updated_time"> 05:39 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618">In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</a> WSJ: In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns 
  <p class="updated_time"> 05:39 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61329067?at_medium=RSS&at_campaign=KARANGA">Amber Heard says Johnny Depp struck her when on drugs</a> BBC: Taking the stand, Amber Heard alleges a pattern of violence from the Pirates of the Caribbean star. 
  <p class="updated_time"> 05:24 PM CT, May. 04 </p> 
