@@ -11,29 +11,29 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 01:05 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/pakistan-baluchistan-violence.html">In Pakistan, Violence by Baluch Separatists Destabilizes Region</a> NYT: A government plagued by volatility is trying to quell a separatist movement in Baluchistan while also fighting other insurgencies and striving for economic development. 
+ <p class="updated_time"> 12:52 AM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
  <p class="updated_time"> 12:40 AM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096804291/australian-prime-minister-defends-his-countrys-ties-to-solomons">Australian prime minister defends his country's ties to Solomons</a> NPR: Scott Morrison says he followed security officials' advice in managing relations with the Solomon Islands after the South Pacific neighbor's leader alleged he'd been threatened with invasion. 
- <p class="updated_time"> 12:27 AM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856">Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City</a> WSJ: Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City 
  <p class="updated_time"> 12:04 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/05/04/world/ukraine-russia-war-news">What Happened on Day 70 of the War in Ukraine</a> NYT: Some officials feared that Vladimir V. Putin would use Russia’s upcoming Victory Day holiday, which celebrates the Soviet triumph over Nazi Germany, to mobilize his people for a broader war. 
  <p class="updated_time"> 11:57 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61328947?at_medium=RSS&at_campaign=KARANGA">Donbas fighting: Risking capture to evacuate the vulnerable from the front line</a> BBC: Civilian volunteers are going to the front line, but some have been detained by Russian forces. 
+ <p class="updated_time"> 11:52 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
  <p class="updated_time"> 11:47 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/india-russia-oil.html">India Finds Russian Oil an Irresistible Deal, No Matter the Diplomatic Pressure</a> NYT: A parade of emissaries have urged a harder line on Russia. But India’s political neutrality over the war in Ukraine has expanded into economic opportunism. 
- <p class="updated_time"> 11:27 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/finland-holds-war-drill-alongside-u-s-soldiers-ahead-of-nato-application-11651678865">Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application</a> WSJ: Finland Holds War Drill Alongside U.S. Soldiers Ahead of NATO Application 
+ <p class="updated_time"> 10:52 PM CT, May. 04 </p> 
+ <a href="https://www.wsj.com/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169">As Coffins Come Home, Russians Confront Toll of Ukraine Invasion</a> WSJ: As Coffins Come Home, Russians Confront Toll of Ukraine Invasion 
  <p class="updated_time"> 10:32 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/stanislav-shushkevich-dead.html">Stanislav Shushkevich, First Leader of Post-Soviet Belarus, Dies at 87</a> NYT: He helped formalize the breakup of the Soviet Union in 1991, led his country until 1994, then became a vocal critic of his successor, Aleksandr G. Lukashenko. 
- <p class="updated_time"> 10:27 PM CT, May. 04 </p> 
- <a href="https://www.wsj.com/articles/as-coffins-come-home-russians-confront-toll-of-ukraine-invasion-11651668169">As Coffins Come Home, Russians Confront Toll of Ukraine Invasion</a> WSJ: As Coffins Come Home, Russians Confront Toll of Ukraine Invasion 
  <p class="updated_time"> 10:15 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/russia-putin-superyacht-sanctions.html">Putin-Linked Superyacht May Elude Sanctions, by Setting Sail</a> NYT: The Italian police are in a race to finish investigating a $700 million vessel thought to be the Russian president’s — before it’s out of their reach. 
  <p class="updated_time"> 10:11 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/business-61329641?at_medium=RSS&at_campaign=KARANGA">Uber loses $5.9bn as Asia investment values fall</a> BBC: The firm said almost all of that loss was a due to falls in the value of investments in other companies. 
- <p class="updated_time"> 09:27 PM CT, May. 04 </p> 
+ <p class="updated_time"> 09:52 PM CT, May. 04 </p> 
  <a href="https://www.wsj.com/articles/eu-proposes-ban-on-russian-oil-imports-11651648950">EU Proposes Ban on Russian Oil Imports</a> WSJ: EU Proposes Ban on Russian Oil Imports 
- <p class="updated_time"> 08:27 PM CT, May. 04 </p> 
+ <p class="updated_time"> 08:52 PM CT, May. 04 </p> 
  <a href="https://www.wsj.com/articles/in-covid-19-battle-taiwan-finds-alternative-to-chinese-style-lockdowns-11651678618">In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns</a> WSJ: In Covid-19 Battle, Taiwan Finds Alternative to Chinese-Style Lockdowns 
  <p class="updated_time"> 08:05 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61329167?at_medium=RSS&at_campaign=KARANGA">Bill Gates on Elon Musk feud and Jeffrey Epstein meetings</a> BBC: The Microsoft tycoon talks to the BBC about divorce, conspiracy theories and Elon Musk. 
@@ -192,6 +192,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:24 AM CT, May. 05 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:47 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/india-russia-oil.html">India Finds Russian Oil an Irresistible Deal, No Matter the Diplomatic Pressure</a> NYT: A parade of emissaries have urged a harder line on Russia. But India’s political neutrality over the war in Ukraine has expanded into economic opportunism. 
  <p class="updated_time"> 09:45 PM CT, May. 04 </p> 
@@ -266,8 +268,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/04/kyivs-return-to-normalcy-00029926">Funerals and wine bars: Kyiv's return to normalcy isn't normal at all</a> Politico: Putin’s forces may have retreated from Ukraine’s capital, but the war still touches every aspect of life. 
  <p class="updated_time"> 09:17 AM CT, May. 04 </p> 
  <a href="https://www.npr.org/2022/05/04/1096564427/a-lawmaker-wanted-to-refer-to-himself-as-the-patriot-on-an-election-ballot">A lawmaker wanted to refer to himself as 'The Patriot' on an election ballot</a> NPR: The Oklahoma Election Board ruled Monday that state Rep. Sean Roberts can still run for Oklahoma Labor Commissioner, but he can't refer to himself by that nickname on the ballot. 
- <p class="updated_time"> 08:58 AM CT, May. 04 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:01 AM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/poll-roe-v-wade-00029889">Poll: Half of voters support maintaining Roe v. Wade</a> Politico: Only 11 percent say abortion should be “illegal in all cases.” 
  <p class="updated_time"> 05:00 AM CT, May. 04 </p> 
