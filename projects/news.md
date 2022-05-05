@@ -9,8 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:54 PM CT, May. 05 </p> 
+ <p class="updated_time"> 04:18 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/05/05/world/israel-attack">Live Updates: 3 People Reported Killed in Attack in Israel</a> NYT: The attack follows a wave of violence by Arab assailants that has already killed 14 people in Israel since mid-March. 
+ <p class="updated_time"> 04:14 PM CT, May. 05 </p> 
+ <a href="https://www.npr.org/2022/05/05/1096943963/first-lady-jill-biden-head-to-eastern-europe-to-visit-ukrainian-refugees">First Lady Jill Biden head to Eastern Europe to visit Ukrainian refugees</a> NPR: First Lady Jill Biden is departing on a trip to Eastern Europe to visit Ukrainian refugees, as well as U.S. personnel in the region. It's her most high-profile endeavor since her husband took office. 
+ <p class="updated_time"> 04:03 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/05/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Presses on Eastern Front and Targets Final Fighters in Mariupol</a> NYT: Russian forces sought to destroy the last pocket of resistance at Azovstal steel plant in Mariupol, which would let President Vladimir V. Putin claim a major victory before Moscow’s military celebration on Monday. 
+ <p class="updated_time"> 04:01 PM CT, May. 05 </p> 
+ <a href="https://www.npr.org/2022/05/05/1096943949/cinco-de-mayo-is-part-of-a-deeper-story-of-2-nations-trying-to-define-themselves">Cinco de Mayo is part of a deeper story of 2 nations trying to define themselves</a> NPR: Cinco de Mayo has come to stand for a celebration of Mexican culture and heritage. On May 5, 1862, an epic battle was fought and won by Mexicans, which helped shape the future of Mexico and the U.S. 
+ <p class="updated_time"> 03:58 PM CT, May. 05 </p> 
+ <a href="https://www.npr.org/2022/05/05/1096920856/russia-ukraine-war-what-happened-today-may-5">Russia-Ukraine war: What happened today (May 5)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:39 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61339174?at_medium=RSS&at_campaign=KARANGA">Jealous Depp kicked me over Franco 'affair' - Heard</a> BBC: Amber Heard says jealousy of actor James Franco sent Johnny Depp into a rage on a plane. 
  <p class="updated_time"> 03:29 PM CT, May. 05 </p> 
@@ -18,47 +26,45 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:29 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/americas/abortion-activists-movements.html">Roe Inspired Activists Worldwide, Who May Be Rethinking Strategy</a> NYT: Feminist movements in some countries similarly sought abortion protections in their courts, but for others, the goal was legislative change. 
  <p class="updated_time"> 03:28 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/live/2022/05/05/world/ukraine-russia-war-news">Ukraine Live Updates: Russia Presses on Eastern Front and Targets Final Fighters in Mariupol</a> NYT: Russian forces sought to destroy the last pocket of resistance at Azovstal steel plant in Mariupol, which would let President Vladimir V. Putin claim a major victory before Moscow’s military celebration on Monday. 
- <p class="updated_time"> 03:28 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096943905/former-u-s-consul-in-rio-de-janeiro-raises-new-alarms-about-brazils-bolsonaro">Former U.S. consul in Rio de Janeiro raises new alarms about Brazil's Bolsonaro</a> NPR: The former U.S. consul in Rio de Janeiro, Scott Hamilton, speaks about his concerns about Brazilian President Jair Bolsonaro, and the implications for democratic institutions in the country. 
  <p class="updated_time"> 03:28 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096943884/some-ukrainian-refugees-in-poland-are-now-starting-to-return-home">Some Ukrainian refugees in Poland are now starting to return home</a> NPR: The war in Ukraine has forced millions of people to flee their homes. Some refugees in Poland however are now starting to return home. 
+ <p class="updated_time"> 03:24 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
  <p class="updated_time"> 03:13 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/putin-war-mariupol-ukraine.html">Why the Battle for Mariupol Is Important for Putin</a> NYT: A victory in the predominantly Russian-speaking city could give a veneer of credibility to the Russian leader’s false claims of ridding Ukraine of “Nazis.” 
- <p class="updated_time"> 02:59 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
  <p class="updated_time"> 02:45 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/africa/senegal-faidherbe-statue.html">In Senegal’s Former Capital, a Colonial Statue in Hiding Is No Longer Welcome</a> NYT: The city of Saint-Louis was shaped by Louis Faidherbe, a French governor who also led brutal military campaigns in West Africa. What to do with his legacy has divided Senegal. 
  <p class="updated_time"> 02:32 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/africa/elon-musk-south-africa.html">Elon Musk Left a South Africa That Was Rife With Misinformation and White Privilege</a> NYT: The apartheid era created all-white enclaves littered with anti-Black government propaganda and sheltered from the atrocities of apartheid. 
  <p class="updated_time"> 02:28 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/ireland-abortion-hospital.html">Ireland Abortion Rights Activists Oppose Hospital Deal</a> NYT: The government delayed a decision on the proposal, amid concerns that a private charity might follow Catholic doctrine and limit abortions at a state-funded maternity hospital. 
+ <p class="updated_time"> 02:24 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 02:09 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096880452/mariupol-steel-plant-ukraine-resistance">How a massive steel plant became the center of Ukraine's resistance in Mariupol</a> NPR: The final battle for Mariupol is taking place inside the Azovstal steel plant, a massive coastal complex in the besieged city. Hundreds of civilians are still trapped inside, officials say. 
- <p class="updated_time"> 01:59 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 01:51 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/business/china-shanghai-covid-lockdown-economy.html">China’s Covid Lockdowns Leave Millions Out of Work</a> NYT: Migrant workers and recent college graduates have been hit hardest by shuttered factories, closed construction sites and an anemic job market. 
  <p class="updated_time"> 01:43 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/americas/nicaragua-ruling-family-us.html">Nicaragua’s Secretive Ruling Family Reaches Out Quietly to the U.S.</a> NYT: Sanctions intended to thwart the president’s dictatorial actions have hit his family and inner circle hard. More pain is expected as sanctions hit Russia, an ally. 
  <p class="updated_time"> 01:31 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/lviv-jan-henryk-de-rosen-mural.html">In Lviv, a hidden work by a master is discovered.</a> NYT: During the renovation of a former Catholic church, a mural by the Polish painter Jan Henryk de Rosen was uncovered. 
+ <p class="updated_time"> 01:24 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818">Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs</a> WSJ: Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs 
  <p class="updated_time"> 01:08 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/health/covid-global-deaths.html">Death Toll During Pandemic Far Exceeds Totals Reported by Countries, W.H.O. Says</a> NYT: Nearly 15 million more people died during the first two years of the pandemic than would have been expected during normal times, the organization found. The previous count of virus deaths, from countries’ reporting, was six million. 
- <p class="updated_time"> 12:59 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818">Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs</a> WSJ: Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs 
  <p class="updated_time"> 12:55 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/business/energy-environment/natural-gas-europe-russia-ukraine.html">Europe’s Quest to Replace Russian Gas Faces Plenty of Hurdles</a> NYT: Climate concerns, investor reticence and political disputes complicate a shift to supplies from the United States, North Africa and the Mediterranean. 
  <p class="updated_time"> 12:29 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096617455/journalist-says-britain-has-become-a-safe-deposit-box-for-oligarchs-ill-gotten-g">Journalist says Britain has become a safe deposit box for oligarchs' ill-gotten gains</a> NPR: Butler to the Word author Oliver Bullough says the UK has developed a system of bankers, lawyers, accountants and PR managers who work to help Russian kleptocrats hide their wealth. 
+ <p class="updated_time"> 12:24 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/who-says-15-million-have-died-from-covid-19-pandemic-11651755496">WHO Says 15 Million Have Died From Pandemic, With Highest Toll in India</a> WSJ: WHO Says 15 Million Have Died From Pandemic, With Highest Toll in India 
  <p class="updated_time"> 12:16 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61339749?at_medium=RSS&at_campaign=KARANGA">Putin sorry for Lavrov's claim Hitler was part Jewish - Israel PM</a> BBC: Russia's foreign minister claimed that Nazi leader Adolf Hitler had Jewish blood, sparking outrage. 
  <p class="updated_time"> 12:10 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/middleeast/iraq-sandstorms-climate.html">Iraqis Choke Under a Blanket of Dust as Sandstorms Sweep the Country</a> NYT: Orange skies signaled yet another dusty day for millions of Iraqis. It was the seventh such storm in recent months, and experts say more are on the way. 
  <p class="updated_time"> 12:06 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61339742?at_medium=RSS&at_campaign=KARANGA">Ukraine war has dragged on, admits Putin ally Lukashenko</a> BBC: Belarus's authoritarian leader Lukashenko has defended the war but wants it to end. 
- <p class="updated_time"> 11:59 AM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/who-says-15-million-have-died-from-covid-19-pandemic-11651755496">WHO Says 15 Million Have Died From Pandemic, With Highest Toll in India</a> WSJ: WHO Says 15 Million Have Died From Pandemic, With Highest Toll in India 
  <p class="updated_time"> 11:59 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61335534?at_medium=RSS&at_campaign=KARANGA">Senegal midwives go on trial in Louga over Astou Sokhna's death</a> BBC: Astou Sokhna died after reportedly being refused a Caesarean, sparking a national outcry. 
  <p class="updated_time"> 11:54 AM CT, May. 05 </p> 
@@ -67,10 +73,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/05/1096842429/governments-have-undercounted-the-covid-19-death-toll-by-millions-the-who-says">Governments have undercounted the COVID-19 death toll by millions, the WHO says</a> NPR: Case in point: India, which reported 481,000 COVID-19 deaths in 2020 and 2021. The World Health Organization found 4.74 million deaths there either directly or indirectly attributable to the pandemic. 
  <p class="updated_time"> 11:34 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/americas/mexico-skulls-cave.html">They Thought the Skulls Were Murder Victims’. They Were Off by Centuries.</a> NYT: Originally thought to be the remnants of gang killings, dozens of skulls found in a cave in southern Mexico are now believed to be from sacrificial killings more than 1,000 years ago. 
+ <p class="updated_time"> 11:24 AM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/russia-struggles-to-find-new-buyers-for-commodities-as-europe-severs-links-11651755434">Russia Struggles to Find New Buyers for Commodities as Europe Severs Links</a> WSJ: Russia Struggles to Find New Buyers for Commodities as Europe Severs Links 
  <p class="updated_time"> 11:08 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/americas/ricardo-alarcon-dead.html">Ricardo Alarcon, Diplomat and Castro Confidant, Dies at 84</a> NYT: As Havana’s go-between with the U.S., he negotiated Elián González’s return to Cuba. He was also the country’s U.N. representative on two occasions. 
- <p class="updated_time"> 10:59 AM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/russia-struggles-to-find-new-buyers-for-commodities-as-europe-severs-links-11651755434">Russia Struggles to Find New Buyers for Commodities as Europe Severs Links</a> WSJ: Russia Struggles to Find New Buyers for Commodities as Europe Severs Links 
  <p class="updated_time"> 10:34 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61337622?at_medium=RSS&at_campaign=KARANGA">Elon Musk lines up $7bn backing for Twitter deal</a> BBC: The billionaire has tapped the likes of Oracle's Larry Ellison and Sequoia to finance the takeover. 
  <p class="updated_time"> 10:30 AM CT, May. 05 </p> 
@@ -149,16 +155,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/04/1096719936/ukraines-foreign-minister-says-mariupol-is-still-in-ukrainian-hands">Ukraine's Foreign Minister says Mariupol is still in Ukrainian hands</a> NPR: NPR's Mary Louise Kelly interviews Ukraine's Foreign Minister Dmytro Kuleba about the state of the war and where things might go from here. 
  <p class="updated_time"> 03:28 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/03/us/politics/covid-white-house-correspondents-dinner.html">Handful of Virus Cases Emerge After White House Correspondents’ Dinner</a> NYT: Cases are not uncommon in Washington these days, and there is no certainty that those who tested positive were infected at the dinner. 
- <p class="updated_time"> 03:25 PM CT, May. 04 </p> 
- <a href="https://www.npr.org/2022/05/04/1096725190/maradona-hand-of-god-world-cup-shirt-auction">Maradona's 'Hand of God' shirt fetches $9.3M at auction, a sports memorabilia record</a> NPR: The shirt was worn by the Argentine soccer legend when he scored the controversial "Hand of God" goal against England in the 1986 World Cup. 
  <p class="updated_time"> 01:31 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61319518?at_medium=RSS&at_campaign=KARANGA">Hungary will veto EU oil ban proposal - minister</a> BBC: Zoltán Kovács says the proposal is against the country's interests and would ruin the Hungarian economy. 
- <p class="updated_time"> 01:26 PM CT, May. 04 </p> 
- <a href="https://www.npr.org/2022/05/04/1096658544/dave-chappelle-attacker-charged-with-assault-with-a-deadly-weapon">Dave Chappelle attacker won't be charged with assault with a deadly weapon </a> NPR: Isaiah Lee had been booked on the felony charge but prosecutors say they don't have enough evidence. The case has been referred to the LA city attorney for a possible misdemeanor charge. 
  <p class="updated_time"> 12:46 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/europe/eu-russia-oil-embargo.html">European Union Takes a Leap With a Russian Oil Embargo</a> NYT: The ban, once seen as unlikely, is a significant tightening of the squeeze on Russia’s economy, and a financial blow to Europe, too. 
- <p class="updated_time"> 12:26 PM CT, May. 04 </p> 
- <a href="https://www.npr.org/2022/05/04/1096413514/premature-american-twins-rescued-from-ukraine-become-stuck-in-bureaucratic-limbo">Premature American twins rescued from Ukraine become stuck in bureaucratic limbo</a> NPR: For two parents from Chicago, getting their newborn twins safely out of Ukraine was difficult. Two months later, extracting them from Poland's bureaucracy has turned out to be even more arduous. 
  <p class="updated_time"> 11:40 AM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61325277?at_medium=RSS&at_campaign=KARANGA">Disabled children 'dumped' in Ukrainian institutions</a> BBC: Thousands of disabled Ukrainian children reportedly left in institutions that can’t care for them. 
  <p class="updated_time"> 10:50 AM CT, May. 04 </p> 
@@ -200,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:14 PM CT, May. 05 </p> 
+ <a href="https://www.npr.org/2022/05/05/1096943963/first-lady-jill-biden-head-to-eastern-europe-to-visit-ukrainian-refugees">First Lady Jill Biden head to Eastern Europe to visit Ukrainian refugees</a> NPR: First Lady Jill Biden is departing on a trip to Eastern Europe to visit Ukrainian refugees, as well as U.S. personnel in the region. It's her most high-profile endeavor since her husband took office. 
  <p class="updated_time"> 03:52 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/us/jan-6-ray-epps-evidence.html">New Evidence Undercuts Jan. 6 Instigator Conspiracy Theory</a> NYT: Recordings released to defense lawyers directly challenge assertions by prominent Republicans that an Arizona man named Ray Epps was a federal informant and helped start the Capitol riot. 
  <p class="updated_time"> 03:40 PM CT, May. 05 </p> 
@@ -302,8 +304,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/04/menendez-doj-probe-florida-rivera-00030163">Menendez reiterates call for DOJ to probe former Florida lawmaker</a> Politico: Sen. Bob Menendez previously sent a letter to former Assistant Attorney General John Demers in 2020 to request an investigation into the matter. 
  <p class="updated_time"> 04:30 PM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/senate-abortion-vote-manchin-collins-problems-00030148">More than a show vote? Senate Dems weigh their Roe plans</a> Politico: Their preferred vehicle to respond to the Supreme Court breach is all but sure to fail. Whether more abortion debate will follow remains unclear. 
- <p class="updated_time"> 04:04 PM CT, May. 04 </p> 
- <a href="https://www.npr.org/2022/05/04/1096719992/for-purple-states-like-pennsylvania-abortion-laws-may-depend-on-who-becomes-gove">For purple states like Pennsylvania, abortion laws may depend on who becomes governor</a> NPR: If the U.S. Supreme Court overturns Roe v. Wade, the right to an abortion in purple states, like Pennsylvania, might largely depend on which party can keep or take control of state government. 
  <p class="updated_time"> 03:40 PM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/blinken-tests-positive-covid-00030133">Blinken tests positive for Covid</a> Politico: The secretary of State is experiencing “mild symptoms” and hasn’t seen the president in person in several days. He plans to isolate at home. 
  <p class="updated_time"> 03:27 PM CT, May. 04 </p> 
