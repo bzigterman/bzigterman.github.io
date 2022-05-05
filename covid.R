@@ -188,8 +188,7 @@ fig3 <- hcmap("countries/us/us-il-all",
     enableMouseTracking = FALSE
   )  %>%
   hc_title(text = "Community Transmission Levels")%>%
-  hc_caption(text = paste("Source: CDC. Latest data:",
-                          tail(il_transmission_levels$short_date,1))) %>%
+  hc_caption(text = "Source: CDC") %>%
   hc_colorAxis(
     dataClasses = 
       #   list(
