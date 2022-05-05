@@ -3,7 +3,7 @@ name: autobasketball
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/16 0-11,17-23 * * *'
+    - cron: '*/36 0-11,17-23 * * *'
 
 jobs:
   run-autobasketball:
