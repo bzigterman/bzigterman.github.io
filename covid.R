@@ -109,7 +109,7 @@ fig2 <- hcmap("countries/us/us-il-all",
              value = "value",
              joinBy = "fips",
              nullColor = "#d3d3d3",
-             tooltip = list(pointFormat = "{point.name}: {point.community_level}"),
+             tooltip = list(pointFormat = "{point.name}: {point.CCL_community_burden_level}"),
              #dataLabels = list(enabled = TRUE, format = "{point.name}"),
              name = "Level"
 ) %>%
