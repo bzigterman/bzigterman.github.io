@@ -62,13 +62,17 @@ fig1 <- hcmap("countries/us/us-il-all",
   value = "value",
   joinBy = "fips",
   nullColor = "#d3d3d3",
+  borderWidth = .5,
+  borderColor = "#787878",
   #dataLabels = list(enabled = TRUE, format = "{point.name}"),
   name = "Per 100k"
 ) %>%
   hc_add_series(
     data = champaign_point,
     type = "mappoint",
-    enableMouseTracking = FALSE
+    enableMouseTracking = FALSE,
+    dataLabels = list(enabled = TRUE, format = "{point.name}",
+                      overflow = "justify")
   )  %>%
   hc_title(text = "Avg. New Cases")%>%
   hc_caption(text = "Source: CDC") %>%
@@ -109,6 +113,8 @@ fig2 <- hcmap("countries/us/us-il-all",
              value = "value",
              joinBy = "fips",
              nullColor = "#d3d3d3",
+             borderWidth = .5,
+             borderColor = "#787878",
              tooltip = list(pointFormat = "{point.name}: {point.CCL_community_burden_level}"),
              #dataLabels = list(enabled = TRUE, format = "{point.name}"),
              name = "Level"
@@ -116,7 +122,9 @@ fig2 <- hcmap("countries/us/us-il-all",
   hc_add_series(
     data = champaign_point,
     type = "mappoint",
-    enableMouseTracking = FALSE
+    enableMouseTracking = FALSE,
+    dataLabels = list(enabled = TRUE, format = "{point.name}",
+                      overflow = "justify")
   )  %>%
   hc_title(text = "Community Levels")%>%
   hc_caption(text = "Source: CDC") %>%
@@ -178,6 +186,8 @@ fig3 <- hcmap("countries/us/us-il-all",
               value = "value",
               joinBy = "fips",
               nullColor = "#d3d3d3",
+              borderWidth = .5,
+              borderColor = "#787878",
               tooltip = list(pointFormat = "{point.name}: {point.community_transmission_level}"),
               #dataLabels = list(enabled = TRUE, format = "{point.name}"),
               name = "Level"
@@ -185,7 +195,9 @@ fig3 <- hcmap("countries/us/us-il-all",
   hc_add_series(
     data = champaign_point,
     type = "mappoint",
-    enableMouseTracking = FALSE
+    enableMouseTracking = FALSE,
+    dataLabels = list(enabled = TRUE, format = "{point.name}",
+                      overflow = "justify")
   )  %>%
   hc_title(text = "Community Transmission Levels")%>%
   hc_caption(text = "Source: CDC") %>%
@@ -201,19 +213,19 @@ fig3 <- hcmap("countries/us/us-il-all",
         c(from = -0.5,
           to = 0.5,
           color = '#ffffd4',
-          name = 'low'),
+          name = 'Low'),
         c(from = 0.5,
           to = 1.5,
           color = '#fed98e',
-          name = 'moderate'),
+          name = 'Moderate'),
         c(from = 1.5,
           to = 2.5,
           color = '#fe9929',
-          name = 'substantial'),
+          name = 'Substantial'),
         c(from = 2.5,
           to = 3.5,
           color = '#cc4c02',
-          name = 'high'))
+          name = 'High'))
   ) %>%
   hc_legend(
     #floating = TRUE,
