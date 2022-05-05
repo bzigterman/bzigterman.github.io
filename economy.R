@@ -157,6 +157,7 @@ fig <- hchart(data,
               hcaes(x = date,
                     y = value*1000),
               name = "Total",
+              color = "black",
               yAxis = 0) %>%
   hc_yAxis_multiples(create_axis(naxis = 2, heights = c(1, 1),
                                  title = list(text = NULL))) %>%
@@ -166,6 +167,8 @@ fig <- hchart(data,
           y = change*1000),
     name = "Change",
     type = "column",
+    color = "#199fa8",
+    negativeColor = "#b32704",
     yAxis = 1) %>%
   hc_title(text = "Nonfarm Payroll") %>%
   hc_caption(
@@ -385,13 +388,16 @@ gdp_growth_data <- fredr(series_id = "A191RL1Q225SBEA") %>%
 
 data <- full_join(gdp_data, gdp_growth_data) %>%
   select(date, value, change) %>%
-  mutate(short_date = paste0("Q",quarter(date)))
+  mutate(short_date = paste0("Q",quarter(date))) %>%
+  mutate(actual_value = value*1000000000)
 
 fig <- hchart(data,
               type = "line", 
               hcaes(x = date,
-                    y = value*1000000000),
+                    y = actual_value),
               name = "Total",
+              #tooltip = list(pointFormat = "{point.actual_value:,.0f}"),
+              color = "black",
               yAxis = 0) %>%
   hc_yAxis_multiples(create_axis(naxis = 2, heights = c(1, 1),
                                  title = list(text = NULL))) %>%
@@ -401,6 +407,9 @@ fig <- hchart(data,
           y = change),
     name = "Change",
     type = "column",
+    tooltip = list(valueSuffix = "%"),
+    color = "#199fa8",
+    negativeColor = "#b32704",
     yAxis = 1) %>%
   hc_title(text = "Real GDP") %>%
   hc_caption(
@@ -993,6 +1002,7 @@ fig <- hchart(data,
               hcaes(x = date,
                     y = value),
               name = "Total",
+              color = "#808080",
               yAxis = 0) %>%
   hc_yAxis_multiples(create_axis(naxis = 2, heights = c(1, 1),
                                  title = list(text = NULL))) %>%
@@ -1001,6 +1011,7 @@ fig <- hchart(data,
     hcaes(x = date,
           y = round(annual_avg)),
     name = "Annual Avg.",
+    color = "black",
     type = "line",
     yAxis = 0) %>%
   hc_add_series(
@@ -1009,6 +1020,8 @@ fig <- hchart(data,
           y = change),
     name = "Annual Change",
     type = "column",
+    color = "#199fa8",
+    negativeColor = "#b32704",
     yAxis = 1) %>%
   hc_title(text = "Nonfarm Payroll") %>%
   hc_xAxis(title = list(text = NULL)) %>%
@@ -1375,6 +1388,9 @@ ggsave("plots/il_flash_index.png", width = 8, height = 8*(628/1200), dpi = 320)
 
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value),
+              color = "#199fa8",
+              negativeColor = "#b32704",
+              threshold = 100,
               name = "Index") %>%
   hc_title(text = "Flash Index") %>%
   hc_caption(
@@ -1383,7 +1399,7 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_yAxis(title = "",
            plotLines = list(
              list(
-               color = "green",
+               color = "#808080",
                width = 2,
                value = 100,
                zIndex = 1))) %>%
