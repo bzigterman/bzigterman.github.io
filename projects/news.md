@@ -9,24 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:41 AM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">U.K. Live Updates: Conservatives Suffer Losses in Local Elections</a> NYT: The results were being watched closely as a test of the damage done to Prime Minister Boris Johnson after revelations about his attendance at parties that broke lockdown rules. 
- <p class="updated_time"> 05:32 AM CT, May. 06 </p> 
+ <p class="updated_time"> 06:17 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news">Live Updates: Ukraine Begins Offensive Against Russia in Northeast</a> NYT: The Ukrainian military is trying to drive Russian forces back from around the cities of Kharkiv and Izium. An evacuation convoy was dispatched again to the besieged steel plant in Mariupol. 
+ <p class="updated_time"> 05:54 AM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">U.K. Live Updates: Boris Johnson’s Party Takes a Hit in Local Elections</a> NYT: The results were being watched closely as a test of the damage done to the prime minister and the Conservatives after revelations about breaches of lockdown rules. 
+ <p class="updated_time"> 05:45 AM CT, May. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61347620?at_medium=RSS&at_campaign=KARANGA">Facebook's Australia news ban overblocked on purpose, whistleblowers claim</a> BBC: A whistleblower group says Facebook deliberately overblocked a news ban affecting vital services. 
  <p class="updated_time"> 05:31 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1096676197/7-persistent-claims-about-abortion-fact-checked">7 persistent claims about abortion, fact-checked</a> NPR: Several not-quite-right claims have continued to linger about abortion since the Supreme Court's 1973 Roe v. Wade decision. 
  <p class="updated_time"> 05:30 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/asia/john-lee-hong-kong-election.html">In Hong Kong Election, John Lee Is Running Uncontested</a> NYT: John Lee, a Beijing loyalist who oversaw the crackdown on pro-democracy protests, built his career by deepening his contacts within the mainland security services. 
+ <p class="updated_time"> 05:22 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/video/headline/977F8B3F-ACC6-4F71-860B-432D4F996DF8.html">NATO Military Spending Amid the Ukraine War, Explained</a> WSJ: NATO Military Spending Amid the Ukraine War, Explained 
  <p class="updated_time"> 05:20 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/middleeast/israel-stabbing-attack-palestinians.html">Israel Searches for Assailants Who Killed 3 People in Stabbing Rampage</a> NYT: The deadly attack on Thursday night fueled Israeli-Palestinian tensions that have been building for more than a month. 
  <p class="updated_time"> 04:54 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/jill-biden-europe-ukraine.html">Jill Biden Embarks on Trip to Eastern Europe to Visit Ukrainian Refugees</a> NYT: The first lady is also scheduled to tour the Slovakian border with Ukraine, becoming the latest high-profile Biden administration official to come close to the conflict zone. 
  <p class="updated_time"> 04:53 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/covid-hospitalizations-cases-us.html">Worries About Covid Strain on Health Care Grow in the U.S.</a> NYT: The C.D.C. is also keeping a close eye on the nature of hospitalizations. 
- <p class="updated_time"> 04:47 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/video/headline/977F8B3F-ACC6-4F71-860B-432D4F996DF8.html">NATO Military Spending Amid the Ukraine War, Explained</a> WSJ: NATO Military Spending Amid the Ukraine War, Explained 
  <p class="updated_time"> 04:29 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61347236?at_medium=RSS&at_campaign=KARANGA">Belarus Ryanair plane arrest student Sofia Sapega jailed for six years</a> BBC: The verdict on Sofia Sapega comes a year after she was forcibly removed from a diverted Ryanair flight. 
+ <p class="updated_time"> 04:22 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/suspected-terror-attack-in-israel-kills-at-least-three-on-independence-day-11651786798">Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day</a> WSJ: Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day 
  <p class="updated_time"> 04:15 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1096481280/ukraine-agriculture-farms-russia-war">Russians wreak havoc on Ukrainian farms, mining fields and stealing equipment </a> NPR: Ukraine is one of the world's biggest producers of wheat, corn and sunflower oil. Officials say 30% of farmland is now occupied or unsafe. "My fields were destroyed by the shelling," one farmer says. 
  <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
@@ -39,26 +43,24 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/travel/mexico-timothy-leary-psychedelics.html">A Psychedelic Trip to Timothy Leary’s Catalina Resort in Mexico</a> NYT: Most travelers descending on Zihuatanejo are unaware of the resort city’s storied past with the apostle of psychedelic drugs, and his experiments in consciousness expansion. 
  <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1096890112/first-lady-jill-biden-romania-slovakia-border-nato-ukraine-refugees">Jill Biden heads to Romania and Slovakia to show support for NATO and Ukraine</a> NPR: Jill Biden's trip to the Slovakia-Ukraine border will be her most high-profile moment yet as first lady. On Mother's Day she meets with Ukrainian mothers and children who fled after Russia's invasion. 
- <p class="updated_time"> 03:47 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/suspected-terror-attack-in-israel-kills-at-least-three-on-independence-day-11651786798">Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day</a> WSJ: Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day 
  <p class="updated_time"> 03:46 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61345099?at_medium=RSS&at_campaign=KARANGA">Dave Chappelle: Stage attacker charged with misdemeanours</a> BBC: The US comedian was attacked on stage on Tuesday evening while performing at the Hollywood Bowl. 
  <p class="updated_time"> 03:38 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097067070/u-k-conservatives-lose-london-strongholds-in-blow-to-boris-johnson">U.K. Conservatives lose London strongholds in blow to Boris Johnson</a> NPR: Voting for local councils across the country will be an important barometer for the next national elections. 
+ <p class="updated_time"> 03:22 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
  <p class="updated_time"> 03:05 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61344529?at_medium=RSS&at_campaign=KARANGA">Israel hunts Palestinian axe attackers who killed three</a> BBC: Three Israelis were killed as two Palestinians bludgeoned civilians in a park full of families. 
- <p class="updated_time"> 02:47 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
- <p class="updated_time"> 01:47 AM CT, May. 06 </p> 
+ <p class="updated_time"> 02:22 AM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/suspected-colombian-drug-kingpin-extradited-to-u-s-11651787114">Suspected Colombian Drug Kingpin Extradited to U.S.</a> WSJ: Suspected Colombian Drug Kingpin Extradited to U.S. 
+ <p class="updated_time"> 02:19 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine's Azovstal Steel Plant</a> WSJ: More civilians were being evacuated from the labyrinth of bunkers beneath Mariupol’s Azovstal steel plant as Ukraine’s military counterattacked against Russian forces in the east. 
  <p class="updated_time"> 01:33 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61332283?at_medium=RSS&at_campaign=KARANGA">Why 9 May Victory Day is so important for Russia</a> BBC: Vladimir Putin has made it an annual event, but amid war in Ukraine 9 May has taken on new significance. 
- <p class="updated_time"> 01:19 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine's Azovstal Steel Plant</a> WSJ: More civilians were being evacuated from the labyrinth of bunkers beneath Mariupol’s Azovstal steel plant as Ukraine’s military counterattacked against Russian forces in the east. 
+ <p class="updated_time"> 01:22 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 01:03 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/ukraine-russia-east-donetsk-mariupol.html">Putin’s Forces Battle in East Ukraine to Feed His Hunger for a Victory</a> NYT: The fighting has intensified ahead of Russia’s May 9 Victory Day holiday commemorating the Soviet Union’s triumph over Nazi Germany. 
- <p class="updated_time"> 12:47 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 12:45 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097062320/ukraine-factory-hope-for-a-miracle">Inside the Azovstal factory: Ukrainians 'only hope for a miracle' </a> NPR: The close-quarter battle inside the Azovstal factory the last Ukrainian stronghold of the strategic port city 
  <p class="updated_time"> 12:31 AM CT, May. 06 </p> 
