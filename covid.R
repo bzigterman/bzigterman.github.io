@@ -38,63 +38,63 @@ champaign_point <- data.frame(
   z = 1
 )
 
-fig4 <- hcmap("countries/us/us-all-all",
-              data = usa_cases,
-              value = "CCL_community_burden_level_integer",
-              joinBy = "fips",
-              nullColor = "#d3d3d3",
-              borderWidth = .1,
-              borderColor = "#787878",
-              tooltip = list(pointFormat = "{point.County}, {point.State}: {point.CCL_community_burden_level}"),
-              #dataLabels = list(enabled = TRUE, format = "{point.name}"),
-              name = "Level"
-) %>%
-  hc_mapNavigation(enabled = TRUE) %>%
-  hc_add_series(
-    data = champaign_point,
-    type = "mappoint",
-    enableMouseTracking = FALSE,
-    dataLabels = list(enabled = TRUE, format = "{point.name}",
-                      overflow = "justify")
-  )  %>%
-  hc_title(text = "Community Levels")%>%
-  hc_caption(text = "Source: CDC") %>%
-  hc_tooltip(
-    
-  ) %>%
-  hc_colorAxis(
-    dataClasses = 
-      #   list(
-      #   from = c(-.5, .5, 1.5),
-      #   to = c(.5, 1.5, 2.5),
-      #   color = c("#99d594","#ffffbf","#fc8d59"),
-      #   name = c("Low","Medium","High")
-      # )
-      list(
-        c(from = -0.5,
-          to = 0.5,
-          color = '#99d594',
-          name = 'Low'),
-        c(from = 0.5,
-          to = 1.5,
-          color = '#ffffbf',
-          name = 'Medium'),
-        c(from = 1.5,
-          to = 2.5,
-          color = '#fc8d59',
-          name = 'High'))
-  ) %>%
-  hc_legend(
-    #floating = TRUE,
-    align = "right",
-    verticalAlign = "bottom",
-    layout = "vertical",
-    valueDecimals = 0
-  )
-fig4
-saveWidget(widget = fig4, file = "interactive/us_community_levels.html",
-           selfcontained = FALSE,
-           libdir = "interactive")
+# fig4 <- hcmap("countries/us/us-all-all",
+#               data = usa_cases,
+#               value = "CCL_community_burden_level_integer",
+#               joinBy = "fips",
+#               nullColor = "#d3d3d3",
+#               borderWidth = .1,
+#               borderColor = "#787878",
+#               tooltip = list(pointFormat = "{point.County}, {point.State}: {point.CCL_community_burden_level}"),
+#               #dataLabels = list(enabled = TRUE, format = "{point.name}"),
+#               name = "Level"
+# ) %>%
+#   hc_mapNavigation(enabled = TRUE) %>%
+#   hc_add_series(
+#     data = champaign_point,
+#     type = "mappoint",
+#     enableMouseTracking = FALSE,
+#     dataLabels = list(enabled = TRUE, format = "{point.name}",
+#                       overflow = "justify")
+#   )  %>%
+#   hc_title(text = "Community Levels")%>%
+#   hc_caption(text = "Source: CDC") %>%
+#   hc_tooltip(
+#     
+#   ) %>%
+#   hc_colorAxis(
+#     dataClasses = 
+#       #   list(
+#       #   from = c(-.5, .5, 1.5),
+#       #   to = c(.5, 1.5, 2.5),
+#       #   color = c("#99d594","#ffffbf","#fc8d59"),
+#       #   name = c("Low","Medium","High")
+#       # )
+#       list(
+#         c(from = -0.5,
+#           to = 0.5,
+#           color = '#99d594',
+#           name = 'Low'),
+#         c(from = 0.5,
+#           to = 1.5,
+#           color = '#ffffbf',
+#           name = 'Medium'),
+#         c(from = 1.5,
+#           to = 2.5,
+#           color = '#fc8d59',
+#           name = 'High'))
+#   ) %>%
+#   hc_legend(
+#     #floating = TRUE,
+#     align = "right",
+#     verticalAlign = "bottom",
+#     layout = "vertical",
+#     valueDecimals = 0
+#   )
+# fig4
+# saveWidget(widget = fig4, file = "interactive/us_community_levels.html",
+#            selfcontained = FALSE,
+#            libdir = "interactive")
 
 
 il_cases <- usa_cases %>%
@@ -1347,10 +1347,6 @@ Definitions from the CDC:
 </picture>
 
 ",better_usa_table_html,"
-
-<iframe src=\"/interactive/us_community_levels.html\" width=\"100%\" height=\"300\"> 
-</iframe>
-</div>
 
 <picture>
   <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_community_levels.png\"

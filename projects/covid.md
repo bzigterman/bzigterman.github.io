@@ -1422,10 +1422,6 @@ html {
 </table>
 </div>
 
-<iframe src="/interactive/us_community_levels.html" width="100%" height="300"> 
-</iframe>
-</div>
-
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_community_levels.png"
           media="(min-width: 750px)">
