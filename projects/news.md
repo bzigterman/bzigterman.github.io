@@ -9,9 +9,13 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:11 PM CT, May. 06 </p> 
+ <p class="updated_time"> 04:51 PM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/06/world/israel-stabbing-attack-palestinians">Live Updates: Israel Searches for Assailants in Ax Rampage</a> NYT: The attack on Thursday, which killed three Israelis, fueled an escalation of tensions that have been building since late March, much of it around holy sites in Jerusalem. 
+ <p class="updated_time"> 04:44 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">U.K. Live Updates: Sinn Fein Is Winning in Northern Ireland</a> NYT: In local elections across the U.K., Boris Johnson acknowledges a “tough night” for Conservatives, and Northern Ireland’s pro-unity party was nearing a historic victory. 
- <p class="updated_time"> 04:11 PM CT, May. 06 </p> 
+ <p class="updated_time"> 04:41 PM CT, May. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/61357256?at_medium=RSS&at_campaign=KARANGA">Italy orders seizure of yacht linked to Putin</a> BBC: The Scheherazade has been undergoing repairs and is being seized under EU sanctions. 
+ <p class="updated_time"> 04:40 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/cuba-explosion-havana-hotel">Live Updates: Explosion at Hotel in Cuba Kills Nine</a> NYT: An explosion caused by an apparent gas leak left dozens injured and destroyed parts of a luxury hotel. Other people were possibly trapped inside the rubble. 
  <p class="updated_time"> 04:07 PM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097190889/russia-ukraine-war-what-happened-today-may-6">Russia-Ukraine war: What happened today (May 6)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
@@ -19,42 +23,40 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/06/1097261235/middle-east-expert-weighs-in-on-string-of-prison-releases-in-egypt">Middle East expert weighs in on string of prison releases in Egypt</a> NPR: NPR's Adrian Florido talks with Mirette Mabrouk, founding director of the Egypt program at the Middle East Institute, about the recent string of political prisoner releases in Egypt. 
  <p class="updated_time"> 04:02 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news">Live Updates: Ukraine Tries to Push Russia Back From Key Cities</a> NYT: The Ukrainian military took the offensive as the two sides battle for control of the east. In the south, an evacuation convoy was dispatched to rescue civilians from the besieged steel plant in Mariupol. 
- <p class="updated_time"> 04:00 PM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/05/06/world/israel-stabbing-attack-palestinians">Live Updates: Israel Searches for Assailants in Ax Rampage</a> NYT: The attack on Thursday, which killed three Israelis, fueled an escalation of tensions that have been building since late March, much of it around holy sites in Jerusalem. 
  <p class="updated_time"> 03:53 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/belarus-sapega.html">Belarus Sentences the Russian Law Student Who Was a Dissident’s Girlfriend to Six Years in Prison</a> NYT: Sofia Sapega was traveling from Greece to Lithuania with her romantic partner, Roman Protasevich, when the Belarusian air traffic control diverted their plane to Minsk, where they were both arrested. 
- <p class="updated_time"> 03:25 PM CT, May. 06 </p> 
+ <p class="updated_time"> 03:52 PM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant</a> WSJ: Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant 
  <p class="updated_time"> 03:23 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/johnson-starmer-elections-britain.html">Boris Johnson and His Party Suffer Setbacks in Local Voting in Britain</a> NYT: But the British leader appeared to have survived the storm — for now at least — as the head of the opposition Labour Party came under scrutiny for violating lockdown rules himself. 
  <p class="updated_time"> 03:20 PM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097261172/the-acting-u-s-ambassador-to-ukraine-is-preparing-for-2-big-transitions">The acting U.S. ambassador to Ukraine is preparing for 2 big transitions</a> NPR: The U.S. embassy is about to return to Kyiv, after evacuating to Poland early in the war. Also, President Biden has nominated a veteran diplomat to fill the post that has been vacant for three years. 
- <p class="updated_time"> 02:25 PM CT, May. 06 </p> 
+ <p class="updated_time"> 02:52 PM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/blast-in-cuba-tears-through-havanas-iconic-hotel-saratoga-11651855524">Eight Dead After Explosion Tears Through Cuba’s Hotel Saratoga</a> WSJ: Eight Dead After Explosion Tears Through Cuba’s Hotel Saratoga 
  <p class="updated_time"> 01:54 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61358186?at_medium=RSS&at_campaign=KARANGA">Saratoga Hotel: Eight dead after huge explosion in Havana</a> BBC: Local officials blamed a gas leak for the explosion at the five-star Saratoga Hotel in Havana, Cuba. 
- <p class="updated_time"> 01:25 PM CT, May. 06 </p> 
+ <p class="updated_time"> 01:52 PM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Mass Graves in Ukraine Reveal Mounting Death Toll 
  <p class="updated_time"> 01:24 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/business/energy-environment/natural-gas-europe-russia-ukraine.html">Europe’s Quest to Replace Russian Gas Faces Plenty of Hurdles</a> NYT: Climate concerns, investor reticence and political disputes complicate a shift to supplies from the United States, North Africa and the Mediterranean. 
  <p class="updated_time"> 01:20 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61353020?at_medium=RSS&at_campaign=KARANGA">Who is Alina Kabaeva, Putin's alleged girlfriend?</a> BBC: The EU is proposing to sanction Alina Kabaeva, an ex-gymnast turned media boss close to President Vladimir Putin. 
+ <p class="updated_time"> 12:52 PM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/hungary-holds-up-eu-deal-to-sanction-russian-oil-11651843279">Hungary Holds Up EU Deal to Sanction Russian Oil</a> WSJ: Hungary Holds Up EU Deal to Sanction Russian Oil 
  <p class="updated_time"> 12:37 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/uk-queen-harry-andrew-platinum-jubilee.html">Who Will Be in the Queen’s Jubilee Photo-Op?</a> NYT: Neither Prince Harry and his wife Meghan, nor Prince Andrew will get a place on the balcony at Buckingham Palace. It’s not even certain Queen Elizabeth, 96, will be there. 
  <p class="updated_time"> 12:29 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61339176?at_medium=RSS&at_campaign=KARANGA">Ex-officer jailed after rough arrest of woman with dementia</a> BBC: Austin Hopp has been sentenced to five years for assault after arrest of a woman with dementia. 
  <p class="updated_time"> 12:29 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/americas/francia-marquez-colombia-vp.html">Francia Márquez Could Become Colombias First Black Vice President</a> NYT: Francia Márquez could soon be Colombia’s first Black vice president, and she has cracked open a discussion about race and class in a manner rarely seen in national politics. 
- <p class="updated_time"> 12:25 PM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/hungary-holds-up-eu-deal-to-sanction-russian-oil-11651843279">Hungary Holds Up EU Deal to Sanction Russian Oil</a> WSJ: Hungary Holds Up EU Deal to Sanction Russian Oil 
  <p class="updated_time"> 12:21 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61347906?at_medium=RSS&at_campaign=KARANGA">Kenyan Muslim cleric refuses to leave jail after acquittal</a> BBC: He fears being killed by Kenyan state agents as is alleged has happened to other terror suspects. 
  <p class="updated_time"> 12:00 PM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097137528/havana-cuba-hotel-explosion-deaths">At least 8 people have died in an explosion at a Havana hotel</a> NPR: Dozens were injured in the blast that ripped away large sections of the outer wall at the Hotel Saratoga, a 19th century structure. A gas leak was the suspected cause of the explosion. 
+ <p class="updated_time"> 11:52 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/philippines-duterte-era-ends-leaving-fate-of-tighter-china-ties-to-his-successor-11651840777">Philippines’ Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor</a> WSJ: Philippines’ Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor 
  <p class="updated_time"> 11:42 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/covid-hospitalizations-cases-us.html">Worries About Covid Strain on Health Care Grow in the U.S.</a> NYT: The C.D.C. is also keeping a close eye on the nature of hospitalizations. 
- <p class="updated_time"> 11:25 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/philippines-duterte-era-ends-leaving-fate-of-tighter-china-ties-to-his-successor-11651840777">Philippines’ Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor</a> WSJ: Philippines’ Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor 
  <p class="updated_time"> 11:24 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61347237?at_medium=RSS&at_campaign=KARANGA">Shooting on Dutch care farm leaves two dead</a> BBC: The victims were a girl of 16 and a 38-year-old woman and a man has been arrested. 
  <p class="updated_time"> 11:13 AM CT, May. 06 </p> 
@@ -105,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/05/world/europe/ukraine-russia-east-donetsk-mariupol.html">Putin’s Forces Battle in East Ukraine to Feed His Hunger for a Victory</a> NYT: The fighting has intensified ahead of Russia’s May 9 Victory Day holiday commemorating the Soviet Union’s triumph over Nazi Germany. 
  <p class="updated_time"> 12:45 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097062320/ukraine-factory-hope-for-a-miracle">Inside the Azovstal factory: Ukrainians 'only hope for a miracle' </a> NPR: The close-quarter battle inside the steel plant — the last Ukrainian stronghold of the strategic port city of Mariupol --appeared increasingly desperate. 
- <p class="updated_time"> 12:30 AM CT, May. 06 </p> 
- <a href="https://www.bbc.co.uk/news/business-61343255?at_medium=RSS&at_campaign=KARANGA">Gucci stores to accept cryptocurrencies in US</a> BBC: Gucci joins a growing number of major companies that have started to accept digital currencies. 
  <p class="updated_time"> 09:56 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/pakistan-baluchistan-violence.html">In Pakistan, Violence by Baluch Separatists Destabilizes Region</a> NYT: A government plagued by volatility is trying to quell a separatist movement in Baluchistan while also fighting other insurgencies and striving for economic development. 
  <p class="updated_time"> 09:37 PM CT, May. 05 </p> 
@@ -196,14 +196,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:51 PM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/2022/05/06/business/economy/jobs-report-april-2022.html">April Jobs Report: Gain of 428,000 Shows Vibrant Labor Market</a> NYT: The Labor Department reported a gain of 428,000 jobs in April, along with a 5.5 percent increase in average hourly earnings from a year earlier. 
+ <p class="updated_time"> 04:50 PM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/2022/05/06/us/politics/covid-aid-vaccines-white-house.html">White House Plans for How to Provide Vaccines if No More Covid Aid</a> NYT: The White House has been asking Congress for $22.5 billion in emergency aid to continue responding to the pandemic, but Republicans have insisted on a much lower number. 
+ <p class="updated_time"> 04:45 PM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/2022/05/06/us/politics/border-protection-critical-incident-teams.html">Customs and Border Protection Will Disband Secretive ‘Critical Incident Teams’</a> NYT: The agency’s commissioner announced the change after the teams — which had long operated under the public radar — came under scrutiny earlier this year. 
+ <p class="updated_time"> 04:43 PM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/2022/05/06/us/politics/pelosi-pay-increase-house-union.html">Pelosi Increases House Staff Pay Scale, Setting a New Wage Floor</a> NYT: The speaker said staff aides would earn at least $45,000 annually and boosted the pay cap to $203,700. She also set a vote on a bill to protect those who unionize. 
+ <p class="updated_time"> 04:21 PM CT, May. 06 </p> 
+ <a href="https://www.politico.com/news/2022/05/06/pennsylvania-republican-rally-trump-00030802">Tonight, a host of Pennsylvania Republicans are praying Trump gives them a rose.</a> Politico: They’re not scheduled, for now, to speak at the rally. But that’s not the point. 
  <p class="updated_time"> 04:19 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/business/economy/nlrb-amazon-staten-island.html">NLRB Finds Merit in Union Accusations Against Amazon</a> NYT: Workers had accused the company of unlawful behavior during a recent union campaign. 
  <p class="updated_time"> 04:01 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/politics/marjorie-taylor-greene-insurrection.html">Judge Rules that Marjorie Taylor Greene Did Not Engage in an Insurrection on Jan. 6</a> NYT: A Georgia administrative law judge said Representative Marjorie Taylor Greene, a Republican seeking a second term, should remain on the ballot. 
  <p class="updated_time"> 03:42 PM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097261186/the-threat-to-abortion-rights-could-mobilize-young-voters-democratic-leaders-hop">The threat to abortion rights could mobilize young voters, Democratic leaders hope</a> NPR: These midterms, younger voters have soured on the Democratic Party. Party leaders see the threat to abortion rights as an opportunity to rebuild the multigenerational coalition that elected Joe Biden. 
- <p class="updated_time"> 03:20 PM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/2022/05/06/us/politics/pelosi-pay-increase-house-union.html">Pelosi Increases House Staff Pay Scale, Setting a New Wage Floor</a> NYT: The speaker said staff aides would earn at least $45,000 annually and boosted the pay cap to $203,700. She also set a vote on a bill to protect those who unionize. 
  <p class="updated_time"> 03:20 PM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097261172/the-acting-u-s-ambassador-to-ukraine-is-preparing-for-2-big-transitions">The acting U.S. ambassador to Ukraine is preparing for 2 big transitions</a> NPR: The U.S. embassy is about to return to Kyiv, after evacuating to Poland early in the war. Also, President Biden has nominated a veteran diplomat to fill the post that has been vacant for three years. 
  <p class="updated_time"> 02:56 PM CT, May. 06 </p> 
@@ -222,8 +230,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/06/1097103804/house-vote-congressional-staffers-unionize">The House will vote on a measure to allow congressional staffers to unionize</a> NPR: House Speaker Nancy Pelosi said in a statement Friday that the House is expected to vote on a resolution next week that would allow congressional staffers to unionize. 
  <p class="updated_time"> 09:30 AM CT, May. 06 </p> 
  <a href="https://www.politico.com/news/2022/05/06/labor-market-jobs-boom-00030566">The jobs boom that just won’t quit</a> Politico: The market remains remarkably strong and tilted toward job seekers. The jobless rate is close to where it was before the pandemic. 
- <p class="updated_time"> 08:45 AM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/2022/05/06/business/economy/jobs-report-april-2022.html">April Jobs Report: Gain of 428,000 Shows Vibrant Labor Market</a> NYT: The Labor Department report also showed a 5.5 percent increase in average hourly earnings from a year earlier. 
+ <p class="updated_time"> 09:14 AM CT, May. 06 </p> 
+ <a href="https://www.politico.com/news/2022/05/06/biden-administration-russian-visas-00030648">Biden administration scrambles to deal with Russians trying to reach America</a> Politico: The U.S. is trying to lure Russian scientists in particular, but a leaked State Department cable indicates many others need help after fleeing the Kremlin’s rule. 
  <p class="updated_time"> 08:31 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/us/politics/ben-ray-lujan-stroke-interview.html">The Stroke That Nearly Broke the Democratic Majority</a> NYT: Senator Ben Ray Luján’s recovery was “miraculous,” the New Mexico Democrat said in one of his first interviews since his health scare early this year. 
  <p class="updated_time"> 08:09 AM CT, May. 06 </p> 
@@ -236,8 +244,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/06/1096890112/first-lady-jill-biden-romania-slovakia-border-nato-ukraine-refugees">Jill Biden heads to Romania and Slovakia to show support for NATO and Ukraine</a> NPR: Jill Biden's trip to the Slovakia-Ukraine border will be her most high-profile moment yet as first lady. On Mother's Day she meets with Ukrainian mothers and children who fled after Russia's invasion. 
  <p class="updated_time"> 03:38 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097067070/u-k-conservatives-lose-london-strongholds-in-blow-to-boris-johnson">U.K. Conservatives lose London strongholds in blow to Boris Johnson</a> NPR: Voting for local councils across the country will be an important barometer for the next national elections. 
- <p class="updated_time"> 03:31 AM CT, May. 06 </p> 
- <a href="https://www.politico.com/news/2022/05/06/florida-republicans-wont-let-go-of-disneys-campaign-cash-00029411">Florida Republicans won't let go of Disney's campaign cash</a> Politico: Gov. Ron DeSantis and most Republicans in Florida won’t return hundreds of thousands of dollars in campaign cash they received from the entertainment giant. 
  <p class="updated_time"> 03:30 AM CT, May. 06 </p> 
  <a href="https://www.politico.com/news/2022/05/06/potential-abortion-bans-and-penalties-by-state-00030572">Abortion bans and penalties would vary widely by state</a> Politico: The penalties vary widely by state, and also can include hefty fines or the suspension of a medical license. 
  <p class="updated_time"> 03:30 AM CT, May. 06 </p> 
@@ -270,10 +276,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/05/fda-johnson-johnson-covid-vaccine-00030505">FDA dramatically narrows use of Johnson & Johnson Covid-19 vaccine</a> Politico: The single-shot Covid-19 vaccine will now only be available for adults who cannot or will not receive an mRNA vaccine. 
  <p class="updated_time"> 06:13 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/us/politics/mark-esper-book-trump.html">Trump Proposed Launching Missiles Into Mexico to ‘Destroy the Drug Labs,’ Esper Says</a> NYT: It is one of the moments in his upcoming memoir that the former defense secretary described as leaving him all but speechless. 
- <p class="updated_time"> 05:32 PM CT, May. 05 </p> 
- <a href="https://www.politico.com/news/2022/05/05/trump-set-the-stage-for-roes-demise-for-now-he-doesnt-wanna-talk-about-it-00030543">Trump set the stage for Roe’s demise. For now, he doesn’t wanna talk about it.</a> Politico: A politician who never misses a chance to crow has gone quiet as a signature achievement nears. 
- <p class="updated_time"> 05:29 PM CT, May. 05 </p> 
- <a href="https://www.politico.com/news/2022/05/05/law-enforcement-violence-scotus-draft-roe-opinion-00030509">Law enforcement officials brace for potential violence around SCOTUS draft opinion</a> Politico: More than 150 officials nationwide joined a coordination call to prepare for possible violent attacks. 
  <p class="updated_time"> 05:28 PM CT, May. 05 </p> 
  <a href="https://www.politico.com/news/2022/05/05/fldoe-releases-math-textbook-reviews-00030503">Mystery solved? Florida reveals why it rejected math books over critical race theory</a> Politico: The records, nearly 6,000 pages of book examinations, show that state reviewers flagged several traces of critical race theory and inklings of “social emotional learning” in proposed texts. 
  <p class="updated_time"> 05:01 PM CT, May. 05 </p> 
@@ -302,16 +304,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/05/world/americas/ricardo-alarcon-dead.html">Ricardo Alarcon, Diplomat and Castro Confidant, Dies at 84</a> NYT: As Havana’s go-between with the U.S., he negotiated Elián González’s return to Cuba. He was also the country’s U.N. representative on two occasions. 
  <p class="updated_time"> 11:00 AM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096732347/roe-v-wade-implications-beyond-abortion">Could overturning Roe v. Wade have implications beyond abortion?</a> NPR: The draft Supreme Court opinion says it is limited to abortion, but advocates say same-sex marriage and birth control cases could be at risk. 
- <p class="updated_time"> 08:41 AM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/books/books-about-abortion.html">10 Books on Abortion to Understand the Roe v. Wade Debate</a> NYT: Nearly 50 years ago, the Supreme Court legalized abortion. The decision has since divided the country. Now that the issue is before the court again, here are 10 books that help frame the debate. 
  <p class="updated_time"> 03:30 AM CT, May. 05 </p> 
  <a href="https://www.politico.com/news/2022/05/05/trump-influence-over-gop-elections-00030161">Trump reasserts his GOP dominance</a> Politico: His Ohio romp is a strong signal that — for all the talk of his shrinking influence — the GOP is still in his thrall. 
  <p class="updated_time"> 03:30 AM CT, May. 05 </p> 
  <a href="https://www.politico.com/news/2022/05/05/abortion-battleground-roe-opinion-democrats-00030113">Dems grasp for a foothold on voter anger over abortion</a> Politico: Their base is starting to recover Trump-era protest energy after the Supreme Court's breached Roe opinion. Channeling that to November won't be easy. 
  <p class="updated_time"> 02:15 AM CT, May. 05 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 02:00 AM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/us/politics/biden-abortion.html">With Roe Under Threat, Biden Is an Unlikely Abortion Rights Champion</a> NYT: Over the course of a half-century in national politics, President Biden has evolved from an outright critic of Roe to a seemingly reluctant and largely quiet supporter. 
  <p class="updated_time"> 05:54 PM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/gop-primaries-00030152">‘Are you going to cave?’ GOP primaries pit ‘fighters’ against ‘governing wing’</a> Politico: Primary clashes in states across the country will shape the potential GOP House majority. 
  <p class="updated_time"> 04:30 PM CT, May. 04 </p> 
