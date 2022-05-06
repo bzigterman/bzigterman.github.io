@@ -9,20 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:59 AM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">U.K. Live Updates: Boris Johnson’s Party Takes a Hit in Local Elections</a> NYT: The results were being watched closely as a test of the damage done to the prime minister and the Conservatives after revelations about breaches of lockdown rules. 
- <p class="updated_time"> 06:42 AM CT, May. 06 </p> 
+ <p class="updated_time"> 07:44 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news">Live Updates: Ukraine Begins Offensive Against Russia in Northeast</a> NYT: The Ukrainian military is trying to drive Russian forces back from around the cities of Kharkiv and Izium. An evacuation convoy was dispatched again to the besieged steel plant in Mariupol. 
- <p class="updated_time"> 06:40 AM CT, May. 06 </p> 
+ <p class="updated_time"> 07:37 AM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">U.K. Live Updates: Boris Johnson’s Party Takes a Hit in Local Elections</a> NYT: The results were being watched closely as a test of the damage done to the prime minister and the Conservatives after revelations about breaches of lockdown rules. 
+ <p class="updated_time"> 07:32 AM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/2022/05/06/world/europe/ukraine-russia-artillery-kharkiv.html">One Village at a Time: The Grinding Artillery War in Ukraine</a> NYT: The advances by the Ukrainian army in the north have been modest, but they are emblematic of both sides’ strategy: maneuvering artillery to gain territory. 
+ <p class="updated_time"> 07:30 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/covid-hospitalizations-cases-us.html">Worries About Covid Strain on Health Care Grow in the U.S.</a> NYT: The C.D.C. is also keeping a close eye on the nature of hospitalizations. 
+ <p class="updated_time"> 06:50 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/video/headline/977F8B3F-ACC6-4F71-860B-432D4F996DF8.html">NATO Military Spending Amid the Ukraine War, Explained</a> WSJ: NATO Military Spending Amid the Ukraine War, Explained 
  <p class="updated_time"> 06:39 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61344529?at_medium=RSS&at_campaign=KARANGA">Israel hunts Palestinian axe attackers who killed three</a> BBC: Three Israelis were killed as two Palestinians bludgeoned civilians in a park full of families. 
- <p class="updated_time"> 06:37 AM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/2022/05/06/world/europe/ukraine-russia-artillery-kharkiv.html">One Village at a Time: The Grinding Artillery War in Ukraine</a> NYT: The gains by the Ukrainian army in the north have been modest, but they are emblematic of both sides’ strategy across Ukraine: maneuvering artillery to make modest gains in territory. 
  <p class="updated_time"> 06:20 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61332283?at_medium=RSS&at_campaign=KARANGA">Why 9 May Victory Day is so important for Russia</a> BBC: Vladimir Putin has made it an annual event, but amid war in Ukraine 9 May has taken on new significance. 
- <p class="updated_time"> 06:00 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/video/headline/977F8B3F-ACC6-4F71-860B-432D4F996DF8.html">NATO Military Spending Amid the Ukraine War, Explained</a> WSJ: NATO Military Spending Amid the Ukraine War, Explained 
+ <p class="updated_time"> 05:50 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant</a> WSJ: Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant 
  <p class="updated_time"> 05:45 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61347620?at_medium=RSS&at_campaign=KARANGA">Facebook's Australia news ban overblocked on purpose, whistleblowers claim</a> BBC: A whistleblower group says Facebook deliberately overblocked a news ban affecting vital services. 
  <p class="updated_time"> 05:31 AM CT, May. 06 </p> 
@@ -31,10 +33,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/world/asia/john-lee-hong-kong-election.html">In Hong Kong Election, John Lee Is Running Uncontested</a> NYT: John Lee, a Beijing loyalist who oversaw the crackdown on pro-democracy protests, built his career by deepening his contacts within the mainland security services. 
  <p class="updated_time"> 05:20 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/middleeast/israel-stabbing-attack-palestinians.html">Israel Searches for Assailants Who Killed 3 People in Stabbing Rampage</a> NYT: The deadly attack on Thursday night fueled Israeli-Palestinian tensions that have been building for more than a month. 
- <p class="updated_time"> 05:00 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/suspected-terror-attack-in-israel-kills-at-least-three-on-independence-day-11651786798">Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day</a> WSJ: Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day 
  <p class="updated_time"> 04:54 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/jill-biden-europe-ukraine.html">Jill Biden Embarks on Trip to Eastern Europe to Visit Ukrainian Refugees</a> NYT: The first lady is also scheduled to tour the Slovakian border with Ukraine, becoming the latest high-profile Biden administration official to come close to the conflict zone. 
+ <p class="updated_time"> 04:50 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Mass Graves in Ukraine Reveal Mounting Death Toll 
  <p class="updated_time"> 04:29 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61347236?at_medium=RSS&at_campaign=KARANGA">Belarus Ryanair plane arrest student Sofia Sapega jailed for six years</a> BBC: The verdict on Sofia Sapega comes a year after she was forcibly removed from a diverted Ryanair flight. 
  <p class="updated_time"> 04:15 AM CT, May. 06 </p> 
@@ -46,29 +48,23 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/japan-nuclear-power.html">Japan Says It Needs Nuclear Power. Can Host Towns Ever Trust It Again?</a> NYT: The Ukraine war has shown the fragility of Japan’s energy supplies. But the decision to restart plants after the Fukushima disaster is fraught with emotions and political calculation. 
  <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
- <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/travel/mexico-timothy-leary-psychedelics.html">A Psychedelic Trip to Timothy Leary’s Catalina Resort in Mexico</a> NYT: Most travelers descending on Zihuatanejo are unaware of the resort city’s storied past with the apostle of psychedelic drugs, and his experiments in consciousness expansion. 
  <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1096890112/first-lady-jill-biden-romania-slovakia-border-nato-ukraine-refugees">Jill Biden heads to Romania and Slovakia to show support for NATO and Ukraine</a> NPR: Jill Biden's trip to the Slovakia-Ukraine border will be her most high-profile moment yet as first lady. On Mother's Day she meets with Ukrainian mothers and children who fled after Russia's invasion. 
+ <p class="updated_time"> 03:50 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/suspected-terror-attack-in-israel-kills-at-least-three-on-independence-day-11651786798">Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day</a> WSJ: Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day 
  <p class="updated_time"> 03:46 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61345099?at_medium=RSS&at_campaign=KARANGA">Dave Chappelle: Stage attacker charged with misdemeanours</a> BBC: The US comedian was attacked on stage on Tuesday evening while performing at the Hollywood Bowl. 
  <p class="updated_time"> 03:38 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097067070/u-k-conservatives-lose-london-strongholds-in-blow-to-boris-johnson">U.K. Conservatives lose London strongholds in blow to Boris Johnson</a> NPR: Voting for local councils across the country will be an important barometer for the next national elections. 
- <p class="updated_time"> 03:00 AM CT, May. 06 </p> 
+ <p class="updated_time"> 02:50 AM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/suspected-colombian-drug-kingpin-extradited-to-u-s-11651787114">Suspected Colombian Drug Kingpin Extradited to U.S.</a> WSJ: Suspected Colombian Drug Kingpin Extradited to U.S. 
- <p class="updated_time"> 02:19 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine's Azovstal Steel Plant</a> WSJ: More civilians were being evacuated from the labyrinth of bunkers beneath Mariupol’s Azovstal steel plant as Ukraine’s military counterattacked against Russian forces in the east. 
- <p class="updated_time"> 02:00 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 01:03 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/ukraine-russia-east-donetsk-mariupol.html">Putin’s Forces Battle in East Ukraine to Feed His Hunger for a Victory</a> NYT: The fighting has intensified ahead of Russia’s May 9 Victory Day holiday commemorating the Soviet Union’s triumph over Nazi Germany. 
  <p class="updated_time"> 12:45 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097062320/ukraine-factory-hope-for-a-miracle">Inside the Azovstal factory: Ukrainians 'only hope for a miracle' </a> NPR: The close-quarter battle inside the Azovstal factory the last Ukrainian stronghold of the strategic port city 
  <p class="updated_time"> 12:31 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61342891?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands premier Andrew Fahie replaced after drugs arrest</a> BBC: Andrew Fahie is removed as leader of the overseas territory following a no-confidence vote. 
- <p class="updated_time"> 12:30 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Analysis of satellite imagery shows expanding mass burial sites outside of Kyiv and Mariupol. 
  <p class="updated_time"> 11:58 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61343044?at_medium=RSS&at_campaign=KARANGA">Moskva sinking: US gave intelligence that helped Ukraine sink Russian cruiser - reports</a> BBC: The Pentagon has not commented, but a spokesman said the US gave intelligence to help Ukraine's defence. 
  <p class="updated_time"> 11:00 PM CT, May. 05 </p> 
@@ -219,7 +215,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1096890112/first-lady-jill-biden-romania-slovakia-border-nato-ukraine-refugees">Jill Biden heads to Romania and Slovakia to show support for NATO and Ukraine</a> NPR: Jill Biden's trip to the Slovakia-Ukraine border will be her most high-profile moment yet as first lady. On Mother's Day she meets with Ukrainian mothers and children who fled after Russia's invasion. 
  <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
- <a href="https://www.politico.com/news/2022/05/06/pbdd-scotus-roe-00030453">Lifting the curtain on SCOTUS with a POLITICO reporter who broke the Roe story</a> Politico: Peter and Josh nerd out on everything from the history of the court, to potential implications of the draft opinion — both for the country and the judiciary itself. 
+ <a href="https://www.politico.com/news/2022/05/06/pbdd-scotus-roe-00030453">Inside the unprecedented Supreme Court revelation with a POLITICO reporter who broke the story</a> Politico: Peter and Josh nerd out on everything from the history of the court, to potential implications of the draft opinion — both for the country and the judiciary itself. 
  <p class="updated_time"> 03:38 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097067070/u-k-conservatives-lose-london-strongholds-in-blow-to-boris-johnson">U.K. Conservatives lose London strongholds in blow to Boris Johnson</a> NPR: Voting for local councils across the country will be an important barometer for the next national elections. 
  <p class="updated_time"> 03:31 AM CT, May. 06 </p> 
@@ -231,7 +227,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, May. 06 </p> 
  <a href="https://www.politico.com/news/2022/05/06/capitol-house-staff-mistreatment-spartz-00030498">Amid an uproar over Capitol staff mistreatment, meet the House's 'worst boss'</a> Politico: Multiple former aides and other Republicans told POLITICO about the "trauma bonded" work environment of Rep. Victoria Spartz. 
  <p class="updated_time"> 03:30 AM CT, May. 06 </p> 
- <a href="https://www.politico.com/news/2022/05/06/democratic-primary-2024-dnc-early-states-00030560">15 states and Puerto Rico: Inside the battle to go first in Dems' 2024 primary</a> Politico: Applications are due Friday as Democrats reimagine their early-state presidential nominating calendar. 
+ <a href="https://www.politico.com/news/2022/05/06/democratic-primary-2024-dnc-early-states-00030560">States line up for fight to go first in Democrats’ next presidential primary</a> Politico: Applications are due Friday as Democrats reimagine their early-state presidential nominating calendar. 
  <p class="updated_time"> 03:30 AM CT, May. 06 </p> 
  <a href="https://www.politico.com/gallery/2022/05/06/the-nations-cartoonists-on-the-week-in-politics-00030497">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 12:19 AM CT, May. 06 </p> 
@@ -324,26 +320,24 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/04/us/politics/jd-vance-trump-ohio-fox-news.html">How J.D. Vance Won in Ohio: A Trump Endorsement, a Fox News Stage and Money</a> NYT: A big endorsement was decisive, but a cable news megaphone and a huge infusion of spending helped pave the way to victory. 
  <p class="updated_time"> 07:32 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/us/politics/larry-hogan-trump-gop.html">Larry Hogan Takes the Fight to Trump From Within the G.O.P.</a> NYT: The Maryland governor, a rare Republican who speaks out publicly against Donald Trump, is trying to defend G.O.P. lawmakers targeted by the former president. 
- <p class="updated_time"> 06:58 PM CT, May. 04 </p> 
- <a href="https://www.politico.com/news/2022/05/04/oath-keepers-leader-sought-to-contact-trump-on-jan-6-court-papers-indicate-00030219">Oath Keepers leader sought to contact Trump on Jan. 6, court papers indicate</a> Politico: Prosecutors say Stewart Rhodes tried to connect with the then-president after the attack on the Capitol and urge him to ask the group to forcibly oppose the ascension of Joe Biden. 
  <p class="updated_time"> 05:54 PM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/gop-primaries-00030152">‘Are you going to cave?’ GOP primaries pit ‘fighters’ against ‘governing wing’</a> Politico: Primary clashes in states across the country will shape the potential GOP House majority. 
- <p class="updated_time"> 05:43 PM CT, May. 04 </p> 
- <a href="https://www.politico.com/news/2022/05/04/cisneros-calls-out-house-democrat-leadership-for-supporting-anti-abortion-cuellar-00030124">Cisneros calls out House Democratic leadership for supporting anti-abortion Cuellar</a> Politico: With three weeks until the Democratic runoff, recent abortion news could be a catalyst for Cisneros' campaign. 
  <p class="updated_time"> 05:30 PM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/menendez-doj-probe-florida-rivera-00030163">Menendez reiterates call for DOJ to probe former Florida lawmaker</a> Politico: Sen. Bob Menendez previously sent a letter to former Assistant Attorney General John Demers in 2020 to request an investigation into the matter. 
  <p class="updated_time"> 04:30 PM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/senate-abortion-vote-manchin-collins-problems-00030148">More than a show vote? Senate Dems weigh their Roe plans</a> Politico: Their preferred vehicle to respond to the Supreme Court breach is all but sure to fail. Whether more abortion debate will follow remains unclear. 
- <p class="updated_time"> 03:40 PM CT, May. 04 </p> 
- <a href="https://www.politico.com/news/2022/05/04/blinken-tests-positive-covid-00030133">Blinken tests positive for Covid</a> Politico: The secretary of State is experiencing “mild symptoms” and hasn’t seen the president in person in several days. He plans to isolate at home. 
  <p class="updated_time"> 03:11 PM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/donald-trump-jr-interviews-jan-6-select-panel-00030121">Donald Trump Jr. interviews with Jan. 6 select panel</a> Politico: The president's son appeared without a subpoena and spoke for several hours, according to people familiar with the matter. 
  <p class="updated_time"> 01:14 PM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/ohio-senate-primary-stupid-00030063">Farewell to the dumbest Senate primary ever</a> Politico: Ohio's Republican primary campaign was uniquely stupid, by almost any standard. 
  <p class="updated_time"> 11:10 AM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/biden-maga-extreme-political-organization-00029969">Biden: MAGA is the ‘most extreme political organization’ in recent U.S. history</a> Politico: The president also called out Sen. Rick Scott, chair of Senate Republicans’ campaign arm. 
+ <p class="updated_time"> 10:03 AM CT, May. 04 </p> 
+ <a href="https://www.politico.com/news/2022/05/04/kyivs-return-to-normalcy-00029926">Funerals and wine bars: Kyiv's return to normalcy isn't normal at all</a> Politico: Putin’s forces may have retreated from Ukraine’s capital, but the war still touches every aspect of life. 
  <p class="updated_time"> 05:00 AM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/democrats-scotus-abortion-midterms-00029810">Democrats skeptical SCOTUS will save them in November</a> Politico: One Democratic pollster said the issue “will help at the margins,” but to retain control of Congress “we need inflation to go away.” 
+ <p class="updated_time"> 04:00 AM CT, May. 04 </p> 
+ <a href="https://www.politico.com/news/2022/05/04/abortion-rights-debate-canada-00029864">‘Fortuitous timing’: U.S. fight galvanizes abortion debate in Canada</a> Politico: Abortion rights are a perennial wedge issue in Canadian elections. 
  <p class="updated_time"> 03:30 AM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/supreme-court-leak-probe-faces-slew-of-obstacles-and-unknowns-00029841">Roberts investigation could make the Supreme Court very uncomfortable</a> Politico: Separation of powers concerns will likely arise should the DOJ or FBI get involved in investigating the Supreme Court's draft opinion breach. 
  <p class="updated_time"> 09:56 PM CT, May. 03 </p> 
@@ -354,6 +348,8 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/05/03/politics/supreme-court-leak-investigation/index.html">What we know about the investigation into the Supreme Court leak</a> CNN: When Chief Justice John Roberts announced Tuesday that the Supreme Court will investigate the release of a draft opinion that would strike down Roe v. Wade, he kicked off what will likely be one of Washington's most unusual leak investigations in recent years. 
  <p class="updated_time"> 05:02 PM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/mcconnell-on-verge-of-winning-long-term-battle-against-roe-00029752">McConnell closes in on Roe after years of pushing the courts rightward</a> Politico: There’s a direct line from the Senate GOP leader's decision to hold a high court vacancy open in 2016 to the potential demise of Supreme Court precedent. 
+ <p class="updated_time"> 01:18 PM CT, May. 03 </p> 
+ <a href="https://www.politico.com/news/2022/05/03/destruction-cultural-sites-ukraine-00029655">Destruction of cultural sites in Ukraine puts country’s identity in peril</a> Politico: U.S. agencies and international organizations are concerned war in Ukraine puts history and culture in peril as remote monitoring continues. 
  <p class="updated_time"> 01:05 PM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/congress-supreme-court-abortion-reactions-00029682">Collins, Manchin and other lawmakers react to the Supreme Court draft opinion</a> Politico: Members of Congress are already speculating on the ramifications of a world without Roe v. Wade. 
  <p class="updated_time"> 11:55 AM CT, May. 03 </p> 
