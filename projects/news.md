@@ -9,34 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:17 AM CT, May. 06 </p> 
+ <p class="updated_time"> 03:38 AM CT, May. 06 </p> 
+ <a href="https://www.npr.org/2022/05/06/1097067070/u-k-conservatives-lose-london-strongholds-in-blow-to-boris-johnson">U.K. Conservatives lose London strongholds in blow to Boris Johnson</a> NPR: Voting for local councils across the country will be an important barometer for the next national elections. 
+ <p class="updated_time"> 03:33 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/05/world/ukraine-russia-war-news">What Happened on Day 71 of the War in Ukraine</a> NYT: The fighting appeared to have intensified ahead of Russia’s Victory Day holiday, which commemorates the Soviet Union’s triumph over Nazi Germany. 
  <p class="updated_time"> 03:05 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61344529?at_medium=RSS&at_campaign=KARANGA">Israel hunts Palestinian axe attackers who killed three</a> BBC: Three Israelis were killed as two Palestinians bludgeoned civilians in a park full of families. 
- <p class="updated_time"> 02:33 AM CT, May. 06 </p> 
+ <p class="updated_time"> 02:54 AM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/suspected-terror-attack-in-israel-kills-at-least-three-on-independence-day-11651786798">Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day</a> WSJ: Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day 
- <p class="updated_time"> 01:33 AM CT, May. 06 </p> 
+ <p class="updated_time"> 01:54 AM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
  <p class="updated_time"> 01:33 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61332283?at_medium=RSS&at_campaign=KARANGA">Why 9 May Victory Day is so important for Russia</a> BBC: Vladimir Putin has made it an annual event, but amid war in Ukraine 9 May has taken on new significance. 
  <p class="updated_time"> 01:03 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/ukraine-russia-east-donetsk-mariupol.html">Putin’s Forces Battle in East Ukraine to Feed His Hunger for a Victory</a> NYT: The fighting has intensified ahead of Russia’s May 9 Victory Day holiday commemorating the Soviet Union’s triumph over Nazi Germany. 
+ <p class="updated_time"> 12:54 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/suspected-colombian-drug-kingpin-extradited-to-u-s-11651787114">Suspected Colombian Drug Kingpin Extradited to U.S.</a> WSJ: Suspected Colombian Drug Kingpin Extradited to U.S. 
  <p class="updated_time"> 12:45 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097062320/ukraine-factory-hope-for-a-miracle">Inside the Azovstal factory: Ukrainians 'only hope for a miracle' </a> NPR: The close-quarter battle inside the Azovstal factory the last Ukrainian stronghold of the strategic port city 
- <p class="updated_time"> 12:33 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/suspected-colombian-drug-kingpin-extradited-to-u-s-11651787114">Suspected Colombian Drug Kingpin Extradited to U.S.</a> WSJ: Suspected Colombian Drug Kingpin Extradited to U.S. 
  <p class="updated_time"> 12:31 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61342891?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands premier Andrew Fahie replaced after drugs arrest</a> BBC: Andrew Fahie is removed as leader of the overseas territory following a no-confidence vote. 
  <p class="updated_time"> 11:58 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61343044?at_medium=RSS&at_campaign=KARANGA">Moskva sinking: US gave intelligence that helped Ukraine sink Russian cruiser - reports</a> BBC: The Pentagon has not commented, but a spokesman said the US gave intelligence to help Ukraine's defence. 
- <p class="updated_time"> 11:33 PM CT, May. 05 </p> 
+ <p class="updated_time"> 11:54 PM CT, May. 05 </p> 
  <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 11:00 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/health/covid-global-deaths.html">Death Toll During Pandemic Far Exceeds Totals Reported by Countries, W.H.O. Says</a> NYT: Nearly 15 million more people died during the first two years of the pandemic than would have been expected during normal times, the organization found. The previous count of virus deaths, from countries’ reporting, was six million. 
+ <p class="updated_time"> 10:54 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818">Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs</a> WSJ: Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs 
  <p class="updated_time"> 10:37 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61342436?at_medium=RSS&at_campaign=KARANGA">Mariupol fighting: More evacuations from besieged city on Friday, UN says</a> BBC: Civilians remain trapped at a steelworks where Ukrainian and Russian troops are fighting for control. 
- <p class="updated_time"> 10:33 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818">Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs</a> WSJ: Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs 
  <p class="updated_time"> 09:56 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/pakistan-baluchistan-violence.html">In Pakistan, Violence by Baluch Separatists Destabilizes Region</a> NYT: A government plagued by volatility is trying to quell a separatist movement in Baluchistan while also fighting other insurgencies and striving for economic development. 
  <p class="updated_time"> 09:37 PM CT, May. 05 </p> 
@@ -167,8 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/04/world/europe/ukraine-russia-putin-victory-day.html">Putin Could Use Russia’s Victory Day to Expand Ukraine War, Some Fear</a> NYT: The Russian holiday celebrating the Soviet triumph over Nazi Germany is viewed by Ukraine and NATO as a stage for the Russian president to proclaim a turn in the war. 
  <p class="updated_time"> 06:01 PM CT, May. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61327821?at_medium=RSS&at_campaign=KARANGA">Myanmar civil war: ‘I saw my son’s body on Facebook’</a> BBC: After the Myanmar military entered his village, Joseph fled into the jungle but his 13-year-old was killed. 
- <p class="updated_time"> 05:24 PM CT, May. 04 </p> 
- <a href="https://www.npr.org/2022/05/04/1096699894/europe-eu-ban-russia-oil-imports-gasoline-gas-prices">What Europe's ban of Russian oil could mean for energy markets – and your gas prices</a> NPR: The EU ban on Russian oil imports will likely lead to higher crude and gasoline prices, further upending energy markets. 
  <p class="updated_time"> 05:00 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/middleeast/turkey-syria-million-homes.html">Turkey’s Plan to Draw Refugees Back to Syria: Homes for 1 Million</a> NYT: President Recep Tayyip Erdogan says Turkey will build homes, schools, hospitals and more in northern Syria, but experts question whether refugees will return willingly. 
  <p class="updated_time"> 04:32 PM CT, May. 04 </p> 
@@ -210,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:38 AM CT, May. 06 </p> 
+ <a href="https://www.npr.org/2022/05/06/1097067070/u-k-conservatives-lose-london-strongholds-in-blow-to-boris-johnson">U.K. Conservatives lose London strongholds in blow to Boris Johnson</a> NPR: Voting for local councils across the country will be an important barometer for the next national elections. 
  <p class="updated_time"> 12:19 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/us/politics/moskva-russia-ship-ukraine-us.html">U.S. Intel Helped Ukraine Strike Russia’s Moskva Warship, Officials Say</a> NYT: The help that sank the Moskva, the most significant loss by any navy in 40 years, is part of an administration effort providing real-time battlefield intelligence to Ukraine. 
  <p class="updated_time"> 11:00 PM CT, May. 05 </p> 
@@ -292,8 +294,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/05/1096809684/attention-turns-to-midterms-after-supreme-court-draft-decision-is-leaked">Attention turns to midterms after Supreme Court draft decision is leaked</a> NPR: Because abortion rights would be decided in states if the Supreme Court were to overturn Roe v. Wade, the leaked draft has brought new midterm campaign enthusiasm to Georgia and other swing states. 
  <p class="updated_time"> 04:15 AM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096809677/the-history-of-abortion-rights-in-the-u-s">NPR Politics Podcast: The history of abortion rights in the U.S. </a> NPR: In September, the NPR Politics Podcast put together an episode on the U.S. history of abortion rights. Given the leaked Supreme Court draft decision, it provides some helpful context for this moment. 
- <p class="updated_time"> 04:15 AM CT, May. 05 </p> 
- <a href="https://www.npr.org/2022/05/05/1096809656/morning-news-brief">News brief: Supreme Court leak, Georgia primaries, kids and the war in Ukraine</a> NPR: Democrats say the leaked Supreme Court draft decision may erode more than abortion access. The leak also ups the attention on midterms. Moscow agrees to open a humanitarian corridor for civilians. 
  <p class="updated_time"> 03:30 AM CT, May. 05 </p> 
  <a href="https://www.politico.com/news/2022/05/05/biden-trump-rematch-00030250">A Biden-Trump rematch is increasingly likely. But neither side wants to move first.</a> Politico: Each man thinks they could beat the other. But they also may not run … unless the other chooses to do so. 
  <p class="updated_time"> 03:30 AM CT, May. 05 </p> 
