@@ -9,20 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:08 PM CT, May. 05 </p> 
+ <p class="updated_time"> 09:37 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/books/carlo-rovelli-physicist-book.html">Searching for What Connects Us, Carlo Rovelli Explores Beyond Physics</a> NYT: The physicist ranges widely — from black holes to Buddhism to climate change — in his new book, “There Are Places in the World Where Rules Are Less Important Than Kindness.” 
+ <p class="updated_time"> 09:28 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/05/05/world/ukraine-russia-war-news">Live Updates: Russian Forces Battle in Ukraine’s East to Feed Putin’s Hunger for a Victory</a> NYT: The fighting has intensified ahead of Russia’s May 9 Victory Day holiday commemorating the Soviet Union’s triumph over Nazi Germany. 
+ <p class="updated_time"> 09:25 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/world/americas/nicaragua-ruling-family-us.html">Nicaragua’s Secretive Ruling Family Reaches Out Quietly to the U.S.</a> NYT: Sanctions intended to thwart the president’s dictatorial actions have hit his family and inner circle hard. More pain is expected as sanctions hit Russia, an ally. 
+ <p class="updated_time"> 09:20 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/world/africa/senegal-faidherbe-statue.html">In Senegal’s Former Capital, a Colonial Statue in Hiding Is No Longer Welcome</a> NYT: The city of Saint-Louis was shaped by Louis Faidherbe, a French governor who also led brutal military campaigns in West Africa. What to do with his legacy has divided Senegal. 
+ <p class="updated_time"> 09:05 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/world/jill-biden-europe-ukraine.html">Jill Biden Embarks on Trip to Eastern Europe to Visit Ukrainian Refugees</a> NYT: The first lady is also scheduled to tour the Slovakian border with Ukraine, becoming the latest high-profile Biden administration official to come close to the conflict zone. 
+ <p class="updated_time"> 08:58 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/suspected-terror-attack-in-israel-kills-at-least-three-on-independence-day-11651786798">Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day</a> WSJ: Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day 
+ <p class="updated_time"> 08:33 PM CT, May. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61342891?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands premier Andrew Fahie replaced after drugs arrest</a> BBC: Andrew Fahie is removed as leader of the overseas territory following a no-confidence vote. 
  <p class="updated_time"> 08:04 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61343037?at_medium=RSS&at_campaign=KARANGA">Cocaine found in coffee sent to Nespresso plant</a> BBC: Swiss police seized 500kg of the drug after workers found white powder in a shipment of coffee beans. 
- <p class="updated_time"> 07:40 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/world/jill-biden-europe-ukraine.html">Jill Biden Embarks on Trip to Eastern Europe to Visit Ukrainian Refugees</a> NYT: The first lady is also scheduled to tour the Slovakian border with Ukraine, becoming the latest high-profile Biden administration official to come close to the conflict zone. 
- <p class="updated_time"> 07:32 PM CT, May. 05 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61342891?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands premier Andrew Fahie replaced after drugs arrest</a> BBC: Andrew Fahie is removed as leader of the overseas territory following a no-confidence vote. 
- <p class="updated_time"> 07:27 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/suspected-terror-attack-in-israel-kills-at-least-three-on-independence-day-11651786798">Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day</a> WSJ: Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day 
+ <p class="updated_time"> 07:58 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
+ <p class="updated_time"> 06:58 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/suspected-colombian-drug-kingpin-extradited-to-u-s-11651787114">Suspected Colombian Drug Kingpin Extradited to U.S.</a> WSJ: Suspected Colombian Drug Kingpin Extradited to U.S. 
  <p class="updated_time"> 06:31 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61330046?at_medium=RSS&at_campaign=KARANGA">Heatwave: India's poor bear the brunt of blistering temperatures</a> BBC: As temperatures soar, the country's poorest are struggling to make ends meet and survive the heat. 
- <p class="updated_time"> 06:27 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
  <p class="updated_time"> 06:05 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61327820?at_medium=RSS&at_campaign=KARANGA">Sri Lanka's energy crisis hits country's fishing industry</a> BBC: A lack of fuel, ice, and places to sell their catch has left fishermen in Jaffna in the lurch. 
  <p class="updated_time"> 06:03 PM CT, May. 05 </p> 
@@ -33,16 +41,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61326293?at_medium=RSS&at_campaign=KARANGA">The volunteer pilots from Germany delivering medical supplies to Ukraine</a> BBC: The pilots from Germany are flying medical supplies to the Ukraine-Poland border and helping refugees. 
  <p class="updated_time"> 06:01 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61082317?at_medium=RSS&at_campaign=KARANGA">Why one firm is banking on carbon fibre bikes in Europe</a> BBC: Europe's bike firms want to source more components closer to home, including carbon fibre frames. 
+ <p class="updated_time"> 05:58 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 05:44 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61342436?at_medium=RSS&at_campaign=KARANGA">Mariupol fighting: More evacuations from besieged city on Friday, UN says</a> BBC: Russia says it will give civilians safe passage on Friday, but Ukrainian fighters must surrender. 
  <p class="updated_time"> 05:42 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/ukraine-russia-east-donetsk-mariupol.html">Putin’s Forces Battle in East Ukraine to Feed His Hunger for a Victory</a> NYT: The fighting has intensified ahead of Russia’s May 9 Victory Day holiday commemorating the Soviet Union’s triumph over Nazi Germany. 
- <p class="updated_time"> 05:27 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/suspected-colombian-drug-kingpin-extradited-to-u-s-11651787114">Suspected Colombian Drug Kingpin Extradited to U.S.</a> WSJ: Suspected Colombian Drug Kingpin Extradited to U.S. 
  <p class="updated_time"> 04:59 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61342678?at_medium=RSS&at_campaign=KARANGA">CCTV captures Kansas tornado churning in car park</a> BBC: An surveillance camera captures a tornado forming and sweeping through Andover. 
- <p class="updated_time"> 04:52 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/world/americas/nicaragua-ruling-family-us.html">Nicaragua’s Secretive Ruling Family Reaches Out Quietly to the U.S.</a> NYT: Sanctions intended to thwart the president’s dictatorial actions have hit his family and inner circle hard. More pain is expected as sanctions hit Russia, an ally. 
+ <p class="updated_time"> 04:58 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818">Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs</a> WSJ: Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs 
  <p class="updated_time"> 04:51 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096978095/israel-stabbing-attack">3 people were killed in a stabbing attack near Tel Aviv</a> NPR: Israeli authorities said a pair of Palestinian attackers went on a stabbing rampage in a town near Tel Aviv, killing at least three people and wounding four others before fleeing in a vehicle. 
  <p class="updated_time"> 04:45 PM CT, May. 05 </p> 
@@ -51,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61339751?at_medium=RSS&at_campaign=KARANGA">Elad attack: Three dead in central Israeli city</a> BBC: Police say the incident is a suspected terror attack, which follows a surge in violence. 
  <p class="updated_time"> 04:30 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096943991/the-status-of-iran-nuclear-deal-talks">The status of Iran nuclear deal talks</a> NPR: For weeks, talks between world powers and Iran over reviving the 2015 nuclear deal have been stalled — partly because of the war in Ukraine. But they're still a priority and could go either way. 
- <p class="updated_time"> 04:27 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 04:26 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61274336?at_medium=RSS&at_campaign=KARANGA">Karine Jean-Pierre: White House names first black press secretary</a> BBC: Karine Jean-Pierre will replace Jen Psaki in the top role at the end of next week. 
  <p class="updated_time"> 04:20 PM CT, May. 05 </p> 
@@ -71,12 +77,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/05/1096943905/former-u-s-consul-in-rio-de-janeiro-raises-new-alarms-about-brazils-bolsonaro">Former U.S. consul in Rio de Janeiro raises new alarms about Brazil's Bolsonaro</a> NPR: The former U.S. consul in Rio de Janeiro, Scott Hamilton, speaks about his concerns about Brazilian President Jair Bolsonaro, and the implications for democratic institutions in the country. 
  <p class="updated_time"> 03:28 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096943884/some-ukrainian-refugees-in-poland-are-now-starting-to-return-home">Some Ukrainian refugees in Poland are now starting to return home</a> NPR: The war in Ukraine has forced millions of people to flee their homes. Some refugees in Poland however are now starting to return home. 
- <p class="updated_time"> 03:27 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818">Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs</a> WSJ: Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs 
  <p class="updated_time"> 03:13 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/putin-war-mariupol-ukraine.html">Why the Battle for Mariupol Is Important for Putin</a> NYT: A victory in the predominantly Russian-speaking city could give a veneer of credibility to the Russian leader’s false claims of ridding Ukraine of “Nazis.” 
- <p class="updated_time"> 02:45 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/world/africa/senegal-faidherbe-statue.html">In Senegal’s Former Capital, a Colonial Statue in Hiding Is No Longer Welcome</a> NYT: The city of Saint-Louis was shaped by Louis Faidherbe, a French governor who also led brutal military campaigns in West Africa. What to do with his legacy has divided Senegal. 
  <p class="updated_time"> 02:32 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/africa/elon-musk-south-africa.html">Elon Musk Left a South Africa That Was Rife With Misinformation and White Privilege</a> NYT: The apartheid era created all-white enclaves littered with anti-Black government propaganda and sheltered from the atrocities of apartheid. 
  <p class="updated_time"> 02:28 PM CT, May. 05 </p> 
@@ -143,8 +145,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61333747?at_medium=RSS&at_campaign=KARANGA">Dust storm and wildfires seen from space</a> BBC: Satellite images show gusts of up to 60mph blowing dust across Colorado and plumes of smoke in New Mexico. 
  <p class="updated_time"> 04:31 AM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096738094/roe-v-wade-abortion-overturn-impact-world">What overturning Roe v. Wade could mean for the rest of the world </a> NPR: If the U.S. scraps the constitutional right to abortion, human rights advocates warn that repressive governments across the globe could use it to justify crackdowns on their citizens. 
- <p class="updated_time"> 04:00 AM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/books/carlo-rovelli-physicist-book.html">Searching for What Connects Us, Carlo Rovelli Explores Beyond Physics</a> NYT: The physicist ranges widely — from black holes to Buddhism to climate change — in his new book, “There Are Places in the World Where Rules Are Less Important Than Kindness.” 
  <p class="updated_time"> 03:20 AM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61257448?at_medium=RSS&at_campaign=KARANGA">Wealthy Russians flee to Dubai to avoid sanctions</a> BBC: Property purchases by Russians in Dubai surged by 67% in the first quarter of 2022, a report says. 
  <p class="updated_time"> 01:05 AM CT, May. 05 </p> 
@@ -214,12 +214,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:38 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/us/politics/ohio-senate-race-tim-ryan-democrats.html">In Ohio Senate Race, Democrats Pin Their Hopes on the Suburbs</a> NYT: J.D. Vance, the Republican nominee, enters the general election as the favorite. For Representative Tim Ryan, the Democrat, Ohio’s sprawling metro areas offer a possible path to victory. 
+ <p class="updated_time"> 08:50 PM CT, May. 05 </p> 
+ <a href="https://www.politico.com/news/2022/05/05/jan-6-committee-rudy-giuliani-contempt-00030601">Jan. 6 committee signals it could hold Rudy Giuliani in contempt</a> Politico: The former president's personal attorney canceled a planned Friday interview with the committee. 
+ <p class="updated_time"> 08:35 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/us/politics/johnson-vaccine-fda-covid.html">FDA Further Limits Johnson & Johnson Covid Vaccine</a> NYT: The agency said the move reflected an updated analysis of the risk of a rare but serious blood-clotting condition in people who get the vaccine. 
+ <p class="updated_time"> 08:14 PM CT, May. 05 </p> 
+ <a href="https://www.politico.com/news/2022/05/05/mark-esper-trump-mexico-border-00030592">'So absurd': Mark Esper details Trump official's proposal to send 250K troops to U.S.-Mexico border</a> Politico: The former Defense secretary, promoting his new book, harshly criticizes the administration he served in. 
  <p class="updated_time"> 07:28 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/us/politics/karine-jean-pierre-white-house-press-secretary.html">Karine Jean-Pierre Is Named White House Press Secretary</a> NYT: Ms. Jean-Pierre, who will succeed Jen Psaki, will be the first Black woman and the first openly gay person to serve in the role. 
  <p class="updated_time"> 06:55 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/us/jan-6-ray-epps-evidence.html">Ray Epps Jan. 6 Conspiracy Theory Undercut by New Evidence</a> NYT: Recordings released to defense lawyers directly challenge assertions by prominent Republicans that an Arizona man named Ray Epps was a federal informant and helped start the Capitol riot. 
- <p class="updated_time"> 06:53 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/us/politics/johnson-vaccine-fda-covid.html">FDA Further Limits Johnson & Johnson Covid Vaccine</a> NYT: The agency said the move reflected an updated analysis of the risk of a rare but serious blood-clotting condition in people who get the vaccine. 
  <p class="updated_time"> 06:28 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/us/politics/moskva-russia-ship-ukraine-us.html">U.S. Intel Helped Ukraine Strike Russia’s Moskva Warship, Officials Say</a> NYT: The help that sank the Moskva, the most significant loss by any navy in 40 years, is part of an administration effort providing real-time battlefield intelligence to Ukraine. 
  <p class="updated_time"> 06:16 PM CT, May. 05 </p> 
@@ -246,8 +252,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/05/congress-warning-biden-iran-deal-00030448">Congress fires its first warning shot on Biden’s Iran deal</a> Politico: A bipartisan majority delivered the White House a symbolic message that any new nuclear deal better be stronger than the 2015 agreement. 
  <p class="updated_time"> 03:07 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096942696/karine-jean-pierre-is-replacing-jen-psaki-as-white-house-press-secretary">Karine Jean-Pierre will become the 1st Black White House press secretary </a> NPR: Jean-Pierre will also be the first openly gay person to have the most visible post at the White House aside from the president. 
- <p class="updated_time"> 03:03 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/us/politics/ohio-senate-race-tim-ryan-democrats.html">In Ohio Senate Race, Democrats Pin Their Hopes on the Suburbs</a> NYT: J.D. Vance, the Republican nominee, enters the general election as the favorite. For Representative Tim Ryan, the Democrat, Ohio’s sprawling metro areas offer a possible path to victory. 
  <p class="updated_time"> 02:49 PM CT, May. 05 </p> 
  <a href="https://www.politico.com/news/2022/05/05/jen-psaki-leaving-white-house-karine-jean-pierre-00030458">Jen Psaki is leaving the White House, to be replaced by Karine Jean-Pierre</a> Politico: Jean-Pierre will be the first Black press secretary in history and the first openly gay one too. 
  <p class="updated_time"> 01:50 PM CT, May. 05 </p> 
@@ -332,8 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/04/donald-trump-jr-interviews-jan-6-select-panel-00030121">Donald Trump Jr. interviews with Jan. 6 select panel</a> Politico: The president's son appeared without a subpoena and spoke for several hours, according to people familiar with the matter. 
  <p class="updated_time"> 01:14 PM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/ohio-senate-primary-stupid-00030063">Farewell to the dumbest Senate primary ever</a> Politico: Ohio's Republican primary campaign was uniquely stupid, by almost any standard. 
- <p class="updated_time"> 12:43 PM CT, May. 04 </p> 
- <a href="https://www.politico.com/news/2022/05/04/new-york-judge-democrats-redistricting-00030015">Judge mocks New York Democrats’ redistricting ‘Hail Mary’ case</a> Politico: The hearing, held in Manhattan but conducted primarily by conference call, was the first step in Democrats’ last-ditch attempt to save the lines approved by the Legislature earlier this year. 
  <p class="updated_time"> 11:10 AM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/biden-maga-extreme-political-organization-00029969">Biden: MAGA is the ‘most extreme political organization’ in recent U.S. history</a> Politico: The president also called out Sen. Rick Scott, chair of Senate Republicans’ campaign arm. 
  <p class="updated_time"> 10:03 AM CT, May. 04 </p> 
@@ -346,8 +348,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/04/supreme-court-leak-probe-faces-slew-of-obstacles-and-unknowns-00029841">Roberts investigation could make the Supreme Court very uncomfortable</a> Politico: Separation of powers concerns will likely arise should the DOJ or FBI get involved in investigating the Supreme Court's draft opinion breach. 
  <p class="updated_time"> 09:56 PM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/supreme-court-abortion-privacy-rights-00029871">What falls after Roe? Liberals warn of a privacy rights nightmare.</a> Politico: The Alito opinion claims other cases aren't in jeopardy. 
- <p class="updated_time"> 07:38 PM CT, May. 03 </p> 
- <a href="https://www.politico.com/news/2022/05/03/biden-roe-abortion-00029828">Biden wants to make the Roe v. Wade decision about much more than abortion</a> Politico: Responding to reports that the Supreme Court is ready to overturn Roe, the president warned that "other basic rights" will come next. 
  <p class="updated_time"> 06:19 PM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/democrats-abortion-if-roe-v-wade-is-overturned-00029794">What can Dems do if Roe v. Wade is overturned? Not much.</a> Politico: With lawmakers stymied, much of the abortion-rights response is expected to fall to medical and activist groups. 
  <p class="updated_time"> 05:28 PM CT, May. 03 </p> 
