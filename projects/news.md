@@ -9,38 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:03 AM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/05/world/ukraine-russia-war-news">What Happened on Day 71 of the War in Ukraine</a> NYT: The fighting appeared to have intensified ahead of Russia’s Victory Day holiday, which commemorates the Soviet Union’s triumph over Nazi Germany. 
+ <p class="updated_time"> 01:03 AM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/world/europe/ukraine-russia-east-donetsk-mariupol.html">Putin’s Forces Battle in East Ukraine to Feed His Hunger for a Victory</a> NYT: The fighting has intensified ahead of Russia’s May 9 Victory Day holiday commemorating the Soviet Union’s triumph over Nazi Germany. 
+ <p class="updated_time"> 12:45 AM CT, May. 06 </p> 
+ <a href="https://www.npr.org/2022/05/06/1097062320/ukraine-factory-hope-for-a-miracle">Inside the Azovstal factory: Ukrainians 'only hope for a miracle' </a> NPR: The close-quarter battle inside the Azovstal factory the last Ukrainian stronghold of the strategic port city 
+ <p class="updated_time"> 12:35 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/suspected-terror-attack-in-israel-kills-at-least-three-on-independence-day-11651786798">Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day</a> WSJ: Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day 
  <p class="updated_time"> 12:31 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61342891?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands premier Andrew Fahie replaced after drugs arrest</a> BBC: Andrew Fahie is removed as leader of the overseas territory following a no-confidence vote. 
- <p class="updated_time"> 12:19 AM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/05/05/world/ukraine-russia-war-news">What Happened on Day 71 of the War in Ukraine</a> NYT: The fighting appeared to have intensified ahead of Russia’s Victory Day holiday, which commemorates the Soviet Union’s triumph over Nazi Germany. 
- <p class="updated_time"> 12:01 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/suspected-terror-attack-in-israel-kills-at-least-three-on-independence-day-11651786798">Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day</a> WSJ: Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day 
  <p class="updated_time"> 11:58 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61343044?at_medium=RSS&at_campaign=KARANGA">Moskva sinking: US gave intelligence that helped Ukraine sink Russian cruiser - reports</a> BBC: The Pentagon has not commented, but a spokesman said the US gave intelligence to help Ukraine's defence. 
- <p class="updated_time"> 11:01 PM CT, May. 05 </p> 
+ <p class="updated_time"> 11:35 PM CT, May. 05 </p> 
  <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
  <p class="updated_time"> 11:00 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/health/covid-global-deaths.html">Death Toll During Pandemic Far Exceeds Totals Reported by Countries, W.H.O. Says</a> NYT: Nearly 15 million more people died during the first two years of the pandemic than would have been expected during normal times, the organization found. The previous count of virus deaths, from countries’ reporting, was six million. 
  <p class="updated_time"> 10:37 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61342436?at_medium=RSS&at_campaign=KARANGA">Mariupol fighting: More evacuations from besieged city on Friday, UN says</a> BBC: Civilians remain trapped at a steelworks where Ukrainian and Russian troops are fighting for control. 
- <p class="updated_time"> 10:01 PM CT, May. 05 </p> 
+ <p class="updated_time"> 10:35 PM CT, May. 05 </p> 
  <a href="https://www.wsj.com/articles/suspected-colombian-drug-kingpin-extradited-to-u-s-11651787114">Suspected Colombian Drug Kingpin Extradited to U.S.</a> WSJ: Suspected Colombian Drug Kingpin Extradited to U.S. 
  <p class="updated_time"> 09:56 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/pakistan-baluchistan-violence.html">In Pakistan, Violence by Baluch Separatists Destabilizes Region</a> NYT: A government plagued by volatility is trying to quell a separatist movement in Baluchistan while also fighting other insurgencies and striving for economic development. 
  <p class="updated_time"> 09:37 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/books/carlo-rovelli-physicist-book.html">Searching for What Connects Us, Carlo Rovelli Explores Beyond Physics</a> NYT: The physicist ranges widely — from black holes to Buddhism to climate change — in his new book, “There Are Places in the World Where Rules Are Less Important Than Kindness.” 
+ <p class="updated_time"> 09:35 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 09:25 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/americas/nicaragua-ruling-family-us.html">Nicaragua’s Secretive Ruling Family Reaches Out Quietly to the U.S.</a> NYT: Sanctions intended to thwart the president’s dictatorial actions have hit his family and inner circle hard. More pain is expected as sanctions hit Russia, an ally. 
  <p class="updated_time"> 09:20 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/africa/senegal-faidherbe-statue.html">In Senegal’s Former Capital, a Colonial Statue in Hiding Is No Longer Welcome</a> NYT: The city of Saint-Louis was shaped by Louis Faidherbe, a French governor who also led brutal military campaigns in West Africa. What to do with his legacy has divided Senegal. 
  <p class="updated_time"> 09:05 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/jill-biden-europe-ukraine.html">Jill Biden Embarks on Trip to Eastern Europe to Visit Ukrainian Refugees</a> NYT: The first lady is also scheduled to tour the Slovakian border with Ukraine, becoming the latest high-profile Biden administration official to come close to the conflict zone. 
- <p class="updated_time"> 09:01 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
+ <p class="updated_time"> 08:35 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818">Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs</a> WSJ: Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs 
  <p class="updated_time"> 08:04 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61343037?at_medium=RSS&at_campaign=KARANGA">Cocaine found in coffee sent to Nespresso plant</a> BBC: Swiss police seized 500kg of the drug after workers found white powder in a shipment of coffee beans. 
- <p class="updated_time"> 08:01 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818">Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs</a> WSJ: Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs 
  <p class="updated_time"> 06:31 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61330046?at_medium=RSS&at_campaign=KARANGA">Heatwave: India's poor bear the brunt of blistering temperatures</a> BBC: As temperatures soar, the country's poorest are struggling to make ends meet and survive the heat. 
  <p class="updated_time"> 06:05 PM CT, May. 05 </p> 
@@ -53,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61326293?at_medium=RSS&at_campaign=KARANGA">The volunteer pilots from Germany delivering medical supplies to Ukraine</a> BBC: The pilots from Germany are flying medical supplies to the Ukraine-Poland border and helping refugees. 
  <p class="updated_time"> 06:01 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61082317?at_medium=RSS&at_campaign=KARANGA">Why one firm is banking on carbon fibre bikes in Europe</a> BBC: Europe's bike firms want to source more components closer to home, including carbon fibre frames. 
- <p class="updated_time"> 05:42 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/world/europe/ukraine-russia-east-donetsk-mariupol.html">Putin’s Forces Battle in East Ukraine to Feed His Hunger for a Victory</a> NYT: The fighting has intensified ahead of Russia’s May 9 Victory Day holiday commemorating the Soviet Union’s triumph over Nazi Germany. 
  <p class="updated_time"> 04:59 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61342678?at_medium=RSS&at_campaign=KARANGA">CCTV captures Kansas tornado churning in car park</a> BBC: An surveillance camera captures a tornado forming and sweeping through Andover. 
  <p class="updated_time"> 04:51 PM CT, May. 05 </p> 
@@ -171,8 +173,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/04/world/middleeast/turkey-syria-million-homes.html">Turkey’s Plan to Draw Refugees Back to Syria: Homes for 1 Million</a> NYT: President Recep Tayyip Erdogan says Turkey will build homes, schools, hospitals and more in northern Syria, but experts question whether refugees will return willingly. 
  <p class="updated_time"> 04:32 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/moderna-covid-vaccine.html">Moderna Reaps $5.9 Billion From Its Vaccine Sales</a> NYT: Stéphane Bancel, the company’s chief executive officer, said Moderna has $21 billion worth of advance purchase agreements for the vaccine. 
- <p class="updated_time"> 04:04 PM CT, May. 04 </p> 
- <a href="https://www.npr.org/2022/05/04/1096124740/the-u-s-may-soon-export-more-gas-to-the-eu-but-that-will-complicate-climate-goal">The U.S. may soon export more gas to the EU, but that will complicate climate goals</a> NPR: To help wean Europe off Russian gas, the Biden administration wants to increase U.S. natural gas exports. But critics say that's at odds with the president's climate and environmental justice goals. 
  <p class="updated_time"> 03:31 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/americas/mexico-cartels-michoacan.html">In Mexico, One Cartel Is Cleared, but Others Storm In</a> NYT: In the state of Michoacán, small drug cartels compete with larger ones for territory, leaving the residents caught in the middle of a brutal turf war. 
  <p class="updated_time"> 03:28 PM CT, May. 04 </p> 
@@ -310,6 +310,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/04/world/asia/india-russia-oil.html">India Finds Russian Oil an Irresistible Deal, No Matter the Diplomatic Pressure</a> NYT: A parade of emissaries have urged a harder line on Russia. But India’s political neutrality over the war in Ukraine has expanded into economic opportunism. 
  <p class="updated_time"> 08:50 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/us/politics/jd-vance-trump-ohio-fox-news.html">How J.D. Vance Won in Ohio: A Trump Endorsement, a Fox News Stage and Money</a> NYT: A big endorsement was decisive, but a cable news megaphone and a huge infusion of spending helped pave the way to victory. 
+ <p class="updated_time"> 07:39 PM CT, May. 04 </p> 
+ <a href="https://www.nytimes.com/2022/05/04/us/politics/supreme-court-marshal-leak-investigation.html">As Leak Theories Circulate, Supreme Court Marshal Takes Up Investigation</a> NYT: Not since Bob Woodward and Carl Bernstein refused for decades to disclose the identity of their Watergate source has Washington been as eager to unmask a leaker. 
  <p class="updated_time"> 07:32 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/us/politics/larry-hogan-trump-gop.html">Larry Hogan Takes the Fight to Trump From Within the G.O.P.</a> NYT: The Maryland governor, a rare Republican who speaks out publicly against Donald Trump, is trying to defend G.O.P. lawmakers targeted by the former president. 
  <p class="updated_time"> 06:58 PM CT, May. 04 </p> 
