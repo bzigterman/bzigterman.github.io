@@ -25,18 +25,76 @@ usa_cases <- usa_cases %>%
   filter(County != "Unknown County") %>%
   filter(State_name != "Puerto Rico") %>%
   mutate(GEOID = fips_code) %>%
-  mutate(fips = as.character(fips_code)) %>%
+  mutate(fips = as.character(sprintf("%05d",fips_code))) %>%
   mutate(date = ymd(as_date(report_date))) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE),
                             mday(date))) %>%
-  mutate(
-    new_cases_class = cut(x = as.numeric(cases_per_100K_7_day_count_change)/7,
-                          breaks = c(0,5,15,25,35,50,100,Inf),
-                          labels = c("0–5","5–15","15–25",
-                                     "25–35","35–50","50–100","100+"),
-                          include.lowest = TRUE,
-                          ordered_result = TRUE))
+  mutate(new_cases = round(as.numeric(  cases_per_100K_7_day_count_change)/7))
 
+champaign_point <- data.frame(
+  name = "Champaign",
+  lat = 40.116421,
+  lon =-88.243385,
+  z = 1
+)
+
+fig4 <- hcmap("countries/us/us-all-all",
+              data = usa_cases,
+              value = "CCL_community_burden_level_integer",
+              joinBy = "fips",
+              nullColor = "#d3d3d3",
+              borderWidth = .1,
+              borderColor = "#787878",
+              tooltip = list(pointFormat = "{point.County}, {point.State}: {point.CCL_community_burden_level}"),
+              #dataLabels = list(enabled = TRUE, format = "{point.name}"),
+              name = "Level"
+) %>%
+  hc_mapNavigation(enabled = TRUE) %>%
+  hc_add_series(
+    data = champaign_point,
+    type = "mappoint",
+    enableMouseTracking = FALSE,
+    dataLabels = list(enabled = TRUE, format = "{point.name}",
+                      overflow = "justify")
+  )  %>%
+  hc_title(text = "Community Levels")%>%
+  hc_caption(text = "Source: CDC") %>%
+  hc_tooltip(
+    
+  ) %>%
+  hc_colorAxis(
+    dataClasses = 
+      #   list(
+      #   from = c(-.5, .5, 1.5),
+      #   to = c(.5, 1.5, 2.5),
+      #   color = c("#99d594","#ffffbf","#fc8d59"),
+      #   name = c("Low","Medium","High")
+      # )
+      list(
+        c(from = -0.5,
+          to = 0.5,
+          color = '#99d594',
+          name = 'Low'),
+        c(from = 0.5,
+          to = 1.5,
+          color = '#ffffbf',
+          name = 'Medium'),
+        c(from = 1.5,
+          to = 2.5,
+          color = '#fc8d59',
+          name = 'High'))
+  ) %>%
+  hc_legend(
+    #floating = TRUE,
+    align = "right",
+    verticalAlign = "bottom",
+    layout = "vertical",
+    valueDecimals = 0
+  )
+fig4
+saveWidget(widget = fig4, file = "interactive/us_community_levels.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
 
 
 il_cases <- usa_cases %>%
@@ -1289,6 +1347,10 @@ Definitions from the CDC:
 </picture>
 
 ",better_usa_table_html,"
+
+<iframe src=\"/interactive/us_community_levels.html\" width=\"100%\" height=\"300\"> 
+</iframe>
+</div>
 
 <picture>
   <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_community_levels.png\"
