@@ -9,32 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:38 PM CT, May. 05 </p> 
+ <p class="updated_time"> 11:00 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/live/2022/05/05/world/ukraine-russia-war-news">Live Updates: Russian Forces Battle in Ukraine’s East to Feed Putin’s Hunger for a Victory</a> NYT: The fighting has intensified ahead of Russia’s May 9 Victory Day holiday commemorating the Soviet Union’s triumph over Nazi Germany. 
+ <p class="updated_time"> 11:00 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/health/covid-global-deaths.html">Death Toll During Pandemic Far Exceeds Totals Reported by Countries, W.H.O. Says</a> NYT: Nearly 15 million more people died during the first two years of the pandemic than would have been expected during normal times, the organization found. The previous count of virus deaths, from countries’ reporting, was six million. 
  <p class="updated_time"> 10:37 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61342436?at_medium=RSS&at_campaign=KARANGA">Mariupol fighting: More evacuations from besieged city on Friday, UN says</a> BBC: Russia says it will give civilians safe passage on Friday, but Ukrainian fighters must surrender. 
- <p class="updated_time"> 10:00 PM CT, May. 05 </p> 
+ <p class="updated_time"> 10:35 PM CT, May. 05 </p> 
  <a href="https://www.wsj.com/articles/suspected-terror-attack-in-israel-kills-at-least-three-on-independence-day-11651786798">Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day</a> WSJ: Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day 
  <p class="updated_time"> 09:56 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/pakistan-baluchistan-violence.html">In Pakistan, Violence by Baluch Separatists Destabilizes Region</a> NYT: A government plagued by volatility is trying to quell a separatist movement in Baluchistan while also fighting other insurgencies and striving for economic development. 
  <p class="updated_time"> 09:37 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/books/carlo-rovelli-physicist-book.html">Searching for What Connects Us, Carlo Rovelli Explores Beyond Physics</a> NYT: The physicist ranges widely — from black holes to Buddhism to climate change — in his new book, “There Are Places in the World Where Rules Are Less Important Than Kindness.” 
+ <p class="updated_time"> 09:35 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
  <p class="updated_time"> 09:25 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/americas/nicaragua-ruling-family-us.html">Nicaragua’s Secretive Ruling Family Reaches Out Quietly to the U.S.</a> NYT: Sanctions intended to thwart the president’s dictatorial actions have hit his family and inner circle hard. More pain is expected as sanctions hit Russia, an ally. 
  <p class="updated_time"> 09:20 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/africa/senegal-faidherbe-statue.html">In Senegal’s Former Capital, a Colonial Statue in Hiding Is No Longer Welcome</a> NYT: The city of Saint-Louis was shaped by Louis Faidherbe, a French governor who also led brutal military campaigns in West Africa. What to do with his legacy has divided Senegal. 
  <p class="updated_time"> 09:05 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/jill-biden-europe-ukraine.html">Jill Biden Embarks on Trip to Eastern Europe to Visit Ukrainian Refugees</a> NYT: The first lady is also scheduled to tour the Slovakian border with Ukraine, becoming the latest high-profile Biden administration official to come close to the conflict zone. 
- <p class="updated_time"> 09:00 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
+ <p class="updated_time"> 08:35 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/suspected-colombian-drug-kingpin-extradited-to-u-s-11651787114">Suspected Colombian Drug Kingpin Extradited to U.S.</a> WSJ: Suspected Colombian Drug Kingpin Extradited to U.S. 
  <p class="updated_time"> 08:33 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61342891?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands premier Andrew Fahie replaced after drugs arrest</a> BBC: Andrew Fahie is removed as leader of the overseas territory following a no-confidence vote. 
  <p class="updated_time"> 08:04 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61343037?at_medium=RSS&at_campaign=KARANGA">Cocaine found in coffee sent to Nespresso plant</a> BBC: Swiss police seized 500kg of the drug after workers found white powder in a shipment of coffee beans. 
- <p class="updated_time"> 08:00 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/suspected-colombian-drug-kingpin-extradited-to-u-s-11651787114">Suspected Colombian Drug Kingpin Extradited to U.S.</a> WSJ: Suspected Colombian Drug Kingpin Extradited to U.S. 
- <p class="updated_time"> 07:00 PM CT, May. 05 </p> 
+ <p class="updated_time"> 07:35 PM CT, May. 05 </p> 
  <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
+ <p class="updated_time"> 06:35 PM CT, May. 05 </p> 
+ <a href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818">Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs</a> WSJ: Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs 
  <p class="updated_time"> 06:31 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61330046?at_medium=RSS&at_campaign=KARANGA">Heatwave: India's poor bear the brunt of blistering temperatures</a> BBC: As temperatures soar, the country's poorest are struggling to make ends meet and survive the heat. 
  <p class="updated_time"> 06:05 PM CT, May. 05 </p> 
@@ -47,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61326293?at_medium=RSS&at_campaign=KARANGA">The volunteer pilots from Germany delivering medical supplies to Ukraine</a> BBC: The pilots from Germany are flying medical supplies to the Ukraine-Poland border and helping refugees. 
  <p class="updated_time"> 06:01 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61082317?at_medium=RSS&at_campaign=KARANGA">Why one firm is banking on carbon fibre bikes in Europe</a> BBC: Europe's bike firms want to source more components closer to home, including carbon fibre frames. 
- <p class="updated_time"> 06:00 PM CT, May. 05 </p> 
- <a href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818">Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs</a> WSJ: Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs 
  <p class="updated_time"> 05:42 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/ukraine-russia-east-donetsk-mariupol.html">Putin’s Forces Battle in East Ukraine to Feed His Hunger for a Victory</a> NYT: The fighting has intensified ahead of Russia’s May 9 Victory Day holiday commemorating the Soviet Union’s triumph over Nazi Germany. 
  <p class="updated_time"> 04:59 PM CT, May. 05 </p> 
@@ -93,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/05/world/europe/lviv-jan-henryk-de-rosen-mural.html">In Lviv, a hidden work by a master is discovered.</a> NYT: During the renovation of a former Catholic church, a mural by the Polish painter Jan Henryk de Rosen was uncovered. 
  <p class="updated_time"> 01:26 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61341641?at_medium=RSS&at_campaign=KARANGA">Madison Cawthorn: US lawmaker 'won't back down' after naked tape leak</a> BBC: "We were acting foolish, and joking. That's it," says Madison Cawthorn, the youngest US congressman. 
- <p class="updated_time"> 01:08 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/health/covid-global-deaths.html">Death Toll During Pandemic Far Exceeds Totals Reported by Countries, W.H.O. Says</a> NYT: Nearly 15 million more people died during the first two years of the pandemic than would have been expected during normal times, the organization found. The previous count of virus deaths, from countries’ reporting, was six million. 
  <p class="updated_time"> 12:55 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/business/energy-environment/natural-gas-europe-russia-ukraine.html">Europe’s Quest to Replace Russian Gas Faces Plenty of Hurdles</a> NYT: Climate concerns, investor reticence and political disputes complicate a shift to supplies from the United States, North Africa and the Mediterranean. 
  <p class="updated_time"> 12:29 PM CT, May. 05 </p> 
@@ -214,6 +214,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:00 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/us/politics/moskva-russia-ship-ukraine-us.html">U.S. Intel Helped Ukraine Strike Russia’s Moskva Warship, Officials Say</a> NYT: The help that sank the Moskva, the most significant loss by any navy in 40 years, is part of an administration effort providing real-time battlefield intelligence to Ukraine. 
+ <p class="updated_time"> 11:00 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/us/politics/democrats-abortion-midterms.html">Democrats Aim to Use Abortion Rights to Jolt Midterm Elections</a> NYT: A party group has circled a handful of states where Democrats hope to hold or flip control. The draft ruling on Roe v. Wade “has the potential to be a game-changing issue,” its leader said. 
  <p class="updated_time"> 09:56 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/us/politics/giuliani-jan-6-committee.html">Giuliani Pulls Out of Interview With Jan. 6 Committee</a> NYT: The former personal lawyer to Donald J. Trump withdrew from an interview scheduled for Friday after the panel would not let him record it, his lawyer said. 
  <p class="updated_time"> 09:38 PM CT, May. 05 </p> 
@@ -228,8 +232,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/05/us/politics/karine-jean-pierre-white-house-press-secretary.html">Karine Jean-Pierre Is Named White House Press Secretary</a> NYT: Ms. Jean-Pierre, who will succeed Jen Psaki, will be the first Black woman and the first openly gay person to serve in the role. 
  <p class="updated_time"> 06:55 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/us/jan-6-ray-epps-evidence.html">Ray Epps Jan. 6 Conspiracy Theory Undercut by New Evidence</a> NYT: Recordings released to defense lawyers directly challenge assertions by prominent Republicans that an Arizona man named Ray Epps was a federal informant and helped start the Capitol riot. 
- <p class="updated_time"> 06:28 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/us/politics/moskva-russia-ship-ukraine-us.html">U.S. Intel Helped Ukraine Strike Russia’s Moskva Warship, Officials Say</a> NYT: The help that sank the Moskva, the most significant loss by any navy in 40 years, is part of an administration effort providing real-time battlefield intelligence to Ukraine. 
  <p class="updated_time"> 06:16 PM CT, May. 05 </p> 
  <a href="https://www.politico.com/news/2022/05/05/fda-johnson-johnson-covid-vaccine-00030505">FDA dramatically narrows use of Johnson & Johnson Covid-19 vaccine</a> Politico: The single-shot Covid-19 vaccine will now only be available for adults who cannot or will not receive an mRNA vaccine. 
  <p class="updated_time"> 06:13 PM CT, May. 05 </p> 
@@ -256,8 +258,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/05/1096942696/karine-jean-pierre-is-replacing-jen-psaki-as-white-house-press-secretary">Karine Jean-Pierre will become the 1st Black White House press secretary </a> NPR: Jean-Pierre will also be the first openly gay person to have the most visible post at the White House aside from the president. 
  <p class="updated_time"> 02:49 PM CT, May. 05 </p> 
  <a href="https://www.politico.com/news/2022/05/05/jen-psaki-leaving-white-house-karine-jean-pierre-00030458">Jen Psaki is leaving the White House, to be replaced by Karine Jean-Pierre</a> Politico: Jean-Pierre will be the first Black press secretary in history and the first openly gay one too. 
- <p class="updated_time"> 01:50 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/us/politics/democrats-abortion-midterms.html">Democrats Aim to Use Abortion Rights to Jolt Midterm Elections</a> NYT: A party group has circled a handful of states where Democrats hope to hold or flip control. The draft ruling on Roe v. Wade “has the potential to be a game-changing issue,” its leader said. 
  <p class="updated_time"> 01:02 PM CT, May. 05 </p> 
  <a href="https://www.politico.com/news/2022/05/05/there-is-no-going-back-how-the-war-in-ukraine-has-pushed-biden-to-rearm-europe-00030352">‘There is no going back’: How the war in Ukraine has pushed Biden to rearm Europe</a> Politico: Putin’s plan has backfired as new weapons packages are flushing Soviet gear from NATO. 
  <p class="updated_time"> 12:10 PM CT, May. 05 </p> 
