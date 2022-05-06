@@ -9,26 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:48 AM CT, May. 06 </p> 
+ <p class="updated_time"> 09:43 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">U.K. Live Updates: Boris Johnson’s Party Takes a Hit in Local Elections</a> NYT: The results were being watched closely as a test of the damage done to the prime minister and the Conservatives after revelations about breaches of lockdown rules. 
- <p class="updated_time"> 08:46 AM CT, May. 06 </p> 
+ <p class="updated_time"> 09:42 AM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/2022/05/06/world/europe/keir-starmer-covid-restrictions-beergate.html">U.K. Police Reopen Lockdown Inquiry into Labour Leader Keir Starmer</a> NYT: The police are taking another look at allegations that Keir Starmer drank beer in a lawmaker’s office, potentially subjecting him to political headaches similar to those suffered by Boris Johnson. 
+ <p class="updated_time"> 09:39 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news">Live Updates: Ukraine Begins Offensive Against Russia in Northeast</a> NYT: The Ukrainian military is trying to drive Russian forces back from around the cities of Kharkiv and Izium. An evacuation convoy was dispatched again to the besieged steel plant in Mariupol. 
+ <p class="updated_time"> 09:39 AM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/06/world/israel-stabbing-attack-palestinians">Live Updates: Israel Searches for Assailants in Ax Rampage</a> NYT: The attack on Thursday, which killed three Israelis, fueled an escalation of tensions that have been building since late March, much of it around holy sites in Jerusalem. 
+ <p class="updated_time"> 09:11 AM CT, May. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-61348521?at_medium=RSS&at_campaign=KARANGA">Amazon targets review firms with legal action</a> BBC: The tech giant has accused four companies of flooding its shopping sites with fake reviews. 
+ <p class="updated_time"> 08:59 AM CT, May. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61351158?at_medium=RSS&at_campaign=KARANGA">Platinum Jubilee: Harry and Andrew will not appear on Buckingham Palace balcony</a> BBC: Only working royals will appear on the Buckingham Palace balcony for the Platinum Jubilee, the Queen decides. 
+ <p class="updated_time"> 08:53 AM CT, May. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61337623?at_medium=RSS&at_campaign=KARANGA">US job creation beats forecasts despite headwinds</a> BBC: Employers added 428,000 jobs last month, while the jobless rate held steady at 3.6%. 
+ <p class="updated_time"> 08:47 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/video/headline/977F8B3F-ACC6-4F71-860B-432D4F996DF8.html">NATO Military Spending Amid the Ukraine War, Explained</a> WSJ: NATO Military Spending Amid the Ukraine War, Explained 
  <p class="updated_time"> 08:45 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/covid-hospitalizations-cases-us.html">Worries About Covid Strain on Health Care Grow in the U.S.</a> NYT: The C.D.C. is also keeping a close eye on the nature of hospitalizations. 
  <p class="updated_time"> 08:44 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/australia/elvis-presley-festival-parkes.html">How the King of Rock ’n’ Roll Still Makes Australia Sing</a> NYT: Elvis never played a concert “down under,” but that hasn’t stopped tens of thousands of Australians from making him their own at an annual festival. 
+ <p class="updated_time"> 08:43 AM CT, May. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61347906?at_medium=RSS&at_campaign=KARANGA">Kenyan Muslim cleric refuses to leave jail after acquittal</a> BBC: He fears being killed by Kenyan state agents as is alleged has happened to other terror suspects. 
  <p class="updated_time"> 08:37 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/ukraine-russia-artillery-kharkiv.html">One Village at a Time: The Grinding Artillery War in Ukraine</a> NYT: The advances by the Ukrainian army in the north have been modest, but they are emblematic of both sides’ strategy: maneuvering artillery to gain territory. 
- <p class="updated_time"> 07:51 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/video/headline/977F8B3F-ACC6-4F71-860B-432D4F996DF8.html">NATO Military Spending Amid the Ukraine War, Explained</a> WSJ: NATO Military Spending Amid the Ukraine War, Explained 
- <p class="updated_time"> 06:51 AM CT, May. 06 </p> 
+ <p class="updated_time"> 07:47 AM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant</a> WSJ: Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant 
+ <p class="updated_time"> 06:47 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Mass Graves in Ukraine Reveal Mounting Death Toll 
  <p class="updated_time"> 06:39 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61344529?at_medium=RSS&at_campaign=KARANGA">Israel hunts Palestinian axe attackers who killed three</a> BBC: Three Israelis were killed as two Palestinians bludgeoned civilians in a park full of families. 
  <p class="updated_time"> 06:20 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61332283?at_medium=RSS&at_campaign=KARANGA">Why 9 May Victory Day is so important for Russia</a> BBC: Vladimir Putin has made it an annual event, but amid war in Ukraine 9 May has taken on new significance. 
- <p class="updated_time"> 05:51 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Mass Graves in Ukraine Reveal Mounting Death Toll 
+ <p class="updated_time"> 05:47 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/philippines-duterte-era-ends-leaving-fate-of-tighter-china-ties-to-his-successor-11651840777">Philippines’ Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor</a> WSJ: Philippines’ Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor 
  <p class="updated_time"> 05:45 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61347620?at_medium=RSS&at_campaign=KARANGA">Facebook's Australia news ban overblocked on purpose, whistleblowers claim</a> BBC: A whistleblower group says Facebook deliberately overblocked a news ban affecting vital services. 
  <p class="updated_time"> 05:31 AM CT, May. 06 </p> 
@@ -37,8 +51,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/world/asia/john-lee-hong-kong-election.html">In Hong Kong Election, John Lee Is Running Uncontested</a> NYT: John Lee, a Beijing loyalist who oversaw the crackdown on pro-democracy protests, built his career by deepening his contacts within the mainland security services. 
  <p class="updated_time"> 04:54 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/jill-biden-europe-ukraine.html">Jill Biden Embarks on Trip to Eastern Europe to Visit Ukrainian Refugees</a> NYT: The first lady is also scheduled to tour the Slovakian border with Ukraine, becoming the latest high-profile Biden administration official to come close to the conflict zone. 
- <p class="updated_time"> 04:51 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/philippines-duterte-era-ends-leaving-fate-of-tighter-china-ties-to-his-successor-11651840777">Philippines’ Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor</a> WSJ: Philippines’ Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor 
+ <p class="updated_time"> 04:47 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/in-china-if-youve-got-mail-it-might-arrive-with-a-whiff-of-sanitizer-and-a-covid-19-test-11651834801">In China, if You’ve Got Mail, It Might Arrive With a Whiff of Sanitizer and a Covid-19 Test</a> WSJ: In China, if You’ve Got Mail, It Might Arrive With a Whiff of Sanitizer and a Covid-19 Test 
  <p class="updated_time"> 04:29 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61347236?at_medium=RSS&at_campaign=KARANGA">Belarus Ryanair plane arrest student Sofia Sapega jailed for six years</a> BBC: The verdict on Sofia Sapega comes a year after she was forcibly removed from a diverted Ryanair flight. 
  <p class="updated_time"> 04:15 AM CT, May. 06 </p> 
@@ -53,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/travel/mexico-timothy-leary-psychedelics.html">A Psychedelic Trip to Timothy Leary’s Catalina Resort in Mexico</a> NYT: Most travelers descending on Zihuatanejo are unaware of the resort city’s storied past with the apostle of psychedelic drugs, and his experiments in consciousness expansion. 
  <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1096890112/first-lady-jill-biden-romania-slovakia-border-nato-ukraine-refugees">Jill Biden heads to Romania and Slovakia to show support for NATO and Ukraine</a> NPR: Jill Biden's trip to the Slovakia-Ukraine border will be her most high-profile moment yet as first lady. On Mother's Day she meets with Ukrainian mothers and children who fled after Russia's invasion. 
- <p class="updated_time"> 03:51 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/in-china-if-youve-got-mail-it-might-arrive-with-a-whiff-of-sanitizer-and-a-covid-19-test-11651834801">In China, if You’ve Got Mail, It Might Arrive With a Whiff of Sanitizer and a Covid-19 Test</a> WSJ: In China, if You’ve Got Mail, It Might Arrive With a Whiff of Sanitizer and a Covid-19 Test 
  <p class="updated_time"> 03:46 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61345099?at_medium=RSS&at_campaign=KARANGA">Dave Chappelle: Stage attacker charged with misdemeanours</a> BBC: The US comedian was attacked on stage on Tuesday evening while performing at the Hollywood Bowl. 
  <p class="updated_time"> 03:38 AM CT, May. 06 </p> 
@@ -63,14 +75,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/05/world/europe/ukraine-russia-east-donetsk-mariupol.html">Putin’s Forces Battle in East Ukraine to Feed His Hunger for a Victory</a> NYT: The fighting has intensified ahead of Russia’s May 9 Victory Day holiday commemorating the Soviet Union’s triumph over Nazi Germany. 
  <p class="updated_time"> 12:45 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097062320/ukraine-factory-hope-for-a-miracle">Inside the Azovstal factory: Ukrainians 'only hope for a miracle' </a> NPR: The close-quarter battle inside the Azovstal factory the last Ukrainian stronghold of the strategic port city 
- <p class="updated_time"> 12:31 AM CT, May. 06 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61342891?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands premier Andrew Fahie replaced after drugs arrest</a> BBC: Andrew Fahie is removed as leader of the overseas territory following a no-confidence vote. 
+ <p class="updated_time"> 12:30 AM CT, May. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61343255?at_medium=RSS&at_campaign=KARANGA">Gucci stores to accept cryptocurrencies in US</a> BBC: Gucci joins a growing number of major companies that have started to accept digital currencies. 
  <p class="updated_time"> 11:58 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61343044?at_medium=RSS&at_campaign=KARANGA">Moskva sinking: US gave intelligence that helped Ukraine sink Russian cruiser - reports</a> BBC: The Pentagon has not commented, but a spokesman said the US gave intelligence to help Ukraine's defence. 
  <p class="updated_time"> 11:00 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/health/covid-global-deaths.html">Death Toll During Pandemic Far Exceeds Totals Reported by Countries, W.H.O. Says</a> NYT: Nearly 15 million more people died during the first two years of the pandemic than would have been expected during normal times, the organization found. The previous count of virus deaths, from countries’ reporting, was six million. 
- <p class="updated_time"> 10:37 PM CT, May. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61342436?at_medium=RSS&at_campaign=KARANGA">Mariupol fighting: More evacuations from besieged city on Friday, UN says</a> BBC: Civilians remain trapped at a steelworks where Ukrainian and Russian troops are fighting for control. 
  <p class="updated_time"> 09:56 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/pakistan-baluchistan-violence.html">In Pakistan, Violence by Baluch Separatists Destabilizes Region</a> NYT: A government plagued by volatility is trying to quell a separatist movement in Baluchistan while also fighting other insurgencies and striving for economic development. 
  <p class="updated_time"> 09:37 PM CT, May. 05 </p> 
@@ -91,16 +101,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61326293?at_medium=RSS&at_campaign=KARANGA">The volunteer pilots from Germany delivering medical supplies to Ukraine</a> BBC: The pilots from Germany are flying medical supplies to the Ukraine-Poland border and helping refugees. 
  <p class="updated_time"> 06:01 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61082317?at_medium=RSS&at_campaign=KARANGA">Why one firm is banking on carbon fibre bikes in Europe</a> BBC: Europe's bike firms want to source more components closer to home, including carbon fibre frames. 
- <p class="updated_time"> 04:59 PM CT, May. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61342678?at_medium=RSS&at_campaign=KARANGA">CCTV captures Kansas tornado churning in car park</a> BBC: An surveillance camera captures a tornado forming and sweeping through Andover. 
  <p class="updated_time"> 04:51 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096978095/israel-stabbing-attack">3 people were killed in a stabbing attack near Tel Aviv</a> NPR: Israeli authorities said a pair of Palestinian attackers went on a stabbing rampage in a town near Tel Aviv, killing at least three people and wounding four others before fleeing in a vehicle. 
  <p class="updated_time"> 04:45 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/pope-kidnapped-nun-mali.html">Pope Approved Secret Deal to Free Abducted Nun, Cardinal Says</a> NYT: A formerly top-ranking cardinal testified Thursday that the pope said he could spend up to one million euros to secure the release of a nun kidnapped by Islamic militants. 
  <p class="updated_time"> 04:30 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096943991/the-status-of-iran-nuclear-deal-talks">The status of Iran nuclear deal talks</a> NPR: For weeks, talks between world powers and Iran over reviving the 2015 nuclear deal have been stalled — partly because of the war in Ukraine. But they're still a priority and could go either way. 
- <p class="updated_time"> 04:26 PM CT, May. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61274336?at_medium=RSS&at_campaign=KARANGA">Karine Jean-Pierre: White House names first black press secretary</a> BBC: Karine Jean-Pierre will replace Jen Psaki in the top role at the end of next week. 
  <p class="updated_time"> 04:20 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/05/1095466197/whats-a-good-word-for-the-welcome-given-to-ukrainian-refugees-in-europe-generous">What's a good word for the welcome given to Ukrainian refugees in Europe? 'Generous'</a> NPR: That's how Paul Spiegel characterizes the reception — and medical services — offered by European nations. He spent 7 weeks on the scene for the World Health Organization to assess the situation. 
  <p class="updated_time"> 04:14 PM CT, May. 05 </p> 
@@ -109,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/05/1096943949/cinco-de-mayo-is-part-of-a-deeper-story-of-2-nations-trying-to-define-themselves">Cinco de Mayo is part of a deeper story of 2 nations trying to define themselves</a> NPR: Cinco de Mayo has come to stand for a celebration of Mexican culture and heritage. On May 5, 1862, an epic battle was fought and won by Mexicans, which helped shape the future of Mexico and the U.S. 
  <p class="updated_time"> 03:58 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096920856/russia-ukraine-war-what-happened-today-may-5">Russia-Ukraine war: What happened today (May 5)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:39 PM CT, May. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61339174?at_medium=RSS&at_campaign=KARANGA">Jealous Depp kicked me over Franco 'affair' - Heard</a> BBC: Amber Heard says jealousy of actor James Franco sent Johnny Depp into a rage on a plane. 
  <p class="updated_time"> 03:29 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/americas/abortion-activists-movements.html">Roe Inspired Activists Worldwide, Who May Be Rethinking Strategy</a> NYT: Feminist movements in some countries similarly sought abortion protections in their courts, but for others, the goal was legislative change. 
  <p class="updated_time"> 03:28 PM CT, May. 05 </p> 
@@ -127,8 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/05/1096880452/mariupol-steel-plant-ukraine-resistance">How a massive steel plant became the center of Ukraine's resistance in Mariupol</a> NPR: The final battle for Mariupol is taking place inside the Azovstal steel plant, a massive coastal complex in the besieged city. Hundreds of civilians are still trapped inside, officials say. 
  <p class="updated_time"> 01:31 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/lviv-jan-henryk-de-rosen-mural.html">In Lviv, a hidden work by a master is discovered.</a> NYT: During the renovation of a former Catholic church, a mural by the Polish painter Jan Henryk de Rosen was uncovered. 
- <p class="updated_time"> 01:26 PM CT, May. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61341641?at_medium=RSS&at_campaign=KARANGA">Madison Cawthorn: US lawmaker 'won't back down' after naked tape leak</a> BBC: "We were acting foolish, and joking. That's it," says Madison Cawthorn, the youngest US congressman. 
  <p class="updated_time"> 12:55 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/business/energy-environment/natural-gas-europe-russia-ukraine.html">Europe’s Quest to Replace Russian Gas Faces Plenty of Hurdles</a> NYT: Climate concerns, investor reticence and political disputes complicate a shift to supplies from the United States, North Africa and the Mediterranean. 
  <p class="updated_time"> 12:44 PM CT, May. 05 </p> 
