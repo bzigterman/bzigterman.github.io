@@ -9,21 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:43 AM CT, May. 06 </p> 
+ <p class="updated_time"> 09:51 AM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/2022/05/04/world/americas/abortion-activists-movements.html">Roe Inspired Activists Worldwide, Who May Be Rethinking Strategy</a> NYT: Feminist movements in some countries similarly sought abortion protections in their courts, but for others, the goal was legislative change. 
+ <p class="updated_time"> 09:50 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">U.K. Live Updates: Boris Johnson’s Party Takes a Hit in Local Elections</a> NYT: The results were being watched closely as a test of the damage done to the prime minister and the Conservatives after revelations about breaches of lockdown rules. 
+ <p class="updated_time"> 09:47 AM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/2022/05/06/business/philippines-election-disinformation.html">In the Philippines, a Flourishing Ecosystem for Political Lies</a> NYT: Supporters of Ferdinand Marcos Jr. are using live video to spread misinformation on social media. Voters have become inured to the situation, researchers fear. 
+ <p class="updated_time"> 09:46 AM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news">Live Updates: Ukraine Begins Offensive Against Russia in Northeast</a> NYT: The Ukrainian military is trying to drive Russian forces back from around the cities of Kharkiv and Izium. An evacuation convoy was dispatched again to the besieged steel plant in Mariupol. 
+ <p class="updated_time"> 09:44 AM CT, May. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61337623?at_medium=RSS&at_campaign=KARANGA">US job creation beats forecasts despite headwinds</a> BBC: Employers added 428,000 jobs last month, while the jobless rate held steady at 3.6%. 
  <p class="updated_time"> 09:42 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/keir-starmer-covid-restrictions-beergate.html">U.K. Police Reopen Lockdown Inquiry into Labour Leader Keir Starmer</a> NYT: The police are taking another look at allegations that Keir Starmer drank beer in a lawmaker’s office, potentially subjecting him to political headaches similar to those suffered by Boris Johnson. 
- <p class="updated_time"> 09:39 AM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news">Live Updates: Ukraine Begins Offensive Against Russia in Northeast</a> NYT: The Ukrainian military is trying to drive Russian forces back from around the cities of Kharkiv and Izium. An evacuation convoy was dispatched again to the besieged steel plant in Mariupol. 
  <p class="updated_time"> 09:39 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/israel-stabbing-attack-palestinians">Live Updates: Israel Searches for Assailants in Ax Rampage</a> NYT: The attack on Thursday, which killed three Israelis, fueled an escalation of tensions that have been building since late March, much of it around holy sites in Jerusalem. 
  <p class="updated_time"> 09:11 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61348521?at_medium=RSS&at_campaign=KARANGA">Amazon targets review firms with legal action</a> BBC: The tech giant has accused four companies of flooding its shopping sites with fake reviews. 
  <p class="updated_time"> 08:59 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61351158?at_medium=RSS&at_campaign=KARANGA">Platinum Jubilee: Harry and Andrew will not appear on Buckingham Palace balcony</a> BBC: Only working royals will appear on the Buckingham Palace balcony for the Platinum Jubilee, the Queen decides. 
- <p class="updated_time"> 08:53 AM CT, May. 06 </p> 
- <a href="https://www.bbc.co.uk/news/business-61337623?at_medium=RSS&at_campaign=KARANGA">US job creation beats forecasts despite headwinds</a> BBC: Employers added 428,000 jobs last month, while the jobless rate held steady at 3.6%. 
- <p class="updated_time"> 08:47 AM CT, May. 06 </p> 
+ <p class="updated_time"> 08:56 AM CT, May. 06 </p> 
  <a href="https://www.wsj.com/video/headline/977F8B3F-ACC6-4F71-860B-432D4F996DF8.html">NATO Military Spending Amid the Ukraine War, Explained</a> WSJ: NATO Military Spending Amid the Ukraine War, Explained 
  <p class="updated_time"> 08:45 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/covid-hospitalizations-cases-us.html">Worries About Covid Strain on Health Care Grow in the U.S.</a> NYT: The C.D.C. is also keeping a close eye on the nature of hospitalizations. 
@@ -33,34 +37,32 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61347906?at_medium=RSS&at_campaign=KARANGA">Kenyan Muslim cleric refuses to leave jail after acquittal</a> BBC: He fears being killed by Kenyan state agents as is alleged has happened to other terror suspects. 
  <p class="updated_time"> 08:37 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/ukraine-russia-artillery-kharkiv.html">One Village at a Time: The Grinding Artillery War in Ukraine</a> NYT: The advances by the Ukrainian army in the north have been modest, but they are emblematic of both sides’ strategy: maneuvering artillery to gain territory. 
- <p class="updated_time"> 07:47 AM CT, May. 06 </p> 
+ <p class="updated_time"> 07:56 AM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant</a> WSJ: Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant 
- <p class="updated_time"> 06:47 AM CT, May. 06 </p> 
+ <p class="updated_time"> 06:56 AM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Mass Graves in Ukraine Reveal Mounting Death Toll 
  <p class="updated_time"> 06:39 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61344529?at_medium=RSS&at_campaign=KARANGA">Israel hunts Palestinian axe attackers who killed three</a> BBC: Three Israelis were killed as two Palestinians bludgeoned civilians in a park full of families. 
  <p class="updated_time"> 06:20 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61332283?at_medium=RSS&at_campaign=KARANGA">Why 9 May Victory Day is so important for Russia</a> BBC: Vladimir Putin has made it an annual event, but amid war in Ukraine 9 May has taken on new significance. 
- <p class="updated_time"> 05:47 AM CT, May. 06 </p> 
+ <p class="updated_time"> 05:56 AM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/philippines-duterte-era-ends-leaving-fate-of-tighter-china-ties-to-his-successor-11651840777">Philippines’ Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor</a> WSJ: Philippines’ Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor 
  <p class="updated_time"> 05:45 AM CT, May. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61347620?at_medium=RSS&at_campaign=KARANGA">Facebook's Australia news ban overblocked on purpose, whistleblowers claim</a> BBC: A whistleblower group says Facebook deliberately overblocked a news ban affecting vital services. 
+ <a href="https://www.bbc.co.uk/news/world-australia-61347620?at_medium=RSS&at_campaign=KARANGA">Facebook accused of deliberately disrupting Australia emergency services</a> BBC: A whistleblower group claims Facebook allowed a news ban affect vital services to gain leverage. 
  <p class="updated_time"> 05:31 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1096676197/7-persistent-claims-about-abortion-fact-checked">7 persistent claims about abortion, fact-checked</a> NPR: Several not-quite-right claims have continued to linger about abortion since the Supreme Court's 1973 Roe v. Wade decision. 
  <p class="updated_time"> 05:30 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/asia/john-lee-hong-kong-election.html">In Hong Kong Election, John Lee Is Running Uncontested</a> NYT: John Lee, a Beijing loyalist who oversaw the crackdown on pro-democracy protests, built his career by deepening his contacts within the mainland security services. 
+ <p class="updated_time"> 04:56 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/in-china-if-youve-got-mail-it-might-arrive-with-a-whiff-of-sanitizer-and-a-covid-19-test-11651834801">In China, if You’ve Got Mail, It Might Arrive With a Whiff of Sanitizer and a Covid-19 Test</a> WSJ: In China, if You’ve Got Mail, It Might Arrive With a Whiff of Sanitizer and a Covid-19 Test 
  <p class="updated_time"> 04:54 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/jill-biden-europe-ukraine.html">Jill Biden Embarks on Trip to Eastern Europe to Visit Ukrainian Refugees</a> NYT: The first lady is also scheduled to tour the Slovakian border with Ukraine, becoming the latest high-profile Biden administration official to come close to the conflict zone. 
- <p class="updated_time"> 04:47 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/in-china-if-youve-got-mail-it-might-arrive-with-a-whiff-of-sanitizer-and-a-covid-19-test-11651834801">In China, if You’ve Got Mail, It Might Arrive With a Whiff of Sanitizer and a Covid-19 Test</a> WSJ: In China, if You’ve Got Mail, It Might Arrive With a Whiff of Sanitizer and a Covid-19 Test 
  <p class="updated_time"> 04:29 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61347236?at_medium=RSS&at_campaign=KARANGA">Belarus Ryanair plane arrest student Sofia Sapega jailed for six years</a> BBC: The verdict on Sofia Sapega comes a year after she was forcibly removed from a diverted Ryanair flight. 
  <p class="updated_time"> 04:15 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1096481280/ukraine-agriculture-farms-russia-war">Russians wreak havoc on Ukrainian farms, mining fields and stealing equipment </a> NPR: Ukraine is one of the world's biggest producers of wheat, corn and sunflower oil. Officials say 30% of farmland is now occupied or unsafe. "My fields were destroyed by the shelling," one farmer says. 
  <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/science/great-pacific-garbage-patch-pollution.html">The Ocean’s Biggest Garbage Pile Is Full of Floating Life</a> NYT: Researchers found that small sea creatures exist in equal number with pieces of plastic in parts of the Great Pacific Garbage Patch, which could have implications for cleaning up ocean pollution. 
- <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/2022/05/06/business/philippines-election-disinformation.html">In the Philippines, a Flourishing Ecosystem for Political Lies</a> NYT: Supporters of Ferdinand Marcos Jr. are using live video to spread misinformation on social media. Voters have become inured to the situation, researchers fear. 
  <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/japan-nuclear-power.html">Japan Says It Needs Nuclear Power. Can Host Towns Ever Trust It Again?</a> NYT: The Ukraine war has shown the fragility of Japan’s energy supplies. But the decision to restart plants after the Fukushima disaster is fraught with emotions and political calculation. 
  <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
@@ -115,8 +117,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/05/1096943949/cinco-de-mayo-is-part-of-a-deeper-story-of-2-nations-trying-to-define-themselves">Cinco de Mayo is part of a deeper story of 2 nations trying to define themselves</a> NPR: Cinco de Mayo has come to stand for a celebration of Mexican culture and heritage. On May 5, 1862, an epic battle was fought and won by Mexicans, which helped shape the future of Mexico and the U.S. 
  <p class="updated_time"> 03:58 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096920856/russia-ukraine-war-what-happened-today-may-5">Russia-Ukraine war: What happened today (May 5)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:29 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/04/world/americas/abortion-activists-movements.html">Roe Inspired Activists Worldwide, Who May Be Rethinking Strategy</a> NYT: Feminist movements in some countries similarly sought abortion protections in their courts, but for others, the goal was legislative change. 
  <p class="updated_time"> 03:28 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096943905/former-u-s-consul-in-rio-de-janeiro-raises-new-alarms-about-brazils-bolsonaro">Former U.S. consul in Rio de Janeiro raises new alarms about Brazil's Bolsonaro</a> NPR: The former U.S. consul in Rio de Janeiro, Scott Hamilton, speaks about his concerns about Brazilian President Jair Bolsonaro, and the implications for democratic institutions in the country. 
  <p class="updated_time"> 03:28 PM CT, May. 05 </p> 
@@ -354,8 +354,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/03/congress-supreme-court-abortion-reactions-00029682">Collins, Manchin and other lawmakers react to the Supreme Court draft opinion</a> Politico: Members of Congress are already speculating on the ramifications of a world without Roe v. Wade. 
  <p class="updated_time"> 11:55 AM CT, May. 03 </p> 
  <a href="https://www.politico.com/news/2022/05/03/republicans-rage-draft-roe-abortion-opinion-00029644">Republicans rage about breach of draft Roe opinion</a> Politico: Rather than reveling in a document that supports their anti-abortion views, most of the GOP trained its fire on the source of the breach. 
- <p class="updated_time"> 09:55 AM CT, May. 03 </p> 
- <a href="https://www.politico.com/news/2022/05/03/schumer-abortion-rights-roe-draft-opinion-00029573">Schumer vows abortion rights floor fight in wake of Roe draft opinion</a> Politico: There's no serious path forward in the Senate right now for Democrats' calls to codify abortion rights. Many in the party want to try anyway. 
 
 
 </details>
