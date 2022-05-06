@@ -9,29 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:34 PM CT, May. 06 </p> 
+ <p class="updated_time"> 03:44 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/cuba-explosion-havana-hotel">Live Updates: Explosion at Hotel in Cuba Kills Nine</a> NYT: An explosion caused by an apparent gas leak left dozens injured and destroyed parts of a luxury hotel. Other people were possibly trapped inside the rubble. 
+ <p class="updated_time"> 03:40 PM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">U.K. Live Updates: Sinn Fein Is Winning in Northern Ireland</a> NYT: In local elections across the U.K., Boris Johnson acknowledges a “tough night” for Conservatives, and Northern Ireland’s pro-unity party was nearing a historic victory. 
+ <p class="updated_time"> 03:39 PM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news">Live Updates: Ukraine Tries to Push Russia Back From Key Cities</a> NYT: The Ukrainian military took the offensive as the two sides battle for control of the east. In the south, an evacuation convoy was dispatched to rescue civilians from the besieged steel plant in Mariupol. 
  <p class="updated_time"> 03:25 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/israel-stabbing-attack-palestinians">Live Updates: Israel Searches for Assailants in Ax Rampage</a> NYT: The attack on Thursday, which killed three Israelis, fueled an escalation of tensions that have been building since late March, much of it around holy sites in Jerusalem. 
  <p class="updated_time"> 03:23 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/johnson-starmer-elections-britain.html">Boris Johnson and His Party Suffer Setbacks in Local Voting in Britain</a> NYT: But the British leader appeared to have survived the storm — for now at least — as the head of the opposition Labour Party came under scrutiny for violating lockdown rules himself. 
  <p class="updated_time"> 03:20 PM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097261172/the-acting-u-s-ambassador-to-ukraine-is-preparing-for-2-big-transitions">The acting U.S. ambassador to Ukraine is preparing for 2 big transitions</a> NPR: The U.S. embassy is about to return to Kyiv, after evacuating to Poland early in the war. Also, President Biden has nominated a veteran diplomat to fill the post that has been vacant for three years. 
- <p class="updated_time"> 03:07 PM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">U.K. Live Updates: Sinn Fein Is Winning in Northern Ireland</a> NYT: In local elections across the U.K., Boris Johnson acknowledges a “tough night” for Conservatives, and Northern Ireland’s pro-unity party was nearing a historic victory. 
- <p class="updated_time"> 02:38 PM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news">Live Updates: Ukraine Tries to Push Russia Back From Key Cities</a> NYT: The Ukrainian military took the offensive as the two sides battle for control of the east. In the south, an evacuation convoy was dispatched to rescue civilians from the besieged steel plant in Mariupol. 
- <p class="updated_time"> 02:37 PM CT, May. 06 </p> 
+ <p class="updated_time"> 02:50 PM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant</a> WSJ: Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant 
  <p class="updated_time"> 01:54 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61358186?at_medium=RSS&at_campaign=KARANGA">Saratoga Hotel: Eight dead after huge explosion in Havana</a> BBC: Local officials blamed a gas leak for the explosion at the five-star Saratoga Hotel in Havana, Cuba. 
- <p class="updated_time"> 01:37 PM CT, May. 06 </p> 
+ <p class="updated_time"> 01:50 PM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/blast-in-cuba-tears-through-havanas-iconic-hotel-saratoga-11651855524">Eight Dead After Explosion Tears Through Cuba’s Hotel Saratoga</a> WSJ: Eight Dead After Explosion Tears Through Cuba’s Hotel Saratoga 
  <p class="updated_time"> 01:24 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/business/energy-environment/natural-gas-europe-russia-ukraine.html">Europe’s Quest to Replace Russian Gas Faces Plenty of Hurdles</a> NYT: Climate concerns, investor reticence and political disputes complicate a shift to supplies from the United States, North Africa and the Mediterranean. 
  <p class="updated_time"> 01:20 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61353020?at_medium=RSS&at_campaign=KARANGA">Who is Alina Kabaeva, Putin's alleged girlfriend?</a> BBC: The EU is proposing to sanction Alina Kabaeva, an ex-gymnast turned media boss close to President Vladimir Putin. 
- <p class="updated_time"> 12:37 PM CT, May. 06 </p> 
+ <p class="updated_time"> 12:50 PM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Mass Graves in Ukraine Reveal Mounting Death Toll 
  <p class="updated_time"> 12:37 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/uk-queen-harry-andrew-platinum-jubilee.html">Who Will Be in the Queen’s Jubilee Photo-Op?</a> NYT: Neither Prince Harry and his wife Meghan, nor Prince Andrew will get a place on the balcony at Buckingham Palace. It’s not even certain Queen Elizabeth, 96, will be there. 
@@ -43,15 +43,15 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61347906?at_medium=RSS&at_campaign=KARANGA">Kenyan Muslim cleric refuses to leave jail after acquittal</a> BBC: He fears being killed by Kenyan state agents as is alleged has happened to other terror suspects. 
  <p class="updated_time"> 12:00 PM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097137528/havana-cuba-hotel-explosion-deaths">At least 8 people have died in an explosion at a Havana hotel</a> NPR: Dozens were injured in the blast that ripped away large sections of the outer wall at the Hotel Saratoga, a 19th century structure. A gas leak was the suspected cause of the explosion. 
+ <p class="updated_time"> 11:50 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/hungary-holds-up-eu-deal-to-sanction-russian-oil-11651843279">Hungary Holds Up EU Deal to Sanction Russian Oil</a> WSJ: Hungary Holds Up EU Deal to Sanction Russian Oil 
  <p class="updated_time"> 11:42 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/covid-hospitalizations-cases-us.html">Worries About Covid Strain on Health Care Grow in the U.S.</a> NYT: The C.D.C. is also keeping a close eye on the nature of hospitalizations. 
- <p class="updated_time"> 11:37 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/hungary-holds-up-eu-deal-to-sanction-russian-oil-11651843279">Hungary Holds Up EU Deal to Sanction Russian Oil</a> WSJ: Hungary Holds Up EU Deal to Sanction Russian Oil 
  <p class="updated_time"> 11:24 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61347237?at_medium=RSS&at_campaign=KARANGA">Shooting on Dutch care farm leaves two dead</a> BBC: The victims were a girl of 16 and a 38-year-old woman and a man has been arrested. 
  <p class="updated_time"> 11:13 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/business-61337623?at_medium=RSS&at_campaign=KARANGA">US job creation beats forecasts despite headwinds</a> BBC: Employers added 428,000 jobs last month, while the jobless rate held steady at 3.6%. 
- <p class="updated_time"> 10:37 AM CT, May. 06 </p> 
+ <p class="updated_time"> 10:50 AM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/philippines-duterte-era-ends-leaving-fate-of-tighter-china-ties-to-his-successor-11651840777">Philippines’ Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor</a> WSJ: Philippines’ Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor 
  <p class="updated_time"> 10:16 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/ireland-abortion-hospital.html">Ireland Abortion Rights Activists Oppose Hospital Deal</a> NYT: The government delayed a decision on the proposal, amid concerns that a private charity might follow Catholic doctrine and limit abortions at a state-funded maternity hospital. 
@@ -198,6 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:42 PM CT, May. 06 </p> 
+ <a href="https://www.npr.org/2022/05/06/1097261186/the-threat-to-abortion-rights-could-mobilize-young-voters-democratic-leaders-hop">The threat to abortion rights could mobilize young voters, Democratic leaders hope</a> NPR: These midterms, younger voters have soured on the Democratic Party. Party leaders see the threat to abortion rights as an opportunity to rebuild the multigenerational coalition that elected Joe Biden. 
  <p class="updated_time"> 03:25 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/politics/marjorie-taylor-greene-insurrection.html">In Georgia, a judge rules that Marjorie Taylor Greene did not engage in an insurrection on Jan. 6.</a> NYT: A Georgia administrative law judge said Representative Marjorie Taylor Greene, a Republican seeking a second term, should remain on the ballot. 
  <p class="updated_time"> 03:20 PM CT, May. 06 </p> 
@@ -300,8 +302,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/05/world/americas/ricardo-alarcon-dead.html">Ricardo Alarcon, Diplomat and Castro Confidant, Dies at 84</a> NYT: As Havana’s go-between with the U.S., he negotiated Elián González’s return to Cuba. He was also the country’s U.N. representative on two occasions. 
  <p class="updated_time"> 11:00 AM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096732347/roe-v-wade-implications-beyond-abortion">Could overturning Roe v. Wade have implications beyond abortion?</a> NPR: The draft Supreme Court opinion says it is limited to abortion, but advocates say same-sex marriage and birth control cases could be at risk. 
- <p class="updated_time"> 09:55 AM CT, May. 05 </p> 
- <a href="https://www.npr.org/2022/05/05/1096851435/olivia-rodrigo-abortion-concert">Olivia Rodrigo voices support for abortion rights onstage during her concert in D.C.</a> NPR: "I hope we can raise our voices to protect our right to have a safe abortion," the pop star said, prompting cheers from the audience. 
  <p class="updated_time"> 08:41 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/books/books-about-abortion.html">10 Books on Abortion to Understand the Roe v. Wade Debate</a> NYT: Nearly 50 years ago, the Supreme Court legalized abortion. The decision has since divided the country. Now that the issue is before the court again, here are 10 books that help frame the debate. 
  <p class="updated_time"> 03:30 AM CT, May. 05 </p> 
