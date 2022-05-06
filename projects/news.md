@@ -9,31 +9,33 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:01 AM CT, May. 06 </p> 
+ <p class="updated_time"> 03:17 AM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/05/world/ukraine-russia-war-news">What Happened on Day 71 of the War in Ukraine</a> NYT: The fighting appeared to have intensified ahead of Russia’s Victory Day holiday, which commemorates the Soviet Union’s triumph over Nazi Germany. 
+ <p class="updated_time"> 03:05 AM CT, May. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61344529?at_medium=RSS&at_campaign=KARANGA">Israel hunts Palestinian axe attackers who killed three</a> BBC: Three Israelis were killed as two Palestinians bludgeoned civilians in a park full of families. 
+ <p class="updated_time"> 02:33 AM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/suspected-terror-attack-in-israel-kills-at-least-three-on-independence-day-11651786798">Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day</a> WSJ: Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day 
+ <p class="updated_time"> 01:33 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
  <p class="updated_time"> 01:33 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61332283?at_medium=RSS&at_campaign=KARANGA">Why 9 May Victory Day is so important for Russia</a> BBC: Vladimir Putin has made it an annual event, but amid war in Ukraine 9 May has taken on new significance. 
  <p class="updated_time"> 01:03 AM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/05/05/world/ukraine-russia-war-news">What Happened on Day 71 of the War in Ukraine</a> NYT: The fighting appeared to have intensified ahead of Russia’s Victory Day holiday, which commemorates the Soviet Union’s triumph over Nazi Germany. 
- <p class="updated_time"> 01:03 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/ukraine-russia-east-donetsk-mariupol.html">Putin’s Forces Battle in East Ukraine to Feed His Hunger for a Victory</a> NYT: The fighting has intensified ahead of Russia’s May 9 Victory Day holiday commemorating the Soviet Union’s triumph over Nazi Germany. 
- <p class="updated_time"> 01:01 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
  <p class="updated_time"> 12:45 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097062320/ukraine-factory-hope-for-a-miracle">Inside the Azovstal factory: Ukrainians 'only hope for a miracle' </a> NPR: The close-quarter battle inside the Azovstal factory the last Ukrainian stronghold of the strategic port city 
+ <p class="updated_time"> 12:33 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/suspected-colombian-drug-kingpin-extradited-to-u-s-11651787114">Suspected Colombian Drug Kingpin Extradited to U.S.</a> WSJ: Suspected Colombian Drug Kingpin Extradited to U.S. 
  <p class="updated_time"> 12:31 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61342891?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands premier Andrew Fahie replaced after drugs arrest</a> BBC: Andrew Fahie is removed as leader of the overseas territory following a no-confidence vote. 
- <p class="updated_time"> 12:01 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/suspected-colombian-drug-kingpin-extradited-to-u-s-11651787114">Suspected Colombian Drug Kingpin Extradited to U.S.</a> WSJ: Suspected Colombian Drug Kingpin Extradited to U.S. 
  <p class="updated_time"> 11:58 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61343044?at_medium=RSS&at_campaign=KARANGA">Moskva sinking: US gave intelligence that helped Ukraine sink Russian cruiser - reports</a> BBC: The Pentagon has not commented, but a spokesman said the US gave intelligence to help Ukraine's defence. 
- <p class="updated_time"> 11:01 PM CT, May. 05 </p> 
+ <p class="updated_time"> 11:33 PM CT, May. 05 </p> 
  <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 11:00 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/health/covid-global-deaths.html">Death Toll During Pandemic Far Exceeds Totals Reported by Countries, W.H.O. Says</a> NYT: Nearly 15 million more people died during the first two years of the pandemic than would have been expected during normal times, the organization found. The previous count of virus deaths, from countries’ reporting, was six million. 
  <p class="updated_time"> 10:37 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61342436?at_medium=RSS&at_campaign=KARANGA">Mariupol fighting: More evacuations from besieged city on Friday, UN says</a> BBC: Civilians remain trapped at a steelworks where Ukrainian and Russian troops are fighting for control. 
- <p class="updated_time"> 10:01 PM CT, May. 05 </p> 
+ <p class="updated_time"> 10:33 PM CT, May. 05 </p> 
  <a href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818">Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs</a> WSJ: Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs 
  <p class="updated_time"> 09:56 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/asia/pakistan-baluchistan-violence.html">In Pakistan, Violence by Baluch Separatists Destabilizes Region</a> NYT: A government plagued by volatility is trying to quell a separatist movement in Baluchistan while also fighting other insurgencies and striving for economic development. 
@@ -65,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/05/1096978095/israel-stabbing-attack">3 people were killed in a stabbing attack near Tel Aviv</a> NPR: Israeli authorities said a pair of Palestinian attackers went on a stabbing rampage in a town near Tel Aviv, killing at least three people and wounding four others before fleeing in a vehicle. 
  <p class="updated_time"> 04:45 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/pope-kidnapped-nun-mali.html">Pope Approved Secret Deal to Free Abducted Nun, Cardinal Says</a> NYT: A formerly top-ranking cardinal testified Thursday that the pope said he could spend up to one million euros to secure the release of a nun kidnapped by Islamic militants. 
- <p class="updated_time"> 04:35 PM CT, May. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61339751?at_medium=RSS&at_campaign=KARANGA">Elad attack: Three dead in central Israeli city</a> BBC: Police say the incident is a suspected terror attack, which follows a surge in violence. 
  <p class="updated_time"> 04:30 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096943991/the-status-of-iran-nuclear-deal-talks">The status of Iran nuclear deal talks</a> NPR: For weeks, talks between world powers and Iran over reviving the 2015 nuclear deal have been stalled — partly because of the war in Ukraine. But they're still a priority and could go either way. 
  <p class="updated_time"> 04:26 PM CT, May. 05 </p> 
