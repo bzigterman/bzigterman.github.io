@@ -25,29 +25,29 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/06/1096890112/first-lady-jill-biden-romania-slovakia-border-nato-ukraine-refugees">Jill Biden heads to Romania and Slovakia to show support for NATO and Ukraine</a> NPR: Jill Biden's trip to the Slovakia-Ukraine border will be her most high-profile moment yet as first lady. On Mother's Day she meets with Ukrainian mothers and children who fled after Russia's invasion. 
  <p class="updated_time"> 03:58 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/05/world/ukraine-russia-war-news">What Happened on Day 71 of the War in Ukraine</a> NYT: The fighting appeared to have intensified ahead of Russia’s Victory Day holiday, which commemorates the Soviet Union’s triumph over Nazi Germany. 
+ <p class="updated_time"> 03:48 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/suspected-terror-attack-in-israel-kills-at-least-three-on-independence-day-11651786798">Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day</a> WSJ: Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day 
  <p class="updated_time"> 03:38 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097067070/u-k-conservatives-lose-london-strongholds-in-blow-to-boris-johnson">U.K. Conservatives lose London strongholds in blow to Boris Johnson</a> NPR: Voting for local councils across the country will be an important barometer for the next national elections. 
- <p class="updated_time"> 03:33 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/suspected-terror-attack-in-israel-kills-at-least-three-on-independence-day-11651786798">Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day</a> WSJ: Suspected Terrorist Attack in Israel Kills at Least Three on Independence Day 
  <p class="updated_time"> 03:05 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61344529?at_medium=RSS&at_campaign=KARANGA">Israel hunts Palestinian axe attackers who killed three</a> BBC: Three Israelis were killed as two Palestinians bludgeoned civilians in a park full of families. 
- <p class="updated_time"> 02:33 AM CT, May. 06 </p> 
+ <p class="updated_time"> 02:48 AM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/russia-steps-up-attacks-on-ukraine-railways-other-infrastructure-11651743013">Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure</a> WSJ: Russia Steps Up Attacks on Ukraine Railways, Other Infrastructure 
- <p class="updated_time"> 01:33 AM CT, May. 06 </p> 
+ <p class="updated_time"> 01:48 AM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/suspected-colombian-drug-kingpin-extradited-to-u-s-11651787114">Suspected Colombian Drug Kingpin Extradited to U.S.</a> WSJ: Suspected Colombian Drug Kingpin Extradited to U.S. 
  <p class="updated_time"> 01:33 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61332283?at_medium=RSS&at_campaign=KARANGA">Why 9 May Victory Day is so important for Russia</a> BBC: Vladimir Putin has made it an annual event, but amid war in Ukraine 9 May has taken on new significance. 
  <p class="updated_time"> 01:03 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/ukraine-russia-east-donetsk-mariupol.html">Putin’s Forces Battle in East Ukraine to Feed His Hunger for a Victory</a> NYT: The fighting has intensified ahead of Russia’s May 9 Victory Day holiday commemorating the Soviet Union’s triumph over Nazi Germany. 
+ <p class="updated_time"> 12:48 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 12:45 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097062320/ukraine-factory-hope-for-a-miracle">Inside the Azovstal factory: Ukrainians 'only hope for a miracle' </a> NPR: The close-quarter battle inside the Azovstal factory the last Ukrainian stronghold of the strategic port city 
- <p class="updated_time"> 12:33 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/unexplained-attacks-inside-russian-territory-raise-prospect-of-wider-conflict-11651742076">Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict</a> WSJ: Unexplained Attacks Inside Russian Territory Raise Prospect of Wider Conflict 
  <p class="updated_time"> 12:31 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61342891?at_medium=RSS&at_campaign=KARANGA">British Virgin Islands premier Andrew Fahie replaced after drugs arrest</a> BBC: Andrew Fahie is removed as leader of the overseas territory following a no-confidence vote. 
  <p class="updated_time"> 11:58 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61343044?at_medium=RSS&at_campaign=KARANGA">Moskva sinking: US gave intelligence that helped Ukraine sink Russian cruiser - reports</a> BBC: The Pentagon has not commented, but a spokesman said the US gave intelligence to help Ukraine's defence. 
- <p class="updated_time"> 11:33 PM CT, May. 05 </p> 
+ <p class="updated_time"> 11:48 PM CT, May. 05 </p> 
  <a href="https://www.wsj.com/articles/inside-ukraines-besieged-azovstal-steel-plant-siphoning-fuel-singing-songs-and-surviving-the-night-intact-11651755818">Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs</a> WSJ: Inside Ukraine’s Besieged Azovstal Plant: Siphoning Fuel, Singing Songs 
  <p class="updated_time"> 11:00 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/health/covid-global-deaths.html">Death Toll During Pandemic Far Exceeds Totals Reported by Countries, W.H.O. Says</a> NYT: Nearly 15 million more people died during the first two years of the pandemic than would have been expected during normal times, the organization found. The previous count of virus deaths, from countries’ reporting, was six million. 
@@ -318,14 +318,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/04/world/asia/india-russia-oil.html">India Finds Russian Oil an Irresistible Deal, No Matter the Diplomatic Pressure</a> NYT: A parade of emissaries have urged a harder line on Russia. But India’s political neutrality over the war in Ukraine has expanded into economic opportunism. 
  <p class="updated_time"> 08:50 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/us/politics/jd-vance-trump-ohio-fox-news.html">How J.D. Vance Won in Ohio: A Trump Endorsement, a Fox News Stage and Money</a> NYT: A big endorsement was decisive, but a cable news megaphone and a huge infusion of spending helped pave the way to victory. 
- <p class="updated_time"> 07:39 PM CT, May. 04 </p> 
- <a href="https://www.nytimes.com/2022/05/04/us/politics/supreme-court-marshal-leak-investigation.html">As Leak Theories Circulate, Supreme Court Marshal Takes Up Investigation</a> NYT: Not since Bob Woodward and Carl Bernstein refused for decades to disclose the identity of their Watergate source has Washington been as eager to unmask a leaker. 
  <p class="updated_time"> 07:32 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/us/politics/larry-hogan-trump-gop.html">Larry Hogan Takes the Fight to Trump From Within the G.O.P.</a> NYT: The Maryland governor, a rare Republican who speaks out publicly against Donald Trump, is trying to defend G.O.P. lawmakers targeted by the former president. 
  <p class="updated_time"> 06:58 PM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/oath-keepers-leader-sought-to-contact-trump-on-jan-6-court-papers-indicate-00030219">Oath Keepers leader sought to contact Trump on Jan. 6, court papers indicate</a> Politico: Prosecutors say Stewart Rhodes tried to connect with the then-president after the attack on the Capitol and urge him to ask the group to forcibly oppose the ascension of Joe Biden. 
- <p class="updated_time"> 06:19 PM CT, May. 04 </p> 
- <a href="https://www.nytimes.com/2022/05/04/us/politics/roberts-alito-abortion-roe-v-wade.html">Once Close Allies, Roberts and Alito Have Taken Divergent Paths</a> NYT: Chief Justice John G. Roberts Jr. and Justice Samuel A. Alito Jr. have become emblems of a stark divide at the Supreme Court as it confronts whether to overturn Roe v. Wade. 
  <p class="updated_time"> 05:54 PM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/gop-primaries-00030152">‘Are you going to cave?’ GOP primaries pit ‘fighters’ against ‘governing wing’</a> Politico: Primary clashes in states across the country will shape the potential GOP House majority. 
  <p class="updated_time"> 05:43 PM CT, May. 04 </p> 
