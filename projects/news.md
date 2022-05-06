@@ -9,21 +9,21 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:50 PM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/06/world/cuba-explosion-havana-hotel">Live Updates: Explosion at Hotel in Cuba Kills Eight</a> NYT: An explosion caused by an apparent gas leak left dozens injured and destroyed parts of a luxury hotel. Other people were possibly trapped inside the rubble. 
+ <p class="updated_time"> 02:49 PM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/06/world/israel-stabbing-attack-palestinians">Live Updates: Israel Searches for Assailants in Ax Rampage</a> NYT: The attack on Thursday, which killed three Israelis, fueled an escalation of tensions that have been building since late March, much of it around holy sites in Jerusalem. 
  <p class="updated_time"> 02:38 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news">Live Updates: Ukraine Tries to Push Russia Back From Key Cities</a> NYT: The Ukrainian military took the offensive as the two sides battle for control of the east. In the south, an evacuation convoy was dispatched to rescue civilians from the besieged steel plant in Mariupol. 
- <p class="updated_time"> 02:26 PM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/05/06/world/israel-stabbing-attack-palestinians">Live Updates: Israel Searches for Assailants in Ax Rampage</a> NYT: The attack on Thursday, which killed three Israelis, fueled an escalation of tensions that have been building since late March, much of it around holy sites in Jerusalem. 
- <p class="updated_time"> 02:24 PM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/live/2022/05/06/world/cuba-explosion-havana-hotel">Live Updates: Explosion at Hotel in Cuba Kills Eight</a> NYT: An explosion caused by an apparent gas leak left dozens injured and destroyed parts of a luxury hotel. Other people were possibly trapped inside the rubble. 
  <p class="updated_time"> 02:04 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">U.K. Live Updates: Sinn Fein Is on Track to Win in Northern Ireland</a> NYT: In local elections across the U.K., Boris Johnson acknowledges a “tough night” for Conservatives, and Northern Ireland’s pro-unity party was nearing a historic victory. 
- <p class="updated_time"> 01:42 PM CT, May. 06 </p> 
+ <p class="updated_time"> 01:54 PM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant</a> WSJ: Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant 
  <p class="updated_time"> 01:24 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/business/energy-environment/natural-gas-europe-russia-ukraine.html">Europe’s Quest to Replace Russian Gas Faces Plenty of Hurdles</a> NYT: Climate concerns, investor reticence and political disputes complicate a shift to supplies from the United States, North Africa and the Mediterranean. 
  <p class="updated_time"> 01:20 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61353020?at_medium=RSS&at_campaign=KARANGA">Who is Alina Kabaeva, Putin's alleged girlfriend?</a> BBC: The EU is proposing to sanction Alina Kabaeva, an ex-gymnast turned media boss close to President Vladimir Putin. 
- <p class="updated_time"> 12:42 PM CT, May. 06 </p> 
+ <p class="updated_time"> 12:54 PM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/blast-in-cuba-tears-through-havanas-iconic-hotel-saratoga-11651855524">Eight Dead After Explosion Tears Through Cuba’s Hotel Saratoga</a> WSJ: Eight Dead After Explosion Tears Through Cuba’s Hotel Saratoga 
  <p class="updated_time"> 12:37 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/uk-queen-harry-andrew-platinum-jubilee.html">Who Will Be in the Queen’s Jubilee Photo-Op?</a> NYT: Neither Prince Harry and his wife Meghan, nor Prince Andrew will get a place on the balcony at Buckingham Palace. It’s not even certain Queen Elizabeth, 96, will be there. 
@@ -35,7 +35,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61347906?at_medium=RSS&at_campaign=KARANGA">Kenyan Muslim cleric refuses to leave jail after acquittal</a> BBC: He fears being killed by Kenyan state agents as is alleged has happened to other terror suspects. 
  <p class="updated_time"> 12:00 PM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097137528/havana-cuba-hotel-explosion-deaths">At least 8 people have died in an explosion at a Havana hotel</a> NPR: Dozens were injured in the blast that ripped away large sections of the outer wall at the Hotel Saratoga, a 19th century structure. A gas leak was the suspected cause of the explosion. 
- <p class="updated_time"> 11:42 AM CT, May. 06 </p> 
+ <p class="updated_time"> 11:54 AM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Mass Graves in Ukraine Reveal Mounting Death Toll 
  <p class="updated_time"> 11:42 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/covid-hospitalizations-cases-us.html">Worries About Covid Strain on Health Care Grow in the U.S.</a> NYT: The C.D.C. is also keeping a close eye on the nature of hospitalizations. 
@@ -43,7 +43,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61347237?at_medium=RSS&at_campaign=KARANGA">Shooting on Dutch care farm leaves two dead</a> BBC: The victims were a girl of 16 and a 38-year-old woman and a man has been arrested. 
  <p class="updated_time"> 11:13 AM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/business-61337623?at_medium=RSS&at_campaign=KARANGA">US job creation beats forecasts despite headwinds</a> BBC: Employers added 428,000 jobs last month, while the jobless rate held steady at 3.6%. 
- <p class="updated_time"> 10:42 AM CT, May. 06 </p> 
+ <p class="updated_time"> 10:54 AM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/hungary-holds-up-eu-deal-to-sanction-russian-oil-11651843279">Hungary Holds Up EU Deal to Sanction Russian Oil</a> WSJ: Hungary Holds Up EU Deal to Sanction Russian Oil 
  <p class="updated_time"> 10:16 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/ireland-abortion-hospital.html">Ireland Abortion Rights Activists Oppose Hospital Deal</a> NYT: The government delayed a decision on the proposal, amid concerns that a private charity might follow Catholic doctrine and limit abortions at a state-funded maternity hospital. 
@@ -51,12 +51,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/06/1097101058/russian-oligarch-fiji-yacht-superyacht-seized">A Russian oligarch's $325M superyacht has been seized in Fiji</a> NPR: U.S. authorities say the 348-foot vessel is owned by  Suleiman Kerimov, a Russian oligarch previously sanctioned for alleged money laundering. 
  <p class="updated_time"> 09:57 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/health/covid-global-deaths.html">Death Toll During Pandemic Far Exceeds Totals Reported by Countries, W.H.O. Says</a> NYT: Nearly 15 million more people died during the first two years of the pandemic than would have been expected during normal times, the organization found. The previous count of virus deaths, from countries’ reporting, was six million. 
+ <p class="updated_time"> 09:54 AM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/philippines-duterte-era-ends-leaving-fate-of-tighter-china-ties-to-his-successor-11651840777">Philippines’ Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor</a> WSJ: Philippines’ Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor 
  <p class="updated_time"> 09:51 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/americas/abortion-activists-movements.html">Roe Inspired Activists Worldwide, Who May Be Rethinking Strategy</a> NYT: Feminist movements in some countries similarly sought abortion protections in their courts, but for others, the goal was legislative change. 
  <p class="updated_time"> 09:47 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/business/philippines-election-disinformation.html">In the Philippines, a Flourishing Ecosystem for Political Lies</a> NYT: Supporters of Ferdinand Marcos Jr. are using live video to spread misinformation on social media. Voters have become inured to the situation, researchers fear. 
- <p class="updated_time"> 09:42 AM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/philippines-duterte-era-ends-leaving-fate-of-tighter-china-ties-to-his-successor-11651840777">Philippines’ Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor</a> WSJ: Philippines’ Duterte Era Ends, Leaving Fate of Tighter China Ties to His Successor 
  <p class="updated_time"> 09:42 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/keir-starmer-covid-restrictions-beergate.html">U.K. Police Reopen Lockdown Inquiry into Labour Leader Keir Starmer</a> NYT: The police are taking another look at allegations that Keir Starmer drank beer in a lawmaker’s office, potentially subjecting him to political headaches similar to those suffered by Boris Johnson. 
  <p class="updated_time"> 09:11 AM CT, May. 06 </p> 
@@ -196,6 +196,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:48 PM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/2022/05/06/us/politics/florida-voting-law.html">Federal Court Clears the Way for Florida’s Restrictive Voting Law</a> NYT: The appeals court said a lower court order blocking parts of the law had been issued too close to the state’s primary elections this summer. 
+ <p class="updated_time"> 02:34 PM CT, May. 06 </p> 
+ <a href="https://www.politico.com/news/2022/05/06/cdc-investigation-children-hepatitis-00030757">CDC investigating more than 100 children with hepatitis of unknown cause</a> Politico: The case numbers in the U.S. and globally are still relatively low, but their severity has clinicians worried. 
  <p class="updated_time"> 02:27 PM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097232814/marjorie-taylor-greene-can-remain-on-ballot-judge-says-despite-candidacy-challen">Marjorie Taylor Greene can remain on ballot, judge says, despite candidacy challenge</a> NPR: A group of voters and a supporting legal group filed a formal challenge to the congresswoman's candidacy, citing her role in the Jan. 6 Capitol riot. 
  <p class="updated_time"> 01:09 PM CT, May. 06 </p> 
@@ -216,8 +220,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/06/1096885897/roe-established-abortion-rights-20-years-later-casey-paved-the-way-for-restricti">Roe established abortion rights. 20 years later, Casey paved the way for restrictions</a> NPR: The 5-4 decision of Planned Parenthood v. Casey upheld Roe in 1992 but paved the way for more restrictions on abortion access. 
  <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1096890112/first-lady-jill-biden-romania-slovakia-border-nato-ukraine-refugees">Jill Biden heads to Romania and Slovakia to show support for NATO and Ukraine</a> NPR: Jill Biden's trip to the Slovakia-Ukraine border will be her most high-profile moment yet as first lady. On Mother's Day she meets with Ukrainian mothers and children who fled after Russia's invasion. 
- <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
- <a href="https://www.politico.com/news/2022/05/06/pbdd-scotus-roe-00030453">Inside the unprecedented Supreme Court revelation with a POLITICO reporter who broke the story</a> Politico: Peter and Josh nerd out on everything from the history of the court, to potential implications of the draft opinion — both for the country and the judiciary itself. 
  <p class="updated_time"> 03:38 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097067070/u-k-conservatives-lose-london-strongholds-in-blow-to-boris-johnson">U.K. Conservatives lose London strongholds in blow to Boris Johnson</a> NPR: Voting for local councils across the country will be an important barometer for the next national elections. 
  <p class="updated_time"> 03:31 AM CT, May. 06 </p> 
@@ -310,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/04/world/asia/india-russia-oil.html">India Finds Russian Oil an Irresistible Deal, No Matter the Diplomatic Pressure</a> NYT: A parade of emissaries have urged a harder line on Russia. But India’s political neutrality over the war in Ukraine has expanded into economic opportunism. 
  <p class="updated_time"> 08:50 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/us/politics/jd-vance-trump-ohio-fox-news.html">How J.D. Vance Won in Ohio: A Trump Endorsement, a Fox News Stage and Money</a> NYT: A big endorsement was decisive, but a cable news megaphone and a huge infusion of spending helped pave the way to victory. 
- <p class="updated_time"> 07:32 PM CT, May. 04 </p> 
- <a href="https://www.nytimes.com/2022/05/04/us/politics/larry-hogan-trump-gop.html">Larry Hogan Takes the Fight to Trump From Within the G.O.P.</a> NYT: The Maryland governor, a rare Republican who speaks out publicly against Donald Trump, is trying to defend G.O.P. lawmakers targeted by the former president. 
  <p class="updated_time"> 05:54 PM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/gop-primaries-00030152">‘Are you going to cave?’ GOP primaries pit ‘fighters’ against ‘governing wing’</a> Politico: Primary clashes in states across the country will shape the potential GOP House majority. 
  <p class="updated_time"> 04:30 PM CT, May. 04 </p> 
