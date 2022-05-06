@@ -297,6 +297,155 @@ saveWidget(widget = fig3, file = "interactive/il_transmission_levels.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
+## Champaign ----
+### idph ----
+champaignpop <- 209983
+
+idph_cases_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Champaign",
+                                    format = "json") 
+idph_cases_champaign <- idph_cases_champaign$values %>%
+  mutate(population = champaignpop)  %>%
+  mutate(new_cases = CasesChange) %>%
+  mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
+  mutate(new_deaths = DeathsChange) %>%
+  mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
+  mutate(monthlydead = rollmean(new_deaths, k = 31, 
+                                fill = NA, align = "right")*31)  %>%
+  mutate(Date = ymd_hms(ReportDate)) 
+
+idph_vax_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVIDExport/GetVaccineAdministration?format=csv&countyName=Champaign",
+                                  format = "csv") %>%
+  mutate(Date = mdy_hms(Report_Date)) 
+
+
+### hhs hospitalizations ----
+hospitalizations_url <- "https://healthdata.gov/resource/anag-cw7u.json?zip=61801"
+hospitalizations <- rio::import(hospitalizations_url,
+                                format = "json") %>% 
+  mutate(Date = ymd(ymd_hms(collection_week))) %>%
+  mutate(total_adult = as.double(total_adult_patients_hospitalized_confirmed_and_suspected_covid_7_day_sum)) %>%
+  mutate(total_pediatric = as.double(total_pediatric_patients_hospitalized_confirmed_and_suspected_covid_7_day_sum)) %>%
+  select(Date,hospital_name,total_adult,total_pediatric) %>%
+  pivot_longer(cols = c(total_adult,total_pediatric),
+               names_to = "names",
+               values_to = "values") %>%
+  filter(values >= 0) 
+
+hospitalizations_by_date <- hospitalizations %>%
+  group_by(Date,hospital_name) %>%
+  summarise(total = sum(values)) %>%
+  group_by(Date) %>%
+  summarise(sum_hospitalized = sum(total)) %>%
+  mutate(avg_hospitalized = sum_hospitalized/7) %>%
+  mutate(CountyName = "Champaign")
+
+### cdc ----
+cdc_champaign_url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=integrated_county_timeseries_fips_17019_external"
+cdc_champaign_data <- rio::import(
+  cdc_champaign_url,
+  format = "json")$integrated_county_timeseries_external_data
+
+cdc_champaign_hosp <- cdc_champaign_data %>%
+  select(date, percent_adult_inpatient_beds_used_confirmed_covid,
+         percent_adult_icu_beds_used_confirmed_covid) %>%
+  arrange(date) %>%
+  mutate(date = ymd(date)) %>%
+  mutate(Date = ymd(date))
+
+### combined ----
+
+idph_cases_vax_hosp <- full_join(idph_cases_champaign, idph_vax_champaign) %>%
+  full_join(hospitalizations_by_date) %>%
+  full_join(cdc_champaign_hosp) %>%
+  mutate(Date = as_date(Date)) %>%
+  select(Date, AdministeredCountRollAvg,
+         monthlydead, avg_new_cases, avg_hospitalized,
+         percent_adult_inpatient_beds_used_confirmed_covid,
+         percent_adult_icu_beds_used_confirmed_covid) %>%
+  arrange(Date) %>%
+  mutate(short_date = paste(month(Date, label = TRUE, abbr = FALSE),
+                            mday(Date))) %>%
+  fill(avg_hospitalized, .direction = "down")
+
+
+
+fig <- hchart(idph_cases_vax_hosp,
+              type = "line", 
+              hcaes(x = Date,
+                    y = round(avg_new_cases)),
+              name = "Average New Cases",
+              color = "#B45F06",
+              yAxis = 0) %>%
+  hc_yAxis_multiples(create_axis(naxis = 6, heights = c(1,1,1,1,1,1),
+                                 title = list(text = NULL))) %>%
+  hc_add_series(
+    data = idph_cases_vax_hosp,
+    hcaes(x = Date,
+          y = monthlydead),
+    name = "Deaths in the Past Month",
+    color = "black",
+    type = "line",
+    yAxis = 1) %>%
+  hc_add_series(
+    data = idph_cases_vax_hosp,
+    hcaes(x = Date,
+          y = AdministeredCountRollAvg),
+    name = "Average New Vaccine Doses",
+    color = "#35978f",
+    type = "line",
+    yAxis = 2) %>%
+  hc_add_series(
+    data = idph_cases_vax_hosp,
+    hcaes(x = Date,
+          y = round(avg_hospitalized)),
+    name = "Average Hospitalized",
+    type = "line",
+    color = "#d90000",
+    yAxis = 3) %>%
+  hc_add_series(
+    data = idph_cases_vax_hosp,
+    hcaes(x = Date,
+          y = round(percent_adult_inpatient_beds_used_confirmed_covid,
+                    digits = 1)),
+    name = "Pct. Hosp. Beds Used",
+    color = "#d90000",
+    type = "line",
+    yAxis = 4) %>%
+  hc_add_series(
+    data = idph_cases_vax_hosp,
+    hcaes(x = Date,
+          y = round(percent_adult_icu_beds_used_confirmed_covid,
+                    digits = 1)),
+    name = "Pct. ICU Beds Used",
+    color = "#d90000",
+    type = "line",
+    yAxis = 5) %>%
+  #hc_title(text = "Housing Metrics") %>%
+  hc_credits(
+    enabled = TRUE,
+    text = "Source: CDC, HHS and IDPH",
+    href = "http://www.dph.illinois.gov/covid19") %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_tooltip(shared = TRUE) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) %>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'month', count = 3, text = '3m'),
+                     list(type = 'month', count = 6, text = '6m'),
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 4)
+
+fig
+saveWidget(widget = fig, file = "interactive/champaign_covid.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+
+
 # make variables ----
 ## Champaign County ----
 ### get data ----
@@ -1277,6 +1426,13 @@ sep = ""
 )
 
 
+# <picture>
+#   <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Champaign_facet.png\"
+#           media=\"(min-width: 750px)\">
+#   <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Champaign_facet_mobile.png\" alt=\"\" />
+# </picture>
+
+
 # make web text ----
 
 web_text <- paste(
@@ -1290,13 +1446,8 @@ webappicon: /covid.png
 
 ## Champaign County
 
-<picture>
-  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Champaign_facet.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Champaign_facet_mobile.png\" alt=\"\" />
-</picture>
-
-",better_cu_covid_table_html,"
+<iframe src=\"/interactive/champaign_covid.html\" width=\"100%\" height=\"700\"> 
+</iframe>
 
 Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](https://twitter.com/ChampaignCovid).
 
