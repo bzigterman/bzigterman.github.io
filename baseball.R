@@ -996,8 +996,8 @@ hc_nl_games <- nl_games_plus %>%
 
 
 fig1 <- hchart(hc_al_games, "line", hcaes(x = game_n,
-                                           y = net_wins,
-                                           group = team)) %>%
+                                          y = net_wins,
+                                          group = team)) %>%
   hc_title(text = "AL") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
