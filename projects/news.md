@@ -9,26 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:29 PM CT, May. 06 </p> 
+ <p class="updated_time"> 10:09 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news">Live Updates: Taking on Russia With West’s Arms, Ukraine Goes on Offense</a> NYT: Ukrainian forces are seeking to drive back Russian invaders from two key cities in northeast Ukraine and achieve a breakthrough in what has become a grinding battle. 
- <p class="updated_time"> 09:19 PM CT, May. 06 </p> 
+ <p class="updated_time"> 09:53 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/cuba-explosion-havana-hotel">Explosion at Hotel in Cuba Kills 22</a> NYT: An explosion caused by an apparent gas leak left dozens injured and destroyed parts of a luxury hotel. Other people were possibly trapped inside the rubble. 
+ <p class="updated_time"> 09:30 PM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant</a> WSJ: Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant 
  <p class="updated_time"> 09:19 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/americas/cuba-explosion-havana-hotel.html">Hotel Saratoga Explosion Updates: Multiple Dead in Apparent Gas Leak</a> NYT: A blast caused by an apparent gas leak left dozens injured and destroyed parts of a luxury hotel in Havana. Others were possibly trapped inside the rubble. 
  <p class="updated_time"> 09:17 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/george-cheeks-covid-positive-biden.html">CBS Presidents George Cheeks Tests Positive for Coronavirus</a> NYT: The network’s leader sat between the president and first lady, all unmasked, at the event. 
- <p class="updated_time"> 08:45 PM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant</a> WSJ: Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant 
  <p class="updated_time"> 08:40 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61358186?at_medium=RSS&at_campaign=KARANGA">Saratoga Hotel: 22 dead after huge explosion in Havana</a> BBC: Local officials blamed a gas leak for the explosion at the five-star Saratoga Hotel in Havana, Cuba. 
+ <p class="updated_time"> 08:30 PM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/blast-in-cuba-tears-through-havanas-iconic-hotel-saratoga-11651855524">Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga</a> WSJ: Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga 
  <p class="updated_time"> 08:04 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/israel-stabbing-attack-palestinians">Israel Searches for Assailants in Ax Rampage</a> NYT: The attack on Thursday, which killed three Israelis, fueled an escalation of tensions that have been building since late March, much of it around holy sites in Jerusalem. 
- <p class="updated_time"> 07:45 PM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/blast-in-cuba-tears-through-havanas-iconic-hotel-saratoga-11651855524">Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga</a> WSJ: Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga 
+ <p class="updated_time"> 07:30 PM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Mass Graves in Ukraine Reveal Mounting Death Toll 
  <p class="updated_time"> 06:56 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/johnson-starmer-elections-britain.html">Boris Johnson and His Party Suffer Setbacks in Local Voting in Britain</a> NYT: But the British leader appeared to have survived the storm — for now at least — as the head of the opposition Labour Party came under scrutiny for violating lockdown rules himself. 
- <p class="updated_time"> 06:45 PM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Mass Graves in Ukraine Reveal Mounting Death Toll 
  <p class="updated_time"> 06:39 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61320132?at_medium=RSS&at_campaign=KARANGA">Ukraine war raises hard questions for Switzerland's neutrality</a> BBC: How does a European country stay neutral when war rages in Europe? Many Swiss are rethinking their position. 
  <p class="updated_time"> 06:38 PM CT, May. 06 </p> 
@@ -37,6 +37,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61268771?at_medium=RSS&at_campaign=KARANGA">How fast food giants like McDonald's found their Indian soul</a> BBC: What is it about the Indian market that impels even the biggest food chains to adjust to local needs? 
  <p class="updated_time"> 06:33 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61318519?at_medium=RSS&at_campaign=KARANGA">Leni Robredo: The woman leading the Philippines' 'pink revolution'</a> BBC: She has rallied tens of thousands of young voters. But can she beat frontrunner Bongbong Marcos? 
+ <p class="updated_time"> 06:30 PM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/party-favoring-unification-poised-to-win-northern-irish-election-for-first-time-11651871499">Party Favoring Unification Poised to Win Northern Irish Election for First Time</a> WSJ: Party Favoring Unification Poised to Win Northern Irish Election for First Time 
  <p class="updated_time"> 06:26 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/war-un-security-council-russia-ukraine.html">The U.N. Security Council Made its First Unanimous Statement on the War</a> NYT: More than two months into the fighting, the body was able to agree on language that got past Russia’s veto power. 
  <p class="updated_time"> 06:25 PM CT, May. 06 </p> 
@@ -57,13 +59,11 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">Sinn Fein Is Winning in Northern Ireland</a> NYT: In local elections across the U.K., Boris Johnson acknowledges a “tough night” for Conservatives, and Northern Ireland’s pro-unity party was nearing a historic victory. 
  <p class="updated_time"> 05:56 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/sinn-fein-northern-ireland.html">Sinn Fein Is Emerging As the Largest Party in Northern Ireland</a> NYT: Final results should be available by Saturday. Some fear it could rekindle unrest between Catholics and Protestants. 
- <p class="updated_time"> 05:45 PM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/party-favoring-unification-poised-to-win-northern-irish-election-for-first-time-11651871499">Party Favoring Unification Poised to Win Northern Irish Election for First Time</a> WSJ: Party Favoring Unification Poised to Win Northern Irish Election for First Time 
  <p class="updated_time"> 05:43 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/australia/elvis-presley-festival-parkes.html">How the King of Rock ’n’ Roll Still Makes Australia Sing</a> NYT: Elvis never played a concert “down under,” but that hasn’t stopped tens of thousands of Australians from making him their own at an annual festival. 
  <p class="updated_time"> 05:40 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/ukraine-russia-artillery-kharkiv.html">One Village at a Time: The Grinding Artillery War in Ukraine</a> NYT: The advances by the Ukrainian army in the north have been modest, but they are emblematic of both sides’ strategy: maneuvering artillery to gain territory. 
- <p class="updated_time"> 04:45 PM CT, May. 06 </p> 
+ <p class="updated_time"> 05:30 PM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/hungary-holds-up-eu-deal-to-sanction-russian-oil-11651843279">Hungary Holds Up EU Deal to Sanction Russian Oil</a> WSJ: Hungary Holds Up EU Deal to Sanction Russian Oil 
  <p class="updated_time"> 04:41 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/61357256?at_medium=RSS&at_campaign=KARANGA">Italy orders seizure of yacht linked to Putin</a> BBC: The Scheherazade has been undergoing repairs and is being seized under EU sanctions. 
@@ -340,8 +340,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/04/democrats-scotus-abortion-midterms-00029810">Democrats skeptical SCOTUS will save them in November</a> Politico: One Democratic pollster said the issue “will help at the margins,” but to retain control of Congress “we need inflation to go away.” 
  <p class="updated_time"> 03:30 AM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/supreme-court-leak-probe-faces-slew-of-obstacles-and-unknowns-00029841">Roberts investigation could make the Supreme Court very uncomfortable</a> Politico: Separation of powers concerns will likely arise should the DOJ or FBI get involved in investigating the Supreme Court's draft opinion breach. 
- <p class="updated_time"> 09:56 PM CT, May. 03 </p> 
- <a href="https://www.politico.com/news/2022/05/03/supreme-court-abortion-privacy-rights-00029871">What falls after Roe? Liberals warn of a privacy rights nightmare.</a> Politico: The Alito opinion claims other cases aren't in jeopardy. 
 
 
 </details>
