@@ -13,7 +13,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/world/europe/russia-putin-ukraine-politicians.html">Russia’s Grave Miscalculation: Ukrainians Would Collaborate</a> NYT: Besides their military failures, the Russians entered the war believing they could persuade Ukrainians in the east to join their side. Those efforts have failed spectacularly. 
  <p class="updated_time"> 05:56 AM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61361826?at_medium=RSS&at_campaign=KARANGA">Taliban to force Afghan women to wear face veil</a> BBC: Any woman refusing to comply with the new decree could see a male guardian jailed for three days. 
- <p class="updated_time"> 05:41 AM CT, May. 07 </p> 
+ <p class="updated_time"> 05:53 AM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant</a> WSJ: Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant 
  <p class="updated_time"> 05:38 AM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61361686?at_medium=RSS&at_campaign=KARANGA">Nigerian airlines to halt domestic flights over jet fuel hikes</a> BBC: Prices have risen almost fourfold this year, mainly triggered by Russia's invasion of Ukraine. 
@@ -21,26 +21,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/world/asia/north-korea-missile-submarine.html">North Korea Tests a Submarine-Launched Missile</a> NYT: Such missiles could extend the range of the North’s nuclear arsenal. The move came as the United States warned that the country might soon test a nuclear device. 
  <p class="updated_time"> 05:00 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/canada/ontario-auto-industry-subsidies.html">Do Canada’s Auto Industry Jobs Rest on Government Support?</a> NYT: A former auto industry executive argues that Canada and Ontario should rethink how they subsidize carmakers. 
+ <p class="updated_time"> 04:53 AM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/blast-in-cuba-tears-through-havanas-iconic-hotel-saratoga-11651855524">Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga</a> WSJ: Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga 
  <p class="updated_time"> 04:42 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news">What Happened on Day 72 of the War in Ukraine</a> NYT: Ukrainian forces sought to drive back Russian invaders from two key cities in northeast Ukraine and achieve a breakthrough in what has become a grinding battle. 
- <p class="updated_time"> 04:41 AM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/blast-in-cuba-tears-through-havanas-iconic-hotel-saratoga-11651855524">Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga</a> WSJ: Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga 
  <p class="updated_time"> 04:00 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/science/space/astronomy-black-hole-sound.html">Hear the Weird Sounds of a Black Hole Singing</a> NYT: As part of an effort to “sonify” the cosmos, researchers have converted the pressure waves from a black hole into an audible … something. 
- <p class="updated_time"> 03:41 AM CT, May. 07 </p> 
+ <p class="updated_time"> 03:53 AM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Mass Graves in Ukraine Reveal Mounting Death Toll 
  <p class="updated_time"> 03:16 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/ukraine-russia-artillery-kharkiv.html">One Village at a Time: The Grinding Artillery War in Ukraine</a> NYT: The advances by the Ukrainian army in the north have been modest, but they are emblematic of both sides’ strategy: maneuvering artillery to gain territory. 
+ <p class="updated_time"> 02:53 AM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/party-favoring-unification-poised-to-win-northern-irish-election-for-first-time-11651871499">Party Favoring Unification Poised to Win Northern Irish Election for First Time</a> WSJ: Party Favoring Unification Poised to Win Northern Irish Election for First Time 
  <p class="updated_time"> 02:42 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">Sinn Fein Is Winning in Northern Ireland</a> NYT: In local elections across the U.K., Boris Johnson acknowledges a “tough night” for Conservatives, and Northern Ireland’s pro-unity party was nearing a historic victory. 
  <p class="updated_time"> 02:42 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/sinn-fein-northern-ireland.html">Sinn Fein Is Emerging As the Largest Party in Northern Ireland</a> NYT: Final results should be available by Saturday. Some fear it could rekindle unrest between Catholics and Protestants. 
- <p class="updated_time"> 02:41 AM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/party-favoring-unification-poised-to-win-northern-irish-election-for-first-time-11651871499">Party Favoring Unification Poised to Win Northern Irish Election for First Time</a> WSJ: Party Favoring Unification Poised to Win Northern Irish Election for First Time 
+ <p class="updated_time"> 01:53 AM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/hungary-holds-up-eu-deal-to-sanction-russian-oil-11651843279">Hungary Holds Up EU Deal to Sanction Russian Oil</a> WSJ: Hungary Holds Up EU Deal to Sanction Russian Oil 
  <p class="updated_time"> 01:49 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/lviv-art-galleries.html">Lviv Reopens Art Galleries ‘to Show We Are Alive’</a> NYT: As the Russian invasion of Ukraine grinds on, a museum director in Ukraine’s cultural capital is turning to art as a form of resistance. 
- <p class="updated_time"> 01:41 AM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/hungary-holds-up-eu-deal-to-sanction-russian-oil-11651843279">Hungary Holds Up EU Deal to Sanction Russian Oil</a> WSJ: Hungary Holds Up EU Deal to Sanction Russian Oil 
  <p class="updated_time"> 10:44 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/covid-hospitalizations-cases-us.html">Worries About Covid Strain on Health Care Grow in the U.S.</a> NYT: The C.D.C. is also keeping a close eye on the nature of hospitalizations. 
  <p class="updated_time"> 09:53 PM CT, May. 06 </p> 
