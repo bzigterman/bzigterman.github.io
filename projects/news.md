@@ -11,30 +11,30 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 01:49 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/lviv-art-galleries.html">Lviv Reopens Art Galleries ‘to Show We Are Alive’</a> NYT: As the Russian invasion of Ukraine grinds on, a museum director in Ukraine’s cultural capital is turning to art as a form of resistance. 
- <p class="updated_time"> 12:56 AM CT, May. 07 </p> 
+ <p class="updated_time"> 01:19 AM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant</a> WSJ: Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant 
  <p class="updated_time"> 12:25 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">Sinn Fein Is Winning in Northern Ireland</a> NYT: In local elections across the U.K., Boris Johnson acknowledges a “tough night” for Conservatives, and Northern Ireland’s pro-unity party was nearing a historic victory. 
  <p class="updated_time"> 12:25 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/sinn-fein-northern-ireland.html">Sinn Fein Is Emerging As the Largest Party in Northern Ireland</a> NYT: Final results should be available by Saturday. Some fear it could rekindle unrest between Catholics and Protestants. 
+ <p class="updated_time"> 12:19 AM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/blast-in-cuba-tears-through-havanas-iconic-hotel-saratoga-11651855524">Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga</a> WSJ: Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga 
  <p class="updated_time"> 12:03 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news">What Happened on Day 72 of the War in Ukraine</a> NYT: Ukrainian forces sought to drive back Russian invaders from two key cities in northeast Ukraine and achieve a breakthrough in what has become a grinding battle. 
- <p class="updated_time"> 11:56 PM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/blast-in-cuba-tears-through-havanas-iconic-hotel-saratoga-11651855524">Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga</a> WSJ: Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga 
- <p class="updated_time"> 10:56 PM CT, May. 06 </p> 
+ <p class="updated_time"> 11:19 PM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Mass Graves in Ukraine Reveal Mounting Death Toll 
  <p class="updated_time"> 10:44 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/covid-hospitalizations-cases-us.html">Worries About Covid Strain on Health Care Grow in the U.S.</a> NYT: The C.D.C. is also keeping a close eye on the nature of hospitalizations. 
- <p class="updated_time"> 09:56 PM CT, May. 06 </p> 
+ <p class="updated_time"> 10:19 PM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/party-favoring-unification-poised-to-win-northern-irish-election-for-first-time-11651871499">Party Favoring Unification Poised to Win Northern Irish Election for First Time</a> WSJ: Party Favoring Unification Poised to Win Northern Irish Election for First Time 
  <p class="updated_time"> 09:53 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/cuba-explosion-havana-hotel">Explosion at Hotel in Cuba Kills 22</a> NYT: An explosion caused by an apparent gas leak left dozens injured and destroyed parts of a luxury hotel. Other people were possibly trapped inside the rubble. 
  <p class="updated_time"> 09:19 PM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/hungary-holds-up-eu-deal-to-sanction-russian-oil-11651843279">Hungary Holds Up EU Deal to Sanction Russian Oil</a> WSJ: Hungary Holds Up EU Deal to Sanction Russian Oil 
+ <p class="updated_time"> 09:19 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/americas/cuba-explosion-havana-hotel.html">Hotel Saratoga Explosion Updates: Multiple Dead in Apparent Gas Leak</a> NYT: A blast caused by an apparent gas leak left dozens injured and destroyed parts of a luxury hotel in Havana. Others were possibly trapped inside the rubble. 
  <p class="updated_time"> 09:17 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/george-cheeks-covid-positive-biden.html">CBS Presidents George Cheeks Tests Positive for Coronavirus</a> NYT: The network’s leader sat between the president and first lady, all unmasked, at the event. 
- <p class="updated_time"> 08:56 PM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/hungary-holds-up-eu-deal-to-sanction-russian-oil-11651843279">Hungary Holds Up EU Deal to Sanction Russian Oil</a> WSJ: Hungary Holds Up EU Deal to Sanction Russian Oil 
  <p class="updated_time"> 08:40 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61358186?at_medium=RSS&at_campaign=KARANGA">Saratoga Hotel: 22 dead after huge explosion in Havana</a> BBC: Local officials blamed a gas leak for the explosion at the five-star Saratoga Hotel in Havana, Cuba. 
  <p class="updated_time"> 08:04 PM CT, May. 06 </p> 
@@ -206,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, May. 07 </p> 
+ <a href="https://www.nytimes.com/2022/05/07/us/politics/cuellar-cisneros-abortion-politics.html">For South Texas Democrats, an Intraparty Test of Abortion Politics</a> NYT: A staunchly anti-abortion Democrat in Congress will face a young abortion-rights supporter in a pivotal primary runoff. 
  <p class="updated_time"> 11:30 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/politics/covid-aid-vaccines-white-house.html">White House Plans for How to Provide Vaccines if No More Covid Aid</a> NYT: The White House has been asking Congress for $22.5 billion in emergency aid to continue responding to the pandemic, but Republicans have insisted on a much lower number. 
  <p class="updated_time"> 10:48 PM CT, May. 06 </p> 
@@ -292,8 +294,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/gallery/2022/05/06/the-nations-cartoonists-on-the-week-in-politics-00030497">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 03:30 AM CT, May. 06 </p> 
  <a href="https://www.politico.com/news/2022/05/06/vulnerable-senate-dems-campaign-against-abortion-ban-00030489">Vulnerable Senate Dems campaign as last hope against abortion ban</a> Politico: At-risk incumbents are painting themselves as a post-Roe firewall, though neither party has 60 votes to pass either abortion restrictions or protections. 
- <p class="updated_time"> 12:19 AM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/2022/05/05/us/politics/moskva-russia-ship-ukraine-us.html">U.S. Intel Helped Ukraine Strike Russia’s Moskva Warship, Officials Say</a> NYT: The help that sank the Moskva, the most significant loss by any navy in 40 years, is part of an administration effort providing real-time battlefield intelligence to Ukraine. 
  <p class="updated_time"> 09:56 PM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/us/politics/giuliani-jan-6-committee.html">Giuliani Pulls Out of Interview With Jan. 6 Committee</a> NYT: The former personal lawyer to Donald J. Trump withdrew from an interview scheduled for Friday after the panel would not let him record it, his lawyer said. 
  <p class="updated_time"> 08:50 PM CT, May. 05 </p> 
