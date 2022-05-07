@@ -9,13 +9,17 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:54 AM CT, May. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61358186?at_medium=RSS&at_campaign=KARANGA">Saratoga Hotel: 25 dead after huge explosion in Havana</a> BBC: Local officials blamed a gas leak for the explosion at the five-star Saratoga Hotel in Havana, Cuba. 
+ <p class="updated_time"> 09:52 AM CT, May. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">Sinn Fein Is Winning in Northern Ireland</a> NYT: In local elections across the U.K., Boris Johnson acknowledges a “tough night” for Conservatives, and Northern Ireland’s pro-unity party was nearing a historic victory. 
+ <p class="updated_time"> 09:48 AM CT, May. 07 </p> 
+ <a href="https://www.nytimes.com/2022/05/07/world/asia/taliban-afghanistan-burqa.html">Taliban Impose Head-to-Toe Coverings for Women</a> NYT: A new decree recommends, but doesn’t require that women wear burqas, and says male relatives of those who don’t cover themselves would be punished. 
  <p class="updated_time"> 09:35 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news">What Happened on Day 72 of the War in Ukraine</a> NYT: Ukrainian forces sought to drive back Russian invaders from two key cities in northeast Ukraine and achieve a breakthrough in what has become a grinding battle. 
  <p class="updated_time"> 09:18 AM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097382550/taliban-women-burqa-decree">The Taliban says women in Afghanistan must wear head-to-toe clothing in public</a> NPR: The decree, which calls for women to only show their eyes and recommends they wear the head-to-toe burqa, evoked similar restrictions during the Taliban's previous rule between 1996 and 2001. 
- <p class="updated_time"> 09:12 AM CT, May. 07 </p> 
- <a href="https://www.nytimes.com/2022/05/07/world/asia/taliban-afghanistan-burqa.html">Taliban Impose Head-to-Toe Coverings for Women</a> NYT: A new decree recommends, but doesn’t require that women wear burqas, and says male relatives of those who don’t cover themselves would be punished. 
- <p class="updated_time"> 08:49 AM CT, May. 07 </p> 
+ <p class="updated_time"> 09:02 AM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Western Military Supplies in Ukraine’s Kharkiv Region</a> WSJ: Russia Says It Is Targeting Western Military Supplies in Ukraine’s Kharkiv Region 
  <p class="updated_time"> 08:38 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/asia/sri-lanka-protests-emergency.html">Sri Lanka’s Leader Declares State of Emergency Amid Protests</a> NYT: It was the second such declaration in weeks by Gotabaya Rajapaksa, whose government is being blamed for the country’s deepening economic crisis. 
@@ -23,38 +27,36 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/07/1097376932/families-of-ukrainian-soldiers-in-the-mariupol-steel-plant-plead-for-an-evacuati">Families of Ukrainian soldiers in the Mariupol steel plant plead for an evacuation</a> NPR: In the catacombs of a steel plant in Mariupol, Ukrainian soldiers stage a last stand against Russian occupation as their wives plead with aid groups to evacuate them along with civilians. 
  <p class="updated_time"> 08:06 AM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097376925/the-philippines-will-elect-a-new-leader-monday">The Philippines will elect a new leader Monday</a> NPR: Voters in the Philippines go to the polls Monday for that country's presidential elections. We take a look at the last days of the campaign there. 
+ <p class="updated_time"> 08:02 AM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
  <p class="updated_time"> 07:53 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/middleeast/tunisia-democracy-economy.html">As Tunisia’s Democratic Experiment Unravels, Economic Collapse Looms</a> NYT: The president is consolidating one-man rule while the economy, sapped by mismanagement, the pandemic and war in Ukraine, flails. Groups that helped avert a past crisis are largely silent. 
- <p class="updated_time"> 07:49 AM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
  <p class="updated_time"> 07:34 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/putin-victory-day-macron.html">Two Europes Confront Each Other Over the Glory, or Shame, of War</a> NYT: On Monday, Vladimir Putin will mark Russia’s Victory Day by extolling the virtues of force. France’s leader, Emmanuel Macron, will honor a very different anniversary. 
  <p class="updated_time"> 07:05 AM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097376876/the-latest-on-the-refugee-crisis-in-ukraine">The latest on the refugee crisis in Ukraine</a> NPR: Scott Simon talks to David Miliband, CEO and president of the International Rescue Committee, about the ongoing refugee crisis in Ukraine. 
- <p class="updated_time"> 06:49 AM CT, May. 07 </p> 
+ <p class="updated_time"> 07:02 AM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 06:09 AM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61362551?at_medium=RSS&at_campaign=KARANGA">North Korea in new missile launch, say neighbours</a> BBC: The reported launch comes just days before South Korea's new president takes office. 
+ <p class="updated_time"> 06:02 AM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-holocaust-survivors-flee-to-germany-from-russian-bombs-11651915801">Ukrainian Holocaust Survivors Flee to Germany From Russian Bombs</a> WSJ: Ukrainian Holocaust Survivors Flee to Germany From Russian Bombs 
  <p class="updated_time"> 05:58 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/russia-putin-ukraine-politicians.html">Russia’s Grave Miscalculation: Ukrainians Would Collaborate</a> NYT: Besides their military failures, the Russians entered the war believing they could persuade Ukrainians in the east to join their side. Those efforts have failed spectacularly. 
  <p class="updated_time"> 05:56 AM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61361826?at_medium=RSS&at_campaign=KARANGA">Taliban to force Afghan women to wear face veil</a> BBC: Any woman refusing to comply with the new decree could see a male guardian jailed for three days. 
- <p class="updated_time"> 05:49 AM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-holocaust-survivors-flee-to-germany-from-russian-bombs-11651915801">Ukrainian Holocaust Survivors Flee to Germany From Russian Bombs</a> WSJ: Ukrainian Holocaust Survivors Flee to Germany From Russian Bombs 
  <p class="updated_time"> 05:38 AM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61361686?at_medium=RSS&at_campaign=KARANGA">Nigerian airlines to halt domestic flights over jet fuel hikes</a> BBC: Prices have risen almost fourfold this year, mainly triggered by Russia's invasion of Ukraine. 
  <p class="updated_time"> 05:20 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/asia/north-korea-missile-submarine.html">North Korea Tests a Submarine-Launched Missile</a> NYT: Such missiles could extend the range of the North’s nuclear arsenal. The move came as the United States warned that the country might soon test a nuclear device. 
+ <p class="updated_time"> 05:02 AM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/jared-kushners-new-fund-plans-to-invest-saudi-money-in-israel-11651927236">Kushner’s New Fund to Invest Saudi Money in Israel</a> WSJ: Kushner’s New Fund to Invest Saudi Money in Israel 
  <p class="updated_time"> 05:00 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/canada/ontario-auto-industry-subsidies.html">Do Canada’s Auto Industry Jobs Rest on Government Support?</a> NYT: A former auto industry executive argues that Canada and Ontario should rethink how they subsidize carmakers. 
- <p class="updated_time"> 04:49 AM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/jared-kushners-new-fund-plans-to-invest-saudi-money-in-israel-11651927236">Kushner’s New Fund to Invest Saudi Money in Israel</a> WSJ: Kushner’s New Fund to Invest Saudi Money in Israel 
  <p class="updated_time"> 04:00 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/science/space/astronomy-black-hole-sound.html">Hear the Weird Sounds of a Black Hole Singing</a> NYT: As part of an effort to “sonify” the cosmos, researchers have converted the pressure waves from a black hole into an audible … something. 
  <p class="updated_time"> 03:16 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/ukraine-russia-artillery-kharkiv.html">One Village at a Time: The Grinding Artillery War in Ukraine</a> NYT: The advances by the Ukrainian army in the north have been modest, but they are emblematic of both sides’ strategy: maneuvering artillery to gain territory. 
- <p class="updated_time"> 02:42 AM CT, May. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">Sinn Fein Is Winning in Northern Ireland</a> NYT: In local elections across the U.K., Boris Johnson acknowledges a “tough night” for Conservatives, and Northern Ireland’s pro-unity party was nearing a historic victory. 
  <p class="updated_time"> 02:42 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/sinn-fein-northern-ireland.html">Sinn Fein Is Emerging As the Largest Party in Northern Ireland</a> NYT: Final results should be available by Saturday. Some fear it could rekindle unrest between Catholics and Protestants. 
  <p class="updated_time"> 01:49 AM CT, May. 07 </p> 
@@ -67,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/world/americas/cuba-explosion-havana-hotel.html">Hotel Saratoga Explosion Updates: Multiple Dead in Apparent Gas Leak</a> NYT: A blast caused by an apparent gas leak left dozens injured and destroyed parts of a luxury hotel in Havana. Others were possibly trapped inside the rubble. 
  <p class="updated_time"> 09:17 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/george-cheeks-covid-positive-biden.html">CBS Presidents George Cheeks Tests Positive for Coronavirus</a> NYT: The network’s leader sat between the president and first lady, all unmasked, at the event. 
- <p class="updated_time"> 08:40 PM CT, May. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61358186?at_medium=RSS&at_campaign=KARANGA">Saratoga Hotel: 22 dead after huge explosion in Havana</a> BBC: Local officials blamed a gas leak for the explosion at the five-star Saratoga Hotel in Havana, Cuba. 
  <p class="updated_time"> 08:04 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/israel-stabbing-attack-palestinians">Israel Searches for Assailants in Ax Rampage</a> NYT: The attack on Thursday, which killed three Israelis, fueled an escalation of tensions that have been building since late March, much of it around holy sites in Jerusalem. 
  <p class="updated_time"> 06:56 PM CT, May. 06 </p> 
@@ -208,6 +208,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:54 AM CT, May. 07 </p> 
+ <a href="https://www.nytimes.com/2022/05/07/us/politics/florida-rejected-math-textbooks.html">Florida Releases Reviews That Led to Rejection of Math Textbooks</a> NYT: To explain its puzzling rejection of dozens of textbooks, the state released 6,000 pages of comments, revealing an often confusing and divisive process. 
  <p class="updated_time"> 09:31 AM CT, May. 07 </p> 
  <a href="https://www.politico.com/news/2022/05/07/afghanistan-taliban-order-women-cover-up-00030877">Afghanistan’s Taliban order women to cover up head to toe</a> Politico: The decree added that if women had no important work outside it is better for them to stay at home. 
  <p class="updated_time"> 09:30 AM CT, May. 07 </p> 
@@ -312,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/05/jan-6-committee-rudy-giuliani-contempt-00030601">Jan. 6 committee signals it could hold Rudy Giuliani in contempt</a> Politico: The former president's personal attorney canceled a planned Friday interview with the committee. 
  <p class="updated_time"> 08:45 PM CT, May. 05 </p> 
  <a href="https://www.cnn.com/2022/05/05/politics/jen-psaki-karine-jean-pierre/index.html">Karine Jean-Pierre to become White House press secretary, the first Black and out LGBTQ person in the role</a> CNN: Karine Jean-Pierre will become the new White House press secretary when Jen Psaki departs her role next week, President Joe Biden announced in a statement Thursday, becoming the first Black and out LGBTQ person to hold the position. 
- <p class="updated_time"> 08:35 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/us/politics/johnson-vaccine-fda-covid.html">FDA Further Limits Johnson & Johnson Covid Vaccine</a> NYT: The agency said the move reflected an updated analysis of the risk of a rare but serious blood-clotting condition in people who get the vaccine. 
  <p class="updated_time"> 08:14 PM CT, May. 05 </p> 
  <a href="https://www.politico.com/news/2022/05/05/mark-esper-trump-mexico-border-00030592">'So absurd': Mark Esper details Trump official's proposal to send 250K troops to U.S.-Mexico border</a> Politico: The former Defense secretary, promoting his new book, harshly criticizes the administration he served in. 
  <p class="updated_time"> 04:14 PM CT, May. 05 </p> 
