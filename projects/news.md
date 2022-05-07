@@ -9,32 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:49 AM CT, May. 07 </p> 
+ <a href="https://www.nytimes.com/2022/05/07/world/europe/lviv-art-galleries.html">Lviv Reopens Art Galleries ‘to Show We Are Alive’</a> NYT: As the Russian invasion of Ukraine grinds on, a museum director in Ukraine’s cultural capital is turning to art as a form of resistance. 
+ <p class="updated_time"> 12:56 AM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant</a> WSJ: Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant 
  <p class="updated_time"> 12:25 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">Sinn Fein Is Winning in Northern Ireland</a> NYT: In local elections across the U.K., Boris Johnson acknowledges a “tough night” for Conservatives, and Northern Ireland’s pro-unity party was nearing a historic victory. 
  <p class="updated_time"> 12:25 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/sinn-fein-northern-ireland.html">Sinn Fein Is Emerging As the Largest Party in Northern Ireland</a> NYT: Final results should be available by Saturday. Some fear it could rekindle unrest between Catholics and Protestants. 
- <p class="updated_time"> 12:09 AM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant</a> WSJ: Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant 
  <p class="updated_time"> 12:03 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news">What Happened on Day 72 of the War in Ukraine</a> NYT: Ukrainian forces sought to drive back Russian invaders from two key cities in northeast Ukraine and achieve a breakthrough in what has become a grinding battle. 
- <p class="updated_time"> 11:09 PM CT, May. 06 </p> 
+ <p class="updated_time"> 11:56 PM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/blast-in-cuba-tears-through-havanas-iconic-hotel-saratoga-11651855524">Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga</a> WSJ: Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga 
+ <p class="updated_time"> 10:56 PM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Mass Graves in Ukraine Reveal Mounting Death Toll 
  <p class="updated_time"> 10:44 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/covid-hospitalizations-cases-us.html">Worries About Covid Strain on Health Care Grow in the U.S.</a> NYT: The C.D.C. is also keeping a close eye on the nature of hospitalizations. 
- <p class="updated_time"> 10:09 PM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Mass Graves in Ukraine Reveal Mounting Death Toll 
+ <p class="updated_time"> 09:56 PM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/party-favoring-unification-poised-to-win-northern-irish-election-for-first-time-11651871499">Party Favoring Unification Poised to Win Northern Irish Election for First Time</a> WSJ: Party Favoring Unification Poised to Win Northern Irish Election for First Time 
  <p class="updated_time"> 09:53 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/cuba-explosion-havana-hotel">Explosion at Hotel in Cuba Kills 22</a> NYT: An explosion caused by an apparent gas leak left dozens injured and destroyed parts of a luxury hotel. Other people were possibly trapped inside the rubble. 
  <p class="updated_time"> 09:19 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/americas/cuba-explosion-havana-hotel.html">Hotel Saratoga Explosion Updates: Multiple Dead in Apparent Gas Leak</a> NYT: A blast caused by an apparent gas leak left dozens injured and destroyed parts of a luxury hotel in Havana. Others were possibly trapped inside the rubble. 
  <p class="updated_time"> 09:17 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/george-cheeks-covid-positive-biden.html">CBS Presidents George Cheeks Tests Positive for Coronavirus</a> NYT: The network’s leader sat between the president and first lady, all unmasked, at the event. 
- <p class="updated_time"> 09:09 PM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/party-favoring-unification-poised-to-win-northern-irish-election-for-first-time-11651871499">Party Favoring Unification Poised to Win Northern Irish Election for First Time</a> WSJ: Party Favoring Unification Poised to Win Northern Irish Election for First Time 
+ <p class="updated_time"> 08:56 PM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/hungary-holds-up-eu-deal-to-sanction-russian-oil-11651843279">Hungary Holds Up EU Deal to Sanction Russian Oil</a> WSJ: Hungary Holds Up EU Deal to Sanction Russian Oil 
  <p class="updated_time"> 08:40 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61358186?at_medium=RSS&at_campaign=KARANGA">Saratoga Hotel: 22 dead after huge explosion in Havana</a> BBC: Local officials blamed a gas leak for the explosion at the five-star Saratoga Hotel in Havana, Cuba. 
- <p class="updated_time"> 08:09 PM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/hungary-holds-up-eu-deal-to-sanction-russian-oil-11651843279">Hungary Holds Up EU Deal to Sanction Russian Oil</a> WSJ: Hungary Holds Up EU Deal to Sanction Russian Oil 
  <p class="updated_time"> 08:04 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/israel-stabbing-attack-palestinians">Israel Searches for Assailants in Ax Rampage</a> NYT: The attack on Thursday, which killed three Israelis, fueled an escalation of tensions that have been building since late March, much of it around holy sites in Jerusalem. 
  <p class="updated_time"> 06:56 PM CT, May. 06 </p> 
@@ -197,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/04/world/europe/ukraine-russia-putin-victory-day.html">Putin Could Use Russia’s Victory Day to Expand Ukraine War, Some Fear</a> NYT: The Russian holiday celebrating the Soviet triumph over Nazi Germany is viewed by Ukraine and NATO as a stage for the Russian president to proclaim a turn in the war. 
  <p class="updated_time"> 05:00 PM CT, May. 04 </p> 
  <a href="https://www.nytimes.com/2022/05/04/world/middleeast/turkey-syria-million-homes.html">Turkey’s Plan to Draw Refugees Back to Syria: Homes for 1 Million</a> NYT: President Recep Tayyip Erdogan says Turkey will build homes, schools, hospitals and more in northern Syria, but experts question whether refugees will return willingly. 
- <p class="updated_time"> 04:32 PM CT, May. 04 </p> 
- <a href="https://www.nytimes.com/2022/05/04/world/moderna-covid-vaccine.html">Moderna Reaps $5.9 Billion From Its Vaccine Sales</a> NYT: Stéphane Bancel, the company’s chief executive officer, said Moderna has $21 billion worth of advance purchase agreements for the vaccine. 
 
 
 </details>
@@ -239,7 +239,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:45 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/politics/border-protection-critical-incident-teams.html">Customs and Border Protection Will Disband Secretive ‘Critical Incident Teams’</a> NYT: The agency’s commissioner announced the change after the teams — which had long operated under the public radar — came under scrutiny earlier this year. 
  <p class="updated_time"> 04:43 PM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/2022/05/06/us/politics/pelosi-pay-increase-house-union.html">Pelosi Increases Pay Scale for House Staff, Setting a New Wage Floor</a> NYT: The speaker said staff aides would earn at least $45,000 annually and boosted the pay cap to $203,700. She also set a vote on a bill to protect those who unionize. 
+ <a href="https://www.nytimes.com/2022/05/06/us/politics/pelosi-pay-increase-house-union.html">Pelosi Increases House Staff Pay Scale, Setting a New Wage Floor</a> NYT: The speaker said staff aides would earn at least $45,000 annually and boosted the pay cap to $203,700. She also set a vote on a bill to protect those who unionize. 
  <p class="updated_time"> 04:39 PM CT, May. 06 </p> 
  <a href="https://www.politico.com/news/2022/05/06/challenge-over-marjorie-taylor-greenes-eligibility-fails-00030803">Challenge over Marjorie Taylor Greene's eligibility fails</a> Politico: A group of voters filed a complaint with Georgia Secretary of State Brad Raffensperger’s office saying that Greene should be barred from running for reelection. 
  <p class="updated_time"> 04:21 PM CT, May. 06 </p> 
@@ -304,10 +304,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/05/us/politics/johnson-vaccine-fda-covid.html">FDA Further Limits Johnson & Johnson Covid Vaccine</a> NYT: The agency said the move reflected an updated analysis of the risk of a rare but serious blood-clotting condition in people who get the vaccine. 
  <p class="updated_time"> 08:14 PM CT, May. 05 </p> 
  <a href="https://www.politico.com/news/2022/05/05/mark-esper-trump-mexico-border-00030592">'So absurd': Mark Esper details Trump official's proposal to send 250K troops to U.S.-Mexico border</a> Politico: The former Defense secretary, promoting his new book, harshly criticizes the administration he served in. 
+ <p class="updated_time"> 07:28 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/us/politics/karine-jean-pierre-white-house-press-secretary.html">Karine Jean-Pierre Is Named White House Press Secretary</a> NYT: Ms. Jean-Pierre, who will succeed Jen Psaki, will be the first Black woman and the first openly gay person to serve in the role. 
  <p class="updated_time"> 06:16 PM CT, May. 05 </p> 
  <a href="https://www.politico.com/news/2022/05/05/fda-johnson-johnson-covid-vaccine-00030505">FDA dramatically narrows use of Johnson & Johnson Covid-19 vaccine</a> Politico: The single-shot Covid-19 vaccine will now only be available for adults who cannot or will not receive an mRNA vaccine. 
  <p class="updated_time"> 05:28 PM CT, May. 05 </p> 
  <a href="https://www.politico.com/news/2022/05/05/fldoe-releases-math-textbook-reviews-00030503">Mystery solved? Florida reveals why it rejected math books over critical race theory</a> Politico: The records, nearly 6,000 pages of book examinations, show that state reviewers flagged several traces of critical race theory and inklings of “social emotional learning” in proposed texts. 
+ <p class="updated_time"> 05:01 PM CT, May. 05 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/us/politics/democrats-codify-roe.html">Democrats Plan a Bid to Codify Roe, but Lack the Votes to Succeed</a> NYT: In announcing a Wednesday vote on doomed legislation to enshrine abortion rights into federal law, the top Senate Democrat teed up a political fight for the midterm campaign. 
  <p class="updated_time"> 04:14 PM CT, May. 05 </p> 
  <a href="https://www.npr.org/2022/05/05/1096943963/first-lady-jill-biden-head-to-eastern-europe-to-visit-ukrainian-refugees">First Lady Jill Biden head to Eastern Europe to visit Ukrainian refugees</a> NPR: First Lady Jill Biden is departing on a trip to Eastern Europe to visit Ukrainian refugees, as well as U.S. personnel in the region. It's her most high-profile endeavor since her husband took office. 
  <p class="updated_time"> 03:21 PM CT, May. 05 </p> 
