@@ -15,28 +15,30 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/world/europe/sinn-fein-northern-ireland.html">Sinn Fein Is Emerging As the Largest Party in Northern Ireland</a> NYT: Final results should be available by Saturday. Some fear it could rekindle unrest between Catholics and Protestants. 
  <p class="updated_time"> 10:53 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news">Live Updates: Taking on Russia With West’s Arms, Ukraine Goes on Offense</a> NYT: Ukrainian forces are seeking to drive back Russian invaders from two key cities in northeast Ukraine and achieve a breakthrough in what has become a grinding battle. 
+ <p class="updated_time"> 10:46 PM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant</a> WSJ: Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant 
  <p class="updated_time"> 10:44 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/covid-hospitalizations-cases-us.html">Worries About Covid Strain on Health Care Grow in the U.S.</a> NYT: The C.D.C. is also keeping a close eye on the nature of hospitalizations. 
- <p class="updated_time"> 10:20 PM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant</a> WSJ: Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant 
  <p class="updated_time"> 09:53 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/cuba-explosion-havana-hotel">Explosion at Hotel in Cuba Kills 22</a> NYT: An explosion caused by an apparent gas leak left dozens injured and destroyed parts of a luxury hotel. Other people were possibly trapped inside the rubble. 
- <p class="updated_time"> 09:20 PM CT, May. 06 </p> 
+ <p class="updated_time"> 09:46 PM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/blast-in-cuba-tears-through-havanas-iconic-hotel-saratoga-11651855524">Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga</a> WSJ: Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga 
  <p class="updated_time"> 09:19 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/americas/cuba-explosion-havana-hotel.html">Hotel Saratoga Explosion Updates: Multiple Dead in Apparent Gas Leak</a> NYT: A blast caused by an apparent gas leak left dozens injured and destroyed parts of a luxury hotel in Havana. Others were possibly trapped inside the rubble. 
  <p class="updated_time"> 09:17 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/george-cheeks-covid-positive-biden.html">CBS Presidents George Cheeks Tests Positive for Coronavirus</a> NYT: The network’s leader sat between the president and first lady, all unmasked, at the event. 
+ <p class="updated_time"> 08:46 PM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Mass Graves in Ukraine Reveal Mounting Death Toll 
  <p class="updated_time"> 08:40 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61358186?at_medium=RSS&at_campaign=KARANGA">Saratoga Hotel: 22 dead after huge explosion in Havana</a> BBC: Local officials blamed a gas leak for the explosion at the five-star Saratoga Hotel in Havana, Cuba. 
- <p class="updated_time"> 08:20 PM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Mass Graves in Ukraine Reveal Mounting Death Toll 
  <p class="updated_time"> 08:04 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/israel-stabbing-attack-palestinians">Israel Searches for Assailants in Ax Rampage</a> NYT: The attack on Thursday, which killed three Israelis, fueled an escalation of tensions that have been building since late March, much of it around holy sites in Jerusalem. 
- <p class="updated_time"> 07:20 PM CT, May. 06 </p> 
+ <p class="updated_time"> 07:46 PM CT, May. 06 </p> 
  <a href="https://www.wsj.com/articles/party-favoring-unification-poised-to-win-northern-irish-election-for-first-time-11651871499">Party Favoring Unification Poised to Win Northern Irish Election for First Time</a> WSJ: Party Favoring Unification Poised to Win Northern Irish Election for First Time 
  <p class="updated_time"> 06:56 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/johnson-starmer-elections-britain.html">Boris Johnson and His Party Suffer Setbacks in Local Voting in Britain</a> NYT: But the British leader appeared to have survived the storm — for now at least — as the head of the opposition Labour Party came under scrutiny for violating lockdown rules himself. 
+ <p class="updated_time"> 06:46 PM CT, May. 06 </p> 
+ <a href="https://www.wsj.com/articles/hungary-holds-up-eu-deal-to-sanction-russian-oil-11651843279">Hungary Holds Up EU Deal to Sanction Russian Oil</a> WSJ: Hungary Holds Up EU Deal to Sanction Russian Oil 
  <p class="updated_time"> 06:39 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61320132?at_medium=RSS&at_campaign=KARANGA">Ukraine war raises hard questions for Switzerland's neutrality</a> BBC: How does a European country stay neutral when war rages in Europe? Many Swiss are rethinking their position. 
  <p class="updated_time"> 06:38 PM CT, May. 06 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/world/war-un-security-council-russia-ukraine.html">The U.N. Security Council Made its First Unanimous Statement on the War</a> NYT: More than two months into the fighting, the body was able to agree on language that got past Russia’s veto power. 
  <p class="updated_time"> 06:25 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61359228?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia must withdraw to pre-invasion position for a deal - Zelensky</a> BBC: Any deal would depend on President Putin pulling forces back to pre-invasion positions, he says. 
- <p class="updated_time"> 06:20 PM CT, May. 06 </p> 
- <a href="https://www.wsj.com/articles/hungary-holds-up-eu-deal-to-sanction-russian-oil-11651843279">Hungary Holds Up EU Deal to Sanction Russian Oil</a> WSJ: Hungary Holds Up EU Deal to Sanction Russian Oil 
  <p class="updated_time"> 06:06 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61335530?at_medium=RSS&at_campaign=KARANGA">Ethiopia war: Evidence of mass killing being burned - witnesses</a> BBC: Mass graves are being dug up to hide evidence of killing in western Tigray, witnesses say. 
  <p class="updated_time"> 06:06 PM CT, May. 06 </p> 
@@ -206,7 +206,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:51 PM CT, May. 06 </p> 
+ <p class="updated_time"> 11:30 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/politics/covid-aid-vaccines-white-house.html">White House Plans for How to Provide Vaccines if No More Covid Aid</a> NYT: The White House has been asking Congress for $22.5 billion in emergency aid to continue responding to the pandemic, but Republicans have insisted on a much lower number. 
  <p class="updated_time"> 10:48 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/politics/trump-rally-dr-oz-jd-vance.html">Dr. Oz, Rallying With Trump in Pennsylvania, Meets a Damp Reception</a> NYT: The celebrity doctor was at times the target of boos during the rally, as he and Donald Trump seek to repeat J.D. Vance’s success in the Republican Senate primary in Ohio. 
