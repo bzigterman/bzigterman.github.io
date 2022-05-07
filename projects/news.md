@@ -9,41 +9,43 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:18 PM CT, May. 07 </p> 
+ <p class="updated_time"> 04:47 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Live Updates: Ukraine Pushes Russians Back From Kharkiv Before Key Holiday</a> NYT: Both sides were trying to take territory in the run-up to Russia’s Victory Day, when the Kremlin would like to tout the invasion’s  progress. President Volodymyr Zelensky called on citizens to heed local curfews and not ignore air raid sirens. 
+ <p class="updated_time"> 04:27 PM CT, May. 07 </p> 
+ <a href="https://www.nytimes.com/2022/05/07/world/europe/france-president-emmanuel-macron-inauguration.html">Emmanuel Macron Inaugurated for a 2nd Term as France President</a> NYT: “Rarely has our world and our country confronted such a combination of challenges,” Mr. Macron said, promising to govern France more inclusively. 
  <p class="updated_time"> 04:01 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/asia/taliban-afghanistan-burqa.html">Taliban Impose Head-to-Toe Coverings for Women</a> NYT: A new decree recommends, but doesn’t require that women wear burqas, and says male relatives of those who don’t cover themselves would be punished. 
+ <p class="updated_time"> 03:56 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Ukrainian Weapons Coming From West</a> WSJ: Russia Says It Is Targeting Ukrainian Weapons Coming From West 
  <p class="updated_time"> 03:47 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61365446?at_medium=RSS&at_campaign=KARANGA">UK YouTuber Benjamin Rich held at Russian space centre</a> BBC: Bald and Bankrupt vlogger Benjamin Rich is being held in Kazakhstan, Russia's space agency says. 
- <p class="updated_time"> 03:30 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Ukrainian Weapons Coming From West</a> WSJ: Russia Says It Is Targeting Ukrainian Weapons Coming From West 
  <p class="updated_time"> 03:27 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61362557?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Civilians now out of Azovstal plant in Mariupol</a> BBC: All elderly people, women and children have left the Azovstal plant in Mariupol, say Ukraine and Russia. 
  <p class="updated_time"> 03:06 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/putin-victory-day-macron.html">Two Europes Confront Each Other Over the Glory, or Shame, of War</a> NYT: On Monday, Vladimir Putin will mark Russia’s Victory Day by extolling the virtues of force. France’s leader, Emmanuel Macron, will honor a very different anniversary. 
- <p class="updated_time"> 02:30 PM CT, May. 07 </p> 
+ <p class="updated_time"> 02:56 PM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/taliban-orders-women-to-cover-their-faces-11651934565">Taliban Orders Women to Cover Their Faces</a> WSJ: Taliban Orders Women to Cover Their Faces 
+ <p class="updated_time"> 01:56 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
  <p class="updated_time"> 01:55 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/middleeast/tunisia-democracy-economy.html">As Tunisia’s Democratic Experiment Unravels, Economic Collapse Looms</a> NYT: The president is consolidating one-man rule while the economy, sapped by mismanagement, the pandemic and war in Ukraine, flails. Groups that helped avert a past crisis are largely silent. 
  <p class="updated_time"> 01:49 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/northern-ireland-sinn-fein.html">Northern Ireland Turns to Sinn Fein</a> NYT: Election results reflected the demoralization of unionist voters, the disarray of their leaders and an electorate with new priorities — much of which can be traced to Brexit. 
  <p class="updated_time"> 01:34 PM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097417453/sinn-fein-wins-assembly-election-northern-ireland">Sinn Fein celebrates an historic election win in Northern Ireland</a> NPR: The Irish nationalist party hailed a "new era" as it captured the largest number of seats in the Northern Ireland Assembly for the first time. 
- <p class="updated_time"> 01:30 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
  <p class="updated_time"> 01:21 PM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097413091/steel-plant-mariupol-azovstal-civilians-evacuated">All civilians have been evacuated from a besieged steel plant in Mariupol</a> NPR: Ukraine announced that all women, children and elderly had been evacuated from a steel plant, a key Russian war objective that has long been under siege. 
+ <p class="updated_time"> 12:56 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 12:51 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/middleeast/egypt-sinai-militants-attack.html">Militants Kill 11 Egyptian Troops in Sinai</a> NYT: The militants ambushed troops guarding a water-pumping facility, before fleeing to the desert in Northern Sinai. 
  <p class="updated_time"> 12:44 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/george-cheeks-covid-positive-biden.html">CBS Presidents George Cheeks Tests Positive for Coronavirus</a> NYT: The network’s leader sat between the president and first lady, all unmasked, at the event. 
  <p class="updated_time"> 12:43 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/putin-yacht-seized-italy.html">Italy Seizes Superyacht Tied to Putin</a> NYT: Italian police boarded the yacht, the Scheherazade, late on Friday, ending what appeared to be preparations to set sail. 
- <p class="updated_time"> 12:30 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 12:11 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61364217?at_medium=RSS&at_campaign=KARANGA">Ukraine: Intense shelling as troops battle to regain Kharkiv region</a> BBC: Ukraine's military claims it has regained control of five villages close to the country's second city. 
- <p class="updated_time"> 11:30 AM CT, May. 07 </p> 
+ <p class="updated_time"> 11:56 AM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-holocaust-survivors-flee-to-germany-from-russian-bombs-11651915801">Ukrainian Holocaust Survivors Flee to Germany From Russian Bombs</a> WSJ: Ukrainian Holocaust Survivors Flee to Germany From Russian Bombs 
  <p class="updated_time"> 11:14 AM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1096791414/horse-racing-kentucky-derby">Horse racing is on the cusp of major changes in the U.S. after years of scandal</a> NPR: A newly formed regulatory authority for horse racing is introducing new standards for the sport. Some stakeholders are pushing back. 
@@ -51,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/us/politics/china-taiwan-weapons.html">Taiwan and U.S. Consider Weapons Suited to Defend Against China   </a> NYT: The Biden administration’s push for Taiwan to order missiles and smaller arms for asymmetric warfare has gained urgency since Russia’s invasion of Ukraine. 
  <p class="updated_time"> 10:18 AM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61363969?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Women’s faces become latest Taliban restriction after face veil rule</a> BBC: “They are always after women” rather than tackling Afghanistan’s many problems, one activist told the BBC. 
- <p class="updated_time"> 10:08 AM CT, May. 07 </p> 
- <a href="https://www.nytimes.com/2022/05/07/world/europe/france-president-emmanuel-macron-inauguration.html">Emmanuel Macron Inaugurated for a 2nd Term as France President</a> NYT: “Rarely has our world and our country confronted such a combination of challenges,” Mr. Macron said, promising to govern France more inclusively. 
  <p class="updated_time"> 09:54 AM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61358186?at_medium=RSS&at_campaign=KARANGA">Saratoga Hotel: 26 dead after huge explosion in Havana</a> BBC: Local officials blamed a gas leak for the explosion at the five-star Saratoga Hotel in Havana, Cuba. 
  <p class="updated_time"> 09:18 AM CT, May. 07 </p> 
@@ -204,6 +204,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:44 PM CT, May. 07 </p> 
+ <a href="https://www.npr.org/2022/05/07/1097434985/jill-biden-tours-romanian-school-that-brought-in-ukrainian-refugees">Jill Biden tours Romanian school that brought in Ukrainian refugees</a> NPR: First Lady Jill Biden visited with Ukrainian refugees in Bucharest while on a four-day trip to Romania and Slovakia — two NATO allies that border Ukraine. 
+ <p class="updated_time"> 04:14 PM CT, May. 07 </p> 
+ <a href="https://www.politico.com/news/2022/05/07/grand-jury-indicts-suspect-brooklyn-subway-mass-shooting-00030885">Grand jury indicts suspect in Brooklyn subway mass shooting</a> Politico: Frank James is jailed without bail. An arraignment hasn't yet been scheduled. 
  <p class="updated_time"> 03:51 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/politics/republicans-abortion.html">Republicans Recast Abortion Stance, Wary of Voter Backlash</a> NYT: While Democrats decry a draft opinion that would eliminate the constitutional right to an abortion, Republicans who worked decades for this moment have been largely silent. 
  <p class="updated_time"> 02:02 PM CT, May. 07 </p> 
@@ -306,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/06/1096885897/roe-established-abortion-rights-20-years-later-casey-paved-the-way-for-restricti">Roe established abortion rights. 20 years later, Casey paved the way for restrictions</a> NPR: The 5-4 decision of Planned Parenthood v. Casey upheld Roe in 1992 but paved the way for more restrictions on abortion access. 
  <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1096890112/first-lady-jill-biden-romania-slovakia-border-nato-ukraine-refugees">Jill Biden heads to Romania and Slovakia to show support for NATO and Ukraine</a> NPR: Jill Biden's trip to the Slovakia-Ukraine border will be her most high-profile moment yet as first lady. On Mother's Day she meets with Ukrainian mothers and children who fled after Russia's invasion. 
- <p class="updated_time"> 03:38 AM CT, May. 06 </p> 
- <a href="https://www.npr.org/2022/05/06/1097067070/u-k-conservatives-lose-london-strongholds-in-blow-to-boris-johnson">U.K. Conservatives lose London strongholds in blow to Boris Johnson</a> NPR: Voting for local councils across the country will be an important barometer for the next national elections. 
  <p class="updated_time"> 03:30 AM CT, May. 06 </p> 
  <a href="https://www.politico.com/news/2022/05/06/capitol-house-staff-mistreatment-spartz-00030498">Amid an uproar over Capitol staff mistreatment, meet the House’s ‘worst boss’</a> Politico: Multiple former aides and other Republicans told POLITICO about the “trauma bonded” work environment of Rep. Victoria Spartz. 
  <p class="updated_time"> 03:30 AM CT, May. 06 </p> 
@@ -318,8 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/05/05/politics/jen-psaki-karine-jean-pierre/index.html">Karine Jean-Pierre to become White House press secretary, the first Black and out LGBTQ person in the role</a> CNN: Karine Jean-Pierre will become the new White House press secretary when Jen Psaki departs her role next week, President Joe Biden announced in a statement Thursday, becoming the first Black and out LGBTQ person to hold the position. 
  <p class="updated_time"> 03:21 PM CT, May. 05 </p> 
  <a href="https://www.politico.com/news/2022/05/05/congress-warning-biden-iran-deal-00030448">Congress fires its first warning shot on Biden’s Iran deal</a> Politico: A bipartisan majority delivered the White House a symbolic message that any new nuclear deal better be stronger than the 2015 agreement. 
- <p class="updated_time"> 01:02 PM CT, May. 05 </p> 
- <a href="https://www.politico.com/news/2022/05/05/there-is-no-going-back-how-the-war-in-ukraine-has-pushed-biden-to-rearm-europe-00030352">‘There is no going back’: How the war in Ukraine has pushed Biden to rearm Europe</a> Politico: Putin’s plan has backfired as new weapons packages are flushing Soviet gear from NATO. 
  <p class="updated_time"> 03:30 AM CT, May. 05 </p> 
  <a href="https://www.politico.com/news/2022/05/05/trump-influence-over-gop-elections-00030161">Trump reasserts his GOP dominance</a> Politico: His Ohio romp is a strong signal that — for all the talk of his shrinking influence — the GOP is still in his thrall. 
  <p class="updated_time"> 03:30 AM CT, May. 05 </p> 
@@ -328,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:54 PM CT, May. 04 </p> 
  <a href="https://www.politico.com/news/2022/05/04/gop-primaries-00030152">‘Are you going to cave?’ GOP primaries pit ‘fighters’ against ‘governing wing’</a> Politico: Primary clashes in states across the country will shape the potential GOP House majority. 
- <p class="updated_time"> 04:30 PM CT, May. 04 </p> 
- <a href="https://www.politico.com/news/2022/05/04/senate-abortion-vote-manchin-collins-problems-00030148">More than a show vote? Senate Dems weigh their Roe plans</a> Politico: Their preferred vehicle to respond to the Supreme Court breach is all but sure to fail. Whether more abortion debate will follow remains unclear. 
 
 
 </details>
