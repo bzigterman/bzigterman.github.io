@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:27 PM CT, May. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61367797?at_medium=RSS&at_campaign=KARANGA">New Mexico wildfire: Huge blaze could worsen this weekend</a> BBC: Strong winds expected to stoke the fire, which has already torn through an area larger than Chicago. 
  <p class="updated_time"> 06:16 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Live Updates: Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
  <p class="updated_time"> 06:09 PM CT, May. 07 </p> 
@@ -17,7 +19,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61354626?at_medium=RSS&at_campaign=KARANGA">'We tried not to watch' - escapees recount terror of Russian-occupied Izyum</a> BBC: Two women recall what happened when Russia took over a strategically-important city in the Donbas. 
  <p class="updated_time"> 06:01 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61345463?at_medium=RSS&at_campaign=KARANGA">Hong Kong's John Lee: Ex-security chief set to become new leader</a> BBC: John Lee's appointment is being seen as a move by China to tighten its grip on the city. 
- <p class="updated_time"> 05:27 PM CT, May. 07 </p> 
+ <p class="updated_time"> 05:42 PM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Ukrainian Weapons Coming From West</a> WSJ: Russia Says It Is Targeting Ukrainian Weapons Coming From West 
  <p class="updated_time"> 05:19 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/northern-ireland-sinn-fein.html">Northern Ireland Turns to Sinn Fein</a> NYT: Election results reflected the demoralization of unionist voters, the disarray of their leaders and an electorate with new priorities — much of which can be traced to Brexit. 
@@ -27,26 +29,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/world/europe/russia-ukraine-kharkiv-victory-day.html">Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
  <p class="updated_time"> 04:52 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61367119?at_medium=RSS&at_campaign=KARANGA">Brazil's Lula launches presidential campaign</a> BBC: The former Brazilian president says he wants to unite the country and defend its democracy. 
- <p class="updated_time"> 04:27 PM CT, May. 07 </p> 
+ <p class="updated_time"> 04:42 PM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/taliban-orders-women-to-cover-their-faces-11651934565">Taliban Orders Women to Cover Their Faces</a> WSJ: Taliban Orders Women to Cover Their Faces 
  <p class="updated_time"> 04:01 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/asia/taliban-afghanistan-burqa.html">Taliban Impose Head-to-Toe Coverings for Women</a> NYT: A new decree recommends, but doesn’t require that women wear burqas, and says male relatives of those who don’t cover themselves would be punished. 
  <p class="updated_time"> 03:47 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61365446?at_medium=RSS&at_campaign=KARANGA">UK YouTuber Benjamin Rich held at Russian space centre</a> BBC: Bald and Bankrupt vlogger Benjamin Rich was held in Kazakhstan, Russia's space agency says. 
+ <p class="updated_time"> 03:42 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
  <p class="updated_time"> 03:27 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61362557?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Civilians now out of Azovstal plant in Mariupol</a> BBC: All elderly people, women and children have left the Azovstal plant in Mariupol, say Ukraine and Russia. 
- <p class="updated_time"> 03:27 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
  <p class="updated_time"> 03:06 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/putin-victory-day-macron.html">Two Europes Confront Each Other Over the Glory, or Shame, of War</a> NYT: On Monday, Vladimir Putin will mark Russia’s Victory Day by extolling the virtues of force. France’s leader, Emmanuel Macron, will honor a very different anniversary. 
- <p class="updated_time"> 02:27 PM CT, May. 07 </p> 
+ <p class="updated_time"> 02:42 PM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/canadas-16-billion-rogers-shaw-telecom-deal-at-risk-over-antitrust-concerns-11651936534">Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns</a> WSJ: Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns 
  <p class="updated_time"> 01:55 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/middleeast/tunisia-democracy-economy.html">As Tunisia’s Democratic Experiment Unravels, Economic Collapse Looms</a> NYT: The president is consolidating one-man rule while the economy, sapped by mismanagement, the pandemic and war in Ukraine, flails. Groups that helped avert a past crisis are largely silent. 
+ <p class="updated_time"> 01:42 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 01:34 PM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097417453/sinn-fein-wins-assembly-election-northern-ireland">Sinn Fein celebrates an historic election win in Northern Ireland</a> NPR: The Irish nationalist party hailed a "new era" as it captured the largest number of seats in the Northern Ireland Assembly for the first time. 
- <p class="updated_time"> 01:27 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 01:21 PM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097413091/steel-plant-mariupol-azovstal-civilians-evacuated">All civilians have been evacuated from a besieged steel plant in Mariupol</a> NPR: Ukraine announced that all women, children and elderly had been evacuated from a steel plant, a key Russian war objective that has long been under siege. 
  <p class="updated_time"> 12:51 PM CT, May. 07 </p> 
@@ -141,8 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/world/europe/uk-queen-harry-andrew-platinum-jubilee.html">Who Will Be in the Queen’s Jubilee Photo-Op?</a> NYT: Neither Prince Harry and his wife Meghan, nor Prince Andrew will get a place on the balcony at Buckingham Palace. It’s not even certain Queen Elizabeth, 96, will be there. 
  <p class="updated_time"> 12:29 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/americas/francia-marquez-colombia-vp.html">Francia Márquez Could Become Colombias First Black Vice President</a> NYT: Francia Márquez could soon be Colombia’s first Black vice president, and she has cracked open a discussion about race and class in a manner rarely seen in national politics. 
- <p class="updated_time"> 12:21 PM CT, May. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61347906?at_medium=RSS&at_campaign=KARANGA">Kenyan Muslim cleric refuses to leave jail after acquittal</a> BBC: He fears being killed by Kenyan state agents as is alleged has happened to other terror suspects. 
  <p class="updated_time"> 12:00 PM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097137528/havana-cuba-hotel-explosion-deaths">26 people died in an explosion at a hotel in Havana</a> NPR: Relatives of the missing in Cuba's capital desperately searched for victims of an explosion at one of Havana's most luxurious hotels. A natural gas leak was the apparent cause of Friday's blast 
  <p class="updated_time"> 10:16 AM CT, May. 06 </p> 
