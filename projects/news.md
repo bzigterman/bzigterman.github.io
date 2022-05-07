@@ -15,23 +15,23 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/07/1097382550/taliban-women-burqa-decree">The Taliban says women in Afghanistan must wear head-to-toe clothing in public</a> NPR: The decree, which calls for women to only show their eyes and recommends they wear the head-to-toe burqa, evoked similar restrictions during the Taliban's previous rule between 1996 and 2001. 
  <p class="updated_time"> 09:12 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/asia/taliban-afghanistan-burqa.html">Taliban Impose Head-to-Toe Coverings for Women</a> NYT: A new decree recommends, but doesn’t require that women wear burqas, and says male relatives of those who don’t cover themselves would be punished. 
+ <p class="updated_time"> 08:49 AM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Western Military Supplies in Ukraine’s Kharkiv Region</a> WSJ: Russia Says It Is Targeting Western Military Supplies in Ukraine’s Kharkiv Region 
  <p class="updated_time"> 08:38 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/asia/sri-lanka-protests-emergency.html">Sri Lanka’s Leader Declares State of Emergency Amid Protests</a> NYT: It was the second such declaration in weeks by Gotabaya Rajapaksa, whose government is being blamed for the country’s deepening economic crisis. 
- <p class="updated_time"> 08:38 AM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Western Military Supplies in Ukraine’s Kharkiv Region</a> WSJ: Russia Says It Is Targeting Western Military Supplies in Ukraine’s Kharkiv Region 
  <p class="updated_time"> 08:10 AM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097376932/families-of-ukrainian-soldiers-in-the-mariupol-steel-plant-plead-for-an-evacuati">Families of Ukrainian soldiers in the Mariupol steel plant plead for an evacuation</a> NPR: In the catacombs of a steel plant in Mariupol, Ukrainian soldiers stage a last stand against Russian occupation as their wives plead with aid groups to evacuate them along with civilians. 
  <p class="updated_time"> 08:06 AM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097376925/the-philippines-will-elect-a-new-leader-monday">The Philippines will elect a new leader Monday</a> NPR: Voters in the Philippines go to the polls Monday for that country's presidential elections. We take a look at the last days of the campaign there. 
  <p class="updated_time"> 07:53 AM CT, May. 07 </p> 
- <a href="https://www.nytimes.com/2022/05/07/world/middleeast/as-tunisias-democratic-experiment-unravels-economic-collapse-looms.html">As Tunisia’s Democratic Experiment Unravels, Economic Collapse Looms</a> NYT: The president is consolidating one-man rule while the economy, sapped by mismanagement, the pandemic and war in Ukraine, flails. Groups that helped avert a past crisis are largely silent. 
- <p class="updated_time"> 07:38 AM CT, May. 07 </p> 
+ <a href="https://www.nytimes.com/2022/05/07/world/middleeast/tunisia-democracy-economy.html">As Tunisia’s Democratic Experiment Unravels, Economic Collapse Looms</a> NYT: The president is consolidating one-man rule while the economy, sapped by mismanagement, the pandemic and war in Ukraine, flails. Groups that helped avert a past crisis are largely silent. 
+ <p class="updated_time"> 07:49 AM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
  <p class="updated_time"> 07:34 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/putin-victory-day-macron.html">Two Europes Confront Each Other Over the Glory, or Shame, of War</a> NYT: On Monday, Vladimir Putin will mark Russia’s Victory Day by extolling the virtues of force. France’s leader, Emmanuel Macron, will honor a very different anniversary. 
  <p class="updated_time"> 07:05 AM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097376876/the-latest-on-the-refugee-crisis-in-ukraine">The latest on the refugee crisis in Ukraine</a> NPR: Scott Simon talks to David Miliband, CEO and president of the International Rescue Committee, about the ongoing refugee crisis in Ukraine. 
- <p class="updated_time"> 06:38 AM CT, May. 07 </p> 
+ <p class="updated_time"> 06:49 AM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 06:09 AM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61362551?at_medium=RSS&at_campaign=KARANGA">North Korea in new missile launch, say neighbours</a> BBC: The reported launch comes just days before South Korea's new president takes office. 
@@ -39,15 +39,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/world/europe/russia-putin-ukraine-politicians.html">Russia’s Grave Miscalculation: Ukrainians Would Collaborate</a> NYT: Besides their military failures, the Russians entered the war believing they could persuade Ukrainians in the east to join their side. Those efforts have failed spectacularly. 
  <p class="updated_time"> 05:56 AM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61361826?at_medium=RSS&at_campaign=KARANGA">Taliban to force Afghan women to wear face veil</a> BBC: Any woman refusing to comply with the new decree could see a male guardian jailed for three days. 
+ <p class="updated_time"> 05:49 AM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-holocaust-survivors-flee-to-germany-from-russian-bombs-11651915801">Ukrainian Holocaust Survivors Flee to Germany From Russian Bombs</a> WSJ: Ukrainian Holocaust Survivors Flee to Germany From Russian Bombs 
  <p class="updated_time"> 05:38 AM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61361686?at_medium=RSS&at_campaign=KARANGA">Nigerian airlines to halt domestic flights over jet fuel hikes</a> BBC: Prices have risen almost fourfold this year, mainly triggered by Russia's invasion of Ukraine. 
- <p class="updated_time"> 05:38 AM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-holocaust-survivors-flee-to-germany-from-russian-bombs-11651915801">Ukrainian Holocaust Survivors Flee to Germany From Russian Bombs</a> WSJ: Ukrainian Holocaust Survivors Flee to Germany From Russian Bombs 
  <p class="updated_time"> 05:20 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/asia/north-korea-missile-submarine.html">North Korea Tests a Submarine-Launched Missile</a> NYT: Such missiles could extend the range of the North’s nuclear arsenal. The move came as the United States warned that the country might soon test a nuclear device. 
  <p class="updated_time"> 05:00 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/canada/ontario-auto-industry-subsidies.html">Do Canada’s Auto Industry Jobs Rest on Government Support?</a> NYT: A former auto industry executive argues that Canada and Ontario should rethink how they subsidize carmakers. 
- <p class="updated_time"> 04:38 AM CT, May. 07 </p> 
+ <p class="updated_time"> 04:49 AM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/jared-kushners-new-fund-plans-to-invest-saudi-money-in-israel-11651927236">Kushner’s New Fund to Invest Saudi Money in Israel</a> WSJ: Kushner’s New Fund to Invest Saudi Money in Israel 
  <p class="updated_time"> 04:00 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/science/space/astronomy-black-hole-sound.html">Hear the Weird Sounds of a Black Hole Singing</a> NYT: As part of an effort to “sonify” the cosmos, researchers have converted the pressure waves from a black hole into an audible … something. 
@@ -208,6 +208,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:31 AM CT, May. 07 </p> 
+ <a href="https://www.politico.com/news/2022/05/07/afghanistan-taliban-order-women-cover-up-00030877">Afghanistan’s Taliban order women to cover up head to toe</a> Politico: The decree added that if women had no important work outside it is better for them to stay at home. 
  <p class="updated_time"> 09:30 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/politics/republicans-abortion.html">G.O.P. Lawmakers Recast Abortion Stance, Wary of Voter Backlash</a> NYT: While Democrats decry a draft opinion that would eliminate the constitutional right to an abortion, Republicans who worked decades for this moment have been largely silent. 
  <p class="updated_time"> 09:21 AM CT, May. 07 </p> 
@@ -284,8 +286,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/06/midterm-elections-abortion-rights-governors-00030771">Inside the Forecast: Abortion rights bring governor races into spotlight</a> Politico: POLITICO’s Steve Shepard demystifies this week’s election data in a video series. 
  <p class="updated_time"> 02:27 PM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097232814/marjorie-taylor-greene-can-remain-on-ballot-judge-says-despite-candidacy-challen">Georgia officials rule that Marjorie Taylor Greene can remain on the ballot</a> NPR: A group of voters and a supporting legal group had filed a formal challenge to the congresswoman's candidacy, citing her role in the Jan. 6 Capitol riot. 
- <p class="updated_time"> 01:09 PM CT, May. 06 </p> 
- <a href="https://www.politico.com/news/2022/05/06/canada-first-conservative-leadership-debate-00030707">Canada's first Conservative leadership debate in one word: Nasty</a> Politico: Here are five things to watch for when they meet again next week in Alberta. 
  <p class="updated_time"> 12:48 PM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097103804/house-vote-congressional-staffers-unionize">The House will vote on a measure to allow congressional staffers to unionize</a> NPR: House Speaker Nancy Pelosi said in a statement Friday that the House is expected to vote on a resolution next week that would allow congressional staffers to unionize. 
  <p class="updated_time"> 09:30 AM CT, May. 06 </p> 
