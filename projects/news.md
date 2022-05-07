@@ -9,17 +9,19 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:20 AM CT, May. 07 </p> 
+ <a href="https://www.nytimes.com/2022/05/07/world/asia/north-korea-missile-submarine.html">North Korea Tests a Submarine-Launched Missile</a> NYT: Such missiles could extend the range of the North’s nuclear arsenal. The move came as the United States warned that the country might soon test a nuclear device. 
  <p class="updated_time"> 05:00 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/canada/ontario-auto-industry-subsidies.html">Do Canada’s Auto Industry Jobs Rest on Government Support?</a> NYT: A former auto industry executive argues that Canada and Ontario should rethink how they subsidize carmakers. 
  <p class="updated_time"> 04:42 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/05/06/world/ukraine-russia-war-news">What Happened on Day 72 of the War in Ukraine</a> NYT: Ukrainian forces sought to drive back Russian invaders from two key cities in northeast Ukraine and achieve a breakthrough in what has become a grinding battle. 
+ <p class="updated_time"> 04:40 AM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant</a> WSJ: Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant 
  <p class="updated_time"> 04:36 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/russia-putin-ukraine-politicians.html">Russia’s Grave Miscalculation: Ukrainians Would Collaborate</a> NYT: Besides their military failures, the Russians entered the war believing they could persuade Ukrainians in the east to join their side. Those efforts have failed spectacularly. 
- <p class="updated_time"> 04:20 AM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/fresh-rescue-efforts-under-way-at-ukraines-azovstal-steel-plant-11651832346">Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant</a> WSJ: Fresh Rescue Efforts Under Way at Ukraine’s Azovstal Steel Plant 
  <p class="updated_time"> 04:00 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/science/space/astronomy-black-hole-sound.html">Hear the Weird Sounds of a Black Hole Singing</a> NYT: As part of an effort to “sonify” the cosmos, researchers have converted the pressure waves from a black hole into an audible … something. 
- <p class="updated_time"> 03:20 AM CT, May. 07 </p> 
+ <p class="updated_time"> 03:40 AM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/blast-in-cuba-tears-through-havanas-iconic-hotel-saratoga-11651855524">Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga</a> WSJ: Cuba Hotel Explosion: At Least 22 Dead in Blast at Havana’s Hotel Saratoga 
  <p class="updated_time"> 03:16 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/ukraine-russia-artillery-kharkiv.html">One Village at a Time: The Grinding Artillery War in Ukraine</a> NYT: The advances by the Ukrainian army in the north have been modest, but they are emblematic of both sides’ strategy: maneuvering artillery to gain territory. 
@@ -27,13 +29,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/05/06/world/uk-elections-northern-ireland">Sinn Fein Is Winning in Northern Ireland</a> NYT: In local elections across the U.K., Boris Johnson acknowledges a “tough night” for Conservatives, and Northern Ireland’s pro-unity party was nearing a historic victory. 
  <p class="updated_time"> 02:42 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/sinn-fein-northern-ireland.html">Sinn Fein Is Emerging As the Largest Party in Northern Ireland</a> NYT: Final results should be available by Saturday. Some fear it could rekindle unrest between Catholics and Protestants. 
- <p class="updated_time"> 02:20 AM CT, May. 07 </p> 
+ <p class="updated_time"> 02:40 AM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/mass-graves-in-ukraine-reveal-mounting-death-toll-11651829402">Mass Graves in Ukraine Reveal Mounting Death Toll</a> WSJ: Mass Graves in Ukraine Reveal Mounting Death Toll 
  <p class="updated_time"> 01:49 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/lviv-art-galleries.html">Lviv Reopens Art Galleries ‘to Show We Are Alive’</a> NYT: As the Russian invasion of Ukraine grinds on, a museum director in Ukraine’s cultural capital is turning to art as a form of resistance. 
- <p class="updated_time"> 01:20 AM CT, May. 07 </p> 
+ <p class="updated_time"> 01:40 AM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/party-favoring-unification-poised-to-win-northern-irish-election-for-first-time-11651871499">Party Favoring Unification Poised to Win Northern Irish Election for First Time</a> WSJ: Party Favoring Unification Poised to Win Northern Irish Election for First Time 
- <p class="updated_time"> 12:20 AM CT, May. 07 </p> 
+ <p class="updated_time"> 12:40 AM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/hungary-holds-up-eu-deal-to-sanction-russian-oil-11651843279">Hungary Holds Up EU Deal to Sanction Russian Oil</a> WSJ: Hungary Holds Up EU Deal to Sanction Russian Oil 
  <p class="updated_time"> 10:44 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/covid-hospitalizations-cases-us.html">Worries About Covid Strain on Health Care Grow in the U.S.</a> NYT: The C.D.C. is also keeping a close eye on the nature of hospitalizations. 
@@ -197,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/05/climate/wildfires-prescribed-burn.html">Why Climate Change Makes It Harder to Fight Fire With Fire</a> NYT: Worsening wildfires in recent years have led officials to embrace planned fires to thin forests before disaster strikes. But the warming world is making it tougher to do safely. 
  <p class="updated_time"> 05:53 AM CT, May. 05 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/europe/russian-exiles-foreign-agents-putin.html">Anti-Putin Russians Are Leaving, With a Push From the Kremlin</a> NYT: Many Russians who are designated “foreign agents” by the government view it as another form of repression that makes living in the country, or returning to it, untenable. 
- <p class="updated_time"> 11:47 PM CT, May. 04 </p> 
- <a href="https://www.nytimes.com/2022/05/04/world/asia/india-russia-oil.html">India Finds Russian Oil an Irresistible Deal, No Matter the Diplomatic Pressure</a> NYT: A parade of emissaries have urged a harder line on Russia. But India’s political neutrality over the war in Ukraine has expanded into economic opportunism. 
 
 
 </details>
@@ -247,7 +247,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:45 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/politics/border-protection-critical-incident-teams.html">Customs and Border Protection Will Disband Secretive ‘Critical Incident Teams’</a> NYT: The agency’s commissioner announced the change after the teams — which had long operated under the public radar — came under scrutiny earlier this year. 
  <p class="updated_time"> 04:43 PM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/2022/05/06/us/politics/pelosi-pay-increase-house-union.html">Pelosi Increases Pay Scale for House Staff, Setting a New Wage Floor</a> NYT: The speaker said staff aides would earn at least $45,000 annually and boosted the pay cap to $203,700. She also set a vote on a bill to protect those who unionize. 
+ <a href="https://www.nytimes.com/2022/05/06/us/politics/pelosi-pay-increase-house-union.html">Pelosi Increases House Staff Pay Scale, Setting a New Wage Floor</a> NYT: The speaker said staff aides would earn at least $45,000 annually and boosted the pay cap to $203,700. She also set a vote on a bill to protect those who unionize. 
  <p class="updated_time"> 04:39 PM CT, May. 06 </p> 
  <a href="https://www.politico.com/news/2022/05/06/challenge-over-marjorie-taylor-greenes-eligibility-fails-00030803">Challenge over Marjorie Taylor Greene's eligibility fails</a> Politico: A group of voters filed a complaint with Georgia Secretary of State Brad Raffensperger’s office saying that Greene should be barred from running for reelection. 
  <p class="updated_time"> 04:21 PM CT, May. 06 </p> 
