@@ -15,13 +15,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/world/europe/france-president-emmanuel-macron-inauguration.html">Emmanuel Macron Inaugurated for a 2nd Term as France President</a> NYT: “Rarely has our world and our country confronted such a combination of challenges,” Mr. Macron said, promising to govern France more inclusively. 
  <p class="updated_time"> 05:14 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Live Updates: Ukraine Pushes Russians Back From Kharkiv Before Key Holiday</a> NYT: Both sides were trying to take territory in the run-up to Russia’s Victory Day, when the Kremlin would like to tout the invasion’s  progress. President Volodymyr Zelensky called on citizens to heed local curfews and not ignore air raid sirens. 
+ <p class="updated_time"> 05:01 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Ukrainian Weapons Coming From West</a> WSJ: Russia Says It Is Targeting Ukrainian Weapons Coming From West 
  <p class="updated_time"> 04:52 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61367119?at_medium=RSS&at_campaign=KARANGA">Brazil's Lula launches presidential campaign</a> BBC: The former Brazilian president says he wants to unite the country and defend its democracy. 
- <p class="updated_time"> 04:48 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Ukrainian Weapons Coming From West</a> WSJ: Russia Says It Is Targeting Ukrainian Weapons Coming From West 
  <p class="updated_time"> 04:01 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/asia/taliban-afghanistan-burqa.html">Taliban Impose Head-to-Toe Coverings for Women</a> NYT: A new decree recommends, but doesn’t require that women wear burqas, and says male relatives of those who don’t cover themselves would be punished. 
- <p class="updated_time"> 03:48 PM CT, May. 07 </p> 
+ <p class="updated_time"> 04:01 PM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/taliban-orders-women-to-cover-their-faces-11651934565">Taliban Orders Women to Cover Their Faces</a> WSJ: Taliban Orders Women to Cover Their Faces 
  <p class="updated_time"> 03:47 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61365446?at_medium=RSS&at_campaign=KARANGA">UK YouTuber Benjamin Rich held at Russian space centre</a> BBC: Bald and Bankrupt vlogger Benjamin Rich was held in Kazakhstan, Russia's space agency says. 
@@ -29,20 +29,20 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61362557?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Civilians now out of Azovstal plant in Mariupol</a> BBC: All elderly people, women and children have left the Azovstal plant in Mariupol, say Ukraine and Russia. 
  <p class="updated_time"> 03:06 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/putin-victory-day-macron.html">Two Europes Confront Each Other Over the Glory, or Shame, of War</a> NYT: On Monday, Vladimir Putin will mark Russia’s Victory Day by extolling the virtues of force. France’s leader, Emmanuel Macron, will honor a very different anniversary. 
- <p class="updated_time"> 02:48 PM CT, May. 07 </p> 
+ <p class="updated_time"> 03:01 PM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
+ <p class="updated_time"> 02:01 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/canadas-16-billion-rogers-shaw-telecom-deal-at-risk-over-antitrust-concerns-11651936534">Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns</a> WSJ: Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns 
  <p class="updated_time"> 01:55 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/middleeast/tunisia-democracy-economy.html">As Tunisia’s Democratic Experiment Unravels, Economic Collapse Looms</a> NYT: The president is consolidating one-man rule while the economy, sapped by mismanagement, the pandemic and war in Ukraine, flails. Groups that helped avert a past crisis are largely silent. 
- <p class="updated_time"> 01:48 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/canadas-16-billion-rogers-shaw-telecom-deal-at-risk-over-antitrust-concerns-11651936534">Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns</a> WSJ: Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns 
  <p class="updated_time"> 01:34 PM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097417453/sinn-fein-wins-assembly-election-northern-ireland">Sinn Fein celebrates an historic election win in Northern Ireland</a> NPR: The Irish nationalist party hailed a "new era" as it captured the largest number of seats in the Northern Ireland Assembly for the first time. 
  <p class="updated_time"> 01:21 PM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097413091/steel-plant-mariupol-azovstal-civilians-evacuated">All civilians have been evacuated from a besieged steel plant in Mariupol</a> NPR: Ukraine announced that all women, children and elderly had been evacuated from a steel plant, a key Russian war objective that has long been under siege. 
+ <p class="updated_time"> 01:01 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 12:51 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/middleeast/egypt-sinai-militants-attack.html">Militants Kill 11 Egyptian Troops in Sinai</a> NYT: The militants ambushed troops guarding a water-pumping facility, before fleeing to the desert in Northern Sinai. 
- <p class="updated_time"> 12:48 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 12:44 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/george-cheeks-covid-positive-biden.html">CBS Presidents George Cheeks Tests Positive for Coronavirus</a> NYT: The network’s leader sat between the president and first lady, all unmasked, at the event. 
  <p class="updated_time"> 12:43 PM CT, May. 07 </p> 
@@ -322,8 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/05/abortion-battleground-roe-opinion-democrats-00030113">Dems grasp for a foothold on voter anger over abortion</a> Politico: Their base is starting to recover Trump-era protest energy after the Supreme Court's breached Roe opinion. Channeling that to November won't be easy. 
  <p class="updated_time"> 02:15 AM CT, May. 05 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 05:54 PM CT, May. 04 </p> 
- <a href="https://www.politico.com/news/2022/05/04/gop-primaries-00030152">‘Are you going to cave?’ GOP primaries pit ‘fighters’ against ‘governing wing’</a> Politico: Primary clashes in states across the country will shape the potential GOP House majority. 
 
 
 </details>
