@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:59 PM CT, May. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Live Updates: Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
+ <p class="updated_time"> 07:22 PM CT, May. 07 </p> 
+ <a href="https://www.nytimes.com/2022/05/07/world/europe/russia-ukraine-kharkiv-victory-day.html">Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
+ <p class="updated_time"> 07:20 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Ukrainian Weapons Coming From West</a> WSJ: Russia Says It Is Targeting Ukrainian Weapons Coming From West 
  <p class="updated_time"> 06:50 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61348287?at_medium=RSS&at_campaign=KARANGA">Viewpoint: Putin now faces only different kinds of defeat</a> BBC: Russia's Victory Day parade won't represent any sort of victory over Ukraine, writes defence analyst Michael Clarke. 
  <p class="updated_time"> 06:44 PM CT, May. 07 </p> 
@@ -19,42 +25,40 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61350174?at_medium=RSS&at_campaign=KARANGA">Fergal Keane: How I found a way to live with PTSD</a> BBC: The BBC correspondent, who was diagnosed with PTSD in 2008, explores the effects of the condition and how it can be treated. 
  <p class="updated_time"> 06:27 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61367797?at_medium=RSS&at_campaign=KARANGA">New Mexico wildfire: Huge blaze could worsen this weekend</a> BBC: Strong winds expected to stoke the fire, which has already torn through an area larger than Chicago. 
- <p class="updated_time"> 06:16 PM CT, May. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Live Updates: Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
+ <p class="updated_time"> 06:20 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/taliban-orders-women-to-cover-their-faces-11651934565">Taliban Orders Women to Cover Their Faces</a> WSJ: Taliban Orders Women to Cover Their Faces 
+ <p class="updated_time"> 06:11 PM CT, May. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61346864?at_medium=RSS&at_campaign=KARANGA">Acid attack survivors in Mexico: 'Justice is not enough'</a> BBC: Carmen Sanchez launched her foundation in Mexico to help survivors of attacks rebuild their lives. 
+ <p class="updated_time"> 06:09 PM CT, May. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-61338799?at_medium=RSS&at_campaign=KARANGA">The return of California's butterflies</a> BBC: Efforts to protect these beautiful insects include driving electric tractors and hand-rearing them in a lab. 
  <p class="updated_time"> 06:09 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61328696?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Why 9 May matters to Russia</a> BBC: Ros Atkins explains why Victory Day is such an important date in Russia. 
  <p class="updated_time"> 06:06 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61354626?at_medium=RSS&at_campaign=KARANGA">'We tried not to watch' - escapees recount terror of Russian-occupied Izyum</a> BBC: Two women recall what happened when Russia took over a strategically-important city in the Donbas. 
  <p class="updated_time"> 06:01 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61345463?at_medium=RSS&at_campaign=KARANGA">Hong Kong's John Lee: Ex-security chief set to become new leader</a> BBC: John Lee's appointment is being seen as a move by China to tighten its grip on the city. 
- <p class="updated_time"> 05:54 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Ukrainian Weapons Coming From West</a> WSJ: Russia Says It Is Targeting Ukrainian Weapons Coming From West 
+ <p class="updated_time"> 05:20 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
  <p class="updated_time"> 05:19 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/northern-ireland-sinn-fein.html">Northern Ireland Turns to Sinn Fein</a> NYT: Election results reflected the demoralization of unionist voters, the disarray of their leaders and an electorate with new priorities — much of which can be traced to Brexit. 
  <p class="updated_time"> 05:17 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/france-president-emmanuel-macron-inauguration.html">Emmanuel Macron Inaugurated for a 2nd Term as France President</a> NYT: “Rarely has our world and our country confronted such a combination of challenges,” Mr. Macron said, promising to govern France more inclusively. 
- <p class="updated_time"> 05:14 PM CT, May. 07 </p> 
- <a href="https://www.nytimes.com/2022/05/07/world/europe/russia-ukraine-kharkiv-victory-day.html">Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
- <p class="updated_time"> 04:54 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/taliban-orders-women-to-cover-their-faces-11651934565">Taliban Orders Women to Cover Their Faces</a> WSJ: Taliban Orders Women to Cover Their Faces 
  <p class="updated_time"> 04:52 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61367119?at_medium=RSS&at_campaign=KARANGA">Brazil's Lula launches presidential campaign</a> BBC: The former Brazilian president says he wants to unite the country and defend its democracy. 
+ <p class="updated_time"> 04:20 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/canadas-16-billion-rogers-shaw-telecom-deal-at-risk-over-antitrust-concerns-11651936534">Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns</a> WSJ: Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns 
  <p class="updated_time"> 04:01 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/asia/taliban-afghanistan-burqa.html">Taliban Impose Head-to-Toe Coverings for Women</a> NYT: A new decree recommends, but doesn’t require that women wear burqas, and says male relatives of those who don’t cover themselves would be punished. 
- <p class="updated_time"> 03:54 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
  <p class="updated_time"> 03:47 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61365446?at_medium=RSS&at_campaign=KARANGA">UK YouTuber Benjamin Rich held at Russian space centre</a> BBC: Bald and Bankrupt vlogger Benjamin Rich was held in Kazakhstan, Russia's space agency says. 
  <p class="updated_time"> 03:27 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61362557?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Civilians now out of Azovstal plant in Mariupol</a> BBC: All elderly people, women and children have left the Azovstal plant in Mariupol, say Ukraine and Russia. 
+ <p class="updated_time"> 03:20 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 03:06 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/putin-victory-day-macron.html">Two Europes Confront Each Other Over the Glory, or Shame, of War</a> NYT: On Monday, Vladimir Putin will mark Russia’s Victory Day by extolling the virtues of force. France’s leader, Emmanuel Macron, will honor a very different anniversary. 
- <p class="updated_time"> 02:54 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/canadas-16-billion-rogers-shaw-telecom-deal-at-risk-over-antitrust-concerns-11651936534">Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns</a> WSJ: Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns 
  <p class="updated_time"> 01:55 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/middleeast/tunisia-democracy-economy.html">As Tunisia’s Democratic Experiment Unravels, Economic Collapse Looms</a> NYT: The president is consolidating one-man rule while the economy, sapped by mismanagement, the pandemic and war in Ukraine, flails. Groups that helped avert a past crisis are largely silent. 
- <p class="updated_time"> 01:54 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 01:34 PM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097417453/sinn-fein-wins-assembly-election-northern-ireland">Sinn Fein celebrates an historic election win in Northern Ireland</a> NPR: The Irish nationalist party hailed a "new era" as it captured the largest number of seats in the Northern Ireland Assembly for the first time. 
  <p class="updated_time"> 01:21 PM CT, May. 07 </p> 
@@ -187,10 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61327201?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 29 April-5 May 2022</a> BBC: A selection of the best photos from across Africa this week. 
  <p class="updated_time"> 06:05 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61327820?at_medium=RSS&at_campaign=KARANGA">Sri Lanka's energy crisis hits country's fishing industry</a> BBC: A lack of fuel, ice, and places to sell their catch has left fishermen in Jaffna in the lurch. 
- <p class="updated_time"> 06:03 PM CT, May. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61267610?at_medium=RSS&at_campaign=KARANGA">Eurovision: Australia's Sheldon Riley's song details his autistic experience</a> BBC: Australia's contestant Sheldon Riley will compete in Turin with his powerful song Not The Same. 
- <p class="updated_time"> 06:01 PM CT, May. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61326293?at_medium=RSS&at_campaign=KARANGA">The volunteer pilots from Germany delivering medical supplies to Ukraine</a> BBC: The pilots from Germany are flying medical supplies to the Ukraine-Poland border and helping refugees. 
  <p class="updated_time"> 06:01 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61082317?at_medium=RSS&at_campaign=KARANGA">Why one firm is banking on carbon fibre bikes in Europe</a> BBC: Europe's bike firms want to source more components closer to home, including carbon fibre frames. 
  <p class="updated_time"> 04:45 PM CT, May. 05 </p> 
