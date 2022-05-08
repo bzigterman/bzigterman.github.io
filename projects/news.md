@@ -13,36 +13,36 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61374008?at_medium=RSS&at_campaign=KARANGA">Ukraine war: First ladies meet as US announces new sanctions</a> BBC: The US first lady met her Ukrainian counterpart as Washington sanctions 2,600 individuals. 
  <p class="updated_time"> 05:09 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/ukraine-russia-biden.html">Both Sides Harden Positions on Anniversary of Nazi Defeat in Europe</a> NYT: The war in Ukraine was marked by posturing and signaling, with each side ramping up its rhetoric as the battle ground on. 
+ <p class="updated_time"> 04:59 PM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Ukraine Fights for Besieged Mariupol as Russia Prepares to Mark Key Date</a> WSJ: Ukraine Fights for Besieged Mariupol as Russia Prepares to Mark Key Date 
  <p class="updated_time"> 04:57 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/asia/afghanistan-eid-taliban.html">Eid Under the Taliban Shows a Changed Afghanistan</a> NYT: For many Afghans the holiday this past week served as a reminder of the dissonance between the promise of peace many had imagined and the realities of the end of the war. 
  <p class="updated_time"> 04:47 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/americas/brazil-russian-fertilizer-sanctions.html">Brazil Replenishes Stockpiles of Russian Fertilizer</a> NYT: Officials expected the war to trap up to 15 percent of the world’s fertilizer exports in Russia. But Brazil and other countries have found a way to get it. 
- <p class="updated_time"> 04:35 PM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Embattled Ukraine Soldiers in Mariupol Say They Will Fight to the End</a> WSJ: Embattled Ukraine Soldiers in Mariupol Say They Will Fight to the End 
  <p class="updated_time"> 04:23 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61369229?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 60 people killed after bomb hits school, Zelensky says</a> BBC: About 90 people had been sheltering in the building which Ukraine says was hit by a Russian bomb. 
  <p class="updated_time"> 04:05 PM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097485283/nepali-climber-climbed-everest-for-the-26th-time-world-record">A climber scaled Everest for the 26th time. He broke his own world record — again</a> NPR: Kami Rita Sherpa has set and broke his own world record for the most successful Mount Everest ascents multiple times in recent years. He's now summited Everest for the 26th time. 
- <p class="updated_time"> 03:35 PM CT, May. 08 </p> 
+ <p class="updated_time"> 03:59 PM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
  <p class="updated_time"> 03:25 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/france-president-emmanuel-macron-inauguration.html">Emmanuel Macron Inaugurated for a 2nd Term as France President</a> NYT: “Rarely has our world and our country confronted such a combination of challenges,” Mr. Macron said, promising to govern France more inclusively. 
  <p class="updated_time"> 03:00 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/americas/bahamas-sandals-resort-americans-dead.html">3 Americans Die in Mysterious Circumstances at Bahamas Resort</a> NYT: It was unclear what happened but officials said they did not suspect foul play and there were no signs of trauma. Another guest was hospitalized in stable condition. 
- <p class="updated_time"> 02:35 PM CT, May. 08 </p> 
+ <p class="updated_time"> 02:59 PM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 02:04 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/g7-nations-russia-oil.html">G7 Nations Pledge to Ban or Phase Out the Import of Russian Oil</a> NYT: With much of Europe dependent on Russian oil, the Group of 7 said the ban would take effect in a “timely and orderly fashion.” 
- <p class="updated_time"> 01:35 PM CT, May. 08 </p> 
+ <p class="updated_time"> 01:59 PM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 01:18 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61373057?at_medium=RSS&at_campaign=KARANGA">UK YouTuber Benjamin Rich quizzed and fined at Russian space centre</a> BBC: Bald and Bankrupt vlogger Benjamin Rich says he was questioned by Russian police in Kazakhstan. 
+ <p class="updated_time"> 12:59 PM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/beijing-residents-keep-faith-with-governments-zero-covid-strategy-11651996670">Beijing Residents Keep Faith With Government’s Zero-Covid Strategy</a> WSJ: Beijing Residents Keep Faith With Government’s Zero-Covid Strategy 
  <p class="updated_time"> 12:56 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61373192?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: The protests unifying a nation where ethnic fault lines run deep</a> BBC: Unprecedented protests in Colombo are unifying a nation where ethnic fault lines run deep. 
  <p class="updated_time"> 12:46 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/middleeast/israel-suspects-arrested-attack.html">Israel Captures 2 Palestinians Suspected in Deadly Ax Attack</a> NYT: The two men were caught hiding in a forest not far from where the killings were carried out, ending an intensive search. But the country remains on high alert. 
- <p class="updated_time"> 12:35 PM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/beijing-residents-keep-faith-with-governments-zero-covid-strategy-11651996670">Beijing Residents Keep Faith With Government’s Zero-Covid Strategy</a> WSJ: Beijing Residents Keep Faith With Government’s Zero-Covid Strategy 
  <p class="updated_time"> 12:20 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html">Hundreds of Suicidal Teens Sleep in Emergency Rooms. Every Night.</a> NYT: With inpatient psychiatric services in short supply, adolescents are spending days, even weeks, in hospital emergency departments awaiting the help they desperately need. 
  <p class="updated_time"> 12:02 PM CT, May. 08 </p> 
@@ -202,6 +202,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:36 PM CT, May. 08 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 05:30 PM CT, May. 08 </p> 
+ <a href="https://www.politico.com/news/2022/05/08/u2-bono-performs-kyiv-bomb-shelter-00030937">U2's Bono performs in Kyiv bomb shelter</a> Politico: The singer said he was there to show solidarity. 
  <p class="updated_time"> 04:32 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/us/politics/jill-biden-ukraine-trip.html">Jill Biden’s Secret Ukraine Trip</a> NYT: Ukrainian officials reached out several days ahead of Dr. Biden’s planned four-day tour of Eastern Europe to suggest a meeting with the Ukrainian first lady. The East Wing took the chance. 
  <p class="updated_time"> 04:32 PM CT, May. 08 </p> 
@@ -257,7 +261,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:00 AM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/biden-trade-policy-russia-ukraine-00025321">Biden’s trade team: RIP globalization</a> Politico: Russia’s invasion of Ukraine accelerates the administration’s efforts to find a path between global free trade and Trump-like protectionism. 
  <p class="updated_time"> 06:00 AM CT, May. 08 </p> 
- <a href="https://www.politico.com/news/2022/05/08/telemedicine-abortion-providers-interest-surge-roe-00030800">Telemedicine abortion providers see a surge in interest</a> Politico: If the Supreme Court adopts the draft opinion, experts forecast that people seeking abortions will turn more heavily to telemedicine and abortion pills that can be mailed discreetly to a home. 
+ <a href="https://www.politico.com/news/2022/05/08/telemedicine-abortion-providers-interest-surge-roe-00030800">Telemedicine abortion providers see a surge in interest</a> Politico: If the Supreme Court adopts the draft opinion, experts forecast that people seeking abortions will turn to telemedicine and abortion pills that can be mailed discreetly to a home. 
  <p class="updated_time"> 05:49 AM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/beijing-loyalist-john-lee-elected-hong-kongs-next-leader-00030891">Beijing loyalist John Lee elected  Hong Kong’s next leader</a> Politico: He was the only candidate. 
  <p class="updated_time"> 05:37 AM CT, May. 08 </p> 
@@ -284,8 +288,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/us/politics/florida-rejected-math-textbooks.html">Florida Releases Reviews That Led to Rejection of Math Textbooks</a> NYT: To explain its puzzling rejection of dozens of textbooks, the state released 6,000 pages of comments, revealing an often confusing and divisive process. 
  <p class="updated_time"> 09:51 AM CT, May. 07 </p> 
  <a href="https://www.politico.com/news/2022/05/07/ohio-gop-primary-trump-2024-00030807">Ohio was a test case for 2024. The GOP establishment looks screwed.</a> Politico: The Senate contest provided important clues about the size and shape of a key group of voters. 
- <p class="updated_time"> 09:21 AM CT, May. 07 </p> 
- <a href="https://www.politico.com/news/2022/05/07/jan-6-capitol-defendant-chased-officer-goodman-cooperate-committee-00030875">Jan. 6 defendant, who prosecutors say chased Officer Goodman, has cooperated with committee</a> Politico: Gene Rubenacker pleaded guilty without a plea deal to 10 charges, including felony counts of civil disorder, obstruction of Congress and assault. 
  <p class="updated_time"> 07:25 AM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097378826/florida-election-law-appeals-court-reinstates">An appeals court reinstates portions of Florida's new election law</a> NPR: A federal appeals court granted Florida's request to reinstate parts of the state's election law while it appeals a lower court's decision that the law was aimed at suppressing Black voters. 
  <p class="updated_time"> 07:05 AM CT, May. 07 </p> 
