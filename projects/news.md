@@ -9,39 +9,39 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:53 PM CT, May. 08 </p> 
+ <a href="https://www.nytimes.com/2022/05/08/world/asia/afghanistan-eid-taliban.html">Eid Under the Taliban Shows a Changed Afghanistan</a> NYT: For many Afghans the holiday this past week served as a reminder of the dissonance between the promise of peace many had imagined and the realities of the end of the war. 
+ <p class="updated_time"> 04:47 PM CT, May. 08 </p> 
+ <a href="https://www.nytimes.com/2022/05/08/world/americas/brazil-russian-fertilizer-sanctions.html">Brazil Replenishes Stockpiles of Russian Fertilizer</a> NYT: Officials expected the war to trap up to 15 percent of the world’s fertilizer exports in Russia. But Brazil and other countries have found a way to get it. 
  <p class="updated_time"> 04:23 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61369229?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 60 people killed after bomb hits school, Zelensky says</a> BBC: About 90 people had been sheltering in the building which Ukraine says was hit by a Russian bomb. 
- <p class="updated_time"> 04:09 PM CT, May. 08 </p> 
- <a href="https://www.nytimes.com/2022/05/08/world/asia/afghanistan-eid-taliban.html">Eid Under the Taliban Shows a Changed Afghanistan</a> NYT: For many Afghans the holiday this week served as a reminder of the dissonance between the promise of peace many had imagined and the realities of the end of the war. 
  <p class="updated_time"> 04:05 PM CT, May. 08 </p> 
- <a href="https://www.npr.org/2022/05/08/1097485283/nepali-climber-climbed-everest-for-the-26th-time-world-record">Nepali climber scales Everest for the 26th time, breaking his own world record, again</a> NPR: Kami Rita Sherpa has set and broke his own world record for the most successful Mount Everest ascents multiple times in recent years. He's now summited Everest for the 26th time. 
- <p class="updated_time"> 03:42 PM CT, May. 08 </p> 
+ <a href="https://www.npr.org/2022/05/08/1097485283/nepali-climber-climbed-everest-for-the-26th-time-world-record">A climber scaled Everest for the 26th time. He broke his own world record — again</a> NPR: Kami Rita Sherpa has set and broke his own world record for the most successful Mount Everest ascents multiple times in recent years. He's now summited Everest for the 26th time. 
+ <p class="updated_time"> 03:54 PM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Embattled Ukraine Soldiers in Mariupol Say They Will Fight to the End</a> WSJ: Embattled Ukraine Soldiers in Mariupol Say They Will Fight to the End 
  <p class="updated_time"> 03:25 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/france-president-emmanuel-macron-inauguration.html">Emmanuel Macron Inaugurated for a 2nd Term as France President</a> NYT: “Rarely has our world and our country confronted such a combination of challenges,” Mr. Macron said, promising to govern France more inclusively. 
- <p class="updated_time"> 03:07 PM CT, May. 08 </p> 
- <a href="https://www.nytimes.com/2022/05/08/world/americas/brazil-russian-fertilizer-sanctions.html">Brazil Replenishes Stockpiles of Russian Fertilizer</a> NYT: Officials expected the war to trap up to 15 percent of the world’s fertilizer exports in Russia. But Brazil and other countries have  found a way to get it. 
  <p class="updated_time"> 03:00 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/americas/bahamas-sandals-resort-americans-dead.html">3 Americans Die in Mysterious Circumstances at Bahamas Resort</a> NYT: It was unclear what happened but officials said they did not suspect foul play and there were no signs of trauma. Another guest was hospitalized in stable condition. 
- <p class="updated_time"> 02:42 PM CT, May. 08 </p> 
+ <p class="updated_time"> 02:54 PM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
  <p class="updated_time"> 02:04 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/g7-nations-russia-oil.html">G7 Nations Pledge to Ban or Phase Out the Import of Russian Oil</a> NYT: With much of Europe dependent on Russian oil, the Group of 7 said the ban would take effect in a “timely and orderly fashion.” 
- <p class="updated_time"> 01:42 PM CT, May. 08 </p> 
+ <p class="updated_time"> 01:54 PM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 01:18 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61373057?at_medium=RSS&at_campaign=KARANGA">UK YouTuber Benjamin Rich quizzed and fined at Russian space centre</a> BBC: Bald and Bankrupt vlogger Benjamin Rich says he was questioned by Russian police in Kazakhstan. 
  <p class="updated_time"> 12:56 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61373192?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: The protests unifying a nation where ethnic fault lines run deep</a> BBC: Unprecedented protests in Colombo are unifying a nation where ethnic fault lines run deep. 
+ <p class="updated_time"> 12:54 PM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 12:46 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/middleeast/israel-suspects-arrested-attack.html">Israel Captures 2 Palestinians Suspected in Deadly Ax Attack</a> NYT: The two men were caught hiding in a forest not far from where the killings were carried out, ending an intensive search. But the country remains on high alert. 
- <p class="updated_time"> 12:42 PM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 12:20 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html">Hundreds of Suicidal Teens Sleep in Emergency Rooms. Every Night.</a> NYT: With inpatient psychiatric services in short supply, adolescents are spending days, even weeks, in hospital emergency departments awaiting the help they desperately need. 
  <p class="updated_time"> 12:02 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61373349?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Bono sings with soldier in Kyiv metro station</a> BBC: The U2 frontman was seen singing at a downtown metro station covering the hit track Stand by Me. 
- <p class="updated_time"> 11:42 AM CT, May. 08 </p> 
+ <p class="updated_time"> 11:54 AM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/beijing-residents-keep-faith-with-governments-zero-covid-strategy-11651996670">Beijing Residents Keep Faith With Government’s Zero-Covid Strategy</a> WSJ: Beijing Residents Keep Faith With Government’s Zero-Covid Strategy 
  <p class="updated_time"> 11:32 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html">A U.N. Agency Gave $61 Million to One Family. It Didn’t Go Well.</a> NYT: A little-known United Nations agency decided to make an impact by doling out loans and grant money — all to a single family. It did not go well. 
@@ -273,7 +273,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:27 AM CT, May. 07 </p> 
  <a href="https://www.politico.com/news/2022/05/07/gop-steers-clear-of-roe-in-2022-battlegrounds-00030880">Threat to Roe puts GOP on defense in 2022 battlegrounds</a> Politico: "We’re going to talk about the economy, about energy, about the failed Biden policies, about the open border," said a top GOP strategist. 
  <p class="updated_time"> 11:00 AM CT, May. 07 </p> 
- <a href="https://www.nytimes.com/2022/05/07/us/politics/china-taiwan-weapons.html">U.S. Presses Taiwan to Buy Weapons More Suited to Win Against China</a> NYT: The Biden administration’s push for Taiwan to order missiles and smaller arms for asymmetric warfare has gained urgency since Russia’s invasion of Ukraine. 
+ <a href="https://www.nytimes.com/2022/05/07/us/politics/china-taiwan-weapons.html">Taiwan and U.S. Consider Weapons Suited to Defend Against China   </a> NYT: The Biden administration’s push for Taiwan to order missiles and smaller arms for asymmetric warfare has gained urgency since Russia’s invasion of Ukraine. 
  <p class="updated_time"> 11:00 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/us/politics/cuellar-cisneros-abortion-politics.html">For South Texas Democrats, an Intraparty Test of Abortion Politics</a> NYT: A staunchly anti-abortion Democrat in Congress will face a young abortion-rights supporter in a pivotal primary runoff. 
  <p class="updated_time"> 10:18 AM CT, May. 07 </p> 
