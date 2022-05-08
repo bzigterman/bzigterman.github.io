@@ -9,20 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
+ <a href="https://www.npr.org/2022/05/08/1097458577/first-lady-jill-biden-visits-ukrainian-refugees-in-slovakia">First Lady Jill Biden visits Ukrainian refugees in Slovakia</a> NPR: First Lady Jill Biden visited Romania and is spending time with Ukrainian refugees in Slovakia today. 
+ <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
+ <a href="https://www.npr.org/2022/05/08/1097458570/at-least-50-people-have-been-killed-in-an-airstrike-on-a-school-in-eastern-ukrai">At least 50 people have been killed in an airstrike on a school in eastern Ukraine</a> NPR: And in Mariupol, women, children and elderly civilians have been evacuated from the steel mill. Officials continue to work on humanitarian corridors for the rest of the city. 
+ <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
+ <a href="https://www.npr.org/2022/05/08/1097184192/russia-victory-day-2022">Russia's Victory Day celebrations take on new importance for the Kremlin this year</a> NPR: Russians celebrate Victory Day on Monday, May 9. The annual event marks the Soviet Union's victory over Nazi Germany in World War II, but it has taken on added importance this year because of Ukraine. 
  <p class="updated_time"> 06:26 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097458368/jill-biden-to-ukrainian-mom-russia-war-hard-to-understand">Jill Biden to Ukrainian mom: Russia war 'hard to understand'</a> NPR: U.S. first lady Jill Biden spent Mother's Day in Slovakia, meeting Ukrainian mothers who have been displaced by Russia's war and assuring them that the "hearts of the American people" are behind them. 
+ <p class="updated_time"> 06:19 AM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Ukrainian Weapons Coming From West</a> WSJ: Russia Says It Is Targeting Ukrainian Weapons Coming From West 
  <p class="updated_time"> 06:17 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097457937/dozens-feared-dead-after-russian-bomb-levels-ukraine-school">Dozens feared dead after Russian bomb levels Ukraine school</a> NPR: Dozens of Ukrainians are feared dead after a Russian bomb destroyed a school sheltering about 90 people as Moscow's invading forces kept up their barrage of eastern and southern Ukraine. 
  <p class="updated_time"> 06:17 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097097620/new-york-times-pulitzer-ukraine-walter-duranty">'The New York Times' can't shake the cloud over a 90-year-old Pulitzer Prize</a> NPR: In 1932, The New York Times' Walter Duranty won a Pulitzer for stories defending Soviet policies that led to the deaths of millions of Ukrainians. The Times disavows his work but not the prize. 
  <p class="updated_time"> 06:15 AM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61370905?at_medium=RSS&at_campaign=KARANGA">Two held in manhunt for axe attackers who killed three Israelis</a> BBC: Israeli police say the Palestinians were found hiding in bush near Elad where the attack took place. 
- <p class="updated_time"> 05:40 AM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Ukrainian Weapons Coming From West</a> WSJ: Russia Says It Is Targeting Ukrainian Weapons Coming From West 
  <p class="updated_time"> 05:30 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/middleeast/israel-suspects-arrested-attack.html">Israel Captures 2 Palestinian Suspects Linked to Deadly Ax Attack</a> NYT: The two men were caught hiding in a forest not far from the central town of Elad, where the killings were carried out. The detentions ended an intensive search. 
- <p class="updated_time"> 04:40 AM CT, May. 08 </p> 
+ <p class="updated_time"> 05:19 AM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/taliban-orders-women-to-cover-their-faces-11651934565">Taliban Orders Women to Cover Their Faces</a> WSJ: Taliban Orders Women to Cover Their Faces 
+ <p class="updated_time"> 04:19 AM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
  <p class="updated_time"> 04:19 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/asia/hong-kong-john-lee.html">John Lee Wins Hong Kong’s Rubber-Stamp Election</a> NYT: John Lee, who won a rubber-stamp leadership election on Sunday, will implement the next stage of China’s agenda for the former British colony. 
  <p class="updated_time"> 04:00 AM CT, May. 08 </p> 
@@ -31,15 +39,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/08/world/asia/afghanistan-eid-taliban.html">Eid Under the Taliban Shows a Changed Afghanistan</a> NYT: For many Afghans the holiday this week served as a reminder of the dissonance between the promise of peace many had imagined and the realities of the end of the war. 
  <p class="updated_time"> 04:00 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/books/fernanda-melchor-paradais.html">Fernanda Melchor Explores the Human Capacity for Violence, and Grace</a> NYT: “Art must leave a wound,” said the author, one of the most celebrated in new Latin American literature. 
- <p class="updated_time"> 03:40 AM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
+ <p class="updated_time"> 03:19 AM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/canadas-16-billion-rogers-shaw-telecom-deal-at-risk-over-antitrust-concerns-11651936534">Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns</a> WSJ: Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns 
  <p class="updated_time"> 03:15 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Here’s What Happened on Day 73 of the War in Ukraine</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
  <p class="updated_time"> 03:03 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097454242/patriotism-unease-mix-as-russia-marks-victory-day-in-wwii">Patriotism, unease mix as Russia marks Victory Day in WWII</a> NPR: The pride and patriotism usually associated with Russia's most important holiday is mixed with apprehension and unease over what this year's Victory Day may bring. 
- <p class="updated_time"> 02:40 AM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/canadas-16-billion-rogers-shaw-telecom-deal-at-risk-over-antitrust-concerns-11651936534">Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns</a> WSJ: Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns 
- <p class="updated_time"> 01:40 AM CT, May. 08 </p> 
+ <p class="updated_time"> 02:19 AM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 01:10 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097452601/crews-work-through-2nd-night-after-cuba-hotel-blast-kills-27">Crews work through 2nd night after Cuba hotel blast kills 27</a> NPR: Crews worked through a second night searching for victims of a hotel explosion that killed at least 27 people in Cuba's capital and left more than a dozen missing. 
@@ -98,7 +104,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:34 PM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097417453/sinn-fein-wins-assembly-election-northern-ireland">Sinn Fein celebrates an historic election win in Northern Ireland</a> NPR: The Irish nationalist party hailed a "new era" as it captured the largest number of seats in the Northern Ireland Assembly for the first time. 
  <p class="updated_time"> 01:21 PM CT, May. 07 </p> 
- <a href="https://www.npr.org/2022/05/07/1097413091/steel-plant-mariupol-azovstal-civilians-evacuated">All civilians have been evacuated from a besieged steel plant in Mariupol</a> NPR: Ukraine announced that all women, children and elderly had been evacuated from a steel plant, a key Russian war objective that has long been under siege. 
+ <a href="https://www.npr.org/2022/05/07/1097413091/steel-plant-mariupol-azovstal-civilians-evacuated">'All' civilians have been evacuated from a besieged steel plant in Mariupol</a> NPR: Ukraine announced that all women, children and elderly had been evacuated from a steel plant, a key Russian war objective that has long been under siege. 
  <p class="updated_time"> 12:44 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/george-cheeks-covid-positive-biden.html">CBS Presidents George Cheeks Tests Positive for Coronavirus</a> NYT: The network’s leader sat between the president and first lady, all unmasked, at the event. 
  <p class="updated_time"> 12:43 PM CT, May. 07 </p> 
@@ -117,8 +123,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/07/1097376932/families-of-ukrainian-soldiers-in-the-mariupol-steel-plant-plead-for-an-evacuati">Families of Ukrainian soldiers in the Mariupol steel plant plead for an evacuation</a> NPR: In the catacombs of a steel plant in Mariupol, Ukrainian soldiers stage a last stand against Russian occupation as their wives plead with aid groups to evacuate them along with civilians. 
  <p class="updated_time"> 08:06 AM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097376925/the-philippines-will-elect-a-new-leader-monday">The Philippines will elect a new leader Monday</a> NPR: Voters in the Philippines go to the polls Monday for that country's presidential elections. We take a look at the last days of the campaign there. 
- <p class="updated_time"> 07:05 AM CT, May. 07 </p> 
- <a href="https://www.npr.org/2022/05/07/1097376876/the-latest-on-the-refugee-crisis-in-ukraine">The latest on the refugee crisis in Ukraine</a> NPR: Scott Simon talks to David Miliband, CEO and president of the International Rescue Committee, about the ongoing refugee crisis in Ukraine. 
  <p class="updated_time"> 06:09 AM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61362551?at_medium=RSS&at_campaign=KARANGA">North Korea in new missile launch, say neighbours</a> BBC: The reported launch comes just days before South Korea's new president takes office. 
  <p class="updated_time"> 05:58 AM CT, May. 07 </p> 
@@ -157,10 +161,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/world/australia/elvis-presley-parkes.html">The Deeper Meaning of Elvis in Australia</a> NYT: I went to the Parkes Elvis Festival thinking I’d learn something about what America used to be. I left thinking more about Australia. 
  <p class="updated_time"> 05:43 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/australia/elvis-presley-festival-parkes.html">How the King of Rock ’n’ Roll Still Makes Australia Sing</a> NYT: Elvis never played a concert “down under,” but that hasn’t stopped tens of thousands of Australians from making him their own at an annual festival. 
- <p class="updated_time"> 04:07 PM CT, May. 06 </p> 
- <a href="https://www.npr.org/2022/05/06/1097190889/russia-ukraine-war-what-happened-today-may-6">Russia-Ukraine war: What happened today (May 6)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:05 PM CT, May. 06 </p> 
- <a href="https://www.npr.org/2022/05/06/1097261235/middle-east-expert-weighs-in-on-string-of-prison-releases-in-egypt">Middle East expert weighs in on string of prison releases in Egypt</a> NPR: NPR's Adrian Florido talks with Mirette Mabrouk, founding director of the Egypt program at the Middle East Institute, about the recent string of political prisoner releases in Egypt. 
  <p class="updated_time"> 03:53 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/belarus-sapega.html">Belarus Sentences the Russian Law Student Who Was a Dissident’s Girlfriend to Six Years in Prison</a> NYT: Sofia Sapega was traveling from Greece to Lithuania with her romantic partner, Roman Protasevich, when the Belarusian air traffic control diverted their plane to Minsk, where they were both arrested. 
  <p class="updated_time"> 01:20 PM CT, May. 06 </p> 
@@ -194,6 +194,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
+ <a href="https://www.npr.org/2022/05/08/1097458577/first-lady-jill-biden-visits-ukrainian-refugees-in-slovakia">First Lady Jill Biden visits Ukrainian refugees in Slovakia</a> NPR: First Lady Jill Biden visited Romania and is spending time with Ukrainian refugees in Slovakia today. 
+ <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
+ <a href="https://www.npr.org/2022/05/08/1097274169/when-does-life-begin-religions-dont-agree">When does life begin? Religions don't agree </a> NPR: Debates about abortion often center around the issue of when life begins. Some religions say it's at conception. Another says it's with the baby's first breath. 
  <p class="updated_time"> 06:01 AM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/hochul-looks-for-a-turnaround-after-her-roughest-stretch-yet-00030484">Abortion battle, new lieutenant boost Hochul’s election bid after rough stretch</a> Politico: New York governor's polling sagged as she dealt with an arrested lieutenant governor, a bruising budget battle and a weak campaign rollout. 
  <p class="updated_time"> 06:00 AM CT, May. 08 </p> 
@@ -300,10 +304,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/06/1097103804/house-vote-congressional-staffers-unionize">The House will vote on a measure to allow congressional staffers to unionize</a> NPR: House Speaker Nancy Pelosi said in a statement Friday that the House is expected to vote on a resolution next week that would allow congressional staffers to unionize. 
  <p class="updated_time"> 05:31 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1096676197/7-persistent-claims-about-abortion-fact-checked">7 persistent claims about abortion, fact-checked</a> NPR: Several not-quite-right claims have continued to linger about abortion since the Supreme Court's 1973 Roe v. Wade decision. 
- <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
- <a href="https://www.npr.org/2022/05/06/1096885897/roe-established-abortion-rights-20-years-later-casey-paved-the-way-for-restricti">Roe established abortion rights. 20 years later, Casey paved the way for restrictions</a> NPR: The 5-4 decision of Planned Parenthood v. Casey upheld Roe in 1992 but paved the way for more restrictions on abortion access. 
- <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
- <a href="https://www.npr.org/2022/05/06/1096890112/first-lady-jill-biden-romania-slovakia-border-nato-ukraine-refugees">Jill Biden heads to Romania and Slovakia to show support for NATO and Ukraine</a> NPR: Jill Biden's trip to the Slovakia-Ukraine border will be her most high-profile moment yet as first lady. On Mother's Day she meets with Ukrainian mothers and children who fled after Russia's invasion. 
  <p class="updated_time"> 03:30 AM CT, May. 06 </p> 
  <a href="https://www.politico.com/news/2022/05/06/capitol-house-staff-mistreatment-spartz-00030498">Amid an uproar over Capitol staff mistreatment, meet the House’s ‘worst boss’</a> Politico: Multiple former aides and other Republicans told POLITICO about the “trauma bonded” work environment of Rep. Victoria Spartz. 
  <p class="updated_time"> 03:30 AM CT, May. 06 </p> 
