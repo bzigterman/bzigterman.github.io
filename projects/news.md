@@ -15,33 +15,33 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/world/europe/france-president-emmanuel-macron-inauguration.html">Emmanuel Macron Inaugurated for a 2nd Term as France President</a> NYT: “Rarely has our world and our country confronted such a combination of challenges,” Mr. Macron said, promising to govern France more inclusively. 
  <p class="updated_time"> 03:07 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/americas/brazil-russian-fertilizer-sanctions.html">Brazil Replenishes Stockpiles of Russian Fertilizer</a> NYT: Officials expected the war to trap up to 15 percent of the world’s fertilizer exports in Russia. But Brazil and other countries have  found a way to get it. 
+ <p class="updated_time"> 03:05 PM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Embattled Ukraine Soldiers in Mariupol Say They Will Fight to the End</a> WSJ: Embattled Ukraine Soldiers in Mariupol Say They Will Fight to the End 
  <p class="updated_time"> 03:00 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/americas/bahamas-sandals-resort-americans-dead.html">3 Americans Die in Mysterious Circumstances at Bahamas Resort</a> NYT: It was unclear what happened but officials said they did not suspect foul play and there were no signs of trauma. Another guest was hospitalized in stable condition. 
- <p class="updated_time"> 02:50 PM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Embattled Ukraine Soldiers in Mariupol Say They Will Fight to the End</a> WSJ: Embattled Ukraine Soldiers in Mariupol Say They Will Fight to the End 
+ <p class="updated_time"> 02:05 PM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
  <p class="updated_time"> 02:04 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/g7-nations-russia-oil.html">G7 Nations Pledge to Ban or Phase Out the Import of Russian Oil</a> NYT: With much of Europe dependent on Russian oil, the Group of 7 said the ban would take effect in a “timely and orderly fashion.” 
- <p class="updated_time"> 01:50 PM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
  <p class="updated_time"> 01:18 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61373057?at_medium=RSS&at_campaign=KARANGA">UK YouTuber Benjamin Rich quizzed and fined at Russian space centre</a> BBC: Bald and Bankrupt vlogger Benjamin Rich says he was questioned by Russian police in Kazakhstan. 
+ <p class="updated_time"> 01:05 PM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 12:56 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61373192?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: The protests unifying a nation where ethnic fault lines run deep</a> BBC: Unprecedented protests in Colombo are unifying a nation where ethnic fault lines run deep. 
- <p class="updated_time"> 12:50 PM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 12:46 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/middleeast/israel-suspects-arrested-attack.html">Israel Captures 2 Palestinians Suspected in Deadly Ax Attack</a> NYT: The two men were caught hiding in a forest not far from where the killings were carried out, ending an intensive search. But the country remains on high alert. 
  <p class="updated_time"> 12:20 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html">Hundreds of Suicidal Teens Sleep in Emergency Rooms. Every Night.</a> NYT: With inpatient psychiatric services in short supply, adolescents are spending days, even weeks, in hospital emergency departments awaiting the help they desperately need. 
+ <p class="updated_time"> 12:05 PM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 12:02 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61373349?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Bono sings with soldier in Kyiv metro station</a> BBC: The U2 frontman was seen singing at a downtown metro station covering the hit track Stand by Me. 
- <p class="updated_time"> 11:50 AM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 11:32 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html">A U.N. Agency Gave $61 Million to One Family. It Didn’t Go Well.</a> NYT: A little-known United Nations agency decided to make an impact by doling out loans and grant money — all to a single family. It did not go well. 
  <p class="updated_time"> 11:30 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2022/05/08/255430549/in-mothercoin-the-labor-of-love-transcends-borders">In 'Mothercoin', the labor of love transcends borders</a> NPR: Mothercoin, by Elizabeth Cummins Muñoz, takes an intimate look at the lives of immigrant nannies in Houston, and how their work in private homes affects their relationship with their own children. 
- <p class="updated_time"> 10:50 AM CT, May. 08 </p> 
+ <p class="updated_time"> 11:05 AM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/beijing-residents-keep-faith-with-governments-zero-covid-strategy-11651996670">Beijing Residents Keep Faith With Government’s Zero-Covid Strategy</a> WSJ: Beijing Residents Keep Faith With Government’s Zero-Covid Strategy 
  <p class="updated_time"> 09:57 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Here’s What Happened on Day 73 of the War in Ukraine</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
@@ -53,8 +53,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/08/world/europe/russia-airstrike-school-ukraine.html">Dozens Feared Dead After Russian Airstrike Hits School Building, Officials Say</a> NYT: Initial reports suggested that as many as 60 people were trapped inside the building, which officials said was being used as a shelter for civilians. 
  <p class="updated_time"> 09:20 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/russia-may-9-victory-day-ukraine.html">How Putin Has Hijacked Russia’s May 9 Holiday, Victory Day</a> NYT: Under President Vladimir V. Putin, Victory Day, marking the defeat of Nazi Germany, has come to celebrate modern Russian military might. The war in Ukraine is shifting its meaning further. 
- <p class="updated_time"> 09:08 AM CT, May. 08 </p> 
- <a href="https://www.nytimes.com/2022/05/08/world/europe/jill-biden-ukraine.html">Jill Biden Visits Ukraine, and Meets With Zelensky’s Wife</a> NYT: The first lady became the latest high-profile person close to President Biden to travel to Ukraine, visiting a school close to the western border. 
  <p class="updated_time"> 08:26 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/northern-ireland-sinn-fein.html">Northern Ireland Turns to Sinn Fein</a> NYT: Election results reflected the demoralization of unionist voters, the disarray of their leaders and an electorate with new priorities — much of which can be traced to Brexit. 
  <p class="updated_time"> 08:26 AM CT, May. 08 </p> 
@@ -187,6 +185,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/business/philippines-election-disinformation.html">In the Philippines, a Flourishing Ecosystem for Political Lies</a> NYT: Supporters of Ferdinand Marcos Jr. are using live video to spread misinformation on social media. Voters have become inured to the situation, researchers fear. 
  <p class="updated_time"> 09:42 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/keir-starmer-covid-restrictions-beergate.html">U.K. Police Reopen Lockdown Inquiry into Labour Leader Keir Starmer</a> NYT: The police are taking another look at allegations that Keir Starmer drank beer in a lawmaker’s office, potentially subjecting him to political headaches similar to those suffered by Boris Johnson. 
+ <p class="updated_time"> 04:54 AM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/world/jill-biden-europe-ukraine.html">Jill Biden Embarks on Trip to Eastern Europe to Visit Ukrainian Refugees</a> NYT: The first lady is also scheduled to tour the Slovakian border with Ukraine, becoming the latest high-profile Biden administration official to come close to the conflict zone. 
  <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/travel/mexico-timothy-leary-psychedelics.html">A Psychedelic Trip to Timothy Leary’s Catalina Resort in Mexico</a> NYT: Most travelers descending on Zihuatanejo are unaware of the resort city’s storied past with the apostle of psychedelic drugs, and his experiments in consciousness expansion. 
  <p class="updated_time"> 01:03 AM CT, May. 06 </p> 
@@ -204,7 +204,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 03:45 PM CT, May. 08 </p> 
+ <p class="updated_time"> 03:59 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/us/politics/jill-biden-ukraine-trip.html">Jill Biden’s Secret Ukraine Trip</a> NYT: Ukrainian officials reached out several days ahead of Dr. Biden’s planned four-day tour of Eastern Europe to suggest a meeting with the Ukrainian first lady. The East Wing took the chance. 
  <p class="updated_time"> 03:38 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/us/politics/midterms-abortion-pennsylvania.html">Midterms’ Biggest Abortion Battleground: Pennsylvania</a> NYT: The leading Republicans running for governor in the state want to outlaw abortion. The presumptive Democratic nominee promises to veto any ban. 
