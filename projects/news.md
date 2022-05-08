@@ -9,14 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:23 AM CT, May. 08 </p> 
+ <a href="https://www.nytimes.com/2022/05/08/world/europe/russia-airstrike-school-ukraine.html">Dozens Feared Dead After Russian Airstrike Hits School Building, Officials Say</a> NYT: Initial reports suggested that as many as 60 people were trapped inside the building, which officials said was being used as a shelter for civilians. 
+ <p class="updated_time"> 09:20 AM CT, May. 08 </p> 
+ <a href="https://www.nytimes.com/2022/05/08/world/europe/russia-may-9-victory-day-ukraine.html">May 9 Is a Revered Day in Russia. For Many, Putin Has Hijacked It.</a> NYT: Under President Vladimir V. Putin, Victory Day, marking the defeat of Nazi Germany, has come to celebrate modern Russian military might. The war in Ukraine is shifting its meaning further. 
  <p class="updated_time"> 09:08 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/jill-biden-ukraine.html">Jill Biden Visits Ukraine, and Meets With Zelensky’s Wife</a> NYT: The first lady became the latest high-profile person close to President Biden to travel to Ukraine, visiting a school close to the western border. 
+ <p class="updated_time"> 08:37 AM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Russian Airstrike Kills Villagers Taking Shelter at School, Ukraine Says</a> WSJ: Russian Airstrike Kills Villagers Taking Shelter at School, Ukraine Says 
  <p class="updated_time"> 08:26 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/northern-ireland-sinn-fein.html">Northern Ireland Turns to Sinn Fein</a> NYT: Election results reflected the demoralization of unionist voters, the disarray of their leaders and an electorate with new priorities — much of which can be traced to Brexit. 
  <p class="updated_time"> 08:26 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097460153/ukraine-jill-biden-visit-mothers-day">Jill Biden visits Ukraine, making her first solo trip to a combat zone as first lady</a> NPR: On Mother's Day, Biden met with Ukraine's first lady, Olena Zelenska, who has been in hiding with her children since Russia's invasion began. 
- <p class="updated_time"> 08:23 AM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Russian Airstrike Kills Villagers Taking Shelter at School, Ukraine Says</a> WSJ: Russian Airstrike Kills Villagers Taking Shelter at School, Ukraine Says 
  <p class="updated_time"> 08:20 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/06/science/great-pacific-garbage-patch-pollution.html">The Ocean’s Biggest Garbage Pile Is Full of Floating Life</a> NYT: Researchers found that small sea creatures exist in equal number with pieces of plastic in parts of the Great Pacific Garbage Patch, which could have implications for cleaning up ocean pollution. 
  <p class="updated_time"> 08:00 AM CT, May. 08 </p> 
@@ -27,7 +31,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html">Why Did a U.N. Agency Give a Family $61 Million?</a> NYT: A little-known United Nations agency decided to make an impact by doling out loans and grant money — all to a single family. It did not go well. 
  <p class="updated_time"> 07:45 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097458605/taliban-declares-women-and-girls-must-cover-up-from-head-to-toe-in-public">Taliban declares women and girls must cover up from head to toe in public</a> NPR: The Taliban in Afghanistan have instructed that women cover up in public from head to toe, including their faces. NPR correspondent Diaa Hadid has been talking to women affected by the change. 
- <p class="updated_time"> 07:23 AM CT, May. 08 </p> 
+ <p class="updated_time"> 07:37 AM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
  <p class="updated_time"> 07:17 AM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-61370175?at_medium=RSS&at_campaign=KARANGA">EasyJet to take out seats so it can fly with fewer crew</a> BBC: The airline plans to remove a row of seats so that it can fly with fewer cabin crew on board. 
@@ -37,21 +41,21 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/08/1097458570/at-least-50-people-have-been-killed-in-an-airstrike-on-a-school-in-eastern-ukrai">At least 50 people have been killed in an airstrike on a school in eastern Ukraine</a> NPR: And in Mariupol, women, children and elderly civilians have been evacuated from the steel mill. Officials continue to work on humanitarian corridors for the rest of the city. 
  <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097184192/russia-victory-day-2022">Russia's Victory Day celebrations take on new importance for the Kremlin this year</a> NPR: Russians celebrate Victory Day on Monday, May 9. The annual event marks the Soviet Union's victory over Nazi Germany in World War II, but it has taken on added importance this year because of Ukraine. 
+ <p class="updated_time"> 06:37 AM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 06:26 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097458368/jill-biden-to-ukrainian-mom-russia-war-hard-to-understand">Jill Biden to Ukrainian mom: Russia war 'hard to understand'</a> NPR: U.S. first lady Jill Biden spent Mother's Day in Slovakia, meeting Ukrainian mothers who have been displaced by Russia's war and assuring them that the "hearts of the American people" are behind them. 
- <p class="updated_time"> 06:23 AM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 06:17 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097457937/dozens-feared-dead-after-russian-bomb-levels-ukraine-school">Dozens feared dead after Russian bomb levels Ukraine school</a> NPR: Dozens of Ukrainians are feared dead after a Russian bomb destroyed a school sheltering about 90 people as Moscow's invading forces kept up their barrage of eastern and southern Ukraine. 
  <p class="updated_time"> 06:17 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097097620/new-york-times-pulitzer-ukraine-walter-duranty">'The New York Times' can't shake the cloud over a 90-year-old Pulitzer Prize</a> NPR: In 1932, The New York Times' Walter Duranty won a Pulitzer for stories defending Soviet policies that led to the deaths of millions of Ukrainians. The Times disavows his work but not the prize. 
  <p class="updated_time"> 06:15 AM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61370905?at_medium=RSS&at_campaign=KARANGA">Two held in manhunt for axe attackers who killed three Israelis</a> BBC: Israeli police say the Palestinians were found hiding in bush near Elad where the attack took place. 
+ <p class="updated_time"> 05:37 AM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-committee-confirms-ex-policeman-john-lee-as-next-chief-executive-11652009425">John Lee Is Confirmed as Hong Kong’s Next Chief Executive</a> WSJ: John Lee Is Confirmed as Hong Kong’s Next Chief Executive 
  <p class="updated_time"> 05:30 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/middleeast/israel-suspects-arrested-attack.html">Israel Captures 2 Palestinian Suspects Linked to Deadly Ax Attack</a> NYT: The two men were caught hiding in a forest not far from the central town of Elad, where the killings were carried out. The detentions ended an intensive search. 
- <p class="updated_time"> 05:23 AM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-committee-confirms-ex-policeman-john-lee-as-next-chief-executive-11652009425">John Lee Is Confirmed as Hong Kong’s Next Chief Executive</a> WSJ: John Lee Is Confirmed as Hong Kong’s Next Chief Executive 
- <p class="updated_time"> 04:23 AM CT, May. 08 </p> 
+ <p class="updated_time"> 04:37 AM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/beijing-residents-keep-faith-with-governments-zero-covid-strategy-11651996670">Beijing Residents Keep Faith With Government’s Zero-Covid Strategy</a> WSJ: Beijing Residents Keep Faith With Government’s Zero-Covid Strategy 
  <p class="updated_time"> 04:19 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/asia/hong-kong-john-lee.html">John Lee Wins Hong Kong’s Rubber-Stamp Election</a> NYT: John Lee, who won a rubber-stamp leadership election on Sunday, will implement the next stage of China’s agenda for the former British colony. 
@@ -196,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:30 AM CT, May. 08 </p> 
+ <a href="https://www.politico.com/news/2022/05/08/supreme-court-justices-misled-the-senate-gillibrand-said-00030900">Supreme Court justices 'misled the Senate,' Gillibrand said</a> Politico: “If a corporation put these kind of statements in their quarterly filings, they would be seen to be purposefully misleading and deemed fraud,” the New York senator said. 
  <p class="updated_time"> 08:46 AM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/lindsey-graham-ukraine-russia-00030898">No way to negotiate end to Russia-Ukraine war, Graham says</a> Politico: "There is no off-ramp in this war," the South Carolina Republican said. 
  <p class="updated_time"> 08:26 AM CT, May. 08 </p> 
@@ -260,8 +266,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/07/1097378826/florida-election-law-appeals-court-reinstates">An appeals court reinstates portions of Florida's new election law</a> NPR: A federal appeals court granted Florida's request to reinstate parts of the state's election law while it appeals a lower court's decision that the law was aimed at suppressing Black voters. 
  <p class="updated_time"> 07:05 AM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097376869/week-in-politics-congress-scrambles-to-protect-rights-guaranteed-in-roe-v-wade">Week in politics: Congress scrambles to protect rights guaranteed in Roe v. Wade</a> NPR: We look at what the leaked Supreme Court draft opinion on abortion means for midterm elections and what Congress can do to guard access to contraception and same-sex marriage from a similar fate. 
- <p class="updated_time"> 06:01 AM CT, May. 07 </p> 
- <a href="https://www.politico.com/news/2022/05/07/i-dont-know-how-my-son-will-survive-inside-the-dangerous-shortage-of-specialty-formulas-00030787">'I don’t know how my son will survive': Inside the dangerous shortage of specialty formulas</a> Politico: The shutdown of a Michigan infant formula plant has disrupted the supply of products that are a lifeline for thousands of people with rare medical conditions. 
  <p class="updated_time"> 06:00 AM CT, May. 07 </p> 
  <a href="https://www.politico.com/news/2022/05/07/idaho-gop-primary-elections-00030788">Idaho GOP riven by primary civil war</a> Politico: A charged-up version of the divisions playing out nationally set off primaries against the sitting governor, attorney general and a congressman. 
  <p class="updated_time"> 04:00 AM CT, May. 07 </p> 
