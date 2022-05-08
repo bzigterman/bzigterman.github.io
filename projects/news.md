@@ -13,34 +13,34 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61369229?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Dozens feared dead after bomb hits school</a> BBC: A Ukrainian official says 60 people may be dead after an air strike on a village school in Luhansk. 
  <p class="updated_time"> 02:36 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Here’s What Happened on Day 73 of the War in Ukraine</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
- <p class="updated_time"> 01:48 AM CT, May. 08 </p> 
+ <p class="updated_time"> 02:00 AM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Ukrainian Weapons Coming From West</a> WSJ: Russia Says It Is Targeting Ukrainian Weapons Coming From West 
  <p class="updated_time"> 01:10 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097452601/crews-work-through-2nd-night-after-cuba-hotel-blast-kills-27">Crews work through 2nd night after Cuba hotel blast kills 27</a> NPR: Crews worked through a second night searching for victims of a hotel explosion that killed at least 27 people in Cuba's capital and left more than a dozen missing. 
+ <p class="updated_time"> 01:00 AM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/taliban-orders-women-to-cover-their-faces-11651934565">Taliban Orders Women to Cover Their Faces</a> WSJ: Taliban Orders Women to Cover Their Faces 
  <p class="updated_time"> 12:59 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097452402/beijing-loyalist-john-lee-elected-as-hong-kongs-next-leader">Beijing loyalist John Lee elected as Hong Kong's next leader</a> NPR: John Lee was elected as Hong Kong's next leader Sunday by an election committee comprised of nearly 1,500 largely pro-Beijing members. 
- <p class="updated_time"> 12:48 AM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/taliban-orders-women-to-cover-their-faces-11651934565">Taliban Orders Women to Cover Their Faces</a> WSJ: Taliban Orders Women to Cover Their Faces 
  <p class="updated_time"> 12:01 AM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61351772?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Returning to the place my father was killed</a> BBC: As Vadim and his father tried to rescue their dogs, they were fired upon by a convoy they believe was Russian. 
+ <p class="updated_time"> 12:00 AM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
  <p class="updated_time"> 11:57 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61365365?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Rebuilt Kyiv railway bridge a symbol of hope</a> BBC: A railway bridge close to Kyiv has been rebuilt, just a month after it was destroyed by Russian attacks. 
- <p class="updated_time"> 11:48 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
  <p class="updated_time"> 11:47 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61361827?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'If this is true, then I am also a Nazi'</a> BBC: Holocaust survivors in the Ukrainian city of Uman feel insulted by Russian claims to be fighting Nazis. 
  <p class="updated_time"> 11:45 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61345463?at_medium=RSS&at_campaign=KARANGA">Hong Kong's John Lee: Ex-security chief becomes new leader</a> BBC: John Lee's appointment is being seen as a move by China to tighten its grip on the city. 
- <p class="updated_time"> 10:48 PM CT, May. 07 </p> 
+ <p class="updated_time"> 11:00 PM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/canadas-16-billion-rogers-shaw-telecom-deal-at-risk-over-antitrust-concerns-11651936534">Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns</a> WSJ: Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns 
  <p class="updated_time"> 10:44 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/middleeast/egypt-sinai-militants-attack.html">Militants Kill 11 Egyptian Troops in Sinai</a> NYT: The militants ambushed troops guarding a water-pumping facility, before fleeing to the desert in Northern Sinai. 
  <p class="updated_time"> 10:26 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61367797?at_medium=RSS&at_campaign=KARANGA">New Mexico wildfire: Huge blaze could worsen this weekend</a> BBC: "Historic" extreme weather likely to stoke New Mexico fire, which is already the size of Chicago. 
+ <p class="updated_time"> 10:00 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 09:54 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61367800?at_medium=RSS&at_campaign=KARANGA">Kentucky Derby: 80-1 outsider Rich Strike pulls off historic upset</a> BBC: Rich Strike, a 80-1 outsider, won the race despite only being brought in after a horse dropped out. 
- <p class="updated_time"> 09:48 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 09:47 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/russia-ukraine-kharkiv-victory-day.html">Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
  <p class="updated_time"> 09:23 PM CT, May. 07 </p> 
