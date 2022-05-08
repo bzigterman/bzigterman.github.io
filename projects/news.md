@@ -11,30 +11,32 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 10:44 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/middleeast/egypt-sinai-militants-attack.html">Militants Kill 11 Egyptian Troops in Sinai</a> NYT: The militants ambushed troops guarding a water-pumping facility, before fleeing to the desert in Northern Sinai. 
+ <p class="updated_time"> 10:43 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Ukrainian Weapons Coming From West</a> WSJ: Russia Says It Is Targeting Ukrainian Weapons Coming From West 
  <p class="updated_time"> 10:26 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61367797?at_medium=RSS&at_campaign=KARANGA">New Mexico wildfire: Huge blaze could worsen this weekend</a> BBC: "Historic" extreme weather likely to stoke New Mexico fire, which is already the size of Chicago. 
  <p class="updated_time"> 10:18 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Live Updates: Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
- <p class="updated_time"> 10:09 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Ukrainian Weapons Coming From West</a> WSJ: Russia Says It Is Targeting Ukrainian Weapons Coming From West 
  <p class="updated_time"> 09:54 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61367800?at_medium=RSS&at_campaign=KARANGA">Kentucky Derby: 80-1 outsider Rich Strike pulls off historic upset</a> BBC: Rich Strike, a 80-1 outsider, won the race despite only being brought in after a horse dropped out. 
  <p class="updated_time"> 09:47 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/russia-ukraine-kharkiv-victory-day.html">Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
+ <p class="updated_time"> 09:43 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/taliban-orders-women-to-cover-their-faces-11651934565">Taliban Orders Women to Cover Their Faces</a> WSJ: Taliban Orders Women to Cover Their Faces 
  <p class="updated_time"> 09:23 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html">Why Did a U.N. Agency Give a Family $61 Million?</a> NYT: A little-known United Nations agency decided to make an impact by doling out loans and grant money — all to a single family. It did not go well. 
  <p class="updated_time"> 09:20 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/asia/john-lee-hong-kong-election.html">In Hong Kong Election, John Lee Is Running Uncontested</a> NYT: John Lee, a Beijing loyalist who oversaw the crackdown on pro-democracy protests, built his career by deepening his contacts within the mainland security services. 
- <p class="updated_time"> 09:09 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/taliban-orders-women-to-cover-their-faces-11651934565">Taliban Orders Women to Cover Their Faces</a> WSJ: Taliban Orders Women to Cover Their Faces 
- <p class="updated_time"> 08:09 PM CT, May. 07 </p> 
+ <p class="updated_time"> 08:43 PM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
- <p class="updated_time"> 07:09 PM CT, May. 07 </p> 
+ <p class="updated_time"> 07:43 PM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/canadas-16-billion-rogers-shaw-telecom-deal-at-risk-over-antitrust-concerns-11651936534">Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns</a> WSJ: Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns 
  <p class="updated_time"> 06:50 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61348287?at_medium=RSS&at_campaign=KARANGA">Viewpoint: Putin now faces only different kinds of defeat</a> BBC: Russia's Victory Day parade won't represent any sort of victory over Ukraine, writes defence analyst Michael Clarke. 
  <p class="updated_time"> 06:44 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/blogs-trending-61339293?at_medium=RSS&at_campaign=KARANGA">Philippines election: 'Politicians hire me to spread fake stories'</a> BBC: Voters in the Philippines presidential election are facing an onslaught of online lies. 
+ <p class="updated_time"> 06:43 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 06:40 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61318783?at_medium=RSS&at_campaign=KARANGA">KwaZulu-Natal floods: The South African family who lost nine children</a> BBC: Mass funerals are held in South Africa after the country's most deadly natural disaster. 
  <p class="updated_time"> 06:38 PM CT, May. 07 </p> 
@@ -43,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61346864?at_medium=RSS&at_campaign=KARANGA">Acid attack survivors in Mexico: 'Justice is not enough'</a> BBC: Carmen Sanchez launched her foundation in Mexico to help survivors of attacks rebuild their lives. 
  <p class="updated_time"> 06:09 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61338799?at_medium=RSS&at_campaign=KARANGA">The return of California's butterflies</a> BBC: Efforts to protect these beautiful insects include driving electric tractors and hand-rearing them in a lab. 
- <p class="updated_time"> 06:09 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 06:09 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61328696?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Why 9 May matters to Russia</a> BBC: Ros Atkins explains why Victory Day is such an important date in Russia. 
  <p class="updated_time"> 06:06 PM CT, May. 07 </p> 
