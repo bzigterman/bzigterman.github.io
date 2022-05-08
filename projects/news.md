@@ -9,12 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:35 AM CT, May. 08 </p> 
+ <a href="https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html">Hundreds of Suicidal Teens Sleep in Emergency Rooms. Every Night.</a> NYT: With inpatient psychiatric services in short supply, adolescents are spending days, even weeks, in hospital emergency departments awaiting the help they desperately need. 
+ <p class="updated_time"> 11:32 AM CT, May. 08 </p> 
+ <a href="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html">A U.N. Agency Gave $61 Million to One Family. It Didn’t Go Well.</a> NYT: A little-known United Nations agency decided to make an impact by doling out loans and grant money — all to a single family. It did not go well. 
  <p class="updated_time"> 11:30 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2022/05/08/255430549/in-mothercoin-the-labor-of-love-transcends-borders">In 'Mothercoin', the labor of love transcends borders</a> NPR: Mothercoin, by Elizabeth Cummins Muñoz, takes an intimate look at the lives of immigrant nannies in Houston, and how their work in private homes affects their relationship with their own children. 
- <p class="updated_time"> 10:54 AM CT, May. 08 </p> 
- <a href="https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html">Hundreds of Suicidal Teens Sleep in Emergency Rooms. Every Night.</a> NYT: With inpatient psychiatric services in short supply, adolescents are spending days, even weeks, in hospital emergency departments awaiting the help they desperately need. 
- <p class="updated_time"> 10:35 AM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Russian Airstrike Kills Villagers Taking Shelter at School, Ukraine Says</a> WSJ: Russian Airstrike Kills Villagers Taking Shelter at School, Ukraine Says 
+ <p class="updated_time"> 11:00 AM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Embattled Ukraine Soldiers in Mariupol Say They Will Fight to the End</a> WSJ: Embattled Ukraine Soldiers in Mariupol Say They Will Fight to the End 
+ <p class="updated_time"> 10:00 AM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
  <p class="updated_time"> 09:57 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Here’s What Happened on Day 73 of the War in Ukraine</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
  <p class="updated_time"> 09:57 AM CT, May. 08 </p> 
@@ -23,15 +27,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/08/world/americas/brazil-russian-fertilizer-sanctions.html">Brazil Replenishes Stockpiles of Russian Fertilizer</a> NYT: Officials expected the war to trap up to 15 percent of the world’s fertilizer exports in Russia. But Brazil and other countries have  found a way to get it. 
  <p class="updated_time"> 09:45 AM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61370906?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Zelensky WW2 speech accuses Russia of Nazi atrocities</a> BBC: The Ukrainian leader compares Russia's invasion of his country to wartime Nazi bombings. 
- <p class="updated_time"> 09:35 AM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
  <p class="updated_time"> 09:23 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/russia-airstrike-school-ukraine.html">Dozens Feared Dead After Russian Airstrike Hits School Building, Officials Say</a> NYT: Initial reports suggested that as many as 60 people were trapped inside the building, which officials said was being used as a shelter for civilians. 
  <p class="updated_time"> 09:20 AM CT, May. 08 </p> 
- <a href="https://www.nytimes.com/2022/05/08/world/europe/russia-may-9-victory-day-ukraine.html">May 9 Is a Revered Day in Russia. For Many, Putin Has Hijacked It.</a> NYT: Under President Vladimir V. Putin, Victory Day, marking the defeat of Nazi Germany, has come to celebrate modern Russian military might. The war in Ukraine is shifting its meaning further. 
+ <a href="https://www.nytimes.com/2022/05/08/world/europe/russia-may-9-victory-day-ukraine.html">How Putin Has Hijacked Russia’s May 9 Holiday, Victory Day</a> NYT: Under President Vladimir V. Putin, Victory Day, marking the defeat of Nazi Germany, has come to celebrate modern Russian military might. The war in Ukraine is shifting its meaning further. 
  <p class="updated_time"> 09:08 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/jill-biden-ukraine.html">Jill Biden Visits Ukraine, and Meets With Zelensky’s Wife</a> NYT: The first lady became the latest high-profile person close to President Biden to travel to Ukraine, visiting a school close to the western border. 
- <p class="updated_time"> 08:35 AM CT, May. 08 </p> 
+ <p class="updated_time"> 09:00 AM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 08:26 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/northern-ireland-sinn-fein.html">Northern Ireland Turns to Sinn Fein</a> NYT: Election results reflected the demoralization of unionist voters, the disarray of their leaders and an electorate with new priorities — much of which can be traced to Brexit. 
@@ -39,12 +41,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/08/1097460153/ukraine-jill-biden-visit-mothers-day">Jill Biden visits Ukraine, making her first solo trip to a combat zone as first lady</a> NPR: On Mother's Day, Biden met with Ukraine's first lady, Olena Zelenska, who has been in hiding with her children since Russia's invasion began. 
  <p class="updated_time"> 08:20 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/06/science/great-pacific-garbage-patch-pollution.html">The Ocean’s Biggest Garbage Pile Is Full of Floating Life</a> NYT: Researchers found that small sea creatures exist in equal number with pieces of plastic in parts of the Great Pacific Garbage Patch, which could have implications for cleaning up ocean pollution. 
- <p class="updated_time"> 07:57 AM CT, May. 08 </p> 
- <a href="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html">Why Did a U.N. Agency Give a Family $25 Million?</a> NYT: A little-known United Nations agency decided to make an impact by doling out loans and grant money — all to a single family. It did not go well. 
+ <p class="updated_time"> 08:00 AM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 07:45 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097458605/taliban-declares-women-and-girls-must-cover-up-from-head-to-toe-in-public">Taliban declares women and girls must cover up from head to toe in public</a> NPR: The Taliban in Afghanistan have instructed that women cover up in public from head to toe, including their faces. NPR correspondent Diaa Hadid has been talking to women affected by the change. 
- <p class="updated_time"> 07:35 AM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 07:17 AM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-61370175?at_medium=RSS&at_campaign=KARANGA">EasyJet to take out seats so it can fly with fewer crew</a> BBC: The airline plans to remove a row of seats so that it can fly with fewer cabin crew on board. 
  <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
@@ -53,7 +53,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/08/1097458570/at-least-50-people-have-been-killed-in-an-airstrike-on-a-school-in-eastern-ukrai">At least 50 people have been killed in an airstrike on a school in eastern Ukraine</a> NPR: And in Mariupol, women, children and elderly civilians have been evacuated from the steel mill. Officials continue to work on humanitarian corridors for the rest of the city. 
  <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097184192/russia-victory-day-2022">Russia's Victory Day celebrations take on new importance for the Kremlin this year</a> NPR: Russians celebrate Victory Day on Monday, May 9. The annual event marks the Soviet Union's victory over Nazi Germany in World War II, but it has taken on added importance this year because of Ukraine. 
- <p class="updated_time"> 06:35 AM CT, May. 08 </p> 
+ <p class="updated_time"> 07:00 AM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/beijing-residents-keep-faith-with-governments-zero-covid-strategy-11651996670">Beijing Residents Keep Faith With Government’s Zero-Covid Strategy</a> WSJ: Beijing Residents Keep Faith With Government’s Zero-Covid Strategy 
  <p class="updated_time"> 06:26 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097458368/jill-biden-to-ukrainian-mom-russia-war-hard-to-understand">Jill Biden to Ukrainian mom: Russia war 'hard to understand'</a> NPR: U.S. first lady Jill Biden spent Mother's Day in Slovakia, meeting Ukrainian mothers who have been displaced by Russia's war and assuring them that the "hearts of the American people" are behind them. 
@@ -202,6 +202,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:42 AM CT, May. 08 </p> 
+ <a href="https://www.politico.com/news/2022/05/08/michigan-ag-refuses-draconian-1931-law-00030912">Michigan AG refuses 'draconian' 1931 abortion law</a> Politico: Dana Nessel said she’s hopeful the Michigan Supreme Court will find that the right to an abortion is fundamental under the state’s constitution. 
+ <p class="updated_time"> 11:32 AM CT, May. 08 </p> 
+ <a href="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html">A U.N. Agency Gave $61 Million to One Family. It Didn’t Go Well.</a> NYT: A little-known United Nations agency decided to make an impact by doling out loans and grant money — all to a single family. It did not go well. 
  <p class="updated_time"> 11:30 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2022/05/08/255430549/in-mothercoin-the-labor-of-love-transcends-borders">In 'Mothercoin', the labor of love transcends borders</a> NPR: Mothercoin, by Elizabeth Cummins Muñoz, takes an intimate look at the lives of immigrant nannies in Houston, and how their work in private homes affects their relationship with their own children. 
  <p class="updated_time"> 11:00 AM CT, May. 08 </p> 
@@ -218,8 +222,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/08/lindsey-graham-ukraine-russia-00030898">No way to negotiate end to Russia-Ukraine war, Graham says</a> Politico: "There is no off-ramp in this war," the South Carolina Republican said. 
  <p class="updated_time"> 08:26 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097460153/ukraine-jill-biden-visit-mothers-day">Jill Biden visits Ukraine, making her first solo trip to a combat zone as first lady</a> NPR: On Mother's Day, Biden met with Ukraine's first lady, Olena Zelenska, who has been in hiding with her children since Russia's invasion began. 
- <p class="updated_time"> 07:57 AM CT, May. 08 </p> 
- <a href="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html">Why Did a U.N. Agency Give a Family $25 Million?</a> NYT: A little-known United Nations agency decided to make an impact by doling out loans and grant money — all to a single family. It did not go well. 
  <p class="updated_time"> 07:43 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097458598/politics-chat-democrats-focus-on-abortion-rights-while-republicans-focus-on-leak">Politics chat: Democrats focus on abortion rights while Republicans focus on leak</a> NPR: Abortion is now front and center on the minds of many Democrats, but surprisingly many Republicans are focusing more on the leak of the Supreme Court draft opinion, not on the substance of it. 
  <p class="updated_time"> 07:17 AM CT, May. 08 </p> 
@@ -246,8 +248,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/07/judge-spares-clinton-camp-in-sussmann-ruling-00030887">Judge spares Clinton camp in Sussmann ruling</a> Politico: The decision issued Saturday afternoon limits evidence and testimony prosecutors can offer against attorney Michael Sussmann at a jury trial set to get underway later this month. 
  <p class="updated_time"> 04:44 PM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097434985/jill-biden-tours-romanian-school-that-brought-in-ukrainian-refugees">Jill Biden tours Romanian school that brought in Ukrainian refugees</a> NPR: First Lady Jill Biden visited with Ukrainian refugees in Bucharest while on a four-day trip to Romania and Slovakia — two NATO allies that border Ukraine. 
- <p class="updated_time"> 04:14 PM CT, May. 07 </p> 
- <a href="https://www.politico.com/news/2022/05/07/grand-jury-indicts-suspect-brooklyn-subway-mass-shooting-00030885">Grand jury indicts suspect in Brooklyn subway mass shooting</a> Politico: Frank James is jailed without bail. An arraignment hasn't yet been scheduled. 
  <p class="updated_time"> 03:51 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/politics/republicans-abortion.html">Republicans Recast Abortion Stance, Wary of Voter Backlash</a> NYT: While Democrats decry a draft opinion that would eliminate the constitutional right to an abortion, Republicans who worked decades for this moment have been largely silent. 
  <p class="updated_time"> 02:02 PM CT, May. 07 </p> 
