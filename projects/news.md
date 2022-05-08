@@ -9,12 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:59 PM CT, May. 07 </p> 
+ <p class="updated_time"> 09:54 PM CT, May. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61367800?at_medium=RSS&at_campaign=KARANGA">Kentucky Derby: 80-1 outsider Rich Strike pulls off historic upset</a> BBC: Rich Strike, a 80-1 outsider, won the race despite only being brought in after a horse dropped out. 
+ <p class="updated_time"> 09:47 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Live Updates: Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
- <p class="updated_time"> 07:22 PM CT, May. 07 </p> 
+ <p class="updated_time"> 09:47 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/russia-ukraine-kharkiv-victory-day.html">Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
- <p class="updated_time"> 07:20 PM CT, May. 07 </p> 
+ <p class="updated_time"> 09:23 PM CT, May. 07 </p> 
+ <a href="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html">Why Did a U.N. Agency Give a Family $61 Million?</a> NYT: A little-known United Nations agency decided to make an impact by doling out loans and grant money — all to a single family. It did not go well. 
+ <p class="updated_time"> 09:20 PM CT, May. 07 </p> 
+ <a href="https://www.nytimes.com/2022/05/06/world/asia/john-lee-hong-kong-election.html">In Hong Kong Election, John Lee Is Running Uncontested</a> NYT: John Lee, a Beijing loyalist who oversaw the crackdown on pro-democracy protests, built his career by deepening his contacts within the mainland security services. 
+ <p class="updated_time"> 09:02 PM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Ukrainian Weapons Coming From West</a> WSJ: Russia Says It Is Targeting Ukrainian Weapons Coming From West 
+ <p class="updated_time"> 08:02 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/taliban-orders-women-to-cover-their-faces-11651934565">Taliban Orders Women to Cover Their Faces</a> WSJ: Taliban Orders Women to Cover Their Faces 
+ <p class="updated_time"> 07:02 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
  <p class="updated_time"> 06:50 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61348287?at_medium=RSS&at_campaign=KARANGA">Viewpoint: Putin now faces only different kinds of defeat</a> BBC: Russia's Victory Day parade won't represent any sort of victory over Ukraine, writes defence analyst Michael Clarke. 
  <p class="updated_time"> 06:44 PM CT, May. 07 </p> 
@@ -25,8 +35,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-61350174?at_medium=RSS&at_campaign=KARANGA">Fergal Keane: How I found a way to live with PTSD</a> BBC: The BBC correspondent, who was diagnosed with PTSD in 2008, explores the effects of the condition and how it can be treated. 
  <p class="updated_time"> 06:27 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61367797?at_medium=RSS&at_campaign=KARANGA">New Mexico wildfire: Huge blaze could worsen this weekend</a> BBC: Strong winds expected to stoke the fire, which has already torn through an area larger than Chicago. 
- <p class="updated_time"> 06:20 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/taliban-orders-women-to-cover-their-faces-11651934565">Taliban Orders Women to Cover Their Faces</a> WSJ: Taliban Orders Women to Cover Their Faces 
  <p class="updated_time"> 06:11 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61346864?at_medium=RSS&at_campaign=KARANGA">Acid attack survivors in Mexico: 'Justice is not enough'</a> BBC: Carmen Sanchez launched her foundation in Mexico to help survivors of attacks rebuild their lives. 
  <p class="updated_time"> 06:09 PM CT, May. 07 </p> 
@@ -35,26 +43,24 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61328696?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Why 9 May matters to Russia</a> BBC: Ros Atkins explains why Victory Day is such an important date in Russia. 
  <p class="updated_time"> 06:06 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61354626?at_medium=RSS&at_campaign=KARANGA">'We tried not to watch' - escapees recount terror of Russian-occupied Izyum</a> BBC: Two women recall what happened when Russia took over a strategically-important city in the Donbas. 
+ <p class="updated_time"> 06:02 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/canadas-16-billion-rogers-shaw-telecom-deal-at-risk-over-antitrust-concerns-11651936534">Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns</a> WSJ: Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns 
  <p class="updated_time"> 06:01 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61345463?at_medium=RSS&at_campaign=KARANGA">Hong Kong's John Lee: Ex-security chief set to become new leader</a> BBC: John Lee's appointment is being seen as a move by China to tighten its grip on the city. 
- <p class="updated_time"> 05:20 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
  <p class="updated_time"> 05:19 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/northern-ireland-sinn-fein.html">Northern Ireland Turns to Sinn Fein</a> NYT: Election results reflected the demoralization of unionist voters, the disarray of their leaders and an electorate with new priorities — much of which can be traced to Brexit. 
  <p class="updated_time"> 05:17 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/france-president-emmanuel-macron-inauguration.html">Emmanuel Macron Inaugurated for a 2nd Term as France President</a> NYT: “Rarely has our world and our country confronted such a combination of challenges,” Mr. Macron said, promising to govern France more inclusively. 
+ <p class="updated_time"> 05:02 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 04:52 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61367119?at_medium=RSS&at_campaign=KARANGA">Brazil's Lula launches presidential campaign</a> BBC: The former Brazilian president says he wants to unite the country and defend its democracy. 
- <p class="updated_time"> 04:20 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/canadas-16-billion-rogers-shaw-telecom-deal-at-risk-over-antitrust-concerns-11651936534">Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns</a> WSJ: Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns 
  <p class="updated_time"> 04:01 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/asia/taliban-afghanistan-burqa.html">Taliban Impose Head-to-Toe Coverings for Women</a> NYT: A new decree recommends, but doesn’t require that women wear burqas, and says male relatives of those who don’t cover themselves would be punished. 
  <p class="updated_time"> 03:47 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61365446?at_medium=RSS&at_campaign=KARANGA">UK YouTuber Benjamin Rich held at Russian space centre</a> BBC: Bald and Bankrupt vlogger Benjamin Rich was held in Kazakhstan, Russia's space agency says. 
  <p class="updated_time"> 03:27 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61362557?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Civilians now out of Azovstal plant in Mariupol</a> BBC: All elderly people, women and children have left the Azovstal plant in Mariupol, say Ukraine and Russia. 
- <p class="updated_time"> 03:20 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 03:06 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/putin-victory-day-macron.html">Two Europes Confront Each Other Over the Glory, or Shame, of War</a> NYT: On Monday, Vladimir Putin will mark Russia’s Victory Day by extolling the virtues of force. France’s leader, Emmanuel Macron, will honor a very different anniversary. 
  <p class="updated_time"> 01:55 PM CT, May. 07 </p> 
@@ -135,8 +141,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/world/australia/elvis-presley-parkes.html">The Deeper Meaning of Elvis in Australia</a> NYT: I went to the Parkes Elvis Festival thinking I’d learn something about what America used to be. I left thinking more about Australia. 
  <p class="updated_time"> 05:43 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/australia/elvis-presley-festival-parkes.html">How the King of Rock ’n’ Roll Still Makes Australia Sing</a> NYT: Elvis never played a concert “down under,” but that hasn’t stopped tens of thousands of Australians from making him their own at an annual festival. 
- <p class="updated_time"> 04:41 PM CT, May. 06 </p> 
- <a href="https://www.bbc.co.uk/news/61357256?at_medium=RSS&at_campaign=KARANGA">Italy orders seizure of yacht linked to Putin</a> BBC: The Scheherazade has been undergoing repairs and is being seized under EU sanctions. 
  <p class="updated_time"> 04:07 PM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097190889/russia-ukraine-war-what-happened-today-may-6">Russia-Ukraine war: What happened today (May 6)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:05 PM CT, May. 06 </p> 
@@ -145,8 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/world/europe/belarus-sapega.html">Belarus Sentences the Russian Law Student Who Was a Dissident’s Girlfriend to Six Years in Prison</a> NYT: Sofia Sapega was traveling from Greece to Lithuania with her romantic partner, Roman Protasevich, when the Belarusian air traffic control diverted their plane to Minsk, where they were both arrested. 
  <p class="updated_time"> 03:20 PM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1097261172/the-acting-u-s-ambassador-to-ukraine-is-preparing-for-2-big-transitions">The acting U.S. ambassador to Ukraine is preparing for 2 big transitions</a> NPR: The U.S. embassy is about to return to Kyiv, after evacuating to Poland early in the war. Also, President Biden has nominated a veteran diplomat to fill the post that has been vacant for three years. 
- <p class="updated_time"> 01:24 PM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/2022/05/05/business/energy-environment/natural-gas-europe-russia-ukraine.html">Europe’s Quest to Replace Russian Gas Faces Plenty of Hurdles</a> NYT: Climate concerns, investor reticence and political disputes complicate a shift to supplies from the United States, North Africa and the Mediterranean. 
  <p class="updated_time"> 01:20 PM CT, May. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61353020?at_medium=RSS&at_campaign=KARANGA">Who is Alina Kabaeva, Putin's alleged girlfriend?</a> BBC: The EU is proposing to sanction Alina Kabaeva, an ex-gymnast turned media boss close to President Vladimir Putin. 
  <p class="updated_time"> 12:37 PM CT, May. 06 </p> 
@@ -167,8 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61332283?at_medium=RSS&at_campaign=KARANGA">Why 9 May Victory Day is so important for Russia</a> BBC: Vladimir Putin has made it an annual event, but amid war in Ukraine 9 May has taken on new significance. 
  <p class="updated_time"> 05:31 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1096676197/7-persistent-claims-about-abortion-fact-checked">7 persistent claims about abortion, fact-checked</a> NPR: Several not-quite-right claims have continued to linger about abortion since the Supreme Court's 1973 Roe v. Wade decision. 
- <p class="updated_time"> 05:30 AM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/2022/05/06/world/asia/john-lee-hong-kong-election.html">In Hong Kong Election, John Lee Is Running Uncontested</a> NYT: John Lee, a Beijing loyalist who oversaw the crackdown on pro-democracy protests, built his career by deepening his contacts within the mainland security services. 
  <p class="updated_time"> 04:54 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/05/world/jill-biden-europe-ukraine.html">Jill Biden Embarks on Trip to Eastern Europe to Visit Ukrainian Refugees</a> NYT: The first lady is also scheduled to tour the Slovakian border with Ukraine, becoming the latest high-profile Biden administration official to come close to the conflict zone. 
  <p class="updated_time"> 04:15 AM CT, May. 06 </p> 
@@ -212,6 +212,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:23 PM CT, May. 07 </p> 
+ <a href="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html">Why Did a U.N. Agency Give a Family $61 Million?</a> NYT: A little-known United Nations agency decided to make an impact by doling out loans and grant money — all to a single family. It did not go well. 
+ <p class="updated_time"> 08:24 PM CT, May. 07 </p> 
+ <a href="https://www.politico.com/news/2022/05/07/judge-spares-clinton-camp-in-sussmann-ruling-00030887">Judge spares Clinton camp in Sussmann ruling</a> Politico: The decision issued Saturday afternoon limits evidence and testimony prosecutors can offer against attorney Michael Sussmann at a jury trial set to get underway later this month. 
  <p class="updated_time"> 04:44 PM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097434985/jill-biden-tours-romanian-school-that-brought-in-ukrainian-refugees">Jill Biden tours Romanian school that brought in Ukrainian refugees</a> NPR: First Lady Jill Biden visited with Ukrainian refugees in Bucharest while on a four-day trip to Romania and Slovakia — two NATO allies that border Ukraine. 
  <p class="updated_time"> 04:14 PM CT, May. 07 </p> 
@@ -247,9 +251,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:01 AM CT, May. 07 </p> 
  <a href="https://www.politico.com/news/2022/05/07/i-dont-know-how-my-son-will-survive-inside-the-dangerous-shortage-of-specialty-formulas-00030787">'I don’t know how my son will survive': Inside the dangerous shortage of specialty formulas</a> Politico: The shutdown of a Michigan infant formula plant has disrupted the supply of products that are a lifeline for thousands of people with rare medical conditions. 
  <p class="updated_time"> 06:00 AM CT, May. 07 </p> 
- <a href="https://www.politico.com/news/2022/05/07/idaho-gop-primary-elections-00030788">Idaho GOP riven by primary civil war</a> Politico: A charged-up version of the divisions playing out nationally set off primaries against the sitting governor, attorney general and a congressman. 
- <p class="updated_time"> 06:00 AM CT, May. 07 </p> 
  <a href="https://www.politico.com/news/2022/05/07/schools-rules-on-transgender-students-sexual-assault-00029945">Biden officials prepare to blow up Trump’s rules on sexual misconduct in schools</a> Politico: The Education Department — already attacked by conservatives over critical race theory and Covid restrictions in schools — is expected to roll back Betsy DeVos’ agenda on Title IX. 
+ <p class="updated_time"> 06:00 AM CT, May. 07 </p> 
+ <a href="https://www.politico.com/news/2022/05/07/idaho-gop-primary-elections-00030788">Idaho GOP riven by primary civil war</a> Politico: A charged-up version of the divisions playing out nationally set off primaries against the sitting governor, attorney general and a congressman. 
  <p class="updated_time"> 06:00 AM CT, May. 07 </p> 
  <a href="https://www.politico.com/news/2022/05/07/cannabis-truckers-supply-chain-woes-00030508">Cannabis confusion: Thousands of truckers taken off the job amid supply chain woes</a> Politico: "Drivers who are off duty or even on vacation for a week can’t enjoy marijuana in a legal state," one Alabama trucking company complained to DOT. 
  <p class="updated_time"> 04:00 AM CT, May. 07 </p> 
@@ -282,8 +286,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/06/fauci-correspondents-dinner-covid-message-00030767">Fauci privately miffed about the message sent by the WHCA dinner</a> Politico: The nation’s top medical adviser expressed private frustration that elite D.C. no longer seems to take the Covid threat seriously. 
  <p class="updated_time"> 05:01 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/johnnie-a-jones-sr-dead.html">Johnnie A. Jones Sr. Dies at 102; a Civil Rights Lawyer Early On</a> NYT: In 1953, he represented defendants in the Baton Rouge bus boycott, a model for later activism, after returning from World War II as a wounded veteran of D-Day. 
- <p class="updated_time"> 04:57 PM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/2022/05/06/business/economy/jobs-report-april-2022.html">April Jobs Report: Gain of 428,000 Shows Vibrant Labor Market</a> NYT: The Labor Department reported a gain of 428,000 jobs in April, along with a 5.5 percent increase in average hourly earnings from a year earlier. 
  <p class="updated_time"> 04:45 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/politics/border-protection-critical-incident-teams.html">Customs and Border Protection Will Disband Secretive ‘Critical Incident Teams’</a> NYT: The agency’s commissioner announced the change after the teams — which had long operated under the public radar — came under scrutiny earlier this year. 
  <p class="updated_time"> 04:43 PM CT, May. 06 </p> 
@@ -319,9 +321,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
  <a href="https://www.npr.org/2022/05/06/1096890112/first-lady-jill-biden-romania-slovakia-border-nato-ukraine-refugees">Jill Biden heads to Romania and Slovakia to show support for NATO and Ukraine</a> NPR: Jill Biden's trip to the Slovakia-Ukraine border will be her most high-profile moment yet as first lady. On Mother's Day she meets with Ukrainian mothers and children who fled after Russia's invasion. 
  <p class="updated_time"> 03:30 AM CT, May. 06 </p> 
- <a href="https://www.politico.com/news/2022/05/06/capitol-house-staff-mistreatment-spartz-00030498">Amid an uproar over Capitol staff mistreatment, meet the House’s ‘worst boss’</a> Politico: Multiple former aides and other Republicans told POLITICO about the “trauma bonded” work environment of Rep. Victoria Spartz. 
- <p class="updated_time"> 03:30 AM CT, May. 06 </p> 
  <a href="https://www.politico.com/gallery/2022/05/06/the-nations-cartoonists-on-the-week-in-politics-00030497">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
+ <p class="updated_time"> 03:30 AM CT, May. 06 </p> 
+ <a href="https://www.politico.com/news/2022/05/06/capitol-house-staff-mistreatment-spartz-00030498">Amid an uproar over Capitol staff mistreatment, meet the House’s ‘worst boss’</a> Politico: Multiple former aides and other Republicans told POLITICO about the “trauma bonded” work environment of Rep. Victoria Spartz. 
  <p class="updated_time"> 03:30 AM CT, May. 06 </p> 
  <a href="https://www.politico.com/news/2022/05/06/vulnerable-senate-dems-campaign-against-abortion-ban-00030489">Vulnerable Senate Dems campaign as last hope against abortion ban</a> Politico: At-risk incumbents are painting themselves as a post-Roe firewall, though neither party has 60 votes to pass either abortion restrictions or protections. 
  <p class="updated_time"> 08:45 PM CT, May. 05 </p> 
