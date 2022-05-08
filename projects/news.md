@@ -9,33 +9,37 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:11 AM CT, May. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Here’s What Happened on Day 73 of the War in Ukraine</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
+ <p class="updated_time"> 12:01 AM CT, May. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61351772?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Returning to the place my father was killed</a> BBC: As Vadim and his father tried to rescue their dogs, they were fired upon by a convoy they believe was Russian. 
+ <p class="updated_time"> 11:57 PM CT, May. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61365365?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Rebuilt Kyiv railway bridge a symbol of hope</a> BBC: A railway bridge close to Kyiv has been rebuilt, just a month after it was destroyed by Russian attacks. 
  <p class="updated_time"> 11:47 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61361827?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'If this is true, then I am also a Nazi'</a> BBC: Holocaust survivors in the Ukrainian city of Uman feel insulted by Russian claims to be fighting Nazis. 
  <p class="updated_time"> 11:45 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61345463?at_medium=RSS&at_campaign=KARANGA">Hong Kong's John Lee: Ex-security chief becomes new leader</a> BBC: John Lee's appointment is being seen as a move by China to tighten its grip on the city. 
- <p class="updated_time"> 11:00 PM CT, May. 07 </p> 
+ <p class="updated_time"> 11:40 PM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Ukrainian Weapons Coming From West</a> WSJ: Russia Says It Is Targeting Ukrainian Weapons Coming From West 
  <p class="updated_time"> 10:44 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/middleeast/egypt-sinai-militants-attack.html">Militants Kill 11 Egyptian Troops in Sinai</a> NYT: The militants ambushed troops guarding a water-pumping facility, before fleeing to the desert in Northern Sinai. 
+ <p class="updated_time"> 10:40 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/taliban-orders-women-to-cover-their-faces-11651934565">Taliban Orders Women to Cover Their Faces</a> WSJ: Taliban Orders Women to Cover Their Faces 
  <p class="updated_time"> 10:26 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61367797?at_medium=RSS&at_campaign=KARANGA">New Mexico wildfire: Huge blaze could worsen this weekend</a> BBC: "Historic" extreme weather likely to stoke New Mexico fire, which is already the size of Chicago. 
- <p class="updated_time"> 10:18 PM CT, May. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Live Updates: Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
- <p class="updated_time"> 10:00 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/taliban-orders-women-to-cover-their-faces-11651934565">Taliban Orders Women to Cover Their Faces</a> WSJ: Taliban Orders Women to Cover Their Faces 
  <p class="updated_time"> 09:54 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61367800?at_medium=RSS&at_campaign=KARANGA">Kentucky Derby: 80-1 outsider Rich Strike pulls off historic upset</a> BBC: Rich Strike, a 80-1 outsider, won the race despite only being brought in after a horse dropped out. 
  <p class="updated_time"> 09:47 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/russia-ukraine-kharkiv-victory-day.html">Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
+ <p class="updated_time"> 09:40 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
  <p class="updated_time"> 09:23 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html">Why Did a U.N. Agency Give a Family $61 Million?</a> NYT: A little-known United Nations agency decided to make an impact by doling out loans and grant money — all to a single family. It did not go well. 
  <p class="updated_time"> 09:20 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/asia/john-lee-hong-kong-election.html">In Hong Kong Election, John Lee Is Running Uncontested</a> NYT: John Lee, a Beijing loyalist who oversaw the crackdown on pro-democracy protests, built his career by deepening his contacts within the mainland security services. 
- <p class="updated_time"> 09:00 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
- <p class="updated_time"> 08:00 PM CT, May. 07 </p> 
+ <p class="updated_time"> 08:40 PM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/canadas-16-billion-rogers-shaw-telecom-deal-at-risk-over-antitrust-concerns-11651936534">Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns</a> WSJ: Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns 
- <p class="updated_time"> 07:00 PM CT, May. 07 </p> 
+ <p class="updated_time"> 07:40 PM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 06:50 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61348287?at_medium=RSS&at_campaign=KARANGA">Viewpoint: Putin now faces only different kinds of defeat</a> BBC: Russia's Victory Day parade won't represent any sort of victory over Ukraine, writes defence analyst Michael Clarke. 
@@ -85,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/us/politics/china-taiwan-weapons.html">Taiwan and U.S. Consider Weapons Suited to Defend Against China   </a> NYT: The Biden administration’s push for Taiwan to order missiles and smaller arms for asymmetric warfare has gained urgency since Russia’s invasion of Ukraine. 
  <p class="updated_time"> 10:18 AM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61363969?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Women’s faces become latest Taliban restriction after face veil rule</a> BBC: “They are always after women” rather than tackling Afghanistan’s many problems, one activist told the BBC. 
- <p class="updated_time"> 09:54 AM CT, May. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61358186?at_medium=RSS&at_campaign=KARANGA">Saratoga Hotel: 26 dead after huge explosion in Havana</a> BBC: Local officials blamed a gas leak for the explosion at the five-star Saratoga Hotel in Havana, Cuba. 
  <p class="updated_time"> 09:18 AM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097382550/taliban-women-burqa-decree">The Taliban orders women to wear head-to-toe clothing in public</a> NPR: The decree, which calls for women in Afghanistan to show only their eyes and recommends they wear the burqa, evoked similar restrictions during the Taliban's previous rule. 
  <p class="updated_time"> 08:38 AM CT, May. 07 </p> 
@@ -191,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61330046?at_medium=RSS&at_campaign=KARANGA">Heatwave: India's poor bear the brunt of blistering temperatures</a> BBC: As temperatures soar, the country's poorest are struggling to make ends meet and survive the heat. 
  <p class="updated_time"> 06:26 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61327201?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 29 April-5 May 2022</a> BBC: A selection of the best photos from across Africa this week. 
- <p class="updated_time"> 06:05 PM CT, May. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61327820?at_medium=RSS&at_campaign=KARANGA">Sri Lanka's energy crisis hits country's fishing industry</a> BBC: A lack of fuel, ice, and places to sell their catch has left fishermen in Jaffna in the lurch. 
  <p class="updated_time"> 06:01 PM CT, May. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-61082317?at_medium=RSS&at_campaign=KARANGA">Why one firm is banking on carbon fibre bikes in Europe</a> BBC: Europe's bike firms want to source more components closer to home, including carbon fibre frames. 
  <p class="updated_time"> 04:45 PM CT, May. 05 </p> 
