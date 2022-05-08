@@ -9,32 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:44 PM CT, May. 07 </p> 
+ <a href="https://www.nytimes.com/2022/05/07/world/middleeast/egypt-sinai-militants-attack.html">Militants Kill 11 Egyptian Troops in Sinai</a> NYT: The militants ambushed troops guarding a water-pumping facility, before fleeing to the desert in Northern Sinai. 
+ <p class="updated_time"> 10:26 PM CT, May. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61367797?at_medium=RSS&at_campaign=KARANGA">New Mexico wildfire: Huge blaze could worsen this weekend</a> BBC: "Historic" extreme weather likely to stoke New Mexico fire, which is already the size of Chicago. 
+ <p class="updated_time"> 10:18 PM CT, May. 07 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Live Updates: Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
  <p class="updated_time"> 09:54 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61367800?at_medium=RSS&at_campaign=KARANGA">Kentucky Derby: 80-1 outsider Rich Strike pulls off historic upset</a> BBC: Rich Strike, a 80-1 outsider, won the race despite only being brought in after a horse dropped out. 
- <p class="updated_time"> 09:47 PM CT, May. 07 </p> 
- <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Live Updates: Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
+ <p class="updated_time"> 09:48 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Ukrainian Weapons Coming From West</a> WSJ: Russia Says It Is Targeting Ukrainian Weapons Coming From West 
  <p class="updated_time"> 09:47 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/russia-ukraine-kharkiv-victory-day.html">Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
  <p class="updated_time"> 09:23 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html">Why Did a U.N. Agency Give a Family $61 Million?</a> NYT: A little-known United Nations agency decided to make an impact by doling out loans and grant money — all to a single family. It did not go well. 
  <p class="updated_time"> 09:20 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/asia/john-lee-hong-kong-election.html">In Hong Kong Election, John Lee Is Running Uncontested</a> NYT: John Lee, a Beijing loyalist who oversaw the crackdown on pro-democracy protests, built his career by deepening his contacts within the mainland security services. 
- <p class="updated_time"> 09:02 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-is-targeting-western-military-supplies-in-ukraines-kharkiv-region-11651920741">Russia Says It Is Targeting Ukrainian Weapons Coming From West</a> WSJ: Russia Says It Is Targeting Ukrainian Weapons Coming From West 
- <p class="updated_time"> 08:02 PM CT, May. 07 </p> 
+ <p class="updated_time"> 08:48 PM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/taliban-orders-women-to-cover-their-faces-11651934565">Taliban Orders Women to Cover Their Faces</a> WSJ: Taliban Orders Women to Cover Their Faces 
- <p class="updated_time"> 07:02 PM CT, May. 07 </p> 
+ <p class="updated_time"> 07:48 PM CT, May. 07 </p> 
  <a href="https://www.wsj.com/articles/north-korea-fires-off-suspected-sub-launched-ballistic-missile-11651907523">North Korea Fires Off Suspected Sub-Launched Ballistic Missile</a> WSJ: North Korea Fires Off Suspected Sub-Launched Ballistic Missile 
  <p class="updated_time"> 06:50 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61348287?at_medium=RSS&at_campaign=KARANGA">Viewpoint: Putin now faces only different kinds of defeat</a> BBC: Russia's Victory Day parade won't represent any sort of victory over Ukraine, writes defence analyst Michael Clarke. 
+ <p class="updated_time"> 06:48 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/canadas-16-billion-rogers-shaw-telecom-deal-at-risk-over-antitrust-concerns-11651936534">Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns</a> WSJ: Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns 
  <p class="updated_time"> 06:44 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/blogs-trending-61339293?at_medium=RSS&at_campaign=KARANGA">Philippines election: 'Politicians hire me to spread fake stories'</a> BBC: Voters in the Philippines presidential election are facing an onslaught of online lies. 
  <p class="updated_time"> 06:40 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61318783?at_medium=RSS&at_campaign=KARANGA">KwaZulu-Natal floods: The South African family who lost nine children</a> BBC: Mass funerals are held in South Africa after the country's most deadly natural disaster. 
  <p class="updated_time"> 06:38 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-61350174?at_medium=RSS&at_campaign=KARANGA">Fergal Keane: How I found a way to live with PTSD</a> BBC: The BBC correspondent, who was diagnosed with PTSD in 2008, explores the effects of the condition and how it can be treated. 
- <p class="updated_time"> 06:27 PM CT, May. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61367797?at_medium=RSS&at_campaign=KARANGA">New Mexico wildfire: Huge blaze could worsen this weekend</a> BBC: Strong winds expected to stoke the fire, which has already torn through an area larger than Chicago. 
  <p class="updated_time"> 06:11 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61346864?at_medium=RSS&at_campaign=KARANGA">Acid attack survivors in Mexico: 'Justice is not enough'</a> BBC: Carmen Sanchez launched her foundation in Mexico to help survivors of attacks rebuild their lives. 
  <p class="updated_time"> 06:09 PM CT, May. 07 </p> 
@@ -43,16 +47,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61328696?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Why 9 May matters to Russia</a> BBC: Ros Atkins explains why Victory Day is such an important date in Russia. 
  <p class="updated_time"> 06:06 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61354626?at_medium=RSS&at_campaign=KARANGA">'We tried not to watch' - escapees recount terror of Russian-occupied Izyum</a> BBC: Two women recall what happened when Russia took over a strategically-important city in the Donbas. 
- <p class="updated_time"> 06:02 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/canadas-16-billion-rogers-shaw-telecom-deal-at-risk-over-antitrust-concerns-11651936534">Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns</a> WSJ: Canada’s $16 Billion Telecom Deal at Risk Over Antitrust Concerns 
  <p class="updated_time"> 06:01 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61345463?at_medium=RSS&at_campaign=KARANGA">Hong Kong's John Lee: Ex-security chief set to become new leader</a> BBC: John Lee's appointment is being seen as a move by China to tighten its grip on the city. 
+ <p class="updated_time"> 05:48 PM CT, May. 07 </p> 
+ <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 05:19 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/northern-ireland-sinn-fein.html">Northern Ireland Turns to Sinn Fein</a> NYT: Election results reflected the demoralization of unionist voters, the disarray of their leaders and an electorate with new priorities — much of which can be traced to Brexit. 
  <p class="updated_time"> 05:17 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/france-president-emmanuel-macron-inauguration.html">Emmanuel Macron Inaugurated for a 2nd Term as France President</a> NYT: “Rarely has our world and our country confronted such a combination of challenges,” Mr. Macron said, promising to govern France more inclusively. 
- <p class="updated_time"> 05:02 PM CT, May. 07 </p> 
- <a href="https://www.wsj.com/articles/frances-emmanuel-macron-begins-second-term-with-call-for-unity-11651926413">France’s Emmanuel Macron Begins Second Term With Call for Unity</a> WSJ: France’s Emmanuel Macron Begins Second Term With Call for Unity 
  <p class="updated_time"> 04:52 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61367119?at_medium=RSS&at_campaign=KARANGA">Brazil's Lula launches presidential campaign</a> BBC: The former Brazilian president says he wants to unite the country and defend its democracy. 
  <p class="updated_time"> 04:01 PM CT, May. 07 </p> 
@@ -69,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/07/1097417453/sinn-fein-wins-assembly-election-northern-ireland">Sinn Fein celebrates an historic election win in Northern Ireland</a> NPR: The Irish nationalist party hailed a "new era" as it captured the largest number of seats in the Northern Ireland Assembly for the first time. 
  <p class="updated_time"> 01:21 PM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097413091/steel-plant-mariupol-azovstal-civilians-evacuated">All civilians have been evacuated from a besieged steel plant in Mariupol</a> NPR: Ukraine announced that all women, children and elderly had been evacuated from a steel plant, a key Russian war objective that has long been under siege. 
- <p class="updated_time"> 12:51 PM CT, May. 07 </p> 
- <a href="https://www.nytimes.com/2022/05/07/world/middleeast/egypt-sinai-militants-attack.html">Militants Kill 11 Egyptian Troops in Sinai</a> NYT: The militants ambushed troops guarding a water-pumping facility, before fleeing to the desert in Northern Sinai. 
  <p class="updated_time"> 12:44 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/george-cheeks-covid-positive-biden.html">CBS Presidents George Cheeks Tests Positive for Coronavirus</a> NYT: The network’s leader sat between the president and first lady, all unmasked, at the event. 
  <p class="updated_time"> 12:43 PM CT, May. 07 </p> 
