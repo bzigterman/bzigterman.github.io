@@ -1414,17 +1414,17 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">731K</td>
+<td class="gt_row gt_right">725K</td>
 <td class="gt_row gt_right">517K</td>
 <td class="gt_row gt_right">&minus;29%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">3K</td>
 <td class="gt_row gt_right gt_striped">2K</td>
-<td class="gt_row gt_right gt_striped">&minus;18%</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;19%</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
 <td class="gt_row gt_right">10M</td>
 <td class="gt_row gt_right">9M</td>
-<td class="gt_row gt_right">&minus;12%</td></tr>
+<td class="gt_row gt_right">&minus;13%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">5B</td>
 <td class="gt_row gt_right gt_striped">5B</td>
@@ -1436,7 +1436,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Saturday</td>
     </tr>
   </tfoot>
   
@@ -1445,11 +1445,11 @@ html {
 
 ## Case Acceleration
 
-As of Friday, the 14-day percent change in average new cases was:
+As of Saturday, the 14-day percent change in average new cases was:
   
 - 6% in Champaign County
 - 57% in Illinois
-- 50% in the United States
+- 48% in the United States
 - -29% worldwide
 
 <picture>
@@ -1462,11 +1462,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Friday, the 14-day percent change in average new deaths was:
+As of Saturday, the 14-day percent change in average new deaths was:
   
 - 33% in Illinois
-- 44% in the United States
-- -18% worldwide
+- 46% in the United States
+- -19% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
