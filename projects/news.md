@@ -9,15 +9,15 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:46 AM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/05/09/world/philippines-election">Philippines Live Updates: Polls Close After Millions Stood in Line for Hours</a> NYT: Some voters complained that their names had been left off voter registration rolls. Others said voting machines were broken and called for voting hours to be extended. 
+ <p class="updated_time"> 08:59 AM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news">Ukraine Live Updates: Putin Defends War, Without Signaling Escalation</a> NYT: The Russian leader praised his forces but announced no change in the military campaign, in a defiant speech at the annual Victory Day parade that marks the defeat of Nazi Germany. 
+ <p class="updated_time"> 08:58 AM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/09/world/philippines-election">Philippines Live Updates: Ferdinand Marcos Jr. Takes Huge Lead</a> NYT: Early results showed the son of the former dictator well ahead of his rivals in the presidential election, including the country’s vice president, Leni Robredo. 
  <p class="updated_time"> 08:41 AM CT, May. 09 </p> 
  <a href="https://www.npr.org/2022/05/09/1097562723/the-prime-minister-of-sri-lanka-resigns-after-weeks-of-protests">The prime minister of Sri Lanka resigns after weeks of protests</a> NPR: Sri Lankan Prime Minister Mahinda Rajapaksa has resigned after weeks of protests demanding he and his brother, the president, step down over the worst economic crisis in decades, an official said. 
- <p class="updated_time"> 08:38 AM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news">Ukraine Live Updates: Putin Defends War, Without Signaling Escalation</a> NYT: The Russian leader praised his forces but announced no change in the military campaign, in a defiant speech at the annual Victory Day parade that marks the defeat of Nazi Germany. 
  <p class="updated_time"> 08:35 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/mahinda-rajapaksa-resigns-sri-lanka.html">Sri Lanka’s Prime Minister Mahinda Rajapaksa Resigns in Face of Unrest</a> NYT: The move by Mahinda Rajapaksa came after his supporters instigated violent clashes in Colombo, the capital. It wasn’t immediately clear whether his resignation would satisfy opponents. 
- <p class="updated_time"> 07:50 AM CT, May. 09 </p> 
+ <p class="updated_time"> 08:01 AM CT, May. 09 </p> 
  <a href="https://www.wsj.com/articles/putin-uses-russias-victory-day-parade-to-justify-invasion-of-ukraine-11652093244">Putin Uses Russia’s Victory Day Parade to Justify Invasion of Ukraine</a> WSJ: Putin Uses Russia’s Victory Day Parade to Justify Invasion of Ukraine 
  <p class="updated_time"> 07:32 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61381536?at_medium=RSS&at_campaign=KARANGA">Mahinda Rajapaksa: Sri Lankan PM resigns amid economic crisis</a> BBC: Protesters have been out on the streets since last month over soaring prices and power cuts. 
@@ -25,29 +25,29 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61374718?at_medium=RSS&at_campaign=KARANGA">Nigerian airlines suspend plans to ground flights</a> BBC: Plans to stop domestic flights in protest at the spiralling cost of aviation fuel are suspended. 
  <p class="updated_time"> 07:01 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/robredo-philippines-election.html">Leni Robredo Is the Only Woman in the Philippines Presidential Race</a> NYT: She has received a groundswell of support from “Generation Z” and thousands of millennials inspired by her effort to take on Ferdinand Marcos Jr. 
+ <p class="updated_time"> 07:01 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/from-tycoons-to-pop-singers-ukrainians-of-all-walks-come-together-on-the-front-lines-11652091311">From Tycoons to Pop Singers, Ukrainians of All Walks Come Together on the Front Lines</a> WSJ: From Tycoons to Pop Singers, Ukrainians of All Walks Come Together on the Front Lines 
  <p class="updated_time"> 07:00 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61376500?at_medium=RSS&at_campaign=KARANGA">'You are fighting for Russia'- Putin addresses Victory Day parade</a> BBC: In his address, Vladimir Putin says that Russia has been threatened by Nato and other countries. 
  <p class="updated_time"> 06:59 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61372382?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'When the shelling stops, the traitors will be punished'</a> BBC: A clash of loyalties is dividing opinion among the residents of Bakhmut in Ukraine's eastern Donbas region. 
- <p class="updated_time"> 06:50 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/from-tycoons-to-pop-singers-ukrainians-of-all-walks-come-together-on-the-front-lines-11652091311">From Tycoons to Pop Singers, Ukrainians of All Walks Come Together on the Front Lines</a> WSJ: From Tycoons to Pop Singers, Ukrainians of All Walks Come Together on the Front Lines 
  <p class="updated_time"> 06:37 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61377886?at_medium=RSS&at_campaign=KARANGA">Putin says Russia fighting for motherland in Ukraine in Victory Day speech</a> BBC: The Russian leader uses Victory Day to tie the war in Ukraine to the fight against Nazi Germany. 
  <p class="updated_time"> 06:33 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61344609?at_medium=RSS&at_campaign=KARANGA">Philippines election: Marcos family eye return to power as polls close</a> BBC: Voting has finished in a vital election that could see the Marcos family sweep back into office. 
  <p class="updated_time"> 06:06 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61380727?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Putin gives few clues in Victory Day speech</a> BBC: Prior to Victory Day, Moscow was full of rumours about what Putin might announce in his speech. 
+ <p class="updated_time"> 06:01 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 05:59 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/taiwan-china-covid.html">Taiwan Pivots From ‘Zero Covid’ as Beijing Doubles Down</a> NYT: The government’s shift reflects a recognition that stringent pandemic measures were stifling economic activity and eroding the island’s international competitiveness. 
- <p class="updated_time"> 05:50 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 05:49 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61378507?at_medium=RSS&at_campaign=KARANGA">Egypt arrests teenagers for harassing female tourists at pyramids</a> BBC: A video showing a group haranguing the young women at the Giza pyramids sparked outrage online. 
  <p class="updated_time"> 05:17 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61379105?at_medium=RSS&at_campaign=KARANGA">Cuba's Saratoga Hotel: Firefighters search rubble after blast</a> BBC: A powerful blast which officials think was caused by a gas tanker tore through the hotel on Friday. 
  <p class="updated_time"> 05:02 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/philippines-election-violence-machines-broken.html">Reports of Violence Leave Philippines Voters on Edge</a> NYT: Security was tight for this election, a particularly high-stakes contest that some observers have called an existential battle for the soul of the nation. 
- <p class="updated_time"> 04:50 AM CT, May. 09 </p> 
+ <p class="updated_time"> 05:01 AM CT, May. 09 </p> 
  <a href="https://www.wsj.com/articles/chinas-trade-slows-as-demand-drops-and-covid-lockdowns-hit-supply-chains-11652088372">China’s Trade Slows as Demand Drops and Lockdowns Hit Supply Chains</a> WSJ: China’s Trade Slows as Demand Drops and Lockdowns Hit Supply Chains 
  <p class="updated_time"> 04:40 AM CT, May. 09 </p> 
  <a href="https://www.npr.org/2022/05/09/1097547054/russia-marks-wwii-victory-overshadowed-by-ukraine">Here's what Putin said about Ukraine in his Victory Day speech</a> NPR: Speaking at an annual parade to honor the end of World War II, Russia's president sought to link the past Soviet victory to the battle in Ukraine and signaled no major military or policy shifts. 
@@ -58,7 +58,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:51 AM CT, May. 09 </p> 
  <a href="https://www.npr.org/2022/05/09/1097541834/paris-trial-to-open-for-2009-plane-crash-that-left-152-dead-and-1-alive">Paris trial to open for 2009 plane crash that left 152 dead and 1 alive</a> NPR: The flag carrier airline from Yemen is being tried in Paris over the injuries of a then-12-year-old girl and the deaths of 65 French citizens. 
  <p class="updated_time"> 03:20 AM CT, May. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61376816?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Patron the mine-sniffing dog awarded medal</a> BBC: Patron, aged two-and-a-half, is credited with helping find more than 200 devices since the war began. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61376816?at_medium=RSS&at_campaign=KARANGA">Patron the mine-sniffing dog awarded medal by President Zelensky</a> BBC: Patron, aged two-and-a-half, is credited with helping find more than 200 devices since the war began. 
  <p class="updated_time"> 01:45 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61375687?at_medium=RSS&at_campaign=KARANGA">IndiGo: Anger after India airline removes disabled teenager</a> BBC: IndiGo allegedly refused to let the teenager board its flight, saying he was a "risk to passengers". 
  <p class="updated_time"> 11:55 PM CT, May. 08 </p> 
@@ -256,6 +256,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/08/kathy-hochul-new-york-governor-covid-positive-00030922">New York governor tests positive for Covid</a> Politico: Gov. Kathy Hochul said she is asymptomatic and will work remotely for a week. 
  <p class="updated_time"> 02:21 PM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/senate-democrats-shop-new-reconciliation-child-care-proposal-00030899">Senate Democrats shop revamped child care reconciliation proposal </a> Politico: Sen. Patty Murray and her allies hope that Sen. Tim Kaine’s new leadership on the issue will help them win the support of moderate Democrats. 
+ <p class="updated_time"> 01:59 PM CT, May. 08 </p> 
+ <a href="https://www.cnn.com/2022/05/08/politics/us-russia-sanctions-media-companies-consulting-services/index.html">US announces sanctions against Kremlin-controlled media companies and bans Russia from using some American consulting services</a> CNN: The US announced a slate of new sanctions against Russia on Sunday, cutting off Kremlin-controlled media outlets from American advertisers and prohibiting the country from using US-provided management and accounting consulting services, according to a senior administration official and a White House fact sheet. 
  <p class="updated_time"> 01:54 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/business/media/supreme-court-leak-press-protections.html">Supreme Court Leak Inquiry Exposes Gray Area of Press Protections</a> NYT: No law or written code of conduct prescribes how an investigation into the leak of a draft opinion should proceed, or whether journalists will be swept into it. 
  <p class="updated_time"> 12:46 PM CT, May. 08 </p> 
@@ -276,8 +278,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/08/murphy-baier-florida-dont-say-gay-00030902">Dem senator spars with Fox News host over Florida law</a> Politico: Chris Murphy said he perceives a nasty turn in the Republican Party. 
  <p class="updated_time"> 10:07 AM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/white-house-warns-of-covid-surges-this-winter-00030901">White House warns of Covid surges in the winter</a> Politico: Ashish Jha urges more funding for vaccinations and testing. 
- <p class="updated_time"> 10:03 AM CT, May. 08 </p> 
- <a href="https://www.cnn.com/2022/05/08/politics/jill-biden-ukraine-visit/index.html">First lady Jill Biden makes unannounced trip to Ukraine </a> CNN: First lady Jill Biden made an unannounced trip on Sunday to Uzhhorod, Ukraine, a small city in the far southwestern corner of the country. 
  <p class="updated_time"> 09:30 AM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/supreme-court-justices-misled-the-senate-gillibrand-said-00030900">Supreme Court justices 'misled the Senate,' Gillibrand said</a> Politico: “If a corporation put these kind of statements in their quarterly filings, they would be seen to be purposefully misleading and deemed fraud,” the New York senator said. 
  <p class="updated_time"> 08:46 AM CT, May. 08 </p> 
