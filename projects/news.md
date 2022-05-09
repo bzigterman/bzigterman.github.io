@@ -9,24 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:11 PM CT, May. 08 </p> 
+ <p class="updated_time"> 11:12 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61344609?at_medium=RSS&at_campaign=KARANGA">Philippines election: Marcos family eye return to power as country votes</a> BBC: Millions are casting their vote in an election that could see the Marcos family sweep back into office. 
- <p class="updated_time"> 09:56 PM CT, May. 08 </p> 
+ <p class="updated_time"> 10:36 PM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Ukraine Fights for Besieged Mariupol as Russia Prepares to Mark Key Date</a> WSJ: Ukraine Fights for Besieged Mariupol as Russia Prepares to Mark Key Date 
  <p class="updated_time"> 09:53 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61375064?at_medium=RSS&at_campaign=KARANGA">Otoniel: Colombia steps up operation against rioting cartel</a> BBC: The Gulf Clan announced an "armed strike" after its leader was extradited to the US. 
- <p class="updated_time"> 08:56 PM CT, May. 08 </p> 
+ <p class="updated_time"> 09:36 PM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
  <p class="updated_time"> 08:37 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/bomb-sniffing-dog-patron-zelensky.html">Ukrainian Bomb-Sniffing Dog Named Patron Honored by Zelensky</a> NYT: Patron has found more than 200 explosives, President Zelensky said. The dog has gone viral as Ukraine wages an information war. 
+ <p class="updated_time"> 08:36 PM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 08:26 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/us/politics/un-agency-loans-resignation.html">Head of U.N. Agency Resigns After Questions Arise About Loans</a> NYT: The little-known organization gave out $61 million in loans and grant money to a single British family, in a scandal that has shaken and embarrassed the U.N. 
- <p class="updated_time"> 07:56 PM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 07:49 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Here’s What Happened on Day 73 of the War in Ukraine</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
  <p class="updated_time"> 07:15 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61374008?at_medium=RSS&at_campaign=KARANGA">Ukraine war: First ladies meet as US announces new sanctions</a> BBC: The US first lady met her Ukrainian counterpart as Washington sanctions 2,600 individuals. 
+ <p class="updated_time"> 06:36 PM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 06:26 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61318785?at_medium=RSS&at_campaign=KARANGA">Nigeria's Looty seeks to reclaim African art in digital form</a> BBC: A Nigerian designer is making NFTs of African artefacts in Western museums to help local artists. 
  <p class="updated_time"> 06:17 PM CT, May. 08 </p> 
@@ -35,8 +37,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61331859?at_medium=RSS&at_campaign=KARANGA">From handshakes to hostilities: How dangerous is the situation in North Korea?</a> BBC: South Korea's incoming president promises to take a hard line on North Korea’s military escalations. 
  <p class="updated_time"> 06:01 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61347805?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Artist George Butler sketches conflict</a> BBC: Artist George Butler has recently returned to the UK after a month spent in Ukraine. 
- <p class="updated_time"> 05:56 PM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 05:09 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/ukraine-russia-biden.html">Both Sides Harden Positions on Anniversary of Nazi Defeat in Europe</a> NYT: The war in Ukraine was marked by posturing and signaling, with each side ramping up its rhetoric as the battle ground on. 
  <p class="updated_time"> 04:57 PM CT, May. 08 </p> 
@@ -69,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/codeswitch/2022/05/08/255430549/in-mothercoin-the-labor-of-love-transcends-borders">In 'Mothercoin', the labor of love transcends borders</a> NPR: Mothercoin, by Elizabeth Cummins Muñoz, takes an intimate look at the lives of immigrant nannies in Houston, and how their work in private homes affects their relationship with their own children. 
  <p class="updated_time"> 09:57 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/russia-ukraine-kharkiv-victory-day.html">Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
- <p class="updated_time"> 09:45 AM CT, May. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61370906?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: Zelensky WW2 speech accuses Russia of Nazi atrocities</a> BBC: The Ukrainian leader compares Russia's invasion of his country to wartime Nazi bombings. 
  <p class="updated_time"> 09:23 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/russia-airstrike-school-ukraine.html">Dozens Feared Dead After Russian Airstrike Hits School Building, Officials Say</a> NYT: Initial reports suggested that as many as 60 people were trapped inside the building, which officials said was being used as a shelter for civilians. 
  <p class="updated_time"> 09:20 AM CT, May. 08 </p> 
@@ -213,7 +211,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:26 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/us/politics/un-agency-loans-resignation.html">Head of U.N. Agency Resigns After Questions Arise About Loans</a> NYT: The little-known organization gave out $61 million in loans and grant money to a single British family, in a scandal that has shaken and embarrassed the U.N. 
  <p class="updated_time"> 08:11 PM CT, May. 08 </p> 
- <a href="https://www.nytimes.com/2022/05/08/us/politics/covid-pills-global-aids-hiv.html">Seeking Covid Pills, Poor Nations Fear Repeat of AIDS Crisis</a> NYT: The antiviral pills, plentiful in the United States, are scarce overseas. Health groups and the White House want to expand access but face obstacles that evoke the H.I.V. epidemic. 
+ <a href="https://www.nytimes.com/2022/05/08/us/politics/covid-pills-global-aids-hiv.html">As Poor Nations Seek Covid Pills, Officials Fear Repeat of AIDS Crisis</a> NYT: The antiviral pills, plentiful in the United States, are scarce overseas. Health groups and the White House want to expand access but face obstacles that evoke the H.I.V. epidemic. 
  <p class="updated_time"> 05:36 PM CT, May. 08 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:30 PM CT, May. 08 </p> 
