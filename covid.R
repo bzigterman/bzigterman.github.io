@@ -456,6 +456,122 @@ saveWidget(widget = fig, file = "interactive/champaign_covid.html",
            selfcontained = FALSE,
            libdir = "interactive")
 
+### wastewater ----
+url <- "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=HHS_NWSS_Concentration_Timeseries_Data"
+water <- rio::import(url, format = "json")$HHS_NWSS_Concentration_Timeseries_Data %>%
+  filter(key_plot_id == "NWSS_il_655_Treatment plant_raw wastewater") %>%
+  arrange(date) %>%
+  mutate(Date = ymd(date)) %>%
+  mutate(smaller_conc = pcr_conc_smoothed/1000000000)
+
+
+wastewater_url <- "https://data.cdc.gov/resource/2ew6-ywp6.csv?wwtp_id=655"
+wastewater <- rio::import(wastewater_url,
+                          format = "csv") %>%
+  mutate(Date = ymd(date_end)) %>%
+  select(Date,ptc_15d,detect_prop_15d,percentile) %>%
+  arrange(Date) %>%
+  mutate(short_date = paste(month(Date, label = TRUE, abbr = FALSE),
+                            mday(Date))) 
+wastewater_date <- tail(wastewater$short_date,1)
+
+wastewater_plus_cases <- full_join(wastewater, idph_cases_champaign) %>%
+  full_join(water) %>%
+  select(Date,#ptc_15d,
+         detect_prop_15d,percentile,
+         avg_new_cases, smaller_conc) %>%
+  arrange(Date)%>%
+  filter(Date >= "2021-11-22") %>%
+  mutate(Date = as_date(Date))
+
+wastewater_plus_cases_longer <- wastewater_plus_cases %>%
+  pivot_longer(!Date) %>%
+  mutate(name = recode_factor(
+    name, 
+    "avg_new_cases" = "Avg. New Cases",
+    "smaller_conc" = "Normalized SARS-CoV-2 Concentration",
+    "detect_prop_15d" = "Pct. Tests Detecting SARS-CoV-2",
+    #"ptc_15d" = "15-Day Pct. Change",
+    "percentile" = "Percentile")) %>%
+  drop_na()
+
+fig <- hchart(wastewater_plus_cases,
+              type = "line", 
+              hcaes(x = Date,
+                    y = round(avg_new_cases)),
+              name = "Avg. New Cases",
+              label = list(
+                enabled = TRUE),
+              color = "#B45F06",
+              yAxis = 0) %>%
+  hc_yAxis_multiples(create_axis(naxis = 4, heights = c(1,1,1,1),
+                                 title = list(text = NULL))) %>%
+  hc_add_series(
+    data = wastewater_plus_cases,
+    hcaes(x = Date,
+          y = signif(smaller_conc, digits = 3)),
+    label = list(
+      enabled = TRUE),
+    name = "Normalized SARS-CoV-2 Concentration",
+    color = "black",
+    type = "line",
+    yAxis = 1) %>%
+  hc_add_series(
+    data = wastewater_plus_cases,
+    hcaes(x = Date,
+          y = round(detect_prop_15d, digits = 1)),
+    name = "Pct. Tests Detecting SARS-CoV-2",
+    color = "#35978f",
+    tooltip = list(valueSuffix = "%"),
+    label = list(
+      enabled = TRUE),
+    type = "line",
+    yAxis = 2) %>%
+  hc_add_series(
+    data = wastewater_plus_cases,
+    hcaes(x = Date,
+          y = round(percentile, digits = 1)),
+    name = "Percentile",
+    tooltip = list(valueSuffix = "%"),
+    type = "line",
+    zones = list(
+      c(value = 0,
+        color = "#3a67a6"),
+      c(value = 20,
+        color = "#83b6d4"),
+      c(value = 40,
+        color = "#daf1f6"),
+      c(value = 60,
+        color = "#ff8355"),
+      c(value = 80,
+        color = "#d72a2a")),
+    label = list(
+      enabled = TRUE),
+    color = "#d72a2a",
+    yAxis = 3) %>%
+  #hc_title(text = "Housing Metrics") %>%
+  hc_credits(
+    enabled = TRUE,
+    text = "Source: CDC",
+    href = "http://www.dph.illinois.gov/covid19") %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_tooltip(shared = TRUE) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) %>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'month', count = 1, text = '1m'),
+                     list(type = 'month', count = 3, text = '3m'),
+                     #list(type = 'year', count = 1, text = '1y'),
+                     #list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 1)
+
+fig
+saveWidget(widget = fig, file = "interactive/champaign_wastewater.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
 
 
 # make variables ----

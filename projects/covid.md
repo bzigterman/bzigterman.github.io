@@ -15,11 +15,8 @@ Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](htt
 
 ### [Wastewater Surveillance](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance)
 
-<picture>
-  <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/champaign_wastewater.png"
-          media="(min-width: 750px)">
-  <img src="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/champaign_wastewater_mobile.png" alt="" />
-</picture>
+<iframe src="/interactive/champaign_wastewater.html" width="100%" height="700"> 
+</iframe>
 
 Definitions from the CDC: 
 
@@ -459,25 +456,25 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Average New Cases</td>
-<td class="gt_row gt_right">3K</td>
+<td class="gt_row gt_right">2K</td>
 <td class="gt_row gt_right">4K</td>
-<td class="gt_row gt_right">+57%</td></tr>
+<td class="gt_row gt_right">+75%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">370</td>
-<td class="gt_row gt_right gt_striped">558</td>
-<td class="gt_row gt_right gt_striped">+51%</td></tr>
+<td class="gt_row gt_right gt_striped">340</td>
+<td class="gt_row gt_right gt_striped">479</td>
+<td class="gt_row gt_right gt_striped">+41%</td></tr>
     <tr><td class="gt_row gt_left">Average New Deaths</td>
-<td class="gt_row gt_right">6</td>
-<td class="gt_row gt_right">8</td>
-<td class="gt_row gt_right">+33%</td></tr>
+<td class="gt_row gt_right">7</td>
+<td class="gt_row gt_right">5</td>
+<td class="gt_row gt_right">&minus;29%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Average New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">14K</td>
+<td class="gt_row gt_right gt_striped">18K</td>
 <td class="gt_row gt_right gt_striped">11K</td>
-<td class="gt_row gt_right gt_striped">&minus;15%</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;38%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Sunday</td>
     </tr>
   </tfoot>
   
@@ -932,25 +929,25 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">45K</td>
-<td class="gt_row gt_right">69K</td>
-<td class="gt_row gt_right">+53%</td></tr>
+<td class="gt_row gt_right">37K</td>
+<td class="gt_row gt_right">57K</td>
+<td class="gt_row gt_right">+54%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">10K</td>
-<td class="gt_row gt_right gt_striped">13K</td>
-<td class="gt_row gt_right gt_striped">+27%</td></tr>
+<td class="gt_row gt_right gt_striped">11K</td>
+<td class="gt_row gt_right gt_striped">+8%</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
-<td class="gt_row gt_right">345</td>
-<td class="gt_row gt_right">340</td>
-<td class="gt_row gt_right">&minus;1%</td></tr>
+<td class="gt_row gt_right">359</td>
+<td class="gt_row gt_right">307</td>
+<td class="gt_row gt_right">&minus;14%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">401K</td>
-<td class="gt_row gt_right gt_striped">275K</td>
-<td class="gt_row gt_right gt_striped">&minus;31%</td></tr>
+<td class="gt_row gt_right gt_striped">445K</td>
+<td class="gt_row gt_right gt_striped">284K</td>
+<td class="gt_row gt_right gt_striped">&minus;36%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Sunday</td>
     </tr>
   </tfoot>
   
@@ -1414,17 +1411,17 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">725K</td>
-<td class="gt_row gt_right">517K</td>
-<td class="gt_row gt_right">&minus;29%</td></tr>
+<td class="gt_row gt_right">823K</td>
+<td class="gt_row gt_right">600K</td>
+<td class="gt_row gt_right">&minus;27%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">3K</td>
-<td class="gt_row gt_right gt_striped">2K</td>
-<td class="gt_row gt_right gt_striped">&minus;19%</td></tr>
+<td class="gt_row gt_right gt_striped">3K</td>
+<td class="gt_row gt_right gt_striped">&minus;7%</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
-<td class="gt_row gt_right">10M</td>
 <td class="gt_row gt_right">9M</td>
-<td class="gt_row gt_right">&minus;14%</td></tr>
+<td class="gt_row gt_right">10M</td>
+<td class="gt_row gt_right">+6%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">5B</td>
 <td class="gt_row gt_right gt_striped">5B</td>
@@ -1436,7 +1433,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Saturday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Sunday</td>
     </tr>
   </tfoot>
   
@@ -1445,12 +1442,12 @@ html {
 
 ## Case Acceleration
 
-As of Saturday, the 14-day percent change in average new cases was:
+As of Sunday, the 14-day percent change in average new cases was:
   
-- 6% in Champaign County
-- 57% in Illinois
-- 48% in the United States
-- -29% worldwide
+- -19% in Champaign County
+- 75% in Illinois
+- 68% in the United States
+- -27% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png"
@@ -1462,11 +1459,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Saturday, the 14-day percent change in average new deaths was:
+As of Sunday, the 14-day percent change in average new deaths was:
   
-- 33% in Illinois
-- 46% in the United States
-- -19% worldwide
+- -29% in Illinois
+- -23% in the United States
+- -7% worldwide
 
 <picture>
   <source srcset="https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png"
