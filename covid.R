@@ -1581,11 +1581,8 @@ Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](htt
 
 ### [Wastewater Surveillance](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance)
 
-<picture>
-  <source srcset=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/champaign_wastewater.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/champaign_wastewater_mobile.png\" alt=\"\" />
-</picture>
+<iframe src=\"/interactive/champaign_wastewater.html\" width=\"100%\" height=\"700\"> 
+</iframe>
 
 Definitions from the CDC: 
 
