@@ -9,6 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:28 AM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news">Live Updates: Putin Defends His War in Ukraine</a> NYT: The Russian leader praised his forces but made no major announcements in a defiant speech at the annual Victory Day parade that marks the defeat of Nazi Germany. 
+ <p class="updated_time"> 05:18 AM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/09/world/philippines-election">Philippines Live Updates: Relations With China Loom Large</a> NYT: How the next leader deals with an increasingly assertive Beijing has become an issue with voters. The top two candidates have proposed moving away from the current president’s cozy stance. 
+ <p class="updated_time"> 05:17 AM CT, May. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61379105?at_medium=RSS&at_campaign=KARANGA">Cuba's Saratoga Hotel: Firefighters search rubble after blast</a> BBC: A powerful blast which officials think was caused by a gas tanker tore through the hotel on Friday. 
+ <p class="updated_time"> 05:05 AM CT, May. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61379746?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Pro-government supporters attack protesters in Colombo</a> BBC: Police are deployed as ruling party supporters attack crowds protesting at the economic crisis. 
+ <p class="updated_time"> 05:02 AM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/2022/05/09/world/asia/violence-machines-broken.html">Reports of Violence Leave Philippines Voters on Edge</a> NYT: Security was tight for this election, a particularly high-stakes contest that some observers have called an existential battle for the soul of the nation. 
+ <p class="updated_time"> 04:32 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Ukraine Fights for Besieged Mariupol as Russia Marks Key Date</a> WSJ: Ukraine Fights for Besieged Mariupol as Russia Marks Key Date 
  <p class="updated_time"> 04:30 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61377886?at_medium=RSS&at_campaign=KARANGA">Putin says Russia fighting for motherland in Ukraine in Victory Day speech</a> BBC: The Russian leader uses Victory Day to tie the war in Ukraine to the fight against Nazi Germany. 
  <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
@@ -19,34 +31,28 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/09/world/asia/taiwan-china-covid.html">Taiwan Pivots From ‘Zero Covid’ as Beijing Doubles Down</a> NYT: The government’s shift reflects a recognition that stringent pandemic measures were stifling economic activity and eroding the island’s international competitiveness. 
  <p class="updated_time"> 03:51 AM CT, May. 09 </p> 
  <a href="https://www.npr.org/2022/05/09/1097541834/paris-trial-to-open-for-2009-plane-crash-that-left-152-dead-and-1-alive">Paris trial to open for 2009 plane crash that left 152 dead and 1 alive</a> NPR: The flag carrier airline from Yemen is being tried in Paris over the injuries of a then-12-year-old girl and the deaths of 65 French citizens. 
- <p class="updated_time"> 03:49 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Ukraine Fights for Besieged Mariupol as Russia Marks Key Date</a> WSJ: Ukraine Fights for Besieged Mariupol as Russia Marks Key Date 
+ <p class="updated_time"> 03:32 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
  <p class="updated_time"> 03:20 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61376816?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Patron the mine-sniffing dog awarded medal</a> BBC: Patron, aged two-and-a-half, is credited with helping find more than 200 devices since the war began. 
  <p class="updated_time"> 02:56 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61344609?at_medium=RSS&at_campaign=KARANGA">Philippines election: Marcos family eye return to power as country votes</a> BBC: Millions are casting their vote in an election that could see the Marcos family sweep back into office. 
- <p class="updated_time"> 02:56 AM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/2022/05/09/world/asia/violence-machines-broken.html">Reports of Violence Leave Philippines Voters on Edge</a> NYT: Security was tight for this election, a particularly high-stakes contest that some observers have called an existential battle for the soul of the nation. 
- <p class="updated_time"> 02:49 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
  <p class="updated_time"> 02:37 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/robredo-philippines-election.html">Leni Robredo Is the Only Woman in the Philippines Presidential Race</a> NYT: Leni Robredo has received a groundswell of support from “Generation Z” and thousands of millennials inspired by her effort to take on Ferdinand Marcos Jr. 
- <p class="updated_time"> 01:49 AM CT, May. 09 </p> 
+ <p class="updated_time"> 02:32 AM CT, May. 09 </p> 
  <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 01:45 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61375687?at_medium=RSS&at_campaign=KARANGA">IndiGo: Anger after India airline removes disabled teenager</a> BBC: IndiGo allegedly refused to let the teenager board its flight, saying he was a "risk to passengers". 
+ <p class="updated_time"> 12:32 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 11:55 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/marcos-jr-philippines-election.html">Ferdinand Marcos Jr., Late Dictator’s Son, May Lead the Philippines</a> NYT: Ferdinand Marcos Jr. has spent decades defending his family’s name against accusations of corruption and downplaying his father’s brutal regime. 
- <p class="updated_time"> 11:49 PM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 09:53 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61375064?at_medium=RSS&at_campaign=KARANGA">Otoniel: Colombia steps up operation against rioting cartel</a> BBC: The Gulf Clan announced an "armed strike" after its leader was extradited to the US. 
  <p class="updated_time"> 08:37 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/bomb-sniffing-dog-patron-zelensky.html">Ukrainian Bomb-Sniffing Dog Named Patron Honored by Zelensky</a> NYT: Patron has found more than 200 explosives, President Zelensky said. The dog has gone viral as Ukraine wages an information war. 
  <p class="updated_time"> 08:26 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/us/politics/un-agency-loans-resignation.html">Head of U.N. Agency Resigns After Questions Arise About Loans</a> NYT: The little-known organization gave out $61 million in loans and grant money to a single British family, in a scandal that has shaken and embarrassed the U.N. 
- <p class="updated_time"> 07:49 PM CT, May. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Here’s What Happened on Day 73 of the War in Ukraine</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
  <p class="updated_time"> 07:15 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61374008?at_medium=RSS&at_campaign=KARANGA">Ukraine war: First ladies meet as US announces new sanctions</a> BBC: The US first lady met her Ukrainian counterpart as Washington sanctions 2,600 individuals. 
  <p class="updated_time"> 06:26 PM CT, May. 08 </p> 
@@ -73,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/08/world/americas/bahamas-sandals-resort-americans-dead.html">3 Americans Die in Mysterious Circumstances at Bahamas Resort</a> NYT: It was unclear what happened but officials said they did not suspect foul play and there were no signs of trauma. Another guest was hospitalized in stable condition. 
  <p class="updated_time"> 02:04 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/g7-nations-russia-oil.html">G7 Nations Pledge to Ban or Phase Out the Import of Russian Oil</a> NYT: With much of Europe dependent on Russian oil, the Group of 7 said the ban would take effect in a “timely and orderly fashion.” 
- <p class="updated_time"> 01:18 PM CT, May. 08 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61373057?at_medium=RSS&at_campaign=KARANGA">UK YouTuber Benjamin Rich quizzed and fined at Russian space centre</a> BBC: Bald and Bankrupt vlogger Benjamin Rich says he was questioned by Russian police in Kazakhstan. 
  <p class="updated_time"> 12:56 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61373192?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: The protests unifying a nation where ethnic fault lines run deep</a> BBC: Unprecedented protests in Colombo are unifying a nation where ethnic fault lines run deep. 
  <p class="updated_time"> 12:46 PM CT, May. 08 </p> 
@@ -148,8 +152,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:38 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-61350174?at_medium=RSS&at_campaign=KARANGA">Fergal Keane: How I found a way to live with PTSD</a> BBC: The BBC correspondent, who was diagnosed with PTSD in 2008, explores the effects of the condition and how it can be treated. 
  <p class="updated_time"> 06:09 PM CT, May. 07 </p> 
- <a href="https://www.bbc.co.uk/news/stories-61338799?at_medium=RSS&at_campaign=KARANGA">The return of California's butterflies</a> BBC: Efforts to protect these beautiful insects include driving electric tractors and hand-rearing them in a lab. 
- <p class="updated_time"> 06:09 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61328696?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Why 9 May matters to Russia</a> BBC: Ros Atkins explains why Victory Day is such an important date in Russia. 
  <p class="updated_time"> 06:06 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61354626?at_medium=RSS&at_campaign=KARANGA">'We tried not to watch' - escapees recount terror of Russian-occupied Izyum</a> BBC: Two women recall what happened when Russia took over a strategically-important city in the Donbas. 
@@ -222,6 +224,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/09/1097100048/democrats-abortion-young-voters-midterms">Democrats hope abortion will jolt young voters to action in the midterms</a> NPR: These midterms, younger voters have soured on the Democratic Party. Party leaders see the threat to abortion rights as an opportunity to rebuild the multigenerational coalition that elected Joe Biden. 
  <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/us/politics/west-virginia-trump.html">Trump Figures in West Virginia House Race</a> NYT: The incumbent-on-incumbent Republican primary between Representatives Alex Mooney and David McKinley on Tuesday will again test the former president’s grip on the G.O.P. 
+ <p class="updated_time"> 03:30 AM CT, May. 09 </p> 
+ <a href="https://www.politico.com/news/2022/05/09/democrats-last-best-chance-house-00030935">The Democrats’ last, best chance to save the House</a> Politico: Roughly a dozen GOP House seats that Joe Biden carried in 2020 are key to any Democratic hope of saving their flimsy majority. 
+ <p class="updated_time"> 03:30 AM CT, May. 09 </p> 
+ <a href="https://www.politico.com/news/2022/05/09/attorney-general-elections-candidates-abortion-00030821">Democratic AG candidates pitch themselves as the last line of defense on abortion</a> Politico: With the heightened possibility that abortion rights could, in a matter of weeks, be an issue left to the states, attorney general candidates across the country are reminding voters of the stakes. 
+ <p class="updated_time"> 03:30 AM CT, May. 09 </p> 
+ <a href="https://www.politico.com/news/2022/05/09/jan-6-panel-donald-trump-allies-00030781">How the Jan. 6 panel broke through Trump allies' stonewalling</a> Politico: High-level aides to the former president aren't the only ones who can detail his network's movements leading up to and during the Capitol attack. 
+ <p class="updated_time"> 03:30 AM CT, May. 09 </p> 
+ <a href="https://www.politico.com/news/2022/05/09/global-covid-summit-funding-00030868">U.S. to ask world for more on global Covid fight as its own cash dwindles</a> Politico: Without additional funds, it will be difficult for U.S. vaccine programs abroad to continue. 
  <p class="updated_time"> 09:35 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/us/politics/midterms-abortion-pennsylvania.html">Midterms’ Biggest Abortion Battleground: Pennsylvania</a> NYT: The leading Republicans running for governor in the state want to outlaw abortion. The presumptive Democratic nominee promises to veto any ban. 
  <p class="updated_time"> 08:26 PM CT, May. 08 </p> 
@@ -284,12 +294,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/08/telemedicine-abortion-providers-interest-surge-roe-00030800">Telemedicine abortion providers see a surge in interest</a> Politico: If the Supreme Court adopts the draft opinion, experts forecast that people seeking abortions will turn to telemedicine and abortion pills that can be mailed discreetly to a home. 
  <p class="updated_time"> 06:00 AM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/biden-trade-policy-russia-ukraine-00025321">Biden’s trade team: RIP globalization</a> Politico: Russia’s invasion of Ukraine accelerates the administration’s efforts to find a path between global free trade and Trump-like protectionism. 
- <p class="updated_time"> 05:49 AM CT, May. 08 </p> 
- <a href="https://www.politico.com/news/2022/05/08/beijing-loyalist-john-lee-elected-hong-kongs-next-leader-00030891">Beijing loyalist John Lee elected  Hong Kong’s next leader</a> Politico: He was the only candidate. 
  <p class="updated_time"> 05:37 AM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/dead-russian-shell-hits-ukrainian-school-00030890">More than 60 feared dead in bombing of Ukrainian school</a> Politico: People were sheltering in the basement. 
- <p class="updated_time"> 08:24 PM CT, May. 07 </p> 
- <a href="https://www.politico.com/news/2022/05/07/judge-spares-clinton-camp-in-sussmann-ruling-00030887">Judge spares Clinton camp in Sussmann ruling</a> Politico: The decision issued Saturday afternoon limits evidence and testimony prosecutors can offer against attorney Michael Sussmann at a jury trial set to get underway later this month. 
  <p class="updated_time"> 04:44 PM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097434985/jill-biden-tours-romanian-school-that-brought-in-ukrainian-refugees">Jill Biden tours Romanian school that brought in Ukrainian refugees</a> NPR: First Lady Jill Biden visited with Ukrainian refugees in Bucharest while on a four-day trip to Romania and Slovakia — two NATO allies that border Ukraine. 
  <p class="updated_time"> 03:51 PM CT, May. 07 </p> 
@@ -308,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/07/1097382507/supreme-court-abortion-clarence-thomas-bullied-roe-v-wade">After the leaked Roe opinion, Justice Thomas says the Supreme Court can't be bullied</a> NPR: Chief Justice John Roberts, speaking at the same judicial conference as Thomas, called the leak of a draft opinion striking down Roe v. Wade earlier this week "absolutely appalling." 
  <p class="updated_time"> 09:55 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/us/politics/florida-rejected-math-textbooks.html">Florida Releases Reviews That Led to Rejection of Math Textbooks</a> NYT: To explain its puzzling rejection of dozens of textbooks, the state released 6,000 pages of comments, revealing an often confusing and divisive process. 
- <p class="updated_time"> 09:51 AM CT, May. 07 </p> 
- <a href="https://www.politico.com/news/2022/05/07/ohio-gop-primary-trump-2024-00030807">Ohio was a test case for 2024. The GOP establishment looks screwed.</a> Politico: The Senate contest provided important clues about the size and shape of a key group of voters. 
  <p class="updated_time"> 07:25 AM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097378826/florida-election-law-appeals-court-reinstates">An appeals court reinstates portions of Florida's new election law</a> NPR: A federal appeals court granted Florida's request to reinstate parts of the state's election law while it appeals a lower court's decision that the law was aimed at suppressing Black voters. 
  <p class="updated_time"> 07:05 AM CT, May. 07 </p> 
@@ -334,10 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/us/politics/trump-twitter-lawsuit.html">Federal Judge Dismisses Trump’s Lawsuit Seeking to Reinstate His Twitter Account</a> NYT: The former president sued Twitter after it permanently blocked his account in the wake of the Capitol riot. 
  <p class="updated_time"> 06:01 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/politics/gitmo-prisoner-uss-cole.html">Guantánamo Detainee Refuses to Testify for Accused U.S.S. Cole Bomber</a> NYT: Defense lawyers wanted a deposition from a Yemeni detainee who has been cleared for release, but the detainee said he feared his testimony would be used against him. 
- <p class="updated_time"> 04:06 PM CT, May. 06 </p> 
- <a href="https://www.politico.com/news/2022/05/06/2022-election-forecast-political-environment-candidate-strength-00030760">Why the political environment is outweighing candidate strength — for now</a> Politico: An extreme candidate may cost the GOP in a battleground House district in Ohio, but the new district lines there are tough for Democrats. 
- <p class="updated_time"> 02:36 PM CT, May. 06 </p> 
- <a href="https://www.politico.com/news/2022/05/06/midterm-elections-abortion-rights-governors-00030771">Inside the Forecast: Abortion rights bring governor races into spotlight</a> Politico: POLITICO’s Steve Shepard demystifies this week’s election data in a video series. 
 
 
 </details>
