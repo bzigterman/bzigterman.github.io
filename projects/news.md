@@ -9,7 +9,15 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:14 PM CT, May. 09 </p> 
+ <p class="updated_time"> 03:31 PM CT, May. 09 </p> 
+ <a href="https://www.npr.org/2022/05/09/1097673841/ferdinand-marcos-jr-is-poised-to-win-the-philippine-presidency-by-a-landslide">Ferdinand Marcos, Jr., is poised to win the Philippine presidency by a landslide</a> NPR: Ferdinand Marcos, Jr., the son of the Philippine strongman ousted in the 1980s, has been elected in a landslide to become the Southeast Asian country's next president. 
+ <p class="updated_time"> 03:31 PM CT, May. 09 </p> 
+ <a href="https://www.npr.org/2022/05/09/1097673827/what-reproductive-rights-look-like-around-the-world">What reproductive rights look like around the world</a> NPR: As the U.S. Supreme Court considers whether to overturn the constitutional right to an abortion, here's a look at abortion rights and access around the world. 
+ <p class="updated_time"> 03:31 PM CT, May. 09 </p> 
+ <a href="https://www.npr.org/2022/05/09/1097673799/former-honduran-president-will-be-in-a-new-york-courtroom-for-drug-charges-tomor">Former Honduran president will be in a New York courtroom for drug charges tomorrow</a> NPR: NPR's Adrian Florido talks with Reuters reporter Sarah Kinosian about the former Honduran president's arraignment in New York. He's accused of working with drug cartels to send cocaine into the U.S. 
+ <p class="updated_time"> 03:31 PM CT, May. 09 </p> 
+ <a href="https://www.npr.org/2022/05/09/1097673785/a-growing-number-of-white-nationalists-have-been-converting-to-orthodox-christia">A growing number of white nationalists have been converting to Orthodox Christianity</a> NPR: Russian President Vladimir Putin spoke in Moscow's Red Square during a Victory Day celebration, telling troops that they are fighting in Ukraine "so that nobody forgets the lessons of World War II." 
+ <p class="updated_time"> 03:16 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news">Ukraine Live Updates: Putin Delivers Defiant Speech, but Stops Short of Escalation</a> NYT: The Russian leader praised his forces in a Victory Day speech that seemed aimed at a domestic audience, with an unexpected acknowledgment of the cost of war. 
  <p class="updated_time"> 03:13 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/emmanuel-macron-european-union-ukraine.html">Macron Calls for ‘Stronger’ Europe but Quashes Ukraine’s Hopes of Joining E.U. Soon</a> NYT: French president Emmanuel Macron spoke in Strasbourg and Berlin on Monday, outlining proposals to reform the European Union. 
@@ -27,16 +35,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61388001?at_medium=RSS&at_campaign=KARANGA">Ecuador prison riot: More than 40 inmates killed</a> BBC: Ecuador is battling a wave of deadly gang violence and has seen its worst prison riots in history. 
  <p class="updated_time"> 02:40 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/europe/queen-elizabeth-parliament-opening.html">Queen Elizabeth to Miss Opening of Parliament</a> NYT: Prince Charles will deliver the Queen’s Speech instead of his mother, who has missed the constitutional monarchy’s powerful symbol only twice in 70 years. 
- <p class="updated_time"> 02:20 PM CT, May. 09 </p> 
+ <p class="updated_time"> 02:38 PM CT, May. 09 </p> 
  <a href="https://www.wsj.com/articles/putin-uses-russias-victory-day-parade-to-justify-invasion-of-ukraine-11652093244">Putin Uses Russia’s Victory Day Parade to Justify Invasion of Ukraine</a> WSJ: Putin Uses Russia’s Victory Day Parade to Justify Invasion of Ukraine 
  <p class="updated_time"> 01:59 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/americas/bahamas-sandals-resort-americans-dead.html">3 Americans Die in Mysterious Circumstances at Bahamas Resort</a> NYT: It was unclear what happened but officials said they did not suspect foul play and there were no signs of trauma. Another guest was hospitalized in stable condition. 
  <p class="updated_time"> 01:51 PM CT, May. 09 </p> 
  <a href="https://www.npr.org/2022/05/09/1097638041/dictators-son-far-ahead-in-philippine-presidential-vote">Dictator's son far ahead in Philippine presidential vote</a> NPR: With 80% of the votes tabulated, Marcos Jr. had 25.9 million, far ahead of his closest challenger, current Vice President Leni Robredo, who had 12.3 million. 
+ <p class="updated_time"> 01:38 PM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/putins-ukraine-adventure-unleashes-nuclear-genies-11652101354">Putin’s Ukraine Adventure Unleashes Nuclear Genies</a> WSJ: Putin’s Ukraine Adventure Unleashes Nuclear Genies 
  <p class="updated_time"> 01:26 PM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61381536?at_medium=RSS&at_campaign=KARANGA">Mahinda Rajapaksa: Sri Lankan PM resigns amid economic crisis</a> BBC: Protesters have been out on the streets since last month over soaring prices and power cuts. 
- <p class="updated_time"> 01:20 PM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/putins-ukraine-adventure-unleashes-nuclear-genies-11652101354">Putin’s Ukraine Adventure Unleashes Nuclear Genies</a> WSJ: Putin’s Ukraine Adventure Unleashes Nuclear Genies 
  <p class="updated_time"> 01:10 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html">Hundreds of Suicidal Teens Sleep in Emergency Rooms. Every Night.</a> NYT: With inpatient psychiatric services in short supply, adolescents are spending days, even weeks, in hospital emergency departments awaiting the help they desperately need. 
  <p class="updated_time"> 12:57 PM CT, May. 09 </p> 
@@ -45,6 +53,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/09/world/europe/world-war-ii-victory-day-russia-ukraine.html">Russia’s Invasion Upends Shared Victory Day History With Ukraine</a> NYT: The war has complicated relationships between Russians and Ukrainians. 
  <p class="updated_time"> 12:47 PM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61383632?at_medium=RSS&at_campaign=KARANGA">Ukraine bid to join EU will take decades says Macron</a> BBC: The French leader suggests other ways the EU can help Ukraine, other than fast tracking its membership. 
+ <p class="updated_time"> 12:38 PM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/she-was-a-soldier-in-the-red-army-now-shes-a-torch-bearer-for-ukraine-11652119269">She Was a Soldier in the Red Army. Now She’s a Torch-Bearer for Ukraine.</a> WSJ: She Was a Soldier in the Red Army. Now She’s a Torch-Bearer for Ukraine. 
  <p class="updated_time"> 12:37 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html">A U.N. Agency Gave $61 Million to One Family. It Didn’t Go Well.</a> NYT: A little-known United Nations agency decided to make an impact by doling out loans and grant money — all to a single family. It did not go well. 
  <p class="updated_time"> 12:34 PM CT, May. 09 </p> 
@@ -53,22 +63,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/us/politics/china-taiwan-weapons.html">Taiwan and U.S. Consider Weapons Suited to Defend Against China   </a> NYT: The Biden administration’s push for Taiwan to order missiles and smaller arms for asymmetric warfare has gained urgency since Russia’s invasion of Ukraine. 
  <p class="updated_time"> 12:20 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/europe/russia-victory-parade-photos.html">In Photos: Russia Celebrates Victory Day Holiday With Parade in Red Square</a> NYT: President Vladimir V. Putin used his speech on Russia’s most important secular holiday to rally support for the country’s invasion of Ukraine. 
- <p class="updated_time"> 12:20 PM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/she-was-a-soldier-in-the-red-army-now-shes-a-torch-bearer-for-ukraine-11652119269">She Was a Soldier in the Red Army. Now She’s a Torch-Bearer for Ukraine.</a> WSJ: She Was a Soldier in the Red Army. Now She’s a Torch-Bearer for Ukraine. 
  <p class="updated_time"> 11:46 AM CT, May. 09 </p> 
  <a href="https://www.npr.org/2022/05/09/1097606628/world-leaders-weighed-in-on-the-war-in-ukraine-on-victory-in-europe-day">World leaders weighed in on the war in Ukraine on Victory in Europe Day</a> NPR: Chancellor Olaf Scholz warned peace is impossible under Russian dictatorship, saying "freedom and security will win the day, just as freedom and security triumphed over oppression, ... 77 years ago." 
  <p class="updated_time"> 11:40 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61377886?at_medium=RSS&at_campaign=KARANGA">Putin says Russia fighting for motherland in Ukraine in Victory Day speech</a> BBC: The Russian leader uses Victory Day to tie the war in Ukraine to the fight against Nazi Germany. 
+ <p class="updated_time"> 11:38 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/the-surprising-backstory-of-how-the-steele-dossier-was-created-11652103582">Three Friends Chatting: How the Steele Dossier Was Created</a> WSJ: Three Friends Chatting: How the Steele Dossier Was Created 
  <p class="updated_time"> 11:35 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/europe/starmer-labour-covid-rules.html">U.K. Labour Leader Pledges to Resign if Police Find He Broke Covid Rules</a> NYT: But Keir Starmer maintained that he was within the law when he had a beer with takeout food during a campaign meeting last year. 
- <p class="updated_time"> 11:20 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/the-surprising-backstory-of-how-the-steele-dossier-was-created-11652103582">Three Friends Chatting: How the Steele Dossier Was Created</a> WSJ: Three Friends Chatting: How the Steele Dossier Was Created 
  <p class="updated_time"> 10:43 AM CT, May. 09 </p> 
  <a href="https://www.npr.org/2022/05/09/1097585032/patron-dog-ukraine-zelenskyy-medal">Patron the bomb-sniffing dog cements his hero status with a presidential medal</a> NPR: The tiny Jack Russell terrier is credited with detecting hundreds of Russian explosive devices since the start of the war. His other pastimes include snacking on cheese and napping at press briefings. 
+ <p class="updated_time"> 10:38 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/philippines-votes-for-president-with-ex-dictators-son-leading-opinion-polls-11652063633">Ferdinand Marcos Jr., Son of Former Philippines Dictator, on Track for Big Win in Presidential Election</a> WSJ: Ferdinand Marcos Jr., Son of Former Philippines Dictator, on Track for Big Win in Presidential Election 
  <p class="updated_time"> 10:20 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/bomb-sniffing-dog-patron-zelensky.html">Ukrainian Bomb-Sniffing Dog Named Patron Honored by Zelensky</a> NYT: Patron has found more than 200 explosives, President Zelensky said. The dog has gone viral as Ukraine wages an information war. 
- <p class="updated_time"> 10:20 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/philippines-votes-for-president-with-ex-dictators-son-leading-opinion-polls-11652063633">Ferdinand Marcos Jr., Son of Former Philippines Dictator, on Track for Big Win in Presidential Election</a> WSJ: Ferdinand Marcos Jr., Son of Former Philippines Dictator, on Track for Big Win in Presidential Election 
  <p class="updated_time"> 09:45 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61379106?at_medium=RSS&at_campaign=KARANGA">Haiti's 400 Mawozo gang abducts 17 people from tourist bus</a> BBC: A gang infamous for taking hostages for ransom abducts a bus full of Haitian and Turkish passengers. 
  <p class="updated_time"> 09:37 AM CT, May. 09 </p> 
@@ -147,14 +155,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/08/1097458605/taliban-declares-women-and-girls-must-cover-up-from-head-to-toe-in-public">Taliban declares women and girls must cover up from head to toe in public</a> NPR: The Taliban in Afghanistan have instructed that women cover up in public from head to toe, including their faces. NPR correspondent Diaa Hadid has been talking to women affected by the change. 
  <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097458577/first-lady-jill-biden-visits-ukrainian-refugees-in-slovakia">First Lady Jill Biden visits Ukrainian refugees in Slovakia</a> NPR: First Lady Jill Biden visited Romania and is spending time with Ukrainian refugees in Slovakia today. 
- <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
- <a href="https://www.npr.org/2022/05/08/1097458570/at-least-50-people-have-been-killed-in-an-airstrike-on-a-school-in-eastern-ukrai">At least 50 people have been killed in an airstrike on a school in eastern Ukraine</a> NPR: And in Mariupol, women, children and elderly civilians have been evacuated from the steel mill. Officials continue to work on humanitarian corridors for the rest of the city. 
- <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
- <a href="https://www.npr.org/2022/05/08/1097184192/russia-victory-day-2022">Russia's Victory Day celebrations take on new importance for the Kremlin this year</a> NPR: Russians celebrate Victory Day on Monday, May 9. The annual event marks the Soviet Union's victory over Nazi Germany in World War II, but it has taken on added importance this year because of Ukraine. 
- <p class="updated_time"> 06:26 AM CT, May. 08 </p> 
- <a href="https://www.npr.org/2022/05/08/1097458368/jill-biden-to-ukrainian-mom-russia-war-hard-to-understand">Jill Biden to Ukrainian mom: Russia war 'hard to understand'</a> NPR: U.S. first lady Jill Biden spent Mother's Day in Slovakia, meeting Ukrainian mothers who have been displaced by Russia's war and assuring them that the "hearts of the American people" are behind them. 
- <p class="updated_time"> 06:17 AM CT, May. 08 </p> 
- <a href="https://www.npr.org/2022/05/08/1097457937/dozens-feared-dead-after-russian-bomb-levels-ukraine-school">More than 60 are feared dead in the bombing of a Ukrainian school</a> NPR: The school was sheltering about 90 people in the village of Bilohorivka. 
  <p class="updated_time"> 04:19 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/asia/hong-kong-john-lee.html">John Lee Wins Hong Kong’s Rubber-Stamp Election</a> NYT: John Lee, who won a rubber-stamp leadership election on Sunday, will implement the next stage of China’s agenda for the former British colony. 
  <p class="updated_time"> 04:00 AM CT, May. 08 </p> 
@@ -202,12 +202,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:31 PM CT, May. 09 </p> 
+ <a href="https://www.npr.org/2022/05/09/1097673841/ferdinand-marcos-jr-is-poised-to-win-the-philippine-presidency-by-a-landslide">Ferdinand Marcos, Jr., is poised to win the Philippine presidency by a landslide</a> NPR: Ferdinand Marcos, Jr., the son of the Philippine strongman ousted in the 1980s, has been elected in a landslide to become the Southeast Asian country's next president. 
+ <p class="updated_time"> 03:31 PM CT, May. 09 </p> 
+ <a href="https://www.npr.org/2022/05/09/1097673820/2-republican-incumbents-face-off-in-west-virginias-primary-on-tuesday">2 Republican incumbents face off in West Virginia's primary on Tuesday</a> NPR: West Virginia lost a congressional seat after the 2020 census. That's set up a GOP primary between two members of Congress, one of whom who's got Trump's endorsement. 
+ <p class="updated_time"> 03:23 PM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/2022/05/09/books/midge-decter-dead.html">Midge Decter, an Architect of Neoconservatism, Dies at 94</a> NYT: As a writer and intellectual, she abandoned liberal politics, challenged the women’s movement and championed the Reagan Republican agenda. 
  <p class="updated_time"> 02:56 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/us/politics/ukraine-steel-tariffs.html">U.S. to Lift Tariffs on Ukrainian Steel</a> NYT: The Biden administration will lift a 25 percent tariff on the Ukrainian steel sector for one year to help the country’s economy. 
  <p class="updated_time"> 02:55 PM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/hill-leaders-strike-deal-on-nearly-40b-in-ukraine-aid-00031120">Hill leaders strike deal on nearly $40B in Ukraine aid</a> Politico: Biden informed top Democrats that he wanted Ukraine and Covid aid to move separately, according to a person familiar with the request. 
  <p class="updated_time"> 02:39 PM CT, May. 09 </p> 
- <a href="https://www.npr.org/2022/05/09/1097566167/2022-pulitzer-prizes-in-arts-and-letters-go-to-fat-ham-and-the-netenyahus">2022 Pulitzer Prizes in arts and letters go to Fat Ham and The Netenyahus</a> NPR: The Pulitzer Prizes in fiction, poetry, drama and other categories in arts and letters were announced in New York along with awards for journalism. 
+ <a href="https://www.npr.org/2022/05/09/1097566167/2022-pulitzer-prizes-in-arts-and-letters-go-to-fat-ham-and-the-netenyahus">2022 Pulitzer Prizes in arts and letters go to Fat Ham and The Netenyahus</a> NPR: The 2022 Pulitzer Prizes in fiction, poetry, drama and other categories in arts and letters were announced in New York along with awards for journalism. 
  <p class="updated_time"> 02:16 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/07/us/politics/florida-rejected-math-textbooks.html">Florida Releases Reviews That Led to Rejection of Math Textbooks</a> NYT: To explain its puzzling rejection of dozens of textbooks, the state released 6,000 pages of comments, revealing an often confusing and divisive process. 
  <p class="updated_time"> 01:58 PM CT, May. 09 </p> 
@@ -298,20 +304,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/08/jill-biden-ukraine-refugees-00030892">Jill Biden visits Ukraine after comforting refugees in Slovakia</a> Politico: She met in Ukraine with first lady Olena Zelenska. 
  <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
  <a href="https://www.cnn.com/2022/05/08/politics/soybean-farmers-china-tariff-trump/index.html">Trump's trade war looms over soybean farmers 4 years later</a> CNN: It's been nearly four years since China put tariffs on American-grown soybeans during a tit-for-tat trade war with then-President Donald Trump -- and they remain in place despite the change in administrations. 
- <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
- <a href="https://www.npr.org/2022/05/08/1097458577/first-lady-jill-biden-visits-ukrainian-refugees-in-slovakia">First Lady Jill Biden visits Ukrainian refugees in Slovakia</a> NPR: First Lady Jill Biden visited Romania and is spending time with Ukrainian refugees in Slovakia today. 
- <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
- <a href="https://www.npr.org/2022/05/08/1097274169/when-does-life-begin-religions-dont-agree">When does life begin? Religions don't agree </a> NPR: Debates about abortion often center around the issue of when life begins. Some religions say it's at conception. Another says it's with the baby's first breath. 
- <p class="updated_time"> 06:01 AM CT, May. 08 </p> 
- <a href="https://www.politico.com/news/2022/05/08/hochul-looks-for-a-turnaround-after-her-roughest-stretch-yet-00030484">Abortion battle, new lieutenant boost Hochul’s election bid after rough stretch</a> Politico: New York governor's polling sagged as she dealt with an arrested lieutenant governor, a bruising budget battle and a weak campaign rollout. 
  <p class="updated_time"> 06:00 AM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/telemedicine-abortion-providers-interest-surge-roe-00030800">Telemedicine abortion providers see a surge in interest</a> Politico: If the Supreme Court adopts the draft opinion, experts forecast that people seeking abortions will turn to telemedicine and abortion pills that can be mailed discreetly to a home. 
  <p class="updated_time"> 06:00 AM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/biden-trade-policy-russia-ukraine-00025321">Biden’s trade team: RIP globalization</a> Politico: Russia’s invasion of Ukraine accelerates the administration’s efforts to find a path between global free trade and Trump-like protectionism. 
  <p class="updated_time"> 08:24 PM CT, May. 07 </p> 
  <a href="https://www.politico.com/news/2022/05/07/judge-spares-clinton-camp-in-sussmann-ruling-00030887">Judge spares Clinton camp in Sussmann ruling</a> Politico: The decision issued Saturday afternoon limits evidence and testimony prosecutors can offer against attorney Michael Sussmann at a jury trial set to get underway later this month. 
- <p class="updated_time"> 03:51 PM CT, May. 07 </p> 
- <a href="https://www.nytimes.com/2022/05/06/us/politics/republicans-abortion.html">Republicans Recast Abortion Stance, Wary of Voter Backlash</a> NYT: While Democrats decry a draft opinion that would eliminate the constitutional right to an abortion, Republicans who worked decades for this moment have been largely silent. 
  <p class="updated_time"> 02:02 PM CT, May. 07 </p> 
  <a href="https://www.politico.com/news/2022/05/07/jan-6-committee-narrows-legal-fight-against-eastman-as-hearings-approach-00030884">Jan. 6 committee narrows legal fight against Eastman as hearings approach</a> Politico: The select committee will drop its efforts to obtain another 14,000 pages and indefinitely postpone its request for any others. 
  <p class="updated_time"> 01:42 PM CT, May. 07 </p> 
