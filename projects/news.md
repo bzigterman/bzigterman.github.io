@@ -9,26 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:56 AM CT, May. 09 </p> 
+ <p class="updated_time"> 02:37 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/robredo-philippines-election.html">Leni Robredo Is the Only Woman in the Philippines Presidential Race</a> NYT: Leni Robredo has received a groundswell of support from “Generation Z” and thousands of millennials inspired by her effort to take on Ferdinand Marcos Jr. 
+ <p class="updated_time"> 01:59 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Ukraine Fights for Besieged Mariupol as Russia Prepares to Mark Key Date</a> WSJ: Ukraine Fights for Besieged Mariupol as Russia Prepares to Mark Key Date 
  <p class="updated_time"> 01:45 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61375687?at_medium=RSS&at_campaign=KARANGA">IndiGo: Anger after India airline removes disabled teenager</a> BBC: IndiGo allegedly refused to let the teenager board its flight, saying he was a "risk to passengers". 
- <p class="updated_time"> 01:34 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Ukraine Fights for Besieged Mariupol as Russia Prepares to Mark Key Date</a> WSJ: Ukraine Fights for Besieged Mariupol as Russia Prepares to Mark Key Date 
+ <p class="updated_time"> 12:59 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
  <p class="updated_time"> 12:58 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/violence-machines-broken.html">Reports of Violence Leave Philippines Voters on Edge</a> NYT: Security was tight for this election, a particularly high-stakes contest that some observers have called an existential battle for the soul of the nation. 
  <p class="updated_time"> 12:45 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61344609?at_medium=RSS&at_campaign=KARANGA">Philippines election: Marcos family eye return to power as country votes</a> BBC: Millions are casting their vote in an election that could see the Marcos family sweep back into office. 
- <p class="updated_time"> 12:34 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
+ <p class="updated_time"> 11:59 PM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 11:55 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/marcos-jr-philippines-election.html">Ferdinand Marcos Jr., Late Dictator’s Son, May Lead the Philippines</a> NYT: Ferdinand Marcos Jr. has spent decades defending his family’s name against accusations of corruption and downplaying his father’s brutal regime. 
- <p class="updated_time"> 11:34 PM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
+ <p class="updated_time"> 09:59 PM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 09:53 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61375064?at_medium=RSS&at_campaign=KARANGA">Otoniel: Colombia steps up operation against rioting cartel</a> BBC: The Gulf Clan announced an "armed strike" after its leader was extradited to the US. 
- <p class="updated_time"> 09:34 PM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 08:37 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/bomb-sniffing-dog-patron-zelensky.html">Ukrainian Bomb-Sniffing Dog Named Patron Honored by Zelensky</a> NYT: Patron has found more than 200 explosives, President Zelensky said. The dog has gone viral as Ukraine wages an information war. 
  <p class="updated_time"> 08:26 PM CT, May. 08 </p> 
