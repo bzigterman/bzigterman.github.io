@@ -9,20 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:24 AM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/05/09/world/philippines-election">Philippines Live Updates: Ferdinand Marcos Jr. Takes Huge Lead</a> NYT: Mr. Marcos, the son and namesake of the former dictator, remained cautious. “It’s not over yet,” he said, adding, “If I do get lucky, I am hoping for your unending help and trust.” 
- <p class="updated_time"> 11:19 AM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news">Ukraine Live Updates: Putin Defends War, Without Signaling Escalation</a> NYT: The Russian leader praised his forces but announced no change in the military campaign, in a defiant speech at the annual Victory Day parade that marks the defeat of Nazi Germany. 
- <p class="updated_time"> 11:12 AM CT, May. 09 </p> 
+ <p class="updated_time"> 12:32 PM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/09/world/philippines-election">Philippines Live Updates: Ferdinand Marcos Jr. Takes Huge Lead</a> NYT: Early returns put Mr. Marcos, the son and namesake of the former dictator, on the verge of winning the presidency in one of the country’s most consequential elections in decades. 
+ <p class="updated_time"> 12:31 PM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news">Ukraine Live Updates: Putin Delivers Defiant Speech, but Stops Short of Escalation</a> NYT: The Russian leader praised his forces in a Victory Day speech that seemed aimed at a domestic audience, with an unexpected acknowledgment of the cost of war. 
+ <p class="updated_time"> 12:31 PM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/2022/05/09/world/world-war-ii-victory-day-russia-ukraine.html">Russia’s Invasion Upends Shared Victory Day History With Ukraine</a> NYT: For decades on May 9, when the Soviet Union marked Victory Day, Russians and Ukrainians marched in parades and laid flowers at monuments, always together. Not this year. 
+ <p class="updated_time"> 12:23 PM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/2022/05/07/us/politics/china-taiwan-weapons.html">Taiwan and U.S. Consider Weapons Suited to Defend Against China   </a> NYT: The Biden administration’s push for Taiwan to order missiles and smaller arms for asymmetric warfare has gained urgency since Russia’s invasion of Ukraine. 
+ <p class="updated_time"> 12:20 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/europe/russia-victory-parade-photos.html">In Photos: Russia Celebrates Victory Day Holiday With Parade in Red Square</a> NYT: President Vladimir V. Putin used his speech on Russia’s most important secular holiday to rally support for the country’s invasion of Ukraine. 
- <p class="updated_time"> 10:53 AM CT, May. 09 </p> 
+ <p class="updated_time"> 12:18 PM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/2022/05/09/world/asia/mahinda-rajapaksa-resigns-sri-lanka.html">Sri Lanka’s Prime Minister Mahinda Rajapaksa Resigns in Face of Unrest</a> NYT: The move by Mahinda Rajapaksa came after his supporters instigated violent clashes in Colombo, the capital. It wasn’t immediately clear whether his resignation would satisfy opponents. 
+ <p class="updated_time"> 11:51 AM CT, May. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61385811?at_medium=RSS&at_campaign=KARANGA">Lake Mead: Shrinking reservoir reveals more human remains</a> BBC: More human remains are found in Lake Mead, a week after a suspected murder victim was discovered. 
+ <p class="updated_time"> 11:46 AM CT, May. 09 </p> 
+ <a href="https://www.npr.org/2022/05/09/1097606628/world-leaders-weighed-in-on-the-war-in-ukraine-on-victory-in-europe-day">World leaders weighed in on the war in Ukraine on Victory in Europe Day</a> NPR: Chancellor Olaf Scholz warned peace is impossible under Russian dictatorship, saying "freedom and security will win the day, just as freedom and security triumphed over oppression, ... 77 years ago." 
+ <p class="updated_time"> 11:41 AM CT, May. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61381536?at_medium=RSS&at_campaign=KARANGA">Mahinda Rajapaksa: Sri Lankan PM resigns amid economic crisis</a> BBC: Protesters have been out on the streets since last month over soaring prices and power cuts. 
+ <p class="updated_time"> 11:40 AM CT, May. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61377886?at_medium=RSS&at_campaign=KARANGA">Putin says Russia fighting for motherland in Ukraine in Victory Day speech</a> BBC: The Russian leader uses Victory Day to tie the war in Ukraine to the fight against Nazi Germany. 
+ <p class="updated_time"> 11:36 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/putin-uses-russias-victory-day-parade-to-justify-invasion-of-ukraine-11652093244">Putin Uses Russia’s Victory Day Parade to Justify Invasion of Ukraine</a> WSJ: Putin Uses Russia’s Victory Day Parade to Justify Invasion of Ukraine 
+ <p class="updated_time"> 11:35 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/europe/starmer-labour-covid-rules.html">U.K. Labour Leader Pledges to Resign if Police Find He Broke Covid Rules</a> NYT: But Keir Starmer maintained that he was within the law when he had a beer with takeout food during a campaign meeting last year. 
  <p class="updated_time"> 10:43 AM CT, May. 09 </p> 
  <a href="https://www.npr.org/2022/05/09/1097585032/patron-dog-ukraine-zelenskyy-medal">Patron the bomb-sniffing dog cements his hero status with a presidential medal</a> NPR: The tiny Jack Russell terrier is credited with detecting hundreds of Russian explosive devices since the start of the war. His other pastimes include snacking on cheese and napping at press briefings. 
- <p class="updated_time"> 10:40 AM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/2022/05/09/world/world-war-ii-victory-day-russia-ukraine.html">Russia’s Invasion Upends Shared Victory Day History With Ukraine</a> NYT: Explosions thundered in eastern Ukraine’s Donbas region, where many have close family ties to Russia. The war has complicated this relationship. 
- <p class="updated_time"> 10:33 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/putin-uses-russias-victory-day-parade-to-justify-invasion-of-ukraine-11652093244">Putin Uses Russia’s Victory Day Parade to Justify Invasion of Ukraine</a> WSJ: Putin Uses Russia’s Victory Day Parade to Justify Invasion of Ukraine 
+ <p class="updated_time"> 10:36 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/putins-ukraine-adventure-unleashes-nuclear-genies-11652101354">Putin’s Ukraine Adventure Unleashes Nuclear Genies</a> WSJ: Putin’s Ukraine Adventure Unleashes Nuclear Genies 
  <p class="updated_time"> 10:20 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/bomb-sniffing-dog-patron-zelensky.html">Ukrainian Bomb-Sniffing Dog Named Patron Honored by Zelensky</a> NYT: Patron has found more than 200 explosives, President Zelensky said. The dog has gone viral as Ukraine wages an information war. 
  <p class="updated_time"> 10:01 AM CT, May. 09 </p> 
@@ -31,24 +45,20 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61383632?at_medium=RSS&at_campaign=KARANGA">Ukraine bid to join EU will take decades says Macron</a> BBC: The French leader suggests other ways the EU can help Ukraine, other than fast tracking its membership. 
  <p class="updated_time"> 09:45 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61379106?at_medium=RSS&at_campaign=KARANGA">Haiti's 400 Mawozo gang abducts 17 people from tourist bus</a> BBC: A gang infamous for taking hostages for ransom abducts a bus full of Haitian and Turkish passengers. 
- <p class="updated_time"> 09:43 AM CT, May. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61381536?at_medium=RSS&at_campaign=KARANGA">Mahinda Rajapaksa: Sri Lankan PM resigns amid economic crisis</a> BBC: Protesters have been out on the streets since last month over soaring prices and power cuts. 
  <p class="updated_time"> 09:37 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61344609?at_medium=RSS&at_campaign=KARANGA">Philippines election: Marcos son eyes return with early lead</a> BBC: As votes are counted, Ferdinand "Bongbong" Marcos Jr takes a huge early lead in the presidential race. 
+ <p class="updated_time"> 09:36 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankan-prime-minister-resigns-11652100861">Sri Lankan Prime Minister Resigns</a> WSJ: Sri Lankan Prime Minister Resigns 
  <p class="updated_time"> 09:35 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61382289?at_medium=RSS&at_campaign=KARANGA">President Biden criticises abortion protests at judges' houses</a> BBC: Pro-choice activists marched to the homes of two conservative Supreme Court justices this weekend. 
- <p class="updated_time"> 09:33 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/putins-ukraine-adventure-unleashes-nuclear-genies-11652101354">Putin’s Ukraine Adventure Unleashes Nuclear Genies</a> WSJ: Putin’s Ukraine Adventure Unleashes Nuclear Genies 
- <p class="updated_time"> 09:15 AM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/2022/05/09/world/asia/mahinda-rajapaksa-resigns-sri-lanka.html">Sri Lanka’s Prime Minister Mahinda Rajapaksa Resigns in Face of Unrest</a> NYT: The move by Mahinda Rajapaksa came after his supporters instigated violent clashes in Colombo, the capital. It wasn’t immediately clear whether his resignation would satisfy opponents. 
  <p class="updated_time"> 09:10 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61376503?at_medium=RSS&at_campaign=KARANGA">Red liquid thrown over Russian ambassador to Poland at WWII cemetery</a> BBC: The moment red liquid is thrown over Russia's ambassador to Poland at a WWII cemetery. 
  <p class="updated_time"> 08:41 AM CT, May. 09 </p> 
  <a href="https://www.npr.org/2022/05/09/1097562723/the-prime-minister-of-sri-lanka-resigns-after-weeks-of-protests">The prime minister of Sri Lanka resigns after weeks of protests</a> NPR: Sri Lankan Prime Minister Mahinda Rajapaksa has tendered his resignation amid an economic crisis and violent protests against he and his brother, the country's president. 
- <p class="updated_time"> 08:33 AM CT, May. 09 </p> 
+ <p class="updated_time"> 08:36 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/the-surprising-backstory-of-how-the-steele-dossier-was-created-11652103582">The Surprising Backstory of How the Steele Dossier Was Created</a> WSJ: The Surprising Backstory of How the Steele Dossier Was Created 
+ <p class="updated_time"> 07:36 AM CT, May. 09 </p> 
  <a href="https://www.wsj.com/articles/philippines-votes-for-president-with-ex-dictators-son-leading-opinion-polls-11652063633">Ferdinand Marcos Jr., Son of Former Dictator, Leads Race for Philippines Presidency</a> WSJ: Ferdinand Marcos Jr., Son of Former Dictator, Leads Race for Philippines Presidency 
- <p class="updated_time"> 07:33 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/sri-lankan-prime-minister-resigns-11652100861">Sri Lankan Prime Minister Resigns</a> WSJ: Sri Lankan Prime Minister Resigns 
  <p class="updated_time"> 07:06 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61374718?at_medium=RSS&at_campaign=KARANGA">Nigerian airlines suspend plans to ground flights</a> BBC: Plans to stop domestic flights in protest at the spiralling cost of aviation fuel are suspended. 
  <p class="updated_time"> 07:01 AM CT, May. 09 </p> 
@@ -57,10 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61376500?at_medium=RSS&at_campaign=KARANGA">'You are fighting for Russia'- Putin addresses Victory Day parade</a> BBC: In his address, Vladimir Putin says that Russia has been threatened by Nato and other countries. 
  <p class="updated_time"> 06:59 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61372382?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'When the shelling stops, the traitors will be punished'</a> BBC: A clash of loyalties is dividing opinion among the residents of Bakhmut in Ukraine's eastern Donbas region. 
- <p class="updated_time"> 06:37 AM CT, May. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61377886?at_medium=RSS&at_campaign=KARANGA">Putin says Russia fighting for motherland in Ukraine in Victory Day speech</a> BBC: The Russian leader uses Victory Day to tie the war in Ukraine to the fight against Nazi Germany. 
- <p class="updated_time"> 06:33 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/shanghai-tightens-pandemic-rules-as-beijing-calls-for-victory-over-virus-11652102133">Shanghai Tightens Pandemic Rules</a> WSJ: Shanghai Tightens Pandemic Rules 
  <p class="updated_time"> 06:06 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61380727?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Putin gives few clues in Victory Day speech</a> BBC: Prior to Victory Day, Moscow was full of rumours about what Putin might announce in his speech. 
  <p class="updated_time"> 05:59 AM CT, May. 09 </p> 
@@ -71,16 +77,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/09/world/asia/philippines-election-violence-machines-broken.html">Reports of Violence Leave Philippines Voters on Edge</a> NYT: Security was tight for this election, a particularly high-stakes contest that some observers have called an existential battle for the soul of the nation. 
  <p class="updated_time"> 04:40 AM CT, May. 09 </p> 
  <a href="https://www.npr.org/2022/05/09/1097547054/russia-marks-wwii-victory-overshadowed-by-ukraine">Here's what Putin said about Ukraine in his Victory Day speech</a> NPR: Speaking at an annual parade to honor the end of World War II, Russia's president sought to link the past Soviet victory to the battle in Ukraine and signaled no major military or policy shifts. 
- <p class="updated_time"> 04:39 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/the-surprising-backstory-of-how-the-steele-dossier-was-created-11652103582">The Surprising Backstory of How the Steele Dossier Was Created</a> WSJ: In 2017, publication of the report, which claimed Donald Trump conspired with Russia to steer the U.S. election, rattled the political world. A WSJ review has found the document largely echoed chatter among three friends who were brought together over a minor corporate publicity contract. 
+ <p class="updated_time"> 04:15 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-tightens-pandemic-rules-as-beijing-calls-for-victory-over-virus-11652102133">Shanghai Tightens Pandemic Rules</a> WSJ: Residents said authorities in the coastal city, now in its sixth week under strict lockdown, have begun forcing more people into centralized quarantine facilities. 
  <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/europe/bullying-children-russia-war-europe.html">In Europe’s Schoolyards, Putin’s War Hurts Russian-Speaking Children</a> NYT: Across the continent, pupils face bullying, harassment and humiliation over the invasion of Ukraine, another perverse effect of a war that is overwhelmingly affecting the innocent. 
  <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/travel/oman-road-trip.html">A Woman Alone in Oman: Three Weeks Along the Arabian Coast</a> NYT: In December, a photographer set off on a 2,600-mile road trip, traveling from the Yemeni border to the Strait of Hormuz. Here’s what she saw. 
  <p class="updated_time"> 03:51 AM CT, May. 09 </p> 
  <a href="https://www.npr.org/2022/05/09/1097541834/paris-trial-to-open-for-2009-plane-crash-that-left-152-dead-and-1-alive">Paris trial to open for 2009 plane crash that left 152 dead and 1 alive</a> NPR: The flag carrier airline from Yemen is being tried in Paris over the injuries of a then-12-year-old girl and the deaths of 65 French citizens. 
- <p class="updated_time"> 03:20 AM CT, May. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61376816?at_medium=RSS&at_campaign=KARANGA">Patron the mine-sniffing dog awarded medal by President Zelensky</a> BBC: Patron, aged two-and-a-half, is credited with helping find more than 200 devices since the war began. 
  <p class="updated_time"> 01:45 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61375687?at_medium=RSS&at_campaign=KARANGA">IndiGo: Anger after India airline removes disabled teenager</a> BBC: IndiGo allegedly refused to let the teenager board its flight, saying he was a "risk to passengers". 
  <p class="updated_time"> 11:55 PM CT, May. 08 </p> 
@@ -147,8 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/08/world/asia/hong-kong-john-lee.html">John Lee Wins Hong Kong’s Rubber-Stamp Election</a> NYT: John Lee, who won a rubber-stamp leadership election on Sunday, will implement the next stage of China’s agenda for the former British colony. 
  <p class="updated_time"> 04:00 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/books/fernanda-melchor-paradais.html">Fernanda Melchor Explores the Human Capacity for Violence, and Grace</a> NYT: “Art must leave a wound,” said the author, one of the most celebrated in new Latin American literature. 
- <p class="updated_time"> 03:03 AM CT, May. 08 </p> 
- <a href="https://www.npr.org/2022/05/08/1097454242/patriotism-unease-mix-as-russia-marks-victory-day-in-wwii">Patriotism, unease mix as Russia marks Victory Day in WWII</a> NPR: The pride and patriotism usually associated with Russia's most important holiday is mixed with apprehension and unease over what this year's Victory Day may bring. 
  <p class="updated_time"> 12:01 AM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61351772?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Returning to the place my father was killed</a> BBC: As Vadim and his father tried to rescue their dogs, they were fired upon by a convoy they believe was Russian. 
  <p class="updated_time"> 11:47 PM CT, May. 07 </p> 
@@ -177,8 +179,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/world/george-cheeks-covid-positive-biden.html">CBS Presidents George Cheeks Tests Positive for Coronavirus</a> NYT: The network’s leader sat between the president and first lady, all unmasked, at the event. 
  <p class="updated_time"> 12:43 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/putin-yacht-seized-italy.html">Italy Seizes Superyacht Tied to Putin</a> NYT: Italian police boarded the yacht, the Scheherazade, late on Friday, ending what appeared to be preparations to set sail. 
- <p class="updated_time"> 11:00 AM CT, May. 07 </p> 
- <a href="https://www.nytimes.com/2022/05/07/us/politics/china-taiwan-weapons.html">Taiwan and U.S. Consider Weapons Suited to Defend Against China   </a> NYT: The Biden administration’s push for Taiwan to order missiles and smaller arms for asymmetric warfare has gained urgency since Russia’s invasion of Ukraine. 
  <p class="updated_time"> 08:38 AM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/asia/sri-lanka-protests-emergency.html">Sri Lanka’s Leader Declares State of Emergency Amid Protests</a> NYT: It was the second such declaration in weeks by Gotabaya Rajapaksa, whose government is being blamed for the country’s deepening economic crisis. 
  <p class="updated_time"> 05:58 AM CT, May. 07 </p> 
@@ -205,10 +205,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/world/australia/elvis-presley-parkes.html">The Deeper Meaning of Elvis in Australia</a> NYT: I went to the Parkes Elvis Festival thinking I’d learn something about what America used to be. I left thinking more about Australia. 
  <p class="updated_time"> 03:53 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/belarus-sapega.html">Belarus Sentences the Russian Law Student Who Was a Dissident’s Girlfriend to Six Years in Prison</a> NYT: Sofia Sapega was traveling from Greece to Lithuania with her romantic partner, Roman Protasevich, when the Belarusian air traffic control diverted their plane to Minsk, where they were both arrested. 
- <p class="updated_time"> 12:37 PM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/2022/05/06/world/europe/uk-queen-harry-andrew-platinum-jubilee.html">Who Will Be in the Queen’s Jubilee Photo-Op?</a> NYT: Neither Prince Harry and his wife Meghan, nor Prince Andrew will get a place on the balcony at Buckingham Palace. It’s not even certain Queen Elizabeth, 96, will be there. 
- <p class="updated_time"> 12:29 PM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/2022/05/06/world/americas/francia-marquez-colombia-vp.html">Francia Márquez Could Become Colombias First Black Vice President</a> NYT: Francia Márquez could soon be Colombia’s first Black vice president, and she has cracked open a discussion about race and class in a manner rarely seen in national politics. 
 
 
 </details>
@@ -216,6 +212,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:23 PM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/2022/05/07/us/politics/china-taiwan-weapons.html">Taiwan and U.S. Consider Weapons Suited to Defend Against China   </a> NYT: The Biden administration’s push for Taiwan to order missiles and smaller arms for asymmetric warfare has gained urgency since Russia’s invasion of Ukraine. 
  <p class="updated_time"> 10:01 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/us/politics/ukraine-steel-tariffs.html">U.S. to Lift Tariffs on Ukrainian Steel</a> NYT: The Biden administration will lift a 25 percent tariff on the Ukrainian steel sector for one year to help the country’s economy. 
  <p class="updated_time"> 09:27 AM CT, May. 09 </p> 
@@ -318,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/us/politics/trump-endorsement-herbster-nebraska-midterms.html">In Nebraska, a Trump-Inspired Candidate Cracks Open Divide in the G.O.P.</a> NYT: Charles W. Herbster’s bid for governor has set off a bitter fight for power in a state once known for its genteel politics. 
  <p class="updated_time"> 11:27 AM CT, May. 07 </p> 
  <a href="https://www.politico.com/news/2022/05/07/gop-steers-clear-of-roe-in-2022-battlegrounds-00030880">Threat to Roe puts GOP on defense in 2022 battlegrounds</a> Politico: "We’re going to talk about the economy, about energy, about the failed Biden policies, about the open border," said a top GOP strategist. 
- <p class="updated_time"> 11:00 AM CT, May. 07 </p> 
- <a href="https://www.nytimes.com/2022/05/07/us/politics/china-taiwan-weapons.html">Taiwan and U.S. Consider Weapons Suited to Defend Against China   </a> NYT: The Biden administration’s push for Taiwan to order missiles and smaller arms for asymmetric warfare has gained urgency since Russia’s invasion of Ukraine. 
  <p class="updated_time"> 10:18 AM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097382507/supreme-court-abortion-clarence-thomas-bullied-roe-v-wade">After the leaked Roe opinion, Justice Thomas says the Supreme Court can't be bullied</a> NPR: Chief Justice John Roberts, speaking at the same judicial conference as Thomas, called the leak of a draft opinion striking down Roe v. Wade earlier this week "absolutely appalling." 
  <p class="updated_time"> 09:55 AM CT, May. 07 </p> 
