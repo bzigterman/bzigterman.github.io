@@ -133,7 +133,9 @@ fig1 <- hcmap("countries/us/us-il-all",
                       overflow = "justify")
   )  %>%
   hc_title(text = "Avg. New Cases")%>%
-  hc_caption(text = "Source: CDC") %>%
+  hc_credits(
+    enabled = TRUE,
+    text = "Data source: CDC. Map source:") %>%
   hc_colorAxis(
     dataClasses = color_classes(breaks = c(0,5,15,25,35,50,100,1000),
                                 colors = c(brewer.pal(8,"Oranges")))
@@ -185,10 +187,9 @@ fig2 <- hcmap("countries/us/us-il-all",
                       overflow = "justify")
   )  %>%
   hc_title(text = "Community Levels")%>%
-  hc_caption(text = "Source: CDC") %>%
-  hc_tooltip(
-    
-  ) %>%
+  hc_credits(
+    enabled = TRUE,
+    text = "Data source: CDC. Map source:") %>%
   hc_colorAxis(
     dataClasses = 
       #   list(
@@ -258,7 +259,9 @@ fig3 <- hcmap("countries/us/us-il-all",
                       overflow = "justify")
   )  %>%
   hc_title(text = "Community Transmission Levels")%>%
-  hc_caption(text = "Source: CDC") %>%
+  hc_credits(
+    enabled = TRUE,
+    text = "Data source: CDC. Map source:") %>%
   hc_colorAxis(
     dataClasses = 
       #   list(
@@ -437,7 +440,8 @@ fig <- hchart(idph_cases_vax_hosp,
   #hc_title(text = "Housing Metrics") %>%
   hc_credits(
     enabled = TRUE,
-    text = "Source: CDC, HHS and IDPH",
+    text = paste("Source: CDC, HHS and IDPH. Latest data:",
+                tail(idph_cases_vax_hosp$short_date,1)),
     href = "http://www.dph.illinois.gov/covid19") %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_tooltip(shared = TRUE) %>%
@@ -554,7 +558,8 @@ fig <- hchart(wastewater_plus_cases,
   #hc_title(text = "Housing Metrics") %>%
   hc_credits(
     enabled = TRUE,
-    text = "Source: CDC",
+    text = paste("Source: CDC and IDPH. Latest data:",
+                 tail(wastewater$short_date,1)),
     href = "http://www.dph.illinois.gov/covid19") %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_tooltip(shared = TRUE) %>%

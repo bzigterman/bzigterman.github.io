@@ -32,7 +32,8 @@ fig <- hchart(data, "line", hcaes(x = date,
                            y = value),
               name = "Claims") %>%
   hc_title(text = "Initial Unemployment Claims") %>%
-  hc_caption(
+  hc_credits(
+    enabled = TRUE,
     text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = "") %>%
@@ -47,8 +48,8 @@ fig <- hchart(data, "line", hcaes(x = date,
                      list(type = 'year', count = 5, text = '5y'),
                      list(type = 'year', count = 10, text = '10y'),
                      list(type = 'all', text = 'All')),
-                   selected = 0)# %>%
-  #hc_navigator(enabled = TRUE) 
+                   selected = 0)
+
 fig
 saveWidget(widget = fig, file = "interactive/initial_claims.html",
            selfcontained = FALSE,
@@ -124,7 +125,8 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_title(text = "Unemployment Rate") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
-  hc_caption(
+  hc_credits(
+    enabled = TRUE,
     text = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_add_theme(
@@ -171,7 +173,8 @@ fig <- hchart(data,
     negativeColor = "#b32704",
     yAxis = 1) %>%
   hc_title(text = "Nonfarm Payroll") %>%
-  hc_caption(
+  hc_credits(
+    enabled = TRUE,
     text = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_xAxis(title = list(text = NULL)) %>%
@@ -263,7 +266,8 @@ fig <- hchart(data, "line", hcaes(x = date,
                                   y = value),
               name = "Income") %>%
   hc_title(text = "Real Disposable Personal Income: Per Capita") %>%
-  hc_caption(
+  hc_credits(
+    enabled = TRUE,
     text = paste("Source: U.S. Bureau of Economic Analysis, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = list(text = "")) %>%
@@ -412,7 +416,8 @@ fig <- hchart(data,
     negativeColor = "#b32704",
     yAxis = 1) %>%
   hc_title(text = "Real GDP") %>%
-  hc_caption(
+  hc_credits(
+    enabled = TRUE,
     text = paste("Source: U.S. Bureau of Economic Analysis, retrieved from the St. Louis Fed. Latest data:",
                  tail(data$short_date,1))) %>%
   hc_xAxis(title = list(text = NULL)) %>%
@@ -457,7 +462,8 @@ fig <- hchart(data, "line", hcaes(x = date,
                                   y = value*1000000),
               name = "Sales") %>%
   hc_title(text = "Retail Trade and Food Services") %>%
-  hc_caption(
+  hc_credits(
+    enabled = TRUE,
     text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = list(text = "")) %>%
@@ -545,7 +551,8 @@ fig <- hchart(data, "line", hcaes(x = date,
                                   y = value*1000000),
               name = "Orders") %>%
   hc_title(text = "Durable Goods Orders") %>%
-  hc_caption(
+  hc_credits(
+    enabled = TRUE,
     text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = list(text = "")) %>%
@@ -659,7 +666,8 @@ fig <- hchart(data, "line", hcaes(x = date,
                                   y = value),
               name = "Index") %>%
   hc_title(text = "Consumer Sentiment Index") %>%
-  hc_caption(
+  hc_credits(
+    enabled = TRUE,
     text = paste("Source: University of Michigan Consumer Survey, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = list(text = "")) %>%
@@ -752,7 +760,8 @@ fig <- hchart(data2, "line", hcaes(x = date,
                                   y = round(value*100, digits = 1),
                                   group = series_id)) %>%
   hc_title(text = "Inflation: Consumer Price Index") %>%
-  hc_caption(
+  hc_credits(
+    enabled = TRUE,
     text = paste("Not seasonally adjusted. Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = list(text = "")) %>%
@@ -855,7 +864,8 @@ fig <- hchart(data, "line", hcaes(x = date,
                                   y = value*1000),
               name = "Population") %>%
   hc_title(text = "Population") %>%
-  hc_caption(
+  hc_credits(
+    enabled = TRUE,
     text = paste("Source: U.S. Bureau of Economic Analysis, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = "") %>%
@@ -914,7 +924,8 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_title(text = "Unemployment Rate") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
-  hc_caption(
+  hc_credits(
+    enabled = TRUE,
     text = paste("Not seasonally adjusted. Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_add_theme(
@@ -1025,7 +1036,8 @@ fig <- hchart(data,
     yAxis = 1) %>%
   hc_title(text = "Nonfarm Payroll") %>%
   hc_xAxis(title = list(text = NULL)) %>%
-  hc_caption(
+  hc_credits(
+    enabled = TRUE,
     text = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_tooltip(
@@ -1093,7 +1105,8 @@ fig <- hchart(data, "line", hcaes(x = date,
                                   y = value*1000),
               name = "Population") %>%
   hc_title(text = "Population") %>%
-  hc_caption(
+  hc_credits(
+    enabled = TRUE,
     text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = "") %>%
@@ -1162,6 +1175,7 @@ fig <- hchart(housing_data,
     hcaes(x = date,
           y = days),
     name = "Median Days on Market",
+    color = "darkblue",
     type = "line",
     yAxis = 2) %>%
   hc_add_series(
@@ -1169,10 +1183,12 @@ fig <- hchart(housing_data,
     hcaes(x = date,
           y = round(ratio, digits = 2)),
     name = "Pending-to-Active Ratio",
+    color = "green",
     type = "line",
     yAxis = 3) %>%
   hc_title(text = "Housing Metrics") %>%
-  hc_caption(
+  hc_credits(
+    enabled = TRUE,
     text = paste("Source: Realtor.com, retrieved from the St. Louis Fed. Latest data:",
                  tail(housing_data$short_date,1))) %>%
   hc_xAxis(title = list(text = NULL)) %>%
@@ -1393,7 +1409,8 @@ fig <- hchart(data, "line", hcaes(x = date,
               threshold = 100,
               name = "Index") %>%
   hc_title(text = "Flash Index") %>%
-  hc_caption(
+  hc_credits(
+    enabled = TRUE,
     text = paste("Source: Institute of Government and Public Affairs at the University of Illinois. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = "",
@@ -1467,7 +1484,8 @@ fig <- hchart(data, "line", hcaes(x = date,
                                   y = value*1000),
               name = "Population") %>%
   hc_title(text = "Population") %>%
-  hc_caption(
+  hc_credits(
+    enabled = TRUE,
     text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = "") %>%
