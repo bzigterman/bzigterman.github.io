@@ -9,24 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:59 AM CT, May. 09 </p> 
+ <p class="updated_time"> 09:18 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news">Ukraine Live Updates: Putin Defends War, Without Signaling Escalation</a> NYT: The Russian leader praised his forces but announced no change in the military campaign, in a defiant speech at the annual Victory Day parade that marks the defeat of Nazi Germany. 
- <p class="updated_time"> 08:58 AM CT, May. 09 </p> 
+ <p class="updated_time"> 09:15 AM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/2022/05/09/world/asia/mahinda-rajapaksa-resigns-sri-lanka.html">Sri Lanka’s Prime Minister Mahinda Rajapaksa Resigns in Face of Unrest</a> NYT: The move by Mahinda Rajapaksa came after his supporters instigated violent clashes in Colombo, the capital. It wasn’t immediately clear whether his resignation would satisfy opponents. 
+ <p class="updated_time"> 09:13 AM CT, May. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61382289?at_medium=RSS&at_campaign=KARANGA">President Biden criticises abortion protests at judges' houses</a> BBC: Pro-choice activists marched to the homes of two conservative Supreme Court justices this weekend. 
+ <p class="updated_time"> 09:13 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/05/09/world/philippines-election">Philippines Live Updates: Ferdinand Marcos Jr. Takes Huge Lead</a> NYT: Early results showed the son of the former dictator well ahead of his rivals in the presidential election, including the country’s vice president, Leni Robredo. 
  <p class="updated_time"> 08:41 AM CT, May. 09 </p> 
  <a href="https://www.npr.org/2022/05/09/1097562723/the-prime-minister-of-sri-lanka-resigns-after-weeks-of-protests">The prime minister of Sri Lanka resigns after weeks of protests</a> NPR: Sri Lankan Prime Minister Mahinda Rajapaksa has resigned after weeks of protests demanding he and his brother, the president, step down over the worst economic crisis in decades, an official said. 
- <p class="updated_time"> 08:35 AM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/2022/05/09/world/asia/mahinda-rajapaksa-resigns-sri-lanka.html">Sri Lanka’s Prime Minister Mahinda Rajapaksa Resigns in Face of Unrest</a> NYT: The move by Mahinda Rajapaksa came after his supporters instigated violent clashes in Colombo, the capital. It wasn’t immediately clear whether his resignation would satisfy opponents. 
- <p class="updated_time"> 08:01 AM CT, May. 09 </p> 
+ <p class="updated_time"> 08:25 AM CT, May. 09 </p> 
  <a href="https://www.wsj.com/articles/putin-uses-russias-victory-day-parade-to-justify-invasion-of-ukraine-11652093244">Putin Uses Russia’s Victory Day Parade to Justify Invasion of Ukraine</a> WSJ: Putin Uses Russia’s Victory Day Parade to Justify Invasion of Ukraine 
  <p class="updated_time"> 07:32 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61381536?at_medium=RSS&at_campaign=KARANGA">Mahinda Rajapaksa: Sri Lankan PM resigns amid economic crisis</a> BBC: Protesters have been out on the streets since last month over soaring prices and power cuts. 
+ <p class="updated_time"> 07:25 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/from-tycoons-to-pop-singers-ukrainians-of-all-walks-come-together-on-the-front-lines-11652091311">From Tycoons to Pop Singers, Ukrainians of All Walks Come Together on the Front Lines</a> WSJ: From Tycoons to Pop Singers, Ukrainians of All Walks Come Together on the Front Lines 
  <p class="updated_time"> 07:06 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61374718?at_medium=RSS&at_campaign=KARANGA">Nigerian airlines suspend plans to ground flights</a> BBC: Plans to stop domestic flights in protest at the spiralling cost of aviation fuel are suspended. 
  <p class="updated_time"> 07:01 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/robredo-philippines-election.html">Leni Robredo Is the Only Woman in the Philippines Presidential Race</a> NYT: She has received a groundswell of support from “Generation Z” and thousands of millennials inspired by her effort to take on Ferdinand Marcos Jr. 
- <p class="updated_time"> 07:01 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/from-tycoons-to-pop-singers-ukrainians-of-all-walks-come-together-on-the-front-lines-11652091311">From Tycoons to Pop Singers, Ukrainians of All Walks Come Together on the Front Lines</a> WSJ: From Tycoons to Pop Singers, Ukrainians of All Walks Come Together on the Front Lines 
  <p class="updated_time"> 07:00 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61376500?at_medium=RSS&at_campaign=KARANGA">'You are fighting for Russia'- Putin addresses Victory Day parade</a> BBC: In his address, Vladimir Putin says that Russia has been threatened by Nato and other countries. 
  <p class="updated_time"> 06:59 AM CT, May. 09 </p> 
@@ -35,20 +37,20 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61377886?at_medium=RSS&at_campaign=KARANGA">Putin says Russia fighting for motherland in Ukraine in Victory Day speech</a> BBC: The Russian leader uses Victory Day to tie the war in Ukraine to the fight against Nazi Germany. 
  <p class="updated_time"> 06:33 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61344609?at_medium=RSS&at_campaign=KARANGA">Philippines election: Marcos family eye return to power as polls close</a> BBC: Voting has finished in a vital election that could see the Marcos family sweep back into office. 
+ <p class="updated_time"> 06:25 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 06:06 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61380727?at_medium=RSS&at_campaign=KARANGA">Ukraine War: Putin gives few clues in Victory Day speech</a> BBC: Prior to Victory Day, Moscow was full of rumours about what Putin might announce in his speech. 
- <p class="updated_time"> 06:01 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 05:59 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/taiwan-china-covid.html">Taiwan Pivots From ‘Zero Covid’ as Beijing Doubles Down</a> NYT: The government’s shift reflects a recognition that stringent pandemic measures were stifling economic activity and eroding the island’s international competitiveness. 
  <p class="updated_time"> 05:49 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61378507?at_medium=RSS&at_campaign=KARANGA">Egypt arrests teenagers for harassing female tourists at pyramids</a> BBC: A video showing a group haranguing the young women at the Giza pyramids sparked outrage online. 
+ <p class="updated_time"> 05:25 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/chinas-trade-slows-as-demand-drops-and-covid-lockdowns-hit-supply-chains-11652088372">China’s Trade Slows as Demand Drops and Lockdowns Hit Supply Chains</a> WSJ: China’s Trade Slows as Demand Drops and Lockdowns Hit Supply Chains 
  <p class="updated_time"> 05:17 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61379105?at_medium=RSS&at_campaign=KARANGA">Cuba's Saratoga Hotel: Firefighters search rubble after blast</a> BBC: A powerful blast which officials think was caused by a gas tanker tore through the hotel on Friday. 
  <p class="updated_time"> 05:02 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/philippines-election-violence-machines-broken.html">Reports of Violence Leave Philippines Voters on Edge</a> NYT: Security was tight for this election, a particularly high-stakes contest that some observers have called an existential battle for the soul of the nation. 
- <p class="updated_time"> 05:01 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/chinas-trade-slows-as-demand-drops-and-covid-lockdowns-hit-supply-chains-11652088372">China’s Trade Slows as Demand Drops and Lockdowns Hit Supply Chains</a> WSJ: China’s Trade Slows as Demand Drops and Lockdowns Hit Supply Chains 
  <p class="updated_time"> 04:40 AM CT, May. 09 </p> 
  <a href="https://www.npr.org/2022/05/09/1097547054/russia-marks-wwii-victory-overshadowed-by-ukraine">Here's what Putin said about Ukraine in his Victory Day speech</a> NPR: Speaking at an annual parade to honor the end of World War II, Russia's president sought to link the past Soviet victory to the battle in Ukraine and signaled no major military or policy shifts. 
  <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
@@ -69,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/08/world/europe/bomb-sniffing-dog-patron-zelensky.html">Ukrainian Bomb-Sniffing Dog Named Patron Honored by Zelensky</a> NYT: Patron has found more than 200 explosives, President Zelensky said. The dog has gone viral as Ukraine wages an information war. 
  <p class="updated_time"> 08:26 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/us/politics/un-agency-loans-resignation.html">Head of U.N. Agency Resigns After Questions Arise About Loans</a> NYT: The little-known organization gave out $61 million in loans and grant money to a single British family, in a scandal that has shaken and embarrassed the U.N. 
- <p class="updated_time"> 07:15 PM CT, May. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61374008?at_medium=RSS&at_campaign=KARANGA">Ukraine war: First ladies meet as US announces new sanctions</a> BBC: The US first lady met her Ukrainian counterpart as Washington sanctions 2,600 individuals. 
  <p class="updated_time"> 06:26 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61318785?at_medium=RSS&at_campaign=KARANGA">Nigeria's Looty seeks to reclaim African art in digital form</a> BBC: A Nigerian designer is making NFTs of African artefacts in Western museums to help local artists. 
  <p class="updated_time"> 06:08 PM CT, May. 08 </p> 
@@ -113,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/world/europe/northern-ireland-sinn-fein.html">Northern Ireland Turns to Sinn Fein</a> NYT: Election results reflected the demoralization of unionist voters, the disarray of their leaders and an electorate with new priorities — much of which can be traced to Brexit. 
  <p class="updated_time"> 08:26 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097460153/ukraine-jill-biden-visit-mothers-day">Jill Biden visits Ukraine, making her first solo trip to a combat zone as first lady</a> NPR: On Mother's Day, Biden met with Ukraine's first lady, Olena Zelenska, who has been in hiding with her children since Russia's invasion began. 
- <p class="updated_time"> 08:20 AM CT, May. 08 </p> 
- <a href="https://www.nytimes.com/2022/05/06/science/great-pacific-garbage-patch-pollution.html">The Ocean’s Biggest Garbage Pile Is Full of Floating Life</a> NYT: Researchers found that small sea creatures exist in equal number with pieces of plastic in parts of the Great Pacific Garbage Patch, which could have implications for cleaning up ocean pollution. 
  <p class="updated_time"> 07:45 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097458605/taliban-declares-women-and-girls-must-cover-up-from-head-to-toe-in-public">Taliban declares women and girls must cover up from head to toe in public</a> NPR: The Taliban in Afghanistan have instructed that women cover up in public from head to toe, including their faces. NPR correspondent Diaa Hadid has been talking to women affected by the change. 
  <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
@@ -203,8 +201,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/world/europe/uk-queen-harry-andrew-platinum-jubilee.html">Who Will Be in the Queen’s Jubilee Photo-Op?</a> NYT: Neither Prince Harry and his wife Meghan, nor Prince Andrew will get a place on the balcony at Buckingham Palace. It’s not even certain Queen Elizabeth, 96, will be there. 
  <p class="updated_time"> 12:29 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/americas/francia-marquez-colombia-vp.html">Francia Márquez Could Become Colombias First Black Vice President</a> NYT: Francia Márquez could soon be Colombia’s first Black vice president, and she has cracked open a discussion about race and class in a manner rarely seen in national politics. 
- <p class="updated_time"> 09:47 AM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/2022/05/06/business/philippines-election-disinformation.html">In the Philippines, a Flourishing Ecosystem for Political Lies</a> NYT: Supporters of Ferdinand Marcos Jr. are using live video to spread misinformation on social media. Voters have become inured to the situation, researchers fear. 
  <p class="updated_time"> 09:42 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/keir-starmer-covid-restrictions-beergate.html">U.K. Police Reopen Lockdown Inquiry into Labour Leader Keir Starmer</a> NYT: The police are taking another look at allegations that Keir Starmer drank beer in a lawmaker’s office, potentially subjecting him to political headaches similar to those suffered by Boris Johnson. 
 
@@ -214,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:13 AM CT, May. 09 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:54 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/07/us/politics/cuellar-cisneros-abortion-politics.html">For South Texas Democrats, an Intraparty Test of Abortion Politics</a> NYT: A staunchly anti-abortion Democrat in Congress will face a young abortion-rights supporter in a pivotal primary runoff. 
  <p class="updated_time"> 06:03 AM CT, May. 09 </p> 
@@ -229,11 +227,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/us/politics/west-virginia-trump.html">Trump Figures in West Virginia House Race</a> NYT: The incumbent-on-incumbent Republican primary between Representatives Alex Mooney and David McKinley on Tuesday will again test the former president’s grip on the G.O.P. 
  <p class="updated_time"> 03:30 AM CT, May. 09 </p> 
+ <a href="https://www.politico.com/news/2022/05/09/jan-6-panel-donald-trump-allies-00030781">How the Jan. 6 panel broke through Trump allies’ stonewalling</a> Politico: High-level aides to the former president aren’t the only ones who can detail his network’s movements leading up to and during the Capitol attack. 
+ <p class="updated_time"> 03:30 AM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/democrats-last-best-chance-house-00030935">Democrats’ chance to save the House majority runs through these districts</a> Politico: Roughly a dozen GOP House seats that Joe Biden carried in 2020 are key to any Democratic hope of saving their flimsy majority. 
  <p class="updated_time"> 03:30 AM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/attorney-general-elections-candidates-abortion-00030821">Dem AGs pledge to hold the line if Roe falls</a> Politico: With the heightened possibility that abortion rights could, in a matter of weeks, be an issue left to the states, attorney general candidates across the country are reminding voters of the stakes. 
- <p class="updated_time"> 03:30 AM CT, May. 09 </p> 
- <a href="https://www.politico.com/news/2022/05/09/jan-6-panel-donald-trump-allies-00030781">How the Jan. 6 panel broke through Trump allies’ stonewalling</a> Politico: High-level aides to the former president aren’t the only ones who can detail his network’s movements leading up to and during the Capitol attack. 
  <p class="updated_time"> 03:30 AM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/global-covid-summit-funding-00030868">U.S. to ask world for more on global Covid fight as its own cash dwindles</a> Politico: Without additional funds, it will be difficult for U.S. vaccine programs abroad to continue. 
  <p class="updated_time"> 09:35 PM CT, May. 08 </p> 
@@ -242,8 +240,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/08/us/politics/un-agency-loans-resignation.html">Head of U.N. Agency Resigns After Questions Arise About Loans</a> NYT: The little-known organization gave out $61 million in loans and grant money to a single British family, in a scandal that has shaken and embarrassed the U.N. 
  <p class="updated_time"> 08:11 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/us/politics/covid-pills-global-aids-hiv.html">Seeking Covid Pills, Poor Nations Fear Repeat of AIDS Crisis</a> NYT: The antiviral pills, plentiful in the United States, are scarce overseas. Health groups and the White House want to expand access but face obstacles that evoke the H.I.V. epidemic. 
- <p class="updated_time"> 05:36 PM CT, May. 08 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:30 PM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/u2-bono-performs-kyiv-bomb-shelter-00030937">U2's Bono performs in Kyiv bomb shelter</a> Politico: The singer said he was there to show solidarity. 
  <p class="updated_time"> 04:32 PM CT, May. 08 </p> 
