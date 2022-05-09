@@ -9,23 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/2022/05/09/world/europe/bullying-children-russia-war-europe.html">In Europe’s Schoolyards, Putin’s War Hurts Russian-Speaking Children</a> NYT: Across the continent, pupils face bullying, harassment and humiliation over the invasion of Ukraine, another perverse effect of a war that is overwhelmingly affecting the innocent. 
+ <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/2022/05/09/world/asia/taiwan-china-covid.html">Taiwan Pivots From ‘Zero Covid’ as Beijing Doubles Down</a> NYT: The government’s shift reflects a recognition that stringent pandemic measures were stifling economic activity and eroding the island’s international competitiveness. 
+ <p class="updated_time"> 03:51 AM CT, May. 09 </p> 
+ <a href="https://www.npr.org/2022/05/09/1097541834/paris-trial-to-open-for-2009-plane-crash-that-left-152-dead-and-1-alive">Paris trial to open for 2009 plane crash that left 152 dead and 1 alive</a> NPR: The flag carrier airline from Yemen is being tried in Paris over the injuries of a then-12-year-old girl and the deaths of 65 French citizens. 
+ <p class="updated_time"> 03:20 AM CT, May. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61376816?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Patron the mine-sniffing dog awarded medal</a> BBC: Patron, aged two-and-a-half, is credited with helping find more than 200 devices since the war began. 
+ <p class="updated_time"> 03:12 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Ukraine Fights for Besieged Mariupol as Russia Marks Key Date</a> WSJ: Ukraine Fights for Besieged Mariupol as Russia Marks Key Date 
+ <p class="updated_time"> 02:56 AM CT, May. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61344609?at_medium=RSS&at_campaign=KARANGA">Philippines election: Marcos family eye return to power as country votes</a> BBC: Millions are casting their vote in an election that could see the Marcos family sweep back into office. 
+ <p class="updated_time"> 02:56 AM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/2022/05/09/world/asia/violence-machines-broken.html">Reports of Violence Leave Philippines Voters on Edge</a> NYT: Security was tight for this election, a particularly high-stakes contest that some observers have called an existential battle for the soul of the nation. 
  <p class="updated_time"> 02:37 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/robredo-philippines-election.html">Leni Robredo Is the Only Woman in the Philippines Presidential Race</a> NYT: Leni Robredo has received a groundswell of support from “Generation Z” and thousands of millennials inspired by her effort to take on Ferdinand Marcos Jr. 
- <p class="updated_time"> 01:59 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Ukraine Fights for Besieged Mariupol as Russia Prepares to Mark Key Date</a> WSJ: Ukraine Fights for Besieged Mariupol as Russia Prepares to Mark Key Date 
+ <p class="updated_time"> 02:12 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
  <p class="updated_time"> 01:45 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61375687?at_medium=RSS&at_campaign=KARANGA">IndiGo: Anger after India airline removes disabled teenager</a> BBC: IndiGo allegedly refused to let the teenager board its flight, saying he was a "risk to passengers". 
- <p class="updated_time"> 12:59 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
- <p class="updated_time"> 12:58 AM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/2022/05/09/world/asia/violence-machines-broken.html">Reports of Violence Leave Philippines Voters on Edge</a> NYT: Security was tight for this election, a particularly high-stakes contest that some observers have called an existential battle for the soul of the nation. 
- <p class="updated_time"> 12:45 AM CT, May. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61344609?at_medium=RSS&at_campaign=KARANGA">Philippines election: Marcos family eye return to power as country votes</a> BBC: Millions are casting their vote in an election that could see the Marcos family sweep back into office. 
- <p class="updated_time"> 11:59 PM CT, May. 08 </p> 
+ <p class="updated_time"> 01:12 AM CT, May. 09 </p> 
  <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 11:55 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/marcos-jr-philippines-election.html">Ferdinand Marcos Jr., Late Dictator’s Son, May Lead the Philippines</a> NYT: Ferdinand Marcos Jr. has spent decades defending his family’s name against accusations of corruption and downplaying his father’s brutal regime. 
- <p class="updated_time"> 09:59 PM CT, May. 08 </p> 
+ <p class="updated_time"> 11:12 PM CT, May. 08 </p> 
  <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 09:53 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61375064?at_medium=RSS&at_campaign=KARANGA">Otoniel: Colombia steps up operation against rioting cartel</a> BBC: The Gulf Clan announced an "armed strike" after its leader was extradited to the US. 
@@ -135,8 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61318783?at_medium=RSS&at_campaign=KARANGA">KwaZulu-Natal floods: The South African family who lost nine children</a> BBC: Mass funerals are held in South Africa after the country's most deadly natural disaster. 
  <p class="updated_time"> 06:38 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-61350174?at_medium=RSS&at_campaign=KARANGA">Fergal Keane: How I found a way to live with PTSD</a> BBC: The BBC correspondent, who was diagnosed with PTSD in 2008, explores the effects of the condition and how it can be treated. 
- <p class="updated_time"> 06:11 PM CT, May. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61346864?at_medium=RSS&at_campaign=KARANGA">Acid attack survivors in Mexico: 'Justice is not enough'</a> BBC: Carmen Sanchez launched her foundation in Mexico to help survivors of attacks rebuild their lives. 
  <p class="updated_time"> 06:09 PM CT, May. 07 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61338799?at_medium=RSS&at_campaign=KARANGA">The return of California's butterflies</a> BBC: Efforts to protect these beautiful insects include driving electric tractors and hand-rearing them in a lab. 
  <p class="updated_time"> 06:09 PM CT, May. 07 </p> 
@@ -151,8 +157,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/world/middleeast/tunisia-democracy-economy.html">As Tunisia’s Democratic Experiment Unravels, Economic Collapse Looms</a> NYT: The president is consolidating one-man rule while the economy, sapped by mismanagement, the pandemic and war in Ukraine, flails. Groups that helped avert a past crisis are largely silent. 
  <p class="updated_time"> 01:34 PM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097417453/sinn-fein-wins-assembly-election-northern-ireland">Sinn Fein celebrates an historic election win in Northern Ireland</a> NPR: The Irish nationalist party hailed a "new era" as it captured the largest number of seats in the Northern Ireland Assembly for the first time. 
- <p class="updated_time"> 01:21 PM CT, May. 07 </p> 
- <a href="https://www.npr.org/2022/05/07/1097413091/steel-plant-mariupol-azovstal-civilians-evacuated">'All' civilians have been evacuated from a besieged steel plant in Mariupol</a> NPR: Ukraine announced that all women, children and elderly had been evacuated from a steel plant, a key Russian war objective that has long been under siege. 
  <p class="updated_time"> 12:44 PM CT, May. 07 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/george-cheeks-covid-positive-biden.html">CBS Presidents George Cheeks Tests Positive for Coronavirus</a> NYT: The network’s leader sat between the president and first lady, all unmasked, at the event. 
  <p class="updated_time"> 12:43 PM CT, May. 07 </p> 
@@ -199,8 +203,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/business/philippines-election-disinformation.html">In the Philippines, a Flourishing Ecosystem for Political Lies</a> NYT: Supporters of Ferdinand Marcos Jr. are using live video to spread misinformation on social media. Voters have become inured to the situation, researchers fear. 
  <p class="updated_time"> 09:42 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/keir-starmer-covid-restrictions-beergate.html">U.K. Police Reopen Lockdown Inquiry into Labour Leader Keir Starmer</a> NYT: The police are taking another look at allegations that Keir Starmer drank beer in a lawmaker’s office, potentially subjecting him to political headaches similar to those suffered by Boris Johnson. 
- <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/2022/05/06/travel/mexico-timothy-leary-psychedelics.html">A Psychedelic Trip to Timothy Leary’s Catalina Resort in Mexico</a> NYT: Most travelers descending on Zihuatanejo are unaware of the resort city’s storied past with the apostle of psychedelic drugs, and his experiments in consciousness expansion. 
 
 
 </details>
@@ -208,6 +210,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 AM CT, May. 09 </p> 
+ <a href="https://www.npr.org/2022/05/09/1097535349/biden-administration-internet-wifi-low-income-medicaid-snap-verizon-comcast">The Biden administration is capping the cost of internet for low-income Americans </a> NPR: Twenty internet providers, including national companies like AT&T, Comcast and Verizon have committed to the program. 
+ <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
+ <a href="https://www.npr.org/2022/05/09/1097517470/trump-esper-book-defense-secretary">Former Pentagon chief Esper says Trump asked about shooting protesters</a> NPR: NPR's Michel Martin speaks with Mark Esper about his forthcoming book, "A Sacred Oath: Memoirs of a Secretary of Defense During Extraordinary Times." 
+ <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
+ <a href="https://www.npr.org/2022/05/09/1097100048/democrats-abortion-young-voters-midterms">Democrats hope abortion will jolt young voters to action in the midterms</a> NPR: These midterms, younger voters have soured on the Democratic Party. Party leaders see the threat to abortion rights as an opportunity to rebuild the multigenerational coalition that elected Joe Biden. 
+ <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/2022/05/09/us/politics/west-virginia-trump.html">Trump Figures in West Virginia House Race</a> NYT: The incumbent-on-incumbent Republican primary between Representatives Alex Mooney and David McKinley on Tuesday will again test the former president’s grip on the G.O.P. 
  <p class="updated_time"> 09:35 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/us/politics/midterms-abortion-pennsylvania.html">Midterms’ Biggest Abortion Battleground: Pennsylvania</a> NYT: The leading Republicans running for governor in the state want to outlaw abortion. The presumptive Democratic nominee promises to veto any ban. 
  <p class="updated_time"> 08:26 PM CT, May. 08 </p> 
@@ -304,14 +314,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/07/idaho-gop-primary-elections-00030788">Idaho GOP riven by primary civil war</a> Politico: A charged-up version of the divisions playing out nationally set off primaries against the sitting governor, attorney general and a congressman. 
  <p class="updated_time"> 04:00 AM CT, May. 07 </p> 
  <a href="https://www.npr.org/2022/05/07/1097299496/gop-playbook-on-abortion-is-to-push-democrats-on-restrictions-and-contort-their-">GOP playbook on abortion is to push Democrats on restrictions and contort their words</a> NPR: Republicans are trying to shift and deflect attention away from the Supreme Court's conservative majority weighing the overturning of Roe v. Wade. 
- <p class="updated_time"> 04:00 AM CT, May. 07 </p> 
- <a href="https://www.npr.org/2022/05/07/1097117702/missouri-congressional-primary-redistricting-confusion-republican-disagreement">Missouri U.S. House candidates hit the campaign trail without set districts or voters</a> NPR: Missouri congressional candidates have no idea where to campaign or which voters to court. That's because, with just months to go until the primary, GOP state lawmakers can't decide on a voting map. 
  <p class="updated_time"> 10:48 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/politics/trump-rally-dr-oz-jd-vance.html">Dr. Oz, Rallying With Trump in Pennsylvania, Meets a Damp Reception</a> NYT: The celebrity doctor was at times the target of boos during the rally, as he and Donald Trump seek to repeat J.D. Vance’s success in the Republican Senate primary in Ohio. 
  <p class="updated_time"> 08:51 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/politics/abortion-rights-supreme-court-roe-v-wade.html">Battle Over Abortion Threatens to Deepen America’s Divide</a> NYT: If the Supreme Court overturns Roe v. Wade, all 50 states will be free to set their own rules, leading to one America where access to an abortion is guaranteed and another where it is outlawed. 
- <p class="updated_time"> 07:42 PM CT, May. 06 </p> 
- <a href="https://www.npr.org/2022/05/06/1097320747/florida-tax-free-holidays-inflation">Florida approves 10 tax-free holidays for essentials like gas and diapers</a> NPR: A variety of items will be tax-free in the state over coming months. The move comes as Americans are facing soaring inflation and high gas prices. 
  <p class="updated_time"> 06:48 PM CT, May. 06 </p> 
  <a href="https://www.politico.com/news/2022/05/06/alito-skips-appearance-draft-opinion-roe-v-wade-00030826">Alito skips conference appearance after draft opinion disclosure</a> Politico: The justice was scheduled to speak at the Fifth Circuit’s Annual Conference but instead recorded a brief video for attendees. 
  <p class="updated_time"> 06:17 PM CT, May. 06 </p> 
@@ -324,18 +330,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/us/politics/trump-twitter-lawsuit.html">Federal Judge Dismisses Trump’s Lawsuit Seeking to Reinstate His Twitter Account</a> NYT: The former president sued Twitter after it permanently blocked his account in the wake of the Capitol riot. 
  <p class="updated_time"> 06:01 PM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/us/politics/gitmo-prisoner-uss-cole.html">Guantánamo Detainee Refuses to Testify for Accused U.S.S. Cole Bomber</a> NYT: Defense lawyers wanted a deposition from a Yemeni detainee who has been cleared for release, but the detainee said he feared his testimony would be used against him. 
- <p class="updated_time"> 05:01 PM CT, May. 06 </p> 
- <a href="https://www.nytimes.com/2022/05/06/us/johnnie-a-jones-sr-dead.html">Johnnie A. Jones Sr. Dies at 102; a Civil Rights Lawyer Early On</a> NYT: In 1953, he represented defendants in the Baton Rouge bus boycott, a model for later activism, after returning from World War II as a wounded veteran of D-Day. 
  <p class="updated_time"> 04:06 PM CT, May. 06 </p> 
  <a href="https://www.politico.com/news/2022/05/06/2022-election-forecast-political-environment-candidate-strength-00030760">Why the political environment is outweighing candidate strength — for now</a> Politico: An extreme candidate may cost the GOP in a battleground House district in Ohio, but the new district lines there are tough for Democrats. 
- <p class="updated_time"> 03:42 PM CT, May. 06 </p> 
- <a href="https://www.npr.org/2022/05/06/1097261186/the-threat-to-abortion-rights-could-mobilize-young-voters-democratic-leaders-hop">The threat to abortion rights could mobilize young voters, Democratic leaders hope</a> NPR: These midterms, younger voters have soured on the Democratic Party. Party leaders see the threat to abortion rights as an opportunity to rebuild the multigenerational coalition that elected Joe Biden. 
  <p class="updated_time"> 02:36 PM CT, May. 06 </p> 
  <a href="https://www.politico.com/news/2022/05/06/midterm-elections-abortion-rights-governors-00030771">Inside the Forecast: Abortion rights bring governor races into spotlight</a> Politico: POLITICO’s Steve Shepard demystifies this week’s election data in a video series. 
- <p class="updated_time"> 03:30 AM CT, May. 06 </p> 
- <a href="https://www.politico.com/news/2022/05/06/capitol-house-staff-mistreatment-spartz-00030498">Amid an uproar over Capitol staff mistreatment, meet the House’s ‘worst boss’</a> Politico: Multiple former aides and other Republicans told POLITICO about the “trauma bonded” work environment of Rep. Victoria Spartz. 
- <p class="updated_time"> 03:30 AM CT, May. 06 </p> 
- <a href="https://www.politico.com/news/2022/05/06/vulnerable-senate-dems-campaign-against-abortion-ban-00030489">Vulnerable Senate Dems campaign as last hope against abortion ban</a> Politico: At-risk incumbents are painting themselves as a post-Roe firewall, though neither party has 60 votes to pass either abortion restrictions or protections. 
 
 
 </details>
