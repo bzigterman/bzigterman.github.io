@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:49 PM CT, May. 08 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Here’s What Happened on Day 73 of the War in Ukraine</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
+ <p class="updated_time"> 07:15 PM CT, May. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61374008?at_medium=RSS&at_campaign=KARANGA">Ukraine war: First ladies meet as US announces new sanctions</a> BBC: The US first lady met her Ukrainian counterpart as Washington sanctions 2,600 individuals. 
+ <p class="updated_time"> 07:08 PM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Ukraine Fights for Besieged Mariupol as Russia Prepares to Mark Key Date</a> WSJ: Ukraine Fights for Besieged Mariupol as Russia Prepares to Mark Key Date 
  <p class="updated_time"> 06:48 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/us/politics/un-agency-loans-resignation.html">Head of U.N. Agency Resigns After Questions Arise About Loans</a> NYT: The little-known organization gave out $61 million in loans and grant money to a single British family, in a scandal that has shaken and embarrassed the U.N. 
  <p class="updated_time"> 06:26 PM CT, May. 08 </p> 
@@ -17,38 +23,34 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61374718?at_medium=RSS&at_campaign=KARANGA">Nigerian airlines suspend plans to ground flights</a> BBC: Plans to stop domestic flights in protest at the spiralling cost of aviation fuel have been suspended. 
  <p class="updated_time"> 06:08 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61331859?at_medium=RSS&at_campaign=KARANGA">From handshakes to hostilities: How dangerous is the situation in North Korea?</a> BBC: South Korea's incoming president promises to take a hard line on North Korea’s military escalations. 
+ <p class="updated_time"> 06:08 PM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
  <p class="updated_time"> 06:01 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61344609?at_medium=RSS&at_campaign=KARANGA">Philippines election: Marcos family eye return to power as country votes</a> BBC: Millions are casting their vote in an election that could see the Marcos family sweep back into office. 
  <p class="updated_time"> 06:01 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61347805?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Artist George Butler sketches conflict</a> BBC: Artist George Butler has recently returned to the UK after a month spent in Ukraine. 
- <p class="updated_time"> 05:54 PM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Ukraine Fights for Besieged Mariupol as Russia Prepares to Mark Key Date</a> WSJ: Ukraine Fights for Besieged Mariupol as Russia Prepares to Mark Key Date 
- <p class="updated_time"> 05:19 PM CT, May. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61374008?at_medium=RSS&at_campaign=KARANGA">Ukraine war: First ladies meet as US announces new sanctions</a> BBC: The US first lady met her Ukrainian counterpart as Washington sanctions 2,600 individuals. 
  <p class="updated_time"> 05:09 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/ukraine-russia-biden.html">Both Sides Harden Positions on Anniversary of Nazi Defeat in Europe</a> NYT: The war in Ukraine was marked by posturing and signaling, with each side ramping up its rhetoric as the battle ground on. 
+ <p class="updated_time"> 05:08 PM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 04:57 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/asia/afghanistan-eid-taliban.html">Eid Under the Taliban Shows a Changed Afghanistan</a> NYT: For many Afghans the holiday this past week served as a reminder of the dissonance between the promise of peace many had imagined and the realities of the end of the war. 
- <p class="updated_time"> 04:54 PM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
  <p class="updated_time"> 04:47 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/americas/brazil-russian-fertilizer-sanctions.html">Brazil Replenishes Stockpiles of Russian Fertilizer</a> NYT: Officials expected the war to trap up to 15 percent of the world’s fertilizer exports in Russia. But Brazil and other countries have found a way to get it. 
  <p class="updated_time"> 04:23 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61369229?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 60 people killed after bomb hits school, Zelensky says</a> BBC: About 90 people had been sheltering in the building which Ukraine says was hit by a Russian bomb. 
+ <p class="updated_time"> 04:08 PM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 04:05 PM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097485283/nepali-climber-climbed-everest-for-the-26th-time-world-record">A climber scaled Everest for the 26th time. He broke his own world record — again</a> NPR: Kami Rita Sherpa has set and broke his own world record for the most successful Mount Everest ascents multiple times in recent years. He's now summited Everest for the 26th time. 
- <p class="updated_time"> 03:54 PM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 03:25 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/france-president-emmanuel-macron-inauguration.html">Emmanuel Macron Inaugurated for a 2nd Term as France President</a> NYT: “Rarely has our world and our country confronted such a combination of challenges,” Mr. Macron said, promising to govern France more inclusively. 
+ <p class="updated_time"> 03:08 PM CT, May. 08 </p> 
+ <a href="https://www.wsj.com/articles/beijing-residents-keep-faith-with-governments-zero-covid-strategy-11651996670">Beijing Residents Keep Faith With Government’s Zero-Covid Strategy</a> WSJ: Beijing Residents Keep Faith With Government’s Zero-Covid Strategy 
  <p class="updated_time"> 03:00 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/americas/bahamas-sandals-resort-americans-dead.html">3 Americans Die in Mysterious Circumstances at Bahamas Resort</a> NYT: It was unclear what happened but officials said they did not suspect foul play and there were no signs of trauma. Another guest was hospitalized in stable condition. 
- <p class="updated_time"> 02:54 PM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 02:04 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/g7-nations-russia-oil.html">G7 Nations Pledge to Ban or Phase Out the Import of Russian Oil</a> NYT: With much of Europe dependent on Russian oil, the Group of 7 said the ban would take effect in a “timely and orderly fashion.” 
- <p class="updated_time"> 01:54 PM CT, May. 08 </p> 
- <a href="https://www.wsj.com/articles/beijing-residents-keep-faith-with-governments-zero-covid-strategy-11651996670">Beijing Residents Keep Faith With Government’s Zero-Covid Strategy</a> WSJ: Beijing Residents Keep Faith With Government’s Zero-Covid Strategy 
  <p class="updated_time"> 01:18 PM CT, May. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61373057?at_medium=RSS&at_campaign=KARANGA">UK YouTuber Benjamin Rich quizzed and fined at Russian space centre</a> BBC: Bald and Bankrupt vlogger Benjamin Rich says he was questioned by Russian police in Kazakhstan. 
  <p class="updated_time"> 12:56 PM CT, May. 08 </p> 
@@ -63,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html">A U.N. Agency Gave $61 Million to One Family. It Didn’t Go Well.</a> NYT: A little-known United Nations agency decided to make an impact by doling out loans and grant money — all to a single family. It did not go well. 
  <p class="updated_time"> 11:30 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2022/05/08/255430549/in-mothercoin-the-labor-of-love-transcends-borders">In 'Mothercoin', the labor of love transcends borders</a> NPR: Mothercoin, by Elizabeth Cummins Muñoz, takes an intimate look at the lives of immigrant nannies in Houston, and how their work in private homes affects their relationship with their own children. 
- <p class="updated_time"> 09:57 AM CT, May. 08 </p> 
- <a href="https://www.nytimes.com/live/2022/05/07/world/ukraine-russia-war-news">Here’s What Happened on Day 73 of the War in Ukraine</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
  <p class="updated_time"> 09:57 AM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/07/world/europe/russia-ukraine-kharkiv-victory-day.html">Russian Pullback Seen Near Kharkiv, Despite Victory Day Push for Gains</a> NYT: Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative. 
  <p class="updated_time"> 09:45 AM CT, May. 08 </p> 
@@ -193,12 +193,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/06/business/philippines-election-disinformation.html">In the Philippines, a Flourishing Ecosystem for Political Lies</a> NYT: Supporters of Ferdinand Marcos Jr. are using live video to spread misinformation on social media. Voters have become inured to the situation, researchers fear. 
  <p class="updated_time"> 09:42 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/world/europe/keir-starmer-covid-restrictions-beergate.html">U.K. Police Reopen Lockdown Inquiry into Labour Leader Keir Starmer</a> NYT: The police are taking another look at allegations that Keir Starmer drank beer in a lawmaker’s office, potentially subjecting him to political headaches similar to those suffered by Boris Johnson. 
+ <p class="updated_time"> 04:54 AM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/world/jill-biden-europe-ukraine.html">Jill Biden Embarks on Trip to Eastern Europe to Visit Ukrainian Refugees</a> NYT: The first lady is also scheduled to tour the Slovakian border with Ukraine, becoming the latest high-profile Biden administration official to come close to the conflict zone. 
  <p class="updated_time"> 04:00 AM CT, May. 06 </p> 
  <a href="https://www.nytimes.com/2022/05/06/travel/mexico-timothy-leary-psychedelics.html">A Psychedelic Trip to Timothy Leary’s Catalina Resort in Mexico</a> NYT: Most travelers descending on Zihuatanejo are unaware of the resort city’s storied past with the apostle of psychedelic drugs, and his experiments in consciousness expansion. 
- <p class="updated_time"> 09:25 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/world/americas/nicaragua-ruling-family-us.html">Nicaragua’s Secretive Ruling Family Reaches Out Quietly to the U.S.</a> NYT: Sanctions intended to thwart the president’s dictatorial actions have hit his family and inner circle hard. More pain is expected as sanctions hit Russia, an ally. 
- <p class="updated_time"> 09:20 PM CT, May. 05 </p> 
- <a href="https://www.nytimes.com/2022/05/05/world/africa/senegal-faidherbe-statue.html">In Senegal’s Former Capital, a Colonial Statue in Hiding Is No Longer Welcome</a> NYT: The city of Saint-Louis was shaped by Louis Faidherbe, a French governor who also led brutal military campaigns in West Africa. What to do with his legacy has divided Senegal. 
+ <p class="updated_time"> 01:03 AM CT, May. 06 </p> 
+ <a href="https://www.nytimes.com/2022/05/05/world/europe/ukraine-russia-east-donetsk-mariupol.html">Putin’s Forces Battle in East Ukraine to Feed His Hunger for a Victory</a> NYT: The fighting has intensified ahead of Russia’s May 9 Victory Day holiday commemorating the Soviet Union’s triumph over Nazi Germany. 
 
 
 </details>
