@@ -378,7 +378,7 @@ fig <- hchart(idph_cases_vax_hosp,
                 enabled = TRUE),
               color = "#B45F06",
               yAxis = 0) %>%
-  hc_yAxis_multiples(create_axis(naxis = 6, heights = c(1,1,1,1,1,1),
+  hc_yAxis_multiples(create_axis(naxis = 4, heights = c(1,1,1,1),
                                  title = list(text = NULL))) %>%
   hc_add_series(
     data = idph_cases_vax_hosp,
@@ -410,30 +410,30 @@ fig <- hchart(idph_cases_vax_hosp,
       enabled = TRUE),
     color = "#d90000",
     yAxis = 3) %>%
-  hc_add_series(
-    data = idph_cases_vax_hosp,
-    hcaes(x = Date,
-          y = round(percent_adult_inpatient_beds_used_confirmed_covid,
-                    digits = 1)),
-    name = "Pct. Hosp. Beds Used",
-    tooltip = list(valueSuffix = "%"),
-    color = "#d90000",
-    type = "line",
-    label = list(
-      enabled = TRUE),
-    yAxis = 4) %>%
-  hc_add_series(
-    data = idph_cases_vax_hosp,
-    hcaes(x = Date,
-          y = round(percent_adult_icu_beds_used_confirmed_covid,
-                    digits = 1)),
-    name = "Pct. ICU Beds Used",
-    color = "#d90000",
-    tooltip = list(valueSuffix = "%"),
-    type = "line",
-    label = list(
-      enabled = TRUE),
-    yAxis = 5) %>%
+  # hc_add_series(
+  #   data = idph_cases_vax_hosp,
+  #   hcaes(x = Date,
+  #         y = round(percent_adult_inpatient_beds_used_confirmed_covid,
+  #                   digits = 1)),
+  #   name = "Pct. Hosp. Beds Used",
+  #   tooltip = list(valueSuffix = "%"),
+  #   color = "#d90000",
+  #   type = "line",
+  #   label = list(
+  #     enabled = TRUE),
+  #   yAxis = 4) %>%
+  # hc_add_series(
+  #   data = idph_cases_vax_hosp,
+  #   hcaes(x = Date,
+  #         y = round(percent_adult_icu_beds_used_confirmed_covid,
+  #                   digits = 1)),
+  #   name = "Pct. ICU Beds Used",
+  #   color = "#d90000",
+  #   tooltip = list(valueSuffix = "%"),
+  #   type = "line",
+  #   label = list(
+  #     enabled = TRUE),
+  #   yAxis = 5) %>%
   #hc_title(text = "Housing Metrics") %>%
   hc_credits(
     enabled = TRUE,
@@ -1576,7 +1576,7 @@ webappicon: /covid.png
 
 ## Champaign County
 
-<iframe src=\"/interactive/champaign_covid.html\" width=\"100%\" height=\"700\"> 
+<iframe src=\"/interactive/champaign_covid.html\" width=\"100%\" height=\"500\"> 
 </iframe>
 
 Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](https://twitter.com/ChampaignCovid).
