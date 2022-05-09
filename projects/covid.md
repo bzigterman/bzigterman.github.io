@@ -929,25 +929,25 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">45K</td>
-<td class="gt_row gt_right">69K</td>
-<td class="gt_row gt_right">+53%</td></tr>
+<td class="gt_row gt_right">47K</td>
+<td class="gt_row gt_right">67K</td>
+<td class="gt_row gt_right">+42%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">10K</td>
+<td class="gt_row gt_right gt_striped">11K</td>
 <td class="gt_row gt_right gt_striped">13K</td>
-<td class="gt_row gt_right gt_striped">+27%</td></tr>
+<td class="gt_row gt_right gt_striped">+20%</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
-<td class="gt_row gt_right">345</td>
-<td class="gt_row gt_right">340</td>
-<td class="gt_row gt_right">&minus;1%</td></tr>
+<td class="gt_row gt_right">350</td>
+<td class="gt_row gt_right">323</td>
+<td class="gt_row gt_right">&minus;8%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">401K</td>
-<td class="gt_row gt_right gt_striped">275K</td>
-<td class="gt_row gt_right gt_striped">&minus;31%</td></tr>
+<td class="gt_row gt_right gt_striped">411K</td>
+<td class="gt_row gt_right gt_striped">254K</td>
+<td class="gt_row gt_right gt_striped">&minus;38%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Sunday</td>
     </tr>
   </tfoot>
   
@@ -1412,7 +1412,7 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">719K</td>
-<td class="gt_row gt_right">520K</td>
+<td class="gt_row gt_right">517K</td>
 <td class="gt_row gt_right">&minus;28%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">3K</td>
@@ -1446,7 +1446,7 @@ As of Sunday, the 14-day percent change in average new cases was:
   
 - 17% in Champaign County
 - 57% in Illinois
-- 48% in the United States
+- 42% in the United States
 - -28% worldwide
 
 <picture>
