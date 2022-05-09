@@ -460,9 +460,9 @@ html {
 <td class="gt_row gt_right">4K</td>
 <td class="gt_row gt_right">+57%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">370</td>
-<td class="gt_row gt_right gt_striped">558</td>
-<td class="gt_row gt_right gt_striped">+51%</td></tr>
+<td class="gt_row gt_right gt_striped">400</td>
+<td class="gt_row gt_right gt_striped">539</td>
+<td class="gt_row gt_right gt_striped">+35%</td></tr>
     <tr><td class="gt_row gt_left">Average New Deaths</td>
 <td class="gt_row gt_right">6</td>
 <td class="gt_row gt_right">8</td>
@@ -470,11 +470,11 @@ html {
     <tr><td class="gt_row gt_left gt_striped">Average New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">14K</td>
 <td class="gt_row gt_right gt_striped">11K</td>
-<td class="gt_row gt_right gt_striped">&minus;15%</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;19%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Sunday</td>
     </tr>
   </tfoot>
   
