@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:47 AM CT, May. 09 </p> 
+ <p class="updated_time"> 05:56 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news">Live Updates: Putin Defends His War in Ukraine</a> NYT: The Russian leader praised his forces but made no major announcements in a defiant speech at the annual Victory Day parade that marks the defeat of Nazi Germany. 
+ <p class="updated_time"> 05:51 AM CT, May. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61377886?at_medium=RSS&at_campaign=KARANGA">Putin says Russia fighting for motherland in Ukraine in Victory Day speech</a> BBC: The Russian leader uses Victory Day to tie the war in Ukraine to the fight against Nazi Germany. 
  <p class="updated_time"> 05:33 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61379746?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Pro-government supporters attack protesters in Colombo</a> BBC: Police are deployed as ruling party supporters attack crowds protesting at the economic crisis. 
  <p class="updated_time"> 05:31 AM CT, May. 09 </p> 
@@ -18,32 +20,30 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:17 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61379105?at_medium=RSS&at_campaign=KARANGA">Cuba's Saratoga Hotel: Firefighters search rubble after blast</a> BBC: A powerful blast which officials think was caused by a gas tanker tore through the hotel on Friday. 
  <p class="updated_time"> 05:02 AM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/2022/05/09/world/asia/philippines-election-violence-machines-broken.html">Reports of Violence Leave Philippines Voters on Edge</a> NYT: Security was tight for this election, a particularly high-stakes contest that some observers have called an existential battle for the soul of the nation. 
- <p class="updated_time"> 04:53 AM CT, May. 09 </p> 
  <a href="https://www.wsj.com/articles/russian-airstrike-kills-villagers-taking-shelter-at-school-ukraine-says-11651999227">Ukraine Fights for Besieged Mariupol as Russia Marks Key Date</a> WSJ: Ukraine Fights for Besieged Mariupol as Russia Marks Key Date 
- <p class="updated_time"> 04:30 AM CT, May. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61377886?at_medium=RSS&at_campaign=KARANGA">Putin says Russia fighting for motherland in Ukraine in Victory Day speech</a> BBC: The Russian leader uses Victory Day to tie the war in Ukraine to the fight against Nazi Germany. 
+ <p class="updated_time"> 05:02 AM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/2022/05/09/world/asia/philippines-election-violence-machines-broken.html">Reports of Violence Leave Philippines Voters on Edge</a> NYT: Security was tight for this election, a particularly high-stakes contest that some observers have called an existential battle for the soul of the nation. 
+ <p class="updated_time"> 04:02 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
  <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/europe/bullying-children-russia-war-europe.html">In Europe’s Schoolyards, Putin’s War Hurts Russian-Speaking Children</a> NYT: Across the continent, pupils face bullying, harassment and humiliation over the invasion of Ukraine, another perverse effect of a war that is overwhelmingly affecting the innocent. 
  <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/travel/oman-road-trip.html">A Woman Alone in Oman: Three Weeks Along the Arabian Coast</a> NYT: In December, a photographer set off on a 2,600-mile road trip, traveling from the Yemeni border to the Strait of Hormuz. Here’s what she saw. 
  <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/taiwan-china-covid.html">Taiwan Pivots From ‘Zero Covid’ as Beijing Doubles Down</a> NYT: The government’s shift reflects a recognition that stringent pandemic measures were stifling economic activity and eroding the island’s international competitiveness. 
- <p class="updated_time"> 03:53 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/how-ukrainian-civilians-risked-their-lives-to-help-win-the-battle-for-kyiv-11652002200">How Ukrainian Civilians Helped Win the Battle for Kyiv</a> WSJ: How Ukrainian Civilians Helped Win the Battle for Kyiv 
  <p class="updated_time"> 03:51 AM CT, May. 09 </p> 
  <a href="https://www.npr.org/2022/05/09/1097541834/paris-trial-to-open-for-2009-plane-crash-that-left-152-dead-and-1-alive">Paris trial to open for 2009 plane crash that left 152 dead and 1 alive</a> NPR: The flag carrier airline from Yemen is being tried in Paris over the injuries of a then-12-year-old girl and the deaths of 65 French citizens. 
  <p class="updated_time"> 03:20 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61376816?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Patron the mine-sniffing dog awarded medal</a> BBC: Patron, aged two-and-a-half, is credited with helping find more than 200 devices since the war began. 
+ <p class="updated_time"> 03:02 AM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 02:56 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61344609?at_medium=RSS&at_campaign=KARANGA">Philippines election: Marcos family eye return to power as country votes</a> BBC: Millions are casting their vote in an election that could see the Marcos family sweep back into office. 
- <p class="updated_time"> 02:53 AM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/desperate-to-cross-into-the-u-s-some-brazilians-create-phony-families-11652025729">Desperate to Cross Into the U.S., Some Brazilians Create Phony Families</a> WSJ: Desperate to Cross Into the U.S., Some Brazilians Create Phony Families 
  <p class="updated_time"> 02:37 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/robredo-philippines-election.html">Leni Robredo Is the Only Woman in the Philippines Presidential Race</a> NYT: Leni Robredo has received a groundswell of support from “Generation Z” and thousands of millennials inspired by her effort to take on Ferdinand Marcos Jr. 
  <p class="updated_time"> 01:45 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61375687?at_medium=RSS&at_campaign=KARANGA">IndiGo: Anger after India airline removes disabled teenager</a> BBC: IndiGo allegedly refused to let the teenager board its flight, saying he was a "risk to passengers". 
- <p class="updated_time"> 12:53 AM CT, May. 09 </p> 
+ <p class="updated_time"> 01:02 AM CT, May. 09 </p> 
  <a href="https://www.wsj.com/articles/israel-arrests-two-palestinians-suspected-in-elad-terrorist-attack-11652006266">Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack</a> WSJ: Israel Arrests Two Palestinians Suspected in Elad Terrorist Attack 
  <p class="updated_time"> 11:55 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/marcos-jr-philippines-election.html">Ferdinand Marcos Jr., Late Dictator’s Son, May Lead the Philippines</a> NYT: Ferdinand Marcos Jr. has spent decades defending his family’s name against accusations of corruption and downplaying his father’s brutal regime. 
@@ -268,12 +268,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html">A U.N. Agency Gave $61 Million to One Family. It Didn’t Go Well.</a> NYT: A little-known United Nations agency decided to make an impact by doling out loans and grant money — all to a single family. It did not go well. 
  <p class="updated_time"> 11:30 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/sections/codeswitch/2022/05/08/255430549/in-mothercoin-the-labor-of-love-transcends-borders">In 'Mothercoin', the labor of love transcends borders</a> NPR: Mothercoin, by Elizabeth Cummins Muñoz, takes an intimate look at the lives of immigrant nannies in Houston, and how their work in private homes affects their relationship with their own children. 
- <p class="updated_time"> 11:00 AM CT, May. 08 </p> 
- <a href="https://www.politico.com/news/2022/05/08/biden-administration-putins-victory-day-surprise-00030908">Biden administration braces for Putin’s Victory Day surprise</a> Politico: As Russia prepares to celebrate a dangerous new phase of the war, Western officials are resupplying Ukraine with weapons and leveling new sanctions on Moscow. 
  <p class="updated_time"> 10:31 AM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/murphy-baier-florida-dont-say-gay-00030902">Dem senator spars with Fox News host over Florida law</a> Politico: Chris Murphy said he perceives a nasty turn in the Republican Party. 
  <p class="updated_time"> 10:07 AM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/white-house-warns-of-covid-surges-this-winter-00030901">White House warns of Covid surges in the winter</a> Politico: Ashish Jha urges more funding for vaccinations and testing. 
+ <p class="updated_time"> 10:03 AM CT, May. 08 </p> 
+ <a href="https://www.cnn.com/2022/05/08/politics/jill-biden-ukraine-visit/index.html">First lady Jill Biden makes unannounced trip to Ukraine </a> CNN: First lady Jill Biden made an unannounced trip on Sunday to Uzhhorod, Ukraine, a small city in the far southwestern corner of the country. 
  <p class="updated_time"> 09:30 AM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/supreme-court-justices-misled-the-senate-gillibrand-said-00030900">Supreme Court justices 'misled the Senate,' Gillibrand said</a> Politico: “If a corporation put these kind of statements in their quarterly filings, they would be seen to be purposefully misleading and deemed fraud,” the New York senator said. 
  <p class="updated_time"> 08:46 AM CT, May. 08 </p> 
@@ -284,6 +284,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/08/1097458598/politics-chat-democrats-focus-on-abortion-rights-while-republicans-focus-on-leak">Politics chat: Democrats focus on abortion rights while Republicans focus on leak</a> NPR: Abortion is now front and center on the minds of many Democrats, but surprisingly many Republicans are focusing more on the leak of the Supreme Court draft opinion, not on the substance of it. 
  <p class="updated_time"> 07:17 AM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/jill-biden-ukraine-refugees-00030892">Jill Biden visits Ukraine after comforting refugees in Slovakia</a> Politico: She met in Ukraine with first lady Olena Zelenska. 
+ <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
+ <a href="https://www.cnn.com/2022/05/08/politics/soybean-farmers-china-tariff-trump/index.html">Trump's trade war looms over soybean farmers 4 years later</a> CNN: It's been nearly four years since China put tariffs on American-grown soybeans during a tit-for-tat trade war with then-President Donald Trump -- and they remain in place despite the change in administrations. 
  <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
  <a href="https://www.npr.org/2022/05/08/1097458577/first-lady-jill-biden-visits-ukrainian-refugees-in-slovakia">First Lady Jill Biden visits Ukrainian refugees in Slovakia</a> NPR: First Lady Jill Biden visited Romania and is spending time with Ukrainian refugees in Slovakia today. 
  <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
