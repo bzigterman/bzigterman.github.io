@@ -8,7 +8,7 @@ webappicon: /covid.png
 
 ## Champaign County
 
-<iframe src="/interactive/champaign_covid.html" width="100%" height="700"> 
+<iframe src="/interactive/champaign_covid.html" width="100%" height="500"> 
 </iframe>
 
 Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](https://twitter.com/ChampaignCovid).
