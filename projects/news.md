@@ -9,18 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:02 PM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/05/10/world/ukraine-russia-war-news">Ukraine Live Updates: As Russia Claims Gains in the East, U.S. Warns of a Long Fight</a> NYT: With the grinding war, the economies of both Russia and Ukraine are in distress. President Volodymyr Zelensky called for pressure on Russia to lift its blockade of Ukraine’s ports to prevent a global food crisis. 
+ <p class="updated_time"> 06:25 PM CT, May. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/10/world/ukraine-russia-war-news">Live Updates: Russia Has Seized Much of Ukraine’s East, Despite Setbacks</a> NYT: The Russian military has gained near total control of the Donbas region, giving the Kremlin huge leverage in any future talks. 
+ <p class="updated_time"> 06:05 PM CT, May. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61385264?at_medium=RSS&at_campaign=KARANGA">‘If I die no-one will know’: Covid and Hong Kong’s 'cage men'</a> BBC: The Omicron variant overwhelmed the city's healthcare system resulting in many deaths. 
+ <p class="updated_time"> 06:00 PM CT, May. 10 </p> 
+ <a href="https://www.nytimes.com/2022/05/10/us/politics/russia-cyberattack-ukraine-war.html">Russia Was Behind Cyberattack in Run-Up to Ukraine War, Investigation Finds</a> NYT: The February attack rattled Pentagon officials and private industry because it revealed new vulnerabilities in global communications systems. 
+ <p class="updated_time"> 05:27 PM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875">Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught</a> WSJ: Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught 
+ <p class="updated_time"> 05:12 PM CT, May. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61399483?at_medium=RSS&at_campaign=KARANGA">Elon Musk would reverse Donald Trump's Twitter ban</a> BBC: He says Twitter's decision to ban the former US president was "morally wrong and flat-out stupid". 
+ <p class="updated_time"> 05:08 PM CT, May. 10 </p> 
+ <a href="https://www.nytimes.com/2022/05/10/world/middleeast/ukraine-crowdsourcing-online-donations.html">Crowdfunding a War: How Online Appeals Are Bringing Weapons to Ukraine</a> NYT: A campaign to crowdfund donations and weapons is producing millions of dollars as well as a bounty of smaller weapons and other military equipment for the Ukrainian military. 
+ <p class="updated_time"> 05:07 PM CT, May. 10 </p> 
+ <a href="https://www.nytimes.com/2022/05/10/world/europe/ukraine-russia-donbas.html">Ukraine War’s Geographic Reality: Russia Has Seized Much of the East</a> NYT: Despite many stumbles and setbacks, the Russian military has gained near total control of the Donbas region, giving the Kremlin huge leverage in any future talks. 
+ <p class="updated_time"> 04:27 PM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/western-economies-are-creaking-under-high-energy-prices-with-no-relief-in-sight-11652198600">Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight</a> WSJ: Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight 
  <p class="updated_time"> 04:20 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1097981420/russia-ukraine-war-what-happened-today-may-10">Russia-Ukraine war: What happened today (May 10)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:09 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875">Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught</a> WSJ: Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught 
  <p class="updated_time"> 04:03 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1098014780/what-to-know-about-bridget-brink-the-nominee-for-ambassador-to-ukraine">What to know about Bridget Brink, the nominee for ambassador to Ukraine</a> NPR: The Biden administration is re-opening its embassy in Ukraine and hoping the Senate will approve a new ambassador. The nominee, Bridget Brink, was on Capitol Hill for her confirmation hearing Tuesday. 
  <p class="updated_time"> 03:45 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1098014766/russias-war-in-ukraine-could-become-a-frozen-conflict-analysts-say">Russia's war in Ukraine could become a 'frozen conflict,' analysts say</a> NPR: As the Russian and Ukrainian armies battle over the country's east and south, analysts say the war could become what's called a "frozen conflict." 
  <p class="updated_time"> 03:33 PM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/2022/05/10/world/europe/spain-intelligence-chief-ousted.html">Spain’s Intelligence Service Leader Is Ousted</a> NYT: Paz Esteban, the first woman to hold the job, was caught up in a scandal over her agency’s use of Pegasus spyware. 
+ <a href="https://www.nytimes.com/2022/05/10/world/europe/spain-intelligence-chief-ousted.html">Spain’s Intelligence Leader Ousted Over Agency’s Use of Pegasus Spyware</a> NYT: Paz Esteban, the first woman to hold the job, was caught up in a scandal over her agency’s use of Pegasus spyware. 
  <p class="updated_time"> 03:28 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1098014745/nearly-half-the-women-in-canadas-federal-prisons-are-indigenous">Half of the women in Canada's federal prisons are Indigenous</a> NPR: Indigenous women are incarcerated at disproportionate rates in Canada. There are new efforts to address the systematic causes. 
  <p class="updated_time"> 03:28 PM CT, May. 10 </p> 
@@ -31,12 +43,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/10/1098014669/this-ukrainian-circus-was-on-tour-in-italy-when-the-war-started">This Ukrainian circus was on tour in Italy when the war started</a> NPR: One of Ukraine's top circus troupes was on the road in Italy when Russia invaded. Performers faced the dilemma of whether to rush back home or keep the show going. 
  <p class="updated_time"> 03:28 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1098014655/macron-won-frances-presidency-but-the-votes-indicate-an-increasingly-divided-nat">Macron won France's presidency, but the votes indicate an increasingly divided nation</a> NPR: President Emmanuel Macron was elected to a second term at the end of April and sworn in over the weekend. But his right-wing rival Marine Le Pen did better than last time, implying a divided France. 
- <p class="updated_time"> 03:18 PM CT, May. 10 </p> 
- <a href="https://www.bbc.co.uk/news/business-61399483?at_medium=RSS&at_campaign=KARANGA">Elon Musk would reverse Donald Trump's Twitter ban</a> BBC: He says Twitter's decision to ban the former US president was "morally wrong and flat-out stupid". 
+ <p class="updated_time"> 03:27 PM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102">U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine</a> WSJ: U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine 
  <p class="updated_time"> 03:11 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1098011546/cuba-hotel-explosion">The death toll rises to 42 after an explosion at a hotel in Cuba</a> NPR: Emergency workers continued to hunt through the ruins for the missing. Authorities have said they suspect the cause was a leak of gas as a tank truck was servicing the building. 
- <p class="updated_time"> 03:09 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/western-economies-are-creaking-under-high-energy-prices-with-no-relief-in-sight-11652198600">Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight</a> WSJ: Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight 
  <p class="updated_time"> 03:08 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1098015340/leonid-kravchuk-ukraine-first-president-dies">Leonid Kravchuk, independent Ukraine's 1st president, dies at age 88</a> NPR: Kravchuk led Ukraine as its Communist Party boss in the waning years of the Soviet Union. He played a pivotal role in the demise of the USSR before holding the Ukrainian presidency from 1991 to 1994. 
  <p class="updated_time"> 02:54 PM CT, May. 10 </p> 
@@ -45,20 +55,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/world/asia/china-shanghai-beijing-covid.html">As Shanghai’s Covid Cases Fall, China’s Restrictions Tighten</a> NYT: Schools are closed indefinitely in Beijing, while the last subway lines in Shanghai that were still running have ceased operation. 
  <p class="updated_time"> 02:51 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61401626?at_medium=RSS&at_campaign=KARANGA">Apple to discontinue the iPod after 21 years</a> BBC: The end of an era for Apple's original music player, which has been overshadowed by the iPhone. 
+ <p class="updated_time"> 02:27 PM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/another-marcos-rises-in-the-philippines-but-how-does-he-plan-to-govern-11652170387">Another Marcos Rises in the Philippines, but How Does He Plan to Govern?</a> WSJ: Another Marcos Rises in the Philippines, but How Does He Plan to Govern? 
  <p class="updated_time"> 02:20 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1097883083/how-the-u-s-aid-to-ukraine-is-taking-shape">How the U.S. aid to Ukraine is taking shape </a> NPR: Congress is currently considering sending Ukraine $39.8 billion more in aid. That's nearly three times the amount it approved in March to help the country after Russia invaded. 
- <p class="updated_time"> 02:09 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102">U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine</a> WSJ: U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine 
  <p class="updated_time"> 02:04 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61401184?at_medium=RSS&at_campaign=KARANGA">Ex-prison guard Vicky White and inmate Casey White 'planned shootout' if captured</a> BBC: Police said firearms were found in the vehicle the pair was driving, along with thousands in cash. 
  <p class="updated_time"> 01:58 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/pussy-riot-russia-escape.html">How Maria Alyokhina of Pussy Riot Escaped From Russia</a> NYT: After more than a decade of activism, Maria Alyokhina disguised herself as a food courier to evade the police — and a widening crackdown by President Vladimir Putin. 
  <p class="updated_time"> 01:53 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/arts/francis-fukuyama-history-liberalism.html">Francis Fukuyama Predicted the End of History. It’s Back (Again).</a> NYT: In a new book, the political theorist offers a stout defense of liberalism against threats from left and right — and predicts that Ukraine will revive “the spirit of 1989.” 
+ <p class="updated_time"> 01:27 PM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/shanghais-lockdown-leaves-thousands-sleeping-in-its-streets-11652193941">Shanghai’s Lockdown Leaves Thousands Sleeping in Its Streets</a> WSJ: Shanghai’s Lockdown Leaves Thousands Sleeping in Its Streets 
  <p class="updated_time"> 01:20 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/05/09/world/philippines-election">Ferdinand Marcos Jr. Is Bound for Presidency of the Philippines</a> NYT: Early counting put Mr. Marcos, the son and namesake of the country’s former dictator, more than 15 million votes ahead of his top presidential rival in one of the country’s most consequential elections in decades. 
- <p class="updated_time"> 01:09 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/another-marcos-rises-in-the-philippines-but-how-does-he-plan-to-govern-11652170387">Another Marcos Rises in the Philippines, but How Does He Plan to Govern?</a> WSJ: Another Marcos Rises in the Philippines, but How Does He Plan to Govern? 
  <p class="updated_time"> 12:54 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/asia/south-korea-yoon-president.html">South Korea Inaugurates Yoon Suk-yeol as President</a> NYT: During his inaugural speech, Yoon Suk-yeol said his country would play a greater role in promoting freedom and human rights around the world. 
  <p class="updated_time"> 12:33 PM CT, May. 10 </p> 
@@ -67,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/10/1097929509/ukraine-aid-congress-democrats-covid-19-response">Congress is looking to pass nearly $40 billion in aid for Ukraine</a> NPR: Democrats plan to move ahead with the expanded funding package after President Biden dropped his request to link it with a separate request for COVID-19 response funds. 
  <p class="updated_time"> 12:19 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/climate/oilfield-sales-pollution.html">Oil Giants Sell Dirty Wells to Buyers With Looser Climate Goals, Study Finds</a> NYT: The transactions can help major oil and gas companies clean up their own production by transferring polluting assets to a different firm, the analysis said. 
- <p class="updated_time"> 12:09 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/shanghais-lockdown-leaves-thousands-sleeping-in-its-streets-11652193941">Shanghai’s Lockdown Leaves Thousands Sleeping in Its Streets</a> WSJ: Shanghai’s Lockdown Leaves Thousands Sleeping in Its Streets 
  <p class="updated_time"> 12:07 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/09/us/politics/biden-covd-aid.html">Former Heads of State Call on U.S. to Commit $5 Billion for Global Covid Aid</a> NYT: Activists are also pressing President Biden to take a more forceful leadership role in the response as he convenes world leaders for a Covid-19 summit on Thursday. 
  <p class="updated_time"> 11:59 AM CT, May. 10 </p> 
@@ -105,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/world/europe/public-services-ukraine.html">How Public Services Are Operating in Ukraine</a> NYT: Our reporters answer readers’ questions about Russia’s invasion of Ukraine. Many of you asked about schools and hospitals. 
  <p class="updated_time"> 06:34 AM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61391848?at_medium=RSS&at_campaign=KARANGA">Dutch 18th Century mass grave: Skeletons in Vianen were British soldiers</a> BBC: Bones found in the Dutch city of Vianen date back to the late 18th Century, archaeologists say. 
- <p class="updated_time"> 06:10 AM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/2022/05/10/world/middleeast/ukraine-crowdsourcing-online-donations.html">Crowdfunding a War: How Online Appeals Are Bringing Weapons to Ukraine</a> NYT: A campaign to crowdfund donations and weapons is producing millions of dollars as well as a bounty of smaller weapons and other military equipment for the Ukrainian military. 
  <p class="updated_time"> 05:47 AM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61390906?at_medium=RSS&at_campaign=KARANGA">Shiv Kumar Sharma: The maestro who straddled classical and popular music</a> BBC: Sharma was credited with converting the santoor into a major instrument of Indian classical music. 
  <p class="updated_time"> 04:53 AM CT, May. 10 </p> 
@@ -177,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/09/world/asia/marcos-jr-philippines-election.html">Ferdinand Marcos Jr., Late Dictator’s Son, May Lead the Philippines</a> NYT: Ferdinand Marcos Jr. has spent decades defending his family’s name against accusations of corruption and downplaying his father’s brutal regime. 
  <p class="updated_time"> 08:26 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/us/politics/un-agency-loans-resignation.html">Head of U.N. Agency Resigns After Questions Arise About Loans</a> NYT: The little-known organization gave out $61 million in loans and grant money to a single British family, in a scandal that has shaken and embarrassed the U.N. 
- <p class="updated_time"> 06:01 PM CT, May. 08 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61347805?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Artist George Butler sketches conflict</a> BBC: Artist George Butler has recently returned to the UK after a month spent in Ukraine. 
  <p class="updated_time"> 05:09 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/ukraine-russia-biden.html">Both Sides Harden Positions on Anniversary of Nazi Defeat in Europe</a> NYT: The war in Ukraine was marked by posturing and signaling, with each side ramping up its rhetoric as the battle ground on. 
 
@@ -188,16 +192,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:02 PM CT, May. 10 </p> 
+ <p class="updated_time"> 06:19 PM CT, May. 10 </p> 
+ <a href="https://www.politico.com/news/2022/05/10/pennsylvania-republicans-stop-mastriano-00031607">‘Alarm bells going off’: Pennsylvania Republicans plot to stop Mastriano</a> Politico: Republicans are increasingly worried that a ticket led by gubernatorial front-runner Doug Mastriano could lead to defeat in November. 
+ <p class="updated_time"> 06:17 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/hunter-biden-kevin-morris-lawyer.html">Hunter Biden Turns to Hollywood Lawyer for Financial Help and Counsel</a> NYT: Kevin Morris, known for brokering big entertainment deals, has helped President Biden’s son navigate his legal troubles and scrutiny from the right. Some of the White House’s allies are concerned. 
+ <p class="updated_time"> 06:00 PM CT, May. 10 </p> 
+ <a href="https://www.nytimes.com/2022/05/10/us/politics/russia-cyberattack-ukraine-war.html">Russia Was Behind Cyberattack in Run-Up to Ukraine War, Investigation Finds</a> NYT: The February attack rattled Pentagon officials and private industry because it revealed new vulnerabilities in global communications systems. 
+ <p class="updated_time"> 06:00 PM CT, May. 10 </p> 
+ <a href="https://www.nytimes.com/2022/05/10/us/politics/democrats-abortion-schumer-vote.html">How Democrats Want to Put Republicans on the Defensive on Abortion</a> NYT: While conservatives control the courts and key states, the public tends to lean in favor of abortion rights. Democratic leaders are trying to translate that sentiment into victories for the party. 
+ <p class="updated_time"> 05:49 PM CT, May. 10 </p> 
+ <a href="https://www.nytimes.com/2022/05/10/business/economy/biden-inflation.html">Biden Says Inflation Is His ‘Top Domestic Priority’</a> NYT: Rising prices could hurt President Biden’s party in the midterm elections, and he sought on Tuesday to turn the debate over the economy against his opponents. 
+ <p class="updated_time"> 05:40 PM CT, May. 10 </p> 
+ <a href="https://www.politico.com/news/2022/05/10/eric-garcetti-aide-alleged-misconduct-chuck-grassley-00031553">Garcetti likely knew of top aide's alleged misconduct, Grassley's office concludes</a> Politico: Report could undermine Garcetti's nomination to be ambassador to India. 
+ <p class="updated_time"> 05:22 PM CT, May. 10 </p> 
+ <a href="https://www.nytimes.com/2022/05/10/us/alfred-baldwin-dead.html">Alfred Baldwin, Lookout for Watergate Burglars, Dies at 83</a> NYT: A co-conspirator, he became an early witness for the government, which helped lead to the indictment of the burglars and linked them with the White House. 
  <p class="updated_time"> 04:51 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/emergent-fda-vaccine-covid-contaminated.html">Emergent Hid Evidence of Covid Vaccine Problems at Plant, Report Says</a> NYT: The report sheds new light on executives’ worries about deficiencies in the company’s quality control systems at its troubled Baltimore plant; no contaminated doses were ever released to the public. 
  <p class="updated_time"> 04:51 PM CT, May. 10 </p> 
- <a href="https://www.politico.com/news/2022/05/10/senate-republicans-mehmet-oz-dual-citizenship-00031541">Senate Republicans decry 'unsavory' attacks on Oz's dual citizenship</a> Politico: Two of the Donald Trump-backed TV star's GOP primary rivals in Pennsylvania are blasting his ties to Turkey. But Oz's potential future colleagues don't mind. 
+ <a href="https://www.politico.com/news/2022/05/10/senate-republicans-mehmet-oz-dual-citizenship-00031541">Senate Republicans decry 'unsavory' attacks on Oz's dual citizenship</a> Politico: Two of the Donald Trump-backed TV star's GOP primary rivals in Pennsylvania are blasting his ties to Turkey. But Oz's potential future colleagues say the attacks are unwarranted. 
  <p class="updated_time"> 04:48 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/business/economy/federal-reserve-inflation.html">Fed Confronts Why It May Have Acted Too Slowly on Inflation</a> NYT: Central bankers have been asking whether they should have reacted faster to rising inflation last year — and are learning from the recent past. 
  <p class="updated_time"> 04:47 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/homeland-security-misconduct-reports.html">D.H.S. Watchdog Said Damaging Findings Removed From Reports Were Already Known</a> NYT: Two House committees were so concerned by the explanation that they requested an array of internal documents related to the reports on sexual misconduct and domestic violence. 
+ <p class="updated_time"> 04:45 PM CT, May. 10 </p> 
+ <a href="https://www.politico.com/news/2022/05/10/ukraine-foreign-minister-us-weapons-delay-russia-00031493">‘We are not as dumb as you might think’: Ukraine’s foreign minister rues U.S. delay in providing weapons</a> Politico: In an exclusive interview, Dmytro Kuleba unloads on Western officials who he says spent weeks scouring Soviet stockpiles for old weapons — instead of giving Kyiv what it wanted. 
  <p class="updated_time"> 04:39 PM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/new-york-to-allocate-35m-to-help-abortion-providers-00031388">New York to allocate $35M to help abortion providers</a> Politico: The move drew criticism from opponents, including the New York State Catholic Conference, which called it “a grave misuse of state resources and an insult to millions of pro-life New Yorkers.” 
  <p class="updated_time"> 04:08 PM CT, May. 10 </p> 
@@ -210,8 +228,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/10/1098014759/biden-criticizes-ultra-maga-republicans-as-inflation-rises">Biden criticizes 'ultra-MAGA' Republicans as inflation rises</a> NPR: Ahead of the midterm elections, President Biden is using Donald Trump's "Make America Great Again" as a label to paint the GOP as extreme on issues including the economy and abortion rights. 
  <p class="updated_time"> 03:28 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1098014655/macron-won-frances-presidency-but-the-votes-indicate-an-increasingly-divided-nat">Macron won France's presidency, but the votes indicate an increasingly divided nation</a> NPR: President Emmanuel Macron was elected to a second term at the end of April and sworn in over the weekend. But his right-wing rival Marine Le Pen did better than last time, implying a divided France. 
- <p class="updated_time"> 03:06 PM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/2022/05/10/business/economy/biden-inflation.html">Biden Says Inflation Is His ‘Top Priority’</a> NYT: Rising prices could hurt President Biden’s party in the midterms, and on Tuesday he sought to turn the debate over the economy against his opponents. 
  <p class="updated_time"> 03:03 PM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/trumps-south-carolina-donors-vet-desantis-00031514">Trump's South Carolina donors vet DeSantis</a> Politico: Florida Gov. Ron DeSantis on Thursday will be in South Carolina for a fundraiser hosted by a collection of top-level Trump donors. 
  <p class="updated_time"> 03:02 PM CT, May. 10 </p> 
@@ -229,11 +245,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:46 PM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/elon-musk-trump-twitter-ban-00031482">Elon Musk would end Trump Twitter ban</a> Politico: The Tesla CEO, who is in the process of buying the app, said Twitter’s decision to boot Trump from the platform was “morally bad” and “foolish in the extreme.” 
  <p class="updated_time"> 01:29 PM CT, May. 10 </p> 
- <a href="https://www.politico.com/news/2022/05/10/gasoline-prices-spike-to-all-time-high-again-00031385">Gasoline prices spike to all time high, again</a> Politico: The nationwide average price for a gallon of regular gas was $4.37. 
+ <a href="https://www.politico.com/news/2022/05/10/gasoline-prices-spike-to-all-time-high-again-00031385">Gasoline prices spike to all-time high, again</a> Politico: The nationwide average price for a gallon of regular gas was $4.37. 
  <p class="updated_time"> 01:24 PM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/biden-blasts-ultra-maga-republicans-inflation-plans-00031414">Biden blasts 'ultra-MAGA' Republicans’ inflation plans</a> Politico: The president specifically took aim at Sen. Rick Scott’s “Rescue America” proposal. 
  <p class="updated_time"> 01:24 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1097891180/biden-names-combatting-inflation-and-rising-costs-as-his-top-domestic-priority">Biden names combatting inflation and rising costs as his top domestic priority</a> NPR: In an address from the White House Tuesday, President Biden contrasted his administration's plans to tackle rising costs with what he called Republicans' "ultra-MAGA" plan. 
+ <p class="updated_time"> 01:23 PM CT, May. 10 </p> 
+ <a href="https://www.cnn.com/2022/05/10/politics/election-coverage-may-10-primaries/index.html">How to watch the West Virginia and Nebraska primaries</a> CNN: It's Election Day in West Virginia and Nebraska, where key primary races of the 2022 election cycle are taking place. The races, which will test former President Donald Trump's influence over the Republican Party, include this year's first US House member-vs.-member matchup in West Virginia and a controversial, Trump-backed candidate facing off with the Republican supported by the state's term limited governor, Pete Ricketts. 
  <p class="updated_time"> 01:16 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1097942860/elon-musk-reverse-donald-trump-twitter-ban">Elon Musk says he'll reverse Donald Trump Twitter ban</a> NPR: The billionaire said it was a "mistake" for the social network to ban the former president after the Jan. 6th Capitol insurrection. 
  <p class="updated_time"> 01:14 PM CT, May. 10 </p> 
@@ -260,8 +278,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/10/yellen-banning-abortion-damaging-to-economy-00031339">Yellen: Banning abortion would be ‘very damaging’ to U.S. economy</a> Politico: The Treasury chief said the Roe ruling helped allow women to finish school and increase their earning potential, leading to higher workforce participation. 
  <p class="updated_time"> 08:49 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/09/us/politics/biden-lend-lease-ukraine-weapons-war.html">Biden Speeds Up Military Aid to Ukraine, Drawing U.S. Deeper Into War</a> NYT: President Biden signed the Lend-Lease Act, which will waive time-consuming requirements on the provision of arms to Ukraine. 
- <p class="updated_time"> 08:26 AM CT, May. 10 </p> 
- <a href="https://www.politico.com/news/2022/05/10/emergent-covid-vaccine-problems-00031266">Emergent's Covid vaccine problems more extensive than previously known</a> Politico: Lawmakers detail how 400 million Covid-19 doses were destroyed at the company’s Baltimore facility after it failed to heed internal warnings about quality standards. 
  <p class="updated_time"> 06:12 AM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1097820801/senate-democrats-plan-a-vote-on-abortion-rights-but-its-unlikely-to-pass">Senate Democrats plan a vote on abortion rights but it's unlikely to pass</a> NPR: NPR's Steve Inskeep talks to Democratic Sen. Amy Klobuchar who's expected to vote for the Women's Health Protection Act. If it becomes law, it would set federal standards for the right to an abortion. 
  <p class="updated_time"> 05:30 AM CT, May. 10 </p> 
@@ -290,36 +306,22 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/09/us/politics/susan-rice-covid-positive.html">Susan Rice, White House Adviser, Tests Positive for Coronavirus</a> NYT: Ms. Rice said she had last seen President Biden in person on Wednesday while wearing a mask and that, according to the C.D.C. guidelines, he was “not considered a close contact.” 
  <p class="updated_time"> 02:00 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/states-tax-cuts-inflation.html">States Turn to Tax Cuts as Inflation Stays Hot</a> NYT: Tax reductions and rebates that are being proposed to help people cope could have the unintended effect of pushing prices higher. 
- <p class="updated_time"> 11:09 PM CT, May. 09 </p> 
- <a href="https://www.politico.com/news/2022/05/10/ferdinand-marcos-philippines-presidency-00031292">History circles back: Marcos Jr. wins Philippine presidency</a> Politico: His infamous father was ousted from office in a 1986 revolt. 
- <p class="updated_time"> 10:07 PM CT, May. 09 </p> 
- <a href="https://www.cnn.com/2022/05/09/politics/supreme-court-justices-security-senate-vote/index.html">Senators quickly pass bill to expand security for families of Supreme Court justices</a> CNN: Members of the US Senate passed a bipartisan bill Monday that would expand security protection to the immediate family members of Supreme Court justices, following recent protests at some justices' homes. 
  <p class="updated_time"> 10:05 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/books/midge-decter-dead.html">Midge Decter, an Architect of Neoconservatism, Dies at 94</a> NYT: As a writer and intellectual, she abandoned liberal politics, challenged the women’s movement and championed the Reagan Republican agenda. 
  <p class="updated_time"> 06:36 PM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/republicans-splinter-on-post-roe-world-00031221">Republicans splinter on how to handle a post-Roe world</a> Politico: The GOP is on different pages about a national abortion ban should the Supreme Court follow through. But pursuing one is certainly on the table. 
- <p class="updated_time"> 04:30 PM CT, May. 09 </p> 
- <a href="https://www.politico.com/news/2022/05/09/hong-kong-china-new-chief-executive-00031167">Hong Kong’s new leader is Beijing’s designated ‘enforcer’</a> Politico: John Lee’s election signals heightened risks to the foreign business community. 
  <p class="updated_time"> 02:56 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/us/politics/ukraine-steel-tariffs.html">U.S. to Lift Tariffs on Ukrainian Steel</a> NYT: The Biden administration will lift a 25 percent tariff on the Ukrainian steel sector for one year to help the country’s economy. 
  <p class="updated_time"> 01:28 PM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/kyiv-ukraine-russia-war-horrors-00030992">Ukrainians unearth horrors near Kyiv, a month after Russian retreat</a> Politico: Mass graves are still being found, underscoring the scale of atrocities committed by Vladimir Putin’s forces in Ukraine. 
  <p class="updated_time"> 12:51 PM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/lina-hidalgo-texas-democrats-future-midterms-00031055">Lina Hidalgo could be Democrats’ future in Texas. She has to make it through the midterms first.</a> Politico: The Harris County judge is facing several local controversies to go with the strong GOP midterm environment. 
- <p class="updated_time"> 11:04 AM CT, May. 09 </p> 
- <a href="https://www.cnn.com/2022/05/09/politics/oath-keepers-january-6-election-fraud-trump/index.html">Oath Keepers sharing with January 6 investigators their efforts to find election fraud, communications with Trump allies</a> CNN: Top leaders in the Oath Keepers, the far-right extremist group, have been turning over phones and digital files and sitting for interviews with the FBI -- and detailing how they worked to benefit Donald Trump's campaign and communicated with others in the former President's orbit, according to court records and multiple sources familiar with the federal investigation. 
- <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/2022/05/09/us/politics/west-virginia-trump.html">Trump Figures in West Virginia House Race</a> NYT: The incumbent-on-incumbent Republican primary between Representatives Alex Mooney and David McKinley on Tuesday will again test the former president’s grip on the G.O.P. 
  <p class="updated_time"> 03:30 AM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/attorney-general-elections-candidates-abortion-00030821">Dem AGs pledge to hold the line if Roe falls</a> Politico: With the heightened possibility that abortion rights could, in a matter of weeks, be an issue left to the states, attorney general candidates across the country are reminding voters of the stakes. 
  <p class="updated_time"> 03:30 AM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/democrats-last-best-chance-house-00030935">Democrats’ chance to save the House majority runs through these districts</a> Politico: Roughly a dozen GOP House seats that Joe Biden carried in 2020 are key to any Democratic hope of saving their flimsy majority. 
  <p class="updated_time"> 03:30 AM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/jan-6-panel-donald-trump-allies-00030781">How the Jan. 6 panel broke through Trump allies’ stonewalling</a> Politico: High-level aides to the former president aren’t the only ones who can detail his network’s movements leading up to and during the Capitol attack. 
- <p class="updated_time"> 08:26 PM CT, May. 08 </p> 
- <a href="https://www.nytimes.com/2022/05/08/us/politics/un-agency-loans-resignation.html">Head of U.N. Agency Resigns After Questions Arise About Loans</a> NYT: The little-known organization gave out $61 million in loans and grant money to a single British family, in a scandal that has shaken and embarrassed the U.N. 
- <p class="updated_time"> 04:32 PM CT, May. 08 </p> 
- <a href="https://www.nytimes.com/2022/05/08/us/politics/senate-democrats-abortion.html">Senate Democrats Warn of G.O.P. Effort to Restrict Abortion Nationwide</a> NYT: The alarms came after Senator Mitch McConnell, the Republican leader, called such a ban “possible” if a leaked Supreme Court opinion became final and his party gained control in Washington. 
  <p class="updated_time"> 02:21 PM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/senate-democrats-shop-new-reconciliation-child-care-proposal-00030899">Senate Democrats shop revamped child care reconciliation proposal </a> Politico: Sen. Patty Murray and her allies hope that Sen. Tim Kaine’s new leadership on the issue will help them win the support of moderate Democrats. 
  <p class="updated_time"> 10:31 AM CT, May. 08 </p> 
