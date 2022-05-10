@@ -34,7 +34,7 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_title(text = "Initial Unemployment Claims") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Source: U.S. Census Bureau. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
@@ -60,7 +60,7 @@ ggplot(data = data,
            y = value/1000000)) +
   geom_line() +
   labs(title = "Initial Unemployment Claims",
-       caption = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: U.S. Census Bureau. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -98,7 +98,7 @@ unemployment_rate <- ggplot(data = data,
                                 y = value/100)) +
   geom_line() +
   labs(title = "Unemployment Rate",
-       caption = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: U.S. Bureau of Labor Statistics. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -127,7 +127,7 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_xAxis(title = "") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Source: U.S. Bureau of Labor Statistics. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_add_theme(
     hc_theme_bloom()
@@ -175,7 +175,7 @@ fig <- hchart(data,
   hc_title(text = "Nonfarm Payroll") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Source: U.S. Bureau of Labor Statistics. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_tooltip(
@@ -231,7 +231,7 @@ employment_change <- ggplot(recent_data, aes(x = date,
                                              fill = change > 0)) +
   geom_col() +
   labs(title = "Change in Total Nonfarm Payroll",
-       caption = paste("U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("U.S. Bureau of Labor Statistics. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -268,7 +268,7 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_title(text = "Real Disposable Personal Income: Per Capita") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: U.S. Bureau of Economic Analysis, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Source: U.S. Bureau of Economic Analysis. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = list(text = "")) %>%
   hc_xAxis(title = list(text = NULL)) %>%
@@ -294,7 +294,7 @@ ggplot(data = data,
            y = value/1000)) +
   geom_line() +
   labs(title = "Real Disposable Personal Income: Per Capita",
-       caption = paste("Source: U.S. Bureau of Economic Analysis, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: U.S. Bureau of Economic Analysis. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -360,7 +360,7 @@ gdp_change <- ggplot(recent_data, aes(x = date,
                                       fill = value > 0)) +
   geom_col() +
   labs(title = "Real GDP Growth",
-       caption = paste("Source: U.S. Bureau of Economic Analysis, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: U.S. Bureau of Economic Analysis. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -418,7 +418,7 @@ fig <- hchart(data,
   hc_title(text = "Real GDP") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: U.S. Bureau of Economic Analysis, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Source: U.S. Bureau of Economic Analysis. Latest data:",
                  tail(data$short_date,1))) %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_tooltip(
@@ -464,7 +464,7 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_title(text = "Retail Trade and Food Services") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Source: U.S. Census Bureau. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = list(text = "")) %>%
   hc_xAxis(title = list(text = NULL)) %>%
@@ -488,7 +488,7 @@ ggplot(data, aes(x = date,
                  y = value/1000)) +
   geom_line() +
   labs(title = "Retail Trade and Food Services",
-       caption = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: U.S. Census Bureau. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -509,7 +509,7 @@ ggplot(data = data,
            y = value/1000)) +
   geom_line() +
   labs(title = "Retail Sales",
-       caption = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: U.S. Census Bureau. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -553,7 +553,7 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_title(text = "Durable Goods Orders") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Source: U.S. Census Bureau. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = list(text = "")) %>%
   hc_xAxis(title = list(text = NULL)) %>%
@@ -577,7 +577,7 @@ ggplot(data, aes(x = date,
                  y = value/1000)) +
   geom_line() +
   labs(title = "Durable Goods Orders",
-       caption = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: U.S. Census Bureau. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -598,7 +598,7 @@ ggplot(data = data,
            y = value/1000)) +
   geom_line() +
   labs(title = "Durable Goods Orders",
-       caption = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: U.S. Census Bureau. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -636,7 +636,7 @@ ggsave("plots/durable_goods.png", width = 8, height = 8*(628/1200), dpi = 320)
 #   geom_line() +
 #   labs(title = "Gini Index of Inequality",
 #        subtitle = "0 represents perfect equality; 100 represents perfect inequality",
-#        caption = paste("Source: World Bank, retrieved from the St. Louis Fed. Latest data:",
+#        caption = paste("Source: World Bank. Latest data:",
 #                        tail(recent_data$short_date,1))) +
 #   xlab(NULL) +
 #   ylab(NULL) +
@@ -668,7 +668,7 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_title(text = "Consumer Sentiment Index") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: University of Michigan Consumer Survey, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Source: University of Michigan Consumer Survey. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = list(text = "")) %>%
   hc_xAxis(title = list(text = NULL)) %>%
@@ -692,7 +692,7 @@ ggplot(recent_data, aes(x = date,
                         y = value)) +
   geom_line() +
   labs(title = "Consumer Sentiment Index",
-       caption = paste("Source: University of Michigan Consumer Survey, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: University of Michigan Consumer Survey. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -712,7 +712,7 @@ sentiment <- ggplot(data = data,
                         y = value)) +
   geom_line() +
   labs(title = "Consumer Sentiment Index",
-       caption = paste("Source: University of Michigan Consumer Survey, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: University of Michigan Consumer Survey. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -762,7 +762,7 @@ fig <- hchart(data2, "line", hcaes(x = date,
   hc_title(text = "Inflation: Consumer Price Index") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Not seasonally adjusted. Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Not seasonally adjusted. Source: U.S. Bureau of Labor Statistics. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = list(text = "")) %>%
   hc_xAxis(title = list(text = NULL)) %>%
@@ -791,7 +791,7 @@ cpi <- ggplot(data = data,
                   y = change)) +
   geom_line() +
   labs(title = "Inflation: Consumer Price Index",
-       caption = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: U.S. Bureau of Labor Statistics. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -830,7 +830,7 @@ us_population <- ggplot(data = data,
                             y = value/1000)) +
   geom_line() +
   labs(title = "Population",
-       caption = paste("Source: U.S. Bureau of Economic Analysis, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: U.S. Bureau of Economic Analysis. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -866,7 +866,7 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_title(text = "Population") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: U.S. Bureau of Economic Analysis, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Source: U.S. Bureau of Economic Analysis. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
@@ -898,7 +898,7 @@ unemployment_rate <- ggplot(data = data,
                                 y = value/100)) +
   geom_line() +
   labs(title = "Unemployment Rate",
-       caption = paste("Not seasonally adjusted. Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Not seasonally adjusted. Source: U.S. Bureau of Labor Statistics. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -926,7 +926,7 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_xAxis(title = "") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Not seasonally adjusted. Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Not seasonally adjusted. Source: U.S. Bureau of Labor Statistics. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_add_theme(
     hc_theme_bloom()
@@ -985,7 +985,7 @@ employment_change <- ggplot(recent_data, aes(x = date,
                                              fill = change > 0)) +
   geom_col() +
   labs(title = "Annual Change in Total Employees",
-       caption = paste("U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("U.S. Bureau of Labor Statistics. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -1038,7 +1038,7 @@ fig <- hchart(data,
   hc_xAxis(title = list(text = NULL)) %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Source: U.S. Bureau of Labor Statistics. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_tooltip(
     shared = TRUE
@@ -1072,7 +1072,7 @@ champaign_population <- ggplot(data = data,
                                    y = value)) +
   geom_line() +
   labs(title = "Population",
-       caption = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: U.S. Census Bureau. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -1107,7 +1107,7 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_title(text = "Population") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Source: U.S. Census Bureau. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
@@ -1189,7 +1189,7 @@ fig <- hchart(housing_data,
   hc_title(text = "Housing Metrics") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: Realtor.com, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Source: Realtor.com. Latest data:",
                  tail(housing_data$short_date,1))) %>%
   hc_xAxis(title = list(text = NULL)) %>%
   #hc_tooltip(shared = TRUE) %>%
@@ -1296,7 +1296,7 @@ ggplot(data, aes(x = date,
   scale_colour_manual(guide = 'none',
                       values = c("darkgreen","#674EA7","#B45F06","#d90000")) +
   labs(title = "Champaign County Housing Metrics",
-       caption = paste("Source: Realtor.com, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: Realtor.com. Latest data:",
                        tail(data$short_date,1))) +
   theme_bw() +
   theme(axis.text.y = element_text(size = 10),
@@ -1372,7 +1372,7 @@ ggplot(data = data,
   geom_point(size = .4,
              aes(color = value > 100)) +
   labs(title = "Flash Index",
-       caption = paste("Source: Institute of Government and Public Affairs at the University of Illinois. Latest data:",
+       caption = paste("Source: UIUC IGPA. Latest data:",
                        tail(recent_data$short_date,1))) +
   geom_hline(yintercept = 100,
              color = "grey10",
@@ -1450,7 +1450,7 @@ il_population <- ggplot(data = data,
                             y = value)) +
   geom_line() +
   labs(title = "Population",
-       caption = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+       caption = paste("Source: U.S. Census Bureau. Latest data:",
                        tail(recent_data$short_date,1))) +
   xlab(NULL) +
   ylab(NULL) +
@@ -1486,7 +1486,7 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_title(text = "Population") %>%
   hc_credits(
     enabled = TRUE,
-    text = paste("Source: U.S. Census Bureau, retrieved from the St. Louis Fed. Latest data:",
+    text = paste("Source: U.S. Census Bureau. Latest data:",
                  tail(recent_data$short_date,1))) %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%

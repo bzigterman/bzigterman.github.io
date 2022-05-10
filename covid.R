@@ -135,7 +135,7 @@ fig1 <- hcmap("countries/us/us-il-all",
   hc_title(text = "Avg. New Cases")%>%
   hc_credits(
     enabled = TRUE,
-    text = "Data source: CDC. Map source:") %>%
+    text = "Source: CDC,") %>%
   hc_colorAxis(
     dataClasses = color_classes(breaks = c(0,5,15,25,35,50,100,1000),
                                 colors = c(brewer.pal(8,"Oranges")))
@@ -189,7 +189,7 @@ fig2 <- hcmap("countries/us/us-il-all",
   hc_title(text = "Community Levels")%>%
   hc_credits(
     enabled = TRUE,
-    text = "Data source: CDC. Map source:") %>%
+    text = "Source: CDC,") %>%
   hc_colorAxis(
     dataClasses = 
       #   list(
@@ -261,7 +261,7 @@ fig3 <- hcmap("countries/us/us-il-all",
   hc_title(text = "Community Transmission Levels")%>%
   hc_credits(
     enabled = TRUE,
-    text = "Data source: CDC. Map source:") %>%
+    text = "Source: CDC,") %>%
   hc_colorAxis(
     dataClasses = 
       #   list(
