@@ -9,13 +9,15 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:25 PM CT, May. 10 </p> 
+ <p class="updated_time"> 06:41 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/05/10/world/ukraine-russia-war-news">Live Updates: Russia Has Seized Much of Ukraine’s East, Despite Setbacks</a> NYT: The Russian military has gained near total control of the Donbas region, giving the Kremlin huge leverage in any future talks. 
+ <p class="updated_time"> 06:39 PM CT, May. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61402829?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin preparing for long haul, US intelligence says</a> BBC: The US National Intelligence director warns the Russian president could turn to "more drastic means". 
  <p class="updated_time"> 06:05 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61385264?at_medium=RSS&at_campaign=KARANGA">‘If I die no-one will know’: Covid and Hong Kong’s 'cage men'</a> BBC: The Omicron variant overwhelmed the city's healthcare system resulting in many deaths. 
  <p class="updated_time"> 06:00 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/russia-cyberattack-ukraine-war.html">Russia Was Behind Cyberattack in Run-Up to Ukraine War, Investigation Finds</a> NYT: The February attack rattled Pentagon officials and private industry because it revealed new vulnerabilities in global communications systems. 
- <p class="updated_time"> 05:27 PM CT, May. 10 </p> 
+ <p class="updated_time"> 05:45 PM CT, May. 10 </p> 
  <a href="https://www.wsj.com/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875">Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught</a> WSJ: Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught 
  <p class="updated_time"> 05:12 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-61399483?at_medium=RSS&at_campaign=KARANGA">Elon Musk would reverse Donald Trump's Twitter ban</a> BBC: He says Twitter's decision to ban the former US president was "morally wrong and flat-out stupid". 
@@ -23,7 +25,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/world/middleeast/ukraine-crowdsourcing-online-donations.html">Crowdfunding a War: How Online Appeals Are Bringing Weapons to Ukraine</a> NYT: A campaign to crowdfund donations and weapons is producing millions of dollars as well as a bounty of smaller weapons and other military equipment for the Ukrainian military. 
  <p class="updated_time"> 05:07 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/ukraine-russia-donbas.html">Ukraine War’s Geographic Reality: Russia Has Seized Much of the East</a> NYT: Despite many stumbles and setbacks, the Russian military has gained near total control of the Donbas region, giving the Kremlin huge leverage in any future talks. 
- <p class="updated_time"> 04:27 PM CT, May. 10 </p> 
+ <p class="updated_time"> 04:45 PM CT, May. 10 </p> 
  <a href="https://www.wsj.com/articles/western-economies-are-creaking-under-high-energy-prices-with-no-relief-in-sight-11652198600">Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight</a> WSJ: Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight 
  <p class="updated_time"> 04:20 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1097981420/russia-ukraine-war-what-happened-today-may-10">Russia-Ukraine war: What happened today (May 10)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
@@ -31,6 +33,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/10/1098014780/what-to-know-about-bridget-brink-the-nominee-for-ambassador-to-ukraine">What to know about Bridget Brink, the nominee for ambassador to Ukraine</a> NPR: The Biden administration is re-opening its embassy in Ukraine and hoping the Senate will approve a new ambassador. The nominee, Bridget Brink, was on Capitol Hill for her confirmation hearing Tuesday. 
  <p class="updated_time"> 03:45 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1098014766/russias-war-in-ukraine-could-become-a-frozen-conflict-analysts-say">Russia's war in Ukraine could become a 'frozen conflict,' analysts say</a> NPR: As the Russian and Ukrainian armies battle over the country's east and south, analysts say the war could become what's called a "frozen conflict." 
+ <p class="updated_time"> 03:45 PM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102">U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine</a> WSJ: U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine 
  <p class="updated_time"> 03:33 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/spain-intelligence-chief-ousted.html">Spain’s Intelligence Leader Ousted Over Agency’s Use of Pegasus Spyware</a> NYT: Paz Esteban, the first woman to hold the job, was caught up in a scandal over her agency’s use of Pegasus spyware. 
  <p class="updated_time"> 03:28 PM CT, May. 10 </p> 
@@ -43,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/10/1098014669/this-ukrainian-circus-was-on-tour-in-italy-when-the-war-started">This Ukrainian circus was on tour in Italy when the war started</a> NPR: One of Ukraine's top circus troupes was on the road in Italy when Russia invaded. Performers faced the dilemma of whether to rush back home or keep the show going. 
  <p class="updated_time"> 03:28 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1098014655/macron-won-frances-presidency-but-the-votes-indicate-an-increasingly-divided-nat">Macron won France's presidency, but the votes indicate an increasingly divided nation</a> NPR: President Emmanuel Macron was elected to a second term at the end of April and sworn in over the weekend. But his right-wing rival Marine Le Pen did better than last time, implying a divided France. 
- <p class="updated_time"> 03:27 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102">U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine</a> WSJ: U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine 
  <p class="updated_time"> 03:11 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1098011546/cuba-hotel-explosion">The death toll rises to 42 after an explosion at a hotel in Cuba</a> NPR: Emergency workers continued to hunt through the ruins for the missing. Authorities have said they suspect the cause was a leak of gas as a tank truck was servicing the building. 
  <p class="updated_time"> 03:08 PM CT, May. 10 </p> 
@@ -55,7 +57,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/world/asia/china-shanghai-beijing-covid.html">As Shanghai’s Covid Cases Fall, China’s Restrictions Tighten</a> NYT: Schools are closed indefinitely in Beijing, while the last subway lines in Shanghai that were still running have ceased operation. 
  <p class="updated_time"> 02:51 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61401626?at_medium=RSS&at_campaign=KARANGA">Apple to discontinue the iPod after 21 years</a> BBC: The end of an era for Apple's original music player, which has been overshadowed by the iPhone. 
- <p class="updated_time"> 02:27 PM CT, May. 10 </p> 
+ <p class="updated_time"> 02:45 PM CT, May. 10 </p> 
  <a href="https://www.wsj.com/articles/another-marcos-rises-in-the-philippines-but-how-does-he-plan-to-govern-11652170387">Another Marcos Rises in the Philippines, but How Does He Plan to Govern?</a> WSJ: Another Marcos Rises in the Philippines, but How Does He Plan to Govern? 
  <p class="updated_time"> 02:20 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1097883083/how-the-u-s-aid-to-ukraine-is-taking-shape">How the U.S. aid to Ukraine is taking shape </a> NPR: Congress is currently considering sending Ukraine $39.8 billion more in aid. That's nearly three times the amount it approved in March to help the country after Russia invaded. 
@@ -65,7 +67,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/world/europe/pussy-riot-russia-escape.html">How Maria Alyokhina of Pussy Riot Escaped From Russia</a> NYT: After more than a decade of activism, Maria Alyokhina disguised herself as a food courier to evade the police — and a widening crackdown by President Vladimir Putin. 
  <p class="updated_time"> 01:53 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/arts/francis-fukuyama-history-liberalism.html">Francis Fukuyama Predicted the End of History. It’s Back (Again).</a> NYT: In a new book, the political theorist offers a stout defense of liberalism against threats from left and right — and predicts that Ukraine will revive “the spirit of 1989.” 
- <p class="updated_time"> 01:27 PM CT, May. 10 </p> 
+ <p class="updated_time"> 01:45 PM CT, May. 10 </p> 
  <a href="https://www.wsj.com/articles/shanghais-lockdown-leaves-thousands-sleeping-in-its-streets-11652193941">Shanghai’s Lockdown Leaves Thousands Sleeping in Its Streets</a> WSJ: Shanghai’s Lockdown Leaves Thousands Sleeping in Its Streets 
  <p class="updated_time"> 01:20 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/05/09/world/philippines-election">Ferdinand Marcos Jr. Is Bound for Presidency of the Philippines</a> NYT: Early counting put Mr. Marcos, the son and namesake of the country’s former dictator, more than 15 million votes ahead of his top presidential rival in one of the country’s most consequential elections in decades. 
@@ -192,10 +194,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:36 PM CT, May. 10 </p> 
+ <a href="https://www.nytimes.com/2022/05/10/us/politics/congress-ukraine-aid-questions.html">House Poised to Pass Nearly $40 Billion Ukraine Aid Package</a> NYT: As lawmakers have embraced more than $50 billion to Kyiv within two months, they have largely refrained from raising concerns or questioning the Biden administration’s strategy. 
+ <p class="updated_time"> 06:36 PM CT, May. 10 </p> 
+ <a href="https://www.nytimes.com/2022/05/10/us/politics/hunter-biden-kevin-morris-lawyer.html">For Financial Help and Counsel, Hunter Biden Turns to Hollywood Lawyer</a> NYT: Kevin Morris, known for brokering big entertainment deals, has helped President Biden’s son navigate his legal troubles and scrutiny from the right. Some of the White House’s allies are concerned. 
  <p class="updated_time"> 06:19 PM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/pennsylvania-republicans-stop-mastriano-00031607">‘Alarm bells going off’: Pennsylvania Republicans plot to stop Mastriano</a> Politico: Republicans are increasingly worried that a ticket led by gubernatorial front-runner Doug Mastriano could lead to defeat in November. 
- <p class="updated_time"> 06:17 PM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/2022/05/10/us/politics/hunter-biden-kevin-morris-lawyer.html">Hunter Biden Turns to Hollywood Lawyer for Financial Help and Counsel</a> NYT: Kevin Morris, known for brokering big entertainment deals, has helped President Biden’s son navigate his legal troubles and scrutiny from the right. Some of the White House’s allies are concerned. 
  <p class="updated_time"> 06:00 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/russia-cyberattack-ukraine-war.html">Russia Was Behind Cyberattack in Run-Up to Ukraine War, Investigation Finds</a> NYT: The February attack rattled Pentagon officials and private industry because it revealed new vulnerabilities in global communications systems. 
  <p class="updated_time"> 06:00 PM CT, May. 10 </p> 
@@ -310,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/09/books/midge-decter-dead.html">Midge Decter, an Architect of Neoconservatism, Dies at 94</a> NYT: As a writer and intellectual, she abandoned liberal politics, challenged the women’s movement and championed the Reagan Republican agenda. 
  <p class="updated_time"> 06:36 PM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/republicans-splinter-on-post-roe-world-00031221">Republicans splinter on how to handle a post-Roe world</a> Politico: The GOP is on different pages about a national abortion ban should the Supreme Court follow through. But pursuing one is certainly on the table. 
- <p class="updated_time"> 02:56 PM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/2022/05/09/us/politics/ukraine-steel-tariffs.html">U.S. to Lift Tariffs on Ukrainian Steel</a> NYT: The Biden administration will lift a 25 percent tariff on the Ukrainian steel sector for one year to help the country’s economy. 
  <p class="updated_time"> 01:28 PM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/kyiv-ukraine-russia-war-horrors-00030992">Ukrainians unearth horrors near Kyiv, a month after Russian retreat</a> Politico: Mass graves are still being found, underscoring the scale of atrocities committed by Vladimir Putin’s forces in Ukraine. 
  <p class="updated_time"> 12:51 PM CT, May. 09 </p> 
