@@ -15,21 +15,21 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/health/pediatricians-mental-health-crisis-teens.html">Pediatricians Hold the Front Lines of a Mental Health Crisis</a> NYT: Around the country, the setting for adolescent mental health care looks ever more like this doctor’s office in Kentucky, the next patient arriving every 15 minutes. 
  <p class="updated_time"> 01:47 AM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61381594?at_medium=RSS&at_campaign=KARANGA">Philippines election: Bongbong Marcos poised to win presidency in landslide</a> BBC: Partial results show the son of the nation's former dictator is likely to win the democratic vote. 
- <p class="updated_time"> 01:34 AM CT, May. 10 </p> 
+ <p class="updated_time"> 01:46 AM CT, May. 10 </p> 
  <a href="https://www.wsj.com/articles/putin-uses-russias-victory-day-parade-to-justify-invasion-of-ukraine-11652093244">Putin Uses Russia’s Victory Day Parade to Justify Invasion of Ukraine</a> WSJ: Putin Uses Russia’s Victory Day Parade to Justify Invasion of Ukraine 
  <p class="updated_time"> 01:08 AM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61389684?at_medium=RSS&at_campaign=KARANGA">What the Marcos' return to power means for the Philippines</a> BBC: Decades after his father was overthrown, Bongbong Marcos is now set to reclaim power for his family. 
- <p class="updated_time"> 12:34 AM CT, May. 10 </p> 
+ <p class="updated_time"> 12:46 AM CT, May. 10 </p> 
  <a href="https://www.wsj.com/articles/putins-ukraine-adventure-unleashes-nuclear-genies-11652101354">Putin’s Ukraine Adventure Unleashes Nuclear Genies</a> WSJ: Putin’s Ukraine Adventure Unleashes Nuclear Genies 
  <p class="updated_time"> 12:26 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news">What Happened on Day 75 of the War in Ukraine</a> NYT: The Russian president, on his country’s most important holiday, did not proclaim an escalation of the fight in Ukraine. 
- <p class="updated_time"> 11:34 PM CT, May. 09 </p> 
+ <p class="updated_time"> 11:46 PM CT, May. 09 </p> 
  <a href="https://www.wsj.com/articles/she-was-a-soldier-in-the-red-army-now-shes-a-torch-bearer-for-ukraine-11652119269">She Was a Soldier in the Red Army. Now She’s a Torch-Bearer for Ukraine.</a> WSJ: She Was a Soldier in the Red Army. Now She’s a Torch-Bearer for Ukraine. 
  <p class="updated_time"> 11:07 PM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-61389117?at_medium=RSS&at_campaign=KARANGA">Thai army boycotts e-commerce giant Lazada over video</a> BBC: The ban on the army using Lazada comes after royalists said a video mocked the country's royal family. 
  <p class="updated_time"> 11:01 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/10/climate/oilfield-sales-pollution.html">Oil Giants Sell Dirty Wells to Buyers With Looser Climate Goals, Study Finds</a> NYT: The transactions can help major oil and gas companies clean up their own production by transferring polluting assets to a different firm, the analysis said. 
- <p class="updated_time"> 10:34 PM CT, May. 09 </p> 
+ <p class="updated_time"> 10:46 PM CT, May. 09 </p> 
  <a href="https://www.wsj.com/articles/the-surprising-backstory-of-how-the-steele-dossier-was-created-11652103582">Three Friends Chatting: How the Steele Dossier Was Created</a> WSJ: Three Friends Chatting: How the Steele Dossier Was Created 
  <p class="updated_time"> 10:21 PM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61388789?at_medium=RSS&at_campaign=KARANGA">Ex-prison guard Vicky White dead and inmate Casey White held after manhunt</a> BBC: Casey White and guard Vicky White were suspected of having struck up a relationship. 
@@ -39,7 +39,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61382289?at_medium=RSS&at_campaign=KARANGA">Abortion protests: Security tightened around court justices</a> BBC: Activists rally outside justices' homes as they decide a case that could quash legalised abortion. 
  <p class="updated_time"> 10:05 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/05/09/world/philippines-election">Ferdinand Marcos Jr. Is Bound for Presidency of the Philippines</a> NYT: Early counting put Mr. Marcos, the son and namesake of the country’s former dictator, more than 15 million votes ahead of his top presidential rival in one of the country’s most consequential elections in decades. 
- <p class="updated_time"> 09:34 PM CT, May. 09 </p> 
+ <p class="updated_time"> 09:46 PM CT, May. 09 </p> 
  <a href="https://www.wsj.com/articles/philippines-votes-for-president-with-ex-dictators-son-leading-opinion-polls-11652063633">Ferdinand Marcos Jr. Headed for Philippines Presidency</a> WSJ: Ferdinand Marcos Jr. Headed for Philippines Presidency 
  <p class="updated_time"> 09:29 PM CT, May. 09 </p> 
  <a href="https://www.wsj.com/articles/shanghai-tightens-pandemic-rules-as-beijing-calls-for-victory-over-virus-11652102133">Shanghai's Covid Lockdown Gets Tougher: 'If One Person Tests Positive, the Whole Building Isolates'</a> WSJ: Residents said authorities in the coastal city, now in its sixth week under strict lockdown, have begun forcing more people into centralized quarantine facilities. 
@@ -192,6 +192,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:38 AM CT, May. 10 </p> 
+ <a href="https://www.npr.org/2022/05/10/1097803459/supreme-court-roe-v-wade-abortion-access-protest-alito">Senate passes bill to give police protection to families of Supreme Court justices</a> NPR: The bill follows a leak last week of a draft Supreme Court opinion that, if unchanged, would overturn Roe v. Wade, the 1973 case that federally legalized abortions. 
  <p class="updated_time"> 02:06 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/09/us/politics/susan-rice-covid-positive.html">Susan Rice, White House Adviser, Tests Positive for Coronavirus</a> NYT: Ms. Rice said she had last seen President Biden in person on Wednesday while wearing a mask and that, according to the C.D.C. guidelines, he was “not considered a close contact.” 
  <p class="updated_time"> 02:00 AM CT, May. 10 </p> 
@@ -304,8 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/08/supreme-court-justices-misled-the-senate-gillibrand-said-00030900">Supreme Court justices 'misled the Senate,' Gillibrand said</a> Politico: “If a corporation put these kind of statements in their quarterly filings, they would be seen to be purposefully misleading and deemed fraud,” the New York senator said. 
  <p class="updated_time"> 08:46 AM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/lindsey-graham-ukraine-russia-00030898">No way to negotiate end to Russia-Ukraine war, Graham says</a> Politico: "There is no off-ramp in this war," the South Carolina Republican said. 
- <p class="updated_time"> 08:26 AM CT, May. 08 </p> 
- <a href="https://www.npr.org/2022/05/08/1097460153/ukraine-jill-biden-visit-mothers-day">Jill Biden visits Ukraine, making her first solo trip to a combat zone as first lady</a> NPR: On Mother's Day, Biden met with Ukraine's first lady, Olena Zelenska, who has been in hiding with her children since Russia's invasion began. 
  <p class="updated_time"> 07:17 AM CT, May. 08 </p> 
  <a href="https://www.politico.com/news/2022/05/08/jill-biden-ukraine-refugees-00030892">Jill Biden visits Ukraine after comforting refugees in Slovakia</a> Politico: She met in Ukraine with first lady Olena Zelenska. 
  <p class="updated_time"> 07:02 AM CT, May. 08 </p> 
