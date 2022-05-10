@@ -9,40 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:34 PM CT, May. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61389117?at_medium=RSS&at_campaign=KARANGA">Thai army boycotts e-commerce giant Lazada over video</a> BBC: The ban on the army using Lazada comes after royalists said a video mocked the country's royal family. 
+ <p class="updated_time"> 10:31 PM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news">Ukraine Live Updates: In Speech, Putin Shows Reluctance in Demanding Too Much of Russians</a> NYT: The Russian president, on his country’s most important holiday, did not proclaim an escalation of the fight in Ukraine. 
+ <p class="updated_time"> 10:21 PM CT, May. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61388789?at_medium=RSS&at_campaign=KARANGA">US manhunt: Former prison guard Vicky White reportedly shot herself</a> BBC: Casey White and guard Vicky White were suspected of having struck up a relationship. 
  <p class="updated_time"> 10:15 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/asia/mahinda-rajapaksa-resigns-sri-lanka.html">Sri Lanka’s Prime Minister Mahinda Rajapaksa Resigns in Face of Unrest</a> NYT: The move by Mahinda Rajapaksa came after his supporters instigated violent clashes in Colombo, the capital. It wasn’t immediately clear whether his resignation would satisfy opponents. 
  <p class="updated_time"> 10:12 PM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61382289?at_medium=RSS&at_campaign=KARANGA">Abortion protests: Security tightened around court justices</a> BBC: Activists rally outside justices' homes as they decide a case that could quash legalised abortion. 
- <p class="updated_time"> 10:12 PM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/live/2022/05/09/world/ukraine-russia-war-news">Ukraine Live Updates: In Speech, Putin Shows Reluctance in Demanding Too Much of Russians</a> NYT: The Russian president, on his country’s most important holiday, did not proclaim an escalation of the fight in Ukraine. 
  <p class="updated_time"> 10:05 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/live/2022/05/09/world/philippines-election">Ferdinand Marcos Jr. Is Bound for Presidency of the Philippines</a> NYT: Early counting put Mr. Marcos, the son and namesake of the country’s former dictator, more than 15 million votes ahead of his top presidential rival in one of the country’s most consequential elections in decades. 
- <p class="updated_time"> 10:00 PM CT, May. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61388789?at_medium=RSS&at_campaign=KARANGA">US manhunt: Former prison guard Vicky White reportedly shot herself</a> BBC: Casey White and guard Vicky White were suspected of having struck up a relationship. 
- <p class="updated_time"> 09:16 PM CT, May. 09 </p> 
+ <p class="updated_time"> 09:45 PM CT, May. 09 </p> 
  <a href="https://www.wsj.com/articles/putin-uses-russias-victory-day-parade-to-justify-invasion-of-ukraine-11652093244">Putin Uses Russia’s Victory Day Parade to Justify Invasion of Ukraine</a> WSJ: Putin Uses Russia’s Victory Day Parade to Justify Invasion of Ukraine 
  <p class="updated_time"> 08:59 PM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61389189?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: Protesters torch leaders' homes in night of unrest</a> BBC: Angry mobs burnt down homes belonging to the Rajapaksa family and MPs after clashes with government supporters. 
  <p class="updated_time"> 08:54 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/europe/putin-speech-victory-day-ukraine-war.html">In Victory Day Speech, Putin Told Russians What He Wanted Them to Hear</a> NYT: The Russian president, in a much-anticipated speech on his country’s most important holiday, did not proclaim an escalation of the fight in Ukraine. 
+ <p class="updated_time"> 08:45 PM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/putins-ukraine-adventure-unleashes-nuclear-genies-11652101354">Putin’s Ukraine Adventure Unleashes Nuclear Genies</a> WSJ: Putin’s Ukraine Adventure Unleashes Nuclear Genies 
  <p class="updated_time"> 08:38 PM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61339179?at_medium=RSS&at_campaign=KARANGA">Warhol's Marilyn Monroe painting sold for record-breaking $195m</a> BBC: The record-breaking sum is the highest ever paid for either an American or 20th Century work of art. 
- <p class="updated_time"> 08:16 PM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/putins-ukraine-adventure-unleashes-nuclear-genies-11652101354">Putin’s Ukraine Adventure Unleashes Nuclear Genies</a> WSJ: Putin’s Ukraine Adventure Unleashes Nuclear Genies 
  <p class="updated_time"> 08:07 PM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61383632?at_medium=RSS&at_campaign=KARANGA">Ukraine bid to join EU will take decades says Macron</a> BBC: The French leader suggests other ways the EU can help Ukraine, other than fast tracking its membership. 
  <p class="updated_time"> 07:49 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/us/politics/biden-lend-lease-ukraine-weapons-war.html">Biden Speeds Up Military Aid to Ukraine, Drawing U.S. Deeper Into War</a> NYT: President Biden signed the Lend-Lease Act, which will waive time-consuming requirements on the provision of arms to Ukraine. 
- <p class="updated_time"> 07:16 PM CT, May. 09 </p> 
+ <p class="updated_time"> 07:45 PM CT, May. 09 </p> 
  <a href="https://www.wsj.com/articles/she-was-a-soldier-in-the-red-army-now-shes-a-torch-bearer-for-ukraine-11652119269">She Was a Soldier in the Red Army. Now She’s a Torch-Bearer for Ukraine.</a> WSJ: She Was a Soldier in the Red Army. Now She’s a Torch-Bearer for Ukraine. 
  <p class="updated_time"> 06:49 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/americas/ecuador-prison-riot.html">Ecuador Prison Riot Leaves Dozens Dead</a> NYT: The riot in northern Ecuador left at least 40 inmates dead and more than a dozen injured. It’s the latest blood bath inside the country’s troubled and overcrowded prison system. 
+ <p class="updated_time"> 06:45 PM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/the-surprising-backstory-of-how-the-steele-dossier-was-created-11652103582">Three Friends Chatting: How the Steele Dossier Was Created</a> WSJ: Three Friends Chatting: How the Steele Dossier Was Created 
  <p class="updated_time"> 06:20 PM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/blogs-trending-61351342?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The stolen faces used to promote Vladimir Putin</a> BBC: Social media accounts using pictures copied from famous and unknown people are tweeting in favour of Russia. 
  <p class="updated_time"> 06:17 PM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61335529?at_medium=RSS&at_campaign=KARANGA">South Africa kidnapping: 'I survived but part of me died that day'</a> BBC: South Africa has one of the highest rates of kidnapping in the world, as Lesego Tau's ordeal shows. 
- <p class="updated_time"> 06:16 PM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/the-surprising-backstory-of-how-the-steele-dossier-was-created-11652103582">Three Friends Chatting: How the Steele Dossier Was Created</a> WSJ: Three Friends Chatting: How the Steele Dossier Was Created 
  <p class="updated_time"> 06:16 PM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61351784?at_medium=RSS&at_campaign=KARANGA">Polygamy: Muslim women in India fight 'abhorrent' practice</a> BBC: The practice has been on the decline, but critics say the fact that it's legal makes it problematic. 
  <p class="updated_time"> 06:14 PM CT, May. 09 </p> 
@@ -53,8 +55,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61388816?at_medium=RSS&at_campaign=KARANGA">Ukraine war: From fighting the Nazis with the Soviets, to fleeing from Putin's war</a> BBC: A Ukrainian Jew who once fought the Nazis with Russia says he had to flee to escape Putin's war. 
  <p class="updated_time"> 05:48 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/us/politics/biden-covd-aid.html">Former Heads of State Call on U.S. to Commit $5 Billion for Global Covid Aid</a> NYT: Activists are also pressing President Biden to take a more forceful leadership role in the response as he convenes world leaders for a Covid-19 summit on Thursday. 
- <p class="updated_time"> 05:31 PM CT, May. 09 </p> 
- <a href="https://www.wsj.com/articles/philippines-votes-for-president-with-ex-dictators-son-leading-opinion-polls-11652063633">Ferdinand Marcos Jr. Headed for Philippines Presidency</a> WSJ: The results mark an extraordinary restoration of the Marcos dynasty more than 3½ decades after their exile. 
+ <p class="updated_time"> 05:45 PM CT, May. 09 </p> 
+ <a href="https://www.wsj.com/articles/philippines-votes-for-president-with-ex-dictators-son-leading-opinion-polls-11652063633">Ferdinand Marcos Jr. Headed for Philippines Presidency</a> WSJ: Ferdinand Marcos Jr. Headed for Philippines Presidency 
  <p class="updated_time"> 04:52 PM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61339177?at_medium=RSS&at_campaign=KARANGA">Wordle: Controversial answer was unintentional - NYT</a> BBC: The New York Times says the choice of the solution "fetus" amid US abortion debate was a coincidence. 
  <p class="updated_time"> 04:47 PM CT, May. 09 </p> 
@@ -157,8 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/07/world/europe/france-president-emmanuel-macron-inauguration.html">Emmanuel Macron Inaugurated for a 2nd Term as France President</a> NYT: “Rarely has our world and our country confronted such a combination of challenges,” Mr. Macron said, promising to govern France more inclusively. 
  <p class="updated_time"> 02:04 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/europe/g7-nations-russia-oil.html">G7 Nations Pledge to Ban or Phase Out the Import of Russian Oil</a> NYT: With much of Europe dependent on Russian oil, the Group of 7 said the ban would take effect in a “timely and orderly fashion.” 
- <p class="updated_time"> 12:56 PM CT, May. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61373192?at_medium=RSS&at_campaign=KARANGA">Sri Lanka: The protests unifying a nation where ethnic fault lines run deep</a> BBC: Unprecedented protests in Colombo are unifying a nation where ethnic fault lines run deep. 
  <p class="updated_time"> 12:46 PM CT, May. 08 </p> 
  <a href="https://www.nytimes.com/2022/05/08/world/middleeast/israel-suspects-arrested-attack.html">Israel Captures 2 Palestinians Suspected in Deadly Ax Attack</a> NYT: The two men were caught hiding in a forest not far from where the killings were carried out, ending an intensive search. But the country remains on high alert. 
  <p class="updated_time"> 11:30 AM CT, May. 08 </p> 
@@ -196,6 +196,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:28 PM CT, May. 09 </p> 
+ <a href="https://www.nytimes.com/2022/05/09/us/politics/susan-rice-covid-positive.html">Susan Rice, White House Adviser, Tests Positive for Coronavirus</a> NYT: Ms. Rice said she had last seen President Biden in person on Wednesday while wearing a mask and that, according to the C.D.C. guidelines, he was “not considered a close contact.” 
+ <p class="updated_time"> 10:20 PM CT, May. 09 </p> 
+ <a href="https://www.politico.com/news/2022/05/09/samuel-alito-home-protest-abortion-rights-00031285">Alito's home draws latest abortion-rights demonstration after Roe opinion breach</a> Politico: About 100 protestors marched to the justice's residence after activist gatherings in front of Supreme Court Chief Justice John Roberts' and Justice Brett Kavanaugh's homes. 
  <p class="updated_time"> 10:05 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/books/midge-decter-dead.html">Midge Decter, an Architect of Neoconservatism, Dies at 94</a> NYT: As a writer and intellectual, she abandoned liberal politics, challenged the women’s movement and championed the Reagan Republican agenda. 
  <p class="updated_time"> 08:17 PM CT, May. 09 </p> 
@@ -216,8 +220,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/09/hong-kong-china-new-chief-executive-00031167">Hong Kong’s new leader is Beijing’s designated ‘enforcer’</a> Politico: John Lee’s election signals heightened risks to the foreign business community. 
  <p class="updated_time"> 04:10 PM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/jan-6-pulitzer-public-service-00031164">Jan. 6 coverage wins Pulitzer's public service prize</a> Politico: Coverage of the fall of Afghanistan also nets top awards. 
- <p class="updated_time"> 03:53 PM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/2022/05/09/us/politics/susan-rice-covid-positive.html">Susan Rice, White House Adviser, Tests Positive for Coronavirus</a> NYT: Ms. Rice said she had last seen President Biden in person on Wednesday while wearing a mask and that, according to the C.D.C. guidelines, he was “not considered a close contact.” 
  <p class="updated_time"> 03:51 PM CT, May. 09 </p> 
  <a href="https://www.npr.org/2022/05/09/1097566604/russia-ukraine-war-what-happened-today-may-9">Russia-Ukraine war: What happened today (May 9)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:31 PM CT, May. 09 </p> 
