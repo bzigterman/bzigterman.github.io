@@ -1002,6 +1002,8 @@ fig1 <- hchart(hc_al_games, "line", hcaes(x = game_n,
                  pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
 ) %>%
   hc_colors(brewer.pal(12,"Paired")) %>%
+  hc_legend(align = "right",
+            layout = "vertical") %>%
   hc_title(text = "AL") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "",
@@ -1025,6 +1027,8 @@ fig2 <- hchart(hc_nl_games, "line", hcaes(x = game_n,
                  pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
 )%>%
   hc_colors(brewer.pal(12,"Paired")) %>%
+  hc_legend(align = "right",
+            layout = "vertical") %>%
   hc_title(text = "NL") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "",
@@ -1091,10 +1095,10 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
   <img src=\"{{ site.baseurl }}/plots/mlb_wild_card_mobile.png\" alt=\"\" />
 </picture>
 
-<iframe src=\"/interactive/al_standings.html\" width=\"100%\" height=\"300\"> 
+<iframe src=\"/interactive/al_standings.html\" width=\"100%\" height=\"400\"> 
 </iframe>
 
-<iframe src=\"/interactive/nl_standings.html\" width=\"100%\" height=\"300\"> 
+<iframe src=\"/interactive/nl_standings.html\" width=\"100%\" height=\"400\"> 
 </iframe>
 
 
