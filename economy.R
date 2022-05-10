@@ -29,7 +29,7 @@ recent_data <- data %>%
 
 
 fig <- hchart(data, "line", hcaes(x = date,
-                           y = value),
+                                  y = value),
               name = "Claims") %>%
   hc_title(text = "Initial Unemployment Claims") %>%
   hc_credits(
@@ -757,8 +757,8 @@ data2 <- full_join(data,core) %>%
   select(date, series_id, value)
 
 fig <- hchart(data2, "line", hcaes(x = date,
-                                  y = round(value*100, digits = 1),
-                                  group = series_id)) %>%
+                                   y = round(value*100, digits = 1),
+                                   group = series_id)) %>%
   hc_title(text = "Inflation: Consumer Price Index") %>%
   hc_credits(
     enabled = TRUE,
@@ -1332,14 +1332,14 @@ ggplot(data, aes(x = date,
                        tail(data$short_date,1))) +
   theme_bw() +
   theme(#axis.text.y = element_text(size = 10),
-        #axis.text.x = element_text(size = 8),
-        panel.grid.minor = element_blank(),
-        panel.background = element_blank(),
-        panel.grid.major.y = element_line(colour = "grey93"),
-        panel.grid.major.x = element_line(colour = "grey93"),
-        #strip.text = element_text(size = 11),
-        strip.background = element_blank(),
-        plot.caption = element_text(colour = "grey40"))
+    #axis.text.x = element_text(size = 8),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    panel.grid.major.y = element_line(colour = "grey93"),
+    panel.grid.major.x = element_line(colour = "grey93"),
+    #strip.text = element_text(size = 11),
+    strip.background = element_blank(),
+    plot.caption = element_text(colour = "grey40"))
 
 ggsave("plots/champaign_housing_mobile.png",
        width = 3, height = 8*(628/1200), dpi = 320)
