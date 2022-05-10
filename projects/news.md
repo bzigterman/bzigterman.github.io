@@ -9,58 +9,58 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:34 AM CT, May. 10 </p> 
+ <a href="https://www.nytimes.com/2022/05/10/world/asia/china-shanghai-beijing-covid.html">As Shanghai’s Covid Cases Fall, China’s Restrictions Tighten</a> NYT: Schools are closed indefinitely in Beijing, while the last subway lines in Shanghai that were still running have ceased operation. 
+ <p class="updated_time"> 09:33 AM CT, May. 10 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/10/world/ukraine-russia-war-news">Live Updates: Missiles Hit Odesa in Ukraine’s South as Russia Seeks Gains in East</a> NYT: A Pentagon official said the persistent attacks against Odesa could be part of an effort to pin down Ukrainian troops far from the east, where Moscow is focusing its war effort. President Biden agreed to send weapons to Ukraine more quickly, and Congress prepared to consider a large new aid package. 
  <p class="updated_time"> 09:22 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/asia/philippines-election-protests.html">Philippines Election: Marcos Win Draws Protests</a> NYT: Young voters who had rallied around Leni Robredo during the presidential race gathered to voice their frustration with preliminary results showing her overwhelming defeat. 
- <p class="updated_time"> 09:22 AM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/05/10/world/ukraine-russia-war-news">Live Updates: Missiles Hit Odesa in Ukraine’s South as Russia Seeks Gains in East</a> NYT: A Pentagon official said the persistent attacks against Odesa could be part of an effort to pin down Ukrainian troops far from the east, where Moscow is focusing its war effort. President Biden agreed to send weapons to Ukraine more quickly, and Congress prepared to consider a large new aid package. 
  <p class="updated_time"> 09:19 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/russian-forces-occupation-ukraine.html">How Much of Ukraine Does Russia Hold?</a> NYT: Although Russian forces failed to take Kyiv, they have captured large chunks of the south and east, giving Moscow a chance to strangle the country economically. 
  <p class="updated_time"> 08:49 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/09/us/politics/biden-lend-lease-ukraine-weapons-war.html">Biden Speeds Up Military Aid to Ukraine, Drawing U.S. Deeper Into War</a> NYT: President Biden signed the Lend-Lease Act, which will waive time-consuming requirements on the provision of arms to Ukraine. 
  <p class="updated_time"> 08:46 AM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875">Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught</a> WSJ: Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught 
+ <p class="updated_time"> 08:46 AM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1097846980/ecuador-prison-riot-kills-44">Clash between rival gangs kills 44 inmates in an Ecuadorean prison</a> NPR: Interior Minister Patricio Carrillo said at a news conference that one group of inmates left their cells to attack another inside the Bellavista lockup in Santo Domingo. 
  <p class="updated_time"> 08:42 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/asia/south-korea-yoon-president.html">South Korea Inaugurates Yoon Suk-yeol as President</a> NYT: During his inaugural speech, Yoon Suk-yeol said his country would play a greater role in promoting freedom and human rights around the world. 
- <p class="updated_time"> 08:28 AM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875">Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught</a> WSJ: Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught 
- <p class="updated_time"> 08:19 AM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/2022/05/10/world/asia/china-shanghai-beijing-covid.html">As Shanghai’s Covid Cases Fall, China’s Restrictions Tighten</a> NYT: Schools are closed indefinitely in Beijing, while the last subway lines in Shanghai that were still running have ceased operation. 
  <p class="updated_time"> 08:15 AM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61390586?at_medium=RSS&at_campaign=KARANGA">Australia: Diver's body washes up near $14m cocaine haul</a> BBC: The diver was wearing high-end diving equipment when found, say police investigating the incident. 
  <p class="updated_time"> 08:07 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/05/09/world/philippines-election">Ferdinand Marcos Jr. Is Bound for Presidency of the Philippines</a> NYT: Early counting put Mr. Marcos, the son and namesake of the country’s former dictator, more than 15 million votes ahead of his top presidential rival in one of the country’s most consequential elections in decades. 
  <p class="updated_time"> 08:01 AM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61395745?at_medium=RSS&at_campaign=KARANGA">Israel: Turkish flight aborted as passengers get plane crash pics</a> BBC: The Turkish plane was about to take off from Israel when passengers' phones were sent the images. 
+ <p class="updated_time"> 07:46 AM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102">Russia Strikes Shopping Mall, Warehouse in Odessa</a> WSJ: Russia Strikes Shopping Mall, Warehouse in Odessa 
  <p class="updated_time"> 07:43 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/ukraine-mariupol-soldiers-wives.html">‘They are really on the last breath’: The wives of soldiers in Mariupol plead for help.</a> NYT: Interviews and public comments by the spouses of soldiers holed up in a steel plant in the southern Ukrainian city paint a grim picture of the fighters’ situation. 
  <p class="updated_time"> 07:41 AM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61389189?at_medium=RSS&at_campaign=KARANGA">Sri Lankan troops on streets after protesters torch leaders' homes in night of unrest</a> BBC: Troops are on the streets after a night of anti-government unrest fuelled by an economic crisis. 
  <p class="updated_time"> 07:38 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/public-services-ukraine.html">How Public Services Are Operating in Ukraine</a> NYT: Our reporters answer readers’ questions about Russia’s invasion of Ukraine. Many of you asked about schools and hospitals. 
- <p class="updated_time"> 07:28 AM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102">Russia Strikes Shopping Mall, Warehouse in Odessa</a> WSJ: Russia Strikes Shopping Mall, Warehouse in Odessa 
  <p class="updated_time"> 07:18 AM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61388789?at_medium=RSS&at_campaign=KARANGA">Ex-prison guard Vicky White dead and inmate Casey White held after manhunt</a> BBC: Casey White and guard Vicky White were suspected of having struck up a relationship. 
+ <p class="updated_time"> 06:46 AM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/another-marcos-rises-in-the-philippines-but-how-does-he-plan-to-govern-11652170387">Another Marcos Rises in the Philippines, but How Does He Plan to Govern?</a> WSJ: Another Marcos Rises in the Philippines, but How Does He Plan to Govern? 
  <p class="updated_time"> 06:45 AM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1097833383/uk-parliament-opens-for-first-time-in-six-decades-without-queen">The U.K.'s Parliament opens for the first time in six decades without the queen</a> NPR: Britain's Conservative government laid out its plans for the next year in a tradition-steeped ceremony in Parliament — but without Queen Elizabeth II, who was absent for the first time in six decades. 
  <p class="updated_time"> 06:34 AM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61391848?at_medium=RSS&at_campaign=KARANGA">Dutch 18th Century mass grave: Skeletons in Vianen were British soldiers</a> BBC: Bones found in the Dutch city of Vianen date back to the late 18th Century, archaeologists say. 
- <p class="updated_time"> 06:28 AM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/another-marcos-rises-in-the-philippines-but-how-does-he-plan-to-govern-11652170387">Another Marcos Rises in the Philippines, but How Does He Plan to Govern?</a> WSJ: Another Marcos Rises in the Philippines, but How Does He Plan to Govern? 
  <p class="updated_time"> 06:10 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/middleeast/ukraine-crowdsourcing-online-donations.html">Crowdfunding a War: How Online Appeals Are Bringing Weapons to Ukraine</a> NYT: A campaign to crowdfund donations and weapons is producing millions of dollars as well as a bounty of smaller weapons and other military equipment for the Ukrainian military. 
  <p class="updated_time"> 05:47 AM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61390906?at_medium=RSS&at_campaign=KARANGA">Shiv Kumar Sharma: The maestro who straddled classical and popular music</a> BBC: Sharma was credited with converting the santoor into a major instrument of Indian classical music. 
- <p class="updated_time"> 05:28 AM CT, May. 10 </p> 
+ <p class="updated_time"> 05:46 AM CT, May. 10 </p> 
  <a href="https://www.wsj.com/articles/in-australian-election-battleground-rising-prices-are-on-the-minds-of-voters-11652183936">In Australian Election Battleground, Rising Prices Are on the Minds of Voters</a> WSJ: In Australian Election Battleground, Rising Prices Are on the Minds of Voters 
  <p class="updated_time"> 04:53 AM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61330402?at_medium=RSS&at_campaign=KARANGA">The tuk-tuk garden beating the heat in India</a> BBC: An Indian tuk-tuk driver's innovative method to beat the heat has gone viral on social media. 
  <p class="updated_time"> 04:49 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/french-military-ukraine.html">For French Military, War in Ukraine Prompts a Shift in Focus</a> NYT: While it is in Europe’s interest to weaken Moscow, the chief of staff of France’s military says, Russia may someday need to play a part in a global security plan. 
+ <p class="updated_time"> 04:46 AM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/south-koreas-new-president-offers-pyongyang-economic-aid-for-denuclearization-11652157081">South Korea’s New President Offers Pyongyang Economic Aid for Denuclearization</a> WSJ: South Korea’s New President Offers Pyongyang Economic Aid for Denuclearization 
  <p class="updated_time"> 04:30 AM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1096741988/orthodox-christian-churches-are-drawing-in-far-right-american-converts">Orthodox Christian churches are drawing in far-right American converts</a> NPR: Orthodox Christianity is a relatively small faith tradition in the U.S., but in recent years it has expanded to new regions. Some new converts are using the religion to spread white nationalist views. 
- <p class="updated_time"> 04:28 AM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/south-koreas-new-president-offers-pyongyang-economic-aid-for-denuclearization-11652157081">South Korea’s New President Offers Pyongyang Economic Aid for Denuclearization</a> WSJ: South Korea’s New President Offers Pyongyang Economic Aid for Denuclearization 
  <p class="updated_time"> 04:17 AM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1097821325/mexico-journalists-killed-sinaloa-veracruz-attorney-general">3 journalists have been killed over 3 days in Mexico </a> NPR: In 2021, seven reporters were killed in Mexico, making it the most dangerous country for journalists, according to data compiled by Reporters Without Borders. 
  <p class="updated_time"> 04:01 AM CT, May. 10 </p> 
@@ -232,8 +232,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/10/trump-bets-the-brand-on-two-elections-00031216">Trump bets his brand on 2 elections</a> Politico: He’s taken sides in the two biggest contests in the ballot Tuesday in West Virginia and Nebraska. 
  <p class="updated_time"> 03:30 AM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/kathy-barnette-pennsylvania-senate-gop-primary-00031262">‘Ultra-MAGA’ longshot roars into contention in key Senate race</a> Politico: Private polling conducted by both Republicans and Democrats confirms Kathy Barnette's momentum in the Senate GOP primary. 
- <p class="updated_time"> 03:30 AM CT, May. 10 </p> 
- <a href="https://www.politico.com/news/2022/05/10/legal-challenges-cdc-public-health-policy-00031253">‘It’s a tsunami’: Legal challenges threatening public health policy</a> Politico: Court battles over Covid-19 safety measures and recent court rulings will impact the government’s ability to keep Americans safe, experts warn. 
  <p class="updated_time"> 03:30 AM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/cannabis-crime-wave-banking-capitol-hill-00030330">Cannabis crime wave boosts banking prospects on Capitol Hill</a> Politico: Weed businesses struggle to bank in the U.S., leaving cash on the premises. 
  <p class="updated_time"> 03:30 AM CT, May. 10 </p> 
