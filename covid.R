@@ -116,14 +116,14 @@ champaign_point <- data.frame(
 )
 
 fig1 <- hcmap("countries/us/us-il-all",
-  data = il_cases,
-  value = "value",
-  joinBy = "fips",
-  nullColor = "#d3d3d3",
-  borderWidth = .5,
-  borderColor = "#787878",
-  #dataLabels = list(enabled = TRUE, format = "{point.name}"),
-  name = "Per 100k"
+              data = il_cases,
+              value = "value",
+              joinBy = "fips",
+              nullColor = "#d3d3d3",
+              borderWidth = .5,
+              borderColor = "#787878",
+              #dataLabels = list(enabled = TRUE, format = "{point.name}"),
+              name = "Per 100k"
 ) %>%
   hc_add_series(
     data = champaign_point,
@@ -169,15 +169,15 @@ champaign_point <- data.frame(
 )
 
 fig2 <- hcmap("countries/us/us-il-all",
-             data = il_community_levels,
-             value = "value",
-             joinBy = "fips",
-             nullColor = "#d3d3d3",
-             borderWidth = .5,
-             borderColor = "#787878",
-             tooltip = list(pointFormat = "{point.name}: {point.CCL_community_burden_level}"),
-             #dataLabels = list(enabled = TRUE, format = "{point.name}"),
-             name = "Level"
+              data = il_community_levels,
+              value = "value",
+              joinBy = "fips",
+              nullColor = "#d3d3d3",
+              borderWidth = .5,
+              borderColor = "#787878",
+              tooltip = list(pointFormat = "{point.name}: {point.CCL_community_burden_level}"),
+              #dataLabels = list(enabled = TRUE, format = "{point.name}"),
+              name = "Level"
 ) %>%
   hc_add_series(
     data = champaign_point,
@@ -424,25 +424,25 @@ fig <- hchart(idph_cases_vax_hosp,
   #   type = "line",
   #   label = list(
   #     enabled = TRUE),
-  #   yAxis = 4) %>%
-  # hc_add_series(
-  #   data = idph_cases_vax_hosp,
-  #   hcaes(x = Date,
-  #         y = round(percent_adult_icu_beds_used_confirmed_covid,
-  #                   digits = 1)),
-  #   name = "Pct. ICU Beds Used",
-  #   color = "#d90000",
-  #   tooltip = list(valueSuffix = "%"),
-  #   type = "line",
-  #   label = list(
-  #     enabled = TRUE),
-  #   yAxis = 5) %>%
-  #hc_title(text = "Housing Metrics") %>%
-  hc_credits(
-    enabled = TRUE,
-    text = paste("Source: CDC, HHS and IDPH. Latest data:",
-                tail(idph_cases_vax_hosp$short_date,1)),
-    href = "http://www.dph.illinois.gov/covid19") %>%
+#   yAxis = 4) %>%
+# hc_add_series(
+#   data = idph_cases_vax_hosp,
+#   hcaes(x = Date,
+#         y = round(percent_adult_icu_beds_used_confirmed_covid,
+#                   digits = 1)),
+#   name = "Pct. ICU Beds Used",
+#   color = "#d90000",
+#   tooltip = list(valueSuffix = "%"),
+#   type = "line",
+#   label = list(
+#     enabled = TRUE),
+#   yAxis = 5) %>%
+#hc_title(text = "Housing Metrics") %>%
+hc_credits(
+  enabled = TRUE,
+  text = paste("Source: CDC, HHS and IDPH. Latest data:",
+               tail(idph_cases_vax_hosp$short_date,1)),
+  href = "http://www.dph.illinois.gov/covid19") %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_tooltip(shared = TRUE) %>%
   hc_add_theme(
@@ -1144,7 +1144,7 @@ usa_combined <- full_join(cdc_new_cases,cdc_hosp) %>%
          #people_fully_vaccinated,
          #people_fully_vaccinated_per_hundred,
          daily_vaccinations
-         ) %>%
+  ) %>%
   fill(hosp_patients, .direction = "down") 
 #usa_combined$people_fully_vaccinated <- as.numeric(usa_combined$people_fully_vaccinated)
 
