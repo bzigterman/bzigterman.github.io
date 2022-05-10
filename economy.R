@@ -760,6 +760,7 @@ fig <- hchart(data2, "line", hcaes(x = date,
                                    y = round(value*100, digits = 1),
                                    group = series_id)) %>%
   hc_title(text = "Inflation: Consumer Price Index") %>%
+  hc_colors(c("#1f78b4","#a6cee3")) %>%
   hc_credits(
     enabled = TRUE,
     text = paste("Not seasonally adjusted. Source: U.S. Bureau of Labor Statistics. Latest data:",

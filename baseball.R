@@ -998,6 +998,7 @@ hc_nl_games <- nl_games_plus %>%
 fig1 <- hchart(hc_al_games, "line", hcaes(x = game_n,
                                           y = net_wins,
                                           group = team)) %>%
+  hc_colors(brewer.pal(12,"Paired")) %>%
   hc_title(text = "AL") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
@@ -1012,6 +1013,7 @@ saveWidget(widget = fig1, file = "interactive/al_standings.html",
 fig2 <- hchart(hc_nl_games, "line", hcaes(x = game_n,
                                          y = net_wins,
                                          group = team)) %>%
+  hc_colors(brewer.pal(12,"Paired")) %>%
   hc_title(text = "NL") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
