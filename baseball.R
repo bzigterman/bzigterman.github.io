@@ -985,19 +985,22 @@ ggsave("plots/mlb_wild_card_mobile.png",
 
 
 hc_al_games <- al_games_plus %>%
-  select(team, game_n, net_wins) %>%
+  select(team, game_n, net_wins, wins, losses, win_pct_text) %>%
   group_by(team) %>%
   arrange(game_n)
 
 hc_nl_games <- nl_games_plus %>%
-  select(team, game_n, net_wins) %>%
+  select(team, game_n, net_wins, wins, losses, win_pct_text) %>%
   group_by(team) %>%
   arrange(game_n)
 
 
 fig1 <- hchart(hc_al_games, "line", hcaes(x = game_n,
                                           y = net_wins,
-                                          group = team)) %>%
+                                          group = team),
+               tooltip = list(
+                 pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
+) %>%
   hc_colors(brewer.pal(12,"Paired")) %>%
   hc_title(text = "AL") %>%
   hc_yAxis(title = "") %>%
@@ -1016,8 +1019,11 @@ saveWidget(widget = fig1, file = "interactive/al_standings.html",
            libdir = "interactive")
 
 fig2 <- hchart(hc_nl_games, "line", hcaes(x = game_n,
-                                         y = net_wins,
-                                         group = team)) %>%
+                                          y = net_wins,
+                                          group = team),
+               tooltip = list(
+                 pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
+)%>%
   hc_colors(brewer.pal(12,"Paired")) %>%
   hc_title(text = "NL") %>%
   hc_yAxis(title = "") %>%
