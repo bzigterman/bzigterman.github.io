@@ -1584,6 +1584,8 @@ webappicon: /covid.png
 <iframe src=\"/interactive/champaign_covid.html\" width=\"100%\" height=\"500\"> 
 </iframe>
 
+",better_cu_covid_table_html,"
+
 Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](https://twitter.com/ChampaignCovid).
 
 ### [Wastewater Surveillance](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance)
