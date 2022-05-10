@@ -1890,7 +1890,7 @@ html {
 <td class="gt_row gt_right gt_striped">+1%</td></tr>
     <tr><td class="gt_row gt_left">Pct. Fully Vaccinated</td>
 <td class="gt_row gt_right">59</td>
-<td class="gt_row gt_right">60</td>
+<td class="gt_row gt_right">59</td>
 <td class="gt_row gt_right">+1%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
