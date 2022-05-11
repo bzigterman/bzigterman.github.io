@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, May. 11 </p> 
+ <a href="https://www.npr.org/2022/05/11/1097644931/solar-panels-solar-power-u-s-investigates-china-trade-rules">Solar projects are on hold as U.S. investigates whether China is skirting trade rules</a> NPR: A federal investigation of allegations that China is illegally avoiding duties on solar panels sold to U.S. companies is putting the brakes on the nation's solar power build-out. 
  <p class="updated_time"> 03:45 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/05/10/world/ukraine-russia-war-news">What Happened on Day 76 of the War in Ukraine</a> NYT: The Russian military, despite missteps, has gained near total control of the Donbas region. 
  <p class="updated_time"> 03:45 AM CT, May. 11 </p> 
@@ -17,7 +19,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/11/1098150456/shanghai-maintains-zero-covid-policy-but-the-u-n-says-it-is-not-sustainable">Shanghai maintains 'zero-COVID' policy but the U.N. says it is not sustainable</a> NPR: The leader of the World Health Organization says he doesn't think that a 'zero-COVID' strategy is sustainable, given the behavior of the virus. 
  <p class="updated_time"> 03:16 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61404053?at_medium=RSS&at_campaign=KARANGA">Sedition law: India's Supreme Court puts controversial law on hold</a> BBC: The Supreme Court pauses a colonial-era sedition law that critics say is used to stifle dissent. 
- <p class="updated_time"> 02:49 AM CT, May. 11 </p> 
+ <p class="updated_time"> 03:05 AM CT, May. 11 </p> 
  <a href="https://www.wsj.com/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875">Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught</a> WSJ: Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught 
  <p class="updated_time"> 02:37 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-61399483?at_medium=RSS&at_campaign=KARANGA">Elon Musk would reverse Donald Trump's Twitter ban</a> BBC: He says Twitter's decision to ban the former US president was "morally wrong and flat-out stupid". 
@@ -25,28 +27,28 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The circumstances surrounding the fatal shooting of Shireen Abu Akleh, a Palestinian American journalist, were not immediately clear. 
  <p class="updated_time"> 02:30 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/russia-cyberattack-ukraine-war.html">Russia Was Behind Cyberattack in Run-Up to Ukraine War, Investigation Finds</a> NYT: The February attack rattled Pentagon officials and private industry because it revealed new vulnerabilities in global communications systems. 
+ <p class="updated_time"> 02:05 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/western-economies-are-creaking-under-high-energy-prices-with-no-relief-in-sight-11652198600">Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight</a> WSJ: Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight 
  <p class="updated_time"> 02:02 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/05/09/world/philippines-election">Ferdinand Marcos Jr. Is Bound for Presidency of the Philippines</a> NYT: Early counting put Mr. Marcos, the son and namesake of the country’s former dictator, more than 15 million votes ahead of his top presidential rival in one of the country’s most consequential elections in decades. 
  <p class="updated_time"> 02:00 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/israeli-palestinian-mass-grave-tantura.html">‘Tantura’ Documentary Reopens Debate About Israel’s Foundational Story</a> NYT: Israeli soldiers had long denied killing prisoners after capturing an Arab seaside town, days after Israel’s creation. A new film provides fresh evidence — reopening a debate about Israel’s foundational story. 
  <p class="updated_time"> 01:50 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61403320?at_medium=RSS&at_campaign=KARANGA">Al Jazeera reporter killed during Israeli raid in West Bank</a> BBC: The TV channel accuses Israeli forces of shooting Shereen Abu Aqleh in Jenin - something they deny. 
- <p class="updated_time"> 01:49 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/western-economies-are-creaking-under-high-energy-prices-with-no-relief-in-sight-11652198600">Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight</a> WSJ: Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight 
  <p class="updated_time"> 01:06 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61404082?at_medium=RSS&at_campaign=KARANGA">Shanghai moves to impose tightest restrictions yet</a> BBC: For the next few days, no commercial food deliveries are allowed, and hospital access will be restricted. 
+ <p class="updated_time"> 01:05 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102">U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine</a> WSJ: U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine 
  <p class="updated_time"> 12:50 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61403510?at_medium=RSS&at_campaign=KARANGA">Sri Lanka protests: Second night of property burnings</a> BBC: A nationwide curfew remains in place after anger at the economic crisis spilled over into violence. 
- <p class="updated_time"> 12:49 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102">U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine</a> WSJ: U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine 
+ <p class="updated_time"> 12:05 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/paraguayan-organized-crime-prosecutor-shot-dead-on-beach-during-honeymoon-11652225668">Paraguayan Prosecutor Shot Dead on Beach During Honeymoon</a> WSJ: Paraguayan Prosecutor Shot Dead on Beach During Honeymoon 
  <p class="updated_time"> 12:02 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098144813/australia-says-most-great-barrier-reef-coral-studied-this-year-was-bleached">Australia says most Great Barrier Reef coral studied this year was bleached</a> NPR: Australian scientists confirm the mass bleaching, yet are hopeful the world's largest coral reef ecosystem can recover. 
- <p class="updated_time"> 11:49 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/paraguayan-organized-crime-prosecutor-shot-dead-on-beach-during-honeymoon-11652225668">Paraguayan Prosecutor Shot Dead on Beach During Honeymoon</a> WSJ: Paraguayan Prosecutor Shot Dead on Beach During Honeymoon 
+ <p class="updated_time"> 11:05 PM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/another-marcos-rises-in-the-philippines-but-how-does-he-plan-to-govern-11652170387">Another Marcos Rises in the Philippines, but How Does He Plan to Govern?</a> WSJ: Another Marcos Rises in the Philippines, but How Does He Plan to Govern? 
  <p class="updated_time"> 10:53 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/asia/china-shanghai-beijing-covid.html">As Shanghai’s Covid Cases Fall, China’s Restrictions Tighten</a> NYT: Schools are closed indefinitely in Beijing, while the last subway lines in Shanghai that were still running have ceased operation. 
- <p class="updated_time"> 10:49 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/another-marcos-rises-in-the-philippines-but-how-does-he-plan-to-govern-11652170387">Another Marcos Rises in the Philippines, but How Does He Plan to Govern?</a> WSJ: Another Marcos Rises in the Philippines, but How Does He Plan to Govern? 
  <p class="updated_time"> 10:33 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/french-military-ukraine.html">For French Military, War in Ukraine Prompts a Shift in Focus</a> NYT: While it is in Europe’s interest to weaken Moscow, the chief of staff of France’s military says, Russia may someday need to play a part in a global security plan. 
  <p class="updated_time"> 09:14 PM CT, May. 10 </p> 
@@ -115,8 +117,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/world/asia/south-korea-yoon-president.html">South Korea Inaugurates Yoon Suk-yeol as President</a> NYT: During his inaugural speech, Yoon Suk-yeol said his country would play a greater role in promoting freedom and human rights around the world. 
  <p class="updated_time"> 12:33 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1097922552/ukrainian-journalists-pulitzer-prize-citation">Ukranian journalists win a Pulitzer citation for their courage and persistence</a> NPR: At least seven journalists have been killed while covering the war in Ukraine, while many face shelling, shooting and detention on the job. They were recognized by the Pulitzer Prize Board on Monday. 
- <p class="updated_time"> 12:26 PM CT, May. 10 </p> 
- <a href="https://www.npr.org/2022/05/10/1097929509/ukraine-aid-congress-democrats-covid-19-response">House passes nearly $40 billion in aid for Ukraine and sends package to the Senate</a> NPR: The House added $7 billion to President Biden's request for military, economic and humanitarian aid before voting on Tuesday night. 
  <p class="updated_time"> 12:19 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/climate/oilfield-sales-pollution.html">Oil Giants Sell Dirty Wells to Buyers With Looser Climate Goals, Study Finds</a> NYT: The transactions can help major oil and gas companies clean up their own production by transferring polluting assets to a different firm, the analysis said. 
  <p class="updated_time"> 12:07 PM CT, May. 10 </p> 
@@ -194,6 +194,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 AM CT, May. 11 </p> 
+ <a href="https://www.npr.org/2022/05/11/1097980529/senate-to-vote-on-a-bill-that-codifies-abortion-protections-but-it-will-likely-f">Senate to vote on a bill that codifies abortion protections, but it will likely fail</a> NPR: Senators will vote on the Women's Health Protection Act on Wednesday, but it likely will fail because there isn't enough support to reach the 60 votes necessary. 
+ <p class="updated_time"> 04:01 AM CT, May. 11 </p> 
+ <a href="https://www.npr.org/2022/05/11/1097691538/bitter-feuds-and-crypto-ties-inside-one-of-the-most-expensive-democratic-primari">Bitter feuds and crypto ties: Inside one of the most expensive Democratic primaries</a> NPR: The race in the newly created district has seen party infighting, mysterious ties to cryptocurrency and a complaint to the Federal Election Commission. 
+ <p class="updated_time"> 04:00 AM CT, May. 11 </p> 
+ <a href="https://www.npr.org/2022/05/11/1097644931/solar-panels-solar-power-u-s-investigates-china-trade-rules">Solar projects are on hold as U.S. investigates whether China is skirting trade rules</a> NPR: A federal investigation of allegations that China is illegally avoiding duties on solar panels sold to U.S. companies is putting the brakes on the nation's solar power build-out. 
+ <p class="updated_time"> 04:00 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/us/politics/democrats-electability.html">In an Uphill Year, Democrats of All Stripes Worry About Electability</a> NYT: Democratic primaries in coming weeks will point to tensions within the party on how to push effectively for change, while winning elections. 
+ <p class="updated_time"> 03:30 AM CT, May. 11 </p> 
+ <a href="https://www.politico.com/news/2022/05/11/inflation-roe-dems-connect-voters-00031602">Inflation's biting. Roe's fraying. Dems are still trying to connect with voters.</a> Politico: Democrats in Congress are rolling out ways to tackle inflation. But they're struggling on another front: Talking about it with the public. 
  <p class="updated_time"> 02:30 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/russia-cyberattack-ukraine-war.html">Russia Was Behind Cyberattack in Run-Up to Ukraine War, Investigation Finds</a> NYT: The February attack rattled Pentagon officials and private industry because it revealed new vulnerabilities in global communications systems. 
  <p class="updated_time"> 12:16 AM CT, May. 11 </p> 
@@ -302,16 +312,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/10/1096741988/orthodox-christian-churches-are-drawing-in-far-right-american-converts">Orthodox Christian churches are drawing in far-right American converts</a> NPR: Orthodox Christianity is a relatively small faith tradition in the U.S., but in recent years it has expanded to new regions. Some new converts are using the religion to spread white nationalist views. 
  <p class="updated_time"> 04:20 AM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1097517636/pro-life-spiderman-abortion-climber">An anti-abortion activist scales skyscrapers to spread his message</a> NPR: Maison Des Champs has climbed massive buildings — without the safety of a rope or harness — to raise money for groups that work to convince women to not have abortions. 
- <p class="updated_time"> 04:12 AM CT, May. 10 </p> 
- <a href="https://www.npr.org/2022/05/10/1097820843/republicans-aim-to-paint-all-democrats-as-radicals-when-it-comes-to-abortion">Republicans aim to paint all Democrats as radicals when it comes to abortion</a> NPR: Republicans want to make the conversation about abortion a challenge for Democrats by accusing them of having extreme positions — even though the public largely supports keeping Roe v. Wade in place. 
- <p class="updated_time"> 04:12 AM CT, May. 10 </p> 
- <a href="https://www.npr.org/2022/05/10/1097820794/morning-news-brief">News brief: GOP abortion strategy, Nebraska primary, Sri Lanka protests </a> NPR: Republicans jockey for options to restrict abortions nationwide. Nebraska voters will decide who will be their GOP candidate for governor. The prime minister of Sri Lanka resigns after protests. 
- <p class="updated_time"> 04:01 AM CT, May. 10 </p> 
- <a href="https://www.npr.org/2022/05/10/1096821268/wisconsin-voters-with-disabilities-say-their-right-to-vote-is-at-risk">Wisconsin voters with disabilities say their right to vote is at risk</a> NPR: Many voters with disabilities rely on a loved one or caregiver to return their absentee ballot for them. Wisconsin's high court is weighing whether current state law allows for that help. 
  <p class="updated_time"> 03:30 AM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/kathy-barnette-pennsylvania-senate-gop-primary-00031262">‘Ultra-MAGA’ longshot roars into contention in key Senate race</a> Politico: Private polling conducted by both Republicans and Democrats confirms Kathy Barnette's momentum in the Senate GOP primary. 
- <p class="updated_time"> 03:29 AM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/2022/05/09/us/politics/russia-air-force-ukraine.html">Russian Guided Weapons Miss the Mark, U.S. Defense Officials Say</a> NYT: The lack of warplanes at Russia’s Victory Day parade underscores President Vladimir V. Putin’s failure to build a capable modern air force. 
  <p class="updated_time"> 02:00 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/states-tax-cuts-inflation.html">States Turn to Tax Cuts as Inflation Stays Hot</a> NYT: Tax reductions and rebates that are being proposed to help people cope could have the unintended effect of pushing prices higher. 
  <p class="updated_time"> 10:07 PM CT, May. 09 </p> 
