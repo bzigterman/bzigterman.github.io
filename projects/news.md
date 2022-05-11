@@ -9,15 +9,19 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:43 AM CT, May. 11 </p> 
+ <p class="updated_time"> 09:58 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/05/11/world/ukraine-russia-war-news">Ukraine Live Updates: E.U. Falters in Bid to Adopt Russian Oil Embargo, Showing Risks of Prolonged War</a> NYT: E.U. ambassadors broke off talks for the day in Brussels, having failed to persuade Hungary, which has emerged as a possible spoiler to European unity. In Washington, the House endorsed a $40 billion aid package for Ukraine, which awaits Senate approval. 
+ <p class="updated_time"> 09:58 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/10/world/europe/leonid-kravchuk-dead.html">Leonid Kravchuk, First President of Ukraine, Dies at 88</a> NYT: Days after his election, he signed a multinational agreement that formally declared the dissolution of the Soviet Union. 
+ <p class="updated_time"> 09:43 AM CT, May. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61413015?at_medium=RSS&at_campaign=KARANGA">Covid mask rules relaxed for EU air travel</a> BBC: Masks will no longer have to be worn on EU flights and in airports from next Monday, new guidance says. 
  <p class="updated_time"> 09:23 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/shireen-abu-akleh-al-jazeera-dead.html">Shireen Abu Akleh, Palestinian Journalist, Dies, Aged 51</a> NYT: Ms. Abu Akleh, a Palestinian American reporter who was killed in the West Bank on Wednesday, was a household name across the Middle East. 
  <p class="updated_time"> 09:13 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61403320?at_medium=RSS&at_campaign=KARANGA">Al Jazeera reporter killed during Israeli raid in West Bank</a> BBC: Israel and the TV channel trade accusations over who was to blame for shooting Shireen Abu Aqla. 
  <p class="updated_time"> 09:05 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The circumstances surrounding the fatal shooting of Shireen Abu Akleh, a Palestinian American journalist, were not immediately clear. 
- <p class="updated_time"> 08:49 AM CT, May. 11 </p> 
+ <p class="updated_time"> 09:01 AM CT, May. 11 </p> 
  <a href="https://www.wsj.com/articles/natural-gas-prices-rise-in-europe-after-ukraine-cuts-flows-11652255011">Ukraine Stops Russian Gas Flowing to Europe Through Key Pipeline</a> WSJ: Ukraine Stops Russian Gas Flowing to Europe Through Key Pipeline 
  <p class="updated_time"> 08:27 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/eu-masks-air-travel.html">E.U. Will No Longer Recommend Masks for Air Travel</a> NYT: The decision came as countries across the bloc were loosening restrictions in response to the current rates of vaccination and naturally acquired immunity. 
@@ -25,7 +29,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61387881?at_medium=RSS&at_campaign=KARANGA">The 'jockstrap' that revolutionised women's sports</a> BBC: The sports bra is honoured as a serious invention. The women behind its creation are chuffed. 
  <p class="updated_time"> 08:02 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/canada/trucker-convoy-protest-conservatives.html">Canada’s Trucker Protests Have a New Political Champion</a> NYT: Prime Minister Justin Trudeau condemned the protest as illegal. Now some of his key opponents are embracing it. 
- <p class="updated_time"> 07:49 AM CT, May. 11 </p> 
+ <p class="updated_time"> 08:01 AM CT, May. 11 </p> 
  <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107">China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer</a> WSJ: China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer 
  <p class="updated_time"> 07:40 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1096856581/how-one-of-russias-neighbors-is-dealing-with-putins-propaganda">How one of Russia's neighbors is dealing with Putin's propaganda </a> NPR: On the border with Russia, the Estonian town of Narva has strong cultural and linguistic ties with Russia. That makes it a target of Russian disinformation; something Estonians are trying to combat. 
@@ -33,22 +37,20 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61403510?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Ex-PM flees to naval base as arson attacks spread</a> BBC: Troops have orders to shoot looters on sight as an economic crisis sparks violence and arson. 
  <p class="updated_time"> 07:10 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61378196?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia pushed back in north-east - report from front line</a> BBC: Correspondent Quentin Sommerville and cameraman Darren Conway are with Ukrainian troops as they advance. 
- <p class="updated_time"> 06:49 AM CT, May. 11 </p> 
+ <p class="updated_time"> 07:01 AM CT, May. 11 </p> 
  <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine Accuses Russia of Stealing Its Grain</a> WSJ: Ukraine Accuses Russia of Stealing Its Grain 
+ <p class="updated_time"> 06:01 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/russias-war-in-ukraine-sparks-bomb-shelter-revival-in-poland-11652261400">Russia’s War in Ukraine Sparks Bomb-Shelter Revival in Poland</a> WSJ: Russia’s War in Ukraine Sparks Bomb-Shelter Revival in Poland 
  <p class="updated_time"> 05:57 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098157067/al-jazeera-shireen-abu-akleh-killed-israel">Al Jazeera's Shireen Abu Akleh is killed while reporting on an Israeli raid</a> NPR: Abu Akleh, a 51-year-old U.S. citizen, had been covering a military raid on the Jenin refugee camp "when she was shot in the face by a single bullet, despite wearing a press vest," Al Jazeera said. 
- <p class="updated_time"> 05:49 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/russias-war-in-ukraine-sparks-bomb-shelter-revival-in-poland-11652261400">Russia’s War in Ukraine Sparks Bomb-Shelter Revival in Poland</a> WSJ: Russia’s War in Ukraine Sparks Bomb-Shelter Revival in Poland 
- <p class="updated_time"> 04:49 AM CT, May. 11 </p> 
+ <p class="updated_time"> 05:01 AM CT, May. 11 </p> 
  <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City 
  <p class="updated_time"> 04:05 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/bulgaria-russia-ukraine.html">Bulgaria Takes Unusual Stand Against Russia With Sanctions</a> NYT: Bulgaria has imposed economic sanctions on Russia, offered to repair broken military equipment for Ukraine and expelled Russian diplomats. 
  <p class="updated_time"> 04:00 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1097644931/solar-panels-solar-power-u-s-investigates-china-trade-rules">Solar projects are on hold as U.S. investigates whether China is skirting trade rules</a> NPR: A federal investigation of allegations that China is illegally avoiding duties on solar panels sold to U.S. companies is putting the brakes on the nation's solar power build-out. 
  <p class="updated_time"> 04:00 AM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/world/asia/india-hindu-muslim-violence.html">India’s Dangerous New Pattern of Communal Tensions</a> NYT: As a national campaign by right-wing groups inflames local tensions, Muslim communities are facing the harshest punishments, according to activists, analysts and retired officials. 
- <p class="updated_time"> 03:45 AM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/10/world/europe/leonid-kravchuk-dead.html">Leonid Kravchuk, First President of Ukraine, Dies at 88</a> NYT: Days after his election, he had signed a multinational agreement that formally declared the dissolution of the Soviet Union. 
+ <a href="https://www.nytimes.com/2022/05/11/world/asia/india-hindu-muslim-violence.html">India’s Hindu-Muslim Tensions Reveal a Worrisome New Pattern</a> NYT: As a national campaign by right-wing groups inflames local tensions, Muslim communities are facing the harshest punishments, according to activists, analysts and retired officials. 
  <p class="updated_time"> 03:19 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098150456/shanghai-maintains-zero-covid-policy-but-the-u-n-says-it-is-not-sustainable">Shanghai maintains 'zero-COVID' policy but the U.N. says it is not sustainable</a> NPR: The leader of the World Health Organization says he doesn't think that a 'zero-COVID' strategy is sustainable, given the behavior of the virus. 
  <p class="updated_time"> 03:16 AM CT, May. 11 </p> 
@@ -73,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/world/europe/ukraine-russia-donbas.html">Ukraine War’s Geographic Reality: Russia Has Seized Much of the East</a> NYT: Despite many stumbles and setbacks, the Russian military has gained near total control of the Donbas region, giving the Kremlin huge leverage in any future talks. 
  <p class="updated_time"> 08:33 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61401184?at_medium=RSS&at_campaign=KARANGA">Ex-prison guard Vicky White and inmate Casey White 'planned shootout' if captured</a> BBC: Police said firearms were found in the vehicle the pair was driving, along with thousands in cash. 
- <p class="updated_time"> 08:25 PM CT, May. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61339182?at_medium=RSS&at_campaign=KARANGA">Sundiata Acoli: US Black Panther wins parole after half a century</a> BBC: Sundiata Acoli, 85, has been in prison for almost five decades for the 1973 murder of a policeman. 
  <p class="updated_time"> 08:05 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61403318?at_medium=RSS&at_campaign=KARANGA">Paraguayan anti-mafia prosecutor killed on Colombia honeymoon</a> BBC: Paraguayan Marcelo Pecci was on an idyllic Colombian island beach when he was shot by two gunmen. 
  <p class="updated_time"> 07:35 PM CT, May. 10 </p> 
