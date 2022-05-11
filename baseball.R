@@ -1127,22 +1127,22 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 
 ### Games Above .500
 
-<iframe src=\"/interactive/al_central_interactive.html\" width=\"100%\" height=\"500\"> 
+<iframe src=\"/interactive/al_central_interactive.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-<iframe src=\"/interactive/al_east_interactive.html\" width=\"100%\" height=\"500\"> 
+<iframe src=\"/interactive/al_east_interactive.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-<iframe src=\"/interactive/al_west_interactive.html\" width=\"100%\" height=\"500\"> 
+<iframe src=\"/interactive/al_west_interactive.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-<iframe src=\"/interactive/nl_central_interactive.html\" width=\"100%\" height=\"500\"> 
+<iframe src=\"/interactive/nl_central_interactive.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-<iframe src=\"/interactive/nl_east_interactive.html\" width=\"100%\" height=\"500\"> 
+<iframe src=\"/interactive/nl_east_interactive.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
-<iframe src=\"/interactive/nl_west_interactive.html\" width=\"100%\" height=\"500\"> 
+<iframe src=\"/interactive/nl_west_interactive.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
 ",better_division_standings_table_html,"
