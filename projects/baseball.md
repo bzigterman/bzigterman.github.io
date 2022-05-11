@@ -5,16 +5,27 @@ permalink: /projects/baseball
 imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 ---
 
-<p class="updated_time"> Latest data: 01:20 AM CT, May 11</p> 
+<p class="updated_time"> Latest data: 08:15 AM CT, May 11</p> 
 
 ### Games Above .500
 
+<iframe src="/interactive/al_central_interactive.html" width="100%" height="500"> 
+</iframe>
 
-<picture>
-  <source srcset="{{ site.baseurl }}/plots/divisions_net_wins.png"
-          media="(min-width: 750px)">
-  <img src="{{ site.baseurl }}/plots/divisions_net_wins_mobile.png" alt="" />
-</picture>
+<iframe src="/interactive/al_east_interactive.html" width="100%" height="500"> 
+</iframe>
+
+<iframe src="/interactive/al_west_interactive.html" width="100%" height="500"> 
+</iframe>
+
+<iframe src="/interactive/nl_central_interactive.html" width="100%" height="500"> 
+</iframe>
+
+<iframe src="/interactive/nl_east_interactive.html" width="100%" height="500"> 
+</iframe>
+
+<iframe src="/interactive/nl_west_interactive.html" width="100%" height="500"> 
+</iframe>
 
 <div id="division_standings_table" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   <style>@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");

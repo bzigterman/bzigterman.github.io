@@ -458,6 +458,63 @@ better_division_standings_table_html <- gsub("[\"][a-z]{10}",
 
 
 # games above 500 plots ----
+standings_interactive <- function(division) {
+  hchart(division, "line", hcaes(x = game_n,
+                                 y = net_wins,
+                                 group = team),
+         tooltip = list(
+           pointFormat = "{point.team}: {point.wins}-{point.losses}, {point.win_pct_text}%")
+  ) %>%
+    hc_colors(brewer.pal(9,"Set1")) %>%
+    hc_legend(align = "right",
+              layout = "vertical") %>%
+    hc_title(text = tail(division$division,1)) %>%
+    hc_yAxis(title = "") %>%
+    hc_xAxis(title = "",
+             max = 162) %>%
+    hc_add_theme(
+      hc_theme_bloom()
+    )%>%
+    hc_rangeSelector(enabled = TRUE,
+                     inputEnabled = FALSE,
+                     buttons = list(
+                       list(type = 'ytd', text = 'YTD')))
+}
+
+al_central_interactive <- standings_interactive(al_central)  
+saveWidget(widget = al_central_interactive, 
+           file = "interactive/al_central_interactive.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+al_east_interactive <- standings_interactive(al_east)  
+saveWidget(widget = al_east_interactive, 
+           file = "interactive/al_east_interactive.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+al_west_interactive <- standings_interactive(al_west)  
+saveWidget(widget = al_west_interactive, 
+           file = "interactive/al_west_interactive.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+nl_central_interactive <- standings_interactive(nl_central)  
+saveWidget(widget = nl_central_interactive, 
+           file = "interactive/nl_central_interactive.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+nl_east_interactive <- standings_interactive(nl_east)  
+saveWidget(widget = nl_east_interactive, 
+           file = "interactive/nl_east_interactive.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+nl_west_interactive <- standings_interactive(nl_west)  
+saveWidget(widget = nl_west_interactive, 
+           file = "interactive/nl_west_interactive.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+
+
 standings_plot <- function(division) {
   ggplot(division, aes(x = game_n,
                        y = net_wins,
@@ -1070,12 +1127,23 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 
 ### Games Above .500
 
+<iframe src=\"/interactive/al_central_interactive.html\" width=\"100%\" height=\"500\"> 
+</iframe>
 
-<picture>
-  <source srcset=\"{{ site.baseurl }}/plots/divisions_net_wins.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"{{ site.baseurl }}/plots/divisions_net_wins_mobile.png\" alt=\"\" />
-</picture>
+<iframe src=\"/interactive/al_east_interactive.html\" width=\"100%\" height=\"500\"> 
+</iframe>
+
+<iframe src=\"/interactive/al_west_interactive.html\" width=\"100%\" height=\"500\"> 
+</iframe>
+
+<iframe src=\"/interactive/nl_central_interactive.html\" width=\"100%\" height=\"500\"> 
+</iframe>
+
+<iframe src=\"/interactive/nl_east_interactive.html\" width=\"100%\" height=\"500\"> 
+</iframe>
+
+<iframe src=\"/interactive/nl_west_interactive.html\" width=\"100%\" height=\"500\"> 
+</iframe>
 
 ",better_division_standings_table_html,"
 
