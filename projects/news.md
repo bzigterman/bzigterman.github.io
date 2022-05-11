@@ -11,34 +11,36 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 11:10 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/05/10/world/ukraine-russia-war-news">Live Updates: House Approves $40 Billion in Emergency Aid for Ukraine</a> NYT: The Russian military, despite missteps, has gained near total control of the Donbas region. 
+ <p class="updated_time"> 11:00 PM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875">Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught</a> WSJ: Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught 
  <p class="updated_time"> 10:53 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/asia/china-shanghai-beijing-covid.html">As Shanghai’s Covid Cases Fall, China’s Restrictions Tighten</a> NYT: Schools are closed indefinitely in Beijing, while the last subway lines in Shanghai that were still running have ceased operation. 
  <p class="updated_time"> 10:33 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/french-military-ukraine.html">For French Military, War in Ukraine Prompts a Shift in Focus</a> NYT: While it is in Europe’s interest to weaken Moscow, the chief of staff of France’s military says, Russia may someday need to play a part in a global security plan. 
- <p class="updated_time"> 10:18 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875">Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught</a> WSJ: Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught 
- <p class="updated_time"> 09:18 PM CT, May. 10 </p> 
+ <p class="updated_time"> 10:00 PM CT, May. 10 </p> 
  <a href="https://www.wsj.com/articles/western-economies-are-creaking-under-high-energy-prices-with-no-relief-in-sight-11652198600">Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight</a> WSJ: Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight 
  <p class="updated_time"> 09:14 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/ukraine-russia-donbas.html">Ukraine War’s Geographic Reality: Russia Has Seized Much of the East</a> NYT: Despite many stumbles and setbacks, the Russian military has gained near total control of the Donbas region, giving the Kremlin huge leverage in any future talks. 
+ <p class="updated_time"> 09:00 PM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102">U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine</a> WSJ: U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine 
  <p class="updated_time"> 08:33 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61401184?at_medium=RSS&at_campaign=KARANGA">Ex-prison guard Vicky White and inmate Casey White 'planned shootout' if captured</a> BBC: Police said firearms were found in the vehicle the pair was driving, along with thousands in cash. 
  <p class="updated_time"> 08:32 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/live/2022/05/09/world/philippines-election">Ferdinand Marcos Jr. Is Bound for Presidency of the Philippines</a> NYT: Early counting put Mr. Marcos, the son and namesake of the country’s former dictator, more than 15 million votes ahead of his top presidential rival in one of the country’s most consequential elections in decades. 
  <p class="updated_time"> 08:25 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61339182?at_medium=RSS&at_campaign=KARANGA">Sundiata Acoli: US Black Panther wins parole after half a century</a> BBC: Sundiata Acoli, 85, has been in prison for almost five decades for the 1973 murder of a policeman. 
- <p class="updated_time"> 08:18 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102">U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine</a> WSJ: U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine 
  <p class="updated_time"> 08:05 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61403318?at_medium=RSS&at_campaign=KARANGA">Paraguayan anti-mafia prosecutor killed on Colombia honeymoon</a> BBC: Paraguayan Marcelo Pecci was on an idyllic Colombian island beach when he was shot by two gunmen. 
+ <p class="updated_time"> 08:00 PM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/paraguayan-organized-crime-prosecutor-shot-dead-on-beach-during-honeymoon-11652225668">Paraguayan Prosecutor Shot Dead on Beach During Honeymoon</a> WSJ: Paraguayan Prosecutor Shot Dead on Beach During Honeymoon 
  <p class="updated_time"> 07:35 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61403343?at_medium=RSS&at_campaign=KARANGA">Eurovision 2022: Emotions run high as Ukraine's Kalush Orchestra qualify for final</a> BBC: Ukrainian fans celebrated in Turin as the Kalush Orchestra cement their position as favourites to win. 
  <p class="updated_time"> 07:32 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61402984?at_medium=RSS&at_campaign=KARANGA">Canada MP regrets calling into debate from toilet</a> BBC: Opposition MPs noticed the familiar background on Liberal MP Shafqat Ali's screen. 
  <p class="updated_time"> 07:31 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61402829?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin preparing for long haul, US intelligence says</a> BBC: The US National Intelligence director warns the Russian president could turn to "more drastic means". 
- <p class="updated_time"> 07:18 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/paraguayan-organized-crime-prosecutor-shot-dead-on-beach-during-honeymoon-11652225668">Paraguayan Prosecutor Shot Dead on Beach During Honeymoon</a> WSJ: Paraguayan Prosecutor Shot Dead on Beach During Honeymoon 
+ <p class="updated_time"> 07:00 PM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/another-marcos-rises-in-the-philippines-but-how-does-he-plan-to-govern-11652170387">Another Marcos Rises in the Philippines, but How Does He Plan to Govern?</a> WSJ: Another Marcos Rises in the Philippines, but How Does He Plan to Govern? 
  <p class="updated_time"> 06:51 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/middleeast/iran-execution-ahmadreza-djalali.html">Iran Says It Will Execute Ahmadreza Djalali, Swedish-Iranian Accused of Spying</a> NYT: Ahmadreza Djalali denies he spied for Israel or helped it kill Iranian nuclear scientists. 
  <p class="updated_time"> 06:32 PM CT, May. 10 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61315877?at_medium=RSS&at_campaign=KARANGA">Grenada: Confronting my family’s slave-owning past</a> BBC: The BBC's Laura Trevelyan travels to the island of Grenada to investigate her family's slave-owning past. 
  <p class="updated_time"> 06:27 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61394416?at_medium=RSS&at_campaign=KARANGA">Archive sheds new light on Tutankhamun discovery, 100 years on</a> BBC: An exhibition in Oxford tells how Howard Carter's team excavated the pharaoh's tomb 100 years ago. 
- <p class="updated_time"> 06:18 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/another-marcos-rises-in-the-philippines-but-how-does-he-plan-to-govern-11652170387">Another Marcos Rises in the Philippines, but How Does He Plan to Govern?</a> WSJ: Another Marcos Rises in the Philippines, but How Does He Plan to Govern? 
  <p class="updated_time"> 06:07 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61402900?at_medium=RSS&at_campaign=KARANGA">James Cromwell glues hand to Starbucks counter in protest</a> BBC: Actor James Cromwell condemns a surcharge on vegan milk at the coffee chain. 
  <p class="updated_time"> 06:05 PM CT, May. 10 </p> 
@@ -169,8 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/09/world/europe/russia-victory-parade-photos.html">In Photos: Russia Celebrates Victory Day Holiday With Parade in Red Square</a> NYT: President Vladimir V. Putin used his speech on Russia’s most important secular holiday to rally support for the country’s invasion of Ukraine. 
  <p class="updated_time"> 11:35 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/europe/starmer-labour-covid-rules.html">U.K. Labour Leader Pledges to Resign if Police Find He Broke Covid Rules</a> NYT: But Keir Starmer maintained that he was within the law when he had a beer with takeout food during a campaign meeting last year. 
- <p class="updated_time"> 10:20 AM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/2022/05/08/world/europe/bomb-sniffing-dog-patron-zelensky.html">Ukrainian Bomb-Sniffing Dog Named Patron Honored by Zelensky</a> NYT: Patron has found more than 200 explosives, President Zelensky said. The dog has gone viral as Ukraine wages an information war. 
  <p class="updated_time"> 09:10 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61376503?at_medium=RSS&at_campaign=KARANGA">Red liquid thrown over Russian ambassador to Poland at WWII cemetery</a> BBC: The moment red liquid is thrown over Russia's ambassador to Poland at a WWII cemetery. 
  <p class="updated_time"> 05:59 AM CT, May. 09 </p> 
@@ -190,10 +188,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:20 PM CT, May. 10 </p> 
+ <a href="https://www.nytimes.com/2022/05/10/us/politics/jim-pillen-nebraska-trump.html">Jim Pillen Wins Nebraska’s G.O.P. Primary for Governor Over Trump-Endorsed Rival</a> NYT: Mr. Pillen, a University of Nebraska regent backed by the state’s departing governor, won a tight three-way race that included a scandal-plagued candidate endorsed by Donald Trump. 
  <p class="updated_time"> 10:48 PM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/trump-endorsed-candidates-that-won-nebraska-west-virginia-primaries-00031530">Here are the Trump-backed candidates who won the Nebraska and West Virginia primaries</a> Politico: Donald Trump played it pretty safe with his May 3 endorsements in Ohio and Indiana and won big. Last night, his picks were riskier and he took a big loss. 
- <p class="updated_time"> 10:26 PM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/2022/05/10/us/politics/jim-pillen-nebraska-trump.html">Jim Pillen Wins Nebraska’s G.O.P. Primary for Governor Over Trump-Endorsed Rival</a> NYT: Mr. Pillen, a University of Nebraska regent backed by the state’s departing governor, won a tight three-way race that included a scandal-plagued candidate endorsed by Donald Trump. 
  <p class="updated_time"> 10:22 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/business/economy/federal-reserve-inflation.html">Fed Confronts Why It May Have Acted Too Slowly on Inflation</a> NYT: Central bankers have been asking whether they should have reacted faster to rising inflation last year — and are learning from the recent past. 
  <p class="updated_time"> 10:14 PM CT, May. 10 </p> 
@@ -310,12 +308,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/09/us/politics/russia-air-force-ukraine.html">Russian Guided Weapons Miss the Mark, U.S. Defense Officials Say</a> NYT: The lack of warplanes at Russia’s Victory Day parade underscores President Vladimir V. Putin’s failure to build a capable modern air force. 
  <p class="updated_time"> 02:00 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/states-tax-cuts-inflation.html">States Turn to Tax Cuts as Inflation Stays Hot</a> NYT: Tax reductions and rebates that are being proposed to help people cope could have the unintended effect of pushing prices higher. 
+ <p class="updated_time"> 10:07 PM CT, May. 09 </p> 
+ <a href="https://www.cnn.com/2022/05/09/politics/supreme-court-justices-security-senate-vote/index.html">Senators quickly pass bill to expand security for families of Supreme Court justices</a> CNN: Members of the US Senate passed a bipartisan bill Monday that would expand security protection to the immediate family members of Supreme Court justices, following recent protests at some justices' homes. 
  <p class="updated_time"> 06:36 PM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/republicans-splinter-on-post-roe-world-00031221">Republicans splinter on how to handle a post-Roe world</a> Politico: The GOP is on different pages about a national abortion ban should the Supreme Court follow through. But pursuing one is certainly on the table. 
  <p class="updated_time"> 01:28 PM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/kyiv-ukraine-russia-war-horrors-00030992">Ukrainians unearth horrors near Kyiv, a month after Russian retreat</a> Politico: Mass graves are still being found, underscoring the scale of atrocities committed by Vladimir Putin’s forces in Ukraine. 
  <p class="updated_time"> 12:51 PM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/lina-hidalgo-texas-democrats-future-midterms-00031055">Lina Hidalgo could be Democrats’ future in Texas. She has to make it through the midterms first.</a> Politico: The Harris County judge is facing several local controversies to go with the strong GOP midterm environment. 
+ <p class="updated_time"> 11:04 AM CT, May. 09 </p> 
+ <a href="https://www.cnn.com/2022/05/09/politics/oath-keepers-january-6-election-fraud-trump/index.html">Oath Keepers sharing with January 6 investigators their efforts to find election fraud, communications with Trump allies</a> CNN: Top leaders in the Oath Keepers, the far-right extremist group, have been turning over phones and digital files and sitting for interviews with the FBI -- and detailing how they worked to benefit Donald Trump's campaign and communicated with others in the former President's orbit, according to court records and multiple sources familiar with the federal investigation. 
  <p class="updated_time"> 03:30 AM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/attorney-general-elections-candidates-abortion-00030821">Dem AGs pledge to hold the line if Roe falls</a> Politico: With the heightened possibility that abortion rights could, in a matter of weeks, be an issue left to the states, attorney general candidates across the country are reminding voters of the stakes. 
  <p class="updated_time"> 03:30 AM CT, May. 09 </p> 
