@@ -1127,6 +1127,7 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 
 ### Games Above .500
 
+<div class = \"standings\">
 <iframe src=\"/interactive/al_central_interactive.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
@@ -1144,6 +1145,7 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 
 <iframe src=\"/interactive/nl_west_interactive.html\" width=\"100%\" height=\"300\"> 
 </iframe>
+</div>
 
 ",better_division_standings_table_html,"
 
