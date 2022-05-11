@@ -766,7 +766,8 @@ data2 <- full_join(data,core) %>%
 
 fig <- hchart(data2, "line", hcaes(x = date,
                                    y = round(value*100, digits = 1),
-                                   group = series_id)) %>%
+                                   group = series_id),
+              tooltip = list(valueSuffix = "%")) %>%
   hc_title(text = "Inflation: Consumer Price Index") %>%
   hc_colors(c("#a6cee3","#1f78b4")) %>%
   hc_credits(
