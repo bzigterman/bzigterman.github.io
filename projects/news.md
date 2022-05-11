@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:31 PM CT, May. 11 </p> 
+ <p class="updated_time"> 06:40 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/05/11/world/ukraine-russia-war-news">Ukraine Live Updates: War’s Economic Toll Tests Western Unity</a> NYT: Some experts say that Putin is calculating that Western leaders will tire of the protracted struggle before he does, especially if the price is turbocharged inflation and energy shortages. 
+ <p class="updated_time"> 06:40 PM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/europe/ukraine-russia-western-solidarity.html">Economic Toll of Russia’s War in Ukraine Tests Western Solidarity</a> NYT: Russia’s president is calculating that Western leaders will tire before he does of a protracted struggle in Ukraine, especially if the price is turbocharged inflation and energy shortages. 
  <p class="updated_time"> 06:29 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61317075?at_medium=RSS&at_campaign=KARANGA">What’s threatening India's online gaming industry</a> BBC: The industry says online gaming involves skill but critics say it is gambling, which is illegal in India. 
  <p class="updated_time"> 06:18 PM CT, May. 11 </p> 
@@ -19,20 +21,20 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61354014?at_medium=RSS&at_campaign=KARANGA">Ipob: Nigerian 'media warriors' call for killings on social media over Biafra</a> BBC: The BBC investigates a network of Nigerian separatists outside the country urging violence online. 
  <p class="updated_time"> 06:07 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61412663?at_medium=RSS&at_campaign=KARANGA">The black evangelical women who'll decide who governs Brazil</a> BBC: Evangelical Christian women of colour were kingmakers in Brazil's last presidential election and look set to be so again. 
+ <p class="updated_time"> 05:52 PM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/natural-gas-prices-rise-in-europe-after-ukraine-cuts-flows-11652255011">Ukraine Reduced Russian Gas Flowing to Europe Through Key Pipeline</a> WSJ: Ukraine Reduced Russian Gas Flowing to Europe Through Key Pipeline 
  <p class="updated_time"> 05:40 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The network and Palestinian authorities blamed Israeli troops for the killing. Israel said the blame could lie with Palestinian gunmen. 
- <p class="updated_time"> 05:39 PM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/natural-gas-prices-rise-in-europe-after-ukraine-cuts-flows-11652255011">Ukraine Reduced Russian Gas Flowing to Europe Through Key Pipeline</a> WSJ: Ukraine Reduced Russian Gas Flowing to Europe Through Key Pipeline 
  <p class="updated_time"> 05:30 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61415679?at_medium=RSS&at_campaign=KARANGA">Passersby in Florida rush to stop moving car with ill driver</a> BBC: The car is seen drifting towards traffic before strangers intervened on a busy road in Florida. 
  <p class="updated_time"> 05:29 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61412373?at_medium=RSS&at_campaign=KARANGA">Democrats bid for federal abortion law fails in the Senate</a> BBC: A bill to make the right to abortion a national law was expected to fail, but could have political weight. 
  <p class="updated_time"> 05:16 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/russia-war-crimes-trial-ukraine.html">Ukraine Launches First War Crimes Trial for Russian Soldier</a> NYT: A 21-year-old Russian soldier is accused of following orders to shoot an unarmed cyclist four days into Russia’s invasion of Ukraine. 
+ <p class="updated_time"> 04:52 PM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107">China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer</a> WSJ: China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer 
  <p class="updated_time"> 04:39 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61403320?at_medium=RSS&at_campaign=KARANGA">Al Jazeera reporter killed during Israeli raid in West Bank</a> BBC: Israel and the TV channel trade accusations over who was to blame for shooting Shireen Abu Aqla. 
- <p class="updated_time"> 04:39 PM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107">China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer</a> WSJ: China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer 
  <p class="updated_time"> 04:28 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61415378?at_medium=RSS&at_campaign=KARANGA">North Carolina: The moment a beach house collapsed into the sea</a> BBC: The stilts holding up the house gave way after being struck by high winds and strong tides. 
  <p class="updated_time"> 04:19 PM CT, May. 11 </p> 
@@ -43,18 +45,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/world/europe/leonid-kravchuk-dead.html">Leonid Kravchuk, First President of Ukraine, Dies at 88</a> NYT: Days after his election, he signed a multinational agreement that formally declared the dissolution of the Soviet Union. 
  <p class="updated_time"> 04:12 PM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098368229/a-look-at-hong-kongs-new-leader-john-lee-and-his-history-with-the-territory">A look at Hong Kong's new leader, John Lee — and his history with the territory</a> NPR: Hong Kong's new leader, John Lee, rose through the law enforcement ranks to become the territory's No. 2 under outgoing Chief Executive Carrie Lam. He faces governing a divided and mistrustful city. 
- <p class="updated_time"> 04:12 PM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/world/europe/ukraine-russia-western-solidarity.html">Economic Toll of Russia’s War in Ukraine Tests Western Solidarity</a> NYT: Russia’s president is calculating that Western leaders will tire before he does of a protracted struggle in Ukraine, especially if the price is turbocharged inflation and energy shortages. 
  <p class="updated_time"> 03:57 PM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098305702/russia-ukraine-war-what-happened-today-may-11">Russia-Ukraine war: What happened today (May 11)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:52 PM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-censors-who-chiefs-call-to-end-unsustainable-covid-19-strategy-11652270048">China Censors WHO’s Call to End Covid-19 Strategy Dubbed Unsustainable</a> WSJ: China Censors WHO’s Call to End Covid-19 Strategy Dubbed Unsustainable 
  <p class="updated_time"> 03:50 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html">Ukrainians Fight Russian Troops Up Close Along the Eastern Front</a> NYT: In some villages along the front, Ukrainian and Russian soldiers face off at close quarters, sometimes within eyesight of one another. 
  <p class="updated_time"> 03:45 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/covid-fears-us.html">Only a Third of Americans Were Worried About Covid in April, Poll Finds</a> NYT: The survey, from Gallup, was conducted between April 15 and April 23, at a time when new cases were increasing after plummeting from highs seen during the winter Omicron surge. 
  <p class="updated_time"> 03:40 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/putin-russia-corruption.html">To Keep Putin and His Oligarchs Afloat, It Takes a System</a> NYT: Out of a halting attempt at democratization grew a corrupt ecosystem that has proved very difficult for the Russian elite to resist. 
- <p class="updated_time"> 03:39 PM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-national-security-police-arrest-outspoken-cardinal-11652280366">Hong Kong National Security Police Arrest Outspoken Cardinal</a> WSJ: Hong Kong National Security Police Arrest Outspoken Cardinal 
  <p class="updated_time"> 03:36 PM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098368201/a-spying-scandal-and-the-fate-of-western-sahara">A spying scandal and the fate of Western Sahara</a> NPR: Diplomatic relations between Spain and Morocco are tense after it was revealed that the phone of Spanish Prime Minister Pedro Sanchez had been hacked with the spyware Pegasus. 
  <p class="updated_time"> 03:34 PM CT, May. 11 </p> 
@@ -63,7 +63,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/11/1098368173/muslim-girls-in-india-are-missing-out-on-education-as-they-fight-classroom-hijab">Muslim girls in India are missing out on education as they fight classroom hijab ban</a> NPR: When her high school banned the hijab, Ayesha Shifa sued — and her case went to India's Supreme Court. A verdict, expected soon, may redefine what secularism means in the world's largest democracy. 
  <p class="updated_time"> 03:27 PM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098368159/al-jazeera-journalist-shireen-abu-akleh-was-shot-and-killed-in-west-bank">Al Jazeera journalist Shireen Abu Akleh was shot and killed in West Bank</a> NPR: A prominent Palestinian-American journalist was killed in the West Bank and her network blames Israeli forces. Israel says it's possible Palestinian gunmen shot her, but says it will investigate. 
- <p class="updated_time"> 02:39 PM CT, May. 11 </p> 
+ <p class="updated_time"> 02:52 PM CT, May. 11 </p> 
  <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine to Try Russian Soldier for War Crimes</a> WSJ: Ukraine to Try Russian Soldier for War Crimes 
  <p class="updated_time"> 02:19 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/asia/india-sedition-law-suspended.html">India’s Top Court Suspends Colonial-Era Sedition Law</a> NYT: The law has been used to quash dissent and is not in tune with the times, the court said. Its action does not overturn the law, though, only Parliament can do that. 
@@ -71,10 +71,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-61416320?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Don’t underestimate Russia cyber-threat, warns US</a> BBC: A senior intelligence official says a cyber-war raging over Ukraine could escalate further. 
  <p class="updated_time"> 02:12 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/australia/new-zealand-border-reopen.html">New Zealand Border Will Fully Reopen at the End of July</a> NYT: The move comes two months ahead of schedule, in an attempt to speed up economic recovery. 
+ <p class="updated_time"> 01:52 PM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City 
  <p class="updated_time"> 01:40 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/climate/air-pollution-hurricanes.html">Air Pollution Can Mean More, or Fewer, Hurricanes. It Depends Where You Live.</a> NYT: Smog from factories and cars has led to more storms in the Atlantic Ocean, but fewer in the Pacific. A new study explains why. 
- <p class="updated_time"> 01:39 PM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City 
  <p class="updated_time"> 01:38 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/shireen-abu-akleh-al-jazeera-dead.html">Shireen Abu Akleh, Palestinian Journalist, Dies, Aged 51</a> NYT: Ms. Abu Akleh, 51, a Palestinian American reporter who was killed in the West Bank on Wednesday, was a household name across the Middle East. 
  <p class="updated_time"> 01:03 PM CT, May. 11 </p> 
@@ -113,6 +113,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61411474?at_medium=RSS&at_campaign=KARANGA">US price rises ease for the first time in months</a> BBC: The prices of clothing and used cars fell, but inflation remains at a 40-year high. 
  <p class="updated_time"> 08:27 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/eu-masks-air-travel.html">E.U. Will No Longer Recommend Masks for Air Travel</a> NYT: The decision came as countries across the bloc were loosening restrictions in response to the current rates of vaccination and naturally acquired immunity. 
+ <p class="updated_time"> 08:08 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-national-security-police-arrest-outspoken-cardinal-11652280366">Hong Kong National Security Police Arrest Outspoken Cardinal</a> WSJ: Retired Cardinal Joseph Zen, age 90 and now bishop emeritus of Hong Kong, was arrested in a swoop on prominent prodemocracy figures, also including pop singer Denise Ho and a former lawmaker, Margaret Ng. 
  <p class="updated_time"> 07:40 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1096856581/how-one-of-russias-neighbors-is-dealing-with-putins-propaganda">How one of Russia's neighbors is dealing with Putin's propaganda </a> NPR: On the border with Russia, the Estonian town of Narva has strong cultural and linguistic ties with Russia. That makes it a target of Russian disinformation; something Estonians are trying to combat. 
  <p class="updated_time"> 05:57 AM CT, May. 11 </p> 
@@ -123,8 +125,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/11/1098150456/shanghai-maintains-zero-covid-policy-but-the-u-n-says-it-is-not-sustainable">Shanghai maintains 'zero-COVID' policy but the U.N. says it is not sustainable</a> NPR: The leader of the World Health Organization says he doesn't think that a 'zero-COVID' strategy is sustainable, given the behavior of the virus. 
  <p class="updated_time"> 03:16 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61404053?at_medium=RSS&at_campaign=KARANGA">Sedition law: India's Supreme Court puts controversial law on hold</a> BBC: The Supreme Court pauses a colonial-era sedition law that critics say is used to stifle dissent. 
- <p class="updated_time"> 02:54 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/china-censors-who-chiefs-call-to-end-unsustainable-covid-19-strategy-11652270048">China Censors WHO's Call to End Covid-19 Strategy Dubbed Unsustainable</a> WSJ: Beijing’s move to muffle criticism by the global health body’s top officials shows Xi Jinping’s zero-tolerance for public debate. 
  <p class="updated_time"> 02:37 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-61399483?at_medium=RSS&at_campaign=KARANGA">Elon Musk would reverse Donald Trump's Twitter ban</a> BBC: He says Twitter's decision to ban the former US president was "morally wrong and flat-out stupid". 
  <p class="updated_time"> 02:30 AM CT, May. 11 </p> 
