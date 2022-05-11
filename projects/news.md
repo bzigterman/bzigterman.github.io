@@ -9,41 +9,51 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:58 AM CT, May. 11 </p> 
+ <p class="updated_time"> 10:46 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/middleeast/shireen-abu-akleh-al-jazeera-dead.html">Shireen Abu Akleh, Palestinian Journalist, Dies, Aged 51</a> NYT: Ms. Abu Akleh, a Palestinian American reporter who was killed in the West Bank on Wednesday, was a household name across the Middle East. 
+ <p class="updated_time"> 10:44 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The network and Palestinian authorities blamed Israeli troops for the killing. Israel said the blame could lie with Palestinian gunmen. 
+ <p class="updated_time"> 10:43 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/05/11/world/ukraine-russia-war-news">Ukraine Live Updates: E.U. Falters in Bid to Adopt Russian Oil Embargo, Showing Risks of Prolonged War</a> NYT: E.U. ambassadors broke off talks for the day in Brussels, having failed to persuade Hungary, which has emerged as a possible spoiler to European unity. In Washington, the House endorsed a $40 billion aid package for Ukraine, which awaits Senate approval. 
+ <p class="updated_time"> 10:38 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/asia/hong-kong-arrests-national-security.html">Hong Kong Police Arrest Former Bishop in National Security Case</a> NYT: Cardinal Joseph Zen, 90, was among three held for their work with a legal aid group that helped protesters and that officials accuse of colluding with foreign powers. 
+ <p class="updated_time"> 10:33 AM CT, May. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61403510?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Ex-PM flees to naval base as arson attacks spread</a> BBC: Troops have orders to shoot looters on sight as an economic crisis sparks violence and arson. 
+ <p class="updated_time"> 10:25 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/europe/ukraine-war-jobs.html">Nearly One-Third of Ukraine’s Jobs Are Lost Amid War, U.N. Labor Agency Says</a> NYT: The report highlights the grim economic toll of Russia’s aggression and the challenges that lie ahead for Ukraine and other nations. 
+ <p class="updated_time"> 10:20 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/europe/jewish-passengers-flight-ban-lufthansa.html">Lufthansa Apologizes After Jewish People Were Barred From Flight</a> NYT: Passengers said that after landing in Germany, more than 100 Jewish people were blocked from boarding a connecting flight to Hungary. 
+ <p class="updated_time"> 10:11 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/europe/putin-russia-corruption.html">To Keep Putin and His Oligarchs Afloat, It Takes a System</a> NYT: Out of a halting attempt at democratization grew a corrupt ecosystem that has proved very difficult for the Russian elite to resist. 
+ <p class="updated_time"> 10:07 AM CT, May. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61403320?at_medium=RSS&at_campaign=KARANGA">Al Jazeera reporter killed during Israeli raid in West Bank</a> BBC: Israel and the TV channel trade accusations over who was to blame for shooting Shireen Abu Aqla. 
+ <p class="updated_time"> 10:03 AM CT, May. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61406808?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Snake Island and battle for control in Black Sea</a> BBC: This rocky outcrop has been fiercely contested for weeks and has vital strategic importance. 
+ <p class="updated_time"> 10:01 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/canada/trucker-convoy-protest-conservatives.html">Canada’s Trucker Protests Have a New Political Champion</a> NYT: Prime Minister Justin Trudeau condemned the protest as illegal. Now some of his key opponents are embracing it. 
  <p class="updated_time"> 09:58 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/leonid-kravchuk-dead.html">Leonid Kravchuk, First President of Ukraine, Dies at 88</a> NYT: Days after his election, he signed a multinational agreement that formally declared the dissolution of the Soviet Union. 
+ <p class="updated_time"> 09:50 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/natural-gas-prices-rise-in-europe-after-ukraine-cuts-flows-11652255011">Ukraine Stops Russian Gas Flowing to Europe Through Key Pipeline</a> WSJ: Ukraine Stops Russian Gas Flowing to Europe Through Key Pipeline 
+ <p class="updated_time"> 09:47 AM CT, May. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61411474?at_medium=RSS&at_campaign=KARANGA">US price rises ease for the first time in months</a> BBC: The prices of clothing and used cars fell, but inflation remains at a 40-year high. 
  <p class="updated_time"> 09:43 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61413015?at_medium=RSS&at_campaign=KARANGA">Covid mask rules relaxed for EU air travel</a> BBC: Masks will no longer have to be worn on EU flights and in airports from next Monday, new guidance says. 
- <p class="updated_time"> 09:23 AM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/world/middleeast/shireen-abu-akleh-al-jazeera-dead.html">Shireen Abu Akleh, Palestinian Journalist, Dies, Aged 51</a> NYT: Ms. Abu Akleh, a Palestinian American reporter who was killed in the West Bank on Wednesday, was a household name across the Middle East. 
- <p class="updated_time"> 09:13 AM CT, May. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61403320?at_medium=RSS&at_campaign=KARANGA">Al Jazeera reporter killed during Israeli raid in West Bank</a> BBC: Israel and the TV channel trade accusations over who was to blame for shooting Shireen Abu Aqla. 
- <p class="updated_time"> 09:05 AM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The circumstances surrounding the fatal shooting of Shireen Abu Akleh, a Palestinian American journalist, were not immediately clear. 
- <p class="updated_time"> 09:01 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/natural-gas-prices-rise-in-europe-after-ukraine-cuts-flows-11652255011">Ukraine Stops Russian Gas Flowing to Europe Through Key Pipeline</a> WSJ: Ukraine Stops Russian Gas Flowing to Europe Through Key Pipeline 
+ <p class="updated_time"> 08:50 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107">China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer</a> WSJ: China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer 
  <p class="updated_time"> 08:27 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/eu-masks-air-travel.html">E.U. Will No Longer Recommend Masks for Air Travel</a> NYT: The decision came as countries across the bloc were loosening restrictions in response to the current rates of vaccination and naturally acquired immunity. 
  <p class="updated_time"> 08:11 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61387881?at_medium=RSS&at_campaign=KARANGA">The 'jockstrap' that revolutionised women's sports</a> BBC: The sports bra is honoured as a serious invention. The women behind its creation are chuffed. 
- <p class="updated_time"> 08:02 AM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/world/canada/trucker-convoy-protest-conservatives.html">Canada’s Trucker Protests Have a New Political Champion</a> NYT: Prime Minister Justin Trudeau condemned the protest as illegal. Now some of his key opponents are embracing it. 
- <p class="updated_time"> 08:01 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107">China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer</a> WSJ: China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer 
+ <p class="updated_time"> 07:50 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine Accuses Russia of Stealing Its Grain</a> WSJ: Ukraine Accuses Russia of Stealing Its Grain 
  <p class="updated_time"> 07:40 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1096856581/how-one-of-russias-neighbors-is-dealing-with-putins-propaganda">How one of Russia's neighbors is dealing with Putin's propaganda </a> NPR: On the border with Russia, the Estonian town of Narva has strong cultural and linguistic ties with Russia. That makes it a target of Russian disinformation; something Estonians are trying to combat. 
- <p class="updated_time"> 07:21 AM CT, May. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61403510?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Ex-PM flees to naval base as arson attacks spread</a> BBC: Troops have orders to shoot looters on sight as an economic crisis sparks violence and arson. 
- <p class="updated_time"> 07:10 AM CT, May. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61378196?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia pushed back in north-east - report from front line</a> BBC: Correspondent Quentin Sommerville and cameraman Darren Conway are with Ukrainian troops as they advance. 
- <p class="updated_time"> 07:01 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine Accuses Russia of Stealing Its Grain</a> WSJ: Ukraine Accuses Russia of Stealing Its Grain 
- <p class="updated_time"> 06:01 AM CT, May. 11 </p> 
+ <p class="updated_time"> 06:50 AM CT, May. 11 </p> 
  <a href="https://www.wsj.com/articles/russias-war-in-ukraine-sparks-bomb-shelter-revival-in-poland-11652261400">Russia’s War in Ukraine Sparks Bomb-Shelter Revival in Poland</a> WSJ: Russia’s War in Ukraine Sparks Bomb-Shelter Revival in Poland 
  <p class="updated_time"> 05:57 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098157067/al-jazeera-shireen-abu-akleh-killed-israel">Al Jazeera's Shireen Abu Akleh is killed while reporting on an Israeli raid</a> NPR: Abu Akleh, a 51-year-old U.S. citizen, had been covering a military raid on the Jenin refugee camp "when she was shot in the face by a single bullet, despite wearing a press vest," Al Jazeera said. 
- <p class="updated_time"> 05:01 AM CT, May. 11 </p> 
+ <p class="updated_time"> 05:50 AM CT, May. 11 </p> 
  <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City 
  <p class="updated_time"> 04:05 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/bulgaria-russia-ukraine.html">Bulgaria Takes Unusual Stand Against Russia With Sanctions</a> NYT: Bulgaria has imposed economic sanctions on Russia, offered to repair broken military equipment for Ukraine and expelled Russian diplomats. 
@@ -73,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/china-inflation-accelerates-modestly-11652251867">China Consumer Inflation Accelerates Modestly</a> WSJ: China’s consumer inflation edged up in April and factory-gate price pressures remained elevated as Covid-19 lockdowns jammed up logistics networks and the Ukraine war pushed up global energy prices 
  <p class="updated_time"> 09:14 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/ukraine-russia-donbas.html">Ukraine War’s Geographic Reality: Russia Has Seized Much of the East</a> NYT: Despite many stumbles and setbacks, the Russian military has gained near total control of the Donbas region, giving the Kremlin huge leverage in any future talks. 
- <p class="updated_time"> 08:33 PM CT, May. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61401184?at_medium=RSS&at_campaign=KARANGA">Ex-prison guard Vicky White and inmate Casey White 'planned shootout' if captured</a> BBC: Police said firearms were found in the vehicle the pair was driving, along with thousands in cash. 
  <p class="updated_time"> 08:05 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61403318?at_medium=RSS&at_campaign=KARANGA">Paraguayan anti-mafia prosecutor killed on Colombia honeymoon</a> BBC: Paraguayan Marcelo Pecci was on an idyllic Colombian island beach when he was shot by two gunmen. 
  <p class="updated_time"> 07:35 PM CT, May. 10 </p> 
@@ -151,8 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/shanghais-lockdown-leaves-thousands-sleeping-in-its-streets-11652193941">Shanghai's Lockdown Leaves Thousands Sleeping in Its Streets</a> WSJ: Many of the city’s newly homeless are food-delivery workers facing a difficult choice: locked in without income or locked out with a job. 
  <p class="updated_time"> 03:39 AM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61392134?at_medium=RSS&at_campaign=KARANGA">Pakistan: Bridge crumbles after heatwave triggers floods</a> BBC: Hassanabad Bridge is destroyed after a glacial lake releases a torrent of water during a heatwave. 
- <p class="updated_time"> 10:15 PM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/2022/05/09/world/asia/mahinda-rajapaksa-resigns-sri-lanka.html">Sri Lanka’s Prime Minister Mahinda Rajapaksa Resigns in Face of Unrest</a> NYT: The move by Mahinda Rajapaksa came after his supporters instigated violent clashes in Colombo, the capital. It wasn’t immediately clear whether his resignation would satisfy opponents. 
  <p class="updated_time"> 08:54 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/europe/putin-speech-victory-day-ukraine-war.html">In Victory Day Speech, Putin Told Russians What He Wanted Them to Hear</a> NYT: The Russian president, in a much-anticipated speech on his country’s most important holiday, did not proclaim an escalation of the fight in Ukraine. 
  <p class="updated_time"> 06:49 PM CT, May. 09 </p> 
@@ -175,12 +181,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/09/world/europe/russia-victory-parade-photos.html">In Photos: Russia Celebrates Victory Day Holiday With Parade in Red Square</a> NYT: President Vladimir V. Putin used his speech on Russia’s most important secular holiday to rally support for the country’s invasion of Ukraine. 
  <p class="updated_time"> 11:35 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/europe/starmer-labour-covid-rules.html">U.K. Labour Leader Pledges to Resign if Police Find He Broke Covid Rules</a> NYT: But Keir Starmer maintained that he was within the law when he had a beer with takeout food during a campaign meeting last year. 
- <p class="updated_time"> 09:10 AM CT, May. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61376503?at_medium=RSS&at_campaign=KARANGA">Red liquid thrown over Russian ambassador to Poland at WWII cemetery</a> BBC: The moment red liquid is thrown over Russia's ambassador to Poland at a WWII cemetery. 
- <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/2022/05/09/world/europe/bullying-children-russia-war-europe.html">In Europe’s Schoolyards, Putin’s War Hurts Russian-Speaking Children</a> NYT: Across the continent, pupils face bullying, harassment and humiliation over the invasion of Ukraine, another perverse effect of a war that is overwhelmingly affecting the innocent. 
- <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/2022/05/09/travel/oman-road-trip.html">A Woman Alone in Oman: Three Weeks Along the Arabian Coast</a> NYT: In December, a photographer set off on a 2,600-mile road trip, traveling from the Yemeni border to the Strait of Hormuz. Here’s what she saw. 
 
 
 </details>
@@ -188,12 +188,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:25 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/us/politics/overdose-deaths-fentanyl-meth.html">Overdose Deaths Continue Rising, With Fentanyl and Meth Key Culprits</a> NYT: New data show a surge in overdose deaths involving fentanyl and methamphetamine; overall, the nation saw a 15 percent increase in deaths from overdoses in 2021. 
+ <p class="updated_time"> 10:21 AM CT, May. 11 </p> 
+ <a href="https://www.politico.com/news/2022/05/11/drug-overdose-deaths-2021-record-00031709">U.S. drug overdose deaths surpass 107,000 last year, another record</a> Politico: More than 1 million Americans have died from drug overdoses since 2001. 
+ <p class="updated_time"> 10:00 AM CT, May. 11 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:44 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/politics/takeaways-nebraska-west-virginia-primary.html">4 Takeaways From Tuesday’s Primaries in Nebraska and West Virginia</a> NYT: It was a mixed night for Trump-endorsed candidates, with fresh evidence of an urban-rural divide within the G.O.P. 
  <p class="updated_time"> 09:35 AM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/dems-doj-bernhardt-probe-00031396">House Democrats press DOJ to probe Trump Interior secretary for permit reversal</a> Politico: Lawmakers allege that David Bernhardt pressured career staff at the Fish and Wildlife Service to reverse their denial of a water permit requested by a Trump donor. 
- <p class="updated_time"> 09:27 AM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/us/politics/overdose-deaths-fentanyl-meth.html">Overdose Deaths Continue Rising, With Fentanyl and Meth Key Culprits</a> NYT: New data show a surge in overdose deaths involving fentanyl and methamphetamine; overall, the nation saw a 15 percent increase in deaths from overdoses in 2021. 
  <p class="updated_time"> 08:31 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1097666334/roe-birth-control">What would overturning Roe mean for birth control?</a> NPR: Overturning Roe v. Wade could threaten birth control and other care, experts say. 
  <p class="updated_time"> 08:01 AM CT, May. 11 </p> 
@@ -231,9 +235,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/blue-states-abortion-safe-havens-00031526">Blue states want to become abortion safe havens. It will cost them.</a> Politico: Groups that operate clinics and run abortion access funds warn that they’ll need more money, more providers and more space to help care for the influx of people who will cross state lines to seek abortions. 
  <p class="updated_time"> 03:30 AM CT, May. 11 </p> 
- <a href="https://www.politico.com/news/2022/05/11/inflation-roe-dems-connect-voters-00031602">Inflation’s biting. Roe’s fraying. Dems are still trying to connect with voters.</a> Politico: Democrats in Congress are rolling out ways to tackle inflation. But they’re struggling on another front: Talking about it with the public. 
- <p class="updated_time"> 03:30 AM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/1-million-covid-deaths-00031142">What if Delaware disappeared? 1 million Covid-19 deaths explained in 4 charts.</a> Politico: Imagine an entire state falling off the map. 
+ <p class="updated_time"> 03:30 AM CT, May. 11 </p> 
+ <a href="https://www.politico.com/news/2022/05/11/inflation-roe-dems-connect-voters-00031602">Inflation’s biting. Roe’s fraying. Dems are still trying to connect with voters.</a> Politico: Democrats in Congress are rolling out ways to tackle inflation. But they’re struggling on another front: Talking about it with the public. 
  <p class="updated_time"> 03:30 AM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/new-york-redistricting-bath-00031096">The town that will decide New York redistricting for the next decade</a> Politico: In Bath, N.Y., Steuben County Acting Supreme Court Justice Patrick McAllister will determine the state’s district lines. 
  <p class="updated_time"> 02:30 AM CT, May. 11 </p> 
@@ -252,8 +256,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/us/politics/congress-ukraine-aid-questions.html">House Passes $40 Billion More in Ukraine Aid, With Few Questions Asked</a> NYT: As lawmakers have embraced more than $50 billion to Kyiv within two months, they have largely refrained from raising concerns or questioning the Biden administration’s strategy. 
  <p class="updated_time"> 09:26 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/mooney-trump-west-virginia.html">Alex Mooney Rides Trump Endorsement to West Virginia House Primary Win</a> NYT: A Trump endorsement swung a primary between two Republican congressmen in West Virginia. 
- <p class="updated_time"> 08:57 PM CT, May. 10 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:57 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/haitian-mawozo-gang-kidnapping-charges.html">Haitian Gang Leader Is Charged With Abducting American Missionaries</a> NYT: Prosecutors said Joly Germine directed the kidnapping operations of the 400 Mawozo gang, including the negotiations for the release of volunteers with Christian Aid Ministries. 
  <p class="updated_time"> 07:55 PM CT, May. 10 </p> 
@@ -296,8 +298,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/10/1098014759/biden-criticizes-ultra-maga-republicans-as-inflation-rises">Biden criticizes 'ultra-MAGA' Republicans as inflation rises</a> NPR: Ahead of the midterm elections, President Biden is using Donald Trump's "Make America Great Again" as a label to paint the GOP as extreme on issues including the economy and abortion rights. 
  <p class="updated_time"> 03:28 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1098014655/macron-won-frances-presidency-but-the-votes-indicate-an-increasingly-divided-nat">Macron won France's presidency, but the votes indicate an increasingly divided nation</a> NPR: President Emmanuel Macron was elected to a second term at the end of April and sworn in over the weekend. But his right-wing rival Marine Le Pen did better than last time, implying a divided France. 
- <p class="updated_time"> 02:25 PM CT, May. 10 </p> 
- <a href="https://www.politico.com/news/2022/05/10/canada-eyeing-bold-and-aggressive-military-options-to-defend-continent-00031349">Canada taking ‘comprehensive look’ at joining U.S. ballistic missile defense</a> Politico: Anita Anand: “We are leaving no stone unturned in this major review of continental defense.” 
  <p class="updated_time"> 02:11 PM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/biden-firm-starbucks-union-outcry-00031484">Top Biden-connected firm splits with Starbucks amid union outcry</a> Politico: The firm, SKDK, said it was not working on labor specific issues for the coffee giant. Its relationship ended last month. 
  <p class="updated_time"> 02:03 PM CT, May. 10 </p> 
@@ -324,8 +324,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/09/attorney-general-elections-candidates-abortion-00030821">Dem AGs pledge to hold the line if Roe falls</a> Politico: With the heightened possibility that abortion rights could, in a matter of weeks, be an issue left to the states, attorney general candidates across the country are reminding voters of the stakes. 
  <p class="updated_time"> 03:30 AM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/jan-6-panel-donald-trump-allies-00030781">How the Jan. 6 panel broke through Trump allies’ stonewalling</a> Politico: High-level aides to the former president aren’t the only ones who can detail his network’s movements leading up to and during the Capitol attack. 
- <p class="updated_time"> 10:31 AM CT, May. 08 </p> 
- <a href="https://www.politico.com/news/2022/05/08/murphy-baier-florida-dont-say-gay-00030902">Dem senator spars with Fox News host over Florida law</a> Politico: Chris Murphy said he perceives a nasty turn in the Republican Party. 
 
 
 </details>
