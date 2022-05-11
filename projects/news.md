@@ -13,42 +13,42 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61403510?at_medium=RSS&at_campaign=KARANGA">Sri Lanka protests: Leaders under pressure as anger at economic crisis boils over</a> BBC: Troops have orders to shoot looters on sight as an economic crisis sparks violence and arson. 
  <p class="updated_time"> 06:14 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/05/11/world/ukraine-russia-war-news">Ukraine Live Updates: E.U. Falters in Bid to Adopt Russian Oil Embargo, Showing Risks of Prolonged War</a> NYT: E.U. ambassadors broke off talks for the day in Brussels, having failed to persuade Hungary, which has emerged as a possible spoiler to European unity. In Washington, the House endorsed a $40 billion aid package for Ukraine, which awaits Senate approval. 
+ <p class="updated_time"> 06:01 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine Accuses Russia of Stealing Its Grain</a> WSJ: Ukraine Accuses Russia of Stealing Its Grain 
  <p class="updated_time"> 05:57 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098157067/al-jazeera-shireen-abu-akleh-killed-israel">Al Jazeera's Shireen Abu Akleh is killed while reporting on an Israeli raid</a> NPR: Abu Akleh, a 51-year-old U.S. citizen, had been covering a military raid on the Jenin refugee camp "when she was shot in the face by a single bullet, despite wearing a press vest," Al Jazeera said. 
  <p class="updated_time"> 05:55 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The circumstances surrounding the fatal shooting of Shireen Abu Akleh, a Palestinian American journalist, were not immediately clear. 
- <p class="updated_time"> 05:49 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine Accuses Russia of Stealing Its Grain</a> WSJ: Ukraine Accuses Russia of Stealing Its Grain 
  <p class="updated_time"> 05:13 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61403320?at_medium=RSS&at_campaign=KARANGA">Al Jazeera reporter killed during Israeli raid in West Bank</a> BBC: Israel and the TV channel trade accusations over who was to blame for shooting Sherine Abu Aqla. 
  <p class="updated_time"> 05:09 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61387881?at_medium=RSS&at_campaign=KARANGA">The 'jockstrap' that revolutionised women's sports</a> BBC: The sports bra is honoured as a serious invention. The women behind its creation are chuffed. 
- <p class="updated_time"> 04:49 AM CT, May. 11 </p> 
+ <p class="updated_time"> 05:01 AM CT, May. 11 </p> 
  <a href="https://www.wsj.com/articles/russias-war-in-ukraine-sparks-bomb-shelter-revival-in-poland-11652261400">Russia’s War in Ukraine Sparks Bomb-Shelter Revival in Poland</a> WSJ: Russia’s War in Ukraine Sparks Bomb-Shelter Revival in Poland 
  <p class="updated_time"> 04:05 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/bulgaria-russia-ukraine.html">Bulgaria Takes Unusual Stand Against Russia With Sanctions</a> NYT: Bulgaria has imposed economic sanctions on Russia, offered to repair broken military equipment for Ukraine and expelled Russian diplomats. 
+ <p class="updated_time"> 04:01 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/biden-administration-asks-congress-to-approve-new-weapons-deal-with-turkey-11652262674">Biden Administration Asks Congress to Approve New Weapons Deal With Turkey</a> WSJ: Biden Administration Asks Congress to Approve New Weapons Deal With Turkey 
  <p class="updated_time"> 04:00 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1097644931/solar-panels-solar-power-u-s-investigates-china-trade-rules">Solar projects are on hold as U.S. investigates whether China is skirting trade rules</a> NPR: A federal investigation of allegations that China is illegally avoiding duties on solar panels sold to U.S. companies is putting the brakes on the nation's solar power build-out. 
  <p class="updated_time"> 04:00 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/asia/india-hindu-muslim-violence.html">India’s Dangerous New Pattern of Communal Tensions</a> NYT: As a national campaign by right-wing groups inflames local tensions, Muslim communities are facing the harshest punishments, according to activists, analysts and retired officials. 
- <p class="updated_time"> 03:49 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/biden-administration-asks-congress-to-approve-new-weapons-deal-with-turkey-11652262674">Biden Administration Asks Congress to Approve New Weapons Deal With Turkey</a> WSJ: Biden Administration Asks Congress to Approve New Weapons Deal With Turkey 
  <p class="updated_time"> 03:45 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/leonid-kravchuk-dead.html">Leonid Kravchuk, First President of Ukraine, Dies at 88</a> NYT: Days after his election, he had signed a multinational agreement that formally declared the dissolution of the Soviet Union. 
  <p class="updated_time"> 03:19 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098150456/shanghai-maintains-zero-covid-policy-but-the-u-n-says-it-is-not-sustainable">Shanghai maintains 'zero-COVID' policy but the U.N. says it is not sustainable</a> NPR: The leader of the World Health Organization says he doesn't think that a 'zero-COVID' strategy is sustainable, given the behavior of the virus. 
  <p class="updated_time"> 03:16 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61404053?at_medium=RSS&at_campaign=KARANGA">Sedition law: India's Supreme Court puts controversial law on hold</a> BBC: The Supreme Court pauses a colonial-era sedition law that critics say is used to stifle dissent. 
- <p class="updated_time"> 02:49 AM CT, May. 11 </p> 
+ <p class="updated_time"> 03:01 AM CT, May. 11 </p> 
  <a href="https://www.wsj.com/articles/china-inflation-accelerates-modestly-11652251867">China Consumer Inflation Accelerates Modestly</a> WSJ: China Consumer Inflation Accelerates Modestly 
  <p class="updated_time"> 02:37 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-61399483?at_medium=RSS&at_campaign=KARANGA">Elon Musk would reverse Donald Trump's Twitter ban</a> BBC: He says Twitter's decision to ban the former US president was "morally wrong and flat-out stupid". 
  <p class="updated_time"> 02:30 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/russia-cyberattack-ukraine-war.html">Russia Was Behind Cyberattack in Run-Up to Ukraine War, Investigation Finds</a> NYT: The February attack rattled Pentagon officials and private industry because it revealed new vulnerabilities in global communications systems. 
+ <p class="updated_time"> 02:01 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City 
  <p class="updated_time"> 02:00 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/israeli-palestinian-mass-grave-tantura.html">‘Tantura’ Documentary Reopens Debate About Israel’s Foundational Story</a> NYT: Israeli soldiers had long denied killing prisoners after capturing an Arab seaside town, days after Israel’s creation. A new film provides fresh evidence — reopening a debate about Israel’s foundational story. 
- <p class="updated_time"> 01:49 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City 
  <p class="updated_time"> 01:06 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61404082?at_medium=RSS&at_campaign=KARANGA">Shanghai moves to impose tightest restrictions yet</a> BBC: For the next few days, no commercial food deliveries are allowed, and hospital access will be restricted. 
  <p class="updated_time"> 12:02 AM CT, May. 11 </p> 
@@ -192,10 +192,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:48 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/us/politics/kathy-barnette-pennsylvania-senate.html">Club for Growth Starts Ad Blitz for Kathy Barnette in Pennsylvania Senate Primary</a> NYT: Running for Senate on a shoestring, the conservative commentator has pulled into contention against Dr. Mehmet Oz and David McCormick. What can she do with $2 million in ads? 
  <p class="updated_time"> 06:41 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/politics/takeaways-nebraska-west-virginia-primary.html">4 Takeaways From Tuesday’s Primaries in Nebraska and West Virginia</a> NYT: It was a mixed night for Trump-endorsed candidates, with fresh evidence of an urban-rural divide within the G.O.P. 
- <p class="updated_time"> 06:40 AM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/us/politics/kathy-barnette-pennsylvania-senate.html">Club for Growth Starts Ad Blitz for Kathy Barnette in Pennsylvania Senate Primary</a> NYT: Running for Senate on a shoestring, the conservative commentator has pulled into contention against Dr. Mehmet Oz and David McCormick. What can she do with $2 million in ads? 
  <p class="updated_time"> 05:01 AM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/democrats-florida-voting-elections-00031613">'Stop being so doom and gloom': Democrats launch $15M effort to 'Blue Shift Florida'</a> Politico: “I’m proud to work hand-in-hand with Democrats throughout the state to build a bilingual, grassroots movement that will take back Florida,” said Rep. Val Demings (D-Fla.). 
  <p class="updated_time"> 04:29 AM CT, May. 11 </p> 
