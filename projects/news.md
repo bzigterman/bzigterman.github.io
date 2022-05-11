@@ -9,36 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:33 AM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Al Jazeera Journalist Is Killed During Clashes in West Bank</a> NYT: The circumstances surrounding the fatal shooting of Shireen Abu Akleh, a veteran journalist, are still unclear. 
+ <p class="updated_time"> 02:07 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The circumstances surrounding the fatal shooting of Shireen Abu Akleh, a veteran journalist, are still unclear. 
+ <p class="updated_time"> 02:02 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/10/world/ukraine-russia-war-news">What Happened on Day 76 of the War in Ukraine</a> NYT: The Russian military, despite missteps, has gained near total control of the Donbas region. 
+ <p class="updated_time"> 02:02 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/09/world/philippines-election">Ferdinand Marcos Jr. Is Bound for Presidency of the Philippines</a> NYT: Early counting put Mr. Marcos, the son and namesake of the country’s former dictator, more than 15 million votes ahead of his top presidential rival in one of the country’s most consequential elections in decades. 
+ <p class="updated_time"> 02:00 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/israeli-palestinian-mass-grave-tantura.html">‘Tantura’ Documentary Reopens Debate About Israel’s Foundational Story</a> NYT: Israeli soldiers had long denied killing prisoners after capturing an Arab seaside town, days after Israel’s creation. A new film provides fresh evidence — reopening a debate about Israel’s foundational story. 
+ <p class="updated_time"> 01:50 AM CT, May. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61403320?at_medium=RSS&at_campaign=KARANGA">Al Jazeera reporter killed during Israeli raid in West Bank</a> BBC: The TV channel accuses Israeli forces of shooting Shereen Abu Aqleh in Jenin - something they deny. 
+ <p class="updated_time"> 01:28 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875">Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught</a> WSJ: Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught 
  <p class="updated_time"> 01:06 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61404082?at_medium=RSS&at_campaign=KARANGA">Shanghai moves to impose tightest restrictions yet</a> BBC: For the next few days, no commercial food deliveries are allowed, and hospital access will be restricted. 
  <p class="updated_time"> 12:50 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61403510?at_medium=RSS&at_campaign=KARANGA">Sri Lanka protests: Second night of property burnings</a> BBC: A nationwide curfew remains in place after anger at the economic crisis spilled over into violence. 
- <p class="updated_time"> 12:46 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875">Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught</a> WSJ: Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught 
- <p class="updated_time"> 12:44 AM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/05/10/world/ukraine-russia-war-news">What Happened on Day 76 of the War in Ukraine</a> NYT: The Russian military, despite missteps, has gained near total control of the Donbas region. 
+ <p class="updated_time"> 12:28 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/western-economies-are-creaking-under-high-energy-prices-with-no-relief-in-sight-11652198600">Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight</a> WSJ: Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight 
  <p class="updated_time"> 12:02 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098144813/australia-says-most-great-barrier-reef-coral-studied-this-year-was-bleached">Australia says most Great Barrier Reef coral studied this year was bleached</a> NPR: Australian scientists confirm the mass bleaching, yet are hopeful the world's largest coral reef ecosystem can recover. 
- <p class="updated_time"> 11:46 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/western-economies-are-creaking-under-high-energy-prices-with-no-relief-in-sight-11652198600">Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight</a> WSJ: Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight 
+ <p class="updated_time"> 11:28 PM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102">U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine</a> WSJ: U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine 
  <p class="updated_time"> 10:53 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/asia/china-shanghai-beijing-covid.html">As Shanghai’s Covid Cases Fall, China’s Restrictions Tighten</a> NYT: Schools are closed indefinitely in Beijing, while the last subway lines in Shanghai that were still running have ceased operation. 
- <p class="updated_time"> 10:46 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102">U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine</a> WSJ: U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine 
  <p class="updated_time"> 10:33 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/french-military-ukraine.html">For French Military, War in Ukraine Prompts a Shift in Focus</a> NYT: While it is in Europe’s interest to weaken Moscow, the chief of staff of France’s military says, Russia may someday need to play a part in a global security plan. 
- <p class="updated_time"> 09:46 PM CT, May. 10 </p> 
+ <p class="updated_time"> 10:28 PM CT, May. 10 </p> 
  <a href="https://www.wsj.com/articles/paraguayan-organized-crime-prosecutor-shot-dead-on-beach-during-honeymoon-11652225668">Paraguayan Prosecutor Shot Dead on Beach During Honeymoon</a> WSJ: Paraguayan Prosecutor Shot Dead on Beach During Honeymoon 
+ <p class="updated_time"> 09:28 PM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/another-marcos-rises-in-the-philippines-but-how-does-he-plan-to-govern-11652170387">Another Marcos Rises in the Philippines, but How Does He Plan to Govern?</a> WSJ: Another Marcos Rises in the Philippines, but How Does He Plan to Govern? 
  <p class="updated_time"> 09:14 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/ukraine-russia-donbas.html">Ukraine War’s Geographic Reality: Russia Has Seized Much of the East</a> NYT: Despite many stumbles and setbacks, the Russian military has gained near total control of the Donbas region, giving the Kremlin huge leverage in any future talks. 
- <p class="updated_time"> 08:46 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/another-marcos-rises-in-the-philippines-but-how-does-he-plan-to-govern-11652170387">Another Marcos Rises in the Philippines, but How Does He Plan to Govern?</a> WSJ: Another Marcos Rises in the Philippines, but How Does He Plan to Govern? 
  <p class="updated_time"> 08:33 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61401184?at_medium=RSS&at_campaign=KARANGA">Ex-prison guard Vicky White and inmate Casey White 'planned shootout' if captured</a> BBC: Police said firearms were found in the vehicle the pair was driving, along with thousands in cash. 
- <p class="updated_time"> 08:32 PM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/05/09/world/philippines-election">Ferdinand Marcos Jr. Is Bound for Presidency of the Philippines</a> NYT: Early counting put Mr. Marcos, the son and namesake of the country’s former dictator, more than 15 million votes ahead of his top presidential rival in one of the country’s most consequential elections in decades. 
  <p class="updated_time"> 08:25 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61339182?at_medium=RSS&at_campaign=KARANGA">Sundiata Acoli: US Black Panther wins parole after half a century</a> BBC: Sundiata Acoli, 85, has been in prison for almost five decades for the 1973 murder of a policeman. 
  <p class="updated_time"> 08:05 PM CT, May. 10 </p> 
@@ -97,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/10/1098015340/leonid-kravchuk-ukraine-first-president-dies">Leonid Kravchuk, independent Ukraine's 1st president, dies at age 88</a> NPR: Kravchuk led Ukraine as its Communist Party boss in the waning years of the Soviet Union. He played a pivotal role in the demise of the USSR before holding the Ukrainian presidency from 1991 to 1994. 
  <p class="updated_time"> 02:54 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/health/pediatricians-mental-health-crisis-teens.html">Teens in Distress Are Swamping Pediatricians</a> NYT: Around the country, the setting for adolescent mental health care looks ever more like this doctor’s office in Kentucky, the next patient arriving every 15 minutes. 
- <p class="updated_time"> 02:51 PM CT, May. 10 </p> 
- <a href="https://www.bbc.co.uk/news/technology-61401626?at_medium=RSS&at_campaign=KARANGA">Apple to discontinue the iPod after 21 years</a> BBC: The end of an era for Apple's original music player, which has been overshadowed by the iPhone. 
  <p class="updated_time"> 02:20 PM CT, May. 10 </p> 
  <a href="https://www.npr.org/2022/05/10/1097883083/how-the-u-s-aid-to-ukraine-is-taking-shape">How the U.S. aid to Ukraine is taking shape </a> NPR: Congress is currently considering sending Ukraine $39.8 billion more in aid. That's nearly three times the amount it approved in March to help the country after Russia invaded. 
  <p class="updated_time"> 01:58 PM CT, May. 10 </p> 
@@ -183,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/09/world/europe/bullying-children-russia-war-europe.html">In Europe’s Schoolyards, Putin’s War Hurts Russian-Speaking Children</a> NYT: Across the continent, pupils face bullying, harassment and humiliation over the invasion of Ukraine, another perverse effect of a war that is overwhelmingly affecting the innocent. 
  <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/travel/oman-road-trip.html">A Woman Alone in Oman: Three Weeks Along the Arabian Coast</a> NYT: In December, a photographer set off on a 2,600-mile road trip, traveling from the Yemeni border to the Strait of Hormuz. Here’s what she saw. 
- <p class="updated_time"> 11:55 PM CT, May. 08 </p> 
- <a href="https://www.nytimes.com/2022/05/09/world/asia/marcos-jr-philippines-election.html">Ferdinand Marcos Jr., Late Dictator’s Son, May Lead the Philippines</a> NYT: Ferdinand Marcos Jr. has spent decades defending his family’s name against accusations of corruption and downplaying his father’s brutal regime. 
 
 
 </details>
@@ -241,7 +241,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:47 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/homeland-security-misconduct-reports.html">D.H.S. Watchdog Said Damaging Findings Removed From Reports Were Already Known</a> NYT: Two House committees were so concerned by the explanation that they requested an array of internal documents related to the reports on sexual misconduct and domestic violence. 
  <p class="updated_time"> 04:45 PM CT, May. 10 </p> 
- <a href="https://www.politico.com/news/2022/05/10/ukraine-foreign-minister-us-weapons-delay-russia-00031493">‘We are not as dumb as you might think’: Ukraine’s foreign minister rues U.S. delay in providing weapons</a> Politico: In an exclusive interview, Dmytro Kuleba unloads on Western officials who he says spent weeks scouring Soviet stockpiles for old weapons — instead of giving Kyiv what it wanted. 
+ <a href="https://www.politico.com/news/2022/05/10/ukraine-foreign-minister-us-weapons-delay-russia-00031493">Putin gained 'what he shouldn't have': Ukraine’s foreign minister rues U.S. delay in providing weapons</a> Politico: In an exclusive interview, Dmytro Kuleba says officials spent weeks scouring Soviet stockpiles for old weapons — until Defense Secretary Lloyd Austin stepped up in late April. 
  <p class="updated_time"> 04:39 PM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/new-york-to-allocate-35m-to-help-abortion-providers-00031388">New York to allocate $35M to help abortion providers</a> Politico: The move drew criticism from opponents, including the New York State Catholic Conference, which called it “a grave misuse of state resources and an insult to millions of pro-life New Yorkers.” 
  <p class="updated_time"> 04:08 PM CT, May. 10 </p> 
