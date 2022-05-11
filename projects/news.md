@@ -9,44 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:22 AM CT, May. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61403510?at_medium=RSS&at_campaign=KARANGA">Sri Lanka protests: Leaders under pressure as anger at economic crisis boils over</a> BBC: Troops have orders to shoot looters on sight as an economic crisis sparks violence and arson. 
- <p class="updated_time"> 06:14 AM CT, May. 11 </p> 
+ <p class="updated_time"> 07:55 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/05/11/world/ukraine-russia-war-news">Ukraine Live Updates: E.U. Falters in Bid to Adopt Russian Oil Embargo, Showing Risks of Prolonged War</a> NYT: E.U. ambassadors broke off talks for the day in Brussels, having failed to persuade Hungary, which has emerged as a possible spoiler to European unity. In Washington, the House endorsed a $40 billion aid package for Ukraine, which awaits Senate approval. 
- <p class="updated_time"> 06:01 AM CT, May. 11 </p> 
+ <p class="updated_time"> 07:40 AM CT, May. 11 </p> 
+ <a href="https://www.npr.org/2022/05/11/1096856581/how-one-of-russias-neighbors-is-dealing-with-putins-propaganda">How one of Russia's neighbors is dealing with Putin's propaganda </a> NPR: On the border with Russia, the Estonian town of Narva has strong cultural and linguistic ties with Russia. That makes it a target of Russian disinformation; something Estonians are trying to combat. 
+ <p class="updated_time"> 07:21 AM CT, May. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61403510?at_medium=RSS&at_campaign=KARANGA">Sri Lanka protests: Leaders under pressure as anger at economic crisis boils over</a> BBC: Troops have orders to shoot looters on sight as an economic crisis sparks violence and arson. 
+ <p class="updated_time"> 07:17 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The circumstances surrounding the fatal shooting of Shireen Abu Akleh, a Palestinian American journalist, were not immediately clear. 
+ <p class="updated_time"> 07:10 AM CT, May. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61378196?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia pushed back in north-east - report from front line</a> BBC: Correspondent Quentin Sommerville and cameraman Darren Conway are with Ukrainian troops as they advance. 
+ <p class="updated_time"> 06:58 AM CT, May. 11 </p> 
  <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine Accuses Russia of Stealing Its Grain</a> WSJ: Ukraine Accuses Russia of Stealing Its Grain 
+ <p class="updated_time"> 05:58 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/russias-war-in-ukraine-sparks-bomb-shelter-revival-in-poland-11652261400">Russia’s War in Ukraine Sparks Bomb-Shelter Revival in Poland</a> WSJ: Russia’s War in Ukraine Sparks Bomb-Shelter Revival in Poland 
  <p class="updated_time"> 05:57 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098157067/al-jazeera-shireen-abu-akleh-killed-israel">Al Jazeera's Shireen Abu Akleh is killed while reporting on an Israeli raid</a> NPR: Abu Akleh, a 51-year-old U.S. citizen, had been covering a military raid on the Jenin refugee camp "when she was shot in the face by a single bullet, despite wearing a press vest," Al Jazeera said. 
- <p class="updated_time"> 05:55 AM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The circumstances surrounding the fatal shooting of Shireen Abu Akleh, a Palestinian American journalist, were not immediately clear. 
  <p class="updated_time"> 05:13 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61403320?at_medium=RSS&at_campaign=KARANGA">Al Jazeera reporter killed during Israeli raid in West Bank</a> BBC: Israel and the TV channel trade accusations over who was to blame for shooting Sherine Abu Aqla. 
  <p class="updated_time"> 05:09 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61387881?at_medium=RSS&at_campaign=KARANGA">The 'jockstrap' that revolutionised women's sports</a> BBC: The sports bra is honoured as a serious invention. The women behind its creation are chuffed. 
- <p class="updated_time"> 05:01 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/russias-war-in-ukraine-sparks-bomb-shelter-revival-in-poland-11652261400">Russia’s War in Ukraine Sparks Bomb-Shelter Revival in Poland</a> WSJ: Russia’s War in Ukraine Sparks Bomb-Shelter Revival in Poland 
+ <p class="updated_time"> 04:58 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/biden-administration-asks-congress-to-approve-new-weapons-deal-with-turkey-11652262674">Biden Administration Asks Congress to Approve New Weapons Deal With Turkey</a> WSJ: Biden Administration Asks Congress to Approve New Weapons Deal With Turkey 
  <p class="updated_time"> 04:05 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/bulgaria-russia-ukraine.html">Bulgaria Takes Unusual Stand Against Russia With Sanctions</a> NYT: Bulgaria has imposed economic sanctions on Russia, offered to repair broken military equipment for Ukraine and expelled Russian diplomats. 
- <p class="updated_time"> 04:01 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/biden-administration-asks-congress-to-approve-new-weapons-deal-with-turkey-11652262674">Biden Administration Asks Congress to Approve New Weapons Deal With Turkey</a> WSJ: Biden Administration Asks Congress to Approve New Weapons Deal With Turkey 
  <p class="updated_time"> 04:00 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1097644931/solar-panels-solar-power-u-s-investigates-china-trade-rules">Solar projects are on hold as U.S. investigates whether China is skirting trade rules</a> NPR: A federal investigation of allegations that China is illegally avoiding duties on solar panels sold to U.S. companies is putting the brakes on the nation's solar power build-out. 
  <p class="updated_time"> 04:00 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/asia/india-hindu-muslim-violence.html">India’s Dangerous New Pattern of Communal Tensions</a> NYT: As a national campaign by right-wing groups inflames local tensions, Muslim communities are facing the harshest punishments, according to activists, analysts and retired officials. 
+ <p class="updated_time"> 03:58 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-inflation-accelerates-modestly-11652251867">China Consumer Inflation Accelerates Modestly</a> WSJ: China Consumer Inflation Accelerates Modestly 
  <p class="updated_time"> 03:45 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/leonid-kravchuk-dead.html">Leonid Kravchuk, First President of Ukraine, Dies at 88</a> NYT: Days after his election, he had signed a multinational agreement that formally declared the dissolution of the Soviet Union. 
  <p class="updated_time"> 03:19 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098150456/shanghai-maintains-zero-covid-policy-but-the-u-n-says-it-is-not-sustainable">Shanghai maintains 'zero-COVID' policy but the U.N. says it is not sustainable</a> NPR: The leader of the World Health Organization says he doesn't think that a 'zero-COVID' strategy is sustainable, given the behavior of the virus. 
  <p class="updated_time"> 03:16 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61404053?at_medium=RSS&at_campaign=KARANGA">Sedition law: India's Supreme Court puts controversial law on hold</a> BBC: The Supreme Court pauses a colonial-era sedition law that critics say is used to stifle dissent. 
- <p class="updated_time"> 03:01 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/china-inflation-accelerates-modestly-11652251867">China Consumer Inflation Accelerates Modestly</a> WSJ: China Consumer Inflation Accelerates Modestly 
+ <p class="updated_time"> 02:58 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City 
  <p class="updated_time"> 02:37 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-61399483?at_medium=RSS&at_campaign=KARANGA">Elon Musk would reverse Donald Trump's Twitter ban</a> BBC: He says Twitter's decision to ban the former US president was "morally wrong and flat-out stupid". 
  <p class="updated_time"> 02:30 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/russia-cyberattack-ukraine-war.html">Russia Was Behind Cyberattack in Run-Up to Ukraine War, Investigation Finds</a> NYT: The February attack rattled Pentagon officials and private industry because it revealed new vulnerabilities in global communications systems. 
- <p class="updated_time"> 02:01 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City 
  <p class="updated_time"> 02:00 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/israeli-palestinian-mass-grave-tantura.html">‘Tantura’ Documentary Reopens Debate About Israel’s Foundational Story</a> NYT: Israeli soldiers had long denied killing prisoners after capturing an Arab seaside town, days after Israel’s creation. A new film provides fresh evidence — reopening a debate about Israel’s foundational story. 
  <p class="updated_time"> 01:06 AM CT, May. 11 </p> 
@@ -69,12 +73,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61403343?at_medium=RSS&at_campaign=KARANGA">Eurovision 2022: Emotions run high as Ukraine's Kalush Orchestra qualify for final</a> BBC: Ukrainian fans celebrated in Turin as the Kalush Orchestra cement their position as favourites to win. 
  <p class="updated_time"> 07:32 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61402984?at_medium=RSS&at_campaign=KARANGA">Canada MP regrets calling into debate from toilet</a> BBC: Opposition MPs noticed the familiar background on Liberal MP Shafqat Ali's screen. 
- <p class="updated_time"> 07:31 PM CT, May. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61402829?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin preparing for long haul, US intelligence says</a> BBC: The US National Intelligence director warns the Russian president could turn to "more drastic means". 
  <p class="updated_time"> 06:51 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/middleeast/iran-execution-ahmadreza-djalali.html">Iran Says It Will Execute Ahmadreza Djalali, Swedish-Iranian Accused of Spying</a> NYT: Ahmadreza Djalali denies he spied for Israel or helped it kill Iranian nuclear scientists. 
  <p class="updated_time"> 06:33 PM CT, May. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Are Finland and Sweden going from neutral to Nato?</a> BBC: It would be a historic shift if they do and Russia is vehemently opposed to the change. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61397478?at_medium=RSS&at_campaign=KARANGA">Are Sweden and Finland going from neutral to Nato?</a> BBC: It would be a historic shift if they do and Russia is vehemently opposed to the change. 
  <p class="updated_time"> 06:32 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61389834?at_medium=RSS&at_campaign=KARANGA">From India to UK: An immigrant's snapshots from 1950s</a> BBC: The lives of Coventry's South Asian immigrants are recorded in Maganbhai 'Masterji' Patel's photos. 
  <p class="updated_time"> 06:30 PM CT, May. 10 </p> 
@@ -111,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/10/1098015340/leonid-kravchuk-ukraine-first-president-dies">Leonid Kravchuk, independent Ukraine's 1st president, dies at age 88</a> NPR: Kravchuk led Ukraine as its Communist Party boss in the waning years of the Soviet Union. He played a pivotal role in the demise of the USSR before holding the Ukrainian presidency from 1991 to 1994. 
  <p class="updated_time"> 02:54 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/health/pediatricians-mental-health-crisis-teens.html">Teens in Distress Are Swamping Pediatricians</a> NYT: Around the country, the setting for adolescent mental health care looks ever more like this doctor’s office in Kentucky, the next patient arriving every 15 minutes. 
- <p class="updated_time"> 02:20 PM CT, May. 10 </p> 
- <a href="https://www.npr.org/2022/05/10/1097883083/how-the-u-s-aid-to-ukraine-is-taking-shape">How the U.S. aid to Ukraine is taking shape </a> NPR: Congress is currently considering sending Ukraine $39.8 billion more in aid. That's nearly three times the amount it approved in March to help the country after Russia invaded. 
  <p class="updated_time"> 01:58 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/pussy-riot-russia-escape.html">How Maria Alyokhina of Pussy Riot Escaped From Russia</a> NYT: After more than a decade of activism, Maria Alyokhina disguised herself as a food courier to evade the police — and a widening crackdown by President Vladimir Putin. 
  <p class="updated_time"> 01:53 PM CT, May. 10 </p> 
@@ -127,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/world/europe/queen-elizabeth-charles-speech-parliament.html">Charles Gives Queen’s Speech at State Opening of Parliament in U.K.</a> NYT: For only the third time in 70 years, Elizabeth was unable to deliver her speech at the State Opening of Parliament. The palace said she had been having trouble walking; Prince Charles stood in. 
  <p class="updated_time"> 11:38 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/wagatha-christie-trial-uk.html">Vardy and Rooney ‘Wagatha Christie’ Trial Begins in London</a> NYT: A public spat between the famous wives of two English soccer players, which has riveted tabloid attention in Britain, will be decided in court. 
- <p class="updated_time"> 11:30 AM CT, May. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61381594?at_medium=RSS&at_campaign=KARANGA">Philippines Bongbong Marcos: Judge me on actions not ancestors</a> BBC: The son of a former Philippine dictator is set to be the country's next president. 
  <p class="updated_time"> 11:19 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/afghans-central-bank-sept-11.html">Afghans Urge Court Not to Give Frozen Central Bank Assets to Sept. 11 Families</a> NYT: Advocates for the Afghan people say it would be unjust and illegal to use $3.5 billion of Afghanistan’s assets to pay off the Taliban’s judgment debts. 
  <p class="updated_time"> 11:15 AM CT, May. 10 </p> 
@@ -199,7 +197,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:01 AM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/democrats-florida-voting-elections-00031613">'Stop being so doom and gloom': Democrats launch $15M effort to 'Blue Shift Florida'</a> Politico: “I’m proud to work hand-in-hand with Democrats throughout the state to build a bilingual, grassroots movement that will take back Florida,” said Rep. Val Demings (D-Fla.). 
  <p class="updated_time"> 04:29 AM CT, May. 11 </p> 
- <a href="https://www.npr.org/2022/05/11/1097966775/inflation-poor-income-inequality-biden-federal-reserve">How low-income people pay the steepest price when inflation hits</a> NPR: The annual inflation rate likely eased somewhat in April, but not enough to meaningfully reduce the burden on lower-income Americans. 
+ <a href="https://www.npr.org/2022/05/11/1097966775/inflation-poor-income-inequality-biden-federal-reserve">Inflation may be easing — but low-income people are still paying the steepest prices</a> NPR: The annual inflation rate likely eased somewhat in April, but not enough to meaningfully reduce the burden on lower-income Americans. 
  <p class="updated_time"> 04:27 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1096623939/accusations-grooming-political-attack-homophobic-origins">Accusations of 'grooming' are the latest political attack — with homophobic origins</a> NPR: Old accusations of LGBTQ people "grooming" and "recruiting" children have gained new traction. When have we heard this before? What counternarrative are activists using to win over public opinion? 
  <p class="updated_time"> 04:10 AM CT, May. 11 </p> 
@@ -239,7 +237,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:22 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/business/economy/federal-reserve-inflation.html">Fed Confronts Why It May Have Acted Too Slowly on Inflation</a> NYT: Central bankers have been asking whether they should have reacted faster to rising inflation last year — and are learning from the recent past. 
  <p class="updated_time"> 10:14 PM CT, May. 10 </p> 
- <a href="https://www.politico.com/news/2022/05/10/eastman-emails-pennsylvania-legislators-biden-00031668">‘Provide some cover’: Batch of Eastman emails sheds light on contacts with state legislatures</a> Politico: He suggested a way for Pennsylvania legislators to cancel Joe Biden's win. 
+ <a href="https://www.politico.com/news/2022/05/10/eastman-emails-pennsylvania-legislators-biden-00031668">'Provide some cover': New Eastman emails shed light on his push to overturn Biden's win</a> Politico: He suggested a way for Pennsylvania legislators to cancel Joe Biden's win. 
  <p class="updated_time"> 10:06 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/congress-ukraine-aid-questions.html">House Passes $40 Billion More in Ukraine Aid, With Few Questions Asked</a> NYT: As lawmakers have embraced more than $50 billion to Kyiv within two months, they have largely refrained from raising concerns or questioning the Biden administration’s strategy. 
  <p class="updated_time"> 09:26 PM CT, May. 10 </p> 
