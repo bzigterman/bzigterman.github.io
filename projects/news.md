@@ -9,25 +9,27 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:08 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Al Jazeera Journalist Is Killed During Clashes in West Bank</a> NYT: The circumstances surrounding the fatal shooting of Shireen Abu Akleh, a veteran journalist, are still unclear. 
+ <p class="updated_time"> 12:50 AM CT, May. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61403510?at_medium=RSS&at_campaign=KARANGA">Sri Lanka protests: Second night of property burnings</a> BBC: A nationwide curfew remains in place as efforts to form an interim government intensify. 
  <p class="updated_time"> 12:44 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/05/10/world/ukraine-russia-war-news">What Happened on Day 76 of the War in Ukraine</a> NYT: The Russian military, despite missteps, has gained near total control of the Donbas region. 
- <p class="updated_time"> 12:27 AM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Al Jazeera Journalist Is Killed During Clashes in West Bank</a> NYT: The circumstances surrounding the fatal shooting of Shireen Abu Akleh, a veteran journalist, are still unclear. 
+ <p class="updated_time"> 12:11 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875">Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught</a> WSJ: Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught 
  <p class="updated_time"> 12:02 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098144813/australia-says-most-great-barrier-reef-coral-studied-this-year-was-bleached">Australia says most Great Barrier Reef coral studied this year was bleached</a> NPR: Australian scientists confirm the mass bleaching, yet are hopeful the world's largest coral reef ecosystem can recover. 
- <p class="updated_time"> 11:50 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875">Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught</a> WSJ: Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught 
+ <p class="updated_time"> 11:11 PM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/western-economies-are-creaking-under-high-energy-prices-with-no-relief-in-sight-11652198600">Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight</a> WSJ: Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight 
  <p class="updated_time"> 10:53 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/asia/china-shanghai-beijing-covid.html">As Shanghai’s Covid Cases Fall, China’s Restrictions Tighten</a> NYT: Schools are closed indefinitely in Beijing, while the last subway lines in Shanghai that were still running have ceased operation. 
- <p class="updated_time"> 10:50 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/western-economies-are-creaking-under-high-energy-prices-with-no-relief-in-sight-11652198600">Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight</a> WSJ: Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight 
  <p class="updated_time"> 10:33 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/french-military-ukraine.html">For French Military, War in Ukraine Prompts a Shift in Focus</a> NYT: While it is in Europe’s interest to weaken Moscow, the chief of staff of France’s military says, Russia may someday need to play a part in a global security plan. 
- <p class="updated_time"> 09:50 PM CT, May. 10 </p> 
+ <p class="updated_time"> 10:11 PM CT, May. 10 </p> 
  <a href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102">U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine</a> WSJ: U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine 
  <p class="updated_time"> 09:14 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/ukraine-russia-donbas.html">Ukraine War’s Geographic Reality: Russia Has Seized Much of the East</a> NYT: Despite many stumbles and setbacks, the Russian military has gained near total control of the Donbas region, giving the Kremlin huge leverage in any future talks. 
- <p class="updated_time"> 08:50 PM CT, May. 10 </p> 
+ <p class="updated_time"> 09:11 PM CT, May. 10 </p> 
  <a href="https://www.wsj.com/articles/paraguayan-organized-crime-prosecutor-shot-dead-on-beach-during-honeymoon-11652225668">Paraguayan Prosecutor Shot Dead on Beach During Honeymoon</a> WSJ: Paraguayan Prosecutor Shot Dead on Beach During Honeymoon 
  <p class="updated_time"> 08:33 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61401184?at_medium=RSS&at_campaign=KARANGA">Ex-prison guard Vicky White and inmate Casey White 'planned shootout' if captured</a> BBC: Police said firearms were found in the vehicle the pair was driving, along with thousands in cash. 
@@ -35,10 +37,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/05/09/world/philippines-election">Ferdinand Marcos Jr. Is Bound for Presidency of the Philippines</a> NYT: Early counting put Mr. Marcos, the son and namesake of the country’s former dictator, more than 15 million votes ahead of his top presidential rival in one of the country’s most consequential elections in decades. 
  <p class="updated_time"> 08:25 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61339182?at_medium=RSS&at_campaign=KARANGA">Sundiata Acoli: US Black Panther wins parole after half a century</a> BBC: Sundiata Acoli, 85, has been in prison for almost five decades for the 1973 murder of a policeman. 
+ <p class="updated_time"> 08:11 PM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/another-marcos-rises-in-the-philippines-but-how-does-he-plan-to-govern-11652170387">Another Marcos Rises in the Philippines, but How Does He Plan to Govern?</a> WSJ: Another Marcos Rises in the Philippines, but How Does He Plan to Govern? 
  <p class="updated_time"> 08:05 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61403318?at_medium=RSS&at_campaign=KARANGA">Paraguayan anti-mafia prosecutor killed on Colombia honeymoon</a> BBC: Paraguayan Marcelo Pecci was on an idyllic Colombian island beach when he was shot by two gunmen. 
- <p class="updated_time"> 07:50 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/another-marcos-rises-in-the-philippines-but-how-does-he-plan-to-govern-11652170387">Another Marcos Rises in the Philippines, but How Does He Plan to Govern?</a> WSJ: Another Marcos Rises in the Philippines, but How Does He Plan to Govern? 
  <p class="updated_time"> 07:35 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61403343?at_medium=RSS&at_campaign=KARANGA">Eurovision 2022: Emotions run high as Ukraine's Kalush Orchestra qualify for final</a> BBC: Ukrainian fans celebrated in Turin as the Kalush Orchestra cement their position as favourites to win. 
  <p class="updated_time"> 07:32 PM CT, May. 10 </p> 
@@ -123,8 +125,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/world/asia/philippines-election-protests.html">Philippines Election: Marcos Win Draws Protests</a> NYT: Young voters who had rallied around Leni Robredo during the presidential race gathered to voice their frustration with preliminary results showing her overwhelming defeat. 
  <p class="updated_time"> 10:59 AM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61393917?at_medium=RSS&at_campaign=KARANGA">Burkina Faso trapped miners: Families have hope after three weeks</a> BBC: Rescue efforts continue 24 hours a day to find eight miners caught by flash floods in Burkina Faso. 
- <p class="updated_time"> 10:22 AM CT, May. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61389189?at_medium=RSS&at_campaign=KARANGA">Sri Lankan troops ordered to open fire on looters and vandals as protests continue</a> BBC: Troops are on the streets after a night of anti-government unrest fuelled by an economic crisis. 
  <p class="updated_time"> 10:14 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/russian-forces-occupation-ukraine.html">How Much of Ukraine Does Russia Hold?</a> NYT: Although Russian forces failed to take Kyiv, they have captured large chunks of the south and east, giving Moscow a chance to strangle the country economically. 
  <p class="updated_time"> 09:49 AM CT, May. 10 </p> 
