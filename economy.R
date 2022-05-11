@@ -1025,7 +1025,7 @@ fig <- hchart(data,
               hcaes(x = date,
                     y = value),
               name = "Total",
-              color = "#808080",
+              color = "#e5e5e5",
               yAxis = 0) %>%
   hc_yAxis_multiples(create_axis(naxis = 2, heights = c(1, 1),
                                  title = list(text = NULL))) %>%
