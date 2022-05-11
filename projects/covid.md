@@ -920,23 +920,23 @@ html {
     <tr><td class="gt_row gt_left">Average New Cases</td>
 <td class="gt_row gt_right">3K</td>
 <td class="gt_row gt_right">5K</td>
-<td class="gt_row gt_right">+64%</td></tr>
+<td class="gt_row gt_right">+70%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">419</td>
-<td class="gt_row gt_right gt_striped">570</td>
-<td class="gt_row gt_right gt_striped">+36%</td></tr>
+<td class="gt_row gt_right gt_striped">441</td>
+<td class="gt_row gt_right gt_striped">582</td>
+<td class="gt_row gt_right gt_striped">+32%</td></tr>
     <tr><td class="gt_row gt_left">Average New Deaths</td>
 <td class="gt_row gt_right">6</td>
-<td class="gt_row gt_right">8</td>
-<td class="gt_row gt_right">+33%</td></tr>
+<td class="gt_row gt_right">9</td>
+<td class="gt_row gt_right">+50%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Average New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">15K</td>
 <td class="gt_row gt_right gt_striped">10K</td>
-<td class="gt_row gt_right gt_striped">&minus;31%</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;37%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Monday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Tuesday</td>
     </tr>
   </tfoot>
   
@@ -1907,7 +1907,7 @@ html {
 As of Tuesday, the 14-day percent change in average new cases was:
   
 - 37% in Champaign County
-- 64% in Illinois
+- 70% in Illinois
 - 51% in the United States
 - -22% worldwide
 
@@ -1923,7 +1923,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 As of Tuesday, the 14-day percent change in average new deaths was:
   
-- 33% in Illinois
+- 50% in Illinois
 - 33% in the United States
 - -27% worldwide
 
