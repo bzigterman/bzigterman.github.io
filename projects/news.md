@@ -9,12 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:08 PM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/live/2022/05/11/world/ukraine-russia-war-news">Ukraine Live Updates: E.U. Falters in Bid to Adopt Russian Oil Embargo, Showing Risks of Prolonged War</a> NYT: E.U. ambassadors broke off talks for the day in Brussels, having failed to persuade Hungary, which has emerged as a possible spoiler to European unity. In Washington, the House endorsed a $40 billion aid package for Ukraine. 
- <p class="updated_time"> 01:06 PM CT, May. 11 </p> 
+ <p class="updated_time"> 01:46 PM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The network and Palestinian authorities blamed Israeli troops for the killing. Israel said the blame could lie with Palestinian gunmen. 
+ <p class="updated_time"> 01:45 PM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/asia/india-sedition-law-suspended.html">India’s Top Court Suspends Colonial-Era Sedition Law</a> NYT: The law has been used to quash dissent and is not in tune with the times, the court said. Its action does not overturn the law, though, only Parliament can do that. 
+ <p class="updated_time"> 01:40 PM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/climate/air-pollution-hurricanes.html">Air Pollution Can Mean More, or Fewer, Hurricanes. It Depends Where You Live.</a> NYT: Smog from factories and cars has led to more storms in the Atlantic Ocean, but fewer in the Pacific. A new study explains why. 
+ <p class="updated_time"> 01:38 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/shireen-abu-akleh-al-jazeera-dead.html">Shireen Abu Akleh, Palestinian Journalist, Dies, Aged 51</a> NYT: Ms. Abu Akleh, 51, a Palestinian American reporter who was killed in the West Bank on Wednesday, was a household name across the Middle East. 
+ <p class="updated_time"> 01:24 PM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/11/world/ukraine-russia-war-news">Ukraine Live Updates: E.U. Falters in Bid to Adopt Russian Oil Embargo, Showing Risks of Prolonged War</a> NYT: E.U. ambassadors broke off talks for the day in Brussels, having failed to persuade Hungary, which has emerged as a possible spoiler to European unity. In Washington, the House endorsed a $40 billion aid package for Ukraine. 
  <p class="updated_time"> 01:03 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/leonid-kravchuk-dead.html">Leonid Kravchuk, First President of Ukraine, Dies at 88</a> NYT: Days after his election, he signed a multinational agreement that formally declared the dissolution of the Soviet Union. 
+ <p class="updated_time"> 12:57 PM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/natural-gas-prices-rise-in-europe-after-ukraine-cuts-flows-11652255011">Ukraine Stops Russian Gas Flowing to Europe Through Key Pipeline</a> WSJ: Ukraine Stops Russian Gas Flowing to Europe Through Key Pipeline 
  <p class="updated_time"> 12:39 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61415677?at_medium=RSS&at_campaign=KARANGA">Quentin Sommerville: BBC on patrol with the soldiers pushing Russia back</a> BBC: The BBC's Quentin Sommerville spends a week with Ukrainians liberating towns north of Kharkiv. 
  <p class="updated_time"> 12:36 PM CT, May. 11 </p> 
@@ -27,28 +35,22 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61412373?at_medium=RSS&at_campaign=KARANGA">Democrats push doomed bid for federal abortion law</a> BBC: A bill to make the right to abortion a national law is likely to fail, but could have political weight. 
  <p class="updated_time"> 12:18 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/pussy-riot-russia-escape.html">How Maria Alyokhina of Pussy Riot Escaped From Russia</a> NYT: After more than a decade of activism, Maria Alyokhina disguised herself as a food courier to evade the police — and a widening crackdown by President Vladimir Putin. 
- <p class="updated_time"> 12:10 PM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/natural-gas-prices-rise-in-europe-after-ukraine-cuts-flows-11652255011">Ukraine Stops Russian Gas Flowing to Europe Through Key Pipeline</a> WSJ: Ukraine Stops Russian Gas Flowing to Europe Through Key Pipeline 
- <p class="updated_time"> 12:00 PM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/climate/air-pollution-hurricanes.html">Air Pollution Can Mean More, or Fewer, Hurricanes. It Depends Where You Live.</a> NYT: Smog from factories and cars has led to more storms in the Atlantic Ocean, but fewer in the Pacific. A new study explains why. 
  <p class="updated_time"> 11:58 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098242940/ukraine-russia-war-crimes-trial">Ukraine tries its first Russian soldier for alleged war crimes </a> NPR: Prosecutor General Iryna Venediktova says 21-year-old Vadim Shishimarin shot and killed an unarmed man while fleeing from Ukrainian defense forces. He's in custody and could face life in prison. 
  <p class="updated_time"> 11:57 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61403510?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Ex-PM flees to naval base as arson attacks spread</a> BBC: Troops have orders to shoot looters on sight as the president vows to end unrest over the economic crisis. 
+ <p class="updated_time"> 11:57 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107">China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer</a> WSJ: China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer 
  <p class="updated_time"> 11:55 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61413335?at_medium=RSS&at_campaign=KARANGA">Hong Kong cardinal Joseph Zen arrested under China's security law</a> BBC: Senior Catholic Cardinal Joseph Zen is a long-time critic of the Chinese government. 
- <p class="updated_time"> 11:48 AM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/world/asia/india-sedition-law-suspended.html">India’s Top Court Suspends Colonial-Era Sedition Law</a> NYT: The law has been used to quash dissent and is not in tune with the times, the court said. Its action does not overturn the law, though, only Parliament can do that. 
  <p class="updated_time"> 11:39 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098229013/eurovision-ukraine-kalush-orchestra-final">A fan-favorite band from Ukraine advances to the Eurovision grand final</a> NPR: Ukrainian folk-rap group Kalush Orchestra will compete in the final round of the competition on Saturday. Their song "Stefania" is about the singer's mom, but has taken on new meaning during the war. 
  <p class="updated_time"> 11:37 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/asia/hong-kong-arrests-national-security.html">Hong Kong Police Arrest Former Bishop in National Security Case</a> NYT: Cardinal Joseph Zen, 90, was among three held for their work with a legal aid group that helped protesters and that officials accuse of colluding with foreign powers. 
- <p class="updated_time"> 11:29 AM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The network and Palestinian authorities blamed Israeli troops for the killing. Israel said the blame could lie with Palestinian gunmen. 
- <p class="updated_time"> 11:10 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107">China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer</a> WSJ: China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer 
  <p class="updated_time"> 11:07 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/asia/south-korea-yoon-president.html">South Korea Inaugurates Yoon Suk-yeol as President</a> NYT: During his inaugural speech, Yoon Suk-yeol said his country would play a greater role in promoting freedom and human rights around the world. 
+ <p class="updated_time"> 10:57 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-national-security-police-arrest-outspoken-cardinal-11652280366">Hong Kong National Security Police Arrest Outspoken Cardinal</a> WSJ: Hong Kong National Security Police Arrest Outspoken Cardinal 
  <p class="updated_time"> 10:52 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/bulgaria-russia-ukraine.html">Bulgaria Takes Unusual Stand Against Russia With Sanctions</a> NYT: Bulgaria has imposed economic sanctions on Russia, offered to repair broken military equipment for Ukraine and expelled Russian diplomats. 
  <p class="updated_time"> 10:50 AM CT, May. 11 </p> 
@@ -61,22 +63,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/11/world/europe/ukraine-war-jobs.html">Nearly One-Third of Ukraine’s Jobs Are Lost Amid War, U.N. Labor Agency Says</a> NYT: The report highlights the grim economic toll of Russia’s aggression and the challenges that lie ahead for Ukraine and other nations. 
  <p class="updated_time"> 10:11 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/putin-russia-corruption.html">To Keep Putin and His Oligarchs Afloat, It Takes a System</a> NYT: Out of a halting attempt at democratization grew a corrupt ecosystem that has proved very difficult for the Russian elite to resist. 
- <p class="updated_time"> 10:10 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-national-security-police-arrest-outspoken-cardinal-11652280366">Hong Kong National Security Police Arrest Outspoken Cardinal</a> WSJ: Hong Kong National Security Police Arrest Outspoken Cardinal 
  <p class="updated_time"> 10:07 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61403320?at_medium=RSS&at_campaign=KARANGA">Al Jazeera reporter killed during Israeli raid in West Bank</a> BBC: Israel and the TV channel trade accusations over who was to blame for shooting Shireen Abu Aqla. 
  <p class="updated_time"> 10:03 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61406808?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Snake Island and battle for control in Black Sea</a> BBC: This rocky outcrop has been fiercely contested for weeks and has vital strategic importance. 
+ <p class="updated_time"> 09:57 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine to Try Russian Soldier for War Crimes</a> WSJ: Ukraine to Try Russian Soldier for War Crimes 
  <p class="updated_time"> 09:47 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/business-61411474?at_medium=RSS&at_campaign=KARANGA">US price rises ease for the first time in months</a> BBC: The prices of clothing and used cars fell, but inflation remains at a 40-year high. 
- <p class="updated_time"> 09:10 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine to Try Russian Soldier for War Crimes</a> WSJ: Ukraine to Try Russian Soldier for War Crimes 
+ <p class="updated_time"> 09:27 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Palestinian officials blamed Israeli forces for Shireen Abu Akleh’s killing while Israel said its information indicated Palestinian militants were responsible. 
  <p class="updated_time"> 08:27 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/eu-masks-air-travel.html">E.U. Will No Longer Recommend Masks for Air Travel</a> NYT: The decision came as countries across the bloc were loosening restrictions in response to the current rates of vaccination and naturally acquired immunity. 
  <p class="updated_time"> 08:11 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61387881?at_medium=RSS&at_campaign=KARANGA">The 'jockstrap' that revolutionised women's sports</a> BBC: The sports bra is honoured as a serious invention. The women behind its creation are chuffed. 
- <p class="updated_time"> 08:10 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City 
  <p class="updated_time"> 07:40 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1096856581/how-one-of-russias-neighbors-is-dealing-with-putins-propaganda">How one of Russia's neighbors is dealing with Putin's propaganda </a> NPR: On the border with Russia, the Estonian town of Narva has strong cultural and linguistic ties with Russia. That makes it a target of Russian disinformation; something Estonians are trying to combat. 
  <p class="updated_time"> 05:57 AM CT, May. 11 </p> 
@@ -192,8 +192,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:05 PM CT, May. 11 </p> 
+ <a href="https://www.politico.com/news/2022/05/11/staffer-resigned-over-trump-family-separation-report-00031776">Justice watchdog staffer resigned amid leak probe over Trump family separation report</a> Politico: DOJ Inspector General ordered investigation into who disclosed report about border policy. 
+ <p class="updated_time"> 01:00 PM CT, May. 11 </p> 
+ <a href="https://www.politico.com/news/2022/05/11/ukraine-russian-blockade-global-food-supplies-00031760">Urgency mounts for U.S. answer to Russian blockade</a> Politico: Officials say they have a narrow window to try to help Ukraine resume operations at the strategic port city of Odesa, a move that could threaten retaliation from Russia. 
  <p class="updated_time"> 12:58 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/politics/overdose-deaths-fentanyl-meth.html">Overdose Deaths Continue Rising, With Fentanyl and Meth Key Culprits</a> NYT: New data show a surge in overdose deaths involving fentanyl and methamphetamine; overall, the nation saw a 15 percent increase in deaths from overdoses in 2021. 
+ <p class="updated_time"> 12:48 PM CT, May. 11 </p> 
+ <a href="https://www.politico.com/news/2022/05/11/biden-working-class-unions-00031759">Biden's personal recovery plan: Pump up unions, squeeze Big Business</a> Politico: The president is hoping his political fate — and the Democrats’ standing among the white working class — can be saved by lifting up organized labor. 
  <p class="updated_time"> 12:36 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/politics/native-american-children-schools-abuse.html">Report Catalogs Abuse of Native American Children at Former Government Schools</a> NYT: Interior Secretary Deb Haaland called for a review last year, after the discovery of hundreds of unmarked graves of children who attended similar schools in Canada. 
  <p class="updated_time"> 12:29 PM CT, May. 11 </p> 
@@ -286,14 +292,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/us/politics/democrats-abortion-schumer-vote.html">How Democrats Want to Put Republicans on the Defensive on Abortion</a> NYT: While conservatives control the courts and key states, the public tends to lean in favor of abortion rights. Democratic leaders are trying to translate that sentiment into victories for the party. 
  <p class="updated_time"> 06:53 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/hunter-biden-kevin-morris-lawyer.html">For Financial Help and Counsel, Hunter Biden Turns to Hollywood Lawyer</a> NYT: Kevin Morris, known for brokering big entertainment deals, has helped President Biden’s son navigate his legal troubles and scrutiny from the right. Some of the White House’s allies are concerned. 
- <p class="updated_time"> 06:33 PM CT, May. 10 </p> 
- <a href="https://www.politico.com/news/2022/05/10/lisa-cook-confirmed-federal-reserve-00025686">First Black woman confirmed for Fed as central bank enters Biden era</a> Politico: One notable aspect of Biden’s Fed is its unprecedented diversity. 
  <p class="updated_time"> 06:31 PM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/gops-primary-west-virginia-nebraska-00031616">Mooney beats McKinley, Trump's pick falls in Nebraska as GOP battles in primaries</a> Politico: Former President Donald Trump's pick won a big House primary in West Virginia, but Trump suffered his first endorsement loss of 2022 in Nebraska. 
  <p class="updated_time"> 06:19 PM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/pennsylvania-republicans-stop-mastriano-00031607">Pennsylvania GOP panics over possible Mastriano nomination</a> Politico: Republicans are increasingly worried that a ticket led by gubernatorial frontrunner Doug Mastriano could lead to defeat in November. 
- <p class="updated_time"> 05:49 PM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/2022/05/10/business/economy/biden-inflation.html">Biden Says Inflation Is His ‘Top Domestic Priority’</a> NYT: Rising prices could hurt President Biden’s party in the midterm elections, and he sought on Tuesday to turn the debate over the economy against his opponents. 
  <p class="updated_time"> 05:22 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/alfred-baldwin-dead.html">Alfred Baldwin, Lookout for Watergate Burglars, Dies at 83</a> NYT: A co-conspirator, he became an early witness for the government, which helped lead to the indictment of the burglars and linked them with the White House. 
  <p class="updated_time"> 05:00 PM CT, May. 10 </p> 
