@@ -35,7 +35,8 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_credits(
     enabled = TRUE,
     text = paste("Source: U.S. Census Bureau. Latest data:",
-                 tail(recent_data$short_date,1))) %>%
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/ICSA") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
   hc_add_theme(
@@ -128,7 +129,8 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_credits(
     enabled = TRUE,
     text = paste("Source: U.S. Bureau of Labor Statistics. Latest data:",
-                 tail(recent_data$short_date,1))) %>%
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/UNRATE") %>%
   hc_add_theme(
     hc_theme_bloom()
   )%>%
@@ -176,7 +178,8 @@ fig <- hchart(data,
   hc_credits(
     enabled = TRUE,
     text = paste("Source: U.S. Bureau of Labor Statistics. Latest data:",
-                 tail(recent_data$short_date,1))) %>%
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/PAYEMS") %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_tooltip(
     shared = TRUE
@@ -269,7 +272,8 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_credits(
     enabled = TRUE,
     text = paste("Source: U.S. Bureau of Economic Analysis. Latest data:",
-                 tail(recent_data$short_date,1))) %>%
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/A229RX0") %>%
   hc_yAxis(title = list(text = "")) %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_add_theme(
@@ -419,7 +423,8 @@ fig <- hchart(data,
   hc_credits(
     enabled = TRUE,
     text = paste("Source: U.S. Bureau of Economic Analysis. Latest data:",
-                 tail(data$short_date,1))) %>%
+                 tail(data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/GDPC1") %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_tooltip(
     shared = TRUE
@@ -465,7 +470,8 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_credits(
     enabled = TRUE,
     text = paste("Source: U.S. Census Bureau. Latest data:",
-                 tail(recent_data$short_date,1))) %>%
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/RSAFS") %>%
   hc_yAxis(title = list(text = "")) %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_add_theme(
@@ -554,7 +560,8 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_credits(
     enabled = TRUE,
     text = paste("Source: U.S. Census Bureau. Latest data:",
-                 tail(recent_data$short_date,1))) %>%
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/DGORDER") %>%
   hc_yAxis(title = list(text = "")) %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_add_theme(
@@ -669,7 +676,8 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_credits(
     enabled = TRUE,
     text = paste("Source: University of Michigan Consumer Survey. Latest data:",
-                 tail(recent_data$short_date,1))) %>%
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/UMCSENT") %>%
   hc_yAxis(title = list(text = "")) %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_add_theme(
@@ -764,7 +772,8 @@ fig <- hchart(data2, "line", hcaes(x = date,
   hc_credits(
     enabled = TRUE,
     text = paste("Not seasonally adjusted. Source: U.S. Bureau of Labor Statistics. Latest data:",
-                 tail(recent_data$short_date,1))) %>%
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/CPIAUCNS") %>%
   hc_yAxis(title = list(text = "")) %>%
   hc_xAxis(title = list(text = NULL)) %>%
   hc_legend(floating = TRUE,
@@ -868,7 +877,8 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_credits(
     enabled = TRUE,
     text = paste("Source: U.S. Bureau of Economic Analysis. Latest data:",
-                 tail(recent_data$short_date,1))) %>%
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/POPTHM") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
   hc_add_theme(
@@ -928,7 +938,8 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_credits(
     enabled = TRUE,
     text = paste("Not seasonally adjusted. Source: U.S. Bureau of Labor Statistics. Latest data:",
-                 tail(recent_data$short_date,1))) %>%
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/ILCHAM9URN") %>%
   hc_add_theme(
     hc_theme_bloom()
   )%>%
@@ -1040,7 +1051,8 @@ fig <- hchart(data,
   hc_credits(
     enabled = TRUE,
     text = paste("Source: U.S. Bureau of Labor Statistics. Latest data:",
-                 tail(recent_data$short_date,1))) %>%
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/LAUCN170190000000005") %>%
   hc_tooltip(
     shared = TRUE
   ) %>%
@@ -1109,7 +1121,8 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_credits(
     enabled = TRUE,
     text = paste("Source: U.S. Census Bureau. Latest data:",
-                 tail(recent_data$short_date,1))) %>%
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/ILCHAM9POP") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
   hc_add_theme(
@@ -1191,7 +1204,8 @@ fig <- hchart(housing_data,
   hc_credits(
     enabled = TRUE,
     text = paste("Source: Realtor.com. Latest data:",
-                 tail(housing_data$short_date,1))) %>%
+                 tail(housing_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/ACTLISCOU17019") %>%
   hc_xAxis(title = list(text = NULL)) %>%
   #hc_tooltip(shared = TRUE) %>%
   hc_add_theme(
@@ -1413,7 +1427,8 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_credits(
     enabled = TRUE,
     text = paste("Source: Institute of Government and Public Affairs at the University of Illinois. Latest data:",
-                 tail(recent_data$short_date,1))) %>%
+                 tail(recent_data$short_date,1)),
+    href = "https://igpa.uillinois.edu/policy-initiatives/flash-index") %>%
   hc_yAxis(title = "",
            plotLines = list(
              list(
@@ -1488,7 +1503,8 @@ fig <- hchart(data, "line", hcaes(x = date,
   hc_credits(
     enabled = TRUE,
     text = paste("Source: U.S. Census Bureau. Latest data:",
-                 tail(recent_data$short_date,1))) %>%
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/ILPOP") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
   hc_add_theme(
