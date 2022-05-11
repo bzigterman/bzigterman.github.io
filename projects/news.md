@@ -9,25 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:44 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/10/world/ukraine-russia-war-news">What Happened on Day 76 of the War in Ukraine</a> NYT: The Russian military, despite missteps, has gained near total control of the Donbas region. 
  <p class="updated_time"> 12:27 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Al Jazeera Journalist Is Killed During Clashes in West Bank</a> NYT: The circumstances surrounding the fatal shooting of Shireen Abu Akleh, a veteran journalist, are still unclear. 
  <p class="updated_time"> 12:02 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098144813/australia-says-most-great-barrier-reef-coral-studied-this-year-was-bleached">Australia says most Great Barrier Reef coral studied this year was bleached</a> NPR: Australian scientists confirm the mass bleaching, yet are hopeful the world's largest coral reef ecosystem can recover. 
- <p class="updated_time"> 11:35 PM CT, May. 10 </p> 
+ <p class="updated_time"> 11:50 PM CT, May. 10 </p> 
  <a href="https://www.wsj.com/articles/nearly-encircled-ukraines-last-stronghold-in-luhansk-resists-russian-onslaught-11652182875">Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught</a> WSJ: Nearly Encircled, Ukraine’s Last Stronghold in Luhansk Resists Russian Onslaught 
- <p class="updated_time"> 11:10 PM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/live/2022/05/10/world/ukraine-russia-war-news">Live Updates: House Approves $40 Billion in Emergency Aid for Ukraine</a> NYT: The Russian military, despite missteps, has gained near total control of the Donbas region. 
  <p class="updated_time"> 10:53 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/asia/china-shanghai-beijing-covid.html">As Shanghai’s Covid Cases Fall, China’s Restrictions Tighten</a> NYT: Schools are closed indefinitely in Beijing, while the last subway lines in Shanghai that were still running have ceased operation. 
- <p class="updated_time"> 10:35 PM CT, May. 10 </p> 
+ <p class="updated_time"> 10:50 PM CT, May. 10 </p> 
  <a href="https://www.wsj.com/articles/western-economies-are-creaking-under-high-energy-prices-with-no-relief-in-sight-11652198600">Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight</a> WSJ: Western Economies Are Creaking Under High Energy Prices, With No Relief in Sight 
  <p class="updated_time"> 10:33 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/french-military-ukraine.html">For French Military, War in Ukraine Prompts a Shift in Focus</a> NYT: While it is in Europe’s interest to weaken Moscow, the chief of staff of France’s military says, Russia may someday need to play a part in a global security plan. 
- <p class="updated_time"> 09:35 PM CT, May. 10 </p> 
+ <p class="updated_time"> 09:50 PM CT, May. 10 </p> 
  <a href="https://www.wsj.com/articles/russia-strikes-shopping-mall-warehouse-in-odessa-after-victory-day-celebrations-11652182102">U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine</a> WSJ: U.S. Spy Chief Sees Putin Preparing for Long Fight in Ukraine 
  <p class="updated_time"> 09:14 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/ukraine-russia-donbas.html">Ukraine War’s Geographic Reality: Russia Has Seized Much of the East</a> NYT: Despite many stumbles and setbacks, the Russian military has gained near total control of the Donbas region, giving the Kremlin huge leverage in any future talks. 
- <p class="updated_time"> 08:35 PM CT, May. 10 </p> 
+ <p class="updated_time"> 08:50 PM CT, May. 10 </p> 
  <a href="https://www.wsj.com/articles/paraguayan-organized-crime-prosecutor-shot-dead-on-beach-during-honeymoon-11652225668">Paraguayan Prosecutor Shot Dead on Beach During Honeymoon</a> WSJ: Paraguayan Prosecutor Shot Dead on Beach During Honeymoon 
  <p class="updated_time"> 08:33 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61401184?at_medium=RSS&at_campaign=KARANGA">Ex-prison guard Vicky White and inmate Casey White 'planned shootout' if captured</a> BBC: Police said firearms were found in the vehicle the pair was driving, along with thousands in cash. 
@@ -37,10 +37,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61339182?at_medium=RSS&at_campaign=KARANGA">Sundiata Acoli: US Black Panther wins parole after half a century</a> BBC: Sundiata Acoli, 85, has been in prison for almost five decades for the 1973 murder of a policeman. 
  <p class="updated_time"> 08:05 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61403318?at_medium=RSS&at_campaign=KARANGA">Paraguayan anti-mafia prosecutor killed on Colombia honeymoon</a> BBC: Paraguayan Marcelo Pecci was on an idyllic Colombian island beach when he was shot by two gunmen. 
+ <p class="updated_time"> 07:50 PM CT, May. 10 </p> 
+ <a href="https://www.wsj.com/articles/another-marcos-rises-in-the-philippines-but-how-does-he-plan-to-govern-11652170387">Another Marcos Rises in the Philippines, but How Does He Plan to Govern?</a> WSJ: Another Marcos Rises in the Philippines, but How Does He Plan to Govern? 
  <p class="updated_time"> 07:35 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61403343?at_medium=RSS&at_campaign=KARANGA">Eurovision 2022: Emotions run high as Ukraine's Kalush Orchestra qualify for final</a> BBC: Ukrainian fans celebrated in Turin as the Kalush Orchestra cement their position as favourites to win. 
- <p class="updated_time"> 07:35 PM CT, May. 10 </p> 
- <a href="https://www.wsj.com/articles/another-marcos-rises-in-the-philippines-but-how-does-he-plan-to-govern-11652170387">Another Marcos Rises in the Philippines, but How Does He Plan to Govern?</a> WSJ: Another Marcos Rises in the Philippines, but How Does He Plan to Govern? 
  <p class="updated_time"> 07:32 PM CT, May. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61402984?at_medium=RSS&at_campaign=KARANGA">Canada MP regrets calling into debate from toilet</a> BBC: Opposition MPs noticed the familiar background on Liberal MP Shafqat Ali's screen. 
  <p class="updated_time"> 07:31 PM CT, May. 10 </p> 
