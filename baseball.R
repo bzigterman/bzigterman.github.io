@@ -1159,18 +1159,13 @@ imageurl: https://bzigterman.com/plots/mlb_wild_card.png
 
 ",better_wild_card_standings_table_html,"
 
-<picture>
-  <source srcset=\"{{ site.baseurl }}/plots/mlb_wild_card.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"{{ site.baseurl }}/plots/mlb_wild_card_mobile.png\" alt=\"\" />
-</picture>
-
+<div class = \"standings\">
 <iframe src=\"/interactive/al_standings.html\" width=\"100%\" height=\"400\"> 
 </iframe>
 
 <iframe src=\"/interactive/nl_standings.html\" width=\"100%\" height=\"400\"> 
 </iframe>
-
+</div>
 
 <p class=\"updated_time\">Source: <a href=\"https://github.com/fivethirtyeight/data/tree/master/mlb-elo\">FiveThirtyEight</a>. <a href=\"https://github.com/fivethirtyeight/data/blob/master/LICENSE\">CC-BY-4.0 License</a>.</p> 
 
