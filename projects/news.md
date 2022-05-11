@@ -9,42 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:35 AM CT, May. 11 </p> 
+ <p class="updated_time"> 09:23 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/middleeast/shireen-abu-akleh-al-jazeera-dead.html">Shireen Abu Akleh, Palestinian Journalist, Dies, Aged 51</a> NYT: Ms. Abu Akleh, a Palestinian American reporter who was killed in the West Bank on Wednesday, was a household name across the Middle East. 
+ <p class="updated_time"> 09:21 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/live/2022/05/11/world/ukraine-russia-war-news">Ukraine Live Updates: E.U. Falters in Bid to Adopt Russian Oil Embargo, Showing Risks of Prolonged War</a> NYT: E.U. ambassadors broke off talks for the day in Brussels, having failed to persuade Hungary, which has emerged as a possible spoiler to European unity. In Washington, the House endorsed a $40 billion aid package for Ukraine, which awaits Senate approval. 
+ <p class="updated_time"> 09:13 AM CT, May. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61403320?at_medium=RSS&at_campaign=KARANGA">Al Jazeera reporter killed during Israeli raid in West Bank</a> BBC: Israel and the TV channel trade accusations over who was to blame for shooting Shireen Abu Aqla. 
+ <p class="updated_time"> 09:05 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The circumstances surrounding the fatal shooting of Shireen Abu Akleh, a Palestinian American journalist, were not immediately clear. 
  <p class="updated_time"> 08:27 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/eu-masks-air-travel.html">E.U. Will No Longer Recommend Masks for Air Travel</a> NYT: The decision came as countries across the bloc were loosening restrictions in response to the current rates of vaccination and naturally acquired immunity. 
- <p class="updated_time"> 08:23 AM CT, May. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61403320?at_medium=RSS&at_campaign=KARANGA">Al Jazeera reporter killed during Israeli raid in West Bank</a> BBC: Israel and the TV channel trade accusations over who was to blame for shooting Shireen Abu Aqla. 
+ <p class="updated_time"> 08:24 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine Accuses Russia of Stealing Its Grain</a> WSJ: Ukraine Accuses Russia of Stealing Its Grain 
  <p class="updated_time"> 08:11 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61387881?at_medium=RSS&at_campaign=KARANGA">The 'jockstrap' that revolutionised women's sports</a> BBC: The sports bra is honoured as a serious invention. The women behind its creation are chuffed. 
  <p class="updated_time"> 08:02 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/canada/trucker-convoy-protest-conservatives.html">Canada’s Trucker Protests Have a New Political Champion</a> NYT: Prime Minister Justin Trudeau condemned the protest as illegal. Now some of his key opponents are embracing it. 
- <p class="updated_time"> 07:58 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine Accuses Russia of Stealing Its Grain</a> WSJ: Ukraine Accuses Russia of Stealing Its Grain 
  <p class="updated_time"> 07:40 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1096856581/how-one-of-russias-neighbors-is-dealing-with-putins-propaganda">How one of Russia's neighbors is dealing with Putin's propaganda </a> NPR: On the border with Russia, the Estonian town of Narva has strong cultural and linguistic ties with Russia. That makes it a target of Russian disinformation; something Estonians are trying to combat. 
+ <p class="updated_time"> 07:24 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/russias-war-in-ukraine-sparks-bomb-shelter-revival-in-poland-11652261400">Russia’s War in Ukraine Sparks Bomb-Shelter Revival in Poland</a> WSJ: Russia’s War in Ukraine Sparks Bomb-Shelter Revival in Poland 
  <p class="updated_time"> 07:21 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61403510?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Ex-PM flees to naval base as arson attacks spread</a> BBC: Troops have orders to shoot looters on sight as an economic crisis sparks violence and arson. 
- <p class="updated_time"> 07:17 AM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The circumstances surrounding the fatal shooting of Shireen Abu Akleh, a Palestinian American journalist, were not immediately clear. 
  <p class="updated_time"> 07:10 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61378196?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia pushed back in north-east - report from front line</a> BBC: Correspondent Quentin Sommerville and cameraman Darren Conway are with Ukrainian troops as they advance. 
- <p class="updated_time"> 06:58 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/russias-war-in-ukraine-sparks-bomb-shelter-revival-in-poland-11652261400">Russia’s War in Ukraine Sparks Bomb-Shelter Revival in Poland</a> WSJ: Russia’s War in Ukraine Sparks Bomb-Shelter Revival in Poland 
- <p class="updated_time"> 05:58 AM CT, May. 11 </p> 
+ <p class="updated_time"> 06:24 AM CT, May. 11 </p> 
  <a href="https://www.wsj.com/articles/biden-administration-asks-congress-to-approve-new-weapons-deal-with-turkey-11652262674">Biden Administration Asks Congress to Approve New Weapons Deal With Turkey</a> WSJ: Biden Administration Asks Congress to Approve New Weapons Deal With Turkey 
  <p class="updated_time"> 05:57 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098157067/al-jazeera-shireen-abu-akleh-killed-israel">Al Jazeera's Shireen Abu Akleh is killed while reporting on an Israeli raid</a> NPR: Abu Akleh, a 51-year-old U.S. citizen, had been covering a military raid on the Jenin refugee camp "when she was shot in the face by a single bullet, despite wearing a press vest," Al Jazeera said. 
- <p class="updated_time"> 04:58 AM CT, May. 11 </p> 
+ <p class="updated_time"> 05:24 AM CT, May. 11 </p> 
  <a href="https://www.wsj.com/articles/china-inflation-accelerates-modestly-11652251867">China Consumer Inflation Accelerates Modestly</a> WSJ: China Consumer Inflation Accelerates Modestly 
+ <p class="updated_time"> 04:24 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City 
  <p class="updated_time"> 04:05 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/bulgaria-russia-ukraine.html">Bulgaria Takes Unusual Stand Against Russia With Sanctions</a> NYT: Bulgaria has imposed economic sanctions on Russia, offered to repair broken military equipment for Ukraine and expelled Russian diplomats. 
  <p class="updated_time"> 04:00 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1097644931/solar-panels-solar-power-u-s-investigates-china-trade-rules">Solar projects are on hold as U.S. investigates whether China is skirting trade rules</a> NPR: A federal investigation of allegations that China is illegally avoiding duties on solar panels sold to U.S. companies is putting the brakes on the nation's solar power build-out. 
  <p class="updated_time"> 04:00 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/asia/india-hindu-muslim-violence.html">India’s Dangerous New Pattern of Communal Tensions</a> NYT: As a national campaign by right-wing groups inflames local tensions, Muslim communities are facing the harshest punishments, according to activists, analysts and retired officials. 
- <p class="updated_time"> 03:58 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City 
  <p class="updated_time"> 03:45 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/leonid-kravchuk-dead.html">Leonid Kravchuk, First President of Ukraine, Dies at 88</a> NYT: Days after his election, he had signed a multinational agreement that formally declared the dissolution of the Soviet Union. 
  <p class="updated_time"> 03:19 AM CT, May. 11 </p> 
@@ -173,8 +175,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/09/world/europe/starmer-labour-covid-rules.html">U.K. Labour Leader Pledges to Resign if Police Find He Broke Covid Rules</a> NYT: But Keir Starmer maintained that he was within the law when he had a beer with takeout food during a campaign meeting last year. 
  <p class="updated_time"> 09:10 AM CT, May. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61376503?at_medium=RSS&at_campaign=KARANGA">Red liquid thrown over Russian ambassador to Poland at WWII cemetery</a> BBC: The moment red liquid is thrown over Russia's ambassador to Poland at a WWII cemetery. 
- <p class="updated_time"> 05:59 AM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/2022/05/09/world/asia/taiwan-china-covid.html">Taiwan Pivots From ‘Zero Covid’ as Beijing Doubles Down</a> NYT: The government’s shift reflects a recognition that stringent pandemic measures were stifling economic activity and eroding the island’s international competitiveness. 
  <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/europe/bullying-children-russia-war-europe.html">In Europe’s Schoolyards, Putin’s War Hurts Russian-Speaking Children</a> NYT: Across the continent, pupils face bullying, harassment and humiliation over the invasion of Ukraine, another perverse effect of a war that is overwhelmingly affecting the innocent. 
  <p class="updated_time"> 04:00 AM CT, May. 09 </p> 
@@ -186,6 +186,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:11 AM CT, May. 11 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/us/politics/overdose-deaths-fentanyl-meth.html">Overdose Deaths Continue Rising, With Fentanyl and Meth Key Culprits</a> NYT: New data show a surge in overdose deaths involving fentanyl and methamphetamine; overall, the nation saw a 15 percent increase in deaths from overdoses in 2021. 
  <p class="updated_time"> 08:31 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1097666334/roe-birth-control">What would overturning Roe mean for birth control?</a> NPR: Overturning Roe v. Wade could threaten birth control and other care, experts say. 
  <p class="updated_time"> 08:01 AM CT, May. 11 </p> 
@@ -199,7 +201,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:01 AM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/democrats-florida-voting-elections-00031613">'Stop being so doom and gloom': Democrats launch $15M effort to 'Blue Shift Florida'</a> Politico: “I’m proud to work hand-in-hand with Democrats throughout the state to build a bilingual, grassroots movement that will take back Florida,” said Rep. Val Demings (D-Fla.). 
  <p class="updated_time"> 04:29 AM CT, May. 11 </p> 
- <a href="https://www.npr.org/2022/05/11/1097966775/inflation-poor-income-inequality-biden-federal-reserve">Inflation may be easing — but low-income people are still paying the steepest prices</a> NPR: The annual inflation rate likely eased somewhat in April, but not enough to meaningfully reduce the burden on lower-income Americans. 
+ <a href="https://www.npr.org/2022/05/11/1097966775/inflation-poor-income-inequality-biden-federal-reserve">Inflation may be easing — but low-income people are still paying the steepest prices</a> NPR: The annual inflation rate eased somewhat in April, but not enough to meaningfully reduce the burden on lower-income Americans. 
  <p class="updated_time"> 04:27 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1096623939/accusations-grooming-political-attack-homophobic-origins">Accusations of 'grooming' are the latest political attack — with homophobic origins</a> NPR: Old accusations of LGBTQ people "grooming" and "recruiting" children have gained new traction. When have we heard this before? What counternarrative are activists using to win over public opinion? 
  <p class="updated_time"> 04:10 AM CT, May. 11 </p> 
@@ -272,8 +274,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/us/alfred-baldwin-dead.html">Alfred Baldwin, Lookout for Watergate Burglars, Dies at 83</a> NYT: A co-conspirator, he became an early witness for the government, which helped lead to the indictment of the burglars and linked them with the White House. 
  <p class="updated_time"> 05:00 PM CT, May. 10 </p> 
  <a href="https://www.cnn.com/2022/05/10/politics/georgia-trump-investigation-fake-electors-witness-interviews/index.html">Multiple fake electors cooperating in Georgia criminal probe of Trump's efforts to overturn 2020 election</a> CNN: Prosecutors in Georgia investigating former President Donald Trump's efforts to overturn the 2020 election have interviewed several individuals who served as fake GOP electors from the state, according to two sources familiar with the ongoing criminal probe. 
- <p class="updated_time"> 04:51 PM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/2022/05/10/us/politics/emergent-fda-vaccine-covid-contaminated.html">Emergent Hid Evidence of Covid Vaccine Problems at Plant, Report Says</a> NYT: The report sheds new light on executives’ worries about deficiencies in the company’s quality control systems at its troubled Baltimore plant; no contaminated doses were ever released to the public. 
  <p class="updated_time"> 04:51 PM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/senate-republicans-mehmet-oz-dual-citizenship-00031541">Senate Republicans decry 'unsavory' attacks on Oz's dual citizenship</a> Politico: Two of the Donald Trump-backed TV star's GOP primary rivals in Pennsylvania are blasting his ties to Turkey. But Oz's potential future colleagues say the attacks are unwarranted. 
  <p class="updated_time"> 04:47 PM CT, May. 10 </p> 
