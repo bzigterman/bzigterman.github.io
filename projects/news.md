@@ -9,8 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:22 AM CT, May. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61420185?at_medium=RSS&at_campaign=KARANGA">Finland to apply for Nato membership 'without delay'</a> BBC: Russia has threatened unspecified measures if the country abandons its policy of military non-alignment. 
+ <p class="updated_time"> 03:22 AM CT, May. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61416760?at_medium=RSS&at_campaign=KARANGA">North Korea: 'First' Covid cases prompt strict national lockdown</a> BBC: North Korea has rejected any kind of vaccine, with Kim Jong-un now ordering "maximum emergency" controls. 
+ <p class="updated_time"> 02:58 AM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html">Ukrainians Fight Russian Troops Up Close Along the Eastern Front</a> NYT: In some villages along the front, Ukrainian and Russian soldiers face off at close quarters, sometimes within eyesight of one another. 
+ <p class="updated_time"> 02:50 AM CT, May. 12 </p> 
+ <a href="https://www.npr.org/2022/05/12/1098453568/catholic-cardinal-arrested-in-hong-kong">A Catholic cardinal and others are arrested on Hong Kong security law</a> NPR: The White House and U.S. politicians join others around the world in calling for the release of a retired archbishop, singer and others in the Chinese territory. 
  <p class="updated_time"> 02:28 AM CT, May. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61420185?at_medium=RSS&at_campaign=KARANGA">Finland to apply for Nato membership 'without delay'</a> BBC: The country's leaders call for a rapid decision, in a move prompted by Russia's invasion of Ukraine. 
+ <a href="https://www.wsj.com/articles/finlands-leaders-announce-intention-to-apply-for-nato-membership-11652340796">Finland’s Leaders Announce Intention to Apply for NATO Membership</a> WSJ: Finland’s Leaders Announce Intention to Apply for NATO Membership 
  <p class="updated_time"> 02:14 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/shireen-abu-akleh-al-jazeera-dead.html">Shireen Abu Akleh, Palestinian Journalist, Dies, Aged 51</a> NYT: Ms. Abu Akleh, 51, a Palestinian American reporter who was killed in the West Bank on Wednesday, was a household name across the Middle East. 
  <p class="updated_time"> 02:00 AM CT, May. 12 </p> 
@@ -19,44 +27,36 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/12/1098454391/north-korea-confirms-1st-covid-outbreak-kim-orders-lockdown">North Korea confirms 1st COVID outbreak, Kim orders lockdown</a> NPR: While the scale of the outbreak isn't known, it could have serious consequences because the country has a poor health care system and its 26 million people are believed to be mostly unvaccinated. 
  <p class="updated_time"> 01:53 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61419699?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: UN chief appalled at Al Jazeera reporter's killing</a> BBC: Shireen Abu Aqla was shot dead while covering a raid by Israeli forces in the occupied West Bank. 
- <p class="updated_time"> 01:44 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/natural-gas-prices-rise-in-europe-after-ukraine-cuts-flows-11652255011">Ukraine Reduced Russian Gas Flowing to Europe Through Key Pipeline</a> WSJ: Ukraine Reduced Russian Gas Flowing to Europe Through Key Pipeline 
  <p class="updated_time"> 01:43 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/05/11/world/ukraine-russia-war-news">What Happened on Day 77 of the War in Ukraine</a> NYT: Some experts say that Putin is calculating that Western leaders will tire of the protracted struggle before he does, especially if the price is turbocharged inflation and energy shortages. 
  <p class="updated_time"> 01:43 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/ukraine-russia-western-solidarity.html">Economic Toll of Russia’s War in Ukraine Tests Western Solidarity</a> NYT: Russia’s president is calculating that Western leaders will tire before he does of a protracted struggle in Ukraine, especially if the price is turbocharged inflation and energy shortages. 
+ <p class="updated_time"> 01:28 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine to Try Russian Soldier for War Crimes</a> WSJ: Ukraine to Try Russian Soldier for War Crimes 
  <p class="updated_time"> 01:12 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/asia/north-korea-covid.html">North Korea Reports Its First Covid Cases</a> NYT: The country’s leader, Kim Jong-un, ordered a national lockdown after a subvariant of the Omicron variant of the coronavirus was found in the capital. 
- <p class="updated_time"> 12:44 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107">China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer</a> WSJ: China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer 
+ <p class="updated_time"> 12:28 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-locks-down-after-reporting-first-local-covid-19-infection-11652320668">Unvaccinated North Korea Locks Down After Reporting First Local Covid Infection</a> WSJ: Unvaccinated North Korea Locks Down After Reporting First Local Covid Infection 
  <p class="updated_time"> 11:53 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61354625?at_medium=RSS&at_campaign=KARANGA">The long struggle to return Cambodia's looted treasures</a> BBC: The east Asian country claims the V&A and British Museum both hold stolen antiquities. 
- <p class="updated_time"> 11:44 PM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/china-censors-who-chiefs-call-to-end-unsustainable-covid-19-strategy-11652270048">China Censors WHO’s Call to End Covid-19 Strategy Dubbed Unsustainable</a> WSJ: China Censors WHO’s Call to End Covid-19 Strategy Dubbed Unsustainable 
- <p class="updated_time"> 11:19 PM CT, May. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61416760?at_medium=RSS&at_campaign=KARANGA">North Korea orders strict lockdown with first official Covid cases</a> BBC: State media report the country's first outbreak, but observers believe the virus has long been present. 
+ <p class="updated_time"> 11:28 PM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107">China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer</a> WSJ: China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer 
  <p class="updated_time"> 11:01 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/12/science/black-hole-photo.html">Has the Milky Way’s Black Hole Come to Light?</a> NYT: The Event Horizon Telescope reaches again for a glimpse of the “unseeable.” 
- <p class="updated_time"> 10:44 PM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine to Try Russian Soldier for War Crimes</a> WSJ: Ukraine to Try Russian Soldier for War Crimes 
- <p class="updated_time"> 10:43 PM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html">Ukrainians Fight Russian Troops Up Close Along the Eastern Front</a> NYT: In some villages along the front, Ukrainian and Russian soldiers face off at close quarters, sometimes within eyesight of one another. 
  <p class="updated_time"> 10:37 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/politics/native-american-children-schools-abuse.html">Report Catalogs Abuse of Native American Children at Former Government Schools</a> NYT: Interior Secretary Deb Haaland called for a review last year, after the discovery of hundreds of unmarked graves of children who attended similar schools in Canada. 
+ <p class="updated_time"> 10:28 PM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-national-security-police-arrest-outspoken-cardinal-11652280366">Hong Kong National Security Police Arrest Outspoken Cardinal</a> WSJ: Hong Kong National Security Police Arrest Outspoken Cardinal 
  <p class="updated_time"> 10:14 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/eu-masks-air-travel.html">E.U. Will No Longer Recommend Masks for Air Travel</a> NYT: The decision came as countries across the bloc were loosening restrictions in response to the current rates of vaccination and naturally acquired immunity. 
  <p class="updated_time"> 10:07 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/bulgaria-russia-ukraine.html">Bulgaria Takes Unusual Stand Against Russia With Sanctions</a> NYT: Bulgaria has imposed economic sanctions on Russia, offered to repair broken military equipment for Ukraine and expelled Russian diplomats. 
- <p class="updated_time"> 09:44 PM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City 
  <p class="updated_time"> 09:19 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/covid-fears-us.html">Only a Third of Americans Were Worried About Covid in April, Poll Finds</a> NYT: The survey, from Gallup, was conducted between April 15 and April 23, at a time when new cases were increasing after plummeting from highs seen during the winter Omicron surge. 
  <p class="updated_time"> 09:18 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61417972?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Gotabaya Rajapaksa speech fails to reassure as crisis grows</a> BBC: President Gotabaya Rajapaksa again ignored calls to resign amid protests over an economic crisis. 
  <p class="updated_time"> 08:45 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The network and Palestinian authorities blamed Israeli troops for the killing. Israel said the blame could lie with Palestinian gunmen. 
- <p class="updated_time"> 08:38 PM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/north-korea-locks-down-after-reporting-first-local-covid-19-infection-11652320668">Unvaccinated North Korea Locks Down After Reporting First Local Covid Infection</a> WSJ: North Korea, which hasn’t vaccinated its population, imposed a lockdown in all its major cities after it reported its first local case of Covid-19 more than two years after the pandemic began. 
  <p class="updated_time"> 07:48 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61416757?at_medium=RSS&at_campaign=KARANGA">Google Translate adds 24 new languages</a> BBC: Ten African languages are among the additions to the US tech giant's interpretation tool. 
  <p class="updated_time"> 07:41 PM CT, May. 11 </p> 
@@ -77,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61415679?at_medium=RSS&at_campaign=KARANGA">Passersby in Florida rush to stop moving car with ill driver</a> BBC: The car is seen drifting towards traffic before strangers intervened on a busy road in Florida. 
  <p class="updated_time"> 05:16 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/russia-war-crimes-trial-ukraine.html">Ukraine Launches First War Crimes Trial for Russian Soldier</a> NYT: A 21-year-old Russian soldier is accused of following orders to shoot an unarmed cyclist four days into Russia’s invasion of Ukraine. 
- <p class="updated_time"> 04:38 PM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-national-security-police-arrest-outspoken-cardinal-11652280366">Hong Kong National Security Police Arrest Outspoken Cardinal</a> WSJ: Retired Cardinal Joseph Zen, age 90 and now bishop emeritus of Hong Kong, was arrested in a swoop on prominent prodemocracy figures, also including pop singer Denise Ho and a former lawmaker, Margaret Ng. 
  <p class="updated_time"> 04:28 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61415378?at_medium=RSS&at_campaign=KARANGA">North Carolina: The moment a beach house collapsed into the sea</a> BBC: The stilts holding up the house gave way after being struck by high winds and strong tides. 
  <p class="updated_time"> 04:18 PM CT, May. 11 </p> 
@@ -135,6 +133,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61412343?at_medium=RSS&at_campaign=KARANGA">Joly Germine: Haitian gang leader indicted over missionary abductions</a> BBC: Joly Germine allegedly directed the kidnappings of 17 Christian missionaries from a Haitian prison. 
  <p class="updated_time"> 10:25 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/ukraine-war-jobs.html">Nearly One-Third of Ukraine’s Jobs Are Lost Amid War, U.N. Labor Agency Says</a> NYT: The report highlights the grim economic toll of Russia’s aggression and the challenges that lie ahead for Ukraine and other nations. 
+ <p class="updated_time"> 10:08 AM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Palestinian officials blamed Israeli forces for Shireen Abu Akleh’s killing while Israel said its information indicated Palestinian militants were responsible. 
  <p class="updated_time"> 10:03 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61406808?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Snake Island and battle for control in Black Sea</a> BBC: This rocky outcrop has been fiercely contested for weeks and has vital strategic importance. 
  <p class="updated_time"> 09:47 AM CT, May. 11 </p> 
@@ -175,8 +175,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-61385264?at_medium=RSS&at_campaign=KARANGA">‘If I die no-one will know’: Covid and Hong Kong’s 'cage men'</a> BBC: The Omicron variant overwhelmed the city's healthcare system resulting in many deaths. 
  <p class="updated_time"> 05:08 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/middleeast/ukraine-crowdsourcing-online-donations.html">Crowdfunding a War: How Online Appeals Are Bringing Weapons to Ukraine</a> NYT: A campaign to crowdfund donations and weapons is producing millions of dollars as well as a bounty of smaller weapons and other military equipment for the Ukrainian military. 
- <p class="updated_time"> 04:20 PM CT, May. 10 </p> 
- <a href="https://www.npr.org/2022/05/10/1097981420/russia-ukraine-war-what-happened-today-may-10">Russia-Ukraine war: What happened today (May 10)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:33 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/spain-intelligence-chief-ousted.html">Spain’s Intelligence Leader Ousted Over Agency’s Use of Pegasus Spyware</a> NYT: Paz Esteban, the first woman to hold the job, was caught up in a scandal over her agency’s use of Pegasus spyware. 
  <p class="updated_time"> 02:54 PM CT, May. 10 </p> 
