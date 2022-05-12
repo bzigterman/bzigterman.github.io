@@ -5,9 +5,6 @@ permalink: /projects/economy/usa
 imageurl: https://bzigterman.com/plots/unemployment_rate.png
 ---
 
-<iframe src="/interactive/initial_claims.html" width="100%" height="300"> 
-</iframe>
-
 <iframe src="/interactive/us_unemployment_rate.html" width="100%" height="300"> 
 </iframe>
 
