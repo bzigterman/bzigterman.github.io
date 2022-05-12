@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:20 PM CT, May. 12 </p> 
+ <a href="https://www.npr.org/2022/05/12/1098585366/in-puerto-rico-the-arrests-of-elected-officials-worsen-trust-in-government">In Puerto Rico, the arrests of elected officials worsen trust in government</a> NPR: NPR's Adrian Florido talks with Benjamin Torres Gotay, a reporter and columnist for Puerto Rico's El Nuevo Dia, about recent arrests of elected officials related to corruption. 
+ <p class="updated_time"> 04:01 PM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/12/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Sees Threat as Finland Moves Closer to Joining NATO</a> NYT: Finland’s president and prime minister endorsed joining the alliance, another sign of how Russia’s invasion has strengthened NATO instead of weakening it. Moscow said it would “take necessary measures” to protect itself, as Vladimir Putin shows no sign of backing down in Ukraine. 
  <p class="updated_time"> 03:55 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098467785/russia-ukraine-war-what-happened-today-may-12">Russia-Ukraine war: What happened today (May 12)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:54 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098585422/russia-may-become-the-only-non-nato-nation-in-the-arctic-sparking-fears-of-confl">Russia may become the only non-NATO nation in the Arctic, sparking fears of conflict</a> NPR: For decades, Russia and other nations collaborated on scientific and environmental issues in the Arctic. Now, there's concern that Finland and Sweden joining NATO could spark a military buildup there. 
- <p class="updated_time"> 03:54 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/05/12/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Sees Threat as Finland Moves Closer to Joining NATO</a> NYT: Finland’s president and prime minister endorsed joining the alliance, another sign of how Russia’s invasion has strengthened NATO instead of weakening it. Moscow said it would “take necessary measures” to protect itself, as Vladimir Putin shows no sign of backing down in Ukraine. 
  <p class="updated_time"> 03:53 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/science/black-hole-photo.html">The Milky Way’s Black Hole Comes to Light</a> NYT: The Event Horizon Telescope has once again caught sight of the “unseeable.” 
  <p class="updated_time"> 03:43 PM CT, May. 12 </p> 
@@ -30,13 +32,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098585352/journalist-kathy-gannon-retires-after-35-years-covering-afghanistan">Journalist Kathy Gannon retires after 35 years covering Afghanistan</a> NPR: NPR's Ailsa Chang speaks with Kathy Gannon, who is retiring after 35 years of covering Afghanistan and Pakistan for The Associated Press, about the most significant moments from those years. 
  <p class="updated_time"> 03:23 PM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/video/series/in-depth-features/ukraine-road-of-death-shows-russians-fired-on-civilians-a-video-investigation/23BCD65C-AF57-4316-8FE9-3F3FD0A3CD58">Ukraine’s ‘Road of Death’: Video Investigation Shows Russians Fired on Civilians</a> WSJ: Ukraine’s ‘Road of Death’: Video Investigation Shows Russians Fired on Civilians 
+ <p class="updated_time"> 03:23 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/biden-covid-deaths-flags-half-staff.html">Biden Orders Federal Flags to Fly at Half-Staff as U.S. Covid Toll Nears One Million</a> NYT: The president said in a formal statement that the United States must ‘remain vigilant’ against a virus that has ‘forever changed’ the country. 
  <p class="updated_time"> 03:18 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/05/12/world/al-jazeera-journalist-killed-west-bank">Latest Updates: Investigation of Journalist’s Killing May Hinge on Bullet</a> NYT: The Palestinian Authority said it would not let Israeli officials examine the bullet that killed Shireen Abu Akleh in the occupied West Bank during an Israeli raid. Israel said that is the only way to determine who fired it. 
  <p class="updated_time"> 03:02 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61429761?at_medium=RSS&at_campaign=KARANGA">Rwandan genocide fugitive Protais Mpiranya confirmed dead</a> BBC: Protais Mpiranya led the presidential guard that killed the then-PM and 10 Belgian peacekeepers. 
- <p class="updated_time"> 03:01 PM CT, May. 12 </p> 
- <a href="https://www.wsj.com/video/series/in-depth-features/ukraine-road-of-death-shows-russians-fired-on-civilians-a-video-investigation/23BCD65C-AF57-4316-8FE9-3F3FD0A3CD58">Ukraine’s ‘Road of Death’: Video Investigation Shows Russians Fired on Civilians</a> WSJ: Ukraine’s ‘Road of Death’: Video Investigation Shows Russians Fired on Civilians 
  <p class="updated_time"> 02:51 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61430573?at_medium=RSS&at_campaign=KARANGA">Coastal fire: California mansions burn as wildfires spread</a> BBC: Across North America, wildfire crews are gearing up for a particularly difficult season. 
  <p class="updated_time"> 02:45 PM CT, May. 12 </p> 
@@ -47,36 +49,36 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/world/europe/russian-money-uk-tories.html">U.K. Donor Said to Have Funneled Russian Money to Tories</a> NYT: The cash was part of a fund-raising blitz that helped propel Prime Minister Boris Johnson’s party to victory in 2019. Records track $630,225 to a Russian bank account. 
  <p class="updated_time"> 02:30 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/boris-johnson-response-sheleg-donation.html">Boris Johnson Sidesteps Question on Donation Flagged as Russia-Linked</a> NYT: Britain’s prime minister said all donations are disclosed “in the normal way.” The Conservative Party gave no sign it would return the money. 
+ <p class="updated_time"> 02:23 PM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/palestinians-reject-israeli-request-to-examine-bullet-that-killed-al-jazeera-journalist-11652350122">Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist</a> WSJ: Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist 
  <p class="updated_time"> 02:12 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/fbi-pegasus-spyware-israel.html">F.B.I. Told Israel It Wanted Pegasus Hacking Tool for Investigations</a> NYT: A 2018 letter from the bureau to the Israeli government is the clearest documentary evidence to date that the agency weighed using the spyware for law enforcement operations. 
- <p class="updated_time"> 02:01 PM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/palestinians-reject-israeli-request-to-examine-bullet-that-killed-al-jazeera-journalist-11652350122">Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist</a> WSJ: Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist 
  <p class="updated_time"> 01:37 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61429791?at_medium=RSS&at_campaign=KARANGA">Ranil Wickremesinghe: Sri Lanka's new prime minister faces uphill battle</a> BBC: He may enjoy good ties with India and the West but Ranil Wickremesinghe has little support at home. 
+ <p class="updated_time"> 01:23 PM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankan-president-appoints-new-prime-minister-after-protests-turn-deadly-11652373002">Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly</a> WSJ: Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly 
  <p class="updated_time"> 01:09 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/wagatha-christie-trial.html">Who Is ‘Wagatha Christie’? Let Us Explain. </a> NYT: The feud between two television personalities has made its way to a London courtroom and the front of British tabloids. Let us explain. 
- <p class="updated_time"> 01:01 PM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/sri-lankan-president-appoints-new-prime-minister-after-protests-turn-deadly-11652373002">Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly</a> WSJ: Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly 
  <p class="updated_time"> 12:37 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/asia/indonesia-podcast-deddy-corbuzier.html">Interview With Gay Couple Sparks Backlash in Indonesia</a> NYT: The segment on a popular podcast hosted by Deddy Corbuzier enraged religious leaders, highlighting the limits of tolerance for gay people in the Muslim-majority nation. 
+ <p class="updated_time"> 12:23 PM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-hold-the-line-in-donbas-as-western-heavy-weapons-join-the-battle-11652362422">Ukrainian Forces Hold the Line in Donbas as Western Heavy Weapons Join the Battle</a> WSJ: Ukrainian Forces Hold the Line in Donbas as Western Heavy Weapons Join the Battle 
  <p class="updated_time"> 12:23 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61429022?at_medium=RSS&at_campaign=KARANGA">Spain plans menstrual leave in new law for those with severe pain</a> BBC: Spain could become the first European country with menstrual pain leave under a proposed law. 
  <p class="updated_time"> 12:19 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098519669/ukraine-jobs-lost-5-million">Among the many losses of the war in Ukraine: nearly 5 million jobs</a> NPR: The International Labour Organization says employment losses could increase to seven million if hostilities continue, but that rapid recovery would be possible if fighting were to stop immediately. 
  <p class="updated_time"> 12:10 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/finland-nato.html">Finland’s Leaders Urge NATO Membership ‘Without Delay’</a> NYT: Public opinion in Finland has shifted significantly in favor of joining the alliance in the 11 weeks since Russia invaded Ukraine. 
- <p class="updated_time"> 12:01 PM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-hold-the-line-in-donbas-as-western-heavy-weapons-join-the-battle-11652362422">Ukrainian Forces Hold the Line in Donbas as Western Heavy Weapons Join the Battle</a> WSJ: Ukrainian Forces Hold the Line in Donbas as Western Heavy Weapons Join the Battle 
  <p class="updated_time"> 11:36 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/ukraine-russia-weapons.html">Life in a Ukrainian Unit: Diving for Cover, Waiting for Western Weapons</a> NYT: Analysts say the outcome of fighting now is riding on the accuracy, quantity and the striking power of long-range weapons. Ukraine is pleading for more. 
  <p class="updated_time"> 11:31 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61419699?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: Palestinians to refer journalist's killing to ICC</a> BBC: Shireen Abu Aqla was shot dead while covering a raid by Israeli forces in the occupied West Bank. 
  <p class="updated_time"> 11:28 AM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098508384/siemens-leaves-russia-over-ukraine-war">German industrial giant Siemens is leaving Russia after nearly 170 years</a> NPR: The company first arrived in Russia in 1851 to deliver devices for a major telegraph line. It primarily does maintenance work on high-speed trains these days — though it's now winding down operations. 
+ <p class="updated_time"> 11:23 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/turkish-court-upholds-prison-sentence-for-opposition-leader-11652374773">Turkish Court Upholds Prison Sentence for Opposition Leader</a> WSJ: Turkish Court Upholds Prison Sentence for Opposition Leader 
  <p class="updated_time"> 11:17 AM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098506394/russian-oil-ban-hungary-viktor-orban-european-union">One man stands between Europe and a ban on Russian oil: Hungary's Viktor Orban</a> NPR: The move has to be adopted unanimously, and Hungary — with a state oil company dependent on Russian imports and a populist leader friendlier toward Putin than most — has refused to go along. 
- <p class="updated_time"> 11:01 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/turkish-court-upholds-prison-sentence-for-opposition-leader-11652374773">Turkish Court Upholds Prison Sentence for Opposition Leader</a> WSJ: Turkish Court Upholds Prison Sentence for Opposition Leader 
  <p class="updated_time"> 10:53 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/climate/biden-oil-gas-lease-sales.html">Biden Administration Cancels Oil Drilling Sales in Alaska and Gulf of Mexico</a> NYT: Republicans link the move to rising gas prices while the administration said it was a result of conflicting legal opinions and a lack of interest among bidders. 
  <p class="updated_time"> 10:35 AM CT, May. 12 </p> 
@@ -123,8 +125,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html">Ukrainians Fight Russian Troops Up Close Along the Eastern Front</a> NYT: In some villages along the front, Ukrainian and Russian soldiers face off at close quarters, sometimes within eyesight of one another. 
  <p class="updated_time"> 02:50 AM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098453568/catholic-cardinal-arrested-in-hong-kong">A Catholic cardinal and others are arrested on Hong Kong security law</a> NPR: The White House and U.S. politicians join others around the world in calling for the release of a retired archbishop, singer and others in the Chinese territory. 
- <p class="updated_time"> 01:56 AM CT, May. 12 </p> 
- <a href="https://www.npr.org/2022/05/12/1098454391/north-korea-confirms-1st-covid-outbreak-kim-orders-lockdown">North Korea confirms 1st COVID outbreak as Kim orders lockdown</a> NPR: While the scale of the outbreak isn't known, it could have serious consequences because the country has a poor health care system and its 26 million people are believed to be mostly unvaccinated. 
  <p class="updated_time"> 01:43 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/ukraine-russia-western-solidarity.html">Economic Toll of Russia’s War in Ukraine Tests Western Solidarity</a> NYT: Russia’s president is calculating that Western leaders will tire before he does of a protracted struggle in Ukraine, especially if the price is turbocharged inflation and energy shortages. 
  <p class="updated_time"> 11:53 PM CT, May. 11 </p> 
@@ -185,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/us/politics/russia-cyberattack-ukraine-war.html">Russia Was Behind Cyberattack in Run-Up to Ukraine War, Investigation Finds</a> NYT: The February attack rattled Pentagon officials and private industry because it revealed new vulnerabilities in global communications systems. 
  <p class="updated_time"> 02:00 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/israeli-palestinian-mass-grave-tantura.html">‘Tantura’ Documentary Reopens Debate About Israel’s Foundational Story</a> NYT: Israeli soldiers had long denied killing prisoners after capturing an Arab seaside town, days after Israel’s creation. A new film provides fresh evidence — reopening a debate about Israel’s foundational story. 
- <p class="updated_time"> 10:53 PM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/2022/05/10/world/asia/china-shanghai-beijing-covid.html">As Shanghai’s Covid Cases Fall, China’s Restrictions Tighten</a> NYT: Schools are closed indefinitely in Beijing, while the last subway lines in Shanghai that were still running have ceased operation. 
  <p class="updated_time"> 09:14 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/ukraine-russia-donbas.html">Ukraine War’s Geographic Reality: Russia Has Seized Much of the East</a> NYT: Despite many stumbles and setbacks, the Russian military has gained near total control of the Donbas region, giving the Kremlin huge leverage in any future talks. 
  <p class="updated_time"> 06:51 PM CT, May. 10 </p> 
@@ -208,8 +206,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:18 PM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/us/politics/abortion-democrats.html">The Looming End to Abortion Rights Gives Liberal Democrats a Spark</a> NYT: The progressive wing of the Democratic Party appeared to be flagging until a draft Supreme Court decision overturning Roe v. Wade leaked — and shook the political world. 
+ <p class="updated_time"> 04:07 PM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/us/politics/conor-lamb-pennsylvania-congress.html">Conor Lamb Had All The Makings of a Front-Runner in Pennsylvania. So Why Is He Struggling?</a> NYT: In the Democratic primary on Tuesday in Pennsylvania, Mr. Lamb, the congressman running for Senate, has been a less competitive candidate than his supporters had hoped. 
  <p class="updated_time"> 03:58 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/biden-covid-summit.html">At Biden’s Summit, Other Nations Pledge Billions to Bolster Pandemic Response</a> NYT: The meeting was meant to reinvigorate the response as vaccination and testing lag. Many attendees said Covid fatigue had become nearly as big a danger as Covid itself. 
+ <p class="updated_time"> 03:55 PM CT, May. 12 </p> 
+ <a href="https://www.npr.org/2022/05/12/1098467785/russia-ukraine-war-what-happened-today-may-12">Russia-Ukraine war: What happened today (May 12)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:44 PM CT, May. 12 </p> 
+ <a href="https://www.politico.com/news/2022/05/12/white-house-infant-formula-shortage-00032205">White House announces steps to combat infant formula shortage</a> Politico: The shortage is in part fueled by the February shutdown of an Abbott Nutrition infant formula plant in Michigan although supplies have been relatively short since last summer. 
  <p class="updated_time"> 03:43 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098585401/what-senator-mcconnell-says-about-the-supreme-court-and-the-future-of-abortion">What Senator McConnell says about the Supreme Court and the future of abortion</a> NPR: If Republicans wins control in November, Senate minority leader Mitch McConnell is signaling that Congress could vote on further restrictions on abortion. 
  <p class="updated_time"> 03:43 PM CT, May. 12 </p> 
@@ -247,7 +253,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:16 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098509467/mccarthy-jan-6-panel-subpoena-republicans">In an unprecedented move, Jan. 6 panel subpoenas McCarthy and other Republicans</a> NPR: There is little history of a congressional committee issuing subpoenas for members of Congress. The move now escalates the war between House Republicans opposed to the investigation and the panel. 
  <p class="updated_time"> 12:08 PM CT, May. 12 </p> 
- <a href="https://www.politico.com/news/2022/05/12/senate-vote-40b-ukraine-aid-package-00031992">Senate hustles to pass $40B Ukraine aid package</a> Politico: Leaders still have to navigate a few hangups, including Sen. Rand Paul demanding an amendment that would designate a federal watchdog to track the money. 
+ <a href="https://www.politico.com/news/2022/05/12/senate-vote-40b-ukraine-aid-package-00031992">Senate falters in push to pass $40B Ukraine aid</a> Politico: Sen. Rand Paul, who is demanding Congress designate a federal watchdog to track the money, blocked a speedy vote on the massive military and humanitarian aid package. 
  <p class="updated_time"> 12:07 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098514454/biden-marks-the-approaching-milestone-of-1-million-u-s-covid-19-deaths">Biden marks the approaching milestone of 1 million U.S. COVID-19 deaths </a> NPR: "One million empty chairs around the dinner table. Each an irreplaceable loss," President Biden said Thursday. 
  <p class="updated_time"> 11:49 AM CT, May. 12 </p> 
@@ -300,24 +306,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/11/us/politics/georgia-senate-race-abortion.html">Abortion Is Already Animating the Senate Race in Georgia</a> NYT: Raphael D. Warnock is one of the most vulnerable Democrats in the coming midterm elections. 
  <p class="updated_time"> 04:51 PM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098401354/trump-must-pay-110k-contempt-order-judge">A judge says Trump must pay $110K and meet other conditions to end contempt order</a> NPR: A New York judge said he will lift the contempt of court order if Donald Trump meets conditions including paying $110,000 in fines he's racked up for being slow to respond to a civil subpoena. 
- <p class="updated_time"> 04:25 PM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/us/politics/covid-aid-immigration.html">U.S. Lawmakers Struggle With How to Pass Covid Aid Package Amid Immigration Fight</a> NYT: The White House has pushed for a $22.5 billion package at home and abroad, warning about the dire consequences of inaction. But a smaller package of $10 billion has been stalled in the Senate. 
- <p class="updated_time"> 04:18 PM CT, May. 11 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/05/11/1098378802/5-big-ideas-for-the-white-houses-global-covid-summit">5 big ideas for the White House's Global COVID Summit</a> NPR: We asked experts from around the world: What would they like to see on the agenda for this virtual event. Their ideas include fair pay for all health workers — and a makeover for foreign aid. 
  <p class="updated_time"> 03:50 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/technology/ftc-majority-lina-khan.html">New F.T.C. Majority Gives Lina Khan a Chance to Push an Aggressive Agenda</a> NYT: The confirmation of a third Democrat creates an opportunity for Lina Khan, the Federal Trade Commission’s chair, to advance efforts to rein in corporate power. 
  <p class="updated_time"> 03:44 PM CT, May. 11 </p> 
  <a href="https://www.cnn.com/2022/05/11/politics/senate-abortion-rights-vote-roe-v-wade/index.html">Key vote to protect access to abortion fails in the Senate</a> CNN: A key vote on the Women's Health Protection Act, a Democrat-led bill aimed at preserving access to abortion nationwide, failed in the Senate on Wednesday. 
  <p class="updated_time"> 02:43 PM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/senate-confirms-bedoya-to-ftc-00029128">Senate confirms Biden's FTC nominee despite Republican opposition</a> Politico: Alvaro Bedoya becomes the third Democratic commissioner, giving progressive FTC Chair Lina Khan a majority at the antitrust and consumer protection agency. 
- <p class="updated_time"> 02:26 PM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/us/politics/florida-congressional-map-desantis.html">A judge in Florida says he will block Republicans’ new congressional map.</a> NYT: The final decision on the map, which would give Republicans a considerable advantage in the state, could ultimately lie with the State Supreme Court. 
  <p class="updated_time"> 01:05 PM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/staffer-resigned-over-trump-family-separation-report-00031776">Justice watchdog staffer resigned amid leak probe over Trump family separation report</a> Politico: DOJ Inspector General ordered investigation into who disclosed report about border policy. 
  <p class="updated_time"> 12:48 PM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/biden-working-class-unions-00031759">Biden's personal recovery plan: Pump up unions, squeeze Big Business</a> Politico: The president is hoping his political fate — and the Democrats’ standing among the white working class — can be saved by lifting up organized labor. 
- <p class="updated_time"> 12:29 PM CT, May. 11 </p> 
- <a href="https://www.politico.com/news/2022/05/11/biden-administration-portal-child-tax-credit-00031753">Biden administration reups Child Tax Credit portal</a> Politico: The portal, GetCTC, had been taken offline earlier this year due to concerns it could cause confusion during the tax filing season. 
  <p class="updated_time"> 11:08 AM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/senate-doomed-vote-roe-abortion-rights-00031732">Senate fails to pass abortion rights bill — again</a> Politico: The largely symbolic vote to codify abortion protections didn't even garner a simple Senate majority, falling on the same lines a previous bill did in February. 
  <p class="updated_time"> 06:01 AM CT, May. 11 </p> 
