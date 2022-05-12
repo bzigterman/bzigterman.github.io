@@ -324,51 +324,50 @@ temp_history <- read_csv("data/champaign_weather.csv") %>%
 temps_past_hour <- temp_history %>%
   tail(1) %>%
   mutate(period = "Now") %>%
-  select(temp, period) %>%
+  select(temp, period, central_time) %>%
   arrange(temp)
 temps_today <- temp_history %>%
   filter(as_date(central_time) == as_date(today(tzone = "America/Chicago")))  %>%
   mutate(period = "Today") %>%
-  select(temp, period)%>%
+  select(temp, period, central_time)%>%
   arrange(temp)
 temps_yesterday <- temp_history %>%
   filter(as_date(central_time) == as_date(today(tzone = "America/Chicago")-days(1)))  %>%
   mutate(period = "Yesterday") %>%
-  select(temp, period)%>%
+  select(temp, period, central_time)%>%
   arrange(temp)
 temps_past_day <- temp_history %>%
   filter(central_time > now(tzone = "America/Chicago")-days(1)) %>%
   mutate(period = "Past Day") %>%
-  select(temp, period)%>%
+  select(temp, period, central_time)%>%
   arrange(temp)
 temps_past_week <- temp_history %>%
   filter(central_time > now(tzone = "America/Chicago")-weeks(1)) %>%
   mutate(period = "Past Week") %>%
-  select(temp, period)%>%
+  select(temp, period, central_time)%>%
   arrange(temp)
 temps_past_month <- temp_history %>%
   filter(central_time > now(tzone = "America/Chicago")-days(31)) %>%
   mutate(period = "Past Month") %>%
-  select(temp, period)%>%
+  select(temp, period, central_time)%>%
   arrange(temp)
 temps_past_year <- temp_history %>%
   filter(central_time > now(tzone = "America/Chicago")-years(1)) %>%
   mutate(period = "Past Year") %>%
-  select(temp, period)%>%
+  select(temp, period, central_time)%>%
   arrange(temp)
 temps_past_decade <- temp_history %>%
   filter(central_time > now(tzone = "America/Chicago")-years(10)) %>%
   mutate(period = "Past Decade") %>%
-  select(temp, period)%>%
+  select(temp, period, central_time)%>%
   arrange(temp)
 temps_past_century <- temp_history %>%
-  #filter(central_time > now(tzone = "America/Chicago")-years(200)) %>%
   mutate(period = "All Records (since 1888)") %>%
-  select(temp, period)%>%
+  select(temp, period, central_time)%>%
   arrange(temp)
 temps_next_week <- nws_forecast_clean %>%
   mutate(period = "Next Week") %>%
-  select(temp, period) %>%
+  select(temp, period, central_time) %>%
   arrange(temp)
 
 temps <- full_join(temps_past_hour,temps_today) %>%
@@ -428,48 +427,135 @@ his_los_longer <- pivot_longer(his_los, cols = c(min,max))
 #   c(value = 200,
 #     color = "#9e0142")),
 
-# fig1 <- hchart(his_los,
-#                hcaes(x = period,
-#                      high = round(max),
-#                      low = round(min)),
-#                # lineWidth = 7,
-#                # zoneAxis = "x",
-#                # zones = list(
-#                #     c(value = 10,
-#                #       color = "#5e4fa2"),
-#                #     c(value = 10,
-#                #       color = "#3288bd"),
-#                #     c(value = 20,
-#                #       color = "#66c2a5"),
-#                #     c(value = 32,
-#                #       color = "#abdda4"),
-#                #     c(value = 40,
-#                #       color = "#e6f598"),
-#                #     c(value = 50,
-#                #       color = "#ffffbf"),
-#                #     c(value = 60,
-#                #       color = "#fee08b"),
-#                #     c(value = 70,
-#                #       color = "#fdae61"),
-#                #     c(value = 80,
-#                #       color = "#f46d43"),
-#                #     c(value = 90,
-#                #       color = "#d53e4f"),
-#                #     c(value = 200,
-#                #       color = "#9e0142")),
-#                type = "columnrange") %>%
-#   hc_chart(inverted = TRUE) %>%
-#   hc_yAxis(title = "")%>%
-#   hc_xAxis(title = "",
-#            categories = c(
-#              "All Records (since 1888)","Past Decade","Past Year",
-#              "Past Month","Past Week",
-#              "Yesterday","Today","Now","Next Week")) #%>%
-#   #hc_legend(enabled = FALSE)
-#  # # hc_add_theme(
-#   #  hc_theme_smpl()
-#   #) 
-# fig1
+fig1 <- hchart(his_los_longer,
+               hcaes(x = period,
+                     y = round(value),
+                     group = period),
+               enableMouseTracking = FALSE,
+               marker = list(
+                 #radius = 4,
+                 symbol = "circle"),
+               #label = list(
+               #  enabled = TRUE),
+               lineWidth = 9,
+               zones = list(
+                   c(value = 10,
+                     color = "#5e4fa2"),
+                   c(value = 10,
+                     color = "#3288bd"),
+                   c(value = 20,
+                     color = "#66c2a5"),
+                   c(value = 32,
+                     color = "#abdda4"),
+                   c(value = 40,
+                     color = "#e6f598"),
+                   c(value = 50,
+                     color = "#ffffbf"),
+                   c(value = 60,
+                     color = "#fee08b"),
+                   c(value = 70,
+                     color = "#fdae61"),
+                   c(value = 80,
+                     color = "#f46d43"),
+                   c(value = 90,
+                     color = "#d53e4f"),
+                   c(value = 200,
+                     color = "#9e0142")),
+               type = "line") %>%
+  hc_add_series(his_los,
+                enableMouseTracking = FALSE,
+                hcaes(x = period,
+                      y = round(max)),
+                dataLabels = list(
+                  enabled = TRUE,
+                  align = "left",
+                  verticalAlign = "middle"),
+                zones = list(
+                  c(value = 10,
+                    color = "#5e4fa2"),
+                  c(value = 10,
+                    color = "#3288bd"),
+                  c(value = 20,
+                    color = "#66c2a5"),
+                  c(value = 32,
+                    color = "#abdda4"),
+                  c(value = 40,
+                    color = "#e6f598"),
+                  c(value = 50,
+                    color = "#ffffbf"),
+                  c(value = 60,
+                    color = "#fee08b"),
+                  c(value = 70,
+                    color = "#fdae61"),
+                  c(value = 80,
+                    color = "#f46d43"),
+                  c(value = 90,
+                    color = "#d53e4f"),
+                  c(value = 200,
+                    color = "#9e0142")),
+                tooltip = list(
+                  pointFormat = "Max: {point.max:.0f}°"),
+                marker = list(
+                  radius = 2,
+                  symbol = "circle"),
+                type = "scatter") %>%
+  hc_add_series(his_los,
+                enableMouseTracking = FALSE,
+                hcaes(x = period,
+                      y = round(min)),
+                tooltip = list(
+                  pointFormat = "Min: {point.min:.0f}°"),
+                dataLabels = list(
+                  enabled = TRUE,
+                  align = "right",
+                  verticalAlign = "middle"),
+                marker = list(
+                  radius = 2,
+                  symbol = "circle"),
+                zones = list(
+                  c(value = 10,
+                    color = "#5e4fa2"),
+                  c(value = 10,
+                    color = "#3288bd"),
+                  c(value = 20,
+                    color = "#66c2a5"),
+                  c(value = 32,
+                    color = "#abdda4"),
+                  c(value = 40,
+                    color = "#e6f598"),
+                  c(value = 50,
+                    color = "#ffffbf"),
+                  c(value = 60,
+                    color = "#fee08b"),
+                  c(value = 70,
+                    color = "#fdae61"),
+                  c(value = 80,
+                    color = "#f46d43"),
+                  c(value = 90,
+                    color = "#d53e4f"),
+                  c(value = 200,
+                    color = "#9e0142")),
+                type = "scatter") %>%
+  hc_chart(inverted = TRUE) %>%
+  hc_yAxis(title = "",
+           gridLineWidth = 0,
+           labels = list(
+             enabled = FALSE))%>%
+  hc_xAxis(title = "",
+           lineWidth = 0,
+           categories = c(
+             "All Records (since 1888)","Past Decade","Past Year",
+             "Past Month","Past Week",
+             "Yesterday","Today","Now","Next Week")) %>%
+  hc_legend(enabled = FALSE) #%>%
+  # hc_add_theme(
+  #   hc_theme_bloom()
+  # )
+fig1
+saveWidget(widget = fig1, file = "interactive/champaign_temp_comparison.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
 
 ggplot(data = temps,
        aes(x = period,
@@ -626,12 +712,8 @@ Currently:
 
 ## Temperature Comparison
 
-<picture>
-  <source srcset=\"{{ site.baseurl }}/plots/temp_history.png\"
-          media=\"(min-width: 750px)\">
-  <img src=\"{{ site.baseurl }}/plots/temp_history_mobile.png\" alt=\"\" />
-</picture>
-
+<iframe src=\"/interactive/champaign_temp_comparison.html\" width=\"100%\" height=\"500\"> 
+</iframe>
 
 ## Severe Thunderstorm Outlook
 

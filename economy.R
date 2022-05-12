@@ -1542,7 +1542,7 @@ imageurl: https://bzigterman.com/plots/champaign_unemployment_rate.png
 <iframe src=\"/interactive/champaign_employment.html\" width=\"100%\" height=\"500\"> 
 </iframe>
 
-<iframe src=\"/interactive/champaign_housing.html\" width=\"100%\" height=\"600\"> 
+<iframe src=\"/interactive/champaign_housing.html\" width=\"100%\" height=\"500\"> 
 </iframe>
 
 ",better_cu_housing_table_html,"
