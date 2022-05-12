@@ -9,34 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:23 AM CT, May. 12 </p> 
+ <p class="updated_time"> 06:37 AM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/12/world/al-jazeera-journalist-killed-west-bank">Latest Updates: Did Israelis or Palestinians Shoot Al Jazeera Journalist? Bullet May Hold Clues.</a> NYT: The Palestinian Authority said it would not give Israeli officials the bullet that killed Shireen Abu Akleh in the occupied West Bank during an Israeli raid. It said Israel could not be trusted to investigate the shooting. 
+ <p class="updated_time"> 06:26 AM CT, May. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61301910?at_medium=RSS&at_campaign=KARANGA">United States passes one million Covid deaths</a> BBC: It's the highest total in the world - but the WHO thinks the true death toll may be higher elsewhere. 
+ <p class="updated_time"> 06:25 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/05/12/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Sees Threat as Finland Moves Closer to Joining NATO</a> NYT: Finland’s president and prime minister endorsed joining the alliance, another sign of how Russia’s invasion has strengthened NATO instead of weakening it. Moscow said it would “take necessary measures” to protect itself, as Vladimir Putin shows no sign of backing down in Ukraine. 
+ <p class="updated_time"> 06:23 AM CT, May. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61420455?at_medium=RSS&at_campaign=KARANGA">Floribet Chebeya: DR Congo policeman sentenced to death for murder</a> BBC: The body of Floribet Chebeya was found bound and gagged in his car, triggering national outrage. 
  <p class="updated_time"> 06:12 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/science/black-hole-photo.html">Has the Milky Way’s Black Hole Come to Light?</a> NYT: The Event Horizon Telescope reaches again for a glimpse of the “unseeable.” 
- <p class="updated_time"> 06:01 AM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/05/12/world/al-jazeera-journalist-killed-west-bank">Live Updates: Palestinians Reject Israeli Request for Joint Inquiry Into Journalist’s Killing</a> NYT: The Palestinian Authority said it would not hand over the bullet that killed Shireen Abu Akleh, the Palestinian American journalist shot on Wednesday in the occupied West Bank during an Israeli raid. A funeral procession for her was being held on Thursday. 
  <p class="updated_time"> 05:58 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/finland-nato.html">Finland’s Leaders Urge NATO Membership ‘Without Delay’</a> NYT: Public opinion in Finland has shifted significantly in favor of joining the alliance in the 11 weeks since Russia invaded Ukraine. 
  <p class="updated_time"> 05:42 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61416760?at_medium=RSS&at_campaign=KARANGA">North Korea: 'First' Covid cases prompt strict national lockdown</a> BBC: North Korea has rejected any kind of vaccine, with Kim Jong-un now ordering "maximum emergency" controls. 
+ <p class="updated_time"> 05:41 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/video/series/in-depth-features/ukraine-road-of-death-shows-russians-fired-on-civilians-a-video-investigation/23BCD65C-AF57-4316-8FE9-3F3FD0A3CD58">Ukraine ‘Road of Death’ Shows Russians Fired on Civilians: A Video Investigation</a> WSJ: Ukraine ‘Road of Death’ Shows Russians Fired on Civilians: A Video Investigation 
  <p class="updated_time"> 05:36 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61421169?at_medium=RSS&at_campaign=KARANGA">Hard to see a way back for Putin, says UK PM</a> BBC: Boris Johnson says he cannot see how relations with the Russian leader can be 'renormalised'. 
  <p class="updated_time"> 05:28 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61420185?at_medium=RSS&at_campaign=KARANGA">Finland to apply for Nato membership 'without delay'</a> BBC: The president tells Moscow to "look in the mirror", blaming Russia's invasion of Ukraine for the move. 
- <p class="updated_time"> 05:27 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/finlands-leaders-announce-intention-to-apply-for-nato-membership-11652340796">Finland Says It Will Apply to Join NATO in Response to Russia’s Ukraine Invasion</a> WSJ: Finland Says It Will Apply to Join NATO in Response to Russia’s Ukraine Invasion 
  <p class="updated_time"> 05:19 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/asia/indonesia-podcast-deddy-corbuzier.html">Podcaster Deddy Corbuzier Shunned a Gay Couple After Welcoming Them</a> NYT: The segment, aired in Indonesia, enraged religious leaders and prompted a backlash that highlights the limits of tolerance for gay people in the Muslim-majority nation. 
  <p class="updated_time"> 05:14 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/biden-covid-deaths-flags-half-staff.html">Biden Orders Federal Flags to Fly at Half-Staff as U.S. Covid Toll Nears One Million</a> NYT: The president says in a formal statement that the United States must ‘remain vigilant’ against a virus that has ‘forever changed’ the country. 
  <p class="updated_time"> 05:13 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/asia/north-korea-covid.html">North Korea Reports Its First Covid Cases</a> NYT: The country’s leader, Kim Jong-un, ordered a national lockdown after a subvariant of the Omicron variant of the coronavirus was found in the capital. 
- <p class="updated_time"> 05:10 AM CT, May. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61301910?at_medium=RSS&at_campaign=KARANGA">United States passes one million Covid deaths</a> BBC: It's the highest total in the world - but the WHO thinks the true death toll may be higher elsewhere. 
  <p class="updated_time"> 05:09 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61417972?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Gotabaya Rajapaksa speech fails to reassure as crisis grows</a> BBC: President Gotabaya Rajapaksa again ignored calls to resign amid protests over an economic crisis. 
- <p class="updated_time"> 04:27 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine to Try Russian Soldier for War Crimes</a> WSJ: Ukraine to Try Russian Soldier for War Crimes 
+ <p class="updated_time"> 04:41 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/finlands-leaders-announce-intention-to-apply-for-nato-membership-11652340796">Finnish Leaders Say Country Should Join NATO, Moving Closer to Membership</a> WSJ: Finnish Leaders Say Country Should Join NATO, Moving Closer to Membership 
  <p class="updated_time"> 04:21 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61416384?at_medium=RSS&at_campaign=KARANGA">Untrained passenger lands Florida plane after pilot falls ill</a> BBC: The passenger can be heard in recordings saying he had "no idea how to stop the airplane". 
  <p class="updated_time"> 04:13 AM CT, May. 12 </p> 
@@ -53,14 +55,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/12/1098456961/finland-leaders-seek-nato-membership">Finland's leaders say they are in favor of seeking NATO membership</a> NPR: The statement by the president and prime minister comes a day after British Prime Minister Boris Johnson visited both Finland and Sweden to sign a military cooperation agreement. 
  <p class="updated_time"> 03:49 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The network and Palestinian authorities blamed Israeli troops for the killing. Israel said the blame could lie with Palestinian gunmen. 
- <p class="updated_time"> 03:27 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/north-korea-locks-down-after-reporting-first-local-covid-19-infection-11652320668">Unvaccinated North Korea Locks Down After Reporting First Local Covid Infection</a> WSJ: Unvaccinated North Korea Locks Down After Reporting First Local Covid Infection 
+ <p class="updated_time"> 03:41 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-offers-prisoner-exchange-at-mariupol-steel-plant-11652348604">Ukraine Offers Prisoner Exchange at Mariupol Steel Plant</a> WSJ: Ukraine Offers Prisoner Exchange at Mariupol Steel Plant 
  <p class="updated_time"> 02:58 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html">Ukrainians Fight Russian Troops Up Close Along the Eastern Front</a> NYT: In some villages along the front, Ukrainian and Russian soldiers face off at close quarters, sometimes within eyesight of one another. 
  <p class="updated_time"> 02:50 AM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098453568/catholic-cardinal-arrested-in-hong-kong">A Catholic cardinal and others are arrested on Hong Kong security law</a> NPR: The White House and U.S. politicians join others around the world in calling for the release of a retired archbishop, singer and others in the Chinese territory. 
- <p class="updated_time"> 02:27 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107">China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer</a> WSJ: China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer 
+ <p class="updated_time"> 02:41 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/with-russian-forces-at-the-door-zaporizhzhia-shelters-evacuees-from-ukraines-east-11652352765">With Russian Forces at the Door, Zaporizhzhia Shelters Evacuees From Ukraine’s East</a> WSJ: With Russian Forces at the Door, Zaporizhzhia Shelters Evacuees From Ukraine’s East 
  <p class="updated_time"> 02:14 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/shireen-abu-akleh-al-jazeera-dead.html">Shireen Abu Akleh, Palestinian Journalist, Dies, Aged 51</a> NYT: Ms. Abu Akleh, 51, a Palestinian American reporter who was killed in the West Bank on Wednesday, was a household name across the Middle East. 
  <p class="updated_time"> 02:00 AM CT, May. 12 </p> 
@@ -71,10 +73,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61419699?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: UN chief appalled at Al Jazeera reporter's killing</a> BBC: Shireen Abu Aqla was shot dead while covering a raid by Israeli forces in the occupied West Bank. 
  <p class="updated_time"> 01:43 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/ukraine-russia-western-solidarity.html">Economic Toll of Russia’s War in Ukraine Tests Western Solidarity</a> NYT: Russia’s president is calculating that Western leaders will tire before he does of a protracted struggle in Ukraine, especially if the price is turbocharged inflation and energy shortages. 
- <p class="updated_time"> 01:27 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-national-security-police-arrest-outspoken-cardinal-11652280366">Hong Kong National Security Police Arrest Outspoken Cardinal</a> WSJ: Hong Kong National Security Police Arrest Outspoken Cardinal 
+ <p class="updated_time"> 01:41 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/chinas-economic-slowdown-is-rippling-all-around-the-world-11652347800">China’s Economic Slowdown Is Rippling All Around the World</a> WSJ: China’s Economic Slowdown Is Rippling All Around the World 
  <p class="updated_time"> 11:53 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61354625?at_medium=RSS&at_campaign=KARANGA">The long struggle to return Cambodia's looted treasures</a> BBC: The east Asian country claims the V&A and British Museum both hold stolen antiquities. 
+ <p class="updated_time"> 11:52 PM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/iran-prisoners-families-ask-biden-to-push-for-their-release-as-chances-of-a-deal-dim-11652345576">Iran Prisoners' Families Ask Biden to Push for Their Release as Chances of a Deal Dim</a> WSJ: The families of four U.S. citizens detained in Iran years ago on espionage charges are appealing to the president to secure their return, as nuclear talks with Tehran that were expected to include their release have stalled. 
  <p class="updated_time"> 10:37 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/politics/native-american-children-schools-abuse.html">Report Catalogs Abuse of Native American Children at Former Government Schools</a> NYT: Interior Secretary Deb Haaland called for a review last year, after the discovery of hundreds of unmarked graves of children who attended similar schools in Canada. 
  <p class="updated_time"> 10:14 PM CT, May. 11 </p> 
@@ -153,12 +157,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61412343?at_medium=RSS&at_campaign=KARANGA">Joly Germine: Haitian gang leader indicted over missionary abductions</a> BBC: Joly Germine allegedly directed the kidnappings of 17 Christian missionaries from a Haitian prison. 
  <p class="updated_time"> 10:25 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/ukraine-war-jobs.html">Nearly One-Third of Ukraine’s Jobs Are Lost Amid War, U.N. Labor Agency Says</a> NYT: The report highlights the grim economic toll of Russia’s aggression and the challenges that lie ahead for Ukraine and other nations. 
- <p class="updated_time"> 10:08 AM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Palestinian officials blamed Israeli forces for Shireen Abu Akleh’s killing while Israel said its information indicated Palestinian militants were responsible. 
  <p class="updated_time"> 10:03 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61406808?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Snake Island and battle for control in Black Sea</a> BBC: This rocky outcrop has been fiercely contested for weeks and has vital strategic importance. 
- <p class="updated_time"> 09:47 AM CT, May. 11 </p> 
- <a href="https://www.bbc.co.uk/news/business-61411474?at_medium=RSS&at_campaign=KARANGA">US price rises ease for the first time in months</a> BBC: The prices of clothing and used cars fell, but inflation remains at a 40-year high. 
  <p class="updated_time"> 07:40 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1096856581/how-one-of-russias-neighbors-is-dealing-with-putins-propaganda">How one of Russia's neighbors is dealing with Putin's propaganda </a> NPR: On the border with Russia, the Estonian town of Narva has strong cultural and linguistic ties with Russia. That makes it a target of Russian disinformation; something Estonians are trying to combat. 
  <p class="updated_time"> 05:57 AM CT, May. 11 </p> 
@@ -216,6 +216,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:24 AM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/us/politics/biden-covid-summit.html">Biden’s Covid Summit Aims to Bolster Pandemic Fight</a> NYT: The meeting is meant to reinvigorate the crisis response as vaccination and testing rates lag and many countries try to put the pandemic behind them. 
  <p class="updated_time"> 06:19 AM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098455500/what-are-bidens-options-if-the-supreme-court-throws-out-the-right-to-abortion">What are Biden's options if the Supreme Court throws out the right to abortion? </a> NPR: A leaked draft of a Supreme Court opinion suggests the court may soon overturn Roe v. Wade. An attempt by Congress to preserve the right to abortions legislatively failed because of a lack of votes. 
  <p class="updated_time"> 05:31 AM CT, May. 12 </p> 
