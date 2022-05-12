@@ -712,8 +712,11 @@ Currently:
 
 ## Temperature Comparison
 
-<iframe src=\"/interactive/champaign_temp_comparison.html\" width=\"100%\" height=\"500\"> 
-</iframe>
+<picture>
+  <source srcset=\"{{ site.baseurl }}/plots/temp_history.png\"
+          media=\"(min-width: 750px)\">
+  <img src=\"{{ site.baseurl }}/plots/temp_history_mobile.png\" alt=\"\" />
+</picture>
 
 ## Severe Thunderstorm Outlook
 
