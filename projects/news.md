@@ -9,8 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:31 AM CT, May. 12 </p> 
+ <p class="updated_time"> 04:29 AM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/11/world/ukraine-russia-war-news">What Happened on Day 77 of the War in Ukraine</a> NYT: Some experts say that Putin is calculating that Western leaders will tire of the protracted struggle before he does, especially if the price is turbocharged inflation and energy shortages. 
+ <p class="updated_time"> 04:21 AM CT, May. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61416384?at_medium=RSS&at_campaign=KARANGA">Untrained passenger lands Florida plane after pilot falls ill</a> BBC: The passenger can be heard in recordings saying he had "no idea how to stop the airplane". 
+ <p class="updated_time"> 04:13 AM CT, May. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61413335?at_medium=RSS&at_campaign=KARANGA">Hong Kong cardinal Joseph Zen arrested under China's security law</a> BBC: Senior Catholic Cardinal Joseph Zen is a long-time critic of the Chinese government. 
+ <p class="updated_time"> 04:09 AM CT, May. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61301910?at_medium=RSS&at_campaign=KARANGA">United States passes one million Covid deaths</a> BBC: It's the highest total in the world - but the WHO thinks the true death toll may be higher elsewhere. 
+ <p class="updated_time"> 04:00 AM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/world/americas/el-salvador-prison-gangs-bukele.html">Families Reel Outside El Salvador Prisons After Gang Violence Crackdowns</a> NYT: Dozens of women wait outside a detention facility for news of their loved ones after a crackdown on gang violence resulted in the imprisonment of more than 25,000 people. 
+ <p class="updated_time"> 04:00 AM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/world/ukraine-russia-weapons.html">Life in a Ukrainian Unit: Diving for Cover, Waiting for Western Weapons</a> NYT: Analysts say the outcome of fighting now is riding on the accuracy, quantity and the striking power of long-range weapons. Ukraine is pleading for more. 
+ <p class="updated_time"> 04:00 AM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/us/politics/biden-asian-nations-china.html">Biden to Host Southeast Asian Leaders as He Tries to Return Focus to China</a> NYT: The leaders at the two-day summit in Washington will discuss a variety of topics, but the president plans to use it to show a united front again Beijing. 
+ <p class="updated_time"> 04:00 AM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/arts/ukraine-ballet-war.html">These Dancers Escaped the War. Their Journeys Are Just Beginning.</a> NYT: Hundreds of ballet dancers and students fled Ukraine after Russia’s invasion. With opportunities scarce, many will have to keep moving if they want to keep dancing. 
+ <p class="updated_time"> 03:49 AM CT, May. 12 </p> 
+ <a href="https://www.npr.org/2022/05/12/1098456961/finland-leaders-seek-nato-membership">Finland's leaders say they are in favor of seeking NATO membership</a> NPR: The statement by the president and prime minister comes a day after British Prime Minister Boris Johnson visited both Finland and Sweden to sign a military cooperation agreement. 
+ <p class="updated_time"> 03:49 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The network and Palestinian authorities blamed Israeli troops for the killing. Israel said the blame could lie with Palestinian gunmen. 
+ <p class="updated_time"> 03:31 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/finlands-leaders-announce-intention-to-apply-for-nato-membership-11652340796">Finland Says It Will Apply to Join NATO in Response to Russia’s Ukraine Invasion</a> WSJ: Finland Says It Will Apply to Join NATO in Response to Russia’s Ukraine Invasion 
  <p class="updated_time"> 03:22 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61420185?at_medium=RSS&at_campaign=KARANGA">Finland to apply for Nato membership 'without delay'</a> BBC: Russia has threatened unspecified measures if the country abandons its policy of military non-alignment. 
  <p class="updated_time"> 03:22 AM CT, May. 12 </p> 
@@ -19,8 +39,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html">Ukrainians Fight Russian Troops Up Close Along the Eastern Front</a> NYT: In some villages along the front, Ukrainian and Russian soldiers face off at close quarters, sometimes within eyesight of one another. 
  <p class="updated_time"> 02:50 AM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098453568/catholic-cardinal-arrested-in-hong-kong">A Catholic cardinal and others are arrested on Hong Kong security law</a> NPR: The White House and U.S. politicians join others around the world in calling for the release of a retired archbishop, singer and others in the Chinese territory. 
- <p class="updated_time"> 02:50 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/finlands-leaders-announce-intention-to-apply-for-nato-membership-11652340796">Finland’s Leaders Announce Intention to Apply for NATO Membership</a> WSJ: Finland’s Leaders Announce Intention to Apply for NATO Membership 
+ <p class="updated_time"> 02:31 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine to Try Russian Soldier for War Crimes</a> WSJ: Ukraine to Try Russian Soldier for War Crimes 
  <p class="updated_time"> 02:14 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/shireen-abu-akleh-al-jazeera-dead.html">Shireen Abu Akleh, Palestinian Journalist, Dies, Aged 51</a> NYT: Ms. Abu Akleh, 51, a Palestinian American reporter who was killed in the West Bank on Wednesday, was a household name across the Middle East. 
  <p class="updated_time"> 02:00 AM CT, May. 12 </p> 
@@ -29,24 +49,20 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/12/1098454391/north-korea-confirms-1st-covid-outbreak-kim-orders-lockdown">North Korea confirms 1st COVID outbreak as Kim orders lockdown</a> NPR: While the scale of the outbreak isn't known, it could have serious consequences because the country has a poor health care system and its 26 million people are believed to be mostly unvaccinated. 
  <p class="updated_time"> 01:53 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61419699?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: UN chief appalled at Al Jazeera reporter's killing</a> BBC: Shireen Abu Aqla was shot dead while covering a raid by Israeli forces in the occupied West Bank. 
- <p class="updated_time"> 01:50 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine to Try Russian Soldier for War Crimes</a> WSJ: Ukraine to Try Russian Soldier for War Crimes 
- <p class="updated_time"> 01:43 AM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/05/11/world/ukraine-russia-war-news">What Happened on Day 77 of the War in Ukraine</a> NYT: Some experts say that Putin is calculating that Western leaders will tire of the protracted struggle before he does, especially if the price is turbocharged inflation and energy shortages. 
  <p class="updated_time"> 01:43 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/ukraine-russia-western-solidarity.html">Economic Toll of Russia’s War in Ukraine Tests Western Solidarity</a> NYT: Russia’s president is calculating that Western leaders will tire before he does of a protracted struggle in Ukraine, especially if the price is turbocharged inflation and energy shortages. 
+ <p class="updated_time"> 01:31 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-locks-down-after-reporting-first-local-covid-19-infection-11652320668">Unvaccinated North Korea Locks Down After Reporting First Local Covid Infection</a> WSJ: Unvaccinated North Korea Locks Down After Reporting First Local Covid Infection 
  <p class="updated_time"> 01:12 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/asia/north-korea-covid.html">North Korea Reports Its First Covid Cases</a> NYT: The country’s leader, Kim Jong-un, ordered a national lockdown after a subvariant of the Omicron variant of the coronavirus was found in the capital. 
- <p class="updated_time"> 12:50 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/north-korea-locks-down-after-reporting-first-local-covid-19-infection-11652320668">Unvaccinated North Korea Locks Down After Reporting First Local Covid Infection</a> WSJ: Unvaccinated North Korea Locks Down After Reporting First Local Covid Infection 
+ <p class="updated_time"> 12:31 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107">China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer</a> WSJ: China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer 
  <p class="updated_time"> 11:53 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61354625?at_medium=RSS&at_campaign=KARANGA">The long struggle to return Cambodia's looted treasures</a> BBC: The east Asian country claims the V&A and British Museum both hold stolen antiquities. 
- <p class="updated_time"> 11:50 PM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107">China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer</a> WSJ: China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer 
+ <p class="updated_time"> 11:31 PM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/hong-kong-national-security-police-arrest-outspoken-cardinal-11652280366">Hong Kong National Security Police Arrest Outspoken Cardinal</a> WSJ: Hong Kong National Security Police Arrest Outspoken Cardinal 
  <p class="updated_time"> 11:01 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/12/science/black-hole-photo.html">Has the Milky Way’s Black Hole Come to Light?</a> NYT: The Event Horizon Telescope reaches again for a glimpse of the “unseeable.” 
- <p class="updated_time"> 10:50 PM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/hong-kong-national-security-police-arrest-outspoken-cardinal-11652280366">Hong Kong National Security Police Arrest Outspoken Cardinal</a> WSJ: Hong Kong National Security Police Arrest Outspoken Cardinal 
  <p class="updated_time"> 10:37 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/politics/native-american-children-schools-abuse.html">Report Catalogs Abuse of Native American Children at Former Government Schools</a> NYT: Interior Secretary Deb Haaland called for a review last year, after the discovery of hundreds of unmarked graves of children who attended similar schools in Canada. 
  <p class="updated_time"> 10:14 PM CT, May. 11 </p> 
@@ -71,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61354014?at_medium=RSS&at_campaign=KARANGA">Ipob: Nigerian 'media warriors' call for killings on social media over Biafra</a> BBC: The BBC investigates a network of Nigerian separatists outside the country urging violence online. 
  <p class="updated_time"> 06:07 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61412663?at_medium=RSS&at_campaign=KARANGA">The black evangelical women who'll decide who governs Brazil</a> BBC: Evangelical Christian women of colour were kingmakers in Brazil's last presidential election and look set to be so again. 
- <p class="updated_time"> 05:55 PM CT, May. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61416384?at_medium=RSS&at_campaign=KARANGA">'No idea' passenger lands Florida plane as pilot falls ill</a> BBC: The unnamed passenger can be heard in recordings saying he had "no idea how to stop the airplane". 
  <p class="updated_time"> 05:30 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61415679?at_medium=RSS&at_campaign=KARANGA">Passersby in Florida rush to stop moving car with ill driver</a> BBC: The car is seen drifting towards traffic before strangers intervened on a busy road in Florida. 
  <p class="updated_time"> 05:16 PM CT, May. 11 </p> 
@@ -117,8 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/world/europe/pussy-riot-russia-escape.html">How Maria Alyokhina of Pussy Riot Escaped From Russia</a> NYT: After more than a decade of activism, Maria Alyokhina disguised herself as a food courier to evade the police — and a widening crackdown by President Vladimir Putin. 
  <p class="updated_time"> 11:58 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098242940/ukraine-russia-war-crimes-trial">Ukraine tries its first Russian soldier for alleged war crimes </a> NPR: Prosecutor General Iryna Venediktova says 21-year-old Vadim Shishimarin shot and killed an unarmed man while fleeing from Ukrainian defense forces. He's in custody and could face life in prison. 
- <p class="updated_time"> 11:55 AM CT, May. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61413335?at_medium=RSS&at_campaign=KARANGA">Hong Kong cardinal Joseph Zen arrested under China's security law</a> BBC: Senior Catholic Cardinal Joseph Zen is a long-time critic of the Chinese government. 
  <p class="updated_time"> 11:39 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098229013/eurovision-ukraine-kalush-orchestra-final">A fan-favorite band from Ukraine advances to the Eurovision grand final</a> NPR: Ukrainian folk-rap group Kalush Orchestra will compete in the final round of the competition on Saturday. Their song "Stefania" is about the singer's mom, but has taken on new meaning during the war. 
  <p class="updated_time"> 11:37 AM CT, May. 11 </p> 
@@ -145,14 +157,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/11/1097644931/solar-panels-solar-power-u-s-investigates-china-trade-rules">Solar projects are on hold as U.S. investigates whether China is skirting trade rules</a> NPR: A federal investigation of allegations that China is illegally avoiding duties on solar panels sold to U.S. companies is putting the brakes on the nation's solar power build-out. 
  <p class="updated_time"> 03:19 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098150456/shanghai-maintains-zero-covid-policy-but-the-u-n-says-it-is-not-sustainable">Shanghai maintains 'zero-COVID' policy but the U.N. says it is not sustainable</a> NPR: The leader of the World Health Organization says he doesn't think that a 'zero-COVID' strategy is sustainable, given the behavior of the virus. 
- <p class="updated_time"> 03:16 AM CT, May. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61404053?at_medium=RSS&at_campaign=KARANGA">Sedition law: India's Supreme Court puts controversial law on hold</a> BBC: The Supreme Court pauses a colonial-era sedition law that critics say is used to stifle dissent. 
  <p class="updated_time"> 02:30 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/russia-cyberattack-ukraine-war.html">Russia Was Behind Cyberattack in Run-Up to Ukraine War, Investigation Finds</a> NYT: The February attack rattled Pentagon officials and private industry because it revealed new vulnerabilities in global communications systems. 
  <p class="updated_time"> 02:00 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/israeli-palestinian-mass-grave-tantura.html">‘Tantura’ Documentary Reopens Debate About Israel’s Foundational Story</a> NYT: Israeli soldiers had long denied killing prisoners after capturing an Arab seaside town, days after Israel’s creation. A new film provides fresh evidence — reopening a debate about Israel’s foundational story. 
- <p class="updated_time"> 12:02 AM CT, May. 11 </p> 
- <a href="https://www.npr.org/2022/05/11/1098144813/australia-says-most-great-barrier-reef-coral-studied-this-year-was-bleached">Australia says most Great Barrier Reef coral studied this year was bleached</a> NPR: Australian scientists confirm the mass bleaching, yet are hopeful the world's largest coral reef ecosystem can recover. 
  <p class="updated_time"> 10:53 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/asia/china-shanghai-beijing-covid.html">As Shanghai’s Covid Cases Fall, China’s Restrictions Tighten</a> NYT: Schools are closed indefinitely in Beijing, while the last subway lines in Shanghai that were still running have ceased operation. 
  <p class="updated_time"> 10:33 PM CT, May. 10 </p> 
@@ -181,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/arts/francis-fukuyama-history-liberalism.html">Francis Fukuyama Predicted the End of History. It’s Back (Again).</a> NYT: In a new book, the political theorist offers a stout defense of liberalism against threats from left and right — and predicts that Ukraine will revive “the spirit of 1989.” 
  <p class="updated_time"> 12:19 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/climate/oilfield-sales-pollution.html">Oil Giants Sell Dirty Wells to Buyers With Looser Climate Goals, Study Finds</a> NYT: The transactions can help major oil and gas companies clean up their own production by transferring polluting assets to a different firm, the analysis said. 
- <p class="updated_time"> 12:07 PM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/2022/05/09/us/politics/biden-covd-aid.html">Former Heads of State Call on U.S. to Commit $5 Billion for Global Covid Aid</a> NYT: Activists are also pressing President Biden to take a more forceful leadership role in the response as he convenes world leaders for a Covid-19 summit on Thursday. 
  <p class="updated_time"> 11:59 AM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/queen-elizabeth-charles-speech-parliament.html">Charles Gives Queen’s Speech at State Opening of Parliament in U.K.</a> NYT: For only the third time in 70 years, Elizabeth was unable to deliver her speech at the State Opening of Parliament. The palace said she had been having trouble walking; Prince Charles stood in. 
  <p class="updated_time"> 11:38 AM CT, May. 10 </p> 
@@ -201,10 +207,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/world/europe/public-services-ukraine.html">How Public Services Are Operating in Ukraine</a> NYT: Our reporters answer readers’ questions about Russia’s invasion of Ukraine. Many of you asked about schools and hospitals. 
  <p class="updated_time"> 06:49 PM CT, May. 09 </p> 
  <a href="https://www.nytimes.com/2022/05/09/world/americas/ecuador-prison-riot.html">Ecuador Prison Riot Leaves Dozens Dead</a> NYT: The riot in northern Ecuador left at least 40 inmates dead and more than a dozen injured. It’s the latest blood bath inside the country’s troubled and overcrowded prison system. 
- <p class="updated_time"> 04:47 PM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/2022/05/09/world/europe/biden-lend-lease-act-ukraine.html">Biden Signs Lend-Lease Act, Speeding Up Weapons Shipments to Ukraine</a> NYT: The law will waive time-consuming requirements on the provision of arms to Ukraine considered critical to its defense against Russian forces. 
- <p class="updated_time"> 02:40 PM CT, May. 09 </p> 
- <a href="https://www.nytimes.com/2022/05/09/world/europe/queen-elizabeth-parliament-opening.html">Queen Elizabeth to Miss Opening of Parliament</a> NYT: Prince Charles will deliver the Queen’s Speech instead of his mother, who has missed the constitutional monarchy’s powerful symbol only twice in 70 years. 
 
 
 </details>
@@ -212,6 +214,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/us/politics/biden-asian-nations-china.html">Biden to Host Southeast Asian Leaders as He Tries to Return Focus to China</a> NYT: The leaders at the two-day summit in Washington will discuss a variety of topics, but the president plans to use it to show a united front again Beijing. 
+ <p class="updated_time"> 03:30 AM CT, May. 12 </p> 
+ <a href="https://www.politico.com/news/2022/05/12/senate-democrats-imaginary-majority-00031880">Senate Democrats’ imaginary majority</a> Politico: From abortion to Ukraine aid to immigration, the caucus is confronting its “tenuous” control over the chamber. 
  <p class="updated_time"> 12:35 AM CT, May. 12 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 12:26 AM CT, May. 12 </p> 
@@ -330,8 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/us/politics/jim-pillen-nebraska-trump.html">Jim Pillen Wins Nebraska’s G.O.P. Primary for Governor Over Trump-Endorsed Rival</a> NYT: Mr. Pillen, a University of Nebraska regent backed by the state’s departing governor, won a tight three-way race that included a scandal-plagued candidate endorsed by Donald Trump. 
  <p class="updated_time"> 10:14 PM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/eastman-emails-pennsylvania-legislators-biden-00031668">'Provide some cover': New Eastman emails shed light on his push to overturn Biden's win</a> Politico: He suggested a way for Pennsylvania legislators to cancel Joe Biden's win. 
- <p class="updated_time"> 09:26 PM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/2022/05/10/us/politics/mooney-trump-west-virginia.html">Alex Mooney Rides Trump Endorsement to West Virginia House Primary Win</a> NYT: A Trump endorsement swung a primary between two Republican congressmen in West Virginia. 
  <p class="updated_time"> 08:57 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/us/politics/haitian-mawozo-gang-kidnapping-charges.html">Haitian Gang Leader Is Charged With Abducting American Missionaries</a> NYT: Prosecutors said Joly Germine directed the kidnapping operations of the 400 Mawozo gang, including the negotiations for the release of volunteers with Christian Aid Ministries. 
  <p class="updated_time"> 07:39 PM CT, May. 10 </p> 
