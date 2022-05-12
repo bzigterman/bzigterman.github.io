@@ -7,6 +7,9 @@ library(jsonlite)
 library(cowplot)
 library(sf)
 library(imputeTS)
+# library(highcharter)
+# library(RColorBrewer)
+# library(htmlwidgets)
 
 champaign_lat <-  40.08408
 champaign_lon <- -88.24039
@@ -400,6 +403,73 @@ his_los <- tibble(period = c("All Records (since 1888)","Past Decade",
                           max(temps_next_week$temp)))
 
 his_los_longer <- pivot_longer(his_los, cols = c(min,max))
+
+# zones = list(
+#   c(value = 10,
+#     color = "#5e4fa2"),
+#   c(value = 10,
+#     color = "#3288bd"),
+#   c(value = 20,
+#     color = "#66c2a5"),
+#   c(value = 32,
+#     color = "#abdda4"),
+#   c(value = 40,
+#     color = "#e6f598"),
+#   c(value = 50,
+#     color = "#ffffbf"),
+#   c(value = 60,
+#     color = "#fee08b"),
+#   c(value = 70,
+#     color = "#fdae61"),
+#   c(value = 80,
+#     color = "#f46d43"),
+#   c(value = 90,
+#     color = "#d53e4f"),
+#   c(value = 200,
+#     color = "#9e0142")),
+
+# fig1 <- hchart(his_los,
+#                hcaes(x = period,
+#                      high = round(max),
+#                      low = round(min)),
+#                # lineWidth = 7,
+#                # zoneAxis = "x",
+#                # zones = list(
+#                #     c(value = 10,
+#                #       color = "#5e4fa2"),
+#                #     c(value = 10,
+#                #       color = "#3288bd"),
+#                #     c(value = 20,
+#                #       color = "#66c2a5"),
+#                #     c(value = 32,
+#                #       color = "#abdda4"),
+#                #     c(value = 40,
+#                #       color = "#e6f598"),
+#                #     c(value = 50,
+#                #       color = "#ffffbf"),
+#                #     c(value = 60,
+#                #       color = "#fee08b"),
+#                #     c(value = 70,
+#                #       color = "#fdae61"),
+#                #     c(value = 80,
+#                #       color = "#f46d43"),
+#                #     c(value = 90,
+#                #       color = "#d53e4f"),
+#                #     c(value = 200,
+#                #       color = "#9e0142")),
+#                type = "columnrange") %>%
+#   hc_chart(inverted = TRUE) %>%
+#   hc_yAxis(title = "")%>%
+#   hc_xAxis(title = "",
+#            categories = c(
+#              "All Records (since 1888)","Past Decade","Past Year",
+#              "Past Month","Past Week",
+#              "Yesterday","Today","Now","Next Week")) #%>%
+#   #hc_legend(enabled = FALSE)
+#  # # hc_add_theme(
+#   #  hc_theme_smpl()
+#   #) 
+# fig1
 
 ggplot(data = temps,
        aes(x = period,
