@@ -9,7 +9,7 @@ permalink: /resume
 2021–present: Reporter, **Law360**
 
 - Write 2–3 articles every day on insurance law
-- Built a [COVID-19 litigation tracker](https://www.law360.com/insurance-authority/covid-map)
+- Built a [COVID-19 litigation tracker](https://www.law360.com/insurance-authority/covid-map) and update it regularly
 
 2016–2021: Reporter, **The Champaign News-Gazette**, Champaign, IL
 
