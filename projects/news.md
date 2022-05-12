@@ -9,18 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:47 AM CT, May. 12 </p> 
+ <p class="updated_time"> 06:23 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/05/12/world/russia-ukraine-war-news">Ukraine Live Updates: Russia Sees Threat as Finland Moves Closer to Joining NATO</a> NYT: Finland’s president and prime minister endorsed joining the alliance, another sign of how Russia’s invasion has strengthened NATO instead of weakening it. Moscow said it would “take necessary measures” to protect itself, as Vladimir Putin shows no sign of backing down in Ukraine. 
- <p class="updated_time"> 05:47 AM CT, May. 12 </p> 
+ <p class="updated_time"> 06:12 AM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/science/black-hole-photo.html">Has the Milky Way’s Black Hole Come to Light?</a> NYT: The Event Horizon Telescope reaches again for a glimpse of the “unseeable.” 
+ <p class="updated_time"> 06:01 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/05/12/world/al-jazeera-journalist-killed-west-bank">Live Updates: Palestinians Reject Israeli Request for Joint Inquiry Into Journalist’s Killing</a> NYT: The Palestinian Authority said it would not hand over the bullet that killed Shireen Abu Akleh, the Palestinian American journalist shot on Wednesday in the occupied West Bank during an Israeli raid. A funeral procession for her was being held on Thursday. 
+ <p class="updated_time"> 05:58 AM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/world/europe/finland-nato.html">Finland’s Leaders Urge NATO Membership ‘Without Delay’</a> NYT: Public opinion in Finland has shifted significantly in favor of joining the alliance in the 11 weeks since Russia invaded Ukraine. 
  <p class="updated_time"> 05:42 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61416760?at_medium=RSS&at_campaign=KARANGA">North Korea: 'First' Covid cases prompt strict national lockdown</a> BBC: North Korea has rejected any kind of vaccine, with Kim Jong-un now ordering "maximum emergency" controls. 
  <p class="updated_time"> 05:36 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61421169?at_medium=RSS&at_campaign=KARANGA">Hard to see a way back for Putin, says UK PM</a> BBC: Boris Johnson says he cannot see how relations with the Russian leader can be 'renormalised'. 
  <p class="updated_time"> 05:28 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61420185?at_medium=RSS&at_campaign=KARANGA">Finland to apply for Nato membership 'without delay'</a> BBC: The president tells Moscow to "look in the mirror", blaming Russia's invasion of Ukraine for the move. 
+ <p class="updated_time"> 05:27 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/finlands-leaders-announce-intention-to-apply-for-nato-membership-11652340796">Finland Says It Will Apply to Join NATO in Response to Russia’s Ukraine Invasion</a> WSJ: Finland Says It Will Apply to Join NATO in Response to Russia’s Ukraine Invasion 
  <p class="updated_time"> 05:19 AM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/world/asia/indonesia-podcast-deddy-corbuzier.html">Podcaster Deddy Corbuzier Shunned A Gay Couple After Welcoming Them</a> NYT: The segment, aired in Indonesia, enraged religious leaders and prompted a backlash that highlights the limits of tolerance for gay people in the Muslim-majority nation. 
+ <a href="https://www.nytimes.com/2022/05/12/world/asia/indonesia-podcast-deddy-corbuzier.html">Podcaster Deddy Corbuzier Shunned a Gay Couple After Welcoming Them</a> NYT: The segment, aired in Indonesia, enraged religious leaders and prompted a backlash that highlights the limits of tolerance for gay people in the Muslim-majority nation. 
  <p class="updated_time"> 05:14 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/biden-covid-deaths-flags-half-staff.html">Biden Orders Federal Flags to Fly at Half-Staff as U.S. Covid Toll Nears One Million</a> NYT: The president says in a formal statement that the United States must ‘remain vigilant’ against a virus that has ‘forever changed’ the country. 
  <p class="updated_time"> 05:13 AM CT, May. 12 </p> 
@@ -29,8 +35,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61301910?at_medium=RSS&at_campaign=KARANGA">United States passes one million Covid deaths</a> BBC: It's the highest total in the world - but the WHO thinks the true death toll may be higher elsewhere. 
  <p class="updated_time"> 05:09 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61417972?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Gotabaya Rajapaksa speech fails to reassure as crisis grows</a> BBC: President Gotabaya Rajapaksa again ignored calls to resign amid protests over an economic crisis. 
- <p class="updated_time"> 04:50 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/finlands-leaders-announce-intention-to-apply-for-nato-membership-11652340796">Finland Says It Will Apply to Join NATO in Response to Russia’s Ukraine Invasion</a> WSJ: Finland Says It Will Apply to Join NATO in Response to Russia’s Ukraine Invasion 
+ <p class="updated_time"> 04:27 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine to Try Russian Soldier for War Crimes</a> WSJ: Ukraine to Try Russian Soldier for War Crimes 
  <p class="updated_time"> 04:21 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61416384?at_medium=RSS&at_campaign=KARANGA">Untrained passenger lands Florida plane after pilot falls ill</a> BBC: The passenger can be heard in recordings saying he had "no idea how to stop the airplane". 
  <p class="updated_time"> 04:13 AM CT, May. 12 </p> 
@@ -43,18 +49,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/us/politics/biden-asian-nations-china.html">Biden to Host Southeast Asian Leaders as He Tries to Return Focus to China</a> NYT: The leaders at the two-day summit in Washington will discuss a variety of topics, but the president plans to use it to show a united front against Beijing. 
  <p class="updated_time"> 04:00 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/arts/ukraine-ballet-war.html">These Dancers Escaped the War. Their Journeys Are Just Beginning.</a> NYT: Hundreds of ballet dancers and students fled Ukraine after Russia’s invasion. With opportunities scarce, many will have to keep moving if they want to keep dancing. 
- <p class="updated_time"> 03:50 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine to Try Russian Soldier for War Crimes</a> WSJ: Ukraine to Try Russian Soldier for War Crimes 
  <p class="updated_time"> 03:49 AM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098456961/finland-leaders-seek-nato-membership">Finland's leaders say they are in favor of seeking NATO membership</a> NPR: The statement by the president and prime minister comes a day after British Prime Minister Boris Johnson visited both Finland and Sweden to sign a military cooperation agreement. 
  <p class="updated_time"> 03:49 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The network and Palestinian authorities blamed Israeli troops for the killing. Israel said the blame could lie with Palestinian gunmen. 
+ <p class="updated_time"> 03:27 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-locks-down-after-reporting-first-local-covid-19-infection-11652320668">Unvaccinated North Korea Locks Down After Reporting First Local Covid Infection</a> WSJ: Unvaccinated North Korea Locks Down After Reporting First Local Covid Infection 
  <p class="updated_time"> 02:58 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html">Ukrainians Fight Russian Troops Up Close Along the Eastern Front</a> NYT: In some villages along the front, Ukrainian and Russian soldiers face off at close quarters, sometimes within eyesight of one another. 
  <p class="updated_time"> 02:50 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/north-korea-locks-down-after-reporting-first-local-covid-19-infection-11652320668">Unvaccinated North Korea Locks Down After Reporting First Local Covid Infection</a> WSJ: Unvaccinated North Korea Locks Down After Reporting First Local Covid Infection 
- <p class="updated_time"> 02:50 AM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098453568/catholic-cardinal-arrested-in-hong-kong">A Catholic cardinal and others are arrested on Hong Kong security law</a> NPR: The White House and U.S. politicians join others around the world in calling for the release of a retired archbishop, singer and others in the Chinese territory. 
+ <p class="updated_time"> 02:27 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107">China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer</a> WSJ: China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer 
  <p class="updated_time"> 02:14 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/shireen-abu-akleh-al-jazeera-dead.html">Shireen Abu Akleh, Palestinian Journalist, Dies, Aged 51</a> NYT: Ms. Abu Akleh, 51, a Palestinian American reporter who was killed in the West Bank on Wednesday, was a household name across the Middle East. 
  <p class="updated_time"> 02:00 AM CT, May. 12 </p> 
@@ -63,16 +69,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/12/1098454391/north-korea-confirms-1st-covid-outbreak-kim-orders-lockdown">North Korea confirms 1st COVID outbreak as Kim orders lockdown</a> NPR: While the scale of the outbreak isn't known, it could have serious consequences because the country has a poor health care system and its 26 million people are believed to be mostly unvaccinated. 
  <p class="updated_time"> 01:53 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61419699?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: UN chief appalled at Al Jazeera reporter's killing</a> BBC: Shireen Abu Aqla was shot dead while covering a raid by Israeli forces in the occupied West Bank. 
- <p class="updated_time"> 01:50 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107">China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer</a> WSJ: China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer 
  <p class="updated_time"> 01:43 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/ukraine-russia-western-solidarity.html">Economic Toll of Russia’s War in Ukraine Tests Western Solidarity</a> NYT: Russia’s president is calculating that Western leaders will tire before he does of a protracted struggle in Ukraine, especially if the price is turbocharged inflation and energy shortages. 
- <p class="updated_time"> 12:50 AM CT, May. 12 </p> 
+ <p class="updated_time"> 01:27 AM CT, May. 12 </p> 
  <a href="https://www.wsj.com/articles/hong-kong-national-security-police-arrest-outspoken-cardinal-11652280366">Hong Kong National Security Police Arrest Outspoken Cardinal</a> WSJ: Hong Kong National Security Police Arrest Outspoken Cardinal 
  <p class="updated_time"> 11:53 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61354625?at_medium=RSS&at_campaign=KARANGA">The long struggle to return Cambodia's looted treasures</a> BBC: The east Asian country claims the V&A and British Museum both hold stolen antiquities. 
- <p class="updated_time"> 11:01 PM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/12/science/black-hole-photo.html">Has the Milky Way’s Black Hole Come to Light?</a> NYT: The Event Horizon Telescope reaches again for a glimpse of the “unseeable.” 
  <p class="updated_time"> 10:37 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/politics/native-american-children-schools-abuse.html">Report Catalogs Abuse of Native American Children at Former Government Schools</a> NYT: Interior Secretary Deb Haaland called for a review last year, after the discovery of hundreds of unmarked graves of children who attended similar schools in Canada. 
  <p class="updated_time"> 10:14 PM CT, May. 11 </p> 
@@ -191,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/world/middleeast/ukraine-crowdsourcing-online-donations.html">Crowdfunding a War: How Online Appeals Are Bringing Weapons to Ukraine</a> NYT: A campaign to crowdfund donations and weapons is producing millions of dollars as well as a bounty of smaller weapons and other military equipment for the Ukrainian military. 
  <p class="updated_time"> 03:33 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/europe/spain-intelligence-chief-ousted.html">Spain’s Intelligence Leader Ousted Over Agency’s Use of Pegasus Spyware</a> NYT: Paz Esteban, the first woman to hold the job, was caught up in a scandal over her agency’s use of Pegasus spyware. 
- <p class="updated_time"> 02:54 PM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/2022/05/10/health/pediatricians-mental-health-crisis-teens.html">Teens in Distress Are Swamping Pediatricians</a> NYT: Around the country, the setting for adolescent mental health care looks ever more like this doctor’s office in Kentucky, the next patient arriving every 15 minutes. 
  <p class="updated_time"> 01:53 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/arts/francis-fukuyama-history-liberalism.html">Francis Fukuyama Predicted the End of History. It’s Back (Again).</a> NYT: In a new book, the political theorist offers a stout defense of liberalism against threats from left and right — and predicts that Ukraine will revive “the spirit of 1989.” 
  <p class="updated_time"> 11:59 AM CT, May. 10 </p> 
@@ -216,6 +216,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:19 AM CT, May. 12 </p> 
+ <a href="https://www.npr.org/2022/05/12/1098455500/what-are-bidens-options-if-the-supreme-court-throws-out-the-right-to-abortion">What are Biden's options if the Supreme Court throws out the right to abortion? </a> NPR: A leaked draft of a Supreme Court opinion suggests the court may soon overturn Roe v. Wade. An attempt by Congress to preserve the right to abortions legislatively failed because of a lack of votes. 
+ <p class="updated_time"> 05:31 AM CT, May. 12 </p> 
+ <a href="https://www.politico.com/news/2022/05/12/murphy-expand-abortion-access-new-jersey-00031816">Murphy renews efforts to expand access to abortion in New Jersey</a> Politico: "We've been in a lot of conversations with with legislators, including leadership, and we shall see where this goes," he said. 
  <p class="updated_time"> 05:14 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/biden-covid-deaths-flags-half-staff.html">Biden Orders Federal Flags to Fly at Half-Staff as U.S. Covid Toll Nears One Million</a> NYT: The president says in a formal statement that the United States must ‘remain vigilant’ against a virus that has ‘forever changed’ the country. 
  <p class="updated_time"> 04:30 AM CT, May. 12 </p> 
@@ -248,8 +252,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/11/us/politics/trump-hotel-sale-washington.html">Trump Completes Sale of Washington Hotel to Investor Group</a> NYT: The favored gathering place of Trump supporters — and a magnet for conflict of interest questions — will become a Waldorf Astoria. 
  <p class="updated_time"> 08:30 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/politics/pennsylvania-gop-races.html">Hard-Liners Gain in Pennsylvania G.O.P. Races, Worrying Both Parties</a> NYT: Doug Mastriano and Kathy Barnette are amplifying Donald Trump’s stolen-election lie in two key races. Republicans fear they could lose in November. Democrats fear they could win. 
+ <p class="updated_time"> 07:42 PM CT, May. 11 </p> 
+ <a href="https://www.politico.com/news/2022/05/11/great-maga-king-president-joe-biden-midterm-00031981">'The great MAGA king': Biden sharpens midterm attacks</a> Politico: In a trip to the Midwest, the president laid into his predecessor and said the GOP has a “radical agenda.” 
  <p class="updated_time"> 07:03 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/politics/john-eastman-trump-2020-election.html">John Eastman Pressed Pennsylvania Legislator to Throw Out Biden Votes</a> NYT: The lawyer argued that mail ballots in Pennsylvania in the 2020 election could be culled in a way that would reverse President Donald J. Trump’s defeat in an electorally critical state. 
+ <p class="updated_time"> 06:08 PM CT, May. 11 </p> 
+ <a href="https://www.politico.com/news/2022/05/11/trudeau-government-funds-abortion-services-amid-fallout-from-roe-v-wade-disclosure-00031901">Trudeau government funds abortion services amid fallout from Roe v. Wade disclosure</a> Politico: Canada's health minister says Wednesday's announcement is not linked to U.S. Supreme Court news. 
  <p class="updated_time"> 06:00 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/politics/trump-bo-hines.html">Can Trump Get Bo Hines, a 26-Year-Old Political Novice, Elected to Congress?</a> NYT: Bo Hines, a leading candidate in a Republican House primary next week in North Carolina, has little political experience but holds major campaign advantages, including money and powerful backers. 
  <p class="updated_time"> 05:43 PM CT, May. 11 </p> 
@@ -282,6 +290,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/11/1098368180/senate-democrats-failed-to-advance-a-bill-protecting-abortion-access-nationwide">Senate Democrats failed to advance a bill protecting abortion access nationwide</a> NPR: Senate Democrats tried, and failed, to advance legislation to establish a federal law to protect abortion access nationwide. 
  <p class="updated_time"> 03:06 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/politics/overdose-deaths-fentanyl-meth.html">Overdose Deaths Continue Rising, With Fentanyl and Meth Key Culprits</a> NYT: New data shows a surge in overdose deaths involving fentanyl and methamphetamine. Overall, the nation saw a 15 percent increase in deaths from overdoses in 2021. 
+ <p class="updated_time"> 02:43 PM CT, May. 11 </p> 
+ <a href="https://www.politico.com/news/2022/05/11/senate-confirms-bedoya-to-ftc-00029128">Senate confirms Biden's FTC nominee despite Republican opposition</a> Politico: Alvaro Bedoya becomes the third Democratic commissioner, giving progressive FTC Chair Lina Khan a majority at the antitrust and consumer protection agency. 
  <p class="updated_time"> 02:26 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/politics/florida-congressional-map-desantis.html">A judge in Florida says he will block Republicans’ new congressional map.</a> NYT: The final decision on the map, which would give Republicans a considerable advantage in the state, could ultimately lie with the State Supreme Court. 
  <p class="updated_time"> 02:14 PM CT, May. 11 </p> 
@@ -290,6 +300,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/11/theater/abortion-shows-alison-leiby-phelim-mcaleer.html">Shows About Abortion Surface a Stark Divide</a> NYT: Decidedly anti-sensationalistic, Alison Leiby’s shrewd and funny personal monologue plays downtown. Uptown, a staged reading focuses on a gruesome case. 
  <p class="updated_time"> 01:56 PM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098318580/texas-court-orders-that-illegal-voting-conviction-against-crystal-mason-be-revie">Texas court orders that illegal voting conviction against Crystal Mason be reviewed</a> NPR: At the time Mason voted in 2016, she was on supervised release from prison after serving time on federal tax evasion charges. She received a five-year sentence for illegal voting. 
+ <p class="updated_time"> 01:05 PM CT, May. 11 </p> 
+ <a href="https://www.politico.com/news/2022/05/11/staffer-resigned-over-trump-family-separation-report-00031776">Justice watchdog staffer resigned amid leak probe over Trump family separation report</a> Politico: DOJ Inspector General ordered investigation into who disclosed report about border policy. 
+ <p class="updated_time"> 01:00 PM CT, May. 11 </p> 
+ <a href="https://www.politico.com/news/2022/05/11/ukraine-russian-blockade-global-food-supplies-00031760">Urgency mounts for U.S. answer to Russian blockade</a> Politico: Officials say they have a narrow window to try to help Ukraine resume operations at the strategic port city of Odesa, a move that could threaten retaliation from Russia. 
  <p class="updated_time"> 12:48 PM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/biden-working-class-unions-00031759">Biden's personal recovery plan: Pump up unions, squeeze Big Business</a> Politico: The president is hoping his political fate — and the Democrats’ standing among the white working class — can be saved by lifting up organized labor. 
  <p class="updated_time"> 12:29 PM CT, May. 11 </p> 
@@ -297,15 +311,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:24 PM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1098178167/former-attorney-general-eric-holder-continues-the-fight-for-voting-rights">Former Attorney General Eric Holder continues the fight for voting rights</a> NPR: Obama's attorney general says that when it comes to voting rights, the Supreme Court has increasingly become "an impediment to justice." Holder's new book is Our Unfinished March. 
  <p class="updated_time"> 11:08 AM CT, May. 11 </p> 
- <a href="https://www.politico.com/news/2022/05/11/senate-doomed-vote-roe-abortion-rights-00031732">Battle lines harden as Senate prepares to take doomed vote on abortion rights</a> Politico: The largely symbolic vote to codify abortion protections will fail, with not even a simple Democratic majority supporting the bill. 
+ <a href="https://www.politico.com/news/2022/05/11/senate-doomed-vote-roe-abortion-rights-00031732">Senate fails to pass abortion rights bill — again</a> Politico: The largely symbolic vote to codify abortion protections didn't even garner a simple Senate majority, falling on the same lines a previous bill did in February. 
  <p class="updated_time"> 10:42 AM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/biden-americas-summit-boycott-threats-00031717">Biden’s Americas summit is drawing jeers and threats of boycott</a> Politico: Major Latin American leaders may skip next month’s Summit of the Americas amid criticism of who’s been left out and a seemingly thin agenda. 
- <p class="updated_time"> 10:21 AM CT, May. 11 </p> 
- <a href="https://www.politico.com/news/2022/05/11/drug-overdose-deaths-2021-record-00031709">U.S. drug overdose deaths surpass 107,000 last year, another record</a> Politico: More than 1 million Americans have died from drug overdoses since 2001. 
  <p class="updated_time"> 09:44 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/politics/takeaways-nebraska-west-virginia-primary.html">4 Takeaways From Tuesday’s Primaries in Nebraska and West Virginia</a> NYT: It was a mixed night for Trump-endorsed candidates, with fresh evidence of an urban-rural divide within the G.O.P. 
- <p class="updated_time"> 09:35 AM CT, May. 11 </p> 
- <a href="https://www.politico.com/news/2022/05/11/dems-doj-bernhardt-probe-00031396">House Democrats press DOJ to probe Trump Interior secretary for permit reversal</a> Politico: Lawmakers allege that David Bernhardt pressured career staff at the Fish and Wildlife Service to reverse their denial of a water permit requested by a Trump donor. 
  <p class="updated_time"> 09:27 AM CT, May. 11 </p> 
  <a href="https://www.cnn.com/2022/05/11/politics/west-virginia-nebraska-primary-election-takeaways/index.html">4 takeaways from the Nebraska and West Virginia primaries</a> CNN: Former President Donald Trump suffered his first big loss of 2022 in Nebraska on Tuesday night, when his chosen candidate for governor in the Republican primary lost to the state party's choice. 
  <p class="updated_time"> 08:31 AM CT, May. 11 </p> 
@@ -316,14 +326,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/11/1097966775/inflation-poor-income-inequality-biden-federal-reserve">Inflation may be easing — but low-income people are still paying the steepest prices</a> NPR: The annual inflation rate eased somewhat in April, but not enough to meaningfully reduce the burden on lower-income Americans. 
  <p class="updated_time"> 04:27 AM CT, May. 11 </p> 
  <a href="https://www.npr.org/2022/05/11/1096623939/accusations-grooming-political-attack-homophobic-origins">Accusations of 'grooming' are the latest political attack — with homophobic origins</a> NPR: Old accusations of LGBTQ people "grooming" and "recruiting" children have gained new traction. When have we heard this before? What counternarrative are activists using to win over public opinion? 
- <p class="updated_time"> 04:10 AM CT, May. 11 </p> 
- <a href="https://www.npr.org/2022/05/11/1098150761/the-white-house-will-host-a-second-global-covid-19-summit">The White House will host a second global COVID-19 summit</a> NPR: NPR's A Martinez talks to Jeff Levi, George Washington University professor of Health Policy and Management, about the upcoming White House COVID Summit. 
+ <p class="updated_time"> 03:31 AM CT, May. 11 </p> 
+ <a href="https://www.politico.com/news/2022/05/11/alito-abortion-draft-opinion-roe-00031648">Alito’s draft opinion overturning Roe is still the only one circulated inside Supreme Court</a> Politico: A rattled Supreme Court will meet Thursday for the first time since the abortion opinion was reported. 
  <p class="updated_time"> 03:30 AM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/inflation-roe-dems-connect-voters-00031602">Inflation’s biting. Roe’s fraying. Dems are still trying to connect with voters.</a> Politico: Democrats in Congress are rolling out ways to tackle inflation. But they’re struggling on another front: Talking about it with the public. 
  <p class="updated_time"> 12:16 AM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/trump-nebraska-primary-takeaways-00031673">Trump gets knocked down in Nebraska</a> Politico: The former president looked like a kingmaker after Ohio. His endorsement record is now blemished. 
- <p class="updated_time"> 11:20 PM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/2022/05/10/us/politics/jim-pillen-nebraska-trump.html">Jim Pillen Wins Nebraska’s G.O.P. Primary for Governor Over Trump-Endorsed Rival</a> NYT: Mr. Pillen, a University of Nebraska regent backed by the state’s departing governor, won a tight three-way race that included a scandal-plagued candidate endorsed by Donald Trump. 
  <p class="updated_time"> 10:14 PM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/eastman-emails-pennsylvania-legislators-biden-00031668">'Provide some cover': New Eastman emails shed light on his push to overturn Biden's win</a> Politico: He suggested a way for Pennsylvania legislators to cancel Joe Biden's win. 
  <p class="updated_time"> 07:39 PM CT, May. 10 </p> 
@@ -343,15 +351,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:14 PM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/congress-ukraine-aid-package-00031366">Congress races to pass $40B Ukraine aid package</a> Politico: Senate Minority Whip John Thune said Tuesday that negotiators were still trying to “iron out a few matters” and that the total may change. 
  <p class="updated_time"> 11:46 AM CT, May. 10 </p> 
- <a href="https://www.politico.com/news/2022/05/10/democrats-border-gop-covid-aid-00031371">Dems edge closer to giving GOP a border vote as a price for Covid aid</a> Politico: The party’s No. 2 and No. 3 Senate leaders said they’re prepared to take up a proposal that would block President Joe Biden’s migration move. 
+ <a href="https://www.politico.com/news/2022/05/10/democrats-border-gop-covid-aid-00031371">Dems edge closer to giving GOP a border vote as a price for Covid aid</a> Politico: The party's No. 2 and No. 3 Senate leaders said they're prepared to take up a proposal that would block President Joe Biden's migration move. 
  <p class="updated_time"> 11:02 AM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/abortion-providers-biden-front-lines-00031354">Abortion providers to Biden: Come see the front lines of the fight</a> Politico: A trip, they argue, would put a spotlight on a debate and lessen the stigma around abortion. But the White House has, so far, resisted. 
  <p class="updated_time"> 03:30 AM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/kathy-barnette-pennsylvania-senate-gop-primary-00031262">‘Ultra-MAGA’ longshot roars into contention in key Senate race</a> Politico: Private polling conducted by both Republicans and Democrats confirms Kathy Barnette's momentum in the Senate GOP primary. 
  <p class="updated_time"> 06:36 PM CT, May. 09 </p> 
  <a href="https://www.politico.com/news/2022/05/09/republicans-splinter-on-post-roe-world-00031221">Republicans splinter on how to handle a post-Roe world</a> Politico: The GOP is on different pages about a national abortion ban should the Supreme Court follow through. But pursuing one is certainly on the table. 
- <p class="updated_time"> 01:28 PM CT, May. 09 </p> 
- <a href="https://www.politico.com/news/2022/05/09/kyiv-ukraine-russia-war-horrors-00030992">Ukrainians unearth horrors near Kyiv, a month after Russian retreat</a> Politico: Mass graves are still being found, underscoring the scale of atrocities committed by Vladimir Putin’s forces in Ukraine. 
 
 
 </details>
