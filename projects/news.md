@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:14 AM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/2022/05/11/world/middleeast/shireen-abu-akleh-al-jazeera-dead.html">Shireen Abu Akleh, Palestinian Journalist, Dies, Aged 51</a> NYT: Ms. Abu Akleh, 51, a Palestinian American reporter who was killed in the West Bank on Wednesday, was a household name across the Middle East. 
  <p class="updated_time"> 02:00 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/russian-money-uk-tories.html">U.K. Donor Said to Have Funneled Russian Money to Tories</a> NYT: The cash was part of a fund-raising blitz that helped propel Prime Minister Boris Johnson’s party to victory in 2019. Records track $630,225 to a Russian bank account. 
  <p class="updated_time"> 01:56 AM CT, May. 12 </p> 
@@ -19,38 +21,36 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/05/11/world/ukraine-russia-war-news">What Happened on Day 77 of the War in Ukraine</a> NYT: Some experts say that Putin is calculating that Western leaders will tire of the protracted struggle before he does, especially if the price is turbocharged inflation and energy shortages. 
  <p class="updated_time"> 01:43 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/ukraine-russia-western-solidarity.html">Economic Toll of Russia’s War in Ukraine Tests Western Solidarity</a> NYT: Russia’s president is calculating that Western leaders will tire before he does of a protracted struggle in Ukraine, especially if the price is turbocharged inflation and energy shortages. 
+ <p class="updated_time"> 01:32 AM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/natural-gas-prices-rise-in-europe-after-ukraine-cuts-flows-11652255011">Ukraine Reduced Russian Gas Flowing to Europe Through Key Pipeline</a> WSJ: Ukraine Reduced Russian Gas Flowing to Europe Through Key Pipeline 
  <p class="updated_time"> 01:12 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/asia/north-korea-covid.html">North Korea Reports Its First Covid Cases</a> NYT: The country’s leader, Kim Jong-un, ordered a national lockdown after a subvariant of the Omicron variant of the coronavirus was found in the capital. 
- <p class="updated_time"> 01:10 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/natural-gas-prices-rise-in-europe-after-ukraine-cuts-flows-11652255011">Ukraine Reduced Russian Gas Flowing to Europe Through Key Pipeline</a> WSJ: Ukraine Reduced Russian Gas Flowing to Europe Through Key Pipeline 
- <p class="updated_time"> 12:10 AM CT, May. 12 </p> 
+ <p class="updated_time"> 12:32 AM CT, May. 12 </p> 
  <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107">China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer</a> WSJ: China’s Forgotten Premier Steps Out of Xi’s Shadow as Economic Fixer 
  <p class="updated_time"> 11:53 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61354625?at_medium=RSS&at_campaign=KARANGA">The long struggle to return Cambodia's looted treasures</a> BBC: The east Asian country claims the V&A and British Museum both hold stolen antiquities. 
+ <p class="updated_time"> 11:32 PM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/china-censors-who-chiefs-call-to-end-unsustainable-covid-19-strategy-11652270048">China Censors WHO’s Call to End Covid-19 Strategy Dubbed Unsustainable</a> WSJ: China Censors WHO’s Call to End Covid-19 Strategy Dubbed Unsustainable 
  <p class="updated_time"> 11:19 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61416760?at_medium=RSS&at_campaign=KARANGA">North Korea orders strict lockdown with first official Covid cases</a> BBC: State media report the country's first outbreak, but observers believe the virus has long been present. 
- <p class="updated_time"> 11:10 PM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/china-censors-who-chiefs-call-to-end-unsustainable-covid-19-strategy-11652270048">China Censors WHO’s Call to End Covid-19 Strategy Dubbed Unsustainable</a> WSJ: China Censors WHO’s Call to End Covid-19 Strategy Dubbed Unsustainable 
  <p class="updated_time"> 11:01 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/12/science/black-hole-photo.html">Has the Milky Way’s Black Hole Come to Light?</a> NYT: The Event Horizon Telescope reaches again for a glimpse of the “unseeable.” 
  <p class="updated_time"> 10:43 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html">Ukrainians Fight Russian Troops Up Close Along the Eastern Front</a> NYT: In some villages along the front, Ukrainian and Russian soldiers face off at close quarters, sometimes within eyesight of one another. 
  <p class="updated_time"> 10:37 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/politics/native-american-children-schools-abuse.html">Report Catalogs Abuse of Native American Children at Former Government Schools</a> NYT: Interior Secretary Deb Haaland called for a review last year, after the discovery of hundreds of unmarked graves of children who attended similar schools in Canada. 
+ <p class="updated_time"> 10:32 PM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine to Try Russian Soldier for War Crimes</a> WSJ: Ukraine to Try Russian Soldier for War Crimes 
  <p class="updated_time"> 10:14 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/eu-masks-air-travel.html">E.U. Will No Longer Recommend Masks for Air Travel</a> NYT: The decision came as countries across the bloc were loosening restrictions in response to the current rates of vaccination and naturally acquired immunity. 
- <p class="updated_time"> 10:10 PM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/ukraine-accuses-russia-of-stealing-its-grain-11652265021">Ukraine to Try Russian Soldier for War Crimes</a> WSJ: Ukraine to Try Russian Soldier for War Crimes 
  <p class="updated_time"> 10:07 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/bulgaria-russia-ukraine.html">Bulgaria Takes Unusual Stand Against Russia With Sanctions</a> NYT: Bulgaria has imposed economic sanctions on Russia, offered to repair broken military equipment for Ukraine and expelled Russian diplomats. 
- <p class="updated_time"> 09:48 PM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/world/middleeast/shireen-abu-akleh-al-jazeera-dead.html">Shireen Abu Akleh, Palestinian Journalist, Dies, Aged 51</a> NYT: Ms. Abu Akleh, 51, a Palestinian American reporter who was killed in the West Bank on Wednesday, was a household name across the Middle East. 
+ <p class="updated_time"> 09:32 PM CT, May. 11 </p> 
+ <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City 
  <p class="updated_time"> 09:19 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/covid-fears-us.html">Only a Third of Americans Were Worried About Covid in April, Poll Finds</a> NYT: The survey, from Gallup, was conducted between April 15 and April 23, at a time when new cases were increasing after plummeting from highs seen during the winter Omicron surge. 
  <p class="updated_time"> 09:18 PM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61417972?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: Gotabaya Rajapaksa speech fails to reassure as crisis grows</a> BBC: President Gotabaya Rajapaksa again ignored calls to resign amid protests over an economic crisis. 
- <p class="updated_time"> 09:10 PM CT, May. 11 </p> 
- <a href="https://www.wsj.com/articles/al-jazeera-reporter-killed-during-israeli-military-raid-in-west-bank-city-11652252439">Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City</a> WSJ: Al Jazeera Reporter Killed During Israeli Military Raid in West Bank City 
  <p class="updated_time"> 08:45 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The network and Palestinian authorities blamed Israeli troops for the killing. Israel said the blame could lie with Palestinian gunmen. 
  <p class="updated_time"> 08:38 PM CT, May. 11 </p> 
