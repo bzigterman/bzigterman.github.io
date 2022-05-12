@@ -7,9 +7,9 @@ library(jsonlite)
 library(cowplot)
 library(sf)
 library(imputeTS)
-# library(highcharter)
-# library(RColorBrewer)
-# library(htmlwidgets)
+library(highcharter)
+library(RColorBrewer)
+library(htmlwidgets)
 
 champaign_lat <-  40.08408
 champaign_lon <- -88.24039
