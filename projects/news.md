@@ -9,51 +9,51 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:30 AM CT, May. 13 </p> 
+ <p class="updated_time"> 09:39 AM CT, May. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61437601?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: Violence at Al Jazeera reporter's funeral in Jerusalem</a> BBC: Police with riot gear hit mourners, saying they were pelted with stones, as crowds carry her coffin. 
+ <p class="updated_time"> 09:38 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/russia-ukraine-war-news">Ukraine Live Updates: Sweden Says Joining NATO Would Have ‘Conflict-Dampening Effect’</a> NYT: A report released by Stockholm signaled that it would likely follow Finland’s lead in vowing to apply for NATO membership. The moves come as the Group of 7’s agricultural ministers met in Germany to discuss new ways to get Ukrainian harvests to world markets. 
- <p class="updated_time"> 09:30 AM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/13/world/europe/russia-brittney-griner.html">Russian Court Extends Brittney Griner’s Pretrial Detention, Her Lawyer Says</a> NYT: Ms. Griner, one of the most decorated athletes in women’s basketball, has been held in custody in Russia since mid-February. 
- <p class="updated_time"> 09:29 AM CT, May. 13 </p> 
+ <p class="updated_time"> 09:38 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/us/politics/nato-finland-sweden-ukraine.html">Finland and Sweden Move Toward NATO Membership. But What About Ukraine?</a> NYT: Ukraine has been considered too full of corruption and too devoid of democratic institutions to make membership likely for years, if not decades, to come. 
+ <p class="updated_time"> 09:37 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/world/asia/south-korea-tattoo-artists.html">Tattoos, Still Illegal in South Korea, Thrive Underground</a> NYT: Tattoo artists, long treated as criminals for their work, say that it is time to end the stigma against their business. 
+ <p class="updated_time"> 09:37 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/world/europe/brittney-griner-russia-detention-extended.html">Russian Court Extends Brittney Griner’s Pretrial Detention, Her Lawyer Says</a> NYT: Ms. Griner, one of the most decorated athletes in women’s basketball, has been held in custody in Russia since mid-February. 
+ <p class="updated_time"> 09:34 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/shireen-abu-akleh-funeral-israel">Latest Updates: Israeli Police Attack Mourners at Palestinian Journalist’s Funeral</a> NYT: Video showed police officers in Jerusalem beating and kicking mourners next to the coffin of Shireen Abu Akleh, an Al Jazeera reporter who was killed on Wednesday, forcing one to the ground. 
  <p class="updated_time"> 09:20 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/ukraine-war-crime-trial-russian-soldier.html">Ukraine Begins Trial of Russian Soldier Accused of a War Crime</a> NYT: Sgt. Vadim Shysimarin is accused of shooting a 62-year-old man on a bicycle in a village in the Sumy region, about 200 miles east of Kyiv. 
  <p class="updated_time"> 09:18 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/sweden-finland-nato-putin.html">After 200 Years of Neutrality, Sweden Weighs Joining NATO</a> NYT: Russia’s invasion of Ukraine created new fears, and the Swedes, dragged along by Finland, are expected to apply, reluctantly, to join the alliance and its collective defense. 
- <p class="updated_time"> 09:13 AM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/12/us/politics/nato-finland-sweden-ukraine.html">Finland and Sweden Move Toward NATO Membership. But What About Ukraine?</a> NYT: Ukraine has been considered too full of corruption and too devoid of democratic institutions to make membership likely for years, if not decades, to come. 
  <p class="updated_time"> 09:12 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61417926?at_medium=RSS&at_campaign=KARANGA">Eleven migrants drown trying to reach US territory</a> BBC: Almost 40 people, mostly from Haiti, were rescued after their boat capsized near Puerto Rico. 
- <p class="updated_time"> 09:09 AM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/13/world/asia/south-korea-tattoo-artists.html">Tattoos, Still Illegal in South Korea, Thrive Underground</a> NYT: Tattoo artists, long treated as criminals for their work, say that it is time to end the stigma against their business. 
  <p class="updated_time"> 08:48 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-61433724?at_medium=RSS&at_campaign=KARANGA">Elon Musk puts Twitter deal on hold over fake account details</a> BBC: The billionaire wants more data on fake accounts, prompting speculation over the deal's future. 
- <p class="updated_time"> 08:32 AM CT, May. 13 </p> 
+ <p class="updated_time"> 08:48 AM CT, May. 13 </p> 
  <a href="https://www.wsj.com/video/china-struggles-to-contain-frustration-from-shanghai-covid-lockdown/FEE5E499-E9D9-42D0-8C64-64B778D0BCD7.html">China Struggles to Contain Frustration From Shanghai Covid Lockdown</a> WSJ: China Struggles to Contain Frustration From Shanghai Covid Lockdown 
- <p class="updated_time"> 08:13 AM CT, May. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61437601?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: Clashes at Al Jazeera reporter's funeral in Jerusalem</a> BBC: Accusations fly between Israel and the Palestinians over who shot Shireen Abu Aqla in the West Bank. 
  <p class="updated_time"> 08:12 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61439524?at_medium=RSS&at_campaign=KARANGA">Ukraine war: UK adds Putin's former wife to sanctions list</a> BBC: Both Vladimir Putin's former wife and his alleged current girlfriend are sanctioned over the war in Ukraine. 
  <p class="updated_time"> 08:05 AM CT, May. 13 </p> 
- <a href="https://www.npr.org/2022/05/13/1098748046/wnba-star-brittney-griner-detention-extended">WNBA star Brittney Griner's detention in Russia is extended by a month </a> NPR: The lawyer for WNBA star Brittney Griner said Friday her pre-trial detention in Russia has been extended by one month. 
+ <a href="https://www.npr.org/2022/05/13/1098748046/wnba-star-brittney-griner-detention-extended">WNBA star Brittney Griner's detention in Russia is extended by a month </a> NPR: The lawyer for the 31-year-old athlete said Friday her pre-trial detention in Russia has been extended by one month. He said the relatively short extension indicated the case may come to trial soon. 
+ <p class="updated_time"> 07:48 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200">‘I Cannot Imagine My Life Without Parents.’ A Boy’s War Diary Tells of Grief in Ukraine</a> WSJ: ‘I Cannot Imagine My Life Without Parents.’ A Boy’s War Diary Tells of Grief in Ukraine 
  <p class="updated_time"> 07:43 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61434304?at_medium=RSS&at_campaign=KARANGA">Sri Lanka economy crisis to get worse before it gets better, PM says</a> BBC: Sri Lanka's new PM tells the BBC the country's dire economic crisis will get worse before it gets better. 
- <p class="updated_time"> 07:32 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200">‘I Cannot Imagine My Life Without Parents.’ A Boy’s War Diary Tells of Grief in Ukraine</a> WSJ: ‘I Cannot Imagine My Life Without Parents.’ A Boy’s War Diary Tells of Grief in Ukraine 
  <p class="updated_time"> 07:14 AM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098743458/sheikh-khalifa-bin-zayed-uae-ruler-has-died">Sheikh Khalifa bin Zayed, the UAE's long-ailing leader, has died</a> NPR: The United Arab Emirates' long-ailing ruler, Sheikh Khalifa bin Zayed Al Nahyan, died Friday, the government's state-run news agency announced in a brief statement. He was 73. 
+ <p class="updated_time"> 06:48 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-president-vladimir-putins-reputed-girlfriend-sanctioned-by-u-k-11652438838">President Putin’s Reputed Girlfriend Sanctioned by U.K.</a> WSJ: President Putin’s Reputed Girlfriend Sanctioned by U.K. 
  <p class="updated_time"> 06:39 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/middleeast/sheikh-khalifa-uae-ruler-is-dead-at-73.html">Sheikh Khalifa, U.A.E. Ruler, Is Dead at 73</a> NYT: Sheikh Khalifa bin Zayed Al Nahyan was a key figure in his country’s history and one of the world’s richest monarchs. But he had a stroke in 2014 and had stepped back from many public duties. 
- <p class="updated_time"> 06:32 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-president-vladimir-putins-reputed-girlfriend-sanctioned-by-u-k-11652438838">President Putin’s Reputed Girlfriend Sanctioned by U.K.</a> WSJ: President Putin’s Reputed Girlfriend Sanctioned by U.K. 
  <p class="updated_time"> 06:07 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/africa/south-africa-covid-vaccine-factory.html">Africa’s First Covid-19 Vaccine Factory Has Not Received a Single Order</a> NYT: Aspen Pharmacare, in South Africa, was licensed to produce the Johnson & Johnson vaccine. It was hailed as an answer to Africa’s struggle to get access to vaccines. 
  <p class="updated_time"> 06:00 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/climate/south-africa-floods-climate-change.html">Did Warming Play a Role in Deadly South African Floods? Yes, a Study Says.</a> NYT: Climate change sharply increased the chances of catastrophic rains in the country’s east, a team of researchers has found. 
- <p class="updated_time"> 05:32 AM CT, May. 13 </p> 
+ <p class="updated_time"> 05:48 AM CT, May. 13 </p> 
  <a href="https://www.wsj.com/articles/kyiv-seeks-release-of-troops-in-besieged-azovstal-steel-plant-11652438695">Kyiv Seeks Release of Troops in Besieged Azovstal Steel Plant</a> WSJ: Kyiv Seeks Release of Troops in Besieged Azovstal Steel Plant 
  <p class="updated_time"> 05:30 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/asia/south-korea-cameras-ghost-surgery.html">In South Korea, ‘Ghost Surgeries’ Lead to Cameras in Hospitals</a> NYT: After scandals in which doctors let unsupervised assistants operate on patients, the country is becoming one of the first to require cameras in operating rooms. 
- <p class="updated_time"> 04:32 AM CT, May. 13 </p> 
+ <p class="updated_time"> 04:48 AM CT, May. 13 </p> 
  <a href="https://www.wsj.com/articles/sheikh-khalifa-who-oversaw-u-a-e-s-stark-transformation-dies-at-73-11652441034">Sheikh Khalifa, Who Oversaw U.A.E.’s Stark Transformation, Dies at 73</a> WSJ: Sheikh Khalifa, Who Oversaw U.A.E.’s Stark Transformation, Dies at 73 
  <p class="updated_time"> 04:00 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/middleeast/israel-judaism-referom-orthodox.html">A Rabbi’s Contentious Quest for Religious Pluralism in Israel</a> NYT: There is more than one way to be Jewish, says Gilad Kariv, the first Reform rabbi in Israel’s Parliament. The idea poses a challenge to the country’s Orthodox establishment. 
@@ -208,7 +208,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:13 AM CT, May. 13 </p> 
+ <p class="updated_time"> 09:38 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/nato-finland-sweden-ukraine.html">Finland and Sweden Move Toward NATO Membership. But What About Ukraine?</a> NYT: Ukraine has been considered too full of corruption and too devoid of democratic institutions to make membership likely for years, if not decades, to come. 
  <p class="updated_time"> 08:57 AM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/13/pope-francis-canada-visit-00032362">Pope Francis to build on apology during July visit to Canada</a> Politico: Prime Minister Justin Trudeau credits bravery of residential school survivors, Indigenous leaders and youth as the force behind papal visit. 
