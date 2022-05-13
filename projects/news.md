@@ -9,28 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:44 AM CT, May. 13 </p> 
+ <p class="updated_time"> 12:10 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/russia-ukraine-war-news">Ukraine Live Updates: Western Nations Take Steps to Frustrate Putin</a> NYT: Sweden moved closer to joining NATO, and the Group of 7 sought to bypass Russia’s blockade of Black Sea ports. And Britain imposed new sanctions on Putin’s inner circle, including a former gymnast rumored to be his girlfriend. 
- <p class="updated_time"> 11:41 AM CT, May. 13 </p> 
+ <p class="updated_time"> 12:10 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/shireen-abu-akleh-funeral-israel">Latest Updates: Israeli Police Attack Mourners at Palestinian Journalist’s Funeral</a> NYT: Video showed police officers in Jerusalem beating and kicking mourners next to the coffin of Shireen Abu Akleh, an Al Jazeera reporter who was killed on Wednesday, forcing one to the ground. 
+ <p class="updated_time"> 12:07 PM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/world/europe/putin-family-wealth-sanctions.html">Sanctions Shed Light on Putin’s Private Life</a> NYT: As Western nations place sanctions on people close to the Russian leader, including family members, the strict secrecy surrounding his private life is being punctured. 
+ <p class="updated_time"> 11:49 AM CT, May. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61437601?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: Violence at Al Jazeera reporter's funeral in Jerusalem</a> BBC: Police with riot gear hit mourners, saying they were pelted with stones, as crowds carry her coffin. 
+ <p class="updated_time"> 11:16 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/putin-russia-ukraine-finland-nato-11652386254">How Putin Drove Finland Into NATO’s Arms</a> WSJ: How Putin Drove Finland Into NATO’s Arms 
  <p class="updated_time"> 11:15 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61399440?at_medium=RSS&at_campaign=KARANGA">River clash: Ukraine says Russian pontoons destroyed </a> BBC: Ukraine claims to have attacked Russian troops as they attempted to cross the Siversky Donets river. 
  <p class="updated_time"> 11:04 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/asia/robredo-philippine-election.html">Robredo Admits Defeat in Philippine Presidential Election</a> NYT: Leni Robredo urged her supporters, many of them young voters, to accept her defeat but didn’t refer to Ferdinand Marcos Jr. by name. 
- <p class="updated_time"> 11:01 AM CT, May. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61437601?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: Violence at Al Jazeera reporter's funeral in Jerusalem</a> BBC: Police with riot gear hit mourners, saying they were pelted with stones, as crowds carry her coffin. 
  <p class="updated_time"> 10:57 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61435153?at_medium=RSS&at_campaign=KARANGA">Kenyan fighting FGM crowned world's best nurse</a> BBC: Anna Qabale Duba says the $250,000 prize money will help expand her school for children and adults. 
  <p class="updated_time"> 10:51 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/brittney-griner-russia-detention-extended.html">Russian Court Extends Brittney Griner’s Pretrial Detention, Her Lawyer Says</a> NYT: Ms. Griner, one of the most decorated athletes in women’s basketball, has been held in custody in Russia since mid-February. 
  <p class="updated_time"> 10:50 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/asia/south-korea-tattoo-artists.html">Tattoos, Still Illegal in South Korea, Thrive Underground</a> NYT: Tattoo artists, long treated as criminals for their work, say that it is time to end the stigma against their business. 
- <p class="updated_time"> 10:45 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/video/china-struggles-to-contain-frustration-from-shanghai-covid-lockdown/FEE5E499-E9D9-42D0-8C64-64B778D0BCD7.html">China Struggles to Contain Frustration From Shanghai Covid Lockdown</a> WSJ: China Struggles to Contain Frustration From Shanghai Covid Lockdown 
  <p class="updated_time"> 10:40 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/business/economy/russia-shipping-sanctions.html">Russian Shipping Traffic Remains Strong as Sanctions Take Time to Bite</a> NYT: The traffic was robust in March and April, reflecting the time it takes for sanctions to come into effect and an enduring profit motive for trading Russian energy. 
  <p class="updated_time"> 10:31 AM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098763536/israeli-police-beat-mourners-at-a-slain-al-jazeera-journalists-funeral">Israeli police beat mourners at a slain Al Jazeera journalist's funeral</a> NPR: Dozens of people tried to march the casket of Shireen Abu Akleh from a hospital to a nearby Catholic church, but Israeli police hit them with batons, causing pallbearers to briefly drop the casket. 
+ <p class="updated_time"> 10:16 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200">‘I Cannot Imagine My Life Without Parents.’ A Boy’s War Diary Tells of Grief in Ukraine.</a> WSJ: ‘I Cannot Imagine My Life Without Parents.’ A Boy’s War Diary Tells of Grief in Ukraine. 
  <p class="updated_time"> 10:16 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-61433724?at_medium=RSS&at_campaign=KARANGA">Elon Musk puts Twitter deal on hold over fake account details</a> BBC: The billionaire wants more data on fake accounts, prompting speculation over the deal's future. 
  <p class="updated_time"> 10:14 AM CT, May. 13 </p> 
@@ -43,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/science/black-hole-photo.html">The Milky Way’s Black Hole Comes to Light</a> NYT: The Event Horizon Telescope has once again caught sight of the “unseeable.” 
  <p class="updated_time"> 09:49 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61434304?at_medium=RSS&at_campaign=KARANGA">Sri Lanka economy crisis to get worse before it gets better, PM says</a> BBC: Sri Lanka's new PM tells the BBC the country's dire economic crisis will get worse before it gets better. 
- <p class="updated_time"> 09:45 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200">‘I Cannot Imagine My Life Without Parents.’ A Boy’s War Diary Tells of Grief in Ukraine.</a> WSJ: ‘I Cannot Imagine My Life Without Parents.’ A Boy’s War Diary Tells of Grief in Ukraine. 
  <p class="updated_time"> 09:38 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/nato-finland-sweden-ukraine.html">Finland and Sweden Move Toward NATO Membership. But What About Ukraine?</a> NYT: Ukraine has been considered too full of corruption and too devoid of democratic institutions to make membership likely for years, if not decades, to come. 
  <p class="updated_time"> 09:33 AM CT, May. 13 </p> 
@@ -53,32 +55,30 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/world/ukraine-war-crime-trial-russian-soldier.html">Ukraine Begins Trial of Russian Soldier Accused of a War Crime</a> NYT: Sgt. Vadim Shysimarin is accused of shooting a 62-year-old man on a bicycle in a village in the Sumy region, about 200 miles east of Kyiv. 
  <p class="updated_time"> 09:18 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/sweden-finland-nato-putin.html">After 200 Years of Neutrality, Sweden Weighs Joining NATO</a> NYT: Russia’s invasion of Ukraine created new fears, and the Swedes, dragged along by Finland, are expected to apply, reluctantly, to join the alliance and its collective defense. 
+ <p class="updated_time"> 09:16 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-president-vladimir-putins-reputed-girlfriend-sanctioned-by-u-k-11652438838">President Putin’s Reputed Girlfriend Sanctioned by U.K.</a> WSJ: President Putin’s Reputed Girlfriend Sanctioned by U.K. 
  <p class="updated_time"> 09:12 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61417926?at_medium=RSS&at_campaign=KARANGA">Eleven migrants drown trying to reach US territory</a> BBC: Almost 40 people, mostly from Haiti, were rescued after their boat capsized near Puerto Rico. 
- <p class="updated_time"> 08:45 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-president-vladimir-putins-reputed-girlfriend-sanctioned-by-u-k-11652438838">President Putin’s Reputed Girlfriend Sanctioned by U.K.</a> WSJ: President Putin’s Reputed Girlfriend Sanctioned by U.K. 
+ <p class="updated_time"> 08:16 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/kyiv-seeks-release-of-troops-in-besieged-azovstal-steel-plant-11652438695">Kyiv Seeks Release of Troops in Besieged Azovstal Steel Plant</a> WSJ: Kyiv Seeks Release of Troops in Besieged Azovstal Steel Plant 
  <p class="updated_time"> 08:12 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61439524?at_medium=RSS&at_campaign=KARANGA">Ukraine war: UK adds Putin's former wife to sanctions list</a> BBC: Both Vladimir Putin's former wife and his alleged current girlfriend are sanctioned over the war in Ukraine. 
  <p class="updated_time"> 08:05 AM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098748046/wnba-star-brittney-griner-detention-extended">WNBA star Brittney Griner's detention in Russia is extended by a month </a> NPR: The lawyer for the 31-year-old athlete said Friday her pre-trial detention in Russia has been extended by one month. Griner faces a trial on drug possession charges in mid-June. 
- <p class="updated_time"> 07:45 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/kyiv-seeks-release-of-troops-in-besieged-azovstal-steel-plant-11652438695">Kyiv Seeks Release of Troops in Besieged Azovstal Steel Plant</a> WSJ: Kyiv Seeks Release of Troops in Besieged Azovstal Steel Plant 
+ <p class="updated_time"> 07:47 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/chinas-covid-lockdowns-drive-middle-class-citizens-to-head-abroad-11652460449">China's Covid Lockdowns Drive Middle-Class Citizens to Head Abroad</a> WSJ: More than two years of border restrictions and a protracted lockdown of Shanghai are prompting some Chinese citizens to contemplate emigration, a prospect once unthinkable for many of them. 
  <p class="updated_time"> 07:14 AM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098743458/sheikh-khalifa-bin-zayed-uae-ruler-has-died">Sheikh Khalifa bin Zayed, the UAE's long-ailing leader, has died</a> NPR: The United Arab Emirates' long-ailing ruler, Sheikh Khalifa bin Zayed Al Nahyan, died Friday, the government's state-run news agency announced in a brief statement. He was 73. 
- <p class="updated_time"> 06:45 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/sheikh-khalifa-who-oversaw-u-a-e-s-stark-transformation-dies-at-73-11652441034">Sheikh Khalifa, Who Oversaw U.A.E.’s Stark Transformation, Dies at 73</a> WSJ: Sheikh Khalifa, Who Oversaw U.A.E.’s Stark Transformation, Dies at 73 
  <p class="updated_time"> 06:39 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/middleeast/sheikh-khalifa-uae-ruler-is-dead-at-73.html">Sheikh Khalifa, U.A.E. Ruler, Is Dead at 73</a> NYT: Sheikh Khalifa bin Zayed Al Nahyan was a key figure in his country’s history and one of the world’s richest monarchs. But he had a stroke in 2014 and had stepped back from many public duties. 
  <p class="updated_time"> 06:07 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/africa/south-africa-covid-vaccine-factory.html">Africa’s First Covid-19 Vaccine Factory Has Not Received a Single Order</a> NYT: Aspen Pharmacare, in South Africa, was licensed to produce the Johnson & Johnson vaccine. It was hailed as an answer to Africa’s struggle to get access to vaccines. 
  <p class="updated_time"> 05:30 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/asia/south-korea-cameras-ghost-surgery.html">In South Korea, ‘Ghost Surgeries’ Lead to Cameras in Hospitals</a> NYT: After scandals in which doctors let unsupervised assistants operate on patients, the country is becoming one of the first to require cameras in operating rooms. 
- <p class="updated_time"> 05:09 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/putin-russia-ukraine-finland-nato-11652386254">How Putin Drove Finland Into NATO's Arms</a> WSJ: For many Finns, Russia’s assault on Ukraine recalled the 1939 Soviet invasion of their homeland. Fear of another attack was enough to dismantle Helsinki’s seven-decade strategy of heavily armed nonalignment. “We have no other option.” 
  <p class="updated_time"> 04:00 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/middleeast/israel-judaism-referom-orthodox.html">A Rabbi’s Contentious Quest for Religious Pluralism in Israel</a> NYT: There is more than one way to be Jewish, says Gilad Kariv, the first Reform rabbi in Israel’s Parliament. The idea poses a challenge to the country’s Orthodox establishment. 
- <p class="updated_time"> 03:00 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/slowdown-in-canadas-housing-sector-shows-risk-of-higher-rates-11652443201">Slowdown in Canada's Housing Sector Shows Risk of Higher Rates</a> WSJ: The Bank of Canada’s efforts to curb inflation threaten to end the country’s real-estate boom, which has been a strong driver of its economy. 
+ <p class="updated_time"> 03:53 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/sheikh-khalifa-who-oversaw-u-a-e-s-stark-transformation-dies-at-73-11652441034">Sheikh Khalifa, Who Oversaw U.A.E.'s Stark Transformation, Dies at 73</a> WSJ: The second president of the United Arab Emirates and the ruler of Abu Dhabi shunned the limelight even as he oversaw his country’s remarkable transformation. 
  <p class="updated_time"> 02:23 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/finland-sweden-nato-russia-war.html">Finland Moves to Join NATO, Upending Putin’s Ukraine War Aims</a> NYT: Neutral Finland’s leaders unequivocally said they intended to seek membership in the alliance, with Sweden expected to do the same, inviting new threats from Moscow. 
  <p class="updated_time"> 02:18 AM CT, May. 13 </p> 
@@ -134,7 +134,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098585387/the-1st-image-of-the-supermassive-black-hole-at-our-galactic-center">The 1st image of the supermassive black hole at our galactic center</a> NPR: The first ever image of the black hole at the center of our galaxy has been released by scientists, who say it shows Albert Einstein was right about gravity. 
  <p class="updated_time"> 03:31 PM CT, May. 12 </p> 
- <a href="https://www.npr.org/2022/05/12/1098585380/business-owners-in-a-suburb-of-kyiv-are-trying-to-reopen-as-war-moves-east">Business owners in a suburb of Kyiv are trying to reopen as war moves east</a> NPR: As the war in Ukraine shifts east, many people are returning to the capital Kyiv. Residents in the heavily-shelled suburb of Bucha continue to clean up and businesses are starting to reopen. 
+ <a href="https://www.npr.org/2022/05/12/1098585380/russia-ukraine-war-bucha-kyiv-rebuild">Some war-ravaged parts of Ukraine try to rebuild as fighting rages elsewhere</a> NPR: Since the war has mainly shifted to the east of Ukraine, residents and business owners have been returning to parts of the Kyiv region, including hard-hit Bucha. 
  <p class="updated_time"> 03:31 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098585373/shireen-abu-akleh-did-the-stories-no-one-wanted-to-do-says-colleague">Shireen Abu Akleh did the stories no one wanted to do, says colleague</a> NPR: NPR's May Louise Kelly talks with journalist Dalia Hatuqa about her friend and colleague Shireen Abu Akleh, who was killed while reporting in occupied West Bank for Al Jazeera. 
  <p class="updated_time"> 03:31 PM CT, May. 12 </p> 
@@ -214,6 +214,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:48 AM CT, May. 13 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 11:32 AM CT, May. 13 </p> 
+ <a href="https://www.politico.com/news/2022/05/13/zinkes-wife-primary-residence-california-montana-00032405">Zinke’s wife declaring primary residence in California as he runs in Montana</a> Politico: The former Interior secretary and current congressional candidate has faced questions about where he lives. 
  <p class="updated_time"> 11:17 AM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098779201/texas-supreme-court-transgender-gender-affirming-child-abuse">Texas Supreme Court OKs state child abuse inquiries into the families of trans kids</a> NPR: The ruling overturns an injunction barring state officials from following Abbott's directive to view treatments such as hormones and puberty-blocking drugs as incidents of child abuse. 
  <p class="updated_time"> 10:40 AM CT, May. 13 </p> 
@@ -270,8 +274,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/13/duckworth-ftc-examine-formula-market-00032283">Duckworth asks FTC to examine formula market</a> Politico: The move comes as the country grapples with major disruptions of baby formula at the retail level. 
  <p class="updated_time"> 03:30 AM CT, May. 13 </p> 
  <a href="https://www.politico.com/gallery/2022/05/13/the-nations-cartoonists-on-the-week-in-politics-00032231">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 12:22 AM CT, May. 13 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 10:19 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/justice-department-trump-classified.html">Prosecutors Pursue Inquiry Into Trump’s Handling of Classified Material</a> NYT: A federal grand jury has issued at least one subpoena, and investigators are seeking interviews in the case of sensitive documents that ended up at the former president’s Florida home. 
  <p class="updated_time"> 09:12 PM CT, May. 12 </p> 
@@ -341,7 +343,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:05 PM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/staffer-resigned-over-trump-family-separation-report-00031776">Justice watchdog staffer resigned amid leak probe over Trump family separation report</a> Politico: DOJ Inspector General ordered investigation into who disclosed report about border policy. 
  <p class="updated_time"> 11:08 AM CT, May. 11 </p> 
- <a href="https://www.politico.com/news/2022/05/11/senate-doomed-vote-roe-abortion-rights-00031732">Senate fails to pass abortion rights bill — again</a> Politico: The largely symbolic vote to codify abortion protections didn't even garner a simple Senate majority, falling on the same lines a previous bill did in February. 
+ <a href="https://www.politico.com/news/2022/05/11/senate-doomed-vote-roe-abortion-rights-00031732">Battle lines harden as Senate prepares to take doomed vote on abortion rights</a> Politico: The largely symbolic vote to codify abortion protections will fail, with not even a simple Democratic majority supporting the bill. 
  <p class="updated_time"> 06:01 AM CT, May. 11 </p> 
  <a href="https://www.cnn.com/2022/05/11/politics/biden-student-loan-debt-forgiveness-10k/index.html">Here's who could benefit if Biden cancels $10,000 in student loan debt per borrower</a> CNN: President Joe Biden is taking a "hard look" at canceling some federal student loan debt, but even a broad forgiveness plan may leave out some of the 43 million borrowers. 
  <p class="updated_time"> 03:31 AM CT, May. 11 </p> 
@@ -362,8 +364,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/10/senate-republicans-mehmet-oz-dual-citizenship-00031541">Senate Republicans decry 'unsavory' attacks on Oz's dual citizenship</a> Politico: Two of the Donald Trump-backed TV star's GOP primary rivals in Pennsylvania are blasting his ties to Turkey. But Oz's potential future colleagues don't mind. 
  <p class="updated_time"> 01:14 PM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/congress-ukraine-aid-package-00031366">Congress races to pass $40B Ukraine aid package</a> Politico: Senate Minority Whip John Thune said Tuesday that negotiators were still trying to “iron out a few matters” and that the total may change. 
- <p class="updated_time"> 11:46 AM CT, May. 10 </p> 
- <a href="https://www.politico.com/news/2022/05/10/democrats-border-gop-covid-aid-00031371">Dems edge closer to giving GOP a border vote as a price for Covid aid</a> Politico: The party's No. 2 and No. 3 Senate leaders said they're prepared to take up a proposal that would block President Joe Biden's migration move. 
 
 
 </details>
