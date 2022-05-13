@@ -9,24 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:12 PM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/05/13/world/russia-ukraine-war-news">Ukraine Live Updates: West Ups Pressure on Putin, Including Sanctions on Reputed Girlfriend</a> NYT: The Russian leader was challenged by the prospect of an enlarged NATO, plans to get Ukrainian grain exports past a Kremlin blockade, and sanctions on his purported mistress. 
- <p class="updated_time"> 06:04 PM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/13/world/europe/ukraine-west-pressure-putin-sanctions-girlfriend.html">West Ups Pressure on Putin, Including Sanctions on Reputed Girlfriend</a> NYT: The Russian leader was challenged by the prospect of an enlarged NATO, plans to get Ukrainian grain exports past a Kremlin blockade, and sanctions on his purported mistress. 
- <p class="updated_time"> 05:59 PM CT, May. 13 </p> 
+ <p class="updated_time"> 06:39 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/middleeast/shireen-abu-akleh-funeral.html">Israeli Police Attack Mourners Before Funeral for Shireen Abu Akleh</a> NYT: As hundreds gathered to witness the start of Shireen Abu Akleh’s funeral procession, riot police assaulted the people carrying her coffin. 
+ <p class="updated_time"> 06:16 PM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/13/world/russia-ukraine-war-news">Ukraine Live Updates: West Ups Pressure on Putin, Including Sanctions on Reputed Girlfriend</a> NYT: The Russian leader was challenged by the prospect of an enlarged NATO, plans to get Ukrainian grain exports past a Kremlin blockade, and sanctions on his purported mistress. 
+ <p class="updated_time"> 06:16 PM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/world/europe/putin-sanctions-girlfriend-us-russia.html">West Ups Pressure on Putin, Including Sanctions on Reputed Girlfriend</a> NYT: The Russian leader was challenged by the prospect of an enlarged NATO, plans to get Ukrainian grain exports past a Kremlin blockade, and sanctions on his purported mistress. 
  <p class="updated_time"> 05:56 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/shireen-abu-akleh-funeral-israel">Israeli Police Attack Mourners at Palestinian Journalist’s Funeral</a> NYT: Video showed police officers in Jerusalem beating and kicking mourners next to the coffin of Shireen Abu Akleh, an Al Jazeera reporter who was killed on Wednesday, forcing one to the ground. 
- <p class="updated_time"> 05:18 PM CT, May. 13 </p> 
+ <p class="updated_time"> 05:40 PM CT, May. 13 </p> 
  <a href="https://www.wsj.com/articles/putin-russia-ukraine-finland-nato-11652386254">How Putin Drove Finland Into NATO’s Arms</a> WSJ: How Putin Drove Finland Into NATO’s Arms 
  <p class="updated_time"> 05:07 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/asia/south-korea-tattoo-artists.html">Tattoos, Still Illegal in South Korea, Thrive Underground</a> NYT: Tattoo artists, long treated as criminals for their work, say that it is time to end the stigma against their business. 
  <p class="updated_time"> 04:50 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/putin-family-wealth-sanctions.html">Sanctions Shed Light on Putin’s Private Life</a> NYT: As Western nations place sanctions on people close to the Russian leader, including family members, the strict secrecy surrounding his private life is being punctured. 
+ <p class="updated_time"> 04:40 PM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200">A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents.’</a> WSJ: A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents.’ 
  <p class="updated_time"> 04:30 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/robert-c-mcfarlane-dead.html">Robert C. McFarlane, Top Reagan Aide in Iran-Contra Affair, Dies at 84</a> NYT: As national security adviser, he pleaded guilty in an illegal scheme to aid Nicaraguan rebels in the 1980s. Guilt-ridden, he attempted suicide. 
- <p class="updated_time"> 04:18 PM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200">A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents.’</a> WSJ: A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents.’ 
  <p class="updated_time"> 04:13 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098865269/protests-in-sri-lanka-have-turned-violent-amid-power-food-and-medicine-shortages">Protests in Sri Lanka have turned violent amid power, food and medicine shortages</a> NPR: NPR's Adrian Florido talks with journalist Sulochana Ramiah about Sri Lanka's protests, which have turned violent. The country is in crisis, with power blackouts and food shortages. 
  <p class="updated_time"> 04:05 PM CT, May. 13 </p> 
@@ -45,12 +45,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/13/1098865213/lebanons-economic-crisis-will-be-on-voters-minds-during-parliamentary-elections">Lebanon's economic crisis will be on voters' minds during parliamentary elections</a> NPR: Lebanon is holding parliamentary elections against the backdrop of a severe economic crisis. Here's a look at what's at stake for those in power and the candidates trying to replace them. 
  <p class="updated_time"> 03:40 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098865204/a-ukrainian-singer-finds-his-voice-on-the-streets-of-warsaw-poland">A Ukrainian singer finds his voice on the streets of Warsaw, Poland</a> NPR: Roman Panchenko moved to Poland from Chernihiv a few years ago and was afraid of singing in the streets. But now, after the war started, he sings Ukrainian songs in a Warsaw plaza to help his country. 
+ <p class="updated_time"> 03:40 PM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/israeli-forces-palestinians-clash-in-west-bank-before-funeral-of-journalist-11652471399">Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist</a> WSJ: Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist 
  <p class="updated_time"> 03:33 PM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61437601?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: Violence at Al Jazeera reporter's funeral in Jerusalem</a> BBC: Police with riot gear hit mourners, saying they were pelted with stones, as crowds carry her coffin. 
  <p class="updated_time"> 03:19 PM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-61442432?at_medium=RSS&at_campaign=KARANGA">Russian operator to suspend electricity supply to Finland</a> BBC: Russian operator RAO Nordic says it will cease deliveries from Saturday, citing payment problems. 
- <p class="updated_time"> 03:18 PM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/israeli-forces-palestinians-clash-in-west-bank-before-funeral-of-journalist-11652471399">Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist</a> WSJ: Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist 
  <p class="updated_time"> 03:16 PM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61442748?at_medium=RSS&at_campaign=KARANGA">Mao Zedong scroll thieves jailed in Hong Kong</a> BBC: The thieves were unaware of its value and sold it to an amateur collector for less than $25 (£20). 
  <p class="updated_time"> 02:55 PM CT, May. 13 </p> 
@@ -61,13 +61,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/world/europe/germany-right-extremists-security-services.html">Germany Identifies Far-Right Extremists Working in Security Services</a> NYT: The report reflects an effort by the authorities to come to grips with a long-running problem following several scandals involving members of the far right. 
  <p class="updated_time"> 02:40 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098859296/palestinians-and-israeli-police-clash-at-the-funeral-for-journalist-shireen-abu-">Palestinians and Israeli police clash at the funeral for journalist Shireen Abu Akleh</a> NPR: The funeral for Palestinian American journalist Shireen Abu Akleh just outside of the Old City of Jerusalem on Friday began with skirmishes between Palestinian mourners and Israeli police. 
+ <p class="updated_time"> 02:40 PM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/chinas-covid-lockdowns-drive-middle-class-citizens-to-head-abroad-11652460449">China’s Covid Lockdowns Drive Middle-Class Citizens to Go Abroad</a> WSJ: China’s Covid Lockdowns Drive Middle-Class Citizens to Go Abroad 
  <p class="updated_time"> 02:25 PM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61445600?at_medium=RSS&at_campaign=KARANGA">Dozens die as blaze guts office building in India capital Delhi</a> BBC: A huge fire kills at least 27 people in a four-storey commercial building near Mundka metro station. 
- <p class="updated_time"> 02:18 PM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/chinas-covid-lockdowns-drive-middle-class-citizens-to-head-abroad-11652460449">China’s Covid Lockdowns Drive Middle-Class Citizens to Go Abroad</a> WSJ: China’s Covid Lockdowns Drive Middle-Class Citizens to Go Abroad 
  <p class="updated_time"> 02:12 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/asia/robredo-philippine-election.html">Robredo Admits Defeat in Philippine Presidential Election</a> NYT: Leni Robredo urged her supporters, many of them young voters, to accept her defeat but didn’t refer to Ferdinand Marcos Jr. by name. 
- <p class="updated_time"> 01:18 PM CT, May. 13 </p> 
+ <p class="updated_time"> 01:40 PM CT, May. 13 </p> 
  <a href="https://www.wsj.com/articles/u-s-eases-sanctions-on-syrian-areas-outside-assads-control-11652460888">U.S. Eases Some Syria Sanctions</a> WSJ: U.S. Eases Some Syria Sanctions 
  <p class="updated_time"> 01:08 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/ukraine-russian-forces-pontoon-bridges-river.html">Ukraine Decimated Russian Forces Trying to Cross a River in the East, U.K. Says</a> NYT: Russian forces have been struggling to make significant progress along the eastern front. 
@@ -204,7 +204,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:14 PM CT, May. 13 </p> 
+ <p class="updated_time"> 06:35 PM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/us/politics/biden-police-stimulus-funds.html">‘Spend This Money’: Biden Calls on States to Devote Stimulus Funds to Police</a> NYT: Ahead of the midterm elections, President Biden is making a forceful push to show he is a defender of law enforcement. 
+ <p class="updated_time"> 06:26 PM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/us/title-42-border-migrant-expulsions.html">More Than 20 States Press Judge to Continue Migrant Expulsions</a> NYT: A federal judge promised to rule by May 23 on the public health measure, known as Title 42, that has barred migrants from requesting asylum. 
+ <p class="updated_time"> 06:24 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/politics/fox-news-barnette-oz-pennsylvania.html">Fox News Hosts Splinter as Chaotic Pennsylvania Primaries Heat Up</a> NYT: The rise of Kathy Barnette in the state’s G.O.P. Senate race has divided the network’s stars, with some backing her and others going on the attack to help a rival, Dr. Mehmet Oz. 
  <p class="updated_time"> 05:57 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/politics/jan-6-republicans-subpoenas.html">What the Jan. 6 Panel Wants to Learn From 5 G.O.P. Lawmakers</a> NYT: The committee’s subpoenas to five House Republicans underscore the potential importance of their testimony to producing a full account of the effort to overturn the 2020 election. 
@@ -213,15 +217,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:13 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/politics/baby-formula-shortage-biden-immigration.html">Republicans Wrongly Tie Biden Immigration Policies to Baby Formula Shortage</a> NYT: A lawsuit settlement requires the federal government to provide water and food, including formula, to detained migrant children. 
  <p class="updated_time"> 04:49 PM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/13/us/politics/baby-formula-shortage-biden.html">House Plans Vote to Ease Baby Formula Shortage as Biden Pledges Quick Action</a> NYT: Speaker Nancy Pelosi said the House would move to provide regulatory relief and funds to bolster the infant formula supply, as the president said his team was acting within “weeks or less.” 
+ <a href="https://www.nytimes.com/2022/05/13/us/politics/baby-formula-shortage-biden.html">House Plans Vote to Ease Formula Crisis as Biden Pledges Quick Action</a> NYT: Speaker Nancy Pelosi said the House would move to provide regulatory relief and funds to bolster the infant formula supply, as the president said his team was acting within “weeks or less.” 
  <p class="updated_time"> 04:27 PM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/13/florida-redistricting-case-desantis-00032483">DeSantis appeals Florida judge's order blocking his redistricting map</a> Politico: Florida’s redistricting process has dragged on for months. 
  <p class="updated_time"> 04:24 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/politics/pennsylvania-gop-primary-voters.html">For Many Pennsylvania Voters, Trumpism Is Bigger Than Trump</a> NYT: Interviews show Dr. Mehmet Oz struggling in the G.O.P. Senate primary, despite a Trump endorsement. Voters remain devoted to Donald Trump but seem less swayed by his guidance. 
  <p class="updated_time"> 04:05 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/politics/russia-sanctions-evasion-treasury.html">Treasury Warns Foreign Banks Against Helping Russia Evade Sanctions</a> NYT: Adewale Adeyemo, the deputy Treasury secretary, met privately with international financial institutions to make clear the consequences of sanctions evasion. 
- <p class="updated_time"> 04:04 PM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/13/us/title-42-border-migrant-expulsions.html">More Than 20 States Press Judge to Continue Migrant Expulsions</a> NYT: A federal judge promised to rule by May 23 on the public health measure, known as Title 42, that has barred migrants from requesting asylum. 
  <p class="updated_time"> 04:04 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098865241/texas-gov-abbots-migration-crackdown-hasnt-exactly-gone-as-he-planned">Texas Gov. Abbott's migration crackdown hasn't exactly gone as he planned</a> NPR: Texas Gov. Greg Abbott, a Republican, has been testing the limits of how much his state can do to curb unauthorized migration. But Abbott's sweeping crackdown hasn't always gone as planned. 
  <p class="updated_time"> 03:56 PM CT, May. 13 </p> 
@@ -322,8 +324,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/us/politics/meatpackers-trump-covid.html">Meatpackers Misled Public and Influenced Trump Administration During Covid, Report Says</a> NYT: A congressional report claimed that meatpacking companies issued “baseless” warnings about food shortages and influenced government decisions to keep plants open early in the pandemic. 
  <p class="updated_time"> 04:53 PM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/dems-need-november-turnaround-save-roe-00032209">Dems face facts: They need a November turnaround to save Roe</a> Politico: The party isn't done voting on abortion rights this year. But its members admit, with striking candor, that they can't pass anything without bigger majorities. 
- <p class="updated_time"> 04:53 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/us/democracy-trump.html">Trump’s Former Aides and Advisers on the Peril He Poses</a> NYT: Former Secretary of Defense Mark Esper agreed with an interviewer that President Trump posed “a threat to democracy.” Other former administration officials have expressed similar concerns. 
  <p class="updated_time"> 04:35 PM CT, May. 12 </p> 
  <a href="https://www.cnn.com/2022/05/12/politics/biden-infant-formula-meeting/index.html">White House struggles for answers on infant formula shortage</a> CNN: The White House is struggling to answer questions about a baby formula shortage in the United States as the scope of the crisis becomes clearer and store shelves remain bare. 
  <p class="updated_time"> 03:55 PM CT, May. 12 </p> 
@@ -356,8 +356,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/10/eastman-emails-pennsylvania-legislators-biden-00031668">'Provide some cover': New Eastman emails shed light on his push to overturn Biden's win</a> Politico: He suggested a way for Pennsylvania legislators to cancel Joe Biden's win. 
  <p class="updated_time"> 07:39 PM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/house-gives-green-light-to-staffer-unionization-00031543">House gives green light to staffer unionization</a> Politico: The Congressional Workers Union has labored behind the scenes for months to jump-start the unionization process among House offices. And they're not alone. 
- <p class="updated_time"> 06:19 PM CT, May. 10 </p> 
- <a href="https://www.politico.com/news/2022/05/10/pennsylvania-republicans-stop-mastriano-00031607">Pennsylvania GOP panics over possible Mastriano nomination</a> Politico: Republicans are increasingly worried that a ticket led by gubernatorial frontrunner Doug Mastriano could lead to defeat in November. 
 
 
 </details>
