@@ -9,36 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:00 AM CT, May. 13 </p> 
+ <p class="updated_time"> 02:24 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/12/world/russia-ukraine-war-news">What Happened on Day 78 of the War in Ukraine</a> NYT: Neutral Finland’s leaders unequivocally said they intended to seek membership in the alliance, with Sweden expected to do the same, inviting new threats from Moscow. 
+ <p class="updated_time"> 02:24 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/us/politics/nato-finland-sweden-ukraine.html">U.S. Embraces Finland’s Move Toward NATO Membership. What About Ukraine?</a> NYT: Ukraine has been considered too full of corruption and too devoid of democratic institutions to make membership likely for years, if not decades, to come. 
+ <p class="updated_time"> 02:23 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/world/europe/finland-sweden-nato-russia-war.html">Finland Moves to Join NATO, Upending Putin’s Ukraine War Aims</a> NYT: Neutral Finland’s leaders unequivocally said they intended to seek membership in the alliance, with Sweden expected to do the same, inviting new threats from Moscow. 
+ <p class="updated_time"> 02:18 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/us/biden-covid-deaths-flags-half-staff.html">Biden Orders Federal Flags to Fly at Half-Staff as U.S. Covid Toll Nears One Million</a> NYT: The president said in a formal statement that the United States must ‘remain vigilant’ against a virus that has ‘forever changed’ the country. 
+ <p class="updated_time"> 02:13 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/business/economy/russia-shipping-sanctions.html">Russian Shipping Traffic Remains Strong as Sanctions Take Time to Bite</a> NYT: The traffic was robust in March and April, reflecting the time it takes for sanctions to come into effect and an enduring profit motive for trading Russian energy. 
- <p class="updated_time"> 01:10 AM CT, May. 13 </p> 
+ <p class="updated_time"> 02:10 AM CT, May. 13 </p> 
+ <a href="https://www.npr.org/2022/05/13/1098734688/biden-looks-to-nudge-asean-russia">Biden looks to nudge ASEAN leaders to speak out on Russia</a> NPR: Despite Washington's focus on the war in Ukraine, the White House is trying to demonstrate that it is stepping up in the Asia-Pacific. 
+ <p class="updated_time"> 01:31 AM CT, May. 13 </p> 
  <a href="https://www.wsj.com/video/series/in-depth-features/ukraine-road-of-death-shows-russians-fired-on-civilians-a-video-investigation/23BCD65C-AF57-4316-8FE9-3F3FD0A3CD58">Ukraine’s ‘Road of Death’: Video Investigation Shows Russians Fired on Civilians</a> WSJ: Ukraine’s ‘Road of Death’: Video Investigation Shows Russians Fired on Civilians 
  <p class="updated_time"> 01:05 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/africa/south-africa-covid-vaccine-factory.html">Africa’s First Covid-19 Vaccine Factory Has Not Received a Single Order</a> NYT: Aspen Pharmacare, in South Africa, was licensed to produce the Johnson & Johnson vaccine. It was hailed as an answer to Africa’s struggle to get access to vaccines. 
  <p class="updated_time"> 12:33 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61432084?at_medium=RSS&at_campaign=KARANGA">North Korea announces first death from Covid-19</a> BBC: A day after confirming its first cases, state media reports thousands are suffering fever symptoms. 
- <p class="updated_time"> 12:18 AM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/05/12/world/russia-ukraine-war-news">What Happened on Day 78 of the War in Ukraine</a> NYT: Neutral Finland’s leaders unequivocally said they intended to seek membership in the alliance, with Sweden expected to do the same, inviting new threats from Moscow. 
- <p class="updated_time"> 12:10 AM CT, May. 13 </p> 
+ <p class="updated_time"> 12:31 AM CT, May. 13 </p> 
  <a href="https://www.wsj.com/articles/palestinians-reject-israeli-request-to-examine-bullet-that-killed-al-jazeera-journalist-11652350122">Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist</a> WSJ: Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist 
  <p class="updated_time"> 12:09 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/rand-paul-ukraine-aid.html">Rand Paul Delays $40 Billion in Aid for Ukraine</a> NYT: Mr. Paul had sought to alter the bill to include requiring that an inspector general monitor the spending. 
- <p class="updated_time"> 11:30 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/us/politics/nato-finland-sweden-ukraine.html">U.S. Embraces Finland’s Move Toward NATO Membership. What About Ukraine?</a> NYT: Ukraine has been considered too full of corruption and too devoid of democratic institutions to make membership likely for years, if not decades, to come. 
- <p class="updated_time"> 11:10 PM CT, May. 12 </p> 
+ <p class="updated_time"> 11:31 PM CT, May. 12 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-president-appoints-new-prime-minister-after-protests-turn-deadly-11652373002">Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly</a> WSJ: Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly 
  <p class="updated_time"> 10:51 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61420185?at_medium=RSS&at_campaign=KARANGA">Finland Nato: Russia threatens to retaliate over membership move</a> BBC: Finland's leaders say they want the country to apply for membership of the alliance "without delay". 
- <p class="updated_time"> 10:10 PM CT, May. 12 </p> 
+ <p class="updated_time"> 10:31 PM CT, May. 12 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-hold-the-line-in-donbas-as-western-heavy-weapons-join-the-battle-11652362422">Ukrainian Forces Hold the Line in Donbas as Western Heavy Weapons Join the Battle</a> WSJ: Ukrainian Forces Hold the Line in Donbas as Western Heavy Weapons Join the Battle 
  <p class="updated_time"> 09:59 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/asia/north-korea-covid-deaths.html">North Korea Reports 6 Deaths as Covid-19 Spreads ‘Explosively’ </a> NYT: The country’s leader, Kim Jong-un, said 187,800 people were in quarantine, and state TV showed him wearing a mask for the first time. 
  <p class="updated_time"> 09:46 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/05/12/world/al-jazeera-journalist-killed-west-bank">Investigation of Journalist’s Killing May Hinge on Bullet</a> NYT: The Palestinian Authority said it would not let Israeli officials examine the bullet that killed Shireen Abu Akleh in the occupied West Bank during an Israeli raid. Israel said that is the only way to determine who fired it. 
+ <p class="updated_time"> 09:31 PM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-cites-explosive-national-covid-19-outbreak-reports-first-death-11652408080">North Korea Cites Explosive National Covid Outbreak, Reports First Death</a> WSJ: North Korea Cites Explosive National Covid Outbreak, Reports First Death 
  <p class="updated_time"> 09:12 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/russian-money-uk-tories.html">U.K. Donor Said to Have Funneled Russian Money to Tories</a> NYT: The cash was part of a fund-raising blitz that helped propel Prime Minister Boris Johnson’s party to victory in 2019. Records track $630,225 to a Russian bank account. 
- <p class="updated_time"> 09:10 PM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/north-korea-cites-explosive-national-covid-19-outbreak-reports-first-death-11652408080">North Korea Cites Explosive National Covid Outbreak, Reports First Death</a> WSJ: North Korea Cites Explosive National Covid Outbreak, Reports First Death 
  <p class="updated_time"> 07:47 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61424869?at_medium=RSS&at_campaign=KARANGA">Couple in India sue son for not giving them a grandchild</a> BBC: The Indian parents say they used up their savings raising their son and paying for his wedding. 
  <p class="updated_time"> 07:22 PM CT, May. 12 </p> 
@@ -53,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61410449?at_medium=RSS&at_campaign=KARANGA">LPG price: Millions hit hard as cooking gas cost soars in India</a> BBC: Many households in rural areas are forced to rely on wood for cooking as gas has become unaffordable. 
  <p class="updated_time"> 06:20 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61411532?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: How war heroes became villains</a> BBC: The Rajapaksa brothers, hailed by many as heroes for winning the civil war, are now reviled as leaders. 
- <p class="updated_time"> 06:16 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/world/europe/finland-sweden-nato-russia-war.html">Finland Moves to Join NATO, Upending Putin’s Ukraine War Aims</a> NYT: Neutral Finland’s leaders unequivocally said they intended to seek membership in the alliance, with Sweden expected to do the same, inviting new threats from Moscow. 
  <p class="updated_time"> 06:13 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61404083?at_medium=RSS&at_campaign=KARANGA">Afghanistan pupils in fear after spate of Islamic State attacks</a> BBC: A spate of Islamic State attacks have left Afghan students in fear and test Taliban security claims. 
  <p class="updated_time"> 06:07 PM CT, May. 12 </p> 
@@ -99,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/12/1098585373/shireen-abu-akleh-did-the-stories-no-one-wanted-to-do-says-colleague">Shireen Abu Akleh did the stories no one wanted to do, says colleague</a> NPR: NPR's May Louise Kelly talks with journalist Dalia Hatuqa about her friend and colleague Shireen Abu Akleh, who was killed while reporting in occupied West Bank for Al Jazeera. 
  <p class="updated_time"> 03:31 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098585352/journalist-kathy-gannon-retires-after-35-years-covering-afghanistan">Journalist Kathy Gannon retires after 35 years covering Afghanistan</a> NPR: NPR's Ailsa Chang speaks with Kathy Gannon, who is retiring after 35 years of covering Afghanistan and Pakistan for The Associated Press, about the most significant moments from those years. 
- <p class="updated_time"> 03:23 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/us/biden-covid-deaths-flags-half-staff.html">Biden Orders Federal Flags to Fly at Half-Staff as U.S. Covid Toll Nears One Million</a> NYT: The president said in a formal statement that the United States must ‘remain vigilant’ against a virus that has ‘forever changed’ the country. 
  <p class="updated_time"> 03:02 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61429761?at_medium=RSS&at_campaign=KARANGA">Rwandan genocide fugitive Protais Mpiranya confirmed dead</a> BBC: Protais Mpiranya led the presidential guard that killed the then-PM and 10 Belgian peacekeepers. 
  <p class="updated_time"> 02:45 PM CT, May. 12 </p> 
@@ -137,8 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/world/americas/el-salvador-prison-gangs-bukele.html">Families Reel Outside El Salvador Prisons After Gang Violence Crackdowns</a> NYT: Dozens of women wait outside a detention facility for news of their loved ones after a crackdown on gang violence resulted in the imprisonment of more than 25,000 people. 
  <p class="updated_time"> 08:31 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/asia/thailand-legal-weed-plant.html">Thailand Is Easing Weed Laws and Giving Away Cannabis Plants</a> NYT: The Southeast Asian country will soon allow residents to grow cannabis for medicinal use. Smoking pot recreationally still carries harsh penalties. 
- <p class="updated_time"> 08:22 AM CT, May. 12 </p> 
- <a href="https://www.npr.org/2022/05/12/1098472567/image-black-hole-milky-way">This is the first image of the black hole at the heart of the Milky Way</a> NPR: "We finally have the first look at our Milky Way black hole, Sagittarius A*," an international team of astrophysicists and researchers from the Event Horizon Telescope team said. 
  <p class="updated_time"> 08:11 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61425025?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russian soldiers seen shooting dead unarmed civilians</a> BBC: The incident, captured on video seen by the BBC, is being investigated as a suspected war crime. 
  <p class="updated_time"> 08:11 AM CT, May. 12 </p> 
@@ -222,12 +222,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:00 AM CT, May. 13 </p> 
+ <p class="updated_time"> 02:24 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/us/politics/nato-finland-sweden-ukraine.html">U.S. Embraces Finland’s Move Toward NATO Membership. What About Ukraine?</a> NYT: Ukraine has been considered too full of corruption and too devoid of democratic institutions to make membership likely for years, if not decades, to come. 
+ <p class="updated_time"> 02:18 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/us/biden-covid-deaths-flags-half-staff.html">Biden Orders Federal Flags to Fly at Half-Staff as U.S. Covid Toll Nears One Million</a> NYT: The president said in a formal statement that the United States must ‘remain vigilant’ against a virus that has ‘forever changed’ the country. 
+ <p class="updated_time"> 02:13 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/business/economy/russia-shipping-sanctions.html">Russian Shipping Traffic Remains Strong as Sanctions Take Time to Bite</a> NYT: The traffic was robust in March and April, reflecting the time it takes for sanctions to come into effect and an enduring profit motive for trading Russian energy. 
  <p class="updated_time"> 12:22 AM CT, May. 13 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 11:30 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/us/politics/nato-finland-sweden-ukraine.html">U.S. Embraces Finland’s Move Toward NATO Membership. What About Ukraine?</a> NYT: Ukraine has been considered too full of corruption and too devoid of democratic institutions to make membership likely for years, if not decades, to come. 
  <p class="updated_time"> 10:19 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/justice-department-trump-classified.html">Prosecutors Pursue Inquiry Into Trump’s Handling of Classified Material</a> NYT: A federal grand jury has issued at least one subpoena, and investigators are seeking interviews in the case of sensitive documents that ended up at the former president’s Florida home. 
  <p class="updated_time"> 09:12 PM CT, May. 12 </p> 
@@ -276,8 +278,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/12/1098585394/the-jan-6-committee-has-issued-subpoenas-for-5-house-republicans">The Jan. 6 committee has issued subpoenas for 5 House Republicans</a> NPR: In an unprecedented move, the House select committee on the Jan. 6 attack on the Capitol has issued subpoenas for five Congressional Republicans, including GOP leader Kevin McCarthy. 
  <p class="updated_time"> 03:41 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/trump-kathy-barnette-pennsylvania-election.html">Trump Criticizes Kathy Barnette as She Surges in Pennsylvania’s G.O.P. Senate Primary</a> NYT: Ms. Barnette’s momentum in the polls has drawn the attention of the former president, who endorsed Dr. Mehmet Oz in the race. 
- <p class="updated_time"> 03:23 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/us/biden-covid-deaths-flags-half-staff.html">Biden Orders Federal Flags to Fly at Half-Staff as U.S. Covid Toll Nears One Million</a> NYT: The president said in a formal statement that the United States must ‘remain vigilant’ against a virus that has ‘forever changed’ the country. 
  <p class="updated_time"> 03:22 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098564711/baby-formula-shortage-kirsten-gillibrand">Senator says Biden should consider Defense Production Act to boost baby formula supply</a> NPR: Regular and specialized baby formulas have been running low across the U.S. Sen. Kirsten Gillibrand says she will ask President Biden to consider using the Defense Production Act to boost production. 
  <p class="updated_time"> 03:06 PM CT, May. 12 </p> 
