@@ -9,8 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:51 AM CT, May. 13 </p> 
+ <p class="updated_time"> 07:43 AM CT, May. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61434304?at_medium=RSS&at_campaign=KARANGA">Sri Lanka economy crisis to get worse before it gets better, PM says</a> BBC: Sri Lanka's new PM tells the BBC the country's dire economic crisis will get worse before it gets better. 
+ <p class="updated_time"> 07:37 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/russia-ukraine-war-news">Ukraine Live Updates: Sweden Says Joining NATO Would Have ‘Conflict-Dampening Effect’</a> NYT: A report released by Stockholm signaled that it would likely follow Finland’s lead in vowing to apply for NATO membership. The moves come as the Group of 7’s agricultural ministers met in Germany to discuss new ways to get Ukrainian harvests to world markets. 
+ <p class="updated_time"> 07:14 AM CT, May. 13 </p> 
+ <a href="https://www.npr.org/2022/05/13/1098743458/sheikh-khalifa-bin-zayed-uae-ruler-has-died">Sheikh Khalifa bin Zayed, the UAE's long-ailing leader, has died</a> NPR: The United Arab Emirates' long-ailing ruler, Sheikh Khalifa bin Zayed Al Nahyan, died Friday, the government's state-run news agency announced in a brief statement. He was 73. 
+ <p class="updated_time"> 06:50 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/video/china-struggles-to-contain-frustration-from-shanghai-covid-lockdown/FEE5E499-E9D9-42D0-8C64-64B778D0BCD7.html">China Struggles to Contain Frustration From Shanghai Covid Lockdown</a> WSJ: China Struggles to Contain Frustration From Shanghai Covid Lockdown 
+ <p class="updated_time"> 06:39 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/world/middleeast/sheikh-khalifa-uae-ruler-is-dead-at-73.html">Sheikh Khalifa, U.A.E. Ruler, Is Dead at 73</a> NYT: Sheikh Khalifa bin Zayed Al Nahyan was a key figure in his country’s history and one of the world’s richest monarchs. But he had a stroke in 2014 and had stepped back from many public duties. 
  <p class="updated_time"> 06:36 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/sweden-finland-nato-putin.html">After 200 Years of Neutrality, Sweden Weighs Joining NATO</a> NYT: Russia’s invasion of Ukraine created new fears, and the Swedes, dragged along by Finland, are expected to apply, reluctantly, to join the alliance and its collective defense. 
  <p class="updated_time"> 06:36 AM CT, May. 13 </p> 
@@ -19,28 +27,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/world/africa/south-africa-covid-vaccine-factory.html">Africa’s First Covid-19 Vaccine Factory Has Not Received a Single Order</a> NYT: Aspen Pharmacare, in South Africa, was licensed to produce the Johnson & Johnson vaccine. It was hailed as an answer to Africa’s struggle to get access to vaccines. 
  <p class="updated_time"> 06:00 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/climate/south-africa-floods-climate-change.html">Did Warming Play a Role in Deadly South African Floods? Yes, a Study Says.</a> NYT: Climate change sharply increased the chances of catastrophic rains in the country’s east, a team of researchers has found. 
- <p class="updated_time"> 05:59 AM CT, May. 13 </p> 
+ <p class="updated_time"> 05:50 AM CT, May. 13 </p> 
  <a href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200">‘I Cannot Imagine My Life Without Parents.’ A Boy’s War Diary Tells of Grief in Ukraine</a> WSJ: ‘I Cannot Imagine My Life Without Parents.’ A Boy’s War Diary Tells of Grief in Ukraine 
  <p class="updated_time"> 05:30 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/asia/south-korea-cameras-ghost-surgery.html">In South Korea, ‘Ghost Surgeries’ Lead to Cameras in Hospitals</a> NYT: After scandals in which doctors let unsupervised assistants operate on patients, the country is becoming one of the first to require cameras in operating rooms. 
- <p class="updated_time"> 05:21 AM CT, May. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61434304?at_medium=RSS&at_campaign=KARANGA">Sri Lanka economy crisis to get worse before it gets better, PM says</a> BBC: Sri Lanka's new PM tells the BBC the country's dire economic crisis will get worse before it gets better. 
- <p class="updated_time"> 04:59 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-hold-the-line-in-donbas-as-western-heavy-weapons-join-the-battle-11652362422">Ukraine Holds Line as Western Heavy Arms Join Fight</a> WSJ: Ukraine Holds Line as Western Heavy Arms Join Fight 
+ <p class="updated_time"> 04:50 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-president-vladimir-putins-reputed-girlfriend-sanctioned-by-u-k-11652438838">President Putin’s Reputed Girlfriend Sanctioned by U.K.</a> WSJ: President Putin’s Reputed Girlfriend Sanctioned by U.K. 
  <p class="updated_time"> 04:13 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61428970?at_medium=RSS&at_campaign=KARANGA">Platinum Jubilee: Lemon and amaretti trifle to be official pudding</a> BBC: Jemma Melvin's creation is inspired by a lemon posset served at the Queen's wedding to Prince Philip. 
  <p class="updated_time"> 04:00 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/middleeast/israel-judaism-referom-orthodox.html">A Rabbi’s Contentious Quest for Religious Pluralism in Israel</a> NYT: There is more than one way to be Jewish, says Gilad Kariv, the first Reform rabbi in Israel’s Parliament. The idea poses a challenge to the country’s Orthodox establishment. 
- <p class="updated_time"> 03:59 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/seoul-to-offer-vaccines-to-help-north-korea-tackle-covid-outbreak-11652431748">Seoul to Offer Vaccines to Help North Korea Tackle Covid Outbreak</a> WSJ: Seoul to Offer Vaccines to Help North Korea Tackle Covid Outbreak 
- <p class="updated_time"> 02:59 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/palestinians-reject-israeli-request-to-examine-bullet-that-killed-al-jazeera-journalist-11652350122">Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist</a> WSJ: Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist 
- <p class="updated_time"> 02:44 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/kyiv-seeks-release-of-troops-in-besieged-azovstal-steel-plant-11652438695">Kyiv Seeks Release of Troops in Besieged Azovstal Steel Plant</a> WSJ: The Ukrainian government said it had opened talks on evacuating soldiers trapped in the Azovstal steel mill in Mariupol in stages, as the EU was preparing a proposal to boost funding for Ukraine’s military. 
- <p class="updated_time"> 02:42 AM CT, May. 13 </p> 
+ <p class="updated_time"> 03:50 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/kyiv-seeks-release-of-troops-in-besieged-azovstal-steel-plant-11652438695">Kyiv Seeks Release of Troops in Besieged Azovstal Steel Plant</a> WSJ: Kyiv Seeks Release of Troops in Besieged Azovstal Steel Plant 
+ <p class="updated_time"> 02:52 AM CT, May. 13 </p> 
  <a href="https://www.wsj.com/articles/sheikh-khalifa-who-oversaw-u-a-e-s-stark-transformation-dies-at-73-11652441034">Sheikh Khalifa, Who Oversaw U.A.E.'s Stark Transformation, Dies at 73</a> WSJ: The second president of the United Arab Emirates and the ruler of Abu Dhabi shunned the limelight even as he oversaw his country’s remarkable transformation. 
- <p class="updated_time"> 02:34 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/russian-president-vladimir-putins-reputed-girlfriend-sanctioned-by-u-k-11652438838">President Putin's Reputed Girlfriend Sanctioned by U.K.</a> WSJ: The U.K. sanctioned Alina Kabaeva, a retired Olympic rhythmic gymnast that several Western governments believe to be Vladimir Putin’s girlfriend, as part of a crackdown of people close to the Russian president. 
  <p class="updated_time"> 02:24 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/nato-finland-sweden-ukraine.html">U.S. Embraces Finland’s Move Toward NATO Membership. What About Ukraine?</a> NYT: Ukraine has been considered too full of corruption and too devoid of democratic institutions to make membership likely for years, if not decades, to come. 
  <p class="updated_time"> 02:23 AM CT, May. 13 </p> 
@@ -51,12 +51,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/business/economy/russia-shipping-sanctions.html">Russian Shipping Traffic Remains Strong as Sanctions Take Time to Bite</a> NYT: The traffic was robust in March and April, reflecting the time it takes for sanctions to come into effect and an enduring profit motive for trading Russian energy. 
  <p class="updated_time"> 02:10 AM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098734688/biden-looks-to-nudge-asean-russia">Biden looks to nudge ASEAN leaders to speak out on Russia</a> NPR: Despite Washington's focus on the war in Ukraine, the White House is trying to demonstrate that it is stepping up in the Asia-Pacific. 
- <p class="updated_time"> 01:59 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/sri-lankan-president-appoints-new-prime-minister-after-protests-turn-deadly-11652373002">Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly</a> WSJ: Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly 
  <p class="updated_time"> 12:33 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61432084?at_medium=RSS&at_campaign=KARANGA">North Korea announces first death from Covid-19</a> BBC: A day after confirming its first cases, state media reports thousands are suffering fever symptoms. 
  <p class="updated_time"> 12:09 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/rand-paul-ukraine-aid.html">Rand Paul Delays $40 Billion in Aid for Ukraine</a> NYT: Mr. Paul had sought to alter the bill to include requiring that an inspector general monitor the spending. 
+ <p class="updated_time"> 11:49 PM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/seoul-to-offer-vaccines-to-help-north-korea-tackle-covid-outbreak-11652431748">Seoul to Offer Vaccines to Help North Korea Tackle Covid Outbreak</a> WSJ: Pyongyang had rejected vaccines before reporting a surge in infection this week. 
  <p class="updated_time"> 10:51 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61420185?at_medium=RSS&at_campaign=KARANGA">Finland Nato: Russia threatens to retaliate over membership move</a> BBC: Finland's leaders say they want the country to apply for membership of the alliance "without delay". 
  <p class="updated_time"> 09:59 PM CT, May. 12 </p> 
@@ -141,8 +141,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/climate/biden-oil-gas-lease-sales.html">Biden Administration Cancels Oil Drilling Sales in Alaska and Gulf of Mexico</a> NYT: Republicans link the move to rising gas prices while the administration said it was a result of conflicting legal opinions and a lack of interest among bidders. 
  <p class="updated_time"> 10:11 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/arts/ukraine-ballet-war.html">These Dancers Escaped the War. Their Journeys Are Just Beginning.</a> NYT: Hundreds of ballet dancers and students fled Ukraine after Russia’s invasion. With opportunities scarce, many will have to keep moving if they want to keep dancing. 
- <p class="updated_time"> 10:06 AM CT, May. 12 </p> 
- <a href="https://www.npr.org/2022/05/12/1098492179/paraguay-prosecutor-killed-colombia-beach-honeymoon">Paraguay's organized crime prosecutor is slain while honeymooning on a Colombia beach</a> NPR: Marcelo Pecci was slain Tuesday by gunmen on a Colombian beach. His wife, journalist Claudia Aguilera, said the attackers came on a jet ski or small boat. 
  <p class="updated_time"> 09:26 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/downing-street-covid-lockdown.html">U.K. Police Issue More Fines for Parties at Downing Street</a> NYT: Britain’s prime minister, Boris Johnson, was not among those affected, his office said, though neither it, nor the police, named those who were. 
  <p class="updated_time"> 08:48 AM CT, May. 12 </p> 
@@ -213,8 +211,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/11/world/europe/ukraine-war-jobs.html">Nearly One-Third of Ukraine’s Jobs Are Lost Amid War, U.N. Labor Agency Says</a> NYT: The report highlights the grim economic toll of Russia’s aggression and the challenges that lie ahead for Ukraine and other nations. 
  <p class="updated_time"> 10:03 AM CT, May. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61406808?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Snake Island and battle for control in Black Sea</a> BBC: This rocky outcrop has been fiercely contested for weeks and has vital strategic importance. 
- <p class="updated_time"> 02:30 AM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/10/us/politics/russia-cyberattack-ukraine-war.html">Russia Was Behind Cyberattack in Run-Up to Ukraine War, Investigation Finds</a> NYT: The February attack rattled Pentagon officials and private industry because it revealed new vulnerabilities in global communications systems. 
  <p class="updated_time"> 02:00 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/israeli-palestinian-mass-grave-tantura.html">‘Tantura’ Documentary Reopens Debate About Israel’s Foundational Story</a> NYT: Israeli soldiers had long denied killing prisoners after capturing an Arab seaside town, days after Israel’s creation. A new film provides fresh evidence — reopening a debate about Israel’s foundational story. 
  <p class="updated_time"> 06:51 PM CT, May. 10 </p> 
@@ -228,6 +224,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 06:14 AM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098741154/elon-musk-twitter-deal-hold-pause">Elon Musk says he's put the blockbuster Twitter deal on pause over fake accounts</a> NPR: The Tesla and SpaceX mogul said he needs to make sure the fake accounts "do indeed represent less than 5%" of Twitter's users, as the company has estimated. 
+ <p class="updated_time"> 06:00 AM CT, May. 13 </p> 
+ <a href="https://www.politico.com/news/2022/05/13/submit-political-mailers-2022-midterms-00032053">We want to see your political mailers</a> Politico: Send us photos of campaign ads you receive in the mail and help bring more transparency to elections. 
  <p class="updated_time"> 05:01 AM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/13/pence-georgia-rally-kemp-00032306">Pence to headline Georgia rally for Kemp, defying Trump ahead of primary</a> Politico: The Georgia governor is facing Trump-endorsed David Perdue in a May 24 GOP primary. 
  <p class="updated_time"> 05:00 AM CT, May. 13 </p> 
@@ -344,8 +342,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/12/conservative-governor-north-carolina-rino-pat-mccrory-00031996">How the ‘most conservative governor in North Carolina history’ became a RINO</a> Politico: The Republican Senate primary is the latest case study of the party's transformation during the Trump era. 
  <p class="updated_time"> 03:30 AM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/senate-democrats-imaginary-majority-00031880">Senate Democrats’ imaginary majority</a> Politico: From abortion to Ukraine aid to immigration, the caucus is confronting its “tenuous” control over the chamber. 
- <p class="updated_time"> 07:42 PM CT, May. 11 </p> 
- <a href="https://www.politico.com/news/2022/05/11/great-maga-king-president-joe-biden-midterm-00031981">'The great MAGA king': Biden sharpens midterm attacks</a> Politico: In a trip to the Midwest, the president laid into his predecessor and said the GOP has a “radical agenda.” 
  <p class="updated_time"> 02:43 PM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/senate-confirms-bedoya-to-ftc-00029128">Senate confirms Biden's FTC nominee despite Republican opposition</a> Politico: Alvaro Bedoya becomes the third Democratic commissioner, giving progressive FTC Chair Lina Khan a majority at the antitrust and consumer protection agency. 
  <p class="updated_time"> 01:05 PM CT, May. 11 </p> 
