@@ -9,22 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:07 PM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/world/asia/south-korea-tattoo-artists.html">Tattoos, Still Illegal in South Korea, Thrive Underground</a> NYT: Tattoo artists, long treated as criminals for their work, say that it is time to end the stigma against their business. 
+ <p class="updated_time"> 05:03 PM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/13/world/russia-ukraine-war-news">Ukraine Live Updates: Western Nations Take Steps to Frustrate Putin</a> NYT: Sweden moved closer to joining NATO, and the Group of 7 sought to bypass Russia’s blockade of Black Sea ports. And Britain imposed new sanctions on Putin’s inner circle, including a former gymnast rumored to be his girlfriend. 
  <p class="updated_time"> 04:50 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/putin-family-wealth-sanctions.html">Sanctions Shed Light on Putin’s Private Life</a> NYT: As Western nations place sanctions on people close to the Russian leader, including family members, the strict secrecy surrounding his private life is being punctured. 
  <p class="updated_time"> 04:46 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/shireen-abu-akleh-funeral-israel">Latest Updates: Israeli Police Attack Mourners at Palestinian Journalist’s Funeral</a> NYT: Video showed police officers in Jerusalem beating and kicking mourners next to the coffin of Shireen Abu Akleh, an Al Jazeera reporter who was killed on Wednesday, forcing one to the ground. 
  <p class="updated_time"> 04:30 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/robert-c-mcfarlane-dead.html">Robert C. McFarlane, Top Reagan Aide in Iran-Contra Affair, Dies at 84</a> NYT: As national security adviser, he pleaded guilty in an illegal scheme to aid Nicaraguan rebels in the 1980s. Guilt-ridden, he attempted suicide. 
- <p class="updated_time"> 04:29 PM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/05/13/world/russia-ukraine-war-news">Ukraine Live Updates: Western Nations Take Steps to Frustrate Putin</a> NYT: Sweden moved closer to joining NATO, and the Group of 7 sought to bypass Russia’s blockade of Black Sea ports. And Britain imposed new sanctions on Putin’s inner circle, including a former gymnast rumored to be his girlfriend. 
+ <p class="updated_time"> 04:26 PM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/putin-russia-ukraine-finland-nato-11652386254">How Putin Drove Finland Into NATO’s Arms</a> WSJ: How Putin Drove Finland Into NATO’s Arms 
  <p class="updated_time"> 04:13 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098865269/protests-in-sri-lanka-have-turned-violent-amid-power-food-and-medicine-shortages">Protests in Sri Lanka have turned violent amid power, food and medicine shortages</a> NPR: NPR's Adrian Florido talks with journalist Sulochana Ramiah about Sri Lanka's protests, which have turned violent. The country is in crisis, with power blackouts and food shortages. 
  <p class="updated_time"> 04:05 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/politics/russia-sanctions-evasion-treasury.html">Treasury Warns Foreign Banks Against Helping Russia Evade Sanctions</a> NYT: Adewale Adeyemo, the deputy Treasury secretary, met privately with international financial institutions to make clear the consequences of sanctions evasion. 
  <p class="updated_time"> 04:02 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/middleeast/sheikh-khalifa-uae-ruler-is-dead-at-73.html">Sheikh Khalifa, U.A.E. Ruler, Is Dead at 73</a> NYT: Sheikh Khalifa bin Zayed Al Nahyan oversaw vast economic growth and built his country’s partnership with the United States in his 18 years as head of state. 
- <p class="updated_time"> 03:56 PM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/putin-russia-ukraine-finland-nato-11652386254">How Putin Drove Finland Into NATO’s Arms</a> WSJ: How Putin Drove Finland Into NATO’s Arms 
  <p class="updated_time"> 03:53 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098748445/russia-ukraine-war-what-happened-today-may-13">Russia-Ukraine war: What happened today (May 13)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:40 PM CT, May. 13 </p> 
@@ -39,12 +41,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/13/1098865204/a-ukrainian-singer-finds-his-voice-on-the-streets-of-warsaw-poland">A Ukrainian singer finds his voice on the streets of Warsaw, Poland</a> NPR: Roman Panchenko moved to Poland from Chernihiv a few years ago and was afraid of singing in the streets. But now, after the war started, he sings Ukrainian songs in a Warsaw plaza to help his country. 
  <p class="updated_time"> 03:33 PM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61437601?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: Violence at Al Jazeera reporter's funeral in Jerusalem</a> BBC: Police with riot gear hit mourners, saying they were pelted with stones, as crowds carry her coffin. 
+ <p class="updated_time"> 03:26 PM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200">A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents.’</a> WSJ: A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents.’ 
  <p class="updated_time"> 03:19 PM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/business-61442432?at_medium=RSS&at_campaign=KARANGA">Russian operator to suspend electricity supply to Finland</a> BBC: Russian operator RAO Nordic says it will cease deliveries from Saturday, citing payment problems. 
  <p class="updated_time"> 03:16 PM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61442748?at_medium=RSS&at_campaign=KARANGA">Mao Zedong scroll thieves jailed in Hong Kong</a> BBC: The thieves were unaware of its value and sold it to an amateur collector for less than $25 (£20). 
- <p class="updated_time"> 02:56 PM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200">A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents.’</a> WSJ: A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents.’ 
  <p class="updated_time"> 02:55 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098859684/turkeys-president-opposes-finland-sweden-join-nato">Turkey's president opposes letting Finland, Sweden join NATO</a> NPR: "We are following developments concerning Sweden and Finland, but we are not of a favorable opinion," Erdogan told reporters. 
  <p class="updated_time"> 02:53 PM CT, May. 13 </p> 
@@ -53,34 +55,34 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/world/europe/germany-right-extremists-security-services.html">Germany Identifies Far-Right Extremists Working in Security Services</a> NYT: The report reflects an effort by the authorities to come to grips with a long-running problem following several scandals involving members of the far right. 
  <p class="updated_time"> 02:40 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098859296/palestinians-and-israeli-police-clash-at-the-funeral-for-journalist-shireen-abu-">Palestinians and Israeli police clash at the funeral for journalist Shireen Abu Akleh</a> NPR: The funeral for Palestinian American journalist Shireen Abu Akleh just outside of the Old City of Jerusalem on Friday began with skirmishes between Palestinian mourners and Israeli police. 
+ <p class="updated_time"> 02:26 PM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/israeli-forces-palestinians-clash-in-west-bank-before-funeral-of-journalist-11652471399">Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist</a> WSJ: Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist 
  <p class="updated_time"> 02:25 PM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61445600?at_medium=RSS&at_campaign=KARANGA">Dozens die as blaze guts office building in India capital Delhi</a> BBC: A huge fire kills at least 27 people in a four-storey commercial building near Mundka metro station. 
  <p class="updated_time"> 02:12 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/asia/robredo-philippine-election.html">Robredo Admits Defeat in Philippine Presidential Election</a> NYT: Leni Robredo urged her supporters, many of them young voters, to accept her defeat but didn’t refer to Ferdinand Marcos Jr. by name. 
- <p class="updated_time"> 01:56 PM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/israeli-forces-palestinians-clash-in-west-bank-before-funeral-of-journalist-11652471399">Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist</a> WSJ: Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist 
+ <p class="updated_time"> 01:26 PM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/chinas-covid-lockdowns-drive-middle-class-citizens-to-head-abroad-11652460449">China’s Covid Lockdowns Drive Middle-Class Citizens to Go Abroad</a> WSJ: China’s Covid Lockdowns Drive Middle-Class Citizens to Go Abroad 
  <p class="updated_time"> 01:08 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/ukraine-russian-forces-pontoon-bridges-river.html">Ukraine Decimated Russian Forces Trying to Cross a River in the East, U.K. Says</a> NYT: Russian forces have been struggling to make significant progress along the eastern front. 
  <p class="updated_time"> 01:03 PM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61445446?at_medium=RSS&at_campaign=KARANGA">Violence at Al Jazeera journalist's funeral procession</a> BBC: Police with riot gear hit mourners, saying they were pelted with stones, as crowds carry her coffin. 
- <p class="updated_time"> 12:56 PM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/chinas-covid-lockdowns-drive-middle-class-citizens-to-head-abroad-11652460449">China’s Covid Lockdowns Drive Middle-Class Citizens to Go Abroad</a> WSJ: China’s Covid Lockdowns Drive Middle-Class Citizens to Go Abroad 
  <p class="updated_time"> 12:40 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/sweden-finland-nato-putin.html">After 200 Years of Neutrality, Sweden Weighs Joining NATO</a> NYT: Russia’s invasion of Ukraine created new fears, and the Swedes, dragged along by Finland, are expected to apply, reluctantly, to join the alliance and its collective defense. 
+ <p class="updated_time"> 12:26 PM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/u-s-eases-sanctions-on-syrian-areas-outside-assads-control-11652460888">U.S. Eases Some Syria Sanctions</a> WSJ: U.S. Eases Some Syria Sanctions 
  <p class="updated_time"> 12:25 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098608879/ukraine-music-poland-russia-war-solidarity">This musician helps homesick Ukrainians feel a little more at home in Poland</a> NPR: Ukrainian musician Roman Panchenko spends his days singing to crowds at Warsaw's Castle Square. It's an act of protest and solidarity on behalf of his home country. 
  <p class="updated_time"> 12:13 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/eurovision-ukraine-kalush-orchestra.html">Ukraine Is Favored to Win Eurovision as Commentator Broadcasts From Bunker</a> NYT: Ukraine’s entry is the song “Stefania,” from Kalush Orchestra, a band that blends traditional Ukrainian folk music with rap and hip-hop. 
- <p class="updated_time"> 11:56 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/u-s-eases-sanctions-on-syrian-areas-outside-assads-control-11652460888">U.S. Eases Some Syria Sanctions</a> WSJ: U.S. Eases Some Syria Sanctions 
+ <p class="updated_time"> 11:24 AM CT, May. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-61441631?at_medium=RSS&at_campaign=KARANGA">Nazanin tells UK PM his mistake had lasting impact</a> BBC: Former Iran detainee asks Boris Johnson why it took so long to get her home at No 10 meeting. 
  <p class="updated_time"> 11:15 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61399440?at_medium=RSS&at_campaign=KARANGA">Bloody river battle was third in three days - Ukraine official</a> BBC: Ukraine claims to have attacked Russian troops as they attempted to cross the Siversky Donets river. 
  <p class="updated_time"> 10:57 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61435153?at_medium=RSS&at_campaign=KARANGA">Kenyan fighting FGM crowned world's best nurse</a> BBC: Anna Qabale Duba says the $250,000 prize money will help expand her school for children and adults. 
  <p class="updated_time"> 10:51 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/brittney-griner-russia-detention-extended.html">Russian Court Extends Brittney Griner’s Pretrial Detention, Her Lawyer Says</a> NYT: Ms. Griner, one of the most decorated athletes in women’s basketball, has been held in custody in Russia since mid-February. 
- <p class="updated_time"> 10:50 AM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/13/world/asia/south-korea-tattoo-artists.html">Tattoos, Still Illegal in South Korea, Thrive Underground</a> NYT: Tattoo artists, long treated as criminals for their work, say that it is time to end the stigma against their business. 
  <p class="updated_time"> 10:40 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/business/economy/russia-shipping-sanctions.html">Russian Shipping Traffic Remains Strong as Sanctions Take Time to Bite</a> NYT: The traffic was robust in March and April, reflecting the time it takes for sanctions to come into effect and an enduring profit motive for trading Russian energy. 
  <p class="updated_time"> 10:31 AM CT, May. 13 </p> 
@@ -127,10 +129,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/world/europe/russian-money-uk-tories.html">U.K. Donor Said to Have Funneled Russian Money to Tories</a> NYT: The cash was part of a fund-raising blitz that helped propel Prime Minister Boris Johnson’s party to victory in 2019. Records track $630,225 to a Russian bank account. 
  <p class="updated_time"> 07:16 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/biden-asian-nations-china.html">Biden Hosts Southeast Asian Leaders as He Tries to Return Focus to China</a> NYT: The leaders at the two-day summit in Washington will discuss a variety of topics, but the president plans to use it to show a united front against Beijing. 
- <p class="updated_time"> 06:33 PM CT, May. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61274042?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Could India cut its defence ties with Russia?</a> BBC: India has been under pressure to distance itself from Russia over Ukraine, including reducing defence ties. 
- <p class="updated_time"> 06:30 PM CT, May. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61410449?at_medium=RSS&at_campaign=KARANGA">LPG price: Millions hit hard as cooking gas cost soars in India</a> BBC: Many households in rural areas are forced to rely on wood for cooking as gas has become unaffordable. 
  <p class="updated_time"> 06:20 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61411532?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: How war heroes became villains</a> BBC: The Rajapaksa brothers, hailed by many as heroes for winning the civil war, are now reviled as leaders. 
  <p class="updated_time"> 06:13 PM CT, May. 12 </p> 
@@ -187,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html">Ukrainians Fight Russian Troops Up Close Along the Eastern Front</a> NYT: In some villages along the front, Ukrainian and Russian soldiers face off at close quarters, sometimes within eyesight of one another. 
  <p class="updated_time"> 01:43 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/europe/ukraine-russia-western-solidarity.html">Economic Toll of Russia’s War in Ukraine Tests Western Solidarity</a> NYT: Russia’s president is calculating that Western leaders will tire before he does of a protracted struggle in Ukraine, especially if the price is turbocharged inflation and energy shortages. 
- <p class="updated_time"> 11:53 PM CT, May. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61354625?at_medium=RSS&at_campaign=KARANGA">The long struggle to return Cambodia's looted treasures</a> BBC: The east Asian country claims the V&A and British Museum both hold stolen antiquities. 
  <p class="updated_time"> 10:37 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/us/politics/native-american-children-schools-abuse.html">Report Catalogs Abuse of Native American Children at Former Government Schools</a> NYT: Interior Secretary Deb Haaland called for a review last year, after the discovery of hundreds of unmarked graves of children who attended similar schools in Canada. 
  <p class="updated_time"> 09:19 PM CT, May. 11 </p> 
@@ -201,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/11/world/australia/new-zealand-border-reopen.html">New Zealand Border Will Fully Reopen at the End of July</a> NYT: The move comes two months ahead of schedule, in an attempt to speed up economic recovery. 
  <p class="updated_time"> 12:36 PM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/israel-parliament-raam.html">Israel’s Teetering Government Breathes Again as Arab Party Rejoins</a> NYT: A small Islamist party decided to end its freeze on participating in the fragile eight-way coalition, granting it at least a temporary reprieve. 
- <p class="updated_time"> 10:35 AM CT, May. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61412343?at_medium=RSS&at_campaign=KARANGA">Joly Germine: Haitian gang leader indicted over missionary abductions</a> BBC: Joly Germine allegedly directed the kidnappings of 17 Christian missionaries from a Haitian prison. 
 
 
 </details>
@@ -210,6 +204,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:13 PM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/us/politics/baby-formula-shortage-biden-immigration.html">Republicans Wrongly Tie Biden Immigration Policies to Baby Formula Shortage</a> NYT: A lawsuit settlement requires the federal government to provide water and food, including formula, to detained migrant children. 
  <p class="updated_time"> 04:49 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/politics/baby-formula-shortage-biden.html">House Plans Vote to Ease Baby Formula Shortage as Biden Pledges Quick Action</a> NYT: Speaker Nancy Pelosi said the House would move to provide regulatory relief and funds to bolster the infant formula supply, as the president said his team was acting within “weeks or less.” 
  <p class="updated_time"> 04:27 PM CT, May. 13 </p> 
@@ -332,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/us/politics/abortion-rights-liberal-democrats.html">The Looming End to Abortion Rights Gives Liberal Democrats a Spark</a> NYT: The progressive wing of the Democratic Party appeared to be flagging until a draft Supreme Court decision overturning Roe v. Wade leaked — and shook the political world. 
  <p class="updated_time"> 03:55 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098467785/russia-ukraine-war-what-happened-today-may-12">Russia-Ukraine war: What happened today (May 12)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:41 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/us/politics/trump-kathy-barnette-pennsylvania-election.html">Trump Criticizes Kathy Barnette as She Surges in Pennsylvania’s G.O.P. Senate Primary</a> NYT: Ms. Barnette’s momentum in the polls has drawn the attention of the former president, who endorsed Dr. Mehmet Oz in the race. 
  <p class="updated_time"> 01:32 PM CT, May. 12 </p> 
  <a href="https://www.cnn.com/2022/05/12/politics/anti-abortion-groups-letter-criminalizing-women/index.html">Leading anti-abortion groups urge state lawmakers not to pass bills criminalizing women for abortions</a> CNN: Some of the largest anti-abortion organizations in the US are urging state lawmakers to reject legislation that would criminalize women for having abortions, saying "turning women who have abortions into criminals is not the way." 
  <p class="updated_time"> 01:00 PM CT, May. 12 </p> 
