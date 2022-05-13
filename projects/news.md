@@ -9,32 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:33 AM CT, May. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61432084?at_medium=RSS&at_campaign=KARANGA">North Korea announces first death from Covid-19</a> BBC: A day after confirming its first cases, state media reports thousands are suffering fever symptoms. 
+ <p class="updated_time"> 12:18 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/12/world/russia-ukraine-war-news">What Happened on Day 78 of the War in Ukraine</a> NYT: Neutral Finland’s leaders unequivocally said they intended to seek membership in the alliance, with Sweden expected to do the same, inviting new threats from Moscow. 
+ <p class="updated_time"> 12:09 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/world/europe/rand-paul-ukraine-aid.html">Rand Paul Delays $40 Billion in Aid for Ukraine</a> NYT: Mr. Paul had sought to alter the bill to include requiring that an inspector general monitor the spending. 
+ <p class="updated_time"> 11:52 PM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/video/series/in-depth-features/ukraine-road-of-death-shows-russians-fired-on-civilians-a-video-investigation/23BCD65C-AF57-4316-8FE9-3F3FD0A3CD58">Ukraine’s ‘Road of Death’: Video Investigation Shows Russians Fired on Civilians</a> WSJ: Ukraine’s ‘Road of Death’: Video Investigation Shows Russians Fired on Civilians 
  <p class="updated_time"> 11:34 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/africa/south-africa-covid-vaccine-factory.html">Africa’s First Covid-19 Vaccine Factory Has Not Received a Single Order</a> NYT: Aspen Pharmacare, in South Africa, was licensed to produce the Johnson & Johnson vaccine. It was hailed as an answer to Africa’s struggle to get access to vaccines. 
  <p class="updated_time"> 11:30 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/live/2022/05/12/world/russia-ukraine-war-news">Ukraine Live Updates: Finland’s Move to Join NATO Upends Putin’s War Aims</a> NYT: Neutral Finland’s leaders unequivocally said they intended to seek membership in the alliance, with Sweden expected to do the same, inviting new threats from Moscow. 
- <p class="updated_time"> 11:30 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/nato-finland-sweden-ukraine.html">U.S. Embraces Finland’s Move Toward NATO Membership. What About Ukraine?</a> NYT: Ukraine has been considered too full of corruption and too devoid of democratic institutions to make membership likely for years, if not decades, to come. 
- <p class="updated_time"> 11:03 PM CT, May. 12 </p> 
- <a href="https://www.wsj.com/video/series/in-depth-features/ukraine-road-of-death-shows-russians-fired-on-civilians-a-video-investigation/23BCD65C-AF57-4316-8FE9-3F3FD0A3CD58">Ukraine’s ‘Road of Death’: Video Investigation Shows Russians Fired on Civilians</a> WSJ: Ukraine’s ‘Road of Death’: Video Investigation Shows Russians Fired on Civilians 
+ <p class="updated_time"> 10:52 PM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/palestinians-reject-israeli-request-to-examine-bullet-that-killed-al-jazeera-journalist-11652350122">Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist</a> WSJ: Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist 
  <p class="updated_time"> 10:51 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61420185?at_medium=RSS&at_campaign=KARANGA">Finland Nato: Russia threatens to retaliate over membership move</a> BBC: Finland's leaders say they want the country to apply for membership of the alliance "without delay". 
- <p class="updated_time"> 10:03 PM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/palestinians-reject-israeli-request-to-examine-bullet-that-killed-al-jazeera-journalist-11652350122">Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist</a> WSJ: Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist 
  <p class="updated_time"> 09:59 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/asia/north-korea-covid-deaths.html">North Korea Reports 6 Deaths as Covid-19 Spreads ‘Explosively’ </a> NYT: The country’s leader, Kim Jong-un, said 187,800 people were in quarantine, and state TV showed him wearing a mask for the first time. 
+ <p class="updated_time"> 09:52 PM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/sri-lankan-president-appoints-new-prime-minister-after-protests-turn-deadly-11652373002">Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly</a> WSJ: Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly 
  <p class="updated_time"> 09:46 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/05/12/world/al-jazeera-journalist-killed-west-bank">Investigation of Journalist’s Killing May Hinge on Bullet</a> NYT: The Palestinian Authority said it would not let Israeli officials examine the bullet that killed Shireen Abu Akleh in the occupied West Bank during an Israeli raid. Israel said that is the only way to determine who fired it. 
  <p class="updated_time"> 09:12 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/russian-money-uk-tories.html">U.K. Donor Said to Have Funneled Russian Money to Tories</a> NYT: The cash was part of a fund-raising blitz that helped propel Prime Minister Boris Johnson’s party to victory in 2019. Records track $630,225 to a Russian bank account. 
- <p class="updated_time"> 09:03 PM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/sri-lankan-president-appoints-new-prime-minister-after-protests-turn-deadly-11652373002">Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly</a> WSJ: Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly 
- <p class="updated_time"> 08:48 PM CT, May. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61432084?at_medium=RSS&at_campaign=KARANGA">North Korea announces first death from Covid-19</a> BBC: A day after confirming its first cases, state media reports thousands are suffering fever symptoms. 
- <p class="updated_time"> 08:07 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/world/europe/rand-paul-ukraine-aid.html">Rand Paul Delays $40 Billion in Aid for Ukraine</a> NYT: Mr. Paul had sought to alter the bill to include requiring that an inspector general monitor the spending. 
- <p class="updated_time"> 08:03 PM CT, May. 12 </p> 
+ <p class="updated_time"> 08:52 PM CT, May. 12 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-forces-hold-the-line-in-donbas-as-western-heavy-weapons-join-the-battle-11652362422">Ukrainian Forces Hold the Line in Donbas as Western Heavy Weapons Join the Battle</a> WSJ: Ukrainian Forces Hold the Line in Donbas as Western Heavy Weapons Join the Battle 
+ <p class="updated_time"> 07:52 PM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-cites-explosive-national-covid-19-outbreak-reports-first-death-11652408080">North Korea Cites Explosive National Covid Outbreak, Reports First Death</a> WSJ: North Korea Cites Explosive National Covid Outbreak, Reports First Death 
  <p class="updated_time"> 07:47 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61424869?at_medium=RSS&at_campaign=KARANGA">Couple in India sue son for not giving them a grandchild</a> BBC: The Indian parents say they used up their savings raising their son and paying for his wedding. 
  <p class="updated_time"> 07:22 PM CT, May. 12 </p> 
@@ -43,12 +45,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/us/politics/biden-asian-nations-china.html">Biden Hosts Southeast Asian Leaders as He Tries to Return Focus to China</a> NYT: The leaders at the two-day summit in Washington will discuss a variety of topics, but the president plans to use it to show a united front against Beijing. 
  <p class="updated_time"> 07:10 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61430573?at_medium=RSS&at_campaign=KARANGA">Coastal fire: California mansions burn as wildfires spread</a> BBC: Across North America, wildfire crews are gearing up for a particularly difficult season. 
- <p class="updated_time"> 07:03 PM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/north-korea-cites-explosive-national-covid-19-outbreak-reports-first-death-11652408080">North Korea Cites Explosive National Covid Outbreak, Reports First Death</a> WSJ: North Korea Cites Explosive National Covid Outbreak, Reports First Death 
  <p class="updated_time"> 06:33 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61274042?at_medium=RSS&at_campaign=KARANGA">Ukraine crisis: Could India cut its defence ties with Russia?</a> BBC: India has been under pressure to distance itself from Russia over Ukraine, including reducing defence ties. 
  <p class="updated_time"> 06:30 PM CT, May. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61410449?at_medium=RSS&at_campaign=KARANGA">LPG price: Millions hit hard as cooking gas prices soar in India</a> BBC: Many households in rural areas are forced to rely on wood for cooking as gas has become unaffordable. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61410449?at_medium=RSS&at_campaign=KARANGA">LPG price: Millions hit hard as cooking gas cost soars in India</a> BBC: Many households in rural areas are forced to rely on wood for cooking as gas has become unaffordable. 
  <p class="updated_time"> 06:20 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61411532?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: How war heroes became villains</a> BBC: The Rajapaksa brothers, hailed by many as heroes for winning the civil war, are now reviled as leaders. 
  <p class="updated_time"> 06:16 PM CT, May. 12 </p> 
@@ -220,6 +220,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:22 AM CT, May. 13 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:30 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/nato-finland-sweden-ukraine.html">U.S. Embraces Finland’s Move Toward NATO Membership. What About Ukraine?</a> NYT: Ukraine has been considered too full of corruption and too devoid of democratic institutions to make membership likely for years, if not decades, to come. 
  <p class="updated_time"> 10:19 PM CT, May. 12 </p> 
@@ -248,6 +250,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/12/1098529637/white-house-summit-leads-to-big-promises-to-fight-covid-in-needy-countries">White House summit leads to big promises to fight COVID in needy countries</a> NPR: The second Global COVID-19 Summit aimed to refocus the world's attention on the pandemic. Here's what governments and members of the private and public sector pledged to do. 
  <p class="updated_time"> 05:31 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/biden-covid-summit.html">At Biden’s Summit, Other Nations Pledge Billions to Bolster Pandemic Response</a> NYT: The meeting was meant to reinvigorate the response as vaccination and testing lag. Many attendees said Covid fatigue had become nearly as big a danger as Covid itself. 
+ <p class="updated_time"> 05:13 PM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/business/jerome-powell-confirmed.html">Jerome Powell Confirmed for a Second Term as Fed Chair</a> NYT: Jerome Powell, whom the Senate confirmed to a second term on Thursday, said allowing rapid inflation to persist would be more painful. 
  <p class="updated_time"> 05:12 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/meatpackers-trump-covid.html">Meatpackers Misled Public and Influenced Trump Administration During Covid, Report Says</a> NYT: A congressional report claimed that meatpacking companies issued “baseless” warnings about food shortages and influenced government decisions to keep plants open early in the pandemic. 
  <p class="updated_time"> 04:53 PM CT, May. 12 </p> 
@@ -322,12 +326,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/12/conservative-governor-north-carolina-rino-pat-mccrory-00031996">How the ‘most conservative governor in North Carolina history’ became a RINO</a> Politico: The Republican Senate primary is the latest case study of the party's transformation during the Trump era. 
  <p class="updated_time"> 03:30 AM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/senate-democrats-imaginary-majority-00031880">Senate Democrats’ imaginary majority</a> Politico: From abortion to Ukraine aid to immigration, the caucus is confronting its “tenuous” control over the chamber. 
- <p class="updated_time"> 12:35 AM CT, May. 12 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:42 PM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/great-maga-king-president-joe-biden-midterm-00031981">'The great MAGA king': Biden sharpens midterm attacks</a> Politico: In a trip to the Midwest, the president laid into his predecessor and said the GOP has a “radical agenda.” 
- <p class="updated_time"> 07:03 PM CT, May. 11 </p> 
- <a href="https://www.nytimes.com/2022/05/11/us/politics/john-eastman-trump-2020-election.html">John Eastman Pressed Pennsylvania Legislator to Throw Out Biden Votes</a> NYT: The lawyer argued that mail ballots in Pennsylvania in the 2020 election could be culled in a way that would reverse President Donald J. Trump’s defeat in an electorally critical state. 
  <p class="updated_time"> 03:44 PM CT, May. 11 </p> 
  <a href="https://www.cnn.com/2022/05/11/politics/senate-abortion-rights-vote-roe-v-wade/index.html">Key vote to protect access to abortion fails in the Senate</a> CNN: A key vote on the Women's Health Protection Act, a Democrat-led bill aimed at preserving access to abortion nationwide, failed in the Senate on Wednesday. 
  <p class="updated_time"> 02:43 PM CT, May. 11 </p> 
