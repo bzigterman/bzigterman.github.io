@@ -21,28 +21,28 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/business/economy/russia-shipping-sanctions.html">Russian Shipping Traffic Remains Strong as Sanctions Take Time to Bite</a> NYT: The traffic was robust in March and April, reflecting the time it takes for sanctions to come into effect and an enduring profit motive for trading Russian energy. 
  <p class="updated_time"> 02:10 AM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098734688/biden-looks-to-nudge-asean-russia">Biden looks to nudge ASEAN leaders to speak out on Russia</a> NPR: Despite Washington's focus on the war in Ukraine, the White House is trying to demonstrate that it is stepping up in the Asia-Pacific. 
- <p class="updated_time"> 01:31 AM CT, May. 13 </p> 
+ <p class="updated_time"> 02:01 AM CT, May. 13 </p> 
  <a href="https://www.wsj.com/video/series/in-depth-features/ukraine-road-of-death-shows-russians-fired-on-civilians-a-video-investigation/23BCD65C-AF57-4316-8FE9-3F3FD0A3CD58">Ukraine’s ‘Road of Death’: Video Investigation Shows Russians Fired on Civilians</a> WSJ: Ukraine’s ‘Road of Death’: Video Investigation Shows Russians Fired on Civilians 
  <p class="updated_time"> 01:05 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/africa/south-africa-covid-vaccine-factory.html">Africa’s First Covid-19 Vaccine Factory Has Not Received a Single Order</a> NYT: Aspen Pharmacare, in South Africa, was licensed to produce the Johnson & Johnson vaccine. It was hailed as an answer to Africa’s struggle to get access to vaccines. 
+ <p class="updated_time"> 01:01 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/palestinians-reject-israeli-request-to-examine-bullet-that-killed-al-jazeera-journalist-11652350122">Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist</a> WSJ: Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist 
  <p class="updated_time"> 12:33 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61432084?at_medium=RSS&at_campaign=KARANGA">North Korea announces first death from Covid-19</a> BBC: A day after confirming its first cases, state media reports thousands are suffering fever symptoms. 
- <p class="updated_time"> 12:31 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/palestinians-reject-israeli-request-to-examine-bullet-that-killed-al-jazeera-journalist-11652350122">Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist</a> WSJ: Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist 
  <p class="updated_time"> 12:09 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/rand-paul-ukraine-aid.html">Rand Paul Delays $40 Billion in Aid for Ukraine</a> NYT: Mr. Paul had sought to alter the bill to include requiring that an inspector general monitor the spending. 
- <p class="updated_time"> 11:31 PM CT, May. 12 </p> 
+ <p class="updated_time"> 12:01 AM CT, May. 13 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-president-appoints-new-prime-minister-after-protests-turn-deadly-11652373002">Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly</a> WSJ: Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly 
+ <p class="updated_time"> 11:01 PM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-hold-the-line-in-donbas-as-western-heavy-weapons-join-the-battle-11652362422">Ukrainian Forces Hold the Line in Donbas as Western Heavy Weapons Join the Battle</a> WSJ: Ukrainian Forces Hold the Line in Donbas as Western Heavy Weapons Join the Battle 
  <p class="updated_time"> 10:51 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61420185?at_medium=RSS&at_campaign=KARANGA">Finland Nato: Russia threatens to retaliate over membership move</a> BBC: Finland's leaders say they want the country to apply for membership of the alliance "without delay". 
- <p class="updated_time"> 10:31 PM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-hold-the-line-in-donbas-as-western-heavy-weapons-join-the-battle-11652362422">Ukrainian Forces Hold the Line in Donbas as Western Heavy Weapons Join the Battle</a> WSJ: Ukrainian Forces Hold the Line in Donbas as Western Heavy Weapons Join the Battle 
+ <p class="updated_time"> 10:01 PM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-cites-explosive-national-covid-19-outbreak-reports-first-death-11652408080">North Korea Cites Explosive National Covid Outbreak, Reports First Death</a> WSJ: North Korea Cites Explosive National Covid Outbreak, Reports First Death 
  <p class="updated_time"> 09:59 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/asia/north-korea-covid-deaths.html">North Korea Reports 6 Deaths as Covid-19 Spreads ‘Explosively’ </a> NYT: The country’s leader, Kim Jong-un, said 187,800 people were in quarantine, and state TV showed him wearing a mask for the first time. 
  <p class="updated_time"> 09:46 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/live/2022/05/12/world/al-jazeera-journalist-killed-west-bank">Investigation of Journalist’s Killing May Hinge on Bullet</a> NYT: The Palestinian Authority said it would not let Israeli officials examine the bullet that killed Shireen Abu Akleh in the occupied West Bank during an Israeli raid. Israel said that is the only way to determine who fired it. 
- <p class="updated_time"> 09:31 PM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/north-korea-cites-explosive-national-covid-19-outbreak-reports-first-death-11652408080">North Korea Cites Explosive National Covid Outbreak, Reports First Death</a> WSJ: North Korea Cites Explosive National Covid Outbreak, Reports First Death 
  <p class="updated_time"> 09:12 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/russian-money-uk-tories.html">U.K. Donor Said to Have Funneled Russian Money to Tories</a> NYT: The cash was part of a fund-raising blitz that helped propel Prime Minister Boris Johnson’s party to victory in 2019. Records track $630,225 to a Russian bank account. 
  <p class="updated_time"> 07:47 PM CT, May. 12 </p> 
