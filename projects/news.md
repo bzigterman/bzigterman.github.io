@@ -9,10 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:24 AM CT, May. 13 </p> 
+ <p class="updated_time"> 04:13 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61428970?at_medium=RSS&at_campaign=KARANGA">Platinum Jubilee: Lemon and amaretti trifle to be official pudding</a> BBC: Jemma Melvin's creation is inspired by a lemon posset served at the Queen's wedding to Prince Philip. 
- <p class="updated_time"> 02:51 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/video/series/in-depth-features/ukraine-road-of-death-shows-russians-fired-on-civilians-a-video-investigation/23BCD65C-AF57-4316-8FE9-3F3FD0A3CD58">Ukraine’s ‘Road of Death’: Video Investigation Shows Russians Fired on Civilians</a> WSJ: Ukraine’s ‘Road of Death’: Video Investigation Shows Russians Fired on Civilians 
+ <p class="updated_time"> 04:00 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/world/europe/sweden-finland-nato-putin.html">After 200 Years of Neutrality, Sweden Weighs Joining NATO</a> NYT: Russia’s invasion of Ukraine created new fears, and the Swedes, dragged along by Finland, are expected to apply, reluctantly, to join the alliance and its collective defense. 
+ <p class="updated_time"> 04:00 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/world/middleeast/israel-judaism-referom-orthodox.html">A Rabbi’s Contentious Quest for Religious Pluralism in Israel</a> NYT: There is more than one way to be Jewish, says Gilad Kariv, the first Reform rabbi in Israel’s Parliament. The idea poses a challenge to the country’s Orthodox establishment. 
+ <p class="updated_time"> 04:00 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/world/asia/south-korea-cameras-ghost-surgery.html">In South Korea, ‘Ghost Surgeries’ Lead to Cameras in Hospitals</a> NYT: After scandals in which doctors let unsupervised assistants operate on patients, the country is becoming one of the first to require cameras in operating rooms. 
+ <p class="updated_time"> 03:34 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/video/china-struggles-to-contain-frustration-from-shanghai-covid-lockdown/FEE5E499-E9D9-42D0-8C64-64B778D0BCD7.html">China Struggles to Contain Frustration From Shanghai Covid Lockdown</a> WSJ: China Struggles to Contain Frustration From Shanghai Covid Lockdown 
+ <p class="updated_time"> 02:34 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-cites-explosive-national-covid-19-outbreak-reports-first-death-11652408080">North Korea Cites Explosive National Covid Outbreak, Reports First Death</a> WSJ: North Korea Cites Explosive National Covid Outbreak, Reports First Death 
  <p class="updated_time"> 02:24 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/05/12/world/russia-ukraine-war-news">What Happened on Day 78 of the War in Ukraine</a> NYT: Neutral Finland’s leaders unequivocally said they intended to seek membership in the alliance, with Sweden expected to do the same, inviting new threats from Moscow. 
  <p class="updated_time"> 02:24 AM CT, May. 13 </p> 
@@ -25,22 +33,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/business/economy/russia-shipping-sanctions.html">Russian Shipping Traffic Remains Strong as Sanctions Take Time to Bite</a> NYT: The traffic was robust in March and April, reflecting the time it takes for sanctions to come into effect and an enduring profit motive for trading Russian energy. 
  <p class="updated_time"> 02:10 AM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098734688/biden-looks-to-nudge-asean-russia">Biden looks to nudge ASEAN leaders to speak out on Russia</a> NPR: Despite Washington's focus on the war in Ukraine, the White House is trying to demonstrate that it is stepping up in the Asia-Pacific. 
- <p class="updated_time"> 01:51 AM CT, May. 13 </p> 
+ <p class="updated_time"> 01:34 AM CT, May. 13 </p> 
  <a href="https://www.wsj.com/articles/palestinians-reject-israeli-request-to-examine-bullet-that-killed-al-jazeera-journalist-11652350122">Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist</a> WSJ: Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist 
  <p class="updated_time"> 01:05 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/africa/south-africa-covid-vaccine-factory.html">Africa’s First Covid-19 Vaccine Factory Has Not Received a Single Order</a> NYT: Aspen Pharmacare, in South Africa, was licensed to produce the Johnson & Johnson vaccine. It was hailed as an answer to Africa’s struggle to get access to vaccines. 
- <p class="updated_time"> 12:51 AM CT, May. 13 </p> 
+ <p class="updated_time"> 12:34 AM CT, May. 13 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-president-appoints-new-prime-minister-after-protests-turn-deadly-11652373002">Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly</a> WSJ: Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly 
  <p class="updated_time"> 12:33 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61432084?at_medium=RSS&at_campaign=KARANGA">North Korea announces first death from Covid-19</a> BBC: A day after confirming its first cases, state media reports thousands are suffering fever symptoms. 
  <p class="updated_time"> 12:09 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/rand-paul-ukraine-aid.html">Rand Paul Delays $40 Billion in Aid for Ukraine</a> NYT: Mr. Paul had sought to alter the bill to include requiring that an inspector general monitor the spending. 
- <p class="updated_time"> 11:51 PM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-hold-the-line-in-donbas-as-western-heavy-weapons-join-the-battle-11652362422">Ukrainian Forces Hold the Line in Donbas as Western Heavy Weapons Join the Battle</a> WSJ: Ukrainian Forces Hold the Line in Donbas as Western Heavy Weapons Join the Battle 
+ <p class="updated_time"> 11:34 PM CT, May. 12 </p> 
+ <a href="https://www.wsj.com/articles/boat-carrying-suspected-migrants-capsizes-near-puerto-rico-11-dead-11652407209">Boat Carrying Suspected Migrants Capsizes Near Puerto Rico</a> WSJ: Boat Carrying Suspected Migrants Capsizes Near Puerto Rico 
  <p class="updated_time"> 10:51 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61420185?at_medium=RSS&at_campaign=KARANGA">Finland Nato: Russia threatens to retaliate over membership move</a> BBC: Finland's leaders say they want the country to apply for membership of the alliance "without delay". 
- <p class="updated_time"> 10:51 PM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/north-korea-cites-explosive-national-covid-19-outbreak-reports-first-death-11652408080">North Korea Cites Explosive National Covid Outbreak, Reports First Death</a> WSJ: North Korea Cites Explosive National Covid Outbreak, Reports First Death 
  <p class="updated_time"> 09:59 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/asia/north-korea-covid-deaths.html">North Korea Reports 6 Covid Deaths  and Explosive Spread</a> NYT: The country’s leader, Kim Jong-un, said 187,800 people were in quarantine, and state TV showed him wearing a mask for the first time. 
  <p class="updated_time"> 09:46 PM CT, May. 12 </p> 
@@ -77,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/world/africa/southern-africa-covid-surge-testing.html">As Southern Africa Cases Climb, Health Officials Worry About Testing Drop</a> NYT: New reported cases in South Africa have increased 80 percent, from the average two weeks ago, and deaths have increased 44 percent. 
  <p class="updated_time"> 05:13 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/middleeast/journalist-killed-palestine-israel-bullet.html">Why a Bullet Is the Focus of Investigations In Journalist’s Killing</a> NYT: The Palestinian Authority said it would not let Israeli officials examine the bullet that killed Shireen Abu Akleh. Israel said that is the only way to determine who fired it. 
- <p class="updated_time"> 05:00 PM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/boat-carrying-suspected-migrants-capsizes-near-puerto-rico-11-dead-11652407209">Boat Carrying Suspected Migrants Capsizes Near Puerto Rico</a> WSJ: A boat loaded with suspected migrants capsized north of an uninhabited island near Puerto Rico, and 11 people had been confirmed dead while 31 others were rescued, authorities said. 
  <p class="updated_time"> 04:50 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098533209/rugby-world-cup-host-usa">The U.S. is named a Rugby World Cup host</a> NPR: The sporting event is coming to the U.S. for the first time in 2031. 
  <p class="updated_time"> 04:48 PM CT, May. 12 </p> 
@@ -213,8 +217,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/world/europe/ukraine-russia-donbas.html">Ukraine War’s Geographic Reality: Russia Has Seized Much of the East</a> NYT: Despite many stumbles and setbacks, the Russian military has gained near total control of the Donbas region, giving the Kremlin huge leverage in any future talks. 
  <p class="updated_time"> 06:51 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/middleeast/iran-execution-ahmadreza-djalali.html">Iran Says It Will Execute Ahmadreza Djalali, Swedish-Iranian Accused of Spying</a> NYT: Ahmadreza Djalali denies he spied for Israel or helped it kill Iranian nuclear scientists. 
- <p class="updated_time"> 03:33 PM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/2022/05/10/world/europe/spain-intelligence-chief-ousted.html">Spain’s Intelligence Leader Ousted Over Agency’s Use of Pegasus Spyware</a> NYT: Paz Esteban, the first woman to hold the job, was caught up in a scandal over her agency’s use of Pegasus spyware. 
 
 
 </details>
@@ -222,6 +224,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, May. 13 </p> 
+ <a href="https://www.npr.org/2022/05/13/1097528966/nyc-eric-adams-homeless-sweeps">NYC homeless advocates say Mayor Eric Adams' street sweeps aren't working</a> NPR: Homeless advocates say the NYC mayor's approach fails to consider the needs of at-risk populations. 
+ <p class="updated_time"> 04:30 AM CT, May. 13 </p> 
+ <a href="https://www.npr.org/2022/05/13/1098000879/abortion-pills-medication-abortion-roe-v-wade">How medication abortion works and what the end of Roe v. Wade could mean for it</a> NPR: More people seeking abortions are turning to abortion pills rather than surgical abortion. Here's what to know about the pills, which will likely be at the center of the abortion battles ahead. 
+ <p class="updated_time"> 04:08 AM CT, May. 13 </p> 
+ <a href="https://www.npr.org/2022/05/13/1098735691/senate-minority-leader-mitch-mcconnell-defends-supreme-court-on-abortion">Senate Minority Leader Mitch McConnell defends Supreme Court on abortion</a> NPR: Senate Minority Leader McConnell defends the Supreme Court's chance of issuing rulings in conflict with a majority of Americans' views on abortion rights — telling NPR it's a feature of the system. 
+ <p class="updated_time"> 04:00 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/us/elections/kathy-barnette-pennsylvania-senate.html">Kathy Barnette’s Star Rises in Pennsylvania Senate Race</a> NYT: Trump says she can’t win in November, but Kathy Barnette presses toward Tuesday’s voting. “They’re coming out with long knives at this point,” she said. 
+ <p class="updated_time"> 03:30 AM CT, May. 13 </p> 
+ <a href="https://www.politico.com/news/2022/05/13/why-the-jan-6-panel-bet-its-legal-hand-against-the-house-gop-00032228">Why the Jan. 6 panel bet its legal hand against the House GOP</a> Politico: There's no guarantee the subpoena of five GOP lawmakers will give the committee more information on former President Donald Trump's attempt to subvert the 2020 election. They're barreling ahead anyway. 
  <p class="updated_time"> 02:24 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/nato-finland-sweden-ukraine.html">U.S. Embraces Finland’s Move Toward NATO Membership. What About Ukraine?</a> NYT: Ukraine has been considered too full of corruption and too devoid of democratic institutions to make membership likely for years, if not decades, to come. 
  <p class="updated_time"> 02:18 AM CT, May. 13 </p> 
@@ -238,8 +250,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/us/politics/abortion-protests-supreme-court-justices.html">A Battle Over How to Battle Over Roe: Protests at Justices’ Homes Fuel Rancor</a> NYT: Many of the protesters have expressed concern that the scrutiny over the demonstrations has distracted from the real issue: restricting a woman’s right to have an abortion. 
  <p class="updated_time"> 08:11 PM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/gop-launches-operation-stop-barnette-00032303">GOP launches Operation Stop Barnette</a> Politico: Kathy Barnette's late surge has forced the Oz and McCormick campaigns and their allies to scramble in the final days before the Senate primary. 
- <p class="updated_time"> 07:16 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/us/politics/biden-asian-nations-china.html">Biden Hosts Southeast Asian Leaders as He Tries to Return Focus to China</a> NYT: The leaders at the two-day summit in Washington will discuss a variety of topics, but the president plans to use it to show a united front against Beijing. 
  <p class="updated_time"> 07:09 PM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/11-dead-31-rescued-after-boat-capsizes-near-puerto-rico-00032298">11 dead, 31 rescued after boat capsizes near Puerto Rico</a> Politico: A U.S. Customs and Border Protection helicopter spotted the overturned boat late Thursday morning. 
  <p class="updated_time"> 06:42 PM CT, May. 12 </p> 
@@ -320,12 +330,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/12/1098455500/what-are-bidens-options-if-the-supreme-court-throws-out-the-right-to-abortion">What are Biden's options if the Supreme Court throws out the right to abortion? </a> NPR: A leaked draft of a Supreme Court opinion suggests the court may soon overturn Roe v. Wade. An attempt by Congress to preserve the right to abortions legislatively failed because of a lack of votes. 
  <p class="updated_time"> 05:31 AM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/murphy-expand-abortion-access-new-jersey-00031816">Murphy renews efforts to expand access to abortion in New Jersey</a> Politico: "We've been in a lot of conversations with with legislators, including leadership, and we shall see where this goes," he said. 
- <p class="updated_time"> 04:30 AM CT, May. 12 </p> 
- <a href="https://www.npr.org/2022/05/12/1097184110/death-row-inmates-execution-time">U.S. inmates condemned to die are spending more time on death row</a> NPR: Research shows the average time between sentencing and execution has increased by two-thirds in the past 20 years. 
- <p class="updated_time"> 04:04 AM CT, May. 12 </p> 
- <a href="https://www.npr.org/2022/05/12/1098455563/missouris-gop-aims-to-amend-the-states-constitution-so-theres-no-right-to-aborti">Missouri's GOP aims to amend the state's constitution so there's no right to abortion</a> NPR: It's the hectic final few days of the Missouri legislative session and abortion is one issue on everyone's mind. Republican lawmakers want to fortify restrictions, making some voters very concerned. 
- <p class="updated_time"> 04:04 AM CT, May. 12 </p> 
- <a href="https://www.npr.org/2022/05/12/1098455493/morning-news-brief">News brief: NATO expansion, White House abortion battle, Las Vegas school violence</a> NPR: Finland's president wants his country to join NATO. The White House faces pressure to protect abortion rights after a Senate bill failed. Schools in Las Vegas experience a sharp rise in violence. 
  <p class="updated_time"> 03:31 AM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/republican-senate-battleground-ads-53m-00031999">NRSC reserves $53M in Senate battleground ads</a> Politico: The GOP campaign committee’s ad rollout begins Friday with television spots in two key swing states — Arizona and North Carolina. 
  <p class="updated_time"> 03:30 AM CT, May. 12 </p> 
