@@ -9,26 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:35 AM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/live/2022/05/13/world/russia-ukraine-war-news">Ukraine Live Updates: G7 Ministers Aim to Mitigate War’s Effect on Global Food Supply</a> NYT: The group’s agricultural ministers met in Germany to discuss new ways to get Ukrainian harvests to world markets amid a Russian blockade of the country’s main seaports. Ukraine’s judiciary began the first war crimes trial of a Russian service member since the invasion began. 
+ <p class="updated_time"> 06:10 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/13/world/russia-ukraine-war-news">Ukraine Live Updates: Sweden Says Joining NATO Would Have ‘Conflict-Dampening Effect’</a> NYT: A report released by Stockholm signaled that it would likely follow Finland’s lead in vowing to apply for NATO membership. The moves come as the Group of 7’s agricultural ministers met in Germany to discuss new ways to get Ukrainian harvests to world markets. 
+ <p class="updated_time"> 06:09 AM CT, May. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61433724?at_medium=RSS&at_campaign=KARANGA">Elon Musk puts Twitter deal on hold over fake account details</a> BBC: The billionaire tweeted that he wanted to see more information on spam and fake accounts. 
+ <p class="updated_time"> 06:07 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/world/africa/south-africa-covid-vaccine-factory.html">Africa’s First Covid-19 Vaccine Factory Has Not Received a Single Order</a> NYT: Aspen Pharmacare, in South Africa, was licensed to produce the Johnson & Johnson vaccine. It was hailed as an answer to Africa’s struggle to get access to vaccines. 
+ <p class="updated_time"> 06:00 AM CT, May. 13 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/climate/south-africa-floods-climate-change.html">Did Warming Play a Role in Deadly South African Floods? Yes, a Study Says.</a> NYT: Climate change sharply increased the chances of catastrophic rains in the country’s east, a team of researchers has found. 
  <p class="updated_time"> 05:30 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/asia/south-korea-cameras-ghost-surgery.html">In South Korea, ‘Ghost Surgeries’ Lead to Cameras in Hospitals</a> NYT: After scandals in which doctors let unsupervised assistants operate on patients, the country is becoming one of the first to require cameras in operating rooms. 
- <p class="updated_time"> 05:26 AM CT, May. 13 </p> 
- <a href="https://www.bbc.co.uk/news/business-61433724?at_medium=RSS&at_campaign=KARANGA">Elon Musk puts Twitter deal on hold over fake account details</a> BBC: The billionaire tweeted that he wanted to see more information on spam and fake accounts. 
  <p class="updated_time"> 05:21 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61434304?at_medium=RSS&at_campaign=KARANGA">Sri Lanka economy crisis to get worse before it gets better, PM says</a> BBC: Sri Lanka's new PM tells the BBC the country's dire economic crisis will get worse before it gets better. 
- <p class="updated_time"> 04:53 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/video/china-struggles-to-contain-frustration-from-shanghai-covid-lockdown/FEE5E499-E9D9-42D0-8C64-64B778D0BCD7.html">China Struggles to Contain Frustration From Shanghai Covid Lockdown</a> WSJ: China Struggles to Contain Frustration From Shanghai Covid Lockdown 
+ <p class="updated_time"> 05:12 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200">‘I Cannot Imagine My Life Without Parents.’ A Boy’s War Diary Tells of Grief in Ukraine</a> WSJ: ‘I Cannot Imagine My Life Without Parents.’ A Boy’s War Diary Tells of Grief in Ukraine 
  <p class="updated_time"> 04:13 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61428970?at_medium=RSS&at_campaign=KARANGA">Platinum Jubilee: Lemon and amaretti trifle to be official pudding</a> BBC: Jemma Melvin's creation is inspired by a lemon posset served at the Queen's wedding to Prince Philip. 
+ <p class="updated_time"> 04:12 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-forces-hold-the-line-in-donbas-as-western-heavy-weapons-join-the-battle-11652362422">Ukraine Holds Line as Western Heavy Arms Join Fight</a> WSJ: Ukraine Holds Line as Western Heavy Arms Join Fight 
  <p class="updated_time"> 04:00 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/sweden-finland-nato-putin.html">After 200 Years of Neutrality, Sweden Weighs Joining NATO</a> NYT: Russia’s invasion of Ukraine created new fears, and the Swedes, dragged along by Finland, are expected to apply, reluctantly, to join the alliance and its collective defense. 
  <p class="updated_time"> 04:00 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/middleeast/israel-judaism-referom-orthodox.html">A Rabbi’s Contentious Quest for Religious Pluralism in Israel</a> NYT: There is more than one way to be Jewish, says Gilad Kariv, the first Reform rabbi in Israel’s Parliament. The idea poses a challenge to the country’s Orthodox establishment. 
- <p class="updated_time"> 03:53 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/north-korea-cites-explosive-national-covid-19-outbreak-reports-first-death-11652408080">North Korea Cites Explosive National Covid Outbreak, Reports First Death</a> WSJ: North Korea Cites Explosive National Covid Outbreak, Reports First Death 
- <p class="updated_time"> 02:53 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/palestinians-reject-israeli-request-to-examine-bullet-that-killed-al-jazeera-journalist-11652350122">Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist</a> WSJ: Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist 
+ <p class="updated_time"> 03:12 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/seoul-to-offer-vaccines-to-help-north-korea-tackle-covid-outbreak-11652431748">Seoul to Offer Vaccines to Help North Korea Tackle Covid Outbreak</a> WSJ: Seoul to Offer Vaccines to Help North Korea Tackle Covid Outbreak 
  <p class="updated_time"> 02:24 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/nato-finland-sweden-ukraine.html">U.S. Embraces Finland’s Move Toward NATO Membership. What About Ukraine?</a> NYT: Ukraine has been considered too full of corruption and too devoid of democratic institutions to make membership likely for years, if not decades, to come. 
  <p class="updated_time"> 02:23 AM CT, May. 13 </p> 
@@ -37,18 +41,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/us/biden-covid-deaths-flags-half-staff.html">Biden Orders Federal Flags to Fly at Half-Staff as U.S. Covid Toll Nears One Million</a> NYT: The president said in a formal statement that the United States must ‘remain vigilant’ against a virus that has ‘forever changed’ the country. 
  <p class="updated_time"> 02:13 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/business/economy/russia-shipping-sanctions.html">Russian Shipping Traffic Remains Strong as Sanctions Take Time to Bite</a> NYT: The traffic was robust in March and April, reflecting the time it takes for sanctions to come into effect and an enduring profit motive for trading Russian energy. 
+ <p class="updated_time"> 02:12 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/palestinians-reject-israeli-request-to-examine-bullet-that-killed-al-jazeera-journalist-11652350122">Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist</a> WSJ: Palestinians Reject Israeli Request to Examine Bullet That Killed Al Jazeera Journalist 
  <p class="updated_time"> 02:10 AM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098734688/biden-looks-to-nudge-asean-russia">Biden looks to nudge ASEAN leaders to speak out on Russia</a> NPR: Despite Washington's focus on the war in Ukraine, the White House is trying to demonstrate that it is stepping up in the Asia-Pacific. 
- <p class="updated_time"> 01:53 AM CT, May. 13 </p> 
+ <p class="updated_time"> 01:47 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/russian-president-vladimir-putins-reputed-girlfriend-sanctioned-by-u-k-11652438838">Russian President Vladimir Putin's Reputed Girlfriend Sanctioned by U.K.</a> WSJ: The U.K. government sanctioned Alina Kabaeva, a Russian retired Olympic rhythmic gymnast, citing her alleged close relationship to President Vladimir Putin. 
+ <p class="updated_time"> 01:44 AM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/kyiv-seeks-release-of-troops-in-besieged-azovstal-steel-plant-11652438695">Kyiv Seeks Release of Troops in Besieged Azovstal Steel Plant</a> WSJ: The Ukrainian government said it had opened talks on evacuating soldiers trapped in the Azovstal steel mill in Mariupol in stages, as the EU was preparing a proposal to boost funding for Ukraine’s military. 
+ <p class="updated_time"> 01:12 AM CT, May. 13 </p> 
  <a href="https://www.wsj.com/articles/sri-lankan-president-appoints-new-prime-minister-after-protests-turn-deadly-11652373002">Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly</a> WSJ: Sri Lankan President Appoints New Prime Minister After Protests Turn Deadly 
- <p class="updated_time"> 01:05 AM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/12/world/africa/south-africa-covid-vaccine-factory.html">Africa’s First Covid-19 Vaccine Factory Has Not Received a Single Order</a> NYT: Aspen Pharmacare, in South Africa, was licensed to produce the Johnson & Johnson vaccine. It was hailed as an answer to Africa’s struggle to get access to vaccines. 
- <p class="updated_time"> 12:53 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/boat-carrying-suspected-migrants-capsizes-near-puerto-rico-11-dead-11652407209">Boat Carrying Suspected Migrants Capsizes Near Puerto Rico</a> WSJ: Boat Carrying Suspected Migrants Capsizes Near Puerto Rico 
  <p class="updated_time"> 12:33 AM CT, May. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61432084?at_medium=RSS&at_campaign=KARANGA">North Korea announces first death from Covid-19</a> BBC: A day after confirming its first cases, state media reports thousands are suffering fever symptoms. 
- <p class="updated_time"> 12:30 AM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200">'I Cannot Imagine My Life Without Parents.' A Boy's War Diary Tells of Grief in Ukraine</a> WSJ: A 12-year-old Ukrainian boy who lost his mother and stepfather in a Russian attack on a village near Kyiv recounts the sorrow and fear of wartime in his diary. 
  <p class="updated_time"> 12:09 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/rand-paul-ukraine-aid.html">Rand Paul Delays $40 Billion in Aid for Ukraine</a> NYT: Mr. Paul had sought to alter the bill to include requiring that an inspector general monitor the spending. 
  <p class="updated_time"> 10:51 PM CT, May. 12 </p> 
@@ -155,8 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/11/climate/air-pollution-hurricanes.html">Air Pollution Can Mean More, or Fewer, Hurricanes. It Depends Where You Live.</a> NYT: Smog from factories and cars has led to more storms in the Atlantic Ocean, but fewer in the Pacific. A new study explains why. 
  <p class="updated_time"> 05:59 AM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61424113?at_medium=RSS&at_campaign=KARANGA">Air traffic controller on helping passenger land plane after pilot fell ill</a> BBC: Robert Morgan talked passenger Darren Harrison through landing a plane after the pilot fell ill. 
- <p class="updated_time"> 04:33 AM CT, May. 12 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-forces-hold-the-line-in-donbas-as-western-heavy-weapons-join-the-battle-11652362422">Ukraine Holds Line as Western Heavy Arms Join Fight</a> WSJ: More than three weeks after the massive Russian offensive that aims to encircle Ukraine’s best forces in Donbas kicked off, Moscow’s achievements so far are limited at best. 
  <p class="updated_time"> 03:49 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/middleeast/al-jazeera-journalist-killed-west-bank.html">Shireen Abu Akleh of Al Jazeera Is Killed in West Bank</a> NYT: The network and Palestinian authorities blamed Israeli troops for the killing. Israel said the blame could lie with Palestinian gunmen. 
  <p class="updated_time"> 02:58 AM CT, May. 12 </p> 
@@ -215,8 +217,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/10/us/politics/russia-cyberattack-ukraine-war.html">Russia Was Behind Cyberattack in Run-Up to Ukraine War, Investigation Finds</a> NYT: The February attack rattled Pentagon officials and private industry because it revealed new vulnerabilities in global communications systems. 
  <p class="updated_time"> 02:00 AM CT, May. 11 </p> 
  <a href="https://www.nytimes.com/2022/05/11/world/israeli-palestinian-mass-grave-tantura.html">‘Tantura’ Documentary Reopens Debate About Israel’s Foundational Story</a> NYT: Israeli soldiers had long denied killing prisoners after capturing an Arab seaside town, days after Israel’s creation. A new film provides fresh evidence — reopening a debate about Israel’s foundational story. 
- <p class="updated_time"> 09:14 PM CT, May. 10 </p> 
- <a href="https://www.nytimes.com/2022/05/10/world/europe/ukraine-russia-donbas.html">Ukraine War’s Geographic Reality: Russia Has Seized Much of the East</a> NYT: Despite many stumbles and setbacks, the Russian military has gained near total control of the Donbas region, giving the Kremlin huge leverage in any future talks. 
  <p class="updated_time"> 06:51 PM CT, May. 10 </p> 
  <a href="https://www.nytimes.com/2022/05/10/world/middleeast/iran-execution-ahmadreza-djalali.html">Iran Says It Will Execute Ahmadreza Djalali, Swedish-Iranian Accused of Spying</a> NYT: Ahmadreza Djalali denies he spied for Israel or helped it kill Iranian nuclear scientists. 
 
@@ -226,6 +226,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:01 AM CT, May. 13 </p> 
+ <a href="https://www.politico.com/news/2022/05/13/pence-georgia-rally-kemp-00032306">Pence to headline Georgia rally for Kemp, defying Trump ahead of primary</a> Politico: The Georgia governor is facing Trump-endorsed David Perdue in a May 24 GOP primary. 
  <p class="updated_time"> 05:00 AM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098591991/maryland-virginia-governors-protests-supreme-court">Maryland and Virginia governors urge DOJ to tighten security outside justices' homes</a> NPR: The Republican governors are asking for federal law enforcement to take the lead in protecting the justices in the weeks and months ahead as protests continue. 
  <p class="updated_time"> 04:30 AM CT, May. 13 </p> 
@@ -278,8 +280,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/us/politics/roe-abortion-democratic-governors.html">For Democratic Female Governors, the Roe Leak Alters the Midterm Calculus</a> NYT: As the constitutional right to an abortion hangs in the balance, Democratic women who occupy or are vying for governors’ mansions are on the front lines of the messaging fight. 
  <p class="updated_time"> 05:49 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/12/1098529637/white-house-summit-leads-to-big-promises-to-fight-covid-in-needy-countries">White House summit leads to big promises to fight COVID in needy countries</a> NPR: The second Global COVID-19 Summit aimed to refocus the world's attention on the pandemic. Here's what governments and members of the private and public sector pledged to do. 
- <p class="updated_time"> 05:31 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/us/politics/biden-covid-summit.html">At Biden’s Summit, Other Nations Pledge Billions to Bolster Pandemic Response</a> NYT: The meeting was meant to reinvigorate the response as vaccination and testing lag. Many attendees said Covid fatigue had become nearly as big a danger as Covid itself. 
  <p class="updated_time"> 05:13 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/business/jerome-powell-confirmed.html">Jerome Powell Confirmed for a Second Term as Fed Chair</a> NYT: Jerome Powell, whom the Senate confirmed to a second term on Thursday, said allowing rapid inflation to persist would be more painful. 
  <p class="updated_time"> 05:12 PM CT, May. 12 </p> 
@@ -316,6 +316,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/12/feds-powell-secures-second-term-00032136">Fed's Powell secures a second term as inflation rages</a> Politico: Powell was confirmed in a bipartisan 80-19 vote 
  <p class="updated_time"> 01:34 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098495782/jerome-powell-federal-reserve-chair-confirmation-vote-inflation">Fed Chair Jerome Powell is confirmed for a 2nd term. Inflation will be his focus</a> NPR: Jerome Powell was confirmed to a second term as Federal Reserve chairman. The Senate vote comes as the central bank faces intense pressure to bring down inflation. 
+ <p class="updated_time"> 01:32 PM CT, May. 12 </p> 
+ <a href="https://www.cnn.com/2022/05/12/politics/anti-abortion-groups-letter-criminalizing-women/index.html">Leading anti-abortion groups urge state lawmakers not to pass bills criminalizing women for abortions</a> CNN: Some of the largest anti-abortion organizations in the US are urging state lawmakers to reject legislation that would criminalize women for having abortions, saying "turning women who have abortions into criminals is not the way." 
  <p class="updated_time"> 12:48 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/2022/05/12/1098488908/has-tucker-carlson-created-the-most-racist-show-in-the-history-of-cable-news">Has Tucker Carlson created the most racist show in the history of cable news?</a> NPR: The NY Times did an exhaustive survey of the Fox News host's broadcasts. Reporter Nicholas Confessore says Carlson's show is based on ideas that were once "caged in a dark corner of American life." 
  <p class="updated_time"> 12:18 PM CT, May. 12 </p> 
@@ -342,16 +344,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/12/senate-democrats-imaginary-majority-00031880">Senate Democrats’ imaginary majority</a> Politico: From abortion to Ukraine aid to immigration, the caucus is confronting its “tenuous” control over the chamber. 
  <p class="updated_time"> 07:42 PM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/great-maga-king-president-joe-biden-midterm-00031981">'The great MAGA king': Biden sharpens midterm attacks</a> Politico: In a trip to the Midwest, the president laid into his predecessor and said the GOP has a “radical agenda.” 
- <p class="updated_time"> 03:44 PM CT, May. 11 </p> 
- <a href="https://www.cnn.com/2022/05/11/politics/senate-abortion-rights-vote-roe-v-wade/index.html">Key vote to protect access to abortion fails in the Senate</a> CNN: A key vote on the Women's Health Protection Act, a Democrat-led bill aimed at preserving access to abortion nationwide, failed in the Senate on Wednesday. 
  <p class="updated_time"> 02:43 PM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/senate-confirms-bedoya-to-ftc-00029128">Senate confirms Biden's FTC nominee despite Republican opposition</a> Politico: Alvaro Bedoya becomes the third Democratic commissioner, giving progressive FTC Chair Lina Khan a majority at the antitrust and consumer protection agency. 
  <p class="updated_time"> 01:05 PM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/staffer-resigned-over-trump-family-separation-report-00031776">Justice watchdog staffer resigned amid leak probe over Trump family separation report</a> Politico: DOJ Inspector General ordered investigation into who disclosed report about border policy. 
  <p class="updated_time"> 12:48 PM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/biden-working-class-unions-00031759">Biden's personal recovery plan: Pump up unions, squeeze Big Business</a> Politico: The president is hoping his political fate — and the Democrats’ standing among the white working class — can be saved by lifting up organized labor. 
- <p class="updated_time"> 12:29 PM CT, May. 11 </p> 
- <a href="https://www.politico.com/news/2022/05/11/biden-administration-portal-child-tax-credit-00031753">Biden administration reups Child Tax Credit portal</a> Politico: The portal, GetCTC, had been taken offline earlier this year due to concerns it could cause confusion during the tax filing season. 
  <p class="updated_time"> 11:08 AM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/senate-doomed-vote-roe-abortion-rights-00031732">Senate fails to pass abortion rights bill — again</a> Politico: The largely symbolic vote to codify abortion protections didn't even garner a simple Senate majority, falling on the same lines a previous bill did in February. 
  <p class="updated_time"> 06:01 AM CT, May. 11 </p> 
@@ -376,8 +374,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/10/congress-ukraine-aid-package-00031366">Congress races to pass $40B Ukraine aid package</a> Politico: Senate Minority Whip John Thune said Tuesday that negotiators were still trying to “iron out a few matters” and that the total may change. 
  <p class="updated_time"> 11:46 AM CT, May. 10 </p> 
  <a href="https://www.politico.com/news/2022/05/10/democrats-border-gop-covid-aid-00031371">Dems edge closer to giving GOP a border vote as a price for Covid aid</a> Politico: The party's No. 2 and No. 3 Senate leaders said they're prepared to take up a proposal that would block President Joe Biden's migration move. 
- <p class="updated_time"> 11:02 AM CT, May. 10 </p> 
- <a href="https://www.politico.com/news/2022/05/10/abortion-providers-biden-front-lines-00031354">Abortion providers to Biden: Come see the front lines of the fight</a> Politico: A trip, they argue, would put a spotlight on a debate and lessen the stigma around abortion. But the White House has, so far, resisted. 
 
 
 </details>
