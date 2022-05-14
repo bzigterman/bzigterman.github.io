@@ -9,17 +9,21 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:17 AM CT, May. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61445600?at_medium=RSS&at_campaign=KARANGA">Delhi office fire: Dozens killed as fire sweeps through building</a> BBC: Most of those inside were women, leaving families frantically searching for news of their fate. 
+ <p class="updated_time"> 08:10 AM CT, May. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/14/world/russia-ukraine-war-news">Ukraine Live Updates: As Finnish and Swedish Officials Join NATO Meeting, Russia Punishes Finland</a> NYT: Russia once again used energy as a weapon, cutting off electricity exports to Finland, which, along with Sweden, is moving toward joining the military alliance. Ukrainian forces were on the offensive around Kharkiv, with analysts saying they had won the battle for the northeastern city. 
+ <p class="updated_time"> 08:10 AM CT, May. 14 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/us/politics/russia-sanctions-evasion-treasury.html">Treasury Warns Foreign Banks Against Helping Russia Evade Sanctions</a> NYT: Adewale Adeyemo, the deputy Treasury secretary, met privately with international financial institutions to make clear the consequences of sanctions evasion. 
  <p class="updated_time"> 07:48 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/london-train-crossrail.html">In London, a Long-Awaited High-Speed Train Is Ready to Roll</a> NYT: The Elizabeth line, 13 years in the making, will soon uncoil under central London with cathedral-like stations and roomy cars. Its managers say it’s a testament to the power of public transportation. 
  <p class="updated_time"> 07:39 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098941080/ukraine-begins-prosecuting-russians-for-war-crimes">Ukraine begins prosecuting Russians for war crimes</a> NPR: Ukraine is prosecuting a member of the Russian military, alleging he killed an unarmed Ukrainian civilian. The prosecutor general says Ukraine is preparing 41 more cases. 
  <p class="updated_time"> 07:37 AM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/05/14/world/russia-ukraine-war-news">Ukraine Live Updates: As Finnish and Swedish Officials Join NATO Meeting, Russia Punishes Finland</a> NYT: Russia once again used energy as a weapon, cutting off electricity exports to Finland, which, along with Sweden, is moving toward joining the military alliance. Ukrainian forces were on the offensive around Kharkiv, with analysts saying they had won the battle for the northeastern city. 
- <p class="updated_time"> 07:37 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/shireen-abu-akleh-funeral-israel">Israeli Police Attack Mourners at Palestinian Journalist’s Funeral</a> NYT: Video showed police officers in Jerusalem beating and kicking mourners next to the coffin of Shireen Abu Akleh, an Al Jazeera reporter who was killed on Wednesday, forcing one to the ground. 
  <p class="updated_time"> 07:35 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098940954/uae-new-president-united-arab-emirates">Abu Dhabi's Sheikh Mohammed bin Zayed Al Nahyan is named the UAE's new president</a> NPR: The ascension of Sheikh Mohammed, 61, had been expected after the death Friday of his half-brother and the UAE's president, Sheikh Khalifa bin Zayed Al Nahyan, at the age of 73. 
- <p class="updated_time"> 06:51 AM CT, May. 14 </p> 
+ <p class="updated_time"> 07:30 AM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
  <p class="updated_time"> 06:50 AM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61450144?at_medium=RSS&at_campaign=KARANGA">Custom-made brace helps heal baby giraffe</a> BBC: Vets in San Diego, California, came up with a creative solution to treat a young calf's limb disorder. 
@@ -27,32 +31,32 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/14/1098939668/russian-troops-withdraw-from-kharkiv-ukraine">Ukraine says Russian troops are withdrawing from Kharkiv</a> NPR: Russian forces are pulling back from Ukraine's second-largest city after weeks of heavy bombardment, the Ukrainian military says, as a battle for the country's eastern industrial heartland continues. 
  <p class="updated_time"> 06:35 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/india-wheat-export-ban.html">India Bans Most Wheat Exports, Adding to Fears of Global Food Insecurity</a> NYT: The ban could compound a worldwide shortfall worsened by the war in Ukraine and exacerbate an already dire forecast for global hunger. 
- <p class="updated_time"> 06:14 AM CT, May. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61445600?at_medium=RSS&at_campaign=KARANGA">Delhi office fire: Dozens killed as fire sweeps through building</a> BBC: Most of those inside were women, leaving families frantically searching for news of their fate. 
- <p class="updated_time"> 05:51 AM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
+ <p class="updated_time"> 06:30 AM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/putin-russia-ukraine-finland-nato-11652386254">How Putin Drove Finland Into NATO’s Arms</a> WSJ: How Putin Drove Finland Into NATO’s Arms 
+ <p class="updated_time"> 05:30 AM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/new-zealand-prime-minister-ardern-tests-positive-for-covid-19-11652484656">New Zealand Prime Minister Ardern Tests Positive for Covid-19</a> WSJ: New Zealand Prime Minister Ardern Tests Positive for Covid-19 
  <p class="updated_time"> 05:00 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/north-korea-covid-outbreak.html">North Korea Says Its Covid Outbreak Is Spreading Fast</a> NYT: State media reported 21 new deaths and a huge jump in suspected cases on Saturday, but it was unclear how many had been definitively linked to the coronavirus. 
  <p class="updated_time"> 05:00 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/canada/conservatives-rallies-poilievre.html">From Streets to Rallies, Truckers and Supporters Weigh Conservative Candidates</a> NYT: In his bid for the Conservative Party leadership Pierre Poilievre is wooing supporters of the blockade that shut down Ottawa and closed border points. 
- <p class="updated_time"> 04:51 AM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/putin-russia-ukraine-finland-nato-11652386254">How Putin Drove Finland Into NATO’s Arms</a> WSJ: How Putin Drove Finland Into NATO’s Arms 
  <p class="updated_time"> 04:38 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/afghan-scrap-metal-mines.html">In Afghanistan, Collecting Scrap Metal Is a Risky Pursuit</a> NYT: Discarded metal left by decades of conflict has become a livelihood for impoverished Afghans. But many have been killed by unexploded munitions. 
  <p class="updated_time"> 04:38 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/delhi-fire-india.html">New Delhi Fire Leaves Dozens Dead</a> NYT: Officials said that at least 27 people had been killed, most of them assembly line workers, and that the toll could rise. 
+ <p class="updated_time"> 04:30 AM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200">A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents’</a> WSJ: A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents’ 
  <p class="updated_time"> 04:14 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/sweden-finland-nato-putin.html">After 200 Years of Neutrality, Sweden Weighs Joining NATO</a> NYT: Russia’s invasion of Ukraine created new fears, and the Swedes, dragged along by Finland, are expected to apply, reluctantly, to join the alliance and its collective defense. 
  <p class="updated_time"> 04:00 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/germany-russia-oligarchs-bavaria.html">At a German Hideaway, Oligarch Villas Challenge a ‘Silent Contract’</a> NYT: Tegernsee, a luxury getaway in Bavaria, is known for quietly hosting the superrich. But war in Ukraine has divided locals about whether the authorities should go after the assets of their wealthy Russian neighbors. 
- <p class="updated_time"> 03:51 AM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 03:35 AM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61448311?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: UN condemns killing of Al Jazeera reporter</a> BBC: Shireen Abu Aqla was shot dead in disputed circumstances in the occupied West Bank. 
+ <p class="updated_time"> 03:35 AM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine has begun a counteroffensive toward the eastern city of Izyum, officials said, while continuing to clear villages north of the country’s second-largest city of Kharkiv. 
+ <p class="updated_time"> 03:30 AM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/israeli-forces-palestinians-clash-in-west-bank-before-funeral-of-journalist-11652471399">Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist</a> WSJ: Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist 
  <p class="updated_time"> 03:20 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/putin-family-wealth-sanctions.html">Sanctions Shed Light on Putin’s Private Life</a> NYT: As Western nations place sanctions on people close to the Russian leader, including family members, the strict secrecy surrounding his private life is being punctured. 
- <p class="updated_time"> 02:51 AM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/new-zealand-prime-minister-ardern-tests-positive-for-covid-19-11652484656">New Zealand Prime Minister Ardern Tests Positive for Covid-19</a> WSJ: New Zealand Prime Minister Ardern Tests Positive for Covid-19 
  <p class="updated_time"> 02:45 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/australia/australian-election-transgender-rights.html">An American Moment in an Australian Campaign</a> NYT: To some analysts, a spat over transition surgery looks like something from an overseas culture war. 
  <p class="updated_time"> 02:21 AM CT, May. 14 </p> 
@@ -83,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/us/robert-c-mcfarlane-dead.html">Robert C. McFarlane, Top Reagan Aide in Iran-Contra Affair, Dies at 84</a> NYT: As national security adviser, he pleaded guilty in an illegal scheme to aid Nicaraguan rebels in the 1980s. Guilt-ridden, he attempted suicide. 
  <p class="updated_time"> 04:13 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098865269/protests-in-sri-lanka-have-turned-violent-amid-power-food-and-medicine-shortages">Protests in Sri Lanka have turned violent amid power, food and medicine shortages</a> NPR: NPR's Adrian Florido talks with journalist Sulochana Ramiah about Sri Lanka's protests, which have turned violent. The country is in crisis, with power blackouts and food shortages. 
- <p class="updated_time"> 04:05 PM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/13/us/politics/russia-sanctions-evasion-treasury.html">Treasury Warns Foreign Banks Against Helping Russia Evade Sanctions</a> NYT: Adewale Adeyemo, the deputy Treasury secretary, met privately with international financial institutions to make clear the consequences of sanctions evasion. 
  <p class="updated_time"> 03:53 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098748445/russia-ukraine-war-what-happened-today-may-13">Russia-Ukraine war: What happened today (May 13)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:40 PM CT, May. 13 </p> 
@@ -208,6 +210,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:27 AM CT, May. 14 </p> 
+ <a href="https://www.nytimes.com/2022/05/14/us/politics/trump-endorses-doug-mastriano.html">Trump Endorses Doug Mastriano for Pennsylvania Governor</a> NYT: Mr. Mastriano, who has promoted many false claims of a stolen 2020 election, was the leading Republican candidate for governor even before Donald Trump’s endorsement. 
+ <p class="updated_time"> 08:10 AM CT, May. 14 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/us/politics/russia-sanctions-evasion-treasury.html">Treasury Warns Foreign Banks Against Helping Russia Evade Sanctions</a> NYT: Adewale Adeyemo, the deputy Treasury secretary, met privately with international financial institutions to make clear the consequences of sanctions evasion. 
+ <p class="updated_time"> 07:52 AM CT, May. 14 </p> 
+ <a href="https://www.politico.com/news/2022/05/14/mcconnell-republican-senators-kyiv-00032534">McConnell leads delegation of Republican senators to Kyiv</a> Politico: Ukrainian President Volodymyr Zelenskyy called the visit a powerful signal of bipartisan support for Ukraine, as well as the American people. 
  <p class="updated_time"> 07:37 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098941079/week-in-politics-the-abortion-debate-could-have-a-heavy-sway-on-midterms">Week in politics: The abortion debate could have a heavy sway on midterms</a> NPR: We look at how the fight over abortion access might turn out voters in the midterms. Also, how will the White House tackle the nation-wide shortage of baby formula? 
  <p class="updated_time"> 07:18 AM CT, May. 14 </p> 
@@ -244,8 +252,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/us/politics/baby-formula-shortage-biden-immigration.html">Republicans Wrongly Tie Biden Immigration Policies to Baby Formula Shortage</a> NYT: A lawsuit settlement requires the federal government to provide water and food, including formula, to detained migrant children. 
  <p class="updated_time"> 04:27 PM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/13/florida-redistricting-case-desantis-00032483">DeSantis appeals Florida judge's order blocking his redistricting map</a> Politico: Florida’s redistricting process has dragged on for months. 
- <p class="updated_time"> 04:05 PM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/13/us/politics/russia-sanctions-evasion-treasury.html">Treasury Warns Foreign Banks Against Helping Russia Evade Sanctions</a> NYT: Adewale Adeyemo, the deputy Treasury secretary, met privately with international financial institutions to make clear the consequences of sanctions evasion. 
  <p class="updated_time"> 04:04 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098865241/texas-gov-abbots-migration-crackdown-hasnt-exactly-gone-as-he-planned">Texas Gov. Abbott's migration crackdown hasn't exactly gone as he planned</a> NPR: Texas Gov. Greg Abbott, a Republican, has been testing the limits of how much his state can do to curb unauthorized migration. But Abbott's sweeping crackdown hasn't always gone as planned. 
  <p class="updated_time"> 03:56 PM CT, May. 13 </p> 
@@ -316,8 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/us/politics/abortion-protests-supreme-court-justices.html">A Battle Over How to Battle Over Roe: Protests at Justices’ Homes Fuel Rancor</a> NYT: Many of the protesters have expressed concern that the scrutiny over the demonstrations has distracted from the real issue: restricting a woman’s right to have an abortion. 
  <p class="updated_time"> 08:11 PM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/gop-launches-operation-stop-barnette-00032303">GOP launches Operation Stop Barnette</a> Politico: Kathy Barnette's late surge has forced the Oz and McCormick campaigns and their allies to scramble in the final days before the Senate primary. 
- <p class="updated_time"> 06:42 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/us/politics/justice-department-environmental-justice.html">Justice Dept. Tries to Shift Environmental Justice Efforts From Symbolic to Substantive</a> NYT: The agency has announced a series of policies intended to elevate those efforts, including the creation of an office meant to address the “harm caused by environmental crime, pollution and climate change.” 
  <p class="updated_time"> 06:16 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/harris-abortion-rights-biden.html">Harris Emerges as the Voice of Abortion Rights in the Biden Administration</a> NYT: The threat to Roe v. Wade presents Vice President Kamala Harris with an opportunity to recover from early political stumbles. 
  <p class="updated_time"> 04:53 PM CT, May. 12 </p> 
@@ -342,8 +346,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/12/senate-democrats-imaginary-majority-00031880">Senate Democrats’ imaginary majority</a> Politico: From abortion to Ukraine aid to immigration, the caucus is confronting its “tenuous” control over the chamber. 
  <p class="updated_time"> 01:05 PM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/staffer-resigned-over-trump-family-separation-report-00031776">Justice watchdog staffer resigned amid leak probe over Trump family separation report</a> Politico: DOJ Inspector General ordered investigation into who disclosed report about border policy. 
- <p class="updated_time"> 12:48 PM CT, May. 11 </p> 
- <a href="https://www.politico.com/news/2022/05/11/biden-working-class-unions-00031759">Biden's personal recovery plan: Pump up unions, squeeze Big Business</a> Politico: The president is hoping his political fate — and the Democrats’ standing among the white working class — can be saved by lifting up organized labor. 
  <p class="updated_time"> 11:08 AM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/senate-doomed-vote-roe-abortion-rights-00031732">Battle lines harden as Senate prepares to take doomed vote on abortion rights</a> Politico: The largely symbolic vote to codify abortion protections will fail, with not even a simple Democratic majority supporting the bill. 
 
