@@ -15,17 +15,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/world/europe/eurovision-song-contest-ukraine.html">Amid War, Ukraine Is Favored to Win Eurovision Song Contest</a> NYT: The exclusion of Russia from the contest has underlined the country’s estrangement from the west, including in popular culture. 
  <p class="updated_time"> 10:05 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098948488/ukraine-mcconnell-zelenskyy-senate-delegation">McConnell heads to Kyiv and becomes the latest U.S. official to meet with Zelenskyy</a> NPR: Ukrainian President Volodymyr Zelenskyy called the visit a signal of bipartisan support from the U.S. Congress. The meeting took place as Ukraine said it had forced Russian troops away from Kharkiv. 
+ <p class="updated_time"> 09:57 AM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
  <p class="updated_time"> 09:46 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/shireen-abu-akleh-funeral-israel">Israeli Police Attack Mourners at Palestinian Journalist’s Funeral</a> NYT: Video showed police officers in Jerusalem beating and kicking mourners next to the coffin of Shireen Abu Akleh, an Al Jazeera reporter who was killed on Wednesday, forcing one to the ground. 
- <p class="updated_time"> 09:46 AM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
  <p class="updated_time"> 09:36 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/london-train-crossrail.html">In London, a Long-Awaited High-Speed Train Is Ready to Roll</a> NYT: The Elizabeth line, 13 years in the making, will soon uncoil under central London with cathedral-like stations and roomy cars. Its managers say it’s a testament to the power of public transportation. 
  <p class="updated_time"> 09:08 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/middleeast/mohammed-bin-zayed-elected-uae-leader.html">Mohammed Bin Zayed Becomes U.A.E. President</a> NYT: Sheikh Mohammed has used his small country’s oil wealth to exert great influence across the Middle East and in Washington. 
  <p class="updated_time"> 09:03 AM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61450694?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin warns Finland joining Nato would be 'mistake'</a> BBC: Finland and Sweden have indicated they want to become Nato members following Russia's war in Ukraine. 
- <p class="updated_time"> 08:46 AM CT, May. 14 </p> 
+ <p class="updated_time"> 08:57 AM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 08:34 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098942947/lebanese-candidates-push-for-change-in-a-corrupt-electoral-system">Lebanese candidates push for change in a corrupt electoral system</a> NPR: Lebanese elections this weekend are taking place under a system designed to keep the same parties in power in the parliament. But a few candidates hope they can send a message about change. 
@@ -33,7 +33,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61445600?at_medium=RSS&at_campaign=KARANGA">Delhi office fire: Dozens killed as fire sweeps through building</a> BBC: Most of those inside were women, leaving families frantically searching for news of their fate. 
  <p class="updated_time"> 08:10 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/politics/russia-sanctions-evasion-treasury.html">Treasury Warns Foreign Banks Against Helping Russia Evade Sanctions</a> NYT: Adewale Adeyemo, the deputy Treasury secretary, met privately with international financial institutions to make clear the consequences of sanctions evasion. 
- <p class="updated_time"> 07:46 AM CT, May. 14 </p> 
+ <p class="updated_time"> 07:57 AM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/putin-russia-ukraine-finland-nato-11652386254">How Putin Drove Finland Into NATO’s Arms</a> WSJ: How Putin Drove Finland Into NATO’s Arms 
  <p class="updated_time"> 07:39 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098941080/ukraine-begins-prosecuting-russians-for-war-crimes">Ukraine begins prosecuting Russians for war crimes</a> NPR: Ukraine is prosecuting a member of the Russian military, alleging he killed an unarmed Ukrainian civilian. The prosecutor general says Ukraine is preparing 41 more cases. 
@@ -41,15 +41,15 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/14/1098940954/uae-new-president-united-arab-emirates">Abu Dhabi's Sheikh Mohammed bin Zayed Al Nahyan is named the UAE's new president</a> NPR: The ascension of Sheikh Mohammed, 61, had been expected after the death Friday of his half-brother and the UAE's president, Sheikh Khalifa bin Zayed Al Nahyan, at the age of 73. 
  <p class="updated_time"> 07:32 AM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/61448479?at_medium=RSS&at_campaign=KARANGA">Rome Open: Iga Swiatek beats Aryna Sabalenka to reach Rome Open final</a> BBC: Iga Swiatek extends her winning streak to 27 matches as she reaches the Rome Open finals by beating Aryna Sabalenka 6-2 6-1. 
+ <p class="updated_time"> 06:57 AM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 06:50 AM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61450144?at_medium=RSS&at_campaign=KARANGA">Custom-made brace helps heal baby giraffe</a> BBC: Vets in San Diego, California, came up with a creative solution to treat a young calf's limb disorder. 
- <p class="updated_time"> 06:46 AM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 06:37 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098939668/russian-troops-withdraw-from-kharkiv-ukraine">Ukraine says Russian troops are withdrawing from Kharkiv</a> NPR: Russian forces are pulling back from Ukraine's second-largest city after weeks of heavy bombardment, the Ukrainian military says, as a battle for the country's eastern industrial heartland continues. 
  <p class="updated_time"> 06:35 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/india-wheat-export-ban.html">India Bans Most Wheat Exports, Adding to Fears of Global Food Insecurity</a> NYT: The ban could compound a worldwide shortfall worsened by the war in Ukraine and exacerbate an already dire forecast for global hunger. 
- <p class="updated_time"> 05:46 AM CT, May. 14 </p> 
+ <p class="updated_time"> 05:57 AM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/yellen-seeks-to-win-european-support-for-a-tax-deal-congress-hasnt-approved-11652536800">Yellen Seeks to Win European Support for a Tax Deal Congress Hasn’t Approved</a> WSJ: Yellen Seeks to Win European Support for a Tax Deal Congress Hasn’t Approved 
  <p class="updated_time"> 05:00 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/north-korea-covid-outbreak.html">North Korea Says Its Covid Outbreak Is Spreading Fast</a> NYT: State media reported 21 new deaths and a huge jump in suspected cases on Saturday, but it was unclear how many had been definitively linked to the coronavirus. 
