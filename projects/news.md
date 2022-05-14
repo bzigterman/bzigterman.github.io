@@ -9,42 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:17 PM CT, May. 14 </p> 
+ <a href="https://www.nytimes.com/2022/05/14/world/europe/azovstal-evacuation-turkey.html">Turkey Offers to Evacuate Mariupol Fighters Despite Disagreements</a> NYT: Turkey has had a ship waiting for weeks in Istanbul to evacuate those remaining in the Azovstal steel plant, but Ukraine and Russia have not agreed to a plan, a Turkish official said. 
+ <p class="updated_time"> 04:00 PM CT, May. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Seven dead in shooting at Buffalo supermarket - reports</a> BBC: Police have arrested a suspect after multiple people were shot at a supermarket in upstate New York. 
+ <p class="updated_time"> 03:57 PM CT, May. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/14/world/russia-ukraine-war-news">Live Updates: Ukraine Pushes Russia Back From Kharkiv as U.S. Senators Visit Kyiv</a> NYT: Ukrainian troops made gains around Kharkiv and launched a counteroffensive around the Russian-held town of Izium. Republican senators made the pilgrimage to Kyiv to visit President Volodymyr Zelensky. 
+ <p class="updated_time"> 03:56 PM CT, May. 14 </p> 
+ <a href="https://www.nytimes.com/2022/05/14/world/europe/ukraine-putin-nato.html">For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. 
  <p class="updated_time"> 03:53 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/delhi-fire-india.html">New Delhi Fire Leaves Dozens Dead</a> NYT: Officials said that at least 27 people had been killed, most of them assembly line workers, and that the toll could rise. 
- <p class="updated_time"> 03:50 PM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/05/14/world/russia-ukraine-war-news">Live Updates: Ukraine Pushes Russia Back From Kharkiv as U.S. Senators Visit Kyiv</a> NYT: Ukrainian troops made gains around Kharkiv and launched a counteroffensive around the Russian-held town of Izium. Republican senators made the pilgrimage to Kyiv to visit President Volodymyr Zelensky. 
- <p class="updated_time"> 02:58 PM CT, May. 14 </p> 
+ <p class="updated_time"> 03:24 PM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 02:48 PM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098961626/israeli-police-investigate-officers-use-of-force-at-a-veteran-journalists-funera">Israeli police investigate officers' use of force at a veteran journalist's funeral</a> NPR: U.S. Secretary of State Antony Blinken as well as the European Union and the United Nations secretary-general condemned Israeli police conduct in Jerusalem over the funeral for Abu Akleh. 
- <p class="updated_time"> 01:58 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
+ <p class="updated_time"> 02:24 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
  <p class="updated_time"> 01:27 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/india-wheat-export-ban.html">India Bans Most Wheat Exports, Adding to Fears of Global Food Insecurity</a> NYT: The ban could compound a worldwide shortfall worsened by the war in Ukraine and exacerbate an already dire forecast for global hunger. 
+ <p class="updated_time"> 01:24 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
  <p class="updated_time"> 01:17 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/61448479?at_medium=RSS&at_campaign=KARANGA">Rome Open: Iga Swiatek beats Aryna Sabalenka to reach Rome Open final</a> BBC: Iga Swiatek extends her winning run to 27 matches and moves within one victory of a fifth consecutive title by reaching the Italian Open final. 
  <p class="updated_time"> 01:12 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/canada/conservatives-rallies-poilievre.html">From Streets to Rallies, Truckers and Supporters Weigh Conservative Candidates</a> NYT: In his bid for the Conservative Party leadership Pierre Poilievre is wooing supporters of the blockade that shut down Ottawa and closed border points. 
  <p class="updated_time"> 01:10 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61450694?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin warns Finland joining Nato would be 'mistake'</a> BBC: Finland and Sweden have indicated they want to become Nato members following Russia's war in Ukraine. 
- <p class="updated_time"> 12:58 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400">El Salvador’s President Went All In on Bitcoin. Then It Tanked.</a> WSJ: El Salvador’s President Went All In on Bitcoin. Then It Tanked. 
  <p class="updated_time"> 12:50 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/london-train-crossrail.html">In London, a Long-Awaited High-Speed Train Is Ready to Roll</a> NYT: The Elizabeth line, 13 years in the making, will soon uncoil under central London with cathedral-like stations and roomy cars. Its managers say it’s a testament to the power of public transportation. 
- <p class="updated_time"> 12:37 PM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/2022/05/14/world/europe/ukraine-putin-nato.html">For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. 
  <p class="updated_time"> 12:26 PM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098958972/india-family-lawsuit-children">Parents sue their son and daughter-in-law, demanding a grandchild or $675,000</a> NPR: The court reportedly has accepted their petition and scheduled it for a hearing in Haridwar, India. The couple wants a grandchild within a year. 
+ <p class="updated_time"> 12:24 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400">El Salvador’s President Went All In on Bitcoin. Then It Tanked.</a> WSJ: El Salvador’s President Went All In on Bitcoin. Then It Tanked. 
  <p class="updated_time"> 12:22 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/arts/music/minority-languages-song-contest.html">As Eyes Are on Eurovision, Europe Has Another Song Contest</a> NYT: The Liet International, a competition for minority and regional languages, lacks the glitz of Eurovision. But its organizers say it helps keep endangered tongues alive. 
- <p class="updated_time"> 11:58 AM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 11:55 AM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61450255?at_medium=RSS&at_campaign=KARANGA">Covid: What will the pandemic look like in North Korea?</a> BBC: North Korea is uniquely vulnerable to the virus, and the options to control its spread are limited. 
  <p class="updated_time"> 11:39 AM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61450976?at_medium=RSS&at_campaign=KARANGA">Nigeria student killing: Round-the-clock curfew in Sokoto after protests</a> BBC: Demonstrators have been demanding the release of two suspects held over the murder of a Christian student. 
- <p class="updated_time"> 10:58 AM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/yellen-seeks-to-win-european-support-for-a-tax-deal-congress-hasnt-approved-11652536800">Yellen Seeks to Win European Support for a Tax Deal Congress Hasn’t Approved</a> WSJ: Yellen Seeks to Win European Support for a Tax Deal Congress Hasn’t Approved 
+ <p class="updated_time"> 11:24 AM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 10:28 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/eurovision-song-contest-ukraine.html">Amid War, Ukraine Is Favored to Win Eurovision Song Contest</a> NYT: The exclusion of Russia from the contest has underlined the country’s estrangement from the west, including in popular culture. 
  <p class="updated_time"> 10:05 AM CT, May. 14 </p> 
@@ -143,8 +147,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61433724?at_medium=RSS&at_campaign=KARANGA">Elon Musk puts Twitter deal on hold over fake account details</a> BBC: The billionaire wants more data on fake accounts, prompting speculation over the deal's future. 
  <p class="updated_time"> 10:09 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/climate/south-africa-floods-climate-change.html">Did Warming Play a Role in Deadly South African Floods? Yes, a Study Says.</a> NYT: Climate change sharply increased the chances of catastrophic rains in the country’s east, a team of researchers has found. 
- <p class="updated_time"> 09:49 AM CT, May. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61434304?at_medium=RSS&at_campaign=KARANGA">Sri Lanka economy crisis to get worse before it gets better, PM says</a> BBC: Sri Lanka's new PM tells the BBC the country's dire economic crisis will get worse before it gets better. 
  <p class="updated_time"> 09:38 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/nato-finland-sweden-ukraine.html">Finland and Sweden Move Toward NATO Membership. But What About Ukraine?</a> NYT: Ukraine has been considered too full of corruption and too devoid of democratic institutions to make membership likely for years, if not decades, to come. 
  <p class="updated_time"> 09:20 AM CT, May. 13 </p> 
@@ -191,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/climate/biden-oil-gas-lease-sales.html">Biden Administration Cancels Oil Drilling Sales in Alaska and Gulf of Mexico</a> NYT: Republicans link the move to rising gas prices while the administration said it was a result of conflicting legal opinions and a lack of interest among bidders. 
  <p class="updated_time"> 09:26 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/downing-street-covid-lockdown.html">U.K. Police Issue More Fines for Parties at Downing Street</a> NYT: Britain’s prime minister, Boris Johnson, was not among those affected, his office said, though neither it, nor the police, named those who were. 
- <p class="updated_time"> 08:48 AM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/world/americas/el-salvador-prison-gangs-bukele.html">Families Reel Outside El Salvador Prisons After Gang Violence Crackdowns</a> NYT: Dozens of women wait outside a detention facility for news of their loved ones after a crackdown on gang violence resulted in the imprisonment of more than 25,000 people. 
  <p class="updated_time"> 08:31 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/asia/thailand-legal-weed-plant.html">Thailand Is Easing Weed Laws and Giving Away Cannabis Plants</a> NYT: The Southeast Asian country will soon allow residents to grow cannabis for medicinal use. Smoking pot recreationally still carries harsh penalties. 
  <p class="updated_time"> 08:11 AM CT, May. 12 </p> 
@@ -206,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:04 PM CT, May. 14 </p> 
+ <a href="https://www.npr.org/2022/05/14/1098969458/bans-off-our-bodies-protesters-discuss-personal-experiences-with-abortion">'Bans Off Our Bodies' protesters discuss personal experiences with abortion</a> NPR: NPR's Michel Martin speaks with two women participating in the Bans Off Our Bodies rallies today: Abigail Sweinhart and Heidi Gordon. 
  <p class="updated_time"> 03:19 PM CT, May. 14 </p> 
  <a href="https://www.politico.com/news/2022/05/14/multiple-people-shot-buffalo-new-york-supermarket-00032550">At least 10 dead in mass shooting at Buffalo supermarket</a> Politico: Authorities are investigating whether the shooting was racially motivated. 
  <p class="updated_time"> 03:16 PM CT, May. 14 </p> 
@@ -312,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/13/1098741154/elon-musk-twitter-deal-hold-pause">Elon Musk says he's put the blockbuster Twitter deal on pause over fake accounts</a> NPR: The Tesla and SpaceX mogul said he needs to make sure the fake accounts "do indeed represent less than 5%" of Twitter's users, as the company has estimated. 
  <p class="updated_time"> 05:00 AM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098591991/maryland-virginia-governors-protests-supreme-court">Maryland and Virginia governors urge DOJ to tighten security outside justices' homes</a> NPR: The Republican governors are asking for federal law enforcement to take the lead in protecting the justices in the weeks and months ahead as protests continue. 
- <p class="updated_time"> 04:30 AM CT, May. 13 </p> 
- <a href="https://www.npr.org/2022/05/13/1097528966/nyc-eric-adams-homeless-sweeps">NYC homeless advocates say Mayor Eric Adams' street sweeps aren't working</a> NPR: Homeless advocates say the NYC mayor's approach fails to consider the needs of at-risk populations. 
  <p class="updated_time"> 03:30 AM CT, May. 13 </p> 
  <a href="https://www.politico.com/gallery/2022/05/13/the-nations-cartoonists-on-the-week-in-politics-00032231">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 03:30 AM CT, May. 13 </p> 
