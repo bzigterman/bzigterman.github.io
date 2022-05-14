@@ -9,30 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:17 PM CT, May. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/14/world/russia-ukraine-war-news">Live Updates: Ukraine Pushes Russia Back From Kharkiv as U.S. Senators Visit Kyiv</a> NYT: Ukrainian troops made gains around Kharkiv and launched a counteroffensive around the Russian-held town of Izium. Republican senators made the pilgrimage to Kyiv to visit President Volodymyr Zelensky. 
+ <p class="updated_time"> 06:03 PM CT, May. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-61412333?at_medium=RSS&at_campaign=KARANGA">Fleeing Syria 10 years on: 'We cried all the way to Jordan'</a> BBC: A family looks back after a decade living in the world's largest Syrian refugee camp. 
  <p class="updated_time"> 05:32 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Ten dead in attack at New York state supermarket</a> BBC: The FBI is investigating the attack - which left three others injured - as a racially-motivated hate crime. 
  <p class="updated_time"> 05:29 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61451922?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Thousands attend rallies in US cities to support abortion rights</a> BBC: Pro-choice supporters are concerned that the Supreme Court could overturn the legal right to abortion. 
- <p class="updated_time"> 04:45 PM CT, May. 14 </p> 
+ <p class="updated_time"> 05:24 PM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 04:32 PM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/05/14/world/russia-ukraine-war-news">Live Updates: Ukraine Pushes Russia Back From Kharkiv as U.S. Senators Visit Kyiv</a> NYT: Ukrainian troops made gains around Kharkiv and launched a counteroffensive around the Russian-held town of Izium. Republican senators made the pilgrimage to Kyiv to visit President Volodymyr Zelensky. 
- <p class="updated_time"> 04:32 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/azovstal-evacuation-turkey.html">Turkey Offers to Evacuate Mariupol Fighters Despite Disagreements</a> NYT: Turkey has had a ship waiting for weeks in Istanbul to evacuate those remaining in the Azovstal steel plant, but Ukraine and Russia have not agreed to a plan, a Turkish official said. 
+ <p class="updated_time"> 04:24 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
  <p class="updated_time"> 03:56 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/ukraine-putin-nato.html">For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. 
  <p class="updated_time"> 03:53 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/delhi-fire-india.html">New Delhi Fire Leaves Dozens Dead</a> NYT: Officials said that at least 27 people had been killed, most of them assembly line workers, and that the toll could rise. 
- <p class="updated_time"> 03:45 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
+ <p class="updated_time"> 03:24 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
  <p class="updated_time"> 02:48 PM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098961626/israeli-police-investigate-officers-use-of-force-at-a-veteran-journalists-funera">Israeli police investigate officers' use of force at a veteran journalist's funeral</a> NPR: U.S. Secretary of State Antony Blinken as well as the European Union and the United Nations secretary-general condemned Israeli police conduct in Jerusalem over the funeral for Abu Akleh. 
- <p class="updated_time"> 02:45 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
- <p class="updated_time"> 01:45 PM CT, May. 14 </p> 
+ <p class="updated_time"> 02:24 PM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400">El Salvador’s President Went All In on Bitcoin. Then It Tanked.</a> WSJ: El Salvador’s President Went All In on Bitcoin. Then It Tanked. 
  <p class="updated_time"> 01:27 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/india-wheat-export-ban.html">India Bans Most Wheat Exports, Adding to Fears of Global Food Insecurity</a> NYT: The ban could compound a worldwide shortfall worsened by the war in Ukraine and exacerbate an already dire forecast for global hunger. 
+ <p class="updated_time"> 01:24 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 01:17 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/61448479?at_medium=RSS&at_campaign=KARANGA">Rome Open: Iga Swiatek beats Aryna Sabalenka to reach Rome Open final</a> BBC: Iga Swiatek extends her winning run to 27 matches and moves within one victory of a fifth consecutive title by reaching the Italian Open final. 
  <p class="updated_time"> 01:12 PM CT, May. 14 </p> 
@@ -41,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61450694?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin warns Finland joining Nato would be 'mistake'</a> BBC: Finland and Sweden have indicated they want to become Nato members following Russia's war in Ukraine. 
  <p class="updated_time"> 12:50 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/london-train-crossrail.html">In London, a Long-Awaited High-Speed Train Is Ready to Roll</a> NYT: The Elizabeth line, 13 years in the making, will soon uncoil under central London with cathedral-like stations and roomy cars. Its managers say it’s a testament to the power of public transportation. 
- <p class="updated_time"> 12:45 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 12:26 PM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098958972/india-family-lawsuit-children">Parents sue their son and daughter-in-law, demanding a grandchild or $675,000</a> NPR: The court reportedly has accepted their petition and scheduled it for a hearing in Haridwar, India. The couple wants a grandchild within a year. 
  <p class="updated_time"> 12:22 PM CT, May. 14 </p> 
@@ -173,8 +175,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61404083?at_medium=RSS&at_campaign=KARANGA">Afghanistan pupils in fear after spate of Islamic State attacks</a> BBC: A spate of Islamic State attacks have left Afghan students in fear and test Taliban security claims. 
  <p class="updated_time"> 06:07 PM CT, May. 12 </p> 
  <a href="https://www.bbc.co.uk/news/education-61396730?at_medium=RSS&at_campaign=KARANGA">The Ukrainian refugee schoolgirl learning fast in the UK</a> BBC: Ukrainian refugee Marharyta, nine, is learning English as she waits to start school in Manchester. 
- <p class="updated_time"> 06:05 PM CT, May. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61424173?at_medium=RSS&at_campaign=KARANGA">Eurovision 2022: The anthem for Ukraine born in a war zone</a> BBC: The BBC joined Ukraine's Kalush Orchestra as they prepared for the contest amid the rubble of the city of Irpin. 
  <p class="updated_time"> 05:57 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/americas/summit-americas-boycotts.html">Biden’s Summit of the Americas Threatened By Boycotts</a> NYT: Latin American heads of state are threatening to skip the event in Los Angeles, putting at risk the White House’s agenda in a region gripped by upheaval. 
  <p class="updated_time"> 05:31 PM CT, May. 12 </p> 
@@ -209,7 +209,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:04 PM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098969458/bans-off-our-bodies-protesters-discuss-personal-experiences-with-abortion">'Bans Off Our Bodies' protesters discuss personal experiences with abortion</a> NPR: NPR's Michel Martin speaks with two women participating in the Bans Off Our Bodies rallies today: Abigail Sweinhart and Heidi Gordon. 
  <p class="updated_time"> 03:19 PM CT, May. 14 </p> 
- <a href="https://www.politico.com/news/2022/05/14/multiple-people-shot-buffalo-new-york-supermarket-00032550">At least 10 dead in mass shooting at Buffalo supermarket</a> Politico: Authorities are investigating whether the shooting was racially motivated. 
+ <a href="https://www.politico.com/news/2022/05/14/multiple-people-shot-buffalo-new-york-supermarket-00032550">At least 10 dead in mass shooting at Buffalo supermarket</a> Politico: Authorities called the attack in a predominantly Black neighborhood a “hate crime and racially motivated violent extremism." 
  <p class="updated_time"> 03:16 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/us/politics/white-house-lawyers-oversight.html">Gearing Up for G.O.P. Gains, White House Braces for Barrage of Inquiries</a> NYT: The turbulent aftermath of the Trump era is taking the possibility of a divided government to new levels of intensity, as some Republicans appear eager to target President Biden and his family. 
  <p class="updated_time"> 03:12 PM CT, May. 14 </p> 
@@ -224,6 +224,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/14/us/politics/fetterman-pennsylvania-democratic-primary.html">How ‘Just a Dude’ in Shorts Became a Senate Front-Runner</a> NYT: John Fetterman has used his shorts-and-hoodie image to connect with Pennsylvania voters in the Democratic Senate primary. 
  <p class="updated_time"> 11:00 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098509015/as-the-future-of-roe-v-wade-hangs-in-limbo-what-questions-do-you-have-for-expert">As the future of Roe v. Wade hangs in limbo, what questions do you have for experts?</a> NPR: A leaked draft opinion suggests the U.S. Supreme Court is poised to overturn Roe v. Wade. NPR wants to know what questions you may have for experts about abortion access and reproductive rights. 
+ <p class="updated_time"> 10:55 AM CT, May. 14 </p> 
+ <a href="https://www.politico.com/news/2022/05/14/inside-the-forecast-important-primary-night-00032541">Inside the Forecast: Welcome to the year's most important primary night</a> Politico: POLITICO’s Steve Shepard demystifies this week’s election data in a video series. 
  <p class="updated_time"> 10:11 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/us/politics/mitch-mcconnell-ukraine-visit.html">McConnell and Other Republican Senators Make Secret Visit to Ukraine</a> NYT: The visit by the Senate minority leader included a meeting with President Volodymyr Zelensky. 
  <p class="updated_time"> 10:05 AM CT, May. 14 </p> 
@@ -334,8 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/12/mccarthy-jordan-jan-6-subpoena-00032115">Jan. 6 panel subpoenas McCarthy, Jordan, three other GOP lawmakers</a> Politico: The subpoenas target some of former President Donald Trump’s closest allies in the House, demanding testimony by the last week of May. 
  <p class="updated_time"> 12:08 PM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/senate-vote-40b-ukraine-aid-package-00031992">Senate falters in push to pass $40B Ukraine aid</a> Politico: Sen. Rand Paul, who is demanding Congress designate a federal watchdog to track the money, blocked a speedy vote on the massive military and humanitarian aid package. 
- <p class="updated_time"> 09:27 AM CT, May. 12 </p> 
- <a href="https://www.politico.com/news/2022/05/12/psaki-press-secretary-job-00032045">Psaki: Threats to family were ‘most personally difficult’ part of press secretary job</a> Politico: The top White House spokesperson said “there have been cases” when she has shared information with the Secret Service. 
  <p class="updated_time"> 03:30 AM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/conservative-governor-north-carolina-rino-pat-mccrory-00031996">How the ‘most conservative governor in North Carolina history’ became a RINO</a> Politico: The Republican Senate primary is the latest case study of the party's transformation during the Trump era. 
  <p class="updated_time"> 03:30 AM CT, May. 12 </p> 
