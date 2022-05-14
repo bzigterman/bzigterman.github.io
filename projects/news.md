@@ -9,25 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:21 AM CT, May. 14 </p> 
+ <a href="https://www.nytimes.com/2022/05/14/world/asia/north-korea-covid-coronavirus.html">North Korea Says Its Covid Outbreak Is Spreading Fast</a> NYT: State media reported 21 new deaths and a huge jump in suspected cases on Saturday, but it was unclear how many had been definitively linked to the coronavirus. 
  <p class="updated_time"> 02:06 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/sri-lanka-rajapaksa.html">As Sri Lanka Plunges Into Ruin, the Rajapaksa Family Is on the Run</a> NYT: Once empowered by triumphant ethnic nationalism after a brutal civil war, the Rajapaksa dynasty has been undone by what its own allies call incompetence and denial. 
- <p class="updated_time"> 01:16 AM CT, May. 14 </p> 
+ <p class="updated_time"> 01:39 AM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/putin-russia-ukraine-finland-nato-11652386254">How Putin Drove Finland Into NATO’s Arms</a> WSJ: How Putin Drove Finland Into NATO’s Arms 
  <p class="updated_time"> 12:44 AM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61446907?at_medium=RSS&at_campaign=KARANGA">North Korea: Covid outbreak a great disaster, says Kim Jong-un</a> BBC: North Korea's leader blames the outbreak on bureaucratic and medical incompetence. 
+ <p class="updated_time"> 12:39 AM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/new-zealand-prime-minister-ardern-tests-positive-for-covid-19-11652484656">New Zealand Prime Minister Ardern Tests Positive for Covid-19</a> WSJ: New Zealand Prime Minister Ardern Tests Positive for Covid-19 
  <p class="updated_time"> 12:29 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/russia-ukraine-war-news">What Happened on Day 79 of the War in Ukraine</a> NYT: The Russian leader was challenged by the prospect of an enlarged NATO, plans to get Ukrainian grain exports past a Kremlin blockade, and sanctions on his purported mistress. 
- <p class="updated_time"> 12:23 AM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/2022/05/14/world/asia/north-korea-covid-coronavirus.html">North Korea Says Its Covid Outbreak Is Spreading Fast</a> NYT: State media reported 21 new deaths and a huge jump in suspected cases on Saturday, but it was unclear how many had been definitively linked to the coronavirus. 
- <p class="updated_time"> 12:16 AM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/new-zealand-prime-minister-ardern-tests-positive-for-covid-19-11652484656">New Zealand Prime Minister Ardern Tests Positive for Covid-19</a> WSJ: New Zealand Prime Minister Ardern Tests Positive for Covid-19 
- <p class="updated_time"> 11:16 PM CT, May. 13 </p> 
+ <p class="updated_time"> 11:39 PM CT, May. 13 </p> 
  <a href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200">A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents.’</a> WSJ: A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents.’ 
- <p class="updated_time"> 10:16 PM CT, May. 13 </p> 
+ <p class="updated_time"> 10:39 PM CT, May. 13 </p> 
  <a href="https://www.wsj.com/articles/israeli-forces-palestinians-clash-in-west-bank-before-funeral-of-journalist-11652471399">Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist</a> WSJ: Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist 
  <p class="updated_time"> 09:51 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/middleeast/sheikh-khalifa-uae-ruler-is-dead-at-73.html">Sheikh Khalifa, U.A.E. Ruler, Is Dead at 73</a> NYT: Sheikh Khalifa bin Zayed Al Nahyan oversaw vast economic growth and built his country’s partnership with the United States in his 18 years as head of state. 
- <p class="updated_time"> 09:16 PM CT, May. 13 </p> 
+ <p class="updated_time"> 09:39 PM CT, May. 13 </p> 
  <a href="https://www.wsj.com/articles/chinas-covid-lockdowns-drive-middle-class-citizens-to-head-abroad-11652460449">China’s Covid Lockdowns Drive Middle-Class Citizens to Go Abroad</a> WSJ: China’s Covid Lockdowns Drive Middle-Class Citizens to Go Abroad 
  <p class="updated_time"> 09:07 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/eurovision-song-contest-ukraine.html">Amid War, Ukraine Is Favored to Win Eurovision Song Contest</a> NYT: The exclusion of Russia from the contest has underlined the country’s estrangement from the west, including in popular culture. 
@@ -312,10 +312,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/12/gop-launches-operation-stop-barnette-00032303">GOP launches Operation Stop Barnette</a> Politico: Kathy Barnette's late surge has forced the Oz and McCormick campaigns and their allies to scramble in the final days before the Senate primary. 
  <p class="updated_time"> 06:42 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/justice-department-environmental-justice.html">Justice Dept. Tries to Shift Environmental Justice Efforts From Symbolic to Substantive</a> NYT: The agency has announced a series of policies intended to elevate those efforts, including the creation of an office meant to address the “harm caused by environmental crime, pollution and climate change.” 
+ <p class="updated_time"> 06:18 PM CT, May. 12 </p> 
+ <a href="https://www.nytimes.com/2022/05/12/us/politics/house-subpoenas-jan-6.html">Jan. 6 Panel Subpoenas 5 Republicans, Including McCarthy</a> NYT: The leaders of the House committee investigating the Capitol attack demanded testimony from Representative Kevin McCarthy, the minority leader, and four of his colleagues. 
  <p class="updated_time"> 06:16 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/harris-abortion-rights-biden.html">Harris Emerges as the Voice of Abortion Rights in the Biden Administration</a> NYT: The threat to Roe v. Wade presents Vice President Kamala Harris with an opportunity to recover from early political stumbles. 
  <p class="updated_time"> 06:01 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/us/politics/white-house-baby-formula.html">Under Pressure to Act, White House Says It’ll Address Formula Shortage</a> NYT: Senior officials announced minor steps the administration would take to try to increase the supply of formula, even as they conceded that Americans might not see quick relief. 
+ <a href="https://www.nytimes.com/2022/05/12/us/politics/white-house-baby-formula.html">White House, Under Pressure, Says It Will Address Baby Formula Shortage</a> NYT: Senior officials announced minor steps the administration would take to try to increase the supply of formula, even as they conceded that Americans might not see quick relief. 
  <p class="updated_time"> 05:49 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/12/1098529637/white-house-summit-leads-to-big-promises-to-fight-covid-in-needy-countries">White House summit leads to big promises to fight COVID in needy countries</a> NPR: The second Global COVID-19 Summit aimed to refocus the world's attention on the pandemic. Here's what governments and members of the private and public sector pledged to do. 
  <p class="updated_time"> 04:53 PM CT, May. 12 </p> 
