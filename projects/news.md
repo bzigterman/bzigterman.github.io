@@ -9,11 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:32 AM CT, May. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/14/world/russia-ukraine-war-news">Ukraine Live Updates: As Finnish and Swedish Officials Join NATO Meeting, Russia Punishes Finland</a> NYT: Russia once again used energy as a weapon, cutting off electricity exports to Finland, which, along with Sweden, is moving toward joining the military alliance. As the impact of the war spreads, India said it would ban wheat exports as global prices rise. 
  <p class="updated_time"> 06:14 AM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61445600?at_medium=RSS&at_campaign=KARANGA">Delhi office fire: Dozens killed as fire sweeps through building</a> BBC: Most of those inside were women, leaving families frantically searching for news of their fate. 
- <p class="updated_time"> 05:53 AM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/05/14/world/russia-ukraine-war-news">Ukraine Live Updates: As Finnish and Swedish Officials Join NATO Meeting, Russia Punishes Finland</a> NYT: Russia once again used energy as a weapon, cutting off electricity exports to Finland, which, along with Sweden, is moving toward joining the military alliance. As the impact of the war spreads, India said it would ban wheat exports as global prices rise. 
- <p class="updated_time"> 05:22 AM CT, May. 14 </p> 
+ <p class="updated_time"> 05:36 AM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
  <p class="updated_time"> 05:08 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/shireen-abu-akleh-funeral-israel">Israeli Police Attack Mourners at Palestinian Journalist’s Funeral</a> NYT: Video showed police officers in Jerusalem beating and kicking mourners next to the coffin of Shireen Abu Akleh, an Al Jazeera reporter who was killed on Wednesday, forcing one to the ground. 
@@ -27,25 +27,25 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/14/world/asia/afghan-scrap-metal-mines.html">In Afghanistan, Collecting Scrap Metal Is a Risky Pursuit</a> NYT: Discarded metal left by decades of conflict has become a livelihood for impoverished Afghans. But many have been killed by unexploded munitions. 
  <p class="updated_time"> 04:38 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/delhi-fire-india.html">New Delhi Fire Leaves Dozens Dead</a> NYT: Officials said that at least 27 people had been killed, most of them assembly line workers, and that the toll could rise. 
- <p class="updated_time"> 04:22 AM CT, May. 14 </p> 
+ <p class="updated_time"> 04:36 AM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/putin-russia-ukraine-finland-nato-11652386254">How Putin Drove Finland Into NATO’s Arms</a> WSJ: How Putin Drove Finland Into NATO’s Arms 
  <p class="updated_time"> 04:14 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/sweden-finland-nato-putin.html">After 200 Years of Neutrality, Sweden Weighs Joining NATO</a> NYT: Russia’s invasion of Ukraine created new fears, and the Swedes, dragged along by Finland, are expected to apply, reluctantly, to join the alliance and its collective defense. 
  <p class="updated_time"> 04:00 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/germany-russia-oligarchs-bavaria.html">At a German Hideaway, Oligarch Villas Challenge a ‘Silent Contract’</a> NYT: Tegernsee, a luxury getaway in Bavaria, is known for quietly hosting the superrich. But war in Ukraine has divided locals about whether the authorities should go after the assets of their wealthy Russian neighbors. 
+ <p class="updated_time"> 03:36 AM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/new-zealand-prime-minister-ardern-tests-positive-for-covid-19-11652484656">New Zealand Prime Minister Ardern Tests Positive for Covid-19</a> WSJ: New Zealand Prime Minister Ardern Tests Positive for Covid-19 
  <p class="updated_time"> 03:35 AM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61448311?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: UN condemns killing of Al Jazeera reporter</a> BBC: Shireen Abu Aqla was shot dead in disputed circumstances in the occupied West Bank. 
- <p class="updated_time"> 03:22 AM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/new-zealand-prime-minister-ardern-tests-positive-for-covid-19-11652484656">New Zealand Prime Minister Ardern Tests Positive for Covid-19</a> WSJ: New Zealand Prime Minister Ardern Tests Positive for Covid-19 
  <p class="updated_time"> 03:20 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/putin-family-wealth-sanctions.html">Sanctions Shed Light on Putin’s Private Life</a> NYT: As Western nations place sanctions on people close to the Russian leader, including family members, the strict secrecy surrounding his private life is being punctured. 
  <p class="updated_time"> 02:45 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/australia/an-american-moment-in-an-australian-campaign.html">An American Moment in an Australian Campaign</a> NYT: To some analysts, a spat over transition surgery looks like something from an overseas culture war. 
- <p class="updated_time"> 02:22 AM CT, May. 14 </p> 
+ <p class="updated_time"> 02:36 AM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200">A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents’</a> WSJ: A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents’ 
  <p class="updated_time"> 02:06 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/sri-lanka-rajapaksa.html">As Sri Lanka Plunges Into Ruin, the Rajapaksa Family Is on the Run</a> NYT: Once empowered by triumphant ethnic nationalism after a brutal civil war, the Rajapaksa dynasty has been undone by what its own allies call incompetence and denial. 
- <p class="updated_time"> 01:22 AM CT, May. 14 </p> 
+ <p class="updated_time"> 01:36 AM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/israeli-forces-palestinians-clash-in-west-bank-before-funeral-of-journalist-11652471399">Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist</a> WSJ: Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist 
  <p class="updated_time"> 12:44 AM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61446907?at_medium=RSS&at_campaign=KARANGA">North Korea: Covid outbreak a great disaster, says Kim Jong-un</a> BBC: North Korea's leader blames the outbreak on bureaucratic and medical incompetence. 
@@ -208,6 +208,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:00 AM CT, May. 14 </p> 
+ <a href="https://www.politico.com/news/2022/05/14/kathy-barnette-pennsylvania-gop-primary-00032367">Barnette tests GOP's hands-off primary strategy</a> Politico: Senate Republicans have a problem, illustrated by the Pennsylvania Senate race: continue a lackluster record of hand picking candidates, or do nothing? 
+ <p class="updated_time"> 06:00 AM CT, May. 14 </p> 
+ <a href="https://www.politico.com/news/2022/05/14/progressives-midterm-elections-primaries-00032510">Progressives defend against super PAC ambush</a> Politico: For the Democratic Party’s left flank, this month’s primaries represent a potential pivot point, after a series of losses. 
  <p class="updated_time"> 04:00 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098800437/religion-role-politics">The draft Roe ruling is a reminder that religion's role is older than the Republic</a> NPR: The question arises: Since when did so much of our politics have to do with religion? And the answer is, since the beginning — and even before. 
  <p class="updated_time"> 04:00 AM CT, May. 14 </p> 
@@ -246,8 +250,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/13/emilys-list-goes-on-air-for-cisneros-00032478">EMILY's List goes on air against Cuellar in Texas primary battle</a> Politico: Cuellar's Democratic primary against Jessica Cisneros is a flashpoint in the battle over abortion policy. 
  <p class="updated_time"> 02:55 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098859684/turkeys-president-opposes-finland-sweden-join-nato">Turkey's president opposes letting Finland, Sweden join NATO</a> NPR: "We are following developments concerning Sweden and Finland, but we are not of a favorable opinion," Erdogan told reporters. 
- <p class="updated_time"> 02:53 PM CT, May. 13 </p> 
- <a href="https://www.politico.com/news/2022/05/13/unconscionable-pelosi-vows-action-on-infant-formula-shortages-00032459">Infant formula shortage suddenly Topic A in Washington</a> Politico: The problem has been brewing for months, but politicians in both parties have recently seized on the issue, as the White House scrambles to ease the crunch. 
  <p class="updated_time"> 02:48 PM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/13/jan-6-subpoenas-gop-lawmakers-00032479">Veil of secrecy surrounds the Jan. 6 subpoenas for GOP lawmakers</a> Politico: Outside of internal ethics probes, there is no modern precedent for a congressional committee subpoenaing members of the House. 
  <p class="updated_time"> 02:32 PM CT, May. 13 </p> 
@@ -260,12 +262,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/us/elections/kathy-barnette-pennsylvania-senate.html">Kathy Barnette’s Star Rises in Pennsylvania Senate Race</a> NYT: Donald Trump says she can’t win in November, but Kathy Barnette is pressing toward Tuesday’s voting. “They’re coming out with long knives at this point,” she said. 
  <p class="updated_time"> 12:30 PM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/13/biden-taylor-agricultural-trade-role-00032399">Biden poised to fill long vacant agricultural trade role</a> Politico: The Agriculture undersecretary will play a key role in the administration's efforts to address a mounting global food crisis. 
- <p class="updated_time"> 12:27 PM CT, May. 13 </p> 
- <a href="https://www.politico.com/news/2022/05/13/trump-suit-new-york-attorney-general-00032427">Trump attorney faces sharp questions in suit targeting New York AG's probe</a> Politico: The suit Trump filed last December is considered a longshot because federal judges almost never step in to halt state court proceedings or investigations conducted by state or local officials. 
  <p class="updated_time"> 11:48 AM CT, May. 13 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 11:36 AM CT, May. 13 </p> 
- <a href="https://www.politico.com/news/2022/05/13/rising-gasoline-prices-biden-natural-gas-00031424">Biden's battling one energy price nightmare. Here comes another.</a> Politico: Natural gas prices have tripled since January, adding more fuel to the inflation plaguing the White House's popularity. 
  <p class="updated_time"> 11:32 AM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/13/zinkes-wife-primary-residence-california-montana-00032405">Zinke’s wife declaring primary residence in California as he runs in Montana</a> Politico: The former Interior secretary and current congressional candidate has faced questions about where he lives. 
  <p class="updated_time"> 11:17 AM CT, May. 13 </p> 
@@ -301,17 +299,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/13/steve-schmidt-john-mccain-presidential-campaign-00032268">‘He absolutely betrayed me’: Steve Schmidt tells all about John McCain</a> Politico: In an unsparing interview, the 2008 McCain senior campaign adviser revisits the legacy of his onetime hero. 
  <p class="updated_time"> 03:30 AM CT, May. 13 </p> 
- <a href="https://www.politico.com/news/2022/05/13/crypto-braces-for-washington-scrutiny-amid-meltdown-00032162">Crypto reckoning looms in Washington as investors lose billions</a> Politico: Industry leaders fear that the latest blow-up will provide ample fodder for powerful skeptics 
- <p class="updated_time"> 03:30 AM CT, May. 13 </p> 
- <a href="https://www.politico.com/news/2022/05/13/why-the-jan-6-panel-bet-its-legal-hand-against-the-house-gop-00032228">Why the Jan. 6 panel bet its legal hand against the House GOP</a> Politico: There's no guarantee the subpoena of five GOP lawmakers will give the committee more information on former President Donald Trump's attempt to subvert the 2020 election. They're barreling ahead anyway. 
- <p class="updated_time"> 03:30 AM CT, May. 13 </p> 
- <a href="https://www.politico.com/news/2022/05/13/elon-musk-trump-twitter-account-00032212">Elon Musk could soon have a Trump-sized headache</a> Politico: If Musk’s offer to buy Twitter succeeds, he’ll inherit the content moderation challenges that come with a potential return of the rule-breaking former president. 
- <p class="updated_time"> 03:30 AM CT, May. 13 </p> 
- <a href="https://www.politico.com/news/2022/05/13/white-house-vaccines-covid-funding-impasse-00032319">White House prepares to ration vaccines as Covid funding impasse looms</a> Politico: The government’s funds are running out. Tough decisions may soon present themselves. 
- <p class="updated_time"> 03:30 AM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/12/bidens-income-cap-student-loan-forgiveness-nightmare-implement-00031746">Harder than it sounds: Income-targeted student loan forgiveness invites a ‘train wreck’</a> Politico: Education Department officials have warned the White House they lack income data for many student loan borrowers. 
  <p class="updated_time"> 03:30 AM CT, May. 13 </p> 
  <a href="https://www.politico.com/gallery/2022/05/13/the-nations-cartoonists-on-the-week-in-politics-00032231">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
+ <p class="updated_time"> 03:30 AM CT, May. 13 </p> 
+ <a href="https://www.politico.com/news/2022/05/13/why-the-jan-6-panel-bet-its-legal-hand-against-the-house-gop-00032228">Why the Jan. 6 panel bet its legal hand against the House GOP</a> Politico: There's no guarantee the subpoena of five GOP lawmakers will give the committee more information on former President Donald Trump's attempt to subvert the 2020 election. They're barreling ahead anyway. 
  <p class="updated_time"> 09:12 PM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/john-eastman-trump-emails-00032323">Judge begins reviewing final disputed batch of Eastman emails</a> Politico: John Eastman, the architect of then-President Donald Trump’s last-ditch strategy to overturn the 2020 election, has claimed attorney-client privilege over thousands of exchanges. 
  <p class="updated_time"> 09:01 PM CT, May. 12 </p> 
@@ -328,6 +320,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/12/dems-need-november-turnaround-save-roe-00032209">Dems face facts: They need a November turnaround to save Roe</a> Politico: The party isn't done voting on abortion rights this year. But its members admit, with striking candor, that they can't pass anything without bigger majorities. 
  <p class="updated_time"> 04:35 PM CT, May. 12 </p> 
  <a href="https://www.cnn.com/2022/05/12/politics/biden-infant-formula-meeting/index.html">White House struggles for answers on infant formula shortage</a> CNN: The White House is struggling to answer questions about a baby formula shortage in the United States as the scope of the crisis becomes clearer and store shelves remain bare. 
+ <p class="updated_time"> 03:44 PM CT, May. 12 </p> 
+ <a href="https://www.politico.com/news/2022/05/12/white-house-infant-formula-shortage-00032205">White House announces steps to combat infant formula shortage</a> Politico: The shortage is in part fueled by the February shutdown of an Abbott Nutrition infant formula plant in Michigan although supplies have been relatively short since last summer. 
  <p class="updated_time"> 01:32 PM CT, May. 12 </p> 
  <a href="https://www.cnn.com/2022/05/12/politics/anti-abortion-groups-letter-criminalizing-women/index.html">Leading anti-abortion groups urge state lawmakers not to pass bills criminalizing women for abortions</a> CNN: Some of the largest anti-abortion organizations in the US are urging state lawmakers to reject legislation that would criminalize women for having abortions, saying "turning women who have abortions into criminals is not the way." 
  <p class="updated_time"> 01:00 PM CT, May. 12 </p> 
@@ -336,12 +330,20 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/12/mccarthy-jordan-jan-6-subpoena-00032115">Jan. 6 panel subpoenas McCarthy, Jordan, three other GOP lawmakers</a> Politico: The subpoenas target some of former President Donald Trump’s closest allies in the House, demanding testimony by the last week of May. 
  <p class="updated_time"> 12:08 PM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/senate-vote-40b-ukraine-aid-package-00031992">Senate falters in push to pass $40B Ukraine aid</a> Politico: Sen. Rand Paul, who is demanding Congress designate a federal watchdog to track the money, blocked a speedy vote on the massive military and humanitarian aid package. 
+ <p class="updated_time"> 11:49 AM CT, May. 12 </p> 
+ <a href="https://www.politico.com/news/2022/05/12/russia-nazis-mikhail-kavun-00031165">The cruel irony of being arrested in Putin’s Russia</a> Politico: The case of Mikhail Kavun shows the paranoia of the Kremlin’s wartime propaganda — and the very real threat to Jews under Moscow’s regime. 
+ <p class="updated_time"> 09:27 AM CT, May. 12 </p> 
+ <a href="https://www.politico.com/news/2022/05/12/psaki-press-secretary-job-00032045">Psaki: Threats to family were ‘most personally difficult’ part of press secretary job</a> Politico: The top White House spokesperson said “there have been cases” when she has shared information with the Secret Service. 
  <p class="updated_time"> 03:30 AM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/conservative-governor-north-carolina-rino-pat-mccrory-00031996">How the ‘most conservative governor in North Carolina history’ became a RINO</a> Politico: The Republican Senate primary is the latest case study of the party's transformation during the Trump era. 
  <p class="updated_time"> 03:30 AM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/senate-democrats-imaginary-majority-00031880">Senate Democrats’ imaginary majority</a> Politico: From abortion to Ukraine aid to immigration, the caucus is confronting its “tenuous” control over the chamber. 
  <p class="updated_time"> 01:05 PM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/staffer-resigned-over-trump-family-separation-report-00031776">Justice watchdog staffer resigned amid leak probe over Trump family separation report</a> Politico: DOJ Inspector General ordered investigation into who disclosed report about border policy. 
+ <p class="updated_time"> 01:00 PM CT, May. 11 </p> 
+ <a href="https://www.politico.com/news/2022/05/11/ukraine-russian-blockade-global-food-supplies-00031760">Urgency mounts for U.S. answer to Russian blockade</a> Politico: Officials say they have a narrow window to try to help Ukraine resume operations at the strategic port city of Odesa, a move that could threaten retaliation from Russia. 
+ <p class="updated_time"> 12:48 PM CT, May. 11 </p> 
+ <a href="https://www.politico.com/news/2022/05/11/biden-working-class-unions-00031759">Biden's personal recovery plan: Pump up unions, squeeze Big Business</a> Politico: The president is hoping his political fate — and the Democrats’ standing among the white working class — can be saved by lifting up organized labor. 
  <p class="updated_time"> 11:08 AM CT, May. 11 </p> 
  <a href="https://www.politico.com/news/2022/05/11/senate-doomed-vote-roe-abortion-rights-00031732">Senate fails to pass abortion rights bill — again</a> Politico: The largely symbolic vote to codify abortion protections didn't even garner a simple Senate majority, falling on the same lines a previous bill did in February. 
 
