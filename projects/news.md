@@ -9,36 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:33 PM CT, May. 13 </p> 
+ <p class="updated_time"> 11:03 PM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/putin-russia-ukraine-finland-nato-11652386254">How Putin Drove Finland Into NATO’s Arms</a> WSJ: How Putin Drove Finland Into NATO’s Arms 
+ <p class="updated_time"> 10:39 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/russia-ukraine-war-news">Ukraine Live Updates: West Raises Pressure on Putin, Including Sanctions on Reputed Girlfriend</a> NYT: The Russian leader was challenged by the prospect of an enlarged NATO, plans to get Ukrainian grain exports past a Kremlin blockade, and sanctions on his purported mistress. 
+ <p class="updated_time"> 10:03 PM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/new-zealand-prime-minister-ardern-tests-positive-for-covid-19-11652484656">New Zealand Prime Minister Ardern Tests Positive for Covid-19</a> WSJ: New Zealand Prime Minister Ardern Tests Positive for Covid-19 
  <p class="updated_time"> 09:51 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/middleeast/sheikh-khalifa-uae-ruler-is-dead-at-73.html">Sheikh Khalifa, U.A.E. Ruler, Is Dead at 73</a> NYT: Sheikh Khalifa bin Zayed Al Nahyan oversaw vast economic growth and built his country’s partnership with the United States in his 18 years as head of state. 
- <p class="updated_time"> 09:37 PM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/putin-russia-ukraine-finland-nato-11652386254">How Putin Drove Finland Into NATO’s Arms</a> WSJ: How Putin Drove Finland Into NATO’s Arms 
  <p class="updated_time"> 09:07 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/eurovision-song-contest-ukraine.html">Amid War, Ukraine Is Favored to Win Eurovision Song Contest</a> NYT: The exclusion of Russia from the contest has underlined the country’s estrangement from the west, including in popular culture. 
+ <p class="updated_time"> 09:03 PM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200">A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents.’</a> WSJ: A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents.’ 
  <p class="updated_time"> 08:58 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/asia/south-korea-tattoo-artists.html">Tattoos, Still Illegal in South Korea, Thrive Underground</a> NYT: Tattoo artists, long treated as criminals for their work, say that it is time to end the stigma against their business. 
  <p class="updated_time"> 08:44 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/shireen-abu-akleh-funeral-israel">Israeli Police Attack Mourners at Palestinian Journalist’s Funeral</a> NYT: Video showed police officers in Jerusalem beating and kicking mourners next to the coffin of Shireen Abu Akleh, an Al Jazeera reporter who was killed on Wednesday, forcing one to the ground. 
- <p class="updated_time"> 08:37 PM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/new-zealand-prime-minister-ardern-tests-positive-for-covid-19-11652484656">New Zealand Prime Minister Ardern Tests Positive for Covid-19</a> WSJ: New Zealand Prime Minister Ardern Tests Positive for Covid-19 
+ <p class="updated_time"> 08:03 PM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/israeli-forces-palestinians-clash-in-west-bank-before-funeral-of-journalist-11652471399">Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist</a> WSJ: Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist 
  <p class="updated_time"> 07:48 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/putin-sanctions-girlfriend-us-russia.html">West Increases Pressure on Putin, Including Sanctions on Reputed Girlfriend</a> NYT: The Russian leader was challenged by the prospect of an enlarged NATO, plans to get Ukrainian grain exports past a Kremlin blockade, and sanctions on his purported mistress. 
- <p class="updated_time"> 07:37 PM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/i-cannot-imagine-my-life-without-parents-a-boys-war-diary-tells-of-grief-in-ukraine-11652434200">A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents.’</a> WSJ: A Boy’s War Diary Tells of Grief in Ukraine: ‘I Cannot Imagine My Life Without Parents.’ 
  <p class="updated_time"> 07:32 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/jacinda-ardern-covid-positive.html">New Zealand’s Jacinda Ardern Tests Positive for Coronavirus</a> NYT: The prime minister’s rules kept transmission at bay for two years, and by the time the highly infectious Omicron variant hit, the vast majority of New Zealand’s population had been vaccinated. 
  <p class="updated_time"> 07:24 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/iran-protests-food-prices.html">Protests Triggered by Rising Food Prices Spread in Iran</a> NYT: “They have no hope, they have no trust in the government and they can’t tolerate the status quo any more,” one Iran expert said of the protesters in at least six provinces. 
  <p class="updated_time"> 07:06 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098810226/eurovision-ukraine-kalush-orchestra">Ukraine's Eurovision act wants to bring home some good news</a> NPR: Kalush Orchestra's Oleh Psiuk tells NPR that representing Ukraine on the world stage is a huge responsibility. He hopes people will continue to support his country even after Eurovision ends. 
+ <p class="updated_time"> 07:03 PM CT, May. 13 </p> 
+ <a href="https://www.wsj.com/articles/chinas-covid-lockdowns-drive-middle-class-citizens-to-head-abroad-11652460449">China’s Covid Lockdowns Drive Middle-Class Citizens to Go Abroad</a> WSJ: China’s Covid Lockdowns Drive Middle-Class Citizens to Go Abroad 
  <p class="updated_time"> 06:43 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/middleeast/shireen-abu-akleh-funeral.html">Israeli Police Attack Mourners Before Funeral for Shireen Abu Akleh</a> NYT: As hundreds gathered to witness the start of Shireen Abu Akleh’s funeral procession, riot police assaulted the people carrying her coffin. 
- <p class="updated_time"> 06:37 PM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/israeli-forces-palestinians-clash-in-west-bank-before-funeral-of-journalist-11652471399">Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist</a> WSJ: Israeli Forces, Palestinians Clash in West Bank Before Funeral of Journalist 
- <p class="updated_time"> 05:37 PM CT, May. 13 </p> 
- <a href="https://www.wsj.com/articles/chinas-covid-lockdowns-drive-middle-class-citizens-to-head-abroad-11652460449">China’s Covid Lockdowns Drive Middle-Class Citizens to Go Abroad</a> WSJ: China’s Covid Lockdowns Drive Middle-Class Citizens to Go Abroad 
  <p class="updated_time"> 04:50 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/putin-family-wealth-sanctions.html">Sanctions Shed Light on Putin’s Private Life</a> NYT: As Western nations place sanctions on people close to the Russian leader, including family members, the strict secrecy surrounding his private life is being punctured. 
  <p class="updated_time"> 04:30 PM CT, May. 13 </p> 
@@ -133,8 +133,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/us/biden-covid-deaths-flags-half-staff.html">Biden Orders Federal Flags to Fly at Half-Staff as U.S. Covid Toll Nears One Million</a> NYT: The president said in a formal statement that the United States must ‘remain vigilant’ against a virus that has ‘forever changed’ the country. 
  <p class="updated_time"> 02:10 AM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098734688/biden-looks-to-nudge-asean-russia">Biden looks to nudge ASEAN leaders to speak out on Russia</a> NPR: Despite Washington's focus on the war in Ukraine, the White House is trying to demonstrate that it is stepping up in the Asia-Pacific. 
- <p class="updated_time"> 12:33 AM CT, May. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61432084?at_medium=RSS&at_campaign=KARANGA">North Korea announces first death from Covid-19</a> BBC: A day after confirming its first cases, state media reports thousands are suffering fever symptoms. 
  <p class="updated_time"> 12:09 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/rand-paul-ukraine-aid.html">Rand Paul Delays $40 Billion in Aid for Ukraine</a> NYT: Mr. Paul had sought to alter the bill to include requiring that an inspector general monitor the spending. 
  <p class="updated_time"> 09:59 PM CT, May. 12 </p> 
@@ -320,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/us/politics/white-house-baby-formula.html">White House, Under Pressure, Says It Will Address Baby Formula Shortage</a> NYT: Senior officials announced minor steps the administration would take to try to increase the supply of formula, even as they conceded that Americans might not see quick relief. 
  <p class="updated_time"> 05:49 PM CT, May. 12 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/12/1098529637/white-house-summit-leads-to-big-promises-to-fight-covid-in-needy-countries">White House summit leads to big promises to fight COVID in needy countries</a> NPR: The second Global COVID-19 Summit aimed to refocus the world's attention on the pandemic. Here's what governments and members of the private and public sector pledged to do. 
- <p class="updated_time"> 05:12 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/us/politics/meatpackers-trump-covid.html">Meatpackers Misled Public and Influenced Trump Administration During Covid, Report Says</a> NYT: A congressional report claimed that meatpacking companies issued “baseless” warnings about food shortages and influenced government decisions to keep plants open early in the pandemic. 
  <p class="updated_time"> 04:53 PM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/dems-need-november-turnaround-save-roe-00032209">Dems face facts: They need a November turnaround to save Roe</a> Politico: The party isn't done voting on abortion rights this year. But its members admit, with striking candor, that they can't pass anything without bigger majorities. 
  <p class="updated_time"> 04:35 PM CT, May. 12 </p> 
