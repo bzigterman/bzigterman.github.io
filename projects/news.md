@@ -9,46 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:41 PM CT, May. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/14/world/russia-ukraine-war-news">Live Updates: Ukraine Pushes Russia Back From Kharkiv as U.S. Senators Visit Kyiv</a> NYT: Ukrainian troops made gains around Kharkiv and launched a counteroffensive around the Russian-held town of Izium. Republican senators made the pilgrimage to Kyiv to visit President Volodymyr Zelensky. 
+ <p class="updated_time"> 01:50 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
+ <p class="updated_time"> 01:27 PM CT, May. 14 </p> 
+ <a href="https://www.nytimes.com/2022/05/14/world/asia/india-wheat-export-ban.html">India Bans Most Wheat Exports, Adding to Fears of Global Food Insecurity</a> NYT: The ban could compound a worldwide shortfall worsened by the war in Ukraine and exacerbate an already dire forecast for global hunger. 
  <p class="updated_time"> 01:17 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/61448479?at_medium=RSS&at_campaign=KARANGA">Rome Open: Iga Swiatek beats Aryna Sabalenka to reach Rome Open final</a> BBC: Iga Swiatek extends her winning run to 27 matches and moves within one victory of a fifth consecutive title by reaching the Italian Open final. 
- <p class="updated_time"> 01:15 PM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/05/14/world/russia-ukraine-war-news">Live Updates: Ukraine Pushes Russia Back From Kharkiv as U.S. Senators Visit Kyiv</a> NYT: Ukrainian troops made gains around Kharkiv and launched a counteroffensive around the Russian-held town of Izium. Republican senators made the pilgrimage to Kyiv to visit President Volodymyr Zelensky. 
  <p class="updated_time"> 01:12 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/canada/conservatives-rallies-poilievre.html">From Streets to Rallies, Truckers and Supporters Weigh Conservative Candidates</a> NYT: In his bid for the Conservative Party leadership Pierre Poilievre is wooing supporters of the blockade that shut down Ottawa and closed border points. 
  <p class="updated_time"> 01:10 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61450694?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin warns Finland joining Nato would be 'mistake'</a> BBC: Finland and Sweden have indicated they want to become Nato members following Russia's war in Ukraine. 
  <p class="updated_time"> 12:50 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/london-train-crossrail.html">In London, a Long-Awaited High-Speed Train Is Ready to Roll</a> NYT: The Elizabeth line, 13 years in the making, will soon uncoil under central London with cathedral-like stations and roomy cars. Its managers say it’s a testament to the power of public transportation. 
+ <p class="updated_time"> 12:50 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
  <p class="updated_time"> 12:37 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/ukraine-putin-nato.html">For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. 
- <p class="updated_time"> 12:31 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 12:26 PM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098958972/india-family-lawsuit-children">Parents sue their son and daughter-in-law, demanding a grandchild or $675,000</a> NPR: The court reportedly has accepted their petition and scheduled it for a hearing in Haridwar, India. The couple wants a grandchild within a year. 
  <p class="updated_time"> 12:22 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/arts/music/minority-languages-song-contest.html">As Eyes Are on Eurovision, Europe Has Another Song Contest</a> NYT: The Liet International, a competition for minority and regional languages, lacks the glitz of Eurovision. But its organizers say it helps keep endangered tongues alive. 
  <p class="updated_time"> 11:55 AM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61450255?at_medium=RSS&at_campaign=KARANGA">Covid: What will the pandemic look like in North Korea?</a> BBC: North Korea has for the first time admitted it has Covid and is uniquely vulnerable to the virus. 
+ <p class="updated_time"> 11:50 AM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400">El Salvador’s President Went All In on Bitcoin. Then It Tanked.</a> WSJ: El Salvador’s President Went All In on Bitcoin. Then It Tanked. 
  <p class="updated_time"> 11:39 AM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61450976?at_medium=RSS&at_campaign=KARANGA">Nigeria student killing: Round-the-clock curfew in Sokoto after protests</a> BBC: Demonstrators have been demanding the release of two suspects held over the murder of a Christian student. 
- <p class="updated_time"> 11:31 AM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
- <p class="updated_time"> 10:31 AM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400">El Salvador’s President Went All In on Bitcoin. Then It Tanked.</a> WSJ: El Salvador’s President Went All In on Bitcoin. Then It Tanked. 
+ <p class="updated_time"> 10:50 AM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 10:28 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/eurovision-song-contest-ukraine.html">Amid War, Ukraine Is Favored to Win Eurovision Song Contest</a> NYT: The exclusion of Russia from the contest has underlined the country’s estrangement from the west, including in popular culture. 
  <p class="updated_time"> 10:05 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098948488/ukraine-mcconnell-zelenskyy-senate-delegation">McConnell heads to Kyiv and becomes the latest U.S. official to meet with Zelenskyy</a> NPR: Ukrainian President Volodymyr Zelenskyy called the visit a signal of bipartisan support from the U.S. Congress. The meeting took place as Ukraine said it had forced Russian troops away from Kharkiv. 
+ <p class="updated_time"> 09:50 AM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/yellen-seeks-to-win-european-support-for-a-tax-deal-congress-hasnt-approved-11652536800">Yellen Seeks to Win European Support for a Tax Deal Congress Hasn’t Approved</a> WSJ: Yellen Seeks to Win European Support for a Tax Deal Congress Hasn’t Approved 
  <p class="updated_time"> 09:46 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/shireen-abu-akleh-funeral-israel">Israeli Police Attack Mourners at Palestinian Journalist’s Funeral</a> NYT: Video showed police officers in Jerusalem beating and kicking mourners next to the coffin of Shireen Abu Akleh, an Al Jazeera reporter who was killed on Wednesday, forcing one to the ground. 
- <p class="updated_time"> 09:31 AM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 09:08 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/middleeast/mohammed-bin-zayed-elected-uae-leader.html">Mohammed Bin Zayed Becomes U.A.E. President</a> NYT: Sheikh Mohammed has used his small country’s oil wealth to exert great influence across the Middle East and in Washington. 
  <p class="updated_time"> 08:34 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098942947/lebanese-candidates-push-for-change-in-a-corrupt-electoral-system">Lebanese candidates push for change in a corrupt electoral system</a> NPR: Lebanese elections this weekend are taking place under a system designed to keep the same parties in power in the parliament. But a few candidates hope they can send a message about change. 
- <p class="updated_time"> 08:31 AM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/yellen-seeks-to-win-european-support-for-a-tax-deal-congress-hasnt-approved-11652536800">Yellen Seeks to Win European Support for a Tax Deal Congress Hasn’t Approved</a> WSJ: Yellen Seeks to Win European Support for a Tax Deal Congress Hasn’t Approved 
  <p class="updated_time"> 08:17 AM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61445600?at_medium=RSS&at_campaign=KARANGA">Delhi office fire: Dozens killed as fire sweeps through building</a> BBC: Most of those inside were women, leaving families frantically searching for news of their fate. 
  <p class="updated_time"> 08:10 AM CT, May. 14 </p> 
@@ -61,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61450144?at_medium=RSS&at_campaign=KARANGA">Custom-made brace helps heal baby giraffe</a> BBC: Vets in San Diego, California, came up with a creative solution to treat a young calf's limb disorder. 
  <p class="updated_time"> 06:37 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098939668/russian-troops-withdraw-from-kharkiv-ukraine">Ukraine says Russian troops are withdrawing from Kharkiv</a> NPR: Russian forces are pulling back from Ukraine's second-largest city after weeks of heavy bombardment, the Ukrainian military says, as a battle for the country's eastern industrial heartland continues. 
- <p class="updated_time"> 06:35 AM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/2022/05/14/world/asia/india-wheat-export-ban.html">India Bans Most Wheat Exports, Adding to Fears of Global Food Insecurity</a> NYT: The ban could compound a worldwide shortfall worsened by the war in Ukraine and exacerbate an already dire forecast for global hunger. 
  <p class="updated_time"> 05:00 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/north-korea-covid-outbreak.html">North Korea Says Its Covid Outbreak Is Spreading Fast</a> NYT: State media reported 21 new deaths and a huge jump in suspected cases on Saturday, but it was unclear how many had been definitively linked to the coronavirus. 
  <p class="updated_time"> 04:38 AM CT, May. 14 </p> 
@@ -208,6 +208,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:38 PM CT, May. 14 </p> 
+ <a href="https://www.nytimes.com/2022/05/14/us/abortion-rights-march.html">Thousands Gather at Marches for Abortion Rights</a> NYT: Nearly two weeks after the leak of a draft Supreme Court opinion overturning Roe v. Wade, protesters gathered in Washington, New York and elsewhere to vocalize their support for abortion rights. 
+ <p class="updated_time"> 02:32 PM CT, May. 14 </p> 
+ <a href="https://www.nytimes.com/2022/05/14/us/politics/white-house-lawyers-oversight.html">Gearing Up for G.O.P. Gains, White House Braces for Barrage of Inquiries</a> NYT: The turbulent aftermath of the Trump era is taking the possibility of a divided government to new levels of intensity, as some Republicans appear eager to target President Biden and his family. 
+ <p class="updated_time"> 02:07 PM CT, May. 14 </p> 
+ <a href="https://www.politico.com/news/2022/05/14/abortion-rights-rally-roe-00032544">Abortion rights backers rally across U.S. over post-Roe future</a> Politico: Activists rallied to express their outrage and mobilize for the future as Republican-led states are poised to enact tighter restrictions. 
  <p class="updated_time"> 12:19 PM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098952510/abortion-roe-v-wade-reproductive-rights-rally-bans-off-our-bodies">Reproductive rights supporters rally across the country</a> NPR: Thousands of reproductive rights supporters are gathering Saturday at rallies across the country in protest of the leaked Supreme Court draft opinion that would overturn Roe v. Wade. 
  <p class="updated_time"> 11:58 AM CT, May. 14 </p> 
@@ -220,8 +226,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/14/us/politics/mitch-mcconnell-ukraine-visit.html">McConnell and Other Republican Senators Make Secret Visit to Ukraine</a> NYT: The visit by the Senate minority leader included a meeting with President Volodymyr Zelensky. 
  <p class="updated_time"> 10:05 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098948488/ukraine-mcconnell-zelenskyy-senate-delegation">McConnell heads to Kyiv and becomes the latest U.S. official to meet with Zelenskyy</a> NPR: Ukrainian President Volodymyr Zelenskyy called the visit a signal of bipartisan support from the U.S. Congress. The meeting took place as Ukraine said it had forced Russian troops away from Kharkiv. 
- <p class="updated_time"> 09:06 AM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/2022/05/14/us/politics/white-house-lawyers-oversight.html">Gearing Up for G.O.P. Gains, White House Braces for Barrage of Inquiries</a> NYT: The turbulent aftermath of the Trump era is taking the possibility of a divided government to new levels of intensity, as some Republicans appear eager to target President Biden and his family. 
  <p class="updated_time"> 08:57 AM CT, May. 14 </p> 
  <a href="https://www.politico.com/news/2022/05/14/trump-endorses-mastriano-pennsylvania-governor-00032538">Trump endorses Mastriano for Pennsylvania governor</a> Politico: “There is no one in Pennsylvania who has done more, or fought harder, for Election Integrity than State Senator Doug Mastriano,” Trump wrote in a statement. 
  <p class="updated_time"> 08:27 AM CT, May. 14 </p> 
@@ -320,14 +324,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/12/john-eastman-trump-emails-00032323">Judge begins reviewing final disputed batch of Eastman emails</a> Politico: John Eastman, the architect of then-President Donald Trump’s last-ditch strategy to overturn the 2020 election, has claimed attorney-client privilege over thousands of exchanges. 
  <p class="updated_time"> 08:11 PM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/gop-launches-operation-stop-barnette-00032303">GOP launches Operation Stop Barnette</a> Politico: Kathy Barnette's late surge has forced the Oz and McCormick campaigns and their allies to scramble in the final days before the Senate primary. 
- <p class="updated_time"> 06:16 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/us/politics/harris-abortion-rights-biden.html">Harris Emerges as the Voice of Abortion Rights in the Biden Administration</a> NYT: The threat to Roe v. Wade presents Vice President Kamala Harris with an opportunity to recover from early political stumbles. 
  <p class="updated_time"> 04:53 PM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/dems-need-november-turnaround-save-roe-00032209">Dems face facts: They need a November turnaround to save Roe</a> Politico: The party isn't done voting on abortion rights this year. But its members admit, with striking candor, that they can't pass anything without bigger majorities. 
  <p class="updated_time"> 04:35 PM CT, May. 12 </p> 
  <a href="https://www.cnn.com/2022/05/12/politics/biden-infant-formula-meeting/index.html">White House struggles for answers on infant formula shortage</a> CNN: The White House is struggling to answer questions about a baby formula shortage in the United States as the scope of the crisis becomes clearer and store shelves remain bare. 
- <p class="updated_time"> 03:44 PM CT, May. 12 </p> 
- <a href="https://www.politico.com/news/2022/05/12/white-house-infant-formula-shortage-00032205">White House announces steps to combat infant formula shortage</a> Politico: The shortage is in part fueled by the February shutdown of an Abbott Nutrition infant formula plant in Michigan although supplies have been relatively short since last summer. 
  <p class="updated_time"> 01:32 PM CT, May. 12 </p> 
  <a href="https://www.cnn.com/2022/05/12/politics/anti-abortion-groups-letter-criminalizing-women/index.html">Leading anti-abortion groups urge state lawmakers not to pass bills criminalizing women for abortions</a> CNN: Some of the largest anti-abortion organizations in the US are urging state lawmakers to reject legislation that would criminalize women for having abortions, saying "turning women who have abortions into criminals is not the way." 
  <p class="updated_time"> 01:00 PM CT, May. 12 </p> 
