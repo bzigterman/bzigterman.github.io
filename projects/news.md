@@ -9,46 +9,50 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:51 AM CT, May. 15 </p> 
+ <p class="updated_time"> 07:28 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: As Russia Faces Setbacks in Ukraine, Finland Confirms It Will Seek NATO Membership</a> NYT: The Nordic nation said on Sunday that it would apply for membership to the alliance, and Sweden’s governing party was expected to make a similar move later in the day. 
+ <p class="updated_time"> 06:58 AM CT, May. 15 </p> 
+ <a href="https://www.npr.org/2022/05/15/1099004654/volunteers-in-ukraine-risk-their-lives-to-distribute-supplies-under-constant-she">Volunteers in Ukraine risk their lives to distribute supplies under constant shelling</a> NPR: In some Eastern Ukraine cities, volunteers risk their lives to deliver food and medicine to those afraid to leave their homes because of constant shelling. 
+ <p class="updated_time"> 06:47 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/world/europe/finland-nato.html">Finland Launches Bid to Join NATO, Declaring a ‘New Era’</a> NYT: The Nordic nation would end 200 years of strategic neutrality if, as widely expected, it is admitted to the alliance. 
+ <p class="updated_time"> 06:30 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/05/15/1095875482/south-americas-traditional-cowboys-are-still-at-home-on-the-range-in-colombia">South America's traditional cowboys are still at home on the range in Colombia</a> NPR: livestock in Colombia are raised on vast, open ranges. Overseeing the herds requires the special skills of Colombian cowboys who are known as llaneros — Spanish for "plainsmen." 
  <p class="updated_time"> 05:59 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099003708/russian-neighbor-finland-announces-it-wants-to-join-nato">Russian neighbor Finland announces it wants to join NATO</a> NPR: A senior NATO official that Russia's military advance in Ukraine appears to be faltering as Russia's neighbor Finland announced it wants to join the Western military alliance. 
- <p class="updated_time"> 05:54 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 05:38 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61438047?at_medium=RSS&at_campaign=KARANGA">Somalia's presidential election: Where just 329 people vote</a> BBC: Only MPs, voting in a heavily fortified zone, will decide on who will lead the troubled country. 
  <p class="updated_time"> 05:37 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61454989?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: 'Bodies were everywhere'</a> BBC: Eyewitnesses describe shock and disbelief after a gunman shot 10 people dead in New York state. 
+ <p class="updated_time"> 05:30 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/russian-invasion-intensifies-role-of-new-u-s-eu-tech-council-11652607001">Russian Invasion Intensifies Role of New U.S.-EU Tech Council</a> WSJ: Russian Invasion Intensifies Role of New U.S.-EU Tech Council 
  <p class="updated_time"> 05:06 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Ten dead in racially motivated attack at New York state store</a> BBC: An 18-year-old is charged over the New York state attack, which is being investigated as a racial hate crime. 
- <p class="updated_time"> 04:54 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/russian-invasion-intensifies-role-of-new-u-s-eu-tech-council-11652607001">Russian Invasion Intensifies Role of New U.S.-EU Tech Council</a> WSJ: Russian Invasion Intensifies Role of New U.S.-EU Tech Council 
  <p class="updated_time"> 04:34 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099002176/mired-in-crises-lebanese-begin-voting-for-new-parliament">Mired in crises, Lebanese begin voting for new parliament</a> NPR: Lebanese voted for a new parliament Sunday against the backdrop of an economic meltdown that is transforming the country. 
+ <p class="updated_time"> 04:30 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 04:18 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/transnistria-moldova-russia-ukraine.html">A Mini-Russia Gets Squeezed by War</a> NYT: The self-declared republic of Transnistria, on the Ukraine border, has been steered by Moscow for decades. During a rare visit, a reporter and photographer get an inside look into how it operates, and hear from Transnistrians their fears of war. 
  <p class="updated_time"> 04:00 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html">How Australia Saved Thousands of Lives While Covid Killed a Million Americans</a> NYT: The United States and Australia share similar demographics, but their pandemic death rates point to very different cultures of trust. 
- <p class="updated_time"> 03:54 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 03:38 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61455301?at_medium=RSS&at_campaign=KARANGA">Saudi Aramco: Oil giant sees profits jump as prices surge</a> BBC: The state-owned Saudi Aramco is currently the world's most valuable company due to soaring oil prices. 
+ <p class="updated_time"> 03:30 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/mass-covid-testing-already-a-familiar-ritual-becomes-chinas-new-normal-11652607001">Mass Covid Testing Becomes China’s New Normal</a> WSJ: Mass Covid Testing Becomes China’s New Normal 
  <p class="updated_time"> 03:10 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/middleeast/lebanon-election.html">After Lebanon’s Collapse, Can an Election Fix the Country?</a> NYT: On Sunday, Lebanese voters get their first chance to pass judgment on lawmakers since the economy fell apart. Few expect things to improve. 
  <p class="updated_time"> 02:59 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099001041/g7-warn-of-ukraine-grain-crisis-ask-china-not-to-aid-russia">G7 warn of Ukraine grain crisis, ask China not to aid Russia</a> NPR: The Group of Seven leading economies warned Saturday that the war in Ukraine is stoking a global food and energy crisis which threatens poor countries. 
  <p class="updated_time"> 02:57 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/london-train-crossrail.html">In London, a Long-Awaited High-Tech Train Is Ready to Roll</a> NYT: The Elizabeth line, 13 years in the making, will soon uncoil under central London with cathedral-like stations and roomy cars. Its managers say it’s a testament to the power of public transportation. 
- <p class="updated_time"> 02:54 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/mass-covid-testing-already-a-familiar-ritual-becomes-chinas-new-normal-11652607001">Mass Covid Testing Becomes China’s New Normal</a> WSJ: Mass Covid Testing Becomes China’s New Normal 
  <p class="updated_time"> 02:36 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/middleeast/mohammed-bin-zayed-elected-uae-leader.html">Mohammed Bin Zayed Becomes U.A.E. President</a> NYT: Sheikh Mohammed has used his small country’s oil wealth to exert great influence across the Middle East and in Washington. 
+ <p class="updated_time"> 02:30 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
  <p class="updated_time"> 02:27 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099000149/ukraines-zelenskyy-defiant-as-russia-retreats-from-kharkiv">Ukraine's Zelenskyy defiant as Russia retreats from Kharkiv</a> NPR: Fresh off his country's Eurovision win, Ukrainian President Volodymyr Zelenskyy vowed to one day host the song contest in the embattled city of Mariupol, as Russian troops retreated from Kharkiv. 
- <p class="updated_time"> 01:54 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
  <p class="updated_time"> 01:51 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1098998910/north-korea-reports-15-more-suspected-covid-19-deaths">North Korea reports 15 more suspected COVID-19 deaths</a> NPR: North Korea has confirmed 15 more deaths and high numbers of fevers as it mobilizes more than a million health and other workers to try to suppress the country's first COVID-19 outbreak. 
  <p class="updated_time"> 11:30 PM CT, May. 14 </p> 
@@ -139,8 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/world/jacinda-ardern-covid-positive.html">New Zealand’s Jacinda Ardern Tests Positive for Coronavirus</a> NYT: The prime minister’s rules kept transmission at bay for two years, and by the time the highly infectious Omicron variant hit, the vast majority of New Zealand’s population had been vaccinated. 
  <p class="updated_time"> 07:24 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/iran-protests-food-prices.html">Protests Triggered by Rising Food Prices Spread in Iran</a> NYT: “They have no hope, they have no trust in the government and they can’t tolerate the status quo any more,” one Iran expert said of the protesters in at least six provinces. 
- <p class="updated_time"> 07:06 PM CT, May. 13 </p> 
- <a href="https://www.npr.org/2022/05/13/1098810226/eurovision-ukraine-kalush-orchestra">Ukraine wins Eurovision 2022 with overwhelming support from the audience </a> NPR: Kalush Orchestra's Oleh Psiuk told NPR that representing Ukraine on the world stage was a huge responsibility. He hopes people will continue to support his country. 
  <p class="updated_time"> 06:43 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/middleeast/shireen-abu-akleh-funeral.html">Israeli Police Attack Mourners Before Funeral for Shireen Abu Akleh</a> NYT: As hundreds gathered to witness the start of Shireen Abu Akleh’s funeral procession, riot police assaulted the people carrying her coffin. 
  <p class="updated_time"> 04:30 PM CT, May. 13 </p> 
@@ -191,8 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/world/europe/boris-johnson-response-sheleg-donation.html">Boris Johnson Sidesteps Question on Donation Flagged as Russia-Linked</a> NYT: Britain’s prime minister said all donations are disclosed “in the normal way.” The Conservative Party gave no sign it would return the money. 
  <p class="updated_time"> 02:12 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/us/politics/fbi-pegasus-spyware-israel.html">F.B.I. Told Israel It Wanted Pegasus Hacking Tool for Investigations</a> NYT: A 2018 letter from the bureau to the Israeli government is the clearest documentary evidence to date that the agency weighed using the spyware for law enforcement operations. 
- <p class="updated_time"> 01:09 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/world/europe/wagatha-christie-trial.html">Who Is ‘Wagatha Christie’? Let Us Explain. </a> NYT: The feud between two television personalities has made its way to a London courtroom and the front of British tabloids. Let us explain. 
  <p class="updated_time"> 10:53 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/climate/biden-oil-gas-lease-sales.html">Biden Administration Cancels Oil Drilling Sales in Alaska and Gulf of Mexico</a> NYT: Republicans link the move to rising gas prices while the administration said it was a result of conflicting legal opinions and a lack of interest among bidders. 
  <p class="updated_time"> 09:26 AM CT, May. 12 </p> 
@@ -207,11 +207,11 @@ webappicon: /plots/news.png
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:01 AM CT, May. 15 </p> 
- <a href="https://www.politico.com/news/2022/05/15/the-missing-adams-endorsement-that-looms-over-hochuls-agenda-in-albany-00032035">The missing Adams endorsement that looms over Hochul's agenda in Albany</a> Politico: Hochul and Adams are staring down a mutually beneficial alliance after a somewhat rocky start following Adams' January inauguration. 
+ <a href="https://www.politico.com/news/2022/05/15/the-missing-adams-endorsement-that-looms-over-hochuls-agenda-in-albany-00032035">Eric Adams is playing hard to get</a> Politico: Hochul and Adams are staring down a mutually beneficial alliance after a somewhat rocky start following Adams' January inauguration. 
  <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/ghana-africa-covid-vaccine-hesitancy-00030033">Africa finally has enough Covid shots. Is it too little, too late?</a> Politico: When friends and family got sick last year, people across Ghana scrambled to get shots. But there weren’t enough. Now, many say they don’t want the jab. Local volunteers are struggling to change their minds. 
  <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
- <a href="https://www.politico.com/news/2022/05/15/polling-changes-2024-elections-00032540">Polling had some big misses in 2016 and 2020. The industry is eyeing big changes for 2024.</a> Politico: The discussion among leading pollsters at a recent conference heralds the biggest change in American polling in decades. 
+ <a href="https://www.politico.com/news/2022/05/15/polling-changes-2024-elections-00032540">Pollsters prepare for major changes after presidential election misses</a> Politico: The discussion among leading pollsters at a recent conference heralds the biggest change in American polling in decades. 
  <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/mar-a-lago-2020-election-movies-00032530">What’s the hottest spot to debut your 2020 election conspiracy film? Mar-a-Lago, of course.</a> Politico: Movie night at the former president’s club is a mix of cocktails and conspiracy theories. And it’s become a symbol of Trump’s cultural impact on the GOP. 
  <p class="updated_time"> 05:36 AM CT, May. 15 </p> 
@@ -320,8 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/13/1098591991/maryland-virginia-governors-protests-supreme-court">Maryland and Virginia governors urge DOJ to tighten security outside justices' homes</a> NPR: The Republican governors are asking for federal law enforcement to take the lead in protecting the justices in the weeks and months ahead as protests continue. 
  <p class="updated_time"> 03:30 AM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/13/why-the-jan-6-panel-bet-its-legal-hand-against-the-house-gop-00032228">Why the Jan. 6 panel bet its legal hand against the House GOP</a> Politico: There's no guarantee the subpoena of five GOP lawmakers will give the committee more information on former President Donald Trump's attempt to subvert the 2020 election. They're barreling ahead anyway. 
- <p class="updated_time"> 09:12 PM CT, May. 12 </p> 
- <a href="https://www.politico.com/news/2022/05/12/john-eastman-trump-emails-00032323">Judge begins reviewing final disputed batch of Eastman emails</a> Politico: John Eastman, the architect of then-President Donald Trump’s last-ditch strategy to overturn the 2020 election, has claimed attorney-client privilege over thousands of exchanges. 
  <p class="updated_time"> 08:11 PM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/gop-launches-operation-stop-barnette-00032303">GOP launches Operation Stop Barnette</a> Politico: Kathy Barnette's late surge has forced the Oz and McCormick campaigns and their allies to scramble in the final days before the Senate primary. 
  <p class="updated_time"> 04:53 PM CT, May. 12 </p> 
