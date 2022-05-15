@@ -9,44 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:51 PM CT, May. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Ten dead in attack at supermarket in New York state</a> BBC: The FBI is investigating the attack - which left three others injured - as a racially-motivated hate crime. 
- <p class="updated_time"> 09:28 PM CT, May. 14 </p> 
+ <p class="updated_time"> 10:18 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/05/14/world/russia-ukraine-war-news">Live Updates: For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. Republican senators went to Kyiv to meet with Zelensky. 
+ <p class="updated_time"> 09:51 PM CT, May. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Ten dead in attack at supermarket in New York state</a> BBC: A suspect is arrested over the attack, which is being investigated as a racially-motivated hate crime. 
+ <p class="updated_time"> 09:44 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 09:05 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61423765?at_medium=RSS&at_campaign=KARANGA">Full lunar eclipse to bring super blood Moon</a> BBC: The Moon will slowly darken and turn red as it falls into Earth's shadow. 
  <p class="updated_time"> 09:01 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61300308?at_medium=RSS&at_campaign=KARANGA">Nova Scotia shooting: First-hand accounts heard in probe of Canada tragedy</a> BBC: A probe into Canada's worst mass shooting has revealed new details about killer and police response. 
- <p class="updated_time"> 08:57 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 08:47 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61450984?at_medium=RSS&at_campaign=KARANGA">Croatia abortion: Thousands protest against termination</a> BBC: A fierce debate about reproductive rights has been reignited in the strongly Catholic country. 
+ <p class="updated_time"> 08:44 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
  <p class="updated_time"> 08:42 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61179504?at_medium=RSS&at_campaign=KARANGA">'I searched for my sister for 30 years, but Covid took her from me'</a> BBC: As a child Steve Ellis uncovered a family secret, 60 years later it led to an unexpected friendship. 
  <p class="updated_time"> 08:35 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61402309?at_medium=RSS&at_campaign=KARANGA">Afghanistan face veil decree: 'It feels like being a woman is a crime'</a> BBC: Afghan women speak out against compulsory male chaperones and new mandate to wear all-covering veils. 
- <p class="updated_time"> 07:57 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
  <p class="updated_time"> 07:52 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61442439?at_medium=RSS&at_campaign=KARANGA">Eurovision win brings 'incredible happiness' to Ukraine</a> BBC: Public support helped push Kalush Orchestra and their song Stefania on to win with 631 points. 
+ <p class="updated_time"> 07:44 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
  <p class="updated_time"> 07:26 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61423035?at_medium=RSS&at_campaign=KARANGA">Australia election 2022: Are Australia's refugee releases an election ploy?</a> BBC: As refugees detained for years are abruptly released, some think the upcoming election is the reason. 
  <p class="updated_time"> 07:08 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61453628?at_medium=RSS&at_campaign=KARANGA">Eurovision 2022: Highlights of Ukraine's winning night</a> BBC: Ukraine won the Eurovision song contest 2022, with the UK coming second, its best result since 1998. 
- <p class="updated_time"> 06:57 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
+ <p class="updated_time"> 06:44 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400">El Salvador’s President Went All In on Bitcoin. Then It Tanked.</a> WSJ: El Salvador’s President Went All In on Bitcoin. Then It Tanked. 
  <p class="updated_time"> 06:30 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61452678?at_medium=RSS&at_campaign=KARANGA">Eurovision 2022: Ukraine wins, while the UK's Sam Ryder comes second</a> BBC: Ukraine's Kalush Orchestra triumphs, while Sam Ryder gives the UK its best result since 1998. 
  <p class="updated_time"> 06:25 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/ukraine-putin-nato.html">For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. 
  <p class="updated_time"> 06:03 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61412333?at_medium=RSS&at_campaign=KARANGA">Fleeing Syria 10 years on: 'We cried all the way to Jordan'</a> BBC: A family looks back after a decade living in the world's largest Syrian refugee camp. 
- <p class="updated_time"> 05:57 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400">El Salvador’s President Went All In on Bitcoin. Then It Tanked.</a> WSJ: El Salvador’s President Went All In on Bitcoin. Then It Tanked. 
+ <p class="updated_time"> 05:44 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 05:29 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61451922?at_medium=RSS&at_campaign=KARANGA">Abortion rights rallies held around the US</a> BBC: Pro-choice supporters are concerned that the Supreme Court could overturn the legal right to abortion. 
- <p class="updated_time"> 04:57 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 04:32 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/azovstal-evacuation-turkey.html">Turkey Offers to Evacuate Mariupol Fighters Despite Disagreements</a> NYT: Turkey has had a ship waiting for weeks in Istanbul to evacuate those remaining in the Azovstal steel plant, but Ukraine and Russia have not agreed to a plan, a Turkish official said. 
  <p class="updated_time"> 03:53 PM CT, May. 14 </p> 
