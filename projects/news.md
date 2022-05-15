@@ -9,10 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:45 AM CT, May. 15 </p> 
+ <p class="updated_time"> 11:31 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: Finland and Sweden Confirm They Will Seek NATO Membership</a> NYT: As Russia faced setbacks on the battlefield on Sunday, both Nordic nations said that they would apply for membership to the alliance. 
- <p class="updated_time"> 10:45 AM CT, May. 15 </p> 
+ <p class="updated_time"> 11:23 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects Next President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
+ <p class="updated_time"> 11:21 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/sweden-nato.html">Sweden’s Governing Party Says It Will Vote to Join NATO</a> NYT: The announcement was a shift for the Social Democratic Party, which has supported Swedish neutrality since before the collapse of the Soviet Union. 
+ <p class="updated_time"> 11:17 AM CT, May. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61456726?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Sweden and Finland confirm Nato plans</a> BBC: Traditionally both countries favour neutrality but the shift comes after Russia's war in Ukraine. 
+ <p class="updated_time"> 11:02 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/world/europe/finland-nato.html">Finland Launches Bid to Join NATO, Declaring a ‘New Era’</a> NYT: The Nordic nation would end decades of nonalignment if, as widely expected, it is admitted to the alliance. 
+ <p class="updated_time"> 10:37 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive Near Key Eastern City</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive Near Key Eastern City 
  <p class="updated_time"> 10:32 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61457622?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia's invasion not going to plan, Nato says</a> BBC: In a damning assessment of Russian efforts, Nato's secretary general says Ukraine could win the war. 
  <p class="updated_time"> 10:01 AM CT, May. 15 </p> 
@@ -21,44 +29,36 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/15/world/europe/pro-russian-war-bloggers-kremlin.html">Pro-Russian Bloggers React to Reported Donets Military Disaster</a> NYT: As the news of the losses at the river crossing started to spread, some Russian bloggers did not hold back in their criticism of what they said was incompetent leadership. 
  <p class="updated_time"> 09:59 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61456485?at_medium=RSS&at_campaign=KARANGA">Nigeria's Sokoto student killing sparks spread of fake news</a> BBC: The killing of a Christian woman accused of blasphemy triggers a wave of disinformation on social media. 
- <p class="updated_time"> 09:58 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive Near Key Eastern City</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive Near Key Eastern City 
  <p class="updated_time"> 09:53 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html">How Australia Saved Thousands of Lives While Covid Killed a Million Americans</a> NYT: The United States and Australia share similar demographics, but their pandemic death rates point to very different cultures of trust. 
  <p class="updated_time"> 09:44 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Ten dead in racially motivated attack at New York state store</a> BBC: An 18-year-old is charged over the New York state attack, which is being investigated as a racial hate crime. 
- <p class="updated_time"> 09:40 AM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects Next President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
+ <p class="updated_time"> 09:37 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 09:28 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61454989?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: 'Bodies were everywhere'</a> BBC: Eyewitnesses describe shock and disbelief after a gunman shot 10 people dead in New York state. 
- <p class="updated_time"> 08:58 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 08:56 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61438047?at_medium=RSS&at_campaign=KARANGA">Somalia's presidential election: Where just 329 people vote</a> BBC: Only MPs, voting in a heavily fortified zone, will decide on who will lead the troubled country. 
  <p class="updated_time"> 08:51 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099010203/africa-is-facing-significant-fuel-shortages">Africa is facing significant fuel shortages</a> NPR: Ayesha Rascoe talks with Kinley Salmon, Africa correspondent for The Economist, about the widespread fuel shortages affecting the continent. 
  <p class="updated_time"> 08:51 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/transnistria-moldova-russia-ukraine.html">A Mini-Russia Gets Squeezed by War</a> NYT: The self-declared republic of Transnistria, on the Ukraine border, has been steered by Moscow for decades. During a rare visit, a reporter and photographer get an inside look into how it operates, and hear from Transnistrians their fears of war. 
+ <p class="updated_time"> 08:37 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 08:19 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61455270?at_medium=RSS&at_campaign=KARANGA">Kenya elections 2022: William Ruto picks Rigathi Gachagua as running mate</a> BBC: William Ruto, a frontrunner in this year's presidential election, picks businessman Rigathi Gachagua. 
- <p class="updated_time"> 08:17 AM CT, May. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61456726?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Finland confirms Nato bid despite Putin warning</a> BBC: President Niinisto called the move - a response to Russia invading Ukraine - a "historic day". 
- <p class="updated_time"> 07:58 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 07:46 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099004724/ukraine-wins-eurovision-song-contest">Ukraine wins Eurovision Song Contest</a> NPR: Ukraine has won the Eurovision Song Contest, perhaps Europe's biggest musical competition. NPR's Joanna Kakissis was watching with Ukrainians in Dnipro. 
- <p class="updated_time"> 07:31 AM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/2022/05/15/world/europe/finland-nato.html">Finland Launches Bid to Join NATO, Declaring a ‘New Era’</a> NYT: The Nordic nation would end decades of nonalignment if, as widely expected, it is admitted to the alliance. 
- <p class="updated_time"> 06:58 AM CT, May. 15 </p> 
+ <p class="updated_time"> 07:37 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church</a> WSJ: Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church 
  <p class="updated_time"> 06:58 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099004654/volunteers-in-ukraine-risk-their-lives-to-distribute-supplies-under-constant-she">Volunteers in Ukraine risk their lives to distribute supplies under constant shelling</a> NPR: In some Eastern Ukraine cities, volunteers risk their lives to deliver food and medicine to those afraid to leave their homes because of constant shelling. 
+ <p class="updated_time"> 06:37 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/new-restrictions-could-cut-carbon-offsets-from-major-rainforests-11652540472">New Restrictions Could Cut Carbon Offsets From Major Rainforests</a> WSJ: New Restrictions Could Cut Carbon Offsets From Major Rainforests 
  <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/05/15/1095875482/south-americas-traditional-cowboys-are-still-at-home-on-the-range-in-colombia">South America's traditional cowboys are still at home on the range in Colombia</a> NPR: livestock in Colombia are raised on vast, open ranges. Overseeing the herds requires the special skills of Colombian cowboys who are known as llaneros — Spanish for "plainsmen." 
  <p class="updated_time"> 05:59 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099003708/russian-neighbor-finland-announces-it-wants-to-join-nato">Russian neighbor Finland announces it wants to join NATO</a> NPR: A senior NATO official that Russia's military advance in Ukraine appears to be faltering as Russia's neighbor Finland announced it wants to join the Western military alliance. 
- <p class="updated_time"> 05:58 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/new-restrictions-could-cut-carbon-offsets-from-major-rainforests-11652540472">New Restrictions Could Cut Carbon Offsets From Major Rainforests</a> WSJ: New Restrictions Could Cut Carbon Offsets From Major Rainforests 
  <p class="updated_time"> 04:34 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099002176/mired-in-crises-lebanese-begin-voting-for-new-parliament">Mired in crises, Lebanese begin voting for new parliament</a> NPR: Lebanese voted for a new parliament Sunday against the backdrop of an economic meltdown that is transforming the country. 
  <p class="updated_time"> 04:00 AM CT, May. 15 </p> 
@@ -210,6 +210,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:15 AM CT, May. 15 </p> 
+ <a href="https://www.politico.com/news/2022/05/15/mcconnell-maga-ukraine-visit-00032572">McConnell takes on MAGA with Ukraine visit</a> Politico: His support for Ukraine is putting him at odds with his party’s non-interventionist wing. 
+ <p class="updated_time"> 11:00 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/us/politics/michael-sussmann-trial-trump-russia.html">Trump-Era Prosecutor’s Case Against Democratic-Linked Lawyer Goes to Trial</a> NYT: The first case developed by the special counsel, John Durham, involves a lawyer who is accused of lying when he shared a tip with the F.B.I. about possible links between Donald J. Trump and Russia. 
+ <p class="updated_time"> 10:55 AM CT, May. 15 </p> 
+ <a href="https://www.politico.com/news/2022/05/15/pelosi-blackmail-border-pandemic-aid-00032557">Pelosi rips GOP 'blackmail' in linking border vote to pandemic aid</a> Politico: "There's no use holding it up to blackmail as the Republicans are trying to do," she said. 
  <p class="updated_time"> 10:38 AM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/kathy-barnette-pennsylvania-senate-00032560">Pa. Senate candidate blasts foes for criticism of bigoted remarks</a> Politico: "The overwhelming majority of the tweets that are now being presented are not even full thoughts," she said. 
  <p class="updated_time"> 10:14 AM CT, May. 15 </p> 
@@ -267,8 +273,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:18 AM CT, May. 14 </p> 
  <a href="https://www.politico.com/news/2022/05/14/russians-withdraw-ukraine-kharkiv-00032532">Russians withdraw from Ukraine's Kharkiv, batter east</a> Politico: Ukraine’s general staff said the Russians were pulling back from the northeastern city of Kharkiv and focusing on guarding supply routes. 
  <p class="updated_time"> 06:00 AM CT, May. 14 </p> 
- <a href="https://www.politico.com/news/2022/05/14/new-york-experiment-drug-use-national-model-00031876">New York experiment with government-approved drug use could become a national model</a> Politico: While supporters tout the benefits of so-called overdose prevention centers as a tool to combat opioid deaths, they remain a political flashpoint. 
- <p class="updated_time"> 06:00 AM CT, May. 14 </p> 
  <a href="https://www.politico.com/news/2022/05/14/kathy-barnette-pennsylvania-gop-primary-00032367">Senate Republicans' electability headache</a> Politico: Republicans have a problem, illustrated by the Pennsylvania Senate race: continue a lackluster record of hand picking candidates, or do nothing? 
  <p class="updated_time"> 06:00 AM CT, May. 14 </p> 
  <a href="https://www.politico.com/news/2022/05/14/progressives-midterm-elections-primaries-00032510">‘We’re chewing people up’: The left fights back against primary attacks</a> Politico: For the Democratic Party’s left flank, this month’s primaries represent a potential pivot point, after a series of losses. 
@@ -294,8 +298,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/us/politics/charter-school-rules-biden.html">New Biden Administration Rules for Charter Schools Spur Bipartisan Backlash</a> NYT: Critics of the proposal say the rules are overly restrictive and would stymie the growth of charter schools, whose 3.6 million students are largely Black and Hispanic. 
  <p class="updated_time"> 05:13 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/politics/baby-formula-shortage-biden-immigration.html">Republicans Wrongly Tie Biden Immigration Policies to Baby Formula Shortage</a> NYT: A lawsuit settlement requires the federal government to provide water and food, including formula, to detained migrant children. 
- <p class="updated_time"> 04:27 PM CT, May. 13 </p> 
- <a href="https://www.politico.com/news/2022/05/13/florida-redistricting-case-desantis-00032483">DeSantis appeals Florida judge's order blocking his redistricting map</a> Politico: Florida’s redistricting process has dragged on for months. 
  <p class="updated_time"> 04:04 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098865241/texas-gov-abbots-migration-crackdown-hasnt-exactly-gone-as-he-planned">Texas Gov. Abbott's migration crackdown hasn't exactly gone as he planned</a> NPR: Texas Gov. Greg Abbott, a Republican, has been testing the limits of how much his state can do to curb unauthorized migration. But Abbott's sweeping crackdown hasn't always gone as planned. 
  <p class="updated_time"> 03:53 PM CT, May. 13 </p> 
@@ -310,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/13/1098801406/white-house-baby-formula-wic-recipients">White House bolsters efforts to get baby formula into the hands of WIC recipients</a> NPR: States have been asked to increase accessibility of baby formula for recipients of the low-income program. And the Food and Drug Administration is looking at ways to make it easier to import formula. 
  <p class="updated_time"> 01:55 PM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/13/student-loan-debt-congress-biden-00032423">Senate Dems grab one last chance to push Biden on student debt</a> Politico: Majority Leader Chuck Schumer, as well as Sens. Elizabeth Warren and Raphael Warnock, are seeking a meeting as soon as possible. 
- <p class="updated_time"> 12:41 PM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/13/us/elections/kathy-barnette-pennsylvania-senate.html">Kathy Barnette’s Star Rises in Pennsylvania Senate Race</a> NYT: Donald Trump says she can’t win in November, but Kathy Barnette is pressing toward Tuesday’s voting. “They’re coming out with long knives at this point,” she said. 
  <p class="updated_time"> 12:27 PM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/13/trump-suit-new-york-attorney-general-00032427">Trump attorney faces sharp questions in suit targeting New York AG's probe</a> Politico: The suit Trump filed last December is considered a longshot because federal judges almost never step in to halt state court proceedings or investigations conducted by state or local officials. 
  <p class="updated_time"> 11:17 AM CT, May. 13 </p> 
