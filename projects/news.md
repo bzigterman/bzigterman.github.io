@@ -13,31 +13,31 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Ten dead in attack at supermarket in New York state</a> BBC: A suspect is arrested over the attack, which is being investigated as a racially-motivated hate crime. 
  <p class="updated_time"> 11:59 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/live/2022/05/14/world/russia-ukraine-war-news">What Happened on Day 80 of the War in Ukraine</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. Republican senators went to Kyiv to meet with Zelensky. 
- <p class="updated_time"> 11:46 PM CT, May. 14 </p> 
+ <p class="updated_time"> 11:58 PM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 11:30 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects Next President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
  <p class="updated_time"> 11:07 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61442439?at_medium=RSS&at_campaign=KARANGA">Eurovision win brings 'incredible happiness' to Ukraine</a> BBC: Public support helped push Kalush Orchestra and their song Stefania on to win with 631 points. 
+ <p class="updated_time"> 10:58 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
  <p class="updated_time"> 10:56 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/ukraine-putin-nato.html">For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. 
- <p class="updated_time"> 10:46 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
- <p class="updated_time"> 09:46 PM CT, May. 14 </p> 
+ <p class="updated_time"> 09:58 PM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
  <p class="updated_time"> 09:05 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61423765?at_medium=RSS&at_campaign=KARANGA">Full lunar eclipse to bring super blood Moon</a> BBC: The Moon will slowly darken and turn red as it falls into Earth's shadow. 
  <p class="updated_time"> 09:01 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61300308?at_medium=RSS&at_campaign=KARANGA">Nova Scotia shooting: First-hand accounts heard in probe of Canada tragedy</a> BBC: A probe into Canada's worst mass shooting has revealed new details about killer and police response. 
+ <p class="updated_time"> 08:58 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400">El Salvador’s President Went All In on Bitcoin. Then It Tanked.</a> WSJ: El Salvador’s President Went All In on Bitcoin. Then It Tanked. 
  <p class="updated_time"> 08:47 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61450984?at_medium=RSS&at_campaign=KARANGA">Croatia abortion: Thousands protest against termination</a> BBC: A fierce debate about reproductive rights has been reignited in the strongly Catholic country. 
- <p class="updated_time"> 08:46 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400">El Salvador’s President Went All In on Bitcoin. Then It Tanked.</a> WSJ: El Salvador’s President Went All In on Bitcoin. Then It Tanked. 
  <p class="updated_time"> 08:42 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61179504?at_medium=RSS&at_campaign=KARANGA">'I searched for my sister for 30 years, but Covid took her from me'</a> BBC: As a child Steve Ellis uncovered a family secret, 60 years later it led to an unexpected friendship. 
  <p class="updated_time"> 08:35 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61402309?at_medium=RSS&at_campaign=KARANGA">Afghanistan face veil decree: 'It feels like being a woman is a crime'</a> BBC: Afghan women speak out against compulsory male chaperones and new mandate to wear all-covering veils. 
- <p class="updated_time"> 07:46 PM CT, May. 14 </p> 
+ <p class="updated_time"> 07:58 PM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 07:26 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61423035?at_medium=RSS&at_campaign=KARANGA">Australia election 2022: Are Australia's refugee releases an election ploy?</a> BBC: As refugees detained for years are abruptly released, some think the upcoming election is the reason. 
