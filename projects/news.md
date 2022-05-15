@@ -9,48 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:34 AM CT, May. 15 </p> 
+ <a href="https://www.npr.org/2022/05/15/1099002176/mired-in-crises-lebanese-begin-voting-for-new-parliament">Mired in crises, Lebanese begin voting for new parliament</a> NPR: Lebanese voted for a new parliament Sunday against the backdrop of an economic meltdown that is transforming the country. 
+ <p class="updated_time"> 04:32 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: NATO Officials Meet as Ukraine Regains Ground in Northeast</a> NYT: Foreign ministers from the alliance are in Berlin for talks, amid Russian threats over the prospect of Finland and Sweden joining. 
  <p class="updated_time"> 04:18 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/transnistria-moldova-russia-ukraine.html">A Mini-Russia Gets Squeezed by War</a> NYT: The self-declared republic of Transnistria, on the Ukraine border, has been steered by Moscow for decades. During a rare visit, a reporter and photographer get an inside look into how it operates, and hear from Transnistrians their fears of war. 
- <p class="updated_time"> 04:02 AM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: NATO Officials Meet as Ukraine Regains Ground in Northeast</a> NYT: Foreign ministers from the alliance are in Berlin for talks, amid Russian threats over the prospect of Finland and Sweden joining. 
  <p class="updated_time"> 04:00 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html">How Australia Saved Thousands of Lives While Covid Killed a Million Americans</a> NYT: The United States and Australia share similar demographics, but their pandemic death rates point to very different cultures of trust. 
+ <p class="updated_time"> 03:54 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 03:38 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61455301?at_medium=RSS&at_campaign=KARANGA">Saudi Aramco: Oil giant sees profits jump as prices surge</a> BBC: The state-owned Saudi Aramco is currently the world's most valuable company due to soaring oil prices. 
- <p class="updated_time"> 03:25 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 03:10 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/middleeast/lebanon-election.html">After Lebanon’s Collapse, Can an Election Fix the Country?</a> NYT: On Sunday, Lebanese voters get their first chance to pass judgment on lawmakers since the economy fell apart. Few expect things to improve. 
  <p class="updated_time"> 02:59 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099001041/g7-warn-of-ukraine-grain-crisis-ask-china-not-to-aid-russia">G7 warn of Ukraine grain crisis, ask China not to aid Russia</a> NPR: The Group of Seven leading economies warned Saturday that the war in Ukraine is stoking a global food and energy crisis which threatens poor countries. 
  <p class="updated_time"> 02:57 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/london-train-crossrail.html">In London, a Long-Awaited High-Tech Train Is Ready to Roll</a> NYT: The Elizabeth line, 13 years in the making, will soon uncoil under central London with cathedral-like stations and roomy cars. Its managers say it’s a testament to the power of public transportation. 
+ <p class="updated_time"> 02:54 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/russian-invasion-intensifies-role-of-new-u-s-eu-tech-council-11652607001">Russian Invasion Intensifies Role of New U.S.-EU Tech Council</a> WSJ: Russian Invasion Intensifies Role of New U.S.-EU Tech Council 
  <p class="updated_time"> 02:36 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/middleeast/mohammed-bin-zayed-elected-uae-leader.html">Mohammed Bin Zayed Becomes U.A.E. President</a> NYT: Sheikh Mohammed has used his small country’s oil wealth to exert great influence across the Middle East and in Washington. 
  <p class="updated_time"> 02:27 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099000149/ukraines-zelenskyy-defiant-as-russia-retreats-from-kharkiv">Ukraine's Zelenskyy defiant as Russia retreats from Kharkiv</a> NPR: Fresh off his country's Eurovision win, Ukrainian President Volodymyr Zelenskyy vowed to one day host the song contest in the embattled city of Mariupol, as Russian troops retreated from Kharkiv. 
- <p class="updated_time"> 02:25 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
  <p class="updated_time"> 02:21 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/shireen-abu-akleh-funeral-israel">Israeli Police Attack Mourners at Palestinian Journalist’s Funeral</a> NYT: Video showed police officers in Jerusalem beating and kicking mourners next to the coffin of Shireen Abu Akleh, an Al Jazeera reporter who was killed on Wednesday, forcing one to the ground. 
  <p class="updated_time"> 02:08 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61438047?at_medium=RSS&at_campaign=KARANGA">Somalia's presidential election: Where just 329 people vote</a> BBC: Only MPs, voting in a heavily fortified zone, will decide on who will lead the troubled country. 
  <p class="updated_time"> 02:04 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Ten dead in suspected race attack at New York state store</a> BBC: An 18-year-old is charged over the New York state attack, which is being investigated as a racial hate crime. 
+ <p class="updated_time"> 01:54 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 01:51 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1098998910/north-korea-reports-15-more-suspected-covid-19-deaths">North Korea reports 15 more suspected COVID-19 deaths</a> NPR: North Korea has confirmed 15 more deaths and high numbers of fevers as it mobilizes more than a million health and other workers to try to suppress the country's first COVID-19 outbreak. 
- <p class="updated_time"> 01:25 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
- <p class="updated_time"> 12:25 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400">El Salvador’s President Went All In on Bitcoin. Then It Tanked.</a> WSJ: El Salvador’s President Went All In on Bitcoin. Then It Tanked. 
+ <p class="updated_time"> 12:54 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/mass-covid-testing-already-a-familiar-ritual-becomes-chinas-new-normal-11652607001">Mass Covid Testing Becomes China’s New Normal</a> WSJ: Mass Covid Testing Becomes China’s New Normal 
+ <p class="updated_time"> 11:54 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
  <p class="updated_time"> 11:30 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects Next President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
- <p class="updated_time"> 11:25 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 11:07 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61442439?at_medium=RSS&at_campaign=KARANGA">Eurovision win brings 'incredible happiness' to Ukraine</a> BBC: Public support helped push Kalush Orchestra and their song Stefania on to win with 631 points. 
- <p class="updated_time"> 11:03 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: The stakes in Sunday’s parliamentary elections are high for the tiny Middle Eastern country. A new government must negotiate an urgent economic rescue package with international donors and institutions, while navigating a deeply divided political system. 
  <p class="updated_time"> 10:56 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/ukraine-putin-nato.html">For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. 
  <p class="updated_time"> 09:07 PM CT, May. 14 </p> 
@@ -127,6 +127,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/14/world/australia/australian-election-transgender-rights.html">An American Moment in an Australian Campaign</a> NYT: To some analysts, a spat over transition surgery looks like something from an overseas culture war. 
  <p class="updated_time"> 02:06 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/sri-lanka-rajapaksa.html">As Sri Lanka Plunges Into Ruin, the Rajapaksa Family Is on the Run</a> NYT: Once empowered by triumphant ethnic nationalism after a brutal civil war, the Rajapaksa dynasty has been undone by what its own allies call incompetence and denial. 
+ <p class="updated_time"> 12:33 AM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Soaring prices are triggering shortages and protests as disruption from the Ukraine war adds to existing strains on global supplies of grains, meat and other foodstuffs. 
  <p class="updated_time"> 09:51 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/middleeast/sheikh-khalifa-uae-ruler-is-dead-at-73.html">Sheikh Khalifa, U.A.E. Ruler, Is Dead at 73</a> NYT: Sheikh Khalifa bin Zayed Al Nahyan oversaw vast economic growth and built his country’s partnership with the United States in his 18 years as head of state. 
  <p class="updated_time"> 08:58 PM CT, May. 13 </p> 
@@ -147,8 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/13/1098865269/protests-in-sri-lanka-have-turned-violent-amid-power-food-and-medicine-shortages">Protests in Sri Lanka have turned violent amid power, food and medicine shortages</a> NPR: NPR's Adrian Florido talks with journalist Sulochana Ramiah about Sri Lanka's protests, which have turned violent. The country is in crisis, with power blackouts and food shortages. 
  <p class="updated_time"> 03:53 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098748445/russia-ukraine-war-what-happened-today-may-13">Russia-Ukraine war: What happened today (May 13)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:40 PM CT, May. 13 </p> 
- <a href="https://www.npr.org/2022/05/13/1098865234/the-latest-from-kharkiv-where-ukrainian-forces-are-trying-to-repel-russian-troop">The latest from Kharkiv, where Ukrainian forces are trying to repel Russian troops</a> NPR: Ukrainian forces are trying to push back Russian forces from Kharkiv, a city Russia has shelled since the beginning of the war. 
  <p class="updated_time"> 02:53 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/climate/domingo-morales-composting-nyc.html">The Unlikely Ascent of New York’s Compost Champion</a> NYT: An ad led to Domingo Morales falling in love with compost. A windfall is helping him spread the word. 
  <p class="updated_time"> 02:51 PM CT, May. 13 </p> 
