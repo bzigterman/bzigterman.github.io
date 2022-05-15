@@ -9,42 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:18 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/world/europe/transnistria-moldova-russia-ukraine.html">A Mini-Russia Gets Squeezed by War</a> NYT: The self-declared republic of Transnistria, on the Ukraine border, has been steered by Moscow for decades. During a rare visit, a reporter and photographer get an inside look into how it operates, and hear from Transnistrians their fears of war. 
+ <p class="updated_time"> 04:02 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: NATO Officials Meet as Ukraine Regains Ground in Northeast</a> NYT: Foreign ministers from the alliance are in Berlin for talks, amid Russian threats over the prospect of Finland and Sweden joining. 
+ <p class="updated_time"> 04:00 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html">How Australia Saved Thousands of Lives While Covid Killed a Million Americans</a> NYT: The United States and Australia share similar demographics, but their pandemic death rates point to very different cultures of trust. 
  <p class="updated_time"> 03:38 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61455301?at_medium=RSS&at_campaign=KARANGA">Saudi Aramco: Oil giant sees profits jump as prices surge</a> BBC: The state-owned Saudi Aramco is currently the world's most valuable company due to soaring oil prices. 
- <p class="updated_time"> 03:13 AM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: NATO Officials Meet as Ukraine Regains Ground in Northeast</a> NYT: Foreign ministers from the alliance are in Berlin for talks, amid Russian threats over the prospect of Finland and Sweden joining. 
+ <p class="updated_time"> 03:25 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 03:10 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/middleeast/lebanon-election.html">After Lebanon’s Collapse, Can an Election Fix the Country?</a> NYT: On Sunday, Lebanese voters get their first chance to pass judgment on lawmakers since the economy fell apart. Few expect things to improve. 
  <p class="updated_time"> 02:59 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099001041/g7-warn-of-ukraine-grain-crisis-ask-china-not-to-aid-russia">G7 warn of Ukraine grain crisis, ask China not to aid Russia</a> NPR: The Group of Seven leading economies warned Saturday that the war in Ukraine is stoking a global food and energy crisis which threatens poor countries. 
- <p class="updated_time"> 02:57 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 02:57 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/london-train-crossrail.html">In London, a Long-Awaited High-Tech Train Is Ready to Roll</a> NYT: The Elizabeth line, 13 years in the making, will soon uncoil under central London with cathedral-like stations and roomy cars. Its managers say it’s a testament to the power of public transportation. 
  <p class="updated_time"> 02:36 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/middleeast/mohammed-bin-zayed-elected-uae-leader.html">Mohammed Bin Zayed Becomes U.A.E. President</a> NYT: Sheikh Mohammed has used his small country’s oil wealth to exert great influence across the Middle East and in Washington. 
  <p class="updated_time"> 02:27 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099000149/ukraines-zelenskyy-defiant-as-russia-retreats-from-kharkiv">Ukraine's Zelenskyy defiant as Russia retreats from Kharkiv</a> NPR: Fresh off his country's Eurovision win, Ukrainian President Volodymyr Zelenskyy vowed to one day host the song contest in the embattled city of Mariupol, as Russian troops retreated from Kharkiv. 
+ <p class="updated_time"> 02:25 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
  <p class="updated_time"> 02:21 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/shireen-abu-akleh-funeral-israel">Israeli Police Attack Mourners at Palestinian Journalist’s Funeral</a> NYT: Video showed police officers in Jerusalem beating and kicking mourners next to the coffin of Shireen Abu Akleh, an Al Jazeera reporter who was killed on Wednesday, forcing one to the ground. 
  <p class="updated_time"> 02:08 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61438047?at_medium=RSS&at_campaign=KARANGA">Somalia's presidential election: Where just 329 people vote</a> BBC: Only MPs, voting in a heavily fortified zone, will decide on who will lead the troubled country. 
  <p class="updated_time"> 02:04 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Ten dead in suspected race attack at New York state store</a> BBC: An 18-year-old is charged over the New York state attack, which is being investigated as a racial hate crime. 
- <p class="updated_time"> 01:57 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
  <p class="updated_time"> 01:51 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1098998910/north-korea-reports-15-more-suspected-covid-19-deaths">North Korea reports 15 more suspected COVID-19 deaths</a> NPR: North Korea has confirmed 15 more deaths and high numbers of fevers as it mobilizes more than a million health and other workers to try to suppress the country's first COVID-19 outbreak. 
- <p class="updated_time"> 12:57 AM CT, May. 15 </p> 
+ <p class="updated_time"> 01:25 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
- <p class="updated_time"> 11:57 PM CT, May. 14 </p> 
+ <p class="updated_time"> 12:25 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400">El Salvador’s President Went All In on Bitcoin. Then It Tanked.</a> WSJ: El Salvador’s President Went All In on Bitcoin. Then It Tanked. 
  <p class="updated_time"> 11:30 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects Next President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
+ <p class="updated_time"> 11:25 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 11:07 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61442439?at_medium=RSS&at_campaign=KARANGA">Eurovision win brings 'incredible happiness' to Ukraine</a> BBC: Public support helped push Kalush Orchestra and their song Stefania on to win with 631 points. 
- <p class="updated_time"> 10:57 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
+ <p class="updated_time"> 11:03 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: The stakes in Sunday’s parliamentary elections are high for the tiny Middle Eastern country. A new government must negotiate an urgent economic rescue package with international donors and institutions, while navigating a deeply divided political system. 
  <p class="updated_time"> 10:56 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/ukraine-putin-nato.html">For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. 
  <p class="updated_time"> 09:07 PM CT, May. 14 </p> 
@@ -119,8 +125,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/world/europe/putin-family-wealth-sanctions.html">Sanctions Shed Light on Putin’s Private Life</a> NYT: As Western nations place sanctions on people close to the Russian leader, including family members, the strict secrecy surrounding his private life is being punctured. 
  <p class="updated_time"> 02:45 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/australia/australian-election-transgender-rights.html">An American Moment in an Australian Campaign</a> NYT: To some analysts, a spat over transition surgery looks like something from an overseas culture war. 
- <p class="updated_time"> 02:21 AM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/india-bans-wheat-exports-putting-more-pressure-on-global-food-supplies-11652527277">India Bans Wheat Exports, Weighing on Global Food Supplies</a> WSJ: India said it would ban wheat exports, in a move that will add to global inflationary pressure and further strain global food supplies that have been disrupted by the war in Ukraine. 
  <p class="updated_time"> 02:06 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/sri-lanka-rajapaksa.html">As Sri Lanka Plunges Into Ruin, the Rajapaksa Family Is on the Run</a> NYT: Once empowered by triumphant ethnic nationalism after a brutal civil war, the Rajapaksa dynasty has been undone by what its own allies call incompetence and denial. 
  <p class="updated_time"> 09:51 PM CT, May. 13 </p> 
@@ -183,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/education-61396730?at_medium=RSS&at_campaign=KARANGA">The Ukrainian refugee schoolgirl learning fast in the UK</a> BBC: Ukrainian refugee Marharyta, nine, is learning English as she waits to start school in Manchester. 
  <p class="updated_time"> 05:57 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/americas/summit-americas-boycotts.html">Biden’s Summit of the Americas Threatened By Boycotts</a> NYT: Latin American heads of state are threatening to skip the event in Los Angeles, putting at risk the White House’s agenda in a region gripped by upheaval. 
- <p class="updated_time"> 05:31 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/us/politics/biden-covid-summit.html">At Biden’s Summit, Other Nations Pledge Billions to Bolster Pandemic Response</a> NYT: The meeting was meant to reinvigorate the response as vaccination and testing lag. Many attendees said Covid fatigue had become nearly as big a danger as Covid itself. 
  <p class="updated_time"> 05:23 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/africa/southern-africa-covid-surge-testing.html">As Southern Africa Cases Climb, Health Officials Worry About Testing Drop</a> NYT: New reported cases in South Africa have increased 80 percent, from the average two weeks ago, and deaths have increased 44 percent. 
  <p class="updated_time"> 05:13 PM CT, May. 12 </p> 
@@ -195,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/us/politics/fbi-pegasus-spyware-israel.html">F.B.I. Told Israel It Wanted Pegasus Hacking Tool for Investigations</a> NYT: A 2018 letter from the bureau to the Israeli government is the clearest documentary evidence to date that the agency weighed using the spyware for law enforcement operations. 
  <p class="updated_time"> 01:09 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/europe/wagatha-christie-trial.html">Who Is ‘Wagatha Christie’? Let Us Explain. </a> NYT: The feud between two television personalities has made its way to a London courtroom and the front of British tabloids. Let us explain. 
- <p class="updated_time"> 12:37 PM CT, May. 12 </p> 
- <a href="https://www.nytimes.com/2022/05/12/world/asia/indonesia-podcast-deddy-corbuzier.html">Interview With Gay Couple Sparks Backlash in Indonesia</a> NYT: The segment on a popular podcast hosted by Deddy Corbuzier enraged religious leaders, highlighting the limits of tolerance for gay people in the Muslim-majority nation. 
  <p class="updated_time"> 10:53 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/climate/biden-oil-gas-lease-sales.html">Biden Administration Cancels Oil Drilling Sales in Alaska and Gulf of Mexico</a> NYT: Republicans link the move to rising gas prices while the administration said it was a result of conflicting legal opinions and a lack of interest among bidders. 
  <p class="updated_time"> 09:26 AM CT, May. 12 </p> 
@@ -210,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/business/jd-vance-trump-hollywood.html">How Hollywood and the Media Fueled the Political Rise of J.D. Vance</a> NYT: “Hillbilly Elegy,” a best-selling memoir that became a star-studded film, raised the profile of the onetime “Never Trump guy” who won an Ohio primary with the help of the former president. 
  <p class="updated_time"> 09:47 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/us/abortion-rights-march.html">Thousands Gather at Marches for Abortion Rights</a> NYT: Nearly two weeks after the leak of a draft Supreme Court opinion overturning Roe v. Wade, protesters gathered in Washington, New York and other cities. 
  <p class="updated_time"> 07:28 PM CT, May. 14 </p> 
@@ -302,8 +304,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/13/zinkes-wife-primary-residence-california-montana-00032405">Zinke’s wife declaring primary residence in California as he runs in Montana</a> Politico: The former Interior secretary and current congressional candidate has faced questions about where he lives. 
  <p class="updated_time"> 11:17 AM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098779201/texas-supreme-court-transgender-gender-affirming-child-abuse">Texas Supreme Court OKs state child abuse inquiries into the families of trans kids</a> NPR: The ruling overturns an injunction barring state officials from following Abbott's directive to view treatments such as hormones and puberty-blocking drugs as incidents of child abuse. 
- <p class="updated_time"> 10:40 AM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/13/business/economy/russia-shipping-sanctions.html">Russian Shipping Traffic Remains Strong as Sanctions Take Time to Bite</a> NYT: The traffic was robust in March and April, reflecting the time it takes for sanctions to come into effect and an enduring profit motive for trading Russian energy. 
  <p class="updated_time"> 10:39 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/roe-overturned-women-republican-voters.html">How Overturning Roe Could Backfire for Republicans</a> NYT: The party was making headway with suburban women on crime, schools and inflation. Now the abortion debate is front and center. 
  <p class="updated_time"> 10:18 AM CT, May. 13 </p> 
