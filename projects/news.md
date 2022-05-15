@@ -9,6 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:23 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: As Russia Faces Setbacks in Ukraine, Finland Confirms It Will Seek NATO Membership</a> NYT: The Nordic nation said on Sunday that it would apply for membership to the alliance, and Sweden’s governing party was expected to make a similar move later in the day. 
+ <p class="updated_time"> 10:01 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/climate/domingo-morales-composting-nyc.html">The Unlikely Ascent of New York’s Compost Champion</a> NYT: An ad led to Domingo Morales falling in love with compost. A windfall is helping him spread the word. 
+ <p class="updated_time"> 10:01 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/world/europe/pro-russian-war-bloggers-kremlin.html">Pro-Russian Bloggers React to Reported Donets Military Disaster</a> NYT: As the news of the losses at the river crossing started to spread, some Russian bloggers did not hold back in their criticism of what they said was incompetent leadership. 
+ <p class="updated_time"> 09:59 AM CT, May. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61456485?at_medium=RSS&at_campaign=KARANGA">Nigeria's Sokoto student killing sparks spread of fake news</a> BBC: The killing of a Christian woman accused of blasphemy triggers a wave of disinformation on social media. 
  <p class="updated_time"> 09:53 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html">How Australia Saved Thousands of Lives While Covid Killed a Million Americans</a> NYT: The United States and Australia share similar demographics, but their pandemic death rates point to very different cultures of trust. 
  <p class="updated_time"> 09:44 AM CT, May. 15 </p> 
@@ -17,9 +25,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects Next President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
  <p class="updated_time"> 09:28 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61454989?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: 'Bodies were everywhere'</a> BBC: Eyewitnesses describe shock and disbelief after a gunman shot 10 people dead in New York state. 
- <p class="updated_time"> 09:08 AM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: As Russia Faces Setbacks in Ukraine, Finland Confirms It Will Seek NATO Membership</a> NYT: The Nordic nation said on Sunday that it would apply for membership to the alliance, and Sweden’s governing party was expected to make a similar move later in the day. 
- <p class="updated_time"> 08:59 AM CT, May. 15 </p> 
+ <p class="updated_time"> 09:27 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive Near Key Eastern City</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive Near Key Eastern City 
  <p class="updated_time"> 08:56 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61438047?at_medium=RSS&at_campaign=KARANGA">Somalia's presidential election: Where just 329 people vote</a> BBC: Only MPs, voting in a heavily fortified zone, will decide on who will lead the troubled country. 
@@ -27,30 +33,30 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/15/1099010203/africa-is-facing-significant-fuel-shortages">Africa is facing significant fuel shortages</a> NPR: Ayesha Rascoe talks with Kinley Salmon, Africa correspondent for The Economist, about the widespread fuel shortages affecting the continent. 
  <p class="updated_time"> 08:51 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/transnistria-moldova-russia-ukraine.html">A Mini-Russia Gets Squeezed by War</a> NYT: The self-declared republic of Transnistria, on the Ukraine border, has been steered by Moscow for decades. During a rare visit, a reporter and photographer get an inside look into how it operates, and hear from Transnistrians their fears of war. 
+ <p class="updated_time"> 08:27 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 08:19 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61455270?at_medium=RSS&at_campaign=KARANGA">Kenya elections 2022: William Ruto picks Rigathi Gachagua as running mate</a> BBC: William Ruto, a frontrunner in this year's presidential election, picks businessman Rigathi Gachagua. 
  <p class="updated_time"> 08:17 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61456726?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Finland confirms Nato bid despite Putin warning</a> BBC: President Niinisto called the move - a response to Russia invading Ukraine - a "historic day". 
- <p class="updated_time"> 07:59 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 07:46 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099004724/ukraine-wins-eurovision-song-contest">Ukraine wins Eurovision Song Contest</a> NPR: Ukraine has won the Eurovision Song Contest, perhaps Europe's biggest musical competition. NPR's Joanna Kakissis was watching with Ukrainians in Dnipro. 
  <p class="updated_time"> 07:31 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/finland-nato.html">Finland Launches Bid to Join NATO, Declaring a ‘New Era’</a> NYT: The Nordic nation would end decades of nonalignment if, as widely expected, it is admitted to the alliance. 
- <p class="updated_time"> 06:59 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church</a> WSJ: Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church 
+ <p class="updated_time"> 07:27 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 06:58 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099004654/volunteers-in-ukraine-risk-their-lives-to-distribute-supplies-under-constant-she">Volunteers in Ukraine risk their lives to distribute supplies under constant shelling</a> NPR: In some Eastern Ukraine cities, volunteers risk their lives to deliver food and medicine to those afraid to leave their homes because of constant shelling. 
+ <p class="updated_time"> 06:27 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church</a> WSJ: Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church 
+ <p class="updated_time"> 06:04 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/russian-invasion-intensifies-role-of-new-u-s-eu-tech-council-11652607001">Russian Invasion Intensifies Role of New U.S.-EU Tech Council</a> WSJ: The U.S.-EU Trade and Technology Council had its first meeting in Pittsburgh last fall, which participants said helped forge ties that proved critical when the two economies joined to impose sanctions on the Kremlin following its Feb. 24 attack on Ukraine. 
  <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/05/15/1095875482/south-americas-traditional-cowboys-are-still-at-home-on-the-range-in-colombia">South America's traditional cowboys are still at home on the range in Colombia</a> NPR: livestock in Colombia are raised on vast, open ranges. Overseeing the herds requires the special skills of Colombian cowboys who are known as llaneros — Spanish for "plainsmen." 
  <p class="updated_time"> 05:59 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/new-restrictions-could-cut-carbon-offsets-from-major-rainforests-11652540472">New Restrictions Could Cut Carbon Offsets From Major Rainforests</a> WSJ: New Restrictions Could Cut Carbon Offsets From Major Rainforests 
- <p class="updated_time"> 05:59 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099003708/russian-neighbor-finland-announces-it-wants-to-join-nato">Russian neighbor Finland announces it wants to join NATO</a> NPR: A senior NATO official that Russia's military advance in Ukraine appears to be faltering as Russia's neighbor Finland announced it wants to join the Western military alliance. 
- <p class="updated_time"> 04:59 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/russian-invasion-intensifies-role-of-new-u-s-eu-tech-council-11652607001">Russian Invasion Intensifies Role of New U.S.-EU Tech Council</a> WSJ: Russian Invasion Intensifies Role of New U.S.-EU Tech Council 
- <p class="updated_time"> 04:54 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: After Mykola Kulichenko was taken from his village in Ukraine, interrogated, beaten and left for dead, he still had to get back home. His account is among many war-crimes cases Ukrainian prosecutors are building against Russia. 
+ <p class="updated_time"> 05:27 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/new-restrictions-could-cut-carbon-offsets-from-major-rainforests-11652540472">New Restrictions Could Cut Carbon Offsets From Major Rainforests</a> WSJ: New Restrictions Could Cut Carbon Offsets From Major Rainforests 
  <p class="updated_time"> 04:34 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099002176/mired-in-crises-lebanese-begin-voting-for-new-parliament">Mired in crises, Lebanese begin voting for new parliament</a> NPR: Lebanese voted for a new parliament Sunday against the backdrop of an economic meltdown that is transforming the country. 
  <p class="updated_time"> 04:00 AM CT, May. 15 </p> 
@@ -151,8 +157,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/world/middleeast/shireen-abu-akleh-funeral.html">Israeli Police Attack Mourners Before Funeral for Shireen Abu Akleh</a> NYT: As hundreds gathered to witness the start of Shireen Abu Akleh’s funeral procession, riot police assaulted the people carrying her coffin. 
  <p class="updated_time"> 04:30 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/robert-c-mcfarlane-dead.html">Robert C. McFarlane, Top Reagan Aide in Iran-Contra Affair, Dies at 84</a> NYT: As national security adviser, he pleaded guilty in an illegal scheme to aid Nicaraguan rebels in the 1980s. Guilt-ridden, he attempted suicide. 
- <p class="updated_time"> 02:53 PM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/13/climate/domingo-morales-composting-nyc.html">The Unlikely Ascent of New York’s Compost Champion</a> NYT: An ad led to Domingo Morales falling in love with compost. A windfall is helping him spread the word. 
  <p class="updated_time"> 02:51 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/germany-right-extremists-security-services.html">Germany Identifies Far-Right Extremists Working in Security Services</a> NYT: The report reflects an effort by the authorities to come to grips with a long-running problem following several scandals involving members of the far right. 
  <p class="updated_time"> 02:12 PM CT, May. 13 </p> 
