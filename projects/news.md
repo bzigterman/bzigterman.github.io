@@ -9,27 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:28 PM CT, May. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61442387?at_medium=RSS&at_campaign=KARANGA">Ukraine: The children's camp that became an execution ground</a> BBC: The BBC's Sarah Rainsford investigates the killing of civilians in a summer camp in Bucha, Ukraine. 
  <p class="updated_time"> 06:04 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: Finland and Sweden Confirm They Will Seek NATO Membership</a> NYT: As Russia faced setbacks on the battlefield on Sunday, both Nordic nations said that they would apply for membership to the alliance. 
+ <p class="updated_time"> 05:41 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive 
  <p class="updated_time"> 05:41 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/germany-elections-scholz.html">German Conservatives Win State Election in Setback for Scholz</a> NYT: Chancellor Olaf Scholz’s Social Democrats scored record-low votes in the first major electoral test he has faced since taking office. 
  <p class="updated_time"> 05:37 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61438047?at_medium=RSS&at_campaign=KARANGA">Somalia's new president elected by 327 people</a> BBC: Former leader Hassan Sheikh Mohamud defeats the incumbent in a vote limited to MPs. 
- <p class="updated_time"> 05:25 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive 
  <p class="updated_time"> 05:05 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects New President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
+ <p class="updated_time"> 04:41 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 04:38 PM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099029001/a-wwii-veteran-meets-the-man-who-found-and-returned-his-long-lost-bracelet">A WWII veteran meets the man who found and returned his long-lost bracelet</a> NPR: A Czech hobbyist who returned a Colorado veteran's bracelet he found at a former World War II prisoner of war camp finally got to meet the veteran, traveling halfway around the world to do so. 
  <p class="updated_time"> 04:38 PM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099028987/the-war-has-worsened-disparities-for-women-in-ukraine">The war has worsened disparities for women in Ukraine</a> NPR: Ukrainian feminists say their country came a long way, legally and culturally, in the past decade. Now advocates are trying to address sexual assault, economic hardship and other effects of the war. 
- <p class="updated_time"> 04:25 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 03:54 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61459023?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Gunman deliberately sought black victims - mayor</a> BBC: Questions are being asked about how the suspect carried out the attack when he was known to authorities. 
- <p class="updated_time"> 03:25 PM CT, May. 15 </p> 
+ <p class="updated_time"> 03:41 PM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
- <p class="updated_time"> 02:25 PM CT, May. 15 </p> 
+ <p class="updated_time"> 02:41 PM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church</a> WSJ: Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church 
  <p class="updated_time"> 02:21 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61460378?at_medium=RSS&at_campaign=KARANGA">EasyJet offers £1,000 bonus as airlines battle to recruit staff</a> BBC: The airline will offer new and existing cabin crew the bonus, as carriers seek to retain and recruit workers. 
@@ -39,7 +41,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/15/world/europe/pro-russian-war-bloggers-kremlin.html">Pro-Russian Bloggers React to Reported Donets Military Disaster</a> NYT: As the news of the losses at the river crossing started to spread, some Russian bloggers did not hold back in their criticism of what they said was incompetent leadership. 
  <p class="updated_time"> 01:48 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/sweden-nato.html">Sweden’s Governing Party Says It Will Vote to Join NATO</a> NYT: The announcement was a shift for the Social Democratic Party, which has supported Swedish neutrality since before the collapse of the Soviet Union. 
- <p class="updated_time"> 01:25 PM CT, May. 15 </p> 
+ <p class="updated_time"> 01:41 PM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/shanghai-lays-out-covid-19-reopening-plan-as-china-cancels-2023-soccer-tournament-11652619639">Shanghai Lays Out Reopening Plan as China Cancels 2023 Soccer Tournament</a> WSJ: Shanghai Lays Out Reopening Plan as China Cancels 2023 Soccer Tournament 
  <p class="updated_time"> 01:07 PM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/somalias-parliament-meets-to-choose-president-in-delayed-election-11652640465">Somalia's Parliament Meets to Choose President in Delayed Election</a> WSJ: Somalia’s lawmakers met inside a fortified airport hangar to choose a president for an African country beset by Islamist violence, catastrophic drought and food shortages. 
