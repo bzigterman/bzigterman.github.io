@@ -9,29 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:03 AM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: As Russia Faces Setbacks in Ukraine, Finland Confirms It Will Seek NATO Membership</a> NYT: The Nordic nation said on Sunday that it would apply for membership to the alliance, and Sweden’s ruling party was expected to make a similar move later in the day. 
+ <p class="updated_time"> 06:17 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: As Russia Faces Setbacks in Ukraine, Finland Confirms It Will Seek NATO Membership</a> NYT: The Nordic nation said on Sunday that it would apply for membership to the alliance, and Sweden’s governing party was expected to make a similar move later in the day. 
  <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/05/15/1095875482/south-americas-traditional-cowboys-are-still-at-home-on-the-range-in-colombia">South America's traditional cowboys are still at home on the range in Colombia</a> NPR: livestock in Colombia are raised on vast, open ranges. Overseeing the herds requires the special skills of Colombian cowboys who are known as llaneros — Spanish for "plainsmen." 
- <p class="updated_time"> 05:51 AM CT, May. 15 </p> 
+ <p class="updated_time"> 05:59 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099003708/russian-neighbor-finland-announces-it-wants-to-join-nato">Russian neighbor Finland announces it wants to join NATO</a> NPR: A senior NATO official that Russia's military advance in Ukraine appears to be faltering as Russia's neighbor Finland announced it wants to join the Western military alliance. 
  <p class="updated_time"> 05:38 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61438047?at_medium=RSS&at_campaign=KARANGA">Somalia's presidential election: Where just 329 people vote</a> BBC: Only MPs, voting in a heavily fortified zone, will decide on who will lead the troubled country. 
- <p class="updated_time"> 05:12 AM CT, May. 15 </p> 
+ <p class="updated_time"> 05:37 AM CT, May. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61454989?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: 'Bodies were everywhere'</a> BBC: Eyewitnesses describe shock and disbelief after a gunman shot 10 people dead in New York state. 
+ <p class="updated_time"> 05:29 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 05:06 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Ten dead in racially motivated attack at New York state store</a> BBC: An 18-year-old is charged over the New York state attack, which is being investigated as a racial hate crime. 
  <p class="updated_time"> 04:34 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099002176/mired-in-crises-lebanese-begin-voting-for-new-parliament">Mired in crises, Lebanese begin voting for new parliament</a> NPR: Lebanese voted for a new parliament Sunday against the backdrop of an economic meltdown that is transforming the country. 
+ <p class="updated_time"> 04:29 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/russian-invasion-intensifies-role-of-new-u-s-eu-tech-council-11652607001">Russian Invasion Intensifies Role of New U.S.-EU Tech Council</a> WSJ: Russian Invasion Intensifies Role of New U.S.-EU Tech Council 
  <p class="updated_time"> 04:18 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/transnistria-moldova-russia-ukraine.html">A Mini-Russia Gets Squeezed by War</a> NYT: The self-declared republic of Transnistria, on the Ukraine border, has been steered by Moscow for decades. During a rare visit, a reporter and photographer get an inside look into how it operates, and hear from Transnistrians their fears of war. 
- <p class="updated_time"> 04:12 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/russian-invasion-intensifies-role-of-new-u-s-eu-tech-council-11652607001">Russian Invasion Intensifies Role of New U.S.-EU Tech Council</a> WSJ: Russian Invasion Intensifies Role of New U.S.-EU Tech Council 
  <p class="updated_time"> 04:00 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html">How Australia Saved Thousands of Lives While Covid Killed a Million Americans</a> NYT: The United States and Australia share similar demographics, but their pandemic death rates point to very different cultures of trust. 
  <p class="updated_time"> 03:38 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61455301?at_medium=RSS&at_campaign=KARANGA">Saudi Aramco: Oil giant sees profits jump as prices surge</a> BBC: The state-owned Saudi Aramco is currently the world's most valuable company due to soaring oil prices. 
- <p class="updated_time"> 03:12 AM CT, May. 15 </p> 
+ <p class="updated_time"> 03:29 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 03:10 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/middleeast/lebanon-election.html">After Lebanon’s Collapse, Can an Election Fix the Country?</a> NYT: On Sunday, Lebanese voters get their first chance to pass judgment on lawmakers since the economy fell apart. Few expect things to improve. 
@@ -41,13 +43,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/14/world/europe/london-train-crossrail.html">In London, a Long-Awaited High-Tech Train Is Ready to Roll</a> NYT: The Elizabeth line, 13 years in the making, will soon uncoil under central London with cathedral-like stations and roomy cars. Its managers say it’s a testament to the power of public transportation. 
  <p class="updated_time"> 02:36 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/middleeast/mohammed-bin-zayed-elected-uae-leader.html">Mohammed Bin Zayed Becomes U.A.E. President</a> NYT: Sheikh Mohammed has used his small country’s oil wealth to exert great influence across the Middle East and in Washington. 
+ <p class="updated_time"> 02:29 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/mass-covid-testing-already-a-familiar-ritual-becomes-chinas-new-normal-11652607001">Mass Covid Testing Becomes China’s New Normal</a> WSJ: Mass Covid Testing Becomes China’s New Normal 
  <p class="updated_time"> 02:27 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099000149/ukraines-zelenskyy-defiant-as-russia-retreats-from-kharkiv">Ukraine's Zelenskyy defiant as Russia retreats from Kharkiv</a> NPR: Fresh off his country's Eurovision win, Ukrainian President Volodymyr Zelenskyy vowed to one day host the song contest in the embattled city of Mariupol, as Russian troops retreated from Kharkiv. 
- <p class="updated_time"> 02:12 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/mass-covid-testing-already-a-familiar-ritual-becomes-chinas-new-normal-11652607001">Mass Covid Testing Becomes China’s New Normal</a> WSJ: Mass Covid Testing Becomes China’s New Normal 
  <p class="updated_time"> 01:51 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1098998910/north-korea-reports-15-more-suspected-covid-19-deaths">North Korea reports 15 more suspected COVID-19 deaths</a> NPR: North Korea has confirmed 15 more deaths and high numbers of fevers as it mobilizes more than a million health and other workers to try to suppress the country's first COVID-19 outbreak. 
- <p class="updated_time"> 01:12 AM CT, May. 15 </p> 
+ <p class="updated_time"> 01:29 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
  <p class="updated_time"> 11:30 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects Next President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
@@ -61,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-61423765?at_medium=RSS&at_campaign=KARANGA">Full lunar eclipse to bring super blood Moon</a> BBC: The Moon will slowly darken and turn red as it falls into Earth's shadow. 
  <p class="updated_time"> 09:01 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61300308?at_medium=RSS&at_campaign=KARANGA">Nova Scotia shooting: First-hand accounts heard in probe of Canada tragedy</a> BBC: A probe into Canada's worst mass shooting has revealed new details about killer and police response. 
- <p class="updated_time"> 08:47 PM CT, May. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61450984?at_medium=RSS&at_campaign=KARANGA">Croatia abortion: Thousands protest against termination</a> BBC: A fierce debate about reproductive rights has been reignited in the strongly Catholic country. 
  <p class="updated_time"> 08:42 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61179504?at_medium=RSS&at_campaign=KARANGA">'I searched for my sister for 30 years, but Covid took her from me'</a> BBC: As a child Steve Ellis uncovered a family secret, 60 years later it led to an unexpected friendship. 
  <p class="updated_time"> 08:35 PM CT, May. 14 </p> 
@@ -89,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/14/world/asia/india-wheat-export-ban.html">India Bans Most Wheat Exports, Adding to Fears of Global Food Insecurity</a> NYT: The ban could compound a worldwide shortfall worsened by the war in Ukraine and exacerbate an already dire forecast for global hunger. 
  <p class="updated_time"> 01:12 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/canada/conservatives-rallies-poilievre.html">From Streets to Rallies, Truckers and Supporters Weigh Conservative Candidates</a> NYT: In his bid for the Conservative Party leadership Pierre Poilievre is wooing supporters of the blockade that shut down Ottawa and closed border points. 
- <p class="updated_time"> 01:10 PM CT, May. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61450694?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin warns Finland joining Nato would be 'mistake'</a> BBC: Finland and Sweden have indicated they want to become Nato members following Russia's war in Ukraine. 
  <p class="updated_time"> 12:26 PM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098958972/india-family-lawsuit-children">Parents sue their son and daughter-in-law, demanding a grandchild or $675,000</a> NPR: The court reportedly has accepted their petition and scheduled it for a hearing in Haridwar, India. The couple wants a grandchild within a year. 
  <p class="updated_time"> 12:22 PM CT, May. 14 </p> 
@@ -210,6 +208,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
+ <a href="https://www.politico.com/news/2022/05/15/ghana-africa-covid-vaccine-hesitancy-00030033">Africa finally has enough Covid shots. Is it too little, too late?</a> Politico: When friends and family got sick last year, people across Ghana scrambled to get shots. But there weren’t enough. Now, many say they don’t want the jab. Local volunteers are struggling to change their minds. 
  <p class="updated_time"> 05:36 AM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/finland-announces-it-wants-to-join-nato-00032553">Finland announces it wants to join NATO</a> Politico: “This is a historic day. A new era begins,” its president said. 
  <p class="updated_time"> 04:00 AM CT, May. 15 </p> 
@@ -328,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/12/dems-need-november-turnaround-save-roe-00032209">Dems face facts: They need a November turnaround to save Roe</a> Politico: The party isn't done voting on abortion rights this year. But its members admit, with striking candor, that they can't pass anything without bigger majorities. 
  <p class="updated_time"> 04:35 PM CT, May. 12 </p> 
  <a href="https://www.cnn.com/2022/05/12/politics/biden-infant-formula-meeting/index.html">White House struggles for answers on infant formula shortage</a> CNN: The White House is struggling to answer questions about a baby formula shortage in the United States as the scope of the crisis becomes clearer and store shelves remain bare. 
- <p class="updated_time"> 03:44 PM CT, May. 12 </p> 
- <a href="https://www.politico.com/news/2022/05/12/white-house-infant-formula-shortage-00032205">White House announces steps to combat infant formula shortage</a> Politico: The shortage is in part fueled by the February shutdown of an Abbott Nutrition infant formula plant in Michigan although supplies have been relatively short since last summer. 
  <p class="updated_time"> 01:32 PM CT, May. 12 </p> 
  <a href="https://www.cnn.com/2022/05/12/politics/anti-abortion-groups-letter-criminalizing-women/index.html">Leading anti-abortion groups urge state lawmakers not to pass bills criminalizing women for abortions</a> CNN: Some of the largest anti-abortion organizations in the US are urging state lawmakers to reject legislation that would criminalize women for having abortions, saying "turning women who have abortions into criminals is not the way." 
  <p class="updated_time"> 01:00 PM CT, May. 12 </p> 
