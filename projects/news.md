@@ -9,24 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:31 AM CT, May. 15 </p> 
+ <p class="updated_time"> 02:27 AM CT, May. 15 </p> 
+ <a href="https://www.npr.org/2022/05/15/1099000149/ukraines-zelenskyy-defiant-as-russia-retreats-from-kharkiv">Ukraine's Zelenskyy defiant as Russia retreats from Kharkiv</a> NPR: Fresh off his country's Eurovision win, Ukrainian President Volodymyr Zelenskyy vowed to one day host the song contest in the embattled city of Mariupol, as Russian troops retreated from Kharkiv. 
+ <p class="updated_time"> 02:21 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: NATO Officials Meet as Ukraine Regains Ground in Northeast</a> NYT: Foreign ministers from the alliance are in Berlin for talks, amid Russian threats over the prospect of Finland and Sweden joining. 
+ <p class="updated_time"> 02:21 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/13/world/shireen-abu-akleh-funeral-israel">Israeli Police Attack Mourners at Palestinian Journalist’s Funeral</a> NYT: Video showed police officers in Jerusalem beating and kicking mourners next to the coffin of Shireen Abu Akleh, an Al Jazeera reporter who was killed on Wednesday, forcing one to the ground. 
+ <p class="updated_time"> 02:04 AM CT, May. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Ten dead in suspected race attack at New York state store</a> BBC: An 18-year-old is charged over the New York state attack, which is being investigated as a racial hate crime. 
+ <p class="updated_time"> 01:51 AM CT, May. 15 </p> 
+ <a href="https://www.npr.org/2022/05/15/1098998910/north-korea-reports-15-more-suspected-covid-19-deaths">North Korea reports 15 more suspected COVID-19 deaths</a> NPR: North Korea has confirmed 15 more deaths and high numbers of fevers as it mobilizes more than a million health and other workers to try to suppress the country's first COVID-19 outbreak. 
+ <p class="updated_time"> 01:32 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
- <p class="updated_time"> 12:05 AM CT, May. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Ten dead in attack at supermarket in New York state</a> BBC: A suspect is arrested over the attack, which is being investigated as a racially-motivated hate crime. 
- <p class="updated_time"> 11:59 PM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/05/14/world/russia-ukraine-war-news">What Happened on Day 80 of the War in Ukraine</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. Republican senators went to Kyiv to meet with Zelensky. 
- <p class="updated_time"> 11:31 PM CT, May. 14 </p> 
+ <p class="updated_time"> 12:32 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
+ <p class="updated_time"> 11:32 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
  <p class="updated_time"> 11:30 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects Next President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
  <p class="updated_time"> 11:07 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61442439?at_medium=RSS&at_campaign=KARANGA">Eurovision win brings 'incredible happiness' to Ukraine</a> BBC: Public support helped push Kalush Orchestra and their song Stefania on to win with 631 points. 
  <p class="updated_time"> 10:56 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/ukraine-putin-nato.html">For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. 
- <p class="updated_time"> 10:31 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
- <p class="updated_time"> 09:31 PM CT, May. 14 </p> 
+ <p class="updated_time"> 10:32 PM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400">El Salvador’s President Went All In on Bitcoin. Then It Tanked.</a> WSJ: El Salvador’s President Went All In on Bitcoin. Then It Tanked. 
+ <p class="updated_time"> 09:32 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
+ <p class="updated_time"> 09:07 PM CT, May. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61308799?at_medium=RSS&at_campaign=KARANGA">Young, Famous & African's Peace Hyde: From teacher to Netflix hitmaker</a> BBC: How Peace Hyde went from teaching science in the UK to making the first Netflix Africa reality TV series. 
  <p class="updated_time"> 09:05 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61423765?at_medium=RSS&at_campaign=KARANGA">Full lunar eclipse to bring super blood Moon</a> BBC: The Moon will slowly darken and turn red as it falls into Earth's shadow. 
  <p class="updated_time"> 09:01 PM CT, May. 14 </p> 
@@ -37,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-61179504?at_medium=RSS&at_campaign=KARANGA">'I searched for my sister for 30 years, but Covid took her from me'</a> BBC: As a child Steve Ellis uncovered a family secret, 60 years later it led to an unexpected friendship. 
  <p class="updated_time"> 08:35 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61402309?at_medium=RSS&at_campaign=KARANGA">Afghanistan face veil decree: 'It feels like being a woman is a crime'</a> BBC: Afghan women speak out against compulsory male chaperones and new mandate to wear all-covering veils. 
- <p class="updated_time"> 08:31 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 07:26 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61423035?at_medium=RSS&at_campaign=KARANGA">Australia election 2022: Are Australia's refugee releases an election ploy?</a> BBC: As refugees detained for years are abruptly released, some think the upcoming election is the reason. 
  <p class="updated_time"> 07:08 PM CT, May. 14 </p> 
@@ -59,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61401556?at_medium=RSS&at_campaign=KARANGA">Her father went to prison - so she went to law school</a> BBC: Her father's incarceration on non-violent drug crimes inspired Teeanna Brisco to go to law school. 
  <p class="updated_time"> 01:27 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/india-wheat-export-ban.html">India Bans Most Wheat Exports, Adding to Fears of Global Food Insecurity</a> NYT: The ban could compound a worldwide shortfall worsened by the war in Ukraine and exacerbate an already dire forecast for global hunger. 
- <p class="updated_time"> 01:17 PM CT, May. 14 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/61448479?at_medium=RSS&at_campaign=KARANGA">Rome Open: Iga Swiatek beats Aryna Sabalenka to reach Rome Open final</a> BBC: Iga Swiatek extends her winning run to 27 matches and moves within one victory of a fifth consecutive title by reaching the Italian Open final. 
  <p class="updated_time"> 01:12 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/canada/conservatives-rallies-poilievre.html">From Streets to Rallies, Truckers and Supporters Weigh Conservative Candidates</a> NYT: In his bid for the Conservative Party leadership Pierre Poilievre is wooing supporters of the blockade that shut down Ottawa and closed border points. 
  <p class="updated_time"> 01:10 PM CT, May. 14 </p> 
@@ -77,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/world/europe/eurovision-song-contest-ukraine.html">Amid War, Ukraine Is Favored to Win Eurovision Song Contest</a> NYT: The exclusion of Russia from the contest has underlined the country’s estrangement from the west, including in popular culture. 
  <p class="updated_time"> 10:05 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098948488/ukraine-mcconnell-zelenskyy-senate-delegation">McConnell heads to Kyiv and becomes the latest U.S. official to meet with Zelenskyy</a> NPR: Ukrainian President Volodymyr Zelenskyy called the visit a signal of bipartisan support from the U.S. Congress. The meeting took place as Ukraine said it had forced Russian troops away from Kharkiv. 
- <p class="updated_time"> 09:46 AM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/05/13/world/shireen-abu-akleh-funeral-israel">Israeli Police Attack Mourners at Palestinian Journalist’s Funeral</a> NYT: Video showed police officers in Jerusalem beating and kicking mourners next to the coffin of Shireen Abu Akleh, an Al Jazeera reporter who was killed on Wednesday, forcing one to the ground. 
  <p class="updated_time"> 09:08 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/middleeast/mohammed-bin-zayed-elected-uae-leader.html">Mohammed Bin Zayed Becomes U.A.E. President</a> NYT: Sheikh Mohammed has used his small country’s oil wealth to exert great influence across the Middle East and in Washington. 
  <p class="updated_time"> 08:34 AM CT, May. 14 </p> 
@@ -139,10 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/13/1098865234/the-latest-from-kharkiv-where-ukrainian-forces-are-trying-to-repel-russian-troop">The latest from Kharkiv, where Ukrainian forces are trying to repel Russian troops</a> NPR: Ukrainian forces are trying to push back Russian forces from Kharkiv, a city Russia has shelled since the beginning of the war. 
  <p class="updated_time"> 03:40 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098865227/julian-fellowes-of-downton-abbey-says-misery-isnt-compulsory-in-entertainment">Julian Fellowes of 'Downton Abbey' says misery isn't 'compulsory' in entertainment</a> NPR: NPR's Mary Louise Kelly talks with Downton Abbey executive producer Julian Fellowes about the latest chapter in the Crawley family's story, Downton Abbey: A New Era. 
- <p class="updated_time"> 03:40 PM CT, May. 13 </p> 
- <a href="https://www.npr.org/2022/05/13/1098865220/could-inflation-be-a-good-thing-for-governments-in-debt">Could inflation be a good thing for governments in debt?</a> NPR: For all the pain it causes, inflation makes old debts easier to pay off. A silver-lining for countries burdened by pandemic debt? Maybe. But if history is any guide, that shine may be short-lived. 
- <p class="updated_time"> 03:40 PM CT, May. 13 </p> 
- <a href="https://www.npr.org/2022/05/13/1098865213/lebanons-economic-crisis-will-be-on-voters-minds-during-parliamentary-elections">Lebanon's economic crisis will be on voters' minds during parliamentary elections</a> NPR: Lebanon is holding parliamentary elections against the backdrop of a severe economic crisis. Here's a look at what's at stake for those in power and the candidates trying to replace them. 
  <p class="updated_time"> 02:53 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/climate/domingo-morales-composting-nyc.html">The Unlikely Ascent of New York’s Compost Champion</a> NYT: An ad led to Domingo Morales falling in love with compost. A windfall is helping him spread the word. 
  <p class="updated_time"> 02:51 PM CT, May. 13 </p> 
@@ -306,8 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/us/roe-overturned-women-republican-voters.html">How Overturning Roe Could Backfire for Republicans</a> NYT: The party was making headway with suburban women on crime, schools and inflation. Now the abortion debate is front and center. 
  <p class="updated_time"> 10:18 AM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098753050/pence-will-rally-for-georgia-gov-kemp-defying-trump-who-backs-david-perdue">Pence will rally for Georgia Gov. Kemp, defying Trump, who backs David Perdue</a> NPR: Former Vice President Pence will rally for Kemp ahead of the May 24 primary, the campaign announced Friday. It marks a significant shift in Pence defying Trump and his chosen candidate for the race. 
- <p class="updated_time"> 09:38 AM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/12/us/politics/nato-finland-sweden-ukraine.html">Finland and Sweden Move Toward NATO Membership. But What About Ukraine?</a> NYT: Ukraine has been considered too full of corruption and too devoid of democratic institutions to make membership likely for years, if not decades, to come. 
  <p class="updated_time"> 08:41 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/politics/josh-shapiro-mastriano-ad.html">Josh Shapiro’s Campaign in Pennsylvania Has a Message: Beware of Doug.</a> NYT: Mr. Shapiro, the presumptive Democratic nominee for governor, is paying for a TV ad that appears intended to help a far-right Republican in that party’s primary. 
  <p class="updated_time"> 06:14 AM CT, May. 13 </p> 
