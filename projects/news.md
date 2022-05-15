@@ -17,11 +17,11 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/15/world/europe/pro-russian-war-bloggers-kremlin.html">Pro-Russian Bloggers React to Reported Donets Military Disaster</a> NYT: As the news of the losses at the river crossing started to spread, some Russian bloggers did not hold back in their criticism of what they said was incompetent leadership. 
  <p class="updated_time"> 02:04 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects Next President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
+ <p class="updated_time"> 01:50 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive 
  <p class="updated_time"> 01:48 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/sweden-nato.html">Sweden’s Governing Party Says It Will Vote to Join NATO</a> NYT: The announcement was a shift for the Social Democratic Party, which has supported Swedish neutrality since before the collapse of the Soviet Union. 
- <p class="updated_time"> 01:38 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive 
- <p class="updated_time"> 12:38 PM CT, May. 15 </p> 
+ <p class="updated_time"> 12:50 PM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 12:36 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/middleeast/lebanon-election.html">After Lebanon’s Collapse, Can an Election Fix the Country?</a> NYT: On Sunday, Lebanese voters got their first chance to pass judgment on lawmakers since the economy fell apart. Few expect things to improve. 
@@ -29,13 +29,13 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/15/1099018706/mcconnell-says-the-senate-will-pass-the-largest-ukraine-aid-package-yet-on-wedne">McConnell says the Senate will pass the largest Ukraine aid package yet on Wednesday</a> NPR: The GOP leader spoke from Stockholm following a trip to Kyiv. He backed Sweden and Finland joining NATO and pushed back on more isolationist voices in his party. 
  <p class="updated_time"> 12:05 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61456726?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Sweden and Finland confirm Nato plans</a> BBC: Traditionally both countries favour neutrality but the shift comes after Russia's war in Ukraine. 
- <p class="updated_time"> 11:38 AM CT, May. 15 </p> 
+ <p class="updated_time"> 11:50 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 11:31 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61438047?at_medium=RSS&at_campaign=KARANGA">Somalia's presidential election: Where just 328 people vote</a> BBC: Only MPs, voting in a heavily fortified zone, will decide on who will lead the troubled country. 
  <p class="updated_time"> 11:02 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/finland-nato.html">Finland Launches Bid to Join NATO, Declaring a ‘New Era’</a> NYT: The Nordic nation would end decades of nonalignment if, as widely expected, it is admitted to the alliance. 
- <p class="updated_time"> 10:38 AM CT, May. 15 </p> 
+ <p class="updated_time"> 10:50 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/more-migrants-arriving-in-florida-by-sea-from-cuba-and-haiti-11652623200">More Migrants Arriving in Florida by Sea From Cuba and Haiti</a> WSJ: More Migrants Arriving in Florida by Sea From Cuba and Haiti 
  <p class="updated_time"> 10:32 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61457622?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia's invasion not going to plan, Nato says</a> BBC: In a damning assessment of Russian efforts, Nato's secretary general says Ukraine could win the war. 
@@ -45,12 +45,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61456485?at_medium=RSS&at_campaign=KARANGA">Nigeria's Sokoto student killing sparks spread of fake news</a> BBC: The killing of a Christian woman accused of blasphemy triggers a wave of disinformation on social media. 
  <p class="updated_time"> 09:53 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html">How Australia Saved Thousands of Lives While Covid Killed a Million Americans</a> NYT: The United States and Australia share similar demographics, but their pandemic death rates point to very different cultures of trust. 
+ <p class="updated_time"> 09:50 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church</a> WSJ: Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church 
  <p class="updated_time"> 09:47 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/somalias-parliament-meets-to-choose-president-in-delayed-election-11652640465">Somalia's Parliament Meets to Choose President in Delayed Election</a> WSJ: Somalia’s lawmakers met inside a fortified airport hangar to choose a president for an African country beset by Islamist violence, catastrophic drought and food shortages. 
  <p class="updated_time"> 09:44 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Ten dead in racially motivated attack at New York state store</a> BBC: An 18-year-old is charged over the New York state attack, which is being investigated as a racial hate crime. 
- <p class="updated_time"> 09:38 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church</a> WSJ: Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church 
  <p class="updated_time"> 09:28 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61454989?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: 'Bodies were everywhere'</a> BBC: Eyewitnesses describe shock and disbelief after a gunman shot 10 people dead in New York state. 
  <p class="updated_time"> 08:51 AM CT, May. 15 </p> 
@@ -208,6 +208,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:45 PM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/us/politics/john-fetterman-stroke.html">John Fetterman Recovering After Stroke Before His Senate Primary</a> NYT: John Fetterman, the Pennsylvania lieutenant governor who is running for the state’s Democratic Senate nomination, canceled events on Friday, Saturday and Sunday. 
  <p class="updated_time"> 02:26 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/us/politics/kathy-barnette-islam-tweets.html">Kathy Barnette Says She ‘Can’t Provide a Lot of Context’ for Her Anti-Islamic Tweets</a> NYT: Her sudden rise in the Pennsylvania Senate primary has some Republicans worried about her prospects in November. 
  <p class="updated_time"> 01:59 PM CT, May. 15 </p> 
@@ -255,7 +257,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:04 PM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098969458/bans-off-our-bodies-protesters-discuss-personal-experiences-with-abortion">'Bans Off Our Bodies' protesters discuss personal experiences with abortion</a> NPR: NPR's Michel Martin speaks with two women participating in the Bans Off Our Bodies rallies today: Abigail Sweinhart and Heidi Gordon. 
  <p class="updated_time"> 03:16 PM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/2022/05/14/us/politics/white-house-lawyers-oversight.html">Gearing Up for G.O.P. Gains in Midterms, White House Braces for Barrage of Inquiries</a> NYT: The turbulent aftermath of the Trump era is taking the possibility of a divided government to new levels of intensity, as some Republicans appear eager to target President Biden and his family. 
+ <a href="https://www.nytimes.com/2022/05/14/us/politics/white-house-lawyers-oversight.html">Gearing Up for G.O.P. Gains, White House Braces for Barrage of Inquiries</a> NYT: The turbulent aftermath of the Trump era is taking the possibility of a divided government to new levels of intensity, as some Republicans appear eager to target President Biden and his family. 
  <p class="updated_time"> 02:50 PM CT, May. 14 </p> 
  <a href="https://www.politico.com/news/2022/05/14/richard-wald-abc-news-obituary-00032548">News executive Richard Wald, who helped build ABC News, dies</a> Politico: The wiry, optimistic newshound taught journalism at his alma mater, Columbia University, after retiring from ABC News in 1999. 
  <p class="updated_time"> 02:07 PM CT, May. 14 </p> 
@@ -324,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/13/1098779201/texas-supreme-court-transgender-gender-affirming-child-abuse">Texas Supreme Court OKs state child abuse inquiries into the families of trans kids</a> NPR: The ruling overturns an injunction barring state officials from following Abbott's directive to view treatments such as hormones and puberty-blocking drugs as incidents of child abuse. 
  <p class="updated_time"> 10:18 AM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098753050/pence-will-rally-for-georgia-gov-kemp-defying-trump-who-backs-david-perdue">Pence will rally for Georgia Gov. Kemp, defying Trump, who backs David Perdue</a> NPR: Former Vice President Pence will rally for Kemp ahead of the May 24 primary, the campaign announced Friday. It marks a significant shift in Pence defying Trump and his chosen candidate for the race. 
- <p class="updated_time"> 08:41 AM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/13/us/politics/josh-shapiro-mastriano-ad.html">Josh Shapiro’s Campaign in Pennsylvania Has a Message: Beware of Doug.</a> NYT: Mr. Shapiro, the presumptive Democratic nominee for governor, is paying for a TV ad that appears intended to help a far-right Republican in that party’s primary. 
  <p class="updated_time"> 03:30 AM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/13/why-the-jan-6-panel-bet-its-legal-hand-against-the-house-gop-00032228">Why the Jan. 6 panel bet its legal hand against the House GOP</a> Politico: There's no guarantee the subpoena of five GOP lawmakers will give the committee more information on former President Donald Trump's attempt to subvert the 2020 election. They're barreling ahead anyway. 
  <p class="updated_time"> 08:11 PM CT, May. 12 </p> 
