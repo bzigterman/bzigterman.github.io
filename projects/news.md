@@ -9,46 +9,54 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:51 AM CT, May. 15 </p> 
+ <a href="https://www.npr.org/2022/05/15/1099010203/africa-is-facing-significant-fuel-shortages">Africa is facing significant fuel shortages</a> NPR: Ayesha Rascoe talks with Kinley Salmon, Africa correspondent for The Economist, about the widespread fuel shortages affecting the continent. 
+ <p class="updated_time"> 08:51 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/world/europe/transnistria-moldova-russia-ukraine.html">A Mini-Russia Gets Squeezed by War</a> NYT: The self-declared republic of Transnistria, on the Ukraine border, has been steered by Moscow for decades. During a rare visit, a reporter and photographer get an inside look into how it operates, and hear from Transnistrians their fears of war. 
+ <p class="updated_time"> 08:47 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects Next President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
+ <p class="updated_time"> 08:19 AM CT, May. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61455270?at_medium=RSS&at_campaign=KARANGA">Kenya elections 2022: William Ruto picks Rigathi Gachagua as running mate</a> BBC: William Ruto, a frontrunner in this year's presidential election, picks businessman Rigathi Gachagua. 
+ <p class="updated_time"> 08:17 AM CT, May. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61456726?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Finland confirms Nato bid despite Putin warning</a> BBC: President Niinisto called the move - a response to Russia invading Ukraine - a "historic day". 
  <p class="updated_time"> 08:08 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61454989?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: 'Bodies were everywhere'</a> BBC: Eyewitnesses describe shock and disbelief after a gunman shot 10 people dead in New York state. 
  <p class="updated_time"> 08:06 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: As Russia Faces Setbacks in Ukraine, Finland Confirms It Will Seek NATO Membership</a> NYT: The Nordic nation said on Sunday that it would apply for membership to the alliance, and Sweden’s governing party was expected to make a similar move later in the day. 
- <p class="updated_time"> 07:55 AM CT, May. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61455270?at_medium=RSS&at_campaign=KARANGA">Kenya elections 2022: William Ruto picks Rigathi Gachagua as running mate</a> BBC: William Ruto, a frontrunner in this year's presidential election, picks businessman Rigathi Gachagua. 
+ <p class="updated_time"> 07:57 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 07:46 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099004724/ukraine-wins-eurovision-song-contest">Ukraine wins Eurovision Song Contest</a> NPR: Ukraine has won the Eurovision Song Contest, perhaps Europe's biggest musical competition. NPR's Joanna Kakissis was watching with Ukrainians in Dnipro. 
- <p class="updated_time"> 07:38 AM CT, May. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61456726?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Finland confirms Nato bid despite Putin warning</a> BBC: President Niinisto called the move - a response to Russia invading Ukraine - a "historic day". 
  <p class="updated_time"> 07:33 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61438047?at_medium=RSS&at_campaign=KARANGA">Somalia's presidential election: Where just 329 people vote</a> BBC: Only MPs, voting in a heavily fortified zone, will decide on who will lead the troubled country. 
  <p class="updated_time"> 07:31 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/finland-nato.html">Finland Launches Bid to Join NATO, Declaring a ‘New Era’</a> NYT: The Nordic nation would end decades of nonalignment if, as widely expected, it is admitted to the alliance. 
- <p class="updated_time"> 07:15 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 06:58 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099004654/volunteers-in-ukraine-risk-their-lives-to-distribute-supplies-under-constant-she">Volunteers in Ukraine risk their lives to distribute supplies under constant shelling</a> NPR: In some Eastern Ukraine cities, volunteers risk their lives to deliver food and medicine to those afraid to leave their homes because of constant shelling. 
- <p class="updated_time"> 06:15 AM CT, May. 15 </p> 
+ <p class="updated_time"> 06:57 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/russian-invasion-intensifies-role-of-new-u-s-eu-tech-council-11652607001">Russian Invasion Intensifies Role of New U.S.-EU Tech Council</a> WSJ: Russian Invasion Intensifies Role of New U.S.-EU Tech Council 
  <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/05/15/1095875482/south-americas-traditional-cowboys-are-still-at-home-on-the-range-in-colombia">South America's traditional cowboys are still at home on the range in Colombia</a> NPR: livestock in Colombia are raised on vast, open ranges. Overseeing the herds requires the special skills of Colombian cowboys who are known as llaneros — Spanish for "plainsmen." 
  <p class="updated_time"> 05:59 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099003708/russian-neighbor-finland-announces-it-wants-to-join-nato">Russian neighbor Finland announces it wants to join NATO</a> NPR: A senior NATO official that Russia's military advance in Ukraine appears to be faltering as Russia's neighbor Finland announced it wants to join the Western military alliance. 
- <p class="updated_time"> 05:15 AM CT, May. 15 </p> 
+ <p class="updated_time"> 05:57 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 05:06 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Ten dead in racially motivated attack at New York state store</a> BBC: An 18-year-old is charged over the New York state attack, which is being investigated as a racial hate crime. 
+ <p class="updated_time"> 04:57 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/mass-covid-testing-already-a-familiar-ritual-becomes-chinas-new-normal-11652607001">Mass Covid Testing Becomes China’s New Normal</a> WSJ: Mass Covid Testing Becomes China’s New Normal 
  <p class="updated_time"> 04:34 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099002176/mired-in-crises-lebanese-begin-voting-for-new-parliament">Mired in crises, Lebanese begin voting for new parliament</a> NPR: Lebanese voted for a new parliament Sunday against the backdrop of an economic meltdown that is transforming the country. 
- <p class="updated_time"> 04:18 AM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/2022/05/15/world/europe/transnistria-moldova-russia-ukraine.html">A Mini-Russia Gets Squeezed by War</a> NYT: The self-declared republic of Transnistria, on the Ukraine border, has been steered by Moscow for decades. During a rare visit, a reporter and photographer get an inside look into how it operates, and hear from Transnistrians their fears of war. 
- <p class="updated_time"> 04:15 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/mass-covid-testing-already-a-familiar-ritual-becomes-chinas-new-normal-11652607001">Mass Covid Testing Becomes China’s New Normal</a> WSJ: Mass Covid Testing Becomes China’s New Normal 
  <p class="updated_time"> 04:00 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html">How Australia Saved Thousands of Lives While Covid Killed a Million Americans</a> NYT: The United States and Australia share similar demographics, but their pandemic death rates point to very different cultures of trust. 
+ <p class="updated_time"> 04:00 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-lays-out-covid-19-reopening-plan-as-china-cancels-2023-soccer-tournament-11652619639">Shanghai Lays Out Reopening Plan as China Cancels 2023 Soccer Tournament</a> WSJ: Officials in China’s financial hub outlined plans for a phased reopening of shopping malls, supermarkets and other businesses after nearly two months of a hard lockdown. 
+ <p class="updated_time"> 03:59 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive Near Key Eastern City</a> WSJ: Finnish President Sauli Niinistö said the government would apply for membership of the North Atlantic Treaty Organization subject to approval by parliament, which is widely expected, in the coming days. 
+ <p class="updated_time"> 03:57 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
  <p class="updated_time"> 03:38 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61455301?at_medium=RSS&at_campaign=KARANGA">Saudi Aramco: Oil giant sees profits jump as prices surge</a> BBC: The state-owned Saudi Aramco is currently the world's most valuable company due to soaring oil prices. 
- <p class="updated_time"> 03:15 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
  <p class="updated_time"> 03:10 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/middleeast/lebanon-election.html">After Lebanon’s Collapse, Can an Election Fix the Country?</a> NYT: On Sunday, Lebanese voters get their first chance to pass judgment on lawmakers since the economy fell apart. Few expect things to improve. 
  <p class="updated_time"> 02:59 AM CT, May. 15 </p> 
@@ -61,12 +69,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/15/1099000149/ukraines-zelenskyy-defiant-as-russia-retreats-from-kharkiv">Ukraine's Zelenskyy defiant as Russia retreats from Kharkiv</a> NPR: Fresh off his country's Eurovision win, Ukrainian President Volodymyr Zelenskyy vowed to one day host the song contest in the embattled city of Mariupol, as Russian troops retreated from Kharkiv. 
  <p class="updated_time"> 01:51 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1098998910/north-korea-reports-15-more-suspected-covid-19-deaths">North Korea reports 15 more suspected COVID-19 deaths</a> NPR: North Korea has confirmed 15 more deaths and high numbers of fevers as it mobilizes more than a million health and other workers to try to suppress the country's first COVID-19 outbreak. 
- <p class="updated_time"> 11:30 PM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects Next President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
  <p class="updated_time"> 11:07 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61442439?at_medium=RSS&at_campaign=KARANGA">Eurovision win brings 'incredible happiness' to Ukraine</a> BBC: Public support helped push Kalush Orchestra and their song Stefania on to win with 631 points. 
  <p class="updated_time"> 10:56 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/ukraine-putin-nato.html">For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. 
+ <p class="updated_time"> 09:07 PM CT, May. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61308799?at_medium=RSS&at_campaign=KARANGA">Young, Famous & African's Peace Hyde: From teacher to Netflix hitmaker</a> BBC: Meet Peace Hyde, the British-Ghanaian creator of reality TV series Young, Famous & African. 
  <p class="updated_time"> 09:01 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61300308?at_medium=RSS&at_campaign=KARANGA">Nova Scotia shooting: First-hand accounts heard in probe of Canada tragedy</a> BBC: A probe into Canada's worst mass shooting has revealed new details about killer and police response. 
  <p class="updated_time"> 08:42 PM CT, May. 14 </p> 
@@ -77,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61423035?at_medium=RSS&at_campaign=KARANGA">Australia election 2022: Are Australia's refugee releases an election ploy?</a> BBC: As refugees detained for years are abruptly released, some think the upcoming election is the reason. 
  <p class="updated_time"> 07:08 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61453628?at_medium=RSS&at_campaign=KARANGA">Eurovision 2022: Highlights of Ukraine's winning night</a> BBC: Ukraine won the Eurovision song contest 2022, with the UK coming second, its best result since 1998. 
- <p class="updated_time"> 06:30 PM CT, May. 14 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61452678?at_medium=RSS&at_campaign=KARANGA">Eurovision 2022: Ukraine wins, while the UK's Sam Ryder comes second</a> BBC: Ukraine's Kalush Orchestra triumphs, while Sam Ryder gives the UK its best result since 1998. 
  <p class="updated_time"> 06:03 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61412333?at_medium=RSS&at_campaign=KARANGA">Fleeing Syria 10 years on: 'We cried all the way to Jordan'</a> BBC: A family looks back after a decade living in the world's largest Syrian refugee camp. 
  <p class="updated_time"> 05:29 PM CT, May. 14 </p> 
@@ -131,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/14/world/australia/australian-election-transgender-rights.html">An American Moment in an Australian Campaign</a> NYT: To some analysts, a spat over transition surgery looks like something from an overseas culture war. 
  <p class="updated_time"> 02:06 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/sri-lanka-rajapaksa.html">As Sri Lanka Plunges Into Ruin, the Rajapaksa Family Is on the Run</a> NYT: Once empowered by triumphant ethnic nationalism after a brutal civil war, the Rajapaksa dynasty has been undone by what its own allies call incompetence and denial. 
- <p class="updated_time"> 12:33 AM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Soaring prices are triggering shortages and protests as disruption from the Ukraine war adds to existing strains on global supplies of grains, meat and other foodstuffs. 
  <p class="updated_time"> 09:51 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/middleeast/sheikh-khalifa-uae-ruler-is-dead-at-73.html">Sheikh Khalifa, U.A.E. Ruler, Is Dead at 73</a> NYT: Sheikh Khalifa bin Zayed Al Nahyan oversaw vast economic growth and built his country’s partnership with the United States in his 18 years as head of state. 
  <p class="updated_time"> 08:58 PM CT, May. 13 </p> 
