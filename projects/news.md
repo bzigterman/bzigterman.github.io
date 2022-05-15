@@ -9,36 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:43 AM CT, May. 15 </p> 
+ <p class="updated_time"> 03:13 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: NATO Officials Meet as Ukraine Regains Ground in Northeast</a> NYT: Foreign ministers from the alliance are in Berlin for talks, amid Russian threats over the prospect of Finland and Sweden joining. 
+ <p class="updated_time"> 03:10 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/world/middleeast/lebanon-election.html">After Lebanon’s Collapse, Can an Election Fix the Country?</a> NYT: On Sunday, Lebanese voters get their first chance to pass judgment on lawmakers since the economy fell apart. Few expect things to improve. 
+ <p class="updated_time"> 02:59 AM CT, May. 15 </p> 
+ <a href="https://www.npr.org/2022/05/15/1099001041/g7-warn-of-ukraine-grain-crisis-ask-china-not-to-aid-russia">G7 warn of Ukraine grain crisis, ask China not to aid Russia</a> NPR: The Group of Seven leading economies warned Saturday that the war in Ukraine is stoking a global food and energy crisis which threatens poor countries. 
+ <p class="updated_time"> 02:57 AM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/14/world/europe/london-train-crossrail.html">In London, a Long-Awaited High-Tech Train Is Ready to Roll</a> NYT: The Elizabeth line, 13 years in the making, will soon uncoil under central London with cathedral-like stations and roomy cars. Its managers say it’s a testament to the power of public transportation. 
  <p class="updated_time"> 02:36 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/middleeast/mohammed-bin-zayed-elected-uae-leader.html">Mohammed Bin Zayed Becomes U.A.E. President</a> NYT: Sheikh Mohammed has used his small country’s oil wealth to exert great influence across the Middle East and in Washington. 
  <p class="updated_time"> 02:27 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099000149/ukraines-zelenskyy-defiant-as-russia-retreats-from-kharkiv">Ukraine's Zelenskyy defiant as Russia retreats from Kharkiv</a> NPR: Fresh off his country's Eurovision win, Ukrainian President Volodymyr Zelenskyy vowed to one day host the song contest in the embattled city of Mariupol, as Russian troops retreated from Kharkiv. 
+ <p class="updated_time"> 02:25 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 02:21 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/05/13/world/shireen-abu-akleh-funeral-israel">Israeli Police Attack Mourners at Palestinian Journalist’s Funeral</a> NYT: Video showed police officers in Jerusalem beating and kicking mourners next to the coffin of Shireen Abu Akleh, an Al Jazeera reporter who was killed on Wednesday, forcing one to the ground. 
  <p class="updated_time"> 02:04 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Ten dead in suspected race attack at New York state store</a> BBC: An 18-year-old is charged over the New York state attack, which is being investigated as a racial hate crime. 
- <p class="updated_time"> 01:56 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
  <p class="updated_time"> 01:51 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1098998910/north-korea-reports-15-more-suspected-covid-19-deaths">North Korea reports 15 more suspected COVID-19 deaths</a> NPR: North Korea has confirmed 15 more deaths and high numbers of fevers as it mobilizes more than a million health and other workers to try to suppress the country's first COVID-19 outbreak. 
- <p class="updated_time"> 12:56 AM CT, May. 15 </p> 
+ <p class="updated_time"> 01:25 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
- <p class="updated_time"> 11:56 PM CT, May. 14 </p> 
+ <p class="updated_time"> 12:25 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
  <p class="updated_time"> 11:30 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects Next President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
+ <p class="updated_time"> 11:25 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400">El Salvador’s President Went All In on Bitcoin. Then It Tanked.</a> WSJ: El Salvador’s President Went All In on Bitcoin. Then It Tanked. 
  <p class="updated_time"> 11:07 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61442439?at_medium=RSS&at_campaign=KARANGA">Eurovision win brings 'incredible happiness' to Ukraine</a> BBC: Public support helped push Kalush Orchestra and their song Stefania on to win with 631 points. 
  <p class="updated_time"> 10:56 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400">El Salvador’s President Went All In on Bitcoin. Then It Tanked.</a> WSJ: El Salvador’s President Went All In on Bitcoin. Then It Tanked. 
- <p class="updated_time"> 10:56 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/ukraine-putin-nato.html">For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. 
- <p class="updated_time"> 09:56 PM CT, May. 14 </p> 
+ <p class="updated_time"> 10:25 PM CT, May. 14 </p> 
  <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 09:07 PM CT, May. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61308799?at_medium=RSS&at_campaign=KARANGA">Young, Famous & African's Peace Hyde: From teacher to Netflix hitmaker</a> BBC: How Peace Hyde went from teaching science in the UK to making the first Netflix Africa reality TV series. 
+ <a href="https://www.bbc.co.uk/news/world-africa-61308799?at_medium=RSS&at_campaign=KARANGA">Young, Famous & African's Peace Hyde: From teacher to Netflix hitmaker</a> BBC: Meet Peace Hyde, the British-Ghanaian creator of reality TV series Young, Famous & African. 
  <p class="updated_time"> 09:05 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61423765?at_medium=RSS&at_campaign=KARANGA">Full lunar eclipse to bring super blood Moon</a> BBC: The Moon will slowly darken and turn red as it falls into Earth's shadow. 
  <p class="updated_time"> 09:01 PM CT, May. 14 </p> 
@@ -73,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/14/world/canada/conservatives-rallies-poilievre.html">From Streets to Rallies, Truckers and Supporters Weigh Conservative Candidates</a> NYT: In his bid for the Conservative Party leadership Pierre Poilievre is wooing supporters of the blockade that shut down Ottawa and closed border points. 
  <p class="updated_time"> 01:10 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61450694?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin warns Finland joining Nato would be 'mistake'</a> BBC: Finland and Sweden have indicated they want to become Nato members following Russia's war in Ukraine. 
- <p class="updated_time"> 12:50 PM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/2022/05/14/world/europe/london-train-crossrail.html">In London, a Long-Awaited High-Speed Train Is Ready to Roll</a> NYT: The Elizabeth line, 13 years in the making, will soon uncoil under central London with cathedral-like stations and roomy cars. Its managers say it’s a testament to the power of public transportation. 
  <p class="updated_time"> 12:26 PM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098958972/india-family-lawsuit-children">Parents sue their son and daughter-in-law, demanding a grandchild or $675,000</a> NPR: The court reportedly has accepted their petition and scheduled it for a hearing in Haridwar, India. The couple wants a grandchild within a year. 
  <p class="updated_time"> 12:22 PM CT, May. 14 </p> 
@@ -141,8 +145,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/13/1098748445/russia-ukraine-war-what-happened-today-may-13">Russia-Ukraine war: What happened today (May 13)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:40 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098865234/the-latest-from-kharkiv-where-ukrainian-forces-are-trying-to-repel-russian-troop">The latest from Kharkiv, where Ukrainian forces are trying to repel Russian troops</a> NPR: Ukrainian forces are trying to push back Russian forces from Kharkiv, a city Russia has shelled since the beginning of the war. 
- <p class="updated_time"> 03:40 PM CT, May. 13 </p> 
- <a href="https://www.npr.org/2022/05/13/1098865227/julian-fellowes-of-downton-abbey-says-misery-isnt-compulsory-in-entertainment">Julian Fellowes of 'Downton Abbey' says misery isn't 'compulsory' in entertainment</a> NPR: NPR's Mary Louise Kelly talks with Downton Abbey executive producer Julian Fellowes about the latest chapter in the Crawley family's story, Downton Abbey: A New Era. 
  <p class="updated_time"> 02:53 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/climate/domingo-morales-composting-nyc.html">The Unlikely Ascent of New York’s Compost Champion</a> NYT: An ad led to Domingo Morales falling in love with compost. A windfall is helping him spread the word. 
  <p class="updated_time"> 02:51 PM CT, May. 13 </p> 
