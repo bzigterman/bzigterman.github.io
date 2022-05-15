@@ -9,15 +9,17 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:26 PM CT, May. 15 </p> 
+ <p class="updated_time"> 12:40 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: Finland and Sweden Confirm They Will Seek NATO Membership</a> NYT: As Russia faced setbacks on the battlefield on Sunday, both Nordic nations said that they would apply for membership to the alliance. 
+ <p class="updated_time"> 12:36 PM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/world/middleeast/lebanon-election.html">After Lebanon’s Collapse, Can an Election Fix the Country?</a> NYT: On Sunday, Lebanese voters got their first chance to pass judgment on lawmakers since the economy fell apart. Few expect things to improve. 
  <p class="updated_time"> 12:20 PM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099018706/mcconnell-says-the-senate-will-pass-the-largest-ukraine-aid-package-yet-on-wedne">McConnell says the Senate will pass the largest Ukraine aid package yet on Wednesday</a> NPR: The GOP leader spoke from Stockholm following a trip to Kyiv. He backed Sweden and Finland joining NATO and pushed back on more isolationist voices in his party. 
  <p class="updated_time"> 12:05 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61456726?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Sweden and Finland confirm Nato plans</a> BBC: Traditionally both countries favour neutrality but the shift comes after Russia's war in Ukraine. 
  <p class="updated_time"> 12:00 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/pro-russian-war-bloggers-kremlin.html">Pro-Russian Bloggers React to Reported Donets Military Disaster</a> NYT: As the news of the losses at the river crossing started to spread, some Russian bloggers did not hold back in their criticism of what they said was incompetent leadership. 
- <p class="updated_time"> 11:33 AM CT, May. 15 </p> 
+ <p class="updated_time"> 12:00 PM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive 
  <p class="updated_time"> 11:31 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61438047?at_medium=RSS&at_campaign=KARANGA">Somalia's presidential election: Where just 328 people vote</a> BBC: Only MPs, voting in a heavily fortified zone, will decide on who will lead the troubled country. 
@@ -27,34 +29,34 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/15/world/europe/sweden-nato.html">Sweden’s Governing Party Says It Will Vote to Join NATO</a> NYT: The announcement was a shift for the Social Democratic Party, which has supported Swedish neutrality since before the collapse of the Soviet Union. 
  <p class="updated_time"> 11:02 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/finland-nato.html">Finland Launches Bid to Join NATO, Declaring a ‘New Era’</a> NYT: The Nordic nation would end decades of nonalignment if, as widely expected, it is admitted to the alliance. 
- <p class="updated_time"> 10:33 AM CT, May. 15 </p> 
+ <p class="updated_time"> 11:00 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 10:32 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61457622?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia's invasion not going to plan, Nato says</a> BBC: In a damning assessment of Russian efforts, Nato's secretary general says Ukraine could win the war. 
  <p class="updated_time"> 10:01 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/13/climate/domingo-morales-composting-nyc.html">The Unlikely Ascent of New York’s Compost Champion</a> NYT: An ad led to Domingo Morales falling in love with compost. A windfall is helping him spread the word. 
+ <p class="updated_time"> 10:00 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/nations-aim-to-secure-supply-chains-by-turning-offshoring-into-friend-shoring-11652612580">Nations Aim to Secure Supply Chains by Turning Offshoring Into ‘Friend-Shoring’</a> WSJ: Nations Aim to Secure Supply Chains by Turning Offshoring Into ‘Friend-Shoring’ 
  <p class="updated_time"> 09:59 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61456485?at_medium=RSS&at_campaign=KARANGA">Nigeria's Sokoto student killing sparks spread of fake news</a> BBC: The killing of a Christian woman accused of blasphemy triggers a wave of disinformation on social media. 
  <p class="updated_time"> 09:53 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html">How Australia Saved Thousands of Lives While Covid Killed a Million Americans</a> NYT: The United States and Australia share similar demographics, but their pandemic death rates point to very different cultures of trust. 
  <p class="updated_time"> 09:44 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Ten dead in racially motivated attack at New York state store</a> BBC: An 18-year-old is charged over the New York state attack, which is being investigated as a racial hate crime. 
- <p class="updated_time"> 09:33 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/nations-aim-to-secure-supply-chains-by-turning-offshoring-into-friend-shoring-11652612580">Nations Aim to Secure Supply Chains by Turning Offshoring Into ‘Friend-Shoring’</a> WSJ: Nations Aim to Secure Supply Chains by Turning Offshoring Into ‘Friend-Shoring’ 
  <p class="updated_time"> 09:28 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61454989?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: 'Bodies were everywhere'</a> BBC: Eyewitnesses describe shock and disbelief after a gunman shot 10 people dead in New York state. 
+ <p class="updated_time"> 09:00 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 08:51 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099010203/africa-is-facing-significant-fuel-shortages">Africa is facing significant fuel shortages</a> NPR: Ayesha Rascoe talks with Kinley Salmon, Africa correspondent for The Economist, about the widespread fuel shortages affecting the continent. 
  <p class="updated_time"> 08:51 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/transnistria-moldova-russia-ukraine.html">A Mini-Russia Gets Squeezed by War</a> NYT: The self-declared republic of Transnistria, on the Ukraine border, has been steered by Moscow for decades. During a rare visit, a reporter and photographer get an inside look into how it operates, and hear from Transnistrians their fears of war. 
- <p class="updated_time"> 08:33 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 08:19 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61455270?at_medium=RSS&at_campaign=KARANGA">Kenya elections 2022: William Ruto picks Rigathi Gachagua as running mate</a> BBC: William Ruto, a frontrunner in this year's presidential election, picks businessman Rigathi Gachagua. 
+ <p class="updated_time"> 08:00 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church</a> WSJ: Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church 
  <p class="updated_time"> 07:46 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099004724/ukraine-wins-eurovision-song-contest">Ukraine wins Eurovision Song Contest</a> NPR: Ukraine has won the Eurovision Song Contest, perhaps Europe's biggest musical competition. NPR's Joanna Kakissis was watching with Ukrainians in Dnipro. 
- <p class="updated_time"> 07:33 AM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church</a> WSJ: Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church 
  <p class="updated_time"> 06:58 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099004654/volunteers-in-ukraine-risk-their-lives-to-distribute-supplies-under-constant-she">Volunteers in Ukraine risk their lives to distribute supplies under constant shelling</a> NPR: In some Eastern Ukraine cities, volunteers risk their lives to deliver food and medicine to those afraid to leave their homes because of constant shelling. 
  <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
@@ -65,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/15/1099002176/mired-in-crises-lebanese-begin-voting-for-new-parliament">Mired in crises, Lebanese begin voting for new parliament</a> NPR: Lebanese voted for a new parliament Sunday against the backdrop of an economic meltdown that is transforming the country. 
  <p class="updated_time"> 04:00 AM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/shanghai-lays-out-covid-19-reopening-plan-as-china-cancels-2023-soccer-tournament-11652619639">Shanghai Lays Out Reopening Plan as China Cancels 2023 Soccer Tournament</a> WSJ: Officials in China’s financial hub outlined plans for a phased reopening of shopping malls, supermarkets and other businesses after nearly two months of a hard lockdown. 
- <p class="updated_time"> 03:10 AM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/2022/05/15/world/middleeast/lebanon-election.html">After Lebanon’s Collapse, Can an Election Fix the Country?</a> NYT: On Sunday, Lebanese voters get their first chance to pass judgment on lawmakers since the economy fell apart. Few expect things to improve. 
  <p class="updated_time"> 02:59 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099001041/g7-warn-of-ukraine-grain-crisis-ask-china-not-to-aid-russia">G7 warn of Ukraine grain crisis, ask China not to aid Russia</a> NPR: The Group of Seven leading economies warned Saturday that the war in Ukraine is stoking a global food and energy crisis which threatens poor countries. 
  <p class="updated_time"> 02:57 AM CT, May. 15 </p> 
@@ -208,14 +208,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:55 PM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/us/politics/michael-sussmann-trial-trump-russia.html">Trump-Era Prosecutor’s Case Against Democratic-Linked Lawyer Goes to Trial</a> NYT: The first case developed by the special counsel, John Durham, involves a lawyer who is accused of lying when he shared a tip with the F.B.I. about possible links between Donald J. Trump and Russia. 
+ <p class="updated_time"> 12:30 PM CT, May. 15 </p> 
+ <a href="https://www.politico.com/news/2022/05/15/buffalo-gunman-threatened-high-school-shooting-00032580">Buffalo gunman had threatened high school shooting, official says</a> Politico: Payton Gendron had been treated for mental health issues. 
  <p class="updated_time"> 12:20 PM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099018706/mcconnell-says-the-senate-will-pass-the-largest-ukraine-aid-package-yet-on-wedne">McConnell says the Senate will pass the largest Ukraine aid package yet on Wednesday</a> NPR: The GOP leader spoke from Stockholm following a trip to Kyiv. He backed Sweden and Finland joining NATO and pushed back on more isolationist voices in his party. 
+ <p class="updated_time"> 12:19 PM CT, May. 15 </p> 
+ <a href="https://www.politico.com/news/2022/05/15/manchin-sinema-sabotage-sanders-00032579">Manchin and Sinema 'sabotaged' Biden's plans, Sanders says</a> Politico: "I think pressure has got to be put on the part of people in West Virginia, in Arizona," the Vermont senator said. 
  <p class="updated_time"> 11:30 AM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/infant-formula-shortage-buttigieg-00032574">Infant formula shortage 'is very personal for us,' Buttigieg says</a> Politico: "We've got two 9-month-old children," he noted. 
  <p class="updated_time"> 11:15 AM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/mcconnell-maga-ukraine-visit-00032572">McConnell takes on MAGA with Ukraine visit</a> Politico: His support for Ukraine is putting him at odds with his party’s non-interventionist wing. 
- <p class="updated_time"> 11:00 AM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/2022/05/15/us/politics/michael-sussmann-trial-trump-russia.html">Trump-Era Prosecutor’s Case Against Democratic-Linked Lawyer Goes to Trial</a> NYT: The first case developed by the special counsel, John Durham, involves a lawyer who is accused of lying when he shared a tip with the F.B.I. about possible links between Donald J. Trump and Russia. 
  <p class="updated_time"> 10:55 AM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/pelosi-blackmail-border-pandemic-aid-00032557">Pelosi rips GOP 'blackmail' in linking border vote to pandemic aid</a> Politico: "There's no use holding it up to blackmail as the Republicans are trying to do," she said. 
  <p class="updated_time"> 10:38 AM CT, May. 15 </p> 
@@ -270,8 +274,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/14/mcconnell-republican-senators-kyiv-00032534">McConnell leads delegation of Republican senators to Kyiv</a> Politico: Ukrainian President Volodymyr Zelenskyy called the visit a powerful signal of bipartisan support for Ukraine, as well as the American people. 
  <p class="updated_time"> 07:37 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098941079/week-in-politics-the-abortion-debate-could-have-a-heavy-sway-on-midterms">Week in politics: The abortion debate could have a heavy sway on midterms</a> NPR: We look at how the fight over abortion access might turn out voters in the midterms. Also, how will the White House tackle the nation-wide shortage of baby formula? 
- <p class="updated_time"> 07:18 AM CT, May. 14 </p> 
- <a href="https://www.politico.com/news/2022/05/14/russians-withdraw-ukraine-kharkiv-00032532">Russians withdraw from Ukraine's Kharkiv, batter east</a> Politico: Ukraine’s general staff said the Russians were pulling back from the northeastern city of Kharkiv and focusing on guarding supply routes. 
  <p class="updated_time"> 06:00 AM CT, May. 14 </p> 
  <a href="https://www.politico.com/news/2022/05/14/kathy-barnette-pennsylvania-gop-primary-00032367">Senate Republicans' electability headache</a> Politico: Republicans have a problem, illustrated by the Pennsylvania Senate race: continue a lackluster record of hand picking candidates, or do nothing? 
  <p class="updated_time"> 06:00 AM CT, May. 14 </p> 
@@ -332,8 +334,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/05/12/politics/biden-infant-formula-meeting/index.html">White House struggles for answers on infant formula shortage</a> CNN: The White House is struggling to answer questions about a baby formula shortage in the United States as the scope of the crisis becomes clearer and store shelves remain bare. 
  <p class="updated_time"> 01:32 PM CT, May. 12 </p> 
  <a href="https://www.cnn.com/2022/05/12/politics/anti-abortion-groups-letter-criminalizing-women/index.html">Leading anti-abortion groups urge state lawmakers not to pass bills criminalizing women for abortions</a> CNN: Some of the largest anti-abortion organizations in the US are urging state lawmakers to reject legislation that would criminalize women for having abortions, saying "turning women who have abortions into criminals is not the way." 
- <p class="updated_time"> 01:00 PM CT, May. 12 </p> 
- <a href="https://www.politico.com/news/2022/05/12/biden-rural-aid-usda-00032084">Biden’s rural challenge: turning flood of aid into results on the ground</a> Politico: The White House is tasking the Agriculture Department with helping streamline the massive influx of cash it’s secured for rural communities. 
 
 
 </details>
