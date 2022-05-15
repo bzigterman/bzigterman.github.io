@@ -9,36 +9,52 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:41 PM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/live/2022/05/14/world/russia-ukraine-war-news">Live Updates: For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. Republican senators went to Kyiv to meet with Zelensky. 
- <p class="updated_time"> 07:36 PM CT, May. 14 </p> 
+ <p class="updated_time"> 09:51 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61452958?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Ten dead in attack at supermarket in New York state</a> BBC: The FBI is investigating the attack - which left three others injured - as a racially-motivated hate crime. 
+ <p class="updated_time"> 09:28 PM CT, May. 14 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/14/world/russia-ukraine-war-news">Live Updates: For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. Republican senators went to Kyiv to meet with Zelensky. 
+ <p class="updated_time"> 09:05 PM CT, May. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-61423765?at_medium=RSS&at_campaign=KARANGA">Full lunar eclipse to bring super blood Moon</a> BBC: The Moon will slowly darken and turn red as it falls into Earth's shadow. 
+ <p class="updated_time"> 09:01 PM CT, May. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61300308?at_medium=RSS&at_campaign=KARANGA">Nova Scotia shooting: First-hand accounts heard in probe of Canada tragedy</a> BBC: A probe into Canada's worst mass shooting has revealed new details about killer and police response. 
+ <p class="updated_time"> 08:57 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
+ <p class="updated_time"> 08:47 PM CT, May. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61450984?at_medium=RSS&at_campaign=KARANGA">Croatia abortion: Thousands protest against termination</a> BBC: A fierce debate about reproductive rights has been reignited in the strongly Catholic country. 
+ <p class="updated_time"> 08:42 PM CT, May. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61179504?at_medium=RSS&at_campaign=KARANGA">'I searched for my sister for 30 years, but Covid took her from me'</a> BBC: As a child Steve Ellis uncovered a family secret, 60 years later it led to an unexpected friendship. 
+ <p class="updated_time"> 08:35 PM CT, May. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61402309?at_medium=RSS&at_campaign=KARANGA">Afghanistan face veil decree: 'It feels like being a woman is a crime'</a> BBC: Afghan women speak out against compulsory male chaperones and new mandate to wear all-covering veils. 
+ <p class="updated_time"> 07:57 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
+ <p class="updated_time"> 07:52 PM CT, May. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61442439?at_medium=RSS&at_campaign=KARANGA">Eurovision win brings 'incredible happiness' to Ukraine</a> BBC: Public support helped push Kalush Orchestra and their song Stefania on to win with 631 points. 
+ <p class="updated_time"> 07:26 PM CT, May. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61423035?at_medium=RSS&at_campaign=KARANGA">Australia election 2022: Are Australia's refugee releases an election ploy?</a> BBC: As refugees detained for years are abruptly released, some think the upcoming election is the reason. 
  <p class="updated_time"> 07:08 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61453628?at_medium=RSS&at_campaign=KARANGA">Eurovision 2022: Highlights of Ukraine's winning night</a> BBC: Ukraine won the Eurovision song contest 2022, with the UK coming second, its best result since 1998. 
- <p class="updated_time"> 07:00 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/ukraine-launches-counteroffensive-to-disrupt-russian-supply-lines-11652531731">Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines</a> WSJ: Ukraine Launches Counteroffensive to Disrupt Russian Supply Lines 
+ <p class="updated_time"> 06:57 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
  <p class="updated_time"> 06:30 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61452678?at_medium=RSS&at_campaign=KARANGA">Eurovision 2022: Ukraine wins, while the UK's Sam Ryder comes second</a> BBC: Ukraine's Kalush Orchestra triumphs, while Sam Ryder gives the UK its best result since 1998. 
  <p class="updated_time"> 06:25 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/ukraine-putin-nato.html">For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. 
  <p class="updated_time"> 06:03 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61412333?at_medium=RSS&at_campaign=KARANGA">Fleeing Syria 10 years on: 'We cried all the way to Jordan'</a> BBC: A family looks back after a decade living in the world's largest Syrian refugee camp. 
- <p class="updated_time"> 06:00 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/israeli-police-launch-probe-into-melee-at-shireen-abu-aklehs-funeral-11652546956">Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral</a> WSJ: Israeli Police Launch Probe Into Melee at Shireen Abu Akleh’s Funeral 
+ <p class="updated_time"> 05:57 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400">El Salvador’s President Went All In on Bitcoin. Then It Tanked.</a> WSJ: El Salvador’s President Went All In on Bitcoin. Then It Tanked. 
  <p class="updated_time"> 05:29 PM CT, May. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61451922?at_medium=RSS&at_campaign=KARANGA">Roe v Wade: Thousands attend rallies in US cities to support abortion rights</a> BBC: Pro-choice supporters are concerned that the Supreme Court could overturn the legal right to abortion. 
- <p class="updated_time"> 05:00 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/rising-food-prices-roil-developing-world-11652520782">Rising Food Prices Roil Developing World</a> WSJ: Rising Food Prices Roil Developing World 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61451922?at_medium=RSS&at_campaign=KARANGA">Abortion rights rallies held around the US</a> BBC: Pro-choice supporters are concerned that the Supreme Court could overturn the legal right to abortion. 
+ <p class="updated_time"> 04:57 PM CT, May. 14 </p> 
+ <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 04:32 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/azovstal-evacuation-turkey.html">Turkey Offers to Evacuate Mariupol Fighters Despite Disagreements</a> NYT: Turkey has had a ship waiting for weeks in Istanbul to evacuate those remaining in the Azovstal steel plant, but Ukraine and Russia have not agreed to a plan, a Turkish official said. 
- <p class="updated_time"> 04:00 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/el-salvadors-president-went-all-in-on-bitcoin-then-it-tanked-11652540400">El Salvador’s President Went All In on Bitcoin. Then It Tanked.</a> WSJ: El Salvador’s President Went All In on Bitcoin. Then It Tanked. 
  <p class="updated_time"> 03:53 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/delhi-fire-india.html">New Delhi Fire Leaves Dozens Dead</a> NYT: Officials said that at least 27 people had been killed, most of them assembly line workers, and that the toll could rise. 
- <p class="updated_time"> 03:00 PM CT, May. 14 </p> 
- <a href="https://www.wsj.com/articles/u-a-e-names-mohammed-bin-zayed-as-new-leader-following-his-half-brothers-death-11652530906">U.A.E. Names Mohammed bin Zayed as New Leader</a> WSJ: U.A.E. Names Mohammed bin Zayed as New Leader 
  <p class="updated_time"> 02:48 PM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098961626/israeli-police-investigate-officers-use-of-force-at-a-veteran-journalists-funera">Israeli police investigate officers' use of force at a veteran journalist's funeral</a> NPR: U.S. Secretary of State Antony Blinken as well as the European Union and the United Nations secretary-general condemned Israeli police conduct in Jerusalem over the funeral for Abu Akleh. 
+ <p class="updated_time"> 01:49 PM CT, May. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61401556?at_medium=RSS&at_campaign=KARANGA">Her father went to prison - so she went to law school</a> BBC: Her father's incarceration on non-violent drug crimes inspired Teeanna Brisco to go to law school. 
  <p class="updated_time"> 01:27 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/india-wheat-export-ban.html">India Bans Most Wheat Exports, Adding to Fears of Global Food Insecurity</a> NYT: The ban could compound a worldwide shortfall worsened by the war in Ukraine and exacerbate an already dire forecast for global hunger. 
  <p class="updated_time"> 01:17 PM CT, May. 14 </p> 
@@ -53,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/14/1098958972/india-family-lawsuit-children">Parents sue their son and daughter-in-law, demanding a grandchild or $675,000</a> NPR: The court reportedly has accepted their petition and scheduled it for a hearing in Haridwar, India. The couple wants a grandchild within a year. 
  <p class="updated_time"> 12:22 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/arts/music/minority-languages-song-contest.html">As Eyes Are on Eurovision, Europe Has Another Song Contest</a> NYT: The Liet International, a competition for minority and regional languages, lacks the glitz of Eurovision. But its organizers say it helps keep endangered tongues alive. 
- <p class="updated_time"> 11:55 AM CT, May. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61450255?at_medium=RSS&at_campaign=KARANGA">Covid: What will the pandemic look like in North Korea?</a> BBC: North Korea is uniquely vulnerable to the virus, and the options to control its spread are limited. 
  <p class="updated_time"> 11:39 AM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61450976?at_medium=RSS&at_campaign=KARANGA">Nigeria student killing: Round-the-clock curfew in Sokoto after protests</a> BBC: Demonstrators have been demanding the release of two suspects held over the murder of a Christian student. 
  <p class="updated_time"> 10:28 AM CT, May. 14 </p> 
@@ -107,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/world/europe/putin-sanctions-girlfriend-us-russia.html">West Increases Pressure on Putin, Including Sanctions on Reputed Girlfriend</a> NYT: The Russian leader was challenged by the prospect of an enlarged NATO, plans to get Ukrainian grain exports past a Kremlin blockade, and sanctions on his purported mistress. 
  <p class="updated_time"> 07:32 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/jacinda-ardern-covid-positive.html">New Zealand’s Jacinda Ardern Tests Positive for Coronavirus</a> NYT: The prime minister’s rules kept transmission at bay for two years, and by the time the highly infectious Omicron variant hit, the vast majority of New Zealand’s population had been vaccinated. 
- <p class="updated_time"> 07:25 PM CT, May. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61437239?at_medium=RSS&at_campaign=KARANGA">East Africa drought: 'The suffering here has no equal'</a> BBC: Some 20 million people face severe hunger but aid agencies say the world's attention is on Ukraine. 
  <p class="updated_time"> 07:24 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/iran-protests-food-prices.html">Protests Triggered by Rising Food Prices Spread in Iran</a> NYT: “They have no hope, they have no trust in the government and they can’t tolerate the status quo any more,” one Iran expert said of the protesters in at least six provinces. 
  <p class="updated_time"> 07:06 PM CT, May. 13 </p> 
@@ -129,14 +141,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/13/1098865220/could-inflation-be-a-good-thing-for-governments-in-debt">Could inflation be a good thing for governments in debt?</a> NPR: For all the pain it causes, inflation makes old debts easier to pay off. A silver-lining for countries burdened by pandemic debt? Maybe. But if history is any guide, that shine may be short-lived. 
  <p class="updated_time"> 03:40 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098865213/lebanons-economic-crisis-will-be-on-voters-minds-during-parliamentary-elections">Lebanon's economic crisis will be on voters' minds during parliamentary elections</a> NPR: Lebanon is holding parliamentary elections against the backdrop of a severe economic crisis. Here's a look at what's at stake for those in power and the candidates trying to replace them. 
- <p class="updated_time"> 03:16 PM CT, May. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61442748?at_medium=RSS&at_campaign=KARANGA">Mao Zedong scroll thieves jailed in Hong Kong</a> BBC: The thieves were unaware of its value and sold it to an amateur collector for less than $25 (£20). 
  <p class="updated_time"> 02:53 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/climate/domingo-morales-composting-nyc.html">The Unlikely Ascent of New York’s Compost Champion</a> NYT: An ad led to Domingo Morales falling in love with compost. A windfall is helping him spread the word. 
  <p class="updated_time"> 02:51 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/germany-right-extremists-security-services.html">Germany Identifies Far-Right Extremists Working in Security Services</a> NYT: The report reflects an effort by the authorities to come to grips with a long-running problem following several scandals involving members of the far right. 
- <p class="updated_time"> 02:20 PM CT, May. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61417928?at_medium=RSS&at_campaign=KARANGA">Brittney Griner: US basketball star has Russian detention extended</a> BBC: Russian media says Moscow wishes to "swap" Griner for the arms trafficker Viktor Bout. 
  <p class="updated_time"> 02:12 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/asia/robredo-philippine-election.html">Robredo Admits Defeat in Philippine Presidential Election</a> NYT: Leni Robredo urged her supporters, many of them young voters, to accept her defeat but didn’t refer to Ferdinand Marcos Jr. by name. 
  <p class="updated_time"> 01:08 PM CT, May. 13 </p> 
@@ -145,14 +153,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61445446?at_medium=RSS&at_campaign=KARANGA">Violence at Al Jazeera journalist's funeral procession</a> BBC: Police with riot gear hit mourners, saying they were pelted with stones, as crowds carry her coffin. 
  <p class="updated_time"> 12:13 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/eurovision-ukraine-kalush-orchestra.html">Ukraine Is Favored to Win Eurovision as Commentator Broadcasts From Bunker</a> NYT: Ukraine’s entry is the song “Stefania,” from Kalush Orchestra, a band that blends traditional Ukrainian folk music with rap and hip-hop. 
- <p class="updated_time"> 10:57 AM CT, May. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61435153?at_medium=RSS&at_campaign=KARANGA">Kenyan fighting FGM crowned world's best nurse</a> BBC: Anna Qabale Duba says the $250,000 prize money will help expand her school for children and adults. 
  <p class="updated_time"> 10:51 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/brittney-griner-russia-detention-extended.html">Russian Court Extends Brittney Griner’s Pretrial Detention, Her Lawyer Says</a> NYT: Ms. Griner, one of the most decorated athletes in women’s basketball, has been held in custody in Russia since mid-February. 
  <p class="updated_time"> 10:40 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/business/economy/russia-shipping-sanctions.html">Russian Shipping Traffic Remains Strong as Sanctions Take Time to Bite</a> NYT: The traffic was robust in March and April, reflecting the time it takes for sanctions to come into effect and an enduring profit motive for trading Russian energy. 
- <p class="updated_time"> 10:16 AM CT, May. 13 </p> 
- <a href="https://www.bbc.co.uk/news/business-61433724?at_medium=RSS&at_campaign=KARANGA">Elon Musk puts Twitter deal on hold over fake account details</a> BBC: The billionaire wants more data on fake accounts, prompting speculation over the deal's future. 
  <p class="updated_time"> 10:09 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/climate/south-africa-floods-climate-change.html">Did Warming Play a Role in Deadly South African Floods? Yes, a Study Says.</a> NYT: Climate change sharply increased the chances of catastrophic rains in the country’s east, a team of researchers has found. 
  <p class="updated_time"> 09:38 AM CT, May. 13 </p> 
@@ -173,10 +177,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/world/europe/rand-paul-ukraine-aid.html">Rand Paul Delays $40 Billion in Aid for Ukraine</a> NYT: Mr. Paul had sought to alter the bill to include requiring that an inspector general monitor the spending. 
  <p class="updated_time"> 09:59 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/asia/north-korea-covid-deaths.html">North Korea Reports 6 Covid Deaths  and Explosive Spread</a> NYT: The country’s leader, Kim Jong-un, said 187,800 people were in quarantine, and state TV showed him wearing a mask for the first time. 
- <p class="updated_time"> 06:20 PM CT, May. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61411532?at_medium=RSS&at_campaign=KARANGA">Sri Lanka crisis: How war heroes became villains</a> BBC: The Rajapaksa brothers, hailed by many as heroes for winning the civil war, are now reviled as leaders. 
- <p class="updated_time"> 06:13 PM CT, May. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61404083?at_medium=RSS&at_campaign=KARANGA">Afghanistan pupils in fear after spate of Islamic State attacks</a> BBC: A spate of Islamic State attacks have left Afghan students in fear and test Taliban security claims. 
+ <p class="updated_time"> 06:07 PM CT, May. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/education-61396730?at_medium=RSS&at_campaign=KARANGA">The Ukrainian refugee schoolgirl learning fast in the UK</a> BBC: Ukrainian refugee Marharyta, nine, is learning English as she waits to start school in Manchester. 
  <p class="updated_time"> 05:57 PM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/americas/summit-americas-boycotts.html">Biden’s Summit of the Americas Threatened By Boycotts</a> NYT: Latin American heads of state are threatening to skip the event in Los Angeles, putting at risk the White House’s agenda in a region gripped by upheaval. 
  <p class="updated_time"> 05:31 PM CT, May. 12 </p> 
@@ -199,8 +201,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/world/europe/downing-street-covid-lockdown.html">U.K. Police Issue More Fines for Parties at Downing Street</a> NYT: Britain’s prime minister, Boris Johnson, was not among those affected, his office said, though neither it, nor the police, named those who were. 
  <p class="updated_time"> 08:31 AM CT, May. 12 </p> 
  <a href="https://www.nytimes.com/2022/05/12/world/asia/thailand-legal-weed-plant.html">Thailand Is Easing Weed Laws and Giving Away Cannabis Plants</a> NYT: The Southeast Asian country will soon allow residents to grow cannabis for medicinal use. Smoking pot recreationally still carries harsh penalties. 
- <p class="updated_time"> 08:11 AM CT, May. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61425025?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: Russian soldiers seen killing unarmed civilians</a> BBC: The incident, captured on video seen by the BBC, is being investigated as a suspected war crime. 
 
 
 </details>
@@ -208,16 +208,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:47 PM CT, May. 14 </p> 
+ <a href="https://www.nytimes.com/2022/05/14/us/abortion-rights-march.html">Thousands Gather at Marches for Abortion Rights</a> NYT: Nearly two weeks after the leak of a draft Supreme Court opinion overturning Roe v. Wade, protesters gathered in Washington, New York and other cities. 
  <p class="updated_time"> 07:28 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/us/politics/mitch-mcconnell-ukraine-visit.html">McConnell and Other Republican Senators Make Secret Visit to Ukraine</a> NYT: The visit by the Senate minority leader included a meeting with the Ukrainian president in Kyiv. 
- <p class="updated_time"> 07:16 PM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/2022/05/14/us/abortion-rights-march.html">Thousands Gather at Marches for Abortion Rights</a> NYT: Nearly two weeks after the leak of a draft Supreme Court opinion overturning Roe v. Wade, protesters gathered in Washington, New York and other cities. 
  <p class="updated_time"> 06:56 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/us/politics/fetterman-pennsylvania-democratic-primary.html">How ‘Just a Dude’ in Shorts Became a Senate Front-Runner</a> NYT: John Fetterman has used his shorts-and-hoodie image to connect with Pennsylvania voters in the Democratic Senate primary. 
  <p class="updated_time"> 04:04 PM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098969458/bans-off-our-bodies-protesters-discuss-personal-experiences-with-abortion">'Bans Off Our Bodies' protesters discuss personal experiences with abortion</a> NPR: NPR's Michel Martin speaks with two women participating in the Bans Off Our Bodies rallies today: Abigail Sweinhart and Heidi Gordon. 
  <p class="updated_time"> 03:19 PM CT, May. 14 </p> 
- <a href="https://www.politico.com/news/2022/05/14/multiple-people-shot-buffalo-new-york-supermarket-00032550">10 dead in mass shooting at supermarket, suspect arraigned</a> Politico: Authorities called the attack in a predominantly Black neighborhood a “hate crime and racially motivated violent extremism." 
+ <a href="https://www.politico.com/news/2022/05/14/multiple-people-shot-buffalo-new-york-supermarket-00032550">10 dead in Buffalo supermarket attack police call hate crime</a> Politico: Authorities called the attack in a predominantly Black neighborhood "racially motivated violent extremism." 
  <p class="updated_time"> 03:16 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/us/politics/white-house-lawyers-oversight.html">Gearing Up for G.O.P. Gains, White House Braces for Barrage of Inquiries</a> NYT: The turbulent aftermath of the Trump era is taking the possibility of a divided government to new levels of intensity, as some Republicans appear eager to target President Biden and his family. 
  <p class="updated_time"> 02:50 PM CT, May. 14 </p> 
@@ -235,7 +235,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:57 AM CT, May. 14 </p> 
  <a href="https://www.politico.com/news/2022/05/14/trump-endorses-mastriano-pennsylvania-governor-00032538">Trump endorses Mastriano for Pennsylvania governor</a> Politico: “There is no one in Pennsylvania who has done more, or fought harder, for Election Integrity than State Senator Doug Mastriano,” Trump wrote in a statement. 
  <p class="updated_time"> 08:27 AM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/2022/05/14/us/politics/trump-endorses-doug-mastriano.html">Trump Backs Doug Mastriano, a Far-Right Loyalist, to Lead Pennsylvania</a> NYT: Mr. Mastriano, who has promoted many false claims of a stolen 2020 election, was the leading Republican candidate for governor even before Donald Trump’s endorsement. 
+ <a href="https://www.nytimes.com/2022/05/14/us/politics/trump-endorses-doug-mastriano.html">Trump Endorses Doug Mastriano for Pennsylvania Governor</a> NYT: Mr. Mastriano, who has promoted many false claims of a stolen 2020 election, was the leading Republican candidate for governor even before Donald Trump’s endorsement. 
  <p class="updated_time"> 08:10 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/politics/russia-sanctions-evasion-treasury.html">Treasury Warns Foreign Banks Against Helping Russia Evade Sanctions</a> NYT: Adewale Adeyemo, the deputy Treasury secretary, met privately with international financial institutions to make clear the consequences of sanctions evasion. 
  <p class="updated_time"> 07:52 AM CT, May. 14 </p> 
@@ -289,7 +289,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:26 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098801406/white-house-baby-formula-wic-recipients">White House bolsters efforts to get baby formula into the hands of WIC recipients</a> NPR: States have been asked to increase accessibility of baby formula for recipients of the low-income program. And the Food and Drug Administration is looking at ways to make it easier to import formula. 
  <p class="updated_time"> 01:55 PM CT, May. 13 </p> 
- <a href="https://www.politico.com/news/2022/05/13/student-loan-debt-congress-biden-00032423">Senate Dems grab one last chance to push Biden on student debt</a> Politico: Majority Leader Chuck Schumer, as well as Sens. Elizabeth Warren (D-Mass.) and Raphael Warnock (D-Ga.), are seeking a meeting as soon as possible. 
+ <a href="https://www.politico.com/news/2022/05/13/student-loan-debt-congress-biden-00032423">Senate Dems grab one last chance to push Biden on student debt</a> Politico: Majority Leader Chuck Schumer, as well as Sens. Elizabeth Warren and Raphael Warnock, are seeking a meeting as soon as possible. 
  <p class="updated_time"> 12:41 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/elections/kathy-barnette-pennsylvania-senate.html">Kathy Barnette’s Star Rises in Pennsylvania Senate Race</a> NYT: Donald Trump says she can’t win in November, but Kathy Barnette is pressing toward Tuesday’s voting. “They’re coming out with long knives at this point,” she said. 
  <p class="updated_time"> 12:27 PM CT, May. 13 </p> 
@@ -335,7 +335,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:18 PM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/mccarthy-jordan-jan-6-subpoena-00032115">Jan. 6 panel subpoenas McCarthy, Jordan, three other GOP lawmakers</a> Politico: The subpoenas target some of former President Donald Trump’s closest allies in the House, demanding testimony by the last week of May. 
  <p class="updated_time"> 12:08 PM CT, May. 12 </p> 
- <a href="https://www.politico.com/news/2022/05/12/senate-vote-40b-ukraine-aid-package-00031992">Senate falters in push to pass $40B Ukraine aid</a> Politico: Sen. Rand Paul, who is demanding Congress designate a federal watchdog to track the money, blocked a speedy vote on the massive military and humanitarian aid package. 
+ <a href="https://www.politico.com/news/2022/05/12/senate-vote-40b-ukraine-aid-package-00031992">Senate hustles to pass $40B Ukraine aid package</a> Politico: Leaders still have to navigate a few hangups, including Sen. Rand Paul demanding an amendment that would designate a federal watchdog to track the money. 
  <p class="updated_time"> 09:27 AM CT, May. 12 </p> 
  <a href="https://www.politico.com/news/2022/05/12/psaki-press-secretary-job-00032045">Psaki: Threats to family were ‘most personally difficult’ part of press secretary job</a> Politico: The top White House spokesperson said “there have been cases” when she has shared information with the Secret Service. 
  <p class="updated_time"> 03:30 AM CT, May. 12 </p> 
