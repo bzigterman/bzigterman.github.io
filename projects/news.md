@@ -9,18 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:26 PM CT, May. 16 </p> 
+ <p class="updated_time"> 04:14 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/05/16/world/russia-ukraine-war-news">Ukraine Live Updates: Setbacks in East Force Russia to Scale Back Ambitions</a> NYT: Independent analysts and Ukrainian officials say Russian forces are focusing on securing a smaller portion of eastern Ukraine. As NATO holds military drills on Russia’s doorstep, the alliance is looking to fast-track admission for Finland and Sweden. 
- <p class="updated_time"> 03:21 PM CT, May. 16 </p> 
+ <p class="updated_time"> 03:55 PM CT, May. 16 </p> 
+ <a href="https://www.npr.org/2022/05/16/1099244621/international-rescue-committee-head-on-ukrainian-refugee-crisis-and-what-we-can-">International Rescue Committee head on Ukrainian refugee crisis and what we can learn</a> NPR: More people are now crossing the border into Ukraine than are fleeing the war. NPR's Ari Shapiro talks with the head of the International Rescue Committee about the Ukrainian refugee crisis. 
+ <p class="updated_time"> 03:52 PM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/16/world/europe/estonia-kallas-ukraine-russia.html">Estonia’s Tough Voice on Ukraine Urges No Compromise With Putin</a> NYT: Kaja Kallas, the prime minister, remembers the repression of life under Soviet rule and sees the same brutality in occupied Ukraine, which she believes is fighting for all of Europe. 
+ <p class="updated_time"> 03:46 PM CT, May. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61472388?at_medium=RSS&at_campaign=KARANGA">Twitter boss hits back on Musk doubts over fake accounts</a> BBC: Chief executive Parag Agrawal says the firm is confident that less than 5% of users are spam accounts. 
+ <p class="updated_time"> 03:46 PM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/16/world/europe/russia-military-ukraine.html">Russia Planned Major Military Reforms. Ukraine Shows the Result.</a> NYT: Russia wanted to build a leaner, more flexible fighting force and eliminate waste, bureaucracy and corruption. But entrenched, Soviet-era practices endure. 
+ <p class="updated_time"> 03:43 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/johnson-brexit-northern-ireland.html">Johnson’s Softer Tone on Northern Ireland Trade Rules Belies Hard-Line Plans</a> NYT: Prime Minister Boris Johnson, who traveled to Northern Ireland on Monday, also urged a power-sharing government in the wake of Sinn Fein’s victory in legislative elections. 
+ <p class="updated_time"> 03:37 PM CT, May. 16 </p> 
+ <a href="https://www.npr.org/2022/05/16/1099244565/how-a-school-in-warsaw-is-educating-kids-of-ukrainian-families-who-fled-to-polan">How a school in Warsaw is educating kids of Ukrainian families who fled to Poland</a> NPR: NPR's Ari Shapiro reports from Warsaw on how Ukrainian children are being educated in Poland. 
+ <p class="updated_time"> 03:27 PM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Gains Raise Kyiv’s War Aims</a> WSJ: Ukraine’s Military Gains Raise Kyiv’s War Aims 
  <p class="updated_time"> 03:06 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/asia/pandit-shiv-kumar-sharma-dead.html">Pandit Shiv Kumar Sharma, Master of the Santoor, Dies at 84</a> NYT: He single-handedly elevated a 100-string instrument little known outside Kashmir into a prominent component of Hindustani classical music. 
  <p class="updated_time"> 03:04 PM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099149061/ukraine-says-its-downed-200-aircraft-a-mark-of-russian-failures-in-the-sky">Ukraine says it's downed 200 aircraft, a mark of Russian failures in the sky</a> NPR: Russia was expected to dominate the skies over Ukraine. But Ukrainians are still shooting down helicopters and planes, making Russian pilots very wary about venturing into Ukrainian airspace. 
  <p class="updated_time"> 03:00 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61459023?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Gunman sought to 'continue his rampage'</a> BBC: Questions are being asked about how the suspect carried out the attack when he was known to authorities. 
- <p class="updated_time"> 02:56 PM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/world/europe/russia-military-ukraine.html">Russia Planned Major Military Reforms. Ukraine Shows the Result.</a> NYT: Russia wanted to build a leaner, more flexible fighting force and eliminate waste, bureaucracy and corruption. But entrenched, Soviet-era practices endure. 
  <p class="updated_time"> 02:42 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/asia/south-korea-tattoo-artists.html">Tattoos, Still Illegal in South Korea, Thrive Underground</a> NYT: Tattoo artists, long treated as criminals for their work, say that it is time to end the stigma against their business. 
  <p class="updated_time"> 02:41 PM CT, May. 16 </p> 
@@ -28,29 +38,25 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:29 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-military-somalia.html">Biden Approves Plan to Redeploy Several Hundred Ground Forces Into Somalia</a> NYT: The president also signed off on targeting about a dozen Shabab leaders in the war-torn country, from which Donald J. Trump largely withdrew in his final weeks in office. 
  <p class="updated_time"> 02:28 PM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Gains Raise Kyiv’s War Aims</a> WSJ: Ukraine’s Military Gains Raise Kyiv’s War Aims 
- <p class="updated_time"> 02:28 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/asia/katsumoto-saotome-dead.html">Katsumoto Saotome, Who Preserved Stories of Tokyo Firebombing, Dies at 90</a> NYT: He compiled six books of survivors’ recollections of the 1945 attack. He also founded (without government support) a memorial museum. 
+ <p class="updated_time"> 02:27 PM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/u-n-seeks-to-ease-russian-blockade-of-ukraine-grain-shipping-to-avert-food-shortages-11652717161">U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages</a> WSJ: U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages 
  <p class="updated_time"> 01:55 PM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099089642/40-years-ago-the-falkland-malvinas-war-transformed-latin-rock">40 years ago, the Falkland-Malvinas War transformed Latin rock </a> NPR: When English-language music was banned in 1982, Spanish-language groups found an opportunity. 
- <p class="updated_time"> 01:30 PM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/world/europe/estonia-kallas-ukraine-russia.html">Estonia’s Tough Voice on Ukraine Urges No Compromise With Putin</a> NYT: Kaja Kallas, the prime minister, remembers Soviet annexation and repression and sees the same brutality in occupied Ukraine, which she believes is fighting for all of Europe. 
  <p class="updated_time"> 01:29 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61467478?at_medium=RSS&at_campaign=KARANGA">Somalia: President Biden reverses Trump's withdrawal of US troops</a> BBC: It reverses a decision by his predecessor Donald Trump to withdraw some 700 troops from the country. 
  <p class="updated_time"> 01:29 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61462939?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Black Americans describe grief and fear</a> BBC: Ten people were killed in Saturday's attack - described by Buffalo's police chief as a racist hate crime. 
- <p class="updated_time"> 01:28 PM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/u-n-seeks-to-ease-russian-blockade-of-ukraine-grain-shipping-to-avert-food-shortages-11652717161">U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages</a> WSJ: U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages 
- <p class="updated_time"> 12:58 PM CT, May. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-61472388?at_medium=RSS&at_campaign=KARANGA">Twitter boss hits back on Musk doubts over fake accounts</a> BBC: Chief executive Parag Agrawal says the firm is confident that less than 5% of users are spam accounts. 
+ <p class="updated_time"> 01:27 PM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
  <p class="updated_time"> 12:35 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61463886?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: Christian leaders condemn violence at reporter's funeral</a> BBC: Christian leaders in Jerusalem accuse Israel of violating an agreement to uphold religious freedom. 
- <p class="updated_time"> 12:28 PM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
+ <p class="updated_time"> 12:27 PM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-covid-surge-accelerates-as-unvaccinated-population-keeps-working-11652710861">North Korea Covid-19 Surge Accelerates</a> WSJ: North Korea Covid-19 Surge Accelerates 
  <p class="updated_time"> 12:15 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61467766?at_medium=RSS&at_campaign=KARANGA">Johnny Depp hit me on honeymoon, says Amber Heard</a> BBC: The actress says she believes that she wouldn't have survived if their marriage had continued. 
- <p class="updated_time"> 11:28 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/north-korea-covid-surge-accelerates-as-unvaccinated-population-keeps-working-11652710861">North Korea Covid-19 Surge Accelerates</a> WSJ: North Korea Covid-19 Surge Accelerates 
+ <p class="updated_time"> 11:27 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630">​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China</a> WSJ: ​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China 
  <p class="updated_time"> 11:25 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61463800?at_medium=RSS&at_campaign=KARANGA">Greece killing: Pilot murdered Caroline Crouch, court rules</a> BBC: A helicopter pilot is found guilty of suffocating his British wife - a case that shocked Greece. 
  <p class="updated_time"> 11:18 AM CT, May. 16 </p> 
@@ -65,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61464065?at_medium=RSS&at_campaign=KARANGA">Kenya elections 2022: Raila Odinga picks Martha Karua as running mate</a> BBC: Martha Karua, a former rival who once served as justice minister, joins the ticket of ex-PM Raila Odinga. 
  <p class="updated_time"> 10:35 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/13/climate/domingo-morales-composting-nyc.html">The Unlikely Ascent of New York’s Compost Champion</a> NYT: An ad led to Domingo Morales falling in love with compost. A windfall is helping him spread the word. 
- <p class="updated_time"> 10:28 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630">​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China</a> WSJ: ​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China 
  <p class="updated_time"> 10:14 AM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-appoints-elisabeth-borne-prime-minister-11652719402">France's Macron Appoints First Woman Prime Minister in Three Decades</a> WSJ: The appointment of Élisabeth Borne is a sign that pro-business president is tacking to the left ahead of parliamentary elections in mid-June. 
  <p class="updated_time"> 09:25 AM CT, May. 16 </p> 
@@ -145,10 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/15/1099010203/africa-is-facing-significant-fuel-shortages">Africa is facing significant fuel shortages</a> NPR: Ayesha Rascoe talks with Kinley Salmon, Africa correspondent for The Economist, about the widespread fuel shortages affecting the continent. 
  <p class="updated_time"> 07:46 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099004724/ukraine-wins-eurovision-song-contest">Ukraine wins Eurovision Song Contest</a> NPR: Ukraine has won the Eurovision Song Contest, perhaps Europe's biggest musical competition. NPR's Joanna Kakissis was watching with Ukrainians in Dnipro. 
- <p class="updated_time"> 06:58 AM CT, May. 15 </p> 
- <a href="https://www.npr.org/2022/05/15/1099004654/volunteers-in-ukraine-risk-their-lives-to-distribute-supplies-under-constant-she">Volunteers in Ukraine risk their lives to distribute supplies under constant shelling</a> NPR: In some Eastern Ukraine cities, volunteers risk their lives to deliver food and medicine to those afraid to leave their homes because of constant shelling. 
- <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2022/05/15/1095875482/south-americas-traditional-cowboys-are-still-at-home-on-the-range-in-colombia">South America's traditional cowboys are still at home on the range in Colombia</a> NPR: livestock in Colombia are raised on vast, open ranges. Overseeing the herds requires the special skills of Colombian cowboys who are known as llaneros — Spanish for "plainsmen." 
  <p class="updated_time"> 02:57 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/london-train-crossrail.html">In London, a Long-Awaited High-Tech Train Is Ready to Roll</a> NYT: The Elizabeth line, 13 years in the making, will soon uncoil under central London with cathedral-like stations and roomy cars. Its managers say it’s a testament to the power of public transportation. 
  <p class="updated_time"> 10:56 PM CT, May. 14 </p> 
@@ -200,12 +200,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:25 PM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/16/us/politics/ted-budd-nc-trump.html">Ted Budd Thrives in G.O.P. Senate Race in North Carolina</a> NYT: Representative Ted Budd is proving the political potency of pairing endorsements from Donald Trump and the Club for Growth, the on-again, off-again allies. 
+ <p class="updated_time"> 04:20 PM CT, May. 16 </p> 
+ <a href="https://www.npr.org/2022/05/16/1099256713/supreme-court-sides-with-sen-ted-cruz-in-campaign-finance-case">Supreme Court sides with Sen. Ted Cruz in campaign finance case</a> NPR: At issue was a federal law that has been on the books for 20 years that barred federal candidates from raising more than $250,000 to repay loans made to their campaigns. 
+ <p class="updated_time"> 04:00 PM CT, May. 16 </p> 
+ <a href="https://www.npr.org/2022/05/16/1096943765/some-pennsylvania-lawmakers-who-helped-pass-mail-in-voting-law-now-want-it-throw">Some Pennsylvania GOP lawmakers who passed mail-in voting law now want it thrown out</a> NPR: In a key swing state, Pennsylvania's highest court is weighing a challenge to a state law that's expanded mail-in voting. The challenge was put forth in part by 11 GOP lawmakers who voted for the law. 
+ <p class="updated_time"> 03:37 PM CT, May. 16 </p> 
+ <a href="https://www.npr.org/2022/05/16/1099244579/abortion-rights-in-maine-could-be-at-risk-if-republicans-reclaim-the-state-gover">Abortion rights in Maine could be at risk if Republicans reclaim the state government</a> NPR: Former Gov. Paul LePage is in a close race with Maine's sitting governor, Democrat Janet Mills. Maine's GOP is uniting around the fall of Roe and has a motivated base. 
+ <p class="updated_time"> 03:21 PM CT, May. 16 </p> 
+ <a href="https://www.politico.com/news/2022/05/16/greenberg-set-to-be-sentenced-in-august-00032764">Sentencing for Gaetz 'wingman' delayed until August</a> Politico: Former tax collector pleaded guilty to six felony charges 
+ <p class="updated_time"> 03:14 PM CT, May. 16 </p> 
+ <a href="https://www.politico.com/news/2022/05/16/new-york-new-congressional-maps-incumbents-00032752">New York's new congressional maps would place five pairs of incumbents in the same districts</a> Politico: The maps for New York's 26 congressional districts will play an instrumental role in whether Democrats can retain control of the House in the midterm elections. 
  <p class="updated_time"> 03:05 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/fda-pfizer-booster-children.html">F.D.A. Expected to Soon Clear Pfizer Booster for Children Ages 5 to 11</a> NYT: Given that the age group has the lowest coronavirus vaccination rate of all eligible Americans, public health experts are not expecting a rush for the booster. 
+ <p class="updated_time"> 02:57 PM CT, May. 16 </p> 
+ <a href="https://www.politico.com/news/2022/05/16/trump-biden-deploy-us-troops-somalia-00032782">Reversing Trump, Biden acts to deploy U.S. troops to Somalia</a> Politico: U.S. troops will be repositioned from elsewhere in Africa to train and provide other support to Somali forces in their fight against al-Shabab. 
  <p class="updated_time"> 02:29 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-military-somalia.html">Biden Approves Plan to Redeploy Several Hundred Ground Forces Into Somalia</a> NYT: The president also signed off on targeting about a dozen Shabab leaders in the war-torn country, from which Donald J. Trump largely withdrew in his final weeks in office. 
- <p class="updated_time"> 02:06 PM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/us/politics/ted-budd-nc-trump.html">Ted Budd Thrives in G.O.P. Senate Race in North Carolina</a> NYT: Representative Ted Budd is proving the political potency of pairing endorsements from Donald Trump and the Club for Growth, the on-again, off-again allies. 
  <p class="updated_time"> 01:40 PM CT, May. 16 </p> 
  <a href="https://www.cnn.com/2022/05/15/politics/trump-endorsement-oz-cawthorn-republican-primary/index.html">Trump could be facing an endorsement waterloo this week</a> CNN: This past week, former President Donald Trump suffered his first high-profile endorsement defeat of 2022. Nebraska businessman Charles Herbster, who faced allegations of sexual misconduct by multiple women, lost the GOP nomination for governor. 
  <p class="updated_time"> 01:12 PM CT, May. 16 </p> 
@@ -215,7 +227,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:40 AM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/draft-new-new-york-congressional-lines-00032704">Draft of new New York congressional lines released by special master</a> Politico: Carnegie Mellon fellow Jonathan Cervas, the special master, is expected to finalize his maps by Friday. 
  <p class="updated_time"> 10:33 AM CT, May. 16 </p> 
- <a href="https://www.politico.com/news/2022/05/16/abortion-rights-advocates-legal-playbook-roe-00032690">A legal Wild West: Abortion rights advocates prepare playbook for life after Roe</a> Politico: Attorneys and advocates are exploring options beyond lawsuits, including using strategies once relied on by their foes. 
+ <a href="https://www.politico.com/news/2022/05/16/abortion-rights-advocates-legal-playbook-roe-00032690">What abortion rights advocates are planning if Roe falls</a> Politico: Attorneys and advocates are exploring options beyond lawsuits, including using strategies once relied on by their foes. 
  <p class="updated_time"> 10:25 AM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/supreme-court-finance-regulation-ted-cruz-00032692">Supreme Court chips away at campaign finance regulation — thanks to Ted Cruz</a> Politico: The 6-3 decision split the court cleanly along ideological lines. 
  <p class="updated_time"> 10:24 AM CT, May. 16 </p> 
@@ -252,8 +264,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/15/john-fetterman-stroke-pennsylvania-senate-00032588">Pennsylvania Senate candidate Fetterman hospitalized with stroke</a> Politico: “The doctors have assured me that I’ll be able to get back on the trail,” he said. 
  <p class="updated_time"> 02:26 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/us/politics/kathy-barnette-islam-tweets.html">Kathy Barnette Says She ‘Can’t Provide a Lot of Context’ for Her Anti-Islamic Tweets</a> NYT: Her sudden rise in the Pennsylvania Senate primary has some Republicans worried about her prospects in November. 
- <p class="updated_time"> 01:59 PM CT, May. 15 </p> 
- <a href="https://www.politico.com/news/2022/05/15/israel-journalist-shooting-al-jazeera-00032587">Independent probe points to Israeli fire in journalist death</a> Politico: Shireen Abu Akleh was shot to death last week. 
  <p class="updated_time"> 12:55 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/us/politics/michael-sussmann-trial-trump-russia.html">Trump-Era Prosecutor’s Case Against Democratic-Linked Lawyer Goes to Trial</a> NYT: The first case developed by the special counsel, John Durham, involves a lawyer who is accused of lying when he shared a tip with the F.B.I. about possible links between Donald J. Trump and Russia. 
  <p class="updated_time"> 12:20 PM CT, May. 15 </p> 
@@ -291,7 +301,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:27 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/us/politics/trump-endorses-doug-mastriano.html">Trump Endorses Doug Mastriano for Pennsylvania Governor</a> NYT: Mr. Mastriano, who has promoted many false claims of a stolen 2020 election, was the leading Republican candidate for governor even before Donald Trump’s endorsement. 
  <p class="updated_time"> 07:52 AM CT, May. 14 </p> 
- <a href="https://www.politico.com/news/2022/05/14/mcconnell-republican-senators-kyiv-00032534">McConnell leads delegation of Republican senators to Kyiv</a> Politico: Ukrainian President Volodymyr Zelenskyy called the visit a powerful signal of bipartisan support for Ukraine. 
+ <a href="https://www.politico.com/news/2022/05/14/mcconnell-republican-senators-kyiv-00032534">McConnell leads delegation of Republican senators to Kyiv</a> Politico: Ukrainian President Volodymyr Zelenskyy called the visit a powerful signal of bipartisan support for Ukraine, as well as the American people. 
  <p class="updated_time"> 07:37 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098941079/week-in-politics-the-abortion-debate-could-have-a-heavy-sway-on-midterms">Week in politics: The abortion debate could have a heavy sway on midterms</a> NPR: We look at how the fight over abortion access might turn out voters in the midterms. Also, how will the White House tackle the nation-wide shortage of baby formula? 
  <p class="updated_time"> 06:00 AM CT, May. 14 </p> 
@@ -306,12 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/us/politics/biden-police-stimulus-funds.html">Biden Calls on States to Devote Stimulus Funds to Police</a> NYT: Ahead of the midterm elections, President Biden is making a forceful push to show he is a defender of law enforcement. 
  <p class="updated_time"> 06:48 PM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/13/tech-groups-ask-justice-alito-to-stay-texas-social-media-law-00032496">Tech groups ask Justice Alito to stay Texas social media law</a> Politico: Alito has the option to issue an emergency stay unilaterally, or to refer the matter to the full court. 
- <p class="updated_time"> 04:25 PM CT, May. 13 </p> 
- <a href="https://www.npr.org/2022/05/13/1098865276/if-roe-is-overturned-attorneys-general-will-have-to-interpret-state-abortion-law">Attorneys general and prosecutors scramble to figure out what comes next if Roe falls</a> NPR: Considering that the U.S. Supreme Court could overturn Roe v. Wade, there are a lot of questions about how — and whether — states and jurisdictions would enforce strict abortion laws. 
- <p class="updated_time"> 04:04 PM CT, May. 13 </p> 
- <a href="https://www.npr.org/2022/05/13/1098865241/texas-gov-abbots-migration-crackdown-hasnt-exactly-gone-as-he-planned">Texas Gov. Abbott's migration crackdown hasn't exactly gone as he planned</a> NPR: Texas Gov. Greg Abbott, a Republican, has been testing the limits of how much his state can do to curb unauthorized migration. But Abbott's sweeping crackdown hasn't always gone as planned. 
- <p class="updated_time"> 03:53 PM CT, May. 13 </p> 
- <a href="https://www.npr.org/2022/05/13/1098748445/russia-ukraine-war-what-happened-today-may-13">Russia-Ukraine war: What happened today (May 13)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
 
 
 </details>
