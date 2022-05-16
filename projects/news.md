@@ -9,11 +9,13 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:29 AM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/16/world/russia-ukraine-war-news">Ukraine Live Updates: Setbacks in East Force Russia to Scale Back Ambitions</a> NYT: Independent analysts and Ukrainian officials say Russian forces are focusing on securing a smaller portion of eastern Ukraine. NATO plans to fast track the process to admit Sweden and Finland. 
  <p class="updated_time"> 04:45 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61465119?at_medium=RSS&at_campaign=KARANGA">Ukraine Eurovision win: Presenter hosting from bunker jumps for joy</a> BBC: Timur Miroshnychenko tells BBC Breakfast he hopes the country will be able to host next year. 
  <p class="updated_time"> 04:39 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61436270?at_medium=RSS&at_campaign=KARANGA">North Korea: More than a million Covid cases feared</a> BBC: The military has been ordered to intervene as a wave of Covid cases sweeps the unvaccinated country. 
- <p class="updated_time"> 04:00 AM CT, May. 16 </p> 
+ <p class="updated_time"> 04:35 AM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive 
  <p class="updated_time"> 04:00 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/travel/comcaac-seri-people-mexico.html">An Intimate Look at Mexico’s Indigenous Seri People</a> NYT: The identity of the Seri is integrally tied to their natural environment, which in recent years has been susceptible to an increasing number of existential threats. 
@@ -21,23 +23,25 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/16/world/middleeast/russia-gas-ukraine-qatar.html">The War in Ukraine Could Empower Qatar</a> NYT: As the United States and Europe seek to deprive Russia of its oil and gas income, their leaders hope Qatar can help fill the void. 
  <p class="updated_time"> 04:00 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/treasury-yellen-europe-global-tax.html">Treasury Secretary Yellen Looks to Get Global Tax Deal Back on Track</a> NYT: The Treasury secretary is traveling to Warsaw, Brussels and Bonn, Germany, this week at an uncertain time for the global economy. 
+ <p class="updated_time"> 03:35 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 03:32 AM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099069917/u-n-secretary-general-calls-buffalo-shooting-vile-act-of-racist-extremism">U.N. secretary-general calls Buffalo shooting 'vile act of racist extremism'</a> NPR: António Guterres also extended condolences to the families of the 10 people who were killed in the shooting. 
- <p class="updated_time"> 03:00 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
- <p class="updated_time"> 02:57 AM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">What Happened on Day 81 of the War in Ukraine</a> NYT: Senator Mitch McConnell said he would support a Biden administration move to designate Russia a state sponsor of terrorism. 
+ <p class="updated_time"> 02:35 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 02:03 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61459023?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Gunman deliberately sought black victims - mayor</a> BBC: Questions are being asked about how the suspect carried out the attack when he was known to authorities. 
- <p class="updated_time"> 02:00 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
+ <p class="updated_time"> 01:35 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/somalias-parliament-meets-to-choose-president-in-delayed-election-11652640465">Somalia’s Parliament Picks Hassan Sheikh Mohamud as President</a> WSJ: Somalia’s Parliament Picks Hassan Sheikh Mohamud as President 
  <p class="updated_time"> 01:23 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/australia/cobargo-bushfires-election.html">How the Long Recovery From Bush Fires Could Decide Australia’s Election</a> NYT: The fires that tore through the country in late 2019 and early 2020 are history, but halting recovery efforts have kept memories vivid and anger fresh. 
- <p class="updated_time"> 01:00 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/somalias-parliament-meets-to-choose-president-in-delayed-election-11652640465">Somalia’s Parliament Picks Hassan Sheikh Mohamud as President</a> WSJ: Somalia’s Parliament Picks Hassan Sheikh Mohamud as President 
+ <p class="updated_time"> 01:08 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine's Military Regains Ground in Northeast, Targets Another Russian River Crossing</a> WSJ: Kharkiv’s regional governor said that even as Ukraine wins back territory seized by Russia in recent months, the situation across the region remains extremely volatile. 
+ <p class="updated_time"> 12:55 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/eu-sees-economic-contraction-if-russian-gas-supplies-are-halted-11652694905">EU Sees Economic Contraction if Russian Gas Supplies Are Halted</a> WSJ: Even without a disruption to energy supplies, the bloc expects 2022 to be a tough year for households, which face a big drop in real incomes. 
  <p class="updated_time"> 12:38 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/nato-putin-sweden-finland.html">In Rebirth for NATO, Europe Unites in Face of Putin’s Ambition</a> NYT: Sweden’s and Finland’s embrace of NATO after decades of neutrality is a clear statement that Russia’s invasion of Ukraine has ended an era of European illusions about Moscow. 
- <p class="updated_time"> 12:00 AM CT, May. 16 </p> 
+ <p class="updated_time"> 12:35 AM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of ‘Stubborn About Justice’ Cardinal Zen Divides Hong Kong’s Catholics</a> WSJ: Arrest of ‘Stubborn About Justice’ Cardinal Zen Divides Hong Kong’s Catholics 
  <p class="updated_time"> 11:51 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61461099?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: China unemployment rate near pandemic peak</a> BBC: Evidence of China's economic slowdown came as authorities unveiled plans to lift Shanghai's lockdown. 
@@ -193,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/climate/south-africa-floods-climate-change.html">Did Warming Play a Role in Deadly South African Floods? Yes, a Study Says.</a> NYT: Climate change sharply increased the chances of catastrophic rains in the country’s east, a team of researchers has found. 
  <p class="updated_time"> 09:20 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/ukraine-war-crime-trial-russian-soldier.html">Ukraine Begins Trial of Russian Soldier Accused of a War Crime</a> NYT: Sgt. Vadim Shysimarin is accused of shooting a 62-year-old man on a bicycle in a village in the Sumy region, about 200 miles east of Kyiv. 
- <p class="updated_time"> 05:30 AM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/13/world/asia/south-korea-cameras-ghost-surgery.html">In South Korea, ‘Ghost Surgeries’ Lead to Cameras in Hospitals</a> NYT: After scandals in which doctors let unsupervised assistants operate on patients, the country is becoming one of the first to require cameras in operating rooms. 
 
 
 </details>
@@ -207,11 +209,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/treasury-yellen-europe-global-tax.html">Treasury Secretary Yellen Looks to Get Global Tax Deal Back on Track</a> NYT: The Treasury secretary is traveling to Warsaw, Brussels and Bonn, Germany, this week at an uncertain time for the global economy. 
  <p class="updated_time"> 03:31 AM CT, May. 16 </p> 
- <a href="https://www.politico.com/news/2022/05/16/democrats-moderate-progressive-super-pacs-00032610">Democrats’ moderate vs. progressive brawls draw record cash in primaries</a> Politico: Megadonors, super PACs and activist groups are pouring record money into House Democratic primaries, trying to chart the future of the party. 
+ <a href="https://www.politico.com/news/2022/05/16/democrats-moderate-progressive-super-pacs-00032610">Where megadonors are spending big money to shape the Democratic Party’s future</a> Politico: Megadonors, super PACs and activist groups are pouring record money into House Democratic primaries, trying to chart the future of the party. 
  <p class="updated_time"> 03:30 AM CT, May. 16 </p> 
- <a href="https://www.politico.com/news/2022/05/16/mike-pence-2024-presidential-race-00032573">How Mike Pence climbed back into the 2024 race</a> Politico: Nearly a year after he was booed and jeered as a “traitor” at a Florida event, the former veep's tightly scripted comeback is showing returns. 
+ <a href="https://www.politico.com/news/2022/05/16/mike-pence-2024-presidential-race-00032573">Pence returns from the GOP dead</a> Politico: Nearly a year after he was booed and jeered as a “traitor” at a Florida event, the former veep's tightly scripted comeback is showing returns. 
  <p class="updated_time"> 03:30 AM CT, May. 16 </p> 
- <a href="https://www.politico.com/news/2022/05/16/nancy-mace-gop-problems-00032543">Nancy Mace tests her place in the GOP</a> Politico: From her handling of Donald Trump to the management of her office, the South Carolina Republican has struggled to find her footing in Washington. 
+ <a href="https://www.politico.com/news/2022/05/16/nancy-mace-gop-problems-00032543">Nancy Mace wobbles on the Trump tightrope</a> Politico: From her handling of the former president to the management of her office, the South Carolina Republican has struggled to find her footing in Washington. 
  <p class="updated_time"> 03:30 AM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/nato-general-european-command-ukraine-00032593">From worms to war: The unlikely beginnings of NATO’s next top general</a> Politico: As war in Ukraine rages, Gen. Christopher Cavoli has been nominated to become supreme allied commander for Europe. 
  <p class="updated_time"> 02:00 AM CT, May. 16 </p> 
@@ -231,7 +233,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:31 PM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/church-shooting-california-00032598">California churchgoers detained gunman in deadly attack</a> Politico: One person died in the attack at the church in Laguna Woods. 
  <p class="updated_time"> 05:03 PM CT, May. 15 </p> 
- <a href="https://www.politico.com/news/2022/05/15/biden-midterms-less-bipartisanship-00032585">Biden's new recipe for the midterms: Less honey, more vinegar</a> Politico: Among his inner circle, there has been a hankering for sharper elbows. 
+ <a href="https://www.politico.com/news/2022/05/15/biden-midterms-less-bipartisanship-00032585">Biden starts conceding that the bygone era of D.C. may, indeed, be gone</a> Politico: Among his inner circle, there has been a hankering for sharper elbows. 
  <p class="updated_time"> 03:05 PM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/john-fetterman-stroke-pennsylvania-senate-00032588">Pennsylvania Senate candidate Fetterman hospitalized with stroke</a> Politico: “The doctors have assured me that I’ll be able to get back on the trail,” he said. 
  <p class="updated_time"> 02:26 PM CT, May. 15 </p> 
@@ -278,8 +280,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/14/1098952510/abortion-roe-v-wade-reproductive-rights-rally-bans-off-our-bodies">Reproductive rights supporters rally across the country</a> NPR: Thousands of reproductive rights supporters are gathering Saturday at rallies across the country in protest of the Supreme Court draft opinion that would overturn Roe v. Wade. 
  <p class="updated_time"> 11:00 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098509015/as-the-future-of-roe-v-wade-hangs-in-limbo-what-questions-do-you-have-for-expert">As the future of Roe v. Wade hangs in limbo, what questions do you have for experts?</a> NPR: A leaked draft opinion suggests the U.S. Supreme Court is poised to overturn Roe v. Wade. NPR wants to know what questions you may have for experts about abortion access and reproductive rights. 
- <p class="updated_time"> 10:55 AM CT, May. 14 </p> 
- <a href="https://www.politico.com/news/2022/05/14/inside-the-forecast-important-primary-night-00032541">Inside the Forecast: Welcome to the year's most important primary night</a> Politico: POLITICO’s Steve Shepard demystifies this week’s election data in a video series. 
  <p class="updated_time"> 10:05 AM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098948488/ukraine-mcconnell-zelenskyy-senate-delegation">McConnell heads to Kyiv and becomes the latest U.S. official to meet with Zelenskyy</a> NPR: Ukrainian President Volodymyr Zelenskyy called the visit a signal of bipartisan support from the U.S. Congress. The meeting took place as Ukraine said it had forced Russian troops away from Kharkiv. 
  <p class="updated_time"> 08:57 AM CT, May. 14 </p> 
