@@ -922,9 +922,9 @@ html {
 <td class="gt_row gt_right">6K</td>
 <td class="gt_row gt_right">+62%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">498</td>
-<td class="gt_row gt_right gt_striped">663</td>
-<td class="gt_row gt_right gt_striped">+33%</td></tr>
+<td class="gt_row gt_right gt_striped">518</td>
+<td class="gt_row gt_right gt_striped">637</td>
+<td class="gt_row gt_right gt_striped">+23%</td></tr>
     <tr><td class="gt_row gt_left">Average New Deaths</td>
 <td class="gt_row gt_right">5</td>
 <td class="gt_row gt_right">7</td>
@@ -936,7 +936,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Sunday</td>
     </tr>
   </tfoot>
   
