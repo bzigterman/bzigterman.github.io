@@ -9,40 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:41 PM CT, May. 15 </p> 
+ <p class="updated_time"> 07:37 PM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects New President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
+ <p class="updated_time"> 07:30 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: Finland and Sweden Confirm They Will Seek NATO Membership</a> NYT: As Russia faced setbacks on the battlefield on Sunday, both Nordic nations said that they would apply for membership to the alliance. 
+ <p class="updated_time"> 07:09 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive 
  <p class="updated_time"> 06:28 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61442387?at_medium=RSS&at_campaign=KARANGA">Ukraine: The children's camp that became an execution ground</a> BBC: The BBC's Sarah Rainsford investigates the killing of civilians in a summer camp in Bucha, Ukraine. 
- <p class="updated_time"> 05:53 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive 
+ <p class="updated_time"> 06:09 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 05:41 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/germany-elections-scholz.html">German Conservatives Win State Election in Setback for Scholz</a> NYT: Chancellor Olaf Scholz’s Social Democrats scored record-low votes in the first major electoral test he has faced since taking office. 
  <p class="updated_time"> 05:37 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61438047?at_medium=RSS&at_campaign=KARANGA">Somalia's new president elected by 327 people</a> BBC: Former leader Hassan Sheikh Mohamud defeats the incumbent in a vote limited to MPs. 
- <p class="updated_time"> 05:05 PM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects New President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
- <p class="updated_time"> 04:53 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
+ <p class="updated_time"> 05:09 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 04:38 PM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099029001/a-wwii-veteran-meets-the-man-who-found-and-returned-his-long-lost-bracelet">A WWII veteran meets the man who found and returned his long-lost bracelet</a> NPR: A Czech hobbyist who returned a Colorado veteran's bracelet he found at a former World War II prisoner of war camp finally got to meet the veteran, traveling halfway around the world to do so. 
  <p class="updated_time"> 04:38 PM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099028987/the-war-has-worsened-disparities-for-women-in-ukraine">The war has worsened disparities for women in Ukraine</a> NPR: Ukrainian feminists say their country came a long way, legally and culturally, in the past decade. Now advocates are trying to address sexual assault, economic hardship and other effects of the war. 
+ <p class="updated_time"> 04:09 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/somalias-parliament-meets-to-choose-president-in-delayed-election-11652640465">Somalia’s Parliament Picks Hassan Sheikh Mohamud as President</a> WSJ: Somalia’s Parliament Picks Hassan Sheikh Mohamud as President 
  <p class="updated_time"> 03:54 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61459023?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Gunman deliberately sought black victims - mayor</a> BBC: Questions are being asked about how the suspect carried out the attack when he was known to authorities. 
- <p class="updated_time"> 03:53 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
- <p class="updated_time"> 02:53 PM CT, May. 15 </p> 
+ <p class="updated_time"> 03:09 PM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church</a> WSJ: Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church 
- <p class="updated_time"> 02:43 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/somalias-parliament-meets-to-choose-president-in-delayed-election-11652640465">Somalia's Parliament Picks Hassan Sheikh Mohamud as President</a> WSJ: Somalia’s lawmakers voted to bring back a former leader, Hassan Sheikh Mohamud, and oust President Mohamed Abdullahi Mohamed, whose attempts to delay elections and remain in office beyond his term alienated the U.S. and other Western countries. 
  <p class="updated_time"> 02:21 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61460378?at_medium=RSS&at_campaign=KARANGA">EasyJet offers £1,000 bonus as airlines battle to recruit staff</a> BBC: The airline will offer new and existing cabin crew the bonus, as carriers seek to retain and recruit workers. 
  <p class="updated_time"> 02:21 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/asia/katsumoto-saotome-dead.html">Katsumoto Saotome, Who Preserved Stories of Tokyo Firebombing, Dies at 90</a> NYT: He compiled six books of survivors’ recollections of the 1945 attack. He also founded (without government support) a memorial museum. 
  <p class="updated_time"> 02:16 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/pro-russian-war-bloggers-kremlin.html">Pro-Russian Bloggers React to Reported Donets Military Disaster</a> NYT: As the news of the losses at the river crossing started to spread, some Russian bloggers did not hold back in their criticism of what they said was incompetent leadership. 
- <p class="updated_time"> 01:53 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/shanghai-lays-out-covid-19-reopening-plan-as-china-cancels-2023-soccer-tournament-11652619639">Shanghai Lays Out Reopening Plan as China Cancels 2023 Soccer Tournament</a> WSJ: Shanghai Lays Out Reopening Plan as China Cancels 2023 Soccer Tournament 
  <p class="updated_time"> 01:48 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/sweden-nato.html">Sweden’s Governing Party Says It Will Vote to Join NATO</a> NYT: The announcement was a shift for the Social Democratic Party, which has supported Swedish neutrality since before the collapse of the Soviet Union. 
  <p class="updated_time"> 12:36 PM CT, May. 15 </p> 
@@ -81,6 +79,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/15/1099003708/ukraine-war-finland-sweden-nato">Finland and Sweden announce they want to join NATO, marking a big blow to Putin </a> NPR: Finland changed its policy toward the military alliance after troops invaded Ukraine. Sweden has avoided all military alliances, but like Finland, has also grown closer and closer to NATO over time. 
  <p class="updated_time"> 04:34 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099002176/mired-in-crises-lebanese-begin-voting-for-new-parliament">Mired in crises, Lebanese begin voting for new parliament</a> NPR: Lebanese voted for a new parliament Sunday against the backdrop of an economic meltdown that is transforming the country. 
+ <p class="updated_time"> 04:00 AM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-lays-out-covid-19-reopening-plan-as-china-cancels-2023-soccer-tournament-11652619639">Shanghai Lays Out Reopening Plan as China Cancels 2023 Soccer Tournament</a> WSJ: Officials in China’s financial hub outlined plans for a phased reopening of shopping malls, supermarkets and other businesses after nearly two months of a hard lockdown. 
  <p class="updated_time"> 02:59 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099001041/g7-warn-of-ukraine-grain-crisis-ask-china-not-to-aid-russia">G7 warn of Ukraine grain crisis, ask China not to aid Russia</a> NPR: The Group of Seven leading economies warned Saturday that the war in Ukraine is stoking a global food and energy crisis which threatens poor countries. 
  <p class="updated_time"> 02:57 AM CT, May. 15 </p> 
@@ -205,7 +205,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:45 PM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/biden-travel-buffalo-shooting-00032608">Biden to travel to Buffalo</a> Politico: He is headed to the site of the mass shooting Tuesday. 
  <p class="updated_time"> 05:31 PM CT, May. 15 </p> 
- <a href="https://www.politico.com/news/2022/05/15/church-shooting-california-00032598">Multiple people shot at California church; 1 dead</a> Politico: One person was detained, police said. 
+ <a href="https://www.politico.com/news/2022/05/15/church-shooting-california-00032598">California churchgoers detained gunman in deadly attack</a> Politico: One person died in the attack at the church in Laguna Woods. 
  <p class="updated_time"> 05:03 PM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/biden-midterms-less-bipartisanship-00032585">Biden's new recipe for the midterms: Less honey, more vinegar</a> Politico: Among his inner circle, there has been a hankering for sharper elbows. 
  <p class="updated_time"> 04:06 PM CT, May. 15 </p> 
