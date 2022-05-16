@@ -9,36 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:23 AM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/16/world/australia/cobargo-bushfires-election.html">How the Long Recovery From Bush Fires Could Decide Australia’s Election</a> NYT: The fires that tore through the country in late 2019 and early 2020 are history, but halting recovery efforts have kept memories vivid and anger fresh. 
  <p class="updated_time"> 12:57 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">What Happened on Day 81 of the War in Ukraine</a> NYT: Senator Mitch McConnell said he would support a Biden administration move to designate Russia a state sponsor of terrorism. 
- <p class="updated_time"> 12:44 AM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/world/australia/cobargo-bushfires-election.html">A Path of Destruction and Its Political Aftermath</a> NYT: The fires that tore through Australia in late 2019 and early 2020 are history, but halting recovery efforts have kept memories vivid and anger fresh as an election approaches. 
  <p class="updated_time"> 12:38 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/nato-putin-sweden-finland.html">In Rebirth for NATO, Europe Unites in Face of Putin’s Ambition</a> NYT: Sweden’s and Finland’s embrace of NATO after decades of neutrality is a clear statement that Russia’s invasion of Ukraine has ended an era of European illusions about Moscow. 
- <p class="updated_time"> 11:59 PM CT, May. 15 </p> 
+ <p class="updated_time"> 12:37 AM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive 
  <p class="updated_time"> 11:51 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61461099?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: China unemployment rate near pandemic peak</a> BBC: Evidence of China's economic slowdown came as authorities unveiled plans to lift Shanghai's lockdown. 
+ <p class="updated_time"> 11:37 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 11:27 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-61461082?at_medium=RSS&at_campaign=KARANGA">Full lunar eclipse creates rare super blood Moon</a> BBC: Its hue was created by sunlight being projected through the Earth's atmosphere onto the Moon. 
  <p class="updated_time"> 11:03 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61436270?at_medium=RSS&at_campaign=KARANGA">North Korea: More than a million Covid cases feared</a> BBC: The military has been ordered to intervene as a wave of Covid cases sweeps the unvaccinated country. 
- <p class="updated_time"> 10:59 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 10:57 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/transnistria-moldova-russia-ukraine.html">A Mini-Russia Gets Squeezed by War</a> NYT: The self-declared republic of Transnistria, on the Ukraine border, has been steered by Moscow for decades. During a rare visit, a reporter and photographer get an inside look into how it operates, and hear from Transnistrians their fears of war. 
- <p class="updated_time"> 09:59 PM CT, May. 15 </p> 
+ <p class="updated_time"> 10:37 PM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
+ <p class="updated_time"> 09:37 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/somalias-parliament-meets-to-choose-president-in-delayed-election-11652640465">Somalia’s Parliament Picks Hassan Sheikh Mohamud as President</a> WSJ: Somalia’s Parliament Picks Hassan Sheikh Mohamud as President 
  <p class="updated_time"> 09:27 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/asia/pandit-shiv-kumar-sharma-dead.html">Pandit Shiv Kumar Sharma, Master of the Santoor, Dies at 84</a> NYT: He single-handedly elevated a 100-string instrument little known outside Kashmir into a prominent component of Hindustani classical music. 
  <p class="updated_time"> 09:23 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/14/arts/music/minority-languages-song-contest.html">As Eyes Are on Eurovision, Europe Has Another Song Contest</a> NYT: The Liet International, a competition for minority and regional languages, lacks the glitz of Eurovision. But its organizers say it helps keep endangered tongues alive. 
- <p class="updated_time"> 08:59 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/somalias-parliament-meets-to-choose-president-in-delayed-election-11652640465">Somalia’s Parliament Picks Hassan Sheikh Mohamud as President</a> WSJ: Somalia’s Parliament Picks Hassan Sheikh Mohamud as President 
+ <p class="updated_time"> 08:37 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of ‘Stubborn About Justice’ Cardinal Zen Divides Hong Kong’s Catholics</a> WSJ: Arrest of ‘Stubborn About Justice’ Cardinal Zen Divides Hong Kong’s Catholics 
  <p class="updated_time"> 08:10 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61459023?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Gunman deliberately sought black victims - mayor</a> BBC: Questions are being asked about how the suspect carried out the attack when he was known to authorities. 
- <p class="updated_time"> 07:59 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of ‘Stubborn About Justice’ Cardinal Zen Divides Hong Kong’s Catholics</a> WSJ: Arrest of ‘Stubborn About Justice’ Cardinal Zen Divides Hong Kong’s Catholics 
  <p class="updated_time"> 07:37 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects New President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
  <p class="updated_time"> 06:28 PM CT, May. 15 </p> 
@@ -200,7 +200,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:59 AM CT, May. 16 </p> 
+ <p class="updated_time"> 01:08 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/senator-chris-van-hollen-stroke.html">Chris Van Hollen, Democratic Senator, Suffers ‘Minor Stroke’</a> NYT: Chris Van Hollen, a Democrat, said in a statement that there were “no long-term effects or damage,” but that he would be under observation for a few days. 
  <p class="updated_time"> 11:06 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/us/politics/john-fetterman-stroke.html">John Fetterman Recovering After Stroke Before His Senate Primary</a> NYT: John Fetterman, the Pennsylvania lieutenant governor who is running for the state’s Democratic Senate nomination, canceled events on Friday, Saturday and Sunday. 
@@ -263,7 +263,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:04 PM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098969458/bans-off-our-bodies-protesters-discuss-personal-experiences-with-abortion">'Bans Off Our Bodies' protesters discuss personal experiences with abortion</a> NPR: NPR's Michel Martin speaks with two women participating in the Bans Off Our Bodies rallies today: Abigail Sweinhart and Heidi Gordon. 
  <p class="updated_time"> 03:16 PM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/2022/05/14/us/politics/white-house-lawyers-oversight.html">Gearing Up for G.O.P. Gains in Midterms, White House Braces for Barrage of Inquiries</a> NYT: The turbulent aftermath of the Trump era is taking the possibility of a divided government to new levels of intensity, as some Republicans appear eager to target President Biden and his family. 
+ <a href="https://www.nytimes.com/2022/05/14/us/politics/white-house-lawyers-oversight.html">Gearing Up for G.O.P. Gains, White House Braces for Barrage of Inquiries</a> NYT: The turbulent aftermath of the Trump era is taking the possibility of a divided government to new levels of intensity, as some Republicans appear eager to target President Biden and his family. 
  <p class="updated_time"> 12:19 PM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098952510/abortion-roe-v-wade-reproductive-rights-rally-bans-off-our-bodies">Reproductive rights supporters rally across the country</a> NPR: Thousands of reproductive rights supporters are gathering Saturday at rallies across the country in protest of the Supreme Court draft opinion that would overturn Roe v. Wade. 
  <p class="updated_time"> 11:00 AM CT, May. 14 </p> 
