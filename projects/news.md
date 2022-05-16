@@ -9,54 +9,60 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:14 PM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/16/world/russia-ukraine-war-news">Ukraine Live Updates: Setbacks in East Force Russia to Scale Back Ambitions</a> NYT: Independent analysts and Ukrainian officials say Russian forces are focusing on securing a smaller portion of eastern Ukraine. As NATO holds military drills on Russia’s doorstep, the alliance is looking to fast-track admission for Finland and Sweden. 
+ <p class="updated_time"> 12:03 PM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-military-somalia.html">Biden Approves Plan to Redeploy Several Hundred Ground Forces Into Somalia</a> NYT: The president also signed off on targeting about a dozen Shabab leaders in the war-torn country, from which Donald J. Trump largely withdrew in his final weeks in office. 
+ <p class="updated_time"> 11:31 AM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/16/world/europe/macron-prime-minister.html">Taking Aim at Left-Leaning Voters, Macron Names Élisabeth Borne as Prime Minister</a> NYT: Élisabeth Borne, the minister of labor who previously was in charge of the environment, will be the second woman to hold the post in France. 
+ <p class="updated_time"> 11:25 AM CT, May. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61463800?at_medium=RSS&at_campaign=KARANGA">Greece killing: Pilot murdered Caroline Crouch, court rules</a> BBC: A helicopter pilot is found guilty of suffocating his British wife - a case that shocked Greece. 
+ <p class="updated_time"> 11:19 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Regains Ground in Northeast</a> WSJ: Ukraine’s Military Regains Ground in Northeast 
+ <p class="updated_time"> 11:18 AM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/14/world/middleeast/mohammed-bin-zayed-elected-uae-leader.html">Mohammed Bin Zayed Becomes U.A.E. President</a> NYT: Sheikh Mohammed has used his small country’s oil wealth to exert great influence across the Middle East and in Washington. 
+ <p class="updated_time"> 11:11 AM CT, May. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61463876?at_medium=RSS&at_campaign=KARANGA">McDonald's to leave Russia for good after 30 years</a> BBC: The chain opened in Moscow in 1990 as the Soviet Union was opening its economy to Western brands. 
+ <p class="updated_time"> 11:11 AM CT, May. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61459023?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Gunman sought to 'continue his rampage'</a> BBC: Questions are being asked about how the suspect carried out the attack when he was known to authorities. 
  <p class="updated_time"> 11:09 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/robert-c-mcfarlane-dead.html">Robert C. McFarlane, Top Reagan Aide in Iran-Contra Affair, Dies at 84</a> NYT: As national security adviser, he pleaded guilty in an illegal scheme to aid Nicaraguan rebels in the 1980s. Guilt-ridden, he attempted suicide. 
  <p class="updated_time"> 11:07 AM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/05/16/world/russia-ukraine-war-news">Ukraine Live Updates: Setbacks in East Force Russia to Scale Back Ambitions</a> NYT: Independent analysts and Ukrainian officials say Russian forces are focusing on securing a smaller portion of eastern Ukraine. As NATO holds military drills on Russia’s doorstep, the alliance is looking to fast-track admission for Finland and Sweden. 
- <p class="updated_time"> 11:00 AM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-military-somalia.html">Biden Approves Plan to Redeploy Several Hundred Ground Forces Into Somalia</a> NYT: The president also signed off on targeting about a dozen Shabab leaders in the war-torn country, from which Donald J. Trump largely withdrew in his final weeks in office. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61464104?at_medium=RSS&at_campaign=KARANGA">Nato begins its military exercises in Baltics</a> BBC: The alliance begins one of its largest military exercises, as Finland and Sweden seek to join. 
  <p class="updated_time"> 10:58 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61464065?at_medium=RSS&at_campaign=KARANGA">Kenya elections 2022: Raila Odinga picks Martha Karua as running mate</a> BBC: Martha Karua, a former rival who once served as justice minister, joins the ticket of ex-PM Raila Odinga. 
  <p class="updated_time"> 10:50 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61467766?at_medium=RSS&at_campaign=KARANGA">Johnny Depp hit me on honeymoon, says Amber Heard</a> BBC: The actress has testified against her ex-husband as his lawyers were due to cross-examine her. 
  <p class="updated_time"> 10:35 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/13/climate/domingo-morales-composting-nyc.html">The Unlikely Ascent of New York’s Compost Champion</a> NYT: An ad led to Domingo Morales falling in love with compost. A windfall is helping him spread the word. 
- <p class="updated_time"> 10:25 AM CT, May. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-61463876?at_medium=RSS&at_campaign=KARANGA">McDonald's to leave Russia for good after 30 years</a> BBC: The chain opened in Moscow in 1990 as the Soviet Union was opening its economy to Western brands. 
- <p class="updated_time"> 10:24 AM CT, May. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61464104?at_medium=RSS&at_campaign=KARANGA">Nato begins its military exercises in Baltics</a> BBC: The alliance begins one of its largest military exercises, as Finland and Sweden seek to join. 
- <p class="updated_time"> 10:10 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Regains Ground in Northeast</a> WSJ: Ukraine’s Military Regains Ground in Northeast 
- <p class="updated_time"> 09:58 AM CT, May. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-19556383?at_medium=RSS&at_campaign=KARANGA">Hassan Sheikh Mohamud: Who is Somalia's new leader?</a> BBC: He has made history, becoming the country's president for the second time in a competitive vote. 
+ <p class="updated_time"> 10:19 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
  <p class="updated_time"> 09:25 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/middleeast/russia-gas-ukraine-qatar.html">The War in Ukraine Could Empower Qatar</a> NYT: As the United States and Europe seek to deprive Russia of its oil and gas income, their leaders hope Qatar can help fill the void. 
- <p class="updated_time"> 09:10 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-refugees-are-heading-home-in-droves-11652695585">Ukrainian Refugees Are Heading Home in Droves</a> WSJ: Ukrainian Refugees Are Heading Home in Droves 
+ <p class="updated_time"> 09:19 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-covid-surge-accelerates-as-unvaccinated-population-keeps-working-11652710861">North Korea Covid-19 Surge Accelerates</a> WSJ: North Korea Covid-19 Surge Accelerates 
  <p class="updated_time"> 09:06 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61469512?at_medium=RSS&at_campaign=KARANGA">Iraq sandstorm: Red skies as Iraq hit by eighth sandstorm in weeks</a> BBC: This is the eighth sandstorm to sweep through the country since mid-April, hospitalising hundreds. 
  <p class="updated_time"> 08:23 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/health/covid-reinfection.html">How Often Can You Be Infected With the Coronavirus?</a> NYT: The spread of the Omicron variant has given scientists an unsettling answer: repeatedly, sometimes within months. 
- <p class="updated_time"> 08:10 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
+ <p class="updated_time"> 08:19 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-refugees-are-heading-home-in-droves-11652695585">Ukrainian Refugees Are Heading Home in Droves</a> WSJ: Ukrainian Refugees Are Heading Home in Droves 
  <p class="updated_time"> 08:04 AM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099088398/u-s-to-remove-groups-from-foreign-terrorism-blacklist">The U.S. will remove 5 groups from its foreign terrorism blacklist</a> NPR: The United States is poised to remove five extremist groups, all believed to be defunct, from its list of foreign terrorist organizations, including several that once posed significant threats. 
- <p class="updated_time"> 07:51 AM CT, May. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61459023?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Gunman deliberately sought black victims - mayor</a> BBC: Questions are being asked about how the suspect carried out the attack when he was known to authorities. 
  <p class="updated_time"> 07:50 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/putin-family-wealth-sanctions.html">Sanctions Shed Light on Putin’s Private Life</a> NYT: As Western nations place sanctions on people close to the Russian leader, including family members, the strict secrecy surrounding his private life is being punctured. 
  <p class="updated_time"> 07:43 AM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099079032/mcdonalds-leaving-russia">McDonald's is leaving Russia, after more than 30 years</a> NPR: In 1990, the Big Mac's arrival in Moscow signaled a new era. Now McDonald's is tearing down the golden arches and writing off its investment in Russia. 
+ <p class="updated_time"> 07:43 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/frances-macron-appoints-elisabeth-borne-prime-minister-11652719402">France's Macron Appoints Élisabeth Borne Prime Minister</a> WSJ: President Emmanuel Macron chose the first woman in decades to serve in the role, with the pick showing him tacking to the left ahead of parliamentary elections. 
+ <p class="updated_time"> 07:19 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/yellen-pushes-polish-prime-minister-on-international-tax-deal-11652717239">Yellen Pushes Polish Prime Minister on Global Tax Deal</a> WSJ: Yellen Pushes Polish Prime Minister on Global Tax Deal 
  <p class="updated_time"> 07:11 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61464573?at_medium=RSS&at_campaign=KARANGA">Matriarch accused of leading drug clan captured</a> BBC: US prosecutors accuse Herlinda Bobadilla, 61, of smuggling tonnes of cocaine from Honduras to the US. 
- <p class="updated_time"> 07:10 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/north-korea-covid-surge-accelerates-as-unvaccinated-population-keeps-working-11652710861">North Korea Covid-19 Surge Accelerates</a> WSJ: North Korea Covid-19 Surge Accelerates 
  <p class="updated_time"> 06:46 AM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099078960/independent-probe-points-to-israeli-gunfire-in-death-of-journalist">An independent probe points to Israeli gunfire in the death of a journalist</a> NPR: One open-source research team said its initial findings lent support to Palestinian witnesses who said Al Jazeera journalist Shireen Abu Akleh was killed by Israeli fire. 
  <p class="updated_time"> 06:24 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/treasury-yellen-europe-global-tax.html">Treasury Secretary Yellen Looks to Get Global Tax Deal Back on Track</a> NYT: The Treasury secretary is traveling to Warsaw, Brussels and Bonn, Germany, this week at an uncertain time for the global economy. 
- <p class="updated_time"> 06:10 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-in-occupied-village-learn-to-live-with-the-enemy-11652698914">Ukrainians in Occupied Village Learn to Live With the Enemy</a> WSJ: Ukrainians in Occupied Village Learn to Live With the Enemy 
  <p class="updated_time"> 06:01 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html">How Australia Saved Thousands of Lives While Covid Killed a Million Americans</a> NYT: The United States and Australia share similar demographics, but their pandemic death rates point to very different cultures of trust. 
  <p class="updated_time"> 06:00 AM CT, May. 16 </p> 
@@ -71,12 +77,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61465119?at_medium=RSS&at_campaign=KARANGA">Ukraine Eurovision win: Presenter hosting from bunker jumps for joy</a> BBC: Timur Miroshnychenko tells BBC Breakfast he hopes the country will be able to host next year. 
  <p class="updated_time"> 04:39 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61436270?at_medium=RSS&at_campaign=KARANGA">North Korea: More than a million Covid cases feared</a> BBC: The military has been ordered to intervene as a wave of Covid cases sweeps the unvaccinated country. 
+ <p class="updated_time"> 04:07 AM CT, May. 16 </p> 
+ <a href="https://www.npr.org/2022/05/16/1099070386/ukraine-makes-advances-in-the-northeast-of-the-country-around-the-city-of-kharki">Ukraine makes advances in the northeast of the country around the city of Kharkiv</a> NPR: Ukrainian troops are pushing Russian troops away from the country's second largest city. That is allowing residents to move out of subway stations and try to resume something of a normal life. 
  <p class="updated_time"> 04:00 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/travel/comcaac-seri-people-mexico.html">An Intimate Look at Mexico’s Indigenous Seri People</a> NYT: The identity of the Seri is integrally tied to their natural environment, which in recent years has been susceptible to an increasing number of existential threats. 
  <p class="updated_time"> 03:32 AM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099069917/u-n-secretary-general-calls-buffalo-shooting-vile-act-of-racist-extremism">U.N. secretary-general calls Buffalo shooting 'vile act of racist violent extremism'</a> NPR: António Guterres also extended condolences to the families of the 10 people who were killed in the shooting. 
- <p class="updated_time"> 02:21 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/eu-sees-economic-contraction-if-russian-gas-supplies-are-halted-11652694905">EU Sees Economic Contraction if Russian Gas Supplies Are Halted</a> WSJ: Even without a disruption to energy supplies, the bloc expects 2022 to be a tough year for households, which face a big drop in real incomes. 
  <p class="updated_time"> 01:23 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/australia/cobargo-bushfires-election.html">How the Long Recovery From Bush Fires Could Decide Australia’s Election</a> NYT: The fires that tore through the country in late 2019 and early 2020 are history, but halting recovery efforts have kept memories vivid and anger fresh. 
  <p class="updated_time"> 12:38 AM CT, May. 16 </p> 
@@ -131,12 +137,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/15/1099003708/ukraine-war-finland-sweden-nato">Finland and Sweden announce they want to join NATO, marking a big blow to Putin </a> NPR: Finland changed its policy toward the military alliance after troops invaded Ukraine. Sweden has avoided all military alliances, but like Finland, has also grown closer and closer to NATO over time. 
  <p class="updated_time"> 04:34 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099002176/mired-in-crises-lebanese-begin-voting-for-new-parliament">Mired in crises, Lebanese begin voting for new parliament</a> NPR: Lebanese voted for a new parliament Sunday against the backdrop of an economic meltdown that is transforming the country. 
- <p class="updated_time"> 02:59 AM CT, May. 15 </p> 
- <a href="https://www.npr.org/2022/05/15/1099001041/g7-warn-of-ukraine-grain-crisis-ask-china-not-to-aid-russia">G7 warn of Ukraine grain crisis, ask China not to aid Russia</a> NPR: The Group of Seven leading economies warned Saturday that the war in Ukraine is stoking a global food and energy crisis which threatens poor countries. 
  <p class="updated_time"> 02:57 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/london-train-crossrail.html">In London, a Long-Awaited High-Tech Train Is Ready to Roll</a> NYT: The Elizabeth line, 13 years in the making, will soon uncoil under central London with cathedral-like stations and roomy cars. Its managers say it’s a testament to the power of public transportation. 
- <p class="updated_time"> 02:36 AM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/2022/05/14/world/middleeast/mohammed-bin-zayed-elected-uae-leader.html">Mohammed Bin Zayed Becomes U.A.E. President</a> NYT: Sheikh Mohammed has used his small country’s oil wealth to exert great influence across the Middle East and in Washington. 
  <p class="updated_time"> 10:56 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/ukraine-putin-nato.html">For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. 
  <p class="updated_time"> 08:35 PM CT, May. 14 </p> 
@@ -198,8 +200,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:00 AM CT, May. 16 </p> 
+ <p class="updated_time"> 12:03 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-military-somalia.html">Biden Approves Plan to Redeploy Several Hundred Ground Forces Into Somalia</a> NYT: The president also signed off on targeting about a dozen Shabab leaders in the war-torn country, from which Donald J. Trump largely withdrew in his final weeks in office. 
+ <p class="updated_time"> 11:54 AM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/16/us/politics/supreme-court-ted-cruz-campaign-finance.html">Supreme Court Rules for Ted Cruz in Campaign Finance Case</a> NYT: The Texas senator challenged a federal law that put a $250,000 cap on repayments of candidates’ loans to their campaigns using postelection contributions. 
  <p class="updated_time"> 10:33 AM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/abortion-rights-advocates-legal-playbook-roe-00032690">A legal Wild West: Abortion rights advocates prepare playbook for life after Roe</a> Politico: Attorneys and advocates are exploring options beyond lawsuits, including using strategies once relied on by their foes. 
  <p class="updated_time"> 10:25 AM CT, May. 16 </p> 
@@ -302,8 +306,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/13/tech-groups-ask-justice-alito-to-stay-texas-social-media-law-00032496">Tech groups ask Justice Alito to stay Texas social media law</a> Politico: Alito has the option to issue an emergency stay unilaterally, or to refer the matter to the full court. 
  <p class="updated_time"> 06:46 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/politics/fox-news-barnette-oz-pennsylvania.html">Fox News Hosts Splinter as Chaotic Pennsylvania Primaries Heat Up</a> NYT: The rise of Kathy Barnette in the state’s G.O.P. Senate race has divided the network’s stars, with some backing her and others going on the attack to help a rival, Dr. Mehmet Oz. 
- <p class="updated_time"> 05:57 PM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/13/us/politics/jan-6-republicans-subpoenas.html">What the Jan. 6 Panel Wants to Learn From 5 G.O.P. Lawmakers</a> NYT: The committee’s subpoenas to five House Republicans underscore the potential importance of their testimony to producing a full account of the effort to overturn the 2020 election. 
+ <p class="updated_time"> 04:25 PM CT, May. 13 </p> 
+ <a href="https://www.npr.org/2022/05/13/1098865276/if-roe-is-overturned-attorneys-general-will-have-to-interpret-state-abortion-law">Attorneys general and prosecutors scramble to figure out what comes next if Roe falls</a> NPR: Considering that the U.S. Supreme Court could overturn Roe v. Wade, there are a lot of questions about how — and whether — states and jurisdictions would enforce strict abortion laws. 
  <p class="updated_time"> 04:04 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098865241/texas-gov-abbots-migration-crackdown-hasnt-exactly-gone-as-he-planned">Texas Gov. Abbott's migration crackdown hasn't exactly gone as he planned</a> NPR: Texas Gov. Greg Abbott, a Republican, has been testing the limits of how much his state can do to curb unauthorized migration. But Abbott's sweeping crackdown hasn't always gone as planned. 
  <p class="updated_time"> 03:53 PM CT, May. 13 </p> 
@@ -314,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/13/jan-6-subpoenas-gop-lawmakers-00032479">Veil of secrecy surrounds the Jan. 6 subpoenas for GOP lawmakers</a> Politico: Outside of internal ethics probes, there is no modern precedent for a congressional committee subpoenaing members of the House. 
  <p class="updated_time"> 02:32 PM CT, May. 13 </p> 
  <a href="https://www.npr.org/2022/05/13/1098807574/missouri-lawmakers-approve-a-photo-id-requirement-for-voters">Missouri lawmakers approve a photo ID requirement for voters</a> NPR: Two years after the Missouri Supreme Court struck down a similar measure, the state's Republican-led lawmakers passed a bill that would require residents to have photo identification to cast a ballot. 
- <p class="updated_time"> 02:26 PM CT, May. 13 </p> 
- <a href="https://www.npr.org/2022/05/13/1098801406/white-house-baby-formula-wic-recipients">White House bolsters efforts to get baby formula into the hands of WIC recipients</a> NPR: States have been asked to increase accessibility of baby formula for recipients of the low-income program. And the Food and Drug Administration is looking at ways to make it easier to import formula. 
  <p class="updated_time"> 01:55 PM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/13/student-loan-debt-congress-biden-00032423">Senate Dems grab one last chance to push Biden on student debt</a> Politico: Majority Leader Chuck Schumer, as well as Sens. Elizabeth Warren and Raphael Warnock, are seeking a meeting as soon as possible. 
  <p class="updated_time"> 12:27 PM CT, May. 13 </p> 
