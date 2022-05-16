@@ -9,36 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:16 PM CT, May. 16 </p> 
+ <p class="updated_time"> 02:29 PM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-military-somalia.html">Biden Approves Plan to Redeploy Several Hundred Ground Forces Into Somalia</a> NYT: The president also signed off on targeting about a dozen Shabab leaders in the war-torn country, from which Donald J. Trump largely withdrew in his final weeks in office. 
+ <p class="updated_time"> 02:28 PM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/world/asia/katsumoto-saotome-dead.html">Katsumoto Saotome, Who Preserved Stories of Tokyo Firebombing, Dies at 90</a> NYT: He compiled six books of survivors’ recollections of the 1945 attack. He also founded (without government support) a memorial museum. 
+ <p class="updated_time"> 02:23 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/05/16/world/russia-ukraine-war-news">Ukraine Live Updates: Setbacks in East Force Russia to Scale Back Ambitions</a> NYT: Independent analysts and Ukrainian officials say Russian forces are focusing on securing a smaller portion of eastern Ukraine. As NATO holds military drills on Russia’s doorstep, the alliance is looking to fast-track admission for Finland and Sweden. 
  <p class="updated_time"> 01:55 PM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099089642/40-years-ago-the-falkland-malvinas-war-transformed-latin-rock">40 years ago, the Falkland-Malvinas War transformed Latin rock </a> NPR: When English-language music was banned in 1982, Spanish-language groups found an opportunity. 
- <p class="updated_time"> 01:47 PM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/15/world/asia/katsumoto-saotome-dead.html">Katsumoto Saotome, Who Preserved Stories of Tokyo Firebombing, Dies at 90</a> NYT: He compiled six books of survivors’ recollections of the 1945 attack. He also founded (without government support) a memorial museum. 
- <p class="updated_time"> 01:41 PM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-military-somalia.html">Biden Approves Plan to Redeploy Several Hundred Ground Forces Into Somalia</a> NYT: The president also signed off on targeting about a dozen Shabab leaders in the war-torn country, from which Donald J. Trump largely withdrew in his final weeks in office. 
+ <p class="updated_time"> 01:35 PM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Gains Raise Kyiv’s War Aims</a> WSJ: Ukraine’s Military Gains Raise Kyiv’s War Aims 
  <p class="updated_time"> 01:30 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/estonia-kallas-ukraine-russia.html">Estonia’s Tough Voice on Ukraine Urges No Compromise With Putin</a> NYT: Kaja Kallas, the prime minister, remembers Soviet annexation and repression and sees the same brutality in occupied Ukraine, which she believes is fighting for all of Europe. 
  <p class="updated_time"> 01:29 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61467478?at_medium=RSS&at_campaign=KARANGA">Somalia: President Biden reverses Trump's withdrawal of US troops</a> BBC: It reverses a decision by his predecessor Donald Trump to withdraw some 700 troops from the country. 
  <p class="updated_time"> 01:29 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61462939?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Black Americans describe grief and fear</a> BBC: Ten people were killed in Saturday's attack - described by Buffalo's police chief as a racist hate crime. 
- <p class="updated_time"> 01:22 PM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Gains Raise Kyiv’s War Aims</a> WSJ: Ukraine’s Military Gains Raise Kyiv’s War Aims 
  <p class="updated_time"> 12:58 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-61472388?at_medium=RSS&at_campaign=KARANGA">Twitter boss hits back on Musk doubts over fake accounts</a> BBC: Chief executive Parag Agrawal says the firm is confident that less than 5% of users are spam accounts. 
  <p class="updated_time"> 12:35 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61463886?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: Christian leaders condemn violence at reporter's funeral</a> BBC: Christian leaders in Jerusalem accuse Israel of violating an agreement to uphold religious freedom. 
- <p class="updated_time"> 12:22 PM CT, May. 16 </p> 
+ <p class="updated_time"> 12:35 PM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/u-n-seeks-to-ease-russian-blockade-of-ukraine-grain-shipping-to-avert-food-shortages-11652717161">U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages</a> WSJ: U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages 
  <p class="updated_time"> 12:15 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61467766?at_medium=RSS&at_campaign=KARANGA">Johnny Depp hit me on honeymoon, says Amber Heard</a> BBC: The actress says she believes that she wouldn't have survived if their marriage had continued. 
+ <p class="updated_time"> 11:35 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
  <p class="updated_time"> 11:31 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/macron-prime-minister.html">Taking Aim at Left-Leaning Voters, Macron Names Élisabeth Borne as Prime Minister</a> NYT: Élisabeth Borne, the minister of labor who previously was in charge of the environment, will be the second woman to hold the post in France. 
  <p class="updated_time"> 11:25 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61463800?at_medium=RSS&at_campaign=KARANGA">Greece killing: Pilot murdered Caroline Crouch, court rules</a> BBC: A helicopter pilot is found guilty of suffocating his British wife - a case that shocked Greece. 
- <p class="updated_time"> 11:22 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
  <p class="updated_time"> 11:18 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/middleeast/mohammed-bin-zayed-elected-uae-leader.html">Mohammed Bin Zayed Becomes U.A.E. President</a> NYT: Sheikh Mohammed has used his small country’s oil wealth to exert great influence across the Middle East and in Washington. 
  <p class="updated_time"> 11:11 AM CT, May. 16 </p> 
@@ -52,15 +52,15 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:58 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61464065?at_medium=RSS&at_campaign=KARANGA">Kenya elections 2022: Raila Odinga picks Martha Karua as running mate</a> BBC: Martha Karua, a former rival who once served as justice minister, joins the ticket of ex-PM Raila Odinga. 
  <p class="updated_time"> 10:35 AM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/13/climate/domingo-morales-composting-nyc.html">The Unlikely Ascent of New York’s Compost Champion</a> NYT: An ad led to Domingo Morales falling in love with compost. A windfall is helping him spread the word. 
- <p class="updated_time"> 10:22 AM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/north-korea-covid-surge-accelerates-as-unvaccinated-population-keeps-working-11652710861">North Korea Covid-19 Surge Accelerates</a> WSJ: North Korea Covid-19 Surge Accelerates 
+ <p class="updated_time"> 10:35 AM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/13/climate/domingo-morales-composting-nyc.html">The Unlikely Ascent of New York’s Compost Champion</a> NYT: An ad led to Domingo Morales falling in love with compost. A windfall is helping him spread the word. 
  <p class="updated_time"> 10:14 AM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-appoints-elisabeth-borne-prime-minister-11652719402">France's Macron Appoints First Woman Prime Minister in Three Decades</a> WSJ: The appointment of Élisabeth Borne is a sign that pro-business president is tacking to the left ahead of parliamentary elections in mid-June. 
+ <p class="updated_time"> 09:35 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630">​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China</a> WSJ: ​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China 
  <p class="updated_time"> 09:25 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/middleeast/russia-gas-ukraine-qatar.html">The War in Ukraine Could Empower Qatar</a> NYT: As the United States and Europe seek to deprive Russia of its oil and gas income, their leaders hope Qatar can help fill the void. 
- <p class="updated_time"> 09:22 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630">​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China</a> WSJ: ​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China 
  <p class="updated_time"> 09:06 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61469512?at_medium=RSS&at_campaign=KARANGA">Iraq sandstorm: Red skies as Iraq hit by eighth sandstorm in weeks</a> BBC: This is the eighth sandstorm to sweep through the country since mid-April, hospitalising hundreds. 
  <p class="updated_time"> 08:23 AM CT, May. 16 </p> 
@@ -200,10 +200,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:29 PM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-military-somalia.html">Biden Approves Plan to Redeploy Several Hundred Ground Forces Into Somalia</a> NYT: The president also signed off on targeting about a dozen Shabab leaders in the war-torn country, from which Donald J. Trump largely withdrew in his final weeks in office. 
  <p class="updated_time"> 02:06 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/ted-budd-nc-trump.html">Ted Budd Thrives in G.O.P. Senate Race in North Carolina</a> NYT: Representative Ted Budd is proving the political potency of pairing endorsements from Donald Trump and the Club for Growth, the on-again, off-again allies. 
- <p class="updated_time"> 01:41 PM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-military-somalia.html">Biden Approves Plan to Redeploy Several Hundred Ground Forces Into Somalia</a> NYT: The president also signed off on targeting about a dozen Shabab leaders in the war-torn country, from which Donald J. Trump largely withdrew in his final weeks in office. 
  <p class="updated_time"> 01:40 PM CT, May. 16 </p> 
  <a href="https://www.cnn.com/2022/05/15/politics/trump-endorsement-oz-cawthorn-republican-primary/index.html">Trump could be facing an endorsement waterloo this week</a> CNN: This past week, former President Donald Trump suffered his first high-profile endorsement defeat of 2022. Nebraska businessman Charles Herbster, who faced allegations of sexual misconduct by multiple women, lost the GOP nomination for governor. 
  <p class="updated_time"> 01:12 PM CT, May. 16 </p> 
@@ -320,8 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/13/1098859684/turkeys-president-opposes-finland-sweden-join-nato">Turkey's president opposes letting Finland, Sweden join NATO</a> NPR: "We are following developments concerning Sweden and Finland, but we are not of a favorable opinion," Erdogan told reporters. 
  <p class="updated_time"> 02:48 PM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/13/jan-6-subpoenas-gop-lawmakers-00032479">Veil of secrecy surrounds the Jan. 6 subpoenas for GOP lawmakers</a> Politico: Outside of internal ethics probes, there is no modern precedent for a congressional committee subpoenaing members of the House. 
- <p class="updated_time"> 02:32 PM CT, May. 13 </p> 
- <a href="https://www.npr.org/2022/05/13/1098807574/missouri-lawmakers-approve-a-photo-id-requirement-for-voters">Missouri lawmakers approve a photo ID requirement for voters</a> NPR: Two years after the Missouri Supreme Court struck down a similar measure, the state's Republican-led lawmakers passed a bill that would require residents to have photo identification to cast a ballot. 
 
 
 </details>
