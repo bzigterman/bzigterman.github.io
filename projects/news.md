@@ -9,36 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:45 AM CT, May. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61465119?at_medium=RSS&at_campaign=KARANGA">Ukraine Eurovision win: Presenter hosting from bunker jumps for joy</a> BBC: Timur Miroshnychenko tells BBC Breakfast he hopes the country will be able to host next year. 
  <p class="updated_time"> 04:39 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61436270?at_medium=RSS&at_campaign=KARANGA">North Korea: More than a million Covid cases feared</a> BBC: The military has been ordered to intervene as a wave of Covid cases sweeps the unvaccinated country. 
+ <p class="updated_time"> 04:00 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive 
  <p class="updated_time"> 04:00 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/travel/comcaac-seri-people-mexico.html">An Intimate Look at Mexico’s Indigenous Seri People</a> NYT: The identity of the Seri is integrally tied to their natural environment, which in recent years has been susceptible to an increasing number of existential threats. 
  <p class="updated_time"> 04:00 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/middleeast/russia-gas-ukraine-qatar.html">The War in Ukraine Could Empower Qatar</a> NYT: As the United States and Europe seek to deprive Russia of its oil and gas income, their leaders hope Qatar can help fill the void. 
  <p class="updated_time"> 04:00 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/treasury-yellen-europe-global-tax.html">Treasury Secretary Yellen Looks to Get Global Tax Deal Back on Track</a> NYT: The Treasury secretary is traveling to Warsaw, Brussels and Bonn, Germany, this week at an uncertain time for the global economy. 
- <p class="updated_time"> 03:49 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive 
  <p class="updated_time"> 03:32 AM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099069917/u-n-secretary-general-calls-buffalo-shooting-vile-act-of-racist-extremism">U.N. secretary-general calls Buffalo shooting 'vile act of racist extremism'</a> NPR: António Guterres also extended condolences to the families of the 10 people who were killed in the shooting. 
+ <p class="updated_time"> 03:00 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 02:57 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">What Happened on Day 81 of the War in Ukraine</a> NYT: Senator Mitch McConnell said he would support a Biden administration move to designate Russia a state sponsor of terrorism. 
- <p class="updated_time"> 02:49 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 02:03 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61459023?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Gunman deliberately sought black victims - mayor</a> BBC: Questions are being asked about how the suspect carried out the attack when he was known to authorities. 
- <p class="updated_time"> 01:49 AM CT, May. 16 </p> 
+ <p class="updated_time"> 02:00 AM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 01:23 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/australia/cobargo-bushfires-election.html">How the Long Recovery From Bush Fires Could Decide Australia’s Election</a> NYT: The fires that tore through the country in late 2019 and early 2020 are history, but halting recovery efforts have kept memories vivid and anger fresh. 
- <p class="updated_time"> 12:49 AM CT, May. 16 </p> 
+ <p class="updated_time"> 01:00 AM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/somalias-parliament-meets-to-choose-president-in-delayed-election-11652640465">Somalia’s Parliament Picks Hassan Sheikh Mohamud as President</a> WSJ: Somalia’s Parliament Picks Hassan Sheikh Mohamud as President 
  <p class="updated_time"> 12:38 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/nato-putin-sweden-finland.html">In Rebirth for NATO, Europe Unites in Face of Putin’s Ambition</a> NYT: Sweden’s and Finland’s embrace of NATO after decades of neutrality is a clear statement that Russia’s invasion of Ukraine has ended an era of European illusions about Moscow. 
+ <p class="updated_time"> 12:00 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of ‘Stubborn About Justice’ Cardinal Zen Divides Hong Kong’s Catholics</a> WSJ: Arrest of ‘Stubborn About Justice’ Cardinal Zen Divides Hong Kong’s Catholics 
  <p class="updated_time"> 11:51 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61461099?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: China unemployment rate near pandemic peak</a> BBC: Evidence of China's economic slowdown came as authorities unveiled plans to lift Shanghai's lockdown. 
- <p class="updated_time"> 11:49 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of ‘Stubborn About Justice’ Cardinal Zen Divides Hong Kong’s Catholics</a> WSJ: Arrest of ‘Stubborn About Justice’ Cardinal Zen Divides Hong Kong’s Catholics 
  <p class="updated_time"> 11:27 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-61461082?at_medium=RSS&at_campaign=KARANGA">Full lunar eclipse creates rare super blood Moon</a> BBC: Its hue was created by sunlight being projected through the Earth's atmosphere onto the Moon. 
  <p class="updated_time"> 10:57 PM CT, May. 15 </p> 
