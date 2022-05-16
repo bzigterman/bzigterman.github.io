@@ -9,23 +9,23 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:29 PM CT, May. 15 </p> 
+ <p class="updated_time"> 09:58 PM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive 
  <p class="updated_time"> 09:27 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/asia/pandit-shiv-kumar-sharma-dead.html">Pandit Shiv Kumar Sharma, Master of the Santoor, Dies at 84</a> NYT: He single-handedly elevated a 100-string instrument little known outside Kashmir into a prominent component of Hindustani classical music. 
  <p class="updated_time"> 09:23 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/14/arts/music/minority-languages-song-contest.html">As Eyes Are on Eurovision, Europe Has Another Song Contest</a> NYT: The Liet International, a competition for minority and regional languages, lacks the glitz of Eurovision. But its organizers say it helps keep endangered tongues alive. 
+ <p class="updated_time"> 08:58 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 08:57 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: NATO Plans to Fast-Track Finland and Sweden Membership</a> NYT: Senator Mitch McConnell, in a surprise visit to Ukraine, said he would support a Biden administration move to designate Russia a state sponsor of terrorism. 
- <p class="updated_time"> 08:29 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 08:10 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61459023?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Gunman deliberately sought black victims - mayor</a> BBC: Questions are being asked about how the suspect carried out the attack when he was known to authorities. 
+ <p class="updated_time"> 07:58 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 07:37 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects New President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
- <p class="updated_time"> 07:29 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
- <p class="updated_time"> 06:29 PM CT, May. 15 </p> 
+ <p class="updated_time"> 06:58 PM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/somalias-parliament-meets-to-choose-president-in-delayed-election-11652640465">Somalia’s Parliament Picks Hassan Sheikh Mohamud as President</a> WSJ: Somalia’s Parliament Picks Hassan Sheikh Mohamud as President 
  <p class="updated_time"> 06:28 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61442387?at_medium=RSS&at_campaign=KARANGA">Ukraine: The children's camp that became an execution ground</a> BBC: The BBC's Sarah Rainsford investigates the killing of civilians in a summer camp in Bucha, Ukraine. 
