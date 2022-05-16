@@ -9,19 +9,23 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:41 AM CT, May. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-61463876?at_medium=RSS&at_campaign=KARANGA">McDonald's to leave Russia for good after 30 years</a> BBC: The Ukraine war means operating in Russia is no longer "consistent with McDonald's values", the firm says. 
- <p class="updated_time"> 05:40 AM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/05/16/world/russia-ukraine-war-news">Ukraine Live Updates: Setbacks in East Force Russia to Scale Back Ambitions</a> NYT: Independent analysts and Ukrainian officials say Russian forces are focusing on securing a smaller portion of eastern Ukraine. NATO plans to fast track the process to admit Sweden and Finland. 
+ <p class="updated_time"> 06:14 AM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/16/world/russia-ukraine-war-news">Ukraine Live Updates: Setbacks in East Force Russia to Scale Back Ambitions</a> NYT: Independent analysts and Ukrainian officials say Russian forces are focusing on securing a smaller portion of eastern Ukraine. As NATO holds military drills on Russia’s doorstep, the alliance is looking to fast-track admission for Finland and Sweden. 
+ <p class="updated_time"> 06:11 AM CT, May. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61463876?at_medium=RSS&at_campaign=KARANGA">McDonald's to leave Russia for good after 30 years</a> BBC: The chain opened in Moscow in 1990 as the Soviet Union was opening its economy to Western brands. 
+ <p class="updated_time"> 06:01 AM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html">How Australia Saved Thousands of Lives While Covid Killed a Million Americans</a> NYT: The United States and Australia share similar demographics, but their pandemic death rates point to very different cultures of trust. 
+ <p class="updated_time"> 06:00 AM CT, May. 16 </p> 
+ <a href="https://www.npr.org/2022/05/16/1098959394/airbnb-rent-moulin-rouge-one-night-stays">Airbnb is renting out the iconic Moulin Rouge for three one-night stays</a> NPR: The historic space was established as a dance hall in 1889, featuring a cabaret show that included the first cancan performance. 
  <p class="updated_time"> 05:36 AM CT, May. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61430836?at_medium=RSS&at_campaign=KARANGA">Afghan resistance attack Taliban, sparking reprisals in Panjshir</a> BBC: The ambush reportedly killed a number of Taliban fighters in a resistance stronghold in the north. 
- <p class="updated_time"> 05:02 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Regains Ground in Northeast, Targets Another Russian River Crossing</a> WSJ: Ukraine’s Military Regains Ground in Northeast, Targets Another Russian River Crossing 
+ <a href="https://www.bbc.co.uk/news/world-asia-61430836?at_medium=RSS&at_campaign=KARANGA">Afghan resistance attack Taliban, sparking reprisals in Panjshir</a> BBC: The attack reportedly killed a number of Taliban fighters in a resistance stronghold in the north. 
+ <p class="updated_time"> 05:25 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Regains Ground in Northeast</a> WSJ: Ukraine’s Military Regains Ground in Northeast 
  <p class="updated_time"> 04:45 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61465119?at_medium=RSS&at_campaign=KARANGA">Ukraine Eurovision win: Presenter hosting from bunker jumps for joy</a> BBC: Timur Miroshnychenko tells BBC Breakfast he hopes the country will be able to host next year. 
  <p class="updated_time"> 04:39 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61436270?at_medium=RSS&at_campaign=KARANGA">North Korea: More than a million Covid cases feared</a> BBC: The military has been ordered to intervene as a wave of Covid cases sweeps the unvaccinated country. 
- <p class="updated_time"> 04:02 AM CT, May. 16 </p> 
+ <p class="updated_time"> 04:25 AM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-refugees-are-heading-home-in-droves-11652695585">Ukrainian Refugees Are Heading Home in Droves</a> WSJ: Ukrainian Refugees Are Heading Home in Droves 
  <p class="updated_time"> 04:00 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/travel/comcaac-seri-people-mexico.html">An Intimate Look at Mexico’s Indigenous Seri People</a> NYT: The identity of the Seri is integrally tied to their natural environment, which in recent years has been susceptible to an increasing number of existential threats. 
@@ -31,16 +35,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/16/us/politics/treasury-yellen-europe-global-tax.html">Treasury Secretary Yellen Looks to Get Global Tax Deal Back on Track</a> NYT: The Treasury secretary is traveling to Warsaw, Brussels and Bonn, Germany, this week at an uncertain time for the global economy. 
  <p class="updated_time"> 03:32 AM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099069917/u-n-secretary-general-calls-buffalo-shooting-vile-act-of-racist-extremism">U.N. secretary-general calls Buffalo shooting 'vile act of racist extremism'</a> NPR: António Guterres also extended condolences to the families of the 10 people who were killed in the shooting. 
- <p class="updated_time"> 03:02 AM CT, May. 16 </p> 
+ <p class="updated_time"> 03:25 AM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
+ <p class="updated_time"> 02:25 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/eu-sees-economic-contraction-if-russian-gas-supplies-are-halted-11652694905">EU Sees Economic Contraction if Russian Gas Supplies Are Halted</a> WSJ: EU Sees Economic Contraction if Russian Gas Supplies Are Halted 
  <p class="updated_time"> 02:03 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61459023?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Gunman deliberately sought black victims - mayor</a> BBC: Questions are being asked about how the suspect carried out the attack when he was known to authorities. 
- <p class="updated_time"> 02:02 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/eu-sees-economic-contraction-if-russian-gas-supplies-are-halted-11652694905">EU Sees Economic Contraction if Russian Gas Supplies Are Halted</a> WSJ: EU Sees Economic Contraction if Russian Gas Supplies Are Halted 
+ <p class="updated_time"> 01:25 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 01:23 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/australia/cobargo-bushfires-election.html">How the Long Recovery From Bush Fires Could Decide Australia’s Election</a> NYT: The fires that tore through the country in late 2019 and early 2020 are history, but halting recovery efforts have kept memories vivid and anger fresh. 
- <p class="updated_time"> 01:02 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 12:38 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/nato-putin-sweden-finland.html">In Rebirth for NATO, Europe Unites in Face of Putin’s Ambition</a> NYT: Sweden’s and Finland’s embrace of NATO after decades of neutrality is a clear statement that Russia’s invasion of Ukraine has ended an era of European illusions about Moscow. 
  <p class="updated_time"> 11:51 PM CT, May. 15 </p> 
@@ -93,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/climate/domingo-morales-composting-nyc.html">The Unlikely Ascent of New York’s Compost Champion</a> NYT: An ad led to Domingo Morales falling in love with compost. A windfall is helping him spread the word. 
  <p class="updated_time"> 09:59 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61456485?at_medium=RSS&at_campaign=KARANGA">Nigeria's Sokoto student killing sparks spread of fake news</a> BBC: The killing of a Christian woman accused of blasphemy triggers a wave of disinformation on social media. 
- <p class="updated_time"> 09:53 AM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html">How Australia Saved Thousands of Lives While Covid Killed a Million Americans</a> NYT: The United States and Australia share similar demographics, but their pandemic death rates point to very different cultures of trust. 
  <p class="updated_time"> 09:28 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61454989?at_medium=RSS&at_campaign=KARANGA">'Bodies everywhere' - Witnesses tell of Buffalo horror</a> BBC: Eyewitnesses describe shock and disbelief after a gunman shot 10 people dead in New York state. 
  <p class="updated_time"> 08:51 AM CT, May. 15 </p> 
@@ -147,8 +149,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/14/world/asia/india-wheat-export-ban.html">India Bans Most Wheat Exports, Adding to Fears of Global Food Insecurity</a> NYT: The ban could compound a worldwide shortfall worsened by the war in Ukraine and exacerbate an already dire forecast for global hunger. 
  <p class="updated_time"> 01:12 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/canada/conservatives-rallies-poilievre.html">From Streets to Rallies, Truckers and Supporters Weigh Conservative Candidates</a> NYT: In his bid for the Conservative Party leadership Pierre Poilievre is wooing supporters of the blockade that shut down Ottawa and closed border points. 
- <p class="updated_time"> 12:26 PM CT, May. 14 </p> 
- <a href="https://www.npr.org/2022/05/14/1098958972/india-family-lawsuit-children">Parents sue their son and daughter-in-law, demanding a grandchild or $675,000</a> NPR: The court reportedly has accepted their petition and scheduled it for a hearing in Haridwar, India. The couple wants a grandchild within a year. 
  <p class="updated_time"> 10:28 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/eurovision-song-contest-ukraine.html">Amid War, Ukraine Is Favored to Win Eurovision Song Contest</a> NYT: The exclusion of Russia from the contest has underlined the country’s estrangement from the west, including in popular culture. 
  <p class="updated_time"> 08:10 AM CT, May. 14 </p> 
@@ -204,10 +204,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:24 AM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/16/us/politics/treasury-yellen-europe-global-tax.html">Treasury Secretary Yellen Looks to Get Global Tax Deal Back on Track</a> NYT: The Treasury secretary is traveling to Warsaw, Brussels and Bonn, Germany, this week at an uncertain time for the global economy. 
  <p class="updated_time"> 04:07 AM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099070393/pa-gop-senate-primary-is-close-despite-trump-endorsing-dr-oz">Pa. GOP Senate primary is close despite Trump endorsing Dr. Oz</a> NPR: Pennsylvania Senate candidates were out on the campaign trail over the weekend ahead of the key state's primaries on Tuesday. The Republican side has emerged as a three-way race. 
- <p class="updated_time"> 04:00 AM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/us/politics/treasury-yellen-europe-global-tax.html">Yellen Looks to Get Global Tax Deal Back on Track During Europe Trip</a> NYT: The Treasury secretary is traveling to Warsaw, Brussels and Bonn, Germany, this week at an uncertain time for the global economy. 
  <p class="updated_time"> 03:31 AM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/democrats-moderate-progressive-super-pacs-00032610">Where megadonors are spending big money to shape the Democratic Party’s future</a> Politico: Megadonors, super PACs and activist groups are pouring record money into House Democratic primaries, trying to chart the future of the party. 
  <p class="updated_time"> 03:30 AM CT, May. 16 </p> 
