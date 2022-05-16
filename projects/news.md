@@ -9,20 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:43 PM CT, May. 16 </p> 
+ <p class="updated_time"> 01:17 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/05/16/world/russia-ukraine-war-news">Ukraine Live Updates: Setbacks in East Force Russia to Scale Back Ambitions</a> NYT: Independent analysts and Ukrainian officials say Russian forces are focusing on securing a smaller portion of eastern Ukraine. As NATO holds military drills on Russia’s doorstep, the alliance is looking to fast-track admission for Finland and Sweden. 
+ <p class="updated_time"> 12:58 PM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/16/world/europe/estonia-kallas-ukraine-russia.html">Estonia’s Tough Voice on Ukraine Urges No Compromise With Putin</a> NYT: Kaja Kallas, the prime minister, remembers Soviet annexation and repression and sees the same brutality in occupied Ukraine, which she believes is fighting for all of Europe. 
  <p class="updated_time"> 12:35 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61463886?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: Christian leaders condemn violence at reporter's funeral</a> BBC: Christian leaders in Jerusalem accuse Israel of violating an agreement to uphold religious freedom. 
+ <p class="updated_time"> 12:21 PM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Regains Ground in Northeast</a> WSJ: Ukraine’s Military Regains Ground in Northeast 
  <p class="updated_time"> 12:15 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61467766?at_medium=RSS&at_campaign=KARANGA">Johnny Depp hit me on honeymoon, says Amber Heard</a> BBC: The actress says she believes that she wouldn't have survived if their marriage had continued. 
  <p class="updated_time"> 12:03 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-military-somalia.html">Biden Approves Plan to Redeploy Several Hundred Ground Forces Into Somalia</a> NYT: The president also signed off on targeting about a dozen Shabab leaders in the war-torn country, from which Donald J. Trump largely withdrew in his final weeks in office. 
- <p class="updated_time"> 11:45 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Regains Ground in Northeast</a> WSJ: Ukraine’s Military Regains Ground in Northeast 
  <p class="updated_time"> 11:31 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/macron-prime-minister.html">Taking Aim at Left-Leaning Voters, Macron Names Élisabeth Borne as Prime Minister</a> NYT: Élisabeth Borne, the minister of labor who previously was in charge of the environment, will be the second woman to hold the post in France. 
  <p class="updated_time"> 11:25 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61463800?at_medium=RSS&at_campaign=KARANGA">Greece killing: Pilot murdered Caroline Crouch, court rules</a> BBC: A helicopter pilot is found guilty of suffocating his British wife - a case that shocked Greece. 
+ <p class="updated_time"> 11:21 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
  <p class="updated_time"> 11:18 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/middleeast/mohammed-bin-zayed-elected-uae-leader.html">Mohammed Bin Zayed Becomes U.A.E. President</a> NYT: Sheikh Mohammed has used his small country’s oil wealth to exert great influence across the Middle East and in Washington. 
  <p class="updated_time"> 11:11 AM CT, May. 16 </p> 
@@ -35,24 +39,22 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61464104?at_medium=RSS&at_campaign=KARANGA">Nato begins its military exercises in Baltics</a> BBC: The alliance begins one of its largest military exercises, as Finland and Sweden seek to join. 
  <p class="updated_time"> 10:58 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61464065?at_medium=RSS&at_campaign=KARANGA">Kenya elections 2022: Raila Odinga picks Martha Karua as running mate</a> BBC: Martha Karua, a former rival who once served as justice minister, joins the ticket of ex-PM Raila Odinga. 
- <p class="updated_time"> 10:45 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
  <p class="updated_time"> 10:35 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/13/climate/domingo-morales-composting-nyc.html">The Unlikely Ascent of New York’s Compost Champion</a> NYT: An ad led to Domingo Morales falling in love with compost. A windfall is helping him spread the word. 
- <p class="updated_time"> 09:45 AM CT, May. 16 </p> 
+ <p class="updated_time"> 10:21 AM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/north-korea-covid-surge-accelerates-as-unvaccinated-population-keeps-working-11652710861">North Korea Covid-19 Surge Accelerates</a> WSJ: North Korea Covid-19 Surge Accelerates 
  <p class="updated_time"> 09:25 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/middleeast/russia-gas-ukraine-qatar.html">The War in Ukraine Could Empower Qatar</a> NYT: As the United States and Europe seek to deprive Russia of its oil and gas income, their leaders hope Qatar can help fill the void. 
+ <p class="updated_time"> 09:21 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-refugees-are-heading-home-in-droves-11652695585">Ukrainian Refugees Are Heading Home in Droves</a> WSJ: Ukrainian Refugees Are Heading Home in Droves 
  <p class="updated_time"> 09:06 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61469512?at_medium=RSS&at_campaign=KARANGA">Iraq sandstorm: Red skies as Iraq hit by eighth sandstorm in weeks</a> BBC: This is the eighth sandstorm to sweep through the country since mid-April, hospitalising hundreds. 
- <p class="updated_time"> 08:45 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-refugees-are-heading-home-in-droves-11652695585">Ukrainian Refugees Are Heading Home in Droves</a> WSJ: Ukrainian Refugees Are Heading Home in Droves 
  <p class="updated_time"> 08:29 AM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-appoints-elisabeth-borne-prime-minister-11652719402">France's Macron Appoints First Woman Prime Minister in Three Decades</a> WSJ: The appointment of Élisabeth Borne is a sign that pro-business president is tacking to the left ahead of parliamentary elections in mid-June. 
  <p class="updated_time"> 08:23 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/health/covid-reinfection.html">How Often Can You Be Infected With the Coronavirus?</a> NYT: The spread of the Omicron variant has given scientists an unsettling answer: repeatedly, sometimes within months. 
- <p class="updated_time"> 08:18 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/yellen-pushes-polish-prime-minister-on-international-tax-deal-11652717239">Yellen Pushes Polish Prime Minister on Global Tax Deal</a> WSJ: Poland has been the key European holdout in a taxation policy agreement negotiated by the U.S. treasury secretary. 
+ <p class="updated_time"> 08:21 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/yellen-pushes-polish-prime-minister-on-international-tax-deal-11652717239">Yellen Pushes Polish Prime Minister on Global Tax Deal</a> WSJ: Yellen Pushes Polish Prime Minister on Global Tax Deal 
  <p class="updated_time"> 08:04 AM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099088398/u-s-to-remove-groups-from-foreign-terrorism-blacklist">The U.S. will remove 5 groups from its foreign terrorism blacklist</a> NPR: The United States is poised to remove five extremist groups, all believed to be defunct, from its list of foreign terrorist organizations, including several that once posed significant threats. 
  <p class="updated_time"> 07:50 AM CT, May. 16 </p> 
@@ -167,8 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/14/world/asia/north-korea-covid-outbreak.html">North Korea Says Its Covid Outbreak Is Spreading Fast</a> NYT: State media reported 21 new deaths and a huge jump in suspected cases on Saturday, but it was unclear how many had been definitively linked to the coronavirus. 
  <p class="updated_time"> 04:38 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/afghan-scrap-metal-mines.html">In Afghanistan, Collecting Scrap Metal Is a Risky Pursuit</a> NYT: Discarded metal left by decades of conflict has become a livelihood for impoverished Afghans. But many have been killed by unexploded munitions. 
- <p class="updated_time"> 04:14 AM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/2022/05/13/world/europe/sweden-finland-nato-putin.html">After 200 Years of Neutrality, Sweden Weighs Joining NATO</a> NYT: Russia’s invasion of Ukraine created new fears, and the Swedes, dragged along by Finland, are expected to apply, reluctantly, to join the alliance and its collective defense. 
  <p class="updated_time"> 04:00 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/germany-russia-oligarchs-bavaria.html">At a German Hideaway, Oligarch Villas Challenge a ‘Silent Contract’</a> NYT: Tegernsee, a luxury getaway in Bavaria, is known for quietly hosting the superrich. But war in Ukraine has divided locals about whether the authorities should go after the assets of their wealthy Russian neighbors. 
  <p class="updated_time"> 02:45 AM CT, May. 14 </p> 
@@ -191,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/world/europe/germany-right-extremists-security-services.html">Germany Identifies Far-Right Extremists Working in Security Services</a> NYT: The report reflects an effort by the authorities to come to grips with a long-running problem following several scandals involving members of the far right. 
  <p class="updated_time"> 02:12 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/asia/robredo-philippine-election.html">Robredo Admits Defeat in Philippine Presidential Election</a> NYT: Leni Robredo urged her supporters, many of them young voters, to accept her defeat but didn’t refer to Ferdinand Marcos Jr. by name. 
- <p class="updated_time"> 01:08 PM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/13/world/europe/ukraine-russian-forces-pontoon-bridges-river.html">Ukraine Decimated Russian Forces Trying to Cross a River in the East, U.K. Says</a> NYT: Russian forces have been struggling to make significant progress along the eastern front. 
 
 
 </details>
@@ -200,10 +198,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:12 PM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/16/us/politics/ted-cruz-supreme-court-campaign-finance.html">Supreme Court Rules for Ted Cruz in Campaign Finance Case</a> NYT: The Texas senator challenged a federal law that put a $250,000 cap on repayments of candidates’ loans to their campaigns using postelection contributions. 
  <p class="updated_time"> 12:03 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-military-somalia.html">Biden Approves Plan to Redeploy Several Hundred Ground Forces Into Somalia</a> NYT: The president also signed off on targeting about a dozen Shabab leaders in the war-torn country, from which Donald J. Trump largely withdrew in his final weeks in office. 
- <p class="updated_time"> 11:54 AM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/us/politics/supreme-court-ted-cruz-campaign-finance.html">Supreme Court Rules for Ted Cruz in Campaign Finance Case</a> NYT: The Texas senator challenged a federal law that put a $250,000 cap on repayments of candidates’ loans to their campaigns using postelection contributions. 
  <p class="updated_time"> 11:40 AM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/draft-new-new-york-congressional-lines-00032704">Draft of new New York congressional lines released by special master</a> Politico: Carnegie Mellon fellow Jonathan Cervas, the special master, is expected to finalize his maps by Friday. 
  <p class="updated_time"> 10:33 AM CT, May. 16 </p> 
@@ -218,6 +216,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/15/us/replacement-theory-shooting-tucker-carlson.html">Replacement Theory, a Fringe Belief Fueled Online, Is Refashioned by G.O.P.</a> NYT: Replacement theory, espoused by the suspect in the Buffalo massacre, has been embraced by some right-wing politicians and commentators. 
  <p class="updated_time"> 08:50 AM CT, May. 16 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 06:43 AM CT, May. 16 </p> 
+ <a href="https://www.cnn.com/2022/05/16/politics/replacement-theory-buffalo-what-matters/index.html">'Replacement' conspiracies driving gunmen creep into mainstream politics</a> CNN: Critics are drawing parallels between the pattern of racist gunmen citing fears of a conspiracy to "replace" Whites with rhetoric pushed on Fox and by some Republican politicians. 
  <p class="updated_time"> 06:24 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/treasury-yellen-europe-global-tax.html">Yellen Looks to Get Global Tax Deal Back on Track During Europe Trip</a> NYT: The Treasury secretary is traveling to Warsaw, Brussels and Bonn, Germany, this week at an uncertain time for the global economy. 
  <p class="updated_time"> 04:07 AM CT, May. 16 </p> 
