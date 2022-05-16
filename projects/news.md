@@ -9,8 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:14 PM CT, May. 16 </p> 
+ <p class="updated_time"> 04:33 PM CT, May. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61467766?at_medium=RSS&at_campaign=KARANGA">Johnny Depp hit me on honeymoon, says Amber Heard</a> BBC: The actress says she believes that she wouldn't have survived if their marriage had continued. 
+ <p class="updated_time"> 04:32 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/05/16/world/russia-ukraine-war-news">Ukraine Live Updates: Setbacks in East Force Russia to Scale Back Ambitions</a> NYT: Independent analysts and Ukrainian officials say Russian forces are focusing on securing a smaller portion of eastern Ukraine. As NATO holds military drills on Russia’s doorstep, the alliance is looking to fast-track admission for Finland and Sweden. 
+ <p class="updated_time"> 04:31 PM CT, May. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61472021?at_medium=RSS&at_campaign=KARANGA">Turkey threatens to block Finland and Sweden Nato bids</a> BBC: Turkish President Erdogan accused the Nordic nations of harbouring terrorists wanted by Ankara. 
+ <p class="updated_time"> 04:25 PM CT, May. 16 </p> 
+ <a href="https://www.npr.org/2022/05/16/1099221443/russia-ukraine-war-what-happened-today-may-16">Russia-Ukraine war: What happened today (May 16)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:55 PM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099244621/international-rescue-committee-head-on-ukrainian-refugee-crisis-and-what-we-can-">International Rescue Committee head on Ukrainian refugee crisis and what we can learn</a> NPR: More people are now crossing the border into Ukraine than are fleeing the war. NPR's Ari Shapiro talks with the head of the International Rescue Committee about the Ukrainian refugee crisis. 
  <p class="updated_time"> 03:52 PM CT, May. 16 </p> 
@@ -21,10 +27,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/16/world/europe/russia-military-ukraine.html">Russia Planned Major Military Reforms. Ukraine Shows the Result.</a> NYT: Russia wanted to build a leaner, more flexible fighting force and eliminate waste, bureaucracy and corruption. But entrenched, Soviet-era practices endure. 
  <p class="updated_time"> 03:43 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/johnson-brexit-northern-ireland.html">Johnson’s Softer Tone on Northern Ireland Trade Rules Belies Hard-Line Plans</a> NYT: Prime Minister Boris Johnson, who traveled to Northern Ireland on Monday, also urged a power-sharing government in the wake of Sinn Fein’s victory in legislative elections. 
+ <p class="updated_time"> 03:39 PM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Gains Raise Kyiv’s War Aims</a> WSJ: Ukraine’s Military Gains Raise Kyiv’s War Aims 
  <p class="updated_time"> 03:37 PM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099244565/how-a-school-in-warsaw-is-educating-kids-of-ukrainian-families-who-fled-to-polan">How a school in Warsaw is educating kids of Ukrainian families who fled to Poland</a> NPR: NPR's Ari Shapiro reports from Warsaw on how Ukrainian children are being educated in Poland. 
- <p class="updated_time"> 03:27 PM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Gains Raise Kyiv’s War Aims</a> WSJ: Ukraine’s Military Gains Raise Kyiv’s War Aims 
  <p class="updated_time"> 03:06 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/asia/pandit-shiv-kumar-sharma-dead.html">Pandit Shiv Kumar Sharma, Master of the Santoor, Dies at 84</a> NYT: He single-handedly elevated a 100-string instrument little known outside Kashmir into a prominent component of Hindustani classical music. 
  <p class="updated_time"> 03:04 PM CT, May. 16 </p> 
@@ -35,27 +41,25 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/world/asia/south-korea-tattoo-artists.html">Tattoos, Still Illegal in South Korea, Thrive Underground</a> NYT: Tattoo artists, long treated as criminals for their work, say that it is time to end the stigma against their business. 
  <p class="updated_time"> 02:41 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/macron-prime-minister.html">Taking Aim at Left-Leaning Voters, Macron Names Élisabeth Borne as Prime Minister</a> NYT: Élisabeth Borne, the minister of labor who previously was in charge of the environment, will be the second woman to hold the post in France. 
+ <p class="updated_time"> 02:39 PM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/u-n-seeks-to-ease-russian-blockade-of-ukraine-grain-shipping-to-avert-food-shortages-11652717161">U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages</a> WSJ: U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages 
  <p class="updated_time"> 02:29 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-military-somalia.html">Biden Approves Plan to Redeploy Several Hundred Ground Forces Into Somalia</a> NYT: The president also signed off on targeting about a dozen Shabab leaders in the war-torn country, from which Donald J. Trump largely withdrew in his final weeks in office. 
  <p class="updated_time"> 02:28 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/asia/katsumoto-saotome-dead.html">Katsumoto Saotome, Who Preserved Stories of Tokyo Firebombing, Dies at 90</a> NYT: He compiled six books of survivors’ recollections of the 1945 attack. He also founded (without government support) a memorial museum. 
- <p class="updated_time"> 02:27 PM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/u-n-seeks-to-ease-russian-blockade-of-ukraine-grain-shipping-to-avert-food-shortages-11652717161">U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages</a> WSJ: U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages 
  <p class="updated_time"> 01:55 PM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099089642/40-years-ago-the-falkland-malvinas-war-transformed-latin-rock">40 years ago, the Falkland-Malvinas War transformed Latin rock </a> NPR: When English-language music was banned in 1982, Spanish-language groups found an opportunity. 
+ <p class="updated_time"> 01:39 PM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
  <p class="updated_time"> 01:29 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61467478?at_medium=RSS&at_campaign=KARANGA">Somalia: President Biden reverses Trump's withdrawal of US troops</a> BBC: It reverses a decision by his predecessor Donald Trump to withdraw some 700 troops from the country. 
  <p class="updated_time"> 01:29 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61462939?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Black Americans describe grief and fear</a> BBC: Ten people were killed in Saturday's attack - described by Buffalo's police chief as a racist hate crime. 
- <p class="updated_time"> 01:27 PM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
+ <p class="updated_time"> 12:39 PM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-covid-surge-accelerates-as-unvaccinated-population-keeps-working-11652710861">North Korea Covid-19 Surge Accelerates</a> WSJ: North Korea Covid-19 Surge Accelerates 
  <p class="updated_time"> 12:35 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61463886?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: Christian leaders condemn violence at reporter's funeral</a> BBC: Christian leaders in Jerusalem accuse Israel of violating an agreement to uphold religious freedom. 
- <p class="updated_time"> 12:27 PM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/north-korea-covid-surge-accelerates-as-unvaccinated-population-keeps-working-11652710861">North Korea Covid-19 Surge Accelerates</a> WSJ: North Korea Covid-19 Surge Accelerates 
- <p class="updated_time"> 12:15 PM CT, May. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61467766?at_medium=RSS&at_campaign=KARANGA">Johnny Depp hit me on honeymoon, says Amber Heard</a> BBC: The actress says she believes that she wouldn't have survived if their marriage had continued. 
- <p class="updated_time"> 11:27 AM CT, May. 16 </p> 
+ <p class="updated_time"> 11:39 AM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630">​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China</a> WSJ: ​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China 
  <p class="updated_time"> 11:25 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61463800?at_medium=RSS&at_campaign=KARANGA">Greece killing: Pilot murdered Caroline Crouch, court rules</a> BBC: A helicopter pilot is found guilty of suffocating his British wife - a case that shocked Greece. 
@@ -141,14 +145,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/15/1099018706/mcconnell-says-the-senate-will-pass-the-largest-ukraine-aid-package-yet-on-wedne">McConnell says the Senate will pass the largest Ukraine aid package yet on Wednesday</a> NPR: The GOP leader spoke from Stockholm following a trip to Kyiv. He backed Sweden and Finland joining NATO and pushed back on more isolationist voices in his party. 
  <p class="updated_time"> 11:02 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/finland-nato.html">Finland Launches Bid to Join NATO, Declaring a ‘New Era’</a> NYT: The Nordic nation would end decades of nonalignment if, as widely expected, it is admitted to the alliance. 
- <p class="updated_time"> 09:59 AM CT, May. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61456485?at_medium=RSS&at_campaign=KARANGA">Nigeria's Sokoto student killing sparks spread of fake news</a> BBC: The killing of a Christian woman accused of blasphemy triggers a wave of disinformation on social media. 
  <p class="updated_time"> 09:28 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61454989?at_medium=RSS&at_campaign=KARANGA">'Bodies everywhere' - Witnesses tell of Buffalo horror</a> BBC: Eyewitnesses describe shock and disbelief after a gunman shot 10 people dead in New York state. 
  <p class="updated_time"> 08:51 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099010203/africa-is-facing-significant-fuel-shortages">Africa is facing significant fuel shortages</a> NPR: Ayesha Rascoe talks with Kinley Salmon, Africa correspondent for The Economist, about the widespread fuel shortages affecting the continent. 
- <p class="updated_time"> 07:46 AM CT, May. 15 </p> 
- <a href="https://www.npr.org/2022/05/15/1099004724/ukraine-wins-eurovision-song-contest">Ukraine wins Eurovision Song Contest</a> NPR: Ukraine has won the Eurovision Song Contest, perhaps Europe's biggest musical competition. NPR's Joanna Kakissis was watching with Ukrainians in Dnipro. 
  <p class="updated_time"> 02:57 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/london-train-crossrail.html">In London, a Long-Awaited High-Tech Train Is Ready to Roll</a> NYT: The Elizabeth line, 13 years in the making, will soon uncoil under central London with cathedral-like stations and roomy cars. Its managers say it’s a testament to the power of public transportation. 
  <p class="updated_time"> 10:56 PM CT, May. 14 </p> 
