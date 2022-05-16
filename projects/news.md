@@ -9,50 +9,60 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:07 AM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/16/world/russia-ukraine-war-news">Ukraine Live Updates: Setbacks in East Force Russia to Scale Back Ambitions</a> NYT: Independent analysts and Ukrainian officials say Russian forces are focusing on securing a smaller portion of eastern Ukraine. As NATO holds military drills on Russia’s doorstep, the alliance is looking to fast-track admission for Finland and Sweden. 
+ <p class="updated_time"> 09:06 AM CT, May. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61469512?at_medium=RSS&at_campaign=KARANGA">Iraq sandstorm: Red skies as Iraq hit by eighth sandstorm in weeks</a> BBC: This is the eighth sandstorm to sweep through the country since mid-April, hospitalising hundreds. 
+ <p class="updated_time"> 09:02 AM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-military-somalia.html">Biden Approves Plan to Redeploy Several Hundred Ground Forces Into Somalia</a> NYT: The president also signed off on targeting about a dozen Shabab leaders in the war-torn country, from which Donald J. Trump largely withdrew in his final weeks in office. 
+ <p class="updated_time"> 08:57 AM CT, May. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61463876?at_medium=RSS&at_campaign=KARANGA">McDonald's to leave Russia for good after 30 years</a> BBC: The chain opened in Moscow in 1990 as the Soviet Union was opening its economy to Western brands. 
+ <p class="updated_time"> 08:30 AM CT, May. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61464065?at_medium=RSS&at_campaign=KARANGA">Kenya elections 2022: Raila Odinga picks Martha Karua as running mate</a> BBC: Martha Karua, a former rival who once served as justice minister, joins the ticket of ex-PM Raila Odinga. 
+ <p class="updated_time"> 08:23 AM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/16/health/covid-reinfection.html">How Often Can You Be Infected With the Coronavirus?</a> NYT: The spread of the Omicron variant has given scientists an unsettling answer: repeatedly, sometimes within months. 
+ <p class="updated_time"> 08:14 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Regains Ground in Northeast</a> WSJ: Ukraine’s Military Regains Ground in Northeast 
  <p class="updated_time"> 08:04 AM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099088398/u-s-to-remove-groups-from-foreign-terrorism-blacklist">The U.S. will remove 5 groups from its foreign terrorism blacklist</a> NPR: The United States is poised to remove five extremist groups, all believed to be defunct, from its list of foreign terrorist organizations, including several that once posed significant threats. 
- <p class="updated_time"> 08:02 AM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/health/coronavirus-reinfection.html">How Often Can You Be Infected With the Coronavirus?</a> NYT: The spread of the Omicron variant has given scientists an unsettling answer: repeatedly, sometimes within months. 
  <p class="updated_time"> 07:51 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61459023?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Gunman deliberately sought black victims - mayor</a> BBC: Questions are being asked about how the suspect carried out the attack when he was known to authorities. 
  <p class="updated_time"> 07:50 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/putin-family-wealth-sanctions.html">Sanctions Shed Light on Putin’s Private Life</a> NYT: As Western nations place sanctions on people close to the Russian leader, including family members, the strict secrecy surrounding his private life is being punctured. 
  <p class="updated_time"> 07:43 AM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099079032/mcdonalds-leaving-russia">McDonald's is leaving Russia, after more than 30 years</a> NPR: In 1990, the Big Mac's arrival in Moscow signaled a new era. Now McDonald's is tearing down the golden arches and writing off its investment in Russia. 
- <p class="updated_time"> 07:28 AM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/live/2022/05/16/world/russia-ukraine-war-news">Ukraine Live Updates: Setbacks in East Force Russia to Scale Back Ambitions</a> NYT: Independent analysts and Ukrainian officials say Russian forces are focusing on securing a smaller portion of eastern Ukraine. As NATO holds military drills on Russia’s doorstep, the alliance is looking to fast-track admission for Finland and Sweden. 
- <p class="updated_time"> 07:15 AM CT, May. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-61463876?at_medium=RSS&at_campaign=KARANGA">McDonald's to leave Russia for good after 30 years</a> BBC: The chain opened in Moscow in 1990 as the Soviet Union was opening its economy to Western brands. 
- <p class="updated_time"> 07:09 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Regains Ground in Northeast</a> WSJ: Ukraine’s Military Regains Ground in Northeast 
+ <p class="updated_time"> 07:14 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-refugees-are-heading-home-in-droves-11652695585">Ukrainian Refugees Are Heading Home in Droves</a> WSJ: Ukrainian Refugees Are Heading Home in Droves 
+ <p class="updated_time"> 07:11 AM CT, May. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61464573?at_medium=RSS&at_campaign=KARANGA">Matriarch accused of leading drug clan captured</a> BBC: US prosecutors accuse Herlinda Bobadilla, 61, of smuggling tonnes of cocaine from Honduras to the US. 
  <p class="updated_time"> 06:46 AM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099078960/independent-probe-points-to-israeli-gunfire-in-death-of-journalist">An independent probe points to Israeli gunfire in the death of a journalist</a> NPR: One open-source research team said its initial findings lent support to Palestinian witnesses who said Al Jazeera journalist Shireen Abu Akleh was killed by Israeli fire. 
+ <p class="updated_time"> 06:45 AM CT, May. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-19556383?at_medium=RSS&at_campaign=KARANGA">Hassan Sheikh Mohamud: Who is Somalia's new leader?</a> BBC: He has made history, becoming the country's president for the second time in a competitive vote. 
  <p class="updated_time"> 06:24 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/treasury-yellen-europe-global-tax.html">Treasury Secretary Yellen Looks to Get Global Tax Deal Back on Track</a> NYT: The Treasury secretary is traveling to Warsaw, Brussels and Bonn, Germany, this week at an uncertain time for the global economy. 
- <p class="updated_time"> 06:09 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-refugees-are-heading-home-in-droves-11652695585">Ukrainian Refugees Are Heading Home in Droves</a> WSJ: Ukrainian Refugees Are Heading Home in Droves 
+ <p class="updated_time"> 06:14 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
  <p class="updated_time"> 06:01 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html">How Australia Saved Thousands of Lives While Covid Killed a Million Americans</a> NYT: The United States and Australia share similar demographics, but their pandemic death rates point to very different cultures of trust. 
  <p class="updated_time"> 06:00 AM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1098959394/airbnb-rent-moulin-rouge-one-night-stays">Airbnb is renting out the iconic Moulin Rouge for three one-night stays</a> NPR: The historic space was established as a dance hall in 1889, featuring a cabaret show that included the first cancan performance. 
  <p class="updated_time"> 05:36 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61430836?at_medium=RSS&at_campaign=KARANGA">Afghan resistance attack Taliban, sparking reprisals in Panjshir</a> BBC: The attack reportedly killed a number of Taliban fighters in a resistance stronghold in the north. 
- <p class="updated_time"> 05:09 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
+ <p class="updated_time"> 05:14 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukrainians-in-occupied-village-learn-to-live-with-the-enemy-11652698914">Ukrainians in Occupied Village Learn to Live With the Enemy</a> WSJ: Ukrainians in Occupied Village Learn to Live With the Enemy 
  <p class="updated_time"> 04:45 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61465119?at_medium=RSS&at_campaign=KARANGA">Ukraine Eurovision win: Presenter hosting from bunker jumps for joy</a> BBC: Timur Miroshnychenko tells BBC Breakfast he hopes the country will be able to host next year. 
  <p class="updated_time"> 04:39 AM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61436270?at_medium=RSS&at_campaign=KARANGA">North Korea: More than a million Covid cases feared</a> BBC: The military has been ordered to intervene as a wave of Covid cases sweeps the unvaccinated country. 
- <p class="updated_time"> 04:09 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/ukrainians-in-occupied-village-learn-to-live-with-the-enemy-11652698914">Ukrainians in Occupied Village Learn to Live With the Enemy</a> WSJ: Ukrainians in Occupied Village Learn to Live With the Enemy 
+ <p class="updated_time"> 04:14 AM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/eu-sees-economic-contraction-if-russian-gas-supplies-are-halted-11652694905">EU Sees Economic Contraction if Russian Gas Supplies Are Halted</a> WSJ: EU Sees Economic Contraction if Russian Gas Supplies Are Halted 
  <p class="updated_time"> 04:00 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/travel/comcaac-seri-people-mexico.html">An Intimate Look at Mexico’s Indigenous Seri People</a> NYT: The identity of the Seri is integrally tied to their natural environment, which in recent years has been susceptible to an increasing number of existential threats. 
  <p class="updated_time"> 04:00 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/middleeast/russia-gas-ukraine-qatar.html">The War in Ukraine Could Empower Qatar</a> NYT: As the United States and Europe seek to deprive Russia of its oil and gas income, their leaders hope Qatar can help fill the void. 
  <p class="updated_time"> 03:32 AM CT, May. 16 </p> 
- <a href="https://www.npr.org/2022/05/16/1099069917/u-n-secretary-general-calls-buffalo-shooting-vile-act-of-racist-extremism">U.N. secretary-general calls Buffalo shooting 'vile act of racist extremism'</a> NPR: António Guterres also extended condolences to the families of the 10 people who were killed in the shooting. 
- <p class="updated_time"> 03:09 AM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/eu-sees-economic-contraction-if-russian-gas-supplies-are-halted-11652694905">EU Sees Economic Contraction if Russian Gas Supplies Are Halted</a> WSJ: EU Sees Economic Contraction if Russian Gas Supplies Are Halted 
+ <a href="https://www.npr.org/2022/05/16/1099069917/u-n-secretary-general-calls-buffalo-shooting-vile-act-of-racist-extremism">U.N. secretary-general calls Buffalo shooting 'vile act of racist violent extremism'</a> NPR: António Guterres also extended condolences to the families of the 10 people who were killed in the shooting. 
  <p class="updated_time"> 01:23 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/australia/cobargo-bushfires-election.html">How the Long Recovery From Bush Fires Could Decide Australia’s Election</a> NYT: The fires that tore through the country in late 2019 and early 2020 are history, but halting recovery efforts have kept memories vivid and anger fresh. 
  <p class="updated_time"> 12:38 AM CT, May. 16 </p> 
@@ -77,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61442387?at_medium=RSS&at_campaign=KARANGA">Ukraine: The children's camp that became an execution ground</a> BBC: The BBC's Sarah Rainsford investigates the killing of civilians in a summer camp in Bucha, Ukraine. 
  <p class="updated_time"> 05:41 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/germany-elections-scholz.html">German Conservatives Win State Election in Setback for Scholz</a> NYT: Chancellor Olaf Scholz’s Social Democrats scored record-low votes in the first major electoral test he has faced since taking office. 
- <p class="updated_time"> 05:37 PM CT, May. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61438047?at_medium=RSS&at_campaign=KARANGA">Somalia's new president elected by 327 people</a> BBC: Former leader Hassan Sheikh Mohamud defeats the incumbent in a vote limited to MPs. 
  <p class="updated_time"> 04:38 PM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099029001/a-wwii-veteran-meets-the-man-who-found-and-returned-his-long-lost-bracelet">A WWII veteran meets the man who found and returned his long-lost bracelet</a> NPR: A Czech hobbyist who returned a Colorado veteran's bracelet he found at a former World War II prisoner of war camp finally got to meet the veteran, traveling halfway around the world to do so. 
  <p class="updated_time"> 04:38 PM CT, May. 15 </p> 
@@ -109,8 +117,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61454989?at_medium=RSS&at_campaign=KARANGA">'Bodies everywhere' - Witnesses tell of Buffalo horror</a> BBC: Eyewitnesses describe shock and disbelief after a gunman shot 10 people dead in New York state. 
  <p class="updated_time"> 08:51 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099010203/africa-is-facing-significant-fuel-shortages">Africa is facing significant fuel shortages</a> NPR: Ayesha Rascoe talks with Kinley Salmon, Africa correspondent for The Economist, about the widespread fuel shortages affecting the continent. 
- <p class="updated_time"> 08:19 AM CT, May. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61455270?at_medium=RSS&at_campaign=KARANGA">Kenya elections 2022: William Ruto picks Rigathi Gachagua as running mate</a> BBC: William Ruto, a frontrunner in this year's presidential election, picks businessman Rigathi Gachagua. 
  <p class="updated_time"> 07:46 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099004724/ukraine-wins-eurovision-song-contest">Ukraine wins Eurovision Song Contest</a> NPR: Ukraine has won the Eurovision Song Contest, perhaps Europe's biggest musical competition. NPR's Joanna Kakissis was watching with Ukrainians in Dnipro. 
  <p class="updated_time"> 06:58 AM CT, May. 15 </p> 
@@ -129,8 +135,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/14/world/middleeast/mohammed-bin-zayed-elected-uae-leader.html">Mohammed Bin Zayed Becomes U.A.E. President</a> NYT: Sheikh Mohammed has used his small country’s oil wealth to exert great influence across the Middle East and in Washington. 
  <p class="updated_time"> 10:56 PM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/ukraine-putin-nato.html">For Putin, a Nordic Nightmare Is Springing to Life</a> NYT: With Finland and Sweden likely to request NATO membership, and Ukraine counterattacking in the east, Russia’s invasion of Ukraine is facing more setbacks. 
- <p class="updated_time"> 09:07 PM CT, May. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61308799?at_medium=RSS&at_campaign=KARANGA">Young, Famous & African's Peace Hyde: From teacher to Netflix hitmaker</a> BBC: Meet Peace Hyde, the British-Ghanaian creator of reality TV series Young, Famous & African. 
  <p class="updated_time"> 08:35 PM CT, May. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61402309?at_medium=RSS&at_campaign=KARANGA">Afghanistan face veil decree: 'It feels like being a woman is a crime'</a> BBC: Afghan women speak out against compulsory male chaperones and new mandate to wear all-covering veils. 
  <p class="updated_time"> 07:08 PM CT, May. 14 </p> 
@@ -185,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/world/asia/robredo-philippine-election.html">Robredo Admits Defeat in Philippine Presidential Election</a> NYT: Leni Robredo urged her supporters, many of them young voters, to accept her defeat but didn’t refer to Ferdinand Marcos Jr. by name. 
  <p class="updated_time"> 01:08 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/ukraine-russian-forces-pontoon-bridges-river.html">Ukraine Decimated Russian Forces Trying to Cross a River in the East, U.K. Says</a> NYT: Russian forces have been struggling to make significant progress along the eastern front. 
- <p class="updated_time"> 01:03 PM CT, May. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61445446?at_medium=RSS&at_campaign=KARANGA">Violence at Al Jazeera journalist's funeral procession</a> BBC: Police with riot gear hit mourners, saying they were pelted with stones, as crowds carry her coffin. 
  <p class="updated_time"> 10:51 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/brittney-griner-russia-detention-extended.html">Russian Court Extends Brittney Griner’s Pretrial Detention, Her Lawyer Says</a> NYT: Ms. Griner, one of the most decorated athletes in women’s basketball, has been held in custody in Russia since mid-February. 
  <p class="updated_time"> 10:40 AM CT, May. 13 </p> 
@@ -202,6 +204,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:02 AM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-military-somalia.html">Biden Approves Plan to Redeploy Several Hundred Ground Forces Into Somalia</a> NYT: The president also signed off on targeting about a dozen Shabab leaders in the war-torn country, from which Donald J. Trump largely withdrew in his final weeks in office. 
+ <p class="updated_time"> 08:50 AM CT, May. 16 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 08:06 AM CT, May. 16 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/us/replacement-theory-shooting-tucker-carlson.html">Replacement Theory, a Fringe Belief Fueled Online, Is Refashioned by G.O.P.</a> NYT: Replacement theory, espoused by the suspect in the Buffalo massacre, has been embraced by some right-wing politicians and commentators. 
  <p class="updated_time"> 06:24 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/treasury-yellen-europe-global-tax.html">Yellen Looks to Get Global Tax Deal Back on Track During Europe Trip</a> NYT: The Treasury secretary is traveling to Warsaw, Brussels and Bonn, Germany, this week at an uncertain time for the global economy. 
  <p class="updated_time"> 04:07 AM CT, May. 16 </p> 
@@ -209,9 +217,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/democrats-moderate-progressive-super-pacs-00032610">Where megadonors are spending big money to shape the Democratic Party’s future</a> Politico: Battles between moderates and progressives have already driven more than $50 million in outside spending into House Democratic primaries. 
  <p class="updated_time"> 03:30 AM CT, May. 16 </p> 
- <a href="https://www.politico.com/news/2022/05/16/mike-pence-2024-presidential-race-00032573">Pence returns from the GOP dead</a> Politico: Nearly a year after he was booed and jeered as a “traitor” at a Florida event, the former veep's tightly scripted comeback is showing returns. 
- <p class="updated_time"> 03:30 AM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/nancy-mace-gop-problems-00032543">Nancy Mace wobbles on the Trump tightrope</a> Politico: From her handling of the former president to the management of her office, the South Carolina Republican has struggled to find her footing in Washington. 
+ <p class="updated_time"> 03:30 AM CT, May. 16 </p> 
+ <a href="https://www.politico.com/news/2022/05/16/mike-pence-2024-presidential-race-00032573">Pence returns from the GOP dead</a> Politico: Nearly a year after he was booed and jeered as a “traitor” at a Florida event, the former veep's tightly scripted comeback is showing returns. 
  <p class="updated_time"> 03:30 AM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/nato-general-european-command-ukraine-00032593">From worms to war: The unlikely beginnings of NATO’s next top general</a> Politico: As war in Ukraine rages, Gen. Christopher Cavoli has been nominated to become supreme allied commander for Europe. 
  <p class="updated_time"> 02:00 AM CT, May. 16 </p> 
@@ -220,12 +228,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/16/us/politics/senator-chris-van-hollen-stroke.html">U.S. Senator From Maryland Suffers ‘Minor Stroke’</a> NYT: Chris Van Hollen, a Democrat, said in a statement that there were “no long-term effects or damage,” but that he would be under observation for a few days. 
  <p class="updated_time"> 11:06 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/us/politics/john-fetterman-stroke.html">John Fetterman Recovering After Stroke Before His Senate Primary</a> NYT: John Fetterman, the Pennsylvania lieutenant governor who is running for the state’s Democratic Senate nomination, canceled events on Friday, Saturday and Sunday. 
- <p class="updated_time"> 10:22 PM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/2022/05/15/us/replacement-theory-shooting-tucker-carlson.html">Replacement Theory, a Fringe Belief Fueled Online, Is Refashioned by G.O.P.</a> NYT: Replacement theory, espoused by the suspect in the Buffalo massacre, has been embraced by some right-wing politicians and commentators. 
  <p class="updated_time"> 09:46 PM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/chris-van-hollen-stroke-senate-00032632">Sen. Van Hollen says he suffered stroke</a> Politico: "Fortunately, I have been informed that there are no long-term effects," he said in a statement. 
- <p class="updated_time"> 08:56 PM CT, May. 15 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:45 PM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/biden-travel-buffalo-shooting-00032608">Biden to travel to Buffalo</a> Politico: He is headed to the site of the mass shooting Tuesday. 
  <p class="updated_time"> 05:31 PM CT, May. 15 </p> 
@@ -255,11 +259,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:36 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099004703/politics-chat-biden-addresses-racism-gop-visits-ukraine-penn-primary-this-week">Politics chat: Biden addresses racism; GOP visits Ukraine; Penn. primary this week</a> NPR: Lawmakers react to yesterday's mass shooting in Buffalo; a delegation of GOP senators makes a surprise trip to Ukraine; and Pennsylvania holds its primary this week. 
  <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
+ <a href="https://www.politico.com/news/2022/05/15/mar-a-lago-2020-election-movies-00032530">What’s the hottest spot to debut your 2020 election conspiracy film? Mar-a-Lago, of course.</a> Politico: Movie night at the former president’s club is a mix of cocktails and conspiracy theories. And it’s become a symbol of Trump’s cultural impact on the GOP. 
+ <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/ghana-africa-covid-vaccine-hesitancy-00030033">Africa finally has enough Covid shots. Is it too little, too late?</a> Politico: When friends and family got sick last year, people across Ghana scrambled to get shots. But there weren’t enough. Now, many say they don’t want the jab. Local volunteers are struggling to change their minds. 
  <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/polling-changes-2024-elections-00032540">Pollsters prepare for major changes after presidential election misses</a> Politico: The discussion among leading pollsters at a recent conference heralds the biggest change in American polling in decades. 
- <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
- <a href="https://www.politico.com/news/2022/05/15/mar-a-lago-2020-election-movies-00032530">What’s the hottest spot to debut your 2020 election conspiracy film? Mar-a-Lago, of course.</a> Politico: Movie night at the former president’s club is a mix of cocktails and conspiracy theories. And it’s become a symbol of Trump’s cultural impact on the GOP. 
  <p class="updated_time"> 04:00 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/arts/jd-vance-trump-hollywood.html">How Hollywood and the Media Fueled the Political Rise of J.D. Vance</a> NYT: “Hillbilly Elegy,” a best-selling memoir that became a star-studded film, raised the profile of the onetime “Never Trump guy” who won an Ohio primary with the help of the former president. 
  <p class="updated_time"> 09:47 PM CT, May. 14 </p> 
@@ -294,8 +298,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/14/1098800437/religion-role-politics">Roe draft is a reminder that religion's role in politics is older than the republic</a> NPR: The question arises: Since when did so much of our politics have to do with religion? And the answer is, since the beginning — and even before. 
  <p class="updated_time"> 09:59 PM CT, May. 13 </p> 
  <a href="https://www.politico.com/news/2022/05/13/thomas-blasts-disclosure-of-draft-supreme-court-opinion-as-tremendously-bad-00032531">Thomas blasts disclosure of draft Supreme Court opinion as 'tremendously bad'</a> Politico: "That trust ... is gone forever," high court's longest-serving sitting justice declares. 
- <p class="updated_time"> 09:14 PM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/13/us/politics/baby-formula-shortage-biden.html">House Plans Vote to Ease Baby Formula Shortage as Biden Pledges Quick Action</a> NYT: Speaker Nancy Pelosi said the House would move to provide regulatory relief and funds to bolster the infant formula supply, as the president said his team was acting within “weeks or less.” 
  <p class="updated_time"> 07:58 PM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/politics/biden-police-stimulus-funds.html">Biden Calls on States to Devote Stimulus Funds to Police</a> NYT: Ahead of the midterm elections, President Biden is making a forceful push to show he is a defender of law enforcement. 
  <p class="updated_time"> 06:48 PM CT, May. 13 </p> 
