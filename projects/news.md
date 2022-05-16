@@ -9,28 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:58 PM CT, May. 15 </p> 
+ <p class="updated_time"> 11:27 PM CT, May. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61461082?at_medium=RSS&at_campaign=KARANGA">Full lunar eclipse creates rare super blood Moon</a> BBC: Its hue was created by sunlight being projected through the Earth's atmosphere onto the Moon. 
+ <p class="updated_time"> 11:03 PM CT, May. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61436270?at_medium=RSS&at_campaign=KARANGA">North Korea: More than a million Covid cases feared</a> BBC: The military has been ordered to intervene as a wave of Covid cases sweeps the unvaccinated country. 
+ <p class="updated_time"> 10:57 PM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/world/europe/transnistria-moldova-russia-ukraine.html">A Mini-Russia Gets Squeezed by War</a> NYT: The self-declared republic of Transnistria, on the Ukraine border, has been steered by Moscow for decades. During a rare visit, a reporter and photographer get an inside look into how it operates, and hear from Transnistrians their fears of war. 
+ <p class="updated_time"> 10:56 PM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: NATO Plans to Fast-Track Finland and Sweden Membership</a> NYT: Senator Mitch McConnell, in a surprise visit to Ukraine, said he would support a Biden administration move to designate Russia a state sponsor of terrorism. 
+ <p class="updated_time"> 10:39 PM CT, May. 15 </p> 
  <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive 
+ <p class="updated_time"> 09:39 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 09:27 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/asia/pandit-shiv-kumar-sharma-dead.html">Pandit Shiv Kumar Sharma, Master of the Santoor, Dies at 84</a> NYT: He single-handedly elevated a 100-string instrument little known outside Kashmir into a prominent component of Hindustani classical music. 
  <p class="updated_time"> 09:23 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/14/arts/music/minority-languages-song-contest.html">As Eyes Are on Eurovision, Europe Has Another Song Contest</a> NYT: The Liet International, a competition for minority and regional languages, lacks the glitz of Eurovision. But its organizers say it helps keep endangered tongues alive. 
- <p class="updated_time"> 08:58 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
- <p class="updated_time"> 08:57 PM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: NATO Plans to Fast-Track Finland and Sweden Membership</a> NYT: Senator Mitch McConnell, in a surprise visit to Ukraine, said he would support a Biden administration move to designate Russia a state sponsor of terrorism. 
+ <p class="updated_time"> 08:39 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 08:10 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61459023?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Gunman deliberately sought black victims - mayor</a> BBC: Questions are being asked about how the suspect carried out the attack when he was known to authorities. 
- <p class="updated_time"> 07:58 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
+ <p class="updated_time"> 07:39 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/somalias-parliament-meets-to-choose-president-in-delayed-election-11652640465">Somalia’s Parliament Picks Hassan Sheikh Mohamud as President</a> WSJ: Somalia’s Parliament Picks Hassan Sheikh Mohamud as President 
  <p class="updated_time"> 07:37 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects New President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
- <p class="updated_time"> 06:58 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/somalias-parliament-meets-to-choose-president-in-delayed-election-11652640465">Somalia’s Parliament Picks Hassan Sheikh Mohamud as President</a> WSJ: Somalia’s Parliament Picks Hassan Sheikh Mohamud as President 
+ <p class="updated_time"> 07:17 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of 'Stubborn About Justice' Cardinal Zen Divides Hong Kong's Catholics</a> WSJ: Joseph Zen, 90 years old, has been a spiritual leader of the city’s pro-democracy movement while the church hierarchy has aligned itself with the pro-Beijing government. 
  <p class="updated_time"> 06:28 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61442387?at_medium=RSS&at_campaign=KARANGA">Ukraine: The children's camp that became an execution ground</a> BBC: The BBC's Sarah Rainsford investigates the killing of civilians in a summer camp in Bucha, Ukraine. 
- <p class="updated_time"> 06:13 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of Firebrand Cardinal Highlights Split in Hong Kong's Catholic Church</a> WSJ: Joseph Zen, 90 years old, has been a spiritual leader of the city’s pro-democracy movement while the church hierarchy has aligned itself with the pro-Beijing government. 
  <p class="updated_time"> 05:41 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/germany-elections-scholz.html">German Conservatives Win State Election in Setback for Scholz</a> NYT: Chancellor Olaf Scholz’s Social Democrats scored record-low votes in the first major electoral test he has faced since taking office. 
  <p class="updated_time"> 05:37 PM CT, May. 15 </p> 
@@ -39,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/15/1099029001/a-wwii-veteran-meets-the-man-who-found-and-returned-his-long-lost-bracelet">A WWII veteran meets the man who found and returned his long-lost bracelet</a> NPR: A Czech hobbyist who returned a Colorado veteran's bracelet he found at a former World War II prisoner of war camp finally got to meet the veteran, traveling halfway around the world to do so. 
  <p class="updated_time"> 04:38 PM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099028987/the-war-has-worsened-disparities-for-women-in-ukraine">The war has worsened disparities for women in Ukraine</a> NPR: Ukrainian feminists say their country came a long way, legally and culturally, in the past decade. Now advocates are trying to address sexual assault, economic hardship and other effects of the war. 
- <p class="updated_time"> 02:21 PM CT, May. 15 </p> 
- <a href="https://www.bbc.co.uk/news/business-61460378?at_medium=RSS&at_campaign=KARANGA">EasyJet offers £1,000 bonus as airlines battle to recruit staff</a> BBC: The airline will offer new and existing cabin crew the bonus, as carriers seek to retain and recruit workers. 
  <p class="updated_time"> 02:21 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/asia/katsumoto-saotome-dead.html">Katsumoto Saotome, Who Preserved Stories of Tokyo Firebombing, Dies at 90</a> NYT: He compiled six books of survivors’ recollections of the 1945 attack. He also founded (without government support) a memorial museum. 
  <p class="updated_time"> 02:16 PM CT, May. 15 </p> 
@@ -57,8 +61,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61456726?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Sweden and Finland confirm Nato plans in historic shift</a> BBC: Traditionally both countries favour neutrality but the shift comes after Russia's invasion of Ukraine. 
  <p class="updated_time"> 11:02 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/finland-nato.html">Finland Launches Bid to Join NATO, Declaring a ‘New Era’</a> NYT: The Nordic nation would end decades of nonalignment if, as widely expected, it is admitted to the alliance. 
- <p class="updated_time"> 10:32 AM CT, May. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61457622?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia's invasion not going to plan, Nato says</a> BBC: In a damning assessment of Russian efforts, Nato's secretary general says Ukraine could win the war. 
  <p class="updated_time"> 10:01 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/13/climate/domingo-morales-composting-nyc.html">The Unlikely Ascent of New York’s Compost Champion</a> NYT: An ad led to Domingo Morales falling in love with compost. A windfall is helping him spread the word. 
  <p class="updated_time"> 09:59 AM CT, May. 15 </p> 
@@ -69,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61454989?at_medium=RSS&at_campaign=KARANGA">'Bodies everywhere' - Witnesses tell of Buffalo horror</a> BBC: Eyewitnesses describe shock and disbelief after a gunman shot 10 people dead in New York state. 
  <p class="updated_time"> 08:51 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099010203/africa-is-facing-significant-fuel-shortages">Africa is facing significant fuel shortages</a> NPR: Ayesha Rascoe talks with Kinley Salmon, Africa correspondent for The Economist, about the widespread fuel shortages affecting the continent. 
- <p class="updated_time"> 08:51 AM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/2022/05/15/world/europe/transnistria-moldova-russia-ukraine.html">A Mini-Russia Gets Squeezed by War</a> NYT: The self-declared republic of Transnistria, on the Ukraine border, has been steered by Moscow for decades. During a rare visit, a reporter and photographer get an inside look into how it operates, and hear from Transnistrians their fears of war. 
  <p class="updated_time"> 08:19 AM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61455270?at_medium=RSS&at_campaign=KARANGA">Kenya elections 2022: William Ruto picks Rigathi Gachagua as running mate</a> BBC: William Ruto, a frontrunner in this year's presidential election, picks businessman Rigathi Gachagua. 
  <p class="updated_time"> 07:46 AM CT, May. 15 </p> 
@@ -143,8 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/world/europe/sweden-finland-nato-putin.html">After 200 Years of Neutrality, Sweden Weighs Joining NATO</a> NYT: Russia’s invasion of Ukraine created new fears, and the Swedes, dragged along by Finland, are expected to apply, reluctantly, to join the alliance and its collective defense. 
  <p class="updated_time"> 04:00 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/germany-russia-oligarchs-bavaria.html">At a German Hideaway, Oligarch Villas Challenge a ‘Silent Contract’</a> NYT: Tegernsee, a luxury getaway in Bavaria, is known for quietly hosting the superrich. But war in Ukraine has divided locals about whether the authorities should go after the assets of their wealthy Russian neighbors. 
- <p class="updated_time"> 03:35 AM CT, May. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61448311?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: UN condemns killing of Al Jazeera reporter</a> BBC: Shireen Abu Aqla was shot dead in disputed circumstances in the occupied West Bank. 
  <p class="updated_time"> 03:20 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/putin-family-wealth-sanctions.html">Sanctions Shed Light on Putin’s Private Life</a> NYT: As Western nations place sanctions on people close to the Russian leader, including family members, the strict secrecy surrounding his private life is being punctured. 
  <p class="updated_time"> 02:45 AM CT, May. 14 </p> 
@@ -200,6 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:06 PM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/us/politics/john-fetterman-stroke.html">John Fetterman Recovering After Stroke Before His Senate Primary</a> NYT: John Fetterman, the Pennsylvania lieutenant governor who is running for the state’s Democratic Senate nomination, canceled events on Friday, Saturday and Sunday. 
  <p class="updated_time"> 10:22 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/us/replacement-theory-shooting-tucker-carlson.html">Replacement Theory, a Fringe Belief Fueled Online, Is Refashioned by G.O.P.</a> NYT: Replacement theory, espoused by the suspect in the Buffalo massacre, has been embraced by some right-wing politicians and commentators. 
  <p class="updated_time"> 09:46 PM CT, May. 15 </p> 
@@ -212,8 +212,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/15/church-shooting-california-00032598">California churchgoers detained gunman in deadly attack</a> Politico: One person died in the attack at the church in Laguna Woods. 
  <p class="updated_time"> 05:03 PM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/biden-midterms-less-bipartisanship-00032585">Biden's new recipe for the midterms: Less honey, more vinegar</a> Politico: Among his inner circle, there has been a hankering for sharper elbows. 
- <p class="updated_time"> 04:06 PM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/2022/05/15/us/politics/john-fetterman-stroke.html">John Fetterman Recovering After Stroke Before His Senate Primary</a> NYT: John Fetterman, the Pennsylvania lieutenant governor who is running for the state’s Democratic Senate nomination, canceled events on Friday, Saturday and Sunday. 
  <p class="updated_time"> 03:05 PM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/john-fetterman-stroke-pennsylvania-senate-00032588">Pennsylvania Senate candidate Fetterman hospitalized with stroke</a> Politico: “The doctors have assured me that I’ll be able to get back on the trail,” he said. 
  <p class="updated_time"> 02:26 PM CT, May. 15 </p> 
