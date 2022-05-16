@@ -9,32 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:27 PM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/15/world/asia/pandit-shiv-kumar-sharma-dead.html">Pandit Shiv Kumar Sharma, Master of the Santoor, Dies at 84</a> NYT: He single-handedly elevated a 100-string instrument little known outside Kashmir into a prominent component of Hindustani classical music. 
+ <p class="updated_time"> 09:23 PM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/2022/05/14/arts/music/minority-languages-song-contest.html">As Eyes Are on Eurovision, Europe Has Another Song Contest</a> NYT: The Liet International, a competition for minority and regional languages, lacks the glitz of Eurovision. But its organizers say it helps keep endangered tongues alive. 
+ <p class="updated_time"> 08:57 PM CT, May. 15 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: NATO Plans to Fast-Track Finland and Sweden Membership</a> NYT: Senator Mitch McConnell, in a surprise visit to Ukraine, said he would support a Biden administration move to designate Russia a state sponsor of terrorism. 
+ <p class="updated_time"> 08:46 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive 
+ <p class="updated_time"> 08:10 PM CT, May. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61459023?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Gunman deliberately sought black victims - mayor</a> BBC: Questions are being asked about how the suspect carried out the attack when he was known to authorities. 
+ <p class="updated_time"> 07:46 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
  <p class="updated_time"> 07:37 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects New President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
- <p class="updated_time"> 07:30 PM CT, May. 15 </p> 
- <a href="https://www.nytimes.com/live/2022/05/15/world/russia-ukraine-war-news">Live Updates: Finland and Sweden Confirm They Will Seek NATO Membership</a> NYT: As Russia faced setbacks on the battlefield on Sunday, both Nordic nations said that they would apply for membership to the alliance. 
- <p class="updated_time"> 07:09 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/finland-plans-next-step-in-nato-bid-as-ukraine-mounts-counteroffensive-near-key-eastern-city-11652619553">Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive</a> WSJ: Finland Plans Next Step in NATO Bid as Ukraine Mounts Counteroffensive 
+ <p class="updated_time"> 06:46 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
  <p class="updated_time"> 06:28 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61442387?at_medium=RSS&at_campaign=KARANGA">Ukraine: The children's camp that became an execution ground</a> BBC: The BBC's Sarah Rainsford investigates the killing of civilians in a summer camp in Bucha, Ukraine. 
- <p class="updated_time"> 06:09 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-crimes-11652582051">Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived.</a> WSJ: Russian Soldiers Shot Three Brothers and Threw Them in a Grave. One Survived. 
+ <p class="updated_time"> 05:46 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/somalias-parliament-meets-to-choose-president-in-delayed-election-11652640465">Somalia’s Parliament Picks Hassan Sheikh Mohamud as President</a> WSJ: Somalia’s Parliament Picks Hassan Sheikh Mohamud as President 
  <p class="updated_time"> 05:41 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/europe/germany-elections-scholz.html">German Conservatives Win State Election in Setback for Scholz</a> NYT: Chancellor Olaf Scholz’s Social Democrats scored record-low votes in the first major electoral test he has faced since taking office. 
  <p class="updated_time"> 05:37 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61438047?at_medium=RSS&at_campaign=KARANGA">Somalia's new president elected by 327 people</a> BBC: Former leader Hassan Sheikh Mohamud defeats the incumbent in a vote limited to MPs. 
- <p class="updated_time"> 05:09 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/lebanon-votes-for-new-government-in-first-election-since-economic-collapse-11652601820">Lebanon Holds First Election Since Economic Collapse</a> WSJ: Lebanon Holds First Election Since Economic Collapse 
+ <p class="updated_time"> 04:46 PM CT, May. 15 </p> 
+ <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church</a> WSJ: Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church 
  <p class="updated_time"> 04:38 PM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099029001/a-wwii-veteran-meets-the-man-who-found-and-returned-his-long-lost-bracelet">A WWII veteran meets the man who found and returned his long-lost bracelet</a> NPR: A Czech hobbyist who returned a Colorado veteran's bracelet he found at a former World War II prisoner of war camp finally got to meet the veteran, traveling halfway around the world to do so. 
  <p class="updated_time"> 04:38 PM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099028987/the-war-has-worsened-disparities-for-women-in-ukraine">The war has worsened disparities for women in Ukraine</a> NPR: Ukrainian feminists say their country came a long way, legally and culturally, in the past decade. Now advocates are trying to address sexual assault, economic hardship and other effects of the war. 
- <p class="updated_time"> 04:09 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/somalias-parliament-meets-to-choose-president-in-delayed-election-11652640465">Somalia’s Parliament Picks Hassan Sheikh Mohamud as President</a> WSJ: Somalia’s Parliament Picks Hassan Sheikh Mohamud as President 
- <p class="updated_time"> 03:54 PM CT, May. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61459023?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Gunman deliberately sought black victims - mayor</a> BBC: Questions are being asked about how the suspect carried out the attack when he was known to authorities. 
- <p class="updated_time"> 03:09 PM CT, May. 15 </p> 
- <a href="https://www.wsj.com/articles/arrest-of-firebrand-cardinal-highlights-split-in-hong-kongs-catholic-church-11652616352">Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church</a> WSJ: Arrest of Firebrand Cardinal Highlights Split in Hong Kong’s Catholic Church 
  <p class="updated_time"> 02:21 PM CT, May. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-61460378?at_medium=RSS&at_campaign=KARANGA">EasyJet offers £1,000 bonus as airlines battle to recruit staff</a> BBC: The airline will offer new and existing cabin crew the bonus, as carriers seek to retain and recruit workers. 
  <p class="updated_time"> 02:21 PM CT, May. 15 </p> 
@@ -121,8 +125,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/14/world/canada/conservatives-rallies-poilievre.html">From Streets to Rallies, Truckers and Supporters Weigh Conservative Candidates</a> NYT: In his bid for the Conservative Party leadership Pierre Poilievre is wooing supporters of the blockade that shut down Ottawa and closed border points. 
  <p class="updated_time"> 12:26 PM CT, May. 14 </p> 
  <a href="https://www.npr.org/2022/05/14/1098958972/india-family-lawsuit-children">Parents sue their son and daughter-in-law, demanding a grandchild or $675,000</a> NPR: The court reportedly has accepted their petition and scheduled it for a hearing in Haridwar, India. The couple wants a grandchild within a year. 
- <p class="updated_time"> 12:22 PM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/2022/05/14/arts/music/minority-languages-song-contest.html">As Eyes Are on Eurovision, Europe Has Another Song Contest</a> NYT: The Liet International, a competition for minority and regional languages, lacks the glitz of Eurovision. But its organizers say it helps keep endangered tongues alive. 
  <p class="updated_time"> 10:28 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/eurovision-song-contest-ukraine.html">Amid War, Ukraine Is Favored to Win Eurovision Song Contest</a> NYT: The exclusion of Russia from the contest has underlined the country’s estrangement from the west, including in popular culture. 
  <p class="updated_time"> 10:05 AM CT, May. 14 </p> 
@@ -183,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/12/us/politics/nato-finland-sweden-ukraine.html">Finland and Sweden Move Toward NATO Membership. But What About Ukraine?</a> NYT: Ukraine has been considered too full of corruption and too devoid of democratic institutions to make membership likely for years, if not decades, to come. 
  <p class="updated_time"> 09:20 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/ukraine-war-crime-trial-russian-soldier.html">Ukraine Begins Trial of Russian Soldier Accused of a War Crime</a> NYT: Sgt. Vadim Shysimarin is accused of shooting a 62-year-old man on a bicycle in a village in the Sumy region, about 200 miles east of Kyiv. 
- <p class="updated_time"> 06:07 AM CT, May. 13 </p> 
- <a href="https://www.nytimes.com/2022/05/12/world/africa/south-africa-covid-vaccine-factory.html">Africa’s First Covid-19 Vaccine Factory Has Not Received a Single Order</a> NYT: Aspen Pharmacare, in South Africa, was licensed to produce the Johnson & Johnson vaccine. It was hailed as an answer to Africa’s struggle to get access to vaccines. 
  <p class="updated_time"> 05:30 AM CT, May. 13 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/asia/south-korea-cameras-ghost-surgery.html">In South Korea, ‘Ghost Surgeries’ Lead to Cameras in Hospitals</a> NYT: After scandals in which doctors let unsupervised assistants operate on patients, the country is becoming one of the first to require cameras in operating rooms. 
  <p class="updated_time"> 04:00 AM CT, May. 13 </p> 
@@ -202,6 +202,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:56 PM CT, May. 15 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 05:45 PM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/biden-travel-buffalo-shooting-00032608">Biden to travel to Buffalo</a> Politico: He is headed to the site of the mass shooting Tuesday. 
  <p class="updated_time"> 05:31 PM CT, May. 15 </p> 
@@ -236,18 +238,16 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/15/hochul-buffalo-shooting-00032558">'Lord, forgive the anger in my heart': Hochul vows to battle hate, gun violence after Buffalo massacre</a> Politico: The governor will be making additional announcements on closing loopholes they’ve found in state gun laws on Tuesday. 
  <p class="updated_time"> 09:26 AM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/oklahoma-abortion-law-kevin-stitt-00032556">Oklahoma's new abortion law could be undermined, governor admits</a> Politico: "That's something that we're watching," Gov. Kevin Stitt said. 
- <p class="updated_time"> 08:03 AM CT, May. 15 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 07:36 AM CT, May. 15 </p> 
  <a href="https://www.npr.org/2022/05/15/1099004703/politics-chat-biden-addresses-racism-gop-visits-ukraine-penn-primary-this-week">Politics chat: Biden addresses racism; GOP visits Ukraine; Penn. primary this week</a> NPR: Lawmakers react to yesterday's mass shooting in Buffalo; a delegation of GOP senators makes a surprise trip to Ukraine; and Pennsylvania holds its primary this week. 
  <p class="updated_time"> 06:01 AM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/the-missing-adams-endorsement-that-looms-over-hochuls-agenda-in-albany-00032035">Eric Adams is playing hard to get</a> Politico: Hochul and Adams are staring down a mutually beneficial alliance after a somewhat rocky start following Adams' January inauguration. 
  <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
- <a href="https://www.politico.com/news/2022/05/15/mar-a-lago-2020-election-movies-00032530">What’s the hottest spot to debut your 2020 election conspiracy film? Mar-a-Lago, of course.</a> Politico: Movie night at the former president’s club is a mix of cocktails and conspiracy theories. And it’s become a symbol of Trump’s cultural impact on the GOP. 
- <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/ghana-africa-covid-vaccine-hesitancy-00030033">Africa finally has enough Covid shots. Is it too little, too late?</a> Politico: When friends and family got sick last year, people across Ghana scrambled to get shots. But there weren’t enough. Now, many say they don’t want the jab. Local volunteers are struggling to change their minds. 
  <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/polling-changes-2024-elections-00032540">Pollsters prepare for major changes after presidential election misses</a> Politico: The discussion among leading pollsters at a recent conference heralds the biggest change in American polling in decades. 
+ <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
+ <a href="https://www.politico.com/news/2022/05/15/mar-a-lago-2020-election-movies-00032530">What’s the hottest spot to debut your 2020 election conspiracy film? Mar-a-Lago, of course.</a> Politico: Movie night at the former president’s club is a mix of cocktails and conspiracy theories. And it’s become a symbol of Trump’s cultural impact on the GOP. 
  <p class="updated_time"> 04:00 AM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/arts/jd-vance-trump-hollywood.html">How Hollywood and the Media Fueled the Political Rise of J.D. Vance</a> NYT: “Hillbilly Elegy,” a best-selling memoir that became a star-studded film, raised the profile of the onetime “Never Trump guy” who won an Ohio primary with the help of the former president. 
  <p class="updated_time"> 09:47 PM CT, May. 14 </p> 
