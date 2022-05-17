@@ -9,22 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:27 PM CT, May. 17 </p> 
+ <p class="updated_time"> 05:37 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/05/17/world/russia-ukraine-war-news">Live Updates: Ukrainian Soldiers Who Surrendered Face Uncertain Future</a> NYT: Hundreds of Ukrainian fighters who had held out for weeks at a steel complex in Mariupol are in Russian custody. Russian threats to prosecute them raise questions about the viability of the surrender deal. 
+ <p class="updated_time"> 05:37 PM CT, May. 17 </p> 
+ <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-russia-peace-talks.html">With Ukraine Taking Firmer Stance, Peace Talks Grind to a Halt</a> NYT: The impasse is mainly driven by Russia’s insistence on controlling large areas of Ukrainian territory. But Ukraine is also emboldened by successes on the battlefield and angry over Russian atrocities. 
+ <p class="updated_time"> 05:27 PM CT, May. 17 </p> 
+ <a href="https://www.nytimes.com/2022/05/17/us/politics/russia-hacking-costa-rica.html">Russian Hacking Cartel Attacks Costa Rican Government Agencies</a> NYT: Experts who track the hackers’ actions said the group had recently begun to shift its focus to countries in Central and South America, perhaps as retaliation against nations that have supported Ukraine. 
+ <p class="updated_time"> 05:21 PM CT, May. 17 </p> 
+ <a href="https://www.bbc.co.uk/sport/gymnastics/61488161?at_medium=RSS&at_campaign=KARANGA">Ivan Kuliak: Russian gymnast given one-year ban for wearing pro-war symbol on podium next to Ukrainian</a> BBC: Russian gymnast Ivan Kuliak is given a one-year ban for wearing a national war symbol on the podium at an event in Qatar in March. 
  <p class="updated_time"> 05:03 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/us-venezuela-oil-sanctions.html">Biden Administration Offers Venezuela Minor Sanctions Relief</a> NYT: The Biden administration said it would relax restrictions on Chevron’s dealings with President Nicolás Maduro and remove sanctions from his relative. 
+ <p class="updated_time"> 04:45 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
  <p class="updated_time"> 04:43 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61485525?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Biden rebukes 'poison' of white supremacy</a> BBC: The suspect in a mass shooting in New York belongs to "a hateful minority", the president said. 
- <p class="updated_time"> 04:31 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
  <p class="updated_time"> 04:29 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/us-airstrike-civilian-deaths.html">Pentagon Faults Review of Deadly Airstrike but Finds No Wrongdoing</a> NYT: The military’s inquiry followed a New York Times investigation describing allegations that officials sought to conceal dozens of civilian casualties. 
  <p class="updated_time"> 04:26 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61486027?at_medium=RSS&at_campaign=KARANGA">Mariupol: Ukraine doing everything to save remaining fighters</a> BBC: But Kyiv refuses to say how many soldiers are still trapped, saying such information is "sensitive". 
  <p class="updated_time"> 04:24 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/middleeast/lebanon-election-hezbollah.html">Hezbollah Loses Majority Bloc in Lebanon Election, Results Show</a> NYT: Voters drove out vital parliamentary allies of the militant faction, though not Hezbollah candidates themselves. A dozen new independents won seats. 
- <p class="updated_time"> 04:20 PM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-russia-peace-talks.html">With Ukraine Taking Firmer Stance, Peace Talks Grind to a Halt</a> NYT: The impasse is mainly driven by Russia’s insistence on controlling large areas of Ukrainian territory. But Ukraine is also emboldened by successes on the battlefield and angry over Russian atrocities. 
  <p class="updated_time"> 04:17 PM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099474849/russia-ukraine-war-what-happened-today-may-17">Russia-Ukraine war: What happened today (May 17)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:13 PM CT, May. 17 </p> 
@@ -37,10 +41,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/17/1099587534/the-significance-of-mcdonalds-golden-arches-in-russia">The significance of McDonald's golden arches in Russia</a> NPR: NPR's Mary Louise Kelly speaks with Kristy Ironside, a Russia historian at McGill University, about the significance of McDonald's leaving Russia. 
  <p class="updated_time"> 03:50 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/asia/north-korea-covid.html">North Korea’s Covid Outbreak Continues to Worsen</a> NYT: According to state media, nearly 1.5 million people have presented with a fever, and 56 have died, in what the country claimed was its first outbreak of the pandemic. 
+ <p class="updated_time"> 03:45 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128">Mariupol’s Last Defenders Yield, Ending Long Russian Siege</a> WSJ: Mariupol’s Last Defenders Yield, Ending Long Russian Siege 
  <p class="updated_time"> 03:40 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/climate/eu-burning-wood-electricity.html">Europe Rethinks Its Reliance on Burning Wood for Electricity</a> NYT: A new proposal would significantly rewrite E.U. rules on renewable energy, ending subsidies for biomass like wood pellets. 
- <p class="updated_time"> 03:31 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128">Mariupol’s Last Defenders Yield, Ending Long Russian Siege</a> WSJ: Mariupol’s Last Defenders Yield, Ending Long Russian Siege 
  <p class="updated_time"> 03:27 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/nato-putin-sweden-finland.html">In Rebirth for NATO, Europe Unites in Face of Putin’s Ambition</a> NYT: Sweden’s and Finland’s embrace of NATO after decades of neutrality is a clear statement that Russia’s invasion of Ukraine has ended an era of European illusions about Moscow. 
  <p class="updated_time"> 03:26 PM CT, May. 17 </p> 
@@ -55,22 +59,22 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61485616?at_medium=RSS&at_campaign=KARANGA">Amber Heard denies striking Johnny Depp and doctoring photos</a> BBC: Johnny Depp's lawyer has accused Ms Heard of being "the jealous one" in the ex-couple's marriage. 
  <p class="updated_time"> 03:01 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/asia/pandit-shiv-kumar-sharma-dead.html">Pandit Shiv Kumar Sharma, Master of the Santoor, Dies at 84</a> NYT: He single-handedly elevated a 100-string instrument little known outside Kashmir into a prominent component of Hindustani classical music. 
- <p class="updated_time"> 02:31 PM CT, May. 17 </p> 
+ <p class="updated_time"> 02:45 PM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958">How Germany Is Racing to Sever Dependence on Russian Energy</a> WSJ: How Germany Is Racing to Sever Dependence on Russian Energy 
  <p class="updated_time"> 01:51 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/sweden-finland-nato.html">Finland and Sweden Say They Will Apply to Join NATO</a> NYT: They also said they would travel to Washington to meet with President Biden about the war in Ukraine and their bid to join the Western military alliance. 
+ <p class="updated_time"> 01:45 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/sweden-finland-to-lodge-nato-bid-11652807054">Sweden, Finland to Lodge NATO Bid</a> WSJ: Sweden, Finland to Lodge NATO Bid 
  <p class="updated_time"> 01:39 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/uk-eu-northern-ireland-protocol.html">In Risky Move, U.K. Says It May Scrap Northern Ireland Trade Rules</a> NYT: The decision sets Britain on a collision course with the European Union, 18 months after a trade deal that was meant to have completed Brexit. 
- <p class="updated_time"> 01:31 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/sweden-finland-to-lodge-nato-bid-11652807054">Sweden, Finland to Lodge NATO Bid</a> WSJ: Sweden, Finland to Lodge NATO Bid 
  <p class="updated_time"> 01:25 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61179093?at_medium=RSS&at_campaign=KARANGA">Mariupol: Key moments in the siege of the city</a> BBC: As Ukrainian fighters are evacuated from the Azovstal steelworks, how Russia has closed in on the city. 
  <p class="updated_time"> 01:02 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/spain-time-off-period-pain.html">Spain Considers Paid Time Off for Women With Severe Period Symptoms</a> NYT: A draft law would allow women to stay home if they are diagnosed by a doctor. It would also extend abortion access, but it faces an arduous path through Parliament. 
+ <p class="updated_time"> 12:45 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/as-new-covid-19-variants-drive-fifth-wave-in-south-africa-virus-becomes-a-fact-of-daily-life-11652780005">As New Covid-19 Variants Drive Fifth Wave in South Africa, Virus Becomes a Fact of Daily Life</a> WSJ: As New Covid-19 Variants Drive Fifth Wave in South Africa, Virus Becomes a Fact of Daily Life 
  <p class="updated_time"> 12:38 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html">Poor Countries Face a Mounting Catastrophe Fueled by Inflation and Debt</a> NYT: Russia’s war in Ukraine is combining with a global tightening of credit and an economic slowdown in China to sow misery in low- and middle-income countries. 
- <p class="updated_time"> 12:31 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/as-new-covid-19-variants-drive-fifth-wave-in-south-africa-virus-becomes-a-fact-of-daily-life-11652780005">As New Covid-19 Variants Drive Fifth Wave in South Africa, Virus Becomes a Fact of Daily Life</a> WSJ: As New Covid-19 Variants Drive Fifth Wave in South Africa, Virus Becomes a Fact of Daily Life 
  <p class="updated_time"> 12:06 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61478840?at_medium=RSS&at_campaign=KARANGA">EU warns UK not to change N Ireland trade deal</a> BBC: The EU Commission opposes UK plans to change the Northern Ireland Protocol - but both sides are open to negotiations. 
  <p class="updated_time"> 11:47 AM CT, May. 17 </p> 
@@ -111,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects New President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
  <p class="updated_time"> 07:30 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61477775?at_medium=RSS&at_campaign=KARANGA">Drugs tunnel connecting US and Mexico found</a> BBC: The "sophisticated" cross-border passage was equipped with a rail track and ventilation system. 
- <p class="updated_time"> 05:55 AM CT, May. 17 </p> 
- <a href="https://www.bbc.co.uk/news/business-61474732?at_medium=RSS&at_campaign=KARANGA">Sri Lanka down to last day of petrol, new prime minister says</a> BBC: Ranil Wickremesinghe says the country's central bank will print money to pay government wages. 
  <p class="updated_time"> 05:50 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-view-west.html">How do Ukrainians See the Western Response to the War?</a> NYT: Our reporters are answering readers’ questions about Russia’s invasion of Ukraine. Many of you have asked about sentiments in Ukraine about the West. 
  <p class="updated_time"> 05:24 AM CT, May. 17 </p> 
@@ -123,8 +125,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/hezbollah-coalition-loses-seats-in-lebanons-election-11652796598">Hezbollah-Led Coalition Loses Seats in Lebanon's Election</a> WSJ: Hezbollah and its allies lost their parliamentary majority in the Lebanon’s first election since the 2020 Beirut port explosion, in a major setback for the Iran-backed militant and political group. 
  <p class="updated_time"> 04:13 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/azovstal-mariupol.html">Ukraine Signals End of Bitter Battle at Azovstal Steel Plant</a> NYT: More than 250 fighters were evacuated from the besieged Azovstal complex after holding out and sheltering civilians for weeks under near-constant Russian bombardment. 
- <p class="updated_time"> 04:01 AM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/shanghais-covid-19-case-count-drops-as-city-prepares-to-reopen-11652792483">Shanghai's Covid Cases Drop as City Prepares to Reopen</a> WSJ: The city marked a third straight day with no community transmissions, a key milestone toward ending an outbreak that has brought China’s financial capital to a grinding halt. 
  <p class="updated_time"> 04:00 AM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099083271/ukraine-refugee-poland-warsaw-russia-trauma">This school takes kids from the most traumatized parts of Ukraine — and offers hope</a> NPR: Teachers in Warsaw work to address student-held trauma in classrooms after the Polish school system absorbed tens of thousands of Ukrainian refugee students. 
  <p class="updated_time"> 04:00 AM CT, May. 17 </p> 
@@ -227,7 +227,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:29 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/us-airstrike-civilian-deaths.html">Pentagon Faults Review of Deadly Airstrike but Finds No Wrongdoing</a> NYT: The military’s inquiry followed a New York Times investigation describing allegations that officials sought to conceal dozens of civilian casualties. 
  <p class="updated_time"> 04:27 PM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/us/politics/congress-ufo-hearing.html">At House Hearing, Videos of Unexplained Aerial Sightings and a Push for Answers</a> NYT: Pentagon officials testified at a rare public hearing about unidentified phenomena, and lawmakers pledged to bring transparency to an investigation of unexplained reports by military pilots and others. 
+ <a href="https://www.nytimes.com/2022/05/17/us/politics/congress-ufo-hearing.html">Congress Holds First U.F.O. Hearing in Half a Century</a> NYT: Pentagon officials testified at a rare public hearing about unidentified phenomena, and lawmakers pledged to bring transparency to an investigation of unexplained reports by military pilots and others. 
  <p class="updated_time"> 04:17 PM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099474849/russia-ukraine-war-what-happened-today-may-17">Russia-Ukraine war: What happened today (May 17)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:10 PM CT, May. 17 </p> 
