@@ -11,6 +11,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 11:34 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/estonia-kallas-ukraine-russia.html">Estonia’s Tough Voice on Ukraine Urges No Compromise With Putin</a> NYT: Kaja Kallas, the prime minister, remembers the repression of life under Soviet rule and sees the same brutality in occupied Ukraine, which she believes is fighting for all of Europe. 
+ <p class="updated_time"> 11:12 PM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Gains Raise Kyiv’s War Aims</a> WSJ: Ukraine’s Military Gains Raise Kyiv’s War Aims 
  <p class="updated_time"> 11:08 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-61474771?at_medium=RSS&at_campaign=KARANGA">US warns over risk of hiring North Korea IT workers</a> BBC: The remote workers allegedly aim to help fund Pyongyang's advanced weapons programmes. 
  <p class="updated_time"> 11:02 PM CT, May. 16 </p> 
@@ -18,12 +20,10 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:01 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/17/climate/michael-bloomberg-climate-coal.html">Michael Bloomberg Plans a $242 Million Investment in Clean Energy</a> NYT: The billionaire and former mayor of New York City will fund programs in 10 developing countries. 
  <p class="updated_time"> 10:48 PM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Gains Raise Kyiv’s War Aims</a> WSJ: Ukraine’s Military Gains Raise Kyiv’s War Aims 
- <p class="updated_time"> 10:48 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/live/2022/05/16/world/russia-ukraine-war-news">Live Updates: Ukraine Appears to Surrender Control of Steel Plant in Mariupol</a> NYT: Hundreds of Ukrainian fighters were taken by bus to Russian-controlled territory. Ukraine’s president said the combat mission in the city was over, capping some of the longest, fiercest resistance of the war. 
  <p class="updated_time"> 10:29 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/australia/cobargo-bushfires-election.html">How the Long Recovery From Bush Fires Could Decide Australia’s Election</a> NYT: The fires that tore through the country in late 2019 and early 2020 are history, but halting recovery efforts have kept memories vivid and anger fresh. 
- <p class="updated_time"> 09:48 PM CT, May. 16 </p> 
+ <p class="updated_time"> 10:12 PM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/u-n-seeks-to-ease-russian-blockade-of-ukraine-grain-shipping-to-avert-food-shortages-11652717161">U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages</a> WSJ: U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages 
  <p class="updated_time"> 09:36 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61472025?at_medium=RSS&at_campaign=KARANGA">Mariupol: Hundreds of besieged Ukrainian soldiers evacuated</a> BBC: Ukraine says 264 fighters - some badly wounded - have been taken from the Azovstal steelworks. 
@@ -33,19 +33,19 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/16/world/europe/russia-ukraine-east.html">Further Russian Retreat Seen in East Ukraine, Another Setback for Putin</a> NYT: Russia appeared to shrink its already narrowed goals to take the Donbas region, as NATO and its two newest applicants, Sweden and Finland, practiced war games near Russia’s border. 
  <p class="updated_time"> 09:20 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-cuba-policy.html">Biden Administration Lifting Some Trump-Era Restrictions on Cuba</a> NYT: The changes include an expansion of flights to the country and the restarting of a family reunification program. 
- <p class="updated_time"> 08:48 PM CT, May. 16 </p> 
+ <p class="updated_time"> 09:12 PM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
  <p class="updated_time"> 08:22 PM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099378855/biden-eases-restrictions-on-cuban-travel-and-remittances">Biden eases restrictions on Cuban travel and remittances</a> NPR: The White House plans to make it easier for families to visit relatives in Cuba and increase visa processing on the island, reversing some of former President Trump's policies. 
  <p class="updated_time"> 08:21 PM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099369421/azovstal-ukraine-steel-plant-evacuated-russia-mariupol">Hundreds of Ukrainian soldiers evacuated from steel plant to Russian-held territory </a> NPR: It's unclear if the soldiers have been taken prisoner or are under the protection of the U.N., but a Ukrainian official says they would be able to return home after a prisoner exchange with Russia. 
- <p class="updated_time"> 07:48 PM CT, May. 16 </p> 
+ <p class="updated_time"> 08:12 PM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/north-korea-covid-surge-accelerates-as-unvaccinated-population-keeps-working-11652710861">North Korea Covid-19 Surge Accelerates</a> WSJ: North Korea Covid-19 Surge Accelerates 
  <p class="updated_time"> 07:40 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/azovstal-mariupol.html">Ukraine Signals End of Bitter Battle at Azovstal Steel Plant</a> NYT: More than 250 fighters were evacuated from the besieged Azovstal complex, after holding out and sheltering civilians for weeks under near-constant Russian bombardment. 
  <p class="updated_time"> 07:22 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61473884?at_medium=RSS&at_campaign=KARANGA">US agrees to ease Trump-era sanctions on Cuba</a> BBC: Under the new rules more travel will be permitted to the island and visa processing will speed-up. 
- <p class="updated_time"> 06:48 PM CT, May. 16 </p> 
+ <p class="updated_time"> 07:12 PM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630">​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China</a> WSJ: ​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China 
  <p class="updated_time"> 06:48 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61274333?at_medium=RSS&at_campaign=KARANGA">US midterm elections- a simple guide</a> BBC: Two years after Joe Biden was elected, American voters return to the polls this November. 
@@ -205,7 +205,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:07 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/new-york-house-map-chaos-00032931">‘Absolutely stunned’: New York House map sets off chaos, backbiting among Dems</a> Politico: Rep. Mondaire Jones was unimpressed with colleague Sean Patrick Maloney's decision to run in a district that has more of Jones' current constituents. 
  <p class="updated_time"> 08:56 PM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/us/politics/stefanik-replacement-theory.html">Racist Attack Spotlights Stefanik’s Echo of Replacement Theory</a> NYT: The No. 3 House Republican, who has shifted to the hard right along with her party, has touched on the ideas animating white replacement theory. She is not sorry. 
+ <a href="https://www.nytimes.com/2022/05/16/us/politics/elise-stefanik-replacement-theory.html">Racist Attack Spotlights Elise Stefanik’s Echo of Replacement Theory</a> NYT: The No. 3 House Republican, who has shifted to the hard right along with her party, has touched on the ideas animating white replacement theory. She is not sorry. 
  <p class="updated_time"> 08:54 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/republicans-great-replacement.html">Republicans Play on Fears of ‘Great Replacement’ in Bid for Base Voters</a> NYT: Issues are recast as reasons for white voters to fear for their culture and values. Representative Liz Cheney said her party’s leaders had ‘enabled’ extremism. 
  <p class="updated_time"> 08:22 PM CT, May. 16 </p> 
