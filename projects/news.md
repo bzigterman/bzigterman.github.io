@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:30 AM CT, May. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/17/world/russia-ukraine-war-news">Live Updates: Ukraine Gives Up Fighting at Mariupol Steel Plant</a> NYT: Hundreds of Ukrainian forces were moved to Russian-controlled territories, as Moscow overcame the last pocket of resistance to securing a link between the Crimean peninsula and areas it controls in the east. 
+ <p class="updated_time"> 04:40 AM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Gains Raise Kyiv’s War Aims</a> WSJ: Ukraine’s Military Gains Raise Kyiv’s War Aims 
  <p class="updated_time"> 04:15 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61472025?at_medium=RSS&at_campaign=KARANGA">Mariupol: Hundreds of besieged Ukrainian soldiers evacuated</a> BBC: Ukraine says 264 fighters - some badly wounded - have been taken from the Azovstal steelworks. 
- <p class="updated_time"> 04:13 AM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/05/16/world/russia-ukraine-war-news">What Happened on Day 82 of the War in Ukraine</a> NYT: Hundreds of Ukrainian fighters were taken by bus to Russian-controlled territory. Ukraine’s president said the combat mission in the city was over, capping some of the longest, fiercest resistance of the war. 
  <p class="updated_time"> 04:13 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/azovstal-mariupol.html">Ukraine Signals End of Bitter Battle at Azovstal Steel Plant</a> NYT: More than 250 fighters were evacuated from the besieged Azovstal complex after holding out and sheltering civilians for weeks under near-constant Russian bombardment. 
  <p class="updated_time"> 04:00 AM CT, May. 17 </p> 
@@ -23,26 +25,28 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/world/canada/prince-charles-canada-visit.html">Prince Charles and Camilla Visit Canada</a> NYT: Prince Charles will make a three day tour of the country, where polls suggest there’s little support for the monarchy — but amending Canada’s Constitution is difficult. 
  <p class="updated_time"> 03:53 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61472021?at_medium=RSS&at_campaign=KARANGA">Turkey threatens to block Finland and Sweden Nato bids</a> BBC: Turkish President Erdogan accused the Nordic nations of harbouring terrorists wanted by Ankara. 
- <p class="updated_time"> 03:53 AM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Gains Raise Kyiv’s War Aims</a> WSJ: Ukraine’s Military Gains Raise Kyiv’s War Aims 
  <p class="updated_time"> 03:46 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61478036?at_medium=RSS&at_campaign=KARANGA">Colombian robbery victim crashes car into thieves</a> BBC: The thieves stole a watch and mobile phone before the victim drove into them in his convertible. 
+ <p class="updated_time"> 03:40 AM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/u-n-seeks-to-ease-russian-blockade-of-ukraine-grain-shipping-to-avert-food-shortages-11652717161">U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages</a> WSJ: U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages 
  <p class="updated_time"> 03:32 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61463886?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: Christian leaders condemn violence at reporter's funeral</a> BBC: Christian leaders in Jerusalem accuse Israel of violating an agreement to uphold religious freedom. 
  <p class="updated_time"> 03:21 AM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099401569/new-zealand-shooting-survivor-says-violence-achieved-nothing">New Zealand shooting survivor says violence achieved nothing</a> NPR: The deadly attacks at two Christchurch mosques brought people together rather than sowing discord, one of the survivors says. 
- <p class="updated_time"> 02:53 AM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/u-n-seeks-to-ease-russian-blockade-of-ukraine-grain-shipping-to-avert-food-shortages-11652717161">U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages</a> WSJ: U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages 
- <p class="updated_time"> 01:53 AM CT, May. 17 </p> 
+ <p class="updated_time"> 02:40 AM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
  <p class="updated_time"> 01:47 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-61463876?at_medium=RSS&at_campaign=KARANGA">McDonald's to leave Russia for good after 30 years</a> BBC: The chain opened in Moscow in 1990 as the Soviet Union was opening its economy to Western brands. 
+ <p class="updated_time"> 01:40 AM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-covid-surge-accelerates-as-unvaccinated-population-keeps-working-11652710861">North Korea Covid-19 Surge Accelerates</a> WSJ: North Korea Covid-19 Surge Accelerates 
  <p class="updated_time"> 01:22 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61475393?at_medium=RSS&at_campaign=KARANGA">India’s construction workers bear the brunt of heatwave</a> BBC: A brutal heatwave is wreaking havoc on the health and livelihoods of India's working poor. 
- <p class="updated_time"> 12:53 AM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/north-korea-covid-surge-accelerates-as-unvaccinated-population-keeps-working-11652710861">North Korea Covid-19 Surge Accelerates</a> WSJ: North Korea Covid-19 Surge Accelerates 
- <p class="updated_time"> 11:53 PM CT, May. 16 </p> 
+ <p class="updated_time"> 12:42 AM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128">Ukrainian Soldiers Lay Down Arms at Mariupol's Azovstal Steel Plant</a> WSJ: Fighters in Mariupol laid down their weapons at the Azovstal steel plant, concluding months of bloody battle for the strategic southern port city that ended with a dramatic siege at the sprawling complex where soldiers and civilians took refuge. 
+ <p class="updated_time"> 12:40 AM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630">​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China</a> WSJ: ​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China 
+ <p class="updated_time"> 12:33 AM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/as-new-covid-19-variants-drive-fifth-wave-in-south-africa-virus-becomes-a-fact-of-daily-life-11652780005">As New Covid-19 Variants Drive Fifth Wave in South Africa, Virus Becomes a Fact of Daily Life</a> WSJ: The country has become a model for living with Covid-19 in the long term. Life continues as normal for most South Africans, while behind the scenes, dozens of scientists closely track the virus’s every move. 
  <p class="updated_time"> 11:34 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/estonia-kallas-ukraine-russia.html">Estonia’s Tough Voice on Ukraine Urges No Compromise With Putin</a> NYT: Kaja Kallas, the prime minister, remembers the repression of life under Soviet rule and sees the same brutality in occupied Ukraine, which she believes is fighting for all of Europe. 
  <p class="updated_time"> 11:08 PM CT, May. 16 </p> 
@@ -181,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/world/europe/eurovision-song-contest-ukraine.html">Amid War, Ukraine Is Favored to Win Eurovision Song Contest</a> NYT: The exclusion of Russia from the contest has underlined the country’s estrangement from the west, including in popular culture. 
  <p class="updated_time"> 08:10 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/13/us/politics/russia-sanctions-evasion-treasury.html">Treasury Warns Foreign Banks Against Helping Russia Evade Sanctions</a> NYT: Adewale Adeyemo, the deputy Treasury secretary, met privately with international financial institutions to make clear the consequences of sanctions evasion. 
- <p class="updated_time"> 05:00 AM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/2022/05/14/world/asia/north-korea-covid-outbreak.html">North Korea Says Its Covid Outbreak Is Spreading Fast</a> NYT: State media reported 21 new deaths and a huge jump in suspected cases on Saturday, but it was unclear how many had been definitively linked to the coronavirus. 
 
 
 </details>
@@ -190,10 +192,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 AM CT, May. 17 </p> 
+ <a href="https://www.npr.org/sections/money/2022/05/17/1098524454/the-case-for-revolutionizing-child-care-in-america">The case for revolutionizing child care in America</a> NPR: A new book argues that greater public support for parents is critical for the brain development of America's kids. 
+ <p class="updated_time"> 05:27 AM CT, May. 17 </p> 
+ <a href="https://www.nytimes.com/2022/05/17/us/politics/yellen-europe-ukraine-aid.html">Yellen Calls on Europe to Boost Ukraine Aid</a> NYT: The Treasury secretary warned that Ukraine did not have enough funding to sustain its government and fend off Russia. 
  <p class="updated_time"> 04:31 AM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1098875556/congressional-candidate-alexandra-hunt-wants-you-to-look-beyond-her-past">Congressional candidate Alexandra Hunt wants you to look beyond her past </a> NPR: The 29-year-old looking to unseat Rep. Dwight Evans for Pennsylvania's 3rd Congressional District, has grabbed attention for her past as a stripper and for creating an OnlyFans. 
- <p class="updated_time"> 04:15 AM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/us/politics/yellen-europe-ukraine-aid.html">Yellen Calls on Europe to Boost Ukraine Aid</a> NYT: The Treasury secretary warned that Ukraine did not have enough funding to sustain its government and fend off Russia. 
  <p class="updated_time"> 04:01 AM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099374329/pennsylvanias-republican-governor-race-mastriano-barletta-shapiro-results">Mastriano, a Trump-backed election denier, leads Pennsylvania GOP field for governor</a> NPR: Far-right Pennsylvania state Sen. Doug Mastriano is leading polls in the GOP primary for governor, panicking the state's Republican party establishment. Former U.S. Rep. Lou Barletta follows. 
  <p class="updated_time"> 04:00 AM CT, May. 17 </p> 
@@ -215,9 +219,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1098065157/oregon-primary-election-results">Here are the key primary election results from Oregon</a> NPR: A term-limited Gov. Kate Brown means there's an open race for governor. And Democratic Rep. Kurt Schrader faces a progressive challenger. 
  <p class="updated_time"> 04:00 AM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/us/politics/biden-buffalo-ny-visit.html">Biden Heads to Buffalo to Mourn Shooting Victims</a> NYT: The challenge for a president who came to office preaching unity may be how to take on those preaching hate. 
+ <a href="https://www.nytimes.com/2022/05/17/us/politics/biden-buffalo-ny-visit.html">Biden Heads to Buffalo to Mourn Shooting Victims and Denounce Those Espousing Hate</a> NYT: The challenge for a president who came to office preaching unity may be how to take on those preaching hate. 
  <p class="updated_time"> 04:00 AM CT, May. 17 </p> 
  <a href="https://www.politico.com/news/2022/05/17/bidens-china-trade-trump-tariffs-inflation-00032874">Biden’s politically perilous choice on China trade</a> Politico: The president is under increasing pressure to lift tariffs to combat inflation, but doing so risks the support of unions and domestic industries critical to his electoral coalition. 
+ <p class="updated_time"> 04:00 AM CT, May. 17 </p> 
+ <a href="https://www.politico.com/news/2022/05/17/new-jersey-officials-forecast-multi-billion-dollar-tax-surge-00032769">State officials forecast multibillion-dollar surge in revenue. Lawmakers want to use it for more tax relief.</a> Politico: The Office of Legislative Services and the state Department of the Treasury are both forecasting billions of dollars more in revenue, primarily driven by a spike in income tax filings. 
  <p class="updated_time"> 03:31 AM CT, May. 17 </p> 
  <a href="https://www.politico.com/news/2022/05/17/seven-states-decide-senate-control-00032881">These 7 states will decide control of the Senate</a> Politico: Republicans only need to net one seat to win control of the Senate. These are the swing states each party is targeting. 
  <p class="updated_time"> 03:31 AM CT, May. 17 </p> 
@@ -284,8 +290,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/16/us/politics/ted-budd-nc-trump.html">Ted Budd Thrives in G.O.P. Senate Race in North Carolina</a> NYT: Representative Ted Budd is proving the political potency of pairing endorsements from Donald Trump and the Club for Growth, the on-again, off-again allies. 
  <p class="updated_time"> 04:20 PM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099256713/supreme-court-sides-with-sen-ted-cruz-in-campaign-finance-case">Supreme Court sides with Sen. Ted Cruz in campaign finance case</a> NPR: At issue was a federal law that has been on the books for 20 years that barred federal candidates from raising more than $250,000 to repay loans made to their campaigns. 
- <p class="updated_time"> 04:00 PM CT, May. 16 </p> 
- <a href="https://www.npr.org/2022/05/16/1096943765/some-pennsylvania-lawmakers-who-helped-pass-mail-in-voting-law-now-want-it-throw">Some Pennsylvania GOP lawmakers who passed mail-in voting law now want it thrown out</a> NPR: In a key swing state, Pennsylvania's highest court is weighing a challenge to a state law that's expanded mail-in voting. The challenge was put forth in part by 11 GOP lawmakers who voted for the law. 
  <p class="updated_time"> 03:21 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/greenberg-set-to-be-sentenced-in-august-00032764">Sentencing for Gaetz 'wingman' delayed until August</a> Politico: The former tax collector pleaded guilty to six felony charges. 
  <p class="updated_time"> 03:05 PM CT, May. 16 </p> 
