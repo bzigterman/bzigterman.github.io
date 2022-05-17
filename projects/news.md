@@ -9,6 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:13 PM CT, May. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61464435?at_medium=RSS&at_campaign=KARANGA">Philly Lutaaya: The Ugandan singer who led the fight against HIV prejudice</a> BBC: HIV-positive Ugandan singer Philly Lutaaya was ostracised by some but his openness shifted attitudes. 
+ <p class="updated_time"> 06:09 PM CT, May. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61477368?at_medium=RSS&at_campaign=KARANGA">Måneskin's crazy rise to fame: 'We only slept in our own beds 10 times last year'</a> BBC: The Italian rock band relive the highs and lows of becoming a global success after winning Eurovision. 
+ <p class="updated_time"> 06:09 PM CT, May. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61467135?at_medium=RSS&at_campaign=KARANGA">China's silenced feminist: How Sophia Huang Xueqin went missing</a> BBC: BBC Eye investigates the disappearance of Sophia Huang Xueqin, a high-profile feminist journalist who kick-started China’s #MeToo movement. 
  <p class="updated_time"> 05:53 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/05/17/world/russia-ukraine-war-news">Live Updates: Ukrainian Holdouts in Mariupol Surrender to an Uncertain Fate</a> NYT: The government’s order for hundreds of remaining fighters to stand down offers Russia a propaganda victory, but prospects for a prisoner swap seem unclear at best. 
  <p class="updated_time"> 05:53 PM CT, May. 17 </p> 
@@ -19,16 +25,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-russia-peace-talks.html">With Ukraine Taking Firmer Stance, Peace Talks Grind to a Halt</a> NYT: The impasse is mainly driven by Russia’s insistence on controlling large areas of Ukrainian territory. But Ukraine is also emboldened by successes on the battlefield and angry over Russian atrocities. 
  <p class="updated_time"> 05:27 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/russia-hacking-costa-rica.html">Russian Hacking Cartel Attacks Costa Rican Government Agencies</a> NYT: Experts who track the hackers’ actions said the group had recently begun to shift its focus to countries in Central and South America, perhaps as retaliation against nations that have supported Ukraine. 
+ <p class="updated_time"> 05:25 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
  <p class="updated_time"> 05:21 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/gymnastics/61488161?at_medium=RSS&at_campaign=KARANGA">Ivan Kuliak: Russian gymnast given one-year ban for wearing pro-war symbol on podium next to Ukrainian</a> BBC: Russian gymnast Ivan Kuliak is given a one-year ban for wearing a national war symbol on the podium at an event in Qatar in March. 
- <p class="updated_time"> 04:57 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
  <p class="updated_time"> 04:43 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61485525?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Biden rebukes 'poison' of white supremacy</a> BBC: The suspect in a mass shooting in New York belongs to "a hateful minority", the president said. 
  <p class="updated_time"> 04:29 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/us-airstrike-civilian-deaths.html">Pentagon Faults Review of Deadly Airstrike but Finds No Wrongdoing</a> NYT: The military’s inquiry followed a New York Times investigation describing allegations that officials sought to conceal dozens of civilian casualties. 
  <p class="updated_time"> 04:26 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61486027?at_medium=RSS&at_campaign=KARANGA">Mariupol: Ukraine doing everything to save remaining fighters</a> BBC: But Kyiv refuses to say how many soldiers are still trapped, saying such information is "sensitive". 
+ <p class="updated_time"> 04:25 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128">Mariupol’s Last Defenders Yield, Ending Long Russian Siege</a> WSJ: Mariupol’s Last Defenders Yield, Ending Long Russian Siege 
  <p class="updated_time"> 04:24 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/middleeast/lebanon-election-hezbollah.html">Hezbollah Loses Majority Bloc in Lebanon Election, Results Show</a> NYT: Voters drove out vital parliamentary allies of the militant faction, though not Hezbollah candidates themselves. A dozen new independents won seats. 
  <p class="updated_time"> 04:17 PM CT, May. 17 </p> 
@@ -37,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/world/canada/prince-charles-canada-visit.html">Prince Charles and Camilla Visit Canada</a> NYT: Prince Charles will make a three day tour of the country, where polls suggest there’s little support for the monarchy — but amending Canada’s Constitution is difficult. 
  <p class="updated_time"> 04:02 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61274333?at_medium=RSS&at_campaign=KARANGA">US midterm elections - a simple guide</a> BBC: Primary contests in key states signal that, once again, election season in the US has begun again. 
- <p class="updated_time"> 03:57 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128">Mariupol’s Last Defenders Yield, Ending Long Russian Siege</a> WSJ: Mariupol’s Last Defenders Yield, Ending Long Russian Siege 
  <p class="updated_time"> 03:51 PM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099587546/polish-young-adults-talk-about-the-war-in-ukraines-impact-on-their-generation">Polish young adults talk about the war in Ukraine's impact on their generation</a> NPR: NPR's Ari Shapiro talks with Polish young adults about how the war in Ukraine and the influx of refugees is affecting their country. 
  <p class="updated_time"> 03:51 PM CT, May. 17 </p> 
@@ -51,6 +57,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/16/world/europe/nato-putin-sweden-finland.html">In Rebirth for NATO, Europe Unites in Face of Putin’s Ambition</a> NYT: Sweden’s and Finland’s embrace of NATO after decades of neutrality is a clear statement that Russia’s invasion of Ukraine has ended an era of European illusions about Moscow. 
  <p class="updated_time"> 03:26 PM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099587506/biden-administration-to-lift-some-travel-restrictions-and-remittances-on-cubans">Biden administration to lift some travel restrictions and remittances on Cubans</a> NPR: The White House announced it will lift some of the Trump era restriction on travel and remittances on Cubans. Hit hard by COVID and other missteps, the Cuban economy is barely functioning for many. 
+ <p class="updated_time"> 03:25 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958">How Germany Is Racing to Sever Dependence on Russian Energy</a> WSJ: How Germany Is Racing to Sever Dependence on Russian Energy 
  <p class="updated_time"> 03:24 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61477906?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Beauty blogger row and UK sweets to refugees</a> BBC: A Ukrainian beauty blogger's trolls ordeal and sweets driven all the way from Somerset to Ukraine. 
  <p class="updated_time"> 03:16 PM CT, May. 17 </p> 
@@ -61,20 +69,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61485616?at_medium=RSS&at_campaign=KARANGA">Amber Heard denies striking Johnny Depp and doctoring photos</a> BBC: Johnny Depp's lawyer has accused Ms Heard of being "the jealous one" in the ex-couple's marriage. 
  <p class="updated_time"> 03:01 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/asia/pandit-shiv-kumar-sharma-dead.html">Pandit Shiv Kumar Sharma, Master of the Santoor, Dies at 84</a> NYT: He single-handedly elevated a 100-string instrument little known outside Kashmir into a prominent component of Hindustani classical music. 
- <p class="updated_time"> 02:57 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958">How Germany Is Racing to Sever Dependence on Russian Energy</a> WSJ: How Germany Is Racing to Sever Dependence on Russian Energy 
- <p class="updated_time"> 01:57 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/sweden-finland-to-lodge-nato-bid-11652807054">Sweden, Finland to Lodge NATO Bid</a> WSJ: Sweden, Finland to Lodge NATO Bid 
+ <p class="updated_time"> 02:25 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/u-k-threatens-to-tear-up-key-part-of-brexit-deal-due-to-northern-irish-tensions-11652810682">U.K. Threatens to End Key Part of Brexit Deal</a> WSJ: U.K. Threatens to End Key Part of Brexit Deal 
  <p class="updated_time"> 01:51 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/sweden-finland-nato.html">Finland and Sweden Say They Will Apply to Join NATO</a> NYT: They also said they would travel to Washington to meet with President Biden about the war in Ukraine and their bid to join the Western military alliance. 
  <p class="updated_time"> 01:39 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/uk-eu-northern-ireland-protocol.html">In Risky Move, U.K. Says It May Scrap Northern Ireland Trade Rules</a> NYT: The decision sets Britain on a collision course with the European Union, 18 months after a trade deal that was meant to have completed Brexit. 
  <p class="updated_time"> 01:25 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/pollution-caused-one-in-six-deaths-world-wide-in-2019-study-says-11652826602">Pollution Caused One in Six Deaths World-Wide in 2019, Study Says</a> WSJ: Pollution Caused One in Six Deaths World-Wide in 2019, Study Says 
+ <p class="updated_time"> 01:25 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61179093?at_medium=RSS&at_campaign=KARANGA">Mariupol: Key moments in the siege of the city</a> BBC: As Ukrainian fighters are evacuated from the Azovstal steelworks, how Russia has closed in on the city. 
  <p class="updated_time"> 01:02 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/spain-time-off-period-pain.html">Spain Considers Paid Time Off for Women With Severe Period Symptoms</a> NYT: A draft law would allow women to stay home if they are diagnosed by a doctor. It would also extend abortion access, but it faces an arduous path through Parliament. 
- <p class="updated_time"> 12:57 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/as-new-covid-19-variants-drive-fifth-wave-in-south-africa-virus-becomes-a-fact-of-daily-life-11652780005">As New Covid-19 Variants Drive Fifth Wave in South Africa, Virus Becomes a Fact of Daily Life</a> WSJ: As New Covid-19 Variants Drive Fifth Wave in South Africa, Virus Becomes a Fact of Daily Life 
  <p class="updated_time"> 12:38 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html">Poor Countries Face a Mounting Catastrophe Fueled by Inflation and Debt</a> NYT: Russia’s war in Ukraine is combining with a global tightening of credit and an economic slowdown in China to sow misery in low- and middle-income countries. 
  <p class="updated_time"> 12:06 PM CT, May. 17 </p> 
@@ -83,6 +89,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61463884?at_medium=RSS&at_campaign=KARANGA">Lebanon election: Hezbollah and allies lose parliamentary majority</a> BBC: The Iran-backed group suffers a setback in the first elections since mass anti-government protests. 
  <p class="updated_time"> 11:43 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61476714?at_medium=RSS&at_campaign=KARANGA">Lebanon election results raise spectre of new power struggle</a> BBC: Prolonged deadlock could ensue after Hezbollah's allies lost seats to their rivals, says Anna Foster. 
+ <p class="updated_time"> 11:08 AM CT, May. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61137648?at_medium=RSS&at_campaign=KARANGA">Australia election: A simple guide</a> BBC: Australians go to the polls on 21 May, for the country's first election since 2019. 
  <p class="updated_time"> 10:49 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61484222?at_medium=RSS&at_campaign=KARANGA">Retired colonel speaks out on Russian TV</a> BBC: Mikhail Khodarenok gives a rare insight saying the military operation in Ukraine can only get worse. 
  <p class="updated_time"> 10:41 AM CT, May. 17 </p> 
@@ -105,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/world/europe/london-queen-elizabeth-train.html">Queen Makes Surprise Visit to Paddington Station in London</a> NYT: Queen Elizabeth II made a rare public appearance to celebrate the opening of the Elizabeth line in London, which is named in her honor. 
  <p class="updated_time"> 09:19 AM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099451406/hezbollah-loses-majority-in-lebanon-parliament">Hezbollah and its allies lose their majority in Lebanon's parliament</a> NPR: Lebanon's militant Hezbollah group and its allies lost their parliamentary majority, final elections results showed Tuesday, while more than a dozen independent newcomers gained seats. 
- <p class="updated_time"> 09:04 AM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/u-k-threatens-to-tear-up-key-part-of-brexit-deal-due-to-northern-irish-tensions-11652810682">U.K. Threatens to End Key Part of Brexit Deal</a> WSJ: The British government threatened to tear up an important part of its Brexit divorce deal with the European Union, saying it was causing political paralysis in Northern Ireland. 
  <p class="updated_time"> 08:26 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/asia/shanghai-covid.html">Shanghai Declares Victory in Covid Outbreak, but Lockdowns Continue</a> NYT: Reports in state news media about the return of daily life in the financial hub brought distressed responses from residents. 
  <p class="updated_time"> 08:24 AM CT, May. 17 </p> 
@@ -119,8 +125,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-view-west.html">How do Ukrainians See the Western Response to the War?</a> NYT: Our reporters are answering readers’ questions about Russia’s invasion of Ukraine. Many of you have asked about sentiments in Ukraine about the West. 
  <p class="updated_time"> 05:24 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61477704?at_medium=RSS&at_campaign=KARANGA">Mexico disappearances reach record high of 100,000 amid impunity</a> BBC: Many of the missing are victims of organised crime and hardly any of those responsible are punished. 
- <p class="updated_time"> 05:23 AM CT, May. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61477904?at_medium=RSS&at_campaign=KARANGA">Man gambles away huge accidental Covid payment in Japan</a> BBC: The Japanese man's lawyer says the 46.3m yen ($357,400) meant for 463 people cannot be paid back. 
  <p class="updated_time"> 05:09 AM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/hezbollah-coalition-loses-seats-in-lebanons-election-11652796598">Hezbollah-Led Coalition Loses Seats in Lebanon's Election</a> WSJ: Hezbollah and its allies lost their parliamentary majority in the Lebanon’s first election since the 2020 Beirut port explosion, in a major setback for the Iran-backed militant and political group. 
  <p class="updated_time"> 04:13 AM CT, May. 17 </p> 
@@ -149,8 +153,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/16/1099378855/biden-eases-restrictions-on-cuban-travel-and-remittances">Biden eases restrictions on Cuban travel and remittances</a> NPR: The White House plans to make it easier for families to visit relatives in Cuba and increase visa processing on the island, reversing some of former President Trump's policies. 
  <p class="updated_time"> 08:21 PM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1099369421/azovstal-ukraine-steel-plant-evacuated-russia-mariupol">Hundreds of Ukrainian soldiers evacuated from steel plant to Russian-held territory </a> NPR: It's unclear if the soldiers have been taken prisoner or are under the protection of the U.N., but a Ukrainian official says they would be able to return home after a prisoner exchange with Russia. 
- <p class="updated_time"> 08:09 PM CT, May. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61462052?at_medium=RSS&at_campaign=KARANGA">NFHS-5: India's preference for sons over daughters remains</a> BBC: Nearly 80% of those who took part in a government survey said they wanted at least one son in their lifetime. 
  <p class="updated_time"> 06:34 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/health-61320202?at_medium=RSS&at_campaign=KARANGA">Anti-abortion groups target women with misleading ads</a> BBC: Abortion providers describe a battle to put out accurate information. 
  <p class="updated_time"> 06:32 PM CT, May. 16 </p> 
@@ -181,12 +183,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61469512?at_medium=RSS&at_campaign=KARANGA">Iraq sandstorm: Red skies as Iraq hit by eighth sandstorm in weeks</a> BBC: This is the eighth sandstorm to sweep through the country since mid-April, hospitalising hundreds. 
  <p class="updated_time"> 07:50 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/putin-family-wealth-sanctions.html">Sanctions Shed Light on Putin’s Private Life</a> NYT: As Western nations place sanctions on people close to the Russian leader, including family members, the strict secrecy surrounding his private life is being punctured. 
- <p class="updated_time"> 07:11 AM CT, May. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61460790?at_medium=RSS&at_campaign=KARANGA">Pinned down by Russian fire in key frontline village</a> BBC: Quentin Sommerville and cameraman Darren Conway visit the edge of Izyum, where Russians forces are concentrated. 
  <p class="updated_time"> 06:24 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/treasury-yellen-europe-global-tax.html">Treasury Secretary Yellen Looks to Get Global Tax Deal Back on Track</a> NYT: The Treasury secretary is traveling to Warsaw, Brussels and Bonn, Germany, this week at an uncertain time for the global economy. 
- <p class="updated_time"> 04:45 AM CT, May. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61465119?at_medium=RSS&at_campaign=KARANGA">Ukraine Eurovision win: Presenter hosting from bunker jumps for joy</a> BBC: Timur Miroshnychenko tells BBC Breakfast he hopes the country will be able to host next year. 
  <p class="updated_time"> 04:00 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/travel/comcaac-seri-people-mexico.html">An Intimate Look at Mexico’s Indigenous Seri People</a> NYT: The identity of the Seri is integrally tied to their natural environment, which in recent years has been susceptible to an increasing number of existential threats. 
  <p class="updated_time"> 10:57 PM CT, May. 15 </p> 
@@ -210,10 +208,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:51 PM CT, May. 17 </p> 
+ <p class="updated_time"> 06:21 PM CT, May. 17 </p> 
+ <a href="https://www.nytimes.com/2022/05/17/us/politics/biden-buffalo-ny-visit.html">Biden Heads to Buffalo to Mourn Shooting Victims</a> NYT: The challenge for a president who came to office preaching unity may be how to take on those preaching hate. 
+ <p class="updated_time"> 06:10 PM CT, May. 17 </p> 
  <a href="https://www.cnn.com/politics/live-news/primary-election-results-pennsylvania-north-carolina-2022/index.html">Pennsylvania, North Carolina, Kentucky, Idaho and Oregon hold primaries</a> CNN:  
- <p class="updated_time"> 05:51 PM CT, May. 17 </p> 
+ <p class="updated_time"> 06:01 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/jan-6-committee-transcripts.html">Justice Dept. Is Said to Request Transcripts From Jan. 6 Committee</a> NYT: The committee has interviewed more than 1,000 people so far, and the transcripts could be used as evidence in potential criminal cases or to pursue new leads. 
+ <p class="updated_time"> 06:00 PM CT, May. 17 </p> 
+ <a href="https://www.nytimes.com/2022/05/17/us/politics/todays-primaries-midterm-elections.html">Three Questions About Today’s Consequential Primaries</a> NYT: How will progressive Democrats fare against moderate rivals? What signals will North Carolina Republicans send? And in Pennsylvania, will Kathy Barnette concede a loss? 
  <p class="updated_time"> 05:45 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/us-venezuela-oil-sanctions.html">Biden Administration Offers Venezuela Minor Sanctions Relief</a> NYT: The Biden administration said it would relax restrictions on Chevron’s dealings with President Nicolás Maduro and remove sanctions from his relative. 
  <p class="updated_time"> 05:27 PM CT, May. 17 </p> 
@@ -242,8 +244,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/17/1099587520/new-york-attorney-general-speaks-to-npr-about-buffalo-shooting">New York attorney general speaks to NPR about Buffalo shooting</a> NPR: NPR's Mary Louise Kelly talks with New York state Attorney General Letitia James, who appeared in Buffalo with President Biden after the mass shooting, about gun violence and extremism in the state. 
  <p class="updated_time"> 03:46 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/when-will-we-know-pa-election-results.html">When to Expect Results in Tonight’s Pennslyvania Primaries</a> NYT: Election officials are not allowed to begin opening and processing mail-in and absentee ballots before 7 a.m. on Election Day, which could lead to delays. 
- <p class="updated_time"> 03:45 PM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/us/politics/biden-buffalo-ny-visit.html">Biden Heads to Buffalo to Mourn Shooting Victims</a> NYT: The challenge for a president who came to office preaching unity may be how to take on those preaching hate. 
  <p class="updated_time"> 03:44 PM CT, May. 17 </p> 
  <a href="https://www.politico.com/news/2022/05/17/de-blasio-new-york-congressional-seat-00033141">Bill de Blasio and other New York Democrats eye rare, open congressional seat</a> Politico: The rare open seat has prompted a scramble from potential candidates, including the former mayor. 
  <p class="updated_time"> 03:26 PM CT, May. 17 </p> 
@@ -261,7 +261,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:04 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/free-covid-tests-usps-biden.html">White House Offers Another Round of Free Virus Tests Through U.S.P.S.</a> NYT: The move doubled to 16 the total number of tests available to each U.S. household through a program that debuted over the winter. 
  <p class="updated_time"> 02:53 PM CT, May. 17 </p> 
- <a href="https://www.politico.com/news/2022/05/17/pennsylvania-senate-candidate-fetterman-will-have-heart-procedure-after-stroke-00033167">Pennsylvania Senate candidate Fetterman will have heart procedure after stroke</a> Politico: Lt. Gov. John Fetterman will have a pacemaker implanted on Tuesday afternoon, just hours before polls are set to close in the U.S. Senate primary. 
+ <a href="https://www.politico.com/news/2022/05/17/pennsylvania-senate-candidate-fetterman-will-have-heart-procedure-after-stroke-00033167">Pennsylvania Senate candidate Fetterman has heart procedure after stroke</a> Politico: Lt. Gov. John Fetterman had a pacemaker implanted on Tuesday afternoon, just hours before polls were set to close in the U.S. Senate primary. 
  <p class="updated_time"> 02:23 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/biden-speech-transcript-buffalo.html">Read a Transcript of Biden’s Speech in Buffalo</a> NYT: The president traveled to Buffalo on Tuesday to meet families of the victims of the shooting, as well as local law enforcement, first responders and community leaders. 
  <p class="updated_time"> 02:21 PM CT, May. 17 </p> 
@@ -338,8 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/16/trump-oz-pennsylvania-senate-00032900">Trump works overtime to push Dr. Oz over the finish line</a> Politico: Republican Kathy Barnette said  she has "no intentions" of supporting her rivals if they defeat her in Pennsylvania's tight GOP Senate primary. 
  <p class="updated_time"> 06:53 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/democrats-gop-rhetoric-buffalo-shooting-maga-00032895">Dems turn focus to racist 'replacement theory' post-Buffalo shooting</a> Politico: Given the dim likelihood of any movement on guns, the party is shifting its approach to decrying Tucker Carlson and the far-right ideology he's echoed. 
- <p class="updated_time"> 06:00 PM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/us/politics/senate-governor-pennsylvania-republicans.html">Republican ‘Chaos’ in Pennsylvania Threatens to Upend the Midterms</a> NYT: The G.O.P. thought it had 2022 all figured out. Then along came Kathy Barnette and Doug Mastriano. 
  <p class="updated_time"> 05:24 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/church-shooting-china-taiwan-00032883">Authorities: Hate against Taiwanese led to church attack</a> Politico: A 52-year-old doctor was killed in the shooting and five others wounded Sunday. 
  <p class="updated_time"> 04:30 PM CT, May. 16 </p> 
