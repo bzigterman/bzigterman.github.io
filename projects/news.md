@@ -9,12 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:40 PM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/05/17/world/russia-ukraine-war-news">Live Updates: Ukrainian soldiers who surrendered to Russia face uncertain future.</a> NYT: Hundreds of Ukrainian fighters who had held out against a Russian assault at a steel mill in Mariupol have been taken prisoner by Russian forces. But Russian threats to prosecute them raise questions about the viability of the surrender deal. 
+ <p class="updated_time"> 02:54 PM CT, May. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/17/world/russia-ukraine-war-news">Live Updates: Ukrainian Soldiers Who Surrendered Face Uncertain Future</a> NYT: Hundreds of Ukrainian fighters who had held out for weeks at a steel complex in Mariupol are in Russian custody. Russian threats to prosecute them raise questions about the viability of the surrender deal. 
+ <p class="updated_time"> 02:52 PM CT, May. 17 </p> 
+ <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-russia-peace-talks.html">With Ukraine Taking Firmer Stance, Peace Talks Grind to a Halt</a> NYT: The impasse is mainly driven by Russia’s insistence on controlling large areas of Ukrainian territory. But Ukraine is also emboldened by successes on the battlefield and angry over Russian atrocities. 
+ <p class="updated_time"> 02:00 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
  <p class="updated_time"> 01:51 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/sweden-finland-nato.html">Finland and Sweden Say They Will Apply to Join NATO</a> NYT: They also said they would travel to Washington to meet with President Biden about the war in Ukraine and their bid to join the Western military alliance. 
- <p class="updated_time"> 01:48 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
  <p class="updated_time"> 01:39 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/uk-eu-northern-ireland-protocol.html">In Risky Move, U.K. Says It May Scrap Northern Ireland Trade Rules</a> NYT: The decision sets Britain on a collision course with the European Union, 18 months after a trade deal that was meant to have completed Brexit. 
  <p class="updated_time"> 01:28 PM CT, May. 17 </p> 
@@ -29,22 +31,20 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61485525?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Biden rebukes 'poison' of white supremacy</a> BBC: The suspect in a mass shooting in New York belongs to "a hateful minority", the president said. 
  <p class="updated_time"> 01:02 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/spain-time-off-period-pain.html">Spain Considers Paid Time Off for Women With Severe Period Symptoms</a> NYT: A draft law would allow women to stay home if they are diagnosed by a doctor. It would also extend abortion access, but it faces an arduous path through Parliament. 
- <p class="updated_time"> 12:48 PM CT, May. 17 </p> 
+ <p class="updated_time"> 01:00 PM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128">Mariupol’s Last Defenders Yield, Ending Long Russian Siege</a> WSJ: Mariupol’s Last Defenders Yield, Ending Long Russian Siege 
  <p class="updated_time"> 12:38 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html">Poor Countries Face a Mounting Catastrophe Fueled by Inflation and Debt</a> NYT: Russia’s war in Ukraine is combining with a global tightening of credit and an economic slowdown in China to sow misery in low- and middle-income countries. 
- <p class="updated_time"> 11:48 AM CT, May. 17 </p> 
+ <p class="updated_time"> 12:00 PM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958">How Germany Is Racing to Sever Dependence on Russian Energy</a> WSJ: How Germany Is Racing to Sever Dependence on Russian Energy 
  <p class="updated_time"> 11:47 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61463884?at_medium=RSS&at_campaign=KARANGA">Lebanon election: Hezbollah and allies lose parliamentary majority</a> BBC: The Iran-backed group suffers a setback in the first elections since mass anti-government protests. 
  <p class="updated_time"> 11:43 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61476714?at_medium=RSS&at_campaign=KARANGA">Lebanon election results raise spectre of new power struggle</a> BBC: Prolonged deadlock could ensue after Hezbollah's allies lost seats to their rivals, says Anna Foster. 
+ <p class="updated_time"> 11:00 AM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/sweden-finland-to-lodge-nato-bid-11652807054">Sweden, Finland to Lodge NATO Bid</a> WSJ: Sweden, Finland to Lodge NATO Bid 
  <p class="updated_time"> 10:49 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61484222?at_medium=RSS&at_campaign=KARANGA">Retired colonel speaks out on Russian TV</a> BBC: Mikhail Khodarenok gives a rare insight saying the military operation in Ukraine can only get worse. 
- <p class="updated_time"> 10:48 AM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/sweden-finland-to-lodge-nato-bid-11652807054">Sweden, Finland to Lodge NATO Bid</a> WSJ: Sweden, Finland to Lodge NATO Bid 
- <p class="updated_time"> 10:43 AM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-russia-peace-talks.html">With Ukraine Taking Firmer Stance, Peace Talks Grind to a Halt</a> NYT: The impasse is mainly driven by Russia’s insistence on controlling large swaths of Ukrainian territory. But Ukraine is also emboldened by successes on the battlefield and angry over Russian atrocities. 
  <p class="updated_time"> 10:41 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61474201?at_medium=RSS&at_campaign=KARANGA">UFOs: Few answers at rare US Congressional hearing</a> BBC: While top Pentagon brass say most encounters can be explained, a handful remain a complete mystery. 
  <p class="updated_time"> 10:41 AM CT, May. 17 </p> 
@@ -57,14 +57,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/world/canada/prince-charles-canada-visit.html">Prince Charles and Camilla Visit Canada</a> NYT: Prince Charles will make a three day tour of the country, where polls suggest there’s little support for the monarchy — but amending Canada’s Constitution is difficult. 
  <p class="updated_time"> 10:01 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/article/uk-northern-ireland-protocol-eu.html">What Is the Northern Ireland Protocol?</a> NYT: Britain has threatened to override a set of post-Brexit rules known as the Northern Ireland protocol. The European Union sees them as a key part of protecting its single market. 
+ <p class="updated_time"> 10:00 AM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/as-new-covid-19-variants-drive-fifth-wave-in-south-africa-virus-becomes-a-fact-of-daily-life-11652780005">As New Covid-19 Variants Drive Fifth Wave in South Africa, Virus Becomes a Fact of Daily Life</a> WSJ: As New Covid-19 Variants Drive Fifth Wave in South Africa, Virus Becomes a Fact of Daily Life 
  <p class="updated_time"> 09:58 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-eurovision-kalush-orchestra.html">Ukraine’s Eurovision winners don’t regret flouting the rules with a plea for Mariupol.</a> NYT: The winning band’s lead singer said he still feared for the fighters who had been holed up beneath the Azovstal steel plant. 
  <p class="updated_time"> 09:51 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/russia-military-ukraine.html">Russia Planned a Major Military Overhaul. Ukraine Shows the Result.</a> NYT: Russia wanted to build a leaner, more flexible fighting force and eliminate waste, bureaucracy and corruption. But entrenched, Soviet-era practices endure. 
  <p class="updated_time"> 09:50 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/asia/india-asha-health.html">The Foot Soldiers in India’s Battle to Improve Public Health</a> NYT: Over a million female health workers treat India’s most at-risk women and children, for little pay and sometimes at the cost of their own lives. 
- <p class="updated_time"> 09:48 AM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/as-new-covid-19-variants-drive-fifth-wave-in-south-africa-virus-becomes-a-fact-of-daily-life-11652780005">As New Covid-19 Variants Drive Fifth Wave in South Africa, Virus Becomes a Fact of Daily Life</a> WSJ: As New Covid-19 Variants Drive Fifth Wave in South Africa, Virus Becomes a Fact of Daily Life 
  <p class="updated_time"> 09:39 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/london-queen-elizabeth-train.html">Queen Makes Surprise Visit to Paddington Station in London</a> NYT: Queen Elizabeth II made a rare public appearance to celebrate the opening of the Elizabeth line in London, which is named in her honor. 
  <p class="updated_time"> 09:19 AM CT, May. 17 </p> 
