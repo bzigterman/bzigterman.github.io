@@ -23,25 +23,25 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/world/canada/prince-charles-canada-visit.html">Prince Charles and Camilla Visit Canada</a> NYT: Prince Charles will make a three day tour of the country, where polls suggest there’s little support for the monarchy — but amending Canada’s Constitution is difficult. 
  <p class="updated_time"> 03:53 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61472021?at_medium=RSS&at_campaign=KARANGA">Turkey threatens to block Finland and Sweden Nato bids</a> BBC: Turkish President Erdogan accused the Nordic nations of harbouring terrorists wanted by Ankara. 
+ <p class="updated_time"> 03:53 AM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Gains Raise Kyiv’s War Aims</a> WSJ: Ukraine’s Military Gains Raise Kyiv’s War Aims 
  <p class="updated_time"> 03:46 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61478036?at_medium=RSS&at_campaign=KARANGA">Colombian robbery victim crashes car into thieves</a> BBC: The thieves stole a watch and mobile phone before the victim drove into them in his convertible. 
- <p class="updated_time"> 03:41 AM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Gains Raise Kyiv’s War Aims</a> WSJ: Ukraine’s Military Gains Raise Kyiv’s War Aims 
  <p class="updated_time"> 03:32 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61463886?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: Christian leaders condemn violence at reporter's funeral</a> BBC: Christian leaders in Jerusalem accuse Israel of violating an agreement to uphold religious freedom. 
  <p class="updated_time"> 03:21 AM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099401569/new-zealand-shooting-survivor-says-violence-achieved-nothing">New Zealand shooting survivor says violence achieved nothing</a> NPR: The deadly attacks at two Christchurch mosques brought people together rather than sowing discord, one of the survivors says. 
- <p class="updated_time"> 02:41 AM CT, May. 17 </p> 
+ <p class="updated_time"> 02:53 AM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/u-n-seeks-to-ease-russian-blockade-of-ukraine-grain-shipping-to-avert-food-shortages-11652717161">U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages</a> WSJ: U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages 
+ <p class="updated_time"> 01:53 AM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
  <p class="updated_time"> 01:47 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-61463876?at_medium=RSS&at_campaign=KARANGA">McDonald's to leave Russia for good after 30 years</a> BBC: The chain opened in Moscow in 1990 as the Soviet Union was opening its economy to Western brands. 
- <p class="updated_time"> 01:41 AM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
  <p class="updated_time"> 01:22 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61475393?at_medium=RSS&at_campaign=KARANGA">India’s construction workers bear the brunt of heatwave</a> BBC: A brutal heatwave is wreaking havoc on the health and livelihoods of India's working poor. 
- <p class="updated_time"> 12:41 AM CT, May. 17 </p> 
+ <p class="updated_time"> 12:53 AM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/north-korea-covid-surge-accelerates-as-unvaccinated-population-keeps-working-11652710861">North Korea Covid-19 Surge Accelerates</a> WSJ: North Korea Covid-19 Surge Accelerates 
- <p class="updated_time"> 11:41 PM CT, May. 16 </p> 
+ <p class="updated_time"> 11:53 PM CT, May. 16 </p> 
  <a href="https://www.wsj.com/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630">​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China</a> WSJ: ​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China 
  <p class="updated_time"> 11:34 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/estonia-kallas-ukraine-russia.html">Estonia’s Tough Voice on Ukraine Urges No Compromise With Putin</a> NYT: Kaja Kallas, the prime minister, remembers the repression of life under Soviet rule and sees the same brutality in occupied Ukraine, which she believes is fighting for all of Europe. 
@@ -216,8 +216,30 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/17/1098065157/oregon-primary-election-results">Here are the key primary election results from Oregon</a> NPR: A term-limited Gov. Kate Brown means there's an open race for governor. And Democratic Rep. Kurt Schrader faces a progressive challenger. 
  <p class="updated_time"> 04:00 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/biden-buffalo-ny-visit.html">Biden Heads to Buffalo to Mourn Shooting Victims</a> NYT: The challenge for a president who came to office preaching unity may be how to take on those preaching hate. 
+ <p class="updated_time"> 04:00 AM CT, May. 17 </p> 
+ <a href="https://www.politico.com/news/2022/05/17/bidens-china-trade-trump-tariffs-inflation-00032874">Biden’s politically perilous choice on China trade</a> Politico: The president is under increasing pressure to lift tariffs to combat inflation, but doing so risks the support of unions and domestic industries critical to his electoral coalition. 
+ <p class="updated_time"> 03:31 AM CT, May. 17 </p> 
+ <a href="https://www.politico.com/news/2022/05/17/seven-states-decide-senate-control-00032881">These 7 states will decide control of the Senate</a> Politico: Republicans only need to net one seat to win control of the Senate. These are the swing states each party is targeting. 
+ <p class="updated_time"> 03:31 AM CT, May. 17 </p> 
+ <a href="https://www.politico.com/news/2022/05/17/fetterman-weed-legalization-00032792">Fetterman’s not-so-secret weapon: Weed legalization</a> Politico: The issue isn’t top of mind for most voters, but the Democratic frontrunner is betting that it could help draw people to the polls. 
+ <p class="updated_time"> 03:31 AM CT, May. 17 </p> 
+ <a href="https://www.politico.com/news/2022/05/17/florida-fight-dont-say-gay-00032512">Florida's fight over ‘Don't Say Gay’ is getting more heated. And it hasn't even gone into effect yet.</a> Politico: The law, which is set to go into effect July 1, has led to varying responses from local school leaders and generated allegations of censorship from students speaking out against the measure. 
+ <p class="updated_time"> 03:30 AM CT, May. 17 </p> 
+ <a href="https://www.politico.com/news/2022/05/17/tuesday-primaries-what-to-watch-00032945">It's Midterm Super Tuesday. Here are the people, places and big political questions at stake.</a> Politico: Pennsylvania's big GOP primaries, a host of expensive Democratic House fights and more are on tap across five states. 
+ <p class="updated_time"> 03:30 AM CT, May. 17 </p> 
+ <a href="https://www.politico.com/news/2022/05/17/oregon-elections-crypto-super-pac-00032960">Crypto gets its first big political test</a> Politico: A super PAC largely backed by cryptocurrency billionaire Sam Bankman-Fried has poured more than $11 million into a House primary in Oregon. 
+ <p class="updated_time"> 03:30 AM CT, May. 17 </p> 
+ <a href="https://www.politico.com/news/2022/05/17/eric-adams-frank-carone-city-hall-00032798">Adams’ top aide navigates uncharted path on New York ethics issues</a> Politico: Cab companies, nursing homes and developers are among the clients of Chief of Staff Frank Carone’s former law firm. 
+ <p class="updated_time"> 03:30 AM CT, May. 17 </p> 
+ <a href="https://www.politico.com/news/2022/05/17/states-expand-abortions-flood-of-patients-00032815">Blue states expand who can provide abortions as they brace for a flood of patients</a> Politico: Doctors, lawmakers and activists are squaring off over the policy of allowing non-physicians to terminate a pregnancy 
+ <p class="updated_time"> 03:30 AM CT, May. 17 </p> 
+ <a href="https://www.politico.com/news/2022/05/17/kamala-harris-senate-ties-00032949">Harris left the Senate to become VP. Now she can’t quit the Senate, literally.</a> Politico: The veep has cast more tie-breaking votes than all but two predecessors. It’s starting to frustrate some staff. 
+ <p class="updated_time"> 03:30 AM CT, May. 17 </p> 
+ <a href="https://www.politico.com/news/2022/05/17/moveon-30-million-maga-campaign-00032763">MoveOn plows $30 million into 'Us vs. MAGA' campaign</a> Politico: The progressive group is investing $30 million into midterm battles for Congress, governorships and secretaries of state, betting that key voters don't want pro-Trump Republicans. 
+ <p class="updated_time"> 03:30 AM CT, May. 17 </p> 
+ <a href="https://www.politico.com/news/2022/05/17/latino-group-spending-nevada-race-00032956">Latino group spends big on anti-Laxalt ads in Nevada Senate race</a> Politico: Nevada is one of only three battleground states that is expected to see significantly increased Hispanic turnout this year, 
  <p class="updated_time"> 02:56 AM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/us/politics/primary-elections-pennsylvania-north-carolina.html">What to Watch for in the Pennsylvania and North Carolina Primaries</a> NYT: In the pivotal swing state of Pennsylvania, voters will decide hugely consequential primaries for Senate and governor. And in North Carolina, Madison Cawthorn’s political fate will be determined. 
+ <a href="https://www.nytimes.com/2022/05/17/us/politics/primary-elections-pennsylvania-north-carolina.html">What to Watch For in the Pennsylvania and North Carolina Primaries Today</a> NYT: In the pivotal swing state of Pennsylvania, voters will decide hugely consequential primaries for Senate and governor. And in North Carolina, Madison Cawthorn’s political fate will be determined. 
  <p class="updated_time"> 11:23 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/17/ukraine-evacuation-mariupol-steel-mill-00032965">More than 260 Ukrainian fighters evacuated from Mariupol steel works</a> Politico: “Ukraine needs Ukrainian heroes to be alive,” President Volodymyr Zelenskyy said after they were taken to areas under Russia's control. 
  <p class="updated_time"> 09:20 PM CT, May. 16 </p> 
@@ -266,8 +288,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/16/1096943765/some-pennsylvania-lawmakers-who-helped-pass-mail-in-voting-law-now-want-it-throw">Some Pennsylvania GOP lawmakers who passed mail-in voting law now want it thrown out</a> NPR: In a key swing state, Pennsylvania's highest court is weighing a challenge to a state law that's expanded mail-in voting. The challenge was put forth in part by 11 GOP lawmakers who voted for the law. 
  <p class="updated_time"> 03:21 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/greenberg-set-to-be-sentenced-in-august-00032764">Sentencing for Gaetz 'wingman' delayed until August</a> Politico: The former tax collector pleaded guilty to six felony charges. 
- <p class="updated_time"> 03:14 PM CT, May. 16 </p> 
- <a href="https://www.politico.com/news/2022/05/16/new-york-new-congressional-maps-incumbents-00032752">New York's new congressional maps would place 5 pairs of incumbents in the same districts</a> Politico: The maps for New York's 26 congressional districts will play an instrumental role in whether Democrats can retain control of the House in the midterm elections. 
  <p class="updated_time"> 03:05 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/fda-pfizer-booster-children.html">F.D.A. Expected to Soon Clear Pfizer Booster for Children Ages 5 to 11</a> NYT: Given that the age group has the lowest coronavirus vaccination rate of all eligible Americans, public health experts are not expecting a rush for the booster. 
  <p class="updated_time"> 02:57 PM CT, May. 16 </p> 
@@ -278,8 +298,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/05/15/politics/trump-endorsement-oz-cawthorn-republican-primary/index.html">Trump could be facing an endorsement waterloo this week</a> CNN: This past week, former President Donald Trump suffered his first high-profile endorsement defeat of 2022. Nebraska businessman Charles Herbster, who faced allegations of sexual misconduct by multiple women, lost the GOP nomination for governor. 
  <p class="updated_time"> 01:12 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/ted-cruz-supreme-court-campaign-finance.html">Supreme Court Rules for Ted Cruz in Campaign Finance Case</a> NYT: The Texas senator challenged a federal law that put a $250,000 cap on repayments of candidates’ loans to their campaigns using postelection contributions. 
- <p class="updated_time"> 12:49 PM CT, May. 16 </p> 
- <a href="https://www.politico.com/news/2022/05/16/intelligence-agencies-congress-ufo-hearing-00032713">‘A Skull and Bones-type vibe’: Spy agencies grapple with how much to share at UFO hearing</a> Politico: Congress may need to create incentives to get national security officials to talk. 
  <p class="updated_time"> 10:33 AM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/abortion-rights-advocates-legal-playbook-roe-00032690">What abortion rights advocates are planning if Roe falls</a> Politico: Attorneys and advocates are exploring options beyond lawsuits, including using strategies once relied on by their foes. 
  <p class="updated_time"> 10:25 AM CT, May. 16 </p> 
@@ -302,8 +320,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/15/us/politics/john-fetterman-stroke.html">John Fetterman Recovering After Stroke Before His Senate Primary</a> NYT: John Fetterman, the Pennsylvania lieutenant governor who is running for the state’s Democratic Senate nomination, canceled events on Friday, Saturday and Sunday. 
  <p class="updated_time"> 09:46 PM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/chris-van-hollen-stroke-senate-00032632">Van Hollen says he suffered stroke</a> Politico: "Fortunately, I have been informed that there are no long-term effects," he said in a statement. 
- <p class="updated_time"> 05:03 PM CT, May. 15 </p> 
- <a href="https://www.politico.com/news/2022/05/15/biden-midterms-less-bipartisanship-00032585">Biden starts conceding that the bygone era of D.C. may, indeed, be gone</a> Politico: Among his inner circle, there has been a hankering for sharper elbows. 
  <p class="updated_time"> 02:26 PM CT, May. 15 </p> 
  <a href="https://www.nytimes.com/2022/05/15/us/politics/kathy-barnette-islam-tweets.html">Kathy Barnette Says She ‘Can’t Provide a Lot of Context’ for Her Anti-Islamic Tweets</a> NYT: Her sudden rise in the Pennsylvania Senate primary has some Republicans worried about her prospects in November. 
  <p class="updated_time"> 12:55 PM CT, May. 15 </p> 
@@ -316,6 +332,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/15/pelosi-blackmail-border-pandemic-aid-00032557">Pelosi rips GOP 'blackmail' in linking border vote to pandemic aid</a> Politico: "There's no use holding it up to blackmail as the Republicans are trying to do," she said. 
  <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/polling-changes-2024-elections-00032540">Pollsters prepare for major changes after presidential election misses</a> Politico: The discussion among leading pollsters at a recent conference heralds the biggest change in American polling in decades. 
+ <p class="updated_time"> 10:55 AM CT, May. 14 </p> 
+ <a href="https://www.politico.com/news/2022/05/14/inside-the-forecast-important-primary-night-00032541">Inside the Forecast: Welcome to the year's most important primary night</a> Politico: POLITICO’s Steve Shepard demystifies this week’s election data in a video series. 
  <p class="updated_time"> 08:57 AM CT, May. 14 </p> 
  <a href="https://www.politico.com/news/2022/05/14/trump-endorses-mastriano-pennsylvania-governor-00032538">Trump endorses Mastriano for Pennsylvania governor</a> Politico: “There is no one in Pennsylvania who has done more, or fought harder, for Election Integrity than State Senator Doug Mastriano,” Trump wrote in a statement. 
  <p class="updated_time"> 07:52 AM CT, May. 14 </p> 
