@@ -9,36 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:16 AM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Gains Raise Kyiv’s War Aims</a> WSJ: Ukraine’s Military Gains Raise Kyiv’s War Aims 
  <p class="updated_time"> 02:11 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61472021?at_medium=RSS&at_campaign=KARANGA">Turkey threatens to block Finland and Sweden Nato bids</a> BBC: Turkish President Erdogan accused the Nordic nations of harbouring terrorists wanted by Ankara. 
  <p class="updated_time"> 01:47 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-61463876?at_medium=RSS&at_campaign=KARANGA">McDonald's to leave Russia for good after 30 years</a> BBC: The chain opened in Moscow in 1990 as the Soviet Union was opening its economy to Western brands. 
- <p class="updated_time"> 01:25 AM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Gains Raise Kyiv’s War Aims</a> WSJ: Ukraine’s Military Gains Raise Kyiv’s War Aims 
  <p class="updated_time"> 01:22 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61475393?at_medium=RSS&at_campaign=KARANGA">India’s construction workers bear the brunt of heatwave</a> BBC: A brutal heatwave is wreaking havoc on the health and livelihoods of India's working poor. 
+ <p class="updated_time"> 01:16 AM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/u-n-seeks-to-ease-russian-blockade-of-ukraine-grain-shipping-to-avert-food-shortages-11652717161">U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages</a> WSJ: U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages 
  <p class="updated_time"> 12:57 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/05/16/world/russia-ukraine-war-news">What Happened on Day 82 of the War in Ukraine</a> NYT: Hundreds of Ukrainian fighters were taken by bus to Russian-controlled territory. Ukraine’s president said the combat mission in the city was over, capping some of the longest, fiercest resistance of the war. 
- <p class="updated_time"> 12:25 AM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/u-n-seeks-to-ease-russian-blockade-of-ukraine-grain-shipping-to-avert-food-shortages-11652717161">U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages</a> WSJ: U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages 
+ <p class="updated_time"> 12:16 AM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
  <p class="updated_time"> 11:34 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/estonia-kallas-ukraine-russia.html">Estonia’s Tough Voice on Ukraine Urges No Compromise With Putin</a> NYT: Kaja Kallas, the prime minister, remembers the repression of life under Soviet rule and sees the same brutality in occupied Ukraine, which she believes is fighting for all of Europe. 
- <p class="updated_time"> 11:25 PM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
+ <p class="updated_time"> 11:16 PM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-covid-surge-accelerates-as-unvaccinated-population-keeps-working-11652710861">North Korea Covid-19 Surge Accelerates</a> WSJ: North Korea Covid-19 Surge Accelerates 
  <p class="updated_time"> 11:08 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-61474771?at_medium=RSS&at_campaign=KARANGA">US warns over risk of hiring North Korea IT workers</a> BBC: The remote workers allegedly aim to help fund Pyongyang's advanced weapons programmes. 
  <p class="updated_time"> 11:01 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/17/climate/michael-bloomberg-climate-coal.html">Michael Bloomberg Plans a $242 Million Investment in Clean Energy</a> NYT: The billionaire and former mayor of New York City will fund programs in 10 developing countries. 
  <p class="updated_time"> 10:29 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/australia/cobargo-bushfires-election.html">How the Long Recovery From Bush Fires Could Decide Australia’s Election</a> NYT: The fires that tore through the country in late 2019 and early 2020 are history, but halting recovery efforts have kept memories vivid and anger fresh. 
- <p class="updated_time"> 10:25 PM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/north-korea-covid-surge-accelerates-as-unvaccinated-population-keeps-working-11652710861">North Korea Covid-19 Surge Accelerates</a> WSJ: North Korea Covid-19 Surge Accelerates 
+ <p class="updated_time"> 10:16 PM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630">​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China</a> WSJ: ​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China 
  <p class="updated_time"> 09:36 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61472025?at_medium=RSS&at_campaign=KARANGA">Mariupol: Hundreds of besieged Ukrainian soldiers evacuated</a> BBC: Ukraine says 264 fighters - some badly wounded - have been taken from the Azovstal steelworks. 
  <p class="updated_time"> 09:34 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-61474732?at_medium=RSS&at_campaign=KARANGA">Sri Lanka down to last day of petrol, new prime minister says</a> BBC: Ranil Wickremesinghe says the country's central bank will print money to pay government wages. 
- <p class="updated_time"> 09:25 PM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630">​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China</a> WSJ: ​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China 
  <p class="updated_time"> 09:20 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/russia-ukraine-east.html">Further Russian Retreat Seen in East Ukraine, Another Setback for Putin</a> NYT: Russia appeared to shrink its already narrowed goals to take the Donbas region, as NATO and its two newest applicants, Sweden and Finland, practiced war games near Russia’s border. 
  <p class="updated_time"> 09:20 PM CT, May. 16 </p> 
@@ -82,7 +82,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:00 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61459023?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Gunman sought to 'continue his rampage'</a> BBC: Questions are being asked about how the suspect carried out the attack when he was known to authorities. 
  <p class="updated_time"> 02:41 PM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/world/europe/macron-prime-minister.html">Taking Aim at Left-Leaning Voters, Macron Names Élisabeth Borne as Prime Minister</a> NYT: Élisabeth Borne, the minister of labor who previously was in charge of the environment, will be the second woman to hold the post in France. 
+ <a href="https://www.nytimes.com/2022/05/16/world/europe/macron-prime-minister.html">Élisabeth Borne Is Named as French Prime Minister</a> NYT: Élisabeth Borne, the minister of labor who previously was in charge of the environment, will be the second woman to hold the post in France. 
  <p class="updated_time"> 02:29 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-military-somalia.html">Biden Approves Plan to Redeploy Several Hundred Ground Forces Into Somalia</a> NYT: The president also signed off on targeting about a dozen Shabab leaders in the war-torn country, from which Donald J. Trump largely withdrew in his final weeks in office. 
  <p class="updated_time"> 02:28 PM CT, May. 16 </p> 
@@ -185,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/14/world/asia/afghan-scrap-metal-mines.html">In Afghanistan, Collecting Scrap Metal Is a Risky Pursuit</a> NYT: Discarded metal left by decades of conflict has become a livelihood for impoverished Afghans. But many have been killed by unexploded munitions. 
  <p class="updated_time"> 04:00 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/europe/germany-russia-oligarchs-bavaria.html">At a German Hideaway, Oligarch Villas Challenge a ‘Silent Contract’</a> NYT: Tegernsee, a luxury getaway in Bavaria, is known for quietly hosting the superrich. But war in Ukraine has divided locals about whether the authorities should go after the assets of their wealthy Russian neighbors. 
- <p class="updated_time"> 02:45 AM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/2022/05/14/world/australia/australian-election-transgender-rights.html">An American Moment in an Australian Campaign</a> NYT: To some analysts, a spat over transition surgery looks like something from an overseas culture war. 
 
 
 </details>
@@ -194,10 +192,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:56 AM CT, May. 17 </p> 
+ <a href="https://www.nytimes.com/2022/05/17/us/politics/primary-elections-pennsylvania-north-carolina.html">What to Watch For in the Pennsylvania and North Carolina Primaries</a> NYT: In the pivotal swing state of Pennsylvania, voters will decide hugely consequential primaries for Senate and governor. And in North Carolina, Madison Cawthorn’s political fate will be determined. 
  <p class="updated_time"> 11:23 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/17/ukraine-evacuation-mariupol-steel-mill-00032965">More than 260 Ukrainian fighters evacuated from Mariupol steel works</a> Politico: “Ukraine needs Ukrainian heroes to be alive,” President Volodymyr Zelenskyy said after they were taken to areas under Russia's control. 
- <p class="updated_time"> 11:01 PM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/17/us/politics/primary-elections-pennsylvania-north-carolina.html">What to Watch For in the Pennsylvania and North Carolina Primaries</a> NYT: In the pivotal swing state of Pennsylvania, voters will decide hugely consequential primaries for Senate and governor. And in North Carolina, Madison Cawthorn’s political fate will be determined. 
  <p class="updated_time"> 09:20 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-cuba-policy.html">Biden Administration Lifting Some Trump-Era Restrictions on Cuba</a> NYT: The changes include an expansion of flights to the country and the restarting of a family reunification program. 
  <p class="updated_time"> 09:07 PM CT, May. 16 </p> 
