@@ -25,26 +25,26 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61472021?at_medium=RSS&at_campaign=KARANGA">Turkey threatens to block Finland and Sweden Nato bids</a> BBC: Turkish President Erdogan accused the Nordic nations of harbouring terrorists wanted by Ankara. 
  <p class="updated_time"> 03:46 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61478036?at_medium=RSS&at_campaign=KARANGA">Colombian robbery victim crashes car into thieves</a> BBC: The thieves stole a watch and mobile phone before the victim drove into them in his convertible. 
+ <p class="updated_time"> 03:41 AM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Gains Raise Kyiv’s War Aims</a> WSJ: Ukraine’s Military Gains Raise Kyiv’s War Aims 
  <p class="updated_time"> 03:32 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61463886?at_medium=RSS&at_campaign=KARANGA">Shireen Abu Aqla: Christian leaders condemn violence at reporter's funeral</a> BBC: Christian leaders in Jerusalem accuse Israel of violating an agreement to uphold religious freedom. 
- <p class="updated_time"> 03:23 AM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraines-military-regains-ground-in-northeast-targets-another-russian-river-crossing-11652695700">Ukraine’s Military Gains Raise Kyiv’s War Aims</a> WSJ: Ukraine’s Military Gains Raise Kyiv’s War Aims 
  <p class="updated_time"> 03:21 AM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099401569/new-zealand-shooting-survivor-says-violence-achieved-nothing">New Zealand shooting survivor says violence achieved nothing</a> NPR: The deadly attacks at two Christchurch mosques brought people together rather than sowing discord, one of the survivors says. 
- <p class="updated_time"> 02:23 AM CT, May. 17 </p> 
+ <p class="updated_time"> 02:41 AM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/u-n-seeks-to-ease-russian-blockade-of-ukraine-grain-shipping-to-avert-food-shortages-11652717161">U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages</a> WSJ: U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages 
  <p class="updated_time"> 01:47 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-61463876?at_medium=RSS&at_campaign=KARANGA">McDonald's to leave Russia for good after 30 years</a> BBC: The chain opened in Moscow in 1990 as the Soviet Union was opening its economy to Western brands. 
- <p class="updated_time"> 01:23 AM CT, May. 17 </p> 
+ <p class="updated_time"> 01:41 AM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/chinas-economic-distress-deepens-as-lockdowns-drag-on-11652703162">China’s Economic Distress Deepens as Lockdowns Drag On</a> WSJ: China’s Economic Distress Deepens as Lockdowns Drag On 
  <p class="updated_time"> 01:22 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61475393?at_medium=RSS&at_campaign=KARANGA">India’s construction workers bear the brunt of heatwave</a> BBC: A brutal heatwave is wreaking havoc on the health and livelihoods of India's working poor. 
- <p class="updated_time"> 12:23 AM CT, May. 17 </p> 
+ <p class="updated_time"> 12:41 AM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/north-korea-covid-surge-accelerates-as-unvaccinated-population-keeps-working-11652710861">North Korea Covid-19 Surge Accelerates</a> WSJ: North Korea Covid-19 Surge Accelerates 
+ <p class="updated_time"> 11:41 PM CT, May. 16 </p> 
+ <a href="https://www.wsj.com/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630">​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China</a> WSJ: ​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China 
  <p class="updated_time"> 11:34 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/estonia-kallas-ukraine-russia.html">Estonia’s Tough Voice on Ukraine Urges No Compromise With Putin</a> NYT: Kaja Kallas, the prime minister, remembers the repression of life under Soviet rule and sees the same brutality in occupied Ukraine, which she believes is fighting for all of Europe. 
- <p class="updated_time"> 11:23 PM CT, May. 16 </p> 
- <a href="https://www.wsj.com/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630">​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China</a> WSJ: ​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China 
  <p class="updated_time"> 11:08 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-61474771?at_medium=RSS&at_campaign=KARANGA">US warns over risk of hiring North Korea IT workers</a> BBC: The remote workers allegedly aim to help fund Pyongyang's advanced weapons programmes. 
  <p class="updated_time"> 11:01 PM CT, May. 16 </p> 
@@ -183,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/13/us/politics/russia-sanctions-evasion-treasury.html">Treasury Warns Foreign Banks Against Helping Russia Evade Sanctions</a> NYT: Adewale Adeyemo, the deputy Treasury secretary, met privately with international financial institutions to make clear the consequences of sanctions evasion. 
  <p class="updated_time"> 05:00 AM CT, May. 14 </p> 
  <a href="https://www.nytimes.com/2022/05/14/world/asia/north-korea-covid-outbreak.html">North Korea Says Its Covid Outbreak Is Spreading Fast</a> NYT: State media reported 21 new deaths and a huge jump in suspected cases on Saturday, but it was unclear how many had been definitively linked to the coronavirus. 
- <p class="updated_time"> 04:38 AM CT, May. 14 </p> 
- <a href="https://www.nytimes.com/2022/05/14/world/asia/afghan-scrap-metal-mines.html">In Afghanistan, Collecting Scrap Metal Is a Risky Pursuit</a> NYT: Discarded metal left by decades of conflict has become a livelihood for impoverished Afghans. But many have been killed by unexploded munitions. 
 
 
 </details>
@@ -192,6 +190,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, May. 17 </p> 
+ <a href="https://www.npr.org/2022/05/17/1098875556/congressional-candidate-alexandra-hunt-wants-you-to-look-beyond-her-past">Congressional candidate Alexandra Hunt wants you to look beyond her past </a> NPR: The 29-year-old looking to unseat Rep. Dwight Evans for Pennsylvania's 3rd Congressional District, has grabbed attention for her past as a stripper and for creating an OnlyFans. 
  <p class="updated_time"> 04:15 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/yellen-europe-ukraine-aid.html">Yellen Calls on Europe to Boost Ukraine Aid</a> NYT: The Treasury secretary warned that Ukraine did not have enough funding to sustain its government and fend off Russia. 
  <p class="updated_time"> 04:01 AM CT, May. 17 </p> 
@@ -264,8 +264,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/16/1099256713/supreme-court-sides-with-sen-ted-cruz-in-campaign-finance-case">Supreme Court sides with Sen. Ted Cruz in campaign finance case</a> NPR: At issue was a federal law that has been on the books for 20 years that barred federal candidates from raising more than $250,000 to repay loans made to their campaigns. 
  <p class="updated_time"> 04:00 PM CT, May. 16 </p> 
  <a href="https://www.npr.org/2022/05/16/1096943765/some-pennsylvania-lawmakers-who-helped-pass-mail-in-voting-law-now-want-it-throw">Some Pennsylvania GOP lawmakers who passed mail-in voting law now want it thrown out</a> NPR: In a key swing state, Pennsylvania's highest court is weighing a challenge to a state law that's expanded mail-in voting. The challenge was put forth in part by 11 GOP lawmakers who voted for the law. 
- <p class="updated_time"> 03:37 PM CT, May. 16 </p> 
- <a href="https://www.npr.org/2022/05/16/1099244579/abortion-rights-in-maine-could-be-at-risk-if-republicans-reclaim-the-state-gover">Abortion rights in Maine could be at risk if Republicans reclaim the state government</a> NPR: Former Gov. Paul LePage is in a close race with Maine's sitting governor, Democrat Janet Mills. Maine's GOP is uniting around the fall of Roe and has a motivated base. 
  <p class="updated_time"> 03:21 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/greenberg-set-to-be-sentenced-in-august-00032764">Sentencing for Gaetz 'wingman' delayed until August</a> Politico: The former tax collector pleaded guilty to six felony charges. 
  <p class="updated_time"> 03:14 PM CT, May. 16 </p> 
