@@ -9,13 +9,15 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:39 AM CT, May. 17 </p> 
+ <a href="https://www.nytimes.com/2022/05/17/world/europe/queen-elizabeth-london-train-crossrail.html">Queen Makes Surprise Visit to Paddington Station in London</a> NYT: Queen Elizabeth II made a rare public appearance to celebrate the opening of the Elizabeth line in London, which is named in her honor. 
  <p class="updated_time"> 09:19 AM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099451406/hezbollah-loses-majority-in-lebanon-parliament">Hezbollah and its allies lose their majority in Lebanon's parliament</a> NPR: Lebanon's militant Hezbollah group and its allies lost their parliamentary majority, final elections results showed Tuesday, while more than a dozen independent newcomers gained seats. 
  <p class="updated_time"> 09:16 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/live/2022/05/17/world/russia-ukraine-war-news">Live Updates: As Ukraine Orders Surrender of Steel Plant, Russia Seeks Stronger Hold in South</a> NYT: Dozens of Ukrainian fighters in Mariupol were evacuated to Russian-controlled territory as Moscow overcame the last pocket of resistance to securing a link between the Russian border and Crimea. 
  <p class="updated_time"> 09:09 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html">Poor Countries Face a Mounting Catastrophe Fueled by Inflation and Debt</a> NYT: Russia’s war in Ukraine is combining with a global tightening of credit and an economic slowdown in China to sow misery in low- and middle-income countries. 
- <p class="updated_time"> 08:28 AM CT, May. 17 </p> 
+ <p class="updated_time"> 08:43 AM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128">Ukrainian Soldiers Lay Down Arms at Mariupol’s Azovstal Steel Plant</a> WSJ: Ukrainian Soldiers Lay Down Arms at Mariupol’s Azovstal Steel Plant 
  <p class="updated_time"> 08:26 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/asia/shanghai-covid.html">Shanghai Declares Victory in Covid Outbreak, but Lockdowns Continue</a> NYT: Reports in state news media about the return of daily life in the financial hub brought distressed responses from residents. 
@@ -24,24 +26,24 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:17 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/asia/india-asha-health.html">The Foot Soldiers in India’s Battle to Improve Public Health</a> NYT: Over a million female health workers treat India’s most at-risk women and children, for little pay and sometimes at the cost of their own lives. 
  <p class="updated_time"> 08:12 AM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/world/europe/uk-eu-northern-ireland-protocol.html">In Risky Move, U.K. Signals It May Scrap Northern Ireland Trade Rules</a> NYT: The decision sets Britain on a collision course with the European Union, 18 months after a trade deal that was meant to have completed Brexit. 
+ <a href="https://www.nytimes.com/2022/05/17/world/europe/uk-eu-northern-ireland-protocol.html">In Risky Move, U.K. Signals It May Scrap Some Northern Ireland Trade Rules</a> NYT: The decision sets Britain on a collision course with the European Union, 18 months after a trade deal that was meant to have completed Brexit. 
  <p class="updated_time"> 08:04 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/asia/sri-lanka-fuel-economic-crisis.html">With Gas Pumps All but Dry, Sri Lanka Faces Its ‘Most Difficult Time’</a> NYT: The island nation’s new prime minister revealed that the country’s economic disaster was even worse than imagined. 
  <p class="updated_time"> 08:03 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61477706?at_medium=RSS&at_campaign=KARANGA">'Guatemalan attorney general involved in corruption' - US</a> BBC: The US accuses Consuelo Porras of obstructing and undermining anticorruption investigations. 
+ <p class="updated_time"> 07:43 AM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/as-new-covid-19-variants-drive-fifth-wave-in-south-africa-virus-becomes-a-fact-of-daily-life-11652780005">As New Covid-19 Variants Drive Fifth Wave in South Africa, Virus Becomes a Fact of Daily Life</a> WSJ: As New Covid-19 Variants Drive Fifth Wave in South Africa, Virus Becomes a Fact of Daily Life 
  <p class="updated_time"> 07:42 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/africa/somalia-election-president.html">Somalia Elects New President, but Terrorists Hold True Power</a> NYT: The militants of Al Shabab collect taxes, decide court cases and control the streets. Somalis ask, will a new government even matter? 
  <p class="updated_time"> 07:30 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61477775?at_medium=RSS&at_campaign=KARANGA">Drugs tunnel connecting US and Mexico found</a> BBC: The "sophisticated" cross-border passage was equipped with a rail track and ventilation system. 
- <p class="updated_time"> 07:28 AM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/as-new-covid-19-variants-drive-fifth-wave-in-south-africa-virus-becomes-a-fact-of-daily-life-11652780005">As New Covid-19 Variants Drive Fifth Wave in South Africa, Virus Becomes a Fact of Daily Life</a> WSJ: As New Covid-19 Variants Drive Fifth Wave in South Africa, Virus Becomes a Fact of Daily Life 
  <p class="updated_time"> 07:16 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/russia-military-ukraine.html">Russia Planned a Major Military Overhaul. Ukraine Shows the Result.</a> NYT: Russia wanted to build a leaner, more flexible fighting force and eliminate waste, bureaucracy and corruption. But entrenched, Soviet-era practices endure. 
  <p class="updated_time"> 07:10 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61463884?at_medium=RSS&at_campaign=KARANGA">Lebanon election: Hezbollah and allies lose parliamentary majority</a> BBC: The Iran-backed group suffers a setback in the first elections since mass anti-government protests. 
  <p class="updated_time"> 07:03 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61474201?at_medium=RSS&at_campaign=KARANGA">US Congress holds first public UFO hearing in over 50 years</a> BBC: Top Pentagon brass will testify about Unexplained Aerial Phenomena, or UAPs, and national security. 
- <p class="updated_time"> 06:28 AM CT, May. 17 </p> 
+ <p class="updated_time"> 06:43 AM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/u-n-seeks-to-ease-russian-blockade-of-ukraine-grain-shipping-to-avert-food-shortages-11652717161">U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages</a> WSJ: U.N. Seeks to Ease Russian Blockade of Ukraine Grain Shipping to Avert Food Shortages 
  <p class="updated_time"> 06:03 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61472025?at_medium=RSS&at_campaign=KARANGA">Mariupol: Hundreds of besieged Ukrainian soldiers evacuated</a> BBC: Ukraine says 264 fighters - some badly wounded - have been taken from the Azovstal steelworks. 
@@ -53,16 +55,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-view-west.html">Readers ask: How do Ukrainians see the Western response to the war?</a> NYT: Our reporters are answering readers’ questions about Russia’s invasion of Ukraine. Many of you have asked about sentiments in Ukraine about the West. 
  <p class="updated_time"> 05:46 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61478839?at_medium=RSS&at_campaign=KARANGA">Elisabeth Borne: New French PM urges girls to pursue their dreams</a> BBC: Elisabeth Borne is only the second woman in 30 years to get the job of French prime minister. 
- <p class="updated_time"> 05:28 AM CT, May. 17 </p> 
+ <p class="updated_time"> 05:43 AM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/u-s-eu-boost-trade-ties-to-remedy-supply-shortages-counter-russia-and-china-11652716630">​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China</a> WSJ: ​U.S., EU Boost Trade Ties to Fix Shortages, Counter Russia and China 
  <p class="updated_time"> 05:24 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61477704?at_medium=RSS&at_campaign=KARANGA">Mexico disappearances reach record high of 100,000 amid impunity</a> BBC: Many of the missing are victims of organised crime and hardly any of those responsible are punished. 
  <p class="updated_time"> 05:23 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61477904?at_medium=RSS&at_campaign=KARANGA">Man gambles away huge accidental Covid payment in Japan</a> BBC: The Japanese man's lawyer says the 46.3m yen ($357,400) meant for 463 people cannot be paid back. 
+ <p class="updated_time"> 04:43 AM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/frances-macron-appoints-elisabeth-borne-prime-minister-11652719402">France’s Macron Appoints First Woman Prime Minister in Three Decades</a> WSJ: France’s Macron Appoints First Woman Prime Minister in Three Decades 
  <p class="updated_time"> 04:33 AM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/as-israeli-palestinian-conflict-flares-a-hotspot-reemerges-in-the-west-bank-11652794408">As Israeli-Palestinian Conflict Flares, A West Bank Hotspot Reemerges</a> WSJ: Jenin in the West Bank has become a militant stronghold, imperiling some economic gains for Palestinians. 
- <p class="updated_time"> 04:28 AM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/frances-macron-appoints-elisabeth-borne-prime-minister-11652719402">France’s Macron Appoints First Woman Prime Minister in Three Decades</a> WSJ: France’s Macron Appoints First Woman Prime Minister in Three Decades 
  <p class="updated_time"> 04:13 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/azovstal-mariupol.html">Ukraine Signals End of Bitter Battle at Azovstal Steel Plant</a> NYT: More than 250 fighters were evacuated from the besieged Azovstal complex after holding out and sheltering civilians for weeks under near-constant Russian bombardment. 
  <p class="updated_time"> 04:01 AM CT, May. 17 </p> 
@@ -198,7 +200,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:11 AM CT, May. 17 </p> 
+ <p class="updated_time"> 09:34 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/congress-ufo-hearing.html">Congress Holds First UFO Hearing in Half a Century</a> NYT: An intelligence subcommittee will hear testimony from two Pentagon officials on observations by military pilots and others. 
  <p class="updated_time"> 09:01 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/yellen-europe-ukraine-aid.html">Yellen Calls on Europe to Boost Ukraine Aid</a> NYT: The Treasury secretary warned that Ukraine did not have enough funding to sustain its government and fend off Russia. 
@@ -229,7 +231,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:31 AM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1098875556/congressional-candidate-alexandra-hunt-wants-you-to-look-beyond-her-past">Congressional candidate Alexandra Hunt wants you to look beyond her past </a> NPR: The 29-year-old looking to unseat Rep. Dwight Evans for Pennsylvania's 3rd Congressional District, has grabbed attention for her past as a stripper and for creating an OnlyFans. 
  <p class="updated_time"> 04:01 AM CT, May. 17 </p> 
- <a href="https://www.npr.org/2022/05/17/1099374329/pennsylvanias-republican-governor-race-mastriano-barletta-shapiro-results">Mastriano, a Trump-backed election denier, leads Pennsylvania GOP field for governor</a> NPR: Far-right Pennsylvania state Sen. Doug Mastriano is leading polls in the GOP primary for governor, panicking the state's Republican party establishment. Former U.S. Rep. Lou Barletta follows. 
+ <a href="https://www.npr.org/2022/05/17/1099374329/pennsylvanias-republican-governor-race-mastriano-barletta-shapiro-results">Mastriano, a Trump-backed election denier, leads Pennsylvania GOP field for governor</a> NPR: Far-right Pennsylvania state Sen. Doug Mastriano is leading polls in the GOP primary for governor, panicking the state's Republican Party establishment. Former U.S. Rep. Lou Barletta follows. 
  <p class="updated_time"> 04:00 AM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099313555/idaho-governor-primary-election-results-trump-mcgeachin-little">Far-right challengers look to upset the status quo in the Idaho governor's primary</a> NPR: In Idaho's GOP race for governor, former President Donald Trump has endorsed Lt. Gov. Janice McGeachin, who has long ties to far-right figures and is challenging incumbent Gov. Brad Little. 
  <p class="updated_time"> 04:00 AM CT, May. 17 </p> 
