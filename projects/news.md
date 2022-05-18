@@ -9,44 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:53 AM CT, May. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/05/18/world/russia-ukraine-war-news">Ukraine Live Updates: Hundreds More Fighters Surrender in Mariupol as Questions Swirl Over Their Fate</a> NYT: Russia said that nearly 1,000 fighters had surrendered to Kremlin custody at the Azovstal steel plant. Finland and Sweden formally asked to join NATO, potentially the alliance’s biggest expansion in decades. 
+ <p class="updated_time"> 06:16 AM CT, May. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/18/world/russia-ukraine-war-news">Ukraine Live Updates: As Russia Says Hundreds More Mariupol Fighters Surrender, Their Fate Is Unclear</a> NYT: The Russian Defense Ministry said that nearly 1,000 fighters had surrendered to Kremlin custody at the Azovstal steel plant. Finland and Sweden formally asked to join NATO, potentially the alliance’s biggest expansion in decades. 
+ <p class="updated_time"> 05:23 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
  <p class="updated_time"> 05:16 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61490433?at_medium=RSS&at_campaign=KARANGA">Germany beer bottle shortage: Industry warns of 'tense' situation</a> BBC: Rising energy costs and a shortage of lorry drivers could lead to a beer bottle shortage this summer. 
  <p class="updated_time"> 05:12 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61493232?at_medium=RSS&at_campaign=KARANGA">Scott Morrison crashes into a boy during football match</a> BBC: Scott Morrison was playing five-a-side on the campaign trail ahead of Australia's election on Saturday. 
  <p class="updated_time"> 05:09 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/asia/north-korea-covid-china.html">China-Style Covid Lockdowns Risk Deepening North Korean Crisis</a> NYT: As infections spread quickly, outside experts are warning that the country’s desire to mimic Beijing’s playbook could worsen a coming disaster. 
- <p class="updated_time"> 04:59 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
+ <p class="updated_time"> 04:23 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
  <p class="updated_time"> 04:20 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/russia-finance-ministers-economy.html">Economic Headwinds Mount as Leaders Weigh Costs of Confronting Russia</a> NYT: Top economic officials are gathering this week to discuss how to keep pressure on Vladimir V. Putin without sinking their economies. 
  <p class="updated_time"> 04:00 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/climate/offset-carbon-footprint-air-travel.html">Do Airline Offset Programs Really Reduce Your Carbon Footprint?</a> NYT: Carbon credits could eventually play an important role in fighting climate change, but right now a few dollars’ worth won’t change much. 
  <p class="updated_time"> 04:00 AM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099411575/poles-polish-youth-war-ukraine-russia-refugees">How the war in Ukraine 'changed everything' for a generation of young Poles</a> NPR: Lilia Nguyen's perception of everything around her changed when she went to the border to help Ukrainian refugees shortly after the war began. The change has been felt by other young Poles. 
- <p class="updated_time"> 03:59 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
  <p class="updated_time"> 03:51 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/cycling/61490735?at_medium=RSS&at_campaign=KARANGA">Cyclist abandons race after popping cork in eye </a> BBC: Biniam Girmay is forced to abandon the Giro d'Italia one day after making history as the first black African winner of a Grand Tour stage. 
  <p class="updated_time"> 03:28 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/spain-time-off-period-pain.html">Spain Considers Bill to Give Period Leave to Women With Menstrual Pain</a> NYT: A draft law would allow women to stay home if they are diagnosed by a doctor. It would also extend abortion access, but it faces an arduous path through Parliament. 
+ <p class="updated_time"> 03:23 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-for-the-first-time-in-more-than-six-years-11652860034">China’s New Home Prices Fall for the First Time in More Than Six Years</a> WSJ: China’s New Home Prices Fall for the First Time in More Than Six Years 
  <p class="updated_time"> 03:18 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61489046?at_medium=RSS&at_campaign=KARANGA">Pennsylvania primary: Trump-backed TV doctor in cliffhanger vote count</a> BBC: Celebrity surgeon Mehmet Oz's bid to become the next Republican senator from Pennsylvania is in jeopardy. 
  <p class="updated_time"> 03:14 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61491639?at_medium=RSS&at_campaign=KARANGA">Sweden and Finland formally submit Nato applications</a> BBC: The alliance's secretary general Jens Stoltenberg says it is "a historic moment, which we must seize". 
- <p class="updated_time"> 02:59 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-for-the-first-time-in-more-than-six-years-11652860034">China’s New Home Prices Fall for the First Time in More Than Six Years</a> WSJ: China’s New Home Prices Fall for the First Time in More Than Six Years 
+ <p class="updated_time"> 02:23 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: North Korea Receives Aid From China as Covid Outbreak Spreads 
  <p class="updated_time"> 02:07 AM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099679338/finland-and-sweden-formally-submit-nato-membership-applications">Finland and Sweden formally submit NATO membership applications</a> NPR: The 30 member countries of the military alliance are expected to take up to two weeks to evaluate the applications. 
  <p class="updated_time"> 02:02 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61489488?at_medium=RSS&at_campaign=KARANGA">Lancet study: Pollution killed 2.3 million Indians in 2019</a> BBC: The report found that nearly 1.6 million deaths in India were due to air pollution alone. 
  <p class="updated_time"> 01:59 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: North Korea Receives Aid From China as Covid Outbreak Spreads 
+ <a href="https://www.wsj.com/articles/u-k-inflation-hits-40-year-high-putting-government-on-defensive-11652866547">U.K. Inflation Hits 40-Year High</a> WSJ: The U.K.’s annual rate of inflation jumped to 9% in April, the highest level recorded by an industrialized nation since the start of the global price surge last year. 
+ <p class="updated_time"> 01:40 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/russia-weighs-fate-of-ukrainian-defenders-in-mariupol-11652870447">Russia Weighs Fate of Ukrainian Defenders in Mariupol</a> WSJ: Hundreds more Ukrainian soldiers evacuated from Mariupol’s Azovstal steel plant were taken as prisoners to Russian-held areas of Ukraine, Moscow said, as Russian prosecutors called for the regiment that was holed up there to be declared a terrorist organization. 
+ <p class="updated_time"> 01:23 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/japans-economy-shrinks-slightly-in-first-quarter-11652832270">Japan’s Economy Shrank Slightly in First Quarter</a> WSJ: Japan’s Economy Shrank Slightly in First Quarter 
  <p class="updated_time"> 01:05 AM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099675985/u-s-officials-seek-clarity-on-turkeys-view-of-nato-expansion">U.S. officials seek clarity on Turkey's view of NATO expansion</a> NPR: U.S. Secretary of State Antony Blinken will meet his Turkish counterpart on Wednesday amid  the contradictory signals from Ankara over the expected applications from Finland and Sweden. 
- <p class="updated_time"> 12:59 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/japans-economy-shrinks-slightly-in-first-quarter-11652832270">Japan’s Economy Shrank Slightly in First Quarter</a> WSJ: Japan’s Economy Shrank Slightly in First Quarter 
  <p class="updated_time"> 12:26 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61482700?at_medium=RSS&at_campaign=KARANGA">Woman kidnapped as a child reunites with rescuer</a> BBC: Kathy Wrethman, from Australia, has finally come face-to-face with the man who saved her life. 
  <p class="updated_time"> 11:58 PM CT, May. 17 </p> 
@@ -60,7 +64,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:53 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/us-airstrike-civilian-deaths.html">Pentagon Faults Review of Deadly Airstrike but Finds No Wrongdoing</a> NYT: The military’s inquiry followed a New York Times investigation describing allegations that officials sought to conceal dozens of civilian casualties. 
  <p class="updated_time"> 06:49 PM CT, May. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61470748?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Inside a secret school for girls</a> BBC: The classes are a small act of defiance after the Taliban banned most teenage girls from education. 
+ <a href="https://www.bbc.co.uk/news/world-asia-61470748?at_medium=RSS&at_campaign=KARANGA">Afghanistan: The secret girls school defying the Taliban</a> BBC: The teachers fear being arrested or beaten after the Taliban banned most teenage girls from education. 
  <p class="updated_time"> 06:37 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61484697?at_medium=RSS&at_campaign=KARANGA">Climate change swells odds of record India, Pakistan heatwaves</a> BBC: A UK study says record-breaking temperatures in NW India and Pakistan are now 100 times more likely. 
  <p class="updated_time"> 06:13 PM CT, May. 17 </p> 
@@ -200,6 +204,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:20 AM CT, May. 18 </p> 
+ <a href="https://www.npr.org/2022/05/18/1099680587/a-prominent-conference-of-american-conservatives-is-taking-place-in-hungary">A prominent conference of American conservatives is taking place in Hungary</a> NPR: The Conservative Political Action Conference is in Hungary this week, with a keynote from Prime Minister Viktor Orban. He has clamped down on democratic institutions and targeted minority groups. 
+ <p class="updated_time"> 06:19 AM CT, May. 18 </p> 
+ <a href="https://www.npr.org/2022/05/18/1099680580/5-states-went-to-the-polls-tuesday-to-pick-candidates-in-primary-elections">5 states went to the polls Tuesday to pick candidates in primary elections</a> NPR: A key U.S. Senate race in Pennsylvania is too close to call. North Carolina Rep. Madison Cawthorn, a freshman Republican who's been beset by scandal, has been ousted in a heated primary. 
  <p class="updated_time"> 05:37 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/john-fetterman-the-left-leaning-pennsylvania-politician-in-gym-clothes.html">John Fetterman: The left-leaning Pennsylvania politician in gym clothes.</a> NYT: “Just a dude” who won Pennsylvania’s Democratic nomination for the Senate — days after suffering a stroke. 
  <p class="updated_time"> 05:17 AM CT, May. 18 </p> 
@@ -300,10 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/17/1099587499/sen-maggie-hassan-d-n-h-is-hoping-for-strong-voter-turnout-after-roe-leak">Sen. Maggie Hassan, D-N.H., is hoping for strong voter turnout after Roe leak</a> NPR: New Hampshire is the only New England state that hasn't protected abortion rights. The issue will be center stage as abortion rights supporter Maggie Hassan tries to hold her seat in the U.S. Senate. 
  <p class="updated_time"> 03:16 PM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099587491/what-the-shooting-in-buffalo-has-to-do-with-fox-news-host-tucker-carlson">What the shooting in Buffalo has to do with Fox News host Tucker Carlson</a> NPR: The man accused of murdering 10 people in Buffalo said he'd been radicalized by a racist conspiracy theory, No one in a position of prominence has done more to promote that theory than Tucker Carlson. 
- <p class="updated_time"> 03:16 PM CT, May. 17 </p> 
- <a href="https://www.npr.org/2022/05/17/1099587477/several-far-right-republicans-running-in-the-idaho-primary-have-ties-to-extremis">Several far right Republicans running in the Idaho primary have ties to extremism</a> NPR: Idaho's Republican primary is seen as a national test for how far to the right the GOP can be pulled, as several candidates tied to extremist groups are running for governor and the legislature. 
- <p class="updated_time"> 03:16 PM CT, May. 17 </p> 
- <a href="https://www.npr.org/2022/05/17/1099587469/biden-denounces-white-supremacy-while-in-buffalo-to-visit-shooting-victims-famil">Biden denounces white supremacy while in Buffalo to visit shooting victims' families</a> NPR: President Biden visited Buffalo Tuesday to console victims and families of Saturday's mass shooting at a supermarket. He called on Congress to pass stricter gun laws. 
  <p class="updated_time"> 03:04 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/free-covid-tests-usps-biden.html">White House Offers Another Round of Free Virus Tests Through U.S.P.S.</a> NYT: The move doubled to 16 the total number of tests available to each U.S. household through a program that debuted over the winter. 
  <p class="updated_time"> 02:23 PM CT, May. 17 </p> 
@@ -360,8 +364,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/15/mcconnell-maga-ukraine-visit-00032572">McConnell takes on MAGA with Ukraine visit</a> Politico: His support for Ukraine is putting him at odds with his party’s non-interventionist wing. 
  <p class="updated_time"> 10:55 AM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/pelosi-blackmail-border-pandemic-aid-00032557">Pelosi rips GOP 'blackmail' in linking border vote to pandemic aid</a> Politico: "There's no use holding it up to blackmail as the Republicans are trying to do," she said. 
- <p class="updated_time"> 06:00 AM CT, May. 15 </p> 
- <a href="https://www.politico.com/news/2022/05/15/polling-changes-2024-elections-00032540">Pollsters prepare for major changes after presidential election misses</a> Politico: The discussion among leading pollsters at a recent conference heralds the biggest change in American polling in decades. 
 
 
 </details>
