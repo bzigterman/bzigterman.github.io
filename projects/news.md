@@ -9,9 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:16 AM CT, May. 18 </p> 
+ <p class="updated_time"> 06:29 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/05/18/world/russia-ukraine-war-news">Ukraine Live Updates: As Russia Says Hundreds More Mariupol Fighters Surrender, Their Fate Is Unclear</a> NYT: The Russian Defense Ministry said that nearly 1,000 fighters had surrendered to Kremlin custody at the Azovstal steel plant. Finland and Sweden formally asked to join NATO, potentially the alliance’s biggest expansion in decades. 
- <p class="updated_time"> 05:23 AM CT, May. 18 </p> 
+ <p class="updated_time"> 06:26 AM CT, May. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61492436?at_medium=RSS&at_campaign=KARANGA">US military probe finds no wrongdoing in deadly Syria air strike</a> BBC: Dozens of people, including women and children, were killed in the 2019 strike on an IS position. 
+ <p class="updated_time"> 05:37 AM CT, May. 18 </p> 
  <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
  <p class="updated_time"> 05:16 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61490433?at_medium=RSS&at_campaign=KARANGA">Germany beer bottle shortage: Industry warns of 'tense' situation</a> BBC: Rising energy costs and a shortage of lorry drivers could lead to a beer bottle shortage this summer. 
@@ -19,7 +21,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61493232?at_medium=RSS&at_campaign=KARANGA">Scott Morrison crashes into a boy during football match</a> BBC: Scott Morrison was playing five-a-side on the campaign trail ahead of Australia's election on Saturday. 
  <p class="updated_time"> 05:09 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/asia/north-korea-covid-china.html">China-Style Covid Lockdowns Risk Deepening North Korean Crisis</a> NYT: As infections spread quickly, outside experts are warning that the country’s desire to mimic Beijing’s playbook could worsen a coming disaster. 
- <p class="updated_time"> 04:23 AM CT, May. 18 </p> 
+ <p class="updated_time"> 04:37 AM CT, May. 18 </p> 
  <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
  <p class="updated_time"> 04:20 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/russia-finance-ministers-economy.html">Economic Headwinds Mount as Leaders Weigh Costs of Confronting Russia</a> NYT: Top economic officials are gathering this week to discuss how to keep pressure on Vladimir V. Putin without sinking their economies. 
@@ -29,38 +31,38 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/18/1099411575/poles-polish-youth-war-ukraine-russia-refugees">How the war in Ukraine 'changed everything' for a generation of young Poles</a> NPR: Lilia Nguyen's perception of everything around her changed when she went to the border to help Ukrainian refugees shortly after the war began. The change has been felt by other young Poles. 
  <p class="updated_time"> 03:51 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/cycling/61490735?at_medium=RSS&at_campaign=KARANGA">Cyclist abandons race after popping cork in eye </a> BBC: Biniam Girmay is forced to abandon the Giro d'Italia one day after making history as the first black African winner of a Grand Tour stage. 
+ <p class="updated_time"> 03:37 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/u-k-inflation-hits-40-year-high-putting-government-on-defensive-11652866547">U.K. Inflation Hits 40-Year High</a> WSJ: U.K. Inflation Hits 40-Year High 
  <p class="updated_time"> 03:28 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/spain-time-off-period-pain.html">Spain Considers Bill to Give Period Leave to Women With Menstrual Pain</a> NYT: A draft law would allow women to stay home if they are diagnosed by a doctor. It would also extend abortion access, but it faces an arduous path through Parliament. 
- <p class="updated_time"> 03:23 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-for-the-first-time-in-more-than-six-years-11652860034">China’s New Home Prices Fall for the First Time in More Than Six Years</a> WSJ: China’s New Home Prices Fall for the First Time in More Than Six Years 
  <p class="updated_time"> 03:18 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61489046?at_medium=RSS&at_campaign=KARANGA">Pennsylvania primary: Trump-backed TV doctor in cliffhanger vote count</a> BBC: Celebrity surgeon Mehmet Oz's bid to become the next Republican senator from Pennsylvania is in jeopardy. 
  <p class="updated_time"> 03:14 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61491639?at_medium=RSS&at_campaign=KARANGA">Sweden and Finland formally submit Nato applications</a> BBC: The alliance's secretary general Jens Stoltenberg says it is "a historic moment, which we must seize". 
- <p class="updated_time"> 02:23 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: North Korea Receives Aid From China as Covid Outbreak Spreads 
+ <p class="updated_time"> 02:37 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-for-the-first-time-in-more-than-six-years-11652860034">China’s New Home Prices Fall for the First Time in More Than Six Years</a> WSJ: China’s New Home Prices Fall for the First Time in More Than Six Years 
  <p class="updated_time"> 02:07 AM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099679338/finland-and-sweden-formally-submit-nato-membership-applications">Finland and Sweden formally submit NATO membership applications</a> NPR: The 30 member countries of the military alliance are expected to take up to two weeks to evaluate the applications. 
  <p class="updated_time"> 02:02 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61489488?at_medium=RSS&at_campaign=KARANGA">Lancet study: Pollution killed 2.3 million Indians in 2019</a> BBC: The report found that nearly 1.6 million deaths in India were due to air pollution alone. 
- <p class="updated_time"> 01:59 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/u-k-inflation-hits-40-year-high-putting-government-on-defensive-11652866547">U.K. Inflation Hits 40-Year High</a> WSJ: The U.K.’s annual rate of inflation jumped to 9% in April, the highest level recorded by an industrialized nation since the start of the global price surge last year. 
  <p class="updated_time"> 01:40 AM CT, May. 18 </p> 
  <a href="https://www.wsj.com/articles/russia-weighs-fate-of-ukrainian-defenders-in-mariupol-11652870447">Russia Weighs Fate of Ukrainian Defenders in Mariupol</a> WSJ: Hundreds more Ukrainian soldiers evacuated from Mariupol’s Azovstal steel plant were taken as prisoners to Russian-held areas of Ukraine, Moscow said, as Russian prosecutors called for the regiment that was holed up there to be declared a terrorist organization. 
- <p class="updated_time"> 01:23 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/japans-economy-shrinks-slightly-in-first-quarter-11652832270">Japan’s Economy Shrank Slightly in First Quarter</a> WSJ: Japan’s Economy Shrank Slightly in First Quarter 
+ <p class="updated_time"> 01:37 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958">How Germany Is Racing to Sever Dependence on Russian Energy</a> WSJ: How Germany Is Racing to Sever Dependence on Russian Energy 
  <p class="updated_time"> 01:05 AM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099675985/u-s-officials-seek-clarity-on-turkeys-view-of-nato-expansion">U.S. officials seek clarity on Turkey's view of NATO expansion</a> NPR: U.S. Secretary of State Antony Blinken will meet his Turkish counterpart on Wednesday amid  the contradictory signals from Ankara over the expected applications from Finland and Sweden. 
  <p class="updated_time"> 12:26 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61482700?at_medium=RSS&at_campaign=KARANGA">Woman kidnapped as a child reunites with rescuer</a> BBC: Kathy Wrethman, from Australia, has finally come face-to-face with the man who saved her life. 
  <p class="updated_time"> 11:58 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-61488976?at_medium=RSS&at_campaign=KARANGA">China Eastern plane crash likely intentional, US reports say</a> BBC: Flight data reportedly indicates someone in the cockpit made the China Eastern Airlines jet crash. 
+ <p class="updated_time"> 11:45 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: Battling its first major Covid-19 outbreak, North Korea reached out for help to its closest ally, China, while ignoring offers of vaccines from South Korea. 
  <p class="updated_time"> 10:34 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61489209?at_medium=RSS&at_campaign=KARANGA">Venezuela government and opposition to renew talks amid humanitarian crisis</a> BBC: Talks aimed at ending a political crisis that has displaced six million people collapsed in October. 
- <p class="updated_time"> 09:35 PM CT, May. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61488082?at_medium=RSS&at_campaign=KARANGA">Madison Cawthorn: Trump-backed Gen Z congressman ousted amid scandal</a> BBC: Madison Cawthorn loses a bid to renew his title as America's youngest congressman. 
  <p class="updated_time"> 07:46 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/us-venezuela-oil-sanctions.html">Biden Administration Offers Venezuela Minor Sanctions Relief</a> NYT: The Biden administration said it would relax restrictions on Chevron’s dealings with President Nicolás Maduro and remove sanctions from his relative. 
+ <p class="updated_time"> 07:17 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/japans-economy-shrinks-slightly-in-first-quarter-11652832270">Japan's Economy Shrank Slightly in First Quarter</a> WSJ: The country’s gross domestic product fell at annual rate of 1% owing to Covid-19 restrictions, but an upswing is expected this quarter 
  <p class="updated_time"> 06:53 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/us-airstrike-civilian-deaths.html">Pentagon Faults Review of Deadly Airstrike but Finds No Wrongdoing</a> NYT: The military’s inquiry followed a New York Times investigation describing allegations that officials sought to conceal dozens of civilian casualties. 
  <p class="updated_time"> 06:49 PM CT, May. 17 </p> 
@@ -141,8 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/blogs-trending-61460468?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: How far-right killers are radicalised online</a> BBC: A movement of online extremists targets innocent people in shooting rampages that follow a similar blueprint. 
  <p class="updated_time"> 08:04 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/asia/sri-lanka-fuel-economic-crisis.html">With Gas Pumps All but Dry, Sri Lanka Faces Its ‘Most Difficult Time’</a> NYT: The island nation’s new prime minister revealed that the country’s economic disaster was even worse than imagined. 
- <p class="updated_time"> 06:39 AM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958">How Germany Is Racing to Sever Dependence on Russian Energy</a> WSJ: Europe’s largest economy is scrambling to find new suppliers and invest billions in infrastructure to reverse decades of policy in weeks; business leaders warn of a financial crisis from higher energy prices. 
  <p class="updated_time"> 05:50 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-view-west.html">How do Ukrainians See the Western Response to the War?</a> NYT: Our reporters are answering readers’ questions about Russia’s invasion of Ukraine. Many of you have asked about sentiments in Ukraine about the West. 
  <p class="updated_time"> 04:13 AM CT, May. 17 </p> 
@@ -218,6 +218,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/18/1099681767/tina-koteks-win-comes-amid-a-wave-of-lgbtq-candidates-running-for-office">Tina Kotek's win comes amid a wave of LGBTQ candidates running for office</a> NPR: Kotek won her state's Democratic primary on Tuesday. If she wins the general election later this year, she will become the country's first openly lesbian governor. 
  <p class="updated_time"> 04:20 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/russia-finance-ministers-economy.html">Economic Headwinds Mount as Leaders Weigh Costs of Confronting Russia</a> NYT: Top economic officials are gathering this week to discuss how to keep pressure on Vladimir V. Putin without sinking their economies. 
+ <p class="updated_time"> 04:16 AM CT, May. 18 </p> 
+ <a href="https://www.nytimes.com/2022/05/17/us/politics/winners-losers-nc-pa-elections-primaries.html">In Tuesday’s Primaries, Who Won, Who Lost and What Races Haven’t Been Called Yet</a> NYT: Nobody declared victory in Pennsylvania’s Republican Senate primary, despite a Trump endorsement. Representative Madison Cawthorn of North Carolina was ousted after a series of scandals. 
  <p class="updated_time"> 04:09 AM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099680608/biden-will-visit-south-korea-and-japan-to-reinforce-alliances-in-the-region">Biden will visit South Korea and Japan to reinforce alliances in the region</a> NPR: President Biden is making his first trip to Asia since taking office. Pivoting U.S. foreign policy to the region has been a major goal, often interrupted by crises like the war in Ukraine. 
  <p class="updated_time"> 04:09 AM CT, May. 18 </p> 
