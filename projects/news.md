@@ -9,42 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:53 AM CT, May. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/05/17/world/russia-ukraine-war-news">What Happened on Day 83 of the War in Ukraine</a> NYT: The government’s order for hundreds of remaining fighters to stand down offers Russia a propaganda victory, but prospects for a prisoner swap seem unclear at best. 
+ <p class="updated_time"> 05:29 AM CT, May. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/18/world/russia-ukraine-war-news">Ukraine Live Updates: Hundreds More Fighters Surrender in Mariupol as Questions Swirl Over Their Fate</a> NYT: Russia said that nearly 1,000 fighters had surrendered to Kremlin custody at the Azovstal steel plant. Finland and Sweden formally asked to join NATO, potentially the alliance’s biggest expansion in decades. 
+ <p class="updated_time"> 05:16 AM CT, May. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61490433?at_medium=RSS&at_campaign=KARANGA">Germany beer bottle shortage: Industry warns of 'tense' situation</a> BBC: Rising energy costs and a shortage of lorry drivers could lead to a beer bottle shortage this summer. 
+ <p class="updated_time"> 05:12 AM CT, May. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61493232?at_medium=RSS&at_campaign=KARANGA">Scott Morrison crashes into a boy during football match</a> BBC: Scott Morrison was playing five-a-side on the campaign trail ahead of Australia's election on Saturday. 
+ <p class="updated_time"> 05:09 AM CT, May. 18 </p> 
+ <a href="https://www.nytimes.com/2022/05/18/world/asia/north-korea-covid-china.html">China-Style Covid Lockdowns Risk Deepening North Korean Crisis</a> NYT: As infections spread quickly, outside experts are warning that the country’s desire to mimic Beijing’s playbook could worsen a coming disaster. 
+ <p class="updated_time"> 04:33 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
  <p class="updated_time"> 04:20 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/russia-finance-ministers-economy.html">Economic Headwinds Mount as Leaders Weigh Costs of Confronting Russia</a> NYT: Top economic officials are gathering this week to discuss how to keep pressure on Vladimir V. Putin without sinking their economies. 
- <p class="updated_time"> 04:00 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
- <p class="updated_time"> 04:00 AM CT, May. 18 </p> 
- <a href="https://www.nytimes.com/2022/05/18/world/asia/north-korea-covid-china.html">China-Style Covid Lockdowns Risk Deepening North Korean Crisis</a> NYT: As infections spread quickly, outside experts are warning that the country’s desire to mimic Beijing’s playbook could worsen a coming disaster. 
  <p class="updated_time"> 04:00 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/climate/offset-carbon-footprint-air-travel.html">Do Airline Offset Programs Really Reduce Your Carbon Footprint?</a> NYT: Carbon credits could eventually play an important role in fighting climate change, but right now a few dollars’ worth won’t change much. 
  <p class="updated_time"> 04:00 AM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099411575/poles-polish-youth-war-ukraine-russia-refugees">How the war in Ukraine 'changed everything' for a generation of young Poles</a> NPR: Lilia Nguyen's perception of everything around her changed when she went to the border to help Ukrainian refugees shortly after the war began. The change has been felt by other young Poles. 
  <p class="updated_time"> 03:51 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/cycling/61490735?at_medium=RSS&at_campaign=KARANGA">Cyclist abandons race after popping cork in eye </a> BBC: Biniam Girmay is forced to abandon the Giro d'Italia one day after making history as the first black African winner of a Grand Tour stage. 
+ <p class="updated_time"> 03:33 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
  <p class="updated_time"> 03:28 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/spain-time-off-period-pain.html">Spain Considers Bill to Give Period Leave to Women With Menstrual Pain</a> NYT: A draft law would allow women to stay home if they are diagnosed by a doctor. It would also extend abortion access, but it faces an arduous path through Parliament. 
  <p class="updated_time"> 03:18 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61489046?at_medium=RSS&at_campaign=KARANGA">Pennsylvania primary: Trump-backed TV doctor in cliffhanger vote count</a> BBC: Celebrity surgeon Mehmet Oz's bid to become the next Republican senator from Pennsylvania is in jeopardy. 
  <p class="updated_time"> 03:14 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61491639?at_medium=RSS&at_campaign=KARANGA">Sweden and Finland formally submit Nato applications</a> BBC: The alliance's secretary general Jens Stoltenberg says it is "a historic moment, which we must seize". 
- <p class="updated_time"> 03:00 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
+ <p class="updated_time"> 02:33 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-for-the-first-time-in-more-than-six-years-11652860034">China’s New Home Prices Fall for the First Time in More Than Six Years</a> WSJ: China’s New Home Prices Fall for the First Time in More Than Six Years 
  <p class="updated_time"> 02:07 AM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099679338/finland-and-sweden-formally-submit-nato-membership-applications">Finland and Sweden formally submit NATO membership applications</a> NPR: The 30 member countries of the military alliance are expected to take up to two weeks to evaluate the applications. 
  <p class="updated_time"> 02:02 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61489488?at_medium=RSS&at_campaign=KARANGA">Lancet study: Pollution killed 2.3 million Indians in 2019</a> BBC: The report found that nearly 1.6 million deaths in India were due to air pollution alone. 
- <p class="updated_time"> 02:00 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/chinas-new-home-prices-fall-for-the-first-time-in-more-than-six-years-11652860034">China’s New Home Prices Fall for the First Time in More Than Six Years</a> WSJ: China’s New Home Prices Fall for the First Time in More Than Six Years 
+ <p class="updated_time"> 01:33 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: North Korea Receives Aid From China as Covid Outbreak Spreads 
  <p class="updated_time"> 01:05 AM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099675985/u-s-officials-seek-clarity-on-turkeys-view-of-nato-expansion">U.S. officials seek clarity on Turkey's view of NATO expansion</a> NPR: U.S. Secretary of State Antony Blinken will meet his Turkish counterpart on Wednesday amid  the contradictory signals from Ankara over the expected applications from Finland and Sweden. 
- <p class="updated_time"> 01:00 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: North Korea Receives Aid From China as Covid Outbreak Spreads 
+ <p class="updated_time"> 12:33 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/japans-economy-shrinks-slightly-in-first-quarter-11652832270">Japan’s Economy Shrank Slightly in First Quarter</a> WSJ: Japan’s Economy Shrank Slightly in First Quarter 
  <p class="updated_time"> 12:26 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61482700?at_medium=RSS&at_campaign=KARANGA">Woman kidnapped as a child reunites with rescuer</a> BBC: Kathy Wrethman, from Australia, has finally come face-to-face with the man who saved her life. 
- <p class="updated_time"> 12:00 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/japans-economy-shrinks-slightly-in-first-quarter-11652832270">Japan’s Economy Shrank Slightly in First Quarter</a> WSJ: Japan’s Economy Shrank Slightly in First Quarter 
  <p class="updated_time"> 11:58 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-61488976?at_medium=RSS&at_campaign=KARANGA">China Eastern plane crash likely intentional, US reports say</a> BBC: Flight data reportedly indicates someone in the cockpit made the China Eastern Airlines jet crash. 
  <p class="updated_time"> 10:34 PM CT, May. 17 </p> 
@@ -53,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61488082?at_medium=RSS&at_campaign=KARANGA">Madison Cawthorn: Trump-backed Gen Z congressman ousted amid scandal</a> BBC: Madison Cawthorn loses a bid to renew his title as America's youngest congressman. 
  <p class="updated_time"> 07:46 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/us-venezuela-oil-sanctions.html">Biden Administration Offers Venezuela Minor Sanctions Relief</a> NYT: The Biden administration said it would relax restrictions on Chevron’s dealings with President Nicolás Maduro and remove sanctions from his relative. 
- <p class="updated_time"> 07:35 PM CT, May. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61488556?at_medium=RSS&at_campaign=KARANGA">Michael Sussmann: Clinton lawyer 'lied to manipulate FBI over Trump'</a> BBC: Michael Sussmann peddled baseless claims about the Trump Organization in hope of an "October surprise". 
  <p class="updated_time"> 06:53 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/us-airstrike-civilian-deaths.html">Pentagon Faults Review of Deadly Airstrike but Finds No Wrongdoing</a> NYT: The military’s inquiry followed a New York Times investigation describing allegations that officials sought to conceal dozens of civilian casualties. 
  <p class="updated_time"> 06:49 PM CT, May. 17 </p> 
@@ -149,8 +151,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61478036?at_medium=RSS&at_campaign=KARANGA">Colombian robbery victim crashes car into thieves</a> BBC: The thieves stole a watch and mobile phone before the victim drove into them in his convertible. 
  <p class="updated_time"> 03:21 AM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099401569/new-zealand-shooting-survivor-says-violence-achieved-nothing">New Zealand shooting survivor says violence achieved nothing</a> NPR: The deadly attacks at two Christchurch mosques brought people together rather than sowing discord, one of the survivors says. 
- <p class="updated_time"> 01:22 AM CT, May. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61475393?at_medium=RSS&at_campaign=KARANGA">India’s construction workers bear the brunt of heatwave</a> BBC: A brutal heatwave is wreaking havoc on the health and livelihoods of India's working poor. 
  <p class="updated_time"> 11:34 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/estonia-kallas-ukraine-russia.html">Estonia’s Tough Voice on Ukraine Urges No Compromise With Putin</a> NYT: Kaja Kallas, the prime minister, remembers the repression of life under Soviet rule and sees the same brutality in occupied Ukraine, which she believes is fighting for all of Europe. 
  <p class="updated_time"> 11:01 PM CT, May. 16 </p> 
@@ -202,12 +202,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:17 AM CT, May. 18 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/05/18/takeaways-from-the-biggest-primary-night-of-the-year-00033345"> Takeaways from the biggest primary night of the year</a> Politico Playbook: As New York pols deal with the fallout from the newly drawn congressional map. 
+ <p class="updated_time"> 05:03 AM CT, May. 18 </p> 
+ <a href="https://www.nytimes.com/2022/05/17/us/politics/todays-primaries-midterm-elections.html">Three Questions About Today’s Consequential Primaries</a> NYT: How will progressive Democrats fare against moderate rivals? What signals will North Carolina Republicans send? And in Pennsylvania, will Kathy Barnette concede a loss? 
  <p class="updated_time"> 04:57 AM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099681767/tina-koteks-win-comes-amid-a-wave-of-lgbtq-candidates-running-for-office">Tina Kotek's win comes amid a wave of LGBTQ candidates running for office</a> NPR: Kotek won her state's Democratic primary on Tuesday. If she wins the general election later this year, she will become the country's first openly lesbian governor. 
  <p class="updated_time"> 04:20 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/russia-finance-ministers-economy.html">Economic Headwinds Mount as Leaders Weigh Costs of Confronting Russia</a> NYT: Top economic officials are gathering this week to discuss how to keep pressure on Vladimir V. Putin without sinking their economies. 
  <p class="updated_time"> 04:09 AM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099680608/biden-will-visit-south-korea-and-japan-to-reinforce-alliances-in-the-region">Biden will visit South Korea and Japan to reinforce alliances in the region</a> NPR: President Biden is making his first trip to Asia since taking office. Pivoting U.S. foreign policy to the region has been a major goal, often interrupted by crises like the war in Ukraine. 
+ <p class="updated_time"> 04:09 AM CT, May. 18 </p> 
+ <a href="https://www.npr.org/2022/05/18/1099680573/morning-news-brief">News brief: Primary results, Biden visits Buffalo, Elon Musk flips on Twitter</a> NPR: Results are in from primary elections in five states. President Biden calls for unity during his visit to Buffalo after Saturday's shooting. Elon Musk expresses doubts about his deal to buy Twitter. 
  <p class="updated_time"> 04:00 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/chris-murphy-gun-control.html">Congress Is Paralyzed on Guns. Here’s Why Chris Murphy Is Still Hopeful.</a> NYT: The Democrat from Connecticut, who has spent his decade in the Senate trying and failing to enact gun safety bills, says his party should make the issue the core of its 2022 midterm message. 
  <p class="updated_time"> 04:00 AM CT, May. 18 </p> 
@@ -262,8 +268,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/us/politics/thomas-barrack-trump-lobbying.html">Prosecutors Add Details to Foreign Lobbying Charges Against Trump Ally</a> NYT: In an updated indictment, the Justice Department said Thomas Barrack sought money from the United Arab Emirates for an investment fund that would boost the Trump administration’s agenda. 
  <p class="updated_time"> 06:04 PM CT, May. 17 </p> 
  <a href="https://www.politico.com/news/2022/05/17/biden-buffalo-shooting-new-york-00033272">Behind Biden’s decision to not name names over the Buffalo shooting</a> Politico: The president wanted to get to the site of the shooting to grieve with the families and spotlight the problems he believes the country faces. 
- <p class="updated_time"> 06:00 PM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/us/politics/todays-primaries-midterm-elections.html">Three Questions About Today’s Consequential Primaries</a> NYT: How will progressive Democrats fare against moderate rivals? What signals will North Carolina Republicans send? And in Pennsylvania, will Kathy Barnette concede a loss? 
  <p class="updated_time"> 05:59 PM CT, May. 17 </p> 
  <a href="https://www.politico.com/news/2022/05/17/gop-picks-swing-state-nominees-for-key-midterm-races-00033271">McCormick and Oz neck-and-neck in Pennsylvania as Fetterman gets Dem Senate nod</a> Politico: Pennsylvania and North Carolina's Senate races lead a five-state slate of primaries Tuesday, while Rep. Madison Cawthorn lost his bid for a second term. 
  <p class="updated_time"> 05:27 PM CT, May. 17 </p> 
@@ -300,8 +304,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/17/1099587477/several-far-right-republicans-running-in-the-idaho-primary-have-ties-to-extremis">Several far right Republicans running in the Idaho primary have ties to extremism</a> NPR: Idaho's Republican primary is seen as a national test for how far to the right the GOP can be pulled, as several candidates tied to extremist groups are running for governor and the legislature. 
  <p class="updated_time"> 03:16 PM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099587469/biden-denounces-white-supremacy-while-in-buffalo-to-visit-shooting-victims-famil">Biden denounces white supremacy while in Buffalo to visit shooting victims' families</a> NPR: President Biden visited Buffalo Tuesday to console victims and families of Saturday's mass shooting at a supermarket. He called on Congress to pass stricter gun laws. 
- <p class="updated_time"> 03:05 PM CT, May. 17 </p> 
- <a href="https://www.npr.org/2022/05/17/1098787088/a-pro-trump-film-suggests-its-data-are-so-accurate-it-solved-a-murder-thats-fals">A pro-Trump film suggests its data are so accurate, it solved a murder. That's false</a> NPR: Conservative commentator Dinesh D'Souza's new film "2,000 Mules" alleges massive voter fraud in the 2020 election, but NPR has found the filmmakers made multiple misleading and false claims. 
  <p class="updated_time"> 03:04 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/free-covid-tests-usps-biden.html">White House Offers Another Round of Free Virus Tests Through U.S.P.S.</a> NYT: The move doubled to 16 the total number of tests available to each U.S. household through a program that debuted over the winter. 
  <p class="updated_time"> 02:23 PM CT, May. 17 </p> 
