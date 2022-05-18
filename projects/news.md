@@ -9,52 +9,60 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:28 AM CT, May. 18 </p> 
+ <a href="https://www.npr.org/2022/05/18/1099767017/russian-soldier-pleads-guilty-ukraine-war-crimes-trial">In a war crimes trial, a Russian soldier pleads guilty to killing a Ukrainian civilian</a> NPR: Sgt. Vadim Shishimarin, 21, is facing the first war crimes trial since Russia invaded Ukraine. The Russian soldier could get life in prison for shooting a 62-year-old unarmed civilian in the head. 
+ <p class="updated_time"> 11:25 AM CT, May. 18 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/18/world/russia-ukraine-war-news">Ukraine Live Updates: As Russia Says Hundreds More Mariupol Fighters Surrender, Their Fate Is Unclear</a> NYT: The Russian Defense Ministry said that nearly 1,000 fighters had surrendered to Kremlin custody at the Azovstal steel plant. Finland and Sweden formally asked to join NATO, potentially the alliance’s biggest expansion in decades. 
+ <p class="updated_time"> 11:23 AM CT, May. 18 </p> 
+ <a href="https://www.nytimes.com/2022/05/18/us/politics/russia-finance-ministers-economy.html">Economic Headwinds Mount as Leaders Weigh Costs of Confronting Russia</a> NYT: Top economic officials are gathering this week to discuss how to keep pressure on Vladimir V. Putin without sinking their economies. 
+ <p class="updated_time"> 11:13 AM CT, May. 18 </p> 
+ <a href="https://www.nytimes.com/2022/05/18/world/europe/kharkiv-ukraine-russia-photos.html">Around Kharkiv, Ukrainians Emerge to Find Lives in Ruin</a> NYT: After sheltering underground since February, residents of the beseiged city have finally been able to to assess the damage the Russians left behind. The discoveries have been grisly. 
+ <p class="updated_time"> 10:57 AM CT, May. 18 </p> 
+ <a href="https://www.bbc.co.uk/sport/cycling/61490735?at_medium=RSS&at_campaign=KARANGA">Cyclist abandons race after popping cork in eye </a> BBC: Italy's Alberto Dainese is a surprise winner of stage 11 of the Giro d'Italia after Biniam Girmay was forced to abandon this year's race. 
+ <p class="updated_time"> 10:52 AM CT, May. 18 </p> 
+ <a href="https://www.npr.org/2022/05/18/1099733752/famine-africa-ukraine-invasion-drought">Drought and soaring food prices from Ukraine war leave millions in Africa starving</a> NPR: A report finds 23 million people are experiencing extreme hunger in Ethiopia, Somalia and Kenya, which face their worst drought in 40 years. Food prices hit record highs after Russia attacked Ukraine. 
+ <p class="updated_time"> 10:44 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
  <p class="updated_time"> 10:43 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61492703?at_medium=RSS&at_campaign=KARANGA">US Soccer equal-pay deal could 'change game globally'</a> BBC: An equal-pay agreement between the United States men's and women's teams has been hailed as potentially "changing the game around the world". 
- <p class="updated_time"> 10:43 AM CT, May. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/05/18/world/russia-ukraine-war-news">Ukraine Live Updates: As Russia Says Hundreds More Mariupol Fighters Surrender, Their Fate Is Unclear</a> NYT: The Russian Defense Ministry said that nearly 1,000 fighters had surrendered to Kremlin custody at the Azovstal steel plant. Finland and Sweden formally asked to join NATO, potentially the alliance’s biggest expansion in decades. 
  <p class="updated_time"> 10:35 AM CT, May. 18 </p> 
- <a href="https://www.nytimes.com/2022/05/18/world/asia/cambodia-plant-video.html">Stop Picking Endangered Phallic Plant, Cambodia Warns</a> NYT: In Cambodia, video of women suggestively joking around with a protected carnivorous specimen prompted a government admonition: Hands off, people. 
- <p class="updated_time"> 10:33 AM CT, May. 18 </p> 
- <a href="https://www.bbc.co.uk/sport/cycling/61490735?at_medium=RSS&at_campaign=KARANGA">Cyclist abandons race after popping cork in eye </a> BBC: Italy's Alberto Dainese is a surprise winner of stage 11 of the Giro d'Italia after Biniam Girmay was forced to abandon this year's race. 
+ <a href="https://www.nytimes.com/2022/05/18/world/asia/cambodian-plant-video.html">Stop Picking Endangered Phallic Plant, Cambodia Warns</a> NYT: In Cambodia, video of women suggestively joking around with a protected carnivorous specimen prompted a government admonition: Hands off, people. 
  <p class="updated_time"> 10:15 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-61497812?at_medium=RSS&at_campaign=KARANGA">McDonald's and Wendy's sued for burger ads that mislead on size</a> BBC: A lawsuit accuses the firms of advertising burgers that look bigger than they actually are. 
  <p class="updated_time"> 09:59 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61497962?at_medium=RSS&at_campaign=KARANGA">Capitol riots loom large in Republican primaries</a> BBC: Deniers of the 2020 election results are among the biggest winners of the Republican primary 
- <p class="updated_time"> 09:49 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
  <p class="updated_time"> 09:46 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61496428?at_medium=RSS&at_campaign=KARANGA">Russian soldier pleads guilty in first war crimes trial of Ukraine conflict</a> BBC: The 21-year-old admits killing an unarmed civilian, in Ukraine's first war crimes trial since war began. 
+ <p class="updated_time"> 09:44 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/u-k-inflation-hits-40-year-high-putting-government-on-defensive-11652866547">U.K. Inflation Hits 40-Year High</a> WSJ: U.K. Inflation Hits 40-Year High 
  <p class="updated_time"> 09:38 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61489494?at_medium=RSS&at_campaign=KARANGA">AG Perarivalan: India top court frees killer of ex-PM Rajiv Gandhi</a> BBC: AG Perarivalan spent 30 years in jail for procuring batteries used in the bomb to kill India's former PM. 
  <p class="updated_time"> 09:07 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/uk-mp-arrest-rape-allegations.html">U.K. Lawmaker Reportedly Arrested Over Rape Allegations</a> NYT: The arrest, of a man who has not yet been identified, was the latest in a string of sexual misconduct allegations against members of Parliament. 
- <p class="updated_time"> 08:49 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/u-k-inflation-hits-40-year-high-putting-government-on-defensive-11652866547">U.K. Inflation Hits 40-Year High</a> WSJ: U.K. Inflation Hits 40-Year High 
+ <p class="updated_time"> 08:44 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/russian-admits-to-killing-civilian-in-first-ukraine-war-crimes-trial-11652879980">Russian Soldier Pleads Guilty in First Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Pleads Guilty in First Ukraine War-Crimes Trial 
  <p class="updated_time"> 08:39 AM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099688825/sigar-afghanistan-forces-collapse">The U.S. deal with the Taliban destroyed Afghans' military morale, a new report says</a> NPR: Morale across Afghanistan's military was "destroyed" when then-President Trump made a deal with the Taliban in 2020 and President Biden affirmed the U.S. exit in 2021, a new watchdog report says. 
  <p class="updated_time"> 08:22 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61493182?at_medium=RSS&at_campaign=KARANGA">Mariupol's Azovstal fighters: What next for Ukraine's captured soldiers</a> BBC: Ukraine wants to exchange them for Russian prisoners of war, but some in Russia want them put on trial. 
- <p class="updated_time"> 07:49 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/russian-admits-to-killing-civilian-in-first-ukraine-war-crimes-trial-11652879980">Russian Soldier Pleads Guilty in First Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Pleads Guilty in First Ukraine War-Crimes Trial 
+ <p class="updated_time"> 07:44 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/chinas-top-antigraft-body-probes-a-top-central-banker-11652875675">China’s Top Antigraft Body Probes a Senior Central Banker</a> WSJ: China’s Top Antigraft Body Probes a Senior Central Banker 
  <p class="updated_time"> 07:34 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61490436?at_medium=RSS&at_campaign=KARANGA">Gambler to pay back Japanese Covid-19 fund he spent</a> BBC: The man's lawyer said his client gambled the pay-out after it was mistakenly paid to his bank account. 
- <p class="updated_time"> 06:49 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/chinas-top-antigraft-body-probes-a-top-central-banker-11652875675">China’s Top Antigraft Body Probes a Senior Central Banker</a> WSJ: China’s Top Antigraft Body Probes a Senior Central Banker 
  <p class="updated_time"> 06:48 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61494853?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'I had to stay below ground for more than 60 days'</a> BBC: Katerina spent more than two months beneath the besieged Azovstal steel plant in Mariupol, Ukraine. 
+ <p class="updated_time"> 06:44 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: North Korea Receives Aid From China as Covid Outbreak Spreads 
  <p class="updated_time"> 06:26 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61492436?at_medium=RSS&at_campaign=KARANGA">US military probe finds no wrongdoing in deadly Syria air strike</a> BBC: Dozens of people, including women and children, were killed in the 2019 strike on an IS position. 
- <p class="updated_time"> 05:49 AM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: North Korea Receives Aid From China as Covid Outbreak Spreads 
  <p class="updated_time"> 05:16 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61477708?at_medium=RSS&at_campaign=KARANGA">Cyclone Yakecan batters Uruguay and Brazil</a> BBC: At least two people are dead and hundreds of thousands have been left without electricity. 
  <p class="updated_time"> 05:12 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61493232?at_medium=RSS&at_campaign=KARANGA">Scott Morrison crashes into a boy during football match</a> BBC: Scott Morrison was playing five-a-side on the campaign trail ahead of Australia's election on Saturday. 
  <p class="updated_time"> 05:09 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/asia/north-korea-covid-china.html">China-Style Covid Lockdowns Risk Deepening North Korean Crisis</a> NYT: As infections spread quickly, outside experts are warning that the country’s desire to mimic Beijing’s playbook could worsen a coming disaster. 
- <p class="updated_time"> 04:20 AM CT, May. 18 </p> 
- <a href="https://www.nytimes.com/2022/05/18/us/politics/russia-finance-ministers-economy.html">Economic Headwinds Mount as Leaders Weigh Costs of Confronting Russia</a> NYT: Top economic officials are gathering this week to discuss how to keep pressure on Vladimir V. Putin without sinking their economies. 
+ <p class="updated_time"> 05:06 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/germany-moves-to-strip-former-chancellor-schroder-of-parliamentary-office-over-putin-ties-11652882783">Germany Moves to Strip Former Chancellor Schröder of Parliamentary Office Over Putin Ties</a> WSJ: Gerhard Schröder, who served as chancellor from 1998 to 2005, has been under fire from all quarters in recent months due to his work for Russian state-controlled energy companies and his proximity to President Vladimir Putin. 
  <p class="updated_time"> 04:09 AM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099680629/a-lawmaker-returned-home-to-ukraine-s-south-and-formed-a-reconnaissance-team">A lawmaker returned home to Ukraine's south and formed his own reconnaissance team</a> NPR: Col. Roman Kostenko, a Ukrainian lawmaker, has built a reconnaissance and sabotage team to target Russian forces. His ultimate goal: free his family village from Russian control. 
  <p class="updated_time"> 04:00 AM CT, May. 18 </p> 
@@ -175,10 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/16/world/europe/russia-ukraine-east.html">Further Russian Retreat Seen in East Ukraine, Another Setback for Putin</a> NYT: Russia appeared to shrink its already narrowed goals to take the Donbas region, as NATO and its two newest applicants, Sweden and Finland, practiced war games near Russia’s border. 
  <p class="updated_time"> 09:20 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-cuba-policy.html">Biden Administration Lifting Some Trump-Era Restrictions on Cuba</a> NYT: The changes include an expansion of flights to the country and the restarting of a family reunification program. 
- <p class="updated_time"> 08:22 PM CT, May. 16 </p> 
- <a href="https://www.npr.org/2022/05/16/1099378855/biden-eases-restrictions-on-cuban-travel-and-remittances">Biden eases restrictions on Cuban travel and remittances</a> NPR: The White House plans to make it easier for families to visit relatives in Cuba and increase visa processing on the island, reversing some of former President Trump's policies. 
- <p class="updated_time"> 08:21 PM CT, May. 16 </p> 
- <a href="https://www.npr.org/2022/05/16/1099369421/azovstal-ukraine-steel-plant-evacuated-russia-mariupol">Hundreds of Ukrainian soldiers evacuated from steel plant to Russian-held territory </a> NPR: It's unclear if the soldiers have been taken prisoner or are under the protection of the U.N., but a Ukrainian official says they would be able to return home after a prisoner exchange with Russia. 
  <p class="updated_time"> 06:34 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/health-61320202?at_medium=RSS&at_campaign=KARANGA">Anti-abortion groups target women with misleading ads</a> BBC: Abortion providers describe a battle to put out accurate information. 
  <p class="updated_time"> 05:38 PM CT, May. 16 </p> 
@@ -202,8 +206,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:30 AM CT, May. 18 </p> 
+ <a href="https://www.npr.org/2022/05/18/1099763945/pennsylvania-north-carolina-oregon-idaho-primaries-takeaways">With a key race too close to call, here are 4 takeaways from Tuesday's primaries</a> NPR: The five statewide primaries once again tested former President Donald Trump's influence on the Republican side — with mixed results. Here's what we learned on Tuesday. 
+ <p class="updated_time"> 11:23 AM CT, May. 18 </p> 
+ <a href="https://www.politico.com/news/2022/05/18/kansas-supreme-court-republican-congressional-map-00033407">Kansas Supreme Court upholds Republican congressional map</a> Politico: The upheld redistricting law makes it harder for the only Democrat in the state’s congressional delegation to win reelection. 
+ <p class="updated_time"> 11:23 AM CT, May. 18 </p> 
+ <a href="https://www.nytimes.com/2022/05/18/us/politics/russia-finance-ministers-economy.html">Economic Headwinds Mount as Leaders Weigh Costs of Confronting Russia</a> NYT: Top economic officials are gathering this week to discuss how to keep pressure on Vladimir V. Putin without sinking their economies. 
+ <p class="updated_time"> 10:50 AM CT, May. 18 </p> 
+ <a href="https://www.nytimes.com/2022/05/18/us/politics/trump-gop-base-primaries.html">Primaries Show Limits, and Depths, of Trump’s Power Over G.O.P. Base</a> NYT: The Make America Great Again movement is dominating Republican primaries. But is the former president in control of it? 
  <p class="updated_time"> 10:41 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/white-house-covid-briefing.html">White House Covid Briefings Return After Hiatus</a> NYT: After a six-week hiatus of briefings, the White House held its first formal on-camera session led by President Biden’s new coronavirus response coordinator, Dr. Ashish K. Jha. 
+ <p class="updated_time"> 10:32 AM CT, May. 18 </p> 
+ <a href="https://www.politico.com/news/2022/05/18/granholm-congress-clean-energy-tax-credits-00033369">Granholm 'bullish' on Congress passing clean energy tax credits</a> Politico: The clean energy tax credits were included in Democrats' broad budget reconciliation package that collapsed in the Senate last year. 
  <p class="updated_time"> 09:53 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/chris-murphy-gun-control.html">Congress Is Paralyzed on Guns. Here’s Why Chris Murphy Is Still Hopeful.</a> NYT: The Democrat from Connecticut, who has spent his decade in the Senate trying and failing to enact gun safety bills, says his party should make the issue the core of its 2022 midterm message. 
  <p class="updated_time"> 09:53 AM CT, May. 18 </p> 
@@ -240,8 +254,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/us/politics/todays-primaries-midterm-elections.html">Three Questions About Today’s Consequential Primaries</a> NYT: How will progressive Democrats fare against moderate rivals? What signals will North Carolina Republicans send? And in Pennsylvania, will Kathy Barnette concede a loss? 
  <p class="updated_time"> 04:57 AM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099681767/tina-koteks-win-comes-amid-a-wave-of-lgbtq-candidates-running-for-office">Tina Kotek's win comes amid a wave of LGBTQ candidates running for office</a> NPR: Kotek won her state's Democratic primary on Tuesday. If she wins the general election later this year, she will become the country's first openly lesbian governor. 
- <p class="updated_time"> 04:20 AM CT, May. 18 </p> 
- <a href="https://www.nytimes.com/2022/05/18/us/politics/russia-finance-ministers-economy.html">Economic Headwinds Mount as Leaders Weigh Costs of Confronting Russia</a> NYT: Top economic officials are gathering this week to discuss how to keep pressure on Vladimir V. Putin without sinking their economies. 
  <p class="updated_time"> 04:09 AM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099680608/biden-will-visit-south-korea-and-japan-to-reinforce-alliances-in-the-region">Biden will visit South Korea and Japan to reinforce alliances in the region</a> NPR: President Biden is making his first trip to Asia since taking office. Pivoting U.S. foreign policy to the region has been a major goal, often interrupted by crises like the war in Ukraine. 
  <p class="updated_time"> 04:09 AM CT, May. 18 </p> 
@@ -312,8 +324,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/17/de-blasio-new-york-congressional-seat-00033141">Bill de Blasio and other New York Democrats eye rare, open congressional seat</a> Politico: The rare open seat has prompted a scramble from potential candidates, including the former mayor. 
  <p class="updated_time"> 03:26 PM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099587506/biden-administration-to-lift-some-travel-restrictions-and-remittances-on-cubans">Biden administration to lift some travel restrictions and remittances on Cubans</a> NPR: The White House announced it will lift some of the Trump era restriction on travel and remittances on Cubans. Hit hard by COVID and other missteps, the Cuban economy is barely functioning for many. 
- <p class="updated_time"> 03:26 PM CT, May. 17 </p> 
- <a href="https://www.npr.org/2022/05/17/1099587499/sen-maggie-hassan-d-n-h-is-hoping-for-strong-voter-turnout-after-roe-leak">Sen. Maggie Hassan, D-N.H., is hoping for strong voter turnout after Roe leak</a> NPR: New Hampshire is the only New England state that hasn't protected abortion rights. The issue will be center stage as abortion rights supporter Maggie Hassan tries to hold her seat in the U.S. Senate. 
  <p class="updated_time"> 03:04 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/free-covid-tests-usps-biden.html">White House Offers Another Round of Free Virus Tests Through U.S.P.S.</a> NYT: The move doubled to 16 the total number of tests available to each U.S. household through a program that debuted over the winter. 
  <p class="updated_time"> 02:23 PM CT, May. 17 </p> 
@@ -328,18 +338,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/17/jan-6-panel-unlikely-to-call-trump-to-testify-00033133">Jan. 6 panel unlikely to call Trump to testify, chair says</a> Politico: “I think the concern is whether or not he would add any more value with his testimony," select committee Chair Bennie Thompson said Tuesday. 
  <p class="updated_time"> 12:58 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/baby-formula-shortage-house-bill.html">House Democrats Release $28 Million Aid Bill to Address Formula Shortage</a> NYT: The money is intended to help the Food and Drug Administration increase its staff and prepare for future shortages of infant formula. 
- <p class="updated_time"> 12:51 PM CT, May. 17 </p> 
- <a href="https://www.politico.com/news/2022/05/17/us-ease-venezuela-sanctions-maduro-00033082">U.S. to ease a few economic sanctions against Venezuela</a> Politico: The move is meant to encourage resumed negotiations between the U.S.-backed opposition and the government of President Nicolás Maduro. 
  <p class="updated_time"> 10:55 AM CT, May. 17 </p> 
  <a href="https://www.politico.com/news/2022/05/17/prosecutor-lawyer-fbi-clinton-2016-campaign-00032994">Prosecutor: Lawyer lied to FBI on behalf of Clinton 2016 campaign</a> Politico: Special counsel opens first trial by arguing that attorney Michael Sussmann misled FBI while trying to spur probe of Trump ties to Russia 
  <p class="updated_time"> 10:00 AM CT, May. 17 </p> 
  <a href="https://www.politico.com/news/2022/05/17/dems-ginni-thomas-supreme-court-amnesia-00032718">Hill Dems back-burner Ginni Thomas even as Supreme Court grabs national attention</a> Politico: Justice Clarence Thomas' wife pushed false election subversion claims — and played a key role in anti-abortion messaging. But she's not top of mind lately. 
- <p class="updated_time"> 08:23 AM CT, May. 17 </p> 
- <a href="https://www.politico.com/news/2022/05/17/pentagon-dod-ufos-00032929">Pentagon getting more UFO reports now that 'stigma has been reduced'</a> Politico: A DoD official asserted that "we're open to all hypotheses, we're open to any conclusions that we may encounter." 
  <p class="updated_time"> 03:31 AM CT, May. 17 </p> 
  <a href="https://www.politico.com/news/2022/05/17/seven-states-decide-senate-control-00032881">These 7 states will decide control of the Senate</a> Politico: Republicans only need to net one seat to win control of the Senate. These are the swing states each party is targeting. 
- <p class="updated_time"> 03:30 AM CT, May. 17 </p> 
- <a href="https://www.politico.com/news/2022/05/17/kamala-harris-senate-ties-00032949">Kamala Harris wants to get out of D.C. more. But she literally can’t.</a> Politico: The veep has cast more tie-breaking votes than all but two predecessors. It’s starting to frustrate some staff. 
  <p class="updated_time"> 06:53 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/democrats-gop-rhetoric-buffalo-shooting-maga-00032895">Dems turn focus to racist 'replacement theory' post-Buffalo shooting</a> Politico: Given the dim likelihood of any movement on guns, the party is shifting its approach to decrying Tucker Carlson and the far-right ideology he's echoed. 
  <p class="updated_time"> 04:30 PM CT, May. 16 </p> 
@@ -356,10 +360,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/15/chris-van-hollen-stroke-senate-00032632">Van Hollen says he suffered stroke</a> Politico: "Fortunately, I have been informed that there are no long-term effects," he said in a statement. 
  <p class="updated_time"> 12:19 PM CT, May. 15 </p> 
  <a href="https://www.politico.com/news/2022/05/15/manchin-sinema-sabotage-sanders-00032579">Manchin and Sinema 'sabotaged' Biden's plans, Sanders says</a> Politico: "I think pressure has got to be put on the part of people in West Virginia, in Arizona," the Vermont senator said. 
- <p class="updated_time"> 11:15 AM CT, May. 15 </p> 
- <a href="https://www.politico.com/news/2022/05/15/mcconnell-maga-ukraine-visit-00032572">McConnell takes on MAGA with Ukraine visit</a> Politico: His support for Ukraine is putting him at odds with his party’s non-interventionist wing. 
- <p class="updated_time"> 10:55 AM CT, May. 15 </p> 
- <a href="https://www.politico.com/news/2022/05/15/pelosi-blackmail-border-pandemic-aid-00032557">Pelosi rips GOP 'blackmail' in linking border vote to pandemic aid</a> Politico: "There's no use holding it up to blackmail as the Republicans are trying to do," she said. 
 
 
 </details>
