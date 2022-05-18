@@ -9,12 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:02 PM CT, May. 17 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/17/world/russia-ukraine-war-news">Live Updates: Ukrainian Holdouts in Mariupol Surrender to an Uncertain Fate</a> NYT: The government’s order for hundreds of remaining fighters to stand down offers Russia a propaganda victory, but prospects for a prisoner swap seem unclear at best. 
+ <p class="updated_time"> 07:46 PM CT, May. 17 </p> 
+ <a href="https://www.nytimes.com/2022/05/17/us/politics/us-venezuela-oil-sanctions.html">Biden Administration Offers Venezuela Minor Sanctions Relief</a> NYT: The Biden administration said it would relax restrictions on Chevron’s dealings with President Nicolás Maduro and remove sanctions from his relative. 
+ <p class="updated_time"> 07:35 PM CT, May. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61488556?at_medium=RSS&at_campaign=KARANGA">Michael Sussman: Clinton lawyer 'lied to manipulate FBI over Trump'</a> BBC: Michael Sussman peddled baseless claims about the Trump Organization in hope of an "October surprise". 
+ <p class="updated_time"> 07:05 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
  <p class="updated_time"> 06:53 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/us-airstrike-civilian-deaths.html">Pentagon Faults Review of Deadly Airstrike but Finds No Wrongdoing</a> NYT: The military’s inquiry followed a New York Times investigation describing allegations that officials sought to conceal dozens of civilian casualties. 
  <p class="updated_time"> 06:49 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61470748?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Inside a secret school for girls</a> BBC: The classes are a small act of defiance after the Taliban banned most teenage girls from education. 
- <p class="updated_time"> 06:44 PM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/live/2022/05/17/world/russia-ukraine-war-news">Live Updates: Ukrainian Holdouts in Mariupol Surrender to an Uncertain Fate</a> NYT: The government’s order for hundreds of remaining fighters to stand down offers Russia a propaganda victory, but prospects for a prisoner swap seem unclear at best. 
  <p class="updated_time"> 06:37 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61484697?at_medium=RSS&at_campaign=KARANGA">Climate change swells odds of record India, Pakistan heatwaves</a> BBC: A UK study says record-breaking temperatures in NW India and Pakistan are now 100 times more likely. 
  <p class="updated_time"> 06:13 PM CT, May. 17 </p> 
@@ -23,20 +29,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61477368?at_medium=RSS&at_campaign=KARANGA">Måneskin's crazy rise to fame: 'We only slept in our own beds 10 times last year'</a> BBC: The Italian rock band relive the highs and lows of becoming a global success after winning Eurovision. 
  <p class="updated_time"> 06:09 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61467135?at_medium=RSS&at_campaign=KARANGA">China's silenced feminist: How Sophia Huang Xueqin went missing</a> BBC: BBC Eye investigates the disappearance of Sophia Huang Xueqin, a high-profile feminist journalist who kick-started China’s #MeToo movement. 
- <p class="updated_time"> 05:55 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
+ <p class="updated_time"> 06:05 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128">Mariupol’s Last Defenders Yield, Ending Long Russian Siege</a> WSJ: Mariupol’s Last Defenders Yield, Ending Long Russian Siege 
  <p class="updated_time"> 05:53 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-mariupol-fighters-surrender.html">Ukrainian Holdouts in Mariupol Surrender to an Uncertain Fate</a> NYT: The government’s order for hundreds of remaining fighters to stand down offers Russia a propaganda victory, but prospects for a prisoner swap seem unclear at best. 
- <p class="updated_time"> 05:45 PM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/us/politics/us-venezuela-oil-sanctions.html">Biden Administration Offers Venezuela Minor Sanctions Relief</a> NYT: The Biden administration said it would relax restrictions on Chevron’s dealings with President Nicolás Maduro and remove sanctions from his relative. 
  <p class="updated_time"> 05:37 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-russia-peace-talks.html">With Ukraine Taking Firmer Stance, Peace Talks Grind to a Halt</a> NYT: The impasse is mainly driven by Russia’s insistence on controlling large areas of Ukrainian territory. But Ukraine is also emboldened by successes on the battlefield and angry over Russian atrocities. 
  <p class="updated_time"> 05:27 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/russia-hacking-costa-rica.html">Russian Hacking Cartel Attacks Costa Rican Government Agencies</a> NYT: Experts who track the hackers’ actions said the group had recently begun to shift its focus to countries in Central and South America, perhaps as retaliation against nations that have supported Ukraine. 
  <p class="updated_time"> 05:21 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/sport/gymnastics/61488161?at_medium=RSS&at_campaign=KARANGA">Ivan Kuliak: Russian gymnast given one-year ban for wearing pro-war symbol on podium next to Ukrainian</a> BBC: Russian gymnast Ivan Kuliak is given a one-year ban for wearing a national war symbol on the podium at an event in Qatar in March. 
- <p class="updated_time"> 04:55 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128">Mariupol’s Last Defenders Yield, Ending Long Russian Siege</a> WSJ: Mariupol’s Last Defenders Yield, Ending Long Russian Siege 
+ <p class="updated_time"> 05:05 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958">How Germany Is Racing to Sever Dependence on Russian Energy</a> WSJ: How Germany Is Racing to Sever Dependence on Russian Energy 
  <p class="updated_time"> 04:43 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61485525?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Biden rebukes 'poison' of white supremacy</a> BBC: The suspect in a mass shooting in New York belongs to "a hateful minority", the president said. 
  <p class="updated_time"> 04:26 PM CT, May. 17 </p> 
@@ -47,8 +51,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/17/1099474849/russia-ukraine-war-what-happened-today-may-17">Russia-Ukraine war: What happened today (May 17)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:13 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/canada/prince-charles-canada-visit.html">Prince Charles and Camilla Visit Canada</a> NYT: Prince Charles will make a three day tour of the country, where polls suggest there’s little support for the monarchy — but amending Canada’s Constitution is difficult. 
- <p class="updated_time"> 03:55 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958">How Germany Is Racing to Sever Dependence on Russian Energy</a> WSJ: How Germany Is Racing to Sever Dependence on Russian Energy 
+ <p class="updated_time"> 04:05 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/u-k-threatens-to-tear-up-key-part-of-brexit-deal-due-to-northern-irish-tensions-11652810682">U.K. Threatens to End Key Part of Brexit Deal</a> WSJ: U.K. Threatens to End Key Part of Brexit Deal 
  <p class="updated_time"> 03:51 PM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099587546/polish-young-adults-talk-about-the-war-in-ukraines-impact-on-their-generation">Polish young adults talk about the war in Ukraine's impact on their generation</a> NPR: NPR's Ari Shapiro talks with Polish young adults about how the war in Ukraine and the influx of refugees is affecting their country. 
  <p class="updated_time"> 03:51 PM CT, May. 17 </p> 
@@ -69,12 +73,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/15/world/australia/covid-deaths.html">How Australia Saved Thousands of Lives While Covid Killed a Million Americans</a> NYT: The United States and Australia share similar demographics, but their pandemic death rates point to very different cultures of trust. 
  <p class="updated_time"> 03:10 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61485616?at_medium=RSS&at_campaign=KARANGA">Amber Heard denies striking Johnny Depp and doctoring photos</a> BBC: Johnny Depp's lawyer has accused Ms Heard of being "the jealous one" in the ex-couple's marriage. 
+ <p class="updated_time"> 03:05 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/pollution-caused-one-in-six-deaths-world-wide-in-2019-study-says-11652826602">Pollution Caused One in Six Deaths World-Wide in 2019, Study Says</a> WSJ: Pollution Caused One in Six Deaths World-Wide in 2019, Study Says 
  <p class="updated_time"> 03:01 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/asia/pandit-shiv-kumar-sharma-dead.html">Pandit Shiv Kumar Sharma, Master of the Santoor, Dies at 84</a> NYT: He single-handedly elevated a 100-string instrument little known outside Kashmir into a prominent component of Hindustani classical music. 
- <p class="updated_time"> 02:55 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/u-k-threatens-to-tear-up-key-part-of-brexit-deal-due-to-northern-irish-tensions-11652810682">U.K. Threatens to End Key Part of Brexit Deal</a> WSJ: U.K. Threatens to End Key Part of Brexit Deal 
- <p class="updated_time"> 01:55 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/pollution-caused-one-in-six-deaths-world-wide-in-2019-study-says-11652826602">Pollution Caused One in Six Deaths World-Wide in 2019, Study Says</a> WSJ: Pollution Caused One in Six Deaths World-Wide in 2019, Study Says 
  <p class="updated_time"> 01:51 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/sweden-finland-nato.html">Finland and Sweden Say They Will Apply to Join NATO</a> NYT: They also said they would travel to Washington to meet with President Biden about the war in Ukraine and their bid to join the Western military alliance. 
  <p class="updated_time"> 01:39 PM CT, May. 17 </p> 
@@ -121,8 +123,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/blogs-trending-61460468?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: How far-right killers are radicalised online</a> BBC: A movement of online extremists targets innocent people in shooting rampages that follow a similar blueprint. 
  <p class="updated_time"> 08:04 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/asia/sri-lanka-fuel-economic-crisis.html">With Gas Pumps All but Dry, Sri Lanka Faces Its ‘Most Difficult Time’</a> NYT: The island nation’s new prime minister revealed that the country’s economic disaster was even worse than imagined. 
- <p class="updated_time"> 07:30 AM CT, May. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61477775?at_medium=RSS&at_campaign=KARANGA">Drugs tunnel connecting US and Mexico found</a> BBC: The "sophisticated" cross-border passage was equipped with a rail track and ventilation system. 
  <p class="updated_time"> 05:50 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-view-west.html">How do Ukrainians See the Western Response to the War?</a> NYT: Our reporters are answering readers’ questions about Russia’s invasion of Ukraine. Many of you have asked about sentiments in Ukraine about the West. 
  <p class="updated_time"> 05:09 AM CT, May. 17 </p> 
@@ -208,10 +208,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:49 PM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/us/politics/representative-ted-budd-wins-a-crowded-senate-gop-primary-in-north-carolina.html">Representative Ted Budd wins a crowded Senate G.O.P. primary in North Carolina.</a> NYT: In a race packed with ideological conservatives and supporters of Donald J. Trump, Mr. Budd earned a pair of key endorsements. 
- <p class="updated_time"> 06:33 PM CT, May. 17 </p> 
+ <p class="updated_time"> 07:54 PM CT, May. 17 </p> 
+ <a href="https://www.npr.org/2022/05/17/1099190209/pennsylvania-senate-results-fetterman-lamb-oz-barnette-mccormick">Pennsylvania Lt. Gov. John Fetterman wins Democratic Senate primary, the AP says</a> NPR: Pennsylvania has an open Senate seat for the first time in 12 years. Fetterman's Republican opponent was not yet decided. The GOP primary was close going into Tuesday, with three front-runners. 
+ <p class="updated_time"> 07:52 PM CT, May. 17 </p> 
+ <a href="https://www.politico.com/news/2022/05/17/maloney-dccc-jones-new-york-00033277">Dems question whether Maloney can run DCCC while battling freshman colleague</a> Politico: The matchup isn't final, but many in the party are publicly and privately raising questions about Rep. Sean Patrick Maloney's decision to run in a certain New York district. 
+ <p class="updated_time"> 07:46 PM CT, May. 17 </p> 
+ <a href="https://www.nytimes.com/2022/05/17/us/politics/us-venezuela-oil-sanctions.html">Biden Administration Offers Venezuela Minor Sanctions Relief</a> NYT: The Biden administration said it would relax restrictions on Chevron’s dealings with President Nicolás Maduro and remove sanctions from his relative. 
+ <p class="updated_time"> 07:32 PM CT, May. 17 </p> 
+ <a href="https://www.nytimes.com/2022/05/17/us/politics/gun-manufacturing-atf.html">U.S. Gun Production Triples Since 2000, Fueled by Handgun Purchases</a> NYT: The A.T.F. released a trove of gun manufacturing data on Tuesday, the first comprehensive survey of firearms commerce data in decades. 
+ <p class="updated_time"> 07:16 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/biden-buffalo-ny-visit.html">Biden Heads to Buffalo to Mourn Shooting Victims</a> NYT: The challenge for a president who came to office preaching unity may be how to take on those preaching hate. 
+ <p class="updated_time"> 06:59 PM CT, May. 17 </p> 
+ <a href="https://www.npr.org/2022/05/17/1099463223/north-carolina-senate-results">Budd will face off against Beasley in North Carolina Senate contest, per AP race calls</a> NPR: Rep. Ted Budd, who has former President Donald Trump's endorsement, easily won the North Carolina GOP Senate primary, the AP reports. He will face Democrat Cheri Beasley in November. 
+ <p class="updated_time"> 06:53 PM CT, May. 17 </p> 
+ <a href="https://www.nytimes.com/2022/05/17/us/politics/michael-sussmann-cybersecurity-trial.html">Clashing Views of Cybersecurity Lawyer as Trial in Special Counsel’s Case Opens</a> NYT: Michael Sussmann, a prominent lawyer with Democratic ties, is accused of lying to the F.B.I. in a case with broader political overtones. 
+ <p class="updated_time"> 06:53 PM CT, May. 17 </p> 
+ <a href="https://www.nytimes.com/2022/05/17/us/politics/us-airstrike-civilian-deaths.html">Pentagon Faults Review of Deadly Airstrike but Finds No Wrongdoing</a> NYT: The military’s inquiry followed a New York Times investigation describing allegations that officials sought to conceal dozens of civilian casualties. 
  <p class="updated_time"> 06:27 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/thomas-barrack-trump-lobbying.html">Prosecutors Add Details to Foreign Lobbying Charges Against Trump Ally</a> NYT: In an updated indictment, the Justice Department said Thomas Barrack sought money from the United Arab Emirates for an investment fund that would boost the Trump administration’s agenda. 
  <p class="updated_time"> 06:04 PM CT, May. 17 </p> 
@@ -220,8 +232,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/us/politics/jan-6-committee-transcripts.html">Justice Dept. Is Said to Request Transcripts From Jan. 6 Committee</a> NYT: The committee has interviewed more than 1,000 people so far, and the transcripts could be used as evidence in potential criminal cases or to pursue new leads. 
  <p class="updated_time"> 06:00 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/todays-primaries-midterm-elections.html">Three Questions About Today’s Consequential Primaries</a> NYT: How will progressive Democrats fare against moderate rivals? What signals will North Carolina Republicans send? And in Pennsylvania, will Kathy Barnette concede a loss? 
- <p class="updated_time"> 05:45 PM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/us/politics/us-venezuela-oil-sanctions.html">Biden Administration Offers Venezuela Minor Sanctions Relief</a> NYT: The Biden administration said it would relax restrictions on Chevron’s dealings with President Nicolás Maduro and remove sanctions from his relative. 
  <p class="updated_time"> 05:27 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/russia-hacking-costa-rica.html">Russian Hacking Cartel Attacks Costa Rican Government Agencies</a> NYT: Experts who track the hackers’ actions said the group had recently begun to shift its focus to countries in Central and South America, perhaps as retaliation against nations that have supported Ukraine. 
  <p class="updated_time"> 05:27 PM CT, May. 17 </p> 
@@ -230,8 +240,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/business/russia-bond-payments.html">U.S. Expected to Begin Blocking Russian Bond Payments to Americans</a> NYT: The Treasury Department is expected to let a sanctions carve-out lapse next week, raising the prospect of a Russian default. 
  <p class="updated_time"> 05:06 PM CT, May. 17 </p> 
  <a href="https://www.politico.com/news/2022/05/17/justice-department-requests-transcripts-from-jan-6-committee-00033236">Justice Department requests transcripts from Jan. 6 committee</a> Politico: The panel's chair, Rep. Bennie Thompson, said the committee won’t hand over its “work product” but might invite department officials to review the documents in committee offices. 
- <p class="updated_time"> 04:29 PM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/us/politics/us-airstrike-civilian-deaths.html">Pentagon Faults Review of Deadly Airstrike but Finds No Wrongdoing</a> NYT: The military’s inquiry followed a New York Times investigation describing allegations that officials sought to conceal dozens of civilian casualties. 
  <p class="updated_time"> 04:27 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/congress-ufo-hearing.html">Congress Holds First U.F.O. Hearing in Half a Century</a> NYT: Pentagon officials testified at a rare public hearing about unidentified phenomena, and lawmakers pledged to bring transparency to an investigation of unexplained reports by military pilots and others. 
  <p class="updated_time"> 04:17 PM CT, May. 17 </p> 
@@ -310,12 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/money/2022/05/17/1098524454/the-case-for-revolutionizing-child-care-in-america">The case for revolutionizing child care in America</a> NPR: A new book argues that greater public support for parents is critical for the brain development of America's kids. 
  <p class="updated_time"> 04:31 AM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1098875556/congressional-candidate-alexandra-hunt-wants-you-to-look-beyond-her-past">Congressional candidate Alexandra Hunt wants you to look beyond her past </a> NPR: The 29-year-old looking to unseat Rep. Dwight Evans for Pennsylvania's 3rd Congressional District, has grabbed attention for her past as a stripper and for creating an OnlyFans. 
- <p class="updated_time"> 04:01 AM CT, May. 17 </p> 
- <a href="https://www.npr.org/2022/05/17/1099374329/pennsylvanias-republican-governor-race-mastriano-barletta-shapiro-results">Mastriano, a Trump-backed election denier, leads Pennsylvania GOP field for governor</a> NPR: Far-right Pennsylvania state Sen. Doug Mastriano is leading polls in the GOP primary for governor, panicking the state's Republican Party establishment. Former U.S. Rep. Lou Barletta follows. 
- <p class="updated_time"> 04:00 AM CT, May. 17 </p> 
- <a href="https://www.npr.org/2022/05/17/1099313555/idaho-governor-primary-election-results-trump-mcgeachin-little">Far-right challengers look to upset the status quo in the Idaho governor's primary</a> NPR: In Idaho's GOP race for governor, former President Donald Trump has endorsed Lt. Gov. Janice McGeachin, who has long ties to far-right figures and is challenging incumbent Gov. Brad Little. 
- <p class="updated_time"> 03:30 AM CT, May. 17 </p> 
- <a href="https://www.politico.com/news/2022/05/17/tuesday-primaries-what-to-watch-00032945">Big money, Trump and ideological war: 7 big things we’re watching in Tuesday’s primaries</a> Politico: Pennsylvania’s big GOP primaries, a host of expensive Democratic House fights and more are on tap across five states. 
  <p class="updated_time"> 03:30 AM CT, May. 17 </p> 
  <a href="https://www.politico.com/news/2022/05/17/oregon-elections-crypto-super-pac-00032960">Crypto gets its first big political test</a> Politico: A super PAC largely backed by cryptocurrency billionaire Sam Bankman-Fried has poured more than $11 million into a House primary in Oregon. 
  <p class="updated_time"> 03:30 AM CT, May. 17 </p> 
@@ -324,16 +326,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/17/moveon-30-million-maga-campaign-00032763">MoveOn plows $30 million into 'Us vs. MAGA' campaign</a> Politico: The progressive group is investing $30 million into midterm battles for Congress, governorships and secretaries of state, betting that key voters don't want pro-Trump Republicans. 
  <p class="updated_time"> 09:20 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-cuba-policy.html">Biden Administration Lifting Some Trump-Era Restrictions on Cuba</a> NYT: The changes include an expansion of flights to the country and the restarting of a family reunification program. 
- <p class="updated_time"> 08:56 PM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/us/politics/elise-stefanik-replacement-theory.html">Racist Attack Spotlights Elise Stefanik’s Echo of Replacement Theory</a> NYT: The No. 3 House Republican, who has shifted to the hard right along with her party, has touched on the ideas animating white replacement theory. She is not sorry. 
  <p class="updated_time"> 08:54 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/republicans-great-replacement.html">Republicans Play on Fears of ‘Great Replacement’ in Bid for Base Voters</a> NYT: Issues are recast as reasons for white voters to fear for their culture and values. Representative Liz Cheney said her party’s leaders had ‘enabled’ extremism. 
  <p class="updated_time"> 07:36 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/gop-pennsylvania-primary-doug-mastriano-00032910">GOP blame game erupts in Pennsylvania governor's race</a> Politico: Doug Mastriano's expected primary win Tuesday has led to calls for the state party chair's resignation. 
- <p class="updated_time"> 07:31 PM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/us/politics/mcconnell-republicans-ukraine-aid.html">McConnell Takes On Isolationist Wing of G.O.P. in Fight for Ukraine Aid</a> NYT: The top Senate Republican has been working to tamp down on the anti-interventionist strain in his party, his latest proxy battle against President Donald J. Trump’s America First policy. 
- <p class="updated_time"> 07:29 PM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/us/politics/legal-gun-purchase-mass-shooting.html">What Do Most Mass Shooters Have in Common? They Bought Their Guns Legally.</a> NYT: From 1966 to 2019, 77 percent of mass shooters obtained the weapons they used in their crimes through legal purchases. 
  <p class="updated_time"> 07:11 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/trump-oz-pennsylvania-senate-00032900">Trump works overtime to push Dr. Oz over the finish line</a> Politico: Republican Kathy Barnette said  she has "no intentions" of supporting her rivals if they defeat her in Pennsylvania's tight GOP Senate primary. 
  <p class="updated_time"> 06:53 PM CT, May. 16 </p> 
