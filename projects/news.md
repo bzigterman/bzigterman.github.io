@@ -9,30 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:59 PM CT, May. 17 </p> 
+ <p class="updated_time"> 12:02 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/05/17/world/russia-ukraine-war-news">What Happened on Day 83 of the War in Ukraine</a> NYT: The government’s order for hundreds of remaining fighters to stand down offers Russia a propaganda victory, but prospects for a prisoner swap seem unclear at best. 
+ <p class="updated_time"> 11:58 PM CT, May. 17 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61488976?at_medium=RSS&at_campaign=KARANGA">China Eastern plane crash likely intentional, US reports say</a> BBC: Flight data reportedly indicates someone in the cockpit made the China Eastern Airlines jet crash. 
+ <p class="updated_time"> 11:32 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
  <p class="updated_time"> 11:25 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61489046?at_medium=RSS&at_campaign=KARANGA">Pennsylvania primary: Trump-backed TV doctor in cliffhanger vote count</a> BBC: Celebrity surgeon Mehmet Oz's bid to become the next Republican senator from Pennsylvania is in jeopardy. 
- <p class="updated_time"> 11:03 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
  <p class="updated_time"> 10:34 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61489209?at_medium=RSS&at_campaign=KARANGA">Venezuela government and opposition to renew talks amid humanitarian crisis</a> BBC: Talks aimed at ending a political crisis that has displaced six million people collapsed in October. 
- <p class="updated_time"> 10:03 PM CT, May. 17 </p> 
+ <p class="updated_time"> 10:32 PM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128">Mariupol’s Last Defenders Yield, Ending Long Russian Siege</a> WSJ: Mariupol’s Last Defenders Yield, Ending Long Russian Siege 
  <p class="updated_time"> 09:43 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61486027?at_medium=RSS&at_campaign=KARANGA">Mariupol: Ukraine doing everything to save remaining fighters</a> BBC: But Kyiv refuses to say how many soldiers are still trapped, saying such information is "sensitive". 
  <p class="updated_time"> 09:35 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61488082?at_medium=RSS&at_campaign=KARANGA">Madison Cawthorn: Trump-backed Gen Z congressman ousted amid scandal</a> BBC: Madison Cawthorn loses a bid to renew his title as America's youngest congressman. 
- <p class="updated_time"> 09:03 PM CT, May. 17 </p> 
+ <p class="updated_time"> 09:32 PM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958">How Germany Is Racing to Sever Dependence on Russian Energy</a> WSJ: How Germany Is Racing to Sever Dependence on Russian Energy 
- <p class="updated_time"> 08:03 PM CT, May. 17 </p> 
+ <p class="updated_time"> 08:32 PM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/u-k-threatens-to-tear-up-key-part-of-brexit-deal-due-to-northern-irish-tensions-11652810682">U.K. Threatens to End Key Part of Brexit Deal</a> WSJ: U.K. Threatens to End Key Part of Brexit Deal 
  <p class="updated_time"> 07:46 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/us-venezuela-oil-sanctions.html">Biden Administration Offers Venezuela Minor Sanctions Relief</a> NYT: The Biden administration said it would relax restrictions on Chevron’s dealings with President Nicolás Maduro and remove sanctions from his relative. 
  <p class="updated_time"> 07:35 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61488556?at_medium=RSS&at_campaign=KARANGA">Michael Sussmann: Clinton lawyer 'lied to manipulate FBI over Trump'</a> BBC: Michael Sussmann peddled baseless claims about the Trump Organization in hope of an "October surprise". 
- <p class="updated_time"> 07:17 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/japans-economy-shrinks-slightly-in-first-quarter-11652832270">Japan's Economy Shrinks Slightly in First Quarter</a> WSJ: The country’s gross domestic product fell at annual rate of 1% owing to Covid-19 restrictions, but an upswing is expected this quarter 
+ <p class="updated_time"> 07:32 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/japans-economy-shrinks-slightly-in-first-quarter-11652832270">Japan’s Economy Shrinks Slightly in First Quarter</a> WSJ: Japan’s Economy Shrinks Slightly in First Quarter 
  <p class="updated_time"> 06:53 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/us-airstrike-civilian-deaths.html">Pentagon Faults Review of Deadly Airstrike but Finds No Wrongdoing</a> NYT: The military’s inquiry followed a New York Times investigation describing allegations that officials sought to conceal dozens of civilian casualties. 
  <p class="updated_time"> 06:49 PM CT, May. 17 </p> 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61137648?at_medium=RSS&at_campaign=KARANGA">Australia election: A simple guide</a> BBC: Australians go to the polls on 21 May, for the country's first election since 2019. 
  <p class="updated_time"> 10:49 AM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61484222?at_medium=RSS&at_campaign=KARANGA">Retired colonel speaks out on Russian TV</a> BBC: Mikhail Khodarenok gives a rare insight saying the military operation in Ukraine can only get worse. 
- <p class="updated_time"> 10:41 AM CT, May. 17 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61474201?at_medium=RSS&at_campaign=KARANGA">UFOs: Few answers at rare US Congressional hearing</a> BBC: While top Pentagon brass say most encounters can be explained, a handful remain a complete mystery. 
  <p class="updated_time"> 10:41 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/russian-state-tv-ukraine-invasion.html">Retired Russian Colonel Says on State TV That Ukraine War Isn’t Going Well</a> NYT: It was a rare moment in a country where broadcasters generally follow the Kremlin’s talking points about the war. 
  <p class="updated_time"> 10:15 AM CT, May. 17 </p> 
@@ -206,7 +206,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:41 PM CT, May. 17 </p> 
+ <p class="updated_time"> 12:04 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/gop-senate-primary-pa.html">G.O.P. Senate Primary in Pennsylvania Remains a Tossup</a> NYT: Five states held primary elections on Tuesday, with Pennsylvania’s contests for Senate and governor the center of attention. 
  <p class="updated_time"> 11:16 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/fda-pfizer-booster-children.html">The F.D.A. authorizes Pfizer-BioNTech boosters for children ages 5 to 11.</a> NYT: More than eight million of the 28 million children in that age group in the United States have received two vaccine shots. 
