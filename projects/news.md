@@ -9,27 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:43 AM CT, May. 18 </p> 
+ <p class="updated_time"> 01:23 AM CT, May. 18 </p> 
+ <a href="https://www.nytimes.com/2022/05/17/world/europe/spain-time-off-period-pain.html">Spain Considers Paid Time Off for Women With Severe Period Symptoms</a> NYT: A draft law would allow women to stay home if they are diagnosed by a doctor. It would also extend abortion access, but it faces an arduous path through Parliament. 
+ <p class="updated_time"> 01:08 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/05/17/world/russia-ukraine-war-news">What Happened on Day 83 of the War in Ukraine</a> NYT: The government’s order for hundreds of remaining fighters to stand down offers Russia a propaganda victory, but prospects for a prisoner swap seem unclear at best. 
+ <p class="updated_time"> 01:05 AM CT, May. 18 </p> 
+ <a href="https://www.npr.org/2022/05/18/1099675985/u-s-officials-seek-clarity-on-turkeys-view-of-nato-expansion">U.S. officials seek clarity on Turkey's view of NATO expansion</a> NPR: U.S. Secretary of State Antony Blinken will meet his Turkish counterpart on Wednesday amid  the contradictory signals from Ankara over the expected applications from Finland and Sweden. 
+ <p class="updated_time"> 12:56 AM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
  <p class="updated_time"> 12:26 AM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61482700?at_medium=RSS&at_campaign=KARANGA">Woman kidnapped as a child reunites with rescuer</a> BBC: Kathy Wrethman, from Australia, has finally come face-to-face with the man who saved her life. 
- <p class="updated_time"> 11:59 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
  <p class="updated_time"> 11:58 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-61488976?at_medium=RSS&at_campaign=KARANGA">China Eastern plane crash likely intentional, US reports say</a> BBC: Flight data reportedly indicates someone in the cockpit made the China Eastern Airlines jet crash. 
+ <p class="updated_time"> 11:56 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128">Mariupol’s Last Defenders Yield, Ending Long Russian Siege</a> WSJ: Mariupol’s Last Defenders Yield, Ending Long Russian Siege 
  <p class="updated_time"> 11:25 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61489046?at_medium=RSS&at_campaign=KARANGA">Pennsylvania primary: Trump-backed TV doctor in cliffhanger vote count</a> BBC: Celebrity surgeon Mehmet Oz's bid to become the next Republican senator from Pennsylvania is in jeopardy. 
- <p class="updated_time"> 10:59 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128">Mariupol’s Last Defenders Yield, Ending Long Russian Siege</a> WSJ: Mariupol’s Last Defenders Yield, Ending Long Russian Siege 
+ <p class="updated_time"> 10:56 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958">How Germany Is Racing to Sever Dependence on Russian Energy</a> WSJ: How Germany Is Racing to Sever Dependence on Russian Energy 
  <p class="updated_time"> 10:34 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61489209?at_medium=RSS&at_campaign=KARANGA">Venezuela government and opposition to renew talks amid humanitarian crisis</a> BBC: Talks aimed at ending a political crisis that has displaced six million people collapsed in October. 
- <p class="updated_time"> 09:59 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958">How Germany Is Racing to Sever Dependence on Russian Energy</a> WSJ: How Germany Is Racing to Sever Dependence on Russian Energy 
+ <p class="updated_time"> 09:56 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/u-k-threatens-to-tear-up-key-part-of-brexit-deal-due-to-northern-irish-tensions-11652810682">U.K. Threatens to End Key Part of Brexit Deal</a> WSJ: U.K. Threatens to End Key Part of Brexit Deal 
  <p class="updated_time"> 09:35 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61488082?at_medium=RSS&at_campaign=KARANGA">Madison Cawthorn: Trump-backed Gen Z congressman ousted amid scandal</a> BBC: Madison Cawthorn loses a bid to renew his title as America's youngest congressman. 
- <p class="updated_time"> 08:59 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/u-k-threatens-to-tear-up-key-part-of-brexit-deal-due-to-northern-irish-tensions-11652810682">U.K. Threatens to End Key Part of Brexit Deal</a> WSJ: U.K. Threatens to End Key Part of Brexit Deal 
- <p class="updated_time"> 07:59 PM CT, May. 17 </p> 
+ <p class="updated_time"> 08:56 PM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/japans-economy-shrinks-slightly-in-first-quarter-11652832270">Japan’s Economy Shrinks Slightly in First Quarter</a> WSJ: Japan’s Economy Shrinks Slightly in First Quarter 
  <p class="updated_time"> 07:46 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/us-venezuela-oil-sanctions.html">Biden Administration Offers Venezuela Minor Sanctions Relief</a> NYT: The Biden administration said it would relax restrictions on Chevron’s dealings with President Nicolás Maduro and remove sanctions from his relative. 
@@ -91,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/world/europe/uk-eu-northern-ireland-protocol.html">In Risky Move, U.K. Says It May Scrap Northern Ireland Trade Rules</a> NYT: The decision sets Britain on a collision course with the European Union, 18 months after a trade deal that was meant to have completed Brexit. 
  <p class="updated_time"> 01:25 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61179093?at_medium=RSS&at_campaign=KARANGA">Mariupol: Key moments in the siege of the city</a> BBC: As Ukrainian fighters are evacuated from the Azovstal steelworks, how Russia has closed in on the city. 
- <p class="updated_time"> 01:02 PM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/world/europe/spain-time-off-period-pain.html">Spain Considers Paid Time Off for Women With Severe Period Symptoms</a> NYT: A draft law would allow women to stay home if they are diagnosed by a doctor. It would also extend abortion access, but it faces an arduous path through Parliament. 
  <p class="updated_time"> 12:38 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html">Poor Countries Face a Mounting Catastrophe Fueled by Inflation and Debt</a> NYT: Russia’s war in Ukraine is combining with a global tightening of credit and an economic slowdown in China to sow misery in low- and middle-income countries. 
  <p class="updated_time"> 11:43 AM CT, May. 17 </p> 
@@ -173,8 +175,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-military-somalia.html">Biden Approves Plan to Redeploy Several Hundred Ground Forces Into Somalia</a> NYT: The president also signed off on targeting about a dozen Shabab leaders in the war-torn country, from which Donald J. Trump largely withdrew in his final weeks in office. 
  <p class="updated_time"> 02:28 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/15/world/asia/katsumoto-saotome-dead.html">Katsumoto Saotome, Who Preserved Stories of Tokyo Firebombing, Dies at 90</a> NYT: He compiled six books of survivors’ recollections of the 1945 attack. He also founded (without government support) a memorial museum. 
- <p class="updated_time"> 01:55 PM CT, May. 16 </p> 
- <a href="https://www.npr.org/2022/05/16/1099089642/40-years-ago-the-falkland-malvinas-war-transformed-latin-rock">40 years ago, the Falkland-Malvinas War transformed Latin rock </a> NPR: When English-language music was banned in 1982, Spanish-language groups found an opportunity. 
  <p class="updated_time"> 01:29 PM CT, May. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61462939?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Black Americans describe grief and fear</a> BBC: Ten people were killed in Saturday's attack - described by Buffalo's police chief as a racist hate crime. 
  <p class="updated_time"> 09:25 AM CT, May. 16 </p> 
@@ -204,10 +204,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:46 AM CT, May. 18 </p> 
- <a href="https://www.politico.com/news/2022/05/18/trump-backed-candidates-2022-primary-results-00032746">How Trump-backed candidates fared on the busiest primary day</a> Politico: The former president's endorsement record on Tuesday was mixed. While state Sen. Doug Mastriano won in Pennsylvania, elsewhere several other Trump favorites fell short. 
- <p class="updated_time"> 12:04 AM CT, May. 18 </p> 
+ <p class="updated_time"> 01:39 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/gop-senate-primary-pa.html">G.O.P. Senate Primary in Pennsylvania Remains a Tossup</a> NYT: Five states held primary elections on Tuesday, with Pennsylvania’s contests for Senate and governor the center of attention. 
+ <p class="updated_time"> 01:17 AM CT, May. 18 </p> 
+ <a href="https://www.nytimes.com/2022/05/18/us/politics/winners-losers-nc-pa-elections-primaries.html">Who Won, Who Lost and What Races Haven’t Been Called Yet in Tuesday’s Primaries</a> NYT: Nobody declared victory in Pennsylvania’s Republican Senate primary, despite a Trump endorsement. Representative Madison Cawthorn of North Carolina was ousted after a series of scandals. 
+ <p class="updated_time"> 12:46 AM CT, May. 18 </p> 
+ <a href="https://www.politico.com/news/2022/05/18/trump-backed-candidates-2022-primary-results-00032746">How Trump-backed candidates fared on the busiest primary day</a> Politico: The former president's endorsement record Tuesday was mixed. While state Sen. Doug Mastriano won in Pennsylvania, elsewhere several other Trump favorites fell short. 
  <p class="updated_time"> 11:16 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/fda-pfizer-booster-children.html">The F.D.A. authorizes Pfizer-BioNTech boosters for children ages 5 to 11.</a> NYT: More than eight million of the 28 million children in that age group in the United States have received two vaccine shots. 
  <p class="updated_time"> 11:06 PM CT, May. 17 </p> 
@@ -316,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/17/dems-ginni-thomas-supreme-court-amnesia-00032718">Hill Dems back-burner Ginni Thomas even as Supreme Court grabs national attention</a> Politico: Justice Clarence Thomas' wife pushed false election subversion claims — and played a key role in anti-abortion messaging. But she's not top of mind lately. 
  <p class="updated_time"> 08:23 AM CT, May. 17 </p> 
  <a href="https://www.politico.com/news/2022/05/17/pentagon-dod-ufos-00032929">Pentagon getting more UFO reports now that 'stigma has been reduced'</a> Politico: A DoD official asserted that "we're open to all hypotheses, we're open to any conclusions that we may encounter." 
- <p class="updated_time"> 08:19 AM CT, May. 17 </p> 
- <a href="https://www.politico.com/news/2022/05/17/pennsylvania-ag-shapiro-tests-positive-for-covid-19-on-primary-election-eve-00032984">Pennsylvania AG Shapiro tests positive for Covid-19 on primary election eve</a> Politico: Josh Shapiro is running unopposed for the state’s Democratic gubernatorial nomination. 
  <p class="updated_time"> 07:08 AM CT, May. 17 </p> 
  <a href="https://www.npr.org/2022/05/17/1099410910/ufo-hearing-congress-military-intelligence">The military's UFO database now has info from about 400 reported incidents</a> NPR: That's up from 143 incidents in a report issued in 2021. Officials partly credited reducing stigma around the issue for the new reports, many of which are older and went unmentioned at the time. 
  <p class="updated_time"> 05:30 AM CT, May. 17 </p> 
