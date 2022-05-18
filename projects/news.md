@@ -9,32 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:02 AM CT, May. 18 </p> 
+ <p class="updated_time"> 12:43 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/live/2022/05/17/world/russia-ukraine-war-news">What Happened on Day 83 of the War in Ukraine</a> NYT: The government’s order for hundreds of remaining fighters to stand down offers Russia a propaganda victory, but prospects for a prisoner swap seem unclear at best. 
+ <p class="updated_time"> 12:26 AM CT, May. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61482700?at_medium=RSS&at_campaign=KARANGA">Woman kidnapped as a child reunites with rescuer</a> BBC: Kathy Wrethman, from Australia, has finally come face-to-face with the man who saved her life. 
  <p class="updated_time"> 11:58 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/business-61488976?at_medium=RSS&at_campaign=KARANGA">China Eastern plane crash likely intentional, US reports say</a> BBC: Flight data reportedly indicates someone in the cockpit made the China Eastern Airlines jet crash. 
- <p class="updated_time"> 11:32 PM CT, May. 17 </p> 
+ <p class="updated_time"> 11:47 PM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/china-eastern-black-box-points-to-intentional-nosedive-11652805097">China Eastern Black Box Points to Intentional Nosedive</a> WSJ: China Eastern Black Box Points to Intentional Nosedive 
  <p class="updated_time"> 11:25 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61489046?at_medium=RSS&at_campaign=KARANGA">Pennsylvania primary: Trump-backed TV doctor in cliffhanger vote count</a> BBC: Celebrity surgeon Mehmet Oz's bid to become the next Republican senator from Pennsylvania is in jeopardy. 
+ <p class="updated_time"> 10:47 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128">Mariupol’s Last Defenders Yield, Ending Long Russian Siege</a> WSJ: Mariupol’s Last Defenders Yield, Ending Long Russian Siege 
  <p class="updated_time"> 10:34 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61489209?at_medium=RSS&at_campaign=KARANGA">Venezuela government and opposition to renew talks amid humanitarian crisis</a> BBC: Talks aimed at ending a political crisis that has displaced six million people collapsed in October. 
- <p class="updated_time"> 10:32 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/ukraine-says-long-combat-mission-in-mariupol-has-ended-11652767128">Mariupol’s Last Defenders Yield, Ending Long Russian Siege</a> WSJ: Mariupol’s Last Defenders Yield, Ending Long Russian Siege 
+ <p class="updated_time"> 09:47 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958">How Germany Is Racing to Sever Dependence on Russian Energy</a> WSJ: How Germany Is Racing to Sever Dependence on Russian Energy 
  <p class="updated_time"> 09:43 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61486027?at_medium=RSS&at_campaign=KARANGA">Mariupol: Ukraine doing everything to save remaining fighters</a> BBC: But Kyiv refuses to say how many soldiers are still trapped, saying such information is "sensitive". 
  <p class="updated_time"> 09:35 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61488082?at_medium=RSS&at_campaign=KARANGA">Madison Cawthorn: Trump-backed Gen Z congressman ousted amid scandal</a> BBC: Madison Cawthorn loses a bid to renew his title as America's youngest congressman. 
- <p class="updated_time"> 09:32 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/how-germany-is-curing-its-dependence-on-russian-energy-11652801958">How Germany Is Racing to Sever Dependence on Russian Energy</a> WSJ: How Germany Is Racing to Sever Dependence on Russian Energy 
- <p class="updated_time"> 08:32 PM CT, May. 17 </p> 
+ <p class="updated_time"> 08:47 PM CT, May. 17 </p> 
  <a href="https://www.wsj.com/articles/u-k-threatens-to-tear-up-key-part-of-brexit-deal-due-to-northern-irish-tensions-11652810682">U.K. Threatens to End Key Part of Brexit Deal</a> WSJ: U.K. Threatens to End Key Part of Brexit Deal 
+ <p class="updated_time"> 07:47 PM CT, May. 17 </p> 
+ <a href="https://www.wsj.com/articles/japans-economy-shrinks-slightly-in-first-quarter-11652832270">Japan’s Economy Shrinks Slightly in First Quarter</a> WSJ: Japan’s Economy Shrinks Slightly in First Quarter 
  <p class="updated_time"> 07:46 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/us-venezuela-oil-sanctions.html">Biden Administration Offers Venezuela Minor Sanctions Relief</a> NYT: The Biden administration said it would relax restrictions on Chevron’s dealings with President Nicolás Maduro and remove sanctions from his relative. 
  <p class="updated_time"> 07:35 PM CT, May. 17 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61488556?at_medium=RSS&at_campaign=KARANGA">Michael Sussmann: Clinton lawyer 'lied to manipulate FBI over Trump'</a> BBC: Michael Sussmann peddled baseless claims about the Trump Organization in hope of an "October surprise". 
- <p class="updated_time"> 07:32 PM CT, May. 17 </p> 
- <a href="https://www.wsj.com/articles/japans-economy-shrinks-slightly-in-first-quarter-11652832270">Japan’s Economy Shrinks Slightly in First Quarter</a> WSJ: Japan’s Economy Shrinks Slightly in First Quarter 
  <p class="updated_time"> 06:53 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/us/politics/us-airstrike-civilian-deaths.html">Pentagon Faults Review of Deadly Airstrike but Finds No Wrongdoing</a> NYT: The military’s inquiry followed a New York Times investigation describing allegations that officials sought to conceal dozens of civilian casualties. 
  <p class="updated_time"> 06:49 PM CT, May. 17 </p> 
@@ -179,8 +181,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61462939?at_medium=RSS&at_campaign=KARANGA">Buffalo shooting: Black Americans describe grief and fear</a> BBC: Ten people were killed in Saturday's attack - described by Buffalo's police chief as a racist hate crime. 
  <p class="updated_time"> 09:25 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/middleeast/russia-gas-ukraine-qatar.html">The War in Ukraine Could Empower Qatar</a> NYT: As the United States and Europe seek to deprive Russia of its oil and gas income, their leaders hope Qatar can help fill the void. 
- <p class="updated_time"> 09:06 AM CT, May. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61469512?at_medium=RSS&at_campaign=KARANGA">Iraq sandstorm: Red skies as Iraq hit by eighth sandstorm in weeks</a> BBC: This is the eighth sandstorm to sweep through the country since mid-April, hospitalising hundreds. 
  <p class="updated_time"> 07:50 AM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/13/world/europe/putin-family-wealth-sanctions.html">Sanctions Shed Light on Putin’s Private Life</a> NYT: As Western nations place sanctions on people close to the Russian leader, including family members, the strict secrecy surrounding his private life is being punctured. 
  <p class="updated_time"> 06:24 AM CT, May. 16 </p> 
