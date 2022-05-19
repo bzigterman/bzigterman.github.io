@@ -9,8 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:34 PM CT, May. 19 </p> 
+ <p class="updated_time"> 03:46 PM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/world/europe/russia-bucha-ukraine-executions.html">New Evidence Shows How Russian Soldiers Executed Men in Bucha</a> NYT: Witness testimony and videos obtained by The New York Times show how Russian paratroopers executed at least eight Ukrainian men in a Kyiv suburb on March 4, a potential war crime. 
+ <p class="updated_time"> 03:46 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/05/19/world/prince-charles-canada-visit">Live Updates: Prince Charles Visits Canada’s Northwest Territories</a> NYT: Prince Charles will visit an Indigenous community on the last day of his three-day tour of the country, where polls suggest there is little support for the monarchy. 
+ <p class="updated_time"> 03:45 PM CT, May. 19 </p> 
+ <a href="https://www.npr.org/2022/05/19/1100228331/the-un-security-council-discussed-how-the-war-in-ukraine-may-worsen-global-hunge">The UN security council discussed how the war in Ukraine may worsen global hunger</a> NPR: The U.S. is using its presidency of the UN Security Council to focus on food security, as much of the world worries about the ripple effects from the war in Ukraine. 
+ <p class="updated_time"> 03:45 PM CT, May. 19 </p> 
+ <a href="https://www.npr.org/2022/05/19/1100228324/delhi-where-most-people-dont-have-ac-hits-120-degrees-in-south-asian-heat-wave">Delhi — where most people don't have AC — hits 120 degrees in South Asian heat wave</a> NPR: What's it like to try to survive 120-degree heat, without air conditioning? Here's how people are coping in the heart of Delhi. 
  <p class="updated_time"> 03:34 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/middleeast/israel-opposition-parliament-majority.html">Israeli Government Loses Parliament Majority, Raising Prospect of Election</a> NYT: Increasing tensions between Israeli authorities and Palestinians have put pressure on the government, leading to the possibility of a fifth election in three years. 
  <p class="updated_time"> 03:33 PM CT, May. 19 </p> 
@@ -31,7 +37,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/world/europe/spain-king-juan-carlos.html">Juan Carlos, Former King, Returns to Spain</a> NYT: The former monarch left his country in the wake of fraud investigations, which have since been dropped, and now lives in the United Arab Emirates. 
  <p class="updated_time"> 03:02 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/ukraine-aid-g7.html">G7 Finance Ministers Race to Secure More Ukraine Aid</a> NYT: Officials are working on a plan to provide $15 billion to help keep Ukraine’s government operating during its war with Russia. 
- <p class="updated_time"> 02:36 PM CT, May. 19 </p> 
+ <p class="updated_time"> 02:49 PM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
  <p class="updated_time"> 02:23 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/russian-soldier-trial-vadim-shishimarin.html">Russian Soldier Who Pleaded Guilty at War Crimes Trial Apologizes </a> NYT: Sgt. Vadim Shishimarin says he was ordered to shoot at 62-year-old Oleksandr Shelipov because he and his fellow soldiers believed that he was informing the Ukrainian military about their location. 
@@ -39,34 +45,34 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/world/europe/uk-covid-lockdown-parties-boris-johnson.html">Boris Johnson Avoids Further Fines as the Police End Lockdown Inquiry</a> NYT: The completion of the investigation into parties at Downing Street that violated Covid rules lifts a cloud over the prime minister’s political future. 
  <p class="updated_time"> 02:02 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/ukraine-ambassador-bridget-brink.html">U.S. Ambassador to Ukraine, Bridget Brink, Has Experience Shaped By Soviet Domination</a> NYT: Bridget Brink has worked in Slovakia, Uzbekistan and Georgia. She is filling a role that has been empty for three years. 
- <p class="updated_time"> 01:36 PM CT, May. 19 </p> 
+ <p class="updated_time"> 01:49 PM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/as-russias-invasion-of-ukraine-stalls-critical-voices-emerge-in-moscow-11652958665">As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow</a> WSJ: As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow 
  <p class="updated_time"> 01:09 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/gerhard-schroder-russia.html">Former German Chancellor Loses Perks Over Ties to Russia</a> NYT: The former German leader, a lobbyist for Russian energy companies and a friend of President Vladimir V. Putin, has declined to distance himself from Russia. 
  <p class="updated_time"> 01:06 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/russia-ukraine-kherson-zelensky.html">A Russian Official Tours Occupied Southern Ukraine</a> NYT: The official, Marat Khusnullin, Russia’s deputy prime minister for infrastructure, outlined plans to take control of vital infrastructure. 
+ <p class="updated_time"> 12:49 PM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/russian-soldiers-war-crimes-trial-in-ukraine-to-hear-more-evidence-11652951390">Russian Soldier Recounts Shooting Civilian in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Recounts Shooting Civilian in Ukraine War-Crimes Trial 
  <p class="updated_time"> 12:42 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/senate-passes-ukraine-aid.html">The Senate Approves $40 Billion in New Aid to Ukraine</a> NYT: The measure’s relatively smooth path through Congress has reflected a broad consensus on Capitol Hill, for now, to devote massive sums to supporting Ukraine’s war effort. 
  <p class="updated_time"> 12:38 PM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61511640?at_medium=RSS&at_campaign=KARANGA">Ukrainian widow confronts Russian soldier accused of killing her husband</a> BBC: The 21-year-old serviceman has pled guilty to killing her husband in a village in Ukraine's north-east. 
- <p class="updated_time"> 12:36 PM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/russian-soldiers-war-crimes-trial-in-ukraine-to-hear-more-evidence-11652951390">Russian Soldier Recounts Shooting Civilian in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Recounts Shooting Civilian in Ukraine War-Crimes Trial 
  <p class="updated_time"> 12:03 PM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61512656?at_medium=RSS&at_campaign=KARANGA">Israeli coalition government in crisis as MP quits</a> BBC: An Arab member resigns in anger, leaving the government as a fragile minority for the first time. 
+ <p class="updated_time"> 11:49 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/u-s-and-allies-discuss-economic-aid-for-ukraine-at-g-7-meet-11652951743">U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meeting</a> WSJ: U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meeting 
  <p class="updated_time"> 11:37 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100100329/twitter-misinformation-policy-ukraine">Twitter aims to crack down on misinformation, including misleading posts about Ukraine</a> NPR: Twitter is stepping up its fight against misinformation with a new policy cracking down on posts that spread potentially dangerous false stories. 
  <p class="updated_time"> 11:37 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61508922?at_medium=RSS&at_campaign=KARANGA">Russia's laser weapon claim derided as propaganda</a> BBC: Moscow says it has destroyed a drone with a laser, but Kyiv says it can't mask battlefield failure. 
- <p class="updated_time"> 11:36 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/u-s-and-allies-discuss-economic-aid-for-ukraine-at-g-7-meet-11652951743">U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meeting</a> WSJ: U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meeting 
  <p class="updated_time"> 11:23 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-61512255?at_medium=RSS&at_campaign=KARANGA">Russian McDonald's buyer to rebrand restaurants</a> BBC: The fast food giant says the new owner of its 850 Russian restaurants will operate them under a new brand. 
  <p class="updated_time"> 11:22 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/russian-soldier-war-crime-ukraine-law.html">Russian Soldier Pleads Guilty in Kyiv to Violating ‘Laws and Customs of War’</a> NYT: Sgt. Vadim Shyshimarin, 21, admitted in a Ukrainian court he had fatally shot a 62-year-old man on a bicycle in the village in the Sumy region in the early days of the invasion. He faces 10 years to life in prison. 
+ <p class="updated_time"> 10:49 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/kim-jong-un-creates-an-opportunity-out-of-north-koreas-covid-crisis-11652959286">Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis</a> WSJ: Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis 
  <p class="updated_time"> 10:47 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/technology/mass-shootings-livestream-online.html">Livestreams of Mass Shootings: From Buffalo to New Zealand</a> NYT: Dozens of recordings of a 2019 massacre in Christchurch, New Zealand, remain online, in a sobering reminder of the internet’s permanence. 
- <p class="updated_time"> 10:36 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/kim-jong-un-creates-an-opportunity-out-of-north-koreas-covid-crisis-11652959286">Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis</a> WSJ: Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis 
  <p class="updated_time"> 10:00 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/science/spiders-tarantulas-arachnids-trade.html">Scientists Uncover a Shady Web of Online Spider Sales</a> NYT: More than 1,200 species of arachnids are part of a largely unregulated global marketplace, according to a new study. 
  <p class="updated_time"> 09:48 AM CT, May. 19 </p> 
@@ -106,8 +112,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1099877279/north-korea-covid-outbreak">Here's what we know about North Korea's COVID outbreak — and its ability to handle it</a> NPR: North Korea says it's experiencing its first COVID outbreak. Experts are skeptical, but they are also wondering if this means the country will accept outside help or if it can handle it alone. 
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
- <a href="https://www.npr.org/2022/05/19/1099721940/ukraine-russia-invasion-african-students-poland">They escaped the war in Ukraine. Then they faced fresh trouble in Poland</a> NPR: Millions of people have fled Ukraine since the war started, but not all are Ukrainian. And some citizens of African countries have found that the doors of Europe are much less open to them. 
- <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/australia/federal-election-independents.html">How a Group of Female Independents Aims to Revive Australian Democracy</a> NYT: A community-driven movement has recruited around 25 candidates, most of them successful women preaching pragmatic reform. They could shape the balance of power after Saturday’s election. 
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/abortion-lord-matthew-hale.html">The 17th-Century English Judge Behind Abortion and Rape Rulings Today</a> NYT: Both in India and in the Roe v. Wade draft ruling roiling the United States, Lord Matthew Hale — an English judge who wrote that women were contractually obligated to husbands — still looms large. 
@@ -137,8 +141,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61300986?at_medium=RSS&at_campaign=KARANGA">Meet Gleb and Ukraine’s youth orchestra in exile in Slovenia</a> BBC: A large group of talented young musicians and their families have been evacuated out of Ukraine into Slovenia. 
  <p class="updated_time"> 05:13 PM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61502979?at_medium=RSS&at_campaign=KARANGA">Taylor Swift graduation speech: Embrace 'cringe'</a> BBC: New York University bestowed the renowned pop singer with an honorary degree. 
- <p class="updated_time"> 04:46 PM CT, May. 18 </p> 
- <a href="https://www.npr.org/2022/05/18/1099885151/mariupol-falls-ukraine-russia-what-it-means">Mariupol has fallen to Russia. Here's what that means for Ukraine</a> NPR: After months of fighting and shelling, Ukraine has ended its combat mission in Mariupol, and its remaining soldiers have been evacuated to Russian-held territory. 
  <p class="updated_time"> 03:19 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/sweden-finland-nato-turkey-oil.html">Strongmen in Turkey and Hungary Stall Unity in NATO and the E.U.</a> NYT: Russia benefits as Turkey slows down Swedish and Finnish applications to NATO and Hungary continues to block an E.U. embargo on Russian oil. 
  <p class="updated_time"> 01:16 PM CT, May. 18 </p> 
@@ -175,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/climate/eu-burning-wood-electricity.html">Europe Rethinks Its Reliance on Burning Wood for Electricity</a> NYT: A new proposal would significantly rewrite E.U. rules on renewable energy, ending subsidies for biomass like wood pellets. 
  <p class="updated_time"> 01:51 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/sweden-finland-nato.html">Finland and Sweden Say They Will Apply to Join NATO</a> NYT: They also said they would travel to Washington to meet with President Biden about the war in Ukraine and their bid to join the Western military alliance. 
- <p class="updated_time"> 01:39 PM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/world/europe/uk-eu-northern-ireland-protocol.html">In Risky Move, U.K. Says It May Scrap Northern Ireland Trade Rules</a> NYT: The decision sets Britain on a collision course with the European Union, 18 months after a trade deal that was meant to have completed Brexit. 
  <p class="updated_time"> 12:38 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/business/inflation-developing-economies.html">Poor Countries Face a Mounting Catastrophe Fueled by Inflation and Debt</a> NYT: Russia’s war in Ukraine is combining with a global tightening of credit and an economic slowdown in China to sow misery in low- and middle-income countries. 
  <p class="updated_time"> 10:41 AM CT, May. 17 </p> 
