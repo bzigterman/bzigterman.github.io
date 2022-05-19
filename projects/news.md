@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:25 AM CT, May. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61497817?at_medium=RSS&at_campaign=KARANGA">Global stock markets fall as growth fears rattle investors</a> BBC: UK shares slide after more signs of waning consumer confidence trigger steep falls in US markets. 
  <p class="updated_time"> 04:07 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100002254/before-a-fiji-court-can-the-u-s-seize-a-russian-yacht-in-the-south-pacific">Before a Fiji court: Can the U.S. seize a Russian yacht in the South Pacific?</a> NPR: The case of a yacht detained in the South Pacific island nation is raising questions about how far U.S. jurisdiction extends. 
  <p class="updated_time"> 04:01 AM CT, May. 19 </p> 
@@ -29,7 +31,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/world/australia/federal-election-independents.html">How a Group of Female Independents Aims to Revive Australian Democracy</a> NYT: A community-driven movement has recruited around 25 candidates, most of them successful women preaching pragmatic reform. They could shape the balance of power after Saturday’s election. 
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/abortion-lord-matthew-hale.html">The 17th-Century English Judge Behind Abortion and Rape Rulings Today</a> NYT: Both in India and in the Roe v. Wade draft ruling roiling the United States, Lord Matthew Hale — an English judge who wrote that women were contractually obligated to husbands — still looms large. 
- <p class="updated_time"> 03:23 AM CT, May. 19 </p> 
+ <p class="updated_time"> 03:42 AM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
  <p class="updated_time"> 03:11 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61505050?at_medium=RSS&at_campaign=KARANGA">Bush condemns Putin's invasion of 'Iraq' instead of Ukraine</a> BBC: The former US president corrected himself after saying Putin had invaded Iraq rather than Ukraine. 
@@ -39,23 +41,21 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61500137?at_medium=RSS&at_campaign=KARANGA">LGBTQ+ in Qatar: 'Waking up in fear every day is exhausting'</a> BBC: Fifa has said it will cancel the World Cup 2022 contracts of any hotel in Qatar that does not allow same-sex couples to stay. 
  <p class="updated_time"> 02:58 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/ukraine-russia-war-doctors.html">In Ukraine, Gruesome Injuries and Not Enough Doctors to Treat Them</a> NYT: Operating with skeleton crews, doctors and nurses race to save limbs, and lives. It’s a grim routine for medical personnel often working around the clock. And not all limbs can be saved. 
- <p class="updated_time"> 02:23 AM CT, May. 19 </p> 
+ <p class="updated_time"> 02:42 AM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/treasury-likely-to-prevent-u-s-investors-from-receiving-russian-debt-payments-11652893435">Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments 
  <p class="updated_time"> 02:03 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/05/18/world/russia-ukraine-war-news">What Happened on Day 84 of the War in Ukraine</a> NYT: Many soldiers who surrendered at a steel complex in Mariupol belong to the Azov battalion, a group with far-right roots, and the Kremlin may try them even as Ukraine is prosecuting Russians for war crimes. 
- <p class="updated_time"> 01:23 AM CT, May. 19 </p> 
+ <p class="updated_time"> 01:42 AM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/chinas-top-antigraft-body-probes-a-top-central-banker-11652875675">Beijing Probes Central Banker for Passing Tips to Bond Traders</a> WSJ: Beijing Probes Central Banker for Passing Tips to Bond Traders 
  <p class="updated_time"> 01:01 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/japan-covid-relief-funds-gambler.html">Japanese Man Gambles Away a Town’s Covid Funds</a> NYT: An official in the rural Japanese town wired the 24-year-old man nearly $360,000 by mistake. He lost it in online casinos. Now, the town is suing and he has been arrested. 
+ <p class="updated_time"> 12:42 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/biden-on-a-first-trip-to-asia-tries-to-refocus-on-china-amid-ukraine-war-11652875191">Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War</a> WSJ: Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War 
  <p class="updated_time"> 12:27 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61503989?at_medium=RSS&at_campaign=KARANGA">Ratan Tata: Tycoon's ride in India's cheapest car wins internet</a> BBC: When Ratan Tata recently rode in the Nano, he revived the frenzy over India's "most affordable car". 
- <p class="updated_time"> 12:23 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/biden-on-a-first-trip-to-asia-tries-to-refocus-on-china-amid-ukraine-war-11652875191">Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War</a> WSJ: Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War 
  <p class="updated_time"> 12:20 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-61480033?at_medium=RSS&at_campaign=KARANGA">I learned to sing using YouTube - and now it's my career</a> BBC: A holiday rep who was unable to sing teaches himself then scoops two music awards. 
- <p class="updated_time"> 11:50 PM CT, May. 18 </p> 
- <a href="https://www.bbc.co.uk/news/business-61497817?at_medium=RSS&at_campaign=KARANGA">Cost of living: Stock markets fall amid concern over rising prices</a> BBC: US shares saw their biggest one-day drop since 2020 after renewed signs of waning consumer confidence. 
- <p class="updated_time"> 11:23 PM CT, May. 18 </p> 
+ <p class="updated_time"> 11:42 PM CT, May. 18 </p> 
  <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: North Korea Receives Aid From China as Covid Outbreak Spreads 
  <p class="updated_time"> 10:43 PM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-61503469?at_medium=RSS&at_campaign=KARANGA">Leaky Gucci and Adidas 'sun umbrella' sparks China outcry</a> BBC: Chinese social media users say they are shocked the £1,329 item will not stop rain. 
@@ -314,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/18/democrats-tax-breaks-stalemate-00032666">‘An insult to working people’: Democrats struggle with next tax move</a> Politico: Some progressives are aghast at the prospect of passing a major tax cut for corporations when the heart of their “reconciliation” agenda is going nowhere fast. 
  <p class="updated_time"> 01:57 AM CT, May. 18 </p> 
  <a href="https://www.politico.com/news/2022/05/18/pennsylvania-north-carolina-oregon-primary-election-takeaways-00033339">'Beware what you wish for': 5 takeaways from a key primary night</a> Politico: Mastriano rises, Cawthorn falls and progressives are back in business. 
- <p class="updated_time"> 10:47 PM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/us/politics/jan-6-committee-transcripts.html">Justice Dept. Is Said to Request Transcripts From Jan. 6 Committee</a> NYT: The committee has interviewed more than 1,000 people so far, and the transcripts could be used as evidence in potential criminal cases or to pursue new leads. 
  <p class="updated_time"> 09:44 PM CT, May. 17 </p> 
  <a href="https://www.politico.com/news/2022/05/17/cawthorn-north-carolina-primary-00033315">Cawthorn loses primary in North Carolina</a> Politico: The controversial Republican was defeated by state Sen. Chuck Edwards. 
  <p class="updated_time"> 07:52 PM CT, May. 17 </p> 
