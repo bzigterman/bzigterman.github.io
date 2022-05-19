@@ -9,10 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:46 PM CT, May. 19 </p> 
+ <p class="updated_time"> 03:59 PM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/19/world/russia-ukraine-war">Live Updates: Senate Approves $40 Billion in New Aid for Ukraine</a> NYT: The measure will bring the total American investment in the war to roughly $54 billion in just over two months. 
+ <p class="updated_time"> 03:59 PM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/19/world/prince-charles-canada-visit">Live Updates: Prince Charles Visits Canada’s Northwest Territories</a> NYT: Prince Charles is meeting with an Indigenous community on the last day of his three-day tour of the country, where polls suggest there is little support for the monarchy. 
+ <p class="updated_time"> 03:58 PM CT, May. 19 </p> 
+ <a href="https://www.npr.org/2022/05/19/1100101609/russia-ukraine-war-what-happened-today-may-19">Russia-Ukraine war: What happened today (May 19)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:58 PM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/world/europe/gerhard-schroder-russia.html">Former German Chancellor Loses Perks Over Ties to Russia</a> NYT: The former German leader, a personal friend of President Vladimir V. Putin and lobbyist for Russian energy companies, has refused to distance himself from Russia. 
+ <p class="updated_time"> 03:56 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/russia-bucha-ukraine-executions.html">New Evidence Shows How Russian Soldiers Executed Men in Bucha</a> NYT: Witness testimony and videos obtained by The New York Times show how Russian paratroopers executed at least eight Ukrainian men in a Kyiv suburb on March 4, a potential war crime. 
- <p class="updated_time"> 03:46 PM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/05/19/world/prince-charles-canada-visit">Live Updates: Prince Charles Visits Canada’s Northwest Territories</a> NYT: Prince Charles will visit an Indigenous community on the last day of his three-day tour of the country, where polls suggest there is little support for the monarchy. 
+ <p class="updated_time"> 03:54 PM CT, May. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/health-61506562?at_medium=RSS&at_campaign=KARANGA">Monkeypox cases investigated in Europe, US and Canada</a> BBC: Cases of the rare disease are now confirmed in four European countries, health authorities say. 
+ <p class="updated_time"> 03:50 PM CT, May. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61514850?at_medium=RSS&at_campaign=KARANGA">Vangelis: Chariots of Fire and Blade Runner composer dies at 79</a> BBC: The Greek musician won an Oscar for the 1981 film theme, and also wrote the Blade Runner soundtrack. 
  <p class="updated_time"> 03:45 PM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100228331/the-un-security-council-discussed-how-the-war-in-ukraine-may-worsen-global-hunge">The UN security council discussed how the war in Ukraine may worsen global hunger</a> NPR: The U.S. is using its presidency of the UN Security Council to focus on food security, as much of the world worries about the ripple effects from the war in Ukraine. 
  <p class="updated_time"> 03:45 PM CT, May. 19 </p> 
@@ -21,46 +31,42 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/world/middleeast/israel-opposition-parliament-majority.html">Israeli Government Loses Parliament Majority, Raising Prospect of Election</a> NYT: Increasing tensions between Israeli authorities and Palestinians have put pressure on the government, leading to the possibility of a fifth election in three years. 
  <p class="updated_time"> 03:33 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/hungary-russia-oil.html">Hooked on Cheap Oil, Hungary Resists an Embargo on Russia</a> NYT: Prime Minister Viktor Orban has promised voters to keep energy prices low. The dividends from taking Russian fuel also help fund the policies that have made Hungary a beacon for right-wing groups. 
- <p class="updated_time"> 03:32 PM CT, May. 19 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61514850?at_medium=RSS&at_campaign=KARANGA">Vangelis: Chariots of Fire and Blade Runner composer dies at 79</a> BBC: The Greek musician won an Oscar for the 1981 film theme, and also wrote the Blade Runner soundtrack. 
- <p class="updated_time"> 03:31 PM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/05/19/world/russia-ukraine-war">Live Updates: Senate Approves $40 Billion in New Aid for Ukraine</a> NYT: The measure will bring the total American investment in the war to roughly $54 billion in just over two months. 
  <p class="updated_time"> 03:28 PM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100228310/north-korea-is-reporting-a-major-disease-outbreak-but-its-not-calling-it-covid">North Korea is reporting a major disease outbreak, but it's not calling it COVID</a> NPR: NPR's Mary Louise Kelly talks with Jean Lee, a journalist specializing in North Korea, about the country's report of a major disease outbreak that state media is not calling COVID-19, yet. 
  <p class="updated_time"> 03:28 PM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100228296/how-the-u-s-and-russia-feel-about-finland-and-sweden-joining-nato">How the U.S. and Russia feel about Finland and Sweden joining NATO</a> NPR: Finland and Sweden have long kept a neutral position between the West and Russia. But that changed after Moscow invaded Ukraine. Today, the leaders of the two Nordic nations were at the White House. 
  <p class="updated_time"> 03:28 PM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100228289/the-senate-has-approved-roughly-40-billion-in-aid-to-ukraine">The Senate has approved roughly $40 billion in aid to Ukraine</a> NPR: The Senate approved about $40 billion in aid to Ukraine in a largely bipartisan vote. The House has already passed the bill, and it now goes to President Biden to sign. 
+ <p class="updated_time"> 03:23 PM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/world/putin-sanctions-aleksei-navalny.html">Navalny’s Team Lobbies Congress to Place More Sanctions on Putin’s Associates</a> NYT: The activists are pitching sanctions on midlevel officials as a cost-free way for the United States to further isolate the Russian president. 
  <p class="updated_time"> 03:12 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/russia-ukraine-oil-sanctions.html">U.S. Eyeing Russian Energy Sanctions Over Ukraine War, Officials Say</a> NYT: The revenue powers Vladimir V. Putin’s war machine in Ukraine. But plans for new U.S. sanctions could create problems with China, India and other major buyers. 
  <p class="updated_time"> 03:06 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/spain-king-juan-carlos.html">Juan Carlos, Former King, Returns to Spain</a> NYT: The former monarch left his country in the wake of fraud investigations, which have since been dropped, and now lives in the United Arab Emirates. 
+ <p class="updated_time"> 03:04 PM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
  <p class="updated_time"> 03:02 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/ukraine-aid-g7.html">G7 Finance Ministers Race to Secure More Ukraine Aid</a> NYT: Officials are working on a plan to provide $15 billion to help keep Ukraine’s government operating during its war with Russia. 
- <p class="updated_time"> 02:49 PM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
  <p class="updated_time"> 02:23 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/russian-soldier-trial-vadim-shishimarin.html">Russian Soldier Who Pleaded Guilty at War Crimes Trial Apologizes </a> NYT: Sgt. Vadim Shishimarin says he was ordered to shoot at 62-year-old Oleksandr Shelipov because he and his fellow soldiers believed that he was informing the Ukrainian military about their location. 
  <p class="updated_time"> 02:12 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/uk-covid-lockdown-parties-boris-johnson.html">Boris Johnson Avoids Further Fines as the Police End Lockdown Inquiry</a> NYT: The completion of the investigation into parties at Downing Street that violated Covid rules lifts a cloud over the prime minister’s political future. 
+ <p class="updated_time"> 02:04 PM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/as-russias-invasion-of-ukraine-stalls-critical-voices-emerge-in-moscow-11652958665">As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow</a> WSJ: As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow 
  <p class="updated_time"> 02:02 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/ukraine-ambassador-bridget-brink.html">U.S. Ambassador to Ukraine, Bridget Brink, Has Experience Shaped By Soviet Domination</a> NYT: Bridget Brink has worked in Slovakia, Uzbekistan and Georgia. She is filling a role that has been empty for three years. 
- <p class="updated_time"> 01:49 PM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/as-russias-invasion-of-ukraine-stalls-critical-voices-emerge-in-moscow-11652958665">As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow</a> WSJ: As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow 
- <p class="updated_time"> 01:09 PM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/world/europe/gerhard-schroder-russia.html">Former German Chancellor Loses Perks Over Ties to Russia</a> NYT: The former German leader, a lobbyist for Russian energy companies and a friend of President Vladimir V. Putin, has declined to distance himself from Russia. 
  <p class="updated_time"> 01:06 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/russia-ukraine-kherson-zelensky.html">A Russian Official Tours Occupied Southern Ukraine</a> NYT: The official, Marat Khusnullin, Russia’s deputy prime minister for infrastructure, outlined plans to take control of vital infrastructure. 
- <p class="updated_time"> 12:49 PM CT, May. 19 </p> 
+ <p class="updated_time"> 01:04 PM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/russian-soldiers-war-crimes-trial-in-ukraine-to-hear-more-evidence-11652951390">Russian Soldier Recounts Shooting Civilian in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Recounts Shooting Civilian in Ukraine War-Crimes Trial 
  <p class="updated_time"> 12:42 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/senate-passes-ukraine-aid.html">The Senate Approves $40 Billion in New Aid to Ukraine</a> NYT: The measure’s relatively smooth path through Congress has reflected a broad consensus on Capitol Hill, for now, to devote massive sums to supporting Ukraine’s war effort. 
  <p class="updated_time"> 12:38 PM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61511640?at_medium=RSS&at_campaign=KARANGA">Ukrainian widow confronts Russian soldier accused of killing her husband</a> BBC: The 21-year-old serviceman has pled guilty to killing her husband in a village in Ukraine's north-east. 
+ <p class="updated_time"> 12:04 PM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/u-s-and-allies-discuss-economic-aid-for-ukraine-at-g-7-meet-11652951743">U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meeting</a> WSJ: U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meeting 
  <p class="updated_time"> 12:03 PM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61512656?at_medium=RSS&at_campaign=KARANGA">Israeli coalition government in crisis as MP quits</a> BBC: An Arab member resigns in anger, leaving the government as a fragile minority for the first time. 
- <p class="updated_time"> 11:49 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/u-s-and-allies-discuss-economic-aid-for-ukraine-at-g-7-meet-11652951743">U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meeting</a> WSJ: U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meeting 
  <p class="updated_time"> 11:37 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100100329/twitter-misinformation-policy-ukraine">Twitter aims to crack down on misinformation, including misleading posts about Ukraine</a> NPR: Twitter is stepping up its fight against misinformation with a new policy cracking down on posts that spread potentially dangerous false stories. 
  <p class="updated_time"> 11:37 AM CT, May. 19 </p> 
@@ -69,7 +75,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61512255?at_medium=RSS&at_campaign=KARANGA">Russian McDonald's buyer to rebrand restaurants</a> BBC: The fast food giant says the new owner of its 850 Russian restaurants will operate them under a new brand. 
  <p class="updated_time"> 11:22 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/russian-soldier-war-crime-ukraine-law.html">Russian Soldier Pleads Guilty in Kyiv to Violating ‘Laws and Customs of War’</a> NYT: Sgt. Vadim Shyshimarin, 21, admitted in a Ukrainian court he had fatally shot a 62-year-old man on a bicycle in the village in the Sumy region in the early days of the invasion. He faces 10 years to life in prison. 
- <p class="updated_time"> 10:49 AM CT, May. 19 </p> 
+ <p class="updated_time"> 11:04 AM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/kim-jong-un-creates-an-opportunity-out-of-north-koreas-covid-crisis-11652959286">Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis</a> WSJ: Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis 
  <p class="updated_time"> 10:47 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/technology/mass-shootings-livestream-online.html">Livestreams of Mass Shootings: From Buffalo to New Zealand</a> NYT: Dozens of recordings of a 2019 massacre in Christchurch, New Zealand, remain online, in a sobering reminder of the internet’s permanence. 
@@ -81,8 +87,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61508072?at_medium=RSS&at_campaign=KARANGA">Afghanistan's female TV presenters must cover their faces, say Taliban</a> BBC: Women's faces are banned from TV screens as Afghanistan's rulers further tighten restrictions. 
  <p class="updated_time"> 09:42 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61509984?at_medium=RSS&at_campaign=KARANGA">Nnamdi Kanu: Nigerian separatist allowed to watch Liverpool games on TV</a> BBC: A Nigerian judge grants Nnamdi Kanu dispensation to watch the climax of his favourite team's season. 
- <p class="updated_time"> 09:16 AM CT, May. 19 </p> 
- <a href="https://www.bbc.co.uk/news/health-61506562?at_medium=RSS&at_campaign=KARANGA">Monkeypox cases investigated in Europe, US and Canada</a> BBC: Cases of the rare disease are now confirmed in four European countries, health authorities say. 
  <p class="updated_time"> 08:42 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/china-hackers-russia.html">Chinese Hackers Tried to Steal Russian Defense Data, Report Says</a> NYT: The campaign detailed by a cybersecurity firm highlights Beijing’s increasingly sophisticated tactics to spy on an array of targets, including countries it considers friends. 
  <p class="updated_time"> 08:38 AM CT, May. 19 </p> 
@@ -109,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/19/1099725081/how-the-war-in-ukraine-is-challenging-the-long-sought-pivot-to-asia">How the war in Ukraine is challenging the long-sought pivot to Asia </a> NPR: President Biden is traveling to Japan and South Korea this week — his first trip to Asia since taking office. Like presidents before him, he's seeking to reorient U.S. foreign policy toward Asia. 
  <p class="updated_time"> 04:01 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/global-pandemic-preparation.html">The World Is as Vulnerable as Ever to Pandemics, an Expert Panel Concludes</a> NYT: The authors of the new report zeroed in on the uneven distribution of vaccines around the world as one of the major hurdles to overcome. 
- <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
- <a href="https://www.npr.org/2022/05/19/1099877279/north-korea-covid-outbreak">Here's what we know about North Korea's COVID outbreak — and its ability to handle it</a> NPR: North Korea says it's experiencing its first COVID outbreak. Experts are skeptical, but they are also wondering if this means the country will accept outside help or if it can handle it alone. 
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/australia/federal-election-independents.html">How a Group of Female Independents Aims to Revive Australian Democracy</a> NYT: A community-driven movement has recruited around 25 candidates, most of them successful women preaching pragmatic reform. They could shape the balance of power after Saturday’s election. 
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
@@ -187,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/world/asia/india-asha-health.html">The Foot Soldiers in India’s Battle to Improve Public Health</a> NYT: Over a million female health workers treat India’s most at-risk women and children, for little pay and sometimes at the cost of their own lives. 
  <p class="updated_time"> 09:39 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/london-queen-elizabeth-train.html">Queen Makes Surprise Visit to Paddington Station in London</a> NYT: Queen Elizabeth II made a rare public appearance to celebrate the opening of the Elizabeth line in London, which is named in her honor. 
- <p class="updated_time"> 08:26 AM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/world/asia/shanghai-covid.html">Shanghai Declares Victory in Covid Outbreak, but Lockdowns Continue</a> NYT: Reports in state news media about the return of daily life in the financial hub brought distressed responses from residents. 
  <p class="updated_time"> 08:04 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/asia/sri-lanka-fuel-economic-crisis.html">With Gas Pumps All but Dry, Sri Lanka Faces Its ‘Most Difficult Time’</a> NYT: The island nation’s new prime minister revealed that the country’s economic disaster was even worse than imagined. 
 
@@ -198,6 +198,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:58 PM CT, May. 19 </p> 
+ <a href="https://www.npr.org/2022/05/19/1100101609/russia-ukraine-war-what-happened-today-may-19">Russia-Ukraine war: What happened today (May 19)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:48 PM CT, May. 19 </p> 
+ <a href="https://www.politico.com/news/2022/05/19/jan-6-white-house-photos-capitol-riot-00033876">Jan. 6 committee evidence includes official White House photos from day of Capitol riot</a> Politico: Investigators have pictures from the official White House photographer, adding more detail to what Trump was doing that day. 
+ <p class="updated_time"> 03:47 PM CT, May. 19 </p> 
+ <a href="https://www.npr.org/2022/05/19/1100233995/jan-6-panel-wants-answers-from-lawmaker-it-says-led-a-capitol-tour-before-the-at">Jan. 6 panel wants answers from lawmaker it says led a Capitol tour before the attack</a> NPR: Republican Barry Loudermilk denies he showed people around the complex before the insurrectionists laid siege. The committee says it has evidence contradicting that denial. 
+ <p class="updated_time"> 03:45 PM CT, May. 19 </p> 
+ <a href="https://www.npr.org/2022/05/19/1100228331/the-un-security-council-discussed-how-the-war-in-ukraine-may-worsen-global-hunge">The UN security council discussed how the war in Ukraine may worsen global hunger</a> NPR: The U.S. is using its presidency of the UN Security Council to focus on food security, as much of the world worries about the ripple effects from the war in Ukraine. 
+ <p class="updated_time"> 03:45 PM CT, May. 19 </p> 
+ <a href="https://www.npr.org/2022/05/19/1100228317/california-democrats-cant-agree-on-how-to-use-the-budget-surplus-to-offset-gas-c">California Democrats can't agree on how to use the budget surplus to offset gas costs</a> NPR: With an enormous budget surplus, high gas prices and ongoing inflation, Democrats are trying to get money back in the pockets of drivers and voters in California, but can't at all agree on a plan. 
  <p class="updated_time"> 03:28 PM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100228289/the-senate-has-approved-roughly-40-billion-in-aid-to-ukraine">The Senate has approved roughly $40 billion in aid to Ukraine</a> NPR: The Senate approved about $40 billion in aid to Ukraine in a largely bipartisan vote. The House has already passed the bill, and it now goes to President Biden to sign. 
  <p class="updated_time"> 03:12 PM CT, May. 19 </p> 
@@ -208,6 +218,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/us/politics/david-mccormick-election.html">David McCormick’s Team Recently Hired Operative Known for Challenging Elections</a> NYT: The operative, Mike Roman, was the director of Election Day operations for Donald Trump’s 2020 campaign, and he later played a key role in fighting Pennsylvania’s election results. 
  <p class="updated_time"> 03:02 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/ukraine-aid-g7.html">G7 Finance Ministers Race to Secure More Ukraine Aid</a> NYT: Officials are working on a plan to provide $15 billion to help keep Ukraine’s government operating during its war with Russia. 
+ <p class="updated_time"> 03:00 PM CT, May. 19 </p> 
+ <a href="https://www.politico.com/news/2022/05/19/cryptocurrency-mining-blossoms-in-upstate-new-york-but-it-hasnt-been-well-received-00033354">Upstate New York becomes hotbed for cryptocurrency mining. It might not last.</a> Politico: Environmentalists and some public officials contend the conversion of fossil-fuel power plants to crypto mining will make it hard to reach zero emissions goals. 
  <p class="updated_time"> 02:51 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/canada-looking-to-rekindle-relations-with-beijing-00033798">Joly: Canada is working to rekindle relations with Beijing</a> Politico: Foreign minister tells POLITICO that Canada's long-waited Indo-Pacific strategy will be released in the “coming weeks” 
  <p class="updated_time"> 02:03 PM CT, May. 19 </p> 
@@ -215,7 +227,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:59 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/google-meeting-republican-senators-emails-00033834">GOP senators' private meeting with Google turns tense over email bias claims</a> Politico: Republicans had invited a Google executive to explain allegations that the company had disproportionately targeted GOP emails as spam. 
  <p class="updated_time"> 01:56 PM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/us/politics/baby-formula-production-white-house.html">White House Struggles to Explain Baby Formula Production Plan</a> NYT: A day after invoking the Defense Production Act to help alleviate a nationwide shortage, administration officials had few answers for how the law would lead to more supply. 
+ <a href="https://www.nytimes.com/2022/05/19/us/politics/baby-formula-production-white-house.html">Big Questions Remain About White House Plan to Speed Formula to Shelves</a> NYT: A day after invoking the Defense Production Act to help alleviate a nationwide shortage, administration officials had few answers for how the law would lead to more supply. 
  <p class="updated_time"> 01:27 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/herschel-walker-abortion-ban.html">Herschel Walker Says He Wants a Ban on Abortion With No Exceptions </a> NYT: On Wednesday, Mr. Walker called for more money to promote adoption and to support single fathers and single mothers. 
  <p class="updated_time"> 01:11 PM CT, May. 19 </p> 
@@ -267,17 +279,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1099844097/abortion-polling-roe-v-wade-supreme-court-draft-opinion">Poll: Two-thirds say don't overturn Roe; the court leak is firing up Democratic voters</a> NPR: Seven-in-10 U.S. adults say they support some restrictions on abortions, and Americans are split on 15-week bans and whether abortion-inducing medication should be allowed to be mailed to homes. 
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
- <a href="https://www.npr.org/2022/05/19/1098543849/pro-trump-counties-continue-to-suffer-far-higher-covid-death-tolls">Pro-Trump counties continue to suffer far higher COVID death tolls</a> NPR: As Americans commemorate a million deaths due to COVID-19, the partisan divide of who has gotten sick and died continues to grow, mostly due to disinformation about the vaccines. 
- <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/abortion-lord-matthew-hale.html">The 17th-Century English Judge Behind Abortion and Rape Rulings Today</a> NYT: Both in India and in the Roe v. Wade draft ruling roiling the United States, Lord Matthew Hale — an English judge who wrote that women were contractually obligated to husbands — still looms large. 
- <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
- <a href="https://www.npr.org/2022/05/19/1099748064/baby-infant-formula-shortages">How the U.S. got into this baby formula mess</a> NPR: Just a handful of formula makers dominate the industry so a single plant shutdown can lead to empty shelves. 
  <p class="updated_time"> 03:31 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/biden-prioritize-china-00033653">Biden wanted to prioritize China. 16 months later, he gets his shot.</a> Politico: A trip to Asia brings the president back to where he started when he entered office. 
  <p class="updated_time"> 03:30 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/schumer-manchin-reconciliation-bill-00033534">Dems stand back and watch Chuck and Joe show</a> Politico: Democrats are hoping Chuck Schumer's 10-year-plus relationship with Joe Manchin will finally get the party their sweeping tax-and-climate bill. 
- <p class="updated_time"> 03:30 AM CT, May. 19 </p> 
- <a href="https://www.politico.com/news/2022/05/19/baby-formula-shortage-federal-contracts-00033581">How the baby formula shortage links back to a federal nutrition program</a> Politico: Washington is raising alarms about a consolidated infant formula industry, but the government has helped keep it that way. 
  <p class="updated_time"> 03:30 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/gas-formula-inflation-voter-anxieties-motivate-struggling-dems-00033577">Gas, formula, inflation: Voter anxieties motivate struggling Dems</a> Politico: Democrats hope a swath of bills to combat inflation and other punishing problems will combat their poor-looking chances to keep the House. 
  <p class="updated_time"> 10:56 PM CT, May. 18 </p> 
@@ -286,8 +292,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/18/us/politics/midterms-trump-2020-election-deniers.html">Midterm Stakes Grow Clearer: Election Deniers Will Be on Many Ballots</a> NYT: In primaries so far, Republican voters have appeared willing to nominate proponents of Donald Trump’s election falsehoods, making clear that this year’s races may well affect future elections. 
  <p class="updated_time"> 09:29 PM CT, May. 18 </p> 
  <a href="https://www.politico.com/news/2022/05/18/kenney-steps-down-leader-albertas-conservatives-00033655">Kenney steps down as leader of Alberta’s Conservatives</a> Politico: Only half of the United Conservative Party voted in support of his leadership. 'I will respect the decision,' he said. 
- <p class="updated_time"> 09:14 PM CT, May. 18 </p> 
- <a href="https://www.npr.org/2022/05/18/1099756134/days-after-buffalo-mass-shooting-the-house-approves-a-bill-to-fight-domestic-ter">Days after Buffalo mass shooting, the House approves a bill to fight domestic terror </a> NPR: The bill creates offices at DOJ, DHS, and the FBI to track domestic terror threats. GOP lawmakers argue it could allow federal officials to ensnare parents, a charge DOJ rejects. 
  <p class="updated_time"> 09:11 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/house-domestic-terrorism-vote.html">House, Acting After Buffalo Rampage, Moves to Combat Domestic Terrorism</a> NYT: Democrats advanced the legislation on a nearly party-line vote, but with Republicans opposed, it faces an uphill battle in the Senate. 
  <p class="updated_time"> 08:59 PM CT, May. 18 </p> 
@@ -302,10 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/18/poll-kemp-perdue-georgia-republican-gubernatorial-primary-00033638">Poll: Kemp leads Perdue by 32 points ahead of Georgia's GOP gubernatorial primary</a> Politico: Georgia's primary is next week. 
  <p class="updated_time"> 07:28 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/madison-cawthorn-loss.html">Madison Cawthorn’s Loss Is Rare Win for Republican Establishment</a> NYT: Mr. Cawthorn, a North Carolina congressman besieged by multiple scandals, lost his primary after many old-guard Republicans had turned on him. 
- <p class="updated_time"> 07:00 PM CT, May. 18 </p> 
- <a href="https://www.politico.com/news/2022/05/18/5-challenges-biden-asia-tour-00033496">5 challenges awaiting Biden on his Asia tour</a> Politico: Historical tensions and Russia ties threaten Biden’s bid for Asian unity, as China looms. 
- <p class="updated_time"> 06:43 PM CT, May. 18 </p> 
- <a href="https://www.npr.org/2022/05/18/1099953465/suppliers-now-must-direct-needed-ingredients-to-infant-formula-manufacturers">Suppliers now must direct needed ingredients to infant formula manufacturers</a> NPR: President Biden has invoked the Defense Production Act to try to help with the infant formula shortage. Suppliers must direct needed ingredients to formula manufacturers before filling other orders. 
  <p class="updated_time"> 05:37 PM CT, May. 18 </p> 
  <a href="https://www.politico.com/news/2022/05/18/biden-invokes-defense-production-act-to-increase-supply-of-u-s-infant-formula-00033618">Biden invokes Defense Production Act to increase supply of U.S. infant formula</a> Politico: The president also asked government agencies to use the Defense Department’s commercial aircraft to pick up products from overseas. 
  <p class="updated_time"> 05:37 PM CT, May. 18 </p> 
