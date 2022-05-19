@@ -11,24 +11,24 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 01:01 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/japan-covid-relief-funds-gambler.html">Japanese Man Gambles Away a Town’s Covid Funds</a> NYT: An official in the rural Japanese town wired the 24-year-old man nearly $360,000 by mistake. He lost it in online casinos. Now, the town is suing and he has been arrested. 
- <p class="updated_time"> 12:36 AM CT, May. 19 </p> 
+ <p class="updated_time"> 12:57 AM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
  <p class="updated_time"> 12:20 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-61480033?at_medium=RSS&at_campaign=KARANGA">I learned to sing using YouTube - and now it's my career</a> BBC: A holiday rep who was unable to sing teaches himself then scoops two music awards. 
  <p class="updated_time"> 12:14 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/05/18/world/russia-ukraine-war-news">What Happened on Day 84 of the War in Ukraine</a> NYT: Many soldiers who surrendered at a steel complex in Mariupol belong to the Azov battalion, a group with far-right roots, and the Kremlin may try them even as Ukraine is prosecuting Russians for war crimes. 
+ <p class="updated_time"> 11:57 PM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/treasury-likely-to-prevent-u-s-investors-from-receiving-russian-debt-payments-11652893435">Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments 
  <p class="updated_time"> 11:50 PM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-61497817?at_medium=RSS&at_campaign=KARANGA">Cost of living: Stock markets fall amid concern over rising prices</a> BBC: US shares saw their biggest one-day drop since 2020 after renewed signs of waning consumer confidence. 
- <p class="updated_time"> 11:36 PM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/treasury-likely-to-prevent-u-s-investors-from-receiving-russian-debt-payments-11652893435">Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments 
- <p class="updated_time"> 10:36 PM CT, May. 18 </p> 
+ <p class="updated_time"> 10:57 PM CT, May. 18 </p> 
  <a href="https://www.wsj.com/articles/chinas-top-antigraft-body-probes-a-top-central-banker-11652875675">Beijing Probes Central Banker for Passing Tips to Bond Traders</a> WSJ: Beijing Probes Central Banker for Passing Tips to Bond Traders 
- <p class="updated_time"> 09:36 PM CT, May. 18 </p> 
+ <p class="updated_time"> 09:57 PM CT, May. 18 </p> 
  <a href="https://www.wsj.com/articles/biden-on-a-first-trip-to-asia-tries-to-refocus-on-china-amid-ukraine-war-11652875191">Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War</a> WSJ: Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War 
+ <p class="updated_time"> 08:57 PM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: North Korea Receives Aid From China as Covid Outbreak Spreads 
  <p class="updated_time"> 08:44 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/asia/cambodian-plant-video.html">Stop Picking Endangered Phallic Plant, Cambodia Warns</a> NYT: In Cambodia, video of women suggestively joking around with a protected carnivorous specimen prompted a government admonition: Hands off, people. 
- <p class="updated_time"> 08:36 PM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: North Korea Receives Aid From China as Covid Outbreak Spreads 
  <p class="updated_time"> 08:25 PM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61485009?at_medium=RSS&at_campaign=KARANGA">US mothers warned against DIY baby formula</a> BBC: Desperate mothers are trying to mix their own baby formula, but experts warn of the dangers. 
  <p class="updated_time"> 07:52 PM CT, May. 18 </p> 
