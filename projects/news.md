@@ -9,50 +9,72 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:35 AM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/05/19/world/russia-ukraine-war">Live Updates: Russia Seeks Greater Control of Southeastern Ukraine</a> NYT: As more Ukrainian fighters surrendered in Mariupol, Moscow appeared to be laying the groundwork for annexing lands it has seized. President Biden met with the leaders of Finland and Sweden at the White House. 
+ <p class="updated_time"> 11:56 AM CT, May. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61514850?at_medium=RSS&at_campaign=KARANGA">Vangelis: Chariots of Fire and Blade Runner composer dies at 79</a> BBC: The Greek musician won an Oscar for the 1981 film theme, and also wrote the Blade Runner soundtrack. 
+ <p class="updated_time"> 11:56 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/world/europe/hungary-russia-oil.html">Hooked on Cheap Oil, Hungary Resists an Embargo on Russia</a> NYT: Prime Minister Viktor Orban has promised voters to keep energy prices low. The dividends from taking Russian fuel also help fund the policies that have made Hungary a beacon for right-wing groups. 
+ <p class="updated_time"> 11:37 AM CT, May. 19 </p> 
+ <a href="https://www.npr.org/2022/05/19/1100100329/twitter-misinformation-policy-ukraine">Twitter aims to crack down on misinformation, including misleading posts about Ukraine</a> NPR: Twitter is stepping up its fight against misinformation with a new policy cracking down on posts that spread potentially dangerous false stories. 
+ <p class="updated_time"> 11:37 AM CT, May. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61508922?at_medium=RSS&at_campaign=KARANGA">Russia's laser weapon claim derided as propaganda</a> BBC: Moscow says it has destroyed a drone with a laser, but Kyiv says it can't mask battlefield failure. 
+ <p class="updated_time"> 11:36 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/19/world/russia-ukraine-war">Live Updates: Biden Says U.S. Fully Supports Finland and Sweden Joining NATO</a> NYT: “They meet every NATO requirement and then some,” the president said at the White House after meeting with the leaders of the countries. In Ukraine, Moscow appeared to be laying the groundwork for annexing lands it has seized. 
+ <p class="updated_time"> 11:30 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/world/middleeast/israel-opposition-parliament-majority.html">Israeli Government Loses Majority, Raising Prospect of Election</a> NYT: Increasing tensions between Israeli authorities and Palestinians have put pressure on the government, leading to the possibility of a fifth election in three years. 
+ <p class="updated_time"> 11:23 AM CT, May. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61512255?at_medium=RSS&at_campaign=KARANGA">Russian McDonald's buyer to rebrand restaurants</a> BBC: The fast food giant says the new owner of its 850 Russian restaurants will operate them under a new brand. 
+ <p class="updated_time"> 11:22 AM CT, May. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61511640?at_medium=RSS&at_campaign=KARANGA">Ukrainian widow confronts Russian soldier accused of killing her husband</a> BBC: The 21-year-old serviceman has pled guilty to killing her husband in a village in Ukraine's north-east. 
+ <p class="updated_time"> 11:22 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/18/world/europe/russian-soldier-war-crime-ukraine-law.html">Russian Soldier Pleads Guilty in Kyiv to Violating ‘Laws and Customs of War’</a> NYT: Sgt. Vadim Shyshimarin, 21, admitted in a Ukrainian court he had fatally shot a 62-year-old man on a bicycle in the village in the Sumy region in the early days of the invasion. He faces 10 years to life in prison. 
+ <p class="updated_time"> 11:18 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/world/russian-soldier-trial-vadim-shishimarin.html">Russian Soldier Who Pleaded Guilty at War Crimes Trial Apologizes </a> NYT: Sgt. Vadim Shishimarin says he was ordered to shoot at 62-year-old Oleksandr Shelipov because he and his fellow soldiers believed that he was informing the Ukrainian military about their location. 
+ <p class="updated_time"> 11:14 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/world/europe/gerhard-schroder-russia.html">Former German Chancellor Loses Perks Over Ties to Russia</a> NYT: The former German leader, a lobbyist for Russian energy companies and a friend of President Vladimir V. Putin, has declined to distance himself from Russia. 
+ <p class="updated_time"> 11:01 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
+ <p class="updated_time"> 10:47 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/technology/mass-shootings-livestream-online.html">Livestreams of Mass Shootings: From Buffalo to New Zealand</a> NYT: Dozens of recordings of a 2019 massacre in Christchurch, New Zealand, remain online, in a sobering reminder of the internet’s permanence. 
+ <p class="updated_time"> 10:17 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/world/europe/spain-king-juan-carlos.html">Juan Carlos, Former King, Returns to Spain</a> NYT: The former monarch left his country in the wake of fraud investigations, which have since been dropped, and now lives in the United Arab Emirates. 
+ <p class="updated_time"> 10:01 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/as-russias-invasion-of-ukraine-stalls-critical-voices-emerge-in-moscow-11652958665">As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow</a> WSJ: As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow 
+ <p class="updated_time"> 10:00 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/science/spiders-tarantulas-arachnids-trade.html">Scientists Uncover a Shady Web of Online Spider Sales</a> NYT: More than 1,200 species of arachnids are part of a largely unregulated global marketplace, according to a new study. 
+ <p class="updated_time"> 09:48 AM CT, May. 19 </p> 
+ <a href="https://www.npr.org/2022/05/19/1100065136/nearly-270-cases-of-salmonella-have-been-linked-to-chocolate-easter-eggs">Nearly 270 cases of salmonella have been linked to chocolate Easter eggs</a> NPR: European health officials say that 266 confirmed cases and 58 suspected cases of an outbreak have been reported throughout Europe and in North America. The vast majority of the cases are in children. 
+ <p class="updated_time"> 09:42 AM CT, May. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61508072?at_medium=RSS&at_campaign=KARANGA">Afghanistan's female TV presenters must cover their faces, say Taliban</a> BBC: Women's faces are banned from TV screens as Afghanistan's rulers further tighten restrictions. 
+ <p class="updated_time"> 09:42 AM CT, May. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61509984?at_medium=RSS&at_campaign=KARANGA">Nnamdi Kanu: Nigerian separatist allowed to watch Liverpool games on TV</a> BBC: A Nigerian judge grants Nnamdi Kanu dispensation to watch the climax of his favourite team's season. 
  <p class="updated_time"> 09:16 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/health-61506562?at_medium=RSS&at_campaign=KARANGA">Monkeypox cases investigated in Europe, US and Canada</a> BBC: Cases of the rare disease are now confirmed in four European countries, health authorities say. 
- <p class="updated_time"> 09:14 AM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/world/middleeast/israel-opposition-parliament-majority.html">Israeli Government Loses Parliament Majority, Raising Prospect of Election</a> NYT: A second lawmaker has defected from the government coalition. The move edges Israel closer to the polls for the fifth time in three years. 
- <p class="updated_time"> 08:57 AM CT, May. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61508922?at_medium=RSS&at_campaign=KARANGA">Russia's laser weapon claim derided as propaganda</a> BBC: Moscow says it has destroyed a drone with a laser, but Kyiv says it can't mask battlefield failure. 
+ <p class="updated_time"> 09:01 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/russian-soldiers-war-crimes-trial-in-ukraine-to-hear-more-evidence-11652951390">Russian Soldier Recounts Shooting Civilian in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Recounts Shooting Civilian in Ukraine War-Crimes Trial 
  <p class="updated_time"> 08:42 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/china-hackers-russia.html">Chinese Hackers Tried to Steal Russian Defense Data, Report Says</a> NYT: The campaign detailed by a cybersecurity firm highlights Beijing’s increasingly sophisticated tactics to spy on an array of targets, including countries it considers friends. 
- <p class="updated_time"> 08:40 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
  <p class="updated_time"> 08:38 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100012402/kharkiv-mayor-subway-station-shelters">Kharkiv's mayor says it's time to move out of the city's subway stations</a> NPR: As Ukrainian troops push Russian forces away from its second-largest city, the mayor urges thousands of residents to emerge from their makeshift shelters in the city's metro stations and trains. 
  <p class="updated_time"> 08:37 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/g7-ukraine-aid.html">G7 Finance Ministers Race to Secure More Ukraine Aid</a> NYT: Officials are working on a plan to provide $15 billion to help keep Ukraine’s government operating during its war with Russia. 
  <p class="updated_time"> 08:33 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/wagatha-christie-rooney-vardy.html">‘Wagatha Christie’ Case Offers a Riveting Peek Into Celebrity Culture</a> NYT: Libel proceedings in London have laid bare the personal lives of two British celebrities in a legal whodunit for the social media age. And it wasn’t just the tabloids that became obsessed with the feud. 
- <p class="updated_time"> 07:40 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/as-russias-invasion-of-ukraine-stalls-critical-voices-emerge-in-moscow-11652958665">As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow</a> WSJ: As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow 
+ <p class="updated_time"> 08:01 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/u-s-and-allies-discuss-economic-aid-for-ukraine-at-g-7-meet-11652951743">U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meeting</a> WSJ: U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meeting 
  <p class="updated_time"> 07:34 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/russia-ukraine-captives.html">Russia Uses Surrender in Mariupol to Portray Ukrainians as Terrorists</a> NYT: Many soldiers who surrendered from Mariupol’s Azovstal steel plant belong to the Azov battalion, a group with far-right roots, and the Kremlin may now put them on trial just as Ukraine is prosecuting Russians for war crimes. 
- <p class="updated_time"> 07:24 AM CT, May. 19 </p> 
- <a href="https://www.bbc.co.uk/news/business-61497817?at_medium=RSS&at_campaign=KARANGA">Global stock markets fall as growth fears rattle investors</a> BBC: UK shares slide after more signs of waning consumer confidence trigger steep falls in US markets. 
  <p class="updated_time"> 07:24 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61506568?at_medium=RSS&at_campaign=KARANGA">Women awarded damages over Japan exam discrimination</a> BBC: Juntendo University in Tokyo set stricter requirements for female medical students in entrance exams. 
  <p class="updated_time"> 07:10 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/uk-covid-lockdown-parties-boris-johnson.html">Boris Johnson Avoids Further Fines as Police End Lockdown Inquiry</a> NYT: The police ended their investigation into parties at Downing Street that violated Covid rules, lifting a cloud over the prime minister’s political future. 
- <p class="updated_time"> 07:03 AM CT, May. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61508072?at_medium=RSS&at_campaign=KARANGA">Afghanistan's female TV presenters must cover their faces, say Taliban</a> BBC: Women's faces are banned from TV screens as Afghanistan's rulers further tighten restrictions. 
- <p class="updated_time"> 06:40 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/russian-soldiers-war-crimes-trial-in-ukraine-to-hear-more-evidence-11652951390">Russian Soldier Who Shot Dead an Unarmed Civilian Testifies in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Who Shot Dead an Unarmed Civilian Testifies in Ukraine War-Crimes Trial 
+ <p class="updated_time"> 07:01 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/kim-jong-un-creates-an-opportunity-out-of-north-koreas-covid-crisis-11652959286">Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis</a> WSJ: Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis 
  <p class="updated_time"> 06:03 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61503992?at_medium=RSS&at_campaign=KARANGA">Navjot Singh Sidhu: India's cricketer-turned-politician jailed for road rage death</a> BBC: Cricketer-turned-politician Navjot Singh Sidhu is jailed for a year for running over an elderly man. 
- <p class="updated_time"> 05:40 AM CT, May. 19 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61505852?at_medium=RSS&at_campaign=KARANGA">Canada's indigenous leaders ask for royal apology</a> BBC: Prince Charles and Camilla's visit to Canada for the Queen's Platinum Jubilee will end on Thursday. 
- <p class="updated_time"> 05:40 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/u-s-and-allies-discuss-economic-aid-for-ukraine-at-g-7-meet-11652951743">U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meet</a> WSJ: U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meet 
  <p class="updated_time"> 04:49 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100008023/shanghai-expected-to-reopen-some-subways">Shanghai is expected to reopen some subways as it eases COVID restrictions</a> NPR: The lockdown of China's largest city has dealt a blow to the economy and frustrated residents. 
- <p class="updated_time"> 04:40 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/kim-jong-un-creates-an-opportunity-out-of-north-koreas-covid-crisis-11652959286">Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis</a> WSJ: Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis 
- <p class="updated_time"> 04:34 AM CT, May. 19 </p> 
- <a href="https://www.bbc.co.uk/news/business-61505842?at_medium=RSS&at_campaign=KARANGA">Sri Lanka defaults on debt for first time in its history</a> BBC: The default comes as the country struggles with its worst financial crisis in more than 70 years. 
+ <p class="updated_time"> 04:11 AM CT, May. 19 </p> 
+ <a href="https://www.npr.org/2022/05/19/1099997267/courtroom-drama-ukrainian-widow-confronts-russian-who-shot-her-husband">Courtroom drama: Ukrainian widow confronts Russian who shot her husband</a> NPR: The widow asked the Russian soldier what he felt when he killed her husband. "Fear," he said. "I understand you probably won't be able to forgive me. But I ask for your forgiveness." 
  <p class="updated_time"> 04:07 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100002254/before-a-fiji-court-can-the-u-s-seize-a-russian-yacht-in-the-south-pacific">Before a Fiji court: Can the U.S. seize a Russian yacht in the South Pacific?</a> NPR: The case of a yacht detained in the South Pacific island nation is raising questions about how far U.S. jurisdiction extends. 
  <p class="updated_time"> 04:01 AM CT, May. 19 </p> 
@@ -87,14 +109,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61503989?at_medium=RSS&at_campaign=KARANGA">Ratan Tata: Tycoon's ride in India's cheapest car wins internet</a> BBC: When Ratan Tata recently rode in the Nano, he revived the frenzy over India's "most affordable car". 
  <p class="updated_time"> 12:20 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-61480033?at_medium=RSS&at_campaign=KARANGA">I learned to sing using YouTube - and now it's my career</a> BBC: A holiday rep who was unable to sing teaches himself then scoops two music awards. 
- <p class="updated_time"> 10:43 PM CT, May. 18 </p> 
- <a href="https://www.bbc.co.uk/news/business-61503469?at_medium=RSS&at_campaign=KARANGA">Leaky Gucci and Adidas 'sun umbrella' sparks China outcry</a> BBC: Chinese social media users say they are shocked the £1,329 item will not stop rain. 
  <p class="updated_time"> 08:44 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/asia/cambodian-plant-video.html">Stop Picking Endangered Phallic Plant, Cambodia Warns</a> NYT: In Cambodia, video of women suggestively joking around with a protected carnivorous specimen prompted a government admonition: Hands off, people. 
- <p class="updated_time"> 07:52 PM CT, May. 18 </p> 
- <a href="https://www.nytimes.com/2022/05/18/world/europe/russian-soldier-war-crime-ukraine-law.html">Russian Soldier Pleads Guilty in Kyiv to Violating ‘Laws and Customs of War’</a> NYT: Sgt. Vadim Shyshimarin, 21, admitted in a Ukrainian court he had fatally shot a 62-year-old man on a bicycle in the village in the Sumy region in the early days of the invasion. He faces 10 years to life in prison. 
- <p class="updated_time"> 07:50 PM CT, May. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61497963?at_medium=RSS&at_campaign=KARANGA">Trump urges 'Dr Oz' to declare victory in cliffhanger Senate vote</a> BBC: But the too-close-to-call Republican primary in Pennsylvania is likely to go to a recount. 
  <p class="updated_time"> 07:16 PM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61493402?at_medium=RSS&at_campaign=KARANGA">Burkina Faso trapped miners: Wives heartbroken but praying for miracles</a> BBC: A month after a zinc mine was flooded in Burkina Faso, relatives of those trapped refuse to give up. 
  <p class="updated_time"> 07:16 PM CT, May. 18 </p> 
@@ -115,12 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/18/1099874081/jakub-orli-skis-new-album-brings-polish-opera-classics-to-world-stage-in-2022">Jakub Orliński's new album brings Polish opera classics to world stage in 2022</a> NPR: NPR's Mary Louise Kelly talks with rising opera star and break dancer Jakub Jozef Orlinski, whose new album "Farewells" is a collection of Polish opera classics, little known to the rest of the world. 
  <p class="updated_time"> 03:56 PM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099874046/russian-sergeant-pleas-guilty-in-the-1st-war-crimes-case-of-the-invasion-in-ukra">Russian sergeant pleas guilty in the 1st war crimes case of the invasion in Ukraine</a> NPR: A Russian sergeant pleads guilty for killing a Ukrainian civilian in the war's first war crimes case. Such cases usually occur after a war ends. Ukraine wants to prosecute while the evidence is fresh. 
- <p class="updated_time"> 03:53 PM CT, May. 18 </p> 
- <a href="https://www.npr.org/2022/05/18/1099874018/north-korea-has-a-growing-arsenal-of-nuclear-weapons-and-seems-willing-to-use-th">North Korea has a growing arsenal of nuclear weapons — and seems willing to use them</a> NPR: President Biden heads to South Korea this week after a spate of North Korean missile tests. Seoul and Washington are alarmed by Pyongyang's nuclear arsenal and their apparent willingness to use it. 
- <p class="updated_time"> 03:33 PM CT, May. 18 </p> 
- <a href="https://www.npr.org/2022/05/18/1099874039/swedish-defense-minister-on-decision-to-apply-to-nato-after-decades-of-resistanc">Swedish defense minister on decision to apply to NATO after decades of resistance</a> NPR: NPR's Mary Louise Kelly speaks with Sweden's Defense Minister Peter Hultqvist after his meeting with Defense Secretary Lloyd Austin, about his country's decision on joining NATO. 
- <p class="updated_time"> 03:33 PM CT, May. 18 </p> 
- <a href="https://www.npr.org/2022/05/18/1099873990/state-secretary-blinken-chairs-un-meeting-about-global-food-security">State Secretary Blinken chairs UN meeting about global food security</a> NPR: State Secretary Antony Blinken is focusing on food security in a visit to the UN. He's also seeing Turkey's foreign minister, likely talking about its stance on NATO membership for Finland and Sweden. 
  <p class="updated_time"> 03:19 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/sweden-finland-nato-turkey-oil.html">Strongmen in Turkey and Hungary Stall Unity in NATO and the E.U.</a> NYT: Russia benefits as Turkey slows down Swedish and Finnish applications to NATO and Hungary continues to block an E.U. embargo on Russian oil. 
  <p class="updated_time"> 01:16 PM CT, May. 18 </p> 
@@ -153,8 +163,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/us/politics/russia-hacking-costa-rica.html">Russian Hacking Cartel Attacks Costa Rican Government Agencies</a> NYT: Experts who track the hackers’ actions said the group had recently begun to shift its focus to countries in Central and South America, perhaps as retaliation against nations that have supported Ukraine. 
  <p class="updated_time"> 04:24 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/middleeast/lebanon-election-hezbollah.html">Hezbollah Loses Majority Bloc in Lebanon Election, Results Show</a> NYT: Voters drove out vital parliamentary allies of the militant faction, though not Hezbollah candidates themselves. A dozen new independents won seats. 
- <p class="updated_time"> 04:13 PM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/world/canada/prince-charles-canada-visit.html">Prince Charles and Camilla Visit Canada</a> NYT: Prince Charles will make a three day tour of the country, where polls suggest there’s little support for the monarchy — but amending Canada’s Constitution is difficult. 
  <p class="updated_time"> 03:50 PM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/asia/north-korea-covid.html">North Korea’s Covid Outbreak Continues to Worsen</a> NYT: According to state media, nearly 1.5 million people have presented with a fever, and 56 have died, in what the country claimed was its first outbreak of the pandemic. 
  <p class="updated_time"> 03:40 PM CT, May. 17 </p> 
@@ -179,14 +187,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/world/asia/sri-lanka-fuel-economic-crisis.html">With Gas Pumps All but Dry, Sri Lanka Faces Its ‘Most Difficult Time’</a> NYT: The island nation’s new prime minister revealed that the country’s economic disaster was even worse than imagined. 
  <p class="updated_time"> 05:50 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-view-west.html">How do Ukrainians See the Western Response to the War?</a> NYT: Our reporters are answering readers’ questions about Russia’s invasion of Ukraine. Many of you have asked about sentiments in Ukraine about the West. 
- <p class="updated_time"> 04:13 AM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/16/world/europe/azovstal-mariupol.html">Ukraine Signals End of Bitter Battle at Azovstal Steel Plant</a> NYT: More than 250 fighters were evacuated from the besieged Azovstal complex after holding out and sheltering civilians for weeks under near-constant Russian bombardment. 
  <p class="updated_time"> 04:00 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/bucha-ukraine-russia.html">In Bucha, a Symbol of Death and Atrocity, Life Returns</a> NYT: About 10,000 residents have come back to this eastern Ukrainian city, which is racing to repair the physical and psychological damage from Russia’s occupation. 
- <p class="updated_time"> 11:01 PM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/17/climate/michael-bloomberg-climate-coal.html">Michael Bloomberg Plans a $242 Million Investment in Clean Energy</a> NYT: The billionaire and former mayor of New York City will fund programs in 10 developing countries. 
- <p class="updated_time"> 09:20 PM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-cuba-policy.html">Biden Administration Lifting Some Trump-Era Restrictions on Cuba</a> NYT: The changes include an expansion of flights to the country and the restarting of a family reunification program. 
 
 
 </details>
@@ -194,6 +196,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:11 AM CT, May. 19 </p> 
+ <a href="https://www.politico.com/news/2022/05/19/in-white-house-visit-finland-and-swedens-leaders-talk-turkey-00033767">In White House visit, Finland and Sweden’s leaders talk Turkey</a> Politico: The heads of the Nordic nations said they were committed to resolving Ankara’s concerns about their potential NATO membership. 
+ <p class="updated_time"> 11:04 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/us/2020-census-miscount-states.html">Census Likely Miscounted the Population of 14 States, a Review Finds</a> NYT: A survey indicated that census takers in 2020 undercounted the number of people in six states, mostly in the South, and overcounted in eight others. Covid is among many possible reasons. 
+ <p class="updated_time"> 10:50 AM CT, May. 19 </p> 
+ <a href="https://www.politico.com/news/2022/05/19/definition-defying-pols-new-york-city-mayor-adams-welcomes-comparison-to-pennsylvania-senate-candidate-fetterman-00033741">Adams welcomes comparison to Fetterman</a> Politico: 'People are going to try to classify me.' 
+ <p class="updated_time"> 10:03 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/us/politics/ukraine-aid.html">Senate Expected to Pass $40 Billion Aid Package for Ukraine</a> NYT: The measure’s relatively smooth path through Congress has reflected a broad consensus on Capitol Hill, for now, to devote massive sums to supporting Ukraine’s war effort. 
+ <p class="updated_time"> 09:56 AM CT, May. 19 </p> 
+ <a href="https://www.politico.com/news/2022/05/19/infant-formula-fallout-fda-woodcock-00033699">Amid infant formula fallout, FDA turns to agency veteran with little food experience</a> Politico: Food groups are calling Janet Woodcock's new assignment a “slap in the face.” 
  <p class="updated_time"> 09:22 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/replacement-theory-georgia.html">Racists Once Terrorized This Georgia County. Diversity Made It Prosper.</a> NYT: The slow return of diversity to an area that brutally drove out its Black residents has been accompanied by a boom that gives the lie to “Great Replacement” conspiracy theories. 
  <p class="updated_time"> 09:11 AM CT, May. 19 </p> 
@@ -276,8 +288,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/18/biden-invokes-defense-production-act-to-increase-supply-of-u-s-infant-formula-00033618">Biden invokes Defense Production Act to increase supply of U.S. infant formula</a> Politico: The president also asked government agencies to use the Defense Department’s commercial aircraft to pick up products from overseas. 
  <p class="updated_time"> 05:37 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/technology/disinformation-governance-board.html">DHS Suspends Its New Disinformation Board, Following Criticism</a> NYT: The Department of Homeland Security suspended the work of a panel focused on the subject of disinformation. The group had provoked accusations of government overreach. 
- <p class="updated_time"> 05:26 PM CT, May. 18 </p> 
- <a href="https://www.politico.com/news/2022/05/18/censorship-buffalo-manifesto-texas-law-00033228">Tech companies removed the Buffalo shooting manifesto. A Texas law could make that illegal.</a> Politico: Conservative lawmakers' attempts to forbid “censorship” by social media giants are colliding with efforts to combat hateful rhetoric online. 
  <p class="updated_time"> 05:19 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/business/sec-jury-trial-judge.html">SEC Use of In-House Judge Violates Defendant Rights, Appeals Court Says</a> NYT: The ruling by an appeals court covering Texas, Louisiana and Mississippi applies only in that territory, but it’s the latest challenge to the way the agency handles enforcement actions. 
  <p class="updated_time"> 05:03 PM CT, May. 18 </p> 
@@ -296,8 +306,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/18/bidens-cuba-and-venezuela-policy-shifts-leave-florida-democrats-in-a-bind-00033379">Biden’s Cuba and Venezuela policy shifts leave Florida Democrats dismayed</a> Politico: The moves are the latest indication that the Biden administration is not interested in attracting the Hispanic South Florida voters he hemorrhaged in the 2020 election. 
  <p class="updated_time"> 03:35 PM CT, May. 18 </p> 
  <a href="https://www.politico.com/news/2022/05/18/ufo-theories-congress-pentagon-00033497">‘A glowing red orb’: Wild UFO theories move from the shadows to Congress</a> Politico: Rep. Mike Gallagher says he pressed Pentagon officials on the unproven claims in order to move past them. 
- <p class="updated_time"> 03:16 PM CT, May. 18 </p> 
- <a href="https://www.politico.com/news/2022/05/18/xavier-becerra-positive-covid-19-00033505">Health Secretary Xavier Becerra tests positive for Covid-19</a> Politico: “He is fully vaccinated and boosted against COVID-19, and is experiencing mild symptoms,” a spokesperson said. 
  <p class="updated_time"> 02:30 PM CT, May. 18 </p> 
  <a href="https://www.politico.com/news/2022/05/18/biden-resists-ukrainian-demands-long-range-rocket-launchers-00033473">Biden resists Ukrainian demands for long-range rocket launchers</a> Politico: Officials in Kyiv say the weapons could help in the fight against Russia, but the White House is worried about escalating. 
  <p class="updated_time"> 01:15 PM CT, May. 18 </p> 
@@ -306,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/18/marc-elias-clinton-campaign-sussmann-00033404">Former FBI official takes stand in trial of former Democratic Party lawyer</a> Politico: Michael Sussmann is accused of lying to the official, former FBI General Counsel James Baker, in a 2016 meeting in which he relayed information about possible ties between Russia and candidate Donald Trump. 
  <p class="updated_time"> 12:06 PM CT, May. 18 </p> 
  <a href="https://www.politico.com/news/2022/05/18/trump-dr-oz-should-declare-victory-pennsylvania-00033420">Trump pushes Oz to declare victory in undecided Pennsylvania primary</a> Politico: The former president's call for Oz to declare victory is an echo of his own effort to steal a victory in Pennsylvania in the 2020 general election from President Joe Biden. 
- <p class="updated_time"> 11:23 AM CT, May. 18 </p> 
- <a href="https://www.nytimes.com/2022/05/18/us/politics/russia-finance-ministers-economy.html">Economic Headwinds Mount as Leaders Weigh Costs of Confronting Russia</a> NYT: Top economic officials are gathering this week to discuss how to keep pressure on Vladimir V. Putin without sinking their economies. 
  <p class="updated_time"> 10:50 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/trump-gop-base-primaries.html">Primaries Show Limits, and Depths, of Trump’s Power Over G.O.P. Base</a> NYT: The Make America Great Again movement is dominating Republican primaries. But is the former president in control of it? 
  <p class="updated_time"> 09:29 AM CT, May. 18 </p> 
@@ -316,8 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/18/us/politics/trumps-endorsement-record-midterms.html">Here’s where Trump’s endorsement record stands so far.</a> NYT: The candidates endorsed by former President Donald J. Trump have succeeded in many of their early primaries, with some notable exceptions. 
  <p class="updated_time"> 06:59 AM CT, May. 18 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/18/cawthorns-out-maloneys-in-a-mess-00033351">Cawthorn's out, Maloney's in a mess</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 05:37 AM CT, May. 18 </p> 
- <a href="https://www.nytimes.com/2022/05/18/us/politics/john-fetterman-the-left-leaning-pennsylvania-politician-in-gym-clothes.html">John Fetterman: The left-leaning Pennsylvania politician in gym clothes.</a> NYT: “Just a dude” who won Pennsylvania’s Democratic nomination for the Senate — days after suffering a stroke. 
  <p class="updated_time"> 05:17 AM CT, May. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/18/takeaways-from-the-biggest-primary-night-of-the-year-00033345"> Takeaways from the biggest primary night of the year</a> Politico Playbook: As New York pols deal with the fallout from the newly drawn congressional map. 
  <p class="updated_time"> 03:30 AM CT, May. 18 </p> 
@@ -340,18 +344,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/17/prosecutor-lawyer-fbi-clinton-2016-campaign-00032994">Prosecutor: Lawyer lied to FBI on behalf of Clinton 2016 campaign</a> Politico: Special counsel opens first trial by arguing that attorney Michael Sussmann misled FBI while trying to spur probe of Trump ties to Russia 
  <p class="updated_time"> 10:00 AM CT, May. 17 </p> 
  <a href="https://www.politico.com/news/2022/05/17/dems-ginni-thomas-supreme-court-amnesia-00032718">Hill Dems back-burner Ginni Thomas even as Supreme Court grabs national attention</a> Politico: Justice Clarence Thomas' wife pushed false election subversion claims — and played a key role in anti-abortion messaging. But she's not top of mind lately. 
- <p class="updated_time"> 03:30 AM CT, May. 17 </p> 
- <a href="https://www.politico.com/news/2022/05/17/kamala-harris-senate-ties-00032949">Kamala Harris wants to get out of D.C. more. But she literally can’t.</a> Politico: The veep has cast more tie-breaking votes than all but two predecessors. It’s starting to frustrate some staff. 
  <p class="updated_time"> 06:53 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/democrats-gop-rhetoric-buffalo-shooting-maga-00032895">Dems turn focus to racist 'replacement theory' post-Buffalo shooting</a> Politico: Given the dim likelihood of any movement on guns, the party is shifting its approach to decrying Tucker Carlson and the far-right ideology he's echoed. 
  <p class="updated_time"> 05:49 PM CT, May. 16 </p> 
  <a href="https://www.cnn.com/2022/05/16/politics/russia-mcdonalds-nato-what-matters/index.html">The death of the McDonald's peace theory, a dark day for capitalism</a> CNN: It's the definitive end of two distinct eras: 
  <p class="updated_time"> 04:30 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/watchdog-report-troy-nehl-capitol-police-00032827">Watchdog report scrutinizes GOP lawmaker's claim that he was targeted by Capitol Police</a> Politico: POLITICO has first obtained an inspector general report that details what happened when a Capitol Police officer entered Rep. Troy Nehls' office and took a photo. 
- <p class="updated_time"> 10:33 AM CT, May. 16 </p> 
- <a href="https://www.politico.com/news/2022/05/16/abortion-rights-advocates-legal-playbook-roe-00032690">What abortion rights advocates are planning if Roe falls</a> Politico: Attorneys and advocates are exploring options beyond lawsuits, including using strategies once relied on by their foes. 
- <p class="updated_time"> 10:25 AM CT, May. 16 </p> 
- <a href="https://www.politico.com/news/2022/05/16/supreme-court-finance-regulation-ted-cruz-00032692">Supreme Court chips away at campaign finance regulation — thanks to Ted Cruz</a> Politico: The 6-3 decision split the court cleanly along ideological lines. 
 
 
 </details>
