@@ -11,30 +11,36 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 07:34 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/russia-ukraine-captives.html">Russia Uses Surrender in Mariupol to Portray Ukrainians as Terrorists</a> NYT: Many soldiers who surrendered from Mariupol’s Azovstal steel plant belong to the Azov battalion, a group with far-right roots, and the Kremlin may now put them on trial just as Ukraine is prosecuting Russians for war crimes. 
+ <p class="updated_time"> 07:28 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
  <p class="updated_time"> 07:26 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/05/19/world/russia-ukraine-war">Live Updates: Russia Seeks Greater Control of Southeastern Ukraine</a> NYT: As more than 1,700 Ukrainian fighters have surrendered in Mariupol, a visit to the region by a high-ranking Russian official suggested Moscow may be laying the groundwork for annexing lands it has seized in the war. 
  <p class="updated_time"> 07:24 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-61497817?at_medium=RSS&at_campaign=KARANGA">Global stock markets fall as growth fears rattle investors</a> BBC: UK shares slide after more signs of waning consumer confidence trigger steep falls in US markets. 
+ <p class="updated_time"> 07:24 AM CT, May. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61506568?at_medium=RSS&at_campaign=KARANGA">Women awarded damages over Japan exam discrimination</a> BBC: Juntendo University in Tokyo set stricter requirements for female medical students in entrance exams. 
  <p class="updated_time"> 07:10 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/uk-covid-lockdown-parties-boris-johnson.html">Boris Johnson Avoids Further Fines as Police End Lockdown Inquiry</a> NYT: The police ended their investigation into parties at Downing Street that violated Covid rules, lifting a cloud over the prime minister’s political future. 
- <p class="updated_time"> 06:43 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
+ <p class="updated_time"> 07:03 AM CT, May. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61508072?at_medium=RSS&at_campaign=KARANGA">Afghanistan's female TV presenters must cover their faces, say Taliban</a> BBC: Women's faces are banned from TV screens as Afghanistan's rulers further tighten restrictions. 
+ <p class="updated_time"> 06:28 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/as-russias-invasion-of-ukraine-stalls-critical-voices-emerge-in-moscow-11652958665">As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow</a> WSJ: As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow 
  <p class="updated_time"> 06:03 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61503992?at_medium=RSS&at_campaign=KARANGA">Navjot Singh Sidhu: India's cricketer-turned-politician jailed for road rage death</a> BBC: Cricketer-turned-politician Navjot Singh Sidhu is jailed for a year for running over an elderly man. 
- <p class="updated_time"> 05:43 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/as-russias-invasion-of-ukraine-stalls-critical-voices-emerge-in-moscow-11652958665">As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow</a> WSJ: As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow 
  <p class="updated_time"> 05:41 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/wagatha-christie-rooney-vardy.html">‘Wagatha Christie’ Case Offers a Riveting Peek Into Celebrity Culture</a> NYT: Libel proceedings in London have laid bare the personal lives of two British celebrities in a legal whodunit for the social media age. And it wasn’t just the tabloids that became obsessed with the feud. 
  <p class="updated_time"> 05:40 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61505852?at_medium=RSS&at_campaign=KARANGA">Canada's indigenous leaders ask for royal apology</a> BBC: Prince Charles and Camilla's visit to Canada for the Queen's Platinum Jubilee will end on Thursday. 
+ <p class="updated_time"> 05:28 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/russian-soldiers-war-crimes-trial-in-ukraine-to-hear-more-evidence-11652951390">Russian Soldier Recounts Shooting Civilian in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Recounts Shooting Civilian in Ukraine War-Crimes Trial 
  <p class="updated_time"> 05:26 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/health-61506562?at_medium=RSS&at_campaign=KARANGA">Monkeypox cases investigated in US, Canada and Europe</a> BBC: Five cases of the rare disease are confirmed in Portugal and seven in Spain, health authorities say. 
  <p class="updated_time"> 04:49 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100008023/shanghai-expected-to-reopen-some-subways">Shanghai is expected to reopen some subways as it eases COVID restrictions</a> NPR: The lockdown of China's largest city has dealt a blow to the economy and frustrated residents. 
- <p class="updated_time"> 04:43 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/russian-soldiers-war-crimes-trial-in-ukraine-to-hear-more-evidence-11652951390">Russian Soldier Who Shot Dead an Unarmed Civilian Testifies in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Who Shot Dead an Unarmed Civilian Testifies in Ukraine War-Crimes Trial 
  <p class="updated_time"> 04:34 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-61505842?at_medium=RSS&at_campaign=KARANGA">Sri Lanka defaults on debt for first time in its history</a> BBC: The default comes as the country struggles with its worst financial crisis in more than 70 years. 
+ <p class="updated_time"> 04:28 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/u-s-and-allies-discuss-economic-aid-for-ukraine-at-g-7-meet-11652951743">U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meet</a> WSJ: U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meet 
  <p class="updated_time"> 04:07 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100002254/before-a-fiji-court-can-the-u-s-seize-a-russian-yacht-in-the-south-pacific">Before a Fiji court: Can the U.S. seize a Russian yacht in the South Pacific?</a> NPR: The case of a yacht detained in the South Pacific island nation is raising questions about how far U.S. jurisdiction extends. 
  <p class="updated_time"> 04:01 AM CT, May. 19 </p> 
@@ -55,8 +61,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/world/australia/federal-election-independents.html">How a Group of Female Independents Aims to Revive Australian Democracy</a> NYT: A community-driven movement has recruited around 25 candidates, most of them successful women preaching pragmatic reform. They could shape the balance of power after Saturday’s election. 
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/abortion-lord-matthew-hale.html">The 17th-Century English Judge Behind Abortion and Rape Rulings Today</a> NYT: Both in India and in the Roe v. Wade draft ruling roiling the United States, Lord Matthew Hale — an English judge who wrote that women were contractually obligated to husbands — still looms large. 
- <p class="updated_time"> 03:43 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/u-s-and-allies-discuss-economic-aid-for-ukraine-at-g-7-meet-11652951743">U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meet</a> WSJ: U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meet 
+ <p class="updated_time"> 03:28 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/kim-jong-un-creates-an-opportunity-out-of-north-koreas-covid-crisis-11652959286">Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis</a> WSJ: Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis 
  <p class="updated_time"> 03:11 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61505050?at_medium=RSS&at_campaign=KARANGA">Bush condemns Putin's invasion of 'Iraq' instead of Ukraine</a> BBC: The former US president corrected himself after saying Putin had invaded Iraq rather than Ukraine. 
  <p class="updated_time"> 03:08 AM CT, May. 19 </p> 
@@ -65,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61500137?at_medium=RSS&at_campaign=KARANGA">LGBTQ+ in Qatar: 'Waking up in fear every day is exhausting'</a> BBC: Fifa has said it will cancel the World Cup 2022 contracts of any hotel in Qatar that does not allow same-sex couples to stay. 
  <p class="updated_time"> 02:58 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/ukraine-russia-war-doctors.html">In Ukraine, Gruesome Injuries and Not Enough Doctors to Treat Them</a> NYT: Operating with skeleton crews, doctors and nurses race to save limbs, and lives. It’s a grim routine for medical personnel often working around the clock. And not all limbs can be saved. 
- <p class="updated_time"> 02:43 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/kim-jong-un-creates-an-opportunity-out-of-north-koreas-covid-crisis-11652959286">Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis</a> WSJ: Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis 
  <p class="updated_time"> 01:01 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/japan-covid-relief-funds-gambler.html">Japanese Man Gambles Away a Town’s Covid Funds</a> NYT: An official in the rural Japanese town wired the 24-year-old man nearly $360,000 by mistake. He lost it in online casinos. Now, the town is suing and he has been arrested. 
  <p class="updated_time"> 12:27 AM CT, May. 19 </p> 
@@ -77,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61503469?at_medium=RSS&at_campaign=KARANGA">Leaky Gucci and Adidas 'sun umbrella' sparks China outcry</a> BBC: Chinese social media users say they are shocked the £1,329 item will not stop rain. 
  <p class="updated_time"> 08:44 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/asia/cambodian-plant-video.html">Stop Picking Endangered Phallic Plant, Cambodia Warns</a> NYT: In Cambodia, video of women suggestively joking around with a protected carnivorous specimen prompted a government admonition: Hands off, people. 
- <p class="updated_time"> 08:25 PM CT, May. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61485009?at_medium=RSS&at_campaign=KARANGA">US mothers warned against DIY baby formula</a> BBC: Desperate mothers are trying to mix their own baby formula, but experts warn of the dangers. 
  <p class="updated_time"> 07:52 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/russian-soldier-war-crime-ukraine-law.html">Russian Soldier Pleads Guilty in Kyiv to Violating ‘Laws and Customs of War’</a> NYT: Sgt. Vadim Shyshimarin, 21, admitted in a Ukrainian court he had fatally shot a 62-year-old man on a bicycle in the village in the Sumy region in the early days of the invasion. He faces 10 years to life in prison. 
  <p class="updated_time"> 07:50 PM CT, May. 18 </p> 
@@ -191,7 +193,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:31 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/replacement-theory-georgia.html">Racists Once Terrorized This Georgia County. Diversity Made It Prosper.</a> NYT: The slow return of diversity to an area that brutally drove out its Black residents has been accompanied by a boom that gives the lie to “Great Replacement” conspiracy theories. 
  <p class="updated_time"> 07:28 AM CT, May. 19 </p> 
- <a href="https://www.npr.org/2022/05/19/1100016029/george-w-bush-condemns-putins-invasion-of-iraq-instead-of-ukraine">Former President George W. Bush condemns Putin's invasion of Iraq — instead of Ukraine</a> NPR: In a speech, Bush criticized "the decision of one man to launch a wholly unjustified and brutal invasion of Iraq — I mean of Ukraine." 
+ <a href="https://www.npr.org/2022/05/19/1100016029/george-w-bush-condemns-putins-invasion-of-iraq-instead-of-ukraine">Trying to condemn the war in Ukraine, Bush inadvertently calls Iraq war unjustified </a> NPR: In a speech, Bush criticized "the decision of one man to launch a wholly unjustified and brutal invasion of Iraq — I mean of Ukraine." 
  <p class="updated_time"> 07:19 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/19/congressional-whack-a-mole-00033716">Congressional whack-a-mole</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:00 AM CT, May. 19 </p> 
@@ -338,8 +340,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/17/kamala-harris-senate-ties-00032949">Kamala Harris wants to get out of D.C. more. But she literally can’t.</a> Politico: The veep has cast more tie-breaking votes than all but two predecessors. It’s starting to frustrate some staff. 
  <p class="updated_time"> 06:53 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/democrats-gop-rhetoric-buffalo-shooting-maga-00032895">Dems turn focus to racist 'replacement theory' post-Buffalo shooting</a> Politico: Given the dim likelihood of any movement on guns, the party is shifting its approach to decrying Tucker Carlson and the far-right ideology he's echoed. 
- <p class="updated_time"> 06:01 PM CT, May. 16 </p> 
- <a href="https://www.politico.com/news/2022/05/16/atf-director-buffalo-shooting-00032896">Team Biden ups push for new gun regulator after Buffalo shooting</a> Politico: Steve Dettelbach is looking to become the first permanent ATF director since 2015. 
  <p class="updated_time"> 04:30 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/watchdog-report-troy-nehl-capitol-police-00032827">Watchdog report scrutinizes GOP lawmaker's claim that he was targeted by Capitol Police</a> Politico: POLITICO has first obtained an inspector general report that details what happened when a Capitol Police officer entered Rep. Troy Nehls' office and took a photo. 
  <p class="updated_time"> 10:33 AM CT, May. 16 </p> 
