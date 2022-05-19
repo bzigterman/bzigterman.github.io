@@ -923,7 +923,7 @@ html {
 <td class="gt_row gt_right">+43%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">540</td>
-<td class="gt_row gt_right gt_striped">772</td>
+<td class="gt_row gt_right gt_striped">773</td>
 <td class="gt_row gt_right gt_striped">+43%</td></tr>
     <tr><td class="gt_row gt_left">Average New Deaths</td>
 <td class="gt_row gt_right">7</td>
