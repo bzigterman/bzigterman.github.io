@@ -9,24 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:36 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/world/europe/uk-covid-lockdown-parties-boris-johnson.html">U.K. Police End Investigation Into Lockdown Parties at Downing Street</a> NYT: Prime Minister Boris Johnson received one of the 126 fines imposed, but a lack of new penalties for him lifts a cloud that had hung over his political future. 
  <p class="updated_time"> 06:32 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/05/19/world/russia-ukraine-war">Live Updates: Russia Seeks Greater Control of Southeastern Ukraine</a> NYT: As more than 1,700 Ukrainian fighters have surrendered in Mariupol, a visit to the region by a high-ranking Russian official suggested Moscow may be laying the groundwork for annexing lands it has seized in the war. 
  <p class="updated_time"> 06:06 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-61497817?at_medium=RSS&at_campaign=KARANGA">Global stock markets fall as growth fears rattle investors</a> BBC: UK shares slide after more signs of waning consumer confidence trigger steep falls in US markets. 
+ <p class="updated_time"> 05:44 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
  <p class="updated_time"> 05:41 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/wagatha-christie-rooney-vardy.html">‘Wagatha Christie’ Case Offers a Riveting Peek Into Celebrity Culture</a> NYT: Libel proceedings in London have laid bare the personal lives of two British celebrities in a legal whodunit for the social media age. And it wasn’t just the tabloids that became obsessed with the feud. 
  <p class="updated_time"> 05:40 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61505852?at_medium=RSS&at_campaign=KARANGA">Canada's indigenous leaders ask for royal apology</a> BBC: Prince Charles and Camilla's visit to Canada for the Queen's Platinum Jubilee will end on Thursday. 
- <p class="updated_time"> 05:32 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
  <p class="updated_time"> 05:26 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/health-61506562?at_medium=RSS&at_campaign=KARANGA">Monkeypox cases investigated in US, Canada and Europe</a> BBC: Five cases of the rare disease are confirmed in Portugal and seven in Spain, health authorities say. 
  <p class="updated_time"> 04:49 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100008023/shanghai-expected-to-reopen-some-subways">Shanghai is expected to reopen some subways as it eases COVID restrictions</a> NPR: The lockdown of China's largest city has dealt a blow to the economy and frustrated residents. 
+ <p class="updated_time"> 04:44 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/treasury-likely-to-prevent-u-s-investors-from-receiving-russian-debt-payments-11652893435">Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments 
  <p class="updated_time"> 04:34 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-61505842?at_medium=RSS&at_campaign=KARANGA">Sri Lanka defaults on debt for first time in its history</a> BBC: The default comes as the country struggles with its worst financial crisis in more than 70 years. 
- <p class="updated_time"> 04:32 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/treasury-likely-to-prevent-u-s-investors-from-receiving-russian-debt-payments-11652893435">Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments 
  <p class="updated_time"> 04:07 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100002254/before-a-fiji-court-can-the-u-s-seize-a-russian-yacht-in-the-south-pacific">Before a Fiji court: Can the U.S. seize a Russian yacht in the South Pacific?</a> NPR: The case of a yacht detained in the South Pacific island nation is raising questions about how far U.S. jurisdiction extends. 
  <p class="updated_time"> 04:01 AM CT, May. 19 </p> 
@@ -47,7 +49,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/world/australia/federal-election-independents.html">How a Group of Female Independents Aims to Revive Australian Democracy</a> NYT: A community-driven movement has recruited around 25 candidates, most of them successful women preaching pragmatic reform. They could shape the balance of power after Saturday’s election. 
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/abortion-lord-matthew-hale.html">The 17th-Century English Judge Behind Abortion and Rape Rulings Today</a> NYT: Both in India and in the Roe v. Wade draft ruling roiling the United States, Lord Matthew Hale — an English judge who wrote that women were contractually obligated to husbands — still looms large. 
- <p class="updated_time"> 03:32 AM CT, May. 19 </p> 
+ <p class="updated_time"> 03:44 AM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/chinas-top-antigraft-body-probes-a-top-central-banker-11652875675">Beijing Probes Central Banker for Passing Tips to Bond Traders</a> WSJ: Beijing Probes Central Banker for Passing Tips to Bond Traders 
  <p class="updated_time"> 03:11 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61505050?at_medium=RSS&at_campaign=KARANGA">Bush condemns Putin's invasion of 'Iraq' instead of Ukraine</a> BBC: The former US president corrected himself after saying Putin had invaded Iraq rather than Ukraine. 
@@ -57,9 +59,9 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61500137?at_medium=RSS&at_campaign=KARANGA">LGBTQ+ in Qatar: 'Waking up in fear every day is exhausting'</a> BBC: Fifa has said it will cancel the World Cup 2022 contracts of any hotel in Qatar that does not allow same-sex couples to stay. 
  <p class="updated_time"> 02:58 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/ukraine-russia-war-doctors.html">In Ukraine, Gruesome Injuries and Not Enough Doctors to Treat Them</a> NYT: Operating with skeleton crews, doctors and nurses race to save limbs, and lives. It’s a grim routine for medical personnel often working around the clock. And not all limbs can be saved. 
- <p class="updated_time"> 02:32 AM CT, May. 19 </p> 
+ <p class="updated_time"> 02:44 AM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/biden-on-a-first-trip-to-asia-tries-to-refocus-on-china-amid-ukraine-war-11652875191">Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War</a> WSJ: Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War 
- <p class="updated_time"> 01:32 AM CT, May. 19 </p> 
+ <p class="updated_time"> 01:44 AM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: North Korea Receives Aid From China as Covid Outbreak Spreads 
  <p class="updated_time"> 01:01 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/japan-covid-relief-funds-gambler.html">Japanese Man Gambles Away a Town’s Covid Funds</a> NYT: An official in the rural Japanese town wired the 24-year-old man nearly $360,000 by mistake. He lost it in online casinos. Now, the town is suing and he has been arrested. 
@@ -161,8 +163,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/16/world/europe/johnson-brexit-northern-ireland.html">Johnson’s Softer Tone on Northern Ireland Trade Rules Belies Hard-Line Plans</a> NYT: Prime Minister Boris Johnson, who traveled to Northern Ireland on Monday, also urged a power-sharing government in the wake of Sinn Fein’s victory in legislative elections. 
  <p class="updated_time"> 09:58 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-eurovision-kalush-orchestra.html">Ukraine’s Eurovision winners don’t regret flouting the rules with a plea for Mariupol.</a> NYT: The winning band’s lead singer said he still feared for the fighters who had been holed up beneath the Azovstal steel plant. 
- <p class="updated_time"> 09:51 AM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/16/world/europe/russia-military-ukraine.html">Russia Planned a Major Military Overhaul. Ukraine Shows the Result.</a> NYT: Russia wanted to build a leaner, more flexible fighting force and eliminate waste, bureaucracy and corruption. But entrenched, Soviet-era practices endure. 
  <p class="updated_time"> 09:50 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/asia/india-asha-health.html">The Foot Soldiers in India’s Battle to Improve Public Health</a> NYT: Over a million female health workers treat India’s most at-risk women and children, for little pay and sometimes at the cost of their own lives. 
  <p class="updated_time"> 09:39 AM CT, May. 17 </p> 
@@ -198,6 +198,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/19/1099997260/national-political-fights-are-shaping-state-elections-in-georgias-gwinnett-count">National political fights are shaping state elections in Georgia's Gwinnett County</a> NPR: Voters in Georgia go to the polls next week in a key primary election. NPR's Steve Inskeep speaks with voters from Gwinnett County, which leans toward Democratic candidates. 
  <p class="updated_time"> 04:11 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1099997239/white-house-invokes-the-defense-production-act-for-the-baby-formula-shortage">White House invokes the Defense Production Act for the baby formula shortage</a> NPR: The Biden administration has invoked the Defense Production Act to ease the shortage of baby formula. How would this legal vestige of the Cold War era help? 
+ <p class="updated_time"> 04:11 AM CT, May. 19 </p> 
+ <a href="https://www.npr.org/2022/05/19/1099997211/morning-news-brief">News brief: abortion-rights poll, Buffalo hearing, NATO membership</a> NPR: Two-thirds of Americans oppose reversing abortion rights in a new poll. The accused Buffalo shooter appears in court Thursday. And Turkey opposes Finnish and Swedish bids to join NATO. 
  <p class="updated_time"> 04:01 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1099935416/u-s-adviser-tries-to-talk-mexican-president-out-of-skipping-summit-of-the-americ">U.S. adviser tries to talk Mexican president out of skipping Summit of the Americas</a> NPR: Mexican President Andrés Manuel López Obrador threatened to skip this year's summit in the United States if Cuba, Venezuela and Nicaragua are excluded. 
  <p class="updated_time"> 04:01 AM CT, May. 19 </p> 
@@ -294,8 +296,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/18/marc-elias-clinton-campaign-sussmann-00033404">Former FBI official takes stand in trial of former Democratic Party lawyer</a> Politico: Michael Sussmann is accused of lying to the official, former FBI General Counsel James Baker, in a 2016 meeting in which he relayed information about possible ties between Russia and candidate Donald Trump. 
  <p class="updated_time"> 12:06 PM CT, May. 18 </p> 
  <a href="https://www.politico.com/news/2022/05/18/trump-dr-oz-should-declare-victory-pennsylvania-00033420">Trump pushes Oz to declare victory in undecided Pennsylvania primary</a> Politico: The former president's call for Oz to declare victory is an echo of his own effort to steal a victory in Pennsylvania in the 2020 general election from President Joe Biden. 
- <p class="updated_time"> 11:30 AM CT, May. 18 </p> 
- <a href="https://www.npr.org/2022/05/18/1099763945/pennsylvania-north-carolina-oregon-idaho-primaries-takeaways">With a key race too close to call, here are 4 takeaways from Tuesday's primaries</a> NPR: The five statewide primaries once again tested former President Donald Trump's influence on the Republican side — with mixed results. Here's what we learned on Tuesday. 
  <p class="updated_time"> 11:23 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/russia-finance-ministers-economy.html">Economic Headwinds Mount as Leaders Weigh Costs of Confronting Russia</a> NYT: Top economic officials are gathering this week to discuss how to keep pressure on Vladimir V. Putin without sinking their economies. 
  <p class="updated_time"> 10:50 AM CT, May. 18 </p> 
