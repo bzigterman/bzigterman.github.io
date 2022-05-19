@@ -15,7 +15,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/05/19/world/russia-ukraine-war">Live Updates: Russia Seeks Greater Control of Southeastern Ukraine</a> NYT: As more than 1,700 Ukrainian fighters have surrendered in Mariupol, a visit to the region by a high-ranking Russian official suggested Moscow may be laying the groundwork for annexing lands it has seized in the war. 
  <p class="updated_time"> 06:06 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-61497817?at_medium=RSS&at_campaign=KARANGA">Global stock markets fall as growth fears rattle investors</a> BBC: UK shares slide after more signs of waning consumer confidence trigger steep falls in US markets. 
- <p class="updated_time"> 05:44 AM CT, May. 19 </p> 
+ <p class="updated_time"> 06:00 AM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
  <p class="updated_time"> 05:41 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/wagatha-christie-rooney-vardy.html">‘Wagatha Christie’ Case Offers a Riveting Peek Into Celebrity Culture</a> NYT: Libel proceedings in London have laid bare the personal lives of two British celebrities in a legal whodunit for the social media age. And it wasn’t just the tabloids that became obsessed with the feud. 
@@ -23,10 +23,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-61505852?at_medium=RSS&at_campaign=KARANGA">Canada's indigenous leaders ask for royal apology</a> BBC: Prince Charles and Camilla's visit to Canada for the Queen's Platinum Jubilee will end on Thursday. 
  <p class="updated_time"> 05:26 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/health-61506562?at_medium=RSS&at_campaign=KARANGA">Monkeypox cases investigated in US, Canada and Europe</a> BBC: Five cases of the rare disease are confirmed in Portugal and seven in Spain, health authorities say. 
+ <p class="updated_time"> 05:00 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/treasury-likely-to-prevent-u-s-investors-from-receiving-russian-debt-payments-11652893435">Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments 
  <p class="updated_time"> 04:49 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100008023/shanghai-expected-to-reopen-some-subways">Shanghai is expected to reopen some subways as it eases COVID restrictions</a> NPR: The lockdown of China's largest city has dealt a blow to the economy and frustrated residents. 
- <p class="updated_time"> 04:44 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/treasury-likely-to-prevent-u-s-investors-from-receiving-russian-debt-payments-11652893435">Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments 
  <p class="updated_time"> 04:34 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-61505842?at_medium=RSS&at_campaign=KARANGA">Sri Lanka defaults on debt for first time in its history</a> BBC: The default comes as the country struggles with its worst financial crisis in more than 70 years. 
  <p class="updated_time"> 04:07 AM CT, May. 19 </p> 
@@ -44,24 +44,24 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1099721940/ukraine-russia-invasion-african-students-poland">They escaped the war in Ukraine. Then they faced fresh trouble in Poland</a> NPR: Millions of people have fled Ukraine since the war started, but not all are Ukrainian. And some citizens of African countries have found that the doors of Europe are much less open to them. 
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/chinas-top-antigraft-body-probes-a-top-central-banker-11652875675">Beijing Probes Central Banker for Passing Tips to Bond Traders</a> WSJ: Beijing Probes Central Banker for Passing Tips to Bond Traders 
+ <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/russia-ukraine-oil-sanctions.html">U.S. Eyeing Russian Energy Sanctions Over Ukraine War, Officials Say</a> NYT: The revenue powers Vladimir V. Putin’s war machine in Ukraine. But plans for new U.S. sanctions could create problems with China, India and other major buyers. 
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/australia/federal-election-independents.html">How a Group of Female Independents Aims to Revive Australian Democracy</a> NYT: A community-driven movement has recruited around 25 candidates, most of them successful women preaching pragmatic reform. They could shape the balance of power after Saturday’s election. 
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/abortion-lord-matthew-hale.html">The 17th-Century English Judge Behind Abortion and Rape Rulings Today</a> NYT: Both in India and in the Roe v. Wade draft ruling roiling the United States, Lord Matthew Hale — an English judge who wrote that women were contractually obligated to husbands — still looms large. 
- <p class="updated_time"> 03:44 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/chinas-top-antigraft-body-probes-a-top-central-banker-11652875675">Beijing Probes Central Banker for Passing Tips to Bond Traders</a> WSJ: Beijing Probes Central Banker for Passing Tips to Bond Traders 
  <p class="updated_time"> 03:11 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61505050?at_medium=RSS&at_campaign=KARANGA">Bush condemns Putin's invasion of 'Iraq' instead of Ukraine</a> BBC: The former US president corrected himself after saying Putin had invaded Iraq rather than Ukraine. 
  <p class="updated_time"> 03:08 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/nepal-india-bihar-alcohol.html">An Indian State Banned Alcohol. The Drinking Moved to Nearby Nepal.</a> NYT: The ban in Bihar State, championed by local women, was aimed at tackling alcoholism and domestic violence. But a drinking scene has sprung up across the border in Nepal. 
  <p class="updated_time"> 03:06 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61500137?at_medium=RSS&at_campaign=KARANGA">LGBTQ+ in Qatar: 'Waking up in fear every day is exhausting'</a> BBC: Fifa has said it will cancel the World Cup 2022 contracts of any hotel in Qatar that does not allow same-sex couples to stay. 
+ <p class="updated_time"> 03:00 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/biden-on-a-first-trip-to-asia-tries-to-refocus-on-china-amid-ukraine-war-11652875191">Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War</a> WSJ: Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War 
  <p class="updated_time"> 02:58 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/ukraine-russia-war-doctors.html">In Ukraine, Gruesome Injuries and Not Enough Doctors to Treat Them</a> NYT: Operating with skeleton crews, doctors and nurses race to save limbs, and lives. It’s a grim routine for medical personnel often working around the clock. And not all limbs can be saved. 
- <p class="updated_time"> 02:44 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/biden-on-a-first-trip-to-asia-tries-to-refocus-on-china-amid-ukraine-war-11652875191">Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War</a> WSJ: Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War 
- <p class="updated_time"> 01:44 AM CT, May. 19 </p> 
+ <p class="updated_time"> 02:00 AM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: North Korea Receives Aid From China as Covid Outbreak Spreads 
  <p class="updated_time"> 01:01 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/japan-covid-relief-funds-gambler.html">Japanese Man Gambles Away a Town’s Covid Funds</a> NYT: An official in the rural Japanese town wired the 24-year-old man nearly $360,000 by mistake. He lost it in online casinos. Now, the town is suing and he has been arrested. 
@@ -195,9 +195,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:00 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/pramila-jayapal-endorses-jessica-cisneros-texas-00033681">Pramila Jayapal endorses Jessica Cisneros in Texas runoff</a> Politico: Cisneros is attempting to topple Democratic Rep. Henry Cuellar on Tuesday. 
  <p class="updated_time"> 04:11 AM CT, May. 19 </p> 
- <a href="https://www.npr.org/2022/05/19/1099997260/national-political-fights-are-shaping-state-elections-in-georgias-gwinnett-count">National political fights are shaping state elections in Georgia's Gwinnett County</a> NPR: Voters in Georgia go to the polls next week in a key primary election. NPR's Steve Inskeep speaks with voters from Gwinnett County, which leans toward Democratic candidates. 
+ <a href="https://www.npr.org/2022/05/19/1099997260/national-politics-shape-state-elections-including-georgias-gwinnett-count">National political fights shape state elections including Georgia's Gwinnett County</a> NPR: Voters in Georgia go to the polls next week in a key primary election. NPR's Steve Inskeep speaks with voters in Gwinnett County, which leans toward Democratic candidates. 
  <p class="updated_time"> 04:11 AM CT, May. 19 </p> 
- <a href="https://www.npr.org/2022/05/19/1099997239/white-house-invokes-the-defense-production-act-for-the-baby-formula-shortage">White House invokes the Defense Production Act for the baby formula shortage</a> NPR: The Biden administration has invoked the Defense Production Act to ease the shortage of baby formula. How would this legal vestige of the Cold War era help? 
+ <a href="https://www.npr.org/2022/05/19/1099997239/white-house-invokes-the-defense-production-act-for-the-baby-formula-shortage">White House invokes the Defense Production Act for the baby formula shortage</a> NPR: The Biden administration says help is on the way to address the nationwide baby formula shortage. How would the Defense Production Act, a legal vestige of the Cold War era,  help? 
  <p class="updated_time"> 04:11 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1099997211/morning-news-brief">News brief: abortion-rights poll, Buffalo hearing, NATO membership</a> NPR: Two-thirds of Americans oppose reversing abortion rights in a new poll. The accused Buffalo shooter appears in court Thursday. And Turkey opposes Finnish and Swedish bids to join NATO. 
  <p class="updated_time"> 04:01 AM CT, May. 19 </p> 
