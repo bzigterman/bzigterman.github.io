@@ -1874,8 +1874,8 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">551K</td>
-<td class="gt_row gt_right">559K</td>
-<td class="gt_row gt_right">+1%</td></tr>
+<td class="gt_row gt_right">560K</td>
+<td class="gt_row gt_right">+2%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Deaths</td>
 <td class="gt_row gt_right gt_striped">2K</td>
 <td class="gt_row gt_right gt_striped">2K</td>
