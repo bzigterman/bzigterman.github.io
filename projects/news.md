@@ -9,26 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:44 PM CT, May. 18 </p> 
+ <p class="updated_time"> 12:20 AM CT, May. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-61480033?at_medium=RSS&at_campaign=KARANGA">I learned to sing using YouTube - and now it's my career</a> BBC: A holiday rep who was unable to sing teaches himself then scoops two music awards. 
+ <p class="updated_time"> 12:14 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/18/world/russia-ukraine-war-news">What Happened on Day 84 of the War in Ukraine</a> NYT: Many soldiers who surrendered at a steel complex in Mariupol belong to the Azov battalion, a group with far-right roots, and the Kremlin may try them even as Ukraine is prosecuting Russians for war crimes. 
+ <p class="updated_time"> 12:01 AM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
- <p class="updated_time"> 10:24 PM CT, May. 18 </p> 
- <a href="https://www.nytimes.com/live/2022/05/18/world/russia-ukraine-war-news">Live Updates: Russia Uses Surrender in Mariupol to Portray Ukrainians as Terrorists</a> NYT: Many soldiers who surrendered at a steel complex in Mariupol belong to the Azov battalion, a group with far-right roots, and the Kremlin may try them even as Ukraine is prosecuting Russians for war crimes. 
- <p class="updated_time"> 09:44 PM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/treasury-likely-to-prevent-u-s-investors-from-receiving-russian-debt-payments-11652893435">Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments 
- <p class="updated_time"> 09:31 PM CT, May. 18 </p> 
+ <p class="updated_time"> 11:50 PM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-61497817?at_medium=RSS&at_campaign=KARANGA">Cost of living: Stock markets fall amid concern over rising prices</a> BBC: US shares saw their biggest one-day drop since 2020 after renewed signs of waning consumer confidence. 
+ <p class="updated_time"> 11:01 PM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/treasury-likely-to-prevent-u-s-investors-from-receiving-russian-debt-payments-11652893435">Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments 
+ <p class="updated_time"> 10:01 PM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/chinas-top-antigraft-body-probes-a-top-central-banker-11652875675">Beijing Probes Central Banker for Passing Tips to Bond Traders</a> WSJ: Beijing Probes Central Banker for Passing Tips to Bond Traders 
+ <p class="updated_time"> 09:01 PM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/biden-on-a-first-trip-to-asia-tries-to-refocus-on-china-amid-ukraine-war-11652875191">Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War</a> WSJ: Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War 
  <p class="updated_time"> 08:44 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/asia/cambodian-plant-video.html">Stop Picking Endangered Phallic Plant, Cambodia Warns</a> NYT: In Cambodia, video of women suggestively joking around with a protected carnivorous specimen prompted a government admonition: Hands off, people. 
- <p class="updated_time"> 08:44 PM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/chinas-top-antigraft-body-probes-a-top-central-banker-11652875675">Beijing Probes Central Banker for Passing Tips to Bond Traders</a> WSJ: Beijing Probes Central Banker for Passing Tips to Bond Traders 
  <p class="updated_time"> 08:25 PM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61485009?at_medium=RSS&at_campaign=KARANGA">US mothers warned against DIY baby formula</a> BBC: Desperate mothers are trying to mix their own baby formula, but experts warn of the dangers. 
+ <p class="updated_time"> 08:01 PM CT, May. 18 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: North Korea Receives Aid From China as Covid Outbreak Spreads 
  <p class="updated_time"> 07:52 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/russian-soldier-war-crime-ukraine-law.html">Russian Soldier Pleads Guilty in Kyiv to Violating ‘Laws and Customs of War’</a> NYT: Sgt. Vadim Shyshimarin, 21, admitted in a Ukrainian court he had fatally shot a 62-year-old man on a bicycle in the village in the Sumy region in the early days of the invasion. He faces 10 years to life in prison. 
  <p class="updated_time"> 07:50 PM CT, May. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61497963?at_medium=RSS&at_campaign=KARANGA">Trump urges Oz to declare victory in cliffhanger Senate vote</a> BBC: But the too-close-to-call Republican primary in Pennsylvania is likely to go to a recount. 
- <p class="updated_time"> 07:44 PM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/biden-on-a-first-trip-to-asia-tries-to-refocus-on-china-amid-ukraine-war-11652875191">Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War</a> WSJ: Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61497963?at_medium=RSS&at_campaign=KARANGA">Trump urges 'Dr Oz' to declare victory in cliffhanger Senate vote</a> BBC: But the too-close-to-call Republican primary in Pennsylvania is likely to go to a recount. 
  <p class="updated_time"> 07:16 PM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61493402?at_medium=RSS&at_campaign=KARANGA">Burkina Faso trapped miners: Wives heartbroken but praying for miracles</a> BBC: A month on after a zinc mine was flooded in Burkina Faso, relatives of those trapped refuse to give up. 
  <p class="updated_time"> 07:16 PM CT, May. 18 </p> 
@@ -39,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/18/world/europe/russia-ukraine-captives.html">Russia Uses Surrender in Mariupol to Portray Ukrainians as Terrorists</a> NYT: Many soldiers who surrendered from Mariupol’s Azovstal steel plant belong to the Azov battalion, a group with far-right roots, and the Kremlin may now put them on trial just as Ukraine is prosecuting Russians for war crimes. 
  <p class="updated_time"> 06:52 PM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61503049?at_medium=RSS&at_campaign=KARANGA">Ukraine invasion could cause global food crisis, UN warns</a> BBC: UN chief Antonio Guterres warns that developing countries face disaster due to rising prices. 
- <p class="updated_time"> 06:44 PM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: North Korea Receives Aid From China as Covid Outbreak Spreads 
  <p class="updated_time"> 06:14 PM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-61479993?at_medium=RSS&at_campaign=KARANGA">The radio station giving indigenous people a voice</a> BBC: A new station in Panama allows marginalised groups to speak out about their lives and communities. 
  <p class="updated_time"> 06:02 PM CT, May. 18 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61502609?at_medium=RSS&at_campaign=KARANGA">Juan Carlos: Spain's ex-king to return after two-year exile</a> BBC: Juan Carlos left Spain in 2020 after he was linked to an inquiry into alleged corruption. 
  <p class="updated_time"> 05:13 PM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61502979?at_medium=RSS&at_campaign=KARANGA">Taylor Swift graduation speech: Embrace 'cringe'</a> BBC: New York University bestowed the renowned pop singer with an honorary degree. 
- <p class="updated_time"> 05:13 PM CT, May. 18 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-61480033?at_medium=RSS&at_campaign=KARANGA">I learned to sing using YouTube - and now it's my career</a> BBC: A holiday rep who was unable to sing teaches himself then scoops two music awards. 
  <p class="updated_time"> 05:05 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/ukraine-russia-war-doctors.html">In Ukraine, Gruesome Injuries and Not Enough Doctors to Treat Them</a> NYT: Operating with skeleton crews, doctors and nurses race to save limbs, and lives. It’s a grim routine for medical personnel often working around the clock. And not all limbs can be saved. 
  <p class="updated_time"> 04:46 PM CT, May. 18 </p> 
@@ -177,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/16/world/europe/russia-ukraine-east.html">Further Russian Retreat Seen in East Ukraine, Another Setback for Putin</a> NYT: Russia appeared to shrink its already narrowed goals to take the Donbas region, as NATO and its two newest applicants, Sweden and Finland, practiced war games near Russia’s border. 
  <p class="updated_time"> 09:20 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/us/politics/biden-cuba-policy.html">Biden Administration Lifting Some Trump-Era Restrictions on Cuba</a> NYT: The changes include an expansion of flights to the country and the restarting of a family reunification program. 
- <p class="updated_time"> 05:38 PM CT, May. 16 </p> 
- <a href="https://www.nytimes.com/2022/05/16/health/covid-reinfection.html">How Often Can You Be Infected With the Coronavirus?</a> NYT: The spread of the Omicron variant has given scientists an unsettling answer: repeatedly, sometimes within months. 
  <p class="updated_time"> 02:41 PM CT, May. 16 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/macron-prime-minister.html">Élisabeth Borne Is Named as French Prime Minister</a> NYT: Élisabeth Borne, the minister of labor who previously was in charge of the environment, will be the second woman to hold the post in France. 
  <p class="updated_time"> 02:29 PM CT, May. 16 </p> 
@@ -230,6 +228,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/18/technology/disinformation-governance-board.html">DHS Suspends Its New Disinformation Board, Following Criticism</a> NYT: The Department of Homeland Security suspended the work of a panel focused on the subject of disinformation. The group had provoked accusations of government overreach. 
  <p class="updated_time"> 05:26 PM CT, May. 18 </p> 
  <a href="https://www.politico.com/news/2022/05/18/censorship-buffalo-manifesto-texas-law-00033228">Tech companies removed the Buffalo shooting manifesto. A Texas law could make that illegal.</a> Politico: Conservative lawmakers' attempts to forbid “censorship” by social media giants are colliding with efforts to combat hateful rhetoric online. 
+ <p class="updated_time"> 05:19 PM CT, May. 18 </p> 
+ <a href="https://www.nytimes.com/2022/05/18/business/sec-jury-trial-judge.html">SEC Use of In-House Judge Violates Defendant Rights, Appeals Court Says</a> NYT: The ruling by an appeals court covering Texas, Louisiana and Mississippi applies only in that territory, but it’s the latest challenge to the way the agency handles enforcement actions. 
  <p class="updated_time"> 05:03 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/melissa-carone-disqualified.html">Melissa Carone, an Election Denier Who Was Parodied by ‘S.N.L.,’ Is Disqualified</a> NYT: Melissa Carone, who was enlisted by Rudolph W. Giuliani to testify at an election oversight hearing, made a false statement on a candidate affidavit, state officials said. 
  <p class="updated_time"> 04:50 PM CT, May. 18 </p> 
@@ -310,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/18/democrats-tax-breaks-stalemate-00032666">‘An insult to working people’: Democrats struggle with next tax move</a> Politico: Some progressives are aghast at the prospect of passing a major tax cut for corporations when the heart of their “reconciliation” agenda is going nowhere fast. 
  <p class="updated_time"> 01:57 AM CT, May. 18 </p> 
  <a href="https://www.politico.com/news/2022/05/18/pennsylvania-north-carolina-oregon-primary-election-takeaways-00033339">'Beware what you wish for': 5 takeaways from a key primary night</a> Politico: Mastriano rises, Cawthorn falls and progressives are back in business. 
- <p class="updated_time"> 01:39 AM CT, May. 18 </p> 
- <a href="https://www.nytimes.com/2022/05/17/us/politics/gop-senate-primary-pa.html">G.O.P. Senate Primary in Pennsylvania Remains a Tossup</a> NYT: Five states held primary elections on Tuesday, with Pennsylvania’s contests for Senate and governor the center of attention. 
  <p class="updated_time"> 09:44 PM CT, May. 17 </p> 
  <a href="https://www.politico.com/news/2022/05/17/cawthorn-north-carolina-primary-00033315">Cawthorn loses primary in North Carolina</a> Politico: The controversial Republican was defeated by state Sen. Chuck Edwards. 
  <p class="updated_time"> 07:52 PM CT, May. 17 </p> 
