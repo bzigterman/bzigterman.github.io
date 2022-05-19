@@ -9,23 +9,29 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:03 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/18/world/russia-ukraine-war-news">What Happened on Day 84 of the War in Ukraine</a> NYT: Many soldiers who surrendered at a steel complex in Mariupol belong to the Azov battalion, a group with far-right roots, and the Kremlin may try them even as Ukraine is prosecuting Russians for war crimes. 
+ <p class="updated_time"> 02:00 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/world/asia/nepal-india-bihar-alcohol.html">An Indian State Banned Alcohol. The Drinking Moved to Nearby Nepal.</a> NYT: The ban in Bihar State, championed by local women, was aimed at tackling alcoholism and domestic violence. But a drinking scene has sprung up across the border in Nepal. 
+ <p class="updated_time"> 01:29 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
  <p class="updated_time"> 01:01 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/japan-covid-relief-funds-gambler.html">Japanese Man Gambles Away a Town’s Covid Funds</a> NYT: An official in the rural Japanese town wired the 24-year-old man nearly $360,000 by mistake. He lost it in online casinos. Now, the town is suing and he has been arrested. 
- <p class="updated_time"> 12:57 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
+ <p class="updated_time"> 12:29 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/treasury-likely-to-prevent-u-s-investors-from-receiving-russian-debt-payments-11652893435">Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments 
+ <p class="updated_time"> 12:27 AM CT, May. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61503989?at_medium=RSS&at_campaign=KARANGA">Ratan Tata: Tycoon's ride in India's cheapest car wins internet</a> BBC: When Ratan Tata recently rode in the Nano, he revived the frenzy over India's "most affordable car". 
  <p class="updated_time"> 12:20 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-61480033?at_medium=RSS&at_campaign=KARANGA">I learned to sing using YouTube - and now it's my career</a> BBC: A holiday rep who was unable to sing teaches himself then scoops two music awards. 
- <p class="updated_time"> 12:14 AM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/05/18/world/russia-ukraine-war-news">What Happened on Day 84 of the War in Ukraine</a> NYT: Many soldiers who surrendered at a steel complex in Mariupol belong to the Azov battalion, a group with far-right roots, and the Kremlin may try them even as Ukraine is prosecuting Russians for war crimes. 
- <p class="updated_time"> 11:57 PM CT, May. 18 </p> 
- <a href="https://www.wsj.com/articles/treasury-likely-to-prevent-u-s-investors-from-receiving-russian-debt-payments-11652893435">Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments 
  <p class="updated_time"> 11:50 PM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-61497817?at_medium=RSS&at_campaign=KARANGA">Cost of living: Stock markets fall amid concern over rising prices</a> BBC: US shares saw their biggest one-day drop since 2020 after renewed signs of waning consumer confidence. 
- <p class="updated_time"> 10:57 PM CT, May. 18 </p> 
+ <p class="updated_time"> 11:29 PM CT, May. 18 </p> 
  <a href="https://www.wsj.com/articles/chinas-top-antigraft-body-probes-a-top-central-banker-11652875675">Beijing Probes Central Banker for Passing Tips to Bond Traders</a> WSJ: Beijing Probes Central Banker for Passing Tips to Bond Traders 
- <p class="updated_time"> 09:57 PM CT, May. 18 </p> 
+ <p class="updated_time"> 10:43 PM CT, May. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61503469?at_medium=RSS&at_campaign=KARANGA">Leaky Gucci and Adidas 'sun umbrella' sparks China outcry</a> BBC: Chinese social media users say they are shocked the £1,329 item will not stop rain. 
+ <p class="updated_time"> 10:29 PM CT, May. 18 </p> 
  <a href="https://www.wsj.com/articles/biden-on-a-first-trip-to-asia-tries-to-refocus-on-china-amid-ukraine-war-11652875191">Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War</a> WSJ: Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War 
- <p class="updated_time"> 08:57 PM CT, May. 18 </p> 
+ <p class="updated_time"> 09:29 PM CT, May. 18 </p> 
  <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: North Korea Receives Aid From China as Covid Outbreak Spreads 
  <p class="updated_time"> 08:44 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/asia/cambodian-plant-video.html">Stop Picking Endangered Phallic Plant, Cambodia Warns</a> NYT: In Cambodia, video of women suggestively joking around with a protected carnivorous specimen prompted a government admonition: Hands off, people. 
@@ -36,7 +42,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:50 PM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61497963?at_medium=RSS&at_campaign=KARANGA">Trump urges 'Dr Oz' to declare victory in cliffhanger Senate vote</a> BBC: But the too-close-to-call Republican primary in Pennsylvania is likely to go to a recount. 
  <p class="updated_time"> 07:16 PM CT, May. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61493402?at_medium=RSS&at_campaign=KARANGA">Burkina Faso trapped miners: Wives heartbroken but praying for miracles</a> BBC: A month on after a zinc mine was flooded in Burkina Faso, relatives of those trapped refuse to give up. 
+ <a href="https://www.bbc.co.uk/news/world-africa-61493402?at_medium=RSS&at_campaign=KARANGA">Burkina Faso trapped miners: Wives heartbroken but praying for miracles</a> BBC: A month after a zinc mine was flooded in Burkina Faso, relatives of those trapped refuse to give up. 
  <p class="updated_time"> 07:16 PM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61490635?at_medium=RSS&at_campaign=KARANGA">India seeks to win public trust in crisis-hit Sri Lanka</a> BBC: Sri Lanka's giant neighbour is emerging as one of its biggest providers of aid, after years of mistrust. 
  <p class="updated_time"> 07:03 PM CT, May. 18 </p> 
@@ -83,8 +89,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/18/climate/offset-carbon-footprint-air-travel.html">Do Airline Offset Programs Really Reduce Your Carbon Footprint?</a> NYT: Carbon credits could eventually play an important role in fighting climate change, but right now a few dollars’ worth won’t change much. 
  <p class="updated_time"> 12:53 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-mariupol-fighters-surrender.html">Ukrainian Holdouts in Mariupol Surrender to an Uncertain Fate</a> NYT: The government’s order for hundreds of remaining fighters to stand down offers Russia a propaganda victory, but prospects for a prisoner swap seem unclear at best. 
- <p class="updated_time"> 12:11 PM CT, May. 18 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-61497315?at_medium=RSS&at_campaign=KARANGA">EU reveals its plans to stop using Russian gas</a> BBC: It will invest in pipelines in other countries but will speed up a shift to green energy. 
  <p class="updated_time"> 12:07 PM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/business-61497812?at_medium=RSS&at_campaign=KARANGA">McDonald's and Wendy's sued for burger ads that mislead on size</a> BBC: A lawsuit accuses the firms of advertising burgers that look bigger than they actually are. 
  <p class="updated_time"> 11:28 AM CT, May. 18 </p> 
@@ -95,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/18/world/europe/kharkiv-ukraine-russia-photos.html">Around Kharkiv, Ukrainians Emerge to Find Lives in Ruin</a> NYT: After sheltering underground since February, residents of the beseiged city have finally been able to to assess the damage the Russians left behind. The discoveries have been grisly. 
  <p class="updated_time"> 10:52 AM CT, May. 18 </p> 
  <a href="https://www.npr.org/2022/05/18/1099733752/famine-africa-ukraine-invasion-drought">Drought and soaring food prices from Ukraine war leave millions in Africa starving</a> NPR: A report finds 23 million people are experiencing extreme hunger in Ethiopia, Somalia and Kenya, which face their worst drought in 40 years. Food prices hit record highs after Russia attacked Ukraine. 
- <p class="updated_time"> 09:38 AM CT, May. 18 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61489494?at_medium=RSS&at_campaign=KARANGA">AG Perarivalan: India top court frees killer of ex-PM Rajiv Gandhi</a> BBC: AG Perarivalan spent 30 years in jail for procuring batteries used in the bomb to kill India's former PM. 
  <p class="updated_time"> 09:07 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/uk-mp-arrest-rape-allegations.html">U.K. Lawmaker Reportedly Arrested Over Rape Allegations</a> NYT: The arrest, of a man who has not yet been identified, was the latest in a string of sexual misconduct allegations against members of Parliament. 
  <p class="updated_time"> 08:39 AM CT, May. 18 </p> 
@@ -151,8 +153,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/17/world/europe/russian-state-tv-ukraine-invasion.html">Retired Russian Colonel Says on State TV That Ukraine War Isn’t Going Well</a> NYT: It was a rare moment in a country where broadcasters generally follow the Kremlin’s talking points about the war. 
  <p class="updated_time"> 10:15 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/16/world/europe/johnson-brexit-northern-ireland.html">Johnson’s Softer Tone on Northern Ireland Trade Rules Belies Hard-Line Plans</a> NYT: Prime Minister Boris Johnson, who traveled to Northern Ireland on Monday, also urged a power-sharing government in the wake of Sinn Fein’s victory in legislative elections. 
- <p class="updated_time"> 10:01 AM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/article/uk-northern-ireland-protocol-eu.html">What Is the Northern Ireland Protocol?</a> NYT: Britain has threatened to override a set of post-Brexit rules known as the Northern Ireland protocol. The European Union sees them as a key part of protecting its single market. 
  <p class="updated_time"> 09:58 AM CT, May. 17 </p> 
  <a href="https://www.nytimes.com/2022/05/17/world/europe/ukraine-eurovision-kalush-orchestra.html">Ukraine’s Eurovision winners don’t regret flouting the rules with a plea for Mariupol.</a> NYT: The winning band’s lead singer said he still feared for the fighters who had been holed up beneath the Azovstal steel plant. 
  <p class="updated_time"> 09:51 AM CT, May. 17 </p> 
