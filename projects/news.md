@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:14 AM CT, May. 19 </p> 
+ <p class="updated_time"> 06:32 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/05/19/world/russia-ukraine-war">Live Updates: Russia Seeks Greater Control of Southeastern Ukraine</a> NYT: As more than 1,700 Ukrainian fighters have surrendered in Mariupol, a visit to the region by a high-ranking Russian official suggested Moscow may be laying the groundwork for annexing lands it has seized in the war. 
  <p class="updated_time"> 06:06 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-61497817?at_medium=RSS&at_campaign=KARANGA">Global stock markets fall as growth fears rattle investors</a> BBC: UK shares slide after more signs of waning consumer confidence trigger steep falls in US markets. 
@@ -17,15 +17,15 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/world/europe/wagatha-christie-rooney-vardy.html">‘Wagatha Christie’ Case Offers a Riveting Peek Into Celebrity Culture</a> NYT: Libel proceedings in London have laid bare the personal lives of two British celebrities in a legal whodunit for the social media age. And it wasn’t just the tabloids that became obsessed with the feud. 
  <p class="updated_time"> 05:40 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61505852?at_medium=RSS&at_campaign=KARANGA">Canada's indigenous leaders ask for royal apology</a> BBC: Prince Charles and Camilla's visit to Canada for the Queen's Platinum Jubilee will end on Thursday. 
+ <p class="updated_time"> 05:32 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
  <p class="updated_time"> 05:26 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/health-61506562?at_medium=RSS&at_campaign=KARANGA">Monkeypox cases investigated in US, Canada and Europe</a> BBC: Five cases of the rare disease are confirmed in Portugal and seven in Spain, health authorities say. 
- <p class="updated_time"> 05:16 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/finland-sweden-apply-for-nato-membership-breaking-decades-of-neutrality-11652854966">Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality</a> WSJ: Finland, Sweden Apply for NATO Membership, Breaking Decades of Neutrality 
  <p class="updated_time"> 04:49 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100008023/shanghai-expected-to-reopen-some-subways">Shanghai is expected to reopen some subways as it eases COVID restrictions</a> NPR: The lockdown of China's largest city has dealt a blow to the economy and frustrated residents. 
  <p class="updated_time"> 04:34 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-61505842?at_medium=RSS&at_campaign=KARANGA">Sri Lanka defaults on debt for first time in its history</a> BBC: The default comes as the country struggles with its worst financial crisis in more than 70 years. 
- <p class="updated_time"> 04:16 AM CT, May. 19 </p> 
+ <p class="updated_time"> 04:32 AM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/treasury-likely-to-prevent-u-s-investors-from-receiving-russian-debt-payments-11652893435">Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury Likely to Prevent U.S. Investors From Receiving Russian Debt Payments 
  <p class="updated_time"> 04:07 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100002254/before-a-fiji-court-can-the-u-s-seize-a-russian-yacht-in-the-south-pacific">Before a Fiji court: Can the U.S. seize a Russian yacht in the South Pacific?</a> NPR: The case of a yacht detained in the South Pacific island nation is raising questions about how far U.S. jurisdiction extends. 
@@ -47,7 +47,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/world/australia/federal-election-independents.html">How a Group of Female Independents Aims to Revive Australian Democracy</a> NYT: A community-driven movement has recruited around 25 candidates, most of them successful women preaching pragmatic reform. They could shape the balance of power after Saturday’s election. 
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/abortion-lord-matthew-hale.html">The 17th-Century English Judge Behind Abortion and Rape Rulings Today</a> NYT: Both in India and in the Roe v. Wade draft ruling roiling the United States, Lord Matthew Hale — an English judge who wrote that women were contractually obligated to husbands — still looms large. 
- <p class="updated_time"> 03:16 AM CT, May. 19 </p> 
+ <p class="updated_time"> 03:32 AM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/chinas-top-antigraft-body-probes-a-top-central-banker-11652875675">Beijing Probes Central Banker for Passing Tips to Bond Traders</a> WSJ: Beijing Probes Central Banker for Passing Tips to Bond Traders 
  <p class="updated_time"> 03:11 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61505050?at_medium=RSS&at_campaign=KARANGA">Bush condemns Putin's invasion of 'Iraq' instead of Ukraine</a> BBC: The former US president corrected himself after saying Putin had invaded Iraq rather than Ukraine. 
@@ -57,9 +57,9 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61500137?at_medium=RSS&at_campaign=KARANGA">LGBTQ+ in Qatar: 'Waking up in fear every day is exhausting'</a> BBC: Fifa has said it will cancel the World Cup 2022 contracts of any hotel in Qatar that does not allow same-sex couples to stay. 
  <p class="updated_time"> 02:58 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/ukraine-russia-war-doctors.html">In Ukraine, Gruesome Injuries and Not Enough Doctors to Treat Them</a> NYT: Operating with skeleton crews, doctors and nurses race to save limbs, and lives. It’s a grim routine for medical personnel often working around the clock. And not all limbs can be saved. 
- <p class="updated_time"> 02:16 AM CT, May. 19 </p> 
+ <p class="updated_time"> 02:32 AM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/biden-on-a-first-trip-to-asia-tries-to-refocus-on-china-amid-ukraine-war-11652875191">Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War</a> WSJ: Biden, on a First Trip to Asia, Tries to Refocus on China Amid Ukraine War 
- <p class="updated_time"> 01:16 AM CT, May. 19 </p> 
+ <p class="updated_time"> 01:32 AM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/north-korea-receives-aid-from-china-as-covid-outbreak-spreads-11652863549">North Korea Receives Aid From China as Covid Outbreak Spreads</a> WSJ: North Korea Receives Aid From China as Covid Outbreak Spreads 
  <p class="updated_time"> 01:01 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/japan-covid-relief-funds-gambler.html">Japanese Man Gambles Away a Town’s Covid Funds</a> NYT: An official in the rural Japanese town wired the 24-year-old man nearly $360,000 by mistake. He lost it in online casinos. Now, the town is suing and he has been arrested. 
@@ -219,7 +219,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/schumer-manchin-reconciliation-bill-00033534">Dems stand back and watch Chuck and Joe show</a> Politico: Democrats are hoping Chuck Schumer's 10-year-plus relationship with Joe Manchin will finally get the party their sweeping tax-and-climate bill. 
  <p class="updated_time"> 03:30 AM CT, May. 19 </p> 
- <a href="https://www.politico.com/news/2022/05/19/baby-formula-shortage-federal-contracts-00033581">Baby formula shortage raises questions about role of government contracts</a> Politico: Washington is raising alarms about a consolidated infant formula industry, but the government has helped keep it that way. 
+ <a href="https://www.politico.com/news/2022/05/19/baby-formula-shortage-federal-contracts-00033581">How the baby formula shortage links back to a federal nutrition program</a> Politico: Washington is raising alarms about a consolidated infant formula industry, but the government has helped keep it that way. 
  <p class="updated_time"> 03:30 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/gas-formula-inflation-voter-anxieties-motivate-struggling-dems-00033577">Gas, formula, inflation: Voter anxieties motivate struggling Dems</a> Politico: Democrats hope a swath of bills to combat inflation and other punishing problems will combat their poor-looking chances to keep the House. 
  <p class="updated_time"> 10:56 PM CT, May. 18 </p> 
@@ -318,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/18/democrats-tax-breaks-stalemate-00032666">‘An insult to working people’: Democrats struggle with next tax move</a> Politico: Some progressives are aghast at the prospect of passing a major tax cut for corporations when the heart of their “reconciliation” agenda is going nowhere fast. 
  <p class="updated_time"> 01:57 AM CT, May. 18 </p> 
  <a href="https://www.politico.com/news/2022/05/18/pennsylvania-north-carolina-oregon-primary-election-takeaways-00033339">'Beware what you wish for': 5 takeaways from a key primary night</a> Politico: Mastriano rises, Cawthorn falls and progressives are back in business. 
- <p class="updated_time"> 10:47 PM CT, May. 17 </p> 
- <a href="https://www.nytimes.com/2022/05/17/us/politics/jan-6-committee-transcripts.html">Justice Dept. Is Said to Request Transcripts From Jan. 6 Committee</a> NYT: The committee has interviewed more than 1,000 people so far, and the transcripts could be used as evidence in potential criminal cases or to pursue new leads. 
  <p class="updated_time"> 07:52 PM CT, May. 17 </p> 
  <a href="https://www.politico.com/news/2022/05/17/maloney-dccc-jones-new-york-00033277">Dems question whether Maloney can run DCCC while battling freshman colleague</a> Politico: The matchup isn't final, but many in the party are publicly and privately raising questions about Rep. Sean Patrick Maloney's decision to run in a certain New York district. 
  <p class="updated_time"> 05:59 PM CT, May. 17 </p> 
