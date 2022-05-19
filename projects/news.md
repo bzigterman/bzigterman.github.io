@@ -9,28 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:35 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/19/world/russia-ukraine-war">Live Updates: Russia Seeks Greater Control of Southeastern Ukraine</a> NYT: As more Ukrainian fighters surrendered in Mariupol, Moscow appeared to be laying the groundwork for annexing lands it has seized. President Biden met with the leaders of Finland and Sweden at the White House. 
  <p class="updated_time"> 09:16 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/health-61506562?at_medium=RSS&at_campaign=KARANGA">Monkeypox cases investigated in Europe, US and Canada</a> BBC: Cases of the rare disease are now confirmed in four European countries, health authorities say. 
  <p class="updated_time"> 09:14 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/middleeast/israel-opposition-parliament-majority.html">Israeli Government Loses Parliament Majority, Raising Prospect of Election</a> NYT: A second lawmaker has defected from the government coalition. The move edges Israel closer to the polls for the fifth time in three years. 
- <p class="updated_time"> 09:06 AM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/live/2022/05/19/world/russia-ukraine-war">Live Updates: Russia Seeks Greater Control of Southeastern Ukraine</a> NYT: As more Ukrainian fighters surrendered in Mariupol, Moscow appeared to be laying the groundwork for annexing lands it has seized. President Biden met with the leaders of Finland and Sweden at the White House. 
  <p class="updated_time"> 08:57 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61508922?at_medium=RSS&at_campaign=KARANGA">Russia's laser weapon claim derided as propaganda</a> BBC: Moscow says it has destroyed a drone with a laser, but Kyiv says it can't mask battlefield failure. 
  <p class="updated_time"> 08:42 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/china-hackers-russia.html">Chinese Hackers Tried to Steal Russian Defense Data, Report Says</a> NYT: The campaign detailed by a cybersecurity firm highlights Beijing’s increasingly sophisticated tactics to spy on an array of targets, including countries it considers friends. 
+ <p class="updated_time"> 08:40 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
  <p class="updated_time"> 08:38 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100012402/kharkiv-mayor-subway-station-shelters">Kharkiv's mayor says it's time to move out of the city's subway stations</a> NPR: As Ukrainian troops push Russian forces away from its second-largest city, the mayor urges thousands of residents to emerge from their makeshift shelters in the city's metro stations and trains. 
  <p class="updated_time"> 08:37 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/g7-ukraine-aid.html">G7 Finance Ministers Race to Secure More Ukraine Aid</a> NYT: Officials are working on a plan to provide $15 billion to help keep Ukraine’s government operating during its war with Russia. 
  <p class="updated_time"> 08:33 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/wagatha-christie-rooney-vardy.html">‘Wagatha Christie’ Case Offers a Riveting Peek Into Celebrity Culture</a> NYT: Libel proceedings in London have laid bare the personal lives of two British celebrities in a legal whodunit for the social media age. And it wasn’t just the tabloids that became obsessed with the feud. 
- <p class="updated_time"> 08:25 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
+ <p class="updated_time"> 07:40 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/as-russias-invasion-of-ukraine-stalls-critical-voices-emerge-in-moscow-11652958665">As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow</a> WSJ: As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow 
  <p class="updated_time"> 07:34 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/russia-ukraine-captives.html">Russia Uses Surrender in Mariupol to Portray Ukrainians as Terrorists</a> NYT: Many soldiers who surrendered from Mariupol’s Azovstal steel plant belong to the Azov battalion, a group with far-right roots, and the Kremlin may now put them on trial just as Ukraine is prosecuting Russians for war crimes. 
- <p class="updated_time"> 07:25 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/as-russias-invasion-of-ukraine-stalls-critical-voices-emerge-in-moscow-11652958665">As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow</a> WSJ: As Russia’s Invasion of Ukraine Stalls, Critical Voices Emerge in Moscow 
  <p class="updated_time"> 07:24 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-61497817?at_medium=RSS&at_campaign=KARANGA">Global stock markets fall as growth fears rattle investors</a> BBC: UK shares slide after more signs of waning consumer confidence trigger steep falls in US markets. 
  <p class="updated_time"> 07:24 AM CT, May. 19 </p> 
@@ -39,20 +39,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/world/europe/uk-covid-lockdown-parties-boris-johnson.html">Boris Johnson Avoids Further Fines as Police End Lockdown Inquiry</a> NYT: The police ended their investigation into parties at Downing Street that violated Covid rules, lifting a cloud over the prime minister’s political future. 
  <p class="updated_time"> 07:03 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61508072?at_medium=RSS&at_campaign=KARANGA">Afghanistan's female TV presenters must cover their faces, say Taliban</a> BBC: Women's faces are banned from TV screens as Afghanistan's rulers further tighten restrictions. 
- <p class="updated_time"> 06:25 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/russian-soldiers-war-crimes-trial-in-ukraine-to-hear-more-evidence-11652951390">Russian Soldier Recounts Shooting Civilian in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Recounts Shooting Civilian in Ukraine War-Crimes Trial 
+ <p class="updated_time"> 06:40 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/russian-soldiers-war-crimes-trial-in-ukraine-to-hear-more-evidence-11652951390">Russian Soldier Who Shot Dead an Unarmed Civilian Testifies in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Who Shot Dead an Unarmed Civilian Testifies in Ukraine War-Crimes Trial 
  <p class="updated_time"> 06:03 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61503992?at_medium=RSS&at_campaign=KARANGA">Navjot Singh Sidhu: India's cricketer-turned-politician jailed for road rage death</a> BBC: Cricketer-turned-politician Navjot Singh Sidhu is jailed for a year for running over an elderly man. 
  <p class="updated_time"> 05:40 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61505852?at_medium=RSS&at_campaign=KARANGA">Canada's indigenous leaders ask for royal apology</a> BBC: Prince Charles and Camilla's visit to Canada for the Queen's Platinum Jubilee will end on Thursday. 
- <p class="updated_time"> 05:25 AM CT, May. 19 </p> 
+ <p class="updated_time"> 05:40 AM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/u-s-and-allies-discuss-economic-aid-for-ukraine-at-g-7-meet-11652951743">U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meet</a> WSJ: U.S., Allies Discuss Economic Aid for Ukraine at G-7 Meet 
  <p class="updated_time"> 04:49 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100008023/shanghai-expected-to-reopen-some-subways">Shanghai is expected to reopen some subways as it eases COVID restrictions</a> NPR: The lockdown of China's largest city has dealt a blow to the economy and frustrated residents. 
+ <p class="updated_time"> 04:40 AM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/kim-jong-un-creates-an-opportunity-out-of-north-koreas-covid-crisis-11652959286">Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis</a> WSJ: Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis 
  <p class="updated_time"> 04:34 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/business-61505842?at_medium=RSS&at_campaign=KARANGA">Sri Lanka defaults on debt for first time in its history</a> BBC: The default comes as the country struggles with its worst financial crisis in more than 70 years. 
- <p class="updated_time"> 04:25 AM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/kim-jong-un-creates-an-opportunity-out-of-north-koreas-covid-crisis-11652959286">Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis</a> WSJ: Kim Jong Un Creates an Opportunity Out of North Korea’s Covid Crisis 
  <p class="updated_time"> 04:07 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100002254/before-a-fiji-court-can-the-u-s-seize-a-russian-yacht-in-the-south-pacific">Before a Fiji court: Can the U.S. seize a Russian yacht in the South Pacific?</a> NPR: The case of a yacht detained in the South Pacific island nation is raising questions about how far U.S. jurisdiction extends. 
  <p class="updated_time"> 04:01 AM CT, May. 19 </p> 
@@ -194,14 +194,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:22 AM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/us/politics/replacement-theory-georgia.html">Racists Once Terrorized This Georgia County. Diversity Made It Prosper.</a> NYT: The slow return of diversity to an area that brutally drove out its Black residents has been accompanied by a boom that gives the lie to “Great Replacement” conspiracy theories. 
  <p class="updated_time"> 09:11 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1099810793/census-undercount-by-state-arkansas-florida-illinois-mississippi-tennessee-texas">These 14 states had significant miscounts in the 2020 census</a> NPR: The states were not counted equally well for population totals used to determine their share of political representation and federal funding for the next 10 years, a new Census Bureau report shows. 
  <p class="updated_time"> 08:41 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/senate-40-billion-ukraine-aid-bill-00033719">Senate set to pass $40B Ukraine aid bill</a> Politico: The package will deliver the most significant U.S. contribution yet to aiding Ukraine as Russia encroaches on the eastern Donbas region. 
  <p class="updated_time"> 08:37 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/g7-ukraine-aid.html">G7 Finance Ministers Race to Secure More Ukraine Aid</a> NYT: Officials are working on a plan to provide $15 billion to help keep Ukraine’s government operating during its war with Russia. 
- <p class="updated_time"> 07:31 AM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/us/politics/replacement-theory-georgia.html">Racists Once Terrorized This Georgia County. Diversity Made It Prosper.</a> NYT: The slow return of diversity to an area that brutally drove out its Black residents has been accompanied by a boom that gives the lie to “Great Replacement” conspiracy theories. 
  <p class="updated_time"> 07:28 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100016029/george-w-bush-condemns-putins-invasion-of-iraq-instead-of-ukraine">Trying to condemn the war in Ukraine, Bush inadvertently calls Iraq war unjustified </a> NPR: In a speech, Bush criticized "the decision of one man to launch a wholly unjustified and brutal invasion of Iraq — I mean of Ukraine." 
  <p class="updated_time"> 07:19 AM CT, May. 19 </p> 
@@ -254,6 +254,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/18/senate-unanimously-confirms-brink-as-ukraine-ambassador-00033654">Senate unanimously confirms Brink as Ukraine ambassador</a> Politico: After three long years, the U.S. finally has a Senate-confirmed top diplomat to the war-torn country. 
  <p class="updated_time"> 08:51 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/biden-baby-formula-shortage.html">Biden Invokes Defense Powers in a Bid to Ease Formula Shortage</a> NYT: The president invoked the Defense Production Act to boost supply and directed federal agencies to use Defense Department planes to speed shipments of formula from overseas. 
+ <p class="updated_time"> 08:15 PM CT, May. 18 </p> 
+ <a href="https://www.cnn.com/2022/05/18/politics/recount-pennsylvania-gop-senate-primary/index.html">How a recount would be triggered in Pennsylvania's GOP Senate primary</a> CNN: Hours after Tuesday's primary, Mehmet Oz and Dave McCormick are locked in a tight race for the GOP nomination for Pennsylvania's US Senate race, which could be key to determining control of the chamber in November. The race, which is yet to be called, could be headed for a recount. 
  <p class="updated_time"> 07:40 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/mastriano-pa-republicans.html">Republican Panic Grows After Mastriano Wins</a> NYT: G.O.P. strategists reacted to the victory in Pennsylvania with alarm, worried that he may be too extreme for voters in an otherwise promising year for their party. 
  <p class="updated_time"> 07:35 PM CT, May. 18 </p> 
@@ -308,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/18/us/politics/russia-finance-ministers-economy.html">Economic Headwinds Mount as Leaders Weigh Costs of Confronting Russia</a> NYT: Top economic officials are gathering this week to discuss how to keep pressure on Vladimir V. Putin without sinking their economies. 
  <p class="updated_time"> 10:50 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/us/politics/trump-gop-base-primaries.html">Primaries Show Limits, and Depths, of Trump’s Power Over G.O.P. Base</a> NYT: The Make America Great Again movement is dominating Republican primaries. But is the former president in control of it? 
- <p class="updated_time"> 09:53 AM CT, May. 18 </p> 
- <a href="https://www.cnn.com/2022/05/18/politics/pa-nc-may-17-primary-election-takeaways/index.html">6 takeaways from primaries in Pennsylvania, North Carolina and more</a> CNN: Pennsylvania Republicans chose an election denier Tuesday as their candidate for governor in this year's midterm elections -- but appear to have rejected a far-right Senate contender. 
  <p class="updated_time"> 09:29 AM CT, May. 18 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:44 AM CT, May. 18 </p> 
@@ -344,6 +344,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/17/kamala-harris-senate-ties-00032949">Kamala Harris wants to get out of D.C. more. But she literally can’t.</a> Politico: The veep has cast more tie-breaking votes than all but two predecessors. It’s starting to frustrate some staff. 
  <p class="updated_time"> 06:53 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/democrats-gop-rhetoric-buffalo-shooting-maga-00032895">Dems turn focus to racist 'replacement theory' post-Buffalo shooting</a> Politico: Given the dim likelihood of any movement on guns, the party is shifting its approach to decrying Tucker Carlson and the far-right ideology he's echoed. 
+ <p class="updated_time"> 05:49 PM CT, May. 16 </p> 
+ <a href="https://www.cnn.com/2022/05/16/politics/russia-mcdonalds-nato-what-matters/index.html">The death of the McDonald's peace theory, a dark day for capitalism</a> CNN: It's the definitive end of two distinct eras: 
  <p class="updated_time"> 04:30 PM CT, May. 16 </p> 
  <a href="https://www.politico.com/news/2022/05/16/watchdog-report-troy-nehl-capitol-police-00032827">Watchdog report scrutinizes GOP lawmaker's claim that he was targeted by Capitol Police</a> Politico: POLITICO has first obtained an inspector general report that details what happened when a Capitol Police officer entered Rep. Troy Nehls' office and took a photo. 
  <p class="updated_time"> 10:33 AM CT, May. 16 </p> 
