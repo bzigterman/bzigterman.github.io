@@ -9,22 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:49 PM CT, May. 19 </p> 
+ <a href="https://www.npr.org/2022/05/20/1100324929/canada-bans-chinas-huawei-technologies-from-5g-networks">Canada bans China's Huawei Technologies from 5G networks</a> NPR: Wireless carriers in Canada have been banned from installing Huawei equipment in their high-speed 5G networks, as the country joined allies in banning the giant Chinese technology company. 
  <p class="updated_time"> 11:11 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/hungary-russia-oil.html">Hooked on Cheap Oil, Hungary Resists an Embargo on Russia</a> NYT: Prime Minister Viktor Orban has promised voters to keep energy prices low. The dividends from taking Russian fuel also help fund the policies that have made Hungary a beacon for right-wing groups. 
  <p class="updated_time"> 11:07 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/05/19/world/russia-ukraine-war">Live Updates: Russia Moves to Annex Areas It Has Seized in Southeast Ukraine</a> NYT: The territory occupied by Russian forces so far in the three-month-old invasion deserves “a worthy place in our Russian family,” a Kremlin official who toured the region said. 
+ <p class="updated_time"> 10:58 PM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-war-end-11652967707">Can Ukraine Win? Five Scenarios for the War’s Next Phase</a> WSJ: Can Ukraine Win? Five Scenarios for the War’s Next Phase 
  <p class="updated_time"> 10:33 PM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/health-61506562?at_medium=RSS&at_campaign=KARANGA">Monkeypox cases investigated in Europe, US, Canada and Australia</a> BBC: Cases of the rare disease are now confirmed in four European countries, health authorities say. 
- <p class="updated_time"> 10:31 PM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-end-11652967707">Can Ukraine Win? Five Scenarios for the War’s Next Phase</a> WSJ: Can Ukraine Win? Five Scenarios for the War’s Next Phase 
  <p class="updated_time"> 10:22 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/biden-finland-sweden-nato.html">Biden Seeks Swift Effort to Bring Finland and Sweden Into NATO</a> NYT: Speedy approval seems likely among most members of the alliance in the wake of Russia’s invasion of Ukraine, but Turkey’s objections remain a sticking point. 
  <p class="updated_time"> 10:12 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/middleeast/israel-opposition-parliament-majority.html">Israeli Government Loses Parliament Majority, Raising Prospect of Election</a> NYT: Increasing tensions between Israeli authorities and Palestinians have put pressure on the government, leading to the possibility of a fifth election in three years. 
  <p class="updated_time"> 10:10 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/japan-covid-relief-funds-gambler.html">Japanese Man Gambles Away a Town’s Covid Funds</a> NYT: An official in the rural Japanese town wired the 24-year-old man nearly $360,000 by mistake. He lost it in online casinos. Now, the town is suing and he has been arrested. 
- <p class="updated_time"> 09:31 PM CT, May. 19 </p> 
+ <p class="updated_time"> 09:58 PM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/europes-natural-gas-buyers-defuse-standoff-with-kremlin-over-ruble-payments-11652986818">Europe’s Gas Buyers Defuse Standoff With Kremlin Over Ruble Payments</a> WSJ: Europe’s Gas Buyers Defuse Standoff With Kremlin Over Ruble Payments 
+ <p class="updated_time"> 09:40 PM CT, May. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61514467?at_medium=RSS&at_campaign=KARANGA">The ex-prisoners tasked with patrolling San Francisco</a> BBC: Artie spent 26 years in jail for murder. He is now part of a controversial scheme to tackle drugs, homelessness and crime in San Francisco. 
  <p class="updated_time"> 09:30 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/wagatha-christie-rooney-vardy.html">‘Wagatha Christie’ Case Offers a Riveting Peek Into Celebrity Culture</a> NYT: Libel proceedings in London have laid bare the personal lives of two British celebrities in a legal whodunit for the social media age. And it wasn’t just the tabloids that became obsessed with the feud. 
  <p class="updated_time"> 09:24 PM CT, May. 19 </p> 
@@ -35,6 +39,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61511396?at_medium=RSS&at_campaign=KARANGA">Ukraine war: US fully backs Sweden and Finland Nato bids, Biden says</a> BBC: Both countries submitted their applications to be part of the Western defence alliance this week. 
  <p class="updated_time"> 09:08 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/senate-passes-ukraine-aid.html">The Senate Approves $40 Billion in New Aid to Ukraine</a> NYT: The measure’s smooth path through Congress reflected a broad consensus on Capitol Hill, for now, to devote massive sums to supporting Ukraine’s war effort with little debate. 
+ <p class="updated_time"> 08:58 PM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/sweden-finland-weigh-cyber-risks-stemming-from-nato-applications-11652980082">Sweden, Finland Weigh Cyber Risks Stemming From NATO Applications</a> WSJ: Sweden, Finland Weigh Cyber Risks Stemming From NATO Applications 
  <p class="updated_time"> 08:56 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/china-hackers-russia.html">Chinese Hackers Tried to Steal Russian Defense Data, Report Says</a> NYT: The campaign detailed by a cybersecurity firm highlights Beijing’s increasingly sophisticated tactics to spy on an array of targets, including countries it considers friends. 
  <p class="updated_time"> 08:50 PM CT, May. 19 </p> 
@@ -43,22 +49,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/us/politics/biden-trip-asia.html">Biden Begins Trip to Asia Meant to Reassure Allies of Focus on China</a> NYT: With the administration’s attention having shifted to Ukraine, President Biden plans to emphasize that the United States can counter aggression in both Europe and Asia. 
  <p class="updated_time"> 08:49 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/moscow-russifying-captured-territory.html">Moscow Moves to Russify Seized Ukraine Land, Signaling Annexation</a> NYT: The territory occupied by Russian forces so far in the three-month-old invasion deserves “a worthy place in our Russian family,” a Kremlin official who toured the region said. 
- <p class="updated_time"> 08:31 PM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/sweden-finland-weigh-cyber-risks-stemming-from-nato-applications-11652980082">Sweden, Finland Weigh Cyber Risks Stemming From NATO Applications</a> WSJ: Sweden, Finland Weigh Cyber Risks Stemming From NATO Applications 
  <p class="updated_time"> 08:21 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/russia-bucha-ukraine-executions.html">New Evidence Shows How Russian Soldiers Executed Men in Bucha</a> NYT: Witness testimony and videos obtained by The New York Times show how Russian paratroopers executed at least eight Ukrainian men in a Kyiv suburb on March 4, a potential war crime. 
+ <p class="updated_time"> 07:58 PM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
  <p class="updated_time"> 07:45 PM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61432762?at_medium=RSS&at_campaign=KARANGA">Australia election: Why is Australia's parliament so white?</a> BBC: Australia is a multicultural country, but critics say those representing the country don't reflect this. 
- <p class="updated_time"> 07:31 PM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
  <p class="updated_time"> 07:25 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/nyregion/monkeypox-case-ny.html">Officials Report a Possible Monkeypox Case in New York</a> NYT: The patient is under care at Bellevue Hospital while further testing is conducted. 
  <p class="updated_time"> 07:23 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/russian-rock-musician-charged.html">Russian Rock Singer Charged After Condemning the Ukraine War</a> NYT: The singer made the comments less than three months after Russia enacted a law that would punish spreading “false information” about its invasion. 
+ <p class="updated_time"> 06:58 PM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/israeli-government-teeters-on-brink-after-another-lawmaker-quits-11652969474">Israeli Government Teeters on Brink, After Another Lawmaker Quits</a> WSJ: Israeli Government Teeters on Brink, After Another Lawmaker Quits 
  <p class="updated_time"> 06:40 PM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61515365?at_medium=RSS&at_campaign=KARANGA">Ukraine war: One Russian's anti-war protest on the side of his shopping centre</a> BBC: Dmitry Skurikhin has listed the Ukrainian towns attacked by Russia on the side of his shopping centre. 
- <p class="updated_time"> 06:31 PM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/israeli-government-teeters-on-brink-after-another-lawmaker-quits-11652969474">Israeli Government Teeters on Brink, After Another Lawmaker Quits</a> WSJ: Israeli Government Teeters on Brink, After Another Lawmaker Quits 
  <p class="updated_time"> 06:31 PM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61475397?at_medium=RSS&at_campaign=KARANGA">Assam: The wild mushrooms killing India tea garden workers</a> BBC: Workers in Assam's famed tea gardens are dying from eating wild mushrooms. 
  <p class="updated_time"> 06:24 PM CT, May. 19 </p> 
@@ -138,8 +142,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:07 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100002254/before-a-fiji-court-can-the-u-s-seize-a-russian-yacht-in-the-south-pacific">Before a Fiji court: Can the U.S. seize a Russian yacht in the South Pacific?</a> NPR: The case of a yacht detained in the South Pacific island nation is raising questions about how far U.S. jurisdiction extends. 
  <p class="updated_time"> 04:01 AM CT, May. 19 </p> 
- <a href="https://www.npr.org/2022/05/19/1099419151/a-photographer-uses-toys-to-reflect-childrens-experiences-in-war">A photographer uses toys to reflect children's experiences in war</a> NPR: Brian McCarty's nonprofit provides art therapy to kids who have escaped conflicts, then transforms some of their traumatic drawings into toy dioramas to help people understand the horrors of war. 
- <p class="updated_time"> 04:01 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/global-pandemic-preparation.html">The World Is as Vulnerable as Ever to Pandemics, an Expert Panel Concludes</a> NYT: The authors of the new report zeroed in on the uneven distribution of vaccines around the world as one of the major hurdles to overcome. 
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/australia/federal-election-independents.html">How a Group of Female Independents Aims to Revive Australian Democracy</a> NYT: A community-driven movement has recruited around 25 candidates, most of them successful women preaching pragmatic reform. They could shape the balance of power after Saturday’s election. 
@@ -155,10 +157,10 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/trauma-of-fires-floods-hangs-over-australian-election-11652961637">Trauma of Fires, Floods Hangs Over Australian Election</a> WSJ: Economic issues have dominated the campaign, but climate change will play a role in how many Australians vote Saturday. 
  <p class="updated_time"> 02:58 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/ukraine-russia-war-doctors.html">In Ukraine, Gruesome Injuries and Not Enough Doctors to Treat Them</a> NYT: Operating with skeleton crews, doctors and nurses race to save limbs, and lives. It’s a grim routine for medical personnel often working around the clock. And not all limbs can be saved. 
- <p class="updated_time"> 12:20 AM CT, May. 19 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-61480033?at_medium=RSS&at_campaign=KARANGA">I learned to sing using YouTube - and now it's my career</a> BBC: A holiday rep who was unable to sing teaches himself then scoops two music awards. 
  <p class="updated_time"> 08:44 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/asia/cambodian-plant-video.html">Stop Picking Endangered Phallic Plant, Cambodia Warns</a> NYT: In Cambodia, video of women suggestively joking around with a protected carnivorous specimen prompted a government admonition: Hands off, people. 
+ <p class="updated_time"> 08:25 PM CT, May. 18 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61485009?at_medium=RSS&at_campaign=KARANGA">Baby formula shortage: Experts urge parents not to make homebrews</a> BBC: Desperate mothers are trying to mix their own baby formula, but experts warn of the dangers. 
  <p class="updated_time"> 07:03 PM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/finland-sweden-nato-us.html">Biden Endorses Finland and Sweden’s Bids to Join NATO</a> NYT: Mr. Biden’s pledge is far short of a treaty, or even an executive agreement committing the United States to come to the aid of both countries. 
  <p class="updated_time"> 06:02 PM CT, May. 18 </p> 
