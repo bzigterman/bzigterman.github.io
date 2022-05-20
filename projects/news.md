@@ -9,36 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:36 AM CT, May. 20 </p> 
+ <a href="https://www.npr.org/2022/05/20/1100326160/sri-lanka-closes-schools-limits-work-amid-fuel-shortage">Sri Lanka closes schools, limits work amid fuel shortage</a> NPR: Sri Lankan authorities have closed schools and asked public officials not to come to work in a desperate move to prepare for an acute fuel shortage, amid the nation's worst economic crisis in decades. 
+ <p class="updated_time"> 12:48 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-war-end-11652967707">Can Ukraine Win? Five Scenarios for the War’s Next Phase</a> WSJ: Can Ukraine Win? Five Scenarios for the War’s Next Phase 
  <p class="updated_time"> 12:33 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61517729?at_medium=RSS&at_campaign=KARANGA">Canada to ban Huawei from its 5G networks</a> BBC: The UK, US, Australia and New Zealand have also barred the Chinese telecoms equipment makers. 
  <p class="updated_time"> 12:23 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/05/19/world/russia-ukraine-war">What Happened on Day 85 of the War in Ukraine</a> NYT: Russia moved to annex areas in the southeast it had been occupying in the three-month-old invasion. President Biden vowed to help gain speedy approval of applications to join NATO by Finland and Sweden. 
- <p class="updated_time"> 12:22 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-end-11652967707">Can Ukraine Win? Five Scenarios for the War’s Next Phase</a> WSJ: Can Ukraine Win? Five Scenarios for the War’s Next Phase 
  <p class="updated_time"> 11:49 PM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/20/1100324929/canada-bans-chinas-huawei-technologies-from-5g-networks">Canada bans China's Huawei Technologies from 5G networks</a> NPR: Wireless carriers in Canada have been banned from installing Huawei equipment in their high-speed 5G networks, as the country joined allies in banning the giant Chinese technology company. 
- <p class="updated_time"> 11:22 PM CT, May. 19 </p> 
+ <p class="updated_time"> 11:48 PM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/europes-natural-gas-buyers-defuse-standoff-with-kremlin-over-ruble-payments-11652986818">Europe’s Gas Buyers Defuse Standoff With Kremlin Over Ruble Payments</a> WSJ: Europe’s Gas Buyers Defuse Standoff With Kremlin Over Ruble Payments 
  <p class="updated_time"> 11:11 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/hungary-russia-oil.html">Hooked on Cheap Oil, Hungary Resists an Embargo on Russia</a> NYT: Prime Minister Viktor Orban has promised voters to keep energy prices low. The dividends from taking Russian fuel also help fund the policies that have made Hungary a beacon for right-wing groups. 
+ <p class="updated_time"> 10:48 PM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/sweden-finland-weigh-cyber-risks-stemming-from-nato-applications-11652980082">Sweden, Finland Weigh Cyber Risks Stemming From NATO Applications</a> WSJ: Sweden, Finland Weigh Cyber Risks Stemming From NATO Applications 
  <p class="updated_time"> 10:33 PM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/health-61506562?at_medium=RSS&at_campaign=KARANGA">Monkeypox cases investigated in Europe, US, Canada and Australia</a> BBC: Cases of the rare disease are now confirmed in four European countries, health authorities say. 
- <p class="updated_time"> 10:22 PM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/sweden-finland-weigh-cyber-risks-stemming-from-nato-applications-11652980082">Sweden, Finland Weigh Cyber Risks Stemming From NATO Applications</a> WSJ: Sweden, Finland Weigh Cyber Risks Stemming From NATO Applications 
  <p class="updated_time"> 10:22 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/biden-finland-sweden-nato.html">Biden Seeks Swift Effort to Bring Finland and Sweden Into NATO</a> NYT: Speedy approval seems likely among most members of the alliance in the wake of Russia’s invasion of Ukraine, but Turkey’s objections remain a sticking point. 
  <p class="updated_time"> 10:12 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/middleeast/israel-opposition-parliament-majority.html">Israeli Government Loses Parliament Majority, Raising Prospect of Election</a> NYT: Increasing tensions between Israeli authorities and Palestinians have put pressure on the government, leading to the possibility of a fifth election in three years. 
  <p class="updated_time"> 10:10 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/japan-covid-relief-funds-gambler.html">Japanese Man Gambles Away a Town’s Covid Funds</a> NYT: An official in the rural Japanese town wired the 24-year-old man nearly $360,000 by mistake. He lost it in online casinos. Now, the town is suing and he has been arrested. 
+ <p class="updated_time"> 10:10 PM CT, May. 19 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-61336659?at_medium=RSS&at_campaign=KARANGA">Cyber security: Global food supply chain at risk from malicious hackers</a> BBC: The growth of "smart" farm machinery is increasing the risk of hacking of food and farming systems. 
+ <p class="updated_time"> 09:48 PM CT, May. 19 </p> 
+ <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
  <p class="updated_time"> 09:40 PM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61514467?at_medium=RSS&at_campaign=KARANGA">The ex-prisoners tasked with patrolling San Francisco</a> BBC: Artie spent 26 years in jail for murder. He is now part of a controversial scheme to tackle drugs, homelessness and crime in San Francisco. 
  <p class="updated_time"> 09:30 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/wagatha-christie-rooney-vardy.html">‘Wagatha Christie’ Case Offers a Riveting Peek Into Celebrity Culture</a> NYT: Libel proceedings in London have laid bare the personal lives of two British celebrities in a legal whodunit for the social media age. And it wasn’t just the tabloids that became obsessed with the feud. 
  <p class="updated_time"> 09:24 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/technology/mass-shootings-livestream-online.html">Livestreams of Mass Shootings: From Buffalo to New Zealand</a> NYT: Dozens of recordings of a 2019 massacre in Christchurch, New Zealand, remain online, in a sobering reminder of the internet’s permanence. 
- <p class="updated_time"> 09:22 PM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
  <p class="updated_time"> 09:19 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/live/2022/05/19/world/prince-charles-canada-visit">Prince Charles and Camilla Visit Canada, Confronting Legacy of the Crown</a> NYT: Prince Charles acknowledged the “suffering” of the Indigenous community in a visit to the Northwest Territories on the last day of his three-day tour of the country, where polls suggest there is little support for the monarchy. 
  <p class="updated_time"> 09:16 PM CT, May. 19 </p> 
@@ -53,7 +57,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/us/politics/biden-trip-asia.html">Biden Begins Trip to Asia Meant to Reassure Allies of Focus on China</a> NYT: With the administration’s attention having shifted to Ukraine, President Biden plans to emphasize that the United States can counter aggression in both Europe and Asia. 
  <p class="updated_time"> 08:49 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/moscow-russifying-captured-territory.html">Moscow Moves to Russify Seized Ukraine Land, Signaling Annexation</a> NYT: The territory occupied by Russian forces so far in the three-month-old invasion deserves “a worthy place in our Russian family,” a Kremlin official who toured the region said. 
- <p class="updated_time"> 08:22 PM CT, May. 19 </p> 
+ <p class="updated_time"> 08:48 PM CT, May. 19 </p> 
  <a href="https://www.wsj.com/articles/israeli-government-teeters-on-brink-after-another-lawmaker-quits-11652969474">Israeli Government Teeters on Brink, After Another Lawmaker Quits</a> WSJ: Israeli Government Teeters on Brink, After Another Lawmaker Quits 
  <p class="updated_time"> 08:21 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/russia-bucha-ukraine-executions.html">New Evidence Shows How Russian Soldiers Executed Men in Bucha</a> NYT: Witness testimony and videos obtained by The New York Times show how Russian paratroopers executed at least eight Ukrainian men in a Kyiv suburb on March 4, a potential war crime. 
@@ -129,8 +133,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/science/spiders-tarantulas-arachnids-trade.html">Scientists Uncover a Shady Web of Online Spider Sales</a> NYT: More than 1,200 species of arachnids are part of a largely unregulated global marketplace, according to a new study. 
  <p class="updated_time"> 09:48 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100065136/nearly-270-cases-of-salmonella-have-been-linked-to-chocolate-easter-eggs">Nearly 270 cases of salmonella have been linked to chocolate Easter eggs</a> NPR: European health officials say that 266 confirmed cases and 58 suspected cases of an outbreak have been reported throughout Europe and in North America. The vast majority of the cases are in children. 
- <p class="updated_time"> 09:42 AM CT, May. 19 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61509984?at_medium=RSS&at_campaign=KARANGA">Nnamdi Kanu: Nigerian separatist allowed to watch Liverpool games on TV</a> BBC: A Nigerian judge grants Nnamdi Kanu dispensation to watch the climax of his favourite team's season. 
  <p class="updated_time"> 08:38 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100012402/kharkiv-mayor-subway-station-shelters">Kharkiv's mayor says it's time to move out of the city's subway stations</a> NPR: As Ukrainian troops push Russian forces away from its second-largest city, the mayor urges thousands of residents to emerge from their makeshift shelters in the city's metro stations and trains. 
  <p class="updated_time"> 07:34 AM CT, May. 19 </p> 
@@ -139,8 +141,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/19/1100008023/shanghai-expected-to-reopen-some-subways">Shanghai is expected to reopen some subways as it eases COVID restrictions</a> NPR: The lockdown of China's largest city has dealt a blow to the economy and frustrated residents. 
  <p class="updated_time"> 04:11 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1099997267/courtroom-drama-ukrainian-widow-confronts-russian-who-shot-her-husband">Courtroom drama: Ukrainian widow confronts Russian who shot her husband</a> NPR: The widow asked the Russian soldier what he felt when he killed her husband. "Fear," he said. "I understand you probably won't be able to forgive me. But I ask for your forgiveness." 
- <p class="updated_time"> 04:07 AM CT, May. 19 </p> 
- <a href="https://www.npr.org/2022/05/19/1100002254/before-a-fiji-court-can-the-u-s-seize-a-russian-yacht-in-the-south-pacific">Before a Fiji court: Can the U.S. seize a Russian yacht in the South Pacific?</a> NPR: The case of a yacht detained in the South Pacific island nation is raising questions about how far U.S. jurisdiction extends. 
  <p class="updated_time"> 04:01 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/global-pandemic-preparation.html">The World Is as Vulnerable as Ever to Pandemics, an Expert Panel Concludes</a> NYT: The authors of the new report zeroed in on the uneven distribution of vaccines around the world as one of the major hurdles to overcome. 
  <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
