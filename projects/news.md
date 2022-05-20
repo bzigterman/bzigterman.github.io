@@ -9,14 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:39 AM CT, May. 20 </p> 
+ <p class="updated_time"> 05:46 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/05/20/world/russia-ukraine-war">Live Updates: Russia Appears to Shake Up Military Command</a> NYT: Moscow also moved to fortify control over parts of southeastern Ukraine. 
  <p class="updated_time"> 05:18 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/05/19/world/prince-charles-canada-visit">Prince Charles and Camilla Visit Canada, Confronting Legacy of the Crown</a> NYT: Prince Charles acknowledged the “suffering” of the Indigenous community in a visit to the Northwest Territories on the last day of his three-day tour of the country, where polls suggest there is little support for the monarchy. 
+ <p class="updated_time"> 04:56 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-war-end-11652967707">Can Ukraine Win? Five Scenarios for the War’s Next Phase</a> WSJ: Can Ukraine Win? Five Scenarios for the War’s Next Phase 
  <p class="updated_time"> 04:55 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/hungary-russia-oil.html">In Hungary, Cheap Russian Oil Fuels Right-Wing Culture Wars</a> NYT: Prime Minister Viktor Orban has resisted a proposed E.U. embargo of Russian oil, saying it would devastate his country’s economy, but it would also cut off a source of funds for his political allies. 
- <p class="updated_time"> 04:44 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-end-11652967707">Can Ukraine Win? Five Scenarios for the War’s Next Phase</a> WSJ: Can Ukraine Win? Five Scenarios for the War’s Next Phase 
  <p class="updated_time"> 04:28 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61519794?at_medium=RSS&at_campaign=KARANGA">Argentina found guilty of massacre of Qom and Moqoit people</a> BBC: A landmark court case orders historical reparations for the killing of more than 400 people in 1924. 
  <p class="updated_time"> 04:00 AM CT, May. 20 </p> 
@@ -25,17 +25,17 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/20/1099830501/smallpox-covid-vaccine-eradication-who">How Rahima came to hold a special place in smallpox history — and help ensure its end</a> NPR: Scientists went to extraordinary lengths to eradicate smallpox from the world. Rahima Banu is now recorded as having the last known naturally-occurring case of the deadly form. 
  <p class="updated_time"> 04:00 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/asia/china-lockdown-migration.html">As China Doubles Down on Lockdowns, Some Chinese Seek an Exit</a> NYT: Inquiries to immigration consultants have surged; social media users trade tips on how to get abroad. But the government aims to “strictly restrict nonessential exit activities.” 
- <p class="updated_time"> 03:44 AM CT, May. 20 </p> 
+ <p class="updated_time"> 03:56 AM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/europes-natural-gas-buyers-defuse-standoff-with-kremlin-over-ruble-payments-11652986818">Europe’s Gas Buyers Defuse Standoff With Kremlin Over Ruble Payments</a> WSJ: Europe’s Gas Buyers Defuse Standoff With Kremlin Over Ruble Payments 
  <p class="updated_time"> 03:38 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61514850?at_medium=RSS&at_campaign=KARANGA">Vangelis: Chariots of Fire and Blade Runner composer dies at 79</a> BBC: The Greek star's Oscar-winning film scores and electronic works created "a new musical landscape". 
- <p class="updated_time"> 02:44 AM CT, May. 20 </p> 
+ <p class="updated_time"> 02:56 AM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/sweden-finland-weigh-cyber-risks-stemming-from-nato-applications-11652980082">Sweden, Finland Weigh Cyber Risks Stemming From NATO Applications</a> WSJ: Sweden, Finland Weigh Cyber Risks Stemming From NATO Applications 
- <p class="updated_time"> 01:44 AM CT, May. 20 </p> 
+ <p class="updated_time"> 01:56 AM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
  <p class="updated_time"> 01:36 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100326160/sri-lanka-closes-schools-limits-work-amid-fuel-shortage">Sri Lanka closes schools and limits work to combat fuel shortage</a> NPR: Sri Lankan authorities closed schools and asked public officials not to come to work in a desperate move to prepare for an acute fuel shortage during the nation's worst economic crisis in decades. 
- <p class="updated_time"> 12:44 AM CT, May. 20 </p> 
+ <p class="updated_time"> 12:56 AM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/israeli-government-teeters-on-brink-after-another-lawmaker-quits-11652969474">Israeli Government Teeters on Brink, After Another Lawmaker Quits</a> WSJ: Israeli Government Teeters on Brink, After Another Lawmaker Quits 
  <p class="updated_time"> 12:33 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61517729?at_medium=RSS&at_campaign=KARANGA">Canada to ban Huawei from its 5G networks</a> BBC: The UK, US, Australia and New Zealand have also barred the Chinese telecoms equipment makers. 
