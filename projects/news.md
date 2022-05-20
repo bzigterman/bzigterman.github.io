@@ -9,42 +9,52 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:00 AM CT, May. 20 </p> 
- <a href="https://www.npr.org/2022/05/20/1099673892/supreme-court-philippines-marcos-petition">Supreme Court petition seeks to cancel candidacy of Philippine President-elect Marcos</a> NPR: The petition, filed Tuesday, seeks to disqualify Ferdinand Marcos Jr.'s candidacy post-election on the grounds that he lied about not committing any crimes — a requirement to run for president. 
- <p class="updated_time"> 10:58 AM CT, May. 20 </p> 
+ <p class="updated_time"> 12:09 PM CT, May. 20 </p> 
+ <a href="https://www.nytimes.com/article/what-is-monkeypox.html">What Is Monkeypox?</a> NYT: There have been dozens of cases reported in recent weeks among populations not typically vulnerable to the disease. 
+ <p class="updated_time"> 12:07 PM CT, May. 20 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/europe/britain-eu-northern-ireland-protocol-washington.html">Washington Warns Britain to Temper Its Spat With E.U. Over Northern Ireland</a> NYT: A senior U.S. diplomat urged London and Brussels to discreetly resolve their disputes, citing the need to unify the West behind Ukraine amid Russia’s onslaught. 
+ <p class="updated_time"> 12:03 PM CT, May. 20 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/nyregion/monkeypox-case-ny.html">Officials Report a Possible Monkeypox Case in New York</a> NYT: The patient is under care at Bellevue Hospital while further testing is conducted. 
+ <p class="updated_time"> 11:55 AM CT, May. 20 </p> 
+ <a href="https://www.npr.org/2022/05/20/1100388409/taliban-female-tv-anchors-cover-faces-order-afghanistan">The Taliban say Afghan female TV anchors must cover their faces on air</a> NPR: The order came from the Taliban's Virtue and Vice Ministry as well as from the Information and Culture Ministry. Earlier this month, the Taliban ordered women in public to wear head-to-toe clothing. 
+ <p class="updated_time"> 11:48 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/05/20/world/russia-ukraine-war">Ukraine Live Updates: Russia Vows to Halt Gas Exports to Finland as War’s Fallout Spreads</a> NYT: Finland’s state energy provider said Russia had cited the company’s failure to pay in rubles, but Moscow is also angry over Finnish moves to join NATO. Gerhard Schröder, the former German chancellor, is stepping down as chair of the board of the Russian state-controlled oil giant Rosneft. 
- <p class="updated_time"> 10:51 AM CT, May. 20 </p> 
+ <p class="updated_time"> 11:46 AM CT, May. 20 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/asia/samsung-biden-asia-economy.html">In South Korea, Joe Biden Seeks to Rebuild Economic Ties Across Asia</a> NYT: The president began his first Asian visit with a tour of a Samsung plant as he tries to address supply-chain woes and rebuild U.S. manufacturing. 
+ <p class="updated_time"> 11:19 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/us-covid-deaths.html">U.S. Surpasses 1 Million Known Covid Deaths</a> NYT: While Covid stole lives from all strata of society, it magnified disparities based on factors like sex, age, health care access, income and housing. 
+ <p class="updated_time"> 11:16 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-families-risk-their-lives-to-escape-russian-occupation-11653039001">Ukrainian Families Risk Their Lives to Escape Russian Occupation</a> WSJ: Ukrainian Families Risk Their Lives to Escape Russian Occupation 
+ <p class="updated_time"> 11:00 AM CT, May. 20 </p> 
+ <a href="https://www.npr.org/2022/05/20/1099673892/supreme-court-philippines-marcos-petition">Philippine Supreme Court petition seeks to cancel candidacy of President-elect Marcos</a> NPR: The petition, filed Tuesday, seeks to disqualify Ferdinand Marcos Jr.'s candidacy post-election on the grounds that he lied about not committing any crimes — a requirement to run for president. 
  <p class="updated_time"> 10:24 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100256260/finland-sweden-nato-putin-biden-ukraine-russia">Two versions of history collide as Finland and Sweden seek to join NATO</a> NPR: Finland and Sweden have long kept a careful balance — and neutral position — between the West and Russia. But that changed after Moscow invaded Ukraine. 
  <p class="updated_time"> 10:16 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-will-fight-until-all-russian-forces-are-expelled-military-intelligence-chief-says-11653046810">Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says</a> WSJ: Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says 
+ <p class="updated_time"> 10:16 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61526110?at_medium=RSS&at_campaign=KARANGA">Johnny Depp was jealous and controlling, ex-girlfriend Ellen Barkin says</a> BBC: Testimony from the actress, one of Johnny Depp's ex-girlfriends and co-stars, is played in court. 
- <p class="updated_time"> 10:08 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-families-risk-their-lives-to-escape-russian-occupation-11653039001">Ukrainian Families Risk Their Lives to Escape Russian Occupation</a> WSJ: Ukrainian Families Risk Their Lives to Escape Russian Occupation 
- <p class="updated_time"> 09:56 AM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/asia/biden-asia-samsung-economy.html">In South Korea, Joe Biden Seeks to Rebuild Economic Ties Across Asia</a> NYT: The president began his first Asian visit with a tour of a Samsung plant as he tries to address supply-chain woes and rebuild U.S. manufacturing. 
  <p class="updated_time"> 09:40 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61526896?at_medium=RSS&at_campaign=KARANGA">US Secret Service: Two sent home after 'incident' in South Korea</a> BBC: The pair were involved in an off-duty incident in South Korea ahead of US President Biden's visit. 
  <p class="updated_time"> 09:30 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/un-china-michelle-bachelet.html">U.N. Human Rights Chief to Make First Trip to China Since 2005</a> NYT: Rights groups say Michelle Bachelet’s trip, including a visit to the western Chinese region of Xinjiang, where Beijing has cracked down on the Uyghur minority, will be a test of her office’s credibility. 
+ <p class="updated_time"> 09:16 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425">Russian Soldier Didn’t Commit Murder, His Lawyer Says</a> WSJ: Russian Soldier Didn’t Commit Murder, His Lawyer Says 
  <p class="updated_time"> 09:10 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/global-pandemic-preparation.html">The World Is as Vulnerable as Ever to Pandemics, an Expert Panel Concludes</a> NYT: The authors of the new report zeroed in on the uneven distribution of vaccines around the world as one of the major hurdles to overcome. 
- <p class="updated_time"> 09:08 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-will-fight-until-all-russian-forces-are-expelled-military-intelligence-chief-says-11653046810">Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says</a> WSJ: Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says 
  <p class="updated_time"> 08:19 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61524376?at_medium=RSS&at_campaign=KARANGA">Ukraine says giant Zaporizhzhia nuclear plant can't supply Russia</a> BBC: Russia occupies Europe's biggest nuclear plant and now wants to sell power from it back to Ukraine. 
+ <p class="updated_time"> 08:16 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/russian-inflation-makes-u-s-price-rises-look-tame-11653047287">Russian Inflation Makes U.S. Price Rises Look Tame</a> WSJ: Russian Inflation Makes U.S. Price Rises Look Tame 
  <p class="updated_time"> 08:08 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/biden-trip-asia.html">Biden Begins Trip to Asia Meant to Reassure Allies of Focus on China</a> NYT: With the administration’s attention having shifted to Ukraine, President Biden plans to emphasize that the United States can counter aggression in both Europe and Asia. 
- <p class="updated_time"> 08:08 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425">Russian Soldier Didn’t Commit Murder, His Lawyer Says</a> WSJ: Russian Soldier Didn’t Commit Murder, His Lawyer Says 
  <p class="updated_time"> 08:07 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-61521569?at_medium=RSS&at_campaign=KARANGA">MI5 agent's violence and abuse horrific - Deputy PM</a> BBC: An MI5 agent used his secret status to terrorise his partner, a BBC investigation has found. 
  <p class="updated_time"> 08:00 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/africa/somalia-free-ambulance.html">Free Ambulances in Mogadishu, Thanks to Aamin Ambulance</a> NYT: Dismayed that victims of the incessant violence in Somalia’s capital were being rolled to hospitals on wooden carts and in wheelbarrows, a dentist decided to do something about it. 
  <p class="updated_time"> 07:40 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100290734/delivery-robot-woods-northampton-england-united-kingdom">A delivery robot creates a poetic moment in the woods of England</a> NPR: Matthew McCormack, a history professor in Northampton, U.K., encountered something unexpected while cycling in the woods: a wandering delivery robot. 
- <p class="updated_time"> 07:08 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/russian-inflation-makes-u-s-price-rises-look-tame-11653047287">Russian Inflation Makes U.S. Price Rises Look Tame</a> WSJ: Russian Inflation Makes U.S. Price Rises Look Tame 
+ <p class="updated_time"> 07:16 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/chinas-central-bank-makes-unexpected-rate-cut-as-growth-crumbles-11653018753">China Unexpectedly Cuts Key Rate as Growth Crumbles</a> WSJ: China Unexpectedly Cuts Key Rate as Growth Crumbles 
  <p class="updated_time"> 07:06 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/asia/sri-lanka-protests.html">In Pictures: Sri Lanka’s Protesters Remain Defiant</a> NYT: As the pain of an economic crisis deepens, a nation’s anger and desperation are visible. 
  <p class="updated_time"> 06:45 AM CT, May. 20 </p> 
@@ -53,8 +63,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61524945?at_medium=RSS&at_campaign=KARANGA">Fifty Brazilian couples share a wedding day</a> BBC: A community wedding is held so brides and grooms on low incomes can tie the knot. 
  <p class="updated_time"> 06:17 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100327192/russia-will-capitalize-on-controlling-the-strategic-ukrainian-port-city-of-mariu">Russia aims to capitalize on controlling the Ukrainian port city of Mariupol</a> NPR: More than a thousand soldiers were evacuated from the Azovstal steel plant, and Russia is consolidating control of Mariupol. It is making plans to annex the southwestern parts of the country. 
- <p class="updated_time"> 06:08 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/chinas-central-bank-makes-unexpected-rate-cut-as-growth-crumbles-11653018753">China Unexpectedly Cuts Key Rate as Growth Crumbles</a> WSJ: China Unexpectedly Cuts Key Rate as Growth Crumbles 
  <p class="updated_time"> 06:07 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/health-61506562?at_medium=RSS&at_campaign=KARANGA">Monkeypox cases investigated in Europe, US, Canada and Australia</a> BBC: Cases of the rare disease are now confirmed in eight European countries, health authorities say. 
  <p class="updated_time"> 04:55 AM CT, May. 20 </p> 
@@ -101,8 +109,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61432762?at_medium=RSS&at_campaign=KARANGA">Australia election: Why is Australia's parliament so white?</a> BBC: Australia is a multicultural country, but critics say those representing the country don't reflect this. 
  <p class="updated_time"> 07:34 PM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61517687?at_medium=RSS&at_campaign=KARANGA">Australia election: Do people trust their PM candidates?</a> BBC: The BBC speaks to voters in Scott Morrison and Anthony Albanese's seats ahead of Saturday's election. 
- <p class="updated_time"> 07:25 PM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/nyregion/monkeypox-case-ny.html">Officials Report a Possible Monkeypox Case in New York</a> NYT: The patient is under care at Bellevue Hospital while further testing is conducted. 
  <p class="updated_time"> 07:23 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/russian-rock-musician-charged.html">Russian Rock Singer Charged After Condemning the Ukraine War</a> NYT: The singer made the comments less than three months after Russia enacted a law that would punish spreading “false information” about its invasion. 
  <p class="updated_time"> 06:40 PM CT, May. 19 </p> 
@@ -133,8 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/19/1100228324/delhi-where-most-people-dont-have-ac-hits-120-degrees-in-south-asian-heat-wave">Delhi — where most people don't have AC — hits 120 degrees in South Asian heat wave</a> NPR: What's it like to try to survive 120-degree heat, without air conditioning? Here's how people are coping in the heart of Delhi. 
  <p class="updated_time"> 03:28 PM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100228310/north-korea-is-reporting-a-major-disease-outbreak-but-its-not-calling-it-covid">North Korea is reporting a major disease outbreak, but it's not calling it COVID</a> NPR: NPR's Mary Louise Kelly talks with Jean Lee, a journalist specializing in North Korea, about the country's report of a major disease outbreak that state media is not calling COVID-19, yet. 
- <p class="updated_time"> 03:28 PM CT, May. 19 </p> 
- <a href="https://www.npr.org/2022/05/19/1100228296/how-the-u-s-and-russia-feel-about-finland-and-sweden-joining-nato">How the U.S. and Russia feel about Finland and Sweden joining NATO</a> NPR: Finland and Sweden have long kept a neutral position between the West and Russia. But that changed after Moscow invaded Ukraine. Today, the leaders of the two Nordic nations were at the White House. 
  <p class="updated_time"> 03:23 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/putin-sanctions-aleksei-navalny.html">Navalny’s Team Lobbies Congress to Place More Sanctions on Putin’s Associates</a> NYT: The activists are pitching sanctions on midlevel officials as a cost-free way for the United States to further isolate the Russian president. 
  <p class="updated_time"> 03:12 PM CT, May. 19 </p> 
@@ -200,6 +204,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:46 AM CT, May. 20 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/asia/samsung-biden-asia-economy.html">In South Korea, Joe Biden Seeks to Rebuild Economic Ties Across Asia</a> NYT: The president began his first Asian visit with a tour of a Samsung plant as he tries to address supply-chain woes and rebuild U.S. manufacturing. 
+ <p class="updated_time"> 11:39 AM CT, May. 20 </p> 
+ <a href="https://www.politico.com/news/2022/05/20/eric-garcettis-parents-register-to-lobby-for-their-sons-ambassador-bid-00034109">Eric Garcetti’s parents register to lobby for their son’s ambassador bid</a> Politico: A new chapter in the joys of parenting. 
+ <p class="updated_time"> 11:35 AM CT, May. 20 </p> 
+ <a href="https://www.politico.com/news/2022/05/20/digital-privacy-abortion-restrictions-00033571">What to know about digital privacy if abortions are restricted</a> Politico: To help make sense of the online world post-Roe, POLITICO answered some key reader questions about data privacy and surveillance. 
  <p class="updated_time"> 10:51 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/supreme-court-tech-industry-shadow-docket-00033907">Conservatives fume over tech industry’s ‘shadow docket’ play</a> Politico: The tech platforms’ conservative foes were caught flat-footed by the companies’ rush to the Supreme Court seeking emergency relief from Texas’ social media law. 
  <p class="updated_time"> 10:48 AM CT, May. 20 </p> 
@@ -214,8 +224,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/us/politics/pennsylvania-election-mccormick-oz.html">A Pennsylvania Election Storm Brews Again, This Time in a G.O.P. Primary</a> NYT: The campaigns of Dr. Mehmet Oz and David McCormick are preparing for the possibility of a bruising recount in a state where memories of Trump-fueled chaos in 2020 are still fresh. 
  <p class="updated_time"> 10:02 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/business/media/karine-jean-pierre-press-secretary.html">Karine Jean-Pierre’s Unlikely Rise to the White House Lectern</a> NYT: The first Black and first openly gay press secretary was raised in an immigrant family with “so many secrets.” Now she occupies one of the most scrutinized jobs in American politics. 
- <p class="updated_time"> 09:56 AM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/asia/biden-asia-samsung-economy.html">In South Korea, Joe Biden Seeks to Rebuild Economic Ties Across Asia</a> NYT: The president began his first Asian visit with a tour of a Samsung plant as he tries to address supply-chain woes and rebuild U.S. manufacturing. 
  <p class="updated_time"> 09:21 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/de-blasio-announces-run-for-open-new-york-congressional-seat-00034058">De Blasio announces run for open New York congressional seat</a> Politico: He served as New York mayor from 2014 to 2021. 
  <p class="updated_time"> 09:05 AM CT, May. 20 </p> 
@@ -257,7 +265,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/recruit-poll-workers-shortage-00033841">Effort to recruit poll workers relaunches amid fears of shortage</a> Politico: Power the Polls is looking to reengage 700,000 people who expressed interest in volunteering during the 2020 election. 
  <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
- <a href="https://www.politico.com/news/2022/05/20/georgia-secretary-of-state-election-trump-00034001">Trump's bid to control election offices hits first battleground</a> Politico: Georgia Secretary of State Brad Raffensperger, who spurned Trump's request to subvert the 2020 election results, is on the ballot Tuesday. 
+ <a href="https://www.politico.com/news/2022/05/20/georgia-secretary-of-state-election-trump-00034001">Trump’s bid to control election offices hits first battleground</a> Politico: Georgia Secretary of State Brad Raffensperger, who spurned Trump’s request to subvert the 2020 election results, is on the ballot Tuesday. 
  <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/democrats-north-carolina-senate-00033887">Democrats confront North Carolina blues</a> Politico: Democrats are debating how far they should go to try to win the Tar Heel State, where they haven't won a Senate race since 2008. 
  <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
@@ -280,10 +288,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/19/california-offshore-drilling-ban-legislation-00033905">California won't ban offshore drilling after legislation stalls</a> Politico: The bill, inspired by last fall's oil spill off the Orange County coast, had steep opposition from the fossil fuel industry and its labor allies. 
  <p class="updated_time"> 06:22 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/james-baker-fbi-michael-sussmann-00033963">Former FBI official recounts alleged lie at heart of Sussmann trial</a> Politico: Former Bureau General Counsel James Baker described a meeting where attorney Michael Sussmann relayed suspicions about a Trump server. 
+ <p class="updated_time"> 06:12 PM CT, May. 19 </p> 
+ <a href="https://www.politico.com/news/2022/05/19/oz-mccormick-pa-senate-race-00033961">Oz, McCormick unleash army of lawyers in Pa. Senate race</a> Politico: Both Oz and McCormick have enlisted alumni from Trump’s 2020 campaign to prepare for a potential recount. 
  <p class="updated_time"> 06:02 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/baby-formula-production-white-house.html">White House Struggles to Explain Baby Formula Production Plan</a> NYT: A day after invoking the Defense Production Act to help alleviate a nationwide shortage, administration officials had few answers for how the law would lead to more supply. 
- <p class="updated_time"> 05:14 PM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/us/2020-census-miscount-states.html">Census Miscounted the Population of 14 States, a Review Shows</a> NYT: The coronavirus pandemic, hurricanes and political attitudes might have contributed to an undercount in six states, mostly in the South. The census likely overcounted in eight others. 
  <p class="updated_time"> 04:33 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/georgia-primary-early-voters.html">In Georgia Primary, Over 600,000 People Have Already Voted</a> NYT: Early voting in the state ends on Friday evening. 
  <p class="updated_time"> 04:29 PM CT, May. 19 </p> 
@@ -348,8 +356,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/05/18/cawthorns-out-maloneys-in-a-mess-00033351">Cawthorn's out, Maloney's in a mess</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:17 AM CT, May. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/18/takeaways-from-the-biggest-primary-night-of-the-year-00033345"> Takeaways from the biggest primary night of the year</a> Politico Playbook: As New York pols deal with the fallout from the newly drawn congressional map. 
- <p class="updated_time"> 01:57 AM CT, May. 18 </p> 
- <a href="https://www.politico.com/news/2022/05/18/pennsylvania-north-carolina-oregon-primary-election-takeaways-00033339">'Beware what you wish for': 5 takeaways from a key primary night</a> Politico: Mastriano rises, Cawthorn falls and progressives are back in business. 
  <p class="updated_time"> 07:52 PM CT, May. 17 </p> 
  <a href="https://www.politico.com/news/2022/05/17/maloney-dccc-jones-new-york-00033277">Dems question whether Maloney can run DCCC while battling freshman colleague</a> Politico: The matchup isn't final, but many in the party are publicly and privately raising questions about Rep. Sean Patrick Maloney's decision to run in a certain New York district. 
  <p class="updated_time"> 05:27 PM CT, May. 17 </p> 
