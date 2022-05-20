@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:23 PM CT, May. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61527595?at_medium=RSS&at_campaign=KARANGA">Camille Vasquez: Johnny Depp's lawyer becomes an internet celebrity</a> BBC: The young lawyer has caught the internet's attention for her grilling of Amber Heard on the stand. 
  <p class="updated_time"> 12:09 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/article/what-is-monkeypox.html">What Is Monkeypox?</a> NYT: There have been dozens of cases reported in recent weeks among populations not typically vulnerable to the disease. 
+ <p class="updated_time"> 12:08 PM CT, May. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-61521569?at_medium=RSS&at_campaign=KARANGA">MI5 agent's violence and abuse horrific - Deputy PM</a> BBC: An MI5 agent used his secret status to terrorise his partner, a BBC investigation has found. 
  <p class="updated_time"> 12:07 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/europe/britain-eu-northern-ireland-protocol-washington.html">Washington Warns Britain to Temper Its Spat With E.U. Over Northern Ireland</a> NYT: A senior U.S. diplomat urged London and Brussels to discreetly resolve their disputes, citing the need to unify the West behind Ukraine amid Russia’s onslaught. 
+ <a href="https://www.nytimes.com/2022/05/20/world/europe/washington-eu-britain-northern-ireland.html">Washington Warns Britain to Temper Its Spat With E.U. Over Northern Ireland</a> NYT: A senior U.S. diplomat urged London and Brussels to discreetly resolve their disputes, citing the need to unify the West behind Ukraine amid Russia’s onslaught. 
  <p class="updated_time"> 12:03 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/19/nyregion/monkeypox-case-ny.html">Officials Report a Possible Monkeypox Case in New York</a> NYT: The patient is under care at Bellevue Hospital while further testing is conducted. 
  <p class="updated_time"> 11:55 AM CT, May. 20 </p> 
@@ -21,39 +25,37 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/05/20/world/russia-ukraine-war">Ukraine Live Updates: Russia Vows to Halt Gas Exports to Finland as War’s Fallout Spreads</a> NYT: Finland’s state energy provider said Russia had cited the company’s failure to pay in rubles, but Moscow is also angry over Finnish moves to join NATO. Gerhard Schröder, the former German chancellor, is stepping down as chair of the board of the Russian state-controlled oil giant Rosneft. 
  <p class="updated_time"> 11:46 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/asia/samsung-biden-asia-economy.html">In South Korea, Joe Biden Seeks to Rebuild Economic Ties Across Asia</a> NYT: The president began his first Asian visit with a tour of a Samsung plant as he tries to address supply-chain woes and rebuild U.S. manufacturing. 
+ <p class="updated_time"> 11:40 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukrainian-families-risk-their-lives-to-escape-russian-occupation-11653039001">Ukrainian Families Risk Their Lives to Escape Russian Occupation</a> WSJ: Ukrainian Families Risk Their Lives to Escape Russian Occupation 
  <p class="updated_time"> 11:19 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/us-covid-deaths.html">U.S. Surpasses 1 Million Known Covid Deaths</a> NYT: While Covid stole lives from all strata of society, it magnified disparities based on factors like sex, age, health care access, income and housing. 
- <p class="updated_time"> 11:16 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/ukrainian-families-risk-their-lives-to-escape-russian-occupation-11653039001">Ukrainian Families Risk Their Lives to Escape Russian Occupation</a> WSJ: Ukrainian Families Risk Their Lives to Escape Russian Occupation 
  <p class="updated_time"> 11:00 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1099673892/supreme-court-philippines-marcos-petition">Philippine Supreme Court petition seeks to cancel candidacy of President-elect Marcos</a> NPR: The petition, filed Tuesday, seeks to disqualify Ferdinand Marcos Jr.'s candidacy post-election on the grounds that he lied about not committing any crimes — a requirement to run for president. 
+ <p class="updated_time"> 10:40 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-will-fight-until-all-russian-forces-are-expelled-military-intelligence-chief-says-11653046810">Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says</a> WSJ: Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says 
  <p class="updated_time"> 10:24 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100256260/finland-sweden-nato-putin-biden-ukraine-russia">Two versions of history collide as Finland and Sweden seek to join NATO</a> NPR: Finland and Sweden have long kept a careful balance — and neutral position — between the West and Russia. But that changed after Moscow invaded Ukraine. 
- <p class="updated_time"> 10:16 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-will-fight-until-all-russian-forces-are-expelled-military-intelligence-chief-says-11653046810">Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says</a> WSJ: Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says 
  <p class="updated_time"> 10:16 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61526110?at_medium=RSS&at_campaign=KARANGA">Johnny Depp was jealous and controlling, ex-girlfriend Ellen Barkin says</a> BBC: Testimony from the actress, one of Johnny Depp's ex-girlfriends and co-stars, is played in court. 
  <p class="updated_time"> 09:40 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61526896?at_medium=RSS&at_campaign=KARANGA">US Secret Service: Two sent home after 'incident' in South Korea</a> BBC: The pair were involved in an off-duty incident in South Korea ahead of US President Biden's visit. 
+ <p class="updated_time"> 09:40 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425">Russian Soldier Didn’t Commit Murder, His Lawyer Says</a> WSJ: Russian Soldier Didn’t Commit Murder, His Lawyer Says 
  <p class="updated_time"> 09:30 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/un-china-michelle-bachelet.html">U.N. Human Rights Chief to Make First Trip to China Since 2005</a> NYT: Rights groups say Michelle Bachelet’s trip, including a visit to the western Chinese region of Xinjiang, where Beijing has cracked down on the Uyghur minority, will be a test of her office’s credibility. 
- <p class="updated_time"> 09:16 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425">Russian Soldier Didn’t Commit Murder, His Lawyer Says</a> WSJ: Russian Soldier Didn’t Commit Murder, His Lawyer Says 
  <p class="updated_time"> 09:10 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/global-pandemic-preparation.html">The World Is as Vulnerable as Ever to Pandemics, an Expert Panel Concludes</a> NYT: The authors of the new report zeroed in on the uneven distribution of vaccines around the world as one of the major hurdles to overcome. 
+ <p class="updated_time"> 08:40 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/russian-inflation-makes-u-s-price-rises-look-tame-11653047287">Russian Inflation Makes U.S. Price Rises Look Tame</a> WSJ: Russian Inflation Makes U.S. Price Rises Look Tame 
  <p class="updated_time"> 08:19 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61524376?at_medium=RSS&at_campaign=KARANGA">Ukraine says giant Zaporizhzhia nuclear plant can't supply Russia</a> BBC: Russia occupies Europe's biggest nuclear plant and now wants to sell power from it back to Ukraine. 
- <p class="updated_time"> 08:16 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/russian-inflation-makes-u-s-price-rises-look-tame-11653047287">Russian Inflation Makes U.S. Price Rises Look Tame</a> WSJ: Russian Inflation Makes U.S. Price Rises Look Tame 
  <p class="updated_time"> 08:08 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/biden-trip-asia.html">Biden Begins Trip to Asia Meant to Reassure Allies of Focus on China</a> NYT: With the administration’s attention having shifted to Ukraine, President Biden plans to emphasize that the United States can counter aggression in both Europe and Asia. 
- <p class="updated_time"> 08:07 AM CT, May. 20 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-61521569?at_medium=RSS&at_campaign=KARANGA">MI5 agent's violence and abuse horrific - Deputy PM</a> BBC: An MI5 agent used his secret status to terrorise his partner, a BBC investigation has found. 
  <p class="updated_time"> 08:00 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/africa/somalia-free-ambulance.html">Free Ambulances in Mogadishu, Thanks to Aamin Ambulance</a> NYT: Dismayed that victims of the incessant violence in Somalia’s capital were being rolled to hospitals on wooden carts and in wheelbarrows, a dentist decided to do something about it. 
  <p class="updated_time"> 07:40 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100290734/delivery-robot-woods-northampton-england-united-kingdom">A delivery robot creates a poetic moment in the woods of England</a> NPR: Matthew McCormack, a history professor in Northampton, U.K., encountered something unexpected while cycling in the woods: a wandering delivery robot. 
- <p class="updated_time"> 07:16 AM CT, May. 20 </p> 
+ <p class="updated_time"> 07:40 AM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/chinas-central-bank-makes-unexpected-rate-cut-as-growth-crumbles-11653018753">China Unexpectedly Cuts Key Rate as Growth Crumbles</a> WSJ: China Unexpectedly Cuts Key Rate as Growth Crumbles 
  <p class="updated_time"> 07:06 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/asia/sri-lanka-protests.html">In Pictures: Sri Lanka’s Protesters Remain Defiant</a> NYT: As the pain of an economic crisis deepens, a nation’s anger and desperation are visible. 
@@ -204,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:14 PM CT, May. 20 </p> 
+ <a href="https://www.politico.com/news/2022/05/20/clinton-campaign-manager-denies-approving-passing-anti-trump-info-to-fbi-00034115">Clinton 2016 campaign manager denies approving passing anti-Trump info to FBI</a> Politico: Robby Mook told jurors that he would have opposed taking the allegations to the FBI because the campaign had no faith in the bureau after the FBI’s then-director James Comey publicly blasted Clinton. 
  <p class="updated_time"> 11:46 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/asia/samsung-biden-asia-economy.html">In South Korea, Joe Biden Seeks to Rebuild Economic Ties Across Asia</a> NYT: The president began his first Asian visit with a tour of a Samsung plant as he tries to address supply-chain woes and rebuild U.S. manufacturing. 
  <p class="updated_time"> 11:39 AM CT, May. 20 </p> 
@@ -276,8 +280,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/gallery/2022/05/20/the-nations-cartoonists-on-the-week-in-politics-00033957">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 10:22 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/biden-finland-sweden-nato.html">Biden Seeks Swift Effort to Bring Finland and Sweden Into NATO</a> NYT: Speedy approval seems likely among most members of the alliance in the wake of Russia’s invasion of Ukraine, but Turkey’s objections remain a sticking point. 
- <p class="updated_time"> 09:08 PM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/us/politics/senate-passes-ukraine-aid.html">The Senate Approves $40 Billion in New Aid to Ukraine</a> NYT: The measure’s smooth path through Congress reflected a broad consensus on Capitol Hill, for now, to devote massive sums to supporting Ukraine’s war effort with little debate. 
  <p class="updated_time"> 07:23 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/boeing-crew-capsule-launch-test-redo-00033987">Boeing crew capsule launches to space station on test redo</a> Politico: It’s Boeing’s third shot at the high-stakes flight demo. 
  <p class="updated_time"> 06:59 PM CT, May. 19 </p> 
@@ -322,8 +324,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/19/canada-looking-to-rekindle-relations-with-beijing-00033798">Joly: Canada is working to rekindle relations with Beijing</a> Politico: Foreign minister tells POLITICO that Canada's long-waited Indo-Pacific strategy will be released in the “coming weeks” 
  <p class="updated_time"> 02:03 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/gop-lawmaker-capitol-tour-jan-6-00033846">GOP lawmaker acknowledges letting people into Capitol complex day before Jan. 6 attack</a> Politico: Rep. Barry Loudermilk of Georgia, contacted by the select committee investigating the attack, said no member of the group “has been investigated or charged in connection to January 6th.” 
- <p class="updated_time"> 01:59 PM CT, May. 19 </p> 
- <a href="https://www.politico.com/news/2022/05/19/google-meeting-republican-senators-emails-00033834">GOP senators' private meeting with Google turns tense over email bias claims</a> Politico: Republicans had invited a Google executive to explain allegations that the company had disproportionately targeted GOP emails as spam. 
  <p class="updated_time"> 01:27 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/herschel-walker-abortion-ban.html">Herschel Walker Says He Wants a Ban on Abortion With No Exceptions </a> NYT: On Wednesday, Mr. Walker called for more money to promote adoption and to support single fathers and single mothers. 
  <p class="updated_time"> 01:07 PM CT, May. 19 </p> 
