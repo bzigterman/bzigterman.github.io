@@ -9,8 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:42 PM CT, May. 20 </p> 
+ <p class="updated_time"> 02:56 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/05/20/world/russia-ukraine-war">Ukraine Live Updates: Russia Vows to Halt Gas Exports to Finland as War’s Fallout Spreads</a> NYT: Finland’s state energy provider said Russia had cited the company’s failure to pay in rubles, but Moscow is also angry over Finnish moves to join NATO. Gerhard Schröder, the former German chancellor, is stepping down as chair of the board of the Russian state-controlled oil giant Rosneft. 
+ <p class="updated_time"> 02:48 PM CT, May. 20 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/todayspaper/ukraine-kharkiv-russia.html">Forced From Kharkhiv, Russian Troops Regroup and Dig in</a> NYT: Outside of Kharkiv, Russian forces are entrenching themselves for the long haul. “There is a whole underground city there,” a Ukrainian officer said. 
+ <p class="updated_time"> 02:44 PM CT, May. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61524175?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What might tip the balance?</a> BBC: The conflict has become a grinding and bloody affair, with both sides making gains and losses. 
  <p class="updated_time"> 02:09 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61529874?at_medium=RSS&at_campaign=KARANGA">France's mustard shortage leaves sour taste</a> BBC: The price of the condiment is up 10% due to poor harvests and the impact of the war in Ukraine. 
  <p class="updated_time"> 02:02 PM CT, May. 20 </p> 
@@ -19,15 +23,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/australia/federal-election.html">Australia’s Election: What to Watch</a> NYT: While voters are most focused on cost-of-living issues, the opposition Labor Party has made the election a referendum on the conduct of Prime Minister Scott Morrison. 
  <p class="updated_time"> 01:59 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-azov-mariupol-trials.html">How Russia Uses Show Trials to Punish Putin’s Enemies</a> NYT: Moscow may label the Azov fighters who defended the Mariupol steel plant as terrorists — raising the prospect of a high-profile trial. The Kremlin has a long tradition of using the courts for political goals. 
- <p class="updated_time"> 01:47 PM CT, May. 20 </p> 
+ <p class="updated_time"> 01:59 PM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/ukrainian-families-risk-their-lives-to-escape-russian-occupation-11653039001">Ukrainian Families Risk Their Lives to Escape Russian Occupation</a> WSJ: Ukrainian Families Risk Their Lives to Escape Russian Occupation 
  <p class="updated_time"> 01:37 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/asia/samsung-biden-asia-economy.html">In South Korea, Joe Biden Seeks to Rebuild Economic Ties Across Asia</a> NYT: The president plans to unveil a new regional economic framework, but some in the region wonder whether it will be an empty exercise. 
  <p class="updated_time"> 01:16 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/bbc-mi5.html">BBC Allowed to Publish Accusations of Abuse Against MI5 Agent</a> NYT: The news organization found that evidence suggested an agent for the domestic intelligence agency had a history of right-wing extremism and was abusive toward women, but it wasn’t allowed to fully identify him. 
- <p class="updated_time"> 12:51 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/todayspaper/ukraine-kharkiv-russia.html">Forced Out of Kharkhiv, Russian Troops Regroup and Dig in</a> NYT: Outside of Kharkiv, Russian forces are entrenching themselves for the long haul. “There is a whole underground city there,” a Ukrainian officer said. 
- <p class="updated_time"> 12:47 PM CT, May. 20 </p> 
+ <p class="updated_time"> 12:59 PM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/ukraine-will-fight-until-all-russian-forces-are-expelled-military-intelligence-chief-says-11653046810">Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says</a> WSJ: Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says 
  <p class="updated_time"> 12:40 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/article/what-is-monkeypox.html">What Is Monkeypox?</a> NYT: There have been dozens of cases reported in recent weeks among populations not typically vulnerable to the disease. 
@@ -37,19 +39,19 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/europe/washington-eu-britain-northern-ireland.html">Washington Warns Britain to Temper Its Spat With E.U. Over Northern Ireland</a> NYT: A senior U.S. diplomat urged London and Brussels to discreetly resolve their disputes, citing the need to unify the West behind Ukraine amid Russia’s onslaught. 
  <p class="updated_time"> 12:03 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/19/nyregion/monkeypox-case-ny.html">Officials Report a Possible Monkeypox Case in New York</a> NYT: The patient is under care at Bellevue Hospital while further testing is conducted. 
+ <p class="updated_time"> 11:59 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425">Russian Soldier Didn’t Commit Murder, His Lawyer Says</a> WSJ: Russian Soldier Didn’t Commit Murder, His Lawyer Says 
  <p class="updated_time"> 11:55 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100388409/taliban-female-tv-anchors-cover-faces-order-afghanistan">The Taliban say Afghan female TV anchors must cover their faces on air</a> NPR: The order came from the Taliban's Virtue and Vice Ministry as well as from the Information and Culture Ministry. Earlier this month, the Taliban ordered women in public to wear head-to-toe clothing. 
- <p class="updated_time"> 11:47 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425">Russian Soldier Didn’t Commit Murder, His Lawyer Says</a> WSJ: Russian Soldier Didn’t Commit Murder, His Lawyer Says 
  <p class="updated_time"> 11:00 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1099673892/supreme-court-philippines-marcos-petition">Philippine Supreme Court petition seeks to cancel candidacy of President-elect Marcos</a> NPR: The petition, filed Tuesday, seeks to disqualify Ferdinand Marcos Jr.'s candidacy post-election on the grounds that he lied about not committing any crimes — a requirement to run for president. 
- <p class="updated_time"> 10:47 AM CT, May. 20 </p> 
+ <p class="updated_time"> 10:59 AM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/russian-inflation-makes-u-s-price-rises-look-tame-11653047287">Russian Inflation Makes U.S. Price Rises Look Tame</a> WSJ: Russian Inflation Makes U.S. Price Rises Look Tame 
  <p class="updated_time"> 10:24 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100256260/finland-sweden-nato-putin-biden-ukraine-russia">Two versions of history collide as Finland and Sweden seek to join NATO</a> NPR: Finland and Sweden have long kept a careful balance — and neutral position — between the West and Russia. But that changed after Moscow invaded Ukraine. 
  <p class="updated_time"> 10:16 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61526110?at_medium=RSS&at_campaign=KARANGA">Johnny Depp was jealous and controlling, ex-girlfriend Ellen Barkin says</a> BBC: Testimony from the actress, one of Johnny Depp's ex-girlfriends and co-stars, is played in court. 
- <p class="updated_time"> 09:47 AM CT, May. 20 </p> 
+ <p class="updated_time"> 09:59 AM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/chinas-central-bank-makes-unexpected-rate-cut-as-growth-crumbles-11653018753">China Unexpectedly Cuts Key Rate as Growth Crumbles</a> WSJ: China Unexpectedly Cuts Key Rate as Growth Crumbles 
  <p class="updated_time"> 09:40 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61526896?at_medium=RSS&at_campaign=KARANGA">US Secret Service: Two sent home after 'incident' in South Korea</a> BBC: The pair were involved in an off-duty incident in South Korea ahead of US President Biden's visit. 
