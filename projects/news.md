@@ -9,8 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:33 PM CT, May. 20 </p> 
+ <p class="updated_time"> 04:48 PM CT, May. 20 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/haiti-history-colonized-france.html">The Root of Haiti’s Misery: Reparations to Enslavers</a> NYT: In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now. 
+ <p class="updated_time"> 04:47 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/05/20/world/russia-ukraine-war">Ukraine Live Updates: Russia Vows to Halt Gas Exports to Finland as War’s Fallout Spreads</a> NYT: Finland’s state energy provider said Russia had cited the company’s failure to pay in rubles, but Moscow is also angry over Finnish moves to join NATO. Gerhard Schröder, the former German chancellor, is stepping down as chair of the board of the Russian state-controlled oil giant Rosneft. 
+ <p class="updated_time"> 04:47 PM CT, May. 20 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-ukraine-recruitment-finland.html">Russia Hustles to Recruit Soldiers and Halts Gas Supplies to Finland</a> NYT: The war has evolved into something of a stalemate that has seriously depleted Russia’s conventional war capabilities, even as it has made some gains. 
+ <p class="updated_time"> 04:43 PM CT, May. 20 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/americas/haiti-bibliography.html">The Ransom: A Look Under the Hood</a> NYT: Thousands of pages of original documents, and hundreds of books and articles. Here are the historians and researchers on which the Haiti project drew. 
  <p class="updated_time"> 04:33 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61526898?at_medium=RSS&at_campaign=KARANGA">Elon Musk denies sexual misconduct allegations</a> BBC: A report claims Musk's company SpaceX paid an employee $250,000 to settle the claim against him. 
  <p class="updated_time"> 04:29 PM CT, May. 20 </p> 
@@ -19,8 +25,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/french-banks-haiti-cic.html">How a French Bank Captured Haiti</a> NYT: It helped finance the Eiffel Tower as it drained millions from Haiti. The bank, C.I.C., won’t talk about it, but The Times tracked how much its investors made — and what Haiti lost. 
  <p class="updated_time"> 04:29 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/australia/australia-election-guide.html">A Guide to Australia’s Election</a> NYT: Election Day has arrived. Here’s what to watch. 
- <p class="updated_time"> 04:29 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/haiti-history-colonized-france.html">The Root of Haiti’s Misery: Reparations to Enslavers</a> NYT: In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now. 
  <p class="updated_time"> 04:26 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/americas/takeaways-haiti-reparations-france.html">How Much Haiti’s Freedom Cost: Takeaways From a Times Series</a> NYT: How did the modern world’s most successful slave revolt give birth to a desperately poor nation? Here is a summary of what a team of New York Times correspondents found out. 
  <p class="updated_time"> 04:21 PM CT, May. 20 </p> 
@@ -33,14 +37,14 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/20/1100477111/warsaw-mayor-pleads-for-a-strategic-plan-as-city-continues-to-welcome-refugees">Warsaw mayor pleads for a strategic plan as city continues to welcome refugees</a> NPR: NPR's Ari Shapiro talks with the mayor of Warsaw, Poland, about how his city is managing the influx of Ukrainian refugees. He says Warsaw's population went up by 15% since the outset of the conflict. 
  <p class="updated_time"> 03:54 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100363815/russia-ukraine-war-what-happened-today-may-20">Russia-Ukraine war: What happened today (May 20)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:53 PM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/germany-warns-falling-euro-could-push-inflation-even-higher-11653063148">Germany Warns Falling Euro Could Push Inflation Even Higher</a> WSJ: Germany Warns Falling Euro Could Push Inflation Even Higher 
  <p class="updated_time"> 03:52 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100459262/giant-sinkhole-china-ancient-forest">Scientists discover an ancient forest inside a giant sinkhole in China</a> NPR: The sinkhole spans an area nearly three football fields long and is deep enough to hide the Washington Monument. Explorers descended into the pit, where they found ancient trees and other plant life. 
  <p class="updated_time"> 03:51 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/article/what-is-monkeypox.html">What Is Monkeypox?</a> NYT: There have been dozens of cases reported in recent weeks among populations not typically vulnerable to the disease. 
  <p class="updated_time"> 03:49 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100477075/biden-aims-to-take-on-china-by-boosting-economic-ties-between-u-s-and-south-kore">Biden aims to take on China by boosting economic ties between U.S. and South Korea</a> NPR: President Biden wants to counter the economic might of China. He visited a semiconductor plant outside Seoul to kick off a trip aimed at his top foreign policy priority. 
- <p class="updated_time"> 03:41 PM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/germany-warns-falling-euro-could-push-inflation-even-higher-11653063148">Germany Warns Falling Euro Could Push Inflation Even Higher</a> WSJ: Germany Warns Falling Euro Could Push Inflation Even Higher 
  <p class="updated_time"> 03:40 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-ukraine-arconic-samara.html">U.S. Company Supplying Russian Military Seeks Exit, Caught Between Sanctions and Kremlin</a> NYT: Arconic runs a huge Russian metal plant, bought in an era of cooperation between the U.S. and Russia. Now it is struggling, after years of increasing Russian military aggression. 
  <p class="updated_time"> 03:35 PM CT, May. 20 </p> 
@@ -59,10 +63,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/middleeast/israel-coalition-netanyahu.html">Chaos in Israel Gives New Chance to Old Face: Benjamin Netanyahu</a> NYT: Mr. Netanyahu, Israel’s longest-serving prime minister, lost office last summer. Now the coalition that replaced him is crumbling — potentially leading to new elections that could return him to power. 
  <p class="updated_time"> 02:59 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1099934998/spoken-word-and-sonic-rituals-east-la-exhibit-features-latinx-artists-using-soun">Spoken word and sonic rituals: East LA exhibit features Latinx artists using sound</a> NPR: The exhibition spans decades and includes spoken word performances, sound rituals and installations by Chicano and Puerto Rican artists. 
+ <p class="updated_time"> 02:53 PM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-will-fight-until-all-russian-forces-are-expelled-military-intelligence-chief-says-11653046810">Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says</a> WSJ: Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says 
  <p class="updated_time"> 02:44 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61524175?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What might tip the balance?</a> BBC: The conflict has become a grinding and bloody affair, with both sides making gains and losses. 
- <p class="updated_time"> 02:41 PM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-will-fight-until-all-russian-forces-are-expelled-military-intelligence-chief-says-11653046810">Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says</a> WSJ: Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says 
  <p class="updated_time"> 02:09 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61529874?at_medium=RSS&at_campaign=KARANGA">France's mustard shortage leaves sour taste</a> BBC: The price of the condiment is up 10% due to poor harvests and the impact of the war in Ukraine. 
  <p class="updated_time"> 02:02 PM CT, May. 20 </p> 
@@ -71,13 +75,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/australia/federal-election.html">Australia’s Election: What to Watch</a> NYT: While voters are most focused on cost-of-living issues, the opposition Labor Party has made the election a referendum on the conduct of Prime Minister Scott Morrison. 
  <p class="updated_time"> 01:59 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-azov-mariupol-trials.html">How Russia Uses Show Trials to Punish Putin’s Enemies</a> NYT: Moscow may label the Azov fighters who defended the Mariupol steel plant as terrorists — raising the prospect of a high-profile trial. The Kremlin has a long tradition of using the courts for political goals. 
- <p class="updated_time"> 01:41 PM CT, May. 20 </p> 
+ <p class="updated_time"> 01:53 PM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425">Russian Soldier Didn’t Commit Murder, His Lawyer Says</a> WSJ: Russian Soldier Didn’t Commit Murder, His Lawyer Says 
  <p class="updated_time"> 01:37 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/asia/samsung-biden-asia-economy.html">In South Korea, Joe Biden Seeks to Rebuild Economic Ties Across Asia</a> NYT: The president plans to unveil a new regional economic framework, but some in the region wonder whether it will be an empty exercise. 
  <p class="updated_time"> 01:16 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/bbc-mi5-agent-abuse-accusations.html">BBC Allowed to Publish Accusations of Abuse Against MI5 Agent</a> NYT: The news organization found that evidence suggested an agent for the domestic intelligence agency had a history of right-wing extremism and was abusive toward women, but it wasn’t allowed to fully identify him. 
- <p class="updated_time"> 12:41 PM CT, May. 20 </p> 
+ <p class="updated_time"> 12:53 PM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/a-california-church-shooting-highlights-a-bitter-divide-among-taiwanese-11653077718">A California Church Shooting Highlights a Bitter Divide Among Taiwanese</a> WSJ: A California Church Shooting Highlights a Bitter Divide Among Taiwanese 
  <p class="updated_time"> 12:23 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61527595?at_medium=RSS&at_campaign=KARANGA">Camille Vasquez: Johnny Depp's lawyer becomes an internet celebrity</a> BBC: The young lawyer has caught the internet's attention for her grilling of Amber Heard on the stand. 
@@ -87,7 +91,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/nyregion/monkeypox-case-ny.html">Officials Report a Possible Monkeypox Case in New York</a> NYT: The patient is under care at Bellevue Hospital while further testing is conducted. 
  <p class="updated_time"> 11:55 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100388409/taliban-female-tv-anchors-cover-faces-order-afghanistan">The Taliban say Afghan female TV anchors must cover their faces on air</a> NPR: The order came from the Taliban's Virtue and Vice Ministry as well as from the Information and Culture Ministry. Earlier this month, the Taliban ordered women in public to wear head-to-toe clothing. 
- <p class="updated_time"> 11:41 AM CT, May. 20 </p> 
+ <p class="updated_time"> 11:53 AM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-appoints-new-government-in-political-rebalancing-effort-11653066608">France’s Macron Appoints New Government in Balancing Act</a> WSJ: France’s Macron Appoints New Government in Balancing Act 
  <p class="updated_time"> 11:00 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1099673892/supreme-court-philippines-marcos-petition">Philippine Supreme Court petition seeks to cancel candidacy of President-elect Marcos</a> NPR: The petition, filed Tuesday, seeks to disqualify Ferdinand Marcos Jr.'s candidacy post-election on the grounds that he lied about not committing any crimes — a requirement to run for president. 
@@ -209,8 +213,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61485009?at_medium=RSS&at_campaign=KARANGA">Baby formula shortage: Experts urge parents not to make homebrews</a> BBC: Desperate mothers are trying to mix their own baby formula, but experts warn of the dangers. 
  <p class="updated_time"> 06:02 PM CT, May. 18 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61300986?at_medium=RSS&at_campaign=KARANGA">Meet Gleb and Ukraine’s youth orchestra in exile in Slovenia</a> BBC: A large group of talented young musicians and their families have been evacuated out of Ukraine into Slovenia. 
- <p class="updated_time"> 03:19 PM CT, May. 18 </p> 
- <a href="https://www.nytimes.com/2022/05/18/world/europe/sweden-finland-nato-turkey-oil.html">Strongmen in Turkey and Hungary Stall Unity in NATO and the E.U.</a> NYT: Russia benefits as Turkey slows down Swedish and Finnish applications to NATO and Hungary continues to block an E.U. embargo on Russian oil. 
  <p class="updated_time"> 11:13 AM CT, May. 18 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/kharkiv-ukraine-russia-photos.html">Around Kharkiv, Ukrainians Emerge to Find Lives in Ruin</a> NYT: After sheltering underground since February, residents of the beseiged city have finally been able to to assess the damage the Russians left behind. The discoveries have been grisly. 
 
@@ -220,8 +222,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:13 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/us/politics/cdc-second-booster.html">C.D.C Says Adults 50 and Over Should Get Second Booster Shot</a> NYT: Previously, the agency said those 50 and older could opt for the additional shot, but only encouraged people over 65 or with underlying medical conditions to get it. 
+ <p class="updated_time"> 04:46 PM CT, May. 20 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/us/politics/cdc-second-booster.html">C.D.C Says Adults 50 and Over Should Get Second Booster Shot</a> NYT: Previously, the agency said those 50 and older could opt for the additional shot, but encouraged only people over 65 or with underlying medical conditions to get it. 
  <p class="updated_time"> 04:02 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100477118/tens-of-thousands-of-asylum-seekers-still-await-the-end-of-the-pandemic-border-p">Tens of thousands of asylum seekers still await the end of the pandemic border policy</a> NPR: Tens of thousands of asylum seekers are in limbo waiting for a U.S. court to rule on the White House's proposal to drop Title 42, which bars them from entering the U.S. over pandemic concerns. 
  <p class="updated_time"> 04:02 PM CT, May. 20 </p> 
