@@ -9,36 +9,36 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:18 AM CT, May. 20 </p> 
+ <p class="updated_time"> 05:39 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/05/20/world/russia-ukraine-war">Live Updates: Russia Appears to Shake Up Military Command</a> NYT: Moscow also moved to fortify control over parts of southeastern Ukraine. 
  <p class="updated_time"> 05:18 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/05/19/world/prince-charles-canada-visit">Prince Charles and Camilla Visit Canada, Confronting Legacy of the Crown</a> NYT: Prince Charles acknowledged the “suffering” of the Indigenous community in a visit to the Northwest Territories on the last day of his three-day tour of the country, where polls suggest there is little support for the monarchy. 
  <p class="updated_time"> 04:55 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/hungary-russia-oil.html">In Hungary, Cheap Russian Oil Fuels Right-Wing Culture Wars</a> NYT: Prime Minister Viktor Orban has resisted a proposed E.U. embargo of Russian oil, saying it would devastate his country’s economy, but it would also cut off a source of funds for his political allies. 
+ <p class="updated_time"> 04:44 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-war-end-11652967707">Can Ukraine Win? Five Scenarios for the War’s Next Phase</a> WSJ: Can Ukraine Win? Five Scenarios for the War’s Next Phase 
  <p class="updated_time"> 04:28 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61519794?at_medium=RSS&at_campaign=KARANGA">Argentina found guilty of massacre of Qom and Moqoit people</a> BBC: A landmark court case orders historical reparations for the killing of more than 400 people in 1924. 
- <p class="updated_time"> 04:24 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-end-11652967707">Can Ukraine Win? Five Scenarios for the War’s Next Phase</a> WSJ: Can Ukraine Win? Five Scenarios for the War’s Next Phase 
  <p class="updated_time"> 04:00 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1099876370/ukraine-russia-poland-border-return">Millions rushed to leave Ukraine. Now the queue to return home stretches for miles</a> NPR: If you want to get into Ukraine by vehicle, you might have to wait hours at the Medyka border, where people sit in a line of cars that stretches for miles and takes hours to move. 
  <p class="updated_time"> 04:00 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1099830501/smallpox-covid-vaccine-eradication-who">How Rahima came to hold a special place in smallpox history — and help ensure its end</a> NPR: Scientists went to extraordinary lengths to eradicate smallpox from the world. Rahima Banu is now recorded as having the last known naturally-occurring case of the deadly form. 
  <p class="updated_time"> 04:00 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/asia/china-lockdown-migration.html">As China Doubles Down on Lockdowns, Some Chinese Seek an Exit</a> NYT: Inquiries to immigration consultants have surged; social media users trade tips on how to get abroad. But the government aims to “strictly restrict nonessential exit activities.” 
+ <p class="updated_time"> 03:44 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/europes-natural-gas-buyers-defuse-standoff-with-kremlin-over-ruble-payments-11652986818">Europe’s Gas Buyers Defuse Standoff With Kremlin Over Ruble Payments</a> WSJ: Europe’s Gas Buyers Defuse Standoff With Kremlin Over Ruble Payments 
  <p class="updated_time"> 03:38 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61514850?at_medium=RSS&at_campaign=KARANGA">Vangelis: Chariots of Fire and Blade Runner composer dies at 79</a> BBC: The Greek star's Oscar-winning film scores and electronic works created "a new musical landscape". 
- <p class="updated_time"> 03:24 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/europes-natural-gas-buyers-defuse-standoff-with-kremlin-over-ruble-payments-11652986818">Europe’s Gas Buyers Defuse Standoff With Kremlin Over Ruble Payments</a> WSJ: Europe’s Gas Buyers Defuse Standoff With Kremlin Over Ruble Payments 
- <p class="updated_time"> 02:24 AM CT, May. 20 </p> 
+ <p class="updated_time"> 02:44 AM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/sweden-finland-weigh-cyber-risks-stemming-from-nato-applications-11652980082">Sweden, Finland Weigh Cyber Risks Stemming From NATO Applications</a> WSJ: Sweden, Finland Weigh Cyber Risks Stemming From NATO Applications 
+ <p class="updated_time"> 01:44 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
  <p class="updated_time"> 01:36 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100326160/sri-lanka-closes-schools-limits-work-amid-fuel-shortage">Sri Lanka closes schools and limits work to combat fuel shortage</a> NPR: Sri Lankan authorities closed schools and asked public officials not to come to work in a desperate move to prepare for an acute fuel shortage during the nation's worst economic crisis in decades. 
- <p class="updated_time"> 01:24 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
+ <p class="updated_time"> 12:44 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/israeli-government-teeters-on-brink-after-another-lawmaker-quits-11652969474">Israeli Government Teeters on Brink, After Another Lawmaker Quits</a> WSJ: Israeli Government Teeters on Brink, After Another Lawmaker Quits 
  <p class="updated_time"> 12:33 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61517729?at_medium=RSS&at_campaign=KARANGA">Canada to ban Huawei from its 5G networks</a> BBC: The UK, US, Australia and New Zealand have also barred the Chinese telecoms equipment makers. 
- <p class="updated_time"> 12:24 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/israeli-government-teeters-on-brink-after-another-lawmaker-quits-11652969474">Israeli Government Teeters on Brink, After Another Lawmaker Quits</a> WSJ: Israeli Government Teeters on Brink, After Another Lawmaker Quits 
  <p class="updated_time"> 11:49 PM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/20/1100324929/canada-bans-chinas-huawei-technologies-from-5g-networks">Canada bans China's Huawei Technologies from 5G networks</a> NPR: Wireless carriers in Canada have been banned from installing Huawei equipment in their high-speed 5G networks, as the country joined allies in banning the giant Chinese technology company. 
  <p class="updated_time"> 10:33 PM CT, May. 19 </p> 
@@ -198,6 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:26 AM CT, May. 20 </p> 
+ <a href="https://www.politico.com/news/2022/05/20/eastman-trump-role-legal-overturn-election-00034023">Eastman provides new details of Trump’s direct role in legal effort to overturn election</a> Politico: The court filing describes the direct role of Trump himself in developing strategy, detailing “two hand-written notes from former President Trump about information that he thought might be useful for the anticipated litigation.” 
  <p class="updated_time"> 05:14 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/20/trumps-real-win-loss-record-00034021"> Trump’s real win-loss record</a> Politico Playbook: And Dems juggle an Affordable Care Act time bomb. 
  <p class="updated_time"> 04:11 AM CT, May. 20 </p> 
@@ -253,7 +255,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:12 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/oz-mccormick-pa-senate-race-00033961">Oz, McCormick unleash army of lawyers in Pa. Senate race</a> Politico: Both Oz and McCormick have enlisted alumni from Trump’s 2020 campaign to prepare for a potential recount. 
  <p class="updated_time"> 06:02 PM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/us/politics/baby-formula-production-white-house.html">Big Questions Remain About White House Plan to Speed Formula to Shelves</a> NYT: A day after invoking the Defense Production Act to help alleviate a nationwide shortage, administration officials had few answers for how the law would lead to more supply. 
+ <a href="https://www.nytimes.com/2022/05/19/us/politics/baby-formula-production-white-house.html">White House Struggles to Explain Baby Formula Production Plan</a> NYT: A day after invoking the Defense Production Act to help alleviate a nationwide shortage, administration officials had few answers for how the law would lead to more supply. 
  <p class="updated_time"> 06:00 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/pennsylvania-election-mccormick-oz.html">A Pennsylvania Election Storm Brews Again, This Time in a G.O.P. Primary</a> NYT: The campaigns of Dr. Mehmet Oz and David McCormick are preparing for the possibility of a bruising recount in a state where memories of Trump-fueled chaos in 2020 are still fresh. 
  <p class="updated_time"> 05:14 PM CT, May. 19 </p> 
@@ -316,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/us/politics/ukraine-aid.html">Senate Expected to Pass $40 Billion Aid Package for Ukraine</a> NYT: The measure’s relatively smooth path through Congress has reflected a broad consensus on Capitol Hill, for now, to devote massive sums to supporting Ukraine’s war effort. 
  <p class="updated_time"> 10:50 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/definition-defying-pols-new-york-city-mayor-adams-welcomes-comparison-to-pennsylvania-senate-candidate-fetterman-00033741">Adams welcomes comparison to Fetterman</a> Politico: 'People are going to try to classify me.' 
- <p class="updated_time"> 09:56 AM CT, May. 19 </p> 
- <a href="https://www.politico.com/news/2022/05/19/infant-formula-fallout-fda-woodcock-00033699">Amid infant formula fallout, FDA turns to agency veteran with little food experience</a> Politico: Food groups are calling Janet Woodcock's new assignment a “slap in the face.” 
  <p class="updated_time"> 09:11 AM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1099810793/census-undercount-by-state-arkansas-florida-illinois-mississippi-tennessee-texas">These 14 states had significant miscounts in the 2020 census</a> NPR: The states were not counted equally well for population totals used to determine their share of political representation and federal funding for the next 10 years, a new Census Bureau report shows. 
  <p class="updated_time"> 08:41 AM CT, May. 19 </p> 
@@ -326,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/05/19/congressional-whack-a-mole-00033716">Congressional whack-a-mole</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:00 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/pramila-jayapal-endorses-jessica-cisneros-texas-00033681">Pramila Jayapal endorses Jessica Cisneros in Texas runoff</a> Politico: Cisneros is attempting to topple Democratic Rep. Henry Cuellar on Tuesday. 
- <p class="updated_time"> 03:31 AM CT, May. 19 </p> 
- <a href="https://www.politico.com/news/2022/05/19/biden-prioritize-china-00033653">Biden wanted to prioritize China. 16 months later, he gets his shot.</a> Politico: A trip to Asia brings the president back to where he started when he entered office. 
  <p class="updated_time"> 03:30 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/schumer-manchin-reconciliation-bill-00033534">Dems stand back and watch Chuck and Joe show</a> Politico: Democrats are hoping Chuck Schumer's 10-year-plus relationship with Joe Manchin will finally get the party their sweeping tax-and-climate bill. 
  <p class="updated_time"> 03:30 AM CT, May. 19 </p> 
