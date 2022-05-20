@@ -9,10 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:22 AM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/05/19/world/russia-ukraine-war">What Happened on Day 85 of the War in Ukraine</a> NYT: Russia moved to annex areas in the southeast it had been occupying in the three-month-old invasion. President Biden vowed to help gain speedy approval of applications to join NATO by Finland and Sweden. 
- <p class="updated_time"> 04:22 AM CT, May. 20 </p> 
+ <p class="updated_time"> 05:18 AM CT, May. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/20/world/russia-ukraine-war">Live Updates: Russia Appears to Shake Up Military Command</a> NYT: Moscow also moved to fortify control over parts of southeastern Ukraine. 
+ <p class="updated_time"> 05:18 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/05/19/world/prince-charles-canada-visit">Prince Charles and Camilla Visit Canada, Confronting Legacy of the Crown</a> NYT: Prince Charles acknowledged the “suffering” of the Indigenous community in a visit to the Northwest Territories on the last day of his three-day tour of the country, where polls suggest there is little support for the monarchy. 
+ <p class="updated_time"> 04:55 AM CT, May. 20 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/world/europe/hungary-russia-oil.html">In Hungary, Cheap Russian Oil Fuels Right-Wing Culture Wars</a> NYT: Prime Minister Viktor Orban has resisted a proposed E.U. embargo of Russian oil, saying it would devastate his country’s economy, but it would also cut off a source of funds for his political allies. 
+ <p class="updated_time"> 04:28 AM CT, May. 20 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61519794?at_medium=RSS&at_campaign=KARANGA">Argentina found guilty of massacre of Qom and Moqoit people</a> BBC: A landmark court case orders historical reparations for the killing of more than 400 people in 1924. 
+ <p class="updated_time"> 04:24 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-russia-war-end-11652967707">Can Ukraine Win? Five Scenarios for the War’s Next Phase</a> WSJ: Can Ukraine Win? Five Scenarios for the War’s Next Phase 
  <p class="updated_time"> 04:00 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1099876370/ukraine-russia-poland-border-return">Millions rushed to leave Ukraine. Now the queue to return home stretches for miles</a> NPR: If you want to get into Ukraine by vehicle, you might have to wait hours at the Medyka border, where people sit in a line of cars that stretches for miles and takes hours to move. 
  <p class="updated_time"> 04:00 AM CT, May. 20 </p> 
@@ -21,24 +27,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/asia/china-lockdown-migration.html">As China Doubles Down on Lockdowns, Some Chinese Seek an Exit</a> NYT: Inquiries to immigration consultants have surged; social media users trade tips on how to get abroad. But the government aims to “strictly restrict nonessential exit activities.” 
  <p class="updated_time"> 03:38 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61514850?at_medium=RSS&at_campaign=KARANGA">Vangelis: Chariots of Fire and Blade Runner composer dies at 79</a> BBC: The Greek star's Oscar-winning film scores and electronic works created "a new musical landscape". 
- <p class="updated_time"> 03:26 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-russia-war-end-11652967707">Can Ukraine Win? Five Scenarios for the War’s Next Phase</a> WSJ: Can Ukraine Win? Five Scenarios for the War’s Next Phase 
- <p class="updated_time"> 02:26 AM CT, May. 20 </p> 
+ <p class="updated_time"> 03:24 AM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/europes-natural-gas-buyers-defuse-standoff-with-kremlin-over-ruble-payments-11652986818">Europe’s Gas Buyers Defuse Standoff With Kremlin Over Ruble Payments</a> WSJ: Europe’s Gas Buyers Defuse Standoff With Kremlin Over Ruble Payments 
+ <p class="updated_time"> 02:24 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/sweden-finland-weigh-cyber-risks-stemming-from-nato-applications-11652980082">Sweden, Finland Weigh Cyber Risks Stemming From NATO Applications</a> WSJ: Sweden, Finland Weigh Cyber Risks Stemming From NATO Applications 
  <p class="updated_time"> 01:36 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100326160/sri-lanka-closes-schools-limits-work-amid-fuel-shortage">Sri Lanka closes schools and limits work to combat fuel shortage</a> NPR: Sri Lankan authorities closed schools and asked public officials not to come to work in a desperate move to prepare for an acute fuel shortage during the nation's worst economic crisis in decades. 
- <p class="updated_time"> 01:26 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/sweden-finland-weigh-cyber-risks-stemming-from-nato-applications-11652980082">Sweden, Finland Weigh Cyber Risks Stemming From NATO Applications</a> WSJ: Sweden, Finland Weigh Cyber Risks Stemming From NATO Applications 
+ <p class="updated_time"> 01:24 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
  <p class="updated_time"> 12:33 AM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/business-61517729?at_medium=RSS&at_campaign=KARANGA">Canada to ban Huawei from its 5G networks</a> BBC: The UK, US, Australia and New Zealand have also barred the Chinese telecoms equipment makers. 
- <p class="updated_time"> 12:26 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787">China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia</a> WSJ: China Insists Party Elites Shed Overseas Assets, Eyeing Western Sanctions on Russia 
+ <p class="updated_time"> 12:24 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/israeli-government-teeters-on-brink-after-another-lawmaker-quits-11652969474">Israeli Government Teeters on Brink, After Another Lawmaker Quits</a> WSJ: Israeli Government Teeters on Brink, After Another Lawmaker Quits 
  <p class="updated_time"> 11:49 PM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/20/1100324929/canada-bans-chinas-huawei-technologies-from-5g-networks">Canada bans China's Huawei Technologies from 5G networks</a> NPR: Wireless carriers in Canada have been banned from installing Huawei equipment in their high-speed 5G networks, as the country joined allies in banning the giant Chinese technology company. 
- <p class="updated_time"> 11:26 PM CT, May. 19 </p> 
- <a href="https://www.wsj.com/articles/israeli-government-teeters-on-brink-after-another-lawmaker-quits-11652969474">Israeli Government Teeters on Brink, After Another Lawmaker Quits</a> WSJ: Israeli Government Teeters on Brink, After Another Lawmaker Quits 
- <p class="updated_time"> 11:11 PM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/world/europe/hungary-russia-oil.html">Hooked on Cheap Oil, Hungary Resists an Embargo on Russia</a> NYT: Prime Minister Viktor Orban has promised voters to keep energy prices low. The dividends from taking Russian fuel also help fund the policies that have made Hungary a beacon for right-wing groups. 
  <p class="updated_time"> 10:33 PM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/health-61506562?at_medium=RSS&at_campaign=KARANGA">Monkeypox cases investigated in Europe, US, Canada and Australia</a> BBC: Cases of the rare disease are now confirmed in four European countries, health authorities say. 
  <p class="updated_time"> 10:22 PM CT, May. 19 </p> 
@@ -133,8 +135,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/19/1100100329/twitter-misinformation-policy-ukraine">Twitter aims to crack down on misinformation, including misleading posts about Ukraine</a> NPR: Twitter is stepping up its fight against misinformation with a new policy cracking down on posts that spread potentially dangerous false stories. 
  <p class="updated_time"> 11:37 AM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61508922?at_medium=RSS&at_campaign=KARANGA">Russia's laser weapon claim derided as propaganda</a> BBC: Moscow says it has destroyed a drone with a laser, but Kyiv says it can't mask battlefield failure. 
- <p class="updated_time"> 11:23 AM CT, May. 19 </p> 
- <a href="https://www.bbc.co.uk/news/business-61512255?at_medium=RSS&at_campaign=KARANGA">Russian McDonald's buyer to rebrand restaurants</a> BBC: The fast food giant says the new owner of its 850 Russian restaurants will operate them under a new brand. 
  <p class="updated_time"> 11:22 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/18/world/europe/russian-soldier-war-crime-ukraine-law.html">Russian Soldier Pleads Guilty in Kyiv to Violating ‘Laws and Customs of War’</a> NYT: Sgt. Vadim Shyshimarin, 21, admitted in a Ukrainian court he had fatally shot a 62-year-old man on a bicycle in the village in the Sumy region in the early days of the invasion. He faces 10 years to life in prison. 
  <p class="updated_time"> 10:00 AM CT, May. 19 </p> 
@@ -198,10 +198,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:14 AM CT, May. 20 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2022/05/20/trumps-real-win-loss-record-00034021"> Trump’s real win-loss record</a> Politico Playbook: And Dems juggle an Affordable Care Act time bomb. 
+ <p class="updated_time"> 04:11 AM CT, May. 20 </p> 
+ <a href="https://www.politico.com/news/2022/05/20/pbdd-5-20-22-00033906">The GOP rancher trying to save Idaho from the far right</a> Politico: For this week’s episode of Playbook Deep Dive, we sat down with Jennifer Ellis at her cattle ranch in eastern Idaho to understand how the state’s GOP establishment delivered a stinging rebuke to Trumpism. 
  <p class="updated_time"> 04:09 AM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100327255/the-house-has-approved-a-bill-to-fight-domestic-terror">The House has approved a bill to fight domestic terror</a> NPR: NPR's Leila Fadel talks to House Democratic Leader Steny Hoyer of Maryland about a newly passed bill targeting domestic terrorism, and the partisan divides that make Senate approval unlikely. 
  <p class="updated_time"> 04:09 AM CT, May. 20 </p> 
- <a href="https://www.npr.org/2022/05/20/1100327213/after-a-discrediting-campaign-dhs-pauses-a-board-created-to-combat-disinformatio">After a discrediting campaign, DHS pauses a board created to combat disinformation </a> NPR: A disinformation expert looks back on how disinformation killed a new government board she was hired to lead to help coordinate the Biden administration's efforts to address false information. 
+ <a href="https://www.npr.org/2022/05/20/1100327213/after-a-discrediting-campaign-dhs-pauses-a-board-created-to-combat-disinformatio">After a discrediting campaign, DHS pauses a board created to combat disinformation </a> NPR: A disinformation expert looks back on how disinformation put on hold a new government board she was hired to lead to help coordinate the Biden administration's efforts to address false information. 
+ <p class="updated_time"> 04:09 AM CT, May. 20 </p> 
+ <a href="https://www.npr.org/2022/05/20/1100327185/morning-news-brief">News brief: Mariupol latest, Biden's Asia visit, DHS Disinformation Board</a> NPR: Concerns mount over Ukrainian soldiers from Mariupol in Russian hands. Joe Biden makes his first presidential trip to Asia. A disinformation expert leaves her post heading a new government board. 
  <p class="updated_time"> 04:00 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/magazine/roe-v-wade-abortion-rights.html">America Almost Took a Different Path Toward Abortion Rights</a> NYT: Roe v. Wade was never expected to be the case that made history. 
  <p class="updated_time"> 04:00 AM CT, May. 20 </p> 
@@ -214,10 +220,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/business/media/karine-jean-pierre-press-secretary.html">Karine Jean-Pierre’s Unlikely Rise to the White House Lectern</a> NYT: The first Black and first openly gay press secretary was raised in an immigrant family with “so many secrets.” Now she occupies one of the most scrutinized jobs in American politics. 
  <p class="updated_time"> 04:00 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/business/media/white-house-press-secretary-flak-jacket.html">White House Press Secretary Gets a New ‘Flak Jacket’: A Women’s Blazer</a> NYT: A decades-long West Wing tradition lives on, with a bright yellow twist. 
+ <p class="updated_time"> 03:31 AM CT, May. 20 </p> 
+ <a href="https://www.politico.com/news/2022/05/20/uterus-surveillance-the-scramble-to-keep-abortion-data-from-prying-eyes-00033775">‘Uterus surveillance’: The scramble to keep abortion data from prying eyes</a> Politico: Telemedicine groups are looking to bolster privacy protections ahead of Roe decision. 
+ <p class="updated_time"> 03:31 AM CT, May. 20 </p> 
+ <a href="https://www.politico.com/news/2022/05/20/recruit-poll-workers-shortage-00033841">Effort to recruit poll workers relaunches amid fears of shortage</a> Politico: Power to the Polls is looking to reengage 700,000 people who expressed interest in volunteering during the 2020 election. 
+ <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
+ <a href="https://www.politico.com/news/2022/05/20/democrats-affordable-care-act-biden-manchin-00033902">Democrats are walking right into an Obamacare fiasco of their own making</a> Politico: It could all come down to … Joe Manchin. 
  <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/democrats-abortion-options-roe-decision-00033714">Dems debate limited options as Roe decision looms</a> Politico: The party could talk contraception, abortion pills, privacy concerns, codifying Roe and more. They have plenty of options, but no clear path forward. 
  <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
+ <a href="https://www.politico.com/news/2022/05/20/georgia-secretary-of-state-election-trump-00034001">Trump's bid to control election offices hits first battleground</a> Politico: Georgia Secretary of State Brad Raffensperger, who spurned Trump's request to subvert the 2020 election results, is on the ballot Tuesday. 
+ <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/democrats-north-carolina-senate-00033887">Democrats confront North Carolina blues</a> Politico: Democrats are debating how far they should go to try to win the Tar Heel State, where they haven't won a Senate race since 2008. 
+ <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
+ <a href="https://www.politico.com/gallery/2022/05/20/the-nations-cartoonists-on-the-week-in-politics-00033957">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 10:22 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/biden-finland-sweden-nato.html">Biden Seeks Swift Effort to Bring Finland and Sweden Into NATO</a> NYT: Speedy approval seems likely among most members of the alliance in the wake of Russia’s invasion of Ukraine, but Turkey’s objections remain a sticking point. 
  <p class="updated_time"> 09:08 PM CT, May. 19 </p> 
@@ -237,7 +253,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:12 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/oz-mccormick-pa-senate-race-00033961">Oz, McCormick unleash army of lawyers in Pa. Senate race</a> Politico: Both Oz and McCormick have enlisted alumni from Trump’s 2020 campaign to prepare for a potential recount. 
  <p class="updated_time"> 06:02 PM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/us/politics/baby-formula-production-white-house.html">White House Struggles to Explain Baby Formula Production Plan</a> NYT: A day after invoking the Defense Production Act to help alleviate a nationwide shortage, administration officials had few answers for how the law would lead to more supply. 
+ <a href="https://www.nytimes.com/2022/05/19/us/politics/baby-formula-production-white-house.html">Big Questions Remain About White House Plan to Speed Formula to Shelves</a> NYT: A day after invoking the Defense Production Act to help alleviate a nationwide shortage, administration officials had few answers for how the law would lead to more supply. 
  <p class="updated_time"> 06:00 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/pennsylvania-election-mccormick-oz.html">A Pennsylvania Election Storm Brews Again, This Time in a G.O.P. Primary</a> NYT: The campaigns of Dr. Mehmet Oz and David McCormick are preparing for the possibility of a bruising recount in a state where memories of Trump-fueled chaos in 2020 are still fresh. 
  <p class="updated_time"> 05:14 PM CT, May. 19 </p> 
@@ -272,14 +288,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/19/1100228289/the-senate-has-approved-roughly-40-billion-in-aid-to-ukraine">The Senate has approved roughly $40 billion in aid to Ukraine</a> NPR: The Senate approved about $40 billion in aid to Ukraine in a largely bipartisan vote. The House has already passed the bill, and it now goes to President Biden to sign. 
  <p class="updated_time"> 03:12 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/russia-ukraine-oil-sanctions.html">U.S. Eyeing Russian Energy Sanctions Over Ukraine War, Officials Say</a> NYT: The revenue powers Vladimir V. Putin’s war machine in Ukraine. But plans for new U.S. sanctions could create problems with China, India and other major buyers. 
- <p class="updated_time"> 03:06 PM CT, May. 19 </p> 
- <a href="https://www.politico.com/news/2022/05/19/why-louisianas-maternal-mortality-rates-are-so-high-00033832">Why Louisiana’s maternal mortality rates are so high </a> Politico: Experts point to the many reasons behind the state's crisis. 
  <p class="updated_time"> 03:03 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/david-mccormick-election.html">David McCormick’s Team Recently Hired Operative Known for Challenging Elections</a> NYT: The operative, Mike Roman, was the director of Election Day operations for Donald Trump’s 2020 campaign, and he later played a key role in fighting Pennsylvania’s election results. 
  <p class="updated_time"> 03:02 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/ukraine-aid-g7.html">G7 Finance Ministers Race to Secure More Ukraine Aid</a> NYT: Officials are working on a plan to provide $15 billion to help keep Ukraine’s government operating during its war with Russia. 
- <p class="updated_time"> 03:00 PM CT, May. 19 </p> 
- <a href="https://www.politico.com/news/2022/05/19/cryptocurrency-mining-blossoms-in-upstate-new-york-but-it-hasnt-been-well-received-00033354">Upstate New York becomes hotbed for cryptocurrency mining. It might not last.</a> Politico: Environmentalists and some public officials contend the conversion of fossil-fuel power plants to crypto mining will make it hard to reach zero emissions goals. 
  <p class="updated_time"> 02:51 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/canada-looking-to-rekindle-relations-with-beijing-00033798">Joly: Canada is working to rekindle relations with Beijing</a> Politico: Foreign minister tells POLITICO that Canada's long-waited Indo-Pacific strategy will be released in the “coming weeks” 
  <p class="updated_time"> 02:03 PM CT, May. 19 </p> 
@@ -302,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/19/1100030361/a-divide-between-the-pulpit-and-the-pew-is-roiling-the-evangelical-church">A divide between the pulpit and the pew is roiling the evangelical church</a> NPR: New York Times journalist Ruth Graham says many pastors are being pressured to resist vaccines and mask mandates, embrace Trump's claims about election fraud and adopt QANON-based conspiracy theories. 
  <p class="updated_time"> 12:05 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/politics/ukraine-aid.html">Senate Expected to Pass $40 Billion Aid Package for Ukraine</a> NYT: The measure’s relatively smooth path through Congress has reflected a broad consensus on Capitol Hill, for now, to devote massive sums to supporting Ukraine’s war effort. 
- <p class="updated_time"> 11:11 AM CT, May. 19 </p> 
- <a href="https://www.politico.com/news/2022/05/19/in-white-house-visit-finland-and-swedens-leaders-talk-turkey-00033767">In White House visit, Finland and Sweden’s leaders talk Turkey</a> Politico: The heads of the Nordic nations said they were committed to resolving Ankara’s concerns about their potential NATO membership. 
  <p class="updated_time"> 10:50 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/definition-defying-pols-new-york-city-mayor-adams-welcomes-comparison-to-pennsylvania-senate-candidate-fetterman-00033741">Adams welcomes comparison to Fetterman</a> Politico: 'People are going to try to classify me.' 
  <p class="updated_time"> 09:56 AM CT, May. 19 </p> 
@@ -312,8 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/19/1099810793/census-undercount-by-state-arkansas-florida-illinois-mississippi-tennessee-texas">These 14 states had significant miscounts in the 2020 census</a> NPR: The states were not counted equally well for population totals used to determine their share of political representation and federal funding for the next 10 years, a new Census Bureau report shows. 
  <p class="updated_time"> 08:41 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/senate-40-billion-ukraine-aid-bill-00033719">Senate clears $40B Ukraine aid package</a> Politico: The package will deliver the most significant U.S. contribution yet to aiding Ukraine as Russia encroaches on the eastern Donbas region. 
- <p class="updated_time"> 07:28 AM CT, May. 19 </p> 
- <a href="https://www.npr.org/2022/05/19/1100016029/george-w-bush-condemns-putins-invasion-of-iraq-instead-of-ukraine">Trying to condemn the war in Ukraine, Bush inadvertently calls Iraq war unjustified </a> NPR: In a speech, Bush criticized "the decision of one man to launch a wholly unjustified and brutal invasion of Iraq — I mean of Ukraine." 
  <p class="updated_time"> 07:19 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/19/congressional-whack-a-mole-00033716">Congressional whack-a-mole</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:00 AM CT, May. 19 </p> 
@@ -324,20 +332,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/19/schumer-manchin-reconciliation-bill-00033534">Dems stand back and watch Chuck and Joe show</a> Politico: Democrats are hoping Chuck Schumer's 10-year-plus relationship with Joe Manchin will finally get the party their sweeping tax-and-climate bill. 
  <p class="updated_time"> 03:30 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/gas-formula-inflation-voter-anxieties-motivate-struggling-dems-00033577">Gas, formula, inflation: Voter anxieties motivate struggling Dems</a> Politico: Democrats hope a swath of bills to combat inflation and other punishing problems will combat their poor-looking chances to keep the House. 
- <p class="updated_time"> 09:11 PM CT, May. 18 </p> 
- <a href="https://www.nytimes.com/2022/05/18/us/politics/house-domestic-terrorism-vote.html">House, Acting After Buffalo Rampage, Moves to Combat Domestic Terrorism</a> NYT: Democrats advanced the legislation on a nearly party-line vote, but with Republicans opposed, it faces an uphill battle in the Senate. 
  <p class="updated_time"> 08:59 PM CT, May. 18 </p> 
  <a href="https://www.politico.com/news/2022/05/18/senate-unanimously-confirms-brink-as-ukraine-ambassador-00033654">Senate unanimously confirms Brink as Ukraine ambassador</a> Politico: After three long years, the U.S. finally has a Senate-confirmed top diplomat to the war-torn country. 
- <p class="updated_time"> 08:51 PM CT, May. 18 </p> 
- <a href="https://www.nytimes.com/2022/05/18/us/politics/biden-baby-formula-shortage.html">Biden Invokes Defense Powers in a Bid to Ease Formula Shortage</a> NYT: The president invoked the Defense Production Act to boost supply and directed federal agencies to use Defense Department planes to speed shipments of formula from overseas. 
  <p class="updated_time"> 08:15 PM CT, May. 18 </p> 
  <a href="https://www.cnn.com/2022/05/18/politics/recount-pennsylvania-gop-senate-primary/index.html">How a recount would be triggered in Pennsylvania's GOP Senate primary</a> CNN: Hours after Tuesday's primary, Mehmet Oz and Dave McCormick are locked in a tight race for the GOP nomination for Pennsylvania's US Senate race, which could be key to determining control of the chamber in November. The race, which is yet to be called, could be headed for a recount. 
  <p class="updated_time"> 04:50 PM CT, May. 18 </p> 
  <a href="https://www.politico.com/news/2022/05/18/trump-endorsement-mastriano-pa-republicans-00033573">Inside the last-minute Trump endorsement that enraged Pa. Republicans</a> Politico: There was no soldier more loyal to the cause than Doug Mastriano. Trump and his lieutenants privately disparaged him anyway. 
- <p class="updated_time"> 04:49 PM CT, May. 18 </p> 
- <a href="https://www.nytimes.com/2022/05/18/us/politics/ted-cruz-disbarment-2020-election.html">Group Seeks Disbarment of Ted Cruz Over Efforts to Overturn 2020 Election</a> NYT: A group trying to hold lawyers accountable for their efforts to keep Donald Trump in power after his election loss filed a complaint against the Republican senator with the Texas bar association. 
- <p class="updated_time"> 03:35 PM CT, May. 18 </p> 
- <a href="https://www.politico.com/news/2022/05/18/ufo-theories-congress-pentagon-00033497">‘A glowing red orb’: Wild UFO theories move from the shadows to Congress</a> Politico: Rep. Mike Gallagher says he pressed Pentagon officials on the unproven claims in order to move past them. 
  <p class="updated_time"> 01:15 PM CT, May. 18 </p> 
  <a href="https://www.politico.com/news/2022/05/18/pennsylvania-senate-oz-mccormick-delay-00033457">Why we won’t know the winner of the Oz-McCormick showdown for a while</a> Politico: Pennsylvania is still processing thousands of mail ballots in the too-close-to-call race. 
  <p class="updated_time"> 12:06 PM CT, May. 18 </p> 
@@ -346,8 +346,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/05/18/cawthorns-out-maloneys-in-a-mess-00033351">Cawthorn's out, Maloney's in a mess</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:17 AM CT, May. 18 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/18/takeaways-from-the-biggest-primary-night-of-the-year-00033345"> Takeaways from the biggest primary night of the year</a> Politico Playbook: As New York pols deal with the fallout from the newly drawn congressional map. 
- <p class="updated_time"> 03:30 AM CT, May. 18 </p> 
- <a href="https://www.politico.com/news/2022/05/18/democrats-tax-breaks-stalemate-00032666">‘An insult to working people’: Democrats struggle with next tax move</a> Politico: Some progressives are aghast at the prospect of passing a major tax cut for corporations when the heart of their “reconciliation” agenda is going nowhere fast. 
  <p class="updated_time"> 01:57 AM CT, May. 18 </p> 
  <a href="https://www.politico.com/news/2022/05/18/pennsylvania-north-carolina-oregon-primary-election-takeaways-00033339">'Beware what you wish for': 5 takeaways from a key primary night</a> Politico: Mastriano rises, Cawthorn falls and progressives are back in business. 
  <p class="updated_time"> 07:52 PM CT, May. 17 </p> 
