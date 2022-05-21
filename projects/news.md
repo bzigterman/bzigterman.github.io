@@ -9,7 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:36 AM CT, May. 21 </p> 
+ <p class="updated_time"> 12:54 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-azov-mariupol-trials.html">How Russia Uses Show Trials to Punish Putin’s Enemies</a> NYT: Moscow may label the Azov fighters who defended the Mariupol steel plant as terrorists — raising the prospect of a high-profile trial. The Kremlin has a long tradition of using the courts for political goals. 
+ <p class="updated_time"> 12:50 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/05/20/world/russia-ukraine-war">What Happened on Day 86 of the War in Ukraine</a> NYT: Russia moved to expand military recruitment to older citizens and said that it was suspending gas shipments to Finland. 
  <p class="updated_time"> 12:34 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/business/economy/g7-20-billion-ukraine.html">G7 Nations Pledge $20 Billion to Ukraine</a> NYT: Financing will be directed to keep government operations running amid the Russian war. 
@@ -18,18 +20,16 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:28 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/australia/prime-minister-scott-morrison-election.html">Australian Prime Minister Scott Morrison Urges Voters to Opt for What They Know</a> NYT: His tenure hasn’t always been smooth, with moments that have tested the Australian public’s faith in his leadership 
  <p class="updated_time"> 12:18 AM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-azov-mariupol-trials.html">How Russia Uses Show Trials to Punish Putin’s Enemies</a> NYT: Moscow may label the Azov fighters who defended the Mariupol steel plant as terrorists — raising the prospect of a high-profile trial. The Kremlin has a long tradition of using the courts for political goals. 
- <p class="updated_time"> 12:18 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/australia/democracy-sausage.html">Australian Democracy Comes With a Side of Grilled Onions</a> NYT: In a beloved tradition, every Election Day sausages are sold near polling stations as fund-raisers for local schools, churches and community groups. 
  <p class="updated_time"> 12:16 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/middleeast/israel-coalition-netanyahu.html">Chaos in Israel Gives New Chance to Old Face: Benjamin Netanyahu</a> NYT: Mr. Netanyahu, Israel’s longest-serving prime minister, lost office last summer. Now the coalition that replaced him is crumbling — potentially leading to new elections that could return him to power. 
- <p class="updated_time"> 11:49 PM CT, May. 20 </p> 
+ <p class="updated_time"> 12:01 AM CT, May. 21 </p> 
  <a href="https://www.wsj.com/articles/germany-warns-falling-euro-could-push-inflation-even-higher-11653063148">Germany Warns Falling Euro Could Push Inflation Even Higher</a> WSJ: Germany Warns Falling Euro Could Push Inflation Even Higher 
  <p class="updated_time"> 11:29 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/health-61532083?at_medium=RSS&at_campaign=KARANGA">Monkeypox: 80 cases confirmed in 11 countries, says WHO</a> BBC: Another 50 suspected cases of the rare disease are being investigated, the UN health agency says. 
  <p class="updated_time"> 11:17 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/australia/anthony-albanese-australia-election.html">Anthony Albanese Pitches ‘Safe Change” in Australian Election</a> NYT: The opposition leader has emphasized the good that effective government can do. 
- <p class="updated_time"> 10:49 PM CT, May. 20 </p> 
+ <p class="updated_time"> 11:01 PM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/ukraine-will-fight-until-all-russian-forces-are-expelled-military-intelligence-chief-says-11653046810">Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says</a> WSJ: Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says 
  <p class="updated_time"> 10:37 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/05/20/world/australia-election/federal-election">Australia’s Election: What to Watch and What’s at Stake</a> NYT: While voters are most focused on cost-of-living issues, the opposition Labor Party has made the election a referendum on the conduct of Prime Minister Scott Morrison. 
@@ -37,16 +37,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/haiti-history-colonized-france.html">The Root of Haiti’s Misery: Reparations to Enslavers</a> NYT: In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now. 
  <p class="updated_time"> 10:07 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-ukraine-recruitment-finland.html">Russia Hustles to Recruit Soldiers and Halts Gas Supplies to Finland</a> NYT: The war has evolved into something of a stalemate that has seriously depleted Russia’s conventional war capabilities, even as it has made some gains. 
- <p class="updated_time"> 09:49 PM CT, May. 20 </p> 
+ <p class="updated_time"> 10:01 PM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425">Russian Soldier Didn’t Commit Murder, His Lawyer Says</a> WSJ: Russian Soldier Didn’t Commit Murder, His Lawyer Says 
- <p class="updated_time"> 08:49 PM CT, May. 20 </p> 
+ <p class="updated_time"> 09:01 PM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/a-california-church-shooting-highlights-a-bitter-divide-among-taiwanese-11653077718">A California Church Shooting Highlights a Bitter Divide Among Taiwanese</a> WSJ: A California Church Shooting Highlights a Bitter Divide Among Taiwanese 
  <p class="updated_time"> 08:23 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/haiti-aristide-reparations-france.html">Aristide Demanded French Pay Reparations to Haiti. He Ended Up in Exile.</a> NYT: A firebrand Haitian president tried to hold France to account for its years of exploitation. He soon found himself ousted from power. 
+ <p class="updated_time"> 08:01 PM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/frances-macron-appoints-new-government-in-political-rebalancing-effort-11653066608">France’s Macron Appoints New Government in Balancing Act</a> WSJ: France’s Macron Appoints New Government in Balancing Act 
  <p class="updated_time"> 07:51 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61532326?at_medium=RSS&at_campaign=KARANGA">Biden plan to end US migrant expulsion policy blocked</a> BBC: A US judge says the policy that allows migrants to be expelled over Covid fears must stay in place. 
- <p class="updated_time"> 07:49 PM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/frances-macron-appoints-new-government-in-political-rebalancing-effort-11653066608">France’s Macron Appoints New Government in Balancing Act</a> WSJ: France’s Macron Appoints New Government in Balancing Act 
  <p class="updated_time"> 06:46 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61511446?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The volunteer drivers risking their lives to save others</a> BBC: Drivers describe evacuating people from Russian-held areas under threat of mines and military attack. 
  <p class="updated_time"> 06:43 PM CT, May. 20 </p> 
@@ -228,6 +228,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:58 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/us/politics/roger-stone-jan-6.html">Group Chat Linked to Roger Stone Shows Ties Among Jan. 6 Figures</a> NYT: The roster of participants highlights how Mr. Stone, the pro-Trump political operative, was involved with a strikingly large number of people who sought to overturn the 2020 election. 
+ <p class="updated_time"> 12:54 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/us/politics/cdc-second-booster.html">C.D.C Says Adults 50 and Over Should Get Second Booster Shot</a> NYT: Previously, the agency said those 50 and older could opt for the additional shot, but encouraged only people over 65 or with underlying medical conditions to get it. 
  <p class="updated_time"> 12:34 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/business/economy/g7-20-billion-ukraine.html">G7 Nations Pledge $20 Billion to Ukraine</a> NYT: Financing will be directed to keep government operations running amid the Russian war. 
  <p class="updated_time"> 09:37 PM CT, May. 20 </p> 
@@ -266,8 +270,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/20/democrats-calling-communications-eric-adams-new-york-00034180">National Dems are calling in a new communications expert: Eric Adams</a> Politico: The New York mayor spoke last week at a Democratic Congressional Campaign Committee event at the request of Speaker Nancy Pelosi and Rep. Sean Patrick Maloney. 
  <p class="updated_time"> 05:05 PM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/judge-blocks-biden-administration-from-lifting-title-42-border-policy-00034195">Judge blocks Biden administration from lifting Title 42 border policy</a> Politico: The pandemic-related health order, which was implemented in March 2020 to control the spread of Covid, was set to expire on Monday. 
- <p class="updated_time"> 04:46 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/us/politics/cdc-second-booster.html">C.D.C Says Adults 50 and Over Should Get Second Booster Shot</a> NYT: Previously, the agency said those 50 and older could opt for the additional shot, but encouraged only people over 65 or with underlying medical conditions to get it. 
  <p class="updated_time"> 04:02 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100477118/thousands-of-asylum-seekers-still-await-the-end-of-the-pandemic-border-p">Thousands of asylum seekers still await the end of the pandemic border policy</a> NPR: Thousands of asylum seekers are in limbo waiting for a U.S. court to rule on the White House's proposal to drop Title 42, which bars them from entering the U.S. over pandemic concerns. 
  <p class="updated_time"> 04:02 PM CT, May. 20 </p> 
@@ -336,8 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/magazine/roe-v-wade-abortion-rights.html">America Almost Took a Different Path Toward Abortion Rights</a> NYT: Roe v. Wade was never expected to be the case that made history. 
  <p class="updated_time"> 04:00 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/herschel-walker-raphael-warnock-race-georgia.html">On Race, Herschel Walker’s Offer of Absolution Divides Georgia Voters</a> NYT: Georgia will still have a Black senator next year, but the likely Republican nominee, Herschel Walker, and the incumbent Democrat, Raphael Warnock, offer far different visions on race. 
- <p class="updated_time"> 04:00 AM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/us/politics/roger-stone-jan-6.html">Group Chat Linked to Roger Stone Shows Ties Among Jan. 6 Figures</a> NYT: The roster of participants highlights how Mr. Stone, the pro-Trump political operative, was involved with a strikingly large number of people who sought to overturn the 2020 election. 
  <p class="updated_time"> 03:31 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/recruit-poll-workers-shortage-00033841">Effort to recruit poll workers relaunches amid fears of shortage</a> Politico: Power the Polls is looking to reengage 700,000 people who expressed interest in volunteering during the 2020 election. 
  <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
