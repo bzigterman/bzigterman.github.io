@@ -9,49 +9,53 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:33 AM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/05/21/world/russia-ukraine-war">Ukraine Live Updates: Russia Presses Its Campaign After Claiming Full Control of Mariupol Steel Plant</a> NYT: Ukraine has not confirmed Moscow’s claim about the port city, but Ukrainian officials said Russia was working to demine Mariupol’s port in an effort to reopen it. At the same time, Moscow is pushing to shape a more positive narrative within Russia about how the war is going. 
+ <p class="updated_time"> 08:12 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/haiti-history-colonized-france.html">The Root of Haiti’s Misery: Reparations to Enslavers</a> NYT: In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now. 
+ <p class="updated_time"> 08:06 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/21/world/russia-ukraine-war">Live Updates: Biden Signs $40 Billion Ukraine Aid Package as Russia Presses Its Campaign</a> NYT: President Biden signed the package of military and humanitarian aid during a visit to Seoul. The support for Ukraine came as Moscow made moves toward reopening Mariupol’s port and shaping a more positive narrative within Russia about how the war is going. 
  <p class="updated_time"> 07:33 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/lviv-philharmonic-orchestra.html">‘A form of hope’: As air-raid sirens sound, a Lviv orchestra opens a summer festival with Mozart’s Requiem.</a> NYT: Even as the Lviv Philharmonic theater became a wartime hub for humanitarian supplies, it has remained a home for musicians and choirs. 
  <p class="updated_time"> 07:32 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1100533342/australia-election-results-labor-party-government">Opposition Labor Party appears more likely to form Australia's next government</a> NPR: The Labor Party appeared more likely than Prime Minister Scott Morrison's coalition to form a government after Australia's election on Saturday that could result in a rare hung parliament. 
+ <p class="updated_time"> 07:25 AM CT, May. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61535204?at_medium=RSS&at_campaign=KARANGA">Spain lifts Covid ban on unvaccinated travellers</a> BBC: UK holidaymakers without a jab will be allowed entry with a negative test or proof of recovery. 
+ <p class="updated_time"> 07:16 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/germany-warns-falling-euro-could-push-inflation-even-higher-11653063148">Germany Warns Falling Euro Could Push Inflation Even Higher</a> WSJ: Germany Warns Falling Euro Could Push Inflation Even Higher 
  <p class="updated_time"> 07:00 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/business/dealbook/world-economic-forum-davos.html">At Davos, a Referendum on the World Economic Forum</a> NYT: Many values espoused by the World Economic Forum — globalization, liberalism, free market capitalism, representative democracy — are under attack. 
  <p class="updated_time"> 06:57 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1100341505/russia-invasion-ukraine-school-ukrainian-teacher-students-borodyanka">How a Ukrainian teacher helped students escape Russia's invasion, and still graduate</a> NPR: As residents return to a liberated town near Kyiv, a teacher and her high school students recount what it took to survive the war. 
- <p class="updated_time"> 06:43 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/germany-warns-falling-euro-could-push-inflation-even-higher-11653063148">Germany Warns Falling Euro Could Push Inflation Even Higher</a> WSJ: Germany Warns Falling Euro Could Push Inflation Even Higher 
  <p class="updated_time"> 06:39 AM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61533715?at_medium=RSS&at_campaign=KARANGA">Covid in North Korea: No response to US vaccine offer</a> BBC: On a visit to the region, President Joe Biden said the US could provide Covid-19 jabs "immediately". 
  <p class="updated_time"> 06:38 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/ukraine-seversky-donets-river.html">Russian Forces Are Attempting Another Crossing of the Seversky Donets River, Ukraine Says</a> NYT: The 650-mile-long Seversky Donets River originates in Russia and meanders southeast through the Donbas region before re-entering Russian territory. 
  <p class="updated_time"> 06:17 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/french-banks-haiti-cic.html">How a French Bank Captured Haiti</a> NYT: It helped finance the Eiffel Tower as it drained millions from Haiti. The bank, C.I.C., won’t talk about it, but The Times tracked how much its investors made — and what Haiti lost. 
+ <p class="updated_time"> 06:16 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-will-fight-until-all-russian-forces-are-expelled-military-intelligence-chief-says-11653046810">Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says</a> WSJ: Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says 
  <p class="updated_time"> 06:12 AM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/health-61532083?at_medium=RSS&at_campaign=KARANGA">Monkeypox: 80 cases confirmed in 12 countries</a> BBC: Another 50 suspected cases of the rare disease are being investigated, the WHO says. 
  <p class="updated_time"> 06:02 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1098489307/roma-refugees-moldova-ukraine-war">Roma refugees who fled from Ukraine to Moldova are now in limbo</a> NPR: Many slipped across the border as the war began, but lack passports or other official forms of ID. They struggle to prove their eligibility for humanitarian aid — and to cross into other countries. 
  <p class="updated_time"> 06:00 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/business/world-economic-forum-davos-accomplish.html">For Elite? Yes. Ostentatious? Yes. But Also Effective.</a> NYT: For all the criticism of the World Economic Forum’s display of wealth, productive partnerships are indeed formed at Davos, participants say. 
- <p class="updated_time"> 05:43 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/ukraine-will-fight-until-all-russian-forces-are-expelled-military-intelligence-chief-says-11653046810">Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says</a> WSJ: Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says 
  <p class="updated_time"> 05:17 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/asia/biden-south-korea-yoon.html">In South Korea, Biden Moves to Shore Up Alliance</a> NYT: President Biden said he would consider expanding joint military exercises that were scaled back during the Trump administration. 
+ <p class="updated_time"> 05:16 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425">Russian Soldier Didn’t Commit Murder, His Lawyer Says</a> WSJ: Russian Soldier Didn’t Commit Murder, His Lawyer Says 
  <p class="updated_time"> 05:00 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/canada/royal-visit-charles-camilla.html">Royal Visit to Canada Rife With Symbolism, But Little Substance</a> NYT: The often hectic royal tours, like this week’s by Prince Charles and Camilla, his wife, are short on substance if long on symbolism. 
- <p class="updated_time"> 04:43 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425">Russian Soldier Didn’t Commit Murder, His Lawyer Says</a> WSJ: Russian Soldier Didn’t Commit Murder, His Lawyer Says 
  <p class="updated_time"> 04:33 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/bbc-mi5-agent-abuse-accusations.html">BBC Allowed to Publish Accusations of Abuse Against MI5 Agent</a> NYT: The news organization found that evidence suggested an agent for the domestic intelligence agency had a history of right-wing extremism and was abusive toward women, but it wasn’t allowed to fully identify him. 
+ <p class="updated_time"> 04:16 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/a-california-church-shooting-highlights-a-bitter-divide-among-taiwanese-11653077718">A California Church Shooting Highlights a Bitter Divide Among Taiwanese</a> WSJ: A California Church Shooting Highlights a Bitter Divide Among Taiwanese 
  <p class="updated_time"> 04:01 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/05/21/1094711449/story-of-dance-and-discipline-pandemic-in-the-colombia">A story of dance and discipline amid a global pandemic in the Llanos</a> NPR: During a global pandemic in Orocué, Colombia, dance and adversity brought a group together. 
  <p class="updated_time"> 04:00 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1100391863/uyghurs-xinjiang-muslim-minority-forced-labor-china">How goods made with forced labor end up in your local American store</a> NPR: A new report from a non-profit group finds that goods imported from the Xinjiang region in China could be the result of policies that coerce the Uyghur ethnic minority into factory jobs. 
- <p class="updated_time"> 03:43 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/a-california-church-shooting-highlights-a-bitter-divide-among-taiwanese-11653077718">A California Church Shooting Highlights a Bitter Divide Among Taiwanese</a> WSJ: A California Church Shooting Highlights a Bitter Divide Among Taiwanese 
  <p class="updated_time"> 03:39 AM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61533713?at_medium=RSS&at_campaign=KARANGA">Tornado in Germany injures 43 people, police say</a> BBC: Officials said the tornado cut a path of destruction during violent storms in the west of the country. 
- <p class="updated_time"> 02:43 AM CT, May. 21 </p> 
+ <p class="updated_time"> 03:16 AM CT, May. 21 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-appoints-new-government-in-political-rebalancing-effort-11653066608">France’s Macron Appoints New Government in Balancing Act</a> WSJ: France’s Macron Appoints New Government in Balancing Act 
  <p class="updated_time"> 01:53 AM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61533540?at_medium=RSS&at_campaign=KARANGA">Dying of cold on the streets of São Paulo</a> BBC: A deadly cold snap hits Latin America's biggest city as the number of homeless people grows. 
@@ -73,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/australia/anthony-albanese-australia-election.html">Anthony Albanese Pitches ‘Safe Change” in Australian Election</a> NYT: The opposition leader has emphasized the good that effective government can do. 
  <p class="updated_time"> 10:37 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/australia/federal-election.html">Australia’s Election: What to Watch and What’s at Stake</a> NYT: While voters are most focused on cost-of-living issues, the opposition Labor Party has made the election a referendum on the conduct of Prime Minister Scott Morrison. 
- <p class="updated_time"> 10:15 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/haiti-history-colonized-france.html">The Root of Haiti’s Misery: Reparations to Enslavers</a> NYT: In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now. 
  <p class="updated_time"> 10:07 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-ukraine-recruitment-finland.html">Russia Hustles to Recruit Soldiers and Halts Gas Supplies to Finland</a> NYT: The war has evolved into something of a stalemate that has seriously depleted Russia’s conventional war capabilities, even as it has made some gains. 
  <p class="updated_time"> 08:23 PM CT, May. 20 </p> 
@@ -250,8 +252,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/21/us/politics/lucy-mcbath-carolyn-bourdeaux-georgia.html">Lucy McBath and Carolyn Bourdeaux Battle Over A Georgia District</a> NYT: A primary for the new Seventh District, outside Atlanta, is forcing two popular incumbents, Lucy McBath and Carolyn Bourdeaux, to do battle. 
  <p class="updated_time"> 12:54 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/cdc-second-booster.html">C.D.C Says Adults 50 and Over Should Get Second Booster Shot</a> NYT: Previously, the agency said those 50 and older could opt for the additional shot, but encouraged only people over 65 or with underlying medical conditions to get it. 
- <p class="updated_time"> 12:34 AM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/2022/05/20/business/economy/g7-20-billion-ukraine.html">G7 Nations Pledge $20 Billion to Ukraine</a> NYT: Financing will be directed to keep government operations running amid the Russian war. 
  <p class="updated_time"> 09:37 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/mitch-mcconnell-ukraine.html">On Ukraine, McConnell Tries to Show the World This Isn’t Trump’s G.O.P.</a> NYT: The top Senate Republican traveled to Europe in a bid to show that isolationism hasn’t taken over his party. He has privately lobbied his colleagues to vote that way, and so far, most are. 
  <p class="updated_time"> 09:07 PM CT, May. 20 </p> 
@@ -308,8 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/us/politics/pentagon-africa-command-langley.html">Pentagon Taps Next Commander of U.S. Forces in Africa</a> NYT: If approved, Lt. Gen. Michael E. Langley would become the first Black four-star Marine Corps officer. 
  <p class="updated_time"> 02:59 PM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/florida-critical-race-theory-social-justice-social-studies-00034104">Florida wants to avoid critical race theory and ‘social justice’ in social studies texts</a> Politico: Florida education officials, in guidance, told publishers that all proposed social studies content must abide by the state’s rules outlawing critical race theory and similar teachings. 
- <p class="updated_time"> 02:34 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/us/politics/covid-deaths-memorial.html">Despite 1 Million Covid Death Toll, U.S. Still Has No National Memorial</a> NYT: As the United States reached 1 million known deaths, there was no national, permanent memorial to the country’s loss. Some survivors have called for more to be done. 
  <p class="updated_time"> 01:08 PM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/mcconnell-ukraine-republican-isolationist-00034110">Inside McConnell’s bid to quash GOP ‘isolationists’</a> Politico: The Republican leader is determined to stamp out a pro-Trump wing of his party that has pushed back on $40 billion in aid to Ukraine — and U.S. support more broadly. 
  <p class="updated_time"> 12:41 PM CT, May. 20 </p> 
@@ -330,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/us/politics/bernie-sanders-aipac-super-pac.html">Bernie Sanders Prepares for ‘War’ With AIPAC and Its Super PAC</a> NYT: The pro-Israel group, which is involved with direct political spending this year for the first time, has opposed progressive candidates backed by Mr. Sanders. 
  <p class="updated_time"> 08:50 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/secret-service-leave-off-duty-biden-asia-00034046">Secret Service: 2 employees on leave after ‘off-duty incident’ amid Biden’s Asia trip</a> Politico: An official said only one employee was investigated by local authorities, and no one was arrested. 
- <p class="updated_time"> 08:00 AM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/your-money/federal-health-insurance-glitch.html">A ‘Glitch’ in Federal Health Insurance May Soon Be Fixed</a> NYT: Federal rules make it hard for relatives of people with job-based coverage to qualify for financial help in buying Obamacare insurance. The Biden administration wants to change that. 
  <p class="updated_time"> 06:44 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/20/more-empire-state-map-madness-00034026">More Empire State map madness?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:14 AM CT, May. 20 </p> 
