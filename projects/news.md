@@ -9,35 +9,43 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:34 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/20/world/russia-ukraine-war">What Happened on Day 86 of the War in Ukraine</a> NYT: Russia moved to expand military recruitment to older citizens and said that it was suspending gas shipments to Finland. 
+ <p class="updated_time"> 12:34 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/business/economy/g7-20-billion-ukraine.html">G7 Nations Pledge $20 Billion to Ukraine</a> NYT: Financing will be directed to keep government operations running amid the Russian war. 
+ <p class="updated_time"> 12:32 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/world/europe/russia-bucha-ukraine-executions.html">New Evidence Shows How Russian Soldiers Executed Men in Bucha</a> NYT: Witness testimony and videos obtained by The New York Times show how Russian paratroopers executed at least eight Ukrainian men in a Kyiv suburb on March 4, a potential war crime. 
+ <p class="updated_time"> 12:28 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/australia/prime-minister-scott-morrison-election.html">Australian Prime Minister Scott Morrison Urges Voters to Opt for What They Know</a> NYT: His tenure hasn’t always been smooth, with moments that have tested the Australian public’s faith in his leadership 
+ <p class="updated_time"> 12:18 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-azov-mariupol-trials.html">How Russia Uses Show Trials to Punish Putin’s Enemies</a> NYT: Moscow may label the Azov fighters who defended the Mariupol steel plant as terrorists — raising the prospect of a high-profile trial. The Kremlin has a long tradition of using the courts for political goals. 
+ <p class="updated_time"> 12:18 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/australia/democracy-sausage.html">Australian Democracy Comes With a Side of Grilled Onions</a> NYT: In a beloved tradition, every Election Day sausages are sold near polling stations as fund-raisers for local schools, churches and community groups. 
  <p class="updated_time"> 12:16 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/middleeast/israel-coalition-netanyahu.html">Chaos in Israel Gives New Chance to Old Face: Benjamin Netanyahu</a> NYT: Mr. Netanyahu, Israel’s longest-serving prime minister, lost office last summer. Now the coalition that replaced him is crumbling — potentially leading to new elections that could return him to power. 
- <p class="updated_time"> 12:15 AM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/05/20/world/russia-ukraine-war">What Happened on Day 86 of the War in Ukraine</a> NYT: Russia moved to expand military recruitment to older citizens and said that it was suspending gas shipments to Finland. 
+ <p class="updated_time"> 11:37 PM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/germany-warns-falling-euro-could-push-inflation-even-higher-11653063148">Germany Warns Falling Euro Could Push Inflation Even Higher</a> WSJ: Germany Warns Falling Euro Could Push Inflation Even Higher 
  <p class="updated_time"> 11:29 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/health-61532083?at_medium=RSS&at_campaign=KARANGA">Monkeypox: 80 cases confirmed in 11 countries, says WHO</a> BBC: Another 50 suspected cases of the rare disease are being investigated, the UN health agency says. 
- <p class="updated_time"> 11:21 PM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/germany-warns-falling-euro-could-push-inflation-even-higher-11653063148">Germany Warns Falling Euro Could Push Inflation Even Higher</a> WSJ: Germany Warns Falling Euro Could Push Inflation Even Higher 
  <p class="updated_time"> 11:17 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/australia/anthony-albanese-australia-election.html">Anthony Albanese Pitches ‘Safe Change” in Australian Election</a> NYT: The opposition leader has emphasized the good that effective government can do. 
  <p class="updated_time"> 10:37 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/live/2022/05/20/world/australia-election/federal-election">Australia’s Election: What to Watch and What’s at Stake</a> NYT: While voters are most focused on cost-of-living issues, the opposition Labor Party has made the election a referendum on the conduct of Prime Minister Scott Morrison. 
- <p class="updated_time"> 10:21 PM CT, May. 20 </p> 
+ <p class="updated_time"> 10:37 PM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/ukraine-will-fight-until-all-russian-forces-are-expelled-military-intelligence-chief-says-11653046810">Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says</a> WSJ: Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says 
  <p class="updated_time"> 10:15 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/haiti-history-colonized-france.html">The Root of Haiti’s Misery: Reparations to Enslavers</a> NYT: In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now. 
  <p class="updated_time"> 10:07 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-ukraine-recruitment-finland.html">Russia Hustles to Recruit Soldiers and Halts Gas Supplies to Finland</a> NYT: The war has evolved into something of a stalemate that has seriously depleted Russia’s conventional war capabilities, even as it has made some gains. 
- <p class="updated_time"> 09:21 PM CT, May. 20 </p> 
+ <p class="updated_time"> 09:37 PM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425">Russian Soldier Didn’t Commit Murder, His Lawyer Says</a> WSJ: Russian Soldier Didn’t Commit Murder, His Lawyer Says 
+ <p class="updated_time"> 08:37 PM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/a-california-church-shooting-highlights-a-bitter-divide-among-taiwanese-11653077718">A California Church Shooting Highlights a Bitter Divide Among Taiwanese</a> WSJ: A California Church Shooting Highlights a Bitter Divide Among Taiwanese 
  <p class="updated_time"> 08:23 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/haiti-aristide-reparations-france.html">Aristide Demanded French Pay Reparations to Haiti. He Ended Up in Exile.</a> NYT: A firebrand Haitian president tried to hold France to account for its years of exploitation. He soon found himself ousted from power. 
- <p class="updated_time"> 08:21 PM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/a-california-church-shooting-highlights-a-bitter-divide-among-taiwanese-11653077718">A California Church Shooting Highlights a Bitter Divide Among Taiwanese</a> WSJ: A California Church Shooting Highlights a Bitter Divide Among Taiwanese 
- <p class="updated_time"> 08:04 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/australia/prime-minister-scott-morrison-election.html">Australian Prime Minister Scott Morrison Urges Voters to Opt for What They Know</a> NYT: His tenure hasn’t always been smooth, with moments that have tested the Australian public’s faith in his leadership 
  <p class="updated_time"> 07:51 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61532326?at_medium=RSS&at_campaign=KARANGA">Biden plan to end US migrant expulsion policy blocked</a> BBC: A US judge says the policy that allows migrants to be expelled over Covid fears must stay in place. 
- <p class="updated_time"> 07:21 PM CT, May. 20 </p> 
+ <p class="updated_time"> 07:37 PM CT, May. 20 </p> 
  <a href="https://www.wsj.com/articles/frances-macron-appoints-new-government-in-political-rebalancing-effort-11653066608">France’s Macron Appoints New Government in Balancing Act</a> WSJ: France’s Macron Appoints New Government in Balancing Act 
  <p class="updated_time"> 06:46 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61511446?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The volunteer drivers risking their lives to save others</a> BBC: Drivers describe evacuating people from Russian-held areas under threat of mines and military attack. 
@@ -83,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/australia/australia-election-guide.html">A Guide to Australia’s Election</a> NYT: Election Day has arrived. Here’s what to watch. 
  <p class="updated_time"> 04:26 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/americas/takeaways-haiti-reparations-france.html">How Much Haiti’s Freedom Cost: Takeaways From a Times Series</a> NYT: How did the modern world’s most successful slave revolt give birth to a desperately poor nation? Here is a summary of what a team of New York Times correspondents found out. 
- <p class="updated_time"> 04:21 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/19/world/australia/federal-election-independents.html">How a Group of Female Independents Aims to Revive Australian Democracy</a> NYT: A community-driven movement has recruited around 25 candidates, most of them successful women preaching pragmatic reform. They could shape the balance of power after Saturday’s election. 
  <p class="updated_time"> 04:16 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100477125/in-a-new-era-dame-maggie-smith-remains-the-best-reason-to-watch-downton-abbey">In 'A New Era,' Dame Maggie Smith remains the best reason to watch 'Downton Abbey'</a> NPR: Maggie Smith's dowager countess acquires a villa in the South of France, so the Downton household goes on a field trip in Downton Abbey: A New Era. 
  <p class="updated_time"> 04:02 PM CT, May. 20 </p> 
@@ -111,8 +117,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61529874?at_medium=RSS&at_campaign=KARANGA">France's mustard shortage leaves sour taste</a> BBC: The price of the condiment is up 10% due to poor harvests and the impact of the war in Ukraine. 
  <p class="updated_time"> 02:02 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/19/us/us-covid-deaths.html">U.S. Surpasses 1 Million Known Covid Deaths</a> NYT: While Covid stole lives from all strata of society, it magnified disparities based on factors like sex, age, health care access, income and housing. 
- <p class="updated_time"> 01:59 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-azov-mariupol-trials.html">How Russia Uses Show Trials to Punish Putin’s Enemies</a> NYT: Moscow may label the Azov fighters who defended the Mariupol steel plant as terrorists — raising the prospect of a high-profile trial. The Kremlin has a long tradition of using the courts for political goals. 
  <p class="updated_time"> 01:16 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/bbc-mi5-agent-abuse-accusations.html">BBC Allowed to Publish Accusations of Abuse Against MI5 Agent</a> NYT: The news organization found that evidence suggested an agent for the domestic intelligence agency had a history of right-wing extremism and was abusive toward women, but it wasn’t allowed to fully identify him. 
  <p class="updated_time"> 12:23 PM CT, May. 20 </p> 
@@ -177,8 +181,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/world/prince-charles-indigenous-dene.html">Prince Charles Dances With Indigenous People to End Canada Visit</a> NYT: On the prince’s third and final day in Canada, he said he was “deeply moved’’ by the stories of those who survived brutal treatment in residential schools. 
  <p class="updated_time"> 08:49 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/moscow-russifying-captured-territory.html">Moscow Moves to Russify Seized Ukraine Land, Signaling Annexation</a> NYT: The territory occupied by Russian forces so far in the three-month-old invasion deserves “a worthy place in our Russian family,” a Kremlin official who toured the region said. 
- <p class="updated_time"> 08:21 PM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/world/europe/russia-bucha-ukraine-executions.html">New Evidence Shows How Russian Soldiers Executed Men in Bucha</a> NYT: Witness testimony and videos obtained by The New York Times show how Russian paratroopers executed at least eight Ukrainian men in a Kyiv suburb on March 4, a potential war crime. 
  <p class="updated_time"> 07:34 PM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61517687?at_medium=RSS&at_campaign=KARANGA">Australia election: Do people trust their PM candidates?</a> BBC: The BBC speaks to voters in Scott Morrison and Anthony Albanese's seats ahead of Saturday's election. 
  <p class="updated_time"> 07:23 PM CT, May. 19 </p> 
@@ -215,8 +217,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/world/russia-ukraine-kherson-zelensky.html">A Russian Official Tours Occupied Southern Ukraine</a> NYT: The official, Marat Khusnullin, Russia’s deputy prime minister for infrastructure, outlined plans to take control of vital infrastructure. 
  <p class="updated_time"> 10:00 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/science/spiders-tarantulas-arachnids-trade.html">Scientists Uncover a Shady Web of Online Spider Sales</a> NYT: More than 1,200 species of arachnids are part of a largely unregulated global marketplace, according to a new study. 
- <p class="updated_time"> 04:00 AM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/world/asia/abortion-lord-matthew-hale.html">The 17th-Century English Judge Behind Abortion and Rape Rulings Today</a> NYT: Both in India and in the Roe v. Wade draft ruling roiling the United States, Lord Matthew Hale — an English judge who wrote that women were contractually obligated to husbands — still looms large. 
  <p class="updated_time"> 03:08 AM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/asia/nepal-india-bihar-alcohol.html">An Indian State Banned Alcohol. The Drinking Moved to Nearby Nepal.</a> NYT: The ban in Bihar State, championed by local women, was aimed at tackling alcoholism and domestic violence. But a drinking scene has sprung up across the border in Nepal. 
  <p class="updated_time"> 11:13 AM CT, May. 18 </p> 
