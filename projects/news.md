@@ -9,16 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:12 PM CT, May. 21 </p> 
+ <p class="updated_time"> 02:15 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/05/21/world/russia-ukraine-war">Live Updates: Biden Signs $40 Billion Ukraine Aid Package as Russia Presses Its Campaign</a> NYT: President Biden signed the package of military and humanitarian aid during a visit to Seoul. The support for Ukraine came as Moscow made moves toward reopening Mariupol’s port and shaping a more positive narrative within Russia about how the war is going. 
+ <p class="updated_time"> 02:15 PM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/21/world/europe/lviv-philharmonic-orchestra.html">‘A form of hope’: As air-raid sirens sound, a Lviv orchestra opens a summer festival with Mozart’s Requiem.</a> NYT: Even as the Lviv Philharmonic theater became a wartime hub for humanitarian supplies, it has remained a home for musicians and choirs. 
+ <p class="updated_time"> 01:34 PM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/21/world/americas/psychedelic-therapy-female-veterans.html">‘I Want to Reset My Brain’: Female Veterans Turn to Psychedelic Therapy</a> NYT: Traumatized by war and sexual assaults, some U.S. veterans and veterans’ spouses are seeking help in a Mexican clinic that treats depression and addiction with potent hallucinogens like toad poison. 
+ <p class="updated_time"> 01:16 PM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
  <p class="updated_time"> 01:05 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61534732?at_medium=RSS&at_campaign=KARANGA">Australia election: Anthony Albanese vows unity after Labor seizes power</a> BBC: Anthony Albanese will lead Australia's first Labor government in almost a decade. 
  <p class="updated_time"> 12:16 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/kirill-putin-russian-orthodox-church.html">The Russian Orthodox Leader at the Core of Putin’s Ambitions</a> NYT: Patriarch Kirill I has provided spiritual cover for the invasion of Ukraine, reaping vast resources for his church in return. Now, in an extraordinary step, the E.U. is threatening him with sanctions. 
  <p class="updated_time"> 12:16 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61538300?at_medium=RSS&at_campaign=KARANGA">"Nobody takes my husband away from me, not even the war"</a> BBC: Ukraine's First Lady Olena Zelenska in rare interview with husband 
- <p class="updated_time"> 12:13 PM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
+ <p class="updated_time"> 12:16 PM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
  <p class="updated_time"> 12:06 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/tornado-germany-heat-wave-europe.html">3 Tornadoes Strike Germany, Amid Heat Wave in Southern Europe</a> NYT: Extreme weather was also felt elsewhere in Europe as heat waves threatened Spain and parts of southern France. 
  <p class="updated_time"> 12:01 PM CT, May. 21 </p> 
@@ -35,30 +41,24 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/haiti-wall-street-us-banks.html">Invade Haiti, Wall Street Urged. The U.S. Obliged.</a> NYT: The long occupation of Haiti began with a drumbeat from the bank that became Citigroup, decades of diplomatic correspondence and other records show. 
  <p class="updated_time"> 11:29 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/americas/takeaways-haiti-reparations-france.html">How Much Haiti’s Freedom Cost: Takeaways From a Times Series</a> NYT: How did the modern world’s most successful slave revolt give birth to a desperately poor nation? Here is a summary of what a team of New York Times correspondents found out. 
- <p class="updated_time"> 11:13 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
+ <p class="updated_time"> 11:16 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
  <p class="updated_time"> 11:13 AM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61535204?at_medium=RSS&at_campaign=KARANGA">Spain lifts Covid ban on unvaccinated travellers</a> BBC: UK holidaymakers without a jab will be allowed entry with a negative test or proof of recovery. 
  <p class="updated_time"> 11:13 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/asia/biden-south-korea-yoon.html">Biden Moves to Reassure South Korea of Help in Countering Nuclear-Armed North</a> NYT: President Biden said he would consider expanding joint military exercises that were scaled back during the Trump administration. 
  <p class="updated_time"> 10:20 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/australia/anthony-albanese-australia-election.html">Anthony Albanese to Become Australian Prime Minister</a> NYT: Like Biden before him, Anthony Albanese enters office more on the back of disgust at the conservative incumbent than enthusiasm for his leadership. 
- <p class="updated_time"> 10:13 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
- <p class="updated_time"> 09:31 AM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/2022/05/21/world/americas/psychedelic-therapy-female-veterans.html">‘I Want to Reset My Brain’: Female Veterans Turn to Psychedelic Therapy</a> NYT: Traumatized by war and sexual assaults, some U.S. veterans and veterans’ spouses are seeking help in a Mexican clinic that treats depression and addiction with potent hallucinogens like toad poison. 
- <p class="updated_time"> 09:13 AM CT, May. 21 </p> 
+ <p class="updated_time"> 10:16 AM CT, May. 21 </p> 
  <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
+ <p class="updated_time"> 09:16 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 08:43 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/haiti-history-colonized-france.html">The Root of Haiti’s Misery: Reparations to Enslavers</a> NYT: In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now. 
  <p class="updated_time"> 08:23 AM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61535345?at_medium=RSS&at_campaign=KARANGA">Roger Angell: Baseball's reluctant poet laureate dies at 101</a> BBC: Although he disliked the accolade, Roger Angell was hailed for his innovative writing about the game. 
  <p class="updated_time"> 08:16 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1100536017/germany-tornadoes-43-injured">At least 43 people were injured in a storm that caused 3 tornadoes in Germany</a> NPR: The German Weather Service confirmed three tornadoes in North Rhine-Westphalia — in Paderborn, in nearby Lippstadt, and on the edge of the town of Hoexter. 
- <p class="updated_time"> 08:13 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
- <p class="updated_time"> 07:33 AM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/2022/05/21/world/europe/lviv-philharmonic-orchestra.html">‘A form of hope’: As air-raid sirens sound, a Lviv orchestra opens a summer festival with Mozart’s Requiem.</a> NYT: Even as the Lviv Philharmonic theater became a wartime hub for humanitarian supplies, it has remained a home for musicians and choirs. 
  <p class="updated_time"> 07:32 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1100533342/australia-scott-morrison-concedes-election">Australia's prime minister concedes despite millions of votes left to be counted</a> NPR: The Labor Party appeared more likely than Prime Minister Scott Morrison's coalition to form a government after Australia's election on Saturday that could result in a rare hung parliament. 
  <p class="updated_time"> 07:00 AM CT, May. 21 </p> 
@@ -233,7 +233,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:49 AM CT, May. 21 </p> 
  <a href="https://www.politico.com/news/2022/05/21/australian-prime-minister-concedes-election-defeat-00034240">Australian prime minister concedes election defeat</a> Politico: Opposition leader Anthony Albanese will be sworn in as prime minister after his Labor party clenched its first electoral win since 2007. 
  <p class="updated_time"> 08:40 AM CT, May. 21 </p> 
- <a href="https://www.npr.org/2022/05/21/1100536547/nancy-pelosi-communion-abortion-rights">Archbishop says Pelosi will be denied Communion because she supports abortion rights</a> NPR: Archbishop Salvatore Cordileone of San Francisco said he sent House Speaker Nancy Pelosi a letter expressing his concerns after she vowed to codify the Supreme Court's Roe v. Wade decision. 
+ <a href="https://www.npr.org/2022/05/21/1100536547/nancy-pelosi-communion-abortion-rights">An archbishop bars Pelosi from Communion over her support for abortion rights</a> NPR: Archbishop Salvatore Cordileone of San Francisco said he sent House Speaker Nancy Pelosi a letter expressing his concerns after she vowed to codify the Supreme Court's Roe v. Wade decision. 
  <p class="updated_time"> 08:23 AM CT, May. 21 </p> 
  <a href="https://www.politico.com/news/2022/05/21/new-maps-new-york-redistricting-00034235">Final New York maps released and lead to midnight shuffle of congressional delegation</a> Politico: The maps are not a drastic overhaul from drafts that threw the state’s elections into chaos on Monday and threatened Democrats' hopes of picking up several House seats from Republicans in November. 
  <p class="updated_time"> 07:05 AM CT, May. 21 </p> 
@@ -243,7 +243,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:42 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/us/politics/ukraine-aid-bill-biden.html">Biden to Sign Ukraine Aid Bill During His Trip to Asia</a> NYT: A White House aide was bringing a physical copy of the $40 billion measure to South Korea on a commercial flight. It was passed by Congress this week. 
  <p class="updated_time"> 06:41 AM CT, May. 21 </p> 
- <a href="https://www.politico.com/news/2022/05/21/biden-signs-40b-for-ukraine-assistance-during-asia-trip-00034234">Biden signs $40B for Ukraine assistance during Asia trip</a> Politico: The president also signed an unrelated measure intended to increase access to baby formula. 
+ <a href="https://www.politico.com/news/2022/05/21/biden-signs-40b-for-ukraine-assistance-during-asia-trip-00034234">U.S., South Korea open to expanded military drills to deter North</a> Politico: The announcement reflects a shift in direction by both leaders from their predecessors. 
  <p class="updated_time"> 06:29 AM CT, May. 21 </p> 
  <a href="https://www.politico.com/news/2022/05/21/in-biggest-victory-yet-russia-claims-to-capture-mariupol-00034233">In biggest victory yet, Russia claims to capture Mariupol</a> Politico: There was no immediate confirmation from Ukraine. 
  <p class="updated_time"> 06:02 AM CT, May. 21 </p> 
@@ -259,7 +259,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/us/politics/george-bush-legacy-texas.html">Bush Dynasty, Its Influence Fading, Pins Hopes on One Last Stand in Texas</a> NYT: George P. Bush is running to unseat the incumbent attorney general. His family, once powerful in Texas, has become an albatross as well as an asset. 
  <p class="updated_time"> 04:00 AM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/2022/05/21/us/politics/lucy-mcbath-carolyn-bourdeaux-georgia.html">Lucy McBath and Carolyn Bourdeaux Battle Over A Georgia District</a> NYT: A primary for the new Seventh District, outside Atlanta, is forcing two popular incumbents, Lucy McBath and Carolyn Bourdeaux, to do battle. 
+ <a href="https://www.nytimes.com/2022/05/21/us/politics/lucy-mcbath-carolyn-bourdeaux-georgia.html">Two Democratic Congresswomen, One Redrawn Georgia District</a> NYT: A primary for the new Seventh District, outside Atlanta, is forcing two popular incumbents, Lucy McBath and Carolyn Bourdeaux, to do battle. 
  <p class="updated_time"> 12:54 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/cdc-second-booster.html">C.D.C Says Adults 50 and Over Should Get Second Booster Shot</a> NYT: Previously, the agency said those 50 and older could opt for the additional shot, but encouraged only people over 65 or with underlying medical conditions to get it. 
  <p class="updated_time"> 09:37 PM CT, May. 20 </p> 
@@ -269,7 +269,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:40 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100519588/the-outcome-of-the-pennsylvania-gop-senate-primary-might-not-be-known-before-jun">The outcome of the Pennsylvania GOP Senate primary might not be known before June</a> NPR: A likely recount would mean that the race between Dr. Mehmet Oz and David McCormick might not be decided until June 8, the deadline for counties to report their results to the state. 
  <p class="updated_time"> 08:33 PM CT, May. 20 </p> 
- <a href="https://www.politico.com/news/2022/05/20/trump-georgia-alabama-primaries-00034232">Trump's revenge tour is put to the test in Georgia, Alabama</a> Politico: POLITICO’s Steve Shepard demystifies this week’s election data in a video series. 
+ <a href="https://www.politico.com/news/2022/05/20/trump-georgia-alabama-primaries-00034232">Inside the Forecast: Trump's revenge tour is put to the test in Georgia, Alabama</a> Politico: POLITICO’s Steve Shepard demystifies this week’s election data in a video series. 
  <p class="updated_time"> 08:12 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/business/economy/baby-formula-shortage-market.html">Baby Formula Shortage Has an Aggravating Factor: Few Producers</a> NYT: With just a handful of companies making U.S. infant formula, a shutdown of Abbott’s plant had outsized impact on the supply. 
  <p class="updated_time"> 07:36 PM CT, May. 20 </p> 
@@ -336,6 +336,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/20/secret-service-leave-off-duty-biden-asia-00034046">Secret Service: 2 employees on leave after ‘off-duty incident’ amid Biden’s Asia trip</a> Politico: An official said only one employee was investigated by local authorities, and no one was arrested. 
  <p class="updated_time"> 06:44 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/20/more-empire-state-map-madness-00034026">More Empire State map madness?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 05:26 AM CT, May. 20 </p> 
+ <a href="https://www.politico.com/news/2022/05/20/eastman-trump-role-legal-overturn-election-00034023">Eastman provides new details of Trump’s direct role in legal effort to overturn election</a> Politico: The court filing describes the direct role of Trump himself in developing strategy, detailing “two hand-written notes from former President Trump about information that he thought might be useful for the anticipated litigation.” 
  <p class="updated_time"> 05:14 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/20/trumps-real-win-loss-record-00034021"> Trump’s real win-loss record</a> Politico Playbook: And Dems juggle an Affordable Care Act time bomb. 
  <p class="updated_time"> 04:09 AM CT, May. 20 </p> 
@@ -345,13 +347,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/gallery/2022/05/20/the-nations-cartoonists-on-the-week-in-politics-00033957">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
- <a href="https://www.politico.com/news/2022/05/20/democrats-abortion-options-roe-decision-00033714">Dems debate limited options as Roe decision looms</a> Politico: The party could talk contraception, abortion pills, privacy concerns, codifying Roe and more. They have plenty of options, but no clear path forward. 
+ <a href="https://www.politico.com/news/2022/05/20/georgia-secretary-of-state-election-trump-00034001">Trump’s bid to control election offices hits first battleground</a> Politico: Georgia Secretary of State Brad Raffensperger, who spurned Trump’s request to subvert the 2020 election results, is on the ballot Tuesday. 
  <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/democrats-north-carolina-senate-00033887">Democrats confront North Carolina blues</a> Politico: Democrats are debating how far they should go to try to win the Tar Heel State, where they haven't won a Senate race since 2008. 
+ <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
+ <a href="https://www.politico.com/news/2022/05/20/democrats-abortion-options-roe-decision-00033714">Dems debate limited options as Roe decision looms</a> Politico: The party could talk contraception, abortion pills, privacy concerns, codifying Roe and more. They have plenty of options, but no clear path forward. 
  <p class="updated_time"> 06:12 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/oz-mccormick-pa-senate-race-00033961">Oz, McCormick unleash army of lawyers in Pa. Senate race</a> Politico: Both Oz and McCormick have enlisted alumni from Trump’s 2020 campaign to prepare for a potential recount. 
- <p class="updated_time"> 01:11 PM CT, May. 19 </p> 
- <a href="https://www.politico.com/news/2022/05/19/fda-refuses-to-tell-congress-why-infant-formula-response-took-months-00033805">FDA refuses to tell Congress why infant formula response took months</a> Politico: "We have an ongoing investigation about the details of exactly what happened." 
  <p class="updated_time"> 01:07 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/ocasio-cortez-calls-on-maloney-to-resign-dccc-chairmanship-if-he-primaries-colleague-00033811">Ocasio-Cortez calls on Maloney to resign DCCC chairmanship if he primaries colleague</a> Politico: Maloney announced on Monday that he'd run for reelection in a redrawn district comprised mostly of Rep. Mondaire Jones' constituents. 
  <p class="updated_time"> 08:41 AM CT, May. 19 </p> 
@@ -368,8 +370,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/18/senate-unanimously-confirms-brink-as-ukraine-ambassador-00033654">Senate unanimously confirms Brink as Ukraine ambassador</a> Politico: After three long years, the U.S. finally has a Senate-confirmed top diplomat to the war-torn country. 
  <p class="updated_time"> 04:50 PM CT, May. 18 </p> 
  <a href="https://www.politico.com/news/2022/05/18/trump-endorsement-mastriano-pa-republicans-00033573">Inside the last-minute Trump endorsement that enraged Pa. Republicans</a> Politico: There was no soldier more loyal to the cause than Doug Mastriano. Trump and his lieutenants privately disparaged him anyway. 
- <p class="updated_time"> 01:15 PM CT, May. 18 </p> 
- <a href="https://www.politico.com/news/2022/05/18/pennsylvania-senate-oz-mccormick-delay-00033457">Why we won’t know the winner of the Oz-McCormick showdown for a while</a> Politico: Pennsylvania is still processing thousands of mail ballots in the too-close-to-call race. 
 
 
 </details>
