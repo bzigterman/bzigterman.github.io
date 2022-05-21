@@ -9,50 +9,58 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:41 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/french-banks-haiti-cic.html">How a French Bank Captured Haiti</a> NYT: It helped finance the Eiffel Tower as it drained millions from Haiti. The bank, C.I.C., won’t talk about it, but The Times tracked how much its investors made — and what Haiti lost. 
+ <p class="updated_time"> 11:37 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/haiti-aristide-reparations-france.html">Aristide Demanded French Pay Reparations to Haiti. He Ended Up in Exile.</a> NYT: A firebrand Haitian president tried to hold France to account for its years of exploitation. He soon found himself ousted from power. 
+ <p class="updated_time"> 11:35 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/haiti-wall-street-us-banks.html">Invade Haiti, Wall Street Urged. The U.S. Obliged.</a> NYT: The long occupation of Haiti began with a drumbeat from the bank that became Citigroup, decades of diplomatic correspondence and other records show. 
+ <p class="updated_time"> 11:29 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/americas/takeaways-haiti-reparations-france.html">How Much Haiti’s Freedom Cost: Takeaways From a Times Series</a> NYT: How did the modern world’s most successful slave revolt give birth to a desperately poor nation? Here is a summary of what a team of New York Times correspondents found out. 
+ <p class="updated_time"> 11:26 AM CT, May. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61534732?at_medium=RSS&at_campaign=KARANGA">Australia election: Anthony Albanese vows unity after Labor seizes power</a> BBC: Anthony Albanese will lead Australia's first Labor government in almost a decade. 
  <p class="updated_time"> 11:13 AM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61535204?at_medium=RSS&at_campaign=KARANGA">Spain lifts Covid ban on unvaccinated travellers</a> BBC: UK holidaymakers without a jab will be allowed entry with a negative test or proof of recovery. 
  <p class="updated_time"> 11:13 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/asia/biden-south-korea-yoon.html">Biden Moves to Reassure South Korea of Help in Countering Nuclear-Armed North</a> NYT: President Biden said he would consider expanding joint military exercises that were scaled back during the Trump administration. 
+ <p class="updated_time"> 10:55 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
  <p class="updated_time"> 10:50 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/05/21/world/russia-ukraine-war">Live Updates: Biden Signs $40 Billion Ukraine Aid Package as Russia Presses Its Campaign</a> NYT: President Biden signed the package of military and humanitarian aid during a visit to Seoul. The support for Ukraine came as Moscow made moves toward reopening Mariupol’s port and shaping a more positive narrative within Russia about how the war is going. 
- <p class="updated_time"> 10:23 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
  <p class="updated_time"> 10:20 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/australia/anthony-albanese-australia-election.html">Anthony Albanese to Become Australian Prime Minister</a> NYT: Like Biden before him, Anthony Albanese enters office more on the back of disgust at the conservative incumbent than enthusiasm for his leadership. 
+ <p class="updated_time"> 09:55 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
  <p class="updated_time"> 09:31 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/americas/psychedelic-therapy-female-veterans.html">‘I Want to Reset My Brain’: Female Veterans Turn to Psychedelic Therapy</a> NYT: Traumatized by war and sexual assaults, some U.S. veterans and veterans’ spouses are seeking help in a Mexican clinic that treats depression and addiction with potent hallucinogens like toad poison. 
- <p class="updated_time"> 09:23 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
  <p class="updated_time"> 09:10 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/asia/taliban-afghanistan-women-hijab.html">The Taliban Pressure Women in Afghanistan to Cover Up</a> NYT: The militant group in charge of the country is aggressively enforcing a decree requiring coverings from head to toe and crushing rare public protests against the order. 
+ <p class="updated_time"> 08:55 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
  <p class="updated_time"> 08:43 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/haiti-history-colonized-france.html">The Root of Haiti’s Misery: Reparations to Enslavers</a> NYT: In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now. 
  <p class="updated_time"> 08:37 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/kirill-putin-russian-orthodox-church.html">The Russian Orthodox Leader at the Core of Putin’s Ambitions</a> NYT: Patriarch Kirill I has provided spiritual cover for the invasion of Ukraine, reaping vast resources for his church in return. Now, in an extraordinary step, the E.U. is threatening him with sanctions. 
  <p class="updated_time"> 08:23 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
- <p class="updated_time"> 08:23 AM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61535345?at_medium=RSS&at_campaign=KARANGA">Roger Angell: Baseball's reluctant poet laureate dies at 101</a> BBC: Although he disliked the accolade, Roger Angell was hailed for his innovative writing about the game. 
  <p class="updated_time"> 08:16 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1100536017/germany-tornadoes-43-injured">At least 43 people were injured in a storm that caused 3 tornadoes in Germany</a> NPR: The German Weather Service confirmed three tornadoes in North Rhine-Westphalia — in Paderborn, in nearby Lippstadt, and on the edge of the town of Hoexter. 
+ <p class="updated_time"> 07:55 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
  <p class="updated_time"> 07:33 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/lviv-philharmonic-orchestra.html">‘A form of hope’: As air-raid sirens sound, a Lviv orchestra opens a summer festival with Mozart’s Requiem.</a> NYT: Even as the Lviv Philharmonic theater became a wartime hub for humanitarian supplies, it has remained a home for musicians and choirs. 
  <p class="updated_time"> 07:32 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1100533342/australia-scott-morrison-concedes-election">Australia's prime minister concedes despite millions of votes left to be counted</a> NPR: The Labor Party appeared more likely than Prime Minister Scott Morrison's coalition to form a government after Australia's election on Saturday that could result in a rare hung parliament. 
- <p class="updated_time"> 07:23 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
  <p class="updated_time"> 07:00 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/business/dealbook/world-economic-forum-davos.html">At Davos, a Referendum on the World Economic Forum</a> NYT: Many values espoused by the World Economic Forum — globalization, liberalism, free market capitalism, representative democracy — are under attack. 
  <p class="updated_time"> 06:57 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1100341505/russia-invasion-ukraine-school-ukrainian-teacher-students-borodyanka">How a Ukrainian teacher helped students escape Russia's invasion, and still graduate</a> NPR: As residents return to a liberated town near Kyiv, a teacher and her high school students recount what it took to survive the war. 
+ <p class="updated_time"> 06:55 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 06:39 AM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61533715?at_medium=RSS&at_campaign=KARANGA">Covid in North Korea: No response to US vaccine offer</a> BBC: On a visit to the region, President Joe Biden said the US could provide Covid-19 jabs "immediately". 
  <p class="updated_time"> 06:38 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/ukraine-seversky-donets-river.html">Russian Forces Are Attempting Another Crossing of the Seversky Donets River, Ukraine Says</a> NYT: The 650-mile-long Seversky Donets River originates in Russia and meanders southeast through the Donbas region before re-entering Russian territory. 
- <p class="updated_time"> 06:23 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
- <p class="updated_time"> 06:17 AM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/french-banks-haiti-cic.html">How a French Bank Captured Haiti</a> NYT: It helped finance the Eiffel Tower as it drained millions from Haiti. The bank, C.I.C., won’t talk about it, but The Times tracked how much its investors made — and what Haiti lost. 
  <p class="updated_time"> 06:12 AM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/health-61532083?at_medium=RSS&at_campaign=KARANGA">Monkeypox: 80 cases confirmed in 12 countries</a> BBC: Another 50 suspected cases of the rare disease are being investigated, the WHO says. 
  <p class="updated_time"> 06:02 AM CT, May. 21 </p> 
@@ -91,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/australia/federal-election.html">Australia’s Election: What to Watch and What’s at Stake</a> NYT: While voters are most focused on cost-of-living issues, the opposition Labor Party has made the election a referendum on the conduct of Prime Minister Scott Morrison. 
  <p class="updated_time"> 10:07 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-ukraine-recruitment-finland.html">Russia Hustles to Recruit Soldiers and Halts Gas Supplies to Finland</a> NYT: The war has evolved into something of a stalemate that has seriously depleted Russia’s conventional war capabilities, even as it has made some gains. 
- <p class="updated_time"> 08:23 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/haiti-aristide-reparations-france.html">Aristide Demanded French Pay Reparations to Haiti. He Ended Up in Exile.</a> NYT: A firebrand Haitian president tried to hold France to account for its years of exploitation. He soon found himself ousted from power. 
  <p class="updated_time"> 07:51 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61532326?at_medium=RSS&at_campaign=KARANGA">Biden plan to end US migrant expulsion policy blocked</a> BBC: A US judge says the policy that allows migrants to be expelled over Covid fears must stay in place. 
  <p class="updated_time"> 06:46 PM CT, May. 20 </p> 
@@ -125,8 +131,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-ukraine-arconic-samara.html">U.S. Company Supplying Russian Military Seeks Exit, Caught Between Sanctions and Kremlin</a> NYT: Arconic runs a huge Russian metal plant, bought in an era of cooperation between the U.S. and Russia. Now it is struggling, after years of increasing Russian military aggression. 
  <p class="updated_time"> 05:30 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61532234?at_medium=RSS&at_campaign=KARANGA">Cannes: Topless woman protests against sexual violence in Ukraine</a> BBC: The woman stripped on the Cannes red carpet to show the words "stop raping us" and the Ukrainian flag. 
- <p class="updated_time"> 05:22 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/haiti-wall-street-us-banks.html">Invade Haiti, Wall Street Urged. The U.S. Obliged.</a> NYT: The long occupation of Haiti began with a drumbeat from the bank that became Citigroup, decades of diplomatic correspondence and other records show. 
  <p class="updated_time"> 05:14 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61529877?at_medium=RSS&at_campaign=KARANGA">Mariupol: Russia declares complete victory at Azovstal plant</a> BBC: Ukraine says the last defenders at the besieged site have been given permission to leave. 
  <p class="updated_time"> 05:10 PM CT, May. 20 </p> 
@@ -135,8 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61526898?at_medium=RSS&at_campaign=KARANGA">Elon Musk denies sexual misconduct allegations</a> BBC: A report claims Musk's company SpaceX paid an employee $250,000 to settle the claim against him. 
  <p class="updated_time"> 04:29 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/australia/australia-election-guide.html">A Guide to Australia’s Election</a> NYT: Election Day has arrived. Here’s what to watch. 
- <p class="updated_time"> 04:26 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/americas/takeaways-haiti-reparations-france.html">How Much Haiti’s Freedom Cost: Takeaways From a Times Series</a> NYT: How did the modern world’s most successful slave revolt give birth to a desperately poor nation? Here is a summary of what a team of New York Times correspondents found out. 
  <p class="updated_time"> 04:16 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100477125/in-a-new-era-dame-maggie-smith-remains-the-best-reason-to-watch-downton-abbey">In 'A New Era,' Dame Maggie Smith remains the best reason to watch 'Downton Abbey'</a> NPR: Maggie Smith's dowager countess acquires a villa in the South of France, so the Downton household goes on a field trip in Downton Abbey: A New Era. 
  <p class="updated_time"> 04:02 PM CT, May. 20 </p> 
@@ -175,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/us/politics/biden-trip-asia.html">Biden Begins Trip to Asia Meant to Reassure Allies of Focus on China</a> NYT: With the administration’s attention having shifted to Ukraine, President Biden plans to emphasize that the United States can counter aggression in both Europe and Asia. 
  <p class="updated_time"> 08:00 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/africa/somalia-free-ambulance.html">Free Ambulances in Mogadishu, Thanks to Aamin Ambulance</a> NYT: Dismayed that victims of the incessant violence in Somalia’s capital were being rolled to hospitals on wooden carts and in wheelbarrows, a dentist decided to do something about it. 
- <p class="updated_time"> 07:12 AM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/germany-warns-falling-euro-could-push-inflation-even-higher-11653063148">Germany Warns Falling Euro Could Push Inflation Even Higher</a> WSJ: The comments add pressure on the European Central Bank to reverse its negative rate policy despite concerns about a recession. 
  <p class="updated_time"> 07:06 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/asia/sri-lanka-protests.html">In Pictures: Sri Lanka’s Protesters Remain Defiant</a> NYT: As the pain of an economic crisis deepens, a nation’s anger and desperation are visible. 
  <p class="updated_time"> 04:00 AM CT, May. 20 </p> 
