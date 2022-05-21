@@ -9,22 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:37 PM CT, May. 20 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/20/world/russia-ukraine-war">Ukraine Live Updates: Russia Hustles to Recruit Soldiers and Halts Gas Supplies to Finland</a> NYT: The war has evolved into something of a stalemate that has seriously depleted Russia’s conventional war capabilities, even as Russian forces have made some gains. 
+ <p class="updated_time"> 08:44 PM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/germany-warns-falling-euro-could-push-inflation-even-higher-11653063148">Germany Warns Falling Euro Could Push Inflation Even Higher</a> WSJ: Germany Warns Falling Euro Could Push Inflation Even Higher 
  <p class="updated_time"> 08:23 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/haiti-aristide-reparations-france.html">Aristide Demanded French Pay Reparations to Haiti. He Ended Up in Exile.</a> NYT: A firebrand Haitian president tried to hold France to account for its years of exploitation. He soon found himself ousted from power. 
- <p class="updated_time"> 08:07 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/live/2022/05/20/world/russia-ukraine-war">Ukraine Live Updates: Russia Hustles to Recruit Soldiers and Halts Gas Supplies to Finland</a> NYT: The war has evolved into something of a stalemate that has seriously depleted Russia’s conventional war capabilities, even as Russian forces have made some gains. The steel plant in Mariupol has fallen, Russia said. 
  <p class="updated_time"> 08:04 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/australia/prime-minister-scott-morrison-election.html">Australian Prime Minister Scott Morrison Urges Voters to Opt for What They Know</a> NYT: His tenure hasn’t always been smooth, with moments that have tested the Australian public’s faith in his leadership 
  <p class="updated_time"> 07:51 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61532326?at_medium=RSS&at_campaign=KARANGA">Biden plan to end US migrant expulsion policy blocked</a> BBC: A US judge says the policy that allows migrants to be expelled over Covid fears must stay in place. 
- <p class="updated_time"> 07:45 PM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/germany-warns-falling-euro-could-push-inflation-even-higher-11653063148">Germany Warns Falling Euro Could Push Inflation Even Higher</a> WSJ: Germany Warns Falling Euro Could Push Inflation Even Higher 
+ <p class="updated_time"> 07:44 PM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-will-fight-until-all-russian-forces-are-expelled-military-intelligence-chief-says-11653046810">Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says</a> WSJ: Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says 
  <p class="updated_time"> 07:37 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/australia/anthony-albanese-australia-election.html">Anthony Albanese Pitches ‘Safe Change” in Australian Election</a> NYT: The opposition leader has emphasized the good that effective government can do. 
  <p class="updated_time"> 06:46 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61511446?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The volunteer drivers risking their lives to save others</a> BBC: Drivers describe evacuating people from Russian-held areas under threat of mines and military attack. 
- <p class="updated_time"> 06:45 PM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/ukraine-will-fight-until-all-russian-forces-are-expelled-military-intelligence-chief-says-11653046810">Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says</a> WSJ: Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says 
+ <p class="updated_time"> 06:44 PM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425">Russian Soldier Didn’t Commit Murder, His Lawyer Says</a> WSJ: Russian Soldier Didn’t Commit Murder, His Lawyer Says 
  <p class="updated_time"> 06:43 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/asia/samsung-biden-asia-economy.html">In South Korea, Joe Biden Seeks to Rebuild Economic Ties Across Asia</a> NYT: The president plans to unveil a new regional economic framework, but some in the region wonder whether it will be an empty exercise. 
  <p class="updated_time"> 06:43 PM CT, May. 20 </p> 
@@ -53,8 +55,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-ukraine-arconic-samara.html">U.S. Company Supplying Russian Military Seeks Exit, Caught Between Sanctions and Kremlin</a> NYT: Arconic runs a huge Russian metal plant, bought in an era of cooperation between the U.S. and Russia. Now it is struggling, after years of increasing Russian military aggression. 
  <p class="updated_time"> 05:47 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/haiti-history-colonized-france.html">The Root of Haiti’s Misery: Reparations to Enslavers</a> NYT: In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now. 
- <p class="updated_time"> 05:45 PM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425">Russian Soldier Didn’t Commit Murder, His Lawyer Says</a> WSJ: Russian Soldier Didn’t Commit Murder, His Lawyer Says 
+ <p class="updated_time"> 05:44 PM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/a-california-church-shooting-highlights-a-bitter-divide-among-taiwanese-11653077718">A California Church Shooting Highlights a Bitter Divide Among Taiwanese</a> WSJ: A California Church Shooting Highlights a Bitter Divide Among Taiwanese 
  <p class="updated_time"> 05:30 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61532234?at_medium=RSS&at_campaign=KARANGA">Cannes: Topless woman protests against sexual violence in Ukraine</a> BBC: The woman stripped on the Cannes red carpet to show the words "stop raping us" and the Ukrainian flag. 
  <p class="updated_time"> 05:22 PM CT, May. 20 </p> 
@@ -69,8 +71,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/health-61532083?at_medium=RSS&at_campaign=KARANGA">Monkeypox: 80 cases confirmed in 11 countries, says WHO</a> BBC: Another 50 suspected cases of the rare disease are being investigated, the UN health agency says. 
  <p class="updated_time"> 04:47 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-ukraine-recruitment-finland.html">Russia Hustles to Recruit Soldiers and Halts Gas Supplies to Finland</a> NYT: The war has evolved into something of a stalemate that has seriously depleted Russia’s conventional war capabilities, even as it has made some gains. 
- <p class="updated_time"> 04:45 PM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/a-california-church-shooting-highlights-a-bitter-divide-among-taiwanese-11653077718">A California Church Shooting Highlights a Bitter Divide Among Taiwanese</a> WSJ: A California Church Shooting Highlights a Bitter Divide Among Taiwanese 
+ <p class="updated_time"> 04:44 PM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/frances-macron-appoints-new-government-in-political-rebalancing-effort-11653066608">France’s Macron Appoints New Government in Balancing Act</a> WSJ: France’s Macron Appoints New Government in Balancing Act 
  <p class="updated_time"> 04:33 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61526898?at_medium=RSS&at_campaign=KARANGA">Elon Musk denies sexual misconduct allegations</a> BBC: A report claims Musk's company SpaceX paid an employee $250,000 to settle the claim against him. 
  <p class="updated_time"> 04:29 PM CT, May. 20 </p> 
@@ -89,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/20/1100459262/giant-sinkhole-china-ancient-forest">Scientists discover an ancient forest inside a giant sinkhole in China</a> NPR: The sinkhole spans an area nearly three football fields long and is deep enough to hide the Washington Monument. Explorers descended into the pit, where they found ancient trees and other plant life. 
  <p class="updated_time"> 03:49 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100477075/biden-aims-to-take-on-china-by-boosting-economic-ties-between-u-s-and-south-kore">Biden aims to take on China by boosting economic ties between U.S. and South Korea</a> NPR: President Biden wants to counter the economic might of China. He visited a semiconductor plant outside Seoul to kick off a trip aimed at his top foreign policy priority. 
- <p class="updated_time"> 03:45 PM CT, May. 20 </p> 
- <a href="https://www.wsj.com/articles/frances-macron-appoints-new-government-in-political-rebalancing-effort-11653066608">France’s Macron Appoints New Government in Balancing Act</a> WSJ: France’s Macron Appoints New Government in Balancing Act 
  <p class="updated_time"> 03:35 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100477061/in-a-remote-chinese-region-thousands-are-coerced-to-work">In a remote Chinese region, thousands are coerced to work</a> NPR: A new report from a Washington nonprofit tracks whether goods from China's western region of Xinjiang are made with forced labor, and how they make their way to customers in the U.S. and beyond. 
  <p class="updated_time"> 03:35 PM CT, May. 20 </p> 
@@ -228,8 +228,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:37 PM CT, May. 20 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/us/politics/mitch-mcconnell-ukraine.html">On Ukraine, McConnell Tries to Show the World This Isn’t Trump’s G.O.P.</a> NYT: The top Senate Republican traveled to Europe in a bid to show that isolationism hasn’t taken over his party. He has privately lobbied his colleagues to vote that way, and so far, most are. 
+ <p class="updated_time"> 09:07 PM CT, May. 20 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/us/politics/giuliani-jan-6-committee.html">Giuliani Meets With Jan. 6 Committee for Over 7 Hours</a> NYT: The onetime Trump lawyer was central to the former president’s efforts to overturn the 2020 election. 
  <p class="updated_time"> 08:40 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100519588/the-outcome-of-the-pennsylvania-gop-senate-primary-might-not-be-known-before-jun">The outcome of the Pennsylvania GOP Senate primary might not be known before June</a> NPR: A likely recount would mean that the race between Dr. Mehmet Oz and David McCormick might not be decided until June 8, the deadline for counties to report their results to the state. 
+ <p class="updated_time"> 08:33 PM CT, May. 20 </p> 
+ <a href="https://www.politico.com/news/2022/05/20/trump-georgia-alabama-primaries-00034232">Trump's revenge tour is put to the test in Georgia, Alabama</a> Politico: POLITICO’s Steve Shepard demystifies this week’s election data in a video series. 
  <p class="updated_time"> 08:12 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/business/economy/baby-formula-shortage-market.html">Baby Formula Shortage Has an Aggravating Factor: Few Producers</a> NYT: With just a handful of companies making U.S. infant formula, a shutdown of Abbott’s plant had outsized impact on the supply. 
  <p class="updated_time"> 07:36 PM CT, May. 20 </p> 
@@ -237,7 +243,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:11 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/ginni-thomas-election-trump.html">Ginni Thomas Urged Arizona Lawmakers to Overturn Election</a> NYT: The wife of Supreme Court Justice Clarence Thomas wrote to legislators in a crucial swing state after the Trump campaign’s loss in 2020. 
  <p class="updated_time"> 07:09 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/us/politics/john-kirby-pentagon-white-house.html">Pentagon Press Secretary Named to White House Communications Post</a> NYT: John Kirby, the Pentagon spokesman, will focus on national security and work alongside the new White House press secretary, Karine Jean-Pierre. 
+ <a href="https://www.nytimes.com/2022/05/20/us/politics/john-kirby-pentagon-white-house.html">John Kirby, Pentagon Spokesman, Will Join White House</a> NYT: John Kirby, the Pentagon spokesman, will focus on national security and work alongside the new White House press secretary, Karine Jean-Pierre. 
  <p class="updated_time"> 07:05 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/pelosi-communion-abortion.html">Archbishop Bars Pelosi From Communion Over Abortion Stance</a> NYT: Archbishop Salvatore J. Cordileone, who has repeatedly confronted the House speaker over her backing of abortion rights, said her stance was a “grave evil.” 
  <p class="updated_time"> 07:03 PM CT, May. 20 </p> 
@@ -274,8 +280,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/20/1100477033/a-recap-of-this-weeks-primaries">A recap of this week's primaries</a> NPR: Former President Trump is playing a big role on the Republican side — in states like Pennsylvania and North Carolina — endorsing Republican candidates who pledged loyalty to him. 
  <p class="updated_time"> 03:29 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/john-eastman-trump-jan-6.html">Lawyer Says He Dealt Directly With Trump Over Jan. 6 Plans</a> NYT: John Eastman said in a court filing that he had received handwritten notes from President Donald J. Trump as they strategized about how to keep him in power. 
- <p class="updated_time"> 03:26 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/us/politics/mitch-mcconnell-ukraine.html">On Ukraine, McConnell Tries to Show the World This Isn’t Trump’s G.O.P.</a> NYT: The top Senate Republican traveled to Europe in a bid to show that isolationism hasn’t taken over his party. He has privately lobbied his colleagues to vote that way, and so far, most are. 
  <p class="updated_time"> 03:07 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/pentagon-africa-command-langley.html">Pentagon Taps Next Commander of U.S. Forces in Africa</a> NYT: If approved, Lt. Gen. Michael E. Langley would become the first Black four-star Marine Corps officer. 
  <p class="updated_time"> 02:59 PM CT, May. 20 </p> 
@@ -362,8 +366,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/19/cdc-advisers-recommend-pfizer-covid-19-booster-kids-00033890">CDC recommends Pfizer-BioNTech Covid-19 booster for kids 5-11</a> Politico: The committee found that the vaccine has largely been safe for that population of children, with incidents of myocarditis and other rare adverse events lower compared to older kids. 
  <p class="updated_time"> 04:04 PM CT, May. 19 </p> 
  <a href="https://www.npr.org/2022/05/19/1100228359/2-senators-are-working-across-the-aisle-to-address-the-mental-health-crisis">2 senators are working across the aisle to address the mental health crisis</a> NPR: Democratic Sen. Chris Murphy and Republican Sen. Bill Cassidy first teamed up six years ago on mental health legislation. Now, we check in on this unlikely duo's work to update it. 
- <p class="updated_time"> 01:11 PM CT, May. 19 </p> 
- <a href="https://www.politico.com/news/2022/05/19/fda-refuses-to-tell-congress-why-infant-formula-response-took-months-00033805">FDA refuses to tell Congress why infant formula response took months</a> Politico: "We have an ongoing investigation about the details of exactly what happened." 
  <p class="updated_time"> 01:07 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/ocasio-cortez-calls-on-maloney-to-resign-dccc-chairmanship-if-he-primaries-colleague-00033811">Ocasio-Cortez calls on Maloney to resign DCCC chairmanship if he primaries colleague</a> Politico: Maloney announced on Monday that he'd run for reelection in a redrawn district comprised mostly of Rep. Mondaire Jones' constituents. 
  <p class="updated_time"> 08:41 AM CT, May. 19 </p> 
