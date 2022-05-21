@@ -9,44 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:19 AM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/05/21/world/russia-ukraine-war">Ukraine Live Updates: Russia Says It Controls Mariupol Steel Plant</a> NYT: Ukraine has not confirmed Moscow’s claim that it has full control of the sprawling complex in the port city. The tenacity of Ukrainian forces there has become a symbol of the country’s broader resistance. 
+ <p class="updated_time"> 05:44 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/21/world/russia-ukraine-war">Ukraine Live Updates: Russia Presses Its Campaign After Claiming Full Control of Mariupol Steel Plant</a> NYT: Ukraine has not confirmed Moscow’s claim about the port city, but Ukrainian officials said Russia was working to demine Mariupol’s port in an effort to reopen it. At the same time, Moscow is pushing to shape a more positive narrative within Russia about how the war is going. 
  <p class="updated_time"> 05:17 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/asia/biden-south-korea-yoon.html">In South Korea, Biden Moves to Shore Up Alliance</a> NYT: President Biden said he would consider expanding joint military exercises that were scaled back during the Trump administration. 
  <p class="updated_time"> 05:00 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/canada/royal-visit-charles-camilla.html">Royal Visit to Canada Rife With Symbolism, But Little Substance</a> NYT: The often hectic royal tours, like this week’s by Prince Charles and Camilla, his wife, are short on substance if long on symbolism. 
+ <p class="updated_time"> 04:58 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/germany-warns-falling-euro-could-push-inflation-even-higher-11653063148">Germany Warns Falling Euro Could Push Inflation Even Higher</a> WSJ: Germany Warns Falling Euro Could Push Inflation Even Higher 
  <p class="updated_time"> 04:33 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/bbc-mi5-agent-abuse-accusations.html">BBC Allowed to Publish Accusations of Abuse Against MI5 Agent</a> NYT: The news organization found that evidence suggested an agent for the domestic intelligence agency had a history of right-wing extremism and was abusive toward women, but it wasn’t allowed to fully identify him. 
- <p class="updated_time"> 04:28 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/germany-warns-falling-euro-could-push-inflation-even-higher-11653063148">Germany Warns Falling Euro Could Push Inflation Even Higher</a> WSJ: Germany Warns Falling Euro Could Push Inflation Even Higher 
  <p class="updated_time"> 04:01 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/05/21/1094711449/story-of-dance-and-discipline-pandemic-in-the-colombia">A story of dance and discipline amid a global pandemic in the Llanos</a> NPR: During a global pandemic in Orocué, Colombia, dance and adversity brought a group together. 
  <p class="updated_time"> 04:00 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1100391863/uyghurs-xinjiang-muslim-minority-forced-labor-china">How goods made with forced labor end up in your local American store</a> NPR: A new report from a non-profit group finds that goods imported from the Xinjiang region in China could be the result of policies that coerce ethnic minority into factory jobs. 
+ <p class="updated_time"> 03:58 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-will-fight-until-all-russian-forces-are-expelled-military-intelligence-chief-says-11653046810">Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says</a> WSJ: Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says 
  <p class="updated_time"> 03:39 AM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61533713?at_medium=RSS&at_campaign=KARANGA">Tornado in Germany injures 43 people, police say</a> BBC: Officials said the tornado cut a path of destruction during violent storms in the west of the country. 
- <p class="updated_time"> 03:28 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/ukraine-will-fight-until-all-russian-forces-are-expelled-military-intelligence-chief-says-11653046810">Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says</a> WSJ: Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says 
- <p class="updated_time"> 02:28 AM CT, May. 21 </p> 
+ <p class="updated_time"> 02:58 AM CT, May. 21 </p> 
  <a href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425">Russian Soldier Didn’t Commit Murder, His Lawyer Says</a> WSJ: Russian Soldier Didn’t Commit Murder, His Lawyer Says 
+ <p class="updated_time"> 01:58 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/a-california-church-shooting-highlights-a-bitter-divide-among-taiwanese-11653077718">A California Church Shooting Highlights a Bitter Divide Among Taiwanese</a> WSJ: A California Church Shooting Highlights a Bitter Divide Among Taiwanese 
  <p class="updated_time"> 01:53 AM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61533540?at_medium=RSS&at_campaign=KARANGA">Dying of cold on the streets of São Paulo</a> BBC: A deadly cold snap hits Latin America's biggest city as the number of homeless people grows. 
- <p class="updated_time"> 01:28 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/a-california-church-shooting-highlights-a-bitter-divide-among-taiwanese-11653077718">A California Church Shooting Highlights a Bitter Divide Among Taiwanese</a> WSJ: A California Church Shooting Highlights a Bitter Divide Among Taiwanese 
  <p class="updated_time"> 01:27 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/australia/australia-election-compulsory-voting.html">Why Australians Must Vote on Election Day</a> NYT: Compulsory voting is seen as forcing candidates toward the political center. 
  <p class="updated_time"> 01:10 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/australia/democracy-sausage.html">Australian Democracy Comes With a Side of Grilled Onions</a> NYT: In a beloved tradition, every Election Day sausages are sold near polling stations as fund-raisers for local schools, churches and community groups. 
  <p class="updated_time"> 01:01 AM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/health-61532083?at_medium=RSS&at_campaign=KARANGA">Monkeypox: 80 cases confirmed in 12 countries</a> BBC: Another 50 suspected cases of the rare disease are being investigated, the WHO says. 
+ <p class="updated_time"> 12:58 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/frances-macron-appoints-new-government-in-political-rebalancing-effort-11653066608">France’s Macron Appoints New Government in Balancing Act</a> WSJ: France’s Macron Appoints New Government in Balancing Act 
  <p class="updated_time"> 12:54 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-azov-mariupol-trials.html">How Russia Uses Show Trials to Punish Putin’s Enemies</a> NYT: Moscow may label the Azov fighters who defended the Mariupol steel plant as terrorists — raising the prospect of a high-profile trial. The Kremlin has a long tradition of using the courts for political goals. 
  <p class="updated_time"> 12:34 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/business/economy/g7-20-billion-ukraine.html">G7 Nations Pledge $20 Billion to Ukraine</a> NYT: Financing will be directed to keep government operations running amid the Russian war. 
  <p class="updated_time"> 12:32 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/europe/russia-bucha-ukraine-executions.html">New Evidence Shows How Russian Soldiers Executed Men in Bucha</a> NYT: Witness testimony and videos obtained by The New York Times show how Russian paratroopers executed at least eight Ukrainian men in a Kyiv suburb on March 4, a potential war crime. 
- <p class="updated_time"> 12:28 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/frances-macron-appoints-new-government-in-political-rebalancing-effort-11653066608">France’s Macron Appoints New Government in Balancing Act</a> WSJ: France’s Macron Appoints New Government in Balancing Act 
  <p class="updated_time"> 12:28 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/australia/prime-minister-scott-morrison-election.html">Australian Prime Minister Scott Morrison Urges Voters to Opt for What They Know</a> NYT: His tenure hasn’t always been smooth, with moments that have tested the Australian public’s faith in his leadership 
  <p class="updated_time"> 12:16 AM CT, May. 21 </p> 
@@ -297,7 +297,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:35 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100477033/a-recap-of-this-weeks-primaries">A recap of this week's primaries</a> NPR: Former President Trump is playing a big role on the Republican side — in states like Pennsylvania and North Carolina — endorsing Republican candidates who pledged loyalty to him. 
  <p class="updated_time"> 03:29 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/us/politics/john-eastman-trump-jan-6.html">Lawyer Says He Dealt Directly With Trump Over Jan. 6 Plans</a> NYT: John Eastman said in a court filing that he had received handwritten notes from President Donald J. Trump as they strategized about how to keep him in power. 
+ <a href="https://www.nytimes.com/2022/05/20/us/politics/john-eastman-trump-jan-6.html">John Eastman Says He Dealt Directly With Trump Over Jan. 6 Plans</a> NYT: John Eastman said in a court filing that he had received handwritten notes from President Donald J. Trump as they strategized about how to keep him in power. 
  <p class="updated_time"> 03:07 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/pentagon-africa-command-langley.html">Pentagon Taps Next Commander of U.S. Forces in Africa</a> NYT: If approved, Lt. Gen. Michael E. Langley would become the first Black four-star Marine Corps officer. 
  <p class="updated_time"> 02:59 PM CT, May. 20 </p> 
