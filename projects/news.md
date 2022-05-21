@@ -9,38 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:26 AM CT, May. 21 </p> 
+ <p class="updated_time"> 09:42 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/05/21/world/russia-ukraine-war">Live Updates: Biden Signs $40 Billion Ukraine Aid Package as Russia Presses Its Campaign</a> NYT: President Biden signed the package of military and humanitarian aid during a visit to Seoul. The support for Ukraine came as Moscow made moves toward reopening Mariupol’s port and shaping a more positive narrative within Russia about how the war is going. 
+ <p class="updated_time"> 09:31 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/21/world/americas/psychedelic-therapy-female-veterans.html">‘I Want to Reset My Brain’: Female Veterans Turn to Psychedelic Therapy</a> NYT: Traumatized by war and sexual assaults, some U.S. veterans and veterans’ spouses are seeking help in a Mexican clinic that treats depression and addiction with potent hallucinogens like toad poison. 
  <p class="updated_time"> 09:10 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/asia/taliban-afghanistan-women-hijab.html">The Taliban Pressure Women in Afghanistan to Cover Up</a> NYT: The militant group in charge of the country is aggressively enforcing a decree requiring coverings from head to toe and crushing rare public protests against the order. 
+ <p class="updated_time"> 08:56 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
  <p class="updated_time"> 08:43 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/haiti-history-colonized-france.html">The Root of Haiti’s Misery: Reparations to Enslavers</a> NYT: In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now. 
  <p class="updated_time"> 08:37 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/kirill-putin-russian-orthodox-church.html">The Russian Orthodox Leader at the Core of Putin’s Ambitions</a> NYT: Patriarch Kirill I has provided spiritual cover for the invasion of Ukraine, reaping vast resources for his church in return. Now, in an extraordinary step, the E.U. is threatening him with sanctions. 
  <p class="updated_time"> 08:35 AM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61535204?at_medium=RSS&at_campaign=KARANGA">Spain lifts Covid ban on unvaccinated travellers</a> BBC: UK holidaymakers without a jab will be allowed entry with a negative test or proof of recovery. 
- <p class="updated_time"> 08:32 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/germany-warns-falling-euro-could-push-inflation-even-higher-11653063148">Germany Warns Falling Euro Could Push Inflation Even Higher</a> WSJ: Germany Warns Falling Euro Could Push Inflation Even Higher 
  <p class="updated_time"> 08:23 AM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61535345?at_medium=RSS&at_campaign=KARANGA">Roger Angell: Baseball's reluctant poet laureate dies at 101</a> BBC: Although he disliked the accolade, Roger Angell was hailed for his innovative writing about the game. 
  <p class="updated_time"> 08:16 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1100536017/germany-tornadoes-43-injured">At least 43 people were injured in a storm that caused 3 tornadoes in Germany</a> NPR: The German Weather Service confirmed three tornadoes in North Rhine-Westphalia — in Paderborn, in nearby Lippstadt, and on the edge of the town of Hoexter. 
+ <p class="updated_time"> 07:56 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
  <p class="updated_time"> 07:33 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/lviv-philharmonic-orchestra.html">‘A form of hope’: As air-raid sirens sound, a Lviv orchestra opens a summer festival with Mozart’s Requiem.</a> NYT: Even as the Lviv Philharmonic theater became a wartime hub for humanitarian supplies, it has remained a home for musicians and choirs. 
  <p class="updated_time"> 07:32 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1100533342/australia-scott-morrison-concedes-election">Australia's prime minister concedes despite millions of votes left to be counted</a> NPR: The Labor Party appeared more likely than Prime Minister Scott Morrison's coalition to form a government after Australia's election on Saturday that could result in a rare hung parliament. 
- <p class="updated_time"> 07:32 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/ukraine-will-fight-until-all-russian-forces-are-expelled-military-intelligence-chief-says-11653046810">Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says</a> WSJ: Ukraine Will Fight Until All Russian Forces Expelled, Military Intelligence Chief Says 
  <p class="updated_time"> 07:00 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/business/dealbook/world-economic-forum-davos.html">At Davos, a Referendum on the World Economic Forum</a> NYT: Many values espoused by the World Economic Forum — globalization, liberalism, free market capitalism, representative democracy — are under attack. 
  <p class="updated_time"> 06:57 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1100341505/russia-invasion-ukraine-school-ukrainian-teacher-students-borodyanka">How a Ukrainian teacher helped students escape Russia's invasion, and still graduate</a> NPR: As residents return to a liberated town near Kyiv, a teacher and her high school students recount what it took to survive the war. 
+ <p class="updated_time"> 06:56 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
  <p class="updated_time"> 06:39 AM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61533715?at_medium=RSS&at_campaign=KARANGA">Covid in North Korea: No response to US vaccine offer</a> BBC: On a visit to the region, President Joe Biden said the US could provide Covid-19 jabs "immediately". 
  <p class="updated_time"> 06:38 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/ukraine-seversky-donets-river.html">Russian Forces Are Attempting Another Crossing of the Seversky Donets River, Ukraine Says</a> NYT: The 650-mile-long Seversky Donets River originates in Russia and meanders southeast through the Donbas region before re-entering Russian territory. 
- <p class="updated_time"> 06:32 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/lawyers-in-ukraine-war-crimes-trial-argue-over-russian-soldiers-intent-11653043425">Russian Soldier Didn’t Commit Murder, His Lawyer Says</a> WSJ: Russian Soldier Didn’t Commit Murder, His Lawyer Says 
  <p class="updated_time"> 06:17 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/french-banks-haiti-cic.html">How a French Bank Captured Haiti</a> NYT: It helped finance the Eiffel Tower as it drained millions from Haiti. The bank, C.I.C., won’t talk about it, but The Times tracked how much its investors made — and what Haiti lost. 
  <p class="updated_time"> 06:12 AM CT, May. 21 </p> 
@@ -49,20 +51,16 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/21/1098489307/roma-refugees-moldova-ukraine-war">Roma refugees who fled from Ukraine to Moldova are now in limbo</a> NPR: Many slipped across the border as the war began, but lack passports or other official forms of ID. They struggle to prove their eligibility for humanitarian aid — and to cross into other countries. 
  <p class="updated_time"> 06:00 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/business/world-economic-forum-davos-accomplish.html">For Elite? Yes. Ostentatious? Yes. But Also Effective.</a> NYT: For all the criticism of the World Economic Forum’s display of wealth, productive partnerships are indeed formed at Davos, participants say. 
- <p class="updated_time"> 05:32 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/a-california-church-shooting-highlights-a-bitter-divide-among-taiwanese-11653077718">A California Church Shooting Highlights a Bitter Divide Among Taiwanese</a> WSJ: A California Church Shooting Highlights a Bitter Divide Among Taiwanese 
+ <p class="updated_time"> 05:56 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
  <p class="updated_time"> 05:17 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/asia/biden-south-korea-yoon.html">In South Korea, Biden Moves to Shore Up Alliance</a> NYT: President Biden said he would consider expanding joint military exercises that were scaled back during the Trump administration. 
- <p class="updated_time"> 05:03 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Ukrainian President Volodymyr Zelensky described the soldiers and marines who had defended the southeastern port city through a monthslong siege as national heroes. 
  <p class="updated_time"> 05:00 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/canada/royal-visit-charles-camilla.html">Royal Visit to Canada Rife With Symbolism, But Little Substance</a> NYT: The often hectic royal tours, like this week’s by Prince Charles and Camilla, his wife, are short on substance if long on symbolism. 
- <p class="updated_time"> 04:54 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia's Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s center-left opposition won a national election after Prime Minister Scott Morrison conceded defeat. Anthony Albanese, who leads the Labor Party, is poised to become prime minister. 
+ <p class="updated_time"> 04:56 AM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 04:33 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/bbc-mi5-agent-abuse-accusations.html">BBC Allowed to Publish Accusations of Abuse Against MI5 Agent</a> NYT: The news organization found that evidence suggested an agent for the domestic intelligence agency had a history of right-wing extremism and was abusive toward women, but it wasn’t allowed to fully identify him. 
- <p class="updated_time"> 04:32 AM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/frances-macron-appoints-new-government-in-political-rebalancing-effort-11653066608">France’s Macron Appoints New Government in Balancing Act</a> WSJ: France’s Macron Appoints New Government in Balancing Act 
  <p class="updated_time"> 04:01 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2022/05/21/1094711449/story-of-dance-and-discipline-pandemic-in-the-colombia">A story of dance and discipline amid a global pandemic in the Llanos</a> NPR: During a global pandemic in Orocué, Colombia, dance and adversity brought a group together. 
  <p class="updated_time"> 04:00 AM CT, May. 21 </p> 
@@ -175,6 +173,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/us/politics/biden-trip-asia.html">Biden Begins Trip to Asia Meant to Reassure Allies of Focus on China</a> NYT: With the administration’s attention having shifted to Ukraine, President Biden plans to emphasize that the United States can counter aggression in both Europe and Asia. 
  <p class="updated_time"> 08:00 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/africa/somalia-free-ambulance.html">Free Ambulances in Mogadishu, Thanks to Aamin Ambulance</a> NYT: Dismayed that victims of the incessant violence in Somalia’s capital were being rolled to hospitals on wooden carts and in wheelbarrows, a dentist decided to do something about it. 
+ <p class="updated_time"> 07:12 AM CT, May. 20 </p> 
+ <a href="https://www.wsj.com/articles/germany-warns-falling-euro-could-push-inflation-even-higher-11653063148">Germany Warns Falling Euro Could Push Inflation Even Higher</a> WSJ: The comments add pressure on the European Central Bank to reverse its negative rate policy despite concerns about a recession. 
  <p class="updated_time"> 07:06 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/asia/sri-lanka-protests.html">In Pictures: Sri Lanka’s Protesters Remain Defiant</a> NYT: As the pain of an economic crisis deepens, a nation’s anger and desperation are visible. 
  <p class="updated_time"> 04:55 AM CT, May. 20 </p> 
@@ -217,8 +217,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/world/europe/ukraine-ambassador-bridget-brink.html">U.S. Ambassador to Ukraine, Bridget Brink, Has Experience Shaped By Soviet Domination</a> NYT: Bridget Brink has worked in Slovakia, Uzbekistan and Georgia. She is filling a role that has been empty for three years. 
  <p class="updated_time"> 01:06 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/russia-ukraine-kherson-zelensky.html">A Russian Official Tours Occupied Southern Ukraine</a> NYT: The official, Marat Khusnullin, Russia’s deputy prime minister for infrastructure, outlined plans to take control of vital infrastructure. 
- <p class="updated_time"> 10:00 AM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/science/spiders-tarantulas-arachnids-trade.html">Scientists Uncover a Shady Web of Online Spider Sales</a> NYT: More than 1,200 species of arachnids are part of a largely unregulated global marketplace, according to a new study. 
 
 
 </details>
@@ -226,6 +224,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:52 AM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/21/us/politics/perdue-kemp-georgia-trump.html">Perdue Had Trump. In Georgia, Kemp Had Everything Else.</a> NYT: David Perdue challenged Gov. Brian Kemp because of Donald Trump’s fury over his 2020 loss. Thoroughly outflanked and failing to gain traction, he is now staring down defeat. 
  <p class="updated_time"> 09:11 AM CT, May. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/21/sean-patrick-maloney-dodges-a-bullet-00034238"> Sean Patrick Maloney dodges a bullet</a> Politico Playbook: And President Joe Biden visits South Korea. 
  <p class="updated_time"> 09:07 AM CT, May. 21 </p> 
@@ -286,8 +286,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/us/politics/georgia-republican-primary-secretary-of-state.html">In Georgia, a G.O.P. Primary Tests the Power of a Trump Vendetta</a> NYT: Secretary of State Brad Raffensperger is fending off a challenger fueled by Donald J. Trump’s election lies. But do voters still care about 2020 as much as the former president does? 
  <p class="updated_time"> 06:57 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/business/starbucks-union-buffalo.html">Labor Board Seeks Unionization at Starbucks Where Union Lost Election</a> NYT: A complaint by the agency accuses the coffee chain of illegally intimidating and retaliating against workers in an election that the union lost. 
- <p class="updated_time"> 06:43 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/asia/samsung-biden-asia-economy.html">In South Korea, Joe Biden Seeks to Rebuild Economic Ties Across Asia</a> NYT: The president plans to unveil a new regional economic framework, but some in the region wonder whether it will be an empty exercise. 
  <p class="updated_time"> 06:10 PM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/new-york-house-race-de-blasio-00034197">Potential candidates flood incumbent-free New York House race — including de Blasio</a> Politico: Hours after former New York City Mayor Bill de Blasio announced on MSNBC that he would compete for the newly-created 10th Congressional District, potential challengers piled up. 
  <p class="updated_time"> 06:00 PM CT, May. 20 </p> 
@@ -352,10 +350,10 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/20/democrats-abortion-options-roe-decision-00033714">Dems debate limited options as Roe decision looms</a> Politico: The party could talk contraception, abortion pills, privacy concerns, codifying Roe and more. They have plenty of options, but no clear path forward. 
  <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/democrats-north-carolina-senate-00033887">Democrats confront North Carolina blues</a> Politico: Democrats are debating how far they should go to try to win the Tar Heel State, where they haven't won a Senate race since 2008. 
- <p class="updated_time"> 07:23 PM CT, May. 19 </p> 
- <a href="https://www.politico.com/news/2022/05/19/boeing-crew-capsule-launch-test-redo-00033987">Boeing crew capsule launches to space station on test redo</a> Politico: It’s Boeing’s third shot at the high-stakes flight demo. 
  <p class="updated_time"> 06:12 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/oz-mccormick-pa-senate-race-00033961">Oz, McCormick unleash army of lawyers in Pa. Senate race</a> Politico: Both Oz and McCormick have enlisted alumni from Trump’s 2020 campaign to prepare for a potential recount. 
+ <p class="updated_time"> 01:11 PM CT, May. 19 </p> 
+ <a href="https://www.politico.com/news/2022/05/19/fda-refuses-to-tell-congress-why-infant-formula-response-took-months-00033805">FDA refuses to tell Congress why infant formula response took months</a> Politico: "We have an ongoing investigation about the details of exactly what happened." 
  <p class="updated_time"> 01:07 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/ocasio-cortez-calls-on-maloney-to-resign-dccc-chairmanship-if-he-primaries-colleague-00033811">Ocasio-Cortez calls on Maloney to resign DCCC chairmanship if he primaries colleague</a> Politico: Maloney announced on Monday that he'd run for reelection in a redrawn district comprised mostly of Rep. Mondaire Jones' constituents. 
  <p class="updated_time"> 08:41 AM CT, May. 19 </p> 
