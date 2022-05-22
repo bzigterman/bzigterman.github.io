@@ -923,16 +923,16 @@ html {
 <td class="gt_row gt_right">+31%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">563</td>
-<td class="gt_row gt_right gt_striped">808</td>
-<td class="gt_row gt_right gt_striped">+43%</td></tr>
+<td class="gt_row gt_right gt_striped">824</td>
+<td class="gt_row gt_right gt_striped">+46%</td></tr>
     <tr><td class="gt_row gt_left">Average New Deaths</td>
 <td class="gt_row gt_right">8</td>
 <td class="gt_row gt_right">9</td>
 <td class="gt_row gt_right">+12%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Average New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">14K</td>
-<td class="gt_row gt_right gt_striped">10K</td>
-<td class="gt_row gt_right gt_striped">&minus;27%</td></tr>
+<td class="gt_row gt_right gt_striped">12K</td>
+<td class="gt_row gt_right gt_striped">&minus;10%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
