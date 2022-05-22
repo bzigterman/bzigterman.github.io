@@ -9,26 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:44 PM CT, May. 21 </p> 
+ <p class="updated_time"> 11:23 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/live/2022/05/21/world/russia-ukraine-war">Live Updates: Biden Signs $40 Billion Ukraine Aid Package as Calls Grow for Cease-Fire</a> NYT: The president signed the package of military and humanitarian aid during a visit to Seoul. The support for Ukraine came as neither side is making more than incremental gains and the war is set to begin its fourth month. 
+ <p class="updated_time"> 11:23 PM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/2022/05/21/world/biden-ukraine-zelensky-ceasefire-russia.html">As Biden Signs $40 Billion Aid Package for Ukraine, Calls Grow for a Cease-Fire</a> NYT: But a diplomatic resolution to the war still looks remote, amid searing questions about what would constitute a “victory” for Kyiv. 
+ <p class="updated_time"> 10:35 PM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
  <p class="updated_time"> 10:22 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/asia/biden-south-korea-yoon.html">Rejecting ‘Love Letters’ to North Korea, Biden Offers Carrots and Sticks Instead</a> NYT: President Biden said he would consider expanding joint exercises with South Korea’s military that were scaled back during the Trump administration. 
  <p class="updated_time"> 10:05 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61539426?at_medium=RSS&at_campaign=KARANGA">Australia election: Anthony Albanese signals climate policy change</a> BBC: Anthony Albanese vows to take the nation in a new direction, creating a renewable energy superpower. 
- <p class="updated_time"> 10:01 PM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
- <p class="updated_time"> 09:01 PM CT, May. 21 </p> 
+ <p class="updated_time"> 09:35 PM CT, May. 21 </p> 
  <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
- <p class="updated_time"> 08:01 PM CT, May. 21 </p> 
+ <p class="updated_time"> 08:35 PM CT, May. 21 </p> 
  <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
+ <p class="updated_time"> 07:35 PM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
  <p class="updated_time"> 07:27 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-61523624?at_medium=RSS&at_campaign=KARANGA">Governments should subsidise food and energy - IMF boss</a> BBC: Kristalina Georgieva says government subsidies can help with the cost of living crisis. 
  <p class="updated_time"> 07:03 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-south-asia-61507258?at_medium=RSS&at_campaign=KARANGA">'My first court case: Prosecuting my father's killers'</a> BBC: Shagufta Ahmed's first job was to get justice for her father, a lecturer murdered after he blew the whistle on a colleague. 
- <p class="updated_time"> 07:01 PM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
- <p class="updated_time"> 06:16 PM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/2022/05/21/world/biden-ukraine-zelensky-ceasefire-russia.html">As Biden Signs $40 Billion Aid Package for Ukraine, Calls Grow for a Cease-Fire</a> NYT: But a diplomatic resolution to the war still looks remote, amid searing questions about what would constitute a “victory” for Kyiv. 
+ <p class="updated_time"> 06:35 PM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 06:15 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-61464176?at_medium=RSS&at_campaign=KARANGA">Your pictures on the theme of 'on the water'</a> BBC: A selection of striking images from our readers around the world. 
  <p class="updated_time"> 06:09 PM CT, May. 21 </p> 
@@ -37,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61500136?at_medium=RSS&at_campaign=KARANGA">Femicide: Keeping the memory of murdered women alive with maps</a> BBC: Geraldina Guerra tracks cases of femicide in Ecuador and maps victims' lives online so people can learn about their life as well as their death. 
  <p class="updated_time"> 06:03 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61480248?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Policing faces, bodies and beards on Kabul streets</a> BBC: The BBC goes on patrol with the Taliban's "moral police", whose job it is to enforce hard-line rule. 
- <p class="updated_time"> 06:01 PM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 05:17 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/americas/psychedelic-therapy-female-veterans.html">‘I Want to Reset My Brain’: Female Veterans Turn to Psychedelic Therapy</a> NYT: Traumatized by war and sexual assaults, some U.S. veterans and veterans’ spouses are seeking help in a Mexican clinic that treats depression and addiction with potent hallucinogens like toad poison. 
  <p class="updated_time"> 04:57 PM CT, May. 21 </p> 
