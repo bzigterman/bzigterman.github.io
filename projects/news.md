@@ -9,8 +9,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:17 AM CT, May. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Says Military Aid Could Free Exports and Ease Food Prices</a> NYT: Ukraine’s president said wresting control of ports from Russia could help ease global price pressures from the war. President Biden signed one of the largest aid packages in decades on Saturday. 
+ <p class="updated_time"> 07:07 AM CT, May. 22 </p> 
+ <a href="https://www.npr.org/2022/05/22/1100587966/tourists-are-returning-to-cuba-but-is-it-enough-for-the-islands-economy">Tourists are returning to Cuba, but is it enough for the island's economy?</a> NPR: Tourists, one of the mainstays of the Cuban economy, are returning. But the recovery is slow, and some say mismanaged. 
+ <p class="updated_time"> 07:02 AM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">Ukraine Live Updates: Russia Renews Attack Against Key Eastern City</a> NYT: Fighting raged around Sievierodonetsk, a focus of Russia’s struggling offensive in the Donbas region. Ukraine’s president pressed allies for even more weapons, after President Biden signed one of the largest aid packages in decades. 
+ <p class="updated_time"> 07:01 AM CT, May. 22 </p> 
+ <a href="https://www.npr.org/2022/05/22/1100587938/north-korea-increases-ballistic-missile-tests">North Korea increases ballistic missile tests</a> NPR: Ayesha Rascoe speaks to Jenny Town, senior fellow at the Stimson Center and director of its 38 North Program, about the recent uptick in North Korea's ballistic missile tests. 
+ <p class="updated_time"> 07:01 AM CT, May. 22 </p> 
+ <a href="https://www.npr.org/2022/05/22/1100587903/russia-intends-to-annex-kherson-in-southern-ukraine">Russia intends to annex Kherson in southern Ukraine</a> NPR: Russians have occupied Kherson in southern Ukraine since the early days of the invasion, and are trying to turn it into a Russian city. 
+ <p class="updated_time"> 06:25 AM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
  <p class="updated_time"> 06:10 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/health-61540474?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Israel and Switzerland confirm cases</a> BBC: It means the viral outbreak has spread to 14 countries with more than 80 cases detected so far. 
  <p class="updated_time"> 06:07 AM CT, May. 22 </p> 
@@ -19,10 +27,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/22/world/asia/flooding-india-bangladesh.html">Millions Displaced and Dozens Dead in Flooding in India and Bangladesh</a> NYT: Heavy rains have washed away towns, villages and infrastructure, as extreme weather events become more common in South Asia. 
  <p class="updated_time"> 06:02 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61540945?at_medium=RSS&at_campaign=KARANGA">Professor Brian Cox: Maybe humans are the Martians</a> BBC: The renowned physicist reflects on whether civilisation, like us, exists in other galaxies. 
- <p class="updated_time"> 05:53 AM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
- <p class="updated_time"> 04:53 AM CT, May. 22 </p> 
+ <p class="updated_time"> 05:25 AM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
+ <p class="updated_time"> 04:30 AM CT, May. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61540619?at_medium=RSS&at_campaign=KARANGA">Nigeria: Four die in Lagos Island building collapse</a> BBC: Four people die after a three-storey building collapsed in an upmarket area of Lagos. 
+ <p class="updated_time"> 04:25 AM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
  <p class="updated_time"> 04:12 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61540944?at_medium=RSS&at_campaign=KARANGA">Floods in Bangladesh and India affect millions</a> BBC: At least 50 people are dead after some areas are battered by widespread flooding and landslides. 
  <p class="updated_time"> 04:00 AM CT, May. 22 </p> 
@@ -31,13 +41,11 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/22/health/coronavirus-mink-michigan-spillover.html">The Michigan Mink Mystery: How Did an Interspecies Outbreak Unfold?</a> NYT: The puzzling coronavirus cases highlight ongoing surveillance challenges and blind spots. 
  <p class="updated_time"> 04:00 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/cambridge-university-women-degrees-1897.html">1897: Cambridge University Votes Against Degrees for Women</a> NYT: A resolution to grant degrees to women was rejected by a large majority and men celebrated the result with fireworks. 
- <p class="updated_time"> 03:53 AM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
- <p class="updated_time"> 02:53 AM CT, May. 22 </p> 
+ <p class="updated_time"> 03:25 AM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
  <p class="updated_time"> 02:31 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/australia/election-albanese-climate.html">Australia’s ‘Climate Election’ Finally Arrived. Will It Be Enough?</a> NYT: Voters rejected the deny-and-delay approach that has made Australia a global laggard on emission cuts. But how far the new government will go remains to be seen. 
- <p class="updated_time"> 01:53 AM CT, May. 22 </p> 
+ <p class="updated_time"> 02:25 AM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 01:31 AM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100583411/albanese-elected-australias-leader-in-complex-poll-result">Albanese elected Australia's leader in complex poll result</a> NPR: Australians awoke on Sunday to a new prime minister in Anthony Albanese, the center-left Labor Party leader, though it remains unclear whether his party can form a majority government. 
@@ -113,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61533715?at_medium=RSS&at_campaign=KARANGA">Covid in North Korea: No response to US vaccine offer</a> BBC: On a visit to the region, President Joe Biden said the US could provide Covid-19 jabs "immediately". 
  <p class="updated_time"> 06:38 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/ukraine-seversky-donets-river.html">Russian Forces Are Attempting Another Crossing of the Seversky Donets River, Ukraine Says</a> NYT: The 650-mile-long Seversky Donets River originates in Russia and meanders southeast through the Donbas region before re-entering Russian territory. 
- <p class="updated_time"> 06:12 AM CT, May. 21 </p> 
- <a href="https://www.bbc.co.uk/news/health-61532083?at_medium=RSS&at_campaign=KARANGA">Monkeypox: 80 cases confirmed in 12 countries</a> BBC: Another 50 suspected cases of the rare disease are being investigated, the WHO says. 
  <p class="updated_time"> 06:02 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1098489307/roma-refugees-moldova-ukraine-war">Roma refugees who fled from Ukraine to Moldova are now in limbo</a> NPR: Many slipped across the border as the war began, but lack passports or other official forms of ID. They struggle to prove their eligibility for humanitarian aid — and to cross into other countries. 
  <p class="updated_time"> 06:00 AM CT, May. 21 </p> 
@@ -165,26 +171,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61229617?at_medium=RSS&at_campaign=KARANGA">Nigeria's facial scars: The last generation</a> BBC: The marks were a way of identifying the lineage of people, but the practice has been outlawed. 
  <p class="updated_time"> 06:16 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/20/1099176613/coronavirus-faq-i-took-paxlovid-i-felt-better-then-symptoms-rebounded-whats-up">Coronavirus FAQ: I took Paxlovid. I felt better. Then symptoms rebounded. What's up?</a> NPR: The antiviral drug is prescribed to those at risk of severe disease. It's been credited with reducing hospitalizations. But then there's the "Paxlovid rebound." 
- <p class="updated_time"> 06:15 PM CT, May. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61473241?at_medium=RSS&at_campaign=KARANGA">Non-binary in Iraq: ‘People get killed’</a> BBC: For Iraq's non-binary community, life is difficult and dangerous. 
  <p class="updated_time"> 06:00 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-ukraine-arconic-samara.html">U.S. Company Supplying Russian Military Seeks Exit, Caught Between Sanctions and Kremlin</a> NYT: Arconic runs a huge Russian metal plant, bought in an era of cooperation between the U.S. and Russia. Now it is struggling, after years of increasing Russian military aggression. 
  <p class="updated_time"> 05:10 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/france-macron-new-cabinet.html">France’s New Cabinet Mixes Fresh and Familiar, Hinting at Macron’s Priorities</a> NYT: President Emmanuel Macron’s newly announced government combines continuity with change, as first-term veterans were joined by newcomers in top positions at the foreign and education ministries. 
- <p class="updated_time"> 04:33 PM CT, May. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61526898?at_medium=RSS&at_campaign=KARANGA">Elon Musk denies sexual misconduct allegations</a> BBC: A report claims Musk's company SpaceX paid an employee $250,000 to settle the claim against him. 
  <p class="updated_time"> 04:29 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/australia/australia-election-guide.html">A Guide to Australia’s Election</a> NYT: Election Day has arrived. Here’s what to watch. 
  <p class="updated_time"> 04:16 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100477125/in-a-new-era-dame-maggie-smith-remains-the-best-reason-to-watch-downton-abbey">In 'A New Era,' Dame Maggie Smith remains the best reason to watch 'Downton Abbey'</a> NPR: Maggie Smith's dowager countess acquires a villa in the South of France, so the Downton household goes on a field trip in Downton Abbey: A New Era. 
  <p class="updated_time"> 04:02 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100477111/warsaw-mayor-pleads-for-a-strategic-plan-as-city-continues-to-welcome-refugees">Warsaw mayor pleads for a strategic plan as city continues to welcome refugees</a> NPR: NPR's Ari Shapiro talks with the mayor of Warsaw, Poland, about how his city is managing the influx of Ukrainian refugees. He says Warsaw's population went up by 15% since the outset of the conflict. 
- <p class="updated_time"> 03:54 PM CT, May. 20 </p> 
- <a href="https://www.npr.org/2022/05/20/1100363815/russia-ukraine-war-what-happened-today-may-20">Russia-Ukraine war: What happened today (May 20)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:52 PM CT, May. 20 </p> 
- <a href="https://www.npr.org/2022/05/20/1100459262/giant-sinkhole-china-ancient-forest">Scientists discover an ancient forest inside a giant sinkhole in China</a> NPR: The sinkhole spans an area nearly three football fields long and is deep enough to hide the Washington Monument. Explorers descended into the pit, where they found ancient trees and other plant life. 
- <p class="updated_time"> 03:49 PM CT, May. 20 </p> 
- <a href="https://www.npr.org/2022/05/20/1100477075/biden-aims-to-take-on-china-by-boosting-economic-ties-between-u-s-and-south-kore">Biden aims to take on China by boosting economic ties between U.S. and South Korea</a> NPR: President Biden wants to counter the economic might of China. He visited a semiconductor plant outside Seoul to kick off a trip aimed at his top foreign policy priority. 
  <p class="updated_time"> 02:44 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61524175?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What might tip the balance?</a> BBC: The conflict has become a grinding and bloody affair, with both sides making gains and losses. 
  <p class="updated_time"> 02:02 PM CT, May. 20 </p> 
@@ -222,14 +218,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:19 AM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/interactive/2022/05/22/us/politics/state-legislators-election-denial.html">How Trump’s 2020 Election Lies Have Gripped State Legislatures</a> NYT: A Times review of legislative votes and records reveals how lies about the 2020 election took hold in statehouses, driving efforts to unravel a free and fair election. 
+ <p class="updated_time"> 07:01 AM CT, May. 22 </p> 
+ <a href="https://www.npr.org/2022/05/22/1100587952/immigrant-advocates-say-using-the-word-invasion-fuels-extremism">Immigrant advocates say using the word 'invasion' fuels extremism</a> NPR: The alleged Buffalo gunman isn't the first mass shooter to talk about an "invasion" of non-whites. Republicans have denounced the shooting — but not the language he used about immigration. 
+ <p class="updated_time"> 07:01 AM CT, May. 22 </p> 
+ <a href="https://www.npr.org/2022/05/22/1100587945/politics-chat-more-aid-to-ukraine-penn-republican-primary-likely-to-be-recounted">Politics chat: More aid to Ukraine; Penn. Republican primary likely to be recounted</a> NPR: What more aid for Ukraine says about bipartisanship in Washington; Trump's primary endorsements; and how Democrats' hopes rest on the working class appeal of their Penn. Senate candidate. 
+ <p class="updated_time"> 06:51 AM CT, May. 22 </p> 
+ <a href="https://www.politico.com/news/2022/05/22/taiwan-biden-indo-pacific-pact-00034255">Taiwan not included in launch of new Biden Indo-Pacific pact</a> Politico: Inclusion of the self-ruled island of Taiwan, which China claims as its own, would have irked Beijing. 
  <p class="updated_time"> 06:00 AM CT, May. 22 </p> 
- <a href="https://www.politico.com/news/2022/05/22/trump-mo-brooks-alabama-senate-00034249">Ditched by Trump, Mo Brooks rises from the dead</a> Politico: Two months after Donald Trump withdrew his endorsement, the Alabama congressman could very well advance to a Senate runoff. 
+ <a href="https://www.politico.com/news/2022/05/22/trump-mo-brooks-alabama-senate-00034249">Trump ditched Mo Brooks for going ‘woke.’ Now he’s rising again in the polls.</a> Politico: Two months after Donald Trump withdrew his endorsement, the Alabama congressman could very well advance to a Senate runoff. 
  <p class="updated_time"> 06:00 AM CT, May. 22 </p> 
  <a href="https://www.politico.com/news/2022/05/22/republicans-ignored-trumps-election-lies-00034242">'No one's paying any attention': The week that Republicans ignored Trump's election lies</a> Politico: Losing candidates in Republican primaries this year aren't resorting to the former president's routine. 
  <p class="updated_time"> 06:00 AM CT, May. 22 </p> 
  <a href="https://www.politico.com/news/2022/05/22/title-42-immigration-poll-00034117">POLITICO-Harvard poll: Majority of Americans support continued migrant expulsions under Title 42</a> Politico: The findings come as a Louisiana judge issued a preliminary injunction on Friday blocking the administration from ending the order on Monday. 
- <p class="updated_time"> 05:48 AM CT, May. 22 </p> 
- <a href="https://www.nytimes.com/interactive/2022/05/22/us/politics/state-legislators-election-denial.html">How Trump’s 2020 Election Lies Have Gripped State Legislatures</a> NYT: A Times review of legislative votes and records reveals how lies about the 2020 election took hold in statehouses, driving efforts to unravel a free and fair election. 
  <p class="updated_time"> 05:41 AM CT, May. 22 </p> 
  <a href="https://www.politico.com/news/2022/05/22/ukraine-mariupol-pows-russia-tribunal-00034254">Fate of 2,500 Ukrainian POWs from steel plant stirs concern</a> Politico: Russia has declared its full control of the Azovstal steel plant in Mariupol. 
  <p class="updated_time"> 04:00 AM CT, May. 22 </p> 
@@ -316,18 +318,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/20/1100477118/thousands-of-asylum-seekers-still-await-the-end-of-the-pandemic-border-p">Thousands of asylum seekers still await the end of the pandemic border policy</a> NPR: Thousands of asylum seekers are in limbo waiting for a U.S. court to rule on the White House's proposal to drop Title 42, which bars them from entering the U.S. over pandemic concerns. 
  <p class="updated_time"> 04:02 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/2022/05/20/1100477083/a-judge-threw-out-new-yorks-new-congressional-district-map-democrats-arent-happy">A judge threw out New York's new congressional district map. Democrats aren't happy</a> NPR: A judge's decision to throw out Democratic-drawn congressional maps is pitting New York lawmakers against each other in a year already tilting against the party's chances of holding on to the House. 
- <p class="updated_time"> 03:54 PM CT, May. 20 </p> 
- <a href="https://www.npr.org/2022/05/20/1100363815/russia-ukraine-war-what-happened-today-may-20">Russia-Ukraine war: What happened today (May 20)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:49 PM CT, May. 20 </p> 
- <a href="https://www.npr.org/2022/05/20/1100477075/biden-aims-to-take-on-china-by-boosting-economic-ties-between-u-s-and-south-kore">Biden aims to take on China by boosting economic ties between U.S. and South Korea</a> NPR: President Biden wants to counter the economic might of China. He visited a semiconductor plant outside Seoul to kick off a trip aimed at his top foreign policy priority. 
  <p class="updated_time"> 03:36 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/attack-ads-have-fueled-sharp-ups-and-downs-in-the-alabama-gop-senate-race.html">Attack ads have fueled sharp ups and downs in the Alabama G.O.P. Senate race.</a> NYT: Deep-pocketed outside groups have spent freely to disparage the rivals of their preferred candidates. 
  <p class="updated_time"> 03:29 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/john-eastman-trump-jan-6.html">John Eastman Says He Dealt Directly With Trump Over Jan. 6 Plans</a> NYT: John Eastman said in a court filing that he had received handwritten notes from President Donald J. Trump as they strategized about how to keep him in power. 
  <p class="updated_time"> 03:07 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/pentagon-africa-command-langley.html">Pentagon Taps Next Commander of U.S. Forces in Africa</a> NYT: If approved, Lt. Gen. Michael E. Langley would become the first Black four-star Marine Corps officer. 
- <p class="updated_time"> 02:59 PM CT, May. 20 </p> 
- <a href="https://www.politico.com/news/2022/05/20/florida-critical-race-theory-social-justice-social-studies-00034104">Florida wants to avoid critical race theory and ‘social justice’ in social studies texts</a> Politico: Florida education officials, in guidance, told publishers that all proposed social studies content must abide by the state’s rules outlawing critical race theory and similar teachings. 
  <p class="updated_time"> 01:08 PM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/mcconnell-ukraine-republican-isolationist-00034110">Inside McConnell’s bid to quash GOP ‘isolationists’</a> Politico: The Republican leader is determined to stamp out a pro-Trump wing of his party that has pushed back on $40 billion in aid to Ukraine — and U.S. support more broadly. 
  <p class="updated_time"> 12:41 PM CT, May. 20 </p> 
@@ -350,8 +346,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/20/eastman-trump-role-legal-overturn-election-00034023">Eastman provides new details of Trump’s direct role in legal effort to overturn election</a> Politico: The court filing describes the direct role of Trump himself in developing strategy, detailing “two hand-written notes from former President Trump about information that he thought might be useful for the anticipated litigation.” 
  <p class="updated_time"> 05:14 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/20/trumps-real-win-loss-record-00034021"> Trump’s real win-loss record</a> Politico Playbook: And Dems juggle an Affordable Care Act time bomb. 
- <p class="updated_time"> 03:31 AM CT, May. 20 </p> 
- <a href="https://www.politico.com/news/2022/05/20/recruit-poll-workers-shortage-00033841">Effort to recruit poll workers relaunches amid fears of shortage</a> Politico: Power the Polls is looking to reengage 700,000 people who expressed interest in volunteering during the 2020 election. 
  <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/georgia-secretary-of-state-election-trump-00034001">Trump’s bid to control election offices hits first battleground</a> Politico: Georgia Secretary of State Brad Raffensperger, who spurned Trump’s request to subvert the 2020 election results, is on the ballot Tuesday. 
  <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
@@ -364,8 +358,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/19/ocasio-cortez-calls-on-maloney-to-resign-dccc-chairmanship-if-he-primaries-colleague-00033811">Ocasio-Cortez calls on Maloney to resign DCCC chairmanship if he primaries colleague</a> Politico: Maloney announced on Monday that he'd run for reelection in a redrawn district comprised mostly of Rep. Mondaire Jones' constituents. 
  <p class="updated_time"> 08:41 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/senate-40-billion-ukraine-aid-bill-00033719">Senate clears $40B Ukraine aid package</a> Politico: The package will deliver the most significant U.S. contribution yet to aiding Ukraine as Russia encroaches on the eastern Donbas region. 
- <p class="updated_time"> 07:19 AM CT, May. 19 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/05/19/congressional-whack-a-mole-00033716">Congressional whack-a-mole</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
