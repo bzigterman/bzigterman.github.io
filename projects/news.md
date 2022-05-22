@@ -13,25 +13,25 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/22/1100583411/albanese-elected-australias-leader-in-complex-poll-result">Albanese elected Australia's leader in complex poll result</a> NPR: Australians awoke on Sunday to a new prime minister in Anthony Albanese, the center-left Labor Party leader, though it remains unclear whether his party can form a majority government. 
  <p class="updated_time"> 01:18 AM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100582879/fate-of-2-500-ukrainian-pows-from-steel-plant-stirs-concern">Fate of 2,500 Ukrainian POWs from steel plant stirs concern</a> NPR: With Russia claiming to have taken prisoner nearly 2,500 Ukrainian fighters from the besieged Mariupol steel plant, concerns grew about their fate. 
- <p class="updated_time"> 12:33 AM CT, May. 22 </p> 
+ <p class="updated_time"> 12:54 AM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
  <p class="updated_time"> 12:10 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61523010?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Against the thud of artillery, miners struggle on</a> BBC: Miners in eastern Ukraine on how a difficult job has become even more dangerous. 
  <p class="updated_time"> 12:07 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/05/21/world/russia-ukraine-war">What Happened on Day 87 of the War in Ukraine</a> NYT: The president signed the package of military and humanitarian aid during a visit to Seoul. The support for Ukraine came as neither side is making more than incremental gains and the war is set to begin its fourth month. 
- <p class="updated_time"> 11:33 PM CT, May. 21 </p> 
+ <p class="updated_time"> 11:54 PM CT, May. 21 </p> 
  <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
  <p class="updated_time"> 11:23 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/biden-ukraine-zelensky-ceasefire-russia.html">As Biden Signs $40 Billion Aid Package for Ukraine, Calls Grow for a Cease-Fire</a> NYT: But a diplomatic resolution to the war still looks remote, amid searing questions about what would constitute a “victory” for Kyiv. 
- <p class="updated_time"> 10:33 PM CT, May. 21 </p> 
+ <p class="updated_time"> 10:54 PM CT, May. 21 </p> 
  <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
  <p class="updated_time"> 10:22 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/asia/biden-south-korea-yoon.html">Rejecting ‘Love Letters’ to North Korea, Biden Offers Carrots and Sticks Instead</a> NYT: President Biden said he would consider expanding joint exercises with South Korea’s military that were scaled back during the Trump administration. 
  <p class="updated_time"> 10:05 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61539426?at_medium=RSS&at_campaign=KARANGA">Australia election: Anthony Albanese signals climate policy change</a> BBC: Anthony Albanese vows to take the nation in a new direction, creating a renewable energy superpower. 
- <p class="updated_time"> 09:33 PM CT, May. 21 </p> 
+ <p class="updated_time"> 09:54 PM CT, May. 21 </p> 
  <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
- <p class="updated_time"> 08:33 PM CT, May. 21 </p> 
+ <p class="updated_time"> 08:54 PM CT, May. 21 </p> 
  <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 07:27 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-61523624?at_medium=RSS&at_campaign=KARANGA">Governments should subsidise food and energy, says IMF boss</a> BBC: Managing director Kristalina Georgieva says state subsidies can help with the cost of living. 
@@ -220,6 +220,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:31 AM CT, May. 22 </p> 
+ <a href="https://www.npr.org/2022/05/22/1100583411/albanese-elected-australias-leader-in-complex-poll-result">Albanese elected Australia's leader in complex poll result</a> NPR: Australians awoke on Sunday to a new prime minister in Anthony Albanese, the center-left Labor Party leader, though it remains unclear whether his party can form a majority government. 
  <p class="updated_time"> 10:22 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/asia/biden-south-korea-yoon.html">Rejecting ‘Love Letters’ to North Korea, Biden Offers Carrots and Sticks Instead</a> NYT: President Biden said he would consider expanding joint exercises with South Korea’s military that were scaled back during the Trump administration. 
  <p class="updated_time"> 05:41 PM CT, May. 21 </p> 
@@ -330,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/20/supreme-court-tech-industry-shadow-docket-00033907">Conservatives fume over tech industry’s ‘shadow docket’ play</a> Politico: The tech platforms’ conservative foes were caught flat-footed by the companies’ rush to the Supreme Court seeking emergency relief from Texas’ social media law. 
  <p class="updated_time"> 10:45 AM CT, May. 20 </p> 
  <a href="https://www.cnn.com/2022/05/20/politics/clarence-thomas-john-roberts-supreme-court-roe-wade/index.html">Clarence Thomas calls out John Roberts as Supreme Court edges closer to overturning Roe v. Wade</a> CNN: There was a little-seen warm moment between Chief Justice John Roberts and Justice Clarence Thomas last November 1, just before the Supreme Court heard arguments on Texas' abortion ban. 
- <p class="updated_time"> 10:24 AM CT, May. 20 </p> 
- <a href="https://www.npr.org/2022/05/20/1100256260/finland-sweden-nato-putin-biden-ukraine-russia">Two versions of history collide as Finland and Sweden seek to join NATO</a> NPR: Finland and Sweden have long kept a careful balance — and neutral position — between the West and Russia. But that changed after Moscow invaded Ukraine. 
  <p class="updated_time"> 10:21 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/bernie-sanders-aipac-super-pac.html">Bernie Sanders Prepares for ‘War’ With AIPAC and Its Super PAC</a> NYT: The pro-Israel group, which is involved with direct political spending this year for the first time, has opposed progressive candidates backed by Mr. Sanders. 
  <p class="updated_time"> 08:50 AM CT, May. 20 </p> 
@@ -354,6 +354,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/20/democrats-abortion-options-roe-decision-00033714">Dems debate limited options as Roe decision looms</a> Politico: The party could talk contraception, abortion pills, privacy concerns, codifying Roe and more. They have plenty of options, but no clear path forward. 
  <p class="updated_time"> 06:12 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/oz-mccormick-pa-senate-race-00033961">Oz, McCormick unleash army of lawyers in Pa. Senate race</a> Politico: Both Oz and McCormick have enlisted alumni from Trump’s 2020 campaign to prepare for a potential recount. 
+ <p class="updated_time"> 04:29 PM CT, May. 19 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/us/politics/jan-6-committee-loudermilk.html">Jan. 6 Inquiry Presses Republican Lawmaker About Capitol Tour</a> NYT: The leaders of the panel said they had evidence that Representative Barry Loudermilk escorted visitors through the Capitol complex on Jan. 5, though he has denied doing so. 
  <p class="updated_time"> 01:07 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/ocasio-cortez-calls-on-maloney-to-resign-dccc-chairmanship-if-he-primaries-colleague-00033811">Ocasio-Cortez calls on Maloney to resign DCCC chairmanship if he primaries colleague</a> Politico: Maloney announced on Monday that he'd run for reelection in a redrawn district comprised mostly of Rep. Mondaire Jones' constituents. 
  <p class="updated_time"> 08:41 AM CT, May. 19 </p> 
