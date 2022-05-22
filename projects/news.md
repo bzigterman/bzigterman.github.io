@@ -9,11 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:27 AM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Says Military Aid Could Free Exports and Ease Food Prices</a> NYT: Ukraine’s president said wresting control of ports from Russia could help ease global price pressures from the war. President Biden signed one of the largest aid packages in decades on Saturday. 
  <p class="updated_time"> 04:54 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/health-61540474?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Israel and Switzerland confirm cases</a> BBC: It means the viral outbreak has spread to 14 countries with more than 80 cases detected so far. 
  <p class="updated_time"> 04:40 AM CT, May. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Says Military Aid Could Free Exports and Ease Food Prices</a> NYT: Ukraine’s president said wresting control of ports from Russia could help ease global price pressures from the war. President Biden signed one of the largest aid packages in decades on Saturday. 
- <p class="updated_time"> 04:20 AM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
  <p class="updated_time"> 04:12 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61540944?at_medium=RSS&at_campaign=KARANGA">Floods in Bangladesh and India affect millions</a> BBC: At least 50 people are dead after some areas are battered by widespread flooding and landslides. 
@@ -23,21 +23,21 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/22/health/coronavirus-mink-michigan-spillover.html">The Michigan Mink Mystery: How Did an Interspecies Outbreak Unfold?</a> NYT: The puzzling coronavirus cases highlight ongoing surveillance challenges and blind spots. 
  <p class="updated_time"> 04:00 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/cambridge-university-women-degrees-1897.html">1897: Cambridge University Votes Against Degrees for Women</a> NYT: A resolution to grant degrees to women was rejected by a large majority and men celebrated the result with fireworks. 
- <p class="updated_time"> 03:20 AM CT, May. 22 </p> 
+ <p class="updated_time"> 03:40 AM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
+ <p class="updated_time"> 02:40 AM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
  <p class="updated_time"> 02:31 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/australia/election-albanese-climate.html">Australia’s ‘Climate Election’ Finally Arrived. Will It Be Enough?</a> NYT: Voters rejected the deny-and-delay approach that has made Australia a global laggard on emission cuts. But how far the new government will go remains to be seen. 
- <p class="updated_time"> 02:20 AM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
  <p class="updated_time"> 01:55 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61539426?at_medium=RSS&at_campaign=KARANGA">Australia election: Anthony Albanese signals climate policy change</a> BBC: Anthony Albanese vows to take the nation in a new direction, creating a renewable energy superpower. 
+ <p class="updated_time"> 01:40 AM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
  <p class="updated_time"> 01:31 AM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100583411/albanese-elected-australias-leader-in-complex-poll-result">Albanese elected Australia's leader in complex poll result</a> NPR: Australians awoke on Sunday to a new prime minister in Anthony Albanese, the center-left Labor Party leader, though it remains unclear whether his party can form a majority government. 
- <p class="updated_time"> 01:20 AM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
  <p class="updated_time"> 01:18 AM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100582879/fate-of-2-500-ukrainian-pows-from-steel-plant-stirs-concern">Fate of 2,500 Ukrainian POWs from steel plant stirs concern</a> NPR: With Russia claiming to have taken prisoner nearly 2,500 Ukrainian fighters from the besieged Mariupol steel plant, concerns grew about their fate. 
- <p class="updated_time"> 12:20 AM CT, May. 22 </p> 
+ <p class="updated_time"> 12:40 AM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 12:10 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61523010?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Against the thud of artillery, miners struggle on</a> BBC: Miners in eastern Ukraine on how a difficult job has become even more dangerous. 
@@ -230,6 +230,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/22/business/media/lara-logan-cbs-news.html">Lara Logan, Once a Star at CBS News, Is Now One for the Far Right</a> NYT: The former chief foreign affairs correspondent is now a popular guest on podcasts hosted by vaccine skeptics and deniers of the 2020 election. 
  <p class="updated_time"> 04:00 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/us/politics/alabama-senate-mo-brooks.html">Scorned by Trump, Mo Brooks Rises in Alabama Senate Race</a> NYT: Mr. Brooks, a hard-right representative, seems to be making an unlikely comeback in a Senate race in which the Trump endorsement may not determine votes of Trump supporters. 
+ <p class="updated_time"> 03:30 AM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/interactive/2022/05/22/us/politics/state-legislators-election-denial.html">How Trump’s 2020 Election Lies Have Gripped State Legislatures</a> NYT: A Times review of legislative votes and records reveals how lies about the 2020 election took hold in statehouses, driving efforts to unravel a free and fair election. 
  <p class="updated_time"> 03:29 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/us/politics/state-legislators-election-denialhtml.html">How Trump’s 2020 Election Lies Have Gripped State Legislatures</a> NYT: A Times review of legislative votes and records reveals how lies about the 2020 election took hold in statehouses, driving efforts to unravel a free and fair election. 
  <p class="updated_time"> 01:31 AM CT, May. 22 </p> 
@@ -358,8 +360,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/20/democrats-abortion-options-roe-decision-00033714">Dems debate limited options as Roe decision looms</a> Politico: The party could talk contraception, abortion pills, privacy concerns, codifying Roe and more. They have plenty of options, but no clear path forward. 
  <p class="updated_time"> 06:12 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/oz-mccormick-pa-senate-race-00033961">Oz, McCormick unleash army of lawyers in Pa. Senate race</a> Politico: Both Oz and McCormick have enlisted alumni from Trump’s 2020 campaign to prepare for a potential recount. 
- <p class="updated_time"> 04:29 PM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/us/politics/jan-6-committee-loudermilk.html">Jan. 6 Inquiry Presses Republican Lawmaker About Capitol Tour</a> NYT: The leaders of the panel said they had evidence that Representative Barry Loudermilk escorted visitors through the Capitol complex on Jan. 5, though he has denied doing so. 
  <p class="updated_time"> 01:07 PM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/ocasio-cortez-calls-on-maloney-to-resign-dccc-chairmanship-if-he-primaries-colleague-00033811">Ocasio-Cortez calls on Maloney to resign DCCC chairmanship if he primaries colleague</a> Politico: Maloney announced on Monday that he'd run for reelection in a redrawn district comprised mostly of Rep. Mondaire Jones' constituents. 
  <p class="updated_time"> 08:41 AM CT, May. 19 </p> 
