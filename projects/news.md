@@ -9,28 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:23 PM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/05/21/world/russia-ukraine-war">Live Updates: Biden Signs $40 Billion Ukraine Aid Package as Calls Grow for Cease-Fire</a> NYT: The president signed the package of military and humanitarian aid during a visit to Seoul. The support for Ukraine came as neither side is making more than incremental gains and the war is set to begin its fourth month. 
+ <p class="updated_time"> 12:10 AM CT, May. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61523010?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Against the thud of artillery, miners struggle on</a> BBC: Miners in eastern Ukraine on how a difficult job has become even more dangerous. 
+ <p class="updated_time"> 12:07 AM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/21/world/russia-ukraine-war">What Happened on Day 87 of the War in Ukraine</a> NYT: The president signed the package of military and humanitarian aid during a visit to Seoul. The support for Ukraine came as neither side is making more than incremental gains and the war is set to begin its fourth month. 
+ <p class="updated_time"> 12:01 AM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
  <p class="updated_time"> 11:23 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/biden-ukraine-zelensky-ceasefire-russia.html">As Biden Signs $40 Billion Aid Package for Ukraine, Calls Grow for a Cease-Fire</a> NYT: But a diplomatic resolution to the war still looks remote, amid searing questions about what would constitute a “victory” for Kyiv. 
- <p class="updated_time"> 10:56 PM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
+ <p class="updated_time"> 11:01 PM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
  <p class="updated_time"> 10:22 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/asia/biden-south-korea-yoon.html">Rejecting ‘Love Letters’ to North Korea, Biden Offers Carrots and Sticks Instead</a> NYT: President Biden said he would consider expanding joint exercises with South Korea’s military that were scaled back during the Trump administration. 
  <p class="updated_time"> 10:05 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61539426?at_medium=RSS&at_campaign=KARANGA">Australia election: Anthony Albanese signals climate policy change</a> BBC: Anthony Albanese vows to take the nation in a new direction, creating a renewable energy superpower. 
- <p class="updated_time"> 09:56 PM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
- <p class="updated_time"> 08:56 PM CT, May. 21 </p> 
+ <p class="updated_time"> 10:01 PM CT, May. 21 </p> 
  <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
- <p class="updated_time"> 07:56 PM CT, May. 21 </p> 
+ <p class="updated_time"> 09:01 PM CT, May. 21 </p> 
  <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
+ <p class="updated_time"> 08:01 PM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 07:27 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-61523624?at_medium=RSS&at_campaign=KARANGA">Governments should subsidise food and energy - IMF boss</a> BBC: Kristalina Georgieva says government subsidies can help with the cost of living crisis. 
  <p class="updated_time"> 07:03 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-south-asia-61507258?at_medium=RSS&at_campaign=KARANGA">'My first court case: Prosecuting my father's killers'</a> BBC: Shagufta Ahmed's first job was to get justice for her father, a lecturer murdered after he blew the whistle on a colleague. 
- <p class="updated_time"> 06:56 PM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 06:15 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-61464176?at_medium=RSS&at_campaign=KARANGA">Your pictures on the theme of 'on the water'</a> BBC: A selection of striking images from our readers around the world. 
  <p class="updated_time"> 06:09 PM CT, May. 21 </p> 
@@ -61,6 +63,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/french-banks-haiti-cic.html">How a French Bank Captured Haiti</a> NYT: It helped finance the Eiffel Tower as it drained millions from Haiti. The bank, C.I.C., won’t talk about it, but The Times tracked how much its investors made — and what Haiti lost. 
  <p class="updated_time"> 02:15 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/lviv-philharmonic-orchestra.html">‘A form of hope’: As air-raid sirens sound, a Lviv orchestra opens a summer festival with Mozart’s Requiem.</a> NYT: Even as the Lviv Philharmonic theater became a wartime hub for humanitarian supplies, it has remained a home for musicians and choirs. 
+ <p class="updated_time"> 01:16 PM CT, May. 21 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61538301?at_medium=RSS&at_campaign=KARANGA">Anthony Albanese vows government of unity, not division</a> BBC: Australia's new PM will be the country's first Labor leader in nearly a decade. 
  <p class="updated_time"> 12:16 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/kirill-putin-russian-orthodox-church.html">The Russian Orthodox Leader at the Core of Putin’s Ambitions</a> NYT: Patriarch Kirill I has provided spiritual cover for the invasion of Ukraine, reaping vast resources for his church in return. Now, in an extraordinary step, the E.U. is threatening him with sanctions. 
  <p class="updated_time"> 12:16 PM CT, May. 21 </p> 
@@ -148,15 +152,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:16 PM CT, May. 20 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/20/1099176613/coronavirus-faq-i-took-paxlovid-i-felt-better-then-symptoms-rebounded-whats-up">Coronavirus FAQ: I took Paxlovid. I felt better. Then symptoms rebounded. What's up?</a> NPR: The antiviral drug is prescribed to those at risk of severe disease. It's been credited with reducing hospitalizations. But then there's the "Paxlovid rebound." 
  <p class="updated_time"> 06:15 PM CT, May. 20 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-61524334?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 14 - 20 May 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
- <p class="updated_time"> 06:15 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61473241?at_medium=RSS&at_campaign=KARANGA">Non-binary in Iraq: ‘People get killed’</a> BBC: For Iraq's non-binary community, life is difficult and dangerous. 
  <p class="updated_time"> 06:10 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61516794?at_medium=RSS&at_campaign=KARANGA">The desperate journey Cubans make by water to the US</a> BBC: Elian Lopez hoped his life-changing journey would go smoothly - then the wind changed and sun went down. 
  <p class="updated_time"> 06:00 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-ukraine-arconic-samara.html">U.S. Company Supplying Russian Military Seeks Exit, Caught Between Sanctions and Kremlin</a> NYT: Arconic runs a huge Russian metal plant, bought in an era of cooperation between the U.S. and Russia. Now it is struggling, after years of increasing Russian military aggression. 
- <p class="updated_time"> 05:30 PM CT, May. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61532234?at_medium=RSS&at_campaign=KARANGA">Cannes: Topless woman protests against sexual violence in Ukraine</a> BBC: The woman stripped on the Cannes red carpet to show the words "stop raping us" and the Ukrainian flag. 
  <p class="updated_time"> 05:10 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/france-macron-new-cabinet.html">France’s New Cabinet Mixes Fresh and Familiar, Hinting at Macron’s Priorities</a> NYT: President Emmanuel Macron’s newly announced government combines continuity with change, as first-term veterans were joined by newcomers in top positions at the foreign and education ministries. 
  <p class="updated_time"> 04:33 PM CT, May. 20 </p> 
