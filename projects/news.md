@@ -9,48 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:51 PM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/2022/05/22/world/canada/ottawa-storms.html">Five Dead After Severe Thunderstorms Lash Parts of Canada</a> NYT: A line of thunderstorms brought violent winds that left a trail of damage across parts of Ontario and Quebec on Saturday, and hundreds of thousands without power. 
+ <p class="updated_time"> 01:36 PM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/2022/05/22/world/europe/on-a-remote-mountain-the-sistine-chapel-of-socialism-awaits-its-fate.html">On a Remote Mountain, the ‘Sistine Chapel of Socialism’ Awaits Its Fate</a> NYT: An enormous monument to the Communist Party in Bulgaria is now a decrepit ruin. The country is wrestling with how to deal with a symbol of an unwanted and, in many ways, deeply ugly past. 
  <p class="updated_time"> 01:13 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">Ukraine Live Updates: Russia Renews Attack Against Key Eastern City</a> NYT: Fighting raged around Sievierodonetsk, a focus of Russia’s struggling offensive in the Donbas region. Ukraine’s president pressed allies for even more weapons, after President Biden signed one of the largest aid packages in decades. 
  <p class="updated_time"> 01:12 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/asia/monkeypox-biden-concern.html">‘Everybody Should Be Concerned’ About Monkeypox, Biden Warns</a> NYT: Only one case of the virus has so far been identified in the U.S., but public health officials say the disease is likely to spread. 
- <p class="updated_time"> 12:38 PM CT, May. 22 </p> 
+ <p class="updated_time"> 12:55 PM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429">Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops</a> WSJ: Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops 
  <p class="updated_time"> 12:22 PM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100564550/liev-schreiber-bluecheck-ukraine-help">Liev Schreiber's family ties to Ukraine push him to help its people</a> NPR: The actor speaks with NPR's Michel Martin about BlueCheck Ukraine, an aid network he co-founded, as well as his relationship with his grandfather. 
  <p class="updated_time"> 12:03 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/tornado-germany-heat-wave-europe.html">3 Tornadoes Strike Germany, Amid Heat Wave in Southern Europe</a> NYT: Extreme weather was also felt elsewhere in Europe as heat waves threatened Spain and parts of southern France. 
- <p class="updated_time"> 11:39 AM CT, May. 22 </p> 
- <a href="https://www.nytimes.com/2022/05/22/world/canada/ottawa-storms.html">Five Dead After Severe Thunderstorms Lash Parts of Canada</a> NYT: A line of thunderstorms brought violent winds that left a trail of damage across parts of Ontario and Quebec on Saturday, and hundreds of thousands without power. 
- <p class="updated_time"> 11:38 AM CT, May. 22 </p> 
+ <p class="updated_time"> 11:55 AM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/why-did-you-do-this-the-story-behind-ukraines-first-war-crimes-trial-11653226541">‘Why Did You Do This?’ The Story Behind Ukraine’s First War-Crimes Trial</a> WSJ: ‘Why Did You Do This?’ The Story Behind Ukraine’s First War-Crimes Trial 
  <p class="updated_time"> 10:57 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/health-61540474?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Israel, Switzerland and Austria confirm cases</a> BBC: Scientists are still unsure what is causing the outbreak, which has now spread to 15 countries. 
+ <p class="updated_time"> 10:55 AM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183">Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy</a> WSJ: Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy 
  <p class="updated_time"> 10:48 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61541653?at_medium=RSS&at_campaign=KARANGA">Canada storms: Nearly a million homes lose power in high winds</a> BBC: Five people die due to falling trees and high winds across southern Ontario and Quebec. 
- <p class="updated_time"> 10:38 AM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/swedes-ask-if-nato-membership-and-pacifism-can-coexist-11653211910">Swedes Ask if NATO Membership and Peacemaking Can Coexist</a> WSJ: Swedes Ask if NATO Membership and Peacemaking Can Coexist 
  <p class="updated_time"> 10:14 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/middleeast/iran-filmmakers.html">In Iran, a New Wave of Repression Hits Acclaimed Filmmakers</a> NYT: The authorities in the Islamic Republic like to take credit for the country’s achievements in film, but are warning those who make them not to cross red lines at home. 
+ <p class="updated_time"> 09:55 AM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China Spends Far More Than Others to Help Favored Industries, Report Finds 
  <p class="updated_time"> 09:50 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/us/politics/biden-japan-asia-economic-policy.html">Biden Arrives in Tokyo Seeking to Shore Up Support for Economic Plan</a> NYT: The president will meet with his counterparts from Australia, India and Japan. 
  <p class="updated_time"> 09:46 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61543052?at_medium=RSS&at_campaign=KARANGA">Pampered pooches ride Japan's Shinkansen in style</a> BBC: Paws aboard! A pet-friendly service premiers on the iconic train as calls grow for easier pet travel. 
  <p class="updated_time"> 09:41 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/australia/election-albanese-climate.html">Australia’s ‘Climate Election’ Finally Arrived. Will It Be Enough?</a> NYT: Voters rejected the deny-and-delay approach that has made Australia a global laggard on emission cuts. But how far the new government will go remains to be seen. 
- <p class="updated_time"> 09:38 AM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/biden-keeps-eye-on-domestic-politics-as-he-travels-through-asia-11653210485">Biden Keeps Eye on Domestic Politics as He Travels Through Asia</a> WSJ: Biden Keeps Eye on Domestic Politics as He Travels Through Asia 
  <p class="updated_time"> 09:31 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/asia/philippines-rural-farming.html">Rural Philippines, Long Neglected, Newly Appealing in Covid Times</a> NYT: The economic disparity of the nation’s rural and urban areas is a problem of long standing. Will the lessons of the pandemic finally lead to change? 
  <p class="updated_time"> 09:22 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/kirill-putin-russian-orthodox-church.html">The Russian Orthodox Leader at the Core of Putin’s Ambitions</a> NYT: Patriarch Kirill I has provided spiritual cover for the invasion of Ukraine, reaping vast resources for his church in return. Now, in an extraordinary step, the E.U. is threatening him with sanctions. 
  <p class="updated_time"> 09:15 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/asia/flooding-india-bangladesh.html">Millions Displaced and Dozens Dead in Flooding in India and Bangladesh</a> NYT: Heavy rains have washed away towns, villages and infrastructure, as extreme weather events become more common in South Asia. 
- <p class="updated_time"> 08:45 AM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China’s use of state-directed funds, cheap loans and incentives surpasses other major economies. 
- <p class="updated_time"> 08:38 AM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/buffalo-shooting-tests-internet-antiterrorism-accord-11653231600">Buffalo Shooting Tests Internet Antiterrorism Accord</a> WSJ: Buffalo Shooting Tests Internet Antiterrorism Accord 
- <p class="updated_time"> 07:33 AM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183">Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy</a> WSJ: The Biden administration is weighing the desire to avoid escalating the military presence against the security of U.S. diplomats in a conflict zone. 
+ <p class="updated_time"> 08:55 AM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-avoids-government-collapse-11653234773">Israeli Prime Minister Naftali Bennett Avoids Government Collapse</a> WSJ: Israeli Prime Minister Naftali Bennett Avoids Government Collapse 
  <p class="updated_time"> 07:07 AM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100587966/tourists-are-returning-to-cuba-but-is-it-enough-for-the-islands-economy">Tourists are returning to Cuba, but is it enough for the island's economy?</a> NPR: Tourists, one of the mainstays of the Cuban economy, are returning. But the recovery is slow, and some say mismanaged. 
  <p class="updated_time"> 07:01 AM CT, May. 22 </p> 
@@ -61,6 +59,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61539426?at_medium=RSS&at_campaign=KARANGA">Australia election: Anthony Albanese signals climate policy change</a> BBC: Anthony Albanese vows to take the nation in a new direction, creating a renewable energy superpower. 
  <p class="updated_time"> 06:02 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61540945?at_medium=RSS&at_campaign=KARANGA">Professor Brian Cox: Maybe humans are the Martians</a> BBC: The renowned physicist reflects on whether civilisation, like us, exists in other galaxies. 
+ <p class="updated_time"> 06:00 AM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/buffalo-shooting-tests-internet-antiterrorism-accord-11653231600">Buffalo Shooting Tests Internet Antiterrorism Accord</a> WSJ: The live-streaming of a shooting rampage at a supermarket in Buffalo, N.Y., demonstrated the strengths and limitations of a global agreement to counter the spread of terrorist content online. 
  <p class="updated_time"> 04:30 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61540619?at_medium=RSS&at_campaign=KARANGA">Nigeria: Four die in Lagos Island building collapse</a> BBC: Four people die after a three-storey building collapsed in an upmarket area of Lagos. 
  <p class="updated_time"> 04:12 AM CT, May. 22 </p> 
@@ -211,8 +211,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/asia/sri-lanka-protests.html">In Pictures: Sri Lanka’s Protesters Remain Defiant</a> NYT: As the pain of an economic crisis deepens, a nation’s anger and desperation are visible. 
  <p class="updated_time"> 04:00 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/asia/china-lockdown-migration.html">As China Doubles Down on Lockdowns, Some Chinese Seek an Exit</a> NYT: Inquiries to immigration consultants have surged; social media users trade tips on how to get abroad. But the government aims to “strictly restrict nonessential exit activities.” 
- <p class="updated_time"> 07:23 PM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/world/europe/russian-rock-musician-charged.html">Russian Rock Singer Charged After Condemning the Ukraine War</a> NYT: The singer made the comments less than three months after Russia enacted a law that would punish spreading “false information” about its invasion. 
  <p class="updated_time"> 06:24 PM CT, May. 19 </p> 
  <a href="https://www.bbc.co.uk/news/61508440?at_medium=RSS&at_campaign=KARANGA">North Korea: Fighting Covid with traditional medicine</a> BBC: As Covid spreads in North Korea, state media urges the use of traditional medicine against the virus. 
 
