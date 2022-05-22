@@ -9,32 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:21 AM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Says Military Aid Could Free Exports and Ease Food Prices</a> NYT: Ukraine’s president said wresting control of ports from Russia could help ease global price pressures from the war. President Biden signed one of the largest aid packages in decades on Saturday. 
+ <p class="updated_time"> 04:00 AM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/2022/05/22/world/europe/ukraine-bucha-war-crimes-russia.html">‘Such Bad Guys Will Come’: How One Russian Brigade Terrorized Bucha</a> NYT: A particularly fearsome unit of Moscow’s invading army arrived in the Kyiv suburb in mid-March. The soldiers’ reputation preceded them. 
+ <p class="updated_time"> 04:00 AM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/2022/05/22/health/coronavirus-mink-michigan-spillover.html">The Michigan Mink Mystery: How Did an Interspecies Outbreak Unfold?</a> NYT: The puzzling coronavirus cases highlight ongoing surveillance challenges and blind spots. 
+ <p class="updated_time"> 04:00 AM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/2022/05/22/world/europe/cambridge-university-women-degrees-1897.html">1897: Cambridge University Votes Against Degrees for Women</a> NYT: A resolution to grant degrees to women was rejected by a large majority and men celebrated the result with fireworks. 
  <p class="updated_time"> 03:36 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/health-61540474?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Israel and Switzerland confirm cases</a> BBC: It means the viral outbreak has spread to 14 countries with more than 80 cases detected so far. 
- <p class="updated_time"> 03:22 AM CT, May. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Says Military Aid Could Free Exports, Easing Food Prices</a> NYT: President Volodymyr Zelensky said wresting control of ports from Russia could help ease global price pressures from the war. President Biden signed one of the largest aid packages in decades on Saturday. 
- <p class="updated_time"> 02:59 AM CT, May. 22 </p> 
+ <p class="updated_time"> 03:26 AM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
  <p class="updated_time"> 02:31 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/australia/election-albanese-climate.html">Australia’s ‘Climate Election’ Finally Arrived. Will It Be Enough?</a> NYT: Voters rejected the deny-and-delay approach that has made Australia a global laggard on emission cuts. But how far the new government will go remains to be seen. 
- <p class="updated_time"> 01:59 AM CT, May. 22 </p> 
+ <p class="updated_time"> 02:26 AM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
  <p class="updated_time"> 01:55 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61539426?at_medium=RSS&at_campaign=KARANGA">Australia election: Anthony Albanese signals climate policy change</a> BBC: Anthony Albanese vows to take the nation in a new direction, creating a renewable energy superpower. 
  <p class="updated_time"> 01:31 AM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100583411/albanese-elected-australias-leader-in-complex-poll-result">Albanese elected Australia's leader in complex poll result</a> NPR: Australians awoke on Sunday to a new prime minister in Anthony Albanese, the center-left Labor Party leader, though it remains unclear whether his party can form a majority government. 
+ <p class="updated_time"> 01:26 AM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
  <p class="updated_time"> 01:18 AM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100582879/fate-of-2-500-ukrainian-pows-from-steel-plant-stirs-concern">Fate of 2,500 Ukrainian POWs from steel plant stirs concern</a> NPR: With Russia claiming to have taken prisoner nearly 2,500 Ukrainian fighters from the besieged Mariupol steel plant, concerns grew about their fate. 
- <p class="updated_time"> 12:59 AM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
+ <p class="updated_time"> 12:26 AM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
  <p class="updated_time"> 12:10 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61523010?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Against the thud of artillery, miners struggle on</a> BBC: Miners in eastern Ukraine on how a difficult job has become even more dangerous. 
- <p class="updated_time"> 11:59 PM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
+ <p class="updated_time"> 11:26 PM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 11:23 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/biden-ukraine-zelensky-ceasefire-russia.html">As Biden Signs $40 Billion Aid Package for Ukraine, Calls Grow for a Cease-Fire</a> NYT: But a diplomatic resolution to the war still looks remote, amid searing questions about what would constitute a “victory” for Kyiv. 
- <p class="updated_time"> 10:59 PM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 10:22 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/asia/biden-south-korea-yoon.html">Rejecting ‘Love Letters’ to North Korea, Biden Offers Carrots and Sticks Instead</a> NYT: President Biden said he would consider expanding joint exercises with South Korea’s military that were scaled back during the Trump administration. 
  <p class="updated_time"> 07:27 PM CT, May. 21 </p> 
@@ -129,8 +135,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-azov-mariupol-trials.html">How Russia Uses Show Trials to Punish Putin’s Enemies</a> NYT: Moscow may label the Azov fighters who defended the Mariupol steel plant as terrorists — raising the prospect of a high-profile trial. The Kremlin has a long tradition of using the courts for political goals. 
  <p class="updated_time"> 12:34 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/business/economy/g7-20-billion-ukraine.html">G7 Nations Pledge $20 Billion to Ukraine</a> NYT: Financing will be directed to keep government operations running amid the Russian war. 
- <p class="updated_time"> 12:32 AM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/2022/05/19/world/europe/russia-bucha-ukraine-executions.html">New Evidence Shows How Russian Soldiers Executed Men in Bucha</a> NYT: Witness testimony and videos obtained by The New York Times show how Russian paratroopers executed at least eight Ukrainian men in a Kyiv suburb on March 4, a potential war crime. 
  <p class="updated_time"> 12:28 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/australia/prime-minister-scott-morrison-election.html">Australian Prime Minister Scott Morrison Urges Voters to Opt for What They Know</a> NYT: His tenure hasn’t always been smooth, with moments that have tested the Australian public’s faith in his leadership 
  <p class="updated_time"> 12:16 AM CT, May. 21 </p> 
@@ -151,8 +155,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61512663?at_medium=RSS&at_campaign=KARANGA">Israeli police accused of violence towards shot Palestinian's family</a> BBC: Relatives say police used unjustifiable force on them inside the hospital treating the wounded man. 
  <p class="updated_time"> 06:24 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/health-61524508?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Time to worry or one to ignore?</a> BBC: We are facing an unusual and unprecedented monkeypox outbreak but how worrying is it? 
- <p class="updated_time"> 06:22 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/todayspaper/ukraine-kharkiv-russia.html">Forced From Kharkiv, Russian Troops Regroup and Dig In</a> NYT: Outside of Kharkiv, Russian forces are entrenching themselves for the long haul. “There is a whole underground city there,” a Ukrainian officer said. 
  <p class="updated_time"> 06:19 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/article/what-is-monkeypox.html">What Is Monkeypox?</a> NYT: There have been dozens of cases reported in recent weeks among populations not typically vulnerable to the disease. 
  <p class="updated_time"> 06:19 PM CT, May. 20 </p> 
@@ -213,8 +215,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/world/europe/ukrainian-oligarch-superyacht.html">Ukrainian Oligarch Mulls Selling Superyacht to Distance Himself From Russia</a> NYT: The richest man in Ukraine has committed to building back his country. But he is also constructing a luxury ship that would rival a yacht that the U.S. government believes may belong to Vladimir Putin. 
  <p class="updated_time"> 04:28 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/russian-gymnast-z-medal.html">Russian Gymnast Who Wore Pro-War ‘Z’ Symbol on Podium Is Given One-Year Ban</a> NYT: The gymnast, Ivan Kuliak, wore the symbol while standing at the podium next to the Ukrainian gold medalist. 
- <p class="updated_time"> 03:23 PM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/world/putin-sanctions-aleksei-navalny.html">Navalny’s Team Lobbies Congress to Place More Sanctions on Putin’s Associates</a> NYT: The activists are pitching sanctions on midlevel officials as a cost-free way for the United States to further isolate the Russian president. 
 
 
 </details>
@@ -222,6 +222,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, May. 22 </p> 
+ <a href="https://www.npr.org/2022/05/22/1100072832/georgia-voters-gwinnett-forsyth-2022-midterm-elections">Georgia voters showed us these 3 things about the fall election</a> NPR: NPR asked 36 people in Democratic-leaning Gwinnett County and Republican-leaning Forsyth County, Ga., what's on their minds heading into the midterms. Their answers are relevant to the entire country. 
+ <p class="updated_time"> 04:00 AM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/2022/05/22/business/media/lara-logan-cbs-news.html">Lara Logan, Once a Star at CBS News, Is Now One for the Far Right</a> NYT: The former chief foreign affairs correspondent is now a popular guest on podcasts hosted by vaccine skeptics and deniers of the 2020 election. 
+ <p class="updated_time"> 04:00 AM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/2022/05/22/us/politics/alabama-senate-mo-brooks.html">Scorned by Trump, Mo Brooks Rises in Alabama Senate Race</a> NYT: Mr. Brooks, a hard-right representative, seems to be making an unlikely comeback in a Senate race in which the Trump endorsement may not determine votes of Trump supporters. 
  <p class="updated_time"> 03:29 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/us/politics/state-legislators-election-denialhtml.html">How Trump’s 2020 Election Lies Have Gripped State Legislatures</a> NYT: A Times review of legislative votes and records reveals how lies about the 2020 election took hold in statehouses, driving efforts to unravel a free and fair election. 
  <p class="updated_time"> 01:31 AM CT, May. 22 </p> 
@@ -270,8 +276,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/21/us/politics/lucy-mcbath-carolyn-bourdeaux-georgia.html">Two Democratic Congresswomen, One Redrawn Georgia District</a> NYT: A primary for the new Seventh District, outside Atlanta, is forcing two popular incumbents, Lucy McBath and Carolyn Bourdeaux, to do battle. 
  <p class="updated_time"> 12:54 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/cdc-second-booster.html">C.D.C Says Adults 50 and Over Should Get Second Booster Shot</a> NYT: Previously, the agency said those 50 and older could opt for the additional shot, but encouraged only people over 65 or with underlying medical conditions to get it. 
- <p class="updated_time"> 09:37 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/us/politics/mitch-mcconnell-ukraine.html">On Ukraine, McConnell Tries to Show the World This Isn’t Trump’s G.O.P.</a> NYT: The top Senate Republican traveled to Europe in a bid to show that isolationism hasn’t taken over his party. He has privately lobbied his colleagues to vote that way, and so far, most are. 
  <p class="updated_time"> 09:07 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/giuliani-jan-6-committee.html">Giuliani Meets With Jan. 6 Committee for Over 7 Hours</a> NYT: The onetime Trump lawyer was central to the former president’s efforts to overturn the 2020 election. 
  <p class="updated_time"> 08:40 PM CT, May. 20 </p> 
@@ -288,8 +292,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/us/politics/john-kirby-pentagon-white-house.html">John Kirby, Pentagon Spokesman, Will Join White House</a> NYT: John Kirby, the Pentagon spokesman, will focus on national security and work alongside the new White House press secretary, Karine Jean-Pierre. 
  <p class="updated_time"> 07:05 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/pelosi-communion-abortion.html">Archbishop Bars Pelosi From Communion Over Abortion Stance</a> NYT: Archbishop Salvatore J. Cordileone, who has repeatedly confronted the House speaker over her backing of abortion rights, said her stance was a “grave evil.” 
- <p class="updated_time"> 07:03 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/us/politics/georgia-republican-primary-secretary-of-state.html">In Georgia, a G.O.P. Primary Tests the Power of a Trump Vendetta</a> NYT: Secretary of State Brad Raffensperger is fending off a challenger fueled by Donald J. Trump’s election lies. But do voters still care about 2020 as much as the former president does? 
  <p class="updated_time"> 06:57 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/business/starbucks-union-buffalo.html">Labor Board Seeks Unionization at Starbucks Where Union Lost Election</a> NYT: A complaint by the agency accuses the coffee chain of illegally intimidating and retaliating against workers in an election that the union lost. 
  <p class="updated_time"> 06:10 PM CT, May. 20 </p> 
@@ -314,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/20/1100477075/biden-aims-to-take-on-china-by-boosting-economic-ties-between-u-s-and-south-kore">Biden aims to take on China by boosting economic ties between U.S. and South Korea</a> NPR: President Biden wants to counter the economic might of China. He visited a semiconductor plant outside Seoul to kick off a trip aimed at his top foreign policy priority. 
  <p class="updated_time"> 03:36 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/attack-ads-have-fueled-sharp-ups-and-downs-in-the-alabama-gop-senate-race.html">Attack ads have fueled sharp ups and downs in the Alabama G.O.P. Senate race.</a> NYT: Deep-pocketed outside groups have spent freely to disparage the rivals of their preferred candidates. 
- <p class="updated_time"> 03:35 PM CT, May. 20 </p> 
- <a href="https://www.npr.org/2022/05/20/1100477033/a-recap-of-this-weeks-primaries">A recap of this week's primaries</a> NPR: Former President Trump is playing a big role on the Republican side — in states like Pennsylvania and North Carolina — endorsing Republican candidates who pledged loyalty to him. 
  <p class="updated_time"> 03:29 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/john-eastman-trump-jan-6.html">John Eastman Says He Dealt Directly With Trump Over Jan. 6 Plans</a> NYT: John Eastman said in a court filing that he had received handwritten notes from President Donald J. Trump as they strategized about how to keep him in power. 
  <p class="updated_time"> 03:07 PM CT, May. 20 </p> 
