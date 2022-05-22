@@ -32,6 +32,7 @@ permalink: /resume
 - Wrote 1–4 articles every day
 - Wrote a Sunday business feature story each week
 - Took photos and videos as needed
+- Helped create database for [series on domestic violence](https://www.galesburg.com/story/opinion/2015/05/17/a-register-mail-special-report/34538098007/)
 - Received Illinois Press Association’s first-place prize for government beat reporting in 2015 
 
 2013–14: Contributor, **BGR**
