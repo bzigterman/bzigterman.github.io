@@ -9,40 +9,40 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:05 AM CT, May. 22 </p> 
+ <p class="updated_time"> 06:17 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Says Military Aid Could Free Exports and Ease Food Prices</a> NYT: Ukraine’s president said wresting control of ports from Russia could help ease global price pressures from the war. President Biden signed one of the largest aid packages in decades on Saturday. 
+ <p class="updated_time"> 06:10 AM CT, May. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/health-61540474?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Israel and Switzerland confirm cases</a> BBC: It means the viral outbreak has spread to 14 countries with more than 80 cases detected so far. 
+ <p class="updated_time"> 06:07 AM CT, May. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61539426?at_medium=RSS&at_campaign=KARANGA">Australia election: Anthony Albanese signals climate policy change</a> BBC: Anthony Albanese vows to take the nation in a new direction, creating a renewable energy superpower. 
  <p class="updated_time"> 06:04 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/asia/flooding-india-bangladesh.html">Millions Displaced and Dozens Dead in Flooding in India and Bangladesh</a> NYT: Heavy rains have washed away towns, villages and infrastructure, as extreme weather events become more common in South Asia. 
  <p class="updated_time"> 06:02 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61540945?at_medium=RSS&at_campaign=KARANGA">Professor Brian Cox: Maybe humans are the Martians</a> BBC: The renowned physicist reflects on whether civilisation, like us, exists in other galaxies. 
- <p class="updated_time"> 05:11 AM CT, May. 22 </p> 
+ <p class="updated_time"> 05:29 AM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
- <p class="updated_time"> 04:54 AM CT, May. 22 </p> 
- <a href="https://www.bbc.co.uk/news/health-61540474?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Israel and Switzerland confirm cases</a> BBC: It means the viral outbreak has spread to 14 countries with more than 80 cases detected so far. 
+ <p class="updated_time"> 04:29 AM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
  <p class="updated_time"> 04:12 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61540944?at_medium=RSS&at_campaign=KARANGA">Floods in Bangladesh and India affect millions</a> BBC: At least 50 people are dead after some areas are battered by widespread flooding and landslides. 
- <p class="updated_time"> 04:11 AM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
  <p class="updated_time"> 04:00 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/ukraine-bucha-war-crimes-russia.html">‘Such Bad Guys Will Come’: How One Russian Brigade Terrorized Bucha</a> NYT: A particularly fearsome unit of Moscow’s invading army arrived in the Kyiv suburb in mid-March. The soldiers’ reputation preceded them. 
  <p class="updated_time"> 04:00 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/health/coronavirus-mink-michigan-spillover.html">The Michigan Mink Mystery: How Did an Interspecies Outbreak Unfold?</a> NYT: The puzzling coronavirus cases highlight ongoing surveillance challenges and blind spots. 
  <p class="updated_time"> 04:00 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/cambridge-university-women-degrees-1897.html">1897: Cambridge University Votes Against Degrees for Women</a> NYT: A resolution to grant degrees to women was rejected by a large majority and men celebrated the result with fireworks. 
- <p class="updated_time"> 03:11 AM CT, May. 22 </p> 
+ <p class="updated_time"> 03:29 AM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
  <p class="updated_time"> 02:31 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/australia/election-albanese-climate.html">Australia’s ‘Climate Election’ Finally Arrived. Will It Be Enough?</a> NYT: Voters rejected the deny-and-delay approach that has made Australia a global laggard on emission cuts. But how far the new government will go remains to be seen. 
- <p class="updated_time"> 02:11 AM CT, May. 22 </p> 
+ <p class="updated_time"> 02:29 AM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
- <p class="updated_time"> 01:55 AM CT, May. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61539426?at_medium=RSS&at_campaign=KARANGA">Australia election: Anthony Albanese signals climate policy change</a> BBC: Anthony Albanese vows to take the nation in a new direction, creating a renewable energy superpower. 
  <p class="updated_time"> 01:31 AM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100583411/albanese-elected-australias-leader-in-complex-poll-result">Albanese elected Australia's leader in complex poll result</a> NPR: Australians awoke on Sunday to a new prime minister in Anthony Albanese, the center-left Labor Party leader, though it remains unclear whether his party can form a majority government. 
+ <p class="updated_time"> 01:29 AM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 01:18 AM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100582879/fate-of-2-500-ukrainian-pows-from-steel-plant-stirs-concern">Fate of 2,500 Ukrainian POWs from steel plant stirs concern</a> NPR: With Russia claiming to have taken prisoner nearly 2,500 Ukrainian fighters from the besieged Mariupol steel plant, concerns grew about their fate. 
- <p class="updated_time"> 01:11 AM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 12:10 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61523010?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Against the thud of artillery, miners struggle on</a> BBC: Miners in eastern Ukraine on how a difficult job has become even more dangerous. 
  <p class="updated_time"> 11:23 PM CT, May. 21 </p> 
@@ -77,8 +77,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/americas/haiti-aristide-reparations-france.html">Aristide Demanded French Pay Reparations to Haiti. He Ended Up in Exile.</a> NYT: A firebrand Haitian president tried to hold France to account for its years of exploitation. He soon found himself ousted from power. 
  <p class="updated_time"> 02:53 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/haiti-wall-street-us-banks.html">Invade Haiti, Wall Street Urged. The U.S. Obliged.</a> NYT: The long occupation of Haiti began with a drumbeat from the bank that became Citigroup, decades of diplomatic correspondence and other records show. 
- <p class="updated_time"> 02:42 PM CT, May. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61535353?at_medium=RSS&at_campaign=KARANGA">Zelensky: Only diplomacy can end Ukraine war</a> BBC: Only a negotiated solution will work, says Ukraine's president, as fighting intensifies in Donbas. 
  <p class="updated_time"> 02:37 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/french-banks-haiti-cic.html">How a French Bank Captured Haiti</a> NYT: It helped finance the Eiffel Tower as it drained millions from Haiti. The bank, C.I.C., won’t talk about it, but The Times tracked how much its investors made — and what Haiti lost. 
  <p class="updated_time"> 02:15 PM CT, May. 21 </p> 
@@ -226,6 +224,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:00 AM CT, May. 22 </p> 
+ <a href="https://www.politico.com/news/2022/05/22/trump-mo-brooks-alabama-senate-00034249">Ditched by Trump, Mo Brooks rises from the dead</a> Politico: Two months after Donald Trump withdrew his endorsement, the Alabama congressman could very well advance to a Senate runoff. 
+ <p class="updated_time"> 06:00 AM CT, May. 22 </p> 
+ <a href="https://www.politico.com/news/2022/05/22/republicans-ignored-trumps-election-lies-00034242">'No one's paying any attention': The week that Republicans ignored Trump's election lies</a> Politico: Losing candidates in Republican primaries this year aren't resorting to the former president's routine. 
+ <p class="updated_time"> 06:00 AM CT, May. 22 </p> 
+ <a href="https://www.politico.com/news/2022/05/22/title-42-immigration-poll-00034117">POLITICO-Harvard poll: Majority of Americans support continued migrant expulsions under Title 42</a> Politico: The findings come as a Louisiana judge issued a preliminary injunction on Friday blocking the administration from ending the order on Monday. 
  <p class="updated_time"> 05:48 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/interactive/2022/05/22/us/politics/state-legislators-election-denial.html">How Trump’s 2020 Election Lies Have Gripped State Legislatures</a> NYT: A Times review of legislative votes and records reveals how lies about the 2020 election took hold in statehouses, driving efforts to unravel a free and fair election. 
  <p class="updated_time"> 05:41 AM CT, May. 22 </p> 
@@ -270,8 +274,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/21/in-biggest-victory-yet-russia-claims-to-capture-mariupol-00034233">In biggest victory yet, Russia claims to capture Mariupol</a> Politico: There was no immediate confirmation from Ukraine. 
  <p class="updated_time"> 06:02 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1098489307/roma-refugees-moldova-ukraine-war">Roma refugees who fled from Ukraine to Moldova are now in limbo</a> NPR: Many slipped across the border as the war began, but lack passports or other official forms of ID. They struggle to prove their eligibility for humanitarian aid — and to cross into other countries. 
- <p class="updated_time"> 06:01 AM CT, May. 21 </p> 
- <a href="https://www.politico.com/news/2022/05/21/latinos-georgia-battleground-state-00034228">Georgia's Latino population keeps growing. Why are there so few in office?</a> Politico: The key swing state has a stunningly small number of Latino candidates and officeholders. 
  <p class="updated_time"> 06:00 AM CT, May. 21 </p> 
  <a href="https://www.politico.com/news/2022/05/21/new-york-governor-election-harry-wilson-00032221">The pro-abortion rights, former Obama adviser Republican running for New York governor</a> Politico: “Look, I'm a lifelong Republican. I think I'm more consistent with the Republican Party than some of my erstwhile opponents. So I think I’m going to win the nomination,” Harry Wilson said in an interview. 
  <p class="updated_time"> 04:00 AM CT, May. 21 </p> 
@@ -308,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/us/politics/maga-merchandise-trump.html">Trump’s Out of Office, but the MAGA Merchandise Machine Keeps Chugging</a> NYT: President Biden’s recent criticism of “ultra-MAGA” Republicans has led to a new business opportunity for entrepreneurial conservatives. 
  <p class="updated_time"> 05:38 PM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/court-ruling-could-upend-pa-senate-race-00034198">Court ruling could upend Pa. Senate race</a> Politico: The ruling could introduce an as-yet-unknown number of uncounted ballots into a race where Oz and McCormick were separated by about 1,100 votes, as of Friday afternoon. 
- <p class="updated_time"> 05:12 PM CT, May. 20 </p> 
- <a href="https://www.politico.com/news/2022/05/20/democrats-calling-communications-eric-adams-new-york-00034180">National Dems are calling in a new communications expert: Eric Adams</a> Politico: The New York mayor spoke last week at a Democratic Congressional Campaign Committee event at the request of Speaker Nancy Pelosi and Rep. Sean Patrick Maloney. 
  <p class="updated_time"> 05:05 PM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/judge-blocks-biden-administration-from-lifting-title-42-border-policy-00034195">Judge blocks Biden administration from lifting Title 42 border policy</a> Politico: The pandemic-related health order, which was implemented in March 2020 to control the spread of Covid, was set to expire on Monday. 
  <p class="updated_time"> 04:46 PM CT, May. 20 </p> 
