@@ -9,29 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:12 AM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/21/world/russia-ukraine-war">What Happened on Day 87 of the War in Ukraine</a> NYT: The president signed the package of military and humanitarian aid during a visit to Seoul. The support for Ukraine came as neither side is making more than incremental gains and the war is set to begin its fourth month. 
+ <p class="updated_time"> 02:07 AM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/2022/05/22/world/australia/election-albanese-climate.html">Australia’s ‘Climate Election’ Finally Arrived. Will It Be Enough?</a> NYT: Voters rejected the deny-and-delay approach that has made Australia a global laggard on emission cuts. But how far the new government will go remains to be seen. 
+ <p class="updated_time"> 01:55 AM CT, May. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61539426?at_medium=RSS&at_campaign=KARANGA">Australia election: Anthony Albanese signals climate policy change</a> BBC: Anthony Albanese vows to take the nation in a new direction, creating a renewable energy superpower. 
  <p class="updated_time"> 01:31 AM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100583411/albanese-elected-australias-leader-in-complex-poll-result">Albanese elected Australia's leader in complex poll result</a> NPR: Australians awoke on Sunday to a new prime minister in Anthony Albanese, the center-left Labor Party leader, though it remains unclear whether his party can form a majority government. 
  <p class="updated_time"> 01:18 AM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100582879/fate-of-2-500-ukrainian-pows-from-steel-plant-stirs-concern">Fate of 2,500 Ukrainian POWs from steel plant stirs concern</a> NPR: With Russia claiming to have taken prisoner nearly 2,500 Ukrainian fighters from the besieged Mariupol steel plant, concerns grew about their fate. 
- <p class="updated_time"> 12:54 AM CT, May. 22 </p> 
+ <p class="updated_time"> 01:16 AM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
+ <p class="updated_time"> 12:16 AM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
  <p class="updated_time"> 12:10 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61523010?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Against the thud of artillery, miners struggle on</a> BBC: Miners in eastern Ukraine on how a difficult job has become even more dangerous. 
- <p class="updated_time"> 12:07 AM CT, May. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/05/21/world/russia-ukraine-war">What Happened on Day 87 of the War in Ukraine</a> NYT: The president signed the package of military and humanitarian aid during a visit to Seoul. The support for Ukraine came as neither side is making more than incremental gains and the war is set to begin its fourth month. 
- <p class="updated_time"> 11:54 PM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
  <p class="updated_time"> 11:23 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/biden-ukraine-zelensky-ceasefire-russia.html">As Biden Signs $40 Billion Aid Package for Ukraine, Calls Grow for a Cease-Fire</a> NYT: But a diplomatic resolution to the war still looks remote, amid searing questions about what would constitute a “victory” for Kyiv. 
- <p class="updated_time"> 10:54 PM CT, May. 21 </p> 
+ <p class="updated_time"> 11:16 PM CT, May. 21 </p> 
  <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
  <p class="updated_time"> 10:22 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/asia/biden-south-korea-yoon.html">Rejecting ‘Love Letters’ to North Korea, Biden Offers Carrots and Sticks Instead</a> NYT: President Biden said he would consider expanding joint exercises with South Korea’s military that were scaled back during the Trump administration. 
- <p class="updated_time"> 10:05 PM CT, May. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61539426?at_medium=RSS&at_campaign=KARANGA">Australia election: Anthony Albanese signals climate policy change</a> BBC: Anthony Albanese vows to take the nation in a new direction, creating a renewable energy superpower. 
- <p class="updated_time"> 09:54 PM CT, May. 21 </p> 
+ <p class="updated_time"> 10:16 PM CT, May. 21 </p> 
  <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
- <p class="updated_time"> 08:54 PM CT, May. 21 </p> 
+ <p class="updated_time"> 09:16 PM CT, May. 21 </p> 
  <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 07:27 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-61523624?at_medium=RSS&at_campaign=KARANGA">Governments should subsidise food and energy, says IMF boss</a> BBC: Managing director Kristalina Georgieva says state subsidies can help with the cost of living. 
@@ -211,8 +213,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/19/world/russian-gymnast-z-medal.html">Russian Gymnast Who Wore Pro-War ‘Z’ Symbol on Podium Is Given One-Year Ban</a> NYT: The gymnast, Ivan Kuliak, wore the symbol while standing at the podium next to the Ukrainian gold medalist. 
  <p class="updated_time"> 03:23 PM CT, May. 19 </p> 
  <a href="https://www.nytimes.com/2022/05/19/world/putin-sanctions-aleksei-navalny.html">Navalny’s Team Lobbies Congress to Place More Sanctions on Putin’s Associates</a> NYT: The activists are pitching sanctions on midlevel officials as a cost-free way for the United States to further isolate the Russian president. 
- <p class="updated_time"> 01:06 PM CT, May. 19 </p> 
- <a href="https://www.nytimes.com/2022/05/19/world/russia-ukraine-kherson-zelensky.html">A Russian Official Tours Occupied Southern Ukraine</a> NYT: The official, Marat Khusnullin, Russia’s deputy prime minister for infrastructure, outlined plans to take control of vital infrastructure. 
 
 
 </details>
