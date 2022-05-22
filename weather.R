@@ -708,8 +708,6 @@ Currently:
 - ",champaign_humidity," humidity
 - ",champaign_wind_speed," wind
 
-",champaign_precip," in the past 24 hours
-
 ## Temperature Comparison
 
 <picture>
