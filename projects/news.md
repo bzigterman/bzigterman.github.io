@@ -9,44 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:27 PM CT, May. 21 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/21/world/russia-ukraine-war">Live Updates: Biden Signs $40 Billion Ukraine Aid Package as Calls Grow for Cease-Fire</a> NYT: The president signed the package of military and humanitarian aid during a visit to Seoul. The support for Ukraine came as neither side is making more than incremental gains and the war is set to begin its fourth month. 
+ <p class="updated_time"> 08:55 PM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
  <p class="updated_time"> 08:08 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/asia/biden-south-korea-yoon.html">Rejecting ‘Love Letters’ to North Korea, Biden Offers Carrots and Sticks Instead</a> NYT: President Biden said he would consider expanding joint exercises with South Korea’s military that were scaled back during the Trump administration. 
- <p class="updated_time"> 08:06 PM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/live/2022/05/21/world/russia-ukraine-war">Live Updates: Biden Signs $40 Billion Ukraine Aid Package as Calls Grow for Cease-Fire</a> NYT: The president signed the package of military and humanitarian aid during a visit to Seoul. The support for Ukraine came as neither side is making more than incremental gains and the war is set to begin its fourth month. 
+ <p class="updated_time"> 07:55 PM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
  <p class="updated_time"> 07:27 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/business-61523624?at_medium=RSS&at_campaign=KARANGA">Governments should subsidise food and energy - IMF boss</a> BBC: Kristalina Georgieva says government subsidies can help with the cost of living crisis. 
- <p class="updated_time"> 07:14 PM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/russia-says-it-has-taken-complete-control-of-mariupol-after-surrender-of-last-defenders-11653125925">Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders</a> WSJ: Russia Says It Has Taken Complete Control of Mariupol After Surrender of Last Defenders 
  <p class="updated_time"> 07:03 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-south-asia-61507258?at_medium=RSS&at_campaign=KARANGA">'My first court case: Prosecuting my father's killers'</a> BBC: Shagufta Ahmed's first job was to get justice for her father, a lecturer murdered after he blew the whistle on a colleague. 
+ <p class="updated_time"> 06:55 PM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
  <p class="updated_time"> 06:16 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/biden-ukraine-zelensky-ceasefire-russia.html">As Biden Signs $40 Billion Aid Package for Ukraine, Calls Grow for a Cease-Fire</a> NYT: But a diplomatic resolution to the war still looks remote, amid searing questions about what would constitute a “victory” for Kyiv. 
  <p class="updated_time"> 06:15 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-61464176?at_medium=RSS&at_campaign=KARANGA">Your pictures on the theme of 'on the water'</a> BBC: A selection of striking images from our readers around the world. 
- <p class="updated_time"> 06:14 PM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/nato-bids-from-finland-and-sweden-now-depend-on-turkeys-president-11653130800">Finland and Sweden NATO Bids Now Hinge on Erdogan</a> WSJ: Finland and Sweden NATO Bids Now Hinge on Erdogan 
  <p class="updated_time"> 06:09 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61379487?at_medium=RSS&at_campaign=KARANGA">What beauty parlours reveal about Somali women</a> BBC: Somali women are usually expected to cover up and keep quiet - beauty parlours are a welcome relief. 
  <p class="updated_time"> 06:09 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61500136?at_medium=RSS&at_campaign=KARANGA">Femicide: Keeping the memory of murdered women alive with maps</a> BBC: Geraldina Guerra tracks cases of femicide in Ecuador and maps victims' lives online so people can learn about their life as well as their death. 
  <p class="updated_time"> 06:03 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61480248?at_medium=RSS&at_campaign=KARANGA">Afghanistan: Policing faces, bodies and beards on Kabul streets</a> BBC: The BBC goes on patrol with the Taliban's "moral police", whose job it is to enforce hard-line rule. 
+ <p class="updated_time"> 05:55 PM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
  <p class="updated_time"> 05:17 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/americas/psychedelic-therapy-female-veterans.html">‘I Want to Reset My Brain’: Female Veterans Turn to Psychedelic Therapy</a> NYT: Traumatized by war and sexual assaults, some U.S. veterans and veterans’ spouses are seeking help in a Mexican clinic that treats depression and addiction with potent hallucinogens like toad poison. 
- <p class="updated_time"> 05:14 PM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/biden-open-to-meeting-north-koreas-kim-pledges-deterrence-with-seoul-11653129309">Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul</a> WSJ: Biden Open to Meeting North Korea’s Kim, Pledges Deterrence With Seoul 
  <p class="updated_time"> 04:57 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/americas/haiti-history-colonized-france.html">The Root of Haiti’s Misery: Reparations to Enslavers</a> NYT: In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now. 
+ <p class="updated_time"> 04:55 PM CT, May. 21 </p> 
+ <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 04:43 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61538980?at_medium=RSS&at_campaign=KARANGA">Turkey: Huge rally for opposition's Canan Kaftancioglu</a> BBC: Canan Kaftancioglu has been convicted for insulting President Erdogan and the Turkish state. 
  <p class="updated_time"> 04:22 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/tornado-germany-heat-wave-europe.html">3 Tornadoes Strike Germany, Amid Heat Wave in Southern Europe</a> NYT: Extreme weather was also felt elsewhere in Europe as heat waves threatened Spain and parts of southern France. 
- <p class="updated_time"> 04:14 PM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/australias-center-left-labor-party-on-track-to-win-election-11653137678">Australia’s Center-Left Labor Party Wins Election Dominated by Inflation</a> WSJ: Australia’s Center-Left Labor Party Wins Election Dominated by Inflation 
  <p class="updated_time"> 03:49 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61503379?at_medium=RSS&at_campaign=KARANGA">Australia election: How Scott Morrison ran out of miracles</a> BBC: Australia's defeated PM had a carefully cultivated image, but it failed him in the end. 
- <p class="updated_time"> 03:14 PM CT, May. 21 </p> 
- <a href="https://www.wsj.com/articles/nfts-are-put-to-new-use-in-china-countering-censorship-during-pandemic-11653134403">NFTs Are Tapped in China to Avoid Censorship</a> WSJ: NFTs Are Tapped in China to Avoid Censorship 
  <p class="updated_time"> 03:03 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/americas/haiti-bibliography.html">The Ransom: A Look Under the Hood</a> NYT: Thousands of pages of original documents, and hundreds of books and articles. Here are the historians and researchers on which the Haiti project drew. 
  <p class="updated_time"> 02:58 PM CT, May. 21 </p> 
@@ -366,8 +366,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/19/schumer-manchin-reconciliation-bill-00033534">Dems stand back and watch Chuck and Joe show</a> Politico: Democrats are hoping Chuck Schumer's 10-year-plus relationship with Joe Manchin will finally get the party their sweeping tax-and-climate bill. 
  <p class="updated_time"> 03:30 AM CT, May. 19 </p> 
  <a href="https://www.politico.com/news/2022/05/19/gas-formula-inflation-voter-anxieties-motivate-struggling-dems-00033577">Gas, formula, inflation: Voter anxieties motivate struggling Dems</a> Politico: Democrats hope a swath of bills to combat inflation and other punishing problems will combat their poor-looking chances to keep the House. 
- <p class="updated_time"> 08:59 PM CT, May. 18 </p> 
- <a href="https://www.politico.com/news/2022/05/18/senate-unanimously-confirms-brink-as-ukraine-ambassador-00033654">Senate unanimously confirms Brink as Ukraine ambassador</a> Politico: After three long years, the U.S. finally has a Senate-confirmed top diplomat to the war-torn country. 
 
 
 </details>
