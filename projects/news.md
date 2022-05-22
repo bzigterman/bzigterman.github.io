@@ -9,44 +9,46 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:51 PM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/2022/05/22/world/canada/ottawa-storms.html">Five Dead After Severe Thunderstorms Lash Parts of Canada</a> NYT: A line of thunderstorms brought violent winds that left a trail of damage across parts of Ontario and Quebec on Saturday, and hundreds of thousands without power. 
+ <p class="updated_time"> 02:48 PM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">Ukraine Live Updates: Russia Renews Attack Against Key Eastern City</a> NYT: Fighting raged around Sievierodonetsk, a focus of Russia’s struggling offensive in the Donbas region. Ukraine’s president pressed allies for even more weapons, after President Biden signed one of the largest aid packages in decades. 
+ <p class="updated_time"> 02:33 PM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/americas/haiti-bibliography.html">The Ransom: A Look Under the Hood</a> NYT: Thousands of pages of original documents, and hundreds of books and articles. Here are the historians and researchers on which the Haiti project drew. 
  <p class="updated_time"> 02:23 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/us/politics/biden-japan-asia-economic-policy.html">Biden Arrives in Tokyo Seeking to Shore Up Support for Economic Plan</a> NYT: The president will meet with his counterparts from Australia, India and Japan. 
  <p class="updated_time"> 02:22 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/article/what-is-monkeypox.html">What Is Monkeypox?</a> NYT: There have been dozens of cases reported in recent weeks among populations not typically vulnerable to the disease. 
- <p class="updated_time"> 01:51 PM CT, May. 22 </p> 
- <a href="https://www.nytimes.com/2022/05/22/world/canada/ottawa-storms.html">Five Dead After Severe Thunderstorms Lash Parts of Canada</a> NYT: A line of thunderstorms brought violent winds that left a trail of damage across parts of Ontario and Quebec on Saturday, and hundreds of thousands without power. 
+ <p class="updated_time"> 01:53 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429">Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops</a> WSJ: Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops 
  <p class="updated_time"> 01:36 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/on-a-remote-mountain-the-sistine-chapel-of-socialism-awaits-its-fate.html">On a Remote Mountain, the ‘Sistine Chapel of Socialism’ Awaits Its Fate</a> NYT: An enormous monument to the Communist Party in Bulgaria is now a decrepit ruin. The country is wrestling with how to deal with a symbol of an unwanted and, in many ways, deeply ugly past. 
- <p class="updated_time"> 01:29 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429">Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops</a> WSJ: Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops 
- <p class="updated_time"> 01:13 PM CT, May. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">Ukraine Live Updates: Russia Renews Attack Against Key Eastern City</a> NYT: Fighting raged around Sievierodonetsk, a focus of Russia’s struggling offensive in the Donbas region. Ukraine’s president pressed allies for even more weapons, after President Biden signed one of the largest aid packages in decades. 
  <p class="updated_time"> 01:12 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/asia/monkeypox-biden-concern.html">‘Everybody Should Be Concerned’ About Monkeypox, Biden Warns</a> NYT: Only one case of the virus has so far been identified in the U.S., but public health officials say the disease is likely to spread. 
- <p class="updated_time"> 12:29 PM CT, May. 22 </p> 
+ <p class="updated_time"> 12:53 PM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/why-did-you-do-this-the-story-behind-ukraines-first-war-crimes-trial-11653226541">‘Why Did You Do This?’ The Story Behind Ukraine’s First War-Crimes Trial</a> WSJ: ‘Why Did You Do This?’ The Story Behind Ukraine’s First War-Crimes Trial 
  <p class="updated_time"> 12:22 PM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100564550/liev-schreiber-bluecheck-ukraine-help">Liev Schreiber's family ties to Ukraine push him to help its people</a> NPR: The actor speaks with NPR's Michel Martin about BlueCheck Ukraine, an aid network he co-founded, as well as his relationship with his grandfather. 
  <p class="updated_time"> 12:03 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/tornado-germany-heat-wave-europe.html">3 Tornadoes Strike Germany, Amid Heat Wave in Southern Europe</a> NYT: Extreme weather was also felt elsewhere in Europe as heat waves threatened Spain and parts of southern France. 
- <p class="updated_time"> 11:29 AM CT, May. 22 </p> 
+ <p class="updated_time"> 11:53 AM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183">Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy</a> WSJ: Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy 
  <p class="updated_time"> 10:57 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/health-61540474?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Israel, Switzerland and Austria confirm cases</a> BBC: Scientists are still unsure what is causing the outbreak, which has now spread to 15 countries. 
+ <p class="updated_time"> 10:53 AM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China Spends Far More Than Others to Help Favored Industries, Report Finds 
  <p class="updated_time"> 10:48 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61541653?at_medium=RSS&at_campaign=KARANGA">Canada storms: Nearly a million homes lose power in high winds</a> BBC: Five people die due to falling trees and high winds across southern Ontario and Quebec. 
- <p class="updated_time"> 10:29 AM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China Spends Far More Than Others to Help Favored Industries, Report Finds 
  <p class="updated_time"> 10:14 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/middleeast/iran-filmmakers.html">In Iran, a New Wave of Repression Hits Acclaimed Filmmakers</a> NYT: The authorities in the Islamic Republic like to take credit for the country’s achievements in film, but are warning those who make them not to cross red lines at home. 
+ <p class="updated_time"> 09:53 AM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-avoids-government-collapse-11653234773">Israeli Prime Minister Naftali Bennett Avoids Government Collapse</a> WSJ: Israeli Prime Minister Naftali Bennett Avoids Government Collapse 
  <p class="updated_time"> 09:46 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61543052?at_medium=RSS&at_campaign=KARANGA">Pampered pooches ride Japan's Shinkansen in style</a> BBC: Paws aboard! A pet-friendly service premiers on the iconic train as calls grow for easier pet travel. 
  <p class="updated_time"> 09:41 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/australia/election-albanese-climate.html">Australia’s ‘Climate Election’ Finally Arrived. Will It Be Enough?</a> NYT: Voters rejected the deny-and-delay approach that has made Australia a global laggard on emission cuts. But how far the new government will go remains to be seen. 
  <p class="updated_time"> 09:31 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/asia/philippines-rural-farming.html">Rural Philippines, Long Neglected, Newly Appealing in Covid Times</a> NYT: The economic disparity of the nation’s rural and urban areas is a problem of long standing. Will the lessons of the pandemic finally lead to change? 
- <p class="updated_time"> 09:29 AM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-avoids-government-collapse-11653234773">Israeli Prime Minister Naftali Bennett Avoids Government Collapse</a> WSJ: Israeli Prime Minister Naftali Bennett Avoids Government Collapse 
  <p class="updated_time"> 09:22 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/europe/kirill-putin-russian-orthodox-church.html">The Russian Orthodox Leader at the Core of Putin’s Ambitions</a> NYT: Patriarch Kirill I has provided spiritual cover for the invasion of Ukraine, reaping vast resources for his church in return. Now, in an extraordinary step, the E.U. is threatening him with sanctions. 
  <p class="updated_time"> 09:15 AM CT, May. 22 </p> 
@@ -105,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61538980?at_medium=RSS&at_campaign=KARANGA">Turkey: Huge rally for opposition's Canan Kaftancioglu</a> BBC: Canan Kaftancioglu has been convicted for insulting President Erdogan and the Turkish state. 
  <p class="updated_time"> 03:49 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61503379?at_medium=RSS&at_campaign=KARANGA">Australia election: How Scott Morrison ran out of miracles</a> BBC: Australia's defeated PM had a carefully cultivated image, but it failed him in the end. 
- <p class="updated_time"> 03:03 PM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/americas/haiti-bibliography.html">The Ransom: A Look Under the Hood</a> NYT: Thousands of pages of original documents, and hundreds of books and articles. Here are the historians and researchers on which the Haiti project drew. 
  <p class="updated_time"> 02:58 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/americas/haiti-aristide-reparations-france.html">Aristide Demanded French Pay Reparations to Haiti. He Ended Up in Exile.</a> NYT: A firebrand Haitian president tried to hold France to account for its years of exploitation. He soon found himself ousted from power. 
  <p class="updated_time"> 02:53 PM CT, May. 21 </p> 
@@ -201,8 +201,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61524175?at_medium=RSS&at_campaign=KARANGA">Ukraine war: What might tip the balance?</a> BBC: The conflict has become a grinding and bloody affair, with both sides making gains and losses. 
  <p class="updated_time"> 12:07 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/washington-eu-britain-northern-ireland.html">Washington Warns Britain to Temper Its Spat With E.U. Over Northern Ireland</a> NYT: A senior U.S. diplomat urged London and Brussels to discreetly resolve their disputes, citing the need to unify the West behind Ukraine amid Russia’s onslaught. 
- <p class="updated_time"> 12:03 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/19/nyregion/monkeypox-case-ny.html">Officials Report a Possible Monkeypox Case in New York</a> NYT: The patient is under care at Bellevue Hospital while further testing is conducted. 
  <p class="updated_time"> 09:30 AM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/un-china-michelle-bachelet.html">U.N. Human Rights Chief to Make First Trip to China Since 2005</a> NYT: Rights groups say Michelle Bachelet’s trip, including a visit to the western Chinese region of Xinjiang, where Beijing has cracked down on the Uyghur minority, will be a test of her office’s credibility. 
  <p class="updated_time"> 08:00 AM CT, May. 20 </p> 
@@ -220,6 +218,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:40 PM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/interactive/2022/05/22/us/politics/state-legislators-election-denial.html">How Trump’s 2020 Election Lies Have Gripped State Legislatures</a> NYT: A Times review of legislative votes and records reveals how lies about the 2020 election took hold in statehouses, driving efforts to unravel a free and fair election. 
  <p class="updated_time"> 02:23 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/us/politics/biden-japan-asia-economic-policy.html">Biden Arrives in Tokyo Seeking to Shore Up Support for Economic Plan</a> NYT: The president will meet with his counterparts from Australia, India and Japan. 
  <p class="updated_time"> 01:13 PM CT, May. 22 </p> 
@@ -242,8 +242,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/22/cawthorn-conceding-mcdaniel-rnc-00034262">Cawthorn did the ‘right thing’ by conceding, RNC chair says</a> Politico: “Madison had some issues that came out,” Ronna McDaniel said of his defeat. 
  <p class="updated_time"> 09:12 AM CT, May. 22 </p> 
  <a href="https://www.politico.com/news/2022/05/22/monkeypox-jha-spread-00034259">Health official on monkeypox: ‘I feel like this is a virus we understand’</a> Politico: Ashish Jha said he doesn't expect monkeypox will become a particularly big threat. 
- <p class="updated_time"> 09:11 AM CT, May. 22 </p> 
- <a href="https://www.nytimes.com/interactive/2022/05/22/us/politics/state-legislators-election-denial.html">How Trump’s 2020 Election Lies Have Gripped State Legislatures</a> NYT: A Times review of legislative votes and records reveals how lies about the 2020 election took hold in statehouses, driving efforts to unravel a free and fair election. 
  <p class="updated_time"> 07:01 AM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100587952/immigrant-advocates-say-using-the-word-invasion-fuels-extremism">Immigrant advocates say using the word 'invasion' fuels extremism</a> NPR: The alleged Buffalo gunman isn't the first mass shooter to talk about an "invasion" of non-whites. Republicans have denounced the shooting — but not the language he used about immigration. 
  <p class="updated_time"> 07:01 AM CT, May. 22 </p> 
@@ -348,6 +346,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/20/supreme-court-tech-industry-shadow-docket-00033907">Conservatives fume over tech industry’s ‘shadow docket’ play</a> Politico: The tech platforms’ conservative foes were caught flat-footed by the companies’ rush to the Supreme Court seeking emergency relief from Texas’ social media law. 
  <p class="updated_time"> 10:45 AM CT, May. 20 </p> 
  <a href="https://www.cnn.com/2022/05/20/politics/clarence-thomas-john-roberts-supreme-court-roe-wade/index.html">Clarence Thomas calls out John Roberts as Supreme Court edges closer to overturning Roe v. Wade</a> CNN: There was a little-seen warm moment between Chief Justice John Roberts and Justice Clarence Thomas last November 1, just before the Supreme Court heard arguments on Texas' abortion ban. 
+ <p class="updated_time"> 08:50 AM CT, May. 20 </p> 
+ <a href="https://www.politico.com/news/2022/05/20/secret-service-leave-off-duty-biden-asia-00034046">Secret Service: 2 employees on leave after ‘off-duty incident’ amid Biden’s Asia trip</a> Politico: An official said only one employee was investigated by local authorities, and no one was arrested. 
  <p class="updated_time"> 06:44 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/20/more-empire-state-map-madness-00034026">More Empire State map madness?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:26 AM CT, May. 20 </p> 
