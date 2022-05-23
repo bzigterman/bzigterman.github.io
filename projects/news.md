@@ -9,32 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:24 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">What Happened on Day 88 of the War in Ukraine</a> NYT: Fighting raged around Sievierodonetsk, a focus of Russia’s struggling offensive in the Donbas region in the east. In a visit to Kyiv on Sunday, Poland’s president said that Ukraine alone should determine its future and the terms of any cease-fire. 
  <p class="updated_time"> 12:05 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100652972/kim-at-large-funeral-amid-covid-worry">Kim and other N. Koreans attend large funeral amid COVID worry</a> NPR: The isolated East Asian country has only stated how many people have fevers daily, and has only identified a few of the cases as COVID-19 since admitting to an outbreak of the omicron variant. 
- <p class="updated_time"> 12:04 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">What Happened on Day 88 of the War in Ukraine</a> NYT: Fighting raged around Sievierodonetsk, a focus of Russia’s struggling offensive in the Donbas region in the east. In a visit to Kyiv on Sunday, Poland’s president said that Ukraine alone should determine its future and the terms of any cease-fire. 
  <p class="updated_time"> 12:00 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61542365?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Living in fear or in jail - Russia's defiant truth tellers</a> BBC: Despite the threat of a 15-year jail term, some Russians a refusing to be silenced by the Kremlin. 
+ <p class="updated_time"> 11:38 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429">Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops</a> WSJ: Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops 
  <p class="updated_time"> 11:25 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61546470?at_medium=RSS&at_campaign=KARANGA">Australia's new PM sworn in ahead of Japan summit</a> BBC: Two days after his election win, Anthony Albanese will fly to meet the leaders of US, India and Japan. 
- <p class="updated_time"> 11:12 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429">Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops</a> WSJ: Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops 
  <p class="updated_time"> 10:49 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/australia/election-albanese-climate.html">Australia’s ‘Climate Election’ Finally Arrived. Will It Be Enough?</a> NYT: Voters rejected the deny-and-delay approach that has made Australia a global laggard on emission cuts. But how far the new government will go remains to be seen. 
- <p class="updated_time"> 10:12 PM CT, May. 22 </p> 
+ <p class="updated_time"> 10:38 PM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/why-did-you-do-this-the-story-behind-ukraines-first-war-crimes-trial-11653226541">The Story Behind Ukraine’s First War-Crimes Trial</a> WSJ: The Story Behind Ukraine’s First War-Crimes Trial 
- <p class="updated_time"> 09:12 PM CT, May. 22 </p> 
+ <p class="updated_time"> 09:38 PM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183">Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy</a> WSJ: Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy 
+ <p class="updated_time"> 08:38 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China Spends Far More Than Others to Help Favored Industries, Report Finds 
  <p class="updated_time"> 08:29 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/health-61546199?at_medium=RSS&at_campaign=KARANGA">World faces big challenges over Covid, monkeypox and wars - WHO</a> BBC: The warning by the UN health agency's chief comes amid an unusual monkeypox outbreak outside Africa. 
- <p class="updated_time"> 08:12 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China Spends Far More Than Others to Help Favored Industries, Report Finds 
  <p class="updated_time"> 07:40 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61518058?at_medium=RSS&at_campaign=KARANGA">Why are kangaroos being spotted in India?</a> BBC: The sighting has raised alarms over networks that smuggle exotic animals to India. 
+ <p class="updated_time"> 07:38 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-avoids-government-collapse-11653234773">Israeli Prime Minister Naftali Bennett Avoids Government Collapse</a> WSJ: Israeli Prime Minister Naftali Bennett Avoids Government Collapse 
  <p class="updated_time"> 07:24 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/canada/ottawa-storms.html">At Least Six Dead After Severe Thunderstorms Lash Parts of Canada</a> NYT: A line of thunderstorms brought violent winds that left a trail of damage across parts of Ontario and Quebec on Saturday, and hundreds of thousands without power. 
- <p class="updated_time"> 07:12 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-avoids-government-collapse-11653234773">Israeli Prime Minister Naftali Bennett Avoids Government Collapse</a> WSJ: Israeli Prime Minister Naftali Bennett Avoids Government Collapse 
  <p class="updated_time"> 06:38 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61546420?at_medium=RSS&at_campaign=KARANGA">French street artist Miss. Tic dies aged 66</a> BBC: She is seen as one of the founders of stencil art, famous for her graffiti of female figures in Paris. 
  <p class="updated_time"> 06:23 PM CT, May. 22 </p> 
@@ -348,6 +348,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/20/supreme-court-tech-industry-shadow-docket-00033907">Conservatives fume over tech industry’s ‘shadow docket’ play</a> Politico: The tech platforms’ conservative foes were caught flat-footed by the companies’ rush to the Supreme Court seeking emergency relief from Texas’ social media law. 
  <p class="updated_time"> 10:45 AM CT, May. 20 </p> 
  <a href="https://www.cnn.com/2022/05/20/politics/clarence-thomas-john-roberts-supreme-court-roe-wade/index.html">Clarence Thomas calls out John Roberts as Supreme Court edges closer to overturning Roe v. Wade</a> CNN: There was a little-seen warm moment between Chief Justice John Roberts and Justice Clarence Thomas last November 1, just before the Supreme Court heard arguments on Texas' abortion ban. 
+ <p class="updated_time"> 08:08 AM CT, May. 20 </p> 
+ <a href="https://www.nytimes.com/2022/05/19/us/politics/biden-trip-asia.html">Biden Begins Trip to Asia Meant to Reassure Allies of Focus on China</a> NYT: With the administration’s attention having shifted to Ukraine, President Biden plans to emphasize that the United States can counter aggression in both Europe and Asia. 
  <p class="updated_time"> 06:44 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/20/more-empire-state-map-madness-00034026">More Empire State map madness?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:26 AM CT, May. 20 </p> 
