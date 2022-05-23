@@ -9,46 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:00 PM CT, May. 22 </p> 
+ <p class="updated_time"> 09:47 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">Ukraine Live Updates: Russia Renews Assault on Key Eastern City as Advances by Both Sides Slow</a> NYT: Fighting raged around Sievierodonetsk, a focus of Russia’s struggling offensive in the Donbas region in the east. In a visit to Kyiv on Sunday, Poland’s president said that Ukraine alone should determine its future and the terms of any cease-fire. 
+ <p class="updated_time"> 09:06 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429">Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops</a> WSJ: Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops 
+ <p class="updated_time"> 08:29 PM CT, May. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/health-61546199?at_medium=RSS&at_campaign=KARANGA">World faces big challenges over Covid, monkeypox and wars - WHO</a> BBC: The warning by the UN health agency's chief comes amid an unusual monkeypox outbreak outside Africa. 
+ <p class="updated_time"> 08:06 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/why-did-you-do-this-the-story-behind-ukraines-first-war-crimes-trial-11653226541">The Story Behind Ukraine’s First War-Crimes Trial</a> WSJ: The Story Behind Ukraine’s First War-Crimes Trial 
+ <p class="updated_time"> 08:04 PM CT, May. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61546470?at_medium=RSS&at_campaign=KARANGA">Australia's new PM sworn in ahead of Japan summit</a> BBC: Two days after his election win, Anthony Albanese will fly to meet leaders of the US, India and Japan. 
  <p class="updated_time"> 07:40 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61518058?at_medium=RSS&at_campaign=KARANGA">The curious case of kangaroo spotting in India</a> BBC: The sighting has raised alarms over networks that smuggle exotic animals to India. 
  <p class="updated_time"> 07:24 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/canada/ottawa-storms.html">At Least Six Dead After Severe Thunderstorms Lash Parts of Canada</a> NYT: A line of thunderstorms brought violent winds that left a trail of damage across parts of Ontario and Quebec on Saturday, and hundreds of thousands without power. 
- <p class="updated_time"> 07:15 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429">Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops</a> WSJ: Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops 
+ <p class="updated_time"> 07:06 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183">Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy</a> WSJ: Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy 
  <p class="updated_time"> 06:38 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61546420?at_medium=RSS&at_campaign=KARANGA">French street artist Miss. Tic dies aged 66</a> BBC: She is seen as one of the founders of stencil art, famous for her graffiti of female figures in Paris. 
  <p class="updated_time"> 06:23 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/russia-eastern-ukraine-battle.html">Russia Renews Assault on Key Eastern City as Advances by Both Sides Slow</a> NYT: The battle for Sievierodonetsk in eastern Ukraine represents another crucial point in the war, as both sides engage in a grueling war of attrition. 
- <p class="updated_time"> 06:15 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/why-did-you-do-this-the-story-behind-ukraines-first-war-crimes-trial-11653226541">The Story Behind Ukraine’s First War-Crimes Trial</a> WSJ: The Story Behind Ukraine’s First War-Crimes Trial 
  <p class="updated_time"> 06:11 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61464431?at_medium=RSS&at_campaign=KARANGA">Mozambique insurgency: Why 24 countries have sent troops</a> BBC: Mozambique is at the heart of a global battle for influence, even though its conflict has local roots. 
  <p class="updated_time"> 06:07 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61509744?at_medium=RSS&at_campaign=KARANGA">Palm oil firms depriving tribes of millions of dollars</a> BBC: Companies supplying major manufacturers fail to meet promises to share land, joint BBC investigation finds. 
+ <p class="updated_time"> 06:06 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China Spends Far More Than Others to Help Favored Industries, Report Finds 
  <p class="updated_time"> 05:18 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61544313?at_medium=RSS&at_campaign=KARANGA">Baby formula shortage: 35 tonnes of infant formula flown into the United States</a> BBC: The US is facing a critical shortage due to supply chain issues and the closure of a major factory. 
- <p class="updated_time"> 05:15 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183">Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy</a> WSJ: Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy 
  <p class="updated_time"> 05:13 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61546145?at_medium=RSS&at_campaign=KARANGA">Colonel in Iran Revolutionary Guard assassinated</a> BBC: Sayad Khodai, a senior figure in the elite Quds force, was reportedly shot dead in his car by two gunmen. 
+ <p class="updated_time"> 05:06 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-avoids-government-collapse-11653234773">Israeli Prime Minister Naftali Bennett Avoids Government Collapse</a> WSJ: Israeli Prime Minister Naftali Bennett Avoids Government Collapse 
  <p class="updated_time"> 04:23 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/middleeast/iran-filmmakers.html">In Iran, a New Wave of Repression Hits Acclaimed Filmmakers</a> NYT: The authorities in the Islamic Republic like to take credit for the country’s achievements in film, but are warning those who make them not to cross red lines at home. 
  <p class="updated_time"> 04:21 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/middleeast/israel-government-crisis.html">Israel’s Political Crisis Is Resolved, but Governing Remains a Strain</a> NYT: A lawmaker who quit the coalition last week reversed her decision on Sunday, averting the government’s imminent collapse. 
- <p class="updated_time"> 04:15 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China Spends Far More Than Others to Help Favored Industries, Report Finds 
  <p class="updated_time"> 04:03 PM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100611412/russia-ukraine-war-what-happened-this-weekend-may-21-22">Russia-Ukraine war: What happened this weekend (May 21-22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:53 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/ukraine-bucha-war-crimes-russia.html">‘Such Bad Guys Will Come’: How One Russian Brigade Terrorized Bucha</a> NYT: A particularly fearsome unit of Moscow’s invading army arrived in the Kyiv suburb in mid-March. The soldiers’ reputation preceded them. 
  <p class="updated_time"> 03:29 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/iran-revolutionary-guard-killed.html">A Senior Member of Iran’s Revolutionary Guard Is Killed in Tehran</a> NYT: No one claimed responsibility for the assassination of Col. Sayad Khodayee, which took place in broad daylight outside his home. 
- <p class="updated_time"> 03:26 PM CT, May. 22 </p> 
- <a href="https://www.bbc.co.uk/news/health-61540474?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Israel, Switzerland and Austria confirm cases</a> BBC: Scientists are still unsure what is causing the outbreak, which has now spread to 15 countries. 
- <p class="updated_time"> 03:15 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-avoids-government-collapse-11653234773">Israeli Prime Minister Naftali Bennett Avoids Government Collapse</a> WSJ: Israeli Prime Minister Naftali Bennett Avoids Government Collapse 
  <p class="updated_time"> 02:33 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/americas/haiti-bibliography.html">The Ransom: A Look Under the Hood</a> NYT: Thousands of pages of original documents, and hundreds of books and articles. Here are the historians and researchers on which the Haiti project drew. 
  <p class="updated_time"> 02:29 PM CT, May. 22 </p> 
@@ -83,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/22/1100587938/north-korea-increases-ballistic-missile-tests">North Korea increases ballistic missile tests</a> NPR: Ayesha Rascoe speaks to Jenny Town, senior fellow at the Stimson Center and director of its 38 North Program, about the recent uptick in North Korea's ballistic missile tests. 
  <p class="updated_time"> 07:01 AM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100587903/russia-intends-to-annex-kherson-in-southern-ukraine">Russia intends to annex Kherson in southern Ukraine</a> NPR: Russians have occupied Kherson in southern Ukraine since the early days of the invasion, and are trying to turn it into a Russian city. 
- <p class="updated_time"> 06:07 AM CT, May. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61539426?at_medium=RSS&at_campaign=KARANGA">Australia election: Anthony Albanese signals climate policy change</a> BBC: Anthony Albanese vows to take the nation in a new direction, creating a renewable energy superpower. 
  <p class="updated_time"> 06:02 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61540945?at_medium=RSS&at_campaign=KARANGA">Professor Brian Cox: Maybe humans are the Martians</a> BBC: The renowned physicist reflects on whether civilisation, like us, exists in other galaxies. 
  <p class="updated_time"> 06:00 AM CT, May. 22 </p> 
@@ -222,10 +222,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:44 PM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/2022/05/22/us/politics/democrats-georgia-warnock-abrams-biden.html">Democrats Fight Headwinds in Georgia and Beyond: ‘The Problem Is Reality’</a> NYT: Raphael Warnock and Stacey Abrams, viewed as strong candidates by their party, will be running against President Biden’s low ratings as well as their G.O.P. rivals. 
+ <p class="updated_time"> 08:19 PM CT, May. 22 </p> 
+ <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
+ <p class="updated_time"> 08:09 PM CT, May. 22 </p> 
+ <a href="https://www.politico.com/news/2022/05/22/pentagon-foreign-reporter-phone-official-travel-00034299">Pentagon seizes foreign reporter’s phone during official travel</a> Politico: The Air Force is "reviewing" a new mandate that prohibits foreigners from using their electronics during official flights, after the incident. 
  <p class="updated_time"> 07:00 PM CT, May. 22 </p> 
  <a href="https://www.politico.com/news/2022/05/22/white-house-infant-formula-manufacturers-00034310">White House touts use of wartime power to help infant formula manufacturers</a> Politico: Abbott Nutrition and Reckitt will get priority for supplies of raw materials used in the production of formula. 
- <p class="updated_time"> 06:01 PM CT, May. 22 </p> 
- <a href="https://www.nytimes.com/2022/05/22/us/politics/democrats-georgia-warnock-abrams-biden.html">Democrats Fight Headwinds in Georgia and Beyond: ‘The Problem Is Reality’</a> NYT: Raphael Warnock and Stacey Abrams, viewed as strong candidates by their party, will be running against President Biden’s low ratings as well as their G.O.P. rivals. 
  <p class="updated_time"> 04:08 PM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100614934/a-house-democrats-anti-abortion-stance-could-cost-him-a-seat">A House Democrat's anti-abortion stance could cost him a seat</a> NPR: The only self-identified "pro-life" Democrat in the House is facing a primary runoff challenge in south Texas. The race is one test of whether the party has room for people against abortion rights. 
  <p class="updated_time"> 03:02 PM CT, May. 22 </p> 
@@ -240,8 +244,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/22/world/asia/monkeypox-biden-concern.html">‘Everybody Should Be Concerned’ About Monkeypox, Biden Warns</a> NYT: Only one case of the virus has so far been identified in the U.S., but public health officials say the disease is likely to spread. 
  <p class="updated_time"> 01:07 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/us/politics/josh-shapiro-mastriano-pennsylvania.html">Josh Shapiro Defends Primary Ad Tying Doug Mastriano to Trump</a> NYT: Mr. Shapiro, the Democratic nominee for governor in Pennsylvania, said he was eager to start the general election campaign. 
- <p class="updated_time"> 11:34 AM CT, May. 22 </p> 
- <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 11:33 AM CT, May. 22 </p> 
  <a href="https://www.politico.com/news/2022/05/22/john-fetterman-released-hospital-00034274">Fetterman discharged from hospital</a> Politico: “Today I am headed back to Braddock," he said. 
  <p class="updated_time"> 10:10 AM CT, May. 22 </p> 
@@ -352,8 +354,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/20/supreme-court-tech-industry-shadow-docket-00033907">Conservatives fume over tech industry’s ‘shadow docket’ play</a> Politico: The tech platforms’ conservative foes were caught flat-footed by the companies’ rush to the Supreme Court seeking emergency relief from Texas’ social media law. 
  <p class="updated_time"> 10:45 AM CT, May. 20 </p> 
  <a href="https://www.cnn.com/2022/05/20/politics/clarence-thomas-john-roberts-supreme-court-roe-wade/index.html">Clarence Thomas calls out John Roberts as Supreme Court edges closer to overturning Roe v. Wade</a> CNN: There was a little-seen warm moment between Chief Justice John Roberts and Justice Clarence Thomas last November 1, just before the Supreme Court heard arguments on Texas' abortion ban. 
- <p class="updated_time"> 08:50 AM CT, May. 20 </p> 
- <a href="https://www.politico.com/news/2022/05/20/secret-service-leave-off-duty-biden-asia-00034046">Secret Service: 2 employees on leave after ‘off-duty incident’ amid Biden’s Asia trip</a> Politico: An official said only one employee was investigated by local authorities, and no one was arrested. 
  <p class="updated_time"> 06:44 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/20/more-empire-state-map-madness-00034026">More Empire State map madness?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:26 AM CT, May. 20 </p> 
