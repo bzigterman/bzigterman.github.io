@@ -9,26 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:47 AM CT, May. 23 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/61550310?at_medium=RSS&at_campaign=KARANGA">French Open 2022: Iga Swiatek beats Lesia Tsurenko, Naomi Osaka loses to Amanda Anisimova</a> BBC: World number one Iga Swiatek underlines why she is the overwhelming favourite by starting her French Open campaign with a quick win over Ukraine's Lesia Tsurenko. 
+ <p class="updated_time"> 06:45 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/asia/north-korea-covid.html">North Korea Claims ‘Positive Trend’ Against Covid Outbreak</a> NYT: The government said it had reversed the trajectory of its outbreak, although a true picture of its severity remained elusive. 
+ <p class="updated_time"> 06:40 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/23/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Urges Global Business Elite to Further Punish Russia</a> NYT: Speaking to the World Economic Forum, President Volodymyr Zelensky called for tougher sanctions against Moscow and safe corridors for Ukrainian grain exports. 
+ <p class="updated_time"> 06:40 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/europe/russian-soldier-war-crimes-guilty.html">Ukrainian Court Convicts a Russian Soldier of War Crimes</a> NYT: The verdict represents a milestone in Ukraine’s attempts to hold Russia and its soldiers accountable for atrocities committed in the war. 
  <p class="updated_time"> 06:37 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/france-woman-prime-minister-elisabeth-borne.html">France’s New Prime Minister Overcame Tragedy in Her Youth</a> NYT: Élisabeth Borne’s father, a World War II resistance member and a Holocaust survivor, killed himself when she was 11, an experience she has rarely discussed in detail. 
- <p class="updated_time"> 06:35 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/05/23/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Urges Global Business Elite to Further Punish Russia</a> NYT: Speaking to the World Economic Forum, President Volodymyr Zelensky called for tougher sanctions against Moscow and safe corridors for Ukrainian grain exports. 
  <p class="updated_time"> 06:29 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/05/23/world/haiti-france-ransom">Haiti ‘Ransom’ Project: Reactions and Updates</a> NYT: The New York Times’s publication of “The Ransom,” a groundbreaking report laying out history’s role in Haiti’s poverty, stirred immediate reaction. 
  <p class="updated_time"> 06:25 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61549569?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian soldier Vadim Shishimarin jailed for life over war crime</a> BBC: The tank commander admitted killing an unarmed civilian at the first war crimes trial since the invasion. 
- <p class="updated_time"> 06:23 AM CT, May. 23 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/61550310?at_medium=RSS&at_campaign=KARANGA">French Open 2022: Iga Swiatek beats Lesia Tsurenko, Naomi Osaka loses to Amanda Anisimova</a> BBC: World number one Iga Swiatek underlines why she is the overwhelming favourite by starting her French Open campaign with a quick win over Ukraine's Lesia Tsurenko. 
  <p class="updated_time"> 06:04 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-china.html">Biden Says U.S. Military Would Defend Taiwan if China Invaded</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy that he has been unwilling to make when it comes to Ukraine. 
  <p class="updated_time"> 06:02 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61548531?at_medium=RSS&at_campaign=KARANGA">Biden vows to defend Taiwan in apparent US policy shift</a> BBC: The US leader warned China against invading the island, likening such a move to Russia's war in Ukraine. 
+ <p class="updated_time"> 05:55 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429">Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops</a> WSJ: Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops 
  <p class="updated_time"> 05:54 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
- <p class="updated_time"> 05:43 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429">Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops</a> WSJ: Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops 
- <p class="updated_time"> 05:42 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/europe/russian-soldier-war-crimes-guilty.html">Ukrainian Court Convicts a Russian Soldier of War Crimes</a> NYT: The verdict represents a milestone in Ukraine’s attempts to hold Russia and its soldiers accountable for atrocities committed in the war. 
  <p class="updated_time"> 05:32 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61546145?at_medium=RSS&at_campaign=KARANGA">Iran vows revenge after Revolutionary Guards colonel is assassinated</a> BBC: Sayad Khodai was shot outside his home - the latest high-level figure to be killed in Iran. 
  <p class="updated_time"> 05:31 AM CT, May. 23 </p> 
@@ -37,7 +39,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-59900139?at_medium=RSS&at_campaign=KARANGA">China and Taiwan: A really simple guide</a> BBC: Tension between China and Taiwan has risen and what happens next matters to us all 
  <p class="updated_time"> 05:03 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61550090?at_medium=RSS&at_campaign=KARANGA">North Korea's Kim Jong-un is seen at state funeral not wearing a mask</a> BBC: The North Korean leader attends the funeral of a top military official as the country faces a Covid outbreak. 
- <p class="updated_time"> 04:43 AM CT, May. 23 </p> 
+ <p class="updated_time"> 04:55 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/why-did-you-do-this-the-story-behind-ukraines-first-war-crimes-trial-11653226541">The Story Behind Ukraine’s First War-Crimes Trial</a> WSJ: The Story Behind Ukraine’s First War-Crimes Trial 
  <p class="updated_time"> 04:13 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61546420?at_medium=RSS&at_campaign=KARANGA">French street artist Miss. Tic dies aged 66</a> BBC: She is seen as one of the founders of stencil art, famous for her graffiti of female figures in Paris. 
@@ -53,18 +55,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/world/europe/germany-russia-oil-embargo.html">The Refinery Standing Between Germany and an Oil Embargo</a> NYT: A Russian-owned refinery, linked to a Soviet-era pipeline, is a reminder of Germany’s past and a stumbling block to efforts to cut off Russian oil. 
  <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100655360/united-nations-world-displaced-new-record">A record 100 million people have been forced from their homes</a> NPR: Violence and natural disasters are fueling the surge in the number of people displaced, the U.N. says in a new report. 
- <p class="updated_time"> 03:43 AM CT, May. 23 </p> 
+ <p class="updated_time"> 03:55 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183">Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy</a> WSJ: Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy 
- <p class="updated_time"> 02:43 AM CT, May. 23 </p> 
+ <p class="updated_time"> 02:55 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China Spends Far More Than Others to Help Favored Industries, Report Finds 
  <p class="updated_time"> 02:38 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/philippine-ferry-fire.html">Seven Dead and More Than 100 Rescued in Philippine Ferry Fire</a> NYT: The vessel was carrying 124 passengers and 10 crew members when it caught fire soon after setting off at dawn from Polillo Island. 
  <p class="updated_time"> 02:37 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100655012/biden-says-u-s-intervene-with-military-to-defend-taiwan">Biden says the U.S. would intervene with military to defend Taiwan</a> NPR: A White House official said Biden's comments did not reflect a policy shift, even though the U.S. traditionally has avoided making such an explicit security guarantee to Taiwan. 
+ <p class="updated_time"> 01:55 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-avoids-government-collapse-11653234773">Israeli Prime Minister Naftali Bennett Avoids Government Collapse</a> WSJ: Israeli Prime Minister Naftali Bennett Avoids Government Collapse 
  <p class="updated_time"> 01:47 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/ukraine-bucha-war-crimes-russia.html">‘Such Bad Guys Will Come’: How One Russian Brigade Terrorized Bucha</a> NYT: A particularly fearsome unit of Moscow’s invading army arrived in the Kyiv suburb in mid-March. The soldiers’ reputation preceded them. 
- <p class="updated_time"> 01:43 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-avoids-government-collapse-11653234773">Israeli Prime Minister Naftali Bennett Avoids Government Collapse</a> WSJ: Israeli Prime Minister Naftali Bennett Avoids Government Collapse 
  <p class="updated_time"> 12:46 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61547081?at_medium=RSS&at_campaign=KARANGA">Delhi rain: Thunderstorm brings relief from heatwave</a> BBC: The thunderstorm led to flight delays and disrupted power supply in parts of India's capital. 
  <p class="updated_time"> 12:05 AM CT, May. 23 </p> 
@@ -207,8 +209,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/health-61524508?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Time to worry or one to ignore?</a> BBC: We are facing an unusual and unprecedented monkeypox outbreak but how worrying is it? 
  <p class="updated_time"> 05:10 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/france-macron-new-cabinet.html">France’s New Cabinet Mixes Fresh and Familiar, Hinting at Macron’s Priorities</a> NYT: President Emmanuel Macron’s newly announced government combines continuity with change, as first-term veterans were joined by newcomers in top positions at the foreign and education ministries. 
- <p class="updated_time"> 04:29 PM CT, May. 20 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/australia/australia-election-guide.html">A Guide to Australia’s Election</a> NYT: Election Day has arrived. Here’s what to watch. 
 
 
 </details>
@@ -354,8 +354,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/20/supreme-court-tech-industry-shadow-docket-00033907">Conservatives fume over tech industry’s ‘shadow docket’ play</a> Politico: The tech platforms’ conservative foes were caught flat-footed by the companies’ rush to the Supreme Court seeking emergency relief from Texas’ social media law. 
  <p class="updated_time"> 10:45 AM CT, May. 20 </p> 
  <a href="https://www.cnn.com/2022/05/20/politics/clarence-thomas-john-roberts-supreme-court-roe-wade/index.html">Clarence Thomas calls out John Roberts as Supreme Court edges closer to overturning Roe v. Wade</a> CNN: There was a little-seen warm moment between Chief Justice John Roberts and Justice Clarence Thomas last November 1, just before the Supreme Court heard arguments on Texas' abortion ban. 
- <p class="updated_time"> 06:44 AM CT, May. 20 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/05/20/more-empire-state-map-madness-00034026">More Empire State map madness?</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
