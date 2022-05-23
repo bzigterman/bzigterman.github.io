@@ -9,27 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:05 AM CT, May. 23 </p> 
+ <a href="https://www.npr.org/2022/05/23/1100652972/kim-at-large-funeral-amid-covid-worry">Kim and other N. Koreans attend large funeral amid COVID worry</a> NPR: The isolated East Asian country has only stated how many people have fevers daily, and has only identified a few of the cases as COVID-19 since admitting to an outbreak of the omicron variant. 
+ <p class="updated_time"> 12:04 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">What Happened on Day 88 of the War in Ukraine</a> NYT: Fighting raged around Sievierodonetsk, a focus of Russia’s struggling offensive in the Donbas region in the east. In a visit to Kyiv on Sunday, Poland’s president said that Ukraine alone should determine its future and the terms of any cease-fire. 
+ <p class="updated_time"> 12:00 AM CT, May. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61542365?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Living in fear or in jail - Russia's defiant truth tellers</a> BBC: Despite the threat of a 15-year jail term, some Russians a refusing to be silenced by the Kremlin. 
  <p class="updated_time"> 11:25 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61546470?at_medium=RSS&at_campaign=KARANGA">Australia's new PM sworn in ahead of Japan summit</a> BBC: Two days after his election win, Anthony Albanese will fly to meet the leaders of US, India and Japan. 
+ <p class="updated_time"> 11:12 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429">Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops</a> WSJ: Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops 
  <p class="updated_time"> 10:49 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/australia/election-albanese-climate.html">Australia’s ‘Climate Election’ Finally Arrived. Will It Be Enough?</a> NYT: Voters rejected the deny-and-delay approach that has made Australia a global laggard on emission cuts. But how far the new government will go remains to be seen. 
- <p class="updated_time"> 10:45 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429">Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops</a> WSJ: Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops 
- <p class="updated_time"> 10:31 PM CT, May. 22 </p> 
- <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">Ukraine Live Updates: Russia Renews Assault on Key Eastern City as Advances by Both Sides Slow</a> NYT: Fighting raged around Sievierodonetsk, a focus of Russia’s struggling offensive in the Donbas region in the east. In a visit to Kyiv on Sunday, Poland’s president said that Ukraine alone should determine its future and the terms of any cease-fire. 
- <p class="updated_time"> 09:45 PM CT, May. 22 </p> 
+ <p class="updated_time"> 10:12 PM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/why-did-you-do-this-the-story-behind-ukraines-first-war-crimes-trial-11653226541">The Story Behind Ukraine’s First War-Crimes Trial</a> WSJ: The Story Behind Ukraine’s First War-Crimes Trial 
- <p class="updated_time"> 08:45 PM CT, May. 22 </p> 
+ <p class="updated_time"> 09:12 PM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183">Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy</a> WSJ: Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy 
  <p class="updated_time"> 08:29 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/health-61546199?at_medium=RSS&at_campaign=KARANGA">World faces big challenges over Covid, monkeypox and wars - WHO</a> BBC: The warning by the UN health agency's chief comes amid an unusual monkeypox outbreak outside Africa. 
- <p class="updated_time"> 07:45 PM CT, May. 22 </p> 
+ <p class="updated_time"> 08:12 PM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China Spends Far More Than Others to Help Favored Industries, Report Finds 
  <p class="updated_time"> 07:40 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61518058?at_medium=RSS&at_campaign=KARANGA">Why are kangaroos being spotted in India?</a> BBC: The sighting has raised alarms over networks that smuggle exotic animals to India. 
  <p class="updated_time"> 07:24 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/canada/ottawa-storms.html">At Least Six Dead After Severe Thunderstorms Lash Parts of Canada</a> NYT: A line of thunderstorms brought violent winds that left a trail of damage across parts of Ontario and Quebec on Saturday, and hundreds of thousands without power. 
- <p class="updated_time"> 06:45 PM CT, May. 22 </p> 
+ <p class="updated_time"> 07:12 PM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-avoids-government-collapse-11653234773">Israeli Prime Minister Naftali Bennett Avoids Government Collapse</a> WSJ: Israeli Prime Minister Naftali Bennett Avoids Government Collapse 
  <p class="updated_time"> 06:38 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61546420?at_medium=RSS&at_campaign=KARANGA">French street artist Miss. Tic dies aged 66</a> BBC: She is seen as one of the founders of stencil art, famous for her graffiti of female figures in Paris. 
@@ -175,8 +179,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/australia/democracy-sausage.html">Australian Democracy Comes With a Side of Grilled Onions</a> NYT: In a beloved tradition, every Election Day sausages are sold near polling stations as fund-raisers for local schools, churches and community groups. 
  <p class="updated_time"> 12:54 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-azov-mariupol-trials.html">How Russia Uses Show Trials to Punish Putin’s Enemies</a> NYT: Moscow may label the Azov fighters who defended the Mariupol steel plant as terrorists — raising the prospect of a high-profile trial. The Kremlin has a long tradition of using the courts for political goals. 
- <p class="updated_time"> 12:34 AM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/2022/05/20/business/economy/g7-20-billion-ukraine.html">G7 Nations Pledge $20 Billion to Ukraine</a> NYT: Financing will be directed to keep government operations running amid the Russian war. 
  <p class="updated_time"> 12:28 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/australia/prime-minister-scott-morrison-election.html">Australian Prime Minister Scott Morrison Urges Voters to Opt for What They Know</a> NYT: His tenure hasn’t always been smooth, with moments that have tested the Australian public’s faith in his leadership 
  <p class="updated_time"> 12:16 AM CT, May. 21 </p> 
@@ -195,10 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61512663?at_medium=RSS&at_campaign=KARANGA">Israeli police accused of violence towards shot Palestinian's family</a> BBC: Relatives say police used unjustifiable force on them inside the hospital treating the wounded man. 
  <p class="updated_time"> 06:24 PM CT, May. 20 </p> 
  <a href="https://www.bbc.co.uk/news/health-61524508?at_medium=RSS&at_campaign=KARANGA">Monkeypox: Time to worry or one to ignore?</a> BBC: We are facing an unusual and unprecedented monkeypox outbreak but how worrying is it? 
- <p class="updated_time"> 06:19 PM CT, May. 20 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61229617?at_medium=RSS&at_campaign=KARANGA">Nigeria's facial scars: The last generation</a> BBC: The marks were a way of identifying the lineage of people, but the practice has been outlawed. 
- <p class="updated_time"> 06:16 PM CT, May. 20 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/05/20/1099176613/coronavirus-faq-i-took-paxlovid-i-felt-better-then-symptoms-rebounded-whats-up">Coronavirus FAQ: I took Paxlovid. I felt better. Then symptoms rebounded. What's up?</a> NPR: The antiviral drug is prescribed to those at risk of severe disease. It's been credited with reducing hospitalizations. But then there's the "Paxlovid rebound." 
  <p class="updated_time"> 06:00 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/europe/russia-ukraine-arconic-samara.html">U.S. Company Supplying Russian Military Seeks Exit, Caught Between Sanctions and Kremlin</a> NYT: Arconic runs a huge Russian metal plant, bought in an era of cooperation between the U.S. and Russia. Now it is struggling, after years of increasing Russian military aggression. 
  <p class="updated_time"> 05:10 PM CT, May. 20 </p> 
