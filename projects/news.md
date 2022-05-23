@@ -9,26 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:41 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/23/world/haiti-france-ransom">A Times project asks: What was the real cost of Haiti’s post-independence forced payments?</a> NYT: The C.I.C. bank siphoned millions in fees and interest from the island’s treasury in the late 19th and early 20th centuries, an investigation found. 
+ <p class="updated_time"> 10:41 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/travel/city-biking-trails.html">7 Great Biking Cities (and Which Trails to Ride)</a> NYT: There’s no better way to zip through a new city than on two wheels. Here are some routes to try, from riverside jaunts to mountain climbs. 
+ <p class="updated_time"> 10:36 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/french-banks-haiti-cic.html">How a French Bank Captured Haiti</a> NYT: It helped finance the Eiffel Tower as it drained millions from Haiti. The bank, C.I.C., won’t talk about it, but The Times tracked how much its investors made — and what Haiti lost. 
  <p class="updated_time"> 10:27 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100085358/medyka-ukrain-refugees-border-humanitarian-aid">The flow of Ukrainian refugees has changed direction in Poland. And so has aid relief</a> NPR: Medyka is the busiest border crossing between Poland and Ukraine. Aid workers flocked there to set up tents offering assistance when the war started. But these days, the flow of refugees has shifted. 
- <p class="updated_time"> 10:25 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/05/23/world/haiti-france-ransom">Haiti ‘Ransom’ Project: Reactions and Updates</a> NYT: The New York Times’s publication of “The Ransom,” a groundbreaking report laying out history’s role in Haiti’s poverty, stirred immediate reaction. 
  <p class="updated_time"> 10:20 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/05/23/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Urges Global Business Elite to Punish Russia Further</a> NYT: Speaking to the World Economic Forum, President Volodymyr Zelensky called for tougher sanctions against Moscow and safe corridors for Ukrainian grain exports. A Russian diplomat resigned in a rare instance of an official breaking with the Kremlin over the war. 
  <p class="updated_time"> 10:08 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100683496/starbucks-exits-russia-shuts-coffee-shops">Starbucks is exiting Russia, shutting 130 stores</a> NPR: The coffee chain joins McDonald's in taking its brand out of the country. Starbucks had temporarily paused operations in March. 
  <p class="updated_time"> 10:06 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/haitian-ransom-project-creole.html">Haitian Creole Speakers Welcome ‘The Ransom’ Translation</a> NYT: Haitian Creole is a national language, but Creole speakers can encounter prejudice, so some were thrilled to see “The Ransom” offered in Creole. 
- <p class="updated_time"> 10:03 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/french-banks-haiti-cic.html">How a French Bank Captured Haiti</a> NYT: It helped finance the Eiffel Tower as it drained millions from Haiti. The bank, C.I.C., won’t talk about it, but The Times tracked how much its investors made — and what Haiti lost. 
+ <a href="https://www.nytimes.com/2022/05/23/world/haitian-creole-history.html">Haitian Creole Speakers Welcome ‘The Ransom’ Translation</a> NYT: Haitian Creole is a national language, but Creole speakers can encounter prejudice, so some were thrilled to see “The Ransom” offered in Creole. 
  <p class="updated_time"> 09:55 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/ukraine-russia-davos.html">Where Russia Once Held Court at Davos, Ukraine Makes Its Pitch</a> NYT: The Russia House, where oligarchs sipped vodka and talked with politicians and corporate chiefs during the World Economic Forum, has been rebranded “Russian War Crimes House.” 
  <p class="updated_time"> 09:52 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61548029?at_medium=RSS&at_campaign=KARANGA">Ukraine calls for safe passage for grain exports</a> BBC: The country's inability to export its grain has led to food prices rising around the world. 
+ <p class="updated_time"> 09:50 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/russian-soldier-awaits-verdict-in-ukraine-war-crimes-trial-11653295495">Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial 
  <p class="updated_time"> 09:39 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/americas/haiti-cic-french-bank.html">French Bank Will Study Role in Haiti After New York Times Report</a> NYT: The C.I.C. bank siphoned millions in fees and interest from the island’s treasury in the late 19th and early 20th centuries, an investigation found. 
- <p class="updated_time"> 09:30 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/russian-soldier-awaits-verdict-in-ukraine-war-crimes-trial-11653295495">Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial 
  <p class="updated_time"> 09:22 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61546145?at_medium=RSS&at_campaign=KARANGA">Iran vows revenge after Revolutionary Guards colonel is assassinated</a> BBC: Sayad Khodai was shot outside his home - the latest high-level figure to be killed in Iran. 
  <p class="updated_time"> 09:11 AM CT, May. 23 </p> 
@@ -37,6 +39,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/world/europe/russia-diplomat-un-geneva.html">Russian Diplomat Resigns Over Ukraine War</a> NYT: Boris Bondarev, a counselor at the Russian mission in Geneva, quit in a rare example of an official breaking with the Kremlin over its war in Ukraine. 
  <p class="updated_time"> 09:04 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/asia/iran-revolutionary-guard-killed.html">A Senior Member of Iran’s Revolutionary Guard Is Killed in Tehran</a> NYT: No one claimed responsibility for the assassination of Col. Sayad Khodayee, which took place in broad daylight outside his home. 
+ <p class="updated_time"> 08:50 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/ecb-signals-end-to-negative-interest-rates-by-september-11653299391">Lagarde Signals End to ECB’s Negative Interest Rates Experiment</a> WSJ: Lagarde Signals End to ECB’s Negative Interest Rates Experiment 
  <p class="updated_time"> 08:45 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/germany-russia-oil-embargo.html">The Refinery Standing Between Germany and an Oil Embargo</a> NYT: A Russian-owned refinery, linked to a Soviet-era pipeline, is a reminder of Germany’s past and a stumbling block to efforts to cut off Russian oil. 
  <p class="updated_time"> 08:44 AM CT, May. 23 </p> 
@@ -47,13 +51,11 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
  <p class="updated_time"> 08:35 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/france-woman-prime-minister-elisabeth-borne.html">France’s New Prime Minister Overcame Tragedy in Her Youth</a> NYT: Élisabeth Borne’s father, a World War II resistance member and a Holocaust survivor, killed himself when she was 11, an experience she has rarely discussed in detail. 
- <p class="updated_time"> 08:30 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/ecb-signals-end-to-negative-interest-rates-by-september-11653299391">Lagarde Signals End to ECB’s Negative Interest Rates Experiment</a> WSJ: Lagarde Signals End to ECB’s Negative Interest Rates Experiment 
  <p class="updated_time"> 08:17 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/russian-soldier-war-crimes-guilty.html">Ukrainian Court Convicts a Russian Soldier of War Crimes</a> NYT: The verdict represents a milestone in Ukraine’s attempts to hold Russia and its soldiers accountable for atrocities committed in the war. 
  <p class="updated_time"> 07:55 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61548645?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe says Iran made her confess as condition of release</a> BBC: Iran made a last-minute release demand at the airport with a UK official present, the former prisoner says. 
- <p class="updated_time"> 07:30 AM CT, May. 23 </p> 
+ <p class="updated_time"> 07:50 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/biden-says-u-s-would-intervene-militarily-if-china-invaded-taiwan-11653286228">Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan</a> WSJ: Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan 
  <p class="updated_time"> 07:11 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100664381/vadim-shishimarin-life-sentence-war-crimes-trial">A Russian soldier is sentenced to life in prison in Ukraine's first war crimes trial</a> NPR: Vadim Shishimarin, 21, had pleaded guilty last week to shooting an unarmed Ukrainian man in late February. On Monday, a panel of judges in Kyiv sentenced him to life in prison. 
@@ -61,16 +63,16 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-61549040?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe tells BBC she was forced to sign confession in Iran</a> BBC: Nazanin Zaghari-Ratcliffe says she was told she couldn't get on the plane home without signing the papers. 
  <p class="updated_time"> 06:55 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-60690688?at_medium=RSS&at_campaign=KARANGA">What is a war crime and could Putin be prosecuted over Ukraine?</a> BBC: If Russia has carried out war crimes in Ukraine how could Putin or his army generals be prosecuted? 
+ <p class="updated_time"> 06:50 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/u-n-human-rights-chief-kicks-off-closely-watched-china-visit-11653306465">U.N. Human-Rights Chief Kicks Off Closely Watched China Trip</a> WSJ: U.N. Human-Rights Chief Kicks Off Closely Watched China Trip 
  <p class="updated_time"> 06:45 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/north-korea-covid.html">North Korea Claims ‘Positive Trend’ Against Covid Outbreak</a> NYT: The government said it had reversed the trajectory of its outbreak, although a true picture of its severity remained elusive. 
- <p class="updated_time"> 06:30 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/u-n-human-rights-chief-kicks-off-closely-watched-china-visit-11653306465">U.N. Human-Rights Chief Kicks Off Closely Watched China Trip</a> WSJ: U.N. Human-Rights Chief Kicks Off Closely Watched China Trip 
  <p class="updated_time"> 06:02 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61548531?at_medium=RSS&at_campaign=KARANGA">Biden vows to defend Taiwan in apparent US policy shift</a> BBC: The US leader warned China against invading the island, likening such a move to Russia's war in Ukraine. 
+ <p class="updated_time"> 05:50 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/suspected-graves-at-canadas-indigenous-schools-prompt-search-for-answers-11653298202">Suspected Graves at Canada’s Indigenous Schools Prompt Search for Answers</a> WSJ: Suspected Graves at Canada’s Indigenous Schools Prompt Search for Answers 
  <p class="updated_time"> 05:31 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61547756?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian assault on key Donbas city intensifies</a> BBC: Moscow has been accused of a "scorched earth" policy in its efforts to capture Severodonetsk. 
- <p class="updated_time"> 05:30 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/suspected-graves-at-canadas-indigenous-schools-prompt-search-for-answers-11653298202">Suspected Graves at Canada’s Indigenous Schools Prompt Search for Answers</a> WSJ: Suspected Graves at Canada’s Indigenous Schools Prompt Search for Answers 
  <p class="updated_time"> 05:20 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59900139?at_medium=RSS&at_campaign=KARANGA">China and Taiwan: A really simple guide</a> BBC: Tension between China and Taiwan has risen and what happens next matters to us all 
  <p class="updated_time"> 05:03 AM CT, May. 23 </p> 
@@ -79,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61546420?at_medium=RSS&at_campaign=KARANGA">French street artist Miss. Tic dies aged 66</a> BBC: She is seen as one of the founders of stencil art, famous for her graffiti of female figures in Paris. 
  <p class="updated_time"> 04:02 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/americas/philadelphia-schools-masks.html">Philadelphia Schools Reinstate Mask Mandate</a> NYT: With cases rising again, the superintendent said that as the pandemic evolves, “so too will our response to it.” 
- <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/travel/city-biking-trails.html">7 Great Biking Cities (and Which Trails to Ride)</a> NYT: There’s no better way to zip through a new city than on two wheels. Here are some routes to try, from riverside jaunts to mountain climbs. 
  <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/travel/family-summer-cycling.html">A Family Measures Milestones on an Alaskan Cycling Trip</a> NYT: In the shadow of the iconic Denali peak in Alaska, a family bikes over the next rise and into the great unknown. 
  <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
@@ -246,6 +246,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/22/pentagon-foreign-reporter-phone-official-travel-00034299">Pentagon seizes foreign reporter’s phone during official travel</a> Politico: The Air Force is "reviewing" a new mandate that prohibits foreigners from using their electronics during official flights, after the incident. 
  <p class="updated_time"> 07:19 PM CT, May. 22 </p> 
  <a href="https://www.cnn.com/2022/05/22/politics/trevor-reed-documentary-cnntv/index.html">Exclusive: Trevor Reed pushes back against critics of US participation in prisoner swaps</a> CNN: Trevor Reed, an American citizen recently freed after more than two years imprisoned in Russia, said in an exclusive interview with CNN that he does not believe the United States' participation in prisoner swaps to bring Americans home should be controversial. 
+ <p class="updated_time"> 07:00 PM CT, May. 22 </p> 
+ <a href="https://www.politico.com/news/2022/05/22/white-house-infant-formula-manufacturers-00034310">White House touts use of wartime power to help infant formula manufacturers</a> Politico: Abbott Nutrition and Reckitt will get priority for supplies of raw materials used in the production of formula. 
  <p class="updated_time"> 04:08 PM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100614934/a-house-democrats-anti-abortion-stance-could-cost-him-a-seat">A House Democrat's anti-abortion stance could cost him a seat</a> NPR: The only self-identified "pro-life" Democrat in the House is facing a primary runoff challenge in south Texas. The race is one test of whether the party has room for people against abortion rights. 
  <p class="updated_time"> 03:02 PM CT, May. 22 </p> 
@@ -288,6 +290,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/22/1100583411/albanese-elected-australias-leader-in-complex-poll-result">Albanese elected Australia's leader in complex poll result</a> NPR: Australians awoke on Sunday to a new prime minister in Anthony Albanese, the center-left Labor Party leader, though it remains unclear whether his party can form a majority government. 
  <p class="updated_time"> 10:22 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/asia/biden-south-korea-yoon.html">Rejecting ‘Love Letters’ to North Korea, Biden Offers Carrots and Sticks Instead</a> NYT: President Biden said he would consider expanding joint exercises with South Korea’s military that were scaled back during the Trump administration. 
+ <p class="updated_time"> 05:41 PM CT, May. 21 </p> 
+ <a href="https://www.politico.com/news/2022/05/21/mccormick-and-oz-joust-over-counting-of-undated-ballots-00034248">McCormick and Oz joust over counting of undated ballots</a> Politico: A federal court judgment in a related vote-counting case bolsters McCormick's standing in the too-close-to-call race. 
  <p class="updated_time"> 04:13 PM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1100562854/on-asia-trip-biden-seeks-to-strengthen-relationship-with-new-south-korean-leader">On Asia trip, Biden seeks to strengthen relationship with new South Korean leader</a> NPR: President Biden is trying to shore up diplomatic and economic ties with allies like South Korea and Japan on the first trip to Asia of his presidency as he works to counter China. 
  <p class="updated_time"> 12:23 PM CT, May. 21 </p> 
@@ -296,6 +300,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/05/21/sean-patrick-maloney-dodges-a-bullet-00034238"> Sean Patrick Maloney dodges a bullet</a> Politico Playbook: And President Joe Biden visits South Korea. 
  <p class="updated_time"> 08:40 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1100536547/nancy-pelosi-communion-abortion-rights">An archbishop bars Pelosi from Communion over her support for abortion rights</a> NPR: Archbishop Salvatore Cordileone of San Francisco said he sent House Speaker Nancy Pelosi a letter expressing his concerns after she vowed to codify the Supreme Court's Roe v. Wade decision. 
+ <p class="updated_time"> 08:23 AM CT, May. 21 </p> 
+ <a href="https://www.politico.com/news/2022/05/21/new-maps-new-york-redistricting-00034235">Final New York maps released and lead to midnight shuffle of congressional delegation</a> Politico: The maps are not a drastic overhaul from drafts that threw the state’s elections into chaos on Monday and threatened Democrats' hopes of picking up several House seats from Republicans in November. 
  <p class="updated_time"> 07:05 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1100532529/biden-meets-with-new-south-korean-president-yoon-seok-youl">Biden meets with new South Korean President Yoon Seok-youl</a> NPR: President Biden met his South Korean counterpart at the start of a tour of Asia. The two leaders discussed taking a tougher line with North Korea and increased economic competition and security. 
  <p class="updated_time"> 06:57 AM CT, May. 21 </p> 
@@ -304,6 +310,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/21/us/politics/ukraine-aid-bill-biden.html">Biden to Sign Ukraine Aid Bill During His Trip to Asia</a> NYT: A White House aide was bringing a physical copy of the $40 billion measure to South Korea on a commercial flight. It was passed by Congress this week. 
  <p class="updated_time"> 06:02 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1098489307/roma-refugees-moldova-ukraine-war">Roma refugees who fled from Ukraine to Moldova are now in limbo</a> NPR: Many slipped across the border as the war began, but lack passports or other official forms of ID. They struggle to prove their eligibility for humanitarian aid — and to cross into other countries. 
+ <p class="updated_time"> 06:00 AM CT, May. 21 </p> 
+ <a href="https://www.politico.com/news/2022/05/21/new-york-governor-election-harry-wilson-00032221">The pro-abortion rights, former Obama adviser Republican running for New York governor</a> Politico: “Look, I'm a lifelong Republican. I think I'm more consistent with the Republican Party than some of my erstwhile opponents. So I think I’m going to win the nomination,” Harry Wilson said in an interview. 
  <p class="updated_time"> 04:00 AM CT, May. 21 </p> 
  <a href="https://www.npr.org/2022/05/21/1100438703/dhs-disinformation-board-nina-jankowicz">She joined DHS to fight disinformation. She says she was halted by... disinformation</a> NPR: Nina Jankowicz looks back at how exaggerations and falsehoods stoked so many doubts about the Disinformation Governance Board that DHS paused it after just three weeks. 
  <p class="updated_time"> 04:00 AM CT, May. 21 </p> 
@@ -314,8 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/us/politics/giuliani-jan-6-committee.html">Giuliani Meets With Jan. 6 Committee for Over 7 Hours</a> NYT: The onetime Trump lawyer was central to the former president’s efforts to overturn the 2020 election. 
  <p class="updated_time"> 07:36 PM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/white-house-makes-kirbys-new-role-official-00034229">White House makes Kirby's new role official</a> Politico: John Kirby will leave the Pentagon to serve as the National Security Council Coordinator for Strategic Communications. 
- <p class="updated_time"> 05:38 PM CT, May. 20 </p> 
- <a href="https://www.politico.com/news/2022/05/20/court-ruling-could-upend-pa-senate-race-00034198">Court ruling could upend Pa. Senate race</a> Politico: The ruling could introduce an as-yet-unknown number of uncounted ballots into a race where Oz and McCormick were separated by about 1,100 votes, as of Friday afternoon. 
  <p class="updated_time"> 05:05 PM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/judge-blocks-biden-administration-from-lifting-title-42-border-policy-00034195">Judge blocks Biden administration from lifting Title 42 border policy</a> Politico: The pandemic-related health order, which was implemented in March 2020 to control the spread of Covid, was set to expire on Monday. 
  <p class="updated_time"> 01:08 PM CT, May. 20 </p> 
@@ -324,8 +330,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/20/clinton-campaign-manager-denies-approving-passing-anti-trump-info-to-fbi-00034115">Clinton 2016 campaign manager denies approving passing anti-Trump info to FBI</a> Politico: Robby Mook told jurors that he would have opposed taking the allegations to the FBI because the campaign had no faith in the bureau after the FBI’s then-director James Comey publicly blasted Clinton. 
  <p class="updated_time"> 10:51 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/supreme-court-tech-industry-shadow-docket-00033907">Conservatives fume over tech industry’s ‘shadow docket’ play</a> Politico: The tech platforms’ conservative foes were caught flat-footed by the companies’ rush to the Supreme Court seeking emergency relief from Texas’ social media law. 
- <p class="updated_time"> 10:45 AM CT, May. 20 </p> 
- <a href="https://www.cnn.com/2022/05/20/politics/clarence-thomas-john-roberts-supreme-court-roe-wade/index.html">Clarence Thomas calls out John Roberts as Supreme Court edges closer to overturning Roe v. Wade</a> CNN: There was a little-seen warm moment between Chief Justice John Roberts and Justice Clarence Thomas last November 1, just before the Supreme Court heard arguments on Texas' abortion ban. 
 
 
 </details>
