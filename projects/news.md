@@ -9,17 +9,27 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:17 AM CT, May. 23 </p> 
+ <p class="updated_time"> 08:50 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/23/world/haiti-france-ransom">Haiti ‘Ransom’ Project: Reactions and Updates</a> NYT: The New York Times’s publication of “The Ransom,” a groundbreaking report laying out history’s role in Haiti’s poverty, stirred immediate reaction. 
+ <p class="updated_time"> 08:48 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/05/23/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Urges Global Business Elite to Further Punish Russia</a> NYT: Speaking to the World Economic Forum, President Volodymyr Zelensky called for tougher sanctions against Moscow and safe corridors for Ukrainian grain exports. 
+ <p class="updated_time"> 08:45 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/europe/germany-russia-oil-embargo.html">The Refinery Standing Between Germany and an Oil Embargo</a> NYT: A Russian-owned refinery, linked to a Soviet-era pipeline, is a reminder of Germany’s past and a stumbling block to efforts to cut off Russian oil. 
+ <p class="updated_time"> 08:44 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/europe/zelensky-ukraine-world-economic-forum.html">Addressing Davos, Zelensky Invites Global Businesses to Ukraine</a> NYT: The Ukrainian leader pledged to root out corruption to make his country more attractive to investors, and urged for tougher penalties against Moscow. 
+ <p class="updated_time"> 08:42 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/americas/haiti-history-cic-bank.html">French Bank Will Study Role in Haiti After New York Times Report</a> NYT: The C.I.C. bank siphoned millions in fees and interest from the island’s treasury in the late 19th and early 20th centuries, an investigation found. 
+ <p class="updated_time"> 08:41 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-china.html">Biden Says U.S. Military Would Defend Taiwan if China Invaded</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy beyond what the U.S. has done for Ukraine. 
+ <p class="updated_time"> 08:41 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
+ <p class="updated_time"> 08:35 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/europe/france-woman-prime-minister-elisabeth-borne.html">France’s New Prime Minister Overcame Tragedy in Her Youth</a> NYT: Élisabeth Borne’s father, a World War II resistance member and a Holocaust survivor, killed himself when she was 11, an experience she has rarely discussed in detail. 
  <p class="updated_time"> 08:17 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/russian-soldier-war-crimes-guilty.html">Ukrainian Court Convicts a Russian Soldier of War Crimes</a> NYT: The verdict represents a milestone in Ukraine’s attempts to hold Russia and its soldiers accountable for atrocities committed in the war. 
- <p class="updated_time"> 08:13 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/05/23/world/haiti-france-ransom">Haiti ‘Ransom’ Project: Reactions and Updates</a> NYT: The New York Times’s publication of “The Ransom,” a groundbreaking report laying out history’s role in Haiti’s poverty, stirred immediate reaction. 
  <p class="updated_time"> 07:55 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61548645?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe says Iran made her confess as condition of release</a> BBC: Iran made a last-minute release demand at the airport with a UK official present, the former prisoner says. 
- <p class="updated_time"> 07:38 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-china.html">Biden Says U.S. Military Would Defend Taiwan if China Invaded</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy beyond what the U.S. has done for Ukraine. 
- <p class="updated_time"> 07:23 AM CT, May. 23 </p> 
+ <p class="updated_time"> 07:54 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/russian-soldier-awaits-verdict-in-ukraine-war-crimes-trial-11653295495">Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial 
  <p class="updated_time"> 07:11 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100664381/vadim-shishimarin-life-sentence-war-crimes-trial">A Russian soldier is sentenced to life in prison in Ukraine's first war crimes trial</a> NPR: Vadim Shishimarin, 21, had pleaded guilty last week to shooting an unarmed Ukrainian man in late February. On Monday, a panel of judges in Kyiv sentenced him to life in prison. 
@@ -29,29 +39,25 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61549569?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian soldier Vadim Shishimarin jailed for life over war crime</a> BBC: The tank commander admitted killing an unarmed civilian at the first war crimes trial since the invasion. 
  <p class="updated_time"> 06:55 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-60690688?at_medium=RSS&at_campaign=KARANGA">What is a war crime and could Putin be prosecuted over Ukraine?</a> BBC: If Russia has carried out war crimes in Ukraine how could Putin or his army generals be prosecuted? 
+ <p class="updated_time"> 06:54 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/ecb-signals-end-to-negative-interest-rates-by-september-11653299391">Lagarde Signals End to ECB’s Negative Interest Rates Experiment</a> WSJ: Lagarde Signals End to ECB’s Negative Interest Rates Experiment 
  <p class="updated_time"> 06:47 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/61550310?at_medium=RSS&at_campaign=KARANGA">French Open 2022: Iga Swiatek beats Lesia Tsurenko, Naomi Osaka loses to Amanda Anisimova</a> BBC: World number one Iga Swiatek underlines why she is the overwhelming favourite by starting her French Open campaign with a quick win over Ukraine's Lesia Tsurenko. 
  <p class="updated_time"> 06:45 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/north-korea-covid.html">North Korea Claims ‘Positive Trend’ Against Covid Outbreak</a> NYT: The government said it had reversed the trajectory of its outbreak, although a true picture of its severity remained elusive. 
- <p class="updated_time"> 06:37 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/europe/france-woman-prime-minister-elisabeth-borne.html">France’s New Prime Minister Overcame Tragedy in Her Youth</a> NYT: Élisabeth Borne’s father, a World War II resistance member and a Holocaust survivor, killed himself when she was 11, an experience she has rarely discussed in detail. 
- <p class="updated_time"> 06:23 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/ecb-signals-end-to-negative-interest-rates-by-september-11653299391">Lagarde Signals End to ECB’s Negative Interest Rates Experiment</a> WSJ: Lagarde Signals End to ECB’s Negative Interest Rates Experiment 
  <p class="updated_time"> 06:02 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61548531?at_medium=RSS&at_campaign=KARANGA">Biden vows to defend Taiwan in apparent US policy shift</a> BBC: The US leader warned China against invading the island, likening such a move to Russia's war in Ukraine. 
  <p class="updated_time"> 05:54 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
+ <a href="https://www.wsj.com/articles/biden-says-u-s-would-intervene-militarily-if-china-invaded-taiwan-11653286228">Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan</a> WSJ: Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan 
  <p class="updated_time"> 05:32 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61546145?at_medium=RSS&at_campaign=KARANGA">Iran vows revenge after Revolutionary Guards colonel is assassinated</a> BBC: Sayad Khodai was shot outside his home - the latest high-level figure to be killed in Iran. 
  <p class="updated_time"> 05:31 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61547756?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian assault on key Donbas city intensifies</a> BBC: Moscow has been accused of a "scorched earth" policy in its efforts to capture Severodonetsk. 
- <p class="updated_time"> 05:23 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/biden-says-u-s-would-intervene-militarily-if-china-invaded-taiwan-11653286228">Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan</a> WSJ: Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan 
  <p class="updated_time"> 05:20 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59900139?at_medium=RSS&at_campaign=KARANGA">China and Taiwan: A really simple guide</a> BBC: Tension between China and Taiwan has risen and what happens next matters to us all 
  <p class="updated_time"> 05:03 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61550090?at_medium=RSS&at_campaign=KARANGA">North Korea's Kim Jong-un is seen at state funeral not wearing a mask</a> BBC: The North Korean leader attends the funeral of a top military official as the country faces a Covid outbreak. 
- <p class="updated_time"> 04:23 AM CT, May. 23 </p> 
+ <p class="updated_time"> 04:54 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/u-n-human-rights-chief-kicks-off-closely-watched-china-visit-11653306465">U.N. Human Rights Chief Kicks Off Closely Watched China Trip</a> WSJ: U.N. Human Rights Chief Kicks Off Closely Watched China Trip 
  <p class="updated_time"> 04:13 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61546420?at_medium=RSS&at_campaign=KARANGA">French street artist Miss. Tic dies aged 66</a> BBC: She is seen as one of the founders of stencil art, famous for her graffiti of female figures in Paris. 
@@ -64,10 +70,8 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html">The Era of Borderless Data Is Ending</a> NYT: Nations are accelerating efforts to control data produced within their perimeters, disrupting the flow of what has become a kind of digital currency. 
  <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/europe/germany-russia-oil-embargo.html">The Refinery Standing Between Germany and an Oil Embargo</a> NYT: A Russian-owned refinery, linked to a Soviet-era pipeline, is a reminder of Germany’s past and a stumbling block to efforts to cut off Russian oil. 
- <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100655360/united-nations-world-displaced-new-record">A record 100 million people have been forced from their homes</a> NPR: Violence and natural disasters are fueling the surge in the number of people displaced, the U.N. says in a new report. 
- <p class="updated_time"> 03:23 AM CT, May. 23 </p> 
+ <p class="updated_time"> 03:54 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/suspected-graves-at-canadas-indigenous-schools-prompt-search-for-answers-11653298202">Suspected Graves at Canada’s Indigenous Schools Prompt Search for Answers</a> WSJ: Suspected Graves at Canada’s Indigenous Schools Prompt Search for Answers 
  <p class="updated_time"> 02:38 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/philippine-ferry-fire.html">Seven Dead and More Than 100 Rescued in Philippine Ferry Fire</a> NYT: The vessel was carrying 124 passengers and 10 crew members when it caught fire soon after setting off at dawn from Polillo Island. 
@@ -194,16 +198,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:41 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-china.html">Biden Says U.S. Military Would Defend Taiwan if China Invaded</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy beyond what the U.S. has done for Ukraine. 
+ <p class="updated_time"> 08:41 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
  <p class="updated_time"> 08:19 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/us/biden-baby-formula-shortage.html">U.S. Military Airlifts Baby Formula From Europe</a> NYT: A shipment that arrived on Sunday was the first of two intended to address shortages in the United States. Another shipment is set to arrive this week, the White House said. 
- <p class="updated_time"> 07:38 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-china.html">Biden Says U.S. Military Would Defend Taiwan if China Invaded</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy beyond what the U.S. has done for Ukraine. 
  <p class="updated_time"> 06:18 AM CT, May. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/23/herschel-its-mitch-00034335">Herschel, it’s Mitch</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:03 AM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/pfizer-biontech-report-covid-19-vaccine-efficacy-children-00034304">Pfizer, BioNTech report 80 percent efficacy of Covid-19 vaccine for youngest children</a> Politico: The companies plan to finish submitting data to the Food and Drug Administration this week. 
- <p class="updated_time"> 05:54 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
  <p class="updated_time"> 05:12 AM CT, May. 23 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/23/bidens-midterm-window-is-closing-00034331"> Biden’s midterm window is closing</a> Politico Playbook: And Mike Pence preps for a 2024 run. 
  <p class="updated_time"> 04:09 AM CT, May. 23 </p> 
@@ -236,6 +240,8 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:09 PM CT, May. 22 </p> 
  <a href="https://www.politico.com/news/2022/05/22/pentagon-foreign-reporter-phone-official-travel-00034299">Pentagon seizes foreign reporter’s phone during official travel</a> Politico: The Air Force is "reviewing" a new mandate that prohibits foreigners from using their electronics during official flights, after the incident. 
+ <p class="updated_time"> 07:19 PM CT, May. 22 </p> 
+ <a href="https://www.cnn.com/2022/05/22/politics/trevor-reed-documentary-cnntv/index.html">Exclusive: Trevor Reed pushes back against critics of US participation in prisoner swaps</a> CNN: Trevor Reed, an American citizen recently freed after more than two years imprisoned in Russia, said in an exclusive interview with CNN that he does not believe the United States' participation in prisoner swaps to bring Americans home should be controversial. 
  <p class="updated_time"> 07:00 PM CT, May. 22 </p> 
  <a href="https://www.politico.com/news/2022/05/22/white-house-infant-formula-manufacturers-00034310">White House touts use of wartime power to help infant formula manufacturers</a> Politico: Abbott Nutrition and Reckitt will get priority for supplies of raw materials used in the production of formula. 
  <p class="updated_time"> 04:08 PM CT, May. 22 </p> 
@@ -322,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/20/judge-blocks-biden-administration-from-lifting-title-42-border-policy-00034195">Judge blocks Biden administration from lifting Title 42 border policy</a> Politico: The pandemic-related health order, which was implemented in March 2020 to control the spread of Covid, was set to expire on Monday. 
  <p class="updated_time"> 01:08 PM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/mcconnell-ukraine-republican-isolationist-00034110">Inside McConnell’s bid to quash GOP ‘isolationists’</a> Politico: The Republican leader is determined to stamp out a pro-Trump wing of his party that has pushed back on $40 billion in aid to Ukraine — and U.S. support more broadly. 
- <p class="updated_time"> 12:28 PM CT, May. 20 </p> 
- <a href="https://www.cnn.com/2022/05/20/politics/trevor-reed-detainment-russia-cnntv/index.html">Exclusive: Trevor Reed details surviving horrendous conditions in Russian psychiatric treatment facility</a> CNN: Trevor Reed, an American citizen and former Marine recently freed after two years in a Russian prison, detailed his harrowing experience surviving a psychiatric treatment facility in the country in an exclusive interview with CNN. 
  <p class="updated_time"> 12:14 PM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/clinton-campaign-manager-denies-approving-passing-anti-trump-info-to-fbi-00034115">Clinton 2016 campaign manager denies approving passing anti-Trump info to FBI</a> Politico: Robby Mook told jurors that he would have opposed taking the allegations to the FBI because the campaign had no faith in the bureau after the FBI’s then-director James Comey publicly blasted Clinton. 
  <p class="updated_time"> 10:51 AM CT, May. 20 </p> 
