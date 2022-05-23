@@ -9,65 +9,71 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:44 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/travel/city-biking-trails.html">7 Great Biking Cities (and Which Trails to Ride)</a> NYT: There’s no better way to zip through a new city than on two wheels. Here are some routes to try, from riverside jaunts to mountain climbs. 
+ <p class="updated_time"> 12:44 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/23/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Urges Global Business Elite to Punish Russia Further</a> NYT: President Volodymyr Zelensky addressed the World Economic Forum in Davos, Switzerland, where he received a standing ovation and Russia, usually a major presence there, was a pariah. It was one of several fresh signs of Russia’s growing isolation. 
+ <p class="updated_time"> 12:43 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-china.html">Biden Pledges to Defend Taiwan if It Faces a Chinese Attack</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy beyond what the U.S. has done for Ukraine. 
+ <p class="updated_time"> 12:35 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/europe/russian-soldier-war-crimes-guilty.html">Ukrainian Court Convicts a Russian Soldier of War Crimes</a> NYT: The verdict represents a milestone in Ukraine’s attempts to hold Russia and its soldiers accountable for atrocities committed in the war. 
+ <p class="updated_time"> 12:29 PM CT, May. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61548490?at_medium=RSS&at_campaign=KARANGA">Dozens feared trapped after 10-storey building collapses in Iran</a> BBC: Pictures show concrete floors and steel beams that crushed cars after falling on to the street below. 
+ <p class="updated_time"> 12:26 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/asia/philippine-ferry-fire.html">Seven Dead and More Than 100 Rescued in Philippine Ferry Fire</a> NYT: The vessel was carrying 124 passengers and 10 crew members when it caught fire soon after setting off at dawn from Polillo Island. 
+ <p class="updated_time"> 12:24 PM CT, May. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61548645?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe says Iran made her confess as condition of release</a> BBC: Iran made a last-minute release demand at the airport with a UK official present, the former prisoner says. 
+ <p class="updated_time"> 12:18 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/23/world/haiti-france-ransom">Haiti ‘Ransom’ Project: Reactions and Updates</a> NYT: The New York Times’s publication of “The Ransom,” a report laying out history’s role in Haiti’s poverty, stirred immediate reaction. 
+ <p class="updated_time"> 12:18 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/haitian-reaction-ransom-articles.html">Haitians React to ‘Ransom’ Project</a> NYT: Some Haitians say the world needs to understand the history that brought them to their present-day straits. 
  <p class="updated_time"> 12:13 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/business/economy/china-trade-tariffs-biden.html">Debate Over Tariffs Reveals Biden’s Difficulties on China Trade</a> NYT: Sixteen months into the Biden presidency, U.S. officials are still divided over what to do about a trade legacy left by President Donald J. Trump. 
- <p class="updated_time"> 12:12 PM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/05/23/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Urges Global Business Elite to Punish Russia Further</a> NYT: President Volodymyr Zelensky addressed the World Economic Forum in Davos, Switzerland, where he received a standing ovation and Russia, usually a major presence there, was a pariah. It was one of several fresh signs of Russia’s growing isolation. 
  <p class="updated_time"> 12:00 PM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61549155?at_medium=RSS&at_campaign=KARANGA">Millionaires at Davos say 'tax us more'</a> BBC: At the annual meeting of the business and political elites, wealthy attendees call for fairer tax. 
- <p class="updated_time"> 11:47 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/05/23/world/haiti-france-ransom">Haiti ‘Ransom’ Project: Reactions and Updates</a> NYT: The New York Times’s publication of “The Ransom,” a report laying out history’s role in Haiti’s poverty, stirred immediate reaction. 
+ <p class="updated_time"> 11:51 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/biden-says-u-s-would-intervene-militarily-if-china-invaded-taiwan-11653286228">Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan</a> WSJ: Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan 
  <p class="updated_time"> 11:47 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/ukraine-russia-davos.html">Where Russia Once Held Court at Davos, Ukraine Makes Its Pitch</a> NYT: The Russia House, where oligarchs sipped vodka and talked with politicians and corporate chiefs during the World Economic Forum, has been rebranded “Russian War Crimes House.” 
  <p class="updated_time"> 11:24 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100731559/russian-diplomat-un-quits-ashamed">A Russian diplomat to the U.N. quits, saying he is ashamed of his country</a> NPR: "Never have I been so ashamed of my country as on Feb. 24 of this year," veteran Russian diplomat Boris Bondarev wrote, alluding to the date of Russia's invasion. 
- <p class="updated_time"> 11:16 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/biden-says-u-s-would-intervene-militarily-if-china-invaded-taiwan-11653286228">Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan</a> WSJ: Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan 
  <p class="updated_time"> 11:15 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/21/business/world-economic-forum-davos-accomplish.html">For Elite? Yes. Ostentatious? Yes. But Also Effective.</a> NYT: For all the criticism of the World Economic Forum’s display of wealth, productive partnerships are indeed formed at Davos, participants say. 
  <p class="updated_time"> 10:57 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/french-banks-haiti-cic.html">How a French Bank Captured Haiti</a> NYT: It helped finance the Eiffel Tower as it drained millions from Haiti. The bank, C.I.C., won’t talk about it, but The Times tracked how much its investors made — and what Haiti lost. 
  <p class="updated_time"> 10:55 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
- <p class="updated_time"> 10:41 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/travel/city-biking-trails.html">7 Great Biking Cities (and Which Trails to Ride)</a> NYT: There’s no better way to zip through a new city than on two wheels. Here are some routes to try, from riverside jaunts to mountain climbs. 
+ <p class="updated_time"> 10:51 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/russian-soldier-awaits-verdict-in-ukraine-war-crimes-trial-11653295495">Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial 
  <p class="updated_time"> 10:27 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100085358/medyka-ukrain-refugees-border-humanitarian-aid">The flow of Ukrainian refugees has changed direction in Poland. And so has aid relief</a> NPR: Medyka is the busiest border crossing between Poland and Ukraine. Aid workers flocked there to set up tents offering assistance when the war started. But these days, the flow of refugees has shifted. 
- <p class="updated_time"> 10:16 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/russian-soldier-awaits-verdict-in-ukraine-war-crimes-trial-11653295495">Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial 
  <p class="updated_time"> 10:08 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100683496/starbucks-exits-russia-shuts-coffee-shops">Starbucks is exiting Russia, shutting 130 stores</a> NPR: The coffee chain joins McDonald's in taking its brand out of the country. Starbucks had temporarily paused operations in March. 
  <p class="updated_time"> 10:06 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/haitian-creole-history.html">Haitian Creole Speakers Welcome ‘The Ransom’ Translation</a> NYT: Haitian Creole is a national language, but Creole speakers can encounter prejudice, so some were thrilled to see “The Ransom” offered in Creole. 
  <p class="updated_time"> 09:52 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61548029?at_medium=RSS&at_campaign=KARANGA">Ukraine calls for safe passage for grain exports</a> BBC: The country's inability to export its grain has led to food prices rising around the world. 
+ <p class="updated_time"> 09:51 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-forces-sink-russian-river-crossings-inflicting-heavy-damage-11653301800">Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage</a> WSJ: Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage 
  <p class="updated_time"> 09:39 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/americas/haiti-cic-french-bank.html">French Bank Will Study Role in Haiti After New York Times Report</a> NYT: The C.I.C. bank siphoned millions in fees and interest from the island’s treasury in the late 19th and early 20th centuries, an investigation found. 
  <p class="updated_time"> 09:22 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61546145?at_medium=RSS&at_campaign=KARANGA">Iran vows revenge after Revolutionary Guards colonel is assassinated</a> BBC: Sayad Khodai was shot outside his home - the latest high-level figure to be killed in Iran. 
- <p class="updated_time"> 09:16 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraines-forces-sink-russian-river-crossings-inflicting-heavy-damage-11653301800">Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage</a> WSJ: Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage 
  <p class="updated_time"> 09:11 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61549569?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian soldier Vadim Shishimarin jailed for life over war crime</a> BBC: The tank commander admitted killing an unarmed civilian at the first war crimes trial since the invasion. 
  <p class="updated_time"> 09:09 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/russia-diplomat-un-geneva.html">Russian Diplomat Resigns Over Ukraine War</a> NYT: Boris Bondarev, a counselor at the Russian mission in Geneva, quit in a rare example of an official breaking with the Kremlin over its war in Ukraine. 
  <p class="updated_time"> 09:04 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/asia/iran-revolutionary-guard-killed.html">A Senior Member of Iran’s Revolutionary Guard Is Killed in Tehran</a> NYT: No one claimed responsibility for the assassination of Col. Sayad Khodayee, which took place in broad daylight outside his home. 
+ <p class="updated_time"> 08:51 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/australias-new-leader-anthony-albanese-promises-to-unite-country-11653309786">Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite</a> WSJ: Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite 
  <p class="updated_time"> 08:45 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/germany-russia-oil-embargo.html">The Refinery Standing Between Germany and an Oil Embargo</a> NYT: A Russian-owned refinery, linked to a Soviet-era pipeline, is a reminder of Germany’s past and a stumbling block to efforts to cut off Russian oil. 
  <p class="updated_time"> 08:44 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/zelensky-ukraine-davos.html">Addressing Davos, Zelensky Invites Global Businesses to Ukraine</a> NYT: The Ukrainian leader pledged to root out corruption to make his country more attractive to investors, and urged for tougher penalties against Moscow. 
- <p class="updated_time"> 08:41 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-china.html">Biden Says U.S. Military Would Defend Taiwan if China Invaded</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy beyond what the U.S. has done for Ukraine. 
  <p class="updated_time"> 08:35 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/france-woman-prime-minister-elisabeth-borne.html">France’s New Prime Minister Overcame Tragedy in Her Youth</a> NYT: Élisabeth Borne’s father, a World War II resistance member and a Holocaust survivor, killed himself when she was 11, an experience she has rarely discussed in detail. 
- <p class="updated_time"> 08:17 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/europe/russian-soldier-war-crimes-guilty.html">Ukrainian Court Convicts a Russian Soldier of War Crimes</a> NYT: The verdict represents a milestone in Ukraine’s attempts to hold Russia and its soldiers accountable for atrocities committed in the war. 
- <p class="updated_time"> 08:16 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/australias-new-leader-anthony-albanese-promises-to-unite-country-11653309786">Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite</a> WSJ: Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite 
- <p class="updated_time"> 07:55 AM CT, May. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61548645?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe says Iran made her confess as condition of release</a> BBC: Iran made a last-minute release demand at the airport with a UK official present, the former prisoner says. 
- <p class="updated_time"> 07:16 AM CT, May. 23 </p> 
+ <p class="updated_time"> 07:51 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/suspected-graves-at-canadas-indigenous-schools-prompt-search-for-answers-11653298202">Suspected Graves at Canada’s Indigenous Schools Prompt Search for Answers</a> WSJ: Suspected Graves at Canada’s Indigenous Schools Prompt Search for Answers 
  <p class="updated_time"> 07:11 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100664381/vadim-shishimarin-life-sentence-war-crimes-trial">A Russian soldier is sentenced to life in prison in Ukraine's first war crimes trial</a> NPR: Vadim Shishimarin, 21, had pleaded guilty last week to shooting an unarmed Ukrainian man in late February. On Monday, a panel of judges in Kyiv sentenced him to life in prison. 
@@ -101,16 +107,12 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/23/1100655360/united-nations-world-displaced-new-record">A record 100 million people have been forced from their homes</a> NPR: Violence and natural disasters are fueling the surge in the number of people displaced, the U.N. says in a new report. 
  <p class="updated_time"> 03:04 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/biden-kicks-off-economic-group-linking-u-s-asia-11653290101">Biden Kicks Off Economic Group Linking U.S., Asia</a> WSJ: President Biden and leaders from a dozen countries endorsed the Indo-Pacific Economic Framework, a platform aimed at countering China’s influence. 
- <p class="updated_time"> 02:38 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/asia/philippine-ferry-fire.html">Seven Dead and More Than 100 Rescued in Philippine Ferry Fire</a> NYT: The vessel was carrying 124 passengers and 10 crew members when it caught fire soon after setting off at dawn from Polillo Island. 
  <p class="updated_time"> 02:37 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100655012/biden-says-u-s-intervene-with-military-to-defend-taiwan">Biden says the U.S. would be willing to intervene militarily to defend Taiwan</a> NPR: A White House official said Biden's comments did not reflect a policy shift, even though the U.S. traditionally has avoided making such an explicit security guarantee to Taiwan. 
  <p class="updated_time"> 02:25 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/iran-vows-revenge-for-killing-of-senior-revolutionary-guard-member-in-tehran-11653305143">Iran Vows Revenge for Killing of Senior Revolutionary Guard Member in Tehran</a> WSJ: Col. Hassan Sayyad Khodaei—who was shot by two motorcyclists outside his home on Sunday–was called a “defender of the shrine,” a catch-all term used by Iranian media to describe its soldiers fighting in Iraq and Syria. 
  <p class="updated_time"> 01:47 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/ukraine-bucha-war-crimes-russia.html">‘Such Bad Guys Will Come’: How One Russian Brigade Terrorized Bucha</a> NYT: A particularly fearsome unit of Moscow’s invading army arrived in the Kyiv suburb in mid-March. The soldiers’ reputation preceded them. 
- <p class="updated_time"> 12:46 AM CT, May. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61547081?at_medium=RSS&at_campaign=KARANGA">Delhi rain: Thunderstorm brings relief from heatwave</a> BBC: The thunderstorm led to flight delays and disrupted power supply in parts of India's capital. 
  <p class="updated_time"> 12:05 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100652972/kim-at-large-funeral-amid-covid-worry">Kim and other N. Koreans attend large funeral amid COVID worry</a> NPR: The isolated East Asian country has only stated how many people have fevers daily, and has only identified a few of the cases as COVID-19 since admitting to an outbreak of the omicron variant. 
  <p class="updated_time"> 12:00 AM CT, May. 23 </p> 
@@ -197,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/21/world/canada/royal-visit-charles-camilla.html">Royal Visit to Canada Rife With Symbolism, But Little Substance</a> NYT: The often hectic royal tours, like this week’s by Prince Charles and Camilla, his wife, are short on substance if long on symbolism. 
  <p class="updated_time"> 01:27 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/australia/australia-election-compulsory-voting.html">Why Australians Must Vote on Election Day</a> NYT: Compulsory voting is seen as forcing candidates toward the political center. 
- <p class="updated_time"> 01:10 AM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/australia/democracy-sausage.html">Australian Democracy Comes With a Side of Grilled Onions</a> NYT: In a beloved tradition, every Election Day sausages are sold near polling stations as fund-raisers for local schools, churches and community groups. 
 
 
 </details>
@@ -206,6 +206,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:43 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-china.html">Biden Pledges to Defend Taiwan if It Faces a Chinese Attack</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy beyond what the U.S. has done for Ukraine. 
+ <p class="updated_time"> 12:35 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/us/politics/pfizer-vaccine-kids.html">Pfizer Says Strong Response From 3 Covid Shots in Young Children</a> NYT: The preliminary results appeared to show that three doses of the vaccine worked better than two. 
  <p class="updated_time"> 12:13 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/business/economy/china-trade-tariffs-biden.html">Debate Over Tariffs Reveals Biden’s Difficulties on China Trade</a> NYT: Sixteen months into the Biden presidency, U.S. officials are still divided over what to do about a trade legacy left by President Donald J. Trump. 
  <p class="updated_time"> 11:57 AM CT, May. 23 </p> 
@@ -220,10 +224,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/23/attorney-general-sues-mark-zuckerberg-cambridge-analytica-00034368">D.C. attorney general sues Mark Zuckerberg over Cambridge Analytica</a> Politico: Zuckerberg so far has avoided facing personal legal repercussions over his involvement in various Facebook scandals. 
  <p class="updated_time"> 10:55 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
- <p class="updated_time"> 10:53 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/us/politics/pfizer-vaccine-kids.html">Pfizer Says Strong Response From 3 Covid Shots in Young Children</a> NYT: The preliminary results appeared to show that three doses of the vaccine worked better than two. 
- <p class="updated_time"> 08:41 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-china.html">Biden Says U.S. Military Would Defend Taiwan if China Invaded</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy beyond what the U.S. has done for Ukraine. 
  <p class="updated_time"> 06:18 AM CT, May. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/23/herschel-its-mitch-00034335">Herschel, it’s Mitch</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:03 AM CT, May. 23 </p> 
@@ -251,7 +251,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:30 AM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/liberal-los-angeles-reelect-sheriff-alex-villanueva-00033965">Los Angeles Democrats finally elected their first sheriff. Four years later, they have buyer’s remorse.</a> Politico: Alex Villanueva ran on promises of criminal justice reform. After taking office, he changed his tune. 
  <p class="updated_time"> 02:37 AM CT, May. 23 </p> 
- <a href="https://www.npr.org/2022/05/23/1100655012/biden-says-u-s-intervene-with-military-to-defend-taiwan">Biden says the U.S. would be willing to intervene military to defend Taiwan</a> NPR: A White House official said Biden's comments did not reflect a policy shift, even though the U.S. traditionally has avoided making such an explicit security guarantee to Taiwan. 
+ <a href="https://www.npr.org/2022/05/23/1100655012/biden-says-u-s-intervene-with-military-to-defend-taiwan">Biden says the U.S. would be willing to intervene militarily to defend Taiwan</a> NPR: A White House official said Biden's comments did not reflect a policy shift, even though the U.S. traditionally has avoided making such an explicit security guarantee to Taiwan. 
  <p class="updated_time"> 02:16 AM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/asian-nations-biden-indo-pacific-economic-framework-00034247">12 Asian nations join negotiations on Biden's signature economic initiative for the region</a> Politico: The president formally launched the Indo-Pacific Economic Framework on Monday during his visit to Tokyo. 
  <p class="updated_time"> 10:58 PM CT, May. 22 </p> 
