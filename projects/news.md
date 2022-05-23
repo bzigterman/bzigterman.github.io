@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:13 AM CT, May. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61546420?at_medium=RSS&at_campaign=KARANGA">French street artist Miss. Tic dies aged 66</a> BBC: She is seen as one of the founders of stencil art, famous for her graffiti of female figures in Paris. 
+ <p class="updated_time"> 04:06 AM CT, May. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61548531?at_medium=RSS&at_campaign=KARANGA">Biden says China 'flirting with danger' over Taiwan</a> BBC: The US leader vowed to defend Taiwan if China attacked, likening such a move to Russia's war in Ukraine. 
  <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/travel/city-biking-trails.html">7 Great Biking Cities (and Which Trails to Ride)</a> NYT: There’s no better way to zip through a new city than on two wheels. Here are some routes to try, from riverside jaunts to mountain climbs. 
  <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
@@ -19,12 +23,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/world/europe/germany-russia-oil-embargo.html">The Refinery Standing Between Germany and an Oil Embargo</a> NYT: A Russian-owned refinery, linked to a Soviet-era pipeline, is a reminder of Germany’s past and a stumbling block to efforts to cut off Russian oil. 
  <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100655360/united-nations-world-displaced-new-record">A record 100 million people have been forced from their homes</a> NPR: Violence and natural disasters are fueling the surge in the number of people displaced, the U.N. says in a new report. 
+ <p class="updated_time"> 03:36 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429">Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops</a> WSJ: Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops 
  <p class="updated_time"> 03:35 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-defense.html">Biden Says U.S. Military Would Defend Taiwan if China Invaded</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy that he has been unwilling to make when it comes to Ukraine. 
  <p class="updated_time"> 03:34 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61547756?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian assault on key Donbas city intensifies</a> BBC: Moscow has been accused of a "scorched earth" policy in its efforts to capture Severodonetsk. 
- <p class="updated_time"> 03:13 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429">Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops</a> WSJ: Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops 
  <p class="updated_time"> 03:01 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
  <p class="updated_time"> 02:42 AM CT, May. 23 </p> 
@@ -33,26 +37,26 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/world/asia/philippine-ferry-fire.html">Seven Dead and More Than 100 Rescued in Philippine Ferry Fire</a> NYT: The vessel was carrying 124 passengers and 10 crew members when it caught fire soon after setting off at dawn from Polillo Island. 
  <p class="updated_time"> 02:37 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100655012/biden-says-u-s-intervene-with-military-to-defend-taiwan">Biden says the U.S. would intervene with military to defend Taiwan</a> NPR: A White House official said Biden's comments did not reflect a policy shift, even though the U.S. traditionally has avoided making such an explicit security guarantee to Taiwan. 
- <p class="updated_time"> 02:13 AM CT, May. 23 </p> 
+ <p class="updated_time"> 02:36 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/why-did-you-do-this-the-story-behind-ukraines-first-war-crimes-trial-11653226541">The Story Behind Ukraine’s First War-Crimes Trial</a> WSJ: The Story Behind Ukraine’s First War-Crimes Trial 
  <p class="updated_time"> 01:47 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/ukraine-bucha-war-crimes-russia.html">‘Such Bad Guys Will Come’: How One Russian Brigade Terrorized Bucha</a> NYT: A particularly fearsome unit of Moscow’s invading army arrived in the Kyiv suburb in mid-March. The soldiers’ reputation preceded them. 
- <p class="updated_time"> 01:13 AM CT, May. 23 </p> 
+ <p class="updated_time"> 01:36 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183">Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy</a> WSJ: Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy 
  <p class="updated_time"> 12:46 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61547081?at_medium=RSS&at_campaign=KARANGA">Delhi rain: Thunderstorm brings relief from heatwave</a> BBC: The thunderstorm led to flight delays and disrupted power supply in parts of India's capital. 
+ <p class="updated_time"> 12:36 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China Spends Far More Than Others to Help Favored Industries, Report Finds 
  <p class="updated_time"> 12:35 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61541653?at_medium=RSS&at_campaign=KARANGA">Canada storms: Nearly a million homes lose power in high winds</a> BBC: Eight people killed by falling trees as high winds and storms batter Ontario and Quebec. 
- <p class="updated_time"> 12:13 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China Spends Far More Than Others to Help Favored Industries, Report Finds 
  <p class="updated_time"> 12:05 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100652972/kim-at-large-funeral-amid-covid-worry">Kim and other N. Koreans attend large funeral amid COVID worry</a> NPR: The isolated East Asian country has only stated how many people have fevers daily, and has only identified a few of the cases as COVID-19 since admitting to an outbreak of the omicron variant. 
  <p class="updated_time"> 12:00 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61542365?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The defiant Russians speaking out about the war</a> BBC: Despite the threat of a 15-year jail term, some Russians are refusing to be silenced by the Kremlin. 
+ <p class="updated_time"> 11:36 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-avoids-government-collapse-11653234773">Israeli Prime Minister Naftali Bennett Avoids Government Collapse</a> WSJ: Israeli Prime Minister Naftali Bennett Avoids Government Collapse 
  <p class="updated_time"> 11:25 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61546470?at_medium=RSS&at_campaign=KARANGA">Australia's new PM sworn in ahead of Japan summit</a> BBC: Two days after his election win, Anthony Albanese will fly to meet the leaders of US, India and Japan. 
- <p class="updated_time"> 11:13 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-avoids-government-collapse-11653234773">Israeli Prime Minister Naftali Bennett Avoids Government Collapse</a> WSJ: Israeli Prime Minister Naftali Bennett Avoids Government Collapse 
  <p class="updated_time"> 10:49 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/australia/election-albanese-climate.html">Australia’s ‘Climate Election’ Finally Arrived. Will It Be Enough?</a> NYT: Voters rejected the deny-and-delay approach that has made Australia a global laggard on emission cuts. But how far the new government will go remains to be seen. 
  <p class="updated_time"> 08:29 PM CT, May. 22 </p> 
@@ -61,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61518058?at_medium=RSS&at_campaign=KARANGA">Why are kangaroos being spotted in India?</a> BBC: The sighting has raised alarms over networks that smuggle exotic animals to India. 
  <p class="updated_time"> 07:24 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/canada/ottawa-storms.html">At Least Six Dead After Severe Thunderstorms Lash Parts of Canada</a> NYT: A line of thunderstorms brought violent winds that left a trail of damage across parts of Ontario and Quebec on Saturday, and hundreds of thousands without power. 
- <p class="updated_time"> 06:38 PM CT, May. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61546420?at_medium=RSS&at_campaign=KARANGA">French street artist Miss. Tic dies aged 66</a> BBC: She is seen as one of the founders of stencil art, famous for her graffiti of female figures in Paris. 
  <p class="updated_time"> 06:23 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/russia-eastern-ukraine-battle.html">Russia Renews Assault on Key Eastern City as Advances by Both Sides Slow</a> NYT: The battle for Sievierodonetsk in eastern Ukraine represents another crucial point in the war, as both sides engage in a grueling war of attrition. 
  <p class="updated_time"> 06:11 PM CT, May. 22 </p> 
@@ -155,8 +157,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/21/world/europe/lviv-philharmonic-orchestra.html">‘A form of hope’: As air-raid sirens sound, a Lviv orchestra opens a summer festival with Mozart’s Requiem.</a> NYT: Even as the Lviv Philharmonic theater became a wartime hub for humanitarian supplies, it has remained a home for musicians and choirs. 
  <p class="updated_time"> 01:16 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61538301?at_medium=RSS&at_campaign=KARANGA">Anthony Albanese vows government of unity, not division</a> BBC: Australia's new PM will be the country's first Labor leader in nearly a decade. 
- <p class="updated_time"> 12:16 PM CT, May. 21 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61538300?at_medium=RSS&at_campaign=KARANGA">'Nobody takes my husband away from me, not even the war'</a> BBC: Ukraine's First Lady Olena Zelenska in rare interview with husband 
  <p class="updated_time"> 12:01 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61533719?at_medium=RSS&at_campaign=KARANGA">Spain heatwave brings record May temperatures</a> BBC: Temperatures in southern Spain reach 40C, up to 15 degrees higher than average for this time of year. 
  <p class="updated_time"> 11:58 AM CT, May. 21 </p> 
@@ -218,6 +218,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:09 AM CT, May. 23 </p> 
+ <a href="https://www.npr.org/2022/05/23/1099690649/john-legend-progressive-prosecutors-district-attorneys-activism">John Legend wants to transform the criminal justice system, one DA at a time</a> NPR: Musician John Legend is using his national platform to elevate local races for district attorney — endorsing progressive prosecutors who prioritize preventative solutions over incarceration. 
  <p class="updated_time"> 04:01 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/sections/health-shots/2022/05/23/1099478640/california-safe-injection">California debates opening supervised sites for people to use drugs</a> NPR: Advocates of the proposal say it would prevent overdoses, slow the spread of HIV and inspire drug users to seek help, while proponents say safe injection sites would create an "open drug scene." 
  <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
@@ -230,8 +232,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/23/1100446446/redisticting-georgia-swing-districts-midterm-elections">How 2 competitive districts in Georgia became a very red one and a very blue one</a> NPR: Redrawn congressional maps pit two Democratic incumbents against each other in the Atlanta suburbs. 
  <p class="updated_time"> 03:35 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-defense.html">Biden Says U.S. Military Would Defend Taiwan if China Invaded</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy that he has been unwilling to make when it comes to Ukraine. 
+ <p class="updated_time"> 03:31 AM CT, May. 23 </p> 
+ <a href="https://www.politico.com/news/2022/05/23/henry-cuellar-abortion-house-democrats-primary-00034288">House Dems shun primary fight against anti-abortion incumbent</a> Politico: The party is rallying behind abortion rights as a key 2022 issue, but few House Democrats are backing anti-abortion Rep. Henry Cuellar’s challenger. 
+ <p class="updated_time"> 03:30 AM CT, May. 23 </p> 
+ <a href="https://www.politico.com/news/2022/05/23/dem-allied-groups-drop-an-a-bomb-on-mastriano-to-start-pa-gov-race-00034245">Dem-allied groups drop an A-bomb on Mastriano to start Pa. gov race</a> Politico: A $6 million campaign will target the GOP candidate’s position on abortion. 
+ <p class="updated_time"> 03:30 AM CT, May. 23 </p> 
+ <a href="https://www.politico.com/news/2022/05/23/state-democrats-abortion-rights-activists-federal-inaction-00034191">State Democrats, abortion-rights activists 'incredibly frustrated' with federal inaction</a> Politico: Democratic inaction at the federal level could complicate the party’s efforts to run this fall as champions of reproductive rights. 
+ <p class="updated_time"> 03:30 AM CT, May. 23 </p> 
+ <a href="https://www.politico.com/news/2022/05/23/liberal-los-angeles-reelect-sheriff-alex-villanueva-00033965">Why liberal Los Angeles might reelect its conservative sheriff</a> Politico: Alex Villanueva ran on promises of criminal justice reform. After taking office, he changed his tune. 
  <p class="updated_time"> 03:01 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
+ <p class="updated_time"> 02:16 AM CT, May. 23 </p> 
+ <a href="https://www.politico.com/news/2022/05/23/asian-nations-biden-indo-pacific-economic-framework-00034247">12 Asian nations join negotiations on Biden's signature economic initiative for the region</a> Politico: The president formally launched the Indo-Pacific Economic Framework on Monday during his visit to Tokyo. 
  <p class="updated_time"> 02:00 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/us/politics/pence-trump-republicans-2024.html">Pence, Tiptoeing Away From Trump, Lays Groundwork for ’24 Run</a> NYT: The former vice president is part of a group of Republicans who have visited early nominating states as they weigh a challenge to their party’s most dominant force. 
  <p class="updated_time"> 10:58 PM CT, May. 22 </p> 
@@ -240,8 +252,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 08:09 PM CT, May. 22 </p> 
  <a href="https://www.politico.com/news/2022/05/22/pentagon-foreign-reporter-phone-official-travel-00034299">Pentagon seizes foreign reporter’s phone during official travel</a> Politico: The Air Force is "reviewing" a new mandate that prohibits foreigners from using their electronics during official flights, after the incident. 
- <p class="updated_time"> 07:00 PM CT, May. 22 </p> 
- <a href="https://www.politico.com/news/2022/05/22/white-house-infant-formula-manufacturers-00034310">White House touts use of wartime power to help infant formula manufacturers</a> Politico: Abbott Nutrition and Reckitt will get priority for supplies of raw materials used in the production of formula. 
  <p class="updated_time"> 04:08 PM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100614934/a-house-democrats-anti-abortion-stance-could-cost-him-a-seat">A House Democrat's anti-abortion stance could cost him a seat</a> NPR: The only self-identified "pro-life" Democrat in the House is facing a primary runoff challenge in south Texas. The race is one test of whether the party has room for people against abortion rights. 
  <p class="updated_time"> 03:02 PM CT, May. 22 </p> 
@@ -274,12 +284,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/22/1100587945/politics-chat-more-aid-to-ukraine-penn-republican-primary-likely-to-be-recounted">Politics chat: More aid to Ukraine; Penn. Republican primary likely to be recounted</a> NPR: What more aid for Ukraine says about bipartisanship in Washington; Trump's primary endorsements; and how Democrats' hopes rest on the working class appeal of their Penn. Senate candidate. 
  <p class="updated_time"> 06:51 AM CT, May. 22 </p> 
  <a href="https://www.politico.com/news/2022/05/22/taiwan-biden-indo-pacific-pact-00034255">Taiwan not included in launch of new Biden Indo-Pacific pact</a> Politico: Inclusion of the self-ruled island of Taiwan, which China claims as its own, would have irked Beijing. 
- <p class="updated_time"> 06:01 AM CT, May. 22 </p> 
- <a href="https://www.politico.com/news/2022/05/22/florida-has-a-firewall-protecting-abortion-rights-desantis-supreme-court-could-change-that-00033884">Florida’s firewall against abortion restrictions is in peril</a> Politico: The current Florida Supreme Court is dominated by conservatives, including three appointed by DeSantis. 
- <p class="updated_time"> 06:00 AM CT, May. 22 </p> 
- <a href="https://www.politico.com/news/2022/05/22/republicans-ignored-trumps-election-lies-00034242">'No one's paying any attention': The week that Republicans ignored Trump's election lies</a> Politico: Losing candidates in Republican primaries this year aren't resorting to the former president's routine. 
- <p class="updated_time"> 06:00 AM CT, May. 22 </p> 
- <a href="https://www.politico.com/news/2022/05/22/trump-mo-brooks-alabama-senate-00034249">Trump ditched Mo Brooks for going ‘woke.’ Now he’s rising again in the polls.</a> Politico: Two months after Donald Trump withdrew his endorsement, the Alabama congressman could very well advance to a Senate runoff. 
  <p class="updated_time"> 06:00 AM CT, May. 22 </p> 
  <a href="https://www.politico.com/news/2022/05/22/title-42-immigration-poll-00034117">POLITICO-Harvard poll: Majority of Americans support continued migrant expulsions under Title 42</a> Politico: The findings come as a Louisiana judge issued a preliminary injunction on Friday blocking the administration from ending the order on Monday. 
  <p class="updated_time"> 05:41 AM CT, May. 22 </p> 
@@ -323,11 +327,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/us/politics/george-bush-legacy-texas.html">Bush Dynasty, Its Influence Fading, Pins Hopes on One Last Stand in Texas</a> NYT: George P. Bush is running to unseat the incumbent attorney general. His family, once powerful in Texas, has become an albatross as well as an asset. 
  <p class="updated_time"> 04:00 AM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/2022/05/21/us/politics/lucy-mcbath-carolyn-bourdeaux-georgia.html">Two Democratic Congresswomen, One Redrawn Georgia District</a> NYT: A primary for the new Seventh District, outside Atlanta, is forcing two popular incumbents, Lucy McBath and Carolyn Bourdeaux, to do battle. 
+ <a href="https://www.nytimes.com/2022/05/21/us/politics/lucy-mcbath-carolyn-bourdeaux-georgia.html">Lucy McBath and Carolyn Bourdeaux Battle Over A Georgia District</a> NYT: A primary for the new Seventh District, outside Atlanta, is forcing two popular incumbents, Lucy McBath and Carolyn Bourdeaux, to do battle. 
  <p class="updated_time"> 09:07 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/giuliani-jan-6-committee.html">Giuliani Meets With Jan. 6 Committee for Over 7 Hours</a> NYT: The onetime Trump lawyer was central to the former president’s efforts to overturn the 2020 election. 
- <p class="updated_time"> 08:40 PM CT, May. 20 </p> 
- <a href="https://www.npr.org/2022/05/20/1100519588/the-outcome-of-the-pennsylvania-gop-senate-primary-might-not-be-known-before-jun">The outcome of the Pennsylvania GOP Senate primary might not be known before June</a> NPR: A likely recount would mean that the race between Dr. Mehmet Oz and David McCormick might not be decided until June 8, the deadline for counties to report their results to the state. 
  <p class="updated_time"> 08:33 PM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/trump-georgia-alabama-primaries-00034232">Inside the Forecast: Trump's revenge tour is put to the test in Georgia, Alabama</a> Politico: POLITICO’s Steve Shepard demystifies this week’s election data in a video series. 
  <p class="updated_time"> 07:36 PM CT, May. 20 </p> 
