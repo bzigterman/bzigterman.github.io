@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:02 AM CT, May. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61547756?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian assault on key Donbas city intensifies</a> BBC: Moscow has been accused of a "scorched earth" policy in its efforts to capture Severodonetsk. 
+ <p class="updated_time"> 03:01 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
  <p class="updated_time"> 02:47 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-defense.html">Biden Says U.S. Military Would Defend Taiwan if China Invaded</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy that he has been unwilling to make when it comes to Ukraine. 
  <p class="updated_time"> 02:42 AM CT, May. 23 </p> 
@@ -17,31 +21,29 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/world/asia/philippine-ferry-fire.html">Seven Dead and More Than 100 Rescued in Philippine Ferry Fire</a> NYT: The vessel was carrying 124 passengers and 10 crew members when it caught fire soon after setting off at dawn from Polillo Island. 
  <p class="updated_time"> 02:37 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100655012/biden-says-u-s-intervene-with-military-to-defend-taiwan">Biden says the U.S. would intervene with military to defend Taiwan</a> NPR: A White House official said Biden's comments did not reflect a policy shift, even though the U.S. traditionally has avoided making such an explicit security guarantee to Taiwan. 
- <p class="updated_time"> 02:16 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
- <p class="updated_time"> 02:02 AM CT, May. 23 </p> 
+ <p class="updated_time"> 02:32 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429">Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops</a> WSJ: Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops 
  <p class="updated_time"> 01:47 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/ukraine-bucha-war-crimes-russia.html">‘Such Bad Guys Will Come’: How One Russian Brigade Terrorized Bucha</a> NYT: A particularly fearsome unit of Moscow’s invading army arrived in the Kyiv suburb in mid-March. The soldiers’ reputation preceded them. 
- <p class="updated_time"> 01:02 AM CT, May. 23 </p> 
+ <p class="updated_time"> 01:32 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/why-did-you-do-this-the-story-behind-ukraines-first-war-crimes-trial-11653226541">The Story Behind Ukraine’s First War-Crimes Trial</a> WSJ: The Story Behind Ukraine’s First War-Crimes Trial 
  <p class="updated_time"> 12:46 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61547081?at_medium=RSS&at_campaign=KARANGA">Delhi rain: Thunderstorm brings relief from heatwave</a> BBC: The thunderstorm led to flight delays and disrupted power supply in parts of India's capital. 
  <p class="updated_time"> 12:35 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61541653?at_medium=RSS&at_campaign=KARANGA">Canada storms: Nearly a million homes lose power in high winds</a> BBC: Eight people killed by falling trees as high winds and storms batter Ontario and Quebec. 
+ <p class="updated_time"> 12:32 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183">Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy</a> WSJ: Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy 
  <p class="updated_time"> 12:05 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100652972/kim-at-large-funeral-amid-covid-worry">Kim and other N. Koreans attend large funeral amid COVID worry</a> NPR: The isolated East Asian country has only stated how many people have fevers daily, and has only identified a few of the cases as COVID-19 since admitting to an outbreak of the omicron variant. 
- <p class="updated_time"> 12:02 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183">Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy</a> WSJ: Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy 
  <p class="updated_time"> 12:00 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61542365?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The defiant Russians speaking out about the war</a> BBC: Despite the threat of a 15-year jail term, some Russians are refusing to be silenced by the Kremlin. 
+ <p class="updated_time"> 11:32 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China Spends Far More Than Others to Help Favored Industries, Report Finds 
  <p class="updated_time"> 11:25 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61546470?at_medium=RSS&at_campaign=KARANGA">Australia's new PM sworn in ahead of Japan summit</a> BBC: Two days after his election win, Anthony Albanese will fly to meet the leaders of US, India and Japan. 
- <p class="updated_time"> 11:02 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China Spends Far More Than Others to Help Favored Industries, Report Finds 
  <p class="updated_time"> 10:49 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/australia/election-albanese-climate.html">Australia’s ‘Climate Election’ Finally Arrived. Will It Be Enough?</a> NYT: Voters rejected the deny-and-delay approach that has made Australia a global laggard on emission cuts. But how far the new government will go remains to be seen. 
- <p class="updated_time"> 10:02 PM CT, May. 22 </p> 
+ <p class="updated_time"> 10:32 PM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-avoids-government-collapse-11653234773">Israeli Prime Minister Naftali Bennett Avoids Government Collapse</a> WSJ: Israeli Prime Minister Naftali Bennett Avoids Government Collapse 
  <p class="updated_time"> 08:29 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/health-61546199?at_medium=RSS&at_campaign=KARANGA">World faces big challenges over Covid, monkeypox and wars - WHO</a> BBC: The warning by the UN health agency's chief comes amid an unusual monkeypox outbreak outside Africa. 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/science-environment-61540945?at_medium=RSS&at_campaign=KARANGA">Professor Brian Cox: Maybe humans are the Martians</a> BBC: The renowned physicist reflects on whether civilisation, like us, exists in other galaxies. 
  <p class="updated_time"> 06:00 AM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/buffalo-shooting-tests-internet-antiterrorism-accord-11653231600">Buffalo Shooting Tests Internet Antiterrorism Accord</a> WSJ: The live-streaming of a shooting rampage at a supermarket in Buffalo, N.Y., demonstrated the strengths and limitations of a global agreement to counter the spread of terrorist content online. 
- <p class="updated_time"> 04:30 AM CT, May. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61540619?at_medium=RSS&at_campaign=KARANGA">Nigeria: Four die in Lagos Island building collapse</a> BBC: Four people die after a three-storey building collapsed in an upmarket area of Lagos. 
  <p class="updated_time"> 04:12 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61540944?at_medium=RSS&at_campaign=KARANGA">Floods in Bangladesh and India affect millions</a> BBC: At least 50 people are dead after some areas are battered by widespread flooding and landslides. 
  <p class="updated_time"> 04:00 AM CT, May. 22 </p> 
@@ -356,12 +356,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/20/eastman-trump-role-legal-overturn-election-00034023">Eastman provides new details of Trump’s direct role in legal effort to overturn election</a> Politico: The court filing describes the direct role of Trump himself in developing strategy, detailing “two hand-written notes from former President Trump about information that he thought might be useful for the anticipated litigation.” 
  <p class="updated_time"> 05:14 AM CT, May. 20 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/20/trumps-real-win-loss-record-00034021"> Trump’s real win-loss record</a> Politico Playbook: And Dems juggle an Affordable Care Act time bomb. 
- <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
- <a href="https://www.politico.com/news/2022/05/20/georgia-secretary-of-state-election-trump-00034001">Trump’s bid to control election offices hits first battleground</a> Politico: Georgia Secretary of State Brad Raffensperger, who spurned Trump’s request to subvert the 2020 election results, is on the ballot Tuesday. 
- <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
- <a href="https://www.politico.com/news/2022/05/20/democrats-north-carolina-senate-00033887">Democrats confront North Carolina blues</a> Politico: Democrats are debating how far they should go to try to win the Tar Heel State, where they haven't won a Senate race since 2008. 
- <p class="updated_time"> 03:30 AM CT, May. 20 </p> 
- <a href="https://www.politico.com/news/2022/05/20/democrats-abortion-options-roe-decision-00033714">Dems debate limited options as Roe decision looms</a> Politico: The party could talk contraception, abortion pills, privacy concerns, codifying Roe and more. They have plenty of options, but no clear path forward. 
 
 
 </details>
