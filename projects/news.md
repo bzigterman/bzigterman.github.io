@@ -9,22 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:47 PM CT, May. 22 </p> 
+ <p class="updated_time"> 10:49 PM CT, May. 22 </p> 
+ <a href="https://www.nytimes.com/2022/05/22/world/australia/election-albanese-climate.html">Australia’s ‘Climate Election’ Finally Arrived. Will It Be Enough?</a> NYT: Voters rejected the deny-and-delay approach that has made Australia a global laggard on emission cuts. But how far the new government will go remains to be seen. 
+ <p class="updated_time"> 10:41 PM CT, May. 22 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61546470?at_medium=RSS&at_campaign=KARANGA">Australia's new PM sworn in ahead of Japan summit</a> BBC: Two days after his election win, Anthony Albanese will fly to meet the leaders of US, India and Japan. 
+ <p class="updated_time"> 10:31 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">Ukraine Live Updates: Russia Renews Assault on Key Eastern City as Advances by Both Sides Slow</a> NYT: Fighting raged around Sievierodonetsk, a focus of Russia’s struggling offensive in the Donbas region in the east. In a visit to Kyiv on Sunday, Poland’s president said that Ukraine alone should determine its future and the terms of any cease-fire. 
- <p class="updated_time"> 09:06 PM CT, May. 22 </p> 
+ <p class="updated_time"> 10:01 PM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429">Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops</a> WSJ: Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops 
+ <p class="updated_time"> 09:01 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/why-did-you-do-this-the-story-behind-ukraines-first-war-crimes-trial-11653226541">The Story Behind Ukraine’s First War-Crimes Trial</a> WSJ: The Story Behind Ukraine’s First War-Crimes Trial 
  <p class="updated_time"> 08:29 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/health-61546199?at_medium=RSS&at_campaign=KARANGA">World faces big challenges over Covid, monkeypox and wars - WHO</a> BBC: The warning by the UN health agency's chief comes amid an unusual monkeypox outbreak outside Africa. 
- <p class="updated_time"> 08:06 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/why-did-you-do-this-the-story-behind-ukraines-first-war-crimes-trial-11653226541">The Story Behind Ukraine’s First War-Crimes Trial</a> WSJ: The Story Behind Ukraine’s First War-Crimes Trial 
- <p class="updated_time"> 08:04 PM CT, May. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61546470?at_medium=RSS&at_campaign=KARANGA">Australia's new PM sworn in ahead of Japan summit</a> BBC: Two days after his election win, Anthony Albanese will fly to meet leaders of the US, India and Japan. 
+ <p class="updated_time"> 08:01 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183">Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy</a> WSJ: Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy 
  <p class="updated_time"> 07:40 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61518058?at_medium=RSS&at_campaign=KARANGA">The curious case of kangaroo spotting in India</a> BBC: The sighting has raised alarms over networks that smuggle exotic animals to India. 
  <p class="updated_time"> 07:24 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/canada/ottawa-storms.html">At Least Six Dead After Severe Thunderstorms Lash Parts of Canada</a> NYT: A line of thunderstorms brought violent winds that left a trail of damage across parts of Ontario and Quebec on Saturday, and hundreds of thousands without power. 
- <p class="updated_time"> 07:06 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183">Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy</a> WSJ: Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy 
+ <p class="updated_time"> 07:01 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China Spends Far More Than Others to Help Favored Industries, Report Finds 
  <p class="updated_time"> 06:38 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61546420?at_medium=RSS&at_campaign=KARANGA">French street artist Miss. Tic dies aged 66</a> BBC: She is seen as one of the founders of stencil art, famous for her graffiti of female figures in Paris. 
  <p class="updated_time"> 06:23 PM CT, May. 22 </p> 
@@ -33,14 +37,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61464431?at_medium=RSS&at_campaign=KARANGA">Mozambique insurgency: Why 24 countries have sent troops</a> BBC: Mozambique is at the heart of a global battle for influence, even though its conflict has local roots. 
  <p class="updated_time"> 06:07 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-61509744?at_medium=RSS&at_campaign=KARANGA">Palm oil firms depriving tribes of millions of dollars</a> BBC: Companies supplying major manufacturers fail to meet promises to share land, joint BBC investigation finds. 
- <p class="updated_time"> 06:06 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China Spends Far More Than Others to Help Favored Industries, Report Finds 
+ <p class="updated_time"> 06:01 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-avoids-government-collapse-11653234773">Israeli Prime Minister Naftali Bennett Avoids Government Collapse</a> WSJ: Israeli Prime Minister Naftali Bennett Avoids Government Collapse 
  <p class="updated_time"> 05:18 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61544313?at_medium=RSS&at_campaign=KARANGA">Baby formula shortage: 35 tonnes of infant formula flown into the United States</a> BBC: The US is facing a critical shortage due to supply chain issues and the closure of a major factory. 
  <p class="updated_time"> 05:13 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61546145?at_medium=RSS&at_campaign=KARANGA">Colonel in Iran Revolutionary Guard assassinated</a> BBC: Sayad Khodai, a senior figure in the elite Quds force, was reportedly shot dead in his car by two gunmen. 
- <p class="updated_time"> 05:06 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-avoids-government-collapse-11653234773">Israeli Prime Minister Naftali Bennett Avoids Government Collapse</a> WSJ: Israeli Prime Minister Naftali Bennett Avoids Government Collapse 
  <p class="updated_time"> 04:23 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/middleeast/iran-filmmakers.html">In Iran, a New Wave of Repression Hits Acclaimed Filmmakers</a> NYT: The authorities in the Islamic Republic like to take credit for the country’s achievements in film, but are warning those who make them not to cross red lines at home. 
  <p class="updated_time"> 04:21 PM CT, May. 22 </p> 
@@ -50,11 +52,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:53 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/ukraine-bucha-war-crimes-russia.html">‘Such Bad Guys Will Come’: How One Russian Brigade Terrorized Bucha</a> NYT: A particularly fearsome unit of Moscow’s invading army arrived in the Kyiv suburb in mid-March. The soldiers’ reputation preceded them. 
  <p class="updated_time"> 03:29 PM CT, May. 22 </p> 
- <a href="https://www.nytimes.com/2022/05/22/world/europe/iran-revolutionary-guard-killed.html">A Senior Member of Iran’s Revolutionary Guard Is Killed in Tehran</a> NYT: No one claimed responsibility for the assassination of Col. Sayad Khodayee, which took place in broad daylight outside his home. 
+ <a href="https://www.nytimes.com/2022/05/22/world/asia/iran-revolutionary-guard-killed.html">A Senior Member of Iran’s Revolutionary Guard Is Killed in Tehran</a> NYT: No one claimed responsibility for the assassination of Col. Sayad Khodayee, which took place in broad daylight outside his home. 
  <p class="updated_time"> 02:33 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/americas/haiti-bibliography.html">The Ransom: A Look Under the Hood</a> NYT: Thousands of pages of original documents, and hundreds of books and articles. Here are the historians and researchers on which the Haiti project drew. 
- <p class="updated_time"> 02:29 PM CT, May. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61542090?at_medium=RSS&at_campaign=KARANGA">Ukraine peace deal: Kyiv rules out ceding land to Russia</a> BBC: Zelensky adviser says Kyiv will not agree a peace deal with Russia that involves giving up territory. 
  <p class="updated_time"> 02:23 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/us/politics/biden-japan-asia-economic-policy.html">Biden Arrives in Tokyo Seeking to Shore Up Support for Economic Plan</a> NYT: The president will meet with his counterparts from Australia, India and Japan. 
  <p class="updated_time"> 02:22 PM CT, May. 22 </p> 
@@ -71,8 +71,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61541653?at_medium=RSS&at_campaign=KARANGA">Canada storms: Nearly a million homes lose power in high winds</a> BBC: Five people die due to falling trees and high winds across southern Ontario and Quebec. 
  <p class="updated_time"> 09:46 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61543052?at_medium=RSS&at_campaign=KARANGA">Pampered pooches ride Japan's Shinkansen in style</a> BBC: Paws aboard! A pet-friendly service premiers on the iconic train as calls grow for easier pet travel. 
- <p class="updated_time"> 09:41 AM CT, May. 22 </p> 
- <a href="https://www.nytimes.com/2022/05/22/world/australia/election-albanese-climate.html">Australia’s ‘Climate Election’ Finally Arrived. Will It Be Enough?</a> NYT: Voters rejected the deny-and-delay approach that has made Australia a global laggard on emission cuts. But how far the new government will go remains to be seen. 
  <p class="updated_time"> 09:31 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/asia/philippines-rural-farming.html">Rural Philippines, Long Neglected, Newly Appealing in Covid Times</a> NYT: The economic disparity of the nation’s rural and urban areas is a problem of long standing. Will the lessons of the pandemic finally lead to change? 
  <p class="updated_time"> 09:22 AM CT, May. 22 </p> 
@@ -109,8 +107,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/21/world/biden-ukraine-zelensky-ceasefire-russia.html">As Biden Signs $40 Billion Aid Package for Ukraine, Calls Grow for a Cease-Fire</a> NYT: But a diplomatic resolution to the war still looks remote, amid searing questions about what would constitute a “victory” for Kyiv. 
  <p class="updated_time"> 10:22 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/world/asia/biden-south-korea-yoon.html">Rejecting ‘Love Letters’ to North Korea, Biden Offers Carrots and Sticks Instead</a> NYT: President Biden said he would consider expanding joint exercises with South Korea’s military that were scaled back during the Trump administration. 
- <p class="updated_time"> 07:27 PM CT, May. 21 </p> 
- <a href="https://www.bbc.co.uk/news/business-61523624?at_medium=RSS&at_campaign=KARANGA">Governments should subsidise food and energy, says IMF boss</a> BBC: Managing director Kristalina Georgieva says state subsidies can help with the cost of living. 
  <p class="updated_time"> 07:03 PM CT, May. 21 </p> 
  <a href="https://www.bbc.co.uk/news/world-south-asia-61507258?at_medium=RSS&at_campaign=KARANGA">'My first court case: Prosecuting my father's killers'</a> BBC: Shagufta Ahmed's first job was to get justice for her father, a lecturer murdered after he blew the whistle on a colleague. 
  <p class="updated_time"> 06:15 PM CT, May. 21 </p> 
@@ -222,7 +218,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:44 PM CT, May. 22 </p> 
+ <p class="updated_time"> 10:58 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/us/politics/democrats-georgia-warnock-abrams-biden.html">Democrats Fight Headwinds in Georgia and Beyond: ‘The Problem Is Reality’</a> NYT: Raphael Warnock and Stacey Abrams, viewed as strong candidates by their party, will be running against President Biden’s low ratings as well as their G.O.P. rivals. 
  <p class="updated_time"> 08:19 PM CT, May. 22 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
