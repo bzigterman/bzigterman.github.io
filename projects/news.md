@@ -9,7 +9,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:13 PM CT, May. 23 </p> 
+ <p class="updated_time"> 02:25 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/05/23/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Urges Global Business Elite to Punish Russia Further</a> NYT: President Volodymyr Zelensky addressed the World Economic Forum in Davos, Switzerland, where he received a standing ovation and Russia, usually a major presence there, was a pariah. It was one of several fresh signs of Russia’s growing isolation. 
  <p class="updated_time"> 02:13 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/boris-bondarev-russia-ukraine-war.html">Boris Bondarev, a Russian Diplomat, Speaks Out on the War</a> NYT: Boris Bondarev, a Russian official who resigned over the war in Ukraine, said his colleagues were focused more on pleasing their superiors than on delivering accurate information to Moscow. 
@@ -19,12 +19,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-61548645?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe says Iran made her confess as condition of release</a> BBC: Iran made a last-minute release demand at the airport with a UK official present, the former prisoner says. 
  <p class="updated_time"> 02:05 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/business/economy/china-trade-tariffs-biden.html">Debate Over Tariffs Reveals Biden’s Difficulties on China Trade</a> NYT: Sixteen months into the Biden presidency, U.S. officials are still divided over what to do about a trade legacy left by President Donald J. Trump. 
+ <p class="updated_time"> 01:34 PM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/biden-says-u-s-would-intervene-militarily-if-china-invaded-taiwan-11653286228">Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan</a> WSJ: Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan 
  <p class="updated_time"> 01:26 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/us-ukraine-howitzers.html">American Artillery Enters the Fight in Ukraine</a> NYT: The most lethal weapons the West has provided so far to Ukraine are now deployed in combat. And they have buoyed the Ukraine army’s hopes for victory. 
  <p class="updated_time"> 01:26 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/technology/data-privacy-laws.html">The Era of Borderless Data Is Ending</a> NYT: Nations are accelerating efforts to control data produced within their perimeters, disrupting the flow of what has become a kind of digital currency. 
- <p class="updated_time"> 01:21 PM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/biden-says-u-s-would-intervene-militarily-if-china-invaded-taiwan-11653286228">Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan</a> WSJ: Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan 
  <p class="updated_time"> 01:21 PM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/health-61553822?at_medium=RSS&at_campaign=KARANGA">Monkeypox virus outbreaks are containable - WHO</a> BBC: More than 100 cases of the virus have now been confirmed in 16 countries outside Africa. 
  <p class="updated_time"> 01:16 PM CT, May. 23 </p> 
@@ -41,12 +41,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-china.html">Biden Pledges to Defend Taiwan if It Faces a Chinese Attack</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy beyond what the U.S. has done for Ukraine. 
  <p class="updated_time"> 12:35 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/russian-soldier-war-crimes-guilty.html">Ukrainian Court Convicts a Russian Soldier of War Crimes</a> NYT: The verdict represents a milestone in Ukraine’s attempts to hold Russia and its soldiers accountable for atrocities committed in the war. 
+ <p class="updated_time"> 12:34 PM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/russian-soldier-awaits-verdict-in-ukraine-war-crimes-trial-11653295495">Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial 
  <p class="updated_time"> 12:29 PM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61548490?at_medium=RSS&at_campaign=KARANGA">Dozens feared trapped after 10-storey building collapses in Iran</a> BBC: Pictures show concrete floors and steel beams that crushed cars after falling on to the street below. 
  <p class="updated_time"> 12:26 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/philippine-ferry-fire.html">Seven Dead and More Than 100 Rescued in Philippine Ferry Fire</a> NYT: The vessel was carrying 124 passengers and 10 crew members when it caught fire soon after setting off at dawn from Polillo Island. 
- <p class="updated_time"> 12:21 PM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/russian-soldier-awaits-verdict-in-ukraine-war-crimes-trial-11653295495">Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial 
  <p class="updated_time"> 12:18 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/05/23/world/haiti-france-ransom">Haiti ‘Ransom’ Project: Reactions and Updates</a> NYT: The New York Times’s publication of “The Ransom,” a report laying out history’s role in Haiti’s poverty, stirred immediate reaction. 
  <p class="updated_time"> 12:18 PM CT, May. 23 </p> 
@@ -55,18 +55,18 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61549155?at_medium=RSS&at_campaign=KARANGA">Millionaires at Davos say 'tax us more'</a> BBC: At the annual meeting of the business and political elites, wealthy attendees call for fairer tax. 
  <p class="updated_time"> 11:47 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/ukraine-russia-davos.html">Where Russia Once Held Court at Davos, Ukraine Makes Its Pitch</a> NYT: The Russia House, where oligarchs sipped vodka and talked with politicians and corporate chiefs during the World Economic Forum, has been rebranded “Russian War Crimes House.” 
+ <p class="updated_time"> 11:34 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-forces-sink-russian-river-crossings-inflicting-heavy-damage-11653301800">Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage</a> WSJ: Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage 
  <p class="updated_time"> 11:24 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100731559/russian-diplomat-un-quits-ashamed">A Russian diplomat to the U.N. quits, saying he is ashamed of his country</a> NPR: "Never have I been so ashamed of my country as on Feb. 24 of this year," veteran Russian diplomat Boris Bondarev wrote, alluding to the date of Russia's invasion. 
- <p class="updated_time"> 11:21 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraines-forces-sink-russian-river-crossings-inflicting-heavy-damage-11653301800">Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage</a> WSJ: Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage 
  <p class="updated_time"> 10:57 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/french-banks-haiti-cic.html">How a French Bank Captured Haiti</a> NYT: It helped finance the Eiffel Tower as it drained millions from Haiti. The bank, C.I.C., won’t talk about it, but The Times tracked how much its investors made — and what Haiti lost. 
  <p class="updated_time"> 10:55 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
+ <p class="updated_time"> 10:34 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/australias-new-leader-anthony-albanese-promises-to-unite-country-11653309786">Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite</a> WSJ: Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite 
  <p class="updated_time"> 10:27 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100085358/medyka-ukrain-refugees-border-humanitarian-aid">The flow of Ukrainian refugees has changed direction in Poland. And so has aid relief</a> NPR: Medyka is the busiest border crossing between Poland and Ukraine. Aid workers flocked there to set up tents offering assistance when the war started. But these days, the flow of refugees has shifted. 
- <p class="updated_time"> 10:21 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/australias-new-leader-anthony-albanese-promises-to-unite-country-11653309786">Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite</a> WSJ: Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite 
  <p class="updated_time"> 10:08 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100683496/starbucks-exits-russia-shuts-coffee-shops">Starbucks is exiting Russia, shutting 130 stores</a> NPR: The coffee chain joins McDonald's in taking its brand out of the country. Starbucks had temporarily paused operations in March. 
  <p class="updated_time"> 10:06 AM CT, May. 23 </p> 
@@ -75,10 +75,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61548029?at_medium=RSS&at_campaign=KARANGA">Ukraine calls for safe passage for grain exports</a> BBC: The country's inability to export its grain has led to food prices rising around the world. 
  <p class="updated_time"> 09:39 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/americas/haiti-cic-french-bank.html">French Bank Will Study Role in Haiti After New York Times Report</a> NYT: The C.I.C. bank siphoned millions in fees and interest from the island’s treasury in the late 19th and early 20th centuries, an investigation found. 
+ <p class="updated_time"> 09:34 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/ecb-signals-end-to-negative-interest-rates-by-september-11653299391">Lagarde Signals End to ECB’s Negative Interest Rates Experiment</a> WSJ: Lagarde Signals End to ECB’s Negative Interest Rates Experiment 
  <p class="updated_time"> 09:22 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61546145?at_medium=RSS&at_campaign=KARANGA">Iran vows revenge after Revolutionary Guards colonel is assassinated</a> BBC: Sayad Khodai was shot outside his home - the latest high-level figure to be killed in Iran. 
- <p class="updated_time"> 09:21 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/ecb-signals-end-to-negative-interest-rates-by-september-11653299391">Lagarde Signals End to ECB’s Negative Interest Rates Experiment</a> WSJ: Lagarde Signals End to ECB’s Negative Interest Rates Experiment 
  <p class="updated_time"> 09:11 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61549569?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian soldier Vadim Shishimarin jailed for life over war crime</a> BBC: The tank commander admitted killing an unarmed civilian at the first war crimes trial since the invasion. 
  <p class="updated_time"> 09:04 AM CT, May. 23 </p> 
@@ -208,6 +208,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:20 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/us/politics/supreme-court-ineffective-counsel.html">Supreme Court Limits Inmates’ Challenges Based on Bad Legal Help</a> NYT: Splitting 6 to 3, the justices ruled that federal courts may not hold evidentiary hearings in suits from state prisoners claiming ineffective assistance of counsel. 
  <p class="updated_time"> 02:05 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/business/economy/china-trade-tariffs-biden.html">Debate Over Tariffs Reveals Biden’s Difficulties on China Trade</a> NYT: Sixteen months into the Biden presidency, U.S. officials are still divided over what to do about a trade legacy left by President Donald J. Trump. 
  <p class="updated_time"> 01:55 PM CT, May. 23 </p> 
@@ -330,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/21/1100438703/dhs-disinformation-board-nina-jankowicz">She joined DHS to fight disinformation. She says she was halted by... disinformation</a> NPR: Nina Jankowicz looks back at how exaggerations and falsehoods stoked so many doubts about the Disinformation Governance Board that DHS paused it after just three weeks. 
  <p class="updated_time"> 04:00 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/us/politics/george-bush-legacy-texas.html">Bush Dynasty, Its Influence Fading, Pins Hopes on One Last Stand in Texas</a> NYT: George P. Bush is running to unseat the incumbent attorney general. His family, once powerful in Texas, has become an albatross as well as an asset. 
- <p class="updated_time"> 04:00 AM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/2022/05/21/us/politics/lucy-mcbath-carolyn-bourdeaux-georgia.html">Lucy McBath and Carolyn Bourdeaux Battle Over A Georgia District</a> NYT: A primary for the new Seventh District, outside Atlanta, is forcing two popular incumbents, Lucy McBath and Carolyn Bourdeaux, to do battle. 
  <p class="updated_time"> 07:36 PM CT, May. 20 </p> 
  <a href="https://www.politico.com/news/2022/05/20/white-house-makes-kirbys-new-role-official-00034229">White House makes Kirby's new role official</a> Politico: John Kirby will leave the Pentagon to serve as the National Security Council Coordinator for Strategic Communications. 
  <p class="updated_time"> 05:05 PM CT, May. 20 </p> 
