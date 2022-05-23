@@ -9,22 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:39 PM CT, May. 23 </p> 
+ <a href="https://www.npr.org/2022/05/23/1100828793/how-the-u-s-s-goals-in-ukraine-compare-to-europes-goals">How the U.S.'s goals in Ukraine compare to Europe's goals</a> NPR: The U.S. wants to weaken Russia and help Ukraine win, while some in Europe are looking for a diplomatic solution. 
+ <p class="updated_time"> 03:39 PM CT, May. 23 </p> 
+ <a href="https://www.npr.org/2022/05/23/1100828786/encore-meet-the-cool-62-year-old-kenyan-on-first-all-black-team-to-summit-everes">Encore: Meet the cool 62-year-old Kenyan on first all-Black team to summit Everest</a> NPR: James Kagambi is a 62-year-old former teacher and a top mountaineer. He's also the first Kenyan to summit Mount Everest, and talks about why this is an key milestone for Black and African climbers. 
+ <p class="updated_time"> 03:35 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/travel/city-biking-trails.html">7 Great Biking Cities (and Which Trails to Ride)</a> NYT: There’s no better way to zip through a new city than on two wheels. Here are some routes to try, from riverside jaunts to mountain climbs. 
+ <p class="updated_time"> 03:32 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/23/world/russia-ukraine-war">Ukraine Live Updates: Russia, Iced Out at Davos, Faces Further Isolation</a> NYT: President Volodymyr Zelensky addressed the World Economic Forum in Davos, Switzerland, where he received a standing ovation and Russia, usually a major presence there, was a pariah. It was one of several fresh signs of Russia’s growing isolation. 
  <p class="updated_time"> 03:10 PM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100828744/president-biden-says-the-u-s-will-defend-taiwan-if-china-invades">President Biden says the U.S. will defend Taiwan if China invades</a> NPR: President Biden said that the U.S. is committed to defend Taiwan in case of an attack by mainland China. China claims the island as its own, and has threatened to invade if it declares independence. 
  <p class="updated_time"> 03:10 PM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100828737/former-spanish-king-returns-to-spain-for-a-long-weekend">Former Spanish king returns to Spain, for a long weekend</a> NPR: NPR's Sacha Pfeiffer speaks with Barcelona-based journalist Alan Ruiz Terol about the return of the former king of Spain to his homeland after almost two years in exile. 
- <p class="updated_time"> 03:09 PM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/05/23/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Urges Global Business Elite to Punish Russia Further</a> NYT: President Volodymyr Zelensky addressed the World Economic Forum in Davos, Switzerland, where he received a standing ovation and Russia, usually a major presence there, was a pariah. It was one of several fresh signs of Russia’s growing isolation. 
  <p class="updated_time"> 03:04 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/russia-ukraine-killing-attack.html">Zelensky Says Russian Forces Killed 87 People in an Attack</a> NYT: The attack took place last week in the Chernihiv region north of the capital, Kyiv. 
  <p class="updated_time"> 03:01 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/zelensky-ukraine-davos.html">Addressing Davos, Zelensky Invites Global Businesses to Ukraine</a> NYT: The Ukrainian leader pledged to root out corruption to make his country more attractive to investors, and urged for tougher penalties against Moscow. 
+ <p class="updated_time"> 02:47 PM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/biden-says-u-s-would-intervene-militarily-if-china-invaded-taiwan-11653286228">Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan</a> WSJ: Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan 
  <p class="updated_time"> 02:36 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/france-woman-prime-minister-elisabeth-borne.html">France’s New Prime Minister Overcame Tragedy in Her Youth</a> NYT: Élisabeth Borne’s father, a World War II resistance member and a Holocaust survivor, killed himself when she was 11, an experience she has rarely discussed in detail. 
  <p class="updated_time"> 02:34 PM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100767629/ukraine-law-fund-war-selling-russian-assets">Ukraine's new law will let it fund the war effort by selling Russian assets</a> NPR: Just last week, a Ukrainian court seized hundreds of millions of dollars' worth of assets owned by a Russian oligarch. 
- <p class="updated_time"> 02:28 PM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/biden-says-u-s-would-intervene-militarily-if-china-invaded-taiwan-11653286228">Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan</a> WSJ: Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan 
  <p class="updated_time"> 02:22 PM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61554996?at_medium=RSS&at_campaign=KARANGA">Southern Baptist Convention vilified sex abuse survivors - report</a> BBC: Survivors of sex abuse at the hands of clergy were stonewalled and vilified, a new report finds. 
  <p class="updated_time"> 02:13 PM CT, May. 23 </p> 
@@ -35,7 +41,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-61548645?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe says Iran made her confess as condition of release</a> BBC: Iran made a last-minute release demand at the airport with a UK official present, the former prisoner says. 
  <p class="updated_time"> 02:05 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/business/economy/china-trade-tariffs-biden.html">Debate Over Tariffs Reveals Biden’s Difficulties on China Trade</a> NYT: Sixteen months into the Biden presidency, U.S. officials are still divided over what to do about a trade legacy left by President Donald J. Trump. 
- <p class="updated_time"> 01:28 PM CT, May. 23 </p> 
+ <p class="updated_time"> 01:47 PM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/russian-soldier-awaits-verdict-in-ukraine-war-crimes-trial-11653295495">Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial 
  <p class="updated_time"> 01:26 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/us-ukraine-howitzers.html">American Artillery Enters the Fight in Ukraine</a> NYT: The most lethal weapons the West has provided so far to Ukraine are now deployed in combat. And they have buoyed the Ukraine army’s hopes for victory. 
@@ -51,16 +57,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/climate/india-pakistan-heat-wave-global-warming.html">Climate Change Fuels Heat Wave in India and Pakistan, Scientists Find</a> NYT: Warming since preindustrial times has made the extreme heat in South Asia, now in its third month, at least 30 times more likely. 
  <p class="updated_time"> 12:52 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/russia-diplomat-un-geneva.html">Russian Diplomat Resigns Over Ukraine War</a> NYT: Boris Bondarev, a counselor at the Russian mission in Geneva, quit in a rare example of an official breaking with the Kremlin over its war in Ukraine. 
- <p class="updated_time"> 12:44 PM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/travel/city-biking-trails.html">7 Great Biking Cities (and Which Trails to Ride)</a> NYT: There’s no better way to zip through a new city than on two wheels. Here are some routes to try, from riverside jaunts to mountain climbs. 
+ <p class="updated_time"> 12:47 PM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-forces-sink-russian-river-crossings-inflicting-heavy-damage-11653301800">Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage</a> WSJ: Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage 
  <p class="updated_time"> 12:43 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-china.html">Biden Pledges to Defend Taiwan if It Faces a Chinese Attack</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy beyond what the U.S. has done for Ukraine. 
  <p class="updated_time"> 12:35 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/russian-soldier-war-crimes-guilty.html">Ukrainian Court Convicts a Russian Soldier of War Crimes</a> NYT: The verdict represents a milestone in Ukraine’s attempts to hold Russia and its soldiers accountable for atrocities committed in the war. 
  <p class="updated_time"> 12:29 PM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61548490?at_medium=RSS&at_campaign=KARANGA">Dozens feared trapped after 10-storey building collapses in Iran</a> BBC: Pictures show concrete floors and steel beams that crushed cars after falling on to the street below. 
- <p class="updated_time"> 12:28 PM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/ukraines-forces-sink-russian-river-crossings-inflicting-heavy-damage-11653301800">Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage</a> WSJ: Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage 
  <p class="updated_time"> 12:26 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/philippine-ferry-fire.html">Seven Dead and More Than 100 Rescued in Philippine Ferry Fire</a> NYT: The vessel was carrying 124 passengers and 10 crew members when it caught fire soon after setting off at dawn from Polillo Island. 
  <p class="updated_time"> 12:18 PM CT, May. 23 </p> 
@@ -70,16 +74,16 @@ webappicon: /plots/news.png
  <p class="updated_time"> 12:00 PM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61549155?at_medium=RSS&at_campaign=KARANGA">Millionaires at Davos say 'tax us more'</a> BBC: At the annual meeting of the business and political elites, wealthy attendees call for fairer tax. 
  <p class="updated_time"> 11:47 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/europe/ukraine-russia-davos.html">Where Russia Once Held Court at Davos, Ukraine Makes Its Pitch</a> NYT: The Russia House, where oligarchs sipped vodka and talked with politicians and corporate chiefs during the World Economic Forum, has been rebranded “Russian War Crimes House.” 
- <p class="updated_time"> 11:28 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/australias-new-leader-anthony-albanese-promises-to-unite-country-11653309786">Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite</a> WSJ: Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite 
+ <p class="updated_time"> 11:47 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/europe/ukraine-russia-davos.html">Where Russia Once Held Court at Davos, Ukraine Makes Its Pitch</a> NYT: The Russia House, where oligarchs sipped vodka and talked with politicians and corporate chiefs during the World Economic Forum, has been rebranded “Russian War Crimes House.” 
  <p class="updated_time"> 11:24 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100731559/russian-diplomat-un-quits-ashamed">A Russian diplomat to the U.N. quits, saying he is ashamed of his country</a> NPR: "Never have I been so ashamed of my country as on Feb. 24 of this year," veteran Russian diplomat Boris Bondarev wrote, alluding to the date of Russia's invasion. 
  <p class="updated_time"> 10:57 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/french-banks-haiti-cic.html">How a French Bank Captured Haiti</a> NYT: It helped finance the Eiffel Tower as it drained millions from Haiti. The bank, C.I.C., won’t talk about it, but The Times tracked how much its investors made — and what Haiti lost. 
  <p class="updated_time"> 10:55 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
- <p class="updated_time"> 10:28 AM CT, May. 23 </p> 
+ <p class="updated_time"> 10:47 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/ecb-signals-end-to-negative-interest-rates-by-september-11653299391">Lagarde Signals End to ECB’s Negative Interest Rates Experiment</a> WSJ: Lagarde Signals End to ECB’s Negative Interest Rates Experiment 
  <p class="updated_time"> 10:27 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100085358/medyka-ukrain-refugees-border-humanitarian-aid">The flow of Ukrainian refugees has changed direction in Poland. And so has aid relief</a> NPR: Medyka is the busiest border crossing between Poland and Ukraine. Aid workers flocked there to set up tents offering assistance when the war started. But these days, the flow of refugees has shifted. 
@@ -169,10 +173,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/22/world/asia/flooding-india-bangladesh.html">Millions Displaced and Dozens Dead in Flooding in India and Bangladesh</a> NYT: Heavy rains have washed away towns, villages and infrastructure, as extreme weather events become more common in South Asia. 
  <p class="updated_time"> 07:07 AM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100587966/tourists-are-returning-to-cuba-but-is-it-enough-for-the-islands-economy">Tourists are returning to Cuba, but is it enough for the island's economy?</a> NPR: Tourists, one of the mainstays of the Cuban economy, are returning. But the recovery is slow, and some say mismanaged. 
- <p class="updated_time"> 07:01 AM CT, May. 22 </p> 
- <a href="https://www.npr.org/2022/05/22/1100587938/north-korea-increases-ballistic-missile-tests">North Korea increases ballistic missile tests</a> NPR: Ayesha Rascoe speaks to Jenny Town, senior fellow at the Stimson Center and director of its 38 North Program, about the recent uptick in North Korea's ballistic missile tests. 
- <p class="updated_time"> 07:01 AM CT, May. 22 </p> 
- <a href="https://www.npr.org/2022/05/22/1100587903/russia-intends-to-annex-kherson-in-southern-ukraine">Russia intends to annex Kherson in southern Ukraine</a> NPR: Russians have occupied Kherson in southern Ukraine since the early days of the invasion, and are trying to turn it into a Russian city. 
  <p class="updated_time"> 06:02 AM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61540945?at_medium=RSS&at_campaign=KARANGA">Professor Brian Cox: Maybe humans are the Martians</a> BBC: The renowned physicist reflects on whether civilisation, like us, exists in other galaxies. 
  <p class="updated_time"> 04:12 AM CT, May. 22 </p> 
@@ -208,6 +208,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:42 PM CT, May. 23 </p> 
+ <a href="https://www.npr.org/2022/05/23/1100831545/appeals-court-florida-social-media-law-unconstitutional-desantis">An appeals court finds Florida's social media law unconstitutional</a> NPR: In a blow to Gov. Ron DeSantis, a three-judge panel of the 11th U.S. Circuit Court of Appeals said social media companies' moderation and curation efforts were protected by the First Amendment. 
+ <p class="updated_time"> 03:39 PM CT, May. 23 </p> 
+ <a href="https://www.npr.org/2022/05/23/1100828800/sarah-huckabee-sanders-is-expected-to-win-republican-primary-for-arkansas-govern">Sarah Huckabee Sanders is expected to win Republican primary for Arkansas governor</a> NPR: Before her campaign even began, Sarah Huckabee Sanders nabbed an endorsement for her race for Arkansas governor from former President Donald Trump. She is the favorite to win the GOP primary Tuesday. 
+ <p class="updated_time"> 03:39 PM CT, May. 23 </p> 
+ <a href="https://www.npr.org/2022/05/23/1100828793/how-the-u-s-s-goals-in-ukraine-compare-to-europes-goals">How the U.S.'s goals in Ukraine compare to Europe's goals</a> NPR: The U.S. wants to weaken Russia and help Ukraine win, while some in Europe are looking for a diplomatic solution. 
+ <p class="updated_time"> 03:29 PM CT, May. 23 </p> 
+ <a href="https://www.npr.org/2022/05/23/1100828779/republican-candidates-in-alabama-primary-are-embracing-big-lie-to-align-with-tru">Republican candidates in Alabama primary are embracing Big Lie to align with Trump</a> NPR: Deep-red Alabama has a primary on Tuesday. And Republican candidates are trying to prove they're aligned with Donald Trump by denying the legitimacy of the 2020 presidential election. 
+ <p class="updated_time"> 03:29 PM CT, May. 23 </p> 
+ <a href="https://www.npr.org/2022/05/23/1100828765/candidates-make-final-pitches-to-georgia-voters-ahead-of-primary-elections">Candidates make final pitches to Georgia voters ahead of primary elections</a> NPR: In Georgia's primary, one of the people everyone is talking about isn't on the ballot. Former President Trump has endorsed thirteen candidates there. 
  <p class="updated_time"> 03:10 PM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100828744/president-biden-says-the-u-s-will-defend-taiwan-if-china-invades">President Biden says the U.S. will defend Taiwan if China invades</a> NPR: President Biden said that the U.S. is committed to defend Taiwan in case of an attack by mainland China. China claims the island as its own, and has threatened to invade if it declares independence. 
  <p class="updated_time"> 03:03 PM CT, May. 23 </p> 
@@ -312,22 +322,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/21/world/asia/biden-south-korea-yoon.html">Rejecting ‘Love Letters’ to North Korea, Biden Offers Carrots and Sticks Instead</a> NYT: President Biden said he would consider expanding joint exercises with South Korea’s military that were scaled back during the Trump administration. 
  <p class="updated_time"> 05:41 PM CT, May. 21 </p> 
  <a href="https://www.politico.com/news/2022/05/21/mccormick-and-oz-joust-over-counting-of-undated-ballots-00034248">McCormick and Oz joust over counting of undated ballots</a> Politico: A federal court judgment in a related vote-counting case bolsters McCormick's standing in the too-close-to-call race. 
- <p class="updated_time"> 04:13 PM CT, May. 21 </p> 
- <a href="https://www.npr.org/2022/05/21/1100562854/on-asia-trip-biden-seeks-to-strengthen-relationship-with-new-south-korean-leader">On Asia trip, Biden seeks to strengthen relationship with new South Korean leader</a> NPR: President Biden is trying to shore up diplomatic and economic ties with allies like South Korea and Japan on the first trip to Asia of his presidency as he works to counter China. 
  <p class="updated_time"> 12:23 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/us/politics/perdue-kemp-georgia-trump.html">Perdue Had Trump. In Georgia, Kemp Had Everything Else.</a> NYT: David Perdue challenged Gov. Brian Kemp because of Donald Trump’s fury over his 2020 loss. Thoroughly outflanked and failing to gain traction, he is now staring down defeat. 
  <p class="updated_time"> 09:11 AM CT, May. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/21/sean-patrick-maloney-dodges-a-bullet-00034238"> Sean Patrick Maloney dodges a bullet</a> Politico Playbook: And President Joe Biden visits South Korea. 
- <p class="updated_time"> 08:40 AM CT, May. 21 </p> 
- <a href="https://www.npr.org/2022/05/21/1100536547/nancy-pelosi-communion-abortion-rights">An archbishop bars Pelosi from Communion over her support for abortion rights</a> NPR: Archbishop Salvatore Cordileone of San Francisco said he sent House Speaker Nancy Pelosi a letter expressing his concerns after she vowed to codify the Supreme Court's Roe v. Wade decision. 
  <p class="updated_time"> 08:23 AM CT, May. 21 </p> 
  <a href="https://www.politico.com/news/2022/05/21/new-maps-new-york-redistricting-00034235">Final New York maps released and lead to midnight shuffle of congressional delegation</a> Politico: The maps are not a drastic overhaul from drafts that threw the state’s elections into chaos on Monday and threatened Democrats' hopes of picking up several House seats from Republicans in November. 
- <p class="updated_time"> 07:05 AM CT, May. 21 </p> 
- <a href="https://www.npr.org/2022/05/21/1100532529/biden-meets-with-new-south-korean-president-yoon-seok-youl">Biden meets with new South Korean President Yoon Seok-youl</a> NPR: President Biden met his South Korean counterpart at the start of a tour of Asia. The two leaders discussed taking a tougher line with North Korea and increased economic competition and security. 
- <p class="updated_time"> 06:57 AM CT, May. 21 </p> 
- <a href="https://www.npr.org/2022/05/21/1100532485/week-in-politics-pa-results-pending-cawthorn-loses-in-n-c-all-eyes-on-ga">Week in politics: Pa. results pending; Cawthorn loses in N.C.; all eyes on Ga.</a> NPR: We take a look at primary results out of Pennsylvania and North Carolina, and look ahead to next week's races, with a focus on Georgia's primaries. 
- <p class="updated_time"> 06:02 AM CT, May. 21 </p> 
- <a href="https://www.npr.org/2022/05/21/1098489307/roma-refugees-moldova-ukraine-war">Roma refugees who fled from Ukraine to Moldova are now in limbo</a> NPR: Many slipped across the border as the war began, but lack passports or other official forms of ID. They struggle to prove their eligibility for humanitarian aid — and to cross into other countries. 
  <p class="updated_time"> 06:00 AM CT, May. 21 </p> 
  <a href="https://www.politico.com/news/2022/05/21/new-york-governor-election-harry-wilson-00032221">The pro-abortion rights, former Obama adviser Republican running for New York governor</a> Politico: “Look, I'm a lifelong Republican. I think I'm more consistent with the Republican Party than some of my erstwhile opponents. So I think I’m going to win the nomination,” Harry Wilson said in an interview. 
  <p class="updated_time"> 04:00 AM CT, May. 21 </p> 
