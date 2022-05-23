@@ -9,29 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:37 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-defense.html">Biden Says U.S. Military Would Defend Taiwan if China Invaded</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy that he has been unwilling to make when it comes to Ukraine. 
- <p class="updated_time"> 12:47 AM CT, May. 23 </p> 
+ <p class="updated_time"> 01:49 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-defense.html">Biden Says U.S. Military Would Defend Taiwan if China Invaded</a> NYT: Appearing to move away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy that he has been unwilling to make on Ukraine. 
+ <p class="updated_time"> 01:47 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">What Happened on Day 88 of the War in Ukraine</a> NYT: Fighting raged around Sievierodonetsk, a focus of Russia’s struggling offensive in the Donbas region in the east. In a visit to Kyiv on Sunday, Poland’s president said that Ukraine alone should determine its future and the terms of any cease-fire. 
+ <p class="updated_time"> 01:47 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/22/world/europe/ukraine-bucha-war-crimes-russia.html">‘Such Bad Guys Will Come’: How One Russian Brigade Terrorized Bucha</a> NYT: A particularly fearsome unit of Moscow’s invading army arrived in the Kyiv suburb in mid-March. The soldiers’ reputation preceded them. 
+ <p class="updated_time"> 01:04 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/polish-leader-returns-to-ukraine-backing-eu-bid-and-efforts-to-restart-exports-11653217429">Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops</a> WSJ: Poland’s President Addresses Ukraine’s Parliament, Calls for Removal of All Russian Troops 
  <p class="updated_time"> 12:35 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61541653?at_medium=RSS&at_campaign=KARANGA">Canada storms: Nearly a million homes lose power in high winds</a> BBC: Eight people killed by falling trees as high winds and storms batter Ontario and Quebec. 
- <p class="updated_time"> 12:24 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/05/22/world/russia-ukraine-war">What Happened on Day 88 of the War in Ukraine</a> NYT: Fighting raged around Sievierodonetsk, a focus of Russia’s struggling offensive in the Donbas region in the east. In a visit to Kyiv on Sunday, Poland’s president said that Ukraine alone should determine its future and the terms of any cease-fire. 
  <p class="updated_time"> 12:05 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100652972/kim-at-large-funeral-amid-covid-worry">Kim and other N. Koreans attend large funeral amid COVID worry</a> NPR: The isolated East Asian country has only stated how many people have fevers daily, and has only identified a few of the cases as COVID-19 since admitting to an outbreak of the omicron variant. 
- <p class="updated_time"> 12:00 AM CT, May. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61542365?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Living in fear or in jail - Russia's defiant truth tellers</a> BBC: Despite the threat of a 15-year jail term, some Russians a refusing to be silenced by the Kremlin. 
- <p class="updated_time"> 11:47 PM CT, May. 22 </p> 
+ <p class="updated_time"> 12:04 AM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/why-did-you-do-this-the-story-behind-ukraines-first-war-crimes-trial-11653226541">The Story Behind Ukraine’s First War-Crimes Trial</a> WSJ: The Story Behind Ukraine’s First War-Crimes Trial 
+ <p class="updated_time"> 12:00 AM CT, May. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61542365?at_medium=RSS&at_campaign=KARANGA">Ukraine war: The defiant Russians speaking out about the war</a> BBC: Despite the threat of a 15-year jail term, some Russians a refusing to be silenced by the Kremlin. 
  <p class="updated_time"> 11:25 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61546470?at_medium=RSS&at_campaign=KARANGA">Australia's new PM sworn in ahead of Japan summit</a> BBC: Two days after his election win, Anthony Albanese will fly to meet the leaders of US, India and Japan. 
+ <p class="updated_time"> 11:04 PM CT, May. 22 </p> 
+ <a href="https://www.wsj.com/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183">Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy</a> WSJ: Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy 
  <p class="updated_time"> 10:49 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/australia/election-albanese-climate.html">Australia’s ‘Climate Election’ Finally Arrived. Will It Be Enough?</a> NYT: Voters rejected the deny-and-delay approach that has made Australia a global laggard on emission cuts. But how far the new government will go remains to be seen. 
- <p class="updated_time"> 10:47 PM CT, May. 22 </p> 
- <a href="https://www.wsj.com/articles/pentagon-weighs-deploying-special-forces-to-guard-kyiv-embassy-11653237183">Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy</a> WSJ: Pentagon Weighs Deploying Special Forces to Guard Kyiv Embassy 
- <p class="updated_time"> 09:47 PM CT, May. 22 </p> 
+ <p class="updated_time"> 10:04 PM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/china-spends-far-more-than-others-to-help-favored-industries-report-finds-11653235200">China Spends Far More Than Others to Help Favored Industries, Report Finds</a> WSJ: China Spends Far More Than Others to Help Favored Industries, Report Finds 
- <p class="updated_time"> 08:47 PM CT, May. 22 </p> 
+ <p class="updated_time"> 09:04 PM CT, May. 22 </p> 
  <a href="https://www.wsj.com/articles/israeli-prime-minister-naftali-bennett-avoids-government-collapse-11653234773">Israeli Prime Minister Naftali Bennett Avoids Government Collapse</a> WSJ: Israeli Prime Minister Naftali Bennett Avoids Government Collapse 
  <p class="updated_time"> 08:29 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/health-61546199?at_medium=RSS&at_campaign=KARANGA">World faces big challenges over Covid, monkeypox and wars - WHO</a> BBC: The warning by the UN health agency's chief comes amid an unusual monkeypox outbreak outside Africa. 
@@ -50,15 +52,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:18 PM CT, May. 22 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61544313?at_medium=RSS&at_campaign=KARANGA">Baby formula shortage: 35 tonnes of infant formula flown into the United States</a> BBC: The US is facing a critical shortage due to supply chain issues and the closure of a major factory. 
  <p class="updated_time"> 05:13 PM CT, May. 22 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61546145?at_medium=RSS&at_campaign=KARANGA">Colonel in Iran Revolutionary Guard assassinated</a> BBC: Sayad Khodai, a senior figure in the elite Quds force, was reportedly shot dead in his car by two gunmen. 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61546145?at_medium=RSS&at_campaign=KARANGA">Colonel in Iran Revolutionary Guards assassinated</a> BBC: Sayad Khodai, a senior figure in the elite Quds force, was reportedly shot dead in his car by two gunmen. 
  <p class="updated_time"> 04:23 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/middleeast/iran-filmmakers.html">In Iran, a New Wave of Repression Hits Acclaimed Filmmakers</a> NYT: The authorities in the Islamic Republic like to take credit for the country’s achievements in film, but are warning those who make them not to cross red lines at home. 
  <p class="updated_time"> 04:21 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/middleeast/israel-government-crisis.html">Israel’s Political Crisis Is Resolved, but Governing Remains a Strain</a> NYT: A lawmaker who quit the coalition last week reversed her decision on Sunday, averting the government’s imminent collapse. 
  <p class="updated_time"> 04:03 PM CT, May. 22 </p> 
  <a href="https://www.npr.org/2022/05/22/1100611412/russia-ukraine-war-what-happened-this-weekend-may-21-22">Russia-Ukraine war: What happened this weekend (May 21-22)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:53 PM CT, May. 22 </p> 
- <a href="https://www.nytimes.com/2022/05/22/world/europe/ukraine-bucha-war-crimes-russia.html">‘Such Bad Guys Will Come’: How One Russian Brigade Terrorized Bucha</a> NYT: A particularly fearsome unit of Moscow’s invading army arrived in the Kyiv suburb in mid-March. The soldiers’ reputation preceded them. 
  <p class="updated_time"> 03:29 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/asia/iran-revolutionary-guard-killed.html">A Senior Member of Iran’s Revolutionary Guard Is Killed in Tehran</a> NYT: No one claimed responsibility for the assassination of Col. Sayad Khodayee, which took place in broad daylight outside his home. 
  <p class="updated_time"> 02:33 PM CT, May. 22 </p> 
@@ -216,8 +216,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:44 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-defense.html">Biden Says U.S. Military Would Defend Taiwan if China Invaded</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy that he has been unwilling to make when it comes to Ukraine. 
+ <p class="updated_time"> 02:00 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/us/politics/pence-trump-republicans-2024.html">Pence, Tiptoeing Away From Trump, Lays Groundwork for ’24 Run</a> NYT: The former vice president is part of a group of Republicans who have visited early nominating states as they weigh a challenge to their party’s most dominant force. 
+ <p class="updated_time"> 01:49 AM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-defense.html">Biden Says U.S. Military Would Defend Taiwan if China Invaded</a> NYT: Appearing to move away from a policy of “strategic ambiguity,” the president said he would take a step to protect the island democracy that he has been unwilling to make on Ukraine. 
  <p class="updated_time"> 10:58 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/us/politics/democrats-georgia-warnock-abrams-biden.html">Democrats Fight Headwinds in Georgia and Beyond: ‘The Problem Is Reality’</a> NYT: Raphael Warnock and Stacey Abrams, viewed as strong candidates by their party, will be running against President Biden’s low ratings as well as their G.O.P. rivals. 
  <p class="updated_time"> 08:19 PM CT, May. 22 </p> 
@@ -310,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/21/us/politics/george-bush-legacy-texas.html">Bush Dynasty, Its Influence Fading, Pins Hopes on One Last Stand in Texas</a> NYT: George P. Bush is running to unseat the incumbent attorney general. His family, once powerful in Texas, has become an albatross as well as an asset. 
  <p class="updated_time"> 04:00 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/21/us/politics/lucy-mcbath-carolyn-bourdeaux-georgia.html">Two Democratic Congresswomen, One Redrawn Georgia District</a> NYT: A primary for the new Seventh District, outside Atlanta, is forcing two popular incumbents, Lucy McBath and Carolyn Bourdeaux, to do battle. 
- <p class="updated_time"> 12:54 AM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/2022/05/20/us/politics/cdc-second-booster.html">C.D.C Says Adults 50 and Over Should Get Second Booster Shot</a> NYT: Previously, the agency said those 50 and older could opt for the additional shot, but encouraged only people over 65 or with underlying medical conditions to get it. 
  <p class="updated_time"> 09:07 PM CT, May. 20 </p> 
  <a href="https://www.nytimes.com/2022/05/20/us/politics/giuliani-jan-6-committee.html">Giuliani Meets With Jan. 6 Committee for Over 7 Hours</a> NYT: The onetime Trump lawyer was central to the former president’s efforts to overturn the 2020 election. 
  <p class="updated_time"> 08:40 PM CT, May. 20 </p> 
