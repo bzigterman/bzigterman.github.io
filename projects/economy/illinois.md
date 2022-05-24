@@ -8,7 +8,7 @@ imageurl: https://bzigterman.com/plots/il_flash_index.png
 <iframe src="/interactive/il_unemployment_rate.html" width="100%" height="300"> 
 </iframe>
 
-<iframe src="/interactive/il_employment.html" width="100%" height="300"> 
+<iframe src="/interactive/il_employment.html" width="100%" height="500"> 
 </iframe>
 
 <iframe src="/interactive/il_flash_index.html" width="100%" height="300"> 
