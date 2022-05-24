@@ -9,28 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:19 AM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/23/world/russia-ukraine-war">What Happened on Day 89 of the War in Ukraine</a> NYT: The Ukrainian president addressed the World Economic Forum in Davos, Switzerland, where Russia was a pariah. A midlevel Russian diplomat broke ranks and resigned with a scathing statement on the war. 
+ <p class="updated_time"> 11:56 PM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/biden-says-u-s-would-intervene-militarily-if-china-invaded-taiwan-11653286228">Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan</a> WSJ: Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan 
  <p class="updated_time"> 11:41 PM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61548490?at_medium=RSS&at_campaign=KARANGA">Ten dead, dozens saved after 10-storey building collapses in Iran - reports</a> BBC: Pictures show concrete floors and steel beams that crushed cars after falling on to the street below. 
  <p class="updated_time"> 11:25 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/05/23/world/haiti-france-ransom">Haiti ‘Ransom’ Project: Reactions and Updates</a> NYT: The New York Times’s publication of “The Ransom,” a report laying out history’s role in Haiti’s poverty, stirred immediate reaction. 
  <p class="updated_time"> 11:23 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/us/politics/biden-taiwan-comments.html">Biden Veers Off Script on Taiwan. It’s Not the First Time.</a> NYT: Offhand remarks that vary from the official talking points have become a feature of the Biden presidency, even as they leave his staff scrambling to spin them away afterward. 
- <p class="updated_time"> 11:23 PM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/05/23/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Pushes for Stronger Front Against Russia</a> NYT: The Ukrainian president addressed the World Economic Forum in Davos, Switzerland, where Russia was a pariah. A midlevel Russian diplomat broke ranks and resigned with a scathing statement on the war. 
  <p class="updated_time"> 10:56 PM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/biden-says-u-s-would-intervene-militarily-if-china-invaded-taiwan-11653286228">Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan</a> WSJ: Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan 
+ <a href="https://www.wsj.com/articles/russian-soldier-awaits-verdict-in-ukraine-war-crimes-trial-11653295495">Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial 
  <p class="updated_time"> 10:38 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
  <p class="updated_time"> 09:56 PM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/russian-soldier-awaits-verdict-in-ukraine-war-crimes-trial-11653295495">Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial 
- <p class="updated_time"> 08:56 PM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/ukraines-forces-sink-russian-river-crossings-inflicting-heavy-damage-11653301800">Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage</a> WSJ: Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage 
- <p class="updated_time"> 07:56 PM CT, May. 23 </p> 
+ <p class="updated_time"> 08:56 PM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/australias-new-leader-anthony-albanese-promises-to-unite-country-11653309786">Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite</a> WSJ: Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite 
+ <p class="updated_time"> 07:56 PM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/ecb-signals-end-to-negative-interest-rates-by-september-11653299391">Lagarde Signals End to ECB’s Negative Interest Rates Experiment</a> WSJ: Lagarde Signals End to ECB’s Negative Interest Rates Experiment 
  <p class="updated_time"> 07:13 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/france-minister-rape-allegations-damien-abad.html">French Minister Damien Abad Is Accused of Rape by 2 Women</a> NYT: The women’s allegations against France’s new minister for solidarity and disabled people come amid a growing reckoning over sexist and sexually violent behavior by political figures. 
- <p class="updated_time"> 06:56 PM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/ecb-signals-end-to-negative-interest-rates-by-september-11653299391">Lagarde Signals End to ECB’s Negative Interest Rates Experiment</a> WSJ: Lagarde Signals End to ECB’s Negative Interest Rates Experiment 
  <p class="updated_time"> 06:43 PM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61559568?at_medium=RSS&at_campaign=KARANGA">Heard's team change course on Johnny Depp testimony</a> BBC: Supermodel Kate Moss is expected to take the stand in the final days of the high-profile trial. 
  <p class="updated_time"> 06:42 PM CT, May. 23 </p> 
@@ -119,6 +119,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/world/haitian-creole-history.html">Haitian Creole Speakers Welcome ‘The Ransom’ Translation</a> NYT: Haitian Creole is a national language, but Creole speakers can encounter prejudice, so some were thrilled to see “The Ransom” offered in Creole. 
  <p class="updated_time"> 09:39 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/americas/haiti-cic-french-bank.html">French Bank Will Study Role in Haiti After New York Times Report</a> NYT: The C.I.C. bank siphoned millions in fees and interest from the island’s treasury in the late 19th and early 20th centuries, an investigation found. 
+ <p class="updated_time"> 09:35 AM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/egypts-bread-crisis-wheat-supplies-russia-ukrain-warawakens-old-fears-of-political-unrest-11653318765">Egypt's Bread Crisis Awakens Old Fears of Political Unrest</a> WSJ: The world’s top wheat importer faces strains to its subsidized food program in wake of Russian invasion of Ukraine as shortages, rising prices hit budget. When baladi supplies ran out, “you should have seen the fight.” 
  <p class="updated_time"> 09:22 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61546145?at_medium=RSS&at_campaign=KARANGA">Iran vows revenge after Revolutionary Guards colonel is assassinated</a> BBC: Sayad Khodai was shot outside his home - the latest high-level figure to be killed in Iran. 
  <p class="updated_time"> 09:11 AM CT, May. 23 </p> 
@@ -131,8 +133,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/uk-61549040?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe tells BBC she was forced to sign confession in Iran</a> BBC: Nazanin Zaghari-Ratcliffe says she was told she couldn't get on the plane home without signing the papers. 
  <p class="updated_time"> 06:55 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-60690688?at_medium=RSS&at_campaign=KARANGA">What is a war crime and could Putin be prosecuted over Ukraine?</a> BBC: If Russia has carried out war crimes in Ukraine how could Putin or his army generals be prosecuted? 
- <p class="updated_time"> 06:53 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/suspected-graves-at-canadas-indigenous-schools-prompt-search-for-answers-11653298202">Suspected Graves at Canada's Indigenous Schools Prompt Search for Answers</a> WSJ: Since the​detection of the suspected graves in May 2021, indigenous communities have come forward with information about more than 1,000 possible unmarked graves at or near the school sites. 
  <p class="updated_time"> 06:45 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/north-korea-covid.html">North Korea Claims ‘Positive Trend’ Against Covid Outbreak</a> NYT: The government said it had reversed the trajectory of its outbreak, although a true picture of its severity remained elusive. 
  <p class="updated_time"> 06:02 AM CT, May. 23 </p> 
@@ -141,18 +141,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-china-59900139?at_medium=RSS&at_campaign=KARANGA">China and Taiwan: A really simple guide</a> BBC: Tension between China and Taiwan has risen and what happens next matters to us all 
  <p class="updated_time"> 05:03 AM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61550090?at_medium=RSS&at_campaign=KARANGA">North Korea's Kim Jong-un is seen at state funeral not wearing a mask</a> BBC: The North Korean leader attends the funeral of a top military official as the country faces a Covid outbreak. 
- <p class="updated_time"> 04:52 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/u-n-human-rights-chief-kicks-off-closely-watched-china-visit-11653306465">U.N. Human-Rights Chief Kicks Off Closely Watched China Trip</a> WSJ: The visit is a culmination of yearslong efforts by the United Nations High Commissioner for Human Rights to assess allegations of rights abuses in China’s campaign to forcibly assimilate Muslims in Xinjiang. 
  <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/travel/family-summer-cycling.html">A Family Measures Milestones on an Alaskan Cycling Trip</a> NYT: In the shadow of the iconic Denali peak in Alaska, a family bikes over the next rise and into the great unknown. 
  <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100655360/united-nations-world-displaced-new-record">A record 100 million people have been forced from their homes</a> NPR: Violence and natural disasters are fueling the surge in the number of people displaced, the U.N. says in a new report. 
- <p class="updated_time"> 03:04 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/biden-kicks-off-economic-group-linking-u-s-asia-11653290101">Biden Kicks Off Economic Group Linking U.S., Asia</a> WSJ: President Biden and leaders from a dozen countries endorsed the Indo-Pacific Economic Framework, a platform aimed at countering China’s influence. 
  <p class="updated_time"> 02:37 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100655012/biden-says-u-s-intervene-with-military-to-defend-taiwan">Biden says the U.S. would be willing to intervene militarily to defend Taiwan</a> NPR: A White House official said Biden's comments did not reflect a policy shift, even though the U.S. traditionally has avoided making such an explicit security guarantee to Taiwan. 
- <p class="updated_time"> 02:25 AM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/iran-vows-revenge-for-killing-of-senior-revolutionary-guard-member-in-tehran-11653305143">Iran Vows Revenge for Killing of Senior Revolutionary Guard Member in Tehran</a> WSJ: Col. Hassan Sayyad Khodaei—who was shot by two motorcyclists outside his home on Sunday–was called a “defender of the shrine,” a catch-all term used by Iranian media to describe its soldiers fighting in Iraq and Syria. 
  <p class="updated_time"> 01:47 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/ukraine-bucha-war-crimes-russia.html">‘Such Bad Guys Will Come’: How One Russian Brigade Terrorized Bucha</a> NYT: A particularly fearsome unit of Moscow’s invading army arrived in the Kyiv suburb in mid-March. The soldiers’ reputation preceded them. 
  <p class="updated_time"> 12:05 AM CT, May. 23 </p> 
