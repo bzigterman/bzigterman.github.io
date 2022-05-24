@@ -9,12 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:55 PM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/world/europe/elizabeth-line-london-tube-opens.html">Eager London Riders Get Up Early for Elizabeth Line’s Debut</a> NYT: The sleek new tube line officially opened Tuesday, drawing train enthusiasts and awing normally stoic London commuters. 
+ <p class="updated_time"> 01:50 PM CT, May. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61571612?at_medium=RSS&at_campaign=KARANGA">Chinese police leak reveals human cost of Uyghur incarceration</a> BBC: The information includes evidence of a shoot-to-kill policy for anyone who tried to escape. 
+ <p class="updated_time"> 01:44 PM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/24/world/russia-ukraine-war">Live Updates: World Leaders Call for Action to Free Trapped Ukrainian Food</a> NYT: Russia’s blockade of seaports and attacks on grain warehouses have choked off one of the world’s breadbaskets. Western officials are accusing Russia of using food as a weapon. 
+ <p class="updated_time"> 01:15 PM CT, May. 24 </p> 
+ <a href="https://www.npr.org/2022/05/24/1100957881/free-her-face-afghan-tv-anchors-face-coverings-taliban">Male Afghan TV anchors cover faces in solidarity with women after a Taliban order</a> NPR: Male anchors in Afghanistan are wearing masks on air in solidarity with their female colleagues. This is the latest Taliban order to threaten the freedoms and careers of Afghan women. 
  <p class="updated_time"> 01:14 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/business/china-covid-zero.html">In Covid Zero, Young Chinese Embrace ‘Run Philosophy’ </a> NYT: Many believe that they’re the most unlucky generation since the 1980s as Beijing’s persistent pursuit of the zero Covid policy wreaks havoc. 
  <p class="updated_time"> 01:10 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/americas/haiti-history-colonized-france.html">The Root of Haiti’s Misery: Reparations to Enslavers</a> NYT: In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now. 
- <p class="updated_time"> 01:01 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/05/24/world/russia-ukraine-war">Live Updates: World Leaders Call for Action to Free Trapped Ukrainian Food</a> NYT: Russia’s blockade of seaports and attacks on grain warehouses have choked off one of the world’s breadbaskets. Western officials are accusing Russia of using food as a weapon. 
+ <p class="updated_time"> 01:02 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Russia Tries to Tighten Grip on Occupied Areas of Ukraine</a> WSJ: Russia Tries to Tighten Grip on Occupied Areas of Ukraine 
  <p class="updated_time"> 01:00 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/russia-china-bombers-biden.html">Russia and China Held Military Exercise in East Asia as Biden Visited</a> NYT: The coordinated bomber flights were the first training activity the two nations had done together since President Vladimir V. Putin of Russia ordered the invasion of Ukraine. 
  <p class="updated_time"> 12:54 PM CT, May. 24 </p> 
@@ -25,24 +33,22 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-food-supply.html">Russia Is Accused of Using Food as ‘Blackmail’ in Ukraine War</a> NYT: The West is reluctant to risk a direct military confrontation with Russia, and the world’s food distribution network is already creaky because of pandemic-related supply disruptions. 
  <p class="updated_time"> 12:20 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/haiti-wall-street-us-banks.html">Invade Haiti, Wall Street Urged. The U.S. Obliged.</a> NYT: The long occupation of Haiti began with a drumbeat from the bank that became Citigroup, decades of diplomatic correspondence and other records show. 
- <p class="updated_time"> 12:18 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Russia Tries to Tighten Grip on Occupied Areas of Ukraine</a> WSJ: Russia Tries to Tighten Grip on Occupied Areas of Ukraine 
- <p class="updated_time"> 11:18 AM CT, May. 24 </p> 
+ <p class="updated_time"> 12:02 PM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
+ <p class="updated_time"> 11:02 AM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Inflation, Rising Rates Curb Global Economic Growth</a> WSJ: Inflation, Rising Rates Curb Global Economic Growth 
  <p class="updated_time"> 10:50 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/birth-rate-increase.html">U.S. Birthrate Ticks Up 1 Percent, Halting a Steady Decline</a> NYT: Data from the federal government showed last year’s increase was the first since 2014, and followed a sharp drop in 2020, the first full year of the coronavirus pandemic. 
  <p class="updated_time"> 10:46 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61568999?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Put values over profits, Nato chief tells countries</a> BBC: Jens Stoltenberg says the Ukraine war has highlighted the cost of trade with "authoritarian regimes". 
  <p class="updated_time"> 10:36 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61560784?at_medium=RSS&at_campaign=KARANGA">Ukraine war: World faces 'dark hour', Biden tells Quad summit</a> BBC: The US president meets key Asia allies to discuss China's influence and differences over Russia's invasion. 
- <p class="updated_time"> 10:18 AM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Inflation, Rising Rates Curb Global Economic Growth</a> WSJ: Inflation, Rising Rates Curb Global Economic Growth 
- <p class="updated_time"> 09:18 AM CT, May. 24 </p> 
+ <p class="updated_time"> 10:02 AM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-moved-assets-to-an-island-in-the-english-channel-now-he-faces-a-probe-11653403549">Roman Abramovich Faces Probe After Moving Assets to an Island in the English Channel</a> WSJ: Roman Abramovich Faces Probe After Moving Assets to an Island in the English Channel 
+ <p class="updated_time"> 09:02 AM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/in-colombia-former-leftist-guerrilla-leads-presidential-hopefuls-11653400801">In Colombia, Former Leftist Guerrilla Leads Presidential Hopefuls</a> WSJ: In Colombia, Former Leftist Guerrilla Leads Presidential Hopefuls 
  <p class="updated_time"> 08:33 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/23/us/politics/biden-taiwan-comments.html">Biden Veers Off Script on Taiwan. It’s Not the First Time.</a> NYT: Offhand remarks that vary from the official talking points have become a feature of the Biden presidency, even as they leave his staff scrambling to spin them away afterward. 
- <p class="updated_time"> 08:18 AM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/in-colombia-former-leftist-guerrilla-leads-presidential-hopefuls-11653400801">In Colombia, Former Leftist Guerrilla Leads Presidential Hopefuls</a> WSJ: In Colombia, Former Leftist Guerrilla Leads Presidential Hopefuls 
  <p class="updated_time"> 08:06 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/biden-taiwan-china-australia.html">Biden’s Words on Taiwan Leave Allies in an Awkward Spot</a> NYT: Ahead of a summit with Australia, India and Japan, an off-the-cuff vow to defend the island militarily against China complicates diplomacy, particularly for Australia. 
  <p class="updated_time"> 07:46 AM CT, May. 24 </p> 
@@ -167,14 +173,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60690688?at_medium=RSS&at_campaign=KARANGA">What is a war crime and could Putin be prosecuted over Ukraine?</a> BBC: If Russia has carried out war crimes in Ukraine how could Putin or his army generals be prosecuted? 
  <p class="updated_time"> 06:45 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/north-korea-covid.html">North Korea Claims ‘Positive Trend’ Against Covid Outbreak</a> NYT: The government said it had reversed the trajectory of its outbreak, although a true picture of its severity remained elusive. 
- <p class="updated_time"> 05:03 AM CT, May. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61550090?at_medium=RSS&at_campaign=KARANGA">North Korea's Kim Jong-un is seen at state funeral not wearing a mask</a> BBC: The North Korean leader attends the funeral of a top military official as the country faces a Covid outbreak. 
  <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/travel/family-summer-cycling.html">A Family Measures Milestones on an Alaskan Cycling Trip</a> NYT: In the shadow of the iconic Denali peak in Alaska, a family bikes over the next rise and into the great unknown. 
  <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100655360/united-nations-world-displaced-new-record">A record 100 million people have been forced from their homes</a> NPR: Violence and natural disasters are fueling the surge in the number of people displaced, the U.N. says in a new report. 
- <p class="updated_time"> 02:37 AM CT, May. 23 </p> 
- <a href="https://www.npr.org/2022/05/23/1100655012/biden-says-u-s-intervene-with-military-to-defend-taiwan">Biden says the U.S. would be willing to intervene militarily to defend Taiwan</a> NPR: A White House official said Biden's comments did not reflect a policy shift, even though the U.S. traditionally has avoided making such an explicit security guarantee to Taiwan. 
  <p class="updated_time"> 07:24 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/canada/ottawa-storms.html">At Least Six Dead After Severe Thunderstorms Lash Parts of Canada</a> NYT: A line of thunderstorms brought violent winds that left a trail of damage across parts of Ontario and Quebec on Saturday, and hundreds of thousands without power. 
  <p class="updated_time"> 06:23 PM CT, May. 22 </p> 
@@ -189,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/22/world/asia/monkeypox-biden-concern.html">‘Everybody Should Be Concerned’ About Monkeypox, Biden Warns</a> NYT: Only one case of the virus has so far been identified in the U.S., but public health officials say the disease is likely to spread. 
  <p class="updated_time"> 09:31 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/asia/philippines-rural-farming.html">Rural Philippines, Long Neglected, Newly Appealing in Covid Times</a> NYT: The economic disparity of the nation’s rural and urban areas is a problem of long standing. Will the lessons of the pandemic finally lead to change? 
- <p class="updated_time"> 09:15 AM CT, May. 22 </p> 
- <a href="https://www.nytimes.com/2022/05/22/world/asia/flooding-india-bangladesh.html">Millions Displaced and Dozens Dead in Flooding in India and Bangladesh</a> NYT: Heavy rains have washed away towns, villages and infrastructure, as extreme weather events become more common in South Asia. 
 
 
 </details>
@@ -198,10 +198,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:47 PM CT, May. 24 </p> 
+ <a href="https://www.politico.com/news/2022/05/24/biden-final-decision-iran-revolutionary-guard-terrorist-00034789">Biden made final decision to keep Iran’s IRGC on terrorist list, sources say</a> Politico: The president relayed his commitment to Israel’s prime minister. 
  <p class="updated_time"> 01:00 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/russia-china-bombers-biden.html">Russia and China Held Military Exercise in East Asia as Biden Visited</a> NYT: The coordinated bomber flights were the first training activity the two nations had done together since President Vladimir V. Putin of Russia ordered the invasion of Ukraine. 
  <p class="updated_time"> 12:18 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/us/politics/police-executive-order-george-floyd.html">On George Floyd Anniversary, Biden Set to Issue Policing Order</a> NYT: The order would direct all federal agencies to revise their use-of-force policies and create a national registry of officers fired for misconduct. 
+ <a href="https://www.nytimes.com/2022/05/24/us/politics/police-executive-order-george-floyd.html">Biden Set to Issue Policing Order on Anniversary of Floyd Killing</a> NYT: The order would direct all federal agencies to revise their use-of-force policies and create a national registry of officers fired for misconduct. 
  <p class="updated_time"> 12:07 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/sales-of-new-homes-plunge-in-april-00034708">'Recession warning': Sales of new homes plunge in April</a> Politico: New-home sales fell 16.6 percent last month from the revised March figures, according to Census Bureau data released Tuesday. 
  <p class="updated_time"> 11:33 AM CT, May. 24 </p> 
@@ -226,6 +228,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/24/us/politics/trump-endorsements-primary-elections.html">Where Trump’s Endorsement Record Stands in Primaries So Far</a> NYT: The candidates endorsed by former President Donald J. Trump have succeeded in many of their early primaries, with some notable exceptions. 
  <p class="updated_time"> 06:19 AM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1100897925/georgias-primary-is-expected-to-be-a-litmus-test-for-the-republican-party">Georgia's primary is expected to be a litmus test for the Republican Party</a> NPR: The questions in the primary are whether former President Trump's endorsements can secure candidates' victories, and whether there are lingering effects from his 2020 election lies. 
+ <p class="updated_time"> 06:15 AM CT, May. 24 </p> 
+ <a href="https://www.cnn.com/2022/05/24/politics/georgia-alabama-primary-elections-preview/index.html">7 things to watch in Georgia, Alabama and other primaries Tuesday</a> CNN: Primaries on Tuesday across the South could represent the clearest chance for Republican voters to break with former President Donald Trump. 
  <p class="updated_time"> 05:30 AM CT, May. 24 </p> 
  <a href="https://www.npr.org/sections/money/2022/05/24/1100387792/ben-bernankes-lessons-from-the-great-inflation">Ben Bernanke's Lessons From 'The Great Inflation'</a> NPR: In a new book, Ben Bernanke explains how and why the U.S. Federal Reserve has evolved to play such an important role in the economy. 
  <p class="updated_time"> 05:27 AM CT, May. 24 </p> 
@@ -306,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/us/biden-baby-formula-shortage.html">U.S. Military Airlifts Baby Formula From Europe</a> NYT: A shipment that arrived on Sunday was the first of two intended to address shortages in the United States. Another shipment is set to arrive this week, the White House said. 
  <p class="updated_time"> 11:03 AM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/attorney-general-sues-mark-zuckerberg-cambridge-analytica-00034368">D.C. attorney general sues Mark Zuckerberg over Cambridge Analytica</a> Politico: Zuckerberg so far has avoided facing personal legal repercussions over his involvement in various Facebook scandals. 
- <p class="updated_time"> 09:35 AM CT, May. 23 </p> 
- <a href="https://www.cnn.com/2022/05/21/politics/gallery/biden-asia-trip/index.html">Biden's first trip to Asia as president</a> CNN: US President Joe Biden is on an alliance-boosting visit to Asia, a belated first trip to a region that remains central to his foreign policy goals even as his focus has been drawn away. 
  <p class="updated_time"> 06:18 AM CT, May. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/23/herschel-its-mitch-00034335">Herschel, it’s Mitch</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:12 AM CT, May. 23 </p> 
@@ -316,14 +318,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/23/henry-cuellar-abortion-house-democrats-primary-00034288">House Dems shun primary fight against anti-abortion incumbent</a> Politico: The party is rallying behind abortion rights as a key 2022 issue, but few House Democrats are backing anti-abortion Rep. Henry Cuellar’s challenger. 
  <p class="updated_time"> 03:30 AM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/dem-allied-groups-drop-an-a-bomb-on-mastriano-to-start-pa-gov-race-00034245">Dem-allied groups drop an A-bomb on Mastriano to start Pa. gov race</a> Politico: A $6 million campaign will target the GOP candidate’s position on abortion. 
- <p class="updated_time"> 03:30 AM CT, May. 23 </p> 
- <a href="https://www.politico.com/news/2022/05/23/state-democrats-abortion-rights-activists-federal-inaction-00034191">State Democrats, abortion-rights activists 'incredibly frustrated' with federal inaction</a> Politico: Democratic inaction at the federal level could complicate the party’s efforts to run this fall as champions of reproductive rights. 
- <p class="updated_time"> 03:30 AM CT, May. 23 </p> 
- <a href="https://www.politico.com/news/2022/05/23/liberal-los-angeles-reelect-sheriff-alex-villanueva-00033965">Los Angeles Democrats finally elected their first sheriff. Four years later, they have buyer’s remorse.</a> Politico: Alex Villanueva ran on promises of criminal justice reform. After taking office, he changed his tune. 
  <p class="updated_time"> 02:16 AM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/asian-nations-biden-indo-pacific-economic-framework-00034247">12 Asian nations join negotiations on Biden's signature economic initiative for the region</a> Politico: The president formally launched the Indo-Pacific Economic Framework on Monday during his visit to Tokyo. 
- <p class="updated_time"> 07:19 PM CT, May. 22 </p> 
- <a href="https://www.cnn.com/2022/05/22/politics/trevor-reed-documentary-cnntv/index.html">Trevor Reed pushes back against critics of US participation in prisoner swaps</a> CNN: Trevor Reed, an American citizen recently freed after more than two years imprisoned in Russia, said in an exclusive interview with CNN that he does not believe the United States' participation in prisoner swaps to bring Americans home should be controversial. 
  <p class="updated_time"> 07:00 PM CT, May. 22 </p> 
  <a href="https://www.politico.com/news/2022/05/22/white-house-infant-formula-manufacturers-00034310">White House touts use of wartime power to help infant formula manufacturers</a> Politico: Abbott Nutrition and Reckitt will get priority for supplies of raw materials used in the production of formula. 
  <p class="updated_time"> 10:10 AM CT, May. 22 </p> 
