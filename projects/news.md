@@ -9,16 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:23 PM CT, May. 23 </p> 
+ <p class="updated_time"> 11:03 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/05/23/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Pushes for Stronger Front Against Russia</a> NYT: The Ukrainian president addressed the World Economic Forum in Davos, Switzerland, where Russia was a pariah. A midlevel Russian diplomat broke ranks and resigned with a scathing statement on the war. 
+ <p class="updated_time"> 10:38 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
  <p class="updated_time"> 10:18 PM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61548490?at_medium=RSS&at_campaign=KARANGA">Dozens feared trapped after 10-storey building collapses in Iran</a> BBC: Pictures show concrete floors and steel beams that crushed cars after falling on to the street below. 
- <p class="updated_time"> 09:37 PM CT, May. 23 </p> 
+ <p class="updated_time"> 10:17 PM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/biden-says-u-s-would-intervene-militarily-if-china-invaded-taiwan-11653286228">Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan</a> WSJ: Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan 
- <p class="updated_time"> 08:37 PM CT, May. 23 </p> 
+ <p class="updated_time"> 09:17 PM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/russian-soldier-awaits-verdict-in-ukraine-war-crimes-trial-11653295495">Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial 
- <p class="updated_time"> 07:37 PM CT, May. 23 </p> 
+ <p class="updated_time"> 08:17 PM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/ukraines-forces-sink-russian-river-crossings-inflicting-heavy-damage-11653301800">Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage</a> WSJ: Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage 
+ <p class="updated_time"> 07:17 PM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/australias-new-leader-anthony-albanese-promises-to-unite-country-11653309786">Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite</a> WSJ: Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite 
  <p class="updated_time"> 07:13 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/france-minister-rape-allegations-damien-abad.html">French Minister Damien Abad Is Accused of Rape by 2 Women</a> NYT: The women’s allegations against France’s new minister for solidarity and disabled people come amid a growing reckoning over sexist and sexually violent behavior by political figures. 
  <p class="updated_time"> 07:05 PM CT, May. 23 </p> 
@@ -29,8 +33,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/business-61560385?at_medium=RSS&at_campaign=KARANGA">Airbnb to quit China as lockdowns restrict tourism</a> BBC: Stays in China made up only 1% of Airbnb's revenue for the last few years, a source said. 
  <p class="updated_time"> 06:38 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/health/monkeypox-vaccines.html">As Monkeypox Cases Rise, Nations Are Urged to Examine Vaccine Stores</a> NYT: The United States has stockpiled millions of doses of two smallpox vaccines, also effective against monkeypox. But the outbreaks so far are clustered in other countries. 
- <p class="updated_time"> 06:37 PM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/australias-new-leader-anthony-albanese-promises-to-unite-country-11653309786">Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite</a> WSJ: Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite 
+ <p class="updated_time"> 06:17 PM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/ecb-signals-end-to-negative-interest-rates-by-september-11653299391">Lagarde Signals End to ECB’s Negative Interest Rates Experiment</a> WSJ: Lagarde Signals End to ECB’s Negative Interest Rates Experiment 
  <p class="updated_time"> 06:12 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-china.html">Biden Pledges to Defend Taiwan if It Faces a Chinese Attack</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said that to protect the island democracy, he would go beyond what the U.S. has done for Ukraine. 
  <p class="updated_time"> 06:05 PM CT, May. 23 </p> 
@@ -39,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61530544?at_medium=RSS&at_campaign=KARANGA">From Afghanistan's finance minister to cab driver in the US</a> BBC: Now a taxi driver in Washington DC, Khalid Payenda once oversaw a multi-billion dollar budget. 
  <p class="updated_time"> 05:56 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/russia-ukraine-war-zelensky.html">Zelensky Urges Even Harder Line on Russia as Allies Work to Remain United</a> NYT: A midlevel Russian diplomat broke ranks and resigned with a scathing statement on the war, and President Volodymyr Zelensky called on world leaders to turn up the pressure. 
- <p class="updated_time"> 05:37 PM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/ecb-signals-end-to-negative-interest-rates-by-september-11653299391">Lagarde Signals End to ECB’s Negative Interest Rates Experiment</a> WSJ: Lagarde Signals End to ECB’s Negative Interest Rates Experiment 
  <p class="updated_time"> 05:31 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/boris-bondarev-russia-ukraine-war.html">A Russian Diplomat, Boris Bondarev, Speaks Out on the Ukraine War</a> NYT: Boris Bondarev, a Russian official who resigned over the war in Ukraine, said his colleagues were focused more on pleasing their superiors than on delivering accurate information to Moscow. 
  <p class="updated_time"> 05:26 PM CT, May. 23 </p> 
@@ -109,8 +111,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61555390?at_medium=RSS&at_campaign=KARANGA">Russian diplomat quits over war in Ukraine</a> BBC: Boris Bondarev walks out of his job in Geneva, saying he has never been more ashamed of Russia. 
  <p class="updated_time"> 10:57 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/french-banks-haiti-cic.html">How a French Bank Captured Haiti</a> NYT: It helped finance the Eiffel Tower as it drained millions from Haiti. The bank, C.I.C., won’t talk about it, but The Times tracked how much its investors made — and what Haiti lost. 
- <p class="updated_time"> 10:55 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
  <p class="updated_time"> 10:27 AM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100085358/medyka-ukrain-refugees-border-humanitarian-aid">The flow of Ukrainian refugees has changed direction in Poland. And so has aid relief</a> NPR: Medyka is the busiest border crossing between Poland and Ukraine. Aid workers flocked there to set up tents offering assistance when the war started. But these days, the flow of refugees has shifted. 
  <p class="updated_time"> 10:08 AM CT, May. 23 </p> 
@@ -210,6 +210,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:01 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/us/politics/georgia-elections-texas-arkansas-alabama-polls.html">What to Watch For in Today’s Elections in Georgia and Beyond</a> NYT: Alabama, Arkansas and Texas are also holding primaries and runoff elections that will offer new hints of where voters stand on national issues and Donald Trump’s standing in the Republican Party. 
+ <p class="updated_time"> 10:38 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
  <p class="updated_time"> 09:50 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/us/politics/justice-department-excessive-force.html">Justice Dept. Orders Agents to Intervene if They See Police Violence</a> NYT: The changes, the first to the department’s use-of-force policy in 18 years, follow the murder of George Floyd and other incidents of policy brutality. 
  <p class="updated_time"> 09:15 PM CT, May. 23 </p> 
@@ -284,8 +288,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/us/biden-baby-formula-shortage.html">U.S. Military Airlifts Baby Formula From Europe</a> NYT: A shipment that arrived on Sunday was the first of two intended to address shortages in the United States. Another shipment is set to arrive this week, the White House said. 
  <p class="updated_time"> 11:03 AM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/attorney-general-sues-mark-zuckerberg-cambridge-analytica-00034368">D.C. attorney general sues Mark Zuckerberg over Cambridge Analytica</a> Politico: Zuckerberg so far has avoided facing personal legal repercussions over his involvement in various Facebook scandals. 
- <p class="updated_time"> 10:55 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
  <p class="updated_time"> 06:18 AM CT, May. 23 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/23/herschel-its-mitch-00034335">Herschel, it’s Mitch</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:12 AM CT, May. 23 </p> 
