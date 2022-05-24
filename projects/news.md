@@ -9,47 +9,51 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:55 AM CT, May. 24 </p> 
+ <p class="updated_time"> 06:18 AM CT, May. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61564440?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia's jailed Navalny attacks invasion as judge rejects appeal</a> BBC: Russia's prominent opposition figure condemns a war "built on lies" as he faces many more years in jail. 
+ <p class="updated_time"> 06:09 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/05/24/world/russia-ukraine-war">Ukraine Live Updates: World Leaders Accuse Russia of Inciting Food Crisis</a> NYT: The European Commission president denounced Moscow for targeting Ukrainian grain warehouses and other key infrastructure. Russian forces pushed toward a key eastern city, where at least four people were killed in an artillery attack. 
- <p class="updated_time"> 05:42 AM CT, May. 24 </p> 
+ <p class="updated_time"> 06:09 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/05/23/world/haiti-france-ransom">Haiti ‘Ransom’ Project: Reactions and Updates</a> NYT: The New York Times’s publication of “The Ransom,” a report laying out history’s role in Haiti’s poverty, stirred immediate reaction. 
+ <p class="updated_time"> 06:07 AM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/business/china-covid-zero.html">In Covid Zero, Young Chinese Embrace ‘Run Philosophy’ </a> NYT: Many believe that they’re the most unlucky generation since the 1980s as Beijing’s persistent pursuit of the zero Covid policy wreaks havoc. 
  <p class="updated_time"> 05:25 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61562285?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Argentine President Fernández pays 'fine' over lockdown party</a> BBC: Leaked photos of the dinner party held while Covid lockdown measures were in force caused outrage. 
+ <p class="updated_time"> 05:24 AM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/biden-says-his-taiwan-policy-hasnt-changed-11653367016">Biden Says His Taiwan Policy Hasn’t Changed</a> WSJ: Biden Says His Taiwan Policy Hasn’t Changed 
  <p class="updated_time"> 05:21 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/on-a-remote-mountain-the-sistine-chapel-of-socialism-awaits-its-fate.html">On a Remote Mountain, the ‘Sistine Chapel of Socialism’ Awaits Its Fate</a> NYT: An enormous monument to the Communist Party in Bulgaria is now a decrepit ruin. The country is wrestling with how to deal with a symbol of an unwanted and, in many ways, deeply ugly past. 
  <p class="updated_time"> 05:15 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/russia-china-bombers-biden.html">Russia and China Held Military Exercise in East Asia as Biden Visited</a> NYT: The coordinated bomber flights were the first such activity the two nations had done together since President Vladimir V. Putin of Russia ordered the invasion of Ukraine. 
- <p class="updated_time"> 05:00 AM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/biden-says-his-taiwan-policy-hasnt-changed-11653367016">Biden Says His Taiwan Policy Hasn’t Changed</a> WSJ: Biden Says His Taiwan Policy Hasn’t Changed 
+ <p class="updated_time"> 05:03 AM CT, May. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61562307?at_medium=RSS&at_campaign=KARANGA">Luc Besson: French director cleared of rape charges by Paris court</a> BBC: The director of The Big Blue and Nikita was accused of repeatedly raping actress Sand Van Roy. 
  <p class="updated_time"> 05:00 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/uk-homes-for-ukraine-refugees.html">As U.K. Offers Homes to Ukrainians, Process Lags Behind Good Will</a> NYT: A plan that allows Britons to sponsor people fleeing the Russian invasion has been plagued by visa delays and safeguarding concerns. 
- <p class="updated_time"> 04:44 AM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/business/china-covid-zero.html">In Covid Zero, Young Chinese Embrace ‘Run Philosophy’ </a> NYT: Many believe that they’re the most unlucky generation since 1980s as Beijing’s persistent pursuit of the zero Covid policy wreaks havoc. 
- <p class="updated_time"> 04:00 AM CT, May. 24 </p> 
+ <p class="updated_time"> 04:24 AM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/russian-oligarch-roman-abramovichs-offshore-wealth-is-focus-of-new-probe-11653384602">Roman Abramovich’s Offshore Wealth Focus of New Probe</a> WSJ: Roman Abramovich’s Offshore Wealth Focus of New Probe 
  <p class="updated_time"> 04:00 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/magazine/ukraine-andrey-kurkov.html">How Ukraine’s Greatest Novelist Is Fighting for His Country</a> NYT: Andrey Kurkov has spent his life writing about realities so absurd they defy satire. It was perfect preparation for this moment. 
+ <p class="updated_time"> 03:24 AM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/smallpox-vaccine-enters-wider-production-amid-monkeypox-outbreak-11653329895">Smallpox Vaccine Enters Wider Production Amid Monkeypox Outbreak</a> WSJ: Smallpox Vaccine Enters Wider Production Amid Monkeypox Outbreak 
  <p class="updated_time"> 03:13 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61562305?at_medium=RSS&at_campaign=KARANGA">Erdogan blanks Greek prime minister over US remarks</a> BBC: Turkey's leader accuses Kyriakos Mitsotakis of trying to block sales of US fighter jets to Ankara. 
  <p class="updated_time"> 03:04 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/us-ukraine-howitzers.html">Powerful American Artillery Enters the Fight in Ukraine</a> NYT: The most lethal weapons the West has provided so far to Ukraine are now deployed in combat. Will they make a critical difference for Ukraine’s military in a war that has mostly become an artillery battle? 
- <p class="updated_time"> 03:00 AM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/smallpox-vaccine-enters-wider-production-amid-monkeypox-outbreak-11653329895">Smallpox Vaccine Enters Wider Production Amid Monkeypox Outbreak</a> WSJ: Smallpox Vaccine Enters Wider Production Amid Monkeypox Outbreak 
  <p class="updated_time"> 02:50 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61560784?at_medium=RSS&at_campaign=KARANGA">Quad Summit: World faces 'dark hour' with Ukraine war, says Biden</a> BBC: The US president met key Asia allies to discuss China's influence and differences over Russia's invasion. 
  <p class="updated_time"> 02:26 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/haitian-creole-history.html">Haitian Creole Speakers Welcome ‘The Ransom’ Translation</a> NYT: Haitian Creole is a national language, but Creole speakers can encounter prejudice, so some were thrilled to see “The Ransom” offered in Creole. 
  <p class="updated_time"> 02:25 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/americas/haiti-cic-french-bank.html">French Bank Will Study Role in Haiti After New York Times Report</a> NYT: The C.I.C. bank siphoned millions in fees and interest from the island’s treasury in the late 19th and early 20th centuries, an investigation found. 
- <p class="updated_time"> 02:00 AM CT, May. 24 </p> 
+ <p class="updated_time"> 02:24 AM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/hong-kongs-cardinal-zen-pleads-not-guilty-to-fund-filing-charge-11653379368">Hong Kong’s Cardinal Zen Pleads Not Guilty to Fund-Filing Charge</a> WSJ: Hong Kong’s Cardinal Zen Pleads Not Guilty to Fund-Filing Charge 
- <p class="updated_time"> 01:50 AM CT, May. 24 </p> 
+ <p class="updated_time"> 02:04 AM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden's Asia Trip Shows Challenges in Uniting Region</a> WSJ: The U.S. president pleases some with tough talk on Taiwan, but nations differ on trade, Russia. 
  <p class="updated_time"> 01:47 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/business-61560543?at_medium=RSS&at_campaign=KARANGA">Cost of living: Rise in food export curbs sparks concerns</a> BBC: Malaysia has become the latest country in Asia to cut food exports to keep prices down at home. 
  <p class="updated_time"> 01:37 AM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Russia Tries to Tighten Hold Over Occupied Areas of Ukraine</a> WSJ: As its military campaign to take more territory in the eastern Donbas region stalls in the face of fierce resistance, Moscow is attempting to hold on to areas it occupies already, with Ukrainian President Volodymyr Zelensky warning that fighting is set to intensify. 
- <p class="updated_time"> 01:00 AM CT, May. 24 </p> 
+ <p class="updated_time"> 01:24 AM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/czech-republic-gives-ukraine-attack-helicopters-and-repairs-its-vehicles-11653342703">Czech Republic Gives Ukraine Attack Helicopters and Repairs Its Vehicles</a> WSJ: Czech Republic Gives Ukraine Attack Helicopters and Repairs Its Vehicles 
  <p class="updated_time"> 12:36 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-61437156?at_medium=RSS&at_campaign=KARANGA">The changing face of the North Sea oil industry</a> BBC: Some workers are still banking on a career in oil and gas, others are focusing on a greener future. 
@@ -89,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/world/europe/russia-diplomat-un-geneva.html">Russian Diplomat Resigns Over Ukraine War</a> NYT: Boris Bondarev, a counselor at the Russian mission in Geneva, quit in a rare example of an official breaking with the Kremlin over its war in Ukraine. 
  <p class="updated_time"> 04:46 PM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100592132/united-nations-food-shortages">With food prices climbing, the U.N. is warning of crippling global shortages</a> NPR: Fears of a global food crisis are growing because of the shock of the war in Ukraine, climate change and rising inflation. 
- <p class="updated_time"> 04:41 PM CT, May. 23 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61549050?at_medium=RSS&at_campaign=KARANGA">Unilateral action on NI 'will not work', US warns</a> BBC: A delegation from the US Congress is visiting the UK and Ireland amid heightened tensions over the NI Protocol. 
  <p class="updated_time"> 04:27 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/business/economy/china-trade-tariffs-biden.html">Debate Over Tariffs Reveals Biden’s Difficulties on China Trade</a> NYT: Sixteen months into the Biden presidency, U.S. officials are still divided over what to do about a trade legacy left by President Donald J. Trump. 
  <p class="updated_time"> 04:26 PM CT, May. 23 </p> 
@@ -115,8 +117,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/world/europe/france-woman-prime-minister-elisabeth-borne.html">France’s New Prime Minister Overcame Tragedy in Her Youth</a> NYT: Élisabeth Borne’s father, a World War II resistance member and a Holocaust survivor, killed himself when she was 11, an experience she has rarely discussed in detail. 
  <p class="updated_time"> 02:34 PM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100767629/ukraine-law-fund-war-selling-russian-assets">Ukraine's new law will let it fund the war effort by selling Russian assets</a> NPR: Just last week, a Ukrainian court seized hundreds of millions of dollars' worth of assets owned by a Russian oligarch. 
- <p class="updated_time"> 02:22 PM CT, May. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61554996?at_medium=RSS&at_campaign=KARANGA">Southern Baptist Convention vilified sex abuse survivors - report</a> BBC: Survivors of sex abuse at the hands of clergy were stonewalled and vilified, a new report finds. 
  <p class="updated_time"> 02:12 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/imran-khan-sexual-assault-sentencing-parliament.html">Former British Lawmaker Sentenced to 18 Months for Sexual Assault</a> NYT: A 15-year-old boy had reported the assault in 2008 but decided not to pursue the case until he saw that Imran Ahmad Khan had been elected to Parliament in 2019, prosecutors said. 
  <p class="updated_time"> 01:26 PM CT, May. 23 </p> 
@@ -338,8 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/22/trump-mo-brooks-alabama-senate-00034249">Trump ditched Mo Brooks for going ‘woke.’ Now he’s rising again in the polls.</a> Politico: Two months after Donald Trump withdrew his endorsement, the Alabama congressman could very well advance to a Senate runoff. 
  <p class="updated_time"> 09:11 AM CT, May. 21 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/21/sean-patrick-maloney-dodges-a-bullet-00034238"> Sean Patrick Maloney dodges a bullet</a> Politico Playbook: And President Joe Biden visits South Korea. 
- <p class="updated_time"> 06:01 AM CT, May. 21 </p> 
- <a href="https://www.politico.com/news/2022/05/21/latinos-georgia-battleground-state-00034228">Georgia's Latino population keeps growing. Why are there so few in office?</a> Politico: The key swing state has a stunningly small number of Latino candidates and officeholders. 
 
 
 </details>
