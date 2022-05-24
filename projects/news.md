@@ -9,32 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:03 PM CT, May. 23 </p> 
+ <p class="updated_time"> 11:41 PM CT, May. 23 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61548490?at_medium=RSS&at_campaign=KARANGA">Ten dead, dozens saved after 10-storey building collapses in Iran - reports</a> BBC: Pictures show concrete floors and steel beams that crushed cars after falling on to the street below. 
+ <p class="updated_time"> 11:25 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/23/world/haiti-france-ransom">Haiti ‘Ransom’ Project: Reactions and Updates</a> NYT: The New York Times’s publication of “The Ransom,” a report laying out history’s role in Haiti’s poverty, stirred immediate reaction. 
+ <p class="updated_time"> 11:23 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/us/politics/biden-taiwan-comments.html">Biden Veers Off Script on Taiwan. It’s Not the First Time.</a> NYT: Offhand remarks that vary from the official talking points have become a feature of the Biden presidency, even as they leave his staff scrambling to spin them away afterward. 
+ <p class="updated_time"> 11:23 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/live/2022/05/23/world/russia-ukraine-war">Ukraine Live Updates: Zelensky Pushes for Stronger Front Against Russia</a> NYT: The Ukrainian president addressed the World Economic Forum in Davos, Switzerland, where Russia was a pariah. A midlevel Russian diplomat broke ranks and resigned with a scathing statement on the war. 
+ <p class="updated_time"> 10:56 PM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/biden-says-u-s-would-intervene-militarily-if-china-invaded-taiwan-11653286228">Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan</a> WSJ: Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan 
  <p class="updated_time"> 10:38 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
- <p class="updated_time"> 10:18 PM CT, May. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61548490?at_medium=RSS&at_campaign=KARANGA">Dozens feared trapped after 10-storey building collapses in Iran</a> BBC: Pictures show concrete floors and steel beams that crushed cars after falling on to the street below. 
- <p class="updated_time"> 10:17 PM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/biden-says-u-s-would-intervene-militarily-if-china-invaded-taiwan-11653286228">Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan</a> WSJ: Biden Says U.S. Would Intervene Militarily if China Invaded Taiwan 
- <p class="updated_time"> 09:17 PM CT, May. 23 </p> 
+ <p class="updated_time"> 09:56 PM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/russian-soldier-awaits-verdict-in-ukraine-war-crimes-trial-11653295495">Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial</a> WSJ: Russian Soldier Sentenced to Life in Prison in Ukraine War-Crimes Trial 
- <p class="updated_time"> 08:17 PM CT, May. 23 </p> 
+ <p class="updated_time"> 08:56 PM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/ukraines-forces-sink-russian-river-crossings-inflicting-heavy-damage-11653301800">Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage</a> WSJ: Ukraine’s Forces Sink Russian River Crossings, Inflicting Heavy Damage 
- <p class="updated_time"> 07:17 PM CT, May. 23 </p> 
+ <p class="updated_time"> 07:56 PM CT, May. 23 </p> 
  <a href="https://www.wsj.com/articles/australias-new-leader-anthony-albanese-promises-to-unite-country-11653309786">Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite</a> WSJ: Australia’s New Leader, Once a Left-Wing Firebrand, Promises to Unite 
  <p class="updated_time"> 07:13 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/france-minister-rape-allegations-damien-abad.html">French Minister Damien Abad Is Accused of Rape by 2 Women</a> NYT: The women’s allegations against France’s new minister for solidarity and disabled people come amid a growing reckoning over sexist and sexually violent behavior by political figures. 
- <p class="updated_time"> 07:05 PM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/us/politics/biden-taiwan-comments.html">Biden Veers Off Script on Taiwan. It’s Not the First Time.</a> NYT: Offhand remarks that vary from the official talking points have become a feature of the Biden presidency, even as they leave his staff scrambling to spin them away afterward. 
+ <p class="updated_time"> 06:56 PM CT, May. 23 </p> 
+ <a href="https://www.wsj.com/articles/ecb-signals-end-to-negative-interest-rates-by-september-11653299391">Lagarde Signals End to ECB’s Negative Interest Rates Experiment</a> WSJ: Lagarde Signals End to ECB’s Negative Interest Rates Experiment 
  <p class="updated_time"> 06:43 PM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61559568?at_medium=RSS&at_campaign=KARANGA">Heard's team change course on Johnny Depp testimony</a> BBC: Supermodel Kate Moss is expected to take the stand in the final days of the high-profile trial. 
  <p class="updated_time"> 06:42 PM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/business-61560385?at_medium=RSS&at_campaign=KARANGA">Airbnb to quit China as lockdowns restrict tourism</a> BBC: Stays in China made up only 1% of Airbnb's revenue for the last few years, a source said. 
  <p class="updated_time"> 06:38 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/health/monkeypox-vaccines.html">As Monkeypox Cases Rise, Nations Are Urged to Examine Vaccine Stores</a> NYT: The United States has stockpiled millions of doses of two smallpox vaccines, also effective against monkeypox. But the outbreaks so far are clustered in other countries. 
- <p class="updated_time"> 06:17 PM CT, May. 23 </p> 
- <a href="https://www.wsj.com/articles/ecb-signals-end-to-negative-interest-rates-by-september-11653299391">Lagarde Signals End to ECB’s Negative Interest Rates Experiment</a> WSJ: Lagarde Signals End to ECB’s Negative Interest Rates Experiment 
  <p class="updated_time"> 06:12 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-china.html">Biden Pledges to Defend Taiwan if It Faces a Chinese Attack</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said that to protect the island democracy, he would go beyond what the U.S. has done for Ukraine. 
  <p class="updated_time"> 06:05 PM CT, May. 23 </p> 
@@ -45,14 +47,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/world/europe/russia-ukraine-war-zelensky.html">Zelensky Urges Even Harder Line on Russia as Allies Work to Remain United</a> NYT: A midlevel Russian diplomat broke ranks and resigned with a scathing statement on the war, and President Volodymyr Zelensky called on world leaders to turn up the pressure. 
  <p class="updated_time"> 05:31 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/boris-bondarev-russia-ukraine-war.html">A Russian Diplomat, Boris Bondarev, Speaks Out on the Ukraine War</a> NYT: Boris Bondarev, a Russian official who resigned over the war in Ukraine, said his colleagues were focused more on pleasing their superiors than on delivering accurate information to Moscow. 
- <p class="updated_time"> 05:26 PM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/live/2022/05/23/world/haiti-france-ransom">Haiti ‘Ransom’ Project: Reactions and Updates</a> NYT: The New York Times’s publication of “The Ransom,” a report laying out history’s role in Haiti’s poverty, stirred immediate reaction. 
  <p class="updated_time"> 05:25 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/haitian-reaction-ransom-articles.html">Haitians React to ‘Ransom’ Project</a> NYT: Some Haitians say the world needs to understand the history that brought them to their present-day straits. 
  <p class="updated_time"> 05:17 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/russia-diplomat-un-geneva.html">Russian Diplomat Resigns Over Ukraine War</a> NYT: Boris Bondarev, a counselor at the Russian mission in Geneva, quit in a rare example of an official breaking with the Kremlin over its war in Ukraine. 
  <p class="updated_time"> 04:46 PM CT, May. 23 </p> 
- <a href="https://www.npr.org/2022/05/23/1100592132/united-nations-food-shortages">With food prices continuing to climb, the UN is warning of crippling global shortages</a> NPR: Fears of a global food crisis are growing because of the shock of the war in Ukraine, climate change and rising inflation. 
+ <a href="https://www.npr.org/2022/05/23/1100592132/united-nations-food-shortages">With food prices climbing, the U.N. is warning of crippling global shortages</a> NPR: Fears of a global food crisis are growing because of the shock of the war in Ukraine, climate change and rising inflation. 
  <p class="updated_time"> 04:41 PM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-61549050?at_medium=RSS&at_campaign=KARANGA">Unilateral action on NI 'will not work', US warns</a> BBC: A delegation from the US Congress is visiting the UK and Ireland amid heightened tensions over the NI Protocol. 
  <p class="updated_time"> 04:27 PM CT, May. 23 </p> 
@@ -197,8 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/21/world/americas/psychedelic-therapy-female-veterans.html">‘I Want to Reset My Brain’: Female Veterans Turn to Psychedelic Therapy</a> NYT: Traumatized by war and sexual assaults, some U.S. veterans and veterans’ spouses are seeking help in a Mexican clinic that treats depression and addiction with potent hallucinogens like toad poison. 
  <p class="updated_time"> 04:57 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/americas/haiti-history-colonized-france.html">The Root of Haiti’s Misery: Reparations to Enslavers</a> NYT: In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now. 
- <p class="updated_time"> 11:56 AM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/2022/05/21/world/asia/taliban-afghanistan-women-hijab.html">The Taliban Pressure Women in Afghanistan to Cover Up</a> NYT: The militant group in charge of the country is aggressively enforcing a decree requiring coverings from head to toe and crushing rare public protests against the order. 
  <p class="updated_time"> 11:29 AM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/americas/takeaways-haiti-reparations-france.html">How Much Haiti’s Freedom Cost: Takeaways From a Times Series</a> NYT: How did the modern world’s most successful slave revolt give birth to a desperately poor nation? Here is a summary of what a team of New York Times correspondents found out. 
  <p class="updated_time"> 10:20 AM CT, May. 21 </p> 
@@ -210,6 +208,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:42 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/us/politics/david-perdue-stacey-abrams-racist-remarks.html">David Perdue Makes Racist Remarks About Stacey Abrams in Georgia</a> NYT: Mr. Perdue, who badly trails Gov. Brian Kemp in the Republican primary for governor, accused Ms. Abrams of “demeaning her own race” in describing the state’s problems. 
+ <p class="updated_time"> 11:30 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/us/politics/georgia-voter-turnout.html">Early Voting Surges as Georgia Watches for Impact of Election Law</a> NYT: Republicans argued that their new election law was not suppressing votes. Democrats said voters were simply overcoming new hurdles. Ultimately, it is too early to draw firm conclusions. 
+ <p class="updated_time"> 11:23 PM CT, May. 23 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/us/politics/biden-taiwan-comments.html">Biden Veers Off Script on Taiwan. It’s Not the First Time.</a> NYT: Offhand remarks that vary from the official talking points have become a feature of the Biden presidency, even as they leave his staff scrambling to spin them away afterward. 
  <p class="updated_time"> 11:01 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/georgia-elections-texas-arkansas-alabama-polls.html">What to Watch For in Today’s Elections in Georgia and Beyond</a> NYT: Alabama, Arkansas and Texas are also holding primaries and runoff elections that will offer new hints of where voters stand on national issues and Donald Trump’s standing in the Republican Party. 
  <p class="updated_time"> 10:38 PM CT, May. 23 </p> 
@@ -226,8 +230,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/us/politics/ronny-jackson-alex-mooney-ethics-complaints.html">Ronny Jackson Used Campaign Funds for Exclusive Club, Ethics Office Alleges</a> NYT: The office said the House Republican from Texas may have broken campaign finance regulations. It also said Representative Alex X. Mooney, Republican of West Virginia, may have acted improperly. 
  <p class="updated_time"> 07:57 PM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/southern-baptists-sex-abusers-00034613">Southern Baptists face push for public list of sex abusers</a> Politico: The creation of an “Offender Information System” was one of the key recommendations in a report released Sunday. 
- <p class="updated_time"> 07:05 PM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/us/politics/biden-taiwan-comments.html">Biden Veers Off Script on Taiwan. It’s Not the First Time.</a> NYT: Offhand remarks that vary from the official talking points have become a feature of the Biden presidency, even as they leave his staff scrambling to spin them away afterward. 
  <p class="updated_time"> 06:51 PM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/jan-6-committee-court-test-trump-appointees-00034592">Select committee effort to obtain RNC files faces appeals court test</a> Politico: Time is also running short for the House Jan. 6 panel. 
  <p class="updated_time"> 06:43 PM CT, May. 23 </p> 
@@ -236,8 +238,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/us/politics/georgia-abrams-kemp-perdue-warnock-walker.html">Georgia, a New Battleground State, Is Once Again the Center of Attention</a> NYT: Republicans have fought bitter primaries in Georgia. But just two years after Democrats flipped the state, it’s trending back in the G.O.P.’s direction. 
  <p class="updated_time"> 06:25 PM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/new-york-redistricting-nadler-maloney-primary-00034521">A Manhattan clash of the titans: Redistricting pits Nadler vs. Maloney in primary</a> Politico: Rep. Carolyn Maloney said she was surprised when Rep. Jerry Nadler announced he was running in New York's 12th District, something he didn't mention when they spoke after the special master released a preliminary set of maps last week. Nadler disputes her account. 
- <p class="updated_time"> 06:14 PM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/us/politics/david-perdue-stacey-abrams-racist-remarks.html">David Perdue Makes Racist Remarks About Stacey Abrams in Georgia</a> NYT: Mr. Perdue, who badly trails Gov. Brian Kemp in the Republican primary for governor, accused Ms. Abrams of “demeaning her own race” in describing the state’s problems. 
  <p class="updated_time"> 06:12 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-china.html">Biden Pledges to Defend Taiwan if It Faces a Chinese Attack</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said that to protect the island democracy, he would go beyond what the U.S. has done for Ukraine. 
  <p class="updated_time"> 06:09 PM CT, May. 23 </p> 
@@ -270,8 +270,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/23/1100828765/candidates-make-final-pitches-to-georgia-voters-ahead-of-primary-elections">Candidates make final pitches to Georgia voters ahead of primary elections</a> NPR: In Georgia's primary, one of the people everyone is talking about isn't on the ballot. Former President Trump has endorsed thirteen candidates there. 
  <p class="updated_time"> 03:10 PM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100828744/president-biden-says-the-u-s-will-defend-taiwan-if-china-invades">President Biden says the U.S. will defend Taiwan if China invades</a> NPR: President Biden said that the U.S. is committed to defend Taiwan in case of an attack by mainland China. China claims the island as its own, and has threatened to invade if it declares independence. 
- <p class="updated_time"> 03:03 PM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/us/politics/georgia-voter-turnout.html">Early Voting Surges as Georgia Watches for Impact of Election Law</a> NYT: Republicans argued that their new election law was not suppressing votes. Democrats said voters were simply overcoming new hurdles. Ultimately, it is too early to draw firm conclusions. 
  <p class="updated_time"> 02:20 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/us/politics/supreme-court-ineffective-counsel.html">Supreme Court Limits Inmates’ Challenges Based on Bad Legal Help</a> NYT: Splitting 6 to 3, the justices ruled that federal courts may not hold evidentiary hearings in suits from state prisoners claiming ineffective assistance of counsel. 
  <p class="updated_time"> 01:55 PM CT, May. 23 </p> 
