@@ -9,10 +9,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:56 PM CT, May. 24 </p> 
+ <p class="updated_time"> 04:20 PM CT, May. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61573377?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Fifteen killed in attack at US primary school</a> BBC: Texas' governor says the teen gunman "horrifically, incomprehensibly" killed 14 students and a teacher. 
+ <p class="updated_time"> 04:05 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/05/24/world/russia-ukraine-war">Live Updates: World Leaders Call for Action to Free Trapped Ukrainian Food</a> NYT: Russia’s blockade of seaports and attacks on grain warehouses have choked off one of the world’s breadbaskets. Western officials are accusing Russia of using food as a weapon. 
- <p class="updated_time"> 03:48 PM CT, May. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61573377?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Fifteen killed in attack at US primary school</a> BBC: Texas Governor Greg Abbott confirms the death toll from Tuesday's shooting in the city of Uvalde, Texas. 
+ <p class="updated_time"> 04:00 PM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-donbas.html">Russian Forces Pummel Key Eastern Ukraine Town</a> NYT: The eastern Ukrainian town of Sievierodonetsk is nearly surrounded by Russian forces. New York Times reporters found devastation on nearly every street. 
+ <p class="updated_time"> 04:00 PM CT, May. 24 </p> 
+ <a href="https://www.npr.org/2022/05/24/1100986158/3-months-into-the-russia-ukraine-war-what-happened-today-may-24">3 months into the Russia-Ukraine war: What happened today (May 24)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:48 PM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1101040250/many-nations-say-they-wont-go-to-the-summit-of-the-americas-unless-all-are-invit">Many nations say they won't go to the Summit of the Americas unless all are invited</a> NPR: Will the U.S. be able to salvage the remnants of the Summit of the Americas? And what does the growing boycott mean for U.S. influence in Latin America? 
  <p class="updated_time"> 03:44 PM CT, May. 24 </p> 
@@ -25,26 +29,26 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/24/1101003523/monkeypox-covid-19-differences">Monkeypox isn't like COVID-19 — and that's a good thing</a> NPR: Although monkeypox's recent spread has caused concern, its similarities to smallpox have given the public health world a head start on combating it. 
  <p class="updated_time"> 03:36 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/birth-rate-increase.html">U.S. Birthrate Ticks Up 1 Percent, Halting a Steady Decline</a> NYT: Data from the federal government showed last year’s increase was the first since 2014 and followed a sharp drop in 2020, when the coronavirus pandemic hit. 
- <p class="updated_time"> 03:34 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-donbas.html">Russian Forces Pummel Key Eastern Ukraine Town</a> NYT: A New York Times reporting team visited the eastern Ukrainian town of Sievierodonetsk and found devastation in a town nearly surrounded by enemy forces. 
  <p class="updated_time"> 03:31 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/covid-omicron-cases.html">Omicron Subvariant BA.2.12.1 Becomes Dominant in U.S. Virus Cases</a> NYT: The development comes as the United States recently began averaging more than 100,000 new confirmed cases per day again, according to a New York Times database, for the first time since February. 
  <p class="updated_time"> 03:27 PM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1101040235/a-ukrainian-medic-recorded-footage-of-her-time-in-mariupol-then-sent-it-to-the-a">A Ukrainian medic recorded footage of her time in Mariupol — then sent it to the AP</a> NPR: NPR's Sacha Pfeiffer talks with Lori Hinnant, investigative correspondent with the Associated Press, about the story of a Ukrainian medic who recorded footage of her time in Mariupol. 
- <p class="updated_time"> 02:59 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Russia Tries to Tighten Grip on Occupied Areas of Ukraine</a> WSJ: Russia Tries to Tighten Grip on Occupied Areas of Ukraine 
+ <p class="updated_time"> 03:24 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv</a> WSJ: Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv 
  <p class="updated_time"> 02:55 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/haiti-wall-street-us-banks.html">Invade Haiti, Wall Street Urged. The U.S. Obliged.</a> NYT: The long occupation of Haiti began with a drumbeat from the bank that became Citigroup, decades of diplomatic correspondence and other records show. 
  <p class="updated_time"> 02:54 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-mayor-killed.html">Ukraine Charges 8 Russian Fighters in Killings of Village Mayor and Family </a> NYT: The bodies of the mayor, her husband and her son were found after Russian forces retreated in early April. 
  <p class="updated_time"> 02:40 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/russian-debt-treasury.html">U.S. Will Start Blocking Russia’s Bond Payments to American Investors</a> NYT: The Biden administration’s escalation of sanctions could lead to Russia’s first default on foreign debt in a century. 
+ <p class="updated_time"> 02:24 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
  <p class="updated_time"> 02:06 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/elizabeth-line-london-tube-opens.html">Eager London Riders Get Up Early for Elizabeth Line’s Debut</a> NYT: The sleek new tube line officially opened Tuesday, drawing train enthusiasts and awing normally stoic London commuters. 
- <p class="updated_time"> 01:59 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
  <p class="updated_time"> 01:50 PM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61571612?at_medium=RSS&at_campaign=KARANGA">Uyghur detention: Leaked files reveal locations of lost loved ones</a> BBC: The hacked files include information on missing people, seen for the first time by their family members. 
+ <p class="updated_time"> 01:24 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Inflation, Rising Rates Curb Global Economic Growth</a> WSJ: Inflation, Rising Rates Curb Global Economic Growth 
  <p class="updated_time"> 01:15 PM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1100957881/free-her-face-afghan-tv-anchors-face-coverings-taliban">Male Afghan TV anchors cover faces in solidarity with women after a Taliban order</a> NPR: Male anchors in Afghanistan are wearing masks on air in solidarity with their female colleagues. This is the latest Taliban order to threaten the freedoms and careers of Afghan women. 
  <p class="updated_time"> 01:14 PM CT, May. 24 </p> 
@@ -53,30 +57,28 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/americas/haiti-history-colonized-france.html">The Root of Haiti’s Misery: Reparations to Enslavers</a> NYT: In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now. 
  <p class="updated_time"> 01:00 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/russia-china-bombers-biden.html">Russia and China Held Military Exercise in East Asia as Biden Visited</a> NYT: The coordinated bomber flights were the first training activity the two nations had done together since President Vladimir V. Putin of Russia ordered the invasion of Ukraine. 
- <p class="updated_time"> 12:59 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Inflation, Rising Rates Curb Global Economic Growth</a> WSJ: Inflation, Rising Rates Curb Global Economic Growth 
  <p class="updated_time"> 12:54 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/thailand-wwii-american-remains.html">In This Small Thai Village, American History Runs Deep</a> NYT: In 1944, a U.S. military plane crashed in a spot the locals named “Deadman’s Torso Flat.” A team has found remains that it hopes are those of the airman. 
  <p class="updated_time"> 12:44 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-food-supply.html">Russia Is Accused of Using Food as ‘Blackmail’ in Ukraine War</a> NYT: The West is reluctant to risk a direct military confrontation with Russia, and the world’s food distribution network is already creaky because of pandemic-related supply disruptions. 
- <p class="updated_time"> 11:59 AM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-moved-assets-to-an-island-in-the-english-channel-now-he-faces-a-probe-11653403549">Roman Abramovich Faces Probe After Moving Assets to an Island in the English Channel</a> WSJ: Roman Abramovich Faces Probe After Moving Assets to an Island in the English Channel 
- <p class="updated_time"> 10:59 AM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/in-colombia-former-leftist-guerrilla-leads-presidential-hopefuls-11653400801">In Colombia, Former Leftist Guerrilla Leads Presidential Hopefuls</a> WSJ: In Colombia, Former Leftist Guerrilla Leads Presidential Hopefuls 
+ <p class="updated_time"> 12:24 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-moved-assets-to-an-island-in-the-english-channel-now-he-faces-a-probe-11653403549">The Island Where Roman Abramovich Kept $7 Billion Is Now Scrutinizing the Russian Oligarch</a> WSJ: The Island Where Roman Abramovich Kept $7 Billion Is Now Scrutinizing the Russian Oligarch 
+ <p class="updated_time"> 11:24 AM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-s-begins-denying-u-s-entry-toafghans-housed-on-military-base-in-kosovo-11653415370">U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo</a> WSJ: U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo 
  <p class="updated_time"> 10:46 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61568999?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Put values over profits, Nato chief tells countries</a> BBC: Jens Stoltenberg says the Ukraine war has highlighted the cost of trade with "authoritarian regimes". 
  <p class="updated_time"> 10:36 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61560784?at_medium=RSS&at_campaign=KARANGA">Ukraine war: World faces 'dark hour', Biden tells Quad summit</a> BBC: The US president meets key Asia allies to discuss China's influence and differences over Russia's invasion. 
  <p class="updated_time"> 08:33 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/23/us/politics/biden-taiwan-comments.html">Biden Veers Off Script on Taiwan. It’s Not the First Time.</a> NYT: Offhand remarks that vary from the official talking points have become a feature of the Biden presidency, even as they leave his staff scrambling to spin them away afterward. 
+ <p class="updated_time"> 08:00 AM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/in-colombia-former-leftist-guerrilla-leads-presidential-hopefuls-11653400801">In Colombia, Former Leftist Guerrilla Leads Presidential Hopefuls</a> WSJ: Gustavo Petro, who holds a commanding advantage in polls, would be a rare antiestablishment leader for U.S.’s top regional ally. 
  <p class="updated_time"> 07:46 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61567681?at_medium=RSS&at_campaign=KARANGA">Deepfake of murdered teen created to aid cold case</a> BBC: Sedar Soares was shot dead outside a Dutch metro station in 2003, his killer has not been found. 
  <p class="updated_time"> 07:26 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61562543?at_medium=RSS&at_campaign=KARANGA">Israel says Hamas plot to kill prominent politician in Jerusalem thwarted</a> BBC: Three Palestinians are accused of planning to kill a politician, kidnap soldiers and bomb a railway. 
  <p class="updated_time"> 06:28 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61563026?at_medium=RSS&at_campaign=KARANGA">Executions spiked in Iran in Saudi Arabia in 2021 - Amnesty</a> BBC: Iran accounted for 314 of the 579 executions recorded worldwide, Amnesty International says. 
- <p class="updated_time"> 06:18 AM CT, May. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61564440?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia's jailed Navalny attacks invasion as judge rejects appeal</a> BBC: Russia's prominent opposition figure condemns a war "built on lies" as he faces many more years in jail. 
  <p class="updated_time"> 05:25 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61562285?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Argentine President Fernández pays 'fine' over lockdown party</a> BBC: Leaked photos of the dinner party held while Covid lockdown measures were in force caused outrage. 
  <p class="updated_time"> 05:21 AM CT, May. 24 </p> 
@@ -169,8 +171,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/23/1100731559/russian-diplomat-un-quits-ashamed">A Russian diplomat to the U.N. quits, saying he is ashamed of his country</a> NPR: "Never have I been so ashamed of my country as on Feb. 24 of this year," veteran Russian diplomat Boris Bondarev wrote, alluding to the date of Russia's invasion. 
  <p class="updated_time"> 10:57 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/french-banks-haiti-cic.html">How a French Bank Captured Haiti</a> NYT: It helped finance the Eiffel Tower as it drained millions from Haiti. The bank, C.I.C., won’t talk about it, but The Times tracked how much its investors made — and what Haiti lost. 
- <p class="updated_time"> 10:27 AM CT, May. 23 </p> 
- <a href="https://www.npr.org/2022/05/23/1100085358/medyka-ukrain-refugees-border-humanitarian-aid">The flow of Ukrainian refugees has changed direction in Poland. And so has aid relief</a> NPR: Medyka is the busiest border crossing between Poland and Ukraine. Aid workers flocked there to set up tents offering assistance when the war started. But these days, the flow of refugees has shifted. 
  <p class="updated_time"> 09:04 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/asia/iran-revolutionary-guard-killed.html">A Senior Member of Iran’s Revolutionary Guard Is Killed in Tehran</a> NYT: No one claimed responsibility for the assassination of Col. Sayad Khodayee, which took place in broad daylight outside his home. 
  <p class="updated_time"> 07:00 AM CT, May. 23 </p> 
@@ -194,22 +194,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:18 PM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/us/politics/police-executive-order-george-floyd.html">Biden Set to Issue Policing Order on Anniversary of Floyd Killing</a> NYT: The order would direct all federal agencies to revise their use-of-force policies and create a national registry of officers fired for misconduct. 
+ <p class="updated_time"> 04:00 PM CT, May. 24 </p> 
+ <a href="https://www.npr.org/2022/05/24/1100986158/3-months-into-the-russia-ukraine-war-what-happened-today-may-24">3 months into the Russia-Ukraine war: What happened today (May 24)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:48 PM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1101040250/many-nations-say-they-wont-go-to-the-summit-of-the-americas-unless-all-are-invit">Many nations say they won't go to the Summit of the Americas unless all are invited</a> NPR: Will the U.S. be able to salvage the remnants of the Summit of the Americas? And what does the growing boycott mean for U.S. influence in Latin America? 
  <p class="updated_time"> 03:44 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/biden-taiwan-china-australia.html">Biden’s Words on Taiwan Leave Allies in an Awkward Spot</a> NYT: Ahead of a summit with Australia, India and Japan, an off-the-cuff vow to defend the island militarily against China complicates diplomacy, particularly for Australia. 
+ <p class="updated_time"> 03:41 PM CT, May. 24 </p> 
+ <a href="https://www.politico.com/news/2022/05/24/uvalde-texas-school-shooting-00034864">Texas governor: 15 killed in school shooting; gunman also dead</a> Politico: The mass shooting took place at Robb Elementary School in Uvalde. 
  <p class="updated_time"> 02:40 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/russian-debt-treasury.html">U.S. Will Start Blocking Russia’s Bond Payments to American Investors</a> NYT: The Biden administration’s escalation of sanctions could lead to Russia’s first default on foreign debt in a century. 
  <p class="updated_time"> 02:33 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/scotus-marshal-roe-opinion-00034670">Supreme Court marshal digs in on Roe opinion leak</a> Politico: The launch of the probe comes as Chief Justice John Roberts tries to uphold the integrity of the court. 
  <p class="updated_time"> 02:26 PM CT, May. 24 </p> 
- <a href="https://www.politico.com/news/2022/05/24/commission-recommends-nine-new-names-for-army-bases-that-honor-confederates-00034799">Commission recommends nine new names for Army bases that honor Confederates</a> Politico: The eight-member panel is required to submit its final report to Congress by Oct. 1. 
+ <a href="https://www.politico.com/news/2022/05/24/commission-recommends-nine-new-names-for-army-bases-that-honor-confederates-00034799">Commission recommends 9 new names for Army bases that honor Confederates</a> Politico: The eight-member panel is required to submit its final report to Congress by Oct. 1. 
  <p class="updated_time"> 01:47 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/biden-final-decision-iran-revolutionary-guard-terrorist-00034789">Biden made final decision to keep Iran’s IRGC on terrorist list, sources say</a> Politico: The president relayed his commitment to Israel’s prime minister. 
  <p class="updated_time"> 01:00 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/russia-china-bombers-biden.html">Russia and China Held Military Exercise in East Asia as Biden Visited</a> NYT: The coordinated bomber flights were the first training activity the two nations had done together since President Vladimir V. Putin of Russia ordered the invasion of Ukraine. 
- <p class="updated_time"> 12:18 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/us/politics/police-executive-order-george-floyd.html">Biden Set to Issue Policing Order on Anniversary of Floyd Killing</a> NYT: The order would direct all federal agencies to revise their use-of-force policies and create a national registry of officers fired for misconduct. 
  <p class="updated_time"> 12:07 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/sales-of-new-homes-plunge-in-april-00034708">'Recession warning': Sales of new homes plunge in April</a> Politico: New-home sales fell 16.6 percent last month from the revised March figures, according to Census Bureau data released Tuesday. 
  <p class="updated_time"> 10:11 AM CT, May. 24 </p> 
@@ -296,12 +300,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/23/1100827985/madison-cawthorn-house-ethics-investigation-crypto">Rep. Madison Cawthorn faces a House Ethics investigation</a> NPR: The first-term congressman, who lost his reelection bid in last week's primary, is accused of promoting a cryptocurrency he had a financial interest in and an "improper relationship" with a staffer. 
  <p class="updated_time"> 03:57 PM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100808777/russia-ukraine-war-what-happened-today-may-23">Russia-Ukraine war: What happened today (May 23)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:42 PM CT, May. 23 </p> 
- <a href="https://www.npr.org/2022/05/23/1100831545/appeals-court-florida-social-media-law-unconstitutional-desantis">An appeals court finds Florida's social media law unconstitutional</a> NPR: In a blow to Gov. Ron DeSantis, a three-judge panel of the 11th U.S. Circuit Court of Appeals said social media companies' moderation and curation efforts were protected by the First Amendment. 
  <p class="updated_time"> 02:20 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/us/politics/supreme-court-ineffective-counsel.html">Supreme Court Limits Inmates’ Challenges Based on Bad Legal Help</a> NYT: Splitting 6 to 3, the justices ruled that federal courts may not hold evidentiary hearings in suits from state prisoners claiming ineffective assistance of counsel. 
- <p class="updated_time"> 01:55 PM CT, May. 23 </p> 
- <a href="https://www.politico.com/news/2022/05/23/blinken-china-strategy-speech-00034428">Blinken to unveil long-awaited China strategy in Thursday speech</a> Politico: The strategy is expected to build on former President Donald Trump's China policy, experts say. 
  <p class="updated_time"> 01:27 PM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/fbi-trump-russia-secret-server-claims-00034434">Jurors hear contrasting stories about FBI handling of Trump-Russia secret server claims</a> Politico: Agents detail their role in probe prompted by attorney Michael Sussmann, who is on trial over an alleged false statement to the FBI. 
  <p class="updated_time"> 11:03 AM CT, May. 23 </p> 
