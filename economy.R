@@ -1361,6 +1361,96 @@ ggsave("plots/champaign_housing_mobile.png",
        width = 3, height = 8*(628/1200), dpi = 320)
 
 # Illinois ----
+
+
+## unemployment rate ----
+data <- fredr(series_id = "ILUR")
+recent_data <- data %>%
+  filter(date > recent_years) %>%
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
+
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = value),
+              tooltip = list(valueSuffix = "%"),
+              name = "Rate") %>%
+  hc_title(text = "Unemployment Rate") %>%
+  hc_yAxis(title = "") %>%
+  hc_xAxis(title = "") %>%
+  hc_credits(
+    enabled = TRUE,
+    text = paste("Source: U.S. Bureau of Labor Statistics. Latest data:",
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/ILUR") %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )%>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)# %>%
+#hc_navigator(enabled = TRUE) 
+fig
+saveWidget(widget = fig, file = "interactive/il_unemployment_rate.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
+
+## employment -----
+data <- fredr(series_id = "ILNA")%>%
+  mutate(change = value - lag(value))
+recent_data <- data %>%
+  filter(date > recent_years) %>%
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE))) 
+
+fig <- hchart(data,
+              type = "line", 
+              hcaes(x = date,
+                    y = round(value*1000,1)),
+              name = "Total",
+              color = "black",
+              yAxis = 0) %>%
+  hc_yAxis_multiples(create_axis(naxis = 2, heights = c(1, 1),
+                                 title = list(text = NULL))) %>%
+  hc_add_series(
+    data = data,
+    hcaes(x = date,
+          y = round(change*1000,1)),
+    name = "Change",
+    type = "column",
+    color = "#199fa8",
+    negativeColor = "#b32704",
+    yAxis = 1) %>%
+  hc_title(text = "Nonfarm Payroll") %>%
+  hc_credits(
+    enabled = TRUE,
+    text = paste("Source: U.S. Bureau of Labor Statistics. Latest data:",
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/ILNA") %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_tooltip(
+    shared = TRUE
+  ) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  ) %>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 1, text = '1y'),
+                     list(type = 'year', count = 2, text = '2y'),
+                     list(type = 'year', count = 5, text = '5y'),
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
+
+fig
+saveWidget(widget = fig, file = "interactive/il_employment.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
 ## flash index ----
 flash_index_archive <- read_html("https://igpa.uillinois.edu/page/flash-index-archive")
 flash_index <- flash_index_archive %>% html_node("table") %>% 
@@ -1565,6 +1655,12 @@ title: Illinois Economic Indicators
 permalink: /projects/economy/illinois
 imageurl: https://bzigterman.com/plots/il_flash_index.png
 ---
+
+<iframe src=\"/interactive/il_unemployment_rate.html\" width=\"100%\" height=\"300\"> 
+</iframe>
+
+<iframe src=\"/interactive/il_employment.html\" width=\"100%\" height=\"300\"> 
+</iframe>
 
 <iframe src=\"/interactive/il_flash_index.html\" width=\"100%\" height=\"300\"> 
 </iframe>
