@@ -9,60 +9,68 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:47 AM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/05/24/world/russia-ukraine-war">Ukraine Live Updates: World Leaders Accuse Russia of Inciting Food Crisis</a> NYT: The European Commission president denounced Moscow for targeting Ukrainian grain warehouses and other key infrastructure. Russian forces pushed toward a key eastern city, where at least four people were killed in an artillery attack. 
+ <p class="updated_time"> 09:47 AM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/24/world/russia-ukraine-war">Live Updates: World Leaders Accuse Russia of Using Ukraine’s Food Supply as a Weapon</a> NYT: Officials called for international action to deliver 20 million tons of grain trapped in Ukraine. Russian forces pushed toward a key eastern city, where at least four people were killed in an artillery attack. 
+ <p class="updated_time"> 09:46 AM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-food-supply.html">Russia Is Accused of Using Food as ‘Blackmail’ in Ukraine War</a> NYT: The West is reluctant to risk a direct military confrontation with Russia, and the world’s food distribution network is already creaky because of pandemic-related supply disruptions. 
+ <p class="updated_time"> 09:37 AM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/20/world/americas/haiti-history-colonized-france.html">The Root of Haiti’s Misery: Reparations to Enslavers</a> NYT: In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now. 
+ <p class="updated_time"> 09:03 AM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Russia Tries to Tighten Hold Over Occupied Areas of Ukraine</a> WSJ: Russia Tries to Tighten Hold Over Occupied Areas of Ukraine 
+ <p class="updated_time"> 08:46 AM CT, May. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61560784?at_medium=RSS&at_campaign=KARANGA">Ukraine war: World faces 'dark hour', Biden tells Quad Summit</a> BBC: The US president meets key Asia allies to discuss China's influence and differences over Russia's invasion. 
+ <p class="updated_time"> 08:33 AM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/us/politics/biden-taiwan-comments.html">Biden Veers Off Script on Taiwan. It’s Not the First Time.</a> NYT: Offhand remarks that vary from the official talking points have become a feature of the Biden presidency, even as they leave his staff scrambling to spin them away afterward. 
+ <p class="updated_time"> 08:30 AM CT, May. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61562864?at_medium=RSS&at_campaign=KARANGA">Putin weaponising Ukraine’s crops, says Polish PM</a> BBC: Mateusz Morawiecki also warned that only the Russian leader would be “happy” with a UK-EU trade war. 
+ <p class="updated_time"> 08:06 AM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/world/asia/biden-taiwan-china-australia.html">Biden’s Words on Taiwan Leave Allies in an Awkward Spot</a> NYT: Ahead of a summit with Australia, India and Japan, an off-the-cuff vow to defend the island militarily against China complicates diplomacy, particularly for Australia. 
+ <p class="updated_time"> 08:03 AM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
  <p class="updated_time"> 07:46 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61567681?at_medium=RSS&at_campaign=KARANGA">Deepfake of murdered teen created to aid cold case</a> BBC: Sedar Soares was shot dead outside a Dutch metro station in 2003, his killer has not been found. 
  <p class="updated_time"> 07:36 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/23/health/monkeypox-vaccines.html">As Monkeypox Cases Rise, Nations Are Urged to Examine Vaccine Stores</a> NYT: The United States has stockpiled millions of doses of two smallpox vaccines, also effective against monkeypox. But the outbreaks so far are clustered in other countries. 
+ <p class="updated_time"> 07:26 AM CT, May. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61562543?at_medium=RSS&at_campaign=KARANGA">Israel says Hamas plot to kill prominent politician in Jerusalem thwarted</a> BBC: Three Palestinians are accused of planning to kill a politician, kidnap soldiers and bomb a railway. 
  <p class="updated_time"> 07:24 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/russia-china-bombers-biden.html">Russia and China Held Military Exercise in East Asia as Biden Visited</a> NYT: The coordinated bomber flights were the first training activity the two nations had done together since President Vladimir V. Putin of Russia ordered the invasion of Ukraine. 
- <p class="updated_time"> 07:09 AM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/asia/biden-taiwan-china-australia.html">Biden’s Words on Taiwan Leave Allies in an Awkward Spot</a> NYT: Ahead of a summit with Australia, India and Japan, an off-the-cuff vow to defend the island militarily against China complicates diplomacy, particularly for Australia. 
- <p class="updated_time"> 07:05 AM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Russia Tries to Tighten Hold Over Occupied Areas of Ukraine</a> WSJ: Russia Tries to Tighten Hold Over Occupied Areas of Ukraine 
- <p class="updated_time"> 06:39 AM CT, May. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61560784?at_medium=RSS&at_campaign=KARANGA">Ukraine war: World faces 'dark hour', Biden tells Quad Summit</a> BBC: The US president meets key Asia allies to discuss China's influence and differences over Russia's invasion. 
+ <p class="updated_time"> 07:03 AM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Europe’s Economy Slows as Factories Hit Hard by Surging Costs</a> WSJ: Europe’s Economy Slows as Factories Hit Hard by Surging Costs 
  <p class="updated_time"> 06:28 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61563026?at_medium=RSS&at_campaign=KARANGA">Executions spiked in Iran in Saudi Arabia in 2021 - Amnesty</a> BBC: Iran accounted for 314 of the 579 executions recorded worldwide, Amnesty International says. 
  <p class="updated_time"> 06:18 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61564440?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia's jailed Navalny attacks invasion as judge rejects appeal</a> BBC: Russia's prominent opposition figure condemns a war "built on lies" as he faces many more years in jail. 
  <p class="updated_time"> 06:07 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/business/china-covid-zero.html">In Covid Zero, Young Chinese Embrace ‘Run Philosophy’ </a> NYT: Many believe that they’re the most unlucky generation since the 1980s as Beijing’s persistent pursuit of the zero Covid policy wreaks havoc. 
- <p class="updated_time"> 06:05 AM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
+ <p class="updated_time"> 06:03 AM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/russian-oligarch-roman-abramovichs-offshore-wealth-is-focus-of-new-probe-11653384602">Roman Abramovich’s Offshore Wealth Focus of New Probe</a> WSJ: Roman Abramovich’s Offshore Wealth Focus of New Probe 
  <p class="updated_time"> 05:25 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61562285?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Argentine President Fernández pays 'fine' over lockdown party</a> BBC: Leaked photos of the dinner party held while Covid lockdown measures were in force caused outrage. 
  <p class="updated_time"> 05:21 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/on-a-remote-mountain-the-sistine-chapel-of-socialism-awaits-its-fate.html">On a Remote Mountain, the ‘Sistine Chapel of Socialism’ Awaits Its Fate</a> NYT: An enormous monument to the Communist Party in Bulgaria is now a decrepit ruin. The country is wrestling with how to deal with a symbol of an unwanted and, in many ways, deeply ugly past. 
- <p class="updated_time"> 05:05 AM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Europe’s Economy Slows as Factories Hit Hard by Surging Costs</a> WSJ: Europe’s Economy Slows as Factories Hit Hard by Surging Costs 
+ <p class="updated_time"> 05:08 AM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/hong-kongs-cardinal-zen-pleads-not-guilty-to-fund-filing-charge-11653379368">Hong Kong's Cardinal Zen Pleads Not Guilty to Fund-Filing Charge</a> WSJ: Cardinal Joseph Zen appeared in court alongside five others to deny charges of failing to register a fund that offered legal and financial aid to arrested antigovernment protesters. 
  <p class="updated_time"> 05:03 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61562307?at_medium=RSS&at_campaign=KARANGA">Luc Besson: Rape case dismissed for French film director</a> BBC: The director of The Big Blue and Nikita was accused of repeatedly raping actress Sand Van Roy. 
  <p class="updated_time"> 05:00 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/uk-homes-for-ukraine-refugees.html">As U.K. Offers Homes to Ukrainians, Process Lags Behind Good Will</a> NYT: A plan that allows Britons to sponsor people fleeing the Russian invasion has been plagued by visa delays and safeguarding concerns. 
- <p class="updated_time"> 04:05 AM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/russian-oligarch-roman-abramovichs-offshore-wealth-is-focus-of-new-probe-11653384602">Roman Abramovich’s Offshore Wealth Focus of New Probe</a> WSJ: Roman Abramovich’s Offshore Wealth Focus of New Probe 
+ <p class="updated_time"> 04:09 AM CT, May. 24 </p> 
+ <a href="https://www.npr.org/2022/05/24/1100898004/a-battlefield-assessment-three-months-after-russia-invaded-ukraine">Three months of war: Russia underachieves, Ukraine overachieves</a> NPR: When Ukraine was invaded, many expected a quick Russian victory. The war is 3 months old, with both sides digging in for a battle that could potentially be a long, drawn-out stalemate. 
  <p class="updated_time"> 04:00 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/magazine/ukraine-andrey-kurkov.html">How Ukraine’s Greatest Novelist Is Fighting for His Country</a> NYT: Andrey Kurkov has spent his life writing about realities so absurd they defy satire. It was perfect preparation for this moment. 
  <p class="updated_time"> 03:13 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61562305?at_medium=RSS&at_campaign=KARANGA">Erdogan blanks Greek prime minister over US remarks</a> BBC: Turkey's leader accuses Kyriakos Mitsotakis of trying to block sales of US fighter jets to Ankara. 
- <p class="updated_time"> 03:05 AM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/hong-kongs-cardinal-zen-pleads-not-guilty-to-fund-filing-charge-11653379368">Hong Kong’s Cardinal Zen Pleads Not Guilty to Fund-Filing Charge</a> WSJ: Hong Kong’s Cardinal Zen Pleads Not Guilty to Fund-Filing Charge 
  <p class="updated_time"> 03:04 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/us-ukraine-howitzers.html">Powerful American Artillery Enters the Fight in Ukraine</a> NYT: The most lethal weapons the West has provided so far to Ukraine are now deployed in combat. Will they make a critical difference for Ukraine’s military in a war that has mostly become an artillery battle? 
  <p class="updated_time"> 02:26 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/haitian-creole-history.html">Haitian Creole Speakers Welcome ‘The Ransom’ Translation</a> NYT: Haitian Creole is a national language, but Creole speakers can encounter prejudice, so some were thrilled to see “The Ransom” offered in Creole. 
  <p class="updated_time"> 02:25 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/americas/haiti-cic-french-bank.html">French Bank Will Study Role in Haiti After New York Times Report</a> NYT: The C.I.C. bank siphoned millions in fees and interest from the island’s treasury in the late 19th and early 20th centuries, an investigation found. 
- <p class="updated_time"> 01:47 AM CT, May. 24 </p> 
- <a href="https://www.bbc.co.uk/news/business-61560543?at_medium=RSS&at_campaign=KARANGA">Cost of living: Rise in food export curbs sparks concerns</a> BBC: Malaysia has become the latest country in Asia to cut food exports to keep prices down at home. 
  <p class="updated_time"> 12:36 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-61437156?at_medium=RSS&at_campaign=KARANGA">The changing face of the North Sea oil industry</a> BBC: Some workers are still banking on a career in oil and gas, others are focusing on a greener future. 
  <p class="updated_time"> 11:41 PM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61548490?at_medium=RSS&at_campaign=KARANGA">Ten dead, dozens saved after 10-storey building collapses in Iran - reports</a> BBC: Pictures show concrete floors and steel beams that crushed cars after falling on to the street below. 
- <p class="updated_time"> 11:23 PM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/us/politics/biden-taiwan-comments.html">Biden Veers Off Script on Taiwan. It’s Not the First Time.</a> NYT: Offhand remarks that vary from the official talking points have become a feature of the Biden presidency, even as they leave his staff scrambling to spin them away afterward. 
  <p class="updated_time"> 10:38 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-asian-pacific-bloc.html">Biden to Begin New Asia-Pacific Economic Bloc With a Dozen Allies</a> NYT: The goal is a resurgence in U.S. influence in the region, especially vis-à-vis China, after Trump’s withdrawal from the Trans-Pacific Partnership. 
  <p class="updated_time"> 07:13 PM CT, May. 23 </p> 
@@ -74,7 +82,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:59 PM CT, May. 23 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61552030?at_medium=RSS&at_campaign=KARANGA">Cryptocrash: ‘I was arrested for knocking on Luna boss's door'</a> BBC: A man says he lost millions, and then was arrested for trying to talk to crypto boss Do Kwon. 
  <p class="updated_time"> 06:43 PM CT, May. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61559568?at_medium=RSS&at_campaign=KARANGA">Heard's team change course on Johnny Depp testimony</a> BBC: Supermodel Kate Moss is expected to take the stand in the final days of the high-profile trial. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61559568?at_medium=RSS&at_campaign=KARANGA">Heard's team change course on Depp testimony</a> BBC: Supermodel Kate Moss is expected to take the stand in the final days of the high-profile trial. 
  <p class="updated_time"> 06:12 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/biden-taiwan-china.html">Biden Pledges to Defend Taiwan if It Faces a Chinese Attack</a> NYT: Moving away from a policy of “strategic ambiguity,” the president said that to protect the island democracy, he would go beyond what the U.S. has done for Ukraine. 
  <p class="updated_time"> 06:05 PM CT, May. 23 </p> 
@@ -155,8 +163,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-60690688?at_medium=RSS&at_campaign=KARANGA">What is a war crime and could Putin be prosecuted over Ukraine?</a> BBC: If Russia has carried out war crimes in Ukraine how could Putin or his army generals be prosecuted? 
  <p class="updated_time"> 06:45 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/north-korea-covid.html">North Korea Claims ‘Positive Trend’ Against Covid Outbreak</a> NYT: The government said it had reversed the trajectory of its outbreak, although a true picture of its severity remained elusive. 
- <p class="updated_time"> 05:03 AM CT, May. 23 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61550090?at_medium=RSS&at_campaign=KARANGA">North Korea's Kim Jong-un is seen at state funeral not wearing a mask</a> BBC: The North Korean leader attends the funeral of a top military official as the country faces a Covid outbreak. 
  <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/travel/family-summer-cycling.html">A Family Measures Milestones on an Alaskan Cycling Trip</a> NYT: In the shadow of the iconic Denali peak in Alaska, a family bikes over the next rise and into the great unknown. 
  <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
@@ -165,10 +171,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/23/1100655012/biden-says-u-s-intervene-with-military-to-defend-taiwan">Biden says the U.S. would be willing to intervene militarily to defend Taiwan</a> NPR: A White House official said Biden's comments did not reflect a policy shift, even though the U.S. traditionally has avoided making such an explicit security guarantee to Taiwan. 
  <p class="updated_time"> 01:47 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/ukraine-bucha-war-crimes-russia.html">‘Such Bad Guys Will Come’: How One Russian Brigade Terrorized Bucha</a> NYT: A particularly fearsome unit of Moscow’s invading army arrived in the Kyiv suburb in mid-March. The soldiers’ reputation preceded them. 
- <p class="updated_time"> 12:05 AM CT, May. 23 </p> 
- <a href="https://www.npr.org/2022/05/23/1100652972/kim-at-large-funeral-amid-covid-worry">Kim and other N. Koreans attend large funeral amid COVID worry</a> NPR: The isolated East Asian country has only stated how many people have fevers daily, and has only identified a few of the cases as COVID-19 since admitting to an outbreak of the omicron variant. 
- <p class="updated_time"> 10:49 PM CT, May. 22 </p> 
- <a href="https://www.nytimes.com/2022/05/22/world/australia/election-albanese-climate.html">Australia’s ‘Climate Election’ Finally Arrived. Will It Be Enough?</a> NYT: Voters rejected the deny-and-delay approach that has made Australia a global laggard on emission cuts. But how far the new government will go remains to be seen. 
  <p class="updated_time"> 07:24 PM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/canada/ottawa-storms.html">At Least Six Dead After Severe Thunderstorms Lash Parts of Canada</a> NYT: A line of thunderstorms brought violent winds that left a trail of damage across parts of Ontario and Quebec on Saturday, and hundreds of thousands without power. 
  <p class="updated_time"> 06:23 PM CT, May. 22 </p> 
@@ -189,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/22/health/coronavirus-mink-michigan-spillover.html">The Michigan Mink Mystery: How Did an Interspecies Outbreak Unfold?</a> NYT: The puzzling coronavirus cases highlight ongoing surveillance challenges and blind spots. 
  <p class="updated_time"> 04:00 AM CT, May. 22 </p> 
  <a href="https://www.nytimes.com/2022/05/22/world/europe/cambridge-university-women-degrees-1897.html">1897: Cambridge University Votes Against Degrees for Women</a> NYT: A resolution to grant degrees to women was rejected by a large majority and men celebrated the result with fireworks. 
- <p class="updated_time"> 04:57 PM CT, May. 21 </p> 
- <a href="https://www.nytimes.com/2022/05/20/world/americas/haiti-history-colonized-france.html">The Root of Haiti’s Misery: Reparations to Enslavers</a> NYT: In 1791, enslaved Haitians ousted the French and founded a nation. But France made generations of Haitians pay for their freedom. How much it cost them was a mystery, until now. 
  <p class="updated_time"> 02:53 PM CT, May. 21 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/haiti-wall-street-us-banks.html">Invade Haiti, Wall Street Urged. The U.S. Obliged.</a> NYT: The long occupation of Haiti began with a drumbeat from the bank that became Citigroup, decades of diplomatic correspondence and other records show. 
  <p class="updated_time"> 11:29 AM CT, May. 21 </p> 
@@ -202,12 +202,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:07 AM CT, May. 24 </p> 
+ <a href="https://www.npr.org/2022/05/24/1100920286/doj-new-policy-excessive-force">DOJ's new policy requires officers to stop others from using excessive force</a> NPR: The policy spells out situations in which officers have an "affirmative duty" — to prevent or stop other officers from using excessive force, and to render or call for medical aid when it's needed. 
+ <p class="updated_time"> 08:33 AM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/23/us/politics/biden-taiwan-comments.html">Biden Veers Off Script on Taiwan. It’s Not the First Time.</a> NYT: Offhand remarks that vary from the official talking points have become a feature of the Biden presidency, even as they leave his staff scrambling to spin them away afterward. 
+ <p class="updated_time"> 08:06 AM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/world/asia/biden-taiwan-china-australia.html">Biden’s Words on Taiwan Leave Allies in an Awkward Spot</a> NYT: Ahead of a summit with Australia, India and Japan, an off-the-cuff vow to defend the island militarily against China complicates diplomacy, particularly for Australia. 
  <p class="updated_time"> 07:32 AM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1100103661/arkansas-primary-election-results">Here are the key primary election results from Arkansas</a> NPR: Voting concludes Tuesday in the Arkansas primary elections, where Sarah Huckabee Sanders is running for governor to replace incumbent and term-limited Gov. Asa Hutchinson. 
  <p class="updated_time"> 07:24 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/russia-china-bombers-biden.html">Russia and China Held Military Exercise in East Asia as Biden Visited</a> NYT: The coordinated bomber flights were the first training activity the two nations had done together since President Vladimir V. Putin of Russia ordered the invasion of Ukraine. 
- <p class="updated_time"> 07:09 AM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/asia/biden-taiwan-china-australia.html">Biden’s Words on Taiwan Leave Allies in an Awkward Spot</a> NYT: Ahead of a summit with Australia, India and Japan, an off-the-cuff vow to defend the island militarily against China complicates diplomacy, particularly for Australia. 
  <p class="updated_time"> 07:08 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/trump-candidates-primary-election-today.html">These Trump-Endorsed Candidates Are on the Ballot Today</a> NYT: The beneficiaries of Mr. Trump’s nods include four Republican candidates in Georgia and others in Arkansas and Texas. 
  <p class="updated_time"> 07:01 AM CT, May. 24 </p> 
@@ -241,19 +245,17 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1100100005/alabama-primary-election-results">Here are the key primary election results from Alabama</a> NPR: Voting concludes Tuesday in the Alabama primary elections. Notable primaries include governor, U.S. Senate and House district races. 
  <p class="updated_time"> 03:30 AM CT, May. 24 </p> 
+ <a href="https://www.politico.com/news/2022/05/24/2022-primary-elections-midterms-georgia-00034611">Trump heads for big rebuke in Tuesday’s elections</a> Politico: Georgia Gov. Brian Kemp has been leading in primary polls against Trump-endorsed David Perdue. 
+ <p class="updated_time"> 03:30 AM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/gop-primary-georgia-00034629">Trump sparked a GOP war in Georgia. Some aren’t ready to forgive and forget.</a> Politico: It won't be easy to unite the party after an election season from hell. 
  <p class="updated_time"> 03:30 AM CT, May. 24 </p> 
- <a href="https://www.politico.com/news/2022/05/24/2022-primary-elections-midterms-georgia-00034611">Trump heads for big rebuke in Tuesday’s elections</a> Politico: Democrats are also battling over abortion in a key incumbent House primary in Texas. 
+ <a href="https://www.politico.com/news/2022/05/24/michael-bennet-colorado-senate-00034518">In Colorado, Bennet braces for another red wave</a> Politico: In a state President Joe Biden won by 13 points, Michael Bennet is warning of a tough road ahead — not a good sign for Senate Democrats. 
  <p class="updated_time"> 03:30 AM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/kellyanne-conway-yes-trump-lost-00034625">Kellyanne Conway: Yes. Trump lost</a> Politico: In “Here’s the Deal,” she acknowledges the reality of 2020 and offers some fresh criticism about the Covid response. 
- <p class="updated_time"> 03:30 AM CT, May. 24 </p> 
- <a href="https://www.politico.com/news/2022/05/24/michael-bennet-colorado-senate-00034518">In Colorado, Bennet braces for another red wave</a> Politico: In a state President Joe Biden won by 13 points, Michael Bennet is warning of a tough road ahead — not a good sign for Senate Democrats. 
  <p class="updated_time"> 03:30 AM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/crypto-wall-street-battle-washington-00033179">Titans of crypto and finance are fighting over this Washington agency</a> Politico: The battle between the two lobbying armies is the latest Washington flare-up between titans of new and old finance as officials try to figure out how to set rules for the digital currency industry. 
  <p class="updated_time"> 11:30 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/us/politics/georgia-voter-turnout.html">Early Voting Surges as Georgia Watches for Impact of Election Law</a> NYT: Republicans argued that their new election law was not suppressing votes. Democrats said voters were simply overcoming new hurdles. Ultimately, it is too early to draw firm conclusions. 
- <p class="updated_time"> 11:23 PM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/us/politics/biden-taiwan-comments.html">Biden Veers Off Script on Taiwan. It’s Not the First Time.</a> NYT: Offhand remarks that vary from the official talking points have become a feature of the Biden presidency, even as they leave his staff scrambling to spin them away afterward. 
  <p class="updated_time"> 09:50 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/us/politics/justice-department-excessive-force.html">Justice Dept. Orders Agents to Intervene if They See Police Violence</a> NYT: The changes, the first to the department’s use-of-force policy in 18 years, follow the murder of George Floyd and other incidents of policy brutality. 
  <p class="updated_time"> 09:15 PM CT, May. 23 </p> 
@@ -294,8 +296,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/23/1100831545/appeals-court-florida-social-media-law-unconstitutional-desantis">An appeals court finds Florida's social media law unconstitutional</a> NPR: In a blow to Gov. Ron DeSantis, a three-judge panel of the 11th U.S. Circuit Court of Appeals said social media companies' moderation and curation efforts were protected by the First Amendment. 
  <p class="updated_time"> 03:39 PM CT, May. 23 </p> 
  <a href="https://www.npr.org/2022/05/23/1100828800/sarah-huckabee-sanders-is-expected-to-win-republican-primary-for-arkansas-govern">Sarah Huckabee Sanders is expected to win Republican primary for Arkansas governor</a> NPR: Before her campaign even began, Sarah Huckabee Sanders nabbed an endorsement for her race for Arkansas governor from former President Donald Trump. She is the favorite to win the GOP primary Tuesday. 
- <p class="updated_time"> 03:39 PM CT, May. 23 </p> 
- <a href="https://www.npr.org/2022/05/23/1100828793/how-the-u-s-s-goals-in-ukraine-compare-to-europes-goals">How the U.S.'s goals in Ukraine compare to Europe's goals</a> NPR: The U.S. wants to weaken Russia and help Ukraine win, while some in Europe are looking for a diplomatic solution. 
  <p class="updated_time"> 02:20 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/us/politics/supreme-court-ineffective-counsel.html">Supreme Court Limits Inmates’ Challenges Based on Bad Legal Help</a> NYT: Splitting 6 to 3, the justices ruled that federal courts may not hold evidentiary hearings in suits from state prisoners claiming ineffective assistance of counsel. 
  <p class="updated_time"> 01:55 PM CT, May. 23 </p> 
@@ -336,8 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/22/florida-has-a-firewall-protecting-abortion-rights-desantis-supreme-court-could-change-that-00033884">Florida’s firewall against abortion restrictions is in peril</a> Politico: The current Florida Supreme Court is dominated by conservatives, including three appointed by DeSantis. 
  <p class="updated_time"> 06:00 AM CT, May. 22 </p> 
  <a href="https://www.politico.com/news/2022/05/22/republicans-ignored-trumps-election-lies-00034242">'No one's paying any attention': The week that Republicans ignored Trump's election lies</a> Politico: Losing candidates in Republican primaries this year aren't resorting to the former president's routine. 
- <p class="updated_time"> 09:11 AM CT, May. 21 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/05/21/sean-patrick-maloney-dodges-a-bullet-00034238"> Sean Patrick Maloney dodges a bullet</a> Politico Playbook: And President Joe Biden visits South Korea. 
 
 
 </details>
