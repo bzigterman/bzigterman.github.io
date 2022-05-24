@@ -9,7 +9,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:31 PM CT, May. 24 </p> 
+ <p class="updated_time"> 05:48 PM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/world/canada/quebec-language-bill-96.html">Law Requiring French in Quebec Becomes Stricter</a> NYT: Quebec’s new law limits access to government services in languages other than French, requires small businesses to operate in it and caps enrollment at English-language junior colleges. 
+ <p class="updated_time"> 05:40 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/05/24/world/russia-ukraine-war">Live Updates: War Raises Famine Fears as Russia Chokes Off Ukraine’s Grains</a> NYT: World leaders say there is no easy way to bypass a Russian blockade without a military clash, and accuse Vladimir V. Putin of using global hunger as a weapon. 
  <p class="updated_time"> 05:25 PM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61573377?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Fifteen killed in attack at US primary school</a> BBC: Texas' governor says the teen gunman "horrifically, incomprehensibly" killed 14 students and a teacher. 
@@ -23,16 +25,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/travel/city-biking-trails.html">7 Great Biking Cities (and Which Trails to Ride)</a> NYT: There’s no better way to zip through a new city than on two wheels. Here are some routes to try, from riverside jaunts to mountain climbs. 
  <p class="updated_time"> 05:05 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/russian-debt-treasury.html">U.S. Will Start Blocking Russia’s Bond Payments to American Investors</a> NYT: The Biden administration’s escalation of sanctions could lead to Russia’s first default on foreign debt in a century. 
+ <p class="updated_time"> 04:50 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv</a> WSJ: Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv 
  <p class="updated_time"> 04:39 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-food-supply.html">Russia Is Accused of Using Food as ‘Blackmail’ in Ukraine War</a> NYT: World leaders say there is no easy way to bypass a Russian blockade without a military clash, and accuse Vladimir V. Putin of using global hunger as a weapon. 
- <p class="updated_time"> 04:36 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv</a> WSJ: Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv 
  <p class="updated_time"> 04:33 PM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-61570444?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'This is just the beginning, everything is still to come'</a> BBC: As Russian attacks intensify, Ukrainians are asking whether it's better to pay for a ceasefire with land - or lives. 
  <p class="updated_time"> 04:27 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/birth-rate-increase.html">U.S. Birthrate Ticks Up 1 Percent, Halting a Steady Decline</a> NYT: Data from the federal government showed last year’s increase was the first since 2014 and followed a sharp drop in 2020, when the coronavirus pandemic hit. 
  <p class="updated_time"> 04:00 PM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1100986158/3-months-into-the-russia-ukraine-war-what-happened-today-may-24">3 months into the Russia-Ukraine war: What happened today (May 24)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:50 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
  <p class="updated_time"> 03:48 PM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1101040250/many-nations-say-they-wont-go-to-the-summit-of-the-americas-unless-all-are-invit">Many nations say they won't go to the Summit of the Americas unless all are invited</a> NPR: Will the U.S. be able to salvage the remnants of the Summit of the Americas? And what does the growing boycott mean for U.S. influence in Latin America? 
  <p class="updated_time"> 03:44 PM CT, May. 24 </p> 
@@ -43,8 +47,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/health/monkeypox-vaccines.html">As Monkeypox Cases Rise, Nations Are Urged to Examine Vaccine Stores</a> NYT: The United States has stockpiled millions of doses of two smallpox vaccines, also effective against monkeypox. But the outbreaks so far are clustered in other countries. 
  <p class="updated_time"> 03:42 PM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1101003523/monkeypox-covid-19-differences">Monkeypox isn't like COVID-19 — and that's a good thing</a> NPR: Although monkeypox's recent spread has caused concern, its similarities to smallpox have given the public health world a head start on combating it. 
- <p class="updated_time"> 03:36 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
  <p class="updated_time"> 03:31 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/covid-omicron-cases.html">Omicron Subvariant BA.2.12.1 Becomes Dominant in U.S. Virus Cases</a> NYT: The development comes as the United States recently began averaging more than 100,000 new confirmed cases per day again, according to a New York Times database, for the first time since February. 
  <p class="updated_time"> 03:27 PM CT, May. 24 </p> 
@@ -53,14 +55,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/20/world/haiti-wall-street-us-banks.html">Invade Haiti, Wall Street Urged. The U.S. Obliged.</a> NYT: The long occupation of Haiti began with a drumbeat from the bank that became Citigroup, decades of diplomatic correspondence and other records show. 
  <p class="updated_time"> 02:54 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-mayor-killed.html">Ukraine Charges 8 Russian Fighters in Killings of Village Mayor and Family </a> NYT: The bodies of the mayor, her husband and her son were found after Russian forces retreated in early April. 
- <p class="updated_time"> 02:36 PM CT, May. 24 </p> 
+ <p class="updated_time"> 02:50 PM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Inflation, Rising Rates Curb Global Economic Growth</a> WSJ: Inflation, Rising Rates Curb Global Economic Growth 
  <p class="updated_time"> 02:06 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/elizabeth-line-london-tube-opens.html">Eager London Riders Get Up Early for Elizabeth Line’s Debut</a> NYT: The sleek new tube line officially opened Tuesday, drawing train enthusiasts and awing normally stoic London commuters. 
  <p class="updated_time"> 01:50 PM CT, May. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61571612?at_medium=RSS&at_campaign=KARANGA">Uyghur detention: Leaked files reveal locations of lost loved ones</a> BBC: The hacked files include information on missing people, seen for the first time by their family members. 
- <p class="updated_time"> 01:36 PM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-moved-assets-to-an-island-in-the-english-channel-now-he-faces-a-probe-11653403549">The Island Where Roman Abramovich Kept $7 Billion Is Now Scrutinizing the Russian Oligarch</a> WSJ: The Island Where Roman Abramovich Kept $7 Billion Is Now Scrutinizing the Russian Oligarch 
+ <p class="updated_time"> 01:50 PM CT, May. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61571612?at_medium=RSS&at_campaign=KARANGA">Uyghur detention: Leaked files reveal locations of lost loved ones</a> BBC: The hacked files include information on missing people, seen for the first time by their family members. 
  <p class="updated_time"> 01:15 PM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1100957881/free-her-face-afghan-tv-anchors-face-coverings-taliban">Male Afghan TV anchors cover faces in solidarity with women after a Taliban order</a> NPR: Male anchors in Afghanistan are wearing masks on air in solidarity with their female colleagues. This is the latest Taliban order to threaten the freedoms and careers of Afghan women. 
  <p class="updated_time"> 01:14 PM CT, May. 24 </p> 
@@ -71,7 +73,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/24/us/politics/russia-china-bombers-biden.html">Russia and China Held Military Exercise in East Asia as Biden Visited</a> NYT: The coordinated bomber flights were the first training activity the two nations had done together since President Vladimir V. Putin of Russia ordered the invasion of Ukraine. 
  <p class="updated_time"> 12:54 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/thailand-wwii-american-remains.html">In This Small Thai Village, American History Runs Deep</a> NYT: In 1944, a U.S. military plane crashed in a spot the locals named “Deadman’s Torso Flat.” A team has found remains that it hopes are those of the airman. 
- <p class="updated_time"> 12:36 PM CT, May. 24 </p> 
+ <p class="updated_time"> 12:50 PM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/u-s-begins-denying-u-s-entry-toafghans-housed-on-military-base-in-kosovo-11653415370">U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo</a> WSJ: U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo 
  <p class="updated_time"> 10:46 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61568999?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Put values over profits, Nato chief tells countries</a> BBC: Jens Stoltenberg says the Ukraine war has highlighted the cost of trade with "authoritarian regimes". 
@@ -89,8 +91,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61563026?at_medium=RSS&at_campaign=KARANGA">Executions spiked in Iran in Saudi Arabia in 2021 - Amnesty</a> BBC: Iran accounted for 314 of the 579 executions recorded worldwide, Amnesty International says. 
  <p class="updated_time"> 05:25 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61562285?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Argentine President Fernández pays 'fine' over lockdown party</a> BBC: Leaked photos of the dinner party held while Covid lockdown measures were in force caused outrage. 
- <p class="updated_time"> 05:21 AM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/22/world/europe/on-a-remote-mountain-the-sistine-chapel-of-socialism-awaits-its-fate.html">On a Remote Mountain, the ‘Sistine Chapel of Socialism’ Awaits Its Fate</a> NYT: An enormous monument to the Communist Party in Bulgaria is now a decrepit ruin. The country is wrestling with how to deal with a symbol of an unwanted and, in many ways, deeply ugly past. 
  <p class="updated_time"> 05:03 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61562307?at_medium=RSS&at_campaign=KARANGA">Luc Besson: Rape case dismissed for French film director</a> BBC: The director of The Big Blue and Nikita was accused of repeatedly raping actress Sand Van Roy. 
  <p class="updated_time"> 05:00 AM CT, May. 24 </p> 
@@ -194,6 +194,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:33 PM CT, May. 24 </p> 
+ <a href="https://www.politico.com/news/2022/05/24/may-24-primary-2022-results-00034888">Kemp stares down Perdue as 5 states hold primaries</a> Politico: The Georgia governor's race and a pair of big Democratic House primaries are among the highlights in Tuesday's elections. 
  <p class="updated_time"> 05:23 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Three Ballistic Missiles</a> NYT: The tests came as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
  <p class="updated_time"> 05:07 PM CT, May. 24 </p> 
@@ -300,8 +302,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/23/mccormick-oz-pennsylvania-senate-ballot-fight-court-00034570">McCormick takes Pa. Senate ballot fight to court</a> Politico: As of Monday evening, Mehmet Oz was leading David McCormick by fewer than 1,000 votes — well within the margin for an automatic recount in the state. 
  <p class="updated_time"> 06:07 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/us/politics/bob-stefanowski-covid-connecticut.html">Stefanowski, G.O.P. Hopeful in Connecticut, Tests Positive for Coronavirus</a> NYT: Connecticut has become one of the nation’s hotspots for infections. 
- <p class="updated_time"> 05:59 PM CT, May. 23 </p> 
- <a href="https://www.politico.com/news/2022/05/23/anaheim-mayor-resigns-angel-stadium-00034559">Anaheim mayor resigns amid corruption investigation involving Angel stadium deal</a> Politico: Mayor Harry Sidhu has not been charged with a crime and his lawyer says he will be exonerated. 
  <p class="updated_time"> 05:26 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/health/fetterman-stroke-senate-campaign.html">After Fetterman’s Stroke, Doctors Look at Senate Campaign Prospects</a> NYT: The medical team for the Democratic nominee in Pennsylvania’s Senate race has not spoken about John Fetterman’s prognosis. But cardiac experts saw clues in campaign statements. 
  <p class="updated_time"> 04:02 PM CT, May. 23 </p> 
