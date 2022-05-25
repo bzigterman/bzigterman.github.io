@@ -17,12 +17,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/asia/india-heat-wave-mango.html">The Mango, India’s King of Fruits, Is a Victim of the Heat Wave</a> NYT: Blistering spring temperatures have devastated crops of the country’s most beloved fruit. “The soul of a farmer shudders at seeing these fruitless trees,” one grower said. 
  <p class="updated_time"> 04:00 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/climate/corporate-climate-pledges-davos.html">Corporations Pledge to Buy ‘Green’ at Davos Gathering</a> NYT: A global buyers’ club of more than 50 companies, including Microsoft and Ford Motor, say they will buy “green” steel, aluminum and other commodities by 2030. 
+ <p class="updated_time"> 03:48 AM CT, May. 25 </p> 
+ <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv</a> WSJ: Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv 
  <p class="updated_time"> 03:45 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61577784?at_medium=RSS&at_campaign=KARANGA">Aerosmith cancel gigs as singer Steven Tyler goes into rehab</a> BBC: The star checked himself into rehab, weeks before the band's Las Vegas residency was due to start. 
  <p class="updated_time"> 03:39 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/elizabeth-line-london-tube-opens.html">Eager London Riders Get Up Early for Elizabeth Line’s Debut</a> NYT: The London subway’s sleek new Elizabeth line officially opened Tuesday, drawing train enthusiasts and awing normally stoic London commuters. 
- <p class="updated_time"> 03:35 AM CT, May. 25 </p> 
- <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv</a> WSJ: Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv 
  <p class="updated_time"> 03:34 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61576099?at_medium=RSS&at_campaign=KARANGA">Europa Conference League final: Police injured as Roma and Feyenoord fans clash in Albania</a> BBC: Ten police officers are injured as supporters clash in the build-up to the Europa Conference League final. 
  <p class="updated_time"> 03:33 AM CT, May. 25 </p> 
@@ -35,17 +35,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/europe/henry-kissinger-ukraine-russia-davos.html">Henry Kissinger Suggests Ukraine Give Up Territory to Russia</a> NYT: The former secretary of state argued that ceding land could bring an end to the war. Critics called the idea reckless and unrealistic. 
  <p class="updated_time"> 03:04 AM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101141199/sale-of-sanctioned-oligarchs-chelsea-football-club-approved-by-u-k-government">Sale of sanctioned oligarch's Chelsea Football Club approved by U.K. government</a> NPR: The government had to be sure that Roman Abramovich, sanctioned over his links to Russian President Vladimir Putin, did not profit from the enforced sale of one of football's most successful clubs. 
+ <p class="updated_time"> 02:48 AM CT, May. 25 </p> 
+ <a href="https://www.wsj.com/articles/treasury-to-block-u-s-investors-from-receiving-russian-debt-payments-11653420533">Treasury to Block U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury to Block U.S. Investors From Receiving Russian Debt Payments 
  <p class="updated_time"> 02:42 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61571855?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Bodies of dead Russian soldiers abandoned near Kyiv</a> BBC: Shallow graves are discovered on the outskirts of the capital, weeks after Russia's attempted advance. 
- <p class="updated_time"> 02:35 AM CT, May. 25 </p> 
- <a href="https://www.wsj.com/articles/treasury-to-block-u-s-investors-from-receiving-russian-debt-payments-11653420533">Treasury to Block U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury to Block U.S. Investors From Receiving Russian Debt Payments 
  <p class="updated_time"> 02:30 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61510336?at_medium=RSS&at_campaign=KARANGA">Goldman Prize: The activists who battled mining with drones</a> BBC: Alex Lucitante and Alexandra Narváez led their indigenous group's fight against mining on their land. 
  <p class="updated_time"> 02:23 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61575773?at_medium=RSS&at_campaign=KARANGA">SpiceJet: Passengers stranded as India airline hit by ransomware attack</a> BBC: SpiceJet says flights are now operating normally, but several passengers say they are still stranded. 
  <p class="updated_time"> 01:59 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61576574?at_medium=RSS&at_campaign=KARANGA">NBA Warriors coach on Texas school shooting: 'When are we going to do something?'</a> BBC: Golden State Warriors' Steve Kerr condemns gun violence and refuses to answer basketball questions. 
- <p class="updated_time"> 01:35 AM CT, May. 25 </p> 
+ <p class="updated_time"> 01:48 AM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/timeline-for-eu-oil-embargo-on-russia-appears-further-set-back-11653418047">Timeline for EU Oil Embargo on Russia Appears Further Set Back</a> WSJ: Timeline for EU Oil Embargo on Russia Appears Further Set Back 
  <p class="updated_time"> 01:35 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61560786?at_medium=RSS&at_campaign=KARANGA">North Korea fires missiles hours after Biden leaves Asia</a> BBC: It came hours after the US leader left Asia following a trip where he vowed to deter North Korea. 
@@ -53,9 +53,9 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/25/1101137516/north-korea-launches-three-missiles-into-the-sea-including-suspected-icbm">North Korea launches three missiles into the sea, including suspected ICBM</a> NPR: North Korea launched three ballistic missiles toward the sea on Wednesday, its neighbors said, hours after President Joe Biden wrapped up his trip to Asia. 
  <p class="updated_time"> 01:00 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/how-and-why-we-calculated-the-value-of-haitis-payments-to-france.html">How (and Why) We Calculated the Value of Haiti’s Payments to France</a> NYT: We wanted to know how much Haiti had paid over generations. So we set out to compile the data. 
- <p class="updated_time"> 12:35 AM CT, May. 25 </p> 
+ <p class="updated_time"> 12:48 AM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Inflation, Rising Rates Curb Global Economic Growth</a> WSJ: Inflation, Rising Rates Curb Global Economic Growth 
- <p class="updated_time"> 11:35 PM CT, May. 24 </p> 
+ <p class="updated_time"> 11:48 PM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
  <p class="updated_time"> 11:03 PM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61574576?at_medium=RSS&at_campaign=KARANGA">Georgia primaries: Trump-backed Perdue trounced by Pence's pick</a> BBC: The governor's race in Georgia will pit Republican Brian Kemp against Democrat star Stacy Abrams. 
@@ -219,6 +219,8 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, May. 25 </p> 
  <a href="https://www.politico.com/news/2022/05/25/most-in-senate-gop-shun-total-abortion-ban-00034933">Most in Senate GOP shun total abortion ban</a> Politico: Many Senate Republicans aren't singing the tune of Herschel Walker — instead saying they do support exceptions to an abortion ban that include rape, incest and the life of the mother. 
  <p class="updated_time"> 03:30 AM CT, May. 25 </p> 
+ <a href="https://www.politico.com/news/2022/05/25/pierre-poilievre-pm-canada-trudeau-00034809">Conservative frontrunner deploys populist strike on Ottawa’s elites</a> Politico: Pierre Poilievre is a career politician who has made his name as a rabble-rouser. Now on the hunt to become Canada’s next PM, he’s doubling down. 
+ <p class="updated_time"> 03:30 AM CT, May. 25 </p> 
  <a href="https://www.politico.com/news/2022/05/25/joe-biden-taiwan-china-comments-00034934">Dem China hawks hope Biden’s Taiwan gaffe was no accident</a> Politico: While Republicans criticize the president for clinging to a policy that takes no position on defending Taiwan militarily, Democrats say Biden is working around it. 
  <p class="updated_time"> 01:02 AM CT, May. 25 </p> 
  <a href="https://www.politico.com/news/2022/05/25/trump-backed-candidates-2022-primary-results-00034435">From MTG to Herschel Walker, here are the Trump-backed winners of Tuesday's primaries</a> Politico: Donald Trump endorsed 27 candidates across Alabama, Arkansas, Georgia and the Texas runoffs. His win-loss record took a hit Tuesday. 
@@ -250,6 +252,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/24/biden-executive-order-police-00034968">Biden to issue executive order on policing</a> Politico: It will establish a national police registry for officers fired due to misconduct. 
  <p class="updated_time"> 08:06 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/marjorie-taylor-greene-primary.html">Marjorie Taylor Greene wins her primary, dashing establishment G.O.P. hopes.</a> NYT: The far-right congresswoman fended off a challenge from a Republican businesswoman who had hoped to push Ms. Greene into a runoff election. 
+ <p class="updated_time"> 08:01 PM CT, May. 24 </p> 
+ <a href="https://www.politico.com/news/2022/05/24/biden-texas-shooting-00034949">'Why are we willing to live with this carnage?': Biden demands action on guns after Texas school shooting</a> Politico: In an emotional address after the shooting in an elementary school in Texas, the president asked for prayer and political action. 
  <p class="updated_time"> 07:50 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/police-executive-order-george-floyd.html">Biden Set to Issue Policing Order on Anniversary of Floyd Killing</a> NYT: The order would direct all federal agencies to revise their use-of-force policies and create a national registry of officers fired for misconduct. 
  <p class="updated_time"> 07:45 PM CT, May. 24 </p> 
@@ -263,7 +267,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:17 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/george-bush-plot-isis.html">Iraqi Man Helped Plot to Kill Bush, F.B.I. Says</a> NYT: Authorities linked the man, who was living in Ohio, to ISIS and accused him of planning to smuggle immigrants into the United States to help carry out the killing. 
  <p class="updated_time"> 07:08 PM CT, May. 24 </p> 
- <a href="https://www.politico.com/news/2022/05/24/murphy-forges-ahead-on-gun-talks-with-gop-after-texas-shooting-00034951">Murphy pleads with GOP for a gun deal as 'another Sandy Hook' grips America</a> Politico: The massacre of at least 18 children at a Texas elementary school came one week after another shooter killed 10 people, mostly Black. 
+ <a href="https://www.politico.com/news/2022/05/24/murphy-forges-ahead-on-gun-talks-with-gop-after-texas-shooting-00034951">Murphy pleads with GOP for a gun deal as 'another Sandy Hook' grips America</a> Politico: The massacre of at least 18 children  at a Texas elementary school came one week after another shooter killed 10 people, mostly Black. 
  <p class="updated_time"> 07:04 PM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1100960726/herschel-walker-easily-wins-georgias-republican-senate-primary">Herschel Walker easily wins Georgia's Republican Senate primary</a> NPR: Walker topped a handful of rivals, according to a race call by The Associated Press. He will face Democratic Sen. Raphael Warnock in November. 
  <p class="updated_time"> 07:02 PM CT, May. 24 </p> 
@@ -280,14 +284,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/24/business/ftc-investigation-baby-formula-industry.html">US Begins Inquiry Into Industry’s Role in Infant Formula Supply Shortages</a> NYT: The Federal Trade Commission said it would examine patterns of mergers and acquisitions to better understand how the industry became so concentrated. 
  <p class="updated_time"> 06:00 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/tuesday-elections-democrats-republicans.html">3 Questions About Tuesday’s Big Elections</a> NYT: Will Donald Trump’s “Stop the Steal” candidates accept defeat? Can Democrats find reasons for hope? And for other Republicans, what’s the price of Trump’s cold shoulder? 
- <p class="updated_time"> 05:53 PM CT, May. 24 </p> 
- <a href="https://www.politico.com/news/2022/05/24/mail-ballots-pennsylvania-gop-senate-race-00034930">Mail ballots spark bitter dispute in Pa. GOP Senate race</a> Politico: Some McCormick supporters see moves by the state party and RNC as thinly veiled attempts to bolster the win-loss record of former President Donald Trump. 
  <p class="updated_time"> 05:49 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/north-korea-launches-ballistic-missiles-00034944">Seoul: North Korea launches 2 ballistic missiles toward sea</a> Politico: The missile firings came three days after the leaders of South Korea and the United States agreed to consider expanded military exercises. 
  <p class="updated_time"> 05:33 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/may-24-primary-2022-results-00034888">Kemp notches huge primary win in Georgia as Cuellar tries to hang on in Texas</a> Politico: Georgia Secretary of State Brad Raffensperger also turned back a Trump-endorsed GOP primary challenger. 
- <p class="updated_time"> 05:12 PM CT, May. 24 </p> 
- <a href="https://www.politico.com/news/2022/05/24/florida-republicans-total-abortion-ban-00034887">Florida Republicans eye total ban on abortions</a> Politico: The GOP lawmakers’ comments indicate that the fight over abortion rights in Florida is just beginning. 
  <p class="updated_time"> 05:07 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/business/energy-environment/glencore-price-fixing-bribery.html">Glencore Will Pay $1.1 Billion to Settle Bribery and Price-Fixing Charges</a> NYT: U.S. prosecutors said the settlement followed “a multiyear scheme to manipulate benchmarks used to set prices for oil at two of our country’s busiest ports.” 
  <p class="updated_time"> 05:05 PM CT, May. 24 </p> 
@@ -306,8 +306,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/24/1101040250/many-nations-say-they-wont-go-to-the-summit-of-the-americas-unless-all-are-invit">Many nations say they won't go to the Summit of the Americas unless all are invited</a> NPR: Will the U.S. be able to salvage the remnants of the Summit of the Americas? And what does the growing boycott mean for U.S. influence in Latin America? 
  <p class="updated_time"> 03:44 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/biden-taiwan-china-australia.html">Biden’s Words on Taiwan Leave Allies in an Awkward Spot</a> NYT: Ahead of a summit with Australia, India and Japan, an off-the-cuff vow to defend the island militarily against China complicates diplomacy, particularly for Australia. 
- <p class="updated_time"> 02:33 PM CT, May. 24 </p> 
- <a href="https://www.politico.com/news/2022/05/24/scotus-marshal-roe-opinion-00034670">Supreme Court marshal digs in on Roe opinion leak</a> Politico: The launch of the probe comes as Chief Justice John Roberts tries to uphold the integrity of the court. 
+ <p class="updated_time"> 03:41 PM CT, May. 24 </p> 
+ <a href="https://www.politico.com/news/2022/05/24/uvalde-texas-school-shooting-00034864">Shooting at Texas elementary school leaves 19 children dead, horrifies nation</a> Politico: The attack evoked memories of the 2012 attack on an elementary school in Newtown, Conn. 
  <p class="updated_time"> 02:26 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/commission-recommends-nine-new-names-for-army-bases-that-honor-confederates-00034799">Commission recommends 9 new names for Army bases that honor Confederates</a> Politico: The eight-member panel is required to submit its final report to Congress by Oct. 1. 
  <p class="updated_time"> 01:47 PM CT, May. 24 </p> 
@@ -338,8 +338,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/23/jan-6-committee-court-test-trump-appointees-00034592">Select committee effort to obtain RNC files faces appeals court test</a> Politico: Time is also running short for the House Jan. 6 panel. 
  <p class="updated_time"> 06:25 PM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/new-york-redistricting-nadler-maloney-primary-00034521">A Manhattan clash of the titans: Redistricting pits Nadler vs. Maloney in primary</a> Politico: Rep. Carolyn Maloney said she was surprised when Rep. Jerry Nadler announced he was running in New York's 12th District, something he didn't mention when they spoke after the special master released a preliminary set of maps last week. Nadler disputes her account. 
- <p class="updated_time"> 01:55 PM CT, May. 23 </p> 
- <a href="https://www.politico.com/news/2022/05/23/blinken-china-strategy-speech-00034428">Blinken to unveil long-awaited China strategy in Thursday speech</a> Politico: The strategy is expected to build on former President Donald Trump's China policy, experts say. 
  <p class="updated_time"> 01:27 PM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/fbi-trump-russia-secret-server-claims-00034434">Jurors hear contrasting stories about FBI handling of Trump-Russia secret server claims</a> Politico: Agents detail their role in probe prompted by attorney Michael Sussmann, who is on trial over an alleged false statement to the FBI. 
  <p class="updated_time"> 11:03 AM CT, May. 23 </p> 
