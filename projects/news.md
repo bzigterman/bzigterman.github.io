@@ -9,21 +9,23 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:24 AM CT, May. 25 </p> 
+ <p class="updated_time"> 06:37 AM CT, May. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/25/world/uk-covid-lockdown-report-boris-johnson">Live Updates: U.K. Lockdown Report Is Critical of Senior Leaders</a> NYT: Compiled by a top-ranking civil servant, the conclusions offered a harsh assessment of Downing Street culture and will most likely increase the pressure on Prime Minister Boris Johnson. 
+ <p class="updated_time"> 06:37 AM CT, May. 25 </p> 
+ <a href="https://www.nytimes.com/2022/05/25/world/europe/sue-gray-report-pdf.html">Read the Full U.K. Lockdown Parties Report</a> NYT: Sue Gray’s inquiry into illicit lockdown parties in Downing Street was released on Wednesday. 
+ <p class="updated_time"> 06:33 AM CT, May. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61573377?at_medium=RSS&at_campaign=KARANGA">Texas shooting: 19 children among dead in primary school attack</a> BBC: Nineteen children are shot dead by a teenage gunman, who is himself killed by law enforcement. 
+ <p class="updated_time"> 06:27 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/05/25/world/russia-ukraine-war">Live Updates: Narrower Focus Helps Russia Make Gains in Ukraine’s East</a> NYT: Ukrainian officials fear a repeat of the siege tactics Russia used in Mariupol as it tries to capture Sievierodonetsk and other cities in the Donbas region. Diplomats from Finland and Sweden were meeting with their Turkish counterparts to discuss their NATO application. 
  <p class="updated_time"> 06:21 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/china-taiwan-military.html">U.S. Speeds Up Reshaping of Taiwan’s Defenses to Deter China</a> NYT: The Biden administration is taking lessons from the war in Ukraine to turn Taiwan into a “porcupine” bristling with weapons that would inflict severe pain if attacked. 
- <p class="updated_time"> 06:21 AM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/05/25/world/uk-covid-lockdown-report-boris-johnson">Live Updates: U.K. Lockdown Report Is Critical of Senior Leaders</a> NYT: Compiled by a top-ranking civil servant, the conclusions offered a harsh assessment of Downing Street culture and will most likely increase the pressure on Prime Minister Boris Johnson. 
- <p class="updated_time"> 06:20 AM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/25/world/europe/sue-gray-report-pdf.html">Read the Full U.K. Lockdown Parties Report</a> NYT: Sue Gray’s inquiry into illicit lockdown parties in Downing Street was released on Wednesday. 
  <p class="updated_time"> 06:07 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/asia/china-taiwan-military-drills.html">After Biden Visit, China Conducts Military Drills Near Taiwan</a> NYT: After President Biden suggested the United States would get involved militarily to defend Taiwan if China attacked it, China said it was organizing combat drills in the seas and airspace around Taiwan. 
+ <p class="updated_time"> 05:45 AM CT, May. 25 </p> 
+ <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv</a> WSJ: Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv 
  <p class="updated_time"> 05:25 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61576099?at_medium=RSS&at_campaign=KARANGA">Europa Conference League final: Police injured as Roma and Feyenoord fans clash in Albania</a> BBC: Nineteen police officers are injured and 80 Roma fans are deported as supporters clash in the build-up to the Europa Conference League final. 
- <p class="updated_time"> 05:25 AM CT, May. 25 </p> 
- <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv</a> WSJ: Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv 
- <p class="updated_time"> 04:25 AM CT, May. 25 </p> 
+ <p class="updated_time"> 04:45 AM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/treasury-to-block-u-s-investors-from-receiving-russian-debt-payments-11653420533">Treasury to Block U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury to Block U.S. Investors From Receiving Russian Debt Payments 
  <p class="updated_time"> 04:16 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Suspected ICBM and Two Other Ballistic Missiles</a> NYT: The tests came just as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
@@ -32,35 +34,33 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/climate/corporate-climate-pledges-davos.html">Corporations Pledge to Buy ‘Green’ at Davos Gathering</a> NYT: A global buyers’ club of more than 50 companies, including Microsoft and Ford Motor, say they will buy “green” steel, aluminum and other commodities by 2030. 
  <p class="updated_time"> 03:45 AM CT, May. 25 </p> 
+ <a href="https://www.wsj.com/articles/timeline-for-eu-oil-embargo-on-russia-appears-further-set-back-11653418047">Timeline for EU Oil Embargo on Russia Appears Further Set Back</a> WSJ: Timeline for EU Oil Embargo on Russia Appears Further Set Back 
+ <p class="updated_time"> 03:45 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61577784?at_medium=RSS&at_campaign=KARANGA">Aerosmith cancel gigs as singer Steven Tyler goes into rehab</a> BBC: The star checked himself into rehab, weeks before the band's Las Vegas residency was due to start. 
  <p class="updated_time"> 03:39 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/elizabeth-line-london-tube-opens.html">Eager London Riders Get Up Early for Elizabeth Line’s Debut</a> NYT: The London subway’s sleek new Elizabeth line officially opened Tuesday, drawing train enthusiasts and awing normally stoic London commuters. 
- <p class="updated_time"> 03:33 AM CT, May. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61573377?at_medium=RSS&at_campaign=KARANGA">Texas shooting: 19 children among dead in primary school attack</a> BBC: Nineteen children are shot dead by a teenage gunman, who is himself killed by law enforcement. 
  <p class="updated_time"> 03:29 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/uk-homes-for-ukraine-refugees.html">Homes for Ukrainians? The U.K. Isn’t Making It Easy</a> NYT: A plan that allows Britons to sponsor people fleeing the Russian invasion has been plagued by visa delays and safeguarding concerns. 
- <p class="updated_time"> 03:25 AM CT, May. 25 </p> 
- <a href="https://www.wsj.com/articles/timeline-for-eu-oil-embargo-on-russia-appears-further-set-back-11653418047">Timeline for EU Oil Embargo on Russia Appears Further Set Back</a> WSJ: Timeline for EU Oil Embargo on Russia Appears Further Set Back 
  <p class="updated_time"> 03:15 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/henry-kissinger-ukraine-russia-davos.html">Henry Kissinger Suggests Ukraine Give Up Territory to Russia</a> NYT: The former secretary of state argued that ceding land could bring an end to the war. Critics called the idea reckless and unrealistic. 
  <p class="updated_time"> 03:04 AM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101141199/sale-of-sanctioned-oligarchs-chelsea-football-club-approved-by-u-k-government">Sale of sanctioned oligarch's Chelsea Football Club approved by U.K. government</a> NPR: The government had to be sure that Roman Abramovich, sanctioned over his links to Russian President Vladimir Putin, did not profit from the enforced sale of one of football's most successful clubs. 
+ <p class="updated_time"> 02:45 AM CT, May. 25 </p> 
+ <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Inflation, Rising Rates Curb Global Economic Growth</a> WSJ: Inflation, Rising Rates Curb Global Economic Growth 
  <p class="updated_time"> 02:42 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61571855?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Bodies of dead Russian soldiers abandoned near Kyiv</a> BBC: Shallow graves are discovered on the outskirts of the capital, weeks after Russia's attempted advance. 
  <p class="updated_time"> 02:30 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61510336?at_medium=RSS&at_campaign=KARANGA">Goldman Prize: The activists who battled mining with drones</a> BBC: Alex Lucitante and Alexandra Narváez led their indigenous group's fight against mining on their land. 
- <p class="updated_time"> 02:25 AM CT, May. 25 </p> 
- <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Inflation, Rising Rates Curb Global Economic Growth</a> WSJ: Inflation, Rising Rates Curb Global Economic Growth 
  <p class="updated_time"> 02:23 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61575773?at_medium=RSS&at_campaign=KARANGA">SpiceJet: Passengers stranded as India airline hit by ransomware attack</a> BBC: SpiceJet says flights are now operating normally, but several passengers say they are still stranded. 
  <p class="updated_time"> 02:14 AM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-expand-donbas-assault-but-at-steep-cost-11653472850">Russian Forces Expand Donbas Assault, but at Steep Cost</a> WSJ: Moscow’s military units were pushing to encircle two cities in eastern Ukraine, part of an all-out Russian assault in an effort to take control of Donbas. But they are losing so many men that continued Ukrainian resistance could eventually force Russia to shift strategies again. 
  <p class="updated_time"> 01:59 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61576574?at_medium=RSS&at_campaign=KARANGA">NBA Warriors coach on Texas school shooting: 'When are we going to do something?'</a> BBC: Golden State Warriors' Steve Kerr condemns gun violence and refuses to answer basketball questions. 
+ <p class="updated_time"> 01:45 AM CT, May. 25 </p> 
+ <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
  <p class="updated_time"> 01:35 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61560786?at_medium=RSS&at_campaign=KARANGA">North Korea fires missiles hours after Biden leaves Asia</a> BBC: It came hours after the US leader left Asia following a trip where he vowed to deter North Korea. 
- <p class="updated_time"> 01:25 AM CT, May. 25 </p> 
- <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
  <p class="updated_time"> 01:07 AM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/iran-used-secret-u-n-records-to-evade-nuclear-probes-11653473247">Iran Used Secret U.N. Records to Evade Nuclear Probes</a> WSJ: Iran secured access to secret U.N. atomic agency reports almost two decades ago and circulated the documents among top officials who concealed suspected past work on nuclear weapons. 
  <p class="updated_time"> 01:02 AM CT, May. 25 </p> 
@@ -206,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:36 AM CT, May. 25 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/us/politics/hice-raffensperger-ga-secretary-of-state.html">Raffensperger Wins Georgia’s G.O.P. Secretary of State Primary</a> NYT: He promoted himself as a champion of “election integrity” and rebutted falsehoods made by Donald Trump and his allies. 
  <p class="updated_time"> 06:21 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/china-taiwan-military.html">U.S. Speeds Up Reshaping of Taiwan’s Defenses to Deter China</a> NYT: The Biden administration is taking lessons from the war in Ukraine to turn Taiwan into a “porcupine” bristling with weapons that would inflict severe pain if attacked. 
  <p class="updated_time"> 06:09 AM CT, May. 25 </p> 
@@ -222,6 +224,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/25/1101141332/the-infant-formula-shortage-is-the-focus-of-2-capitol-hill-hearings">The infant formula shortage is the focus of 2 Capitol Hill hearings</a> NPR: Lawmakers on Wednesday are expected to press the FDA and formula makers on how the U.S. got into this situation, and what is being done to relieve the shortage. 
  <p class="updated_time"> 04:03 AM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101141248/after-texas-shooting-biden-reiterates-the-u-s-has-to-stand-up-to-gun-makers">After Texas shooting, Biden reiterates the U.S. has to stand up to gun makers</a> NPR: President Biden urged the nation to pray for the families of the children shot at their school in Ulvade, Texas. He says Congress needs to get a backbone and pass tougher laws. 
+ <p class="updated_time"> 04:03 AM CT, May. 25 </p> 
+ <a href="https://www.npr.org/2022/05/25/1101141304/about-half-of-the-republican-campaigns-for-michigan-governor-are-in-question">About half of the Republican campaigns for Michigan governor are in question</a> NPR: The Michigan elections bureau says five Republican candidates for Michigan governor can't appear on the ballot because of invalid signatures on their nominating petitions. 
  <p class="updated_time"> 04:03 AM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101141200/morning-news-brief">News brief: Texas school shooting, Biden's response, Georgia primary elections</a> NPR: The U.S. reels from a deadly school shooting in Uvalde, Texas. President Biden makes a new push for gun control. And, Gov. Brian Kemp wins Georgia's GOP primary over Trump-backed David Perdue. 
  <p class="updated_time"> 04:00 AM CT, May. 25 </p> 
@@ -320,14 +324,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/24/1100986158/3-months-into-the-russia-ukraine-war-what-happened-today-may-24">3 months into the Russia-Ukraine war: What happened today (May 24)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:48 PM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1101040250/many-nations-say-they-wont-go-to-the-summit-of-the-americas-unless-all-are-invit">Many nations say they won't go to the Summit of the Americas unless all are invited</a> NPR: Will the U.S. be able to salvage the remnants of the Summit of the Americas? And what does the growing boycott mean for U.S. influence in Latin America? 
- <p class="updated_time"> 03:44 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/asia/biden-taiwan-china-australia.html">Biden’s Words on Taiwan Leave Allies in an Awkward Spot</a> NYT: Ahead of a summit with Australia, India and Japan, an off-the-cuff vow to defend the island militarily against China complicates diplomacy, particularly for Australia. 
  <p class="updated_time"> 03:41 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/uvalde-texas-school-shooting-00034864">Shooting at Texas elementary school leaves 19 children dead, horrifies nation</a> Politico: The attack evoked memories of the 2012 attack on an elementary school in Newtown, Conn. 
  <p class="updated_time"> 02:33 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/scotus-marshal-roe-opinion-00034670">Supreme Court marshal digs in on Roe opinion leak</a> Politico: The launch of the probe comes as Chief Justice John Roberts tries to uphold the integrity of the court. 
- <p class="updated_time"> 09:07 AM CT, May. 24 </p> 
- <a href="https://www.npr.org/2022/05/24/1100920286/doj-new-policy-excessive-force">DOJ's new policy requires officers to stop others from using excessive force</a> NPR: The policy spells out situations in which officers have an "affirmative duty" — to prevent or stop other officers from using excessive force, and to render or call for medical aid when it's needed. 
  <p class="updated_time"> 07:01 AM CT, May. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/24/eyes-on-primary-prizes-00034661">Eyes on primary prizes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:47 AM CT, May. 24 </p> 
