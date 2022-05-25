@@ -122,7 +122,8 @@ ggsave("plots/unemployment_rate.png", plot = unemployment_rate,
 
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value),
-              name = "Rate") %>%
+              name = "Rate",
+              tooltip = list(valueSuffix = "%")) %>%
   hc_title(text = "Unemployment Rate") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
@@ -966,7 +967,8 @@ ggsave("plots/champaign_unemployment_rate.png", plot = unemployment_rate,
 
 fig <- hchart(data, "line", hcaes(x = date,
                                   y = value),
-              name = "Rate") %>%
+              name = "Rate",
+              tooltip = list(valueSuffix = "%")) %>%
   hc_title(text = "Unemployment Rate") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "") %>%
