@@ -9,30 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:44 PM CT, May. 24 </p> 
+ <p class="updated_time"> 11:27 PM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Three Ballistic Missiles, Including a Suspected ICBM</a> NYT: The tests came just as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
+ <p class="updated_time"> 11:23 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/05/24/world/russia-ukraine-war">Live Updates: War Raises Famine Fears as Russia Chokes Off Ukraine’s Grains</a> NYT: World leaders say there is no easy way to bypass a Russian blockade without a military clash, and accuse Vladimir V. Putin of using global hunger as a weapon. 
+ <p class="updated_time"> 10:46 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv</a> WSJ: Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv 
  <p class="updated_time"> 10:14 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-mayor-killed.html">Ukraine Charges 8 Russian Fighters in Killings of Village Mayor and Family </a> NYT: The bodies of the mayor, her husband and her son were found after Russian forces retreated in early April. 
- <p class="updated_time"> 10:05 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv</a> WSJ: Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv 
  <p class="updated_time"> 09:54 PM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61573377?at_medium=RSS&at_campaign=KARANGA">Texas shooting: 19 children among dead in primary school attack</a> BBC: Nineteen children are shot dead by a teenage gunman, who is himself killed by law enforcement. 
- <p class="updated_time"> 09:13 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Three Ballistic Missiles, Including a Suspected ICBM</a> NYT: The tests came just as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
- <p class="updated_time"> 09:05 PM CT, May. 24 </p> 
+ <p class="updated_time"> 09:46 PM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
- <p class="updated_time"> 08:05 PM CT, May. 24 </p> 
+ <p class="updated_time"> 08:46 PM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Inflation, Rising Rates Curb Global Economic Growth</a> WSJ: Inflation, Rising Rates Curb Global Economic Growth 
+ <p class="updated_time"> 07:46 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-moved-assets-to-an-island-in-the-english-channel-now-he-faces-a-probe-11653403549">The Island Where Roman Abramovich Kept $7 Billion Is Now Scrutinizing the Russian Oligarch</a> WSJ: The Island Where Roman Abramovich Kept $7 Billion Is Now Scrutinizing the Russian Oligarch 
  <p class="updated_time"> 07:45 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/china-taiwan-military.html">U.S. Speeds Up Reshaping of Taiwan’s Defenses to Deter China</a> NYT: The Biden administration is taking lessons from the war in Ukraine to turn Taiwan into a “porcupine” bristling with weapons that would inflict severe pain if attacked. 
- <p class="updated_time"> 07:05 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-moved-assets-to-an-island-in-the-english-channel-now-he-faces-a-probe-11653403549">The Island Where Roman Abramovich Kept $7 Billion Is Now Scrutinizing the Russian Oligarch</a> WSJ: The Island Where Roman Abramovich Kept $7 Billion Is Now Scrutinizing the Russian Oligarch 
+ <p class="updated_time"> 06:46 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-s-begins-denying-u-s-entry-toafghans-housed-on-military-base-in-kosovo-11653415370">U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo</a> WSJ: U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo 
+ <p class="updated_time"> 06:43 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-fires-three-missiles-after-biden-ends-asia-trip-11653432550">North Korea Fires Three Missiles After Biden Ends Asia Trip</a> WSJ: North Korea test launched a suspected intercontinental ballistic missile that flew only briefly before landing in the sea, South Korea’s military said, one of three missiles it fired early Wednesday. 
  <p class="updated_time"> 06:06 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-donbas.html">Russian Forces Pummel Key Eastern Ukraine Town</a> NYT: With enemy forces massed on three sides, the residents of Sievierodonetsk are at the heart of the battle. 
  <p class="updated_time"> 06:05 PM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-61574412?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Russia's food war</a> BBC: The West has accused the Russian military of holding food supplies for millions around the world hostage. 
- <p class="updated_time"> 06:05 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/u-s-begins-denying-u-s-entry-toafghans-housed-on-military-base-in-kosovo-11653415370">U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo</a> WSJ: U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo 
  <p class="updated_time"> 05:48 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/canada/quebec-language-bill-96.html">Law Requiring French in Quebec Becomes Stricter</a> NYT: Quebec’s new law limits access to government services in languages other than French, requires small businesses to operate in it and caps enrollment at English-language junior colleges. 
  <p class="updated_time"> 05:07 PM CT, May. 24 </p> 
@@ -79,14 +81,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/24/us/politics/russia-china-bombers-biden.html">Russia and China Held Military Exercise in East Asia as Biden Visited</a> NYT: The coordinated bomber flights were the first training activity the two nations had done together since President Vladimir V. Putin of Russia ordered the invasion of Ukraine. 
  <p class="updated_time"> 12:54 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/thailand-wwii-american-remains.html">In This Small Thai Village, American History Runs Deep</a> NYT: In 1944, a U.S. military plane crashed in a spot the locals named “Deadman’s Torso Flat.” A team has found remains that it hopes are those of the airman. 
+ <p class="updated_time"> 11:03 AM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/treasury-to-block-u-s-investors-from-receiving-russian-debt-payments-11653420533">Treasury to Block U.S. Investors From Receiving Russian Debt Payments</a> WSJ: The move to cut off Russia’s ability to make payments on its dollar-denominated sovereign debt will likely put it on a path towards defaulting on its foreign debts this summer. 
  <p class="updated_time"> 10:46 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61568999?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Put values over profits, Nato chief tells countries</a> BBC: Jens Stoltenberg says the Ukraine war has highlighted the cost of trade with "authoritarian regimes". 
  <p class="updated_time"> 10:36 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61560784?at_medium=RSS&at_campaign=KARANGA">Ukraine war: World faces 'dark hour', Biden tells Quad summit</a> BBC: The US president meets key Asia allies to discuss China's influence and differences over Russia's invasion. 
+ <p class="updated_time"> 09:47 AM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/timeline-for-eu-oil-embargo-on-russia-appears-further-set-back-11653418047">Timeline for EU Oil Embargo on Russia Appears Further Set Back</a> WSJ: Hungarian Prime Minister Viktor Orban, the main hurdle to a deal, announced a state of emergency at home over the Ukraine war. 
  <p class="updated_time"> 08:33 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/23/us/politics/biden-taiwan-comments.html">Biden Veers Off Script on Taiwan. It’s Not the First Time.</a> NYT: Offhand remarks that vary from the official talking points have become a feature of the Biden presidency, even as they leave his staff scrambling to spin them away afterward. 
- <p class="updated_time"> 08:00 AM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/in-colombia-former-leftist-guerrilla-leads-presidential-hopefuls-11653400801">In Colombia, Former Leftist Guerrilla Leads Presidential Hopefuls</a> WSJ: Gustavo Petro, who holds a commanding advantage in polls, would be a rare antiestablishment leader for U.S.’s top regional ally. 
  <p class="updated_time"> 07:46 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61567681?at_medium=RSS&at_campaign=KARANGA">Deepfake of murdered teen created to aid cold case</a> BBC: Sedar Soares was shot dead outside a Dutch metro station in 2003, his killer has not been found. 
  <p class="updated_time"> 07:26 AM CT, May. 24 </p> 
@@ -179,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/23/1100731559/russian-diplomat-un-quits-ashamed">A Russian diplomat to the U.N. quits, saying he is ashamed of his country</a> NPR: "Never have I been so ashamed of my country as on Feb. 24 of this year," veteran Russian diplomat Boris Bondarev wrote, alluding to the date of Russia's invasion. 
  <p class="updated_time"> 10:57 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/french-banks-haiti-cic.html">How a French Bank Captured Haiti</a> NYT: It helped finance the Eiffel Tower as it drained millions from Haiti. The bank, C.I.C., won’t talk about it, but The Times tracked how much its investors made — and what Haiti lost. 
- <p class="updated_time"> 09:04 AM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/22/world/asia/iran-revolutionary-guard-killed.html">A Senior Member of Iran’s Revolutionary Guard Is Killed in Tehran</a> NYT: No one claimed responsibility for the assassination of Col. Sayad Khodayee, which took place in broad daylight outside his home. 
  <p class="updated_time"> 06:45 AM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/asia/north-korea-covid.html">North Korea Claims ‘Positive Trend’ Against Covid Outbreak</a> NYT: The government said it had reversed the trajectory of its outbreak, although a true picture of its severity remained elusive. 
  <p class="updated_time"> 04:00 AM CT, May. 23 </p> 
@@ -196,12 +198,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:00 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/25/us/politics/kay-ivey-alabama-primary.html">Gov. Kay Ivey of Alabama defeats her primary opponents.</a> NYT: Ms. Ivey surpassed 50 percent of the vote, avoiding a primary runoff. 
+ <p class="updated_time"> 11:27 PM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Three Ballistic Missiles, Including a Suspected ICBM</a> NYT: The tests came just as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
+ <p class="updated_time"> 11:07 PM CT, May. 24 </p> 
+ <a href="https://www.npr.org/2022/05/25/1101130940/katie-britt-and-u-s-rep-mo-brooks-are-headed-for-an-alabama-senate-runoff">Katie Britt and U.S. Rep. Mo Brooks are headed for an Alabama Senate runoff</a> NPR: Alabama's Republican primary for U.S. Senate is going to a June runoff between Katie Britt and U.S. Rep. Mo Brooks after neither candidate captured a majority of the vote. 
+ <p class="updated_time"> 11:01 PM CT, May. 24 </p> 
+ <a href="https://www.npr.org/2022/05/25/1100757221/incumbent-gov-kay-ivey-wins-gop-primary-in-alabama">Incumbent Gov. Kay Ivey wins GOP primary in Alabama</a> NPR: Up against eight Republican challengers, Gov. Kay Ivey will move forward to the general election for governor in Alabama where a Democrat hasn't been elected to the office for a quarter-century. 
  <p class="updated_time"> 09:49 PM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1101109797/texas-ag-ken-paxton-george-bush-trump-uvalde-republican-primary">Texas Attorney General Ken Paxton, endorsed by Trump, wins Republican primary</a> NPR: In a runoff primary election with George P. Bush, Texas Attorney General Ken Paxton pulled off a win. Paxton is embattled in legal issues but easily won over his Republican rival. 
- <p class="updated_time"> 09:13 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Three Ballistic Missiles, Including a Suspected ICBM</a> NYT: The tests came just as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
  <p class="updated_time"> 09:10 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/mcbath-bourdeaux-georgia-house-results-00034990">McBath defeats Bourdeaux in Georgia matchup of Democratic House members</a> Politico: The two Democrats ran in the same district after Republicans eliminated a blue-leaning district in the Atlanta suburbs. 
  <p class="updated_time"> 08:54 PM CT, May. 24 </p> 
@@ -242,6 +246,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/24/us/politics/army-bases-confederate-names.html">New Names Recommended for 9 Army Bases That Honor Confederate Leaders</a> NYT: A committee established by Congress has selected names commemorating a diverse array of American warriors, as the military continues to examine its history with race. 
  <p class="updated_time"> 06:17 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/business/investors-trump-truth-social.html">These Investors Are Putting $1 Billion Into Trump Media</a> NYT: A draft document contains the names of dozens of hedge funds and others behind the $1 billion private investment announced in December. 
+ <p class="updated_time"> 06:02 PM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/business/ftc-investigation-baby-formula-industry.html">US Begins Inquiry Into Industry’s Role in Infant Formula Supply Shortages</a> NYT: The Federal Trade Commission said it would examine patterns of mergers and acquisitions to better understand how the industry became so concentrated. 
  <p class="updated_time"> 06:00 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/tuesday-elections-democrats-republicans.html">3 Questions About Tuesday’s Big Elections</a> NYT: Will Donald Trump’s “Stop the Steal” candidates accept defeat? Can Democrats find reasons for hope? And for other Republicans, what’s the price of Trump’s cold shoulder? 
  <p class="updated_time"> 05:53 PM CT, May. 24 </p> 
@@ -287,7 +293,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:07 AM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1100920286/doj-new-policy-excessive-force">DOJ's new policy requires officers to stop others from using excessive force</a> NPR: The policy spells out situations in which officers have an "affirmative duty" — to prevent or stop other officers from using excessive force, and to render or call for medical aid when it's needed. 
  <p class="updated_time"> 07:32 AM CT, May. 24 </p> 
- <a href="https://www.npr.org/2022/05/24/1100103661/arkansas-primary-election-results">Here are the key primary election results from Arkansas</a> NPR: Voting concludes Tuesday in the Arkansas primary elections, where Sarah Huckabee Sanders is running for governor to replace incumbent and term-limited Gov. Asa Hutchinson. 
+ <a href="https://www.npr.org/2022/05/24/1100103661/arkansas-primary-election-results">Here are the key primary election results from Arkansas</a> NPR: Voting concluded Tuesday in the Arkansas primary elections, where Sarah Huckabee Sanders is running for governor to replace incumbent and term-limited Gov. Asa Hutchinson. 
  <p class="updated_time"> 07:08 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/trump-candidates-primary-election-today.html">These Trump-Endorsed Candidates Are on the Ballot Today</a> NYT: The beneficiaries of Mr. Trump’s nods include four Republican candidates in Georgia and others in Arkansas and Texas. 
  <p class="updated_time"> 07:01 AM CT, May. 24 </p> 
@@ -302,10 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/05/24/trumps-day-of-reckoning-in-georgia-00034651"> Trump’s day of reckoning in Georgia</a> Politico Playbook: And Biden cleans up his comments on defending Taiwan. 
  <p class="updated_time"> 04:09 AM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1100897918/morning-news-brief">News brief: Georgia primaries, Biden in Japan, Russia-Ukraine war</a> NPR: It's primary day in Georgia. In Tokyo, President Biden meets the leaders of Australia, India and Japan — a group known as the Quad. And, Russia's invasion of Ukraine began three months ago. 
- <p class="updated_time"> 04:01 AM CT, May. 24 </p> 
- <a href="https://www.npr.org/2022/05/24/1100796467/texas-primary-texas-runoff-mail-ballot-rejections">How Texas officials and voting groups are trying to limit mail ballot rejections</a> NPR: Nearly 25,000 mail ballots were rejected for Texas' March primaries. Officials say a design issue with the ballot return envelope was most responsible for the rejections. 
- <p class="updated_time"> 04:01 AM CT, May. 24 </p> 
- <a href="https://www.npr.org/2022/05/24/1100104611/georgia-primary-election-results">Here are the key primary election results from Georgia</a> NPR: In Georgia, there are notable primaries for governor, Senate, secretary of state and key congressional districts. 
  <p class="updated_time"> 04:00 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/migrant-services-shelters-immigration.html">As Border Crossings Soar, Biden Relies on Shelters to Manage Influx</a> NYT: With 8,200 crossings daily, an informal pipeline of shelters and other way stations to house and feed migrants has become central to the government’s response plan. 
  <p class="updated_time"> 03:30 AM CT, May. 24 </p> 
