@@ -9,34 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:47 PM CT, May. 24 </p> 
+ <p class="updated_time"> 10:14 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/05/24/world/russia-ukraine-war">Live Updates: War Raises Famine Fears as Russia Chokes Off Ukraine’s Grains</a> NYT: World leaders say there is no easy way to bypass a Russian blockade without a military clash, and accuse Vladimir V. Putin of using global hunger as a weapon. 
- <p class="updated_time"> 08:35 PM CT, May. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61573377?at_medium=RSS&at_campaign=KARANGA">Texas shooting: At least 19 dead in attack at primary school</a> BBC: The 18-year-old gunman opened fire in the city of Uvalde before he was killed by law enforcement. 
- <p class="updated_time"> 08:00 PM CT, May. 24 </p> 
+ <p class="updated_time"> 10:14 PM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-mayor-killed.html">Ukraine Charges 8 Russian Fighters in Killings of Village Mayor and Family </a> NYT: The bodies of the mayor, her husband and her son were found after Russian forces retreated in early April. 
+ <p class="updated_time"> 09:54 PM CT, May. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61573377?at_medium=RSS&at_campaign=KARANGA">Texas shooting: 19 children among dead in primary school attack</a> BBC: Nineteen children are shot dead by a teenage gunman, who is himself killed by law enforcement. 
+ <p class="updated_time"> 09:30 PM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv</a> WSJ: Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv 
+ <p class="updated_time"> 09:13 PM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Three Ballistic Missiles, Including a Suspected ICBM</a> NYT: The tests came just as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
+ <p class="updated_time"> 08:30 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
  <p class="updated_time"> 07:45 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/china-taiwan-military.html">U.S. Speeds Up Reshaping of Taiwan’s Defenses to Deter China</a> NYT: The Biden administration is taking lessons from the war in Ukraine to turn Taiwan into a “porcupine” bristling with weapons that would inflict severe pain if attacked. 
- <p class="updated_time"> 07:15 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Three Ballistic Missiles</a> NYT: The tests came as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
- <p class="updated_time"> 07:00 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
+ <p class="updated_time"> 07:30 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Inflation, Rising Rates Curb Global Economic Growth</a> WSJ: Inflation, Rising Rates Curb Global Economic Growth 
+ <p class="updated_time"> 06:30 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/roman-abramovich-moved-assets-to-an-island-in-the-english-channel-now-he-faces-a-probe-11653403549">The Island Where Roman Abramovich Kept $7 Billion Is Now Scrutinizing the Russian Oligarch</a> WSJ: The Island Where Roman Abramovich Kept $7 Billion Is Now Scrutinizing the Russian Oligarch 
  <p class="updated_time"> 06:06 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-donbas.html">Russian Forces Pummel Key Eastern Ukraine Town</a> NYT: With enemy forces massed on three sides, the residents of Sievierodonetsk are at the heart of the battle. 
  <p class="updated_time"> 06:05 PM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-61574412?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Russia's food war</a> BBC: The West has accused the Russian military of holding food supplies for millions around the world hostage. 
- <p class="updated_time"> 06:00 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Inflation, Rising Rates Curb Global Economic Growth</a> WSJ: Inflation, Rising Rates Curb Global Economic Growth 
  <p class="updated_time"> 05:48 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/canada/quebec-language-bill-96.html">Law Requiring French in Quebec Becomes Stricter</a> NYT: Quebec’s new law limits access to government services in languages other than French, requires small businesses to operate in it and caps enrollment at English-language junior colleges. 
+ <p class="updated_time"> 05:30 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-s-begins-denying-u-s-entry-toafghans-housed-on-military-base-in-kosovo-11653415370">U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo</a> WSJ: U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo 
  <p class="updated_time"> 05:07 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/business/energy-environment/glencore-price-fixing-bribery.html">Glencore Will Pay $1.1 Billion to Settle Bribery and Price-Fixing Charges</a> NYT: U.S. prosecutors said the settlement followed “a multiyear scheme to manipulate benchmarks used to set prices for oil at two of our country’s busiest ports.” 
  <p class="updated_time"> 05:06 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/23/travel/city-biking-trails.html">7 Great Biking Cities (and Which Trails to Ride)</a> NYT: There’s no better way to zip through a new city than on two wheels. Here are some routes to try, from riverside jaunts to mountain climbs. 
  <p class="updated_time"> 05:05 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/russian-debt-treasury.html">U.S. Will Start Blocking Russia’s Bond Payments to American Investors</a> NYT: The Biden administration’s escalation of sanctions could lead to Russia’s first default on foreign debt in a century. 
- <p class="updated_time"> 05:00 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-moved-assets-to-an-island-in-the-english-channel-now-he-faces-a-probe-11653403549">The Island Where Roman Abramovich Kept $7 Billion Is Now Scrutinizing the Russian Oligarch</a> WSJ: The Island Where Roman Abramovich Kept $7 Billion Is Now Scrutinizing the Russian Oligarch 
  <p class="updated_time"> 04:39 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-food-supply.html">Russia Is Accused of Using Food as ‘Blackmail’ in Ukraine War</a> NYT: World leaders say there is no easy way to bypass a Russian blockade without a military clash, and accuse Vladimir V. Putin of using global hunger as a weapon. 
  <p class="updated_time"> 04:33 PM CT, May. 24 </p> 
@@ -45,8 +49,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/24/us/birth-rate-increase.html">U.S. Birthrate Ticks Up 1 Percent, Halting a Steady Decline</a> NYT: Data from the federal government showed last year’s increase was the first since 2014 and followed a sharp drop in 2020, when the coronavirus pandemic hit. 
  <p class="updated_time"> 04:00 PM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1100986158/3-months-into-the-russia-ukraine-war-what-happened-today-may-24">3 months into the Russia-Ukraine war: What happened today (May 24)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 04:00 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/u-s-begins-denying-u-s-entry-toafghans-housed-on-military-base-in-kosovo-11653415370">U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo</a> WSJ: U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo 
  <p class="updated_time"> 03:48 PM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1101040250/many-nations-say-they-wont-go-to-the-summit-of-the-americas-unless-all-are-invit">Many nations say they won't go to the Summit of the Americas unless all are invited</a> NPR: Will the U.S. be able to salvage the remnants of the Summit of the Americas? And what does the growing boycott mean for U.S. influence in Latin America? 
  <p class="updated_time"> 03:44 PM CT, May. 24 </p> 
@@ -63,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/24/1101040235/a-ukrainian-medic-recorded-footage-of-her-time-in-mariupol-then-sent-it-to-the-a">A Ukrainian medic recorded footage of her time in Mariupol — then sent it to the AP</a> NPR: NPR's Sacha Pfeiffer talks with Lori Hinnant, investigative correspondent with the Associated Press, about the story of a Ukrainian medic who recorded footage of her time in Mariupol. 
  <p class="updated_time"> 02:55 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/20/world/haiti-wall-street-us-banks.html">Invade Haiti, Wall Street Urged. The U.S. Obliged.</a> NYT: The long occupation of Haiti began with a drumbeat from the bank that became Citigroup, decades of diplomatic correspondence and other records show. 
- <p class="updated_time"> 02:54 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-mayor-killed.html">Ukraine Charges 8 Russian Fighters in Killings of Village Mayor and Family </a> NYT: The bodies of the mayor, her husband and her son were found after Russian forces retreated in early April. 
  <p class="updated_time"> 02:06 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/elizabeth-line-london-tube-opens.html">Eager London Riders Get Up Early for Elizabeth Line’s Debut</a> NYT: The sleek new tube line officially opened Tuesday, drawing train enthusiasts and awing normally stoic London commuters. 
  <p class="updated_time"> 01:50 PM CT, May. 24 </p> 
@@ -196,6 +196,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:49 PM CT, May. 24 </p> 
+ <a href="https://www.npr.org/2022/05/24/1101109797/texas-ag-ken-paxton-george-bush-trump-uvalde-republican-primary">Texas Attorney General Ken Paxton, endorsed by Trump, wins Republican primary</a> NPR: In a runoff primary election with George P. Bush, Texas Attorney General Ken Paxton pulled off a win. Paxton is embattled in legal issues but easily won over his Republican rival. 
+ <p class="updated_time"> 09:13 PM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Three Ballistic Missiles, Including a Suspected ICBM</a> NYT: The tests came just as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
+ <p class="updated_time"> 09:10 PM CT, May. 24 </p> 
+ <a href="https://www.politico.com/news/2022/05/24/mcbath-bourdeaux-georgia-house-results-00034990">McBath defeats Bourdeaux in Georgia matchup of Democratic House members</a> Politico: The two Democrats ran in the same district after Republicans eliminated a blue-leaning district in the Atlanta suburbs. 
+ <p class="updated_time"> 08:54 PM CT, May. 24 </p> 
+ <a href="https://www.politico.com/news/2022/05/24/gop-leader-tells-court-bannon-contempt-charges-wont-stand-00034982">GOP leader tells court that Bannon contempt charges won’t stand</a> Politico: Kevin McCarthy said the Jan. 6 committee doesn’t have enough members for a valid conviction. 
  <p class="updated_time"> 08:53 PM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1101080553/biden-has-a-new-executive-order-on-policing-2-years-after-george-floyd-was-kille">Biden has a new executive order on policing, 2 years after George Floyd was killed</a> NPR: The order will be signed Wednesday, the second anniversary of the murder of George Floyd while in police custody. But it only applies to federal law enforcement — not local forces 
  <p class="updated_time"> 08:32 PM CT, May. 24 </p> 
@@ -218,8 +226,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/24/1100739768/georgia-trump-kemp-perdue-abrams-primary-election-lies">Trump's pick for governor — who ran on election lies — loses to Kemp in Georgia</a> NPR: Georgia Gov. Brian Kemp won the GOP primary for governor over former U.S. Sen. David Perdue. Kemp will face Democrat Stacey Abrams in November — a rematch of 2018. 
  <p class="updated_time"> 07:17 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/george-bush-plot-isis.html">Iraqi Man Helped Plot to Kill Bush, F.B.I. Says</a> NYT: Authorities linked the man, who was living in Ohio, to ISIS and accused him of planning to smuggle immigrants into the United States to help carry out the killing. 
- <p class="updated_time"> 07:15 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Three Ballistic Missiles</a> NYT: The tests came as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
  <p class="updated_time"> 07:08 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/murphy-forges-ahead-on-gun-talks-with-gop-after-texas-shooting-00034951">Murphy pleads with GOP for a gun deal as 'another Sandy Hook' grips America</a> Politico: The massacre of at least 18 children  at a Texas elementary school came one week after another shooter killed 10 people, mostly Black. 
  <p class="updated_time"> 07:04 PM CT, May. 24 </p> 
@@ -241,7 +247,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:49 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/north-korea-launches-ballistic-missiles-00034944">Seoul: North Korea launches 2 ballistic missiles toward sea</a> Politico: The missile firings came three days after the leaders of South Korea and the United States agreed to consider expanded military exercises. 
  <p class="updated_time"> 05:33 PM CT, May. 24 </p> 
- <a href="https://www.politico.com/news/2022/05/24/may-24-primary-2022-results-00034888">Kemp notches huge primary win in Georgia</a> Politico: Democratic Rep. Henry Cuellar is also locked in a tight primary in South Texas, one of several big Democratic contests Tuesday night. 
+ <a href="https://www.politico.com/news/2022/05/24/may-24-primary-2022-results-00034888">Kemp notches huge primary win in Georgia as Cuellar tries to hang on in Texas</a> Politico: Georgia Secretary of State Brad Raffensperger is also trying to turn back a Trump-endorsed GOP primary challenger. 
  <p class="updated_time"> 05:12 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/florida-republicans-total-abortion-ban-00034887">Florida Republicans eye total ban on abortions</a> Politico: The GOP lawmakers’ comments indicate that the fight over abortion rights in Florida is just beginning. 
  <p class="updated_time"> 05:07 PM CT, May. 24 </p> 
@@ -263,7 +269,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:44 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/biden-taiwan-china-australia.html">Biden’s Words on Taiwan Leave Allies in an Awkward Spot</a> NYT: Ahead of a summit with Australia, India and Japan, an off-the-cuff vow to defend the island militarily against China complicates diplomacy, particularly for Australia. 
  <p class="updated_time"> 03:41 PM CT, May. 24 </p> 
- <a href="https://www.politico.com/news/2022/05/24/uvalde-texas-school-shooting-00034864">Shooting at Texas elementary school leaves 18 children dead, horrifies nation</a> Politico: The attack evoked memories of the 2012 attack on an elementary school in Newtown, Conn. 
+ <a href="https://www.politico.com/news/2022/05/24/uvalde-texas-school-shooting-00034864">Shooting at Texas elementary school leaves 19 children dead, horrifies nation</a> Politico: The attack evoked memories of the 2012 attack on an elementary school in Newtown, Conn. 
  <p class="updated_time"> 02:33 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/scotus-marshal-roe-opinion-00034670">Supreme Court marshal digs in on Roe opinion leak</a> Politico: The launch of the probe comes as Chief Justice John Roberts tries to uphold the integrity of the court. 
  <p class="updated_time"> 02:26 PM CT, May. 24 </p> 
@@ -300,16 +306,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/24/1100796467/texas-primary-texas-runoff-mail-ballot-rejections">How Texas officials and voting groups are trying to limit mail ballot rejections</a> NPR: Nearly 25,000 mail ballots were rejected for Texas' March primaries. Officials say a design issue with the ballot return envelope was most responsible for the rejections. 
  <p class="updated_time"> 04:01 AM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1100104611/georgia-primary-election-results">Here are the key primary election results from Georgia</a> NPR: In Georgia, there are notable primaries for governor, Senate, secretary of state and key congressional districts. 
- <p class="updated_time"> 04:01 AM CT, May. 24 </p> 
- <a href="https://www.npr.org/2022/05/24/1099591174/election-results-midterms-trump-biden-fraud-poll-workers-michigan-denial">The election system shuddered in 2020. Now, there are fears of an attack within</a> NPR: The election system shuddered in 2020 as Donald Trump sought to overturn the result. Now, election deniers and defenders have eyes on the nuts and bolts of the process itself. 
  <p class="updated_time"> 04:00 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/migrant-services-shelters-immigration.html">As Border Crossings Soar, Biden Relies on Shelters to Manage Influx</a> NYT: With 8,200 crossings daily, an informal pipeline of shelters and other way stations to house and feed migrants has become central to the government’s response plan. 
  <p class="updated_time"> 03:30 AM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/michael-bennet-colorado-senate-00034518">In Colorado, Bennet braces for another red wave</a> Politico: In a state President Joe Biden won by 13 points, Michael Bennet is warning of a tough road ahead — not a good sign for Senate Democrats. 
- <p class="updated_time"> 09:50 PM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/us/politics/justice-department-excessive-force.html">Justice Dept. Orders Agents to Intervene if They See Police Violence</a> NYT: The changes, the first to the department’s use-of-force policy in 18 years, follow the murder of George Floyd and other incidents of police brutality. 
- <p class="updated_time"> 09:15 PM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/us/politics/pennsylvania-senate-race-mccormick-oz.html">McCormick Sues to Count Undated Mail-In Ballots, Trailing Oz</a> NYT: David McCormick, a former hedge fund chief, is trying to close the gap against Dr. Mehmet Oz in the undecided Republican primary contest. 
  <p class="updated_time"> 08:52 PM CT, May. 23 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:51 PM CT, May. 23 </p> 
