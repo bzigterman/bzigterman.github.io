@@ -9,28 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:41 AM CT, May. 25 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/world/europe/uk-homes-for-ukraine-refugees.html">As U.K. Offers Homes to Ukrainians, Process Lags Behind Good Will</a> NYT: A plan that allows Britons to sponsor people fleeing the Russian invasion has been plagued by visa delays and safeguarding concerns. 
+ <p class="updated_time"> 12:13 AM CT, May. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/24/world/russia-ukraine-war">What Happened on Day 90 of the War in Ukraine</a> NYT: World leaders say there is no easy way to bypass a Russian blockade without a military clash, and accuse Vladimir V. Putin of using global hunger as a weapon. 
+ <p class="updated_time"> 11:48 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv</a> WSJ: Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv 
  <p class="updated_time"> 11:27 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Three Ballistic Missiles, Including a Suspected ICBM</a> NYT: The tests came just as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
- <p class="updated_time"> 11:23 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/live/2022/05/24/world/russia-ukraine-war">Live Updates: War Raises Famine Fears as Russia Chokes Off Ukraine’s Grains</a> NYT: World leaders say there is no easy way to bypass a Russian blockade without a military clash, and accuse Vladimir V. Putin of using global hunger as a weapon. 
- <p class="updated_time"> 10:46 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv</a> WSJ: Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv 
+ <p class="updated_time"> 11:03 PM CT, May. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61574576?at_medium=RSS&at_campaign=KARANGA">Georgia primaries: Trump-backed Perdue trounced by Pence's pick</a> BBC: The governor's race in Georgia will pit Republican Brian Kemp against Democrat star Stacy Abrams. 
+ <p class="updated_time"> 10:48 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/treasury-to-block-u-s-investors-from-receiving-russian-debt-payments-11653420533">Treasury to Block U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury to Block U.S. Investors From Receiving Russian Debt Payments 
  <p class="updated_time"> 10:14 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-mayor-killed.html">Ukraine Charges 8 Russian Fighters in Killings of Village Mayor and Family </a> NYT: The bodies of the mayor, her husband and her son were found after Russian forces retreated in early April. 
  <p class="updated_time"> 09:54 PM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61573377?at_medium=RSS&at_campaign=KARANGA">Texas shooting: 19 children among dead in primary school attack</a> BBC: Nineteen children are shot dead by a teenage gunman, who is himself killed by law enforcement. 
- <p class="updated_time"> 09:46 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
- <p class="updated_time"> 08:46 PM CT, May. 24 </p> 
+ <p class="updated_time"> 09:48 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/timeline-for-eu-oil-embargo-on-russia-appears-further-set-back-11653418047">Timeline for EU Oil Embargo on Russia Appears Further Set Back</a> WSJ: Timeline for EU Oil Embargo on Russia Appears Further Set Back 
+ <p class="updated_time"> 08:48 PM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Inflation, Rising Rates Curb Global Economic Growth</a> WSJ: Inflation, Rising Rates Curb Global Economic Growth 
- <p class="updated_time"> 07:46 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/roman-abramovich-moved-assets-to-an-island-in-the-english-channel-now-he-faces-a-probe-11653403549">The Island Where Roman Abramovich Kept $7 Billion Is Now Scrutinizing the Russian Oligarch</a> WSJ: The Island Where Roman Abramovich Kept $7 Billion Is Now Scrutinizing the Russian Oligarch 
+ <p class="updated_time"> 07:48 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
  <p class="updated_time"> 07:45 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/china-taiwan-military.html">U.S. Speeds Up Reshaping of Taiwan’s Defenses to Deter China</a> NYT: The Biden administration is taking lessons from the war in Ukraine to turn Taiwan into a “porcupine” bristling with weapons that would inflict severe pain if attacked. 
- <p class="updated_time"> 06:46 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/u-s-begins-denying-u-s-entry-toafghans-housed-on-military-base-in-kosovo-11653415370">U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo</a> WSJ: U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo 
  <p class="updated_time"> 06:43 PM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/north-korea-fires-three-missiles-after-biden-ends-asia-trip-11653432550">North Korea Fires Three Missiles After Biden Ends Asia Trip</a> WSJ: North Korea test launched a suspected intercontinental ballistic missile that flew only briefly before landing in the sea, South Korea’s military said, one of three missiles it fired early Wednesday. 
+ <p class="updated_time"> 06:40 PM CT, May. 24 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61573743?at_medium=RSS&at_campaign=KARANGA">Chris Murphy on Texas school shooting: 'We have another Sandy Hook on our hands'</a> BBC: Senator Chris Murphy delivered an emotional plea in the Senate following a school shooting in Texas. 
  <p class="updated_time"> 06:06 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-donbas.html">Russian Forces Pummel Key Eastern Ukraine Town</a> NYT: With enemy forces massed on three sides, the residents of Sievierodonetsk are at the heart of the battle. 
  <p class="updated_time"> 06:05 PM CT, May. 24 </p> 
@@ -81,14 +87,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/24/us/politics/russia-china-bombers-biden.html">Russia and China Held Military Exercise in East Asia as Biden Visited</a> NYT: The coordinated bomber flights were the first training activity the two nations had done together since President Vladimir V. Putin of Russia ordered the invasion of Ukraine. 
  <p class="updated_time"> 12:54 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/thailand-wwii-american-remains.html">In This Small Thai Village, American History Runs Deep</a> NYT: In 1944, a U.S. military plane crashed in a spot the locals named “Deadman’s Torso Flat.” A team has found remains that it hopes are those of the airman. 
- <p class="updated_time"> 11:03 AM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/treasury-to-block-u-s-investors-from-receiving-russian-debt-payments-11653420533">Treasury to Block U.S. Investors From Receiving Russian Debt Payments</a> WSJ: The move to cut off Russia’s ability to make payments on its dollar-denominated sovereign debt will likely put it on a path towards defaulting on its foreign debts this summer. 
  <p class="updated_time"> 10:46 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61568999?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Put values over profits, Nato chief tells countries</a> BBC: Jens Stoltenberg says the Ukraine war has highlighted the cost of trade with "authoritarian regimes". 
  <p class="updated_time"> 10:36 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61560784?at_medium=RSS&at_campaign=KARANGA">Ukraine war: World faces 'dark hour', Biden tells Quad summit</a> BBC: The US president meets key Asia allies to discuss China's influence and differences over Russia's invasion. 
- <p class="updated_time"> 09:47 AM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/timeline-for-eu-oil-embargo-on-russia-appears-further-set-back-11653418047">Timeline for EU Oil Embargo on Russia Appears Further Set Back</a> WSJ: Hungarian Prime Minister Viktor Orban, the main hurdle to a deal, announced a state of emergency at home over the Ukraine war. 
  <p class="updated_time"> 08:33 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/23/us/politics/biden-taiwan-comments.html">Biden Veers Off Script on Taiwan. It’s Not the First Time.</a> NYT: Offhand remarks that vary from the official talking points have become a feature of the Biden presidency, even as they leave his staff scrambling to spin them away afterward. 
  <p class="updated_time"> 07:46 AM CT, May. 24 </p> 
@@ -97,12 +99,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61562543?at_medium=RSS&at_campaign=KARANGA">Israel says Hamas plot to kill prominent politician in Jerusalem thwarted</a> BBC: Three Palestinians are accused of planning to kill a politician, kidnap soldiers and bomb a railway. 
  <p class="updated_time"> 06:28 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61563026?at_medium=RSS&at_campaign=KARANGA">Executions spiked in Iran in Saudi Arabia in 2021 - Amnesty</a> BBC: Iran accounted for 314 of the 579 executions recorded worldwide, Amnesty International says. 
- <p class="updated_time"> 05:25 AM CT, May. 24 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61562285?at_medium=RSS&at_campaign=KARANGA">Coronavirus: Argentine President Fernández pays 'fine' over lockdown party</a> BBC: Leaked photos of the dinner party held while Covid lockdown measures were in force caused outrage. 
  <p class="updated_time"> 05:03 AM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61562307?at_medium=RSS&at_campaign=KARANGA">Luc Besson: Rape case dismissed for French film director</a> BBC: The director of The Big Blue and Nikita was accused of repeatedly raping actress Sand Van Roy. 
- <p class="updated_time"> 05:00 AM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/europe/uk-homes-for-ukraine-refugees.html">As U.K. Offers Homes to Ukrainians, Process Lags Behind Good Will</a> NYT: A plan that allows Britons to sponsor people fleeing the Russian invasion has been plagued by visa delays and safeguarding concerns. 
  <p class="updated_time"> 04:09 AM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1100898004/a-battlefield-assessment-three-months-after-russia-invaded-ukraine">Three months of war: Russia underachieves, Ukraine overachieves</a> NPR: When Ukraine was invaded, many expected a quick Russian victory. The war is 3 months old, with both sides digging in for a battle that could potentially be a long, drawn-out stalemate. 
  <p class="updated_time"> 04:00 AM CT, May. 24 </p> 
@@ -198,6 +196,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:23 AM CT, May. 25 </p> 
+ <a href="https://www.politico.com/news/2022/05/25/ukraine-bodies-mariupol-ruins-00035019">Ukraine: 200 bodies found in basement in Mariupol’s ruins</a> Politico: Horrors keep coming to light in the ruined city. 
+ <p class="updated_time"> 12:09 AM CT, May. 25 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/us/politics/brian-kemp-david-perdue-georgia-governor-trump.html">Brian Kemp trounces Trump-backed David Perdue in a Republican primary battle for Georgia governor.</a> NYT: Mr. Kemp, the incumbent, won by a wide enough margin to avoid a runoff, exposing the limits of Donald Trump’s hold on his party’s base. 
+ <p class="updated_time"> 12:05 AM CT, May. 25 </p> 
+ <a href="https://www.politico.com/news/2022/05/25/raffensperger-wins-georgia-secretary-of-state-primary-over-trump-backed-opponent-00035011">Raffensperger wins Georgia secretary of state primary over Trump-backed opponent</a> Politico: The swing state's chief election officer has been under attack from Trump since 2020. 
+ <p class="updated_time"> 12:03 AM CT, May. 25 </p> 
+ <a href="https://www.npr.org/2022/05/25/1100947607/georgia-secretary-of-state-raffensperger-beats-trump-backed-primary-challenge-ap">Georgia Secretary of State Raffensperger beats Trump-backed primary challenge, AP says</a> NPR: Incumbent Republican Secretary of State Brad Raffensperger famously refused then-President Donald Trump's entreaties to "find" enough votes to overturn his loss in Georgia. 
  <p class="updated_time"> 11:27 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Three Ballistic Missiles, Including a Suspected ICBM</a> NYT: The tests came just as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
  <p class="updated_time"> 11:07 PM CT, May. 24 </p> 
@@ -255,7 +261,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:49 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/north-korea-launches-ballistic-missiles-00034944">Seoul: North Korea launches 2 ballistic missiles toward sea</a> Politico: The missile firings came three days after the leaders of South Korea and the United States agreed to consider expanded military exercises. 
  <p class="updated_time"> 05:33 PM CT, May. 24 </p> 
- <a href="https://www.politico.com/news/2022/05/24/may-24-primary-2022-results-00034888">Kemp notches huge primary win in Georgia as Cuellar tries to hang on in Texas</a> Politico: Georgia Secretary of State Brad Raffensperger is also trying to turn back a Trump-endorsed GOP primary challenger. 
+ <a href="https://www.politico.com/news/2022/05/24/may-24-primary-2022-results-00034888">Kemp notches huge primary win in Georgia as Cuellar tries to hang on in Texas</a> Politico: Georgia Secretary of State Brad Raffensperger also turned back a Trump-endorsed GOP primary challenger. 
  <p class="updated_time"> 05:12 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/florida-republicans-total-abortion-ban-00034887">Florida Republicans eye total ban on abortions</a> Politico: The GOP lawmakers’ comments indicate that the fight over abortion rights in Florida is just beginning. 
  <p class="updated_time"> 05:07 PM CT, May. 24 </p> 
@@ -306,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/money/2022/05/24/1100387792/ben-bernankes-lessons-from-the-great-inflation">Ben Bernanke's Lessons From 'The Great Inflation'</a> NPR: In a new book, Ben Bernanke explains how and why the U.S. Federal Reserve has evolved to play such an important role in the economy. 
  <p class="updated_time"> 05:27 AM CT, May. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/24/trumps-day-of-reckoning-in-georgia-00034651"> Trump’s day of reckoning in Georgia</a> Politico Playbook: And Biden cleans up his comments on defending Taiwan. 
- <p class="updated_time"> 04:09 AM CT, May. 24 </p> 
- <a href="https://www.npr.org/2022/05/24/1100897918/morning-news-brief">News brief: Georgia primaries, Biden in Japan, Russia-Ukraine war</a> NPR: It's primary day in Georgia. In Tokyo, President Biden meets the leaders of Australia, India and Japan — a group known as the Quad. And, Russia's invasion of Ukraine began three months ago. 
  <p class="updated_time"> 04:00 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/migrant-services-shelters-immigration.html">As Border Crossings Soar, Biden Relies on Shelters to Manage Influx</a> NYT: With 8,200 crossings daily, an informal pipeline of shelters and other way stations to house and feed migrants has become central to the government’s response plan. 
  <p class="updated_time"> 03:30 AM CT, May. 24 </p> 
@@ -316,12 +320,8 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:51 PM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/jan-6-committee-court-test-trump-appointees-00034592">Select committee effort to obtain RNC files faces appeals court test</a> Politico: Time is also running short for the House Jan. 6 panel. 
- <p class="updated_time"> 06:43 PM CT, May. 23 </p> 
- <a href="https://www.politico.com/news/2022/05/23/bidens-taiwan-defense-pledge-inflames-u-s-china-relations-00034588">Biden’s Taiwan defense pledge inflames U.S.-China relations</a> Politico: The president’s “strategic ambiguity” backtrack may hasten Taiwan Strait conflict, observers say. 
  <p class="updated_time"> 06:25 PM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/new-york-redistricting-nadler-maloney-primary-00034521">A Manhattan clash of the titans: Redistricting pits Nadler vs. Maloney in primary</a> Politico: Rep. Carolyn Maloney said she was surprised when Rep. Jerry Nadler announced he was running in New York's 12th District, something he didn't mention when they spoke after the special master released a preliminary set of maps last week. Nadler disputes her account. 
- <p class="updated_time"> 01:55 PM CT, May. 23 </p> 
- <a href="https://www.politico.com/news/2022/05/23/blinken-china-strategy-speech-00034428">Blinken to unveil long-awaited China strategy in Thursday speech</a> Politico: The strategy is expected to build on former President Donald Trump's China policy, experts say. 
  <p class="updated_time"> 01:27 PM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/fbi-trump-russia-secret-server-claims-00034434">Jurors hear contrasting stories about FBI handling of Trump-Russia secret server claims</a> Politico: Agents detail their role in probe prompted by attorney Michael Sussmann, who is on trial over an alleged false statement to the FBI. 
  <p class="updated_time"> 11:03 AM CT, May. 23 </p> 
