@@ -9,32 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:14 PM CT, May. 24 </p> 
+ <p class="updated_time"> 10:44 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/live/2022/05/24/world/russia-ukraine-war">Live Updates: War Raises Famine Fears as Russia Chokes Off Ukraine’s Grains</a> NYT: World leaders say there is no easy way to bypass a Russian blockade without a military clash, and accuse Vladimir V. Putin of using global hunger as a weapon. 
  <p class="updated_time"> 10:14 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-mayor-killed.html">Ukraine Charges 8 Russian Fighters in Killings of Village Mayor and Family </a> NYT: The bodies of the mayor, her husband and her son were found after Russian forces retreated in early April. 
+ <p class="updated_time"> 10:05 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv</a> WSJ: Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv 
  <p class="updated_time"> 09:54 PM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61573377?at_medium=RSS&at_campaign=KARANGA">Texas shooting: 19 children among dead in primary school attack</a> BBC: Nineteen children are shot dead by a teenage gunman, who is himself killed by law enforcement. 
- <p class="updated_time"> 09:30 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv</a> WSJ: Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv 
  <p class="updated_time"> 09:13 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Three Ballistic Missiles, Including a Suspected ICBM</a> NYT: The tests came just as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
- <p class="updated_time"> 08:30 PM CT, May. 24 </p> 
+ <p class="updated_time"> 09:05 PM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
+ <p class="updated_time"> 08:05 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Inflation, Rising Rates Curb Global Economic Growth</a> WSJ: Inflation, Rising Rates Curb Global Economic Growth 
  <p class="updated_time"> 07:45 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/china-taiwan-military.html">U.S. Speeds Up Reshaping of Taiwan’s Defenses to Deter China</a> NYT: The Biden administration is taking lessons from the war in Ukraine to turn Taiwan into a “porcupine” bristling with weapons that would inflict severe pain if attacked. 
- <p class="updated_time"> 07:30 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Inflation, Rising Rates Curb Global Economic Growth</a> WSJ: Inflation, Rising Rates Curb Global Economic Growth 
- <p class="updated_time"> 06:30 PM CT, May. 24 </p> 
+ <p class="updated_time"> 07:05 PM CT, May. 24 </p> 
  <a href="https://www.wsj.com/articles/roman-abramovich-moved-assets-to-an-island-in-the-english-channel-now-he-faces-a-probe-11653403549">The Island Where Roman Abramovich Kept $7 Billion Is Now Scrutinizing the Russian Oligarch</a> WSJ: The Island Where Roman Abramovich Kept $7 Billion Is Now Scrutinizing the Russian Oligarch 
  <p class="updated_time"> 06:06 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-donbas.html">Russian Forces Pummel Key Eastern Ukraine Town</a> NYT: With enemy forces massed on three sides, the residents of Sievierodonetsk are at the heart of the battle. 
  <p class="updated_time"> 06:05 PM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-61574412?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Russia's food war</a> BBC: The West has accused the Russian military of holding food supplies for millions around the world hostage. 
+ <p class="updated_time"> 06:05 PM CT, May. 24 </p> 
+ <a href="https://www.wsj.com/articles/u-s-begins-denying-u-s-entry-toafghans-housed-on-military-base-in-kosovo-11653415370">U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo</a> WSJ: U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo 
  <p class="updated_time"> 05:48 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/canada/quebec-language-bill-96.html">Law Requiring French in Quebec Becomes Stricter</a> NYT: Quebec’s new law limits access to government services in languages other than French, requires small businesses to operate in it and caps enrollment at English-language junior colleges. 
- <p class="updated_time"> 05:30 PM CT, May. 24 </p> 
- <a href="https://www.wsj.com/articles/u-s-begins-denying-u-s-entry-toafghans-housed-on-military-base-in-kosovo-11653415370">U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo</a> WSJ: U.S. Begins Denying U.S. Entry to Afghans Housed on Base in Kosovo 
  <p class="updated_time"> 05:07 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/business/energy-environment/glencore-price-fixing-bribery.html">Glencore Will Pay $1.1 Billion to Settle Bribery and Price-Fixing Charges</a> NYT: U.S. prosecutors said the settlement followed “a multiyear scheme to manipulate benchmarks used to set prices for oil at two of our country’s busiest ports.” 
  <p class="updated_time"> 05:06 PM CT, May. 24 </p> 
@@ -196,6 +196,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:00 PM CT, May. 24 </p> 
+ <a href="https://www.nytimes.com/2022/05/25/us/politics/kay-ivey-alabama-primary.html">Gov. Kay Ivey of Alabama defeats her primary opponents.</a> NYT: Ms. Ivey surpassed 50 percent of the vote, avoiding a primary runoff. 
  <p class="updated_time"> 09:49 PM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1101109797/texas-ag-ken-paxton-george-bush-trump-uvalde-republican-primary">Texas Attorney General Ken Paxton, endorsed by Trump, wins Republican primary</a> NPR: In a runoff primary election with George P. Bush, Texas Attorney General Ken Paxton pulled off a win. Paxton is embattled in legal issues but easily won over his Republican rival. 
  <p class="updated_time"> 09:13 PM CT, May. 24 </p> 
@@ -286,8 +288,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/24/1100920286/doj-new-policy-excessive-force">DOJ's new policy requires officers to stop others from using excessive force</a> NPR: The policy spells out situations in which officers have an "affirmative duty" — to prevent or stop other officers from using excessive force, and to render or call for medical aid when it's needed. 
  <p class="updated_time"> 07:32 AM CT, May. 24 </p> 
  <a href="https://www.npr.org/2022/05/24/1100103661/arkansas-primary-election-results">Here are the key primary election results from Arkansas</a> NPR: Voting concludes Tuesday in the Arkansas primary elections, where Sarah Huckabee Sanders is running for governor to replace incumbent and term-limited Gov. Asa Hutchinson. 
- <p class="updated_time"> 07:29 AM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/us/politics/georgia-elections-texas-arkansas-alabama-polls.html">Trump’s ‘big lie’ will be tested in Georgia. Here’s what else we’re following.</a> NYT: Alabama, Arkansas and Texas are also holding primaries and runoff elections that will offer new hints of where voters stand on national issues and Donald Trump’s standing in the Republican Party. 
  <p class="updated_time"> 07:08 AM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/trump-candidates-primary-election-today.html">These Trump-Endorsed Candidates Are on the Ballot Today</a> NYT: The beneficiaries of Mr. Trump’s nods include four Republican candidates in Georgia and others in Arkansas and Texas. 
  <p class="updated_time"> 07:01 AM CT, May. 24 </p> 
@@ -314,8 +314,12 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:51 PM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/jan-6-committee-court-test-trump-appointees-00034592">Select committee effort to obtain RNC files faces appeals court test</a> Politico: Time is also running short for the House Jan. 6 panel. 
+ <p class="updated_time"> 06:43 PM CT, May. 23 </p> 
+ <a href="https://www.politico.com/news/2022/05/23/bidens-taiwan-defense-pledge-inflames-u-s-china-relations-00034588">Biden’s Taiwan defense pledge inflames U.S.-China relations</a> Politico: The president’s “strategic ambiguity” backtrack may hasten Taiwan Strait conflict, observers say. 
  <p class="updated_time"> 06:25 PM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/new-york-redistricting-nadler-maloney-primary-00034521">A Manhattan clash of the titans: Redistricting pits Nadler vs. Maloney in primary</a> Politico: Rep. Carolyn Maloney said she was surprised when Rep. Jerry Nadler announced he was running in New York's 12th District, something he didn't mention when they spoke after the special master released a preliminary set of maps last week. Nadler disputes her account. 
+ <p class="updated_time"> 01:55 PM CT, May. 23 </p> 
+ <a href="https://www.politico.com/news/2022/05/23/blinken-china-strategy-speech-00034428">Blinken to unveil long-awaited China strategy in Thursday speech</a> Politico: The strategy is expected to build on former President Donald Trump's China policy, experts say. 
  <p class="updated_time"> 01:27 PM CT, May. 23 </p> 
  <a href="https://www.politico.com/news/2022/05/23/fbi-trump-russia-secret-server-claims-00034434">Jurors hear contrasting stories about FBI handling of Trump-Russia secret server claims</a> Politico: Agents detail their role in probe prompted by attorney Michael Sussmann, who is on trial over an alleged false statement to the FBI. 
  <p class="updated_time"> 11:03 AM CT, May. 23 </p> 
