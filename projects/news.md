@@ -9,23 +9,25 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:47 AM CT, May. 25 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-food-supply.html">Russia Is Accused of Using Food as ‘Blackmail’ in Ukraine War</a> NYT: World leaders say there is no easy way to bypass a Russian blockade without a military clash, and accuse Vladimir V. Putin of using global hunger as a weapon. 
+ <p class="updated_time"> 06:46 AM CT, May. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/25/world/russia-ukraine-war">Live Updates: Narrower Focus Helps Russia Make Gains in Ukraine’s East</a> NYT: Ukrainian officials fear a repeat of the siege tactics Russia used in Mariupol as it tries to capture Sievierodonetsk and other cities in the Donbas region. Diplomats from Finland and Sweden were meeting with their Turkish counterparts to discuss their NATO application. 
+ <p class="updated_time"> 06:45 AM CT, May. 25 </p> 
+ <a href="https://www.nytimes.com/2022/05/25/world/asia/china-taiwan-military-drills.html">After Biden Visit, China Organizes Military Drills Near Taiwan</a> NYT: After President Biden suggested the United States would get involved militarily to defend Taiwan if China attacked it, China described organizing combat drills in the seas and airspace around Taiwan. 
  <p class="updated_time"> 06:37 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/05/25/world/uk-covid-lockdown-report-boris-johnson">Live Updates: U.K. Lockdown Report Is Critical of Senior Leaders</a> NYT: Compiled by a top-ranking civil servant, the conclusions offered a harsh assessment of Downing Street culture and will most likely increase the pressure on Prime Minister Boris Johnson. 
  <p class="updated_time"> 06:37 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/sue-gray-report-pdf.html">Read the Full U.K. Lockdown Parties Report</a> NYT: Sue Gray’s inquiry into illicit lockdown parties in Downing Street was released on Wednesday. 
  <p class="updated_time"> 06:33 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61573377?at_medium=RSS&at_campaign=KARANGA">Texas shooting: 19 children among dead in primary school attack</a> BBC: Nineteen children are shot dead by a teenage gunman, who is himself killed by law enforcement. 
- <p class="updated_time"> 06:27 AM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/05/25/world/russia-ukraine-war">Live Updates: Narrower Focus Helps Russia Make Gains in Ukraine’s East</a> NYT: Ukrainian officials fear a repeat of the siege tactics Russia used in Mariupol as it tries to capture Sievierodonetsk and other cities in the Donbas region. Diplomats from Finland and Sweden were meeting with their Turkish counterparts to discuss their NATO application. 
  <p class="updated_time"> 06:21 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/china-taiwan-military.html">U.S. Speeds Up Reshaping of Taiwan’s Defenses to Deter China</a> NYT: The Biden administration is taking lessons from the war in Ukraine to turn Taiwan into a “porcupine” bristling with weapons that would inflict severe pain if attacked. 
- <p class="updated_time"> 06:07 AM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/25/world/asia/china-taiwan-military-drills.html">After Biden Visit, China Conducts Military Drills Near Taiwan</a> NYT: After President Biden suggested the United States would get involved militarily to defend Taiwan if China attacked it, China said it was organizing combat drills in the seas and airspace around Taiwan. 
- <p class="updated_time"> 05:45 AM CT, May. 25 </p> 
+ <p class="updated_time"> 05:52 AM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/russia-tries-to-tighten-hold-over-occupied-areas-of-ukraine-11653388676">Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv</a> WSJ: Ukraine Identifies Suspects in Killing of Village Mayor Near Kyiv 
  <p class="updated_time"> 05:25 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61576099?at_medium=RSS&at_campaign=KARANGA">Europa Conference League final: Police injured as Roma and Feyenoord fans clash in Albania</a> BBC: Nineteen police officers are injured and 80 Roma fans are deported as supporters clash in the build-up to the Europa Conference League final. 
- <p class="updated_time"> 04:45 AM CT, May. 25 </p> 
+ <p class="updated_time"> 04:52 AM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/treasury-to-block-u-s-investors-from-receiving-russian-debt-payments-11653420533">Treasury to Block U.S. Investors From Receiving Russian Debt Payments</a> WSJ: Treasury to Block U.S. Investors From Receiving Russian Debt Payments 
  <p class="updated_time"> 04:16 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Suspected ICBM and Two Other Ballistic Missiles</a> NYT: The tests came just as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
@@ -33,7 +35,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/asia/india-heat-wave-mango.html">The Mango, India’s King of Fruits, Is a Victim of the Heat Wave</a> NYT: Blistering spring temperatures have devastated crops of the country’s most beloved fruit. “The soul of a farmer shudders at seeing these fruitless trees,” one grower said. 
  <p class="updated_time"> 04:00 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/climate/corporate-climate-pledges-davos.html">Corporations Pledge to Buy ‘Green’ at Davos Gathering</a> NYT: A global buyers’ club of more than 50 companies, including Microsoft and Ford Motor, say they will buy “green” steel, aluminum and other commodities by 2030. 
- <p class="updated_time"> 03:45 AM CT, May. 25 </p> 
+ <p class="updated_time"> 03:52 AM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/timeline-for-eu-oil-embargo-on-russia-appears-further-set-back-11653418047">Timeline for EU Oil Embargo on Russia Appears Further Set Back</a> WSJ: Timeline for EU Oil Embargo on Russia Appears Further Set Back 
  <p class="updated_time"> 03:45 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61577784?at_medium=RSS&at_campaign=KARANGA">Aerosmith cancel gigs as singer Steven Tyler goes into rehab</a> BBC: The star checked himself into rehab, weeks before the band's Las Vegas residency was due to start. 
@@ -45,7 +47,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/europe/henry-kissinger-ukraine-russia-davos.html">Henry Kissinger Suggests Ukraine Give Up Territory to Russia</a> NYT: The former secretary of state argued that ceding land could bring an end to the war. Critics called the idea reckless and unrealistic. 
  <p class="updated_time"> 03:04 AM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101141199/sale-of-sanctioned-oligarchs-chelsea-football-club-approved-by-u-k-government">Sale of sanctioned oligarch's Chelsea Football Club approved by U.K. government</a> NPR: The government had to be sure that Roman Abramovich, sanctioned over his links to Russian President Vladimir Putin, did not profit from the enforced sale of one of football's most successful clubs. 
- <p class="updated_time"> 02:45 AM CT, May. 25 </p> 
+ <p class="updated_time"> 02:52 AM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/europes-economy-slows-as-factories-hit-hard-by-surging-costs-11653387746">Inflation, Rising Rates Curb Global Economic Growth</a> WSJ: Inflation, Rising Rates Curb Global Economic Growth 
  <p class="updated_time"> 02:42 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61571855?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Bodies of dead Russian soldiers abandoned near Kyiv</a> BBC: Shallow graves are discovered on the outskirts of the capital, weeks after Russia's attempted advance. 
@@ -57,7 +59,7 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/russian-forces-expand-donbas-assault-but-at-steep-cost-11653472850">Russian Forces Expand Donbas Assault, but at Steep Cost</a> WSJ: Moscow’s military units were pushing to encircle two cities in eastern Ukraine, part of an all-out Russian assault in an effort to take control of Donbas. But they are losing so many men that continued Ukrainian resistance could eventually force Russia to shift strategies again. 
  <p class="updated_time"> 01:59 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61576574?at_medium=RSS&at_campaign=KARANGA">NBA Warriors coach on Texas school shooting: 'When are we going to do something?'</a> BBC: Golden State Warriors' Steve Kerr condemns gun violence and refuses to answer basketball questions. 
- <p class="updated_time"> 01:45 AM CT, May. 25 </p> 
+ <p class="updated_time"> 01:52 AM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/bidens-asia-trip-shows-challenges-in-uniting-region-11653388431">Biden’s Asia Trip Shows Challenges in Uniting Region</a> WSJ: Biden’s Asia Trip Shows Challenges in Uniting Region 
  <p class="updated_time"> 01:35 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61560786?at_medium=RSS&at_campaign=KARANGA">North Korea fires missiles hours after Biden leaves Asia</a> BBC: It came hours after the US leader left Asia following a trip where he vowed to deter North Korea. 
@@ -91,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/23/travel/city-biking-trails.html">7 Great Biking Cities (and Which Trails to Ride)</a> NYT: There’s no better way to zip through a new city than on two wheels. Here are some routes to try, from riverside jaunts to mountain climbs. 
  <p class="updated_time"> 05:05 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/russian-debt-treasury.html">U.S. Will Start Blocking Russia’s Bond Payments to American Investors</a> NYT: The Biden administration’s escalation of sanctions could lead to Russia’s first default on foreign debt in a century. 
- <p class="updated_time"> 04:39 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-food-supply.html">Russia Is Accused of Using Food as ‘Blackmail’ in Ukraine War</a> NYT: World leaders say there is no easy way to bypass a Russian blockade without a military clash, and accuse Vladimir V. Putin of using global hunger as a weapon. 
  <p class="updated_time"> 04:33 PM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-61570444?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'This is just the beginning, everything is still to come'</a> BBC: As Russian attacks intensify, Ukrainians are asking whether it's better to pay for a ceasefire with land - or lives. 
  <p class="updated_time"> 04:27 PM CT, May. 24 </p> 
@@ -330,8 +330,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/24/scotus-marshal-roe-opinion-00034670">Supreme Court marshal digs in on Roe opinion leak</a> Politico: The launch of the probe comes as Chief Justice John Roberts tries to uphold the integrity of the court. 
  <p class="updated_time"> 07:01 AM CT, May. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/24/eyes-on-primary-prizes-00034661">Eyes on primary prizes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:47 AM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/us/politics/trump-endorsements-primary-elections.html">Where Trump’s Endorsement Record Stands in Primaries So Far</a> NYT: The candidates endorsed by former President Donald J. Trump have succeeded in many of their early primaries, with some notable exceptions. 
  <p class="updated_time"> 05:27 AM CT, May. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/24/trumps-day-of-reckoning-in-georgia-00034651"> Trump’s day of reckoning in Georgia</a> Politico Playbook: And Biden cleans up his comments on defending Taiwan. 
  <p class="updated_time"> 03:30 AM CT, May. 24 </p> 
