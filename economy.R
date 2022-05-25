@@ -325,6 +325,40 @@ ggplot(data = data,
 ggsave("plots/disposable_income.png",
        width = 8, height = 8*(628/1200), dpi = 320)
 
+## labor productivity ----
+data <-fredr(series_id = "OPHNFB") %>%
+  mutate(change = round(100*(value - lag(value, 40))/lag(value, 40),1))
+recent_data <- data %>%
+  filter(date > recent_years) %>%
+  mutate(short_date = paste0("Q",quarter(date)))
+
+fig <- hchart(data, "line", hcaes(x = date,
+                                  y = change),
+              name = "Change",
+              tooltip = list(valueSuffix = "%")) %>%
+  hc_title(text = "10-Year Change in Labor Productivity") %>%
+  hc_credits(
+    enabled = TRUE,
+    text = paste("Source: U.S. Bureau of Labor Statistics. Latest data:",
+                 tail(recent_data$short_date,1)),
+    href = "https://fred.stlouisfed.org/series/OPHNFB") %>%
+  hc_yAxis(title = list(text = "")) %>%
+  hc_xAxis(title = list(text = NULL)) %>%
+  hc_add_theme(
+    hc_theme_bloom()
+  )%>%
+  hc_rangeSelector(enabled = TRUE,
+                   buttons = list(
+                     list(type = 'year', count = 10, text = '10y'),
+                     list(type = 'year', count = 25, text = '25y'),
+                     list(type = 'year', count = 50, text = '50y'),
+                     list(type = 'all', text = 'All')),
+                   selected = 2)
+fig
+saveWidget(widget = fig, file = "interactive/labor_productivity.html",
+           selfcontained = FALSE,
+           libdir = "interactive")
+
 ## real GDP ----
 data <-fredr(series_id = "GDPC1")
 recent_data <- data %>%
@@ -1709,6 +1743,9 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 </iframe>
 
 <iframe src=\"/interactive/gdp.html\" width=\"100%\" height=\"500\"> 
+</iframe>
+
+<iframe src=\"/interactive/labor_productivity.html\" width=\"100%\" height=\"300\"> 
 </iframe>
 
 <iframe src=\"/interactive/us_population.html\" width=\"100%\" height=\"300\"> 

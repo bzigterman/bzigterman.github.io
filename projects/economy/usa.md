@@ -32,6 +32,9 @@ imageurl: https://bzigterman.com/plots/unemployment_rate.png
 <iframe src="/interactive/gdp.html" width="100%" height="500"> 
 </iframe>
 
+<iframe src="/interactive/labor_productivity.html" width="100%" height="300"> 
+</iframe>
+
 <iframe src="/interactive/us_population.html" width="100%" height="300"> 
 </iframe>
 
