@@ -9,22 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:36 PM CT, May. 25 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/25/world/russia-ukraine-war">Live Updates: Russia Makes Small Gains in Ukraine’s East in Narrowly Focused Attacks</a> NYT: Ukrainian officials say Russia is likely to resort to siege tactics as it tries to encircle and capture Sievierodonetsk and other cities in the Donbas region. 
  <p class="updated_time"> 06:06 PM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61577976?at_medium=RSS&at_campaign=KARANGA">NeWater: Turning urine into beer in Singapore</a> BBC: Singapore's water agency came up with the drink to raise awareness of its scarcity issues. 
  <p class="updated_time"> 05:56 PM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/live/2022/05/25/world/russia-ukraine-war">Live Updates: Russia Makes Small Gains in Ukraine’s East in Narrowly Focused Attacks</a> NYT: Ukrainian officials say Russia is likely to resort to siege tactics as it tries to encircle and capture Sievierodonetsk and other cities in the Donbas region. 
- <p class="updated_time"> 05:56 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/russia-ukraine-donbas.html">A Doomed River Crossing Shows the Perils of Entrapment in the War’s East</a> NYT: Encirclement is a tactic used by both sides in the war between Russia and Ukraine, but it can carry big risks. 
- <p class="updated_time"> 05:40 PM CT, May. 25 </p> 
+ <p class="updated_time"> 05:51 PM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/putin-orthodox-church-ally-kirill-russian-support-for-war-11653495434">Putin’s Powerful Orthodox Church Ally Helps Cement Russian Support for War</a> WSJ: Putin’s Powerful Orthodox Church Ally Helps Cement Russian Support for War 
  <p class="updated_time"> 05:34 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/gambia-prosecute-jammeh-murder.html">Gambia Says it Will Prosecute Former President for Murder</a> NYT: Victims of Yahya Jammeh, who ruled the West African country for 22 years, welcomed the announcement but said exactly how he will be brought to justice is not clear. 
+ <p class="updated_time"> 04:51 PM CT, May. 25 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-threatens-transition-to-cleaner-energy-leaders-warn-at-davos-11653505490">Ukraine War Threatens Transition to Cleaner Energy, Leaders Warn at Davos</a> WSJ: Ukraine War Threatens Transition to Cleaner Energy, Leaders Warn at Davos 
  <p class="updated_time"> 04:45 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/gun-laws-australia-britain.html">After Mass Gun Killings, Other Nations Changed Course — to Notable Effect</a> NYT: Britain, Australia, Canada, New Zealand, Norway: All had a culture of gun ownership, and all tightened restrictions anyway. Their violence statistics now diverge sharply from those of the U.S. 
  <p class="updated_time"> 04:41 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/masks-hawaii-delaware.html">These U.S. Schools and Universities Are Reimposing Indoor Mask Mandates</a> NYT: The moves are a sign that while the academic year may be coming to a close, the pandemic is still not. 
- <p class="updated_time"> 04:40 PM CT, May. 25 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-threatens-transition-to-cleaner-energy-leaders-warn-at-davos-11653505490">Ukraine War Threatens Transition to Cleaner Energy, Leaders Warn at Davos</a> WSJ: Ukraine War Threatens Transition to Cleaner Energy, Leaders Warn at Davos 
  <p class="updated_time"> 04:14 PM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101307744/as-human-rights-official-visits-xinjiang-data-hack-appears-to-show-persecution-t">As human rights official visits Xinjiang, data hack appears to show persecution there</a> NPR: The UN's top official for human rights, Michelle Bachelet, is in China this week and will visit the western region of Xinjiang, where Beijing has been accused of genocide and crimes against humanity. 
  <p class="updated_time"> 04:13 PM CT, May. 25 </p> 
@@ -33,25 +33,25 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/middleeast/iran-israel-killing-khodayee.html">Israel Tells U.S. It Killed Iranian Officer, Official Says</a> NYT: Israeli officials say the officer, Sayad Khodayee, was a leader of a covert unit tasked with abductions and killings of Israelis and other foreigners around the world. Iran does not acknowledge that the unit exists. 
  <p class="updated_time"> 03:55 PM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101289242/russia-ukraine-war-what-happened-today-may-25">Russia-Ukraine war: What happened today (May 25)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
+ <p class="updated_time"> 03:51 PM CT, May. 25 </p> 
+ <a href="https://www.wsj.com/articles/russia-dominates-a-meeting-to-which-it-wasnt-invited-11653492101">Russia’s Absence at Davos Marks Unraveling of Globalization</a> WSJ: Russia’s Absence at Davos Marks Unraveling of Globalization 
  <p class="updated_time"> 03:49 PM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101307658/its-unclear-whether-the-u-s-and-iran-will-return-to-the-2015-nuclear-deal">It's unclear whether the U.S. and Iran will return to the 2015 nuclear deal</a> NPR: The Biden administration came to office promising to revive a nuclear deal with Iran, but for months officials have said time is running out. The top negotiator is briefing Congress on the stalemate. 
- <p class="updated_time"> 03:40 PM CT, May. 25 </p> 
- <a href="https://www.wsj.com/articles/russia-dominates-a-meeting-to-which-it-wasnt-invited-11653492101">Russia’s Absence at Davos Marks Unraveling of Globalization</a> WSJ: Russia’s Absence at Davos Marks Unraveling of Globalization 
  <p class="updated_time"> 03:29 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/business/e-gerald-corrigan-dead.html">E. Gerald Corrigan, Who Helped Ease ’87 Stock Crash, Dies at 80</a> NYT: As president of the Federal Reserve Bank of New York, he favored flooding the financial system with cash to restore confidence among investors. 
  <p class="updated_time"> 03:17 PM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61574576?at_medium=RSS&at_campaign=KARANGA">Georgia primaries: Trump-backed Perdue trounced by Pence's pick</a> BBC: The governor's race in Georgia will pit Republican Brian Kemp against Democrat star Stacy Abrams. 
  <p class="updated_time"> 03:05 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/05/25/world/uk-covid-lockdown-report-boris-johnson">U.K. Lockdown Report Is Critical of Senior Leaders</a> NYT: Compiled by a top-ranking civil servant, the conclusions offered a harsh assessment of Downing Street conduct and will most likely increase the pressure on Prime Minister Boris Johnson. 
+ <p class="updated_time"> 02:51 PM CT, May. 25 </p> 
+ <a href="https://www.wsj.com/articles/chinas-top-two-leaders-diverge-in-messaging-on-covid-impact-11653486508">China’s Top Two Leaders Diverge in Messaging on Covid Impact</a> WSJ: China’s Top Two Leaders Diverge in Messaging on Covid Impact 
  <p class="updated_time"> 02:45 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/asia/india-heat-wave-mango.html">The Mango, India’s King of Fruits, Is a Victim of the Heat Wave</a> NYT: Blistering spring temperatures have devastated crops of the country’s most beloved fruit. “The soul of a farmer shudders at seeing these fruitless trees,” one grower said. 
- <p class="updated_time"> 02:40 PM CT, May. 25 </p> 
- <a href="https://www.wsj.com/articles/chinas-top-two-leaders-diverge-in-messaging-on-covid-impact-11653486508">China’s Top Two Leaders Diverge in Messaging on Covid Impact</a> WSJ: China’s Top Two Leaders Diverge in Messaging on Covid Impact 
  <p class="updated_time"> 02:20 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/americas/2nd-amendment-gun-laws.html">In the U.S., Backlash to Civil Rights Era Made Guns a Political Third Rail</a> NYT: Other countries changed course after massacres. But American political protection for guns is unique, and has become inseparable from conservative credentials. 
  <p class="updated_time"> 01:57 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/reader-center/haiti-france-debt-payments.html">How (and Why) We Calculated the Value of Haiti’s Payments to France</a> NYT: We wanted to know how much Haiti had paid over generations. So we set out to compile the data. 
- <p class="updated_time"> 01:40 PM CT, May. 25 </p> 
+ <p class="updated_time"> 01:51 PM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/u-s-sanctions-russian-companies-accused-of-helping-irans-revolutionary-guard-11653503302">U.S. Sanctions Russian Firms Accused of Helping Iran’s Revolutionary Guard</a> WSJ: U.S. Sanctions Russian Firms Accused of Helping Iran’s Revolutionary Guard 
  <p class="updated_time"> 01:28 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/technology/quantum-internet-teleportation.html">‘Quantum Internet’ Inches Closer With Advance in Data Teleportation</a> NYT: Scientists have improved their ability to send quantum information across distant computers — and have taken another step toward the network of the future. 
@@ -198,6 +198,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:25 PM CT, May. 25 </p> 
+ <a href="https://www.politico.com/news/2022/05/25/nra-republicans-texas-shooting-trump-00035260">Republicans pledge allegiance to a hobbled NRA</a> Politico: Despite the school massacre, Donald Trump and other prominent pols are still planning to speak at an event the group is holding this week in Houston. 
  <p class="updated_time"> 06:21 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/politics/senate-gun-control.html">Democrats Hit Pause on Gun Control Vote, Hoping For a Compromise</a> NYT: After the deadliest school shooting in a decade, the top Senate Democrat said he would wait to force a vote on gun safety measures the G.O.P. has opposed. 
  <p class="updated_time"> 06:19 PM CT, May. 25 </p> 
@@ -272,8 +274,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/us/politics/pro-trump-lawyers-elector-scheme.html">Intensifying Inquiry Into Alternate Electors Focuses on Trump Lawyers</a> NYT: In recent subpoenas, federal prosecutors investigating alternate slates of pro-Trump electors sought information about Rudolph W. Giuliani, John Eastman and others. 
  <p class="updated_time"> 12:35 PM CT, May. 25 </p> 
  <a href="https://www.politico.com/news/2022/05/25/trump-expressed-support-hanging-pence-capitol-riot-jan-6-00035117">Trump expressed support for hanging Pence during Capitol riot, Jan. 6 panel told</a> Politico: The select panel has heard that, after "hang Mike Pence” chants broke out, the then-president expressed support for the prospect of hanging his No. 2, three people told POLITICO. 
- <p class="updated_time"> 12:26 PM CT, May. 25 </p> 
- <a href="https://www.politico.com/news/2022/05/25/trump-nra-convention-texas-mass-school-shooting-00035122">Trump will attend NRA convention in school shooting's wake</a> Politico: In addition to Trump, other Republicans set to speak at the meeting include Texas Gov. Greg Abbott, Texas Sen. Ted Cruz and South Dakota Gov. Kristi Noem. 
  <p class="updated_time"> 12:15 PM CT, May. 25 </p> 
  <a href="https://www.politico.com/news/2022/05/25/biden-presidency-texas-shooting-crisis-00035113">Biden’s presidency has been colored by crises. It now faces the grimmest one yet.</a> Politico: The shooting at a Texas elementary school will test the president. It also may spotlight, once more, the frustrations he’s felt in office. 
  <p class="updated_time"> 12:14 PM CT, May. 25 </p> 
@@ -342,8 +342,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/24/us/politics/george-bush-plot-isis.html">Iraqi Man Helped Plot to Kill Bush, F.B.I. Says</a> NYT: Authorities linked the man, who was living in Ohio, to ISIS and accused him of planning to smuggle immigrants into the United States to help carry out the killing. 
  <p class="updated_time"> 07:08 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/murphy-forges-ahead-on-gun-talks-with-gop-after-texas-shooting-00034951">Murphy pleads with GOP for a gun deal as Texas school shooting grips America</a> Politico: The massacre of at least 19 children  at a Texas elementary school came one week after another shooter killed 10 people, mostly Black. 
- <p class="updated_time"> 07:02 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/us/politics/warnock-wins-democratic-nomination-senate-georgia.html">Warnock wins the Democratic nomination for Senate in Georgia, setting up a closely watched fall contest.</a> NYT: Senator Raphael Warnock will face Herschel Walker, the Republican nominee, in a general election race with enormous stakes for the Senate. 
  <p class="updated_time"> 06:28 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/army-bases-confederate-names.html">New Names Recommended for 9 Army Bases That Honor Confederate Leaders</a> NYT: A committee established by Congress has selected names commemorating a diverse array of American warriors, as the military continues to examine its history with race. 
  <p class="updated_time"> 05:33 PM CT, May. 24 </p> 
