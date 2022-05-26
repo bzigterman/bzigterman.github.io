@@ -9,9 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:14 AM CT, May. 26 </p> 
+ <p class="updated_time"> 12:32 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/05/25/world/russia-ukraine-war">What Happened on Day 91 of the War in Ukraine</a> NYT: Ukrainian officials say Russia is likely to resort to siege tactics as it tries to encircle and capture Sievierodonetsk and other cities in the Donbas region. 
- <p class="updated_time"> 11:22 PM CT, May. 25 </p> 
+ <p class="updated_time"> 11:48 PM CT, May. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61575387?at_medium=RSS&at_campaign=KARANGA">Ukraine war: World Bank boss warns over global recession</a> BBC: David Malpass also said coronavirus lockdowns in China are contributing to a global slowdown. 
+ <p class="updated_time"> 11:41 PM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/putin-orthodox-church-ally-kirill-russian-support-for-war-11653495434">Putin’s Powerful Orthodox Church Ally Helps Cement Russian Support for War</a> WSJ: Putin’s Powerful Orthodox Church Ally Helps Cement Russian Support for War 
  <p class="updated_time"> 11:14 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/asia/china-pacific-island-countries.html">China Seeks Sweeping Regional Deal With Pacific Island Countries</a> NYT: Newly obtained documents shed light on how Beijing hopes to win friends and gain influence in an area of strategic importance. 
@@ -21,21 +23,21 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/asia/china-taiwan-military-drills.html">After Biden Visit, China Organizes Military Drills Near Taiwan</a> NYT: After President Biden suggested the United States would get involved militarily to defend Taiwan if China attacked it, China described organizing combat drills in the seas and airspace around Taiwan. 
  <p class="updated_time"> 10:48 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
- <p class="updated_time"> 10:22 PM CT, May. 25 </p> 
+ <p class="updated_time"> 10:41 PM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-threatens-transition-to-cleaner-energy-leaders-warn-at-davos-11653505490">Ukraine War Threatens Transition to Cleaner Energy, Leaders Warn at Davos</a> WSJ: Ukraine War Threatens Transition to Cleaner Energy, Leaders Warn at Davos 
- <p class="updated_time"> 09:22 PM CT, May. 25 </p> 
+ <p class="updated_time"> 09:41 PM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/russia-dominates-a-meeting-to-which-it-wasnt-invited-11653492101">Russia’s Absence at Davos Marks Unraveling of Globalization</a> WSJ: Russia’s Absence at Davos Marks Unraveling of Globalization 
  <p class="updated_time"> 09:12 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/biden-taiwan-china-australia.html">Biden’s Words on Taiwan Leave Allies in an Awkward Spot</a> NYT: Ahead of a summit with Australia, India and Japan, an off-the-cuff vow to defend the island militarily against China complicates diplomacy, particularly for Australia. 
  <p class="updated_time"> 08:58 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/05/25/world/uk-covid-lockdown-report-boris-johnson">U.K. Lockdown Report Is Critical of Senior Leaders</a> NYT: Compiled by a top-ranking civil servant, the conclusions offered a harsh assessment of Downing Street conduct and will most likely increase the pressure on Prime Minister Boris Johnson. 
- <p class="updated_time"> 08:22 PM CT, May. 25 </p> 
+ <p class="updated_time"> 08:41 PM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/chinas-top-two-leaders-diverge-in-messaging-on-covid-impact-11653486508">China’s Top Two Leaders Diverge in Messaging on Covid Impact</a> WSJ: China’s Top Two Leaders Diverge in Messaging on Covid Impact 
  <p class="updated_time"> 08:16 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/gambia-prosecute-jammeh-murder.html">Gambia Says It Will Prosecute Former President for Murder</a> NYT: Victims of Yahya Jammeh, who ruled the West African country for 22 years, welcomed the announcement but said exactly how he will be brought to justice is not clear. 
  <p class="updated_time"> 08:09 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/americas/2nd-amendment-gun-laws.html">In the U.S., Backlash to Civil Rights Era Made Guns a Political Third Rail</a> NYT: Other countries changed course after massacres. But American political protection for guns is unique, and has become inseparable from conservative credentials. 
- <p class="updated_time"> 07:22 PM CT, May. 25 </p> 
+ <p class="updated_time"> 07:41 PM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/u-s-sanctions-russian-companies-accused-of-helping-irans-revolutionary-guard-11653503302">U.S. Sanctions Russian Firms Accused of Helping Iran’s Revolutionary Guard</a> WSJ: U.S. Sanctions Russian Firms Accused of Helping Iran’s Revolutionary Guard 
  <p class="updated_time"> 07:01 PM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61554325?at_medium=RSS&at_campaign=KARANGA">Nigeria's kidnapping crisis: Should ransom payments be banned?</a> BBC: Businessman Lawal Ado has paid ransoms three times and says there is no other option. 
