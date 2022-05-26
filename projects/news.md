@@ -9,32 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:55 AM CT, May. 26 </p> 
+ <p class="updated_time"> 10:14 AM CT, May. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61588869?at_medium=RSS&at_campaign=KARANGA">Senegal hospital fire: Eleven newborn babies die in Tivaouane</a> BBC: The fire is thought to have been caused by a short circuit at the hospital in Tivaouane, officials say. 
+ <p class="updated_time"> 10:12 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/05/26/world/russia-ukraine-war">Ukraine Live Updates: Russia Moves to Stabilize Its Economy as War Takes a Toll</a> NYT: The country’s central bank cut interest rates again as President Vladimir V. Putin moved to raise the minimum wage and sweeten military benefits. Two Russian soldiers pleaded guilty in the second war crimes trial in Ukraine since the fighting began. 
+ <p class="updated_time"> 09:31 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
  <p class="updated_time"> 09:15 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61579600?at_medium=RSS&at_campaign=KARANGA">Texas shooting victims: 'They were sweet kids and lovable'</a> BBC: Keen sports players, A students and dancers are among the children killed in Tuesday's shooting. 
- <p class="updated_time"> 09:00 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
+ <p class="updated_time"> 08:31 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
  <p class="updated_time"> 08:30 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61593071?at_medium=RSS&at_campaign=KARANGA">Texas shooting: The teachers who sacrificed their lives to protect children</a> BBC: Eva Mireles and Irma Garcia were seen trying to shelter their students from the gunfire. 
  <p class="updated_time"> 08:15 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/health/monkeypox-vaccine-immunity.html">Who Is Protected Against Monkeypox?</a> NYT: Older people who received smallpox vaccinations may yet have some immunity, researchers say. Healthy children and adults generally do not become severely ill. 
- <p class="updated_time"> 08:00 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
  <p class="updated_time"> 07:48 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/gun-laws-australia-britain.html">Other Countries Had Mass Shootings. Then They Changed Their Gun Laws.</a> NYT: Britain, Australia, Canada, New Zealand, Norway: All had a culture of gun ownership, and all tightened restrictions anyway. Their violence statistics now diverge sharply from those of the U.S. 
+ <p class="updated_time"> 07:31 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Stresses U.S. Remains Focused on China</a> WSJ: Blinken Stresses U.S. Remains Focused on China 
  <p class="updated_time"> 07:30 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/reader-center/haiti-france-debt-payments.html">How (and Why) We Calculated the Value of Haiti’s Payments to France</a> NYT: We wanted to know how much Haiti had paid over generations. So we set out to compile the data. 
- <p class="updated_time"> 07:00 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken to Stress U.S. Remains Focused on China</a> WSJ: Blinken to Stress U.S. Remains Focused on China 
  <p class="updated_time"> 06:59 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-donbas.html">Russian Forces Pummel Key Eastern Ukraine Town</a> NYT: With enemy forces massed on three sides, the residents of Sievierodonetsk are at the heart of the battle. 
- <p class="updated_time"> 06:00 AM CT, May. 26 </p> 
+ <p class="updated_time"> 06:31 AM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/xi-jinpings-first-trip-outside-mainland-china-in-more-than-two-years-is-set-to-be-briefif-it-even-happens-11653562926">Xi’s First Pandemic-Era Trip to Be Brief</a> WSJ: Xi’s First Pandemic-Era Trip to Be Brief 
  <p class="updated_time"> 05:38 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/asia/china-economy-zero-covid.html">Concern Grows in China Over Economic Impact of ‘Zero Covid’</a> NYT: A senior leader announced efforts to bolster growth and urged local leaders do more to keep the economy running. 
- <p class="updated_time"> 05:00 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Iranian Officer Killed in Tehran Was Involved in Plot to Kill Israeli Diplomat, U.S. General</a> WSJ: Iranian Officer Killed in Tehran Was Involved in Plot to Kill Israeli Diplomat, U.S. General 
+ <p class="updated_time"> 05:31 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Slain Iranian Officer Led Assassination Plots</a> WSJ: Slain Iranian Officer Led Assassination Plots 
  <p class="updated_time"> 04:07 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
  <p class="updated_time"> 04:06 AM CT, May. 26 </p> 
@@ -55,8 +57,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61588788?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Uvalde tragedy opens painful memories for Sandy Hook parents</a> BBC: "Because it is so hauntingly similar to what happened at Sandy Hook School, it hit closer to home." 
  <p class="updated_time"> 03:04 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/russia-ukraine-donbas.html">A Doomed River Crossing Shows the Perils of Entrapment in the War’s East</a> NYT: Encirclement is a tactic used by both sides in the war between Russia and Ukraine, but it can carry big risks. 
- <p class="updated_time"> 02:42 AM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61588869?at_medium=RSS&at_campaign=KARANGA">Eleven newborn babies die in Senegal hospital fire</a> BBC: The fire is thought to have been caused by a short circuit at the hospital in Tivaouane, officials say. 
  <p class="updated_time"> 02:31 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/masks-hawaii-delaware.html">These U.S. Schools and Universities Are Reimposing Indoor Mask Mandates</a> NYT: The moves are a sign that while the academic year may be coming to a close, the pandemic is still not. 
  <p class="updated_time"> 02:29 AM CT, May. 26 </p> 
@@ -192,6 +192,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:37 AM CT, May. 26 </p> 
+ <a href="https://www.politico.com/news/2022/05/26/2016-clinton-attorney-sussmann-wont-testify-in-his-own-defense-at-trial-00035381">2016 Clinton attorney Sussmann won't testify in his own defense at trial</a> Politico: Jurors are expected to hear closing arguments in the case beginning Friday morning. 
  <p class="updated_time"> 08:50 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/politics/democrats-gun-control-republicans-uvalde.html">Democrats Confront 2 Obstacles on Guns: Time, and an Implacable G.O.P.</a> NYT: After the slaughter of Texas schoolchildren, the parties are already reprising their familiar roles: Democrats are pushing for action on gun control, while Republicans wait for the furor to fade away. 
  <p class="updated_time"> 08:41 AM CT, May. 26 </p> 
@@ -227,7 +229,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:31 AM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/gop-state-campaign-online-fundraising-00035182">GOP state legislative campaign hub launches plan to turbocharge online fundraising</a> Politico: The Republican State Leadership Committee is launching a new digital fundraising program in partnership with state GOP groups. 
  <p class="updated_time"> 03:31 AM CT, May. 26 </p> 
- <a href="https://www.politico.com/news/2022/05/26/super-pac-targets-georgia-senate-race-00035292">New Heritage super PAC targets Georgia Senate race</a> Politico: The Sentinel Action Fund marks a new chapter in the work of the nearly 50-year-old Heritage Foundation and its aligned groups. 
+ <a href="https://www.politico.com/news/2022/05/26/super-pac-targets-georgia-senate-race-00035292">New Heritage Action super PAC targets Georgia Senate race</a> Politico: The Sentinel Action Fund marks a new chapter in the work of the nearly 50-year-old Heritage Foundation and its aligned groups. 
  <p class="updated_time"> 03:30 AM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/republicans-not-afraid-of-trump-00035311">'Trump picked this fight': Why heavyweight Republicans no longer fear Trump</a> Politico: Bold-face GOP names have never been so comfortable crossing Trump as in recent weeks. 
  <p class="updated_time"> 03:30 AM CT, May. 26 </p> 
@@ -306,8 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/25/beto-orourke-challenges-abbott-on-gun-violence-at-uvalde-press-conference-00035149">'You are doing nothing': O'Rourke accosts Abbott at press conference on shooting</a> Politico: O'Rourke was escorted out of the event by security. 
  <p class="updated_time"> 01:07 PM CT, May. 25 </p> 
  <a href="https://www.politico.com/news/2022/05/25/conflicting-evidence-michael-sussmann-fbi-meeting-00035080">Jury sees conflicting evidence on Michael Sussmann's role at FBI Trump-Russia meeting</a> Politico: The prosecution rested in the false-statement case brought by special counsel John Durham. 
- <p class="updated_time"> 01:07 PM CT, May. 25 </p> 
- <a href="https://www.politico.com/news/2022/05/25/u-s-deficit-congressional-budget-office-00035052">U.S. deficit will shrink to $1T this year before soaring, federal forecasters say</a> Politico: At the same time, inflation is likely to persist throughout the year and then ease as economic growth slows, says Congress’ nonpartisan scorekeeper. 
  <p class="updated_time"> 12:57 PM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101135486/on-2nd-anniversary-of-george-floyds-killing-black-buffalo-residents-feel-the-wei">On 2nd anniversary of George Floyd's killing, Black Buffalo residents feel the weight</a> NPR: The shooting at a Tops grocery store, which authorities say was motivated by racist hate, brought into sharper focus the weight of being a target. 
  <p class="updated_time"> 12:39 PM CT, May. 25 </p> 
