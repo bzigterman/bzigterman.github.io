@@ -9,20 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:16 AM CT, May. 26 </p> 
+ <p class="updated_time"> 06:59 AM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-donbas.html">Russian Forces Pummel Key Eastern Ukraine Town</a> NYT: With enemy forces massed on three sides, the residents of Sievierodonetsk are at the heart of the battle. 
+ <p class="updated_time"> 06:48 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/05/26/world/russia-ukraine-war">Ukraine Live Updates: Russia Moves to Stabilize Its Economy as War Takes a Toll</a> NYT: The country’s central bank cut interest rates again as President Vladimir V. Putin moved to raise the minimum wage and sweeten military benefits. The European Union stalled on its push to ban Russian oil, a severe tool to punish Moscow. 
- <p class="updated_time"> 05:49 AM CT, May. 26 </p> 
+ <p class="updated_time"> 06:04 AM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
  <p class="updated_time"> 05:38 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/asia/china-economy-zero-covid.html">Concern Grows in China Over Economic Impact of ‘Zero Covid’</a> NYT: A senior leader announced efforts to bolster growth and urged local leaders do more to keep the economy running. 
+ <p class="updated_time"> 05:04 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
  <p class="updated_time"> 04:50 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61579600?at_medium=RSS&at_campaign=KARANGA">Texas shooting victims: 'They were sweet kids and lovable'</a> BBC: Keen sports players, A students and dancers are among the children killed in Tuesday's shooting. 
- <p class="updated_time"> 04:49 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
  <p class="updated_time"> 04:07 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
  <p class="updated_time"> 04:06 AM CT, May. 26 </p> 
  <a href="https://www.npr.org/2022/05/26/1101423950/western-countries-watch-as-chinas-foreign-minister-begins-south-pacific-tour">Western countries watch as China's foreign minister begins South Pacific tour</a> NPR: Australia was scrambling to counter the move by sending its own Foreign Minister Penny Wong to Fiji to shore up support in the Pacific. 
+ <p class="updated_time"> 04:04 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken to Stress U.S. Remains Focused on China, Even as War Rages in Ukraine</a> WSJ: Blinken to Stress U.S. Remains Focused on China, Even as War Rages in Ukraine 
  <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/americas/colombia-presidential-election-gustavo-petro.html">Colombia Election: Angry, Mobilized and Voting for Gustavo Petro</a> NYT: A large and loud youth electorate hungry to transform one of Latin America’s most unequal societies could propel Gustavo Petro, a former rebel, to the presidency. 
  <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
@@ -35,24 +39,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/books/buenos-aires-books.html">Through a Recession and a Pandemic, the Book Business Is Thriving in Buenos Aires</a> NYT: The Argentine capital has always been bookish. When hard times shuttered the big chain shops, book purveyors found a way to keep residents in fresh reading material. 
  <p class="updated_time"> 03:56 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61588274?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Police urged to enter school during attack, witnesses say</a> BBC: The gunman was inside the Texas school for between 40 minutes and an hour, officials say. 
- <p class="updated_time"> 03:49 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken to Stress U.S. Remains Focused on China, Even as War Rages in Ukraine</a> WSJ: Blinken to Stress U.S. Remains Focused on China, Even as War Rages in Ukraine 
  <p class="updated_time"> 03:41 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61588788?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Uvalde tragedy opens painful memories for Sandy Hook parents</a> BBC: "Because it is so hauntingly similar to what happened at Sandy Hook School, it hit closer to home." 
  <p class="updated_time"> 03:04 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/russia-ukraine-donbas.html">A Doomed River Crossing Shows the Perils of Entrapment in the War’s East</a> NYT: Encirclement is a tactic used by both sides in the war between Russia and Ukraine, but it can carry big risks. 
- <p class="updated_time"> 02:49 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Iranian Officer Killed in Tehran Was Involved in Plot to Kill Israeli Diplomat, U.S. General</a> WSJ: Iranian Officer Killed in Tehran Was Involved in Plot to Kill Israeli Diplomat, U.S. General 
+ <p class="updated_time"> 03:04 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/xi-jinpings-first-trip-outside-mainland-china-in-more-than-two-years-is-set-to-be-briefif-it-even-happens-11653562926">Xi’s First Trip Outside China in More Than Two Years Is Set to Be Brief</a> WSJ: Xi’s First Trip Outside China in More Than Two Years Is Set to Be Brief 
  <p class="updated_time"> 02:42 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61588869?at_medium=RSS&at_campaign=KARANGA">Eleven newborn babies die in Senegal hospital fire</a> BBC: The fire is thought to have been caused by a short circuit at the hospital in Tivaouane, officials say. 
  <p class="updated_time"> 02:31 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/masks-hawaii-delaware.html">These U.S. Schools and Universities Are Reimposing Indoor Mask Mandates</a> NYT: The moves are a sign that while the academic year may be coming to a close, the pandemic is still not. 
  <p class="updated_time"> 02:29 AM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/japan-reopens-to-some-tourists-with-low-prices-a-lure-11653564583">Japan Reopens to Some Tourists, With Low Prices a Lure</a> WSJ: The country will reopen for tourists on guided trips for the first time since early 2020, but the total number of daily arrivals will be capped at 20,000. 
- <p class="updated_time"> 02:02 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/xi-jinpings-first-trip-outside-mainland-china-in-more-than-two-years-is-set-to-be-briefif-it-even-happens-11653562926">Xi's First Trip Outside China in More Than Two Years Is Set to Be Brief</a> WSJ: Leader’s visit to Hong Kong to mark the 25th handover anniversary is likely to be reduced to a single day and could be canceled if Covid-19 outbreaks flare up again. 
- <p class="updated_time"> 01:49 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/u-k-to-probe-chinese-led-takeover-of-chip-maker-11653502675">U.K. to Probe Chinese-Led Takeover of Chip Maker</a> WSJ: U.K. to Probe Chinese-Led Takeover of Chip Maker 
+ <p class="updated_time"> 02:06 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Iranian Officer Killed in Tehran Was Involved in Plot to Kill Israeli Diplomat, U.S. General</a> WSJ: An Iranian Islamic Revolutionary Guard Corps officer shot and killed outside his Tehran home led the group’s efforts to assassinate opponents of Iran around the world, people familiar with the matter said. 
  <p class="updated_time"> 11:48 PM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-61575387?at_medium=RSS&at_campaign=KARANGA">Ukraine war: World Bank boss warns over global recession</a> BBC: David Malpass also said coronavirus lockdowns in China are contributing to a global slowdown. 
  <p class="updated_time"> 11:14 PM CT, May. 25 </p> 
@@ -147,8 +147,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-mayor-killed.html">Ukraine Charges 8 Russian Fighters in Killings of Village Mayor and Family </a> NYT: The bodies of the mayor, her husband and her son were found after Russian forces retreated in early April. 
  <p class="updated_time"> 06:12 PM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61549269?at_medium=RSS&at_campaign=KARANGA">Senegal's Dakar Biennale: From red swimmers to floating teapots</a> BBC: One of Africa's largest modern art event returns to Senegal after a four-year hiatus. 
- <p class="updated_time"> 06:06 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-donbas.html">Russian Forces Pummel Key Eastern Ukraine Town</a> NYT: With enemy forces massed on three sides, the residents of Sievierodonetsk are at the heart of the battle. 
  <p class="updated_time"> 06:05 PM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-61574412?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... Russia's food war</a> BBC: The West has accused the Russian military of holding food supplies for millions around the world hostage. 
  <p class="updated_time"> 05:48 PM CT, May. 24 </p> 
