@@ -9,36 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:01 AM CT, May. 26 </p> 
+ <p class="updated_time"> 02:20 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/05/25/world/russia-ukraine-war">What Happened on Day 91 of the War in Ukraine</a> NYT: Ukrainian officials say Russia is likely to resort to siege tactics as it tries to encircle and capture Sievierodonetsk and other cities in the Donbas region. 
+ <p class="updated_time"> 01:47 AM CT, May. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61588274?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Gunman posted just before deadly US school attack</a> BBC: The governor of Texas said the shooter sent messages on social media about plans to "shoot up a school". 
+ <p class="updated_time"> 01:26 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/putin-orthodox-church-ally-kirill-russian-support-for-war-11653495434">Putin’s Powerful Orthodox Church Ally Helps Cement Russian Support for War</a> WSJ: Putin’s Powerful Orthodox Church Ally Helps Cement Russian Support for War 
+ <p class="updated_time"> 01:23 AM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
  <p class="updated_time"> 01:00 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/russia-ukraine-donbas.html">A Doomed River Crossing Shows the Perils of Entrapment in the War’s East</a> NYT: Encirclement is a tactic used by both sides in the war between Russia and Ukraine, but it can carry big risks. 
  <p class="updated_time"> 01:00 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61588869?at_medium=RSS&at_campaign=KARANGA">Eleven newborn babies die in Senegal hospital fire</a> BBC: The fire is thought to have been caused by a short circuit at the hospital in Tivaouane, officials say. 
- <p class="updated_time"> 12:17 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/putin-orthodox-church-ally-kirill-russian-support-for-war-11653495434">Putin’s Powerful Orthodox Church Ally Helps Cement Russian Support for War</a> WSJ: Putin’s Powerful Orthodox Church Ally Helps Cement Russian Support for War 
+ <p class="updated_time"> 12:26 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-threatens-transition-to-cleaner-energy-leaders-warn-at-davos-11653505490">Ukraine War Threatens Transition to Cleaner Energy, Leaders Warn at Davos</a> WSJ: Ukraine War Threatens Transition to Cleaner Energy, Leaders Warn at Davos 
  <p class="updated_time"> 11:48 PM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-61575387?at_medium=RSS&at_campaign=KARANGA">Ukraine war: World Bank boss warns over global recession</a> BBC: David Malpass also said coronavirus lockdowns in China are contributing to a global slowdown. 
- <p class="updated_time"> 11:17 PM CT, May. 25 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-threatens-transition-to-cleaner-energy-leaders-warn-at-davos-11653505490">Ukraine War Threatens Transition to Cleaner Energy, Leaders Warn at Davos</a> WSJ: Ukraine War Threatens Transition to Cleaner Energy, Leaders Warn at Davos 
+ <p class="updated_time"> 11:26 PM CT, May. 25 </p> 
+ <a href="https://www.wsj.com/articles/russia-dominates-a-meeting-to-which-it-wasnt-invited-11653492101">Russia’s Absence at Davos Marks Unraveling of Globalization</a> WSJ: Russia’s Absence at Davos Marks Unraveling of Globalization 
  <p class="updated_time"> 11:14 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/asia/china-pacific-island-countries.html">China Seeks Sweeping Regional Deal With Pacific Island Countries</a> NYT: Newly obtained documents shed light on how Beijing hopes to win friends and gain influence in an area of strategic importance. 
  <p class="updated_time"> 10:54 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/climate/pebble-mine-alaska-epa.html">E.P.A. to Block Pebble Mine Project in Alaska</a> NYT: The E.P.A. has proposed to ban the disposal of mining waste in the Bristol Bay watershed, a decision that very likely means the end of the Pebble Mine project. 
  <p class="updated_time"> 10:50 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/asia/china-taiwan-military-drills.html">After Biden Visit, China Organizes Military Drills Near Taiwan</a> NYT: After President Biden suggested the United States would get involved militarily to defend Taiwan if China attacked it, China described organizing combat drills in the seas and airspace around Taiwan. 
- <p class="updated_time"> 10:48 PM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
- <p class="updated_time"> 10:17 PM CT, May. 25 </p> 
- <a href="https://www.wsj.com/articles/russia-dominates-a-meeting-to-which-it-wasnt-invited-11653492101">Russia’s Absence at Davos Marks Unraveling of Globalization</a> WSJ: Russia’s Absence at Davos Marks Unraveling of Globalization 
- <p class="updated_time"> 09:17 PM CT, May. 25 </p> 
+ <p class="updated_time"> 10:26 PM CT, May. 25 </p> 
  <a href="https://www.wsj.com/articles/chinas-top-two-leaders-diverge-in-messaging-on-covid-impact-11653486508">China’s Top Two Leaders Diverge in Messaging on Covid Impact</a> WSJ: China’s Top Two Leaders Diverge in Messaging on Covid Impact 
+ <p class="updated_time"> 09:26 PM CT, May. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-sanctions-russian-companies-accused-of-helping-irans-revolutionary-guard-11653503302">U.S. Sanctions Russian Firms Accused of Helping Iran’s Revolutionary Guard</a> WSJ: U.S. Sanctions Russian Firms Accused of Helping Iran’s Revolutionary Guard 
  <p class="updated_time"> 09:12 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/biden-taiwan-china-australia.html">Biden’s Words on Taiwan Leave Allies in an Awkward Spot</a> NYT: Ahead of a summit with Australia, India and Japan, an off-the-cuff vow to defend the island militarily against China complicates diplomacy, particularly for Australia. 
  <p class="updated_time"> 08:58 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/live/2022/05/25/world/uk-covid-lockdown-report-boris-johnson">U.K. Lockdown Report Is Critical of Senior Leaders</a> NYT: Compiled by a top-ranking civil servant, the conclusions offered a harsh assessment of Downing Street conduct and will most likely increase the pressure on Prime Minister Boris Johnson. 
- <p class="updated_time"> 08:17 PM CT, May. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-sanctions-russian-companies-accused-of-helping-irans-revolutionary-guard-11653503302">U.S. Sanctions Russian Firms Accused of Helping Iran’s Revolutionary Guard</a> WSJ: U.S. Sanctions Russian Firms Accused of Helping Iran’s Revolutionary Guard 
  <p class="updated_time"> 08:16 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/gambia-prosecute-jammeh-murder.html">Gambia Says It Will Prosecute Former President for Murder</a> NYT: Victims of Yahya Jammeh, who ruled the West African country for 22 years, welcomed the announcement but said exactly how he will be brought to justice is not clear. 
  <p class="updated_time"> 08:09 PM CT, May. 25 </p> 
@@ -49,8 +51,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61577976?at_medium=RSS&at_campaign=KARANGA">NeWater: Turning urine into beer in Singapore</a> BBC: Singapore's water agency came up with the drink to raise awareness of its scarcity issues. 
  <p class="updated_time"> 06:02 PM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-61583660?at_medium=RSS&at_campaign=KARANGA">'We don't want UK-EU trade war' - Irish PM</a> BBC: Micheál Martin says he is hopeful he will not have to contemplate tariffs against UK exports. 
- <p class="updated_time"> 05:21 PM CT, May. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61584720?at_medium=RSS&at_campaign=KARANGA">Beto O'Rourke heckles Texas Governor Greg Abbott over gun laws</a> BBC: The confrontation laid bare the deep divisions over how to stop school shootings in America. 
  <p class="updated_time"> 04:45 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/gun-laws-australia-britain.html">After Mass Gun Killings, Other Nations Changed Course — to Notable Effect</a> NYT: Britain, Australia, Canada, New Zealand, Norway: All had a culture of gun ownership, and all tightened restrictions anyway. Their violence statistics now diverge sharply from those of the U.S. 
  <p class="updated_time"> 04:41 PM CT, May. 25 </p> 
@@ -202,6 +202,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/style/john-fetterman-hoodies-shorts.html">John Fetterman and the Remaking of Political Image</a> NYT: The Pennsylvania Democratic candidate for Senate has upended the electability dress code. How will he influence the general election? 
  <p class="updated_time"> 10:54 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/climate/pebble-mine-alaska-epa.html">E.P.A. to Block Pebble Mine Project in Alaska</a> NYT: The E.P.A. has proposed to ban the disposal of mining waste in the Bristol Bay watershed, a decision that very likely means the end of the Pebble Mine project. 
  <p class="updated_time"> 10:49 PM CT, May. 25 </p> 
@@ -280,8 +282,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/05/25/will-senate-move-on-guns-most-dems-dont-think-so-00035033">Will Senate move on guns? Most Dems don't think so.</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:26 AM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101141234/what-if-anything-might-congress-do-about-years-of-mass-shootings">What, if anything, might Congress do about years of mass shootings? </a> NPR: NPR's Steve Inskeep talks to Rep. Joaquin Castro, who represents Texas' 20th District, following Tuesday's school shooting in Uvalde that killed 21 people. 
- <p class="updated_time"> 06:36 AM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/24/us/politics/hice-raffensperger-ga-secretary-of-state.html">Raffensperger Wins Georgia’s G.O.P. Secretary of State Primary</a> NYT: He promoted himself as a champion of “election integrity” and rebutted falsehoods made by Donald Trump and his allies. 
  <p class="updated_time"> 06:09 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/politics/disqualified-michigan-governors-craig-johnson.html">Two Republicans Face Disqualification in Michigan Governor’s Race</a> NYT: The Bureau of Elections moved to exclude James Craig and Perry Johnson from the primary ballot, finding that they had failed to collect the required signatures. 
  <p class="updated_time"> 05:40 AM CT, May. 25 </p> 
