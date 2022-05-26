@@ -9,44 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:02 PM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/26/world/russia-ukraine-war">Ukraine Live Updates: In Wake of Davos, a Growing Debate on Ending the War</a> NYT: Some Western leaders are suggesting a territorial compromise between Ukraine and Russia, which Ukraine opposes. Russia shells central Kharkiv, leaving many dead and wounded, and Putin moves to raise the minimum wage and sweeten military benefits. 
  <p class="updated_time"> 01:53 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/middleeast/israel-shireen-abu-akleh.html">Palestinian Inquiry Accuses Israel of Intentionally Killing Al Jazeera Journalist</a> NYT: The Palestinian Authority reported its final findings from a two-week investigation into the killing of the journalist Shireen Abu Akleh. Israel said it was still conducting its own inquiry. 
- <p class="updated_time"> 01:40 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/05/26/world/russia-ukraine-war">Ukraine Live Updates: In Wake of Davos, a Growing Debate on Ending the War</a> NYT: Some Western leaders are suggesting a territorial compromise between Ukraine and Russia, which Ukraine opposes. Russia shells central Kharkiv, leaving many dead and wounded, and Putin moves to raise the minimum wage and sweeten military benefits. 
+ <p class="updated_time"> 01:18 PM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
  <p class="updated_time"> 01:08 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61599932?at_medium=RSS&at_campaign=KARANGA">Russian mum's fight to save sons from Putin's war</a> BBC: Marina had no idea when her sons were conscripted that they would be part of an invasion of Ukraine. 
  <p class="updated_time"> 12:59 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61600212?at_medium=RSS&at_campaign=KARANGA">Goodfellas star Ray Liotta dies aged 67</a> BBC: The actor died in his sleep in the Dominican Republic, his publicist confirms. 
- <p class="updated_time"> 12:56 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
  <p class="updated_time"> 12:51 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61600593?at_medium=RSS&at_campaign=KARANGA">Abba: All four members of the Swedish band reunite ahead of Voyage concert</a> BBC: All four members of the Swedish band have reunited on the red carpet ahead of Voyage concert. 
  <p class="updated_time"> 12:31 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61588869?at_medium=RSS&at_campaign=KARANGA">Senegal hospital fire: Eleven newborn babies die in Tivaouane</a> BBC: The fire is thought to have been caused by a short circuit at the hospital in Tivaouane, officials say. 
- <p class="updated_time"> 11:56 AM CT, May. 26 </p> 
+ <p class="updated_time"> 12:18 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
  <p class="updated_time"> 11:55 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61590608?at_medium=RSS&at_campaign=KARANGA">Louvre museum's ex-president charged in art trafficking case</a> BBC: Jean-Luc Martinez is accused of facilitating the transfer of objects to the museum’s Abu Dhabi site. 
  <p class="updated_time"> 11:49 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/health/monkeypox-vaccine-immunity.html">Who Is Protected Against Monkeypox?</a> NYT: Older people who received smallpox vaccinations may yet have some immunity, researchers say. Healthy children and adults generally do not become severely ill. 
+ <p class="updated_time"> 11:18 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Stresses U.S. Remains Focused on China</a> WSJ: Blinken Stresses U.S. Remains Focused on China 
  <p class="updated_time"> 11:12 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61591615?at_medium=RSS&at_campaign=KARANGA">Spanish MPs back 'only yes means yes' sexual consent law</a> BBC: The new legislation aims to make it easier for victims of sexual violence to prosecute attackers. 
  <p class="updated_time"> 11:10 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/europe/johnson-britain-inflation-energy-tax.html">Johnson Takes Aim at Next Big Political Threat: Soaring Prices in U.K.</a> NYT: Prime Minister Boris Johnson, under pressure over a scathing report on lockdown parties in Downing Street and with his party trailing in opinion polls, unveiled an aid package Thursday. 
- <p class="updated_time"> 10:56 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Stresses U.S. Remains Focused on China</a> WSJ: Blinken Stresses U.S. Remains Focused on China 
  <p class="updated_time"> 10:54 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/china-policy-biden.html">U.S. Aims to Constrain China by Shaping Environment Around It, Blinken Says</a> NYT: The U.S. secretary of state gave a glimpse of President Biden’s classified strategy on China, in which officials have concluded they cannot change Beijing’s aggressive behavior. 
  <p class="updated_time"> 10:39 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-60938544?at_medium=RSS&at_campaign=KARANGA">Donbas: Why Russia is trying to capture eastern Ukraine</a> BBC: With fighting intensifying in eastern Ukraine, why is the region so essential for Russian success? 
+ <p class="updated_time"> 10:18 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/europes-quest-for-alternatives-to-russian-gas-hits-obstacles-in-middle-east-11653579800">Europe’s Quest for Alternatives to Russian Gas Hits Obstacles</a> WSJ: Europe’s Quest for Alternatives to Russian Gas Hits Obstacles 
  <p class="updated_time"> 10:07 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-61596845?at_medium=RSS&at_campaign=KARANGA">Laverne Cox honoured as first transgender Barbie</a> BBC: The actress and activist rose to fame in the Netflix prison comedy Orange is the New Black. 
- <p class="updated_time"> 09:56 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/europes-quest-for-alternatives-to-russian-gas-hits-obstacles-in-middle-east-11653579800">Europe’s Quest for Alternatives to Russian Gas Hits Obstacles</a> WSJ: Europe’s Quest for Alternatives to Russian Gas Hits Obstacles 
+ <p class="updated_time"> 09:18 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Slain Iranian Officer Led Assassination Plots</a> WSJ: Slain Iranian Officer Led Assassination Plots 
  <p class="updated_time"> 09:15 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61579600?at_medium=RSS&at_campaign=KARANGA">Texas shooting victims: 'They were sweet kids and lovable'</a> BBC: Keen sports players, A students and dancers are among the children killed in Tuesday's shooting. 
- <p class="updated_time"> 08:56 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Slain Iranian Officer Led Assassination Plots</a> WSJ: Slain Iranian Officer Led Assassination Plots 
  <p class="updated_time"> 08:30 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61593071?at_medium=RSS&at_campaign=KARANGA">Texas shooting: The teachers who sacrificed their lives to protect children</a> BBC: Eva Mireles and Irma Garcia were seen trying to shelter their students from the gunfire. 
  <p class="updated_time"> 07:48 AM CT, May. 26 </p> 
@@ -195,7 +195,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:45 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/paxlovid-white-house-covid-deaths.html">With new attempts to deliver Covid pills, the White House says virus deaths should be ‘largely preventable.’</a> NYT: “Fundamentally what we’re trying to do is get to a point where Covid deaths are largely preventable, and I think we’re pretty close to there,” Dr. Ashish K. Jha, the White House Covid-19 response coordinator, said. 
  <p class="updated_time"> 01:31 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/business/poultry-processors-growers.html">Biden administration aims to increase regulation and competition in the poultry industry.</a> NYT: More than 90 percent of chickens eaten by Americans are raised by farmers under contracts with poultry processing companies. 
+ <a href="https://www.nytimes.com/2022/05/26/business/biden-poultry-processors-growers.html">White House Aims to Increase Regulation and Competition in Poultry Industry</a> NYT: More than 90 percent of chickens eaten by Americans are raised by farmers under contracts with poultry processing companies. 
  <p class="updated_time"> 01:25 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/supreme-court-greenhouse-gas-emissions.html">Supreme Court Allows Greenhouse Gas Cost Estimates</a> NYT: Louisiana and other Republican-led states challenged a federal working group’s efforts to develop standards for agencies to use in quantifying the harms caused by emissions. 
  <p class="updated_time"> 01:08 PM CT, May. 26 </p> 
@@ -282,8 +282,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/us/politics/biden-texas-shooting.html">Biden Calls for Action After Texas Shooting, but Faces Limits of His Power</a> NYT: White House officials said the president was under no illusions that the Senate would pass gun safety legislation given continued opposition by Republicans. 
  <p class="updated_time"> 07:08 PM CT, May. 25 </p> 
  <a href="https://www.politico.com/news/2022/05/25/oklahoma-strictest-abortion-ban-stitt-00035302">Oklahoma governor signs nation’s strictest abortion ban</a> Politico: The law takes effect immediately upon Gov. Kevin Stitt’s signature and prohibits all abortions with few exceptions. 
- <p class="updated_time"> 06:25 PM CT, May. 25 </p> 
- <a href="https://www.politico.com/news/2022/05/25/nra-republicans-texas-shooting-trump-00035260">Republicans pledge allegiance to a hobbled NRA</a> Politico: Despite the school massacre, Donald Trump and other prominent pols are still planning to speak at an event the group is holding this week in Houston. 
  <p class="updated_time"> 05:58 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/politics/ted-cruz-texas-shooting.html">Ted Cruz Digs In Against Gun Control After Texas Shooting</a> NYT: After the mass shooting at an elementary school in his home state, the senator called for armed law enforcement on campuses and faulted Democrats for politicizing the issue. 
  <p class="updated_time"> 05:51 PM CT, May. 25 </p> 
@@ -348,6 +346,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/24/georgia-kemp-primary-2022-00034935">‘We’re going to go f---ing scorched-earth’: How Brian Kemp crushed Trump in Georgia</a> Politico: The Republican governor methodically dismantled Trump-endorsed David Perdue's political operation, dealing the former president a big political loss. 
  <p class="updated_time"> 07:08 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/murphy-forges-ahead-on-gun-talks-with-gop-after-texas-shooting-00034951">Murphy pleads with GOP for a gun deal as Texas school shooting grips America</a> Politico: The massacre of at least 19 children at a Texas elementary school came one week after another shooter killed 10 people, mostly Black. 
+ <p class="updated_time"> 04:01 PM CT, May. 24 </p> 
+ <a href="https://www.politico.com/news/2022/05/24/al-sharpton-elon-musk-delaware-court-00034875">Al Sharpton beckons Elon Musk into Delaware’s craziest court drama</a> Politico: Sharpton’s been trying to get Joe Biden to help change the composition of the Chancery Court. He thinks Musk’s Twitter acquisition drama could make him an ally too. 
  <p class="updated_time"> 07:01 AM CT, May. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/24/eyes-on-primary-prizes-00034661">Eyes on primary prizes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:27 AM CT, May. 24 </p> 
