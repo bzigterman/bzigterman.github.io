@@ -9,20 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:32 PM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
+ <p class="updated_time"> 04:24 PM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/arts/international-booker-winner-tomb-of-sand.html">‘Tomb of Sand’ Wins International Booker Prize, a First for a Hindi Novel</a> NYT: “Tomb of Sand,” written by Geetanjali Shree and translated by Daisy Rockwell, won despite getting little previous attention from reviewers. 
+ <p class="updated_time"> 04:22 PM CT, May. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61590608?at_medium=RSS&at_campaign=KARANGA">Louvre museum's ex-president charged in art trafficking case</a> BBC: Jean-Luc Martinez is accused of facilitating the transfer of objects to the museum’s Abu Dhabi site. 
+ <p class="updated_time"> 04:18 PM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/26/world/russia-ukraine-war">Ukraine Live Updates: In Wake of Davos, a Growing Debate on Ending the War</a> NYT: Some Western leaders are suggesting a territorial compromise between Ukraine and Russia, which Ukraine opposes. Russia shells central Kharkiv, leaving many dead and wounded, and Ukraine’s agricultural minister warns that global grain shortages are expected this summer. 
+ <p class="updated_time"> 04:16 PM CT, May. 26 </p> 
+ <a href="https://www.npr.org/2022/05/26/1101569986/secretary-of-state-blinken-spells-out-the-biden-administrations-approach-to-chin">Secretary of State Blinken spells out the Biden administration's approach to China</a> NPR: In a long awaited speech, Secretary of State Antony Blinken called China the most serious long term challenge to the international order and a test for U.S. diplomacy. 
+ <p class="updated_time"> 04:16 PM CT, May. 26 </p> 
+ <a href="https://www.npr.org/2022/05/26/1101569979/a-cyberwar-is-already-happening-in-ukraine-microsoft-analysts-say">A cyberwar is already happening in Ukraine, Microsoft analysts say</a> NPR: Microsoft's global ubiquity gives its cybersecurity experts a unique window into the Russian cyberwar against Ukraine. The software giant is involved in both monitoring and combatting attacks. 
  <p class="updated_time"> 04:10 PM CT, May. 26 </p> 
  <a href="https://www.npr.org/2022/05/26/1101451495/russia-ukraine-war-what-happened-today-may-26">Russia-Ukraine war: What happened today (May 26)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:10 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/05/26/world/russia-ukraine-war">Ukraine Live Updates: In Wake of Davos, a Growing Debate on Ending the War</a> NYT: Some Western leaders are suggesting a territorial compromise between Ukraine and Russia, which Ukraine opposes. Russia shells central Kharkiv, leaving many dead and wounded, and Ukraine’s agricultural minister warns that global grain shortages are expected this summer. 
+ <a href="https://www.bbc.co.uk/news/world-africa-61588869?at_medium=RSS&at_campaign=KARANGA">Senegal hospital fire: Eleven newborn babies die in Tivaouane</a> BBC: The fire is thought to have been caused by a short circuit at the hospital in Tivaouane, officials say. 
  <p class="updated_time"> 04:02 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61600914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas school gunman 'walked in unobstructed'</a> BBC: No guard challenged the attacker and it is unclear if the school door was even locked, say officials. 
  <p class="updated_time"> 03:37 PM CT, May. 26 </p> 
  <a href="https://www.npr.org/2022/05/26/1101568190/haitians-face-horrifying-violence-as-gangs-run-out-of-local-authorities-control">Haitians face horrifying violence as gangs run out of local authorities' control</a> NPR: NPR's Ailsa Chang speaks with Jacqueline Charles of the Miami Herald about the spike in gang violence in Haiti and what it means for schools and hospitals. 
  <p class="updated_time"> 03:37 PM CT, May. 26 </p> 
  <a href="https://www.npr.org/2022/05/26/1101568189/lithuania-has-become-the-1st-european-country-to-stop-using-russian-gas">Lithuania has become the 1st European country to stop using Russian gas</a> NPR: As Russia's war in Ukraine enters its fourth month, European countries are scrambling to wean themselves off of Russian gas. The Baltic nation of Lithuania has become the first to do so. 
+ <p class="updated_time"> 03:36 PM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
  <p class="updated_time"> 03:33 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/china-policy-biden.html">U.S. Aims to Constrain China by Shaping Environment Around It, Blinken Says</a> NYT: The U.S. secretary of state gave a glimpse of President Biden’s classified strategy on China, in which officials have concluded they cannot change Beijing’s aggressive behavior. 
- <p class="updated_time"> 03:12 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
+ <p class="updated_time"> 02:36 PM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
  <p class="updated_time"> 02:32 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61569655?at_medium=RSS&at_campaign=KARANGA">Texas school shooting: Husband of killed teacher dies 'of grief'</a> BBC: Joe Garcia reportedly died from a heart attack two days after his wife was shot at Robb Elementary. 
  <p class="updated_time"> 02:31 PM CT, May. 26 </p> 
@@ -31,9 +45,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/world/middleeast/israel-shireen-abu-akleh.html">Palestinian Inquiry Accuses Israel of Intentionally Killing Al Jazeera Journalist</a> NYT: The Palestinian Authority reported its final findings from a two-week investigation into the killing of the journalist Shireen Abu Akleh. Israel said it was still conducting its own inquiry. 
  <p class="updated_time"> 02:19 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61599667?at_medium=RSS&at_campaign=KARANGA">Amber Heard: It's easy to forget I'm a human being</a> BBC: Heard found herself in a tense exchange with Johnny Depp's attorney as the trial nears its end. 
- <p class="updated_time"> 02:12 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
- <p class="updated_time"> 01:12 PM CT, May. 26 </p> 
+ <p class="updated_time"> 01:36 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Stresses U.S. Remains Focused on China</a> WSJ: Blinken Stresses U.S. Remains Focused on China 
  <p class="updated_time"> 01:08 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61599932?at_medium=RSS&at_campaign=KARANGA">Russian mum's fight to save sons from Putin's war</a> BBC: Marina had no idea when her sons were conscripted that they would be part of an invasion of Ukraine. 
@@ -41,18 +53,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61600212?at_medium=RSS&at_campaign=KARANGA">Goodfellas star Ray Liotta dies aged 67</a> BBC: The actor died in his sleep in the Dominican Republic, his publicist confirms. 
  <p class="updated_time"> 12:51 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61600593?at_medium=RSS&at_campaign=KARANGA">Abba: All four members of the Swedish band reunite ahead of Voyage concert</a> BBC: All four members of the Swedish band have reunited on the red carpet ahead of Voyage concert. 
- <p class="updated_time"> 12:31 PM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61588869?at_medium=RSS&at_campaign=KARANGA">Senegal hospital fire: Eleven newborn babies die in Tivaouane</a> BBC: The fire is thought to have been caused by a short circuit at the hospital in Tivaouane, officials say. 
- <p class="updated_time"> 12:12 PM CT, May. 26 </p> 
+ <p class="updated_time"> 12:36 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/europes-quest-for-alternatives-to-russian-gas-hits-obstacles-in-middle-east-11653579800">Europe’s Quest for Alternatives to Russian Gas Hits Obstacles</a> WSJ: Europe’s Quest for Alternatives to Russian Gas Hits Obstacles 
- <p class="updated_time"> 11:55 AM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61590608?at_medium=RSS&at_campaign=KARANGA">Louvre museum's ex-president charged in art trafficking case</a> BBC: Jean-Luc Martinez is accused of facilitating the transfer of objects to the museum’s Abu Dhabi site. 
  <p class="updated_time"> 11:49 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/health/monkeypox-vaccine-immunity.html">Who Is Protected Against Monkeypox?</a> NYT: Older people who received smallpox vaccinations may yet have some immunity, researchers say. Healthy children and adults generally do not become severely ill. 
+ <p class="updated_time"> 11:36 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Slain Iranian Officer Led Assassination Plots</a> WSJ: Slain Iranian Officer Led Assassination Plots 
  <p class="updated_time"> 11:12 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61591615?at_medium=RSS&at_campaign=KARANGA">Spanish MPs back 'only yes means yes' sexual consent law</a> BBC: The new legislation aims to make it easier for victims of sexual violence to prosecute attackers. 
- <p class="updated_time"> 11:12 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Slain Iranian Officer Led Assassination Plots</a> WSJ: Slain Iranian Officer Led Assassination Plots 
  <p class="updated_time"> 11:10 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/europe/johnson-britain-inflation-energy-tax.html">Johnson Takes Aim at Next Big Political Threat: Soaring Prices in U.K.</a> NYT: Prime Minister Boris Johnson, under pressure over a scathing report on lockdown parties in Downing Street and with his party trailing in opinion polls, unveiled an aid package Thursday. 
  <p class="updated_time"> 10:39 AM CT, May. 26 </p> 
@@ -73,8 +81,6 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/dna-of-pompeii-man-killed-during-vesuvius-eruption-yields-its-secrets-almost-2-000-years-later-11653577200">DNA of Pompeii Man Yields Secrets 2,000 Years Later</a> WSJ: For the first time, scientists have identified the entire genetic makeup of a victim of the deadly Mount Vesuvius eruption nearly 2,000 years ago. 
  <p class="updated_time"> 05:38 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/asia/china-economy-zero-covid.html">Concern Grows in China Over Economic Impact of ‘Zero Covid’</a> NYT: A senior leader announced efforts to bolster growth and urged local leaders do more to keep the economy running. 
- <p class="updated_time"> 04:07 AM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
  <p class="updated_time"> 04:06 AM CT, May. 26 </p> 
  <a href="https://www.npr.org/2022/05/26/1101423950/western-countries-watch-as-chinas-foreign-minister-begins-south-pacific-tour">Western countries watch as China's foreign minister begins South Pacific tour</a> NPR: Australia was scrambling to counter the move by sending its own Foreign Minister Penny Wong to Fiji to shore up support in the Pacific. 
  <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
@@ -141,8 +147,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/25/1101203359/ukrainian-president-zelenskyy-offers-condolences-over-uvalde-school-shooting">Ukrainian officials offer their condolences to Uvalde</a> NPR: President Volodymyr Zelenskyy and other Ukrainian leaders took to social media to stand in sympathy and solidarity with a tragedy unfolding across the world. 
  <p class="updated_time"> 10:10 AM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101196365/boris-johnson-blamed-for-covid-lockdown-parties">A new report blames Boris Johnson for allowing parties during COVID lockdown </a> NPR: The investigative report cited a failure in leadership among the prime minister and other top British officials for allowing boozy government parties that broke lockdown rules. 
- <p class="updated_time"> 08:55 AM CT, May. 25 </p> 
- <a href="https://www.npr.org/2022/05/25/1101153219/uvalde-shooting-pope-francis-gun-control-cardinal-cupich">Pope Francis and a cardinal say it's time for the U.S. to act on guns</a> NPR: "It is time to say enough to the indiscriminate trafficking of arms," Pope Francis said on Wednesday, as he sent condolences to families in Uvalde, Texas. 
  <p class="updated_time"> 06:47 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-food-supply.html">Russia Is Accused of Using Food as ‘Blackmail’ in Ukraine War</a> NYT: World leaders say there is no easy way to bypass a Russian blockade without a military clash, and accuse Vladimir V. Putin of using global hunger as a weapon. 
  <p class="updated_time"> 06:37 AM CT, May. 25 </p> 
@@ -157,8 +161,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/24/world/europe/uk-homes-for-ukraine-refugees.html">Homes for Ukrainians? The U.K. Isn’t Making It Easy</a> NYT: A plan that allows Britons to sponsor people fleeing the Russian invasion has been plagued by visa delays and safeguarding concerns. 
  <p class="updated_time"> 03:15 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/henry-kissinger-ukraine-russia-davos.html">Henry Kissinger Suggests Ukraine Give Up Territory to Russia</a> NYT: The former secretary of state argued that ceding land could bring an end to the war. Critics called the idea reckless and unrealistic. 
- <p class="updated_time"> 03:04 AM CT, May. 25 </p> 
- <a href="https://www.npr.org/2022/05/25/1101141199/sale-of-sanctioned-oligarchs-chelsea-football-club-approved-by-u-k-government">Sale of sanctioned oligarch's Chelsea Football Club approved by U.K. government</a> NPR: The government had to be sure that Roman Abramovich, sanctioned over his links to Russian President Vladimir Putin, did not profit from the enforced sale of one of football's most successful clubs. 
  <p class="updated_time"> 02:30 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61510336?at_medium=RSS&at_campaign=KARANGA">Goldman Prize: The activists who battled mining with drones</a> BBC: Alex Lucitante and Alexandra Narváez led their indigenous group's fight against mining on their land. 
  <p class="updated_time"> 01:59 AM CT, May. 25 </p> 
@@ -194,8 +196,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 PM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/us/politics/paxlovid-white-house-covid-deaths.html">White House Pushes to Get Paxlovid to More Covid Patients</a> NYT: “What we’re trying to do is get to a point where Covid deaths are largely preventable, and I think we’re pretty close to there,” the White House Covid-19 response coordinator said. 
+ <p class="updated_time"> 04:16 PM CT, May. 26 </p> 
+ <a href="https://www.npr.org/2022/05/26/1101569986/secretary-of-state-blinken-spells-out-the-biden-administrations-approach-to-chin">Secretary of State Blinken spells out the Biden administration's approach to China</a> NPR: In a long awaited speech, Secretary of State Antony Blinken called China the most serious long term challenge to the international order and a test for U.S. diplomacy. 
+ <p class="updated_time"> 04:11 PM CT, May. 26 </p> 
+ <a href="https://www.politico.com/news/2022/05/26/biden-response-texas-school-shooting-00035523">‘He can’t just be the ‘eulogizer in chief’’: Frustration grows over Biden’s Texas response</a> Politico: The White House wants to have distance to see if a deal can be struck. Activists see a leadership vacuum. 
  <p class="updated_time"> 04:06 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/michigan-republicans-governor-signatures.html">5 G.O.P. Candidates for Michigan Governor Are Disqualified Over Forged Signatures</a> NYT: James Craig and Perry Johnson, two of the party’s top contenders, were denied spots on the ballot by a state canvassing board. The party-line decision is expected to draw lawsuits. 
+ <p class="updated_time"> 03:50 PM CT, May. 26 </p> 
+ <a href="https://www.politico.com/news/2022/05/26/biden-uvalde-texas-school-shooting-00035536">Biden, first lady to travel to Uvalde on Sunday to grieve with victims' families</a> Politico: It will be Biden's second trip to a community rocked by gun violence in less than two weeks. 
  <p class="updated_time"> 03:47 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/secret-alternative-mueller-report-goes-public-00035507">Previously secret 'alternative' Mueller report goes public</a> Politico: Compendium of evidence gathered by the special counsel's 'Team M' is heavily redacted. 
  <p class="updated_time"> 03:37 PM CT, May. 26 </p> 
@@ -210,8 +220,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/business/biden-poultry-processors-growers.html">White House Aims to Increase Regulation and Competition in Poultry Industry</a> NYT: More than 90 percent of chickens eaten by Americans are raised by farmers under contracts with poultry processing companies. 
  <p class="updated_time"> 01:51 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/supreme-court-red-states-biden-climate-00035479">Supreme Court rejects red states' plea to block Biden climate metric</a> Politico: The decision means the White House can move forward with its plans to overhaul and likely significantly increase the number known as the social cost of carbon. 
- <p class="updated_time"> 01:45 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/us/politics/paxlovid-white-house-covid-deaths.html">With new attempts to deliver Covid pills, the White House says virus deaths should be ‘largely preventable.’</a> NYT: “Fundamentally what we’re trying to do is get to a point where Covid deaths are largely preventable, and I think we’re pretty close to there,” Dr. Ashish K. Jha, the White House Covid-19 response coordinator, said. 
  <p class="updated_time"> 01:37 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/bidens-advocate-tax-the-rich-white-house-00035437">Biden's advocate for taxing the rich to leave White House</a> Politico: David Kamin, deputy director at the National Economic Council, will return to his teaching job at NYU 
  <p class="updated_time"> 01:25 PM CT, May. 26 </p> 
@@ -242,8 +250,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/us/politics/republicans-campaign-guns.html">Why Republicans Campaign on Guns While Democrats Choose Not To</a> NYT: For Republicans, brandishing firepower is a visual shorthand for hard-core conservatism. Democrats see little gain in highlighting an issue on which their party hasn’t been able to get much done. 
  <p class="updated_time"> 08:08 AM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/k-pop-band-bts-white-house-visit-00035357">Build Back Butter: K-Pop band BTS heading to White House</a> Politico: The group’s visit is scheduled for May 31, the conclusion of Asian American, Native Hawaiian and Pacific Islander Heritage Month. 
- <p class="updated_time"> 08:00 AM CT, May. 26 </p> 
- <a href="https://www.politico.com/news/2022/05/26/vulnerable-senate-democrats-back-off-big-tech-bill-00035307">In private, vulnerable Senate Dems back off tech bill</a> Politico: Democratic leaders want to crack down on Big Tech. Others in the party think it's too big of a risk. 
  <p class="updated_time"> 06:42 AM CT, May. 26 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/26/giving-gun-talks-a-go-00035353">Giving gun talks a go</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, May. 26 </p> 
@@ -320,8 +326,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/25/1101307651/biden-signs-police-reform-executive-order-on-2nd-anniversary-of-george-floyds-de">Biden signs police reform executive order on 2nd anniversary of George Floyd's death</a> NPR: President Biden has marked the second anniversary of the murder of George Floyd by signing an executive order. It will set up some of the police reforms that stalled in Congress. 
  <p class="updated_time"> 03:39 PM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101307644/sen-murphy-says-the-chances-for-compromise-on-gun-control-are-less-than-50-50">Sen. Murphy says the chances for compromise on gun control are less than 50/50</a> NPR: NPR's Ailsa Chang talks with Sen. Chris Murphy, D-Conn., who represents the community of Sandy Hook. He has been trying to pass gun control legislation since 2012's elementary school shooting there. 
- <p class="updated_time"> 03:18 PM CT, May. 25 </p> 
- <a href="https://www.npr.org/2022/05/25/1101307609/soon-after-the-uvalde-shooting-conspiracy-theories-took-off-among-the-far-right">Soon after the Uvalde shooting, conspiracy theories took off among the far right</a> NPR: Rumors, misinformation and conspiracy theories were rampant on right-wing social media before verifiable information came out about the gunman who took at least 21 lives at a Texas elementary school. 
  <p class="updated_time"> 02:43 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/business/economy/fed-interest-rates-inflation.html">Fed Minutes Show Officials Expecting to Raise Rates Three Times to Address Inflation</a> NYT: Minutes of the Federal Reserve’s May meeting underscored the deep concern within the central bank about rapidly rising prices that have far exceeded the Fed’s target. 
  <p class="updated_time"> 02:16 PM CT, May. 25 </p> 
@@ -335,7 +339,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 01:07 PM CT, May. 25 </p> 
  <a href="https://www.politico.com/news/2022/05/25/conflicting-evidence-michael-sussmann-fbi-meeting-00035080">Jury sees conflicting evidence on Michael Sussmann's role at FBI Trump-Russia meeting</a> Politico: The prosecution rested in the false-statement case brought by special counsel John Durham. 
  <p class="updated_time"> 12:39 PM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/25/us/politics/pro-trump-lawyers-elector-scheme.html">Intensifying Inquiry Into Alternate Electors Focuses on Trump Lawyers</a> NYT: In recent subpoenas, federal prosecutors investigating alternate slates of pro-Trump electors sought information about Rudolph W. Giuliani, John Eastman and others. 
+ <a href="https://www.nytimes.com/2022/05/25/us/politics/pro-trump-lawyers-elector-scheme.html">Trump Lawyers Are Focus of Inquiry Into Alternate Electors Scheme</a> NYT: In recent subpoenas, federal prosecutors investigating alternate slates of pro-Trump electors sought information about Rudolph W. Giuliani, John Eastman and others. 
  <p class="updated_time"> 12:35 PM CT, May. 25 </p> 
  <a href="https://www.politico.com/news/2022/05/25/trump-expressed-support-hanging-pence-capitol-riot-jan-6-00035117">Trump expressed support for hanging Pence during Capitol riot, Jan. 6 panel told</a> Politico: The select panel has heard that, after "hang Mike Pence” chants broke out, the then-president expressed support for the prospect of hanging his No. 2, three people told POLITICO. 
  <p class="updated_time"> 12:15 PM CT, May. 25 </p> 
