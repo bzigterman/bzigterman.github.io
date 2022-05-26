@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:42 PM CT, May. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61561452?at_medium=RSS&at_campaign=KARANGA">Geetanjali Shree is first Indian winner of International Booker Prize</a> BBC: The prize's judges say Geetanjali Shree's Tomb of Sand is a "luminous novel of India and partition". 
  <p class="updated_time"> 04:32 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
  <p class="updated_time"> 04:31 PM CT, May. 26 </p> 
@@ -27,7 +29,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/26/1101451495/russia-ukraine-war-what-happened-today-may-26">Russia-Ukraine war: What happened today (May 26)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:10 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61588869?at_medium=RSS&at_campaign=KARANGA">Senegal hospital fire: Eleven newborn babies die in Tivaouane</a> BBC: The fire is thought to have been caused by a short circuit at the hospital in Tivaouane, officials say. 
- <p class="updated_time"> 03:49 PM CT, May. 26 </p> 
+ <p class="updated_time"> 03:59 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
  <p class="updated_time"> 03:37 PM CT, May. 26 </p> 
  <a href="https://www.npr.org/2022/05/26/1101568190/haitians-face-horrifying-violence-as-gangs-run-out-of-local-authorities-control">Haitians face horrifying violence as gangs run out of local authorities' control</a> NPR: NPR's Ailsa Chang speaks with Jacqueline Charles of the Miami Herald about the spike in gang violence in Haiti and what it means for schools and hospitals. 
@@ -35,7 +37,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/26/1101568189/lithuania-has-become-the-1st-european-country-to-stop-using-russian-gas">Lithuania has become the 1st European country to stop using Russian gas</a> NPR: As Russia's war in Ukraine enters its fourth month, European countries are scrambling to wean themselves off of Russian gas. The Baltic nation of Lithuania has become the first to do so. 
  <p class="updated_time"> 03:33 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/china-policy-biden.html">U.S. Aims to Constrain China by Shaping Environment Around It, Blinken Says</a> NYT: The U.S. secretary of state gave a glimpse of President Biden’s classified strategy on China, in which officials have concluded they cannot change Beijing’s aggressive behavior. 
- <p class="updated_time"> 02:49 PM CT, May. 26 </p> 
+ <p class="updated_time"> 02:59 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
  <p class="updated_time"> 02:32 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61569655?at_medium=RSS&at_campaign=KARANGA">Texas school shooting: Husband of killed teacher dies 'of grief'</a> BBC: Joe Garcia reportedly died from a heart attack two days after his wife was shot at Robb Elementary. 
@@ -45,17 +47,17 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/world/middleeast/israel-shireen-abu-akleh.html">Palestinian Inquiry Accuses Israel of Intentionally Killing Al Jazeera Journalist</a> NYT: The Palestinian Authority reported its final findings from a two-week investigation into the killing of the journalist Shireen Abu Akleh. Israel said it was still conducting its own inquiry. 
  <p class="updated_time"> 02:19 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61599667?at_medium=RSS&at_campaign=KARANGA">Amber Heard: It's easy to forget I'm a human being</a> BBC: Heard found herself in a tense exchange with Johnny Depp's attorney as the trial nears its end. 
- <p class="updated_time"> 01:49 PM CT, May. 26 </p> 
+ <p class="updated_time"> 01:59 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China</a> WSJ: Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China 
  <p class="updated_time"> 01:08 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61599932?at_medium=RSS&at_campaign=KARANGA">Russian mum's fight to save sons from Putin's war</a> BBC: Marina had no idea when her sons were conscripted that they would be part of an invasion of Ukraine. 
  <p class="updated_time"> 12:59 PM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/europes-quest-for-alternatives-to-russian-gas-hits-obstacles-in-middle-east-11653579800">Europe’s Quest for Alternatives to Russian Gas Hits Obstacles</a> WSJ: Europe’s Quest for Alternatives to Russian Gas Hits Obstacles 
+ <p class="updated_time"> 12:59 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61600212?at_medium=RSS&at_campaign=KARANGA">Goodfellas star Ray Liotta dies aged 67</a> BBC: The actor died in his sleep in the Dominican Republic, his publicist confirms. 
  <p class="updated_time"> 12:51 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61600593?at_medium=RSS&at_campaign=KARANGA">Abba: All four members of the Swedish band reunite ahead of Voyage concert</a> BBC: All four members of the Swedish band have reunited on the red carpet ahead of Voyage concert. 
- <p class="updated_time"> 12:49 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/europes-quest-for-alternatives-to-russian-gas-hits-obstacles-in-middle-east-11653579800">Europe’s Quest for Alternatives to Russian Gas Hits Obstacles</a> WSJ: Europe’s Quest for Alternatives to Russian Gas Hits Obstacles 
- <p class="updated_time"> 11:49 AM CT, May. 26 </p> 
+ <p class="updated_time"> 11:59 AM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Slain Iranian Officer Led Assassination Plots</a> WSJ: Slain Iranian Officer Led Assassination Plots 
  <p class="updated_time"> 11:49 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/health/monkeypox-vaccine-immunity.html">Who Is Protected Against Monkeypox?</a> NYT: Older people who received smallpox vaccinations may yet have some immunity, researchers say. Healthy children and adults generally do not become severely ill. 
