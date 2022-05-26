@@ -9,36 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:07 AM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
+ <p class="updated_time"> 04:06 AM CT, May. 26 </p> 
+ <a href="https://www.npr.org/2022/05/26/1101423950/western-countries-watch-as-chinas-foreign-minister-begins-south-pacific-tour">Western countries watch as China's foreign minister begins South Pacific tour</a> NPR: Australia was scrambling to counter the move by sending its own Foreign Minister Penny Wong to Fiji to shore up support in the Pacific. 
+ <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/world/americas/colombia-presidential-election-gustavo-petro.html">Colombia Election: Angry, Mobilized and Voting for Gustavo Petro</a> NYT: A large and loud youth electorate hungry to transform one of Latin America’s most unequal societies could propel Gustavo Petro, a former rebel, to the presidency. 
+ <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/world/asia/india-film-kashmir-files.html">Film on Expulsion of Kashmir’s Hindus Is Polarizing and Popular in India</a> NYT: Called propaganda by critics and essential viewing by fans, “The Kashmir Files,” an unexpected blockbuster, has drawn the support of Prime Minister Narendra Modi’s Bharatiya Janata Party. 
+ <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
+ <a href="https://www.npr.org/2022/05/26/1100501433/heres-how-much-it-could-cost-to-rebuild-ukraine-and-who-would-pay-for-it">Here's how much it could cost to rebuild Ukraine — and who would pay for it</a> NPR: History has many lessons to offer on how much it will cost to rebuild Ukraine, and how it can be done to help set the country up for a more prosperous and safe future. 
+ <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/books/buenos-aires-books.html">Through a Recession and a Pandemic, the Book Business Is Thriving in Buenos Aires</a> NYT: The Argentine capital has always been bookish. When hard times shuttered the big chain shops, book purveyors found a way to keep residents in fresh reading material. 
+ <p class="updated_time"> 03:56 AM CT, May. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61588274?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Police urged to enter deadly school attack, witnesses say</a> BBC: The gunman was inside the Texas school for between 40 minutes and an hour, officials say. 
+ <p class="updated_time"> 03:41 AM CT, May. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61588788?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Uvalde tragedy opens painful memories for Sandy Hook parents</a> BBC: "Because it is so hauntingly similar to what happened at Sandy Hook School, it hit closer to home." 
  <p class="updated_time"> 03:40 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/05/25/world/russia-ukraine-war">What Happened on Day 91 of the War in Ukraine</a> NYT: Ukrainian officials say Russia is likely to resort to siege tactics as it tries to encircle and capture Sievierodonetsk and other cities in the Donbas region. 
+ <p class="updated_time"> 03:27 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/putin-orthodox-church-ally-kirill-russian-support-for-war-11653495434">Putin’s Powerful Orthodox Church Ally Helps Cement Russian Support for War</a> WSJ: Putin’s Powerful Orthodox Church Ally Helps Cement Russian Support for War 
  <p class="updated_time"> 03:04 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/russia-ukraine-donbas.html">A Doomed River Crossing Shows the Perils of Entrapment in the War’s East</a> NYT: Encirclement is a tactic used by both sides in the war between Russia and Ukraine, but it can carry big risks. 
- <p class="updated_time"> 02:44 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/putin-orthodox-church-ally-kirill-russian-support-for-war-11653495434">Putin’s Powerful Orthodox Church Ally Helps Cement Russian Support for War</a> WSJ: Putin’s Powerful Orthodox Church Ally Helps Cement Russian Support for War 
  <p class="updated_time"> 02:42 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61588869?at_medium=RSS&at_campaign=KARANGA">Eleven newborn babies die in Senegal hospital fire</a> BBC: The fire is thought to have been caused by a short circuit at the hospital in Tivaouane, officials say. 
  <p class="updated_time"> 02:31 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/masks-hawaii-delaware.html">These U.S. Schools and Universities Are Reimposing Indoor Mask Mandates</a> NYT: The moves are a sign that while the academic year may be coming to a close, the pandemic is still not. 
- <p class="updated_time"> 01:47 AM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61588274?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Gunman sent messages before deadly attack</a> BBC: The governor of Texas said the shooter sent messages on social media about plans to "shoot up a school". 
- <p class="updated_time"> 01:44 AM CT, May. 26 </p> 
+ <p class="updated_time"> 02:27 AM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-threatens-transition-to-cleaner-energy-leaders-warn-at-davos-11653505490">Ukraine War Threatens Transition to Cleaner Energy, Leaders Warn at Davos</a> WSJ: Ukraine War Threatens Transition to Cleaner Energy, Leaders Warn at Davos 
- <p class="updated_time"> 01:23 AM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
- <p class="updated_time"> 12:44 AM CT, May. 26 </p> 
+ <p class="updated_time"> 01:27 AM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/russia-dominates-a-meeting-to-which-it-wasnt-invited-11653492101">Russia’s Absence at Davos Marks Unraveling of Globalization</a> WSJ: Russia’s Absence at Davos Marks Unraveling of Globalization 
+ <p class="updated_time"> 12:27 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/chinas-top-two-leaders-diverge-in-messaging-on-covid-impact-11653486508">China’s Top Two Leaders Diverge in Messaging on Covid Impact</a> WSJ: China’s Top Two Leaders Diverge in Messaging on Covid Impact 
  <p class="updated_time"> 11:48 PM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-61575387?at_medium=RSS&at_campaign=KARANGA">Ukraine war: World Bank boss warns over global recession</a> BBC: David Malpass also said coronavirus lockdowns in China are contributing to a global slowdown. 
- <p class="updated_time"> 11:44 PM CT, May. 25 </p> 
- <a href="https://www.wsj.com/articles/chinas-top-two-leaders-diverge-in-messaging-on-covid-impact-11653486508">China’s Top Two Leaders Diverge in Messaging on Covid Impact</a> WSJ: China’s Top Two Leaders Diverge in Messaging on Covid Impact 
+ <p class="updated_time"> 11:27 PM CT, May. 25 </p> 
+ <a href="https://www.wsj.com/articles/u-s-sanctions-russian-companies-accused-of-helping-irans-revolutionary-guard-11653503302">U.S. Sanctions Russian Firms Accused of Helping Iran’s Revolutionary Guard</a> WSJ: U.S. Sanctions Russian Firms Accused of Helping Iran’s Revolutionary Guard 
  <p class="updated_time"> 11:14 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/asia/china-pacific-island-countries.html">China Seeks Sweeping Regional Deal With Pacific Island Countries</a> NYT: Newly obtained documents shed light on how Beijing hopes to win friends and gain influence in an area of strategic importance. 
  <p class="updated_time"> 10:54 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/climate/pebble-mine-alaska-epa.html">E.P.A. to Block Pebble Mine Project in Alaska</a> NYT: The E.P.A. has proposed to ban the disposal of mining waste in the Bristol Bay watershed, a decision that very likely means the end of the Pebble Mine project. 
  <p class="updated_time"> 10:50 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/asia/china-taiwan-military-drills.html">After Biden Visit, China Organizes Military Drills Near Taiwan</a> NYT: After President Biden suggested the United States would get involved militarily to defend Taiwan if China attacked it, China described organizing combat drills in the seas and airspace around Taiwan. 
- <p class="updated_time"> 10:44 PM CT, May. 25 </p> 
- <a href="https://www.wsj.com/articles/u-s-sanctions-russian-companies-accused-of-helping-irans-revolutionary-guard-11653503302">U.S. Sanctions Russian Firms Accused of Helping Iran’s Revolutionary Guard</a> WSJ: U.S. Sanctions Russian Firms Accused of Helping Iran’s Revolutionary Guard 
  <p class="updated_time"> 09:12 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/biden-taiwan-china-australia.html">Biden’s Words on Taiwan Leave Allies in an Awkward Spot</a> NYT: Ahead of a summit with Australia, India and Japan, an off-the-cuff vow to defend the island militarily against China complicates diplomacy, particularly for Australia. 
  <p class="updated_time"> 08:58 PM CT, May. 25 </p> 
@@ -83,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/25/1101256376/leaders-reaction-to-uvalde-school-shooting-texas-zelenskyy-pope-trudeau">How world leaders are reacting to the Uvalde school shooting</a> NPR: Officials around the world are responding to the school shooting in Uvalde, Texas, the deadliest such incident to take place in the U.S. in nearly a decade. 
  <p class="updated_time"> 12:12 PM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61575778?at_medium=RSS&at_campaign=KARANGA">Yasin Malik: Top Kashmiri separatist given life in Indian jail</a> BBC: A court in Delhi sentences Yasin Malik to life imprisonment after convicting him of funding terrorism. 
- <p class="updated_time"> 12:03 PM CT, May. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61585716?at_medium=RSS&at_campaign=KARANGA">Texas shooting: America's gun control debate that never goes away</a> BBC: Stricter gun control in the US is unlikely despite the grief and anger, the BBC's Sarah Smith writes. 
  <p class="updated_time"> 11:28 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61578156?at_medium=RSS&at_campaign=KARANGA">Severodonetsk: Battle for key road as fighting reaches Ukraine city</a> BBC: Severodonetsk under constant shelling but a vital artery into the city is still open, Ukraine says. 
  <p class="updated_time"> 11:13 AM CT, May. 25 </p> 
@@ -159,12 +169,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/24/1101040250/many-nations-say-they-wont-go-to-the-summit-of-the-americas-unless-all-are-invit">Many nations say they won't go to the Summit of the Americas unless all are invited</a> NPR: Will the U.S. be able to salvage the remnants of the Summit of the Americas? And what does the growing boycott mean for U.S. influence in Latin America? 
  <p class="updated_time"> 03:43 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/23/health/monkeypox-vaccines.html">As Monkeypox Cases Rise, Nations Are Urged to Examine Vaccine Stores</a> NYT: The United States has stockpiled millions of doses of two smallpox vaccines, also effective against monkeypox. But the outbreaks so far are clustered in other countries. 
- <p class="updated_time"> 03:42 PM CT, May. 24 </p> 
- <a href="https://www.npr.org/2022/05/24/1101003523/monkeypox-covid-19-differences">Monkeypox isn't like COVID-19 — and that's a good thing</a> NPR: Although monkeypox's recent spread has caused concern, its similarities to smallpox have given the public health world a head start on combating it. 
  <p class="updated_time"> 03:31 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/covid-omicron-cases.html">Omicron Subvariant BA.2.12.1 Becomes Dominant in U.S. Virus Cases</a> NYT: The development comes as the United States recently began averaging more than 100,000 new confirmed cases per day again, according to a New York Times database, for the first time since February. 
- <p class="updated_time"> 03:27 PM CT, May. 24 </p> 
- <a href="https://www.npr.org/2022/05/24/1101040235/a-ukrainian-medic-recorded-footage-of-her-time-in-mariupol-then-sent-it-to-the-a">A Ukrainian medic recorded footage of her time in Mariupol — then sent it to the AP</a> NPR: NPR's Sacha Pfeiffer talks with Lori Hinnant, investigative correspondent with the Associated Press, about the story of a Ukrainian medic who recorded footage of her time in Mariupol. 
  <p class="updated_time"> 01:50 PM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61571612?at_medium=RSS&at_campaign=KARANGA">Uyghur detention: Leaked files reveal locations of lost loved ones</a> BBC: The hacked files include information on missing people, seen for the first time by their family members. 
  <p class="updated_time"> 01:00 PM CT, May. 24 </p> 
@@ -191,10 +197,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61530544?at_medium=RSS&at_campaign=KARANGA">From Afghanistan's finance minister to cab driver in the US</a> BBC: Now a taxi driver in Washington DC, Khalid Payenda once oversaw a multi-billion dollar budget. 
  <p class="updated_time"> 05:56 PM CT, May. 23 </p> 
  <a href="https://www.nytimes.com/2022/05/23/world/europe/russia-ukraine-war-zelensky.html">Zelensky Urges Even Harder Line on Russia as Allies Work to Remain United</a> NYT: A midlevel Russian diplomat broke ranks and resigned with a scathing statement on the war, and President Volodymyr Zelensky called on world leaders to turn up the pressure. 
- <p class="updated_time"> 03:04 PM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/europe/russia-ukraine-killing-attack.html">Zelensky Says Russian Forces Killed 87 People in an Attack</a> NYT: The attack took place last week in the Chernihiv region north of the capital, Kyiv. 
- <p class="updated_time"> 02:12 PM CT, May. 23 </p> 
- <a href="https://www.nytimes.com/2022/05/23/world/europe/imran-khan-sexual-assault-sentencing-parliament.html">Former British Lawmaker Sentenced to 18 Months for Sexual Assault</a> NYT: A 15-year-old boy had reported the assault in 2008 but decided not to pursue the case until he saw that Imran Ahmad Khan had been elected to Parliament in 2019, prosecutors said. 
 
 
 </details>
@@ -202,6 +204,16 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:11 AM CT, May. 26 </p> 
+ <a href="https://www.npr.org/2022/05/26/1101423635/texas-lawmakers-have-removed-gun-restrictions-in-recent-years">Texas lawmakers have removed gun restrictions in recent years </a> NPR: NPR's Steve Inskeep talks to Travis Clardy, a Republican state lawmaker in Texas, about this week's school shooting in Uvalde, and the state's gun laws. 
+ <p class="updated_time"> 04:11 AM CT, May. 26 </p> 
+ <a href="https://www.npr.org/2022/05/26/1101423628/on-2nd-anniversary-of-george-floyds-death-biden-signs-police-reform-order">On 2nd anniversary of George Floyd's death, Biden signs police reform order</a> NPR: President Biden signed an executive order Wednesday on policing — two years after George Floyd was killed by a Minneapolis police officer. 
+ <p class="updated_time"> 04:11 AM CT, May. 26 </p> 
+ <a href="https://www.npr.org/2022/05/26/1101423621/house-lawmakers-hold-hearings-into-the-baby-formula-shortage">House lawmakers hold hearings into the baby formula shortage</a> NPR: NPR's Leila Fadel talks to Rep. Rosa DeLauro about a House panel hearing that questioned why it took the FDA four months to issue warnings about baby formula that didn't meet safety requirements. 
+ <p class="updated_time"> 04:11 AM CT, May. 26 </p> 
+ <a href="https://www.npr.org/2022/05/26/1101423586/social-justice-group-examines-how-deeply-the-far-right-has-penetrated-state-poli">Social justice group examines how deeply the far-right has penetrated state politics</a> NPR: The results of a study released this month find that at least one in five Republican state legislators across the country are affiliated with far-right groups on Facebook. 
+ <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
+ <a href="https://www.npr.org/2022/05/26/1100587366/banning-abortion-roe-economic-consequences">Women who are denied abortions risk falling deeper into poverty. So do their kids</a> NPR: A large body of research shows being denied an abortion limits women's education, time in the workforce and wages. It also finds long-term negative impacts for their children. 
  <p class="updated_time"> 03:30 AM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/senate-gop-domestic-terrorism-bill-00035240">Senate GOP set to block domestic terrorism bill as gun debate heats up</a> Politico: A nearly identical version of the legislation poised to fail Thursday passed the House with no Republican objections two years ago. Things are different across the building this time. 
  <p class="updated_time"> 02:00 AM CT, May. 26 </p> 
@@ -212,8 +224,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/us/politics/michael-sussmann-trial-eric-lichtblau.html">Defense Team for Democratic-Linked Lawyer Won’t Call Ex-Times Reporter to Testify</a> NYT: Lawyers had argued that the reporter, Eric Lichtblau, should testify about his communications with their client, Michael Sussmann, who is accused of lying to the F.B.I. 
  <p class="updated_time"> 09:57 PM CT, May. 25 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 09:01 PM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/25/us/politics/senate-gun-control.html">Democrats Hit Pause on Gun Control Vote, Hoping for a Compromise</a> NYT: After the deadliest school shooting in a decade, the top Senate Democrat said he would wait to force a vote on gun safety measures the G.O.P. has opposed. 
  <p class="updated_time"> 08:56 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/politics/trump-pence-jan-6.html">Trump Said to Have Reacted Approvingly to Jan. 6 Chants About Hanging Pence</a> NYT: The House committee investigating the Capitol assault has heard accounts of the former president’s remarks as he watched the riot unfold on television. 
  <p class="updated_time"> 08:09 PM CT, May. 25 </p> 
@@ -306,24 +316,16 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/25/what-election-night-in-texas-looked-like-after-the-mass-shooting-00035070">What election night in Texas looked like after the mass shooting</a> Politico: Candidates' speeches turned into condolences, and a voting center in Uvalde was converted to gather parents trying to find their children. 
  <p class="updated_time"> 10:03 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/politics/takeaways-tuesdays-elections-primaries.html">Four Takeaways From Tuesday’s Elections</a> NYT: Georgia voters rejected Donald Trump’s 2020 fixation, G.O.P. governors proved their strength, and Georgia Democrats backed a gun-control champion on the day of a horrifying school shooting in Texas. 
- <p class="updated_time"> 09:48 AM CT, May. 25 </p> 
- <a href="https://www.npr.org/2022/05/25/1101181842/nra-trump-speech-guns-banned-houston">Guns are banned during Trump's upcoming speech at the NRA conference</a> NPR: The Secret Service is taking control of the hall during Trump's speech in Houston on Friday and is prohibiting attendees from having firearms and other weapons, according to the gun group. 
- <p class="updated_time"> 09:11 AM CT, May. 25 </p> 
- <a href="https://www.npr.org/2022/05/25/1101016123/cuellar-cisneros-texas-28th-congressional-district-democratic-runoff-results">Closely watched Democratic primary in Texas' 28th District remains too close to call</a> NPR: A runoff in South Texas between incumbent Democratic Rep. Henry Cuellar and progressive challenger Jessica Cisneros remained too close to call as of Wednesday morning. 
- <p class="updated_time"> 09:10 AM CT, May. 25 </p> 
- <a href="https://www.npr.org/2022/05/25/1101169867/uvalde-shooting-steve-kerr-coach-golden-state-warriors-nba-playoffs">NBA coach Steve Kerr calls out 50 senators on a bipartisan gun background check law</a> NPR: "When are we gonna do something?!" the Golden State Warriors head coach asked Tuesday night. "I'm tired of the moments of silence. Enough." 
  <p class="updated_time"> 08:59 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/politics/here-are-results-from-key-contests-in-georgia-alabama-arkansas-and-texas.html">Who won, who lost and what was too close to call on Tuesday.</a> NYT: Here is a rundown of what happened in some of the most important contests in Georgia, Alabama, Arkansas and Texas. 
  <p class="updated_time"> 07:40 AM CT, May. 25 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/25/will-senate-move-on-guns-most-dems-dont-think-so-00035033">Will Senate move on guns? Most Dems don't think so.</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:26 AM CT, May. 25 </p> 
- <a href="https://www.npr.org/2022/05/25/1101141234/what-if-anything-might-congress-do-about-years-of-mass-shootings">What, if anything, might Congress do about years of mass shootings? </a> NPR: NPR's Steve Inskeep talks to Rep. Joaquin Castro, who represents Texas' 20th District, following Tuesday's school shooting in Uvalde that killed 21 people. 
+ <p class="updated_time"> 06:36 AM CT, May. 25 </p> 
+ <a href="https://www.nytimes.com/2022/05/24/us/politics/hice-raffensperger-ga-secretary-of-state.html">Raffensperger Wins Georgia’s G.O.P. Secretary of State Primary</a> NYT: He promoted himself as a champion of “election integrity” and rebutted falsehoods made by Donald Trump and his allies. 
  <p class="updated_time"> 06:09 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/politics/disqualified-michigan-governors-craig-johnson.html">Two Republicans Face Disqualification in Michigan Governor’s Race</a> NYT: The Bureau of Elections moved to exclude James Craig and Perry Johnson from the primary ballot, finding that they had failed to collect the required signatures. 
  <p class="updated_time"> 05:40 AM CT, May. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/25/terror-in-texas-reignites-gun-control-debate-00035024"> Terror in Texas reignites gun control debate</a> Politico Playbook: And Brian Kemp beats David Perdue. 
- <p class="updated_time"> 04:03 AM CT, May. 25 </p> 
- <a href="https://www.npr.org/2022/05/25/1101141332/the-infant-formula-shortage-is-the-focus-of-2-capitol-hill-hearings">The infant formula shortage is the focus of 2 Capitol Hill hearings</a> NPR: Lawmakers on Wednesday are expected to press the FDA and formula makers on how the U.S. got into this situation, and what is being done to relieve the shortage. 
  <p class="updated_time"> 03:31 AM CT, May. 25 </p> 
  <a href="https://www.politico.com/news/2022/05/25/most-in-senate-gop-shun-total-abortion-ban-00034933">Most in Senate GOP shun total abortion ban</a> Politico: Many Senate Republicans aren't singing the tune of Herschel Walker — instead saying they do support exceptions to an abortion ban that include rape, incest and the life of the mother. 
  <p class="updated_time"> 03:30 AM CT, May. 25 </p> 
