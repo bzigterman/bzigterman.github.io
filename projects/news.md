@@ -11,13 +11,13 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 06:16 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/05/26/world/russia-ukraine-war">Ukraine Live Updates: Russia Moves to Stabilize Its Economy as War Takes a Toll</a> NYT: The country’s central bank cut interest rates again as President Vladimir V. Putin moved to raise the minimum wage and sweeten military benefits. The European Union stalled on its push to ban Russian oil, a severe tool to punish Moscow. 
+ <p class="updated_time"> 05:49 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
  <p class="updated_time"> 05:38 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/asia/china-economy-zero-covid.html">Concern Grows in China Over Economic Impact of ‘Zero Covid’</a> NYT: A senior leader announced efforts to bolster growth and urged local leaders do more to keep the economy running. 
- <p class="updated_time"> 05:22 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
  <p class="updated_time"> 04:50 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61579600?at_medium=RSS&at_campaign=KARANGA">Texas shooting victims: 'They were sweet kids and lovable'</a> BBC: Keen sports players, A students and dancers are among the children killed in Tuesday's shooting. 
- <p class="updated_time"> 04:22 AM CT, May. 26 </p> 
+ <p class="updated_time"> 04:49 AM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
  <p class="updated_time"> 04:07 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
@@ -35,19 +35,23 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/books/buenos-aires-books.html">Through a Recession and a Pandemic, the Book Business Is Thriving in Buenos Aires</a> NYT: The Argentine capital has always been bookish. When hard times shuttered the big chain shops, book purveyors found a way to keep residents in fresh reading material. 
  <p class="updated_time"> 03:56 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61588274?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Police urged to enter school during attack, witnesses say</a> BBC: The gunman was inside the Texas school for between 40 minutes and an hour, officials say. 
+ <p class="updated_time"> 03:49 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken to Stress U.S. Remains Focused on China, Even as War Rages in Ukraine</a> WSJ: Blinken to Stress U.S. Remains Focused on China, Even as War Rages in Ukraine 
  <p class="updated_time"> 03:41 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61588788?at_medium=RSS&at_campaign=KARANGA">Texas shooting: Uvalde tragedy opens painful memories for Sandy Hook parents</a> BBC: "Because it is so hauntingly similar to what happened at Sandy Hook School, it hit closer to home." 
- <p class="updated_time"> 03:22 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken to Stress U.S. Remains Focused on China, Even as War Rages in Ukraine</a> WSJ: Blinken to Stress U.S. Remains Focused on China, Even as War Rages in Ukraine 
  <p class="updated_time"> 03:04 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/russia-ukraine-donbas.html">A Doomed River Crossing Shows the Perils of Entrapment in the War’s East</a> NYT: Encirclement is a tactic used by both sides in the war between Russia and Ukraine, but it can carry big risks. 
+ <p class="updated_time"> 02:49 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Iranian Officer Killed in Tehran Was Involved in Plot to Kill Israeli Diplomat, U.S. General</a> WSJ: Iranian Officer Killed in Tehran Was Involved in Plot to Kill Israeli Diplomat, U.S. General 
  <p class="updated_time"> 02:42 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61588869?at_medium=RSS&at_campaign=KARANGA">Eleven newborn babies die in Senegal hospital fire</a> BBC: The fire is thought to have been caused by a short circuit at the hospital in Tivaouane, officials say. 
  <p class="updated_time"> 02:31 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/masks-hawaii-delaware.html">These U.S. Schools and Universities Are Reimposing Indoor Mask Mandates</a> NYT: The moves are a sign that while the academic year may be coming to a close, the pandemic is still not. 
- <p class="updated_time"> 02:22 AM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Iranian Officer Killed in Tehran Was Involved in Plot to Kill Israeli Diplomat, U.S. General</a> WSJ: Iranian Officer Killed in Tehran Was Involved in Plot to Kill Israeli Diplomat, U.S. General 
- <p class="updated_time"> 01:22 AM CT, May. 26 </p> 
+ <p class="updated_time"> 02:29 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/japan-reopens-to-some-tourists-with-low-prices-a-lure-11653564583">Japan Reopens to Some Tourists, With Low Prices a Lure</a> WSJ: The country will reopen for tourists on guided trips for the first time since early 2020, but the total number of daily arrivals will be capped at 20,000. 
+ <p class="updated_time"> 02:02 AM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/xi-jinpings-first-trip-outside-mainland-china-in-more-than-two-years-is-set-to-be-briefif-it-even-happens-11653562926">Xi's First Trip Outside China in More Than Two Years Is Set to Be Brief</a> WSJ: Leader’s visit to Hong Kong to mark the 25th handover anniversary is likely to be reduced to a single day and could be canceled if Covid-19 outbreaks flare up again. 
+ <p class="updated_time"> 01:49 AM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/u-k-to-probe-chinese-led-takeover-of-chip-maker-11653502675">U.K. to Probe Chinese-Led Takeover of Chip Maker</a> WSJ: U.K. to Probe Chinese-Led Takeover of Chip Maker 
  <p class="updated_time"> 11:48 PM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/business-61575387?at_medium=RSS&at_campaign=KARANGA">Ukraine war: World Bank boss warns over global recession</a> BBC: David Malpass also said coronavirus lockdowns in China are contributing to a global slowdown. 
@@ -117,8 +121,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/25/1101153219/uvalde-shooting-pope-francis-gun-control-cardinal-cupich">Pope Francis and a cardinal say it's time for the U.S. to act on guns</a> NPR: "It is time to say enough to the indiscriminate trafficking of arms," Pope Francis said on Wednesday, as he sent condolences to families in Uvalde, Texas. 
  <p class="updated_time"> 07:46 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61577296?at_medium=RSS&at_campaign=KARANGA">Burkina Faso missing miners: Four dead bodies found</a> BBC: Another four miners remain missing more than a month after a Burkina Faso zinc mine was flooded. 
- <p class="updated_time"> 07:18 AM CT, May. 25 </p> 
- <a href="https://www.wsj.com/articles/putin-orthodox-church-ally-kirill-russian-support-for-war-11653495434">Putin's Powerful Orthodox Church Ally Helps Cement Russian Support for War</a> WSJ: As cracks begin to show in the state media narrative about the invasion of Ukraine, Patriarch Kirill has been unwavering in support, portraying it for millions of faithful as a holy struggle against the West. 
  <p class="updated_time"> 06:47 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-food-supply.html">Russia Is Accused of Using Food as ‘Blackmail’ in Ukraine War</a> NYT: World leaders say there is no easy way to bypass a Russian blockade without a military clash, and accuse Vladimir V. Putin of using global hunger as a weapon. 
  <p class="updated_time"> 06:37 AM CT, May. 25 </p> 
@@ -190,6 +192,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:42 AM CT, May. 26 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/05/26/giving-gun-talks-a-go-00035353">Giving gun talks a go</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:23 AM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/style/john-fetterman-hoodies-shorts.html">John Fetterman and the Remaking of Political Image</a> NYT: The Pennsylvania Democratic candidate for Senate has upended the electability dress code. How will he influence the general election? 
  <p class="updated_time"> 05:42 AM CT, May. 26 </p> 
  <a href="https://www.cnn.com/2022/05/25/politics/supreme-court-second-amendment-guns-new-york-bruen-uvalde/index.html">Supreme Court may soon loosen gun laws as nation reels from massacres</a> CNN: While the Supreme Court has been working behind closed doors on its first major Second Amendment opinion in more than a decade, three mass shootings have broken the country, including Tuesday's massacre of 19 schoolchildren in Texas. 
  <p class="updated_time"> 05:17 AM CT, May. 26 </p> 
@@ -218,8 +224,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/26/robb-elementary-security-didnt-stop-massacre-00035332">Robb Elementary had security. It didn’t stop a massacre.</a> Politico: Texas officials are revisiting efforts to bolster mental health services and harden school security as families grieve the tragic attack at Robb Elementary School. 
  <p class="updated_time"> 03:30 AM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/senate-gop-domestic-terrorism-bill-00035240">Senate GOP set to block domestic terrorism bill as gun debate heats up</a> Politico: A nearly identical version of the legislation poised to fail Thursday passed the House with no Republican objections two years ago. Things are different across the building this time. 
- <p class="updated_time"> 02:00 AM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/style/john-fetterman-hoodies-shorts.html">John Fetterman and the Remaking of Political Image</a> NYT: The Pennsylvania Democratic candidate for Senate has upended the electability dress code. How will he influence the general election? 
  <p class="updated_time"> 10:54 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/climate/pebble-mine-alaska-epa.html">E.P.A. to Block Pebble Mine Project in Alaska</a> NYT: The E.P.A. has proposed to ban the disposal of mining waste in the Bristol Bay watershed, a decision that very likely means the end of the Pebble Mine project. 
  <p class="updated_time"> 10:49 PM CT, May. 25 </p> 
