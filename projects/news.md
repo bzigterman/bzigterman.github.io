@@ -11,6 +11,8 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 04:32 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
+ <p class="updated_time"> 04:31 PM CT, May. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61600914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas school gunman 'walked in unobstructed'</a> BBC: No guard challenged the attacker and it is unclear if the school door was even locked, say officials. 
  <p class="updated_time"> 04:24 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/arts/international-booker-winner-tomb-of-sand.html">‘Tomb of Sand’ Wins International Booker Prize, a First for a Hindi Novel</a> NYT: “Tomb of Sand,” written by Geetanjali Shree and translated by Daisy Rockwell, won despite getting little previous attention from reviewers. 
  <p class="updated_time"> 04:22 PM CT, May. 26 </p> 
@@ -25,17 +27,15 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/26/1101451495/russia-ukraine-war-what-happened-today-may-26">Russia-Ukraine war: What happened today (May 26)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 04:10 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61588869?at_medium=RSS&at_campaign=KARANGA">Senegal hospital fire: Eleven newborn babies die in Tivaouane</a> BBC: The fire is thought to have been caused by a short circuit at the hospital in Tivaouane, officials say. 
- <p class="updated_time"> 04:02 PM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61600914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas school gunman 'walked in unobstructed'</a> BBC: No guard challenged the attacker and it is unclear if the school door was even locked, say officials. 
+ <p class="updated_time"> 03:49 PM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
  <p class="updated_time"> 03:37 PM CT, May. 26 </p> 
  <a href="https://www.npr.org/2022/05/26/1101568190/haitians-face-horrifying-violence-as-gangs-run-out-of-local-authorities-control">Haitians face horrifying violence as gangs run out of local authorities' control</a> NPR: NPR's Ailsa Chang speaks with Jacqueline Charles of the Miami Herald about the spike in gang violence in Haiti and what it means for schools and hospitals. 
  <p class="updated_time"> 03:37 PM CT, May. 26 </p> 
  <a href="https://www.npr.org/2022/05/26/1101568189/lithuania-has-become-the-1st-european-country-to-stop-using-russian-gas">Lithuania has become the 1st European country to stop using Russian gas</a> NPR: As Russia's war in Ukraine enters its fourth month, European countries are scrambling to wean themselves off of Russian gas. The Baltic nation of Lithuania has become the first to do so. 
- <p class="updated_time"> 03:36 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
  <p class="updated_time"> 03:33 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/china-policy-biden.html">U.S. Aims to Constrain China by Shaping Environment Around It, Blinken Says</a> NYT: The U.S. secretary of state gave a glimpse of President Biden’s classified strategy on China, in which officials have concluded they cannot change Beijing’s aggressive behavior. 
- <p class="updated_time"> 02:36 PM CT, May. 26 </p> 
+ <p class="updated_time"> 02:49 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
  <p class="updated_time"> 02:32 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61569655?at_medium=RSS&at_campaign=KARANGA">Texas school shooting: Husband of killed teacher dies 'of grief'</a> BBC: Joe Garcia reportedly died from a heart attack two days after his wife was shot at Robb Elementary. 
@@ -45,20 +45,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/world/middleeast/israel-shireen-abu-akleh.html">Palestinian Inquiry Accuses Israel of Intentionally Killing Al Jazeera Journalist</a> NYT: The Palestinian Authority reported its final findings from a two-week investigation into the killing of the journalist Shireen Abu Akleh. Israel said it was still conducting its own inquiry. 
  <p class="updated_time"> 02:19 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61599667?at_medium=RSS&at_campaign=KARANGA">Amber Heard: It's easy to forget I'm a human being</a> BBC: Heard found herself in a tense exchange with Johnny Depp's attorney as the trial nears its end. 
- <p class="updated_time"> 01:36 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Stresses U.S. Remains Focused on China</a> WSJ: Blinken Stresses U.S. Remains Focused on China 
+ <p class="updated_time"> 01:49 PM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China</a> WSJ: Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China 
  <p class="updated_time"> 01:08 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61599932?at_medium=RSS&at_campaign=KARANGA">Russian mum's fight to save sons from Putin's war</a> BBC: Marina had no idea when her sons were conscripted that they would be part of an invasion of Ukraine. 
  <p class="updated_time"> 12:59 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61600212?at_medium=RSS&at_campaign=KARANGA">Goodfellas star Ray Liotta dies aged 67</a> BBC: The actor died in his sleep in the Dominican Republic, his publicist confirms. 
  <p class="updated_time"> 12:51 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61600593?at_medium=RSS&at_campaign=KARANGA">Abba: All four members of the Swedish band reunite ahead of Voyage concert</a> BBC: All four members of the Swedish band have reunited on the red carpet ahead of Voyage concert. 
- <p class="updated_time"> 12:36 PM CT, May. 26 </p> 
+ <p class="updated_time"> 12:49 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/europes-quest-for-alternatives-to-russian-gas-hits-obstacles-in-middle-east-11653579800">Europe’s Quest for Alternatives to Russian Gas Hits Obstacles</a> WSJ: Europe’s Quest for Alternatives to Russian Gas Hits Obstacles 
  <p class="updated_time"> 11:49 AM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/health/monkeypox-vaccine-immunity.html">Who Is Protected Against Monkeypox?</a> NYT: Older people who received smallpox vaccinations may yet have some immunity, researchers say. Healthy children and adults generally do not become severely ill. 
- <p class="updated_time"> 11:36 AM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Slain Iranian Officer Led Assassination Plots</a> WSJ: Slain Iranian Officer Led Assassination Plots 
+ <p class="updated_time"> 11:49 AM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/health/monkeypox-vaccine-immunity.html">Who Is Protected Against Monkeypox?</a> NYT: Older people who received smallpox vaccinations may yet have some immunity, researchers say. Healthy children and adults generally do not become severely ill. 
  <p class="updated_time"> 11:12 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61591615?at_medium=RSS&at_campaign=KARANGA">Spanish MPs back 'only yes means yes' sexual consent law</a> BBC: The new legislation aims to make it easier for victims of sexual violence to prosecute attackers. 
  <p class="updated_time"> 11:10 AM CT, May. 26 </p> 
@@ -206,6 +206,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/us/politics/michigan-republicans-governor-signatures.html">5 G.O.P. Candidates for Michigan Governor Are Disqualified Over Forged Signatures</a> NYT: James Craig and Perry Johnson, two of the party’s top contenders, were denied spots on the ballot by a state canvassing board. The party-line decision is expected to draw lawsuits. 
  <p class="updated_time"> 03:50 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/biden-uvalde-texas-school-shooting-00035536">Biden, first lady to travel to Uvalde on Sunday to grieve with victims' families</a> Politico: It will be Biden's second trip to a community rocked by gun violence in less than two weeks. 
+ <p class="updated_time"> 03:50 PM CT, May. 26 </p> 
+ <a href="https://www.politico.com/news/2022/05/26/jan-6-panel-lawsuits-00035433">Behind the Jan. 6 panel's last-minute efforts to win 3 key Trump-world lawsuits</a> Politico: Former President Donald Trump and his allies have sued the select committee 25 times. The suits it's still fighting: Mark Meadows, the Republican National Committee and John Eastman. 
  <p class="updated_time"> 03:47 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/secret-alternative-mueller-report-goes-public-00035507">Previously secret 'alternative' Mueller report goes public</a> Politico: Compendium of evidence gathered by the special counsel's 'Team M' is heavily redacted. 
  <p class="updated_time"> 03:37 PM CT, May. 26 </p> 
@@ -220,8 +222,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/business/biden-poultry-processors-growers.html">White House Aims to Increase Regulation and Competition in Poultry Industry</a> NYT: More than 90 percent of chickens eaten by Americans are raised by farmers under contracts with poultry processing companies. 
  <p class="updated_time"> 01:51 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/supreme-court-red-states-biden-climate-00035479">Supreme Court rejects red states' plea to block Biden climate metric</a> Politico: The decision means the White House can move forward with its plans to overhaul and likely significantly increase the number known as the social cost of carbon. 
- <p class="updated_time"> 01:37 PM CT, May. 26 </p> 
- <a href="https://www.politico.com/news/2022/05/26/bidens-advocate-tax-the-rich-white-house-00035437">Biden's advocate for taxing the rich to leave White House</a> Politico: David Kamin, deputy director at the National Economic Council, will return to his teaching job at NYU 
  <p class="updated_time"> 01:25 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/supreme-court-greenhouse-gas-emissions.html">Supreme Court Allows Greenhouse Gas Cost Estimates</a> NYT: Louisiana and other Republican-led states challenged a federal working group’s efforts to develop standards for agencies to use in quantifying the harms caused by emissions. 
  <p class="updated_time"> 01:08 PM CT, May. 26 </p> 
@@ -362,8 +362,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/24/murphy-forges-ahead-on-gun-talks-with-gop-after-texas-shooting-00034951">Murphy pleads with GOP for a gun deal as Texas school shooting grips America</a> Politico: The massacre of at least 19 children at a Texas elementary school came one week after another shooter killed 10 people, mostly Black. 
  <p class="updated_time"> 04:01 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/al-sharpton-elon-musk-delaware-court-00034875">Al Sharpton beckons Elon Musk into Delaware’s craziest court drama</a> Politico: Sharpton’s been trying to get Joe Biden to help change the composition of the Chancery Court. He thinks Musk’s Twitter acquisition drama could make him an ally too. 
- <p class="updated_time"> 02:33 PM CT, May. 24 </p> 
- <a href="https://www.politico.com/news/2022/05/24/scotus-marshal-roe-opinion-00034670">Supreme Court marshal digs in on Roe opinion leak</a> Politico: The launch of the probe comes as Chief Justice John Roberts tries to uphold the integrity of the court. 
  <p class="updated_time"> 07:01 AM CT, May. 24 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/24/eyes-on-primary-prizes-00034661">Eyes on primary prizes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:27 AM CT, May. 24 </p> 
