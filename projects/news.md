@@ -9,14 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:20 AM CT, May. 27 </p> 
+ <p class="updated_time"> 07:21 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Destruction in Ukraine’s East as Civilian Toll Rises</a> NYT: Russian forces’ capturing of Lyman made it the second midsize Ukrainian city to change hands this week. As civilian deaths and suffering mounted, a new report by international legal scholars and rights experts cited a “genocidal pattern” by Russia’s military. 
+ <p class="updated_time"> 06:36 AM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61606488?at_medium=RSS&at_campaign=KARANGA">'Switch off the TV': Former Russian-state journalist's plea to Russians</a> BBC: Zhanna Agalakova quit her job in March over the invasion of Ukraine and is now in hiding. 
+ <p class="updated_time"> 06:27 AM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-58924630?at_medium=RSS&at_campaign=KARANGA">How ex-Gambia President Yahya Jammeh's US mansion was seized</a> BBC: The US says the money raised by selling Yahya Jammeh's luxury home will be used to help his victims. 
+ <p class="updated_time"> 06:25 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 05:28 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61604652?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas police change key details as criticism mounts</a> BBC: Questions remain over why officers took more than an hour to storm the school and stop the attack. 
- <p class="updated_time"> 05:26 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
- <p class="updated_time"> 04:26 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
+ <p class="updated_time"> 05:25 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/israels-work-permits-for-gazans-help-deter-war-with-hamas-for-now-11653649530">Israeli Work Permits for Gazans Help Deter War With Hamas for Now</a> WSJ: Israeli Work Permits for Gazans Help Deter War With Hamas for Now 
+ <p class="updated_time"> 04:25 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/how-the-u-s-and-south-korea-predict-a-north-korean-weapons-test-11653640572">How the U.S. and South Korea Predict a North Korean Weapons Test</a> WSJ: How the U.S. and South Korea Predict a North Korean Weapons Test 
  <p class="updated_time"> 04:08 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61548614?at_medium=RSS&at_campaign=KARANGA">Aryan Khan: Drug charges dropped against Shah Rukh Khan's son</a> BBC: The anti-drug agency cleared Aryan Khan in the case, saying "no drugs have been found" on him. 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
@@ -29,10 +35,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/27/business/cotton-xinjiang-forced-labor-retailers.html">Global Brands Seek Clarity on Xinjiang</a> NYT: Companies that sourced cotton from the region in China are weighing evidence of forced labor, a lack of visibility into operations and new regulation. 
  <p class="updated_time"> 03:49 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61591614?at_medium=RSS&at_campaign=KARANGA">EU's awkward summit: Don't mention Russian oil ban</a> BBC: The EU's latest sanctions are held up by infighting, but a summit on Monday is unlikely to solve it. 
- <p class="updated_time"> 03:35 AM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-58924630?at_medium=RSS&at_campaign=KARANGA">How ex-Gambia President Yahya Jammeh's US mansion was seized</a> BBC: The US says the money raised by selling Yahya Jammeh's luxury home will be used to help his victims. 
- <p class="updated_time"> 03:26 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/how-the-u-s-and-south-korea-predict-a-north-korean-weapons-test-11653640572">How the U.S. and South Korea Predict a North Korean Weapons Test</a> WSJ: How the U.S. and South Korea Predict a North Korean Weapons Test 
+ <p class="updated_time"> 03:25 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/china-excels-in-google-rankings-on-xinjiang-and-covid-19-searches-11653645601">China Excels in Google Rankings on Xinjiang and Covid-19 Searches</a> WSJ: China Excels in Google Rankings on Xinjiang and Covid-19 Searches 
  <p class="updated_time"> 03:18 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/europe/russia-economy-sanctions.html">Russia’s Isolated Economy Is Leading to Scarcity</a> NYT: With soaring prices and shortages of basic goods, the Russian people and businesses large and small are feeling the pinch. 
  <p class="updated_time"> 03:16 AM CT, May. 27 </p> 
@@ -43,7 +47,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61602730?at_medium=RSS&at_campaign=KARANGA">'Women are as strong as men' - World boxing champion</a> BBC: The world boxing champion tells the BBC that she hopes to keep inspiring young people. 
  <p class="updated_time"> 02:47 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/business-61589229?at_medium=RSS&at_campaign=KARANGA">Twitter investor sues Elon Musk and platform over takeover bid</a> BBC: The lawsuit alleges the multi-billionaire's "wrongful conduct" has caused Twitter shares to plunge. 
- <p class="updated_time"> 02:26 AM CT, May. 27 </p> 
+ <p class="updated_time"> 02:25 AM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/fiji-to-join-bidens-asian-economic-platform-as-pacific-competition-intensifies-11653632348">Fiji to Join Biden’s Asian Economic Platform as Pacific Competition Intensifies</a> WSJ: Fiji to Join Biden’s Asian Economic Platform as Pacific Competition Intensifies 
  <p class="updated_time"> 02:19 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/europe/johnson-britain-inflation-energy-tax.html">Johnson Takes Aim at Next Big Political Threat: Soaring Prices in U.K.</a> NYT: Prime Minister Boris Johnson, under pressure over a scathing report on lockdown parties in Downing Street and with his party trailing in opinion polls, unveiled an aid package Thursday. 
@@ -51,8 +55,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61603746?at_medium=RSS&at_campaign=KARANGA">Sydney wakes up to thick blanket of fog</a> BBC: Iconic landmarks like the Sydney Harbour Bridge were shrouded from view and ferry services were cancelled. 
  <p class="updated_time"> 02:00 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/climate/republicans-blackrock-climate.html">How an Organized Republican Effort Punishes Companies for Climate Action</a> NYT: Legislators and their allies are running an aggressive campaign that uses public money and the law to pressure businesses they say are pushing “woke” causes. 
- <p class="updated_time"> 01:26 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/china-excels-in-google-rankings-on-xinjiang-and-covid-19-searches-11653645601">China Excels in Google Rankings on Xinjiang and Covid-19 Searches</a> WSJ: China Excels in Google Rankings on Xinjiang and Covid-19 Searches 
  <p class="updated_time"> 12:43 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101698700/11-babies-die-in-a-fire-at-senegalese-hospital">11 babies die in a fire at a Senegalese hospital</a> NPR: The deadly fire comes a year after four other newborns died in a hospital fire in Senegal, a nation known for having some of the best hospitals in the region. 
  <p class="updated_time"> 11:31 PM CT, May. 26 </p> 
@@ -72,7 +74,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:54 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
  <p class="updated_time"> 06:49 PM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61518171?at_medium=RSS&at_campaign=KARANGA">A peek into the elusive world of Indian courts</a> BBC: The pandemic pushed Indian courts to adapt, making the legal system more accessible. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61518171?at_medium=RSS&at_campaign=KARANGA">A Zoom size window into Indian courts</a> BBC: The pandemic pushed Indian courts to adapt, making the legal system more accessible. 
  <p class="updated_time"> 06:47 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61516126?at_medium=RSS&at_campaign=KARANGA">Instagram moderators say Iran offered them bribes to remove accounts</a> BBC: Intelligence agents wanted accounts of journalists and activists to be removed, whistleblowers say. 
  <p class="updated_time"> 06:01 PM CT, May. 26 </p> 
@@ -103,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61599932?at_medium=RSS&at_campaign=KARANGA">Russian mum's fight to save sons from Putin's war</a> BBC: Marina had no idea when her sons were conscripted that they would be part of an invasion of Ukraine. 
  <p class="updated_time"> 12:51 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61600593?at_medium=RSS&at_campaign=KARANGA">Abba: All four members of the Swedish band reunite ahead of Voyage concert</a> BBC: All four members of the Swedish band have reunited on the red carpet ahead of Voyage concert. 
- <p class="updated_time"> 12:16 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China</a> WSJ: Secretary of State Antony Blinken laid out the Biden administration’s China policy, saying the U.S. would bolster domestic investment and strengthen collaboration with foreign partners to advance a vision of an inclusive, transparent international order. 
  <p class="updated_time"> 10:07 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/business-61596845?at_medium=RSS&at_campaign=KARANGA">Laverne Cox honoured as first transgender Barbie</a> BBC: The actress and activist rose to fame in the Netflix prison comedy Orange is the New Black. 
  <p class="updated_time"> 09:15 AM CT, May. 26 </p> 
@@ -141,8 +141,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/americas/2nd-amendment-gun-laws.html">In the U.S., Backlash to Civil Rights Era Made Guns a Political Third Rail</a> NYT: Other countries changed course after massacres. But American political protection for guns is unique, and has become inseparable from conservative credentials. 
  <p class="updated_time"> 07:01 PM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61554325?at_medium=RSS&at_campaign=KARANGA">Nigeria's kidnapping crisis: Should ransom payments be banned?</a> BBC: Businessman Lawal Ado has paid ransoms three times and says there is no other option. 
- <p class="updated_time"> 06:06 PM CT, May. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61577976?at_medium=RSS&at_campaign=KARANGA">NeWater: Turning urine into beer in Singapore</a> BBC: Singapore's water agency came up with the drink to raise awareness of its scarcity issues. 
  <p class="updated_time"> 04:14 PM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101307744/as-human-rights-official-visits-xinjiang-data-hack-appears-to-show-persecution-t">As human rights official visits Xinjiang, data hack appears to show persecution there</a> NPR: The UN's top official for human rights, Michelle Bachelet, is in China this week and will visit the western region of Xinjiang, where Beijing has been accused of genocide and crimes against humanity. 
  <p class="updated_time"> 03:56 PM CT, May. 25 </p> 
@@ -208,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:37 AM CT, May. 27 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2022/05/27/senators-leave-town-in-the-talking-stage-00035662">Senators leave town in the talking stage</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:14 AM CT, May. 27 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:05 AM CT, May. 27 </p> 
@@ -219,7 +219,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:09 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101701883/democratic-senators-call-on-republicans-to-do-something-about-gun-safety">Democratic senators call on Republicans to do something about gun safety</a> NPR: Another mass shooting and lawmakers talk tough about gun safety — yet possibly getting nothing done. As some in Congress try to find common ground on background checks, can this time be different? 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
- <a href="https://www.npr.org/2022/05/27/1101209992/political-realties-have-stopped-legislative-action-after-school-shootings">Political realties have stopped legislative action after school shootings</a> NPR: The political climate has changed drastically since a 10-year assault weapons ban passed in 1994. The lack of political will and other barriers stand in the way of it even coming to a vote today. 
+ <a href="https://www.npr.org/2022/05/27/1101209992/political-realties-have-stopped-legislative-action-after-school-shootings">Political realities have stopped legislative action after school shootings</a> NPR: The political climate has changed drastically since a 10-year assault weapons ban passed in 1994. The lack of political will and other barriers stand in the way of it even coming to a vote today. 
  <p class="updated_time"> 03:38 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/asylum-system.html">U.S. to Begin Allowing Migrants to Apply for Asylum Under a New System</a> NYT: The rollout of the process for some arrivals at the southwestern border will be small, but could represent the tip of broad changes to the asylum system. 
  <p class="updated_time"> 03:31 AM CT, May. 27 </p> 
@@ -282,8 +282,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/26/senate-gop-domestic-terrorism-bill-00035240">Senate GOP blocks domestic terrorism bill as gun debate heats up</a> Politico: A nearly identical version of the legislation that failed Thursday passed the House with no Republican objections two years ago. 
  <p class="updated_time"> 10:49 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/politics/michael-sussmann-trial-eric-lichtblau.html">Defense Team for Democratic-Linked Lawyer Won’t Call Ex-Times Reporter to Testify</a> NYT: Lawyers had argued that the reporter, Eric Lichtblau, should testify about his communications with their client, Michael Sussmann, who is accused of lying to the F.B.I. 
- <p class="updated_time"> 09:14 PM CT, May. 25 </p> 
- <a href="https://www.cnn.com/2022/05/25/politics/brian-kemp-donald-trump-georgia-governor/index.html">How Brian Kemp wrote the GOP playbook for subduing Trump's election fury</a> CNN: Georgia Gov. Brian Kemp's dominant primary win over David Perdue was part of a resounding rejection Tuesday of 2020 election denialism by the state's Republican voters. But his victory also demonstrates how Kemp has written and executed the playbook for extinguishing Donald Trump's fury in a Republican primary. 
  <p class="updated_time"> 07:57 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/politics/gun-control-timeline.html">A Timeline of Failed Attempts to Address U.S. Gun Violence</a> NYT: Time after time for more than a decade, Democrats in Congress have proposed gun restrictions and faced unyielding Republican opposition. 
  <p class="updated_time"> 07:36 PM CT, May. 25 </p> 
@@ -308,6 +306,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/25/skeptical-schumer-bipartisan-gun-talks-senate-00035072">Senate begins search for bipartisan gun deal after Schumer's green light</a> Politico: “It’s the only approach that will result in law,” said Majority Whip Dick Durbin. “He said if there’s even the possibility of getting bipartisanship, we’ll try to find it.” 
  <p class="updated_time"> 07:40 AM CT, May. 25 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/25/will-senate-move-on-guns-most-dems-dont-think-so-00035033">Will Senate move on guns? Most Dems don't think so.</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:25 AM CT, May. 25 </p> 
+ <a href="https://www.cnn.com/2022/05/25/politics/black-republicans-race-deconstructed-newsletter/index.html">Herschel Walker and the record-setting year for Black Republicans</a> CNN: It's been a record-setting year for the Republican Party, which is fielding 81 Black candidates in the 2022 primaries, according to the National Republican Congressional Committee. 
  <p class="updated_time"> 05:40 AM CT, May. 25 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/25/terror-in-texas-reignites-gun-control-debate-00035024"> Terror in Texas reignites gun control debate</a> Politico Playbook: And Brian Kemp beats David Perdue. 
  <p class="updated_time"> 03:31 AM CT, May. 25 </p> 
@@ -316,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/25/joe-biden-taiwan-china-comments-00034934">Dem China hawks hope Biden’s Taiwan gaffe was no accident</a> Politico: While Republicans criticize the president for clinging to a policy that takes no position on defending Taiwan militarily, Democrats say Biden is working around it. 
  <p class="updated_time"> 07:08 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/murphy-forges-ahead-on-gun-talks-with-gop-after-texas-shooting-00034951">Murphy pleads with GOP for a gun deal as Texas school shooting grips America</a> Politico: The massacre of at least 19 children at a Texas elementary school came one week after another shooter killed 10 people, mostly Black. 
- <p class="updated_time"> 07:01 AM CT, May. 24 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/05/24/eyes-on-primary-prizes-00034661">Eyes on primary prizes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
