@@ -9,8 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:39 AM CT, May. 27 </p> 
+ <p class="updated_time"> 11:36 AM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/25/world/middleeast/iran-israel-killing-khodayee.html">Israel Tells U.S. It Killed Iranian Officer, Official Says</a> NYT: Israeli officials say the officer, Sayad Khodayee, was a leader of a covert unit tasked with abductions and killings of Israelis and other foreigners around the world. Iran does not acknowledge that the unit exists. 
+ <p class="updated_time"> 11:32 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Russia Advances in Ukraine’s East as Civilian Toll Rises</a> NYT: Russian forces seized Lyman, the second small city to fall this week, and moved closer to encircling Sievierodonetsk. A new report by legal and rights experts cited a “genocidal pattern” by Russia. 
+ <p class="updated_time"> 11:29 AM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-drone-attack.html">Sensitive Iranian Military Site Was Targeted in Attack</a> NYT: A drone exploded at a structure in the Parchin military technology complex on Wednesday. The attack fit a pattern of past Israeli strikes on Iran. 
+ <p class="updated_time"> 11:00 AM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/science/russian-academy-science-ukraine.html">Russian Academics Aim to Punish Colleagues Who Backed Ukraine Invasion</a> NYT: A campaign is circulating a list of dozens of researchers in the hopes they will be denied the prestige of election into the Russian Academy of Sciences. 
+ <p class="updated_time"> 10:48 AM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61604652?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas police change key details as criticism mounts</a> BBC: Officials due to speak amid questions over why officers took more than an hour to stop the attack. 
+ <p class="updated_time"> 10:40 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 10:33 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/asia/india-prostitution-rights.html">India’s Supreme Court Orders Police to Respect Prostitutes’ Rights</a> NYT: Though sex work is legal in the country, those who practice it often endure harassment and abuse. The justices urged the authorities to employ a more nuanced and humane approach. 
  <p class="updated_time"> 10:08 AM CT, May. 27 </p> 
@@ -23,32 +33,32 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/27/arts/music/abba-voyage-london.html">Abba Returns to the Stage in London. Sort Of.</a> NYT: The Swedish superstars — or digital versions of them, at least — performed on Thursday to 3,000 enthusiastic fans with the help of 140 animators, four body doubles and $175 million. 
  <p class="updated_time"> 09:51 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/asia/pakistan-fuel-price-crisis.html">Pakistan Raises Fuel Prices in Effort to Stabilize Economy</a> NYT: The interim government’s move was seen as a bid to revive a $6 billion bailout from the International Monetary Fund. 
- <p class="updated_time"> 09:46 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
+ <p class="updated_time"> 09:40 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/baby-formula-ingredient-supplies-are-limited-by-war-in-ukraine-11653652800">Ukraine War Crimps Baby-Formula Ingredient Supplies</a> WSJ: Ukraine War Crimps Baby-Formula Ingredient Supplies 
  <p class="updated_time"> 09:19 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61610470?at_medium=RSS&at_campaign=KARANGA">Johnny Depp: Closing arguments in Amber Heard defamation trial begin</a> BBC: Addressing the court first, a lawyer for Mr Depp asked jurors to 'give Mr Depp his life back'. 
  <p class="updated_time"> 09:09 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101720943/former-president-of-louvre-faces-charges-linked-to-alleged-antiquities-smuggling">The former head of the Louvre faces charges linked to alleged antiquities smuggling</a> NPR: Police have charged Jean-Luc Martinez with "complicity in organized fraud" and money laundering, according to the Paris prosecutors' office. 
- <p class="updated_time"> 09:03 AM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61604652?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas police change key details as criticism mounts</a> BBC: Questions remain over why officers took more than an hour to storm the school and stop the attack. 
  <p class="updated_time"> 09:00 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/vatican-history-secrets-david-kertzer.html">Deep in Vatican Archives, Scholar Discovers ‘Flabbergasting’ Secrets</a> NYT: David Kertzer has spent decades excavating the Vatican’s hidden history, with his work winning a Pulitzer and capturing Hollywood’s attention. A new book examines Pope Pius XII’s role in the Holocaust. 
  <p class="updated_time"> 08:58 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61610162?at_medium=RSS&at_campaign=KARANGA">Drought's devastating toll on Somalia's children</a> BBC: The United Nations is warning that the country risks famine should global food prices continue to rise. 
- <p class="updated_time"> 08:46 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/israels-work-permits-for-gazans-help-deter-war-with-hamas-for-now-11653649530">Israeli Work Permits for Gazans Help Deter War With Hamas for Now</a> WSJ: Israeli Work Permits for Gazans Help Deter War With Hamas for Now 
- <p class="updated_time"> 07:46 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/how-the-u-s-and-south-korea-predict-a-north-korean-weapons-test-11653640572">How the U.S. and South Korea Predict a North Korean Weapons Test</a> WSJ: How the U.S. and South Korea Predict a North Korean Weapons Test 
+ <p class="updated_time"> 08:40 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
+ <p class="updated_time"> 07:40 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/summits-involving-the-u-s-and-russia-are-getting-awkward-11653656400">Summits Involving the U.S. and Russia Are Getting Awkward</a> WSJ: Summits Involving the U.S. and Russia Are Getting Awkward 
  <p class="updated_time"> 07:38 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/27/1099739656/do-restrictive-abortion-laws-actually-reduce-abortion-a-global-map-offers-insigh">Do restrictive abortion laws actually reduce abortion? A global map offers insights</a> NPR: Click to see how restrictive or liberal local abortion laws are — and to look at the rate of abortion. The data offers a sense of whether stricter abortion laws reduce the number of abortions. 
- <p class="updated_time"> 06:46 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/china-excels-in-google-rankings-on-xinjiang-and-covid-19-searches-11653645601">China Excels in Google Rankings on Xinjiang and Covid-19 Searches</a> WSJ: China Excels in Google Rankings on Xinjiang and Covid-19 Searches 
+ <p class="updated_time"> 06:40 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/israels-work-permits-for-gazans-help-deter-war-with-hamas-for-now-11653649530">Israeli Work Permits for Gazans Help Deter War With Hamas for Now</a> WSJ: Israeli Work Permits for Gazans Help Deter War With Hamas for Now 
  <p class="updated_time"> 06:36 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61606488?at_medium=RSS&at_campaign=KARANGA">'Switch off the TV': Former Russian-state journalist's plea to Russians</a> BBC: Zhanna Agalakova quit her job in March over the invasion of Ukraine and is now in hiding. 
+ <p class="updated_time"> 06:28 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/china-excels-in-google-rankings-on-xinjiang-and-covid-19-searches-11653645601">China Excels in Google Rankings on Xinjiang and Covid-19 Searches</a> WSJ: China’s global campaign to expand the reach of its political positions is helping it secure a coveted piece of online real estate: first-page search results on Google and other major Western portals. 
  <p class="updated_time"> 06:27 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-58924630?at_medium=RSS&at_campaign=KARANGA">How ex-Gambia President Yahya Jammeh's US mansion was seized</a> BBC: The US says the money raised by selling Yahya Jammeh's luxury home will be used to help his victims. 
- <p class="updated_time"> 05:46 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/fiji-to-join-bidens-asian-economic-platform-as-pacific-competition-intensifies-11653632348">Fiji to Join Biden’s Asian Economic Platform as Pacific Competition Intensifies</a> WSJ: Fiji to Join Biden’s Asian Economic Platform as Pacific Competition Intensifies 
+ <p class="updated_time"> 05:18 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/fiji-to-join-bidens-asian-economic-platform-as-pacific-competition-intensifies-11653632348">Fiji to Join Biden's Asian Economic Platform as Pacific Competition Intensifies</a> WSJ: The Indo-Pacific Economic Framework expanded to 14 founding members after the U.S. said Fiji had agreed to join, a move that comes on the eve of a visit to the nation by Beijing’s top diplomat. 
  <p class="updated_time"> 04:08 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61548614?at_medium=RSS&at_campaign=KARANGA">Aryan Khan: Drug charges dropped against Shah Rukh Khan's son</a> BBC: The anti-drug agency cleared Aryan Khan in the case, saying "no drugs have been found" on him. 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
@@ -155,8 +165,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61554325?at_medium=RSS&at_campaign=KARANGA">Nigeria's kidnapping crisis: Should ransom payments be banned?</a> BBC: Businessman Lawal Ado has paid ransoms three times and says there is no other option. 
  <p class="updated_time"> 04:14 PM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101307744/as-human-rights-official-visits-xinjiang-data-hack-appears-to-show-persecution-t">As human rights official visits Xinjiang, data hack appears to show persecution there</a> NPR: The UN's top official for human rights, Michelle Bachelet, is in China this week and will visit the western region of Xinjiang, where Beijing has been accused of genocide and crimes against humanity. 
- <p class="updated_time"> 03:56 PM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/25/world/middleeast/iran-israel-killing-khodayee.html">Israel Tells U.S. It Killed Iranian Officer, Official Says</a> NYT: Israeli officials say the officer, Sayad Khodayee, was a leader of a covert unit tasked with abductions and killings of Israelis and other foreigners around the world. Iran does not acknowledge that the unit exists. 
  <p class="updated_time"> 03:55 PM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101289242/russia-ukraine-war-what-happened-today-may-25">Russia-Ukraine war: What happened today (May 25)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:49 PM CT, May. 25 </p> 
@@ -195,8 +203,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/24/world/canada/quebec-language-bill-96.html">Law Requiring French in Quebec Becomes Stricter</a> NYT: Quebec’s new law limits access to government services in languages other than French, requires small businesses to operate in it and caps enrollment at English-language junior colleges. 
  <p class="updated_time"> 05:07 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/business/energy-environment/glencore-price-fixing-bribery.html">Glencore Will Pay $1.1 Billion to Settle Bribery and Price-Fixing Charges</a> NYT: U.S. prosecutors said the settlement followed “a multiyear scheme to manipulate benchmarks used to set prices for oil at two of our country’s busiest ports.” 
- <p class="updated_time"> 05:05 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/us/politics/russian-debt-treasury.html">U.S. Will Start Blocking Russia’s Bond Payments to American Investors</a> NYT: The Biden administration’s escalation of sanctions could lead to Russia’s first default on foreign debt in a century. 
  <p class="updated_time"> 04:33 PM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-61570444?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'This is just the beginning, everything is still to come'</a> BBC: As Russian attacks intensify, Ukrainians are asking whether it's better to pay for a ceasefire with land - or lives. 
 
@@ -206,6 +212,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:28 AM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/us/politics/a-left-leaning-challenger-takes-down-a-moderate-democratic-congressman-in-oregon.html">A left-leaning challenger takes down a moderate Democratic congressman in Oregon.</a> NYT: In an upset, Jamie McLeod-Skinner defeated Representative Kurt Schrader, a leading moderate in Congress who had been endorsed by President Biden. 
+ <p class="updated_time"> 10:45 AM CT, May. 27 </p> 
+ <a href="https://www.politico.com/news/2022/05/27/dr-oz-gop-nominee-00035694">Dr. Oz jumps the gun, declares himself ‘presumptive’ GOP Senate nominee</a> Politico: Pennsylvania election officials confirm that there are roughly 1,200 Republican mail-in ballots left to be adjudicated, in addition to 4,000 outstanding provisional ballots from all parties. 
  <p class="updated_time"> 09:52 AM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/prosecution-clinton-campaign-attorney-00035682">Prosecution claims 'overwhelming' evidence of guilt for Clinton campaign attorney</a> Politico: Closing arguments presented to jury Friday in false-statement case against lawyer Michael Sussmann. 
  <p class="updated_time"> 09:05 AM CT, May. 27 </p> 
@@ -224,8 +234,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/05/27/trumps-recent-losses-embolden-team-cheney-00035654"> Trump’s recent losses embolden Team Cheney</a> Politico Playbook: And Biden will travel to Uvalde on Sunday. 
  <p class="updated_time"> 04:48 AM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/wyoming-gop-liz-cheney-00035609">Will ‘extremism’ fracture the GOP? Cheney vs. Trump in Wyoming</a> Politico: Playbook co-author Ryan Lizza is in Wyoming this week talking to Victoria Eavis of the Casper Star-Tribune and Joseph McGinley, a Casper physician who led the Natrona County GOP for four years until 2021, and has repeatedly butted heads with a group of Trump-aligned activists. 
- <p class="updated_time"> 04:37 AM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/25/us/politics/republicans-campaign-guns.html">Why Republicans Campaign on Guns While Democrats Choose Not To</a> NYT: For Republicans, brandishing firepower is a visual shorthand for hard-core conservatism. Democrats see little gain in highlighting an issue on which their party hasn’t been able to get much done. 
  <p class="updated_time"> 04:09 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101701883/democratic-senators-call-on-republicans-to-do-something-about-gun-safety">Democratic senators call on Republicans to do something about gun safety</a> NPR: Another mass shooting and lawmakers talk tough about gun safety — yet possibly getting nothing done. As some in Congress try to find common ground on background checks, can this time be different? 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
@@ -233,11 +241,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:38 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/asylum-system.html">U.S. to Begin Allowing Migrants to Apply for Asylum Under a New System</a> NYT: The rollout of the process for some arrivals at the southwestern border will be small, but could represent the tip of broad changes to the asylum system. 
  <p class="updated_time"> 03:31 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/sinema-manchins-filibuster-defense-pressures-on-gop-on-guns-00035543">The GOP's two favorite Dems try to turn their cred into a guns deal</a> Politico: Sens. Joe Manchin (D-W.Va.) and Kyrsten Sinema (D-Ariz.) have cut a huge infrastructure deal with Republicans and helped preserve the filibuster. Can that give them bipartisan progress on the thorniest of issues? 
+ <a href="https://www.politico.com/news/2022/05/27/sinema-manchins-filibuster-defense-pressures-on-gop-on-guns-00035543">The GOP’s two favorite Dems try to turn their cred into a guns deal</a> Politico: Sens. Joe Manchin (D-W.Va.) and Kyrsten Sinema (D-Ariz.) have cut a huge infrastructure deal with Republicans and helped preserve the filibuster. Can that give them bipartisan progress on the thorniest of issues? 
  <p class="updated_time"> 03:31 AM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/cheney-reelection-poll-00035597">As Cheney files for reelection, poll from rival group shows her trailing badly</a> Politico: The survey, conducted by the Club for Growth, is consistent with other data out of Wyoming in the last year. 
- <p class="updated_time"> 03:30 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/swing-state-politics-stymie-gun-debate-00035637">The gun debate roadblock you might not expect: Swing states</a> Politico: In some top Senate battlegrounds, gun-drenched GOP primaries and high firearm ownership rates thwart any chance of serious reform. 
  <p class="updated_time"> 03:30 AM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/wisconsin-senate-race-barnes-lasry-00035580">Wisconsin Senate race tightens as rivals close in on Barnes</a> Politico: Milwaukee Bucks executive Alex Lasry, who has loaned millions out of his own pocket to his campaign, is a close second to the Wisconsin lieutenant governor. 
  <p class="updated_time"> 03:30 AM CT, May. 27 </p> 
@@ -259,7 +265,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:23 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/marjorie-taylor-greene-security.html">Marjorie Taylor Greene’s Campaign Spent $183,000 on Security in Early 2022</a> NYT: Ms. Greene, the far-right Georgia Republican, spent more campaign money on personal security in the first quarter of this year than any other candidate, campaign finance filings show. 
  <p class="updated_time"> 05:21 PM CT, May. 26 </p> 
- <a href="https://www.npr.org/2022/05/26/1101626629/clackamas-count-ballot-issue-schrader-mcleod-skinner-oregon-5th">Ballot issue delays key congressional results in Oregon — and seeds distrust in count</a> NPR: More than half of the ballots in Oregon's third-most populous county have to be reprocessed because smudged barcodes rendered them unreadable by tabulating machines. 
+ <a href="https://www.npr.org/2022/05/26/1101626629/clackamas-count-ballot-issue-schrader-mcleod-skinner-oregon-5th">Progressive challenger tops Oregon Rep. Schrader, after ballot issue delayed count</a> NPR: In Oregon's 5th Congressional District, centrist incumbent Rep. Kurt Schrader, who had President Biden's backing, lost to his more progressive opponent, Jamie McLeod-Skinner. 
  <p class="updated_time"> 05:03 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/scott-pruitt-epa-report.html">Trump E.P.A. Chief ‘Endangered Public Safety’ by Ordering His Drivers to Speed</a> NYT: An internal report validated whistle-blower allegations that Scott Pruitt repeatedly forced his security detail to drive at dangerous speeds on routine trips because he was running late. 
  <p class="updated_time"> 04:16 PM CT, May. 26 </p> 
@@ -340,8 +346,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/25/oklahoma-strictest-abortion-ban-stitt-00035302">Oklahoma governor signs nation’s strictest abortion ban</a> Politico: The law takes effect immediately upon Gov. Kevin Stitt’s signature and prohibits all abortions with few exceptions. 
  <p class="updated_time"> 05:51 PM CT, May. 25 </p> 
  <a href="https://www.cnn.com/2022/05/25/politics/gun-laws-us-congress/index.html">Gun legislation is stalled in Congress. Here's why that won't change anytime soon</a> CNN: Tuesday's shooting at a Texas elementary school, which has left at least 19 children and two adults dead, marked another instance of a uniquely American tragedy. 
- <p class="updated_time"> 05:50 PM CT, May. 25 </p> 
- <a href="https://www.politico.com/news/2022/05/25/precious-individuals-texas-school-shooting-00035288">‘Precious individuals’ taken in Texas school shooting</a> Politico: All of the dead were in the same fourth-grade classroom. 
  <p class="updated_time"> 05:03 PM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101283771/sen-murphy-tries-to-get-talks-going-on-limited-gun-measures-after-texas-shooting">Sen. Murphy tries to get talks going on limited gun measures after Texas shooting</a> NPR: Even as some lawmakers say it's "nuts" not to take action, any measure faces exceedingly slim odds of passing in the 50-50 Senate. 
  <p class="updated_time"> 04:20 PM CT, May. 25 </p> 
@@ -380,6 +384,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/24/murphy-forges-ahead-on-gun-talks-with-gop-after-texas-shooting-00034951">Murphy pleads with GOP for a gun deal as Texas school shooting grips America</a> Politico: The massacre of at least 19 children at a Texas elementary school came one week after another shooter killed 10 people, mostly Black. 
  <p class="updated_time"> 04:01 PM CT, May. 24 </p> 
  <a href="https://www.politico.com/news/2022/05/24/al-sharpton-elon-musk-delaware-court-00034875">Al Sharpton beckons Elon Musk into Delaware’s craziest court drama</a> Politico: Sharpton’s been trying to get Joe Biden to help change the composition of the Chancery Court. He thinks Musk’s Twitter acquisition drama could make him an ally too. 
+ <p class="updated_time"> 02:33 PM CT, May. 24 </p> 
+ <a href="https://www.politico.com/news/2022/05/24/scotus-marshal-roe-opinion-00034670">Supreme Court marshal digs in on Roe opinion leak</a> Politico: The launch of the probe comes as Chief Justice John Roberts tries to uphold the integrity of the court. 
 
 
 </details>
