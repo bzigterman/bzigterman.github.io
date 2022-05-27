@@ -9,21 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:56 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Russian Attacks Intensify, Along With Accusations of Genocide</a> NYT: Russian forces seized Lyman, the second small city to fall this week, and moved closer to encircling Sievierodonetsk. A new report by legal and rights experts cited a “genocidal pattern” by Russia, and President Biden said Putin was trying to “eliminate a culture” in Ukraine. 
+ <p class="updated_time"> 06:20 PM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/61599697?at_medium=RSS&at_campaign=KARANGA">Texas shooting: US gun control claims fact-checked</a> BBC: Following the school shooting, US politicians have made a series of claims about gun violence. 
+ <p class="updated_time"> 06:15 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Russian Attacks Intensify, Along With Accusations of Genocide</a> NYT: A report by legal and rights experts cited a ‘genocidal pattern’ by Russia. The U.S. plans to send long-range mobile rocket launchers to Ukraine as Russian troops seize Lyman, the second small city to fall this week, and moved closer to encircling Sievierodonetsk. 
+ <p class="updated_time"> 06:14 PM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61548612?at_medium=RSS&at_campaign=KARANGA">Siblings reunited 75 years after India Partition</a> BBC: The family in Punjab found out about their sister in Pakistan two years ago and finally met her last month. 
+ <p class="updated_time"> 06:09 PM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-61597537?at_medium=RSS&at_campaign=KARANGA">The man turning mud into eco-friendly 'concrete'</a> BBC: Gnanli Landrou has invented a special powder that turns earth into a greener version of concrete 
+ <p class="updated_time"> 06:06 PM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61611193?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The families living in an underground station for three months</a> BBC: Families who have been sheltering in a metro station since the start of the war now fear eviction. 
+ <p class="updated_time"> 06:01 PM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61615012?at_medium=RSS&at_campaign=KARANGA">Egypt: Somali teen who allegedly killed attacker released</a> BBC: The girl, 15, says she acted in self-defence after a tuk-tuk driver tried to rape her in Egypt. 
  <p class="updated_time"> 05:55 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-seizes-greek-tankers.html">Iran Seizes Two Greek Tankers in Persian Gulf</a> NYT: The ships were taken in retaliation for Greece last month impounding, at the request of the United States, an Iranian oil tanker, according to Iranian news reports. 
- <p class="updated_time"> 05:23 PM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61614782?at_medium=RSS&at_campaign=KARANGA">Trump: US should fund safe schools before Ukraine</a> BBC: The former president calls for campuses to have fortified single points of entry with armed police. 
- <p class="updated_time"> 04:59 PM CT, May. 27 </p> 
+ <p class="updated_time"> 05:26 PM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
+ <p class="updated_time"> 05:23 PM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61614782?at_medium=RSS&at_campaign=KARANGA">Trump: US should fund safe schools before Ukraine</a> BBC: Mr Trump rejects calls for gun control, saying Americans must be allowed to defend themselves from "evil". 
  <p class="updated_time"> 04:49 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61611925?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: In the face of tragedy, a Texas town turns to prayer</a> BBC: Many in Uvalde say they feel lost after the school massacre, but their faith is a source of strength. 
  <p class="updated_time"> 04:42 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/margot-heuman-dead.html">Margot Heuman, Who Bore Witness to the Holocaust as a Gay Woman, Dies at 94</a> NYT: She was a rare survivor who spoke — in recent years — of her same-sex relationship in the concentration camps, and how it sustained her. 
  <p class="updated_time"> 04:31 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101750622/russia-ukraine-war-what-happened-today-may-27">Russia-Ukraine war: What happened today (May 27)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:59 PM CT, May. 27 </p> 
+ <p class="updated_time"> 04:26 PM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/ukraine-is-accusing-russia-of-again-using-thermobaric-weapons-heres-what-makes-them-so-devastating-11653679508">Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating.</a> WSJ: Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating. 
  <p class="updated_time"> 03:57 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/arts/music/abba-voyage-london.html">Abba Returns to the Stage in London. Sort Of.</a> NYT: The Swedish superstars — or digital versions of them, at least — performed on Thursday to 3,000 enthusiastic fans with the help of 140 animators, four body doubles and $175 million. 
@@ -35,6 +45,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61613177?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas shooting response was 'wrong', says official</a> BBC: "If I thought it would help, I would apologise," state safety chief says at heated press conference. 
  <p class="updated_time"> 03:33 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61612599?at_medium=RSS&at_campaign=KARANGA">Japan opens up to foreign tourists after two years</a> BBC: Visitors from 98 countries will be allowed to enter, but some restrictions still remain. 
+ <p class="updated_time"> 03:26 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
  <p class="updated_time"> 03:24 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/russian-fighting-for-ukraine.html">A Putin Opponent From Russia Leads Fighters Against His Home Country</a> NYT: “The hottest place to fight against the regime was in Ukraine,” says a unit commander who has been a volunteer soldier for his adopted country on and off since 2015. 
  <p class="updated_time"> 03:09 PM CT, May. 27 </p> 
@@ -45,20 +57,18 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/27/1101758096/colombia-presidential-election">Colombia goes into elections Sunday with a leftist looking to make history</a> NPR: Colombia's presidential election is Sunday, and for the first time, a leftist candidate is favored to come out ahead. Business elites are nervous. 
  <p class="updated_time"> 03:02 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/italy-bishops-clerical-abuse.html">Italian Bishops to Examine Clerical Abuse, but Only to a Point</a> NYT: The Italian Bishops’ Conference on Friday presented its plan to investigate clerical abuse, but critics say it is insufficient and disappointing. 
- <p class="updated_time"> 02:59 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
  <p class="updated_time"> 02:34 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61610831?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Donbas town falls as ex-reporter urges Russians to turn off TV</a> BBC: There has been intense fighting in Lyman and Kyiv says pro-Russian forces control most of the city. 
  <p class="updated_time"> 02:28 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iraqi-parliament-anti-normalization-israel.html">Iraqi Parliament Expands Law Against Normalizing Ties With Israel</a> NYT: The legislation, based on a similar law dating back to 1969, makes it a crime punishable by death. It makes Iraq an outlier in the Arab world, where more countries are forging diplomatic relations with Israel. 
+ <p class="updated_time"> 02:26 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
  <p class="updated_time"> 02:25 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61613479?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Troops could quit Severodonetsk amid Russian advance - official</a> BBC: Russian forces are in part of Severodonetsk and could surround local troops, an official says. 
  <p class="updated_time"> 02:21 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61610470?at_medium=RSS&at_campaign=KARANGA">Johnny Depp: Jury deliberations begin in Amber Heard defamation trial</a> BBC: The high profile celebrity defamation case comes to a close six weeks after it began. 
- <p class="updated_time"> 01:59 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
- <p class="updated_time"> 01:12 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/iranian-military-seizes-two-greek-oil-tankers-in-persian-gulf-11653679153">Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf</a> WSJ: Iranian helicopters boarded two ships days after U.S. ordered confiscation of Iranian oil cargo near Greece. 
+ <p class="updated_time"> 01:26 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/iranian-military-seizes-two-greek-oil-tankers-in-persian-gulf-11653679153">Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf</a> WSJ: Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf 
  <p class="updated_time"> 12:06 PM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/u-k-s-johnson-emerges-from-lockdown-scandals-to-face-economic-woes-11653676185">U.K.'s Johnson Emerges From Lockdown Scandals to Face Economic Woes</a> WSJ: Luck, global problems to address and the lack of an obvious Tory replacement has ultimately saved the prime minister. 
  <p class="updated_time"> 11:36 AM CT, May. 27 </p> 
@@ -129,8 +139,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61518171?at_medium=RSS&at_campaign=KARANGA">A Zoom size window into Indian courts</a> BBC: The pandemic pushed Indian courts to adapt, making the legal system more accessible. 
  <p class="updated_time"> 06:47 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61516126?at_medium=RSS&at_campaign=KARANGA">Instagram moderators say Iran offered them bribes to remove accounts</a> BBC: Intelligence agents wanted accounts of journalists and activists to be removed, whistleblowers say. 
- <p class="updated_time"> 06:01 PM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/technology-61588608?at_medium=RSS&at_campaign=KARANGA">The 22-year-old 3D-printing schools</a> BBC: Maggie Grout has started an NGO that will 3D-print schools where access to education is not guaranteed. 
  <p class="updated_time"> 05:18 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/russia-ukraine-donbas.html">A Doomed River Crossing Shows the Perils of Entrapment in the War’s East</a> NYT: Encirclement is a tactic used by both sides in the war between Russia and Ukraine, but it can carry big risks. 
  <p class="updated_time"> 04:24 PM CT, May. 26 </p> 
@@ -151,12 +159,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/world/middleeast/israel-shireen-abu-akleh.html">Palestinian Inquiry Accuses Israel of Intentionally Killing Al Jazeera Journalist</a> NYT: The Palestinian Authority reported its final findings from a two-week investigation into the killing of the journalist Shireen Abu Akleh. Israel said it was still conducting its own inquiry. 
  <p class="updated_time"> 01:08 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61599932?at_medium=RSS&at_campaign=KARANGA">Russian mum's fight to save sons from Putin's war</a> BBC: Marina had no idea when her sons were conscripted that they would be part of an invasion of Ukraine. 
- <p class="updated_time"> 12:51 PM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61600593?at_medium=RSS&at_campaign=KARANGA">Abba: All four members of the Swedish band reunite ahead of Voyage concert</a> BBC: All four members of the Swedish band have reunited on the red carpet ahead of Voyage concert. 
- <p class="updated_time"> 09:15 AM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61579600?at_medium=RSS&at_campaign=KARANGA">Texas shooting victims: 'They were sweet kids and lovable'</a> BBC: Keen sports players, A students and dancers are among the children killed in Tuesday's shooting. 
- <p class="updated_time"> 08:30 AM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61593071?at_medium=RSS&at_campaign=KARANGA">Texas shooting: The teachers who sacrificed their lives to protect children</a> BBC: Eva Mireles and Irma Garcia were seen trying to shelter their students from the gunfire. 
  <p class="updated_time"> 07:48 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/gun-laws-australia-britain.html">Other Countries Had Mass Shootings. Then They Changed Their Gun Laws.</a> NYT: Britain, Australia, Canada, New Zealand, Norway: All had a culture of gun ownership, and all tightened restrictions anyway. Their violence statistics now diverge sharply from those of the U.S. 
  <p class="updated_time"> 05:38 AM CT, May. 26 </p> 
