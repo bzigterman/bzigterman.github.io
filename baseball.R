@@ -474,11 +474,7 @@ standings_interactive <- function(division) {
              max = 162) %>%
     hc_add_theme(
       hc_theme_bloom()
-    )%>%
-    hc_rangeSelector(enabled = TRUE,
-                     inputEnabled = FALSE,
-                     buttons = list(
-                       list(type = 'ytd', text = 'YTD')))
+    )
 }
 
 al_central_interactive <- standings_interactive(al_central)  
@@ -1067,11 +1063,8 @@ fig1 <- hchart(hc_al_games, "line", hcaes(x = game_n,
            max = 162) %>%
   hc_add_theme(
     hc_theme_bloom()
-  )%>%
-  hc_rangeSelector(enabled = TRUE,
-                   inputEnabled = FALSE,
-                   buttons = list(
-                     list(type = 'ytd', text = 'YTD')))
+  )
+
 fig1
 saveWidget(widget = fig1, file = "interactive/al_standings.html",
            selfcontained = FALSE,
@@ -1092,11 +1085,8 @@ fig2 <- hchart(hc_nl_games, "line", hcaes(x = game_n,
            max = 162) %>%
   hc_add_theme(
     hc_theme_bloom()
-  ) %>%
-  hc_rangeSelector(enabled = TRUE,
-                   inputEnabled = FALSE,
-                   buttons = list(
-                     list(type = 'ytd', text = 'YTD')))
+  ) 
+
 fig2
 saveWidget(widget = fig2, file = "interactive/nl_standings.html",
            selfcontained = FALSE,
