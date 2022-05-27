@@ -9,26 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:06 PM CT, May. 27 </p> 
+ <p class="updated_time"> 02:16 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Russia Advances in Ukraine’s East as Civilian Toll Rises</a> NYT: Russian forces seized Lyman, the second small city to fall this week, and moved closer to encircling Sievierodonetsk. A new report by legal and rights experts cited a “genocidal pattern” by Russia. 
+ <p class="updated_time"> 02:01 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/world/europe/italy-bishops-clerical-abuse.html">Italian Bishops to Examine Clerical Abuse, but Only to a Point</a> NYT: The Italian Bishop’s Conference on Friday presented its plan to investigate clerical abuse, but critics say it is insufficient and disappointing. 
+ <p class="updated_time"> 01:59 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61613177?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas shooting response was 'wrong', says official</a> BBC: 'If I thought it would help, I would apologise,' state safety chief says at heated press conference. 
+ <p class="updated_time"> 01:34 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-seizes-greek-tankers.html">Iran Seizes Two Greek Tankers in Persian Gulf</a> NYT: Tensions remain high between Iran and the West over its tattered nuclear deal with world powers, as Tehran enriches more uranium. 
+ <p class="updated_time"> 01:21 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
+ <p class="updated_time"> 01:15 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iraqi-bars-normalization-israel.html">Iraqi Parliament Expands Law Against Normalizing Ties With Israel</a> NYT: The legislation, based on a similar law dating back to 1969, makes it a crime punishable by death. It makes Iraq an outlier in the Arab world, where more countries are forging diplomatic relations with Israel. 
  <p class="updated_time"> 01:01 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61610470?at_medium=RSS&at_campaign=KARANGA">Johnny Depp: Closing arguments given in Amber Heard defamation trial</a> BBC: The high profile celebrity defamation case comes to a close six weeks after it began. 
- <p class="updated_time"> 12:43 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Russia Advances in Ukraine’s East as Civilian Toll Rises</a> NYT: Russian forces seized Lyman, the second small city to fall this week, and moved closer to encircling Sievierodonetsk. A new report by legal and rights experts cited a “genocidal pattern” by Russia. 
- <p class="updated_time"> 12:20 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
+ <p class="updated_time"> 12:21 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/baby-formula-ingredient-supplies-are-limited-by-war-in-ukraine-11653652800">Ukraine War Crimps Baby-Formula Ingredient Supplies</a> WSJ: Ukraine War Crimps Baby-Formula Ingredient Supplies 
  <p class="updated_time"> 11:36 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/middleeast/iran-israel-killing-khodayee.html">Israel Tells U.S. It Killed Iranian Officer, Official Says</a> NYT: Israeli officials say the officer, Sayad Khodayee, was a leader of a covert unit tasked with abductions and killings of Israelis and other foreigners around the world. Iran does not acknowledge that the unit exists. 
  <p class="updated_time"> 11:29 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-drone-attack.html">Sensitive Iranian Military Site Was Targeted in Attack</a> NYT: A drone exploded at a structure in the Parchin military technology complex on Wednesday. The attack fit a pattern of past Israeli strikes on Iran. 
- <p class="updated_time"> 11:20 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/baby-formula-ingredient-supplies-are-limited-by-war-in-ukraine-11653652800">Ukraine War Crimps Baby-Formula Ingredient Supplies</a> WSJ: Ukraine War Crimps Baby-Formula Ingredient Supplies 
+ <p class="updated_time"> 11:21 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
  <p class="updated_time"> 11:00 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/science/russian-academy-science-ukraine.html">Russian Academics Aim to Punish Colleagues Who Backed Ukraine Invasion</a> NYT: A campaign is circulating a list of dozens of researchers in the hopes they will be denied the prestige of election into the Russian Academy of Sciences. 
  <p class="updated_time"> 10:33 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/asia/india-prostitution-rights.html">India’s Supreme Court Orders Police to Respect Prostitutes’ Rights</a> NYT: Though sex work is legal in the country, those who practice it often endure harassment and abuse. The justices urged the authorities to employ a more nuanced and humane approach. 
- <p class="updated_time"> 10:20 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
+ <p class="updated_time"> 10:21 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/summits-involving-the-u-s-and-russia-are-getting-awkward-11653656400">Summits Involving the U.S. and Russia Are Getting Awkward</a> WSJ: Summits Involving the U.S. and Russia Are Getting Awkward 
  <p class="updated_time"> 10:08 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61548490?at_medium=RSS&at_campaign=KARANGA">Iran building collapse death toll jumps to 24</a> BBC: A search and rescue operation is continuing days after the 10-storey building fell down. 
  <p class="updated_time"> 10:03 AM CT, May. 27 </p> 
@@ -39,16 +47,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/27/arts/music/abba-voyage-london.html">Abba Returns to the Stage in London. Sort Of.</a> NYT: The Swedish superstars — or digital versions of them, at least — performed on Thursday to 3,000 enthusiastic fans with the help of 140 animators, four body doubles and $175 million. 
  <p class="updated_time"> 09:51 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/asia/pakistan-fuel-price-crisis.html">Pakistan Raises Fuel Prices in Effort to Stabilize Economy</a> NYT: The interim government’s move was seen as a bid to revive a $6 billion bailout from the International Monetary Fund. 
- <p class="updated_time"> 09:20 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/summits-involving-the-u-s-and-russia-are-getting-awkward-11653656400">Summits Involving the U.S. and Russia Are Getting Awkward</a> WSJ: Summits Involving the U.S. and Russia Are Getting Awkward 
+ <p class="updated_time"> 09:36 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: The Biden administration is expected to announce as early as next week it will send to Ukraine long-range rocket systems Kyiv says are necessary to fight off the Russian onslaught in the Donbas region. 
+ <p class="updated_time"> 09:29 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-k-s-johnson-emerges-from-lockdown-scandals-to-face-economic-woes-11653676185">U.K.'s Johnson Emerges From Lockdown Scandals to Face Economic Woes</a> WSJ: Luck, global problems to address and the lack of an obvious Tory replacement has ultimately saved the prime minister. 
+ <p class="updated_time"> 09:21 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/israels-work-permits-for-gazans-help-deter-war-with-hamas-for-now-11653649530">Israeli Work Permits for Gazans Help Deter War With Hamas for Now</a> WSJ: Israeli Work Permits for Gazans Help Deter War With Hamas for Now 
  <p class="updated_time"> 09:09 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101720943/former-president-of-louvre-faces-charges-linked-to-alleged-antiquities-smuggling">The former head of the Louvre faces charges linked to alleged antiquities smuggling</a> NPR: Police have charged Jean-Luc Martinez with "complicity in organized fraud" and money laundering, according to the Paris prosecutors' office. 
  <p class="updated_time"> 09:00 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/vatican-history-secrets-david-kertzer.html">Deep in Vatican Archives, Scholar Discovers ‘Flabbergasting’ Secrets</a> NYT: David Kertzer has spent decades excavating the Vatican’s hidden history, with his work winning a Pulitzer and capturing Hollywood’s attention. A new book examines Pope Pius XII’s role in the Holocaust. 
  <p class="updated_time"> 08:58 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61610162?at_medium=RSS&at_campaign=KARANGA">Drought's devastating toll on Somalia's children</a> BBC: The United Nations is warning that the country risks famine should global food prices continue to rise. 
- <p class="updated_time"> 08:20 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/israels-work-permits-for-gazans-help-deter-war-with-hamas-for-now-11653649530">Israeli Work Permits for Gazans Help Deter War With Hamas for Now</a> WSJ: Israeli Work Permits for Gazans Help Deter War With Hamas for Now 
  <p class="updated_time"> 07:38 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/27/1099739656/do-restrictive-abortion-laws-actually-reduce-abortion-a-global-map-offers-insigh">Do restrictive abortion laws actually reduce abortion? A global map offers insights</a> NPR: Click to see how restrictive or liberal local abortion laws are — and to look at the rate of abortion. The data offers a sense of whether stricter abortion laws reduce the number of abortions. 
  <p class="updated_time"> 06:36 AM CT, May. 27 </p> 
@@ -142,8 +152,6 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
  <a href="https://www.npr.org/2022/05/26/1100501433/heres-how-much-it-could-cost-to-rebuild-ukraine-and-who-would-pay-for-it">Here's how much it could cost to rebuild Ukraine — and who would pay for it</a> NPR: History has many lessons to offer on how much it will cost to rebuild Ukraine, and how it can be done to help set the country up for a more prosperous and safe future. 
  <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/business/south-korea-bullying-gapjil.html">South Korean Workers Turn the Tables on Their Bad Bosses</a> NYT: “South Koreans live with an enormous tolerance for abuse” from the powerful, said one famously bullied advocate. A backlash has erupted. 
- <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/books/buenos-aires-books.html">Through a Recession and a Pandemic, the Book Business Is Thriving in Buenos Aires</a> NYT: The Argentine capital has always been bookish. When hard times shuttered the big chain shops, book purveyors found a way to keep residents in fresh reading material. 
  <p class="updated_time"> 02:31 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/masks-hawaii-delaware.html">These U.S. Schools and Universities Are Reimposing Indoor Mask Mandates</a> NYT: The moves are a sign that while the academic year may be coming to a close, the pandemic is still not. 
@@ -189,12 +197,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/24/us/politics/china-taiwan-military.html">U.S. Speeds Up Reshaping of Taiwan’s Defenses to Deter China</a> NYT: The Biden administration is taking lessons from the war in Ukraine to turn Taiwan into a “porcupine” bristling with weapons that would inflict severe pain if attacked. 
  <p class="updated_time"> 04:16 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Suspected ICBM and Two Other Ballistic Missiles</a> NYT: The tests came just as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
- <p class="updated_time"> 03:15 AM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/25/world/europe/henry-kissinger-ukraine-russia-davos.html">Henry Kissinger Suggests Ukraine Give Up Territory to Russia</a> NYT: The former secretary of state argued that ceding land could bring an end to the war. Critics called the idea reckless and unrealistic. 
  <p class="updated_time"> 02:30 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61510336?at_medium=RSS&at_campaign=KARANGA">Goldman Prize: The activists who battled mining with drones</a> BBC: Alex Lucitante and Alexandra Narváez led their indigenous group's fight against mining on their land. 
- <p class="updated_time"> 10:14 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-mayor-killed.html">Ukraine Charges 8 Russian Fighters in Killings of Village Mayor and Family </a> NYT: The bodies of the mayor, her husband and her son were found after Russian forces retreated in early April. 
  <p class="updated_time"> 05:48 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/canada/quebec-language-bill-96.html">Law Requiring French in Quebec Becomes Stricter</a> NYT: Quebec’s new law limits access to government services in languages other than French, requires small businesses to operate in it and caps enrollment at English-language junior colleges. 
  <p class="updated_time"> 05:07 PM CT, May. 24 </p> 
@@ -208,12 +212,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:15 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/us/politics/ukraine-aid-heritage-foundation.html">Why the Once-Hawkish Heritage Foundation Opposed Aid to Ukraine</a> NYT: The conservative think tank has shifted on foreign policy along with the Republican grass-roots, and it is taking a more skeptical view of U.S. involvement in the world. 
+ <p class="updated_time"> 01:20 PM CT, May. 27 </p> 
+ <a href="https://www.politico.com/news/2022/05/27/texas-police-wrong-decision-wait-breaching-uvalde-classroom-00035760">Texas official: Police made ‘wrong decision’ to wait on breaching Uvalde classroom</a> Politico: The on-scene commander believed at the time that the gunman had barricaded himself and that the children were no longer at risk. 
  <p class="updated_time"> 01:12 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101801511/trump-lawsuit-new-york-attorney-general-dismissed-letitia-james">A judge has dismissed Trump's lawsuit against New York's attorney general</a> NPR: A federal judge's dismissal of former President Donald Trump's lawsuit against New York Attorney General Letitia James allows her civil investigation into his business practices to continue. 
  <p class="updated_time"> 01:11 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/business/economy/pce-inflation-april.html">Americans Keep Spending Even as Inflation Erodes Buying Power</a> NYT: To keep up with rising prices, Americans are saving less, but economists expect expenditures to slow in the months ahead. 
  <p class="updated_time"> 01:01 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101741366/human-trafficking-farmworker-abuse-georgia">A human-trafficking case exposed farmworker abuses. The government is promising change</a> NPR: In response to a letter from Sen. Jon Ossoff, Homeland Security said it plans to begin the process to create new rules to increase protections for farmworkers. 
+ <p class="updated_time"> 12:43 PM CT, May. 27 </p> 
+ <a href="https://www.politico.com/news/2022/05/27/inside-the-forecast-trumps-endorsement-record-explained-00035741">Inside the Forecast: Trump’s endorsement record, explained</a> Politico: POLITICO’s Steve Shepard demystifies this week’s election data in a video series. 
  <p class="updated_time"> 12:26 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101779681/pennsylvania-undated-ballots-senate-race-oz-mccormick-recount">How undated ballots could affect Pennsylvania's GOP Senate race and voters' rights</a> NPR: Mail-in ballots that arrived on time but in envelopes missing dates handwritten by voters have been a flashpoint in recent elections in the key swing state, including a close Republican primary race. 
  <p class="updated_time"> 12:02 PM CT, May. 27 </p> 
@@ -308,10 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/26/capitol-police-army-flight-evacuation-00035402">Capitol Police were told they likely saw an Army flight. They evacuated anyway</a> Politico: Capitol officers had communicated that the only aircraft anywhere near the Capitol airspace was the authorized Golden Knights flight, according to an FAA timeline. 
  <p class="updated_time"> 10:33 AM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/cms-attention-hospitals-covid-outbreaks-00035206">CMS turning attention to hospitals with Covid outbreaks</a> Politico: The nation’s hospital regulator is probing hospitals where patients were likely infected with Covid after a record spike in transmission this year. 
- <p class="updated_time"> 09:37 AM CT, May. 26 </p> 
- <a href="https://www.politico.com/news/2022/05/26/2016-clinton-attorney-sussmann-wont-testify-in-his-own-defense-at-trial-00035381">2016 Clinton attorney Sussmann won't testify in his own defense at trial</a> Politico: Jurors are expected to hear closing arguments in the case beginning Friday morning. 
- <p class="updated_time"> 08:08 AM CT, May. 26 </p> 
- <a href="https://www.politico.com/news/2022/05/26/k-pop-band-bts-white-house-visit-00035357">Build Back Butter: K-Pop band BTS heading to White House</a> Politico: The group’s visit is scheduled for May 31, the conclusion of Asian American, Native Hawaiian and Pacific Islander Heritage Month. 
  <p class="updated_time"> 06:42 AM CT, May. 26 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/26/giving-gun-talks-a-go-00035353">Giving gun talks a go</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, May. 26 </p> 
@@ -340,8 +346,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/26/republicans-not-afraid-of-trump-00035311">'Trump picked this fight': Why heavyweight Republicans no longer fear Trump</a> Politico: Bold-face GOP names have never been so comfortable crossing Trump as in recent weeks. 
  <p class="updated_time"> 03:30 AM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/senate-gop-domestic-terrorism-bill-00035240">Senate GOP blocks domestic terrorism bill as gun debate heats up</a> Politico: A nearly identical version of the legislation that failed Thursday passed the House with no Republican objections two years ago. 
- <p class="updated_time"> 10:49 PM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/25/us/politics/michael-sussmann-trial-eric-lichtblau.html">Defense Team for Democratic-Linked Lawyer Won’t Call Ex-Times Reporter to Testify</a> NYT: Lawyers had argued that the reporter, Eric Lichtblau, should testify about his communications with their client, Michael Sussmann, who is accused of lying to the F.B.I. 
  <p class="updated_time"> 07:57 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/politics/gun-control-timeline.html">A Timeline of Failed Attempts to Address U.S. Gun Violence</a> NYT: Time after time for more than a decade, Democrats in Congress have proposed gun restrictions and faced unyielding Republican opposition. 
  <p class="updated_time"> 07:36 PM CT, May. 25 </p> 
