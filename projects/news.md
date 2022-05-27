@@ -9,36 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:24 PM CT, May. 26 </p> 
+ <p class="updated_time"> 11:31 PM CT, May. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61601669?at_medium=RSS&at_campaign=KARANGA">Brazilian man allegedly gassed to death in police car boot</a> BBC: Genivaldo de Jesus Santos was stopped in the street by highway police in the city of Umbaúba on Wednesday. 
+ <p class="updated_time"> 11:28 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/05/26/world/russia-ukraine-war">Ukraine Live Updates: Economic Pain in Russia, and a Growing Debate on Ending the War</a> NYT: Some Western leaders are suggesting a territorial compromise between Ukraine and Russia, which Ukraine opposes. Russia shells central Kharkiv, leaving many dead and wounded, and Ukraine’s agricultural minister warns that global grain shortages are expected this summer. 
- <p class="updated_time"> 10:04 PM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61569655?at_medium=RSS&at_campaign=KARANGA">Texas school shooting: Husband of killed teacher dies 'of grief'</a> BBC: Joe Garcia reportedly dies of a heart attack two days after his wife was shot at Robb Elementary. 
- <p class="updated_time"> 09:47 PM CT, May. 26 </p> 
+ <p class="updated_time"> 11:25 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
- <p class="updated_time"> 08:47 PM CT, May. 26 </p> 
+ <p class="updated_time"> 11:16 PM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/world/australia/pacific-islands-china-united-states.html">Why You’re Hearing More About the Pacific Islands</a> NYT: The United States and Australia are in a contest for influence with China across the region. And it’s intensifying. 
+ <p class="updated_time"> 11:05 PM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/us/politics/china-policy-biden.html">U.S. Aims to Constrain China by Shaping Its Environment, Blinken Says</a> NYT: The U.S. secretary of state gave a glimpse of President Biden’s classified strategy on China, in which officials have concluded they cannot change Beijing’s behavior. 
+ <p class="updated_time"> 10:59 PM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/health/monkeypox-vaccine-immunity.html">Who Is Protected Against Monkeypox?</a> NYT: Older people who received smallpox vaccinations may yet have some immunity, researchers say. Healthy children and adults generally do not become severely ill. 
+ <p class="updated_time"> 10:59 PM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/world/americas/colombia-presidential-election-gustavo-petro.html">Colombia Election: Angry, Mobilized and Voting for Gustavo Petro</a> NYT: A large and loud youth electorate hungry to transform one of Latin America’s most unequal societies could propel Gustavo Petro, a former rebel, to the presidency. 
+ <p class="updated_time"> 10:25 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
- <p class="updated_time"> 07:47 PM CT, May. 26 </p> 
+ <p class="updated_time"> 10:04 PM CT, May. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61569655?at_medium=RSS&at_campaign=KARANGA">Texas school shooting: Husband of killed teacher 'dies of grief'</a> BBC: Joe Garcia reportedly dies of a heart attack two days after his wife was shot at Robb Elementary. 
+ <p class="updated_time"> 09:25 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China</a> WSJ: Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China 
+ <p class="updated_time"> 08:25 PM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/europes-quest-for-alternatives-to-russian-gas-hits-obstacles-in-middle-east-11653579800">Europe’s Quest for Alternatives to Russian Gas Hits Obstacles</a> WSJ: Europe’s Quest for Alternatives to Russian Gas Hits Obstacles 
+ <p class="updated_time"> 07:25 PM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Slain Iranian Officer Led Assassination Plots</a> WSJ: Slain Iranian Officer Led Assassination Plots 
  <p class="updated_time"> 06:54 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
  <p class="updated_time"> 06:54 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61591614?at_medium=RSS&at_campaign=KARANGA">EU's awkward summit: Don't mention Russian oil ban</a> BBC: The EU's latest sanctions are held up by infighting, but a summit on Monday is unlikely to solve it. 
  <p class="updated_time"> 06:49 PM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61518171?at_medium=RSS&at_campaign=KARANGA">How virtual hearings opened Indian courts to public</a> BBC: The pandemic pushed Indian courts to adapt, making the legal system more accessible. 
- <p class="updated_time"> 06:47 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/europes-quest-for-alternatives-to-russian-gas-hits-obstacles-in-middle-east-11653579800">Europe’s Quest for Alternatives to Russian Gas Hits Obstacles</a> WSJ: Europe’s Quest for Alternatives to Russian Gas Hits Obstacles 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61518171?at_medium=RSS&at_campaign=KARANGA">A peek into the elusive world of Indian courts</a> BBC: The pandemic pushed Indian courts to adapt, making the legal system more accessible. 
  <p class="updated_time"> 06:47 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61516126?at_medium=RSS&at_campaign=KARANGA">Instagram moderators say Iran offered them bribes to remove accounts</a> BBC: Intelligence agents wanted accounts of journalists and activists to be removed, whistleblowers say. 
- <p class="updated_time"> 06:12 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/us/politics/china-policy-biden.html">U.S. Aims to Constrain China by Shaping Its Environment, Blinken Says</a> NYT: The U.S. secretary of state gave a glimpse of President Biden’s classified strategy on China, in which officials have concluded they cannot change Beijing’s behavior. 
  <p class="updated_time"> 06:09 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61600914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas school gunman 'walked in unobstructed'</a> BBC: No guard challenged the attacker and it is unclear if the school door was even locked. 
  <p class="updated_time"> 06:08 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61561452?at_medium=RSS&at_campaign=KARANGA">Geetanjali Shree is first Indian winner of International Booker Prize</a> BBC: The prize's judges say Geetanjali Shree's Tomb of Sand is a "luminous novel of India and partition". 
  <p class="updated_time"> 06:01 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61588608?at_medium=RSS&at_campaign=KARANGA">The 22-year-old 3D-printing schools</a> BBC: Maggie Grout has started an NGO that will 3D-print schools where access to education is not guaranteed. 
- <p class="updated_time"> 05:47 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Slain Iranian Officer Led Assassination Plots</a> WSJ: Slain Iranian Officer Led Assassination Plots 
  <p class="updated_time"> 05:18 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/russia-ukraine-donbas.html">A Doomed River Crossing Shows the Perils of Entrapment in the War’s East</a> NYT: Encirclement is a tactic used by both sides in the war between Russia and Ukraine, but it can carry big risks. 
  <p class="updated_time"> 05:03 PM CT, May. 26 </p> 
@@ -71,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61600212?at_medium=RSS&at_campaign=KARANGA">Goodfellas star Ray Liotta dies aged 67</a> BBC: The actor died in his sleep in the Dominican Republic, his publicist confirms. 
  <p class="updated_time"> 12:51 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61600593?at_medium=RSS&at_campaign=KARANGA">Abba: All four members of the Swedish band reunite ahead of Voyage concert</a> BBC: All four members of the Swedish band have reunited on the red carpet ahead of Voyage concert. 
- <p class="updated_time"> 11:49 AM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/health/monkeypox-vaccine-immunity.html">Who Is Protected Against Monkeypox?</a> NYT: Older people who received smallpox vaccinations may yet have some immunity, researchers say. Healthy children and adults generally do not become severely ill. 
  <p class="updated_time"> 11:12 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61591615?at_medium=RSS&at_campaign=KARANGA">Spanish MPs back 'only yes means yes' sexual consent law</a> BBC: The new legislation aims to make it easier for victims of sexual violence to prosecute attackers. 
  <p class="updated_time"> 11:10 AM CT, May. 26 </p> 
@@ -97,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/world/asia/china-economy-zero-covid.html">Concern Grows in China Over Economic Impact of ‘Zero Covid’</a> NYT: A senior leader announced efforts to bolster growth and urged local leaders do more to keep the economy running. 
  <p class="updated_time"> 04:06 AM CT, May. 26 </p> 
  <a href="https://www.npr.org/2022/05/26/1101423950/western-countries-watch-as-chinas-foreign-minister-begins-south-pacific-tour">Western countries watch as China's foreign minister begins South Pacific tour</a> NPR: Australia was scrambling to counter the move by sending its own Foreign Minister Penny Wong to Fiji to shore up support in the Pacific. 
- <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/world/americas/colombia-presidential-election-gustavo-petro.html">Colombia Election: Angry, Mobilized and Voting for Gustavo Petro</a> NYT: A large and loud youth electorate hungry to transform one of Latin America’s most unequal societies could propel Gustavo Petro, a former rebel, to the presidency. 
  <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/asia/india-film-kashmir-files.html">Film on Expulsion of Kashmir’s Hindus Is Polarizing and Popular in India</a> NYT: Called propaganda by critics and essential viewing by fans, “The Kashmir Files,” an unexpected blockbuster, has drawn the support of Prime Minister Narendra Modi’s Bharatiya Janata Party. 
  <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
@@ -169,8 +173,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Suspected ICBM and Two Other Ballistic Missiles</a> NYT: The tests came just as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
  <p class="updated_time"> 03:39 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/elizabeth-line-london-tube-opens.html">Eager London Riders Get Up Early for Elizabeth Line’s Debut</a> NYT: The London subway’s sleek new Elizabeth line officially opened Tuesday, drawing train enthusiasts and awing normally stoic London commuters. 
- <p class="updated_time"> 03:29 AM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/europe/uk-homes-for-ukraine-refugees.html">Homes for Ukrainians? The U.K. Isn’t Making It Easy</a> NYT: A plan that allows Britons to sponsor people fleeing the Russian invasion has been plagued by visa delays and safeguarding concerns. 
  <p class="updated_time"> 03:15 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/henry-kissinger-ukraine-russia-davos.html">Henry Kissinger Suggests Ukraine Give Up Territory to Russia</a> NYT: The former secretary of state argued that ceding land could bring an end to the war. Critics called the idea reckless and unrealistic. 
  <p class="updated_time"> 02:30 AM CT, May. 25 </p> 
@@ -202,6 +204,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:05 PM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/us/politics/china-policy-biden.html">U.S. Aims to Constrain China by Shaping Its Environment, Blinken Says</a> NYT: The U.S. secretary of state gave a glimpse of President Biden’s classified strategy on China, in which officials have concluded they cannot change Beijing’s behavior. 
  <p class="updated_time"> 10:08 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/asylum-system.html">U.S. to Begin Allowing Migrants to Apply for Asylum Under a New System</a> NYT: The rollout of the process for some arrivals at the southwestern border will be small, but could represent the tip of broad changes to the asylum system. 
  <p class="updated_time"> 09:03 PM CT, May. 26 </p> 
@@ -216,8 +220,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/us/politics/justice-dept-fbi-nassar.html">Justice Dept. Won’t Prosecute Ex-F.B.I. Agents Accused of Mishandling Nassar Case</a> NYT: The decision ends a review the department initiated in October, months after its inspector general issued a scathing report that sharply criticized the F.B.I.’s handling of the case. 
  <p class="updated_time"> 06:23 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/marjorie-taylor-greene-security.html">Marjorie Taylor Greene’s Campaign Spent $183,000 on Security in Early 2022</a> NYT: Ms. Greene, the far-right Georgia Republican, spent more campaign money on personal security in the first quarter of this year than any other candidate, campaign finance filings show. 
- <p class="updated_time"> 06:12 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/us/politics/china-policy-biden.html">U.S. Aims to Constrain China by Shaping Its Environment, Blinken Says</a> NYT: The U.S. secretary of state gave a glimpse of President Biden’s classified strategy on China, in which officials have concluded they cannot change Beijing’s behavior. 
  <p class="updated_time"> 06:00 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/republican-governors-trump-kemp.html">Republican Governors Lose Their Dread of Trump</a> NYT: Gov. Brian Kemp of Georgia just crushed a Trump-backed challenger. Many of his counterparts are also in strong political shape. And some are openly opposing their party’s leader. 
  <p class="updated_time"> 05:21 PM CT, May. 26 </p> 
@@ -372,8 +374,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/05/24/eyes-on-primary-prizes-00034661">Eyes on primary prizes</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:27 AM CT, May. 24 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/24/trumps-day-of-reckoning-in-georgia-00034651"> Trump’s day of reckoning in Georgia</a> Politico Playbook: And Biden cleans up his comments on defending Taiwan. 
- <p class="updated_time"> 11:08 PM CT, May. 23 </p> 
- <a href="https://www.cnn.com/2022/05/24/politics/biden-democracy-asia-trip-what-matters/index.html">Biden finds unity abroad. He's losing it at home</a> CNN: President Joe Biden's crusade against authoritarian leaders abroad is complicated, constantly, by the messiness of his democracy at home. 
 
 
 </details>
