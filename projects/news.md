@@ -12,8 +12,10 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:36 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Destruction in Ukraine’s East as Civilian Toll Rises</a> NYT: President Volodymyr Zelensky accused Russian forces of trying to turn cities and towns in eastern Ukraine “to ashes,” and Russian news outlets reported that the town of Lyman, a railway hub in the Donetsk region, had fallen to Russian forces. 
  <p class="updated_time"> 05:28 AM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61604652?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas police change key details as criticism mounts</a> BBC: Confusion and questions remain on why officers took so long to storm the school and stop the attack. 
- <p class="updated_time"> 04:50 AM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61604652?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas police change key details as criticism mounts</a> BBC: Confusion and questions remain over why officers took so long to storm the school and stop the attack. 
+ <p class="updated_time"> 05:02 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
+ <p class="updated_time"> 04:02 AM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101198630/hace-40-anos-la-guerra-malvinas-falkland-transformo-el-rock-latino">Hace 40 años, la Guerra Malvinas-Falkland transformó el rock latino</a> NPR: Cuando se prohibió la transmisión de música en inglés en 1982, los grupos de rock argentino encontraron una oportunidad. 
@@ -23,8 +25,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/27/world/africa/newborns-senegal-hospital-fire-tivaouane.html">11 Families in Senegal Welcomed Newborns. A Fire Left Them Devastated.</a> NYT: Joy over the births turned to shock and grief after a blaze swept through a neonatal ward at a hospital in Senegal. “There’s nothing we can do but suffer,” said a man who lost his grandson. 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/business/cotton-xinjiang-forced-labor-retailers.html">‘Escalation of Secrecy’: Global Brands Seek Clarity on Xinjiang</a> NYT: Companies that sourced cotton from the region in China are weighing evidence of forced labor, a lack of visibility into operations and new regulation. 
- <p class="updated_time"> 03:50 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
  <p class="updated_time"> 03:49 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61591614?at_medium=RSS&at_campaign=KARANGA">EU's awkward summit: Don't mention Russian oil ban</a> BBC: The EU's latest sanctions are held up by infighting, but a summit on Monday is unlikely to solve it. 
  <p class="updated_time"> 03:35 AM CT, May. 27 </p> 
@@ -35,8 +35,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61602547?at_medium=RSS&at_campaign=KARANGA">Biloela family: Australia frees asylum seekers after public outcry</a> BBC: The Tamil asylum seekers had been detained since 2018 - a move that infuriated their Queensland town. 
  <p class="updated_time"> 03:05 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61561452?at_medium=RSS&at_campaign=KARANGA">Geetanjali Shree is first Indian winner of International Booker Prize</a> BBC: The prize's judges say Geetanjali Shree's Tomb of Sand is a "luminous novel of India and partition". 
- <p class="updated_time"> 02:50 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China</a> WSJ: Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China 
+ <p class="updated_time"> 03:02 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/how-the-u-s-and-south-korea-predict-a-north-korean-weapons-test-11653640572">How the U.S. and South Korea Predict a North Korean Weapons Test</a> WSJ: How the U.S. and South Korea Predict a North Korean Weapons Test 
  <p class="updated_time"> 02:48 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61602730?at_medium=RSS&at_campaign=KARANGA">'Women are as strong as men' - World boxing champion</a> BBC: The world boxing champion tells the BBC that she hopes to keep inspiring young people. 
  <p class="updated_time"> 02:47 AM CT, May. 27 </p> 
@@ -45,16 +45,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/world/europe/johnson-britain-inflation-energy-tax.html">Johnson Takes Aim at Next Big Political Threat: Soaring Prices in U.K.</a> NYT: Prime Minister Boris Johnson, under pressure over a scathing report on lockdown parties in Downing Street and with his party trailing in opinion polls, unveiled an aid package Thursday. 
  <p class="updated_time"> 02:09 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61603746?at_medium=RSS&at_campaign=KARANGA">Sydney wakes up to thick blanket of fog</a> BBC: Iconic landmarks like the Sydney Harbour Bridge were shrouded from view and ferry services were cancelled. 
+ <p class="updated_time"> 02:02 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/fiji-to-join-bidens-asian-economic-platform-as-pacific-competition-intensifies-11653632348">Fiji to Join Biden’s Asian Economic Platform as Pacific Competition Intensifies</a> WSJ: Fiji to Join Biden’s Asian Economic Platform as Pacific Competition Intensifies 
  <p class="updated_time"> 02:00 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/climate/republicans-blackrock-climate.html">How an Organized Republican Effort Punishes Companies for Climate Action</a> NYT: Legislators and their allies are running an aggressive campaign that uses public money and the law to pressure businesses they say are pushing “woke” causes. 
- <p class="updated_time"> 01:50 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/europes-quest-for-alternatives-to-russian-gas-hits-obstacles-in-middle-east-11653579800">Europe’s Quest for Alternatives to Russian Gas Hits Obstacles</a> WSJ: Europe’s Quest for Alternatives to Russian Gas Hits Obstacles 
- <p class="updated_time"> 01:36 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine's East</a> WSJ: Fierce fighting raged in the Donbas region, with Russian forces engaging in street battles in the city of Severodonetsk as Moscow brought to bear its advantage in firepower on outgunned Ukrainian defenders. 
  <p class="updated_time"> 01:04 AM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/china-excels-in-google-rankings-on-xinjiang-and-covid-19-searches-11653645601">China Excels in Google Rankings on Xinjiang and Covid-19 Searches</a> WSJ: China’s global campaign to expand the reach of its political positions is helping it secure a coveted piece of online real estate: first-page search results on Google and other major Western portals. 
- <p class="updated_time"> 12:50 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Slain Iranian Officer Led Assassination Plots</a> WSJ: Slain Iranian Officer Led Assassination Plots 
  <p class="updated_time"> 12:43 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101698700/11-babies-die-in-a-fire-at-senegalese-hospital">11 babies die in a fire at a Senegalese hospital</a> NPR: The deadly fire comes a year after four other newborns died in a hospital fire in Senegal, a nation known for having some of the best hospitals in the region. 
  <p class="updated_time"> 11:31 PM CT, May. 26 </p> 
@@ -69,8 +65,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/world/americas/colombia-presidential-election-gustavo-petro.html">Colombia Election: Angry, Mobilized and Voting for Gustavo Petro</a> NYT: A large and loud youth electorate hungry to transform one of Latin America’s most unequal societies could propel Gustavo Petro, a former rebel, to the presidency. 
  <p class="updated_time"> 10:04 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61569655?at_medium=RSS&at_campaign=KARANGA">Texas school shooting: Husband of killed teacher 'dies of grief'</a> BBC: Joe Garcia reportedly dies of a heart attack two days after his wife was shot at Robb Elementary. 
- <p class="updated_time"> 09:19 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/fiji-to-join-bidens-asian-economic-platform-as-pacific-competition-intensifies-11653632348">Fiji to Join Biden's Asian Economic Platform as Pacific Competition Intensifies</a> WSJ: The Indo-Pacific Economic Framework expanded to 14 founding members after the U.S. said Fiji had agreed to join, a move that comes on the eve of a visit to the nation by Beijing’s top diplomat. 
  <p class="updated_time"> 07:45 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61482305?at_medium=RSS&at_campaign=KARANGA">What weapons are being given to Ukraine by the UK?</a> BBC: The government is spending £1.3bn on military support, so how much of a difference is it making? 
  <p class="updated_time"> 06:54 PM CT, May. 26 </p> 
@@ -107,6 +101,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61599932?at_medium=RSS&at_campaign=KARANGA">Russian mum's fight to save sons from Putin's war</a> BBC: Marina had no idea when her sons were conscripted that they would be part of an invasion of Ukraine. 
  <p class="updated_time"> 12:51 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61600593?at_medium=RSS&at_campaign=KARANGA">Abba: All four members of the Swedish band reunite ahead of Voyage concert</a> BBC: All four members of the Swedish band have reunited on the red carpet ahead of Voyage concert. 
+ <p class="updated_time"> 12:16 PM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China</a> WSJ: Secretary of State Antony Blinken laid out the Biden administration’s China policy, saying the U.S. would bolster domestic investment and strengthen collaboration with foreign partners to advance a vision of an inclusive, transparent international order. 
  <p class="updated_time"> 10:32 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-61557424?at_medium=RSS&at_campaign=KARANGA">Ancient DNA reveals secrets of Pompeii victims</a> BBC: It is an almost complete set of "genetic instructions" from people who died when Mount Vesuvius erupted. 
  <p class="updated_time"> 10:07 AM CT, May. 26 </p> 
