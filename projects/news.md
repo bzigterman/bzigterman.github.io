@@ -9,26 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:56 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Russian Attacks Intensify, Along With Accusations of Genocide</a> NYT: Russian forces seized Lyman, the second small city to fall this week, and moved closer to encircling Sievierodonetsk. A new report by legal and rights experts cited a “genocidal pattern” by Russia, and President Biden said Putin was trying to “eliminate a culture” in Ukraine. 
+ <p class="updated_time"> 05:55 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-seizes-greek-tankers.html">Iran Seizes Two Greek Tankers in Persian Gulf</a> NYT: The ships were taken in retaliation for Greece last month impounding, at the request of the United States, an Iranian oil tanker, according to Iranian news reports. 
  <p class="updated_time"> 05:23 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61614782?at_medium=RSS&at_campaign=KARANGA">Trump: US should fund safe schools before Ukraine</a> BBC: The former president calls for campuses to have fortified single points of entry with armed police. 
- <p class="updated_time"> 05:03 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Russian Attacks Intensify, Along With Accusations of Genocide</a> NYT: Russian forces seized Lyman, the second small city to fall this week, and moved closer to encircling Sievierodonetsk. A new report by legal and rights experts cited a “genocidal pattern” by Russia, and President Biden said Putin was trying to “eliminate a culture” in Ukraine. 
+ <p class="updated_time"> 04:59 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 04:49 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61611925?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: In the face of tragedy, a Texas town turns to prayer</a> BBC: Many in Uvalde say they feel lost after the school massacre, but their faith is a source of strength. 
- <p class="updated_time"> 04:47 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 04:42 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/margot-heuman-dead.html">Margot Heuman, Who Bore Witness to the Holocaust as a Gay Woman, Dies at 94</a> NYT: She was a rare survivor who spoke — in recent years — of her same-sex relationship in the concentration camps, and how it sustained her. 
  <p class="updated_time"> 04:31 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101750622/russia-ukraine-war-what-happened-today-may-27">Russia-Ukraine war: What happened today (May 27)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 03:59 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-seizes-greek-tankers.html">Iran Seizes Two Greek Tankers in Persian Gulf</a> NYT: The ships were taken in retaliation for Greece last month impounding, at the request of the United States, an Iranian oil tanker, according to Iranian news reports. 
+ <a href="https://www.wsj.com/articles/ukraine-is-accusing-russia-of-again-using-thermobaric-weapons-heres-what-makes-them-so-devastating-11653679508">Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating.</a> WSJ: Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating. 
  <p class="updated_time"> 03:57 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/arts/music/abba-voyage-london.html">Abba Returns to the Stage in London. Sort Of.</a> NYT: The Swedish superstars — or digital versions of them, at least — performed on Thursday to 3,000 enthusiastic fans with the help of 140 animators, four body doubles and $175 million. 
  <p class="updated_time"> 03:55 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101837145/ukrainian-soldiers-say-theyre-outgunned-as-russia-gains-ground-in-the-donbas">Ukrainian soldiers say they're outgunned as Russia gains ground in the Donbas</a> NPR: The war in Ukraine is now centered in the eastern Donbas region. On Friday, Russian forces appeared to have taken control of the strategic town of Lyman. 
- <p class="updated_time"> 03:47 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-accusing-russia-of-again-using-thermobaric-weapons-heres-what-makes-them-so-devastating-11653679508">Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating.</a> WSJ: Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating. 
  <p class="updated_time"> 03:45 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61548490?at_medium=RSS&at_campaign=KARANGA">Iran building collapse death toll jumps to 26</a> BBC: A search and rescue operation is continuing days after the 10-storey building fell down. 
  <p class="updated_time"> 03:37 PM CT, May. 27 </p> 
@@ -45,7 +45,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/27/1101758096/colombia-presidential-election">Colombia goes into elections Sunday with a leftist looking to make history</a> NPR: Colombia's presidential election is Sunday, and for the first time, a leftist candidate is favored to come out ahead. Business elites are nervous. 
  <p class="updated_time"> 03:02 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/italy-bishops-clerical-abuse.html">Italian Bishops to Examine Clerical Abuse, but Only to a Point</a> NYT: The Italian Bishops’ Conference on Friday presented its plan to investigate clerical abuse, but critics say it is insufficient and disappointing. 
- <p class="updated_time"> 02:47 PM CT, May. 27 </p> 
+ <p class="updated_time"> 02:59 PM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
  <p class="updated_time"> 02:34 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61610831?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Donbas town falls as ex-reporter urges Russians to turn off TV</a> BBC: There has been intense fighting in Lyman and Kyiv says pro-Russian forces control most of the city. 
@@ -55,7 +55,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61613479?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Troops could quit Severodonetsk amid Russian advance - official</a> BBC: Russian forces are in part of Severodonetsk and could surround local troops, an official says. 
  <p class="updated_time"> 02:21 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61610470?at_medium=RSS&at_campaign=KARANGA">Johnny Depp: Jury deliberations begin in Amber Heard defamation trial</a> BBC: The high profile celebrity defamation case comes to a close six weeks after it began. 
- <p class="updated_time"> 01:47 PM CT, May. 27 </p> 
+ <p class="updated_time"> 01:59 PM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
  <p class="updated_time"> 01:12 PM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/iranian-military-seizes-two-greek-oil-tankers-in-persian-gulf-11653679153">Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf</a> WSJ: Iranian helicopters boarded two ships days after U.S. ordered confiscation of Iranian oil cargo near Greece. 
@@ -201,8 +201,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/24/us/politics/china-taiwan-military.html">U.S. Speeds Up Reshaping of Taiwan’s Defenses to Deter China</a> NYT: The Biden administration is taking lessons from the war in Ukraine to turn Taiwan into a “porcupine” bristling with weapons that would inflict severe pain if attacked. 
  <p class="updated_time"> 04:16 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Suspected ICBM and Two Other Ballistic Missiles</a> NYT: The tests came just as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
- <p class="updated_time"> 05:48 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/canada/quebec-language-bill-96.html">Law Requiring French in Quebec Becomes Stricter</a> NYT: Quebec’s new law limits access to government services in languages other than French, requires small businesses to operate in it and caps enrollment at English-language junior colleges. 
 
 
 </details>
@@ -210,8 +208,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:55 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/us/politics/border-patrol-uvalde.html">Border Patrol Unit Has Played High-Profile Role Before Uvalde</a> NYT: One of the unit’s sharpshooters killed the gunman at Robb Elementary School; its members have Special Forces-type training and often target smuggling operations. 
  <p class="updated_time"> 05:41 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/us/politics/meet-the-reclusive-software-billionaire-attacking-elon-musk.html">Meet the Reclusive Software Billionaire Attacking Elon Musk</a> NYT: Dan O’Dowd, a software entrepreneur in California, is running for Senate on a single-issue platform: Tesla’s self-driving software. 
+ <a href="https://www.nytimes.com/2022/05/27/us/politics/california-senate-candidate-odowd-musk.html">Meet the Reclusive Software Billionaire Attacking Elon Musk</a> NYT: Dan O’Dowd, a software entrepreneur in California, is running for Senate on a single-issue platform: Tesla’s self-driving software. 
  <p class="updated_time"> 04:20 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101841769/former-army-reservist-and-alleged-white-supremacist-found-guilty-in-capitol-riot">Former Army Reservist and alleged white supremacist found guilty in Capitol riot trial</a> NPR: A jury found Timothy Hale-Cusanelli guilty for breaching the U.S. Capitol on Jan. 6, 2021. The trial included dramatic testimony secretly recorded by Hale-Cusanelli's former roommate. 
  <p class="updated_time"> 04:11 PM CT, May. 27 </p> 
@@ -348,8 +348,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/26/senate-gop-domestic-terrorism-bill-00035240">Senate GOP blocks domestic terrorism bill as gun debate heats up</a> Politico: A nearly identical version of the legislation that failed Thursday passed the House with no Republican objections two years ago. 
  <p class="updated_time"> 07:57 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/us/politics/gun-control-timeline.html">A Timeline of Failed Attempts to Address U.S. Gun Violence</a> NYT: Time after time for more than a decade, Democrats in Congress have proposed gun restrictions and faced unyielding Republican opposition. 
- <p class="updated_time"> 07:36 PM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/25/us/politics/biden-texas-shooting.html">Biden Calls for Action After Texas Shooting, but Faces Limits of His Power</a> NYT: White House officials said the president was under no illusions that the Senate would pass gun safety legislation given continued opposition by Republicans. 
  <p class="updated_time"> 07:08 PM CT, May. 25 </p> 
  <a href="https://www.politico.com/news/2022/05/25/oklahoma-strictest-abortion-ban-stitt-00035302">Oklahoma governor signs nation’s strictest abortion ban</a> Politico: The law takes effect immediately upon Gov. Kevin Stitt’s signature and prohibits all abortions with few exceptions. 
  <p class="updated_time"> 05:51 PM CT, May. 25 </p> 
