@@ -9,8 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:24 PM CT, May. 27 </p> 
+ <p class="updated_time"> 03:57 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/arts/music/abba-voyage-london.html">Abba Returns to the Stage in London. Sort Of.</a> NYT: The Swedish superstars — or digital versions of them, at least — performed on Thursday to 3,000 enthusiastic fans with the help of 140 animators, four body doubles and $175 million. 
+ <p class="updated_time"> 03:55 PM CT, May. 27 </p> 
+ <a href="https://www.npr.org/2022/05/27/1101837145/ukrainian-soldiers-say-theyre-outgunned-as-russia-gains-ground-in-the-donbas">Ukrainian soldiers say they're outgunned as Russia gains ground in the Donbas</a> NPR: The war in Ukraine is now centered in the eastern Donbas region. On Friday, Russian forces appeared to have taken control of the strategic town of Lyman. 
+ <p class="updated_time"> 03:45 PM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61611925?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: In the face of tragedy, a Texas town turns to prayer</a> BBC: Many in Uvalde say they feel lost after the school massacre, but their faith is a source of strength. 
+ <p class="updated_time"> 03:45 PM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61548490?at_medium=RSS&at_campaign=KARANGA">Iran building collapse death toll jumps to 26</a> BBC: A search and rescue operation is continuing days after the 10-storey building fell down. 
+ <p class="updated_time"> 03:40 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Russian Attacks Intensify, Along With Accusations of Genocide</a> NYT: Russian forces seized Lyman, the second small city to fall this week, and moved closer to encircling Sievierodonetsk. A new report by legal and rights experts cited a “genocidal pattern” by Russia, and President Biden said Putin was trying to “eliminate a culture” in Ukraine. 
+ <p class="updated_time"> 03:37 PM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61613177?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas shooting response was 'wrong', says official</a> BBC: "If I thought it would help, I would apologise," state safety chief says at heated press conference. 
+ <p class="updated_time"> 03:33 PM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-61612599?at_medium=RSS&at_campaign=KARANGA">Japan opens up to foreign tourists after two years</a> BBC: Visitors from 98 countries will be allowed to enter, but some restrictions still remain. 
  <p class="updated_time"> 03:24 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/russian-fighting-for-ukraine.html">A Putin Opponent From Russia Leads Fighters Against His Home Country</a> NYT: “The hottest place to fight against the regime was in Ukraine,” says a unit commander who has been a volunteer soldier for his adopted country on and off since 2015. 
  <p class="updated_time"> 03:09 PM CT, May. 27 </p> 
@@ -21,40 +33,34 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/27/1101758096/colombia-presidential-election">Colombia goes into elections Sunday with a leftist looking to make history</a> NPR: Colombia's presidential election is Sunday, and for the first time, a leftist candidate is favored to come out ahead. Business elites are nervous. 
  <p class="updated_time"> 03:02 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/italy-bishops-clerical-abuse.html">Italian Bishops to Examine Clerical Abuse, but Only to a Point</a> NYT: The Italian Bishops’ Conference on Friday presented its plan to investigate clerical abuse, but critics say it is insufficient and disappointing. 
+ <p class="updated_time"> 03:00 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 02:54 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/margot-heuman-dead.html">Margot Heuman, Who Bore Witness to the Holocaust as a Gay Woman, Dies at 94</a> NYT: She was a rare survivor who spoke — in recent years — of her same-sex relationship in the concentration camps, and how it sustained her. 
- <p class="updated_time"> 02:40 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/arts/music/abba-voyage-london.html">Abba Returns to the Stage in London. Sort Of.</a> NYT: The Swedish superstars — or digital versions of them, at least — performed on Thursday to 3,000 enthusiastic fans with the help of 140 animators, four body doubles and $175 million. 
  <p class="updated_time"> 02:34 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61610831?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Donbas town falls as ex-reporter urges Russians to turn off TV</a> BBC: There has been intense fighting in Lyman and Kyiv says pro-Russian forces control most of the city. 
  <p class="updated_time"> 02:28 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iraqi-parliament-anti-normalization-israel.html">Iraqi Parliament Expands Law Against Normalizing Ties With Israel</a> NYT: The legislation, based on a similar law dating back to 1969, makes it a crime punishable by death. It makes Iraq an outlier in the Arab world, where more countries are forging diplomatic relations with Israel. 
- <p class="updated_time"> 02:27 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 02:21 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61610470?at_medium=RSS&at_campaign=KARANGA">Johnny Depp: Jury deliberations begin in Amber Heard defamation trial</a> BBC: The high profile celebrity defamation case comes to a close six weeks after it began. 
- <p class="updated_time"> 01:59 PM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61613177?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas shooting response was 'wrong', says official</a> BBC: "If I thought it would help, I would apologise," state safety chief says at heated press conference. 
+ <p class="updated_time"> 02:00 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/summits-involving-the-u-s-and-russia-are-getting-awkward-11653656400">Summits Involving the U.S. and Russia Are Getting Awkward</a> WSJ: Summits Involving the U.S. and Russia Are Getting Awkward 
  <p class="updated_time"> 01:34 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-seizes-greek-tankers.html">Iran Seizes Two Greek Tankers in Persian Gulf</a> NYT: Tensions remain high between Iran and the West over its tattered nuclear deal with world powers, as Tehran enriches more uranium. 
- <p class="updated_time"> 01:27 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/summits-involving-the-u-s-and-russia-are-getting-awkward-11653656400">Summits Involving the U.S. and Russia Are Getting Awkward</a> WSJ: Summits Involving the U.S. and Russia Are Getting Awkward 
- <p class="updated_time"> 12:27 PM CT, May. 27 </p> 
+ <p class="updated_time"> 01:00 PM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
+ <p class="updated_time"> 12:00 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
  <p class="updated_time"> 11:36 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/middleeast/iran-israel-killing-khodayee.html">Israel Tells U.S. It Killed Iranian Officer, Official Says</a> NYT: Israeli officials say the officer, Sayad Khodayee, was a leader of a covert unit tasked with abductions and killings of Israelis and other foreigners around the world. Iran does not acknowledge that the unit exists. 
  <p class="updated_time"> 11:29 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-drone-attack.html">Sensitive Iranian Military Site Was Targeted in Attack</a> NYT: A drone exploded at a structure in the Parchin military technology complex on Wednesday. The attack fit a pattern of past Israeli strikes on Iran. 
- <p class="updated_time"> 11:27 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
+ <p class="updated_time"> 11:00 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-k-s-johnson-emerges-from-lockdown-scandals-to-face-economic-woes-11653676185">U.K.’s Johnson Emerges From Lockdown Scandals to Face Economic Woes</a> WSJ: U.K.’s Johnson Emerges From Lockdown Scandals to Face Economic Woes 
  <p class="updated_time"> 11:00 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/science/russian-academy-science-ukraine.html">Russian Academics Aim to Punish Colleagues Who Backed Ukraine Invasion</a> NYT: A campaign is circulating a list of dozens of researchers in the hopes they will be denied the prestige of election into the Russian Academy of Sciences. 
  <p class="updated_time"> 10:33 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/asia/india-prostitution-rights.html">India’s Supreme Court Orders Police to Respect Prostitutes’ Rights</a> NYT: Though sex work is legal in the country, those who practice it often endure harassment and abuse. The justices urged the authorities to employ a more nuanced and humane approach. 
- <p class="updated_time"> 10:27 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/u-k-s-johnson-emerges-from-lockdown-scandals-to-face-economic-woes-11653676185">U.K.’s Johnson Emerges From Lockdown Scandals to Face Economic Woes</a> WSJ: U.K.’s Johnson Emerges From Lockdown Scandals to Face Economic Woes 
- <p class="updated_time"> 10:08 AM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61548490?at_medium=RSS&at_campaign=KARANGA">Iran building collapse death toll jumps to 24</a> BBC: A search and rescue operation is continuing days after the 10-storey building fell down. 
  <p class="updated_time"> 10:03 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/ukraine-mine-detection.html">Displaced Ukrainians Learn to Detect Mines.</a> NYT: Courses in western Ukraine, meant for volunteer defenders, are now open to Ukrainian civilians whose villages have been blighted by war. 
  <p class="updated_time"> 09:55 AM CT, May. 27 </p> 
@@ -69,6 +75,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61610162?at_medium=RSS&at_campaign=KARANGA">Drought's devastating toll on Somalia's children</a> BBC: The United Nations is warning that the country risks famine should global food prices continue to rise. 
  <p class="updated_time"> 07:38 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/27/1099739656/do-restrictive-abortion-laws-actually-reduce-abortion-a-global-map-offers-insigh">Do restrictive abortion laws actually reduce abortion? A global map offers insights</a> NPR: Click to see how restrictive or liberal local abortion laws are — and to look at the rate of abortion. The data offers a sense of whether stricter abortion laws reduce the number of abortions. 
+ <p class="updated_time"> 07:19 AM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61562545?at_medium=RSS&at_campaign=KARANGA">Palestinian report says Israel deliberately killed Al Jazeera's Shireen Abu Aqla</a> BBC: Their investigation finds a soldier intentionally shot Shireen Abu Aqla, but Israel calls it a lie. 
  <p class="updated_time"> 06:36 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61606488?at_medium=RSS&at_campaign=KARANGA">'Switch off the TV': Former Russian-state journalist's plea to Russians</a> BBC: Zhanna Agalakova quit her job in March over the invasion of Ukraine and is now in hiding. 
  <p class="updated_time"> 06:27 AM CT, May. 27 </p> 
@@ -85,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61591614?at_medium=RSS&at_campaign=KARANGA">EU's awkward summit: Don't mention Russian oil ban</a> BBC: The EU's latest sanctions are held up by infighting, but a summit on Monday is unlikely to solve it. 
  <p class="updated_time"> 03:18 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/europe/russia-economy-sanctions.html">Russia’s Isolated Economy Is Leading to Scarcity</a> NYT: With soaring prices and shortages of basic goods, the Russian people and businesses large and small are feeling the pinch. 
- <p class="updated_time"> 03:16 AM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61602547?at_medium=RSS&at_campaign=KARANGA">Biloela family: Australia frees asylum seekers after public outcry</a> BBC: The Tamil asylum seekers had been detained since 2018 - a move that infuriated their Queensland town. 
  <p class="updated_time"> 03:05 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61561452?at_medium=RSS&at_campaign=KARANGA">Geetanjali Shree is first Indian winner of International Booker Prize</a> BBC: The prize's judges say Geetanjali Shree's Tomb of Sand is a "luminous novel of India and partition". 
  <p class="updated_time"> 02:48 AM CT, May. 27 </p> 
@@ -94,15 +100,13 @@ webappicon: /plots/news.png
  <p class="updated_time"> 02:19 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/europe/johnson-britain-inflation-energy-tax.html">Johnson Takes Aim at Next Big Political Threat: Soaring Prices in U.K.</a> NYT: Prime Minister Boris Johnson, under pressure over a scathing report on lockdown parties in Downing Street and with his party trailing in opinion polls, unveiled an aid package Thursday. 
  <p class="updated_time"> 02:09 AM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-61603746?at_medium=RSS&at_campaign=KARANGA">Sydney wakes up to thick blanket of fog</a> BBC: Iconic landmarks like the Sydney Harbour Bridge were shrouded from view and ferry services were cancelled. 
+ <a href="https://www.bbc.co.uk/news/world-australia-61603746?at_medium=RSS&at_campaign=KARANGA">Sydney covered by a thick blanket of fog</a> BBC: Iconic landmarks like the Sydney Harbour Bridge were shrouded from view and ferry services were cancelled. 
  <p class="updated_time"> 02:05 AM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/israels-work-permits-for-gazans-help-deter-war-with-hamas-for-now-11653649530">Israeli Work Permits for Gazans Help Deter War With Hamas for Now</a> WSJ: An Israeli nationalist march through Arab neighborhoods in Jerusalem on Sunday could put Israel’s strategy of work permits for peace to the test. 
  <p class="updated_time"> 02:00 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/climate/republicans-blackrock-climate.html">How an Organized Republican Effort Punishes Companies for Climate Action</a> NYT: Legislators and their allies are running an aggressive campaign that uses public money and the law to pressure businesses they say are pushing “woke” causes. 
  <p class="updated_time"> 12:43 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101698700/11-babies-die-in-a-fire-at-senegalese-hospital">11 babies die in a fire at a Senegalese hospital</a> NPR: The deadly fire comes a year after four other newborns died in a hospital fire in Senegal, a nation known for having some of the best hospitals in the region. 
- <p class="updated_time"> 11:31 PM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61601669?at_medium=RSS&at_campaign=KARANGA">Brazilian man allegedly gassed to death in police car boot</a> BBC: Genivaldo de Jesus Santos was stopped in the street by highway police in the city of Umbaúba on Wednesday. 
  <p class="updated_time"> 11:16 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/australia/pacific-islands-china-united-states.html">Why You’re Hearing More About the Pacific Islands</a> NYT: The United States and Australia are in a contest for influence with China across the region. And it’s intensifying. 
  <p class="updated_time"> 11:05 PM CT, May. 26 </p> 
@@ -111,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/health/monkeypox-vaccine-immunity.html">Who Is Protected Against Monkeypox?</a> NYT: Older people who received smallpox vaccinations may yet have some immunity, researchers say. Healthy children and adults generally do not become severely ill. 
  <p class="updated_time"> 10:59 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/americas/colombia-presidential-election-gustavo-petro.html">Colombia Election: Angry, Mobilized and Voting for Gustavo Petro</a> NYT: A large and loud youth electorate hungry to transform one of Latin America’s most unequal societies could propel Gustavo Petro, a former rebel, to the presidency. 
- <p class="updated_time"> 10:04 PM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61569655?at_medium=RSS&at_campaign=KARANGA">Texas school shooting: Husband of killed teacher 'dies of grief'</a> BBC: Joe Garcia reportedly dies of a heart attack two days after his wife was shot at Robb Elementary. 
  <p class="updated_time"> 07:45 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61482305?at_medium=RSS&at_campaign=KARANGA">What weapons are being given to Ukraine by the UK?</a> BBC: The government is spending £1.3bn on military support, so how much of a difference is it making? 
  <p class="updated_time"> 06:54 PM CT, May. 26 </p> 
@@ -125,8 +127,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/technology-61588608?at_medium=RSS&at_campaign=KARANGA">The 22-year-old 3D-printing schools</a> BBC: Maggie Grout has started an NGO that will 3D-print schools where access to education is not guaranteed. 
  <p class="updated_time"> 05:18 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/russia-ukraine-donbas.html">A Doomed River Crossing Shows the Perils of Entrapment in the War’s East</a> NYT: Encirclement is a tactic used by both sides in the war between Russia and Ukraine, but it can carry big risks. 
- <p class="updated_time"> 04:45 PM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61597992?at_medium=RSS&at_campaign=KARANGA">Depeche Mode keyboardist Andy Fletcher dies</a> BBC: The band say they are "shocked and filled with overwhelming sadness" in a statement on social media. 
  <p class="updated_time"> 04:24 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/arts/international-booker-winner-tomb-of-sand.html">‘Tomb of Sand’ Wins International Booker Prize, a First for a Hindi Novel</a> NYT: “Tomb of Sand,” written by Geetanjali Shree and translated by Daisy Rockwell, won despite getting little previous attention from reviewers. 
  <p class="updated_time"> 04:16 PM CT, May. 26 </p> 
@@ -145,6 +145,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/world/middleeast/israel-shireen-abu-akleh.html">Palestinian Inquiry Accuses Israel of Intentionally Killing Al Jazeera Journalist</a> NYT: The Palestinian Authority reported its final findings from a two-week investigation into the killing of the journalist Shireen Abu Akleh. Israel said it was still conducting its own inquiry. 
  <p class="updated_time"> 01:08 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61599932?at_medium=RSS&at_campaign=KARANGA">Russian mum's fight to save sons from Putin's war</a> BBC: Marina had no idea when her sons were conscripted that they would be part of an invasion of Ukraine. 
+ <p class="updated_time"> 12:51 PM CT, May. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61600593?at_medium=RSS&at_campaign=KARANGA">Abba: All four members of the Swedish band reunite ahead of Voyage concert</a> BBC: All four members of the Swedish band have reunited on the red carpet ahead of Voyage concert. 
  <p class="updated_time"> 09:15 AM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61579600?at_medium=RSS&at_campaign=KARANGA">Texas shooting victims: 'They were sweet kids and lovable'</a> BBC: Keen sports players, A students and dancers are among the children killed in Tuesday's shooting. 
  <p class="updated_time"> 08:30 AM CT, May. 26 </p> 
@@ -175,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/americas/2nd-amendment-gun-laws.html">In the U.S., Backlash to Civil Rights Era Made Guns a Political Third Rail</a> NYT: Other countries changed course after massacres. But American political protection for guns is unique, and has become inseparable from conservative credentials. 
  <p class="updated_time"> 07:01 PM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61554325?at_medium=RSS&at_campaign=KARANGA">Nigeria's kidnapping crisis: Should ransom payments be banned?</a> BBC: Businessman Lawal Ado has paid ransoms three times and says there is no other option. 
- <p class="updated_time"> 04:14 PM CT, May. 25 </p> 
- <a href="https://www.npr.org/2022/05/25/1101307744/as-human-rights-official-visits-xinjiang-data-hack-appears-to-show-persecution-t">As human rights official visits Xinjiang, data hack appears to show persecution there</a> NPR: The UN's top official for human rights, Michelle Bachelet, is in China this week and will visit the western region of Xinjiang, where Beijing has been accused of genocide and crimes against humanity. 
  <p class="updated_time"> 03:29 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/business/e-gerald-corrigan-dead.html">E. Gerald Corrigan, Who Helped Ease ’87 Stock Crash, Dies at 80</a> NYT: As president of the Federal Reserve Bank of New York, he favored flooding the financial system with cash to restore confidence among investors. 
  <p class="updated_time"> 02:45 PM CT, May. 25 </p> 
