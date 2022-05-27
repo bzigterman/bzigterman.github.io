@@ -9,38 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:47 AM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61589229?at_medium=RSS&at_campaign=KARANGA">Twitter investor sues Elon Musk and platform over takeover bid</a> BBC: The lawsuit alleges the multi-billionaire's "wrongful conduct" has caused Twitter shares to plunge. 
+ <p class="updated_time"> 02:20 AM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/26/world/russia-ukraine-war">What Happened on Day 92 of the War in Ukraine</a> NYT: Some Western leaders have suggested a territorial compromise between Ukraine and Russia, which Ukraine opposes. Russia shelled central Kharkiv, leaving many dead and wounded, and Ukraine’s agricultural minister warned that global grain shortages were expected this summer. 
+ <p class="updated_time"> 02:19 AM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/world/europe/johnson-britain-inflation-energy-tax.html">Johnson Takes Aim at Next Big Political Threat: Soaring Prices in U.K.</a> NYT: Prime Minister Boris Johnson, under pressure over a scathing report on lockdown parties in Downing Street and with his party trailing in opinion polls, unveiled an aid package Thursday. 
+ <p class="updated_time"> 02:09 AM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-61603746?at_medium=RSS&at_campaign=KARANGA">Sydney wakes up to thick blanket of fog</a> BBC: Iconic landmarks like the Sydney Harbour Bridge were shrouded from view and ferry services were cancelled. 
  <p class="updated_time"> 02:00 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/climate/republicans-blackrock-climate.html">How an Organized Republican Effort Punishes Companies for Climate Action</a> NYT: Legislators and their allies are running an aggressive campaign that uses public money and the law to pressure businesses they say are pushing “woke” causes. 
- <p class="updated_time"> 01:10 AM CT, May. 27 </p> 
+ <p class="updated_time"> 01:59 AM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
+ <p class="updated_time"> 12:59 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
  <p class="updated_time"> 12:47 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61600914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas school gunman 'walked in unobstructed'</a> BBC: No guard challenged the attacker and it is unclear if the school door was even locked. 
  <p class="updated_time"> 12:43 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101698700/11-babies-die-in-a-fire-at-senegalese-hospital">11 babies die in a fire at a Senegalese hospital</a> NPR: The deadly fire comes a year after four other newborns died in a hospital fire in Senegal, a nation known for having some of the best hospitals in the region. 
- <p class="updated_time"> 12:42 AM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/05/26/world/russia-ukraine-war">What Happened on Day 92 of the War in Ukraine</a> NYT: Some Western leaders have suggested a territorial compromise between Ukraine and Russia, which Ukraine opposes. Russia shelled central Kharkiv, leaving many dead and wounded, and Ukraine’s agricultural minister warned that global grain shortages were expected this summer. 
- <p class="updated_time"> 12:10 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
- <p class="updated_time"> 11:45 PM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/business-61589229?at_medium=RSS&at_campaign=KARANGA">Twitter investors sue Elon Musk and platform over takeover bid</a> BBC: The lawsuit alleges the multi-billionaire's "wrongful conduct" has caused Twitter shares to plunge. 
+ <p class="updated_time"> 11:59 PM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China</a> WSJ: Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China 
  <p class="updated_time"> 11:31 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61601669?at_medium=RSS&at_campaign=KARANGA">Brazilian man allegedly gassed to death in police car boot</a> BBC: Genivaldo de Jesus Santos was stopped in the street by highway police in the city of Umbaúba on Wednesday. 
  <p class="updated_time"> 11:16 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/australia/pacific-islands-china-united-states.html">Why You’re Hearing More About the Pacific Islands</a> NYT: The United States and Australia are in a contest for influence with China across the region. And it’s intensifying. 
- <p class="updated_time"> 11:10 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China</a> WSJ: Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China 
  <p class="updated_time"> 11:05 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/china-policy-biden.html">U.S. Aims to Constrain China by Shaping Its Environment, Blinken Says</a> NYT: The U.S. secretary of state gave a glimpse of President Biden’s classified strategy on China, in which officials have concluded they cannot change Beijing’s behavior. 
  <p class="updated_time"> 10:59 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/health/monkeypox-vaccine-immunity.html">Who Is Protected Against Monkeypox?</a> NYT: Older people who received smallpox vaccinations may yet have some immunity, researchers say. Healthy children and adults generally do not become severely ill. 
  <p class="updated_time"> 10:59 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/americas/colombia-presidential-election-gustavo-petro.html">Colombia Election: Angry, Mobilized and Voting for Gustavo Petro</a> NYT: A large and loud youth electorate hungry to transform one of Latin America’s most unequal societies could propel Gustavo Petro, a former rebel, to the presidency. 
- <p class="updated_time"> 10:10 PM CT, May. 26 </p> 
+ <p class="updated_time"> 10:59 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/europes-quest-for-alternatives-to-russian-gas-hits-obstacles-in-middle-east-11653579800">Europe’s Quest for Alternatives to Russian Gas Hits Obstacles</a> WSJ: Europe’s Quest for Alternatives to Russian Gas Hits Obstacles 
  <p class="updated_time"> 10:04 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61569655?at_medium=RSS&at_campaign=KARANGA">Texas school shooting: Husband of killed teacher 'dies of grief'</a> BBC: Joe Garcia reportedly dies of a heart attack two days after his wife was shot at Robb Elementary. 
- <p class="updated_time"> 09:10 PM CT, May. 26 </p> 
+ <p class="updated_time"> 09:59 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Slain Iranian Officer Led Assassination Plots</a> WSJ: Slain Iranian Officer Led Assassination Plots 
+ <p class="updated_time"> 07:45 PM CT, May. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61482305?at_medium=RSS&at_campaign=KARANGA">What weapons are being given to Ukraine by the UK?</a> BBC: The government is spending £1.3bn on military support, so how much of a difference is it making? 
  <p class="updated_time"> 06:54 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
  <p class="updated_time"> 06:54 PM CT, May. 26 </p> 
@@ -57,6 +63,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/europe/russia-ukraine-donbas.html">A Doomed River Crossing Shows the Perils of Entrapment in the War’s East</a> NYT: Encirclement is a tactic used by both sides in the war between Russia and Ukraine, but it can carry big risks. 
  <p class="updated_time"> 05:03 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/europe/russia-economy-sanctions.html">Russia’s Isolated Economy Is Leading to Scarcity</a> NYT: With soaring prices and shortages of basic goods, the Russian people and businesses large and small are feeling the pinch. 
+ <p class="updated_time"> 04:45 PM CT, May. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-61597992?at_medium=RSS&at_campaign=KARANGA">Depeche Mode keyboardist Andy Fletcher dies</a> BBC: The band say they are "shocked and filled with overwhelming sadness" in a statement on social media. 
  <p class="updated_time"> 04:24 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/arts/international-booker-winner-tomb-of-sand.html">‘Tomb of Sand’ Wins International Booker Prize, a First for a Hindi Novel</a> NYT: “Tomb of Sand,” written by Geetanjali Shree and translated by Daisy Rockwell, won despite getting little previous attention from reviewers. 
  <p class="updated_time"> 04:22 PM CT, May. 26 </p> 
@@ -81,12 +89,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61599667?at_medium=RSS&at_campaign=KARANGA">Amber Heard: It's easy to forget I'm a human being</a> BBC: Heard found herself in a tense exchange with Johnny Depp's attorney as the trial nears its end. 
  <p class="updated_time"> 01:08 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61599932?at_medium=RSS&at_campaign=KARANGA">Russian mum's fight to save sons from Putin's war</a> BBC: Marina had no idea when her sons were conscripted that they would be part of an invasion of Ukraine. 
- <p class="updated_time"> 12:59 PM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-61600212?at_medium=RSS&at_campaign=KARANGA">Goodfellas star Ray Liotta dies aged 67</a> BBC: The actor died in his sleep in the Dominican Republic, his publicist confirms. 
  <p class="updated_time"> 12:51 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61600593?at_medium=RSS&at_campaign=KARANGA">Abba: All four members of the Swedish band reunite ahead of Voyage concert</a> BBC: All four members of the Swedish band have reunited on the red carpet ahead of Voyage concert. 
- <p class="updated_time"> 11:10 AM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/world/europe/johnson-britain-inflation-energy-tax.html">Johnson Takes Aim at Next Big Political Threat: Soaring Prices in U.K.</a> NYT: Prime Minister Boris Johnson, under pressure over a scathing report on lockdown parties in Downing Street and with his party trailing in opinion polls, unveiled an aid package Thursday. 
  <p class="updated_time"> 11:09 AM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/israel-deliberately-killed-al-jazeera-journalist-palestinian-probe-concludes-11653595773">Israel Deliberately Killed Al Jazeera Journalist, Palestinian Probe Concludes</a> WSJ: Shireen Abu Akleh was killed as she covered an Israeli raid in the West Bank this month, and Israel’s defense minister immediately denied the conclusion announced Thursday by the Palestinian Authority. 
  <p class="updated_time"> 10:39 AM CT, May. 26 </p> 
@@ -179,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/europe/henry-kissinger-ukraine-russia-davos.html">Henry Kissinger Suggests Ukraine Give Up Territory to Russia</a> NYT: The former secretary of state argued that ceding land could bring an end to the war. Critics called the idea reckless and unrealistic. 
  <p class="updated_time"> 02:30 AM CT, May. 25 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61510336?at_medium=RSS&at_campaign=KARANGA">Goldman Prize: The activists who battled mining with drones</a> BBC: Alex Lucitante and Alexandra Narváez led their indigenous group's fight against mining on their land. 
- <p class="updated_time"> 01:59 AM CT, May. 25 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61576574?at_medium=RSS&at_campaign=KARANGA">NBA Warriors coach on Texas school shooting: 'When are we going to do something?'</a> BBC: Golden State Warriors' Steve Kerr condemns gun violence and refuses to answer basketball questions. 
  <p class="updated_time"> 10:14 PM CT, May. 24 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-mayor-killed.html">Ukraine Charges 8 Russian Fighters in Killings of Village Mayor and Family </a> NYT: The bodies of the mayor, her husband and her son were found after Russian forces retreated in early April. 
  <p class="updated_time"> 05:48 PM CT, May. 24 </p> 
@@ -204,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:20 AM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/us/politics/zelensky-ukraine-war.html">How Does It End? Fissures Emerge Over What Constitutes Victory in Ukraine</a> NYT: Differing objectives foreshadow a coming debate about what position President Volodymyr Zelensky of Ukraine and his Western allies would take if negotiations to end the conflict finally get going. 
  <p class="updated_time"> 11:05 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/china-policy-biden.html">U.S. Aims to Constrain China by Shaping Its Environment, Blinken Says</a> NYT: The U.S. secretary of state gave a glimpse of President Biden’s classified strategy on China, in which officials have concluded they cannot change Beijing’s behavior. 
  <p class="updated_time"> 10:08 PM CT, May. 26 </p> 
@@ -212,8 +216,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/26/eastman-said-dueling-electors-were-dead-on-arrival-without-state-legislature-backing-00035634">Eastman said dueling electors were ‘dead on arrival’ without state legislature backing</a> Politico: Yet the Trump attorney pressed Pence to consider them anyway, new emails reveal. 
  <p class="updated_time"> 07:31 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/senate-guns-bipartisan-deal.html">Senators Grasp for a Bipartisan Gun Deal, Facing Long Odds</a> NYT: A group of Republicans and Democrats have begun an urgent set of talks aimed at reaching an elusive compromise on new gun laws. After a decade of failure, can this time be different? 
- <p class="updated_time"> 07:24 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/us/politics/zelensky-ukraine-war.html">How Does It End? Fissures Emerge Over What Constitutes Victory in Ukraine</a> NYT: Differing objectives foreshadow a coming debate about what position President Volodymyr Zelensky of Ukraine and his Western allies would take if negotiations to end the conflict finally get going. 
  <p class="updated_time"> 06:29 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/paxlovid-white-house-covid-deaths.html">White House Pushes to Get Paxlovid to More Covid Patients</a> NYT: “What we’re trying to do is get to a point where Covid deaths are largely preventable, and I think we’re pretty close to there,” the White House Covid-19 response coordinator said. 
  <p class="updated_time"> 06:28 PM CT, May. 26 </p> 
