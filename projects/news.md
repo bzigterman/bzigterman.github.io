@@ -9,32 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:24 AM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Destruction in Ukraine’s East as Civilian Toll Rises</a> NYT: Russian forces’ capturing of Lyman made it the second midsize Ukrainian city to change hands this week. As civilian deaths and suffering mounted, a new report by international legal scholars and rights experts cited a “genocidal pattern” by Russia’s military. 
+ <p class="updated_time"> 09:09 AM CT, May. 27 </p> 
+ <a href="https://www.npr.org/2022/05/27/1101720943/former-president-of-louvre-faces-charges-linked-to-alleged-antiquities-smuggling">The former head of the Louvre faces charges linked to alleged antiquities smuggling</a> NPR: Police have charged Jean-Luc Martinez with "complicity in organized fraud" and money laundering, according to the Paris prosecutors' office. 
  <p class="updated_time"> 09:03 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61604652?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas police change key details as criticism mounts</a> BBC: Questions remain over why officers took more than an hour to storm the school and stop the attack. 
  <p class="updated_time"> 09:00 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/david-kertzer-vatican-pius-xii.html">Deep in Vatican Archives, Scholar Discovers ‘Flabbergasting’ Secrets</a> NYT: David Kertzer has spent decades excavating the Vatican’s hidden history, with his work winning a Pulitzer and capturing Hollywood’s attention. A new book examines Pope Pius XII’s role in the Holocaust. 
  <p class="updated_time"> 08:58 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61610162?at_medium=RSS&at_campaign=KARANGA">Drought's devastating toll on Somalia's children</a> BBC: The United Nations is warning that the country risks famine should global food prices continue to rise. 
- <p class="updated_time"> 08:55 AM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Destruction in Ukraine’s East as Civilian Toll Rises</a> NYT: Russian forces’ capturing of Lyman made it the second midsize Ukrainian city to change hands this week. As civilian deaths and suffering mounted, a new report by international legal scholars and rights experts cited a “genocidal pattern” by Russia’s military. 
- <p class="updated_time"> 08:08 AM CT, May. 27 </p> 
+ <p class="updated_time"> 08:29 AM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 07:38 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/27/1099739656/do-restrictive-abortion-laws-actually-reduce-abortion-a-global-map-offers-insigh">Do restrictive abortion laws actually reduce abortion? A global map offers insights</a> NPR: Click to see how restrictive or liberal local abortion laws are — and to look at the rate of abortion. The data offers a sense of whether stricter abortion laws reduce the number of abortions. 
- <p class="updated_time"> 07:08 AM CT, May. 27 </p> 
+ <p class="updated_time"> 07:29 AM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/israels-work-permits-for-gazans-help-deter-war-with-hamas-for-now-11653649530">Israeli Work Permits for Gazans Help Deter War With Hamas for Now</a> WSJ: Israeli Work Permits for Gazans Help Deter War With Hamas for Now 
  <p class="updated_time"> 06:36 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61606488?at_medium=RSS&at_campaign=KARANGA">'Switch off the TV': Former Russian-state journalist's plea to Russians</a> BBC: Zhanna Agalakova quit her job in March over the invasion of Ukraine and is now in hiding. 
+ <p class="updated_time"> 06:29 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/how-the-u-s-and-south-korea-predict-a-north-korean-weapons-test-11653640572">How the U.S. and South Korea Predict a North Korean Weapons Test</a> WSJ: How the U.S. and South Korea Predict a North Korean Weapons Test 
  <p class="updated_time"> 06:27 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-58924630?at_medium=RSS&at_campaign=KARANGA">How ex-Gambia President Yahya Jammeh's US mansion was seized</a> BBC: The US says the money raised by selling Yahya Jammeh's luxury home will be used to help his victims. 
- <p class="updated_time"> 06:08 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/how-the-u-s-and-south-korea-predict-a-north-korean-weapons-test-11653640572">How the U.S. and South Korea Predict a North Korean Weapons Test</a> WSJ: How the U.S. and South Korea Predict a North Korean Weapons Test 
- <p class="updated_time"> 05:08 AM CT, May. 27 </p> 
+ <p class="updated_time"> 05:29 AM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/china-excels-in-google-rankings-on-xinjiang-and-covid-19-searches-11653645601">China Excels in Google Rankings on Xinjiang and Covid-19 Searches</a> WSJ: China Excels in Google Rankings on Xinjiang and Covid-19 Searches 
+ <p class="updated_time"> 05:18 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/fiji-to-join-bidens-asian-economic-platform-as-pacific-competition-intensifies-11653632348">Fiji to Join Biden's Asian Economic Platform as Pacific Competition Intensifies</a> WSJ: The Indo-Pacific Economic Framework expanded to 14 founding members after the U.S. said Fiji had agreed to join, a move that comes on the eve of a visit to the nation by Beijing’s top diplomat. 
  <p class="updated_time"> 04:08 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61548614?at_medium=RSS&at_campaign=KARANGA">Aryan Khan: Drug charges dropped against Shah Rukh Khan's son</a> BBC: The anti-drug agency cleared Aryan Khan in the case, saying "no drugs have been found" on him. 
- <p class="updated_time"> 04:08 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/fiji-to-join-bidens-asian-economic-platform-as-pacific-competition-intensifies-11653632348">Fiji to Join Biden’s Asian Economic Platform as Pacific Competition Intensifies</a> WSJ: Fiji to Join Biden’s Asian Economic Platform as Pacific Competition Intensifies 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101198630/hace-40-anos-la-guerra-malvinas-falkland-transformo-el-rock-latino">Hace 40 años, la Guerra Malvinas-Falkland transformó el rock latino</a> NPR: Cuando se prohibió la transmisión de música en inglés en 1982, los grupos de rock argentino encontraron una oportunidad. 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
@@ -167,8 +169,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/25/1101256376/leaders-reaction-to-uvalde-school-shooting-texas-zelenskyy-pope-trudeau">How world leaders are reacting to the Uvalde school shooting</a> NPR: Officials around the world are responding to the school shooting in Uvalde, Texas, the deadliest such incident to take place in the U.S. in nearly a decade. 
  <p class="updated_time"> 11:13 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/climate/corporate-climate-pledges-davos.html">Corporations Pledge to Buy ‘Green’ at Davos Gathering</a> NYT: A global buyers’ club of more than 50 companies, including Microsoft and Ford Motor, say they will buy “green” steel, aluminum and other commodities by 2030. 
- <p class="updated_time"> 11:02 AM CT, May. 25 </p> 
- <a href="https://www.npr.org/2022/05/25/1101166542/war-hacks-how-outgunned-ukraine-finds-ways-to-counter-russia">War hacks: How outgunned Ukraine finds ways to counter Russia</a> NPR: To combat Russia's larger military, Ukraine has turned to creative tactics, from low-tech to high-tech. You could call them "war hacks." And many seem to be working. 
  <p class="updated_time"> 10:56 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/migrants-tunisian-coast.html">Dozens of Migrants Die After Boat Sinks Off Tunisian Coast</a> NYT: The vessel carried about 100 people and had left from a Libyan port city. 
  <p class="updated_time"> 10:40 AM CT, May. 25 </p> 
@@ -206,10 +206,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:05 AM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/business/energy-environment/gas-prices-summer-driving.html">Gas Prices Hit New Highs as Summer Driving Season Starts</a> NYT: A gallon has jumped by about 50 cents over the last month as Russia’s war in Ukraine has continued to unsettle the global energy market. 
  <p class="updated_time"> 09:00 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/republican-governors-trump-kemp.html">Republican Governors Lose Their Dread of Trump</a> NYT: Gov. Brian Kemp of Georgia just crushed a Trump-backed challenger. Many of his counterparts are also in strong political shape. And some are openly opposing their party’s leader. 
- <p class="updated_time"> 08:53 AM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/business/energy-environment/gas-prices-summer-driving.html">Gas Prices Hit New Highs as Summer Driving Season Starts</a> NYT: A gallon has jumped by about 50 cents over the last month as Russia’s war in Ukraine has continued to unsettle the global energy market. 
  <p class="updated_time"> 08:17 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/business/economy/pce-inflation-april.html">Inflation moderated in April but was still close to its highest level in 40 years.</a> NYT: An index closely followed by economists and investors climbed 6.3 percent last month from a year ago. 
  <p class="updated_time"> 06:37 AM CT, May. 27 </p> 
@@ -232,6 +232,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/27/sinema-manchins-filibuster-defense-pressures-on-gop-on-guns-00035543">The GOP's two favorite Dems try to turn their cred into a guns deal</a> Politico: Sens. Joe Manchin (D-W.Va.) and Kyrsten Sinema (D-Ariz.) have cut a huge infrastructure deal with Republicans and helped preserve the filibuster. Can that give them bipartisan progress on the thorniest of issues? 
  <p class="updated_time"> 02:20 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/zelensky-ukraine-war.html">How Does It End? Fissures Emerge Over What Constitutes Victory in Ukraine</a> NYT: Differing objectives foreshadow a coming debate about what position President Volodymyr Zelensky of Ukraine and his Western allies would take if negotiations to end the conflict finally get going. 
+ <p class="updated_time"> 12:09 AM CT, May. 27 </p> 
+ <a href="https://www.npr.org/2022/05/27/1101693246/ted-cruz-walks-off-reporter-uvalde-texas-school-shooting">Ted Cruz walks away from a reporter who asked why the U.S. has so many mass shootings</a> NPR: "Is this the moment to reform gun laws?" British reporter Mark Stone from Sky News asked the U.S. senator. 
  <p class="updated_time"> 11:05 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/china-policy-biden.html">U.S. Aims to Constrain China by Shaping Its Environment, Blinken Says</a> NYT: The U.S. secretary of state gave a glimpse of President Biden’s classified strategy on China, in which officials have concluded they cannot change Beijing’s behavior. 
  <p class="updated_time"> 07:31 PM CT, May. 26 </p> 
@@ -294,8 +296,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/25/1101283771/sen-murphy-tries-to-get-talks-going-on-limited-gun-measures-after-texas-shooting">Sen. Murphy tries to get talks going on limited gun measures after Texas shooting</a> NPR: Even as some lawmakers say it's "nuts" not to take action, any measure faces exceedingly slim odds of passing in the 50-50 Senate. 
  <p class="updated_time"> 04:14 PM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101307685/2-house-subcommittees-are-trying-to-get-answers-about-the-baby-formula-shortage">2 House subcommittees are trying to get answers about the baby formula shortage</a> NPR: Two House subcommittees are holding hearings on the baby formula crisis. One will focus on the Food and Drug Administration and the formula makers. The other will look at the effects of the shortage. 
- <p class="updated_time"> 03:55 PM CT, May. 25 </p> 
- <a href="https://www.npr.org/2022/05/25/1101289242/russia-ukraine-war-what-happened-today-may-25">Russia-Ukraine war: What happened today (May 25)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
  <p class="updated_time"> 02:16 PM CT, May. 25 </p> 
  <a href="https://www.politico.com/news/2022/05/25/federal-tax-receipts-boom-powered-by-inflation-00035177">Federal tax receipts boom, powered by inflation</a> Politico: CBO says receipts this year will be highest since 2000, when dot-com bubble drove a big revenue increase. 
  <p class="updated_time"> 12:35 PM CT, May. 25 </p> 
