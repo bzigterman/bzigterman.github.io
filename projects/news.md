@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:51 AM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/world/asia/pakistan-fuel-price-crisis.html">Pakistan Raises Fuel Prices in Effort to Stabilize Economy</a> NYT: The interim government’s move was seen as a bid to revive a $6 billion bailout from the International Monetary Fund. 
  <p class="updated_time"> 09:44 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Russia Advances in Ukraine’s East as Civilian Toll Rises</a> NYT: Russian forces seized Lyman, the second small city to fall this week, and moved closer to encircling Sievierodonetsk. A new report by legal and rights experts cited a “genocidal pattern” by Russia. 
  <p class="updated_time"> 09:35 AM CT, May. 27 </p> 
@@ -23,19 +25,19 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/27/world/europe/vatican-history-secrets-david-kertzer.html">Deep in Vatican Archives, Scholar Discovers ‘Flabbergasting’ Secrets</a> NYT: David Kertzer has spent decades excavating the Vatican’s hidden history, with his work winning a Pulitzer and capturing Hollywood’s attention. A new book examines Pope Pius XII’s role in the Holocaust. 
  <p class="updated_time"> 08:58 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61610162?at_medium=RSS&at_campaign=KARANGA">Drought's devastating toll on Somalia's children</a> BBC: The United Nations is warning that the country risks famine should global food prices continue to rise. 
- <p class="updated_time"> 08:45 AM CT, May. 27 </p> 
+ <p class="updated_time"> 08:56 AM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
- <p class="updated_time"> 07:45 AM CT, May. 27 </p> 
+ <p class="updated_time"> 07:56 AM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/israels-work-permits-for-gazans-help-deter-war-with-hamas-for-now-11653649530">Israeli Work Permits for Gazans Help Deter War With Hamas for Now</a> WSJ: Israeli Work Permits for Gazans Help Deter War With Hamas for Now 
  <p class="updated_time"> 07:38 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/27/1099739656/do-restrictive-abortion-laws-actually-reduce-abortion-a-global-map-offers-insigh">Do restrictive abortion laws actually reduce abortion? A global map offers insights</a> NPR: Click to see how restrictive or liberal local abortion laws are — and to look at the rate of abortion. The data offers a sense of whether stricter abortion laws reduce the number of abortions. 
- <p class="updated_time"> 06:45 AM CT, May. 27 </p> 
+ <p class="updated_time"> 06:56 AM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/how-the-u-s-and-south-korea-predict-a-north-korean-weapons-test-11653640572">How the U.S. and South Korea Predict a North Korean Weapons Test</a> WSJ: How the U.S. and South Korea Predict a North Korean Weapons Test 
  <p class="updated_time"> 06:36 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61606488?at_medium=RSS&at_campaign=KARANGA">'Switch off the TV': Former Russian-state journalist's plea to Russians</a> BBC: Zhanna Agalakova quit her job in March over the invasion of Ukraine and is now in hiding. 
  <p class="updated_time"> 06:27 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-58924630?at_medium=RSS&at_campaign=KARANGA">How ex-Gambia President Yahya Jammeh's US mansion was seized</a> BBC: The US says the money raised by selling Yahya Jammeh's luxury home will be used to help his victims. 
- <p class="updated_time"> 05:45 AM CT, May. 27 </p> 
+ <p class="updated_time"> 05:56 AM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/china-excels-in-google-rankings-on-xinjiang-and-covid-19-searches-11653645601">China Excels in Google Rankings on Xinjiang and Covid-19 Searches</a> WSJ: China Excels in Google Rankings on Xinjiang and Covid-19 Searches 
  <p class="updated_time"> 05:18 AM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/fiji-to-join-bidens-asian-economic-platform-as-pacific-competition-intensifies-11653632348">Fiji to Join Biden's Asian Economic Platform as Pacific Competition Intensifies</a> WSJ: The Indo-Pacific Economic Framework expanded to 14 founding members after the U.S. said Fiji had agreed to join, a move that comes on the eve of a visit to the nation by Beijing’s top diplomat. 
@@ -197,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/24/us/politics/russian-debt-treasury.html">U.S. Will Start Blocking Russia’s Bond Payments to American Investors</a> NYT: The Biden administration’s escalation of sanctions could lead to Russia’s first default on foreign debt in a century. 
  <p class="updated_time"> 04:33 PM CT, May. 24 </p> 
  <a href="https://www.bbc.co.uk/news/world-61570444?at_medium=RSS&at_campaign=KARANGA">Ukraine war: 'This is just the beginning, everything is still to come'</a> BBC: As Russian attacks intensify, Ukrainians are asking whether it's better to pay for a ceasefire with land - or lives. 
- <p class="updated_time"> 03:31 PM CT, May. 24 </p> 
- <a href="https://www.nytimes.com/2022/05/24/us/covid-omicron-cases.html">Omicron Subvariant BA.2.12.1 Becomes Dominant in U.S. Virus Cases</a> NYT: The development comes as the United States recently began averaging more than 100,000 new confirmed cases per day again, according to a New York Times database, for the first time since February. 
 
 
 </details>
