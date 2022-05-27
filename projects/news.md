@@ -9,12 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:47 AM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61600914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas school gunman 'walked in unobstructed'</a> BBC: No guard challenged the attacker and it is unclear if the school door was even locked. 
+ <p class="updated_time"> 12:43 AM CT, May. 27 </p> 
+ <a href="https://www.npr.org/2022/05/27/1101698700/11-babies-die-in-a-fire-at-senegalese-hospital">11 babies die in a fire at Senegalese hospital</a> NPR: The deadly fire comes a year after four other newborns died in a hospital fire in Senegal, a nation known for having some of the best hospitals in the region. 
+ <p class="updated_time"> 12:42 AM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/26/world/russia-ukraine-war">What Happened on Day 92 of the War in Ukraine</a> NYT: Some Western leaders have suggested a territorial compromise between Ukraine and Russia, which Ukraine opposes. Russia shelled central Kharkiv, leaving many dead and wounded, and Ukraine’s agricultural minister warned that global grain shortages were expected this summer. 
+ <p class="updated_time"> 12:25 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
  <p class="updated_time"> 11:31 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61601669?at_medium=RSS&at_campaign=KARANGA">Brazilian man allegedly gassed to death in police car boot</a> BBC: Genivaldo de Jesus Santos was stopped in the street by highway police in the city of Umbaúba on Wednesday. 
- <p class="updated_time"> 11:28 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/live/2022/05/26/world/russia-ukraine-war">Ukraine Live Updates: Economic Pain in Russia, and a Growing Debate on Ending the War</a> NYT: Some Western leaders are suggesting a territorial compromise between Ukraine and Russia, which Ukraine opposes. Russia shells central Kharkiv, leaving many dead and wounded, and Ukraine’s agricultural minister warns that global grain shortages are expected this summer. 
  <p class="updated_time"> 11:25 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
+ <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
  <p class="updated_time"> 11:16 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/australia/pacific-islands-china-united-states.html">Why You’re Hearing More About the Pacific Islands</a> NYT: The United States and Australia are in a contest for influence with China across the region. And it’s intensifying. 
  <p class="updated_time"> 11:05 PM CT, May. 26 </p> 
@@ -24,14 +30,12 @@ webappicon: /plots/news.png
  <p class="updated_time"> 10:59 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/americas/colombia-presidential-election-gustavo-petro.html">Colombia Election: Angry, Mobilized and Voting for Gustavo Petro</a> NYT: A large and loud youth electorate hungry to transform one of Latin America’s most unequal societies could propel Gustavo Petro, a former rebel, to the presidency. 
  <p class="updated_time"> 10:25 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
+ <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China</a> WSJ: Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China 
  <p class="updated_time"> 10:04 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61569655?at_medium=RSS&at_campaign=KARANGA">Texas school shooting: Husband of killed teacher 'dies of grief'</a> BBC: Joe Garcia reportedly dies of a heart attack two days after his wife was shot at Robb Elementary. 
  <p class="updated_time"> 09:25 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China</a> WSJ: Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China 
- <p class="updated_time"> 08:25 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/europes-quest-for-alternatives-to-russian-gas-hits-obstacles-in-middle-east-11653579800">Europe’s Quest for Alternatives to Russian Gas Hits Obstacles</a> WSJ: Europe’s Quest for Alternatives to Russian Gas Hits Obstacles 
- <p class="updated_time"> 07:25 PM CT, May. 26 </p> 
+ <p class="updated_time"> 08:25 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Slain Iranian Officer Led Assassination Plots</a> WSJ: Slain Iranian Officer Led Assassination Plots 
  <p class="updated_time"> 06:54 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
@@ -41,8 +45,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61518171?at_medium=RSS&at_campaign=KARANGA">A peek into the elusive world of Indian courts</a> BBC: The pandemic pushed Indian courts to adapt, making the legal system more accessible. 
  <p class="updated_time"> 06:47 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61516126?at_medium=RSS&at_campaign=KARANGA">Instagram moderators say Iran offered them bribes to remove accounts</a> BBC: Intelligence agents wanted accounts of journalists and activists to be removed, whistleblowers say. 
- <p class="updated_time"> 06:09 PM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61600914?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas school gunman 'walked in unobstructed'</a> BBC: No guard challenged the attacker and it is unclear if the school door was even locked. 
  <p class="updated_time"> 06:08 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61561452?at_medium=RSS&at_campaign=KARANGA">Geetanjali Shree is first Indian winner of International Booker Prize</a> BBC: The prize's judges say Geetanjali Shree's Tomb of Sand is a "luminous novel of India and partition". 
  <p class="updated_time"> 06:01 PM CT, May. 26 </p> 
@@ -161,8 +163,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/25/1100732717/shireen-abu-aklehs-voice-was-the-soundtrack-of-my-childhood-her-legacy-lives-on">Shireen Abu Akleh's voice was the soundtrack of my childhood. Her legacy lives on</a> NPR: As a young Palestinian girl, I copied Abu Akleh's TV sign-off. She was brave and unwavering – a true trailblazer for many other women to follow her path. 
  <p class="updated_time"> 10:22 AM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101203359/ukrainian-president-zelenskyy-offers-condolences-over-uvalde-school-shooting">Ukrainian officials offer their condolences to Uvalde</a> NPR: President Volodymyr Zelenskyy and other Ukrainian leaders took to social media to stand in sympathy and solidarity with a tragedy unfolding across the world. 
- <p class="updated_time"> 10:10 AM CT, May. 25 </p> 
- <a href="https://www.npr.org/2022/05/25/1101196365/boris-johnson-blamed-for-covid-lockdown-parties">A new report blames Boris Johnson for allowing parties during COVID lockdown </a> NPR: The investigative report cited a failure in leadership among the prime minister and other top British officials for allowing boozy government parties that broke lockdown rules. 
  <p class="updated_time"> 06:47 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-food-supply.html">Russia Is Accused of Using Food as ‘Blackmail’ in Ukraine War</a> NYT: World leaders say there is no easy way to bypass a Russian blockade without a military clash, and accuse Vladimir V. Putin of using global hunger as a weapon. 
  <p class="updated_time"> 06:37 AM CT, May. 25 </p> 
