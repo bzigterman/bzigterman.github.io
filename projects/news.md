@@ -9,50 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:16 PM CT, May. 27 </p> 
+ <p class="updated_time"> 02:40 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/arts/music/abba-voyage-london.html">Abba Returns to the Stage in London. Sort Of.</a> NYT: The Swedish superstars — or digital versions of them, at least — performed on Thursday to 3,000 enthusiastic fans with the help of 140 animators, four body doubles and $175 million. 
+ <p class="updated_time"> 02:34 PM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61610831?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Donbas town falls as ex-reporter urges Russians to turn off TV</a> BBC: There has been intense fighting in Lyman and Kyiv says pro-Russian forces control most of the city. 
+ <p class="updated_time"> 02:28 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iraqi-parliament-anti-normalization-israel.html">Iraqi Parliament Expands Law Against Normalizing Ties With Israel</a> NYT: The legislation, based on a similar law dating back to 1969, makes it a crime punishable by death. It makes Iraq an outlier in the Arab world, where more countries are forging diplomatic relations with Israel. 
+ <p class="updated_time"> 02:24 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Russia Advances in Ukraine’s East as Civilian Toll Rises</a> NYT: Russian forces seized Lyman, the second small city to fall this week, and moved closer to encircling Sievierodonetsk. A new report by legal and rights experts cited a “genocidal pattern” by Russia. 
+ <p class="updated_time"> 02:21 PM CT, May. 27 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61610470?at_medium=RSS&at_campaign=KARANGA">Johnny Depp: Jury deliberations begin in Amber Heard defamation trial</a> BBC: The high profile celebrity defamation case comes to a close six weeks after it began. 
  <p class="updated_time"> 02:01 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/italy-bishops-clerical-abuse.html">Italian Bishops to Examine Clerical Abuse, but Only to a Point</a> NYT: The Italian Bishop’s Conference on Friday presented its plan to investigate clerical abuse, but critics say it is insufficient and disappointing. 
  <p class="updated_time"> 01:59 PM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61613177?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas shooting response was 'wrong', says official</a> BBC: 'If I thought it would help, I would apologise,' state safety chief says at heated press conference. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61613177?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas shooting response was 'wrong', says official</a> BBC: "If I thought it would help, I would apologise," state safety chief says at heated press conference. 
+ <p class="updated_time"> 01:46 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 01:34 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-seizes-greek-tankers.html">Iran Seizes Two Greek Tankers in Persian Gulf</a> NYT: Tensions remain high between Iran and the West over its tattered nuclear deal with world powers, as Tehran enriches more uranium. 
- <p class="updated_time"> 01:21 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
- <p class="updated_time"> 01:15 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iraqi-bars-normalization-israel.html">Iraqi Parliament Expands Law Against Normalizing Ties With Israel</a> NYT: The legislation, based on a similar law dating back to 1969, makes it a crime punishable by death. It makes Iraq an outlier in the Arab world, where more countries are forging diplomatic relations with Israel. 
- <p class="updated_time"> 01:01 PM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61610470?at_medium=RSS&at_campaign=KARANGA">Johnny Depp: Closing arguments given in Amber Heard defamation trial</a> BBC: The high profile celebrity defamation case comes to a close six weeks after it began. 
- <p class="updated_time"> 12:21 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/baby-formula-ingredient-supplies-are-limited-by-war-in-ukraine-11653652800">Ukraine War Crimps Baby-Formula Ingredient Supplies</a> WSJ: Ukraine War Crimps Baby-Formula Ingredient Supplies 
+ <p class="updated_time"> 12:46 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/summits-involving-the-u-s-and-russia-are-getting-awkward-11653656400">Summits Involving the U.S. and Russia Are Getting Awkward</a> WSJ: Summits Involving the U.S. and Russia Are Getting Awkward 
+ <p class="updated_time"> 11:46 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
  <p class="updated_time"> 11:36 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/middleeast/iran-israel-killing-khodayee.html">Israel Tells U.S. It Killed Iranian Officer, Official Says</a> NYT: Israeli officials say the officer, Sayad Khodayee, was a leader of a covert unit tasked with abductions and killings of Israelis and other foreigners around the world. Iran does not acknowledge that the unit exists. 
  <p class="updated_time"> 11:29 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-drone-attack.html">Sensitive Iranian Military Site Was Targeted in Attack</a> NYT: A drone exploded at a structure in the Parchin military technology complex on Wednesday. The attack fit a pattern of past Israeli strikes on Iran. 
- <p class="updated_time"> 11:21 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
  <p class="updated_time"> 11:00 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/science/russian-academy-science-ukraine.html">Russian Academics Aim to Punish Colleagues Who Backed Ukraine Invasion</a> NYT: A campaign is circulating a list of dozens of researchers in the hopes they will be denied the prestige of election into the Russian Academy of Sciences. 
+ <p class="updated_time"> 10:46 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
  <p class="updated_time"> 10:33 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/asia/india-prostitution-rights.html">India’s Supreme Court Orders Police to Respect Prostitutes’ Rights</a> NYT: Though sex work is legal in the country, those who practice it often endure harassment and abuse. The justices urged the authorities to employ a more nuanced and humane approach. 
- <p class="updated_time"> 10:21 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/summits-involving-the-u-s-and-russia-are-getting-awkward-11653656400">Summits Involving the U.S. and Russia Are Getting Awkward</a> WSJ: Summits Involving the U.S. and Russia Are Getting Awkward 
  <p class="updated_time"> 10:08 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61548490?at_medium=RSS&at_campaign=KARANGA">Iran building collapse death toll jumps to 24</a> BBC: A search and rescue operation is continuing days after the 10-storey building fell down. 
  <p class="updated_time"> 10:03 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/ukraine-mine-detection.html">Displaced Ukrainians Learn to Detect Mines.</a> NYT: Courses in western Ukraine, meant for volunteer defenders, are now open to Ukrainian civilians whose villages have been blighted by war. 
  <p class="updated_time"> 09:55 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/asia/un-china-xinjiang.html">China Spins U.N. Human Rights Chief’s Visit as Propaganda</a> NYT: Michelle Bachelet’s tour includes Xinjiang, where China has been accused of genocide. The terms of her visit are unclear, and critics say Beijing is using her for propaganda. 
- <p class="updated_time"> 09:53 AM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/arts/music/abba-voyage-london.html">Abba Returns to the Stage in London. Sort Of.</a> NYT: The Swedish superstars — or digital versions of them, at least — performed on Thursday to 3,000 enthusiastic fans with the help of 140 animators, four body doubles and $175 million. 
  <p class="updated_time"> 09:51 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/asia/pakistan-fuel-price-crisis.html">Pakistan Raises Fuel Prices in Effort to Stabilize Economy</a> NYT: The interim government’s move was seen as a bid to revive a $6 billion bailout from the International Monetary Fund. 
- <p class="updated_time"> 09:36 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: The Biden administration is expected to announce as early as next week it will send to Ukraine long-range rocket systems Kyiv says are necessary to fight off the Russian onslaught in the Donbas region. 
- <p class="updated_time"> 09:29 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/u-k-s-johnson-emerges-from-lockdown-scandals-to-face-economic-woes-11653676185">U.K.'s Johnson Emerges From Lockdown Scandals to Face Economic Woes</a> WSJ: Luck, global problems to address and the lack of an obvious Tory replacement has ultimately saved the prime minister. 
- <p class="updated_time"> 09:21 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/israels-work-permits-for-gazans-help-deter-war-with-hamas-for-now-11653649530">Israeli Work Permits for Gazans Help Deter War With Hamas for Now</a> WSJ: Israeli Work Permits for Gazans Help Deter War With Hamas for Now 
+ <p class="updated_time"> 09:46 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-k-s-johnson-emerges-from-lockdown-scandals-to-face-economic-woes-11653676185">U.K.’s Johnson Emerges From Lockdown Scandals to Face Economic Woes</a> WSJ: U.K.’s Johnson Emerges From Lockdown Scandals to Face Economic Woes 
  <p class="updated_time"> 09:09 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101720943/former-president-of-louvre-faces-charges-linked-to-alleged-antiquities-smuggling">The former head of the Louvre faces charges linked to alleged antiquities smuggling</a> NPR: Police have charged Jean-Luc Martinez with "complicity in organized fraud" and money laundering, according to the Paris prosecutors' office. 
  <p class="updated_time"> 09:00 AM CT, May. 27 </p> 
@@ -83,12 +81,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61561452?at_medium=RSS&at_campaign=KARANGA">Geetanjali Shree is first Indian winner of International Booker Prize</a> BBC: The prize's judges say Geetanjali Shree's Tomb of Sand is a "luminous novel of India and partition". 
  <p class="updated_time"> 02:48 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61602730?at_medium=RSS&at_campaign=KARANGA">'Women are as strong as men' - World boxing champion</a> BBC: The world boxing champion tells the BBC that she hopes to keep inspiring young people. 
- <p class="updated_time"> 02:47 AM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/business-61589229?at_medium=RSS&at_campaign=KARANGA">Twitter investor sues Elon Musk and platform over takeover bid</a> BBC: The lawsuit alleges the multi-billionaire's "wrongful conduct" has caused Twitter shares to plunge. 
  <p class="updated_time"> 02:19 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/europe/johnson-britain-inflation-energy-tax.html">Johnson Takes Aim at Next Big Political Threat: Soaring Prices in U.K.</a> NYT: Prime Minister Boris Johnson, under pressure over a scathing report on lockdown parties in Downing Street and with his party trailing in opinion polls, unveiled an aid package Thursday. 
  <p class="updated_time"> 02:09 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61603746?at_medium=RSS&at_campaign=KARANGA">Sydney wakes up to thick blanket of fog</a> BBC: Iconic landmarks like the Sydney Harbour Bridge were shrouded from view and ferry services were cancelled. 
+ <p class="updated_time"> 02:05 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/israels-work-permits-for-gazans-help-deter-war-with-hamas-for-now-11653649530">Israeli Work Permits for Gazans Help Deter War With Hamas for Now</a> WSJ: An Israeli nationalist march through Arab neighborhoods in Jerusalem on Sunday could put Israel’s strategy of work permits for peace to the test. 
  <p class="updated_time"> 02:00 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/climate/republicans-blackrock-climate.html">How an Organized Republican Effort Punishes Companies for Climate Action</a> NYT: Legislators and their allies are running an aggressive campaign that uses public money and the law to pressure businesses they say are pushing “woke” causes. 
  <p class="updated_time"> 12:43 AM CT, May. 27 </p> 
@@ -212,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:44 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/us/politics/oregon-kurt-schrader-jamie-mcleod-skinner.html">Jamie McLeod-Skinner Defeats Kurt Schrader in Oregon</a> NYT: In an upset, Jamie McLeod-Skinner defeated Representative Kurt Schrader, a leading moderate in Congress who had been endorsed by President Biden. 
  <p class="updated_time"> 02:15 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/us/politics/ukraine-aid-heritage-foundation.html">Why the Once-Hawkish Heritage Foundation Opposed Aid to Ukraine</a> NYT: The conservative think tank has shifted on foreign policy along with the Republican grass-roots, and it is taking a more skeptical view of U.S. involvement in the world. 
  <p class="updated_time"> 01:20 PM CT, May. 27 </p> 
@@ -226,8 +226,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/27/inside-the-forecast-trumps-endorsement-record-explained-00035741">Inside the Forecast: Trump’s endorsement record, explained</a> Politico: POLITICO’s Steve Shepard demystifies this week’s election data in a video series. 
  <p class="updated_time"> 12:26 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101779681/pennsylvania-undated-ballots-senate-race-oz-mccormick-recount">How undated ballots could affect Pennsylvania's GOP Senate race and voters' rights</a> NPR: Mail-in ballots that arrived on time but in envelopes missing dates handwritten by voters have been a flashpoint in recent elections in the key swing state, including a close Republican primary race. 
- <p class="updated_time"> 12:02 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/us/politics/oregon-kurt-schrader-jamie-mcleod-skinner.html">Jamie McLeod-Skinner Defeats Kurt Schrader in Oregon</a> NYT: In an upset, Jamie McLeod-Skinner defeated Representative Kurt Schrader, a leading moderate in Congress who had been endorsed by President Biden. 
  <p class="updated_time"> 11:44 AM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/inflation-blame-game-sorting-out-the-culprits-00035712">Inflation blame game: Sorting out the culprits</a> Politico: The truth about who or what is actually at fault for inflation numbers not seen since the 1980s is more complex than any political talking points or anti-Fed screeds. 
  <p class="updated_time"> 11:35 AM CT, May. 27 </p> 
