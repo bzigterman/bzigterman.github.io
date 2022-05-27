@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:14 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Russian Attacks Intensify, Along With Accusations of Genocide</a> NYT: Russian forces seized Lyman, the second small city to fall this week, and moved closer to encircling Sievierodonetsk. A new report by legal and rights experts cited a “genocidal pattern” by Russia, and President Biden said Putin was trying to “eliminate a culture” in Ukraine. 
+ <p class="updated_time"> 03:59 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-seizes-greek-tankers.html">Iran Seizes Two Greek Tankers in Persian Gulf</a> NYT: The ships were taken in retaliation for Greece last month impounding, at the request of the United States, an Iranian oil tanker, according to Iranian news reports. 
  <p class="updated_time"> 03:57 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/arts/music/abba-voyage-london.html">Abba Returns to the Stage in London. Sort Of.</a> NYT: The Swedish superstars — or digital versions of them, at least — performed on Thursday to 3,000 enthusiastic fans with the help of 140 animators, four body doubles and $175 million. 
  <p class="updated_time"> 03:55 PM CT, May. 27 </p> 
@@ -17,14 +21,14 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61611925?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: In the face of tragedy, a Texas town turns to prayer</a> BBC: Many in Uvalde say they feel lost after the school massacre, but their faith is a source of strength. 
  <p class="updated_time"> 03:45 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61548490?at_medium=RSS&at_campaign=KARANGA">Iran building collapse death toll jumps to 26</a> BBC: A search and rescue operation is continuing days after the 10-storey building fell down. 
- <p class="updated_time"> 03:40 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Russian Attacks Intensify, Along With Accusations of Genocide</a> NYT: Russian forces seized Lyman, the second small city to fall this week, and moved closer to encircling Sievierodonetsk. A new report by legal and rights experts cited a “genocidal pattern” by Russia, and President Biden said Putin was trying to “eliminate a culture” in Ukraine. 
  <p class="updated_time"> 03:37 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61613177?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas shooting response was 'wrong', says official</a> BBC: "If I thought it would help, I would apologise," state safety chief says at heated press conference. 
  <p class="updated_time"> 03:33 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61612599?at_medium=RSS&at_campaign=KARANGA">Japan opens up to foreign tourists after two years</a> BBC: Visitors from 98 countries will be allowed to enter, but some restrictions still remain. 
  <p class="updated_time"> 03:24 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/russian-fighting-for-ukraine.html">A Putin Opponent From Russia Leads Fighters Against His Home Country</a> NYT: “The hottest place to fight against the regime was in Ukraine,” says a unit commander who has been a volunteer soldier for his adopted country on and off since 2015. 
+ <p class="updated_time"> 03:23 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 03:09 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101837110/insights-on-uvalde-from-an-activist-who-worked-to-make-the-u-k-safer">Insights on Uvalde from an activist who worked to make the U.K. safer</a> NPR: NPR's Ari Shapiro talks with Mick North, founding member of Gun Control Network and the father of one of the children killed at Dunblane Primary School in Scotland. 
  <p class="updated_time"> 03:09 PM CT, May. 27 </p> 
@@ -33,30 +37,26 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/27/1101758096/colombia-presidential-election">Colombia goes into elections Sunday with a leftist looking to make history</a> NPR: Colombia's presidential election is Sunday, and for the first time, a leftist candidate is favored to come out ahead. Business elites are nervous. 
  <p class="updated_time"> 03:02 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/italy-bishops-clerical-abuse.html">Italian Bishops to Examine Clerical Abuse, but Only to a Point</a> NYT: The Italian Bishops’ Conference on Friday presented its plan to investigate clerical abuse, but critics say it is insufficient and disappointing. 
- <p class="updated_time"> 03:00 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 02:54 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/margot-heuman-dead.html">Margot Heuman, Who Bore Witness to the Holocaust as a Gay Woman, Dies at 94</a> NYT: She was a rare survivor who spoke — in recent years — of her same-sex relationship in the concentration camps, and how it sustained her. 
  <p class="updated_time"> 02:34 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61610831?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Donbas town falls as ex-reporter urges Russians to turn off TV</a> BBC: There has been intense fighting in Lyman and Kyiv says pro-Russian forces control most of the city. 
  <p class="updated_time"> 02:28 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iraqi-parliament-anti-normalization-israel.html">Iraqi Parliament Expands Law Against Normalizing Ties With Israel</a> NYT: The legislation, based on a similar law dating back to 1969, makes it a crime punishable by death. It makes Iraq an outlier in the Arab world, where more countries are forging diplomatic relations with Israel. 
+ <p class="updated_time"> 02:23 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/summits-involving-the-u-s-and-russia-are-getting-awkward-11653656400">Summits Involving the U.S. and Russia Are Getting Awkward</a> WSJ: Summits Involving the U.S. and Russia Are Getting Awkward 
  <p class="updated_time"> 02:21 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61610470?at_medium=RSS&at_campaign=KARANGA">Johnny Depp: Jury deliberations begin in Amber Heard defamation trial</a> BBC: The high profile celebrity defamation case comes to a close six weeks after it began. 
- <p class="updated_time"> 02:00 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/summits-involving-the-u-s-and-russia-are-getting-awkward-11653656400">Summits Involving the U.S. and Russia Are Getting Awkward</a> WSJ: Summits Involving the U.S. and Russia Are Getting Awkward 
- <p class="updated_time"> 01:34 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-seizes-greek-tankers.html">Iran Seizes Two Greek Tankers in Persian Gulf</a> NYT: Tensions remain high between Iran and the West over its tattered nuclear deal with world powers, as Tehran enriches more uranium. 
- <p class="updated_time"> 01:00 PM CT, May. 27 </p> 
+ <p class="updated_time"> 01:23 PM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
- <p class="updated_time"> 12:00 PM CT, May. 27 </p> 
+ <p class="updated_time"> 12:23 PM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
+ <p class="updated_time"> 12:06 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-k-s-johnson-emerges-from-lockdown-scandals-to-face-economic-woes-11653676185">U.K.'s Johnson Emerges From Lockdown Scandals to Face Economic Woes</a> WSJ: Luck, global problems to address and the lack of an obvious Tory replacement has ultimately saved the prime minister. 
  <p class="updated_time"> 11:36 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/middleeast/iran-israel-killing-khodayee.html">Israel Tells U.S. It Killed Iranian Officer, Official Says</a> NYT: Israeli officials say the officer, Sayad Khodayee, was a leader of a covert unit tasked with abductions and killings of Israelis and other foreigners around the world. Iran does not acknowledge that the unit exists. 
  <p class="updated_time"> 11:29 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-drone-attack.html">Sensitive Iranian Military Site Was Targeted in Attack</a> NYT: A drone exploded at a structure in the Parchin military technology complex on Wednesday. The attack fit a pattern of past Israeli strikes on Iran. 
- <p class="updated_time"> 11:00 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/u-k-s-johnson-emerges-from-lockdown-scandals-to-face-economic-woes-11653676185">U.K.’s Johnson Emerges From Lockdown Scandals to Face Economic Woes</a> WSJ: U.K.’s Johnson Emerges From Lockdown Scandals to Face Economic Woes 
  <p class="updated_time"> 11:00 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/science/russian-academy-science-ukraine.html">Russian Academics Aim to Punish Colleagues Who Backed Ukraine Invasion</a> NYT: A campaign is circulating a list of dozens of researchers in the hopes they will be denied the prestige of election into the Russian Academy of Sciences. 
  <p class="updated_time"> 10:33 AM CT, May. 27 </p> 
@@ -212,12 +212,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:11 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/us/politics/ukraine-aid-heritage-foundation.html">Why the Once-Hawkish Heritage Foundation Opposed Aid to Ukraine</a> NYT: The conservative think tank has shifted on foreign policy along with the Republican grass-roots, and it is taking a more skeptical view of U.S. involvement in the world. 
+ <p class="updated_time"> 04:10 PM CT, May. 27 </p> 
+ <a href="https://www.npr.org/2022/05/27/1101837173/the-actions-that-president-biden-could-take-to-address-gun-safety">The actions that President Biden could take to address gun safety</a> NPR: Some preliminary bipartisan discussions on gun safety legislation have begun, it's not clear this time will be any different than past failed efforts. What could President Biden do on his own? 
+ <p class="updated_time"> 04:10 PM CT, May. 27 </p> 
+ <a href="https://www.npr.org/2022/05/27/1101837166/former-president-trump-speaks-at-the-nra-convention-in-houston">Former President Trump speaks at the NRA convention in Houston</a> NPR: Former President Trump speaks at the  National Rifle Association convention in Houston — days after a deadly school shooting in another part of Texas. 
+ <p class="updated_time"> 04:00 PM CT, May. 27 </p> 
+ <a href="https://www.npr.org/2022/05/27/1101837152/congress-is-commemorating-the-1969-harlem-cultural-festival">Congress is commemorating the 1969 Harlem Cultural Festival</a> NPR: The Senate has agreed, by unanimous consent, to designate the last weekend of June 2022 as a time to commemorate the first weekend of the 1969 Harlem Cultural Festival. 
  <p class="updated_time"> 03:09 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101837082/rep-castro-lost-confidence-in-uvalde-officials-so-he-called-the-fbi">Rep. Castro 'lost confidence' in Uvalde officials. So he called the FBI</a> NPR: NPR's Ailsa Chang talks with Texas Rep. Joaquin Castro, a Democrat, about his request that the FBI investigate the timeline of law enforcement response at the Uvalde school shooting. 
  <p class="updated_time"> 02:44 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/us/politics/oregon-kurt-schrader-jamie-mcleod-skinner.html">Jamie McLeod-Skinner Defeats Kurt Schrader in Oregon</a> NYT: In an upset, Jamie McLeod-Skinner defeated Representative Kurt Schrader, a leading moderate in Congress who had been endorsed by President Biden. 
- <p class="updated_time"> 02:15 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/us/politics/ukraine-aid-heritage-foundation.html">Why the Once-Hawkish Heritage Foundation Opposed Aid to Ukraine</a> NYT: The conservative think tank has shifted on foreign policy along with the Republican grass-roots, and it is taking a more skeptical view of U.S. involvement in the world. 
  <p class="updated_time"> 01:20 PM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/texas-police-wrong-decision-wait-breaching-uvalde-classroom-00035760">Texas official: Police made ‘wrong decision’ to wait on breaching Uvalde classroom</a> Politico: The on-scene commander believed at the time that the gunman had barricaded himself and that the children were no longer at risk. 
  <p class="updated_time"> 01:12 PM CT, May. 27 </p> 
@@ -330,12 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/05/26/new-poll-shows-huge-support-for-gun-restrictions-00035349"> New poll shows huge support for gun restrictions</a> Politico Playbook: And the Pennsylvania GOP Senate primary is officially going to a recount. 
  <p class="updated_time"> 04:58 AM CT, May. 26 </p> 
  <a href="https://www.npr.org/2022/05/26/1101428347/oklahoma-governor-signs-the-nations-strictest-abortion-ban">Oklahoma governor signs the nation's strictest abortion ban</a> NPR: Oklahoma now becomes the first state in the nation to effectively end availability of the procedure. 
- <p class="updated_time"> 04:11 AM CT, May. 26 </p> 
- <a href="https://www.npr.org/2022/05/26/1101423635/texas-lawmakers-have-removed-gun-restrictions-in-recent-years">Texas lawmakers have removed gun restrictions in recent years </a> NPR: NPR's Steve Inskeep talks to Travis Clardy, a Republican state lawmaker in Texas, about this week's school shooting in Uvalde, and the state's gun laws. 
- <p class="updated_time"> 04:11 AM CT, May. 26 </p> 
- <a href="https://www.npr.org/2022/05/26/1101423628/on-2nd-anniversary-of-george-floyds-death-biden-signs-police-reform-order">On 2nd anniversary of George Floyd's death, Biden signs police reform order</a> NPR: President Biden signed an executive order Wednesday on policing — two years after George Floyd was killed by a Minneapolis police officer. 
- <p class="updated_time"> 04:11 AM CT, May. 26 </p> 
- <a href="https://www.npr.org/2022/05/26/1101423621/house-lawmakers-hold-hearings-into-the-baby-formula-shortage">House lawmakers hold hearings into the baby formula shortage</a> NPR: NPR's Leila Fadel talks to Rep. Rosa DeLauro about a House panel hearing that questioned why it took the FDA four months to issue warnings about baby formula that didn't meet safety requirements. 
  <p class="updated_time"> 03:31 AM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/gop-state-campaign-online-fundraising-00035182">GOP state legislative campaign hub launches plan to turbocharge online fundraising</a> Politico: The Republican State Leadership Committee is launching a new digital fundraising program in partnership with state GOP groups. 
  <p class="updated_time"> 03:31 AM CT, May. 26 </p> 
