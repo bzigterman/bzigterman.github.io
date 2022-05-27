@@ -9,12 +9,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:03 AM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Russia Advances in Ukraine’s East as Civilian Toll Rises</a> NYT: Russian forces seized Lyman, the second small city to fall this week, and moved closer to encircling Sievierodonetsk. A new report by legal and rights experts cited a “genocidal pattern” by Russia. 
+ <p class="updated_time"> 10:03 AM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/world/europe/ukraine-mine-detection.html">Displaced Ukrainians Learn to Detect Mines.</a> NYT: Courses in western Ukraine, meant for volunteer defenders, are now open to Ukrainian civilians whose villages have been blighted by war. 
+ <p class="updated_time"> 09:55 AM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/world/asia/un-china-xinjiang.html">China Spins U.N. Human Rights Chief’s Visit as Propaganda</a> NYT: Michelle Bachelet’s tour includes Xinjiang, where China has been accused of genocide. The terms of her visit are unclear, and critics say Beijing is using her for propaganda. 
+ <p class="updated_time"> 09:53 AM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/arts/music/abba-voyage-london.html">Abba Returns to the Stage in London. Sort Of.</a> NYT: The Swedish superstars — or digital versions of them, at least — performed on Thursday to 3,000 enthusiastic fans with the help of 140 animators, four body doubles and $175 million. 
  <p class="updated_time"> 09:51 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/asia/pakistan-fuel-price-crisis.html">Pakistan Raises Fuel Prices in Effort to Stabilize Economy</a> NYT: The interim government’s move was seen as a bid to revive a $6 billion bailout from the International Monetary Fund. 
- <p class="updated_time"> 09:44 AM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Russia Advances in Ukraine’s East as Civilian Toll Rises</a> NYT: Russian forces seized Lyman, the second small city to fall this week, and moved closer to encircling Sievierodonetsk. A new report by legal and rights experts cited a “genocidal pattern” by Russia. 
- <p class="updated_time"> 09:35 AM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/world/europe/ukraine-mine-detection.html">Displaced Ukrainians Learn to Detect Mines.</a> NYT: Courses in western Ukraine, meant for volunteer defenders, are now open to Ukrainian civilians whose villages have been blighted by war. 
+ <p class="updated_time"> 09:25 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 09:19 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61610470?at_medium=RSS&at_campaign=KARANGA">Johnny Depp: Closing arguments in Amber Heard defamation trial begin</a> BBC: Addressing the court first, a lawyer for Mr Depp asked jurors to 'give Mr Depp his life back'. 
  <p class="updated_time"> 09:09 AM CT, May. 27 </p> 
@@ -25,28 +31,24 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/27/world/europe/vatican-history-secrets-david-kertzer.html">Deep in Vatican Archives, Scholar Discovers ‘Flabbergasting’ Secrets</a> NYT: David Kertzer has spent decades excavating the Vatican’s hidden history, with his work winning a Pulitzer and capturing Hollywood’s attention. A new book examines Pope Pius XII’s role in the Holocaust. 
  <p class="updated_time"> 08:58 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61610162?at_medium=RSS&at_campaign=KARANGA">Drought's devastating toll on Somalia's children</a> BBC: The United Nations is warning that the country risks famine should global food prices continue to rise. 
- <p class="updated_time"> 08:56 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
- <p class="updated_time"> 07:56 AM CT, May. 27 </p> 
+ <p class="updated_time"> 08:25 AM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/israels-work-permits-for-gazans-help-deter-war-with-hamas-for-now-11653649530">Israeli Work Permits for Gazans Help Deter War With Hamas for Now</a> WSJ: Israeli Work Permits for Gazans Help Deter War With Hamas for Now 
  <p class="updated_time"> 07:38 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/27/1099739656/do-restrictive-abortion-laws-actually-reduce-abortion-a-global-map-offers-insigh">Do restrictive abortion laws actually reduce abortion? A global map offers insights</a> NPR: Click to see how restrictive or liberal local abortion laws are — and to look at the rate of abortion. The data offers a sense of whether stricter abortion laws reduce the number of abortions. 
- <p class="updated_time"> 06:56 AM CT, May. 27 </p> 
+ <p class="updated_time"> 07:25 AM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/how-the-u-s-and-south-korea-predict-a-north-korean-weapons-test-11653640572">How the U.S. and South Korea Predict a North Korean Weapons Test</a> WSJ: How the U.S. and South Korea Predict a North Korean Weapons Test 
  <p class="updated_time"> 06:36 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61606488?at_medium=RSS&at_campaign=KARANGA">'Switch off the TV': Former Russian-state journalist's plea to Russians</a> BBC: Zhanna Agalakova quit her job in March over the invasion of Ukraine and is now in hiding. 
  <p class="updated_time"> 06:27 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-58924630?at_medium=RSS&at_campaign=KARANGA">How ex-Gambia President Yahya Jammeh's US mansion was seized</a> BBC: The US says the money raised by selling Yahya Jammeh's luxury home will be used to help his victims. 
- <p class="updated_time"> 05:56 AM CT, May. 27 </p> 
+ <p class="updated_time"> 06:25 AM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/china-excels-in-google-rankings-on-xinjiang-and-covid-19-searches-11653645601">China Excels in Google Rankings on Xinjiang and Covid-19 Searches</a> WSJ: China Excels in Google Rankings on Xinjiang and Covid-19 Searches 
- <p class="updated_time"> 05:18 AM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/fiji-to-join-bidens-asian-economic-platform-as-pacific-competition-intensifies-11653632348">Fiji to Join Biden's Asian Economic Platform as Pacific Competition Intensifies</a> WSJ: The Indo-Pacific Economic Framework expanded to 14 founding members after the U.S. said Fiji had agreed to join, a move that comes on the eve of a visit to the nation by Beijing’s top diplomat. 
+ <p class="updated_time"> 05:25 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/fiji-to-join-bidens-asian-economic-platform-as-pacific-competition-intensifies-11653632348">Fiji to Join Biden’s Asian Economic Platform as Pacific Competition Intensifies</a> WSJ: Fiji to Join Biden’s Asian Economic Platform as Pacific Competition Intensifies 
  <p class="updated_time"> 04:08 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61548614?at_medium=RSS&at_campaign=KARANGA">Aryan Khan: Drug charges dropped against Shah Rukh Khan's son</a> BBC: The anti-drug agency cleared Aryan Khan in the case, saying "no drugs have been found" on him. 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101198630/hace-40-anos-la-guerra-malvinas-falkland-transformo-el-rock-latino">Hace 40 años, la Guerra Malvinas-Falkland transformó el rock latino</a> NPR: Cuando se prohibió la transmisión de música en inglés en 1982, los grupos de rock argentino encontraron una oportunidad. 
- <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/world/asia/un-china-xinjiang.html">China Spins U.N. Human Rights Chief’s Visit as Propaganda</a> NYT: Michelle Bachelet’s tour includes Xinjiang, where China has been accused of genocide. The terms of her visit are unclear, and critics say Beijing is using her for propaganda. 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/africa/newborns-senegal-hospital-fire-tivaouane.html">11 Families in Senegal Welcomed Newborns. A Fire Left Them Devastated.</a> NYT: Joy over the births turned to shock and grief after a blaze swept through a neonatal ward at a hospital in Senegal. “There’s nothing we can do but suffer,” said a man who lost his grandson. 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
@@ -123,8 +125,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61593071?at_medium=RSS&at_campaign=KARANGA">Texas shooting: The teachers who sacrificed their lives to protect children</a> BBC: Eva Mireles and Irma Garcia were seen trying to shelter their students from the gunfire. 
  <p class="updated_time"> 07:48 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/gun-laws-australia-britain.html">Other Countries Had Mass Shootings. Then They Changed Their Gun Laws.</a> NYT: Britain, Australia, Canada, New Zealand, Norway: All had a culture of gun ownership, and all tightened restrictions anyway. Their violence statistics now diverge sharply from those of the U.S. 
- <p class="updated_time"> 06:59 AM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/europe/russia-ukraine-donbas.html">Russian Forces Pummel Key Eastern Ukraine Town</a> NYT: With enemy forces massed on three sides, the residents of Sievierodonetsk are at the heart of the battle. 
  <p class="updated_time"> 05:38 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/asia/china-economy-zero-covid.html">Concern Grows in China Over Economic Impact of ‘Zero Covid’</a> NYT: A senior leader announced efforts to bolster growth and urged local leaders do more to keep the economy running. 
  <p class="updated_time"> 04:06 AM CT, May. 26 </p> 
@@ -206,6 +206,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:52 AM CT, May. 27 </p> 
+ <a href="https://www.politico.com/news/2022/05/27/prosecution-clinton-campaign-attorney-00035682">Prosecution claims 'overwhelming' evidence of guilt for Clinton campaign attorney</a> Politico: Closing arguments presented to jury Friday in false-statement case against lawyer Michael Sussmann. 
  <p class="updated_time"> 09:05 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/business/energy-environment/gas-prices-summer-driving.html">Gas Prices Hit New Highs as Summer Driving Season Starts</a> NYT: A gallon has jumped by about 50 cents over the last month as Russia’s war in Ukraine has continued to unsettle the global energy market. 
  <p class="updated_time"> 09:00 AM CT, May. 27 </p> 
@@ -322,8 +324,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/26/1100587366/banning-abortion-roe-economic-consequences">Women who are denied abortions risk falling deeper into poverty. So do their kids</a> NPR: A large body of research shows being denied an abortion limits women's education, time in the workforce and wages. It also finds long-term negative impacts for their children. 
  <p class="updated_time"> 03:31 AM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/gop-state-campaign-online-fundraising-00035182">GOP state legislative campaign hub launches plan to turbocharge online fundraising</a> Politico: The Republican State Leadership Committee is launching a new digital fundraising program in partnership with state GOP groups. 
- <p class="updated_time"> 03:31 AM CT, May. 26 </p> 
- <a href="https://www.politico.com/news/2022/05/26/super-pac-targets-georgia-senate-race-00035292">New Heritage Action super PAC targets Georgia Senate race</a> Politico: The Sentinel Action Fund marks a new chapter in the work of the nearly 50-year-old Heritage Foundation and its aligned groups. 
  <p class="updated_time"> 03:30 AM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/robb-elementary-security-didnt-stop-massacre-00035332">Robb Elementary had security. It didn’t stop a massacre.</a> Politico: Texas officials are revisiting efforts to bolster mental health services and harden school security as families grieve the tragic attack at Robb Elementary School. 
  <p class="updated_time"> 03:30 AM CT, May. 26 </p> 
