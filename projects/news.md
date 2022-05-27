@@ -9,20 +9,24 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:06 PM CT, May. 26 </p> 
+ <p class="updated_time"> 10:24 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/live/2022/05/26/world/russia-ukraine-war">Ukraine Live Updates: Economic Pain in Russia, and a Growing Debate on Ending the War</a> NYT: Some Western leaders are suggesting a territorial compromise between Ukraine and Russia, which Ukraine opposes. Russia shells central Kharkiv, leaving many dead and wounded, and Ukraine’s agricultural minister warns that global grain shortages are expected this summer. 
- <p class="updated_time"> 08:50 PM CT, May. 26 </p> 
+ <p class="updated_time"> 10:04 PM CT, May. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61569655?at_medium=RSS&at_campaign=KARANGA">Texas school shooting: Husband of killed teacher dies 'of grief'</a> BBC: Joe Garcia reportedly dies of a heart attack two days after his wife was shot at Robb Elementary. 
+ <p class="updated_time"> 09:47 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/as-russian-forces-retreated-mock-executions-and-beatings-increased-in-ukraine-11653557401">As Russian Forces Retreated, Mock Executions and Beatings Increased</a> WSJ: As Russian Forces Retreated, Mock Executions and Beatings Increased 
- <p class="updated_time"> 07:50 PM CT, May. 26 </p> 
+ <p class="updated_time"> 08:47 PM CT, May. 26 </p> 
  <a href="https://www.wsj.com/articles/ukraine-slams-idea-of-exchanging-land-for-peace-11653558912">Ukraine Slams Idea of Swapping Land for Peace</a> WSJ: Ukraine Slams Idea of Swapping Land for Peace 
+ <p class="updated_time"> 07:47 PM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China</a> WSJ: Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China 
  <p class="updated_time"> 06:54 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
  <p class="updated_time"> 06:54 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61591614?at_medium=RSS&at_campaign=KARANGA">EU's awkward summit: Don't mention Russian oil ban</a> BBC: The EU's latest sanctions are held up by infighting, but a summit on Monday is unlikely to solve it. 
- <p class="updated_time"> 06:50 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/blinken-to-stress-u-s-remains-focused-on-china-even-as-war-rages-in-ukraine-11653559200">Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China</a> WSJ: Blinken Says U.S to Rely on Alliances, Trade and Investment to Counter China 
  <p class="updated_time"> 06:49 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61518171?at_medium=RSS&at_campaign=KARANGA">How virtual hearings opened Indian courts to public</a> BBC: The pandemic pushed Indian courts to adapt, making the legal system more accessible. 
+ <p class="updated_time"> 06:47 PM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/europes-quest-for-alternatives-to-russian-gas-hits-obstacles-in-middle-east-11653579800">Europe’s Quest for Alternatives to Russian Gas Hits Obstacles</a> WSJ: Europe’s Quest for Alternatives to Russian Gas Hits Obstacles 
  <p class="updated_time"> 06:47 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61516126?at_medium=RSS&at_campaign=KARANGA">Instagram moderators say Iran offered them bribes to remove accounts</a> BBC: Intelligence agents wanted accounts of journalists and activists to be removed, whistleblowers say. 
  <p class="updated_time"> 06:12 PM CT, May. 26 </p> 
@@ -33,14 +37,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61561452?at_medium=RSS&at_campaign=KARANGA">Geetanjali Shree is first Indian winner of International Booker Prize</a> BBC: The prize's judges say Geetanjali Shree's Tomb of Sand is a "luminous novel of India and partition". 
  <p class="updated_time"> 06:01 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/technology-61588608?at_medium=RSS&at_campaign=KARANGA">The 22-year-old 3D-printing schools</a> BBC: Maggie Grout has started an NGO that will 3D-print schools where access to education is not guaranteed. 
- <p class="updated_time"> 05:50 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/europes-quest-for-alternatives-to-russian-gas-hits-obstacles-in-middle-east-11653579800">Europe’s Quest for Alternatives to Russian Gas Hits Obstacles</a> WSJ: Europe’s Quest for Alternatives to Russian Gas Hits Obstacles 
+ <p class="updated_time"> 05:47 PM CT, May. 26 </p> 
+ <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Slain Iranian Officer Led Assassination Plots</a> WSJ: Slain Iranian Officer Led Assassination Plots 
  <p class="updated_time"> 05:18 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/russia-ukraine-donbas.html">A Doomed River Crossing Shows the Perils of Entrapment in the War’s East</a> NYT: Encirclement is a tactic used by both sides in the war between Russia and Ukraine, but it can carry big risks. 
  <p class="updated_time"> 05:03 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/europe/russia-economy-sanctions.html">Russia’s Isolated Economy Is Leading to Scarcity</a> NYT: With soaring prices and shortages of basic goods, the Russian people and businesses large and small are feeling the pinch. 
- <p class="updated_time"> 04:50 PM CT, May. 26 </p> 
- <a href="https://www.wsj.com/articles/iranian-officer-killed-in-tehran-was-involved-in-plot-to-kill-israeli-diplomat-u-s-general-people-familiar-with-matter-say-11653536259">Slain Iranian Officer Led Assassination Plots</a> WSJ: Slain Iranian Officer Led Assassination Plots 
  <p class="updated_time"> 04:24 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/arts/international-booker-winner-tomb-of-sand.html">‘Tomb of Sand’ Wins International Booker Prize, a First for a Hindi Novel</a> NYT: “Tomb of Sand,” written by Geetanjali Shree and translated by Daisy Rockwell, won despite getting little previous attention from reviewers. 
  <p class="updated_time"> 04:22 PM CT, May. 26 </p> 
@@ -57,8 +59,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/26/1101568190/haitians-face-horrifying-violence-as-gangs-run-out-of-local-authorities-control">Haitians face horrifying violence as gangs run out of local authorities' control</a> NPR: NPR's Ailsa Chang speaks with Jacqueline Charles of the Miami Herald about the spike in gang violence in Haiti and what it means for schools and hospitals. 
  <p class="updated_time"> 03:37 PM CT, May. 26 </p> 
  <a href="https://www.npr.org/2022/05/26/1101568189/lithuania-has-become-the-1st-european-country-to-stop-using-russian-gas">Lithuania has become the 1st European country to stop using Russian gas</a> NPR: As Russia's war in Ukraine enters its fourth month, European countries are scrambling to wean themselves off of Russian gas. The Baltic nation of Lithuania has become the first to do so. 
- <p class="updated_time"> 02:32 PM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61569655?at_medium=RSS&at_campaign=KARANGA">Texas school shooting: Husband of killed teacher dies 'of grief'</a> BBC: Joe Garcia reportedly dies of a heart attack two days after his wife was shot at Robb Elementary. 
  <p class="updated_time"> 02:31 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61600594?at_medium=RSS&at_campaign=KARANGA">Texas shooting victims: Relatives of children speak of their heartbreak</a> BBC: Relatives of the children killed in a shooting at a school in Uvalde, Texas speak of their heartbreak. 
  <p class="updated_time"> 02:25 PM CT, May. 26 </p> 
@@ -202,6 +202,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:08 PM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/us/politics/asylum-system.html">U.S. to Begin Allowing Migrants to Apply for Asylum Under a New System</a> NYT: The rollout of the process for some arrivals at the southwestern border will be small, but could represent the tip of broad changes to the asylum system. 
  <p class="updated_time"> 09:03 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/eastman-said-dueling-electors-were-dead-on-arrival-without-state-legislature-backing-00035634">Eastman said dueling electors were ‘dead on arrival’ without state legislature backing</a> Politico: Yet the Trump attorney pressed Pence to consider them anyway, new emails reveal. 
  <p class="updated_time"> 07:31 PM CT, May. 26 </p> 
@@ -326,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/25/precious-individuals-texas-school-shooting-00035288">‘Precious individuals’ taken in Texas school shooting</a> Politico: All of the dead were in the same fourth-grade classroom. 
  <p class="updated_time"> 05:03 PM CT, May. 25 </p> 
  <a href="https://www.npr.org/2022/05/25/1101283771/sen-murphy-tries-to-get-talks-going-on-limited-gun-measures-after-texas-shooting">Sen. Murphy tries to get talks going on limited gun measures after Texas shooting</a> NPR: Even as some lawmakers say it's "nuts" not to take action, any measure faces exceedingly slim odds of passing in the 50-50 Senate. 
- <p class="updated_time"> 04:26 PM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/25/us/politics/georgia-stacey-abrams-kemp.html">Stacey Abrams Fights Headwinds From Washington in Georgia Rematch</a> NYT: The Democrat is facing off for a second time against Brian Kemp, a Republican — but in a far-more-difficult political climate. 
  <p class="updated_time"> 04:20 PM CT, May. 25 </p> 
  <a href="https://www.politico.com/news/2022/05/25/raffenspergers-defying-trump-maga-00035217">How Raffensperger went from Trump outcast to MAGA vanquisher</a> Politico: Georgia's Republican secretary of state traveled relentlessly and went on conservative media to meet his GOP critics and win them over. 
  <p class="updated_time"> 04:14 PM CT, May. 25 </p> 
