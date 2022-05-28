@@ -9,31 +9,33 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:18 AM CT, May. 28 </p> 
+ <p class="updated_time"> 08:52 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/05/28/world/russia-ukraine-war">Live Updates: Street Fighting in Key City as Russia Gains Ground in Ukraine’s East</a> NYT: Russian troops are moving closer to encircling the city, Sievierodonetsk, a major railway hub. The U.S. plans to send long-range mobile rocket launchers to the country. 
- <p class="updated_time"> 07:23 AM CT, May. 28 </p> 
+ <p class="updated_time"> 08:20 AM CT, May. 28 </p> 
+ <a href="https://www.nytimes.com/2022/05/28/world/europe/dublin-trinity-library-restoration.html">An Irish National Treasure Gets Set for a Long-Needed Restoration</a> NYT: The majestic Old Library at Trinity College Dublin, where some of Ireland’s most ancient and valuable books are stored, is a popular tourist attraction. 
+ <p class="updated_time"> 07:59 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 07:01 AM CT, May. 28 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/28/1100469734/ethiopia-set-a-world-record-for-displacements-in-a-single-year-5-1-million-in-20">Ethiopia set a world record for displacements in a single year: 5.1 million in 2021</a> NPR: The war there is responsible — and makes it difficult just to assess the scale of displacement. Details are in a new report from the Internal Displacement Monitoring Centre. 
- <p class="updated_time"> 06:23 AM CT, May. 28 </p> 
+ <p class="updated_time"> 06:59 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraine-is-accusing-russia-of-again-using-thermobaric-weapons-heres-what-makes-them-so-devastating-11653679508">Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating.</a> WSJ: Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating. 
  <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/28/1098826216/like-the-linda-lindas-this-teen-girl-band-in-benin-makes-you-dance-and-think">Like The Linda Lindas, this teen girl band in Benin makes you dance — and think</a> NPR: The 7-member band hails from a conservative part of the country. They sing about female genital cutting, child marriage and gender equality. And they rock. 
+ <p class="updated_time"> 05:59 AM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
  <p class="updated_time"> 05:32 AM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61614782?at_medium=RSS&at_campaign=KARANGA">Trump: US should fund safe schools before Ukraine</a> BBC: Mr Trump rejects calls for gun control, saying Americans must be allowed to defend themselves from "evil". 
- <p class="updated_time"> 05:23 AM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
  <p class="updated_time"> 05:20 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/ukraine-orthodox-church-moscow.html">Ukrainian Orthodox Church Breaks With Moscow Over War</a> NYT: The Council of the Ukrainian Orthodox Church said that it disagreed with the Moscow Patriarch’s position on the war. 
  <p class="updated_time"> 05:00 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/canada/gun-laws-canada.html">What Canada Doesn’t Know About Its Guns</a> NYT: New record-keeping requirements for nonrestricted firearms began this month, but the origins of Canada’s so-called crime guns are largely unknown. 
- <p class="updated_time"> 04:23 AM CT, May. 28 </p> 
+ <p class="updated_time"> 04:59 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
  <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/france-metoo-patrick-poivre-darvor.html">The Fall of the ‘Sun King’ of French TV, and the Myth of Seduction</a> NYT: Patrick Poivre d’Arvor, known as a great seducer, has been accused by more than 20 women of rape, sexual assault and harassment in France’s belated #MeToo reckoning. 
  <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/russian-soldiers-military-supplies.html">Russians Crowdsource Supplies for Their Army in Ukraine</a> NYT: A grass-roots movement to get basic supplies to soldiers fighting in Ukraine reflects the growing recognition among Russians that their military was unprepared for major conflict. 
- <p class="updated_time"> 03:23 AM CT, May. 28 </p> 
+ <p class="updated_time"> 03:59 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/iranian-military-seizes-two-greek-oil-tankers-in-persian-gulf-11653679153">Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf</a> WSJ: Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf 
  <p class="updated_time"> 02:25 AM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61613177?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas shooting response was wrong, says official</a> BBC: "Please send the police now," one girl pleaded as officers waited over an hour to storm the classroom. 
@@ -189,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/americas/2nd-amendment-gun-laws.html">In the U.S., Backlash to Civil Rights Era Made Guns a Political Third Rail</a> NYT: Other countries changed course after massacres. But American political protection for guns is unique, and has become inseparable from conservative credentials. 
  <p class="updated_time"> 03:29 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/business/e-gerald-corrigan-dead.html">E. Gerald Corrigan, Who Helped Ease ’87 Stock Crash, Dies at 80</a> NYT: As president of the Federal Reserve Bank of New York, he favored flooding the financial system with cash to restore confidence among investors. 
- <p class="updated_time"> 02:45 PM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/25/world/asia/india-heat-wave-mango.html">India Heat Wave’s Lamented Victim: The Mango, a King of Fruits</a> NYT: Blistering spring temperatures have devastated crops of the country’s most beloved fruit. “The soul of a farmer shudders at seeing these fruitless trees,” one grower said. 
  <p class="updated_time"> 01:28 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/technology/quantum-internet-teleportation.html">‘Quantum Internet’ Inches Closer With Advance in Data Teleportation</a> NYT: Scientists have improved their ability to send quantum information across distant computers — and have taken another step toward the network of the future. 
  <p class="updated_time"> 01:28 PM CT, May. 25 </p> 
@@ -225,9 +225,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:23 PM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/nra-convention-uvalde-shooting-00035842">'It's straight out of a playbook': At NRA convention, conspiracy theories abound</a> Politico: To many attendees, the mass shooting in Uvalde was about mental illness and dark forces pushing their own agendas. 
  <p class="updated_time"> 08:19 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/us/politics/border-patrol-uvalde.html">Border Patrol Unit Has Played High-Profile Role Before Uvalde</a> NYT: One of the unit’s sharpshooters killed the gunman at Robb Elementary School; its members have Special Forces-type training and often target smuggling operations. 
- <p class="updated_time"> 08:19 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/us/politics/nra-convention-guns.html">At N.R.A. Convention, the Blame Is on ‘Evil,’ Not Guns</a> NYT: Above all else, activists and politicians at the gathering sought to divert pressure to support popular overhauls like expanded background checks by seizing on the issue of school safety. 
+ <a href="https://www.nytimes.com/live/2022/05/28/us/texas-school-shooting/nra-convention-guns">At N.R.A. Convention, the Blame Is on ‘Evil,’ Not Guns</a> NYT: Above all else, activists and politicians at the gathering sought to divert pressure to support popular overhauls like expanded background checks by seizing on the issue of school safety. 
  <p class="updated_time"> 07:35 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/us/politics/michael-sussmann-trial-durham.html">Prosecutors and Defense Duel in Closing Arguments of Politically Charged Trial</a> NYT: A verdict is expected as early as Tuesday in the case brought by a Trump-era special counsel against a lawyer with ties to Hillary Clinton’s 2016 presidential campaign. 
  <p class="updated_time"> 06:37 PM CT, May. 27 </p> 
@@ -306,6 +304,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/us/politics/zelensky-ukraine-war.html">How Does It End? Fissures Emerge Over What Constitutes Victory in Ukraine</a> NYT: Differing objectives foreshadow a coming debate about what position President Volodymyr Zelensky of Ukraine and his Western allies would take if negotiations to end the conflict finally get going. 
  <p class="updated_time"> 12:09 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101693246/ted-cruz-walks-off-reporter-uvalde-texas-school-shooting">Ted Cruz walks away from a reporter who asked why the U.S. has so many mass shootings</a> NPR: "Is this the moment to reform gun laws?" British reporter Mark Stone from Sky News asked the U.S. senator. 
+ <p class="updated_time"> 11:05 PM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/us/politics/china-policy-biden.html">U.S. Aims to Constrain China by Shaping Its Environment, Blinken Says</a> NYT: The U.S. secretary of state gave a glimpse of President Biden’s classified strategy on China, in which officials have concluded they cannot change Beijing’s behavior. 
  <p class="updated_time"> 09:03 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/eastman-said-dueling-electors-were-dead-on-arrival-without-state-legislature-backing-00035634">Eastman said dueling electors were ‘dead on arrival’ without state legislature backing</a> Politico: Yet the Trump attorney pressed Pence to consider them anyway, new emails reveal. 
  <p class="updated_time"> 07:31 PM CT, May. 26 </p> 
@@ -332,6 +332,8 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/26/republican-senators-gun-control-texas-shooting-00035354">The 10 GOP senators to watch in the wake of the Texas school shooting</a> Politico: Democrats need to get at least 10 Senate Republicans on board to have a chance at even narrow gun safety legislation. Here's who's most likely to cut a deal. 
  <p class="updated_time"> 02:46 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/business/biden-poultry-processors-growers.html">White House Aims to Increase Regulation and Competition in Poultry Industry</a> NYT: More than 90 percent of chickens eaten by Americans are raised by farmers under contracts with poultry processing companies. 
+ <p class="updated_time"> 01:25 PM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/us/politics/supreme-court-greenhouse-gas-emissions.html">Supreme Court Allows Greenhouse Gas Cost Estimates</a> NYT: Louisiana and other Republican-led states challenged a federal working group’s efforts to develop standards for agencies to use in quantifying the harms caused by emissions. 
  <p class="updated_time"> 01:08 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/meadows-burned-papers-meeting-scott-perry-00035411">Meadows burned papers after meeting with Scott Perry, Jan. 6 panel told</a> Politico: The unusual move came after a meeting between then-President Donald Trump's then-chief of staff and the Pennsylvania Republican, according to recent testimony. 
  <p class="updated_time"> 11:52 AM CT, May. 26 </p> 
