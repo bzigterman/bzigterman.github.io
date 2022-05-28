@@ -9,31 +9,33 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:58 AM CT, May. 28 </p> 
+ <p class="updated_time"> 06:12 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/05/28/world/russia-ukraine-war">Ukraine Live Updates: Russians Air Misgivings About the War</a> NYT: Russian troops are moving closer to encircling Sievierodonetsk in eastern Ukraine. The U.S. plans to send long-range mobile rocket launchers to the country. 
+ <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2022/05/28/1098826216/like-the-linda-lindas-this-teen-girl-band-in-benin-makes-you-dance-and-think">Like The Linda Lindas, this teen girl band in Benin makes you dance — and think</a> NPR: The 7-member band hails from a conservative part of the country. They sing about female genital cutting, child marriage and gender equality. And they rock. 
  <p class="updated_time"> 05:32 AM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61614782?at_medium=RSS&at_campaign=KARANGA">Trump: US should fund safe schools before Ukraine</a> BBC: Mr Trump rejects calls for gun control, saying Americans must be allowed to defend themselves from "evil". 
+ <p class="updated_time"> 05:24 AM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 05:20 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/ukraine-orthodox-church-moscow.html">Ukrainian Orthodox Church Breaks With Moscow Over War</a> NYT: The Council of the Ukrainian Orthodox Church said that it disagreed with the Moscow Patriarch’s position on the war. 
- <p class="updated_time"> 05:01 AM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 05:00 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/canada/gun-laws-canada.html">What Canada Doesn’t Know About Its Guns</a> NYT: New record-keeping requirements for nonrestricted firearms began this month, but the origins of Canada’s so-called crime guns are largely unknown. 
- <p class="updated_time"> 04:01 AM CT, May. 28 </p> 
+ <p class="updated_time"> 04:24 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraine-is-accusing-russia-of-again-using-thermobaric-weapons-heres-what-makes-them-so-devastating-11653679508">Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating.</a> WSJ: Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating. 
  <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/france-metoo-patrick-poivre-darvor.html">The Fall of the ‘Sun King’ of French TV, and the Myth of Seduction</a> NYT: Patrick Poivre d’Arvor, known as a great seducer, has been accused by more than 20 women of rape, sexual assault and harassment in France’s belated #MeToo reckoning. 
  <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/russian-soldiers-military-supplies.html">Russians Crowdsource Supplies for Their Army in Ukraine</a> NYT: A grass-roots movement to get basic supplies to soldiers fighting in Ukraine reflects the growing recognition among Russians that their military was unprepared for major conflict. 
- <p class="updated_time"> 03:01 AM CT, May. 28 </p> 
+ <p class="updated_time"> 03:24 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
  <p class="updated_time"> 02:25 AM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61613177?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas shooting response was wrong, says official</a> BBC: "Please send the police now," one girl pleaded as officers waited over an hour to storm the classroom. 
  <p class="updated_time"> 02:25 AM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61615236?at_medium=RSS&at_campaign=KARANGA">Armed female bystander kills man firing at party in West Virginia</a> BBC: A woman at a birthday party drew her pistol and left the gunman with multiple wounds, police say. 
- <p class="updated_time"> 02:01 AM CT, May. 28 </p> 
+ <p class="updated_time"> 02:24 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
- <p class="updated_time"> 01:01 AM CT, May. 28 </p> 
+ <p class="updated_time"> 01:24 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/iranian-military-seizes-two-greek-oil-tankers-in-persian-gulf-11653679153">Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf</a> WSJ: Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf 
  <p class="updated_time"> 10:26 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61615018?at_medium=RSS&at_campaign=KARANGA">Japanese Red Army founder Shigenobu freed after 20 years</a> BBC: Fusako Shigenobu, 76, was jailed for her part in a hostage siege at the French embassy in the Hague. 
@@ -169,8 +171,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/europe/gun-laws-australia-britain.html">Other Countries Had Mass Shootings. Then They Changed Their Gun Laws.</a> NYT: Britain, Australia, Canada, New Zealand, Norway: All had a culture of gun ownership, and all tightened restrictions anyway. Their violence statistics now diverge sharply from those of the U.S. 
  <p class="updated_time"> 05:38 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/asia/china-economy-zero-covid.html">Concern Grows in China Over Economic Impact of ‘Zero Covid’</a> NYT: A senior leader announced efforts to bolster growth and urged local leaders do more to keep the economy running. 
- <p class="updated_time"> 04:06 AM CT, May. 26 </p> 
- <a href="https://www.npr.org/2022/05/26/1101423950/western-countries-watch-as-chinas-foreign-minister-begins-south-pacific-tour">Western countries watch as China's foreign minister begins South Pacific tour</a> NPR: Australia was scrambling to counter the move by sending its own Foreign Minister Penny Wong to Fiji to shore up support in the Pacific. 
  <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/asia/india-film-kashmir-files.html">Film on Expulsion of Kashmir’s Hindus Is Polarizing and Popular in India</a> NYT: Called propaganda by critics and essential viewing by fans, “The Kashmir Files,” an unexpected blockbuster, has drawn the support of Prime Minister Narendra Modi’s Bharatiya Janata Party. 
  <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
