@@ -9,38 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:30 PM CT, May. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/28/world/russia-ukraine-war">Live Updates: Russia Edges Closer to Occupying Key Province, Luhansk</a> NYT: Russian troops  are engaged in heavy street fighting inside the city Sievierodonetsk, a major railway hub. Zelensky says the situation is “indescribably difficult.” 
  <p class="updated_time"> 06:09 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61586600?at_medium=RSS&at_campaign=KARANGA">Hong Kong's Omicron crisis: ‘It took just 10 days for everyone to be infected’</a> BBC: More than half of those to die in the latest wave to hit Hong Kong were care home residents. 
  <p class="updated_time"> 06:02 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61611304?at_medium=RSS&at_campaign=KARANGA">Jerusalem tensions high ahead of Israeli youth Flag March</a> BBC: Thousands of flag-waving Israelis are due to pass through Muslim areas, amid Palestinian anger. 
+ <p class="updated_time"> 05:46 PM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308">Putin Says Russia Open to More Talks With Ukraine</a> WSJ: Putin Says Russia Open to More Talks With Ukraine 
  <p class="updated_time"> 05:44 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61610891?at_medium=RSS&at_campaign=KARANGA">Trads: The extreme Hindu nationalists inspired by alt-right memes</a> BBC: A movement inspired by Western extremists uses memes to promote Hindu supremacy. 
- <p class="updated_time"> 05:42 PM CT, May. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/05/28/world/russia-ukraine-war">Live Updates: Russia Edges Closer to Occupying Key Province, Luhansk</a> NYT: Russian troops  are engaged in heavy street fighting inside the city Sievierodonetsk, a major railway hub. Zelensky says the situation is “indescribably difficult.” 
- <p class="updated_time"> 05:27 PM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308">Putin Says Russia Open to More Talks With Ukraine</a> WSJ: Putin Says Russia Open to More Talks With Ukraine 
  <p class="updated_time"> 05:13 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61621470?at_medium=RSS&at_campaign=KARANGA">Ulvade shooting: Kamala Harris calls for assault weapons ban</a> BBC: The US vice-president makes the plea as she attends the funeral of a victim of the Buffalo shooting. 
  <p class="updated_time"> 04:52 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61619783?at_medium=RSS&at_campaign=KARANGA">US gun laws: Kamala Harris calls for assault weapons ban</a> BBC: The US vice-president was attending the funeral of a woman shot dead in Buffalo, New York state. 
+ <p class="updated_time"> 04:46 PM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
  <p class="updated_time"> 04:27 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Tropical Storm Agatha Headed to the Mexican Coast</a> NYT: This year’s first named storm in the eastern Pacific has the potential to become a Category 2 hurricane, forecasters said on Saturday. 
- <p class="updated_time"> 04:27 PM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
  <p class="updated_time"> 03:59 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61618902?at_medium=RSS&at_campaign=KARANGA">Russia won't use tactical nuclear weapons in Ukraine, says ambassador to UK</a> BBC: Andrei Kelin tells the BBC tactical nuclear weapons have "nothing to do" with operations in Ukraine. 
- <p class="updated_time"> 03:27 PM CT, May. 28 </p> 
+ <p class="updated_time"> 03:46 PM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202">Ukraine Struggles to Preserve  Alleged War-Crime Evidence</a> WSJ: Ukraine Struggles to Preserve  Alleged War-Crime Evidence 
  <p class="updated_time"> 02:47 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61616622?at_medium=RSS&at_campaign=KARANGA">Russia scraps army age limit and a bike ride from hell</a> BBC: France and Germany call for "direct, serious" talks between President Putin and Ukraine's leader. 
- <p class="updated_time"> 02:27 PM CT, May. 28 </p> 
+ <p class="updated_time"> 02:46 PM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
  <p class="updated_time"> 01:52 PM CT, May. 28 </p> 
  <a href="https://www.npr.org/2022/05/28/1101948971/russia-hypersonic-missile-test">Russia says it has test-fired another hypersonic missile</a> NPR: The Russian navy on Saturday conducted another test of a prospective hypersonic missile, a demonstration of the military's long-range strike capability amid the fighting in Ukraine. 
+ <p class="updated_time"> 01:46 PM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/prince-charless-campaigning-ways-run-through-suburb-he-helped-design-11653753600">Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design</a> WSJ: Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design 
  <p class="updated_time"> 01:35 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61618907?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin urged to hold 'direct, serious negotiations' with Zelensky</a> BBC: In a lengthy phone call with Russia's leader, France and Germany call for "direct, serious" talks. 
- <p class="updated_time"> 01:27 PM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/prince-charless-campaigning-ways-run-through-suburb-he-helped-design-11653753600">Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design</a> WSJ: Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design 
  <p class="updated_time"> 12:52 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/dublin-trinity-library-restoration.html">An Irish National Treasure Gets Set for a Long-Needed Restoration</a> NYT: The majestic Old Library at Trinity College Dublin, where some of Ireland’s most ancient and valuable books are stored, is a popular tourist attraction. 
  <p class="updated_time"> 12:14 PM CT, May. 28 </p> 
