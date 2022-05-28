@@ -9,32 +9,34 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:46 PM CT, May. 28 </p> 
+ <p class="updated_time"> 04:00 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/05/28/world/russia-ukraine-war">Live Updates: Street Fighting in Key City as Russia Gains Ground in Ukraine’s East</a> NYT: Russian troops are moving closer to encircling the city, Sievierodonetsk, a major railway hub. The U.S. plans to send long-range mobile rocket launchers to the country. 
- <p class="updated_time"> 03:00 PM CT, May. 28 </p> 
+ <p class="updated_time"> 03:59 PM CT, May. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61618902?at_medium=RSS&at_campaign=KARANGA">Russia won't use tactical nuclear weapons in Ukraine, says ambassador to UK</a> BBC: Andrei Kelin tells the BBC tactical nuclear weapons have "nothing to do" with operations in Ukraine. 
+ <p class="updated_time"> 03:25 PM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308">Putin Says Russia Open to More Talks With Ukraine</a> WSJ: Putin Says Russia Open to More Talks With Ukraine 
- <p class="updated_time"> 02:00 PM CT, May. 28 </p> 
+ <p class="updated_time"> 02:47 PM CT, May. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61616622?at_medium=RSS&at_campaign=KARANGA">Russia scraps army age limit and a bike ride from hell</a> BBC: France and Germany call for "direct, serious" talks between President Putin and Ukraine's leader. 
+ <p class="updated_time"> 02:25 PM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
  <p class="updated_time"> 01:52 PM CT, May. 28 </p> 
  <a href="https://www.npr.org/2022/05/28/1101948971/russia-hypersonic-missile-test">Russia says it has test-fired another hypersonic missile</a> NPR: The Russian navy on Saturday conducted another test of a prospective hypersonic missile, a demonstration of the military's long-range strike capability amid the fighting in Ukraine. 
  <p class="updated_time"> 01:35 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61618907?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin urged to hold 'direct, serious negotiations' with Zelensky</a> BBC: In a lengthy phone call with Russia's leader, France and Germany call for "direct, serious" talks. 
- <p class="updated_time"> 01:00 PM CT, May. 28 </p> 
+ <p class="updated_time"> 01:25 PM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202">Ukraine Struggles to Preserve  Alleged War-Crime Evidence</a> WSJ: Ukraine Struggles to Preserve  Alleged War-Crime Evidence 
  <p class="updated_time"> 12:52 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/dublin-trinity-library-restoration.html">An Irish National Treasure Gets Set for a Long-Needed Restoration</a> NYT: The majestic Old Library at Trinity College Dublin, where some of Ireland’s most ancient and valuable books are stored, is a popular tourist attraction. 
+ <p class="updated_time"> 12:25 PM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
  <p class="updated_time"> 12:14 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/australia/dna-phenotyping.html">Australia Wields a New DNA Tool to Crack Missing-Person Mysteries</a> NYT: The technique can predict a person’s ancestry and physical traits without the need for a match with an existing sample in a database. 
- <p class="updated_time"> 12:00 PM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
  <p class="updated_time"> 11:30 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/ukraine-war-last-day-of-school.html">Sounds of bombardment drown out the ‘last bell’ for the final day of school in Ukraine.</a> NYT: On what is usually a day of festivities and fun, many of Ukraine’s students ended the academic year amid the sounds of war or from abroad. 
- <p class="updated_time"> 11:00 AM CT, May. 28 </p> 
+ <p class="updated_time"> 11:25 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/prince-charless-campaigning-ways-run-through-suburb-he-helped-design-11653753600">Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design</a> WSJ: Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design 
  <p class="updated_time"> 10:44 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/asia/un-human-rights-china.html">U.N. Human Rights Chief Tempers Criticism at End of China Trip</a> NYT: Rights groups and overseas Uyghurs had called for vociferous condemnation of China’s policies toward minorities in the country’s far West. They were highly disappointed. 
- <p class="updated_time"> 10:40 AM CT, May. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61619638?at_medium=RSS&at_campaign=KARANGA">Russia scraps age limit for new troops in Ukraine push</a> BBC: Russia's military says it needs older recruits skilled in hi-tech weapons and other specialisms. 
  <p class="updated_time"> 10:37 AM CT, May. 28 </p> 
  <a href="https://www.npr.org/2022/05/28/1101640995/gua-sha-hair-oiling-aapi-culture">Asian founders work to steer the narrative as beauty trends pull from their cultures</a> NPR: The latest obsessions in America's wellness craze are rooted in South Asian practices. Industry leaders who grew up with those rituals are caught between joy and a battle against cultural erasure. 
  <p class="updated_time"> 10:23 AM CT, May. 28 </p> 
@@ -101,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/27/1101758096/colombia-presidential-election">Colombia goes into elections Sunday with a leftist looking to make history</a> NPR: Colombia's presidential election is Sunday, and for the first time, a leftist candidate is favored to come out ahead. Business elites are nervous. 
  <p class="updated_time"> 03:02 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/italy-bishops-clerical-abuse.html">Italian Bishops to Examine Clerical Abuse, but Only to a Point</a> NYT: The Italian Bishops’ Conference on Friday presented its plan to investigate clerical abuse, but critics say it is insufficient and disappointing. 
- <p class="updated_time"> 02:34 PM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61610831?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Donbas town falls as ex-reporter urges Russians to turn off TV</a> BBC: There has been intense fighting in Lyman and Kyiv says pro-Russian forces control most of the city. 
  <p class="updated_time"> 02:28 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iraqi-parliament-anti-normalization-israel.html">Iraqi Parliament Expands Law Against Normalizing Ties With Israel</a> NYT: The legislation, based on a similar law dating back to 1969, makes it a crime punishable by death. It makes Iraq an outlier in the Arab world, where more countries are forging diplomatic relations with Israel. 
  <p class="updated_time"> 01:12 PM CT, May. 27 </p> 
@@ -192,6 +192,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:19 PM CT, May. 28 </p> 
+ <a href="https://www.npr.org/2022/05/28/1101955081/at-nra-convention-in-houston-politicians-deflect-blame">At NRA convention in Houston, politicians deflect blame</a> NPR: In Texas, the National Rifle Association meets in Houston as families in Uvalde are mourning children slain in a massacre earlier this week. 
  <p class="updated_time"> 01:32 PM CT, May. 28 </p> 
  <a href="https://www.npr.org/2022/05/28/1101931160/baby-formula-shortage-overseas-shipments">More baby formula shipments arrive from overseas in an effort to ease the shortage</a> NPR: Australia is sending the equivalent of more than 27 million 8-ounce bottles of goat's milk and other baby formulas, as the U.S. government works to replenish store shelves during the shortage. 
  <p class="updated_time"> 12:46 PM CT, May. 28 </p> 
@@ -308,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/us/politics/justice-dept-fbi-nassar.html">Justice Dept. Won’t Prosecute Ex-F.B.I. Agents Accused of Mishandling Nassar Case</a> NYT: The decision ends a review the department initiated in October, months after its inspector general issued a scathing report that sharply criticized the F.B.I.’s handling of the case. 
  <p class="updated_time"> 06:23 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/marjorie-taylor-greene-security.html">Marjorie Taylor Greene’s Campaign Spent $183,000 on Security in Early 2022</a> NYT: Ms. Greene, the far-right Georgia Republican, spent more campaign money on personal security in the first quarter of this year than any other candidate, campaign finance filings show. 
- <p class="updated_time"> 05:21 PM CT, May. 26 </p> 
- <a href="https://www.npr.org/2022/05/26/1101626629/clackamas-count-ballot-issue-schrader-mcleod-skinner-oregon-5th">Progressive challenger tops Oregon Rep. Schrader, after ballot issue delayed count</a> NPR: In Oregon's 5th Congressional District, centrist incumbent Rep. Kurt Schrader, who had President Biden's backing, lost to his more progressive opponent, Jamie McLeod-Skinner. 
  <p class="updated_time"> 05:03 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/scott-pruitt-epa-report.html">Scott Pruitt ‘Endangered Public Safety’ by Forcing His Drivers to Speed</a> NYT: An internal report validated whistle-blower allegations that Scott Pruitt repeatedly forced his security detail to drive at dangerous speeds on routine trips because he was running late. 
  <p class="updated_time"> 04:11 PM CT, May. 26 </p> 
@@ -342,8 +342,6 @@ webappicon: /plots/news.png
  <a href="https://www.cnn.com/2022/05/25/politics/gun-laws-us-congress/index.html">Gun legislation is stalled in Congress. Here's why that won't change anytime soon</a> CNN: Tuesday's shooting at a Texas elementary school, which has left at least 19 children and two adults dead, marked another instance of a uniquely American tragedy. 
  <p class="updated_time"> 05:50 PM CT, May. 25 </p> 
  <a href="https://www.politico.com/news/2022/05/25/precious-individuals-texas-school-shooting-00035288">‘Precious individuals’ taken in Texas school shooting</a> Politico: All of the dead were in the same fourth-grade classroom. 
- <p class="updated_time"> 04:20 PM CT, May. 25 </p> 
- <a href="https://www.politico.com/news/2022/05/25/raffenspergers-defying-trump-maga-00035217">How Raffensperger went from Trump outcast to MAGA vanquisher</a> Politico: Georgia's Republican secretary of state traveled relentlessly and went on conservative media to meet his GOP critics and win them over. 
 
 
 </details>
