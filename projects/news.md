@@ -9,29 +9,31 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:13 AM CT, May. 28 </p> 
+ <p class="updated_time"> 09:25 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/05/28/world/russia-ukraine-war">Live Updates: Street Fighting in Key City as Russia Gains Ground in Ukraine’s East</a> NYT: Russian troops are moving closer to encircling the city, Sievierodonetsk, a major railway hub. The U.S. plans to send long-range mobile rocket launchers to the country. 
- <p class="updated_time"> 08:21 AM CT, May. 28 </p> 
+ <p class="updated_time"> 09:16 AM CT, May. 28 </p> 
+ <a href="https://www.nytimes.com/2022/05/28/us/politics/russia-syria-aid-refugees.html">Diplomats Fear Russia May Use Syrian Aid as Bargaining Chip in Ukraine</a> NYT: Countries in Europe and the Middle East could see a new surge in refugees if Russia shuts down the last humanitarian convoy route into Syria. 
+ <p class="updated_time"> 08:36 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 08:20 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/dublin-trinity-library-restoration.html">An Irish National Treasure Gets Set for a Long-Needed Restoration</a> NYT: The majestic Old Library at Trinity College Dublin, where some of Ireland’s most ancient and valuable books are stored, is a popular tourist attraction. 
- <p class="updated_time"> 07:21 AM CT, May. 28 </p> 
+ <p class="updated_time"> 07:36 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraine-is-accusing-russia-of-again-using-thermobaric-weapons-heres-what-makes-them-so-devastating-11653679508">Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating.</a> WSJ: Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating. 
  <p class="updated_time"> 07:01 AM CT, May. 28 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/28/1100469734/ethiopia-set-a-world-record-for-displacements-in-a-single-year-5-1-million-in-20">Ethiopia set a world record for displacements in a single year: 5.1 million in 2021</a> NPR: The war there is responsible — and makes it difficult just to assess the scale of displacement. Details are in a new report from the Internal Displacement Monitoring Centre. 
- <p class="updated_time"> 06:21 AM CT, May. 28 </p> 
+ <p class="updated_time"> 06:36 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
  <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/28/1098826216/like-the-linda-lindas-this-teen-girl-band-in-benin-makes-you-dance-and-think">Like The Linda Lindas, this teen girl band in Benin makes you dance — and think</a> NPR: The 7-member band hails from a conservative part of the country. They sing about female genital cutting, child marriage and gender equality. And they rock. 
+ <p class="updated_time"> 05:36 AM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
  <p class="updated_time"> 05:32 AM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61614782?at_medium=RSS&at_campaign=KARANGA">Trump: US should fund safe schools before Ukraine</a> BBC: Mr Trump rejects calls for gun control, saying Americans must be allowed to defend themselves from "evil". 
- <p class="updated_time"> 05:21 AM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
  <p class="updated_time"> 05:20 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/ukraine-orthodox-church-moscow.html">Ukrainian Orthodox Church Breaks With Moscow Over War</a> NYT: The Council of the Ukrainian Orthodox Church said that it disagreed with the Moscow Patriarch’s position on the war. 
  <p class="updated_time"> 05:00 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/canada/gun-laws-canada.html">What Canada Doesn’t Know About Its Guns</a> NYT: New record-keeping requirements for nonrestricted firearms began this month, but the origins of Canada’s so-called crime guns are largely unknown. 
- <p class="updated_time"> 04:21 AM CT, May. 28 </p> 
+ <p class="updated_time"> 04:36 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/iranian-military-seizes-two-greek-oil-tankers-in-persian-gulf-11653679153">Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf</a> WSJ: Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf 
  <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/france-metoo-patrick-poivre-darvor.html">The Fall of the ‘Sun King’ of French TV, and the Myth of Seduction</a> NYT: Patrick Poivre d’Arvor, known as a great seducer, has been accused by more than 20 women of rape, sexual assault and harassment in France’s belated #MeToo reckoning. 
@@ -183,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/asia/china-pacific-island-countries.html">China Seeks Sweeping Regional Deal With Pacific Island Countries</a> NYT: Newly obtained documents shed light on how Beijing hopes to win friends and gain influence in an area of strategic importance. 
  <p class="updated_time"> 10:54 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/climate/pebble-mine-alaska-epa.html">E.P.A. to Block Pebble Mine Project in Alaska</a> NYT: The E.P.A. has proposed to ban the disposal of mining waste in the Bristol Bay watershed, a decision that very likely means the end of the Pebble Mine project. 
- <p class="updated_time"> 10:50 PM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/25/world/asia/china-taiwan-military-drills.html">After Biden Visit, China Organizes Military Drills Near Taiwan</a> NYT: After President Biden suggested the United States would get involved militarily to defend Taiwan if China attacked it, China described organizing combat drills in the seas and airspace around Taiwan. 
  <p class="updated_time"> 08:16 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/gambia-prosecute-jammeh-murder.html">Gambia Says It Will Prosecute Former President for Murder</a> NYT: Victims of Yahya Jammeh, who ruled the West African country for 22 years, welcomed the announcement but said exactly how he will be brought to justice is not clear. 
  <p class="updated_time"> 08:09 PM CT, May. 25 </p> 
