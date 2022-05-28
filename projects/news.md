@@ -9,23 +9,27 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
+ <a href="https://www.nytimes.com/2022/05/28/world/europe/france-metoo-patrick-poivre-darvor.html">The Fall of the ‘Sun King’ of French TV, and the Myth of Seduction</a> NYT: Patrick Poivre d’Arvor, known as a great seducer, has been accused by more than 20 women of rape, sexual assault and harassment in France’s belated #MeToo reckoning. 
+ <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
+ <a href="https://www.nytimes.com/2022/05/28/world/europe/russian-soldiers-military-supplies.html">Russians Crowdsource Supplies for Their Army in Ukraine</a> NYT: A grass-roots movement to get basic supplies to soldiers fighting in Ukraine reflects the growing recognition among Russians that their military was unprepared for major conflict. 
+ <p class="updated_time"> 03:23 AM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 03:20 AM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61614782?at_medium=RSS&at_campaign=KARANGA">Trump: US should fund safe schools before Ukraine</a> BBC: Mr Trump rejects calls for gun control, saying Americans must be allowed to defend themselves from "evil". 
- <p class="updated_time"> 02:41 AM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 02:25 AM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61613177?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas shooting response was 'wrong', says official</a> BBC: "Please send the police now," one girl pleaded as officers waited over an hour to storm the classroom. 
  <p class="updated_time"> 02:25 AM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61615236?at_medium=RSS&at_campaign=KARANGA">Armed female bystander kills man firing at party in West Virginia</a> BBC: A woman at a birthday party drew her pistol and left the gunman with multiple wounds, police say. 
+ <p class="updated_time"> 02:23 AM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-is-accusing-russia-of-again-using-thermobaric-weapons-heres-what-makes-them-so-devastating-11653679508">Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating.</a> WSJ: Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating. 
  <p class="updated_time"> 01:43 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">What Happened on Day 93 of the War in Ukraine</a> NYT: A report by legal and rights experts cited a ‘genocidal pattern’ by Russia. Russian troops seized Lyman and moved closer to encircling Sievierodonetsk. 
- <p class="updated_time"> 01:41 AM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-accusing-russia-of-again-using-thermobaric-weapons-heres-what-makes-them-so-devastating-11653679508">Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating.</a> WSJ: Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating. 
- <p class="updated_time"> 12:41 AM CT, May. 28 </p> 
+ <p class="updated_time"> 01:23 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
- <p class="updated_time"> 11:41 PM CT, May. 27 </p> 
+ <p class="updated_time"> 12:23 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
- <p class="updated_time"> 10:41 PM CT, May. 27 </p> 
+ <p class="updated_time"> 11:23 PM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/iranian-military-seizes-two-greek-oil-tankers-in-persian-gulf-11653679153">Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf</a> WSJ: Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf 
  <p class="updated_time"> 10:26 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61615018?at_medium=RSS&at_campaign=KARANGA">Japanese Red Army founder Shigenobu freed after 20 years</a> BBC: Fusako Shigenobu, 76, was jailed for her part in a hostage siege at the French embassy in the Hague. 
@@ -108,7 +112,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 07:19 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61562545?at_medium=RSS&at_campaign=KARANGA">Palestinian report says Israel deliberately killed Al Jazeera's Shireen Abu Aqla</a> BBC: Their investigation finds a soldier intentionally shot Shireen Abu Aqla, but Israel calls it a lie. 
  <p class="updated_time"> 06:36 AM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61606488?at_medium=RSS&at_campaign=KARANGA">'Switch off the TV': Former Russian-state journalist's plea to Russians</a> BBC: Zhanna Agalakova quit her job in March over the invasion of Ukraine and is now in hiding. 
+ <a href="https://www.bbc.co.uk/news/world-europe-61606488?at_medium=RSS&at_campaign=KARANGA">'Switch off the TV': Former Russian-state journalist's plea to Russians</a> BBC: Zhanna Agalakova quit her job in March over the invasion of Ukraine and is now in exile. 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101198630/hace-40-anos-la-guerra-malvinas-falkland-transformo-el-rock-latino">Hace 40 años, la Guerra Malvinas-Falkland transformó el rock latino</a> NPR: Cuando se prohibió la transmisión de música en inglés en 1982, los grupos de rock argentino encontraron una oportunidad. 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
@@ -199,8 +203,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/europe/sue-gray-report-pdf.html">Read the Full U.K. Lockdown Parties Report</a> NYT: Sue Gray’s inquiry into illicit lockdown parties in Downing Street was released on Wednesday. 
  <p class="updated_time"> 06:21 AM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/24/us/politics/china-taiwan-military.html">U.S. Speeds Up Reshaping of Taiwan’s Defenses to Deter China</a> NYT: The Biden administration is taking lessons from the war in Ukraine to turn Taiwan into a “porcupine” bristling with weapons that would inflict severe pain if attacked. 
- <p class="updated_time"> 04:16 AM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/24/world/asia/north-korea-ballistic-missiles.html">North Korea Launches Suspected ICBM and Two Other Ballistic Missiles</a> NYT: The tests came just as President Biden wrapped up a trip to the region with a promise to deter the North’s nuclear and missile threat. 
 
 
 </details>
@@ -208,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
+ <a href="https://www.npr.org/2022/05/28/1101790481/gun-legislation-congress-uvalde">Senators are continuing talks during recess to find a compromise on gun legislation</a> NPR: Democratic Sen. Chris Murphy says he's optimistic that something can be done to address mass shootings like the one at a Texas elementary school that killed 19 children. 
  <p class="updated_time"> 02:00 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/us/politics/trump-endorsed-candidates-primary-elections.html">Trump’s Primary Losses Puncture His Invincibility</a> NYT: With many of Donald J. Trump’s endorsed candidates falling to defeat in recent primaries, some Republicans see an opening for a post-Trump candidate in 2024. 
  <p class="updated_time"> 09:28 PM CT, May. 27 </p> 
@@ -328,8 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/26/meadows-burned-papers-meeting-scott-perry-00035411">Meadows burned papers after meeting with Scott Perry, Jan. 6 panel told</a> Politico: The unusual move came after a meeting between then-President Donald Trump's then-chief of staff and the Pennsylvania Republican, according to recent testimony. 
  <p class="updated_time"> 12:23 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/a-top-white-house-aide-has-ties-to-amazon-adding-a-new-ingredient-to-the-bezos-biden-drama-00035398">Biden is squaring off with Bezos — and bringing back a top aide with Amazon ties</a> Politico: Anita Dunn is back in the administration, returning from a firm that does work for Amazon. 
- <p class="updated_time"> 11:56 AM CT, May. 26 </p> 
- <a href="https://www.npr.org/2022/05/26/1101503129/trump-ordered-to-testify-new-york-investigation">Trump loses an appeal and must testify in New York's civil investigation</a> NPR: Former President Donald Trump must answer questions under oath in New York Attorney General Letitia James' civil investigation into his business practices, a state appeals court ruled Thursday. 
  <p class="updated_time"> 11:52 AM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/trump-new-york-civil-probe-00035412">Trump ordered to sit for questioning in New York civil probe</a> Politico: New York Attorney General Letitia James alleges in the investigation that Trump misstated the values of assets in financial statements. 
  <p class="updated_time"> 11:37 AM CT, May. 26 </p> 
