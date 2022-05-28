@@ -9,27 +9,27 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:28 AM CT, May. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/28/world/russia-ukraine-war">Ukraine Live Updates: Russians Air Misgivings About the War</a> NYT: Russian troops are moving closer to encircling Sievierodonetsk in eastern Ukraine. The U.S. plans to send long-range mobile rocket launchers to the country. 
  <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/france-metoo-patrick-poivre-darvor.html">The Fall of the ‘Sun King’ of French TV, and the Myth of Seduction</a> NYT: Patrick Poivre d’Arvor, known as a great seducer, has been accused by more than 20 women of rape, sexual assault and harassment in France’s belated #MeToo reckoning. 
  <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/russian-soldiers-military-supplies.html">Russians Crowdsource Supplies for Their Army in Ukraine</a> NYT: A grass-roots movement to get basic supplies to soldiers fighting in Ukraine reflects the growing recognition among Russians that their military was unprepared for major conflict. 
- <p class="updated_time"> 03:23 AM CT, May. 28 </p> 
+ <p class="updated_time"> 03:38 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 03:20 AM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61614782?at_medium=RSS&at_campaign=KARANGA">Trump: US should fund safe schools before Ukraine</a> BBC: Mr Trump rejects calls for gun control, saying Americans must be allowed to defend themselves from "evil". 
+ <p class="updated_time"> 02:38 AM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-is-accusing-russia-of-again-using-thermobaric-weapons-heres-what-makes-them-so-devastating-11653679508">Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating.</a> WSJ: Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating. 
  <p class="updated_time"> 02:25 AM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61613177?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas shooting response was 'wrong', says official</a> BBC: "Please send the police now," one girl pleaded as officers waited over an hour to storm the classroom. 
  <p class="updated_time"> 02:25 AM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61615236?at_medium=RSS&at_campaign=KARANGA">Armed female bystander kills man firing at party in West Virginia</a> BBC: A woman at a birthday party drew her pistol and left the gunman with multiple wounds, police say. 
- <p class="updated_time"> 02:23 AM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-accusing-russia-of-again-using-thermobaric-weapons-heres-what-makes-them-so-devastating-11653679508">Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating.</a> WSJ: Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating. 
- <p class="updated_time"> 01:43 AM CT, May. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">What Happened on Day 93 of the War in Ukraine</a> NYT: A report by legal and rights experts cited a ‘genocidal pattern’ by Russia. Russian troops seized Lyman and moved closer to encircling Sievierodonetsk. 
- <p class="updated_time"> 01:23 AM CT, May. 28 </p> 
+ <p class="updated_time"> 01:38 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
- <p class="updated_time"> 12:23 AM CT, May. 28 </p> 
+ <p class="updated_time"> 12:38 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
- <p class="updated_time"> 11:23 PM CT, May. 27 </p> 
+ <p class="updated_time"> 11:38 PM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/iranian-military-seizes-two-greek-oil-tankers-in-persian-gulf-11653679153">Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf</a> WSJ: Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf 
  <p class="updated_time"> 10:26 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61615018?at_medium=RSS&at_campaign=KARANGA">Japanese Red Army founder Shigenobu freed after 20 years</a> BBC: Fusako Shigenobu, 76, was jailed for her part in a hostage siege at the French embassy in the Hague. 
@@ -223,7 +223,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 08:19 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/us/politics/nra-convention-guns.html">At N.R.A. Convention, the Blame Is on ‘Evil,’ Not Guns</a> NYT: Above all else, activists and politicians at the gathering sought to divert pressure to support popular overhauls like expanded background checks by seizing on the issue of school safety. 
  <p class="updated_time"> 07:35 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/us/politics/michael-sussmann-trial-durham.html">Prosecutors and Defense Duel in Closing Arguments of Sussmann Trial</a> NYT: A verdict is expected as early as Tuesday in the case brought by a Trump-era special counsel against a lawyer with ties to Hillary Clinton’s 2016 presidential campaign. 
+ <a href="https://www.nytimes.com/2022/05/27/us/politics/michael-sussmann-trial-durham.html">Prosecutors and Defense Duel in Closing Arguments of Politically Charged Trial</a> NYT: A verdict is expected as early as Tuesday in the case brought by a Trump-era special counsel against a lawyer with ties to Hillary Clinton’s 2016 presidential campaign. 
  <p class="updated_time"> 06:37 PM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/trump-gun-rights-nra-speech-uvalde-shooting-00035836">Trump champions gun rights in NRA speech days after Uvalde school shooting</a> Politico: The former president stressed the importance of added school security measures such as metal detectors and arming teachers. 
  <p class="updated_time"> 05:41 PM CT, May. 27 </p> 
@@ -300,8 +300,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/us/politics/zelensky-ukraine-war.html">How Does It End? Fissures Emerge Over What Constitutes Victory in Ukraine</a> NYT: Differing objectives foreshadow a coming debate about what position President Volodymyr Zelensky of Ukraine and his Western allies would take if negotiations to end the conflict finally get going. 
  <p class="updated_time"> 12:09 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101693246/ted-cruz-walks-off-reporter-uvalde-texas-school-shooting">Ted Cruz walks away from a reporter who asked why the U.S. has so many mass shootings</a> NPR: "Is this the moment to reform gun laws?" British reporter Mark Stone from Sky News asked the U.S. senator. 
- <p class="updated_time"> 11:05 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/us/politics/china-policy-biden.html">U.S. Aims to Constrain China by Shaping Its Environment, Blinken Says</a> NYT: The U.S. secretary of state gave a glimpse of President Biden’s classified strategy on China, in which officials have concluded they cannot change Beijing’s behavior. 
  <p class="updated_time"> 07:31 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/senate-guns-bipartisan-deal.html">Senators Grasp for a Bipartisan Gun Deal, Facing Long Odds</a> NYT: A group of Republicans and Democrats have begun an urgent set of talks aimed at reaching an elusive compromise on new gun laws. After a decade of failure, can this time be different? 
  <p class="updated_time"> 06:29 PM CT, May. 26 </p> 
@@ -313,7 +311,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 05:21 PM CT, May. 26 </p> 
  <a href="https://www.npr.org/2022/05/26/1101626629/clackamas-count-ballot-issue-schrader-mcleod-skinner-oregon-5th">Progressive challenger tops Oregon Rep. Schrader, after ballot issue delayed count</a> NPR: In Oregon's 5th Congressional District, centrist incumbent Rep. Kurt Schrader, who had President Biden's backing, lost to his more progressive opponent, Jamie McLeod-Skinner. 
  <p class="updated_time"> 05:03 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/us/politics/scott-pruitt-epa-report.html">Trump E.P.A. Chief ‘Endangered Public Safety’ by Ordering His Drivers to Speed</a> NYT: An internal report validated whistle-blower allegations that Scott Pruitt repeatedly forced his security detail to drive at dangerous speeds on routine trips because he was running late. 
+ <a href="https://www.nytimes.com/2022/05/26/us/politics/scott-pruitt-epa-report.html">Scott Pruitt ‘Endangered Public Safety’ by Forcing His Drivers to Speed</a> NYT: An internal report validated whistle-blower allegations that Scott Pruitt repeatedly forced his security detail to drive at dangerous speeds on routine trips because he was running late. 
  <p class="updated_time"> 04:16 PM CT, May. 26 </p> 
  <a href="https://www.npr.org/2022/05/26/1101569986/secretary-of-state-blinken-spells-out-the-biden-administrations-approach-to-chin">Secretary of State Blinken spells out the Biden administration's approach to China</a> NPR: In a long awaited speech, Secretary of State Antony Blinken called China the most serious long term challenge to the international order and a test for U.S. diplomacy. 
  <p class="updated_time"> 04:11 PM CT, May. 26 </p> 
