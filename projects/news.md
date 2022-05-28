@@ -11,23 +11,23 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 01:43 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">What Happened on Day 93 of the War in Ukraine</a> NYT: A report by legal and rights experts cited a ‘genocidal pattern’ by Russia. Russian troops seized Lyman and moved closer to encircling Sievierodonetsk. 
- <p class="updated_time"> 12:59 AM CT, May. 28 </p> 
+ <p class="updated_time"> 01:25 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
- <p class="updated_time"> 11:59 PM CT, May. 27 </p> 
+ <p class="updated_time"> 12:25 AM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraine-is-accusing-russia-of-again-using-thermobaric-weapons-heres-what-makes-them-so-devastating-11653679508">Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating.</a> WSJ: Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating. 
- <p class="updated_time"> 10:59 PM CT, May. 27 </p> 
+ <p class="updated_time"> 11:25 PM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
  <p class="updated_time"> 10:26 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61615018?at_medium=RSS&at_campaign=KARANGA">Japanese Red Army founder Shigenobu freed after 20 years</a> BBC: Fusako Shigenobu, 76, was jailed for her part in a hostage siege at the French embassy in the Hague. 
+ <p class="updated_time"> 10:25 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
  <p class="updated_time"> 10:20 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61613177?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas shooting response was 'wrong', says official</a> BBC: "Please send the police now," one girl pleaded as officers waited over an hour to storm the classroom. 
- <p class="updated_time"> 09:59 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
  <p class="updated_time"> 09:39 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61615236?at_medium=RSS&at_campaign=KARANGA">Armed female bystander kills man firing at party in West Virginia</a> BBC: A woman at a birthday bash drew her pistol and left the gunman with multiple wounds, police say. 
  <p class="updated_time"> 09:38 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/asia/un-china-xinjiang.html">China Spins U.N. Human Rights Chief’s Visit as Propaganda</a> NYT: Michelle Bachelet’s tour includes Xinjiang, where China has been accused of genocide. The terms of her visit are unclear, and critics say Beijing is using her for propaganda. 
- <p class="updated_time"> 08:59 PM CT, May. 27 </p> 
+ <p class="updated_time"> 09:25 PM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/iranian-military-seizes-two-greek-oil-tankers-in-persian-gulf-11653679153">Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf</a> WSJ: Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf 
  <p class="updated_time"> 07:05 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61604329?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz wobbles on tanks for Ukraine</a> BBC: Chancellor Olaf Scholz has appeared slow to respond to Russia's onslaught on its neighbour. 
@@ -208,6 +208,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, May. 28 </p> 
+ <a href="https://www.nytimes.com/2022/05/28/us/politics/trump-endorsed-candidates-primary-elections.html">Trump’s Primary Losses Puncture His Invincibility</a> NYT: With many of Donald J. Trump’s endorsed candidates falling to defeat in recent primaries, some Republicans see an opening for a post-Trump candidate in 2024. 
  <p class="updated_time"> 09:28 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/us/politics/fact-check-trump-cruz-nra.html">Fact-Checking Trump and Cruz at the N.R.A. Convention</a> NYT: The former president and the Texas senator made inaccurate or misleading claims about the efficacy of gun restrictions, gun ownership trends and school shootings. 
  <p class="updated_time"> 08:19 PM CT, May. 27 </p> 
@@ -284,8 +286,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/26/republican-senators-gun-control-texas-shooting-00035354">The 10 GOP senators to watch in the wake of the Texas school shooting</a> Politico: Democrats need to get at least 10 Senate Republicans on board to have a chance at even narrow gun safety legislation. Here's who's most likely to cut a deal. 
  <p class="updated_time"> 02:46 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/business/biden-poultry-processors-growers.html">White House Aims to Increase Regulation and Competition in Poultry Industry</a> NYT: More than 90 percent of chickens eaten by Americans are raised by farmers under contracts with poultry processing companies. 
- <p class="updated_time"> 01:25 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/us/politics/supreme-court-greenhouse-gas-emissions.html">Supreme Court Allows Greenhouse Gas Cost Estimates</a> NYT: Louisiana and other Republican-led states challenged a federal working group’s efforts to develop standards for agencies to use in quantifying the harms caused by emissions. 
  <p class="updated_time"> 11:56 AM CT, May. 26 </p> 
  <a href="https://www.npr.org/2022/05/26/1101503129/trump-ordered-to-testify-new-york-investigation">Trump loses an appeal and must testify in New York's civil investigation</a> NPR: Former President Donald Trump must answer questions under oath in New York Attorney General Letitia James' civil investigation into his business practices, a state appeals court ruled Thursday. 
  <p class="updated_time"> 06:42 AM CT, May. 26 </p> 
