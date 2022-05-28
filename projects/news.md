@@ -9,32 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:48 AM CT, May. 28 </p> 
+ <p class="updated_time"> 10:58 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/05/28/world/russia-ukraine-war">Live Updates: Street Fighting in Key City as Russia Gains Ground in Ukraine’s East</a> NYT: Russian troops are moving closer to encircling the city, Sievierodonetsk, a major railway hub. The U.S. plans to send long-range mobile rocket launchers to the country. 
- <p class="updated_time"> 09:37 AM CT, May. 28 </p> 
- <a href="https://www.nytimes.com/2022/05/28/obituaries/cardinal-angelo-sodano-dies.html">Cardinal Angelo Sodano, Vatican Power Broker Linked With Sex Abuse Cover-Ups, Dies at 94</a> NYT: Cardinal Angelo Sodano rose to the second-highest ranking position in the Roman Catholic Church, but his reputation was stained by his links to cover-ups of abuse. 
+ <p class="updated_time"> 10:44 AM CT, May. 28 </p> 
+ <a href="https://www.nytimes.com/2022/05/28/world/asia/un-human-rights-china.html">U.N. Human Rights Chief Tempers Criticism at End of China Trip</a> NYT: Rights groups and overseas Uyghurs had called for vociferous condemnation of China’s policies toward minorities in the country’s far West. They were highly disappointed. 
+ <p class="updated_time"> 10:40 AM CT, May. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61619638?at_medium=RSS&at_campaign=KARANGA">Russia scraps age limit for new troops in Ukraine push</a> BBC: Russia's military says it needs older recruits skilled in hi-tech weapons and other specialisms. 
+ <p class="updated_time"> 10:37 AM CT, May. 28 </p> 
+ <a href="https://www.npr.org/2022/05/28/1101640995/asian-founders-work-to-steer-the-narrative-as-beauty-trends-pull-from-their-cult">Asian founders work to steer the narrative as beauty trends pull from their cultures</a> NPR: The latest obsessions in America's wellness craze are rooted in South Asian practices. Industry leaders who grew up with those rituals are caught between joy and a battle against cultural erasure. 
+ <p class="updated_time"> 10:23 AM CT, May. 28 </p> 
+ <a href="https://www.nytimes.com/2022/05/28/obituaries/cardinal-angelo-sodano-dies.html">Cardinal Angelo Sodano, Vatican Power Broker Linked With Sex Abuse Cover-Ups, Dies at 94</a> NYT: He rose to the second-highest-ranking position in the Roman Catholic Church, but his reputation was stained by his handling of sex-abuse cases. 
+ <p class="updated_time"> 09:59 AM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
  <p class="updated_time"> 09:16 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/us/politics/russia-syria-aid-refugees.html">Diplomats Fear Russia May Use Syrian Aid as Bargaining Chip in Ukraine</a> NYT: Countries in Europe and the Middle East could see a new surge in refugees if Russia shuts down the last humanitarian convoy route into Syria. 
- <p class="updated_time"> 09:00 AM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
+ <p class="updated_time"> 08:59 AM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-is-accusing-russia-of-again-using-thermobaric-weapons-heres-what-makes-them-so-devastating-11653679508">Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating.</a> WSJ: Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating. 
  <p class="updated_time"> 08:20 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/dublin-trinity-library-restoration.html">An Irish National Treasure Gets Set for a Long-Needed Restoration</a> NYT: The majestic Old Library at Trinity College Dublin, where some of Ireland’s most ancient and valuable books are stored, is a popular tourist attraction. 
- <p class="updated_time"> 08:00 AM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-accusing-russia-of-again-using-thermobaric-weapons-heres-what-makes-them-so-devastating-11653679508">Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating.</a> WSJ: Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating. 
+ <p class="updated_time"> 07:59 AM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
  <p class="updated_time"> 07:01 AM CT, May. 28 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/28/1100469734/ethiopia-set-a-world-record-for-displacements-in-a-single-year-5-1-million-in-20">Ethiopia set a world record for displacements in a single year: 5.1 million in 2021</a> NPR: The war there is responsible — and makes it difficult just to assess the scale of displacement. Details are in a new report from the Internal Displacement Monitoring Centre. 
- <p class="updated_time"> 07:00 AM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
+ <p class="updated_time"> 06:59 AM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
  <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/28/1098826216/like-the-linda-lindas-this-teen-girl-band-in-benin-makes-you-dance-and-think">Like The Linda Lindas, this teen girl band in Benin makes you dance — and think</a> NPR: The 7-member band hails from a conservative part of the country. They sing about female genital cutting, child marriage and gender equality. And they rock. 
- <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
+ <p class="updated_time"> 05:59 AM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/iranian-military-seizes-two-greek-oil-tankers-in-persian-gulf-11653679153">Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf</a> WSJ: Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf 
  <p class="updated_time"> 05:32 AM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61614782?at_medium=RSS&at_campaign=KARANGA">Trump: US should fund safe schools before Ukraine</a> BBC: Mr Trump rejects calls for gun control, saying Americans must be allowed to defend themselves from "evil". 
  <p class="updated_time"> 05:20 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/ukraine-orthodox-church-moscow.html">Ukrainian Orthodox Church Breaks With Moscow Over War</a> NYT: The Council of the Ukrainian Orthodox Church said that it disagreed with the Moscow Patriarch’s position on the war. 
- <p class="updated_time"> 05:00 AM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/iranian-military-seizes-two-greek-oil-tankers-in-persian-gulf-11653679153">Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf</a> WSJ: Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf 
  <p class="updated_time"> 05:00 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/canada/gun-laws-canada.html">What Canada Doesn’t Know About Its Guns</a> NYT: New record-keeping requirements for nonrestricted firearms began this month, but the origins of Canada’s so-called crime guns are largely unknown. 
  <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
@@ -165,8 +171,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/26/1101569979/a-cyberwar-is-already-happening-in-ukraine-microsoft-analysts-say">A cyberwar is already happening in Ukraine, Microsoft analysts say</a> NPR: Microsoft's global ubiquity gives its cybersecurity experts a unique window into the Russian cyberwar against Ukraine. The software giant is involved in both monitoring and combatting attacks. 
  <p class="updated_time"> 04:10 PM CT, May. 26 </p> 
  <a href="https://www.npr.org/2022/05/26/1101451495/russia-ukraine-war-what-happened-today-may-26">Russia-Ukraine war: What happened today (May 26)</a> NPR: A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine. 
- <p class="updated_time"> 03:37 PM CT, May. 26 </p> 
- <a href="https://www.npr.org/2022/05/26/1101568190/haitians-face-horrifying-violence-as-gangs-run-out-of-local-authorities-control">Haitians face horrifying violence as gangs run out of local authorities' control</a> NPR: NPR's Ailsa Chang speaks with Jacqueline Charles of the Miami Herald about the spike in gang violence in Haiti and what it means for schools and hospitals. 
  <p class="updated_time"> 02:31 PM CT, May. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61600594?at_medium=RSS&at_campaign=KARANGA">Texas shooting victims: Relatives of children speak of their heartbreak</a> BBC: Relatives of the children killed in a shooting at a school in Uvalde, Texas speak of their heartbreak. 
  <p class="updated_time"> 02:25 PM CT, May. 26 </p> 
@@ -199,10 +203,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/europe/boris-johnson-sue-gray-report-partygate.html">Johnson Says He’s Humbled by ‘Partygate’ Report but Will Go On</a> NYT: The long-awaited report on boozy parties that violated lockdown rules was once seen as potentially ruinous for Prime Minister Boris Johnson, but the situation has changed. 
  <p class="updated_time"> 12:58 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/europe/monkeypox-stigma.html">Europe Greets Monkeypox With a Touch of Fatalism</a> NYT: With war raging in Ukraine, and the coronavirus still circulating, many in Europe say they have bigger worries than monkeypox. Some organizations, however, have raised concerns about stigma. 
- <p class="updated_time"> 10:56 AM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/25/world/africa/migrants-tunisian-coast.html">Dozens of Migrants Die After Boat Sinks Off Tunisian Coast</a> NYT: The vessel carried about 100 people and had left from a Libyan port city. 
- <p class="updated_time"> 10:40 AM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/25/world/europe/putin-russia-hospital-moscow.html">Putin Visits the Wounded at a Military Hospital in Moscow</a> NYT: The Russian leader also announces new social welfare measures and military benefits in an apparent effort to show Russians he is aware times are tough. 
 
 
 </details>
@@ -210,6 +210,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:50 AM CT, May. 28 </p> 
+ <a href="https://www.nytimes.com/2022/05/28/us/politics/gun-laws-senate-uvalde-buffalo.html">Massacres Test Whether Washington Can Move Beyond Paralysis on Gun Laws</a> NYT: The United States is facing a widening gap between the scale of gun violence and what America’s political leaders can agree are the right responses to the carnage. 
  <p class="updated_time"> 09:16 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/us/politics/russia-syria-aid-refugees.html">Diplomats Fear Russia May Use Syrian Aid as Bargaining Chip in Ukraine</a> NYT: Countries in Europe and the Middle East could see a new surge in refugees if Russia shuts down the last humanitarian convoy route into Syria. 
  <p class="updated_time"> 09:04 AM CT, May. 28 </p> 
@@ -224,6 +226,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/28/us/politics/trump-endorsed-candidates-primary-elections.html">Trump’s Primary Losses Puncture His Invincibility</a> NYT: With many of Donald J. Trump’s endorsed candidates falling to defeat in recent primaries, some Republicans see an opening for a post-Trump candidate in 2024. 
  <p class="updated_time"> 09:28 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/us/politics/fact-check-trump-cruz-nra.html">Fact-Checking Trump and Cruz at the N.R.A. Convention</a> NYT: The former president and the Texas senator made inaccurate or misleading claims about the efficacy of gun restrictions, gun ownership trends and school shootings. 
+ <p class="updated_time"> 08:19 PM CT, May. 27 </p> 
+ <a href="https://www.nytimes.com/2022/05/28/us/politics/border-patrol-uvalde.html">Border Patrol Unit Has Played High-Profile Role Before Uvalde</a> NYT: One of the unit’s sharpshooters killed the gunman at Robb Elementary School; its members have Special Forces-type training and often target smuggling operations. 
  <p class="updated_time"> 08:19 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/28/us/politics/nra-convention-guns.html">At N.R.A. Convention, the Blame Is on ‘Evil,’ Not Guns</a> NYT: Above all else, activists and politicians at the gathering sought to divert pressure to support popular overhauls like expanded background checks by seizing on the issue of school safety. 
  <p class="updated_time"> 07:35 PM CT, May. 27 </p> 
@@ -276,8 +280,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/27/1101693246/ted-cruz-walks-off-reporter-uvalde-texas-school-shooting">Ted Cruz walks away from a reporter who asked why the U.S. has so many mass shootings</a> NPR: "Is this the moment to reform gun laws?" British reporter Mark Stone from Sky News asked the U.S. senator. 
  <p class="updated_time"> 07:31 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/senate-guns-bipartisan-deal.html">Senators Grasp for a Bipartisan Gun Deal, Facing Long Odds</a> NYT: A group of Republicans and Democrats have begun an urgent set of talks aimed at reaching an elusive compromise on new gun laws. After a decade of failure, can this time be different? 
- <p class="updated_time"> 06:29 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/us/politics/paxlovid-white-house-covid-deaths.html">White House Pushes to Get Paxlovid to More Covid Patients</a> NYT: “What we’re trying to do is get to a point where Covid deaths are largely preventable, and I think we’re pretty close to there,” the White House Covid-19 response coordinator said. 
  <p class="updated_time"> 06:28 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/justice-dept-fbi-nassar.html">Justice Dept. Won’t Prosecute Ex-F.B.I. Agents Accused of Mishandling Nassar Case</a> NYT: The decision ends a review the department initiated in October, months after its inspector general issued a scathing report that sharply criticized the F.B.I.’s handling of the case. 
  <p class="updated_time"> 06:23 PM CT, May. 26 </p> 
@@ -292,8 +294,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/us/politics/michigan-republicans-governor-signatures.html">5 G.O.P. Candidates for Michigan Governor Are Disqualified Over Forged Signatures</a> NYT: James Craig and Perry Johnson, two of the party’s top contenders, were denied spots on the ballot by a state canvassing board. The party-line decision is expected to draw lawsuits. 
  <p class="updated_time"> 02:47 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/republican-senators-gun-control-texas-shooting-00035354">The 10 GOP senators to watch in the wake of the Texas school shooting</a> Politico: Democrats need to get at least 10 Senate Republicans on board to have a chance at even narrow gun safety legislation. Here's who's most likely to cut a deal. 
- <p class="updated_time"> 02:46 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/business/biden-poultry-processors-growers.html">White House Aims to Increase Regulation and Competition in Poultry Industry</a> NYT: More than 90 percent of chickens eaten by Americans are raised by farmers under contracts with poultry processing companies. 
  <p class="updated_time"> 01:25 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/supreme-court-greenhouse-gas-emissions.html">Supreme Court Allows Greenhouse Gas Cost Estimates</a> NYT: Louisiana and other Republican-led states challenged a federal working group’s efforts to develop standards for agencies to use in quantifying the harms caused by emissions. 
  <p class="updated_time"> 06:42 AM CT, May. 26 </p> 
@@ -312,8 +312,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/25/trump-expressed-support-hanging-pence-capitol-riot-jan-6-00035117">Trump expressed support for hanging Pence during Capitol riot, Jan. 6 panel told</a> Politico: The select panel has heard that, after "hang Mike Pence” chants broke out, the then-president expressed support for the prospect of hanging his No. 2, three people told POLITICO. 
  <p class="updated_time"> 11:48 AM CT, May. 25 </p> 
  <a href="https://www.politico.com/news/2022/05/25/atf-nominee-gop-gun-law-criticisms-00035056">ATF nominee tries to address GOP criticisms in wake of mass shooting</a> Politico: Steven Dettelbach said he hugged his children "a little bit harder" following Tuesday's mass killing in a Texas elementary school. 
- <p class="updated_time"> 10:54 AM CT, May. 25 </p> 
- <a href="https://www.politico.com/news/2022/05/25/skeptical-schumer-bipartisan-gun-talks-senate-00035072">Senate begins search for bipartisan gun deal after Schumer's green light</a> Politico: “It’s the only approach that will result in law,” said Majority Whip Dick Durbin. “He said if there’s even the possibility of getting bipartisanship, we’ll try to find it.” 
 
 
 </details>
