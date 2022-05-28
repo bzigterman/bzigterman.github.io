@@ -9,24 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:15 PM CT, May. 28 </p> 
+ <p class="updated_time"> 03:46 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/05/28/world/russia-ukraine-war">Live Updates: Street Fighting in Key City as Russia Gains Ground in Ukraine’s East</a> NYT: Russian troops are moving closer to encircling the city, Sievierodonetsk, a major railway hub. The U.S. plans to send long-range mobile rocket launchers to the country. 
+ <p class="updated_time"> 02:49 PM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308">Putin Says Russia Open to More Talks With Ukraine</a> WSJ: Putin Says Russia Open to More Talks With Ukraine 
  <p class="updated_time"> 01:52 PM CT, May. 28 </p> 
  <a href="https://www.npr.org/2022/05/28/1101948971/russia-hypersonic-missile-test">Russia says it has test-fired another hypersonic missile</a> NPR: The Russian navy on Saturday conducted another test of a prospective hypersonic missile, a demonstration of the military's long-range strike capability amid the fighting in Ukraine. 
- <p class="updated_time"> 01:52 PM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308">Putin Says Russia Open to More Talks With Ukraine</a> WSJ: Putin Says Russia Open to More Talks With Ukraine 
+ <p class="updated_time"> 01:49 PM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
+ <p class="updated_time"> 01:35 PM CT, May. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61618907?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin urged to hold 'direct, serious negotiations' with Zelensky</a> BBC: In a lengthy phone call with Russia's leader, France and Germany call for "direct, serious" talks. 
  <p class="updated_time"> 12:52 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/dublin-trinity-library-restoration.html">An Irish National Treasure Gets Set for a Long-Needed Restoration</a> NYT: The majestic Old Library at Trinity College Dublin, where some of Ireland’s most ancient and valuable books are stored, is a popular tourist attraction. 
- <p class="updated_time"> 12:52 PM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
+ <p class="updated_time"> 12:49 PM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202">Ukraine Struggles to Preserve  Alleged War-Crime Evidence</a> WSJ: Ukraine Struggles to Preserve  Alleged War-Crime Evidence 
  <p class="updated_time"> 12:14 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/australia/dna-phenotyping.html">Australia Wields a New DNA Tool to Crack Missing-Person Mysteries</a> NYT: The technique can predict a person’s ancestry and physical traits without the need for a match with an existing sample in a database. 
- <p class="updated_time"> 11:52 AM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202">Ukraine Struggles to Preserve  Alleged War-Crime Evidence</a> WSJ: Ukraine Struggles to Preserve  Alleged War-Crime Evidence 
+ <p class="updated_time"> 11:49 AM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
  <p class="updated_time"> 11:30 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/ukraine-war-last-day-of-school.html">Sounds of bombardment drown out the ‘last bell’ for the final day of school in Ukraine.</a> NYT: On what is usually a day of festivities and fun, many of Ukraine’s students ended the academic year amid the sounds of war or from abroad. 
- <p class="updated_time"> 10:52 AM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
+ <p class="updated_time"> 10:49 AM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/prince-charless-campaigning-ways-run-through-suburb-he-helped-design-11653753600">Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design</a> WSJ: Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design 
  <p class="updated_time"> 10:44 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/asia/un-human-rights-china.html">U.N. Human Rights Chief Tempers Criticism at End of China Trip</a> NYT: Rights groups and overseas Uyghurs had called for vociferous condemnation of China’s policies toward minorities in the country’s far West. They were highly disappointed. 
  <p class="updated_time"> 10:40 AM CT, May. 28 </p> 
@@ -35,8 +39,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/28/1101640995/gua-sha-hair-oiling-aapi-culture">Asian founders work to steer the narrative as beauty trends pull from their cultures</a> NPR: The latest obsessions in America's wellness craze are rooted in South Asian practices. Industry leaders who grew up with those rituals are caught between joy and a battle against cultural erasure. 
  <p class="updated_time"> 10:23 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/obituaries/cardinal-angelo-sodano-dies.html">Cardinal Angelo Sodano, Vatican Power Broker Linked With Sex Abuse Cover-Ups, Dies at 94</a> NYT: He rose to the second-highest-ranking position in the Roman Catholic Church, but his reputation was stained by his handling of sex-abuse cases. 
- <p class="updated_time"> 09:52 AM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/prince-charless-campaigning-ways-run-through-suburb-he-helped-design-11653753600">Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design</a> WSJ: Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design 
  <p class="updated_time"> 09:16 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/us/politics/russia-syria-aid-refugees.html">Diplomats Fear Russia May Use Syrian Aid as Bargaining Chip in Ukraine</a> NYT: Countries in Europe and the Middle East could see a new surge in refugees if Russia shuts down the last humanitarian convoy route into Syria. 
  <p class="updated_time"> 07:03 AM CT, May. 28 </p> 
@@ -103,8 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61610831?at_medium=RSS&at_campaign=KARANGA">Ukraine round-up: Donbas town falls as ex-reporter urges Russians to turn off TV</a> BBC: There has been intense fighting in Lyman and Kyiv says pro-Russian forces control most of the city. 
  <p class="updated_time"> 02:28 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iraqi-parliament-anti-normalization-israel.html">Iraqi Parliament Expands Law Against Normalizing Ties With Israel</a> NYT: The legislation, based on a similar law dating back to 1969, makes it a crime punishable by death. It makes Iraq an outlier in the Arab world, where more countries are forging diplomatic relations with Israel. 
- <p class="updated_time"> 02:21 PM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61610470?at_medium=RSS&at_campaign=KARANGA">Johnny Depp: Jury deliberations begin in Amber Heard defamation trial</a> BBC: The high profile celebrity defamation case comes to a close six weeks after it began. 
  <p class="updated_time"> 01:12 PM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/iranian-military-seizes-two-greek-oil-tankers-in-persian-gulf-11653679153">Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf</a> WSJ: Iranian helicopters boarded two ships days after U.S. ordered confiscation of Iranian oil cargo near Greece. 
  <p class="updated_time"> 11:36 AM CT, May. 27 </p> 
@@ -185,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/africa/gambia-prosecute-jammeh-murder.html">Gambia Says It Will Prosecute Former President for Murder</a> NYT: Victims of Yahya Jammeh, who ruled the West African country for 22 years, welcomed the announcement but said exactly how he will be brought to justice is not clear. 
  <p class="updated_time"> 08:09 PM CT, May. 25 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/americas/2nd-amendment-gun-laws.html">In the U.S., Backlash to Civil Rights Era Made Guns a Political Third Rail</a> NYT: Other countries changed course after massacres. But American political protection for guns is unique, and has become inseparable from conservative credentials. 
- <p class="updated_time"> 03:29 PM CT, May. 25 </p> 
- <a href="https://www.nytimes.com/2022/05/25/business/e-gerald-corrigan-dead.html">E. Gerald Corrigan, Who Helped Ease ’87 Stock Crash, Dies at 80</a> NYT: As president of the Federal Reserve Bank of New York, he favored flooding the financial system with cash to restore confidence among investors. 
 
 
 </details>
