@@ -9,32 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:00 PM CT, May. 28 </p> 
+ <p class="updated_time"> 05:29 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/live/2022/05/28/world/russia-ukraine-war">Live Updates: Street Fighting in Key City as Russia Gains Ground in Ukraine’s East</a> NYT: Russian troops are moving closer to encircling the city, Sievierodonetsk, a major railway hub. The U.S. plans to send long-range mobile rocket launchers to the country. 
+ <p class="updated_time"> 05:13 PM CT, May. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61621470?at_medium=RSS&at_campaign=KARANGA">Ulvade shooting: Kamala Harris calls for assault weapons ban</a> BBC: The US vice-president makes the plea as she attends the funeral of a victim of the Buffalo shooting. 
+ <p class="updated_time"> 04:52 PM CT, May. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61619783?at_medium=RSS&at_campaign=KARANGA">US gun laws: Kamala Harris calls for assault weapons ban</a> BBC: The US vice-president was attending the funeral of a woman shot dead in Buffalo, New York state. 
+ <p class="updated_time"> 04:37 PM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308">Putin Says Russia Open to More Talks With Ukraine</a> WSJ: Putin Says Russia Open to More Talks With Ukraine 
+ <p class="updated_time"> 04:27 PM CT, May. 28 </p> 
+ <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Tropical Storm Agatha Headed to the Mexican Coast</a> NYT: This year’s first named storm in the eastern Pacific has the potential to become a Category 2 hurricane, forecasters said on Saturday. 
  <p class="updated_time"> 03:59 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61618902?at_medium=RSS&at_campaign=KARANGA">Russia won't use tactical nuclear weapons in Ukraine, says ambassador to UK</a> BBC: Andrei Kelin tells the BBC tactical nuclear weapons have "nothing to do" with operations in Ukraine. 
- <p class="updated_time"> 03:25 PM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308">Putin Says Russia Open to More Talks With Ukraine</a> WSJ: Putin Says Russia Open to More Talks With Ukraine 
+ <p class="updated_time"> 03:37 PM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
  <p class="updated_time"> 02:47 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61616622?at_medium=RSS&at_campaign=KARANGA">Russia scraps army age limit and a bike ride from hell</a> BBC: France and Germany call for "direct, serious" talks between President Putin and Ukraine's leader. 
- <p class="updated_time"> 02:25 PM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
+ <p class="updated_time"> 02:37 PM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202">Ukraine Struggles to Preserve  Alleged War-Crime Evidence</a> WSJ: Ukraine Struggles to Preserve  Alleged War-Crime Evidence 
  <p class="updated_time"> 01:52 PM CT, May. 28 </p> 
  <a href="https://www.npr.org/2022/05/28/1101948971/russia-hypersonic-missile-test">Russia says it has test-fired another hypersonic missile</a> NPR: The Russian navy on Saturday conducted another test of a prospective hypersonic missile, a demonstration of the military's long-range strike capability amid the fighting in Ukraine. 
+ <p class="updated_time"> 01:37 PM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
  <p class="updated_time"> 01:35 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61618907?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin urged to hold 'direct, serious negotiations' with Zelensky</a> BBC: In a lengthy phone call with Russia's leader, France and Germany call for "direct, serious" talks. 
- <p class="updated_time"> 01:25 PM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202">Ukraine Struggles to Preserve  Alleged War-Crime Evidence</a> WSJ: Ukraine Struggles to Preserve  Alleged War-Crime Evidence 
  <p class="updated_time"> 12:52 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/dublin-trinity-library-restoration.html">An Irish National Treasure Gets Set for a Long-Needed Restoration</a> NYT: The majestic Old Library at Trinity College Dublin, where some of Ireland’s most ancient and valuable books are stored, is a popular tourist attraction. 
- <p class="updated_time"> 12:25 PM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
+ <p class="updated_time"> 12:37 PM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/prince-charless-campaigning-ways-run-through-suburb-he-helped-design-11653753600">Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design</a> WSJ: Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design 
  <p class="updated_time"> 12:14 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/australia/dna-phenotyping.html">Australia Wields a New DNA Tool to Crack Missing-Person Mysteries</a> NYT: The technique can predict a person’s ancestry and physical traits without the need for a match with an existing sample in a database. 
  <p class="updated_time"> 11:30 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/ukraine-war-last-day-of-school.html">Sounds of bombardment drown out the ‘last bell’ for the final day of school in Ukraine.</a> NYT: On what is usually a day of festivities and fun, many of Ukraine’s students ended the academic year amid the sounds of war or from abroad. 
- <p class="updated_time"> 11:25 AM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/prince-charless-campaigning-ways-run-through-suburb-he-helped-design-11653753600">Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design</a> WSJ: Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design 
  <p class="updated_time"> 10:44 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/asia/un-human-rights-china.html">U.N. Human Rights Chief Tempers Criticism at End of China Trip</a> NYT: Rights groups and overseas Uyghurs had called for vociferous condemnation of China’s policies toward minorities in the country’s far West. They were highly disappointed. 
  <p class="updated_time"> 10:37 AM CT, May. 28 </p> 
@@ -127,8 +133,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61610162?at_medium=RSS&at_campaign=KARANGA">Drought's devastating toll on Somalia's children</a> BBC: The United Nations is warning that the country risks famine should global food prices continue to rise. 
  <p class="updated_time"> 07:38 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/27/1099739656/do-restrictive-abortion-laws-actually-reduce-abortion-a-global-map-offers-insigh">Do restrictive abortion laws actually reduce abortion? A global map offers insights</a> NPR: Click to see how restrictive or liberal local abortion laws are — and to look at the rate of abortion. The data offers a sense of whether stricter abortion laws reduce the number of abortions. 
- <p class="updated_time"> 07:19 AM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61562545?at_medium=RSS&at_campaign=KARANGA">Palestinian report says Israel deliberately killed Al Jazeera's Shireen Abu Aqla</a> BBC: Their investigation finds a soldier intentionally shot Shireen Abu Aqla, but Israel calls it a lie. 
  <p class="updated_time"> 06:36 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61606488?at_medium=RSS&at_campaign=KARANGA">'Switch off the TV': Former Russian-state journalist's plea to Russians</a> BBC: Zhanna Agalakova quit her job in March over the invasion of Ukraine and is now in exile. 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
@@ -192,26 +196,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:52 PM CT, May. 28 </p> 
+ <a href="https://www.npr.org/2022/05/28/1101955649/vice-president-kamala-harris-buffalo-victim-funeral">Harris calls for unity as Buffalo lays the last shooting victim to rest</a> NPR: Vice President Harris spoke during the memorial service for Ruth Whitfield, the last of 10 Black people killed in a racist attack at a Buffalo supermarket to be laid to rest. 
+ <p class="updated_time"> 04:33 PM CT, May. 28 </p> 
+ <a href="https://www.nytimes.com/2022/05/28/us/politics/gun-laws-senate-uvalde-buffalo.html">Massacres Test Whether Washington Can Move Beyond Paralysis on Gun Laws</a> NYT: The United States is facing a widening gap between the scale of gun violence and what America’s political leaders can agree are the right responses to the carnage. 
  <p class="updated_time"> 04:19 PM CT, May. 28 </p> 
  <a href="https://www.npr.org/2022/05/28/1101955081/at-nra-convention-in-houston-politicians-deflect-blame">At NRA convention in Houston, politicians deflect blame</a> NPR: In Texas, the National Rifle Association meets in Houston as families in Uvalde are mourning children slain in a massacre earlier this week. 
  <p class="updated_time"> 01:32 PM CT, May. 28 </p> 
  <a href="https://www.npr.org/2022/05/28/1101931160/baby-formula-shortage-overseas-shipments">More baby formula shipments arrive from overseas in an effort to ease the shortage</a> NPR: Australia is sending the equivalent of more than 27 million 8-ounce bottles of goat's milk and other baby formulas, as the U.S. government works to replenish store shelves during the shortage. 
- <p class="updated_time"> 12:46 PM CT, May. 28 </p> 
- <a href="https://www.nytimes.com/2022/05/28/us/politics/gun-laws-senate-uvalde-buffalo.html">Massacres Test Whether Washington Can Move Beyond Paralysis</a> NYT: The United States is facing a widening gap between the scale of gun violence and what America’s political leaders can agree are the right responses to the carnage. 
  <p class="updated_time"> 11:55 AM CT, May. 28 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
- <p class="updated_time"> 11:27 AM CT, May. 28 </p> 
- <a href="https://www.politico.com/news/2022/05/28/biden-to-delaware-grads-now-its-your-hour-00035849">Biden to Delaware grads: 'Now it's your hour'</a> Politico: “Your generation, more than anyone else will have to answer the question, Who are we? What do we stand for? What do we believe? Who will we be?" Biden said. 
  <p class="updated_time"> 09:16 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/us/politics/russia-syria-aid-refugees.html">Diplomats Fear Russia May Use Syrian Aid as Bargaining Chip in Ukraine</a> NYT: Countries in Europe and the Middle East could see a new surge in refugees if Russia shuts down the last humanitarian convoy route into Syria. 
  <p class="updated_time"> 09:04 AM CT, May. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/28/the-conspiracy-theory-convention-00035846"> The conspiracy theory convention</a> Politico Playbook: And the Georgia Trump investigation heats up. 
  <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
  <a href="https://www.politico.com/news/2022/05/28/high-flying-stefanik-scorched-by-allies-whisper-campaign-against-a-rival-00035839">Trump Jr. allies issue warning to Stefanik camp: Don’t go after Tucker’s kid</a> Politico: She faces plenty of future GOP leadership competitors, including Rep. Jim Banks. And her camp got burned after allegedly raising Banks aide Buckley Carlson. 
- <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
- <a href="https://www.politico.com/news/2022/05/28/abortion-rights-midterms-democrats-malinowski-00035367">N.J. Dems sacrificed Tom Malinowski. Can abortion rights save him?</a> Politico: The 56-year-old two-term Democrat was reelected in 2020 by just 1 percentage point over his Republican opponent. 
- <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
- <a href="https://www.politico.com/news/2022/05/28/gas-prices-rising-electric-cars-00035425">Gas prices are rising. So where are the electric cars?</a> Politico: Democrats see electric vehicles as an answer to climate change, and high fuel costs mean more Americans are interested. But inflation and a shortage of new cars are making that transition painful. 
  <p class="updated_time"> 04:01 AM CT, May. 28 </p> 
  <a href="https://www.npr.org/2022/05/28/1101814449/as-a-jury-weighs-if-a-lawyer-lied-to-the-fbi-durhams-legacy-hangs-in-the-balance">As a jury weighs if a lawyer lied to the FBI, Durham's legacy hangs in the balance</a> NPR: Michael Sussmann faces one charge of lying to the FBI ahead of the 2016 presidential election. It's the first courtroom test for special counsel John Durham, appointed by the Trump administration. 
  <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
@@ -220,16 +220,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/28/us/politics/trump-endorsed-candidates-primary-elections.html">Trump’s Primary Losses Puncture His Invincibility</a> NYT: With many of Donald J. Trump’s endorsed candidates falling to defeat in recent primaries, some Republicans see an opening for a post-Trump candidate in 2024. 
  <p class="updated_time"> 09:28 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/us/politics/fact-check-trump-cruz-nra.html">Fact-Checking Trump and Cruz at the N.R.A. Convention</a> NYT: The former president and the Texas senator made inaccurate or misleading claims about the efficacy of gun restrictions, gun ownership trends and school shootings. 
- <p class="updated_time"> 08:23 PM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/nra-convention-uvalde-shooting-00035842">'It's straight out of a playbook': At NRA convention, conspiracy theories abound</a> Politico: To many attendees, the mass shooting in Uvalde was about mental illness and dark forces pushing their own agendas. 
  <p class="updated_time"> 08:19 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/28/us/politics/border-patrol-uvalde.html">Border Patrol Unit Has Played High-Profile Role Before Uvalde</a> NYT: One of the unit’s sharpshooters killed the gunman at Robb Elementary School; its members have Special Forces-type training and often target smuggling operations. 
  <p class="updated_time"> 08:19 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/28/us/politics/nra-convention-guns.html">At N.R.A. Convention, the Blame Is on ‘Evil,’ Not Guns</a> NYT: Above all else, activists and politicians at the gathering sought to divert pressure to support popular overhauls like expanded background checks by seizing on the issue of school safety. 
  <p class="updated_time"> 07:35 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/us/politics/michael-sussmann-trial-durham.html">Prosecutors and Defense Duel in Closing Arguments of Sussmann Trial</a> NYT: A verdict is expected as early as Tuesday in the case brought by a Trump-era special counsel against a lawyer with ties to Hillary Clinton’s 2016 presidential campaign. 
- <p class="updated_time"> 06:37 PM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/trump-gun-rights-nra-speech-uvalde-shooting-00035836">Trump champions gun rights in NRA speech days after Uvalde school shooting</a> Politico: The former president stressed the importance of added school security measures such as metal detectors and arming teachers. 
  <p class="updated_time"> 05:41 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/us/politics/california-senate-candidate-odowd-musk.html">Meet the Reclusive Software Billionaire Attacking Elon Musk</a> NYT: Dan O’Dowd, a software entrepreneur in California, is running for Senate on a single-issue platform: Tesla’s self-driving software. 
  <p class="updated_time"> 04:20 PM CT, May. 27 </p> 
@@ -242,14 +238,10 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/27/1101837166/former-president-trump-speaks-at-the-nra-convention-in-houston">Former President Trump speaks at the NRA convention in Houston</a> NPR: Former President Trump speaks at the  National Rifle Association convention in Houston — days after a deadly school shooting in another part of Texas. 
  <p class="updated_time"> 04:00 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101837152/congress-is-commemorating-the-1969-harlem-cultural-festival">Congress is commemorating the 1969 Harlem Cultural Festival</a> NPR: The Senate has agreed, by unanimous consent, to designate the last weekend of June 2022 as a time to commemorate the first weekend of the 1969 Harlem Cultural Festival. 
- <p class="updated_time"> 03:57 PM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/arming-teachers-hard-gun-loving-texas-00035794">Arming teachers is hard, even in gun-loving Texas</a> Politico: Texas has allowed teachers to sign up as campus “marshals” since 2013 through a program created after the shooting at Sandy Hook Elementary. 
  <p class="updated_time"> 03:09 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101837082/rep-castro-lost-confidence-in-uvalde-officials-so-he-called-the-fbi">Rep. Castro 'lost confidence' in Uvalde officials. So he called the FBI</a> NPR: NPR's Ailsa Chang talks with Texas Rep. Joaquin Castro, a Democrat, about his request that the FBI investigate the timeline of law enforcement response at the Uvalde school shooting. 
  <p class="updated_time"> 02:44 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/us/politics/oregon-kurt-schrader-jamie-mcleod-skinner.html">Jamie McLeod-Skinner Defeats Kurt Schrader in Oregon</a> NYT: In an upset, Jamie McLeod-Skinner defeated Representative Kurt Schrader, a leading moderate in Congress who had been endorsed by President Biden. 
- <p class="updated_time"> 01:20 PM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/texas-police-wrong-decision-wait-breaching-uvalde-classroom-00035760">Texas official: Police made ‘wrong decision’ to wait on breaching Uvalde classroom</a> Politico: The on-scene commander believed at the time that the gunman had barricaded himself and that the children were no longer at risk. 
  <p class="updated_time"> 01:12 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101801511/trump-lawsuit-new-york-attorney-general-dismissed-letitia-james">A judge has dismissed Trump's lawsuit against New York's attorney general</a> NPR: A federal judge's dismissal of former President Donald Trump's lawsuit against New York Attorney General Letitia James allows her civil investigation into his business practices to continue. 
  <p class="updated_time"> 01:11 PM CT, May. 27 </p> 
@@ -258,18 +250,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/27/1101741366/human-trafficking-farmworker-abuse-georgia">A human-trafficking case exposed farmworker abuses. The government is promising change</a> NPR: In response to a letter from Sen. Jon Ossoff, Homeland Security said it plans to begin the process to create new rules to increase protections for farmworkers. 
  <p class="updated_time"> 12:26 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101779681/pennsylvania-undated-ballots-senate-race-oz-mccormick-recount">How undated ballots could affect Pennsylvania's GOP Senate race and voters' rights</a> NPR: Mail-in ballots that arrived on time but in envelopes missing dates handwritten by voters have been a flashpoint in recent elections in the key swing state, including a close Republican primary race. 
- <p class="updated_time"> 11:44 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/inflation-blame-game-sorting-out-the-culprits-00035712">Inflation blame game: Sorting out the culprits</a> Politico: The truth about who or what is actually at fault for inflation numbers not seen since the 1980s is more complex than any political talking points or anti-Fed screeds. 
- <p class="updated_time"> 11:35 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/u-s-sending-rocket-systems-ukraine-00035698">U.S. leans toward sending rocket systems to Ukraine</a> Politico: Kyiv has been asking for the weapons for months, but no final decision has been made. 
- <p class="updated_time"> 11:28 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/centrist-schrader-ousted-in-oregon-primary-00035728">Centrist Schrader ousted in Oregon primary</a> Politico: Rep. Kurt Schrader, a seven-term centrist Democrat from Oregon, has lost his primary to a progressive challenger, handing a massive win to the party’s left flank. 
- <p class="updated_time"> 11:21 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/judge-dismisses-trump-new-york-lawsuit-00035707">Judge dismisses Trump’s lawsuit seeking to stop New York civil probe</a> Politico: The U.S. District Court judge granted Tish James’ motion to dismiss Donald Trump’s complaint, allowing the probe of his business practices to continue. 
- <p class="updated_time"> 10:45 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/dr-oz-gop-nominee-00035694">Dr. Oz jumps the gun, declares himself ‘presumptive’ GOP Senate nominee</a> Politico: Pennsylvania election officials confirm that there are roughly 1,200 Republican mail-in ballots left to be adjudicated, in addition to 4,000 outstanding provisional ballots from all parties. 
- <p class="updated_time"> 09:52 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/prosecution-clinton-campaign-attorney-00035682">Prosecution: 'Overwhelming' evidence of guilt for Clinton campaign attorney</a> Politico: Jury began deliberations Friday in false-statement case against lawyer Michael Sussmann 
  <p class="updated_time"> 09:05 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/business/energy-environment/gas-prices-summer-driving.html">Gas Prices Hit New Highs as Summer Driving Season Starts</a> NYT: A gallon has jumped by about 50 cents over the last month as Russia’s war in Ukraine has continued to unsettle the global energy market. 
  <p class="updated_time"> 09:00 AM CT, May. 27 </p> 
@@ -278,8 +258,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/huddle/2022/05/27/senators-leave-town-in-the-talking-stage-00035662">Senators leave town in the talking stage</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:15 AM CT, May. 27 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/27/trumps-recent-losses-embolden-team-cheney-00035654"> Trump’s recent losses embolden Team Cheney</a> Politico Playbook: And Biden will travel to Uvalde on Sunday. 
- <p class="updated_time"> 04:48 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/wyoming-gop-liz-cheney-00035609">Will ‘extremism’ fracture the GOP? Cheney vs. Trump in Wyoming</a> Politico: Playbook co-author Ryan Lizza is in Wyoming this week talking to Victoria Eavis of the Casper Star-Tribune and Joseph McGinley, a Casper physician who led the Natrona County GOP for four years until 2021, and has repeatedly butted heads with a group of Trump-aligned activists. 
  <p class="updated_time"> 04:09 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101701883/democratic-senators-call-on-republicans-to-do-something-about-gun-safety">Democratic senators call on Republicans to do something about gun safety</a> NPR: Another mass shooting and lawmakers talk tough about gun safety — yet possibly getting nothing done. As some in Congress try to find common ground on background checks, can this time be different? 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
@@ -287,23 +265,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:38 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/asylum-system.html">U.S. to Begin Allowing Migrants to Apply for Asylum Under a New System</a> NYT: The rollout of the process for some arrivals at the southwestern border will be small, but could represent the tip of broad changes to the asylum system. 
  <p class="updated_time"> 03:31 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/cheney-reelection-poll-00035597">As Cheney files for reelection, poll from rival group shows her trailing badly</a> Politico: The survey, conducted by the Club for Growth, is consistent with other data out of Wyoming in the last year. 
- <p class="updated_time"> 03:31 AM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/sinema-manchins-filibuster-defense-pressures-on-gop-on-guns-00035543">The GOP’s two favorite Dems try to turn their cred into a guns deal</a> Politico: Sens. Joe Manchin (D-W.Va.) and Kyrsten Sinema (D-Ariz.) have cut a huge infrastructure deal with Republicans and helped preserve the filibuster. Can that give them bipartisan progress on the thorniest of issues? 
- <p class="updated_time"> 03:30 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/unfair-fema-climate-program-floods-00032080">How FEMA helps white and rich Americans escape floods</a> Politico: An investigation by POLITICO's E&E News reveals systemic favoritism toward wealthy and white people in a federal program that lifts homes above rising floodwaters. 
- <p class="updated_time"> 03:30 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/wisconsin-senate-race-barnes-lasry-00035580">Wisconsin Senate race tightens as rivals close in on Barnes</a> Politico: Milwaukee Bucks executive Alex Lasry, who has loaned millions out of his own pocket to his campaign, is a close second to the Wisconsin lieutenant governor. 
- <p class="updated_time"> 03:30 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/gallery/2022/05/27/the-nations-cartoonists-on-the-week-in-politics-00035579">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 03:30 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/swing-state-politics-stymie-gun-debate-00035637">The gun debate roadblock you might not expect: Swing states</a> Politico: In some top Senate battlegrounds, gun-drenched GOP primaries and high firearm ownership rates thwart any chance of serious reform. 
  <p class="updated_time"> 02:20 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/zelensky-ukraine-war.html">How Does It End? Fissures Emerge Over What Constitutes Victory in Ukraine</a> NYT: Differing objectives foreshadow a coming debate about what position President Volodymyr Zelensky of Ukraine and his Western allies would take if negotiations to end the conflict finally get going. 
- <p class="updated_time"> 12:09 AM CT, May. 27 </p> 
- <a href="https://www.npr.org/2022/05/27/1101693246/ted-cruz-walks-off-reporter-uvalde-texas-school-shooting">Ted Cruz walks away from a reporter who asked why the U.S. has so many mass shootings</a> NPR: "Is this the moment to reform gun laws?" British reporter Mark Stone from Sky News asked the U.S. senator. 
- <p class="updated_time"> 09:03 PM CT, May. 26 </p> 
- <a href="https://www.politico.com/news/2022/05/26/eastman-said-dueling-electors-were-dead-on-arrival-without-state-legislature-backing-00035634">Eastman said dueling electors were ‘dead on arrival’ without state legislature backing</a> Politico: Yet the Trump attorney pressed Pence to consider them anyway, new emails reveal. 
  <p class="updated_time"> 07:31 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/senate-guns-bipartisan-deal.html">Senators Grasp for a Bipartisan Gun Deal, Facing Long Odds</a> NYT: A group of Republicans and Democrats have begun an urgent set of talks aimed at reaching an elusive compromise on new gun laws. After a decade of failure, can this time be different? 
  <p class="updated_time"> 06:28 PM CT, May. 26 </p> 
@@ -312,36 +276,22 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/us/politics/marjorie-taylor-greene-security.html">Marjorie Taylor Greene’s Campaign Spent $183,000 on Security in Early 2022</a> NYT: Ms. Greene, the far-right Georgia Republican, spent more campaign money on personal security in the first quarter of this year than any other candidate, campaign finance filings show. 
  <p class="updated_time"> 05:03 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/scott-pruitt-epa-report.html">Scott Pruitt ‘Endangered Public Safety’ by Forcing His Drivers to Speed</a> NYT: An internal report validated whistle-blower allegations that Scott Pruitt repeatedly forced his security detail to drive at dangerous speeds on routine trips because he was running late. 
- <p class="updated_time"> 04:11 PM CT, May. 26 </p> 
- <a href="https://www.politico.com/news/2022/05/26/biden-response-texas-school-shooting-00035523">‘He can’t just be the ‘eulogizer in chief’’: Frustration grows over Biden’s Texas response</a> Politico: The White House wants to have distance to see if a deal can be struck. Activists see a leadership vacuum. 
  <p class="updated_time"> 04:06 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/michigan-republicans-governor-signatures.html">5 G.O.P. Candidates for Michigan Governor Are Disqualified Over Forged Signatures</a> NYT: James Craig and Perry Johnson, two of the party’s top contenders, were denied spots on the ballot by a state canvassing board. The party-line decision is expected to draw lawsuits. 
  <p class="updated_time"> 02:47 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/republican-senators-gun-control-texas-shooting-00035354">The 10 GOP senators to watch in the wake of the Texas school shooting</a> Politico: Democrats need to get at least 10 Senate Republicans on board to have a chance at even narrow gun safety legislation. Here's who's most likely to cut a deal. 
- <p class="updated_time"> 01:08 PM CT, May. 26 </p> 
- <a href="https://www.politico.com/news/2022/05/26/meadows-burned-papers-meeting-scott-perry-00035411">Meadows burned papers after meeting with Scott Perry, Jan. 6 panel told</a> Politico: The unusual move came after a meeting between then-President Donald Trump's then-chief of staff and the Pennsylvania Republican, according to recent testimony. 
+ <p class="updated_time"> 01:25 PM CT, May. 26 </p> 
+ <a href="https://www.nytimes.com/2022/05/26/us/politics/supreme-court-greenhouse-gas-emissions.html">Supreme Court Allows Greenhouse Gas Cost Estimates</a> NYT: Louisiana and other Republican-led states challenged a federal working group’s efforts to develop standards for agencies to use in quantifying the harms caused by emissions. 
  <p class="updated_time"> 06:42 AM CT, May. 26 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/26/giving-gun-talks-a-go-00035353">Giving gun talks a go</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:42 AM CT, May. 26 </p> 
  <a href="https://www.cnn.com/2022/05/25/politics/supreme-court-second-amendment-guns-new-york-bruen-uvalde/index.html">Supreme Court may soon loosen gun laws as nation reels from massacres</a> CNN: While the Supreme Court has been working behind closed doors on its first major Second Amendment opinion in more than a decade, three mass shootings have broken the country, including Tuesday's massacre of 19 schoolchildren in Texas. 
  <p class="updated_time"> 05:17 AM CT, May. 26 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/26/new-poll-shows-huge-support-for-gun-restrictions-00035349"> New poll shows huge support for gun restrictions</a> Politico Playbook: And the Pennsylvania GOP Senate primary is officially going to a recount. 
- <p class="updated_time"> 03:31 AM CT, May. 26 </p> 
- <a href="https://www.politico.com/news/2022/05/26/gop-state-campaign-online-fundraising-00035182">GOP state legislative campaign hub launches plan to turbocharge online fundraising</a> Politico: The Republican State Leadership Committee is launching a new digital fundraising program in partnership with state GOP groups. 
- <p class="updated_time"> 03:31 AM CT, May. 26 </p> 
- <a href="https://www.politico.com/news/2022/05/26/super-pac-targets-georgia-senate-race-00035292">New Heritage Action super PAC targets Georgia Senate race</a> Politico: The Sentinel Action Fund marks a new chapter in the work of the nearly 50-year-old Heritage Foundation and its aligned groups. 
- <p class="updated_time"> 03:30 AM CT, May. 26 </p> 
- <a href="https://www.politico.com/news/2022/05/26/robb-elementary-security-didnt-stop-massacre-00035332">Robb Elementary had security. It didn’t stop a massacre.</a> Politico: Texas officials are revisiting efforts to bolster mental health services and harden school security as families grieve the tragic attack at Robb Elementary School. 
- <p class="updated_time"> 03:30 AM CT, May. 26 </p> 
- <a href="https://www.politico.com/news/2022/05/26/republicans-not-afraid-of-trump-00035311">'Trump picked this fight': Why heavyweight Republicans no longer fear Trump</a> Politico: Bold-face GOP names have never been so comfortable crossing Trump as in recent weeks. 
  <p class="updated_time"> 03:30 AM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/senate-gop-domestic-terrorism-bill-00035240">Senate GOP blocks domestic terrorism bill as gun debate heats up</a> Politico: A nearly identical version of the legislation that failed Thursday passed the House with no Republican objections two years ago. 
- <p class="updated_time"> 07:08 PM CT, May. 25 </p> 
- <a href="https://www.politico.com/news/2022/05/25/oklahoma-strictest-abortion-ban-stitt-00035302">Oklahoma governor signs nation’s strictest abortion ban</a> Politico: The law takes effect immediately upon Gov. Kevin Stitt’s signature and prohibits all abortions with few exceptions. 
  <p class="updated_time"> 05:51 PM CT, May. 25 </p> 
  <a href="https://www.cnn.com/2022/05/25/politics/gun-laws-us-congress/index.html">Gun legislation is stalled in Congress. Here's why that won't change anytime soon</a> CNN: Tuesday's shooting at a Texas elementary school, which has left at least 19 children and two adults dead, marked another instance of a uniquely American tragedy. 
- <p class="updated_time"> 05:50 PM CT, May. 25 </p> 
- <a href="https://www.politico.com/news/2022/05/25/precious-individuals-texas-school-shooting-00035288">‘Precious individuals’ taken in Texas school shooting</a> Politico: All of the dead were in the same fourth-grade classroom. 
 
 
 </details>
