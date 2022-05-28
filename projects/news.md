@@ -9,30 +9,32 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:47 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">Live Updates: Russian Attacks Intensify, Along With Accusations of Genocide</a> NYT: A report by legal and rights experts cited a ‘genocidal pattern’ by Russia. The U.S. plans to send long-range mobile rocket launchers to Ukraine as Russian troops seize Lyman, the second small city to fall this week, and moved closer to encircling Sievierodonetsk. 
+ <p class="updated_time"> 12:18 AM CT, May. 28 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/27/world/russia-ukraine-war">What Happened on Day 93 of the War in Ukraine</a> NYT: A report by legal and rights experts cited a ‘genocidal pattern’ by Russia. Russian troops seized Lyman and moved closer to encircling Sievierodonetsk. 
+ <p class="updated_time"> 11:54 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/china-excels-in-google-rankings-on-xinjiang-and-covid-19-searches-11653645601?mod=world_major_1_pos1">China Tops Google, YouTube Results on Covid Origins and Beijing’s Human-Rights Record6 min read</a> WSJ: China Tops Google, YouTube Results on Covid Origins and Beijing’s Human-Rights Record6 min read 
+ <p class="updated_time"> 10:54 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/xi-jinpings-first-trip-outside-mainland-china-in-more-than-two-years-is-set-to-be-briefif-it-even-happens-11653562926?mod=world_major_1_pos2">Xi’s First Pandemic-Era Trip to Be Brief4 min read</a> WSJ: Xi’s First Pandemic-Era Trip to Be Brief4 min read 
  <p class="updated_time"> 10:26 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61615018?at_medium=RSS&at_campaign=KARANGA">Japanese Red Army founder Shigenobu freed after 20 years</a> BBC: Fusako Shigenobu, 76, was jailed for her part in a hostage siege at the French embassy in the Hague. 
  <p class="updated_time"> 10:20 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61613177?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Texas shooting response was 'wrong', says official</a> BBC: "Please send the police now," one girl pleaded as officers waited over an hour to storm the classroom. 
- <p class="updated_time"> 10:08 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East</a> WSJ: Russia Gains Ground in Bid to Encircle Troops Defending Ukraine’s East 
+ <p class="updated_time"> 09:54 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/chinas-top-two-leaders-diverge-in-messaging-on-covid-impact-11653486508?mod=world_major_1_pos3">China’s Top Two Leaders Diverge in Messaging on Covid Impact 6 min read</a> WSJ: China’s Top Two Leaders Diverge in Messaging on Covid Impact 6 min read 
  <p class="updated_time"> 09:39 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61615236?at_medium=RSS&at_campaign=KARANGA">Armed female bystander kills man firing at party in West Virginia</a> BBC: A woman at a birthday bash drew her pistol and left the gunman with multiple wounds, police say. 
  <p class="updated_time"> 09:38 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/asia/un-china-xinjiang.html">China Spins U.N. Human Rights Chief’s Visit as Propaganda</a> NYT: Michelle Bachelet’s tour includes Xinjiang, where China has been accused of genocide. The terms of her visit are unclear, and critics say Beijing is using her for propaganda. 
- <p class="updated_time"> 09:08 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/ukraine-is-accusing-russia-of-again-using-thermobaric-weapons-heres-what-makes-them-so-devastating-11653679508">Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating.</a> WSJ: Ukraine Is Accusing Russia of Again Using Thermobaric Weapons. Here’s What Makes Them So Devastating. 
- <p class="updated_time"> 08:08 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine 
- <p class="updated_time"> 07:08 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say 
+ <p class="updated_time"> 08:54 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/israels-work-permits-for-gazans-help-deter-war-with-hamas-for-now-11653649530?mod=world_major_2_pos1">Israeli Work Permits for Gazans Help Deter War With Hamas for Now8 min read</a> WSJ: Israeli Work Permits for Gazans Help Deter War With Hamas for Now8 min read 
+ <p class="updated_time"> 07:54 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/israel-deliberately-killed-al-jazeera-journalist-palestinian-probe-concludes-11653595773?mod=world_major_2_pos2">Israel Deliberately Killed Al Jazeera Journalist, Palestinian Probe Concludes 3 min read</a> WSJ: Israel Deliberately Killed Al Jazeera Journalist, Palestinian Probe Concludes 3 min read 
  <p class="updated_time"> 07:05 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61604329?at_medium=RSS&at_campaign=KARANGA">Germany's Scholz wobbles on tanks for Ukraine</a> BBC: Chancellor Olaf Scholz has appeared slow to respond to Russia's onslaught on its neighbour. 
  <p class="updated_time"> 07:01 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-61607954?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 21 - 27 May 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
  <p class="updated_time"> 06:58 PM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61591159?at_medium=RSS&at_campaign=KARANGA">Ethiopia unrest: Bold arrest of 4,000 spells fear in Amhara</a> BBC: Politicians, journalists and militia men are targeted, leaving former allies feeling betrayed. 
+ <a href="https://www.bbc.co.uk/news/world-africa-61591159?at_medium=RSS&at_campaign=KARANGA">Ethiopia unrest: Sudden arrest of 4,000 spells fear in Amhara</a> BBC: Politicians, journalists and militia men are targeted, leaving former allies feeling betrayed. 
  <p class="updated_time"> 06:40 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61403692?at_medium=RSS&at_campaign=KARANGA">How a Singapore execution set off a wave of protest</a> BBC: Most Singaporeans support the death penalty - but one's man's execution has revived the debate. 
  <p class="updated_time"> 06:20 PM CT, May. 27 </p> 
@@ -41,8 +43,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61548612?at_medium=RSS&at_campaign=KARANGA">Siblings reunited 75 years after India Partition</a> BBC: The family in Punjab found out about their sister in Pakistan two years ago and finally met her last month. 
  <p class="updated_time"> 06:09 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61597537?at_medium=RSS&at_campaign=KARANGA">The man turning mud into eco-friendly 'concrete'</a> BBC: Gnanli Landrou has invented a special powder that turns earth into a greener version of concrete 
- <p class="updated_time"> 06:08 PM CT, May. 27 </p> 
- <a href="https://www.wsj.com/articles/iranian-military-seizes-two-greek-oil-tankers-in-persian-gulf-11653679153">Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf</a> WSJ: Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf 
  <p class="updated_time"> 06:06 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61611193?at_medium=RSS&at_campaign=KARANGA">Ukraine conflict: The families living in an underground station for three months</a> BBC: Families who have been sheltering in a metro station since the start of the war now fear eviction. 
  <p class="updated_time"> 06:01 PM CT, May. 27 </p> 
@@ -83,6 +83,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61613479?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Troops could quit Severodonetsk amid Russian advance - official</a> BBC: Russian forces are in part of Severodonetsk and could surround local troops, an official says. 
  <p class="updated_time"> 02:21 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61610470?at_medium=RSS&at_campaign=KARANGA">Johnny Depp: Jury deliberations begin in Amber Heard defamation trial</a> BBC: The high profile celebrity defamation case comes to a close six weeks after it began. 
+ <p class="updated_time"> 02:08 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/russia-gains-ground-in-bid-to-encircle-troops-defending-ukraines-east-11653643841">Russia Gains Ground in Bid to Encircle Troops Defending Ukraine's East</a> WSJ: Fierce fighting raged in the Donbas region, with Russian forces engaging in street battles in the city of Severodonetsk as Moscow pressed its advantage in firepower on outgunned Ukrainian defenders. 
+ <p class="updated_time"> 01:12 PM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/iranian-military-seizes-two-greek-oil-tankers-in-persian-gulf-11653679153">Iranian Military Seizes Two Greek Oil Tankers in Persian Gulf</a> WSJ: Iranian helicopters boarded two ships days after U.S. ordered confiscation of Iranian oil cargo near Greece. 
  <p class="updated_time"> 12:06 PM CT, May. 27 </p> 
  <a href="https://www.wsj.com/articles/u-k-s-johnson-emerges-from-lockdown-scandals-to-face-economic-woes-11653676185">U.K.'s Johnson Emerges From Lockdown Scandals to Face Economic Woes</a> WSJ: Luck, global problems to address and the lack of an obvious Tory replacement has ultimately saved the prime minister. 
  <p class="updated_time"> 11:36 AM CT, May. 27 </p> 
@@ -93,6 +97,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/27/science/russia-ukraine-science-academy.html">Russian Academics Aim to Punish Colleagues Who Backed Ukraine Invasion</a> NYT: A campaign is circulating a list of dozens of researchers in the hopes they will be denied the prestige of election into the Russian Academy of Sciences. 
  <p class="updated_time"> 10:33 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/asia/india-prostitution-rights.html">India’s Supreme Court Orders Police to Respect Prostitutes’ Rights</a> NYT: Though sex work is legal in the country, those who practice it often endure harassment and abuse. The justices urged the authorities to employ a more nuanced and humane approach. 
+ <p class="updated_time"> 10:18 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/u-s-to-send-advanced-rocket-systems-to-kyiv-officials-say-11653675804">U.S. to Send Advanced Rocket Systems to Kyiv, Officials Say</a> WSJ: The Biden administration is expected to announce as early as next week it will send to Ukraine long-range rocket systems Kyiv says are necessary to fight off the Russian onslaught in the Donbas region. 
  <p class="updated_time"> 10:03 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/ukraine-mine-detection.html">Displaced Ukrainians Learn to Detect Mines.</a> NYT: Courses in western Ukraine, meant for volunteer defenders, are now open to Ukrainian civilians whose villages have been blighted by war. 
  <p class="updated_time"> 09:51 AM CT, May. 27 </p> 
@@ -109,6 +115,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61562545?at_medium=RSS&at_campaign=KARANGA">Palestinian report says Israel deliberately killed Al Jazeera's Shireen Abu Aqla</a> BBC: Their investigation finds a soldier intentionally shot Shireen Abu Aqla, but Israel calls it a lie. 
  <p class="updated_time"> 06:36 AM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61606488?at_medium=RSS&at_campaign=KARANGA">'Switch off the TV': Former Russian-state journalist's plea to Russians</a> BBC: Zhanna Agalakova quit her job in March over the invasion of Ukraine and is now in hiding. 
+ <p class="updated_time"> 05:14 AM CT, May. 27 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-war-down-syndrome-disabilities-11653660722">How Misha, a 19-Year-Old With Down Syndrome, Escaped Ukraine</a> WSJ: For those with disabilities, the trauma of war is magnified; “usual life has been destroyed.” 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101198630/hace-40-anos-la-guerra-malvinas-falkland-transformo-el-rock-latino">Hace 40 años, la Guerra Malvinas-Falkland transformó el rock latino</a> NPR: Cuando se prohibió la transmisión de música en inglés en 1982, los grupos de rock argentino encontraron una oportunidad. 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
