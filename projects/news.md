@@ -9,33 +9,41 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:47 AM CT, May. 29 </p> 
+ <p class="updated_time"> 04:00 AM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/2022/05/29/world/asia/afghanistan-opium-taliban.html">Afghanistan Tries to Stamp Out Opium Again</a> NYT: The multibillion-dollar trade has survived previous bans. Now, the Taliban are going after solar-powered water pumps to try to dry up poppy crops in the middle of a national economic crisis. 
+ <p class="updated_time"> 04:00 AM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/2022/05/29/world/asia/philippines-duterte-victims.html">A Cafe in Philippines is Devoted to Duterte’s Drug War Victims</a> NYT: Served along with the lattes are personal stories from the staff, who are relatives of those who died in some of the thousands of extrajudicial killings in the Philippines. 
+ <p class="updated_time"> 03:58 AM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61611304?at_medium=RSS&at_campaign=KARANGA">Jerusalem tensions high ahead of Israeli youth Flag March</a> BBC: Thousands of flag-waving Israelis are due to pass through Muslim areas, amid Palestinian anger. 
+ <p class="updated_time"> 03:56 AM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/2022/05/29/world/asia/nepal-plane-crash.html">Plane Goes Missing in Nepal With 22 Aboard</a> NYT: A search was underway Sunday for the Tara Air plane, which was headed for a popular Himalayan destination when air traffic controllers lost contact with it. 
+ <p class="updated_time"> 03:54 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">Live Updates: In War of Weapons, Ukraine Tries to Match Russia’s Power</a> NYT: Ukraine is expecting long-range multiple-launch rocket systems from the U.S. and recently received Harpoon anti-ship cruise missiles from Denmark, all as it tries desperately to hold on to its eastern Donbas region. 
+ <p class="updated_time"> 03:52 AM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61618902?at_medium=RSS&at_campaign=KARANGA">Russia won't use tactical nuclear weapons in Ukraine, says ambassador to UK</a> BBC: Andrei Kelin tells the BBC tactical nuclear weapons have "nothing to do" with operations in Ukraine. 
  <p class="updated_time"> 03:22 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101969720/un-human-rights-chief-asks-china-to-rethink-uyghur-policies">UN human rights chief asks China to rethink Uyghur policies</a> NPR: The top U.N. human rights official said Saturday that she raised concerns with Chinese officials about the impact of measures on the rights of Uyghurs in China's Xinjiang region. 
+ <p class="updated_time"> 03:15 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308">Putin Says Russia Open to More Talks With Ukraine</a> WSJ: Putin Says Russia Open to More Talks With Ukraine 
  <p class="updated_time"> 03:12 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61622874?at_medium=RSS&at_campaign=KARANGA">Liverpool v Real Madrid: Riot police clash with football fans in Madrid</a> BBC: Baton-wielding riot police ran into crowds after glass bottles were thrown at them in the Spanish capital. 
- <p class="updated_time"> 02:54 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308">Putin Says Russia Open to More Talks With Ukraine</a> WSJ: Putin Says Russia Open to More Talks With Ukraine 
  <p class="updated_time"> 02:18 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61623276?at_medium=RSS&at_campaign=KARANGA">Champions League Final: I have asthma and was tear gassed twice - Liverpool fan</a> BBC: French police fired tear gas at Liverpool supporters as they queued to enter the stadium in Paris. 
+ <p class="updated_time"> 02:15 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
  <p class="updated_time"> 02:03 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61622794?at_medium=RSS&at_campaign=KARANGA">Franky Zapata: French jetpack inventor injured in lake crash</a> BBC: Franky Zapata was injured after his jetpack, called a flyboard, crashed into a lake in Biscarrosse. 
  <p class="updated_time"> 02:00 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/health/coronavirus-testing-positive.html">Can I Stop Isolating If I’m Still Testing Positive for the Virus?</a> NYT: Some people may test positive for the coronavirus for 10 days or longer, but interpreting those results remains difficult, experts said. 
- <p class="updated_time"> 01:54 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
- <p class="updated_time"> 01:53 AM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61611304?at_medium=RSS&at_campaign=KARANGA">Jerusalem tensions high ahead of Israeli youth Flag March</a> BBC: Thousands of flag-waving Israelis are due to pass through Muslim areas, amid Palestinian anger. 
- <p class="updated_time"> 12:54 AM CT, May. 29 </p> 
+ <p class="updated_time"> 01:15 AM CT, May. 29 </p> 
  <a href="https://www.wsj.com/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202">Ukraine Struggles to Preserve  Alleged War-Crime Evidence</a> WSJ: Ukraine Struggles to Preserve  Alleged War-Crime Evidence 
+ <p class="updated_time"> 12:15 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
  <p class="updated_time"> 12:07 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/russian-fighting-for-ukraine.html">A Putin Opponent From Russia Leads Fighters Against His Home Country</a> NYT: “The hottest place to fight against the regime was in Ukraine,” says a unit commander who has been a volunteer soldier for his adopted country on and off since 2015. 
  <p class="updated_time"> 11:54 PM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
- <p class="updated_time"> 11:54 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61612147?at_medium=RSS&at_campaign=KARANGA">Ukraine: Two sisters fled their home, but carried on their martial arts training</a> BBC: Two sisters, who are world champions in mixed martial arts, want to compete for Ukraine. 
- <p class="updated_time"> 10:54 PM CT, May. 28 </p> 
+ <p class="updated_time"> 11:15 PM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/prince-charless-campaigning-ways-run-through-suburb-he-helped-design-11653753600">Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design</a> WSJ: Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design 
  <p class="updated_time"> 10:49 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/27/science/russia-ukraine-science-academy.html">Russian Academics Aim to Punish Colleagues Who Backed Ukraine Invasion</a> NYT: A campaign is circulating a list of dozens of researchers in the hopes they will be denied the prestige of election into the Russian Academy of Sciences. 
@@ -61,8 +69,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61619783?at_medium=RSS&at_campaign=KARANGA">US gun laws: Kamala Harris calls for assault weapons ban</a> BBC: The US vice-president was attending the funeral of a woman shot dead in Buffalo, New York state. 
  <p class="updated_time"> 04:27 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Tropical Storm Agatha Headed to the Mexican Coast</a> NYT: This year’s first named storm in the eastern Pacific has the potential to become a Category 2 hurricane, forecasters said on Saturday. 
- <p class="updated_time"> 03:59 PM CT, May. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61618902?at_medium=RSS&at_campaign=KARANGA">Russia won't use tactical nuclear weapons in Ukraine, says ambassador to UK</a> BBC: Andrei Kelin tells the BBC tactical nuclear weapons have "nothing to do" with operations in Ukraine. 
  <p class="updated_time"> 02:47 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61616622?at_medium=RSS&at_campaign=KARANGA">Russia scraps army age limit and a bike ride from hell</a> BBC: France and Germany call for "direct, serious" talks between President Putin and Ukraine's leader. 
  <p class="updated_time"> 01:52 PM CT, May. 28 </p> 
@@ -187,10 +193,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/europe/gun-laws-australia-britain.html">Other Countries Had Mass Shootings. Then They Changed Their Gun Laws.</a> NYT: Britain, Australia, Canada, New Zealand, Norway: All had a culture of gun ownership, and all tightened restrictions anyway. Their violence statistics now diverge sharply from those of the U.S. 
  <p class="updated_time"> 05:38 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/asia/china-economy-zero-covid.html">Concern Grows in China Over Economic Impact of ‘Zero Covid’</a> NYT: A senior leader announced efforts to bolster growth and urged local leaders do more to keep the economy running. 
- <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/world/asia/india-film-kashmir-files.html">Film on Expulsion of Kashmir’s Hindus Is Polarizing and Popular in India</a> NYT: Called propaganda by critics and essential viewing by fans, “The Kashmir Files,” an unexpected blockbuster, has drawn the support of Prime Minister Narendra Modi’s Bharatiya Janata Party. 
- <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/books/buenos-aires-books.html">Through a Recession and a Pandemic, the Book Business Is Thriving in Buenos Aires</a> NYT: The Argentine capital has always been bookish. When hard times shuttered the big chain shops, book purveyors found a way to keep residents in fresh reading material. 
 
 
 </details>
@@ -198,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, May. 29 </p> 
+ <a href="https://www.npr.org/2022/05/29/1100980188/u-s-house-loses-more-swing-in-2022">U.S. House loses more 'swing' in 2022</a> NPR: Only a small fraction of U.S. House seats are now considered "swing" seats that could be won by either party. 
  <p class="updated_time"> 11:16 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/us/politics/gun-laws-senate-uvalde-buffalo.html">Massacres Test Whether Washington Can Move Beyond Paralysis on Gun Laws</a> NYT: The United States is facing a widening gap between the scale of gun violence and what America’s political leaders can agree are the right responses to the carnage. 
  <p class="updated_time"> 07:04 PM CT, May. 28 </p> 
@@ -290,8 +294,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/27/wyoming-gop-liz-cheney-00035609">Will ‘extremism’ fracture the GOP? Cheney vs. Trump in Wyoming</a> Politico: Playbook co-author Ryan Lizza is in Wyoming this week talking to Victoria Eavis of the Casper Star-Tribune and Joseph McGinley, a Casper physician who led the Natrona County GOP for four years until 2021, and has repeatedly butted heads with a group of Trump-aligned activists. 
  <p class="updated_time"> 04:09 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101701883/democratic-senators-call-on-republicans-to-do-something-about-gun-safety">Democratic senators call on Republicans to do something about gun safety</a> NPR: Another mass shooting and lawmakers talk tough about gun safety — yet possibly getting nothing done. As some in Congress try to find common ground on background checks, can this time be different? 
- <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
- <a href="https://www.npr.org/2022/05/27/1101209992/political-realties-have-stopped-legislative-action-after-school-shootings">Political realities have stopped legislative action after school shootings</a> NPR: The political climate has changed drastically since a 10-year assault weapons ban passed in 1994. The lack of political will and other barriers stand in the way of it even coming to a vote today. 
  <p class="updated_time"> 03:38 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/asylum-system.html">U.S. to Begin Allowing Migrants to Apply for Asylum Under a New System</a> NYT: The rollout of the process for some arrivals at the southwestern border will be small, but could represent the tip of broad changes to the asylum system. 
  <p class="updated_time"> 03:31 AM CT, May. 27 </p> 
