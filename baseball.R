@@ -467,7 +467,8 @@ standings_interactive <- function(division) {
   ) %>%
     hc_colors(brewer.pal(9,"Set1")) %>%
     hc_legend(align = "right",
-              layout = "vertical") %>%
+              layout = "vertical",
+              verticalAlign = "middle") %>%
     hc_title(text = tail(division$division,1)) %>%
     hc_yAxis(title = "") %>%
     hc_xAxis(title = "",
@@ -1056,7 +1057,8 @@ fig1 <- hchart(hc_al_games, "line", hcaes(x = game_n,
 ) %>%
   hc_colors(brewer.pal(12,"Paired")) %>%
   hc_legend(align = "right",
-            layout = "vertical") %>%
+            layout = "vertical",
+            verticalAlign = "middle") %>%
   hc_title(text = "AL") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "",
@@ -1078,7 +1080,8 @@ fig2 <- hchart(hc_nl_games, "line", hcaes(x = game_n,
 )%>%
   hc_colors(brewer.pal(12,"Paired")) %>%
   hc_legend(align = "right",
-            layout = "vertical") %>%
+            layout = "vertical",
+            verticalAlign = "middle") %>%
   hc_title(text = "NL") %>%
   hc_yAxis(title = "") %>%
   hc_xAxis(title = "",
