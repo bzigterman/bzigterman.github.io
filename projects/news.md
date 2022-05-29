@@ -9,29 +9,33 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:18 AM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61623276?at_medium=RSS&at_campaign=KARANGA">Champions League Final: I have asthma and was tear gassed twice - Liverpool fan</a> BBC: French police fired tear gas at Liverpool supporters as they queued to enter the stadium in Paris. 
  <p class="updated_time"> 02:11 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/live/2022/05/28/world/russia-ukraine-war">What Happened on Day 94 of the War in Ukraine</a> NYT: Russian troops are engaged in heavy street fighting inside the city of Sievierodonetsk, a major railway hub. Zelensky says the situation is “indescribably difficult.” 
+ <p class="updated_time"> 02:03 AM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61622794?at_medium=RSS&at_campaign=KARANGA">Franky Zapata: French jetpack inventor injured in lake crash</a> BBC: Franky Zapata was injured after his jetpack, called a flyboard, crashed into a lake in Biscarrosse. 
  <p class="updated_time"> 02:00 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/health/coronavirus-testing-positive.html">Can I Stop Isolating If I’m Still Testing Positive for the Virus?</a> NYT: Some people may test positive for the coronavirus for 10 days or longer, but interpreting those results remains difficult, experts said. 
  <p class="updated_time"> 01:53 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61611304?at_medium=RSS&at_campaign=KARANGA">Jerusalem tensions high ahead of Israeli youth Flag March</a> BBC: Thousands of flag-waving Israelis are due to pass through Muslim areas, amid Palestinian anger. 
- <p class="updated_time"> 01:24 AM CT, May. 29 </p> 
+ <p class="updated_time"> 01:39 AM CT, May. 29 </p> 
  <a href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308">Putin Says Russia Open to More Talks With Ukraine</a> WSJ: Putin Says Russia Open to More Talks With Ukraine 
- <p class="updated_time"> 12:24 AM CT, May. 29 </p> 
+ <p class="updated_time"> 12:39 AM CT, May. 29 </p> 
  <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
  <p class="updated_time"> 12:07 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/russian-fighting-for-ukraine.html">A Putin Opponent From Russia Leads Fighters Against His Home Country</a> NYT: “The hottest place to fight against the regime was in Ukraine,” says a unit commander who has been a volunteer soldier for his adopted country on and off since 2015. 
  <p class="updated_time"> 11:54 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61612147?at_medium=RSS&at_campaign=KARANGA">Ukraine: Two sisters fled their home, but carried on their martial arts training</a> BBC: Two sisters, who are world champions in mixed martial arts, want to compete for Ukraine. 
- <p class="updated_time"> 11:24 PM CT, May. 28 </p> 
+ <p class="updated_time"> 11:39 PM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202">Ukraine Struggles to Preserve  Alleged War-Crime Evidence</a> WSJ: Ukraine Struggles to Preserve  Alleged War-Crime Evidence 
  <p class="updated_time"> 10:49 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/27/science/russia-ukraine-science-academy.html">Russian Academics Aim to Punish Colleagues Who Backed Ukraine Invasion</a> NYT: A campaign is circulating a list of dozens of researchers in the hopes they will be denied the prestige of election into the Russian Academy of Sciences. 
+ <p class="updated_time"> 10:39 PM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
  <p class="updated_time"> 10:32 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/russian-soldiers-military-supplies.html">Russians Crowdsource Supplies for Their Army in Ukraine</a> NYT: A grass-roots movement to get basic supplies to soldiers fighting in Ukraine reflects the growing recognition among Russians that their military was unprepared for major conflict. 
- <p class="updated_time"> 10:24 PM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
- <p class="updated_time"> 09:24 PM CT, May. 28 </p> 
+ <p class="updated_time"> 09:39 PM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/prince-charless-campaigning-ways-run-through-suburb-he-helped-design-11653753600">Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design</a> WSJ: Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design 
  <p class="updated_time"> 07:57 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61621470?at_medium=RSS&at_campaign=KARANGA">Ulvade shooting: Kamala Harris calls for assault weapons ban</a> BBC: The US vice-president makes the plea as she attends the funeral of a victim of a mass shooting. 
@@ -139,8 +143,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/27/1101720943/former-president-of-louvre-faces-charges-linked-to-alleged-antiquities-smuggling">The former head of the Louvre faces charges linked to alleged antiquities smuggling</a> NPR: Police have charged Jean-Luc Martinez with "complicity in organized fraud" and money laundering, according to the Paris prosecutors' office. 
  <p class="updated_time"> 09:00 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/vatican-history-secrets-david-kertzer.html">Deep in Vatican Archives, Scholar Discovers ‘Flabbergasting’ Secrets</a> NYT: David Kertzer has spent decades excavating the Vatican’s hidden history, with his work winning a Pulitzer and capturing Hollywood’s attention. A new book examines Pope Pius XII’s role in the Holocaust. 
- <p class="updated_time"> 08:58 AM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61610162?at_medium=RSS&at_campaign=KARANGA">Drought's devastating toll on Somalia's children</a> BBC: The United Nations is warning that the country risks famine should global food prices continue to rise. 
  <p class="updated_time"> 07:38 AM CT, May. 27 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/27/1099739656/do-restrictive-abortion-laws-actually-reduce-abortion-a-global-map-offers-insigh">Do restrictive abortion laws actually reduce abortion? A global map offers insights</a> NPR: Click to see how restrictive or liberal local abortion laws are — and to look at the rate of abortion. The data offers a sense of whether stricter abortion laws reduce the number of abortions. 
  <p class="updated_time"> 04:00 AM CT, May. 27 </p> 
@@ -189,8 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/world/asia/india-film-kashmir-files.html">Film on Expulsion of Kashmir’s Hindus Is Polarizing and Popular in India</a> NYT: Called propaganda by critics and essential viewing by fans, “The Kashmir Files,” an unexpected blockbuster, has drawn the support of Prime Minister Narendra Modi’s Bharatiya Janata Party. 
  <p class="updated_time"> 04:00 AM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/books/buenos-aires-books.html">Through a Recession and a Pandemic, the Book Business Is Thriving in Buenos Aires</a> NYT: The Argentine capital has always been bookish. When hard times shuttered the big chain shops, book purveyors found a way to keep residents in fresh reading material. 
- <p class="updated_time"> 02:31 AM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/25/us/masks-hawaii-delaware.html">These U.S. Schools and Universities Are Reimposing Indoor Mask Mandates</a> NYT: The moves are a sign that while the academic year may be coming to a close, the pandemic is still not. 
 
 
 </details>
