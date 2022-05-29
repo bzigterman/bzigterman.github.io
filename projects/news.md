@@ -9,6 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:13 AM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">Live Updates: Ukraine Strikes Back in South, as Zelensky Visits Eastern Front</a> NYT: As his military announced a counteroffensive around the southern port city of Kherson, President Volodymyr Zelensky visited frontline positions near Kharkiv in the east. Russia is pushing to complete its occupation of the eastern Luhansk region. 
+ <p class="updated_time"> 08:59 AM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/2022/05/29/world/europe/ukraine-russia-language.html">For Russian-Speaking Ukrainians, Language Clubs Offer Way to Defy Invaders</a> NYT: Many Ukraine citizens speak Russian as their first language. Volunteer organizations are helping them improve their Ukrainian and abandon “the occupiers’ language.” 
  <p class="updated_time"> 08:40 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61611304?at_medium=RSS&at_campaign=KARANGA">Jerusalem tensions high ahead of Israeli youth Flag March</a> BBC: Palestinians warn Israel is "playing with fire" as huge crowds of flag-waving Israelis assemble. 
  <p class="updated_time"> 08:33 AM CT, May. 29 </p> 
@@ -17,31 +21,29 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/29/world/asia/nepal-plane-crash.html">Plane Crashes in Nepal With 22 Aboard, Government Says</a> NYT: The search for the plane and its passengers and crew was being hampered by bad weather. 
  <p class="updated_time"> 08:21 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/27/science/russia-ukraine-science-academy.html">Russian Academics Aim to Punish Colleagues Who Backed Ukraine Invasion</a> NYT: A campaign is circulating a list of dozens of researchers in the hopes they will be denied the prestige of election into the Russian Academy of Sciences. 
- <p class="updated_time"> 08:01 AM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">Live Updates: Ukraine Strikes Back in South, as Russia Pounds Key Eastern City</a> NYT: As Russia seeks to capture the last Ukrainian controlled city in the eastern Luhansk region, Ukraine announced a counteroffensive around a southern port that Russia has held for months. 
- <p class="updated_time"> 07:43 AM CT, May. 29 </p> 
+ <p class="updated_time"> 08:18 AM CT, May. 29 </p> 
  <a href="https://www.wsj.com/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640">A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians.</a> WSJ: A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians. 
  <p class="updated_time"> 07:19 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61618902?at_medium=RSS&at_campaign=KARANGA">Russia won't use tactical nuclear weapons in Ukraine, says ambassador to UK</a> BBC: Andrei Kelin tells the BBC tactical nuclear weapons have "nothing to do" with operations in Ukraine. 
+ <p class="updated_time"> 07:18 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801">Ukraine Renews Calls for Weapons Amid Russian Attack on Eastern Cities</a> WSJ: Ukraine Renews Calls for Weapons Amid Russian Attack on Eastern Cities 
  <p class="updated_time"> 06:59 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61623278?at_medium=RSS&at_campaign=KARANGA">Ukraine war: BBC interview with Russian ambassador to the UK</a> BBC: In a BBC interview, Andrei Kelin is shown CCTV footage of Russian soldiers committing alleged war crimes. 
  <p class="updated_time"> 06:55 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1100968695/irish-setter-pet-dogs-ukraine-refugees-france">How a Facebook page for Irish setter lovers helped Ukrainians flee with their dogs</a> NPR: A Russian woman living in Burgundy wanted to help pet dogs of Ukraine and their human companions get to safety. She turned to a Facebook group for lovers of a famous dog breed to find them. 
- <p class="updated_time"> 06:43 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801">Ukraine Renews Calls for Weapons Amid Russian Attack on Eastern Cities</a> WSJ: Ukraine Renews Calls for Weapons Amid Russian Attack on Eastern Cities 
  <p class="updated_time"> 06:32 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61619831?at_medium=RSS&at_campaign=KARANGA">Champions League final: Liverpool call for investigation into 'unacceptable issues' faced by fans</a> BBC: Liverpool want an investigation into the "unacceptable issues" faced by fans which led to their Champions League final against Real Madrid being delayed. 
  <p class="updated_time"> 06:19 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/afghanistan-opium-taliban.html">Afghanistan Tries to Stamp Out Opium Again</a> NYT: The multibillion-dollar trade has survived previous bans. Now, the Taliban are going after solar-powered water pumps to try to dry up poppy crops in the middle of a national economic crisis. 
+ <p class="updated_time"> 06:18 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/chinas-lockdowns-prompt-a-rethinking-of-life-plans-among-the-young-11653822000">China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young</a> WSJ: China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young 
  <p class="updated_time"> 05:47 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101971956/children-among-31-killed-at-church-fair-stampede-in-nigeria">Children among 31 killed at church fair stampede in Nigeria</a> NPR: A stampede Saturday at a church charity event in southern Nigeria left 31 people dead and seven injured at a program that aimed to offer hope to the needy. 
- <p class="updated_time"> 05:43 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/chinas-lockdowns-prompt-a-rethinking-of-life-plans-among-the-young-11653822000">China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young</a> WSJ: China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young 
  <p class="updated_time"> 05:36 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61623229?at_medium=RSS&at_campaign=KARANGA">Port Harcourt: Nigeria church crush leaves 31 dead</a> BBC: Police say the crowd became "uncontrollable" at a charity event where food was handed out to the poor. 
  <p class="updated_time"> 05:22 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101971227/unrest-erupts-at-jerusalem-site-ahead-of-nationalist-march">Unrest erupts at Jerusalem site ahead of nationalist march</a> NPR: Jewish pilgrims visited early Sunday ahead of a nationalist parade through the Old City, prompting Palestinians to throw rocks and fireworks. 
- <p class="updated_time"> 04:43 AM CT, May. 29 </p> 
+ <p class="updated_time"> 05:18 AM CT, May. 29 </p> 
  <a href="https://www.wsj.com/articles/jerusalem-braces-for-violence-ahead-of-jewish-nationalist-march-11653827529">Jerusalem Braces for Violence Ahead of Jewish Nationalist March</a> WSJ: Jerusalem Braces for Violence Ahead of Jewish Nationalist March 
  <p class="updated_time"> 04:34 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/labour-struggles-rust-belt-britain.html">As Boris Johnson Stumbles, Labour Struggles to Offer a Clear Message</a> NYT: Out of power for 12 years, Britain’s Labour Party has made some gains, but its message hasn’t won back the rust belt regions that abandoned it in the last election. 
@@ -49,10 +51,10 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61618907?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin urged to hold 'direct, serious negotiations' with Zelensky</a> BBC: In a lengthy call with Russia's leader, France and Germany urge "serious" talks as fighting rages. 
  <p class="updated_time"> 04:21 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101970436/champions-league-final-marred-by-delays-and-use-of-tear-gas-on-fans">Champions League final marred by delays and use of tear gas on fans</a> NPR: The soccer Champions League final in Paris was marred as Liverpool fans were sprayed with tear gas as they tried to enter the stadium, delaying the start of the match by 35 minutes. 
+ <p class="updated_time"> 04:18 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/anglican-churchs-rifts-over-sexuality-challenge-its-leader-11653825600">Anglican Church’s Rifts Over Sexuality Challenge Its Leader</a> WSJ: Anglican Church’s Rifts Over Sexuality Challenge Its Leader 
  <p class="updated_time"> 04:00 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/philippines-duterte-victims.html">A Cafe in Philippines is Devoted to Duterte’s Drug War Victims</a> NYT: Served along with the lattes are personal stories from the staff, who are relatives of those who died in some of the thousands of extrajudicial killings in the Philippines. 
- <p class="updated_time"> 03:43 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/anglican-churchs-rifts-over-sexuality-challenge-its-leader-11653825600">Anglican Church’s Rifts Over Sexuality Challenge Its Leader</a> WSJ: Anglican Church’s Rifts Over Sexuality Challenge Its Leader 
  <p class="updated_time"> 03:22 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101969720/un-human-rights-chief-asks-china-to-rethink-uyghur-policies">UN human rights chief asks China to rethink Uyghur policies</a> NPR: The top U.N. human rights official said Saturday that she raised concerns with Chinese officials about the impact of measures on the rights of Uyghurs in China's Xinjiang region. 
  <p class="updated_time"> 03:12 AM CT, May. 29 </p> 
@@ -312,8 +314,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/us/politics/michigan-republicans-governor-signatures.html">5 G.O.P. Candidates for Michigan Governor Are Disqualified Over Forged Signatures</a> NYT: James Craig and Perry Johnson, two of the party’s top contenders, were denied spots on the ballot by a state canvassing board. The party-line decision is expected to draw lawsuits. 
  <p class="updated_time"> 02:47 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/republican-senators-gun-control-texas-shooting-00035354">The 10 GOP senators to watch in the wake of the Texas school shooting</a> Politico: Democrats need to get at least 10 Senate Republicans on board to have a chance at even narrow gun safety legislation. Here's who's most likely to cut a deal. 
- <p class="updated_time"> 01:25 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/us/politics/supreme-court-greenhouse-gas-emissions.html">Supreme Court Allows Greenhouse Gas Cost Estimates</a> NYT: Louisiana and other Republican-led states challenged a federal working group’s efforts to develop standards for agencies to use in quantifying the harms caused by emissions. 
  <p class="updated_time"> 01:08 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/meadows-burned-papers-meeting-scott-perry-00035411">Meadows burned papers after meeting with Scott Perry, Jan. 6 panel told</a> Politico: The unusual move came after a meeting between then-President Donald Trump's then-chief of staff and the Pennsylvania Republican, according to recent testimony. 
 
