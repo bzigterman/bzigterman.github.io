@@ -475,6 +475,11 @@ html {
 
 Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](https://twitter.com/ChampaignCovid).
 
+### Hospitalized
+
+<iframe src="/interactive/champaign_hospital.html" width="100%" height="375"> 
+</iframe>
+
 ### [Wastewater Surveillance](https://covid.cdc.gov/covid-data-tracker/#wastewater-surveillance)
 
 <iframe src="/interactive/champaign_wastewater.html" width="100%" height="500"> 
