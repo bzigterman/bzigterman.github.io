@@ -9,42 +9,44 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:34 PM CT, May. 28 </p> 
- <a href="https://www.nytimes.com/live/2022/05/28/world/russia-ukraine-war">Live Updates: Russia Edges Closer to Occupying Key Province, Luhansk</a> NYT: Russian troops are engaged in heavy street fighting inside the city of Sievierodonetsk, a major railway hub. Zelensky says the situation is “indescribably difficult.” 
- <p class="updated_time"> 10:54 PM CT, May. 28 </p> 
+ <p class="updated_time"> 12:22 AM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/28/world/russia-ukraine-war">What Happened on Day 94 of the War in Ukraine</a> NYT: Russian troops are engaged in heavy street fighting inside the city of Sievierodonetsk, a major railway hub. Zelensky says the situation is “indescribably difficult.” 
+ <p class="updated_time"> 12:07 AM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/2022/05/27/world/europe/russian-fighting-for-ukraine.html">A Putin Opponent From Russia Leads Fighters Against His Home Country</a> NYT: “The hottest place to fight against the regime was in Ukraine,” says a unit commander who has been a volunteer soldier for his adopted country on and off since 2015. 
+ <p class="updated_time"> 11:54 PM CT, May. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61612147?at_medium=RSS&at_campaign=KARANGA">Ukraine: Two sisters fled their home, but carried on their martial arts training</a> BBC: Two sisters, who are world champions in mixed martial arts, want to compete for Ukraine. 
+ <p class="updated_time"> 11:38 PM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308">Putin Says Russia Open to More Talks With Ukraine</a> WSJ: Putin Says Russia Open to More Talks With Ukraine 
  <p class="updated_time"> 10:49 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/27/science/russia-ukraine-science-academy.html">Russian Academics Aim to Punish Colleagues Who Backed Ukraine Invasion</a> NYT: A campaign is circulating a list of dozens of researchers in the hopes they will be denied the prestige of election into the Russian Academy of Sciences. 
+ <p class="updated_time"> 10:38 PM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
  <p class="updated_time"> 10:32 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/russian-soldiers-military-supplies.html">Russians Crowdsource Supplies for Their Army in Ukraine</a> NYT: A grass-roots movement to get basic supplies to soldiers fighting in Ukraine reflects the growing recognition among Russians that their military was unprepared for major conflict. 
- <p class="updated_time"> 09:54 PM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
- <p class="updated_time"> 08:54 PM CT, May. 28 </p> 
+ <p class="updated_time"> 09:38 PM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202">Ukraine Struggles to Preserve  Alleged War-Crime Evidence</a> WSJ: Ukraine Struggles to Preserve  Alleged War-Crime Evidence 
+ <p class="updated_time"> 08:38 PM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
  <p class="updated_time"> 07:57 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61621470?at_medium=RSS&at_campaign=KARANGA">Ulvade shooting: Kamala Harris calls for assault weapons ban</a> BBC: The US vice-president makes the plea as she attends the funeral of a victim of a mass shooting. 
- <p class="updated_time"> 07:54 PM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
+ <p class="updated_time"> 07:38 PM CT, May. 28 </p> 
+ <a href="https://www.wsj.com/articles/prince-charless-campaigning-ways-run-through-suburb-he-helped-design-11653753600">Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design</a> WSJ: Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design 
  <p class="updated_time"> 07:34 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61557951?at_medium=RSS&at_campaign=KARANGA">Why cassava could be a way to keep food costs down</a> BBC: As the price of wheat shoots up, Uganda's President Museveni urges people to eat cassava instead. 
  <p class="updated_time"> 07:28 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61510332?at_medium=RSS&at_campaign=KARANGA">Five things to know about Colombia's election</a> BBC: Colombians could be about to elect their first left-wing leader ever in a polarised presidential poll. 
  <p class="updated_time"> 07:23 PM CT, May. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61518339?at_medium=RSS&at_campaign=KARANGA">Coke Studio: The music show defeating hate in India and Pakistan</a> BBC: The enduring popularity of Coke Studio Pakistan in India has surprised even its creators. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61518339?at_medium=RSS&at_campaign=KARANGA">Pasoori: How Coke Studio is defeating hate between India and Pakistan</a> BBC: The enduring popularity of Coke Studio Pakistan in India has surprised even its creators. 
  <p class="updated_time"> 06:59 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61441192?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: The making of a new Russian propaganda machine</a> BBC: A pro-Kremlin outlet was launched at the start of the invasion to target Russian-occupied Ukraine. 
  <p class="updated_time"> 06:56 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-61446317?at_medium=RSS&at_campaign=KARANGA">Why can't the US stop soaring oil and gas prices?</a> BBC: As prices rise, oil and gas firms in the US want to capitalise - but the industry has changed. 
- <p class="updated_time"> 06:54 PM CT, May. 28 </p> 
- <a href="https://www.wsj.com/articles/prince-charless-campaigning-ways-run-through-suburb-he-helped-design-11653753600">Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design</a> WSJ: Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design 
  <p class="updated_time"> 06:48 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61621754?at_medium=RSS&at_campaign=KARANGA">Palme d'Or: Triangle of Sadness wins top prize in Cannes for Ruben Ostlund</a> BBC: Ruben Ostlund's Triangle of Sadness takes the Palme d'Or on a good night for South Koreans too. 
  <p class="updated_time"> 06:09 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61586600?at_medium=RSS&at_campaign=KARANGA">Hong Kong's Omicron crisis: ‘It took just 10 days for everyone to be infected’</a> BBC: More than half of those to die in the latest wave to hit Hong Kong were care home residents. 
  <p class="updated_time"> 06:02 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61611304?at_medium=RSS&at_campaign=KARANGA">Jerusalem tensions high ahead of Israeli youth Flag March</a> BBC: Thousands of flag-waving Israelis are due to pass through Muslim areas, amid Palestinian anger. 
- <p class="updated_time"> 05:44 PM CT, May. 28 </p> 
- <a href="https://www.bbc.co.uk/news/stories-61610891?at_medium=RSS&at_campaign=KARANGA">Trads: The extreme Hindu nationalists inspired by alt-right memes</a> BBC: A movement inspired by Western extremists uses memes to promote Hindu supremacy. 
  <p class="updated_time"> 04:52 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61619783?at_medium=RSS&at_campaign=KARANGA">US gun laws: Kamala Harris calls for assault weapons ban</a> BBC: The US vice-president was attending the funeral of a woman shot dead in Buffalo, New York state. 
  <p class="updated_time"> 04:27 PM CT, May. 28 </p> 
@@ -109,8 +111,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/27/arts/music/abba-voyage-london.html">Abba Returns to the Stage in London. Sort Of.</a> NYT: The Swedish superstars — or digital versions of them, at least — performed on Thursday to 3,000 enthusiastic fans with the help of 140 animators, four body doubles and $175 million. 
  <p class="updated_time"> 03:55 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101837145/eastern-ukraine-outgunned-donbas">Ukrainians say they're badly outgunned by Russia in the battle for the Donbas</a> NPR: While many Ukrainians are still basking in the successful defense of Kyiv, the battle in the Donbas is a punishing grind that poses different challenges. 
- <p class="updated_time"> 03:24 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/world/europe/russian-fighting-for-ukraine.html">A Putin Opponent From Russia Leads Fighters Against His Home Country</a> NYT: “The hottest place to fight against the regime was in Ukraine,” says a unit commander who has been a volunteer soldier for his adopted country on and off since 2015. 
  <p class="updated_time"> 03:09 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101837110/insights-on-uvalde-from-an-activist-who-worked-to-make-the-u-k-safer">Insights on Uvalde from an activist who worked to make the U.K. safer</a> NPR: NPR's Ari Shapiro talks with Mick North, founding member of Gun Control Network and the father of one of the children killed at Dunblane Primary School in Scotland. 
  <p class="updated_time"> 03:09 PM CT, May. 27 </p> 
