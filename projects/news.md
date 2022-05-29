@@ -9,42 +9,56 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:50 AM CT, May. 29 </p> 
+ <p class="updated_time"> 12:54 PM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Elecciones de Colombia en vivo: una votación clave para el tercer país más poblado de Latinoamérica</a> NYT: La nación elige un nuevo presidente mientras enfrenta un alza en la violencia, tensiones democráticas y una desigualdad que se acentúa. 
+ <p class="updated_time"> 12:52 PM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61611304?at_medium=RSS&at_campaign=KARANGA">Jerusalem Flag March: Israeli nationalists stream through Muslim Quarter</a> BBC: Thousands of nationalists dance and chant in a Muslim district in the face of Palestinian anger. 
+ <p class="updated_time"> 12:50 PM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/2022/05/29/world/europe/pope-francis-21-new-cardinals.html">Pope Francis Announces 21 New Cardinals</a> NYT: The new “princes of the church” hail from places like India, Nigeria, Singapore and South Korea. They will be among those who help choose a new pope. 
+ <p class="updated_time"> 12:49 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/world/colombia-election-results">Colombia Live Updates: A Big Election for Latin America’s Third Largest Country</a> NYT: The nation is choosing a new president as it faces rising violence, democratic tensions and worsening inequity. 
- <p class="updated_time"> 11:49 AM CT, May. 29 </p> 
+ <p class="updated_time"> 12:45 PM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61626746?at_medium=RSS&at_campaign=KARANGA">Champions League final: UK calls for investigation into Paris stadium chaos</a> BBC: Police were criticised for firing tear gas at some Liverpool fans before the Champions League final. 
+ <p class="updated_time"> 12:31 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">Live Updates: Ukraine Strikes Back in South, as Zelensky Visits Eastern Front</a> NYT: As his military announced a counteroffensive around the southern port city of Kherson, President Volodymyr Zelensky visited frontline positions near Kharkiv in the east. Russia is pushing to complete its occupation of the eastern Luhansk region. 
+ <p class="updated_time"> 12:23 PM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61627187?at_medium=RSS&at_campaign=KARANGA">Ukraine's President Zelensky makes rare visit to Kharkiv frontline</a> BBC: Ukraine's President Zelensky walks around Kharkiv before meeting soldiers and presenting them with medals. 
+ <p class="updated_time"> 12:18 PM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61622797?at_medium=RSS&at_campaign=KARANGA">Uvalde: US to review police response to Texas school shooting</a> BBC: The Justice Department will investigate amid criticism that police waited to tackle the shooter. 
+ <p class="updated_time"> 12:13 PM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61625512?at_medium=RSS&at_campaign=KARANGA">Ukraine war: President Zelensky visits Kharkiv in first trip outside Kyiv region</a> BBC: Ukraine's president thanked troops on the country's eastern front line for risking their lives. 
+ <p class="updated_time"> 12:07 PM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-61626910?at_medium=RSS&at_campaign=KARANGA">Jerusalem Flag March: Israeli nationalists stream towards Muslim Quarter</a> BBC: Tens of thousands of Israeli Jewish nationalists join the annual Flag March in Jerusalem. 
+ <p class="updated_time"> 11:59 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640">A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians.</a> WSJ: A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians. 
+ <p class="updated_time"> 11:42 AM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/sport/cycling/61626537?at_medium=RSS&at_campaign=KARANGA">Giro d'Italia: Jai Hindley is first Australian to win Giro d'Italia</a> BBC: Jai Hindley becomes the first Australian to win the Giro d'Italia, easing home on the final-stage time-trial. 
  <p class="updated_time"> 11:28 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/asia/un-human-rights-china.html">U.N. Human Rights Chief Tempers Criticism at End of China Trip</a> NYT: Rights groups and overseas Uyghurs had called for vociferous condemnation of China’s policies toward minorities in the country’s far West. They were highly disappointed. 
- <p class="updated_time"> 11:09 AM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/2022/05/29/world/europe/pope-francis-21-new-cardinals.html">Pope Francis Announces 21 New Cardinals</a> NYT: The new “princes of the church” hail from places like India, Nigeria, Singapore and South Korea. They will be among those who help choose a new pope. 
- <p class="updated_time"> 11:05 AM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Elecciones de Colombia en vivo: una votación clave para el tercer país más poblado de Latinoamérica</a> NYT: La nación elige un nuevo presidente mientras enfrenta un alza en la violencia, tensiones democráticas y una desigualdad que se acentúa. 
- <p class="updated_time"> 11:02 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640">A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians.</a> WSJ: A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians. 
- <p class="updated_time"> 11:00 AM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61611304?at_medium=RSS&at_campaign=KARANGA">Jerusalem Flag March: Israeli nationalists stream through Muslim Quarter</a> BBC: Thousands of nationalists dance and chant in a Muslim district in the face of Palestinian anger. 
+ <p class="updated_time"> 11:08 AM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/sport/formula1/61625828?at_medium=RSS&at_campaign=KARANGA">Monaco Grand Prix: Sergio Perez wins chaotic wet-dry race after Mick Schumacher crash</a> BBC: Sergio Perez won a dramatic and incident-packed, wet-dry Monaco Grand Prix after his Red Bull team outfoxed rivals Ferrari. 
+ <p class="updated_time"> 10:59 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801">Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast</a> WSJ: Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast 
  <p class="updated_time"> 10:26 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Agatha, Now a Hurricane, Heads to the Mexican Coast</a> NYT: Storm surges and potentially fatal floods and mudslides threaten to lash a wide area of the southwestern Mexican coast, forecasters said. 
  <p class="updated_time"> 10:17 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/sri-lanka-rajapaska-hambantota.html">Lavish Projects and Meager Lives: The Two Faces of a Ruined Sri Lanka</a> NYT: A frenzy of building on borrowed money in the Rajapaksa family’s home district illustrates the hubris and mismanagement that led the country into economic collapse. 
  <p class="updated_time"> 10:10 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61619831?at_medium=RSS&at_campaign=KARANGA">Champions League final: Liverpool call for investigation into 'unacceptable issues' faced by fans</a> BBC: Liverpool want an investigation into the "unacceptable issues" faced by fans which led to their Champions League final against Real Madrid being delayed. 
- <p class="updated_time"> 10:02 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801">Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast</a> WSJ: Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast 
+ <p class="updated_time"> 09:59 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/chinas-lockdowns-prompt-a-rethinking-of-life-plans-among-the-young-11653822000">China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young</a> WSJ: China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young 
  <p class="updated_time"> 09:23 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/ukraine-russia-language.html">For Russian-Speaking Ukrainians, Language Clubs Offer Way to Defy Invaders</a> NYT: Many Ukraine citizens speak Russian as their first language. Volunteer organizations are helping them improve their Ukrainian and abandon “the occupiers’ language.” 
  <p class="updated_time"> 09:20 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/nepal-plane-crash.html">Plane Crashes in Nepal With 22 Aboard, Government Says</a> NYT: The search for the plane and its passengers and crew was being hampered by bad weather. 
- <p class="updated_time"> 09:02 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/chinas-lockdowns-prompt-a-rethinking-of-life-plans-among-the-young-11653822000">China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young</a> WSJ: China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young 
+ <p class="updated_time"> 08:59 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/colombians-vote-in-election-that-could-see-ex-leftist-rebel-win-presidency-11653832656">Colombians Vote in Election That Could See Ex-Leftist Rebel Win</a> WSJ: Colombians Vote in Election That Could See Ex-Leftist Rebel Win 
  <p class="updated_time"> 08:21 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/27/science/russia-ukraine-science-academy.html">Russian Academics Aim to Punish Colleagues Who Backed Ukraine Invasion</a> NYT: A campaign is circulating a list of dozens of researchers in the hopes they will be denied the prestige of election into the Russian Academy of Sciences. 
- <p class="updated_time"> 08:02 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/colombians-vote-in-election-that-could-see-ex-leftist-rebel-win-presidency-11653832656">Colombians Vote in Election That Could See Ex-Leftist Rebel Win</a> WSJ: Colombians Vote in Election That Could See Ex-Leftist Rebel Win 
+ <p class="updated_time"> 07:59 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/jerusalem-braces-for-violence-ahead-of-jewish-nationalist-march-11653827529">Israel on Alert for Violence as Jewish Nationalists March Through Old City’s Muslim Quarter</a> WSJ: Israel on Alert for Violence as Jewish Nationalists March Through Old City’s Muslim Quarter 
  <p class="updated_time"> 07:19 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61618902?at_medium=RSS&at_campaign=KARANGA">Russia won't use tactical nuclear weapons in Ukraine, says ambassador to UK</a> BBC: Andrei Kelin tells the BBC tactical nuclear weapons have "nothing to do" with operations in Ukraine. 
- <p class="updated_time"> 07:02 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/jerusalem-braces-for-violence-ahead-of-jewish-nationalist-march-11653827529">Israel on Alert for Violence as Jewish Nationalists March Through Old City’s Muslim Quarter</a> WSJ: Israel on Alert for Violence as Jewish Nationalists March Through Old City’s Muslim Quarter 
  <p class="updated_time"> 06:59 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61623278?at_medium=RSS&at_campaign=KARANGA">Ukraine war: BBC interview with Russian ambassador to the UK</a> BBC: In a BBC interview, Andrei Kelin is shown CCTV footage of Russian soldiers committing alleged war crimes. 
  <p class="updated_time"> 06:55 AM CT, May. 29 </p> 
@@ -59,8 +73,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/29/1101971227/unrest-erupts-at-jerusalem-site-ahead-of-nationalist-march">Unrest erupts at Jerusalem site ahead of nationalist march</a> NPR: Jewish pilgrims visited early Sunday ahead of a nationalist parade through the Old City, prompting Palestinians to throw rocks and fireworks. 
  <p class="updated_time"> 04:34 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/labour-struggles-rust-belt-britain.html">As Boris Johnson Stumbles, Labour Struggles to Offer a Clear Message</a> NYT: Out of power for 12 years, Britain’s Labour Party has made some gains, but its message hasn’t won back the rust belt regions that abandoned it in the last election. 
- <p class="updated_time"> 04:28 AM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61618907?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin urged to hold 'direct, serious negotiations' with Zelensky</a> BBC: In a lengthy call with Russia's leader, France and Germany urge "serious" talks as fighting rages. 
  <p class="updated_time"> 04:21 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101970436/champions-league-final-marred-by-delays-and-use-of-tear-gas-on-fans">Champions League final marred by delays and use of tear gas on fans</a> NPR: The soccer Champions League final in Paris was marred as Liverpool fans were sprayed with tear gas as they tried to enter the stadium, delaying the start of the match by 35 minutes. 
  <p class="updated_time"> 04:00 AM CT, May. 29 </p> 
@@ -83,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61612147?at_medium=RSS&at_campaign=KARANGA">Ukraine: Two sisters fled their home, but carried on their martial arts training</a> BBC: Two sisters, who are world champions in mixed martial arts, want to compete for Ukraine. 
  <p class="updated_time"> 10:32 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/russian-soldiers-military-supplies.html">Russians Crowdsource Supplies for Their Army in Ukraine</a> NYT: A grass-roots movement to get basic supplies to soldiers fighting in Ukraine reflects the growing recognition among Russians that their military was unprepared for major conflict. 
- <p class="updated_time"> 07:57 PM CT, May. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61621470?at_medium=RSS&at_campaign=KARANGA">Uvalde shooting: Kamala Harris calls for assault weapons ban</a> BBC: The US vice-president makes the plea as she attends the funeral of a victim of a mass shooting. 
  <p class="updated_time"> 07:34 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61557951?at_medium=RSS&at_campaign=KARANGA">Why cassava could be a way to keep food costs down</a> BBC: As the price of wheat shoots up, Uganda's President Museveni urges people to eat cassava instead. 
  <p class="updated_time"> 07:28 PM CT, May. 28 </p> 
@@ -95,10 +105,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61441192?at_medium=RSS&at_campaign=KARANGA">War in Ukraine: The making of a new Russian propaganda machine</a> BBC: A pro-Kremlin outlet was launched at the start of the invasion to target Russian-occupied Ukraine. 
  <p class="updated_time"> 06:56 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-61446317?at_medium=RSS&at_campaign=KARANGA">Why can't the US stop soaring oil and gas prices?</a> BBC: As prices rise, oil and gas firms in the US want to capitalise - but the industry has changed. 
- <p class="updated_time"> 06:48 PM CT, May. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61621754?at_medium=RSS&at_campaign=KARANGA">Palme d'Or: Triangle of Sadness wins top prize in Cannes for Ruben Ostlund</a> BBC: Ruben Ostlund's Triangle of Sadness takes the Palme d'Or on a good night for South Koreans too. 
- <p class="updated_time"> 06:09 PM CT, May. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-61586600?at_medium=RSS&at_campaign=KARANGA">Hong Kong's Omicron crisis: ‘It took just 10 days for everyone to be infected’</a> BBC: More than half of those to die in the latest wave to hit Hong Kong were care home residents. 
  <p class="updated_time"> 02:47 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61616622?at_medium=RSS&at_campaign=KARANGA">Russia scraps army age limit and a bike ride from hell</a> BBC: France and Germany call for "direct, serious" talks between President Putin and Ukraine's leader. 
  <p class="updated_time"> 01:52 PM CT, May. 28 </p> 
@@ -125,12 +131,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/28/world/canada/gun-laws-canada.html">What Canada Doesn’t Know About Its Guns</a> NYT: New record-keeping requirements for nonrestricted firearms began this month, but the origins of Canada’s so-called crime guns are largely unknown. 
  <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/france-metoo-patrick-poivre-darvor.html">The Fall of the ‘Sun King’ of French TV, and the Myth of Seduction</a> NYT: Patrick Poivre d’Arvor, known as a great seducer, has been accused by more than 20 women of rape, sexual assault and harassment in France’s belated #MeToo reckoning. 
- <p class="updated_time"> 02:25 AM CT, May. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61615236?at_medium=RSS&at_campaign=KARANGA">Armed female bystander kills man firing at party in West Virginia</a> BBC: A woman at a birthday party drew her pistol and left the gunman with multiple wounds, police say. 
  <p class="updated_time"> 09:38 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/asia/un-china-xinjiang.html">China Spins U.N. Human Rights Chief’s Visit as Propaganda</a> NYT: Michelle Bachelet’s tour includes Xinjiang, where China has been accused of genocide. The terms of her visit are unclear, and critics say Beijing is using her for propaganda. 
- <p class="updated_time"> 06:09 PM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/stories-61597537?at_medium=RSS&at_campaign=KARANGA">The man turning mud into eco-friendly 'concrete'</a> BBC: Gnanli Landrou has invented a special powder that turns earth into a greener version of concrete 
  <p class="updated_time"> 05:55 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-seizes-greek-tankers.html">Iran Seizes Two Greek Tankers in Persian Gulf</a> NYT: The ships were taken in retaliation for Greece last month impounding, at the request of the United States, an Iranian oil tanker, according to Iranian news reports. 
  <p class="updated_time"> 04:42 PM CT, May. 27 </p> 
@@ -194,6 +196,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:10 PM CT, May. 29 </p> 
+ <a href="https://www.politico.com/news/2022/05/29/biden-memorial-texas-school-shooting-00035864">Biden visits memorial to victims of Texas school shooting</a> Politico: The visit to Uvalde was Biden’s second trip in as many weeks to console a community in mourning after a staggering loss from a shooting. 
+ <p class="updated_time"> 12:02 PM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/2022/05/29/us/politics/e-robert-wallach-dead.html">E. Robert Wallach, 88, Lawyer Linked to Reagan-Era Scandal, Dies</a> NYT: Convicted in a fraud case that took down an attorney general, he successfully appealed, and later defended himself in a retrial. 
  <p class="updated_time"> 11:38 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/israel-jerusalem-march-death-arabs-00035862">‘Death to Arabs’ chanted in Jerusalem march</a> Politico: Scuffles ensued as nationalists celebrated an Israeli holiday. 
  <p class="updated_time"> 11:08 AM CT, May. 29 </p> 
@@ -202,8 +208,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/05/29/trumps-new-obsession-00035857"> Trump’s new obsession</a> Politico Playbook: And Republicans and Democrats take note of Herschel Walker's public comments. 
  <p class="updated_time"> 10:33 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/republicans-contrast-guns-brooks-kinzinger-00035860">Republicans offer contrasting views on gun law reform</a> Politico: Adam Kinzinger is open to changing laws; Mo Brooks wants to protect the Second Amendment. 
- <p class="updated_time"> 10:30 AM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/2022/05/29/us/politics/e-robert-wallach-dead.html">E. Robert Wallach, 88, Lawyer Linked to Reagan-Era Scandal, Dies</a> NYT: Convicted in a fraud case that took down an attorney general, he successfully appealed, and later defended himself in a related case. 
  <p class="updated_time"> 09:49 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/criticism-police-response-uvalde-shooting-00035859">Criticism of police response in Uvalde shooting piles up</a> Politico: A Texas lawmaker said some of the shooting victims might have survived. 
  <p class="updated_time"> 09:19 AM CT, May. 29 </p> 
