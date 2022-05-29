@@ -9,49 +9,51 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:19 AM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/2022/05/29/world/asia/afghanistan-opium-taliban.html">Afghanistan Tries to Stamp Out Opium Again</a> NYT: The multibillion-dollar trade has survived previous bans. Now, the Taliban are going after solar-powered water pumps to try to dry up poppy crops in the middle of a national economic crisis. 
+ <p class="updated_time"> 06:00 AM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">Live Updates: Ukraine Strikes Back in South, as Russia Pounds Key Eastern City</a> NYT: As Russia seeks to capture the last Ukrainian controlled city in the eastern Luhansk region, Ukraine announced a counteroffensive around a southern port that Russia has held for months. 
  <p class="updated_time"> 05:47 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101971956/children-among-31-killed-at-church-fair-stampede-in-nigeria">Children among 31 killed at church fair stampede in Nigeria</a> NPR: A stampede Saturday at a church charity event in southern Nigeria left 31 people dead and seven injured at a program that aimed to offer hope to the needy. 
  <p class="updated_time"> 05:36 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61623229?at_medium=RSS&at_campaign=KARANGA">Port Harcourt: Nigeria church crush leaves 31 dead</a> BBC: Police say the crowd became "uncontrollable" at a charity event where food was handed out to the poor. 
  <p class="updated_time"> 05:31 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61618902?at_medium=RSS&at_campaign=KARANGA">Russia won't use tactical nuclear weapons in Ukraine, says ambassador to UK</a> BBC: Andrei Kelin tells the BBC tactical nuclear weapons have "nothing to do" with operations in Ukraine. 
+ <p class="updated_time"> 05:24 AM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/61619831?at_medium=RSS&at_campaign=KARANGA">Liverpool v Real Madrid: Champions League final kick-off delayed for 'security reasons'</a> BBC: Liverpool want an investigation into the "unacceptable issues" faced by fans which led to their Champions League final against Real Madrid being delayed. 
+ <p class="updated_time"> 05:23 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308">Putin Says Russia Open to More Talks With Ukraine</a> WSJ: Putin Says Russia Open to More Talks With Ukraine 
  <p class="updated_time"> 05:22 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101971227/unrest-erupts-at-jerusalem-site-ahead-of-nationalist-march">Unrest erupts at Jerusalem site ahead of nationalist march</a> NPR: Jewish pilgrims visited early Sunday ahead of a nationalist parade through the Old City, prompting Palestinians to throw rocks and fireworks. 
- <p class="updated_time"> 05:19 AM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">Live Updates: Ukraine Strikes Back in South, as Russia Pounds Key Eastern City</a> NYT: As Russia seeks to capture the last Ukrainian controlled city in the eastern Luhansk region, Ukraine announced a counteroffensive around a southern port that Russia has held for months. 
- <p class="updated_time"> 05:01 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308">Putin Says Russia Open to More Talks With Ukraine</a> WSJ: Putin Says Russia Open to More Talks With Ukraine 
  <p class="updated_time"> 04:34 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/labour-struggles-rust-belt-britain.html">As Boris Johnson Stumbles, Labour Struggles to Offer a Clear Message</a> NYT: Out of power for 12 years, Britain’s Labour Party has made some gains, but its message hasn’t won back the rust belt regions that abandoned it in the last election. 
  <p class="updated_time"> 04:28 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61618907?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin urged to hold 'direct, serious negotiations' with Zelensky</a> BBC: In a lengthy call with Russia's leader, France and Germany urge "serious" talks as fighting rages. 
+ <p class="updated_time"> 04:23 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
  <p class="updated_time"> 04:21 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101970436/champions-league-final-marred-by-delays-and-use-of-tear-gas-on-fans">Champions League final marred by delays and use of tear gas on fans</a> NPR: The soccer Champions League final in Paris was marred as Liverpool fans were sprayed with tear gas as they tried to enter the stadium, delaying the start of the match by 35 minutes. 
- <p class="updated_time"> 04:01 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
- <p class="updated_time"> 04:00 AM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/2022/05/29/world/asia/afghanistan-opium-taliban.html">Afghanistan Tries to Stamp Out Opium Again</a> NYT: The multibillion-dollar trade has survived previous bans. Now, the Taliban are going after solar-powered water pumps to try to dry up poppy crops in the middle of a national economic crisis. 
  <p class="updated_time"> 04:00 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/philippines-duterte-victims.html">A Cafe in Philippines is Devoted to Duterte’s Drug War Victims</a> NYT: Served along with the lattes are personal stories from the staff, who are relatives of those who died in some of the thousands of extrajudicial killings in the Philippines. 
  <p class="updated_time"> 03:58 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61611304?at_medium=RSS&at_campaign=KARANGA">Jerusalem tensions high ahead of Israeli youth Flag March</a> BBC: Thousands of flag-waving Israelis are due to pass through Muslim areas, amid Palestinian anger. 
  <p class="updated_time"> 03:56 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/nepal-plane-crash.html">Plane Goes Missing in Nepal With 22 Aboard</a> NYT: A search was underway Sunday for the Tara Air plane, which was headed for a popular Himalayan destination when air traffic controllers lost contact with it. 
+ <p class="updated_time"> 03:23 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202">Ukraine Struggles to Preserve  Alleged War-Crime Evidence</a> WSJ: Ukraine Struggles to Preserve  Alleged War-Crime Evidence 
  <p class="updated_time"> 03:22 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101969720/un-human-rights-chief-asks-china-to-rethink-uyghur-policies">UN human rights chief asks China to rethink Uyghur policies</a> NPR: The top U.N. human rights official said Saturday that she raised concerns with Chinese officials about the impact of measures on the rights of Uyghurs in China's Xinjiang region. 
  <p class="updated_time"> 03:12 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61622874?at_medium=RSS&at_campaign=KARANGA">Liverpool v Real Madrid: Riot police clash with football fans in Madrid</a> BBC: Baton-wielding riot police ran into crowds after glass bottles were thrown at them in the Spanish capital. 
- <p class="updated_time"> 03:01 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202">Ukraine Struggles to Preserve  Alleged War-Crime Evidence</a> WSJ: Ukraine Struggles to Preserve  Alleged War-Crime Evidence 
+ <p class="updated_time"> 02:23 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
  <p class="updated_time"> 02:18 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61623276?at_medium=RSS&at_campaign=KARANGA">Champions League Final: I have asthma and was tear gassed twice - Liverpool fan</a> BBC: French police fired tear gas at Liverpool supporters as they queued to enter the stadium in Paris. 
  <p class="updated_time"> 02:03 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61622794?at_medium=RSS&at_campaign=KARANGA">Franky Zapata: French jetpack inventor injured in lake crash</a> BBC: Franky Zapata was injured after his jetpack, called a flyboard, crashed into a lake in Biscarrosse. 
- <p class="updated_time"> 02:01 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
  <p class="updated_time"> 02:00 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/health/coronavirus-testing-positive.html">Can I Stop Isolating If I’m Still Testing Positive for the Virus?</a> NYT: Some people may test positive for the coronavirus for 10 days or longer, but interpreting those results remains difficult, experts said. 
- <p class="updated_time"> 01:01 AM CT, May. 29 </p> 
+ <p class="updated_time"> 01:23 AM CT, May. 29 </p> 
  <a href="https://www.wsj.com/articles/prince-charless-campaigning-ways-run-through-suburb-he-helped-design-11653753600">Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design</a> WSJ: Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design 
  <p class="updated_time"> 12:07 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/russian-fighting-for-ukraine.html">A Putin Opponent From Russia Leads Fighters Against His Home Country</a> NYT: “The hottest place to fight against the regime was in Ukraine,” says a unit commander who has been a volunteer soldier for his adopted country on and off since 2015. 
@@ -77,8 +79,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61621754?at_medium=RSS&at_campaign=KARANGA">Palme d'Or: Triangle of Sadness wins top prize in Cannes for Ruben Ostlund</a> BBC: Ruben Ostlund's Triangle of Sadness takes the Palme d'Or on a good night for South Koreans too. 
  <p class="updated_time"> 06:09 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61586600?at_medium=RSS&at_campaign=KARANGA">Hong Kong's Omicron crisis: ‘It took just 10 days for everyone to be infected’</a> BBC: More than half of those to die in the latest wave to hit Hong Kong were care home residents. 
- <p class="updated_time"> 04:52 PM CT, May. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61619783?at_medium=RSS&at_campaign=KARANGA">US gun laws: Kamala Harris calls for assault weapons ban</a> BBC: The US vice-president was attending the funeral of a woman shot dead in Buffalo, New York state. 
  <p class="updated_time"> 04:27 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Tropical Storm Agatha Headed to the Mexican Coast</a> NYT: This year’s first named storm in the eastern Pacific has the potential to become a Category 2 hurricane, forecasters said on Saturday. 
  <p class="updated_time"> 02:47 PM CT, May. 28 </p> 
@@ -103,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/28/1100469734/ethiopia-set-a-world-record-for-displacements-in-a-single-year-5-1-million-in-20">Ethiopia set a world record for displacements in a single year: 5.1 million in 2021</a> NPR: The war there is responsible — and makes it difficult just to assess the scale of displacement. Details are in a new report from the Internal Displacement Monitoring Centre. 
  <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2022/05/28/1098826216/like-the-linda-lindas-this-teen-girl-band-in-benin-makes-you-dance-and-think">Like The Linda Lindas, this teen girl band in Benin makes you dance — and think</a> NPR: The 7-member band hails from a conservative part of the country. They sing about female genital cutting, child marriage and gender equality. And they rock. 
- <p class="updated_time"> 05:32 AM CT, May. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61614782?at_medium=RSS&at_campaign=KARANGA">Trump: US should fund safe schools before Ukraine</a> BBC: Mr Trump rejects calls for gun control, saying Americans must be allowed to defend themselves from "evil". 
  <p class="updated_time"> 05:20 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/ukraine-orthodox-church-moscow.html">Ukrainian Orthodox Church Breaks With Moscow Over War</a> NYT: The Council of the Ukrainian Orthodox Church said that it disagreed with the Moscow Patriarch’s position on the war. 
  <p class="updated_time"> 05:00 AM CT, May. 28 </p> 
@@ -117,10 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61615018?at_medium=RSS&at_campaign=KARANGA">Japanese Red Army founder Shigenobu freed after 20 years</a> BBC: Fusako Shigenobu, 76, was jailed for her part in a hostage siege at the French embassy in the Hague. 
  <p class="updated_time"> 09:38 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/asia/un-china-xinjiang.html">China Spins U.N. Human Rights Chief’s Visit as Propaganda</a> NYT: Michelle Bachelet’s tour includes Xinjiang, where China has been accused of genocide. The terms of her visit are unclear, and critics say Beijing is using her for propaganda. 
- <p class="updated_time"> 07:01 PM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-61607954?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 21 - 27 May 2022</a> BBC: A selection of powerful images from all over the globe, taken in the past seven days. 
- <p class="updated_time"> 06:58 PM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-61591159?at_medium=RSS&at_campaign=KARANGA">Ethiopia unrest: Sudden arrest of 4,000 spells fear in Amhara</a> BBC: Politicians, journalists and militia men are targeted, leaving former allies feeling betrayed. 
  <p class="updated_time"> 06:09 PM CT, May. 27 </p> 
  <a href="https://www.bbc.co.uk/news/stories-61597537?at_medium=RSS&at_campaign=KARANGA">The man turning mud into eco-friendly 'concrete'</a> BBC: Gnanli Landrou has invented a special powder that turns earth into a greener version of concrete 
  <p class="updated_time"> 06:06 PM CT, May. 27 </p> 
@@ -185,8 +179,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
  <p class="updated_time"> 04:24 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/arts/international-booker-winner-tomb-of-sand.html">‘Tomb of Sand’ Wins International Booker Prize, a First for a Hindi Novel</a> NYT: “Tomb of Sand,” written by Geetanjali Shree and translated by Daisy Rockwell, won despite getting little previous attention from reviewers. 
- <p class="updated_time"> 02:31 PM CT, May. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61600594?at_medium=RSS&at_campaign=KARANGA">Texas shooting victims: Relatives of children speak of their heartbreak</a> BBC: Relatives of the children killed in a shooting at a school in Uvalde, Texas speak of their heartbreak. 
  <p class="updated_time"> 02:25 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/middleeast/israel-shireen-abu-akleh.html">Palestinian Inquiry Accuses Israel of Intentionally Killing Al Jazeera Journalist</a> NYT: The Palestinian Authority reported its final findings from a two-week investigation into the killing of the journalist Shireen Abu Akleh. Israel said it was still conducting its own inquiry. 
  <p class="updated_time"> 07:48 AM CT, May. 26 </p> 
@@ -198,6 +190,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:01 AM CT, May. 29 </p> 
+ <a href="https://www.politico.com/news/2022/05/29/allegations-of-industry-influence-rock-mine-safety-commission-00035777">Allegations of industry influence rock mine safety commission</a> Politico: A newly obtained memo outlines a Republican commissioner's use of a "Network" of inside and outside advisers when weighing personnel matters at the Federal Mine Safety and Health Review Commission. 
  <p class="updated_time"> 05:51 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/jerusalem-israel-palestinians-00035854">Unrest erupts at Jerusalem site ahead of nationalist march</a> Politico: Israel’s national police chief said his forces were prepared for “every scenario.” 
  <p class="updated_time"> 05:38 AM CT, May. 29 </p> 
@@ -223,9 +217,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:04 AM CT, May. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/28/the-conspiracy-theory-convention-00035846"> The conspiracy theory convention</a> Politico Playbook: And the Georgia Trump investigation heats up. 
  <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
- <a href="https://www.politico.com/news/2022/05/28/high-flying-stefanik-scorched-by-allies-whisper-campaign-against-a-rival-00035839">Trump Jr. allies issue warning to Stefanik camp: Don’t go after Tucker’s kid</a> Politico: She faces plenty of future GOP leadership competitors, including Rep. Jim Banks. And her camp got burned after allegedly raising Banks aide Buckley Carlson. 
- <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
  <a href="https://www.politico.com/news/2022/05/28/gas-prices-rising-electric-cars-00035425">Gas prices are rising. So where are the electric cars?</a> Politico: Democrats see electric vehicles as an answer to climate change, and high fuel costs mean more Americans are interested. But inflation and a shortage of new cars are making that transition painful. 
+ <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
+ <a href="https://www.politico.com/news/2022/05/28/high-flying-stefanik-scorched-by-allies-whisper-campaign-against-a-rival-00035839">Trump Jr. allies issue warning to Stefanik camp: Don’t go after Tucker’s kid</a> Politico: She faces plenty of future GOP leadership competitors, including Rep. Jim Banks. And her camp got burned after allegedly raising Banks aide Buckley Carlson. 
  <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
  <a href="https://www.politico.com/news/2022/05/28/abortion-rights-midterms-democrats-malinowski-00035367">N.J. Dems sacrificed Tom Malinowski. Can abortion rights save him?</a> Politico: The 56-year-old two-term Democrat was reelected in 2020 by just 1 percentage point over his Republican opponent. 
  <p class="updated_time"> 04:01 AM CT, May. 28 </p> 
