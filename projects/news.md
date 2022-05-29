@@ -9,18 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:54 PM CT, May. 29 </p> 
+ <p class="updated_time"> 01:19 PM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-61626746?at_medium=RSS&at_campaign=KARANGA">Champions League final: UK calls for investigation into Paris stadium chaos</a> BBC: Police were criticised for firing tear gas at some Liverpool fans before the Champions League final. 
+ <p class="updated_time"> 01:13 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Elecciones de Colombia en vivo: una votación clave para el tercer país más poblado de Latinoamérica</a> NYT: La nación elige un nuevo presidente mientras enfrenta un alza en la violencia, tensiones democráticas y una desigualdad que se acentúa. 
+ <p class="updated_time"> 01:10 PM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/world/colombia-election-results">Colombia Live Updates: A Big Election for Latin America’s Third Largest Country</a> NYT: The nation is choosing a new president as it faces rising violence, democratic tensions and worsening inequity. 
+ <p class="updated_time"> 01:03 PM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">Live Updates: Ukraine Strikes Back in South, as Zelensky Visits Eastern Front</a> NYT: As his military announced a counteroffensive around the southern port city of Kherson, President Volodymyr Zelensky visited frontline positions near Kharkiv in the east. Russia is pushing to complete its occupation of the eastern Luhansk region. 
  <p class="updated_time"> 12:52 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61611304?at_medium=RSS&at_campaign=KARANGA">Jerusalem Flag March: Israeli nationalists stream through Muslim Quarter</a> BBC: Thousands of nationalists dance and chant in a Muslim district in the face of Palestinian anger. 
  <p class="updated_time"> 12:50 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/pope-francis-21-new-cardinals.html">Pope Francis Announces 21 New Cardinals</a> NYT: The new “princes of the church” hail from places like India, Nigeria, Singapore and South Korea. They will be among those who help choose a new pope. 
- <p class="updated_time"> 12:49 PM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/world/colombia-election-results">Colombia Live Updates: A Big Election for Latin America’s Third Largest Country</a> NYT: The nation is choosing a new president as it faces rising violence, democratic tensions and worsening inequity. 
- <p class="updated_time"> 12:45 PM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61626746?at_medium=RSS&at_campaign=KARANGA">Champions League final: UK calls for investigation into Paris stadium chaos</a> BBC: Police were criticised for firing tear gas at some Liverpool fans before the Champions League final. 
- <p class="updated_time"> 12:31 PM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">Live Updates: Ukraine Strikes Back in South, as Zelensky Visits Eastern Front</a> NYT: As his military announced a counteroffensive around the southern port city of Kherson, President Volodymyr Zelensky visited frontline positions near Kharkiv in the east. Russia is pushing to complete its occupation of the eastern Luhansk region. 
+ <p class="updated_time"> 12:30 PM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640">A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians.</a> WSJ: A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians. 
  <p class="updated_time"> 12:23 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61627187?at_medium=RSS&at_campaign=KARANGA">Ukraine's President Zelensky makes rare visit to Kharkiv frontline</a> BBC: Ukraine's President Zelensky walks around Kharkiv before meeting soldiers and presenting them with medals. 
  <p class="updated_time"> 12:18 PM CT, May. 29 </p> 
@@ -29,34 +31,32 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61625512?at_medium=RSS&at_campaign=KARANGA">Ukraine war: President Zelensky visits Kharkiv in first trip outside Kyiv region</a> BBC: Ukraine's president thanked troops on the country's eastern front line for risking their lives. 
  <p class="updated_time"> 12:07 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61626910?at_medium=RSS&at_campaign=KARANGA">Jerusalem Flag March: Israeli nationalists stream towards Muslim Quarter</a> BBC: Tens of thousands of Israeli Jewish nationalists join the annual Flag March in Jerusalem. 
- <p class="updated_time"> 11:59 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640">A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians.</a> WSJ: A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians. 
  <p class="updated_time"> 11:42 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/sport/cycling/61626537?at_medium=RSS&at_campaign=KARANGA">Giro d'Italia: Jai Hindley is first Australian to win Giro d'Italia</a> BBC: Jai Hindley becomes the first Australian to win the Giro d'Italia, easing home on the final-stage time-trial. 
+ <p class="updated_time"> 11:30 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801">Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast</a> WSJ: Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast 
  <p class="updated_time"> 11:28 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/asia/un-human-rights-china.html">U.N. Human Rights Chief Tempers Criticism at End of China Trip</a> NYT: Rights groups and overseas Uyghurs had called for vociferous condemnation of China’s policies toward minorities in the country’s far West. They were highly disappointed. 
  <p class="updated_time"> 11:08 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/sport/formula1/61625828?at_medium=RSS&at_campaign=KARANGA">Monaco Grand Prix: Sergio Perez wins chaotic wet-dry race after Mick Schumacher crash</a> BBC: Sergio Perez won a dramatic and incident-packed, wet-dry Monaco Grand Prix after his Red Bull team outfoxed rivals Ferrari. 
- <p class="updated_time"> 10:59 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801">Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast</a> WSJ: Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast 
+ <p class="updated_time"> 10:30 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/chinas-lockdowns-prompt-a-rethinking-of-life-plans-among-the-young-11653822000">China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young</a> WSJ: China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young 
  <p class="updated_time"> 10:26 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Agatha, Now a Hurricane, Heads to the Mexican Coast</a> NYT: Storm surges and potentially fatal floods and mudslides threaten to lash a wide area of the southwestern Mexican coast, forecasters said. 
  <p class="updated_time"> 10:17 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/sri-lanka-rajapaska-hambantota.html">Lavish Projects and Meager Lives: The Two Faces of a Ruined Sri Lanka</a> NYT: A frenzy of building on borrowed money in the Rajapaksa family’s home district illustrates the hubris and mismanagement that led the country into economic collapse. 
  <p class="updated_time"> 10:10 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61619831?at_medium=RSS&at_campaign=KARANGA">Champions League final: Liverpool call for investigation into 'unacceptable issues' faced by fans</a> BBC: Liverpool want an investigation into the "unacceptable issues" faced by fans which led to their Champions League final against Real Madrid being delayed. 
- <p class="updated_time"> 09:59 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/chinas-lockdowns-prompt-a-rethinking-of-life-plans-among-the-young-11653822000">China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young</a> WSJ: China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young 
+ <p class="updated_time"> 09:30 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/colombians-vote-in-election-that-could-see-ex-leftist-rebel-win-presidency-11653832656">Colombians Vote in Election That Could See Ex-Leftist Rebel Win</a> WSJ: Colombians Vote in Election That Could See Ex-Leftist Rebel Win 
  <p class="updated_time"> 09:23 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/ukraine-russia-language.html">For Russian-Speaking Ukrainians, Language Clubs Offer Way to Defy Invaders</a> NYT: Many Ukraine citizens speak Russian as their first language. Volunteer organizations are helping them improve their Ukrainian and abandon “the occupiers’ language.” 
  <p class="updated_time"> 09:20 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/nepal-plane-crash.html">Plane Crashes in Nepal With 22 Aboard, Government Says</a> NYT: The search for the plane and its passengers and crew was being hampered by bad weather. 
- <p class="updated_time"> 08:59 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/colombians-vote-in-election-that-could-see-ex-leftist-rebel-win-presidency-11653832656">Colombians Vote in Election That Could See Ex-Leftist Rebel Win</a> WSJ: Colombians Vote in Election That Could See Ex-Leftist Rebel Win 
+ <p class="updated_time"> 08:30 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/jerusalem-braces-for-violence-ahead-of-jewish-nationalist-march-11653827529">Israel on Alert for Violence as Jewish Nationalists March Through Old City’s Muslim Quarter</a> WSJ: Israel on Alert for Violence as Jewish Nationalists March Through Old City’s Muslim Quarter 
  <p class="updated_time"> 08:21 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/27/science/russia-ukraine-science-academy.html">Russian Academics Aim to Punish Colleagues Who Backed Ukraine Invasion</a> NYT: A campaign is circulating a list of dozens of researchers in the hopes they will be denied the prestige of election into the Russian Academy of Sciences. 
- <p class="updated_time"> 07:59 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/jerusalem-braces-for-violence-ahead-of-jewish-nationalist-march-11653827529">Israel on Alert for Violence as Jewish Nationalists March Through Old City’s Muslim Quarter</a> WSJ: Israel on Alert for Violence as Jewish Nationalists March Through Old City’s Muslim Quarter 
  <p class="updated_time"> 07:19 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61618902?at_medium=RSS&at_campaign=KARANGA">Russia won't use tactical nuclear weapons in Ukraine, says ambassador to UK</a> BBC: Andrei Kelin tells the BBC tactical nuclear weapons have "nothing to do" with operations in Ukraine. 
  <p class="updated_time"> 06:59 AM CT, May. 29 </p> 
@@ -332,10 +332,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/us/politics/scott-pruitt-epa-report.html">Scott Pruitt ‘Endangered Public Safety’ by Forcing His Drivers to Speed</a> NYT: An internal report validated whistle-blower allegations that Scott Pruitt repeatedly forced his security detail to drive at dangerous speeds on routine trips because he was running late. 
  <p class="updated_time"> 02:47 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/republican-senators-gun-control-texas-shooting-00035354">The 10 GOP senators to watch in the wake of the Texas school shooting</a> Politico: Democrats need to get at least 10 Senate Republicans on board to have a chance at even narrow gun safety legislation. Here's who's most likely to cut a deal. 
- <p class="updated_time"> 01:25 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/us/politics/supreme-court-greenhouse-gas-emissions.html">Supreme Court Allows Greenhouse Gas Cost Estimates</a> NYT: Louisiana and other Republican-led states challenged a federal working group’s efforts to develop standards for agencies to use in quantifying the harms caused by emissions. 
- <p class="updated_time"> 01:08 PM CT, May. 26 </p> 
- <a href="https://www.politico.com/news/2022/05/26/meadows-burned-papers-meeting-scott-perry-00035411">Meadows burned papers after meeting with Scott Perry, Jan. 6 panel told</a> Politico: The unusual move came after a meeting between then-President Donald Trump's then-chief of staff and the Pennsylvania Republican, according to recent testimony. 
 
 
 </details>
