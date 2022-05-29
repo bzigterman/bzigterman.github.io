@@ -9,10 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:36 AM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">Live Updates: In War of Weapons, Ukraine Tries to Match Russia’s Power</a> NYT: Ukraine is expecting long-range multiple-launch rocket systems from the U.S. and recently received Harpoon anti-ship cruise missiles from Denmark, all as it tries desperately to hold on to its eastern Donbas region. 
+ <p class="updated_time"> 04:34 AM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/2022/05/29/world/europe/labour-struggles-rust-belt-britain.html">As Boris Johnson Stumbles, Labour Struggles to Offer a Clear Message</a> NYT: Out of power for 12 years, Britain’s Labour Party has made some gains, but its message hasn’t won back the rust belt regions that abandoned it in the last election. 
  <p class="updated_time"> 04:28 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61618907?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin urged to hold 'direct, serious negotiations' with Zelensky</a> BBC: In a lengthy call with Russia's leader, France and Germany urge "serious" talks as fighting rages. 
- <p class="updated_time"> 04:23 AM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">Live Updates: In War of Weapons, Ukraine Tries to Match Russia’s Power</a> NYT: Ukraine is expecting long-range multiple-launch rocket systems from the U.S. and recently received Harpoon anti-ship cruise missiles from Denmark, all as it tries desperately to hold on to its eastern Donbas region. 
  <p class="updated_time"> 04:21 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101970436/champions-league-final-marred-by-delays-and-use-of-tear-gas-on-fans">Champions League final marred by delays and use of tear gas on fans</a> NPR: The soccer Champions League final in Paris was marred as Liverpool fans were sprayed with tear gas as they tried to enter the stadium, delaying the start of the match by 35 minutes. 
  <p class="updated_time"> 04:00 AM CT, May. 29 </p> 
@@ -25,13 +27,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/29/world/asia/nepal-plane-crash.html">Plane Goes Missing in Nepal With 22 Aboard</a> NYT: A search was underway Sunday for the Tara Air plane, which was headed for a popular Himalayan destination when air traffic controllers lost contact with it. 
  <p class="updated_time"> 03:52 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61618902?at_medium=RSS&at_campaign=KARANGA">Russia won't use tactical nuclear weapons in Ukraine, says ambassador to UK</a> BBC: Andrei Kelin tells the BBC tactical nuclear weapons have "nothing to do" with operations in Ukraine. 
- <p class="updated_time"> 03:36 AM CT, May. 29 </p> 
+ <p class="updated_time"> 03:50 AM CT, May. 29 </p> 
  <a href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308">Putin Says Russia Open to More Talks With Ukraine</a> WSJ: Putin Says Russia Open to More Talks With Ukraine 
  <p class="updated_time"> 03:22 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101969720/un-human-rights-chief-asks-china-to-rethink-uyghur-policies">UN human rights chief asks China to rethink Uyghur policies</a> NPR: The top U.N. human rights official said Saturday that she raised concerns with Chinese officials about the impact of measures on the rights of Uyghurs in China's Xinjiang region. 
  <p class="updated_time"> 03:12 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61622874?at_medium=RSS&at_campaign=KARANGA">Liverpool v Real Madrid: Riot police clash with football fans in Madrid</a> BBC: Baton-wielding riot police ran into crowds after glass bottles were thrown at them in the Spanish capital. 
- <p class="updated_time"> 02:36 AM CT, May. 29 </p> 
+ <p class="updated_time"> 02:50 AM CT, May. 29 </p> 
  <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
  <p class="updated_time"> 02:18 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61623276?at_medium=RSS&at_campaign=KARANGA">Champions League Final: I have asthma and was tear gassed twice - Liverpool fan</a> BBC: French police fired tear gas at Liverpool supporters as they queued to enter the stadium in Paris. 
@@ -39,15 +41,15 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61622794?at_medium=RSS&at_campaign=KARANGA">Franky Zapata: French jetpack inventor injured in lake crash</a> BBC: Franky Zapata was injured after his jetpack, called a flyboard, crashed into a lake in Biscarrosse. 
  <p class="updated_time"> 02:00 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/health/coronavirus-testing-positive.html">Can I Stop Isolating If I’m Still Testing Positive for the Virus?</a> NYT: Some people may test positive for the coronavirus for 10 days or longer, but interpreting those results remains difficult, experts said. 
- <p class="updated_time"> 01:36 AM CT, May. 29 </p> 
+ <p class="updated_time"> 01:50 AM CT, May. 29 </p> 
  <a href="https://www.wsj.com/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202">Ukraine Struggles to Preserve  Alleged War-Crime Evidence</a> WSJ: Ukraine Struggles to Preserve  Alleged War-Crime Evidence 
- <p class="updated_time"> 12:36 AM CT, May. 29 </p> 
+ <p class="updated_time"> 12:50 AM CT, May. 29 </p> 
  <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
  <p class="updated_time"> 12:07 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/russian-fighting-for-ukraine.html">A Putin Opponent From Russia Leads Fighters Against His Home Country</a> NYT: “The hottest place to fight against the regime was in Ukraine,” says a unit commander who has been a volunteer soldier for his adopted country on and off since 2015. 
  <p class="updated_time"> 11:54 PM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61612147?at_medium=RSS&at_campaign=KARANGA">Ukraine: Two sisters fled their home, but carried on their martial arts training</a> BBC: Two sisters, who are world champions in mixed martial arts, want to compete for Ukraine. 
- <p class="updated_time"> 11:36 PM CT, May. 28 </p> 
+ <p class="updated_time"> 11:50 PM CT, May. 28 </p> 
  <a href="https://www.wsj.com/articles/prince-charless-campaigning-ways-run-through-suburb-he-helped-design-11653753600">Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design</a> WSJ: Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design 
  <p class="updated_time"> 10:49 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/27/science/russia-ukraine-science-academy.html">Russian Academics Aim to Punish Colleagues Who Backed Ukraine Invasion</a> NYT: A campaign is circulating a list of dozens of researchers in the hopes they will be denied the prestige of election into the Russian Academy of Sciences. 
@@ -181,8 +183,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/world/americas/colombia-presidential-election-gustavo-petro.html">Colombia Election: Angry, Mobilized and Voting for Gustavo Petro</a> NYT: A large and loud youth electorate hungry to transform one of Latin America’s most unequal societies could propel Gustavo Petro, a former rebel, to the presidency. 
  <p class="updated_time"> 06:54 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/25/world/africa/senegal-fire-hospital-infants.html">Senegal Hospital Fire Kills 11 Infants, President Says</a> NYT: President Macky Sall said the blaze broke out in a neonatal unit, but gave no further details. 
- <p class="updated_time"> 05:18 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/25/world/europe/russia-ukraine-donbas.html">A Doomed River Crossing Shows the Perils of Entrapment in the War’s East</a> NYT: Encirclement is a tactic used by both sides in the war between Russia and Ukraine, but it can carry big risks. 
  <p class="updated_time"> 04:24 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/arts/international-booker-winner-tomb-of-sand.html">‘Tomb of Sand’ Wins International Booker Prize, a First for a Hindi Novel</a> NYT: “Tomb of Sand,” written by Geetanjali Shree and translated by Daisy Rockwell, won despite getting little previous attention from reviewers. 
  <p class="updated_time"> 02:31 PM CT, May. 26 </p> 
