@@ -9,28 +9,28 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:32 AM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/61619831?at_medium=RSS&at_campaign=KARANGA">Liverpool v Real Madrid: Champions League final kick-off delayed for 'security reasons'</a> BBC: Liverpool want an investigation into the "unacceptable issues" faced by fans which led to their Champions League final against Real Madrid being delayed. 
+ <p class="updated_time"> 06:23 AM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">Live Updates: Ukraine Strikes Back in South, as Russia Pounds Key Eastern City</a> NYT: As Russia seeks to capture the last Ukrainian controlled city in the eastern Luhansk region, Ukraine announced a counteroffensive around a southern port that Russia has held for months. 
  <p class="updated_time"> 06:19 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/afghanistan-opium-taliban.html">Afghanistan Tries to Stamp Out Opium Again</a> NYT: The multibillion-dollar trade has survived previous bans. Now, the Taliban are going after solar-powered water pumps to try to dry up poppy crops in the middle of a national economic crisis. 
- <p class="updated_time"> 06:00 AM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">Live Updates: Ukraine Strikes Back in South, as Russia Pounds Key Eastern City</a> NYT: As Russia seeks to capture the last Ukrainian controlled city in the eastern Luhansk region, Ukraine announced a counteroffensive around a southern port that Russia has held for months. 
+ <p class="updated_time"> 05:49 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308">Putin Says Russia Open to More Talks With Ukraine</a> WSJ: Putin Says Russia Open to More Talks With Ukraine 
  <p class="updated_time"> 05:47 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101971956/children-among-31-killed-at-church-fair-stampede-in-nigeria">Children among 31 killed at church fair stampede in Nigeria</a> NPR: A stampede Saturday at a church charity event in southern Nigeria left 31 people dead and seven injured at a program that aimed to offer hope to the needy. 
  <p class="updated_time"> 05:36 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61623229?at_medium=RSS&at_campaign=KARANGA">Port Harcourt: Nigeria church crush leaves 31 dead</a> BBC: Police say the crowd became "uncontrollable" at a charity event where food was handed out to the poor. 
  <p class="updated_time"> 05:31 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61618902?at_medium=RSS&at_campaign=KARANGA">Russia won't use tactical nuclear weapons in Ukraine, says ambassador to UK</a> BBC: Andrei Kelin tells the BBC tactical nuclear weapons have "nothing to do" with operations in Ukraine. 
- <p class="updated_time"> 05:24 AM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/sport/football/61619831?at_medium=RSS&at_campaign=KARANGA">Liverpool v Real Madrid: Champions League final kick-off delayed for 'security reasons'</a> BBC: Liverpool want an investigation into the "unacceptable issues" faced by fans which led to their Champions League final against Real Madrid being delayed. 
- <p class="updated_time"> 05:23 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraines-troops-could-abandon-key-eastern-stronghold-regional-leader-says-11653737308">Putin Says Russia Open to More Talks With Ukraine</a> WSJ: Putin Says Russia Open to More Talks With Ukraine 
  <p class="updated_time"> 05:22 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101971227/unrest-erupts-at-jerusalem-site-ahead-of-nationalist-march">Unrest erupts at Jerusalem site ahead of nationalist march</a> NPR: Jewish pilgrims visited early Sunday ahead of a nationalist parade through the Old City, prompting Palestinians to throw rocks and fireworks. 
+ <p class="updated_time"> 04:49 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
  <p class="updated_time"> 04:34 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/labour-struggles-rust-belt-britain.html">As Boris Johnson Stumbles, Labour Struggles to Offer a Clear Message</a> NYT: Out of power for 12 years, Britain’s Labour Party has made some gains, but its message hasn’t won back the rust belt regions that abandoned it in the last election. 
  <p class="updated_time"> 04:28 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61618907?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Putin urged to hold 'direct, serious negotiations' with Zelensky</a> BBC: In a lengthy call with Russia's leader, France and Germany urge "serious" talks as fighting rages. 
- <p class="updated_time"> 04:23 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/as-war-rages-in-ukraine-the-u-s-military-studies-russian-weapons-at-a-petting-zoo-outside-las-vegas-11653742803">As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’</a> WSJ: As War Rages in Ukraine, U.S. Military Studies Russian Weapons at a ‘Petting Zoo’ 
  <p class="updated_time"> 04:21 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101970436/champions-league-final-marred-by-delays-and-use-of-tear-gas-on-fans">Champions League final marred by delays and use of tear gas on fans</a> NPR: The soccer Champions League final in Paris was marred as Liverpool fans were sprayed with tear gas as they tried to enter the stadium, delaying the start of the match by 35 minutes. 
  <p class="updated_time"> 04:00 AM CT, May. 29 </p> 
@@ -39,13 +39,13 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61611304?at_medium=RSS&at_campaign=KARANGA">Jerusalem tensions high ahead of Israeli youth Flag March</a> BBC: Thousands of flag-waving Israelis are due to pass through Muslim areas, amid Palestinian anger. 
  <p class="updated_time"> 03:56 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/nepal-plane-crash.html">Plane Goes Missing in Nepal With 22 Aboard</a> NYT: A search was underway Sunday for the Tara Air plane, which was headed for a popular Himalayan destination when air traffic controllers lost contact with it. 
- <p class="updated_time"> 03:23 AM CT, May. 29 </p> 
+ <p class="updated_time"> 03:49 AM CT, May. 29 </p> 
  <a href="https://www.wsj.com/articles/ukraine-struggles-to-preserve-evidence-of-alleged-russian-war-crimes-11653730202">Ukraine Struggles to Preserve  Alleged War-Crime Evidence</a> WSJ: Ukraine Struggles to Preserve  Alleged War-Crime Evidence 
  <p class="updated_time"> 03:22 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101969720/un-human-rights-chief-asks-china-to-rethink-uyghur-policies">UN human rights chief asks China to rethink Uyghur policies</a> NPR: The top U.N. human rights official said Saturday that she raised concerns with Chinese officials about the impact of measures on the rights of Uyghurs in China's Xinjiang region. 
  <p class="updated_time"> 03:12 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61622874?at_medium=RSS&at_campaign=KARANGA">Liverpool v Real Madrid: Riot police clash with football fans in Madrid</a> BBC: Baton-wielding riot police ran into crowds after glass bottles were thrown at them in the Spanish capital. 
- <p class="updated_time"> 02:23 AM CT, May. 29 </p> 
+ <p class="updated_time"> 02:49 AM CT, May. 29 </p> 
  <a href="https://www.wsj.com/articles/u-n-human-rights-chief-calls-on-china-gently-to-boost-transparency-in-xinjiang-11653756099">U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang</a> WSJ: U.N. Human-Rights Chief Calls on China to Boost Transparency in Xinjiang 
  <p class="updated_time"> 02:18 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61623276?at_medium=RSS&at_campaign=KARANGA">Champions League Final: I have asthma and was tear gassed twice - Liverpool fan</a> BBC: French police fired tear gas at Liverpool supporters as they queued to enter the stadium in Paris. 
@@ -53,7 +53,7 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61622794?at_medium=RSS&at_campaign=KARANGA">Franky Zapata: French jetpack inventor injured in lake crash</a> BBC: Franky Zapata was injured after his jetpack, called a flyboard, crashed into a lake in Biscarrosse. 
  <p class="updated_time"> 02:00 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/health/coronavirus-testing-positive.html">Can I Stop Isolating If I’m Still Testing Positive for the Virus?</a> NYT: Some people may test positive for the coronavirus for 10 days or longer, but interpreting those results remains difficult, experts said. 
- <p class="updated_time"> 01:23 AM CT, May. 29 </p> 
+ <p class="updated_time"> 01:49 AM CT, May. 29 </p> 
  <a href="https://www.wsj.com/articles/prince-charless-campaigning-ways-run-through-suburb-he-helped-design-11653753600">Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design</a> WSJ: Prince Charles’s Campaigning Ways Run Through Suburb He Helped Design 
  <p class="updated_time"> 12:07 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/russian-fighting-for-ukraine.html">A Putin Opponent From Russia Leads Fighters Against His Home Country</a> NYT: “The hottest place to fight against the regime was in Ukraine,” says a unit commander who has been a volunteer soldier for his adopted country on and off since 2015. 
@@ -111,8 +111,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/28/world/europe/france-metoo-patrick-poivre-darvor.html">The Fall of the ‘Sun King’ of French TV, and the Myth of Seduction</a> NYT: Patrick Poivre d’Arvor, known as a great seducer, has been accused by more than 20 women of rape, sexual assault and harassment in France’s belated #MeToo reckoning. 
  <p class="updated_time"> 02:25 AM CT, May. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61615236?at_medium=RSS&at_campaign=KARANGA">Armed female bystander kills man firing at party in West Virginia</a> BBC: A woman at a birthday party drew her pistol and left the gunman with multiple wounds, police say. 
- <p class="updated_time"> 10:26 PM CT, May. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61615018?at_medium=RSS&at_campaign=KARANGA">Japanese Red Army founder Shigenobu freed after 20 years</a> BBC: Fusako Shigenobu, 76, was jailed for her part in a hostage siege at the French embassy in the Hague. 
  <p class="updated_time"> 09:38 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/asia/un-china-xinjiang.html">China Spins U.N. Human Rights Chief’s Visit as Propaganda</a> NYT: Michelle Bachelet’s tour includes Xinjiang, where China has been accused of genocide. The terms of her visit are unclear, and critics say Beijing is using her for propaganda. 
  <p class="updated_time"> 06:09 PM CT, May. 27 </p> 
@@ -192,6 +190,10 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 06:01 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/allegations-of-industry-influence-rock-mine-safety-commission-00035777">Allegations of industry influence rock mine safety commission</a> Politico: A newly obtained memo outlines a Republican commissioner's use of a "Network" of inside and outside advisers when weighing personnel matters at the Federal Mine Safety and Health Review Commission. 
+ <p class="updated_time"> 06:00 AM CT, May. 29 </p> 
+ <a href="https://www.politico.com/news/2022/05/29/iowa-manchin-carbon-capture-pipeline-00030361">Strange Bedfellows: Farmers and Big Greens square off against Biden and the GOP</a> Politico: White House support for an “interstate CO2 highway system” is scrambling alliances in Iowa. 
+ <p class="updated_time"> 06:00 AM CT, May. 29 </p> 
+ <a href="https://www.politico.com/news/2022/05/29/pentagon-replace-doomsday-plane-00034686">Time is ticking to replace the Pentagon’s 1970s-era Doomsday planes</a> Politico: Built to survive a nuclear attack, these Air Force aircraft are expected to fly well past their 50th birthday. 
  <p class="updated_time"> 05:51 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/jerusalem-israel-palestinians-00035854">Unrest erupts at Jerusalem site ahead of nationalist march</a> Politico: Israel’s national police chief said his forces were prepared for “every scenario.” 
  <p class="updated_time"> 05:38 AM CT, May. 29 </p> 
@@ -219,9 +221,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
  <a href="https://www.politico.com/news/2022/05/28/gas-prices-rising-electric-cars-00035425">Gas prices are rising. So where are the electric cars?</a> Politico: Democrats see electric vehicles as an answer to climate change, and high fuel costs mean more Americans are interested. But inflation and a shortage of new cars are making that transition painful. 
  <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
- <a href="https://www.politico.com/news/2022/05/28/high-flying-stefanik-scorched-by-allies-whisper-campaign-against-a-rival-00035839">Trump Jr. allies issue warning to Stefanik camp: Don’t go after Tucker’s kid</a> Politico: She faces plenty of future GOP leadership competitors, including Rep. Jim Banks. And her camp got burned after allegedly raising Banks aide Buckley Carlson. 
- <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
  <a href="https://www.politico.com/news/2022/05/28/abortion-rights-midterms-democrats-malinowski-00035367">N.J. Dems sacrificed Tom Malinowski. Can abortion rights save him?</a> Politico: The 56-year-old two-term Democrat was reelected in 2020 by just 1 percentage point over his Republican opponent. 
+ <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
+ <a href="https://www.politico.com/news/2022/05/28/high-flying-stefanik-scorched-by-allies-whisper-campaign-against-a-rival-00035839">Trump Jr. allies issue warning to Stefanik camp: Don’t go after Tucker’s kid</a> Politico: She faces plenty of future GOP leadership competitors, including Rep. Jim Banks. And her camp got burned after allegedly raising Banks aide Buckley Carlson. 
  <p class="updated_time"> 04:01 AM CT, May. 28 </p> 
  <a href="https://www.npr.org/2022/05/28/1101814449/as-a-jury-weighs-if-a-lawyer-lied-to-the-fbi-durhams-legacy-hangs-in-the-balance">As a jury weighs if a lawyer lied to the FBI, Durham's legacy hangs in the balance</a> NPR: Michael Sussmann faces one charge of lying to the FBI ahead of the 2016 presidential election. It's the first courtroom test for special counsel John Durham, appointed by the Trump administration. 
  <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
@@ -258,8 +260,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/27/1101837082/rep-castro-lost-confidence-in-uvalde-officials-so-he-called-the-fbi">Rep. Castro 'lost confidence' in Uvalde officials. So he called the FBI</a> NPR: NPR's Ailsa Chang talks with Texas Rep. Joaquin Castro, a Democrat, about his request that the FBI investigate the timeline of law enforcement response at the Uvalde school shooting. 
  <p class="updated_time"> 02:44 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/us/politics/oregon-kurt-schrader-jamie-mcleod-skinner.html">Jamie McLeod-Skinner Defeats Kurt Schrader in Oregon</a> NYT: In an upset, Jamie McLeod-Skinner defeated Representative Kurt Schrader, a leading moderate in Congress who had been endorsed by President Biden. 
- <p class="updated_time"> 01:20 PM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/texas-police-wrong-decision-wait-breaching-uvalde-classroom-00035760">Texas official: Police made ‘wrong decision’ to wait on breaching Uvalde classroom</a> Politico: The on-scene commander believed at the time that the gunman had barricaded himself and that the children were no longer at risk. 
  <p class="updated_time"> 01:12 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101801511/trump-lawsuit-new-york-attorney-general-dismissed-letitia-james">A judge has dismissed Trump's lawsuit against New York's attorney general</a> NPR: A federal judge's dismissal of former President Donald Trump's lawsuit against New York Attorney General Letitia James allows her civil investigation into his business practices to continue. 
  <p class="updated_time"> 01:11 PM CT, May. 27 </p> 
@@ -268,8 +268,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/27/1101741366/human-trafficking-farmworker-abuse-georgia">A human-trafficking case exposed farmworker abuses. The government is promising change</a> NPR: In response to a letter from Sen. Jon Ossoff, Homeland Security said it plans to begin the process to create new rules to increase protections for farmworkers. 
  <p class="updated_time"> 12:26 PM CT, May. 27 </p> 
  <a href="https://www.npr.org/2022/05/27/1101779681/pennsylvania-undated-ballots-senate-race-oz-mccormick-recount">How undated ballots could affect Pennsylvania's GOP Senate race and voters' rights</a> NPR: Mail-in ballots that arrived on time but in envelopes missing dates handwritten by voters have been a flashpoint in recent elections in the key swing state, including a close Republican primary race. 
- <p class="updated_time"> 11:35 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/u-s-sending-rocket-systems-ukraine-00035698">U.S. leans toward sending rocket systems to Ukraine</a> Politico: Kyiv has been asking for the weapons for months, but no final decision has been made. 
  <p class="updated_time"> 11:28 AM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/centrist-schrader-ousted-in-oregon-primary-00035728">Centrist Schrader ousted in Oregon primary</a> Politico: Rep. Kurt Schrader, a seven-term centrist Democrat from Oregon, has lost his primary to a progressive challenger, handing a massive win to the party’s left flank. 
  <p class="updated_time"> 11:21 AM CT, May. 27 </p> 
@@ -291,15 +289,11 @@ webappicon: /plots/news.png
  <p class="updated_time"> 03:38 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/asylum-system.html">U.S. to Begin Allowing Migrants to Apply for Asylum Under a New System</a> NYT: The rollout of the process for some arrivals at the southwestern border will be small, but could represent the tip of broad changes to the asylum system. 
  <p class="updated_time"> 03:31 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/cheney-reelection-poll-00035597">As Cheney files for reelection, poll from rival group shows her trailing badly</a> Politico: The survey, conducted by the Club for Growth, is consistent with other data out of Wyoming in the last year. 
- <p class="updated_time"> 03:31 AM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/sinema-manchins-filibuster-defense-pressures-on-gop-on-guns-00035543">The GOP’s two favorite Dems try to turn their cred into a guns deal</a> Politico: Sens. Joe Manchin (D-W.Va.) and Kyrsten Sinema (D-Ariz.) have cut a huge infrastructure deal with Republicans and helped preserve the filibuster. Can that give them bipartisan progress on the thorniest of issues? 
  <p class="updated_time"> 03:30 AM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/unfair-fema-climate-program-floods-00032080">How FEMA helps white and rich Americans escape floods</a> Politico: An investigation by POLITICO's E&E News reveals systemic favoritism toward wealthy and white people in a federal program that lifts homes above rising floodwaters. 
  <p class="updated_time"> 03:30 AM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/wisconsin-senate-race-barnes-lasry-00035580">Wisconsin Senate race tightens as rivals close in on Barnes</a> Politico: Milwaukee Bucks executive Alex Lasry, who has loaned millions out of his own pocket to his campaign, is a close second to the Wisconsin lieutenant governor. 
- <p class="updated_time"> 03:30 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/gallery/2022/05/27/the-nations-cartoonists-on-the-week-in-politics-00035579">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 03:30 AM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/swing-state-politics-stymie-gun-debate-00035637">The gun debate roadblock you might not expect: Swing states</a> Politico: In some top Senate battlegrounds, gun-drenched GOP primaries and high firearm ownership rates thwart any chance of serious reform. 
  <p class="updated_time"> 02:20 AM CT, May. 27 </p> 
@@ -314,8 +308,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/us/politics/marjorie-taylor-greene-security.html">Marjorie Taylor Greene’s Campaign Spent $183,000 on Security in Early 2022</a> NYT: Ms. Greene, the far-right Georgia Republican, spent more campaign money on personal security in the first quarter of this year than any other candidate, campaign finance filings show. 
  <p class="updated_time"> 05:03 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/scott-pruitt-epa-report.html">Scott Pruitt ‘Endangered Public Safety’ by Forcing His Drivers to Speed</a> NYT: An internal report validated whistle-blower allegations that Scott Pruitt repeatedly forced his security detail to drive at dangerous speeds on routine trips because he was running late. 
- <p class="updated_time"> 04:11 PM CT, May. 26 </p> 
- <a href="https://www.politico.com/news/2022/05/26/biden-response-texas-school-shooting-00035523">‘He can’t just be the ‘eulogizer in chief’’: Frustration grows over Biden’s Texas response</a> Politico: The White House wants to have distance to see if a deal can be struck. Activists see a leadership vacuum. 
  <p class="updated_time"> 04:06 PM CT, May. 26 </p> 
  <a href="https://www.nytimes.com/2022/05/26/us/politics/michigan-republicans-governor-signatures.html">5 G.O.P. Candidates for Michigan Governor Are Disqualified Over Forged Signatures</a> NYT: James Craig and Perry Johnson, two of the party’s top contenders, were denied spots on the ballot by a state canvassing board. The party-line decision is expected to draw lawsuits. 
  <p class="updated_time"> 02:47 PM CT, May. 26 </p> 
@@ -324,8 +316,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/us/politics/supreme-court-greenhouse-gas-emissions.html">Supreme Court Allows Greenhouse Gas Cost Estimates</a> NYT: Louisiana and other Republican-led states challenged a federal working group’s efforts to develop standards for agencies to use in quantifying the harms caused by emissions. 
  <p class="updated_time"> 01:08 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/meadows-burned-papers-meeting-scott-perry-00035411">Meadows burned papers after meeting with Scott Perry, Jan. 6 panel told</a> Politico: The unusual move came after a meeting between then-President Donald Trump's then-chief of staff and the Pennsylvania Republican, according to recent testimony. 
- <p class="updated_time"> 06:42 AM CT, May. 26 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/05/26/giving-gun-talks-a-go-00035353">Giving gun talks a go</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
