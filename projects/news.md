@@ -9,43 +9,45 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:51 AM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">Live Updates: Ukraine Strikes Back in South, as Zelensky Visits Eastern Front</a> NYT: As his military announced a counteroffensive around the southern port city of Kherson, President Volodymyr Zelensky visited frontline positions near Kharkiv in the east. Russia is pushing to complete its occupation of the eastern Luhansk region. 
+ <p class="updated_time"> 09:49 AM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/61619831?at_medium=RSS&at_campaign=KARANGA">Champions League final: Liverpool call for investigation into 'unacceptable issues' faced by fans</a> BBC: Liverpool want an investigation into the "unacceptable issues" faced by fans which led to their Champions League final against Real Madrid being delayed. 
+ <p class="updated_time"> 09:43 AM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Elecciones de Colombia en vivo: abren las urnas en una votación crucial</a> NYT: El tercer país más poblado de América Latina vota en la primera vuelta presidencial mientras enfrenta los retos de la violencia creciente, las tensiones democráticas y la pobreza. 
  <p class="updated_time"> 09:32 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/world/colombia-election-results">Colombia Live Updates: Polls Open in Big Stakes Election</a> NYT: Latin America’s third largest nation is choosing a new president as it faces rising violence, democratic tensions and worsening inequity. 
- <p class="updated_time"> 09:30 AM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">Live Updates: Ukraine Strikes Back in South, as Zelensky Visits Eastern Front</a> NYT: As his military announced a counteroffensive around the southern port city of Kherson, President Volodymyr Zelensky visited frontline positions near Kharkiv in the east. Russia is pushing to complete its occupation of the eastern Luhansk region. 
  <p class="updated_time"> 09:23 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/ukraine-russia-language.html">For Russian-Speaking Ukrainians, Language Clubs Offer Way to Defy Invaders</a> NYT: Many Ukraine citizens speak Russian as their first language. Volunteer organizations are helping them improve their Ukrainian and abandon “the occupiers’ language.” 
  <p class="updated_time"> 09:20 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/nepal-plane-crash.html">Plane Crashes in Nepal With 22 Aboard, Government Says</a> NYT: The search for the plane and its passengers and crew was being hampered by bad weather. 
  <p class="updated_time"> 09:18 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61611304?at_medium=RSS&at_campaign=KARANGA">Jerusalem tensions high ahead of Israeli youth Flag March</a> BBC: Palestinians warn Israel is "playing with fire" as huge crowds of flag-waving Israelis assemble. 
- <p class="updated_time"> 08:47 AM CT, May. 29 </p> 
+ <p class="updated_time"> 08:59 AM CT, May. 29 </p> 
  <a href="https://www.wsj.com/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640">A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians.</a> WSJ: A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians. 
  <p class="updated_time"> 08:21 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/27/science/russia-ukraine-science-academy.html">Russian Academics Aim to Punish Colleagues Who Backed Ukraine Invasion</a> NYT: A campaign is circulating a list of dozens of researchers in the hopes they will be denied the prestige of election into the Russian Academy of Sciences. 
- <p class="updated_time"> 07:47 AM CT, May. 29 </p> 
+ <p class="updated_time"> 07:59 AM CT, May. 29 </p> 
  <a href="https://www.wsj.com/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801">Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast</a> WSJ: Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast 
  <p class="updated_time"> 07:19 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61618902?at_medium=RSS&at_campaign=KARANGA">Russia won't use tactical nuclear weapons in Ukraine, says ambassador to UK</a> BBC: Andrei Kelin tells the BBC tactical nuclear weapons have "nothing to do" with operations in Ukraine. 
  <p class="updated_time"> 06:59 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/chinas-lockdowns-prompt-a-rethinking-of-life-plans-among-the-young-11653822000">China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young</a> WSJ: China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young 
+ <p class="updated_time"> 06:59 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61623278?at_medium=RSS&at_campaign=KARANGA">Ukraine war: BBC interview with Russian ambassador to the UK</a> BBC: In a BBC interview, Andrei Kelin is shown CCTV footage of Russian soldiers committing alleged war crimes. 
  <p class="updated_time"> 06:55 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1100968695/irish-setter-pet-dogs-ukraine-refugees-france">How a Facebook page for Irish setter lovers helped Ukrainians flee with their dogs</a> NPR: A Russian woman living in Burgundy wanted to help pet dogs of Ukraine and their human companions get to safety. She turned to a Facebook group for lovers of a famous dog breed to find them. 
- <p class="updated_time"> 06:47 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/chinas-lockdowns-prompt-a-rethinking-of-life-plans-among-the-young-11653822000">China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young</a> WSJ: China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young 
- <p class="updated_time"> 06:32 AM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/sport/football/61619831?at_medium=RSS&at_campaign=KARANGA">Champions League final: Liverpool call for investigation into 'unacceptable issues' faced by fans</a> BBC: Liverpool want an investigation into the "unacceptable issues" faced by fans which led to their Champions League final against Real Madrid being delayed. 
  <p class="updated_time"> 06:19 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/afghanistan-opium-taliban.html">Afghanistan Tries to Stamp Out Opium Again</a> NYT: The multibillion-dollar trade has survived previous bans. Now, the Taliban are going after solar-powered water pumps to try to dry up poppy crops in the middle of a national economic crisis. 
+ <p class="updated_time"> 05:59 AM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/colombians-vote-in-election-that-could-see-ex-leftist-rebel-win-presidency-11653832656">Colombians Vote in Election That Could See Ex-Leftist Rebel Win</a> WSJ: Colombians Vote in Election That Could See Ex-Leftist Rebel Win 
  <p class="updated_time"> 05:47 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101971956/children-among-31-killed-at-church-fair-stampede-in-nigeria">Children among 31 killed at church fair stampede in Nigeria</a> NPR: A stampede Saturday at a church charity event in southern Nigeria left 31 people dead and seven injured at a program that aimed to offer hope to the needy. 
- <p class="updated_time"> 05:47 AM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/colombians-vote-in-election-that-could-see-ex-leftist-rebel-win-presidency-11653832656">Colombians Vote in Election That Could See Ex-Leftist Rebel Win</a> WSJ: Colombians Vote in Election That Could See Ex-Leftist Rebel Win 
  <p class="updated_time"> 05:36 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61623229?at_medium=RSS&at_campaign=KARANGA">Port Harcourt: Nigeria church crush leaves 31 dead</a> BBC: Police say the crowd became "uncontrollable" at a charity event where food was handed out to the poor. 
  <p class="updated_time"> 05:22 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101971227/unrest-erupts-at-jerusalem-site-ahead-of-nationalist-march">Unrest erupts at Jerusalem site ahead of nationalist march</a> NPR: Jewish pilgrims visited early Sunday ahead of a nationalist parade through the Old City, prompting Palestinians to throw rocks and fireworks. 
- <p class="updated_time"> 04:47 AM CT, May. 29 </p> 
+ <p class="updated_time"> 04:59 AM CT, May. 29 </p> 
  <a href="https://www.wsj.com/articles/jerusalem-braces-for-violence-ahead-of-jewish-nationalist-march-11653827529">Jerusalem Braces for Violence Ahead of Jewish Nationalist March</a> WSJ: Jerusalem Braces for Violence Ahead of Jewish Nationalist March 
  <p class="updated_time"> 04:34 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/labour-struggles-rust-belt-britain.html">As Boris Johnson Stumbles, Labour Struggles to Offer a Clear Message</a> NYT: Out of power for 12 years, Britain’s Labour Party has made some gains, but its message hasn’t won back the rust belt regions that abandoned it in the last election. 
@@ -145,8 +147,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/27/world/europe/italy-bishops-clerical-abuse.html">Italian Bishops to Examine Clerical Abuse, but Only to a Point</a> NYT: The Italian Bishops’ Conference on Friday presented its plan to investigate clerical abuse, but critics say it is insufficient and disappointing. 
  <p class="updated_time"> 02:28 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iraqi-parliament-anti-normalization-israel.html">Iraqi Parliament Expands Law Against Normalizing Ties With Israel</a> NYT: The legislation, based on a similar law dating back to 1969, makes it a crime punishable by death. It makes Iraq an outlier in the Arab world, where more countries are forging diplomatic relations with Israel. 
- <p class="updated_time"> 11:36 AM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/25/world/middleeast/iran-israel-killing-khodayee.html">Israel Tells U.S. It Killed Iranian Officer, Official Says</a> NYT: Israeli officials say the officer, Sayad Khodayee, was a leader of a covert unit tasked with abductions and killings of Israelis and other foreigners around the world. Iran does not acknowledge that the unit exists. 
  <p class="updated_time"> 11:29 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-drone-attack.html">Sensitive Iranian Military Site Was Targeted in Attack</a> NYT: A drone exploded at a structure in the Parchin military technology complex on Wednesday. The attack fit a pattern of past Israeli strikes on Iran. 
  <p class="updated_time"> 10:33 AM CT, May. 27 </p> 
