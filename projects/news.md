@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:40 AM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Hurricane Agatha Is Set to Hit Southern Mexico</a> NYT: With sustained winds of up to 110 miles per hour, Agatha, the first named storm in the eastern Pacific this year, was threatening the Mexican state of Oaxaca on Monday, forecasters said. 
  <p class="updated_time"> 06:29 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/eu-summit-ukraine-enlargement-accession-talks-nato.html">As Ukraine Fights, Does the E.U. Owe It Membership?</a> NYT: Brussels supports Kyiv’s battle against Russia, but gaining full membership to the bloc could take years. Is there another way to bind Ukraine, Moldova and Georgia to Europe? 
  <p class="updated_time"> 06:24 AM CT, May. 30 </p> 
@@ -19,16 +21,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Colombia a segunda vuelta: un candidato de izquierda y un populista de derecha se enfrentarán en junio</a> NYT: Dos candidatos antisistema, Gustavo Petro, de izquierda, y Rodolfo Hernández, de derecha, alcanzaron los dos primeros lugares en las elecciones presidenciales del domingo. 
  <p class="updated_time"> 06:22 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61630201?at_medium=RSS&at_campaign=KARANGA">Champions League final: Fake tickets triggered Paris final chaos - France</a> BBC: The sports minister's comments come amid strong criticism of the policing of Saturday's Champions League final. 
+ <p class="updated_time"> 05:57 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
  <p class="updated_time"> 05:38 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61632802?at_medium=RSS&at_campaign=KARANGA">Samuel Kanu: Nigeria's Methodist Church leader kidnapped</a> BBC: Samuel Kanu was taken in the south-east where separatists have been agitating for a breakaway state. 
- <p class="updated_time"> 05:33 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
  <p class="updated_time"> 05:13 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61627316?at_medium=RSS&at_campaign=KARANGA">Ukraine may soon get US long-range MLRS rocket system</a> BBC: The US looks set to send the weaponry, but Russia warns it would be a provocative escalation. 
+ <p class="updated_time"> 04:57 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
  <p class="updated_time"> 04:39 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102031476/number-of-seized-drugs-reaches-record-in-asia">1 billion pills: The number of seized drugs reaches ominous record in Asia</a> NPR: A U.N. official calls for new policies across East Asia to halt the soaring production of methamphetamines. 
- <p class="updated_time"> 04:33 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
  <p class="updated_time"> 04:07 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61629130?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: Murder of popular Indian singer sparks anger</a> BBC: Sidhu Moose Wala, 28, was shot dead a day after the Punjab state government scaled back his security cover. 
  <p class="updated_time"> 04:05 AM CT, May. 30 </p> 
@@ -41,26 +43,24 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/travel/sicily-regional-trains.html">Circling Sicily on Its Regional Trains</a> NYT: A Dutch photographer, documenting the culture of regional train travel, managed to get around the Italian island for less than $100. Here’s what she saw. 
  <p class="updated_time"> 04:00 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/canada-military-sexual-misconduct.html">Canada’s Military, Where Sexual Misconduct Went to the Top, Looks for a New Path</a> NYT: A report by a former Supreme Court justice due out Monday will offer recommendations to turn around pervasive sexual assault and harassment. 
+ <p class="updated_time"> 03:57 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/europe-wants-to-kick-russian-energy-local-opposition-may-get-in-the-way-11653906781">Europe’s Bid to Kick Russian Natural Gas Runs Into Opposition</a> WSJ: Europe’s Bid to Kick Russian Natural Gas Runs Into Opposition 
  <p class="updated_time"> 03:51 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/politics/turkey-nato-russia.html">For NATO, Turkey Is a Disruptive Ally</a> NYT: President Recep Tayyip Erdogan’s block on NATO membership for Sweden and Finland is likely to be managed, but Washington and the rest of the alliance are annoyed. 
  <p class="updated_time"> 03:48 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61631499?at_medium=RSS&at_campaign=KARANGA">Nancy Pelosi's husband Paul arrested for drink-driving</a> BBC: Paul Pelosi, the partner of the US House speaker, is bailed for $5,000 after a two-vehicle crash. 
  <p class="updated_time"> 03:44 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102028311/china-falls-short-on-big-deal-in-south-pacific-but-finds-smaller-wins">China falls short on big deal in South Pacific but finds smaller wins</a> NPR: Beijing's hopes to developing a marine plan for fisheries holding police training fell short over some countries' concerns over increasing geopolitical tensions and threatening regional stability. 
- <p class="updated_time"> 03:39 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Agatha Is Set to Hit Southern Mexico as a Category 3 Hurricane</a> NYT: Agatha, the first named storm in the eastern Pacific this year, was expected to bring heavy rain and winds of at least 111 miles per hour to parts of southern Mexico on Monday, forecasters said. 
- <p class="updated_time"> 03:33 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/europe-wants-to-kick-russian-energy-local-opposition-may-get-in-the-way-11653906781">Europe’s Bid to Kick Russian Natural Gas Runs Into Opposition</a> WSJ: Europe’s Bid to Kick Russian Natural Gas Runs Into Opposition 
  <p class="updated_time"> 02:59 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61628473?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian Foreign Minister Lavrov denies Putin illness</a> BBC: Sergei Lavrov says the Russian president appears in public daily and no sane person would think him ill. 
  <p class="updated_time"> 02:57 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102027690/plane-crash-nepal-tara-air">A plane carrying 22 passengers was found crashed on a mountain in central Nepal </a> NPR: Photos of the crash, released by the army, show the plane's parts scattered across a mountainside. 
+ <p class="updated_time"> 02:57 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/video/headline/AA53DDDC-23BC-4C1F-AD07-198A591C755A.html">Returning to Kyiv: The Challenges Ukrainians Face Going Back Home</a> WSJ: Returning to Kyiv: The Challenges Ukrainians Face Going Back Home 
  <p class="updated_time"> 02:43 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/asia/nepal-plane-crash.html">Nepal Plane Crash: At Least 14 Bodies Are Recovered</a> NYT: The plane went down in bad weather while carrying passengers to Jomsom, a tourist destination popular with trekkers. 
- <p class="updated_time"> 02:33 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/video/headline/AA53DDDC-23BC-4C1F-AD07-198A591C755A.html">Returning to Kyiv: The Challenges Ukrainians Face Going Back Home</a> WSJ: Returning to Kyiv: The Challenges Ukrainians Face Going Back Home 
- <p class="updated_time"> 01:51 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/chinas-push-for-agreement-with-pacific-island-nations-stalls-11653907860">China's Push for Agreement With Pacific Island Nations Stalls</a> WSJ: A summit in Fiji ended without a comprehensive deal after at least one leader said the proposal could give Beijing too much influence in the region. 
+ <p class="updated_time"> 01:57 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/chinas-push-for-agreement-with-pacific-island-nations-stalls-11653907860">China’s Push for Agreement With Pacific Island Nations Stalls</a> WSJ: China’s Push for Agreement With Pacific Island Nations Stalls 
  <p class="updated_time"> 01:28 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/ukraine-russia-language.html">For Russian-Speaking Ukrainians, Language Clubs Offer Way to Defy Invaders</a> NYT: Many Ukraine citizens speak Russian as their first language. Volunteer organizations are helping them improve their Ukrainian and abandon “the occupiers’ language.” 
  <p class="updated_time"> 12:41 AM CT, May. 30 </p> 
@@ -328,8 +328,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/27/prosecution-clinton-campaign-attorney-00035682">Prosecution: 'Overwhelming' evidence of guilt for Clinton campaign attorney</a> Politico: Jury began deliberations Friday in false-statement case against lawyer Michael Sussmann 
  <p class="updated_time"> 09:05 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/business/energy-environment/gas-prices-summer-driving.html">Gas Prices Hit New Highs as Summer Driving Season Starts</a> NYT: A gallon has jumped by about 50 cents over the last month as Russia’s war in Ukraine has continued to unsettle the global energy market. 
- <p class="updated_time"> 06:37 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2022/05/27/senators-leave-town-in-the-talking-stage-00035662">Senators leave town in the talking stage</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
