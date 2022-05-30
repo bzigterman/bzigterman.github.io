@@ -9,58 +9,60 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:26 PM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Colombia a segunda vuelta: un candidato de izquierda y un populista de derecha se enfrentarán en junio</a> NYT: Dos candidatos antisistema, Gustavo Petro, de izquierda, y Rodolfo Hernández, de derecha, alcanzaron los dos primeros lugares en las elecciones presidenciales del domingo. 
+ <p class="updated_time"> 12:25 PM CT, May. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61638049?at_medium=RSS&at_campaign=KARANGA">Frédéric Leclerc-Imhoff: French BFMTV journalist killed in Ukraine</a> BBC: Frédéric Leclerc-Imhoff was covering an evacuation operation near Severodonetsk when he was killed. 
+ <p class="updated_time"> 12:22 PM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">What Happened on Day 95 of the War in Ukraine</a> NYT: As his military announced a counteroffensive around the southern port city of Kherson, President Volodymyr Zelensky made a rare visit to frontline positions. European leaders are gathering in Brussels on Monday for a two-day summit on Ukraine. 
+ <p class="updated_time"> 12:22 PM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/world/colombia-election-results">In Colombia, a Leftist and a Right-Wing Populist Move on to June Runoff</a> NYT: Two anti-establishment candidates, Gustavo Petro, a leftist, and Rodolfo Hernández, a right-wing businessman and former mayor, captured the top two spots in Sunday’s presidential election. 
+ <p class="updated_time"> 12:20 PM CT, May. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61627316?at_medium=RSS&at_campaign=KARANGA">Ukraine may soon get US long-range MLRS rocket system</a> BBC: The US looks set to send the weaponry, but Russia warns it would be a provocative escalation. 
+ <p class="updated_time"> 12:16 PM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/world/europe/mona-lisa-pastry-louvre.html">Man Throws Pastry at Mona Lisa, Smearing Cream on Glass Case</a> NYT: The painting was not harmed and the man, who officials said was in a wheelchair and had faked a disability to get close to it, was taken into custody. 
+ <p class="updated_time"> 12:09 PM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/canada-military-sexual-misconduct.html">Canada’s Military, Where Sexual Misconduct Went to the Top, Looks for a New Path</a> NYT: A report by a former Supreme Court justice released Monday offers recommendations to turn around pervasive sexual assault and harassment. 
  <p class="updated_time"> 12:02 PM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102044111/man-throws-cake-at-mona-lisa-the-louvre">A man in a wig was detained after throwing a piece of cake at the Mona Lisa</a> NPR: A man who was apparently disguised as an old woman in a wheelchair was detained after throwing a piece of cake at the Mona Lisa. 
  <p class="updated_time"> 11:59 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/french-journalist-killed-ukraine.html">French Journalist Killed by Shrapnel in Eastern Ukraine</a> NYT: “The newsroom is in mourning,” said a manager at the TV channel where the 32-year-old journalist worked. 
- <p class="updated_time"> 11:37 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/30/world/europe/mona-lisa-pastry-louvre.html">Man Throws Pastry at Mona Lisa, Smearing Cream on Glass Case</a> NYT: The painting was not harmed and the man, who officials said was in a wheelchair and had faked a disability to get close to it, was taken into custody. 
  <p class="updated_time"> 11:36 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61630201?at_medium=RSS&at_campaign=KARANGA">Champions League final: France blames 'massive' ticket fraud as policing row rages</a> BBC: Chaotic scenes outside Saturday's Champions League final saw Liverpool fans pepper sprayed by police. 
+ <p class="updated_time"> 11:35 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
  <p class="updated_time"> 11:27 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61626912?at_medium=RSS&at_campaign=KARANGA">Death toll rises after Brazil landslides</a> BBC: Rescue efforts continue in the state of Pernambuco, with at least 79 people know to have died. 
- <p class="updated_time"> 11:08 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
  <p class="updated_time"> 10:53 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61632802?at_medium=RSS&at_campaign=KARANGA">Samuel Kanu: Nigeria's Methodist Church leader kidnapped</a> BBC: Samuel Kanu was taken in the south-east where separatists have been agitating for a breakaway state. 
- <p class="updated_time"> 10:47 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Colombia a segunda vuelta: un candidato de izquierda y un populista de derecha se enfrentarán en junio</a> NYT: Dos candidatos antisistema, Gustavo Petro, de izquierda, y Rodolfo Hernández, de derecha, alcanzaron los dos primeros lugares en las elecciones presidenciales del domingo. 
- <p class="updated_time"> 10:42 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/world/colombia-election-results">In Colombia, a Leftist and a Right-Wing Populist Move on to June Runoff</a> NYT: Two anti-establishment candidates, Gustavo Petro, a leftist, and Rodolfo Hernández, a right-wing businessman and former mayor, captured the top two spots in Sunday’s presidential election. 
  <p class="updated_time"> 10:38 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ireland-dublin-airport-delay-covid.html">At Dublin Airport, Staff Shortages Lead to Travel Chaos</a> NYT: More than 1,000 passengers missed flights there in a day, part of a spate of similar difficulties across Europe as demand for travel surges. 
+ <p class="updated_time"> 10:35 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
  <p class="updated_time"> 10:33 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Hurricane Agatha Is Set to Hit Southern Mexico Today</a> NYT: With sustained winds of up to 110 miles per hour, Agatha, the first named storm in the eastern Pacific this year, was threatening the Mexican state of Oaxaca on Monday, forecasters said. 
  <p class="updated_time"> 10:08 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ukraine-russia-chernihiv.html">A Russian Plane Crashed Into a House. Death Was Parceled Out Randomly.</a> NYT: Some fortuitous timing in doing chores saved a family that lived in the Ukrainian city of Chernihiv. A few blocks away, things turned out very differently. 
- <p class="updated_time"> 10:08 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
  <p class="updated_time"> 09:57 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/philippines-duterte-victims.html">A Cafe in Philippines is Devoted to Duterte’s Drug War Victims</a> NYT: Served along with the lattes are personal stories from the staff, who are relatives of those who died in some of the thousands of extrajudicial killings in the Philippines. 
- <p class="updated_time"> 09:42 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">What Happened on Day 95 of the War in Ukraine</a> NYT: As his military announced a counteroffensive around the southern port city of Kherson, President Volodymyr Zelensky made a rare visit to frontline positions. European leaders are gathering in Brussels on Monday for a two-day summit on Ukraine. 
+ <p class="updated_time"> 09:35 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/europe-wants-to-kick-russian-energy-local-opposition-may-get-in-the-way-11653906781">Europe’s Bid to Kick Russian Natural Gas Runs Into Opposition</a> WSJ: Europe’s Bid to Kick Russian Natural Gas Runs Into Opposition 
  <p class="updated_time"> 09:35 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/asia/nepal-plane-crash.html">Nepal Plane Crash: At Least 14 Bodies Are Recovered</a> NYT: The plane went down in bad weather on Sunday while carrying passengers to Jomsom, a tourist destination popular with trekkers. 
- <p class="updated_time"> 09:19 AM CT, May. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61627316?at_medium=RSS&at_campaign=KARANGA">Ukraine may soon get US long-range MLRS rocket system</a> BBC: The US looks set to send the weaponry, but Russia warns it would be a provocative escalation. 
- <p class="updated_time"> 09:16 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/30/canada-military-sexual-misconduct.html">Canada’s Military, Where Sexual Misconduct Went to the Top, Looks for a New Path</a> NYT: A report by a former Supreme Court justice due out Monday will offer recommendations to turn around pervasive sexual assault and harassment. 
  <p class="updated_time"> 09:16 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/eu-summit-ukraine-enlargement-accession-talks-nato.html">As Ukraine Fights, Does the E.U. Owe It Membership?</a> NYT: Brussels supports Kyiv’s battle against Russia, but gaining full membership to the bloc could take years. Is there another way to bind Ukraine, Moldova and Georgia to Europe? 
- <p class="updated_time"> 09:08 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/europe-wants-to-kick-russian-energy-local-opposition-may-get-in-the-way-11653906781">Europe’s Bid to Kick Russian Natural Gas Runs Into Opposition</a> WSJ: Europe’s Bid to Kick Russian Natural Gas Runs Into Opposition 
  <p class="updated_time"> 08:37 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61634598?at_medium=RSS&at_campaign=KARANGA">Sick killer whale 'found dead in France'</a> BBC: Experts had tried to guide the four-metre orca back to the sea after it swam up the River Seine. 
- <p class="updated_time"> 08:08 AM CT, May. 30 </p> 
+ <p class="updated_time"> 08:35 AM CT, May. 30 </p> 
  <a href="https://www.wsj.com/video/headline/AA53DDDC-23BC-4C1F-AD07-198A591C755A.html">Returning to Kyiv: The Challenges Ukrainians Face Going Back Home</a> WSJ: Returning to Kyiv: The Challenges Ukrainians Face Going Back Home 
  <p class="updated_time"> 08:00 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61628473?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian Foreign Minister Lavrov denies Putin illness</a> BBC: Sergei Lavrov says the Russian president appears in public daily and no sane person would think him ill. 
  <p class="updated_time"> 07:54 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61631964?at_medium=RSS&at_campaign=KARANGA">'TikTok King', 77, challenges ex-rebel for Colombia's top job</a> BBC: Rodolfo Hernández, a populist and savvy social media user, faces an ex-rebel in Colombia's run-off. 
+ <p class="updated_time"> 07:35 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/chinas-push-for-agreement-with-pacific-island-nations-stalls-11653907860">China Sees Action on Deal With Pacific Island Nations Deferred</a> WSJ: China Sees Action on Deal With Pacific Island Nations Deferred 
  <p class="updated_time"> 07:30 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/melitopol-explosion.html">Explosion Hits Russian-Occupied Melitopol </a> NYT: Pro-Kremlin authorities in the city blamed Ukrainian partisans for the blast, which they said had injured two people. 
- <p class="updated_time"> 07:26 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/chinas-push-for-agreement-with-pacific-island-nations-stalls-11653907860">China's Sees Action on Deal With Pacific Island Nations Deferred</a> WSJ: In a check on Chinese ambitions, a summit in Fiji ended without a comprehensive agreement, despite assurances Beijing wasn’t seeking to drag regional nations into its strategic race with the U.S. and allies. 
  <p class="updated_time"> 07:09 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61629133?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: The murdered Indian rapper who 'made sense of chaos'</a> BBC: Sidhu Moose Wala won millions of fans but also upset some with his fascination for guns. 
  <p class="updated_time"> 04:39 AM CT, May. 30 </p> 
@@ -99,8 +101,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/29/world/asia/afghanistan-opium-taliban.html">Afghanistan Tries to Stamp Out Opium Again</a> NYT: The multibillion-dollar trade has survived previous bans. Now, the Taliban are going after solar-powered water pumps to try to dry up poppy crops in the middle of a national economic crisis. 
  <p class="updated_time"> 09:06 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/ukraine-russia-war-kherson.html">Ukraine Launches Counteroffensive on Russans in Kherson</a> NYT: “Hold on, Kherson, we’re coming!” the Ukrainian military declared as it pushed to retake territory in a key southern city. 
- <p class="updated_time"> 08:53 PM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/2022/05/27/business/cotton-xinjiang-forced-labor-retailers.html">Global Brands Seek Clarity on Xinjiang</a> NYT: Companies that sourced cotton from the region in China are weighing evidence of forced labor, a lack of visibility into operations and new regulation. 
  <p class="updated_time"> 08:52 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/india-couple-grandchild-suing.html">Indian Couple Sue Their Son for Not Giving Them a Grandchild</a> NYT: A couple in India are demanding that their son and daughter-in-law have a child or pay them $650,000 in damages. “This is an Indian parent thing,” their lawyer said. 
  <p class="updated_time"> 08:39 PM CT, May. 29 </p> 
@@ -155,8 +155,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/29/1101969720/un-human-rights-chief-asks-china-to-rethink-uyghur-policies">U.N. human rights chief asks China to rethink Uyghur policies</a> NPR: The top U.N. human rights official said Saturday that she raised concerns with Chinese officials about the impact of measures on the rights of Uyghurs in China's Xinjiang region. 
  <p class="updated_time"> 03:12 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61622874?at_medium=RSS&at_campaign=KARANGA">Liverpool v Real Madrid: Riot police clash with football fans in Madrid</a> BBC: Baton-wielding riot police ran into crowds after glass bottles were thrown at them in the Spanish capital. 
- <p class="updated_time"> 02:18 AM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/news/uk-61623276?at_medium=RSS&at_campaign=KARANGA">Champions League Final: I have asthma and was tear gassed twice - Liverpool fan</a> BBC: French police fired tear gas at Liverpool supporters as they queued to enter the stadium in Paris. 
  <p class="updated_time"> 02:00 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/health/coronavirus-testing-positive.html">Can I Stop Isolating If I’m Still Testing Positive for the Virus?</a> NYT: Some people may test positive for the coronavirus for 10 days or longer, but interpreting those results remains difficult, experts said. 
  <p class="updated_time"> 12:07 AM CT, May. 29 </p> 
@@ -202,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:05 PM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/us/politics/republican-poll-monitors-election-activists.html">Lawyer Who Plotted to Overturn Trump Loss Recruits Election Deniers to Watch Over the Vote</a> NYT: A central figure in the scheme to reverse the 2020 election is mobilizing grass-roots activists into an “army of citizens” trained to aggressively monitor elections. 
  <p class="updated_time"> 11:14 AM CT, May. 30 </p> 
  <a href="https://www.politico.com/news/2022/05/30/russia-ukraine-fighting-00035891">Russian, Ukrainian troops fight block by block in key city</a> Politico: In recent days, the fighting has focused on Sievierodonetsk. 
  <p class="updated_time"> 09:55 AM CT, May. 30 </p> 
@@ -228,8 +228,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/30/americas-hospital-regulator-wasnt-designed-for-a-pandemic-00035835">America’s hospital regulator wasn’t designed for a pandemic</a> Politico: The Centers for Medicare and Medicaid Services is responsible for safety regulations. It is ill-equipped to enforce them. 
  <p class="updated_time"> 04:01 AM CT, May. 30 </p> 
  <a href="https://www.politico.com/news/2022/05/30/austin-decriminalize-abortion-roe-00035791">Austin pushing to effectively decriminalize abortion ahead of ruling on Roe</a> Politico: The state’s so-called trigger law, which would take effect 30 days after a Supreme Court ruling overturning Roe, includes the nation’s harshest criminal penalties on abortion. 
- <p class="updated_time"> 04:00 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/30/us/politics/republican-poll-monitors-election-activists.html">Lawyer Who Plotted to Overturn Trump Loss Recruits Election Deniers to Watch Over the Vote</a> NYT: A central figure in the scheme to reverse the 2020 election is mobilizing grass-roots activists into an “army of citizens” trained to aggressively monitor elections. 
  <p class="updated_time"> 03:51 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/politics/turkey-nato-russia.html">For NATO, Turkey Is a Disruptive Ally</a> NYT: President Recep Tayyip Erdogan’s block on NATO membership for Sweden and Finland is likely to be managed, but Washington and the rest of the alliance are annoyed. 
  <p class="updated_time"> 02:00 AM CT, May. 30 </p> 
@@ -252,8 +250,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/gallery/2022/05/29/photos-memorials-texas-school-uvalde-00035865">Photos: Mourning in Texas</a> Politico: Memorial tributes continue for the 19 children and two teachers shot to death by a heavily armed gunman at Robb Elementary School in Uvalde, Texas, on May 24, 2022. 
  <p class="updated_time"> 01:20 PM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/justice-department-police-response-uvalde-00035866">Justice Department to investigate police response in Uvalde</a> Politico: Police have been criticized for waiting too late to confront the gunman. 
- <p class="updated_time"> 11:08 AM CT, May. 29 </p> 
- <a href="https://www.politico.com/news/2022/05/29/mccrory-gun-violence-nra-pushed-to-the-right-00035861">North Carolina Republican: NRA has been pushed to the right</a> Politico: He also argued that gun violence is a cultural issue. 
  <p class="updated_time"> 10:39 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/29/trumps-new-obsession-00035857"> Trump’s new obsession</a> Politico Playbook: And Republicans and Democrats take note of Herschel Walker's public comments. 
  <p class="updated_time"> 10:33 AM CT, May. 29 </p> 
