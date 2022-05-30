@@ -9,8 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:58 PM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/live/2022/05/30/world/russia-ukraine-war">Ukraine Live Updates: Europe’s Leaders Reach Deal on Russian Oil Embargo</a> NYT: Agreement on the far-reaching measure was announced late Monday by the president of the European Council. Charles Michel said it would cover more than two-thirds of oil imports from Russia. 
+ <p class="updated_time"> 05:40 PM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/30/world/russia-ukraine-war">Ukraine Live Updates: After Months of Debate, European Leaders Agree to Ban Most Russian Oil Imports</a> NYT: A draft of the agreement allows pipeline imports, in a nod to Hungary’s complaints. Even still, it would be the toughest action yet over Russia’s invasion of Ukraine. 
+ <p class="updated_time"> 05:31 PM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/world/americas/colombia-presidential-election-hernandez-petro.html">Rodolfo Hernández is Colombia’s Trump and He May Be Headed for the Presidential Palace</a> NYT: The Colombian establishment is lining up behind Rodolfo Hernández, a populist businessman with an incendiary streak, to defeat the leftist former rebel Gustavo Petro. 
+ <p class="updated_time"> 05:28 PM CT, May. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61641543?at_medium=RSS&at_campaign=KARANGA">Handguns: Canada proposes complete freeze on ownership</a> BBC: Prime Minister Justin Trudeau says there is no reason anyone needs a gun other than for sports or hunting. 
+ <p class="updated_time"> 05:23 PM CT, May. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61638860?at_medium=RSS&at_campaign=KARANGA">EU clinches compromise deal on banning Russian oil</a> BBC: Latest sanctions block more than two-thirds of Russian oil imports after Hungary opposed a total ban. 
+ <p class="updated_time"> 05:15 PM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Hurricane Agatha Is Set to Hit Southern Mexico Today</a> NYT: With sustained winds of up to 110 miles per hour, Agatha, the first named storm in the eastern Pacific this year, was threatening the Mexican state of Oaxaca on Monday, forecasters said. 
+ <p class="updated_time"> 04:59 PM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/world/americas/hurricane-mexico-agatha-forecast.html">Hurricane Agatha Makes Landfall in Southern Mexico</a> NYT: The storm was the first Category 2 to ever make landfall in the eastern Pacific, and threatened to bring floods and mudslides to the state of Oaxaca. 
+ <p class="updated_time"> 04:46 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/eu-leaders-spar-over-russian-oil-ban-11653921289">EU Leaders Spar Over Russian-Oil Ban</a> WSJ: EU Leaders Spar Over Russian-Oil Ban 
  <p class="updated_time"> 04:44 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Colombia a segunda vuelta: un candidato de izquierda y un populista de derecha se enfrentarán en junio</a> NYT: Dos candidatos antisistema, Gustavo Petro, de izquierda, y Rodolfo Hernández, de derecha, alcanzaron los dos primeros lugares en las elecciones presidenciales del domingo. 
  <p class="updated_time"> 04:30 PM CT, May. 30 </p> 
@@ -21,36 +33,28 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/30/1102070086/encore-cuba-hopes-if-it-builds-hotels-tourists-will-come-after-long-covid-shutdo">Encore: Cuba hopes if it builds hotels, tourists will come, after long COVID shutdown</a> NPR: Tourists — one of the mainstays of the Cuban economy — are returning, but the recovery is slow and some say mismanaged. 
  <p class="updated_time"> 04:24 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/canada/canada-gun-buyback.html">Canada Aims to Force Owners of ‘Military-Style Assault Weapons’ to Turn Them In</a> NYT: Seizing on the spate of mass shootings in the United States, Prime Minister Trudeau proposes tightening the country’s already stringent control of firearms. 
- <p class="updated_time"> 04:17 PM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/30/world/americas/hurricane-mexico-agatha-forecast.html">Hurricane Agatha Makes Landfall in Southern Mexico</a> NYT: The storm was the first Category 2 to ever make landfall in the eastern Pacific, and threatened to bring floods and mudslides to the state of Oaxaca. 
- <p class="updated_time"> 04:02 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/eu-leaders-spar-over-russian-oil-ban-11653921289">EU Leaders Spar Over Russian-Oil Ban</a> WSJ: EU Leaders Spar Over Russian-Oil Ban 
  <p class="updated_time"> 03:57 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61632802?at_medium=RSS&at_campaign=KARANGA">Samuel Kanu: Kidnapped Nigerian Methodist Church leader freed</a> BBC: Samuel Kanu was kidnapped in the south-east where separatists have been agitating for a breakaway state. 
+ <p class="updated_time"> 03:46 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
  <p class="updated_time"> 03:13 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/canada-military-sexual-misconduct.html">Canada’s Military, Where Sexual Misconduct Went to the Top, Looks for a New Path</a> NYT: A report by a former Supreme Court justice released Monday offers recommendations to turn around pervasive sexual assault and harassment. 
- <p class="updated_time"> 03:02 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
- <p class="updated_time"> 02:51 PM CT, May. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61638860?at_medium=RSS&at_campaign=KARANGA">EU struggles to resolve Russian oil ban proposal differences</a> BBC: The latest round of sanctions need approval from all 27 EU members but Hungary opposes the move. 
+ <p class="updated_time"> 02:46 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
  <p class="updated_time"> 02:15 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/mona-lisa-pastry-louvre.html">Man Throws Pastry at Mona Lisa, Smearing Cream on Glass Case</a> NYT: The painting was not harmed and the man, who officials said was in a wheelchair and had faked a disability to get close to it, was taken into custody. 
- <p class="updated_time"> 02:02 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
  <p class="updated_time"> 02:00 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61630201?at_medium=RSS&at_campaign=KARANGA">Champions League final: France blames 'massive' ticket fraud as policing row rages</a> BBC: Chaotic scenes outside Saturday's Champions League final saw Liverpool fans pepper sprayed by police. 
- <p class="updated_time"> 01:55 PM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Hurricane Agatha Is Set to Hit Southern Mexico Today</a> NYT: With sustained winds of up to 110 miles per hour, Agatha, the first named storm in the eastern Pacific this year, was threatening the Mexican state of Oaxaca on Monday, forecasters said. 
+ <p class="updated_time"> 01:46 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/iran-hasnt-provided-credible-explanations-for-nuclear-material-u-n-agency-says-11653923148">U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon</a> WSJ: U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon 
  <p class="updated_time"> 01:08 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ucl-game-delay-france.html">Under Fire for Chaos at Soccer Final, France Rejects Blame for Failures</a> NYT: Tear gas and delays marred the Champions League final in Paris on Saturday, raising questions over France’s ability to host large-scale sporting events like the 2024 Summer Olympics. 
- <p class="updated_time"> 01:02 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/iran-hasnt-provided-credible-explanations-for-nuclear-material-u-n-agency-says-11653923148">U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon</a> WSJ: U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon 
+ <p class="updated_time"> 12:46 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/china-and-the-u-s-are-arranging-an-in-person-meeting-between-heads-of-defense-11653914442">China, U.S. Are Arranging In-Person Meeting Between Heads of Defense</a> WSJ: China, U.S. Are Arranging In-Person Meeting Between Heads of Defense 
  <p class="updated_time"> 12:25 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61638049?at_medium=RSS&at_campaign=KARANGA">Frédéric Leclerc-Imhoff: French BFMTV journalist killed in Ukraine</a> BBC: Frédéric Leclerc-Imhoff was covering an evacuation operation near Severodonetsk when he was killed. 
  <p class="updated_time"> 12:20 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61627316?at_medium=RSS&at_campaign=KARANGA">Ukraine may soon get US long-range MLRS rocket system</a> BBC: The US looks set to send the weaponry, but Russia warns it would be a provocative escalation. 
- <p class="updated_time"> 12:02 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/china-and-the-u-s-are-arranging-an-in-person-meeting-between-heads-of-defense-11653914442">China, U.S. Are Arranging In-Person Meeting Between Heads of Defense</a> WSJ: China, U.S. Are Arranging In-Person Meeting Between Heads of Defense 
  <p class="updated_time"> 12:02 PM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102044111/man-throws-cake-at-mona-lisa-the-louvre">A man in a wig was detained after throwing a piece of cake at the Mona Lisa</a> NPR: A man who was apparently disguised as an old woman in a wheelchair was detained after throwing a piece of cake at the Mona Lisa. 
  <p class="updated_time"> 11:59 AM CT, May. 30 </p> 
@@ -133,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/29/1102015379/the-french-fight-to-restrict-the-use-of-english-in-quebec">The Quebec nationalist fight to restrict the use of English in Quebec</a> NPR: "Non!" to the further imposition of French in Quebec — how the fight over French has incensed many of the English-speaking minority in this Canadian province. 
  <p class="updated_time"> 04:22 PM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1102002788/ukraine-russia-summit-germany-france-putin-zelenskyy">Ahead of this week's EU summit, France and Germany urge Putin to meet Zelenskyy</a> NPR: The EU will meet Monday to discuss how to handle the ongoing conflict as Russia intensifies its efforts to capture Severodonetsk, the largest eastern city that remains in Ukrainian hands. 
- <p class="updated_time"> 03:36 PM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61611304?at_medium=RSS&at_campaign=KARANGA">Jerusalem Flag March: Israeli nationalists stream through Muslim Quarter</a> BBC: Thousands of flag-waving youth dance and sing in a Muslim district in the face of Palestinian anger. 
  <p class="updated_time"> 01:44 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/labour-struggles-rust-belt-britain.html">As Boris Johnson Stumbles, Labour Struggles to Offer a Clear Message</a> NYT: Out of power for 12 years, Britain’s Labour Party has made some gains, but its message hasn’t won back the rust belt regions that abandoned it in the last election. 
  <p class="updated_time"> 12:50 PM CT, May. 29 </p> 
@@ -196,7 +198,9 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:47 PM CT, May. 30 </p> 
+ <p class="updated_time"> 05:31 PM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/world/americas/colombia-presidential-election-hernandez-petro.html">Rodolfo Hernández is Colombia’s Trump and He May Be Headed for the Presidential Palace</a> NYT: The Colombian establishment is lining up behind Rodolfo Hernández, a populist businessman with an incendiary streak, to defeat the leftist former rebel Gustavo Petro. 
+ <p class="updated_time"> 05:18 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/politics/senate-guns-democracy.html">Gun Talks Put Senate’s Tattered Credibility on the Line</a> NYT: After a string of Democratic failures on marquee issues, Senator Chuck Schumer’s decision to give bipartisan gun talks time is a test of the Senate — and of democracy itself. 
  <p class="updated_time"> 04:32 PM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102070637/the-race-for-mayor-is-heating-up-in-los-angeles">The race for mayor is heating up in Los Angeles</a> NPR: NPR's Ailsa Chang talks with Fernando Guerra, director of Loyola Marymount's  Center for the Study of Los Angeles, about the heated mayoral race in LA and frontrunners Rep. Karen Bass and Rick Caruso. 
@@ -223,9 +227,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:17 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102029154/independent-probe-of-uvalde-shooting-is-the-right-call-texas-state-rep-white-say">Independent probe of Uvalde shooting is the right call, Texas state Rep. White says</a> NPR: NPR's Rachel Martin talks to state Rep. James White, an East Texas Republican who supports gun rights, about firearm legislation following the mass shooting at Robb Elementary School in Uvalde. 
  <p class="updated_time"> 06:00 AM CT, May. 30 </p> 
- <a href="https://www.politico.com/news/2022/05/30/william-burns-cia-putin-russia-00035863">The Putinologist: CIA chief’s long history with Putin gives him special insight</a> Politico: Burns’ extensive experience in Russia makes him a singular figure among President Joe Biden’s aides. 
- <p class="updated_time"> 06:00 AM CT, May. 30 </p> 
  <a href="https://www.politico.com/news/2022/05/30/elon-musks-twitter-takeover-stock-market-rules-00034122">How Elon Musk's Twitter takeover may help change stock market rules</a> Politico: At issue is Musk’s 11-day delay in revealing that he purchased a 9.1 percent stake in Twitter before announcing the acquisition plan. 
+ <p class="updated_time"> 06:00 AM CT, May. 30 </p> 
+ <a href="https://www.politico.com/news/2022/05/30/william-burns-cia-putin-russia-00035863">The Putinologist: CIA chief’s long history with Putin gives him special insight</a> Politico: Burns’ extensive experience in Russia makes him a singular figure among President Joe Biden’s aides. 
  <p class="updated_time"> 06:00 AM CT, May. 30 </p> 
  <a href="https://www.politico.com/news/2022/05/30/energy-wind-gulf-of-mexico-00035446">America's next wind powerhouse: The Gulf of Mexico?</a> Politico: The Gulf Coast's long reign as a hub for oil and gas production could help it secure a lead role in generating wind electricity and green hydrogen. But it will face some big obstacles. 
  <p class="updated_time"> 06:00 AM CT, May. 30 </p> 
@@ -300,8 +304,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/27/us/politics/michael-sussmann-trial-durham.html">Prosecutors and Defense Duel in Closing Arguments of Sussmann Trial</a> NYT: A verdict is expected as early as Tuesday in the case brought by a Trump-era special counsel against a lawyer with ties to Hillary Clinton’s 2016 presidential campaign. 
  <p class="updated_time"> 06:37 PM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/trump-gun-rights-nra-speech-uvalde-shooting-00035836">Trump champions gun rights in NRA speech days after Uvalde school shooting</a> Politico: The former president stressed the importance of added school security measures such as metal detectors and arming teachers. 
- <p class="updated_time"> 05:41 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/us/politics/california-senate-candidate-odowd-musk.html">Meet the Reclusive Software Billionaire Attacking Elon Musk</a> NYT: Dan O’Dowd, a software entrepreneur in California, is running for Senate on a single-issue platform: Tesla’s self-driving software. 
 
 
 </details>
