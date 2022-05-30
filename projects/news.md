@@ -9,12 +9,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:44 PM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Colombia a segunda vuelta: un candidato de izquierda y un populista de derecha se enfrentarán en junio</a> NYT: Dos candidatos antisistema, Gustavo Petro, de izquierda, y Rodolfo Hernández, de derecha, alcanzaron los dos primeros lugares en las elecciones presidenciales del domingo. 
  <p class="updated_time"> 04:30 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/05/30/world/russia-ukraine-war">Ukraine Live Updates: Europe’s Leaders Hammering Out Deal on Russian Oil Embargo</a> NYT: Agreement on a far-reaching measure to punish Moscow for Ukraine invasion was said to be close. If approved, the embargo could deprive the Kremlin of a big stream of revenue for its war machine. 
  <p class="updated_time"> 04:30 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/world/colombia-election-results">In Colombia, a Leftist and a Right-Wing Populist Move on to June Runoff</a> NYT: Two anti-establishment candidates, Gustavo Petro, a leftist, and Rodolfo Hernández, a right-wing businessman and former mayor, captured the top two spots in Sunday’s presidential election. 
- <p class="updated_time"> 04:30 PM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Colombia a segunda vuelta: un candidato de izquierda y un populista de derecha se enfrentarán en junio</a> NYT: Dos candidatos antisistema, Gustavo Petro, de izquierda, y Rodolfo Hernández, de derecha, alcanzaron los dos primeros lugares en las elecciones presidenciales del domingo. 
  <p class="updated_time"> 04:25 PM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102070088/a-mothers-weekend-errands-show-the-impact-of-the-economic-crisis-in-lebanon">A mother's weekend errands show the impact of the economic crisis in Lebanon</a> NPR: The calculations of one mother in Beirut shows the struggles to feed a family amid Lebanon's years-long economic collapse. 
  <p class="updated_time"> 04:25 PM CT, May. 30 </p> 
@@ -25,23 +25,25 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/world/americas/hurricane-mexico-agatha-forecast.html">Hurricane Agatha Makes Landfall in Southern Mexico</a> NYT: The storm was the first Category 2 to ever make landfall in the eastern Pacific, and threatened to bring floods and mudslides to the state of Oaxaca. 
  <p class="updated_time"> 03:57 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61632802?at_medium=RSS&at_campaign=KARANGA">Samuel Kanu: Kidnapped Nigerian Methodist Church leader freed</a> BBC: Samuel Kanu was kidnapped in the south-east where separatists have been agitating for a breakaway state. 
- <p class="updated_time"> 03:37 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
+ <p class="updated_time"> 03:52 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/eu-leaders-spar-over-russian-oil-ban-11653921289">EU Leaders Spar Over Russian-Oil Ban</a> WSJ: EU Leaders Spar Over Russian-Oil Ban 
  <p class="updated_time"> 03:13 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/canada-military-sexual-misconduct.html">Canada’s Military, Where Sexual Misconduct Went to the Top, Looks for a New Path</a> NYT: A report by a former Supreme Court justice released Monday offers recommendations to turn around pervasive sexual assault and harassment. 
- <p class="updated_time"> 02:37 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
+ <p class="updated_time"> 02:52 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
+ <p class="updated_time"> 02:51 PM CT, May. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61638860?at_medium=RSS&at_campaign=KARANGA">EU struggles to resolve Russian oil ban proposal differences</a> BBC: The latest round of sanctions need approval from all 27 EU members but Hungary opposes the move. 
  <p class="updated_time"> 02:15 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/mona-lisa-pastry-louvre.html">Man Throws Pastry at Mona Lisa, Smearing Cream on Glass Case</a> NYT: The painting was not harmed and the man, who officials said was in a wheelchair and had faked a disability to get close to it, was taken into custody. 
  <p class="updated_time"> 02:00 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61630201?at_medium=RSS&at_campaign=KARANGA">Champions League final: France blames 'massive' ticket fraud as policing row rages</a> BBC: Chaotic scenes outside Saturday's Champions League final saw Liverpool fans pepper sprayed by police. 
  <p class="updated_time"> 01:55 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Hurricane Agatha Is Set to Hit Southern Mexico Today</a> NYT: With sustained winds of up to 110 miles per hour, Agatha, the first named storm in the eastern Pacific this year, was threatening the Mexican state of Oaxaca on Monday, forecasters said. 
- <p class="updated_time"> 01:37 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/eu-leaders-spar-over-russian-oil-ban-11653921289">EU Leaders Spar Over Russian-Oil Ban</a> WSJ: EU Leaders Spar Over Russian-Oil Ban 
+ <p class="updated_time"> 01:52 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
  <p class="updated_time"> 01:08 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ucl-game-delay-france.html">Under Fire for Chaos at Soccer Final, France Rejects Blame for Failures</a> NYT: Tear gas and delays marred the Champions League final in Paris on Saturday, raising questions over France’s ability to host large-scale sporting events like the 2024 Summer Olympics. 
- <p class="updated_time"> 12:37 PM CT, May. 30 </p> 
+ <p class="updated_time"> 12:52 PM CT, May. 30 </p> 
  <a href="https://www.wsj.com/articles/iran-hasnt-provided-credible-explanations-for-nuclear-material-u-n-agency-says-11653923148">U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon</a> WSJ: U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon 
  <p class="updated_time"> 12:25 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61638049?at_medium=RSS&at_campaign=KARANGA">Frédéric Leclerc-Imhoff: French BFMTV journalist killed in Ukraine</a> BBC: Frédéric Leclerc-Imhoff was covering an evacuation operation near Severodonetsk when he was killed. 
@@ -51,8 +53,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/30/1102044111/man-throws-cake-at-mona-lisa-the-louvre">A man in a wig was detained after throwing a piece of cake at the Mona Lisa</a> NPR: A man who was apparently disguised as an old woman in a wheelchair was detained after throwing a piece of cake at the Mona Lisa. 
  <p class="updated_time"> 11:59 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/french-journalist-killed-ukraine.html">French Journalist Killed by Shrapnel in Eastern Ukraine</a> NYT: “The newsroom is in mourning,” said a manager at the TV channel where the 32-year-old journalist worked. 
- <p class="updated_time"> 11:37 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/video/headline/AA53DDDC-23BC-4C1F-AD07-198A591C755A.html">Returning to Kyiv: The Challenges Ukrainians Face Going Back Home</a> WSJ: Returning to Kyiv: The Challenges Ukrainians Face Going Back Home 
+ <p class="updated_time"> 11:52 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/china-and-the-u-s-are-arranging-an-in-person-meeting-between-heads-of-defense-11653914442">China, U.S. Are Arranging In-Person Meeting Between Heads of Defense</a> WSJ: China, U.S. Are Arranging In-Person Meeting Between Heads of Defense 
  <p class="updated_time"> 11:27 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61626912?at_medium=RSS&at_campaign=KARANGA">Death toll rises after Brazil landslides</a> BBC: Rescue efforts continue in the state of Pernambuco, with at least 79 people know to have died. 
  <p class="updated_time"> 10:38 AM CT, May. 30 </p> 
@@ -93,8 +95,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-us-canada-61631499?at_medium=RSS&at_campaign=KARANGA">Nancy Pelosi's husband Paul arrested for drink-driving</a> BBC: Paul Pelosi, the partner of the US House speaker, is bailed for $5,000 after a two-vehicle crash. 
  <p class="updated_time"> 03:44 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102028311/china-falls-short-on-big-deal-in-south-pacific-but-finds-smaller-wins">China falls short on big deal in South Pacific but finds smaller wins</a> NPR: Beijing's hopes to developing a marine plan for fisheries holding police training fell short over some countries' concerns over increasing geopolitical tensions and threatening regional stability. 
- <p class="updated_time"> 03:40 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/china-and-the-u-s-are-arranging-an-in-person-meeting-between-heads-of-defense-11653914442">China, U.S. Are Arranging In-Person Meeting Between Heads of Defense</a> WSJ: Both countries are working to finalize what would be the first face-to-face meeting between their top defense officials on the sidelines of a conference in Singapore. 
  <p class="updated_time"> 02:57 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102027690/plane-crash-nepal-tara-air">A plane carrying 22 passengers was found crashed on a mountain in central Nepal </a> NPR: Photos of the crash, released by the army, show the plane's parts scattered across a mountainside. 
  <p class="updated_time"> 01:28 AM CT, May. 30 </p> 
@@ -189,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/28/world/europe/france-metoo-patrick-poivre-darvor.html">The Fall of the ‘Sun King’ of French TV, and the Myth of Seduction</a> NYT: Patrick Poivre d’Arvor, known as a great seducer, has been accused by more than 20 women of rape, sexual assault and harassment in France’s belated #MeToo reckoning. 
  <p class="updated_time"> 05:55 PM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-seizes-greek-tankers.html">Iran Seizes Two Greek Tankers in Persian Gulf</a> NYT: The ships were taken in retaliation for Greece last month impounding, at the request of the United States, an Iranian oil tanker, according to Iranian news reports. 
- <p class="updated_time"> 04:42 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/world/europe/margot-heuman-dead.html">Margot Heuman, Who Bore Witness to the Holocaust as a Gay Woman, Dies at 94</a> NYT: She was a rare survivor who spoke — in recent years — of her same-sex relationship in the concentration camps, and how it sustained her. 
 
 
 </details>
@@ -198,10 +196,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:47 PM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/us/politics/senate-guns-democracy.html">Gun Talks Put Senate’s Tattered Credibility on the Line</a> NYT: After a string of Democratic failures on marquee issues, Senator Chuck Schumer’s decision to give bipartisan gun talks time is a test of the Senate — and of democracy itself. 
  <p class="updated_time"> 04:32 PM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102070637/the-race-for-mayor-is-heating-up-in-los-angeles">The race for mayor is heating up in Los Angeles</a> NPR: NPR's Ailsa Chang talks with Fernando Guerra, director of Loyola Marymount's  Center for the Study of Los Angeles, about the heated mayoral race in LA and frontrunners Rep. Karen Bass and Rick Caruso. 
- <p class="updated_time"> 04:17 PM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/30/us/politics/senate-guns-democracy.html">Gun Talks Put Senate’s Tattered Credibility on the Line</a> NYT: After a string of Democratic failures on marquee issues, Senator Chuck Schumer’s decision to give bipartisan gun talks time is a test of the Senate — and of democracy itself. 
  <p class="updated_time"> 03:34 PM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1099221143/what-this-moment-before-midterms-means-for-the-biden-administrations-climate-goa">What this moment before midterms means for the Biden administration's climate goals</a> NPR: Democrats fear time is running out to pass climate legislation before the midterm elections. Meanwhile, Democratic Sen. Joe Manchin of West Virginia is holding talks... with Republicans. 
  <p class="updated_time"> 02:51 PM CT, May. 30 </p> 
