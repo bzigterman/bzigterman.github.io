@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:48 PM CT, May. 30 </p> 
+ <a href="https://www.npr.org/2022/05/30/1102083611/eu-agree-partial-russian-oil-embargo">EU leaders agree on a partial Russian oil embargo</a> NPR: The watered-down embargo covers only Russian oil brought in by sea, allowing a temporary exemption for imports delivered by pipeline. 
  <p class="updated_time"> 05:40 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/05/30/world/russia-ukraine-war">Ukraine Live Updates: After Months of Debate, European Leaders Agree to Ban Most Russian Oil Imports</a> NYT: A draft of the agreement allows pipeline imports, in a nod to Hungary’s complaints. Even still, it would be the toughest action yet over Russia’s invasion of Ukraine. 
  <p class="updated_time"> 05:31 PM CT, May. 30 </p> 
@@ -21,7 +23,7 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Hurricane Agatha Is Set to Hit Southern Mexico Today</a> NYT: With sustained winds of up to 110 miles per hour, Agatha, the first named storm in the eastern Pacific this year, was threatening the Mexican state of Oaxaca on Monday, forecasters said. 
  <p class="updated_time"> 04:59 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/americas/hurricane-mexico-agatha-forecast.html">Hurricane Agatha Makes Landfall in Southern Mexico</a> NYT: The storm was the first Category 2 to ever make landfall in the eastern Pacific, and threatened to bring floods and mudslides to the state of Oaxaca. 
- <p class="updated_time"> 04:46 PM CT, May. 30 </p> 
+ <p class="updated_time"> 04:58 PM CT, May. 30 </p> 
  <a href="https://www.wsj.com/articles/eu-leaders-spar-over-russian-oil-ban-11653921289">EU Leaders Spar Over Russian-Oil Ban</a> WSJ: EU Leaders Spar Over Russian-Oil Ban 
  <p class="updated_time"> 04:44 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Colombia a segunda vuelta: un candidato de izquierda y un populista de derecha se enfrentarán en junio</a> NYT: Dos candidatos antisistema, Gustavo Petro, de izquierda, y Rodolfo Hernández, de derecha, alcanzaron los dos primeros lugares en las elecciones presidenciales del domingo. 
@@ -33,23 +35,23 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/30/1102070086/encore-cuba-hopes-if-it-builds-hotels-tourists-will-come-after-long-covid-shutdo">Encore: Cuba hopes if it builds hotels, tourists will come, after long COVID shutdown</a> NPR: Tourists — one of the mainstays of the Cuban economy — are returning, but the recovery is slow and some say mismanaged. 
  <p class="updated_time"> 04:24 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/canada/canada-gun-buyback.html">Canada Aims to Force Owners of ‘Military-Style Assault Weapons’ to Turn Them In</a> NYT: Seizing on the spate of mass shootings in the United States, Prime Minister Trudeau proposes tightening the country’s already stringent control of firearms. 
+ <p class="updated_time"> 03:58 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
  <p class="updated_time"> 03:57 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61632802?at_medium=RSS&at_campaign=KARANGA">Samuel Kanu: Kidnapped Nigerian Methodist Church leader freed</a> BBC: Samuel Kanu was kidnapped in the south-east where separatists have been agitating for a breakaway state. 
- <p class="updated_time"> 03:46 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
  <p class="updated_time"> 03:13 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/canada-military-sexual-misconduct.html">Canada’s Military, Where Sexual Misconduct Went to the Top, Looks for a New Path</a> NYT: A report by a former Supreme Court justice released Monday offers recommendations to turn around pervasive sexual assault and harassment. 
- <p class="updated_time"> 02:46 PM CT, May. 30 </p> 
+ <p class="updated_time"> 02:58 PM CT, May. 30 </p> 
  <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
  <p class="updated_time"> 02:15 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/mona-lisa-pastry-louvre.html">Man Throws Pastry at Mona Lisa, Smearing Cream on Glass Case</a> NYT: The painting was not harmed and the man, who officials said was in a wheelchair and had faked a disability to get close to it, was taken into custody. 
  <p class="updated_time"> 02:00 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61630201?at_medium=RSS&at_campaign=KARANGA">Champions League final: France blames 'massive' ticket fraud as policing row rages</a> BBC: Chaotic scenes outside Saturday's Champions League final saw Liverpool fans pepper sprayed by police. 
- <p class="updated_time"> 01:46 PM CT, May. 30 </p> 
+ <p class="updated_time"> 01:58 PM CT, May. 30 </p> 
  <a href="https://www.wsj.com/articles/iran-hasnt-provided-credible-explanations-for-nuclear-material-u-n-agency-says-11653923148">U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon</a> WSJ: U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon 
  <p class="updated_time"> 01:08 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ucl-game-delay-france.html">Under Fire for Chaos at Soccer Final, France Rejects Blame for Failures</a> NYT: Tear gas and delays marred the Champions League final in Paris on Saturday, raising questions over France’s ability to host large-scale sporting events like the 2024 Summer Olympics. 
- <p class="updated_time"> 12:46 PM CT, May. 30 </p> 
+ <p class="updated_time"> 12:58 PM CT, May. 30 </p> 
  <a href="https://www.wsj.com/articles/china-and-the-u-s-are-arranging-an-in-person-meeting-between-heads-of-defense-11653914442">China, U.S. Are Arranging In-Person Meeting Between Heads of Defense</a> WSJ: China, U.S. Are Arranging In-Person Meeting Between Heads of Defense 
  <p class="updated_time"> 12:25 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61638049?at_medium=RSS&at_campaign=KARANGA">Frédéric Leclerc-Imhoff: French BFMTV journalist killed in Ukraine</a> BBC: Frédéric Leclerc-Imhoff was covering an evacuation operation near Severodonetsk when he was killed. 
@@ -163,8 +165,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/29/1101971227/unrest-erupts-at-jerusalem-site-ahead-of-nationalist-march">Unrest erupts at Jerusalem site ahead of nationalist march</a> NPR: Jewish pilgrims visited early Sunday ahead of a nationalist parade through the Old City, prompting Palestinians to throw rocks and fireworks. 
  <p class="updated_time"> 04:21 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1101970436/champions-league-final-marred-by-delays-and-use-of-tear-gas-on-fans">Champions League final marred by delays and use of tear gas on fans</a> NPR: The soccer Champions League final in Paris was marred as Liverpool fans were sprayed with tear gas as they tried to enter the stadium, delaying the start of the match by 35 minutes. 
- <p class="updated_time"> 03:22 AM CT, May. 29 </p> 
- <a href="https://www.npr.org/2022/05/29/1101969720/un-human-rights-chief-asks-china-to-rethink-uyghur-policies">U.N. human rights chief asks China to rethink Uyghur policies</a> NPR: The top U.N. human rights official said Saturday that she raised concerns with Chinese officials about the impact of measures on the rights of Uyghurs in China's Xinjiang region. 
  <p class="updated_time"> 03:12 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-61622874?at_medium=RSS&at_campaign=KARANGA">Liverpool v Real Madrid: Riot police clash with football fans in Madrid</a> BBC: Baton-wielding riot police ran into crowds after glass bottles were thrown at them in the Spanish capital. 
  <p class="updated_time"> 02:00 AM CT, May. 29 </p> 
@@ -189,8 +189,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/28/world/canada/gun-laws-canada.html">What Canada Doesn’t Know About Its Guns</a> NYT: New record-keeping requirements for nonrestricted firearms began this month, but the origins of Canada’s so-called crime guns are largely unknown. 
  <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/france-metoo-patrick-poivre-darvor.html">The Fall of the ‘Sun King’ of French TV, and the Myth of Seduction</a> NYT: Patrick Poivre d’Arvor, known as a great seducer, has been accused by more than 20 women of rape, sexual assault and harassment in France’s belated #MeToo reckoning. 
- <p class="updated_time"> 05:55 PM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/world/middleeast/iran-seizes-greek-tankers.html">Iran Seizes Two Greek Tankers in Persian Gulf</a> NYT: The ships were taken in retaliation for Greece last month impounding, at the request of the United States, an Iranian oil tanker, according to Iranian news reports. 
 
 
 </details>
