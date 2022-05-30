@@ -9,48 +9,48 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:42 AM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">What Happened on Day 95 of the War in Ukraine</a> NYT: As his military announced a counteroffensive around the southern port city of Kherson, President Volodymyr Zelensky made a rare visit to frontline positions. European leaders are gathering in Brussels on Monday for a two-day summit on Ukraine. 
+ <p class="updated_time"> 09:42 AM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/world/colombia-election-results">In Colombia, a Leftist and a Right-Wing Populist Move on to June Runoff</a> NYT: Two anti-establishment candidates, Gustavo Petro, a leftist, and Rodolfo Hernández, a right-wing businessman and former mayor, captured the top two spots in Sunday’s presidential election. 
+ <p class="updated_time"> 09:42 AM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Colombia a segunda vuelta: un candidato de izquierda y un populista de derecha se enfrentarán en junio</a> NYT: Dos candidatos antisistema, Gustavo Petro, de izquierda, y Rodolfo Hernández, de derecha, alcanzaron los dos primeros lugares en las elecciones presidenciales del domingo. 
+ <p class="updated_time"> 09:35 AM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/world/asia/nepal-plane-crash.html">Nepal Plane Crash: At Least 14 Bodies Are Recovered</a> NYT: The plane went down in bad weather on Sunday while carrying passengers to Jomsom, a tourist destination popular with trekkers. 
  <p class="updated_time"> 09:19 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61627316?at_medium=RSS&at_campaign=KARANGA">Ukraine may soon get US long-range MLRS rocket system</a> BBC: The US looks set to send the weaponry, but Russia warns it would be a provocative escalation. 
  <p class="updated_time"> 09:16 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/canada-military-sexual-misconduct.html">Canada’s Military, Where Sexual Misconduct Went to the Top, Looks for a New Path</a> NYT: A report by a former Supreme Court justice due out Monday will offer recommendations to turn around pervasive sexual assault and harassment. 
  <p class="updated_time"> 09:16 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/eu-summit-ukraine-enlargement-accession-talks-nato.html">As Ukraine Fights, Does the E.U. Owe It Membership?</a> NYT: Brussels supports Kyiv’s battle against Russia, but gaining full membership to the bloc could take years. Is there another way to bind Ukraine, Moldova and Georgia to Europe? 
- <p class="updated_time"> 08:54 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/30/world/asia/nepal-plane-crash.html">Nepal Plane Crash: At Least 14 Bodies Are Recovered</a> NYT: The plane went down in bad weather on Sunday while carrying passengers to Jomsom, a tourist destination popular with trekkers. 
+ <p class="updated_time"> 08:55 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
  <p class="updated_time"> 08:52 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Hurricane Agatha Is Set to Hit Southern Mexico Today</a> NYT: With sustained winds of up to 110 miles per hour, Agatha, the first named storm in the eastern Pacific this year, was threatening the Mexican state of Oaxaca on Monday, forecasters said. 
  <p class="updated_time"> 08:37 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61634598?at_medium=RSS&at_campaign=KARANGA">Sick killer whale 'found dead in France'</a> BBC: Experts had tried to guide the four-metre orca back to the sea after it swam up the River Seine. 
  <p class="updated_time"> 08:37 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61630201?at_medium=RSS&at_campaign=KARANGA">Champions League final: France blames 'massive' ticket fraud as policing row rages</a> BBC: Chaotic scenes outside Saturday's Champions League final saw Liverpool fans pepper sprayed by police. 
- <p class="updated_time"> 08:26 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
- <p class="updated_time"> 08:13 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Colombia a segunda vuelta: un candidato de izquierda y un populista de derecha se enfrentarán en junio</a> NYT: Dos candidatos antisistema, Gustavo Petro, de izquierda, y Rodolfo Hernández, de derecha, alcanzaron los dos primeros lugares en las elecciones presidenciales del domingo. 
  <p class="updated_time"> 08:00 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61628473?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian Foreign Minister Lavrov denies Putin illness</a> BBC: Sergei Lavrov says the Russian president appears in public daily and no sane person would think him ill. 
+ <p class="updated_time"> 07:55 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
  <p class="updated_time"> 07:46 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ukraine-russia-chernihiv.html">A Russian Plane Crashed Into a House. Death Was Parceled Out Randomly.</a> NYT: Some fortuitous timing in doing chores saved a family that lived in the Ukrainian city of Chernihiv. A few blocks away, things turned out very differently. 
  <p class="updated_time"> 07:30 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/melitopol-explosion.html">Explosion Hits Russian-Occupied Melitopol </a> NYT: Pro-Kremlin authorities in the city blamed Ukrainian partisans for the blast, which they said had injured two people. 
- <p class="updated_time"> 07:26 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
  <p class="updated_time"> 07:09 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61629133?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: The murdered Indian rapper who 'made sense of chaos'</a> BBC: Sidhu Moose Wala won millions of fans but also upset some with his fascination for guns. 
- <p class="updated_time"> 06:26 AM CT, May. 30 </p> 
+ <p class="updated_time"> 06:55 AM CT, May. 30 </p> 
  <a href="https://www.wsj.com/articles/europe-wants-to-kick-russian-energy-local-opposition-may-get-in-the-way-11653906781">Europe’s Bid to Kick Russian Natural Gas Runs Into Opposition</a> WSJ: Europe’s Bid to Kick Russian Natural Gas Runs Into Opposition 
- <p class="updated_time"> 06:24 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">What Happened on Day 95 of the War in Ukraine</a> NYT: As his military announced a counteroffensive around the southern port city of Kherson, President Volodymyr Zelensky made a rare visit to frontline positions. European leaders are gathering in Brussels on Monday for a two-day summit on Ukraine. 
- <p class="updated_time"> 06:24 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/world/colombia-election-results">In Colombia, a Leftist and a Right-Wing Populist Move on to June Runoff</a> NYT: Two anti-establishment candidates, Gustavo Petro, a leftist, and Rodolfo Hernández, a right-wing businessman and former mayor, captured the top two spots in Sunday’s presidential election. 
+ <p class="updated_time"> 05:55 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/video/headline/AA53DDDC-23BC-4C1F-AD07-198A591C755A.html">Returning to Kyiv: The Challenges Ukrainians Face Going Back Home</a> WSJ: Returning to Kyiv: The Challenges Ukrainians Face Going Back Home 
  <p class="updated_time"> 05:38 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61632802?at_medium=RSS&at_campaign=KARANGA">Samuel Kanu: Nigeria's Methodist Church leader kidnapped</a> BBC: Samuel Kanu was taken in the south-east where separatists have been agitating for a breakaway state. 
- <p class="updated_time"> 05:26 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/video/headline/AA53DDDC-23BC-4C1F-AD07-198A591C755A.html">Returning to Kyiv: The Challenges Ukrainians Face Going Back Home</a> WSJ: Returning to Kyiv: The Challenges Ukrainians Face Going Back Home 
+ <p class="updated_time"> 04:55 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/chinas-push-for-agreement-with-pacific-island-nations-stalls-11653907860">China’s Push for Agreement With Pacific Island Nations Stalls</a> WSJ: China’s Push for Agreement With Pacific Island Nations Stalls 
  <p class="updated_time"> 04:39 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102031476/number-of-seized-drugs-reaches-record-in-asia">1 billion pills: The number of seized drugs reaches ominous record in Asia</a> NPR: A U.N. official calls for new policies across East Asia to halt the soaring production of methamphetamines. 
- <p class="updated_time"> 04:26 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/chinas-push-for-agreement-with-pacific-island-nations-stalls-11653907860">China’s Push for Agreement With Pacific Island Nations Stalls</a> WSJ: China’s Push for Agreement With Pacific Island Nations Stalls 
  <p class="updated_time"> 04:07 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61629130?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: Murder of popular Indian singer sparks anger</a> BBC: Sidhu Moose Wala, 28, was shot dead a day after the Punjab state government scaled back his security cover. 
  <p class="updated_time"> 04:05 AM CT, May. 30 </p> 
@@ -195,8 +195,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/27/world/asia/india-prostitution-rights.html">India’s Supreme Court Orders Police to Respect Prostitutes’ Rights</a> NYT: Though sex work is legal in the country, those who practice it often endure harassment and abuse. The justices urged the authorities to employ a more nuanced and humane approach. 
  <p class="updated_time"> 10:03 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/world/europe/ukraine-mine-detection.html">Displaced Ukrainians Learn to Detect Mines.</a> NYT: Courses in western Ukraine, meant for volunteer defenders, are now open to Ukrainian civilians whose villages have been blighted by war. 
- <p class="updated_time"> 09:51 AM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/27/world/asia/pakistan-fuel-price-crisis.html">Pakistan Raises Fuel Prices in Effort to Stabilize Economy</a> NYT: The interim government’s move was seen as a bid to revive a $6 billion bailout from the International Monetary Fund. 
 
 
 </details>
@@ -204,7 +202,7 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:19 AM CT, May. 30 </p> 
+ <p class="updated_time"> 09:48 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/politics/veterans-small-business.html">They Served. Now, Inspired by What They Saw, They Sell.</a> NYT: Some veterans have started businesses that draw from their experiences in Iraq and Afghanistan, and thrived. 
  <p class="updated_time"> 08:58 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/29/us/politics/nancy-pelosi-husband-paul-arrested.html">Pelosi’s Husband Faces Drunken Driving Charge in California</a> NYT: House Speaker Nancy Pelosi was not with her husband, Paul, when he was arrested in Napa County on Saturday, a spokesman said. 
@@ -276,6 +274,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/28/1101955081/at-nra-convention-in-houston-politicians-deflect-blame">At NRA convention in Houston, politicians deflect blame</a> NPR: In Texas, the National Rifle Association meets in Houston as families in Uvalde are mourning children slain in a massacre earlier this week. 
  <p class="updated_time"> 01:32 PM CT, May. 28 </p> 
  <a href="https://www.npr.org/2022/05/28/1101931160/baby-formula-shortage-overseas-shipments">More baby formula shipments arrive from overseas in an effort to ease the shortage</a> NPR: Australia is sending the equivalent of more than 27 million 8-ounce bottles of goat's milk and other baby formulas, as the U.S. government works to replenish store shelves during the shortage. 
+ <p class="updated_time"> 10:58 AM CT, May. 28 </p> 
+ <a href="https://www.cnn.com/2022/05/28/politics/fact-check-false-viral-tweets-texas-shooting-abbott-cruz/index.html">Fact check: Debunking false viral tweets about Abbott and Cruz after Texas mass shooting </a> CNN: In the wake of the Tuesday mass shooting at an elementary school in Texas, Twitter users went viral by making false claims about two of the state's most prominent politicians: Gov. Greg Abbott and Sen. Ted Cruz, both Republicans. 
  <p class="updated_time"> 09:16 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/us/politics/russia-syria-aid-refugees.html">Diplomats Fear Russia May Use Syrian Aid as Bargaining Chip in Ukraine</a> NYT: Countries in Europe and the Middle East could see a new surge in refugees if Russia shuts down the last humanitarian convoy route into Syria. 
  <p class="updated_time"> 09:04 AM CT, May. 28 </p> 
@@ -330,8 +330,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/27/judge-dismisses-trump-new-york-lawsuit-00035707">Judge dismisses Trump’s lawsuit seeking to stop New York civil probe</a> Politico: The U.S. District Court judge granted Tish James’ motion to dismiss Donald Trump’s complaint, allowing the probe of his business practices to continue. 
  <p class="updated_time"> 10:45 AM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/dr-oz-gop-nominee-00035694">Dr. Oz jumps the gun, declares himself ‘presumptive’ GOP Senate nominee</a> Politico: Pennsylvania election officials confirm that there are roughly 1,200 Republican mail-in ballots left to be adjudicated, in addition to 4,000 outstanding provisional ballots from all parties. 
- <p class="updated_time"> 09:52 AM CT, May. 27 </p> 
- <a href="https://www.politico.com/news/2022/05/27/prosecution-clinton-campaign-attorney-00035682">Prosecution: 'Overwhelming' evidence of guilt for Clinton campaign attorney</a> Politico: Jury began deliberations Friday in false-statement case against lawyer Michael Sussmann 
 
 
 </details>
