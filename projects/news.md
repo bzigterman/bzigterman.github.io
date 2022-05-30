@@ -9,20 +9,22 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:02 PM CT, May. 30 </p> 
+ <a href="https://www.npr.org/2022/05/30/1102044111/man-throws-cake-at-mona-lisa-the-louvre">A man in a wig was detained after throwing a piece of cake at the Mona Lisa</a> NPR: A man who was apparently disguised as an old woman in a wheelchair was detained after throwing a piece of cake at the Mona Lisa. 
+ <p class="updated_time"> 11:59 AM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/world/europe/french-journalist-killed-ukraine.html">French Journalist Killed by Shrapnel in Eastern Ukraine</a> NYT: “The newsroom is in mourning,” said a manager at the TV channel where the 32-year-old journalist worked. 
  <p class="updated_time"> 11:37 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/mona-lisa-pastry-louvre.html">Man Throws Pastry at Mona Lisa, Smearing Cream on Glass Case</a> NYT: The painting was not harmed and the man, who officials said was in a wheelchair and had faked a disability to get close to it, was taken into custody. 
  <p class="updated_time"> 11:36 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61630201?at_medium=RSS&at_campaign=KARANGA">Champions League final: France blames 'massive' ticket fraud as policing row rages</a> BBC: Chaotic scenes outside Saturday's Champions League final saw Liverpool fans pepper sprayed by police. 
- <p class="updated_time"> 11:32 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/30/world/europe/french-journalist-killed-ukraine.html">French Journalist Killed by Shrapnel in Eastern Ukraine</a> NYT: “The newsroom is in mourning,” said a manager at the TV channel where the 32-year-old journalist worked. 
  <p class="updated_time"> 11:27 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61626912?at_medium=RSS&at_campaign=KARANGA">Death toll rises after Brazil landslides</a> BBC: Rescue efforts continue in the state of Pernambuco, with at least 79 people know to have died. 
+ <p class="updated_time"> 11:08 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
  <p class="updated_time"> 10:53 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61632802?at_medium=RSS&at_campaign=KARANGA">Samuel Kanu: Nigeria's Methodist Church leader kidnapped</a> BBC: Samuel Kanu was taken in the south-east where separatists have been agitating for a breakaway state. 
  <p class="updated_time"> 10:47 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Colombia a segunda vuelta: un candidato de izquierda y un populista de derecha se enfrentarán en junio</a> NYT: Dos candidatos antisistema, Gustavo Petro, de izquierda, y Rodolfo Hernández, de derecha, alcanzaron los dos primeros lugares en las elecciones presidenciales del domingo. 
- <p class="updated_time"> 10:43 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
  <p class="updated_time"> 10:42 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/world/colombia-election-results">In Colombia, a Leftist and a Right-Wing Populist Move on to June Runoff</a> NYT: Two anti-establishment candidates, Gustavo Petro, a leftist, and Rodolfo Hernández, a right-wing businessman and former mayor, captured the top two spots in Sunday’s presidential election. 
  <p class="updated_time"> 10:38 AM CT, May. 30 </p> 
@@ -31,10 +33,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Hurricane Agatha Is Set to Hit Southern Mexico Today</a> NYT: With sustained winds of up to 110 miles per hour, Agatha, the first named storm in the eastern Pacific this year, was threatening the Mexican state of Oaxaca on Monday, forecasters said. 
  <p class="updated_time"> 10:08 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ukraine-russia-chernihiv.html">A Russian Plane Crashed Into a House. Death Was Parceled Out Randomly.</a> NYT: Some fortuitous timing in doing chores saved a family that lived in the Ukrainian city of Chernihiv. A few blocks away, things turned out very differently. 
+ <p class="updated_time"> 10:08 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
  <p class="updated_time"> 09:57 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/philippines-duterte-victims.html">A Cafe in Philippines is Devoted to Duterte’s Drug War Victims</a> NYT: Served along with the lattes are personal stories from the staff, who are relatives of those who died in some of the thousands of extrajudicial killings in the Philippines. 
- <p class="updated_time"> 09:43 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
  <p class="updated_time"> 09:42 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">What Happened on Day 95 of the War in Ukraine</a> NYT: As his military announced a counteroffensive around the southern port city of Kherson, President Volodymyr Zelensky made a rare visit to frontline positions. European leaders are gathering in Brussels on Monday for a two-day summit on Ukraine. 
  <p class="updated_time"> 09:35 AM CT, May. 30 </p> 
@@ -45,16 +47,16 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/canada-military-sexual-misconduct.html">Canada’s Military, Where Sexual Misconduct Went to the Top, Looks for a New Path</a> NYT: A report by a former Supreme Court justice due out Monday will offer recommendations to turn around pervasive sexual assault and harassment. 
  <p class="updated_time"> 09:16 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/eu-summit-ukraine-enlargement-accession-talks-nato.html">As Ukraine Fights, Does the E.U. Owe It Membership?</a> NYT: Brussels supports Kyiv’s battle against Russia, but gaining full membership to the bloc could take years. Is there another way to bind Ukraine, Moldova and Georgia to Europe? 
- <p class="updated_time"> 08:43 AM CT, May. 30 </p> 
+ <p class="updated_time"> 09:08 AM CT, May. 30 </p> 
  <a href="https://www.wsj.com/articles/europe-wants-to-kick-russian-energy-local-opposition-may-get-in-the-way-11653906781">Europe’s Bid to Kick Russian Natural Gas Runs Into Opposition</a> WSJ: Europe’s Bid to Kick Russian Natural Gas Runs Into Opposition 
  <p class="updated_time"> 08:37 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61634598?at_medium=RSS&at_campaign=KARANGA">Sick killer whale 'found dead in France'</a> BBC: Experts had tried to guide the four-metre orca back to the sea after it swam up the River Seine. 
+ <p class="updated_time"> 08:08 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/video/headline/AA53DDDC-23BC-4C1F-AD07-198A591C755A.html">Returning to Kyiv: The Challenges Ukrainians Face Going Back Home</a> WSJ: Returning to Kyiv: The Challenges Ukrainians Face Going Back Home 
  <p class="updated_time"> 08:00 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61628473?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian Foreign Minister Lavrov denies Putin illness</a> BBC: Sergei Lavrov says the Russian president appears in public daily and no sane person would think him ill. 
  <p class="updated_time"> 07:54 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61631964?at_medium=RSS&at_campaign=KARANGA">'TikTok King', 77, challenges ex-rebel for Colombia's top job</a> BBC: Rodolfo Hernández, a populist and savvy social media user, faces an ex-rebel in Colombia's run-off. 
- <p class="updated_time"> 07:43 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/video/headline/AA53DDDC-23BC-4C1F-AD07-198A591C755A.html">Returning to Kyiv: The Challenges Ukrainians Face Going Back Home</a> WSJ: Returning to Kyiv: The Challenges Ukrainians Face Going Back Home 
  <p class="updated_time"> 07:30 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/melitopol-explosion.html">Explosion Hits Russian-Occupied Melitopol </a> NYT: Pro-Kremlin authorities in the city blamed Ukrainian partisans for the blast, which they said had injured two people. 
  <p class="updated_time"> 07:26 AM CT, May. 30 </p> 
@@ -175,8 +177,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/28/obituaries/cardinal-angelo-sodano-dies.html">Cardinal Angelo Sodano, Vatican Power Broker Linked With Sex Abuse Cover-Ups, Dies at 94</a> NYT: He rose to the second-highest-ranking position in the Roman Catholic Church, but his reputation was stained by his handling of sex-abuse cases. 
  <p class="updated_time"> 09:16 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/us/politics/russia-syria-aid-refugees.html">Diplomats Fear Russia May Use Syrian Aid as Bargaining Chip in Ukraine</a> NYT: Countries in Europe and the Middle East could see a new surge in refugees if Russia shuts down the last humanitarian convoy route into Syria. 
- <p class="updated_time"> 07:01 AM CT, May. 28 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2022/05/28/1100469734/ethiopia-set-a-world-record-for-displacements-in-a-single-year-5-1-million-in-20">Ethiopia set a world record for displacements in a single year: 5.1 million in 2021</a> NPR: The war there is responsible — and makes it difficult just to assess the scale of displacement. Details are in a new report from the Internal Displacement Monitoring Centre. 
  <p class="updated_time"> 05:20 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/ukraine-orthodox-church-moscow.html">Ukrainian Orthodox Church Breaks With Moscow Over War</a> NYT: The Council of the Ukrainian Orthodox Church said that it disagreed with the Moscow Patriarch’s position on the war. 
  <p class="updated_time"> 05:00 AM CT, May. 28 </p> 
