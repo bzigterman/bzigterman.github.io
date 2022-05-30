@@ -9,50 +9,50 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:51 PM CT, May. 29 </p> 
+ <p class="updated_time"> 08:35 PM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Elecciones de Colombia en vivo: Petro y Hernández se dirigen a segunda vuelta en junio</a> NYT: El candidato de la izquierda Gustavo Petro y Rodolfo Hernández, un exempresario de derecha, se quedan con los dos primeros lugares en las elecciones presidenciales del domingo. Ambos presentaron plataformas de cambio. 
+ <p class="updated_time"> 08:20 PM CT, May. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-61584608?at_medium=RSS&at_campaign=KARANGA">Cost of living crisis: Relying on food handouts and moving country</a> BBC: People from Italy, Brazil, Ghana, Thailand and New Zealand discuss the impact of the cost of living crisis. 
+ <p class="updated_time"> 08:19 PM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/world/colombia-election-results">Colombia Live Updates: A Leftist and a Right-Wing Populist Head for June Runoff</a> NYT: Two anti-establishment candidates, Gustavo Petro, a leftist, and Rodolfo Hernández, a right-wing businessman and former mayor, captured the top two spots in Sunday’s presidential election. 
+ <p class="updated_time"> 08:05 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">Live Updates: Ukraine Strikes Back in Key City in South, as Zelensky Visits Eastern Front</a> NYT: As his military announced a counteroffensive around the southern port city of Kherson, President Volodymyr Zelensky made a rare visit to frontline positions. Russia is pushing to complete its occupation of the eastern Luhansk region. 
+ <p class="updated_time"> 07:42 PM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Agatha, Now a Hurricane, Heads to the Mexican Coast</a> NYT: The storm was packing winds of 110 miles per hour and threatened to unleash as much as 20 inches of rain in some parts of southern Mexico, forecasters said. 
+ <p class="updated_time"> 07:40 PM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640">A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians.</a> WSJ: A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians. 
+ <p class="updated_time"> 07:19 PM CT, May. 29 </p> 
+ <a href="https://www.nytimes.com/2022/05/29/world/asia/india-couple-grandchild-suing.html">Indian Couple Sue Their Son for Not Giving Them a Grandchild</a> NYT: A couple in India are demanding that their son and daughter-in-law have a child or pay them $650,000 in damages. “This is an Indian parent thing,” their lawyer said. 
  <p class="updated_time"> 06:51 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/russian-casualties-ukraine.html">Russia War Dead Tended by Ukrainian Soldiers</a> NYT: Ukrainians hope that if they safeguard Russia’s war dead, they will be more likely to get back their own. 
- <p class="updated_time"> 06:49 PM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Elecciones de Colombia en vivo: Petro y Hernández se dirigen a segunda vuelta en junio</a> NYT: El candidato de la izquierda Gustavo Petro y Rodolfo Hernández, un exempresario de derecha, se quedan con los dos primeros lugares en las elecciones presidenciales del domingo. Ambos presentaron plataformas de cambio. 
- <p class="updated_time"> 06:37 PM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/world/colombia-election-results">Colombia Live Updates: A Leftist and a Right-Wing Populist Head for June Runoff</a> NYT: Two anti-establishment candidates, Gustavo Petro, a leftist, and Rodolfo Hernández, a right-wing businessman and former mayor, captured the top two spots in Sunday’s presidential election. 
+ <p class="updated_time"> 06:40 PM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801">Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast</a> WSJ: Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast 
  <p class="updated_time"> 06:36 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/ukraine-russia-war-kherson.html">Ukraine Launches Counteroffensive on Russans in Kherson</a> NYT: “Hold on, Kherson, we’re coming!” the Ukrainian military declared as it pushed to retake territory in a key southern city. 
- <p class="updated_time"> 06:30 PM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/2022/05/29/world/asia/india-couple-grandchild-suing.html">Indian Couple Sues Their Son for Not Giving Them a Grandchild</a> NYT: A couple in India is demanding that their son and daughter-in-law have a child or pay them $650,000 in damages. “This is an Indian parent thing,” their lawyer said. 
  <p class="updated_time"> 06:27 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/61591054?at_medium=RSS&at_campaign=KARANGA">Kenya Elections 2022: Misinformation circulating online</a> BBC: Misleading images and manipulated videos are already being widely shared as campaigning begins. 
  <p class="updated_time"> 06:26 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61589491?at_medium=RSS&at_campaign=KARANGA">UCC: The coming storm over a single common law in India</a> BBC: The ruling BJP has resurrected its promise of a single personal law for all citizens, but it will not be easy. 
- <p class="updated_time"> 06:24 PM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-61584608?at_medium=RSS&at_campaign=KARANGA">Cost of living crisis: Relying on food handouts and moving country</a> BBC: People from Italy, Brazil, Ghana, Thailand and New Zealand discuss the impact of the cost of living crisis. 
  <p class="updated_time"> 06:14 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61023659?at_medium=RSS&at_campaign=KARANGA">The Senegalese pop star who dared to sing about rape</a> BBC: After rape in Senegal was finally made a serious crime, a pop star dared to tell her own story. 
  <p class="updated_time"> 06:06 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61628473?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russia says 'liberation' of Donbas its key priority</a> BBC: Foreign Minister Sergei Lavrov defends the ongoing invasion of Ukraine in a French TV interview. 
  <p class="updated_time"> 06:04 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61609559?at_medium=RSS&at_campaign=KARANGA">The dangerous world of illegal mining in South Africa</a> BBC: BBC Africa Eye meets the migrants who risk everything to go deep underground in South Africa’s abandoned gold mines. 
- <p class="updated_time"> 05:58 PM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640">A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians.</a> WSJ: A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians. 
- <p class="updated_time"> 04:58 PM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801">Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast</a> WSJ: Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast 
+ <p class="updated_time"> 05:40 PM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/chinas-lockdowns-prompt-a-rethinking-of-life-plans-among-the-young-11653822000">China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young</a> WSJ: China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young 
  <p class="updated_time"> 04:49 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/61619569?at_medium=RSS&at_campaign=KARANGA">French Open: Rafael Nadal wins to set up Novak Djokovic quarter-final in Paris</a> BBC: Rafael Nadal will play long-time rival Novak Djokovic in the French Open quarter-finals after winning an absorbing five-set battle with Canada's Felix Auger-Aliassime. 
  <p class="updated_time"> 04:48 PM CT, May. 29 </p> 
- <a href="https://www.npr.org/2022/05/29/1102015379/the-french-fight-to-restrict-the-use-of-english-in-quebec">The French fight to restrict the use of English in Quebec</a> NPR: "Non!" to the further imposition of French in Quebec — how the fight over French has incensed many of the English-speaking minority in this Canadian province. 
+ <a href="https://www.npr.org/2022/05/29/1102015379/the-french-fight-to-restrict-the-use-of-english-in-quebec">The Quebec nationalist fight to restrict the use of English in Quebec</a> NPR: "Non!" to the further imposition of French in Quebec — how the fight over French has incensed many of the English-speaking minority in this Canadian province. 
+ <p class="updated_time"> 04:40 PM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/colombians-vote-in-election-that-could-see-ex-leftist-rebel-win-presidency-11653832656">Colombia Presidential Election: Leftist Ex-Rebel Wins First Round</a> WSJ: Colombia Presidential Election: Leftist Ex-Rebel Wins First Round 
  <p class="updated_time"> 04:22 PM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1102002788/ukraine-russia-summit-germany-france-putin-zelenskyy">Ahead of this week's EU summit, France and Germany urge Putin to meet Zelenskyy</a> NPR: The EU will meet Monday to discuss how to handle the ongoing conflict as Russia intensifies its efforts to capture Severodonetsk, the largest eastern city that remains in Ukrainian hands. 
- <p class="updated_time"> 04:18 PM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Agatha, Now a Hurricane, Heads to the Mexican Coast</a> NYT: Storm surges and potentially fatal floods and mudslides threaten to lash a wide area of the southwestern Mexican coast, forecasters said. 
- <p class="updated_time"> 03:58 PM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/chinas-lockdowns-prompt-a-rethinking-of-life-plans-among-the-young-11653822000">China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young</a> WSJ: China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young 
+ <p class="updated_time"> 03:40 PM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/jerusalem-braces-for-violence-ahead-of-jewish-nationalist-march-11653827529">Israel’s Jerusalem Day March Sparks Tension</a> WSJ: Israel’s Jerusalem Day March Sparks Tension 
  <p class="updated_time"> 03:36 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61611304?at_medium=RSS&at_campaign=KARANGA">Jerusalem Flag March: Israeli nationalists stream through Muslim Quarter</a> BBC: Thousands of flag-waving youth dance and sing in a Muslim district in the face of Palestinian anger. 
- <p class="updated_time"> 02:58 PM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/colombians-vote-in-election-that-could-see-ex-leftist-rebel-win-presidency-11653832656">Colombians Vote in Election That Could See Ex-Leftist Rebel Win</a> WSJ: Colombians Vote in Election That Could See Ex-Leftist Rebel Win 
- <p class="updated_time"> 01:58 PM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/jerusalem-braces-for-violence-ahead-of-jewish-nationalist-march-11653827529">Israel’s Jerusalem Day March Sparks Tension</a> WSJ: Israel’s Jerusalem Day March Sparks Tension 
  <p class="updated_time"> 01:47 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61626912?at_medium=RSS&at_campaign=KARANGA">Brazil: Landslides and floods kill dozens in Recife region</a> BBC: Landslides caused by heavy rains kill at least 44 people in the region of Recife in Brazil. 
  <p class="updated_time"> 01:44 PM CT, May. 29 </p> 
@@ -200,6 +200,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:36 PM CT, May. 29 </p> 
+ <a href="https://www.politico.com/news/2022/05/29/house-jan6-panel-republican-appeal-00035870">Select committee drops bid to obtain RNC records in time for public hearings</a> Politico: At issue are some Republican National Committee records held by a third-party vendor. 
  <p class="updated_time"> 05:19 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/us/politics/nancy-pelosi-husband-paul-arrested.html">Pelosi’s Husband Faces Drunken Driving Charge in California</a> NYT: House Speaker Nancy Pelosi was not with her husband, Paul, when he was arrested in Napa County on Saturday, a spokesman said. 
  <p class="updated_time"> 05:07 PM CT, May. 29 </p> 
@@ -259,9 +261,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 09:04 AM CT, May. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/28/the-conspiracy-theory-convention-00035846"> The conspiracy theory convention</a> Politico Playbook: And the Georgia Trump investigation heats up. 
  <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
- <a href="https://www.politico.com/news/2022/05/28/gas-prices-rising-electric-cars-00035425">Gas prices are rising. So where are the electric cars?</a> Politico: Democrats see electric vehicles as an answer to climate change, and high fuel costs mean more Americans are interested. But inflation and a shortage of new cars are making that transition painful. 
- <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
  <a href="https://www.politico.com/news/2022/05/28/high-flying-stefanik-scorched-by-allies-whisper-campaign-against-a-rival-00035839">Trump Jr. allies issue warning to Stefanik camp: Don’t go after Tucker’s kid</a> Politico: She faces plenty of future GOP leadership competitors, including Rep. Jim Banks. And her camp got burned after allegedly raising Banks aide Buckley Carlson. 
+ <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
+ <a href="https://www.politico.com/news/2022/05/28/gas-prices-rising-electric-cars-00035425">Gas prices are rising. So where are the electric cars?</a> Politico: Democrats see electric vehicles as an answer to climate change, and high fuel costs mean more Americans are interested. But inflation and a shortage of new cars are making that transition painful. 
  <p class="updated_time"> 04:01 AM CT, May. 28 </p> 
  <a href="https://www.npr.org/2022/05/28/1101814449/as-a-jury-weighs-if-a-lawyer-lied-to-the-fbi-durhams-legacy-hangs-in-the-balance">As a jury weighs if a lawyer lied to the FBI, Durham's legacy hangs in the balance</a> NPR: Michael Sussmann faces one charge of lying to the FBI ahead of the 2016 presidential election. It's the first courtroom test for special counsel John Durham, appointed by the Trump administration. 
  <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
@@ -334,8 +336,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/26/us/politics/zelensky-ukraine-war.html">How Does It End? Fissures Emerge Over What Constitutes Victory in Ukraine</a> NYT: Differing objectives foreshadow a coming debate about what position President Volodymyr Zelensky of Ukraine and his Western allies would take if negotiations to end the conflict finally get going. 
  <p class="updated_time"> 09:03 PM CT, May. 26 </p> 
  <a href="https://www.politico.com/news/2022/05/26/eastman-said-dueling-electors-were-dead-on-arrival-without-state-legislature-backing-00035634">Eastman said dueling electors were ‘dead on arrival’ without state legislature backing</a> Politico: Yet the Trump attorney pressed Pence to consider them anyway, new emails reveal. 
- <p class="updated_time"> 07:31 PM CT, May. 26 </p> 
- <a href="https://www.nytimes.com/2022/05/26/us/politics/senate-guns-bipartisan-deal.html">Senators Grasp for a Bipartisan Gun Deal, Facing Long Odds</a> NYT: A group of Republicans and Democrats have begun an urgent set of talks aimed at reaching an elusive compromise on new gun laws. After a decade of failure, can this time be different? 
 
 
 </details>
