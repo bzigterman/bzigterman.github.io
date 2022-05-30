@@ -9,9 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:38 AM CT, May. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-61632802?at_medium=RSS&at_campaign=KARANGA">Samuel Kanu: Nigeria's Methodist Church leader kidnapped</a> BBC: Samuel Kanu was taken in the south-east where separatists have been agitating for a breakaway state. 
  <p class="updated_time"> 05:13 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61627316?at_medium=RSS&at_campaign=KARANGA">Ukraine may soon get US long-range MLRS rocket system</a> BBC: The US looks set to send the weaponry, but Russia warns it would be a provocative escalation. 
- <p class="updated_time"> 04:41 AM CT, May. 30 </p> 
+ <p class="updated_time"> 04:54 AM CT, May. 30 </p> 
  <a href="https://www.wsj.com/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640">A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians.</a> WSJ: A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians. 
  <p class="updated_time"> 04:41 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">What Happened on Day 95 of the War in Ukraine</a> NYT: As his military announced a counteroffensive around the southern port city of Kherson, President Volodymyr Zelensky made a rare visit to frontline positions. European leaders are gathering in Brussels on Monday for a two-day summit on Ukraine. 
@@ -35,6 +37,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/travel/sicily-regional-trains.html">Circling Sicily on Its Regional Trains</a> NYT: A Dutch photographer, documenting the culture of regional train travel, managed to get around the Italian island for less than $100. Here’s what she saw. 
  <p class="updated_time"> 04:00 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/canada-military-sexual-misconduct.html">Canada’s Military, Where Sexual Misconduct Went to the Top, Looks for a New Path</a> NYT: A report by a former Supreme Court justice due out Monday will offer recommendations to turn around pervasive sexual assault and harassment. 
+ <p class="updated_time"> 03:54 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801">Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast</a> WSJ: Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast 
  <p class="updated_time"> 03:51 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/politics/turkey-nato-russia.html">For NATO, Turkey Is a Disruptive Ally</a> NYT: President Recep Tayyip Erdogan’s block on NATO membership for Sweden and Finland is likely to be managed, but Washington and the rest of the alliance are annoyed. 
  <p class="updated_time"> 03:48 AM CT, May. 30 </p> 
@@ -43,23 +47,21 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61630201?at_medium=RSS&at_campaign=KARANGA">Champions League final: Fake tickets triggered Paris final chaos - France</a> BBC: The sports minister's comments come amid strong criticism of the policing of Saturday's Champions League final. 
  <p class="updated_time"> 03:44 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102028311/china-falls-short-on-big-deal-in-south-pacific-but-finds-smaller-wins">China falls short on big deal in South Pacific but finds smaller wins</a> NPR: Beijing's hopes to developing a marine plan for fisheries holding police training fell short over some countries' concerns over increasing geopolitical tensions and threatening regional stability. 
- <p class="updated_time"> 03:41 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801">Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast</a> WSJ: Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast 
  <p class="updated_time"> 03:39 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Agatha Is Set to Hit Southern Mexico as a Category 3 Hurricane</a> NYT: Agatha, the first named storm in the eastern Pacific this year, was expected to bring heavy rain and winds of at least 111 miles per hour to parts of southern Mexico on Monday, forecasters said. 
  <p class="updated_time"> 02:59 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61628473?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian Foreign Minister Lavrov denies Putin illness</a> BBC: Sergei Lavrov says the Russian president appears in public daily and no sane person would think him ill. 
  <p class="updated_time"> 02:57 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102027690/plane-crash-nepal-tara-air">A plane carrying 22 passengers was found crashed on a mountain in central Nepal </a> NPR: Photos of the crash, released by the army, show the plane's parts scattered across a mountainside. 
+ <p class="updated_time"> 02:54 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/chinas-lockdowns-prompt-a-rethinking-of-life-plans-among-the-young-11653822000">China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young</a> WSJ: China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young 
  <p class="updated_time"> 02:43 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/asia/nepal-plane-crash.html">Nepal Plane Crash: At Least 14 Bodies Are Recovered</a> NYT: The plane went down in bad weather while carrying passengers to Jomsom, a tourist destination popular with trekkers. 
- <p class="updated_time"> 02:41 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/chinas-lockdowns-prompt-a-rethinking-of-life-plans-among-the-young-11653822000">China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young</a> WSJ: China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young 
- <p class="updated_time"> 01:41 AM CT, May. 30 </p> 
+ <p class="updated_time"> 01:54 AM CT, May. 30 </p> 
  <a href="https://www.wsj.com/articles/colombians-vote-in-election-that-could-see-ex-leftist-rebel-win-presidency-11653832656">Colombia Presidential Election: Leftist Ex-Rebel Wins First Round</a> WSJ: Colombia Presidential Election: Leftist Ex-Rebel Wins First Round 
  <p class="updated_time"> 01:28 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/ukraine-russia-language.html">For Russian-Speaking Ukrainians, Language Clubs Offer Way to Defy Invaders</a> NYT: Many Ukraine citizens speak Russian as their first language. Volunteer organizations are helping them improve their Ukrainian and abandon “the occupiers’ language.” 
- <p class="updated_time"> 12:41 AM CT, May. 30 </p> 
+ <p class="updated_time"> 12:54 AM CT, May. 30 </p> 
  <a href="https://www.wsj.com/articles/jerusalem-braces-for-violence-ahead-of-jewish-nationalist-march-11653827529">Israel’s Jerusalem Day March Sparks Tension</a> WSJ: Israel’s Jerusalem Day March Sparks Tension 
  <p class="updated_time"> 12:41 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61622797?at_medium=RSS&at_campaign=KARANGA">Uvalde: US to review police response to Texas school shooting</a> BBC: The Department of Justice will investigate amid criticism that police waited to tackle the shooter. 
@@ -95,8 +97,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-africa-61023659?at_medium=RSS&at_campaign=KARANGA">The Senegalese pop star who dared to sing about rape</a> BBC: After rape in Senegal was finally made a serious crime, a pop star dared to tell her own story. 
  <p class="updated_time"> 06:04 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61609559?at_medium=RSS&at_campaign=KARANGA">The dangerous world of illegal mining in South Africa</a> BBC: BBC Africa Eye meets the migrants who risk everything to go deep underground in South Africa’s abandoned gold mines. 
- <p class="updated_time"> 04:49 PM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/61619569?at_medium=RSS&at_campaign=KARANGA">French Open: Rafael Nadal wins to set up Novak Djokovic quarter-final in Paris</a> BBC: Rafael Nadal will play long-time rival Novak Djokovic in the French Open quarter-finals after winning an absorbing five-set battle with Canada's Felix Auger-Aliassime. 
  <p class="updated_time"> 04:48 PM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1102015379/the-french-fight-to-restrict-the-use-of-english-in-quebec">The Quebec nationalist fight to restrict the use of English in Quebec</a> NPR: "Non!" to the further imposition of French in Quebec — how the fight over French has incensed many of the English-speaking minority in this Canadian province. 
  <p class="updated_time"> 04:22 PM CT, May. 29 </p> 
