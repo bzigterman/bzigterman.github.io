@@ -9,6 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:38 AM CT, May. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61630201?at_medium=RSS&at_campaign=KARANGA">Champions League final: France hits out at ticket fraud as policing row rages</a> BBC: France condemns "massive" ticket fraud at the Champions League final amid a row over policing of the event. 
+ <p class="updated_time"> 07:29 AM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/world/europe/melitopol-explosion.html">Explosion Hits Russian-Occupied Melitopol </a> NYT: Pro-Kremlin authorities in the city blamed Ukrainian partisans for the blast, which they said had injured two people. 
+ <p class="updated_time"> 07:26 AM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/world/asia/nepal-plane-crash.html">Nepal Plane Crash: At Least 14 Bodies Are Recovered</a> NYT: The plane went down in bad weather on Sunday while carrying passengers to Jomsom, a tourist destination popular with trekkers. 
+ <p class="updated_time"> 07:20 AM CT, May. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61634598?at_medium=RSS&at_campaign=KARANGA">Sick killer whale 'found dead in France'</a> BBC: Experts had tried to guide the four-metre orca back to the sea after it swam up the River Seine. 
+ <p class="updated_time"> 07:16 AM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Colombia a segunda vuelta: un candidato de izquierda y un populista de derecha se enfrentarán en junio</a> NYT: Dos candidatos antisistema, Gustavo Petro, de izquierda, y Rodolfo Hernández, de derecha, alcanzaron los dos primeros lugares en las elecciones presidenciales del domingo. 
+ <p class="updated_time"> 07:09 AM CT, May. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61629133?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: The edgy India rapper who died in gun violence</a> BBC: Sidhu Moose Wala won millions of fans but also upset some with his fascination for guns. 
+ <p class="updated_time"> 06:45 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
  <p class="updated_time"> 06:40 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Hurricane Agatha Is Set to Hit Southern Mexico</a> NYT: With sustained winds of up to 110 miles per hour, Agatha, the first named storm in the eastern Pacific this year, was threatening the Mexican state of Oaxaca on Monday, forecasters said. 
  <p class="updated_time"> 06:29 AM CT, May. 30 </p> 
@@ -17,18 +31,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">What Happened on Day 95 of the War in Ukraine</a> NYT: As his military announced a counteroffensive around the southern port city of Kherson, President Volodymyr Zelensky made a rare visit to frontline positions. European leaders are gathering in Brussels on Monday for a two-day summit on Ukraine. 
  <p class="updated_time"> 06:24 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/world/colombia-election-results">In Colombia, a Leftist and a Right-Wing Populist Move on to June Runoff</a> NYT: Two anti-establishment candidates, Gustavo Petro, a leftist, and Rodolfo Hernández, a right-wing businessman and former mayor, captured the top two spots in Sunday’s presidential election. 
- <p class="updated_time"> 06:24 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Colombia a segunda vuelta: un candidato de izquierda y un populista de derecha se enfrentarán en junio</a> NYT: Dos candidatos antisistema, Gustavo Petro, de izquierda, y Rodolfo Hernández, de derecha, alcanzaron los dos primeros lugares en las elecciones presidenciales del domingo. 
- <p class="updated_time"> 06:22 AM CT, May. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61630201?at_medium=RSS&at_campaign=KARANGA">Champions League final: Fake tickets triggered Paris final chaos - France</a> BBC: The sports minister's comments come amid strong criticism of the policing of Saturday's Champions League final. 
- <p class="updated_time"> 05:57 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
+ <p class="updated_time"> 05:45 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
  <p class="updated_time"> 05:38 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61632802?at_medium=RSS&at_campaign=KARANGA">Samuel Kanu: Nigeria's Methodist Church leader kidnapped</a> BBC: Samuel Kanu was taken in the south-east where separatists have been agitating for a breakaway state. 
  <p class="updated_time"> 05:13 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61627316?at_medium=RSS&at_campaign=KARANGA">Ukraine may soon get US long-range MLRS rocket system</a> BBC: The US looks set to send the weaponry, but Russia warns it would be a provocative escalation. 
- <p class="updated_time"> 04:57 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
+ <p class="updated_time"> 04:45 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/europe-wants-to-kick-russian-energy-local-opposition-may-get-in-the-way-11653906781">Europe’s Bid to Kick Russian Natural Gas Runs Into Opposition</a> WSJ: Europe’s Bid to Kick Russian Natural Gas Runs Into Opposition 
  <p class="updated_time"> 04:39 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102031476/number-of-seized-drugs-reaches-record-in-asia">1 billion pills: The number of seized drugs reaches ominous record in Asia</a> NPR: A U.N. official calls for new policies across East Asia to halt the soaring production of methamphetamines. 
  <p class="updated_time"> 04:07 AM CT, May. 30 </p> 
@@ -43,23 +53,19 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/travel/sicily-regional-trains.html">Circling Sicily on Its Regional Trains</a> NYT: A Dutch photographer, documenting the culture of regional train travel, managed to get around the Italian island for less than $100. Here’s what she saw. 
  <p class="updated_time"> 04:00 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/canada-military-sexual-misconduct.html">Canada’s Military, Where Sexual Misconduct Went to the Top, Looks for a New Path</a> NYT: A report by a former Supreme Court justice due out Monday will offer recommendations to turn around pervasive sexual assault and harassment. 
- <p class="updated_time"> 03:57 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/europe-wants-to-kick-russian-energy-local-opposition-may-get-in-the-way-11653906781">Europe’s Bid to Kick Russian Natural Gas Runs Into Opposition</a> WSJ: Europe’s Bid to Kick Russian Natural Gas Runs Into Opposition 
  <p class="updated_time"> 03:51 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/politics/turkey-nato-russia.html">For NATO, Turkey Is a Disruptive Ally</a> NYT: President Recep Tayyip Erdogan’s block on NATO membership for Sweden and Finland is likely to be managed, but Washington and the rest of the alliance are annoyed. 
  <p class="updated_time"> 03:48 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61631499?at_medium=RSS&at_campaign=KARANGA">Nancy Pelosi's husband Paul arrested for drink-driving</a> BBC: Paul Pelosi, the partner of the US House speaker, is bailed for $5,000 after a two-vehicle crash. 
+ <p class="updated_time"> 03:45 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/video/headline/AA53DDDC-23BC-4C1F-AD07-198A591C755A.html">Returning to Kyiv: The Challenges Ukrainians Face Going Back Home</a> WSJ: Returning to Kyiv: The Challenges Ukrainians Face Going Back Home 
  <p class="updated_time"> 03:44 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102028311/china-falls-short-on-big-deal-in-south-pacific-but-finds-smaller-wins">China falls short on big deal in South Pacific but finds smaller wins</a> NPR: Beijing's hopes to developing a marine plan for fisheries holding police training fell short over some countries' concerns over increasing geopolitical tensions and threatening regional stability. 
  <p class="updated_time"> 02:59 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61628473?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Russian Foreign Minister Lavrov denies Putin illness</a> BBC: Sergei Lavrov says the Russian president appears in public daily and no sane person would think him ill. 
  <p class="updated_time"> 02:57 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102027690/plane-crash-nepal-tara-air">A plane carrying 22 passengers was found crashed on a mountain in central Nepal </a> NPR: Photos of the crash, released by the army, show the plane's parts scattered across a mountainside. 
- <p class="updated_time"> 02:57 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/video/headline/AA53DDDC-23BC-4C1F-AD07-198A591C755A.html">Returning to Kyiv: The Challenges Ukrainians Face Going Back Home</a> WSJ: Returning to Kyiv: The Challenges Ukrainians Face Going Back Home 
- <p class="updated_time"> 02:43 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/30/world/asia/nepal-plane-crash.html">Nepal Plane Crash: At Least 14 Bodies Are Recovered</a> NYT: The plane went down in bad weather while carrying passengers to Jomsom, a tourist destination popular with trekkers. 
- <p class="updated_time"> 01:57 AM CT, May. 30 </p> 
+ <p class="updated_time"> 02:45 AM CT, May. 30 </p> 
  <a href="https://www.wsj.com/articles/chinas-push-for-agreement-with-pacific-island-nations-stalls-11653907860">China’s Push for Agreement With Pacific Island Nations Stalls</a> WSJ: China’s Push for Agreement With Pacific Island Nations Stalls 
  <p class="updated_time"> 01:28 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/ukraine-russia-language.html">For Russian-Speaking Ukrainians, Language Clubs Offer Way to Defy Invaders</a> NYT: Many Ukraine citizens speak Russian as their first language. Volunteer organizations are helping them improve their Ukrainian and abandon “the occupiers’ language.” 
@@ -200,10 +206,18 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, May. 30 </p> 
+ <a href="https://www.politico.com/news/2022/05/30/russian-troops-entering-sievierodonetsk-in-eastern-ukraine-00035873">Russian troops entering Sievierodonetsk in eastern Ukraine</a> Politico: Moscow seeks to capture all of Ukraine’s industrial Donbas region, and Sievierodonetsk is key to that. 
  <p class="updated_time"> 06:28 AM CT, May. 30 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 06:17 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102029154/independent-probe-of-uvalde-shooting-is-the-right-call-texas-state-rep-white-say">Independent probe of Uvalde shooting is the right call, Texas state Rep. White says</a> NPR: NPR's Rachel Martin talks to state Rep. James White, an East Texas Republican who supports gun rights, about firearm legislation following the mass shooting at Robb Elementary School in Uvalde. 
+ <p class="updated_time"> 06:00 AM CT, May. 30 </p> 
+ <a href="https://www.politico.com/news/2022/05/30/americas-hospital-regulator-wasnt-designed-for-a-pandemic-00035835">America’s hospital regulator wasn’t designed for a pandemic</a> Politico: The Centers for Medicare and Medicaid Services is responsible for safety regulations. It is ill-equipped to enforce them. 
+ <p class="updated_time"> 06:00 AM CT, May. 30 </p> 
+ <a href="https://www.politico.com/news/2022/05/30/william-burns-cia-putin-russia-00035863">The Putinologist: CIA chief’s long history with Putin gives him special insight</a> Politico: Burns’ extensive experience in Russia makes him a singular figure among President Joe Biden’s aides. 
+ <p class="updated_time"> 06:00 AM CT, May. 30 </p> 
+ <a href="https://www.politico.com/news/2022/05/30/elon-musks-twitter-takeover-stock-market-rules-00034122">How Elon Musk's Twitter takeover may help change stock market rules</a> Politico: At issue is Musk’s 11-day delay in revealing that he purchased a 9.1 percent stake in Twitter before announcing the acquisition plan. 
  <p class="updated_time"> 04:00 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/politics/republican-poll-monitors-election-activists.html">Lawyer Who Plotted to Overturn Trump Loss Recruits Election Deniers to Watch Over the Vote</a> NYT: A central figure in the scheme to reverse the 2020 election is mobilizing grass-roots activists into an “army of citizens” trained to aggressively monitor elections. 
  <p class="updated_time"> 03:51 AM CT, May. 30 </p> 
@@ -232,8 +246,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/gallery/2022/05/29/photos-memorials-texas-school-uvalde-00035865">Photos: Mourning in Texas</a> Politico: Memorial tributes continue for the 19 children and two teachers shot to death by a heavily armed gunman at Robb Elementary School in Uvalde, Texas, on May 24, 2022. 
  <p class="updated_time"> 01:20 PM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/justice-department-police-response-uvalde-00035866">Justice Department to investigate police response in Uvalde</a> Politico: Police have been criticized for waiting too late to confront the gunman. 
- <p class="updated_time"> 11:38 AM CT, May. 29 </p> 
- <a href="https://www.politico.com/news/2022/05/29/israel-jerusalem-march-death-arabs-00035862">‘Death to Arabs’ chanted in Jerusalem march</a> Politico: Scuffles ensued as nationalists celebrated an Israeli holiday. 
  <p class="updated_time"> 11:08 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/mccrory-gun-violence-nra-pushed-to-the-right-00035861">North Carolina Republican: NRA has been pushed to the right</a> Politico: He also argued that gun violence is a cultural issue. 
  <p class="updated_time"> 10:39 AM CT, May. 29 </p> 
@@ -244,24 +256,20 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/29/criticism-police-response-uvalde-shooting-00035859">Criticism of police response in Uvalde shooting piles up</a> Politico: A Texas lawmaker said some of the shooting victims might have survived. 
  <p class="updated_time"> 09:19 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/chris-murphy-texas-gun-measures-00035856">Lawmakers offer mild optimism about gun legislation</a> Politico: Sen. Chris Murphy and other lawmakers said they saw hope for the current bipartisan efforts. 
- <p class="updated_time"> 07:11 AM CT, May. 29 </p> 
- <a href="https://www.politico.com/news/2022/05/29/russia-ukraine-bombardments-00035855">Russian troops storm city amid eastern Ukraine bombardments</a> Politico: Ukrainian officials said Russian forces were storming the eastern city of Sievierodonetsk. 
  <p class="updated_time"> 06:01 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/allegations-of-industry-influence-rock-mine-safety-commission-00035777">Allegations of industry influence rock mine safety commission</a> Politico: A newly obtained memo outlines a Republican commissioner's use of a "Network" of inside and outside advisers when weighing personnel matters at the Federal Mine Safety and Health Review Commission. 
- <p class="updated_time"> 06:00 AM CT, May. 29 </p> 
- <a href="https://www.politico.com/news/2022/05/29/pentagon-replace-doomsday-plane-00034686">Time is ticking to replace the Pentagon’s 1970s-era Doomsday planes</a> Politico: Built to survive a nuclear attack, these Air Force aircraft are expected to fly well past their 50th birthday. 
  <p class="updated_time"> 06:00 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/gop-senate-herschel-walker-georgia-00035851">‘He doesn't speak in beautiful syntax’: GOP bets the Senate that Walker is ready for prime time</a> Politico: Herschel Walker’s post-primary victory lap was a fresh reminder of his promise and peril as GOP nominee in Georgia. 
  <p class="updated_time"> 06:00 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/iowa-manchin-carbon-capture-pipeline-00030361">Strange Bedfellows: Farmers and Big Greens square off against Biden and the GOP</a> Politico: White House support for an “interstate CO2 highway system” is scrambling alliances in Iowa. 
+ <p class="updated_time"> 06:00 AM CT, May. 29 </p> 
+ <a href="https://www.politico.com/news/2022/05/29/pentagon-replace-doomsday-plane-00034686">Time is ticking to replace the Pentagon’s 1970s-era Doomsday planes</a> Politico: Built to survive a nuclear attack, these Air Force aircraft are expected to fly well past their 50th birthday. 
  <p class="updated_time"> 05:38 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/uvalde-grief-school-attack-00035853">Uvalde a mix of pride and anger as it grieves school attack</a> Politico: Everyone in the predominantly Latino city of roughly 16,000 people seems to know someone whose life has been turned upside down. 
  <p class="updated_time"> 04:00 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1100980188/u-s-house-loses-more-swing-in-2022">U.S. House loses more 'swing' in 2022</a> NPR: Only a small fraction of U.S. House seats are now considered "swing" seats that could be won by either party. 
  <p class="updated_time"> 11:16 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/us/politics/gun-laws-senate-uvalde-buffalo.html">Massacres Test Whether Washington Can Move Beyond Paralysis on Gun Laws</a> NYT: The United States is facing a widening gap between the scale of gun violence and what America’s political leaders can agree are the right responses to the carnage. 
- <p class="updated_time"> 07:04 PM CT, May. 28 </p> 
- <a href="https://www.politico.com/news/2022/05/28/newsom-test-positive-for-covid-19-00035852">Newsom tests positive for Covid</a> Politico: The California governor is vaccinated and has received two booster shots, the most recent on May 18. 
  <p class="updated_time"> 04:52 PM CT, May. 28 </p> 
  <a href="https://www.npr.org/2022/05/28/1101955649/vice-president-kamala-harris-buffalo-victim-funeral">Harris calls for unity as Buffalo lays the last shooting victim to rest</a> NPR: Vice President Harris spoke during the memorial service for Ruth Whitfield, the last of 10 Black people killed in a racist attack at a Buffalo supermarket to be laid to rest. 
  <p class="updated_time"> 04:19 PM CT, May. 28 </p> 
@@ -274,8 +282,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/05/28/the-conspiracy-theory-convention-00035846"> The conspiracy theory convention</a> Politico Playbook: And the Georgia Trump investigation heats up. 
  <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
  <a href="https://www.politico.com/news/2022/05/28/high-flying-stefanik-scorched-by-allies-whisper-campaign-against-a-rival-00035839">Trump Jr. allies issue warning to Stefanik camp: Don’t go after Tucker’s kid</a> Politico: She faces plenty of future GOP leadership competitors, including Rep. Jim Banks. And her camp got burned after allegedly raising Banks aide Buckley Carlson. 
- <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
- <a href="https://www.politico.com/news/2022/05/28/gas-prices-rising-electric-cars-00035425">Gas prices are rising. So where are the electric cars?</a> Politico: Democrats see electric vehicles as an answer to climate change, and high fuel costs mean more Americans are interested. But inflation and a shortage of new cars are making that transition painful. 
  <p class="updated_time"> 04:01 AM CT, May. 28 </p> 
  <a href="https://www.npr.org/2022/05/28/1101814449/as-a-jury-weighs-if-a-lawyer-lied-to-the-fbi-durhams-legacy-hangs-in-the-balance">As a jury weighs if a lawyer lied to the FBI, Durham's legacy hangs in the balance</a> NPR: Michael Sussmann faces one charge of lying to the FBI ahead of the 2016 presidential election. It's the first courtroom test for special counsel John Durham, appointed by the Trump administration. 
  <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
