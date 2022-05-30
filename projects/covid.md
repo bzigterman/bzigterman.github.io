@@ -1929,7 +1929,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 As of Sunday, the 14-day percent change in average new deaths was:
   
 - 50% in Illinois
-- 41% in the United States
+- 39% in the United States
 - -12% worldwide
 
 <picture>
