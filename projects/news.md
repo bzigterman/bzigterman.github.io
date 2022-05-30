@@ -9,46 +9,50 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:43 AM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/world/asia/nepal-plane-crash.html">Nepal Plane Crash: At Least 14 Bodies Are Recovered</a> NYT: The plane went down in bad weather while carrying passengers to Jomsom, a tourist destination popular with trekkers. 
+ <p class="updated_time"> 02:29 AM CT, May. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61629130?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: Murder of popular Indian singer sparks anger</a> BBC: Sidhu Moose Wala, 28, was shot dead a day after the Punjab state government scaled back his security cover. 
+ <p class="updated_time"> 02:11 AM CT, May. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61630201?at_medium=RSS&at_campaign=KARANGA">Champions League final: Fake tickets triggered Paris final chaos - France</a> BBC: The sports minister blames Liverpool fans with "fake" tickets for Champions League final crowd problems. 
+ <p class="updated_time"> 02:00 AM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/us/politics/turkey-nato-russia.html">For NATO, Turkey Is a Disruptive Ally</a> NYT: President Recep Tayyip Erdogan’s block on NATO membership for Sweden and Finland is likely to be managed, but Washington and the rest of the alliance are annoyed. 
+ <p class="updated_time"> 01:56 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640">A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians.</a> WSJ: A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians. 
  <p class="updated_time"> 01:39 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/world/russia-ukraine-war">What Happened on Day 95 of the War in Ukraine</a> NYT: As his military announced a counteroffensive around the southern port city of Kherson, President Volodymyr Zelensky made a rare visit to frontline positions. European leaders are gathering in Brussels on Monday for a two-day summit on Ukraine. 
  <p class="updated_time"> 01:39 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/world/colombia-election-results">In Colombia, a Leftist and a Right-Wing Populist Move on to June Runoff</a> NYT: Two anti-establishment candidates, Gustavo Petro, a leftist, and Rodolfo Hernández, a right-wing businessman and former mayor, captured the top two spots in Sunday’s presidential election. 
  <p class="updated_time"> 01:39 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Colombia a segunda vuelta: un candidato de izquierda y un populista de derecha se enfrentarán en junio</a> NYT: Dos candidatos antisistema, Gustavo Petro, de izquierda, y Rodolfo Hernández, de derecha, alcanzaron los dos primeros lugares en las elecciones presidenciales del domingo. 
- <p class="updated_time"> 01:36 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/30/world/asia/nepal-plane-crash.html">Nepal Plane Crash: At Least 14 Bodies Are Recovered</a> NYT: The plane went down in bad weather while carrying passengers to Jomsom, a tourist destination popular with trekkers. 
  <p class="updated_time"> 01:28 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/ukraine-russia-language.html">For Russian-Speaking Ukrainians, Language Clubs Offer Way to Defy Invaders</a> NYT: Many Ukraine citizens speak Russian as their first language. Volunteer organizations are helping them improve their Ukrainian and abandon “the occupiers’ language.” 
- <p class="updated_time"> 01:00 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/a-ukrainian-woman-greeted-troops-with-a-soviet-flag-now-she-tells-putin-to-stop-killing-ukrainians-11653816640">A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians.</a> WSJ: A Ukrainian Woman Greeted Troops With a Soviet Flag. Now, She Tells Putin to Stop Killing Ukrainians. 
+ <p class="updated_time"> 12:56 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801">Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast</a> WSJ: Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast 
  <p class="updated_time"> 12:41 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61622797?at_medium=RSS&at_campaign=KARANGA">Uvalde: US to review police response to Texas school shooting</a> BBC: The Department of Justice will investigate amid criticism that police waited to tackle the shooter. 
- <p class="updated_time"> 12:27 AM CT, May. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61629130?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: Murder of popular Indian singer sparks anger</a> BBC: Sidhu Moose Wala was shot dead a day after the Punjab state government scaled back his security cover. 
  <p class="updated_time"> 12:01 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61624557?at_medium=RSS&at_campaign=KARANGA">Ukraine war student-turned-soldier: 'Friends die in your arms'</a> BBC: After trading university for combat in Kyiv, the young soldier is in the thick of fighting in Donbas. 
- <p class="updated_time"> 12:00 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/ukraine-renews-calls-for-weapons-amid-russian-attack-on-eastern-cities-11653820801">Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast</a> WSJ: Ukraine Renews Calls for Weapons as Zelensky Visits Troops in Northeast 
+ <p class="updated_time"> 11:56 PM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/chinas-lockdowns-prompt-a-rethinking-of-life-plans-among-the-young-11653822000">China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young</a> WSJ: China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young 
  <p class="updated_time"> 11:16 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61628713?at_medium=RSS&at_campaign=KARANGA">Peter Dutton: Staunch conservative named Australia's opposition leader</a> BBC: Peter Dutton - an ex-policeman and polarising figure - will succeed Scott Morrison as Liberal leader. 
  <p class="updated_time"> 11:09 PM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/30/1102025825/colombia-presidential-election-runoff">A leftist will face a businessman as Colombia's presidential race heads to a runoff</a> NPR: The results represent a major shift in the Latin American country's presidential politics that conservatives and moderates had long dominated. 
- <p class="updated_time"> 11:00 PM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/chinas-lockdowns-prompt-a-rethinking-of-life-plans-among-the-young-11653822000">China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young</a> WSJ: China’s Lockdowns Prompt a Rethinking of Life Plans Among the Young 
+ <p class="updated_time"> 10:56 PM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/colombians-vote-in-election-that-could-see-ex-leftist-rebel-win-presidency-11653832656">Colombia Presidential Election: Leftist Ex-Rebel Wins First Round</a> WSJ: Colombia Presidential Election: Leftist Ex-Rebel Wins First Round 
  <p class="updated_time"> 10:20 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Agatha, Now a Hurricane, Heads to the Mexican Coast</a> NYT: The storm was packing winds of 110 miles per hour and threatened to unleash as much as 20 inches of rain in some parts of southern Mexico, forecasters said. 
  <p class="updated_time"> 10:13 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/business-61628770?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: China's financial hub set to lift Covid curbs</a> BBC: Authorities in the commercial hub have also announced new economic support measures for businesses. 
  <p class="updated_time"> 10:01 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/russian-casualties-ukraine.html">Russia War Dead Tended by Ukrainian Soldiers</a> NYT: Ukrainians hope that if they safeguard Russia’s war dead, they will be more likely to get back their own. 
- <p class="updated_time"> 10:00 PM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/colombians-vote-in-election-that-could-see-ex-leftist-rebel-win-presidency-11653832656">Colombia Presidential Election: Leftist Ex-Rebel Wins First Round</a> WSJ: Colombia Presidential Election: Leftist Ex-Rebel Wins First Round 
  <p class="updated_time"> 09:58 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/afghanistan-opium-taliban.html">Afghanistan Tries to Stamp Out Opium Again</a> NYT: The multibillion-dollar trade has survived previous bans. Now, the Taliban are going after solar-powered water pumps to try to dry up poppy crops in the middle of a national economic crisis. 
+ <p class="updated_time"> 09:56 PM CT, May. 29 </p> 
+ <a href="https://www.wsj.com/articles/jerusalem-braces-for-violence-ahead-of-jewish-nationalist-march-11653827529">Israel’s Jerusalem Day March Sparks Tension</a> WSJ: Israel’s Jerusalem Day March Sparks Tension 
  <p class="updated_time"> 09:06 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/ukraine-russia-war-kherson.html">Ukraine Launches Counteroffensive on Russans in Kherson</a> NYT: “Hold on, Kherson, we’re coming!” the Ukrainian military declared as it pushed to retake territory in a key southern city. 
- <p class="updated_time"> 09:00 PM CT, May. 29 </p> 
- <a href="https://www.wsj.com/articles/jerusalem-braces-for-violence-ahead-of-jewish-nationalist-march-11653827529">Israel’s Jerusalem Day March Sparks Tension</a> WSJ: Israel’s Jerusalem Day March Sparks Tension 
  <p class="updated_time"> 08:53 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/27/business/cotton-xinjiang-forced-labor-retailers.html">Global Brands Seek Clarity on Xinjiang</a> NYT: Companies that sourced cotton from the region in China are weighing evidence of forced labor, a lack of visibility into operations and new regulation. 
  <p class="updated_time"> 08:52 PM CT, May. 29 </p> 
@@ -81,8 +85,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61626912?at_medium=RSS&at_campaign=KARANGA">Brazil: Landslides and floods kill dozens</a> BBC: Rescue efforts continue in the state of Pernambuco, with at least 79 people know to have died. 
  <p class="updated_time"> 01:44 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/labour-struggles-rust-belt-britain.html">As Boris Johnson Stumbles, Labour Struggles to Offer a Clear Message</a> NYT: Out of power for 12 years, Britain’s Labour Party has made some gains, but its message hasn’t won back the rust belt regions that abandoned it in the last election. 
- <p class="updated_time"> 01:38 PM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61625512?at_medium=RSS&at_campaign=KARANGA">Ukraine war: President Zelensky visits Kharkiv in first trip outside Kyiv region</a> BBC: The president thanked troops on the country's eastern front line, and sacked the local security chief. 
  <p class="updated_time"> 12:50 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/pope-francis-21-new-cardinals.html">Pope Francis Announces 21 New Cardinals</a> NYT: The new “princes of the church” hail from places like India, Nigeria, Singapore and South Korea. They will be among those who help choose a new pope. 
  <p class="updated_time"> 12:23 PM CT, May. 29 </p> 
@@ -97,8 +99,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/29/world/asia/nepal-plane-crash.html">Plane Crashes in Nepal With 22 Aboard, Government Says</a> NYT: The search for the plane and its passengers and crew was being hampered by bad weather. 
  <p class="updated_time"> 08:21 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/27/science/russia-ukraine-science-academy.html">Russian Academics Aim to Punish Colleagues Who Backed Ukraine Invasion</a> NYT: A campaign is circulating a list of dozens of researchers in the hopes they will be denied the prestige of election into the Russian Academy of Sciences. 
- <p class="updated_time"> 07:19 AM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61618902?at_medium=RSS&at_campaign=KARANGA">Russia won't use tactical nuclear weapons in Ukraine, says ambassador to UK</a> BBC: Andrei Kelin tells the BBC tactical nuclear weapons have "nothing to do" with operations in Ukraine. 
  <p class="updated_time"> 06:59 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61623278?at_medium=RSS&at_campaign=KARANGA">Ukraine war: BBC interview with Russian ambassador to the UK</a> BBC: In a BBC interview, Andrei Kelin is shown CCTV footage of Russian soldiers committing alleged war crimes. 
  <p class="updated_time"> 06:55 AM CT, May. 29 </p> 
@@ -185,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/27/world/africa/newborns-senegal-hospital-fire-tivaouane.html">11 Families in Senegal Welcomed Newborns. A Fire Left Them Devastated.</a> NYT: Joy over the births turned to shock and grief after a blaze swept through a neonatal ward at a hospital in Senegal. “There’s nothing we can do but suffer,” said a man who lost his grandson. 
  <p class="updated_time"> 03:18 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/26/world/europe/russia-economy-sanctions.html">Russia’s Isolated Economy Is Leading to Scarcity</a> NYT: With soaring prices and shortages of basic goods, the Russian people and businesses large and small are feeling the pinch. 
- <p class="updated_time"> 02:19 AM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/26/world/europe/johnson-britain-inflation-energy-tax.html">Johnson Takes Aim at Next Big Political Threat: Soaring Prices in U.K.</a> NYT: Prime Minister Boris Johnson, under pressure over a scathing report on lockdown parties in Downing Street and with his party trailing in opinion polls, unveiled an aid package Thursday. 
 
 
 </details>
@@ -194,6 +192,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/us/politics/veterans-small-business.html">These Veterans Started Businesses Inspired by Their Deployments</a> NYT: Some veterans have started businesses that draw from their experiences in Iraq and Afghanistan, and thrived. 
+ <p class="updated_time"> 02:00 AM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/us/politics/turkey-nato-russia.html">For NATO, Turkey Is a Disruptive Ally</a> NYT: President Recep Tayyip Erdogan’s block on NATO membership for Sweden and Finland is likely to be managed, but Washington and the rest of the alliance are annoyed. 
+ <p class="updated_time"> 02:00 AM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/us/politics/photos-uvalde.html">From Sandy Hook to Uvalde, the Violent Images Never Seen</a> NYT: Frustrated Americans ask whether the release of graphic photos of gun violence would lead to better policy. But which photos, and who decides? 
+ <p class="updated_time"> 02:00 AM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/nyregion/gov-hochul-leads-rivals-donations.html">Gov. Hochul Stockpiles Donations, as Rivals Struggle to Keep Pace</a> NYT: Real estate, unions and crypto interests were among the donors to Ms. Hochul. Here are five takeaways from the money battle in New York’s race for governor. 
  <p class="updated_time"> 07:36 PM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/house-jan6-panel-republican-appeal-00035870">Select committee drops bid to obtain RNC records in time for public hearings</a> Politico: At issue are some Republican National Committee records held by a third-party vendor. 
  <p class="updated_time"> 05:19 PM CT, May. 29 </p> 
@@ -312,8 +318,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/27/prosecution-clinton-campaign-attorney-00035682">Prosecution: 'Overwhelming' evidence of guilt for Clinton campaign attorney</a> Politico: Jury began deliberations Friday in false-statement case against lawyer Michael Sussmann 
  <p class="updated_time"> 09:05 AM CT, May. 27 </p> 
  <a href="https://www.nytimes.com/2022/05/27/business/energy-environment/gas-prices-summer-driving.html">Gas Prices Hit New Highs as Summer Driving Season Starts</a> NYT: A gallon has jumped by about 50 cents over the last month as Russia’s war in Ukraine has continued to unsettle the global energy market. 
- <p class="updated_time"> 09:00 AM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/26/us/politics/republican-governors-trump-kemp.html">Republican Governors Lose Their Dread of Trump</a> NYT: Gov. Brian Kemp of Georgia just crushed a Trump-backed challenger. Many of his counterparts are also in strong political shape. And some are openly opposing their party’s leader. 
  <p class="updated_time"> 06:37 AM CT, May. 27 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/27/senators-leave-town-in-the-talking-stage-00035662">Senators leave town in the talking stage</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:15 AM CT, May. 27 </p> 
@@ -326,8 +330,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/27/unfair-fema-climate-program-floods-00032080">How FEMA helps white and rich Americans escape floods</a> Politico: An investigation by POLITICO's E&E News reveals systemic favoritism toward wealthy and white people in a federal program that lifts homes above rising floodwaters. 
  <p class="updated_time"> 03:30 AM CT, May. 27 </p> 
  <a href="https://www.politico.com/news/2022/05/27/swing-state-politics-stymie-gun-debate-00035637">The gun debate roadblock you might not expect: Swing states</a> Politico: In some top Senate battlegrounds, gun-drenched GOP primaries and high firearm ownership rates thwart any chance of serious reform. 
- <p class="updated_time"> 02:20 AM CT, May. 27 </p> 
- <a href="https://www.nytimes.com/2022/05/26/us/politics/zelensky-ukraine-war.html">How Does It End? Fissures Emerge Over What Constitutes Victory in Ukraine</a> NYT: Differing objectives foreshadow a coming debate about what position President Volodymyr Zelensky of Ukraine and his Western allies would take if negotiations to end the conflict finally get going. 
 
 
 </details>
