@@ -13,13 +13,13 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/world/europe/mona-lisa-pastry-louvre.html">Man Throws Pastry at Mona Lisa, Smearing Cream on Glass Case</a> NYT: The painting was not harmed and the man, who officials said was in a wheelchair and had faked a disability to get close to it, was taken into custody. 
  <p class="updated_time"> 02:00 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61630201?at_medium=RSS&at_campaign=KARANGA">Champions League final: France blames 'massive' ticket fraud as policing row rages</a> BBC: Chaotic scenes outside Saturday's Champions League final saw Liverpool fans pepper sprayed by police. 
+ <p class="updated_time"> 01:57 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
  <p class="updated_time"> 01:55 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Hurricane Agatha Is Set to Hit Southern Mexico Today</a> NYT: With sustained winds of up to 110 miles per hour, Agatha, the first named storm in the eastern Pacific this year, was threatening the Mexican state of Oaxaca on Monday, forecasters said. 
- <p class="updated_time"> 01:49 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
  <p class="updated_time"> 01:08 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ucl-game-delay-france.html">Under Fire for Chaos at Soccer Final, France Rejects Blame for Failures</a> NYT: Tear gas and delays marred the Champions League final in Paris on Saturday, raising questions over France’s ability to host large-scale sporting events like the 2024 Summer Olympics. 
- <p class="updated_time"> 12:49 PM CT, May. 30 </p> 
+ <p class="updated_time"> 12:57 PM CT, May. 30 </p> 
  <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
  <p class="updated_time"> 12:26 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Colombia a segunda vuelta: un candidato de izquierda y un populista de derecha se enfrentarán en junio</a> NYT: Dos candidatos antisistema, Gustavo Petro, de izquierda, y Rodolfo Hernández, de derecha, alcanzaron los dos primeros lugares en las elecciones presidenciales del domingo. 
@@ -37,22 +37,22 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/30/1102044111/man-throws-cake-at-mona-lisa-the-louvre">A man in a wig was detained after throwing a piece of cake at the Mona Lisa</a> NPR: A man who was apparently disguised as an old woman in a wheelchair was detained after throwing a piece of cake at the Mona Lisa. 
  <p class="updated_time"> 11:59 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/french-journalist-killed-ukraine.html">French Journalist Killed by Shrapnel in Eastern Ukraine</a> NYT: “The newsroom is in mourning,” said a manager at the TV channel where the 32-year-old journalist worked. 
- <p class="updated_time"> 11:49 AM CT, May. 30 </p> 
+ <p class="updated_time"> 11:57 AM CT, May. 30 </p> 
  <a href="https://www.wsj.com/articles/eu-leaders-spar-over-russian-oil-ban-11653921289">EU Leaders Spar Over Russian-Oil Ban</a> WSJ: EU Leaders Spar Over Russian-Oil Ban 
  <p class="updated_time"> 11:27 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61626912?at_medium=RSS&at_campaign=KARANGA">Death toll rises after Brazil landslides</a> BBC: Rescue efforts continue in the state of Pernambuco, with at least 79 people know to have died. 
+ <p class="updated_time"> 10:57 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/iran-hasnt-provided-credible-explanations-for-nuclear-material-u-n-agency-says-11653923148">U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon</a> WSJ: U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon 
  <p class="updated_time"> 10:53 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61632802?at_medium=RSS&at_campaign=KARANGA">Samuel Kanu: Nigeria's Methodist Church leader kidnapped</a> BBC: Samuel Kanu was taken in the south-east where separatists have been agitating for a breakaway state. 
- <p class="updated_time"> 10:49 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/iran-hasnt-provided-credible-explanations-for-nuclear-material-u-n-agency-says-11653923148">U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon</a> WSJ: U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon 
  <p class="updated_time"> 10:38 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ireland-dublin-airport-delay-covid.html">At Dublin Airport, Staff Shortages Lead to Travel Chaos</a> NYT: More than 1,000 passengers missed flights there in a day, part of a spate of similar difficulties across Europe as demand for travel surges. 
  <p class="updated_time"> 10:08 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ukraine-russia-chernihiv.html">A Russian Plane Crashed Into a House. Death Was Parceled Out Randomly.</a> NYT: Some fortuitous timing in doing chores saved a family that lived in the Ukrainian city of Chernihiv. A few blocks away, things turned out very differently. 
  <p class="updated_time"> 09:57 AM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/29/world/asia/philippines-duterte-victims.html">A Cafe in Philippines is Devoted to Duterte’s Drug War Victims</a> NYT: Served along with the lattes are personal stories from the staff, who are relatives of those who died in some of the thousands of extrajudicial killings in the Philippines. 
- <p class="updated_time"> 09:49 AM CT, May. 30 </p> 
  <a href="https://www.wsj.com/video/headline/AA53DDDC-23BC-4C1F-AD07-198A591C755A.html">Returning to Kyiv: The Challenges Ukrainians Face Going Back Home</a> WSJ: Returning to Kyiv: The Challenges Ukrainians Face Going Back Home 
+ <p class="updated_time"> 09:57 AM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/2022/05/29/world/asia/philippines-duterte-victims.html">A Cafe in Philippines is Devoted to Duterte’s Drug War Victims</a> NYT: Served along with the lattes are personal stories from the staff, who are relatives of those who died in some of the thousands of extrajudicial killings in the Philippines. 
  <p class="updated_time"> 09:35 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/asia/nepal-plane-crash.html">Nepal Plane Crash: At Least 14 Bodies Are Recovered</a> NYT: The plane went down in bad weather on Sunday while carrying passengers to Jomsom, a tourist destination popular with trekkers. 
  <p class="updated_time"> 09:16 AM CT, May. 30 </p> 
