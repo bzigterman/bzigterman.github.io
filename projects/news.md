@@ -9,36 +9,38 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:16 AM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">Live Updates: Europe Seeks New Ways to Aid Ukraine as Fight Rages in East</a> NYT: European Union leaders continued a two-day summit aimed at raising the invasion’s cost to Russia and bolstering the battered Ukrainian economy. The two armies traded blistering barrages of artillery fire and fought pitched battles in the last Ukrainian-controlled city in the Luhansk region. 
+ <p class="updated_time"> 09:12 AM CT, May. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61643533?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Refugee from Popasna spots looted possessions on Russian tank</a> BBC: The Ukrainian says she recognises items from her house on a Russian tank, including a new boiler. 
  <p class="updated_time"> 08:50 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61638860?at_medium=RSS&at_campaign=KARANGA">Russian oil: EU agrees compromise deal on banning imports</a> BBC: The latest round of EU-wide sanctions excludes pipeline oil imports after Hungary opposed a total ban. 
  <p class="updated_time"> 08:46 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/climate/united-states-climate-ranking-trump.html">Trump Policies Sent U.S. Tumbling in a Climate Ranking</a> NYT: The Environmental Performance Index, published every two years by researchers at Yale and Columbia, found only Denmark and Britain on sustainable paths to net-zero emissions by 2050. 
- <p class="updated_time"> 08:41 AM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">Live Updates: Europe Seeks New Ways to Aid Ukraine as Fight Rages in East</a> NYT: European Union leaders continued a two-day summit aimed at raising the invasion’s cost to Russia and bolstering the battered Ukrainian economy. The two armies traded blistering barrages of artillery fire and fought pitched battles in the last Ukrainian-controlled city in the Luhansk region. 
+ <p class="updated_time"> 08:24 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273">Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower</a> WSJ: Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower 
  <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/australia/china-united-states-pacific.html">Why China Is Miles Ahead in a Pacific Race for Influence</a> NYT: To many observers, the South Pacific today reveals what American decline looks like. Even as Washington tries to step up its game, it is still far behind, mistaking speeches for impact and interest for influence. 
  <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102105392/australias-new-prime-minister-albanese-appoints-record-10-women-to-his-cabinet">Australia's new prime minister appoints a record 10 women to his Cabinet</a> NPR: Australia's new government will look more like its country, as Prime Minister Anthony Albanese has named 10 women to his incoming Cabinet. 
  <p class="updated_time"> 08:19 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/29/health/coronavirus-testing-positive.html">Can I Stop Isolating If I’m Still Testing Positive for the Virus?</a> NYT: Some people may test positive for the coronavirus for 10 days or longer, but interpreting those results remains difficult, experts said. 
- <p class="updated_time"> 07:57 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273">Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower</a> WSJ: Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower 
- <p class="updated_time"> 06:57 AM CT, May. 31 </p> 
+ <p class="updated_time"> 07:24 AM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU’s Ban on Russian Oil Adds Stress to Region’s Economies</a> WSJ: EU’s Ban on Russian Oil Adds Stress to Region’s Economies 
- <p class="updated_time"> 06:40 AM CT, May. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61643533?at_medium=RSS&at_campaign=KARANGA">Ukrainian refugee from Popasna spots looted possessions on Russian tank</a> BBC: The Ukrainian says she recognises items from her house on a Russian tank, including a new boiler. 
- <p class="updated_time"> 05:57 AM CT, May. 31 </p> 
+ <p class="updated_time"> 06:24 AM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/guided-u-s-rockets-could-double-ukraines-strike-range-11653989401">Guided U.S. Rockets Could Double Ukraine’s Strike Range</a> WSJ: Guided U.S. Rockets Could Double Ukraine’s Strike Range 
  <p class="updated_time"> 05:51 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61647385?at_medium=RSS&at_campaign=KARANGA">What do Russian papers say about sanctions?</a> BBC: As the EU announces new penalties, Steve Rosenberg looks at what Russian media has to say. 
  <p class="updated_time"> 05:25 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61631967?at_medium=RSS&at_campaign=KARANGA">Mexico's Maya train project stalls as legal battle drags</a> BBC: A judge delivers a fresh blow to the project which aims to link archaeological sites with beach resorts. 
+ <p class="updated_time"> 05:24 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/russia-targets-ukraines-rail-links-for-military-gains-11653987818">Russia Targets Ukraine’s Rail Links for Military Gains</a> WSJ: Russia Targets Ukraine’s Rail Links for Military Gains 
  <p class="updated_time"> 05:16 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61642596?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: Murdered India singer hit by 24 bullets, says report</a> BBC: Video footage of Sidhu Moose Wala's car shows it was sprayed with bullets. 
- <p class="updated_time"> 04:57 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/russia-targets-ukraines-rail-links-for-military-gains-11653987818">Russia Targets Ukraine’s Rail Links for Military Gains</a> WSJ: Russia Targets Ukraine’s Rail Links for Military Gains 
  <p class="updated_time"> 04:33 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61645241?at_medium=RSS&at_campaign=KARANGA">Iran building collapse: Protesters turn on government over disaster</a> BBC: Nightly protests continue as Iranians seethe, a week after the deadliest building collapse in years. 
+ <p class="updated_time"> 04:24 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/video/series/in-depth-features/us-vs-china-the-race-to-build-hypersonic-missiles/F3ADF598-61E7-437F-B4F6-2FDE9A04B0A7">U.S. vs. China: The Race to Build Hypersonic Missiles</a> WSJ: U.S. vs. China: The Race to Build Hypersonic Missiles 
  <p class="updated_time"> 04:23 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61642218?at_medium=RSS&at_campaign=KARANGA">Nepal plane crash: Officials recover black box from wreckage</a> BBC: Hopes of any survivors were dashed as the remains of all 22 people onboard have also been found. 
  <p class="updated_time"> 04:10 AM CT, May. 31 </p> 
@@ -50,9 +52,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 04:00 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/our-readers-sent-updates-on-stories-that-have-resonated-with-many-of-you.html">Our readers sent updates on stories that have resonated with many of you.</a> NYT: More than 20,000 readers have written in to share their pandemic experiences. 
  <p class="updated_time"> 04:00 AM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/31/world/asia/ukrainians-donbas-russia-war.html">Some Ukrainians Stay Behind in Russian Occupied Eastern Donbas Region</a> NYT: The Russian offensive grinds on, but not everyone is leaving the eastern Donbas region. 
- <p class="updated_time"> 03:57 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/video/series/in-depth-features/us-vs-china-the-race-to-build-hypersonic-missiles/F3ADF598-61E7-437F-B4F6-2FDE9A04B0A7">U.S. vs. China: The Race to Build Hypersonic Missiles</a> WSJ: U.S. vs. China: The Race to Build Hypersonic Missiles 
+ <a href="https://www.nytimes.com/2022/05/31/world/asia/ukrainians-donbas-russia-war.html">Some Ukrainians Stay Behind in Eastern Donbas Region</a> NYT: The Russian offensive grinds on, but not everyone is leaving the eastern Donbas region. 
  <p class="updated_time"> 03:52 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/asia/china-children-textbooks.html">China Orders Investigation Into  Children’s Textbooks</a> NYT: The discovery of what some viewed as disturbing illustrations in books for elementary school students set off a national furor. 
  <p class="updated_time"> 03:46 AM CT, May. 31 </p> 
@@ -90,7 +90,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:02 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61426698?at_medium=RSS&at_campaign=KARANGA">Sudan or Chad? Why a Darfur sultan regrets a twist of colonial fate</a> BBC: A traditional leader feels his people were dealt a cruel blow when absorbed into Sudan a century ago. 
  <p class="updated_time"> 05:48 PM CT, May. 30 </p> 
- <a href="https://www.npr.org/2022/05/30/1102083611/eu-agree-partial-russian-oil-embargo">EU leaders agree to ban 90% of Russian oil by the end of 2022</a> NPR: The embargo covers Russian oil brought in by sea, allowing a temporary exemption for imports delivered by pipeline, a crucial move to bring Hungary on board a decision that required consensus. 
+ <a href="https://www.npr.org/2022/05/30/1102083611/eu-agree-partial-russian-oil-embargo">The EU will block most Russian oil imports as Hungary's Orbán fights off a total ban</a> NPR: Pipeline deliveries, which are critical to Hungary, Slovakia and the Czech Republic, won't be affected by the ban. The much more complicated issue of Russian natural gas remains unresolved. 
  <p class="updated_time"> 05:31 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/americas/colombia-presidential-election-hernandez-petro.html">Rodolfo Hernández is Colombia’s Trump and He May Be Headed for the Presidential Palace</a> NYT: The Colombian establishment is lining up behind Rodolfo Hernández, a populist businessman with an incendiary streak, to defeat the leftist former rebel Gustavo Petro. 
  <p class="updated_time"> 05:28 PM CT, May. 30 </p> 
@@ -187,8 +187,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/29/world/asia/nepal-plane-crash.html">Plane Crashes in Nepal With 22 Aboard, Government Says</a> NYT: The search for the plane and its passengers and crew was being hampered by bad weather. 
  <p class="updated_time"> 06:59 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61623278?at_medium=RSS&at_campaign=KARANGA">Ukraine war: BBC interview with Russian ambassador to the UK</a> BBC: In a BBC interview, Andrei Kelin is shown CCTV footage of Russian soldiers committing alleged war crimes. 
- <p class="updated_time"> 10:32 PM CT, May. 28 </p> 
- <a href="https://www.nytimes.com/2022/05/28/world/europe/russian-soldiers-military-supplies.html">Russians Crowdsource Supplies for Their Army in Ukraine</a> NYT: A grass-roots movement to get basic supplies to soldiers fighting in Ukraine reflects the growing recognition among Russians that their military was unprepared for major conflict. 
  <p class="updated_time"> 12:52 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/dublin-trinity-library-restoration.html">An Irish National Treasure Gets Set for a Long-Needed Restoration</a> NYT: The majestic Old Library at Trinity College Dublin, where some of Ireland’s most ancient and valuable books are stored, is a popular tourist attraction. 
  <p class="updated_time"> 12:14 PM CT, May. 28 </p> 
@@ -197,8 +195,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/28/world/europe/ukraine-war-last-day-of-school.html">Sounds of bombardment drown out the ‘last bell’ for the final day of school in Ukraine.</a> NYT: On what is usually a day of festivities and fun, many of Ukraine’s students ended the academic year amid the sounds of war or from abroad. 
  <p class="updated_time"> 10:23 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/obituaries/cardinal-angelo-sodano-dies.html">Cardinal Angelo Sodano, Vatican Power Broker Linked With Sex Abuse Cover-Ups, Dies at 94</a> NYT: He rose to the second-highest-ranking position in the Roman Catholic Church, but his reputation was stained by his handling of sex-abuse cases. 
- <p class="updated_time"> 09:16 AM CT, May. 28 </p> 
- <a href="https://www.nytimes.com/2022/05/28/us/politics/russia-syria-aid-refugees.html">Diplomats Fear Russia May Use Syrian Aid as Bargaining Chip in Ukraine</a> NYT: Countries in Europe and the Middle East could see a new surge in refugees if Russia shuts down the last humanitarian convoy route into Syria. 
 
 
 </details>
@@ -298,10 +294,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/28/1101931160/baby-formula-shortage-overseas-shipments">More baby formula shipments arrive from overseas in an effort to ease the shortage</a> NPR: Australia is sending the equivalent of more than 27 million 8-ounce bottles of goat's milk and other baby formulas, as the U.S. government works to replenish store shelves during the shortage. 
  <p class="updated_time"> 10:58 AM CT, May. 28 </p> 
  <a href="https://www.cnn.com/2022/05/28/politics/fact-check-false-viral-tweets-texas-shooting-abbott-cruz/index.html">Fact check: Debunking false viral tweets about Abbott and Cruz after Texas mass shooting </a> CNN: In the wake of the Tuesday mass shooting at an elementary school in Texas, Twitter users went viral by making false claims about two of the state's most prominent politicians: Gov. Greg Abbott and Sen. Ted Cruz, both Republicans. 
- <p class="updated_time"> 09:16 AM CT, May. 28 </p> 
- <a href="https://www.nytimes.com/2022/05/28/us/politics/russia-syria-aid-refugees.html">Diplomats Fear Russia May Use Syrian Aid as Bargaining Chip in Ukraine</a> NYT: Countries in Europe and the Middle East could see a new surge in refugees if Russia shuts down the last humanitarian convoy route into Syria. 
- <p class="updated_time"> 09:04 AM CT, May. 28 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2022/05/28/the-conspiracy-theory-convention-00035846"> The conspiracy theory convention</a> Politico Playbook: And the Georgia Trump investigation heats up. 
 
 
 </details>
