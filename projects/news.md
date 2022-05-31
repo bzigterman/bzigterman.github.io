@@ -9,11 +9,11 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:43 PM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">Live Updates: Europe Promises New Ways to Aid Ukraine as Fight Rages in East</a> NYT: European Union leaders concluded a two-day summit aimed at raising the invasion’s cost to Russia and bolstering the battered Ukrainian economy. The two armies traded blistering barrages of artillery fire and fought pitched battles in the last Ukrainian-controlled city in the Luhansk region. 
+ <p class="updated_time"> 12:57 PM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">Live Updates: E.U. Looks to Get Ukraine Grain Exports Moving Again</a> NYT: After agreeing on an oil embargo to punish Moscow, European leaders moved to tackle the backlog of Ukrainian crops  that is threatening a global food crisis. 
  <p class="updated_time"> 12:18 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61645243?at_medium=RSS&at_campaign=KARANGA">Iran lied about banned nuclear activity using stolen documents - Israel</a> BBC: Israel's PM shows what he says is proof that Iran deceived the world's nuclear agency. 
- <p class="updated_time"> 11:49 AM CT, May. 31 </p> 
+ <p class="updated_time"> 12:00 PM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273">Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower</a> WSJ: Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower 
  <p class="updated_time"> 11:48 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/americas/google-translate-quechua.html">‘Allinllachu.’ Google Translate Adds Quechua to Its Platform.</a> NYT: The addition of one of the most widely spoken Indigenous languages in the Americas could help public servants and health workers connect with their communities. (And by the way, ‘allinllachu’ means hello.) 
@@ -27,12 +27,12 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/31/health/omicron-deaths-age-65-elderly.html">During the Omicron Wave, Death Rates Soared for Older People</a> NYT: Last year, people 65 and older died from Covid at lower rates than in previous waves. But with Omicron and waning immunity, death rates rose again. 
  <p class="updated_time"> 11:01 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61647690?at_medium=RSS&at_campaign=KARANGA">Rain storm claims 100 lives in north-east Brazil</a> BBC: Landslides and torrents of mud triggered by rain demolish poor neighbourhoods and shanty towns. 
- <p class="updated_time"> 10:49 AM CT, May. 31 </p> 
+ <p class="updated_time"> 11:00 AM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
+ <p class="updated_time"> 10:00 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/guided-u-s-rockets-could-double-ukraines-strike-range-11653989401">Guided U.S. Rockets Could Double Ukraine’s Strike Range</a> WSJ: Guided U.S. Rockets Could Double Ukraine’s Strike Range 
  <p class="updated_time"> 09:56 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/asia/ukrainians-donbas-russia-war.html">Some Ukrainians Stay Behind in Eastern Donbas Region</a> NYT: The Russian offensive grinds on, but not everyone is leaving the eastern Donbas region. 
- <p class="updated_time"> 09:49 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/guided-u-s-rockets-could-double-ukraines-strike-range-11653989401">Guided U.S. Rockets Could Double Ukraine’s Strike Range</a> WSJ: Guided U.S. Rockets Could Double Ukraine’s Strike Range 
  <p class="updated_time"> 09:34 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/sections/money/2022/05/31/1101774189/fear-the-vibe-shift-are-we-entering-a-recession">Fear The Vibe Shift: Are We Entering A Recession?</a> NPR: Despite low unemployment, solid spending, and continued job growth, signs are flashing that the U.S. economy is headed for another downturn. 
  <p class="updated_time"> 09:32 AM CT, May. 31 </p> 
@@ -43,10 +43,10 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/31/world/europe/macron-diplomats-strike-france.html">French Diplomats to Strike Over Loss of Separate Status</a> NYT: President Emmanuel Macron wants more flexibility to move senior officials between roles, but diplomats see a demotion and potential cronyism. 
  <p class="updated_time"> 09:12 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61643533?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Refugee from Popasna spots looted possessions on Russian tank</a> BBC: The Ukrainian says she recognises items from her house on a Russian tank, including a new boiler. 
+ <p class="updated_time"> 09:00 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/russia-targets-ukraines-rail-links-for-military-gains-11653987818">Russia Targets Ukraine’s Rail Links for Military Gains</a> WSJ: Russia Targets Ukraine’s Rail Links for Military Gains 
  <p class="updated_time"> 08:50 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61638860?at_medium=RSS&at_campaign=KARANGA">Russian oil: EU agrees compromise deal on banning imports</a> BBC: The latest round of EU-wide sanctions excludes pipeline oil imports after Hungary opposed a total ban. 
- <p class="updated_time"> 08:49 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/russia-targets-ukraines-rail-links-for-military-gains-11653987818">Russia Targets Ukraine’s Rail Links for Military Gains</a> WSJ: Russia Targets Ukraine’s Rail Links for Military Gains 
  <p class="updated_time"> 08:46 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/climate/united-states-climate-ranking-trump.html">Trump Policies Sent U.S. Tumbling in a Climate Ranking</a> NYT: The Environmental Performance Index, published every two years by researchers at Yale and Columbia, found only Denmark and Britain on sustainable paths to net-zero emissions by 2050. 
  <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
@@ -55,7 +55,7 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/31/1102105392/australias-new-prime-minister-albanese-appoints-record-10-women-to-his-cabinet">Australia's new prime minister appoints a record 10 women to his Cabinet</a> NPR: Australia's new government will look more like its country, as Prime Minister Anthony Albanese has named 10 women to his incoming Cabinet. 
  <p class="updated_time"> 08:19 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/29/health/coronavirus-testing-positive.html">Can I Stop Isolating If I’m Still Testing Positive for the Virus?</a> NYT: Some people may test positive for the coronavirus for 10 days or longer, but interpreting those results remains difficult, experts said. 
- <p class="updated_time"> 07:49 AM CT, May. 31 </p> 
+ <p class="updated_time"> 08:00 AM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 06:53 AM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/israel-u-a-e-sign-free-trade-agreement-11653985544">Israel, U.A.E. Sign Free-Trade Agreement</a> WSJ: Officials from both countries said the deal would boost business ties less than two years after they established formal diplomatic relations in a U.S.-brokered deal. 
@@ -202,6 +202,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:56 PM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/business/biden-powell-meeting-inflation.html">Biden and Powell Are Set to Meet to Discuss U.S. and Global Economy</a> NYT: Big risks threaten economic growth around the world as central banks try to bring prices under control. 
  <p class="updated_time"> 12:46 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/michael-sussmann-durham-fbi.html">Michael Sussmann Is Acquitted in Case Brought by Trump-Era Prosecutor</a> NYT: The Democratic-linked lawyer was accused of lying about his clients to the F.B.I. when he passed on a tip about possible connections between Donald J. Trump and Russia. 
  <p class="updated_time"> 11:11 AM CT, May. 31 </p> 
