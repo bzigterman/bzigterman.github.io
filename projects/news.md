@@ -9,12 +9,26 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:02 AM CT, May. 31 </p> 
+ <p class="updated_time"> 11:38 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">Live Updates: Europe Promises New Ways to Aid Ukraine as Fight Rages in East</a> NYT: European Union leaders concluded a two-day summit aimed at raising the invasion’s cost to Russia and bolstering the battered Ukrainian economy. The two armies traded blistering barrages of artillery fire and fought pitched battles in the last Ukrainian-controlled city in the Luhansk region. 
- <p class="updated_time"> 10:00 AM CT, May. 31 </p> 
+ <p class="updated_time"> 11:37 AM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/world/americas/google-translate-quechua.html">‘Allinllachu.’ Google Translate Adds Quechua to its Platform</a> NYT: The addition of one of the most widely spoken Indigenous languages in the Americas could help public servants and health workers connect with their communities. (And by the way, ‘allinllachu’ means hello.) 
+ <p class="updated_time"> 11:22 AM CT, May. 31 </p> 
+ <a href="https://www.npr.org/2022/05/31/1102035346/in-two-photos-see-how-bucha-is-erasing-the-scars-of-russias-invasion">In two photos, see how Bucha is erasing the scars of Russia's invasion</a> NPR: First came the battle for Bucha. Now there's the battle to rebuild Bucha. This town was a scene of devastation in the early days of the war. Today you hear pounding hammers and screeching buzzsaws. 
+ <p class="updated_time"> 11:11 AM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/world/africa/mali-massacre-investigation.html">In Mali, a Massacre With a Russian Footprint</a> NYT: Civilian deaths have spiked in Mali since Russian mercenaries of the Wagner Group began operating alongside the military. In late March, hundreds were executed in the village of Moura. 
+ <p class="updated_time"> 11:04 AM CT, May. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-61647687?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: China eases Covid restrictions after two months</a> BBC: China's biggest city, a vital global trade hub, begins to relax crippling Covid restrictions. 
+ <p class="updated_time"> 11:03 AM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/health/omicron-deaths-age-65-elderly.html">During the Omicron Wave, Death Rates Soared for Older People</a> NYT: Last year, people 65 and older died from Covid at lower rates than in previous waves. But with Omicron and waning immunity, death rates rose again. 
+ <p class="updated_time"> 11:01 AM CT, May. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61647690?at_medium=RSS&at_campaign=KARANGA">Rain storm claims 100 lives in north-east Brazil</a> BBC: Landslides and torrents of mud triggered by rain demolish poor neighbourhoods and shanty towns. 
+ <p class="updated_time"> 10:44 AM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273">Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower</a> WSJ: Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower 
  <p class="updated_time"> 09:56 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/asia/ukrainians-donbas-russia-war.html">Some Ukrainians Stay Behind in Eastern Donbas Region</a> NYT: The Russian offensive grinds on, but not everyone is leaving the eastern Donbas region. 
+ <p class="updated_time"> 09:44 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
  <p class="updated_time"> 09:34 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/sections/money/2022/05/31/1101774189/fear-the-vibe-shift-are-we-entering-a-recession">Fear The Vibe Shift: Are We Entering A Recession?</a> NPR: Despite low unemployment, solid spending, and continued job growth, signs are flashing that the U.S. economy is headed for another downturn. 
  <p class="updated_time"> 09:32 AM CT, May. 31 </p> 
@@ -27,23 +41,23 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/31/world/europe/macron-diplomats-strike-france.html">French Diplomats to Strike Over Loss of Separate Status</a> NYT: President Emmanuel Macron wants more flexibility to move senior officials between roles, but diplomats see a demotion and potential cronyism. 
  <p class="updated_time"> 09:12 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61643533?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Refugee from Popasna spots looted possessions on Russian tank</a> BBC: The Ukrainian says she recognises items from her house on a Russian tank, including a new boiler. 
- <p class="updated_time"> 09:00 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
  <p class="updated_time"> 08:50 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61638860?at_medium=RSS&at_campaign=KARANGA">Russian oil: EU agrees compromise deal on banning imports</a> BBC: The latest round of EU-wide sanctions excludes pipeline oil imports after Hungary opposed a total ban. 
  <p class="updated_time"> 08:46 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/climate/united-states-climate-ranking-trump.html">Trump Policies Sent U.S. Tumbling in a Climate Ranking</a> NYT: The Environmental Performance Index, published every two years by researchers at Yale and Columbia, found only Denmark and Britain on sustainable paths to net-zero emissions by 2050. 
+ <p class="updated_time"> 08:44 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/guided-u-s-rockets-could-double-ukraines-strike-range-11653989401">Guided U.S. Rockets Could Double Ukraine’s Strike Range</a> WSJ: Guided U.S. Rockets Could Double Ukraine’s Strike Range 
  <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/australia/china-united-states-pacific.html">Why China Is Miles Ahead in a Pacific Race for Influence</a> NYT: To many observers, the South Pacific today reveals what American decline looks like. Even as Washington tries to step up its game, it is still far behind, mistaking speeches for impact and interest for influence. 
  <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102105392/australias-new-prime-minister-albanese-appoints-record-10-women-to-his-cabinet">Australia's new prime minister appoints a record 10 women to his Cabinet</a> NPR: Australia's new government will look more like its country, as Prime Minister Anthony Albanese has named 10 women to his incoming Cabinet. 
  <p class="updated_time"> 08:19 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/29/health/coronavirus-testing-positive.html">Can I Stop Isolating If I’m Still Testing Positive for the Virus?</a> NYT: Some people may test positive for the coronavirus for 10 days or longer, but interpreting those results remains difficult, experts said. 
- <p class="updated_time"> 08:00 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/guided-u-s-rockets-could-double-ukraines-strike-range-11653989401">Guided U.S. Rockets Could Double Ukraine’s Strike Range</a> WSJ: Guided U.S. Rockets Could Double Ukraine’s Strike Range 
- <p class="updated_time"> 07:00 AM CT, May. 31 </p> 
+ <p class="updated_time"> 07:44 AM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/russia-targets-ukraines-rail-links-for-military-gains-11653987818">Russia Targets Ukraine’s Rail Links for Military Gains</a> WSJ: Russia Targets Ukraine’s Rail Links for Military Gains 
- <p class="updated_time"> 06:00 AM CT, May. 31 </p> 
+ <p class="updated_time"> 06:53 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/israel-u-a-e-sign-free-trade-agreement-11653985544">Israel, U.A.E. Sign Free-Trade Agreement</a> WSJ: Officials from both countries said the deal would boost business ties less than two years after they established formal diplomatic relations in a U.S.-brokered deal. 
+ <p class="updated_time"> 06:44 AM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 05:51 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61647385?at_medium=RSS&at_campaign=KARANGA">What do Russian papers say about sanctions?</a> BBC: As the EU announces new penalties, Steve Rosenberg looks at what Russian media has to say. 
@@ -69,8 +83,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/31/1102097736/denmark-will-hold-a-referendum-on-eu-defense-amid-ukraine-war">Denmark will hold a referendum on EU defense amid Ukraine war</a> NPR: Danish voters are being asked to choose whether to abandon the country's decision three decades ago to opt out of the bloc's common defense policy. 
  <p class="updated_time"> 03:41 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/americas/hurricane-mexico-agatha-forecast.html">Agatha Moves Across Southern Mexico as a Tropical Storm</a> NYT: The storm, which made landfall as Category 2 hurricane, was expected to move inland over the state of Oaxaca on Tuesday before dissipating. 
- <p class="updated_time"> 02:29 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/israel-u-a-e-sign-free-trade-agreement-11653985544">Israel, U.A.E. Sign Free-Trade Agreement</a> WSJ: Officials from both countries said the deal would boost business ties less than two years after they established formal diplomatic relations in a U.S.-brokered deal. 
  <p class="updated_time"> 02:05 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102095716/shanghai-eases-into-gradually-reopening-from-its-covid-19-lockdown">Shanghai eases into gradually reopening from its COVID-19 lockdown</a> NPR: China's largest city and global financial hub plans to restore mass transit and gradually reopen schools 
  <p class="updated_time"> 02:03 AM CT, May. 31 </p> 
@@ -81,8 +93,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/football/61636938?at_medium=RSS&at_campaign=KARANGA">Champions League final: Uefa commissions independent report into scenes outside stadium</a> BBC: Uefa commissions an independent report into the scenes that delayed Saturday's Champions League final between Liverpool and Real Madrid. 
  <p class="updated_time"> 12:07 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/asia/nepal-plane-crash.html">Nepal Plane Crash: All 22 Bodies Are Recovered</a> NYT: The plane went down in bad weather on Sunday while carrying passengers to Jomsom, a tourist destination popular with trekkers. 
- <p class="updated_time"> 11:51 PM CT, May. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-61642217?at_medium=RSS&at_campaign=KARANGA">China sends 30 warplanes into Taiwan air defence zone</a> BBC: The incursions come days after US President Joe Biden issued a strong warning to China over Taiwan. 
  <p class="updated_time"> 11:32 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-61602153?at_medium=RSS&at_campaign=KARANGA">Crown Resorts: Casino firm fined over illegal China dealings</a> BBC: Australia's Crown Resorts acknowledged its "historic failings" and promised to work on reforms. 
  <p class="updated_time"> 09:17 PM CT, May. 30 </p> 
@@ -103,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/30/1102083611/eu-agree-partial-russian-oil-embargo">The EU will block most Russian oil imports as Hungary's Orbán fights off a total ban</a> NPR: Pipeline deliveries, which are critical to Hungary, Slovakia and the Czech Republic, won't be affected by the ban. The much more complicated issue of Russian natural gas remains unresolved. 
  <p class="updated_time"> 05:31 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/americas/colombia-presidential-election-hernandez-petro.html">Rodolfo Hernández is Colombia’s Trump and He May Be Headed for the Presidential Palace</a> NYT: The Colombian establishment is lining up behind Rodolfo Hernández, a populist businessman with an incendiary streak, to defeat the leftist former rebel Gustavo Petro. 
- <p class="updated_time"> 05:28 PM CT, May. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61641543?at_medium=RSS&at_campaign=KARANGA">Handguns: Canada proposes complete freeze on ownership</a> BBC: Prime Minister Justin Trudeau says there is no reason anyone needs a gun other than for sports or hunting. 
  <p class="updated_time"> 05:15 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Hurricane Agatha Is Set to Hit Southern Mexico Today</a> NYT: With sustained winds of up to 110 miles per hour, Agatha, the first named storm in the eastern Pacific this year, was threatening the Mexican state of Oaxaca on Monday, forecasters said. 
  <p class="updated_time"> 04:25 PM CT, May. 30 </p> 
@@ -149,8 +157,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/travel/sicily-regional-trains.html">Circling Sicily on Its Regional Trains</a> NYT: A Dutch photographer, documenting the culture of regional train travel, managed to get around the Italian island for less than $100. Here’s what she saw. 
  <p class="updated_time"> 03:51 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/politics/turkey-nato-russia.html">For NATO, Turkey Is a Disruptive Ally</a> NYT: President Recep Tayyip Erdogan’s block on NATO membership for Sweden and Finland is likely to be managed, but Washington and the rest of the alliance are annoyed. 
- <p class="updated_time"> 03:44 AM CT, May. 30 </p> 
- <a href="https://www.npr.org/2022/05/30/1102028311/china-falls-short-on-big-deal-in-south-pacific-but-finds-smaller-wins">China falls short on big deal in South Pacific but finds smaller wins</a> NPR: Beijing's hopes to developing a marine plan for fisheries holding police training fell short over some countries' concerns over increasing geopolitical tensions and threatening regional stability. 
  <p class="updated_time"> 01:28 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/ukraine-russia-language.html">For Russian-Speaking Ukrainians, Language Clubs Offer Way to Defy Invaders</a> NYT: Many Ukraine citizens speak Russian as their first language. Volunteer organizations are helping them improve their Ukrainian and abandon “the occupiers’ language.” 
  <p class="updated_time"> 12:01 AM CT, May. 30 </p> 
@@ -193,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/28/world/europe/dublin-trinity-library-restoration.html">An Irish National Treasure Gets Set for a Long-Needed Restoration</a> NYT: The majestic Old Library at Trinity College Dublin, where some of Ireland’s most ancient and valuable books are stored, is a popular tourist attraction. 
  <p class="updated_time"> 12:14 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/australia/dna-phenotyping.html">Australia Wields a New DNA Tool to Crack Missing-Person Mysteries</a> NYT: The technique can predict a person’s ancestry and physical traits without the need for a match with an existing sample in a database. 
- <p class="updated_time"> 11:30 AM CT, May. 28 </p> 
- <a href="https://www.nytimes.com/2022/05/28/world/europe/ukraine-war-last-day-of-school.html">Sounds of bombardment drown out the ‘last bell’ for the final day of school in Ukraine.</a> NYT: On what is usually a day of festivities and fun, many of Ukraine’s students ended the academic year amid the sounds of war or from abroad. 
 
 
 </details>
@@ -202,6 +206,12 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:42 AM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/us/politics/michael-sussmann-durham-fbi.html">Michael Sussmann Is Acquitted in Case Brought by Trump-Era Prosecutor</a> NYT: The Democratic-linked lawyer was accused of lying about his clients to the F.B.I. when he passed on a tip about possible connections between Donald J. Trump and Russia. 
+ <p class="updated_time"> 11:11 AM CT, May. 31 </p> 
+ <a href="https://www.npr.org/2022/05/31/1102150260/special-counsel-durham-fails-first-courtroom-test-in-his-three-year-probe">Special Counsel Durham fails first courtroom test in his three-year probe </a> NPR: Michael Sussmann was acquitted of one charge of lying to the FBI in the first verdict rendered during the probe by a special counsel appointed by the Trump administration. 
+ <p class="updated_time"> 11:07 AM CT, May. 31 </p> 
+ <a href="https://www.politico.com/news/2022/05/31/sussmann-acquitted-trump-special-counsel-00036033">Sussmann acquitted on charge brought by special counsel Durham</a> Politico: The jury acquitted Michael Sussmann, 57, on a charge that he lied when he allegedly denied he was acting on behalf of any client in alerting the FBI to claims that a secret server linked Trump and a Moscow bank. 
  <p class="updated_time"> 10:12 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/republicans-voter-fraud-claims-2022.html">They Insisted the 2020 Election Was Tainted. Their 2022 Primary Wins? Not So Much.</a> NYT: Republicans are accepting their primary victories with little concern about the voter fraud they once falsely claimed caused Donald J. Trump’s loss. 
  <p class="updated_time"> 10:10 AM CT, May. 31 </p> 
@@ -226,12 +236,12 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/31/biden-white-house-black-staffers-00035931">Biden sees exodus of Black staffers and some frustration among those who remain</a> Politico: The White House is historically diverse. But there are concerns internally about a wave of departures and the current culture. 
  <p class="updated_time"> 03:30 AM CT, May. 31 </p> 
  <a href="https://www.politico.com/news/2022/05/31/tom-cotton-gop-conservatives-00035784">Tom Cotton's rigid conservatism</a> Politico: He doesn't say “no” when asked about 2024. But the Arkansan does rule out giving ground on much — from immigration to criminal justice to foreign policy. 
- <p class="updated_time"> 03:30 AM CT, May. 31 </p> 
- <a href="https://www.politico.com/news/2022/05/31/hacking-politicians-phones-00035848">Why we can expect more hacking of politicians’ phones</a> Politico: Increasing discoveries of spyware infections on the devices of politicians and government officials highlight a hard-to-solve tradeoff. 
  <p class="updated_time"> 09:00 PM CT, May. 30 </p> 
  <a href="https://www.politico.com/news/2022/05/30/peter-navarro-grand-jury-trump-00035904">Former Trump aide Navarro says he has received a grand jury subpoena related to Jan. 6</a> Politico: He claims they have asked for records of “any communications” with the former president. 
  <p class="updated_time"> 07:36 PM CT, May. 30 </p> 
  <a href="https://www.politico.com/news/2022/05/30/texas-shooting-police-delay-uvalde-00035921">Probe could shed light on police time lapse in Uvalde deaths</a> Politico: The questions have led to further agony about last week's school shooting. 
+ <p class="updated_time"> 05:57 PM CT, May. 30 </p> 
+ <a href="https://www.politico.com/news/2022/05/30/pm-trudeau-stricter-gun-rules-canada-00035900">Invoking Uvalde, Trudeau out to freeze handgun sales</a> Politico: “We need only look south of the border to know that if we do not take action, firmly and rapidly, it gets worse,” the prime minister said as he introduced new measures. 
  <p class="updated_time"> 05:31 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/americas/colombia-presidential-election-hernandez-petro.html">Rodolfo Hernández is Colombia’s Trump and He May Be Headed for the Presidential Palace</a> NYT: The Colombian establishment is lining up behind Rodolfo Hernández, a populist businessman with an incendiary streak, to defeat the leftist former rebel Gustavo Petro. 
  <p class="updated_time"> 04:32 PM CT, May. 30 </p> 
@@ -242,8 +252,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/us/politics/republican-poll-monitors-election-activists.html">Lawyer Who Plotted to Overturn Trump Loss Recruits Election Deniers to Watch Over the Vote</a> NYT: A central figure in the scheme to reverse the 2020 election is mobilizing grass-roots activists into an “army of citizens” trained to aggressively monitor elections. 
  <p class="updated_time"> 11:14 AM CT, May. 30 </p> 
  <a href="https://www.politico.com/news/2022/05/30/russia-ukraine-fighting-00035891">Russian, Ukrainian troops fight block by block in key city</a> Politico: In recent days, the fighting has focused on Sievierodonetsk. 
- <p class="updated_time"> 09:55 AM CT, May. 30 </p> 
- <a href="https://www.politico.com/news/2022/05/30/biden-guns-congress-00035882">Biden says 'rational Republicans' offer hope for gun legislation</a> Politico: “I think there’s a recognition on their part … that we can’t continue like this," he said. 
  <p class="updated_time"> 09:48 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/politics/veterans-small-business.html">These Veterans Started Businesses Inspired by Their Deployments</a> NYT: Some veterans have started businesses that draw from their experiences in Iraq and Afghanistan, and thrived. 
  <p class="updated_time"> 08:58 AM CT, May. 30 </p> 
