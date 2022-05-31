@@ -9,6 +9,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:53 PM CT, May. 31 </p> 
+ <a href="https://www.npr.org/2022/05/31/1102260634/ukraine-and-scotland-face-off-on-the-football-field-on-wednesday">Ukraine and Scotland face off on the football field on Wednesday</a> NPR: NPR's Mary Louise Kelly talks with Alan Pattullo, specialist sports writer at The Scotsman, about the football match between Scotland and Ukraine. 
  <p class="updated_time"> 04:43 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/mali-massacre-investigation.html">In Mali, a Massacre With a Russian Footprint</a> NYT: Civilian deaths have spiked in Mali since Russian mercenaries of the Wagner Group began operating alongside the military. In late March, hundreds were executed in the village of Moura. 
  <p class="updated_time"> 04:42 PM CT, May. 31 </p> 
@@ -33,33 +35,33 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/31/1102260534/russia-presses-a-major-offensive-in-eastern-ukraine-as-other-areas-regain-normal">Russia presses a major offensive in eastern Ukraine as other areas regain normalcy</a> NPR: Russian military ambitions have narrowed, but it's still pressing a major offensive in eastern Ukraine. Meanwhile, places from which Russian troops retreated are rapidly regaining a sense of normalcy. 
  <p class="updated_time"> 04:03 PM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1101265753/russia-ukraine-belarus-belarusian-volunteers-poland">These Belarusians join the fight against Russia, defying their Moscow-backed regime</a> NPR: Belarusians who see their country's fate as linked to Ukraine's victory are joining an anti-Kremlin resistance that includes activists, ex-spies and a Belarusian brigade fighting for Ukraine. 
+ <p class="updated_time"> 04:01 PM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273">Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower</a> WSJ: Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower 
  <p class="updated_time"> 03:51 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/wagner-group-africa.html">How Russia’s Wagner Group Is Expanding in Africa</a> NYT: Best known for its mercenaries, the Wagner Group also mines diamonds, spreads disinformation and props up autocrats in an effort to grow Russia’s footprint. 
  <p class="updated_time"> 03:50 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/europe/russia-sievierodonetsk-ukraine-civilians.html">As Russians Advance, Thousands of Civilians are Trapped in Sievierodonetsk</a> NYT: The eastern Ukrainian city’s younger residents have largely evacuated, leaving older citizens to bear the brunt of Moscow’s assault. 
- <p class="updated_time"> 03:47 PM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273">Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower</a> WSJ: Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower 
  <p class="updated_time"> 03:21 PM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102244756/k-pop-stars-bts-went-to-the-white-house-to-talk-about-anti-asian-hate-crimes">K-Pop stars BTS went to the White House to talk about anti-Asian hate crimes</a> NPR: K-Pop stars BTS met with President Biden Tuesday to talk about inclusion and representation. There's been an increase in hate crimes against Asian Americans and Native Hawaiian and Pacific Islanders. 
  <p class="updated_time"> 03:07 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/canada/british-columbia-decriminalizes-drugs.html">Canada Decriminalizes Opioids and Other Drugs in British Columbia</a> NYT: With opioid deaths skyrocketing in the western province, Canada has temporarily decriminalized the substance and three others for personal use. 
+ <p class="updated_time"> 03:01 PM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Sets Harshest Russian Sanctions, Targeting Oil and Insurance</a> WSJ: EU Sets Harshest Russian Sanctions, Targeting Oil and Insurance 
  <p class="updated_time"> 02:55 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/americas/google-translate-quechua.html">‘Allinllachu.’ Google Translate Adds Quechua to Its Platform.</a> NYT: The addition of one of the most widely spoken Indigenous languages in the Americas could help public servants and health workers connect with their communities. (And by the way, “allinllachu” means hello.) 
  <p class="updated_time"> 02:52 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-sanctions-central-bank-assets.html">Seizing Russian Assets to Help Ukraine Sets Off White House Debate</a> NYT: Some European officials want to use more than $300 billion in Russian central bank assets to rebuild Ukraine. But Biden administration officials warn that diverting those funds could be illegal. 
- <p class="updated_time"> 02:47 PM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Sets Harshest Russian Sanctions, Targeting Oil and Insurance</a> WSJ: EU Sets Harshest Russian Sanctions, Targeting Oil and Insurance 
  <p class="updated_time"> 02:22 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-61649521?at_medium=RSS&at_campaign=KARANGA">BTS: 'K-Wave' arrives at White House with anti-Asian hate summit</a> BBC: K-pop stars BTS are taking a break from music to help the White House take on anti-Asian crimes. 
+ <p class="updated_time"> 02:01 PM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
  <p class="updated_time"> 01:50 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/russian-soldiers-war-crimes-trial.html">Ukrainian Court Sentences 2 Russian Soldiers in War Crimes Trial</a> NYT: The soldiers, an artillery driver and a gunner, had been found guilty of shelling the town of Derhachi in northeastern Ukraine. 
- <p class="updated_time"> 01:47 PM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
- <p class="updated_time"> 12:47 PM CT, May. 31 </p> 
+ <p class="updated_time"> 01:01 PM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/shanghai-ready-to-exit-lockdown-as-covid-cases-drop-11654018379">Shanghai to Exit Lockdown as Covid Cases Drop</a> WSJ: Shanghai to Exit Lockdown as Covid Cases Drop 
  <p class="updated_time"> 12:18 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61645243?at_medium=RSS&at_campaign=KARANGA">Iran lied about banned nuclear activity using stolen documents - Israel</a> BBC: Israel's PM shows what he says is proof that Iran deceived the world's nuclear agency. 
- <p class="updated_time"> 11:47 AM CT, May. 31 </p> 
+ <p class="updated_time"> 12:01 PM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 11:23 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102035346/in-two-photos-see-how-bucha-is-erasing-the-scars-of-russias-invasion">In two photos, see how Bucha is erasing the scars of Russia's invasion</a> NPR: First came the battle for Bucha. Now there's the battle to rebuild Bucha. This town was a scene of devastation in the early days of the war. Today you hear pounding hammers and screeching buzzsaws. 
@@ -151,8 +153,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/30/1102083611/eu-agree-partial-russian-oil-embargo">The EU will block most Russian oil imports as Hungary's Orbán fights off a total ban</a> NPR: Pipeline deliveries, which are critical to Hungary, Slovakia and the Czech Republic, won't be affected by the ban. The much more complicated issue of Russian natural gas remains unresolved. 
  <p class="updated_time"> 05:31 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/americas/colombia-presidential-election-hernandez-petro.html">Rodolfo Hernández is Colombia’s Trump and He May Be Headed for the Presidential Palace</a> NYT: The Colombian establishment is lining up behind Rodolfo Hernández, a populist businessman with an incendiary streak, to defeat the leftist former rebel Gustavo Petro. 
- <p class="updated_time"> 04:25 PM CT, May. 30 </p> 
- <a href="https://www.npr.org/2022/05/30/1102070088/a-mothers-weekend-errands-show-the-impact-of-the-economic-crisis-in-lebanon">A mother's weekend errands show the impact of the economic crisis in Lebanon</a> NPR: The calculations of one mother in Beirut shows the struggles to feed a family amid Lebanon's years-long economic collapse. 
  <p class="updated_time"> 02:15 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/mona-lisa-pastry-louvre.html">Man Throws Pastry at Mona Lisa, Smearing Cream on Glass Case</a> NYT: The painting was not harmed and the man, who officials said was in a wheelchair and had faked a disability to get close to it, was taken into custody. 
  <p class="updated_time"> 01:08 PM CT, May. 30 </p> 
@@ -212,6 +212,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:44 PM CT, May. 31 </p> 
+ <a href="https://www.politico.com/news/2022/05/31/mccormick-oz-supremecourt-recount-pennsylvania-00036128">Pa. GOP Senate race upended by court cases</a> Politico: Supreme Court Justice Samuel Alito dealt a blow to David McCormick's campaign Tuesday with a critical federal ruling. 
  <p class="updated_time"> 04:34 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-military-eastern-ukraine.html">Russian Military Is Repeating Mistakes in Eastern Ukraine, U.S. Says</a> NYT: President Vladimir V. Putin sent in a new commander in April, but Russian troops are still facing morale and other problems, American officials say. 
  <p class="updated_time"> 04:31 PM CT, May. 31 </p> 
@@ -292,8 +294,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/30/war-ukraine-hunger-africa-food-00035876">War in Ukraine adds to food price hikes, hunger in Africa</a> Politico: African countries imported 44 percent of their wheat from Russia and Ukraine from 2018 to 2020. 
  <p class="updated_time"> 06:17 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102029154/independent-probe-of-uvalde-shooting-is-the-right-call-texas-state-rep-white-say">Independent probe of Uvalde shooting is the right call, Texas state Rep. White says</a> NPR: NPR's Rachel Martin talks to state Rep. James White, an East Texas Republican who supports gun rights, about firearm legislation following the mass shooting at Robb Elementary School in Uvalde. 
- <p class="updated_time"> 06:00 AM CT, May. 30 </p> 
- <a href="https://www.politico.com/news/2022/05/30/william-burns-cia-putin-russia-00035863">The Putinologist: CIA chief’s long history with Putin gives him special insight</a> Politico: Burns’ extensive experience in Russia makes him a singular figure among President Joe Biden’s aides. 
  <p class="updated_time"> 05:47 AM CT, May. 30 </p> 
  <a href="https://www.cnn.com/2022/05/30/politics/senate-house-primaries-2022-takeaways/index.html">7 takeaways from the 2022 primary season so far</a> CNN: After the first month of multiple major primaries in the 2022 election season, both parties are facing uncertainty over their direction -- and whose influence will dominate the next wave of nominating contests. 
  <p class="updated_time"> 04:01 AM CT, May. 30 </p> 
@@ -310,8 +310,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/29/1102015377/biden-mourns-with-community-in-uvalde-visit">Biden mourns with community in Uvalde visit</a> NPR: President Biden is traveling to Uvalde, Texas, to mourn with the community. It's his second visit to a community that's been devastated by a mass shooting in less than two weeks. 
  <p class="updated_time"> 02:15 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/us/politics/2000-mules-trump-conspiracy-theory.html">‘2000 Mules’ Repackages Trump’s Election Lies</a> NYT: A new documentary from Trump allies makes the latest case the election was stolen, but the group behind the claim has been assailed even by some on the hard right. 
- <p class="updated_time"> 02:06 PM CT, May. 29 </p> 
- <a href="https://www.politico.com/gallery/2022/05/29/photos-memorials-texas-school-uvalde-00035865">Photos: Mourning in Texas</a> Politico: Memorial tributes continue for the 19 children and two teachers shot to death by a heavily armed gunman at Robb Elementary School in Uvalde, Texas, on May 24, 2022. 
  <p class="updated_time"> 10:39 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2022/05/29/trumps-new-obsession-00035857"> Trump’s new obsession</a> Politico Playbook: And Republicans and Democrats take note of Herschel Walker's public comments. 
  <p class="updated_time"> 10:33 AM CT, May. 29 </p> 
@@ -324,8 +322,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/29/1100980188/u-s-house-loses-more-swing-in-2022">U.S. House loses more 'swing' in 2022</a> NPR: Only a small fraction of U.S. House seats are now considered "swing" seats that could be won by either party. 
  <p class="updated_time"> 11:16 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/us/politics/gun-laws-senate-uvalde-buffalo.html">Massacres Test Whether Washington Can Move Beyond Paralysis on Gun Laws</a> NYT: The United States is facing a widening gap between the scale of gun violence and what America’s political leaders can agree are the right responses to the carnage. 
- <p class="updated_time"> 04:52 PM CT, May. 28 </p> 
- <a href="https://www.npr.org/2022/05/28/1101955649/vice-president-kamala-harris-buffalo-victim-funeral">Harris calls for unity as Buffalo lays the last shooting victim to rest</a> NPR: Vice President Harris spoke during the memorial service for Ruth Whitfield, the last of 10 Black people killed in a racist attack at a Buffalo supermarket to be laid to rest. 
 
 
 </details>
