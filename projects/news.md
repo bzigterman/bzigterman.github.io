@@ -9,42 +9,50 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:24 PM CT, May. 31 </p> 
+ <p class="updated_time"> 03:13 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">Live Updates: E.U. Looks to Get Ukraine Grain Exports Moving Again</a> NYT: After agreeing on an oil embargo to punish Moscow, European leaders moved to tackle the backlog of Ukrainian crops that is threatening a global food crisis. 
- <p class="updated_time"> 01:54 PM CT, May. 31 </p> 
+ <p class="updated_time"> 03:08 PM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/world/africa/wagner-group-africa.html">How Russia’s Wagner Group Is Expanding in Africa</a> NYT: Best known for its mercenaries, the Wagner Group also mines diamonds, spreads disinformation and props up autocrats in an effort to grow Russia’s footprint. 
+ <p class="updated_time"> 03:08 PM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-military-eastern-ukraine.html">Russian Military Is Repeating Mistakes in Eastern Ukraine, U.S. Says</a> NYT: President Vladimir V. Putin sent in a new commander in April, but Russian troops are still facing morale and other problems, American officials say. 
+ <p class="updated_time"> 03:07 PM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/world/canada/british-columbia-decriminalizes-drugs.html">Canada Decriminalizes Opioids and Other Drugs in British Columbia</a> NYT: With opioid deaths skyrocketing in the western province, Canada has temporarily decriminalized the substance and three others for personal use. 
+ <p class="updated_time"> 02:55 PM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/world/americas/google-translate-quechua.html">‘Allinllachu.’ Google Translate Adds Quechua to Its Platform.</a> NYT: The addition of one of the most widely spoken Indigenous languages in the Americas could help public servants and health workers connect with their communities. (And by the way, “allinllachu” means hello.) 
+ <p class="updated_time"> 02:52 PM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-sanctions-central-bank-assets.html">Seizing Russian Assets to Help Ukraine Sets Off White House Debate</a> NYT: Some European officials want to use more than $300 billion in Russian central bank assets to rebuild Ukraine. But Biden administration officials warn that diverting those funds could be illegal. 
+ <p class="updated_time"> 02:22 PM CT, May. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-61649521?at_medium=RSS&at_campaign=KARANGA">BTS: 'K-Wave' arrives at White House with anti-Asian hate summit</a> BBC: K-pop stars BTS are taking a break from music to help the White House take on anti-Asian crimes. 
+ <p class="updated_time"> 02:19 PM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273">Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower</a> WSJ: Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower 
  <p class="updated_time"> 01:50 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/russian-soldiers-war-crimes-trial.html">Ukrainian Court Sentences 2 Russian Soldiers in War Crimes Trial</a> NYT: The soldiers, an artillery driver and a gunner, had been found guilty of shelling the town of Derhachi in northeastern Ukraine. 
  <p class="updated_time"> 01:43 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/europe/russia-sievierodonetsk-ukraine-civilians.html">As Russians Advance, Thousands of Civilians are Trapped in Sievierodonetsk</a> NYT: The eastern Ukrainian city’s younger residents have largely evacuated, leaving older citizens to bear the brunt of Moscow’s assault. 
- <p class="updated_time"> 01:14 PM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/31/world/canada/british-columbia-decriminalizes-drugs.html">Canada Decriminalizes Opioids and Other Drugs in British Columbia</a> NYT: With opioid deaths skyrocketing in the western province, Canada has temporarily decriminalized the substance and three others for personal use. 
- <p class="updated_time"> 12:54 PM CT, May. 31 </p> 
+ <p class="updated_time"> 01:19 PM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU Sets Harshest Russian Sanctions, Targeting Oil and Insurance</a> WSJ: EU Sets Harshest Russian Sanctions, Targeting Oil and Insurance 
+ <p class="updated_time"> 12:19 PM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
  <p class="updated_time"> 12:18 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61645243?at_medium=RSS&at_campaign=KARANGA">Iran lied about banned nuclear activity using stolen documents - Israel</a> BBC: Israel's PM shows what he says is proof that Iran deceived the world's nuclear agency. 
- <p class="updated_time"> 11:54 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/guided-u-s-rockets-could-double-ukraines-strike-range-11653989401">Guided U.S. Rockets Could Double Ukraine’s Strike Range</a> WSJ: Guided U.S. Rockets Could Double Ukraine’s Strike Range 
- <p class="updated_time"> 11:48 AM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/31/world/americas/google-translate-quechua.html">‘Allinllachu.’ Google Translate Adds Quechua to Its Platform.</a> NYT: The addition of one of the most widely spoken Indigenous languages in the Americas could help public servants and health workers connect with their communities. (And by the way, ‘allinllachu’ means hello.) 
  <p class="updated_time"> 11:43 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/mali-massacre-investigation.html">In Mali, a Massacre With a Russian Footprint</a> NYT: Civilian deaths have spiked in Mali since Russian mercenaries of the Wagner Group began operating alongside the military. In late March, hundreds were executed in the village of Moura. 
  <p class="updated_time"> 11:23 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102035346/in-two-photos-see-how-bucha-is-erasing-the-scars-of-russias-invasion">In two photos, see how Bucha is erasing the scars of Russia's invasion</a> NPR: First came the battle for Bucha. Now there's the battle to rebuild Bucha. This town was a scene of devastation in the early days of the war. Today you hear pounding hammers and screeching buzzsaws. 
+ <p class="updated_time"> 11:19 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/shanghai-ready-to-exit-lockdown-as-covid-cases-drop-11654018379">Shanghai to Exit Lockdown as Covid Cases Drop</a> WSJ: Shanghai to Exit Lockdown as Covid Cases Drop 
  <p class="updated_time"> 11:04 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-61647687?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: China eases Covid restrictions after two months</a> BBC: China's biggest city, a vital global trade hub, begins to relax crippling Covid restrictions. 
  <p class="updated_time"> 11:03 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/health/omicron-deaths-age-65-elderly.html">During the Omicron Wave, Death Rates Soared for Older People</a> NYT: Last year, people 65 and older died from Covid at lower rates than in previous waves. But with Omicron and waning immunity, death rates rose again. 
  <p class="updated_time"> 11:01 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61647690?at_medium=RSS&at_campaign=KARANGA">Rain storm claims 100 lives in north-east Brazil</a> BBC: Landslides and torrents of mud triggered by rain demolish poor neighbourhoods and shanty towns. 
- <p class="updated_time"> 10:54 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/russia-targets-ukraines-rail-links-for-military-gains-11653987818">Russia Targets Ukraine’s Rail Links for Military Gains</a> WSJ: Russia Targets Ukraine’s Rail Links for Military Gains 
- <p class="updated_time"> 10:10 AM CT, May. 31 </p> 
+ <p class="updated_time"> 10:59 AM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/opec-weighs-suspending-russia-from-oil-production-deal-11654019943">OPEC Weighs Suspending Russia From Oil-Production Deal</a> WSJ: Some OPEC members are exploring the idea of suspending Russia’s participation in an oil-production deal as Western sanctions and a partial European ban begin to undercut Moscow’s ability to pump more, OPEC delegates said. 
+ <p class="updated_time"> 10:19 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 09:56 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/asia/ukrainians-donbas-russia-war.html">Some Ukrainians Stay Behind in Eastern Donbas Region</a> NYT: The Russian offensive grinds on, but not everyone is leaving the eastern Donbas region. 
- <p class="updated_time"> 09:54 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 09:34 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/sections/money/2022/05/31/1101774189/fear-the-vibe-shift-are-we-entering-a-recession">Fear The Vibe Shift: Are We Entering A Recession?</a> NPR: Despite low unemployment, solid spending, and continued job growth, signs are flashing that the U.S. economy is headed for another downturn. 
  <p class="updated_time"> 09:32 AM CT, May. 31 </p> 
@@ -59,8 +67,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61638860?at_medium=RSS&at_campaign=KARANGA">Russian oil: EU agrees compromise deal on banning imports</a> BBC: The latest round of EU-wide sanctions excludes pipeline oil imports after Hungary opposed a total ban. 
  <p class="updated_time"> 08:46 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/climate/united-states-climate-ranking-trump.html">Trump Policies Sent U.S. Tumbling in a Climate Ranking</a> NYT: The Environmental Performance Index, published every two years by researchers at Yale and Columbia, found only Denmark and Britain on sustainable paths to net-zero emissions by 2050. 
- <p class="updated_time"> 08:33 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/shanghai-ready-to-exit-lockdown-as-covid-cases-drop-11654018379">Shanghai to Exit Lockdown as Covid Cases Drop</a> WSJ: China’s financial capital is preparing to end more than two months of lockdowns after four straight days with no Covid-19 deaths and with new cases at their lowest since early March. 
  <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/australia/china-united-states-pacific.html">Why China Is Miles Ahead in a Pacific Race for Influence</a> NYT: To many observers, the South Pacific today reveals what American decline looks like. Even as Washington tries to step up its game, it is still far behind, mistaking speeches for impact and interest for influence. 
  <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
@@ -105,8 +111,12 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/sport/football/61636938?at_medium=RSS&at_campaign=KARANGA">Champions League final: Uefa commissions independent report into scenes outside stadium</a> BBC: Uefa commissions an independent report into the scenes that delayed Saturday's Champions League final between Liverpool and Real Madrid. 
  <p class="updated_time"> 01:00 AM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/chinas-economic-downturn-shows-signs-of-easing-11653991228">China's Economic Downturn Shows Signs of Easing</a> WSJ: The pace of economic decline in China slowed in May, but economists are skeptical about a big revival as long as the government takes a zero-tolerance approach to Covid-19 outbreaks. 
+ <p class="updated_time"> 12:30 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/guided-u-s-rockets-could-double-ukraines-strike-range-11653989401">Guided U.S. Rockets Could Double Ukraine's Strike Range</a> WSJ: The Biden administration plans to provide Ukraine with a guided-rocket system capable of hitting targets from a distance of more than 40 miles. 
  <p class="updated_time"> 12:07 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/asia/nepal-plane-crash.html">Nepal Plane Crash: All 22 Bodies Are Recovered</a> NYT: The plane went down in bad weather on Sunday while carrying passengers to Jomsom, a tourist destination popular with trekkers. 
+ <p class="updated_time"> 12:03 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/russia-targets-ukraines-rail-links-for-military-gains-11653987818">Russia Targets Ukraine's Rail Links for Military Gains</a> WSJ: Brutal fighting in Ukraine’s east is a battle for lives and land, but it pivots on rail lines. Train transport is vital to Russia’s conquest, starting with the dense track networks of Donbas region. 
  <p class="updated_time"> 11:32 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-61602153?at_medium=RSS&at_campaign=KARANGA">Crown Resorts: Casino firm fined over illegal China dealings</a> BBC: Australia's Crown Resorts acknowledged its "historic failings" and promised to work on reforms. 
  <p class="updated_time"> 09:17 PM CT, May. 30 </p> 
@@ -127,8 +137,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/30/1102083611/eu-agree-partial-russian-oil-embargo">The EU will block most Russian oil imports as Hungary's Orbán fights off a total ban</a> NPR: Pipeline deliveries, which are critical to Hungary, Slovakia and the Czech Republic, won't be affected by the ban. The much more complicated issue of Russian natural gas remains unresolved. 
  <p class="updated_time"> 05:31 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/americas/colombia-presidential-election-hernandez-petro.html">Rodolfo Hernández is Colombia’s Trump and He May Be Headed for the Presidential Palace</a> NYT: The Colombian establishment is lining up behind Rodolfo Hernández, a populist businessman with an incendiary streak, to defeat the leftist former rebel Gustavo Petro. 
- <p class="updated_time"> 05:15 PM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/28/world/americas/agatha-hurricane-storm.html">Hurricane Agatha Is Set to Hit Southern Mexico Today</a> NYT: With sustained winds of up to 110 miles per hour, Agatha, the first named storm in the eastern Pacific this year, was threatening the Mexican state of Oaxaca on Monday, forecasters said. 
  <p class="updated_time"> 04:25 PM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102070088/a-mothers-weekend-errands-show-the-impact-of-the-economic-crisis-in-lebanon">A mother's weekend errands show the impact of the economic crisis in Lebanon</a> NPR: The calculations of one mother in Beirut shows the struggles to feed a family amid Lebanon's years-long economic collapse. 
  <p class="updated_time"> 04:25 PM CT, May. 30 </p> 
@@ -173,8 +181,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/us/politics/turkey-nato-russia.html">For NATO, Turkey Is a Disruptive Ally</a> NYT: President Recep Tayyip Erdogan’s block on NATO membership for Sweden and Finland is likely to be managed, but Washington and the rest of the alliance are annoyed. 
  <p class="updated_time"> 01:28 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/europe/ukraine-russia-language.html">For Russian-Speaking Ukrainians, Language Clubs Offer Way to Defy Invaders</a> NYT: Many Ukraine citizens speak Russian as their first language. Volunteer organizations are helping them improve their Ukrainian and abandon “the occupiers’ language.” 
- <p class="updated_time"> 12:01 AM CT, May. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61624557?at_medium=RSS&at_campaign=KARANGA">Ukraine war student-turned-soldier: 'Friends die in your arms'</a> BBC: After trading university for combat in Kyiv, the young soldier is in the thick of fighting in Donbas. 
  <p class="updated_time"> 10:01 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/russian-casualties-ukraine.html">Russia War Dead Tended by Ukrainian Soldiers</a> NYT: Ukrainians hope that if they safeguard Russia’s war dead, they will be more likely to get back their own. 
  <p class="updated_time"> 09:58 PM CT, May. 29 </p> 
@@ -185,12 +191,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/29/world/asia/india-couple-grandchild-suing.html">Indian Couple Sue Their Son for Not Giving Them a Grandchild</a> NYT: A couple in India are demanding that their son and daughter-in-law have a child or pay them $650,000 in damages. “This is an Indian parent thing,” their lawyer said. 
  <p class="updated_time"> 08:39 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/americas/colombia-election-results.html">In Colombia, a Leftist and a Right-Wing Populist Head for June Runoff</a> NYT: The results in the first round of voting delivered a stunning blow to Colombia’s dominant conservative political class. 
- <p class="updated_time"> 08:20 PM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-61584608?at_medium=RSS&at_campaign=KARANGA">Cost of living crisis: Relying on food handouts and moving country</a> BBC: People from Italy, Brazil, Ghana, Thailand and New Zealand discuss the impact of the cost of living crisis. 
- <p class="updated_time"> 06:27 PM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/news/61591054?at_medium=RSS&at_campaign=KARANGA">Kenya Elections 2022: Misinformation circulating online</a> BBC: Misleading images and manipulated videos are already being widely shared as campaigning begins. 
- <p class="updated_time"> 06:26 PM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61589491?at_medium=RSS&at_campaign=KARANGA">UCC: The coming storm over a single common law in India</a> BBC: The ruling BJP has resurrected its promise of a single personal law for all citizens, but it will not be easy. 
  <p class="updated_time"> 06:04 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-61609559?at_medium=RSS&at_campaign=KARANGA">The dangerous world of illegal mining in South Africa</a> BBC: BBC Africa Eye meets the migrants who risk everything to go deep underground in South Africa’s abandoned gold mines. 
  <p class="updated_time"> 01:44 PM CT, May. 29 </p> 
@@ -199,8 +199,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/29/world/europe/pope-francis-21-new-cardinals.html">Pope Francis Announces 21 New Cardinals</a> NYT: The new “princes of the church” hail from places like India, Nigeria, Singapore and South Korea. They will be among those who help choose a new pope. 
  <p class="updated_time"> 12:23 PM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61627187?at_medium=RSS&at_campaign=KARANGA">Ukraine's President Zelensky makes rare visit to Kharkiv frontline</a> BBC: Ukraine's President Zelensky walks around Kharkiv before meeting soldiers and presenting them with medals. 
- <p class="updated_time"> 12:07 PM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-61626910?at_medium=RSS&at_campaign=KARANGA">Jerusalem Flag March: Israeli nationalists stream towards Muslim Quarter</a> BBC: Tens of thousands of Israeli Jewish nationalists join the annual Flag March in Jerusalem. 
  <p class="updated_time"> 10:17 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/sri-lanka-rajapaska-hambantota.html">Lavish Projects and Meager Lives: The Two Faces of a Ruined Sri Lanka</a> NYT: A frenzy of building on borrowed money in the Rajapaksa family’s home district illustrates the hubris and mismanagement that led the country into economic collapse. 
  <p class="updated_time"> 09:20 AM CT, May. 29 </p> 
@@ -214,12 +212,14 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:11 PM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/us/politics/michael-sussmann-durham-fbi.html">Michael Sussmann Is Acquitted in Case Brought by Trump-Era Prosecutor</a> NYT: The Democratic-linked lawyer was accused of lying to the F.B.I. about his clients when he passed on a tip about possible connections between Donald J. Trump and Russia. 
+ <p class="updated_time"> 03:08 PM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-military-eastern-ukraine.html">Russian Military Is Repeating Mistakes in Eastern Ukraine, U.S. Says</a> NYT: President Vladimir V. Putin sent in a new commander in April, but Russian troops are still facing morale and other problems, American officials say. 
  <p class="updated_time"> 02:52 PM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-sanctions-central-bank-assets.html">Seizing Russian Assets to Help Ukraine Sets off White House Debate</a> NYT: Some European officials want to use more than $300 billion in Russian central bank assets to rebuild Ukraine. But Biden administration officials warn that diverting those funds could be illegal. 
+ <a href="https://www.nytimes.com/2022/05/31/us/politics/russia-sanctions-central-bank-assets.html">Seizing Russian Assets to Help Ukraine Sets Off White House Debate</a> NYT: Some European officials want to use more than $300 billion in Russian central bank assets to rebuild Ukraine. But Biden administration officials warn that diverting those funds could be illegal. 
  <p class="updated_time"> 02:51 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/business/biden-powell-meeting-inflation.html">Biden and Powell Meet to Discuss U.S. and Global Economy</a> NYT: Big risks threaten economic growth around the world as central banks try to bring prices under control. 
- <p class="updated_time"> 02:48 PM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/31/us/politics/michael-sussmann-durham-fbi.html">Michael Sussmann Is Acquitted in Case Brought by Trump-Era Prosecutor</a> NYT: The Democratic-linked lawyer was accused of lying to the F.B.I. about his clients when he passed on a tip about possible connections between Donald J. Trump and Russia. 
  <p class="updated_time"> 02:00 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/business/iss-spirit-frontier-jetblue.html">ISS Urges Spirit Shareholders to Vote Against Frontier Merger </a> NYT: Institutional Shareholder Services, which advises large investors, said shareholders should opt for a higher offer for Spirit by JetBlue. 
  <p class="updated_time"> 01:27 PM CT, May. 31 </p> 
@@ -296,8 +296,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/us/politics/photos-uvalde.html">From Sandy Hook to Uvalde, the Violent Images Never Seen</a> NYT: Frustrated Americans ask whether the release of graphic photos of gun violence would lead to better policy. But which photos, and who decides? 
  <p class="updated_time"> 02:00 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/nyregion/gov-hochul-leads-rivals-donations.html">Gov. Hochul Stockpiles Donations, as Rivals Struggle to Keep Pace</a> NYT: Real estate, unions and crypto interests were among the donors to Ms. Hochul. Here are five takeaways from the money battle in New York’s race for governor. 
- <p class="updated_time"> 07:36 PM CT, May. 29 </p> 
- <a href="https://www.politico.com/news/2022/05/29/house-jan6-panel-republican-appeal-00035870">Select committee drops bid to obtain RNC records in time for public hearings</a> Politico: At issue are some Republican National Committee records held by a third-party vendor. 
  <p class="updated_time"> 05:07 PM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/pelosi-husband-driving-under-influence-00035868">Pelosi’s husband arrested on suspicion of DUI in California</a> Politico: Paul Pelosi was taken into custody late Saturday in Napa County. 
  <p class="updated_time"> 04:44 PM CT, May. 29 </p> 
