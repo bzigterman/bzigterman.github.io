@@ -9,26 +9,30 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:33 PM CT, May. 30 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/30/world/russia-ukraine-war">Ukraine Live Updates: After Months of Debate, European Leaders Agree to Ban Most Russian Oil Imports</a> NYT: A draft of the agreement allows pipeline imports, in a nod to Hungary’s complaints. Even still, it would be the toughest action yet over Russia’s invasion of Ukraine. The E.U. also pledged 9 billion euros to help Ukraine, and the Eurovision winners auctioned off their trophy to support Ukraine’s army. 
+ <p class="updated_time"> 11:32 PM CT, May. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/business-61602153?at_medium=RSS&at_campaign=KARANGA">Crown Resorts: Casino firm fined over illegal China dealings</a> BBC: Australia's Crown Resorts acknowledged its "historic failings" and promised to work on reforms. 
+ <p class="updated_time"> 10:47 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/eu-leaders-spar-over-russian-oil-ban-11653921289">European Union Pledges to Curb Oil Purchases From Russia</a> WSJ: European Union Pledges to Curb Oil Purchases From Russia 
  <p class="updated_time"> 10:08 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Colombia a segunda vuelta: un candidato de izquierda y un populista de derecha se enfrentarán en junio</a> NYT: Dos candidatos antisistema, Gustavo Petro, de izquierda, y Rodolfo Hernández, de derecha, alcanzaron los dos primeros lugares en las elecciones presidenciales del domingo. 
- <p class="updated_time"> 10:04 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/eu-leaders-spar-over-russian-oil-ban-11653921289">European Union Pledges to Curb Oil Purchases From Russia</a> WSJ: European Union Pledges to Curb Oil Purchases From Russia 
+ <p class="updated_time"> 09:47 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
  <p class="updated_time"> 09:17 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61641853?at_medium=RSS&at_campaign=KARANGA">Australia election: PM Anthony Albanese secures majority government</a> BBC: The results in many seats had been unclear after a record vote for independents and minor parties. 
- <p class="updated_time"> 09:04 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
- <p class="updated_time"> 09:03 PM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/live/2022/05/30/world/russia-ukraine-war">Ukraine Live Updates: After Months of Debate, European Leaders Agree to Ban Most Russian Oil Imports</a> NYT: A draft of the agreement allows pipeline imports, in a nod to Hungary’s complaints. Even still, it would be the toughest action yet over Russia’s invasion of Ukraine. The E.U. also pledged 9 billion euros to help Ukraine, and the Eurovision winners auctioned off their trophy to support Ukraine’s army. 
+ <p class="updated_time"> 08:47 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
  <p class="updated_time"> 08:27 PM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102089698/indian-rapper-sidhu-moose-wala-hot-dead-28">Indian rapper Sidhu Moose Wala was shot dead at 28</a> NPR: Shubhdeep Singh Sidhu, also known around the world by his stage name Sidhu Moose Wala, was killed Sunday evening while driving his car in Mansa, a district in northern India's Punjab state. 
  <p class="updated_time"> 08:06 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/canada/canada-gun-buyback.html">Canada Plans to Ban Handgun Sales and Possession of Assault Weapons</a> NYT: “We have a responsibility to act to prevent more tragedies,” Prime Minister Trudeau said as he proposed tightening the country’s already stringent control of firearms. 
- <p class="updated_time"> 08:04 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
+ <p class="updated_time"> 07:47 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/iran-hasnt-provided-credible-explanations-for-nuclear-material-u-n-agency-says-11653923148">U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon</a> WSJ: U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon 
  <p class="updated_time"> 07:41 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61638860?at_medium=RSS&at_campaign=KARANGA">Russian oil: EU agrees compromise deal on banning imports</a> BBC: The latest round of EU-wide sanctions excludes pipeline oil imports after Hungary opposed a total ban. 
- <p class="updated_time"> 07:04 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/iran-hasnt-provided-credible-explanations-for-nuclear-material-u-n-agency-says-11653923148">U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon</a> WSJ: U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon 
+ <p class="updated_time"> 06:47 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/china-and-the-u-s-are-arranging-an-in-person-meeting-between-heads-of-defense-11653914442">China, U.S. Are Arranging In-Person Meeting Between Heads of Defense</a> WSJ: China, U.S. Are Arranging In-Person Meeting Between Heads of Defense 
  <p class="updated_time"> 06:32 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/americas/hurricane-mexico-agatha-forecast.html">Hurricane Agatha Makes Landfall in Southern Mexico</a> NYT: The Category 2 storm threatened to bring floods and mudslides to the state of Oaxaca. 
  <p class="updated_time"> 06:30 PM CT, May. 30 </p> 
@@ -37,8 +41,6 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/30/1102084025/canada-bill-freeze-handgun-sales-imports">Canada to cap the market for handguns with new legislation</a> NPR: The regulations to halt the growth of personally owned handguns is expected to be enacted this fall. 
  <p class="updated_time"> 06:05 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-61591675?at_medium=RSS&at_campaign=KARANGA">Borgen: How the Danish political drama has been 'reinvented'</a> BBC: The series returns to Netflix this week, nearly a decade after its highly-praised original run. 
- <p class="updated_time"> 06:04 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/china-and-the-u-s-are-arranging-an-in-person-meeting-between-heads-of-defense-11653914442">China, U.S. Are Arranging In-Person Meeting Between Heads of Defense</a> WSJ: China, U.S. Are Arranging In-Person Meeting Between Heads of Defense 
  <p class="updated_time"> 06:04 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61587884?at_medium=RSS&at_campaign=KARANGA">How India’s first all-women newsroom is creating a media revolution</a> BBC: Khabar Lahariya is the first and only newsroom in India run entirely by women from marginalised backgrounds. 
  <p class="updated_time"> 06:02 PM CT, May. 30 </p> 
@@ -121,8 +123,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-australia-61628713?at_medium=RSS&at_campaign=KARANGA">Peter Dutton: Staunch conservative named Australia's opposition leader</a> BBC: Peter Dutton - an ex-policeman and polarising figure - will succeed Scott Morrison as Liberal leader. 
  <p class="updated_time"> 11:09 PM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/30/1102025825/colombia-presidential-election-runoff">A leftist will face a businessman as Colombia's presidential race heads to a runoff</a> NPR: The results represent a major shift in the Latin American country's presidential politics that conservatives and moderates had long dominated. 
- <p class="updated_time"> 10:13 PM CT, May. 29 </p> 
- <a href="https://www.bbc.co.uk/news/business-61628770?at_medium=RSS&at_campaign=KARANGA">Shanghai lockdown: China's financial hub set to lift Covid curbs</a> BBC: Authorities in the commercial hub have also announced new economic support measures for businesses. 
  <p class="updated_time"> 10:01 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/russian-casualties-ukraine.html">Russia War Dead Tended by Ukrainian Soldiers</a> NYT: Ukrainians hope that if they safeguard Russia’s war dead, they will be more likely to get back their own. 
  <p class="updated_time"> 09:58 PM CT, May. 29 </p> 
