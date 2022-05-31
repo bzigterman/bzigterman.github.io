@@ -9,10 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:01 AM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/30/world/russia-ukraine-war">What Happened on Day 96 of the War in Ukraine</a> NYT: A draft of the agreement allows pipeline imports, in a nod to Hungary’s complaints. Even still, it would be the toughest action yet over Russia’s invasion of Ukraine. The E.U. also pledged 9 billion euros to help Ukraine, and the Eurovision winners auctioned off their trophy to support Ukraine’s army. 
+ <p class="updated_time"> 04:01 AM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/world/europe/kalush-orchestra-ukraine-auction.html">Kalush Orchestra, Eurovision Winner, Auctions Off Trophy to Aid Ukraine Army</a> NYT: Millions of people have viewed a video of the band Kalush Orchestra that was filmed in the rubble of Ukraine. Its members have urged fans to help the Ukrainian army. 
+ <p class="updated_time"> 04:00 AM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/world/our-readers-sent-updates-on-stories-that-have-resonated-with-many-of-you.html">Our readers sent updates on stories that have resonated with many of you.</a> NYT: More than 20,000 readers have written in to share their pandemic experiences. 
+ <p class="updated_time"> 04:00 AM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/world/australia/china-united-states-pacific.html">Why China Is Miles Ahead in a Pacific Race for Influence</a> NYT: To many observers, the South Pacific today reveals what American decline looks like. Even as Washington tries to step up its game, it is still far behind, mistaking speeches for impact and interest for influence. 
+ <p class="updated_time"> 04:00 AM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/world/asia/ukrainians-donbas-russia-war.html">Even as Russia Bears Down in the East, Some Ukrainians Stay Behind</a> NYT: The Russian offensive grinds on, but not everyone is leaving the eastern Donbas region. 
+ <p class="updated_time"> 03:52 AM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/world/asia/china-children-textbooks.html">China Orders Investigation Into  Children’s Textbooks</a> NYT: The discovery of what some viewed as disturbing illustrations in books for elementary school students set off a national furor. 
  <p class="updated_time"> 03:46 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102097736/denmark-will-hold-a-referendum-on-eu-defense-amid-ukraine-war">Denmark will hold a referendum on EU defense amid Ukraine war</a> NPR: Danish voters are being asked to choose whether to abandon the country's decision three decades ago to opt out of the bloc's common defense policy. 
- <p class="updated_time"> 03:45 AM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/05/30/world/russia-ukraine-war">What Happened on Day 96 of the War in Ukraine</a> NYT: A draft of the agreement allows pipeline imports, in a nod to Hungary’s complaints. Even still, it would be the toughest action yet over Russia’s invasion of Ukraine. The E.U. also pledged 9 billion euros to help Ukraine, and the Eurovision winners auctioned off their trophy to support Ukraine’s army. 
  <p class="updated_time"> 03:45 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/world/colombia-election-results">In Colombia, a Leftist and a Right-Wing Populist Move on to June Runoff</a> NYT: Two anti-establishment candidates, Gustavo Petro, a leftist, and Rodolfo Hernández, a right-wing businessman and former mayor, captured the top two spots in Sunday’s presidential election. 
  <p class="updated_time"> 03:45 AM CT, May. 31 </p> 
@@ -23,11 +33,11 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61638860?at_medium=RSS&at_campaign=KARANGA">Russian oil: EU agrees compromise deal on banning imports</a> BBC: The latest round of EU-wide sanctions excludes pipeline oil imports after Hungary opposed a total ban. 
  <p class="updated_time"> 03:11 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61642596?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: Murdered India singer was hit by 24 bullets, says report</a> BBC: Video footage of Sidhu Moose Wala's car shows it was sprayed with bullets. 
- <p class="updated_time"> 02:50 AM CT, May. 31 </p> 
+ <p class="updated_time"> 03:05 AM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/eu-leaders-spar-over-russian-oil-ban-11653921289">European Union Pledges to Curb Oil Purchases From Russia</a> WSJ: European Union Pledges to Curb Oil Purchases From Russia 
  <p class="updated_time"> 02:05 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102095716/shanghai-eases-into-gradually-reopening-from-its-covid-19-lockdown">Shanghai eases into gradually reopening from its COVID-19 lockdown</a> NPR: China's largest city and global financial hub plans to restore mass transit and gradually reopen schools 
- <p class="updated_time"> 01:50 AM CT, May. 31 </p> 
+ <p class="updated_time"> 02:05 AM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
  <p class="updated_time"> 01:30 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/climate/united-states-climate-ranking-trump.html">Trump Policies Sent U.S. Tumbling in a Climate Ranking</a> NYT: The Environmental Performance Index, published every two years by researchers at Yale and Columbia, found only Denmark and Britain on sustainable paths to net-zero emissions by 2050. 
@@ -35,30 +45,24 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-india-61548615?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: Controversial Indian rapper who made waves with his music</a> BBC: Shubhdeep Singh Sidhu, popularly known as Sidhu Moose Wala, was murdered in Punjab on Sunday. 
  <p class="updated_time"> 01:22 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/sport/football/61636938?at_medium=RSS&at_campaign=KARANGA">Champions League final: Uefa commissions independent report into scenes outside stadium</a> BBC: Uefa commissions an independent report into the scenes that delayed Saturday's Champions League final between Liverpool and Real Madrid. 
- <p class="updated_time"> 12:50 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
+ <p class="updated_time"> 01:05 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/israel-u-a-e-sign-free-trade-agreement-11653985544">Israel, U.A.E. Sign Free-Trade Agreement</a> WSJ: Israel, U.A.E. Sign Free-Trade Agreement 
  <p class="updated_time"> 12:07 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/asia/nepal-plane-crash.html">Nepal Plane Crash: All 22 Bodies Are Recovered</a> NYT: The plane went down in bad weather on Sunday while carrying passengers to Jomsom, a tourist destination popular with trekkers. 
+ <p class="updated_time"> 12:05 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/taiwanese-air-force-pilot-dies-in-second-fatal-crash-this-year-11653983131">Taiwanese Air Force Pilot Dies in Second Fatal Crash This Year</a> WSJ: Taiwanese Air Force Pilot Dies in Second Fatal Crash This Year 
  <p class="updated_time"> 11:51 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61642217?at_medium=RSS&at_campaign=KARANGA">China sends 30 warplanes into Taiwan air defence zone</a> BBC: The incursions come days after US President Joe Biden issued a strong warning to China over Taiwan. 
- <p class="updated_time"> 11:50 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/canada-to-ban-purchase-sale-of-handguns-in-new-gun-control-measures-11653950968">Canada to Ban Purchase, Sale of Handguns in New Gun Control Measures</a> WSJ: Canada to Ban Purchase, Sale of Handguns in New Gun Control Measures 
  <p class="updated_time"> 11:32 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-61602153?at_medium=RSS&at_campaign=KARANGA">Crown Resorts: Casino firm fined over illegal China dealings</a> BBC: Australia's Crown Resorts acknowledged its "historic failings" and promised to work on reforms. 
- <p class="updated_time"> 11:25 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/israel-u-a-e-sign-free-trade-agreement-11653985544">Israel, U.A.E. Sign Free-Trade Agreement</a> WSJ: Officials from both countries said the deal would boost business ties less than two years after they established formal diplomatic relations in a U.S.-brokered deal. 
- <p class="updated_time"> 10:50 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/iran-hasnt-provided-credible-explanations-for-nuclear-material-u-n-agency-says-11653923148">U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon</a> WSJ: U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon 
- <p class="updated_time"> 10:45 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/taiwanese-air-force-pilot-dies-in-second-fatal-crash-this-year-11653983131">Taiwanese Air Force Pilot Dies in Second Fatal Crash This Year</a> WSJ: A Taiwanese air force pilot died Tuesday after his jet went down during a training flight. It comes as China’s military has ramped up aircraft sorties near Taiwan. 
+ <p class="updated_time"> 11:05 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/canada-to-ban-purchase-sale-of-handguns-in-new-gun-control-measures-11653950968">Canada to Ban Purchase, Sale of Handguns in New Gun Control Measures</a> WSJ: Canada to Ban Purchase, Sale of Handguns in New Gun Control Measures 
  <p class="updated_time"> 09:17 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61641853?at_medium=RSS&at_campaign=KARANGA">Australia election: PM Anthony Albanese secures majority government</a> BBC: The results in many seats had been unclear after a record vote for independents and minor parties. 
  <p class="updated_time"> 08:27 PM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102089698/indian-rapper-sidhu-moose-wala-hot-dead-28">Indian rapper Sidhu Moose Wala was shot dead at 28</a> NPR: Shubhdeep Singh Sidhu, also known around the world by his stage name Sidhu Moose Wala, was killed Sunday evening while driving his car in Mansa, a district in northern India's Punjab state. 
  <p class="updated_time"> 08:06 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/canada/canada-gun-buyback.html">Canada Plans to Ban Handgun Sales and Possession of Assault Weapons</a> NYT: “We have a responsibility to act to prevent more tragedies,” Prime Minister Trudeau said as he proposed tightening the country’s already stringent control of firearms. 
- <p class="updated_time"> 06:30 PM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/30/world/europe/kalush-orchestra-ukraine-auction.html">Kalush Orchestra, Eurovision Winner, Auctions Off Trophy to Aid Ukraine Army</a> NYT: Millions of people have viewed a video of the band Kalush Orchestra that was filmed in the rubble of Ukraine. Its members have urged fans to help the Ukrainian army. 
  <p class="updated_time"> 06:06 PM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102084025/canada-bill-freeze-handgun-sales-imports">Canada to cap the market for handguns with new legislation</a> NPR: The regulations to halt the growth of personally owned handguns is expected to be enacted this fall. 
  <p class="updated_time"> 06:05 PM CT, May. 30 </p> 
@@ -87,6 +91,8 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/world/europe/mona-lisa-pastry-louvre.html">Man Throws Pastry at Mona Lisa, Smearing Cream on Glass Case</a> NYT: The painting was not harmed and the man, who officials said was in a wheelchair and had faked a disability to get close to it, was taken into custody. 
  <p class="updated_time"> 01:08 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ucl-game-delay-france.html">Under Fire for Chaos at Soccer Final, France Rejects Blame for Failures</a> NYT: Tear gas and delays marred the Champions League final in Paris on Saturday, raising questions over France’s ability to host large-scale sporting events like the 2024 Summer Olympics. 
+ <p class="updated_time"> 01:04 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Across Ukraine, farmers are navigating mines, traversing bombed bridges and risking dangerous maneuvers at overworked ports to circumvent a Russian blockade and get their grains to a world desperate for them. 
  <p class="updated_time"> 12:30 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61640126?at_medium=RSS&at_campaign=KARANGA">Champions League final: Fan videos of crowding and pepper spray</a> BBC: Footage from fans attending the Champions league final shows scenes of chaos. 
  <p class="updated_time"> 12:20 PM CT, May. 30 </p> 
@@ -101,6 +107,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61634050?at_medium=RSS&at_campaign=KARANGA">'I watched from afar Russia’s latest merciless assault on Severodonetsk'</a> BBC: Quentin Sommerville describes relentless artillery bombardment in Donbas ahead of Russian forces entering Severodonetsk. 
  <p class="updated_time"> 10:38 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ireland-dublin-airport-delay-covid.html">At Dublin Airport, Staff Shortages Lead to Travel Chaos</a> NYT: More than 1,000 passengers missed flights there in a day, part of a spate of similar difficulties across Europe as demand for travel surges. 
+ <p class="updated_time"> 10:16 AM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/iran-hasnt-provided-credible-explanations-for-nuclear-material-u-n-agency-says-11653923148">U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon</a> WSJ: The United Nations atomic agency said Iran hadn’t offered credible answers to its probe into nuclear material found there, making it likely its investigation will continue. 
  <p class="updated_time"> 10:08 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ukraine-russia-chernihiv.html">A Russian Plane Crashed Into a House. Death Was Parceled Out Randomly.</a> NYT: Some fortuitous timing in doing chores saved a family that lived in the Ukrainian city of Chernihiv. A few blocks away, things turned out very differently. 
  <p class="updated_time"> 09:57 AM CT, May. 30 </p> 
@@ -177,8 +185,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61623278?at_medium=RSS&at_campaign=KARANGA">Ukraine war: BBC interview with Russian ambassador to the UK</a> BBC: In a BBC interview, Andrei Kelin is shown CCTV footage of Russian soldiers committing alleged war crimes. 
  <p class="updated_time"> 02:00 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/health/coronavirus-testing-positive.html">Can I Stop Isolating If I’m Still Testing Positive for the Virus?</a> NYT: Some people may test positive for the coronavirus for 10 days or longer, but interpreting those results remains difficult, experts said. 
- <p class="updated_time"> 12:07 AM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/2022/05/27/world/europe/russian-fighting-for-ukraine.html">A Putin Opponent From Russia Leads Fighters Against His Home Country</a> NYT: “The hottest place to fight against the regime was in Ukraine,” says a unit commander who has been a volunteer soldier for his adopted country on and off since 2015. 
  <p class="updated_time"> 10:32 PM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/europe/russian-soldiers-military-supplies.html">Russians Crowdsource Supplies for Their Army in Ukraine</a> NYT: A grass-roots movement to get basic supplies to soldiers fighting in Ukraine reflects the growing recognition among Russians that their military was unprepared for major conflict. 
  <p class="updated_time"> 12:52 PM CT, May. 28 </p> 
@@ -195,8 +201,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/28/world/europe/ukraine-orthodox-church-moscow.html">Ukrainian Orthodox Church Breaks With Moscow Over War</a> NYT: The Council of the Ukrainian Orthodox Church said that it disagreed with the Moscow Patriarch’s position on the war. 
  <p class="updated_time"> 05:00 AM CT, May. 28 </p> 
  <a href="https://www.nytimes.com/2022/05/28/world/canada/gun-laws-canada.html">What Canada Doesn’t Know About Its Guns</a> NYT: New record-keeping requirements for nonrestricted firearms began this month, but the origins of Canada’s so-called crime guns are largely unknown. 
- <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
- <a href="https://www.nytimes.com/2022/05/28/world/europe/france-metoo-patrick-poivre-darvor.html">The Fall of the ‘Sun King’ of French TV, and the Myth of Seduction</a> NYT: Patrick Poivre d’Arvor, known as a great seducer, has been accused by more than 20 women of rape, sexual assault and harassment in France’s belated #MeToo reckoning. 
 
 
 </details>
@@ -204,6 +208,8 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 AM CT, May. 31 </p> 
+ <a href="https://www.npr.org/2022/05/31/1101399058/progressives-take-a-leaf-out-of-the-conservative-playbook-to-target-school-board">Progressives take a leaf out of the conservative playbook to target school boards</a> NPR: There has been a groundswell of conservative enthusiasm around school politics in the last few years. Progressives are hoping to have their own source of organization to counter that enthusiasm. 
  <p class="updated_time"> 03:30 AM CT, May. 31 </p> 
  <a href="https://www.politico.com/news/2022/05/31/tom-cotton-gop-conservatives-00035784">Tom Cotton's rigid conservatism</a> Politico: He doesn't say “no” when asked about 2024. But the Arkansan does rule out giving ground on much — from immigration to criminal justice to foreign policy. 
  <p class="updated_time"> 09:00 PM CT, May. 30 </p> 
@@ -294,10 +300,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/newsletters/playbook/2022/05/28/the-conspiracy-theory-convention-00035846"> The conspiracy theory convention</a> Politico Playbook: And the Georgia Trump investigation heats up. 
  <p class="updated_time"> 06:00 AM CT, May. 28 </p> 
  <a href="https://www.politico.com/news/2022/05/28/high-flying-stefanik-scorched-by-allies-whisper-campaign-against-a-rival-00035839">Trump Jr. allies issue warning to Stefanik camp: Don’t go after Tucker’s kid</a> Politico: She faces plenty of future GOP leadership competitors, including Rep. Jim Banks. And her camp got burned after allegedly raising Banks aide Buckley Carlson. 
- <p class="updated_time"> 04:01 AM CT, May. 28 </p> 
- <a href="https://www.npr.org/2022/05/28/1101814449/as-a-jury-weighs-if-a-lawyer-lied-to-the-fbi-durhams-legacy-hangs-in-the-balance">As a jury weighs if a lawyer lied to the FBI, Durham's legacy hangs in the balance</a> NPR: Michael Sussmann faces one charge of lying to the FBI ahead of the 2016 presidential election. It's the first courtroom test for special counsel John Durham, appointed by the Trump administration. 
- <p class="updated_time"> 04:00 AM CT, May. 28 </p> 
- <a href="https://www.npr.org/2022/05/28/1101790481/gun-legislation-congress-uvalde">Senators are continuing talks during recess to find a compromise on gun legislation</a> NPR: Democratic Sen. Chris Murphy says he's optimistic that something can be done to address mass shootings like the one at a Texas elementary school that killed 19 children. 
 
 
 </details>
