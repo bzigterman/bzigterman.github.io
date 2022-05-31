@@ -9,16 +9,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:57 PM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">Live Updates: E.U. Looks to Get Ukraine Grain Exports Moving Again</a> NYT: After agreeing on an oil embargo to punish Moscow, European leaders moved to tackle the backlog of Ukrainian crops  that is threatening a global food crisis. 
+ <p class="updated_time"> 01:24 PM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">Live Updates: E.U. Looks to Get Ukraine Grain Exports Moving Again</a> NYT: After agreeing on an oil embargo to punish Moscow, European leaders moved to tackle the backlog of Ukrainian crops that is threatening a global food crisis. 
+ <p class="updated_time"> 01:14 PM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/world/canada/british-columbia-decriminalizes-drugs.html">Canada Decriminalizes Opioids and Other Drugs in British Columbia</a> NYT: With opioid deaths skyrocketing in the western province, Canada has temporarily decriminalized the substance and three others for personal use. 
+ <p class="updated_time"> 12:32 PM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273">Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower</a> WSJ: Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower 
  <p class="updated_time"> 12:18 PM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61645243?at_medium=RSS&at_campaign=KARANGA">Iran lied about banned nuclear activity using stolen documents - Israel</a> BBC: Israel's PM shows what he says is proof that Iran deceived the world's nuclear agency. 
- <p class="updated_time"> 12:00 PM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273">Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower</a> WSJ: Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower 
  <p class="updated_time"> 11:48 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/americas/google-translate-quechua.html">‘Allinllachu.’ Google Translate Adds Quechua to Its Platform.</a> NYT: The addition of one of the most widely spoken Indigenous languages in the Americas could help public servants and health workers connect with their communities. (And by the way, ‘allinllachu’ means hello.) 
  <p class="updated_time"> 11:43 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/africa/mali-massacre-investigation.html">In Mali, a Massacre With a Russian Footprint</a> NYT: Civilian deaths have spiked in Mali since Russian mercenaries of the Wagner Group began operating alongside the military. In late March, hundreds were executed in the village of Moura. 
+ <p class="updated_time"> 11:32 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
  <p class="updated_time"> 11:23 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102035346/in-two-photos-see-how-bucha-is-erasing-the-scars-of-russias-invasion">In two photos, see how Bucha is erasing the scars of Russia's invasion</a> NPR: First came the battle for Bucha. Now there's the battle to rebuild Bucha. This town was a scene of devastation in the early days of the war. Today you hear pounding hammers and screeching buzzsaws. 
  <p class="updated_time"> 11:04 AM CT, May. 31 </p> 
@@ -27,14 +31,14 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/31/health/omicron-deaths-age-65-elderly.html">During the Omicron Wave, Death Rates Soared for Older People</a> NYT: Last year, people 65 and older died from Covid at lower rates than in previous waves. But with Omicron and waning immunity, death rates rose again. 
  <p class="updated_time"> 11:01 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61647690?at_medium=RSS&at_campaign=KARANGA">Rain storm claims 100 lives in north-east Brazil</a> BBC: Landslides and torrents of mud triggered by rain demolish poor neighbourhoods and shanty towns. 
- <p class="updated_time"> 11:00 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
- <p class="updated_time"> 10:00 AM CT, May. 31 </p> 
+ <p class="updated_time"> 10:32 AM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/guided-u-s-rockets-could-double-ukraines-strike-range-11653989401">Guided U.S. Rockets Could Double Ukraine’s Strike Range</a> WSJ: Guided U.S. Rockets Could Double Ukraine’s Strike Range 
  <p class="updated_time"> 09:56 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/asia/ukrainians-donbas-russia-war.html">Some Ukrainians Stay Behind in Eastern Donbas Region</a> NYT: The Russian offensive grinds on, but not everyone is leaving the eastern Donbas region. 
  <p class="updated_time"> 09:34 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/sections/money/2022/05/31/1101774189/fear-the-vibe-shift-are-we-entering-a-recession">Fear The Vibe Shift: Are We Entering A Recession?</a> NPR: Despite low unemployment, solid spending, and continued job growth, signs are flashing that the U.S. economy is headed for another downturn. 
+ <p class="updated_time"> 09:32 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/russia-targets-ukraines-rail-links-for-military-gains-11653987818">Russia Targets Ukraine’s Rail Links for Military Gains</a> WSJ: Russia Targets Ukraine’s Rail Links for Military Gains 
  <p class="updated_time"> 09:32 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/europe/hungary-oil-embargo-russia.html">Hungary’s Oil Embargo Exemption Is a Sign of Orban’s Affinity for Russia</a> NYT: Prime Minister Viktor Orban has spoken admiringly of President Vladimir Putin and expressed sympathy for his security demands to NATO. 
  <p class="updated_time"> 09:23 AM CT, May. 31 </p> 
@@ -43,20 +47,18 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/31/world/europe/macron-diplomats-strike-france.html">French Diplomats to Strike Over Loss of Separate Status</a> NYT: President Emmanuel Macron wants more flexibility to move senior officials between roles, but diplomats see a demotion and potential cronyism. 
  <p class="updated_time"> 09:12 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61643533?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Refugee from Popasna spots looted possessions on Russian tank</a> BBC: The Ukrainian says she recognises items from her house on a Russian tank, including a new boiler. 
- <p class="updated_time"> 09:00 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/russia-targets-ukraines-rail-links-for-military-gains-11653987818">Russia Targets Ukraine’s Rail Links for Military Gains</a> WSJ: Russia Targets Ukraine’s Rail Links for Military Gains 
  <p class="updated_time"> 08:50 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61638860?at_medium=RSS&at_campaign=KARANGA">Russian oil: EU agrees compromise deal on banning imports</a> BBC: The latest round of EU-wide sanctions excludes pipeline oil imports after Hungary opposed a total ban. 
  <p class="updated_time"> 08:46 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/climate/united-states-climate-ranking-trump.html">Trump Policies Sent U.S. Tumbling in a Climate Ranking</a> NYT: The Environmental Performance Index, published every two years by researchers at Yale and Columbia, found only Denmark and Britain on sustainable paths to net-zero emissions by 2050. 
+ <p class="updated_time"> 08:32 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/australia/china-united-states-pacific.html">Why China Is Miles Ahead in a Pacific Race for Influence</a> NYT: To many observers, the South Pacific today reveals what American decline looks like. Even as Washington tries to step up its game, it is still far behind, mistaking speeches for impact and interest for influence. 
  <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102105392/australias-new-prime-minister-albanese-appoints-record-10-women-to-his-cabinet">Australia's new prime minister appoints a record 10 women to his Cabinet</a> NPR: Australia's new government will look more like its country, as Prime Minister Anthony Albanese has named 10 women to his incoming Cabinet. 
  <p class="updated_time"> 08:19 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/29/health/coronavirus-testing-positive.html">Can I Stop Isolating If I’m Still Testing Positive for the Virus?</a> NYT: Some people may test positive for the coronavirus for 10 days or longer, but interpreting those results remains difficult, experts said. 
- <p class="updated_time"> 08:00 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 06:53 AM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/israel-u-a-e-sign-free-trade-agreement-11653985544">Israel, U.A.E. Sign Free-Trade Agreement</a> WSJ: Officials from both countries said the deal would boost business ties less than two years after they established formal diplomatic relations in a U.S.-brokered deal. 
  <p class="updated_time"> 05:51 AM CT, May. 31 </p> 
@@ -202,16 +204,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:56 PM CT, May. 31 </p> 
+ <p class="updated_time"> 01:27 PM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/28/us/politics/russia-syria-aid-refugees.html">Diplomats Fear Russia May Use Syrian Aid as Bargaining Chip in Ukraine</a> NYT: Countries in Europe and the Middle East could see a new surge in refugees if Russia shuts down the last humanitarian convoy route into Syria. 
+ <p class="updated_time"> 01:25 PM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/29/us/politics/e-robert-wallach-dead.html">E. Robert Wallach, 88, Lawyer Linked to Reagan-Era Scandal, Dies</a> NYT: Convicted in a fraud case that took down an attorney general, he successfully appealed, and later defended himself in a retrial. 
+ <p class="updated_time"> 01:22 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/business/biden-powell-meeting-inflation.html">Biden and Powell Are Set to Meet to Discuss U.S. and Global Economy</a> NYT: Big risks threaten economic growth around the world as central banks try to bring prices under control. 
+ <p class="updated_time"> 01:01 PM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/us/politics/republicans-voter-fraud-claims-2022.html">They Insisted the 2020 Election Was Tainted. Their 2022 Primary Wins? Not So Much.</a> NYT: Republicans are accepting their primary victories with little concern about the voter fraud they once falsely claimed caused Donald J. Trump’s loss. 
  <p class="updated_time"> 12:46 PM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/us/politics/michael-sussmann-durham-fbi.html">Michael Sussmann Is Acquitted in Case Brought by Trump-Era Prosecutor</a> NYT: The Democratic-linked lawyer was accused of lying about his clients to the F.B.I. when he passed on a tip about possible connections between Donald J. Trump and Russia. 
  <p class="updated_time"> 11:11 AM CT, May. 31 </p> 
- <a href="https://www.npr.org/2022/05/31/1102150260/special-counsel-durham-fails-first-courtroom-test-in-his-three-year-probe">Special Counsel Durham fails first courtroom test in his three-year probe </a> NPR: Michael Sussmann was acquitted of one charge of lying to the FBI in the first verdict rendered during the probe by a special counsel appointed by the Trump administration. 
+ <a href="https://www.npr.org/2022/05/31/1102150260/special-counsel-durham-fails-first-courtroom-test-in-his-three-year-probe">Special Counsel Durham fails first courtroom test in his three-year probe </a> NPR: Michael Sussmann was acquitted of one charge of lying to the FBI in the first verdict rendered during the probe by a special counsel appointed in the Trump administration. 
  <p class="updated_time"> 11:07 AM CT, May. 31 </p> 
  <a href="https://www.politico.com/news/2022/05/31/sussmann-acquitted-trump-special-counsel-00036033">Sussmann acquitted on charge brought by special counsel Durham</a> Politico: The jury acquitted Michael Sussmann, 57, on a charge that he lied when he allegedly denied he was acting on behalf of any client in alerting the FBI to claims that a secret server linked Trump and a Moscow bank. 
- <p class="updated_time"> 10:12 AM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/31/us/politics/republicans-voter-fraud-claims-2022.html">They Insisted the 2020 Election Was Tainted. Their 2022 Primary Wins? Not So Much.</a> NYT: Republicans are accepting their primary victories with little concern about the voter fraud they once falsely claimed caused Donald J. Trump’s loss. 
  <p class="updated_time"> 10:10 AM CT, May. 31 </p> 
  <a href="https://www.cnn.com/video/playlists/this-week-in-politics/">Politics of the Day</a> CNN: Politics of the Day 
  <p class="updated_time"> 09:39 AM CT, May. 31 </p> 
@@ -222,6 +228,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/31/1102105392/australias-new-prime-minister-albanese-appoints-record-10-women-to-his-cabinet">Australia's new prime minister appoints a record 10 women to his Cabinet</a> NPR: Australia's new government will look more like its country, as Prime Minister Anthony Albanese has named 10 women to his incoming Cabinet. 
  <p class="updated_time"> 08:19 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/politics/senate-guns-democracy.html">In the Senate, Chasing an Ever-Elusive Gun Law Deal</a> NYT: After a string of Democratic failures on marquee issues, Senator Chuck Schumer’s decision to give bipartisan gun talks time is a test of the Senate — and of democracy itself. 
+ <p class="updated_time"> 07:37 AM CT, May. 31 </p> 
+ <a href="https://www.cnn.com/2022/05/31/politics/supreme-court-roe-v-wade-leak-phone-records/index.html">Supreme Court leak investigation heats up as clerks are asked for phone records in unprecedented move</a> CNN: Supreme Court officials are escalating their search for the source of the leaked draft opinion that would overturn Roe v. Wade, taking steps to require law clerks to provide cell phone records and sign affidavits, three sources with knowledge of the efforts have told CNN. 
  <p class="updated_time"> 07:25 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/politics/peter-navarro-jan-6-subpoena.html">Peter Navarro, Former Trump Aide, Gets Grand Jury Subpoena in Jan. 6 Inquiry</a> NYT: The subpoena, the latest indication of an expanding inquiry by federal prosecutors, seeks Mr. Navarro’s testimony and any records he has related to the attack on the Capitol last year. 
  <p class="updated_time"> 06:37 AM CT, May. 31 </p> 
@@ -280,8 +288,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/29/pelosi-husband-driving-under-influence-00035868">Pelosi’s husband arrested on suspicion of DUI in California</a> Politico: Paul Pelosi was taken into custody late Saturday in Napa County. 
  <p class="updated_time"> 04:44 PM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1102015377/biden-mourns-with-community-in-uvalde-visit">Biden mourns with community in Uvalde visit</a> NPR: President Biden is traveling to Uvalde, Texas, to mourn with the community. It's his second visit to a community that's been devastated by a mass shooting in less than two weeks. 
- <p class="updated_time"> 03:16 PM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/2022/05/29/us/politics/e-robert-wallach-dead.html">E. Robert Wallach, 88, Lawyer Linked to Reagan-Era Scandal, Dies</a> NYT: Convicted in a fraud case that took down an attorney general, he successfully appealed, and later defended himself in a retrial. 
  <p class="updated_time"> 02:15 PM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/us/politics/2000-mules-trump-conspiracy-theory.html">‘2000 Mules’ Repackages Trump’s Election Lies</a> NYT: A new documentary from Trump allies makes the latest case the election was stolen, but the group behind the claim has been assailed even by some on the hard right. 
  <p class="updated_time"> 02:06 PM CT, May. 29 </p> 
