@@ -11,20 +11,22 @@ webappicon: /plots/news.png
 
  <p class="updated_time"> 06:40 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61643533?at_medium=RSS&at_campaign=KARANGA">Ukrainian refugee from Popasna spots looted possessions on Russian tank</a> BBC: The Ukrainian says she recognises items from her house on a Russian tank, including a new boiler. 
+ <p class="updated_time"> 06:33 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273">Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower</a> WSJ: Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower 
  <p class="updated_time"> 06:28 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/05/30/world/russia-ukraine-war">What Happened on Day 96 of the War in Ukraine</a> NYT: A draft of the agreement allows pipeline imports, in a nod to Hungary’s complaints. Even still, it would be the toughest action yet over Russia’s invasion of Ukraine. The E.U. also pledged 9 billion euros to help Ukraine, and the Eurovision winners auctioned off their trophy to support Ukraine’s army. 
- <p class="updated_time"> 05:54 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/russia-targets-ukraines-rail-links-for-military-gains-11653987818">Russia Targets Ukraine’s Rail Links for Military Gains</a> WSJ: Russia Targets Ukraine’s Rail Links for Military Gains 
  <p class="updated_time"> 05:51 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61647385?at_medium=RSS&at_campaign=KARANGA">What do Russian papers say about sanctions?</a> BBC: As the EU announces new penalties, Steve Rosenberg looks at what Russian media has to say. 
+ <p class="updated_time"> 05:33 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU’s Ban on Russian Oil Adds Stress to Region’s Economies</a> WSJ: EU’s Ban on Russian Oil Adds Stress to Region’s Economies 
  <p class="updated_time"> 05:25 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61631967?at_medium=RSS&at_campaign=KARANGA">Mexico's Maya train project stalls as legal battle drags</a> BBC: A judge delivers a fresh blow to the project which aims to link archaeological sites with beach resorts. 
  <p class="updated_time"> 05:16 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61642596?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: Murdered India singer hit by 24 bullets, says report</a> BBC: Video footage of Sidhu Moose Wala's car shows it was sprayed with bullets. 
- <p class="updated_time"> 04:54 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/eu-leaders-spar-over-russian-oil-ban-11653921289">European Union Pledges to Curb Oil Purchases From Russia</a> WSJ: European Union Pledges to Curb Oil Purchases From Russia 
  <p class="updated_time"> 04:47 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61638860?at_medium=RSS&at_campaign=KARANGA">Russian oil: EU agrees compromise deal on banning imports</a> BBC: The latest round of EU-wide sanctions excludes pipeline oil imports after Hungary opposed a total ban. 
+ <p class="updated_time"> 04:33 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/guided-u-s-rockets-could-double-ukraines-strike-range-11653989401">Guided U.S. Rockets Could Double Ukraine’s Strike Range</a> WSJ: Guided U.S. Rockets Could Double Ukraine’s Strike Range 
  <p class="updated_time"> 04:33 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61645241?at_medium=RSS&at_campaign=KARANGA">Iran building collapse: Protesters turn on government over disaster</a> BBC: Nightly protests continue as Iranians seethe, a week after the deadliest building collapse in years. 
  <p class="updated_time"> 04:23 AM CT, May. 31 </p> 
@@ -39,20 +41,20 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/31/world/australia/china-united-states-pacific.html">Why China Is Miles Ahead in a Pacific Race for Influence</a> NYT: To many observers, the South Pacific today reveals what American decline looks like. Even as Washington tries to step up its game, it is still far behind, mistaking speeches for impact and interest for influence. 
  <p class="updated_time"> 04:00 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/asia/ukrainians-donbas-russia-war.html">Even as Russia Bears Down in the East, Some Ukrainians Stay Behind</a> NYT: The Russian offensive grinds on, but not everyone is leaving the eastern Donbas region. 
- <p class="updated_time"> 03:54 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/israel-u-a-e-sign-free-trade-agreement-11653985544">Israel, U.A.E. Sign Free-Trade Agreement</a> WSJ: Israel, U.A.E. Sign Free-Trade Agreement 
  <p class="updated_time"> 03:52 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/asia/china-children-textbooks.html">China Orders Investigation Into  Children’s Textbooks</a> NYT: The discovery of what some viewed as disturbing illustrations in books for elementary school students set off a national furor. 
  <p class="updated_time"> 03:46 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102097736/denmark-will-hold-a-referendum-on-eu-defense-amid-ukraine-war">Denmark will hold a referendum on EU defense amid Ukraine war</a> NPR: Danish voters are being asked to choose whether to abandon the country's decision three decades ago to opt out of the bloc's common defense policy. 
  <p class="updated_time"> 03:41 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/americas/hurricane-mexico-agatha-forecast.html">Agatha Moves Across Southern Mexico as a Tropical Storm</a> NYT: The storm, which made landfall as Category 2 hurricane, was expected to move inland over the state of Oaxaca on Tuesday before dissipating. 
- <p class="updated_time"> 02:54 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/taiwanese-air-force-pilot-dies-in-second-fatal-crash-this-year-11653983131">Taiwanese Air Force Pilot Dies in Military’s Second Fatal Crash This Year</a> WSJ: Taiwanese Air Force Pilot Dies in Military’s Second Fatal Crash This Year 
+ <p class="updated_time"> 03:33 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/russia-targets-ukraines-rail-links-for-military-gains-11653987818">Russia Targets Ukraine’s Rail Links for Military Gains</a> WSJ: Russia Targets Ukraine’s Rail Links for Military Gains 
+ <p class="updated_time"> 02:33 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/video/series/in-depth-features/us-vs-china-the-race-to-build-hypersonic-missiles/F3ADF598-61E7-437F-B4F6-2FDE9A04B0A7">U.S. vs. China: The Race to Build Hypersonic Missiles</a> WSJ: U.S. vs. China: The Race to Build Hypersonic Missiles 
+ <p class="updated_time"> 02:29 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/israel-u-a-e-sign-free-trade-agreement-11653985544">Israel, U.A.E. Sign Free-Trade Agreement</a> WSJ: Officials from both countries said the deal would boost business ties less than two years after they established formal diplomatic relations in a U.S.-brokered deal. 
  <p class="updated_time"> 02:05 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102095716/shanghai-eases-into-gradually-reopening-from-its-covid-19-lockdown">Shanghai eases into gradually reopening from its COVID-19 lockdown</a> NPR: China's largest city and global financial hub plans to restore mass transit and gradually reopen schools 
- <p class="updated_time"> 01:54 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/canada-to-ban-purchase-sale-of-handguns-in-new-gun-control-measures-11653950968">Canada to Ban Purchase, Sale of Handguns in New Gun Control Measures</a> WSJ: Canada to Ban Purchase, Sale of Handguns in New Gun Control Measures 
  <p class="updated_time"> 01:30 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/climate/united-states-climate-ranking-trump.html">Trump Policies Sent U.S. Tumbling in a Climate Ranking</a> NYT: The Environmental Performance Index, published every two years by researchers at Yale and Columbia, found only Denmark and Britain on sustainable paths to net-zero emissions by 2050. 
  <p class="updated_time"> 01:22 AM CT, May. 31 </p> 
@@ -65,6 +67,8 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-asia-61642217?at_medium=RSS&at_campaign=KARANGA">China sends 30 warplanes into Taiwan air defence zone</a> BBC: The incursions come days after US President Joe Biden issued a strong warning to China over Taiwan. 
  <p class="updated_time"> 11:32 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-61602153?at_medium=RSS&at_campaign=KARANGA">Crown Resorts: Casino firm fined over illegal China dealings</a> BBC: Australia's Crown Resorts acknowledged its "historic failings" and promised to work on reforms. 
+ <p class="updated_time"> 10:45 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/taiwanese-air-force-pilot-dies-in-second-fatal-crash-this-year-11653983131">Taiwanese Air Force Pilot Dies in Military's Second Fatal Crash This Year</a> WSJ: A Taiwanese air force pilot died after his jet went down during a training flight. It comes as China’s military has ramped up aircraft sorties near Taiwan. 
  <p class="updated_time"> 09:17 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61641853?at_medium=RSS&at_campaign=KARANGA">Australia election: PM Anthony Albanese secures majority government</a> BBC: The results in many seats had been unclear after a record vote for independents and minor parties. 
  <p class="updated_time"> 08:27 PM CT, May. 30 </p> 
@@ -111,8 +115,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-europe-61634050?at_medium=RSS&at_campaign=KARANGA">'I watched from afar Russia’s latest merciless assault on Severodonetsk'</a> BBC: Quentin Sommerville describes relentless artillery bombardment in Donbas ahead of Russian forces entering Severodonetsk. 
  <p class="updated_time"> 10:38 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ireland-dublin-airport-delay-covid.html">At Dublin Airport, Staff Shortages Lead to Travel Chaos</a> NYT: More than 1,000 passengers missed flights there in a day, part of a spate of similar difficulties across Europe as demand for travel surges. 
- <p class="updated_time"> 10:16 AM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/iran-hasnt-provided-credible-explanations-for-nuclear-material-u-n-agency-says-11653923148">U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon</a> WSJ: The United Nations atomic agency said Iran hadn’t offered credible answers to its probe into nuclear material found there, making it likely its investigation will continue. 
  <p class="updated_time"> 10:08 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ukraine-russia-chernihiv.html">A Russian Plane Crashed Into a House. Death Was Parceled Out Randomly.</a> NYT: Some fortuitous timing in doing chores saved a family that lived in the Ukrainian city of Chernihiv. A few blocks away, things turned out very differently. 
  <p class="updated_time"> 09:57 AM CT, May. 30 </p> 
@@ -196,16 +198,20 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:25 AM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/30/us/politics/peter-navarro-jan-6-subpoena.html">Peter Navarro, Former Trump Aide, Gets Grand Jury Subpoena in Jan. 6 Inquiry</a> NYT: The subpoena, the latest indication of an expanding inquiry by federal prosecutors, seeks Mr. Navarro’s testimony and any records he has related to the attack on the Capitol last year. 
+ <p class="updated_time"> 06:37 AM CT, May. 31 </p> 
+ <a href="https://www.politico.com/news/2022/05/31/biden-inflation-op-ed-00035951">‘My top economic priority’: Biden op-ed lays out plan to fight inflation</a> Politico: The issue has dampened the president’s approval rating and plagued Democrats ahead of the midterm elections. 
  <p class="updated_time"> 06:26 AM CT, May. 31 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2022/05/31/senators-zoom-but-dont-rush-on-gun-compromise-00035958">Senators Zoom, but don't rush, on gun compromise</a> Politico Huddle: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 04:01 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1101399058/progressives-take-a-leaf-out-of-the-conservative-playbook-to-target-school-board">Progressives take a leaf out of the conservative playbook to target school boards</a> NPR: There has been a groundswell of conservative enthusiasm around school politics in the last few years. Progressives are hoping to have their own source of organization to counter that enthusiasm. 
  <p class="updated_time"> 03:30 AM CT, May. 31 </p> 
+ <a href="https://www.politico.com/news/2022/05/31/biden-white-house-black-staffers-00035931">Biden sees exodus of Black staffers and some frustration among those who remain</a> Politico: The White House is historically diverse. But there are concerns internally about a wave of departures and the current culture. 
+ <p class="updated_time"> 03:30 AM CT, May. 31 </p> 
  <a href="https://www.politico.com/news/2022/05/31/tom-cotton-gop-conservatives-00035784">Tom Cotton's rigid conservatism</a> Politico: He doesn't say “no” when asked about 2024. But the Arkansan does rule out giving ground on much — from immigration to criminal justice to foreign policy. 
  <p class="updated_time"> 03:30 AM CT, May. 31 </p> 
  <a href="https://www.politico.com/news/2022/05/31/hacking-politicians-phones-00035848">Why we can expect more hacking of politicians’ phones</a> Politico: Increasing discoveries of spyware infections on the devices of politicians and government officials highlight a hard-to-solve tradeoff. 
- <p class="updated_time"> 09:00 PM CT, May. 30 </p> 
- <a href="https://www.nytimes.com/2022/05/30/us/politics/peter-navarro-jan-6-subpoena.html">Peter Navarro, Former Trump Aide, Gets Grand Jury Subpoena in Jan. 6 Inquiry</a> NYT: The subpoena, the latest indication of an expanding inquiry by federal prosecutors, seeks Mr. Navarro’s testimony and any records he has related to the attack on the Capitol last year. 
  <p class="updated_time"> 09:00 PM CT, May. 30 </p> 
  <a href="https://www.politico.com/news/2022/05/30/peter-navarro-grand-jury-trump-00035904">Former Trump aide Navarro says he has received a grand jury subpoena related to Jan. 6</a> Politico: He claims they have asked for records of “any communications” with the former president. 
  <p class="updated_time"> 07:36 PM CT, May. 30 </p> 
@@ -239,11 +245,9 @@ webappicon: /plots/news.png
  <p class="updated_time"> 06:17 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102029154/independent-probe-of-uvalde-shooting-is-the-right-call-texas-state-rep-white-say">Independent probe of Uvalde shooting is the right call, Texas state Rep. White says</a> NPR: NPR's Rachel Martin talks to state Rep. James White, an East Texas Republican who supports gun rights, about firearm legislation following the mass shooting at Robb Elementary School in Uvalde. 
  <p class="updated_time"> 06:00 AM CT, May. 30 </p> 
- <a href="https://www.politico.com/news/2022/05/30/william-burns-cia-putin-russia-00035863">The Putinologist: CIA chief’s long history with Putin gives him special insight</a> Politico: Burns’ extensive experience in Russia makes him a singular figure among President Joe Biden’s aides. 
- <p class="updated_time"> 06:00 AM CT, May. 30 </p> 
  <a href="https://www.politico.com/news/2022/05/30/elon-musks-twitter-takeover-stock-market-rules-00034122">How Elon Musk's Twitter takeover may help change stock market rules</a> Politico: At issue is Musk’s 11-day delay in revealing that he purchased a 9.1 percent stake in Twitter before announcing the acquisition plan. 
  <p class="updated_time"> 06:00 AM CT, May. 30 </p> 
- <a href="https://www.politico.com/news/2022/05/30/americas-hospital-regulator-wasnt-designed-for-a-pandemic-00035835">America’s hospital regulator wasn’t designed for a pandemic</a> Politico: The Centers for Medicare and Medicaid Services is responsible for safety regulations. It is ill-equipped to enforce them. 
+ <a href="https://www.politico.com/news/2022/05/30/william-burns-cia-putin-russia-00035863">The Putinologist: CIA chief’s long history with Putin gives him special insight</a> Politico: Burns’ extensive experience in Russia makes him a singular figure among President Joe Biden’s aides. 
  <p class="updated_time"> 05:47 AM CT, May. 30 </p> 
  <a href="https://www.cnn.com/2022/05/30/politics/senate-house-primaries-2022-takeaways/index.html">7 takeaways from the 2022 primary season so far</a> CNN: After the first month of multiple major primaries in the 2022 election season, both parties are facing uncertainty over their direction -- and whose influence will dominate the next wave of nominating contests. 
  <p class="updated_time"> 04:01 AM CT, May. 30 </p> 
@@ -272,8 +276,6 @@ webappicon: /plots/news.png
  <a href="https://www.politico.com/news/2022/05/29/republicans-contrast-guns-brooks-kinzinger-00035860">Republicans offer contrasting views on gun law reform</a> Politico: Adam Kinzinger is open to changing laws; Mo Brooks wants to protect the Second Amendment. 
  <p class="updated_time"> 09:19 AM CT, May. 29 </p> 
  <a href="https://www.politico.com/news/2022/05/29/chris-murphy-texas-gun-measures-00035856">Lawmakers offer mild optimism about gun legislation</a> Politico: Sen. Chris Murphy and other lawmakers said they saw hope for the current bipartisan efforts. 
- <p class="updated_time"> 06:00 AM CT, May. 29 </p> 
- <a href="https://www.politico.com/news/2022/05/29/gop-senate-herschel-walker-georgia-00035851">‘He doesn't speak in beautiful syntax’: GOP bets the Senate that Walker is ready for prime time</a> Politico: Herschel Walker’s post-primary victory lap was a fresh reminder of his promise and peril as GOP nominee in Georgia. 
  <p class="updated_time"> 04:00 AM CT, May. 29 </p> 
  <a href="https://www.npr.org/2022/05/29/1100980188/u-s-house-loses-more-swing-in-2022">U.S. House loses more 'swing' in 2022</a> NPR: Only a small fraction of U.S. House seats are now considered "swing" seats that could be won by either party. 
  <p class="updated_time"> 11:16 PM CT, May. 28 </p> 
