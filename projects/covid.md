@@ -436,9 +436,9 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">136</td>
-<td class="gt_row gt_right">113</td>
-<td class="gt_row gt_right">&minus;17%</td></tr>
+<td class="gt_row gt_right">112</td>
+<td class="gt_row gt_right">108</td>
+<td class="gt_row gt_right">&minus;4%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">16</td>
 <td class="gt_row gt_right gt_striped">27</td>
@@ -448,21 +448,21 @@ html {
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_right">&minus;100%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">273</td>
-<td class="gt_row gt_right gt_striped">252</td>
-<td class="gt_row gt_right gt_striped">&minus;8%</td></tr>
+<td class="gt_row gt_right gt_striped">293</td>
+<td class="gt_row gt_right gt_striped">221</td>
+<td class="gt_row gt_right gt_striped">&minus;25%</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
-<td class="gt_row gt_right">132,000</td>
-<td class="gt_row gt_right">132,000</td>
+<td class="gt_row gt_right">135,000</td>
+<td class="gt_row gt_right">135,000</td>
 <td class="gt_row gt_right">0%</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Pct. Fully Vaccinated</td>
-<td class="gt_row gt_right gt_striped">63</td>
-<td class="gt_row gt_right gt_striped">63</td>
+<td class="gt_row gt_right gt_striped">64</td>
+<td class="gt_row gt_right gt_striped">64</td>
 <td class="gt_row gt_right gt_striped">+0%</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Tuesday</td>
     </tr>
   </tfoot>
   <tfoot class="gt_footnotes">
@@ -1911,7 +1911,7 @@ html {
 
 As of Monday, the 14-day percent change in average new cases was:
   
-- -17% in Champaign County
+- -3% in Champaign County
 - -9% in Illinois
 - -11% in the United States
 - -18% worldwide
