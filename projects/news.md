@@ -9,36 +9,42 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:30 AM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/climate/united-states-climate-ranking-trump.html">Trump Policies Sent U.S. Tumbling in a Climate Ranking</a> NYT: The Environmental Performance Index, published every two years by researchers at Yale and Columbia, found only Denmark and Britain on sustainable paths to net-zero emissions by 2050. 
+ <p class="updated_time"> 01:22 AM CT, May. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-61638860?at_medium=RSS&at_campaign=KARANGA">Russian oil: EU agrees compromise deal on banning imports</a> BBC: The latest round of EU-wide sanctions excludes pipeline oil imports after Hungary opposed a total ban. 
+ <p class="updated_time"> 01:22 AM CT, May. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-61548615?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: Controversial Indian rapper who made waves with his music</a> BBC: Shubhdeep Singh Sidhu, popularly known as Sidhu Moose Wala, was murdered in Punjab on Sunday. 
+ <p class="updated_time"> 01:22 AM CT, May. 31 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/61636938?at_medium=RSS&at_campaign=KARANGA">Champions League final: Uefa commissions independent report into scenes outside stadium</a> BBC: Uefa commissions an independent report into the scenes that delayed Saturday's Champions League final between Liverpool and Real Madrid. 
  <p class="updated_time"> 12:59 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/live/2022/05/30/world/russia-ukraine-war">What Happened on Day 96 of the War in Ukraine</a> NYT: A draft of the agreement allows pipeline imports, in a nod to Hungary’s complaints. Even still, it would be the toughest action yet over Russia’s invasion of Ukraine. The E.U. also pledged 9 billion euros to help Ukraine, and the Eurovision winners auctioned off their trophy to support Ukraine’s army. 
  <p class="updated_time"> 12:47 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/americas/hurricane-mexico-agatha-forecast.html">Agatha Moves Across Southern Mexico as a Tropical Storm</a> NYT: The storm, which made landfall as Category 2 hurricane, was expected to move inland over the state of Oaxaca on Tuesday before dissipating. 
- <p class="updated_time"> 12:14 AM CT, May. 31 </p> 
+ <p class="updated_time"> 12:46 AM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/eu-leaders-spar-over-russian-oil-ban-11653921289">European Union Pledges to Curb Oil Purchases From Russia</a> WSJ: European Union Pledges to Curb Oil Purchases From Russia 
  <p class="updated_time"> 12:07 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/asia/nepal-plane-crash.html">Nepal Plane Crash: All 22 Bodies Are Recovered</a> NYT: The plane went down in bad weather on Sunday while carrying passengers to Jomsom, a tourist destination popular with trekkers. 
  <p class="updated_time"> 11:51 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-61642217?at_medium=RSS&at_campaign=KARANGA">China sends 30 warplanes into Taiwan air defence zone</a> BBC: The incursions come days after US President Joe Biden issued a strong warning to China over Taiwan. 
+ <p class="updated_time"> 11:46 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
  <p class="updated_time"> 11:32 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/business-61602153?at_medium=RSS&at_campaign=KARANGA">Crown Resorts: Casino firm fined over illegal China dealings</a> BBC: Australia's Crown Resorts acknowledged its "historic failings" and promised to work on reforms. 
- <p class="updated_time"> 11:14 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/russian-forces-push-into-pivotal-city-in-eastern-ukraine-11653902335">Russian Forces Push Into Key City in East Ukraine</a> WSJ: Russian Forces Push Into Key City in East Ukraine 
- <p class="updated_time"> 10:14 PM CT, May. 30 </p> 
+ <p class="updated_time"> 10:46 PM CT, May. 30 </p> 
  <a href="https://www.wsj.com/articles/bombed-bridges-closed-ports-keep-ukrainian-grain-from-a-world-that-needs-it-11653903001">Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It</a> WSJ: Bombed Bridges, Closed Ports Keep Ukrainian Grain From a World That Needs It 
  <p class="updated_time"> 10:08 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/live/2022/05/29/espanol/elecciones-colombia-resultados">Colombia a segunda vuelta: un candidato de izquierda y un populista de derecha se enfrentarán en junio</a> NYT: Dos candidatos antisistema, Gustavo Petro, de izquierda, y Rodolfo Hernández, de derecha, alcanzaron los dos primeros lugares en las elecciones presidenciales del domingo. 
+ <p class="updated_time"> 09:46 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/iran-hasnt-provided-credible-explanations-for-nuclear-material-u-n-agency-says-11653923148">U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon</a> WSJ: U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon 
  <p class="updated_time"> 09:17 PM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-61641853?at_medium=RSS&at_campaign=KARANGA">Australia election: PM Anthony Albanese secures majority government</a> BBC: The results in many seats had been unclear after a record vote for independents and minor parties. 
- <p class="updated_time"> 09:14 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/iran-hasnt-provided-credible-explanations-for-nuclear-material-u-n-agency-says-11653923148">U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon</a> WSJ: U.N. Says Iran Has Enough Uranium to Produce Nuclear Weapon 
+ <p class="updated_time"> 08:46 PM CT, May. 30 </p> 
+ <a href="https://www.wsj.com/articles/china-and-the-u-s-are-arranging-an-in-person-meeting-between-heads-of-defense-11653914442">China, U.S. Are Arranging In-Person Meeting Between Heads of Defense</a> WSJ: China, U.S. Are Arranging In-Person Meeting Between Heads of Defense 
  <p class="updated_time"> 08:27 PM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102089698/indian-rapper-sidhu-moose-wala-hot-dead-28">Indian rapper Sidhu Moose Wala was shot dead at 28</a> NPR: Shubhdeep Singh Sidhu, also known around the world by his stage name Sidhu Moose Wala, was killed Sunday evening while driving his car in Mansa, a district in northern India's Punjab state. 
- <p class="updated_time"> 08:14 PM CT, May. 30 </p> 
- <a href="https://www.wsj.com/articles/china-and-the-u-s-are-arranging-an-in-person-meeting-between-heads-of-defense-11653914442">China, U.S. Are Arranging In-Person Meeting Between Heads of Defense</a> WSJ: China, U.S. Are Arranging In-Person Meeting Between Heads of Defense 
  <p class="updated_time"> 08:06 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/canada/canada-gun-buyback.html">Canada Plans to Ban Handgun Sales and Possession of Assault Weapons</a> NYT: “We have a responsibility to act to prevent more tragedies,” Prime Minister Trudeau said as he proposed tightening the country’s already stringent control of firearms. 
- <p class="updated_time"> 07:41 PM CT, May. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61638860?at_medium=RSS&at_campaign=KARANGA">Russian oil: EU agrees compromise deal on banning imports</a> BBC: The latest round of EU-wide sanctions excludes pipeline oil imports after Hungary opposed a total ban. 
  <p class="updated_time"> 06:30 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/kalush-orchestra-ukraine-auction.html">Kalush Orchestra, Eurovision Winner, Auctions Off Trophy to Aid Ukraine Army</a> NYT: Millions of people have viewed a video of the band Kalush Orchestra that was filmed in the rubble of Ukraine. Its members have urged fans to help the Ukrainian army. 
  <p class="updated_time"> 06:06 PM CT, May. 30 </p> 
@@ -69,8 +75,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/canada-military-sexual-misconduct.html">Canada’s Military, Where Sexual Misconduct Went to the Top, Looks for a New Path</a> NYT: A report by a former Supreme Court justice released Monday offers recommendations to turn around pervasive sexual assault and harassment. 
  <p class="updated_time"> 02:15 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/mona-lisa-pastry-louvre.html">Man Throws Pastry at Mona Lisa, Smearing Cream on Glass Case</a> NYT: The painting was not harmed and the man, who officials said was in a wheelchair and had faked a disability to get close to it, was taken into custody. 
- <p class="updated_time"> 02:00 PM CT, May. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-61630201?at_medium=RSS&at_campaign=KARANGA">Champions League final: France blames 'massive' ticket fraud as policing row rages</a> BBC: Chaotic scenes outside Saturday's Champions League final saw Liverpool fans pepper sprayed by police. 
  <p class="updated_time"> 01:08 PM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/ucl-game-delay-france.html">Under Fire for Chaos at Soccer Final, France Rejects Blame for Failures</a> NYT: Tear gas and delays marred the Champions League final in Paris on Saturday, raising questions over France’s ability to host large-scale sporting events like the 2024 Summer Olympics. 
  <p class="updated_time"> 12:30 PM CT, May. 30 </p> 
@@ -99,8 +103,6 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-latin-america-61631964?at_medium=RSS&at_campaign=KARANGA">'TikTok King', 77, challenges ex-rebel for Colombia's top job</a> BBC: Rodolfo Hernández, a populist and savvy social media user, faces an ex-rebel in Colombia's run-off. 
  <p class="updated_time"> 07:30 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/melitopol-explosion.html">Explosion Hits Russian-Occupied Melitopol </a> NYT: Pro-Kremlin authorities in the city blamed Ukrainian partisans for the blast, which they said had injured two people. 
- <p class="updated_time"> 07:09 AM CT, May. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-61629133?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: The murdered Indian rapper who 'made sense of chaos'</a> BBC: Sidhu Moose Wala won millions of fans but also upset some with his fascination for guns. 
  <p class="updated_time"> 04:39 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102031476/number-of-seized-drugs-reaches-record-in-asia">1 billion pills: The number of seized drugs reaches ominous record in Asia</a> NPR: A U.N. official calls for new policies across East Asia to halt the soaring production of methamphetamines. 
  <p class="updated_time"> 04:05 AM CT, May. 30 </p> 
@@ -111,8 +113,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/30/travel/sicily-regional-trains.html">Circling Sicily on Its Regional Trains</a> NYT: A Dutch photographer, documenting the culture of regional train travel, managed to get around the Italian island for less than $100. Here’s what she saw. 
  <p class="updated_time"> 03:51 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/us/politics/turkey-nato-russia.html">For NATO, Turkey Is a Disruptive Ally</a> NYT: President Recep Tayyip Erdogan’s block on NATO membership for Sweden and Finland is likely to be managed, but Washington and the rest of the alliance are annoyed. 
- <p class="updated_time"> 03:48 AM CT, May. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-61631499?at_medium=RSS&at_campaign=KARANGA">Nancy Pelosi's husband Paul arrested for drink-driving</a> BBC: Paul Pelosi, the partner of the US House speaker, is bailed for $5,000 after a two-vehicle crash. 
  <p class="updated_time"> 03:44 AM CT, May. 30 </p> 
  <a href="https://www.npr.org/2022/05/30/1102028311/china-falls-short-on-big-deal-in-south-pacific-but-finds-smaller-wins">China falls short on big deal in South Pacific but finds smaller wins</a> NPR: Beijing's hopes to developing a marine plan for fisheries holding police training fell short over some countries' concerns over increasing geopolitical tensions and threatening regional stability. 
  <p class="updated_time"> 02:57 AM CT, May. 30 </p> 
@@ -165,8 +165,6 @@ webappicon: /plots/news.png
  <a href="https://www.nytimes.com/2022/05/29/world/asia/sri-lanka-rajapaska-hambantota.html">Lavish Projects and Meager Lives: The Two Faces of a Ruined Sri Lanka</a> NYT: A frenzy of building on borrowed money in the Rajapaksa family’s home district illustrates the hubris and mismanagement that led the country into economic collapse. 
  <p class="updated_time"> 09:20 AM CT, May. 29 </p> 
  <a href="https://www.nytimes.com/2022/05/29/world/asia/nepal-plane-crash.html">Plane Crashes in Nepal With 22 Aboard, Government Says</a> NYT: The search for the plane and its passengers and crew was being hampered by bad weather. 
- <p class="updated_time"> 08:21 AM CT, May. 29 </p> 
- <a href="https://www.nytimes.com/2022/05/27/science/russia-ukraine-science-academy.html">Russian Academics Aim to Punish Colleagues Who Backed Ukraine Invasion</a> NYT: A campaign is circulating a list of dozens of researchers in the hopes they will be denied the prestige of election into the Russian Academy of Sciences. 
  <p class="updated_time"> 06:59 AM CT, May. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61623278?at_medium=RSS&at_campaign=KARANGA">Ukraine war: BBC interview with Russian ambassador to the UK</a> BBC: In a BBC interview, Andrei Kelin is shown CCTV footage of Russian soldiers committing alleged war crimes. 
  <p class="updated_time"> 06:55 AM CT, May. 29 </p> 
