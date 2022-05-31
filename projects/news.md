@@ -9,8 +9,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:35 AM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">Live Updates: Europe Seeks New Ways to Aid Ukraine as Fight Rages in East</a> NYT: European Union leaders continued a two-day summit aimed at raising the invasion’s cost to Russia and bolstering the battered Ukrainian economy. The two armies traded blistering barrages of artillery fire and fought pitched battles in the last Ukrainian-controlled city in the Luhansk region. 
+ <p class="updated_time"> 10:02 AM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/live/2022/05/31/world/russia-ukraine-war">Live Updates: Europe Promises New Ways to Aid Ukraine as Fight Rages in East</a> NYT: European Union leaders concluded a two-day summit aimed at raising the invasion’s cost to Russia and bolstering the battered Ukrainian economy. The two armies traded blistering barrages of artillery fire and fought pitched battles in the last Ukrainian-controlled city in the Luhansk region. 
+ <p class="updated_time"> 09:56 AM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/world/asia/ukrainians-donbas-russia-war.html">Some Ukrainians Stay Behind in Eastern Donbas Region</a> NYT: The Russian offensive grinds on, but not everyone is leaving the eastern Donbas region. 
  <p class="updated_time"> 09:34 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/sections/money/2022/05/31/1101774189/fear-the-vibe-shift-are-we-entering-a-recession">Fear The Vibe Shift: Are We Entering A Recession?</a> NPR: Despite low unemployment, solid spending, and continued job growth, signs are flashing that the U.S. economy is headed for another downturn. 
  <p class="updated_time"> 09:32 AM CT, May. 31 </p> 
@@ -21,34 +23,36 @@ webappicon: /plots/news.png
  <a href="https://www.bbc.co.uk/news/world-middle-east-61645243?at_medium=RSS&at_campaign=KARANGA">Iran lied about banned nuclear activity using stolen documents - Israel</a> BBC: Israel's prime minister shows what he says is proof that Iran lied using stolen documents. 
  <p class="updated_time"> 09:21 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/europe/macron-diplomats-strike-france.html">French Diplomats to Strike Over Loss of Separate Status</a> NYT: President Emmanuel Macron wants more flexibility to move senior officials between roles, but diplomats see a demotion and potential cronyism. 
+ <p class="updated_time"> 09:17 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273">Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower</a> WSJ: Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower 
  <p class="updated_time"> 09:12 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61643533?at_medium=RSS&at_campaign=KARANGA">Ukraine war: Refugee from Popasna spots looted possessions on Russian tank</a> BBC: The Ukrainian says she recognises items from her house on a Russian tank, including a new boiler. 
  <p class="updated_time"> 08:50 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61638860?at_medium=RSS&at_campaign=KARANGA">Russian oil: EU agrees compromise deal on banning imports</a> BBC: The latest round of EU-wide sanctions excludes pipeline oil imports after Hungary opposed a total ban. 
  <p class="updated_time"> 08:46 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/climate/united-states-climate-ranking-trump.html">Trump Policies Sent U.S. Tumbling in a Climate Ranking</a> NYT: The Environmental Performance Index, published every two years by researchers at Yale and Columbia, found only Denmark and Britain on sustainable paths to net-zero emissions by 2050. 
- <p class="updated_time"> 08:41 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/russia-extends-control-over-key-ukraine-city-as-u-s-plans-to-boost-kyivs-firepower-11653991273">Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower</a> WSJ: Russia Extends Control Over Key Ukraine City as U.S. Plans to Boost Kyiv’s Firepower 
  <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/australia/china-united-states-pacific.html">Why China Is Miles Ahead in a Pacific Race for Influence</a> NYT: To many observers, the South Pacific today reveals what American decline looks like. Even as Washington tries to step up its game, it is still far behind, mistaking speeches for impact and interest for influence. 
  <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102105392/australias-new-prime-minister-albanese-appoints-record-10-women-to-his-cabinet">Australia's new prime minister appoints a record 10 women to his Cabinet</a> NPR: Australia's new government will look more like its country, as Prime Minister Anthony Albanese has named 10 women to his incoming Cabinet. 
  <p class="updated_time"> 08:19 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/29/health/coronavirus-testing-positive.html">Can I Stop Isolating If I’m Still Testing Positive for the Virus?</a> NYT: Some people may test positive for the coronavirus for 10 days or longer, but interpreting those results remains difficult, experts said. 
- <p class="updated_time"> 07:41 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/eus-ban-on-russian-oil-adds-stress-to-regions-economies-11653993757">EU’s Ban on Russian Oil Adds Stress to Region’s Economies</a> WSJ: EU’s Ban on Russian Oil Adds Stress to Region’s Economies 
- <p class="updated_time"> 06:41 AM CT, May. 31 </p> 
+ <p class="updated_time"> 08:17 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/cracks-appear-in-western-front-against-russias-war-in-ukraine-11654004651">Cracks Show in Western Front Against Russia’s War in Ukraine</a> WSJ: Cracks Show in Western Front Against Russia’s War in Ukraine 
+ <p class="updated_time"> 07:17 AM CT, May. 31 </p> 
  <a href="https://www.wsj.com/articles/guided-u-s-rockets-could-double-ukraines-strike-range-11653989401">Guided U.S. Rockets Could Double Ukraine’s Strike Range</a> WSJ: Guided U.S. Rockets Could Double Ukraine’s Strike Range 
+ <p class="updated_time"> 06:17 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/russia-targets-ukraines-rail-links-for-military-gains-11653987818">Russia Targets Ukraine’s Rail Links for Military Gains</a> WSJ: Russia Targets Ukraine’s Rail Links for Military Gains 
  <p class="updated_time"> 05:51 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61647385?at_medium=RSS&at_campaign=KARANGA">What do Russian papers say about sanctions?</a> BBC: As the EU announces new penalties, Steve Rosenberg looks at what Russian media has to say. 
- <p class="updated_time"> 05:41 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/russia-targets-ukraines-rail-links-for-military-gains-11653987818">Russia Targets Ukraine’s Rail Links for Military Gains</a> WSJ: Russia Targets Ukraine’s Rail Links for Military Gains 
+ <p class="updated_time"> 05:40 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/two-russian-soldiers-convicted-in-second-ukrainian-war-crimes-trial-11654002069">Two Russian Soldiers Convicted in Second Ukrainian War-Crimes Trial</a> WSJ: The men were found guilty of firing rockets indiscriminately toward civilian areas in Ukraine’s second war crimes trial since Moscow’s attempt at a full-scale invasion began in February. 
  <p class="updated_time"> 05:25 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-61631967?at_medium=RSS&at_campaign=KARANGA">Mexico's Maya train project stalls as legal battle drags</a> BBC: A judge delivers a fresh blow to the project which aims to link archaeological sites with beach resorts. 
+ <p class="updated_time"> 05:17 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/expatriate-executives-flee-saudi-arabias-bad-bosses-crown-prince-mohammed-mbs-neom-nasr-11654008823">Expatriate Executives Flee Saudi Arabia’s Bad Bosses</a> WSJ: Expatriate Executives Flee Saudi Arabia’s Bad Bosses 
  <p class="updated_time"> 05:16 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61642596?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: Murdered India singer hit by 24 bullets, says report</a> BBC: Video footage of Sidhu Moose Wala's car shows it was sprayed with bullets. 
- <p class="updated_time"> 04:41 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/video/series/in-depth-features/us-vs-china-the-race-to-build-hypersonic-missiles/F3ADF598-61E7-437F-B4F6-2FDE9A04B0A7">U.S. vs. China: The Race to Build Hypersonic Missiles</a> WSJ: U.S. vs. China: The Race to Build Hypersonic Missiles 
  <p class="updated_time"> 04:33 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-61645241?at_medium=RSS&at_campaign=KARANGA">Iran building collapse: Protesters turn on government over disaster</a> BBC: Nightly protests continue as Iranians seethe, a week after the deadliest building collapse in years. 
  <p class="updated_time"> 04:23 AM CT, May. 31 </p> 
@@ -57,12 +61,8 @@ webappicon: /plots/news.png
  <a href="https://www.npr.org/2022/05/31/1102097064/canada-aims-to-cap-the-market-for-handguns-with-new-legislation">Canada aims to cap the market for handguns with new legislation</a> NPR: Canada's prime minister has introduced gun-control legislation that would freeze new handgun purchases, and introduce a mandatory buyback program for some assault-style weapons. 
  <p class="updated_time"> 04:01 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/kalush-orchestra-ukraine-auction.html">Kalush Orchestra, Eurovision Winner, Auctions Off Trophy to Aid Ukraine Army</a> NYT: Millions of people have viewed a video of the band Kalush Orchestra that was filmed in the rubble of Ukraine. Its members have urged fans to help the Ukrainian army. 
- <p class="updated_time"> 04:01 AM CT, May. 31 </p> 
- <a href="https://www.wsj.com/articles/two-russian-soldiers-convicted-in-second-ukrainian-war-crimes-trial-11654002069">Two Russian Soldiers Convicted in Second Ukrainian War-Crimes Trial</a> WSJ: The men were found guilty of firing rockets indiscriminately toward civilian areas in Ukraine’s second war crimes trial since Moscow’s attempt at a full-scale invasion began in February. 
  <p class="updated_time"> 04:00 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/our-readers-sent-updates-on-stories-that-have-resonated-with-many-of-you.html">Our readers sent updates on stories that have resonated with many of you.</a> NYT: More than 20,000 readers have written in to share their pandemic experiences. 
- <p class="updated_time"> 04:00 AM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/31/world/asia/ukrainians-donbas-russia-war.html">Some Ukrainians Stay Behind in Eastern Donbas Region</a> NYT: The Russian offensive grinds on, but not everyone is leaving the eastern Donbas region. 
  <p class="updated_time"> 03:52 AM CT, May. 31 </p> 
  <a href="https://www.nytimes.com/2022/05/31/world/asia/china-children-textbooks.html">China Orders Investigation Into  Children’s Textbooks</a> NYT: The discovery of what some viewed as disturbing illustrations in books for elementary school students set off a national furor. 
  <p class="updated_time"> 03:46 AM CT, May. 31 </p> 
@@ -73,6 +73,8 @@ webappicon: /plots/news.png
  <a href="https://www.wsj.com/articles/israel-u-a-e-sign-free-trade-agreement-11653985544">Israel, U.A.E. Sign Free-Trade Agreement</a> WSJ: Officials from both countries said the deal would boost business ties less than two years after they established formal diplomatic relations in a U.S.-brokered deal. 
  <p class="updated_time"> 02:05 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102095716/shanghai-eases-into-gradually-reopening-from-its-covid-19-lockdown">Shanghai eases into gradually reopening from its COVID-19 lockdown</a> NPR: China's largest city and global financial hub plans to restore mass transit and gradually reopen schools 
+ <p class="updated_time"> 02:03 AM CT, May. 31 </p> 
+ <a href="https://www.wsj.com/articles/eurozone-inflation-hits-fresh-high-as-more-energy-sanctions-loom-11653995000">Eurozone Inflation Hits Fresh Peak as More Energy Sanctions Loom</a> WSJ: Inflation in the bloc reached an annual 8.1% in May, underlining the costs to European households of Russia’s war in Ukraine. 
  <p class="updated_time"> 01:22 AM CT, May. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-61548615?at_medium=RSS&at_campaign=KARANGA">Sidhu Moose Wala: Controversial Indian rapper who made waves with his music</a> BBC: Shubhdeep Singh Sidhu, popularly known as Sidhu Moose Wala, was murdered in Punjab on Sunday. 
  <p class="updated_time"> 01:22 AM CT, May. 31 </p> 
@@ -122,7 +124,7 @@ webappicon: /plots/news.png
  <p class="updated_time"> 11:59 AM CT, May. 30 </p> 
  <a href="https://www.nytimes.com/2022/05/30/world/europe/french-journalist-killed-ukraine.html">French Journalist Killed by Shrapnel in Eastern Ukraine</a> NYT: “The newsroom is in mourning,” said a manager at the TV channel where the 32-year-old journalist worked. 
  <p class="updated_time"> 11:27 AM CT, May. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-61626912?at_medium=RSS&at_campaign=KARANGA">Death toll rises after Brazil landslides</a> BBC: Rescue efforts continue in the state of Pernambuco, with at least 79 people know to have died. 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-61626912?at_medium=RSS&at_campaign=KARANGA">Death toll rises after Brazil landslides</a> BBC: Rescue efforts continue in the state of Pernambuco, with at least 79 people are known to have died. 
  <p class="updated_time"> 11:18 AM CT, May. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-61634050?at_medium=RSS&at_campaign=KARANGA">'I watched from afar Russia’s latest merciless assault on Severodonetsk'</a> BBC: Quentin Sommerville describes relentless artillery bombardment in Donbas ahead of Russian forces entering Severodonetsk. 
  <p class="updated_time"> 10:38 AM CT, May. 30 </p> 
@@ -202,10 +204,10 @@ webappicon: /plots/news.png
 <details open>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:12 AM CT, May. 31 </p> 
+ <a href="https://www.nytimes.com/2022/05/31/us/politics/republicans-voter-fraud-claims-2022.html">They Insisted the 2020 Election Was Tainted. Their 2022 Primary Wins? Not So Much.</a> NYT: Republicans are accepting their primary victories with little concern about the voter fraud they once falsely claimed caused Donald J. Trump’s loss. 
  <p class="updated_time"> 09:34 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/sections/money/2022/05/31/1101774189/fear-the-vibe-shift-are-we-entering-a-recession">Fear The Vibe Shift: Are We Entering A Recession?</a> NPR: Despite low unemployment, solid spending, and continued job growth, signs are flashing that the U.S. economy is headed for another downturn. 
- <p class="updated_time"> 09:25 AM CT, May. 31 </p> 
- <a href="https://www.nytimes.com/2022/05/31/us/politics/republicans-voter-fraud-claims-2022.html">They Insisted the 2020 Election Was Tainted. Their 2022 Primary Wins? Not So Much.</a> NYT: Republicans are accepting their primary victories with little concern about the voter fraud they once falsely claimed caused Donald J. Trump’s loss. 
  <p class="updated_time"> 08:23 AM CT, May. 31 </p> 
  <a href="https://www.npr.org/2022/05/31/1102105392/australias-new-prime-minister-albanese-appoints-record-10-women-to-his-cabinet">Australia's new prime minister appoints a record 10 women to his Cabinet</a> NPR: Australia's new government will look more like its country, as Prime Minister Anthony Albanese has named 10 women to his incoming Cabinet. 
  <p class="updated_time"> 08:19 AM CT, May. 31 </p> 
